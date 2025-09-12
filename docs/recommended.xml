@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>My Tech Reco Feed</title>
+    <link>https://example.com</link>
+    <description>似ている新着だけを厳選</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Sep 2025 22:21:26 +0000</lastBuildDate>
+    <item>
+      <title>Python独走の影で「Perl」がちょっとずつランクを上げる理由　2025年9月版プログラミング言語人気ランキング</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2509/12/news023.html</link>
+      <description>Python独走の影で「Perl」がちょっとずつランクを上げる理由　2025年9月版プログラミング言語人気ランキング：C#とJavaScriptのレーティング差は拡大 プログラミング言語の人気ランキング「TIOBEインデックス」の2025年9月版が公開された。Pythonは首位をキープする一方、レーティングは下降を続けている。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2509/12/news023.html</guid>
+      <pubDate>Fri, 12 Sep 2025 05:49:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>「NotebookLM」が強力な学習ツールに ～暗記教材、理解度テストの生成にも対応／無償で始められるGoogleのAIノートサービス</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2046881.html</link>
+      <description> (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2046881.html</guid>
+      <pubDate>Fri, 12 Sep 2025 05:59:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>ベクトル検索だけじゃ足りない？Qdrantで精度を高めるハイブリッド検索 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
+      <link>https://tech-blog.rakus.co.jp/entry/20250912/hybrid-search-qdrant</link>
+      <description>はじめに こんにちは。メールディーラーAI開発課のmarronです。エンジニアブログ初投稿となります。よろしくお願いします。 私が所属しているメールディーラーAI開発課では、主にメールディーラーに搭載されるAI機能の開発を担当しています。 現在は10月にリリース予定の回答自動生成エージェントの開発を進めています。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech-blog.rakus.co.jp/entry/20250912/hybrid-search-qdrant</guid>
+      <pubDate>Fri, 12 Sep 2025 06:07:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Googleの画像生成AI「Nano-banana」をめちゃくちゃ活用できるプロンプトとサンプル画像実例まとめ</title>
+      <link>https://gigazine.net/news/20250912-nano-banana-prompt-example-matome/</link>
+      <description>Googleが2025年8月に公開した画像生成AI「Gemini 2.5 Flash Image(Nano Banana)」は、入力した画像の特徴を維持しながら編集することが得意で、無料ユーザーでも1日100枚まで画像を生成することが可能です。そんなNano Bananaで使えるプロンプトとその実例をまとめたGitHubのページが有志によって公開されていたので、い... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20250912-nano-banana-prompt-example-matome/</guid>
+      <pubDate>Fri, 12 Sep 2025 06:37:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude、プロジェクトごとに独立した記憶機能を提供</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2047035.html</link>
+      <description> (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2047035.html</guid>
+      <pubDate>Fri, 12 Sep 2025 06:38:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】AI企業に「使うなら払え」を突きつけろ — 新たな標準「RSL」がAIとWebの関係を大きく変える可能性</title>
+      <link>https://techfeed.io/entries/68c33f6a18f89a7761dbbd45?from=rss</link>
+      <description>9月11日、Ars Technicaが「Pay-per-output? AI firms blindsided by beefed up robots.txt instructions.」と題した記事を公開した。この記事では、AIによるコンテンツスクレイピングと著作権者への補償をめぐる新たな標準「Really Simple Licensing（RSL）」について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/68c33f6a18f89a7761dbbd45?from=rss</guid>
+      <pubDate>Thu, 11 Sep 2025 21:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】Bunのインストールはなぜnpmなどより圧倒的に速いのか？を解説したマニアックな記事が話題に</title>
+      <link>https://techfeed.io/entries/68c3442cd0e17253abf85b46?from=rss</link>
+      <description>9月11日、Bunが「Behind The Scenes of Bun Install」と題した記事を公開した。この記事では、bun install が既存のパッケージマネージャより著しく高速である理由――システムコール最小化、OSネイティブ機能の活用、バイナリ形式でのメタデータキャッシュ、解凍とファイルコピーの最適化、マルチコア並列実行――について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/68c3442cd0e17253abf85b46?from=rss</guid>
+      <pubDate>Thu, 11 Sep 2025 21:50:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 17の「メモリシールド」がスパイウェア戦争を終結させる？Appleの最強防壁「MIE」とは何か？ | XenoSpectrum</title>
+      <link>https://xenospectrum.com/iphone-17-memory-integrity-enforcement-mie-spyware/</link>
+      <description>Appleが発表したiPhone 17。その目玉は薄さやカメラ性能だけではなかった。基調講演では語られなかった新機能「Memory Integrity Enforcement (MIE)」こそ、スマートフォンの歴史を塗り替える可能性を秘めている。これは、国家レベルのスパイウェアさえ無力化しうる、まさに「鉄壁の盾」だ。果たして「ハッキング不可能... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://xenospectrum.com/iphone-17-memory-integrity-enforcement-mie-spyware/</guid>
+      <pubDate>Fri, 12 Sep 2025 07:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>国内証券口座のっとりによる不正取引についてまとめてみた - piyolog</title>
+      <link>https://piyolog.hatenadiary.jp/entry/2025/09/12/160227</link>
+      <description>2025年に入ってから日本の証券口座を狙ったインターネット取引サービスに対する不正アクセスや不正取引が急増しているとして、金融庁や日本証券協会は利用者に注意を呼び掛けています。ここでは関連する情報をまとめます。 2024年末から被害急増 国内の複数の証券会社で不正取引の被害が相次いでいる。これは、何者かが... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2025/09/12/160227</guid>
+      <pubDate>Fri, 12 Sep 2025 07:26:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>「更新してシャットダウン」→起きたら付いてるパソコン画面の流れにわかりみがありすぎる 「うちの子供くらい言うこと聞かない」</title>
+      <link>https://togetter.com/li/2601726</link>
+      <description>筒井.xls@エクセル関数擬人化本著者 @Tsutsui0524 Excelが好きな経理職、絵描きです エクセル関数の擬人化(#関数ちゃん )を発信しています！ 著書『関数ちゃんと学ぶエクセル仕事術(インプレス)』 (amzn.to/40xC3Uf) 関数ちゃんブログ (aka-aca.com) 関数ちゃんイラストは #関数ちゃんファンアート aka-aca.com (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2601726</guid>
+      <pubDate>Fri, 12 Sep 2025 07:38:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>マイクロソフトも週3出社に--なぜフルリモートでは駄目なのか　「データは明確」と同社</title>
+      <link>https://japan.cnet.com/article/35237947/</link>
+      <description>米マイクロソフトは9月9日（現地時間）、柔軟な働き方の指針を見直し、従業員に週3日の出社を求める新たな方針を示した。人事担当のエイミー・コールマン執行副社長が社員に通知し、公式ブログで公表した。 導入は段階的に進める。まずワシントン州の本社があるピュージェット湾地域で始め、同地域の拠点から50マイル（... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://japan.cnet.com/article/35237947/</guid>
+      <pubDate>Fri, 12 Sep 2025 08:25:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>プロキシ環境下におけるAzure DevOps ReposへのGit接続エラー「fatal: unable to access」の原因と対処法</title>
+      <link>https://qiita.com/abachan/items/2c7be86fb4e132598192?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+業務で利用するネットワーク、特にプロキシサーバーを経由する環境において、特定のツールが期待通りに動作しない問題に直面することがあります。
+Webブラウザからは問題なくAzure DevOpsのWebポータルにアクセスできるにもかかわらず、Visual Studi... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/abachan/items/2c7be86fb4e132598192?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 12 Sep 2025 09:02:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Tour Osakaで学んだこと、興味を持ってもらうには</title>
+      <link>https://qiita.com/seitsubo/items/ff32e66a97036e27c567?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+先日、AI Tour Osaka にインターン生として参加し、インフラブースでの対応と、Copilot in Azure のセッション発表を担当しました。
+研究室や学会での発表経験はありましたが、企業イベントでお客様に向けて直接説明するのは初めての経験。とても刺... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/seitsubo/items/ff32e66a97036e27c567?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 12 Sep 2025 09:06:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>高尾山に登ったら次は？行列分解で「登山レコメンド」を作る</title>
+      <link>https://qiita.com/y-tsukasa/items/d324056cf648d685de5f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+近年、多くのWebサービスやアプリでは、ユーザーごとにパーソナライズされた情報が当たり前のように表示されるようになりました。
+推薦システムは膨大なユーザー行動データやコンテンツ情報をもとに、それぞれのユーザーに最適なアイテムを提示する技術です。
+本記事では、その... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/y-tsukasa/items/d324056cf648d685de5f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 12 Sep 2025 02:59:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>DataRobot AIエージェントテンプレート入門：セットアップからデプロイまで</title>
+      <link>https://qiita.com/DataRobot_PR/items/01db78cd83e741507452?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>1. はじめに
+DataRobotユーザー会2025で発表された「AIエージェントテンプレート」の全体像について解説します。このテンプレートは、AIエージェント開発のハードルを大幅に下げ、開発者がより創造的なタスクに集中できる環境を提供します。今回は、GitHubリポジト... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/DataRobot_PR/items/01db78cd83e741507452?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 12 Sep 2025 00:59:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>省庁など運用の情報システム セキュリティー対策に不備 | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20250912/k10014921041000.html</link>
+      <description>国の省庁などが運用する情報システムのセキュリティー対策について、会計検査院が調査したところ、12の機関の58のシステムで、ソフトウエアが適切に更新されていないといった不備が見つかったことが分かりました。 会計検査院は、国の省庁と地方の出先機関合わせて40の機関が、2023年度までの3年間に整備や運用をおこな... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www3.nhk.or.jp/news/html/20250912/k10014921041000.html</guid>
+      <pubDate>Fri, 12 Sep 2025 10:31:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>「Apple Watch」の“高血圧通知”は血圧計にあらず　旧機種も一部対応する、その内容とは？</title>
+      <link>https://www.itmedia.co.jp/news/articles/2509/12/news117.html</link>
+      <description>米Appleが9月9日（現地時間）に発表した「Apple Watch Series 11」には、新たに「高血圧通知機能」が搭載された。日本のプレスリリースに記述がなく当面は使えそうにないが、実装されれば高血圧の早期治療に役立ちそうだ。 血圧というと、中国HUAWEIのスマートウォッチ「HUAWEI WATCH D2」やオムロン「HCR-6900T-M」のよ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2509/12/news117.html</guid>
+      <pubDate>Fri, 12 Sep 2025 11:12:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android⇔iPhoneの「eSIM移行」はもうすぐ実現？　Pixel 10に見た“予兆”</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2509/12/news114.html</link>
+      <description>Androidにおける「eSIM転送」 日本で販売されるiPhone 17シリーズが全てeSIMオンリーということで注目を集めているeSIMですが、Androidスマートフォンでも多くのモデルが対応しています。 比較的新しい機種では、通信事業者（キャリア）さえ対応していれば別機種にeSIMを転送したり既存のSIMカードをeSIMに移行（変更）... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2509/12/news114.html</guid>
+      <pubDate>Fri, 12 Sep 2025 11:16:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>生成AIアップデートまとめ（2025/9/1週）</title>
+      <link>https://qiita.com/kanako_kodera_16/items/1543dc81e85c18bb4009?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>週刊生成AI with AWS – 2025/9/1週
+
+AWS Transform アセスメントに分離ストレージが含まれるように
+AWSは「Transform Assessment」に新たな機能を追加し、オンプレミス環境にある切り離されたストレージ（Detached St... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/kanako_kodera_16/items/1543dc81e85c18bb4009?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 12 Sep 2025 11:28:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone miniを求める人の謎</title>
+      <link>https://anond.hatelabo.jp/20250912141742</link>
+      <description>iPhone miniを求める人ってみんな「大きいと片手で操作しづらい」と言うよね。 でも、スマホって実は「片手でホールドしてもう片方の手でタッチする」ものなんだ。 つまり両手操作が前提なんだよね。 スマホの広告とかも基本的にそういう描写で統一されているはず。 だからメーカー側には片手操作を前提にした設計にする... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://anond.hatelabo.jp/20250912141742</guid>
+      <pubDate>Fri, 12 Sep 2025 05:18:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIコードアシスタント徹底比較！Replit・Cursor・GitHub Copilotの違いと選び方【初心者〜実務で使える】</title>
+      <link>https://qiita.com/SunSunTech/items/91d06597a0bc4af72a5c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>無料のエンジニアコミュニティを運営しているのですが 「チャットGPTでコード書いたのですが全然うまく行きません」そんな声をよく耳にします。
+近年、AIを活用したプログラミングは急速に進化しています。単に「ChatGPTにコードを書かせる」だけの時代は終わり、専用のAIコード... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/SunSunTech/items/91d06597a0bc4af72a5c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 12 Sep 2025 12:43:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>ブルーインパルス、"廃食用油"原料の国産SAFで東京の空を飛ぶ</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2047178.html</link>
+      <description> (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2047178.html</guid>
+      <pubDate>Fri, 12 Sep 2025 12:57:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>dora-rs: これがAI時代のロボティクスミドルウェアだ！</title>
+      <link>https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b</link>
+      <description>こんにちは、渡辺貴史です。 最近西海岸ではdora-rsというミドルウェアが流行っていると聞き、早速すこし真面目に触ってみました。すでに2.5k starがついています。 さっそく、自分のロボットのシステムをdora-rsで換装して遊んでみました。 いいぞ！！！ と思った。もっと流行らせたいし育てたい。 ROSが「移動ロボット... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b</guid>
+      <pubDate>Fri, 12 Sep 2025 13:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【9月12日ランキング】【海外記事紹介】Apple、iPhone 17 / Air用の新たなセキュリティ機構「MIE」に関する詳細な情報を公開、大きな反響を呼ぶ／ほか19本</title>
+      <link>https://techfeed.io/categories/all/selections/daily/2025/9/12?from=rss</link>
+      <description>すべてカテゴリー 2025年9月12日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。 1位: 【海外記事紹介】Apple、iPhone 17 / Air用の新たなセキュリティ機構「MIE」に関する詳細な情報を公開、大きな反響を呼ぶ 2位: 2秒以内に商業レベルの高品質音楽を生成できる音楽生成AI「Stable Audio 2.5」（gigazine.net） 3位: じいちゃんの使ってた『iPhone5S』ちゅう電話機はそれはそれは美しくてな…「ジョブズが最後に関わったモデル」「このサイズで出して欲しい」（togetter.com） …ほか17本 ランキングはこちらから (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/categories/all/selections/daily/2025/9/12?from=rss</guid>
+      <pubDate>Fri, 12 Sep 2025 14:59:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AWS】Terraform で別のアカウントにサブドメインのパブリックホストゾーンを作成する</title>
+      <link>https://qiita.com/chiaoi/items/ef76418141b78ff7d435?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>Terraform を用いてほかのアカウントにあるドメインのサブドメイン用パブリックホストゾーンを作成する サンプルコード を作成しました。
+新しくパブリックホストゾーンを作成することで、自由度が上がります。特に ACM の発行やレコードの追加が assume role な... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/chiaoi/items/ef76418141b78ff7d435?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 12 Sep 2025 11:26:15 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
