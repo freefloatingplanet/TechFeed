@@ -69,11 +69,17 @@ def load_likes_csv(path):
         for i, line in enumerate(f):
             if i == 0 and line.lower().startswith("url,"):
                 continue
-            parts = line.strip().split(",", 1)
+            # split into three parts at most: url,title,summary
+            parts = line.strip().split(",", 2)
             if parts:
                 url = parts[0].strip()
                 title = parts[1].strip() if len(parts) > 1 else ""
-                likes.append({"url": url, "title": title})
+                summary = parts[2].strip() if len(parts) > 2 else ""
+                # If summary exists, merge it into title for matching convenience
+                combined = title
+                if summary:
+                    combined = (title + " - " + summary).strip()
+                likes.append({"url": url, "title": title, "combined": combined})
     return likes
 
 # ---------- fetch candidates ----------
@@ -112,7 +118,8 @@ def score_candidates(candidates, likes):
             c["score"] = recency_weight(c["published"], now)
         return candidates
 
-    liked_texts = [norm(x.get("title","")) for x in likes if x.get("title")]
+    # prefer combined (title + summary) if available
+    liked_texts = [norm(x.get("combined") or x.get("title") or "") for x in likes if (x.get("combined") or x.get("title"))]
     if not liked_texts:
         liked_texts = [x.get("url","") for x in likes]
 
