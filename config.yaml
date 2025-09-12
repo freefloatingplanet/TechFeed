@@ -1,0 +1,7 @@
+title: "My Tech Reco Feed"
+description: "似ている新着だけを厳選"
+site_url: "https://example.com"
+top_k: 25              # 毎回の上位件数
+half_life_days: 7      # 新しさの半減期（小さくすると新着を強く優遇）
+block_keywords: ["求人", "採用", "セール", "割引", "プログラミングスクール", "駆け出し"]
+min_title_len: 12

@@ -1,0 +1,26 @@
+name: Build Reco RSS
+
+on:
+  schedule:
+    - cron: "*/60 * * * *"   # 1時間ごと
+  workflow_dispatch: {}       # 手動実行も可能
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python recommend.py
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/recommended.xml
+          git commit -m "Update feed" || echo "No changes"
+          git push

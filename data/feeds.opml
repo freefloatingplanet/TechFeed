@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Programming" title="Programming">
+            <outline type="rss" text="Qiita - 人気の記事" title="Qiita - 人気の記事" xmlUrl="http://qiita.com/popular-items/feed" htmlUrl="https://qiita.com/popular-items"/>
+            <outline type="rss" text="Zennのトレンド" title="Zennのトレンド" xmlUrl="https://zenn.dev/feed" htmlUrl="https://zenn.dev"/>
+            <outline type="rss" text="TechFeedおすすめ記事ランキング - すべてカテゴリー" title="TechFeedおすすめ記事ランキング - すべてカテゴリー" xmlUrl="https://techfeed.io/feeds/categories/all" htmlUrl="http://techfeed.io/categories/all"/>
+            <outline type="rss" text="はてなブックマーク - 人気エントリー - テクノロジー" title="はてなブックマーク - 人気エントリー - テクノロジー" xmlUrl="http://b.hatena.ne.jp/hotentry/it.rss" htmlUrl="https://b.hatena.ne.jp/hotentry/it"/>
+            <outline type="rss" text="InfoQ - アーティクル" title="InfoQ - アーティクル" xmlUrl="https://www.infoq.com/jp/feed/articles" htmlUrl="https://www.infoq.com/jp"/>
+        </outline>
+    </body>
+</opml>
