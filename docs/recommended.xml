@@ -7,74 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Sep 2025 20:11:55 +0000</lastBuildDate>
-    <item>
-      <title>レノボの小型PC「ThinkCentre neo 50q Tiny Snapdragon」を試す　ArmアーキテクチャのデスクトップPCはアリ？</title>
-      <link>https://www.itmedia.co.jp/pcuser/articles/2509/12/news094.html</link>
-      <description>レノボの小型PC「ThinkCentre neo 50q Tiny Snapdragon」を試す　ArmアーキテクチャのデスクトップPCはアリ？（1/2 ページ） QualcommのSoC「Snapdragon Xシリーズ」を搭載するWindows PCは、デスクトップタイプにも広がりつつある。レノボ・ジャパンが6月5日に発売した「ThinkCentre neo 50q Tiny Snapdragon」は、その... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/pcuser/articles/2509/12/news094.html</guid>
-      <pubDate>Fri, 12 Sep 2025 08:15:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub - plutov/oq: Terminal OpenAPI Spec viewer</title>
-      <link>https://github.com/plutov/oq</link>
-      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://github.com/plutov/oq</guid>
-      <pubDate>Fri, 12 Sep 2025 16:01:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>tfaction を段階的に導入した</title>
-      <link>https://zenn.dev/socialplus/articles/769cab32c22e58</link>
-      <description>こんにちは、tsub です。2023 年 11 月から育休を取得していて今年の 5 月に復職しました。今回が Social PLUS Tech Blog への初投稿となります 😄
-この数ヶ月間、徐々に tfaction の導入を進めていました。元々 Terraform の CI/CD は GitHub Actions で自前のパイプラインを組んでいましたが、通常の開発タスクを優先しつつ隙間時間で CI/CD の改善を行っていたため、段階的に移行する形となりました。
-この記事では tfaction を導入した背景や、どのように導入を進めていったかについて説明したいと思います。
-
- tfac... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/socialplus/articles/769cab32c22e58</guid>
-      <pubDate>Fri, 12 Sep 2025 10:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>あれれ、Windows 10ユーザーが増えてる？ もしやWindows 11から出戻り…</title>
-      <link>https://www.gizmodo.jp/2025/09/windows-10-users-are-on-the-rise.html</link>
-      <description>あれれ、Windows 10ユーザーが増えてる？ もしやWindows 11から出戻り…2025.09.12 10:3021,328 湯木進悟 詳しい原因は不明だそうです…。 来月14日にサポート終了期限が迫ったWindows 10。着々とWindows 11への移行が進んでいるのかと思いきや、このほど PCMagは、まさかのWindows 10ユーザーが増加していると報じました... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.gizmodo.jp/2025/09/windows-10-users-are-on-the-rise.html</guid>
-      <pubDate>Fri, 12 Sep 2025 19:52:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【AWS】Terraform で別のアカウントにサブドメインのパブリックホストゾーンを作成する</title>
-      <link>https://qiita.com/chiaoi/items/ef76418141b78ff7d435?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>Terraform を用いてほかのアカウントにあるドメインのサブドメイン用パブリックホストゾーンを作成する サンプルコード を作成しました。
-新しくパブリックホストゾーンを作成することで、自由度が上がります。特に ACM の発行やレコードの追加が assume role な... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/chiaoi/items/ef76418141b78ff7d435?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 12 Sep 2025 11:26:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>新しいiPhoneを買った客が「データ移行に金がかかるなら自分でやる」って言うのでガイドブックを渡したら「元のiPhoneのデータ全部消えた！」と怒鳴り込んできた</title>
-      <link>https://togetter.com/li/2601971</link>
-      <description>罵詈言雑 @barigonzou 本当にあった怖い話 特にこれからiPhone17買う人には絶対覚えといて欲しい とある現場で 新しいiPhone買った客にデータ移行金かかりますって言ったら自分でやるって言うから データ移行のガイドブック？みたいなやつ (在庫無かったから)白黒コピーで印刷して渡したらしいんだけど そこまではいいと... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2601971</guid>
-      <pubDate>Fri, 12 Sep 2025 21:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TypeScriptの型推論でCLIバリデーションをなくせた話</title>
-      <link>https://zenn.dev/hongminhee/articles/27bce6eb777dea</link>
-      <description>CLIツールを作っていると、必ずと言っていいほど書くことになるバリデーションコード。TypeScriptの型推論を活用したら、このコードをほぼ不要にできたお話をします。 きっかけは、いろんなプロジェクトのコードを読んでいて気づいたことでした。どのCLIツールにも、似たようなバリデーションコードが含まれているんです... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/hongminhee/articles/27bce6eb777dea</guid>
-      <pubDate>Fri, 12 Sep 2025 22:06:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Sep 2025 20:42:13 +0000</lastBuildDate>
     <item>
       <title>AI嫌いの私を唸らせた「NotebookLM」2つの活用術 | ライフハッカー・ジャパン</title>
       <link>https://www.lifehacker.jp/article/2509-googles-notebooklm-introduces-quizzes-flashcards-tools/</link>
       <description>世の中のAIツールには、正直なところかなり懐疑的です。特に、インターネットで文章を書いて生計を立てている身としては、その多くにどうも及び腰になってしまいます。 しかし、そんな私がGoogleの「NotebookLM」には拍手を送らざるを得ません。これは、「倫理的」かつ「実用的」という私の基準をクリアした、数少ないお... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://www.lifehacker.jp/article/2509-googles-notebooklm-introduces-quizzes-flashcards-tools/</guid>
       <pubDate>Fri, 12 Sep 2025 11:55:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Key-Valueストア設計の設計パターン</title>
-      <link>https://qiita.com/sugiyama404/items/4e0d566ec729a2ef73da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>分散システムの心臓部とも言えるKey-Valueストアの設計において、適切なパターン選択はシステム全体のパフォーマンス、可用性、一貫性を左右する重要な要素です。本記事では、実際の負荷テスト結果に基づいて10の主要な設計パターンを詳細に分析し、各パターンの特性と適用場面を解説... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/sugiyama404/items/4e0d566ec729a2ef73da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 13 Sep 2025 00:46:16 +0000</pubDate>
     </item>
     <item>
       <title>SSH通信の仕組みと設定</title>
@@ -100,6 +39,23 @@
       <description>こんな増田を見かけた。 anond.hatelabo.jp iPhone miniを求める人ってみんな「大きいと片手で操作しづらい」と言うよね。 でも、スマホって実は「片手でホールドしてもう片方の手でタッチする」ものなんだ。 つまり両手操作が前提なんだよね。 スマホの広告とかも基本的にそういう描写で統一されているはず。 だからメ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://goldhead.hatenablog.com/entry/2025/09/12/173526</guid>
       <pubDate>Fri, 12 Sep 2025 20:52:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVEからCVSS、EPSS、KEVの掲載有無をサクッと取得するシェルスクリプト</title>
+      <link>https://qiita.com/t_nkgw/items/c27b223b8804013509b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>想定読者
+
+日々たくさんの脆弱性情報を確認しておられる情シスやセキュリティ担当の方々
+NVDやKEVのサイトを巡回することに飽き飽きされている方々
+
+スクリプト
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Usage:
+#   ./... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/t_nkgw/items/c27b223b8804013509b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 13 Sep 2025 04:13:34 +0000</pubDate>
     </item>
     <item>
       <title>日本語プログラミング言語Mindの小技 「論理演算」～AND(論理積) OR(論理和) XOR(排他的論理和) NOT(否定)～</title>
@@ -144,11 +100,33 @@ node.jsとnpmのインスト... (source: Qiita - 人気の記事)</description>
       <pubDate>Sat, 13 Sep 2025 06:15:27 +0000</pubDate>
     </item>
     <item>
-      <title>自然言語で CI/CD パイプラインを定義する Agentic Workflows</title>
-      <link>https://azukiazusa.dev/blog/natural-language-ci-cd-with-agentic-workflows/</link>
-      <description>Agentic Workflows は 2025 年 9 月現在研究目的のデモンストレーションとして提供されており、大幅に機能が変更される可能性があります。本番環境での使用は推奨されません。また自己責任で使用してください。 Agentic Workflows は自然言語で CI/CD パイプラインを定義できるツールとして GitHub Next が開発していま... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://azukiazusa.dev/blog/natural-language-ci-cd-with-agentic-workflows/</guid>
-      <pubDate>Sat, 13 Sep 2025 06:54:14 +0000</pubDate>
+      <title>「空列だらけの巨大テーブル、どう読む？」— Python In Excel or PowerQueryで“意味ある列”だけ抽出するには</title>
+      <link>https://qiita.com/madilloar/items/8d24d19a581ae33524f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>レガシーシステム刷新にあたり、業務パターンやユースケース毎に既存データがどのように埋まっているのか分析することがあります。
+メインフレーム等のレガシーシステムにありがちなのですが、全てのデータパターンに対応できるように、やたらと項目数の多いデータがあります。数千、数百はざら... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/madilloar/items/8d24d19a581ae33524f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 13 Sep 2025 06:47:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【C#】エクスプローラ操作の自動化例：リフレクションとShellでファイルを選択して起動</title>
+      <link>https://qiita.com/EndOfData/items/004872bd858f85465288?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>[C#] Example of Explorer Operation Automation: Selecting and Launching Files with Reflection and Shell
+枯れたおっさんはいつもC#しか書かない
+既出な気がするけど、Shel... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/EndOfData/items/004872bd858f85465288?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 13 Sep 2025 07:03:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>React学習ログ No.2</title>
+      <link>https://qiita.com/maedaHARUYA/items/fa9e209a202edd54f5dd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>コンポーネントの分割
+✅ ポイント
+1.コンポーネントは小さく分けて管理
+→ ファイルごとに分割すると見やすいし再利用しやすい
+2.export / importでつなぐ
+→ export default Child; → 他のファイルで import Child fro... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/maedaHARUYA/items/fa9e209a202edd54f5dd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 13 Sep 2025 07:41:12 +0000</pubDate>
     </item>
     <item>
       <title>あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映</title>
@@ -165,6 +143,27 @@ node.jsとnpmのインスト... (source: Qiita - 人気の記事)</description>
       <pubDate>Sat, 13 Sep 2025 08:40:44 +0000</pubDate>
     </item>
     <item>
+      <title>AI駆動の自動テストフレームワーク「AgentiTest」で始める次世代テスト自動化</title>
+      <link>https://qiita.com/rairaii/items/a37972388eac6a8d55b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+「テストコードが昨日まで動いていたのに、UIが少し変わっただけでテスト結果がすべて失敗してしまった（レポート画面が真っ赤になるほどに）…」
+こんな経験、ありませんか？
+Webアプリの自動テストは、本来なら変更検知と品質保証を助けてくれるはずなのに、実際には UI... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/rairaii/items/a37972388eac6a8d55b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 13 Sep 2025 09:05:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Swift] custom flagsを利用してスキーマ毎に英/日アプリをビルドするcustom flags active compilation conditions</title>
+      <link>https://qiita.com/Aruga0918/items/9170d82020e9b4fd1081?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>概要
+個人開発のAppで日本用（日本語）と海外用（英語）で分けてリリースしたかった。
+Geminiに
+Project &gt; Build Settings &gt; Swift Compiler -Custom Flags
+からスキーマ毎にコンパイルフラグを設定できると教えてもらっ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Aruga0918/items/9170d82020e9b4fd1081?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 13 Sep 2025 09:53:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Awesome-Nano-Banana-images/README_ja.md at main · PicoTrex/Awesome-Nano-Banana-images</title>
       <link>https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_ja.md</link>
       <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
@@ -179,11 +178,33 @@ node.jsとnpmのインスト... (source: Qiita - 人気の記事)</description>
       <pubDate>Sat, 13 Sep 2025 04:38:57 +0000</pubDate>
     </item>
     <item>
+      <title>コサイン類似度について改めて整理する</title>
+      <link>https://qiita.com/ryu-ki/items/d83545d022e1a273ae5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+生成AI（LLM）を用いたアプリケーション開発において、RAG（Retrieval-Augmented Generation）は今や欠かせない技術となっています。ChatGPTやClaudeなどのLLMに独自のデータを組み込む際、多くの開発者がRAGを選択肢とし... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/ryu-ki/items/d83545d022e1a273ae5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 13 Sep 2025 11:04:22 +0000</pubDate>
+    </item>
+    <item>
       <title>积至公司与MESA实验室：防火长城史上最大规模文件外泄分析</title>
       <link>https://gfw.report/blog/geedge_and_mesa_leak/zh/</link>
       <description>1. 引言 2025 年 9 月 11 日星期四，中国防火长城（GFW）经历了其历史上最大规模的内部文件泄露事件。超过 500 GB 的源代码、工作日志和内部通信记录被泄露，揭示了 GFW 的研发和运作细节。 此次泄露源自 GFW 背后的一支重要技术力量：积至（海南）信息技术有限公司（Geedge Networks Ltd.） 及中国科学院信息工程研究所... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://gfw.report/blog/geedge_and_mesa_leak/zh/</guid>
       <pubDate>Sat, 13 Sep 2025 11:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>東芝DynabookのUbuntu化</title>
+      <link>https://qiita.com/Genjo_IGeee/items/2e99ee759f9e25acbfce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>Windows11へアップデートできない2013年製東芝 DynabookをUbuntuにしました。
+作業中つまづいた箇所があったので備忘として残しておきます。
+
+環境
+
+システム製造元	TOSHIBA
+システムモデル	dynabook R732/F
+BIOS バージョン/... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Genjo_IGeee/items/2e99ee759f9e25acbfce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 13 Sep 2025 11:54:10 +0000</pubDate>
     </item>
     <item>
       <title>iPhone Air、もはやUSB-C端子はつかわない説</title>
@@ -205,6 +226,18 @@ node.jsとnpmのインスト... (source: Qiita - 人気の記事)</description>
       <description>Windows10のサポートは日本時間で2025年10月15日で終了となります。それよりあとはセキュリティ更新プログラムが配信されなくなります。しかし、延長サポートとなるESU (Extended Security Updates)に登録することで、個人ユーザーは追加で1年間、セキュリティ更新プログラムを受けられます。(つまり、サポート終了日以... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://www.nichepcgamer.com/archives/how-to-register-for-windows10-esu.html</guid>
       <pubDate>Sat, 13 Sep 2025 09:48:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>コンテキストエンジニアリングの源流へ、AIと心理学</title>
+      <link>https://qiita.com/makotosaekit/items/c4d37b91258ec44c0cbf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>AIの"知能"はどこから来たのか？
+
+我々が日常的に使うChatGPTや各種AI。
+その「知能」のルーツを辿ると、情報科学や数学だけでなく、全く別の学問――心理学に行き着きます。
+これは単なる豆知識ではありません。
+AIが「人間の知能」を模倣する以上、その設計思想の根底に... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/makotosaekit/items/c4d37b91258ec44c0cbf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 13 Sep 2025 18:03:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
