@@ -7,26 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Sep 2025 12:21:31 +0000</lastBuildDate>
-    <item>
-      <title>非エンジニアが、エンジニアから影響を受けた「活動負債」という概念</title>
-      <link>https://qiita.com/yatabekei/items/55d86e3da0ae2c66810c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-この記事は、ビジネス職の経験しかない非エンジニアが、エンジニアと一緒に働くなかで多大な影響を受けた、「活動負債」という考え方についてご紹介します（ほぼ受け売りです）。
-一個人としての経験ですが、私はこの概念に触れたことによって、エンジニアに開発などの相談をする際... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/yatabekei/items/55d86e3da0ae2c66810c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 12 Sep 2025 12:49:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【保存版】C#基礎100本ノック — GitHub Codespacesで学ぶC#</title>
-      <link>https://qiita.com/Sakai_path/items/2138c9cf6b0d4b9d124e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-C#の基礎文法を読むだけでなく手を動かして身につけるための100問の練習問題集を作ってみました。
-GitHub Codespacesを使用することで、環境構築不要でブラウザ上ですぐに学習を始められます。
-すごーく長いけど、100本を全てこの記事にまとめました！！... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Sakai_path/items/2138c9cf6b0d4b9d124e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 12 Sep 2025 13:28:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Sep 2025 13:16:03 +0000</lastBuildDate>
     <item>
       <title>「MCPはAPIではない」――Dockerが解説するAIエージェント開発のベストプラクティスとは</title>
       <link>https://atmarkit.itmedia.co.jp/ait/articles/2509/12/news032.html</link>
@@ -44,7 +25,7 @@ GitHub Codespacesを使用することで、環境構築不要でブラウザ上
     <item>
       <title>iPhone Airの恐ろしさは｢首から上が本体｣なところ。それ以外ほぼバッテリー</title>
       <link>https://www.gizmodo.jp/2025/09/iphoneair-battery.html</link>
-      <description>iPhone Airの恐ろしさは｢首から上が本体｣なところ。それ以外ほぼバッテリー2025.09.12 20:0052,424 小暮ひさのり SFで見たことあるやつ。 Apple（アップル）の超薄い新作iPhone｢iPhone Air｣。厚み5.6mm、僕の小指よりも遥かに薄い極薄さにもかかわらず、アップルのバッテリー駆動時間の公称値はビデオ再生で最大27時間。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <description>iPhone Airの恐ろしさは｢首から上が本体｣なところ。それ以外ほぼバッテリー2025.09.12 20:0057,224 小暮ひさのり SFで見たことあるやつ。 Apple（アップル）の超薄い新作iPhone｢iPhone Air｣。厚み5.6mm、僕の小指よりも遥かに薄い極薄さにもかかわらず、アップルのバッテリー駆動時間の公称値はビデオ再生で最大27時間。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://www.gizmodo.jp/2025/09/iphoneair-battery.html</guid>
       <pubDate>Fri, 12 Sep 2025 14:49:11 +0000</pubDate>
     </item>
@@ -61,6 +42,13 @@ GitHub Codespacesを使用することで、環境構築不要でブラウザ上
       <description>レノボの小型PC「ThinkCentre neo 50q Tiny Snapdragon」を試す　ArmアーキテクチャのデスクトップPCはアリ？（1/2 ページ） QualcommのSoC「Snapdragon Xシリーズ」を搭載するWindows PCは、デスクトップタイプにも広がりつつある。レノボ・ジャパンが6月5日に発売した「ThinkCentre neo 50q Tiny Snapdragon」は、その... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://www.itmedia.co.jp/pcuser/articles/2509/12/news094.html</guid>
       <pubDate>Fri, 12 Sep 2025 08:15:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub - plutov/oq: Terminal OpenAPI Spec viewer</title>
+      <link>https://github.com/plutov/oq</link>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://github.com/plutov/oq</guid>
+      <pubDate>Fri, 12 Sep 2025 16:01:03 +0000</pubDate>
     </item>
     <item>
       <title>遊舎工房が「TOKYO KEYBOARD EXPO」をやる理由</title>
@@ -196,6 +184,13 @@ Github Copilotの設定
 node.jsとnpmのインスト... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/hokutoh/items/eb9a351b89fbd0e40b82?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Sat, 13 Sep 2025 06:15:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>自然言語で CI/CD パイプラインを定義する Agentic Workflows</title>
+      <link>https://azukiazusa.dev/blog/natural-language-ci-cd-with-agentic-workflows/</link>
+      <description>Agentic Workflows は 2025 年 9 月現在研究目的のデモンストレーションとして提供されており、大幅に機能が変更される可能性があります。本番環境での使用は推奨されません。また自己責任で使用してください。 Agentic Workflows は自然言語で CI/CD パイプラインを定義できるツールとして GitHub Next が開発していま... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://azukiazusa.dev/blog/natural-language-ci-cd-with-agentic-workflows/</guid>
+      <pubDate>Sat, 13 Sep 2025 06:54:14 +0000</pubDate>
     </item>
     <item>
       <title>Appleのティム・クックCEOがiPhone Airのバッテリー寿命についてCorningのガラス工場で語る</title>
