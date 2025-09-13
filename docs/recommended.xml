@@ -7,93 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Sep 2025 07:10:52 +0000</lastBuildDate>
-    <item>
-      <title>【無料】Nano Bananaとは？3Dフィギュアの作り方や注意点を徹底解説【2025年最新】</title>
-      <link>https://jp.cyberlink.com/blog/videoeditor/4201/nano-banana-ai-image-generator-guide</link>
-      <description>AI画像生成の世界では、次々と新しいツールが登場しています。最近特に注目を集めているのが 「Nano Banana」です。SNSを中心に話題となり、海外のクリエイターも次々と作品をシェアしています。 「でも、他のAI画像生成とどう違うの？」「初心者でも本当に使えるの？」と疑問に思う方も多いはずです。 この記事では、Na... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://jp.cyberlink.com/blog/videoeditor/4201/nano-banana-ai-image-generator-guide</guid>
-      <pubDate>Thu, 11 Sep 2025 21:34:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>高尾山に登ったら次は？行列分解で「登山レコメンド」を作る</title>
-      <link>https://qiita.com/y-tsukasa/items/d324056cf648d685de5f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-近年、多くのWebサービスやアプリでは、ユーザーごとにパーソナライズされた情報が当たり前のように表示されるようになりました。
-推薦システムは膨大なユーザー行動データやコンテンツ情報をもとに、それぞれのユーザーに最適なアイテムを提示する技術です。
-本記事では、その... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/y-tsukasa/items/d324056cf648d685de5f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 12 Sep 2025 02:59:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>【決定版】TypeScriptのSQLタグ付きテンプレートリテラルで10種類のSQLiteドライバー全部試す</title>
-      <link>https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1</link>
-      <description>はじめに
-TypeScriptのSQLタグ付きテンプレートリテラルを数行で書けて超絶便利だったので、10種類のSQLiteドライバーで試した結果を紹介します。
-
- SQLタグ付きテンプレートリテラル
-今回の記事で何回も登場しますが、先にSQLタグ付きテンプレートリテラルだけ紹介します。
-type SqlBinding = null | number | string;
-
-type SqlQuery = {
-  query: string;
-  bindings: SqlBinding[];
-};
-
-function sql(strings: TemplateStringsArray,... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1</guid>
-      <pubDate>Fri, 12 Sep 2025 10:16:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>SceneDelegate対応した手順や参考にした情報</title>
-      <link>https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566</link>
-      <description>概要
-WWDC25のセッション動画 Make your UIKit app more flexible にて次のメジャーアップデート（つまりiOS27）にてSceneDelegate対応が必須になるため、先行して対応しました。
-「そもそも自分のアプリが対象なのかよくわからない」
-という人も多いのではと思ったので自分が対応した際に参考になった記事などを参考に、情報を整理しました。
-
- SceneDelegate対応の対象か
-とりあえず
-
-サポートバージョンが13.0以降
-UIKitがベース
-AppDelegateのみでSceneDelegateはない
-
-のであれば対象です。
-Swift... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566</guid>
-      <pubDate>Fri, 12 Sep 2025 10:20:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>DataRobot AIエージェントテンプレート入門：セットアップからデプロイまで</title>
-      <link>https://qiita.com/DataRobot_PR/items/01db78cd83e741507452?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>1. はじめに
-DataRobotユーザー会2025で発表された「AIエージェントテンプレート」の全体像について解説します。このテンプレートは、AIエージェント開発のハードルを大幅に下げ、開発者がより創造的なタスクに集中できる環境を提供します。今回は、GitHubリポジト... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/DataRobot_PR/items/01db78cd83e741507452?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 12 Sep 2025 00:59:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>「ぞうのあしあと」を開発しました</title>
-      <link>https://zenn.dev/nnishi425/articles/a0c39288049955</link>
-      <description>はじめに
-この度、ファントフット株式会社様の「ぞうのあしあと」を(受託)開発しました。
-https://zounoashiato.phantfoot.co.jp
-「ぞうのあしあと」とは、児童発達支援・放課後等デイサービスを探す保護者と福祉施設をマッチングするプラットフォームです。
-従来の保護者側からの一方的な問い合わせだけでなく、施設側からお子さんの条件に合った施設が「スカウト」を送る仕組みで、より効率的なマッチングを実現しています。
-保護者は会員登録後、お子さんの情報を入力するだけで、条件に合った福祉施設からスカウトが届きます。これにより、何十件も問い合わせをして断られることや、施... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nnishi425/articles/a0c39288049955</guid>
-      <pubDate>Fri, 12 Sep 2025 10:52:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>生成AIアップデートまとめ（2025/9/1週）</title>
-      <link>https://qiita.com/kanako_kodera_16/items/1543dc81e85c18bb4009?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>週刊生成AI with AWS – 2025/9/1週
-
-AWS Transform アセスメントに分離ストレージが含まれるように
-AWSは「Transform Assessment」に新たな機能を追加し、オンプレミス環境にある切り離されたストレージ（Detached St... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/kanako_kodera_16/items/1543dc81e85c18bb4009?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 12 Sep 2025 11:28:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Sep 2025 08:14:44 +0000</lastBuildDate>
     <item>
       <title>dora-rs: これがAI時代のロボティクスミドルウェアだ！</title>
       <link>https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b</link>
@@ -122,11 +36,13 @@ ROSが「移動ロボットの(アルゴリズムベースの)スタンダード
       <pubDate>Fri, 12 Sep 2025 12:43:10 +0000</pubDate>
     </item>
     <item>
-      <title>ブルーインパルス、"廃食用油"原料の国産SAFで東京の空を飛ぶ</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2047178.html</link>
-      <description> (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2047178.html</guid>
-      <pubDate>Fri, 12 Sep 2025 12:57:58 +0000</pubDate>
+      <title>非エンジニアが、エンジニアから影響を受けた「活動負債」という概念</title>
+      <link>https://qiita.com/yatabekei/items/55d86e3da0ae2c66810c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+この記事は、ビジネス職の経験しかない非エンジニアが、エンジニアと一緒に働くなかで多大な影響を受けた、「活動負債」という考え方についてご紹介します（ほぼ受け売りです）。
+一個人としての経験ですが、私はこの概念に触れたことによって、エンジニアに開発などの相談をする際... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/yatabekei/items/55d86e3da0ae2c66810c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 12 Sep 2025 12:49:07 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code 探訪: Opus と Sonnet を使い比べて気がついたこととその違い</title>
@@ -134,6 +50,16 @@ ROSが「移動ロボットの(アルゴリズムベースの)スタンダード
       <description>■ はじめに 弊社でも Claude Code の活用を進めています。 この記事では、実際に業務の中で Claude Code の Opus と Sonnet を1週間ずつ使い比べた結果を元に、 どんな違いがあるか 分かったこと なぜその差が発生しているのか考えたこと についてお話しします。 ■ わたしがやりました (Generated by Gemini 2.5) 8月中... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://zenn.dev/readyfor_blog/articles/11d4e6b6129428</guid>
       <pubDate>Fri, 12 Sep 2025 03:47:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>【保存版】C#基礎100本ノック — GitHub Codespacesで学ぶC#</title>
+      <link>https://qiita.com/Sakai_path/items/2138c9cf6b0d4b9d124e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+C#の基礎文法を読むだけでなく手を動かして身につけるための100問の練習問題集を作ってみました。
+GitHub Codespacesを使用することで、環境構築不要でブラウザ上ですぐに学習を始められます。
+すごーく長いけど、100本を全てこの記事にまとめました！！... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Sakai_path/items/2138c9cf6b0d4b9d124e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 12 Sep 2025 13:28:49 +0000</pubDate>
     </item>
     <item>
       <title>「MCPはAPIではない」――Dockerが解説するAIエージェント開発のベストプラクティスとは</title>
@@ -155,6 +81,13 @@ ROSが「移動ロボットの(アルゴリズムベースの)スタンダード
       <description>任天堂は9月12日、ゲーム機「バーチャルボーイ」の復刻を発表した。ゲーム機「Nintendo Switch」や「Nintendo Switch 2」と組み合わせて使える形で当時のハードウェアを復刻。同日に予約販売を開始した。ゲームは2026年2月17日から、オンラインサービス「Nintendo Switch Online」の「追加パック」ユーザー向けに提供す... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2509/12/news120.html</guid>
       <pubDate>Fri, 12 Sep 2025 14:37:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone Airの恐ろしさは｢首から上が本体｣なところ。それ以外ほぼバッテリー</title>
+      <link>https://www.gizmodo.jp/2025/09/iphoneair-battery.html</link>
+      <description>iPhone Airの恐ろしさは｢首から上が本体｣なところ。それ以外ほぼバッテリー2025.09.12 20:0040,801 小暮ひさのり SFで見たことあるやつ。 Apple（アップル）の超薄い新作iPhone｢iPhone Air｣。厚み5.6mm、僕の小指よりも遥かに薄い極薄さにもかかわらず、アップルのバッテリー駆動時間の公称値はビデオ再生で最大27時間。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.gizmodo.jp/2025/09/iphoneair-battery.html</guid>
+      <pubDate>Fri, 12 Sep 2025 14:49:11 +0000</pubDate>
     </item>
     <item>
       <title>【9月12日ランキング】【海外記事紹介】Apple、iPhone 17 / Air用の新たなセキュリティ機構「MIE」に関する詳細な情報を公開、大きな反響を呼ぶ／ほか19本</title>
@@ -204,11 +137,36 @@ ROSが「移動ロボットの(アルゴリズムベースの)スタンダード
       <pubDate>Fri, 12 Sep 2025 21:07:00 +0000</pubDate>
     </item>
     <item>
+      <title>TypeScriptの型推論でCLIバリデーションをなくせた話</title>
+      <link>https://zenn.dev/hongminhee/articles/27bce6eb777dea</link>
+      <description>CLIツールを作っていると、必ずと言っていいほど書くことになるバリデーションコード。TypeScriptの型推論を活用したら、このコードをほぼ不要にできたお話をします。 きっかけは、いろんなプロジェクトのコードを読んでいて気づいたことでした。どのCLIツールにも、似たようなバリデーションコードが含まれているんです... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/hongminhee/articles/27bce6eb777dea</guid>
+      <pubDate>Fri, 12 Sep 2025 22:06:58 +0000</pubDate>
+    </item>
+    <item>
       <title>AI嫌いの私を唸らせた「NotebookLM」2つの活用術 | ライフハッカー・ジャパン</title>
       <link>https://www.lifehacker.jp/article/2509-googles-notebooklm-introduces-quizzes-flashcards-tools/</link>
       <description>世の中のAIツールには、正直なところかなり懐疑的です。特に、インターネットで文章を書いて生計を立てている身としては、その多くにどうも及び腰になってしまいます。 しかし、そんな私がGoogleの「NotebookLM」には拍手を送らざるを得ません。これは、「倫理的」かつ「実用的」という私の基準をクリアした、数少ないお... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://www.lifehacker.jp/article/2509-googles-notebooklm-introduces-quizzes-flashcards-tools/</guid>
       <pubDate>Fri, 12 Sep 2025 11:55:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>SSH通信の仕組みと設定</title>
+      <link>https://qiita.com/whoami_priv/items/9f165f8dfd95edb169b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>1. はじめに
+この記事では、エンジニアなら毎日使っていると言っても過言ではない「SSH」が、なぜ安全なのか、その通信の裏側をステップごとに分かりやすく解説していこうと思います。
+
+2. SSH接続の全体像
+まずは、SSH接続が確立されるまでの全体の流れを見てみましょう。... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/whoami_priv/items/9f165f8dfd95edb169b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 12 Sep 2025 15:51:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Key-Valueストア設計の設計パターン</title>
+      <link>https://qiita.com/sugiyama404/items/4e0d566ec729a2ef73da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>分散システムの心臓部とも言えるKey-Valueストアの設計において、適切なパターン選択はシステム全体のパフォーマンス、可用性、一貫性を左右する重要な要素です。本記事では、実際の負荷テスト結果に基づいて10の主要な設計パターンを詳細に分析し、各パターンの特性と適用場面を解説... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/sugiyama404/items/4e0d566ec729a2ef73da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 13 Sep 2025 00:46:16 +0000</pubDate>
     </item>
     <item>
       <title>スマホの両手操作は中高年しぐさなのか問題 - 関内関外日記</title>
@@ -223,6 +181,34 @@ ROSが「移動ロボットの(アルゴリズムベースの)スタンダード
       <description>コミュニティ主体の技術カンファレンスをいくつかオーガナイズしてきた立場の人として、プロポーザルの採択に関わることがこれまで何度かありました。 何度か繰り返していくうちに、自分はこういうことを考えて採択するか決めているな〜というのが年々言語化できつつあるので、そろそろ頭のなかをdumpしてみようかという... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://techblog.karupas.org/entry/2025/09/13/125825</guid>
       <pubDate>Sat, 13 Sep 2025 04:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>日本語プログラミング言語Mindの小技 「論理演算」～AND(論理積) OR(論理和) XOR(排他的論理和) NOT(否定)～</title>
+      <link>https://qiita.com/mylifewithviolin/items/2a4c1b4c0b07be0aaac8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+日本語プログラミング言語Mindの小技「論理演算」について説明したいと思います。
+
+対象読者
+日本語プログラミング言語Mindのユーザー、または日本語プログラミング言語に興味のある方
+
+この小技に関連するMind言語マニュアル
+この小技に関連するMind言語仕様... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/mylifewithviolin/items/2a4c1b4c0b07be0aaac8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 13 Sep 2025 05:09:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>github copilot agentで自動ブラウザテストができるようにする(初心者向けVer)</title>
+      <link>https://qiita.com/hokutoh/items/eb9a351b89fbd0e40b82?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>他にもいろいろ記事はありますが、setting.json/mcp.jsonを修正する方法かと思います。
+現在はGUIで設定が完結するのでその方法を記載しておきます。
+
+事前準備
+
+VSCodeインストール
+Github Copilotの設定
+node.jsとnpmのインスト... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/hokutoh/items/eb9a351b89fbd0e40b82?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 13 Sep 2025 06:15:27 +0000</pubDate>
     </item>
     <item>
       <title>Intel、5年前のCPUを「新製品」として発売の謎。Core i5-110はなぜ市場に困惑を広げるのか？ | XenoSpectrum</title>
