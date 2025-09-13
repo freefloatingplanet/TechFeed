@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Sep 2025 23:11:10 +0000</lastBuildDate>
-    <item>
-      <title>Googleの画像生成AI「Nano-banana」をめちゃくちゃ活用できるプロンプトとサンプル画像実例まとめ</title>
-      <link>https://gigazine.net/news/20250912-nano-banana-prompt-example-matome/</link>
-      <description>Googleが2025年8月に公開した画像生成AI「Gemini 2.5 Flash Image(Nano Banana)」は、入力した画像の特徴を維持しながら編集することが得意で、無料ユーザーでも1日100枚まで画像を生成することが可能です。そんなNano Bananaで使えるプロンプトとその実例をまとめたGitHubのページが有志によって公開されていたので、い... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20250912-nano-banana-prompt-example-matome/</guid>
-      <pubDate>Fri, 12 Sep 2025 06:37:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Sep 2025 00:54:01 +0000</lastBuildDate>
     <item>
       <title>Claude、プロジェクトごとに独立した記憶機能を提供</title>
       <link>https://www.watch.impress.co.jp/docs/news/2047035.html</link>
@@ -173,6 +166,13 @@ AWSは「Transform Assessment」に新たな機能を追加し、オンプレミ
       <description>すべてカテゴリー 2025年9月12日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。 1位: 【海外記事紹介】Apple、iPhone 17 / Air用の新たなセキュリティ機構「MIE」に関する詳細な情報を公開、大きな反響を呼ぶ 2位: 2秒以内に商業レベルの高品質音楽を生成できる音楽生成AI「Stable Audio 2.5」（gigazine.net） 3位: じいちゃんの使ってた『iPhone5S』ちゅう電話機はそれはそれは美しくてな…「ジョブズが最後に関わったモデル」「このサイズで出して欲しい」（togetter.com） …ほか17本 ランキングはこちらから (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/categories/all/selections/daily/2025/9/12?from=rss</guid>
       <pubDate>Fri, 12 Sep 2025 14:59:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>遊舎工房が「TOKYO KEYBOARD EXPO」をやる理由</title>
+      <link>https://shop.yushakobo.jp/blogs/staff-blog/tkx25</link>
+      <description>こんにちは。はじめまして。 遊舎工房 でイベント企画をしているイマムラです。 遊舎工房は9月23日に秋葉原でTOKYO KEYBOARD EXPOという、遊舎工房にとってなかなかに大きいイベントをやる予定です。 イベントまで10日と迫った現在、イベント担当の私は準備に追われているのですが、気晴らしに表題のテーマについて書か... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://shop.yushakobo.jp/blogs/staff-blog/tkx25</guid>
+      <pubDate>Fri, 12 Sep 2025 16:18:19 +0000</pubDate>
     </item>
     <item>
       <title>「Aurora DSQLはサーバーレスアーキテクチャの常識を変えるのか」というタイトルでDevelopersIO 2025 Osakaに登壇しました #devio2025 | DevelopersIO</title>
