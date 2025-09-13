@@ -7,72 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Sep 2025 03:16:23 +0000</lastBuildDate>
-    <item>
-      <title>Googleの画像生成AI「Nano-banana」をめちゃくちゃ活用できるプロンプトとサンプル画像実例まとめ</title>
-      <link>https://gigazine.net/news/20250912-nano-banana-prompt-example-matome/</link>
-      <description>Googleが2025年8月に公開した画像生成AI「Gemini 2.5 Flash Image(Nano Banana)」は、入力した画像の特徴を維持しながら編集することが得意で、無料ユーザーでも1日100枚まで画像を生成することが可能です。そんなNano Bananaで使えるプロンプトとその実例をまとめたGitHubのページが有志によって公開されていたので、い... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20250912-nano-banana-prompt-example-matome/</guid>
-      <pubDate>Fri, 12 Sep 2025 06:37:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】AI企業に「使うなら払え」を突きつけろ — 新たな標準「RSL」がAIとWebの関係を大きく変える可能性</title>
-      <link>https://techfeed.io/entries/68c33f6a18f89a7761dbbd45?from=rss</link>
-      <description>9月11日、Ars Technicaが「Pay-per-output? AI firms blindsided by beefed up robots.txt instructions.」と題した記事を公開した。この記事では、AIによるコンテンツスクレイピングと著作権者への補償をめぐる新たな標準「Really Simple Licensing（RSL）」について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68c33f6a18f89a7761dbbd45?from=rss</guid>
-      <pubDate>Thu, 11 Sep 2025 21:30:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>iPhone 17の「メモリシールド」がスパイウェア戦争を終結させる？Appleの最強防壁「MIE」とは何か？ | XenoSpectrum</title>
-      <link>https://xenospectrum.com/iphone-17-memory-integrity-enforcement-mie-spyware/</link>
-      <description>Appleが発表したiPhone 17。その目玉は薄さやカメラ性能だけではなかった。基調講演では語られなかった新機能「Memory Integrity Enforcement (MIE)」こそ、スマートフォンの歴史を塗り替える可能性を秘めている。これは、国家レベルのスパイウェアさえ無力化しうる、まさに「鉄壁の盾」だ。果たして「ハッキング不可能... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://xenospectrum.com/iphone-17-memory-integrity-enforcement-mie-spyware/</guid>
-      <pubDate>Fri, 12 Sep 2025 07:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】Bunのインストールはなぜnpmなどより圧倒的に速いのか？を解説したマニアックな記事が話題に</title>
-      <link>https://techfeed.io/entries/68c3442cd0e17253abf85b46?from=rss</link>
-      <description>9月11日、Bunが「Behind The Scenes of Bun Install」と題した記事を公開した。この記事では、bun install が既存のパッケージマネージャより著しく高速である理由――システムコール最小化、OSネイティブ機能の活用、バイナリ形式でのメタデータキャッシュ、解凍とファイルコピーの最適化、マルチコア並列実行――について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68c3442cd0e17253abf85b46?from=rss</guid>
-      <pubDate>Thu, 11 Sep 2025 21:50:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>国内証券口座のっとりによる不正取引についてまとめてみた - piyolog</title>
-      <link>https://piyolog.hatenadiary.jp/entry/2025/09/12/160227</link>
-      <description>2025年に入ってから日本の証券口座を狙ったインターネット取引サービスに対する不正アクセスや不正取引が急増しているとして、金融庁や日本証券協会は利用者に注意を呼び掛けています。ここでは関連する情報をまとめます。 2024年末から被害急増 国内の複数の証券会社で不正取引の被害が相次いでいる。これは、何者かが... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2025/09/12/160227</guid>
-      <pubDate>Fri, 12 Sep 2025 07:26:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>10代の検索は「ヤフーよりChatGPT」　サイバーエージェント調査</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2047042.html</link>
-      <description> (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2047042.html</guid>
-      <pubDate>Fri, 12 Sep 2025 07:32:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>「更新してシャットダウン」→起きたら付いてるパソコン画面の流れにわかりみがありすぎる 「うちの子供くらい言うこと聞かない」</title>
-      <link>https://togetter.com/li/2601726</link>
-      <description>筒井.xls@エクセル関数擬人化本著者 @Tsutsui0524 Excelが好きな経理職、絵描きです エクセル関数の擬人化(#関数ちゃん )を発信しています！ 著書『関数ちゃんと学ぶエクセル仕事術(インプレス)』 (amzn.to/40xC3Uf) 関数ちゃんブログ (aka-aca.com) 関数ちゃんイラストは #関数ちゃんファンアート aka-aca.com (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2601726</guid>
-      <pubDate>Fri, 12 Sep 2025 07:38:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>マイクロソフトも週3出社に--なぜフルリモートでは駄目なのか　「データは明確」と同社</title>
-      <link>https://japan.cnet.com/article/35237947/</link>
-      <description>米マイクロソフトは9月9日（現地時間）、柔軟な働き方の指針を見直し、従業員に週3日の出社を求める新たな方針を示した。人事担当のエイミー・コールマン執行副社長が社員に通知し、公式ブログで公表した。 導入は段階的に進める。まずワシントン州の本社があるピュージェット湾地域で始め、同地域の拠点から50マイル（... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://japan.cnet.com/article/35237947/</guid>
-      <pubDate>Fri, 12 Sep 2025 08:25:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>プロキシ環境下におけるAzure DevOps ReposへのGit接続エラー「fatal: unable to access」の原因と対処法</title>
-      <link>https://qiita.com/abachan/items/2c7be86fb4e132598192?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-業務で利用するネットワーク、特にプロキシサーバーを経由する環境において、特定のツールが期待通りに動作しない問題に直面することがあります。
-Webブラウザからは問題なくAzure DevOpsのWebポータルにアクセスできるにもかかわらず、Visual Studi... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/abachan/items/2c7be86fb4e132598192?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 12 Sep 2025 09:02:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Sep 2025 04:14:23 +0000</lastBuildDate>
     <item>
       <title>AI Tour Osakaで学んだこと、興味を持ってもらうには</title>
       <link>https://qiita.com/seitsubo/items/ff32e66a97036e27c567?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -81,6 +16,13 @@ Webブラウザからは問題なくAzure DevOpsのWebポータルにアクセ�
 研究室や学会での発表経験はありましたが、企業イベントでお客様に向けて直接説明するのは初めての経験。とても刺... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/seitsubo/items/ff32e66a97036e27c567?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Fri, 12 Sep 2025 09:06:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>【無料】Nano Bananaとは？3Dフィギュアの作り方や注意点を徹底解説【2025年最新】</title>
+      <link>https://jp.cyberlink.com/blog/videoeditor/4201/nano-banana-ai-image-generator-guide</link>
+      <description>AI画像生成の世界では、次々と新しいツールが登場しています。最近特に注目を集めているのが 「Nano Banana」です。SNSを中心に話題となり、海外のクリエイターも次々と作品をシェアしています。 「でも、他のAI画像生成とどう違うの？」「初心者でも本当に使えるの？」と疑問に思う方も多いはずです。 この記事では、Na... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://jp.cyberlink.com/blog/videoeditor/4201/nano-banana-ai-image-generator-guide</guid>
+      <pubDate>Thu, 11 Sep 2025 21:34:45 +0000</pubDate>
     </item>
     <item>
       <title>高尾山に登ったら次は？行列分解で「登山レコメンド」を作る</title>
@@ -93,12 +35,63 @@ Webブラウザからは問題なくAzure DevOpsのWebポータルにアクセ�
       <pubDate>Fri, 12 Sep 2025 02:59:17 +0000</pubDate>
     </item>
     <item>
+      <title>【決定版】TypeScriptのSQLタグ付きテンプレートリテラルで10種類のSQLiteドライバー全部試す</title>
+      <link>https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1</link>
+      <description>はじめに
+TypeScriptのSQLタグ付きテンプレートリテラルを数行で書けて超絶便利だったので、10種類のSQLiteドライバーで試した結果を紹介します。
+
+ SQLタグ付きテンプレートリテラル
+今回の記事で何回も登場しますが、先にSQLタグ付きテンプレートリテラルだけ紹介します。
+type SqlBinding = null | number | string;
+
+type SqlQuery = {
+  query: string;
+  bindings: SqlBinding[];
+};
+
+function sql(strings: TemplateStringsArray,... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1</guid>
+      <pubDate>Fri, 12 Sep 2025 10:16:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>SceneDelegate対応した手順や参考にした情報</title>
+      <link>https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566</link>
+      <description>概要
+WWDC25のセッション動画 Make your UIKit app more flexible にて次のメジャーアップデート（つまりiOS27）にてSceneDelegate対応が必須になるため、先行して対応しました。
+「そもそも自分のアプリが対象なのかよくわからない」
+という人も多いのではと思ったので自分が対応した際に参考になった記事などを参考に、情報を整理しました。
+
+ SceneDelegate対応の対象か
+とりあえず
+
+サポートバージョンが13.0以降
+UIKitがベース
+AppDelegateのみでSceneDelegateはない
+
+のであれば対象です。
+Swift... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566</guid>
+      <pubDate>Fri, 12 Sep 2025 10:20:20 +0000</pubDate>
+    </item>
+    <item>
       <title>DataRobot AIエージェントテンプレート入門：セットアップからデプロイまで</title>
       <link>https://qiita.com/DataRobot_PR/items/01db78cd83e741507452?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>1. はじめに
 DataRobotユーザー会2025で発表された「AIエージェントテンプレート」の全体像について解説します。このテンプレートは、AIエージェント開発のハードルを大幅に下げ、開発者がより創造的なタスクに集中できる環境を提供します。今回は、GitHubリポジト... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/DataRobot_PR/items/01db78cd83e741507452?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Fri, 12 Sep 2025 00:59:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>「ぞうのあしあと」を開発しました</title>
+      <link>https://zenn.dev/nnishi425/articles/a0c39288049955</link>
+      <description>はじめに
+この度、ファントフット株式会社様の「ぞうのあしあと」を(受託)開発しました。
+https://zounoashiato.phantfoot.co.jp
+「ぞうのあしあと」とは、児童発達支援・放課後等デイサービスを探す保護者と福祉施設をマッチングするプラットフォームです。
+従来の保護者側からの一方的な問い合わせだけでなく、施設側からお子さんの条件に合った施設が「スカウト」を送る仕組みで、より効率的なマッチングを実現しています。
+保護者は会員登録後、お子さんの情報を入力するだけで、条件に合った福祉施設からスカウトが届きます。これにより、何十件も問い合わせをして断られることや、施... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nnishi425/articles/a0c39288049955</guid>
+      <pubDate>Fri, 12 Sep 2025 10:52:02 +0000</pubDate>
     </item>
     <item>
       <title>「Apple Watch」の“高血圧通知”は血圧計にあらず　旧機種も一部対応する、その内容とは？</title>
@@ -161,6 +154,20 @@ AWSは「Transform Assessment」に新たな機能を追加し、オンプレミ
       <pubDate>Fri, 12 Sep 2025 13:00:59 +0000</pubDate>
     </item>
     <item>
+      <title>The second wave of MCP: Building for LLMs, not developers - Vercel</title>
+      <link>https://vercel.com/blog/the-second-wave-of-mcp-building-for-llms-not-developers</link>
+      <description>When the MCP standard first launched, many teams rushed to ship something. Many servers ended up as thin wrappers around existing APIs with minimal changes. A quick way to say "we support MCP". At the time, this made sense. MCP was new, teams wanted to get something out quickly, and the obvious a... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://vercel.com/blog/the-second-wave-of-mcp-building-for-llms-not-developers</guid>
+      <pubDate>Fri, 12 Sep 2025 14:15:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>「バーチャルボーイ」復刻　SwitchやSwitch 2と合体　ゲーム15種提供</title>
+      <link>https://www.itmedia.co.jp/news/articles/2509/12/news120.html</link>
+      <description>任天堂は9月12日、ゲーム機「バーチャルボーイ」の復刻を発表した。ゲーム機「Nintendo Switch」や「Nintendo Switch 2」と組み合わせて使える形で当時のハードウェアを復刻。同日に予約販売を開始した。ゲームは2026年2月17日から、オンラインサービス「Nintendo Switch Online」の「追加パック」ユーザー向けに提供す... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2509/12/news120.html</guid>
+      <pubDate>Fri, 12 Sep 2025 14:37:59 +0000</pubDate>
+    </item>
+    <item>
       <title>【9月12日ランキング】【海外記事紹介】Apple、iPhone 17 / Air用の新たなセキュリティ機構「MIE」に関する詳細な情報を公開、大きな反響を呼ぶ／ほか19本</title>
       <link>https://techfeed.io/categories/all/selections/daily/2025/9/12?from=rss</link>
       <description>すべてカテゴリー 2025年9月12日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。 1位: 【海外記事紹介】Apple、iPhone 17 / Air用の新たなセキュリティ機構「MIE」に関する詳細な情報を公開、大きな反響を呼ぶ 2位: 2秒以内に商業レベルの高品質音楽を生成できる音楽生成AI「Stable Audio 2.5」（gigazine.net） 3位: じいちゃんの使ってた『iPhone5S』ちゅう電話機はそれはそれは美しくてな…「ジョブズが最後に関わったモデル」「このサイズで出して欲しい」（togetter.com） …ほか17本 ランキングはこちらから (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
@@ -182,6 +189,17 @@ AWSは「Transform Assessment」に新たな機能を追加し、オンプレミ
       <pubDate>Fri, 12 Sep 2025 17:32:33 +0000</pubDate>
     </item>
     <item>
+      <title>tfaction を段階的に導入した</title>
+      <link>https://zenn.dev/socialplus/articles/769cab32c22e58</link>
+      <description>こんにちは、tsub です。2023 年 11 月から育休を取得していて今年の 5 月に復職しました。今回が Social PLUS Tech Blog への初投稿となります 😄
+この数ヶ月間、徐々に tfaction の導入を進めていました。元々 Terraform の CI/CD は GitHub Actions で自前のパイプラインを組んでいましたが、通常の開発タスクを優先しつつ隙間時間で CI/CD の改善を行っていたため、段階的に移行する形となりました。
+この記事では tfaction を導入した背景や、どのように導入を進めていったかについて説明したいと思います。
+
+ tfac... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/socialplus/articles/769cab32c22e58</guid>
+      <pubDate>Fri, 12 Sep 2025 10:00:01 +0000</pubDate>
+    </item>
+    <item>
       <title>【AWS】Terraform で別のアカウントにサブドメインのパブリックホストゾーンを作成する</title>
       <link>https://qiita.com/chiaoi/items/ef76418141b78ff7d435?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>Terraform を用いてほかのアカウントにあるドメインのサブドメイン用パブリックホストゾーンを作成する サンプルコード を作成しました。
@@ -195,6 +213,20 @@ AWSは「Transform Assessment」に新たな機能を追加し、オンプレミ
       <description>罵詈言雑 @barigonzou 本当にあった怖い話 特にこれからiPhone17買う人には絶対覚えといて欲しい とある現場で 新しいiPhone買った客にデータ移行金かかりますって言ったら自分でやるって言うから データ移行のガイドブック？みたいなやつ (在庫無かったから)白黒コピーで印刷して渡したらしいんだけど そこまではいいと... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://togetter.com/li/2601971</guid>
       <pubDate>Fri, 12 Sep 2025 21:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI嫌いの私を唸らせた「NotebookLM」2つの活用術 | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2509-googles-notebooklm-introduces-quizzes-flashcards-tools/</link>
+      <description>世の中のAIツールには、正直なところかなり懐疑的です。特に、インターネットで文章を書いて生計を立てている身としては、その多くにどうも及び腰になってしまいます。 しかし、そんな私がGoogleの「NotebookLM」には拍手を送らざるを得ません。これは、「倫理的」かつ「実用的」という私の基準をクリアした、数少ないお... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.lifehacker.jp/article/2509-googles-notebooklm-introduces-quizzes-flashcards-tools/</guid>
+      <pubDate>Fri, 12 Sep 2025 11:55:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>スマホの両手操作は中高年しぐさなのか問題 - 関内関外日記</title>
+      <link>https://goldhead.hatenablog.com/entry/2025/09/12/173526</link>
+      <description>こんな増田を見かけた。 anond.hatelabo.jp iPhone miniを求める人ってみんな「大きいと片手で操作しづらい」と言うよね。 でも、スマホって実は「片手でホールドしてもう片方の手でタッチする」ものなんだ。 つまり両手操作が前提なんだよね。 スマホの広告とかも基本的にそういう描写で統一されているはず。 だからメ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://goldhead.hatenablog.com/entry/2025/09/12/173526</guid>
+      <pubDate>Fri, 12 Sep 2025 20:52:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
