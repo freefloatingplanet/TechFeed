@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Sep 2025 13:16:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 14:09:37 +0000</lastBuildDate>
     <item>
       <title>「MCPはAPIではない」――Dockerが解説するAIエージェント開発のベストプラクティスとは</title>
       <link>https://atmarkit.itmedia.co.jp/ait/articles/2509/12/news032.html</link>
@@ -123,13 +123,6 @@
       <pubDate>Fri, 12 Sep 2025 15:51:49 +0000</pubDate>
     </item>
     <item>
-      <title>「iPhone 17／Air」が“eSIMのみ”に変更された理由　ソフトウェアでeSIM利用を促進、キャリア側の対応も進む</title>
-      <link>https://www.itmedia.co.jp/mobile/articles/2509/13/news026.html</link>
-      <description>「iPhone 17／Air」が“eSIMのみ”に変更された理由　ソフトウェアでeSIM利用を促進、キャリア側の対応も進む：石野純也のMobile Eye（1/3 ページ） 9月9日（現地時間）に発表された「iPhone 17」シリーズや「iPhone Air」で、最も驚きだったことの1つが「eSIMオンリー」という仕様だ。もともとAppleは、2022年に発売され... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2509/13/news026.html</guid>
-      <pubDate>Sat, 13 Sep 2025 01:42:24 +0000</pubDate>
-    </item>
-    <item>
       <title>スマホの両手操作は中高年しぐさなのか問題 - 関内関外日記</title>
       <link>https://goldhead.hatenablog.com/entry/2025/09/12/173526</link>
       <description>こんな増田を見かけた。 anond.hatelabo.jp iPhone miniを求める人ってみんな「大きいと片手で操作しづらい」と言うよね。 でも、スマホって実は「片手でホールドしてもう片方の手でタッチする」ものなんだ。 つまり両手操作が前提なんだよね。 スマホの広告とかも基本的にそういう描写で統一されているはず。 だからメ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
@@ -205,6 +198,13 @@ node.jsとnpmのインスト... (source: Qiita - 人気の記事)</description>
       <description>Intelが半導体業界に大きな困惑を広げている。2025年9月、同社は「Core i5-110」という名の新たなCPUを製品リストに追加した。しかし、その正体は2020年に市場を席巻した第10世代Coreプロセッサー「Comet Lake」アーキテクチャそのもの。具体的には、5年前に発売された「Core i5-10400」とスペック、そして驚くべきこと... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://xenospectrum.com/intel-core-i5-110-comet-lake-resurrection-2025-analysis/</guid>
       <pubDate>Sat, 13 Sep 2025 04:38:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows10延長サポートESUの登録方法。有料で3,500円払うか、それとも無料で使うか | ニッチなPCゲーマーの環境構築Z</title>
+      <link>https://www.nichepcgamer.com/archives/how-to-register-for-windows10-esu.html</link>
+      <description>Windows10のサポートは日本時間で2025年10月15日で終了となります。それよりあとはセキュリティ更新プログラムが配信されなくなります。しかし、延長サポートとなるESU (Extended Security Updates)に登録することで、個人ユーザーは追加で1年間、セキュリティ更新プログラムを受けられます。(つまり、サポート終了日以... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.nichepcgamer.com/archives/how-to-register-for-windows10-esu.html</guid>
+      <pubDate>Sat, 13 Sep 2025 09:48:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
