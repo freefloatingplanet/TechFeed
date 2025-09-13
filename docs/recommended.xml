@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Sep 2025 10:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 11:08:59 +0000</lastBuildDate>
     <item>
       <title>生成AIアップデートまとめ（2025/9/1週）</title>
       <link>https://qiita.com/kanako_kodera_16/items/1543dc81e85c18bb4009?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -79,13 +79,6 @@ GitHub Codespacesを使用することで、環境構築不要でブラウザ上
       <pubDate>Fri, 12 Sep 2025 14:15:39 +0000</pubDate>
     </item>
     <item>
-      <title>「バーチャルボーイ」復刻　SwitchやSwitch 2と合体　ゲーム15種提供</title>
-      <link>https://www.itmedia.co.jp/news/articles/2509/12/news120.html</link>
-      <description>任天堂は9月12日、ゲーム機「バーチャルボーイ」の復刻を発表した。ゲーム機「Nintendo Switch」や「Nintendo Switch 2」と組み合わせて使える形で当時のハードウェアを復刻。同日に予約販売を開始した。ゲームは2026年2月17日から、オンラインサービス「Nintendo Switch Online」の「追加パック」ユーザー向けに提供す... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2509/12/news120.html</guid>
-      <pubDate>Fri, 12 Sep 2025 14:37:59 +0000</pubDate>
-    </item>
-    <item>
       <title>iPhone Airの恐ろしさは｢首から上が本体｣なところ。それ以外ほぼバッテリー</title>
       <link>https://www.gizmodo.jp/2025/09/iphoneair-battery.html</link>
       <description>iPhone Airの恐ろしさは｢首から上が本体｣なところ。それ以外ほぼバッテリー2025.09.12 20:0040,801 小暮ひさのり SFで見たことあるやつ。 Apple（アップル）の超薄い新作iPhone｢iPhone Air｣。厚み5.6mm、僕の小指よりも遥かに薄い極薄さにもかかわらず、アップルのバッテリー駆動時間の公称値はビデオ再生で最大27時間。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
@@ -98,6 +91,13 @@ GitHub Codespacesを使用することで、環境構築不要でブラウザ上
       <description>すべてカテゴリー 2025年9月12日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。 1位: 【海外記事紹介】Apple、iPhone 17 / Air用の新たなセキュリティ機構「MIE」に関する詳細な情報を公開、大きな反響を呼ぶ 2位: 2秒以内に商業レベルの高品質音楽を生成できる音楽生成AI「Stable Audio 2.5」（gigazine.net） 3位: じいちゃんの使ってた『iPhone5S』ちゅう電話機はそれはそれは美しくてな…「ジョブズが最後に関わったモデル」「このサイズで出して欲しい」（togetter.com） …ほか17本 ランキングはこちらから (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/categories/all/selections/daily/2025/9/12?from=rss</guid>
       <pubDate>Fri, 12 Sep 2025 14:59:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>レノボの小型PC「ThinkCentre neo 50q Tiny Snapdragon」を試す　ArmアーキテクチャのデスクトップPCはアリ？</title>
+      <link>https://www.itmedia.co.jp/pcuser/articles/2509/12/news094.html</link>
+      <description>レノボの小型PC「ThinkCentre neo 50q Tiny Snapdragon」を試す　ArmアーキテクチャのデスクトップPCはアリ？（1/2 ページ） QualcommのSoC「Snapdragon Xシリーズ」を搭載するWindows PCは、デスクトップタイプにも広がりつつある。レノボ・ジャパンが6月5日に発売した「ThinkCentre neo 50q Tiny Snapdragon」は、その... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/pcuser/articles/2509/12/news094.html</guid>
+      <pubDate>Fri, 12 Sep 2025 08:15:07 +0000</pubDate>
     </item>
     <item>
       <title>遊舎工房が「TOKYO KEYBOARD EXPO」をやる理由</title>
