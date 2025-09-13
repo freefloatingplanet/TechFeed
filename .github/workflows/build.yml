@@ -2,7 +2,7 @@ name: Build Reco RSS
 
 on:
   schedule:
-    - cron: "*/60 * * * *"   # 1時間ごと
+    - cron: "* */12 * * *"   # 12時間ごと
   workflow_dispatch: {}       # 手動実行も可能
   push:
     branches: [ develop ]
