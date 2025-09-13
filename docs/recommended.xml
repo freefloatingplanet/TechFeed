@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Sep 2025 18:15:02 +0000</lastBuildDate>
-    <item>
-      <title>レノボの小型PC「ThinkCentre neo 50q Tiny Snapdragon」を試す　ArmアーキテクチャのデスクトップPCはアリ？</title>
-      <link>https://www.itmedia.co.jp/pcuser/articles/2509/12/news094.html</link>
-      <description>レノボの小型PC「ThinkCentre neo 50q Tiny Snapdragon」を試す　ArmアーキテクチャのデスクトップPCはアリ？（1/2 ページ） QualcommのSoC「Snapdragon Xシリーズ」を搭載するWindows PCは、デスクトップタイプにも広がりつつある。レノボ・ジャパンが6月5日に発売した「ThinkCentre neo 50q Tiny Snapdragon」は、その... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/pcuser/articles/2509/12/news094.html</guid>
-      <pubDate>Fri, 12 Sep 2025 08:15:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Sep 2025 19:08:39 +0000</lastBuildDate>
     <item>
       <title>GitHub - plutov/oq: Terminal OpenAPI Spec viewer</title>
       <link>https://github.com/plutov/oq</link>
@@ -28,13 +21,6 @@
       <description>こんにちは。はじめまして。 遊舎工房 でイベント企画をしているイマムラです。 遊舎工房は9月23日に秋葉原でTOKYO KEYBOARD EXPOという、遊舎工房にとってなかなかに大きいイベントをやる予定です。 イベントまで10日と迫った現在、イベント担当の私は準備に追われているのですが、気晴らしに表題のテーマについて書か... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://shop.yushakobo.jp/blogs/staff-blog/tkx25</guid>
       <pubDate>Fri, 12 Sep 2025 16:18:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>「Aurora DSQLはサーバーレスアーキテクチャの常識を変えるのか」というタイトルでDevelopersIO 2025 Osakaに登壇しました #devio2025 | DevelopersIO</title>
-      <link>https://dev.classmethod.jp/articles/devio2025-osaka-aurora-dsql/</link>
-      <description> (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/devio2025-osaka-aurora-dsql/</guid>
-      <pubDate>Fri, 12 Sep 2025 17:32:33 +0000</pubDate>
     </item>
     <item>
       <title>tfaction を段階的に導入した</title>
@@ -165,11 +151,25 @@ node.jsとnpmのインスト... (source: Qiita - 人気の記事)</description>
       <pubDate>Sat, 13 Sep 2025 06:54:14 +0000</pubDate>
     </item>
     <item>
+      <title>あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映</title>
+      <link>https://zenn.dev/rgbkids/articles/e93e6e9ade48f2</link>
+      <description>VTeacher所属のSatokoです！ 普段はフロントエンドをメインとして、QA的なことや進捗管理など、いろいろやっています。 最近の趣味はAIとのおしゃべりです！ FigmaのMCPサーバーさん ところで！ せっかくFigmaにMCPサーバーがあるのに、生成されたコードがいまいちで、一時的に話題になった以降は、Figma MCPサーバーの... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/rgbkids/articles/e93e6e9ade48f2</guid>
+      <pubDate>Sat, 13 Sep 2025 07:47:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Appleのティム・クックCEOがiPhone Airのバッテリー寿命についてCorningのガラス工場で語る</title>
       <link>https://gigazine.net/news/20250913-tim-cook-iphone-air-battery-life/</link>
       <description>Appleのティム・クックCEOが、iPhoneのカバーガラスを製造する世界最大級のガラス製品メーカーCorningの工場を訪れるインタビュー動画が公開されました。クックCEOは超薄型のiPhone Airはバッテリー寿命が短いのではないかと質問を投げかけられています。 Tim Cook addresses iPhone Air battery life in new interview ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://gigazine.net/news/20250913-tim-cook-iphone-air-battery-life/</guid>
       <pubDate>Sat, 13 Sep 2025 08:40:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Awesome-Nano-Banana-images/README_ja.md at main · PicoTrex/Awesome-Nano-Banana-images</title>
+      <link>https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_ja.md</link>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_ja.md</guid>
+      <pubDate>Sat, 13 Sep 2025 10:33:06 +0000</pubDate>
     </item>
     <item>
       <title>Intel、5年前のCPUを「新製品」として発売の謎。Core i5-110はなぜ市場に困惑を広げるのか？ | XenoSpectrum</title>
