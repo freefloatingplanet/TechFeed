@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Sep 2025 02:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 03:16:23 +0000</lastBuildDate>
     <item>
-      <title>Claude、プロジェクトごとに独立した記憶機能を提供</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2047035.html</link>
-      <description> (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2047035.html</guid>
-      <pubDate>Fri, 12 Sep 2025 06:38:45 +0000</pubDate>
+      <title>Googleの画像生成AI「Nano-banana」をめちゃくちゃ活用できるプロンプトとサンプル画像実例まとめ</title>
+      <link>https://gigazine.net/news/20250912-nano-banana-prompt-example-matome/</link>
+      <description>Googleが2025年8月に公開した画像生成AI「Gemini 2.5 Flash Image(Nano Banana)」は、入力した画像の特徴を維持しながら編集することが得意で、無料ユーザーでも1日100枚まで画像を生成することが可能です。そんなNano Bananaで使えるプロンプトとその実例をまとめたGitHubのページが有志によって公開されていたので、い... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20250912-nano-banana-prompt-example-matome/</guid>
+      <pubDate>Fri, 12 Sep 2025 06:37:49 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】AI企業に「使うなら払え」を突きつけろ — 新たな標準「RSL」がAIとWebの関係を大きく変える可能性</title>
@@ -23,13 +23,6 @@
       <pubDate>Thu, 11 Sep 2025 21:30:17 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】Bunのインストールはなぜnpmなどより圧倒的に速いのか？を解説したマニアックな記事が話題に</title>
-      <link>https://techfeed.io/entries/68c3442cd0e17253abf85b46?from=rss</link>
-      <description>9月11日、Bunが「Behind The Scenes of Bun Install」と題した記事を公開した。この記事では、bun install が既存のパッケージマネージャより著しく高速である理由――システムコール最小化、OSネイティブ機能の活用、バイナリ形式でのメタデータキャッシュ、解凍とファイルコピーの最適化、マルチコア並列実行――について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68c3442cd0e17253abf85b46?from=rss</guid>
-      <pubDate>Thu, 11 Sep 2025 21:50:35 +0000</pubDate>
-    </item>
-    <item>
       <title>iPhone 17の「メモリシールド」がスパイウェア戦争を終結させる？Appleの最強防壁「MIE」とは何か？ | XenoSpectrum</title>
       <link>https://xenospectrum.com/iphone-17-memory-integrity-enforcement-mie-spyware/</link>
       <description>Appleが発表したiPhone 17。その目玉は薄さやカメラ性能だけではなかった。基調講演では語られなかった新機能「Memory Integrity Enforcement (MIE)」こそ、スマートフォンの歴史を塗り替える可能性を秘めている。これは、国家レベルのスパイウェアさえ無力化しうる、まさに「鉄壁の盾」だ。果たして「ハッキング不可能... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
@@ -37,11 +30,25 @@
       <pubDate>Fri, 12 Sep 2025 07:09:00 +0000</pubDate>
     </item>
     <item>
+      <title>【海外記事紹介】Bunのインストールはなぜnpmなどより圧倒的に速いのか？を解説したマニアックな記事が話題に</title>
+      <link>https://techfeed.io/entries/68c3442cd0e17253abf85b46?from=rss</link>
+      <description>9月11日、Bunが「Behind The Scenes of Bun Install」と題した記事を公開した。この記事では、bun install が既存のパッケージマネージャより著しく高速である理由――システムコール最小化、OSネイティブ機能の活用、バイナリ形式でのメタデータキャッシュ、解凍とファイルコピーの最適化、マルチコア並列実行――について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/68c3442cd0e17253abf85b46?from=rss</guid>
+      <pubDate>Thu, 11 Sep 2025 21:50:35 +0000</pubDate>
+    </item>
+    <item>
       <title>国内証券口座のっとりによる不正取引についてまとめてみた - piyolog</title>
       <link>https://piyolog.hatenadiary.jp/entry/2025/09/12/160227</link>
       <description>2025年に入ってから日本の証券口座を狙ったインターネット取引サービスに対する不正アクセスや不正取引が急増しているとして、金融庁や日本証券協会は利用者に注意を呼び掛けています。ここでは関連する情報をまとめます。 2024年末から被害急増 国内の複数の証券会社で不正取引の被害が相次いでいる。これは、何者かが... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2025/09/12/160227</guid>
       <pubDate>Fri, 12 Sep 2025 07:26:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>10代の検索は「ヤフーよりChatGPT」　サイバーエージェント調査</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2047042.html</link>
+      <description> (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2047042.html</guid>
+      <pubDate>Fri, 12 Sep 2025 07:32:45 +0000</pubDate>
     </item>
     <item>
       <title>「更新してシャットダウン」→起きたら付いてるパソコン画面の流れにわかりみがありすぎる 「うちの子供くらい言うこと聞かない」</title>
@@ -84,13 +91,6 @@ Webブラウザからは問題なくAzure DevOpsのWebポータルにアクセ�
 本記事では、その... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/y-tsukasa/items/d324056cf648d685de5f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Fri, 12 Sep 2025 02:59:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>省庁など運用の情報システム セキュリティー対策に不備 | NHK</title>
-      <link>https://www3.nhk.or.jp/news/html/20250912/k10014921041000.html</link>
-      <description>国の省庁などが運用する情報システムのセキュリティー対策について、会計検査院が調査したところ、12の機関の58のシステムで、ソフトウエアが適切に更新されていないといった不備が見つかったことが分かりました。 会計検査院は、国の省庁と地方の出先機関合わせて40の機関が、2023年度までの3年間に整備や運用をおこな... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www3.nhk.or.jp/news/html/20250912/k10014921041000.html</guid>
-      <pubDate>Fri, 12 Sep 2025 10:31:20 +0000</pubDate>
     </item>
     <item>
       <title>DataRobot AIエージェントテンプレート入門：セットアップからデプロイまで</title>
