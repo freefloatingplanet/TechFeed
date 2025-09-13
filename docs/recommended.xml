@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Sep 2025 16:12:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 17:09:07 +0000</lastBuildDate>
     <item>
       <title>「MCPはAPIではない」――Dockerが解説するAIエージェント開発のベストプラクティスとは</title>
       <link>https://atmarkit.itmedia.co.jp/ait/articles/2509/12/news032.html</link>
       <description>「MCPはAPIではない」――Dockerが解説するAIエージェント開発のベストプラクティスとは：よくある3つの誤解を解説 Dockerは、MCPについて開発者が誤解しがちな3つのポイントを解説するブログエントリを公開した。MCPの正しい実装パターンとアンチパターンも解説している。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2509/12/news032.html</guid>
       <pubDate>Fri, 12 Sep 2025 13:32:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>The second wave of MCP: Building for LLMs, not developers - Vercel</title>
-      <link>https://vercel.com/blog/the-second-wave-of-mcp-building-for-llms-not-developers</link>
-      <description>When the MCP standard first launched, many teams rushed to ship something. Many servers ended up as thin wrappers around existing APIs with minimal changes. A quick way to say "we support MCP". At the time, this made sense. MCP was new, teams wanted to get something out quickly, and the obvious a... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://vercel.com/blog/the-second-wave-of-mcp-building-for-llms-not-developers</guid>
-      <pubDate>Fri, 12 Sep 2025 14:15:39 +0000</pubDate>
     </item>
     <item>
       <title>iPhone Airの恐ろしさは｢首から上が本体｣なところ。それ以外ほぼバッテリー</title>
@@ -74,6 +67,13 @@
  tfac... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/socialplus/articles/769cab32c22e58</guid>
       <pubDate>Fri, 12 Sep 2025 10:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>あれれ、Windows 10ユーザーが増えてる？ もしやWindows 11から出戻り…</title>
+      <link>https://www.gizmodo.jp/2025/09/windows-10-users-are-on-the-rise.html</link>
+      <description>あれれ、Windows 10ユーザーが増えてる？ もしやWindows 11から出戻り…2025.09.12 10:3021,328 湯木進悟 詳しい原因は不明だそうです…。 来月14日にサポート終了期限が迫ったWindows 10。着々とWindows 11への移行が進んでいるのかと思いきや、このほど PCMagは、まさかのWindows 10ユーザーが増加していると報じました... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.gizmodo.jp/2025/09/windows-10-users-are-on-the-rise.html</guid>
+      <pubDate>Fri, 12 Sep 2025 19:52:24 +0000</pubDate>
     </item>
     <item>
       <title>【AWS】Terraform で別のアカウントにサブドメインのパブリックホストゾーンを作成する</title>
