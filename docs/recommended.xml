@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Sep 2025 17:09:07 +0000</lastBuildDate>
-    <item>
-      <title>「MCPはAPIではない」――Dockerが解説するAIエージェント開発のベストプラクティスとは</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2509/12/news032.html</link>
-      <description>「MCPはAPIではない」――Dockerが解説するAIエージェント開発のベストプラクティスとは：よくある3つの誤解を解説 Dockerは、MCPについて開発者が誤解しがちな3つのポイントを解説するブログエントリを公開した。MCPの正しい実装パターンとアンチパターンも解説している。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2509/12/news032.html</guid>
-      <pubDate>Fri, 12 Sep 2025 13:32:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>iPhone Airの恐ろしさは｢首から上が本体｣なところ。それ以外ほぼバッテリー</title>
-      <link>https://www.gizmodo.jp/2025/09/iphoneair-battery.html</link>
-      <description>iPhone Airの恐ろしさは｢首から上が本体｣なところ。それ以外ほぼバッテリー2025.09.12 20:0057,224 小暮ひさのり SFで見たことあるやつ。 Apple（アップル）の超薄い新作iPhone｢iPhone Air｣。厚み5.6mm、僕の小指よりも遥かに薄い極薄さにもかかわらず、アップルのバッテリー駆動時間の公称値はビデオ再生で最大27時間。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.gizmodo.jp/2025/09/iphoneair-battery.html</guid>
-      <pubDate>Fri, 12 Sep 2025 14:49:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【9月12日ランキング】【海外記事紹介】Apple、iPhone 17 / Air用の新たなセキュリティ機構「MIE」に関する詳細な情報を公開、大きな反響を呼ぶ／ほか19本</title>
-      <link>https://techfeed.io/categories/all/selections/daily/2025/9/12?from=rss</link>
-      <description>すべてカテゴリー 2025年9月12日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。 1位: 【海外記事紹介】Apple、iPhone 17 / Air用の新たなセキュリティ機構「MIE」に関する詳細な情報を公開、大きな反響を呼ぶ 2位: 2秒以内に商業レベルの高品質音楽を生成できる音楽生成AI「Stable Audio 2.5」（gigazine.net） 3位: じいちゃんの使ってた『iPhone5S』ちゅう電話機はそれはそれは美しくてな…「ジョブズが最後に関わったモデル」「このサイズで出して欲しい」（togetter.com） …ほか17本 ランキングはこちらから (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/categories/all/selections/daily/2025/9/12?from=rss</guid>
-      <pubDate>Fri, 12 Sep 2025 14:59:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Sep 2025 18:15:02 +0000</lastBuildDate>
     <item>
       <title>レノボの小型PC「ThinkCentre neo 50q Tiny Snapdragon」を試す　ArmアーキテクチャのデスクトップPCはアリ？</title>
       <link>https://www.itmedia.co.jp/pcuser/articles/2509/12/news094.html</link>
@@ -123,6 +102,13 @@
       <pubDate>Fri, 12 Sep 2025 15:51:49 +0000</pubDate>
     </item>
     <item>
+      <title>「iPhone 17／Air」が“eSIMのみ”に変更された理由　ソフトウェアでeSIM利用を促進、キャリア側の対応も進む</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2509/13/news026.html</link>
+      <description>「iPhone 17／Air」が“eSIMのみ”に変更された理由　ソフトウェアでeSIM利用を促進、キャリア側の対応も進む：石野純也のMobile Eye（1/3 ページ） 9月9日（現地時間）に発表された「iPhone 17」シリーズや「iPhone Air」で、最も驚きだったことの1つが「eSIMオンリー」という仕様だ。もともとAppleは、2022年に発売され... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2509/13/news026.html</guid>
+      <pubDate>Sat, 13 Sep 2025 01:42:24 +0000</pubDate>
+    </item>
+    <item>
       <title>スマホの両手操作は中高年しぐさなのか問題 - 関内関外日記</title>
       <link>https://goldhead.hatenablog.com/entry/2025/09/12/173526</link>
       <description>こんな増田を見かけた。 anond.hatelabo.jp iPhone miniを求める人ってみんな「大きいと片手で操作しづらい」と言うよね。 でも、スマホって実は「片手でホールドしてもう片方の手でタッチする」ものなんだ。 つまり両手操作が前提なんだよね。 スマホの広告とかも基本的にそういう描写で統一されているはず。 だからメ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
@@ -144,18 +130,18 @@
       <pubDate>Sat, 13 Sep 2025 05:09:04 +0000</pubDate>
     </item>
     <item>
-      <title>「AIがIDEを手に入れた」Serena MCPの“魔法の仕組み”を解説！｜ブーストコンサルティング株式会社</title>
-      <link>https://note.com/boostconsulting/n/n39d193157be9</link>
-      <description>こんにちは！みなさん、今日もブーストしてますか！？ 今回のnoteは、前回記事でお伝えしたSerena MCPについてもっと深掘りしてお伝えしていきたいと思います！ 「Claude Codeが突然賢くなった」 Serena MCPを導入した人の共通の感想です。 でも、なぜSerenaを入れただけで、AIのコード理解力が劇的に向上するのでしょう... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/boostconsulting/n/n39d193157be9</guid>
-      <pubDate>Fri, 12 Sep 2025 22:37:09 +0000</pubDate>
-    </item>
-    <item>
       <title>nano-bananaでモバイルアプリUIモックアップを作る</title>
       <link>https://zenn.dev/oikon/articles/nanobanana-mobile-mock</link>
       <description>Oikonです。 今月からモバイルアプリ開発にチャレンジしており、悪戦苦闘中です。 アプリケーションを開発する際には、要件定義やUIデザインなどを事前に決めることが多いです。今回はUIデザインのアイデア出しについて焦点を当てます。 個人的にモバイルアプリのデザインは門外漢なのでどうしようかと思っていました。U... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://zenn.dev/oikon/articles/nanobanana-mobile-mock</guid>
       <pubDate>Sat, 13 Sep 2025 05:20:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>「AIがIDEを手に入れた」Serena MCPの“魔法の仕組み”を解説！｜ブーストコンサルティング株式会社</title>
+      <link>https://note.com/boostconsulting/n/n39d193157be9</link>
+      <description>こんにちは！みなさん、今日もブーストしてますか！？ 今回のnoteは、前回記事でお伝えしたSerena MCPについてもっと深掘りしてお伝えしていきたいと思います！ 「Claude Codeが突然賢くなった」 Serena MCPを導入した人の共通の感想です。 でも、なぜSerenaを入れただけで、AIのコード理解力が劇的に向上するのでしょう... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/boostconsulting/n/n39d193157be9</guid>
+      <pubDate>Fri, 12 Sep 2025 22:37:09 +0000</pubDate>
     </item>
     <item>
       <title>github copilot agentで自動ブラウザテストができるようにする(初心者向けVer)</title>
@@ -198,6 +184,20 @@ node.jsとnpmのインスト... (source: Qiita - 人気の記事)</description>
       <description>1. 引言 2025 年 9 月 11 日星期四，中国防火长城（GFW）经历了其历史上最大规模的内部文件泄露事件。超过 500 GB 的源代码、工作日志和内部通信记录被泄露，揭示了 GFW 的研发和运作细节。 此次泄露源自 GFW 背后的一支重要技术力量：积至（海南）信息技术有限公司（Geedge Networks Ltd.） 及中国科学院信息工程研究所... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://gfw.report/blog/geedge_and_mesa_leak/zh/</guid>
       <pubDate>Sat, 13 Sep 2025 11:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone Air、もはやUSB-C端子はつかわない説</title>
+      <link>https://www.gizmodo.jp/2025/09/iphone-air-usb-c.html</link>
+      <description>iPhone Air、もはやUSB-C端子はつかわない説2025.09.13 21:00 ヤマダユウス型 目指すは、ノーホールスマホ。 iPhone Airの発表以降、色々と考えています。薄さ、デザイン、バッテリー容量、カメラの数など。引き算のプロダクトは好きだけど、これは思い切ったよなぁ。 あと、USBの規格が2.0なのもちょっと。チップはPro... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.gizmodo.jp/2025/09/iphone-air-usb-c.html</guid>
+      <pubDate>Sat, 13 Sep 2025 13:20:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>はてなブックマークでホッテントリに入る方法、また、古い記事がホッテントリに入る方法について - orangestar2</title>
+      <link>https://orangestar2.hatenadiary.com/entry/2025/09/13/140021</link>
+      <description>人に説明する必要があったので説明しました 説明したのでそれを漫画にしてここに残します 適宜参考にしてください はてなとはてなブックマークに詳しい小島と呼んでください はてな村奇譚下 作者:小島アジコAmazonはてな村奇譚上 作者:小島アジコAmazon (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://orangestar2.hatenadiary.com/entry/2025/09/13/140021</guid>
+      <pubDate>Sat, 13 Sep 2025 05:07:01 +0000</pubDate>
     </item>
     <item>
       <title>Windows10延長サポートESUの登録方法。有料で3,500円払うか、それとも無料で使うか | ニッチなPCゲーマーの環境構築Z</title>
