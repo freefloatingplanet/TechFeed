@@ -7,44 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Sep 2025 11:08:59 +0000</lastBuildDate>
-    <item>
-      <title>生成AIアップデートまとめ（2025/9/1週）</title>
-      <link>https://qiita.com/kanako_kodera_16/items/1543dc81e85c18bb4009?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>週刊生成AI with AWS – 2025/9/1週
-
-AWS Transform アセスメントに分離ストレージが含まれるように
-AWSは「Transform Assessment」に新たな機能を追加し、オンプレミス環境にある切り離されたストレージ（Detached St... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/kanako_kodera_16/items/1543dc81e85c18bb4009?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 12 Sep 2025 11:28:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>dora-rs: これがAI時代のロボティクスミドルウェアだ！</title>
-      <link>https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b</link>
-      <description>こんにちは、渡辺貴史です。
-最近西海岸ではdora-rsというミドルウェアが流行っていると聞き、早速すこし真面目に触ってみました。すでに2.5k starがついています。
-https://github.com/dora-rs/dora
-さっそく、自分のロボットのシステムをdora-rsで換装して遊んでみました。
-いいぞ！！！ と思った。もっと流行らせたいし育てたい。
-ROSが「移動ロボットの(アルゴリズムベースの)スタンダードを作ったミドルウェア」であるとするならば、次には「AI x ロボティクスを前提にしたミドルウェア」の出現が期待されると、私は思っています。dora-rsは、そのひと... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b</guid>
-      <pubDate>Fri, 12 Sep 2025 12:08:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>iPhone miniを求める人の謎</title>
-      <link>https://anond.hatelabo.jp/20250912141742</link>
-      <description>iPhone miniを求める人ってみんな「大きいと片手で操作しづらい」と言うよね。 でも、スマホって実は「片手でホールドしてもう片方の手でタッチする」ものなんだ。 つまり両手操作が前提なんだよね。 スマホの広告とかも基本的にそういう描写で統一されているはず。 だからメーカー側には片手操作を前提にした設計にする... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://anond.hatelabo.jp/20250912141742</guid>
-      <pubDate>Fri, 12 Sep 2025 05:18:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIコードアシスタント徹底比較！Replit・Cursor・GitHub Copilotの違いと選び方【初心者〜実務で使える】</title>
-      <link>https://qiita.com/SunSunTech/items/91d06597a0bc4af72a5c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>無料のエンジニアコミュニティを運営しているのですが 「チャットGPTでコード書いたのですが全然うまく行きません」そんな声をよく耳にします。
-近年、AIを活用したプログラミングは急速に進化しています。単に「ChatGPTにコードを書かせる」だけの時代は終わり、専用のAIコード... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/SunSunTech/items/91d06597a0bc4af72a5c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 12 Sep 2025 12:43:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Sep 2025 12:21:31 +0000</lastBuildDate>
     <item>
       <title>非エンジニアが、エンジニアから影響を受けた「活動負債」という概念</title>
       <link>https://qiita.com/yatabekei/items/55d86e3da0ae2c66810c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -81,7 +44,7 @@ GitHub Codespacesを使用することで、環境構築不要でブラウザ上
     <item>
       <title>iPhone Airの恐ろしさは｢首から上が本体｣なところ。それ以外ほぼバッテリー</title>
       <link>https://www.gizmodo.jp/2025/09/iphoneair-battery.html</link>
-      <description>iPhone Airの恐ろしさは｢首から上が本体｣なところ。それ以外ほぼバッテリー2025.09.12 20:0040,801 小暮ひさのり SFで見たことあるやつ。 Apple（アップル）の超薄い新作iPhone｢iPhone Air｣。厚み5.6mm、僕の小指よりも遥かに薄い極薄さにもかかわらず、アップルのバッテリー駆動時間の公称値はビデオ再生で最大27時間。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <description>iPhone Airの恐ろしさは｢首から上が本体｣なところ。それ以外ほぼバッテリー2025.09.12 20:0052,424 小暮ひさのり SFで見たことあるやつ。 Apple（アップル）の超薄い新作iPhone｢iPhone Air｣。厚み5.6mm、僕の小指よりも遥かに薄い極薄さにもかかわらず、アップルのバッテリー駆動時間の公称値はビデオ再生で最大27時間。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://www.gizmodo.jp/2025/09/iphoneair-battery.html</guid>
       <pubDate>Fri, 12 Sep 2025 14:49:11 +0000</pubDate>
     </item>
@@ -172,6 +135,13 @@ GitHub Codespacesを使用することで、環境構築不要でブラウザ上
       <pubDate>Fri, 12 Sep 2025 15:51:49 +0000</pubDate>
     </item>
     <item>
+      <title>「iPhone 17／Air」が“eSIMのみ”に変更された理由　ソフトウェアでeSIM利用を促進、キャリア側の対応も進む</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2509/13/news026.html</link>
+      <description>「iPhone 17／Air」が“eSIMのみ”に変更された理由　ソフトウェアでeSIM利用を促進、キャリア側の対応も進む：石野純也のMobile Eye（1/3 ページ） 9月9日（現地時間）に発表された「iPhone 17」シリーズや「iPhone Air」で、最も驚きだったことの1つが「eSIMオンリー」という仕様だ。もともとAppleは、2022年に発売され... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2509/13/news026.html</guid>
+      <pubDate>Sat, 13 Sep 2025 01:42:24 +0000</pubDate>
+    </item>
+    <item>
       <title>スマホの両手操作は中高年しぐさなのか問題 - 関内関外日記</title>
       <link>https://goldhead.hatenablog.com/entry/2025/09/12/173526</link>
       <description>こんな増田を見かけた。 anond.hatelabo.jp iPhone miniを求める人ってみんな「大きいと片手で操作しづらい」と言うよね。 でも、スマホって実は「片手でホールドしてもう片方の手でタッチする」ものなんだ。 つまり両手操作が前提なんだよね。 スマホの広告とかも基本的にそういう描写で統一されているはず。 だからメ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
@@ -200,6 +170,20 @@ GitHub Codespacesを使用することで、環境構築不要でブラウザ上
       <pubDate>Sat, 13 Sep 2025 05:09:04 +0000</pubDate>
     </item>
     <item>
+      <title>「AIがIDEを手に入れた」Serena MCPの“魔法の仕組み”を解説！｜ブーストコンサルティング株式会社</title>
+      <link>https://note.com/boostconsulting/n/n39d193157be9</link>
+      <description>こんにちは！みなさん、今日もブーストしてますか！？ 今回のnoteは、前回記事でお伝えしたSerena MCPについてもっと深掘りしてお伝えしていきたいと思います！ 「Claude Codeが突然賢くなった」 Serena MCPを導入した人の共通の感想です。 でも、なぜSerenaを入れただけで、AIのコード理解力が劇的に向上するのでしょう... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/boostconsulting/n/n39d193157be9</guid>
+      <pubDate>Fri, 12 Sep 2025 22:37:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>nano-bananaでモバイルアプリUIモックアップを作る</title>
+      <link>https://zenn.dev/oikon/articles/nanobanana-mobile-mock</link>
+      <description>Oikonです。 今月からモバイルアプリ開発にチャレンジしており、悪戦苦闘中です。 アプリケーションを開発する際には、要件定義やUIデザインなどを事前に決めることが多いです。今回はUIデザインのアイデア出しについて焦点を当てます。 個人的にモバイルアプリのデザインは門外漢なのでどうしようかと思っていました。U... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/oikon/articles/nanobanana-mobile-mock</guid>
+      <pubDate>Sat, 13 Sep 2025 05:20:55 +0000</pubDate>
+    </item>
+    <item>
       <title>github copilot agentで自動ブラウザテストができるようにする(初心者向けVer)</title>
       <link>https://qiita.com/hokutoh/items/eb9a351b89fbd0e40b82?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>他にもいろいろ記事はありますが、setting.json/mcp.jsonを修正する方法かと思います。
@@ -212,6 +196,13 @@ Github Copilotの設定
 node.jsとnpmのインスト... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/hokutoh/items/eb9a351b89fbd0e40b82?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Sat, 13 Sep 2025 06:15:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appleのティム・クックCEOがiPhone Airのバッテリー寿命についてCorningのガラス工場で語る</title>
+      <link>https://gigazine.net/news/20250913-tim-cook-iphone-air-battery-life/</link>
+      <description>Appleのティム・クックCEOが、iPhoneのカバーガラスを製造する世界最大級のガラス製品メーカーCorningの工場を訪れるインタビュー動画が公開されました。クックCEOは超薄型のiPhone Airはバッテリー寿命が短いのではないかと質問を投げかけられています。 Tim Cook addresses iPhone Air battery life in new interview ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20250913-tim-cook-iphone-air-battery-life/</guid>
+      <pubDate>Sat, 13 Sep 2025 08:40:44 +0000</pubDate>
     </item>
     <item>
       <title>Intel、5年前のCPUを「新製品」として発売の謎。Core i5-110はなぜ市場に困惑を広げるのか？ | XenoSpectrum</title>
