@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Sep 2025 06:16:37 +0000</lastBuildDate>
-    <item>
-      <title>プロキシ環境下におけるAzure DevOps ReposへのGit接続エラー「fatal: unable to access」の原因と対処法</title>
-      <link>https://qiita.com/abachan/items/2c7be86fb4e132598192?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-業務で利用するネットワーク、特にプロキシサーバーを経由する環境において、特定のツールが期待通りに動作しない問題に直面することがあります。
-Webブラウザからは問題なくAzure DevOpsのWebポータルにアクセスできるにもかかわらず、Visual Studi... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/abachan/items/2c7be86fb4e132598192?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 12 Sep 2025 09:02:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Tour Osakaで学んだこと、興味を持ってもらうには</title>
-      <link>https://qiita.com/seitsubo/items/ff32e66a97036e27c567?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-先日、AI Tour Osaka にインターン生として参加し、インフラブースでの対応と、Copilot in Azure のセッション発表を担当しました。
-研究室や学会での発表経験はありましたが、企業イベントでお客様に向けて直接説明するのは初めての経験。とても刺... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/seitsubo/items/ff32e66a97036e27c567?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 12 Sep 2025 09:06:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Sep 2025 07:10:52 +0000</lastBuildDate>
     <item>
       <title>【無料】Nano Bananaとは？3Dフィギュアの作り方や注意点を徹底解説【2025年最新】</title>
       <link>https://jp.cyberlink.com/blog/videoeditor/4201/nano-banana-ai-image-generator-guide</link>
@@ -154,6 +136,13 @@ ROSが「移動ロボットの(アルゴリズムベースの)スタンダード
       <pubDate>Fri, 12 Sep 2025 03:47:20 +0000</pubDate>
     </item>
     <item>
+      <title>「MCPはAPIではない」――Dockerが解説するAIエージェント開発のベストプラクティスとは</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2509/12/news032.html</link>
+      <description>「MCPはAPIではない」――Dockerが解説するAIエージェント開発のベストプラクティスとは：よくある3つの誤解を解説 Dockerは、MCPについて開発者が誤解しがちな3つのポイントを解説するブログエントリを公開した。MCPの正しい実装パターンとアンチパターンも解説している。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2509/12/news032.html</guid>
+      <pubDate>Fri, 12 Sep 2025 13:32:31 +0000</pubDate>
+    </item>
+    <item>
       <title>The second wave of MCP: Building for LLMs, not developers - Vercel</title>
       <link>https://vercel.com/blog/the-second-wave-of-mcp-building-for-llms-not-developers</link>
       <description>When the MCP standard first launched, many teams rushed to ship something. Many servers ended up as thin wrappers around existing APIs with minimal changes. A quick way to say "we support MCP". At the time, this made sense. MCP was new, teams wanted to get something out quickly, and the obvious a... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
@@ -234,6 +223,13 @@ ROSが「移動ロボットの(アルゴリズムベースの)スタンダード
       <description>コミュニティ主体の技術カンファレンスをいくつかオーガナイズしてきた立場の人として、プロポーザルの採択に関わることがこれまで何度かありました。 何度か繰り返していくうちに、自分はこういうことを考えて採択するか決めているな〜というのが年々言語化できつつあるので、そろそろ頭のなかをdumpしてみようかという... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://techblog.karupas.org/entry/2025/09/13/125825</guid>
       <pubDate>Sat, 13 Sep 2025 04:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel、5年前のCPUを「新製品」として発売の謎。Core i5-110はなぜ市場に困惑を広げるのか？ | XenoSpectrum</title>
+      <link>https://xenospectrum.com/intel-core-i5-110-comet-lake-resurrection-2025-analysis/</link>
+      <description>Intelが半導体業界に大きな困惑を広げている。2025年9月、同社は「Core i5-110」という名の新たなCPUを製品リストに追加した。しかし、その正体は2020年に市場を席巻した第10世代Coreプロセッサー「Comet Lake」アーキテクチャそのもの。具体的には、5年前に発売された「Core i5-10400」とスペック、そして驚くべきこと... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://xenospectrum.com/intel-core-i5-110-comet-lake-resurrection-2025-analysis/</guid>
+      <pubDate>Sat, 13 Sep 2025 04:38:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
