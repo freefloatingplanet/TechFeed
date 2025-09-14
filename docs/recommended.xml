@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Sep 2025 20:45:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 01:19:24 +0000</lastBuildDate>
+    <item>
+      <title>AI＞＞＞＞＞＞越えられない壁＞＞＞＞＞＞はてぶ</title>
+      <link>https://anond.hatelabo.jp/20250913181857</link>
+      <description>最近ChatGPT5 Thinkingに元記事とコメントを読み込ませて見るんだけど、もうはてなブックマーカーよりAIの方が圧倒的に賢いのな はてなブックマーカーは 知識がなく 感情に振り回され 思考力が低い AIは 圧倒的に多くの知識があって 感情に振り回されることもなく 深い思考をしてくれる もうネットでみんなの意見なんて... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://anond.hatelabo.jp/20250913181857</guid>
+      <pubDate>Sat, 13 Sep 2025 09:21:39 +0000</pubDate>
+    </item>
     <item>
       <title>[Swift] custom flagsを利用してスキーマ毎に英/日アプリをビルドするcustom flags active compilation conditions</title>
       <link>https://qiita.com/Aruga0918/items/9170d82020e9b4fd1081?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -25,13 +32,6 @@ Project &gt; Build Settings &gt; Swift Compiler -Custom Flags
       <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_ja.md</guid>
       <pubDate>Sat, 13 Sep 2025 10:33:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Intel、5年前のCPUを「新製品」として発売の謎。Core i5-110はなぜ市場に困惑を広げるのか？ | XenoSpectrum</title>
-      <link>https://xenospectrum.com/intel-core-i5-110-comet-lake-resurrection-2025-analysis/</link>
-      <description>Intelが半導体業界に大きな困惑を広げている。2025年9月、同社は「Core i5-110」という名の新たなCPUを製品リストに追加した。しかし、その正体は2020年に市場を席巻した第10世代Coreプロセッサー「Comet Lake」アーキテクチャそのもの。具体的には、5年前に発売された「Core i5-10400」とスペック、そして驚くべきこと... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://xenospectrum.com/intel-core-i5-110-comet-lake-resurrection-2025-analysis/</guid>
-      <pubDate>Sat, 13 Sep 2025 04:38:57 +0000</pubDate>
     </item>
     <item>
       <title>コサイン類似度について改めて整理する</title>
