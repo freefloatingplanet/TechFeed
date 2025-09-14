@@ -7,20 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Sep 2025 12:29:30 +0000</lastBuildDate>
-    <item>
-      <title>にじボイスのキャラと声優さんの対応表を作ろう！【技術編】</title>
-      <link>https://zenn.dev/litagin/articles/325154e1bf1f03</link>
-      <description>概要
-以下の過去記事では、TTSサービス にじボイス と AivisSpeech の音声とそっくりな声の声優さんを特定する記事を書きました。
-https://zenn.dev/litagin/articles/55db1af37129a8
-にじボイスについて、実は にじボイスが何故か来月2025年10月から完全な審査性クローズドサービスとなる予定 なことや、何故かキャラクター名が変更される事件 がありました。
-これらを受けて、にじボイスについて、再び 新しい名義で、しかも声優名ベースで、きちんと予測をする ことを目的として、この記事は主にその技術的な側面についての記事となります。
-
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/litagin/articles/325154e1bf1f03</guid>
-      <pubDate>Sun, 14 Sep 2025 01:16:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 Sep 2025 12:57:27 +0000</lastBuildDate>
     <item>
       <title>Codex CLIのカスタムコマンドを完全攻略！よく使う指示を瞬時に呼び出す方法</title>
       <link>https://qiita.com/tomada/items/37d260807c4324c9898d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -90,6 +77,13 @@ Codex CLIを使っていて、「またこの長い指示を打つのか...」�
       <description>IT Leaders トップ ＞ テクノロジー一覧 ＞ ユーザー動向 ＞ 市場動向 ＞ 国内1000件の事例や製品を収録した「生成AI活用事例データベース」を公開─生成AI活用普及協会 ユーザー動向 ユーザー動向記事一覧へ [市場動向] 国内1000件の事例や製品を収録した「生成AI活用事例データベース」を公開─生成AI活用普及協会 2025... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://it.impress.co.jp/articles/-/28358</guid>
       <pubDate>Sun, 14 Sep 2025 09:07:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>メインブラウザをEdgeに切り替えた理由とAIブラウザの可能性</title>
+      <link>https://blog.lai.so/ai-browser/</link>
+      <description>ChromeからEdgeに乗り換え最近、筆者はAI統合型のブラウザを常用するべくメインブラウザをGoogle ChromeからMicrosoft Edgeに切り替えました。EdgeのCopilot Modeは8月にGPT-5が搭載され、かなり使い勝手が良くなりました。2年前にこの前哨戦となる「Bing AIチャットをデフォルトのウェブ検索にして使ってみた」を投稿し... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://blog.lai.so/ai-browser/</guid>
+      <pubDate>Sun, 14 Sep 2025 11:04:47 +0000</pubDate>
     </item>
     <item>
       <title>演算子の優先順位の設計比較</title>
