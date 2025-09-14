@@ -7,93 +7,123 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Sep 2025 01:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 12:29:30 +0000</lastBuildDate>
     <item>
-      <title>AI＞＞＞＞＞＞越えられない壁＞＞＞＞＞＞はてぶ</title>
-      <link>https://anond.hatelabo.jp/20250913181857</link>
-      <description>最近ChatGPT5 Thinkingに元記事とコメントを読み込ませて見るんだけど、もうはてなブックマーカーよりAIの方が圧倒的に賢いのな はてなブックマーカーは 知識がなく 感情に振り回され 思考力が低い AIは 圧倒的に多くの知識があって 感情に振り回されることもなく 深い思考をしてくれる もうネットでみんなの意見なんて... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://anond.hatelabo.jp/20250913181857</guid>
-      <pubDate>Sat, 13 Sep 2025 09:21:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Swift] custom flagsを利用してスキーマ毎に英/日アプリをビルドするcustom flags active compilation conditions</title>
-      <link>https://qiita.com/Aruga0918/items/9170d82020e9b4fd1081?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>にじボイスのキャラと声優さんの対応表を作ろう！【技術編】</title>
+      <link>https://zenn.dev/litagin/articles/325154e1bf1f03</link>
       <description>概要
-個人開発のAppで日本用（日本語）と海外用（英語）で分けてリリースしたかった。
-Geminiに
-Project &gt; Build Settings &gt; Swift Compiler -Custom Flags
-からスキーマ毎にコンパイルフラグを設定できると教えてもらっ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Aruga0918/items/9170d82020e9b4fd1081?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 13 Sep 2025 09:53:37 +0000</pubDate>
+以下の過去記事では、TTSサービス にじボイス と AivisSpeech の音声とそっくりな声の声優さんを特定する記事を書きました。
+https://zenn.dev/litagin/articles/55db1af37129a8
+にじボイスについて、実は にじボイスが何故か来月2025年10月から完全な審査性クローズドサービスとなる予定 なことや、何故かキャラクター名が変更される事件 がありました。
+これらを受けて、にじボイスについて、再び 新しい名義で、しかも声優名ベースで、きちんと予測をする ことを目的として、この記事は主にその技術的な側面についての記事となります。
+
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/litagin/articles/325154e1bf1f03</guid>
+      <pubDate>Sun, 14 Sep 2025 01:16:04 +0000</pubDate>
     </item>
     <item>
-      <title>Awesome-Nano-Banana-images/README_ja.md at main · PicoTrex/Awesome-Nano-Banana-images</title>
-      <link>https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_ja.md</link>
-      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_ja.md</guid>
-      <pubDate>Sat, 13 Sep 2025 10:33:06 +0000</pubDate>
+      <title>Codex CLIのカスタムコマンドを完全攻略！よく使う指示を瞬時に呼び出す方法</title>
+      <link>https://qiita.com/tomada/items/37d260807c4324c9898d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>Codex CLIのカスタムコマンドを完全攻略！よく使う指示を瞬時に呼び出す方法
+こんにちは、とまだです。
+Codex CLIを使っていて、「またこの長い指示を打つのか...」と思ったことはありませんか？
+コードレビューをお願いするたびに、同じような観点を何度も説明したり... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/tomada/items/37d260807c4324c9898d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sun, 14 Sep 2025 02:31:30 +0000</pubDate>
     </item>
     <item>
-      <title>コサイン類似度について改めて整理する</title>
-      <link>https://qiita.com/ryu-ki/items/d83545d022e1a273ae5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>日本語プログラミング言語Mindの小技 「一文字直接入力」～Win32ApiのReadConsoleWで復活～</title>
+      <link>https://qiita.com/mylifewithviolin/items/86b23a6e64d8fd39464b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-生成AI（LLM）を用いたアプリケーション開発において、RAG（Retrieval-Augmented Generation）は今や欠かせない技術となっています。ChatGPTやClaudeなどのLLMに独自のデータを組み込む際、多くの開発者がRAGを選択肢とし... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/ryu-ki/items/d83545d022e1a273ae5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 13 Sep 2025 11:04:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>积至公司与MESA实验室：防火长城史上最大规模文件外泄分析</title>
-      <link>https://gfw.report/blog/geedge_and_mesa_leak/zh/</link>
-      <description>1. 引言 2025 年 9 月 11 日星期四，中国防火长城（GFW）经历了其历史上最大规模的内部文件泄露事件。超过 500 GB 的源代码、工作日志和内部通信记录被泄露，揭示了 GFW 的研发和运作细节。 此次泄露源自 GFW 背后的一支重要技术力量：积至（海南）信息技术有限公司（Geedge Networks Ltd.） 及中国科学院信息工程研究所... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gfw.report/blog/geedge_and_mesa_leak/zh/</guid>
-      <pubDate>Sat, 13 Sep 2025 11:08:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>東芝DynabookのUbuntu化</title>
-      <link>https://qiita.com/Genjo_IGeee/items/2e99ee759f9e25acbfce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>Windows11へアップデートできない2013年製東芝 DynabookをUbuntuにしました。
-作業中つまづいた箇所があったので備忘として残しておきます。
+日本語プログラミング言語Mindの小技「一文字直接入力」について説明したいと思います。
 
-環境
+対象読者
+日本語プログラミング言語Mindのユーザー、または日本語プログラミング言語に興味のある方
 
-システム製造元	TOSHIBA
-システムモデル	dynabook R732/F
-BIOS バージョン/... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Genjo_IGeee/items/2e99ee759f9e25acbfce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 13 Sep 2025 11:54:10 +0000</pubDate>
+この小技に関連するMind言語マニュアル
+この小技に関連するMind言... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/mylifewithviolin/items/86b23a6e64d8fd39464b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sun, 14 Sep 2025 02:35:35 +0000</pubDate>
     </item>
     <item>
-      <title>iPhone Air、もはやUSB-C端子はつかわない説</title>
-      <link>https://www.gizmodo.jp/2025/09/iphone-air-usb-c.html</link>
-      <description>iPhone Air、もはやUSB-C端子はつかわない説2025.09.13 21:00 ヤマダユウス型 目指すは、ノーホールスマホ。 iPhone Airの発表以降、色々と考えています。薄さ、デザイン、バッテリー容量、カメラの数など。引き算のプロダクトは好きだけど、これは思い切ったよなぁ。 あと、USBの規格が2.0なのもちょっと。チップはPro... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.gizmodo.jp/2025/09/iphone-air-usb-c.html</guid>
-      <pubDate>Sat, 13 Sep 2025 13:20:14 +0000</pubDate>
+      <title>対話型AIの優しさは「錯覚」　感情移入で依存、欧米で社会問題に - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUD284Q40Y5A720C2000000/</link>
+      <description>対話型AI（人工知能）を相手にアイデアを壁打ちしたり、悩みや愚痴を吐き出したりする人が増えている。24時間いつでも対話でき、応対の自然さから感情移入する人もいる。AIが日常に溶け込み始める中、欧米では過度な依存が社会問題になりつつある。判断を誤ったり、孤独を深めたりするリスクの周知と対策が求められる。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUD284Q40Y5A720C2000000/</guid>
+      <pubDate>Sun, 14 Sep 2025 04:07:09 +0000</pubDate>
     </item>
     <item>
-      <title>はてなブックマークでホッテントリに入る方法、また、古い記事がホッテントリに入る方法について - orangestar2</title>
-      <link>https://orangestar2.hatenadiary.com/entry/2025/09/13/140021</link>
-      <description>人に説明する必要があったので説明しました 説明したのでそれを漫画にしてここに残します 適宜参考にしてください はてなとはてなブックマークに詳しい小島と呼んでください はてな村奇譚下 作者:小島アジコAmazonはてな村奇譚上 作者:小島アジコAmazon (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://orangestar2.hatenadiary.com/entry/2025/09/13/140021</guid>
-      <pubDate>Sat, 13 Sep 2025 05:07:01 +0000</pubDate>
+      <title>Google、Android セキュリティ更新を新方式へ。高リスク脆弱性を優先配信</title>
+      <link>https://helentech.jp/news-74233/</link>
+      <description>Google が、Android のセキュリティアップデート提供方式を「リスクベース」と呼ばれる新しいアプローチに変更しました。これにより、緊急性の高い脅威からユーザーをよりすばやく保護することを目指します。 これまで毎月公開されてきた「Android セキュリティ情報」ですが、2025 年 7 月には初めて脆弱性の記載がゼロ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://helentech.jp/news-74233/</guid>
+      <pubDate>Sun, 14 Sep 2025 05:38:20 +0000</pubDate>
     </item>
     <item>
-      <title>Windows10延長サポートESUの登録方法。有料で3,500円払うか、それとも無料で使うか | ニッチなPCゲーマーの環境構築Z</title>
-      <link>https://www.nichepcgamer.com/archives/how-to-register-for-windows10-esu.html</link>
-      <description>Windows10のサポートは日本時間で2025年10月15日で終了となります。それよりあとはセキュリティ更新プログラムが配信されなくなります。しかし、延長サポートとなるESU (Extended Security Updates)に登録することで、個人ユーザーは追加で1年間、セキュリティ更新プログラムを受けられます。(つまり、サポート終了日以... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.nichepcgamer.com/archives/how-to-register-for-windows10-esu.html</guid>
-      <pubDate>Sat, 13 Sep 2025 09:48:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>コンテキストエンジニアリングの源流へ、AIと心理学</title>
-      <link>https://qiita.com/makotosaekit/items/c4d37b91258ec44c0cbf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>AIの"知能"はどこから来たのか？
+      <title>【Python】yieldでなんちゃって非同期処理</title>
+      <link>https://zenn.dev/amenaruya/articles/662cd7009d5400</link>
+      <description>yieldの使い道
+夫れPythonに限らずプログラミング言語には、頻りに使う機能もあれば、特別の用でもなければ殆ど使うことのない機能というものもあるものです。斯く言う私はPythonに初めて触れてから数年経つものの、yieldをまともに扱った場面はたった一度しかありませんでした。
+そもそも、私はyieldという語を日常で見たことがありません。そこで日就社刊行の英和字彙を見てみますと、次のようにあります。
 
-我々が日常的に使うChatGPTや各種AI。
-その「知能」のルーツを辿ると、情報科学や数学だけでなく、全く別の学問――心理学に行き着きます。
-これは単なる豆知識ではありません。
-AIが「人間の知能」を模倣する以上、その設計思想の根底に... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/makotosaekit/items/c4d37b91258ec44c0cbf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 13 Sep 2025 18:03:31 +0000</pubDate>
+柴田昌吉, 子安峻 共編『英和字彙 : 附・音插図』,日就社,1873. 国立国会図書館デジタルコレクション https://dl.ndl.go.jp/pid/1871572 (... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/amenaruya/articles/662cd7009d5400</guid>
+      <pubDate>Sun, 14 Sep 2025 06:45:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>タクシー配車サービスはどれが良いのか運転手目線での意見が興味深い「基本的にGOは相当暇でUberが鳴らない時にしかとりません」</title>
+      <link>https://togetter.com/li/2602562</link>
+      <description>むさっしー @musasino231 タクシーGOで呼ぼうとしたら運転手から電話が来て間違えて他の客乗せたからキャンセルしてくれらしい。 俺がキャンセルしたらペナルティかけられて終わった、、 pic.x.com/jYfJTJEXjC 2025-09-12 03:24:50 いよちゃん@25歳限界社会人が素人知識で投資して全財産失った @genkai_toushi 運転手側... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2602562</guid>
+      <pubDate>Sun, 14 Sep 2025 07:02:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>生成AIに「〇〇教えてください」と聞くのやめない？ - Qiita</title>
+      <link>https://qiita.com/mocketech/items/98609506806cec385390</link>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? お断り ポエムです。技術的な要素はないですし、特段の検証もしていません。 忙しい人のためのまとめ この記事では以下のことを述べています。 プロンプト入力で「教えてください」... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://qiita.com/mocketech/items/98609506806cec385390</guid>
+      <pubDate>Sun, 14 Sep 2025 07:12:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>国内1000件の事例や製品を収録した「生成AI活用事例データベース」を公開─生成AI活用普及協会 | IT Leaders</title>
+      <link>https://it.impress.co.jp/articles/-/28358</link>
+      <description>IT Leaders トップ ＞ テクノロジー一覧 ＞ ユーザー動向 ＞ 市場動向 ＞ 国内1000件の事例や製品を収録した「生成AI活用事例データベース」を公開─生成AI活用普及協会 ユーザー動向 ユーザー動向記事一覧へ [市場動向] 国内1000件の事例や製品を収録した「生成AI活用事例データベース」を公開─生成AI活用普及協会 2025... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://it.impress.co.jp/articles/-/28358</guid>
+      <pubDate>Sun, 14 Sep 2025 09:07:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>演算子の優先順位の設計比較</title>
+      <link>https://zenn.dev/qnighy/articles/204a522baea7f0</link>
+      <description>主要な言語について、演算子の優先順位の設計を比較します。
+自作言語の設計等に役立ててください。
+
+ 算術演算 vs ビット演算
+多くの言語では、算術演算がビット演算に優先します。
+
+
+*, /
+
+
++, -
+
+&amp;
+|
+
+しかし、GoとSwiftではこれらの階層が混在しています。
+
+
+*, /, &amp;
+
+
++, -, |
+
+
+半環だと思えば似たようなもの、という発想でしょう。
+
+ 単項マイナス vs 冪乗
+冪乗の演算子 ** をもつ言語では、しばしば単項マイナスとの順序について特別なルールを持ちます。つまり、基数にマイナスがついた場合、それは項全体を反転させると考えます。この... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/qnighy/articles/204a522baea7f0</guid>
+      <pubDate>Sun, 14 Sep 2025 07:00:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
