@@ -7,86 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Sep 2025 01:19:33 +0000</lastBuildDate>
-    <item>
-      <title>How modern browsers work</title>
-      <link>https://addyo.substack.com/p/how-modern-browsers-work</link>
-      <description>Note: For those eager to dive deep into how browsers work, an excellent resource is Browser Engineering by Pavel Panchekha and Chris Harrelson (available at browser.engineering). Please do check it out. This article is an overview of how browsers work. Web developers often treat the browser as a ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://addyo.substack.com/p/how-modern-browsers-work</guid>
-      <pubDate>Sun, 14 Sep 2025 12:50:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>iPhone毎年買替え法｜綾瀬・北綾瀬マンション</title>
-      <link>https://note.com/ayasekitaayase/n/n58f2595c26c9</link>
-      <description>iPhone毎年買い替えてたけど17は見送りかな ちなみに毎年iPhone買替スキームは結構お得 ・楽天市場で10%以上還元でAppleギフト貯金 ・リーベイツ経由AppleStoreで購入（今iPhone16は3％還元） で実質15%off程で買える iPhoneは中古価格が良いのでiPhone15時は実質2.5万（月2,000円強）で1年間使えた — 綾瀬・北綾瀬マン... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/ayasekitaayase/n/n58f2595c26c9</guid>
-      <pubDate>Sun, 14 Sep 2025 21:39:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>韓国人技術者がアメリカで一斉拘束された件、ビザ制度の歪みと無関心</title>
-      <link>https://anond.hatelabo.jp/20250915001427</link>
-      <description>最近のニュースで一番ショックだったのがこれ。 アメリカ南部ジョージア州で建設中だったヒュンダイとLGのバッテリー工場に、9月4日、移民税関捜査局（ICE）が突入して外国人労働者を大量に拘束した。報道によると、これがアメリカ史上最大規模の「職場一斉摘発」だったらしい。 拘束者の内訳は次のとおり： 韓国人：317... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://anond.hatelabo.jp/20250915001427</guid>
-      <pubDate>Sun, 14 Sep 2025 22:20:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>JavaScript の TextEncoder を毎回生成すると、効率はどうなるか？</title>
-      <link>https://qiita.com/mikecat_mixc/items/90f0bab94e96f51a7cea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>(十分最近の) JavaScript では、TextEncoder クラスのオブジェクトを用いて、文字列を UTF-8 のバイト列に変換できる。
-この変換を行う際は、クラスの静的メソッドではなく、オブジェクトを用いる。
-このオブジェクトは、最初に1個生成してそれを何度も使う... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/mikecat_mixc/items/90f0bab94e96f51a7cea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sun, 14 Sep 2025 10:11:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>「Rolling Stone」発行元のPMC、Googleを提訴　「AIによる概要」でトラフィックが激減と主張</title>
-      <link>https://www.itmedia.co.jp/news/articles/2509/15/news020.html</link>
-      <description>「Rolling Stone」発行元のPMC、Googleを提訴　「AIによる概要」でトラフィックが激減と主張 「Rolling Stone」や「Billboard」などの発行元である米Penske Media Corporation（以下「PMC」）は9月12日（現地時間）、Google検索の「AI Overview」（日本では「AIによる概要」）による要約をめぐり、米Googleを提訴した。 ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2509/15/news020.html</guid>
-      <pubDate>Sun, 14 Sep 2025 22:50:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>「やりたかった恋愛シミュレーション、AIで作れた」　AIゲームの進化と課題 (1/4)</title>
-      <link>https://ascii.jp/elem/000/004/319/4319849/</link>
-      <description>LLMをリアルタイムで利用したゲームが次々に登場しつつあります。特に最近はLLMとゲーム要素を組み合わせてストーリーを展開させていくタイプが数多く登場しています。製品やサービスとしてパッケージ化されたゲームはまだ限定的ですが、新しい可能性が明確に見え始めています。ChatGPTやGemini、Grokで遊べる最新のテー... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://ascii.jp/elem/000/004/319/4319849/</guid>
-      <pubDate>Sun, 14 Sep 2025 23:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next.jsで `/` から別ページにリダイレクトしたいときにハマった話</title>
-      <link>https://qiita.com/mierudayo/items/3550b51e566e8bd8a4c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>こんにちは！
-今回は、Next.js で開発しているときに 「トップページ(/)にアクセスされたら自動で別ページに飛ばしたい」 という要件に直面したので、そのときのハマりポイントと解決方法をまとめます。
-
-発生した問題
-あるとき、
-「ユーザーが / にアクセスしたら /he... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/mierudayo/items/3550b51e566e8bd8a4c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sun, 14 Sep 2025 14:25:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Excelマクロあるある「上司からの『Excelの自動化機能、お前抜けたら面倒どうするんだ？』」 不条理と思いきや、属人化すべきでない側面もあって難しい</title>
-      <link>https://togetter.com/li/2602724</link>
-      <description>リンク www.microsoft.com Excel マクロは難しくない! VBA からマクロ ボタンまで業務効率化の方法を解説 - Microsoft for business マクロを利用すると、日々定型的に行っている Excel での作業を自動化したり、作業負荷を軽減したりすることが可能です。今回は、実例を交えたマクロの使い方や注意点から、マクロボタン... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2602724</guid>
-      <pubDate>Sun, 14 Sep 2025 16:00:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Sep 2025 05:48:30 +0000</lastBuildDate>
     <item>
       <title>【9月15日ランキング】タクシー配車サービスはどれが良いのか運転手目線での意見が興味深い「基本的にGOは相当暇でUberが鳴らない時にしかとりません」／ほか19本</title>
       <link>https://techfeed.io/categories/all/selections/daily/2025/9/15?from=rss</link>
       <description>すべてカテゴリー 2025年9月15日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。 1位: タクシー配車サービスはどれが良いのか運転手目線での意見が興味深い「基本的にGOは相当暇でUberが鳴らない時にしかとりません」（togetter.com） 2位: 対話型AIの優しさは「錯覚」　感情移入で依存、欧米で社会問題に（www.nikkei.com） 3位: 世界初、AIが大臣に。（smhn.info） …ほか17本 ランキングはこちらから (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/categories/all/selections/daily/2025/9/15?from=rss</guid>
       <pubDate>Mon, 15 Sep 2025 14:59:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Snowflake World Tour Tokyo 2025 完全燃焼記〜楽しみつくすための僕なりの方程式〜</title>
-      <link>https://zenn.dev/dataheroes/articles/ec38d005ceedab</link>
-      <description>はじめに
-今回は、Snowflake World Tour Tokyoでの個人的な体験と学びを中心に綴った雑記です。技術的な詳細よりも、イベントを最大限に楽しむためのヒントや、そこから得られた気づきに焦点を当てていますので、ぜひお気軽にお読みください。
-9月11日12日に開催された、Snowflake World Tour Tokyo（SWTT）2025が終わって2日が経ちましたが、まだ余韻に浸っています。
-この記事では、私なりのSWTTの楽しみ方と、そこで感じたことを振り返ってみたいと思います。結論から言うと、Snowflakeを理解し、活用し、コミュニティに参加し、できることは何... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dataheroes/articles/ec38d005ceedab</guid>
-      <pubDate>Sun, 14 Sep 2025 13:20:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
