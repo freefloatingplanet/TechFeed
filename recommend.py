@@ -128,24 +128,67 @@ def score_candidates(candidates, likes):
     vec = TfidfVectorizer(max_features=8000, ngram_range=(1,2))
     X_liked = vec.fit_transform(liked_texts)
     X_cand  = vec.transform(cand_texts)
-
     sims = cosine_similarity(X_cand, X_liked).mean(axis=1)
 
     now = datetime.now(timezone.utc)
-    out = []
-    seen = set()
+    out, seen = [], set()
     for c, s in zip(candidates, sims):
         w = recency_weight(c["published"], now)
-        score = 0.7 * s + 0.3 * w  # 類似度7:新しさ3 の重み
+        final = 0.7 * float(s) + 0.3 * float(w)  # 類似度7 : 新しさ3
         k = dedup_key(c["title"], c["link"])
         if k in seen:
             continue
         seen.add(k)
-        c2 = dict(c)
-        c2["score"] = float(score)
-        out.append(c2)
+        it = dict(c)
+        it["sim"] = float(s)       # ← 類似度を保持
+        it["score"] = final        # ← 最終スコアを保持
+        out.append(it)
+
     out.sort(key=lambda x: x["score"], reverse=True)
-    return out
+    return post_filter_with_threshold(out)
+
+def post_filter_with_threshold(sorted_items):
+    """
+    1) しきい値でフィルタ
+    2) 件数が足りなければ min_items までスコア順で埋める
+    3) 最後に top_k で切る
+    """
+    mode = CFG.get("apply_threshold_on", "similarity")  # "similarity" or "final_score"
+    use_pct = CFG.get("use_percentile_threshold", True)
+    p = CFG.get("percentile_p", 0.8)
+    top_k = CFG.get("top_k", 50)
+    min_items = CFG.get("min_items", top_k)
+
+    if mode == "final_score":
+        base_vals = [it["score"] for it in sorted_items]
+        fixed_thr = CFG.get("score_threshold", None)
+    else:
+        base_vals = [it["sim"] for it in sorted_items]
+        fixed_thr = CFG.get("min_similarity", None)
+
+    dyn_thr = percentile(base_vals, p) if (use_pct and base_vals) else None
+
+    # 有効なしきい値（固定と動的の“高い方”）
+    thr_list = [x for x in (fixed_thr, dyn_thr) if isinstance(x, (int, float))]
+    effective_thr = max(thr_list) if thr_list else None
+
+    if effective_thr is not None:
+        passed = [it for it in sorted_items
+                  if (it["score"] if mode == "final_score" else it["sim"]) >= effective_thr]
+    else:
+        passed = list(sorted_items)
+
+    # 最低件数まで埋める
+    if len(passed) < min_items:
+        used_ids = {id(x) for x in passed}
+        for it in sorted_items:
+            if id(it) not in used_ids:
+                passed.append(it)
+                if len(passed) >= min_items:
+                    break
+
+    # 上限でカット
+    return passed[:top_k]
 
 # ---------- generate RSS ----------
 def write_rss(items, path_xml):
@@ -171,6 +214,14 @@ def write_rss(items, path_xml):
     os.makedirs(os.path.dirname(path_xml), exist_ok=True)
     fg.rss_file(path_xml, pretty=True)
     print(f"Wrote {path_xml} ({len(items)} items)")
+
+def percentile(values, p):
+    if not values:
+        return None
+    vs = sorted(values)
+    k = int(round((len(vs)-1) * float(p)))
+    k = max(0, min(k, len(vs)-1))
+    return vs[k]
 
 def main():
     feeds = parse_opml("data/feeds.opml")

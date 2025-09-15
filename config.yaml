@@ -5,3 +5,10 @@ top_k: 10              # 毎回の上位件数
 half_life_days: 7      # 新しさの半減期（小さくすると新着を強く優遇）
 block_keywords: ["求人", "採用", "セール", "割引", "プログラミングスクール", "駆け出し"]
 min_title_len: 12
+min_items: 1             # しきい値で減っても最低ここまでは埋める
+min_similarity: 0.10      # コサイン類似度の固定しきい値（0.0〜1.0, nullで無効）
+use_percentile_threshold: true   # データに応じて動的しきい値も使う
+percentile_p: 0.70        # 類似度の上位20%を採用する目安（80パーセンタイル）
+apply_threshold_on: "similarity" # "similarity" or "final_score"（後述）
+# （任意）最終スコア側にしきい値を置く場合だけ使う
+# score_threshold: 0.15
