@@ -7,18 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Sep 2025 13:07:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 01:13:29 +0000</lastBuildDate>
     <item>
-      <title>ChatGPT でコードを作成する場合の「変な疲れ」を対策する</title>
-      <link>https://qiita.com/uni928/items/7c78c6ee4884ab975659?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>皆さんは ChatGPT をプログラミングの補助として使っていますか？
-実際にやってみるとわかりますが、この作業は独特の「変な疲れ」を感じるものです。
-今回は、その「変な疲れ」を軽減するために、私が効果的だと思っている方法を紹介します。
-
-変な疲れの正体
-この疲れは、コー... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/uni928/items/7c78c6ee4884ab975659?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Mon, 15 Sep 2025 02:40:35 +0000</pubDate>
+      <title>【海外記事紹介】多すぎてつらい…！Safari 26.0の新機能をAppleが公式に紹介 — CSSアンカーポジショニングなど、Web開発者待望の機能が満載</title>
+      <link>https://techfeed.io/entries/68c88678d0e17253abf951b2?from=rss</link>
+      <description>9月11日、Appleが「WebKit Features in Safari 26.0」と題した記事を公開した。この記事では、Safari 26.0で追加・改善されたWebKitの新機能（CSS/HTML/JS/メディア/セキュリティ/開発者ツール/SwiftUI APIなど）について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/68c88678d0e17253abf951b2?from=rss</guid>
+      <pubDate>Mon, 15 Sep 2025 21:34:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
