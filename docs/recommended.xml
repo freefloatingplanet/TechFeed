@@ -7,17 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Sep 2025 13:07:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 01:13:22 +0000</lastBuildDate>
     <item>
-      <title>Goで作る静的解析ツール開発入門</title>
-      <link>https://zenn.dev/hsaki/books/golang-static-analysis</link>
-      <description>「Goで静的解析ツールを作ってみたいけど、何から始めればいいの？」と思ったことはありませんか？
-Goは「静的解析がやりやすいように設計しよう」という背景を持って作られたプログラミング言語なので、go/astやgo/typesといった解析用の標準ライブラリがとても充実しています。
-しかし、いざ作ろうと思っても「skeletonで雛形は作れたけど、その先のgo/astパッケージやgo/typesパッケージを使って自分がやりたい解析ロジックをどう書いていけばいいのか全く分からない」という壁にぶつかる方も多いと思います。
-この本では、そんな「静的解析ツールを作りたいけれど、最初の一歩が踏み出せない」という方のために、ASTや型情報の基礎知識から実践的な解析ロジックの書き方まで、実際に動くサンプルコードとともに解説します。
-読み終わる頃には「自分でも静的解析ツールが書けそう！」という状態になっていることを目指します。 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hsaki/books/golang-static-analysis</guid>
-      <pubDate>Tue, 16 Sep 2025 11:03:49 +0000</pubDate>
+      <title>【9月17日ランキング】気づけばFirefoxのコア開発者になっていた。「修正されないバグの報告」から始まった25年間【フォーカス】 レバテックラボ（レバテックLAB）／ほか19本</title>
+      <link>https://techfeed.io/categories/all/selections/daily/2025/9/17?from=rss</link>
+      <description>すべてカテゴリー 2025年9月17日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。 1位: 気づけばFirefoxのコア開発者になっていた。「修正されないバグの報告」から始まった25年間【フォーカス】 レバテックラボ（レバテックLAB）（levtech.jp） 2位: 【海外記事紹介】多すぎてつらい…！Safari 26.0の新機能をAppleが公式に紹介 — CSSアンカーポジショニングなど、Web開発者待望の機能が満載 3位: OpenAI、GPT-5ベースのAIコーディングエージェント GPT-5-Codexをリリース — OpenAI社内ではすでに大半のPRレビューをCodexが担当 …ほか17本 ランキングはこちらから (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/categories/all/selections/daily/2025/9/17?from=rss</guid>
+      <pubDate>Wed, 17 Sep 2025 14:59:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
