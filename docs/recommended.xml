@@ -7,18 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Sep 2025 13:07:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 01:13:21 +0000</lastBuildDate>
     <item>
-      <title>AI時代だからこそ「自分で書く」ことが大事だ！</title>
-      <link>https://qiita.com/yuto_shinkawa/items/4bb3586da2aa447c747e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-こんにちは。menuのPMの新川です。
-今回の記事では、最近特に強く意識している「AIと自分の役割の境界」について書いてみたいと思います。
-
-なぜ「自分で書くこと」が大事なのか
-ChatGPTをはじめとする生成AIが普及し、文章もコードも一瞬で出てくる時代になり... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/yuto_shinkawa/items/4bb3586da2aa447c747e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 17 Sep 2025 02:25:58 +0000</pubDate>
+      <title>【9月18日ランキング】Google、AIエージェント決済の新オープンプロトコル「AP2」　PayPalなど60社以上が支持／ほか19本</title>
+      <link>https://techfeed.io/categories/all/selections/daily/2025/9/18?from=rss</link>
+      <description>すべてカテゴリー 2025年9月18日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。 1位: Google、AIエージェント決済の新オープンプロトコル「AP2」　PayPalなど60社以上が支持（www.itmedia.co.jp） 2位: 「Java 25」正式リリース、2年振りのLTS版。事前キャッシュによる高速起動、JITの即時ネイティブコード生成など新機能（www.publickey1.jp） 3位: Dockerコンテナ上のプロセスが残り続ける問題をPTYを使って回避した話（tech.mirrativ.stream） …ほか17本 ランキングはこちらから (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/categories/all/selections/daily/2025/9/18?from=rss</guid>
+      <pubDate>Thu, 18 Sep 2025 14:59:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
