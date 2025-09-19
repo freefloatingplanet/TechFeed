@@ -7,44 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Sep 2025 10:48:21 +0000</lastBuildDate>
-    <item>
-      <title>自律か指揮か？LLMコンペで見えたチーム設計の落とし穴と打ち手</title>
-      <link>https://qiita.com/toki_owl/items/a7d8f4ad5d716d3be5cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>1. はじめに
-松尾研LLMコンペ2025の予選に、私たちは30名体制で挑みました。大規模なGPU環境（H100×288基を12チームでシェア）と、多彩なバックグラウンドを持つメンバーが集まる場は、まさに人と技術の総合力が試される舞台でした。
-しかし、実際に一番の壁になっ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/toki_owl/items/a7d8f4ad5d716d3be5cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 18 Sep 2025 15:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>「順調です！」報告を鵜呑みにしない、たった1つの習慣</title>
-      <link>https://qiita.com/toshiaki_miyake/items/5bda1c93c5e87627ad8c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>こんにちは。
-menu事業部で、PM組織の統括をしている三宅です。
-「プロジェクトは順調です！」
-「スケジュールはオンスケです！」
-MTGでそんな報告を聞いて、ホッと胸をなでおろしていませんか？
-もちろん、順調なのは素晴らしいことです。
-でも、その報告を鵜呑みにして、そのま... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/toshiaki_miyake/items/5bda1c93c5e87627ad8c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 19 Sep 2025 00:33:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>ゲームプログラマーとして成長するために大切な3つの力</title>
-      <link>https://zenn.dev/wuyukwi/articles/f6d20f7d12e8b4</link>
-      <description>はじめに
-「どうすればプログラミングが上手くなるのか？」
-これは、ゲーム業界を目指すエンジニアにとって、常につきまとうテーマです。
-Unity や Unreal Engine などの便利なエンジンやライブラリが整っている時代でも、「本当にゲームを作れる」プログラマーになるためには、言語やフレームワークの知識以上に重要な根本的スキルがあります。
-本記事では、ゲームプログラマーとして実務を経験する中で特に大事だと感じる3つの力を紹介します。
-
- ① 抽象化の力 —— 巨大なコードを「分けて」考える
-ゲーム開発は、数千〜数百万行にもなるコードの集合です。
-その全てを頭に入れることは不可能な... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/wuyukwi/articles/f6d20f7d12e8b4</guid>
-      <pubDate>Thu, 18 Sep 2025 07:43:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Sep 2025 12:34:28 +0000</lastBuildDate>
     <item>
       <title>【Python】生成AIがこのコード書いたら気をつけろ！ - 事故らないためのチェックリスト - Qiita</title>
       <link>https://qiita.com/Sakai_path/items/d4ec1e848672033ca256</link>
@@ -60,11 +23,44 @@ Unity や Unreal Engine などの便利なエンジンやライブラリが整�
       <pubDate>Fri, 19 Sep 2025 02:20:31 +0000</pubDate>
     </item>
     <item>
+      <title>【Dayスタッフやってみた】Platform Engineering Kaigi 2025</title>
+      <link>https://zenn.dev/primenumber/articles/412a8cfb45b160</link>
+      <description>primeNumber という会社で SRE をやっている @z63d_ です。
+Platform Engineering Kaigi 2025（PEK2025）で Day スタッフをやってみましたなゆるいレポートです。カンファレンススタッフに興味ある方や何やっているか気になる方に雰囲気が少しでも伝わればと思います。セッションについてはノータッチです！
+
+ なんでDayスタッフ？
+当初は普通にチケットを買っていて一般参加の予定でしたが、PEK2025 の Day スタッフ募集と同じくらいのタイミングで、とあるコミュニティのイベント運営にお声がけいただいたこともあり、イベントの運営側に興味... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/primenumber/articles/412a8cfb45b160</guid>
+      <pubDate>Fri, 19 Sep 2025 02:27:36 +0000</pubDate>
+    </item>
+    <item>
       <title>山手線でタブレットを颯爽と取り出した、出来るっぽいビジネスマン… ああ、こいつもセキュリティ無視勢かよヤレヤレと思っていたら、感心することになった話</title>
       <link>https://togetter.com/li/2604707</link>
       <description>Yuichi Onodera @mokemoke6502 山手線でタブレットを颯爽と取り出した、出来るっぽいビジネスマン、ああ、こいつもセキュリティ無視勢かよとヤレヤレと思って画面を除いたら、艦これやってた。偉い。 x.com/yuiyui12322/st… 2025-09-18 16:15:32 ゆいゆい @yuiyui12322 おい、やめろ。 新幹線の中でOutlookを開くな。 お... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://togetter.com/li/2604707</guid>
       <pubDate>Fri, 19 Sep 2025 02:32:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>「勤怠が1分単位になっていない企業は多い」勤怠システムを提供する会社と商談をしていると「15分単位の勤怠」が横行しているという話→「弊社30分単位です」「実質2時間単位だった」</title>
+      <link>https://posfie.com/@blackstaragent/p/g0BIwUA</link>
+      <description>谷本慎二｜モームリを名付けた男 @tanimon0201 勤怠が1分単位になっていない企業は多いです。 勤怠システムを提供する会社と商談をしていると「15分単位の勤怠」が横行しているとのこと。 驚愕しました。 2025-09-18 14:45:22 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://posfie.com/@blackstaragent/p/g0BIwUA</guid>
+      <pubDate>Fri, 19 Sep 2025 05:49:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Professional Security Operations Engineer 試験 完全攻略ガイド 2025</title>
+      <link>https://zenn.dev/cloud_ace/articles/howtoget-certified-psoe</link>
+      <description>こんにちは、クラウドエースの小田です。
+2025 年 9 月 16 日にリリースされた Google Cloud の最新認定資格である Professional Security Operations Engineer (PSOE) のベータ版試験を先月受験し、無事取得することができたため、「Professional Security Operations Engineer 試験 完全攻略ガイド2025」 と題して、合格体験記＋攻略記事を残します。
+この資格取得を目指す方に有益な情報となれば幸いです。
+
+
+
+ 注意事項
+!
+この記事は参考情報であり、Google Cloud の試験内容を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/cloud_ace/articles/howtoget-certified-psoe</guid>
+      <pubDate>Fri, 19 Sep 2025 07:45:33 +0000</pubDate>
     </item>
     <item>
       <title>ハニーポット観測：新型ボットネット「RondoDox」ダウンローダファイルの分析</title>
@@ -75,6 +71,13 @@ Unity や Unreal Engine などの便利なエンジンやライブラリが整�
 今回は、IoT家電ハニーポットで観測した、「RondoDox」ダウンローダファイルについてご紹介します... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/melkruri/items/c383b426b3cb458ea14e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Fri, 19 Sep 2025 02:19:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>ヤマト運輸の営業所に行ったら朝礼やってて、リーダーっぽい人の第一声が『今日はiPhoneの発売日です』から始まってたのすげぇ</title>
+      <link>https://togetter.com/li/2604809</link>
+      <description>ぱぱのひとりごと @papa_hitorigoto ヤマト運輸の営業所に行ったら、朝礼やっててリーダーっぽい人の第一声が「今日はiPhoneの発売日です」から始まってたの、すげぇ。 2025-09-19 08:18:29 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2604809</guid>
+      <pubDate>Fri, 19 Sep 2025 08:24:58 +0000</pubDate>
     </item>
     <item>
       <title>【9月19日ランキング】「クラウドでIDEを動かしたかっただけなのに」AWSで22万円のクラウド破産した話／ほか19本</title>
@@ -92,20 +95,6 @@ Unity や Unreal Engine などの便利なエンジンやライブラリが整�
 この記事では、自分でやった方が早い範囲を広げるべく、VSCodeでの作業を最も効率よく... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/htcd/items/a77b3a8a314db3d56700?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Thu, 18 Sep 2025 00:52:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>dely 3 Days エンジニアインターン体験記</title>
-      <link>https://zenn.dev/pkmiya/articles/ed4fd230837b5b</link>
-      <description>みなさんこんにちは！みーやと申します。
-この度、2025 年 9 月に dely 株式会社（以下 dely）にて 3 Days エンジニアインターン（以下インターン）に参加させていただきました。
-この記事では、インターン参加のきっかけからインターンの内容と開発エピソード、参加して感じたことまで、幅広く深くご紹介します。エンジニアとしてのキャリアに興味がある学生、 dely のインターンに参加してみたい学生にぜひ読んでいただければと思います。
-
-
- おことわり
-
-dely は、2025 年 10 月より社名をクラシル株式会社に変更すると発表しています[1]。この記事では、インターンへの参加... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pkmiya/articles/ed4fd230837b5b</guid>
-      <pubDate>Thu, 18 Sep 2025 04:02:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
