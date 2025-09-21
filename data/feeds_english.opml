@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Programming" title="Programming">
+            <outline type="rss" text="SpaceNews" title="SpaceNews" xmlUrl="http://spacenews.com/feed/" htmlUrl="https://spacenews.com/"/>
+        </outline>
+    </body>
+</opml>

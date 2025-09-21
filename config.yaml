@@ -18,9 +18,9 @@ profiles:
     output_rss: docs/recommended.xml
     title: "Tech Feed"
     description: "技術系のブログからおすすめフィードを生成"
-#  - name: alt
-#    feeds_opml: data/alt/feeds.opml
-#    likes_csv: data/alt/likes.csv
-#    output_rss: docs/recommended-alt.xml
-#    title: "別ソースのおすすめフィード"
-#    description: "別の情報源から生成するフィード設定"
+  - name: english tech
+    feeds_opml: data/feeds_english.opml
+    likes_csv: data/likes_english.csv
+    output_rss: docs/recommended-english.xml
+    title: "Tech Feed (English)"
+    description: "英語記事からおすすめフィードを生成"
