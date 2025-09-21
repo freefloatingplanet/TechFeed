@@ -12,3 +12,4 @@
 export GOOGLE_TRANSLATE_API_KEY=...
 export USER_AGENT="YourAppName/1.0 (contact: your_email@example.com)"
 python recommend.py
+```
