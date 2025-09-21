@@ -134,7 +134,7 @@ def score_candidates(candidates, likes):
     out, seen = [], set()
     for c, s in zip(candidates, sims):
         w = recency_weight(c["published"], now)
-        final = 0.95 * float(s) + 0.05 * float(w)  # 類似度9.5 : 新しさ0.5
+        final = 0.995 * float(s) + 0.005 * float(w)  # 類似度,新しさの重み付け和
         k = dedup_key(c["title"], c["link"])
         if k in seen:
             continue
