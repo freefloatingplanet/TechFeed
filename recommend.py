@@ -12,6 +12,8 @@ from feedgen.feed import FeedGenerator
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
+from translator import translate_texts
+
 
 def strip_html(s):
     return BeautifulSoup(s or "", "html.parser").get_text(" ", strip=True)
@@ -225,6 +227,41 @@ def percentile(values, p):
     return vs[k]
 
 
+def maybe_translate_items(items, cfg):
+    translation_cfg = cfg.get("translation") or {}
+    if not isinstance(translation_cfg, dict) or not translation_cfg.get("enabled"):
+        return
+
+    target = (
+        translation_cfg.get("target_language")
+        or translation_cfg.get("target")
+        or "ja"
+    )
+    source = translation_cfg.get("source_language") or translation_cfg.get("source")
+    label = cfg.get("name", "default")
+
+    try:
+        translated_titles = translate_texts(
+            [item.get("title") or "" for item in items],
+            target=target,
+            source=source,
+        )
+        translated_summaries = translate_texts(
+            [strip_html(item.get("summary") or "") for item in items],
+            target=target,
+            source=source,
+        )
+    except Exception as exc:
+        print(f"[{label}] 翻訳に失敗したため原文を利用します: {exc}")
+        return
+
+    for item, title_tr, summary_tr in zip(items, translated_titles, translated_summaries):
+        if title_tr:
+            item["title_translated"] = title_tr
+        if summary_tr:
+            item["summary_translated"] = summary_tr
+
+
 def write_rss(items, path_xml, cfg):
     fg = FeedGenerator()
     fg.title(cfg.get("title", "My Reco Feed"))
@@ -234,10 +271,15 @@ def write_rss(items, path_xml, cfg):
 
     for it in items:
         fe = fg.add_entry()
-        fe.title(it.get("title", ""))
+        title_text = it.get("title_translated") or it.get("title") or ""
+        fe.title(title_text)
         if it.get("link"):
             fe.link(href=it.get("link"))
-        desc = strip_html(it.get("summary"))[:500]
+        summary_text = it.get("summary_translated")
+        if summary_text:
+            desc = summary_text[:500]
+        else:
+            desc = strip_html(it.get("summary"))[:500]
         fe.description(f"{desc} (source: {it.get('source', '?')})")
         pub = it.get("published") or datetime.now(timezone.utc)
         fe.pubDate(pub)
@@ -295,6 +337,7 @@ def run_for_cfg(cfg):
     ranked = score_candidates(candidates, likes, cfg)
     top_k = cfg.get("top_k", 50)
     ranked = ranked[:top_k]
+    maybe_translate_items(ranked, cfg)
     write_rss(ranked, output_path, cfg)
 
 

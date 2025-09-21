@@ -11,3 +11,5 @@ dependencies:
   - PyYAML
   - python-dateutil
   - beautifulsoup4
+  - tenacity
+  - requests

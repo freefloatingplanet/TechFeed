@@ -24,3 +24,8 @@ profiles:
     output_rss: docs/recommended-english.xml
     title: "Tech Feed (English)"
     description: "英語記事からおすすめフィードを生成"
+    language: "ja"
+    translation:
+      enabled: true
+      source_language: "en"
+      target_language: "ja"
