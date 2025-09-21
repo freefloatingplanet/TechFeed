@@ -20,6 +20,8 @@ jobs:
           python-version: "3.11"
       - run: pip install -r requirements.txt
       - run: python recommend.py
+        env:
+          GOOGLE_TRANSLATE_API_KEY: ${{ secrets.GOOGLE_TRANSLATE_API_KEY }}
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
