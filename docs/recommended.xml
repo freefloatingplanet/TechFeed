@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Sep 2025 22:02:58 +0000</lastBuildDate>
-    <item>
-      <title>極力負担が少ない形で本番データの正当性を担保する仕組みを導入した話 - エムスリーテックブログ</title>
-      <link>https://www.m3tech.blog/entry/2025/09/21/170000</link>
-      <description>【Unit1 ブログリレー4日目】こんにちは、Unit1（製薬企業向けプラットフォームチーム）の高澤です。ブログリレー3日目は河野さんによる「AWS ECSの各クラスタのデプロイの失敗を横断的に検知する方法」でした。 Unit1 では Web講演会 という医師に向けた情報の講演会ライブ配信サービスを開発・運用しています。2020年... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/09/21/170000</guid>
-      <pubDate>Sun, 21 Sep 2025 15:23:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Sep 2025 22:26:31 +0000</lastBuildDate>
     <item>
       <title>【仕様駆動開発】cc-sddならKiro式も簡単！Claude Code/Cursor/Gemini CLI に使える国産ツール</title>
       <link>https://qiita.com/tomada/items/6a04114fc41d0b86ffee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -95,6 +88,13 @@ ActivityPubではなく、Bluesky社のAT ... (source: Zennのトレンド)</des
 https://github.com/s-hiraoku/... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/hiraoku/articles/957b24a944cb89</guid>
       <pubDate>Thu, 18 Sep 2025 22:50:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】次期Linuxカーネル6.18に、Googleが開発したTCP接続暗号化プロトコル「PSP」の実装がマージされる</title>
+      <link>https://techfeed.io/entries/68d07647d0e17253abfb4977?from=rss</link>
+      <description>9月22日、Phoronixが「Linux Ready To Upstream Support For Google's PSP Encryption For TCP Connections」と題した記事を公開した。この記事では、Googleが開発したPSP（PSP Security Protocol）のTCP接続向け暗号化サポートがLinuxカーネル6.18に統合される見込みについて詳しく紹介されている。以下に、その内容を紹介する。PSPとは何かPSP（PSP Security Protocol）は、Googleが大規模データセンター向けに開発した新しい暗号化プロトコルである。AMDのPlatform Security Processor（同名のPSP）とは無関係であり、TCP接続における通信データを暗号化する仕組みを提供する。PSPは以下の特徴を持つ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/68d07647d0e17253abfb4977?from=rss</guid>
+      <pubDate>Sun, 21 Sep 2025 22:03:51 +0000</pubDate>
     </item>
     <item>
       <title>「複雑な業務ロジック」が読みづらいのは「記述が分散」しているから</title>
