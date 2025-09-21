@@ -1,43 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>My Tech Reco Feed</title>
+    <title>Tech Feed</title>
     <link>https://example.com</link>
-    <description>似ている新着だけを厳選</description>
+    <description>技術系のブログからおすすめフィードを生成</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Sep 2025 13:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 22:02:58 +0000</lastBuildDate>
     <item>
-      <title>会話の目的は勝つことではない - ともにかける</title>
-      <link>https://paper2.hatenablog.com/entry/2025/09/20/120053</link>
-      <description>「最強のエンジニアになるための話し方の教科書」を読み、過去の経験も踏まえてコミュニケーションについて改めて考える良い機会になりました。 本記事では、書籍の内容を引用しつつ、論理的な正しさだけでは仕事がうまく進まない場面で私が感じたことを整理してみます。 特に過去の私のように「論理的で正しいことが全... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://paper2.hatenablog.com/entry/2025/09/20/120053</guid>
-      <pubDate>Sat, 20 Sep 2025 20:54:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Glide初心者が作る！異動時の“困ったさん”をお助け！ご指南アプリのすゝめ</title>
-      <link>https://qiita.com/to-mizuno-jpg/items/8c2f9f08f6a229dffe52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>😊はじめに
-異動や席替えのたびに、こんなことで困っていませんか？
-
-プリンターの接続設定がわからない
-PC不調時の問い合わせ先がすぐに見つからない
-チームの行動予定が確認しづらい
-
-今回は、これらの「異動あるある」をサッと確認できるリストアプリを、Google Sheet... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/to-mizuno-jpg/items/8c2f9f08f6a229dffe52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 19 Sep 2025 06:33:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Codex CLIでMCPサーバを設定する方法！config.toml またはコマンド一発で簡単</title>
-      <link>https://qiita.com/tomada/items/2eb8d5b5173a4d70b287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>こんにちは、とまだです。
-Codex CLIを使い始めたけど「MCPサーバの設定方法がわからない」と困っていませんか？
-実は、MCPサーバを設定すると、Codex CLIがさまざまな外部ツールと連携できるようになり、開発効率がアップします。
-今回は、初心者でも迷わずMCPサ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/tomada/items/2eb8d5b5173a4d70b287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 19 Sep 2025 18:40:57 +0000</pubDate>
+      <title>極力負担が少ない形で本番データの正当性を担保する仕組みを導入した話 - エムスリーテックブログ</title>
+      <link>https://www.m3tech.blog/entry/2025/09/21/170000</link>
+      <description>【Unit1 ブログリレー4日目】こんにちは、Unit1（製薬企業向けプラットフォームチーム）の高澤です。ブログリレー3日目は河野さんによる「AWS ECSの各クラスタのデプロイの失敗を横断的に検知する方法」でした。 Unit1 では Web講演会 という医師に向けた情報の講演会ライブ配信サービスを開発・運用しています。2020年... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/09/21/170000</guid>
+      <pubDate>Sun, 21 Sep 2025 15:23:22 +0000</pubDate>
     </item>
     <item>
       <title>【仕様駆動開発】cc-sddならKiro式も簡単！Claude Code/Cursor/Gemini CLI に使える国産ツール</title>
@@ -51,20 +27,35 @@ Codex CLIを使い始めたけど「MCPサーバの設定方法がわからな�
       <pubDate>Fri, 19 Sep 2025 23:11:58 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】Bunのインストールはなぜnpmなどより圧倒的に速いのか？を解説したマニアックな記事が話題に</title>
-      <link>https://techfeed.io/entries/68c3442cd0e17253abf85b46?from=rss</link>
-      <description>9月11日、Bunが「Behind The Scenes of Bun Install」と題した記事を公開した。この記事では、bun install が既存のパッケージマネージャより著しく高速である理由――システムコール最小化、OSネイティブ機能の活用、バイナリ形式でのメタデータキャッシュ、解凍とファイルコピーの最適化、マルチコア並列実行――について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68c3442cd0e17253abf85b46?from=rss</guid>
-      <pubDate>Thu, 11 Sep 2025 21:50:35 +0000</pubDate>
+      <title>Codex CLIでMCPサーバを設定する方法！config.toml またはコマンド一発で簡単</title>
+      <link>https://qiita.com/tomada/items/2eb8d5b5173a4d70b287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>こんにちは、とまだです。
+Codex CLIを使い始めたけど「MCPサーバの設定方法がわからない」と困っていませんか？
+実は、MCPサーバを設定すると、Codex CLIがさまざまな外部ツールと連携できるようになり、開発効率がアップします。
+今回は、初心者でも迷わずMCPサ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/tomada/items/2eb8d5b5173a4d70b287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 19 Sep 2025 18:40:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>リバースシェルによるサーバーの乗っ取りをシミュレーション</title>
+      <link>https://qiita.com/inugasuki44/items/b3c71207ee64805189ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>連日投稿29日目。昨日のコマンドインジェクションで開けた穴を使い、今日はサーバーのシェルを乗っ取る「リバースシェル」をやってみる。
+
+今回の目的
+こちらに則り進めています。
+昨日できたのは、DVWA(Web site)の脆弱性をついてコマンドが実行できるところまで。
+今回は... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/inugasuki44/items/b3c71207ee64805189ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 20 Sep 2025 17:22:55 +0000</pubDate>
     </item>
     <item>
       <title>レッドオーシャンに一石を投じるつもりで変なSNSを8ヶ月以上運営してかなり病んだ話</title>
       <link>https://zenn.dev/arusyukuhai/articles/ba583f74944f3c</link>
       <description>序文
 Keik(NonFict.me)というSNSを8ヶ月以上前に開発し、以後運営し続けています。
+
+
 http://keik.org
-
-
 
 入力に45秒の制限時間を設け、タイピング中の内容をリアルタイムで共有、リプレイ可能な形で記録する。これにより、投稿を待たずともリアルタイムでのチャットが可能になる (人数が多い場合ランダムにルーム分けされ、ハッシュタグのようなものをチャットルームとして使うこともできる。また、タイムトラベルという機能で過去の会話を見られる)
 閲覧者の画面をリアルタイムでそのユーザーのプロフィール画面に中継する
@@ -104,6 +95,19 @@ ActivityPubではなく、Bluesky社のAT ... (source: Zennのトレンド)</des
 https://github.com/s-hiraoku/... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/hiraoku/articles/957b24a944cb89</guid>
       <pubDate>Thu, 18 Sep 2025 22:50:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>「複雑な業務ロジック」が読みづらいのは「記述が分散」しているから</title>
+      <link>https://qiita.com/panda728z/items/7182a3ac53040818735e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>背景
+基幹システム移行でいわゆる「複雑な業務ロジック」を移行する場面です。
+最近「ドメイン駆動設計をはじめよう」を読んだため、その手法を意識して移行を行います。
+
+言葉のイメージ
+「複雑な業務ロジック」という言葉がありますが
+これは「業務ロジックが複雑」なイメージを... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/panda728z/items/7182a3ac53040818735e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 19 Sep 2025 21:50:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
