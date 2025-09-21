@@ -11,3 +11,16 @@ percentile_p: 0.70        # 類似度の上位20%を採用する目安（80パ�
 apply_threshold_on: "final_score" # "similarity" or "final_score"（後述）
 min_similarity: 0.10      # コサイン類似度の固定しきい値（0.0〜1.0, nullで無効）
 score_threshold: 0.015 # 最終スコア側にしきい値を置く場合だけ使う
+profiles:
+  - name: default
+    feeds_opml: data/feeds.opml
+    likes_csv: data/likes.csv
+    output_rss: docs/recommended.xml
+    title: "Tech Feed"
+    description: "技術系のブログからおすすめフィードを生成"
+#  - name: alt
+#    feeds_opml: data/alt/feeds.opml
+#    likes_csv: data/alt/likes.csv
+#    output_rss: docs/recommended-alt.xml
+#    title: "別ソースのおすすめフィード"
+#    description: "別の情報源から生成するフィード設定"
