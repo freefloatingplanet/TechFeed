@@ -7,51 +7,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Sep 2025 13:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 01:21:26 +0000</lastBuildDate>
     <item>
-      <title>韓国旅行で食べたレバ刺しをミラーレス一眼とiPhone15でそれぞれ撮ってみたら結構違ってた「これはどちらの方が肉眼に近いの？」</title>
-      <link>https://togetter.com/li/2605076</link>
-      <description>nao @naosama110 こうして見るとやっぱりちゃんとしたカメラって凄いなと思う 特に赤色の表現力が圧倒的 携帯のカメラも良いけど所詮携帯のカメラってコレなんだろうか x.com/sakurasolotra/… 2025-09-20 08:54:55 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2605076</guid>
-      <pubDate>Sat, 20 Sep 2025 01:37:15 +0000</pubDate>
+      <title>Amazon ECR の利用状況とセキュリティレポートを実装する | Amazon Web Services</title>
+      <link>https://aws.amazon.com/jp/blogs/news/implementing-usage-and-security-reporting-for-amazon-ecr/</link>
+      <description>この情報はイメージとストレージ利用量を詳細に分析するのに役立ち、コスト削減のために削減可能な未使用イメージを特定するのに役立ちます。また、この内容はより効果的なライフサイクルポリシーを実施するための知見も提供します。例えば、1/ タグ付けされていないイメージをクリーンアップする、2/ リポジトリごとに... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://aws.amazon.com/jp/blogs/news/implementing-usage-and-security-reporting-for-amazon-ecr/</guid>
+      <pubDate>Fri, 19 Sep 2025 10:58:17 +0000</pubDate>
     </item>
     <item>
-      <title>WebAssembly と Cache を活用した CDN エッジでのサーバレス開発術 (ServerlessDays Tokyo 2025 配布用資料)</title>
-      <link>https://qiita.com/remore/items/18854961787f630832ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>昨年のおさらい
+      <title>SnowflakeとDatabricksの機能をそれぞれ見てみる</title>
+      <link>https://zenn.dev/kou_zenn/articles/50bc3151ef2326</link>
+      <description>Update履歴
+もし新機能がでたりして内容を追加したりしたら履歴として追加したいなと思ってます。
+※小さなリライトは履歴に残しません。
 
-Wasm/WASI の最新事情(2025年版)
 
-Wasm 2.0 リリース (2024/12/18)
 
-Vector instructions: SIMD命令のサポート
-Bulk memory instructions: メモリのブロッ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/remore/items/18854961787f630832ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 20 Sep 2025 01:56:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS セキュリティの全体像を理解しよう - 初学者が知るべき脅威と対策 | ドクセル</title>
-      <link>https://www.docswell.com/s/a-zara-n/5QX4YV-2025-09-11-182813</link>
-      <description>スライド概要 2025/09/11 JAWS-UG 初心者支部#68 残暑のサメとあざらし Security-JAWS コラボ LT 回！ (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.docswell.com/s/a-zara-n/5QX4YV-2025-09-11-182813</guid>
-      <pubDate>Sat, 20 Sep 2025 03:27:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>サプライチェーン攻撃への防御策 | blog.jxck.io</title>
-      <link>https://blog.jxck.io/entries/2025-09-20/mitigate-risk-of-oss-dependencies.html</link>
-      <description>Intro 前回は、Nx の事例をベースに「パッケージを公開する側」の対策について解説した。 今回は、「パッケージを使う側」、もっと言えば「OSS を使う上で開発者が考えるべきこと」について考察する。 OSS の危険性 npm 起因のサプライチェーン攻撃が確認されたことで「npm は危険だ」という話になると、「npm を禁止す... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://blog.jxck.io/entries/2025-09-20/mitigate-risk-of-oss-dependencies.html</guid>
-      <pubDate>Fri, 19 Sep 2025 23:07:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Codex CLIでMCPサーバを設定する方法！config.toml またはコマンド一発で簡単</title>
-      <link>https://qiita.com/tomada/items/2eb8d5b5173a4d70b287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>こんにちは、とまだです。
-Codex CLIを使い始めたけど「MCPサーバの設定方法がわからない」と困っていませんか？
-実は、MCPサーバを設定すると、Codex CLIがさまざまな外部ツールと連携できるようになり、開発効率がアップします。
-今回は、初心者でも迷わずMCPサ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/tomada/items/2eb8d5b5173a4d70b287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 19 Sep 2025 18:40:57 +0000</pubDate>
+Update日
+Update内容
+
+
+
+
+2025/9
+新規作成
+
+
+
+
+ はじめに
+今回はSnowflakeとDatabricksの機能を見てみたいと思います。
+日本だけでなく、海外の記事や動画をみても、網羅的な比較事例が少なめだったので、今回まとめてみようかと思い立ちました。
+業務でどちらも詳しく調べる必要があり、知識のまとめということで書いてみます。
+一つ一つの機能を細かくみるというより、こういう機能があるというのを紹介する感じなので、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kou_zenn/articles/50bc3151ef2326</guid>
+      <pubDate>Sat, 20 Sep 2025 12:11:41 +0000</pubDate>
     </item>
     <item>
       <title>VSCode マルチカーソルの活用方法を基礎から徹底解説</title>
@@ -64,18 +55,11 @@ Codex CLIを使い始めたけど「MCPサーバの設定方法がわからな�
       <pubDate>Thu, 18 Sep 2025 00:52:26 +0000</pubDate>
     </item>
     <item>
-      <title>最高の TypeScript 開発環境を最速で作っていくよ 2025 秋</title>
-      <link>https://zenn.dev/somnicattus/articles/3c1f3756aec24a</link>
-      <description>この記事では、TypeScript の開発環境を最速で整えます。単に動く環境ではなく、最低限必要なツールも一通りそろえていきます。(2025 年秋時点の情報です) この記事で作る開発環境について この記事のゴール bun run コマンドで TypeScript ファイルを実行できる bun repl コマンドで REPL を起動して TypeScript を実行... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/somnicattus/articles/3c1f3756aec24a</guid>
-      <pubDate>Fri, 19 Sep 2025 13:26:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moving off of TypeScript</title>
-      <link>https://engineering.usemotion.com/moving-off-of-typescript-e7bb1f3ad091</link>
-      <description>We Love You, TypeScriptFor nearly five years now, Motion has operated in a large TypeScript monorepo. At its peak, it was roughly ~2.5 million lines of code after excluding comments, node_modules, etc. To manage this, we used Vercel’s rather excellent Turborepo build system. This is not a blog po... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://engineering.usemotion.com/moving-off-of-typescript-e7bb1f3ad091</guid>
-      <pubDate>Fri, 19 Sep 2025 22:51:52 +0000</pubDate>
+      <title>iPhone 17 Proを見て思った。Appleはジョブズと決別したのだと…</title>
+      <link>https://www.gizmodo.jp/2025/09/iphone-17-pro-first-impression.html</link>
+      <description>iPhone 17 Proを見て思った。Appleはジョブズと決別したのだと…2025.09.20 12:3046,236 中川真知子 ついに発売されたiPhone 17シリーズ。大幅なデザインチェンジが発売前から話題でしたが、実際はどうだったのでしょうか。 正直にいいます。iPhone 17 Proの箱を開けた瞬間、私はセンチメンタルになりました。 だって、Ap... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.gizmodo.jp/2025/09/iphone-17-pro-first-impression.html</guid>
+      <pubDate>Sat, 20 Sep 2025 12:46:20 +0000</pubDate>
     </item>
     <item>
       <title>E資格（2025#2）に挑戦した話【結果・考察編】</title>
@@ -106,6 +90,43 @@ https://zenn.dev/dem3860/articles/bd0016643945b4
 ただ、Kiroはウェイトリストに登録... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/tomada/items/6a04114fc41d0b86ffee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Fri, 19 Sep 2025 23:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Teachable MachineとStretch3でつくるAI手洗いチェッカー</title>
+      <link>https://qiita.com/nekoneko0404/items/97b374cdb9c2ea291290?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに：手洗いの意識、どこへ？
+コロナ禍で身につけた手洗いの習慣は、日常の中で薄れていませんか？
+本記事では、身近なIT技術を使って、手洗いの大切さを再認識する 「AI手洗いチェッカー」 の制作過程をご紹介します。
+
+私たちの手のひらには毒性の有無を問わずおよそ1... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/nekoneko0404/items/97b374cdb9c2ea291290?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 20 Sep 2025 09:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【閲覧注意】もらい事故を記録したドラレコ映像、事故そのものも怖いが記録されていた音声の事実に気付くとゾッとする→AI生成なのでは？という意見もあるが…</title>
+      <link>https://togetter.com/li/2605492</link>
+      <description>ゆみ。 @yumix1119yumix @PeopleYuri28034 いや。ドラレコには、不思議ですが、声が入ってましたが、私一人のみ乗車です。他に誰も乗車してなかったです。 2025-09-20 14:24:03 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2605492</guid>
+      <pubDate>Sun, 21 Sep 2025 00:45:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code でサブエージェントを順次実行するワークフローを作成するツール「CC-Flow」の紹介</title>
+      <link>https://zenn.dev/hiraoku/articles/957b24a944cb89</link>
+      <description>はじめに
+最近、Claude Code を使って「設計 → 実装 → テスト → PR」という流れを丸ごと自動化できないかと考え、検証用のプラットフォームを作っていました。
+このプラットフォームは YAML ファイルでサブエージェントを制御し、ワークフローを実行する仕組みです。
+ただ実際にやってみると、サブエージェントを順番に実行していくことは意外と面倒 だと気づきました。
+そこで「もっとシンプルにワークフローを定義できる仕組みが欲しい」と思い、「CC-Flow」 を作りました。この記事では、その仕組みと使い方を紹介します。
+https://github.com/s-hiraoku/... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hiraoku/articles/957b24a944cb89</guid>
+      <pubDate>Thu, 18 Sep 2025 22:50:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>会話の目的は勝つことではない - ともにかける</title>
+      <link>https://paper2.hatenablog.com/entry/2025/09/20/120053</link>
+      <description>「最強のエンジニアになるための話し方の教科書」を読み、過去の経験も踏まえてコミュニケーションについて改めて考える良い機会になりました。 本記事では、書籍の内容を引用しつつ、論理的な正しさだけでは仕事がうまく進まない場面で私が感じたことを整理してみます。 特に過去の私のように「論理的で正しいことが全... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://paper2.hatenablog.com/entry/2025/09/20/120053</guid>
+      <pubDate>Sat, 20 Sep 2025 20:54:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
