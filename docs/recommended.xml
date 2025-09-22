@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Sep 2025 23:01:33 +0000</lastBuildDate>
-    <item>
-      <title>【仕様駆動開発】cc-sddならKiro式も簡単！Claude Code/Cursor/Gemini CLI に使える国産ツール</title>
-      <link>https://qiita.com/tomada/items/6a04114fc41d0b86ffee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>こんにちは、とまだです。
-みなさん、AWS Kiroの仕様駆動開発（Spec-Driven Development）は試したことあるでしょうか？
-
-仕様駆動開発は「要件定義→設計→実装」の順番でAIと協働しながら進める開発スタイルです。
-ただ、Kiroはウェイトリストに登録... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/tomada/items/6a04114fc41d0b86ffee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 19 Sep 2025 23:11:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 01:20:26 +0000</lastBuildDate>
     <item>
       <title>Codex CLIでMCPサーバを設定する方法！config.toml またはコマンド一発で簡単</title>
       <link>https://qiita.com/tomada/items/2eb8d5b5173a4d70b287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -69,6 +58,13 @@ ActivityPubではなく、Bluesky社のAT ... (source: Zennのトレンド)</des
       <description>フロントエンドカンファレンス東京 2025 での発表資料です。 https://fec-tokyo.github.io/2025/ (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://speakerdeck.com/progfay/pahuomansutiyuningude-web-ji-shu-woshen-jue-rizhi-su</guid>
       <pubDate>Sun, 21 Sep 2025 05:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>【仕様駆動開発】cc-sddならKiro式も簡単！Claude Code/Cursor/Gemini CLI に使える国産ツール - Qiita</title>
+      <link>https://qiita.com/tomada/items/6a04114fc41d0b86ffee</link>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? こんにちは、とまだです。 みなさん、AWS Kiroの仕様駆動開発（Spec-Driven Development）は試したことあるでしょうか？ 仕様駆動開発は「要件定義→設計→実装」の順番でAIと協働し... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://qiita.com/tomada/items/6a04114fc41d0b86ffee</guid>
+      <pubDate>Sun, 21 Sep 2025 11:38:45 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI、GPT-5ベースのAIコーディングエージェント GPT-5-Codexをリリース — OpenAI社内ではすでに大半のPRレビューをCodexが担当</title>
