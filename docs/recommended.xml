@@ -7,17 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Sep 2025 12:35:36 +0000</lastBuildDate>
-    <item>
-      <title>Codex CLIでMCPサーバを設定する方法！config.toml またはコマンド一発で簡単</title>
-      <link>https://qiita.com/tomada/items/2eb8d5b5173a4d70b287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>こんにちは、とまだです。
-Codex CLIを使い始めたけど「MCPサーバの設定方法がわからない」と困っていませんか？
-実は、MCPサーバを設定すると、Codex CLIがさまざまな外部ツールと連携できるようになり、開発効率がアップします。
-今回は、初心者でも迷わずMCPサ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/tomada/items/2eb8d5b5173a4d70b287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 19 Sep 2025 18:40:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 13:09:00 +0000</lastBuildDate>
     <item>
       <title>リバースシェルによるサーバーの乗っ取りをシミュレーション</title>
       <link>https://qiita.com/inugasuki44/items/b3c71207ee64805189ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -29,6 +19,19 @@ Codex CLIを使い始めたけど「MCPサーバの設定方法がわからな�
 今回は... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/inugasuki44/items/b3c71207ee64805189ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Sat, 20 Sep 2025 17:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Full Weak Engineer CTF 2025を開催しました 〜運営の裏側〜</title>
+      <link>https://zenn.dev/fwectf/articles/4158968faed5b7</link>
+      <description>はいどうも、脆弱エンジニアのアスースン・オンラインです。
+（…と言いつつ、この記事は運営メンバー一同で執筆しています！）
+2025年8月29日(金) 〜 8月31日(日)に「Full Weak Engineer CTF 2025」を開催しました！
+このCTFは、CTFチーム full_weak_engineer の有志のメンバー（うち半数が学生）で作問・運営をしていました。
+
+問題：https://github.com/full-weak-engineer/FWE_CTF_2025_public/tree/main
+過去にアスースンが開催していた ASUSN CTF （大喜利あり・ネタ寄... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/fwectf/articles/4158968faed5b7</guid>
+      <pubDate>Sun, 21 Sep 2025 10:00:01 +0000</pubDate>
     </item>
     <item>
       <title>レッドオーシャンに一石を投じるつもりで変なSNSを8ヶ月以上運営してかなり病んだ話</title>
