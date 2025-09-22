@@ -29,7 +29,7 @@ profiles:
       enabled: true
       source_language: "en"
       target_language: "ja"
-  - name: default
+  - name: space
     feeds_opml: data/feeds_space.opml
     likes_csv: data/likes_space.csv
     output_rss: docs/recommended-space.xml
