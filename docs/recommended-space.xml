@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Space Tech Feed</title>
+    <link>https://example.com</link>
+    <description>宇宙関係の記事からおすすめフィードを生成</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Sep 2025 07:06:17 +0000</lastBuildDate>
+    <item>
+      <title>衛星画像で「見えない不動産」を可視化–アクセルスペースとWHEREが登記情報の精度高める実証</title>
+      <link>https://uchubiz.com/article/new65927/</link>
+      <description>アクセルスペース（東京都中央区）とWHERE（東京都文京区）は9月17日、衛星画像とAIを活用して不動産登記情報の精度を高める概念実証（PoC）を開始すると発表した。両社は”見えない不動産を見える化する”ことを目指し、 […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new65927/</guid>
+      <pubDate>Thu, 18 Sep 2025 23:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>アストロスケール、宇宙空間における衛星への燃料補給の技術開発を加速【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/42418/</link>
+      <description>2025年9月1日、アストロスケールは、国立研究開発法人科学技術振興機構と、協力衛星を対象とした宇宙空間における燃料補給技術の委託研究契約を締結。その概要を紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/42418/</guid>
+      <pubDate>Tue, 09 Sep 2025 00:30:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>マスク氏「2055年までに火星に移住可能」–新スターシップは「抜本的に再設計」</title>
+      <link>https://uchubiz.com/article/new65816/</link>
+      <description>米Space Exploration Technologies（SpaceX、スペースX）の創業者で最高経営責任者（CEO）と最高技術責任者（CTO）を務めるElon Musk（イーロン・マスク）氏は米国時間9月9日、 […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new65816/</guid>
+      <pubDate>Wed, 17 Sep 2025 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>「Toyota Woven City」の「Inventors」としてインターステラテクノロジズが宇宙企業として初参画、5社・団体との打上げ契約も発表【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/42187/</link>
+      <description>トヨタ自動車とウーブン・バイ・トヨタがロケット開発のインターステラテクノロジズと本格的なパートナーシップを締結。2社の協業の沿革と展望を紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/42187/</guid>
+      <pubDate>Sun, 21 Sep 2025 23:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>豊かな暮らしを支える地理空間情報の活用アイデアを称える「イチBizアワード」の〆切迫る【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/42537/</link>
+      <description>地理空間情報を活用する「イチBizアワード」が応募〆切は10月まで（一部部門は10月15日まで）。新設の不動産情報活用部門を含め、多様な方の応募を受け付け中です。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/42537/</guid>
+      <pubDate>Sun, 21 Sep 2025 23:01:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>太陽系から半径4000光年以内　天の川銀河の外から見たような星形成領域の3DマップをESAが動画公開</title>
+      <link>https://sorae.info/astronomy/20250918-gaia-3d-map.html</link>
+      <description>こちらは、太陽系の周辺に広がる星形成領域を描いたアニメーション動画。太陽から半径4000光年以内の範囲が、実際の観測データをもとに3Dで再現されています。 【▲ ESAの宇宙望遠鏡「Gaia（ガイア）」の観測データを使っ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20250918-gaia-3d-map.html</guid>
+      <pubDate>Thu, 18 Sep 2025 11:06:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【飛行機の上でオンライン会議が当たり前の世界に？】AmazonのKuiperが初の航空会社との契約を発表【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/42444/</link>
+      <description>2025年9月4日、Amazonは、低軌道通信衛星コンステレーション「Project Kuiper」を利用する初の航空会社の顧客として、アメリカの航空会社JetBlueと契約したことを発表。その概要やKuiperの今を簡単にまとめました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/42444/</guid>
+      <pubDate>Wed, 10 Sep 2025 10:17:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>米アクシオム、ISSから民間ステーションへの移行を支援–研究者グループを結成</title>
+      <link>https://uchubiz.com/article/new66016/</link>
+      <description>米Axiom Space（アクシオム・スペース）は、2030年の運用終了が計画されている国際宇宙ステーション（ISS）から民間宇宙ステーションへの移行を支援するための研究者グループ「Axiom Space Univer […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new66016/</guid>
+      <pubDate>Mon, 22 Sep 2025 06:13:13 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

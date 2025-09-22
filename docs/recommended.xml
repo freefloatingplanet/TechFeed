@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Sep 2025 01:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 07:06:10 +0000</lastBuildDate>
     <item>
       <title>Codex CLIでMCPサーバを設定する方法！config.toml またはコマンド一発で簡単</title>
       <link>https://qiita.com/tomada/items/2eb8d5b5173a4d70b287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -29,6 +29,19 @@ Codex CLIを使い始めたけど「MCPサーバの設定方法がわからな�
 今回は... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/inugasuki44/items/b3c71207ee64805189ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Sat, 20 Sep 2025 17:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Full Weak Engineer CTF 2025を開催しました 〜運営の裏側〜</title>
+      <link>https://zenn.dev/fwectf/articles/4158968faed5b7</link>
+      <description>はいどうも、脆弱エンジニアのアスースン・オンラインです。
+（…と言いつつ、この記事は運営メンバー一同で執筆しています！）
+2025年8月29日(金) 〜 8月31日(日)に「Full Weak Engineer CTF 2025」を開催しました！
+このCTFは、CTFチーム full_weak_engineer の有志のメンバー（うち半数が学生）で作問・運営をしていました。
+
+問題：https://github.com/full-weak-engineer/FWE_CTF_2025_public/tree/main
+過去にアスースンが開催していた ASUSN CTF （大喜利あり・ネタ寄... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/fwectf/articles/4158968faed5b7</guid>
+      <pubDate>Sun, 21 Sep 2025 10:00:01 +0000</pubDate>
     </item>
     <item>
       <title>レッドオーシャンに一石を投じるつもりで変なSNSを8ヶ月以上運営してかなり病んだ話</title>
@@ -53,18 +66,23 @@ ActivityPubではなく、Bluesky社のAT ... (source: Zennのトレンド)</des
       <pubDate>Mon, 15 Sep 2025 21:34:48 +0000</pubDate>
     </item>
     <item>
-      <title>パフォーマンスチューニングで Web 技術を深掘り直す</title>
-      <link>https://speakerdeck.com/progfay/pahuomansutiyuningude-web-ji-shu-woshen-jue-rizhi-su</link>
-      <description>フロントエンドカンファレンス東京 2025 での発表資料です。 https://fec-tokyo.github.io/2025/ (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://speakerdeck.com/progfay/pahuomansutiyuningude-web-ji-shu-woshen-jue-rizhi-su</guid>
-      <pubDate>Sun, 21 Sep 2025 05:19:32 +0000</pubDate>
+      <title>うちの Step Functions、こうやって育ててます （実践 Tips 集）</title>
+      <link>https://zenn.dev/knowledgework/articles/feb2823365e8cd</link>
+      <description>はじめに ※本記事は、KNOWLEDGE WORK Blog Sprint 第 18 日目の記事です。 ナレッジワークのソフトウェアエンジニア yamaryoxxxx です。今回は AWS Step Functions のワークフローについて、数年にわたる本番運用で培った実践的なノウハウを共有します。 本記事の対象読者 Step Functions の基本概念を理解している方 CD... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/feb2823365e8cd</guid>
+      <pubDate>Sat, 20 Sep 2025 07:19:56 +0000</pubDate>
     </item>
     <item>
-      <title>【仕様駆動開発】cc-sddならKiro式も簡単！Claude Code/Cursor/Gemini CLI に使える国産ツール - Qiita</title>
-      <link>https://qiita.com/tomada/items/6a04114fc41d0b86ffee</link>
-      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? こんにちは、とまだです。 みなさん、AWS Kiroの仕様駆動開発（Spec-Driven Development）は試したことあるでしょうか？ 仕様駆動開発は「要件定義→設計→実装」の順番でAIと協働し... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://qiita.com/tomada/items/6a04114fc41d0b86ffee</guid>
-      <pubDate>Sun, 21 Sep 2025 11:38:45 +0000</pubDate>
+      <title>AIエージェントを脱線させないプロンプト設計の実践ガイド</title>
+      <link>https://zenn.dev/toccasystems/articles/ai-agent-guardrail-prompt-tips</link>
+      <description>はじめに
+DevinやGitHub Copilot AgentのようなAIエージェントは、設計・実装の一部を自動化し開発速度を大きく向上させます。しかし、明確なガードレールなしに指示を出すと、リポジトリの前提を誤解したり、想定外の実装に踏み込んだりして生産性が下がることも少なくありません。本記事では、AIエージェントが設計や開発タスクを脱線しないようにするためのプロンプトのコツを、READMEやdocsの整備、タスクのスライシング、issueの書き方といった観点で具体的に紹介します。
+
+ ガードレールとしてのREADME / docs整備と活用プロンプト
+
+ READMEを「行動ルー... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/toccasystems/articles/ai-agent-guardrail-prompt-tips</guid>
+      <pubDate>Sun, 21 Sep 2025 10:08:20 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI、GPT-5ベースのAIコーディングエージェント GPT-5-Codexをリリース — OpenAI社内ではすでに大半のPRレビューをCodexが担当</title>
@@ -72,18 +90,6 @@ ActivityPubではなく、Bluesky社のAT ... (source: Zennのトレンド)</des
       <description>9月16日、OpenAI Blogで「Introducing upgrades to Codex」と題した記事が公開された。この記事では、エージェント的なコーディングに最適化された「GPT-5-Codex」と、それを取り巻くCodexの新機能や改善点について詳しく紹介されている。以下に、その内容を簡潔にまとめて紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68c8849718f89a7761dca482?from=rss</guid>
       <pubDate>Mon, 15 Sep 2025 21:26:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code でサブエージェントを順次実行するワークフローを作成するツール「CC-Flow」の紹介</title>
-      <link>https://zenn.dev/hiraoku/articles/957b24a944cb89</link>
-      <description>はじめに
-最近、Claude Code を使って「設計 → 実装 → テスト → PR」という流れを丸ごと自動化できないかと考え、検証用のプラットフォームを作っていました。
-このプラットフォームは YAML ファイルでサブエージェントを制御し、ワークフローを実行する仕組みです。
-ただ実際にやってみると、サブエージェントを順番に実行していくことは意外と面倒 だと気づきました。
-そこで「もっとシンプルにワークフローを定義できる仕組みが欲しい」と思い、「CC-Flow」 を作りました。この記事では、その仕組みと使い方を紹介します。
-https://github.com/s-hiraoku/... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hiraoku/articles/957b24a944cb89</guid>
-      <pubDate>Thu, 18 Sep 2025 22:50:18 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】次期Linuxカーネル6.18に、Googleが開発したTCP接続暗号化プロトコル「PSP」の実装がマージされる</title>
