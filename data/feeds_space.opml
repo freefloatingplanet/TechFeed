@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="宇宙" title="宇宙">
+            <outline type="rss" text="sorae 宇宙へのポータルサイト" title="sorae 宇宙へのポータルサイト" xmlUrl="https://sorae.info/feed" htmlUrl="https://sorae.info"/>
+            <outline type="rss" text="Uchubiz" title="Uchubiz" xmlUrl="https://uchubiz.com/feed/" htmlUrl="https://ssl.uchubiz.com"/>
+            <outline type="rss" text="JAXA プレスリリース" title="JAXA プレスリリース" xmlUrl="http://www.jaxa.jp/rss/press_j.rdf" htmlUrl="https://www.jaxa.jp/"/>
+            <outline type="rss" text="マイナビニュース テクノロジー 宇宙・航空" title="マイナビニュース テクノロジー 宇宙・航空" xmlUrl="http://feeds.journal.mycom.co.jp/rss/mycom/technology/aerospace" htmlUrl="https://news.mynavi.jp/top/techplus/technology/aerospace/"/>
+            <outline type="rss" text="宙畑" title="宙畑" xmlUrl="https://sorabatake.jp/feed/" htmlUrl="https://sorabatake.jp"/>
+        </outline>
+    </body>
+</opml>

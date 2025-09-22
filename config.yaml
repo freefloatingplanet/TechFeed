@@ -29,3 +29,9 @@ profiles:
       enabled: true
       source_language: "en"
       target_language: "ja"
+  - name: default
+    feeds_opml: data/feeds_space.opml
+    likes_csv: data/likes_space.csv
+    output_rss: docs/recommended-space.xml
+    title: "Space Tech Feed"
+    description: "宇宙関係の記事からおすすめフィードを生成"
