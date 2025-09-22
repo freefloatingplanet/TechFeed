@@ -24,6 +24,8 @@ profiles:
     output_rss: docs/recommended-english.xml
     title: "Tech Feed (English)"
     description: "英語記事からおすすめフィードを生成"
+    apply_threshold_on: "final_score" # "similarity" or "final_score"（後述）
+    score_threshold: 0.100 # 最終スコア側にしきい値を置く場合だけ使う
     language: "ja"
     translation:
       enabled: true
@@ -35,3 +37,6 @@ profiles:
     output_rss: docs/recommended-space.xml
     title: "Space Tech Feed"
     description: "宇宙関係の記事からおすすめフィードを生成"
+    apply_threshold_on: "final_score" # "similarity" or "final_score"（後述）
+    score_threshold: 0.010 # 最終スコア側にしきい値を置く場合だけ使う
+
