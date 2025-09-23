@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Sep 2025 01:13:53 +0000</lastBuildDate>
-    <item>
-      <title>【仕様駆動開発】cc-sddならKiro式も簡単！Claude Code/Cursor/Gemini CLI に使える国産ツール</title>
-      <link>https://qiita.com/tomada/items/6a04114fc41d0b86ffee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>こんにちは、とまだです。
-みなさん、AWS Kiroの仕様駆動開発（Spec-Driven Development）は試したことあるでしょうか？
-
-仕様駆動開発は「要件定義→設計→実装」の順番でAIと協働しながら進める開発スタイルです。
-ただ、Kiroはウェイトリストに登録... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/tomada/items/6a04114fc41d0b86ffee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 19 Sep 2025 23:11:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 12:34:16 +0000</lastBuildDate>
     <item>
       <title>リバースシェルによるサーバーの乗っ取りをシミュレーション</title>
       <link>https://qiita.com/inugasuki44/items/b3c71207ee64805189ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -32,16 +21,11 @@
       <pubDate>Sat, 20 Sep 2025 17:22:55 +0000</pubDate>
     </item>
     <item>
-      <title>docker compose大全集</title>
-      <link>https://qiita.com/takuteh/items/cc9f437d6ae973545d07?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-Dockerfileの書き方については、こちらの記事で紹介しているのでイメージの作り方が知りたい方は参照してください。
-
-また、この記事では主に使用するであろう情報は記載しているつもりですが、紹介しきれていないオプションや設定等もあります。
-
-Docker ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/takuteh/items/cc9f437d6ae973545d07?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sun, 21 Sep 2025 15:18:14 +0000</pubDate>
+      <title>Browserslist now supports Baseline  |  Blog  |  web.dev</title>
+      <link>https://web.dev/blog/browserslist-supports-baseline</link>
+      <description>Published: September 16, 2025 Browserslist is a utility that tells build toolchains how to modify source code for a specified set of browsers. Browserslist relies on a query syntax that specifies exact versions of browsers, relative queries such as last 2 years, and even usage-based queries like ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://web.dev/blog/browserslist-supports-baseline</guid>
+      <pubDate>Mon, 22 Sep 2025 15:13:46 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】多すぎてつらい…！Safari 26.0の新機能をAppleが公式に紹介 — CSSアンカーポジショニングなど、Web開発者待望の機能が満載</title>
@@ -49,6 +33,16 @@ Docker ... (source: Qiita - 人気の記事)</description>
       <description>9月11日、Appleが「WebKit Features in Safari 26.0」と題した記事を公開した。この記事では、Safari 26.0で追加・改善されたWebKitの新機能（CSS/HTML/JS/メディア/セキュリティ/開発者ツール/SwiftUI APIなど）について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68c88678d0e17253abf951b2?from=rss</guid>
       <pubDate>Mon, 15 Sep 2025 21:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>TeamsのAIワークフローって何？CopilotやPower Automateと何が違うの？</title>
+      <link>https://qiita.com/Oyu3m/items/b9c3ac3efb6f7cd6ebaf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>前提
+この記事は2025/9/23時点での公開情報や動作を私なりにまとめたものとなります。
+正確な情報はご自身でご確認もしくはMicrosoftへお問い合わせください。
+また、環境ごとにリリースタイミングが異なる点や、管理者により制御されている可能性がある点、ご留意くださ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Oyu3m/items/b9c3ac3efb6f7cd6ebaf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Mon, 22 Sep 2025 17:17:21 +0000</pubDate>
     </item>
     <item>
       <title>仕様書がコードを生む時代：話題のSDDを試してみた - Algomatic Tech Blog</title>
@@ -60,14 +54,9 @@ Docker ... (source: Qiita - 人気の記事)</description>
     <item>
       <title>AIエージェントを脱線させないプロンプト設計の実践ガイド</title>
       <link>https://zenn.dev/toccasystems/articles/ai-agent-guardrail-prompt-tips</link>
-      <description>はじめに
-DevinやGitHub Copilot AgentのようなAIエージェントは、設計・実装の一部を自動化し開発速度を大きく向上させます。しかし、明確なガードレールなしに指示を出すと、リポジトリの前提を誤解したり、想定外の実装に踏み込んだりして生産性が下がることも少なくありません。本記事では、AIエージェントが設計や開発タスクを脱線しないようにするためのプロンプトのコツを、READMEやdocsの整備、タスクのスライシング、issueの書き方といった観点で具体的に紹介します。
-
- ガードレールとしてのREADME / docs整備と活用プロンプト
-
- READMEを「行動ルー... (source: Zennのトレンド)</description>
+      <description>はじめに DevinやGitHub Copilot AgentのようなAIエージェントは、設計・実装の一部を自動化し開発速度を大きく向上させます。しかし、明確なガードレールなしに指示を出すと、リポジトリの前提を誤解したり、想定外の実装に踏み込んだりして生産性が下がることも少なくありません。本記事では、AIエージェントが設計や... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://zenn.dev/toccasystems/articles/ai-agent-guardrail-prompt-tips</guid>
-      <pubDate>Sun, 21 Sep 2025 10:08:20 +0000</pubDate>
+      <pubDate>Sun, 21 Sep 2025 14:24:26 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI、GPT-5ベースのAIコーディングエージェント GPT-5-Codexをリリース — OpenAI社内ではすでに大半のPRレビューをCodexが担当</title>
@@ -94,17 +83,16 @@ DevinやGitHub Copilot AgentのようなAIエージェントは、設計・実�
       <pubDate>Sun, 21 Sep 2025 23:56:20 +0000</pubDate>
     </item>
     <item>
-      <title>「複雑な業務ロジック」が読みづらいのは「記述が分散」しているから</title>
-      <link>https://qiita.com/panda728z/items/7182a3ac53040818735e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>背景
-基幹システム移行でいわゆる「複雑な業務ロジック」を移行する場面です。
-最近「ドメイン駆動設計をはじめよう」を読んだため、その手法を意識して移行を行います。
-
-言葉のイメージ
-「複雑な業務ロジック」という言葉がありますが
-これは「業務ロジックが複雑」なイメージを... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/panda728z/items/7182a3ac53040818735e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 19 Sep 2025 21:50:49 +0000</pubDate>
+      <title>RTX 3060の最適な電力制約を検討する</title>
+      <link>https://zenn.dev/robustonian/articles/nvidia-power-limit-optimization</link>
+      <description>はじめに
+最近RTX 5090を欲しいと思いつつ、575Wの消費電力は色々と怖いので450Wぐらいで動かせたら多少安心できそうと思うようになった。
+しかし、電力制約はどうやって設定変更できるんだっけ？BIOSから？まあ買う前に調べればいいやと思っていたのだが、いつも参考にさせていただいているやかもち＠ちもろぐさんの投稿で、電力制約の変更が簡単にできることがわかった。
+https://x.com/gosrum/status/1969744945050468767
+上記の通り、Ubuntuでも簡単に変更することができた。
+この記事では、再起動時に設定を自動的に変更する方法と、RTX 30... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/robustonian/articles/nvidia-power-limit-optimization</guid>
+      <pubDate>Mon, 22 Sep 2025 04:08:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

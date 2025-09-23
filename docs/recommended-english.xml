@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Sep 2025 01:13:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 12:34:19 +0000</lastBuildDate>
     <item>
       <title>アポフィスにおけるアメリカのリーダーシップ</title>
       <link>https://spacenews.com/american-leadership-at-apophis/</link>
@@ -16,11 +16,11 @@
       <pubDate>Fri, 19 Sep 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI、主権、そして次世代衛星</title>
-      <link>https://spacenews.com/ai-sovereignty-and-the-next-generation-of-satellites/</link>
-      <description>今週のSpace Minds CEOシリーズ特別編では、パリで開催されている世界宇宙ビジネスウィークに密着取材します。本日のエピソードでは、SpaceNews編集者のマイク・グラスが、BlackSkyのCEOであるブライアン・オトゥール氏と対談します。この記事「AI、主権、そして次世代衛星」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/ai-sovereignty-and-the-next-generation-of-satellites/</guid>
-      <pubDate>Thu, 18 Sep 2025 13:30:39 +0000</pubDate>
+      <title>進化する需要に応えるためにIRIS²を拡大</title>
+      <link>https://spacenews.com/scaling-up-iris%c2%b2-to-meet-evolving-demands/</link>
+      <description>サンフランシスコ発 – 欧州の民間宇宙リーダーたちは、安全な通信コンステレーション（衛星通信網）構築に向けた旗艦キャンペーンの拡大を提案した。約290基の衛星からなる「衛星によるレジリエンス、相互接続性、セキュリティのためのインフラストラクチャ（IRIS²）」コンステレーションが提案されて以来、批評家たちはこの計画を「遅すぎる、規模が小さすぎる」と批判してきたと、欧州委員会の[…]チームリーダーであるニコラス・ギレルミン氏は述べている。この記事「変化する需要に対応するためにIRIS²をスケールアップ」はSpaceNewsに初掲載された。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/scaling-up-iris%c2%b2-to-meet-evolving-demands/</guid>
+      <pubDate>Tue, 23 Sep 2025 02:43:30 +0000</pubDate>
     </item>
     <item>
       <title>Novaspace、世界宇宙ビジネスウィークで衛星接続、地球観測、スタートアップチャレンジの2025年度優秀賞受賞者を表彰</title>
@@ -37,11 +37,25 @@
       <pubDate>Fri, 19 Sep 2025 15:53:42 +0000</pubDate>
     </item>
     <item>
-      <title>新興のハイパースペクトル分野にとって、顧客教育は戦いの半分を占めるかもしれない</title>
-      <link>https://spacenews.com/educating-customers-may-be-half-the-battle-for-nascent-hyperspectral-sector/</link>
-      <description>パリ – ハイパースペクトル衛星事業者にとっての大きな課題は、潜在顧客に有望なアプリケーションを知らせることだと、当地で開催された地球観測ビジネスサミットの講演者たちは述べた。ハイパースペクトルデータセットは、大気中の温室効果ガスを明らかにし、リチウムなどの高価値鉱物の貯蔵量を特定し、農地の窒素を測定し、生物兵器や核兵器の兆候を正確に特定することができる。[…] 顧客への啓蒙が、新興のハイパースペクトル分野における戦いの半分を担うかもしれないという記事が、SpaceNewsに初掲載された。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/educating-customers-may-be-half-the-battle-for-nascent-hyperspectral-sector/</guid>
-      <pubDate>Thu, 18 Sep 2025 15:35:32 +0000</pubDate>
+      <title>ファイアフライ、アルファ版打ち上げを近々再開予定</title>
+      <link>https://spacenews.com/firefly-looks-to-resume-alpha-launches-soon/</link>
+      <description>ファイアフライ・エアロスペースは「数週間以内に」アルファ打ち上げを再開し、年末までに2回の打ち上げを計画している。この記事「ファイアフライ、アルファ打ち上げをまもなく再開へ」はSpaceNewsに初掲載された。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/firefly-looks-to-resume-alpha-launches-soon/</guid>
+      <pubDate>Tue, 23 Sep 2025 11:53:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>テラン・オービタル、ロッキード・マーティン社へのトランシェ1トランスポート層向け衛星バスプラットフォームの納入を完了</title>
+      <link>https://spacenews.com/terran-orbital-completes-delivery-of-satellite-bus-platforms-to-lockheed-martin-for-the-tranche-1-transport-layer/</link>
+      <description>カリフォルニア州アーバイン – 2025年9月23日 – 航空宇宙および防衛産業を主な顧客とする小型衛星の大手メーカーであるTerran Orbital Corporationは本日、[…] 全ての納品が成功したと発表しました。Terran OrbitalがLockheed MartinへのTranche 1トランスポート層向け衛星バスプラットフォームの納入を完了、という記事がSpaceNewsに最初に掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/terran-orbital-completes-delivery-of-satellite-bus-platforms-to-lockheed-martin-for-the-tranche-1-transport-layer/</guid>
+      <pubDate>Tue, 23 Sep 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>国家を守るために、黄金のドームは自らを守る能力を持たなければならない</title>
+      <link>https://spacenews.com/to-protect-the-nation-the-golden-dome-must-be-capable-of-protecting-itself/</link>
+      <description>軍事能力の公開デモンストレーションではあまり取り上げられることはないものの、衛星はアメリカとその同盟国の防衛に不可欠な存在です。ミサイル発射のほぼ即時の警告を提供し、戦略的な通信を可能にし、[…] この記事「国家を守るために、黄金のドームは自らを守れる能力を備えていなければならない」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/to-protect-the-nation-the-golden-dome-must-be-capable-of-protecting-itself/</guid>
+      <pubDate>Tue, 23 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ライブイベント: 宇宙投資の展望</title>
