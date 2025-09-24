@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Sep 2025 12:34:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 13:07:45 +0000</lastBuildDate>
     <item>
       <title>TeamsのAIワークフローって何？CopilotやPower Automateと何が違うの？</title>
       <link>https://qiita.com/Oyu3m/items/b9c3ac3efb6f7cd6ebaf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -65,18 +65,6 @@ DevinやGitHub Copilot AgentのようなAIエージェントは、設計・実�
       <description>9月22日、Phoronixが「Linux Ready To Upstream Support For Google's PSP Encryption For TCP Connections」と題した記事を公開した。この記事では、Googleが開発したPSP（PSP Security Protocol）のTCP接続向け暗号化サポートがLinuxカーネル6.18に統合される見込みについて詳しく紹介されている。以下に、その内容を紹介する。PSPとは何かPSP（PSP Security Protocol）は、Googleが大規模データセンター向けに開発した新しい暗号化プロトコルである。AMDのPlatform Security Processor（同名のPSP）とは無関係であり、TCP接続における通信データを暗号化する仕組みを提供する。PSPは以下の特徴を持つ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68d07647d0e17253abfb4977?from=rss</guid>
       <pubDate>Sun, 21 Sep 2025 22:03:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>RTX 3060の最適な電力制約を検討する</title>
-      <link>https://zenn.dev/robustonian/articles/nvidia-power-limit-optimization</link>
-      <description>はじめに
-最近RTX 5090を欲しいと思いつつ、575Wの消費電力は色々と怖いので450Wぐらいで動かせたら多少安心できそうと思うようになった。
-しかし、電力制約はどうやって設定変更できるんだっけ？BIOSから？まあ買う前に調べればいいやと思っていたのだが、いつも参考にさせていただいているやかもち＠ちもろぐさんの投稿で、電力制約の変更が簡単にできることがわかった。
-https://x.com/gosrum/status/1969744945050468767
-上記の通り、Ubuntuでも簡単に変更することができた。
-この記事では、再起動時に設定を自動的に変更する方法と、RTX 30... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/robustonian/articles/nvidia-power-limit-optimization</guid>
-      <pubDate>Mon, 22 Sep 2025 04:08:13 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】FigmaがWebGLからWebGPUベースへのレンダリングに移行していた — 1年以上に渡る取り組みを詳細に記した記事が話題に</title>
