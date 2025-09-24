@@ -7,27 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Sep 2025 01:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 12:35:02 +0000</lastBuildDate>
     <item>
-      <title>アポフィスにおけるアメリカのリーダーシップ</title>
-      <link>https://spacenews.com/american-leadership-at-apophis/</link>
-      <description>21世紀で最も重要な地球近傍小惑星イベントとなるかもしれない出来事まで、あと4年を切りました。2029年4月13日、エジプトの混沌の神にちなんで名付けられた小惑星アポフィスが地球に非常に接近し、地球の大部分で肉眼で見えるようになります[…] この記事「アポフィスにおけるアメリカのリーダーシップ」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/american-leadership-at-apophis/</guid>
-      <pubDate>Fri, 19 Sep 2025 13:00:00 +0000</pubDate>
+      <title>米軍は中国の再使用ロケット推進を宇宙安全保障上の懸念とみなしている</title>
+      <link>https://spacenews.com/u-s-military-sees-chinas-reusable-rocket-push-as-a-space-security-concern/</link>
+      <description>宇宙軍の指導者らは、北京の再利用可能な軌道ロケットの追求は、この技術の国家安全保障上の価値を強調するものであり、それが成熟した暁には中国がその技術をどのように利用するかについて警戒を強めるものだと述べた。米軍は中国の再利用可能なロケット推進を宇宙安全保障上の懸念とみている、という記事が最初にSpaceNewsに掲載された。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/u-s-military-sees-chinas-reusable-rocket-push-as-a-space-security-concern/</guid>
+      <pubDate>Tue, 23 Sep 2025 20:50:24 +0000</pubDate>
     </item>
     <item>
       <title>進化する需要に応えるためにIRIS²を拡大</title>
       <link>https://spacenews.com/scaling-up-iris%c2%b2-to-meet-evolving-demands/</link>
-      <description>サンフランシスコ発 – 欧州の民間宇宙リーダーたちは、安全な通信コンステレーションの構築に向けた旗艦キャンペーンの拡大を提案した。約290基の衛星からなる「衛星によるレジリエンス、相互接続性、セキュリティのためのインフラストラクチャ（IRIS²）」コンステレーションが2022年に提案されて以来、批評家たちはこの計画を「遅すぎる、規模が小さすぎる」と批判してきたと、欧州委員会のニコラス・ギレルミン氏は述べている[…] 進化する需要に対応するためのIRIS²のスケールアップに関する記事は、SpaceNewsに初掲載された。 (source: SpaceNews)</description>
+      <description>サンフランシスコ発 ― 欧州の民間宇宙リーダーたちは、安全な通信コンステレーションの構築に向けた旗艦キャンペーンの拡大を提案した。約290基の衛星からなる「衛星によるレジリエンス、相互接続性、セキュリティのためのインフラストラクチャ（IRIS²）」コンステレーションが2022年に提案されて以来、批評家たちはこの計画を「遅すぎる、規模が小さすぎる」と批判してきたと、欧州委員会のニコラス・ギレルミン氏は述べている[…] 進化する需要に対応するためのIRIS²のスケールアップに関する記事がSpaceNewsに初掲載された。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/scaling-up-iris%c2%b2-to-meet-evolving-demands/</guid>
       <pubDate>Tue, 23 Sep 2025 02:43:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Novaspace、世界宇宙ビジネスウィークで衛星接続、地球観測、スタートアップチャレンジの2025年度優秀賞受賞者を表彰</title>
-      <link>https://spacenews.com/novaspace-recognizes-2025-excellence-award-winners-in-satellite-connectivity-earth-observation-and-startup-challenge-at-world-space-business-week/</link>
-      <description>パリ、2025年9月19日 – Novaspaceは、第28回世界宇宙ビジネス週間で、年間優秀賞とWSBWスタートアップチャレンジの2025年度受賞者を誇りを持って表彰しました。 […] この記事「Novaspaceが世界宇宙ビジネス週間で衛星接続、地球観測、スタートアップチャレンジの2025年度優秀賞受賞者を表彰」はSpaceNewsに最初に掲載されました。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/novaspace-recognizes-2025-excellence-award-winners-in-satellite-connectivity-earth-observation-and-startup-challenge-at-world-space-business-week/</guid>
-      <pubDate>Fri, 19 Sep 2025 14:54:51 +0000</pubDate>
     </item>
     <item>
       <title>宇宙の新時代を形作る</title>
@@ -58,9 +51,16 @@
       <pubDate>Tue, 23 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>リンカーとNOAAがカスタマイズされた宇宙天気予報を作成</title>
+      <link>https://spacenews.com/lynker-and-noaa-to-create-tailored-space-weather-forecasts/</link>
+      <description>サンフランシスコ — Lynker Space社は、米国海洋大気庁（NOAA）と協力し、送電網などの米国の重要インフラ事業者向けにカスタマイズされた宇宙天気予報を提供しています。このニュースは、NASAが9月24日にSpaceX社製のロケットで2つの太陽物理学ミッションとNOAA宇宙天気観測所の打ち上げを準備する中で発表されました。[…] LynkerとNOAAがカスタマイズされた宇宙天気予報を作成へ この記事はSpaceNewsに掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/lynker-and-noaa-to-create-tailored-space-weather-forecasts/</guid>
+      <pubDate>Wed, 24 Sep 2025 03:08:41 +0000</pubDate>
+    </item>
+    <item>
       <title>ライブイベント: 宇宙投資の展望</title>
       <link>https://spacenews.com/live-event-the-space-investment-horizon/</link>
-      <description>米国は60年以上にわたり、宇宙における原子力発電の可能性を追求してきました。これは、太陽光が届かない場所にエネルギーを供給し、化学推進の限界を超えたミッションを可能にする技術です。しかし、1965年に短期間の原子炉打ち上げが行われて以来、軌道上で稼働した核分裂炉はありません。この記事「ライブイベント：宇宙投資の展望」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
+      <description>米国は60年以上にわたり、宇宙における原子力発電の可能性を追求してきました。これは、太陽光が届かない場所にエネルギーを供給し、化学推進の限界を超えたミッションを可能にする技術です。しかし、1965年の原子炉の短期飛行以来、軌道上で稼働した核分裂炉はありません。この記事「ライブイベント：宇宙投資の展望」はSpaceNewsに最初に掲載されました。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/live-event-the-space-investment-horizon/</guid>
       <pubDate>Fri, 19 Sep 2025 18:33:33 +0000</pubDate>
     </item>

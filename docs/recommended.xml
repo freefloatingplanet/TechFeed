@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Sep 2025 01:14:56 +0000</lastBuildDate>
-    <item>
-      <title>Glideでサクッとアプリを作ろう～ 勤怠確認・連絡できるアプリ</title>
-      <link>https://qiita.com/vmfhxhdyd/items/f280403e718809f4ed40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>こんにちは。
-小売業の商品部で働いているふひーです。
-今回は、Glideを使ってアプリを作りましたので、ご紹介します。
-
- 作業の背景
-日々デジタルの勉強に励んでいる中で、部内のメンバーから以下のような依頼を受けました。
-
-現在は、認証が必要な部の共有フォルダ内でExcel... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/vmfhxhdyd/items/f280403e718809f4ed40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sun, 21 Sep 2025 07:14:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Sep 2025 12:34:59 +0000</lastBuildDate>
     <item>
       <title>TeamsのAIワークフローって何？CopilotやPower Automateと何が違うの？</title>
       <link>https://qiita.com/Oyu3m/items/b9c3ac3efb6f7cd6ebaf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -31,6 +17,13 @@
 また、環境ごとにリリースタイミングが異なる点や、管理者により制御されている可能性がある点、ご留意くださ... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/Oyu3m/items/b9c3ac3efb6f7cd6ebaf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Mon, 22 Sep 2025 17:17:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>カスタマージャーニーとは？ジャーニーマップの作り方から、成果を出すための運用法まで解説 - オウンドメディア戦略ラボ by はてな</title>
+      <link>https://www.hatena.ne.jp/ownedmedia/article/customer-journey-guide</link>
+      <description>カスタマージャーニーとは、顧客が製品やサービスを認知してから購入に至るまでの、思考や感情、行動のプロセスを可視化するマーケティング手法です。また、カスタマージャーニーを可視化したものをカスタマージャーニーマップと言います。 カスタマージャーニーを活用することで、企業は顧客との適切なタッチポイント（... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.hatena.ne.jp/ownedmedia/article/customer-journey-guide</guid>
+      <pubDate>Wed, 24 Sep 2025 02:00:07 +0000</pubDate>
     </item>
     <item>
       <title>【Docker Compose】.envファイルの入力忘れ、エラー出したくないですか？</title>
@@ -91,6 +84,20 @@ https://x.com/gosrum/status/1969744945050468767
       <description>9月24日、Figmaが「Figma Rendering: Powered by WebGPU」と題した記事を公開した。この記事では、Figmaが長年利用してきたWebGLベースのレンダリングから、次世代グラフィックスAPIであるWebGPUへの移行と、その背景にある技術的な課題や最適化の工夫について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68d31867d0e17253abfbe736?from=rss</guid>
       <pubDate>Tue, 23 Sep 2025 22:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【ポケモン×Java】知識編 配列#1 〜配列を完全攻略！-基礎編-～</title>
+      <link>https://qiita.com/hitomin_poke/items/725398ffb83ed0a836a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+Javaを学びはじめると、必ず出てくるのが 配列（はいれつ）。
+
+なんとなく「数字を並べる箱」って聞いたことはあるけど…実際よくわからない！
+
+そんなトレーナーも多いはず。安心して！
+配列はちょっとしたルールさえ分かれば怖くない。
+この記事では「最初の一歩」をピ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/hitomin_poke/items/725398ffb83ed0a836a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 24 Sep 2025 05:20:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
