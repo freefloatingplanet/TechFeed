@@ -7,25 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Sep 2025 13:07:48 +0000</lastBuildDate>
-    <item>
-      <title>ESAは、地球観測衛星に適応変調を導入するSkynopyを支援している。</title>
-      <link>https://spacenews.com/esa-backs-skynopy-to-bring-adaptive-modulation-to-earth-observation-satellites/</link>
-      <description>フランスの地上局スタートアップ企業Skynopyは9月24日、欧州宇宙機関（ESA）から適応変調技術の商用化支援契約を獲得したと発表した。同社は、この技術により衛星データのダウンロード速度を2倍にできると主張している。ESAがSkynopyを支援し、地球観測衛星への適応変調技術の導入を目指すという記事がSpaceNewsに初掲載された。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/esa-backs-skynopy-to-bring-adaptive-modulation-to-earth-observation-satellites/</guid>
-      <pubDate>Wed, 24 Sep 2025 11:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Sep 2025 01:15:26 +0000</lastBuildDate>
     <item>
       <title>米軍は中国の再使用ロケット推進を宇宙安全保障上の懸念とみなしている</title>
       <link>https://spacenews.com/u-s-military-sees-chinas-reusable-rocket-push-as-a-space-security-concern/</link>
-      <description>宇宙軍の指導者らは、北京の再利用可能な軌道ロケットの追求は、この技術の国家安全保障上の価値を強調するものであり、この技術が成熟した暁には中国がその技術をどのように利用するかについて警戒感を抱かせるものだと述べた。米軍は中国の再利用可能なロケット推進を宇宙安全保障上の懸念とみている、という記事が最初にSpaceNewsに掲載された。 (source: SpaceNews)</description>
+      <description>宇宙軍の指導者らは、北京の再利用可能な軌道ロケットの追求は、この技術の国家安全保障上の価値を強調するものであり、それが成熟した暁には中国がその技術をどのように利用するかについて警戒を強めるものだと述べた。米軍は中国の再利用可能なロケット推進を宇宙安全保障上の懸念とみている、という記事が最初にSpaceNewsに掲載された。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/u-s-military-sees-chinas-reusable-rocket-push-as-a-space-security-concern/</guid>
       <pubDate>Tue, 23 Sep 2025 20:50:24 +0000</pubDate>
     </item>
     <item>
       <title>進化する需要に応えるためにIRIS²を拡大</title>
       <link>https://spacenews.com/scaling-up-iris%c2%b2-to-meet-evolving-demands/</link>
-      <description>サンフランシスコ発 ― 欧州の民間宇宙リーダーたちは、安全な通信コンステレーションの構築に向けた旗艦キャンペーンの拡大を提案した。約290基の衛星からなる「衛星によるレジリエンス、相互接続性、セキュリティのためのインフラストラクチャ（IRIS²）」コンステレーションが2022年に提案されて以来、批評家たちはこの計画を「遅すぎる、規模が小さすぎる」と批判してきたと、欧州委員会のニコラス・ギレルミン氏は述べている[…] 進化する需要に対応するためのIRIS²のスケールアップに関する記事がSpaceNewsに初掲載された。 (source: SpaceNews)</description>
+      <description>サンフランシスコ発 – 欧州の民間宇宙リーダーたちは、安全な通信コンステレーションの構築に向けた旗艦キャンペーンの拡大を提案した。約290基の衛星からなる「衛星によるレジリエンス、相互接続性、セキュリティのためのインフラストラクチャ（IRIS²）」コンステレーションが2022年に提案されて以来、批評家たちはこの計画を「遅すぎる、規模が小さすぎる」と批判してきたと、欧州委員会のニコラス・ギレルミン氏は述べている[…] 進化する需要に対応するためのIRIS²のスケールアップに関する記事は、SpaceNewsに初掲載された。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/scaling-up-iris%c2%b2-to-meet-evolving-demands/</guid>
       <pubDate>Tue, 23 Sep 2025 02:43:30 +0000</pubDate>
     </item>
@@ -37,11 +30,25 @@
       <pubDate>Tue, 23 Sep 2025 11:53:30 +0000</pubDate>
     </item>
     <item>
+      <title>宇宙防衛の次の章：止まることのない衛星</title>
+      <link>https://spacenews.com/next-chapter-in-space-defense-satellites-that-never-stop-moving/</link>
+      <description>「動的宇宙作戦」や「持続的宇宙機動」などの概念は、衛星の寿命を延ばすだけでなく、衛星が「行動を起こす」ことを可能にすることも意味します。この記事「宇宙防衛の次の章：動きを止めない衛星」は、SpaceNews に最初に掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/next-chapter-in-space-defense-satellites-that-never-stop-moving/</guid>
+      <pubDate>Wed, 24 Sep 2025 20:53:52 +0000</pubDate>
+    </item>
+    <item>
       <title>テラン・オービタル、ロッキード・マーティン社へのトランシェ1トランスポート層向け衛星バスプラットフォームの納入を完了</title>
       <link>https://spacenews.com/terran-orbital-completes-delivery-of-satellite-bus-platforms-to-lockheed-martin-for-the-tranche-1-transport-layer/</link>
       <description>カリフォルニア州アーバイン – 2025年9月23日 – 航空宇宙および防衛産業を主な顧客とする小型衛星の大手メーカーであるTerran Orbital Corporationは本日、[…] 全ての納品が成功したと発表しました。Terran OrbitalがLockheed MartinへのTranche 1トランスポート層向け衛星バスプラットフォームの納入を完了、という記事がSpaceNewsに最初に掲載されました。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/terran-orbital-completes-delivery-of-satellite-bus-platforms-to-lockheed-martin-for-the-tranche-1-transport-layer/</guid>
       <pubDate>Tue, 23 Sep 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>スペースフォージとユナイテッドセミコンダクターズ、宇宙ベースの半導体製造で提携</title>
+      <link>https://spacenews.com/space-forge-and-united-semiconductors-to-collaborate-on-space-based-semiconductor-manufacturing/</link>
+      <description>サンフランシスコ発 – 英国のスタートアップ企業Space Forgeと米国のUnited Semiconductorsは9月23日、電磁センサーや量子コンピューティングに使用される半導体の宇宙開発能力開発で合意したと発表した。この覚書（MoU）は、両社の1年以上にわたる協業に基づくもので、ノースロップ・グラマンの[…] Space ForgeとUnited Semiconductors、宇宙開発で半導体製造に協力へ の記事はSpaceNewsに初掲載された。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/space-forge-and-united-semiconductors-to-collaborate-on-space-based-semiconductor-manufacturing/</guid>
+      <pubDate>Wed, 24 Sep 2025 18:09:13 +0000</pubDate>
     </item>
     <item>
       <title>国家を守るために、黄金のドームは自らを守る能力を持たなければならない</title>
@@ -53,16 +60,9 @@
     <item>
       <title>リンカーとNOAAがカスタマイズされた宇宙天気予報を作成</title>
       <link>https://spacenews.com/lynker-and-noaa-to-create-tailored-space-weather-forecasts/</link>
-      <description>サンフランシスコ — Lynker Space社は、米国海洋大気庁（NOAA）と協力し、送電網などの米国の重要インフラ事業者向けにカスタマイズされた宇宙天気予報を提供しています。このニュースは、NASAが9月24日にSpaceX社製のロケットで2つの太陽物理学ミッションとNOAA宇宙天気観測所の打ち上げを準備する中で発表されました。[…] LynkerとNOAAがカスタマイズされた宇宙天気予報を作成へ この記事はSpaceNewsに掲載されました。 (source: SpaceNews)</description>
+      <description>サンフランシスコ — Lynker Space社は、米国海洋大気庁（NOAA）と協力し、送電網などの米国の重要インフラ事業者向けにカスタマイズされた宇宙天気予報を提供しています。このニュースは、NASAが9月24日にSpaceX社製のロケットで2つの太陽物理学ミッションとNOAA宇宙天気観測所の打ち上げを準備する中で発表されました。[…] Lynker社とNOAAがカスタマイズされた宇宙天気予報を作成へ この記事はSpaceNewsに掲載されました。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/lynker-and-noaa-to-create-tailored-space-weather-forecasts/</guid>
       <pubDate>Wed, 24 Sep 2025 03:08:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>ライブイベント: 宇宙投資の展望</title>
-      <link>https://spacenews.com/live-event-the-space-investment-horizon/</link>
-      <description>米国は60年以上にわたり、宇宙における原子力発電の可能性を追求してきました。これは、太陽光が届かない場所にエネルギーを供給し、化学推進の限界を超えたミッションを可能にする技術です。しかし、1965年に短期間の原子炉打ち上げが行われて以来、軌道上で稼働した核分裂炉はありません。この記事「ライブイベント：宇宙投資の展望」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/live-event-the-space-investment-horizon/</guid>
-      <pubDate>Fri, 19 Sep 2025 18:33:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
