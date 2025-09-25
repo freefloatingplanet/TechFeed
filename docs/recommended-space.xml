@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Sep 2025 01:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 12:35:56 +0000</lastBuildDate>
     <item>
-      <title>NECビジュアルインテリジェンス研究所が挑む、SAR×AI×LLMが切り拓く衛星ソリューションの新境地</title>
-      <link>https://sorabatake.jp/42452/</link>
-      <description>NECが取り組んでいるSAR画像解析AIや、そこに大規模言語モデル（LLM）を組み合わせる先進的な取り組みについて、現時点でできていること、そして未来の展望を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/42452/</guid>
-      <pubDate>Wed, 24 Sep 2025 23:00:02 +0000</pubDate>
+      <title>パスコ、高頻度で撮影可能な国産小型衛星データの取り扱いを開始　QPS-SAR／StriX／GRUS</title>
+      <link>https://sorae.info/space/20250925-pasco.html</link>
+      <description>株式会社パスコは2025年9月24日、国産小型衛星事業者と販売店契約を締結し、合成開口レーダー（SAR）衛星「QPS-SAR」「StriX」、光学衛星「GRUS」のデータ提供サービスを国内外に向けて開始すると発表しました… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20250925-pasco.html</guid>
+      <pubDate>Thu, 25 Sep 2025 07:03:20 +0000</pubDate>
     </item>
     <item>
       <title>「Toyota Woven City」の「Inventors」としてインターステラテクノロジズが宇宙企業として初参画、5社・団体との打上げ契約も発表【宇宙ビジネスニュース】</title>
@@ -70,6 +70,13 @@
       <description>米Axiom Space（アクシオム・スペース）は、2030年の運用終了が計画されている国際宇宙ステーション（ISS）から民間宇宙ステーションへの移行を支援するための研究者グループ「Axiom Space Univer […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new66016/</guid>
       <pubDate>Mon, 22 Sep 2025 06:13:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>アルテミス2号、2026年2月5日に打ち上げへ–宇宙船「インテグリティ」で50年ぶりの有人月飛行</title>
+      <link>https://uchubiz.com/article/new66131/</link>
+      <description>米航空宇宙局（NASA）は、2026年2月5日以降に有人月周回ミッション「Artemis II」（アルテミス2号）を打ち上げる。打ち上げを前に、4人の宇宙飛行士が意気込みを語った。 　Artemis IIは「Space […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new66131/</guid>
+      <pubDate>Thu, 25 Sep 2025 06:50:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

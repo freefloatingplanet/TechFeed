@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Sep 2025 01:39:58 +0000</lastBuildDate>
-    <item>
-      <title>URPのScriptableRendererFeatureとRenderGraphを「旅行ツアー計画」で例えてみる</title>
-      <link>https://qiita.com/segur/items/9e2b50dcdeffb2e92a28?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>URPのScriptableRendererFeatureとRenderGraphを「旅行ツアー計画」で例えてみる
-
-はじめに
-URPのカスタムレンダリングに触れたとき、初見のときはどのコードがどこでいつ実行されるのかよくわからず混乱しました。
-本記事では、 旅行ツアー計... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/segur/items/9e2b50dcdeffb2e92a28?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 23 Sep 2025 12:11:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Sep 2025 12:35:49 +0000</lastBuildDate>
     <item>
       <title>RAGを30倍速くするMetaの新技術「REFRAG」</title>
       <link>https://zenn.dev/knowledgesense/articles/68089e123a636b</link>
@@ -39,14 +28,11 @@ REFRAGは、RAGの回答速... (source: Zennのトレンド)</description>
       <pubDate>Mon, 22 Sep 2025 23:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>クラウド時代の金融システムと C# の decimal 型の未来</title>
-      <link>https://qiita.com/pec02304/items/fe3f873a39b32d3d30e6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>概要
-C# には最初期から decimal 型が組み込まれており、28〜29 桁の 10 進精度を保証しています。
-これは金融システムにとって強力な武器ですが、クラウド時代を見据えると標準化やハードウェア対応の在り方が問われます。
-本記事では、メインフレームからクラウドへ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/pec02304/items/fe3f873a39b32d3d30e6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 24 Sep 2025 04:17:07 +0000</pubDate>
+      <title>Claude Codeに上手くコンテキストを渡すためのTips</title>
+      <link>https://zenn.dev/knowledgework/articles/9b82d0c0a34ab4</link>
+      <description>この記事は KNOWLEDGE WORK Blog Sprint の25日目の記事になります。 Claude Code CLI を触っていると、「ちょっと面倒だな」と感じるポイントが出てきます。この記事では、実際に Cluade Code を使いながら見つけた工夫を3つの Tips として紹介します。 この記事はVSCodeユーザ向けに執筆しています。 課題: コンテキス... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/9b82d0c0a34ab4</guid>
+      <pubDate>Thu, 25 Sep 2025 07:24:36 +0000</pubDate>
     </item>
     <item>
       <title>【衝撃】JavaScriptの人気が急落？Stack Overflowの質問数が激減 — 毎年恒例のプログラミング言語ランキング自体も存在価値を問われる事態に</title>
@@ -56,18 +42,44 @@ C# には最初期から decimal 型が組み込まれており、28〜29 桁の
       <pubDate>Tue, 23 Sep 2025 21:44:36 +0000</pubDate>
     </item>
     <item>
-      <title>【ポケモン×Java】知識編 配列#1 〜配列を完全攻略！-基礎編-～</title>
-      <link>https://qiita.com/hitomin_poke/items/725398ffb83ed0a836a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>公式の「Chrome DevTools MCP」を VS Code の GitHub Copilot（エージェントモード）で軽く試す（現在、パブリックプレビュー版）</title>
+      <link>https://qiita.com/youtoy/items/075ddb8c09eaa0e98b4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-Javaを学びはじめると、必ず出てくるのが 配列（はいれつ）。
+以下の公式のポストで見かけた、現在、パブリックプレビュー版の「Chrome DevTools MCP」を VS Code で軽く試してみた記事です。
 
-なんとなく「数字を並べる箱」って聞いたことはあるけど…実際よくわからない！
+VS Code内では、GitHub Copilot のエージェントモードで軽く試します。
 
-そんなトレーナーも多いはず。安心して！
-配列はちょっとしたルールさえ分かれば怖くない。
-この記事では「最初の一歩」をピ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/hitomin_poke/items/725398ffb83ed0a836a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 24 Sep 2025 05:20:35 +0000</pubDate>
+公式情報・リポ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/youtoy/items/075ddb8c09eaa0e98b4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 24 Sep 2025 17:40:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codex Cloud の PR レビュー機能を試してみた</title>
+      <link>https://zenn.dev/shintaro/articles/164e4a57412e72</link>
+      <description>これまでに GitHub Copilot のレビュー機能や、Claude Code Action、Greptile など、いくつかの AI コードレビューを試してきました。
+そんな中で Codex Cloud に PR レビュー機能がある と知り、「どんな感じなんだろう？」と気になったので実際に使ってみました。
+https://developers.openai.com/codex/cloud/code-review
+この記事では、Codex Cloud の PR レビュー機能を実際に試してみて、どのように使えるのかを紹介します。レビュー結果の例や、レビュー以外の活用方法についても触れて... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shintaro/articles/164e4a57412e72</guid>
+      <pubDate>Wed, 24 Sep 2025 10:09:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIで理想の自分は作れる！ AIメイクアップガイド Ejan</title>
+      <link>https://zenn.dev/takkuhiro/articles/ejan-hackathon</link>
+      <description>デモ動画
+https://youtu.be/WwaNd4fFTOA
+
+ GitHubリポジトリ
+https://github.com/takkuhiro/ejan-minimum
+
+ 1. はじめに
+
+ AIが見せる理想と現実のギャップ
+突然ですが、皆さんはメイクやヘアスタイリングをする際に、AIは使っていますか？
+近年、AI画像生成技術の急速な進化により、理想の自分の姿を驚くほど高精度に生成できるようになりました。SNSで見かける完璧なメイクアップや憧れのヘアスタイル、AIが描き出す理想像を見て、「自分もこうなりたい！」と心が躍ることもあるでしょう。
+しかし、ここで新たな課題が生ま... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/takkuhiro/articles/ejan-hackathon</guid>
+      <pubDate>Wed, 24 Sep 2025 12:06:43 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】次期Linuxカーネル6.18に、Googleが開発したTCP接続暗号化プロトコル「PSP」の実装がマージされる</title>
@@ -82,22 +94,6 @@ Javaを学びはじめると、必ず出てくるのが 配列（はいれつ）
       <description>9月24日、Figmaが「Figma Rendering: Powered by WebGPU」と題した記事を公開した。この記事では、Figmaが長年利用してきたWebGLベースのレンダリングから、次世代グラフィックスAPIであるWebGPUへの移行と、その背景にある技術的な課題や最適化の工夫について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68d31867d0e17253abfbe736?from=rss</guid>
       <pubDate>Tue, 23 Sep 2025 22:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI でデータ分析！Databricks Genie の活用事例</title>
-      <link>https://zenn.dev/ivry/articles/ivry-ai-blog-relay-databricks-genie-20250924</link>
-      <description>本記事は #IVRy_AIブログリレー の 9 月 24 日（15 日目）の記事です。
-記事一覧は「IVRy AIブログリレー全記事まとめ」をご覧ください。
-
-
- はじめに
-株式会社IVRy のアナリティクスエンジニアの wada です。
-IVRy では 2025 年 7 月に社内データ基盤を BigQuery から Databricks に移し、Databricks 上で新たに分析基盤を構築しています。本記事では、Databricks の AI/BI ツールである Genie を分析活動に活用するために行っていることを紹介します。
-
- 忙しい人のための本記事まとめ
-記事が長くなりそうな... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ivry/articles/ivry-ai-blog-relay-databricks-genie-20250924</guid>
-      <pubDate>Wed, 24 Sep 2025 03:00:02 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Google、開発者のAI利用に関する最新レポートを公開 — 利用率は大幅に増加した一方で課題も浮き彫りに</title>
