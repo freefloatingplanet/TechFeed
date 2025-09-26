@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Sep 2025 12:34:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 13:07:04 +0000</lastBuildDate>
+    <item>
+      <title>Claude Codeに上手くコンテキストを渡すためのTips</title>
+      <link>https://zenn.dev/knowledgework/articles/9b82d0c0a34ab4</link>
+      <description>この記事は KNOWLEDGE WORK Blog Sprint の25日目の記事になります。
+Claude Code CLI を触っていると、「ちょっと面倒だな」と感じるポイントが出てきます。この記事では、実際に Cluade Code を使いながら見つけた工夫を3つの Tips として紹介します。
+この記事はVSCodeユーザ向けに執筆しています。
+
+ 課題: コンテキストに指定するファイルのパス指定
+Claude Code CLI では、コンテキストとしてファイルの情報を渡すときに @hoge/fuga.ts のように書く必要があります。
+
+この時、ファイルパスをサジェストしてくれ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/9b82d0c0a34ab4</guid>
+      <pubDate>Thu, 25 Sep 2025 03:00:01 +0000</pubDate>
+    </item>
     <item>
       <title>Codex Cloud の PR レビュー機能を試してみた</title>
       <link>https://zenn.dev/shintaro/articles/164e4a57412e72</link>
@@ -66,13 +80,6 @@ Javaを学びはじめると、必ず出てくるのが 配列（はいれつ）
 この記事では「最初の一歩」をピ... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/hitomin_poke/items/725398ffb83ed0a836a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Wed, 24 Sep 2025 05:20:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot CLI is now in public preview - GitHub Changelog</title>
-      <link>https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/</link>
-      <description>Menu. Currently selected: GitHub Copilot CLI is now in public preview GitHub Copilot CLI is now in public preview We’re bringing the power of GitHub Copilot coding agent directly to your terminal. With GitHub Copilot CLI, you can work locally and synchronously with an AI agent that understands yo... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/</guid>
-      <pubDate>Thu, 25 Sep 2025 20:07:25 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】FigmaがWebGLからWebGPUベースへのレンダリングに移行していた — 1年以上に渡る取り組みを詳細に記した記事が話題に</title>
