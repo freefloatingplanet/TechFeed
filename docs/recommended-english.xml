@@ -7,11 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Sep 2025 01:15:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 12:35:02 +0000</lastBuildDate>
     <item>
       <title>米軍は中国の再使用ロケット推進を宇宙安全保障上の懸念とみなしている</title>
       <link>https://spacenews.com/u-s-military-sees-chinas-reusable-rocket-push-as-a-space-security-concern/</link>
-      <description>宇宙軍の指導者らは、北京の再利用可能な軌道ロケットの追求は、この技術の国家安全保障上の価値を強調するものであり、それが成熟した暁には中国がその技術をどのように利用するかについて警戒を強めるものだと述べた。米軍は中国の再利用可能なロケット推進を宇宙安全保障上の懸念とみている、という記事が最初にSpaceNewsに掲載された。 (source: SpaceNews)</description>
+      <description>宇宙軍の指導者らは、北京の再利用可能な軌道ロケットの追求は、この技術の国家安全保障上の価値を強調するものであり、この技術が成熟した暁には中国がその技術をどのように利用するかについて警戒感を抱かせるものだと述べた。米軍は中国の再利用可能なロケット推進を宇宙安全保障上の懸念とみている、という記事が最初にSpaceNewsに掲載された。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/u-s-military-sees-chinas-reusable-rocket-push-as-a-space-security-concern/</guid>
       <pubDate>Tue, 23 Sep 2025 20:50:24 +0000</pubDate>
     </item>
@@ -21,13 +21,6 @@
       <description>ファルコン9号は9月24日、NASAとNOAAの宇宙船「宇宙相乗り」を打ち上げました。太陽とその宇宙天気における役割を研究することになります。この記事「ファルコン9号、3つの宇宙天気ミッションを開始」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/falcon-9-launches-three-space-weather-missions/</guid>
       <pubDate>Wed, 24 Sep 2025 13:18:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>ファイアフライ、アルファ版打ち上げを近々再開予定</title>
-      <link>https://spacenews.com/firefly-looks-to-resume-alpha-launches-soon/</link>
-      <description>ファイアフライ・エアロスペースは「数週間以内に」アルファ打ち上げを再開し、年末までに2回の打ち上げを計画している。この記事「ファイアフライ、アルファ打ち上げをまもなく再開へ」はSpaceNewsに初掲載された。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/firefly-looks-to-resume-alpha-launches-soon/</guid>
-      <pubDate>Tue, 23 Sep 2025 11:53:30 +0000</pubDate>
     </item>
     <item>
       <title>ispace Europeと月探査競争の内幕</title>
@@ -46,7 +39,7 @@
     <item>
       <title>スペースフォージとユナイテッドセミコンダクターズ、宇宙ベースの半導体製造で提携</title>
       <link>https://spacenews.com/space-forge-and-united-semiconductors-to-collaborate-on-space-based-semiconductor-manufacturing/</link>
-      <description>サンフランシスコ発 – 英国のスタートアップ企業Space Forgeと米国のUnited Semiconductorsは9月23日、電磁センサーや量子コンピューティングに使用される半導体の宇宙開発能力開発で合意したと発表した。この覚書（MoU）は、両社の1年以上にわたる協業に基づくもので、ノースロップ・グラマンの[…] Space ForgeとUnited Semiconductors、宇宙開発で半導体製造に協力へ の記事はSpaceNewsに初掲載された。 (source: SpaceNews)</description>
+      <description>サンフランシスコ – 英国のスタートアップ企業Space Forgeと米国のUnited Semiconductorsは9月23日、電磁センサーや量子コンピューティングに使用される半導体の宇宙開発能力開発で合意したと発表した。この覚書（MoU）は、両社の1年以上にわたる協業に基づくもので、ノースロップ・グラマンの[…] Space ForgeとUnited Semiconductors、宇宙開発で半導体製造に協力へ の記事はSpaceNewsに初掲載された。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/space-forge-and-united-semiconductors-to-collaborate-on-space-based-semiconductor-manufacturing/</guid>
       <pubDate>Wed, 24 Sep 2025 18:09:13 +0000</pubDate>
     </item>
@@ -60,9 +53,16 @@
     <item>
       <title>リンカーとNOAAがカスタマイズされた宇宙天気予報を作成</title>
       <link>https://spacenews.com/lynker-and-noaa-to-create-tailored-space-weather-forecasts/</link>
-      <description>サンフランシスコ — Lynker Space社は、米国海洋大気庁（NOAA）と協力し、送電網などの米国の重要インフラ事業者向けにカスタマイズされた宇宙天気予報を提供しています。このニュースは、NASAが9月24日にSpaceX社製のロケットで2つの太陽物理学ミッションとNOAA宇宙天気観測所の打ち上げを準備する中で発表されました。[…] Lynker社とNOAAがカスタマイズされた宇宙天気予報を作成へ この記事はSpaceNewsに掲載されました。 (source: SpaceNews)</description>
+      <description>サンフランシスコ — Lynker Space社は、米国海洋大気庁（NOAA）と協力し、送電網などの米国の重要インフラ事業者向けにカスタマイズされた宇宙天気予報を提供しています。このニュースは、NASAが9月24日にSpaceX社製のロケットで2つの太陽物理学ミッションとNOAA宇宙天気観測所の打ち上げを準備する中で発表されました。[…] LynkerとNOAAがカスタマイズされた宇宙天気予報を作成へ この記事はSpaceNewsに掲載されました。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/lynker-and-noaa-to-create-tailored-space-weather-forecasts/</guid>
       <pubDate>Wed, 24 Sep 2025 03:08:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>21世紀の宇宙外交の再定義：軌道から成果まで</title>
+      <link>https://spacenews.com/redefining-space-diplomacy-for-the-21st-century-from-orbits-to-outcomes/</link>
+      <description>世界が米国主導のアルテミス協定（セネガルが最近署名し、現在56カ国が加盟）と中国主導の国際月研究ステーションパートナーシップとの間の外交的競争を注視している一方で、国家の尽力のおかげで宇宙コミュニティが可能にした、すでに行われている国際外交および人道的活動が影に隠れる危険にさらされている[…] 21世紀の宇宙外交の再定義：軌道から結果へという記事が最初にSpaceNewsに掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/redefining-space-diplomacy-for-the-21st-century-from-orbits-to-outcomes/</guid>
+      <pubDate>Fri, 26 Sep 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

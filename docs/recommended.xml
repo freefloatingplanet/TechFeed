@@ -7,47 +7,65 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Sep 2025 01:15:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 12:34:59 +0000</lastBuildDate>
     <item>
-      <title>AIレビューツール「Greptile」を使ってみた</title>
-      <link>https://zenn.dev/kaiwa_jun/articles/943912278952c6</link>
-      <description>最近、Claude Code などを使ったVibe Codingが盛り上がっています。
-うちのチームでも AI コーディングを日常使いし、開発スピードはぐっと上がりました。
-一方で、PRが大きくなりがち、指摘の抜け、コードの品質にムラなど、品質面の課題が目立つようになっています。
-そこで AIによるコードレビューにも頼ってみようと、Greptile を導入してみました。
-本記事では、導入方法や実際に使ってみての所感を共有できればと思います。
+      <title>Codex Cloud の PR レビュー機能を試してみた</title>
+      <link>https://zenn.dev/shintaro/articles/164e4a57412e72</link>
+      <description>これまでに GitHub Copilot のレビュー機能や、Claude Code Action、Greptile など、いくつかの AI コードレビューを試してきました。
+そんな中で Codex Cloud に PR レビュー機能がある と知り、「どんな感じなんだろう？」と気になったので実際に使ってみました。
+https://developers.openai.com/codex/cloud/code-review
+この記事では、Codex Cloud の PR レビュー機能を実際に試してみて、どのように使えるのかを紹介します。レビュー結果の例や、レビュー以外の活用方法についても触れて... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shintaro/articles/164e4a57412e72</guid>
+      <pubDate>Wed, 24 Sep 2025 10:09:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLMを駆使したSlackbotによる例外アラート調査・分析の自動化 - ZOZO TECH BLOG</title>
+      <link>https://techblog.zozo.com/entry/llm-slackbot</link>
+      <description>はじめに こんにちは、ZOZOMO部OMOブロックの宮澤です。普段は「ZOZOMO」のブランド実店舗の在庫確認・在庫取り置きという機能の開発と保守を担当しています。 本記事では、LLMを駆使したSlackbotを活用して、アプリケーション例外のアラート調査・分析を自動化した試みについて紹介します。 SlackbotのバックエンドにLL... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://techblog.zozo.com/entry/llm-slackbot</guid>
+      <pubDate>Fri, 26 Sep 2025 02:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIで理想の自分は作れる！ AIメイクアップガイド Ejan</title>
+      <link>https://zenn.dev/takkuhiro/articles/ejan-hackathon</link>
+      <description>デモ動画
+https://youtu.be/WwaNd4fFTOA
 
- Greptileとは
-https://www.greptile.com/
-GreptileはGitHubのPRレビューをAIで補助してくれるAI... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kaiwa_jun/articles/943912278952c6</guid>
-      <pubDate>Tue, 23 Sep 2025 23:00:01 +0000</pubDate>
+ GitHubリポジトリ
+https://github.com/takkuhiro/ejan-minimum
+
+ 1. はじめに
+
+ AIが見せる理想と現実のギャップ
+突然ですが、皆さんはメイクやヘアスタイリングをする際に、AIは使っていますか？
+近年、AI画像生成技術の急速な進化により、理想の自分の姿を驚くほど高精度に生成できるようになりました。SNSで見かける完璧なメイクアップや憧れのヘアスタイル、AIが描き出す理想像を見て、「自分もこうなりたい！」と心が躍ることもあるでしょう。
+しかし、ここで新たな課題が生ま... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/takkuhiro/articles/ejan-hackathon</guid>
+      <pubDate>Wed, 24 Sep 2025 12:06:43 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeに上手くコンテキストを渡すためのTips</title>
-      <link>https://zenn.dev/knowledgework/articles/9b82d0c0a34ab4</link>
-      <description>この記事は KNOWLEDGE WORK Blog Sprint の25日目の記事になります。 Claude Code CLI を触っていると、「ちょっと面倒だな」と感じるポイントが出てきます。この記事では、実際に Cluade Code を使いながら見つけた工夫を3つの Tips として紹介します。 この記事はVSCodeユーザ向けに執筆しています。 課題: コンテキス... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/9b82d0c0a34ab4</guid>
-      <pubDate>Thu, 25 Sep 2025 07:24:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>【衝撃】JavaScriptの人気が急落？Stack Overflowの質問数が激減 — 毎年恒例のプログラミング言語ランキング自体も存在価値を問われる事態に</title>
-      <link>https://techfeed.io/entries/68d314c418f89a7761df17fe?from=rss</link>
-      <description>9月24日、IEEE Spectrumで「AI Is Redefining the Concept of a Programming Language's Popularity」と題した記事が公開された。この記事では、AIの普及がプログラミング言語の人気という概念そのものを揺るがしつつある現状と、その未来像について詳しく紹介されている。以下に、その内容を簡潔にまとめて紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68d314c418f89a7761df17fe?from=rss</guid>
-      <pubDate>Tue, 23 Sep 2025 21:44:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>公式の「Chrome DevTools MCP」を VS Code の GitHub Copilot（エージェントモード）で軽く試す（現在、パブリックプレビュー版）</title>
-      <link>https://qiita.com/youtoy/items/075ddb8c09eaa0e98b4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>【ESLint 9 対応】Typed Linting で非同期処理の恐怖と戦おう【Vue + TypeScript】</title>
+      <link>https://qiita.com/KentaYoshimura/items/42e46d0c4db8ed9cedef?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-以下の公式のポストで見かけた、現在、パブリックプレビュー版の「Chrome DevTools MCP」を VS Code で軽く試してみた記事です。
+本記事では、 ESLint 9 × Vue.js × TypeScript 環境で Typed Linting を導入する方法と、検出できる不具合の事例、導入の際の注意点、今後の展望をご紹介します。
 
-VS Code内では、GitHub Copilot のエージェントモードで軽く試します。
+この記事は 2025/9/8 時点の情報に基づいています。... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/KentaYoshimura/items/42e46d0c4db8ed9cedef?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 25 Sep 2025 07:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>【ポケモン×Java】知識編 配列#1 〜配列を完全攻略！-基礎編-～</title>
+      <link>https://qiita.com/hitomin_poke/items/725398ffb83ed0a836a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+Javaを学びはじめると、必ず出てくるのが 配列（はいれつ）。
 
-公式情報・リポ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/youtoy/items/075ddb8c09eaa0e98b4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 24 Sep 2025 17:40:25 +0000</pubDate>
+なんとなく「数字を並べる箱」って聞いたことはあるけど…実際よくわからない！
+
+そんなトレーナーも多いはず。安心して！
+配列はちょっとしたルールさえ分かれば怖くない。
+この記事では「最初の一歩」をピ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/hitomin_poke/items/725398ffb83ed0a836a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 24 Sep 2025 05:20:35 +0000</pubDate>
     </item>
     <item>
       <title>GitHub Copilot CLI is now in public preview - GitHub Changelog</title>
@@ -64,16 +82,6 @@ VS Code内では、GitHub Copilot のエージェントモードで軽く試し�
       <pubDate>Tue, 23 Sep 2025 22:00:07 +0000</pubDate>
     </item>
     <item>
-      <title>FlutterでGridViewに境界線を引く方法</title>
-      <link>https://qiita.com/murapon403/items/44991fa2b92fc9c08ed2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>Flutter開発においてGridViewはアイテムを並べるときに便利なWidgetですが、装飾系のプロパティが存在していないため、境界線を引きたい場合に工夫が必要でした。
-この記事では、末尾以外の行に下線を引くことで境界線を表現する方法を紹介します。
-
-完成イメージ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/murapon403/items/44991fa2b92fc9c08ed2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 25 Sep 2025 01:17:34 +0000</pubDate>
-    </item>
-    <item>
       <title>【海外記事紹介】Google、開発者のAI利用に関する最新レポートを公開 — 利用率は大幅に増加した一方で課題も浮き彫りに</title>
       <link>https://techfeed.io/entries/68d4618118f89a7761df7b45?from=rss</link>
       <description>9月24日、Googleが「How are developers using AI? Inside our 2025 DORA report」と題した記事を公開した。この記事では、ソフトウェア開発におけるAI活用の現状と課題について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
@@ -88,18 +96,22 @@ VS Code内では、GitHub Copilot のエージェントモードで軽く試し�
       <pubDate>Thu, 25 Sep 2025 21:58:22 +0000</pubDate>
     </item>
     <item>
-      <title>Codexを使うあなたへ。おすすめ設定&amp;MCP集</title>
-      <link>https://zenn.dev/chiji/articles/57cb52773391ab</link>
-      <description>2025年9月15日に出たCodex（GPT-5-Codex）めっちゃいいですよね。Claude Codeと併用を始める人も多いのではないでしょうか？
-しかしいくら性能が良くても、日本国内ではClaude Codeの方がツールや知見が整っているのが現状です。
-そこで、これさえ知ってればすぐに快適なCodexライフを始められる、最低限のおすすめ設定&amp;リンク集をまとめました。
-「Codex使うけど、おすすめの設定知りたい！」という方、ぜひご覧ください。
+      <title>Storybook公式MCPの解説とその先 - Design Systems with Agentsの提案について -</title>
+      <link>https://zenn.dev/cybozu_frontend/articles/e17267112d7816</link>
+      <description>!
+この記事は、CYBOZU SUMMER BLOG FES '25の記事です。
 
- 前置き
-そもそもCodexそんなにいいの？って方は、こちらの比較記事をどうぞ。
-https://zenn.dev/chiji/a... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/chiji/articles/57cb52773391ab</guid>
-      <pubDate>Mon, 22 Sep 2025 08:19:32 +0000</pubDate>
+
+ はじめに
+2025年8月末にStorybook公式のMCPが登場しました。これがMCP Addonです。
+https://github.com/storybookjs/addon-mcp
+また、Storybook MCPに関するさまざまな議論も行われています。
+本記事では、Storybookの公式MCP Addonの機能とAgentic Workflow、そしてDesign Systems with Agentsという提案について解説します。
+
+ Storybook MCP Addonとは
+Story... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/cybozu_frontend/articles/e17267112d7816</guid>
+      <pubDate>Fri, 26 Sep 2025 00:13:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
