@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2025 01:22:10 +0000</lastBuildDate>
-    <item>
-      <title>パスコ、高頻度で撮影可能な国産小型衛星データの取り扱いを開始　QPS-SAR／StriX／GRUS</title>
-      <link>https://sorae.info/space/20250925-pasco.html</link>
-      <description>株式会社パスコは2025年9月24日、国産小型衛星事業者と販売店契約を締結し、合成開口レーダー（SAR）衛星「QPS-SAR」「StriX」、光学衛星「GRUS」のデータ提供サービスを国内外に向けて開始すると発表しました… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20250925-pasco.html</guid>
-      <pubDate>Thu, 25 Sep 2025 07:03:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Sep 2025 12:31:05 +0000</lastBuildDate>
     <item>
       <title>「Toyota Woven City」の「Inventors」としてインターステラテクノロジズが宇宙企業として初参画、5社・団体との打上げ契約も発表【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/42187/</link>
@@ -49,6 +42,13 @@
       <description>こちらは、太陽系の周辺に広がる星形成領域を描いたアニメーション動画。太陽から半径4000光年以内の範囲が、実際の観測データをもとに3Dで再現されています。 【▲ ESAの宇宙望遠鏡「Gaia（ガイア）」の観測データを使っ… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20250918-gaia-3d-map.html</guid>
       <pubDate>Thu, 18 Sep 2025 11:06:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>エンタメ界から宇宙へ！田村淳さん発案の衛星放出成功が示す宇宙産業の新時代【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/42640/</link>
+      <description>2025年9月19日、国際宇宙ステーション（ISS）の「きぼう」日本実験棟から、5機の超小型衛星が宇宙空間へと放出されました。その中にはタレントの田村淳さんが発案した衛星もありました。その概要と今後への期待をまとめています。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/42640/</guid>
+      <pubDate>Sun, 28 Sep 2025 03:06:20 +0000</pubDate>
     </item>
     <item>
       <title>経済産業省・宇宙産業課に聞く―パーパス（存在意義）は「宇宙を日本の力に」【政策からひも解く宇宙産業の未来#2】</title>

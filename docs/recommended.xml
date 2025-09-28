@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2025 01:22:04 +0000</lastBuildDate>
-    <item>
-      <title>Claude Codeに上手くコンテキストを渡すためのTips</title>
-      <link>https://zenn.dev/knowledgework/articles/9b82d0c0a34ab4</link>
-      <description>この記事は KNOWLEDGE WORK Blog Sprint の25日目の記事になります。
-Claude Code CLI を触っていると、「ちょっと面倒だな」と感じるポイントが出てきます。この記事では、実際に Cluade Code を使いながら見つけた工夫を3つの Tips として紹介します。
-この記事はVSCodeユーザ向けに執筆しています。
-
- 課題: コンテキストに指定するファイルのパス指定
-Claude Code CLI では、コンテキストとしてファイルの情報を渡すときに @hoge/fuga.ts のように書く必要があります。
-
-この時、ファイルパスをサジェストしてくれ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/9b82d0c0a34ab4</guid>
-      <pubDate>Thu, 25 Sep 2025 03:00:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Sep 2025 12:30:58 +0000</lastBuildDate>
     <item>
       <title>【衝撃】JavaScriptの人気が急落？Stack Overflowの質問数が激減 — 毎年恒例のプログラミング言語ランキング自体も存在価値を問われる事態に</title>
       <link>https://techfeed.io/entries/68d314c418f89a7761df17fe?from=rss</link>
@@ -55,14 +41,16 @@ GitHub Releaseで配布... (source: Qiita - 人気の記事)</description>
       <pubDate>Fri, 26 Sep 2025 16:09:32 +0000</pubDate>
     </item>
     <item>
-      <title>APIをセキュアにするためのベストプラクティス</title>
-      <link>https://qiita.com/sugiyama404/items/78f4a7845a22772f2b39?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-この記事では Flask を軸に、OWASP API Security Top 10 (2023) の全リスクをカバーしながら、攻撃シナリオ・改善アプローチ・本番運用で使えるコード例まで一気通貫で整理します。
+      <title>【初心者向け】LINE × ChatGPT × Google Cloud で「会話履歴つきAIチャットボット」を作る方法（Python）</title>
+      <link>https://qiita.com/popapipapapi/items/d6386680f5987c671e01?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>📝 はじめに
+この記事では、LINE上で動くAIチャットボットを、Google Cloud上に構築し、ユーザごとに会話履歴を保存して文脈を踏まえた応答を返すシステムを作る手順を紹介します。
+使用する主要技術：
 
-API1:2023 壊れたオブジェクトレベル認可 ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/sugiyama404/items/78f4a7845a22772f2b39?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 27 Sep 2025 05:46:15 +0000</pubDate>
+LINE Messaging API（ユーザと会話する）
+G... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/popapipapapi/items/d6386680f5987c671e01?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 27 Sep 2025 12:48:24 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】FigmaがWebGLからWebGPUベースへのレンダリングに移行していた — 1年以上に渡る取り組みを詳細に記した記事が話題に</title>
@@ -86,6 +74,13 @@ API1:2023 壊れたオブジェクトレベル認可 ... (source: Qiita - 人気
       <pubDate>Wed, 24 Sep 2025 21:24:17 +0000</pubDate>
     </item>
     <item>
+      <title>PostgreSQL 18リリース！非同期I/Oの導入により最大3倍の速度向上を実現、ほか改善点多数</title>
+      <link>https://techfeed.io/entries/68d5bafe6dc4595f7fb9f330</link>
+      <description>9月25日、「PostgreSQL 18がリリースされた」。この記事では、最新のオープンソースデータベース「PostgreSQL 18」の主な新機能と改善点について詳しく紹介されている。以下に、その内容を紹介する。 パフォーマンス改善と新しいI/Oサブシステム PostgreSQL 18では、非同期I/O（AIO）サブシステムが導入された。従来はOS... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/68d5bafe6dc4595f7fb9f330</guid>
+      <pubDate>Sat, 27 Sep 2025 07:33:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Storybook公式MCPの解説とその先 - Design Systems with Agentsの提案について -</title>
       <link>https://zenn.dev/cybozu_frontend/articles/e17267112d7816</link>
       <description>!
@@ -106,11 +101,9 @@ Story... (source: Zennのトレンド)</description>
     <item>
       <title>コーディングエージェントのauto-compactの仕組みを読み解く - タスク引継ぎの再現性を高める方法</title>
       <link>https://zenn.dev/gotalab/articles/4b74e6810db959</link>
-      <description>Claude Code, Codex, Cursor, GitHub Copilot, Cline...などコーディングエージェントはたくさんありますが、全てに共通する問題といえば「AIモデルのコンテキストウィンドウ制限」です。
-Claude Opus 4.1が200k、GPT-5が400k、そしてGemini 2.5 Proが1Mとモデルにより異なります。
-コーディングでは扱うファイルやコード数が非常に多く、平気でコンテキストウィンドウ以上のトークン数を必要とします。各コーディングエージェントは、コンテキストウィンドウ制限が起こっても快適なコーディング作業を継続するための仕組みとして「... (source: Zennのトレンド)</description>
+      <description>Claude Code, Codex, Cursor, GitHub Copilot, Cline...などコーディングエージェントはたくさんありますが、全てに共通する問題といえば「AIモデルのコンテキストウィンドウ制限」です。 Claude Opus 4.1が200k、GPT-5が400k、そしてGemini 2.5 Proが1Mとモデルにより異なります。 コーディングでは扱うファイルやコー... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://zenn.dev/gotalab/articles/4b74e6810db959</guid>
-      <pubDate>Sat, 27 Sep 2025 14:27:04 +0000</pubDate>
+      <pubDate>Sun, 28 Sep 2025 01:54:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
