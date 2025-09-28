@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Paper Feed (English)</title>
+    <link>https://example.com</link>
+    <description>論文からおすすめフィードを生成</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 28 Sep 2025 00:07:45 +0000</lastBuildDate>
+    <item>
+      <title>\LARGE GMP$^{3}$: 学習駆動型ベルマン誘導軌道計画
+SE(3) を用いたUAVのリアルタイム飛行</title>
+      <link>http://arxiv.org/abs/2509.21264v1</link>
+      <description>我々は、乱雑な環境で動作する無人航空機（UAV）の動的に実現可能な3次元軌道を生成する多段階グローバル経路計画フレームワーク、$\text{GMP}^{3}$を提案する。このフレームワークは、従来の経路計画をユークリッド位置空間からリー群$\mathrm{SE}(3)$へと拡張し、並進運動と回転運動の共同学習を可能にする。改良ベルマンベース演算子を導入することで、強化学習（RL）のポリシー更新をサポートし、同時に事前軌道情報を活用して収束性を向上させる。$\text{GMP}^{3}$は、エージェントが互いに影響を与え合い、軌道に沿ってポリシー情報を共有する分散フレームワークとして設計されている。各エージェントは割り当てられたセグメントを改良し、コンセンサスベースのスキームを通じて近隣のエージェントと共有することで、運動学的制約下でも協調的なポリシー更新とグローバルに形成された経路への収束を可能にする。また、MAVLinkプロトコルを介してプランナーと実際のUAVプラットフォームを連携させ、リアルタイムの展開とフィードバックをサポートするモジュール式地上管制ソフトウェア「DroneMa (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.21264v1</guid>
+      <pubDate>Thu, 25 Sep 2025 14:56:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>IDEATOR: 大規模ビジョン言語モデルの脱獄とベンチマーク
+モデル自体の使用</title>
+      <link>http://arxiv.org/abs/2411.00827v6</link>
+      <description>大規模な視覚言語モデル（VLM）が注目を集めるにつれ、その安全な導入を確保することが重要になっています。最近の研究では、モデルの脆弱性を悪用して有害な出力を引き出すジェイルブレイク攻撃に対するVLMの堅牢性が調査されています。しかし、多様なマルチモーダルデータの入手が限られているため、現在のアプローチは、有害なテキストデータセットから派生した敵対的または手動で作成された画像に大きく依存せざるを得ず、これらの画像は、異なるコンテキスト間での有効性と多様性に欠けることがよくあります。本稿では、ブラックボックスジェイルブレイク攻撃のために悪意のある画像とテキストのペアを自律的に生成する、新しいジェイルブレイク手法であるIDEATORを提案します。IDEATORは、VLM自体がマルチモーダルジェイルブレイクプロンプトを生成するための強力なレッドチームモデルとして機能できるという洞察に基づいています。具体的には、IDEATORはVLMを活用して標的のジェイルブレイクテキストを作成し、最先端の拡散モデルによって生成されたジェイルブレイク画像と組み合わせます。広範囲にわたる実験により、IDEATOR (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2411.00827v6</guid>
+      <pubDate>Tue, 29 Oct 2024 07:15:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>VC-Agent: カスタマイズされたビデオデータセット収集のためのインタラクティブエージェント</title>
+      <link>http://arxiv.org/abs/2509.21291v1</link>
+      <description>スケーリング則に直面しているインターネットからのビデオデータはますます重要になっています。しかし、特定のニーズを満たす広範なビデオを収集することは、非常に労力と時間がかかります。本研究では、この収集プロセスを迅速化する方法を検討し、ユーザーのクエリとフィードバックを理解し、最小限のユーザー入力で関連するビデオクリップを取得/拡大できる初のインタラクティブエージェントであるVC-Agentを提案します。具体的には、ユーザーインターフェースを考慮して、このエージェントは、ユーザーがテキストの説明と確認に基づいて要件を指定するための、ユーザーフレンドリーなさまざまな方法を定義します。エージェント機能に関しては、既存のマルチモーダル大規模言語モデルを活用して、ユーザーの要件とビデオコンテンツを結び付けます。さらに重要なことに、ユーザーインタラクションが継続的に実行されるときに更新できる2つの新しいフィルタリングポリシーを提案します。最後に、パーソナライズされたビデオデータセット収集のための新しいベンチマークを提供し、さまざまな実際のシナリオにおけるエージェントの使用を検証するためのユーザースタ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.21291v1</guid>
+      <pubDate>Thu, 25 Sep 2025 15:08:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>$L^p$-有界モデル変更による最適ロバストリコース</title>
+      <link>http://arxiv.org/abs/2509.21293v1</link>
+      <description>リコースは、アルゴリズムによる意思決定システムから望ましくないラベル（例えば、ローンの拒否）を受けた個人に対し、望ましい結果を達成するための最小コストの改善提案を提供します。しかし実際には、データ分布や環境の変化を反映するためにモデルが更新されることが多く、リコースの推奨が無効になります（つまり、リコースに従っても望ましい結果にはつながりません）。ロバストリコースに関する文献は、モデルのわずかな変化に対して妥当性が回復力のあるリコースを計算するための枠組みを提供することでこの問題に対処しています。しかし、ロバストリコースを計算する最適化問題は（線形モデルであっても）非凸問題であるため、現在のアプローチのほとんどはリコースの最適性について理論的な保証がありません。Kayasthaらによる最近の研究では、モデルの変化が$L^{\infty}$ノルムを用いて測定された場合、一般化線形モデルに関するロバストリコースのための初めて証明可能な最適なアルゴリズムが提供されています。しかし、$L^{\infty}$ノルムを使用すると、価格の高いリコースソリューションにつながる可能性があります。この欠点 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.21293v1</guid>
+      <pubDate>Thu, 25 Sep 2025 15:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIによる説明を経験に根ざす：臨床意思決定支援のための内省的認知アーキテクチャ</title>
+      <link>http://arxiv.org/abs/2509.21266v1</link>
+      <description>現代の医療における効果的な疾患予測には、高い精度と透明性が高く臨床的に意味のある説明という二つの目標が必要です。既存の機械学習や大規模言語モデル（LLM）に基づくアプローチは、これらの目標のバランスを取るのに苦労することがよくあります。多くのモデルは正確ではあるものの不明確な統計出力を生成する一方で、流暢ではあるものの統計的に裏付けられていないナラティブを生成するモデルもあり、説明の妥当性と予測精度の両方を損なうことがよくあります。この欠点は、データとの相互作用が浅く、人間の専門家と同様の深く詳細な理解を妨げていることに起因します。私たちは、高い精度と高品質の説明は別々の目標ではなく、データに対する深く直接的な理解を生み出すモデルの相互に強化される成果であると主張します。これを実現するために、複数のLLMを調整して直接的な経験から学習する新しいフレームワークであるReflective Cognitive Architecture（RCA）を提案します。 RCA は、予測誤差からロジックを改善する反復的なルール改良メカニズムと、データセットのグローバル統計に基づいて推論を行う分布を考慮し (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.21266v1</guid>
+      <pubDate>Thu, 25 Sep 2025 14:57:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>RLBFF: 人間によるフィードバックと検証可能な報酬をつなぐバイナリフレキシブルフィードバック</title>
+      <link>http://arxiv.org/abs/2509.21319v1</link>
+      <description>人間によるフィードバックを用いた強化学習（RLHF）と検証可能な報酬を用いた強化学習（RLVR）は、LLMの学習後に使用される主要な強化学習パラダイムであり、それぞれに独自の利点があります。しかし、RLHFは、明示的な基準を欠くことが多い人間の判断に依存するため、解釈可能性と報酬ハッキングに課題を抱えています。一方、RLVRは正確性に基づく検証器に焦点を当てているため、適用範囲が限定されています。本研究では、人間主導の選好の汎用性とルールベースの検証の精度を組み合わせ、報酬モデルが単なる正確性を超えた応答品質の微妙な側面を捉えることを可能にする、バイナリフレキシブルフィードバックを用いた強化学習（RLBFF）を提案します。RLBFFは、自然言語フィードバックから、バイナリ形式で回答できる原則（例：情報の正確性：はい、コードの可読性：いいえ）を抽出します。このような原則は、報酬モデルのトレーニングを含意タスク（応答が任意の原則を満たすか満たさないか）として基盤づけるために使用できます。この方法でトレーニングされた報酬モデルは、データマッチングにおいてBradley-Terryモデルよりも (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.21319v1</guid>
+      <pubDate>Thu, 25 Sep 2025 16:19:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>AMPED: 探索とスキルの多様化のバランスをとる適応型多目的予測</title>
+      <link>http://arxiv.org/abs/2506.05980v2</link>
+      <description>スキルベース強化学習（SBRL）は、スキル条件付きポリシーを事前学習することで、報酬がスパースな環境への迅速な適応を可能にします。
+効果的なスキル学習には、探索とスキルの多様性の両方を最大化することが必要です。しかし、既存の手法では、これら2つの相反する目的を同時に最適化することがしばしば課題となっています。本研究では、探索とスキルの多様性を両立させるための適応型多目的投影（AMPED）という新しい手法を提案します。この手法は、両方に明示的に対処します。事前学習時には、勾配手術投影によって探索と多様性の勾配のバランスを取り、微調整時には、スキルセレクタによって学習した多様性を活用して下流のタスクに適したスキルを選択します。私たちのアプローチは、様々なベンチマークにおいてSBRLのベースラインを上回る性能を達成します。広範なアブレーション研究を通じて、各コンポーネントの役割を特定し、AMPEDの各要素が性能に貢献していることを実証します。さらに、貪欲なスキルセレクターを用いることで、スキルの多様性が高まるほど、微調整サンプルの複雑さが低減するという理論的および経験的証拠を示します。これら (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2506.05980v2</guid>
+      <pubDate>Fri, 06 Jun 2025 10:59:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>マルチモーダル推論のための指示調整された自己質問フレームワーク</title>
+      <link>http://arxiv.org/abs/2509.21251v1</link>
+      <description>近年、大規模言語モデル（LLM）の開発により、視覚言語理解の分野が活発に研究されています。しかし、非常に単純な質問であっても、多段階の推論を必要とする問題には依然として支援が必要です。最近の研究では、LLMを用いてサブ質問と回答を反復的に生成することでこの問題に取り組んでいます。しかし、1) 視覚情報を読み取ることができないLLMでは画像のきめ細かい視覚コンテンツを利用できない、2) ブラックボックスLLMでは内部メカニズムにアクセスできず、再現が困難である、といった欠点があります。これらの問題を解決するために、我々はSQ（Self-Questioning）-InstructBLIPを提案します。これは、画像を認識した有益なサブ質問とサブ回答を反復的に生成することで推論性能を向上させます。SQ-InstructBLIPは、同じアーキテクチャを共有するQuestioner、Answerer、およびReasonerで構成されています。 QuestionerとAnswererは、メインの質問を推論するためにサブ質問とサブ回答を生成し、Reasonerは生成されたサブ質問の情報を考慮してメイン (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.21251v1</guid>
+      <pubDate>Thu, 25 Sep 2025 14:45:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>MASS: ポートフォリオ構築のためのマルチエージェントシミュレーションスケーリング</title>
+      <link>http://arxiv.org/abs/2505.10278v2</link>
+      <description>LLMベースのエージェントを金融投資に応用することは大きな可能性を示していますが、既存のアプローチでは、個々の株式の動きを予測するなどの中間ステップが必要であったり、事前に定義された静的なワークフローに依存したりすることがよくあります。これらの制限により、最適なポートフォリオを構築する際の適応性と有効性が制限されます。本稿では、マルチエージェントシミュレーションを活用して直接的なエンドツーエンドのポートフォリオ構築を実現する新しいフレームワーク、マルチエージェントスケーリングシミュレーション（MASS）を紹介します。MASSの中核となるのは、後方最適化プロセスを採用し、異種エージェントの最適な分布を動的に学習することで、システムが変化する市場体制に適応できるようにすることです。このフレームワークによって可能になった重要な発見は、ポートフォリオ構築におけるスケーリング効果の探求です。エージェントの数が指数関数的に増加するにつれて（最大512）、集約された意思決定によって超過収益が徐々に高まることを実証しました。 2023年中国A株市場から独自に収集した難易度の高いデータセットを用いた広範 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2505.10278v2</guid>
+      <pubDate>Thu, 15 May 2025 13:27:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>VerifyBench: 大規模言語モデルにおける参照ベース報酬システムのベンチマーク</title>
+      <link>http://arxiv.org/abs/2505.15801v3</link>
+      <description>OpenAI o1やDeepSeek-R1などの大規模推論モデルは、推論の領域において驚異的な性能を達成しています。これらのモデルを訓練するための重要な要素は、強化学習（RL）に検証可能な報酬を組み込むことです。しかし、既存の報酬ベンチマークは参照ベースの報酬システムを評価しておらず、研究者はRLで使用される検証器の精度について十分に理解できていません。本稿では、参照ベースの報酬システムの性能を評価するために設計された2つのベンチマーク、VerifyBenchとVerifyBench-Hardを紹介します。これらのベンチマークは、綿密なデータ収集とキュレーション、そして高品質を確保するための慎重な人間によるアノテーションによって構築されています。現在のモデルは、特に小規模モデルにおいて、VerifyBenchとVerifyBench-Hardの両方において、依然としてかなりの改善の余地が見られます。さらに、評価結果を徹底的かつ包括的に分析し、参照ベースの報酬システムの理解と開発のための知見を提供します。私たちが提案するベンチマークは、推論タスクにおいて強化学習によって訓練されたモデルの (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2505.15801v3</guid>
+      <pubDate>Wed, 21 May 2025 17:54:43 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
