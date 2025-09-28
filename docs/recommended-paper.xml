@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Sep 2025 00:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 01:22:13 +0000</lastBuildDate>
     <item>
       <title>RLBFF: 人間によるフィードバックと検証可能な報酬をつなぐバイナリフレキシブルフィードバック</title>
       <link>http://arxiv.org/abs/2509.21319v1</link>
@@ -19,7 +19,7 @@
       <title>AMPED: 探索とスキルの多様化のバランスをとる適応型多目的予測</title>
       <link>http://arxiv.org/abs/2506.05980v2</link>
       <description>スキルベース強化学習（SBRL）は、スキル条件付きポリシーを事前学習することで、報酬がスパースな環境への迅速な適応を可能にします。
-効果的なスキル学習には、探索とスキルの多様性の両方を最大化することが必要です。しかし、既存の手法では、これら2つの相反する目的を同時に最適化することがしばしば課題となっています。本研究では、探索とスキルの多様性を両立させるための適応型多目的投影（AMPED）という新しい手法を提案します。この手法は、両方に明示的に対処します。事前学習時には、勾配手術投影によって探索と多様性の勾配のバランスを取り、微調整時には、スキルセレクタによって学習した多様性を活用して下流のタスクに適したスキルを選択します。私たちのアプローチは、様々なベンチマークにおいてSBRLのベースラインを上回る性能を達成します。広範なアブレーション研究を通じて、各コンポーネントの役割を特定し、AMPEDの各要素が性能に貢献していることを実証します。さらに、貪欲なスキルセレクターを用いることで、スキルの多様性が高まるほど、微調整サンプルの複雑さが低減するという理論的および経験的証拠を示します。これら (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+効果的なスキル学習には、探索とスキル多様性の両方を最大化することが必要です。しかし、既存の手法では、これら2つの相反する目的を同時に最適化することがしばしば課題となっています。本研究では、探索とスキル多様性のバランスをとるための適応型多目的投影（AMPED）という新しい手法を提案します。この手法は、両方に明示的に対処します。事前学習中は、勾配手術投影によって探索と多様性の勾配のバランスを取り、微調整中は、スキルセレクタによって学習した多様性を活用して下流のタスクに適したスキルを選択します。私たちのアプローチは、様々なベンチマークにおいてSBRLのベースラインを上回る性能を達成します。広範なアブレーション研究を通じて、各コンポーネントの役割を特定し、AMPEDの各要素が性能に貢献していることを実証します。さらに、貪欲なスキルセレクターを用いることで、スキルの多様性が高まるほど、微調整サンプルの複雑さが低減するという理論的および経験的証拠を示します。これらの結 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
       <guid isPermaLink="true">http://arxiv.org/abs/2506.05980v2</guid>
       <pubDate>Fri, 06 Jun 2025 10:59:39 +0000</pubDate>
     </item>
