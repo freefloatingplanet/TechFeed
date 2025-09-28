@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2025 00:07:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 00:11:57 +0000</lastBuildDate>
     <item>
       <title>Claude Codeに上手くコンテキストを渡すためのTips</title>
       <link>https://zenn.dev/knowledgework/articles/9b82d0c0a34ab4</link>
@@ -104,21 +104,13 @@ Story... (source: Zennのトレンド)</description>
       <pubDate>Fri, 26 Sep 2025 00:13:24 +0000</pubDate>
     </item>
     <item>
-      <title>LLM でインフラ管理をサポートしたい</title>
-      <link>https://zenn.dev/microsoft/articles/ec9190f4449413</link>
-      <description>こんにちは。
-先日、Azure-Samples 上に infra-support-copilot というレポジトリを公開しました。
-https://github.com/Azure-Samples/infra-support-copilot
-今回は、このレポジトリで実装しているツールについて解説をしていきます (2025 / 9 / 26 現在時点の内容です) 。
-
- 1. はじめに - 課題
-クラウド運用に携わるインフラ エンジニアは、次のような課題を抱えていることがよくあります。
-
-構成管理:
-
-手元にあるエクセルのインベントリ情報が古くなっていて、対象サーバーを管理している部署がわ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/ec9190f4449413</guid>
-      <pubDate>Fri, 26 Sep 2025 10:56:29 +0000</pubDate>
+      <title>コーディングエージェントのauto-compactの仕組みを読み解く - タスク引継ぎの再現性を高める方法</title>
+      <link>https://zenn.dev/gotalab/articles/4b74e6810db959</link>
+      <description>Claude Code, Codex, Cursor, GitHub Copilot, Cline...などコーディングエージェントはたくさんありますが、全てに共通する問題といえば「AIモデルのコンテキストウィンドウ制限」です。
+Claude Opus 4.1が200k、GPT-5が400k、そしてGemini 2.5 Proが1Mとモデルにより異なります。
+コーディングでは扱うファイルやコード数が非常に多く、平気でコンテキストウィンドウ以上のトークン数を必要とします。各コーディングエージェントは、コンテキストウィンドウ制限が起こっても快適なコーディング作業を継続するための仕組みとして「... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/gotalab/articles/4b74e6810db959</guid>
+      <pubDate>Sat, 27 Sep 2025 14:27:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
