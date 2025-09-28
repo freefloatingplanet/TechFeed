@@ -46,7 +46,7 @@ profiles:
     title: "Paper Feed (English)"
     description: "論文からおすすめフィードを生成"
     apply_threshold_on: "final_score" # "similarity" or "final_score"（後述）
-    score_threshold: 0.100 # 最終スコア側にしきい値を置く場合だけ使う
+    score_threshold: 0.135 # 最終スコア側にしきい値を置く場合だけ使う
     language: "ja"
     translation:
       enabled: true
