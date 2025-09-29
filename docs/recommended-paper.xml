@@ -7,42 +7,51 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Sep 2025 01:17:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 12:36:25 +0000</lastBuildDate>
     <item>
-      <title>RLBFF: 人間によるフィードバックと検証可能な報酬をつなぐバイナリフレキシブルフィードバック</title>
-      <link>http://arxiv.org/abs/2509.21319v1</link>
-      <description>人間によるフィードバックを用いた強化学習（RLHF）と検証可能な報酬を用いた強化学習（RLVR）は、LLMの学習後に使用される主要な強化学習パラダイムであり、それぞれに独自の利点があります。しかし、RLHFは、明示的な基準を欠くことが多い人間の判断に依存するため、解釈可能性と報酬ハッキングに課題を抱えています。一方、RLVRは正確性に基づく検証器に焦点を当てているため、適用範囲が限定されています。本研究では、人間主導の選好の汎用性とルールベースの検証の精度を組み合わせ、報酬モデルが単なる正確性を超えた応答品質の微妙な側面を捉えることを可能にする、バイナリフレキシブルフィードバックを用いた強化学習（RLBFF）を提案します。RLBFFは、自然言語フィードバックから、バイナリ形式で回答できる原則（例：情報の正確性：はい、コードの可読性：いいえ）を抽出します。このような原則は、報酬モデルのトレーニングを含意タスク（応答が任意の原則を満たすか満たさないか）として基盤づけるために使用できます。この方法でトレーニングされた報酬モデルは、データマッチングにおいてBradley-Terryモデルよりも (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.21319v1</guid>
-      <pubDate>Thu, 25 Sep 2025 16:19:06 +0000</pubDate>
+      <title>CLIPベースのクラス増分学習のための階層的表現マッチング
+</title>
+      <link>http://arxiv.org/abs/2509.22645v1</link>
+      <description>クラス増分学習（CIL）は、進化するデータストリームに継続的に適応する能力をモデルに付与することを目的としています。事前学習済みの視覚言語モデル（CLIPなど）の最近の進歩は、このタスクのための強力な基盤を提供します。しかし、既存のアプローチはしばしば「[クラス]の写真」といった単純なテンプレートに依存しており、視覚概念の階層的性質が考慮されていません。例えば、「猫」と「車」の認識には粗粒度の手がかりが必要ですが、「猫」と「ライオン」の区別には細粒度の詳細が必要です。同様に、CLIPにおける現在の特徴マッピングは、最終層からの表現のみに依存しており、それ以前の層に含まれる階層情報は無視されています。本研究では、CLIPベースのCIL向けに階層的表現マッチング（HERMAN）を導入します。我々のアプローチは、LLMを活用して識別的なテキスト記述子を再帰的に生成し、それによって明示的な階層的手がかりで意味空間を拡張します。これらの記述子は、意味階層の異なるレベルにマッチングされ、タスク固有の要件に基づいて適応的にルーティングされます。これにより、正確な識別が可能になり、増分タスクにおける壊 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.22645v1</guid>
+      <pubDate>Fri, 26 Sep 2025 17:59:51 +0000</pubDate>
     </item>
     <item>
-      <title>マルチモーダル推論のための指示調整された自己質問フレームワーク</title>
-      <link>http://arxiv.org/abs/2509.21251v1</link>
-      <description>近年、大規模言語モデル（LLM）の開発により、視覚言語理解の分野が活発に研究されています。しかし、非常に単純な質問であっても、多段階の推論を必要とする問題には依然として支援が必要です。最近の研究では、LLMを用いてサブ質問と回答を反復的に生成することでこの問題に取り組んでいます。しかし、1) 視覚情報を読み取ることができないLLMでは画像のきめ細かい視覚コンテンツを利用できない、2) ブラックボックスLLMでは内部メカニズムにアクセスできず、再現が困難である、といった欠点があります。これらの問題を解決するために、我々はSQ（Self-Questioning）-InstructBLIPを提案します。これは、画像を認識した有益なサブ質問とサブ回答を反復的に生成することで推論性能を向上させます。SQ-InstructBLIPは、同じアーキテクチャを共有するQuestioner、Answerer、およびReasonerで構成されています。 QuestionerとAnswererは、メインの質問を推論するためにサブ質問とサブ回答を生成し、Reasonerは生成されたサブ質問の情報を考慮してメイン (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.21251v1</guid>
-      <pubDate>Thu, 25 Sep 2025 14:45:06 +0000</pubDate>
+      <title>生成モデリングのための輸送ベース平均フロー</title>
+      <link>http://arxiv.org/abs/2509.22592v1</link>
+      <description>フローマッチング生成モデルは、連続データ生成のための強力なパラダイムとして登場し、画像、3D形状、点群などの領域において最先端の結果を達成しています。しかしながら、これらのモデルは成功を収めているものの、多数の連続サンプリングステップを必要とするため、推論速度が遅いという問題を抱えています。近年の研究では、サンプリングステップ数を削減することで推論を高速化しようと試みられています。特に、Mean Flowsは、強力な生成性能を維持しながら大幅な高速化を実現するワンステップ生成アプローチを提供します。しかしながら、多くの連続領域において、Mean Flowsは元のマルチステップフローマッチングプロセスの挙動を忠実に近似することができません。本研究では、最適な輸送ベースのサンプリング戦略をMean Flowフレームワークに組み込むことでこの制限に対処し、元のマルチステップフロープロセスの忠実度と多様性をより適切に維持するワンステップ生成器を実現します。制御された低次元設定と、画像生成、画像間変換、点群生成などの高次元タスクでの実験により、私たちのアプローチは、ワンステップ生成モデリングにお (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.22592v1</guid>
+      <pubDate>Fri, 26 Sep 2025 17:12:19 +0000</pubDate>
     </item>
     <item>
-      <title>AMPED: 探索とスキルの多様化のバランスをとる適応型多目的予測</title>
-      <link>http://arxiv.org/abs/2506.05980v3</link>
-      <description>スキルベース強化学習（SBRL）は、スキル条件付きポリシーを事前学習することで、報酬がスパースな環境への迅速な適応を可能にします。
-効果的なスキル学習には、探索とスキルの多様性の両方を最大化することが必要です。しかし、既存の手法では、これら2つの相反する目的を同時に最適化することがしばしば課題となっています。本研究では、探索とスキルの多様性を両立させるための適応型多目的投影（AMPED）という新しい手法を提案します。この手法は、両方に明示的に対処します。事前学習時には、勾配手術投影によって探索と多様性の勾配のバランスを取り、微調整時には、スキルセレクタによって学習した多様性を活用して下流のタスクに適したスキルを選択します。私たちのアプローチは、様々なベンチマークにおいてSBRLのベースラインを上回る性能を達成します。広範なアブレーション研究を通じて、各コンポーネントの役割を特定し、AMPEDの各要素が性能に貢献していることを実証します。さらに、貪欲なスキルセレクターを用いることで、スキルの多様性が高まるほど、微調整サンプルの複雑さが低減するという理論的および経験的証拠を示します。これら (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2506.05980v3</guid>
-      <pubDate>Fri, 06 Jun 2025 10:59:39 +0000</pubDate>
+      <title>サブモジュラー目標を超えたマルチエージェントオンラインコーディネーションのための効果的なポリシー学習
+</title>
+      <link>http://arxiv.org/abs/2509.22596v1</link>
+      <description>本稿では、マルチエージェントオンラインコーディネーション(MA-OC)問題に対する効果的な方策学習アルゴリズムを2つ紹介する。1つ目の\texttt{MA-SPL}は、劣モジュラ目的関数を持つMA-OC問題に対して最適な$(1-\frac{c}{e})$近似保証を達成できるだけでなく、未踏の$\alpha$-弱DR劣モジュラシナリオと$(\gamma,\beta)$-弱劣モジュラシナリオも扱うことができる。
+ここで、$c$は調査対象の劣モジュラ関数の曲率、$\alpha$は収穫逓減(DR)比、組$(\gamma,\beta)$は劣モジュラ性比を表す。次に、\texttt{MA-SPL}アルゴリズムに固有の未知のパラメータ$\alpha,\gamma,\beta$への依存度を低減するために、\texttt{MA-MPL}という2つ目のオンラインアルゴリズムを導入します。この\texttt{MA-MPL}アルゴリズムは完全に\emph{パラメータフリー}でありながら、最初の\texttt{MA-SPL}アルゴリズムと同じ近似比を維持できます。\texttt{MA-SPL}と\texttt{ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.22596v1</guid>
+      <pubDate>Fri, 26 Sep 2025 17:16:34 +0000</pubDate>
     </item>
     <item>
-      <title>MASS: ポートフォリオ構築のためのマルチエージェントシミュレーションスケーリング</title>
-      <link>http://arxiv.org/abs/2505.10278v2</link>
-      <description>LLMベースのエージェントを金融投資に応用することは大きな可能性を示していますが、既存のアプローチでは、個々の株式の動きを予測するなどの中間ステップが必要であったり、事前に定義された静的なワークフローに依存したりすることがよくあります。これらの制限により、最適なポートフォリオを構築する際の適応性と有効性が制限されます。本稿では、マルチエージェントシミュレーションを活用して直接的なエンドツーエンドのポートフォリオ構築を実現する新しいフレームワーク、マルチエージェントスケーリングシミュレーション（MASS）を紹介します。MASSの中核となるのは、後方最適化プロセスを採用し、異種エージェントの最適な分布を動的に学習することで、システムが変化する市場体制に適応できるようにすることです。このフレームワークによって可能になった重要な発見は、ポートフォリオ構築におけるスケーリング効果の探求です。エージェントの数が指数関数的に増加するにつれて（最大512）、集約された意思決定によって超過収益が徐々に高まることを実証しました。 2023年中国A株市場から独自に収集した難易度の高いデータセットを用いた広範 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2505.10278v2</guid>
-      <pubDate>Thu, 15 May 2025 13:27:18 +0000</pubDate>
+      <title>STAR-XAIプロトコル：AIエージェントにおける主体性、推論、信頼性の誘導と検証のためのフレームワーク</title>
+      <link>http://arxiv.org/abs/2509.17978v2</link>
+      <description>大規模推論モデル（LRM）の「ブラックボックス」的性質は、信頼性と透明性に重大な限界をもたらし、「思考の錯覚」やエージェントシステムにおける状態幻覚の課題をめぐる議論を激化させています。これに対し、検証可能な信頼性を持つAIエージェントを訓練・運用するための新たな運用手法であるSTAR-XAIプロトコル（ソクラテス式、透明性、エージェント式、説明可能な人工知能のための推論プロトコル）を導入します。この手法は、人間とAIの相互作用を、明示的で進化する記号ルールブック（意識転送パッケージ（CTP））と、内部状態の破損を根絶する状態ロックチェックサムを含む一連の整合性プロトコルによって制御される、構造化されたソクラテス式対話として再構成します。複雑な戦略ゲーム「Caps i Caps」における徹底的なケーススタディを通じて、この「Clear Box」フレームワークが、不透明なLRMを規律ある戦略家へと変貌させることを実証します。エージェントは、長期計画などの複雑な戦術の出現を示すだけでなく、行動前に意図を正当化することで事前の透明性を実現します。重要なのは、監督者が承認した自身の計画の欠陥を (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.17978v2</guid>
+      <pubDate>Mon, 22 Sep 2025 16:24:17 +0000</pubDate>
     </item>
     <item>
-      <title>VerifyBench: 大規模言語モデルにおける参照ベース報酬システムのベンチマーク</title>
-      <link>http://arxiv.org/abs/2505.15801v3</link>
-      <description>OpenAI o1やDeepSeek-R1などの大規模推論モデルは、推論の領域において驚異的な性能を達成しています。これらのモデルを訓練するための重要な要素は、強化学習（RL）に検証可能な報酬を組み込むことです。しかし、既存の報酬ベンチマークは参照ベースの報酬システムを評価しておらず、研究者はRLで使用される検証器の精度について十分に理解できていません。本稿では、参照ベースの報酬システムの性能を評価するために設計された2つのベンチマーク、VerifyBenchとVerifyBench-Hardを紹介します。これらのベンチマークは、綿密なデータ収集とキュレーション、そして高品質を確保するための慎重な人間によるアノテーションによって構築されています。現在のモデルは、特に小規模モデルにおいて、VerifyBenchとVerifyBench-Hardの両方において、依然としてかなりの改善の余地が見られます。さらに、評価結果を徹底的かつ包括的に分析し、参照ベースの報酬システムの理解と開発のための知見を提供します。私たちが提案するベンチマークは、推論タスクにおいて強化学習によって訓練されたモデルの (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2505.15801v3</guid>
-      <pubDate>Wed, 21 May 2025 17:54:43 +0000</pubDate>
+      <title>WebGen-Agent: マルチレベルフィードバックとステップレベル強化学習によるインタラクティブなウェブサイト生成の強化</title>
+      <link>http://arxiv.org/abs/2509.22644v1</link>
+      <description>大規模言語モデル（LLM）を搭載したエージェントシステムは、リポジトリレベルのコード生成タスクにおいて優れた性能を発揮しています。しかし、視覚効果やユーザーインタラクションのフィードバックに大きく依存するウェブサイトのコードベース生成などのタスクでは、現在のコードエージェントはフィードバックと検証のために単純なコード実行のみに依存しています。このアプローチでは、生成されたコードの実際の品質を把握できません。本稿では、包括的かつ多層的な視覚フィードバックを活用してウェブサイトのコードベースを反復的に生成・改良する、新しいウェブサイト生成エージェントであるWebGen-Agentを提案します。ウェブサイトのスクリーンショットとGUIエージェントテストに関する詳細で表現力豊かなテキスト記述と提案は、視覚言語モデル（VLM）によって生成され、その品質を定量化するスコアも生成されます。スクリーンショットとGUIエージェントのスコアは、バックトラッキングと最適な選択メカニズムとさらに統合され、エージェントの性能を向上させます。 WebGen-Agentワークフローに固有の正確な視覚スコアを活用し、 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.22644v1</guid>
+      <pubDate>Fri, 26 Sep 2025 17:59:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>VoiceAssistant-Eval：リスニング、スピーキング、視聴におけるAIアシスタントのベンチマーク</title>
+      <link>http://arxiv.org/abs/2509.22651v1</link>
+      <description>大規模言語モデルとマルチモーダルシステムの機能向上により、音声ファーストAIアシスタントへの関心が高まっていますが、既存のベンチマークはこれらのシステムの機能全体を評価するのに不十分です。そこで、リスニング、スピーキング、ビューイングの3つの側面からAIアシスタントを評価するために設計された包括的なベンチマーク、VoiceAssistant-Evalを紹介します。VoiceAssistant-Evalは、13のタスクカテゴリにわたる10,497の厳選された例で構成されています。これらのタスクには、リスニングでは自然音、音楽、音声対話、スピーキングではマルチターン対話、ロールプレイの模倣、さまざまなシナリオ、ビューイングでは高度に異質な画像が含まれます。その有用性を示すために、21のオープンソースモデルとGPT-4o-Audioを評価し、応答コンテンツと音声の品質、およびそれらの一貫性を測定しました。その結果、3つの重要な知見が明らかになりました。(1) 独自開発モデルはオープンソースモデルを普遍的に上回るわけではない。 (2) ほとんどのモデルは発話タスクでは優れているものの、音声理解 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.22651v1</guid>
+      <pubDate>Fri, 26 Sep 2025 17:59:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
