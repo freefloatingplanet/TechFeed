@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Sep 2025 12:36:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 13:16:22 +0000</lastBuildDate>
+    <item>
+      <title>【海外記事紹介】Cloudflare、中核システムをRustで再構築して大幅なパフォーマンス向上するまでの詳細を公開</title>
+      <link>https://techfeed.io/entries/68d9a83b18f89a7761e08fd4?from=rss</link>
+      <description>9月27日、The Cloudflare Blogで「CloudflareはRustを搭載し、より高速かつ安全になりました(Cloudflare just got faster and more secure, powered by Rust)」と題した記事が公開された。この記事では、Cloudflareがネットワークの中核システムをRustで再構築し、応答速度と安全性を大幅に向上させた取り組みについて詳しく紹介されている。以下に、その内容を簡潔にまとめて紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/68d9a83b18f89a7761e08fd4?from=rss</guid>
+      <pubDate>Sun, 28 Sep 2025 21:27:23 +0000</pubDate>
+    </item>
     <item>
       <title>日刊IETF (2025-09-27)</title>
       <link>https://qiita.com/tetsuko_room/items/13d92e559a67ea35aee1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -82,13 +89,6 @@ https://github.com/storybookjs/addon-mcp
 Story... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/cybozu_frontend/articles/e17267112d7816</guid>
       <pubDate>Fri, 26 Sep 2025 00:13:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLM でインフラ管理をサポートしたい</title>
-      <link>https://zenn.dev/microsoft/articles/ec9190f4449413</link>
-      <description>こんにちは。 先日、Azure-Samples 上に infra-support-copilot というレポジトリを公開しました。 今回は、このレポジトリで実装しているツールについて解説をしていきます (2025 / 9 / 26 現在時点の内容です) 。 1. はじめに - 課題 クラウド運用に携わるインフラ エンジニアは、次のような課題を抱えていることがよ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/ec9190f4449413</guid>
-      <pubDate>Sun, 28 Sep 2025 09:47:31 +0000</pubDate>
     </item>
     <item>
       <title>ZadaraでNVIDIAのビジョンを実現する：Spectrum-Xによる高性能AIネットワーキング</title>
