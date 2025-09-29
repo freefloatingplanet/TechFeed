@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Sep 2025 13:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 01:17:07 +0000</lastBuildDate>
     <item>
       <title>RLBFF: 人間によるフィードバックと検証可能な報酬をつなぐバイナリフレキシブルフィードバック</title>
       <link>http://arxiv.org/abs/2509.21319v1</link>
@@ -24,10 +24,10 @@
     </item>
     <item>
       <title>AMPED: 探索とスキルの多様化のバランスをとる適応型多目的予測</title>
-      <link>http://arxiv.org/abs/2506.05980v2</link>
+      <link>http://arxiv.org/abs/2506.05980v3</link>
       <description>スキルベース強化学習（SBRL）は、スキル条件付きポリシーを事前学習することで、報酬がスパースな環境への迅速な適応を可能にします。
 効果的なスキル学習には、探索とスキルの多様性の両方を最大化することが必要です。しかし、既存の手法では、これら2つの相反する目的を同時に最適化することがしばしば課題となっています。本研究では、探索とスキルの多様性を両立させるための適応型多目的投影（AMPED）という新しい手法を提案します。この手法は、両方に明示的に対処します。事前学習時には、勾配手術投影によって探索と多様性の勾配のバランスを取り、微調整時には、スキルセレクタによって学習した多様性を活用して下流のタスクに適したスキルを選択します。私たちのアプローチは、様々なベンチマークにおいてSBRLのベースラインを上回る性能を達成します。広範なアブレーション研究を通じて、各コンポーネントの役割を特定し、AMPEDの各要素が性能に貢献していることを実証します。さらに、貪欲なスキルセレクターを用いることで、スキルの多様性が高まるほど、微調整サンプルの複雑さが低減するという理論的および経験的証拠を示します。これら (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2506.05980v2</guid>
+      <guid isPermaLink="true">http://arxiv.org/abs/2506.05980v3</guid>
       <pubDate>Fri, 06 Jun 2025 10:59:39 +0000</pubDate>
     </item>
     <item>
@@ -40,7 +40,7 @@
     <item>
       <title>VerifyBench: 大規模言語モデルにおける参照ベース報酬システムのベンチマーク</title>
       <link>http://arxiv.org/abs/2505.15801v3</link>
-      <description>OpenAI o1やDeepSeek-R1などの大規模推論モデルは、推論の領域において驚異的な性能を達成しています。これらのモデルを訓練するための重要な要素は、強化学習（RL）に検証可能な報酬を組み込むことです。しかし、既存の報酬ベンチマークは参照ベースの報酬システムを評価しておらず、研究者はRLで使用される検証器の精度について十分に理解できていません。本稿では、参照ベースの報酬システムの性能を評価するために設計された2つのベンチマーク、VerifyBenchとVerifyBench-Hardを紹介します。これらのベンチマークは、綿密なデータ収集とキュレーション、そして高品質を確保するための慎重な人間によるアノテーションによって構築されています。現在のモデルは、特に小規模モデルにおいて、VerifyBenchとVerifyBench-Hardの両方において、依然としてかなりの改善の余地を示しています。さらに、評価結果を徹底的かつ包括的に分析し、参照ベースの報酬システムの理解と開発のための知見を提供します。私たちが提案するベンチマークは、推論タスクにおいて強化学習によって訓練されたモデル (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <description>OpenAI o1やDeepSeek-R1などの大規模推論モデルは、推論の領域において驚異的な性能を達成しています。これらのモデルを訓練するための重要な要素は、強化学習（RL）に検証可能な報酬を組み込むことです。しかし、既存の報酬ベンチマークは参照ベースの報酬システムを評価しておらず、研究者はRLで使用される検証器の精度について十分に理解できていません。本稿では、参照ベースの報酬システムの性能を評価するために設計された2つのベンチマーク、VerifyBenchとVerifyBench-Hardを紹介します。これらのベンチマークは、綿密なデータ収集とキュレーション、そして高品質を確保するための慎重な人間によるアノテーションによって構築されています。現在のモデルは、特に小規模モデルにおいて、VerifyBenchとVerifyBench-Hardの両方において、依然としてかなりの改善の余地が見られます。さらに、評価結果を徹底的かつ包括的に分析し、参照ベースの報酬システムの理解と開発のための知見を提供します。私たちが提案するベンチマークは、推論タスクにおいて強化学習によって訓練されたモデルの (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
       <guid isPermaLink="true">http://arxiv.org/abs/2505.15801v3</guid>
       <pubDate>Wed, 21 May 2025 17:54:43 +0000</pubDate>
     </item>
