@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Sep 2025 01:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 12:36:13 +0000</lastBuildDate>
     <item>
       <title>【海外記事紹介】Cloudflare、中核システムをRustで再構築して大幅なパフォーマンス向上するまでの詳細を公開</title>
       <link>https://techfeed.io/entries/68d9a83b18f89a7761e08fd4?from=rss</link>
@@ -21,6 +21,32 @@
       <description>9月29日、Chris Loy氏が「The AI coding trap」と題したブログ記事を公開し、話題を呼んでいる。この記事では、AIエージェントが「コードを書く速さ」を劇的に上げる一方で、実際の「動くソフトウェアの提供」をむしろ難しくし得るという“AIコーディングの罠”と、その回避策について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68db04786dc4595f7fbb2624?from=rss</guid>
       <pubDate>Mon, 29 Sep 2025 22:13:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon Q Developer から リモート MCP Server に3分で接続</title>
+      <link>https://qiita.com/srkw7/items/f231c10812a2068e8407?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+2025年9月17日のアップデートで、Amazon Q Developer (CLI / IDE) がリモート MCP サーバーに対応しました。
+
+私は主に VS Code で Amazon Q Developer を利用しているため、本記事では IDE =... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/srkw7/items/f231c10812a2068e8407?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Mon, 29 Sep 2025 23:12:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Python 3.14の新機能：asyncioタスク可視化機能を使ってみよう | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2025/09/monthly-python-2509</link>
+      <description>Python Monthly Topics Python 3.14の新機能⁠⁠：asyncioタスク可視化機能を使ってみよう 福田（@JunyaFff）です。2025年9月の「Python Monthly Topics」では、Python 3.14で追加されるasyncioタスク可視化機能であるasyncio psコマンド、asyncio pstreeコマンドと、asyncio.print_call_graph()関数、asyncio.capture_cal... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gihyo.jp/article/2025/09/monthly-python-2509</guid>
+      <pubDate>Tue, 30 Sep 2025 06:02:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agentの動作を評価するADKのEvaluateについて</title>
+      <link>https://qiita.com/yuto_mori_re/items/3f89d2a78aa84fb9c688?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+こんにちは、レアゾン・ホールディングスでエンジニアをしているYuto Moriです。
+Agent Development Kit（以下、ADK）では、手軽にAgentを作成することが可能です。一方で、作成されたAgentが正しい動作をしているのか、適切な回答を出... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/yuto_mori_re/items/3f89d2a78aa84fb9c688?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 30 Sep 2025 01:05:37 +0000</pubDate>
     </item>
     <item>
       <title>AIに「元画像になんか似ている画像」の生成を簡単に指示するプロンプト</title>
@@ -41,20 +67,6 @@
       <pubDate>Mon, 29 Sep 2025 21:59:33 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic Claude Sonnet 4.5 is in public preview for GitHub Copilot - GitHub Changelog</title>
-      <link>https://github.blog/changelog/2025-09-29-anthropic-claude-sonnet-4-5-is-in-public-preview-for-github-copilot/</link>
-      <description>Anthropic Claude Sonnet 4.5 is in public preview for GitHub Copilot Claude Sonnet 4.5, Anthropic’s most advanced model for coding and real-world agents, is now rolling out in GitHub Copilot to Copilot Pro, Pro+, Business, and Enterprise. From our early testing, the model brings major upgrades in ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://github.blog/changelog/2025-09-29-anthropic-claude-sonnet-4-5-is-in-public-preview-for-github-copilot/</guid>
-      <pubDate>Mon, 29 Sep 2025 17:22:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>PostgreSQL 18リリース！非同期I/Oの導入により最大3倍の速度向上を実現、ほか改善点多数</title>
-      <link>https://techfeed.io/entries/68d5bafe6dc4595f7fb9f330?from=rss</link>
-      <description>9月25日、「PostgreSQL 18がリリースされた」。この記事では、最新のオープンソースデータベース「PostgreSQL 18」の主な新機能と改善点について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68d5bafe6dc4595f7fb9f330?from=rss</guid>
-      <pubDate>Thu, 25 Sep 2025 21:58:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Auth.jsがBetter Authの一部に — JavaScriptエコシステムで広く利用されてきた認証ライブラリに何があったのか</title>
       <link>https://techfeed.io/entries/68d9a66918f89a7761e08fac?from=rss</link>
       <description>9月27日、Better Authが「Auth.js is now part of Better Auth」と題した記事を公開した。この記事では、JavaScriptエコシステムで広く利用されてきた認証ライブラリAuth.js（旧称NextAuth.js）がBetter Authチームの管理下に移行した経緯と、その背景、今後の展望について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
@@ -62,30 +74,11 @@
       <pubDate>Sun, 28 Sep 2025 21:19:37 +0000</pubDate>
     </item>
     <item>
-      <title>Storybook公式MCPの解説とその先 - Design Systems with Agentsの提案について -</title>
-      <link>https://zenn.dev/cybozu_frontend/articles/e17267112d7816</link>
-      <description>!
-この記事は、CYBOZU SUMMER BLOG FES '25の記事です。
-
-
- はじめに
-2025年8月末にStorybook公式のMCPが登場しました。これがMCP Addonです。
-https://github.com/storybookjs/addon-mcp
-また、Storybook MCPに関するさまざまな議論も行われています。
-本記事では、Storybookの公式MCP Addonの機能とAgentic Workflow、そしてDesign Systems with Agentsという提案について解説します。
-
- Storybook MCP Addonとは
-Story... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/cybozu_frontend/articles/e17267112d7816</guid>
-      <pubDate>Fri, 26 Sep 2025 00:13:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZadaraでNVIDIAのビジョンを実現する：Spectrum-Xによる高性能AIネットワーキング</title>
-      <link>https://qiita.com/matthew_edmond/items/a2d1a05328775c0c80f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>Zadaraは、NVIDIA の Cloud Provider（NCP）を支援し、マルチテナント推論クラウド向けのNVIDIAソフトウェア・リファレンスアーキテクチャを実現しています。今回はその方法を探ります。
-この記事では、NVIDIAの高性能イーサネットネットワーキング... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/matthew_edmond/items/a2d1a05328775c0c80f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Mon, 29 Sep 2025 01:10:32 +0000</pubDate>
+      <title>デベロッパーリレーションズの現場からエキスパートが語る！「仕事」としてのエンジニアコミュニティ設計</title>
+      <link>https://techfeed.io/entries/68d9de776dc4595f7fbad173?from=rss</link>
+      <description>デベロッパーリレーションズ（DevRel）の中心にあるのは「コミュニティ」です。では、そのコミュニティをどう設計し、どう育てればよいのでしょうか。 参加者をお客様扱いしないこと、楽しい雰囲気を意図的に作ること、営業活動を場から切り離すこと ――現場で実際に手を動かしてきた人たちだからこそ語れるリアルがあります。本記事では、長年コミュニティ運営に関わってきた 小田祥平氏 、 HERE Technologiesの萩野たいじ氏 、 アビダルマ株式会社の横田昌彦氏 の三名が、実体験に基づいて「コミュニティの本質」について語り合った座談会をお届けします。エンジニアや技術広報に関心のある皆さんにとって、これからDevRelに関わる際のヒントや実践の足がかりになれば幸いです。コミュニティ運営の出発点 ― 自己紹介とこれまでの活動おだしょー: まず自己紹介から行きましょうか。私は小田祥平と申しまして、普段は「おだしょー」という名前でコミュニティ活動をしています。いまは特定のベンダーに属していませんが、過去にはmablというソフトウェアテスト自動化サービスのコミュニティ支援や、Microsoftでのコミ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/68d9de776dc4595f7fbad173?from=rss</guid>
+      <pubDate>Tue, 30 Sep 2025 06:49:57 +0000</pubDate>
     </item>
     <item>
       <title>コーディングエージェントのauto-compactの仕組みを読み解く - タスク引継ぎの再現性を高める方法</title>

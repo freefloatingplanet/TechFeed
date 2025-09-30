@@ -7,51 +7,68 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Sep 2025 01:16:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 12:36:21 +0000</lastBuildDate>
     <item>
-      <title>CLIPベースのクラス増分学習のための階層的表現マッチング
+      <title>分散型マルチロボットポリシーのカリキュラム模倣学習</title>
+      <link>http://arxiv.org/abs/2509.25097v1</link>
+      <description>マルチロボットシステム（MRS）の制御方策の学習は、長期的な協調と現実的な訓練データの取得の難しさのために、依然として大きな課題となっています。本研究では、模倣学習の枠組みの中でこれらの限界に対処します。まず、MRSにおけるカリキュラム学習の典型的な役割を、ロボットの数に応じたスケーラビリティから、長期的な協調の改善に重点を置くものへと転換します。訓練中に熟練者の軌跡の長さを徐々に増やすことで、学習を安定化し、長期的な行動の精度を向上させるカリキュラム戦略を提案します。次に、三人称視点の全体的状態デモンストレーションのみを用いて、各ロボットの自己中心的な知覚を近似する方法を導入します。このアプローチは、近傍をフィルタリングし、参照フレームを変換し、搭載センサーの変動をシミュレートすることにより、理想化された軌跡を局所的に利用可能な観測値に変換します。これらの両方の貢献は、観測値からスケーラブルな分散方策を生成するための物理学に基づいた手法に統合されています。我々は、チーム規模とノイズレベルを変化させながら、2つのタスクで実験を行った。
+結果は、我々のカリキュラムが長期的な精度を向上させ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.25097v1</guid>
+      <pubDate>Mon, 29 Sep 2025 17:31:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>大規模推論モデルにおけるエントロピー正則化の再考</title>
+      <link>http://arxiv.org/abs/2509.25133v1</link>
+      <description>検証可能な報酬を伴う強化学習（RLVR）は、大規模推論モデル（LRM）の推論能力の向上に大きな期待が寄せられています。しかし、RLVRにはエントロピー崩壊と早期収束という重大な問題があります。従来の強化学習文献において探索を促進するための一般的なアプローチであるナイーブエントロピー正則化は、LRMの文脈においてこの問題に対処できません。私たちの分析により、この失敗は、LRMの広大な行動空間と長い軌跡に起因していることが明らかになりました。LRMは、すべての可能な行動と状態を無差別に探索するため、グローバルエントロピー爆発を容易に引き起こします。この問題に対処するために、私たちはSIREN（Selective entRopy rEgularizatioN）を提案します。これは、探索を意味のある行動と状態のサブセットに限定する手法です。SIRENは、トップエントロピーマスクとピークエントロピーマスクからなる2段階のエントロピーマスキングメカニズムによってこれを実現します。さらに、正則化は自己アンカー形式に変換され、学習を安定化します。5つの数学的ベンチマークにおいて、SIRENは従来のエン (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.25133v1</guid>
+      <pubDate>Mon, 29 Sep 2025 17:49:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>データ駆動型最適電力フロー：行動システムアプローチ</title>
+      <link>http://arxiv.org/abs/2509.25120v1</link>
+      <description>多数の再生可能エネルギー源によって駆動される電力システムの分散化が進むにつれ、電力潮流最適化において課題が生じています。送電線の特性が部分的にしか不明な場合、モデルベースのアプローチは不適切となる可能性があります。センサーの導入が進むにつれて、データ駆動型手法が有望な代替手段として浮上しています。データ駆動型手法は、変化する系統構造や未知の線路特性に適応する柔軟性を提供します。本論文では、ウィレムスの基本補題に基づき、放射状系統の非線形電力潮流方程式の新しいデータ駆動型表現を提案します。このアプローチにより、入出力データを電力潮流最適化に直接統合できるため、系統の電気的特性やトポロジーに関する明示的な知識を必要とせずに、コスト最小化と制約条件の適用が可能になります。さらに、最先端のソルバーとの互換性を確保するために、凸緩和を定式化します。数値ケーススタディでは、この新しいアプローチが、明示的なシステム同定ステップを必要とせずに、最先端の手法と同等の性能を発揮することを実証しました。 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.25120v1</guid>
+      <pubDate>Mon, 29 Sep 2025 17:43:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>$\mathbf{Li_2}$：特徴の出現と遅延汎化のダイナミクスに関するフレームワーク
 </title>
-      <link>http://arxiv.org/abs/2509.22645v1</link>
-      <description>クラス増分学習（CIL）は、進化するデータストリームに継続的に適応する能力をモデルに付与することを目的としています。事前学習済みの視覚言語モデル（CLIPなど）の最近の進歩は、このタスクのための強力な基盤を提供します。しかし、既存のアプローチはしばしば「[クラス]の写真」といった単純なテンプレートに依存しており、視覚概念の階層的性質が考慮されていません。例えば、「猫」と「車」の認識には粗粒度の手がかりが必要ですが、「猫」と「ライオン」の区別には細粒度の詳細が必要です。同様に、CLIPにおける現在の特徴マッピングは、最終層からの表現のみに依存しており、それ以前の層に含まれる階層情報は無視されています。本研究では、CLIPベースのCIL向けに階層的表現マッチング（HERMAN）を導入します。我々のアプローチは、LLMを活用して識別的なテキスト記述子を再帰的に生成し、それによって明示的な階層的手がかりで意味空間を拡張します。これらの記述子は、意味階層の異なるレベルにマッチングされ、タスク固有の要件に基づいて適応的にルーティングされます。これにより、正確な識別が可能になり、増分タスクにおける壊 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.22645v1</guid>
-      <pubDate>Fri, 26 Sep 2025 17:59:51 +0000</pubDate>
+      <link>http://arxiv.org/abs/2509.21519v2</link>
+      <description>グロッキング現象、すなわち遅延汎化は広く研究されてきましたが、複雑な構造を持つ入力に対して、学習によってどのような特徴が出現するか、どのように、どのような条件で出現するかを特徴付ける数学的枠組みが存在するかどうかは未解決の問題です。本研究では、2層非線形ネットワークのグロッキング挙動における3つの主要な段階、すなわち(I) \underline{\textbf{L}}遅延学習、(II) \underline{\textbf{i}}独立特徴学習、(III) \underline{\textbf{i}}対話型特徴学習を捉える、$\mathbf{Li_2}$という新しい枠組みを提案します。
+遅延学習段階では、最上層がランダムな隠れ表現に過剰適合し、モデルが記憶しているように見えます。遅延学習と重み減衰のおかげで、最上層からの\emph{逆伝播勾配} $G_F$ は、ターゲットラベルに関する情報を持ち、各隠れノードが\emph{独立に}表現を学習できる特別な構造を持つようになりました。興味深いことに、
+この独立したダイナミクスはエネルギー関数 $E$ の\emph{勾配上昇} と正確に一致し、 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.21519v2</guid>
+      <pubDate>Thu, 25 Sep 2025 20:08:09 +0000</pubDate>
     </item>
     <item>
-      <title>生成モデリングのための輸送ベース平均フロー</title>
-      <link>http://arxiv.org/abs/2509.22592v1</link>
-      <description>フローマッチング生成モデルは、連続データ生成のための強力なパラダイムとして登場し、画像、3D形状、点群などの領域において最先端の結果を達成しています。しかしながら、これらのモデルは成功を収めているものの、多数の連続サンプリングステップを必要とするため、推論速度が遅いという問題を抱えています。最近の研究では、サンプリングステップ数を削減することで推論を高速化しようと試みられています。特に、Mean Flowsは、強力な生成性能を維持しながら大幅な高速化を実現するワンステップ生成アプローチを提供します。しかしながら、多くの連続領域において、Mean Flowsは元のマルチステップフローマッチングプロセスの挙動を忠実に近似することができません。本研究では、最適な輸送ベースのサンプリング戦略をMean Flowフレームワークに組み込むことでこの制限に対処し、元のマルチステップフロープロセスの忠実度と多様性をより適切に維持するワンステップ生成器を実現します。制御された低次元設定と、画像生成、画像間変換、点群生成などの高次元タスクでの実験により、私たちのアプローチは、ワンステップ生成モデリングにお (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.22592v1</guid>
-      <pubDate>Fri, 26 Sep 2025 17:12:19 +0000</pubDate>
+      <title>階層的タスク環境：身体性世界モデルの新たなフロンティア
+ロボットサッカーにおけるモデル</title>
+      <link>http://arxiv.org/abs/2509.04731v2</link>
+      <description>エージェント開発における近年の進歩は、大規模言語モデルにおける成功を反映し、モデルサイズと生のインタラクションデータのスケーリングに重点を置いています。
+しかしながら、ロボットサッカーのような複雑で長期的なマルチエージェントタスクでは、このエンドツーエンドのアプローチは、扱いにくい探索空間とスパースな報酬のために失敗することがよくあります。本ポジションペーパーでは、具現化世界モデル開発における次のフロンティアは、環境の忠実度やサイズを単に増大させるだけでなく、明示的な階層的足場を通じて構造的複雑さをスケーリングすることであると主張します。意思決定のための効果的な世界モデルは、世界の物理特性だけでなく、タスクの意味論もモデル化する必要があると考えています。低リソースマルチエージェントサッカーにおける2024年の研究の体系的レビューに基づき、階層的タスクネットワーク（HTN）やベイズ戦略ネットワーク（BSN）などの記号的・階層的手法をマルチエージェント強化学習（MARL）と統合する明確な傾向を確認した。これらの手法は、複雑な目標を管理可能なサブ目標に分解し、エージェントの学習を形作る固有の (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.04731v2</guid>
+      <pubDate>Fri, 05 Sep 2025 01:03:51 +0000</pubDate>
     </item>
     <item>
-      <title>サブモジュラー目標を超えたマルチエージェントオンラインコーディネーションのための効果的なポリシー学習
-</title>
-      <link>http://arxiv.org/abs/2509.22596v1</link>
-      <description>本稿では、マルチエージェントオンラインコーディネーション(MA-OC)問題に対する効果的な方策学習アルゴリズムを2つ紹介する。1つ目の\texttt{MA-SPL}は、劣モジュラ目的関数を持つMA-OC問題に対して最適な$(1-\frac{c}{e})$近似保証を達成できるだけでなく、未踏の$\alpha$-弱DR劣モジュラシナリオと$(\gamma,\beta)$-弱劣モジュラシナリオも扱うことができる。
-ここで、$c$は調査対象の劣モジュラ関数の曲率、$\alpha$は収穫逓減(DR)比、組$(\gamma,\beta)$は劣モジュラ性比を表す。次に、\texttt{MA-SPL}アルゴリズムに固有の未知のパラメータ$\alpha,\gamma,\beta$への依存度を低減するために、\texttt{MA-MPL}という2つ目のオンラインアルゴリズムを導入します。この\texttt{MA-MPL}アルゴリズムは完全に\emph{パラメータフリー}でありながら、最初の\texttt{MA-SPL}アルゴリズムと同じ近似比を維持できます。\texttt{MA-SPL}と\texttt{ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.22596v1</guid>
-      <pubDate>Fri, 26 Sep 2025 17:16:34 +0000</pubDate>
+      <title>予測の物理的基盤：神経オルガノイドにおける世界モデルの形成
+LLM生成カリキュラムによる</title>
+      <link>http://arxiv.org/abs/2509.04633v2</link>
+      <description>身体化されたエージェントが環境を理解し、予測し、相互作用する能力は、根本的に内部世界モデルに依存しています。本論文では、生物学的基質であるヒト神経オルガノイド内におけるそのような世界モデルの形成と適応を調査するための新たな枠組みを紹介します。これらの生物学的エージェントを訓練し、長期増強（LTP）や長期抑制（LTD）といった学習の根底にあるシナプス機構を解明するために設計された、3つのスケーラブルな閉ループ型仮想環境のカリキュラムを提示します。意思決定を成功させるためには、段階的に洗練された世界モデルが必要となる3つの異なるタスク環境の設計を詳細に示します。(1)静的な状態行動の随伴性を学習するための条件付き回避タスク、(2)目標指向的相互作用のための1次元の捕食者-被食者シナリオ、(3)動的な連続時間システムをモデル化するための古典的なポンゲームの複製です。各環境について、状態空間と行動空間、感覚符号化と運動復号化のメカニズム、そして予測可能な（報酬）刺激と予測不可能な（罰）刺激に基づくフィードバックプロトコルを形式化し、モデルの改良を推進します。
+重要な方法論的進歩として、大規模言 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.04633v2</guid>
+      <pubDate>Thu, 04 Sep 2025 19:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>STAR-XAIプロトコル：AIエージェントにおける主体性、推論、信頼性の誘導と検証のためのフレームワーク</title>
-      <link>http://arxiv.org/abs/2509.17978v2</link>
-      <description>大規模推論モデル（LRM）の「ブラックボックス」的性質は、信頼性と透明性に重大な限界をもたらし、「思考の錯覚」やエージェントシステムにおける状態幻覚の課題をめぐる議論を激化させています。これに対し、検証可能な信頼性を持つAIエージェントを訓練・運用するための新たな運用手法であるSTAR-XAIプロトコル（ソクラテス式、透明性、エージェント式、説明可能な人工知能のための推論プロトコル）を導入します。この手法は、人間とAIの相互作用を、明示的で進化する記号ルールブック（意識転送パッケージ（CTP））と、内部状態の破損を根絶する状態ロックチェックサムを含む一連の整合性プロトコルによって制御される、構造化されたソクラテス式対話として再構成します。複雑な戦略ゲーム「Caps i Caps」における徹底的なケーススタディを通じて、この「Clear Box」フレームワークが、不透明なLRMを規律ある戦略家へと変貌させることを実証します。エージェントは、長期計画などの複雑な戦術の出現を示すだけでなく、行動前に意図を正当化することで事前の透明性を実現します。重要なのは、監督者が承認した自身の計画の欠陥を (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.17978v2</guid>
-      <pubDate>Mon, 22 Sep 2025 16:24:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>WebGen-Agent: マルチレベルフィードバックとステップレベル強化学習によるインタラクティブなウェブサイト生成の強化</title>
-      <link>http://arxiv.org/abs/2509.22644v1</link>
-      <description>大規模言語モデル（LLM）を搭載したエージェントシステムは、リポジトリレベルのコード生成タスクにおいて優れた性能を発揮しています。しかし、視覚効果やユーザーインタラクションのフィードバックに大きく依存するウェブサイトのコードベース生成などのタスクでは、現在のコードエージェントはフィードバックと検証のために単純なコード実行のみに依存しています。このアプローチでは、生成されたコードの実際の品質を把握できません。本稿では、包括的かつ多層的な視覚フィードバックを活用してウェブサイトのコードベースを反復的に生成・改良する、新しいウェブサイト生成エージェントであるWebGen-Agentを提案します。ウェブサイトのスクリーンショットとGUIエージェントテストに関する詳細で表現力豊かなテキスト記述と提案は、視覚言語モデル（VLM）によって生成され、その品質を定量化するスコアも生成されます。スクリーンショットとGUIエージェントのスコアは、バックトラッキングと最適な選択メカニズムとさらに統合され、エージェントの性能を向上させます。 WebGen-Agentワークフローに固有の正確な視覚スコアを活用し、 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.22644v1</guid>
-      <pubDate>Fri, 26 Sep 2025 17:59:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>VoiceAssistant-Eval：リスニング、スピーキング、視聴におけるAIアシスタントのベンチマーク</title>
-      <link>http://arxiv.org/abs/2509.22651v1</link>
-      <description>大規模言語モデルとマルチモーダルシステムの機能向上により、音声ファーストAIアシスタントへの関心が高まっていますが、既存のベンチマークはこれらのシステムの機能全体を評価するのに不十分です。そこで、リスニング、スピーキング、ビューイングの3つの側面からAIアシスタントを評価するために設計された包括的なベンチマーク、VoiceAssistant-Evalを紹介します。VoiceAssistant-Evalは、13のタスクカテゴリにわたる10,497の厳選された例で構成されています。これらのタスクには、リスニングでは自然音、音楽、音声対話、スピーキングではマルチターン対話、ロールプレイの模倣、さまざまなシナリオ、ビューイングでは高度に異質な画像が含まれます。その有用性を示すために、21のオープンソースモデルとGPT-4o-Audioを評価し、応答コンテンツと音声の品質、およびそれらの一貫性を測定しました。その結果、3つの重要な知見が明らかになりました。(1) 独自開発モデルはオープンソースモデルを普遍的に上回るわけではない。 (2) ほとんどのモデルは発話タスクでは優れているものの、音声理解 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.22651v1</guid>
-      <pubDate>Fri, 26 Sep 2025 17:59:59 +0000</pubDate>
+      <title>AgriCruiser：畝間作業用オープンソース農業ロボット
+ナビゲーション</title>
+      <link>http://arxiv.org/abs/2509.25056v1</link>
+      <description>オープンソースの条上作業型農業ロボット「AgriCruiser」をご紹介します。
+多様な作物や畝間レイアウトへの低コストでの導入と迅速な適応を目的として開発されました。
+シャーシは、1.42 m～1.57 mの調整可能なトレッド幅と0.94 mの地上高を備えています。
+AgriCruiserは、半径0.71 m～0.79 mのコンパクトなピボットターンを実現し、効率的な枕地移動を可能にします。
+このプラットフォームは他のサブシステムとの統合を目的として設計されており、本研究では、精密散布システムを実装し、雑草管理におけるその有効性を評価しました。12の亜麻圃場で、1回のロボット散布により、4つの亜麻圃場での手作業による除草と比較して、雑草（アカザとベニスアオイ）の総個体数が24～42分の1に減少し、作物への被害も軽減されました。コンクリート、アスファルト、砂利、芝生、そして湿った土壌と乾いた土壌の両方で実施された移動実験により、トルクサイジングと一致する信頼性の高い移動が確認されました。シャーシ全体は、汎用的なTスロット押し出し材から最小限の機械加工で製造できるため、部品コストは約5, (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.25056v1</guid>
+      <pubDate>Mon, 29 Sep 2025 17:06:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

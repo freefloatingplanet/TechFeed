@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Sep 2025 01:16:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 12:36:15 +0000</lastBuildDate>
     <item>
       <title>中国はブロードバンド、IoT、気象衛星群を次々と打ち上げ強化</title>
       <link>https://spacenews.com/china-boosts-broadband-iot-and-weather-satellite-fleets-with-flurry-of-launches/</link>
       <description>中国は、IoT（モノのインターネット）衛星群の増強、新たなブロードバンド衛星の打ち上げ、気象衛星群の増強など、活発な打ち上げ活動を展開している。この記事「中国、ブロードバンド、IoT、気象衛星群を活発な打ち上げで増強」は、SpaceNewsに初掲載された。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/china-boosts-broadband-iot-and-weather-satellite-fleets-with-flurry-of-launches/</guid>
       <pubDate>Sat, 27 Sep 2025 15:38:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>地上試験中にファイアフライ・アルファブースターが破壊される</title>
+      <link>https://spacenews.com/firefly-alpha-booster-destroyed-in-ground-test/</link>
+      <description>ファイアフライ・エアロスペース社のアルファロケットの飛行再開ミッションの打ち上げ予定だったブースターが9月29日の試験中に破壊され、ロケット計画に新たな支障をきたしました。この記事「ファイアフライ・アルファ・ブースターが地上試験で破壊される」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/firefly-alpha-booster-destroyed-in-ground-test/</guid>
+      <pubDate>Tue, 30 Sep 2025 08:08:09 +0000</pubDate>
     </item>
     <item>
       <title>イタリアの岐路：独自の衛星を開発するか、IRIS²を待つ間Starlinkに頼るか</title>
@@ -37,18 +44,18 @@
       <pubDate>Fri, 26 Sep 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>政府契約が循環型宇宙経済の基盤を築く</title>
+      <link>https://spacenews.com/government-investment-remains-key-to-creating-a-circular-space-economy/</link>
+      <description>オーストラリア、シドニー発 – 政府の需要が商業宇宙ステーション、衛星サービス、宇宙物流への投資を継続的に促進し、宇宙資産の再利用と転用への道を切り開いていると、当地で開催された国際宇宙会議で講演者が述べた。「主に防衛分野から、我々が提供できる能力に対する関心が着実に高まっています。しかし、 […] 政府契約が循環型宇宙経済の基盤を築く」という記事がSpaceNewsに初掲載された。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/government-investment-remains-key-to-creating-a-circular-space-economy/</guid>
+      <pubDate>Tue, 30 Sep 2025 08:09:37 +0000</pubDate>
+    </item>
+    <item>
       <title>宇宙への展望：2075年に向けての準備</title>
       <link>https://spacenews.com/a-perspective-on-space-preparing-for-2075/</link>
       <description>宇宙が現代社会に不可欠な要素となっていることを認識し、英国王立協会（英国科学アカデミー）は最近、2075年までの宇宙活動の潜在的な影響を探る報告書を完成させました。具体的な結果を予測することなく、議論を活性化させることを目指しています。この報告書は、宇宙探査が産業、社会、文化にもたらす変革的な影響を強調しています。[…] 宇宙への視点：2075年への備えは、SpaceNews に最初に掲載されました。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/a-perspective-on-space-preparing-for-2075/</guid>
       <pubDate>Mon, 29 Sep 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>21世紀の宇宙外交の再定義：軌道から成果まで</title>
-      <link>https://spacenews.com/redefining-space-diplomacy-for-the-21st-century-from-orbits-to-outcomes/</link>
-      <description>世界が米国主導のアルテミス協定（セネガルが最近署名し、現在56カ国が加盟）と中国主導の国際月研究ステーションパートナーシップとの間の外交的競争を注視している一方で、国家の尽力のおかげで宇宙コミュニティが可能にした、すでに行われている国際外交および人道的活動が影に隠れる危険にさらされている[…] 21世紀の宇宙外交の再定義：軌道から結果へという記事が最初にSpaceNewsに掲載されました。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/redefining-space-diplomacy-for-the-21st-century-from-orbits-to-outcomes/</guid>
-      <pubDate>Fri, 26 Sep 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
