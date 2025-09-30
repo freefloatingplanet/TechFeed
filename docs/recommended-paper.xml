@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Sep 2025 13:16:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 01:16:14 +0000</lastBuildDate>
     <item>
       <title>CLIPベースのクラス増分学習のための階層的表現マッチング
 </title>
@@ -19,7 +19,7 @@
     <item>
       <title>生成モデリングのための輸送ベース平均フロー</title>
       <link>http://arxiv.org/abs/2509.22592v1</link>
-      <description>フローマッチング生成モデルは、連続データ生成のための強力なパラダイムとして登場し、画像、3D形状、点群などの領域において最先端の結果を達成しています。しかしながら、これらのモデルは成功を収めているものの、多数の連続サンプリングステップを必要とするため、推論速度が遅いという問題を抱えています。近年の研究では、サンプリングステップ数を削減することで推論を高速化しようと試みられています。特に、Mean Flowsは、強力な生成性能を維持しながら大幅な高速化を実現するワンステップ生成アプローチを提供します。しかしながら、多くの連続領域において、Mean Flowsは元のマルチステップフローマッチングプロセスの挙動を忠実に近似することができません。本研究では、最適な輸送ベースのサンプリング戦略をMean Flowフレームワークに組み込むことでこの制限に対処し、元のマルチステップフロープロセスの忠実度と多様性をより適切に維持するワンステップ生成器を実現します。制御された低次元設定と、画像生成、画像間変換、点群生成などの高次元タスクでの実験により、私たちのアプローチは、ワンステップ生成モデリングにお (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <description>フローマッチング生成モデルは、連続データ生成のための強力なパラダイムとして登場し、画像、3D形状、点群などの領域において最先端の結果を達成しています。しかしながら、これらのモデルは成功を収めているものの、多数の連続サンプリングステップを必要とするため、推論速度が遅いという問題を抱えています。最近の研究では、サンプリングステップ数を削減することで推論を高速化しようと試みられています。特に、Mean Flowsは、強力な生成性能を維持しながら大幅な高速化を実現するワンステップ生成アプローチを提供します。しかしながら、多くの連続領域において、Mean Flowsは元のマルチステップフローマッチングプロセスの挙動を忠実に近似することができません。本研究では、最適な輸送ベースのサンプリング戦略をMean Flowフレームワークに組み込むことでこの制限に対処し、元のマルチステップフロープロセスの忠実度と多様性をより適切に維持するワンステップ生成器を実現します。制御された低次元設定と、画像生成、画像間変換、点群生成などの高次元タスクでの実験により、私たちのアプローチは、ワンステップ生成モデリングにお (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
       <guid isPermaLink="true">http://arxiv.org/abs/2509.22592v1</guid>
       <pubDate>Fri, 26 Sep 2025 17:12:19 +0000</pubDate>
     </item>
