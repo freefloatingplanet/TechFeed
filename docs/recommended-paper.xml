@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Sep 2025 12:36:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 13:16:21 +0000</lastBuildDate>
     <item>
       <title>分散型マルチロボットポリシーのカリキュラム模倣学習</title>
       <link>http://arxiv.org/abs/2509.25097v1</link>
@@ -26,7 +26,7 @@
     <item>
       <title>データ駆動型最適電力フロー：行動システムアプローチ</title>
       <link>http://arxiv.org/abs/2509.25120v1</link>
-      <description>多数の再生可能エネルギー源によって駆動される電力システムの分散化が進むにつれ、電力潮流最適化において課題が生じています。送電線の特性が部分的にしか不明な場合、モデルベースのアプローチは不適切となる可能性があります。センサーの導入が進むにつれて、データ駆動型手法が有望な代替手段として浮上しています。データ駆動型手法は、変化する系統構造や未知の線路特性に適応する柔軟性を提供します。本論文では、ウィレムスの基本補題に基づき、放射状系統の非線形電力潮流方程式の新しいデータ駆動型表現を提案します。このアプローチにより、入出力データを電力潮流最適化に直接統合できるため、系統の電気的特性やトポロジーに関する明示的な知識を必要とせずに、コスト最小化と制約条件の適用が可能になります。さらに、最先端のソルバーとの互換性を確保するために、凸緩和を定式化します。数値ケーススタディでは、この新しいアプローチが、明示的なシステム同定ステップを必要とせずに、最先端の手法と同等の性能を発揮することを実証しました。 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <description>多数の再生可能エネルギー源によって駆動される電力システムの分散化が進むにつれ、電力潮流最適化に課題が生じています。送電線の特性が部分的にしか不明な場合、モデルベースのアプローチは不適切となる可能性があります。センサーの導入が進むにつれて、データ駆動型手法が有望な代替手段として浮上しています。データ駆動型手法は、変化する系統構造や未知の線路特性に適応する柔軟性を提供します。本論文では、ウィレムスの基本補題に基づき、放射状系統の非線形電力潮流方程式の新しいデータ駆動型表現を提案します。このアプローチにより、入出力データを電力潮流最適化に直接統合できるため、系統の電気的特性やトポロジーに関する明示的な知識を必要とせずに、コスト最小化と制約条件の適用が可能になります。さらに、最先端のソルバーとの互換性を確保するために、凸緩和を定式化します。数値ケーススタディでは、この新しいアプローチが、明示的なシステム同定ステップを必要とせずに、最先端の手法と同等の性能を発揮することを実証しました。 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
       <guid isPermaLink="true">http://arxiv.org/abs/2509.25120v1</guid>
       <pubDate>Mon, 29 Sep 2025 17:43:21 +0000</pubDate>
     </item>
