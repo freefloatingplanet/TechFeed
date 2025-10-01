@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Oct 2025 01:23:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 12:36:45 +0000</lastBuildDate>
     <item>
       <title>【海外記事紹介】AIコーディングはなぜ辛いのか — 「テックリードのジレンマ」に学ぶ</title>
       <link>https://techfeed.io/entries/68db04786dc4595f7fbb2624?from=rss</link>
@@ -16,21 +16,11 @@
       <pubDate>Mon, 29 Sep 2025 22:13:12 +0000</pubDate>
     </item>
     <item>
-      <title>Amazon Q Developer から リモート MCP Server に3分で接続</title>
-      <link>https://qiita.com/srkw7/items/f231c10812a2068e8407?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-2025年9月17日のアップデートで、Amazon Q Developer (CLI / IDE) がリモート MCP サーバーに対応しました。
-
-私は主に VS Code で Amazon Q Developer を利用しているため、本記事では IDE =... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/srkw7/items/f231c10812a2068e8407?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Mon, 29 Sep 2025 23:12:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Web 標準動向 2025年9月版</title>
-      <link>https://zenn.dev/cybozu_frontend/articles/web_standards_monthly_202509</link>
-      <description>こんにちは！ サイボウズ株式会社 フロントエンドエンジニアの mehm8128 (@mehm8128) です。 はじめに 今月から「Web 標準動向」が始まります。 サイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。 標準化プロセスに関わることができるようになるための最初の一歩として、フロントエンドエンジニアの一部の... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/cybozu_frontend/articles/web_standards_monthly_202509</guid>
-      <pubDate>Tue, 30 Sep 2025 08:03:57 +0000</pubDate>
+      <title>t-wadaさんに聞く！『SQLアンチパターン第2版』 全27章まとめて紹介 - Findy Media</title>
+      <link>https://findy-code.io/media/articles/event-sql-antipatterns-250728</link>
+      <description>本記事では、2025年7月28日に開催され、約1,500名が申し込んだイベント「t-wadaさんに聞く！SQLアンチパターン第2版 - 全27章まとめて紹介！」の内容をお届けします。イベントでは、書籍『SQLアンチパターン 第2版 ―データベースプログラミングで陥りがちな失敗とその対策』の出版を記念して、監訳者であるt-wada（和田... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://findy-code.io/media/articles/event-sql-antipatterns-250728</guid>
+      <pubDate>Tue, 30 Sep 2025 23:32:24 +0000</pubDate>
     </item>
     <item>
       <title>JavaScriptの「いま」を探る年次調査、「State of JavaScript 2025」が回答受付開始 ― あなたも参加して、いまのJSを可視化しよう</title>
@@ -38,20 +28,6 @@
       <description>フロントエンドの大波が一段落し、次の主戦場はメタフレームワークとビルドツールへ。そんな“いま”を数字で捉える年次調査「State of JavaScript 2025」が本日10/1から回答受付を開始した。今年はAstroとNext.jsのせめぎ合い、Viteとwebpackの世代交代、そしてRust発ツールの台頭といった論点を、実データで描き出す好機である。あなたの1票が、開発者の技術選定やブラウザベンダーの投資判断に直結する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68dc4bbd18f89a7761e16782?from=rss</guid>
       <pubDate>Tue, 30 Sep 2025 21:29:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>数十億レコードをゼロダウンタイム移行 ── SQL ServerからAurora MySQLへのデュアルデータベース戦略 - ZOZO TECH BLOG</title>
-      <link>https://techblog.zozo.com/entry/dual-database-migration-strategy</link>
-      <description>はじめに こんにちは。商品基盤部・商品基盤2ブロックの小原です。私が所属するブロックではお気に入り機能のマイクロサービスを担当しています。 ZOZOTOWNではさらなる成長に向けて、さまざまなリプレイスプロジェクトが進行中です。本記事では、その中でもお気に入り機能のリプレイスについて紹介します。SQL Serverか... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://techblog.zozo.com/entry/dual-database-migration-strategy</guid>
-      <pubDate>Mon, 29 Sep 2025 02:09:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Office Agent – “Taste driven” multi-agent system for Microsoft 365 Copilot | Microsoft Community Hub</title>
-      <link>https://techcommunity.microsoft.com/blog/microsoft365copilotblog/office-agent-%E2%80%93-%E2%80%9Ctaste-driven%E2%80%9D-multi-agent-system-for-microsoft-365-copilot/4457397</link>
-      <description>Office Agent – “Taste driven” multi-agent system for Microsoft 365 Copilot Today we’re introducing Office Agent, a multi-agent system that builds upon an open-source stack, Anthropic's Claude model, and a new taste-driven development (TDD) paradigm to deliver polished PowerPoint presentations, re... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://techcommunity.microsoft.com/blog/microsoft365copilotblog/office-agent-%E2%80%93-%E2%80%9Ctaste-driven%E2%80%9D-multi-agent-system-for-microsoft-365-copilot/4457397</guid>
-      <pubDate>Tue, 30 Sep 2025 11:04:03 +0000</pubDate>
     </item>
     <item>
       <title>Agentの動作を評価するADKのEvaluateについて</title>
@@ -75,6 +51,32 @@ Agent Development Kit（以下、ADK）では、手軽にAgentを作成するこ
       <description>9月30日、codemanshipが「Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code」と題したブログ記事を公開し、話題を呼んでいる。この記事では、大規模言語モデル（LLM）が生成するコードが引き起こす「理解負債（comprehension debt）」という新たな課題について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68dc466618f89a7761e166a2?from=rss</guid>
       <pubDate>Tue, 30 Sep 2025 21:06:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>全プロセスが一秒止まる不具合、原因はLinuxカーネルにあり？</title>
+      <link>https://zenn.dev/turing_motors/articles/a460fe08b54253</link>
+      <description>はじめに
+完全自動運転の実現を目指すスタートアップ「チューリング」でエンジニアをしています、坂本です。私が所属しているDrivingSystemチームでは、組み込みLinuxをベースに、自動運転システムと、自動運転モデル学習用データ収集システムを開発しています。
+組み込みLinuxの開発を行っていると、カーネルの挙動、周辺デバイスとの組み合わせ等によって、思いがけない不具合に遭遇することが少なくありません。この記事では、実際にシステム開発中に遭遇した再現が難しく、原因の切り分けに時間を要した不具合について紹介していきます。同じように組込みLinuxや自動運転ソフトウェアの開発に携わっ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/a460fe08b54253</guid>
+      <pubDate>Tue, 30 Sep 2025 08:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>金融システムで取りこぼしゼロを目指すSQL＋Java設計の考え方</title>
+      <link>https://qiita.com/Katsu8998/items/912ebbdf3f219f561a90?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+金融系システムでは、正確性・確実性・信頼性が最優先です。
+特に、発信・受信データや統合前金融機関情報など、条件が多い場合は「取りこぼしゼロ」を意識した設計が重要です。
+この記事では、PostgresとJavaを例に、SQLとJavaの条件分担による安全な設計パタ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Katsu8998/items/912ebbdf3f219f561a90?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 30 Sep 2025 11:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】Ruby CentralがRubyGemsを「乗っ取り」？騒動に関するファクトチェックも話題に</title>
+      <link>https://techfeed.io/entries/68d5b7a018f89a7761dfdeeb?from=rss</link>
+      <description>9月26日、Joel Drapper氏が「Ruby Central Fact Check」と題した記事を公開した。この記事では、Ruby CentralがRubyGemsオープンソースプロジェクトを引き継いだ件に関して発表した主張を検証し、その真偽について詳しく紹介している。背景RubyGemsは、Rubyコミュニティにおける中心的なパッケージ管理システムであり、Rubyアプリケーションやライブラリの供給網を支える基盤である。そのガバナンスは長らくコミュニティの維持者たちにより支えられてきたが、2025年9月、Ruby Centralが突如としてRubyGems関連のオープンソース資産（リポジトリや権限）を引き継ぐと発表した。この決定の背後には、ShopifyがRuby Centralに対して財政的圧力をかけていたことが報じられており、コミュニティに大きな波紋を呼んでいる。今回の件については、Shopifyが「黒幕」として動いたのではないかと強く疑われている。狙いとして指摘されているのは以下の点である。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/68d5b7a018f89a7761dfdeeb?from=rss</guid>
+      <pubDate>Wed, 01 Oct 2025 02:10:59 +0000</pubDate>
     </item>
     <item>
       <title>デベロッパーリレーションズの現場からエキスパートが語る！「仕事」としてのエンジニアコミュニティ設計</title>

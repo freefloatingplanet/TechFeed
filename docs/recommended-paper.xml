@@ -7,13 +7,68 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Oct 2025 01:23:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 12:36:56 +0000</lastBuildDate>
     <item>
-      <title>大規模推論モデルにおけるエントロピー正則化の再考</title>
-      <link>http://arxiv.org/abs/2509.25133v1</link>
-      <description>検証可能な報酬を伴う強化学習（RLVR）は、大規模推論モデル（LRM）の推論能力の向上に大きな期待が寄せられています。しかし、RLVRにはエントロピー崩壊と早期収束という重大な問題があります。従来の強化学習文献において探索を促進するための一般的なアプローチであるナイーブエントロピー正則化は、LRMの文脈においてこの問題に対処できません。私たちの分析により、この失敗は、LRMの広大な行動空間と長い軌跡に起因していることが明らかになりました。LRMは、すべての可能な行動と状態を無差別に探索するため、グローバルエントロピー爆発を容易に引き起こします。この問題に対処するために、私たちはSIREN（Selective entRopy rEgularizatioN）を提案します。これは、探索を意味のある行動と状態のサブセットに限定する手法です。SIRENは、トップエントロピーマスクとピークエントロピーマスクからなる2段階のエントロピーマスキングメカニズムによってこれを実現します。さらに、正則化は自己アンカー形式に変換され、学習を安定化します。5つの数学的ベンチマークにおいて、SIRENは従来のエン (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.25133v1</guid>
-      <pubDate>Mon, 29 Sep 2025 17:49:25 +0000</pubDate>
+      <title>再帰的自己集約が大規模言語モデルにおける深い思考を解き放つ</title>
+      <link>http://arxiv.org/abs/2509.26626v1</link>
+      <description>テスト時間スケーリング手法は、推論中に予測を行うための計算量を増やすことで、大規模言語モデル（LLM）の能力を向上させます。推論時間の計算は、複数の独立した解の中から選択することで並列的にスケーリングすることも、自己改良を通じて順次的にスケーリングすることもできます。本研究では、並列スケーリングと順次スケーリングの両方の利点を組み合わせた、進化的手法に着想を得たテスト時間スケーリング手法である再帰自己集約（RSA）を提案します。RSAの各ステップでは、サブセットの集約を通じて候補推論チェーンの集団を改良し、改善された解の集団を生成します。これらの改善された解は、次の反復の候補プールとして使用されます。RSAは、最終的な答えだけでなく、推論チェーンに埋め込まれた豊富な情報を活用し、異なる思考チェーン内の部分的に正しい中間ステップからのブートストラッピングを可能にします。経験的に、RSAは、多様なタスク、モデルファミリ、およびサイズにわたって、計算予算の増加に伴い大幅なパフォーマンス向上をもたらします。特筆すべきは、RSAにより、Qwen3-4B-Instruct-2507は、DeepSe (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.26626v1</guid>
+      <pubDate>Tue, 30 Sep 2025 17:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>神経作動性胸部大動脈瘤の診断における局所拡張と伸展性の重要性</title>
+      <link>http://arxiv.org/abs/2509.26576v1</link>
+      <description>胸部大動脈瘤（TAA）は、大動脈壁の多様な機械的および機械生物学的損傷によって発生し、解離または破裂のリスクを高めます。TAAの発生は、弾性線維の完全性や細胞-マトリックス結合の喪失など、大動脈機械伝達軸の機能不全と関連していることが示唆されています。異なる損傷は異なる機械的脆弱性を生み出すため、進行を促進する相互作用因子を特定することが極めて重要です。本研究では、有限要素フレームワークを用いて、弾性線維損傷と機械感覚障害の程度が異なる数百の異質な損傷から合成TAAを生成します。これらのシミュレーションから、局所的な拡張と伸展性の空間マップを作成し、複合損傷の開始を予測するニューラルネットワークを訓練します。我々は、複数のアーキテクチャ（ディープオペレータネットワーク、UNets、ラプラスニューラルオペレータ）と複数の入力データ形式を比較し、将来の被験者固有のモデリングの標準を定義します。また、ネットワークを幾何学的データ（膨張）のみを使用してトレーニングした場合と、幾何学的データと力学的データ（膨張と伸展性）の両方を使用してトレーニングした場合の予測性能を定量化します。すべてのネット (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.26576v1</guid>
+      <pubDate>Tue, 30 Sep 2025 17:34:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grokkingの学習ダイナミクスから得られる特徴出現の証明可能なスケーリング則
+</title>
+      <link>http://arxiv.org/abs/2509.21519v3</link>
+      <description>グロッキング現象、すなわち遅延汎化は広く研究されてきたが、複雑な構造を持つ入力に対して、どのような特徴が出現するか、それがどのように、どのような条件で起こるか、そして学習の勾配ダイナミクスと密接に関連するかを特徴付ける数学的枠組みが存在するかどうかは未解決の問題である。我々は、2層非線形ネットワークのグロッキング挙動における3つの主要な段階、すなわち(I) \underline{\textbf{L}}遅延学習、(II)
+\underline{\textbf{i}}独立特徴学習、および(III)
+\underline{\textbf{i}}対話型特徴学習を捉える、$\mathbf{Li_2}$という新しい枠組みを提案する。遅延学習段階では、最上層がランダムな隠れ表現に過剰適合し、モデルが記憶しているように見える。遅延学習と重み減衰のおかげで、最上層からの\emph{逆伝播された勾配}$G_F$は、ターゲットラベルに関する情報を持ち、各隠れノードが\emph{独立に}表現を学習できる特別な構造を持つようになりました。興味深いことに、この独立したダイナミクスはエネルギー関数$E$の\emph (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.21519v3</guid>
+      <pubDate>Thu, 25 Sep 2025 20:08:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>見る前に見ることを学ぶ：LLM視覚事前確率の謎を解き明かす
+言語事前訓練</title>
+      <link>http://arxiv.org/abs/2509.26625v1</link>
+      <description>大規模言語モデル（LLM）は、テキストのみで学習されているにもかかわらず、驚くべきことに豊富な視覚的事前分布を開発します。これらの事前分布により、比較的少量のマルチモーダルデータで視覚タスクを実行するための潜在的視覚能力を解き放ち、場合によっては画像を一度も見ることなく視覚タスクを実行できるようになります。体系的な分析を通じて、言語の事前学習中に獲得される視覚世界に関する暗黙的で創発的な知識である視覚的事前分布は、独自のスケーリング傾向と起源を持つ、分離可能な知覚事前分布と推論事前分布で構成されていることを明らかにしました。LLMの潜在的な視覚的推論能力は、主に推論中心のデータ（コード、数学、学術など）による事前学習によって開発され、徐々にスケーリングされることを示します。言語の事前学習から獲得されたこの推論事前分布は、視覚的推論に転用可能であり、普遍的に適用可能です。対照的に、知覚の事前分布は広範なコーパスからより拡散的に出現し、知覚能力は視覚エンコーダと視覚指示調整データに敏感です。同時に、視覚世界を記述するテキストが重要であることが証明されていますが、そのパフォーマンスへの影響は (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.26625v1</guid>
+      <pubDate>Tue, 30 Sep 2025 17:57:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>ネットワークを介した伝染病蔓延の階層的解析と制御
+散逸率とメッシュ安定性を用いた</title>
+      <link>http://arxiv.org/abs/2509.24665v2</link>
+      <description>拡散プロセスの解析と制御は、非線形ノード（サブシステム）ダイナミクス、未知の擾乱、複雑な相互接続、そして大規模かつ多層的な問題の性質のために、困難な問題です。散逸概念は、サブシステムにエネルギーベースの表現を提供し、それらのサブシステムで構成される相互接続（ネットワーク化）システムの解析と制御に構成特性を提供することで、このような問題に対処するための実用的な枠組みを提供します。
+したがって、本稿では、散逸概念を用いて、ノード、グループ、およびネットワークの階層構造（すなわち、拡散ネットワーク）上で発生する拡散プロセスを解析および制御します。まず、ネットワーク化システムにおける散逸に基づくトポロジー設計に関する既存のいくつかの結果を一般化します。次に、検討対象の拡散ネットワークをネットワーク化システムとしてモデル化し、そのノードの散逸特性を確立します。次に、一般化トポロジー設計法を、対象とする拡散ネットワークの複数のレベルに適用し、その解析および制御問題を線形行列不等式（LMI）問題として定式化します。拡散ネットワークの各階層レベルで解かれるLMI問題の実現可能性をサポートするために、局 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.24665v2</guid>
+      <pubDate>Mon, 29 Sep 2025 12:10:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>個人を超えて：SHOTデータセットによるグループ意図予測の導入</title>
+      <link>http://arxiv.org/abs/2509.20715v2</link>
+      <description>意図認識は従来、個人の意図に焦点が当てられており、集団における集団意図の複雑さが見過ごされてきました。この限界に対処するため、本研究では、複数の個人の行動を通じて形成される共通の目標を表す集団意図の概念と、集団意図予測（GIF）を導入します。これは、集団目標が明らかになる前に個人の行動や相互作用を分析することで、集団意図がいつ発生するかを予測する新しいタスクです。GIFを特定のシナリオで調査するために、5つのカメラビューから撮影され、6種類の個人属性が付与された1,979本のバスケットボールビデオクリップで構成される、GIFの最初の大規模データセットであるSHOTを提案します。SHOTは、複数個人の情報、複数ビューへの適応性、および複数レベルの意図という3つの主要な特性を備えて設計されており、集団意図の出現を研究するのに適しています。さらに、GIFT（Group Intention ForecasTer）を紹介します。これは、個人のきめ細かな特徴を抽出し、進化するグループダイナミクスをモデル化して、意図の出現を予測するフレームワークです。実験結果は、SHOTとGIFTの有効性を確認し、 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.20715v2</guid>
+      <pubDate>Thu, 25 Sep 2025 03:28:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIを活用した電気推進用先進推進剤の開発</title>
+      <link>http://arxiv.org/abs/2509.26567v1</link>
+      <description>本研究では、電気推進用の代替推進剤としての新規化合物の性能を予測するツールとして人工知能アルゴリズムを導入し、イオン化特性とフラグメンテーションパターンの予測に重点を置いています。化合物の化学的性質と構造は化学指紋を用いて符号化され、トレーニングデータセットはNIST WebBookから抽出されています。AIによって予測されたイオン化エネルギーと最小出現エネルギーの平均相対誤差はそれぞれ6.87%と7.99%、予測イオン質量の相対誤差は23.89%です。電子イオン化による全質量スペクトルの場合、予測値のコサイン類似度は0.6395で、30 Daの範囲内で78%の事例において最も類似する上位10個の質量スペクトルと一致します。 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.26567v1</guid>
+      <pubDate>Tue, 30 Sep 2025 17:31:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>無線ベースのマルチロボットオドメトリと相対位置推定</title>
+      <link>http://arxiv.org/abs/2509.26558v1</link>
+      <description>従来、ロボット工学への採用が限られてきた超広帯域無線（UWB）や無線検出・測距（レーダー）などの無線ベースの手法は、過酷な環境条件や乱雑な環境に対する堅牢性から、人気が急上昇しています。本研究では、慣性計測装置（IMU）やホイールエンコーダなどの安価で入手しやすいセンサーとこれらの2つの技術を活用し、地上ロボットに対する空中ロボットの相対位置を推定する、マルチロボットUGV-UAV位置推定システムを提案します。システムパイプラインの第一段階には、UWB距離データに基づいて空中プラットフォームの位置を三辺測量する非線形最適化フレームワークと、マルチロボットシナリオに適合した疎結合自己運動推定機能を備えたレーダー前処理モジュールが含まれています。次に、前処理されたレーダーデータと相対変換は、オドメトリとロボット間制約を備えたポーズグラフ最適化フレームワークに入力されます。このシステムは、Ceresオプティマイザーを備えたロボティックオペレーティングシステム（ROS 2）用に実装され、ソフトウェア・イン・ザ・ループ（SITL）シミュレーションと実世界のデータセットで検証されています。提案され (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.26558v1</guid>
+      <pubDate>Tue, 30 Sep 2025 17:23:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

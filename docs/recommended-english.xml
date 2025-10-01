@@ -7,11 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Oct 2025 01:23:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 12:36:48 +0000</lastBuildDate>
     <item>
       <title>スペースXのD2D契約が宇宙市場の強気相場を刺激</title>
       <link>https://spacenews.com/spacexs-d2d-deal-spurs-space-bulls/</link>
-      <description>衛星投資家は、評価額の上昇、資本プールの拡大、そして世界の宇宙経済を再構築するM&amp;Aの波の中で、宇宙産業に対する楽観的な見方を強めている。SpaceXのD2D契約が宇宙市場の強気相場を刺激するという記事がSpaceNewsに初掲載された。 (source: SpaceNews)</description>
+      <description>衛星投資家は、評価額の上昇、資本プールの拡大、そして世界の宇宙経済を再構築するM&amp;Aの波の中で、宇宙産業に対する楽観的な見方を強めている。SpaceXのD2D契約が宇宙市場への強気相場を刺激するという記事がSpaceNewsに初掲載された。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/spacexs-d2d-deal-spurs-space-bulls/</guid>
       <pubDate>Tue, 30 Sep 2025 18:38:05 +0000</pubDate>
     </item>
@@ -25,35 +25,42 @@
     <item>
       <title>ヴァルダ・スペースとサザン・ローンチ、オーストラリアでのカプセル着陸増加に合意</title>
       <link>https://spacenews.com/varda-space-and-southern-launch-agree-to-more-capsule-landings-in-australia/</link>
-      <description>微小重力研究企業のVarda Space Industriesは、宇宙港運営会社のSouthern Launchと、2028年までに南オーストラリア州で最大20回のカプセル再突入を許可する契約を締結した。この記事「Varda SpaceとSouthern Launchがオーストラリアでのカプセル着陸増加に合意」はSpaceNewsに最初に掲載された。 (source: SpaceNews)</description>
+      <description>微小重力研究企業のヴァルダ・スペース・インダストリーズは、宇宙港運営会社のサザン・ローンチと、2028年までに南オーストラリア州で最大20回のカプセル再突入を許可する契約を締結した。この記事「ヴァルダ・スペースとサザン・ローンチがオーストラリアでのカプセル着陸増加に合意」はSpaceNewsに最初に掲載された。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/varda-space-and-southern-launch-agree-to-more-capsule-landings-in-australia/</guid>
       <pubDate>Tue, 30 Sep 2025 22:17:11 +0000</pubDate>
     </item>
     <item>
-      <title>イタリアの岐路：独自の衛星を開発するか、IRIS²を待つ間Starlinkに頼るか</title>
-      <link>https://spacenews.com/italys-crossroads-build-its-own-satellites-or-lean-on-starlink-while-waiting-for-iris%c2%b2/</link>
-      <description>ミラノ – イタリア宇宙政策局の報告書は、欧州連合（EU）が計画している低中軌道向け官民連携通信衛星群「IRIS²」プログラムにおいて、イタリアの参加が不十分ではないかと疑問を呈する一方で、SpaceXがイタリア向けにStarlinkサービスを提供することを申し出ていることを認めた。この2つの点が相まって、Starlinkに関するイタリアの立場について新たな疑問が生じている。[…] イタリアの岐路：自国衛星を建造するか、IRIS²を待ちながらStarlinkに頼るか の投稿はSpaceNewsに初掲載された。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/italys-crossroads-build-its-own-satellites-or-lean-on-starlink-while-waiting-for-iris%c2%b2/</guid>
-      <pubDate>Mon, 29 Sep 2025 03:00:00 +0000</pubDate>
+      <title>Flexell SpaceとNPC SpacemindがIAC 2025で次世代太陽電池アレイ開発で提携</title>
+      <link>https://spacenews.com/flexell-space-and-npc-spacemind-partner-at-iac-2025-on-next-generation-solar-array-development/</link>
+      <description>オーストラリア、シドニー — 2025年9月29日 – Flexell Space (CEO Taehun Ahn) は、イタリアの衛星ソリューション企業 NPC Spacemind との覚書 (MOU) の締結を […] で発表しました。Flexell Space と NPC Spacemind が IAC 2025 で次世代ソーラー アレイ開発で提携するという記事が SpaceNews に最初に掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/flexell-space-and-npc-spacemind-partner-at-iac-2025-on-next-generation-solar-array-development/</guid>
+      <pubDate>Wed, 01 Oct 2025 04:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Eartheyeは衛星の上下監視タスクを提供する予定</title>
-      <link>https://spacenews.com/eartheye-to-offer-tasking-of-satellites-looking-up-and-down/</link>
-      <description>オーストラリア、シドニー — シンガポールとオーストラリアに拠点を置くスタートアップ企業、アースアイ・スペースは、地球を観測するセンサーに加え、宇宙を観測する衛星のセルフサービス・タスク管理サービスを開始すると、9月29日に当地で開催された国際宇宙会議（IAC）で発表した。「お客様は、単一のプラットフォームと単一のワークフローを通じて、地球を見下ろすか、地球を見上げるかを決めることができます。」[…] この記事「アースアイ、地球を見下ろす衛星と地球を見下ろす衛星のタスク管理サービスを開始」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/eartheye-to-offer-tasking-of-satellites-looking-up-and-down/</guid>
-      <pubDate>Sun, 28 Sep 2025 22:00:00 +0000</pubDate>
+      <title>オーストラリアと日本の組織が光通信で協力</title>
+      <link>https://spacenews.com/australian-and-japanese-organizations-join-forces-on-optical-communications/</link>
+      <description>オーストラリア、シドニー発 – 南オーストラリア大学は9月29日、オーストラリアのスタートアップ企業RapidBeamおよび日本のスタートアップ企業Warpspaceと、レーザー通信システムの開発に関する契約を締結したと発表した。国際宇宙会議（IAC）で発表されたこの契約に基づき、Warpspaceの光モデムはオーストラリア・レーシア光地上局ネットワーク（AOGSN）に統合され、宇宙間および[…] における実証実験が行われる。この記事は、オーストラリアと日本の組織が光通信で協力するという内容で、SpaceNewsに初掲載された。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/australian-and-japanese-organizations-join-forces-on-optical-communications/</guid>
+      <pubDate>Wed, 01 Oct 2025 01:25:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>オーストラリアと英国、スペースブリッジパートナーシップを拡大</title>
+      <link>https://spacenews.com/australia-and-uk-extend-space-bridge-partnership/</link>
+      <description>シドニー、オーストラリア – オーストラリアと英国は、10月1日に当地で開催された国際宇宙会議（IAC）で署名された協定において、宇宙関連協力へのコミットメントを新たにしました。オーストラリア宇宙庁（ASA）のエンリコ・パレルモ長官と英国宇宙庁（UKAS）のポール・ベイト最高経営責任者（CEO）は、スペースブリッジ枠組み協定（Space Bridge Framework Arrangement）に再署名しました。スペースブリッジは、投資拡大を目的として2021年に設立されました。[…] この記事は、オーストラリアと英国がスペースブリッジパートナーシップを延長したことをSpaceNewsに初掲載しました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/australia-and-uk-extend-space-bridge-partnership/</guid>
+      <pubDate>Wed, 01 Oct 2025 04:32:15 +0000</pubDate>
     </item>
     <item>
       <title>政府契約が循環型宇宙経済の基盤を築く</title>
       <link>https://spacenews.com/government-investment-remains-key-to-creating-a-circular-space-economy/</link>
-      <description>オーストラリア、シドニー発 – 政府の需要が商業宇宙ステーション、衛星サービス、宇宙物流への投資を継続的に促進し、宇宙資産の再利用と転用への道を切り開いていると、当地で開催された国際宇宙会議で講演者が述べた。「主に防衛分野から、我々が提供できる能力に対する関心が着実に高まっています。しかし、 […] 政府契約が循環型宇宙経済の基盤を築く」という記事がSpaceNewsに初掲載された。 (source: SpaceNews)</description>
+      <description>シドニー、オーストラリア – 政府の需要が商業宇宙ステーション、衛星サービス、宇宙物流への投資を継続的に促進し、宇宙資産の再利用と転用への道を切り開いていると、当地で開催された国際宇宙会議の講演者たちは述べた。「私たちが提供できる能力に対する関心は、主に防衛分野から着実に高まっていますが、 […] 政府契約が循環型宇宙経済の基盤を築くという記事がSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/government-investment-remains-key-to-creating-a-circular-space-economy/</guid>
       <pubDate>Tue, 30 Sep 2025 08:09:37 +0000</pubDate>
     </item>
     <item>
       <title>宇宙への展望：2075年に向けての準備</title>
       <link>https://spacenews.com/a-perspective-on-space-preparing-for-2075/</link>
-      <description>宇宙が現代社会に不可欠な要素となっていることを認識し、英国王立協会（英国科学アカデミー）は最近、2075年までの宇宙活動の潜在的な影響を探る報告書を完成させました。具体的な結果を予測することなく、議論を活性化させることを目指しています。この報告書は、宇宙探査が産業、社会、文化にもたらす変革的な影響を強調しています。[…] 宇宙に関する視点：2075年への備えは、SpaceNews に最初に掲載されました。 (source: SpaceNews)</description>
+      <description>宇宙が現代社会に不可欠な要素となっていることを認識し、英国王立協会（英国科学アカデミー）は最近、2075年までの宇宙活動の潜在的な影響を探る報告書を完成させました。具体的な結果を予測することなく、議論を活性化させることを目指しています。この報告書は、宇宙探査が産業、社会、文化にもたらす変革的な影響を強調しています。[…] 宇宙への視点：2075年への備えは、SpaceNews に最初に掲載されました。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/a-perspective-on-space-preparing-for-2075/</guid>
       <pubDate>Mon, 29 Sep 2025 13:00:00 +0000</pubDate>
     </item>
