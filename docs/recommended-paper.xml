@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Oct 2025 12:36:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 13:17:13 +0000</lastBuildDate>
     <item>
       <title>再帰的自己集約が大規模言語モデルにおける深い思考を解き放つ</title>
       <link>http://arxiv.org/abs/2509.26626v1</link>
@@ -59,7 +59,7 @@
     <item>
       <title>AIを活用した電気推進用先進推進剤の開発</title>
       <link>http://arxiv.org/abs/2509.26567v1</link>
-      <description>本研究では、電気推進用の代替推進剤としての新規化合物の性能を予測するツールとして人工知能アルゴリズムを導入し、イオン化特性とフラグメンテーションパターンの予測に重点を置いています。化合物の化学的性質と構造は化学指紋を用いて符号化され、トレーニングデータセットはNIST WebBookから抽出されています。AIによって予測されたイオン化エネルギーと最小出現エネルギーの平均相対誤差はそれぞれ6.87%と7.99%、予測イオン質量の相対誤差は23.89%です。電子イオン化による全質量スペクトルの場合、予測値のコサイン類似度は0.6395で、30 Daの範囲内で78%の事例において最も類似する上位10個の質量スペクトルと一致します。 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <description>本研究では、電気推進用の代替推進剤としての新規化合物の性能を予測するツールとして人工知能アルゴリズムを導入し、イオン化特性とフラグメンテーションパターンの予測に重点を置いています。化合物の化学的性質と構造は化学指紋を用いて符号化され、トレーニングデータセットはNIST WebBookから抽出されています。AIによって予測されたイオン化エネルギーと最小出現エネルギーの平均相対誤差はそれぞれ6.87%と7.99%、予測イオン質量の相対誤差は23.89%です。電子イオン化による全質量スペクトルの場合、予測値のコサイン類似度は0.6395で、30 Daの範囲内で78%の事例で最も類似した上位10個の質量スペクトルと一致します。 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
       <guid isPermaLink="true">http://arxiv.org/abs/2509.26567v1</guid>
       <pubDate>Tue, 30 Sep 2025 17:31:41 +0000</pubDate>
     </item>
