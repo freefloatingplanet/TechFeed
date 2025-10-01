@@ -7,68 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Sep 2025 13:16:21 +0000</lastBuildDate>
-    <item>
-      <title>分散型マルチロボットポリシーのカリキュラム模倣学習</title>
-      <link>http://arxiv.org/abs/2509.25097v1</link>
-      <description>マルチロボットシステム（MRS）の制御方策の学習は、長期的な協調と現実的な訓練データの取得の難しさのために、依然として大きな課題となっています。本研究では、模倣学習の枠組みの中でこれらの限界に対処します。まず、MRSにおけるカリキュラム学習の典型的な役割を、ロボットの数に応じたスケーラビリティから、長期的な協調の改善に重点を置くものへと転換します。訓練中に熟練者の軌跡の長さを徐々に増やすことで、学習を安定化し、長期的な行動の精度を向上させるカリキュラム戦略を提案します。次に、三人称視点の全体的状態デモンストレーションのみを用いて、各ロボットの自己中心的な知覚を近似する方法を導入します。このアプローチは、近傍をフィルタリングし、参照フレームを変換し、搭載センサーの変動をシミュレートすることにより、理想化された軌跡を局所的に利用可能な観測値に変換します。これらの両方の貢献は、観測値からスケーラブルな分散方策を生成するための物理学に基づいた手法に統合されています。我々は、チーム規模とノイズレベルを変化させながら、2つのタスクで実験を行った。
-結果は、我々のカリキュラムが長期的な精度を向上させ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.25097v1</guid>
-      <pubDate>Mon, 29 Sep 2025 17:31:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Oct 2025 01:23:19 +0000</lastBuildDate>
     <item>
       <title>大規模推論モデルにおけるエントロピー正則化の再考</title>
       <link>http://arxiv.org/abs/2509.25133v1</link>
       <description>検証可能な報酬を伴う強化学習（RLVR）は、大規模推論モデル（LRM）の推論能力の向上に大きな期待が寄せられています。しかし、RLVRにはエントロピー崩壊と早期収束という重大な問題があります。従来の強化学習文献において探索を促進するための一般的なアプローチであるナイーブエントロピー正則化は、LRMの文脈においてこの問題に対処できません。私たちの分析により、この失敗は、LRMの広大な行動空間と長い軌跡に起因していることが明らかになりました。LRMは、すべての可能な行動と状態を無差別に探索するため、グローバルエントロピー爆発を容易に引き起こします。この問題に対処するために、私たちはSIREN（Selective entRopy rEgularizatioN）を提案します。これは、探索を意味のある行動と状態のサブセットに限定する手法です。SIRENは、トップエントロピーマスクとピークエントロピーマスクからなる2段階のエントロピーマスキングメカニズムによってこれを実現します。さらに、正則化は自己アンカー形式に変換され、学習を安定化します。5つの数学的ベンチマークにおいて、SIRENは従来のエン (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
       <guid isPermaLink="true">http://arxiv.org/abs/2509.25133v1</guid>
       <pubDate>Mon, 29 Sep 2025 17:49:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>データ駆動型最適電力フロー：行動システムアプローチ</title>
-      <link>http://arxiv.org/abs/2509.25120v1</link>
-      <description>多数の再生可能エネルギー源によって駆動される電力システムの分散化が進むにつれ、電力潮流最適化に課題が生じています。送電線の特性が部分的にしか不明な場合、モデルベースのアプローチは不適切となる可能性があります。センサーの導入が進むにつれて、データ駆動型手法が有望な代替手段として浮上しています。データ駆動型手法は、変化する系統構造や未知の線路特性に適応する柔軟性を提供します。本論文では、ウィレムスの基本補題に基づき、放射状系統の非線形電力潮流方程式の新しいデータ駆動型表現を提案します。このアプローチにより、入出力データを電力潮流最適化に直接統合できるため、系統の電気的特性やトポロジーに関する明示的な知識を必要とせずに、コスト最小化と制約条件の適用が可能になります。さらに、最先端のソルバーとの互換性を確保するために、凸緩和を定式化します。数値ケーススタディでは、この新しいアプローチが、明示的なシステム同定ステップを必要とせずに、最先端の手法と同等の性能を発揮することを実証しました。 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.25120v1</guid>
-      <pubDate>Mon, 29 Sep 2025 17:43:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>$\mathbf{Li_2}$：特徴の出現と遅延汎化のダイナミクスに関するフレームワーク
-</title>
-      <link>http://arxiv.org/abs/2509.21519v2</link>
-      <description>グロッキング現象、すなわち遅延汎化は広く研究されてきましたが、複雑な構造を持つ入力に対して、学習によってどのような特徴が出現するか、どのように、どのような条件で出現するかを特徴付ける数学的枠組みが存在するかどうかは未解決の問題です。本研究では、2層非線形ネットワークのグロッキング挙動における3つの主要な段階、すなわち(I) \underline{\textbf{L}}遅延学習、(II) \underline{\textbf{i}}独立特徴学習、(III) \underline{\textbf{i}}対話型特徴学習を捉える、$\mathbf{Li_2}$という新しい枠組みを提案します。
-遅延学習段階では、最上層がランダムな隠れ表現に過剰適合し、モデルが記憶しているように見えます。遅延学習と重み減衰のおかげで、最上層からの\emph{逆伝播勾配} $G_F$ は、ターゲットラベルに関する情報を持ち、各隠れノードが\emph{独立に}表現を学習できる特別な構造を持つようになりました。興味深いことに、
-この独立したダイナミクスはエネルギー関数 $E$ の\emph{勾配上昇} と正確に一致し、 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.21519v2</guid>
-      <pubDate>Thu, 25 Sep 2025 20:08:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>階層的タスク環境：身体性世界モデルの新たなフロンティア
-ロボットサッカーにおけるモデル</title>
-      <link>http://arxiv.org/abs/2509.04731v2</link>
-      <description>エージェント開発における近年の進歩は、大規模言語モデルにおける成功を反映し、モデルサイズと生のインタラクションデータのスケーリングに重点を置いています。
-しかしながら、ロボットサッカーのような複雑で長期的なマルチエージェントタスクでは、このエンドツーエンドのアプローチは、扱いにくい探索空間とスパースな報酬のために失敗することがよくあります。本ポジションペーパーでは、具現化世界モデル開発における次のフロンティアは、環境の忠実度やサイズを単に増大させるだけでなく、明示的な階層的足場を通じて構造的複雑さをスケーリングすることであると主張します。意思決定のための効果的な世界モデルは、世界の物理特性だけでなく、タスクの意味論もモデル化する必要があると考えています。低リソースマルチエージェントサッカーにおける2024年の研究の体系的レビューに基づき、階層的タスクネットワーク（HTN）やベイズ戦略ネットワーク（BSN）などの記号的・階層的手法をマルチエージェント強化学習（MARL）と統合する明確な傾向を確認した。これらの手法は、複雑な目標を管理可能なサブ目標に分解し、エージェントの学習を形作る固有の (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.04731v2</guid>
-      <pubDate>Fri, 05 Sep 2025 01:03:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>予測の物理的基盤：神経オルガノイドにおける世界モデルの形成
-LLM生成カリキュラムによる</title>
-      <link>http://arxiv.org/abs/2509.04633v2</link>
-      <description>身体化されたエージェントが環境を理解し、予測し、相互作用する能力は、根本的に内部世界モデルに依存しています。本論文では、生物学的基質であるヒト神経オルガノイド内におけるそのような世界モデルの形成と適応を調査するための新たな枠組みを紹介します。これらの生物学的エージェントを訓練し、長期増強（LTP）や長期抑制（LTD）といった学習の根底にあるシナプス機構を解明するために設計された、3つのスケーラブルな閉ループ型仮想環境のカリキュラムを提示します。意思決定を成功させるためには、段階的に洗練された世界モデルが必要となる3つの異なるタスク環境の設計を詳細に示します。(1)静的な状態行動の随伴性を学習するための条件付き回避タスク、(2)目標指向的相互作用のための1次元の捕食者-被食者シナリオ、(3)動的な連続時間システムをモデル化するための古典的なポンゲームの複製です。各環境について、状態空間と行動空間、感覚符号化と運動復号化のメカニズム、そして予測可能な（報酬）刺激と予測不可能な（罰）刺激に基づくフィードバックプロトコルを形式化し、モデルの改良を推進します。
-重要な方法論的進歩として、大規模言 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.04633v2</guid>
-      <pubDate>Thu, 04 Sep 2025 19:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AgriCruiser：畝間作業用オープンソース農業ロボット
-ナビゲーション</title>
-      <link>http://arxiv.org/abs/2509.25056v1</link>
-      <description>オープンソースの条上作業型農業ロボット「AgriCruiser」をご紹介します。
-多様な作物や畝間レイアウトへの低コストでの導入と迅速な適応を目的として開発されました。
-シャーシは、1.42 m～1.57 mの調整可能なトレッド幅と0.94 mの地上高を備えています。
-AgriCruiserは、半径0.71 m～0.79 mのコンパクトなピボットターンを実現し、効率的な枕地移動を可能にします。
-このプラットフォームは他のサブシステムとの統合を目的として設計されており、本研究では、精密散布システムを実装し、雑草管理におけるその有効性を評価しました。12の亜麻圃場で、1回のロボット散布により、4つの亜麻圃場での手作業による除草と比較して、雑草（アカザとベニスアオイ）の総個体数が24～42分の1に減少し、作物への被害も軽減されました。コンクリート、アスファルト、砂利、芝生、そして湿った土壌と乾いた土壌の両方で実施された移動実験により、トルクサイジングと一致する信頼性の高い移動が確認されました。シャーシ全体は、汎用的なTスロット押し出し材から最小限の機械加工で製造できるため、部品コストは約5, (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.25056v1</guid>
-      <pubDate>Mon, 29 Sep 2025 17:06:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
