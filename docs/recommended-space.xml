@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Oct 2025 01:13:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 12:33:14 +0000</lastBuildDate>
     <item>
       <title>「Toyota Woven City」の「Inventors」としてインターステラテクノロジズが宇宙企業として初参画、5社・団体との打上げ契約も発表【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/42187/</link>
@@ -58,6 +58,13 @@
       <pubDate>Tue, 23 Sep 2025 23:00:06 +0000</pubDate>
     </item>
     <item>
+      <title>衛星大手の米マクサーが社名変更–ヴァンターとランテリスに</title>
+      <link>https://uchubiz.com/article/new66340/</link>
+      <description>地球観測衛星を運用して衛星画像を提供する米Maxar Intelligence（マクサー・インテリジェンス）と衛星を設計、製造する米Maxar Space Systems（マクサー・スペース・システムズ）は米国時間10 […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new66340/</guid>
+      <pubDate>Thu, 02 Oct 2025 06:34:01 +0000</pubDate>
+    </item>
+    <item>
       <title>スペースプレーン「ドリームチェイサー」、NASAとの契約変更–ISSへの物資補給以外にも活用</title>
       <link>https://uchubiz.com/article/new66198/</link>
       <description>米航空宇宙局（NASA）は米国時間9月25日、米Sierra Space（シエラ・スペース）の無人補給船「Dream Chaser」（ドリームチェイサー）との契約を変更すると発表した。 　Dream Chaserは、か […] (source: Uchubiz)</description>
@@ -70,13 +77,6 @@
       <description>NASA＝アメリカ航空宇宙局とアメリカ企業Sierra Space（シエラ・スペース）は2025年9月25日付で、Sierra Spaceが開発中のスペースプレーン（宇宙往還機）「Dream Chaser（ドリームチェイ… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20250930-dream-chaser.html</guid>
       <pubDate>Tue, 30 Sep 2025 11:14:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>アルテミス2号、2026年2月5日に打ち上げへ–宇宙船「インテグリティ」で50年ぶりの有人月飛行</title>
-      <link>https://uchubiz.com/article/new66131/</link>
-      <description>米航空宇宙局（NASA）は、2026年2月5日以降に有人月周回ミッション「Artemis II」（アルテミス2号）を打ち上げる。打ち上げを前に、4人の宇宙飛行士が意気込みを語った。 　Artemis IIは「Space […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new66131/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:50:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
