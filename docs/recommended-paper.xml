@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Oct 2025 13:17:13 +0000</lastBuildDate>
-    <item>
-      <title>再帰的自己集約が大規模言語モデルにおける深い思考を解き放つ</title>
-      <link>http://arxiv.org/abs/2509.26626v1</link>
-      <description>テスト時間スケーリング手法は、推論中に予測を行うための計算量を増やすことで、大規模言語モデル（LLM）の能力を向上させます。推論時間の計算は、複数の独立した解の中から選択することで並列的にスケーリングすることも、自己改良を通じて順次的にスケーリングすることもできます。本研究では、並列スケーリングと順次スケーリングの両方の利点を組み合わせた、進化的手法に着想を得たテスト時間スケーリング手法である再帰自己集約（RSA）を提案します。RSAの各ステップでは、サブセットの集約を通じて候補推論チェーンの集団を改良し、改善された解の集団を生成します。これらの改善された解は、次の反復の候補プールとして使用されます。RSAは、最終的な答えだけでなく、推論チェーンに埋め込まれた豊富な情報を活用し、異なる思考チェーン内の部分的に正しい中間ステップからのブートストラッピングを可能にします。経験的に、RSAは、多様なタスク、モデルファミリ、およびサイズにわたって、計算予算の増加に伴い大幅なパフォーマンス向上をもたらします。特筆すべきは、RSAにより、Qwen3-4B-Instruct-2507は、DeepSe (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.26626v1</guid>
-      <pubDate>Tue, 30 Sep 2025 17:58:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Oct 2025 01:13:45 +0000</lastBuildDate>
     <item>
       <title>神経作動性胸部大動脈瘤の診断における局所拡張と伸展性の重要性</title>
       <link>http://arxiv.org/abs/2509.26576v1</link>
@@ -51,9 +44,9 @@
     </item>
     <item>
       <title>個人を超えて：SHOTデータセットによるグループ意図予測の導入</title>
-      <link>http://arxiv.org/abs/2509.20715v2</link>
+      <link>http://arxiv.org/abs/2509.20715v3</link>
       <description>意図認識は従来、個人の意図に焦点が当てられており、集団における集団意図の複雑さが見過ごされてきました。この限界に対処するため、本研究では、複数の個人の行動を通じて形成される共通の目標を表す集団意図の概念と、集団意図予測（GIF）を導入します。これは、集団目標が明らかになる前に個人の行動や相互作用を分析することで、集団意図がいつ発生するかを予測する新しいタスクです。GIFを特定のシナリオで調査するために、5つのカメラビューから撮影され、6種類の個人属性が付与された1,979本のバスケットボールビデオクリップで構成される、GIFの最初の大規模データセットであるSHOTを提案します。SHOTは、複数個人の情報、複数ビューへの適応性、および複数レベルの意図という3つの主要な特性を備えて設計されており、集団意図の出現を研究するのに適しています。さらに、GIFT（Group Intention ForecasTer）を紹介します。これは、個人のきめ細かな特徴を抽出し、進化するグループダイナミクスをモデル化して、意図の出現を予測するフレームワークです。実験結果は、SHOTとGIFTの有効性を確認し、 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.20715v2</guid>
+      <guid isPermaLink="true">http://arxiv.org/abs/2509.20715v3</guid>
       <pubDate>Thu, 25 Sep 2025 03:28:01 +0000</pubDate>
     </item>
     <item>

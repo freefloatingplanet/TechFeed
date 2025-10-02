@@ -7,27 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Oct 2025 13:17:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 01:13:35 +0000</lastBuildDate>
     <item>
-      <title>【海外記事紹介】AIコーディングはなぜ辛いのか — 「テックリードのジレンマ」に学ぶ</title>
-      <link>https://techfeed.io/entries/68db04786dc4595f7fbb2624?from=rss</link>
-      <description>9月29日、Chris Loy氏が「The AI coding trap」と題したブログ記事を公開し、話題を呼んでいる。この記事では、AIエージェントが「コードを書く速さ」を劇的に上げる一方で、実際の「動くソフトウェアの提供」をむしろ難しくし得るという“AIコーディングの罠”と、その回避策について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68db04786dc4595f7fbb2624?from=rss</guid>
-      <pubDate>Mon, 29 Sep 2025 22:13:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>t-wadaさんに聞く！『SQLアンチパターン第2版』 全27章まとめて紹介 - Findy Media</title>
-      <link>https://findy-code.io/media/articles/event-sql-antipatterns-250728</link>
-      <description>本記事では、2025年7月28日に開催され、約1,500名が申し込んだイベント「t-wadaさんに聞く！SQLアンチパターン第2版 - 全27章まとめて紹介！」の内容をお届けします。イベントでは、書籍『SQLアンチパターン 第2版 ―データベースプログラミングで陥りがちな失敗とその対策』の出版を記念して、監訳者であるt-wada（和田... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://findy-code.io/media/articles/event-sql-antipatterns-250728</guid>
-      <pubDate>Tue, 30 Sep 2025 23:32:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>JavaScriptの「いま」を探る年次調査、「State of JavaScript 2025」が回答受付開始 ― あなたも参加して、いまのJSを可視化しよう</title>
-      <link>https://techfeed.io/entries/68dc4bbd18f89a7761e16782?from=rss</link>
-      <description>フロントエンドの大波が一段落し、次の主戦場はメタフレームワークとビルドツールへ。そんな“いま”を数字で捉える年次調査「State of JavaScript 2025」が本日10/1から回答受付を開始した。今年はAstroとNext.jsのせめぎ合い、Viteとwebpackの世代交代、そしてRust発ツールの台頭といった論点を、実データで描き出す好機である。あなたの1票が、開発者の技術選定やブラウザベンダーの投資判断に直結する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68dc4bbd18f89a7761e16782?from=rss</guid>
-      <pubDate>Tue, 30 Sep 2025 21:29:33 +0000</pubDate>
+      <title>【GitHub】学生申請をして無料でGitHub Copilotを使う in 2025</title>
+      <link>https://qiita.com/hokutoh/items/aff66a6d1173efb0419f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>こちらのページで解説頂いていたのですが
+https://qiita.com/SNQ-2001/items/796dc5e794ac3f57a945
+2025年現在だとリンクや申請方法だいぶ変わっていたので、2025年版として記載します。
+
+準備が必要なもの
+
+学校のメールア... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/hokutoh/items/aff66a6d1173efb0419f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 01 Oct 2025 12:25:45 +0000</pubDate>
     </item>
     <item>
       <title>Agentの動作を評価するADKのEvaluateについて</title>
@@ -39,11 +31,27 @@ Agent Development Kit（以下、ADK）では、手軽にAgentを作成するこ
       <pubDate>Tue, 30 Sep 2025 01:05:37 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】LLM時代のサーバーサイド新常識？Acceptヘッダをちゃんと見て、HTMLの代わりにマークダウンを返そう</title>
-      <link>https://techfeed.io/entries/68db014618f89a7761e101a9?from=rss</link>
-      <description>9月28日、Nicholas Khami氏が「Use the Accept Header to serve Markdown instead of HTML to LLMs」と題したブログ記事を公開し、話題を呼んでいる。この記事では、WebサイトがLLM（大規模言語モデル）のクローラーに対してHTMLではなくMarkdownを返す仕組みを導入する方法と、その効果について詳しく紹介されている。とりわけ重要なのは、Markdownを返すことでトークン消費を約10分の1に削減できるという点である。これはコスト削減だけでなく、クローラーがより多くのページを処理しやすくなるため、AI経由での露出増加にも直結する。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68db014618f89a7761e101a9?from=rss</guid>
-      <pubDate>Mon, 29 Sep 2025 21:59:33 +0000</pubDate>
+      <title>マイクロサービス間通信の複雑化にどう立ち向かうか ── ZOZOTOWNが実践したレイヤ構成による統制 - ZOZO TECH BLOG</title>
+      <link>https://techblog.zozo.com/entry/zozotown-microservice-layer-guideline</link>
+      <description>はじめに こんにちは、ECプラットフォーム部マイクロサービス戦略ブロックの半澤です。普段はアーキテクト領域のテックリードとして、ZOZOTOWNリプレイスにおける全体的な課題解決に注力しています。 今回は、複雑化したZOZOTOWNのマイクロサービス間通信を整理するため、レイヤ構成を定義し、ガイドライン化した取り組... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://techblog.zozo.com/entry/zozotown-microservice-layer-guideline</guid>
+      <pubDate>Wed, 01 Oct 2025 04:03:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外で話題】依存関係の更新に特化したAIエージェント「fossabot」登場 — 「熟練エンジニアが24時間体制で更新作業を担うイメージ」、まずはTypeScript/JavaScript向けに特化</title>
+      <link>https://techfeed.io/entries/68dd9e4418f89a7761e1ca26?from=rss</link>
+      <description>10月2日、FOSSAが「Announcing fossabot: AI Agent for Strategic Dependency Updates」と題した記事を公開した。この記事では、AIエージェント「fossabot」がソフトウェア依存関係の更新を戦略的に自動化する仕組みと、その背景にある課題について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/68dd9e4418f89a7761e1ca26?from=rss</guid>
+      <pubDate>Wed, 01 Oct 2025 21:33:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>予測AIモデルの目的設計</title>
+      <link>https://qiita.com/obx_y_ueno/items/85cd827727fadf266060?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+はじめまして、Orbitics株式会社データサイエンス部の上野です。
+機械学習プロジェクトを始めるにあたり、モデルの「予測精度」に目が行きがちですが、その前に最も重要なステップがあります。それが「目的設計」です。本記事では、予測AIモデルの目的設計において押さえ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/obx_y_ueno/items/85cd827727fadf266060?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sun, 28 Sep 2025 23:01:37 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】LLMコード生成は「理解負債（Comprehension Debt）」という時限爆弾を生む、と指摘したブログ記事が話題に</title>
@@ -53,6 +61,21 @@ Agent Development Kit（以下、ADK）では、手軽にAgentを作成するこ
       <pubDate>Tue, 30 Sep 2025 21:06:46 +0000</pubDate>
     </item>
     <item>
+      <title>【保存版】Convex × TanStack Start × Better Auth 認証実装ガイド</title>
+      <link>https://zenn.dev/sc30gsw/articles/bb992544c3e636</link>
+      <description>はじめに
+今回ですが、Convex・TanStack StartにBetter Authを統合させた認証機能の実装をしたので、実装手順・方法を紹介したいと思います。
+また、今回の実装を行ったソースは以下となります。
+https://github.com/sc30gsw/tanstack-convex-better-auth-example
+
+ TL;DR
+
+Convexを使用する場合、認証処理の中核（Better Authの主な機能実装）はConvex側で必要
+TanStack StartではBetter Authの client定義が必要かつConvexのSiteURLを設定する必... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sc30gsw/articles/bb992544c3e636</guid>
+      <pubDate>Wed, 01 Oct 2025 02:44:19 +0000</pubDate>
+    </item>
+    <item>
       <title>全プロセスが一秒止まる不具合、原因はLinuxカーネルにあり？</title>
       <link>https://zenn.dev/turing_motors/articles/a460fe08b54253</link>
       <description>はじめに
@@ -60,16 +83,6 @@ Agent Development Kit（以下、ADK）では、手軽にAgentを作成するこ
 組み込みLinuxの開発を行っていると、カーネルの挙動、周辺デバイスとの組み合わせ等によって、思いがけない不具合に遭遇することが少なくありません。この記事では、実際にシステム開発中に遭遇した再現が難しく、原因の切り分けに時間を要した不具合について紹介していきます。同じように組込みLinuxや自動運転ソフトウェアの開発に携わっ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/a460fe08b54253</guid>
       <pubDate>Tue, 30 Sep 2025 08:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>金融システムで取りこぼしゼロを目指すSQL＋Java設計の考え方</title>
-      <link>https://qiita.com/Katsu8998/items/912ebbdf3f219f561a90?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-金融系システムでは、正確性・確実性・信頼性が最優先です。
-特に、発信・受信データや統合前金融機関情報など、条件が多い場合は「取りこぼしゼロ」を意識した設計が重要です。
-この記事では、PostgresとJavaを例に、SQLとJavaの条件分担による安全な設計パタ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Katsu8998/items/912ebbdf3f219f561a90?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 30 Sep 2025 11:49:39 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Ruby CentralがRubyGemsを「乗っ取り」？騒動に関するファクトチェックも話題に</title>
