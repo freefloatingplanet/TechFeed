@@ -7,11 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Oct 2025 13:05:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 01:13:41 +0000</lastBuildDate>
     <item>
       <title>LLM支援によるサイバー脅威インテリジェンスの脆弱性発見</title>
       <link>http://arxiv.org/abs/2509.23573v2</link>
-      <description>大規模言語モデル（LLM）は、サイバー脅威の急速な悪用に対抗するセキュリティアナリストを支援するために広く利用されており、LLMは脆弱性評価とインシデント対応を支援するサイバー脅威インテリジェンス（CTI）を提供しています。近年の研究では、LLMが脅威分析、脆弱性検出、侵入防御など、幅広いCTIタスクをサポートできることが示されていますが、実際の導入においては依然として大きなパフォーマンスギャップが残っています。本稿では、CTIにおけるLLMの固有の脆弱性を調査し、モデルアーキテクチャではなく、脅威ランドスケープ自体の性質から生じる課題に焦点を当てます。複数のCTIベンチマークと実際の脅威レポートを対象とした大規模な評価を用いて、層別化、自己回帰改良、人間参加型監視を統合し、障害インスタンスを確実に分析する新しい分類手法を紹介します。広範な実験と人間による検証を通じて、LLMがCTIを効果的にサポートする上で制約となる3つの根本的な脆弱性、すなわち偽の相関関係、矛盾する知識、そして制約された一般化を明らかにしました。さらに、将来の研究を促進するために、LLMを活用したより堅牢なCTIシ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <description>大規模言語モデル（LLM）は、サイバー脅威の急速な悪用に対抗するセキュリティアナリストを支援するために広く利用されており、LLMは脆弱性評価とインシデント対応を支援するサイバー脅威インテリジェンス（CTI）を提供しています。近年の研究では、LLMが脅威分析、脆弱性検出、侵入防御など、幅広いCTIタスクをサポートできることが示されていますが、実際の導入においては依然として大きなパフォーマンスギャップが残っています。本稿では、CTIにおけるLLMの固有の脆弱性を調査し、モデルアーキテクチャではなく、脅威ランドスケープ自体の性質から生じる課題に焦点を当てます。複数のCTIベンチマークと実際の脅威レポートを対象とした大規模な評価を用いて、層別化、自己回帰改良、人間参加型監視を統合し、障害インスタンスを確実に分析する新しい分類手法を紹介します。広範な実験と人間による検証を通じて、LLMがCTIを効果的にサポートする上で制約となる3つの根本的な脆弱性（偽の相関、矛盾する知識、制約された一般化）を明らかにしました。さらに、将来の研究を促進するために、LLMを活用したより堅牢なCTIシステムを設計する (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
       <guid isPermaLink="true">http://arxiv.org/abs/2509.23573v2</guid>
       <pubDate>Sun, 28 Sep 2025 02:08:27 +0000</pubDate>
     </item>
