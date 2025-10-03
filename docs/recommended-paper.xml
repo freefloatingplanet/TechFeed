@@ -7,37 +7,68 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Oct 2025 01:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 12:33:46 +0000</lastBuildDate>
     <item>
-      <title>LLM支援によるサイバー脅威インテリジェンスの脆弱性発見</title>
-      <link>http://arxiv.org/abs/2509.23573v2</link>
-      <description>大規模言語モデル（LLM）は、サイバー脅威の急速な悪用に対抗するセキュリティアナリストを支援するために広く利用されており、LLMは脆弱性評価とインシデント対応を支援するサイバー脅威インテリジェンス（CTI）を提供しています。近年の研究では、LLMが脅威分析、脆弱性検出、侵入防御など、幅広いCTIタスクをサポートできることが示されていますが、実際の導入においては依然として大きなパフォーマンスギャップが残っています。本稿では、CTIにおけるLLMの固有の脆弱性を調査し、モデルアーキテクチャではなく、脅威ランドスケープ自体の性質から生じる課題に焦点を当てます。複数のCTIベンチマークと実際の脅威レポートを対象とした大規模な評価を用いて、層別化、自己回帰改良、人間参加型監視を統合し、障害インスタンスを確実に分析する新しい分類手法を紹介します。広範な実験と人間による検証を通じて、LLMがCTIを効果的にサポートする上で制約となる3つの根本的な脆弱性（偽の相関、矛盾する知識、制約された一般化）を明らかにしました。さらに、将来の研究を促進するために、LLMを活用したより堅牢なCTIシステムを設計する (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.23573v2</guid>
-      <pubDate>Sun, 28 Sep 2025 02:08:27 +0000</pubDate>
+      <title>ラプラシアン固有ベクトル勾配法によるロバストな接空間推定
+直交化</title>
+      <link>http://arxiv.org/abs/2510.02308v1</link>
+      <description>データ多様体の接空間の推定は、データ分析における基本的な問題です。標準的な手法である局所主成分分析（LPCA）は、近傍サイズの選択における重要なトレードオフのために、ノイズの多い環境では困難を極めます。最適なサイズを選択するには、データの幾何学的特性とノイズ特性に関する事前知識が必要ですが、多くの場合、それらは入手できません。本論文では、データの大域的構造を用いて局所接空間を推定するスペクトル手法、ラプラシアン固有ベクトル勾配直交化（LEGO）を提案します。LEGOは、局所近傍のみに頼るのではなく、グラフラプラシアンの低周波固有ベクトルの勾配を直交化することで、各データ点における接空間を推定します。本手法の理論的根拠を2つ示します。まず、多様体の管状近傍に対する微分幾何学的解析により、管の低周波ラプラシアン固有関数の勾配は多様体の接線束と密接に一致する一方、多様体に直交する方向に高い勾配を持つ固有関数はスペクトルのより深い位置に存在することが示される。次に、ランダム行列理論解析により、低周波固有ベクトルはサブガウスノイズに対して堅牢であることが示される。包括的な実験を通じて、LEGOは (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.02308v1</guid>
+      <pubDate>Thu, 02 Oct 2025 17:59:45 +0000</pubDate>
     </item>
     <item>
-      <title>ニューラル定理証明：形式検証のための証明の生成と構造化
+      <title>大都市規模の道路網におけるきめ細かな都市交通予測</title>
+      <link>http://arxiv.org/abs/2510.02278v1</link>
+      <description>道路網の交通量予測は、実用上極めて重要な複雑なタスクであり、近年、機械学習コミュニティから大きな注目を集めており、時空間グラフニューラルネットワーク（GNN）が最も人気のあるアプローチとなっています。交通量予測手法を適切に評価するには現実的なデータセットが必要ですが、現在公開されているベンチマークには、道路グラフ構築のための道路接続性に関する情報の欠如、道路特性に関する情報の限界、実世界での応用には不十分な道路セグメント数の相対的な少なさなど、重大な欠点があります。さらに、現在のデータセットには、センサーがまばらに配置された都市間高速道路に関する情報がほとんど含まれていますが、都市の道路網は、道路密度が高く、都市交通パターンがより複雑であるため、予測タスクがより困難であると言えます。本研究では、2つの主要都市の道路網を表すデータセットを公開することにより、交通予測のためのより完全で現実的かつ挑戦的なベンチマークを提供します。最大のデータセットには、約10万の道路区間（既存のデータセットの10倍以上）が含まれます。データセットには豊富な道路特徴が含まれており、交通量と交通速度の両方に関す (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.02278v1</guid>
+      <pubDate>Thu, 02 Oct 2025 17:53:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>影響関数を用いた間接的な文脈内学習の解明</title>
+      <link>http://arxiv.org/abs/2501.01473v3</link>
+      <description>本研究では、一般化インコンテキスト学習（ICL）のための新しいパラダイムである間接インコンテキスト学習（Indirect In-Context Learning）を紹介します。間接ICLでは、2つの異なる実世界シナリオ（タスク混合とノイズICL）に合わせたデモンストレーション選択戦略を検討します。これらの設定における選択ツールとしての影響関数（IF）の有効性を体系的に評価し、デモンストレーションプール内の例の情報価値をより適切に捉えるIFの可能性を明らかにします。タスク混合設定では、MMLU、BigBench、StrategyQA、CommonsenseQAなど、28の多様なタスクからデモンストレーションが抽出されます。 BertScore-Recall (BSR) と IF サロゲートモデルを組み合わせることで、パフォーマンスがさらに向上し、従来の ICL メトリクスと比較して、3 ショットおよび 5 ショット設定で平均絶対精度が 0.37% および 1.45% 向上することを実証します。ノイズの多い ICL 設定では、デモが誤ってラベル付けされているか、敵対的ノイズが含まれている可 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2501.01473v3</guid>
+      <pubDate>Wed, 01 Jan 2025 12:37:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>BioX-Bridge：教師なしクロスモーダル知識のモデルブリッジング
+生体信号間の知識伝達</title>
+      <link>http://arxiv.org/abs/2510.02276v1</link>
+      <description>生体信号は、人体の生理学的状態に関する貴重な知見を提供します。生体信号モダリティは、機能、信号忠実度、センサーの快適性、コストにおいてそれぞれ異なりますが、多くの場合相互に関連しており、人体の生理学的性質の全体的かつ相互に関連した性質を反映しています。これにより、同じタスクを異なる生体信号モダリティを用いて実行できる可能性が開かれ、健康モニタリングシステムのアクセシビリティ、ユーザビリティ、適応性が向上します。しかし、大規模なラベル付きデータセットの入手が限られているため、特定のタスクや関心のあるモダリティに合わせてカスタマイズされたモデルのトレーニングには課題があります。教師なしクロスモダリティ知識移転は、既存のモダリティの知識を活用して新しいモダリティのモデルトレーニングを支援することで、有望なソリューションを提供します。既存の手法は通常、知識蒸留に基づいており、教師モデルと生徒モデルのトレーニングを並行して実行する必要があり、計算とメモリのオーバーヘッドが大きくなります。この課題は、モデルサイズが大きくなることを犠牲にして、タスク間で優れた性能と汎化性を示す基礎モデルの近年の開発 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.02276v1</guid>
+      <pubDate>Thu, 02 Oct 2025 17:51:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>レッドチーム攻撃に対するツリーベースの対話強化ポリシー最適化
 </title>
-      <link>http://arxiv.org/abs/2504.17017v2</link>
-      <description>ソフトウェアコードの特性を形式的に検証することは、特にLLM生成コードの登場以来、非常に望ましいタスクとなっています。同様に、LLMは形式検証とメカニズムの解釈可能性を探求するための興味深い道筋を提供します。コード固有のモデルの導入以来、Lean4やIsabelleでのコード生成には成功しているものの、一般化された定理証明のタスクは依然として完全に解決されるには程遠く、LLMの推論能力のベンチマークとなるでしょう。本研究では、組み込みの戦術と既製の自動定理証明器の力を活用するシステム内で使用できる、形式言語で証明全体を生成するフレームワークを紹介します。このフレームワークは、検証対象コードの自然言語ステートメントを生成するコンポーネント、与えられたステートメントの形式的な証明を生成するLLM、そして最終的な証明を構築するためのヒューリスティックスを用いるモジュールの3つのコンポーネントで構成されています。 LLM のトレーニングには、2 段階の微調整プロセスを採用しています。まず、SFT ベースのトレーニングを使用してモデルが構文的に正しい Isabelle コードを生成できるようにし (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2504.17017v2</guid>
-      <pubDate>Wed, 23 Apr 2025 18:04:38 +0000</pubDate>
+      <link>http://arxiv.org/abs/2510.02286v1</link>
+      <description>AIの安全性は近年急速に進歩しているものの、現在の大規模言語モデルは、マルチターンインタラクション環境において敵対的攻撃に対して依然として脆弱です。攻撃者は会話のターンごとにプロンプトを戦略的に調整するため、より重大かつ現実的な課題となります。安全性の脆弱性を発見する既存のアプローチは、人間の専門家による手動のレッドチーム演習に依存するか、事前定義されたテンプレートと人間が収集した攻撃データを使用した自動化された手法を採用しており、そのほとんどはシングルターン攻撃に焦点を当てています。しかし、これらの手法は、可能性のあるマルチターン攻撃の広大な空間を探索しておらず、複雑な対話ダイナミクスや戦略的な会話計画から生じる新たな攻撃経路を考慮していません。このギャップは、LLMがシングルターン攻撃と比較してマルチターン攻撃に対して著しく高い脆弱性を示すという最近の知見を考えると、特に重要です。我々は、ツリー探索を統合したオンポリシー強化学習フレームワークであるDialTree-RPOを提案する。これは、対話を逐次的な意思決定問題として扱うことで、多様なマルチターン攻撃戦略を自律的に発見し、手動 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.02286v1</guid>
+      <pubDate>Thu, 02 Oct 2025 17:57:05 +0000</pubDate>
     </item>
     <item>
-      <title>ビジョンベースの空間インテリジェントエージェントのためのグラウンデッドGUI理解：
-拡張現実アプリを例に</title>
-      <link>http://arxiv.org/abs/2409.10811v4</link>
-      <description>近年、空間コンピューティング、別名拡張現実（XR）は、多様な仮想環境において没入型でインタラクティブな体験をユーザーに提供する、変革をもたらす技術として登場しています。ユーザーは、立体的な3次元（3D）グラフィカルユーザーインターフェース（GUI）上のインタラクティブなGUI要素（IGE）を介してXRアプリを操作できます。これらのIGEを正確に認識することは非常に重要であり、自動テストや効果的なGUI検索など、多くのソフトウェアエンジニアリングタスクの基盤として機能します。2Dモバイルアプリ向けの最新のIGE検出アプローチでは、通常、ボタンやスピナーなどのクリック可能なGUI要素カテゴリの事前定義されたセットを含む、大規模な手動でラベル付けされたGUIデータセットに基づいて、教師ありオブジェクト検出モデルをトレーニングします。このようなアプローチは、オープンな語彙と多様なIGEカテゴリによる複雑さ、状況に応じたインタラクションの複雑さ、正確なIGE検出結果を得るための正確な空間認識と視覚的・意味的整合の必要性など、多くの課題があるため、XRアプリにおけるIGE検出には適用が困難です。
- (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2409.10811v4</guid>
-      <pubDate>Tue, 17 Sep 2024 00:58:00 +0000</pubDate>
+      <title>単眼ビデオを用いた運動学的評価への道を開く：
+最先端のディープラーニングベースの3D人体姿勢推定器の前臨床ベンチマーク
+日常生活活動における慣性センサーとの比較</title>
+      <link>http://arxiv.org/abs/2510.02264v1</link>
+      <description>機械学習とウェアラブルセンサーの進歩は、専門的な研究室以外でも人間の動きを捉え、分析する新たな機会をもたらしています。
+実世界における人間の動きの正確な評価は、遠隔医療、スポーツ科学、リハビリテーションにとって不可欠です。この前臨床ベンチマークでは、市販のビデオカメラと5台のIMUの両方を用いて撮影された合計13の臨床的に関連する日常活動を含むVIDIMUデータセットを活用し、単眼ビデオベースの3D人間姿勢推定モデルと慣性計測ユニット（IMU）を比較します。この初期研究では、健康な被験者のみが記録されたため、結果を病理学的コホートに一般化することはできません。最先端のディープラーニングフレームワーク（MotionAGFormer、MotionBERT、MMPose 2D-to-3Dポーズリフティング、NVIDIA BodyTrack）から導出された関節角度を、17個のキーポイントを持つHuman3.6Mデータセット形式に準拠したOpenSim逆運動学を用いてIMUデータから計算された関節角度と比較評価しました。その結果、MotionAGFormerは優れた性能を示し、全体のRMSE（$ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.02264v1</guid>
+      <pubDate>Thu, 02 Oct 2025 17:44:31 +0000</pubDate>
     </item>
     <item>
-      <title>内部脅威の統合と検知に対する倫理的根拠に基づいた法学修士課程（LLM）ベースのアプローチ</title>
-      <link>http://arxiv.org/abs/2509.06920v2</link>
-      <description>内部脅威は、その技術的および行動的要素の特定が複雑であることから、組織にとってますます深刻な問題となっています。大規模な研究機関が、技術的、心理学的、教育的観点から内部脅威の研究に取り組んでいます。しかし、この分野の研究は一般的に静的でアクセスが制限されたデータセットに依存しており、適応型検出モデルの開発が制限されています。本研究では、大規模言語モデル（LLM）Claude Sonnet 3.7を用いてSyslogメッセージを動的に合成する、倫理的に根拠のある新しいアプローチを紹介します。Syslogメッセージの一部には、内部脅威シナリオの指標が含まれています。メッセージは、非常に不均衡（内部脅威1%）であることから、現実世界のデータ分布を反映しています。SyslogはSonnet 3.7とGPT-4oの両方によって内部脅威の分析が行われ、そのパフォーマンスは、精度、適合率、再現率、F1、特異度、FAR、MCC、ROC AUCなどの統計指標によって評価されました。 Sonnet 3.7は、ほぼすべての指標においてGPT-4oを一貫して上回り、特に誤報の削減と検出精度の向上において顕著で (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.06920v2</guid>
-      <pubDate>Mon, 08 Sep 2025 17:32:17 +0000</pubDate>
+      <title>離散拡散事後サンプリングにおけるテスト時間アンカーリング</title>
+      <link>http://arxiv.org/abs/2510.02291v1</link>
+      <description>我々は、事前学習済みの離散拡散基盤モデルを用いて事後サンプリングの問題を研究し、タスク固有のモデルを再学習することなく、ノイズの多い測定から画像を復元することを目指します。拡散モデルは生成モデリングにおいて目覚ましい成功を収めてきましたが、その進歩のほとんどは連続ガウス拡散に依存しています。一方、離散拡散は、テキストや画像などのカテゴリデータを共同でモデリングするための統一的な枠組みを提供します。統一性に加えて、離散拡散は推論の高速化、よりきめ細かな制御、そして原理的な訓練不要のベイズ推論を提供するため、事後サンプリングに特に適しています。しかし、既存の離散拡散事後サンプリング手法は深刻な課題に直面しています。導関数を使用しないガイダンスはスパースな信号を生み出し、連続緩和は適用範囲を制限し、分割ギブスサンプラーは次元の呪いに悩まされています。これらの制限を克服するために、マスク拡散基盤モデルにアンカー事後サンプリング（APS）を導入します。これは、離散埋め込み空間における勾配誘導のための量子化期待値と、適応復号のためのアンカー再マスクという2つの重要な革新に基づいています。私たちのア (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.02291v1</guid>
+      <pubDate>Thu, 02 Oct 2025 17:58:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diffusion^2: 3D環境を無線周波数ヒートマップに変換する</title>
+      <link>http://arxiv.org/abs/2510.02274v1</link>
+      <description>無線周波数（RF）信号伝搬のモデル化は、環境を理解する上で不可欠です。RF信号は、可視光スペクトル、レンズのカバー範囲、遮蔽物によって制限されるRGBカメラの能力を超えた貴重な洞察を提供するためです。また、無線診断、展開、最適化のサポートにも役立ちます。しかし、吸収や反射などの障害物との相互作用により、複雑な環境におけるRF信号を正確に予測することは依然として困難です。そこで本稿では、3Dポイントクラウドを使用してWi-Fiからミリ波まで幅広い周波数範囲にわたるRF信号の伝搬をモデル化する拡散ベースのアプローチであるDiffusion^2を紹介します。3DデータからRF関連の特徴を効果的に取得するために、3Dジオメトリの複雑さと信号固有の詳細をカプセル化するRF-3Dエンコーダを紹介します。これらの特徴は、実際のRF信号伝播プロセスをシミュレートするために、マルチスケール埋め込みを受けます。合成測定と実測に基づく評価では、Diffusion^2が様々な周波数帯域と環境条件におけるRF信号の挙動を、わずか1.9dBの誤差で、既存の手法の27倍の速度で正確に推定できることが実証されており、 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.02274v1</guid>
+      <pubDate>Thu, 02 Oct 2025 17:50:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
