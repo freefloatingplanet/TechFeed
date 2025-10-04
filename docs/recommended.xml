@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Oct 2025 12:30:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 12:59:32 +0000</lastBuildDate>
     <item>
       <title>コマンド不要！GUIだけで構築するDifyセルフホスト環境 on OCI</title>
       <link>https://qiita.com/yushibats/items/c1e3fddfcb8ec49d5059?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -82,15 +82,6 @@ Hooksによるコールバック設定
       <pubDate>Thu, 02 Oct 2025 14:32:49 +0000</pubDate>
     </item>
     <item>
-      <title>全プロセスが一秒止まる不具合、原因はLinuxカーネルにあり？</title>
-      <link>https://zenn.dev/turing_motors/articles/a460fe08b54253</link>
-      <description>はじめに
-完全自動運転の実現を目指すスタートアップ「チューリング」でエンジニアをしています、坂本です。私が所属しているDrivingSystemチームでは、組み込みLinuxをベースに、自動運転システムと、自動運転モデル学習用データ収集システムを開発しています。
-組み込みLinuxの開発を行っていると、カーネルの挙動、周辺デバイスとの組み合わせ等によって、思いがけない不具合に遭遇することが少なくありません。この記事では、実際にシステム開発中に遭遇した再現が難しく、原因の切り分けに時間を要した不具合について紹介していきます。同じように組込みLinuxや自動運転ソフトウェアの開発に携わっ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/a460fe08b54253</guid>
-      <pubDate>Tue, 30 Sep 2025 08:00:02 +0000</pubDate>
-    </item>
-    <item>
       <title>【初心者歓迎】C#だけでWebゲームを1時間で作る javascriptやAJAX不要！Blazorの凄さを体験する</title>
       <link>https://qiita.com/masayahak/items/0e6c82497ad63c856e3f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
@@ -106,6 +97,22 @@ Webアプリを作ったことはあるけど Blazorは触ったことがない
 JavaScriptやAJ... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/masayahak/items/0e6c82497ad63c856e3f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Wed, 01 Oct 2025 22:59:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>v0 にデザインシステムを与えて、統一感あるデザインに仕上げよう！</title>
+      <link>https://zenn.dev/chot/articles/d5ffeb6de3e7c2</link>
+      <description>ちょっと株式会社の KindBurger です！
+本記事では、プロンプトだけでは表現しきれないデザイン原則を、デザインシステムを「コンテキスト」として与えることでどう改善できるのかを紹介します。
+また、v0 にはサンプルのデザインシステムも用意されており、すぐに試すことができます 🎉
+これを利用すれば、次のように一貫性のあるデザインが整ったサイトを簡単に生成できます。
+
+
+ v0 とは
+ざっくりいうと 「アイデアを素早くかたちにできる」 生成 AI ツールです。
+自然言語のプロンプトや画像、Figma ファイルなどから、
+React / Next.js / Tailwind CSS / ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chot/articles/d5ffeb6de3e7c2</guid>
+      <pubDate>Fri, 03 Oct 2025 06:00:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
