@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Oct 2025 11:44:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 12:30:22 +0000</lastBuildDate>
     <item>
       <title>コマンド不要！GUIだけで構築するDifyセルフホスト環境 on OCI</title>
       <link>https://qiita.com/yushibats/items/c1e3fddfcb8ec49d5059?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -18,18 +18,11 @@ AIエージェントやRAGアプリケーションの開発をローコードで
       <pubDate>Wed, 01 Oct 2025 23:25:33 +0000</pubDate>
     </item>
     <item>
-      <title>ターミナル派待望の GitHub Copilot CLI 使い方まとめ</title>
-      <link>https://zenn.dev/10q89s/articles/4a42fb779fde89</link>
-      <description>こんにちは、URBAN HACKS サーバーサイドエンジニアの池田です。
-2025/9/25に GitHub Copilot CLI が public preview 版で登場しました！
-業務で GitHub Copilot をメインに使っている私にとっては待望の CLI です！
-https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/
-なお、GitHub Copilot CLI は以下の有料プランで利用可能です。
-
-GitHub Copilot Pro
-GitHub Cop... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/10q89s/articles/4a42fb779fde89</guid>
-      <pubDate>Thu, 02 Oct 2025 23:00:02 +0000</pubDate>
+      <title>本屋さんを開催する技術（Kaigi on Rails 2025）</title>
+      <link>https://zenn.dev/ko1/articles/69d8db0227b40a</link>
+      <description>189冊入れて142冊も売れました。初回は65冊入れて65冊売ったので、2.2倍くらい売ってる！　凄い！　最初はおっかなびっくりでしたね。 準備 今回は、先ほど述べた通り、Kaigi on Rails 2025 運営の皆様から「やらん？」とお誘いいただきまして、開催の運びとなりました。前回は色々仕入れに制限がありましたが、今回はナ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/ko1/articles/69d8db0227b40a</guid>
+      <pubDate>Sat, 04 Oct 2025 09:47:22 +0000</pubDate>
     </item>
     <item>
       <title>メール設計ガイドラインを公開しました | フューチャー技術ブログ</title>
