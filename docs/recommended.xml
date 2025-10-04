@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Oct 2025 13:04:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 01:10:59 +0000</lastBuildDate>
     <item>
       <title>uvxで誰でも使えるPython自作ツールを手軽に公開する方法</title>
       <link>https://zenn.dev/karaage0703/articles/3ce79805245fef</link>
@@ -18,6 +18,13 @@ https://zenn.dev/karaage0703/articles/029b45ff78bc57
 uvxはuv tool runのエイリアスです。uv to... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/karaage0703/articles/3ce79805245fef</guid>
       <pubDate>Wed, 01 Oct 2025 14:39:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>無料でページのレイアウトをキレイに維持したまま日本語に自動翻訳できるChrome・Firefox用の拡張「PLaMo Translate」レビュー</title>
+      <link>https://gigazine.net/news/20251003-plamo-translate/</link>
+      <description>外国語のページを見る際に、読み取りたい部分を毎回コピー＆ペーストして翻訳するよりも、ページ全体をブラウザの機能や拡張機能で翻訳できる方が便利です。しかし、ページ全体を翻訳する拡張機能には、精度が高くないものや、翻訳した結果ページのレイアウトが崩れてしまうものもあります。Chrome・Firefox用のブラウザ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20251003-plamo-translate/</guid>
+      <pubDate>Fri, 03 Oct 2025 11:11:20 +0000</pubDate>
     </item>
     <item>
       <title>AWS製AIエージェントOSS Strands Agentsの主要機能ハンズオン</title>
@@ -57,14 +64,6 @@ Hooksによるコールバック設定
 組み込みLinuxの開発を行っていると、カーネルの挙動、周辺デバイスとの組み合わせ等によって、思いがけない不具合に遭遇することが少なくありません。この記事では、実際にシステム開発中に遭遇した再現が難しく、原因の切り分けに時間を要した不具合について紹介していきます。同じように組込みLinuxや自動運転ソフトウェアの開発に携わっ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/a460fe08b54253</guid>
       <pubDate>Tue, 30 Sep 2025 08:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【解説】ecspressoはなぜ必要？Terraformと併用するECSデプロイ戦略</title>
-      <link>https://qiita.com/N700A/items/99a802307e0184d48e32?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-私は普段バックエンドエンジニアとして活動しています。Terraformとecspressoを活用しているプロジェクトが多いのですが、両者の役割分担は、一見すると分かりにくいです。この記事では、Terraformとecspressoを使ったサンプルプロジェクトを作... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/N700A/items/99a802307e0184d48e32?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 30 Sep 2025 08:15:35 +0000</pubDate>
     </item>
     <item>
       <title>【初心者歓迎】C#だけでWebゲームを1時間で作る javascriptやAJAX不要！Blazorの凄さを体験する</title>
