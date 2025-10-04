@@ -7,55 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Oct 2025 01:11:09 +0000</lastBuildDate>
-    <item>
-      <title>ラプラシアン固有ベクトル勾配法によるロバストな接空間推定
-直交化</title>
-      <link>http://arxiv.org/abs/2510.02308v1</link>
-      <description>データ多様体の接空間の推定は、データ分析における基本的な問題です。標準的な手法である局所主成分分析（LPCA）は、近傍サイズの選択における重要なトレードオフのために、ノイズの多い環境では困難を極めます。最適なサイズを選択するには、データの幾何学的特性とノイズ特性に関する事前知識が必要ですが、多くの場合、それらは入手できません。本論文では、データの大域的構造を用いて局所接空間を推定するスペクトル手法、ラプラシアン固有ベクトル勾配直交化（LEGO）を提案します。LEGOは、局所近傍のみに頼るのではなく、グラフラプラシアンの低周波固有ベクトルの勾配を直交化することで、各データ点における接空間を推定します。本手法の理論的根拠を2つ示します。まず、多様体の管状近傍に対する微分幾何学的解析により、管の低周波ラプラシアン固有関数の勾配は多様体の接線束と密接に一致する一方、多様体に直交する方向に高い勾配を持つ固有関数はスペクトルのより深い位置に存在することが示される。次に、ランダム行列理論解析により、低周波固有ベクトルはサブガウスノイズに対して堅牢であることが示される。包括的な実験を通じて、LEGOは (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.02308v1</guid>
-      <pubDate>Thu, 02 Oct 2025 17:59:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>大都市規模の道路網におけるきめ細かな都市交通予測</title>
-      <link>http://arxiv.org/abs/2510.02278v1</link>
-      <description>道路網の交通量予測は、実用上極めて重要な複雑なタスクであり、近年、機械学習コミュニティから大きな注目を集めており、時空間グラフニューラルネットワーク（GNN）が最も人気のあるアプローチとなっています。交通量予測手法を適切に評価するには現実的なデータセットが必要ですが、現在公開されているベンチマークには、道路グラフ構築のための道路接続性に関する情報の欠如、道路特性に関する情報の限界、実世界での応用には不十分な道路セグメント数の相対的な少なさなど、重大な欠点があります。さらに、現在のデータセットには、センサーがまばらに配置された都市間高速道路に関する情報がほとんど含まれていますが、都市の道路網は、道路密度が高く、都市交通パターンがより複雑であるため、予測タスクがより困難であると言えます。本研究では、2つの主要都市の道路網を表すデータセットを公開することにより、交通予測のためのより完全で現実的かつ挑戦的なベンチマークを提供します。最大のデータセットには、約10万の道路区間（既存のデータセットの10倍以上）が含まれます。データセットには豊富な道路特徴が含まれており、交通量と交通速度の両方に関す (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.02278v1</guid>
-      <pubDate>Thu, 02 Oct 2025 17:53:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>影響関数を用いた間接的な文脈内学習の解明</title>
-      <link>http://arxiv.org/abs/2501.01473v3</link>
-      <description>本研究では、一般化インコンテキスト学習（ICL）のための新しいパラダイムである間接インコンテキスト学習（Indirect In-Context Learning）を紹介します。間接ICLでは、2つの異なる実世界シナリオ（タスク混合とノイズICL）に合わせたデモンストレーション選択戦略を検討します。これらの設定における選択ツールとしての影響関数（IF）の有効性を体系的に評価し、デモンストレーションプール内の例の情報価値をより適切に捉えるIFの可能性を明らかにします。タスク混合設定では、MMLU、BigBench、StrategyQA、CommonsenseQAなど、28の多様なタスクからデモンストレーションが抽出されます。 BertScore-Recall (BSR) と IF サロゲートモデルを組み合わせることで、パフォーマンスがさらに向上し、従来の ICL メトリクスと比較して、3 ショットおよび 5 ショット設定で平均絶対精度が 0.37% および 1.45% 向上することを実証します。ノイズの多い ICL 設定では、デモが誤ってラベル付けされているか、敵対的ノイズが含まれている可 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2501.01473v3</guid>
-      <pubDate>Wed, 01 Jan 2025 12:37:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>BioX-Bridge：教師なしクロスモーダル知識のモデルブリッジング
-生体信号間の知識伝達</title>
-      <link>http://arxiv.org/abs/2510.02276v1</link>
-      <description>生体信号は、人体の生理学的状態に関する貴重な知見を提供します。生体信号モダリティは、機能、信号忠実度、センサーの快適性、コストにおいてそれぞれ異なりますが、多くの場合相互に関連しており、人体の生理学的性質の全体的かつ相互に関連した性質を反映しています。これにより、同じタスクを異なる生体信号モダリティを用いて実行できる可能性が開かれ、健康モニタリングシステムのアクセシビリティ、ユーザビリティ、適応性が向上します。しかし、大規模なラベル付きデータセットの入手が限られているため、特定のタスクや関心のあるモダリティに合わせてカスタマイズされたモデルのトレーニングには課題があります。教師なしクロスモダリティ知識移転は、既存のモダリティの知識を活用して新しいモダリティのモデルトレーニングを支援することで、有望なソリューションを提供します。既存の手法は通常、知識蒸留に基づいており、教師モデルと生徒モデルのトレーニングを並行して実行する必要があり、計算とメモリのオーバーヘッドが大きくなります。この課題は、モデルサイズが大きくなることを犠牲にして、タスク間で優れた性能と汎化性を示す基礎モデルの近年の開発 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.02276v1</guid>
-      <pubDate>Thu, 02 Oct 2025 17:51:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>レッドチーム攻撃に対するツリーベースの対話強化ポリシー最適化
-</title>
-      <link>http://arxiv.org/abs/2510.02286v1</link>
-      <description>AIの安全性は近年急速に進歩しているものの、現在の大規模言語モデルは、マルチターンインタラクション環境において敵対的攻撃に対して依然として脆弱です。攻撃者は会話のターンごとにプロンプトを戦略的に調整するため、より重大かつ現実的な課題となります。安全性の脆弱性を発見する既存のアプローチは、人間の専門家による手動のレッドチーム演習に依存するか、事前定義されたテンプレートと人間が収集した攻撃データを使用した自動化された手法を採用しており、そのほとんどはシングルターン攻撃に焦点を当てています。しかし、これらの手法は、可能性のあるマルチターン攻撃の広大な空間を探索しておらず、複雑な対話ダイナミクスや戦略的な会話計画から生じる新たな攻撃経路を考慮していません。このギャップは、LLMがシングルターン攻撃と比較してマルチターン攻撃に対して著しく高い脆弱性を示すという最近の知見を考えると、特に重要です。我々は、ツリー探索を統合したオンポリシー強化学習フレームワークであるDialTree-RPOを提案する。これは、対話を逐次的な意思決定問題として扱うことで、多様なマルチターン攻撃戦略を自律的に発見し、手動 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.02286v1</guid>
-      <pubDate>Thu, 02 Oct 2025 17:57:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>単眼ビデオを用いた運動学的評価への道を開く：
-最先端のディープラーニングベースの3D人体姿勢推定器の前臨床ベンチマーク
-日常生活活動における慣性センサーとの比較</title>
-      <link>http://arxiv.org/abs/2510.02264v1</link>
-      <description>機械学習とウェアラブルセンサーの進歩は、専門的な研究室以外でも人間の動きを捉え、分析する新たな機会をもたらしています。
-実世界における人間の動きの正確な評価は、遠隔医療、スポーツ科学、リハビリテーションにとって不可欠です。この前臨床ベンチマークでは、市販のビデオカメラと5台のIMUの両方を用いて撮影された合計13の臨床的に関連する日常活動を含むVIDIMUデータセットを活用し、単眼ビデオベースの3D人間姿勢推定モデルと慣性計測ユニット（IMU）を比較します。この初期研究では、健康な被験者のみが記録されたため、結果を病理学的コホートに一般化することはできません。最先端のディープラーニングフレームワーク（MotionAGFormer、MotionBERT、MMPose 2D-to-3Dポーズリフティング、NVIDIA BodyTrack）から導出された関節角度を、17個のキーポイントを持つHuman3.6Mデータセット形式に準拠したOpenSim逆運動学を用いてIMUデータから計算された関節角度と比較評価しました。その結果、MotionAGFormerは優れた性能を示し、全体のRMSE（$ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.02264v1</guid>
-      <pubDate>Thu, 02 Oct 2025 17:44:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Oct 2025 11:44:53 +0000</lastBuildDate>
     <item>
       <title>離散拡散事後サンプリングにおけるテスト時間アンカーリング</title>
       <link>http://arxiv.org/abs/2510.02291v1</link>
