@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Oct 2025 01:21:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 12:30:37 +0000</lastBuildDate>
+    <item>
+      <title>本屋さんを開催する技術（Kaigi on Rails 2025）</title>
+      <link>https://zenn.dev/ko1/articles/69d8db0227b40a</link>
+      <description>技術イベントにおいて趣味で本屋をやっているささだです。
+さて、レポート7回目です（過去の記録はこちらから → @. bookstore | @. bookstore site）。
+今回は Kaigi on Rails 2025 で出店させていただきました。初めて本屋をさせていただいたのが Kaigi on Rails 2024 なので、だいたい1年たったことになります（その時のレポート: 本屋さんを開催する技術）。開催の結構直前に大倉さんに「やっていい？」ってねじ込んだのを昨日のように覚えています。いや、嘘。だいぶうろ覚え。その節はありがとうございました＆今回はご依頼いただきましてあり... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ko1/articles/69d8db0227b40a</guid>
+      <pubDate>Sat, 04 Oct 2025 09:19:47 +0000</pubDate>
+    </item>
     <item>
       <title>日刊IETF (2025-10-03)</title>
       <link>https://qiita.com/tetsuko_room/items/b6f39d73d75e343eda48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -33,29 +42,11 @@ Neovim0.11用のLSP設定
       <pubDate>Sat, 04 Oct 2025 08:40:09 +0000</pubDate>
     </item>
     <item>
-      <title>メール設計ガイドラインを公開しました | フューチャー技術ブログ</title>
-      <link>https://future-architect.github.io/articles/20251003a/</link>
-      <description>はじめにこんにちは。TIG-DXの藤井です。 当社の有志メンバーの協力により、アーキテクチャ設計ガイドラインというものを作成・公開しています。 各分野におけるアーキテクチャ設計の指針となるべく作成されているガイドライン集ですが、この度、新たにメール設計ガイドラインを作成しました。 本記事では、このメール設... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://future-architect.github.io/articles/20251003a/</guid>
-      <pubDate>Fri, 03 Oct 2025 07:30:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ruby on Rails 6から7に上げただけで情報漏洩？Hash→JSON 変換の挙動変更で実際に生まれた脆弱性 - GMO Flatt Security Blog</title>
-      <link>https://blog.flatt.tech/entry/kaigi_on_rails_2025</link>
-      <description>こんにちは、GMO Flatt Security の大崎です。 本記事では、私が作問し弊社の Kaigi on Rails 2025 出展ブースで出題したクイズを解説します。 このクイズは、実際に HackerOne に報告された脆弱性を元ネタとしています。 Ruby on Rails をバージョンアップした際に、Hash を JSON に変換する挙動が変わったことが原因で... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://blog.flatt.tech/entry/kaigi_on_rails_2025</guid>
-      <pubDate>Fri, 03 Oct 2025 11:44:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Skyworkという汎用AIをGPTと対決させてみた。 - 賃貸探しリターンズ</title>
-      <link>https://qiita.com/Necoze/items/19bc94a2c36bc69711da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-どうも、趣味でデータ分析をしている猫背なエンジニアです。
-初コロナを抜け、やっとPCに向かって弱パワーを発揮できるまでに回復しました。
-今回は、記事投稿キャンペーンでSkyworkという生成AIでの開発体験を投稿するイベントが開催されてたので、参加しました。
-最... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Necoze/items/19bc94a2c36bc69711da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 04 Oct 2025 04:28:11 +0000</pubDate>
+      <title>投資で破産しないための数学：ケリー基準を理解する - Qiita</title>
+      <link>https://qiita.com/tikeda123/items/3f4dd42c8f57333deeaf</link>
+      <description>投資で破産しないための数学：ケリー基準を理解する はじめに：なぜ優秀なトレーダーも破産するのか 投資の世界には不思議な現象があります。勝率が55%もある、つまり負けるより勝つ方が多いトレーダーが、なぜか破産してしまうのです。一方で、同じ勝率でも着実に資産を増やし続ける投資家もいます。この違いは何でしょ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://qiita.com/tikeda123/items/3f4dd42c8f57333deeaf</guid>
+      <pubDate>Sun, 05 Oct 2025 05:33:23 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Ruby CentralがRubyGemsを「乗っ取り」？騒動に関するファクトチェックも話題に</title>
@@ -85,21 +76,14 @@ Neovim0.11用のLSP設定
       <pubDate>Fri, 03 Oct 2025 09:30:55 +0000</pubDate>
     </item>
     <item>
-      <title>【初心者歓迎】C#だけでWebゲームを1時間で作る javascriptやAJAX不要！Blazorの凄さを体験する</title>
-      <link>https://qiita.com/masayahak/items/0e6c82497ad63c856e3f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
+      <title>freqAI-LSTM トレーディングモデル徹底解説</title>
+      <link>https://qiita.com/tikeda123/items/1923859e6af12e93a9fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>freqAI-LSTM トレーディングモデル徹底解説
 
-この記事では 「たった1時間」 で Webゲーム作りを体験できます。
-
-🎯こんな方へお勧め
-
-普段はC#を書いているけど Webフロントはちょっと苦手…
-
-Webアプリを作ったことはあるけど Blazorは触ったことがない
-
-JavaScriptやAJ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/masayahak/items/0e6c82497ad63c856e3f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 01 Oct 2025 22:59:36 +0000</pubDate>
+はじめに
+本記事では、GitHub上で公開されているNetanelshoshan/freqAI-LSTMリポジトリのトレーディングモデルを技術的に詳しく解説します。このプロジェクトは、FreqtradeのFreqAI... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/tikeda123/items/1923859e6af12e93a9fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 04 Oct 2025 15:47:08 +0000</pubDate>
     </item>
     <item>
       <title>v0 にデザインシステムを与えて、統一感あるデザインに仕上げよう！</title>
@@ -107,6 +91,16 @@ JavaScriptやAJ... (source: Qiita - 人気の記事)</description>
       <description>ちょっと株式会社の KindBurger です！ 本記事では、プロンプトだけでは表現しきれないデザイン原則を、デザインシステムを「コンテキスト」として与えることでどう改善できるのかを紹介します。 また、v0 にはサンプルのデザインシステムも用意されており、すぐに試すことができます 🎉 これを利用すれば、次のように一... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://zenn.dev/chot/articles/d5ffeb6de3e7c2</guid>
       <pubDate>Sat, 04 Oct 2025 08:37:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[SwiftUI/Supabase]　Supabase × Sign in with Apple 設定でハマらないための手順（SwiftUI対応）</title>
+      <link>https://qiita.com/ryolingo/items/d1779d6008152e3f0dcf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+SwiftUI + Supabase で「Sign in with Apple」を使いたい人向けの記事です。
+この記事では Supabase 側と Apple Developer 側の設定 のみを扱います。
+実際のクライアント実装（SwiftUIなど）は省略しま... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/ryolingo/items/d1779d6008152e3f0dcf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sun, 05 Oct 2025 03:47:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
