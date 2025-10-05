@@ -7,22 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Oct 2025 12:59:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 01:21:25 +0000</lastBuildDate>
     <item>
-      <title>コマンド不要！GUIだけで構築するDifyセルフホスト環境 on OCI</title>
-      <link>https://qiita.com/yushibats/items/c1e3fddfcb8ec49d5059?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-AIエージェントやRAGアプリケーションの開発をローコードで実現できるオープンソースプラットフォーム 「Dify」。
-今回は、このDifyのセルフホスト環境をOCI（Oracle Cloud Infrastructure）上にGUI操作のみでワンクリックデプロイ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/yushibats/items/c1e3fddfcb8ec49d5059?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 01 Oct 2025 23:25:33 +0000</pubDate>
+      <title>日刊IETF (2025-10-03)</title>
+      <link>https://qiita.com/tetsuko_room/items/b6f39d73d75e343eda48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>こんにちは、GMOコネクトの名もなきエンジニアです。
+日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーする活動です。今回は、2025-10-03（UTC基準）に公開されたInternet-DraftとRFCをまとめました。
+I... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/tetsuko_room/items/b6f39d73d75e343eda48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 04 Oct 2025 08:21:19 +0000</pubDate>
     </item>
     <item>
-      <title>本屋さんを開催する技術（Kaigi on Rails 2025）</title>
-      <link>https://zenn.dev/ko1/articles/69d8db0227b40a</link>
-      <description>189冊入れて142冊も売れました。初回は65冊入れて65冊売ったので、2.2倍くらい売ってる！　凄い！　最初はおっかなびっくりでしたね。 準備 今回は、先ほど述べた通り、Kaigi on Rails 2025 運営の皆様から「やらん？」とお誘いいただきまして、開催の運びとなりました。前回は色々仕入れに制限がありましたが、今回はナ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/ko1/articles/69d8db0227b40a</guid>
-      <pubDate>Sat, 04 Oct 2025 09:47:22 +0000</pubDate>
+      <title>今からNeovimを始める人のLSP最短設定 (0.11, 2025-10-04現在)</title>
+      <link>https://zenn.dev/ras96/articles/4d9d9493d29c06</link>
+      <description>巷にはNeovimのLSPの設定をまとめた記事が多くあり、この記事もその1つです。
+しかし、既存の記事は情報が古かったり、既にLSPを設定したユーザー向けの移行ガイドであることが多いです。
+この記事は、2025年10月に今からNeovimを始める方向けのガイドです。
+いずれこの記事も昔のものとなりますが、現時点で最短でLSPの設定を行うための手順を解説します。
+既に古いバージョンのNeovimを使っている人向けの移行記事はこちら:
+
+neovim 0.11からはLSPをほぼネイティブAPIだけで扱える
+Neovim0.11用のLSP設定
+📜2025-04-27 nvim-lspconfi... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ras96/articles/4d9d9493d29c06</guid>
+      <pubDate>Sat, 04 Oct 2025 08:40:09 +0000</pubDate>
     </item>
     <item>
       <title>メール設計ガイドラインを公開しました | フューチャー技術ブログ</title>
@@ -39,17 +47,15 @@ AIエージェントやRAGアプリケーションの開発をローコードで
       <pubDate>Fri, 03 Oct 2025 11:44:09 +0000</pubDate>
     </item>
     <item>
-      <title>【GitHub】学生申請をして無料でGitHub Copilotを使う in 2025</title>
-      <link>https://qiita.com/hokutoh/items/aff66a6d1173efb0419f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>こちらのページで解説頂いていたのですが
-https://qiita.com/SNQ-2001/items/796dc5e794ac3f57a945
-2025年現在だとリンクや申請方法だいぶ変わっていたので、2025年版として記載します。
-
-準備が必要なもの
-
-学校のメールア... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/hokutoh/items/aff66a6d1173efb0419f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 01 Oct 2025 12:25:45 +0000</pubDate>
+      <title>Skyworkという汎用AIをGPTと対決させてみた。 - 賃貸探しリターンズ</title>
+      <link>https://qiita.com/Necoze/items/19bc94a2c36bc69711da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+どうも、趣味でデータ分析をしている猫背なエンジニアです。
+初コロナを抜け、やっとPCに向かって弱パワーを発揮できるまでに回復しました。
+今回は、記事投稿キャンペーンでSkyworkという生成AIでの開発体験を投稿するイベントが開催されてたので、参加しました。
+最... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Necoze/items/19bc94a2c36bc69711da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 04 Oct 2025 04:28:11 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Ruby CentralがRubyGemsを「乗っ取り」？騒動に関するファクトチェックも話題に</title>
@@ -66,20 +72,17 @@ https://qiita.com/SNQ-2001/items/796dc5e794ac3f57a945
       <pubDate>Thu, 02 Oct 2025 21:59:02 +0000</pubDate>
     </item>
     <item>
-      <title>AWS製AIエージェントOSS Strands Agentsの主要機能ハンズオン</title>
-      <link>https://zenn.dev/medurance/articles/strands-agents-hands-on</link>
-      <description>0. はじめに
-Meduranceエンジニアの深田翔です。本記事では、AWSから公開されたOSSのAIエージェントSDK「Strands Agents」の主要機能を実際に触ってみた内容をまとめました。
-公式サイトのユーザーガイドから特に重要と思われる機能をピックアップして説明して触りました。詳細な仕様や最新情報は公式ドキュメントを参照ください。
-本記事では主に以下の内容を紹介します：
+      <title>freee株式会社実務インターン記</title>
+      <link>https://zenn.dev/mire0726/articles/d89f89ef558b20</link>
+      <description>はじめに
+本記事では、2025年9月1日から9月12日までの10営業日で参加したfreee summer internship2025の学びを書いていこうと思います。
+2週間という短い実務インターンでしたが、いろんな人に助けていただきとても充実したインターンシップでした！
 
-Strands Agentsの基本概念とAgent Loop
-エージェントの基本的な使い方とプロンプト設定
-セッション管理（ローカル/S3/カスタムDB）とその戦略
-Hooksによるコールバック設定
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/medurance/articles/strands-agents-hands-on</guid>
-      <pubDate>Thu, 02 Oct 2025 14:32:49 +0000</pubDate>
+ 参加までの流れ
+2024年の夏前ぐらいにあったfreee技術の日2024というイベントが最初にfreeeさんに興味を持ったきっかけでした。
+自社開催で大規模な技術イベントを行なっている会社はそこまで多くないためカルチャーに関心を持ちましたし、当日開催されていた講演がどれも素敵で今でも内容をしっかり覚えています！... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mire0726/articles/d89f89ef558b20</guid>
+      <pubDate>Fri, 03 Oct 2025 09:30:55 +0000</pubDate>
     </item>
     <item>
       <title>【初心者歓迎】C#だけでWebゲームを1時間で作る javascriptやAJAX不要！Blazorの凄さを体験する</title>
@@ -101,18 +104,9 @@ JavaScriptやAJ... (source: Qiita - 人気の記事)</description>
     <item>
       <title>v0 にデザインシステムを与えて、統一感あるデザインに仕上げよう！</title>
       <link>https://zenn.dev/chot/articles/d5ffeb6de3e7c2</link>
-      <description>ちょっと株式会社の KindBurger です！
-本記事では、プロンプトだけでは表現しきれないデザイン原則を、デザインシステムを「コンテキスト」として与えることでどう改善できるのかを紹介します。
-また、v0 にはサンプルのデザインシステムも用意されており、すぐに試すことができます 🎉
-これを利用すれば、次のように一貫性のあるデザインが整ったサイトを簡単に生成できます。
-
-
- v0 とは
-ざっくりいうと 「アイデアを素早くかたちにできる」 生成 AI ツールです。
-自然言語のプロンプトや画像、Figma ファイルなどから、
-React / Next.js / Tailwind CSS / ... (source: Zennのトレンド)</description>
+      <description>ちょっと株式会社の KindBurger です！ 本記事では、プロンプトだけでは表現しきれないデザイン原則を、デザインシステムを「コンテキスト」として与えることでどう改善できるのかを紹介します。 また、v0 にはサンプルのデザインシステムも用意されており、すぐに試すことができます 🎉 これを利用すれば、次のように一... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://zenn.dev/chot/articles/d5ffeb6de3e7c2</guid>
-      <pubDate>Fri, 03 Oct 2025 06:00:07 +0000</pubDate>
+      <pubDate>Sat, 04 Oct 2025 08:37:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
