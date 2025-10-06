@@ -7,27 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Oct 2025 01:16:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 12:35:42 +0000</lastBuildDate>
+    <item>
+      <title>スペースX、スターシップを10月13日に打ち上げへ–現行版では最後、次回はより大型に</title>
+      <link>https://uchubiz.com/article/new66288/</link>
+      <description>米Space Exploration Technologies（SpaceX、スペースX）は、次世代巨大ロケット「Starship」（スターシップ）の次回の打ち上げを10月13日に設定した。 　2段式のStarship […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new66288/</guid>
+      <pubDate>Wed, 01 Oct 2025 04:30:56 +0000</pubDate>
+    </item>
     <item>
       <title>Synspective、ロケットラボと新たに10機の衛星打ち上げで合意</title>
       <link>https://uchubiz.com/article/new66266/</link>
       <description>小型の合成開口レーダー（SAR）衛星を製造、運用するSynspective（東京都江東区）はRocket Labのロケット「Electron」で新たに10機の衛星を打ち上げることでRocket Labと合意した。Roc […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new66266/</guid>
       <pubDate>Tue, 30 Sep 2025 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>パスコ、高頻度で撮影可能な国産小型衛星データの取り扱いを開始　QPS-SAR／StriX／GRUS</title>
-      <link>https://sorae.info/space/20250925-pasco.html</link>
-      <description>株式会社パスコは2025年9月24日、国産小型衛星事業者と販売店契約を締結し、合成開口レーダー（SAR）衛星「QPS-SAR」「StriX」、光学衛星「GRUS」のデータ提供サービスを国内外に向けて開始すると発表しました… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20250925-pasco.html</guid>
-      <pubDate>Thu, 25 Sep 2025 07:03:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>NECビジュアルインテリジェンス研究所が挑む、SAR×AI×LLMが切り拓く衛星ソリューションの新境地</title>
-      <link>https://sorabatake.jp/42452/</link>
-      <description>NECが取り組んでいるSAR画像解析AIや、そこに大規模言語モデル（LLM）を組み合わせる先進的な取り組みについて、現時点でできていること、そして未来の展望を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/42452/</guid>
-      <pubDate>Wed, 24 Sep 2025 23:00:02 +0000</pubDate>
     </item>
     <item>
       <title>北緯68度の戦略拠点で衛星データ受信を大幅効率化｜インフォステラがフィンランド提携【宇宙ビジネスニュース】</title>
@@ -37,18 +30,25 @@
       <pubDate>Sun, 05 Oct 2025 23:03:14 +0000</pubDate>
     </item>
     <item>
+      <title>NECビジュアルインテリジェンス研究所が挑む、SAR×AI×LLMが切り拓く衛星ソリューションの新境地</title>
+      <link>https://sorabatake.jp/42452/</link>
+      <description>NECが取り組んでいるSAR画像解析AIや、そこに大規模言語モデル（LLM）を組み合わせる先進的な取り組みについて、現時点でできていること、そして未来の展望を伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/42452/</guid>
+      <pubDate>Wed, 24 Sep 2025 23:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>技術提供から共創へ転換～クロスユーがアフリカ5機関と宇宙分野で戦略的連携【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/42585/</link>
+      <description>クロスユーは、TICAD9でアフリカ諸国の5機関と宇宙分野のパートナーシップを締結。その概要と締結を発表した5機関それぞれの取り組みについて、簡潔に紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/42585/</guid>
+      <pubDate>Mon, 06 Oct 2025 02:23:37 +0000</pubDate>
+    </item>
+    <item>
       <title>AIが地球全体をリアルタイムで把握する時代へ、小型衛星企業とパートナーシップでデジタルツイン「Project Orbion」とは【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/42579/</link>
       <description>2025年9月8日、安全保障向けの地理空間シミュレーションを開発するAechelon Technologyが地球観測衛星×AIによる地球全体のデジタルツインを構築する「Project Orbion」を発表。ICEYEやBlack Skyといった小型衛星コンステレーション構築におけるリードランナーも参加しています。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/42579/</guid>
       <pubDate>Sun, 05 Oct 2025 23:02:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>経済産業省・宇宙産業課に聞く―パーパス（存在意義）は「宇宙を日本の力に」【政策からひも解く宇宙産業の未来#2】</title>
-      <link>https://sorabatake.jp/42362/</link>
-      <description>経済産業省が目指す方向性から、宇宙戦略基金第1期の成果と課題の振り返りと第2期の狙いなど、経済産業省宇宙産業課の高濱航課長にお話を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/42362/</guid>
-      <pubDate>Tue, 23 Sep 2025 23:00:06 +0000</pubDate>
     </item>
     <item>
       <title>衛星大手の米マクサーが社名変更–ヴァンターとランテリスに</title>

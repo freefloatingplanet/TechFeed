@@ -7,7 +7,36 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Oct 2025 01:15:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 12:35:36 +0000</lastBuildDate>
+    <item>
+      <title>RAGにおけるハイブリッド検索対決！ OpenSearch Serverless VS Aurora Serverless - Taste of Tech Topics</title>
+      <link>https://acro-engineer.hatenablog.com/entry/2025/10/06/120000</link>
+      <description>はじめに こんにちは。データ分析エンジニアの木介です。 今回はAmazon Bedrock Knowledge BasesベクトルDB（検索エンジン）として利用できるものの比較を行っていきたいと思います。 前回はS3 VectorsとOpenSearch Serverlessの比較を行いましたが、ハイブリッド検索が必要な内容だと、精度の差が大きく出ました。 acro... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://acro-engineer.hatenablog.com/entry/2025/10/06/120000</guid>
+      <pubDate>Mon, 06 Oct 2025 03:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>ローカル環境でQwen3-VL-30B-A3Bを動かす</title>
+      <link>https://zenn.dev/robustonian/articles/local_qwen3_vl</link>
+      <description>はじめに
+Qwen3-VL-30B-A3Bが公開されたので早速ローカル環境で使ってみる。
+なお、本記事ではユニファイドメモリが96GB以上のMacを対象とする。おそらくそれ以下だと、VRAMが足りずにモデルの読み込みに失敗する。
+!
+NVIDIA GPUなら、24GB以上のVRAMがあれば4bit量子化により推論が可能かも知れない。
+ただし私はそのようなGPUを所有しておらず確認できないため、本記事ではNVIDIA GPUは対象外とする。
+※まあNVIDIA GPUの場合は公式ドキュメントに従えば、おそらく問題なく動くだろう。
+
+https://github.com/QwenLM/Q... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/robustonian/articles/local_qwen3_vl</guid>
+      <pubDate>Sun, 05 Oct 2025 13:35:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>「1週間で速習する！ゼロイチ Linux」講座を公開しました！ #01linux7days - log4ketancho</title>
+      <link>https://www.ketancho.net/entry/01linux7days</link>
+      <description>こんにちは、かなざわ（@ketancho）です。 この度、Udemy にて 「1週間で速習する！ゼロイチ Linux - 座学&amp;ハンズオンで実務で使える Linux 技術を獲得する」 を公開いたしました！🎉 www.udemy.com これまで Udemy では、「手を動かしながら2週間で学ぶ AWS 基本から応用まで」、「10日間で学ぶ サーバーレス on AWS」 ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.ketancho.net/entry/01linux7days</guid>
+      <pubDate>Sun, 05 Oct 2025 23:35:08 +0000</pubDate>
+    </item>
     <item>
       <title>ターミナル派待望の GitHub Copilot CLI 使い方まとめ</title>
       <link>https://zenn.dev/10q89s/articles/4a42fb779fde89</link>
@@ -21,15 +50,6 @@ GitHub Copilot Pro
 GitHub Cop... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/10q89s/articles/4a42fb779fde89</guid>
       <pubDate>Thu, 02 Oct 2025 23:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>本屋さんを開催する技術（Kaigi on Rails 2025）</title>
-      <link>https://zenn.dev/ko1/articles/69d8db0227b40a</link>
-      <description>技術イベントにおいて趣味で本屋をやっているささだです。
-さて、レポート7回目です（過去の記録はこちらから → @. bookstore | @. bookstore site）。
-今回は Kaigi on Rails 2025 で出店させていただきました。初めて本屋をさせていただいたのが Kaigi on Rails 2024 なので、だいたい1年たったことになります（その時のレポート: 本屋さんを開催する技術）。開催の結構直前に大倉さんに「やっていい？」ってねじ込んだのを昨日のように覚えています。いや、嘘。だいぶうろ覚え。その節はありがとうございました＆今回はご依頼いただきましてあり... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ko1/articles/69d8db0227b40a</guid>
-      <pubDate>Sat, 04 Oct 2025 09:19:47 +0000</pubDate>
     </item>
     <item>
       <title>今からNeovimを始める人のLSP最短設定 (0.11, 2025-10-04現在)</title>
@@ -47,36 +67,32 @@ Neovim0.11用のLSP設定
       <pubDate>Sat, 04 Oct 2025 08:40:09 +0000</pubDate>
     </item>
     <item>
-      <title>投資で破産しないための数学：ケリー基準を理解する - Qiita</title>
-      <link>https://qiita.com/tikeda123/items/3f4dd42c8f57333deeaf</link>
-      <description>投資で破産しないための数学：ケリー基準を理解する はじめに：なぜ優秀なトレーダーも破産するのか 投資の世界には不思議な現象があります。勝率が55%もある、つまり負けるより勝つ方が多いトレーダーが、なぜか破産してしまうのです。一方で、同じ勝率でも着実に資産を増やし続ける投資家もいます。この違いは何でしょ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://qiita.com/tikeda123/items/3f4dd42c8f57333deeaf</guid>
-      <pubDate>Sun, 05 Oct 2025 05:33:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Skyworkという汎用AIをGPTと対決させてみた。 - 賃貸探しリターンズ</title>
-      <link>https://qiita.com/Necoze/items/19bc94a2c36bc69711da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-どうも、趣味でデータ分析をしている猫背なエンジニアです。
-初コロナを抜け、やっとPCに向かって弱パワーを発揮できるまでに回復しました。
-今回は、記事投稿キャンペーンでSkyworkという生成AIでの開発体験を投稿するイベントが開催されてたので、参加しました。
-最... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Necoze/items/19bc94a2c36bc69711da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 04 Oct 2025 04:28:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIを最強の「壁打ちパートナー」に変える研究職のためのプロンプト集｜genkAIjokyo|ChatGPT/Claudeで論文作成と科研費申請</title>
-      <link>https://note.com/genkaijokyo/n/n0af419d15334</link>
-      <description>はじめに：AIとの「壁打ち」とは？研究活動において、自身のアイデアを客観的に見つめ直し、多角的な視点からブラッシュアップするプロセスは不可欠です。しかし、多忙な臨床業務や研究に追われる中で、上司とじっくりと議論を交わす時間見つけるのは容易ではありません。もしくは立場が上になると対等な立場で意見して... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/genkaijokyo/n/n0af419d15334</guid>
-      <pubDate>Sat, 04 Oct 2025 04:34:31 +0000</pubDate>
-    </item>
-    <item>
       <title>React 19.2リリース — 新コンポーネント&lt;Activitiy&gt;やパーシャルプリレンダリングなど改善点多数</title>
       <link>https://techfeed.io/entries/68def5a618f89a7761e2310d?from=rss</link>
       <description>10月1日、Reactチームが「React 19.2」を公開した。この記事では、Reactの最新リリースに含まれる新機能や改善点を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68def5a618f89a7761e2310d?from=rss</guid>
       <pubDate>Thu, 02 Oct 2025 21:59:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【アプリ開発】経費申請の手入力を減らしたい新人が、OCRに挑戦してみたら8割自動化できた</title>
+      <link>https://qiita.com/ishikawa_slj/items/05dcae0d429dee8769aa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+記事を開いていただきありがとうございます！
+現在私は GitHub Copilot を活用しながら、業務効率化のためのWebアプリ開発に取り組んでいます。
+本記事ではその中のひとつ、OCRを使った経費申請アプリ を作ってみての学びを共有します。
+ぜひご覧ください... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/ishikawa_slj/items/05dcae0d429dee8769aa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Mon, 06 Oct 2025 02:05:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>freqAI-LSTM トレーディングモデル徹底解説</title>
+      <link>https://qiita.com/tikeda123/items/1923859e6af12e93a9fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>freqAI-LSTM トレーディングモデル徹底解説
+
+はじめに
+本記事では、GitHub上で公開されているNetanelshoshan/freqAI-LSTMリポジトリのトレーディングモデルを技術的に詳しく解説します。このプロジェクトは、FreqtradeのFreqAI... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/tikeda123/items/1923859e6af12e93a9fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 04 Oct 2025 15:47:08 +0000</pubDate>
     </item>
     <item>
       <title>v0 にデザインシステムを与えて、統一感あるデザインに仕上げよう！</title>
@@ -95,24 +111,16 @@ React / Next.js / Tailwind CSS / ... (source: Zennのトレンド)</description>
       <pubDate>Fri, 03 Oct 2025 06:00:07 +0000</pubDate>
     </item>
     <item>
-      <title>freqAI-LSTM トレーディングモデル徹底解説</title>
-      <link>https://qiita.com/tikeda123/items/1923859e6af12e93a9fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>freqAI-LSTM トレーディングモデル徹底解説
+      <title>【合格体験記】CLF-C02 ～社会人の学習習慣のつくり方～</title>
+      <link>https://qiita.com/25Such/items/b4618108049c4bbaab39?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>🧑‍💻 はじめに
+筆者は現在、ソフトウェア会社の SRE部門で監視・復旧を担当しています。といっても、4月に入社したばかりの新人エンジニアで、いまは研修を終えてようやく実務に入るところです🐣
+CLFはその研修期間中（3週間）に受験し取得しました。
+この記事では、
 
-はじめに
-本記事では、GitHub上で公開されているNetanelshoshan/freqAI-LSTMリポジトリのトレーディングモデルを技術的に詳しく解説します。このプロジェクトは、FreqtradeのFreqAI... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/tikeda123/items/1923859e6af12e93a9fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 04 Oct 2025 15:47:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SwiftUI/Supabase]　Supabase × Sign in with Apple 設定でハマらないための手順（SwiftUI対応）</title>
-      <link>https://qiita.com/ryolingo/items/d1779d6008152e3f0dcf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-SwiftUI + Supabase で「Sign in with Apple」を使いたい人向けの記事です。
-この記事では Supabase 側と Apple Developer 側の設定 のみを扱います。
-実際のクライアント実装（SwiftUIなど）は省略しま... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/ryolingo/items/d1779d6008152e3f0dcf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sun, 05 Oct 2025 03:47:16 +0000</pubDate>
+使用し... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/25Such/items/b4618108049c4bbaab39?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sun, 05 Oct 2025 23:05:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
