@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Oct 2025 13:00:11 +0000</lastBuildDate>
-    <item>
-      <title>スペースX、スターシップを10月13日に打ち上げへ–現行版では最後、次回はより大型に</title>
-      <link>https://uchubiz.com/article/new66288/</link>
-      <description>米Space Exploration Technologies（SpaceX、スペースX）は、次世代巨大ロケット「Starship」（スターシップ）の次回の打ち上げを10月13日に設定した。 　2段式のStarship […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new66288/</guid>
-      <pubDate>Wed, 01 Oct 2025 04:30:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Oct 2025 01:16:01 +0000</lastBuildDate>
     <item>
       <title>Synspective、ロケットラボと新たに10機の衛星打ち上げで合意</title>
       <link>https://uchubiz.com/article/new66266/</link>
@@ -37,6 +30,20 @@
       <pubDate>Wed, 24 Sep 2025 23:00:02 +0000</pubDate>
     </item>
     <item>
+      <title>北緯68度の戦略拠点で衛星データ受信を大幅効率化｜インフォステラがフィンランド提携【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/42606/</link>
+      <description>インフォステラとフィンランドの地上局サービスプロバイダーであるNorthBaseがMoUを締結し、北緯68度地上局をインフォステラのクラウドプラットフォーム「StellarStation」へ統合することで合意。北緯68度という高緯度の地上局が使用できるメリットについても簡単にまとめました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/42606/</guid>
+      <pubDate>Sun, 05 Oct 2025 23:03:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIが地球全体をリアルタイムで把握する時代へ、小型衛星企業とパートナーシップでデジタルツイン「Project Orbion」とは【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/42579/</link>
+      <description>2025年9月8日、安全保障向けの地理空間シミュレーションを開発するAechelon Technologyが地球観測衛星×AIによる地球全体のデジタルツインを構築する「Project Orbion」を発表。ICEYEやBlack Skyといった小型衛星コンステレーション構築におけるリードランナーも参加しています。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/42579/</guid>
+      <pubDate>Sun, 05 Oct 2025 23:02:10 +0000</pubDate>
+    </item>
+    <item>
       <title>経済産業省・宇宙産業課に聞く―パーパス（存在意義）は「宇宙を日本の力に」【政策からひも解く宇宙産業の未来#2】</title>
       <link>https://sorabatake.jp/42362/</link>
       <description>経済産業省が目指す方向性から、宇宙戦略基金第1期の成果と課題の振り返りと第2期の狙いなど、経済産業省宇宙産業課の高濱航課長にお話を伺いました。 (source: 宙畑)</description>
@@ -49,13 +56,6 @@
       <description>地球観測衛星を運用して衛星画像を提供する米Maxar Intelligence（マクサー・インテリジェンス）と衛星を設計、製造する米Maxar Space Systems（マクサー・スペース・システムズ）は米国時間10 […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new66340/</guid>
       <pubDate>Thu, 02 Oct 2025 06:34:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>スペースプレーン「ドリームチェイサー」、NASAとの契約変更–ISSへの物資補給以外にも活用</title>
-      <link>https://uchubiz.com/article/new66198/</link>
-      <description>米航空宇宙局（NASA）は米国時間9月25日、米Sierra Space（シエラ・スペース）の無人補給船「Dream Chaser」（ドリームチェイサー）との契約を変更すると発表した。 　Dream Chaserは、か […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new66198/</guid>
-      <pubDate>Mon, 29 Sep 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NASAとシエラ・スペースが「ドリームチェイサー」によるISS補給ミッションの契約変更を発表</title>
