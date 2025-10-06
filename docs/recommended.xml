@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Oct 2025 12:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 13:08:14 +0000</lastBuildDate>
     <item>
       <title>RAGにおけるハイブリッド検索対決！ OpenSearch Serverless VS Aurora Serverless - Taste of Tech Topics</title>
       <link>https://acro-engineer.hatenablog.com/entry/2025/10/06/120000</link>
@@ -52,26 +52,22 @@ GitHub Cop... (source: Zennのトレンド)</description>
       <pubDate>Thu, 02 Oct 2025 23:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>今からNeovimを始める人のLSP最短設定 (0.11, 2025-10-04現在)</title>
-      <link>https://zenn.dev/ras96/articles/4d9d9493d29c06</link>
-      <description>巷にはNeovimのLSPの設定をまとめた記事が多くあり、この記事もその1つです。
-しかし、既存の記事は情報が古かったり、既にLSPを設定したユーザー向けの移行ガイドであることが多いです。
-この記事は、2025年10月に今からNeovimを始める方向けのガイドです。
-いずれこの記事も昔のものとなりますが、現時点で最短でLSPの設定を行うための手順を解説します。
-既に古いバージョンのNeovimを使っている人向けの移行記事はこちら:
-
-neovim 0.11からはLSPをほぼネイティブAPIだけで扱える
-Neovim0.11用のLSP設定
-📜2025-04-27 nvim-lspconfi... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ras96/articles/4d9d9493d29c06</guid>
-      <pubDate>Sat, 04 Oct 2025 08:40:09 +0000</pubDate>
-    </item>
-    <item>
       <title>React 19.2リリース — 新コンポーネント&lt;Activitiy&gt;やパーシャルプリレンダリングなど改善点多数</title>
       <link>https://techfeed.io/entries/68def5a618f89a7761e2310d?from=rss</link>
       <description>10月1日、Reactチームが「React 19.2」を公開した。この記事では、Reactの最新リリースに含まれる新機能や改善点を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68def5a618f89a7761e2310d?from=rss</guid>
       <pubDate>Thu, 02 Oct 2025 21:59:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【なぜAIに設計を任せると成長が止まるのか】Kiroを使っても学べない設計スキルの真実</title>
+      <link>https://zenn.dev/sunagaku/articles/0105c57e0a1283</link>
+      <description>はじめに
+僕自身、実務や個人開発でAIを活用して開発しています。Kiroやcc-sddを使った仕様駆動開発を行い、AI を使って生産性は向上している。また余った時間をコードレビューにも使い、コードの質もある程度は担保出来るようになりました。
+しかし、ある時ふと感じました。「僕自身の設計スキルは向上してないのでは？」と。
+AIに機能要件を伝えれば設計書を作ってくれるし、その段階でレビューすれば設計の質も担保できる。しかし「自分自身は何も成長していない」とも同時に感じていました。
+そこで「AIを使いつつ、設計スキルを最大限高めるにはどうしたらいいか？」を自分なりに整理してみました。まずは... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sunagaku/articles/0105c57e0a1283</guid>
+      <pubDate>Sun, 05 Oct 2025 23:06:54 +0000</pubDate>
     </item>
     <item>
       <title>【アプリ開発】経費申請の手入力を減らしたい新人が、OCRに挑戦してみたら8割自動化できた</title>
@@ -95,20 +91,18 @@ Neovim0.11用のLSP設定
       <pubDate>Sat, 04 Oct 2025 15:47:08 +0000</pubDate>
     </item>
     <item>
-      <title>v0 にデザインシステムを与えて、統一感あるデザインに仕上げよう！</title>
-      <link>https://zenn.dev/chot/articles/d5ffeb6de3e7c2</link>
-      <description>ちょっと株式会社の KindBurger です！
-本記事では、プロンプトだけでは表現しきれないデザイン原則を、デザインシステムを「コンテキスト」として与えることでどう改善できるのかを紹介します。
-また、v0 にはサンプルのデザインシステムも用意されており、すぐに試すことができます 🎉
-これを利用すれば、次のように一貫性のあるデザインが整ったサイトを簡単に生成できます。
+      <title>テスト可能な dotfiles 管理：chezmoi で実現する開発環境構築</title>
+      <link>https://zenn.dev/shunk031/articles/testable-dotfiles-management-with-chezmoi</link>
+      <description>本記事では、筆者の dotfiles リポジトリ shunk031/dotfiles を題材に、テスト可能性を重視した dotfiles 管理のアプローチについて解説します。
+https://github.com/shunk031/dotfiles
 
+ はじめに
 
- v0 とは
-ざっくりいうと 「アイデアを素早くかたちにできる」 生成 AI ツールです。
-自然言語のプロンプトや画像、Figma ファイルなどから、
-React / Next.js / Tailwind CSS / ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/chot/articles/d5ffeb6de3e7c2</guid>
-      <pubDate>Fri, 03 Oct 2025 06:00:07 +0000</pubDate>
+ dotfiles と dotfiles リポジトリ
+dotfiles とは、.bashrc、.vimrc、.gitconfig などの「.」で始まる設定ファイル群のことです。近年、これらを Git リポジトリで管理する dotfiles リポジトリ が開発者の間で広く普及しています。
+https://awesomeopens... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shunk031/articles/testable-dotfiles-management-with-chezmoi</guid>
+      <pubDate>Sat, 04 Oct 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【合格体験記】CLF-C02 ～社会人の学習習慣のつくり方～</title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Oct 2025 12:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 13:08:21 +0000</lastBuildDate>
     <item>
       <title>MobiLLM：6Gにおけるクローズドループ型脅威軽減のためのエージェント型AIフレームワーク
 オープンRAN</title>
@@ -17,7 +17,7 @@
       <pubDate>Thu, 25 Sep 2025 21:49:43 +0000</pubDate>
     </item>
     <item>
-      <title>スコープ指定：スコア・曲率分布外近接性評価ツール
+      <title>スコープ：スコア・曲率分布外近接性評価ツール
 拡散</title>
       <link>http://arxiv.org/abs/2510.01456v2</link>
       <description>分布外（OOD）検出は、視覚、ロボティクス、強化学習などにおける機械学習システムの信頼性の高い展開に不可欠です。本稿では、拡散モデルのための高速かつ汎用的なOOD検出手法である、SCOPED（Score-Curvature Out-of-distribution Proximity Evaluator for Diffusion）を紹介します。SCOPEDは、学習済みモデルのフォワードパス数を従来の手法と比較して1桁削減し、ほとんどの拡散ベースのベースラインを上回り、最も強力なものの精度に近づきます。SCOPEDは、多様なデータセットで一度学習された単一の拡散モデルから計算され、モデルのスコア関数のヤコビトレースと2乗ノルムを単一の検定統計量に組み合わせます。固定値で閾値を設定するのではなく、カーネル密度推定を用いてSCOPEDスコアの分布内密度を推定することで、柔軟な教師なしテストが可能になります。このテストでは、最も単純なケースでは、1回のフォワードパスと1回のヤコビアンベクトル積（JVP）のみが必要となり、Hutchinsonのトレース推定器によって効率化されます。
