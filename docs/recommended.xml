@@ -7,37 +7,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Oct 2025 01:14:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 12:35:42 +0000</lastBuildDate>
     <item>
-      <title>AWS CDK 基礎知識まとめ</title>
-      <link>https://qiita.com/j-yasukawa/items/8020fab836d4efbae8db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-AWS CDK (Cloud Development Kit)について、私が初めて学習した際に学んだ内容を備忘録としてまとめてみました。
-この記事を読んでいただくことで、aws-cdkを使用してコードを書き始めるために必要な前提知識を身につけることができます。
-... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/j-yasukawa/items/8020fab836d4efbae8db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Mon, 06 Oct 2025 08:01:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】Google、脆弱性修正に特化したAIエージェント「CodeMender」を開発中 — すでにOSSプロジェクトに対し72件のパッチを提供</title>
-      <link>https://techfeed.io/entries/68e435c4ab54f7178ce20a37?from=rss</link>
-      <description>10月7日、Google DeepMindが「Google DeepMind introduces new AI agent for code security」と題した記事を公開した。この記事では、AIを活用してソフトウェアの脆弱性を自動的に修正し、既存コードをより安全な形に書き換える新しいエージェント「CodeMender」について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68e435c4ab54f7178ce20a37?from=rss</guid>
-      <pubDate>Mon, 06 Oct 2025 21:33:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ターミナル派待望の GitHub Copilot CLI 使い方まとめ</title>
-      <link>https://zenn.dev/10q89s/articles/4a42fb779fde89</link>
-      <description>こんにちは、URBAN HACKS サーバーサイドエンジニアの池田です。
-2025/9/25に GitHub Copilot CLI が public preview 版で登場しました！
-業務で GitHub Copilot をメインに使っている私にとっては待望の CLI です！
-https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/
-なお、GitHub Copilot CLI は以下の有料プランで利用可能です。
+      <title>“macOS→Omarchy”の移行ガイド</title>
+      <link>https://zenn.dev/agata/articles/72f70d607dd8f3</link>
+      <description>!
 
-GitHub Copilot Pro
-GitHub Cop... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/10q89s/articles/4a42fb779fde89</guid>
-      <pubDate>Thu, 02 Oct 2025 23:00:02 +0000</pubDate>
+
+2025-10-07: システム全体の日本語化の補足、Public Keyの記事の追加、音声の再生が途切れる件の解消法の追記、ダッシュボードのサンプルが一部動作しなかったため cal → btopに変更、ウインドウのタブ化のバイディング設定の一部が間違っていたので修正
+
+2025-10-06: 初版
+
+
+
+ はじめに
+私は Mac がまだ “Macintosh” と呼ばれていたころからずっと Mac を使ってきました。ですがこのたび、思い切って Omarchy（Linux ディストリビューション）に移行しました。1 ヶ月ほど使ってみての感想や気づきを、これから移行する方の参考にな... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/agata/articles/72f70d607dd8f3</guid>
+      <pubDate>Mon, 06 Oct 2025 00:41:32 +0000</pubDate>
     </item>
     <item>
       <title>【TypeScript】カスタムエラーのすすめ</title>
@@ -74,6 +60,16 @@ AIに機能要件を伝えれば設計書を作ってくれるし、その段階
 そこで「AIを使いつつ、設計スキルを最大限高めるにはどうしたらいいか？」を自分なりに整理してみました。まずは... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/sunagaku/articles/0105c57e0a1283</guid>
       <pubDate>Sun, 05 Oct 2025 23:06:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>SharePointの雑多なデータの山をナレッジエージェント（Copilot）で整理する</title>
+      <link>https://qiita.com/Oyu3m/items/f6853314dad9699b2e57?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>前提
+この記事は2025/10/06時点での公開情報や動作を私なりにまとめたものとなります。
+正確な情報はご自身でご確認もしくはMicrosoftへお問い合わせください。
+また、環境ごとにリリースタイミングが異なる点や、管理者により制御されている可能性がある点、ご留意くだ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Oyu3m/items/f6853314dad9699b2e57?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Mon, 06 Oct 2025 16:55:29 +0000</pubDate>
     </item>
     <item>
       <title>【アプリ開発】経費申請の手入力を減らしたい新人が、OCRに挑戦してみたら8割自動化できた</title>
@@ -118,6 +114,17 @@ CLFはその研修期間中（3週間）に受験し取得しました。
 使用し... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/25Such/items/b4618108049c4bbaab39?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Sun, 05 Oct 2025 23:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>全プロセスが一秒止まる不具合続編: カーネル内部で何が起きたか？</title>
+      <link>https://zenn.dev/turing_motors/articles/fdfb70b7a9d90b</link>
+      <description>はじめに
+完全自動運転の実現を目指すスタートアップ「チューリング」でエンジニアをしています、鈴木勝博です。私が所属しているDrivingSystemチームでは、自動運転向けのシステム開発を担当しています。
+Linuxを用いたシステム開発を行っていると、カーネルの挙動、周辺デバイスとの組み合わせ等によって、思いがけない問題に遭遇することが少なくありません。この記事では、実際にシステム開発中に遭遇した「再現が難しく、原因の切り分けに時間を要した問題」について深堀りしてご紹介します。
+概要編はこちらのテックブログにてご紹介しています。
+https://zenn.dev/turing_mot... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/fdfb70b7a9d90b</guid>
+      <pubDate>Mon, 06 Oct 2025 08:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
