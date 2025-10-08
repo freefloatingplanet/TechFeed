@@ -7,28 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Oct 2025 01:14:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 12:36:01 +0000</lastBuildDate>
     <item>
-      <title>大規模言語モデルが国際天文学・天体物理学オリンピック（IOAA）で金メダルを獲得</title>
-      <link>http://arxiv.org/abs/2510.05016v2</link>
-      <description>大規模言語モデル（LLM）を天文学研究タスクの自動化に適用するタスク固有のデモンストレーションでは、初期の成功が示されていますが、天文学の問題解決に必要なすべての機能について不完全な見解しか提供しておらず、LLMの長所と限界をより深く理解することが求められています。これまでのところ、既存のベンチマークと評価は、主に天文学の知識をテストする単純な質問応答に焦点を当てており、この分野における実際の研究に必要な複雑な推論を評価できていません。本稿では、深い概念的理解、多段階の導出、およびマルチモーダル分析を検証するように設計された国際天文学・天体物理学オリンピック（IOAA）試験において、5つの最先端のLLMを体系的にベンチマークすることにより、このギャップを解消します。平均スコアが85.6%と84.2%という、Gemini 2.5 ProとGPT-5（2つのトップパフォーマンスモデル）は、金メダルレベルのパフォーマンスを達成しただけでなく、評価対象となった4つのIOAA理論試験（2022～2025年）すべてにおいて、約200～300人の参加者の中で上位2位にランクインしました。これと比較し (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.05016v2</guid>
-      <pubDate>Mon, 06 Oct 2025 16:58:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>確率近似の観点からランジュバン・トンプソンサンプリングを再考する
-</title>
-      <link>http://arxiv.org/abs/2510.05023v1</link>
-      <description>多腕バンディットに対する既存の近似トンプソンサンプリング（TS）アルゴリズムのほとんどは、各ラウンドで確率的勾配ランジュバンダイナミクス（SGLD）またはその派生型を用いて事後分布からサンプリングすることで、バニラTSにおける事前分布と報酬分布間の共役性仮定の必要性を緩和しています。しかし、これらのアルゴリズムは、バンディット問題のラウンドごとに異なる事後分布を近似する必要があることがよくあります。これには、動的学習率などのハイパーパラメータのラウンド固有の調整が必要となり、理論分析と実装の両方において課題が生じます。この非定常性を緩和するために、本研究ではTSフレームワークに確率的近似（SA）を組み込んだTS-SAを導入します。各ラウンドにおいて、TS-SAは最新の報酬のみを用いて事後近似を構築し、ランジュバン・モンテカルロ（LMC）更新を実行し、SAステップを適用してノイズの多い提案を時間経過にわたって平均化します。これは、アルゴリズム全体を通して定常事後ターゲットを近似していると解釈でき、さらに固定ステップサイズ、統一された収束分析フレームワーク、そして時間平均化による事後推定値 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.05023v1</guid>
-      <pubDate>Mon, 06 Oct 2025 17:01:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diffusion^2: 3D環境を無線周波数ヒートマップに変換する</title>
-      <link>http://arxiv.org/abs/2510.02274v2</link>
-      <description>無線周波数（RF）信号伝搬のモデル化は、環境を理解する上で不可欠です。RF信号は、可視光スペクトル、レンズのカバー範囲、遮蔽物によって制限されるRGBカメラの能力を超えた貴重な洞察を提供するためです。また、無線診断、展開、最適化のサポートにも役立ちます。しかし、吸収や反射などの障害物との相互作用により、複雑な環境におけるRF信号を正確に予測することは依然として困難です。そこで本稿では、3Dポイントクラウドを使用してWi-Fiからミリ波まで幅広い周波数範囲にわたるRF信号の伝搬をモデル化する拡散ベースのアプローチであるDiffusion^2を紹介します。3DデータからRF関連の特徴を効果的に取得するために、3Dジオメトリの複雑さと信号固有の詳細をカプセル化するRF-3Dエンコーダを紹介します。これらの特徴は、実際のRF信号伝播プロセスをシミュレートするために、マルチスケール埋め込みを受けます。合成測定と実測に基づく評価では、Diffusion^2が様々な周波数帯域と環境条件におけるRF信号の挙動を、わずか1.9dBの誤差で、既存の手法の27倍の速度で正確に推定できることが実証されており、 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.02274v2</guid>
-      <pubDate>Thu, 02 Oct 2025 17:50:22 +0000</pubDate>
+      <title>層別GRPO：強化学習における構造的異質性の取り扱い
+LLM探索エージェントの学習</title>
+      <link>http://arxiv.org/abs/2510.06214v1</link>
+      <description>大規模言語モデル（LLM）エージェントは、複雑で多段階的な問題を解くために検索エンジンなどの外部ツールにますます依存するようになり、強化学習（RL）はそれらのトレーニングにおける重要なパラダイムとなっています。しかし、探索エージェントの軌跡は構造的に異質であり、探索呼び出しの数、配置、結果の変動が根本的に異なる解答方向と報酬分布につながります。単一のグローバルベースラインを使用する標準的な方策勾配法は、我々が特定し定式化した層間バイアス、つまり異質な軌跡の「異なるもの」の比較の影響を受けます。この層間バイアスは、クレジットの割り当てを歪め、複雑で多段階的な探索戦略の探索を妨げます。この問題に対処するために、我々は層別GRPOを提案します。その中心となるコンポーネントである層別アドバンテージ正規化（SAN）は、軌跡をその構造的特性に基づいて均質な層に分割し、各層内で局所的にアドバンテージを計算します。これにより、軌道は真のピアに対してのみ評価されます。私たちの分析は、SANが層間のバイアスを排除し、各層内で条件付きで不偏な単位分散推定値を生成し、標準的な正規化が持つグローバルな不偏性と単 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.06214v1</guid>
+      <pubDate>Tue, 07 Oct 2025 17:59:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
