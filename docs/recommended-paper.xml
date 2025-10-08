@@ -7,12 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Oct 2025 13:08:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 01:14:18 +0000</lastBuildDate>
     <item>
-      <title>大規模言語モデルが国際天文学・天体物理学オリンピックで金メダルを獲得</title>
-      <link>http://arxiv.org/abs/2510.05016v1</link>
+      <title>大規模言語モデルが国際天文学・天体物理学オリンピック（IOAA）で金メダルを獲得</title>
+      <link>http://arxiv.org/abs/2510.05016v2</link>
       <description>大規模言語モデル（LLM）を天文学研究タスクの自動化に適用するタスク固有のデモンストレーションでは、初期の成功が示されていますが、天文学の問題解決に必要なすべての機能について不完全な見解しか提供しておらず、LLMの長所と限界をより深く理解することが求められています。これまでのところ、既存のベンチマークと評価は、主に天文学の知識をテストする単純な質問応答に焦点を当てており、この分野における実際の研究に必要な複雑な推論を評価できていません。本稿では、深い概念的理解、多段階の導出、およびマルチモーダル分析を検証するように設計された国際天文学・天体物理学オリンピック（IOAA）試験において、5つの最先端のLLMを体系的にベンチマークすることにより、このギャップを解消します。平均スコアが85.6%と84.2%という、Gemini 2.5 ProとGPT-5（2つのトップパフォーマンスモデル）は、金メダルレベルのパフォーマンスを達成しただけでなく、評価対象となった4つのIOAA理論試験（2022～2025年）すべてにおいて、約200～300人の参加者の中で上位2位にランクインしました。これと比較し (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.05016v1</guid>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.05016v2</guid>
       <pubDate>Mon, 06 Oct 2025 16:58:47 +0000</pubDate>
     </item>
     <item>
