@@ -7,23 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Oct 2025 12:35:28 +0000</lastBuildDate>
-    <item>
-      <title>SharePointの雑多なデータの山をナレッジエージェント（Copilot）で整理する</title>
-      <link>https://qiita.com/Oyu3m/items/f6853314dad9699b2e57?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>前提
-この記事は2025/10/06時点での公開情報や動作を私なりにまとめたものとなります。
-正確な情報はご自身でご確認もしくはMicrosoftへお問い合わせください。
-また、環境ごとにリリースタイミングが異なる点や、管理者により制御されている可能性がある点、ご留意くだ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Oyu3m/items/f6853314dad9699b2e57?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Mon, 06 Oct 2025 16:55:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Oct 2025 13:09:49 +0000</lastBuildDate>
     <item>
       <title>「生成AIでサクッと！」というわけには行かなかったCoffeeScript → TypeScriptへの置き換え - エムスリーテックブログ</title>
       <link>https://www.m3tech.blog/entry/2025/10/09/100000</link>
       <description>本記事は、コンシューマーチームブログリレー 3日目です。 はじめまして。エンジニアグループ、コンシューマーチームの松本と申します。 本記事では、社内で開発・利用している内部ツールのフロントエンドを CoffeeScript + Backbone.js の構成から TypeScript + React の構成に置き換えた時の知見を共有できればと思い... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/10/09/100000</guid>
       <pubDate>Thu, 09 Oct 2025 01:22:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Required&lt;Partial&lt;A&gt;&gt;とAって、どんなAでも同じ型になるの??</title>
+      <link>https://zenn.dev/y_ta/articles/required-partial-equals-a</link>
+      <description>はじめに
+Partial&lt;T&gt;はTの各キーをオプショナルにする型、Required&lt;T&gt;はオプショナルを除去してすべてのプロパティを必須にする型です。つまり、Required&lt;Partial&lt;A&gt;&gt;は一見すると、元のAと同じになるように思えます。しかし、これは必ずしもなりたたず、例外パターンが存在します。
+
+ オプショナル（プロパティ）とは
+そもそもオプショナルとはどのような状態かおさらいしましょう。
+次のようなAを考えます。
+type A = ｛ z?: string ｝
+
+const a1: A = {}; //OK
+const a... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/y_ta/articles/required-partial-equals-a</guid>
+      <pubDate>Tue, 07 Oct 2025 11:17:08 +0000</pubDate>
     </item>
     <item>
       <title>SESにおける面談対策について</title>
