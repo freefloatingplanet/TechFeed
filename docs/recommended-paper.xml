@@ -7,14 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Oct 2025 01:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 12:35:36 +0000</lastBuildDate>
     <item>
-      <title>層別GRPO：強化学習における構造的異質性の取り扱い
-LLM探索エージェントの学習</title>
-      <link>http://arxiv.org/abs/2510.06214v1</link>
-      <description>大規模言語モデル（LLM）エージェントは、複雑で多段階的な問題を解くために検索エンジンなどの外部ツールにますます依存するようになり、強化学習（RL）はそれらのトレーニングにおける重要なパラダイムとなっています。しかし、探索エージェントの軌跡は構造的に異質であり、探索呼び出しの数、配置、結果の変動が根本的に異なる解答方向と報酬分布につながります。単一のグローバルベースラインを使用する標準的な方策勾配法は、我々が特定し定式化した層間バイアス、つまり異質な軌跡の「異なるもの」の比較の影響を受けます。この層間バイアスは、クレジットの割り当てを歪め、複雑で多段階的な探索戦略の探索を妨げます。この問題に対処するために、我々は層別GRPOを提案します。その中心となるコンポーネントである層別アドバンテージ正規化（SAN）は、軌跡をその構造的特性に基づいて均質な層に分割し、各層内で局所的にアドバンテージを計算します。これにより、軌道は真のピアに対してのみ評価されます。私たちの分析は、SANが層間のバイアスを排除し、各層内で条件付きで不偏な単位分散推定値を生成し、標準的な正規化が持つグローバルな不偏性と単 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.06214v1</guid>
-      <pubDate>Tue, 07 Oct 2025 17:59:13 +0000</pubDate>
+      <title>MLE-Smith: 自動化されたマルチエージェントパイプラインによる MLE タスクのスケーリング</title>
+      <link>http://arxiv.org/abs/2510.07307v1</link>
+      <description>言語モデル（LM）は機械学習エンジニアリング（MLE）の自動化において大きな進歩を遂げてきましたが、高品質なMLEトレーニングデータの取得には大きな制約があります。現在のMLEベンチマークは、静的で手動でキュレーションされたタスクに依存しており、作成に膨大な時間と手作業を要するため、スケーラビリティが低く、適用範囲が限られています。本稿では、完全に自動化されたマルチエージェントパイプラインであるMLE-Smithを紹介します。MLE-Smithは、効率的な生成・検証・実行パラダイムを通じて生データセットを競争形式のMLEチャレンジに変換し、検証可能な品質、実世界での使いやすさ、そして豊富な多様性を備えたMLEタスクをスケーリングします。MLE-Smithで提案されるマルチエージェントパイプラインは、構造化されたタスク設計と標準化されたリファクタリングを促進し、厳格な構造規則と高度な意味的健全性を適用するハイブリッド検証メカニズムと組み合わせます。さらに、インタラクティブな実行を通じて、経験的な解決可能性と実世界での忠実度を検証します。 MLE-Smithを224の実世界データセットに適 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.07307v1</guid>
+      <pubDate>Wed, 08 Oct 2025 17:57:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
