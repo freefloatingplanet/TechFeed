@@ -7,13 +7,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Oct 2025 13:09:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 01:15:23 +0000</lastBuildDate>
     <item>
-      <title>MLE-Smith: 自動化されたマルチエージェントパイプラインによる MLE タスクのスケーリング</title>
-      <link>http://arxiv.org/abs/2510.07307v1</link>
-      <description>言語モデル（LM）は機械学習エンジニアリング（MLE）の自動化において大きな進歩を遂げてきましたが、高品質なMLEトレーニングデータの取得には大きな制約があります。現在のMLEベンチマークは、静的で手動でキュレーションされたタスクに依存しており、作成に膨大な時間と手作業を要するため、スケーラビリティが低く、適用範囲が限られています。本稿では、完全に自動化されたマルチエージェントパイプラインであるMLE-Smithを紹介します。MLE-Smithは、効率的な生成・検証・実行パラダイムを通じて生データセットを競争形式のMLEチャレンジに変換し、検証可能な品質、実世界での使いやすさ、そして豊富な多様性を備えたMLEタスクをスケーリングします。MLE-Smithで提案されるマルチエージェントパイプラインは、構造化されたタスク設計と標準化されたリファクタリングを促進し、厳格な構造規則と高度な意味的健全性を適用するハイブリッド検証メカニズムと組み合わせます。さらに、インタラクティブな実行を通じて、経験的な解決可能性と実世界での忠実度を検証します。 MLE-Smithを224の実世界データセットに適 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.07307v1</guid>
-      <pubDate>Wed, 08 Oct 2025 17:57:19 +0000</pubDate>
+      <title>地理空間分析のための非可逆ニューラル圧縮：レビュー</title>
+      <link>http://arxiv.org/abs/2503.01505v2</link>
+      <description>過去数十年にわたり、利用可能な地球観測（EO）データの量は爆発的に増加しました。衛星画像による地球表面と大気のかつてないほどのカバー率により、地上局への送信、データセンターへの保存、そしてエンドユーザーへの配信が必要となる膨大なデータが発生しています。現代の地球システムモデル（ESM）も同様の課題に直面しており、高い空間解像度と時間解像度で動作し、シミュレーション1日あたりペタバイト規模のデータを生成します。データ圧縮は過去10年間で重要性を増しており、深層学習と情報理論から生まれたニューラル圧縮（NC）により、EOデータとESM出力はラベルなしデータが豊富であるため理想的な候補となっています。本レビューでは、地理空間データに適用されるNCの最近の進展について概説します。NCの基本概念、特に画像・動画圧縮分野への従来の応用における先駆的な研究、特に非可逆圧縮に焦点を当てて紹介します。本稿では、EOデータとESMデータの固有の特性について考察し、「自然画像」と対比させ、それらがもたらす追加の課題と可能性について説明します。さらに、様々なEOモダリティにおけるNCの現在の応用をレビューし、 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2503.01505v2</guid>
+      <pubDate>Mon, 03 Mar 2025 13:19:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>GenPilot：画像生成におけるテスト時プロンプト最適化のためのマルチエージェントシステム
+</title>
+      <link>http://arxiv.org/abs/2510.07217v1</link>
+      <description>テキストから画像への合成は目覚ましい進歩を遂げてきましたが、複雑で長いプロンプトを正確に解釈することは依然として困難であり、意味の不一致や詳細の欠落につながることがよくあります。ファインチューニングなどの既存のソリューションはモデル固有であり、トレーニングが必要です。一方、従来の自動プロンプト最適化（APO）アプローチは、通常、体系的なエラー分析と改良戦略を欠いており、信頼性と有効性が限られています。一方、テスト時のスケーリング手法は、固定されたプロンプトとノイズまたはサンプル数に基づいて動作するため、解釈可能性と適応性が制限されます。これらの問題を解決するために、入力テキストに直接作用する柔軟で効率的なテスト時プロンプト最適化戦略を導入します。エラー分析、クラスタリングベースの適応型探索、細粒度検証、反復最適化のためのメモリモジュールを統合した、プラグアンドプレイ型のマルチエージェントシステム「GenPilot」を提案します。このアプローチはモデルに依存せず、解釈可能であり、長くて複雑なプロンプトの処理に適しています。同時に、一般的なエラーパターンと改良戦略をまとめ、より多くの経験を (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.07217v1</guid>
+      <pubDate>Wed, 08 Oct 2025 16:51:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>規制とイノベーションの誤った選択について。研究と教育における人工知能の責任ある活用を通じた規制のためのアイデア
+[スペイン語版]</title>
+      <link>http://arxiv.org/abs/2510.07268v1</link>
+      <description>この短いエッセイは、2025年7月4日に開催されたAIHUB（CSIC）とEduCaixaサマースクールの討論会で著者が提示した回答を再構成したものです。この討論会は、Marta Garcia-Matos氏とLissette Lemus氏が主催し、Albert Sabater氏（OEIAC、学部長）がコーディネートし、Vanina Martinez-Posse氏（IIIA-CSIC）、Eulalia Soler氏（Eurecat）、Pompeu Casanovas氏（IIIA-CSIC）が参加しました。
+Albert Sabater氏は3つの疑問を提起しました。(1) 規制枠組みは、規制とイノベーションという誤った二分法に陥ることなく、AI開発における基本的権利（プライバシー、差別禁止、自律性など）の保護をどのように優先できるでしょうか？ (2) AIのリスク（偏見、大規模監視、情報操作）を踏まえ、中国や米国などの競争圧力に屈することなく、収益性よりも公共の利益を優先し、責任あるイノベーションを促進することが可能であることを実証した規制や政策の例は何か？ (3) 米国が柔軟性を優先する (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.07268v1</guid>
+      <pubDate>Wed, 08 Oct 2025 17:33:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>AppleCiDEr II: SpectraNet - 分光データのためのディープラーニングネットワーク
+</title>
+      <link>http://arxiv.org/abs/2510.07215v2</link>
+      <description>Zwicky Transient Facility (ZTF) などの時間領域調査は、過渡現象の発見と特性評価における新たな領域を開拓しました。測光曲線は広範囲の時間的範囲をカバーしますが、分光観測は物理的な解釈と発生源の分類に依然として不可欠です。しかし、既存のスペクトル解析手法（多くの場合、テンプレートフィッティングやパラメトリックモデルに依存しています）は、このような発生源の複雑で変化するスペクトル特性を捉える能力に限界があり、場合によっては低解像度でしか得られません。本研究では、過渡現象から光スペクトルの堅牢な表現を学習するように設計された深層畳み込みニューラルネットワークであるSpectraNetを紹介します。このモデルは、マルチスケール畳み込みカーネルとマルチスケールプーリングを組み合わせることで、前処理されたスペクトルから階層的かつ解釈可能な方法で特徴を抽出します。 SpectraNetをスペクトルエネルギー分布装置（SEDM）やその他の機器から得られた低解像度の時系列スペクトルで学習・検証し、分類において最先端の性能を発揮することを実証しました。さらに、赤方偏移予測タス (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.07215v2</guid>
+      <pubDate>Wed, 08 Oct 2025 16:49:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

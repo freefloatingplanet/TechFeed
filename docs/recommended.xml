@@ -7,29 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Oct 2025 13:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 01:15:12 +0000</lastBuildDate>
     <item>
-      <title>「生成AIでサクッと！」というわけには行かなかったCoffeeScript → TypeScriptへの置き換え - エムスリーテックブログ</title>
-      <link>https://www.m3tech.blog/entry/2025/10/09/100000</link>
-      <description>本記事は、コンシューマーチームブログリレー 3日目です。 はじめまして。エンジニアグループ、コンシューマーチームの松本と申します。 本記事では、社内で開発・利用している内部ツールのフロントエンドを CoffeeScript + Backbone.js の構成から TypeScript + React の構成に置き換えた時の知見を共有できればと思い... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/10/09/100000</guid>
-      <pubDate>Thu, 09 Oct 2025 01:22:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Required&lt;Partial&lt;A&gt;&gt;とAって、どんなAでも同じ型になるの??</title>
-      <link>https://zenn.dev/y_ta/articles/required-partial-equals-a</link>
+      <title>Python 3.14 で追加された t-strings って何？</title>
+      <link>https://qiita.com/QUANON/items/ad474a884b3259315a29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-Partial&lt;T&gt;はTの各キーをオプショナルにする型、Required&lt;T&gt;はオプショナルを除去してすべてのプロパティを必須にする型です。つまり、Required&lt;Partial&lt;A&gt;&gt;は一見すると、元のAと同じになるように思えます。しかし、これは必ずしもなりたたず、例外パターンが存在します。
+僕は普段 Ruby を書いており、趣味でたまに Python を嗜む程度のプログラマです。今回、知らない間に t-strings という聞き慣れない機能が追加されていたので調べてみました。
 
- オプショナル（プロパティ）とは
-そもそもオプショナルとはどのような状態かおさらいしましょう。
-次のようなAを考えます。
-type A = ｛ z?: string ｝
-
-const a1: A = {}; //OK
-const a... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/y_ta/articles/required-partial-equals-a</guid>
-      <pubDate>Tue, 07 Oct 2025 11:17:08 +0000</pubDate>
+Python 3.14 で導入された t-strings
+2025/1... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/QUANON/items/ad474a884b3259315a29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 09 Oct 2025 00:07:20 +0000</pubDate>
     </item>
     <item>
       <title>SESにおける面談対策について</title>
@@ -53,25 +41,11 @@ WPFでUIを開発するとき、MVVMパターンは今やデファクトスタ�
       <pubDate>Wed, 08 Oct 2025 23:09:40 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】「個人がデータを所有する」という古くて新しい発想が再び脚光を浴びている</title>
-      <link>https://techfeed.io/entries/68e43bec5958215c177794a4?from=rss</link>
-      <description>10月6日、Muni Blogで公開された「Personal data storage is an idea whose time has come」と題したブログ記事が海外で注目を集めている。この記事では、ウェブ上における「個人データストレージ（Personal Data Storage）」という概念が、再び注目を集めている背景と、その思想的ルーツ、さらにSolidやAT Protocolといった最新の取り組みを通じて、どのように実現されつつあるのかが詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68e43bec5958215c177794a4?from=rss</guid>
-      <pubDate>Mon, 06 Oct 2025 22:00:12 +0000</pubDate>
-    </item>
-    <item>
       <title>Python 3.14リリース！Free-threaded Pythonがついに正式サポート、ほか改善点多数</title>
       <link>https://techfeed.io/entries/68e5843f4e4bdf6cdc615403?from=rss</link>
       <description>10月8日、Python 3.14.0がリリースされた。この記事では、Python 3.14の正式リリースと、その主要な新機能や変更点について詳しく紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68e5843f4e4bdf6cdc615403?from=rss</guid>
       <pubDate>Tue, 07 Oct 2025 21:21:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLM×強化学習の新しいパラダイム: Agentic RLの研究紹介</title>
-      <link>https://zenn.dev/kuto5046/articles/agentic_rl_2025</link>
-      <description>はじめに 本記事では、LLM研究で注目を集めるエージェント型強化学習（Agentic Reinforcement Learning、Agentic RL）のサーベイ論文 「The Landscape of Agentic Reinforcement Learning for LLMs: A Survey」[1]を読み、私なりの理解と要点を整理して紹介します。500件以上の文献を引用するボリュームのある論文ですが... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/kuto5046/articles/agentic_rl_2025</guid>
-      <pubDate>Thu, 09 Oct 2025 05:50:45 +0000</pubDate>
     </item>
     <item>
       <title>React Foundationが設立 — Metaから独立した理事会による運営、技術的な意思決定は開発者に任せる理想的なガバナンスモデルを目指す</title>
@@ -97,6 +71,27 @@ Linuxを用いたシステム開発を行っていると、カーネルの挙動
 https://zenn.dev/turing_mot... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/fdfb70b7a9d90b</guid>
       <pubDate>Mon, 06 Oct 2025 08:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】Python 3.14は本当に速いのか？を検証してみた</title>
+      <link>https://techfeed.io/entries/68e82cdcb335ef5804974e8c?from=rss</link>
+      <description>10月9日、Miguel Grinbergが「Python 3.14 Is Here. How Fast Is It?」と題した記事を公開した。この記事では、最新のPython 3.14の実行速度を、過去バージョンやPyPy、Node.js、Rust、さらにCPythonのJIT版・フリースレッディング（GIL無効）版と比較する形で詳しく紹介している。以下に、その内容を紹介する。ベンチマーク概要今回のベンチマークは、以下の5つの軸で構成される。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/68e82cdcb335ef5804974e8c?from=rss</guid>
+      <pubDate>Thu, 09 Oct 2025 21:44:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Win11をローカルアカウントでセットアップする方法。Windows11 25H2以降対応版。Microsoftアカウントをバイパス | ニッチなPCゲーマーの環境構築Z</title>
+      <link>https://www.nichepcgamer.com/archives/windows11-local-account-oobe-setup.html</link>
+      <description>Windows11の初期セットアップ時(OOBE)、通常はMicrosoftアカウントの作成・サインインが求められます。しかし、Microsoftアカウントを使用せず、ローカルアカウントでWindows11を使用したい人もいらっしゃるでしょう。 本記事では、Microsoftアカウントの作成・サインインをバイパスして、ローカルアカウントでWindows11... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.nichepcgamer.com/archives/windows11-local-account-oobe-setup.html</guid>
+      <pubDate>Thu, 09 Oct 2025 21:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>RubyGems.orgのrootアカウントに元メンテナが不正アクセス — ゴタゴタが止まらないRuby Central、数百万人のRubyエンジニアへの影響を危惧</title>
+      <link>https://techfeed.io/entries/68e8287cb335ef5804974e3d?from=rss</link>
+      <description>10月10日、Ruby Centralが「Rubygems.org AWS Root Access Event – September 2025」と題した記事を公開した。この記事では、9月に発生したRubyGems.orgのAWS rootアカウント不正アクセス事件の概要と、その後の対応策について報告している。一方で、この事件はRuby Centralのガバナンス（運営体制）を巡る議論の最中に発生しており、コミュニティ内では両者の関連性を指摘する声も上がっている。以下、その経緯を整理する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/68e8287cb335ef5804974e3d?from=rss</guid>
+      <pubDate>Thu, 09 Oct 2025 21:26:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
