@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Oct 2025 01:15:12 +0000</lastBuildDate>
-    <item>
-      <title>Python 3.14 で追加された t-strings って何？</title>
-      <link>https://qiita.com/QUANON/items/ad474a884b3259315a29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-僕は普段 Ruby を書いており、趣味でたまに Python を嗜む程度のプログラマです。今回、知らない間に t-strings という聞き慣れない機能が追加されていたので調べてみました。
-
-Python 3.14 で導入された t-strings
-2025/1... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/QUANON/items/ad474a884b3259315a29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 09 Oct 2025 00:07:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Oct 2025 12:35:20 +0000</lastBuildDate>
     <item>
       <title>SESにおける面談対策について</title>
       <link>https://qiita.com/kosuke_shoji/items/30dcd80f3fad60ef18c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -41,6 +30,27 @@ WPFでUIを開発するとき、MVVMパターンは今やデファクトスタ�
       <pubDate>Wed, 08 Oct 2025 23:09:40 +0000</pubDate>
     </item>
     <item>
+      <title>NixOS + Kubernetesで構築する自宅サーバーのすべて</title>
+      <link>https://zenn.dev/ichi_h/articles/ff001e0005e33c</link>
+      <description>はじめに
+本記事では Kubernetes - NixOS Wiki の環境をベースに、おうち Kubernetes クラスターを構築することをテーマとしています。
+本記事の著者は、これまでインフラやネットワークといった領域にそこまで深く踏み込んだことがなく、そのあたりの技術力に少し不満があったため、勉強がてらに元々あった自宅サーバーの環境を刷新しつつ、ついでに NixOS + Kubernetes というロマンの塊のような技術スタックで作る自宅サーバーの簡単なガイドを作ってやろうという目的のもと執筆を行っています。
+そのため、本記事の半分は学習目的であり、NixOS やインフラに精... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ichi_h/articles/ff001e0005e33c</guid>
+      <pubDate>Thu, 09 Oct 2025 09:46:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLM×強化学習の新しいパラダイム: Agentic RLの研究紹介</title>
+      <link>https://zenn.dev/kuto5046/articles/agentic_rl_2025</link>
+      <description>はじめに
+本記事では、LLM研究で注目を集めるエージェント型強化学習（Agentic Reinforcement Learning、Agentic RL）のサーベイ論文
+「The Landscape of Agentic Reinforcement Learning for LLMs: A Survey」[1]を読み、私なりの理解と要点を整理して紹介します。500件以上の文献を引用するボリュームのある論文ですが、ここでは重要だと感じたトピックに絞って取り上げます。Agentic RLに興味がある方や、LLMに対する強化学習の最新動向を知りたい方の参考になれば幸いです。
+
+ 本記事の前... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kuto5046/articles/agentic_rl_2025</guid>
+      <pubDate>Wed, 08 Oct 2025 12:23:21 +0000</pubDate>
+    </item>
+    <item>
       <title>Python 3.14リリース！Free-threaded Pythonがついに正式サポート、ほか改善点多数</title>
       <link>https://techfeed.io/entries/68e5843f4e4bdf6cdc615403?from=rss</link>
       <description>10月8日、Python 3.14.0がリリースされた。この記事では、Python 3.14の正式リリースと、その主要な新機能や変更点について詳しく紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
@@ -60,17 +70,6 @@ WPFでUIを開発するとき、MVVMパターンは今やデファクトスタ�
       <description>10月9日、Boiling Steamが「CachyOS Keeps Spreading and Takes Second Place among Linux Distros」と題した記事を公開した。この記事では、ゲーミング用途でのLinuxディストリビューションの人気動向を分析し、急速に存在感を高める「CachyOS」がついに2位に浮上したことについて詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68e6da45ea54d052b6354cb7?from=rss</guid>
       <pubDate>Wed, 08 Oct 2025 21:40:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>全プロセスが一秒止まる不具合続編: カーネル内部で何が起きたか？</title>
-      <link>https://zenn.dev/turing_motors/articles/fdfb70b7a9d90b</link>
-      <description>はじめに
-完全自動運転の実現を目指すスタートアップ「チューリング」でエンジニアをしています、鈴木勝博です。私が所属しているDrivingSystemチームでは、自動運転向けのシステム開発を担当しています。
-Linuxを用いたシステム開発を行っていると、カーネルの挙動、周辺デバイスとの組み合わせ等によって、思いがけない問題に遭遇することが少なくありません。この記事では、実際にシステム開発中に遭遇した「再現が難しく、原因の切り分けに時間を要した問題」について深堀りしてご紹介します。
-概要編はこちらのテックブログにてご紹介しています。
-https://zenn.dev/turing_mot... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/fdfb70b7a9d90b</guid>
-      <pubDate>Mon, 06 Oct 2025 08:00:01 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Python 3.14は本当に速いのか？を検証してみた</title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Oct 2025 01:15:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 12:35:27 +0000</lastBuildDate>
     <item>
       <title>アークエッジ・スペース、JAXA「低軌道測位衛星システムの要素技術及び関連するシステムの検討」の事業者に選定</title>
       <link>https://sorae.info/space/20251007-arkedgespace.html</link>
@@ -37,18 +37,18 @@
       <pubDate>Mon, 06 Oct 2025 02:23:37 +0000</pubDate>
     </item>
     <item>
-      <title>NECビジュアルインテリジェンス研究所が挑む、SAR×AI×LLMが切り拓く衛星ソリューションの新境地</title>
-      <link>https://sorabatake.jp/42452/</link>
-      <description>NECが取り組んでいるSAR画像解析AIや、そこに大規模言語モデル（LLM）を組み合わせる先進的な取り組みについて、現時点でできていること、そして未来の展望を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/42452/</guid>
-      <pubDate>Wed, 24 Sep 2025 23:00:02 +0000</pubDate>
-    </item>
-    <item>
       <title>スペースX、米宇宙軍の2027年打ち上げの大半を獲得–総額1000億円を契約</title>
       <link>https://uchubiz.com/article/new66518/</link>
       <description>米宇宙システム軍団（SSC）は10月初旬、米Space Exploration Technologies（SpaceX、スペースX）に5件の打ち上げを発注した。米メディアPayloadが報じている。 　「国家安全保障宇 […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new66518/</guid>
       <pubDate>Tue, 07 Oct 2025 04:44:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>NECビジュアルインテリジェンス研究所が挑む、SAR×AI×LLMが切り拓く衛星ソリューションの新境地</title>
+      <link>https://sorabatake.jp/42452/</link>
+      <description>NECが取り組んでいるSAR画像解析AIや、そこに大規模言語モデル（LLM）を組み合わせる先進的な取り組みについて、現時点でできていること、そして未来の展望を伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/42452/</guid>
+      <pubDate>Wed, 24 Sep 2025 23:00:02 +0000</pubDate>
     </item>
     <item>
       <title>BlackSky、ICEYEも参加！ デジタルツイン「Project Orbion」とは～AIが地球全体をリアルタイムで把握する時代へ～【宇宙ビジネスニュース】</title>
@@ -58,18 +58,18 @@
       <pubDate>Sun, 05 Oct 2025 23:02:10 +0000</pubDate>
     </item>
     <item>
+      <title>スターシップ、10月14日に11回目の打ち上げへ–ブースターを発射台に移動</title>
+      <link>https://uchubiz.com/article/new66657/</link>
+      <description>米Space Exploration Technologies（SpaceX、スペースX）の巨大ブースター「Super Heavy」（スーパーヘビー）が米国時間10月8日、南テキサスの射場「Starbase」（スターベ […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new66657/</guid>
+      <pubDate>Fri, 10 Oct 2025 04:40:35 +0000</pubDate>
+    </item>
+    <item>
       <title>NASAとシエラ・スペースが「ドリームチェイサー」によるISS補給ミッションの契約変更を発表</title>
       <link>https://sorae.info/space/20250930-dream-chaser.html</link>
       <description>NASA＝アメリカ航空宇宙局とアメリカ企業Sierra Space（シエラ・スペース）は2025年9月25日付で、Sierra Spaceが開発中のスペースプレーン（宇宙往還機）「Dream Chaser（ドリームチェイ… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20250930-dream-chaser.html</guid>
       <pubDate>Tue, 30 Sep 2025 11:14:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>BULL、インドの衛星会社と宇宙デブリ発生防止に向けたMoU締結</title>
-      <link>https://uchubiz.com/article/new66446/</link>
-      <description>BULL（栃木県宇都宮市）は10月3日、インドのXDLINX Space Labsと、衛星ミッションにおける宇宙デブリ発生防止技術の検証・実装と戦略的連携について覚書（MoU）を締結したと発表した。 　宇宙デブリ発生防 […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new66446/</guid>
-      <pubDate>Fri, 03 Oct 2025 09:22:05 +0000</pubDate>
     </item>
     <item>
       <title>宇宙デブリ化防止装置「HORN」を開発するBULLが、IAC期間にArianespaceとXDLINX Space Labsとのそれぞれの進捗を発表【宇宙ビジネスニュース】</title>
