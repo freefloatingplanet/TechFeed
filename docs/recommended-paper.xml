@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Oct 2025 13:07:38 +0000</lastBuildDate>
-    <item>
-      <title>SciVideoBench: 大規模マルチモーダルモデルにおける科学的ビデオ推論のベンチマーク</title>
-      <link>http://arxiv.org/abs/2510.08559v1</link>
-      <description>大規模マルチモーダルモデル（LMM）は、様々な機能において目覚ましい進歩を遂げてきましたが、科学分野における複雑なビデオ推論は、依然として重要かつ困難な最先端分野です。現在のビデオベンチマークは、主に知覚／認識に大きく依存する一般的なシナリオを対象としており、比較的単純な推論タスクでは飽和状態に陥り、高度なマルチモーダル認知スキルを効果的に評価できていません。この重大なギャップを埋めるために、私たちは科学的文脈における高度なビデオ推論を評価するために特別に設計された厳密なベンチマークであるSciVideoBenchを導入します。SciVideoBenchは、25を超える専門分野にわたる最先端の科学実験ビデオから抽出され、半自動システムによって検証された、慎重に作成された1,000の多肢選択式問題で構成されています。各問題は、高度な分野固有の知識、正確な時空間知覚、複雑な論理的推論を必要とし、モデルの高次認知能力に効果的に挑戦します。私たちの評価では、Gemini 2.5 ProやQwen2.5-VLを含む最先端の独自開発およびオープンソースLMMにおけるパフォーマンスの著しい欠陥が明ら (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.08559v1</guid>
-      <pubDate>Thu, 09 Oct 2025 17:59:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Oct 2025 01:12:17 +0000</lastBuildDate>
     <item>
       <title>AutoMLGen: コーディングエージェントのためのきめ細かな最適化の実現</title>
       <link>http://arxiv.org/abs/2510.08511v1</link>

@@ -7,37 +7,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Oct 2025 13:07:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 01:12:10 +0000</lastBuildDate>
     <item>
-      <title>SESにおける面談対策について</title>
-      <link>https://qiita.com/kosuke_shoji/items/30dcd80f3fad60ef18c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>◆はじめに
-SESにとって案件への参画は重要なことになります。
-面談を成功させるために案件情報の事前調査と自己分析、そして質問対策(模擬面談ある場合も。。)、逆質問の準備が重要です。
-今回は、面談がちょっと苦手です💦って人向けに書いていきたいと思います。
-
-◆案件情報の事... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/kosuke_shoji/items/30dcd80f3fad60ef18c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 08 Oct 2025 08:48:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>WPFのMVVM、「理想」と「現実」のギャップを埋めるハイブリッド設計</title>
-      <link>https://qiita.com/NeoPotato/items/b8a722e6bd905fcc1b81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに：MVVMの理想と、現場で直面する「つらさ」
-WPFでUIを開発するとき、MVVMパターンは今やデファクトスタンダードですよね。ViewModelはViewを知らず、テストが容易で、関心の分離が美しい...。理想は素晴らしいものです。
-しかし、現場で実装していると... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/NeoPotato/items/b8a722e6bd905fcc1b81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 08 Oct 2025 23:09:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>NixOS + Kubernetesで構築する自宅サーバーのすべて</title>
-      <link>https://zenn.dev/ichi_h/articles/ff001e0005e33c</link>
+      <title>Androidの通知音の設定を自動化したかっただけなのに、OSのバグとか見つけた話</title>
+      <link>https://zenn.dev/fairydevices/articles/67e2a780995fef</link>
       <description>はじめに
-本記事では Kubernetes - NixOS Wiki の環境をベースに、おうち Kubernetes クラスターを構築することをテーマとしています。
-本記事の著者は、これまでインフラやネットワークといった領域にそこまで深く踏み込んだことがなく、そのあたりの技術力に少し不満があったため、勉強がてらに元々あった自宅サーバーの環境を刷新しつつ、ついでに NixOS + Kubernetes というロマンの塊のような技術スタックで作る自宅サーバーの簡単なガイドを作ってやろうという目的のもと執筆を行っています。
-そのため、本記事の半分は学習目的であり、NixOS やインフラに精... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ichi_h/articles/ff001e0005e33c</guid>
-      <pubDate>Thu, 09 Oct 2025 09:46:38 +0000</pubDate>
+Fairy Devices株式会社のKabochaです。
+Androidには、デフォルトで設定されている通知音があります。
+これは設定アプリから、プリセットされているものや、ユーザーが任意に追加したoggファイルを通知音として設定できます。
+Android公式の設定方法の記事
+今回は、この通知音を大量の端末で一括設定するケースを考慮し、調査した話をします。
+
+ この記事を読んでほしい方
+
+「何十台もの業務用端末に、同じ通知音を手作業で設定するのが大変…」と感じている開発者やIT担当者の方
+Androidのシステム設定がどのように動いているのか、その仕組みやAOSPのソースコ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/fairydevices/articles/67e2a780995fef</guid>
+      <pubDate>Fri, 10 Oct 2025 00:42:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>TypeScriptで書いたLambda関数をtscなしでCDKデプロイする備忘録</title>
+      <link>https://qiita.com/1998_i-airi/items/ffb8e0f11adc99fa306b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>◾️ はじめに
+　CDKを用いてインフラ環境を構築しているのですが、従来はtscでコンパイルしてdistに出力したJSを lambda.Functionでデプロイしていました。
+しかし、CDKのNodejsFunctionを使用すれば、tsc不要でTypeScriptをそ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/1998_i-airi/items/ffb8e0f11adc99fa306b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 10 Oct 2025 03:16:13 +0000</pubDate>
     </item>
     <item>
       <title>LLM×強化学習の新しいパラダイム: Agentic RLの研究紹介</title>
@@ -70,6 +65,19 @@ WPFでUIを開発するとき、MVVMパターンは今やデファクトスタ�
       <description>10月9日、Boiling Steamが「CachyOS Keeps Spreading and Takes Second Place among Linux Distros」と題した記事を公開した。この記事では、ゲーミング用途でのLinuxディストリビューションの人気動向を分析し、急速に存在感を高める「CachyOS」がついに2位に浮上したことについて詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68e6da45ea54d052b6354cb7?from=rss</guid>
       <pubDate>Wed, 08 Oct 2025 21:40:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AWS構成設計】ElastiCacheを含む3パターンのWebサイト構成を設計してみた</title>
+      <link>https://qiita.com/toyooka_yuga/items/7b8877fc543982067d52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>【AWS構成設計】AWS初心者がElastiCacheを含む3パターンのWebサイト構成を設計してみた
+
+はじめに
+本記事では、AWS上でWebサイト構成を設計した際の検討内容と学びをまとめます。
+実際の構築ではなく、構成設計のみを行った段階での内容です。
+
+基本構成の... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/toyooka_yuga/items/7b8877fc543982067d52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 08 Oct 2025 06:05:46 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Python 3.14は本当に速いのか？を検証してみた</title>
