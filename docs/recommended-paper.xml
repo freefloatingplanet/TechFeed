@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Oct 2025 01:18:26 +0000</lastBuildDate>
-    <item>
-      <title>AutoMLGen: コーディングエージェントのためのきめ細かな最適化の実現</title>
-      <link>http://arxiv.org/abs/2510.08511v1</link>
-      <description>大規模言語モデル（LLM）は、一般的なプログラミングタスクにおいて優れた性能を示しています。しかし、AutoMLやKaggleコンペティションなどの機械学習エンジニアリング（MLE）のシナリオでは、高い性能を達成するには、単に正しいコードを生成するだけでなく、専門家の介入と繰り返しの調整に大きく依存します。これらのタスクに直接適用した場合、LLMは細粒度のドメイン事前分布を欠いていることが多く、線形またはツリー構造の探索を使用する既存のMLEアプローチでは、隣接する階層リンクへの知識の伝達が制限されます。その結果、過去の完全な軌跡を活用したり、ブランチ間で情報を共有したりすることができず、自己進化能力と探索空間の多様性が制限されます。これらの制限に対処するために、我々は、高品質の事前ガイダンスのためのドメイン知識ベースと効率的な探索のためのモンテカルログラフ探索（MCGS）を統合したLLMベースのコーディングエージェントであるAutoMLGenを紹介します。 MCGSは、MCTSのツリーガイド探索を維持しながら、グラフ構造を拡張ステージに組み込むことで、動的なパス再編成、履歴軌道の再利 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.08511v1</guid>
-      <pubDate>Thu, 09 Oct 2025 17:45:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Oct 2025 12:31:12 +0000</lastBuildDate>
     <item>
       <title>外傷性脳損傷に対する AI 駆動型放射線レポート生成</title>
       <link>http://arxiv.org/abs/2510.08498v1</link>

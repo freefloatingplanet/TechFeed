@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Oct 2025 01:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 12:31:10 +0000</lastBuildDate>
     <item>
       <title>アークエッジ・スペース、JAXA「低軌道測位衛星システムの要素技術及び関連するシステムの検討」の事業者に選定</title>
       <link>https://sorae.info/space/20251007-arkedgespace.html</link>
@@ -58,18 +58,18 @@
       <pubDate>Wed, 24 Sep 2025 23:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>BlackSky、ICEYEも参加！ デジタルツイン「Project Orbion」とは～AIが地球全体をリアルタイムで把握する時代へ～【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/42579/</link>
-      <description>2025年9月8日、安全保障向けの地理空間シミュレーションを開発するAechelon Technologyが地球観測衛星×AIによる地球全体のデジタルツインを構築する「Project Orbion」を発表。ICEYEやBlack Skyといった小型衛星コンステレーション構築におけるリードランナーも参加しています。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/42579/</guid>
-      <pubDate>Sun, 05 Oct 2025 23:02:10 +0000</pubDate>
-    </item>
-    <item>
       <title>スターシップ、10月14日に11回目の打ち上げへ–ブースターを発射台に移動</title>
       <link>https://uchubiz.com/article/new66657/</link>
       <description>米Space Exploration Technologies（SpaceX、スペースX）の巨大ブースター「Super Heavy」（スーパーヘビー）が米国時間10月8日、南テキサスの射場「Starbase」（スターベ […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new66657/</guid>
       <pubDate>Fri, 10 Oct 2025 04:40:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>BlackSky、ICEYEも参加！ デジタルツイン「Project Orbion」とは～AIが地球全体をリアルタイムで把握する時代へ～【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/42579/</link>
+      <description>2025年9月8日、安全保障向けの地理空間シミュレーションを開発するAechelon Technologyが地球観測衛星×AIによる地球全体のデジタルツインを構築する「Project Orbion」を発表。ICEYEやBlack Skyといった小型衛星コンステレーション構築におけるリードランナーも参加しています。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/42579/</guid>
+      <pubDate>Sun, 05 Oct 2025 23:02:10 +0000</pubDate>
     </item>
     <item>
       <title>宇宙デブリ化防止装置「HORN」を開発するBULLが、IAC期間にArianespaceとXDLINX Space Labsとのそれぞれの進捗を発表【宇宙ビジネスニュース】</title>
