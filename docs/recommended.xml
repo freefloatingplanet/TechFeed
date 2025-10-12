@@ -7,17 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Oct 2025 12:59:43 +0000</lastBuildDate>
-    <item>
-      <title>NixOS + Kubernetesで構築する自宅サーバーのすべて</title>
-      <link>https://zenn.dev/ichi_h/articles/ff001e0005e33c</link>
-      <description>はじめに
-本記事では Kubernetes - NixOS Wiki の環境をベースに、おうち Kubernetes クラスターを構築することをテーマとしています。
-本記事の著者は、これまでインフラやネットワークといった領域にそこまで深く踏み込んだことがなく、そのあたりの技術力に少し不満があったため、勉強がてらに元々あった自宅サーバーの環境を刷新しつつ、ついでに NixOS + Kubernetes というロマンの塊のような技術スタックで作る自宅サーバーの簡単なガイドを作ってやろうという目的のもと執筆を行っています。
-そのため、本記事の半分は学習目的であり、NixOS やインフラに精... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ichi_h/articles/ff001e0005e33c</guid>
-      <pubDate>Thu, 09 Oct 2025 09:46:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Oct 2025 01:18:19 +0000</lastBuildDate>
     <item>
       <title>Androidの通知音の設定を自動化したかっただけなのに、OSのバグとか見つけた話</title>
       <link>https://zenn.dev/fairydevices/articles/67e2a780995fef</link>
@@ -34,6 +24,17 @@ Android公式の設定方法の記事
 Androidのシステム設定がどのように動いているのか、その仕組みやAOSPのソースコ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/fairydevices/articles/67e2a780995fef</guid>
       <pubDate>Fri, 10 Oct 2025 00:42:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>日刊IETF (2025-10-10)</title>
+      <link>https://qiita.com/tetsuko_room/items/3eab5dbaeb31f633a367?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>こんにちは、GMOコネクトの名もなきエンジニアです。
+よろしくお願いします！
+本日の分に追いつきましたっ！
+日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！
+今回は、2025-10-10（UT... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/tetsuko_room/items/3eab5dbaeb31f633a367?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 11 Oct 2025 09:39:11 +0000</pubDate>
     </item>
     <item>
       <title>TypeScriptで書いたLambda関数をtscなしでCDKデプロイする備忘録</title>
@@ -56,17 +57,6 @@ NL2SQLとは
 登... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/yakumo_09/items/7bf7511b1fddcd4c1d91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Fri, 10 Oct 2025 21:51:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLM×強化学習の新しいパラダイム: Agentic RLの研究紹介</title>
-      <link>https://zenn.dev/kuto5046/articles/agentic_rl_2025</link>
-      <description>はじめに
-本記事では、LLM研究で注目を集めるエージェント型強化学習（Agentic Reinforcement Learning、Agentic RL）のサーベイ論文
-「The Landscape of Agentic Reinforcement Learning for LLMs: A Survey」[1]を読み、私なりの理解と要点を整理して紹介します。500件以上の文献を引用するボリュームのある論文ですが、ここでは重要だと感じたトピックに絞って取り上げます。Agentic RLに興味がある方や、LLMに対する強化学習の最新動向を知りたい方の参考になれば幸いです。
-
- 本記事の前... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kuto5046/articles/agentic_rl_2025</guid>
-      <pubDate>Wed, 08 Oct 2025 12:23:21 +0000</pubDate>
     </item>
     <item>
       <title>Python 3.14リリース！Free-threaded Pythonがついに正式サポート、ほか改善点多数</title>
@@ -95,6 +85,16 @@ NL2SQLとは
       <description>10月9日、Miguel Grinbergが「Python 3.14 Is Here. How Fast Is It?」と題した記事を公開した。この記事では、最新のPython 3.14の実行速度を、過去バージョンやPyPy、Node.js、Rust、さらにCPythonのJIT版・フリースレッディング（GIL無効）版と比較する形で詳しく紹介している。以下に、その内容を紹介する。ベンチマーク概要今回のベンチマークは、以下の5つの軸で構成される。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68e82cdcb335ef5804974e8c?from=rss</guid>
       <pubDate>Thu, 09 Oct 2025 21:44:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>図解で理解するWebの仕組み - インターネット・HTTP・ブラウザの全体像</title>
+      <link>https://qiita.com/ktdatascience/items/bcf6b873d2d94b48f67b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+普段何気なく使っているWebサイトやアプリケーション。その裏側では、どのような仕組みで情報がやり取りされているのでしょうか。
+この記事では、Web初学者の方を対象に、インターネットの基礎からWebの仕組み、ブラウザの役割まで、できるだけ分かりやすく解説します。
+... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/ktdatascience/items/bcf6b873d2d94b48f67b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 11 Oct 2025 02:20:45 +0000</pubDate>
     </item>
     <item>
       <title>RubyGems.orgのrootアカウントに元メンテナが不正アクセス — ゴタゴタが止まらないRuby Central、数百万人のRubyエンジニアへの影響を危惧</title>
