@@ -7,7 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Oct 2025 12:31:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 13:00:15 +0000</lastBuildDate>
+    <item>
+      <title>Androidの通知音の設定を自動化したかっただけなのに、OSのバグとか見つけた話</title>
+      <link>https://zenn.dev/fairydevices/articles/67e2a780995fef</link>
+      <description>はじめに
+Fairy Devices株式会社のKabochaです。
+Androidには、デフォルトで設定されている通知音があります。
+これは設定アプリから、プリセットされているものや、ユーザーが任意に追加したoggファイルを通知音として設定できます。
+Android公式の設定方法の記事
+今回は、この通知音を大量の端末で一括設定するケースを考慮し、調査した話をします。
+
+ この記事を読んでほしい方
+
+「何十台もの業務用端末に、同じ通知音を手作業で設定するのが大変…」と感じている開発者やIT担当者の方
+Androidのシステム設定がどのように動いているのか、その仕組みやAOSPのソースコ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/fairydevices/articles/67e2a780995fef</guid>
+      <pubDate>Fri, 10 Oct 2025 00:42:51 +0000</pubDate>
+    </item>
     <item>
       <title>日刊IETF (2025-10-10)</title>
       <link>https://qiita.com/tetsuko_room/items/3eab5dbaeb31f633a367?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -38,21 +55,6 @@ NL2SQLとは
       <description>10月8日、Python 3.14.0がリリースされた。この記事では、Python 3.14の正式リリースと、その主要な新機能や変更点について詳しく紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68e5843f4e4bdf6cdc615403?from=rss</guid>
       <pubDate>Tue, 07 Oct 2025 21:21:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>データベースの行ロックをちゃんと理解する（PostgreSQL, MySQL）</title>
-      <link>https://zenn.dev/moepyxxx/articles/d1af9fe80fde6c</link>
-      <description>はじめに
-先日データのロックに関わる実装の方針に携わりましたが、思ったよりもロックについて知らない自分に気づきました。
-データベースを考えるうえで、ロックとは長く付き合っていかなければならないものなので、今回を機に改めて学び直してみました。
-今回はデータベースにおけるロックの中でも、行ロックに焦点を当てています。
-また、実際の Ruby on Rails の内部実装にも焦点を当て、Ruby on Rails がどのように行ロックを実現しているかもおまけ的に記述しました。
-この記事は少々長いですが、以下の順番に記載しています。
-
-基本の概念
-PostgreSQL, MySQL における... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/moepyxxx/articles/d1af9fe80fde6c</guid>
-      <pubDate>Sun, 12 Oct 2025 02:13:02 +0000</pubDate>
     </item>
     <item>
       <title>React Foundationが設立 — Metaから独立した理事会による運営、技術的な意思決定は開発者に任せる理想的なガバナンスモデルを目指す</title>
