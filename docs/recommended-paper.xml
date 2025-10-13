@@ -7,21 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Oct 2025 13:00:22 +0000</lastBuildDate>
-    <item>
-      <title>外傷性脳損傷に対する AI 駆動型放射線レポート生成</title>
-      <link>http://arxiv.org/abs/2510.08498v1</link>
-      <description>外傷性脳損傷は、救急医療において重大な診断上の課題を提示します。救急医療においては、医用画像のタイムリーな解釈が患者の転帰に極めて重要です。本論文では、頭蓋外傷症例に合わせた自動放射線レポート生成のための、AIベースの新しいアプローチを提案します。本モデルは、CTスキャンやMRIスキャンなどの複雑な医用画像データを取得および処理するために、AC-BiFPNとTransformerアーキテクチャを統合しています。AC-BiFPNはマルチスケールの特徴を抽出し、頭蓋内出血などの複雑な異常の検出を可能にします。一方、Transformerは長距離依存関係をモデル化することで、一貫性があり文脈的に関連性の高い診断レポートを生成します。本モデルの性能をRSNA頭蓋内出血検出データセットで評価したところ、診断精度とレポート生成の両方において、従来のCNNベースモデルを上回る性能を示しました。このソリューションは、プレッシャーのかかる環境で働く放射線科医をサポートするだけでなく、研修医にとって強力な教育ツールとなり、リアルタイムのフィードバックを提供し、学習体験を向上させます。私たちの研究結果は、高 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.08498v1</guid>
-      <pubDate>Thu, 09 Oct 2025 17:39:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>初期経験によるエージェント学習</title>
-      <link>http://arxiv.org/abs/2510.08558v1</link>
-      <description>言語エージェントの長期的な目標は、自身の経験を通して学習・向上し、最終的には複雑な現実世界のタスクにおいて人間を上回ることです。
-しかし、強化学習を用いて経験データからエージェントを訓練することは、検証可能な報酬がない環境（例：ウェブサイト）や、非効率的な長期的展開（例：複数ターンのツール使用）を必要とする環境など、多くの環境では依然として困難です。その結果、現在のエージェントのほとんどは、拡張性が難しく、汎化能力も低いエキスパートデータを用いた教師あり微調整に依存しています。この限界は、エキスパートデモンストレーションの性質に起因しています。エキスパートデモンストレーションでは、狭い範囲のシナリオしか捉えられず、エージェントは限られた環境多様性にさらされます。私たちは、初期経験と呼ばれる中間的なパラダイムによってこの限界に対処します。初期経験とは、エージェント自身の行動によって生成されるインタラクションデータであり、結果として得られる未来の状態は報酬信号なしの教師データとして機能します。このパラダイムにおいて、我々はそのようなデータを利用する2つの戦略を研究する。(1) 暗黙的世界モ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.08558v1</guid>
-      <pubDate>Thu, 09 Oct 2025 17:59:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Oct 2025 01:20:12 +0000</lastBuildDate>
   </channel>
 </rss>
