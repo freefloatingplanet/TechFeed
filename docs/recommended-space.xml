@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Oct 2025 13:17:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 01:15:15 +0000</lastBuildDate>
     <item>
       <title>アークエッジ・スペース、JAXA「低軌道測位衛星システムの要素技術及び関連するシステムの検討」の事業者に選定</title>
       <link>https://sorae.info/space/20251007-arkedgespace.html</link>
@@ -16,11 +16,11 @@
       <pubDate>Tue, 07 Oct 2025 09:11:11 +0000</pubDate>
     </item>
     <item>
-      <title>すでに登録者数250名超！ 鹿児島県で九州宇宙ビジネスキャラバンが10月16日（木）に開催【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/42590/</link>
-      <description>2025年10月16日（木）、「九州宇宙ビジネスキャラバン 2025」が鹿児島県で開催されます。パネルディスカッションや豪華スピーカーによるKeynoteなど、その概要をご紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/42590/</guid>
-      <pubDate>Tue, 23 Sep 2025 23:00:46 +0000</pubDate>
+      <title>【顧客は数十億人規模のビジネス】通信、気象、基盤モデル、宇宙スーパーコンピューター……地球全体を巻き込む不可逆な変化をもたらす7つのテクノロジー</title>
+      <link>https://sorabatake.jp/42074/</link>
+      <description>数十億人規模の生活をより豊かに、また、数十億人規模のビジネスを生み出す可能性がある宇宙利用を7つまとめました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/42074/</guid>
+      <pubDate>Mon, 13 Oct 2025 23:01:38 +0000</pubDate>
     </item>
     <item>
       <title>エンタメ界から宇宙へ！田村淳さん発案の衛星放出成功が示す宇宙産業の新時代【宇宙ビジネスニュース】</title>
@@ -51,13 +51,6 @@
       <pubDate>Tue, 07 Oct 2025 04:44:12 +0000</pubDate>
     </item>
     <item>
-      <title>NECビジュアルインテリジェンス研究所が挑む、SAR×AI×LLMが切り拓く衛星ソリューションの新境地</title>
-      <link>https://sorabatake.jp/42452/</link>
-      <description>NECが取り組んでいるSAR画像解析AIや、そこに大規模言語モデル（LLM）を組み合わせる先進的な取り組みについて、現時点でできていること、そして未来の展望を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/42452/</guid>
-      <pubDate>Wed, 24 Sep 2025 23:00:02 +0000</pubDate>
-    </item>
-    <item>
       <title>スターシップ、10月14日に11回目の打ち上げへ–ブースターを発射台に移動</title>
       <link>https://uchubiz.com/article/new66657/</link>
       <description>米Space Exploration Technologies（SpaceX、スペースX）の巨大ブースター「Super Heavy」（スーパーヘビー）が米国時間10月8日、南テキサスの射場「Starbase」（スターベ […] (source: Uchubiz)</description>
@@ -70,6 +63,13 @@
       <description>2025年9月8日、安全保障向けの地理空間シミュレーションを開発するAechelon Technologyが地球観測衛星×AIによる地球全体のデジタルツインを構築する「Project Orbion」を発表。ICEYEやBlack Skyといった小型衛星コンステレーション構築におけるリードランナーも参加しています。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/42579/</guid>
       <pubDate>Sun, 05 Oct 2025 23:02:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>【速報】スターシップ、11回目の打ち上げ成功–現行バージョン最後の打ち上げ、より大型化へ</title>
+      <link>https://uchubiz.com/article/new66680/</link>
+      <description>Space Exploration Technologies Corporation（SpaceX、スペースX）は日本時間10月14日、次世代ロケット「Starship」（スターシップ）の11回目（Flight 11） […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new66680/</guid>
+      <pubDate>Tue, 14 Oct 2025 00:31:07 +0000</pubDate>
     </item>
     <item>
       <title>宇宙デブリ化防止装置「HORN」を開発するBULLが、IAC期間にArianespaceとXDLINX Space Labsとのそれぞれの進捗を発表【宇宙ビジネスニュース】</title>
