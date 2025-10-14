@@ -7,14 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Oct 2025 01:15:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 12:37:19 +0000</lastBuildDate>
     <item>
-      <title>GraphMERT: 信頼性の高い知識の効率的かつスケーラブルな抽出
-非構造化データからのグラフ</title>
-      <link>http://arxiv.org/abs/2510.09580v1</link>
-      <description>研究者たちは、ニューロシンボリック人工知能（AI）の応用を30年近く追求してきました。これは、シンボリック要素が抽象化を提供し、ニューラル要素が一般化を提供するためです。したがって、この2つの要素を組み合わせることで、AIは急速に進歩する可能性があります。しかし、ほとんどのニューロシンボリックAIフレームワークがスケーラビリティに欠けるため、この分野ではこの可能性が実現されていません。さらに、ニューラルアプローチの暗黙的な表現と近似推論は、解釈可能性と信頼性を制限します。明示的な意味知識のゴールドスタンダード表現である知識グラフ（KG）は、シンボリックな側面に対処できます。しかし、テキストコーパスから信頼性の高いKGを自動的に導出することは、未解決の問題のままです。私たちは、これらの課題に対処するために、GraphMERTを導入します。GraphMERTは、非構造化テキストコーパスと独自の内部表現から高品質のKGを抽出する、小型のグラフィカルエンコーダーのみのモデルです。GraphMERTと同等のKGは、モジュラーニューロシンボリックスタック、つまり抽象化のニューラル学習を形成します。 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.09580v1</guid>
-      <pubDate>Fri, 10 Oct 2025 17:36:14 +0000</pubDate>
+      <title>NV3D: 法線ベクトルベースの3Dオブジェクト検出による空間形状の活用
+</title>
+      <link>http://arxiv.org/abs/2510.11632v1</link>
+      <description>自動運転車における3D物体検出に関する最近の研究では、マルチモーダルセットアップの活用やLiDAR点群内の局所パターンの抽出を通じて特徴を豊かにすることを目指しています。しかし、マルチモーダル手法は特徴の位置合わせにおいて大きな課題に直面しており、複雑な3D物体検出タスクでは局所的な特徴の獲得が過度に単純化される可能性があります。本稿では、ボクセル近傍から取得した局所特徴を、K近傍法(KNN)と主成分分析(PCA)を用いてボクセルごとに計算された法線ベクトルとして利用する新しいモデルNV3Dを提案します。この有益な特徴により、NV3Dは表面と関連する対象物体（車、歩行者、自転車など）との関係を判定することができます。 NV3Dは、法線ベクトル抽出プロセスにおいて、法線ベクトル密度ベースのサンプリングとFOVを考慮したビンベースのサンプリングという2つの異なるサンプリング戦略を提供します。これにより、パフォーマンスを維持しながら最大55%のデータを削減できます。さらに、要素ごとのアテンションフュージョンを適用しました。これは、アテンションメカニズムと同様に、ボクセル特徴をクエリと値として (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.11632v1</guid>
+      <pubDate>Mon, 13 Oct 2025 17:13:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
