@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Oct 2025 12:37:14 +0000</lastBuildDate>
-    <item>
-      <title>【海外記事紹介】AIブームの後、私達に残されるものは何だろう？</title>
-      <link>https://techfeed.io/entries/68ed700cdfce9968cfc8e51f?from=rss</link>
-      <description>10月13日、Rob Bowley氏が「After the AI boom: what might we be left with?」と題した記事を公開した。この記事では、現在のAIブームが終息した場合に何が残るのか、そしてそれが過去のドットコム・バブルとどのように異なるのかについて詳しく論じられている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68ed700cdfce9968cfc8e51f?from=rss</guid>
-      <pubDate>Mon, 13 Oct 2025 21:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【React】「とりあえず切り出す」をやめる - カスタムフック設計で大事なこと</title>
-      <link>https://zenn.dev/uzu_tech/articles/12bb1dde240c5b</link>
-      <description>こんにちは!
-株式会社Sally エンジニアの haruten です♪
-私たち株式会社Sallyでは、マーダーミステリーをスマホやPCで遊べるアプリ「ウズ」や、マーダーミステリーを制作してウズ上で公開・プレイできるエディターツール「ウズスタジオ」などを開発・運営しています。
-https://sally-inc.jp/
-今回はReactのカスタムフックの設計について学び直す機会があったので、その備忘録です！
-
- はじめに
-カスタムフックは、Reactにおけるロジックの再利用を可能にする強力な機能です。
-しかし最近、とりあえずスパゲッティコードを切り出して分割するだけに利用していることに気づ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/uzu_tech/articles/12bb1dde240c5b</guid>
-      <pubDate>Mon, 13 Oct 2025 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Oct 2025 13:17:59 +0000</lastBuildDate>
     <item>
       <title>【2025年最新版】0からReactを勉強するならこのロードマップに従え！</title>
       <link>https://qiita.com/Sicut_study/items/6adaeb14abfe022e689c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -52,6 +30,15 @@ https://sally-inc.jp/
       <pubDate>Mon, 13 Oct 2025 10:12:46 +0000</pubDate>
     </item>
     <item>
+      <title>大規模計算時代におけるパラメータ推定自動化の歴史</title>
+      <link>https://zenn.dev/cybernetics/articles/083cb782b4099c</link>
+      <description>はじめに
+これはポエムに近い。ので、技術的にすぐ使える情報を求めている人には合わない。しかし、技術的な教養とか文化みたいなものを使って文章を楽しむ分には良い記事だと思う。
+テーマはタイトルの通りであるが、特にLLMのコンテキスト適応方法がハンドチューニングからオートマチック方面へ本格的に変わりつつある状況を思い浮かべてつけたタイトルだ。本記事のキーワードとしてはMIPROv2やGEPAなどの最近のプロンプト最適化手法から、コンテキスト適応自体をAgenticに実施するACEなどが挙げられる。これらの出現と、伝統的な機械学習、はたまた統計推論にまで遡り、計算機を利用したパラメータ調整技... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/cybernetics/articles/083cb782b4099c</guid>
+      <pubDate>Sun, 12 Oct 2025 10:41:01 +0000</pubDate>
+    </item>
+    <item>
       <title>OpenAIとBroadcomが戦略的提携、10ギガワット規模のカスタムAIアクセラレータを共同開発・展開</title>
       <link>https://techfeed.io/entries/68ed69c0b335ef58049847af?from=rss</link>
       <description>10月14日、OpenAI Blogで「OpenAIとBroadcomが、OpenAIが設計した10ギガワットのAIアクセラレータを展開するための戦略的提携を発表(OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators)」と題した記事が公開された。この記事では、OpenAIが自社設計によるAIアクセラレータをBroadcomと共同開発し、2026年後半から2029年末にかけて10ギガワット規模で展開する計画について詳しく紹介されている。以下に、その内容を簡潔にまとめて紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
@@ -71,6 +58,23 @@ https://sally-inc.jp/
       <description>10月9日、Miguel Grinbergが「Python 3.14 Is Here. How Fast Is It?」と題した記事を公開した。この記事では、最新のPython 3.14の実行速度を、過去バージョンやPyPy、Node.js、Rust、さらにCPythonのJIT版・フリースレッディング（GIL無効）版と比較する形で詳しく紹介している。以下に、その内容を紹介する。ベンチマーク概要今回のベンチマークは、以下の5つの軸で構成される。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68e82cdcb335ef5804974e8c?from=rss</guid>
       <pubDate>Thu, 09 Oct 2025 21:44:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>もうprintlnデバッグは卒業。VSCodeで始めるRust実践デバッグ</title>
+      <link>https://zenn.dev/dokusy/articles/b3c34eee18afbb</link>
+      <description>はじめに
+突然ですが、Rustでプログラムを書いていて、こんな経験はありませんか?
+println!("ここまで到達");
+println!("変数xの値: {:?}", x);
+println!("デバッグ1");
+println!("デバッグ2");
+// ...あとでこれ消さないと...
+println!でのデバッグは手軽ですが、コードが散らかり、デバッグ後に削除し忘れることも。
+というか削除が面倒ですよね。
+そんな時はVSCodeのデバッガーを使えば、コードを一切変更せずに変数の値を確認でき、問題を素早く解決できます。
+この記事では、VSCodeを使ってRustプログラムを効... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dokusy/articles/b3c34eee18afbb</guid>
+      <pubDate>Sat, 11 Oct 2025 12:12:56 +0000</pubDate>
     </item>
     <item>
       <title>RubyGems.orgのrootアカウントに元メンテナが不正アクセス — ゴタゴタが止まらないRuby Central、数百万人のRubyエンジニアへの影響を危惧</title>
