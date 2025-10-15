@@ -7,11 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Oct 2025 12:37:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 13:18:37 +0000</lastBuildDate>
     <item>
       <title>低分子薬物特性予測のための化学事前学習済みモデルのマルチタスク微調整と高速化</title>
       <link>http://arxiv.org/abs/2510.12719v1</link>
-      <description>化学事前学習モデル（基礎モデルと呼ばれることもある）は、創薬アプリケーションにおいて大きな関心を集めています。自己教師あり学習から抽出された一般的な化学知識は、標的への有効性やADMET特性など、重要な創薬エンドポイントの予測精度を向上させる可能性があります。マルチタスク学習はこれまで、予測モデルの改善に効果的に活用されてきました。本研究では、GROVERモデルの拡張版であるKinetic GROVER Multi-Task（KERMT）やKnowledge-guided Pre-training of Graph Transformer（KGPT）などの化学事前学習済みグラフニューラルネットワークモデルの微調整においてマルチタスクを有効にすると、事前学習されていないグラフニューラルネットワークモデルと比較してパフォーマンスが大幅に向上することを示します。驚くべきことに、マルチタスク方式でKERMTを微調整することによるパフォーマンスの向上は、データサイズが大きいほど顕著であることがわかりました。さらに、薬物特性予測のためのマルチタスク深層学習手法のより正確なベンチマークを可能にするた (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <description>化学事前学習モデル（基礎モデルと呼ばれることもある）は、創薬アプリケーションにおいて大きな関心を集めています。自己教師あり学習から抽出された一般的な化学知識は、標的への有効性やADMET特性など、重要な創薬エンドポイントの予測精度を向上させる可能性があります。マルチタスク学習は、これまで予測モデルの改善に効果的に活用されてきました。本研究では、GROVERモデルの拡張版であるKinetic GROVER Multi-Task（KERMT）やKnowledge-guided Pre-training of Graph Transformer（KGPT）などの化学事前学習済みグラフニューラルネットワークモデルの微調整においてマルチタスクを有効にすると、事前学習されていないグラフニューラルネットワークモデルと比較してパフォーマンスが大幅に向上することを示します。驚くべきことに、マルチタスク方式でKERMTを微調整することによるパフォーマンスの向上は、データサイズが大きいほど顕著であることがわかりました。さらに、薬物特性予測のためのマルチタスク深層学習手法のより正確なベンチマークを可能にするた (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
       <guid isPermaLink="true">http://arxiv.org/abs/2510.12719v1</guid>
       <pubDate>Tue, 14 Oct 2025 16:58:39 +0000</pubDate>
     </item>
