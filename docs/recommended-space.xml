@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Oct 2025 13:18:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 01:16:49 +0000</lastBuildDate>
+    <item>
+      <title>アークエッジ・スペース、JAXA「低軌道測位衛星システムの要素技術及び関連するシステムの検討」の事業者に選定</title>
+      <link>https://sorae.info/space/20251007-arkedgespace.html</link>
+      <description>超小型衛星コンステレーションの企画・設計から量産化、運用などを手がけるアークエッジ・スペースは2025年10月7日、JAXAが実施する「低軌道測位衛星システム（Dedicated LEO PNT：以下、LEO PNT）の… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20251007-arkedgespace.html</guid>
+      <pubDate>Tue, 07 Oct 2025 09:11:11 +0000</pubDate>
+    </item>
     <item>
       <title>【顧客は数十億人規模のビジネス】通信、気象、基盤モデル、宇宙スーパーコンピューター……地球全体を巻き込む不可逆な変化をもたらす7つのテクノロジー</title>
       <link>https://sorabatake.jp/42074/</link>
@@ -21,13 +28,6 @@
       <description>中国は現地時間10月13日、「長征2号D」（Long March 2D：LM-2D、Chang Zheng 2D：CZ-2D）ロケットで新たな試験衛星「試験31号」を打ち上げた。国有企業の中国航天科技集団（CASC）が […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new66712/</guid>
       <pubDate>Tue, 14 Oct 2025 07:13:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>エンタメ界から宇宙へ！田村淳さん発案の衛星放出成功が示す宇宙産業の新時代【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/42640/</link>
-      <description>2025年9月19日、国際宇宙ステーション（ISS）の「きぼう」日本実験棟から、5機の超小型衛星が宇宙空間へと放出されました。その中にはタレントの田村淳さんが発案した衛星もありました。その概要と今後への期待をまとめています。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/42640/</guid>
-      <pubDate>Sun, 28 Sep 2025 03:06:20 +0000</pubDate>
     </item>
     <item>
       <title>北緯68度の戦略拠点で衛星データ受信を大幅効率化｜インフォステラがフィンランド提携【宇宙ビジネスニュース】</title>
