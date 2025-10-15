@@ -7,14 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Oct 2025 01:16:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 12:37:08 +0000</lastBuildDate>
     <item>
-      <title>NV3D: 法線ベクトルベースの3Dオブジェクト検出による空間形状の活用
-</title>
-      <link>http://arxiv.org/abs/2510.11632v1</link>
-      <description>自動運転車における3D物体検出に関する最近の研究では、マルチモーダルセットアップの活用やLiDAR点群内の局所パターンの抽出を通じて特徴を豊かにすることを目指しています。しかし、マルチモーダル手法は特徴の位置合わせにおいて大きな課題に直面しており、複雑な3D物体検出タスクでは局所的な特徴の獲得が過度に単純化される可能性があります。本稿では、ボクセル近傍から取得した局所特徴を、K近傍法(KNN)と主成分分析(PCA)を用いてボクセルごとに計算された法線ベクトルとして利用する新しいモデルNV3Dを提案します。この有益な特徴により、NV3Dは表面と関連する対象物体（車、歩行者、自転車など）との関係を判定することができます。 NV3Dは、法線ベクトル抽出プロセスにおいて、法線ベクトル密度ベースのサンプリングとFOVを考慮したビンベースのサンプリングという2つの異なるサンプリング戦略を提供します。これにより、パフォーマンスを維持しながら最大55%のデータを削減できます。さらに、要素ごとのアテンションフュージョンを適用しました。これは、アテンションメカニズムと同様に、ボクセル特徴をクエリと値として (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.11632v1</guid>
-      <pubDate>Mon, 13 Oct 2025 17:13:06 +0000</pubDate>
+      <title>低分子薬物特性予測のための化学事前学習済みモデルのマルチタスク微調整と高速化</title>
+      <link>http://arxiv.org/abs/2510.12719v1</link>
+      <description>化学事前学習モデル（基礎モデルと呼ばれることもある）は、創薬アプリケーションにおいて大きな関心を集めています。自己教師あり学習から抽出された一般的な化学知識は、標的への有効性やADMET特性など、重要な創薬エンドポイントの予測精度を向上させる可能性があります。マルチタスク学習はこれまで、予測モデルの改善に効果的に活用されてきました。本研究では、GROVERモデルの拡張版であるKinetic GROVER Multi-Task（KERMT）やKnowledge-guided Pre-training of Graph Transformer（KGPT）などの化学事前学習済みグラフニューラルネットワークモデルの微調整においてマルチタスクを有効にすると、事前学習されていないグラフニューラルネットワークモデルと比較してパフォーマンスが大幅に向上することを示します。驚くべきことに、マルチタスク方式でKERMTを微調整することによるパフォーマンスの向上は、データサイズが大きいほど顕著であることがわかりました。さらに、薬物特性予測のためのマルチタスク深層学習手法のより正確なベンチマークを可能にするた (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.12719v1</guid>
+      <pubDate>Tue, 14 Oct 2025 16:58:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>脳年齢ギャップ予測モデルによる神経変性疾患の解明：
+グラフ信号処理の視点</title>
+      <link>http://arxiv.org/abs/2510.12763v1</link>
+      <description>神経変性は、神経細胞の構造または機能の進行性の喪失を特徴とし、臨床現場では構造MRIによって可視化される皮質の厚さまたは脳容積の減少によって一般的に評価されます。これらの従来のアプローチは有益ではあるものの、健康な老化と神経疾患の両方に現れる神経変性の空間的に相関した不均一な性質を完全に捉えるために必要な統計的洗練性を欠いています。これらの限界に対処するため、脳年齢ギャップが、脳の健康状態を示す有望なデータ駆動型バイオマーカーとして浮上しました。脳年齢ギャップ予測（BAGP）モデルは、神経画像データから予測される脳年齢と実年齢との差を推定します。得られた脳年齢ギャップは、脳の健康状態を示すコンパクトなバイオマーカーとして機能し、最近の研究では、疾患の進行と重症度の予測に有用であることが実証されています。しかし、BAGPモデルの実用化は、方法論的な難しさと、多様な臨床集団への一般化の限界によって妨げられています。このチュートリアル記事では、BAGPの概要を説明し、グラフ信号処理（GSP）の最近の進歩に基づいて、このアプリケーションのための原理的なフレームワークを紹介します。特に、グラフニ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.12763v1</guid>
+      <pubDate>Tue, 14 Oct 2025 17:44:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>ERA: 身体化された事前学習とオンライン強化学習によるVLMの身体化エージェントへの変換</title>
+      <link>http://arxiv.org/abs/2510.12693v1</link>
+      <description>近年の身体化AIの進歩は、複雑な環境において知覚、推論、インタラクションが可能なエージェントとしての視覚言語モデル（VLM）の可能性を浮き彫りにしています。しかし、最高性能のシステムは導入コストの高い大規模モデルに依存しており、一方で小規模なVLMには成功に必要な知識とスキルが不足しています。このギャップを埋めるために、私たちは事前知識学習とオンライン強化学習（RL）を統合した2段階のフレームワークである\textit{身体化推論エージェント（ERA）}を紹介します。第1段階の\textit{身体化事前学習}は、3種類のデータから基礎知識を抽出します。(1) 軌道拡張事前確率：既存の軌道データを、より強力なモデルによって生成された構造化推論で強化します。(2) 環境アンカー事前確率：環境内知識とグラウンディング監督を提供します。 （3）外部知識事前分布。これは、環境外のデータセットから一般知識を転送するものです。第2段階では、これらの事前分布に基づいてエージェントのパフォーマンスをさらに向上させるオンラインRLパイプラインを開発します。エージェントRLに固有の課題（長期的学習範囲、スパ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.12693v1</guid>
+      <pubDate>Tue, 14 Oct 2025 16:25:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

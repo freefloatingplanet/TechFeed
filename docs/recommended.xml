@@ -7,13 +7,50 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Oct 2025 01:16:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 12:37:00 +0000</lastBuildDate>
     <item>
-      <title>ローカルLLMサービングを見える化　監視ダッシュボードを作ろう</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2510/14/news017.html</link>
-      <description>vLLMを使ってローカルLLMサービングを行うケースが増えています。そこで求められるのが、レイテンシ、GPUキャッシュ利用率、エラー率をはじめとした推論実行状況の把握です。本記事では、vLLMにPrometheusとGrafanaを組み合わせ、LLMサービングの「見える化」ダッシュボードを作る方法を紹介します。 ＊本記事は、NTTテ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2510/14/news017.html</guid>
-      <pubDate>Tue, 14 Oct 2025 11:40:53 +0000</pubDate>
+      <title>【第2回】量子計算機時代のクラウドセキュリティに関するリスク評価フレームワーク - 暗号2030年問題への備え方</title>
+      <link>https://qiita.com/satokan3/items/0440ae5153d8891b955f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>GMOコネクトでCTOしている暗号おじさんこと菅野（かんの）です。
+先日、第1回を公開したのですが、3連休は仕事三昧だったので気晴らしに記事を書いています。
+前回の記事はこちら↓
+
+はじめに
+第1回では、量子計算機がクラウド環境に与える脅威の全体像を解説しました。「1... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/satokan3/items/0440ae5153d8891b955f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Mon, 13 Oct 2025 10:12:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>【生成AI】ハルシネーションはなぜ起こるの? 【OpenAIの論文から解説】</title>
+      <link>https://qiita.com/tsubasa_k0814/items/e681440b4fb1570ee28f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+「ChatGPT にこう聞いたら、まるで知っているかのように答えてくれた。でも、調べたら違っていた」
+あなたもそんな経験をしたことがあるかもしれませんか?
+言語モデル（例えば GPT 系列）は、私たちの問いかけに即応答を返してくれますが、その裏側には 「最もらし... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/tsubasa_k0814/items/e681440b4fb1570ee28f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 14 Oct 2025 23:47:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>大阪万博内部 API 解説</title>
+      <link>https://zenn.dev/nakasyou/articles/osakaexpo-api</link>
+      <description>大阪万博が昨日閉幕したので、大阪万博の予約サイトの API について自分が調べたことを公開しようと思います。
+数日前にタイムスリップした気持ちでお読みください。
+また、脆弱だと思ったポイントもあるので、閉幕したのでそれも解説しちゃいます。
+
+ 想定読者
+
+万博のアプリの裏側をちょっと覗いてみたい人
+大阪万博の脆弱っぽい部分をちょっと知りたい人
+閉幕してしまったけれど自分がどこに行ったかを思い出したい人
+次日本で万博が開催されたときにアプリを開発する人、および発注する人
+
+
+ tl;dr
+成果物: https://github.com/pnsk-lab/myakumyakujs
+
+ 認証の... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nakasyou/articles/osakaexpo-api</guid>
+      <pubDate>Tue, 14 Oct 2025 09:38:31 +0000</pubDate>
     </item>
     <item>
       <title>OpenAIとBroadcomが戦略的提携、10ギガワット規模のカスタムAIアクセラレータを共同開発・展開</title>
@@ -30,6 +67,23 @@
       <pubDate>Mon, 13 Oct 2025 21:06:08 +0000</pubDate>
     </item>
     <item>
+      <title>なぜ気軽にテーブルにカラムを足してはいけないのか</title>
+      <link>https://zenn.dev/mj2mkt/articles/2025-10-12-dont-add-columns-at-random</link>
+      <description>はじめに
+データベース（RDB）の設計で深く考えずにテーブルにカラムを追加してしまうことはありませんか？テーブルの追加よりもアプリケーション側での変更が少ないので、心理的ハードルが低いこともあるでしょう。しかし、そうしてカラム追加していくうちに取り返しのつかないことになるかもしれません。
+この記事では大きく以下の3つに分けて、なぜ気軽にテーブルにカラムを足してはいけないのかを説明します。
+
+そもそもデータベース設計がちゃんとできていないことの兆候である
+変更のコストが大きい
+インデックスの設計が難しくなる
+
+
+ そもそもデータベース設計がちゃんとできていないことの兆候である
+気軽にカ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mj2mkt/articles/2025-10-12-dont-add-columns-at-random</guid>
+      <pubDate>Mon, 13 Oct 2025 10:00:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Anthropicが公開しているClaude Codeのベストプラクティスを初心者向けに解説</title>
       <link>https://zenn.dev/tmasuyama1114/articles/claude_code_best_practice_guide</link>
       <description>こんにちは、とまだです。
@@ -42,6 +96,23 @@
 その経験... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/tmasuyama1114/articles/claude_code_best_practice_guide</guid>
       <pubDate>Mon, 13 Oct 2025 02:42:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>BigQuery ×Databricks × Snowflake の相互運用 ～忍び寄る Apache Iceberg をどう迎えるか～</title>
+      <link>https://qiita.com/manabian/items/6099b70e48f45747d882?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>概要
+「Cross Data Platforms Meetup #2」にて、「BigQuery ×Databricks × Snowflake の相互運用 ～忍び寄る Apache Iceberg をどう迎えるか～」というタイトルで発表しました。本記事では、その発表内容を... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/manabian/items/6099b70e48f45747d882?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 15 Oct 2025 03:07:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ベクタータイルとMapLibre Styleからラスタータイルをつくる</title>
+      <link>https://qiita.com/Kanahiro/items/1ea4ba3866c426fecb71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+MapLibre Styleとベクタータイルを用いた地図配信はずいぶんとコモディティ化してきたと思います。拙著『位置情報エンジニア養成講座』でも、この分野は重点的に扱っています。
+また、ラスタータイルの作成は、GeoTIFFなどのラスターデータを元にした手順は十... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Kanahiro/items/1ea4ba3866c426fecb71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 14 Oct 2025 13:49:02 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】ハッカーが二段階認証コードをAndroid端末から盗み出すことが可能と判明、対策は？</title>
