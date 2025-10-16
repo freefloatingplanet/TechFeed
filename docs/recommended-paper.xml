@@ -7,28 +7,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 16 Oct 2025 01:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 12:37:25 +0000</lastBuildDate>
     <item>
-      <title>低分子薬物特性予測のための化学事前学習済みモデルのマルチタスク微調整と高速化</title>
-      <link>http://arxiv.org/abs/2510.12719v1</link>
-      <description>化学事前学習モデル（基礎モデルと呼ばれることもある）は、創薬アプリケーションにおいて大きな関心を集めています。自己教師あり学習から抽出された一般的な化学知識は、標的への有効性やADMET特性など、重要な創薬エンドポイントの予測精度を向上させる可能性があります。マルチタスク学習はこれまで、予測モデルの改善に効果的に活用されてきました。本研究では、GROVERモデルの拡張版であるKinetic GROVER Multi-Task（KERMT）やKnowledge-guided Pre-training of Graph Transformer（KGPT）などの化学事前学習済みグラフニューラルネットワークモデルの微調整においてマルチタスクを有効にすると、事前学習されていないグラフニューラルネットワークモデルと比較してパフォーマンスが大幅に向上することを示します。驚くべきことに、マルチタスク方式でKERMTを微調整することによるパフォーマンスの向上は、データサイズが大きいほど顕著であることがわかりました。さらに、薬物特性予測のためのマルチタスク深層学習手法のより正確なベンチマークを可能にするた (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.12719v1</guid>
-      <pubDate>Tue, 14 Oct 2025 16:58:39 +0000</pubDate>
+      <title>海馬配列による自己中心的視覚ナビゲーション</title>
+      <link>http://arxiv.org/abs/2510.09951v2</link>
+      <description>動物がナビゲーションを行う際、場所に合わせて調整されたニューロンの連続的な活性化は、通常、軌跡上の隣接する位置からの入力のシーケンスを反映していると解釈されます。このような場所細胞に関する最近の理論は、シーケンスが計画などの抽象的な認知目的から生じることを示唆しています。本稿では、これらの考えを補完する、メカニズム的かつ簡潔な解釈を提案します。海馬のシーケンスは、容易に利用可能な入力がなくても活動を伝播する固有の回帰回路から生じ、極めてスパースな入力に対する時間的記憶バッファとして機能します。神経生物学に着想を得た最小限のシーケンスジェネレータを実装し、それをアクター・クリティック学習器と組み合わせることで、自己中心的視覚ナビゲーションを実現します。このエージェントは、明示的な幾何学的手がかりなしに連続迷路を確実に解くことができ、そのパフォーマンスは回帰シーケンスの長さに依存します。重要なのは、このモデルがスパース入力条件（16チャネル、約2.5%のアクティビティ）ではLSTMコアよりも優れた性能を示すものの、密入力条件では性能が劣ることです。これは、表現のスパース性と記憶構造の間に強 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.09951v2</guid>
+      <pubDate>Sat, 11 Oct 2025 01:38:23 +0000</pubDate>
     </item>
     <item>
-      <title>脳年齢ギャップ予測モデルによる神経変性疾患の解明：
-グラフ信号処理の視点</title>
-      <link>http://arxiv.org/abs/2510.12763v1</link>
-      <description>神経変性は、神経細胞の構造または機能の進行性の喪失を特徴とし、臨床現場では構造MRIによって可視化される皮質の厚さまたは脳容積の減少によって一般的に評価されます。これらの従来のアプローチは有益ではあるものの、健康な老化と神経疾患の両方に現れる神経変性の空間的に相関した不均一な性質を完全に捉えるために必要な統計的洗練性を欠いています。これらの限界に対処するため、脳年齢ギャップが、脳の健康状態を示す有望なデータ駆動型バイオマーカーとして浮上しました。脳年齢ギャップ予測（BAGP）モデルは、神経画像データから予測される脳年齢と実年齢との差を推定します。得られた脳年齢ギャップは、脳の健康状態を示すコンパクトなバイオマーカーとして機能し、最近の研究では、疾患の進行と重症度の予測に有用であることが実証されています。しかし、BAGPモデルの実用化は、方法論的な難しさと、多様な臨床集団への一般化の限界によって妨げられています。このチュートリアル記事では、BAGPの概要を説明し、グラフ信号処理（GSP）の最近の進歩に基づいて、このアプリケーションのための原理的なフレームワークを紹介します。特に、グラフニ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.12763v1</guid>
-      <pubDate>Tue, 14 Oct 2025 17:44:45 +0000</pubDate>
+      <title>実験室近赤外データを用いたスペクトル混合モデリング I：エウロパの組成分析への洞察</title>
+      <link>http://arxiv.org/abs/2510.03436v2</link>
+      <description>エウロパの表面組成と物理的特性は、一般的に線形混合（LM）モデリングと放射伝達ベース（RT）の密接混合モデリングによるスペクトルデコンボリューションを用いて制約されています。本研究では、これら2つのスペクトルモデリング（LMとRT）の結果を、近赤外波長（$\sim$1.2-2.5 $\mu$m）で測定された水（H$_{2}$O）氷と硫酸八水和物（SAO; H$_{2}$SO$_{4}$$\cdot$8H$_{2}$O）混合物の実験スペクトルと比較しました。
+粒径は90-106 $\mu$mです（Hayes and Li, 2025）。
+モデル化された存在量は、RTが実験室での存在量をより正確に再現することを示しており、粒径$\sim$100 $\mu$mのH$_{2}$O氷とH$_{2}$SO$_{4}$$\cdot$8H$_{2}$Oの両方について、偏差は$\pm$5%以内です。対照的に、LMはわずかに大きな差異を示し、通常、真の存在量から$\pm$5-15%の範囲です。興味深いことに、LMとRTはどちらも、すべての混合物において、H$_{2}$SO$_{4}$$\cdot$8H$_ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.03436v2</guid>
+      <pubDate>Fri, 03 Oct 2025 18:55:57 +0000</pubDate>
     </item>
     <item>
-      <title>ERA: 身体化された事前学習とオンライン強化学習によるVLMの身体化エージェントへの変換</title>
-      <link>http://arxiv.org/abs/2510.12693v1</link>
-      <description>近年の身体化AIの進歩は、複雑な環境において知覚、推論、インタラクションが可能なエージェントとしての視覚言語モデル（VLM）の可能性を浮き彫りにしています。しかし、最高性能のシステムは導入コストの高い大規模モデルに依存しており、一方で小規模なVLMには成功に必要な知識とスキルが不足しています。このギャップを埋めるために、私たちは事前知識学習とオンライン強化学習（RL）を統合した2段階のフレームワークである\textit{身体化推論エージェント（ERA）}を紹介します。第1段階の\textit{身体化事前学習}は、3種類のデータから基礎知識を抽出します。(1) 軌道拡張事前確率：既存の軌道データを、より強力なモデルによって生成された構造化推論で強化します。(2) 環境アンカー事前確率：環境内知識とグラウンディング監督を提供します。 （3）外部知識事前分布。これは、環境外のデータセットから一般知識を転送するものです。第2段階では、これらの事前分布に基づいてエージェントのパフォーマンスをさらに向上させるオンラインRLパイプラインを開発します。エージェントRLに固有の課題（長期的学習範囲、スパ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.12693v1</guid>
-      <pubDate>Tue, 14 Oct 2025 16:25:46 +0000</pubDate>
+      <title>物理システム予測のための漸進的マルチフィデリティ学習</title>
+      <link>http://arxiv.org/abs/2510.13762v1</link>
+      <description>数値実験や物理実験から得られる高精度なデータセットは、多くの場合、取得に費用と時間がかかり、複数のシナリオにまたがり、リアルタイムで正確な評価を必要とするアプリケーションにとって大きな課題となります。十分な精度を持つサロゲートモデルを構築することさえ、高忠実度データが限られていると非常に困難になる可能性があります。逆に、安価で低忠実度のデータはより簡単に計算でき、より幅広いシナリオを網羅できます。マルチフィデリティ情報を活用することで、サロゲートの予測能力を向上させることができます。しかし、実際には、データの種類が異なり、異なるモダリティのソースから取得され、同時に利用できない可能性があり、モデリングプロセスがさらに複雑になります。これらの課題に対処するために、我々は漸進的なマルチフィデリティサロゲートモデルを導入します。このモデルは、カスタマイズされたエンコーダーを使用して、さまざまなデータタイプを順次組み込むことができます。次に、ニューラルネットワークを用いて、エンコードされた入力から関心対象のターゲット量へのマルチフィデリティ回帰を実行します。入力情報は、2つの接続セット（エンコ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.13762v1</guid>
+      <pubDate>Wed, 15 Oct 2025 17:10:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>材料研究における多変数バッチベイズ最適化：
+ノイズ感受性と問題ランドスケープ効果の合成データ解析</title>
+      <link>http://arxiv.org/abs/2504.03943v3</link>
+      <description>ベイズ最適化（BO）機械学習手法は、材料科学における実験最適化タスクのガイドとしてますます利用されています。実験材料研究における多数の入力変数とノイズを含む結果をエミュレートするために、様々なノイズレベルを持つ6つの設計変数のバッチBOシミュレーションを実行します。材料科学の問題に関連する2つのテストケースを検討します。1つは分子最適化などで遭遇する可能性のある干し草の山の中の針のようなケース（Ackley関数）で、もう1つは材料組成最適化などで遭遇する可能性のある大域的最適値に加えて局所的最適値を持つ滑らかな地形（Hartmann関数）です。学習曲線、パフォーマンスメトリック、および視覚化を示し、最適化の進行を効果的に追跡し、最適化結果がノイズ、バッチピッキング法、獲得関数の選択、および探索ハイパーパラメータ値によってどのように影響を受けるかを評価します。ノイズの影響は問題のランドスケープに依存することがわかりました。ノイズは、干し草の山の中の針を探すような探索（Ackley）の最適化結果を劇的に劣化させます。しかし、ノイズが増加すると、Hartmannの局所最適解に到達する確率が増 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2504.03943v3</guid>
+      <pubDate>Fri, 04 Apr 2025 21:20:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

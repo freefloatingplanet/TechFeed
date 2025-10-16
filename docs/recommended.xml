@@ -7,53 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Oct 2025 01:16:30 +0000</lastBuildDate>
-    <item>
-      <title>苦節6年 個人開発から始めたB2B SaaSがやっと動き出した話</title>
-      <link>https://qiita.com/Akira-Isegawa/items/9938c948996746b03a08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>こんにちは。伊勢川です。
-先日、ドリーム・アーツ主催の勉強会にて、「個人開発から始めるB2B SaaS」というLTをしました。本記事では、そのLTの内容をベースにしつつ、LTでは語りきれなかった内容も盛り込んでお伝えします。
-
-本記事の概要
-個人開発から6年でB2B Saa... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Akira-Isegawa/items/9938c948996746b03a08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 15 Oct 2025 09:05:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>大阪万博内部 API 解説</title>
-      <link>https://zenn.dev/nakasyou/articles/osakaexpo-api</link>
-      <description>大阪万博が昨日閉幕したので、大阪万博の予約サイトの API について自分が調べたことを公開しようと思います。
-数日前にタイムスリップした気持ちでお読みください。
-また、脆弱だと思ったポイントもあるので、閉幕したのでそれも解説しちゃいます。
-
- 想定読者
-
-万博のアプリの裏側をちょっと覗いてみたい人
-大阪万博の脆弱っぽい部分をちょっと知りたい人
-閉幕してしまったけれど自分がどこに行ったかを思い出したい人
-次日本で万博が開催されたときにアプリを開発する人、および発注する人
-
-
- tl;dr
-成果物: https://github.com/pnsk-lab/myakumyakujs
-
- 認証の... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nakasyou/articles/osakaexpo-api</guid>
-      <pubDate>Tue, 14 Oct 2025 09:38:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAIとBroadcomが戦略的提携、10ギガワット規模のカスタムAIアクセラレータを共同開発・展開</title>
-      <link>https://techfeed.io/entries/68ed69c0b335ef58049847af?from=rss</link>
-      <description>10月14日、OpenAI Blogで「OpenAIとBroadcomが、OpenAIが設計した10ギガワットのAIアクセラレータを展開するための戦略的提携を発表(OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators)」と題した記事が公開された。この記事では、OpenAIが自社設計によるAIアクセラレータをBroadcomと共同開発し、2026年後半から2029年末にかけて10ギガワット規模で展開する計画について詳しく紹介されている。以下に、その内容を簡潔にまとめて紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68ed69c0b335ef58049847af?from=rss</guid>
-      <pubDate>Mon, 13 Oct 2025 21:06:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Oct 2025 12:37:16 +0000</lastBuildDate>
     <item>
       <title>OpenAIとBroadcomが戦略的提携、10ギガワット規模のカスタムAIアクセラレータを共同開発・展開</title>
       <link>https://techfeed.io/entries/68ed69c0dfce9968cfc8e3ad?from=rss</link>
       <description>10月14日、OpenAI Blogで「OpenAIとBroadcomが、OpenAIが設計した10ギガワットのAIアクセラレータを展開するための戦略的提携を発表(OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators)」と題した記事が公開された。この記事では、OpenAIが自社設計によるAIアクセラレータをBroadcomと共同開発し、2026年後半から2029年末にかけて10ギガワット規模で展開する計画について詳しく紹介されている。以下に、その内容を簡潔にまとめて紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68ed69c0dfce9968cfc8e3ad?from=rss</guid>
       <pubDate>Mon, 13 Oct 2025 21:06:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>［W3Cテックリードに聞く(前編)］ W3Cとは？Web標準ってどうやって作られているの？ - Cybozu Inside Out | サイボウズエンジニアのブログ</title>
+      <link>https://blog.cybozu.io/entry/w3c-interview-part1</link>
+      <description>サイボウズでデザインテクノロジストをしている @saku です。 サイボウズ株式会社は、2025年4月1日より、Web技術の標準化と推進を目的とした国際的なコンソーシアムである「W3C」のメンバーに加入しました。 今回は、W3CのVP, Technical StrategyであるPhilippe Le Hégaretさんにインタビューをさせていただき、W3Cの起... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://blog.cybozu.io/entry/w3c-interview-part1</guid>
+      <pubDate>Thu, 16 Oct 2025 03:00:21 +0000</pubDate>
     </item>
     <item>
       <title>なぜ気軽にテーブルにカラムを足してはいけないのか</title>
@@ -73,33 +40,13 @@
       <pubDate>Mon, 13 Oct 2025 10:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropicが公開しているClaude Codeのベストプラクティスを初心者向けに解説</title>
-      <link>https://zenn.dev/tmasuyama1114/articles/claude_code_best_practice_guide</link>
-      <description>こんにちは、とまだです。
-「AIツールを使ってコーディングを効率化したい！」
-そう思ってClaude Codeを始めてみたものの、思うような結果が出なくて悩んでいませんか？
-今回は、Anthropic社が公開しているClaude Codeのベストプラクティスから抜粋し、初心者にもわかりやすく解説します！
-これを読めば、Claude Codeをもっと効果的に使いこなせるようになるはずです。
-ちなみに私は本業ではフリーランスエンジニア、ならびにAI駆動開発の導入支援を行っています。
-また、Udemy で AI 駆動開発講座を複数開講しており、いくつかベストセラーもいただいています。
-その経験... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tmasuyama1114/articles/claude_code_best_practice_guide</guid>
-      <pubDate>Mon, 13 Oct 2025 02:42:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>BigQuery ×Databricks × Snowflake の相互運用 ～忍び寄る Apache Iceberg をどう迎えるか～</title>
-      <link>https://qiita.com/manabian/items/6099b70e48f45747d882?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>概要
-「Cross Data Platforms Meetup #2」にて、「BigQuery ×Databricks × Snowflake の相互運用 ～忍び寄る Apache Iceberg をどう迎えるか～」というタイトルで発表しました。本記事では、その発表内容を... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/manabian/items/6099b70e48f45747d882?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 15 Oct 2025 03:07:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】ハッカーが二段階認証コードをAndroid端末から盗み出すことが可能と判明、対策は？</title>
-      <link>https://techfeed.io/entries/68eecdddb335ef580498b53d?from=rss</link>
-      <description>10月14日、Ars Technicaが「Hackers can steal 2FA codes and private messages from Android phones」と題した記事を公開した。この記事では、Android端末の画面に描画された情報を「Pixnapping」と呼ばれる新手法で盗み見し、2要素認証（2FA）コードやチャット、位置履歴などを数十秒で窃取できる脅威について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68eecdddb335ef580498b53d?from=rss</guid>
-      <pubDate>Tue, 14 Oct 2025 22:25:33 +0000</pubDate>
+      <title>IBM i の「システム値」について知ろう！　～日々の業務に役立つチェックリスト～</title>
+      <link>https://qiita.com/Matsuda_465/items/ab24376b84126e72c2ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+この度、IBM社主催のIBM i RiSING2025プロジェクトの一環として、この記事を作成しています。
+今回は、IBM i における「システム値」を理解するうえで、私が必要だと思う内容を完全な独断と偏見でピックアップしましたので、興味のある方はご確認いただけ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Matsuda_465/items/ab24376b84126e72c2ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 14 Oct 2025 07:59:12 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントを支える技術: コンテキストエンジニアリングの現在地 - Algomatic Tech Blog</title>
@@ -109,13 +56,54 @@
       <pubDate>Wed, 15 Oct 2025 08:40:02 +0000</pubDate>
     </item>
     <item>
-      <title>OAuthによるMCPサーバの保護（MCP Version 2025-06-18版）</title>
-      <link>https://qiita.com/wadahiro/items/7760509feea6317ad2a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>【海外記事紹介】ハッカーが二段階認証コードをAndroid端末から盗み出すことが可能と判明、対策は？</title>
+      <link>https://techfeed.io/entries/68eecdddb335ef580498b53d?from=rss</link>
+      <description>10月14日、Ars Technicaが「Hackers can steal 2FA codes and private messages from Android phones」と題した記事を公開した。この記事では、Android端末の画面に描画された情報を「Pixnapping」と呼ばれる新手法で盗み見し、2要素認証（2FA）コードやチャット、位置履歴などを数十秒で窃取できる脅威について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/68eecdddb335ef580498b53d?from=rss</guid>
+      <pubDate>Tue, 14 Oct 2025 22:25:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIエージェントPoCを育てる3ステップ：CursorからLangChainへ</title>
+      <link>https://zenn.dev/loglass/articles/797fe3fc60399a</link>
+      <description>!
+この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の113週目の記事です！
+3年間連続達成まで残り46週となりました！
+
+
+ はじめに
+AI Agentシステムを開発したいと考えたとき、「何から手をつければいいのか？」「どのツールをどの段階で使うべきか？」と悩むことはないでしょうか。
+私たちのチームでは、超初期のアイデア検証から実運用に向けた精度向上の検証に至るまで、プロジェクトの成熟度に合わせてツールを使い分けることで、開発をスムーズに進めてきました。
+この記事では、ありもの（Cursor）から始め、Bedrock Agentを経て、最終的... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/loglass/articles/797fe3fc60399a</guid>
+      <pubDate>Wed, 15 Oct 2025 09:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>シリアライゼーションによる脆弱性の理解</title>
+      <link>https://qiita.com/Jim_Jin/items/569d12df38dc378d7dbe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-MCP Version 2025-06-18では、HTTPベースのトランスポートを使用する場合、OAuthによる保護が推奨されており、リモート環境で動作するMCPサーバをセキュアにできます。
-本記事では、Go言語を使ってOAuthで保護されたMCPサーバのサンプ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/wadahiro/items/7760509feea6317ad2a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 14 Oct 2025 09:35:14 +0000</pubDate>
+会社の社内勉強会で『安全なWebアプリケーションの作り方』1という本を選定し、シリアライゼーションに関する解説部分を担当することになって整理して見ました。本の内容を参考にしつつも、ほとんどの部分を自分なりに再構成してまとめました。
+本記事では、プログラム間でデー... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Jim_Jin/items/569d12df38dc378d7dbe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 16 Oct 2025 06:21:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>特定の日本人名だけが文字化けする謎 - NKFの-Zオプションに潜む問題</title>
+      <link>https://qiita.com/hirokimry/items/843e75366a966073ce44?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+Railsアプリケーションで氏名を扱う機能を実装していたところ、奇妙な現象に遭遇しました。「前田莉菜」という名前だけが文字化けするのです。他の名前は正常に保存できるのに、なぜこの名前だけ？
+この記事では、問題の原因を特定し、解決するまでの過程を共有します。
+※本... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/hirokimry/items/843e75366a966073ce44?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 15 Oct 2025 08:15:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS MCPサーバー（DocumentationとKnowledge）をVS Codeで使えるようにしてみた</title>
+      <link>https://qiita.com/employee1/items/8e0b6c6bbe80a4fc5352?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+この記事では、AWSのMCPサーバー（DocumentationとKnowledge）をVS Codeで利用できるようにする方法について紹介していきます。
+途中、GitHub Copilotにも助けてもらいながら実装したので、その点も踏まえて読んでいただければと... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/employee1/items/8e0b6c6bbe80a4fc5352?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 14 Oct 2025 09:10:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
