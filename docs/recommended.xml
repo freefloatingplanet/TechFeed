@@ -7,28 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Oct 2025 13:18:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 01:16:30 +0000</lastBuildDate>
     <item>
-      <title>【第2回】量子計算機時代のクラウドセキュリティに関するリスク評価フレームワーク - 暗号2030年問題への備え方</title>
-      <link>https://qiita.com/satokan3/items/0440ae5153d8891b955f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>GMOコネクトでCTOしている暗号おじさんこと菅野（かんの）です。
-先日、第1回を公開したのですが、3連休は仕事三昧だったので気晴らしに記事を書いています。
-前回の記事はこちら↓
+      <title>苦節6年 個人開発から始めたB2B SaaSがやっと動き出した話</title>
+      <link>https://qiita.com/Akira-Isegawa/items/9938c948996746b03a08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>こんにちは。伊勢川です。
+先日、ドリーム・アーツ主催の勉強会にて、「個人開発から始めるB2B SaaS」というLTをしました。本記事では、そのLTの内容をベースにしつつ、LTでは語りきれなかった内容も盛り込んでお伝えします。
 
-はじめに
-第1回では、量子計算機がクラウド環境に与える脅威の全体像を解説しました。「1... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/satokan3/items/0440ae5153d8891b955f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Mon, 13 Oct 2025 10:12:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【生成AI】ハルシネーションはなぜ起こるの? 【OpenAIの論文から解説】</title>
-      <link>https://qiita.com/tsubasa_k0814/items/e681440b4fb1570ee28f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-「ChatGPT にこう聞いたら、まるで知っているかのように答えてくれた。でも、調べたら違っていた」
-あなたもそんな経験をしたことがあるかもしれませんか?
-言語モデル（例えば GPT 系列）は、私たちの問いかけに即応答を返してくれますが、その裏側には 「最もらし... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/tsubasa_k0814/items/e681440b4fb1570ee28f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 14 Oct 2025 23:47:04 +0000</pubDate>
+本記事の概要
+個人開発から6年でB2B Saa... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Akira-Isegawa/items/9938c948996746b03a08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 15 Oct 2025 09:05:10 +0000</pubDate>
     </item>
     <item>
       <title>大阪万博内部 API 解説</title>
@@ -106,20 +95,27 @@
       <pubDate>Wed, 15 Oct 2025 03:07:03 +0000</pubDate>
     </item>
     <item>
-      <title>ベクタータイルとMapLibre Styleからラスタータイルをつくる</title>
-      <link>https://qiita.com/Kanahiro/items/1ea4ba3866c426fecb71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-MapLibre Styleとベクタータイルを用いた地図配信はずいぶんとコモディティ化してきたと思います。拙著『位置情報エンジニア養成講座』でも、この分野は重点的に扱っています。
-また、ラスタータイルの作成は、GeoTIFFなどのラスターデータを元にした手順は十... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Kanahiro/items/1ea4ba3866c426fecb71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 14 Oct 2025 13:49:02 +0000</pubDate>
-    </item>
-    <item>
       <title>【海外記事紹介】ハッカーが二段階認証コードをAndroid端末から盗み出すことが可能と判明、対策は？</title>
       <link>https://techfeed.io/entries/68eecdddb335ef580498b53d?from=rss</link>
       <description>10月14日、Ars Technicaが「Hackers can steal 2FA codes and private messages from Android phones」と題した記事を公開した。この記事では、Android端末の画面に描画された情報を「Pixnapping」と呼ばれる新手法で盗み見し、2要素認証（2FA）コードやチャット、位置履歴などを数十秒で窃取できる脅威について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68eecdddb335ef580498b53d?from=rss</guid>
       <pubDate>Tue, 14 Oct 2025 22:25:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIエージェントを支える技術: コンテキストエンジニアリングの現在地 - Algomatic Tech Blog</title>
+      <link>https://tech.algomatic.jp/entry/2025/10/15/172110</link>
+      <description>はじめに こんにちは。Algomatic AI Transformation(AX) のsergicalsix（@sergicalsix）です。 本記事では大規模言語モデル(LLM)を用いたアプリケーションないしAIエージェントの構築において切っても切り離せない「コンテキストエンジニアリング」について2025年10月時点での知見を備忘録としてまとめます。 コンテキス... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech.algomatic.jp/entry/2025/10/15/172110</guid>
+      <pubDate>Wed, 15 Oct 2025 08:40:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>OAuthによるMCPサーバの保護（MCP Version 2025-06-18版）</title>
+      <link>https://qiita.com/wadahiro/items/7760509feea6317ad2a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+MCP Version 2025-06-18では、HTTPベースのトランスポートを使用する場合、OAuthによる保護が推奨されており、リモート環境で動作するMCPサーバをセキュアにできます。
+本記事では、Go言語を使ってOAuthで保護されたMCPサーバのサンプ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/wadahiro/items/7760509feea6317ad2a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 14 Oct 2025 09:35:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
