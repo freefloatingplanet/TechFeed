@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Oct 2025 01:16:34 +0000</lastBuildDate>
-    <item>
-      <title>ハビタブルゾーンの惑星を探索するESAの「プラトー」宇宙望遠鏡が完成　打ち上げ前の最終試験へ</title>
-      <link>https://sorae.info/space/20251015-esa-plato.html</link>
-      <description>こちらは、ESA＝ヨーロッパ宇宙機関が組み立てを進めてきた宇宙望遠鏡「Plato（プラトー）」です。ESAは2025年10月9日付で、Plato宇宙望遠鏡の組み立てが完了したことを発表しました。 ハビタブルゾーンの地球型… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20251015-esa-plato.html</guid>
-      <pubDate>Wed, 15 Oct 2025 02:33:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Oct 2025 12:35:23 +0000</lastBuildDate>
     <item>
       <title>北緯68度の戦略拠点で衛星データ受信を大幅効率化｜インフォステラがフィンランド提携【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/42606/</link>
@@ -77,6 +70,13 @@
       <description>Space Quarters（東京都渋谷区）は7.5億円を調達した。シードラウンドとしてFrontier Innovationsがリード投資家となり、慶應イノベーション・イニシアティブ、グローバル・ブレインが運営する東 […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new66730/</guid>
       <pubDate>Wed, 15 Oct 2025 05:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>米ヴァスト、民間宇宙ステーションの準備進める–2026年第2四半期にも打ち上げ</title>
+      <link>https://uchubiz.com/article/new66804/</link>
+      <description>米Vast Space（ヴァストスペース）は民間宇宙ステーション「Haven-1」（ヘイブンワン）の2026年の打ち上げに向けて準備を進めている。 　円筒形状であるHaven-1は重量約14トン、回転させることで人工的 […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new66804/</guid>
+      <pubDate>Fri, 17 Oct 2025 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

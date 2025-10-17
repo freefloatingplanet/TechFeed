@@ -7,37 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Oct 2025 01:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 12:35:24 +0000</lastBuildDate>
     <item>
-      <title>海馬配列による自己中心的視覚ナビゲーション</title>
-      <link>http://arxiv.org/abs/2510.09951v2</link>
-      <description>動物がナビゲーションを行う際、場所に合わせて調整されたニューロンの連続的な活性化は、通常、軌跡上の隣接する位置からの入力のシーケンスを反映していると解釈されます。このような場所細胞に関する最近の理論は、シーケンスが計画などの抽象的な認知目的から生じることを示唆しています。本稿では、これらの考えを補完する、メカニズム的かつ簡潔な解釈を提案します。海馬のシーケンスは、容易に利用可能な入力がなくても活動を伝播する固有の回帰回路から生じ、極めてスパースな入力に対する時間的記憶バッファとして機能します。神経生物学に着想を得た最小限のシーケンスジェネレータを実装し、それをアクター・クリティック学習器と組み合わせることで、自己中心的視覚ナビゲーションを実現します。このエージェントは、明示的な幾何学的手がかりなしに連続迷路を確実に解くことができ、そのパフォーマンスは回帰シーケンスの長さに依存します。重要なのは、このモデルがスパース入力条件（16チャネル、約2.5%のアクティビティ）ではLSTMコアよりも優れた性能を示すものの、密入力条件では性能が劣ることです。これは、表現のスパース性と記憶構造の間に強 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.09951v2</guid>
-      <pubDate>Sat, 11 Oct 2025 01:38:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>実験室近赤外データを用いたスペクトル混合モデリング I：エウロパの組成分析への洞察</title>
-      <link>http://arxiv.org/abs/2510.03436v2</link>
-      <description>エウロパの表面組成と物理的特性は、一般的に線形混合（LM）モデリングと放射伝達ベース（RT）の密接混合モデリングによるスペクトルデコンボリューションを用いて制約されています。本研究では、これら2つのスペクトルモデリング（LMとRT）の結果を、近赤外波長（$\sim$1.2-2.5 $\mu$m）で測定された水（H$_{2}$O）氷と硫酸八水和物（SAO; H$_{2}$SO$_{4}$$\cdot$8H$_{2}$O）混合物の実験スペクトルと比較しました。
-粒径は90-106 $\mu$mです（Hayes and Li, 2025）。
-モデル化された存在量は、RTが実験室での存在量をより正確に再現することを示しており、粒径$\sim$100 $\mu$mのH$_{2}$O氷とH$_{2}$SO$_{4}$$\cdot$8H$_{2}$Oの両方について、偏差は$\pm$5%以内です。対照的に、LMはわずかに大きな差異を示し、通常、真の存在量から$\pm$5-15%の範囲です。興味深いことに、LMとRTはどちらも、すべての混合物において、H$_{2}$SO$_{4}$$\cdot$8H$_ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.03436v2</guid>
-      <pubDate>Fri, 03 Oct 2025 18:55:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>物理システム予測のための漸進的マルチフィデリティ学習</title>
-      <link>http://arxiv.org/abs/2510.13762v1</link>
-      <description>数値実験や物理実験から得られる高精度なデータセットは、多くの場合、取得に費用と時間がかかり、複数のシナリオにまたがり、リアルタイムで正確な評価を必要とするアプリケーションにとって大きな課題となります。十分な精度を持つサロゲートモデルを構築することさえ、高忠実度データが限られていると非常に困難になる可能性があります。逆に、安価で低忠実度のデータはより簡単に計算でき、より幅広いシナリオを網羅できます。マルチフィデリティ情報を活用することで、サロゲートの予測能力を向上させることができます。しかし、実際には、データの種類が異なり、異なるモダリティのソースから取得され、同時に利用できない可能性があり、モデリングプロセスがさらに複雑になります。これらの課題に対処するために、我々は漸進的なマルチフィデリティサロゲートモデルを導入します。このモデルは、カスタマイズされたエンコーダーを使用して、さまざまなデータタイプを順次組み込むことができます。次に、ニューラルネットワークを用いて、エンコードされた入力から関心対象のターゲット量へのマルチフィデリティ回帰を実行します。入力情報は、2つの接続セット（エンコ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.13762v1</guid>
-      <pubDate>Wed, 15 Oct 2025 17:10:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>材料研究における多変数バッチベイズ最適化：
-ノイズ感受性と問題ランドスケープ効果の合成データ解析</title>
-      <link>http://arxiv.org/abs/2504.03943v3</link>
-      <description>ベイズ最適化（BO）機械学習手法は、材料科学における実験最適化タスクのガイドとしてますます利用されています。実験材料研究における多数の入力変数とノイズを含む結果をエミュレートするために、様々なノイズレベルを持つ6つの設計変数のバッチBOシミュレーションを実行します。材料科学の問題に関連する2つのテストケースを検討します。1つは分子最適化などで遭遇する可能性のある干し草の山の中の針のようなケース（Ackley関数）で、もう1つは材料組成最適化などで遭遇する可能性のある大域的最適値に加えて局所的最適値を持つ滑らかな地形（Hartmann関数）です。学習曲線、パフォーマンスメトリック、および視覚化を示し、最適化の進行を効果的に追跡し、最適化結果がノイズ、バッチピッキング法、獲得関数の選択、および探索ハイパーパラメータ値によってどのように影響を受けるかを評価します。ノイズの影響は問題のランドスケープに依存することがわかりました。ノイズは、干し草の山の中の針を探すような探索（Ackley）の最適化結果を劇的に劣化させます。しかし、ノイズが増加すると、Hartmannの局所最適解に到達する確率が増 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2504.03943v3</guid>
-      <pubDate>Fri, 04 Apr 2025 21:20:11 +0000</pubDate>
+      <title>情報利得に基づく方策最適化：シンプルかつ効果的な
+マルチターンLLMエージェントへのアプローチ</title>
+      <link>http://arxiv.org/abs/2510.14967v1</link>
+      <description>大規模言語モデル（LLM）ベースのエージェントは、ツールの使用を通じて外部環境と相互作用する能力を高めるために、強化学習（RL）によるトレーニングがますます増えています。特に、複数ターンの推論と知識獲得を必要とする探索ベースの設定において顕著です。しかし、既存のアプローチは通常、最終回答時にのみ提供される結果ベースの報酬に依存しています。この報酬のスパース性は、複数ターンの設定において特に問題となります。長い軌跡は、2つの重大な問題を悪化させます。(i) 優位性の崩壊（すべてのロールアウトで同一の報酬が与えられ、有用な学習シグナルが提供されない）、および(ii) きめ細かなクレジット割り当ての欠如（特に長期タスクにおいて、ターン間の依存関係が不明瞭になる）です。本稿では、複数ターンのエージェントトレーニングに高密度で本質的な教師を提供する、シンプルでありながら効果的なRLフレームワークである情報ゲインベースのポリシー最適化（IGPO）を提案します。 IGPOは、各インタラクションターンを、グラウンドトゥルースに関する情報を取得する増分プロセスとしてモデル化し、ターンレベルの報酬を、ポリ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.14967v1</guid>
+      <pubDate>Thu, 16 Oct 2025 17:59:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
