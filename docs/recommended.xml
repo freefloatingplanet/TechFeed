@@ -7,42 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Oct 2025 13:08:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 01:12:36 +0000</lastBuildDate>
     <item>
-      <title>なぜ気軽にテーブルにカラムを足してはいけないのか</title>
-      <link>https://zenn.dev/mj2mkt/articles/2025-10-12-dont-add-columns-at-random</link>
-      <description>はじめに
-データベース（RDB）の設計で深く考えずにテーブルにカラムを追加してしまうことはありませんか？テーブルの追加よりもアプリケーション側での変更が少ないので、心理的ハードルが低いこともあるでしょう。しかし、そうしてカラム追加していくうちに取り返しのつかないことになるかもしれません。
-この記事では大きく以下の3つに分けて、なぜ気軽にテーブルにカラムを足してはいけないのかを説明します。
+      <title>あなたはVersion Skew問題を知っていますか？ Web開発者なら知って損はない原因と対策</title>
+      <link>https://zenn.dev/coconala/articles/nextjs-version-skew-vercel-skew-protection</link>
+      <description>Webサイトのリリース後に 「一部のユーザーだけ画面が真っ白になる」「謎のエラーが飛んでくる」 といった現象に遭遇したことはありませんか？
+もしかしたら、それは Version Skew（バージョンスキュー） と呼ばれる問題のせいかもしれません。
 
-そもそもデータベース設計がちゃんとできていないことの兆候である
-変更のコストが大きい
-インデックスの設計が難しくなる
-
-
- そもそもデータベース設計がちゃんとできていないことの兆候である
-気軽にカ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mj2mkt/articles/2025-10-12-dont-add-columns-at-random</guid>
-      <pubDate>Mon, 13 Oct 2025 10:00:01 +0000</pubDate>
+ 最初に
+こんにちは。ココナラテックの開発をしているエンジニアのもちさんです。
+私はある日、手元の端末で再現性の低いエラーに悩まされました。
+ブラウザキャッシュを消すと直る、でも根本原因がわからない。そんな厄介な症状の裏に、この「新旧リソースの混在」という構造的な問題が潜んでいました。
+この記事では、実際に起きたトラブルの経緯をもとに、Ver... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/coconala/articles/nextjs-version-skew-vercel-skew-protection</guid>
+      <pubDate>Fri, 17 Oct 2025 01:52:09 +0000</pubDate>
     </item>
     <item>
-      <title>Linux初心者向けの便利なコマンド</title>
-      <link>https://qiita.com/kosuke_shoji/items/59078e087b8b18a4188a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-今回は「Linuxの基本コマンドとか、知っておく良いコマンドってあるのかな？」って人向けの知っておくと便利なLinuxコマンドをいくつかご紹介します。
-各コマンドの詳細については、「コマンド　オプション(例：ls オプション)」などで検索するとより詳しく紹介して... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/kosuke_shoji/items/59078e087b8b18a4188a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 14 Oct 2025 08:54:54 +0000</pubDate>
+      <title>個人開発のOSSが2K Start獲得するまで、4年の軌跡　#1 勉強会レポート</title>
+      <link>https://zenn.dev/dreamarts/articles/205142197c705c</link>
+      <description>こんにちは。今年6月にドリーム・アーツに中途入社したエンジニアのabです。
+この記事では、先日弊社恵比寿オフィスにて初めて開催された、エンジニア向けの勉強会の様子をレポートします。
+
+ 開催概要
+今回の勉強会では、OSS「Dagu」の開発者であるYota Hamadaさんをお招きし、「個人開発から始めたOSSが2K Starを獲得するまで」というテーマでご講演いただきました。
+さらに、弊社テックリードの伊勢川さんからも、「個人開発から始めるB2B SaaS」というテーマでLTを実施しました。
+長年開発に携わってきたベテランエンジニアのお二人から、個人開発への想いやプロダクト開発のリアルに... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dreamarts/articles/205142197c705c</guid>
+      <pubDate>Thu, 16 Oct 2025 00:54:55 +0000</pubDate>
     </item>
     <item>
-      <title>日刊IETF (2025-10-15) 【前編】</title>
-      <link>https://qiita.com/tetsuko_room/items/65d8ec36b942b949b4a6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>こんばんは！GMOコネクトの名もなきエンジニアです。
-よろしくお願いします！
-日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！
-今回は、2025-10-15（UTC基準）に公開されたInter... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/tetsuko_room/items/65d8ec36b942b949b4a6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 16 Oct 2025 11:15:28 +0000</pubDate>
+      <title>マウス不要！Git 操作を爆速化する「lazygit」が手放せない</title>
+      <link>https://zenn.dev/aishift/articles/d1a0551a444317</link>
+      <description>こんにちは！株式会社AI Shift で Web フロントエンドエンジニアをしている辰川です！
+今回は、筆者が愛用している Git の TUI ツールである lazygit について紹介します。
+https://github.com/jesseduffield/lazygit
+
+
+ Git 操作、こんなことで困っていませんか？
+git add して git commit して git push ...。
+日々の開発で繰り返す、この一連の Git 操作。
+ターミナルでのコマンド入力は素早い反面、少し特殊な状況になると急に難解な呪文のように感じられますよね。
+かといって、GUI ツールに切り... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aishift/articles/d1a0551a444317</guid>
+      <pubDate>Fri, 17 Oct 2025 04:46:01 +0000</pubDate>
     </item>
     <item>
       <title>日刊IETF (2025-10-15) 【後編】</title>
@@ -85,19 +92,11 @@ AIを使う機会が増える中で、自分の中でふとこんな疑問が浮
       <pubDate>Tue, 14 Oct 2025 22:25:33 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントPoCを育てる3ステップ：CursorからLangChainへ</title>
-      <link>https://zenn.dev/loglass/articles/797fe3fc60399a</link>
-      <description>!
-この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の113週目の記事です！
-3年間連続達成まで残り46週となりました！
-
-
- はじめに
-AI Agentシステムを開発したいと考えたとき、「何から手をつければいいのか？」「どのツールをどの段階で使うべきか？」と悩むことはないでしょうか。
-私たちのチームでは、超初期のアイデア検証から実運用に向けた精度向上の検証に至るまで、プロジェクトの成熟度に合わせてツールを使い分けることで、開発をスムーズに進めてきました。
-この記事では、ありもの（Cursor）から始め、Bedrock Agentを経て、最終的... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/loglass/articles/797fe3fc60399a</guid>
-      <pubDate>Wed, 15 Oct 2025 09:00:05 +0000</pubDate>
+      <title>ICFP Programming Contest 2025におけるAIツールShinkaEvolveとの協働 - iwiwiの日記</title>
+      <link>https://iwiwi.hatenablog.com/entry/2025/10/16/093411</link>
+      <description>我々チームUnagiはICFP Programming Contest 2025にて優勝することが出来ました。今回、私はこのコンテスト中に勤務先Sakana AIが開発するAIツール「ShinkaEvolve」を活用することを試みました。この記事では、ShinkaEvolveがコンテスト中に我々にどのように貢献したかを説明します。 ShinkaEvolveは我々の解法の中核で... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://iwiwi.hatenablog.com/entry/2025/10/16/093411</guid>
+      <pubDate>Thu, 16 Oct 2025 08:32:38 +0000</pubDate>
     </item>
     <item>
       <title>Elixir v1.19リリース — 型システムの強化、大規模プロジェクトにおけるコンパイル速度が4倍以上高速化</title>
@@ -107,14 +106,14 @@ AI Agentシステムを開発したいと考えたとき、「何から手をつ
       <pubDate>Thu, 16 Oct 2025 21:38:29 +0000</pubDate>
     </item>
     <item>
-      <title>特定の日本人名だけが文字化けする謎 - NKFのオプションに潜む問題</title>
-      <link>https://qiita.com/hirokimry/items/843e75366a966073ce44?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>1年で1万円以上コストダウンかも!? 外国製AIを有料課金するならRevolut</title>
+      <link>https://zenn.dev/salesnow_tech/articles/0fb28697da1108</link>
       <description>はじめに
-Railsアプリケーションで氏名を扱う機能を実装していたところ、奇妙な現象に遭遇しました。「前田莉菜」という名前だけが文字化けするのです。他の名前は正常に保存できるのに、なぜこの名前だけ？
-この記事では、問題の原因を特定し、解決するまでの過程を共有します。
-※本... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/hirokimry/items/843e75366a966073ce44?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 15 Oct 2025 08:15:35 +0000</pubDate>
+エンジニアの皆さん、日々の開発業務でAIの力を借りる場面が増えていませんか？特に、コーディングに特化したAI、例えばOpenAIの「Codex」やAnthropicの「Claude Code」などは、生産性を劇的に向上させる可能性を秘めています。
+これらの高機能なAIサービスを最大限に活用するため、有料プランを契約している方も多いでしょう。しかし、サービスの多くは海外企業によって運営されており、支払いは米ドルやユーロで行われます。その際に、普段お使いの日本のクレジットカードでは、「海外事務手数料」という隠れたコストが発生していることをご存知でしょうか。
+本記事では、この手数... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/salesnow_tech/articles/0fb28697da1108</guid>
+      <pubDate>Thu, 16 Oct 2025 23:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
