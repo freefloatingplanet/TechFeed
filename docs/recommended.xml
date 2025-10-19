@@ -7,41 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Oct 2025 13:01:33 +0000</lastBuildDate>
-    <item>
-      <title>小規模チームがゼロからTerraform構成を設計した話 - AI時代の運用を見据えて</title>
-      <link>https://zenn.dev/pivotmedia/articles/pivot-terraform-ai-era-design</link>
-      <description>こんにちは。PIVOTでソフトウェアエンジニアとして、Webフロントエンド、バックエンド、インフラを横断的に担当している@tawachanです。
-この記事では、PIVOTのプロダクトチームでインフラのTerraform化を推進した経験を共有します。IaCできていなかった状態から、AI時代の運用を見据えた構成をゼロから設計した過程と判断基準について、振り返りながら紹介していきます。
-
- PIVOTのチーム状況と背景
-
- チーム体制
-PIVOTはビジネス映像メディア「PIVOT」を運営する会社です。開発チームは正社員エンジニア3名、QAエンジニア1名、プロダクトマネージャー1名、業務委託で数... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pivotmedia/articles/pivot-terraform-ai-era-design</guid>
-      <pubDate>Thu, 16 Oct 2025 12:36:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Skillsが公開 — Claudeを「スキル」によってカスタマイズ可能に</title>
-      <link>https://techfeed.io/entries/68f16216bf99ab1d80efbf81?from=rss</link>
-      <description>10月17日、Anthropicが「Claude Skills: Customize AI for your workflows」と題した記事を公開した。この記事では、生成AI「Claude」における新機能「Skills（スキル）」を使って、特定の業務やワークフローに合わせてAIをカスタマイズする方法について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68f16216bf99ab1d80efbf81?from=rss</guid>
-      <pubDate>Thu, 16 Oct 2025 21:22:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>NIST Special Publication 800-63B</title>
-      <link>https://pages.nist.gov/800-63-4/sp800-63b.html</link>
-      <description>Tue, 26 Aug 2025 08:51:12 -0500 ABSTRACT This guideline focuses on the authentication of subjects who interact with government information systems over networks to establish that a given claimant is a subscriber who has been previously authenticated. The result of the authentication process may b... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://pages.nist.gov/800-63-4/sp800-63b.html</guid>
-      <pubDate>Sat, 28 Sep 2024 03:26:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Codeを駆使した初めてのiOSアプリ開発 ~ゼロから3週間でグローバルハッカソンで入賞するまで~</title>
-      <link>https://speakerdeck.com/oikon48/claude-codewoqu-shi-sitachu-metenoiosapurikai-fa-zerokara3zhou-jian-degurobaruhatukasonderu-shang-surumade</link>
-      <description>Claude Code Meetup Tokyo: https://aiau.connpass.com/event/369265/ X: https://x.com/oikon48 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://speakerdeck.com/oikon48/claude-codewoqu-shi-sitachu-metenoiosapurikai-fa-zerokara3zhou-jian-degurobaruhatukasonderu-shang-surumade</guid>
-      <pubDate>Fri, 17 Oct 2025 11:24:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Oct 2025 01:24:48 +0000</lastBuildDate>
     <item>
       <title>[レポート] Claude Code Meetup Tokyo #ClaudeCodeMeetupTokyo</title>
       <link>https://zenn.dev/truestar/articles/f4707bb745a74b</link>
@@ -53,23 +19,6 @@ https://aiau.connpass.com/event/369265/
 個人的にも業務でClaude Codeを使うようになっており、直近最新のClaude Codeに関する情報を収集したい！という思いもあったので当日はオンライン視聴で参戦しました。当エントリ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/truestar/articles/f4707bb745a74b</guid>
       <pubDate>Fri, 17 Oct 2025 15:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>TinyGo Conference 2025を開催しました ~とあるスタッフより~</title>
-      <link>https://zenn.dev/satoken/articles/tinygo-conf-2025</link>
-      <description>はじめに
-satoken です。
-先日世界初のイベントとなる TinyGo Conference 2025 を開催しました！
-https://x.com/sago35tk/status/1977358331841749290
-ご参加頂いた方々、ありがとうございました。
-快くスポンサー頂いた皆様、当日ご協力頂いたスタッフの皆様も本当にありがとうございました。
-この TinyGo Conf の開催に深く関わった1人のスタッフ&amp;酒クズとして、個人的なイベントレポートとしたいと思います。
-
- 資料まとめ
-最初に当日の資料をまとめておきます。
-オープニングセッション : TinyGo ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/satoken/articles/tinygo-conf-2025</guid>
-      <pubDate>Thu, 16 Oct 2025 15:23:45 +0000</pubDate>
     </item>
     <item>
       <title>Claude Skillsを使ってみた - システムプロンプト的なカスタマイズが面白い</title>
@@ -87,6 +36,26 @@ Claude Skillsの概要
       <pubDate>Fri, 17 Oct 2025 09:41:40 +0000</pubDate>
     </item>
     <item>
+      <title>Railsの環境変数を `.env` から `credentials.yml.enc` に移行するメリット</title>
+      <link>https://qiita.com/J-hata/items/296e90b2aaf5164a66fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>💬 はじめに
+Railsアプリで環境変数を管理するとき、dotenv の gem を使って .env ファイルに書いている方、多いと思います。
+でも、環境が増えるほど .env.development, .env.staging, .env.production ... ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/J-hata/items/296e90b2aaf5164a66fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 18 Oct 2025 02:19:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>DAMIAO DM2325（M2006互換?）を回してみた！</title>
+      <link>https://qiita.com/jani/items/0ade04170421b8612d71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+こんにちは！
+豊橋技術科学大学 学ロボ2025世代のじゃにです！
+学ロボ2025では、RC(背が高い方のロボット)の全体・ローラ機構の設計とピットクルーを担当していました．
+今回は、TwitterでRoboMaster M2006(以下M2006)の互換品(大嘘... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/jani/items/0ade04170421b8612d71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 17 Oct 2025 16:55:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Elixir v1.19リリース — 型システムの強化、大規模プロジェクトにおけるコンパイル速度が4倍以上高速化</title>
       <link>https://techfeed.io/entries/68f165d6b335ef58049991da?from=rss</link>
       <description>10月17日、Elixir公式ブログが「Elixir v1.19 released: enhanced type checking, broader type inference, and up to 4x faster compilation for large projects」と題した記事を公開した。この記事では、型推論と型検査の強化、プロトコルや無名関数に対する検査の拡張、そして大規模プロジェクトで最大4倍のビルド高速化につながるコンパイラ改良について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
@@ -94,17 +63,41 @@ Claude Skillsの概要
       <pubDate>Thu, 16 Oct 2025 21:38:29 +0000</pubDate>
     </item>
     <item>
-      <title>AWS Bedrockを利用して、AWSの日本国内に閉じてClaude Codeを利用しよう！！</title>
-      <link>https://zenn.dev/tsumita7/articles/closed-cloud-code-on-aws</link>
-      <description>みなさん、Claude Codeは利用していますか？私はほぼ毎日使っています。
-ClaudeがAWS Marketplace経由で購入できる、Claude for Enterprise Premium Seats with Claude Code Now Available in AWS Marketplaceの発表があり、個人的に盛り上がっている今日この頃です。
-突然ですが、のっぴきならない事情でAWSの日本国内に閉じた形でClaude Codeを利用したいと思ったことはないでしょうか？
-思ったことがある！という方にはこの記事はピッタリだと思います。
+      <title>シリアライゼーションによる脆弱性の理解</title>
+      <link>https://qiita.com/Jim_Jin/items/569d12df38dc378d7dbe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+会社の社内勉強会で『安全なWebアプリケーションの作り方』1という本を選定し、シリアライゼーションに関する解説部分を担当することになって整理して見ました。本の内容を参考にしつつも、ほとんどの部分を自分なりに再構成してまとめました。
+本記事では、プログラム間でデー... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Jim_Jin/items/569d12df38dc378d7dbe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 16 Oct 2025 06:21:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>RSNA 2025 3D脳動脈セグメンテーションの作り方</title>
+      <link>https://zenn.dev/sugupoko/articles/f6cc381c65f09e</link>
+      <description>!
+「最終的なアプローチ」を見れば一瞬でわかります。
+コンペ内容をすでに把握している方は読み飛ばしてOKです。
 
- サマリ
-この記事を読むと、図の... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tsumita7/articles/closed-cloud-code-on-aws</guid>
-      <pubDate>Thu, 16 Oct 2025 15:18:13 +0000</pubDate>
+
+ はじめに
+kaggle RSNA2025 では、脳内動脈瘤（intracranial aneurysm）を検出・局所化することを目的とした AI コンペティションが開催されている。
+配布されているデータには、以下が含まれている：
+
+画像（CT や MRI 等、4000件くらい）
+どの部位に動脈瘤があるかのラベル（１３クラス＋有無、予測対象）
+多クラスのセグメンテーションラベル（13クラス、補助データ、200件ほど）
+動脈瘤の座標情報（13クラスxy座標、補助データ）
+
+こ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sugupoko/articles/f6cc381c65f09e</guid>
+      <pubDate>Sat, 18 Oct 2025 01:12:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code Subagents 再入門 ~cc-sddの実装で学んだこと~ - Speaker Deck</title>
+      <link>https://speakerdeck.com/player/cd4536704070441ebe1c7a48d64ad0c0</link>
+      <description>自己紹介 Gota (@gota_bara) 所属 データアナリスト &amp; エージェントエンジニア やってること ⼩売向けデータプロダクト / AIエージェント開発 / データ整備 興味 AI × 体験 / ⾳声AI / DSPy / 🏕(夏以外) / アニメ 仕様駆動開発ツール「cc-sdd」 1.5kも⾒えてきた！ 2 ● Brownﬁeld開発に対応するた めのcommandsを⽤意 仕... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://speakerdeck.com/player/cd4536704070441ebe1c7a48d64ad0c0</guid>
+      <pubDate>Sat, 18 Oct 2025 16:59:07 +0000</pubDate>
     </item>
     <item>
       <title>【2025/10/17最新アプデ】Claude Code 2.0.20、エージェントスキルの導入とチーム配布の解説</title>
@@ -119,6 +112,16 @@ https://docs.claude.com/en/docs/claude-code/skills
 当社カンリーでも早速導入してみたので、手順を記事とし... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/canly/articles/965cc8e7e9be8d</guid>
       <pubDate>Fri, 17 Oct 2025 08:13:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>1年で1万円以上コストダウンかも!? 外国製AIを有料課金するならRevolut</title>
+      <link>https://zenn.dev/salesnow_tech/articles/0fb28697da1108</link>
+      <description>はじめに
+エンジニアの皆さん、日々の開発業務でAIの力を借りる場面が増えていませんか？特に、コーディングに特化したAI、例えばOpenAIの「Codex」やAnthropicの「Claude Code」などは、生産性を劇的に向上させる可能性を秘めています。
+これらの高機能なAIサービスを最大限に活用するため、有料プランを契約している方も多いでしょう。しかし、サービスの多くは海外企業によって運営されており、支払いは米ドルやユーロで行われます。その際に、普段お使いの日本のクレジットカードでは、「海外事務手数料」という隠れたコストが発生していることをご存知でしょうか。
+本記事では、この手数... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/salesnow_tech/articles/0fb28697da1108</guid>
+      <pubDate>Thu, 16 Oct 2025 23:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
