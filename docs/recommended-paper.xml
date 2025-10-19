@@ -7,14 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Oct 2025 01:24:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 12:31:40 +0000</lastBuildDate>
     <item>
-      <title>情報利得に基づく方策最適化：シンプルかつ効果的な
-マルチターンLLMエージェントへのアプローチ</title>
-      <link>http://arxiv.org/abs/2510.14967v1</link>
-      <description>大規模言語モデル（LLM）ベースのエージェントは、ツールの使用を通じて外部環境と相互作用する能力を高めるために、強化学習（RL）によるトレーニングがますます増えています。特に、複数ターンの推論と知識獲得を必要とする探索ベースの設定において顕著です。しかし、既存のアプローチは通常、最終回答時にのみ提供される結果ベースの報酬に依存しています。この報酬のスパース性は、複数ターンの設定において特に問題となります。長い軌跡は、2つの重大な問題を悪化させます。(i) 優位性の崩壊（すべてのロールアウトで同一の報酬が与えられ、有用な学習シグナルが提供されない）、および(ii) きめ細かなクレジット割り当ての欠如（特に長期タスクにおいて、ターン間の依存関係が不明瞭になる）です。本稿では、複数ターンのエージェントトレーニングに高密度で本質的な教師を提供する、シンプルでありながら効果的なRLフレームワークである情報ゲインベースのポリシー最適化（IGPO）を提案します。 IGPOは、各インタラクションターンを、グラウンドトゥルースに関する情報を取得する増分プロセスとしてモデル化し、ターンレベルの報酬を、ポリ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.14967v1</guid>
-      <pubDate>Thu, 16 Oct 2025 17:59:32 +0000</pubDate>
+      <title>トレーニング不要のマルチビュー画像編集のための結合拡散サンプリング</title>
+      <link>http://arxiv.org/abs/2510.14981v1</link>
+      <description>事前学習済みの2D画像編集モデルを用いて、マルチビュー整合性のある画像編集を実行するための推論時間拡散サンプリング法を提案する。これらのモデルは、3Dシーンまたはオブジェクトのマルチビュー画像セット内の各画像に対して独立して高品質の編集を生成できるが、ビュー間の整合性は維持されない。既存のアプローチは通常、明示的な3D表現を最適化することでこの問題に対処しているが、最適化プロセスが長くなり、スパースビュー設定では不安定になるという問題がある。本稿では、生成された2D画像シーケンスが事前学習済みのマルチビュー画像分布に従うように制約する、暗黙的な3D正則化アプローチを提案する。これは、結合拡散サンプリングによって実現される。これは、マルチビュー画像分布と2D編集画像分布の両方から2つの軌跡を同時にサンプリングするシンプルな拡散サンプリング手法であり、結合項を用いて生成された画像間のマルチビュー整合性を強化する。このフレームワークの有効性と汎用性を、3つの異なるマルチビュー画像編集タスクで検証し、様々なモデルアーキテクチャへの適用性を実証するとともに、マルチビュー一貫性編集の汎用ソリューシ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.14981v1</guid>
+      <pubDate>Thu, 16 Oct 2025 17:59:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

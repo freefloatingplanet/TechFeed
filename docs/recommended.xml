@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Oct 2025 01:24:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 12:31:34 +0000</lastBuildDate>
+    <item>
+      <title>【DevIO 2025】実践Claude Code：20の失敗から学ぶAIペアプログラミング 発表資料 | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/developersio-2025-tokyo-practice-claude-code-materials/</link>
+      <description>こんにちは。サービス開発室の武田です。 DevelopersIO 2025 TOKYO で「実践Claude Code：20の失敗から学ぶAIペアプログラミング」というタイトルで発表させていただきました。 お越しいただいた皆様、ありがとうございました！ 登壇資料 登壇資料はこちらになります。 最後に この投稿は10月18日13時に予約投稿していま... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://dev.classmethod.jp/articles/developersio-2025-tokyo-practice-claude-code-materials/</guid>
+      <pubDate>Sun, 19 Oct 2025 04:52:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>サーバー代0円！ P2Pと無料サービスだけでリアルタイム対戦オセロを作った話</title>
+      <link>https://zenn.dev/kinnkinn/articles/ff844e4d9e3ce4</link>
+      <description>概要 この記事では、サーバーコストを一切かけずにブラウザで動作するリアルタイム対戦ゲームを開発した際の技術的な構成と実装について解説します。WebRTC (PeerJS) によるP2P通信を主軸に、シグナリングサーバーをRender、フロントエンドをGitHub Pagesにデプロイすることで、完全無料で動作するブラウザオセロゲーム... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/kinnkinn/articles/ff844e4d9e3ce4</guid>
+      <pubDate>Sat, 18 Oct 2025 14:31:06 +0000</pubDate>
+    </item>
     <item>
       <title>[レポート] Claude Code Meetup Tokyo #ClaudeCodeMeetupTokyo</title>
       <link>https://zenn.dev/truestar/articles/f4707bb745a74b</link>
@@ -63,34 +77,11 @@ Railsアプリで環境変数を管理するとき、dotenv の gem を使って
       <pubDate>Thu, 16 Oct 2025 21:38:29 +0000</pubDate>
     </item>
     <item>
-      <title>シリアライゼーションによる脆弱性の理解</title>
-      <link>https://qiita.com/Jim_Jin/items/569d12df38dc378d7dbe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-会社の社内勉強会で『安全なWebアプリケーションの作り方』1という本を選定し、シリアライゼーションに関する解説部分を担当することになって整理して見ました。本の内容を参考にしつつも、ほとんどの部分を自分なりに再構成してまとめました。
-本記事では、プログラム間でデー... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Jim_Jin/items/569d12df38dc378d7dbe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 16 Oct 2025 06:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>RSNA 2025 3D脳動脈セグメンテーションの作り方</title>
-      <link>https://zenn.dev/sugupoko/articles/f6cc381c65f09e</link>
-      <description>!
-「最終的なアプローチ」を見れば一瞬でわかります。
-コンペ内容をすでに把握している方は読み飛ばしてOKです。
-
-
- はじめに
-kaggle RSNA2025 では、脳内動脈瘤（intracranial aneurysm）を検出・局所化することを目的とした AI コンペティションが開催されている。
-配布されているデータには、以下が含まれている：
-
-画像（CT や MRI 等、4000件くらい）
-どの部位に動脈瘤があるかのラベル（１３クラス＋有無、予測対象）
-多クラスのセグメンテーションラベル（13クラス、補助データ、200件ほど）
-動脈瘤の座標情報（13クラスxy座標、補助データ）
-
-こ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sugupoko/articles/f6cc381c65f09e</guid>
-      <pubDate>Sat, 18 Oct 2025 01:12:26 +0000</pubDate>
+      <title>Ten Years, Starting Again: My Journey with TiDB</title>
+      <link>https://medium.com/@siddontang/ten-years-starting-again-my-journey-with-tidb-d017139331a3</link>
+      <description>The most precious things in life are memories and reflection. Time flies — ten years have passed. On April 1, 2015, Max asked me, very seriously on April Fools’ Day, “Do you want to start a company together?” From that moment, I jumped on the TiDB train. The ride has been bumpy and brilliant. In ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://medium.com/@siddontang/ten-years-starting-again-my-journey-with-tidb-d017139331a3</guid>
+      <pubDate>Sun, 19 Oct 2025 08:47:07 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code Subagents 再入門 ~cc-sddの実装で学んだこと~ - Speaker Deck</title>
@@ -112,16 +103,6 @@ https://docs.claude.com/en/docs/claude-code/skills
 当社カンリーでも早速導入してみたので、手順を記事とし... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/canly/articles/965cc8e7e9be8d</guid>
       <pubDate>Fri, 17 Oct 2025 08:13:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>1年で1万円以上コストダウンかも!? 外国製AIを有料課金するならRevolut</title>
-      <link>https://zenn.dev/salesnow_tech/articles/0fb28697da1108</link>
-      <description>はじめに
-エンジニアの皆さん、日々の開発業務でAIの力を借りる場面が増えていませんか？特に、コーディングに特化したAI、例えばOpenAIの「Codex」やAnthropicの「Claude Code」などは、生産性を劇的に向上させる可能性を秘めています。
-これらの高機能なAIサービスを最大限に活用するため、有料プランを契約している方も多いでしょう。しかし、サービスの多くは海外企業によって運営されており、支払いは米ドルやユーロで行われます。その際に、普段お使いの日本のクレジットカードでは、「海外事務手数料」という隠れたコストが発生していることをご存知でしょうか。
-本記事では、この手数... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/salesnow_tech/articles/0fb28697da1108</guid>
-      <pubDate>Thu, 16 Oct 2025 23:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
