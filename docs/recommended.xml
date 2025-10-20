@@ -7,7 +7,36 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Oct 2025 01:21:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 12:36:48 +0000</lastBuildDate>
+    <item>
+      <title>Cortex Analyst と Streamlit を用いた Text2SQL アプリ作成</title>
+      <link>https://zenn.dev/chihilong/articles/text2sql-app-cortex-analyst-streamlit</link>
+      <description>記事の概要
+こんにちは。シンプルフォーム株式会社でインターンをしています、長井です。
+この記事では、Cortex Analyst [1] を用いたチャットアプリケーションを Streamlit [2] で構築した事例を紹介します。具体的には本アプリケーションで実装した以下の機能を説明します。
+
+チャット機能
+
+チャット
+リクエスト数のカウント
+Semantic View の選択
+直前までの質問を参考にした回答の生成
+
+
+補助機能
+
+フィードバックフォーム
+チャット履歴ページ
+Semantic View の定義確認ページ
+
+
+
+
+ 背景・課題
+当社では社内向けのデータ分析基盤として S... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chihilong/articles/text2sql-app-cortex-analyst-streamlit</guid>
+      <pubDate>Mon, 20 Oct 2025 05:13:15 +0000</pubDate>
+    </item>
     <item>
       <title>【海外記事紹介】あなたが避けるべきSQLアンチパターン6選</title>
       <link>https://techfeed.io/entries/68f55c45170d8b37b0b14178?from=rss</link>
@@ -23,28 +52,37 @@
       <pubDate>Sun, 19 Oct 2025 21:56:06 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Skillsを使ってみた - システムプロンプト的なカスタマイズが面白い</title>
-      <link>https://zenn.dev/lnest_knowledge/articles/2912bc87bc83d5</link>
+      <title>DroidKaigi 2025: Hondaブースで展示したAndroid Automotive OS</title>
+      <link>https://qiita.com/Koji-Otsubo/items/6a790b27cc7be92a8b54?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-最近、Claude（claude.ai）に「Skills」という機能が追加されました。これは、Claudeの動作をカスタマイズできる機能で、使ってみたところかなり便利だったので紹介します。
-一言で表すと、Claude Skillsはシステムプロンプトのようなものだと思います。特定のタスクに対して、Claudeの動作を事前に定義しておくことができます。
-この記事では、実際にいくつかのスキルを作成・使用してみた感想と、標準で用意されているスキルについて紹介します。
+Hondaはモビリティをもっと便利で楽しくするために、さまざまなデジタルプロダクトを開発しています。
 
- この記事で分かること
-
-Claude Skillsの概要
-スキル作成の流れ（skill-creatorを使用）... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lnest_knowledge/articles/2912bc87bc83d5</guid>
-      <pubDate>Fri, 17 Oct 2025 09:41:40 +0000</pubDate>
+車に搭載された Android Automotive OS 上で動くアプリ
+Apple CarPlay、Android Auto で車のディスプレイに投影して... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Koji-Otsubo/items/6a790b27cc7be92a8b54?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Mon, 20 Oct 2025 07:17:35 +0000</pubDate>
     </item>
     <item>
-      <title>Railsの環境変数を `.env` から `credentials.yml.enc` に移行するメリット</title>
-      <link>https://qiita.com/J-hata/items/296e90b2aaf5164a66fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>💬 はじめに
-Railsアプリで環境変数を管理するとき、dotenv の gem を使って .env ファイルに書いている方、多いと思います。
-でも、環境が増えるほど .env.development, .env.staging, .env.production ... ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/J-hata/items/296e90b2aaf5164a66fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 18 Oct 2025 02:19:09 +0000</pubDate>
+      <title>自分用 LLMコーディングエージェント ノウハウまとめ 2025年10月版</title>
+      <link>https://zenn.dev/engawawa/articles/8936c60d13bafd</link>
+      <description>■ はじめに
+
+色々情報拾ったり使ってみたりでなんとなく上手く使えてきたので現時点のノウハウをまとめる
+CLIで利用できるツールに関して主に取り扱う
+
+issueやPRでの運用は反復コストが思ったより大きくてあまりしていない
+
+
+LLMそのものの仕組みには特に触れず、ツールとしての使い方にフォーカスしている
+
+!
+自分なりの整理と共有用なので最新かつベストなやり方とは限らないので注意。
+また、調べれば全て同等以上の内容が出てくるので、あくまで自分なりの整理と身内での共有のための文書という位置づけです。
+
+!
+定量的に性能を比較して試したりはしていないため、投稿者の主観により『なんかう... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/engawawa/articles/8936c60d13bafd</guid>
+      <pubDate>Sun, 19 Oct 2025 17:29:57 +0000</pubDate>
     </item>
     <item>
       <title>Elixir v1.19リリース — 型システムの強化、大規模プロジェクトにおけるコンパイル速度が4倍以上高速化</title>
@@ -54,25 +92,35 @@ Railsアプリで環境変数を管理するとき、dotenv の gem を使って
       <pubDate>Thu, 16 Oct 2025 21:38:29 +0000</pubDate>
     </item>
     <item>
-      <title>k8s-1m Overview</title>
-      <link>https://bchess.github.io/k8s-1m/</link>
-      <description>This is an effort to create a fully functional Kubernetes cluster with 1 million active nodes. Several years ago at OpenAI I helped author Scaling Kubernetes to 7500 Nodes which remains one of the CNCF’s most popular blog posts. Alibaba made a post about running Kubernetes clusters with 10K nodes... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://bchess.github.io/k8s-1m/</guid>
-      <pubDate>Sun, 19 Oct 2025 14:17:15 +0000</pubDate>
+      <title>【結論】TypeScriptの型定義はtypeよりinterfaceを使うべき理由</title>
+      <link>https://zenn.dev/bmth/articles/interface-props-extends</link>
+      <description>はじめに TypeScriptでコンポーネントのPropsやオブジェクトの型を定義するとき、typeとinterfaceのどちらを使うべきか、一度は悩んだことがあるのではないでしょうか。 巷では「どちらでも良い」「チームで統一されていればOK」といった意見もよく見かけます。 しかし、私は 明確な理由をもって「基本的にはinterfaceを... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/bmth/articles/interface-props-extends</guid>
+      <pubDate>Mon, 20 Oct 2025 04:29:31 +0000</pubDate>
     </item>
     <item>
-      <title>【2025/10/17最新アプデ】Claude Code 2.0.20、エージェントスキルの導入とチーム配布の解説</title>
-      <link>https://zenn.dev/canly/articles/965cc8e7e9be8d</link>
+      <title>Trocco の運用を Terraform 管理に変えてみた</title>
+      <link>https://zenn.dev/medley/articles/a68e98452e1adf</link>
       <description>はじめに
-この記事は、本日2025/10/17にリリースされたClaude Code 2.0.20以降に利用が可能となった、
-スキルを自作導入する方法や、チーム内で配布するための方法を解説する記事です。
-公式のドキュメント記事（日本語版はまだ無い）を、まずはご確認ください。
-https://docs.claude.com/en/docs/claude-code/skills
-カスタムスラッシュコマンド、サブエージェント、MCP、フック等の機能に加え、
-今回新たに「エージェントスキル（以降「スキル」と表記します）」が追加されました。
-当社カンリーでも早速導入してみたので、手順を記事とし... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/canly/articles/965cc8e7e9be8d</guid>
-      <pubDate>Fri, 17 Oct 2025 08:13:36 +0000</pubDate>
+こんにちは、メドレーでデータエンジニアをしている山邉（@beniyama）です。
+先日、弊社で利用中の Trocco についてこちらの記事を寄稿させていただきましたが、今後の展望として以下を挙げていました。
+
+上述の通り段々と規模が大きくなってきて GUI での管理が大変になってきているため、API や Terraform 経由でのプロビジョニングも生成 AI を絡めて試していきたいです。
+
+https://findy-tools.io/products/trocco/17/662
+今回、Trocco の一部運用を Terraform による IaC (Infrastruc... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/medley/articles/a68e98452e1adf</guid>
+      <pubDate>Sun, 19 Oct 2025 23:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>帰ってきた IETF 124 Side Meeting 差分アップデート（2025年10月19日版）</title>
+      <link>https://qiita.com/satokan3/items/1a8d5cb33b35c6acc59e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>そろそろIETF124の開催が近づいてきてきましたね！
+GMOコネクト 菅野（かんの）です。
+10月14日に公開した「【徹底分析】IETF 124 Side Meeting まとめ」から、Trelloボード上の構成が複数更新されました。
+本記事では、Trello公式ボード・... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/satokan3/items/1a8d5cb33b35c6acc59e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Mon, 20 Oct 2025 04:04:54 +0000</pubDate>
     </item>
     <item>
       <title>RSA暗号に対する攻撃 - 共通の公開モジュラスに対する攻撃</title>
@@ -85,25 +133,6 @@ RSA暗号では2つの大きな素数（$=p, q$）を使って、次の数字を
 オイラー関数 $\phi(N) = (p -... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/embermaverick05/items/e287d54d0baf735497ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Sun, 19 Oct 2025 02:19:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>James Shore: The Accountability Problem</title>
-      <link>https://www.jamesshore.com/v2/blog/2025/the-accountability-problem</link>
-      <description>This is a transcript of my keynote presentation at the Agile Cambridge conference in England on October 2nd, 2025. The topic was “The Accountability Problem.” How do we define software department accountability so our business partners don’t do it for us? Introduction The Accountability Problem D... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.jamesshore.com/v2/blog/2025/the-accountability-problem</guid>
-      <pubDate>Sun, 19 Oct 2025 15:33:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude CodeにAgent Skillsを自作してもらった</title>
-      <link>https://zenn.dev/ncdc/articles/77b4150bc3148f</link>
-      <description>はじめに
-先日発表されたClaude CodeのAgent Skillsですが、既に日本語ドキュメントも公開されているのですね。早くて驚きました。
-https://docs.claude.com/ja/docs/claude-code/skills
-ということで、早速Agent Skillsを試してみました。
-まだAgent Skillsをちゃんと理解していないのですが、きっちり作って配布するというより個人用のちょっとした便利ツールとして使うものだと思っています。なので、作ったものの中身よりもどう作ったかを中心に書きます。
-なお、この記事では、とりあえず試すことを重視で生成AI丸投げ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/77b4150bc3148f</guid>
-      <pubDate>Sat, 18 Oct 2025 04:41:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Oct 2025 01:21:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 12:36:53 +0000</lastBuildDate>
     <item>
       <title>技術提供から共創へ転換～クロスユーがアフリカ5機関と宇宙分野で戦略的連携【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/42585/</link>
       <description>クロスユーは、TICAD9でアフリカ諸国の5機関と宇宙分野のパートナーシップを締結。その概要と締結を発表した5機関それぞれの取り組みについて、簡潔に紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/42585/</guid>
       <pubDate>Mon, 06 Oct 2025 02:23:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESA火星探査機20年間の観測画像から1000以上の塵旋風を検出・カタログ化</title>
-      <link>https://sorae.info/astronomy/20251018-mars-dust-devil.html</link>
-      <description>こちらは、ESA＝ヨーロッパ宇宙機関の火星探査機「Trace Gas Orbtiter（TGO、トレース・ガス・オービター）」が捉えた火星の表面。TGOのカラー・ステレオ表面撮像システム「CaSSIS」で2021年12月… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20251018-mars-dust-devil.html</guid>
-      <pubDate>Sat, 18 Oct 2025 12:18:50 +0000</pubDate>
     </item>
     <item>
       <title>スターシップ、10月14日に11回目の打ち上げへ–ブースターを発射台に移動</title>
@@ -44,6 +37,13 @@
       <pubDate>Wed, 15 Oct 2025 07:21:42 +0000</pubDate>
     </item>
     <item>
+      <title>スペースX、1万機目の「スターリンク」衛星を軌道に投入–最終的には3万機に</title>
+      <link>https://uchubiz.com/article/new66834/</link>
+      <description>米Space Exploration Technologies（SpaceX、スペースX）は米国時間10月19日、1万機目となる「Starlink」（スターリンク）衛星を打ち上げた。米メディアSpace.comが報じた […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new66834/</guid>
+      <pubDate>Mon, 20 Oct 2025 05:20:08 +0000</pubDate>
+    </item>
+    <item>
       <title>【速報】スターシップ、11回目の打ち上げ成功–現行バージョン最後の打ち上げ、より大型化へ</title>
       <link>https://uchubiz.com/article/new66680/</link>
       <description>Space Exploration Technologies Corporation（SpaceX、スペースX）は日本時間10月14日、次世代ロケット「Starship」（スターシップ）の11回目（Flight 11） […] (source: Uchubiz)</description>
@@ -58,18 +58,18 @@
       <pubDate>Thu, 16 Oct 2025 06:40:12 +0000</pubDate>
     </item>
     <item>
-      <title>宇宙デブリ化防止装置「HORN」を開発するBULLが、IAC期間にArianespaceとXDLINX Space Labsとのそれぞれの進捗を発表【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/42699/</link>
-      <description>宇宙デブリ低減技術「HORN」を開発するBULLは、世界最大級の宇宙カンファレンス「IAC」で、ArianespaceとXDLINX Space Labsとの進捗をそれぞれ発表しました。その概要を紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/42699/</guid>
-      <pubDate>Fri, 03 Oct 2025 23:30:40 +0000</pubDate>
-    </item>
-    <item>
       <title>Space Quarters、7.5億円を調達–宇宙建築ロボットシステムを開発</title>
       <link>https://uchubiz.com/article/new66730/</link>
       <description>Space Quarters（東京都渋谷区）は7.5億円を調達した。シードラウンドとしてFrontier Innovationsがリード投資家となり、慶應イノベーション・イニシアティブ、グローバル・ブレインが運営する東 […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new66730/</guid>
       <pubDate>Wed, 15 Oct 2025 05:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>宇宙デブリ化防止装置「HORN」を開発するBULLが、IAC期間にArianespaceとXDLINX Space Labsとのそれぞれの進捗を発表【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/42699/</link>
+      <description>宇宙デブリ低減技術「HORN」を開発するBULLは、世界最大級の宇宙カンファレンス「IAC」で、ArianespaceとXDLINX Space Labsとの進捗をそれぞれ発表しました。その概要を紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/42699/</guid>
+      <pubDate>Fri, 03 Oct 2025 23:30:40 +0000</pubDate>
     </item>
     <item>
       <title>米ヴァスト、民間宇宙ステーションの準備進める–2026年第2四半期にも打ち上げ</title>

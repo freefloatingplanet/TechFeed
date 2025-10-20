@@ -7,14 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Oct 2025 01:21:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 12:36:55 +0000</lastBuildDate>
     <item>
-      <title>情報利得に基づく方策最適化：シンプルかつ効果的な
-マルチターンLLMエージェントへのアプローチ</title>
-      <link>http://arxiv.org/abs/2510.14967v1</link>
-      <description>大規模言語モデル（LLM）ベースのエージェントは、ツールの使用を通じて外部環境と相互作用する能力を高めるために、強化学習（RL）によるトレーニングがますます増えています。特に、複数ターンの推論と知識獲得を必要とする探索ベースの設定において顕著です。しかし、既存のアプローチは通常、最終回答時にのみ提供される結果ベースの報酬に依存しています。この報酬のスパース性は、複数ターンの設定において特に問題となります。長い軌跡は、2つの重大な問題を悪化させます。(i) 優位性の崩壊（すべてのロールアウトで同一の報酬が与えられ、有用な学習シグナルが提供されない）、および(ii) きめ細かなクレジット割り当ての欠如（特に長期タスクにおいて、ターン間の依存関係が不明瞭になる）です。本稿では、複数ターンのエージェントトレーニングに高密度で本質的な教師を提供する、シンプルでありながら効果的なRLフレームワークである情報ゲインベースのポリシー最適化（IGPO）を提案します。 IGPOは、各インタラクションターンを、グラウンドトゥルースに関する情報を取得する増分プロセスとしてモデル化し、ターンレベルの報酬を、ポリ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.14967v1</guid>
-      <pubDate>Thu, 16 Oct 2025 17:59:32 +0000</pubDate>
+      <title>複雑で検証不可能な主題領域における自己進化する専門知識：
+暗黙的なメタ強化学習としての対話</title>
+      <link>http://arxiv.org/abs/2510.15772v1</link>
+      <description>いわゆる「厄介な問題」、すなわち複雑で多次元的な設定、検証不可能な結果、不均一な影響、そして単一の客観的に正しい答えの欠如を伴う問題は、歴史を通じて人類を悩ませてきました。現代の例としては、司法の枠組みに関する決定、環境汚染の解決、パンデミックへのレジリエンスと食料安全保障の計画などが挙げられます。最先端の人工知能システム（特に大規模言語モデル（LLM）ベースのエージェント）を人間と協働させてこのような問題を解決する手法が、現在積極的に研究されています。LLMの能力は、例えば微調整、システムプロンプトの手動作成、外部ツールによる足場構築などによって向上させることができますが、LLMには、そのような設定での経験を通じて専門知識を習得するための内生的なメカニズムが欠けています。本研究では、エージェントが定義されたトピックについて構造化された対話を行い、記憶、自己反省、そしてポリシーに制約されたコンテキスト編集によって強化されたフレームワークであるDialecticaを用いて、このギャップを解消します。正式には、議論は暗黙的なメタ強化学習プロセスとみなされます。対話訓練を受けたエージェントは (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.15772v1</guid>
+      <pubDate>Fri, 17 Oct 2025 15:59:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>適応型協調型マルチロボットシステムのための機内ミッション再計画</title>
+      <link>http://arxiv.org/abs/2506.06094v2</link>
+      <description>協調型自律ロボットシステムは、宇宙、空中、地上、海上領域にわたる複雑なマルチタスクミッションを遂行する大きな可能性を秘めています。しかし、これらのシステムは一般的に遠隔地、動的かつ危険な環境で運用されるため、脆弱または低速な通信回線や集中コンピューティングに依存せずに、ミッション中に迅速に適応する必要があります。そのため、回復力を高めるには、高速なオンボード再計画アルゴリズムが必要です。強化学習は、巡回セールスマン問題（TSP）として定式化することで、ミッション計画タスクを効率的に解決する上で大きな可能性を秘めていますが、既存の手法は、1) エージェントが単一の場所から開始しない再計画には適していない、2) エージェント間の協力が不可能、3) 所要時間が変動するタスクをモデル化できない、4) オンボード展開に関する実用的な考慮事項が欠けている、といった問題を抱えています。本稿では、協調型ミッション再計画問題を、これらの問題を克服するための適応を備えた多重TSPの新しい変種として定義し、グラフアテンションネットワークとアテンションモデルを用いた新しいエンコーダー/デコーダーベースのモデル (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2506.06094v2</guid>
+      <pubDate>Fri, 06 Jun 2025 13:54:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>朝食：一般的な共同BA任務とフォローアップガイダンスの枠組み
+複数のγ線モニター</title>
+      <link>http://arxiv.org/abs/2510.15816v1</link>
+      <description>運用中のガンマ線モニターの数が増加するにつれ、いくつかの研究チームが効率向上のため、共同運用と科学的任務の戦略を採用しています。成功例として、GECAM-HXMT-SVOM（GHS）コンステレーションの協力が挙げられます。これは、他のガンマ線モニターコンステレーションの先例となっています。しかし、共同任務はバースト・アドボケート（BA）にとって課題ももたらします。例えば、トリガー数の増加、そしてさらに重要な点として、異なるミッション間の非互換性によるシステム間の頻繁な切り替えなどがあり、状況が複雑化しています。多波長・マルチメッセンジャー天文学の現在の要件に対応するため、私たちはGHS共同任務内で統一されたトリガー処理のためのカスタマイズされたフレームワークを開発しました。これは「BAのアラートおよびサマリーツール策定のための迅速な評価・分析キット」（BREAKFAST）と呼ばれています。このフレームワークは、様々な観測機器からのガンマ線バンドにおける即発放出のトリガーを迅速に処理し、将来のミッションへの柔軟な互換性を維持するために設計された、一連の自動、半自動、および手動のパイプライ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.15816v1</guid>
+      <pubDate>Fri, 17 Oct 2025 16:53:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
