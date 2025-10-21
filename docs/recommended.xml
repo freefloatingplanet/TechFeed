@@ -7,36 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Oct 2025 13:16:47 +0000</lastBuildDate>
-    <item>
-      <title>Cortex Analyst と Streamlit を用いた Text2SQL アプリ作成</title>
-      <link>https://zenn.dev/chihilong/articles/text2sql-app-cortex-analyst-streamlit</link>
-      <description>記事の概要
-こんにちは。シンプルフォーム株式会社でインターンをしています、長井です。
-この記事では、Cortex Analyst [1] を用いたチャットアプリケーションを Streamlit [2] で構築した事例を紹介します。具体的には本アプリケーションで実装した以下の機能を説明します。
-
-チャット機能
-
-チャット
-リクエスト数のカウント
-Semantic View の選択
-直前までの質問を参考にした回答の生成
-
-
-補助機能
-
-フィードバックフォーム
-チャット履歴ページ
-Semantic View の定義確認ページ
-
-
-
-
- 背景・課題
-当社では社内向けのデータ分析基盤として S... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/chihilong/articles/text2sql-app-cortex-analyst-streamlit</guid>
-      <pubDate>Mon, 20 Oct 2025 05:13:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 01:18:28 +0000</lastBuildDate>
     <item>
       <title>【海外記事紹介】あなたが避けるべきSQLアンチパターン6選</title>
       <link>https://techfeed.io/entries/68f55c45170d8b37b0b14178?from=rss</link>
@@ -123,16 +94,26 @@ GMOコネクト 菅野（かんの）です。
       <pubDate>Mon, 20 Oct 2025 04:04:54 +0000</pubDate>
     </item>
     <item>
-      <title>RSA暗号に対する攻撃 - 共通の公開モジュラスに対する攻撃</title>
-      <link>https://qiita.com/embermaverick05/items/e287d54d0baf735497ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>1. はじめに
-この記事では、RSA暗号に対する攻撃が成立する要件と、その対策について述べる。
-RSA暗号では2つの大きな素数（$=p, q$）を使って、次の数字を生成する。
+      <title>アメリカ国内製の初のBlackwellチップウエハーをNVIDIAとTSMCが公開、TSMCアリゾナ工場で製造</title>
+      <link>https://gigazine.net/news/20251020-nvidia-tsmc-blackwell-us/</link>
+      <description>NVIDIAが、Blackwellチップをアメリカの工場で量産し始めたと発表しました。Blackwellは記事作成時点でNVIDIAの最先端チップであり、このような製品がアメリカで製造されるのは初めてのことです。 The Engines of American-Made Intelligence: NVIDIA and TSMC Celebrate First NVIDIA Blackwell Wafer Produced in the ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20251020-nvidia-tsmc-blackwell-us/</guid>
+      <pubDate>Mon, 20 Oct 2025 13:25:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Claude Code】Serenaの導入でAI活用を加速！</title>
+      <link>https://zenn.dev/hacobell_dev/articles/claude-code-serena-mcp-experience</link>
+      <description>3行まとめ
 
-公開モジュラス $N = p \times q$
-オイラー関数 $\phi(N) = (p -... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/embermaverick05/items/e287d54d0baf735497ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sun, 19 Oct 2025 02:19:39 +0000</pubDate>
+Claude Codeの出力精度を安定させるための設定ファイル整備に苦労していた
+Serena導入で、コードベース全体の一貫性を保持しつつ、暗黙知の言語化コストを大幅削減
+LSPとIndexingによりToken使用量が削減され、APIコストを低減
+
+
+ はじめに
+Claude Codeを導入してみたものの、期待した効果が得られずに悩んでいる方も多いのではないでしょうか。私もその一人でした。具体的には、コードベース全体との一貫性や、チーム固有の設計思想を踏まえた生成がうまくいかず、そのたびにCLAUDE.mdやプロンプトで補足情報を足すのですが、暗黙知を毎回言語化して投... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hacobell_dev/articles/claude-code-serena-mcp-experience</guid>
+      <pubDate>Mon, 20 Oct 2025 00:30:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
