@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Oct 2025 12:37:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 13:21:19 +0000</lastBuildDate>
     <item>
       <title>基礎的な自動評価者：マルチタスク生成モデルのスケーリング
 推論中心領域における評価者トレーニング</title>

@@ -7,17 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Oct 2025 12:36:56 +0000</lastBuildDate>
-    <item>
-      <title>日刊IETF (2025-10-20) 第6部</title>
-      <link>https://qiita.com/tetsuko_room/items/c4ea4241e0e6868e000a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>こんにちは、GMOコネクトの名もなきエンジニアです。
-まだ折り返し地点すら見えてきませんw
-日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！
-今回は、2025-10-20（UTC基準）に公開さ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/tetsuko_room/items/c4ea4241e0e6868e000a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 21 Oct 2025 01:47:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 13:21:15 +0000</lastBuildDate>
     <item>
       <title>DroidKaigi 2025: Hondaブースで展示したAndroid Automotive OS</title>
       <link>https://qiita.com/Koji-Otsubo/items/6a790b27cc7be92a8b54?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -64,6 +54,20 @@ HP に記載する情報や社外向けの文章、組織全体に広報する�
       <description>こんにちは、エンジニアの倉澤です。普段は「カミナシ 教育」の開発に携わっています。 kaminashi.jp 今回は、10月に熱海で開催された開発合宿で Claude Codeの「サブエージェント」を教えてもらったので、それについて記事を書いてみました。 AIエージェントを使いこなすためのヒントになれば幸いです。 ちなみにこのブ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://kaminashi-developer.hatenablog.jp/entry/dev-camp-claude-subagents</guid>
       <pubDate>Tue, 21 Oct 2025 01:41:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trocco の運用を Terraform 管理に変えてみた</title>
+      <link>https://zenn.dev/medley/articles/a68e98452e1adf</link>
+      <description>はじめに
+こんにちは、メドレーでデータエンジニアをしている山邉（@beniyama）です。
+先日、弊社で利用中の Trocco についてこちらの記事を寄稿させていただきましたが、今後の展望として以下を挙げていました。
+
+上述の通り段々と規模が大きくなってきて GUI での管理が大変になってきているため、API や Terraform 経由でのプロビジョニングも生成 AI を絡めて試していきたいです。
+
+https://findy-tools.io/products/trocco/17/662
+今回、Trocco の一部運用を Terraform による IaC (Infrastruc... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/medley/articles/a68e98452e1adf</guid>
+      <pubDate>Sun, 19 Oct 2025 23:23:00 +0000</pubDate>
     </item>
     <item>
       <title>帰ってきた IETF 124 Side Meeting 差分アップデート（2025年10月19日版）</title>
