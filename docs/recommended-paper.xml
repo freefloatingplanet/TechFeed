@@ -7,14 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Oct 2025 13:21:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 01:19:59 +0000</lastBuildDate>
     <item>
-      <title>基礎的な自動評価者：マルチタスク生成モデルのスケーリング
-推論中心領域における評価者トレーニング</title>
-      <link>http://arxiv.org/abs/2510.17793v1</link>
-      <description>訓練時とテスト時の両方でスケーラブルな評価に対する需要の高まりに応えるため、特化した生成評価器のファインチューニングが人気のパラダイムとして浮上しています。しかし、最近の研究は主に強化学習（RL）などの新しい手法を評価器の訓練に適用することに焦点を当てており、大規模なデータ駆動型開発からは距離を置いています。本研究では、データのスケーリングに焦点を当て、5つの独自の評価タスク（ペアワイズ、ステップレベル、参照フリーおよび参照ベースの検証、単一評価）と推論評価に焦点を当てた複数のドメインにわたる250万サンプルのセットをキュレーションします。このデータを使用して、80億個と200億個（アクティブ36億個）のパラメータ評価器ファミリーであるFoundational Automatic Reasoning Evaluators（FARE）を、単純な反復拒否サンプリング教師ありファインチューニング（SFT）アプローチで訓練します。 FARE-8Bは、より大規模な強化学習（RL）で訓練された専門評価器に挑戦し、FARE-20Bはオープンソース評価器の新たな基準を確立し、700億台を超える専門評価 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.17793v1</guid>
-      <pubDate>Mon, 20 Oct 2025 17:52:06 +0000</pubDate>
+      <title>MT-Video-Bench：マルチターン対話におけるマルチモーダルLLMを評価するための包括的なビデオ理解ベンチマーク</title>
+      <link>http://arxiv.org/abs/2510.17722v1</link>
+      <description>マルチモーダル大規模言語モデル（MLLM）の近年の開発により、AIの視覚モダリティ理解能力は飛躍的に向上しました。しかしながら、既存の評価ベンチマークは依然としてシングルターンの質問応答に限定されており、現実世界のシナリオにおけるマルチターン対話の複雑さが考慮されていません。このギャップを埋めるために、マルチターン対話におけるMLLMを評価するための包括的なビデオ理解ベンチマークであるMT-Video-Benchを導入します。
+具体的には、MT-Video-Benchは、知覚とインタラクティブ性に焦点を当てた6つのコアコンピテンシーを主に評価し、多様な分野から厳選された987のマルチターン対話を網羅しています。これらの機能は、インタラクティブなスポーツ分析やマルチターンビデオベースのインテリジェントな個別指導など、現実世界のアプリケーションと厳密に整合しています。 MT-Video-Benchを用いて、
+様々な最先端のオープンソースおよびクローズドソースのMLLMを
+徹底的に評価し、
+マルチターンのビデオ対話の処理における、
+著しいパフォーマンスの差異と限界を明らかにしました。このベン (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.17722v1</guid>
+      <pubDate>Mon, 20 Oct 2025 16:38:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

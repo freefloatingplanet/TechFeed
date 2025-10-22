@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Oct 2025 13:21:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 01:19:53 +0000</lastBuildDate>
     <item>
       <title>アメリカが最初に月に到達するには「プランB」が必要</title>
       <link>https://spacenews.com/america-needs-a-plan-b-to-reach-the-moon-first/</link>
@@ -21,6 +21,13 @@
       <description>SpaceXは10月21日、創業4年のカリフォルニアのメーカー、Muon Spaceに光端末を供給すると発表した。これにより、同社の将来のHalo衛星は、Starlinkブロードバンド衛星群をグローバルデータ中継ネットワークとして利用できるようになる。この記事「StarlinkミニレーザーがMuon Spaceの衛星をほぼリアルタイム接続で接続」はSpaceNewsに初掲載された。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/starlink-mini-lasers-to-link-muon-space-satellites-for-near-real-time-connectivity/</guid>
       <pubDate>Tue, 21 Oct 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>アナリストはドイツの防衛・査察衛星の要請に疑問を呈している</title>
+      <link>https://spacenews.com/analysts-question-germanys-request-for-defensive-and-inspector-satellites/</link>
+      <description>ロンドン — ドイツ航空宇宙センター（DLR）は、他の宇宙船を妨害し、宇宙にある物体を検査できる衛星の購入を検討しており、厳しい期限内に購入したいと考えています。しかし専門家は、長年にわたる投資不足の後、まだ飛行していない国産ロケットでの打ち上げを含む野心的な目標をドイツが達成できるかどうか懐疑的です。[…] アナリストがドイツの防衛衛星と検査衛星の要求に疑問を呈する記事がSpaceNewsに最初に掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/analysts-question-germanys-request-for-defensive-and-inspector-satellites/</guid>
+      <pubDate>Tue, 21 Oct 2025 15:20:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

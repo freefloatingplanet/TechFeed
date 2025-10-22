@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Oct 2025 13:21:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 01:19:58 +0000</lastBuildDate>
     <item>
       <title>技術提供から共創へ転換～クロスユーがアフリカ5機関と宇宙分野で戦略的連携【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/42585/</link>
@@ -44,13 +44,6 @@
       <pubDate>Mon, 20 Oct 2025 05:20:08 +0000</pubDate>
     </item>
     <item>
-      <title>【速報】スターシップ、11回目の打ち上げ成功–現行バージョン最後の打ち上げ、より大型化へ</title>
-      <link>https://uchubiz.com/article/new66680/</link>
-      <description>Space Exploration Technologies Corporation（SpaceX、スペースX）は日本時間10月14日、次世代ロケット「Starship」（スターシップ）の11回目（Flight 11） […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new66680/</guid>
-      <pubDate>Tue, 14 Oct 2025 00:31:07 +0000</pubDate>
-    </item>
-    <item>
       <title>米インパルス、月着陸船の開発に着手–スペースXの第1号従業員が設立</title>
       <link>https://uchubiz.com/article/new66753/</link>
       <description>米Impulse Space（インパルス・スペース）は米国時間10月14日、月着陸船（ランダー）を開発すると発表した。同社は、Elon Musk氏が設立した米Space Exploration Technologies […] (source: Uchubiz)</description>
@@ -65,18 +58,25 @@
       <pubDate>Wed, 15 Oct 2025 05:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>宇宙デブリ化防止装置「HORN」を開発するBULLが、IAC期間にArianespaceとXDLINX Space Labsとのそれぞれの進捗を発表【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/42699/</link>
-      <description>宇宙デブリ低減技術「HORN」を開発するBULLは、世界最大級の宇宙カンファレンス「IAC」で、ArianespaceとXDLINX Space Labsとの進捗をそれぞれ発表しました。その概要を紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/42699/</guid>
-      <pubDate>Fri, 03 Oct 2025 23:30:40 +0000</pubDate>
-    </item>
-    <item>
       <title>米ヴァスト、民間宇宙ステーションの準備進める–2026年第2四半期にも打ち上げ</title>
       <link>https://uchubiz.com/article/new66804/</link>
       <description>米Vast Space（ヴァストスペース）は民間宇宙ステーション「Haven-1」（ヘイブンワン）の2026年の打ち上げに向けて準備を進めている。 　円筒形状であるHaven-1は重量約14トン、回転させることで人工的 […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new66804/</guid>
       <pubDate>Fri, 17 Oct 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>「宇宙業界は閉じていなかった」元リクルート上席執行役員が宇宙業界特化の人材エージェントを立ち上げたワケ</title>
+      <link>https://sorabatake.jp/42647/</link>
+      <description>非宇宙業界から宇宙業界に転職をした人に焦点を当てたインタビュー連載「Why Space」、11人目のインタビュイーは宇宙人材エージェントを運営する株式会社インバイトユーの代表取締役社長、浅野和之さんです。リクルートキャリアの上席執行役員でもあった浅野さんが実感した宇宙業界の可能性と展望とは。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/42647/</guid>
+      <pubDate>Tue, 21 Oct 2025 22:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>宇宙葬サービス「Space voyage α」、次の打ち上げは2026年6月–年内の予約を受け付け</title>
+      <link>https://uchubiz.com/article/new66916/</link>
+      <description>宇宙葬サービス「Space voyage α」（スペースボヤージュアルファ）を展開しているアルファクラブ武蔵野（さいたま市大宮区）は、同サービスの次回の打ち上げ予定が2026年6月になることを明らかにした。2025年の […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new66916/</guid>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
