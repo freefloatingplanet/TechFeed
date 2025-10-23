@@ -7,35 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Oct 2025 01:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 12:37:03 +0000</lastBuildDate>
     <item>
-      <title>Power Apps と AI Builderで社内用語集を基に文章を修正する</title>
-      <link>https://qiita.com/Takashi_Masumori/items/4de5d20c57db4b0770f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>【結論】TypeScriptの型定義はtypeよりinterfaceを使うべき理由</title>
+      <link>https://zenn.dev/bmth/articles/interface-props-extends</link>
       <description>はじめに
-HP に記載する情報や社外向けの文章、組織全体に広報する文章などは、組織のブランディングにおいて重要です。そのため、一定のルールに沿って表記ゆれを修正し、文言を統一することで、一貫性のあるメッセージを発信する必要があると思います。
-今回は、Power Apps ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Takashi_Masumori/items/4de5d20c57db4b0770f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Mon, 20 Oct 2025 23:17:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Front-end maximalism</title>
-      <link>https://www.natemeyvis.com/front-end-maximalism/</link>
-      <description>Here's a question that comes up all the time: Q: I have a front end that calls into a back end. It needs to do things now, and might need to do more things later. How much filtering and preprocessing should the back-end do before it passes the data to the front end? And here's an answer I like: A... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.natemeyvis.com/front-end-maximalism/</guid>
-      <pubDate>Wed, 22 Oct 2025 22:01:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>RAD Studio / Delphi / C++Builder 13 Florence スタートアップ FAQ</title>
-      <link>https://qiita.com/ht_deko/items/e8062546c376e5afae76?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
+TypeScriptでコンポーネントのPropsやオブジェクトの型を定義するとき、typeとinterfaceのどちらを使うべきか、一度は悩んだことがあるのではないでしょうか。
+巷では「どちらでも良い」「チームで統一されていればOK」といった意見もよく見かけます。
+しかし、私は 明確な理由をもって「基本的にはinterfaceを使うべき」 だと主張します。
+この記事では私の実体験で遭遇したReactのPropsの深刻なパフォーマンス問題を例に交えながら、なぜinterfaceが優れているのか、そしてtypeはどのような場面で使うべきなのかを解説します。
 
-2025 年 9 月 11 日 に RAD Studio / Delphi / C++Builder 13 Florence がリリースされました。
-
-インストール時のトラブルも出てきたようなのでまとめてみました。
-
-※前バージョン (12 Athens) の... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/ht_deko/items/e8062546c376e5afae76?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 22 Oct 2025 04:45:46 +0000</pubDate>
+ type ali... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/bmth/articles/interface-props-extends</guid>
+      <pubDate>Sun, 19 Oct 2025 15:32:46 +0000</pubDate>
     </item>
     <item>
       <title>レガシーC#コード対比集（昔こう→今こう）</title>
@@ -54,19 +38,31 @@ C#は急速に進化してきた言語です。10年前の「当たり前」は�
       <pubDate>Wed, 22 Oct 2025 21:43:21 +0000</pubDate>
     </item>
     <item>
-      <title>【Claude Code】Serenaの導入でAI活用を加速！</title>
-      <link>https://zenn.dev/hacobell_dev/articles/claude-code-serena-mcp-experience</link>
-      <description>3行まとめ
+      <title>【図解】Webhookの基礎とAPIとの違いを初心者向けに解説</title>
+      <link>https://qiita.com/HERUESTA/items/8a2a6e8a204e47db5a3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+webhookという言葉は聞くのですが、そもそもどういったものなのか、APIとの違いはなんのなのかがいまいちわかっていなかったので、今回まとめてみました。
 
-Claude Codeの出力精度を安定させるための設定ファイル整備に苦労していた
-Serena導入で、コードベース全体の一貫性を保持しつつ、暗黙知の言語化コストを大幅削減
-LSPとIndexingによりToken使用量が削減され、APIコストを低減
+webhookとは？
+Webhookは、「イベント駆動型のHTTP通知」です。
+身近な例だと、宅配便の不... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/HERUESTA/items/8a2a6e8a204e47db5a3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 23 Oct 2025 00:35:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code導入3ヶ月後の社内アンケートから分かったこと</title>
+      <link>https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07</link>
+      <description>背景と目的
+Claude Code が ver.1.0.0 になってから 5 ヶ月、弊社が全エンジニアに展開してから 3 ヶ月が経過しました。
+その中で生産性が上がった人とそうでない人が明確に分かれていたり、新たな大変さが生まれてフラストレーションも多く抱えています。
+Web 開発の現場で LLM 開発を導入することで何に困るのか明確にして次の施策につなげたいと考え、定性・定量の両面からチーム全体の実態調査をしました。
+これから LLM 導入を考えている、導入後どうしたらいいか悩んでいる人の参考になれば幸いです。
 
 
- はじめに
-Claude Codeを導入してみたものの、期待した効果が得られずに悩んでいる方も多いのではないでしょうか。私もその一人でした。具体的には、コードベース全体との一貫性や、チーム固有の設計思想を踏まえた生成がうまくいかず、そのたびにCLAUDE.mdやプロンプトで補足情報を足すのですが、暗黙知を毎回言語化して投... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hacobell_dev/articles/claude-code-serena-mcp-experience</guid>
-      <pubDate>Mon, 20 Oct 2025 00:30:01 +0000</pubDate>
+ 結論の概要
+調査で見えてきたのは、「生産性は確実に上がっている一... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07</guid>
+      <pubDate>Thu, 23 Oct 2025 03:15:02 +0000</pubDate>
     </item>
     <item>
       <title>Mermaid図経由でCopilotから情報流出 - 間接プロンプト注入型攻撃の新たな形</title>
@@ -80,10 +76,22 @@ Microsoft 365 Copilot は業務データにアクセスできるAIとして普�
       <pubDate>Wed, 22 Oct 2025 11:23:07 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Code Web版 - スマホで指示、帰宅後に完成する開発の未来</title>
+      <link>https://zenn.dev/lnest_knowledge/articles/9629c5083357aa</link>
+      <description>Claude Code Web版 - スマホで指示、帰宅後に完成する開発の未来
+
+ はじめに
+2025年10月20日、Anthropicが「Claude Code Web版」をリリースしました。これまでターミナルでのみ利用可能だったClaude Codeが、ついにブラウザから直接使える時代が来たのです。
+筆者は、このweb版を使ってQ-Learningの迷路問題をStreamlitで実装してみました。開発スタイルが大きく変わる可能性を感じる一方で、いくつかの制限や課題も見えてきました。
+この記事では、実装を通じて感じたClaude Code Web版の実用性、メリット・デメリット、そ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/lnest_knowledge/articles/9629c5083357aa</guid>
+      <pubDate>Tue, 21 Oct 2025 10:27:55 +0000</pubDate>
+    </item>
+    <item>
       <title>Claude Skills × GitHub Actions でバグ修正の自動化を試す！</title>
       <link>https://zenn.dev/kis9a/articles/claude-skills-pr-auto-fix</link>
       <description>はじめに
-2025年10月、Anthropicから立て続けに2つの発表がありました。
+2025年10月、Anthropic から立て続けに2つの発表がありました。
 
 
 10月16日: Agent Skills - AIが自律的に使える「スキル」の仕組み
@@ -91,16 +99,9 @@ Microsoft 365 Copilot は業務データにアクセスできるAIとして普�
 10月20日: Claude Code on the web - ブラウザでコーディングエージェントを動かせる WebUI
 
 正直なところ、最初は「また新しい機能か」程度の印象でした。しかし、公式ドキュメントやコミュニティの反応を調べていくうちに、これが単なる機能追加ではないことに気づきました。
-特に興味を引かれたのは、 「Claude Skills がユーザーからの要求とスキルの説明に基づいて自律的に使用を... (source: Zennのトレンド)</description>
+特に興味を引かれたのは、 「Claude Skills がユーザーからの要求とスキルの説明に基づいて自律的に使用... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/kis9a/articles/claude-skills-pr-auto-fix</guid>
       <pubDate>Tue, 21 Oct 2025 23:08:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>レガシーC#コード対比集（昔こう→今こう） - Qiita</title>
-      <link>https://qiita.com/Sakai_path/items/3edc7a0a8db4e43753c8</link>
-      <description>はじめに C#は急速に進化してきた言語です。10年前の「当たり前」は、今では保守性やパフォーマンスの観点から非推奨になっていることもあります。 今回は、レガシーシステムの保守や段階的なリファクタリングに携わる開発者向けに、よくある「昔の書き方」から「現在の推奨」への置き換えパターンを、すぐに実装できる... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://qiita.com/Sakai_path/items/3edc7a0a8db4e43753c8</guid>
-      <pubDate>Tue, 21 Oct 2025 22:49:47 +0000</pubDate>
     </item>
     <item>
       <title>あなたは5年後必要な人材ですか？</title>
@@ -108,6 +109,13 @@ Microsoft 365 Copilot は業務データにアクセスできるAIとして普�
       <description>はじめに はじめまして、hibikiです。株式会社ココナラでプロダクト開発のエンジニアとして働いており、今年で3年目になります。 直近では、開発エディタ「Cursor」の全社導入や「Claude Code」の活用推進といった、AIで開発組織全体の生産性を向上させる取り組みを担当しています。 こうしたAI推進の業務に携わる中で、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://zenn.dev/coconala/articles/c33e04818367b5</guid>
       <pubDate>Wed, 22 Oct 2025 01:10:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Summary of the Amazon DynamoDB Service Disruption in Northern Virginia (US-EAST-1) Region</title>
+      <link>https://aws.amazon.com/message/101925/</link>
+      <description>Summary of the Amazon DynamoDB Service Disruption in Northern Virginia (US-EAST-1) Region We wanted to provide you with some additional information about the service disruption that occurred in the N. Virginia (us-east-1) Region on October 19 and 20, 2025. While the event started at 11:48 PM PDT ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://aws.amazon.com/message/101925/</guid>
+      <pubDate>Thu, 23 Oct 2025 02:40:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

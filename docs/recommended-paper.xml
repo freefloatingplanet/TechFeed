@@ -7,20 +7,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Oct 2025 01:18:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 12:37:10 +0000</lastBuildDate>
     <item>
-      <title>思考の微調整：思考連鎖推論を活用した産業資産健全性モニタリング</title>
-      <link>http://arxiv.org/abs/2510.18817v1</link>
-      <description>小規模言語モデル（SLM）は、その効率性、低い計算要件、そしてドメイン固有のタスクに合わせて微調整可能な能力により、産業用アプリケーションなどの専門分野でますます普及しており、正確で費用対効果の高いソリューションを実現します。しかし、インダストリー4.0などの専門分野でSLMを用いて複雑な推論を実行することは依然として困難です。本稿では、産業資産の健全性のための知識蒸留フレームワークを提案します。このフレームワークは、思考連鎖（CoT）蒸留を介して大規模言語モデル（LLM）からより小規模で効率的なモデル（SLM）へと推論機能を移行します。多肢選択式質問応答（MCQA）プロンプトを用いてLLMを蒸留することで推論能力を強化し、意思決定を改善する利点とプロセスについて説明します。また、コンテキスト内学習を実行して生成された知識の品質を検証し、生成された知識を用いて微調整されたSLMのパフォーマンスを広く使用されているLLMと比較します。結果は、CoT推論を用いた微調整されたSLMがベースモデルを大幅に上回り、LLMとの差を縮めたことを示しています。コードはオープンソースで公開されています： (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.18817v1</guid>
-      <pubDate>Tue, 21 Oct 2025 17:18:24 +0000</pubDate>
+      <title>オンライン最小二乗SGDの線形汎関数に対する統計的推論
+$t \gtrsim d^{1+δ}$のとき</title>
+      <link>http://arxiv.org/abs/2510.19734v1</link>
+      <description>確率的勾配降下法（SGD）は、現代のデータサイエンスにおける基礎的な手法となっている。しかし、SGDをハイステークスなアプリケーションに導入するには、その固有の不確実性を厳密に定量化する必要がある。本研究では、オンライン最小二乗SGDの線形汎関数に対して\emph{非漸近的ベリー-エッセン境界}を確立し、\emph{次元増大領域}におけるガウス中心極限定理（CLT）を提供する。\cite{chang2023inference}などの投影パラメータの高次元推論に対する既存のアプローチは、経験的共分散行列の逆行列演算に依存しており、有限サンプルのベリー-エッセン保証を達成するには少なくとも$t \gtrsim
+d^{3/2}$回の反復を必要とするため、計算コストが高く、許容される次元スケーリングが制限される。対照的に、SGD反復に対してCLTが成立することを示します。
+反復回数が任意の$\delta$&gt; 0$に対して$t \gtrsim d^{1+\delta}$として増加する場合、CLTは成立し、先行研究で許容されていた次元領域を大幅に拡張すると同時に、計算効率を向上させます。提案するオ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.19734v1</guid>
+      <pubDate>Wed, 22 Oct 2025 16:25:49 +0000</pubDate>
     </item>
     <item>
-      <title>MADR: MPC 誘導型敵対的ディープリーチ</title>
-      <link>http://arxiv.org/abs/2510.18845v1</link>
-      <description>ハミルトン・ヤコビ（HJ）到達可能性は、敵対的擾乱に直面しても安全な価値関数と方策を生成する枠組みを提供しますが、次元の呪いによって制限されます。物理学に基づく深層学習は、この実現不可能性を克服できますが、主に弱い偏微分方程式の勾配と自己教師学習の複雑さのために、収束が遅く不正確であるという問題を抱えています。最近のいくつかの研究では、自己教師プロセスを通常の教師（最適制御問題の性質に基づく）で強化することで、収束と解の品質が大幅に向上することが実証されていますが、これらはシングルプレイヤー問題と単純なゲームに限定されています。本研究では、2プレイヤーのゼロ和微分ゲーム価値関数をロバストに近似する一般的な枠組みであるMADR：MPC誘導型敵対的ディープリーチを紹介します。そうすることで、MADRは、ゼロサムゲームにおける両プレイヤーの最適な戦略と、最悪のケースにおける堅牢性を確保するための安全な方策を導き出します。私たちは、様々なダイナミクスとゲームを持つ多数の高次元シミュレーションおよび実ロボットエージェントでMADRをテストし、私たちのアプローチがシミュレーションにおいて最先端のベ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.18845v1</guid>
-      <pubDate>Tue, 21 Oct 2025 17:36:52 +0000</pubDate>
+      <title>GPUアクセラレーションによるスパーススパイキングニューラルネットワークにおける構造可塑性のための柔軟なフレームワーク</title>
+      <link>http://arxiv.org/abs/2510.19764v1</link>
+      <description>人工ニューラルネットワーク（ANN）の学習と生物脳の学習モデル化に関する研究の大部分は、シナプス可塑性に焦点を当てています。
+学習とは既存の接続の強度を変化させることです。
+しかし、生物脳においては、新しい接続が生成され、他の接続が除去される構造可塑性も、効果的な学習だけでなく、損傷からの回復や最適なリソース利用にも不可欠です。
+構造可塑性に着想を得たプルーニングは、機械学習において、学習済みモデルから弱い接続を削除することで推論の計算要件を削減するためによく使用されます。しかし、ANNとスパイキングニューラルネットワーク（SNN）の両方のバックプロパゲーションベースの学習に一般的に使用される機械学習フレームワークは、密な接続性に最適化されているため、プルーニングは、ますます大規模なモデルの学習コストの削減には役立ちません。GeNNシミュレーターは既に、計算神経科学と機械学習のためのスパースSNNの効率的なGPUアクセラレーションシミュレーションをサポートしています。本稿では、GPUアクセラレーションによる構造可塑性ルールを実装するための新しい柔軟なフレームワークを提示し、まずe-pr (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.19764v1</guid>
+      <pubDate>Wed, 22 Oct 2025 16:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
