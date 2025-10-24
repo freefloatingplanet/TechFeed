@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Oct 2025 13:19:03 +0000</lastBuildDate>
-    <item>
-      <title>アメリカが最初に月に到達するには「プランB」が必要</title>
-      <link>https://spacenews.com/america-needs-a-plan-b-to-reach-the-moon-first/</link>
-      <description>中国は2030年までに初の月面着陸を成功させ、資源豊富な南極に基地を建設する計画を進めている。南極は太陽光が途切れることなく降り注ぎ、氷へのアクセスが可能で、地球外で最も価値の高い土地を支配できる場所だ。北京の宇宙における着実かつ規律ある進歩の実績は、彼らが[…] この記事「アメリカは月到達に「プランB」が必要」はSpaceNewsに初掲載された。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/america-needs-a-plan-b-to-reach-the-moon-first/</guid>
-      <pubDate>Mon, 20 Oct 2025 13:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Oct 2025 01:14:25 +0000</lastBuildDate>
     <item>
       <title>スターリンクミニレーザーがミューオンスペース衛星をリンクし、ほぼリアルタイムの接続を実現</title>
       <link>https://spacenews.com/starlink-mini-lasers-to-link-muon-space-satellites-for-near-real-time-connectivity/</link>
@@ -35,6 +28,13 @@
       <description>Amazon Web Services（AWS）は、英国最大のクラウドプロバイダーです。Infrastructure as a Service（IaaS）市場の40～50%を占め、その技術は国民保健サービス（NHS）、国防省、そして幅広い公共事業や民間企業の基盤となっています。そのため、停電が発生すると、その影響は甚大です[…] この記事「欧州は独自の重要インフラを構築する必要がある」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/europe-must-build-its-own-critical-infrastructure/</guid>
       <pubDate>Thu, 23 Oct 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>夢を撮影した宇宙飛行士は生きている</title>
+      <link>https://spacenews.com/the-astronaut-who-filmed-the-dream-is-alive/</link>
+      <description>Space Mindsの今回のエピソードでは、司会者のデイビッド・アリオストが、元NASA宇宙飛行士でスペースシャトル・チャレンジャー号のミッションスペシャリストを務めたテリー・ハート氏にインタビューします。ハート氏は、初期のシャトルミッションの成功、チャレンジャー号の悲劇から学んだ教訓、そしてそれらの経験がSpaceXやBlue Originといった企業が主導する今日の商業宇宙時代にどのように影響を与えたかについて振り返ります。この記事「夢は生きている」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/the-astronaut-who-filmed-the-dream-is-alive/</guid>
+      <pubDate>Thu, 23 Oct 2025 13:53:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

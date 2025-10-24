@@ -7,47 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Oct 2025 13:19:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 01:14:23 +0000</lastBuildDate>
     <item>
-      <title>【結論】TypeScriptの型定義はtypeよりinterfaceを使うべき理由</title>
-      <link>https://zenn.dev/bmth/articles/interface-props-extends</link>
-      <description>はじめに
-TypeScriptでコンポーネントのPropsやオブジェクトの型を定義するとき、typeとinterfaceのどちらを使うべきか、一度は悩んだことがあるのではないでしょうか。
-巷では「どちらでも良い」「チームで統一されていればOK」といった意見もよく見かけます。
-しかし、私は 明確な理由をもって「基本的にはinterfaceを使うべき」 だと主張します。
-この記事では私の実体験で遭遇したReactのPropsの深刻なパフォーマンス問題を例に交えながら、なぜinterfaceが優れているのか、そしてtypeはどのような場面で使うべきなのかを解説します。
-
- type ali... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/bmth/articles/interface-props-extends</guid>
-      <pubDate>Sun, 19 Oct 2025 15:32:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>レガシーC#コード対比集（昔こう→今こう）</title>
-      <link>https://qiita.com/Sakai_path/items/3edc7a0a8db4e43753c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-C#は急速に進化してきた言語です。10年前の「当たり前」は、今では保守性やパフォーマンスの観点から非推奨になっていることもあります。
-今回は、レガシーシステムの保守や段階的なリファクタリングに携わる開発者向けに、よくある「昔の書き方」から「現在の推奨」への置き換... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Sakai_path/items/3edc7a0a8db4e43753c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 21 Oct 2025 07:23:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next.js 16 リリース — Cache Components、Turbopack安定化、DevTools MCPなど変更点多数</title>
-      <link>https://techfeed.io/entries/68f94ff9cec5694045ef79be?from=rss</link>
-      <description>10月22日、Vercelが「Next.js 16」と題した記事を公開した。この記事では、Turbopackの正式安定化、キャッシュモデルの刷新、AI連携によるデバッグ強化、そしてネットワーク境界を明確化するproxy.tsの導入など、Next.jsフレームワークの構造的進化について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68f94ff9cec5694045ef79be?from=rss</guid>
-      <pubDate>Wed, 22 Oct 2025 21:43:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【図解】Webhookの基礎とAPIとの違いを初心者向けに解説</title>
-      <link>https://qiita.com/HERUESTA/items/8a2a6e8a204e47db5a3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-webhookという言葉は聞くのですが、そもそもどういったものなのか、APIとの違いはなんのなのかがいまいちわかっていなかったので、今回まとめてみました。
-
-webhookとは？
-Webhookは、「イベント駆動型のHTTP通知」です。
-身近な例だと、宅配便の不... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/HERUESTA/items/8a2a6e8a204e47db5a3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 23 Oct 2025 00:35:06 +0000</pubDate>
+      <title>【海外記事紹介】「Reactを規制すべき」「ReactはWebを劣化させている」と強烈にDisる記事が話題に — Webプラットフォームの可能性を再評価すべきと主張</title>
+      <link>https://techfeed.io/entries/68fa9c28b335ef58049bf550?from=rss</link>
+      <description>10月24日、デザイナー兼フロントエンド開発者のDave Bushell氏が「Reactを規制するべき時期ではないか？（Is it Time to Regulate React?）」と題した記事を公開した。この記事では、近年のWeb開発におけるReactの支配的地位と、それがもたらす弊害について論じられている。Bushell氏は、Reactがもはや「便利なフレームワーク」ではなく、Webを劣化させる一因になっていると強く批判している。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/68fa9c28b335ef58049bf550?from=rss</guid>
+      <pubDate>Thu, 23 Oct 2025 21:20:40 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code導入3ヶ月後の社内アンケートから分かったこと</title>
@@ -76,6 +42,30 @@ Microsoft 365 Copilot は業務データにアクセスできるAIとして普�
       <pubDate>Wed, 22 Oct 2025 11:23:07 +0000</pubDate>
     </item>
     <item>
+      <title>Railsで相互評価システム作ってみた記録  -Model設計からUI実装まで全て見せます!!-</title>
+      <link>https://qiita.com/Ery-556/items/1638f44d7e3e6180f8c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>目次
+
+はじめに
+Model設計
+Controller
+View実装
+
+はじめに
+はじめまして、Rails学習者の @Ery-556 です！
+現在、「相手の素敵なところ（ソフトスキル）をチェックして感謝を伝えるアプリ」を開発中です。
+なぜそんなものを？というと、プログラミ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Ery-556/items/1638f44d7e3e6180f8c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 23 Oct 2025 11:21:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude × MCPで社内DBに話しかけてみた - Qiita</title>
+      <link>https://qiita.com/kunitomo926/items/3424fbab1160de8ed9ed</link>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 本記事で紹介する Model Context Protocol （MCP） サーバーは、クラウドや社内ネットワーク上のリモートサーバーではなく、ローカル PC 上で動作するローカルサーバーで... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://qiita.com/kunitomo926/items/3424fbab1160de8ed9ed</guid>
+      <pubDate>Thu, 23 Oct 2025 02:47:45 +0000</pubDate>
+    </item>
+    <item>
       <title>Claude Code Web版 - スマホで指示、帰宅後に完成する開発の未来</title>
       <link>https://zenn.dev/lnest_knowledge/articles/9629c5083357aa</link>
       <description>Claude Code Web版 - スマホで指示、帰宅後に完成する開発の未来
@@ -86,6 +76,13 @@ Microsoft 365 Copilot は業務データにアクセスできるAIとして普�
 この記事では、実装を通じて感じたClaude Code Web版の実用性、メリット・デメリット、そ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/lnest_knowledge/articles/9629c5083357aa</guid>
       <pubDate>Tue, 21 Oct 2025 10:27:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilotを使っている人は全員"copilot-instrucions.md"を作成してください - Qiita</title>
+      <link>https://qiita.com/TooMe/items/873540da84567733d16b</link>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに GitHub Copilotを使っている開発者の皆さん、.github/copilot-instructions.mdというファイルを作成していますか？ このファイル1つで、Copilotをあなたのプロジェクト専... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://qiita.com/TooMe/items/873540da84567733d16b</guid>
+      <pubDate>Thu, 23 Oct 2025 10:02:17 +0000</pubDate>
     </item>
     <item>
       <title>Claude Skills × GitHub Actions でバグ修正の自動化を試す！</title>
@@ -106,16 +103,23 @@ Microsoft 365 Copilot は業務データにアクセスできるAIとして普�
     <item>
       <title>あなたは5年後必要な人材ですか？</title>
       <link>https://zenn.dev/coconala/articles/c33e04818367b5</link>
-      <description>はじめに はじめまして、hibikiです。株式会社ココナラでプロダクト開発のエンジニアとして働いており、今年で3年目になります。 直近では、開発エディタ「Cursor」の全社導入や「Claude Code」の活用推進といった、AIで開発組織全体の生産性を向上させる取り組みを担当しています。 こうしたAI推進の業務に携わる中で、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <description>はじめに
+はじめまして、hibikiです。株式会社ココナラでプロダクト開発のエンジニアとして働いており、今年で新卒3年目になります。
+直近では、開発エディタ「Cursor」の全社導入や「Claude Code」の活用推進といった、AIで開発組織全体の生産性を向上させる取り組みを担当しています。
+こうしたAI推進の業務に携わる中で、「AIを中心とした世界で、エンジニアとしての自分の価値、人材としてのポジショニングはどうあるべきか」を深く考えるようになりました。
+そんな問題意識を抱えていたタイミングで、すてぃおさんのClaude Code時代のソフトウェアエンジニア生存戦略という記事を拝... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/coconala/articles/c33e04818367b5</guid>
-      <pubDate>Wed, 22 Oct 2025 01:10:23 +0000</pubDate>
+      <pubDate>Tue, 21 Oct 2025 06:36:45 +0000</pubDate>
     </item>
     <item>
-      <title>Summary of the Amazon DynamoDB Service Disruption in Northern Virginia (US-EAST-1) Region</title>
-      <link>https://aws.amazon.com/message/101925/</link>
-      <description>Summary of the Amazon DynamoDB Service Disruption in Northern Virginia (US-EAST-1) Region We wanted to provide you with some additional information about the service disruption that occurred in the N. Virginia (us-east-1) Region on October 19 and 20, 2025. While the event started at 11:48 PM PDT ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://aws.amazon.com/message/101925/</guid>
-      <pubDate>Thu, 23 Oct 2025 02:40:14 +0000</pubDate>
+      <title>複数の Docker Compose 環境を同時に立ち上げる</title>
+      <link>https://zenn.dev/socialdog/articles/multiple-docker-compose-up</link>
+      <description>はじめに
+Docker Compose を利用して開発環境を構築するプロジェクトは多いと思います。
+Claude Code をはじめとするコーディングエージェントの普及により、git-worktree を使って複数の作業ブランチを並行して開発することが増えてきました。Docker Compose で構築する開発環境は、ワークツリーが違えどほとんどの場合同じような構成になるため、ワークツリーごとに環境を立ち上げようとすると、コンテナ名やポートの衝突といった問題が発生します。
+SocialDog では、git-worktree を使った開発においても、これらの問題が生じないよう手順をドキ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/socialdog/articles/multiple-docker-compose-up</guid>
+      <pubDate>Thu, 23 Oct 2025 00:32:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
