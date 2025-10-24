@@ -7,28 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Oct 2025 01:14:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 12:37:11 +0000</lastBuildDate>
     <item>
-      <title>【海外記事紹介】「Reactを規制すべき」「ReactはWebを劣化させている」と強烈にDisる記事が話題に — Webプラットフォームの可能性を再評価すべきと主張</title>
-      <link>https://techfeed.io/entries/68fa9c28b335ef58049bf550?from=rss</link>
-      <description>10月24日、デザイナー兼フロントエンド開発者のDave Bushell氏が「Reactを規制するべき時期ではないか？（Is it Time to Regulate React?）」と題した記事を公開した。この記事では、近年のWeb開発におけるReactの支配的地位と、それがもたらす弊害について論じられている。Bushell氏は、Reactがもはや「便利なフレームワーク」ではなく、Webを劣化させる一因になっていると強く批判している。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68fa9c28b335ef58049bf550?from=rss</guid>
-      <pubDate>Thu, 23 Oct 2025 21:20:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code導入3ヶ月後の社内アンケートから分かったこと</title>
-      <link>https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07</link>
-      <description>背景と目的
-Claude Code が ver.1.0.0 になってから 5 ヶ月、弊社が全エンジニアに展開してから 3 ヶ月が経過しました。
-その中で生産性が上がった人とそうでない人が明確に分かれていたり、新たな大変さが生まれてフラストレーションも多く抱えています。
-Web 開発の現場で LLM 開発を導入することで何に困るのか明確にして次の施策につなげたいと考え、定性・定量の両面からチーム全体の実態調査をしました。
-これから LLM 導入を考えている、導入後どうしたらいいか悩んでいる人の参考になれば幸いです。
-
-
- 結論の概要
-調査で見えてきたのは、「生産性は確実に上がっている一... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07</guid>
-      <pubDate>Thu, 23 Oct 2025 03:15:02 +0000</pubDate>
+      <title>ServiceNow World Form Tokyo 2025　参加レポート - AIが創る働き方の未来を魅せる２日間</title>
+      <link>https://qiita.com/NIWATO/items/e2c3b243ed0ff009a7d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>🚩はじめに
+こんにちは、にわと(𝕏：@niwaniwa2wato)です。
+この記事はServiceNow World Form Tokyo 2025に参加した感想レポート記事です。
+どんなイベントなの？と疑問に思われた方は！
+概要は上記公式ページか、@Manarobot氏... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/NIWATO/items/e2c3b243ed0ff009a7d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 24 Oct 2025 02:31:10 +0000</pubDate>
     </item>
     <item>
       <title>Mermaid図経由でCopilotから情報流出 - 間接プロンプト注入型攻撃の新たな形</title>
@@ -59,11 +48,11 @@ View実装
       <pubDate>Thu, 23 Oct 2025 11:21:35 +0000</pubDate>
     </item>
     <item>
-      <title>Claude × MCPで社内DBに話しかけてみた - Qiita</title>
-      <link>https://qiita.com/kunitomo926/items/3424fbab1160de8ed9ed</link>
-      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 本記事で紹介する Model Context Protocol （MCP） サーバーは、クラウドや社内ネットワーク上のリモートサーバーではなく、ローカル PC 上で動作するローカルサーバーで... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://qiita.com/kunitomo926/items/3424fbab1160de8ed9ed</guid>
-      <pubDate>Thu, 23 Oct 2025 02:47:45 +0000</pubDate>
+      <title>Claude Code導入3ヶ月後の社内アンケートから分かったこと</title>
+      <link>https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07</link>
+      <description>背景と目的 Claude Code が ver.1.0.0 になってから 5 ヶ月、弊社が全エンジニアに展開してから 3 ヶ月が経過しました。 その中で生産性が上がった人とそうでない人が明確に分かれていたり、新たな大変さが生まれてフラストレーションも多く抱えています。 Web 開発の現場で LLM 開発を導入することで何に困るのか明確に... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07</guid>
+      <pubDate>Fri, 24 Oct 2025 05:09:59 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code Web版 - スマホで指示、帰宅後に完成する開発の未来</title>
@@ -85,20 +74,16 @@ View実装
       <pubDate>Thu, 23 Oct 2025 10:02:17 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Skills × GitHub Actions でバグ修正の自動化を試す！</title>
-      <link>https://zenn.dev/kis9a/articles/claude-skills-pr-auto-fix</link>
+      <title>【ポケモン×Java】知識編 Scanner#1 〜Scannerを完全攻略 - 基本編 -〜</title>
+      <link>https://qiita.com/hitomin_poke/items/2b905bb79a77c1feda8f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-2025年10月、Anthropic から立て続けに2つの発表がありました。
+Javaで「ユーザーに質問して答えてもらう」小さなアプリを作るとき、最初に出会うのが Scanner（スキャナー） です。
 
+キーボードで入力した文字を、プログラムが扱いやすい形にしてくれる“読み取り係”。
 
-10月16日: Agent Skills - AIが自律的に使える「スキル」の仕組み
-
-10月20日: Claude Code on the web - ブラウザでコーディングエージェントを動かせる WebUI
-
-正直なところ、最初は「また新しい機能か」程度の印象でした。しかし、公式ドキュメントやコミュニティの反応を調べていくうちに、これが単なる機能追加ではないことに気づきました。
-特に興味を引かれたのは、 「Claude Skills がユーザーからの要求とスキルの説明に基づいて自律的に使用... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kis9a/articles/claude-skills-pr-auto-fix</guid>
-      <pubDate>Tue, 21 Oct 2025 23:08:25 +0000</pubDate>
+むずかしく考えなくて大丈夫。今回は いちばん最初の一... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/hitomin_poke/items/2b905bb79a77c1feda8f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 23 Oct 2025 16:53:46 +0000</pubDate>
     </item>
     <item>
       <title>あなたは5年後必要な人材ですか？</title>
@@ -110,6 +95,19 @@ View実装
 そんな問題意識を抱えていたタイミングで、すてぃおさんのClaude Code時代のソフトウェアエンジニア生存戦略という記事を拝... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/coconala/articles/c33e04818367b5</guid>
       <pubDate>Tue, 21 Oct 2025 06:36:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vitest 4の新機能 expect.schemaMatching とHonoとZodでスキーマ駆動でテストをやる</title>
+      <link>https://zenn.dev/assign/articles/vitest-4-schema-matching</link>
+      <description>はじめに
+こんにちは、株式会社アサインでエンジニアをしているうちほり(@showichiro0123)です。
+2025年10月22日にリリースされたVitest 4には、テスト駆動開発やスキーマ駆動開発を加速させる新機能が多数追加されました。中でも私の目を引いたのは、Zodなどのスキーマライブラリと統合できるexpect.schemaMatchingです。
+本記事では、Vitest 4の新機能を概観しつつ、expect.schemaMatchingを使ったスキーマ駆動テストの実践方法を、Honoを使ったWeb APIの開発例を交えて紹介します。
+
+ Vitest 4の主要な新機能
+ま... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/assign/articles/vitest-4-schema-matching</guid>
+      <pubDate>Thu, 23 Oct 2025 12:25:33 +0000</pubDate>
     </item>
     <item>
       <title>複数の Docker Compose 環境を同時に立ち上げる</title>

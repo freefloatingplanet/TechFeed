@@ -7,26 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 24 Oct 2025 01:14:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 12:37:17 +0000</lastBuildDate>
     <item>
-      <title>オンライン最小二乗SGDの線形汎関数に対する統計的推論
-$t \gtrsim d^{1+δ}$のとき</title>
-      <link>http://arxiv.org/abs/2510.19734v1</link>
-      <description>確率的勾配降下法（SGD）は、現代のデータサイエンスにおける基礎的な手法となっている。しかし、SGDをハイステークスなアプリケーションに導入するには、その固有の不確実性を厳密に定量化する必要がある。本研究では、オンライン最小二乗SGDの線形汎関数に対して\emph{非漸近的ベリー-エッセン境界}を確立し、\emph{次元増大領域}におけるガウス中心極限定理（CLT）を提供する。\cite{chang2023inference}などの投影パラメータの高次元推論に対する既存のアプローチは、経験的共分散行列の逆行列演算に依存しており、有限サンプルのベリー-エッセン保証を達成するには少なくとも$t \gtrsim
-d^{3/2}$回の反復を必要とするため、計算コストが高く、許容される次元スケーリングが制限される。対照的に、SGD反復に対してCLTが成立することを示します。
-反復回数が任意の$\delta$&gt; 0$に対して$t \gtrsim d^{1+\delta}$として増加する場合、CLTは成立し、先行研究で許容されていた次元領域を大幅に拡張すると同時に、計算効率を向上させます。提案するオ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.19734v1</guid>
-      <pubDate>Wed, 22 Oct 2025 16:25:49 +0000</pubDate>
+      <title>説明可能な人工知能におけるプライバシーリスクと保護方法
+：スコープレビュー</title>
+      <link>http://arxiv.org/abs/2505.02828v2</link>
+      <description>説明可能な人工知能（XAI）は、信頼できるAIの柱として浮上し、本質的に不透明な複雑なモデルに透明性をもたらすことを目指しています。モデルに説明を組み込むことには利点がある一方で、エンドユーザーにこの追加情報を提供することによるプライバシー上の懸念に対処することが急務となっています。本稿では、プライバシーと説明可能性の対立点について詳細を明らかにするために、既存の文献のスコープレビューを実施します。スコープレビューの標準的な方法論を用いて、2019年1月から2024年12月までに発表された1,943件の研究から57件の論文を抽出しました。本レビューでは、読者にこのトピックへの理解を深めてもらうために、3つの研究課題を取り上げています。(1) AIシステムで説明を公開することによるプライバシーリスクとは何か？(2) 研究者はXAIシステムにおけるプライバシー保護を実現するために、現在どのような手法を採用しているのか？(3) プライバシー保護の説明とはどのようなものか？選定された研究から得られた知見に基づき、XAIにおけるプライバシーリスクとプライバシー保護方法を分類し、プライバシー保護説 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2505.02828v2</guid>
+      <pubDate>Mon, 05 May 2025 17:53:28 +0000</pubDate>
     </item>
     <item>
-      <title>GPUアクセラレーションによるスパーススパイキングニューラルネットワークにおける構造可塑性のための柔軟なフレームワーク</title>
-      <link>http://arxiv.org/abs/2510.19764v1</link>
-      <description>人工ニューラルネットワーク（ANN）の学習と生物脳の学習モデル化に関する研究の大部分は、シナプス可塑性に焦点を当てています。
-学習とは既存の接続の強度を変化させることです。
-しかし、生物脳においては、新しい接続が生成され、他の接続が除去される構造可塑性も、効果的な学習だけでなく、損傷からの回復や最適なリソース利用にも不可欠です。
-構造可塑性に着想を得たプルーニングは、機械学習において、学習済みモデルから弱い接続を削除することで推論の計算要件を削減するためによく使用されます。しかし、ANNとスパイキングニューラルネットワーク（SNN）の両方のバックプロパゲーションベースの学習に一般的に使用される機械学習フレームワークは、密な接続性に最適化されているため、プルーニングは、ますます大規模なモデルの学習コストの削減には役立ちません。GeNNシミュレーターは既に、計算神経科学と機械学習のためのスパースSNNの効率的なGPUアクセラレーションシミュレーションをサポートしています。本稿では、GPUアクセラレーションによる構造可塑性ルールを実装するための新しい柔軟なフレームワークを提示し、まずe-pr (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.19764v1</guid>
-      <pubDate>Wed, 22 Oct 2025 16:50:00 +0000</pubDate>
+      <title>CSU-PCAST：中期アンサンブルのためのデュアルブランチ・トランスフォーマー・フレームワーク
+降水量予測</title>
+      <link>http://arxiv.org/abs/2510.20769v1</link>
+      <description>正確な中期降水量予測は、水文気象学的リスク管理と災害軽減に不可欠ですが、現在の数値天気予報（NWP）システムにとっては依然として課題となっています。全球アンサンブル予報システム（GEFS）などの従来のアンサンブルシステムは、特に長いリードタイムにおける中程度から大雨に対して、高い予測精度を維持するのに苦労しています。本研究では、包括的な大気変数セットの統合モデリングを通じて、多段階降水量予測のためのディープラーニングベースのアンサンブルフレームワークを開発します。このモデルは、NASAのGPM（Integrated Multi-satellite Retrievals for Global Precipitation Measurement）衛星群（IMERG）の降水ラベルを使用し、0.25$^{\circ}$空間解像度のERA5再解析データで学習され、高層気象および地表気象予測因子を含む57の入力変数が組み込まれています。このアーキテクチャは、パッチベースのSwin Transformerバックボーンを採用し、周期的な畳み込みによって縦断的連続性を処理し、条件付きレイヤー正規化によっ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.20769v1</guid>
+      <pubDate>Thu, 23 Oct 2025 17:43:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
