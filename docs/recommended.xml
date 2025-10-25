@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Oct 2025 01:15:29 +0000</lastBuildDate>
-    <item>
-      <title>Mermaid図経由でCopilotから情報流出 - 間接プロンプト注入型攻撃の新たな形</title>
-      <link>https://qiita.com/___nix___/items/90b157d20c819b2db2fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-最近、脆弱性に関する記事が注目されることが多くなった @___nix___ です。
-
-背景
-Microsoft 365 Copilot は業務データにアクセスできるAIとして普及していますが、自律的にコンテンツを解析する性質が悪用されるリスクがあります。過去の「... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/___nix___/items/90b157d20c819b2db2fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 22 Oct 2025 11:23:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Oct 2025 12:31:02 +0000</lastBuildDate>
     <item>
       <title>【10月24日ランキング】【海外記事紹介】「Reactを規制すべき」「ReactはWebを劣化させている」と強烈にDisる記事が話題に — Webプラットフォームの可能性を再評価すべきと主張／ほか19本</title>
       <link>https://techfeed.io/categories/all/selections/daily/2025/10/24?from=rss</link>
@@ -46,16 +35,41 @@ Microsoft 365 Copilot は業務データにアクセスできるAIとして普�
       <pubDate>Fri, 24 Oct 2025 10:42:06 +0000</pubDate>
     </item>
     <item>
-      <title>【ポケモン×Java】知識編 Scanner#1 〜Scannerを完全攻略 - 基本編 -〜</title>
-      <link>https://qiita.com/hitomin_poke/items/2b905bb79a77c1feda8f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>Typst 0.14.0 の内容を早めに深堀り</title>
+      <link>https://zenn.dev/monaqa/articles/2025-10-24-typst-updates-v0-14</link>
       <description>はじめに
-Javaで「ユーザーに質問して答えてもらう」小さなアプリを作るとき、最初に出会うのが Scanner（スキャナー） です。
+本記事では、2025/10/24 にリリースされた Typst 0.14.0 の新機能や変更点を紹介します。
+!
+本記事のタイトルと構成は、前回から引き続き あずんひさんが継続されている「Rust 1.xx を早めに深堀り」シリーズからお借りしています。
 
-キーボードで入力した文字を、プログラムが扱いやすい形にしてくれる“読み取り係”。
 
-むずかしく考えなくて大丈夫。今回は いちばん最初の一... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/hitomin_poke/items/2b905bb79a77c1feda8f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 23 Oct 2025 16:53:46 +0000</pubDate>
+ リリースノート・深堀り記事一覧
+
+
+
+リリース日
+バージョン
+公式リリースノート
+深堀り記事
+
+
+
+
+2024/10/18
+0.12.0
+公式リリースノート
+Typst 0.12.0 の内容を早めに深堀り
+
+
+2025/02/19
+0.13.0
+公式リリースノート
+Typst 0.13.0 の内容を早めに深堀り
+
+
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/monaqa/articles/2025-10-24-typst-updates-v0-14</guid>
+      <pubDate>Fri, 24 Oct 2025 15:10:24 +0000</pubDate>
     </item>
     <item>
       <title>Everyone should be using Claude Code more</title>
@@ -65,15 +79,11 @@ Javaで「ユーザーに質問して答えてもらう」小さなアプリを�
       <pubDate>Thu, 23 Oct 2025 02:01:42 +0000</pubDate>
     </item>
     <item>
-      <title>あなたは5年後必要な人材ですか？</title>
-      <link>https://zenn.dev/coconala/articles/c33e04818367b5</link>
-      <description>はじめに
-はじめまして、hibikiです。株式会社ココナラでプロダクト開発のエンジニアとして働いており、今年で新卒3年目になります。
-直近では、開発エディタ「Cursor」の全社導入や「Claude Code」の活用推進といった、AIで開発組織全体の生産性を向上させる取り組みを担当しています。
-こうしたAI推進の業務に携わる中で、「AIを中心とした世界で、エンジニアとしての自分の価値、人材としてのポジショニングはどうあるべきか」を深く考えるようになりました。
-そんな問題意識を抱えていたタイミングで、すてぃおさんのClaude Code時代のソフトウェアエンジニア生存戦略という記事を拝... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/coconala/articles/c33e04818367b5</guid>
-      <pubDate>Tue, 21 Oct 2025 06:36:45 +0000</pubDate>
+      <title>ここが変だよLLMコーディングエージェント(Codex)</title>
+      <link>https://zenn.dev/takeshy/articles/20b8b2ab499b6f</link>
+      <description>はじめに 最近LLMコーディングエージェント(主にCodex)tipsを書きましたが、やっぱりLLMコーディングエージェントは頼りにしすぎてはいけない、重要なところは自分で書こうという思いが強まってきています。 どういうとこが変なのかをまとめることで、なぜそう感じるのかを説明したいと思います。 1. 引数のバリエーショ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/takeshy/articles/20b8b2ab499b6f</guid>
+      <pubDate>Sat, 25 Oct 2025 01:05:31 +0000</pubDate>
     </item>
     <item>
       <title>AIで数理最適化問題を解いた時にAIがミスった具体例と教訓</title>
@@ -105,6 +115,19 @@ Claude Code をはじめとするコーディングエージェントの普及�
 SocialDog では、git-worktree を使った開発においても、これらの問題が生じないよう手順をドキ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/socialdog/articles/multiple-docker-compose-up</guid>
       <pubDate>Thu, 23 Oct 2025 00:32:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kaggle Notebook で始める CUDAプログラミング入門</title>
+      <link>https://zenn.dev/kaerururu/articles/101f9261ae923a</link>
+      <description>はじめに
+こんにちは！kaerururu です。
+普段、私は PyTorch や cuML といったライブラリを通じて、実装の詳細を意識することなくCUDA の恩恵を受けています。CUDA プログラミングができるようになるともっと速いコードが書けそうです。
+この記事では、NVIDIA公式のドキュメントなどを頼りにCUDAプログラミングを学んだ記録を共有します。C++での実装から、PythonのラッパーライブラリであるNumbaを使った実装まで、具体的なコードと実行速度の比較まで実施しました。
+この記事で作成したコードは、Kaggle Notebook で公開しています。
+
+ CUDA... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kaerururu/articles/101f9261ae923a</guid>
+      <pubDate>Sat, 25 Oct 2025 03:07:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,22 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Oct 2025 01:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 12:31:09 +0000</lastBuildDate>
     <item>
-      <title>説明可能な人工知能におけるプライバシーリスクと保護方法
-：スコープレビュー</title>
-      <link>http://arxiv.org/abs/2505.02828v2</link>
-      <description>説明可能な人工知能（XAI）は、信頼できるAIの柱として浮上し、本質的に不透明な複雑なモデルに透明性をもたらすことを目指しています。モデルに説明を組み込むことには利点がある一方で、エンドユーザーにこの追加情報を提供することによるプライバシー上の懸念に対処することが急務となっています。本稿では、プライバシーと説明可能性の対立点について詳細を明らかにするために、既存の文献のスコープレビューを実施します。スコープレビューの標準的な方法論を用いて、2019年1月から2024年12月までに発表された1,943件の研究から57件の論文を抽出しました。本レビューでは、読者にこのトピックへの理解を深めてもらうために、3つの研究課題を取り上げています。(1) AIシステムで説明を公開することによるプライバシーリスクとは何か？(2) 研究者はXAIシステムにおけるプライバシー保護を実現するために、現在どのような手法を採用しているのか？(3) プライバシー保護の説明とはどのようなものか？選定された研究から得られた知見に基づき、XAIにおけるプライバシーリスクとプライバシー保護方法を分類し、プライバシー保護説 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2505.02828v2</guid>
-      <pubDate>Mon, 05 May 2025 17:53:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>CSU-PCAST：中期アンサンブルのためのデュアルブランチ・トランスフォーマー・フレームワーク
-降水量予測</title>
-      <link>http://arxiv.org/abs/2510.20769v1</link>
-      <description>正確な中期降水量予測は、水文気象学的リスク管理と災害軽減に不可欠ですが、現在の数値天気予報（NWP）システムにとっては依然として課題となっています。全球アンサンブル予報システム（GEFS）などの従来のアンサンブルシステムは、特に長いリードタイムにおける中程度から大雨に対して、高い予測精度を維持するのに苦労しています。本研究では、包括的な大気変数セットの統合モデリングを通じて、多段階降水量予測のためのディープラーニングベースのアンサンブルフレームワークを開発します。このモデルは、NASAのGPM（Integrated Multi-satellite Retrievals for Global Precipitation Measurement）衛星群（IMERG）の降水ラベルを使用し、0.25$^{\circ}$空間解像度のERA5再解析データで学習され、高層気象および地表気象予測因子を含む57の入力変数が組み込まれています。このアーキテクチャは、パッチベースのSwin Transformerバックボーンを採用し、周期的な畳み込みによって縦断的連続性を処理し、条件付きレイヤー正規化によっ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.20769v1</guid>
-      <pubDate>Thu, 23 Oct 2025 17:43:38 +0000</pubDate>
+      <title>古典分子動力学における電子捕獲過程の追跡
+プラズマ中のスペクトル線広がりのシミュレーション</title>
+      <link>http://arxiv.org/abs/2502.04808v2</link>
+      <description>プラズマ分光法は、実験室および天体物理学におけるプラズマの診断に不可欠なツールです。スペクトルの正確な解釈は、シュタルク広がりやスペクトル線に影響を与えるその他のメカニズムの正確なモデル化と理解に依存します。この文脈において、コンピューターシミュレーションは、明確に定義された条件で理想的な実験を提供する貴重なツールとして登場しました。特に分子動力学シミュレーションは、プラズマ内の粒子相互作用と、それが放射原子またはイオンの状態に与える影響を再現するのに優れています。しかし、これらのシミュレーションでは、束縛電子と自由電子を区別するための明確な基準を設定することが容易ではないため、電子捕獲過程の追跡に課題があります。本論文では、古典的な枠組みの中で、電子がイオンに捕獲され、その後その周りを安定軌道で周回するシナリオを正確に特定する新しいアルゴリズムを紹介します。このアルゴリズムは、電荷Z &gt;= 1を持つエミッターにも適用可能です。この手順により、放出イオンを摂動するマイクロ電場の有効な時間履歴を正確に特定することができ、その後の線形計算に使用されます。このアルゴリズムを適用して得られたイ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2502.04808v2</guid>
+      <pubDate>Fri, 07 Feb 2025 10:23:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
