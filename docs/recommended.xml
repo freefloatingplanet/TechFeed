@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Oct 2025 13:18:14 +0000</lastBuildDate>
-    <item>
-      <title>ServiceNow World Form Tokyo 2025　参加レポート - AIが創る働き方の未来を魅せる２日間</title>
-      <link>https://qiita.com/NIWATO/items/e2c3b243ed0ff009a7d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>🚩はじめに
-こんにちは、にわと(𝕏：@niwaniwa2wato)です。
-この記事はServiceNow World Form Tokyo 2025に参加した感想レポート記事です。
-どんなイベントなの？と疑問に思われた方は！
-概要は上記公式ページか、@Manarobot氏... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/NIWATO/items/e2c3b243ed0ff009a7d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 24 Oct 2025 02:31:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Oct 2025 01:15:29 +0000</lastBuildDate>
     <item>
       <title>Mermaid図経由でCopilotから情報流出 - 間接プロンプト注入型攻撃の新たな形</title>
       <link>https://qiita.com/___nix___/items/90b157d20c819b2db2fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -31,47 +20,30 @@ Microsoft 365 Copilot は業務データにアクセスできるAIとして普�
       <pubDate>Wed, 22 Oct 2025 11:23:07 +0000</pubDate>
     </item>
     <item>
-      <title>Railsで相互評価システム作ってみた記録  -Model設計からUI実装まで全て見せます!!-</title>
-      <link>https://qiita.com/Ery-556/items/1638f44d7e3e6180f8c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>目次
-
-はじめに
-Model設計
-Controller
-View実装
-
-はじめに
-はじめまして、Rails学習者の @Ery-556 です！
-現在、「相手の素敵なところ（ソフトスキル）をチェックして感謝を伝えるアプリ」を開発中です。
-なぜそんなものを？というと、プログラミ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Ery-556/items/1638f44d7e3e6180f8c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 23 Oct 2025 11:21:35 +0000</pubDate>
+      <title>【10月24日ランキング】【海外記事紹介】「Reactを規制すべき」「ReactはWebを劣化させている」と強烈にDisる記事が話題に — Webプラットフォームの可能性を再評価すべきと主張／ほか19本</title>
+      <link>https://techfeed.io/categories/all/selections/daily/2025/10/24?from=rss</link>
+      <description>すべてカテゴリー 2025年10月24日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。 1位: 【海外記事紹介】「Reactを規制すべき」「ReactはWebを劣化させている」と強烈にDisる記事が話題に — Webプラットフォームの可能性を再評価すべきと主張 2位: 「OneDrive」のバックアップ機能を切ったらファイルがなくなった……を防止する改善／新しいアプリアイコンなども導入へ（forest.watch.impress.co.jp） 3位: GitHub Copilotを使っている人は全員"copilot-instrucions.md"を作成してください（qiita.com） …ほか17本 ランキングはこちらから (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/categories/all/selections/daily/2025/10/24?from=rss</guid>
+      <pubDate>Fri, 24 Oct 2025 14:59:59 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code導入3ヶ月後の社内アンケートから分かったこと</title>
-      <link>https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07</link>
-      <description>背景と目的 Claude Code が ver.1.0.0 になってから 5 ヶ月、弊社が全エンジニアに展開してから 3 ヶ月が経過しました。 その中で生産性が上がった人とそうでない人が明確に分かれていたり、新たな大変さが生まれてフラストレーションも多く抱えています。 Web 開発の現場で LLM 開発を導入することで何に困るのか明確に... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07</guid>
-      <pubDate>Fri, 24 Oct 2025 05:09:59 +0000</pubDate>
+      <title>AIとAWS CDKの親和性 ― AIを活用しIaCを学び、AWSを理解する</title>
+      <link>https://qiita.com/teshima_daichi/items/c4f749aec3f49d735acd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>1. はじめに
+クラウドインフラをコードで管理する「IaC（Infrastructure as Code）」は、
+今や開発者にとって避けて通れない領域になりました。
+その中でも AWS CDK（Cloud Development Kit） は、TypeScriptやPyt... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/teshima_daichi/items/c4f749aec3f49d735acd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 24 Oct 2025 10:01:53 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code Web版 - スマホで指示、帰宅後に完成する開発の未来</title>
-      <link>https://zenn.dev/lnest_knowledge/articles/9629c5083357aa</link>
-      <description>Claude Code Web版 - スマホで指示、帰宅後に完成する開発の未来
-
- はじめに
-2025年10月20日、Anthropicが「Claude Code Web版」をリリースしました。これまでターミナルでのみ利用可能だったClaude Codeが、ついにブラウザから直接使える時代が来たのです。
-筆者は、このweb版を使ってQ-Learningの迷路問題をStreamlitで実装してみました。開発スタイルが大きく変わる可能性を感じる一方で、いくつかの制限や課題も見えてきました。
-この記事では、実装を通じて感じたClaude Code Web版の実用性、メリット・デメリット、そ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lnest_knowledge/articles/9629c5083357aa</guid>
-      <pubDate>Tue, 21 Oct 2025 10:27:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilotを使っている人は全員"copilot-instrucions.md"を作成してください - Qiita</title>
-      <link>https://qiita.com/TooMe/items/873540da84567733d16b</link>
-      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに GitHub Copilotを使っている開発者の皆さん、.github/copilot-instructions.mdというファイルを作成していますか？ このファイル1つで、Copilotをあなたのプロジェクト専... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://qiita.com/TooMe/items/873540da84567733d16b</guid>
-      <pubDate>Thu, 23 Oct 2025 10:02:17 +0000</pubDate>
+      <title>個人的GitHub Copilotの使い方メモ</title>
+      <link>https://qiita.com/Nozomuts/items/430261fa996cba5fd466?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+個人的に GitHub Copilot（以降: Copilot）にとてもお世話になっているので、自分なりの設定や良いなと思っている点をメモとしてまとめてみました！（2025/10時点）
+基本的なことばかりかもしれませんが、どなたかの参考になりましたら嬉しいです！... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Nozomuts/items/430261fa996cba5fd466?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 24 Oct 2025 10:42:06 +0000</pubDate>
     </item>
     <item>
       <title>【ポケモン×Java】知識編 Scanner#1 〜Scannerを完全攻略 - 基本編 -〜</title>
@@ -86,6 +58,13 @@ Javaで「ユーザーに質問して答えてもらう」小さなアプリを�
       <pubDate>Thu, 23 Oct 2025 16:53:46 +0000</pubDate>
     </item>
     <item>
+      <title>Everyone should be using Claude Code more</title>
+      <link>https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code</link>
+      <description>👋 Hey there, I’m Lenny. Each week, I tackle reader questions about building product, driving growth, and accelerating your career. For more: Lennybot | Lenny’s Podcast | How I AI | Lenny’s Reads | Courses Annual subscribers get a free year of 17 premium products: Devin, Lovable, Replit, Bolt, n8... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code</guid>
+      <pubDate>Thu, 23 Oct 2025 02:01:42 +0000</pubDate>
+    </item>
+    <item>
       <title>あなたは5年後必要な人材ですか？</title>
       <link>https://zenn.dev/coconala/articles/c33e04818367b5</link>
       <description>はじめに
@@ -95,6 +74,14 @@ Javaで「ユーザーに質問して答えてもらう」小さなアプリを�
 そんな問題意識を抱えていたタイミングで、すてぃおさんのClaude Code時代のソフトウェアエンジニア生存戦略という記事を拝... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/coconala/articles/c33e04818367b5</guid>
       <pubDate>Tue, 21 Oct 2025 06:36:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIで数理最適化問題を解いた時にAIがミスった具体例と教訓</title>
+      <link>https://qiita.com/ttsuzuku/items/9632b272933f4c8c9437?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>数理最適化の問題をAIに解かせたら、答えが76.8%も間違ってた話
+ここ最近、Cline、Claude Code、Amazon Q developer、Kiroなどの AI駆動開発ツールがコードやドキュメントを高い品質で生み出す凄さに感動している今日この頃です。一般的なア... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/ttsuzuku/items/9632b272933f4c8c9437?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 24 Oct 2025 00:18:27 +0000</pubDate>
     </item>
     <item>
       <title>Vitest 4の新機能 expect.schemaMatching とHonoとZodでスキーマ駆動でテストをやる</title>
