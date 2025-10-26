@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Oct 2025 00:40:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 00:53:30 +0000</lastBuildDate>
+    <item>
+      <title>説明可能な人工知能におけるプライバシーリスクと保護方法
+：スコープレビュー</title>
+      <link>http://arxiv.org/abs/2505.02828v2</link>
+      <description>説明可能な人工知能（XAI）は、信頼できるAIの柱として浮上し、本質的に不透明な複雑なモデルに透明性をもたらすことを目指しています。モデルに説明を組み込むことには利点がある一方で、エンドユーザーにこの追加情報を提供することによるプライバシー上の懸念に対処することが急務となっています。本稿では、プライバシーと説明可能性の対立点について詳細を明らかにするために、既存の文献のスコープレビューを実施します。スコープレビューの標準的な方法論を用いて、2019年1月から2024年12月までに発表された1,943件の研究から57件の論文を抽出しました。本レビューでは、読者にこのトピックへの理解を深めてもらうために、3つの研究課題を取り上げています。(1) AIシステムで説明を公開することによるプライバシーリスクとは何か？(2) 研究者はXAIシステムにおけるプライバシー保護を実現するために、現在どのような手法を採用しているのか？(3) プライバシー保護の説明とはどのようなものか？選定された研究から得られた知見に基づき、XAIにおけるプライバシーリスクとプライバシー保護方法を分類し、プライバシー保護説 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2505.02828v2</guid>
+      <pubDate>Mon, 05 May 2025 17:53:28 +0000</pubDate>
+    </item>
     <item>
       <title>CSU-PCAST：中期アンサンブルのためのデュアルブランチ・トランスフォーマー・フレームワーク
 降水量予測</title>

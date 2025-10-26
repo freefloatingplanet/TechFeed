@@ -7,7 +7,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Oct 2025 00:39:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 00:53:22 +0000</lastBuildDate>
+    <item>
+      <title>【10月24日ランキング】【海外記事紹介】「Reactを規制すべき」「ReactはWebを劣化させている」と強烈にDisる記事が話題に — Webプラットフォームの可能性を再評価すべきと主張／ほか19本</title>
+      <link>https://techfeed.io/categories/all/selections/daily/2025/10/24?from=rss</link>
+      <description>すべてカテゴリー 2025年10月24日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。 1位: 【海外記事紹介】「Reactを規制すべき」「ReactはWebを劣化させている」と強烈にDisる記事が話題に — Webプラットフォームの可能性を再評価すべきと主張 2位: 「OneDrive」のバックアップ機能を切ったらファイルがなくなった……を防止する改善／新しいアプリアイコンなども導入へ（forest.watch.impress.co.jp） 3位: GitHub Copilotを使っている人は全員"copilot-instrucions.md"を作成してください（qiita.com） …ほか17本 ランキングはこちらから (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/categories/all/selections/daily/2025/10/24?from=rss</guid>
+      <pubDate>Fri, 24 Oct 2025 14:59:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIとAWS CDKの親和性 ― AIを活用しIaCを学び、AWSを理解する</title>
+      <link>https://qiita.com/teshima_daichi/items/c4f749aec3f49d735acd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>1. はじめに
+クラウドインフラをコードで管理する「IaC（Infrastructure as Code）」は、
+今や開発者にとって避けて通れない領域になりました。
+その中でも AWS CDK（Cloud Development Kit） は、TypeScriptやPyt... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/teshima_daichi/items/c4f749aec3f49d735acd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 24 Oct 2025 10:01:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>個人的GitHub Copilotの使い方メモ</title>
+      <link>https://qiita.com/Nozomuts/items/430261fa996cba5fd466?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+個人的に GitHub Copilot（以降: Copilot）にとてもお世話になっているので、自分なりの設定や良いなと思っている点をメモとしてまとめてみました！（2025/10時点）
+基本的なことばかりかもしれませんが、どなたかの参考になりましたら嬉しいです！... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Nozomuts/items/430261fa996cba5fd466?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 24 Oct 2025 10:42:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Typst 0.14.0 の内容を早めに深堀り</title>
+      <link>https://zenn.dev/monaqa/articles/2025-10-24-typst-updates-v0-14</link>
+      <description>はじめに
+本記事では、2025/10/24 にリリースされた Typst 0.14.0 の新機能や変更点を紹介します。
+!
+本記事のタイトルと構成は、前回から引き続き あずんひさんが継続されている「Rust 1.xx を早めに深堀り」シリーズからお借りしています。
+
+
+ リリースノート・深堀り記事一覧
+
+
+
+リリース日
+バージョン
+公式リリースノート
+深堀り記事
+
+
+
+
+2024/10/18
+0.12.0
+公式リリースノート
+Typst 0.12.0 の内容を早めに深堀り
+
+
+2025/02/19
+0.13.0
+公式リリースノート
+Typst 0.13.0 の内容を早めに深堀り
+
+
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/monaqa/articles/2025-10-24-typst-updates-v0-14</guid>
+      <pubDate>Fri, 24 Oct 2025 15:10:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>ここが変だよLLMコーディングエージェント(Codex)</title>
+      <link>https://zenn.dev/takeshy/articles/20b8b2ab499b6f</link>
+      <description>はじめに 最近LLMコーディングエージェント(主にCodex)tipsを書きましたが、やっぱりLLMコーディングエージェントは頼りにしすぎてはいけない、重要なところは自分で書こうという思いが強まってきています。 どういうとこが変なのかをまとめることで、なぜそう感じるのかを説明したいと思います。 1. 引数のバリエーショ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/takeshy/articles/20b8b2ab499b6f</guid>
+      <pubDate>Sat, 25 Oct 2025 01:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIで数理最適化問題を解いた時にAIがミスった具体例と教訓</title>
+      <link>https://qiita.com/ttsuzuku/items/9632b272933f4c8c9437?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>数理最適化の問題をAIに解かせたら、答えが76.8%も間違ってた話
+ここ最近、Cline、Claude Code、Amazon Q developer、Kiroなどの AI駆動開発ツールがコードやドキュメントを高い品質で生み出す凄さに感動している今日この頃です。一般的なア... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/ttsuzuku/items/9632b272933f4c8c9437?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 24 Oct 2025 00:18:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>100B超えLLM開発における難しさと工夫</title>
+      <link>https://qiita.com/Satorien/items/514240bdc8858d97ded6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>0. はじめに
+対象読者：LLMの事後学習に興味がある人・推論モデルの学習に興味がある人・その他の理由でこの記事を開いてみようと思った人
+内容：100B超えLLMの学習を行う際に知っておきたい学習を支える手法とツールの知識
+
+1. 記事執筆の経緯
+この記事では、松尾研LL... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Satorien/items/514240bdc8858d97ded6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 24 Oct 2025 14:02:20 +0000</pubDate>
+    </item>
     <item>
       <title>Vitest 4の新機能 expect.schemaMatching とHonoとZodでスキーマ駆動でテストをやる</title>
       <link>https://zenn.dev/assign/articles/vitest-4-schema-matching</link>
