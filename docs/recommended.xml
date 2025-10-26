@@ -7,33 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Oct 2025 00:58:35 +0000</lastBuildDate>
-    <item>
-      <title>【10月24日ランキング】【海外記事紹介】「Reactを規制すべき」「ReactはWebを劣化させている」と強烈にDisる記事が話題に — Webプラットフォームの可能性を再評価すべきと主張／ほか19本</title>
-      <link>https://techfeed.io/categories/all/selections/daily/2025/10/24?from=rss</link>
-      <description>すべてカテゴリー 2025年10月24日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。 1位: 【海外記事紹介】「Reactを規制すべき」「ReactはWebを劣化させている」と強烈にDisる記事が話題に — Webプラットフォームの可能性を再評価すべきと主張 2位: 「OneDrive」のバックアップ機能を切ったらファイルがなくなった……を防止する改善／新しいアプリアイコンなども導入へ（forest.watch.impress.co.jp） 3位: GitHub Copilotを使っている人は全員"copilot-instrucions.md"を作成してください（qiita.com） …ほか17本 ランキングはこちらから (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/categories/all/selections/daily/2025/10/24?from=rss</guid>
-      <pubDate>Fri, 24 Oct 2025 14:59:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIとAWS CDKの親和性 ― AIを活用しIaCを学び、AWSを理解する</title>
-      <link>https://qiita.com/teshima_daichi/items/c4f749aec3f49d735acd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>1. はじめに
-クラウドインフラをコードで管理する「IaC（Infrastructure as Code）」は、
-今や開発者にとって避けて通れない領域になりました。
-その中でも AWS CDK（Cloud Development Kit） は、TypeScriptやPyt... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/teshima_daichi/items/c4f749aec3f49d735acd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 24 Oct 2025 10:01:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>個人的GitHub Copilotの使い方メモ</title>
-      <link>https://qiita.com/Nozomuts/items/430261fa996cba5fd466?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-個人的に GitHub Copilot（以降: Copilot）にとてもお世話になっているので、自分なりの設定や良いなと思っている点をメモとしてまとめてみました！（2025/10時点）
-基本的なことばかりかもしれませんが、どなたかの参考になりましたら嬉しいです！... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Nozomuts/items/430261fa996cba5fd466?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 24 Oct 2025 10:42:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Oct 2025 06:31:50 +0000</lastBuildDate>
     <item>
       <title>Typst 0.14.0 の内容を早めに深堀り</title>
       <link>https://zenn.dev/monaqa/articles/2025-10-24-typst-updates-v0-14</link>
@@ -70,6 +44,13 @@ Typst 0.13.0 の内容を早めに深堀り
 ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/monaqa/articles/2025-10-24-typst-updates-v0-14</guid>
       <pubDate>Fri, 24 Oct 2025 15:10:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Andrej Karpathy — “We’re summoning ghosts, not building animals”</title>
+      <link>https://www.youtube.com/watch?v=lXUZvyajciY</link>
+      <description>The Andrej Karpathy episode. During this interview, Andrej explains why reinforcement learning is terrible (but everything else is much worse), why AGI will just blend into the previous ~2.5 centuries of 2% GDP growth, why self driving took so long to crack, and what he sees as the future of educ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=lXUZvyajciY</guid>
+      <pubDate>Sat, 18 Oct 2025 10:24:36 +0000</pubDate>
     </item>
     <item>
       <title>ここが変だよLLMコーディングエージェント(Codex)</title>
@@ -112,6 +93,13 @@ Typst 0.13.0 の内容を早めに深堀り
       <pubDate>Thu, 23 Oct 2025 12:25:33 +0000</pubDate>
     </item>
     <item>
+      <title>AIで数理最適化問題を解いた時にAIがミスった具体例と教訓 - Qiita</title>
+      <link>https://qiita.com/ttsuzuku/items/9632b272933f4c8c9437</link>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 数理最適化の問題をAIに解かせたら、答えが76.8%も間違ってた話 ここ最近、Cline、Claude Code、Amazon Q developer、Kiroなどの AI駆動開発ツールがコードやドキュメントを高い品... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://qiita.com/ttsuzuku/items/9632b272933f4c8c9437</guid>
+      <pubDate>Fri, 24 Oct 2025 18:39:07 +0000</pubDate>
+    </item>
+    <item>
       <title>複数の Docker Compose 環境を同時に立ち上げる</title>
       <link>https://zenn.dev/socialdog/articles/multiple-docker-compose-up</link>
       <description>はじめに
@@ -133,6 +121,13 @@ SocialDog では、git-worktree を使った開発においても、これらの
  CUDA... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/kaerururu/articles/101f9261ae923a</guid>
       <pubDate>Sat, 25 Oct 2025 03:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>個人的GitHub Copilotの使い方メモ - Qiita</title>
+      <link>https://qiita.com/Nozomuts/items/430261fa996cba5fd466</link>
+      <description>はじめに 個人的に GitHub Copilot（以降: Copilot）にとてもお世話になっているので、自分なりの設定や良いなと思っている点をメモとしてまとめてみました！（2025/10時点） 基本的なことばかりかもしれませんが、どなたかの参考になりましたら嬉しいです！ 記載しているプロンプトやコードは雑な内容になっております... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://qiita.com/Nozomuts/items/430261fa996cba5fd466</guid>
+      <pubDate>Sat, 25 Oct 2025 23:29:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
