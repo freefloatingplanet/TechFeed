@@ -7,65 +7,52 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Oct 2025 06:31:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 06:37:38 +0000</lastBuildDate>
     <item>
-      <title>Typst 0.14.0 の内容を早めに深堀り</title>
-      <link>https://zenn.dev/monaqa/articles/2025-10-24-typst-updates-v0-14</link>
-      <description>はじめに
-本記事では、2025/10/24 にリリースされた Typst 0.14.0 の新機能や変更点を紹介します。
-!
-本記事のタイトルと構成は、前回から引き続き あずんひさんが継続されている「Rust 1.xx を早めに深堀り」シリーズからお借りしています。
-
-
- リリースノート・深堀り記事一覧
-
-
-
-リリース日
-バージョン
-公式リリースノート
-深堀り記事
-
-
-
-
-2024/10/18
-0.12.0
-公式リリースノート
-Typst 0.12.0 の内容を早めに深堀り
-
-
-2025/02/19
-0.13.0
-公式リリースノート
-Typst 0.13.0 の内容を早めに深堀り
-
-
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/monaqa/articles/2025-10-24-typst-updates-v0-14</guid>
-      <pubDate>Fri, 24 Oct 2025 15:10:24 +0000</pubDate>
+      <title>【10月24日ランキング】【海外記事紹介】「Reactを規制すべき」「ReactはWebを劣化させている」と強烈にDisる記事が話題に — Webプラットフォームの可能性を再評価すべきと主張／ほか19本</title>
+      <link>https://techfeed.io/categories/all/selections/daily/2025/10/24?from=rss</link>
+      <description>すべてカテゴリー 2025年10月24日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。 1位: 【海外記事紹介】「Reactを規制すべき」「ReactはWebを劣化させている」と強烈にDisる記事が話題に — Webプラットフォームの可能性を再評価すべきと主張 2位: 「OneDrive」のバックアップ機能を切ったらファイルがなくなった……を防止する改善／新しいアプリアイコンなども導入へ（forest.watch.impress.co.jp） 3位: GitHub Copilotを使っている人は全員"copilot-instrucions.md"を作成してください（qiita.com） …ほか17本 ランキングはこちらから (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/categories/all/selections/daily/2025/10/24?from=rss</guid>
+      <pubDate>Fri, 24 Oct 2025 14:59:59 +0000</pubDate>
     </item>
     <item>
-      <title>Andrej Karpathy — “We’re summoning ghosts, not building animals”</title>
-      <link>https://www.youtube.com/watch?v=lXUZvyajciY</link>
-      <description>The Andrej Karpathy episode. During this interview, Andrej explains why reinforcement learning is terrible (but everything else is much worse), why AGI will just blend into the previous ~2.5 centuries of 2% GDP growth, why self driving took so long to crack, and what he sees as the future of educ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=lXUZvyajciY</guid>
-      <pubDate>Sat, 18 Oct 2025 10:24:36 +0000</pubDate>
+      <title>AIとAWS CDKの親和性 ― AIを活用しIaCを学び、AWSを理解する</title>
+      <link>https://qiita.com/teshima_daichi/items/c4f749aec3f49d735acd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>1. はじめに
+クラウドインフラをコードで管理する「IaC（Infrastructure as Code）」は、
+今や開発者にとって避けて通れない領域になりました。
+その中でも AWS CDK（Cloud Development Kit） は、TypeScriptやPyt... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/teshima_daichi/items/c4f749aec3f49d735acd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 24 Oct 2025 10:01:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>個人的GitHub Copilotの使い方メモ</title>
+      <link>https://qiita.com/Nozomuts/items/430261fa996cba5fd466?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+個人的に GitHub Copilot（以降: Copilot）にとてもお世話になっているので、自分なりの設定や良いなと思っている点をメモとしてまとめてみました！（2025/10時点）
+基本的なことばかりかもしれませんが、どなたかの参考になりましたら嬉しいです！... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Nozomuts/items/430261fa996cba5fd466?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 24 Oct 2025 10:42:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】ケン・トンプソンがトロイの木馬をCコンパイラに仕込んだ時の話 — “自己再生するバックドア”の仕組みとその思想</title>
+      <link>https://techfeed.io/entries/68fe8fc8f124142b9b180df9?from=rss</link>
+      <description>10月26日、Micah Kepe氏が「That Time Ken Thompson Wrote a Backdoor into the C Compiler」と題したブログ記事を公開し、話題を呼んでいる。この記事では、ケン・トンプソンが1974年にチューリング賞を受賞した際に発表した論文「Reflections on Trusting Trust」で語られた、“自己再生するCコンパイラのバックドア”の仕組みとその思想が紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/68fe8fc8f124142b9b180df9?from=rss</guid>
+      <pubDate>Sun, 26 Oct 2025 21:19:41 +0000</pubDate>
     </item>
     <item>
       <title>ここが変だよLLMコーディングエージェント(Codex)</title>
       <link>https://zenn.dev/takeshy/articles/20b8b2ab499b6f</link>
-      <description>はじめに 最近LLMコーディングエージェント(主にCodex)tipsを書きましたが、やっぱりLLMコーディングエージェントは頼りにしすぎてはいけない、重要なところは自分で書こうという思いが強まってきています。 どういうとこが変なのかをまとめることで、なぜそう感じるのかを説明したいと思います。 1. 引数のバリエーショ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <description>はじめに
+最近LLMコーディングエージェント(主にCodex)tipsを書きましたが、やっぱりLLMコーディングエージェントは頼りにしすぎてはいけない、重要なところは自分で書こうという思いが強まってきています。
+どういうとこが変なのかをまとめることで、なぜそう感じるのかを説明したいと思います。
+
+ 1. 引数のバリエーションが無駄に多い
+一箇所からしか呼ばれていないメソッドで現状の呼び出し箇所は引数にidしか渡していないにも関わらず、コードの他の部分も参照して勝手にentry_idでもticket_idでも渡していいようなメソッドにしてしまう。。
+一見問題なさそうですが、このフィール... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/takeshy/articles/20b8b2ab499b6f</guid>
-      <pubDate>Sat, 25 Oct 2025 01:05:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIで数理最適化問題を解いた時にAIがミスった具体例と教訓</title>
-      <link>https://qiita.com/ttsuzuku/items/9632b272933f4c8c9437?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>数理最適化の問題をAIに解かせたら、答えが76.8%も間違ってた話
-ここ最近、Cline、Claude Code、Amazon Q developer、Kiroなどの AI駆動開発ツールがコードやドキュメントを高い品質で生み出す凄さに感動している今日この頃です。一般的なア... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/ttsuzuku/items/9632b272933f4c8c9437?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 24 Oct 2025 00:18:27 +0000</pubDate>
+      <pubDate>Sat, 25 Oct 2025 00:51:36 +0000</pubDate>
     </item>
     <item>
       <title>100B超えLLM開発における難しさと工夫</title>
@@ -80,54 +67,42 @@ Typst 0.13.0 の内容を早めに深堀り
       <pubDate>Fri, 24 Oct 2025 14:02:20 +0000</pubDate>
     </item>
     <item>
-      <title>Vitest 4の新機能 expect.schemaMatching とHonoとZodでスキーマ駆動でテストをやる</title>
-      <link>https://zenn.dev/assign/articles/vitest-4-schema-matching</link>
+      <title>仕様駆動型開発を簡単に導入できる「OpenSpec」を利用して一貫性のあるコードを生成する方法</title>
+      <link>https://gigazine.net/news/20251026-openspec/</link>
+      <description>OpenSpecはAIを利用したコーディングの手法「仕様駆動型開発（Specification-Driven Development、略してSDD）」を簡単に導入できるツールで、仕様から一貫性のあるコードを自動生成できます。 GitHub - Fission-AI/OpenSpec: Spec-driven development for AI coding assistants. https://github.com/Fission-AI/OpenSpe... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20251026-openspec/</guid>
+      <pubDate>Sun, 26 Oct 2025 14:14:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Go でログに機密情報を出力していないか静的解析するツールを作った</title>
+      <link>https://zenn.dev/nilpoona/articles/c68387ec5415f7</link>
       <description>はじめに
-こんにちは、株式会社アサインでエンジニアをしているうちほり(@showichiro0123)です。
-2025年10月22日にリリースされたVitest 4には、テスト駆動開発やスキーマ駆動開発を加速させる新機能が多数追加されました。中でも私の目を引いたのは、Zodなどのスキーマライブラリと統合できるexpect.schemaMatchingです。
-本記事では、Vitest 4の新機能を概観しつつ、expect.schemaMatchingを使ったスキーマ駆動テストの実践方法を、Honoを使ったWeb APIの開発例を交えて紹介します。
+アプリケーション開発において、デバッグやモニタリングのためにログを出力することは一般的です。しかし、うっかりパスワードやAPIキーなどの機密情報をログに含めてしまうと、重大なセキュリティインシデントにつながる可能性があります。
+本記事では、Go で書かれたコードを静的解析し、機密情報がログに出力されていないかチェックするツール leakhound を紹介します。
+https://github.com/nilpoona/leakhound
 
- Vitest 4の主要な新機能
-ま... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/assign/articles/vitest-4-schema-matching</guid>
-      <pubDate>Thu, 23 Oct 2025 12:25:33 +0000</pubDate>
+ leakhound とは
+leakhoundは、Go の静的解析を利用して、sensitive:"true" タグが付けられた構造体フ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nilpoona/articles/c68387ec5415f7</guid>
+      <pubDate>Sun, 26 Oct 2025 07:06:11 +0000</pubDate>
     </item>
     <item>
-      <title>AIで数理最適化問題を解いた時にAIがミスった具体例と教訓 - Qiita</title>
-      <link>https://qiita.com/ttsuzuku/items/9632b272933f4c8c9437</link>
-      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 数理最適化の問題をAIに解かせたら、答えが76.8%も間違ってた話 ここ最近、Cline、Claude Code、Amazon Q developer、Kiroなどの AI駆動開発ツールがコードやドキュメントを高い品... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://qiita.com/ttsuzuku/items/9632b272933f4c8c9437</guid>
-      <pubDate>Fri, 24 Oct 2025 18:39:07 +0000</pubDate>
+      <title>【Claude】Agent Skills入門 - はじめてのスキル作成 - - Findy Tech Blog</title>
+      <link>https://tech.findy.co.jp/entry/2025/10/27/070000</link>
+      <description>こんにちは。 ファインディ株式会社でテックリードマネージャーをやらせてもらっている戸田です。 現在のソフトウェア開発の世界は、生成AIの登場により大きな転換点を迎えています。 GitHub Copilot や Claude Code など、生成AIを活用した開発支援ツールが次々と登場し、日常的なワークフローに組み込まれつつあります... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech.findy.co.jp/entry/2025/10/27/070000</guid>
+      <pubDate>Sun, 26 Oct 2025 22:34:19 +0000</pubDate>
     </item>
     <item>
-      <title>複数の Docker Compose 環境を同時に立ち上げる</title>
-      <link>https://zenn.dev/socialdog/articles/multiple-docker-compose-up</link>
+      <title>Tailwind CSSは本当に便利？従来のCSSとの比較で分かる、メリット・デメリット</title>
+      <link>https://zenn.dev/crebo_tech/articles/article-0018-20251026</link>
       <description>はじめに
-Docker Compose を利用して開発環境を構築するプロジェクトは多いと思います。
-Claude Code をはじめとするコーディングエージェントの普及により、git-worktree を使って複数の作業ブランチを並行して開発することが増えてきました。Docker Compose で構築する開発環境は、ワークツリーが違えどほとんどの場合同じような構成になるため、ワークツリーごとに環境を立ち上げようとすると、コンテナ名やポートの衝突といった問題が発生します。
-SocialDog では、git-worktree を使った開発においても、これらの問題が生じないよう手順をドキ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/socialdog/articles/multiple-docker-compose-up</guid>
-      <pubDate>Thu, 23 Oct 2025 00:32:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kaggle Notebook で始める CUDAプログラミング入門</title>
-      <link>https://zenn.dev/kaerururu/articles/101f9261ae923a</link>
-      <description>はじめに
-こんにちは！kaerururu です。
-普段、私は PyTorch や cuML といったライブラリを通じて、実装の詳細を意識することなくCUDA の恩恵を受けています。CUDA プログラミングができるようになるともっと速いコードが書けそうです。
-この記事では、NVIDIA公式のドキュメントなどを頼りにCUDAプログラミングを学んだ記録を共有します。C++での実装から、PythonのラッパーライブラリであるNumbaを使った実装まで、具体的なコードと実行速度の比較まで実施しました。
-この記事で作成したコードは、Kaggle Notebook で公開しています。
-
- CUDA... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kaerururu/articles/101f9261ae923a</guid>
-      <pubDate>Sat, 25 Oct 2025 03:07:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>個人的GitHub Copilotの使い方メモ - Qiita</title>
-      <link>https://qiita.com/Nozomuts/items/430261fa996cba5fd466</link>
-      <description>はじめに 個人的に GitHub Copilot（以降: Copilot）にとてもお世話になっているので、自分なりの設定や良いなと思っている点をメモとしてまとめてみました！（2025/10時点） 基本的なことばかりかもしれませんが、どなたかの参考になりましたら嬉しいです！ 記載しているプロンプトやコードは雑な内容になっております... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://qiita.com/Nozomuts/items/430261fa996cba5fd466</guid>
-      <pubDate>Sat, 25 Oct 2025 23:29:35 +0000</pubDate>
+「classに大量のユーティリティクラスを書くのって保守性が悪くない？」
+Tailwind CSSを初めて見たとき、こんな疑問を抱いた方は多いのではないでしょうか。HTML要素のclass属性に長々とクラス名が並ぶ姿は、一見すると混乱を招きそうに見えます。
+しかし、実際に使ってみると、その考えが変わるかもしれません。本記事では、従来のCSS（BEM記法など）、CSS Modules、Tailwind CSSの3つのアプローチを実際のコード例で比較し、それぞれのメリット・デメリットを客観的に評価します。
+また、「インラインスタイルと同じでは？」といったよくある誤解にも丁寧に回... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/crebo_tech/articles/article-0018-20251026</guid>
+      <pubDate>Sat, 25 Oct 2025 21:54:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
