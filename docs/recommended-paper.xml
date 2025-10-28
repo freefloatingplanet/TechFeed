@@ -7,16 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Oct 2025 06:38:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 06:35:49 +0000</lastBuildDate>
     <item>
-      <title>FRIPON、DFN、WMPL、AMOSのデータ削減パイプラインの比較：
-ジェミニッド流星群のケーススタディ</title>
-      <link>http://arxiv.org/abs/2510.21690v1</link>
-      <description>方法：2016年から2023年の間にFRIPONによって観測された584個のふたご座流星群火球のデータセットを処理した。単一観測点の天文データは、統一的な処理のためにGlobal Fireball Exchange（GFE）標準フォーマットに変換された。パイプライン全体における軌道、速度、放射点、軌道要素の計算値のばらつきを評価し、それらを以前に発表されたふたご座流星群の測定値と比較した。
-結果：4つのデータ処理パイプラインによって得られた放射点と速度の解は、いずれも以前に発表された値の範囲内であった。
-しかし、いくつかの微妙な違いも見られる。特に、WMPL、DFN、AMOSによって推定された放射点はほぼ同一である。一方、FRIPONは、歳差運動の不適切な処理によって生じた赤経の系統的なシフト（-0.3度）を報告している。さらに、FRIPONデータリダクションパイプラインは、速度ソルバーとして使用される減速モデルの影響で、初期速度を過大評価する傾向があります（+0.3 km s-1）。FRIPON速度法は、十分に制約された減速プロファイルを持つことを前提としていますが、ふたご座流星群の (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.21690v1</guid>
-      <pubDate>Fri, 24 Oct 2025 17:50:02 +0000</pubDate>
+      <title>マルチエージェント進化：共進化によるLLM自己改善</title>
+      <link>http://arxiv.org/abs/2510.23595v1</link>
+      <description>強化学習（RL）は、大規模言語モデル（LLM）の推論能力を向上させる上で大きな可能性を実証してきました。しかし、LLMにおけるRLの成功は、人間がキュレーションしたデータセットと検証可能な報酬に大きく依存しており、スケーラビリティと汎用性が制限されています。ゲームや囲碁におけるパラダイムの成功に着想を得た最近のセルフプレイRL手法は、人間が注釈を付けたデータなしでLLMの推論能力を向上させることを目指しています。しかし、これらの手法は主にフィードバックのための基盤となる環境（Pythonインタープリターやゲームエンジンなど）に依存しており、一般的な領域への拡張は依然として困難です。これらの課題に対処するため、我々は、数学、推論、一般知識Q&amp;Aなど、多様なタスクを解決しながらLLMが自己進化できるようにするフレームワークであるMulti-Agent Evolve（MAE）を提案します。 MAEの中核設計は、単一のLLMからインスタンス化された相互作用する3つのエージェント（提案者、ソルバー、判断者）に基づいており、強化学習を適用して動作を最適化します。提案者は質問を生成し、ソルバーは解決 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.23595v1</guid>
+      <pubDate>Mon, 27 Oct 2025 17:58:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

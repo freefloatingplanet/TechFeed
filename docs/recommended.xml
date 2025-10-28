@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Oct 2025 06:37:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 06:35:44 +0000</lastBuildDate>
     <item>
       <title>【10月24日ランキング】【海外記事紹介】「Reactを規制すべき」「ReactはWebを劣化させている」と強烈にDisる記事が話題に — Webプラットフォームの可能性を再評価すべきと主張／ほか19本</title>
       <link>https://techfeed.io/categories/all/selections/daily/2025/10/24?from=rss</link>
@@ -16,23 +16,13 @@
       <pubDate>Fri, 24 Oct 2025 14:59:59 +0000</pubDate>
     </item>
     <item>
-      <title>AIとAWS CDKの親和性 ― AIを活用しIaCを学び、AWSを理解する</title>
-      <link>https://qiita.com/teshima_daichi/items/c4f749aec3f49d735acd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>1. はじめに
-クラウドインフラをコードで管理する「IaC（Infrastructure as Code）」は、
-今や開発者にとって避けて通れない領域になりました。
-その中でも AWS CDK（Cloud Development Kit） は、TypeScriptやPyt... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/teshima_daichi/items/c4f749aec3f49d735acd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 24 Oct 2025 10:01:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>個人的GitHub Copilotの使い方メモ</title>
-      <link>https://qiita.com/Nozomuts/items/430261fa996cba5fd466?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>見た目と中身がズレるわけ 文字化けの正体とUTF-8・CRLF入門</title>
+      <link>https://qiita.com/nucomiya/items/198418fa614e6a41098c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-個人的に GitHub Copilot（以降: Copilot）にとてもお世話になっているので、自分なりの設定や良いなと思っている点をメモとしてまとめてみました！（2025/10時点）
-基本的なことばかりかもしれませんが、どなたかの参考になりましたら嬉しいです！... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Nozomuts/items/430261fa996cba5fd466?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 24 Oct 2025 10:42:06 +0000</pubDate>
+開発中に「見た目は同じなのに差分が崩れる」「Windowsで作ったテキストをLinuxで開くと一行になる」「絵文字だけ位置が合わない」といった小さな不具合に出会うことがあります。原因を押さえておくと、レビューやデータ受け渡しで無駄な往復を減らせます。
+また、最後... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/nucomiya/items/198418fa614e6a41098c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Mon, 27 Oct 2025 00:36:20 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】ケン・トンプソンがトロイの木馬をCコンパイラに仕込んだ時の話 — “自己再生するバックドア”の仕組みとその思想</title>
@@ -42,56 +32,54 @@
       <pubDate>Sun, 26 Oct 2025 21:19:41 +0000</pubDate>
     </item>
     <item>
-      <title>ここが変だよLLMコーディングエージェント(Codex)</title>
-      <link>https://zenn.dev/takeshy/articles/20b8b2ab499b6f</link>
+      <title>ベクトルインデックスのすゝめ</title>
+      <link>https://zenn.dev/exwzd/articles/20251015_a_guide_to_vector_indexing</link>
       <description>はじめに
-最近LLMコーディングエージェント(主にCodex)tipsを書きましたが、やっぱりLLMコーディングエージェントは頼りにしすぎてはいけない、重要なところは自分で書こうという思いが強まってきています。
-どういうとこが変なのかをまとめることで、なぜそう感じるのかを説明したいと思います。
+初めまして、株式会社エクサウィザーズのWANDチームでインターンをしている東光です。本記事では、近年注目を集めているベクトルDBのパフォーマンス向上を目的とした、最適なベクトルインデックスの選択方法を紹介します。具体的には、一般的なベクトルインデックスへの見解と実際に実験した知見から、ベストプラクティスを目指すための考え方を示します。
 
- 1. 引数のバリエーションが無駄に多い
-一箇所からしか呼ばれていないメソッドで現状の呼び出し箇所は引数にidしか渡していないにも関わらず、コードの他の部分も参照して勝手にentry_idでもticket_idでも渡していいようなメソッドにしてしまう。。
-一見問題なさそうですが、このフィール... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/takeshy/articles/20b8b2ab499b6f</guid>
-      <pubDate>Sat, 25 Oct 2025 00:51:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>100B超えLLM開発における難しさと工夫</title>
-      <link>https://qiita.com/Satorien/items/514240bdc8858d97ded6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>0. はじめに
-対象読者：LLMの事後学習に興味がある人・推論モデルの学習に興味がある人・その他の理由でこの記事を開いてみようと思った人
-内容：100B超えLLMの学習を行う際に知っておきたい学習を支える手法とツールの知識
+ 背景
 
-1. 記事執筆の経緯
-この記事では、松尾研LL... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Satorien/items/514240bdc8858d97ded6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 24 Oct 2025 14:02:20 +0000</pubDate>
+ ベクトルDBとベクトルインデックスの関係
+生成AIの飛躍が激しい今、ベクトルDBは多くのAIプロダクト(RAG, AI Agent)に利用されています。実際、僕がインターンをしている株式会社エクサウィザーズのAIプロダクトもAm... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/exwzd/articles/20251015_a_guide_to_vector_indexing</guid>
+      <pubDate>Mon, 27 Oct 2025 05:47:56 +0000</pubDate>
     </item>
     <item>
-      <title>仕様駆動型開発を簡単に導入できる「OpenSpec」を利用して一貫性のあるコードを生成する方法</title>
-      <link>https://gigazine.net/news/20251026-openspec/</link>
-      <description>OpenSpecはAIを利用したコーディングの手法「仕様駆動型開発（Specification-Driven Development、略してSDD）」を簡単に導入できるツールで、仕様から一貫性のあるコードを自動生成できます。 GitHub - Fission-AI/OpenSpec: Spec-driven development for AI coding assistants. https://github.com/Fission-AI/OpenSpe... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20251026-openspec/</guid>
-      <pubDate>Sun, 26 Oct 2025 14:14:37 +0000</pubDate>
+      <title>ZOZOマッチにおけるモデル開発の不確実性との向き合い方 - ZOZO TECH BLOG</title>
+      <link>https://techblog.zozo.com/entry/zozomatch-algorithm-management</link>
+      <description>はじめに こんにちは、データシステム部MA推薦ブロックの佐藤（@rayuron）です。私たちは、主にZOZOTOWNのメール配信のパーソナライズなど、マーケティングオートメーションに関するレコメンドシステムを開発・運用しています。 早速ですが、先日ZOZOマッチというサービスをリリースしました。 corp.zozo.com 新規サービ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://techblog.zozo.com/entry/zozomatch-algorithm-management</guid>
+      <pubDate>Tue, 28 Oct 2025 02:01:56 +0000</pubDate>
     </item>
     <item>
-      <title>Go でログに機密情報を出力していないか静的解析するツールを作った</title>
-      <link>https://zenn.dev/nilpoona/articles/c68387ec5415f7</link>
+      <title>APIテスト工数を劇的削減！ AI活用型 vs 仕様書連携型 vs CI/CD型 〜OpenAPIを活用したテスト自動化ツールを徹底比較〜</title>
+      <link>https://qiita.com/taikidanbara/items/db21ae0df42acce44663?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-アプリケーション開発において、デバッグやモニタリングのためにログを出力することは一般的です。しかし、うっかりパスワードやAPIキーなどの機密情報をログに含めてしまうと、重大なセキュリティインシデントにつながる可能性があります。
-本記事では、Go で書かれたコードを静的解析し、機密情報がログに出力されていないかチェックするツール leakhound を紹介します。
-https://github.com/nilpoona/leakhound
+REST APIの結合試験(統合試験)を手動で実施するのは、時間がかかり、ミスも発生しやすい作業です。本記事では、OpenAPI仕様書を活用して、結合試験を自動化するツールを比較解説します。
 
- leakhound とは
-leakhoundは、Go の静的解析を利用して、sensitive:"true" タグが付けられた構造体フ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nilpoona/articles/c68387ec5415f7</guid>
-      <pubDate>Sun, 26 Oct 2025 07:06:11 +0000</pubDate>
+本記事の対象読者
+
+OpenAPI/Swagger仕様書からテストを... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/taikidanbara/items/db21ae0df42acce44663?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 25 Oct 2025 08:39:17 +0000</pubDate>
     </item>
     <item>
-      <title>【Claude】Agent Skills入門 - はじめてのスキル作成 - - Findy Tech Blog</title>
-      <link>https://tech.findy.co.jp/entry/2025/10/27/070000</link>
-      <description>こんにちは。 ファインディ株式会社でテックリードマネージャーをやらせてもらっている戸田です。 現在のソフトウェア開発の世界は、生成AIの登場により大きな転換点を迎えています。 GitHub Copilot や Claude Code など、生成AIを活用した開発支援ツールが次々と登場し、日常的なワークフローに組み込まれつつあります... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tech.findy.co.jp/entry/2025/10/27/070000</guid>
-      <pubDate>Sun, 26 Oct 2025 22:34:19 +0000</pubDate>
+      <title>ClaudeCodeを使ったら手作りAWSが3日でTerraform化できた話 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
+      <link>https://tech-blog.rakus.co.jp/entry/20251028/ai-terraforming</link>
+      <description>目次 はじめに AI-Agentはインフラでどこまで使えるのか 実行環境とセットアップ 3日で進めたTerraform化のプロセス 使ってみて実感した効果 まとめ はじめに このブログの目的（と、ごあいさつ） こんにちは。SREの gumamon です！ 昨今のAI Agentの進歩は目覚ましいものがありますね。Vibe Coding という言葉も登場し... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech-blog.rakus.co.jp/entry/20251028/ai-terraforming</guid>
+      <pubDate>Tue, 28 Oct 2025 04:40:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vue Fes Japan 2025 参加レポート</title>
+      <link>https://qiita.com/saitojo1106/items/7971cc403617675188e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+2025年10月25日に開催された「Vue Fes Japan 2025」に参加してきました！
+Vue.jsの最新情報やコミュニティの熱気に触れることができ、非常に刺激的な一日でしたが、同時に自分の技術的な未熟さも痛感するイベントとなりました。
+
+この記事では、... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/saitojo1106/items/7971cc403617675188e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Mon, 27 Oct 2025 09:36:26 +0000</pubDate>
     </item>
     <item>
       <title>Tailwind CSSは本当に便利？従来のCSSとの比較で分かる、メリット・デメリット</title>
