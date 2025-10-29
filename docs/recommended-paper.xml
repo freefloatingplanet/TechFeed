@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Oct 2025 06:35:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 06:36:07 +0000</lastBuildDate>
     <item>
-      <title>マルチエージェント進化：共進化によるLLM自己改善</title>
-      <link>http://arxiv.org/abs/2510.23595v1</link>
-      <description>強化学習（RL）は、大規模言語モデル（LLM）の推論能力を向上させる上で大きな可能性を実証してきました。しかし、LLMにおけるRLの成功は、人間がキュレーションしたデータセットと検証可能な報酬に大きく依存しており、スケーラビリティと汎用性が制限されています。ゲームや囲碁におけるパラダイムの成功に着想を得た最近のセルフプレイRL手法は、人間が注釈を付けたデータなしでLLMの推論能力を向上させることを目指しています。しかし、これらの手法は主にフィードバックのための基盤となる環境（Pythonインタープリターやゲームエンジンなど）に依存しており、一般的な領域への拡張は依然として困難です。これらの課題に対処するため、我々は、数学、推論、一般知識Q&amp;Aなど、多様なタスクを解決しながらLLMが自己進化できるようにするフレームワークであるMulti-Agent Evolve（MAE）を提案します。 MAEの中核設計は、単一のLLMからインスタンス化された相互作用する3つのエージェント（提案者、ソルバー、判断者）に基づいており、強化学習を適用して動作を最適化します。提案者は質問を生成し、ソルバーは解決 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.23595v1</guid>
-      <pubDate>Mon, 27 Oct 2025 17:58:02 +0000</pubDate>
+      <title>Transformer強化条件付き変分オートエンコーダを用いたラウンドアバウトにおけるマルチエージェントシナリオ生成</title>
+      <link>http://arxiv.org/abs/2510.24671v1</link>
+      <description>量産車へのインテリジェント運転機能の統合が進むにつれ、その機能性と堅牢性の確保はますます困難になっています。従来の路上試験と比較して、シナリオベースの仮想試験は、時間とコストの効率性、再現性、エッジケースの探索において大きな利点があります。本研究では、ラウンドアバウトにおけるマルチエージェント交通シナリオを生成するための、Transformer-enhanced Conditional Variational Autoencoder (CVAE-T) モデルを提案します。ラウンドアバウトは、高い車両運動と複雑なレイアウトを特徴としますが、現在の研究では比較的十分に研究されていません。その結果、提案モデルは元のシナリオを正確に再構築し、現実的で多様な合成シナリオを生成できることが示されました。さらに、生成されたシナリオにおけるインタラクティブな動作を評価するために、2つの主要業績評価指標 (KPI) を採用しました。潜在空間の解析により、部分的な分離が明らかになりました。いくつかの潜在次元は、車両の進入タイミング、退出タイミング、速度プロファイルなどのシナリオ属性に明確かつ解釈可能な影響 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.24671v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:36:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

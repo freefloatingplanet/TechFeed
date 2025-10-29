@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Oct 2025 06:35:44 +0000</lastBuildDate>
-    <item>
-      <title>【10月24日ランキング】【海外記事紹介】「Reactを規制すべき」「ReactはWebを劣化させている」と強烈にDisる記事が話題に — Webプラットフォームの可能性を再評価すべきと主張／ほか19本</title>
-      <link>https://techfeed.io/categories/all/selections/daily/2025/10/24?from=rss</link>
-      <description>すべてカテゴリー 2025年10月24日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。 1位: 【海外記事紹介】「Reactを規制すべき」「ReactはWebを劣化させている」と強烈にDisる記事が話題に — Webプラットフォームの可能性を再評価すべきと主張 2位: 「OneDrive」のバックアップ機能を切ったらファイルがなくなった……を防止する改善／新しいアプリアイコンなども導入へ（forest.watch.impress.co.jp） 3位: GitHub Copilotを使っている人は全員"copilot-instrucions.md"を作成してください（qiita.com） …ほか17本 ランキングはこちらから (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/categories/all/selections/daily/2025/10/24?from=rss</guid>
-      <pubDate>Fri, 24 Oct 2025 14:59:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>見た目と中身がズレるわけ 文字化けの正体とUTF-8・CRLF入門</title>
-      <link>https://qiita.com/nucomiya/items/198418fa614e6a41098c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-開発中に「見た目は同じなのに差分が崩れる」「Windowsで作ったテキストをLinuxで開くと一行になる」「絵文字だけ位置が合わない」といった小さな不具合に出会うことがあります。原因を押さえておくと、レビューやデータ受け渡しで無駄な往復を減らせます。
-また、最後... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/nucomiya/items/198418fa614e6a41098c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Mon, 27 Oct 2025 00:36:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Oct 2025 06:36:01 +0000</lastBuildDate>
     <item>
       <title>【海外記事紹介】ケン・トンプソンがトロイの木馬をCコンパイラに仕込んだ時の話 — “自己再生するバックドア”の仕組みとその思想</title>
       <link>https://techfeed.io/entries/68fe8fc8f124142b9b180df9?from=rss</link>
@@ -45,52 +29,36 @@
       <pubDate>Mon, 27 Oct 2025 05:47:56 +0000</pubDate>
     </item>
     <item>
-      <title>ZOZOマッチにおけるモデル開発の不確実性との向き合い方 - ZOZO TECH BLOG</title>
-      <link>https://techblog.zozo.com/entry/zozomatch-algorithm-management</link>
-      <description>はじめに こんにちは、データシステム部MA推薦ブロックの佐藤（@rayuron）です。私たちは、主にZOZOTOWNのメール配信のパーソナライズなど、マーケティングオートメーションに関するレコメンドシステムを開発・運用しています。 早速ですが、先日ZOZOマッチというサービスをリリースしました。 corp.zozo.com 新規サービ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://techblog.zozo.com/entry/zozomatch-algorithm-management</guid>
-      <pubDate>Tue, 28 Oct 2025 02:01:56 +0000</pubDate>
+      <title>【海外記事紹介】AIはコードを書けるがソフトウェアを構築することはできない</title>
+      <link>https://techfeed.io/entries/6901390eddca5438e4aab474?from=rss</link>
+      <description>10月28日、Matias Heikkilä氏が「AI can code, but it can't build software」と題したブログ記事を公開し、話題を呼んでいる。この記事では、生成AIがコードを書くことはできても、ソフトウェアを構築することはできない理由について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6901390eddca5438e4aab474?from=rss</guid>
+      <pubDate>Tue, 28 Oct 2025 21:43:42 +0000</pubDate>
     </item>
     <item>
-      <title>APIテスト工数を劇的削減！ AI活用型 vs 仕様書連携型 vs CI/CD型 〜OpenAPIを活用したテスト自動化ツールを徹底比較〜</title>
-      <link>https://qiita.com/taikidanbara/items/db21ae0df42acce44663?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>松尾研 LLM開発コンペ2025 予選1位モデルの学習方法について</title>
+      <link>https://qiita.com/katsuki_ono/items/9e0f5d11070b83776fc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-REST APIの結合試験(統合試験)を手動で実施するのは、時間がかかり、ミスも発生しやすい作業です。本記事では、OpenAPI仕様書を活用して、結合試験を自動化するツールを比較解説します。
+私達のチームは 松尾研 LLM開発コンペ2025 の予選で1位となりました。本記事では、その際に用いたモデルの学習方法をまとめます。
 
-本記事の対象読者
-
-OpenAPI/Swagger仕様書からテストを... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/taikidanbara/items/db21ae0df42acce44663?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 25 Oct 2025 08:39:17 +0000</pubDate>
+予選での戦略
+予選では、モデルの性能を上げることよりも、もともと HLE のスコアが高いモデルを忘却を防いで学習し、そのまま提... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/katsuki_ono/items/9e0f5d11070b83776fc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Mon, 27 Oct 2025 15:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>ClaudeCodeを使ったら手作りAWSが3日でTerraform化できた話 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
-      <link>https://tech-blog.rakus.co.jp/entry/20251028/ai-terraforming</link>
-      <description>目次 はじめに AI-Agentはインフラでどこまで使えるのか 実行環境とセットアップ 3日で進めたTerraform化のプロセス 使ってみて実感した効果 まとめ はじめに このブログの目的（と、ごあいさつ） こんにちは。SREの gumamon です！ 昨今のAI Agentの進歩は目覚ましいものがありますね。Vibe Coding という言葉も登場し... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tech-blog.rakus.co.jp/entry/20251028/ai-terraforming</guid>
-      <pubDate>Tue, 28 Oct 2025 04:40:28 +0000</pubDate>
+      <title>The Human Only Public License</title>
+      <link>https://vanderessen.com/posts/hopl/</link>
+      <description>16 Oct 2025 Whether artificial intelligence systems will end up being a positive or a negative force for humanity is still an open question. But we might find ourselves one day with AI embedded at every layer of our existence, living lives of toned down and diluted humanity with only our dreams f... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://vanderessen.com/posts/hopl/</guid>
+      <pubDate>Tue, 28 Oct 2025 16:45:50 +0000</pubDate>
     </item>
     <item>
-      <title>Vue Fes Japan 2025 参加レポート</title>
-      <link>https://qiita.com/saitojo1106/items/7971cc403617675188e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-2025年10月25日に開催された「Vue Fes Japan 2025」に参加してきました！
-Vue.jsの最新情報やコミュニティの熱気に触れることができ、非常に刺激的な一日でしたが、同時に自分の技術的な未熟さも痛感するイベントとなりました。
-
-この記事では、... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/saitojo1106/items/7971cc403617675188e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Mon, 27 Oct 2025 09:36:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tailwind CSSは本当に便利？従来のCSSとの比較で分かる、メリット・デメリット</title>
-      <link>https://zenn.dev/crebo_tech/articles/article-0018-20251026</link>
-      <description>はじめに
-「classに大量のユーティリティクラスを書くのって保守性が悪くない？」
-Tailwind CSSを初めて見たとき、こんな疑問を抱いた方は多いのではないでしょうか。HTML要素のclass属性に長々とクラス名が並ぶ姿は、一見すると混乱を招きそうに見えます。
-しかし、実際に使ってみると、その考えが変わるかもしれません。本記事では、従来のCSS（BEM記法など）、CSS Modules、Tailwind CSSの3つのアプローチを実際のコード例で比較し、それぞれのメリット・デメリットを客観的に評価します。
-また、「インラインスタイルと同じでは？」といったよくある誤解にも丁寧に回... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/crebo_tech/articles/article-0018-20251026</guid>
-      <pubDate>Sat, 25 Oct 2025 21:54:50 +0000</pubDate>
+      <title>The New Calculus of AI-based Coding</title>
+      <link>https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html</link>
+      <description>Over the past three months, a team of experienced, like-minded engineers and I have been building something really cool within Amazon Bedrock. While I'm pretty excited about what we are building, there is another unique thing about our team  - most of our code is written by AI agents such as Amaz... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html</guid>
+      <pubDate>Tue, 28 Oct 2025 01:22:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
