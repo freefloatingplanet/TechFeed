@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Oct 2025 06:36:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 06:34:23 +0000</lastBuildDate>
     <item>
-      <title>Transformer強化条件付き変分オートエンコーダを用いたラウンドアバウトにおけるマルチエージェントシナリオ生成</title>
-      <link>http://arxiv.org/abs/2510.24671v1</link>
-      <description>量産車へのインテリジェント運転機能の統合が進むにつれ、その機能性と堅牢性の確保はますます困難になっています。従来の路上試験と比較して、シナリオベースの仮想試験は、時間とコストの効率性、再現性、エッジケースの探索において大きな利点があります。本研究では、ラウンドアバウトにおけるマルチエージェント交通シナリオを生成するための、Transformer-enhanced Conditional Variational Autoencoder (CVAE-T) モデルを提案します。ラウンドアバウトは、高い車両運動と複雑なレイアウトを特徴としますが、現在の研究では比較的十分に研究されていません。その結果、提案モデルは元のシナリオを正確に再構築し、現実的で多様な合成シナリオを生成できることが示されました。さらに、生成されたシナリオにおけるインタラクティブな動作を評価するために、2つの主要業績評価指標 (KPI) を採用しました。潜在空間の解析により、部分的な分離が明らかになりました。いくつかの潜在次元は、車両の進入タイミング、退出タイミング、速度プロファイルなどのシナリオ属性に明確かつ解釈可能な影響 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.24671v1</guid>
-      <pubDate>Tue, 28 Oct 2025 17:36:52 +0000</pubDate>
+      <title>再現性の高いローコードローカリゼーションのための構成優先フレームワーク</title>
+      <link>http://arxiv.org/abs/2510.25692v1</link>
+      <description>機械学習は、無線ベースの位置推定サービスにますます浸透しています。結果の信頼性と比較可能性を維持するためには、日常的なワークフローにおいて、高度な実験を妨げることなく、厳密な実験仕様と正確な再現性をデフォルトとする必要があります。しかし、実際には、研究者は3つのギャップに直面しており、(i)エンドツーエンドの研究に必要なコーディング労力の削減、(ii)バージョン管理されたコード、データ、設定、制御されたランダム性、独立した実行、記録された成果物を含む、デフォルトでの再現性、(iii)最小限の統合作業で新しいモデル、メトリクス、ステージを追加できる組み込みの拡張性を提供するフレームワークによって、このギャップを埋めることができます。既存のツールは、機械学習全般、特に位置推定ワークフローにおいて、これら3つすべてを提供することはほとんどありません。本稿では、無線位置推定のためのローコード、構成優先のフレームワークであるLOCALIZEを紹介します。このフレームワークでは、実験は人間が読める構成で宣言され、ワークフローオーケストレーターがデータ準備からレポート作成まで標準化されたパイプライン (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.25692v1</guid>
+      <pubDate>Wed, 29 Oct 2025 16:57:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

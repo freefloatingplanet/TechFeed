@@ -7,13 +7,45 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Oct 2025 06:36:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 06:34:18 +0000</lastBuildDate>
+    <item>
+      <title>AgentCore IdentityでAIエージェントに対する認証機能を実装する（EntraID × Atlassian Cloud）</title>
+      <link>https://qiita.com/s3kzk/items/d6fb5fa77c008c9d47ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+全国1億2千万の EntraID 戦士のみなさんこんにちは、はしもと（仮名）です。
+本文が長いのでさっさと本題に入ります。
+
+概要
+Amazon Bedrock AgentCore Identityを使用し、AgentCore RuntimeでホストしたAIエー... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/s3kzk/items/d6fb5fa77c008c9d47ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 29 Oct 2025 00:18:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【ポケモン×Java】知識編 Scanner#2 〜基本編②-nextLine-〜</title>
+      <link>https://qiita.com/hitomin_poke/items/0d9dc4d60fa6ba840f01?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+前回の記事 #1 で「Scannerは読み取り係」だと分かりました。
+今回は いちばんよく使う基本技、nextLine() で「質問→1行読む→すぐ返事」を作ります。シンプルだけど、実務でもこれが土台です。
+
+🎓 今日やること（ゴール）
+
+キーボードから 1行... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/hitomin_poke/items/0d9dc4d60fa6ba840f01?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 28 Oct 2025 17:43:46 +0000</pubDate>
+    </item>
     <item>
       <title>【海外記事紹介】ケン・トンプソンがトロイの木馬をCコンパイラに仕込んだ時の話 — “自己再生するバックドア”の仕組みとその思想</title>
       <link>https://techfeed.io/entries/68fe8fc8f124142b9b180df9?from=rss</link>
       <description>10月26日、Micah Kepe氏が「That Time Ken Thompson Wrote a Backdoor into the C Compiler」と題したブログ記事を公開し、話題を呼んでいる。この記事では、ケン・トンプソンが1974年にチューリング賞を受賞した際に発表した論文「Reflections on Trusting Trust」で語られた、“自己再生するCコンパイラのバックドア”の仕組みとその思想が紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/68fe8fc8f124142b9b180df9?from=rss</guid>
       <pubDate>Sun, 26 Oct 2025 21:19:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】AIはコードを書けるがソフトウェアを構築することはできない</title>
+      <link>https://techfeed.io/entries/6901390eddca5438e4aab474?from=rss</link>
+      <description>10月28日、Matias Heikkilä氏が「AI can code, but it can't build software」と題したブログ記事を公開し、話題を呼んでいる。この記事では、生成AIがコードを書くことはできても、ソフトウェアを構築することはできない理由について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6901390eddca5438e4aab474?from=rss</guid>
+      <pubDate>Tue, 28 Oct 2025 21:43:42 +0000</pubDate>
     </item>
     <item>
       <title>ベクトルインデックスのすゝめ</title>
@@ -29,36 +61,32 @@
       <pubDate>Mon, 27 Oct 2025 05:47:56 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】AIはコードを書けるがソフトウェアを構築することはできない</title>
-      <link>https://techfeed.io/entries/6901390eddca5438e4aab474?from=rss</link>
-      <description>10月28日、Matias Heikkilä氏が「AI can code, but it can't build software」と題したブログ記事を公開し、話題を呼んでいる。この記事では、生成AIがコードを書くことはできても、ソフトウェアを構築することはできない理由について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6901390eddca5438e4aab474?from=rss</guid>
-      <pubDate>Tue, 28 Oct 2025 21:43:42 +0000</pubDate>
+      <title>世界を変えた 4 行のコード - 高速逆平方根</title>
+      <link>https://qiita.com/Xudev/items/701906ebe12b4576e7d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>お久しぶりです。
+引っ越しが終わってやっと Qiita を思い出して気づいたら 2 ヵ月くらい放置してました。
+どうも復活した Xu です。
+たまにはちょっと変わった話をしたくて、今日は数学に近い話をしようと思います。
+早速ですが、
+log_2(1+\frac{M}{2^{... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Xudev/items/701906ebe12b4576e7d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 28 Oct 2025 09:01:33 +0000</pubDate>
     </item>
     <item>
-      <title>松尾研 LLM開発コンペ2025 予選1位モデルの学習方法について</title>
-      <link>https://qiita.com/katsuki_ono/items/9e0f5d11070b83776fc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>予測AIモデルのアルゴリズム選択</title>
+      <link>https://qiita.com/obx_y_ueno/items/c94330865c4d4316877c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-私達のチームは 松尾研 LLM開発コンペ2025 の予選で1位となりました。本記事では、その際に用いたモデルの学習方法をまとめます。
-
-予選での戦略
-予選では、モデルの性能を上げることよりも、もともと HLE のスコアが高いモデルを忘却を防いで学習し、そのまま提... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/katsuki_ono/items/9e0f5d11070b83776fc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Mon, 27 Oct 2025 15:00:05 +0000</pubDate>
+はじめまして、Orbitics株式会社データサイエンス部の上野です。
+機械学習モデルを構築する上で、目的に合った適切なアルゴリズムを選択することは、その成否を大きく左右します。本記事では、予測AIモデルでよく用いられる主要なアルゴリズムについて、その概要と特徴、... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/obx_y_ueno/items/c94330865c4d4316877c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 28 Oct 2025 23:49:30 +0000</pubDate>
     </item>
     <item>
-      <title>The Human Only Public License</title>
-      <link>https://vanderessen.com/posts/hopl/</link>
-      <description>16 Oct 2025 Whether artificial intelligence systems will end up being a positive or a negative force for humanity is still an open question. But we might find ourselves one day with AI embedded at every layer of our existence, living lives of toned down and diluted humanity with only our dreams f... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://vanderessen.com/posts/hopl/</guid>
-      <pubDate>Tue, 28 Oct 2025 16:45:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The New Calculus of AI-based Coding</title>
-      <link>https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html</link>
-      <description>Over the past three months, a team of experienced, like-minded engineers and I have been building something really cool within Amazon Bedrock. While I'm pretty excited about what we are building, there is another unique thing about our team  - most of our code is written by AI agents such as Amaz... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html</guid>
-      <pubDate>Tue, 28 Oct 2025 01:22:35 +0000</pubDate>
+      <title>Findyの爆速開発を支えるVibeCodingのコツ - Findy Tech Blog</title>
+      <link>https://tech.findy.co.jp/entry/2025/10/30/070000</link>
+      <description>こんにちは。 ファインディ株式会社でテックリードマネージャーをやらせてもらっている戸田です。 現在のソフトウェア開発の世界は、生成AIの登場により大きな転換点を迎えています。 GitHub Copilot や Claude Code など、生成AIを活用した開発支援ツールが次々と登場し、日常的なワークフローに組み込まれつつあります... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech.findy.co.jp/entry/2025/10/30/070000</guid>
+      <pubDate>Wed, 29 Oct 2025 22:53:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
