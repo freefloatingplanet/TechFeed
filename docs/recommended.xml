@@ -7,59 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Oct 2025 06:34:18 +0000</lastBuildDate>
-    <item>
-      <title>AgentCore IdentityでAIエージェントに対する認証機能を実装する（EntraID × Atlassian Cloud）</title>
-      <link>https://qiita.com/s3kzk/items/d6fb5fa77c008c9d47ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-全国1億2千万の EntraID 戦士のみなさんこんにちは、はしもと（仮名）です。
-本文が長いのでさっさと本題に入ります。
-
-概要
-Amazon Bedrock AgentCore Identityを使用し、AgentCore RuntimeでホストしたAIエー... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/s3kzk/items/d6fb5fa77c008c9d47ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 29 Oct 2025 00:18:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>【ポケモン×Java】知識編 Scanner#2 〜基本編②-nextLine-〜</title>
-      <link>https://qiita.com/hitomin_poke/items/0d9dc4d60fa6ba840f01?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-前回の記事 #1 で「Scannerは読み取り係」だと分かりました。
-今回は いちばんよく使う基本技、nextLine() で「質問→1行読む→すぐ返事」を作ります。シンプルだけど、実務でもこれが土台です。
-
-🎓 今日やること（ゴール）
-
-キーボードから 1行... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/hitomin_poke/items/0d9dc4d60fa6ba840f01?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 28 Oct 2025 17:43:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】ケン・トンプソンがトロイの木馬をCコンパイラに仕込んだ時の話 — “自己再生するバックドア”の仕組みとその思想</title>
-      <link>https://techfeed.io/entries/68fe8fc8f124142b9b180df9?from=rss</link>
-      <description>10月26日、Micah Kepe氏が「That Time Ken Thompson Wrote a Backdoor into the C Compiler」と題したブログ記事を公開し、話題を呼んでいる。この記事では、ケン・トンプソンが1974年にチューリング賞を受賞した際に発表した論文「Reflections on Trusting Trust」で語られた、“自己再生するCコンパイラのバックドア”の仕組みとその思想が紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/68fe8fc8f124142b9b180df9?from=rss</guid>
-      <pubDate>Sun, 26 Oct 2025 21:19:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】AIはコードを書けるがソフトウェアを構築することはできない</title>
-      <link>https://techfeed.io/entries/6901390eddca5438e4aab474?from=rss</link>
-      <description>10月28日、Matias Heikkilä氏が「AI can code, but it can't build software」と題したブログ記事を公開し、話題を呼んでいる。この記事では、生成AIがコードを書くことはできても、ソフトウェアを構築することはできない理由について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6901390eddca5438e4aab474?from=rss</guid>
-      <pubDate>Tue, 28 Oct 2025 21:43:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>ベクトルインデックスのすゝめ</title>
-      <link>https://zenn.dev/exwzd/articles/20251015_a_guide_to_vector_indexing</link>
-      <description>はじめに
-初めまして、株式会社エクサウィザーズのWANDチームでインターンをしている東光です。本記事では、近年注目を集めているベクトルDBのパフォーマンス向上を目的とした、最適なベクトルインデックスの選択方法を紹介します。具体的には、一般的なベクトルインデックスへの見解と実際に実験した知見から、ベストプラクティスを目指すための考え方を示します。
-
- 背景
-
- ベクトルDBとベクトルインデックスの関係
-生成AIの飛躍が激しい今、ベクトルDBは多くのAIプロダクト(RAG, AI Agent)に利用されています。実際、僕がインターンをしている株式会社エクサウィザーズのAIプロダクトもAm... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/exwzd/articles/20251015_a_guide_to_vector_indexing</guid>
-      <pubDate>Mon, 27 Oct 2025 05:47:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Oct 2025 06:34:42 +0000</lastBuildDate>
     <item>
       <title>世界を変えた 4 行のコード - 高速逆平方根</title>
       <link>https://qiita.com/Xudev/items/701906ebe12b4576e7d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -73,6 +21,30 @@ log_2(1+\frac{M}{2^{... (source: Qiita - 人気の記事)</description>
       <pubDate>Tue, 28 Oct 2025 09:01:33 +0000</pubDate>
     </item>
     <item>
+      <title>TerraformとSAMで実現するモダンAWSアーキテクチャ 構築ガイドライン - Qiita</title>
+      <link>https://qiita.com/keitah/items/d41b0888cf7b8b01616d</link>
+      <description>はじめに TerraformとAWS SAM（Serverless Application Model）を組み合わせることで、インフラストラクチャとアプリケーションの責務を明確に分離し、チーム別の適切な権限管理とセキュアなIaC運用を実現できます。 この構成の核心的なメリット アプリ開発者: SAMで頻繁に更新されるLambda関数を迅速にデプロイ インフ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://qiita.com/keitah/items/d41b0888cf7b8b01616d</guid>
+      <pubDate>Thu, 30 Oct 2025 23:19:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>【ServiceNow】REST Messageを使用してFlow DesignerからAPI連携する方法</title>
+      <link>https://qiita.com/WISS1/items/532d7ddd7455812b0a14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+初めまして、株式会社ウイズ・ワン、ServiceNow担当のH-Oです。
+業務内でREST メッセージとフローを使用したAPI連携機能を作成しました。
+今回は、開発初心者の私がフローのアクションでREST メッセージを使用した際に学んだことをまとめたいと思います... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/WISS1/items/532d7ddd7455812b0a14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 30 Oct 2025 07:20:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>【10月31日ランキング】OpenAI、セキュリティ向上のためのAIエージェント「Aardvark（アードバーク）」を発表 — GPT-5ベース、脆弱性を発見・検証、修正まで支援する自律的なエージェント／ほか19本</title>
+      <link>https://techfeed.io/categories/all/selections/daily/2025/10/31?from=rss</link>
+      <description>すべてカテゴリー 2025年10月31日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。 1位: OpenAI、セキュリティ向上のためのAIエージェント「Aardvark（アードバーク）」を発表 — GPT-5ベース、脆弱性を発見・検証、修正まで支援する自律的なエージェント 2位: 【実践レポート】Spec Kit + Claude Code GitHub Actionsで実現するAI仕様駆動開発（techblog.insightedge.jp） 3位: AIが「多数決」で正解を決定？ 答え合わせなしで正答率を向上させる自律学習手法TTRLとは（levtech.jp） …ほか17本 ランキングはこちらから (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/categories/all/selections/daily/2025/10/31?from=rss</guid>
+      <pubDate>Fri, 31 Oct 2025 14:59:59 +0000</pubDate>
+    </item>
+    <item>
       <title>予測AIモデルのアルゴリズム選択</title>
       <link>https://qiita.com/obx_y_ueno/items/c94330865c4d4316877c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
@@ -82,11 +54,39 @@ log_2(1+\frac{M}{2^{... (source: Qiita - 人気の記事)</description>
       <pubDate>Tue, 28 Oct 2025 23:49:30 +0000</pubDate>
     </item>
     <item>
-      <title>Findyの爆速開発を支えるVibeCodingのコツ - Findy Tech Blog</title>
-      <link>https://tech.findy.co.jp/entry/2025/10/30/070000</link>
-      <description>こんにちは。 ファインディ株式会社でテックリードマネージャーをやらせてもらっている戸田です。 現在のソフトウェア開発の世界は、生成AIの登場により大きな転換点を迎えています。 GitHub Copilot や Claude Code など、生成AIを活用した開発支援ツールが次々と登場し、日常的なワークフローに組み込まれつつあります... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tech.findy.co.jp/entry/2025/10/30/070000</guid>
-      <pubDate>Wed, 29 Oct 2025 22:53:05 +0000</pubDate>
+      <title>MySQL (InnoDB) のロック範囲に気をつけよう</title>
+      <link>https://zenn.dev/socialplus/articles/2e16da32f39a0c</link>
+      <description>こんにちは otsubo です。MySQL (InnoDB) のロックについて整理する機会があったので記事にします。
+
+ はじめに
+全ての ロックタイプ を網羅するのは大変なため、
+
+レコードロック
+ギャップロック
+ネクストキーロック
+
+を中心にまとめます。この3つはトランザクション内で UPDATE、DELETE、 SELECT ... FOR UPDATE / SHARE するときに獲得されるロックです。INSERT 時のインサートインテンションロックもちょっとだけ扱います。テーブルロックやメタデータロックは扱いません。
+InnoDB ではクエリによって特定の「範囲」がロックされるこ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/socialplus/articles/2e16da32f39a0c</guid>
+      <pubDate>Thu, 30 Oct 2025 09:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】uvはここ10年のPythonエコシステムの中でも最高のプロダクトだ</title>
+      <link>https://techfeed.io/entries/6903dbf9b335ef58049ea549?from=rss</link>
+      <description>10月30日、Emily Space氏が「uv is the best thing to happen to the Python ecosystem in a decade」と題した記事を公開した。この記事では、Pythonのインストールや仮想環境の管理、依存関係の同期といった長年の課題を一変させる新ツール「uv」について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6903dbf9b335ef58049ea549?from=rss</guid>
+      <pubDate>Thu, 30 Oct 2025 21:43:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【実例付き】Claude × Clineで数時間でWebアプリ開発！無料企画→自動実装の完全ガイド</title>
+      <link>https://qiita.com/tomota53/items/a79befc442689c3204d4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+「アイデアはあるけど、コーディングに時間がかかる...」
+「プロトタイプを素早く作りたい！」
+そんな悩みを解決する、AI活用の実践的な開発フローを紹介します。
+本記事では、無料のClaudeで企画・設計を行い、VSCode + Cline + Claude AI... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/tomota53/items/a79befc442689c3204d4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 30 Oct 2025 10:42:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
