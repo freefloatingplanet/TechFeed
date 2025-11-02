@@ -7,14 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Nov 2025 06:31:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 06:32:50 +0000</lastBuildDate>
     <item>
-      <title>タイムリーな通信のためのパレート最適サンプリングとリソース割り当て
-共有スペクトル低高度ネットワークにおける</title>
-      <link>http://arxiv.org/abs/2510.26708v1</link>
-      <description>共用スペクトルにおける低高度無人航空機（UAV）の厳格なデータ鮮度を保証するには、UAV自身のエネルギー消費と地上チャネル資源の占有という2つの運用コストの間で重要なトレードオフを強いられる。主な課題は、これらのコスト間のパレート最適なバランスを見つけながら、航空データの鮮度を満たすことである。予測チャネルモデルと予測UAV軌道を活用し、長期計画期間にわたる二目的パレート最適化問題を定式化し、航空交通のサンプリングタイミングと、公平な共存のための電力およびスペクトル割り当てを共同で最適化する。しかし、この問題は非凸で混合整数であるため、従来の手法では完全なパレートフロンティアを完全に特徴付けることができない。特に、フロンティアの単調性を示し、これに基づいて二目的問題を複数の単目的問題に変換します。次に、新しいグラフベースのアルゴリズムを提案し、複雑性が低く、ホライズン内で線形、リソースブロック（RB）予算内でほぼ2次関数となるパレート最適解の完全集合を見つけられることを証明します。数値比較により、本手法は厳格な適時性要件を満たし、ベンチマークと比較してRB利用率を6分の1に削減、つまり (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.26708v1</guid>
-      <pubDate>Thu, 30 Oct 2025 17:09:09 +0000</pubDate>
+      <title>UniSite: エンドツーエンドのリガンド結合部位検出のための初のクロス構造データセットと学習フレームワーク
+</title>
+      <link>http://arxiv.org/abs/2506.03237v2</link>
+      <description>タンパク質のリガンド結合部位の検出は、構造ベース創薬における基本的なステップです。近年の目覚ましい進歩にもかかわらず、既存の手法、データセット、評価指標は、いくつかの重要な課題に直面しています。(1) 現在のデータセットと手法は、個々のタンパク質-リガンド複合体に焦点を当てており、同じタンパク質の複数の複合体に多様な結合部位が存在する可能性があることを考慮していないため、大きな統計的バイアスが生じます。(2) リガンド結合部位の検出は、通常、バイナリセグメンテーションとそれに続くクラスタリングアルゴリズムを用いた不連続なワークフローとしてモデル化されます。(3) 従来の評価指標は、異なる結合部位予測手法の実際の性能を適切に反映していません。これらの問題に対処するため、まず、これまで最も広く使用されていたデータセットと比較して、マルチサイトデータが4.81倍、全体データが2.08倍を含む、初のUniProt（Unique Protein）中心のリガンド結合部位データセットであるUniSite-DSを紹介します。次に、セット予測損失と全単調マッチングを用いた、初めてのエンドツーエンドのリガ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2506.03237v2</guid>
+      <pubDate>Tue, 03 Jun 2025 17:49:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,48 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Nov 2025 06:30:56 +0000</lastBuildDate>
-    <item>
-      <title>Claude Code を1ヶ月使ってみて</title>
-      <link>https://zenn.dev/port_inc/articles/6e13db84b6a99b</link>
-      <description>🚀 使い始めたきっかけ
-社内運用予定の広告管理システムを開発することになり、TypeScript や React、Hono、TailwindCSS を使うことが決まっていました。
-ところが、TypeScript を書いたことがなく、React も Hono も TailwindCSS も触れたことがありません。
-そこで、AI にコードを書いてもらう開発をしてみようと思い、Claude Code を使用した開発を行いました。
-同期の新卒メンバーも各々、 Claude Code を使って同じ技術スタックで開発を行いました！
-https://zenn.dev/port_inc/articl... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/port_inc/articles/6e13db84b6a99b</guid>
-      <pubDate>Wed, 29 Oct 2025 11:12:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Raycast 拡張機能の作り方</title>
-      <link>https://qiita.com/kentosity/items/fb7ab9314a69c0f534d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-Raycast は、macOS ユーザーの生産性を高める強力なランチャーアプリです。最大の魅力は、豊富な拡張機能のエコシステムにあります。本記事では、Raycast の拡張機能開発に初めて挑戦する方に向けて、基本から最新の AI 機能まで、公式ドキュメントをもと... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/kentosity/items/fb7ab9314a69c0f534d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 31 Oct 2025 02:22:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Illustratorで美しい「ツメ組み」をワンクリックで実現するアキ量設定と「文字組みの手引き」を先行公開</title>
-      <link>https://blog.adobe.com/jp/publish/2025/10/31/cc-design-illustrator-text-2510</link>
-      <description>Adobe Illustratorで美しい「ツメ組み」をワンクリックで実現するアキ量設定と「文字組みの手引き」を先行公開 2025年10月28日、米国・ロサンゼルスで開催された「Adobe MAX 2025」で、Adobe Illustratorを含む各アプリケーションの最新バージョンが発表されました。 この記事では、あらたに登場した Illustrator 2025年... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://blog.adobe.com/jp/publish/2025/10/31/cc-design-illustrator-text-2510</guid>
-      <pubDate>Fri, 31 Oct 2025 09:07:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>アラン・ケイ氏に問いかけた質問と、氏からの回答（GUIとAI技術に関連して）｜usagimaru</title>
-      <link>https://note.com/usagimaruma/n/n2a6eda685bd4</link>
-      <description>先日、AI技術をテーマにしたオンライン講演のイベント「POST Dev 2025」が開催され、その目玉の一つとして、アラン・ケイ氏による登壇がありました。この記事では、アラン・ケイ氏の講演後に私から問いかけた質問と、その後に氏から返ってきた回答を紹介しつつ、その内容を考えます。 私（usagimaru）からの質問は以下の... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/usagimaruma/n/n2a6eda685bd4</guid>
-      <pubDate>Fri, 31 Oct 2025 23:46:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】uvはここ10年のPythonエコシステムの中でも最高のプロダクトだ</title>
-      <link>https://techfeed.io/entries/6903dbf9b335ef58049ea549?from=rss</link>
-      <description>10月30日、Emily Space氏が「uv is the best thing to happen to the Python ecosystem in a decade」と題した記事を公開した。この記事では、Pythonのインストールや仮想環境の管理、依存関係の同期といった長年の課題を一変させる新ツール「uv」について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6903dbf9b335ef58049ea549?from=rss</guid>
-      <pubDate>Thu, 30 Oct 2025 21:43:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Nov 2025 06:32:42 +0000</lastBuildDate>
     <item>
       <title>Claude Code on AWS パターン解説 - Amazon Bedrock / AWS Marketplace</title>
       <link>https://zenn.dev/aws_japan/articles/04999e5689d460</link>
@@ -65,38 +24,80 @@ AI 駆動開発ツールの導入を検討している方、または現在 Clau
       <pubDate>Fri, 31 Oct 2025 08:13:46 +0000</pubDate>
     </item>
     <item>
-      <title>Qiita Advent Calendar 2025のアップデートの紹介</title>
-      <link>https://qiita.com/Qiita/items/6f8ca2d3ed513f316e66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>わたし Cursor に乗り換えます</title>
+      <link>https://zenn.dev/mohupor03/articles/58a37e9b56066a</link>
+      <description>こんにちは。@tetsuro_b です。 ついについに・・・！ 私はメインの AI を Claude Code → Cursor に戻すことを決断しました！！ 長い付き合いだった「VSCode x Claude Code」とは、しばらくお別れです...。 その理由を紹介していきます。 新機能 Multiple Models の体験が良すぎる 2025年10月29日 Cursor 2.0 が発表され... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/mohupor03/articles/58a37e9b56066a</guid>
+      <pubDate>Sat, 01 Nov 2025 11:48:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>日本の定理?!（初等幾何の話題より）</title>
+      <link>https://qiita.com/kyamaz/items/38685a2540ffd135440a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>こんにちは｜こんばんは。カエルのアイコンで活動しております @kyamaz  です。
+
+はじめに
+本稿は，初等幾何の定理についてです。（mathlog の方が適切な話題という意味で）mathlog 的ではありますが，意外と本稿の話題を扱っているエントリーが Qiita にも... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/kyamaz/items/38685a2540ffd135440a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 31 Oct 2025 13:49:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon Q Developer CLIが教えてくれた`git clean -fdX`という神コマンド</title>
+      <link>https://qiita.com/torifukukaiou/items/e7434f22041b0cbd7685?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>Qiita Advent Calendar 2025
+今年もこの季節がいよいよ始まりました 
+誰よりもこの日を待ちわびていたと自負しております。
+2024年12月26日から首を長くして楽しみにしておりました。
+ 
+
+はじめに
+CDKプロジェクトの検証中、「出... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/torifukukaiou/items/e7434f22041b0cbd7685?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 01 Nov 2025 08:17:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【備忘録】AI駆動開発Conference Autumn 2days で 学びと気づきが得られすぎたので、共有したい...</title>
+      <link>https://zenn.dev/sunagaku/articles/c5affee1871afb</link>
       <description>はじめに
+2025年10月30日〜31日に開催された 「AI駆動開発 Conference Autumn 2025」 に参加してきました。
+https://aid.connpass.com/event/367698/
+2日間にわたるイベントを通して、AIを活用した開発の最前線・現場での実践知について、沢山の学びと気づきを得られました。
+本記事では、その中でも特に印象に残った内容を、備忘録としてまとめたものになります！
+もし興味のある項目があれば、ご覧いただけると嬉しいです！
 
-今年もQiitaでは毎年恒例の Qiita Advent Calendarを開催します    
+ 「ClaudeCode 実践方法」編
 
-この記事では、今年のQiita Advent Calendarのアップデートをご紹介します！
-
-アップデート内容
-
-カレンダーにタグを設定できるようになり... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Qiita/items/6f8ca2d3ed513f316e66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 31 Oct 2025 03:19:39 +0000</pubDate>
+ サブエージェントで同時並行で開発させる際は、タスクの進捗状況を共... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sunagaku/articles/c5affee1871afb</guid>
+      <pubDate>Fri, 31 Oct 2025 23:29:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code on the webを触ってみた</title>
+      <link>https://zenn.dev/beagle/articles/bc6ef88dd68615</link>
+      <description>びーぐるです🐶
+2025年10月21日、Anthropic社が提供するAIモデルClaudeを利用したAIコーディングエージェントClaude Code on the webがリサーチプレビューとして公開されました。
+https://www.anthropic.com/news/claude-code-on-the-web
+このサービスはクラウド型AIコーディングエージェントと呼ばれるもので、ブラウザやiOSのアプリから直接アクセスできる手軽さが特徴です。
+現時点ではAndroidアプリ版からは利用できないようです…残念。
+本記事では、Claude Code on the webを実際に... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/beagle/articles/bc6ef88dd68615</guid>
+      <pubDate>Fri, 31 Oct 2025 04:20:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tailscale 2025 秋 大型アプデを全部まとめる！</title>
+      <link>https://zenn.dev/ikumasudo/articles/ba99e95161b192</link>
+      <description>はじめに
+先週（10/27週）に開催されたTailscaleの2025年秋アップデートウィーク。1週間にわたって毎日新しいアップデートが発表され、合計8個の新機能や改善が公開されました。
+その内容は、「ネットワーク管理の簡素化」から「CI/CDとの安全な連携」、さらには「Tailscale自体を認証基盤として使う」といった、Tailscaleが単なる接続ツールから「開発・運用のためのプラットフォーム」へと進化しようとする野心的なものばかりでした。
+この記事では、発表された8つのアップデートを、私が（ITインフラ/開発者の目線で）感じた重要度・影響度を最大★5で評価しながら、その全容を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ikumasudo/articles/ba99e95161b192</guid>
+      <pubDate>Sat, 01 Nov 2025 04:13:12 +0000</pubDate>
     </item>
     <item>
       <title>誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話</title>
       <link>https://zenn.dev/misuken/articles/32807daad601d0</link>
-      <description>はじめに
-こんにちは、株式会社ドワンゴでニコニコ生放送のフロントエンド開発を担当している misuken です。
-みなさんのプロジェクトには「条件分岐が複雑すぎて誰も把握できなくなった仕様」はありませんか？
-ニコニコ生放送のフロントチームでは「Gate」という機能が、まさにそのような状態でした。
-この記事では、極めて複雑なGate機能を、スプレッドシートによる仕様整理で劇的に改善した取り組みをご紹介します。
-
- TL;DR
-複雑化した仕様を整理するためのアプローチ：
-
-
-リバースエンジニアリング: テストのスナップショットから実装を読み解く
-
-マトリックス形式の整理: 共通項と差異を... (source: Zennのトレンド)</description>
+      <description>はじめに こんにちは、株式会社ドワンゴでニコニコ生放送のフロントエンド開発を担当している misuken です。 みなさんのプロジェクトには「条件分岐が複雑すぎて誰も把握できなくなった仕様」はありませんか？ ニコニコ生放送のフロントチームでは「Gate」という機能が、まさにそのような状態でした。 この記事では、極... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://zenn.dev/misuken/articles/32807daad601d0</guid>
-      <pubDate>Fri, 31 Oct 2025 06:52:12 +0000</pubDate>
+      <pubDate>Sat, 01 Nov 2025 00:08:56 +0000</pubDate>
     </item>
     <item>
       <title>【実例付き】Claude × Clineで数時間でWebアプリ開発！無料企画→自動実装の完全ガイド</title>
@@ -110,23 +111,20 @@ AI 駆動開発ツールの導入を検討している方、または現在 Clau
       <pubDate>Thu, 30 Oct 2025 10:42:13 +0000</pubDate>
     </item>
     <item>
-      <title>Neo4jで始めるGraphRAG入門</title>
-      <link>https://zenn.dev/timelab/articles/23c0705465e0b4</link>
+      <title>Figma make の基本的な使い方と活用方法3選</title>
+      <link>https://zenn.dev/sunagaku/articles/6ffe29e6f271bb</link>
       <description>はじめに
-こんにちは。TimelabでカレンダーサービスLynxを開発している諸岡（@hakoten）です。
-本記事では、Neo4jを使って、GraphRAGを実装する方法を紹介します。
-Neo4jの基本的な使い方については、別記事で解説していますので、あわせてご覧ください。
-https://zenn.dev/timelab/articles/1850842bf4fa18
+僕は、個人開発が好きでアプリをよく作っています。しかしデザイン作成の経験がないので、UI 作成に時間を取られた上、結局「あまりイケテナイUI」を作るしかありませんでした。
+しかし Figma make を利用すると、この課題を解決することが出来ます！
+僕自身、個人開発ではありますが、UI の作成・修正やメンテナンス効率が上がりました。
+この記事では、「Figma make の基本的な使い方」と「実践している活用方法」について紹介させて頂きます！
 
- データの準備
-まずは、RAGで使用するデータを準備していきます。
-今回は、料理とその材料、レシピなどを使ってRAGのデータベースを作成します。
-データJSON{
-  "recipes": [
-    {
-   ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/timelab/articles/23c0705465e0b4</guid>
-      <pubDate>Thu, 30 Oct 2025 23:07:36 +0000</pubDate>
+ Figma make に関しての基本的な使い方
+
+ アプリの起動方法
+FIgma の新規ファイル作成画面から、make を選択... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sunagaku/articles/6ffe29e6f271bb</guid>
+      <pubDate>Sat, 01 Nov 2025 04:42:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
