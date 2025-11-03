@@ -7,14 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Nov 2025 06:32:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 06:36:43 +0000</lastBuildDate>
     <item>
-      <title>UniSite: エンドツーエンドのリガンド結合部位検出のための初のクロス構造データセットと学習フレームワーク
-</title>
-      <link>http://arxiv.org/abs/2506.03237v2</link>
-      <description>タンパク質のリガンド結合部位の検出は、構造ベース創薬における基本的なステップです。近年の目覚ましい進歩にもかかわらず、既存の手法、データセット、評価指標は、いくつかの重要な課題に直面しています。(1) 現在のデータセットと手法は、個々のタンパク質-リガンド複合体に焦点を当てており、同じタンパク質の複数の複合体に多様な結合部位が存在する可能性があることを考慮していないため、大きな統計的バイアスが生じます。(2) リガンド結合部位の検出は、通常、バイナリセグメンテーションとそれに続くクラスタリングアルゴリズムを用いた不連続なワークフローとしてモデル化されます。(3) 従来の評価指標は、異なる結合部位予測手法の実際の性能を適切に反映していません。これらの問題に対処するため、まず、これまで最も広く使用されていたデータセットと比較して、マルチサイトデータが4.81倍、全体データが2.08倍を含む、初のUniProt（Unique Protein）中心のリガンド結合部位データセットであるUniSite-DSを紹介します。次に、セット予測損失と全単調マッチングを用いた、初めてのエンドツーエンドのリガ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2506.03237v2</guid>
-      <pubDate>Tue, 03 Jun 2025 17:49:41 +0000</pubDate>
+      <title>マルチエージェント強化学習におけるクレジット割り当ての課題
+オープンエージェントシステムにおける</title>
+      <link>http://arxiv.org/abs/2510.27659v1</link>
+      <description>急速に発展しているマルチエージェント強化学習（MARL）の分野では、オープンシステムのダイナミクスを理解することが極めて重要です。MARLにおけるオープン性とは、システム内のエージェント集団、タスク、およびエージェントタイプの動的な性質を指します。具体的には、(Eck et al. 2023) [2] で報告されているように、オープン性には3つのタイプがあります。エージェントオープン性とは、エージェントがいつでもシステムに参入または退出できること、タスクオープン性とは、新しいタスクが出現し、既存のタスクが進化または消滅すること、そしてタイプオープン性とは、エージェントの能力と行動が時間とともに変化することです。本稿では、オープン性とクレジット割り当て問題（CAP）の相互作用に焦点を当て、概念的かつ実証的なレビューを提供します。CAPは、個々のエージェントがシステム全体のパフォーマンスにどのように貢献するかを決定することを含み、オープン環境ではますます複雑になるタスクです。従来のクレジット割り当て（CA）手法は、静的なエージェント集団、固定かつ事前定義されたタスク、そして定常的なタイプを (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.27659v1</guid>
+      <pubDate>Fri, 31 Oct 2025 17:30:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

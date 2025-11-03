@@ -7,53 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Nov 2025 06:32:42 +0000</lastBuildDate>
-    <item>
-      <title>Claude Code on AWS パターン解説 - Amazon Bedrock / AWS Marketplace</title>
-      <link>https://zenn.dev/aws_japan/articles/04999e5689d460</link>
-      <description>👉本ブログは AWS AI Agent ブログ祭り (Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り) の第 5 日目です。
-!
-📚 第 4 日目の記事はこちら！
-Amazon Bedrock AgentCore Memory の Branch 機能の使いどころ
-
-
- 1. はじめに
-AI 駆動開発ツールの導入を検討している方、または現在 Claude Code を利用しているがガバナンスやコスト管理に課題を感じている方に向けて、AWS 上で Claude Code を活用する 2 つの主要なパターンについて解説します。
-本記事は、AI ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/04999e5689d460</guid>
-      <pubDate>Fri, 31 Oct 2025 08:13:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>わたし Cursor に乗り換えます</title>
-      <link>https://zenn.dev/mohupor03/articles/58a37e9b56066a</link>
-      <description>こんにちは。@tetsuro_b です。 ついについに・・・！ 私はメインの AI を Claude Code → Cursor に戻すことを決断しました！！ 長い付き合いだった「VSCode x Claude Code」とは、しばらくお別れです...。 その理由を紹介していきます。 新機能 Multiple Models の体験が良すぎる 2025年10月29日 Cursor 2.0 が発表され... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/mohupor03/articles/58a37e9b56066a</guid>
-      <pubDate>Sat, 01 Nov 2025 11:48:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>日本の定理?!（初等幾何の話題より）</title>
-      <link>https://qiita.com/kyamaz/items/38685a2540ffd135440a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>こんにちは｜こんばんは。カエルのアイコンで活動しております @kyamaz  です。
-
-はじめに
-本稿は，初等幾何の定理についてです。（mathlog の方が適切な話題という意味で）mathlog 的ではありますが，意外と本稿の話題を扱っているエントリーが Qiita にも... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/kyamaz/items/38685a2540ffd135440a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 31 Oct 2025 13:49:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon Q Developer CLIが教えてくれた`git clean -fdX`という神コマンド</title>
-      <link>https://qiita.com/torifukukaiou/items/e7434f22041b0cbd7685?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>Qiita Advent Calendar 2025
-今年もこの季節がいよいよ始まりました 
-誰よりもこの日を待ちわびていたと自負しております。
-2024年12月26日から首を長くして楽しみにしておりました。
- 
-
-はじめに
-CDKプロジェクトの検証中、「出... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/torifukukaiou/items/e7434f22041b0cbd7685?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 01 Nov 2025 08:17:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Nov 2025 06:36:38 +0000</lastBuildDate>
     <item>
       <title>【備忘録】AI駆動開発Conference Autumn 2days で 学びと気づきが得られすぎたので、共有したい...</title>
       <link>https://zenn.dev/sunagaku/articles/c5affee1871afb</link>
@@ -83,32 +37,59 @@ https://www.anthropic.com/news/claude-code-on-the-web
       <pubDate>Fri, 31 Oct 2025 04:20:19 +0000</pubDate>
     </item>
     <item>
-      <title>Tailscale 2025 秋 大型アプデを全部まとめる！</title>
-      <link>https://zenn.dev/ikumasudo/articles/ba99e95161b192</link>
-      <description>はじめに
-先週（10/27週）に開催されたTailscaleの2025年秋アップデートウィーク。1週間にわたって毎日新しいアップデートが発表され、合計8個の新機能や改善が公開されました。
-その内容は、「ネットワーク管理の簡素化」から「CI/CDとの安全な連携」、さらには「Tailscale自体を認証基盤として使う」といった、Tailscaleが単なる接続ツールから「開発・運用のためのプラットフォーム」へと進化しようとする野心的なものばかりでした。
-この記事では、発表された8つのアップデートを、私が（ITインフラ/開発者の目線で）感じた重要度・影響度を最大★5で評価しながら、その全容を... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ikumasudo/articles/ba99e95161b192</guid>
-      <pubDate>Sat, 01 Nov 2025 04:13:12 +0000</pubDate>
+      <title>AI加速時代のQAエンジニア：開発スピードと品質のバランス戦略</title>
+      <link>https://zenn.dev/pivotmedia/articles/ai-driven-development-qa-challenge</link>
+      <description>AI加速時代におけるQAエンジニアの生存戦略 ― PIVOTでの実践から
+ビジネス映像メディア「PIVOT」でQAエンジニアをしているケイスケです。
+本記事では、AIによる開発工程の加速に直面したとき、QAエンジニアがどのように適応していくか。
+そして、PIVOTというプロダクトで実際にどう取り組んでいるのかをお伝えします。
+
+
+ 1. はじめに：AIが加速する開発と取り残されるテスト工程
+GitHub CopilotやCursor、Claude Codeなど、AIによるコーディング支援が開発スピードを大きく押し上げています。
+一方で、QAエンジニアの現場はどうでしょうか？
+
+開発は... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pivotmedia/articles/ai-driven-development-qa-challenge</guid>
+      <pubDate>Sun, 02 Nov 2025 01:01:08 +0000</pubDate>
     </item>
     <item>
       <title>誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話</title>
       <link>https://zenn.dev/misuken/articles/32807daad601d0</link>
-      <description>はじめに こんにちは、株式会社ドワンゴでニコニコ生放送のフロントエンド開発を担当している misuken です。 みなさんのプロジェクトには「条件分岐が複雑すぎて誰も把握できなくなった仕様」はありませんか？ ニコニコ生放送のフロントチームでは「Gate」という機能が、まさにそのような状態でした。 この記事では、極... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <description>はじめに
+こんにちは、株式会社ドワンゴでニコニコ生放送のフロントエンド開発を担当している misuken です。
+みなさんのプロジェクトには「条件分岐が複雑すぎて誰も把握できなくなった仕様」はありませんか？
+ニコニコ生放送のフロントチームでは「Gate」という機能が、まさにそのような状態でした。
+この記事では、極めて複雑なGate機能を、スプレッドシートによる仕様整理で劇的に改善した取り組みをご紹介します。
+
+ TL;DR
+複雑化した仕様を整理するためのアプローチ：
+
+
+リバースエンジニアリング: テストのスナップショットから実装を読み解く
+
+マトリックス形式の整理: 共通項と差異を... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/misuken/articles/32807daad601d0</guid>
-      <pubDate>Sat, 01 Nov 2025 00:08:56 +0000</pubDate>
+      <pubDate>Fri, 31 Oct 2025 06:52:12 +0000</pubDate>
     </item>
     <item>
-      <title>【実例付き】Claude × Clineで数時間でWebアプリ開発！無料企画→自動実装の完全ガイド</title>
-      <link>https://qiita.com/tomota53/items/a79befc442689c3204d4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-「アイデアはあるけど、コーディングに時間がかかる...」
-「プロトタイプを素早く作りたい！」
-そんな悩みを解決する、AI活用の実践的な開発フローを紹介します。
-本記事では、無料のClaudeで企画・設計を行い、VSCode + Cline + Claude AI... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/tomota53/items/a79befc442689c3204d4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 30 Oct 2025 10:42:13 +0000</pubDate>
+      <title>Notes by djb on using Fil-C (2025)</title>
+      <link>https://cr.yp.to/2025/fil-c.html</link>
+      <description>Notes by djb on using Fil-C (2025) I'm impressed with the level of compatibility of the new memory-safe C/C++ compiler Fil-C (filcc, fil++). Many libraries and applications that I've tried work under Fil-C without changes, and the exceptions haven't been hard to get working. I've started accumula... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://cr.yp.to/2025/fil-c.html</guid>
+      <pubDate>Mon, 03 Nov 2025 03:06:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI駆動開発実践者によるリアルな機能開発プロセスを丁寧に解説してみた</title>
+      <link>https://zenn.dev/tmasuyama1114/articles/claude-code-real-dev</link>
+      <description>こんにちは、とまだです。
+Claude Code で機能開発をする際、「どこから手をつければいいか分からない」「途中で仕様がブレて手戻りが発生する」といった悩みはありませんか?
+私が運営するコミュニティサイトに新機能を追加する際、要件定義から実装、レビューまでを一貫したフローで進める方法を実践してみました。
+今回は、cc-sdd(仕様駆動開発ツール)とMCPを組み合わせた開発プロセスを、実際の試行錯誤も含めてお伝えします！
+「使い方を伝える」よりも今回は「どうやって実践したか」を伝えることを目指しています！！
+ちなみに私は本業ではフリーランスエンジニア、ならびにAI駆動開発の導入支援を行... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tmasuyama1114/articles/claude-code-real-dev</guid>
+      <pubDate>Sun, 02 Nov 2025 16:21:38 +0000</pubDate>
     </item>
     <item>
       <title>Figma make の基本的な使い方と活用方法3選</title>
@@ -125,6 +106,53 @@ https://www.anthropic.com/news/claude-code-on-the-web
 FIgma の新規ファイル作成画面から、make を選択... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/sunagaku/articles/6ffe29e6f271bb</guid>
       <pubDate>Sat, 01 Nov 2025 04:42:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code と Codex の使い</title>
+      <link>https://zenn.dev/hy20191108/articles/d88bc7f5ccb0cc</link>
+      <description>Claude Code と Codex の使い分け
+
+ 1. 導入
+
+私は Claude Code（Anthropic） と Codex（OpenAI） を使っています．[1][2]
+
+どちらも「AIにコードを書かせる／直させる」ツールですが，得意なフェーズが違うので最近は分けて使っています．
+そこで，自分なりに整理してみようと思います（といっても仕様がガンガン変わっていくため，現時点でのよいやり方だと思われます）．
+
+
+ 2. 全体の流れ
+
+
+要件の確認・軽い動作指示：Codex（短いプロンプトで高品質）[2:1]
+
+
+実装・複数ファイルの変更：Claude Code（実装速度早い... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hy20191108/articles/d88bc7f5ccb0cc</guid>
+      <pubDate>Sat, 01 Nov 2025 10:25:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>VimConf 2025 small に運営として参加しました</title>
+      <link>https://zenn.dev/mattn/articles/4efa9e1c42613b</link>
+      <description>はじめに
+昨日 11/2 秋葉原のアキバプラザ 5F 大ホール。VimConf 2025 small が開催されました。例年の様に僕はスタッフとして参加させて頂きました。
+
+
+受付で「ノベルティを持っていって下さい」と言っていたのが僕です。
+
+スタッフ業をしていたので全ての発表を聞けてなかったのですが。幾らかは聞きました。その中でも僕が気になったのは2つ。
+
+ And Yet, Vim Survived: Thinking and Seeing in the Age of Code You Don't Write - Λlisue
+
+ご本人は話がうまいので、見ている方々は「面白かった... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mattn/articles/4efa9e1c42613b</guid>
+      <pubDate>Mon, 03 Nov 2025 02:25:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>How I Use Every Claude Code Feature</title>
+      <link>https://blog.sshh.io/p/how-i-use-every-claude-code-feature</link>
+      <description>I use Claude Code. A lot. As a hobbyist, I run it in a VM several times a week on side projects, often with --dangerously-skip-permissions to vibe code whatever idea is on my mind. Professionally, part of my team builds the AI-IDE rules and tooling for our engineering team that consumes several b... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://blog.sshh.io/p/how-i-use-every-claude-code-feature</guid>
+      <pubDate>Sun, 02 Nov 2025 04:37:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
