@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Nov 2025 06:36:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 06:35:33 +0000</lastBuildDate>
     <item>
-      <title>マルチエージェント強化学習におけるクレジット割り当ての課題
-オープンエージェントシステムにおける</title>
-      <link>http://arxiv.org/abs/2510.27659v1</link>
-      <description>急速に発展しているマルチエージェント強化学習（MARL）の分野では、オープンシステムのダイナミクスを理解することが極めて重要です。MARLにおけるオープン性とは、システム内のエージェント集団、タスク、およびエージェントタイプの動的な性質を指します。具体的には、(Eck et al. 2023) [2] で報告されているように、オープン性には3つのタイプがあります。エージェントオープン性とは、エージェントがいつでもシステムに参入または退出できること、タスクオープン性とは、新しいタスクが出現し、既存のタスクが進化または消滅すること、そしてタイプオープン性とは、エージェントの能力と行動が時間とともに変化することです。本稿では、オープン性とクレジット割り当て問題（CAP）の相互作用に焦点を当て、概念的かつ実証的なレビューを提供します。CAPは、個々のエージェントがシステム全体のパフォーマンスにどのように貢献するかを決定することを含み、オープン環境ではますます複雑になるタスクです。従来のクレジット割り当て（CA）手法は、静的なエージェント集団、固定かつ事前定義されたタスク、そして定常的なタイプを (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.27659v1</guid>
-      <pubDate>Fri, 31 Oct 2025 17:30:32 +0000</pubDate>
+      <title>動的忘却と時空間周期的興味モデルによる
+ローカルライフサービス推奨</title>
+      <link>http://arxiv.org/abs/2508.02451v2</link>
+      <description>急成長するデジタル経済の文脈において、ユーザーと多数のサービスをつなぐ重要なリンクとしての推薦システムは、ローカルライフサービスプラットフォームにおけるユーザー行動シーケンスのモデリングにおいて、長いシーケンスのスパース性や強い時空間依存性など、課題に直面しています。これらの課題は、人間の記憶における忘却プロセスとの類推によって解決できます。これは、推薦コンテンツに対するユーザーの反応が、新近効果と記憶の周期性に従うためです。この点を探求することにより、本稿では忘却曲線を紹介し、ローカルライフサービス推薦のための長いシーケンスを用いた時空間周期的興味モデリング（STIM）を提案します。STIMは、3つの主要コンポーネントを統合しています。1つは忘却曲線に基づく動的マスキングモジュールで、最近の時空間特徴と周期的な時空間特徴の両方を抽出するために使用されます。もう1つは、異なる動的マスクの下でエキスパートネットワークを適応的に活性化し、時間、場所、アイテムの協調モデリングを可能にするクエリベースの専門家混合（MoE）アプローチです。階層型多関心ネットワークユニットは、ユーザーの最近の行動 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2508.02451v2</guid>
+      <pubDate>Mon, 04 Aug 2025 14:16:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>熱帯乾燥林における地上バイオマスの推定：
+航空機、無人機、宇宙レーザースキャンの相互比較</title>
+      <link>http://arxiv.org/abs/2510.27408v2</link>
+      <description>パリ気候変動協定によれば、すべての国は2024年までに2年ごとに温室効果ガスの排出量と吸収量に関する報告書を提出することが義務付けられています。したがって、森林はこれらの義務を果たすために不可欠な炭素排出量の削減において重要な役割を果たします。気候変動との世界的な闘いにおける森林保全の重要性を認識し、パリ協定第5条は高品質の森林データの必要性を強調しています。本研究は、熱帯乾燥林の地上バイオマスをマッピングする方法の向上に焦点を当てています。熱帯乾燥林は、熱帯林環境の中で最も理解が進んでいないものの1つと考えられているため、炭素プールを推定するための正確なアプローチが必要です。本研究では、異なる離散およびフル波形レーザースキャンデータセットを、最小二乗法およびベイズ統計手法（SVM）と組み合わせて、AGB推定値の比較分析を行いました。航空機レーザースキャン、無人レーザースキャン、宇宙レーザースキャンは、森林指標を抽出するための独立変数として使用されました。変数選択、SVM回帰チューニング、機械学習アプローチによる交差検証を適用し、過剰適合と不足適合を考慮しました。結果は、主に樹高に関連 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.27408v2</guid>
+      <pubDate>Fri, 31 Oct 2025 11:53:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

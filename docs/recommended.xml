@@ -7,51 +7,75 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Nov 2025 06:36:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 06:35:27 +0000</lastBuildDate>
     <item>
-      <title>【備忘録】AI駆動開発Conference Autumn 2days で 学びと気づきが得られすぎたので、共有したい...</title>
-      <link>https://zenn.dev/sunagaku/articles/c5affee1871afb</link>
-      <description>はじめに
-2025年10月30日〜31日に開催された 「AI駆動開発 Conference Autumn 2025」 に参加してきました。
-https://aid.connpass.com/event/367698/
-2日間にわたるイベントを通して、AIを活用した開発の最前線・現場での実践知について、沢山の学びと気づきを得られました。
-本記事では、その中でも特に印象に残った内容を、備忘録としてまとめたものになります！
-もし興味のある項目があれば、ご覧いただけると嬉しいです！
+      <title>Claude Code on the Webの仕様を徹底解剖</title>
+      <link>https://zenn.dev/oikon/articles/claude-code-web-sandbox</link>
+      <description>!
 
- 「ClaudeCode 実践方法」編
+2025年11月1日時点のClaude Code on the Web環境の調査結果です
+記事執筆時点でのClaude Code on the WebのClaude Codeのバージョンは2.0.25でした
+すでにSandboxの挙動が変わっているのを確認しています。実際の挙動は手元の環境で試してみてください
 
- サブエージェントで同時並行で開発させる際は、タスクの進捗状況を共... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sunagaku/articles/c5affee1871afb</guid>
-      <pubDate>Fri, 31 Oct 2025 23:29:15 +0000</pubDate>
+
+Oikonです。普段はAIツール、特にClaude Codeで遊んでいます。
+Claude CodeにはClaude Code on the Webという、ブラウザ上でClaude Codeを実行できる環境があります。手元にPCがなくてもブラウザさえあれば開発できます。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/oikon/articles/claude-code-web-sandbox</guid>
+      <pubDate>Sat, 01 Nov 2025 09:01:01 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code on the webを触ってみた</title>
-      <link>https://zenn.dev/beagle/articles/bc6ef88dd68615</link>
-      <description>びーぐるです🐶
-2025年10月21日、Anthropic社が提供するAIモデルClaudeを利用したAIコーディングエージェントClaude Code on the webがリサーチプレビューとして公開されました。
-https://www.anthropic.com/news/claude-code-on-the-web
-このサービスはクラウド型AIコーディングエージェントと呼ばれるもので、ブラウザやiOSのアプリから直接アクセスできる手軽さが特徴です。
-現時点ではAndroidアプリ版からは利用できないようです…残念。
-本記事では、Claude Code on the webを実際に... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/beagle/articles/bc6ef88dd68615</guid>
-      <pubDate>Fri, 31 Oct 2025 04:20:19 +0000</pubDate>
+      <title>MySQL (InnoDB) のロック範囲に気をつけよう</title>
+      <link>https://zenn.dev/socialplus/articles/2e16da32f39a0c</link>
+      <description>こんにちは otsubo です。MySQL (InnoDB) のロックについて整理する機会があったので記事にします。 はじめに 全ての ロックタイプ を網羅するのは大変なため、 レコードロック ギャップロック ネクストキーロック を中心にまとめます。この3つはトランザクション内で UPDATE、DELETE、 SELECT ... FOR UPDATE / SHARE ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/socialplus/articles/2e16da32f39a0c</guid>
+      <pubDate>Mon, 03 Nov 2025 16:17:35 +0000</pubDate>
     </item>
     <item>
-      <title>AI加速時代のQAエンジニア：開発スピードと品質のバランス戦略</title>
-      <link>https://zenn.dev/pivotmedia/articles/ai-driven-development-qa-challenge</link>
-      <description>AI加速時代におけるQAエンジニアの生存戦略 ― PIVOTでの実践から
-ビジネス映像メディア「PIVOT」でQAエンジニアをしているケイスケです。
-本記事では、AIによる開発工程の加速に直面したとき、QAエンジニアがどのように適応していくか。
-そして、PIVOTというプロダクトで実際にどう取り組んでいるのかをお伝えします。
+      <title>わたし Cursor に乗り換えます</title>
+      <link>https://zenn.dev/mohupor03/articles/58a37e9b56066a</link>
+      <description>こんにちは。@tetsuro_b です。
+ついについに・・・！
+私はメインの AI を Claude Code → Cursor に戻すことを決断しました！！
+長い付き合いだった「VSCode x Claude Code」とは、しばらくお別れです...。
+その理由を紹介していきます。
+
+ 新機能 Multiple Models の体験が良すぎる
+2025年10月29日 Cursor 2.0 が発表され、その中でも「Multiple Models / Multipel Agent」機能がぶっ刺さりました。
+
+Multiples Model は何ができる機能かと言うと「同じプロンプトで複数の... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mohupor03/articles/58a37e9b56066a</guid>
+      <pubDate>Fri, 31 Oct 2025 07:59:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>使い捨てできるGPUクラウド Runpodを使おう！</title>
+      <link>https://zenn.dev/nttdata_tech/articles/4b742038898d4e</link>
+      <description>前置き
+はじめまして！株式会社NTTデータグループの技術革新統括本部AI技術部でSmart AI Agent™のエンジニアをしている岸川です。
+今回は、GPUクラウドサービス「Runpod」について、実際に研究と仕事で活用してきた経験をもとに紹介します。「ちょっとGPU使いたいだけなのに...」という悩みを持つ方に向けて、Runpodの魅力と具体的な使い方を解説していきます！
+!
+免責事項
+本記事の料金情報は2025年10月時点のものです。最新の料金やサービス内容は、Runpod公式サイトでご確認ください。また、本記事は筆者の個人的な経験に基づく紹介記事です。
 
 
- 1. はじめに：AIが加速する開発と取り残されるテスト工程
-GitHub CopilotやCursor、Claude Codeなど、AIによるコーディング支援が開発スピードを大きく押し上げています。
-一方で、QAエンジニアの現場はどうでしょうか？
-
-開発は... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pivotmedia/articles/ai-driven-development-qa-challenge</guid>
-      <pubDate>Sun, 02 Nov 2025 01:01:08 +0000</pubDate>
+ はじめに
+機械学... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/4b742038898d4e</guid>
+      <pubDate>Sun, 02 Nov 2025 03:34:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Go でログに機密情報を出力していないか静的解析するツールを作った</title>
+      <link>https://zenn.dev/nilpoona/articles/c68387ec5415f7</link>
+      <description>はじめに アプリケーション開発において、デバッグやモニタリングのためにログを出力することは一般的です。しかし、うっかりパスワードやAPIキーなどの機密情報をログに含めてしまうと、重大なセキュリティインシデントにつながる可能性があります。 本記事では、Go で書かれたコードを静的解析し、機密情報がログに出... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/nilpoona/articles/c68387ec5415f7</guid>
+      <pubDate>Tue, 28 Oct 2025 09:26:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>PHPのレガシーシステムをTypeScriptで刷新！ フロントエンドとバックエンドの職能の壁は壊せるのか？ - ぐるなびをちょっと良くするエンジニアブログ</title>
+      <link>https://developers.gnavi.co.jp/entry/wedding-php-to-ts/</link>
+      <description>こんにちは！「ぐるなびウエディング」開発チームの滝口(@ytakiguche)です。普段はサーバーサイド開発を担当しています。 私たちのチームは現在、オンプレミスで長年稼働してきた PHP のシステムをAWSクラウドへ移行し、同時に TypeScript で全面的に書き換えるという、大きな挑戦の真っ只中にいます。 この記事では「フ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://developers.gnavi.co.jp/entry/wedding-php-to-ts/</guid>
+      <pubDate>Tue, 04 Nov 2025 03:23:59 +0000</pubDate>
     </item>
     <item>
       <title>誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話</title>
@@ -73,13 +97,6 @@ GitHub CopilotやCursor、Claude Codeなど、AIによるコーディング支�
       <pubDate>Fri, 31 Oct 2025 06:52:12 +0000</pubDate>
     </item>
     <item>
-      <title>Notes by djb on using Fil-C (2025)</title>
-      <link>https://cr.yp.to/2025/fil-c.html</link>
-      <description>Notes by djb on using Fil-C (2025) I'm impressed with the level of compatibility of the new memory-safe C/C++ compiler Fil-C (filcc, fil++). Many libraries and applications that I've tried work under Fil-C without changes, and the exceptions haven't been hard to get working. I've started accumula... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://cr.yp.to/2025/fil-c.html</guid>
-      <pubDate>Mon, 03 Nov 2025 03:06:53 +0000</pubDate>
-    </item>
-    <item>
       <title>AI駆動開発実践者によるリアルな機能開発プロセスを丁寧に解説してみた</title>
       <link>https://zenn.dev/tmasuyama1114/articles/claude-code-real-dev</link>
       <description>こんにちは、とまだです。
@@ -92,23 +109,7 @@ Claude Code で機能開発をする際、「どこから手をつければい�
       <pubDate>Sun, 02 Nov 2025 16:21:38 +0000</pubDate>
     </item>
     <item>
-      <title>Figma make の基本的な使い方と活用方法3選</title>
-      <link>https://zenn.dev/sunagaku/articles/6ffe29e6f271bb</link>
-      <description>はじめに
-僕は、個人開発が好きでアプリをよく作っています。しかしデザイン作成の経験がないので、UI 作成に時間を取られた上、結局「あまりイケテナイUI」を作るしかありませんでした。
-しかし Figma make を利用すると、この課題を解決することが出来ます！
-僕自身、個人開発ではありますが、UI の作成・修正やメンテナンス効率が上がりました。
-この記事では、「Figma make の基本的な使い方」と「実践している活用方法」について紹介させて頂きます！
-
- Figma make に関しての基本的な使い方
-
- アプリの起動方法
-FIgma の新規ファイル作成画面から、make を選択... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sunagaku/articles/6ffe29e6f271bb</guid>
-      <pubDate>Sat, 01 Nov 2025 04:42:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code と Codex の使い</title>
+      <title>Claude Code と Codex の使い分け</title>
       <link>https://zenn.dev/hy20191108/articles/d88bc7f5ccb0cc</link>
       <description>Claude Code と Codex の使い分け
 
@@ -146,13 +147,6 @@ FIgma の新規ファイル作成画面から、make を選択... (source: Zenn�
 ご本人は話がうまいので、見ている方々は「面白かった... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/mattn/articles/4efa9e1c42613b</guid>
       <pubDate>Mon, 03 Nov 2025 02:25:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>How I Use Every Claude Code Feature</title>
-      <link>https://blog.sshh.io/p/how-i-use-every-claude-code-feature</link>
-      <description>I use Claude Code. A lot. As a hobbyist, I run it in a VM several times a week on side projects, often with --dangerously-skip-permissions to vibe code whatever idea is on my mind. Professionally, part of my team builds the AI-IDE rules and tooling for our engineering team that consumes several b... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://blog.sshh.io/p/how-i-use-every-claude-code-feature</guid>
-      <pubDate>Sun, 02 Nov 2025 04:37:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
