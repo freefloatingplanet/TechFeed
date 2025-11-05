@@ -7,146 +7,114 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Nov 2025 06:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 06:34:51 +0000</lastBuildDate>
     <item>
-      <title>Claude Code on the Webの仕様を徹底解剖</title>
-      <link>https://zenn.dev/oikon/articles/claude-code-web-sandbox</link>
-      <description>!
-
-2025年11月1日時点のClaude Code on the Web環境の調査結果です
-記事執筆時点でのClaude Code on the WebのClaude Codeのバージョンは2.0.25でした
-すでにSandboxの挙動が変わっているのを確認しています。実際の挙動は手元の環境で試してみてください
-
-
-Oikonです。普段はAIツール、特にClaude Codeで遊んでいます。
-Claude CodeにはClaude Code on the Webという、ブラウザ上でClaude Codeを実行できる環境があります。手元にPCがなくてもブラウザさえあれば開発できます。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/oikon/articles/claude-code-web-sandbox</guid>
-      <pubDate>Sat, 01 Nov 2025 09:01:01 +0000</pubDate>
+      <title>【続報】Qiita の数式 MathJax の表示バグの原因を見つけた？</title>
+      <link>https://qiita.com/TETSURO1999/items/6abd4aec3e6f3210dea4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>1. はじめに
+筆者の下記の記事において Qiita の MathJax における不具合および回避方法を述べた。残念ながら Math-Renderer を CHTML モードから SVG モードに切り替える方策は SVG モードに深刻な不具合があり，直ちには使えないことが... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/TETSURO1999/items/6abd4aec3e6f3210dea4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sun, 02 Nov 2025 15:01:38 +0000</pubDate>
     </item>
     <item>
-      <title>MySQL (InnoDB) のロック範囲に気をつけよう</title>
-      <link>https://zenn.dev/socialplus/articles/2e16da32f39a0c</link>
-      <description>こんにちは otsubo です。MySQL (InnoDB) のロックについて整理する機会があったので記事にします。 はじめに 全ての ロックタイプ を網羅するのは大変なため、 レコードロック ギャップロック ネクストキーロック を中心にまとめます。この3つはトランザクション内で UPDATE、DELETE、 SELECT ... FOR UPDATE / SHARE ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/socialplus/articles/2e16da32f39a0c</guid>
-      <pubDate>Mon, 03 Nov 2025 16:17:35 +0000</pubDate>
+      <title>【海外記事紹介】uvはここ10年のPythonエコシステムの中でも最高のプロダクトだ</title>
+      <link>https://techfeed.io/entries/6903dbf9b335ef58049ea549?from=rss</link>
+      <description>10月30日、Emily Space氏が「uv is the best thing to happen to the Python ecosystem in a decade」と題した記事を公開した。この記事では、Pythonのインストールや仮想環境の管理、依存関係の同期といった長年の課題を一変させる新ツール「uv」について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6903dbf9b335ef58049ea549?from=rss</guid>
+      <pubDate>Thu, 30 Oct 2025 21:43:21 +0000</pubDate>
     </item>
     <item>
-      <title>わたし Cursor に乗り換えます</title>
-      <link>https://zenn.dev/mohupor03/articles/58a37e9b56066a</link>
-      <description>こんにちは。@tetsuro_b です。
-ついについに・・・！
-私はメインの AI を Claude Code → Cursor に戻すことを決断しました！！
-長い付き合いだった「VSCode x Claude Code」とは、しばらくお別れです...。
-その理由を紹介していきます。
-
- 新機能 Multiple Models の体験が良すぎる
-2025年10月29日 Cursor 2.0 が発表され、その中でも「Multiple Models / Multipel Agent」機能がぶっ刺さりました。
-
-Multiples Model は何ができる機能かと言うと「同じプロンプトで複数の... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mohupor03/articles/58a37e9b56066a</guid>
-      <pubDate>Fri, 31 Oct 2025 07:59:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>使い捨てできるGPUクラウド Runpodを使おう！</title>
-      <link>https://zenn.dev/nttdata_tech/articles/4b742038898d4e</link>
-      <description>前置き
-はじめまして！株式会社NTTデータグループの技術革新統括本部AI技術部でSmart AI Agent™のエンジニアをしている岸川です。
-今回は、GPUクラウドサービス「Runpod」について、実際に研究と仕事で活用してきた経験をもとに紹介します。「ちょっとGPU使いたいだけなのに...」という悩みを持つ方に向けて、Runpodの魅力と具体的な使い方を解説していきます！
+      <title>【初心者向け】14年ぶり全面改訂！CSIRTスタータキット v3.0 徹底解説</title>
+      <link>https://zenn.dev/moneymog/articles/a5b70b5f73ee65</link>
+      <description>はじめに
+セキュリティ担当に任命されて、「CSIRTを構築しよう」と言われたけれど、何から始めればいいのかわからない…そんな経験はありませんか？
+2025年10月、日本シーサート協議会（NCA）が14年ぶりに全面改訂した「CSIRTスタータキット Ver 3.0」が公開されました。この記事では、セキュリティ担当になりたての方に向けて、v3.0のポイントと実践的な構築ステップをわかりやすく解説します。
 !
-免責事項
-本記事の料金情報は2025年10月時点のものです。最新の料金やサービス内容は、Runpod公式サイトでご確認ください。また、本記事は筆者の個人的な経験に基づく紹介記事です。
+本記事は、日本シーサート協議会が公開する「CSIRTスタータキット Ver 3.0」の内容を基に、筆者が独自に要約・解説したものです。正確な情報や詳細については、必ず原文をご参照くだ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/moneymog/articles/a5b70b5f73ee65</guid>
+      <pubDate>Tue, 04 Nov 2025 11:52:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Silicon Macで始めるLinuxデスクトップ生活 with NixOS, Hyprland</title>
+      <link>https://zenn.dev/ymat19/articles/af4e418e49b075</link>
+      <description>0. はじめに
 
+ 性能が厳しくなってきた(らしい)初期Apple Silicon達
+突然ですが、最近AppleがM5とM1を比較したニュースを公開したのはご存知でしょうか。
+https://www.apple.com/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/
 
- はじめに
-機械学... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/4b742038898d4e</guid>
-      <pubDate>Sun, 02 Nov 2025 03:34:30 +0000</pubDate>
+14-inch MacBook Pro with M5 delivers:
+Up to 7.7x faster AI video-enhancing performance in Topaz Video whe... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ymat19/articles/af4e418e49b075</guid>
+      <pubDate>Mon, 03 Nov 2025 21:50:09 +0000</pubDate>
     </item>
     <item>
-      <title>Go でログに機密情報を出力していないか静的解析するツールを作った</title>
-      <link>https://zenn.dev/nilpoona/articles/c68387ec5415f7</link>
-      <description>はじめに アプリケーション開発において、デバッグやモニタリングのためにログを出力することは一般的です。しかし、うっかりパスワードやAPIキーなどの機密情報をログに含めてしまうと、重大なセキュリティインシデントにつながる可能性があります。 本記事では、Go で書かれたコードを静的解析し、機密情報がログに出... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/nilpoona/articles/c68387ec5415f7</guid>
-      <pubDate>Tue, 28 Oct 2025 09:26:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>PHPのレガシーシステムをTypeScriptで刷新！ フロントエンドとバックエンドの職能の壁は壊せるのか？ - ぐるなびをちょっと良くするエンジニアブログ</title>
-      <link>https://developers.gnavi.co.jp/entry/wedding-php-to-ts/</link>
-      <description>こんにちは！「ぐるなびウエディング」開発チームの滝口(@ytakiguche)です。普段はサーバーサイド開発を担当しています。 私たちのチームは現在、オンプレミスで長年稼働してきた PHP のシステムをAWSクラウドへ移行し、同時に TypeScript で全面的に書き換えるという、大きな挑戦の真っ只中にいます。 この記事では「フ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://developers.gnavi.co.jp/entry/wedding-php-to-ts/</guid>
-      <pubDate>Tue, 04 Nov 2025 03:23:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話</title>
-      <link>https://zenn.dev/misuken/articles/32807daad601d0</link>
+      <title>Vitest で API 通信のモックはどうしてる？主要3パターン（vi.mock / MSW / Queryキャッシュ）を比較・使い分け</title>
+      <link>https://zenn.dev/apple_yagi/articles/0544ef8258b6d7</link>
       <description>はじめに
-こんにちは、株式会社ドワンゴでニコニコ生放送のフロントエンド開発を担当している misuken です。
-みなさんのプロジェクトには「条件分岐が複雑すぎて誰も把握できなくなった仕様」はありませんか？
-ニコニコ生放送のフロントチームでは「Gate」という機能が、まさにそのような状態でした。
-この記事では、極めて複雑なGate機能を、スプレッドシートによる仕様整理で劇的に改善した取り組みをご紹介します。
+Vitest で API 通信が絡んだコンポーネントのテストをするとき、vi.mock、MSW、TanStack Query のようなデータフェッチングライブラリの Query キャッシュを活用する手法があります。この記事では 3 つのモックパターンを比較し、どう使い分けるかを整理しました。
 
- TL;DR
-複雑化した仕様を整理するためのアプローチ：
+ パターン 1: vi.mock で依存モジュールを差し替える
+まずは vi.mock を使って依存モジュールを差し替えるパターンです。テスト対象となるコンポーネントはこちら。
 
-
-リバースエンジニアリング: テストのスナップショットから実装を読み解く
-
-マトリックス形式の整理: 共通項と差異を... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/misuken/articles/32807daad601d0</guid>
-      <pubDate>Fri, 31 Oct 2025 06:52:12 +0000</pubDate>
+src/components/Timeline.tsx
+import { useQuery } from... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/apple_yagi/articles/0544ef8258b6d7</guid>
+      <pubDate>Mon, 03 Nov 2025 08:45:27 +0000</pubDate>
     </item>
     <item>
-      <title>AI駆動開発実践者によるリアルな機能開発プロセスを丁寧に解説してみた</title>
-      <link>https://zenn.dev/tmasuyama1114/articles/claude-code-real-dev</link>
-      <description>こんにちは、とまだです。
-Claude Code で機能開発をする際、「どこから手をつければいいか分からない」「途中で仕様がブレて手戻りが発生する」といった悩みはありませんか?
-私が運営するコミュニティサイトに新機能を追加する際、要件定義から実装、レビューまでを一貫したフローで進める方法を実践してみました。
-今回は、cc-sdd(仕様駆動開発ツール)とMCPを組み合わせた開発プロセスを、実際の試行錯誤も含めてお伝えします！
-「使い方を伝える」よりも今回は「どうやって実践したか」を伝えることを目指しています！！
-ちなみに私は本業ではフリーランスエンジニア、ならびにAI駆動開発の導入支援を行... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tmasuyama1114/articles/claude-code-real-dev</guid>
-      <pubDate>Sun, 02 Nov 2025 16:21:38 +0000</pubDate>
+      <title>The Inner Workings of JavaScript Source Maps</title>
+      <link>https://www.polarsignals.com/blog/posts/2025/11/04/javascript-source-maps-internals</link>
+      <description>Source maps are the main piece in the jigsaw puzzle of mapping symbols and locations from "built" JavaScript files back to the original source code. When you debug minified JavaScript in your browser's DevTools and see the original source with proper variable names and formatting, you're witnessi... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.polarsignals.com/blog/posts/2025/11/04/javascript-source-maps-internals</guid>
+      <pubDate>Tue, 04 Nov 2025 23:46:36 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code と Codex の使い分け</title>
-      <link>https://zenn.dev/hy20191108/articles/d88bc7f5ccb0cc</link>
-      <description>Claude Code と Codex の使い分け
-
- 1. 導入
-
-私は Claude Code（Anthropic） と Codex（OpenAI） を使っています．[1][2]
-
-どちらも「AIにコードを書かせる／直させる」ツールですが，得意なフェーズが違うので最近は分けて使っています．
-そこで，自分なりに整理してみようと思います（といっても仕様がガンガン変わっていくため，現時点でのよいやり方だと思われます）．
-
-
- 2. 全体の流れ
-
-
-要件の確認・軽い動作指示：Codex（短いプロンプトで高品質）[2:1]
-
-
-実装・複数ファイルの変更：Claude Code（実装速度早い... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hy20191108/articles/d88bc7f5ccb0cc</guid>
-      <pubDate>Sat, 01 Nov 2025 10:25:52 +0000</pubDate>
+      <title>ブラウザストレージ比較：localStorage、Cookie、IndexedDBの選び方</title>
+      <link>https://zenn.dev/crebo_tech/articles/article-0019-20251103</link>
+      <description>はじめに：ブラウザストレージの選択に迷っていませんか？
+「ユーザー設定を保存したいけど、localStorageでいいのかな？」
+「認証トークンはCookieに入れるべき？それともlocalStorage？」
+「大きなデータを保存したいけど、どれが適切？」
+ブラウザでデータを保存する方法は複数あり、それぞれに特徴があります。しかし、「結局どれを使えばいいの？」という疑問を持つ方は多いのではないでしょうか。
+本記事では、単なる機能比較にとどまらず、実際のユースケース別に最適な選択肢を提示します。初心者の方にも分かりやすいように、セキュリティの概念も含めて丁寧に解説していきます。
+!
+こ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/crebo_tech/articles/article-0019-20251103</guid>
+      <pubDate>Sun, 02 Nov 2025 15:02:59 +0000</pubDate>
     </item>
     <item>
-      <title>VimConf 2025 small に運営として参加しました</title>
-      <link>https://zenn.dev/mattn/articles/4efa9e1c42613b</link>
+      <title>OpenAI AgentKitでサクッとAIエージェント作ってみた</title>
+      <link>https://qiita.com/morimune/items/3d07e4e0062598093b3e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-昨日 11/2 秋葉原のアキバプラザ 5F 大ホール。VimConf 2025 small が開催されました。例年の様に僕はスタッフとして参加させて頂きました。
+こんにちは！KIYO LearningでAirCourseの開発をしている森下です。今回は、OpenAIが2025年10月6日に発表した、AgentKitについてご紹介します！
+この記事では、AgentKitを使って星座占いAIエージェントを実際に作ってみるまで... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/morimune/items/3d07e4e0062598093b3e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 04 Nov 2025 01:29:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>GAS × Supabase × Next.js × Qiita API で構築する業務ナレッジ可視化ツール</title>
+      <link>https://qiita.com/ota-tsutomu/items/e00599edde8ab1721e6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+Google Apps Script（GAS）とスプレッドシートで社内ツールを作るのは非常に簡単で便利です。
+しかし、その便利さゆえに以下のような課題を感じたことはないでしょうか？
 
-
-受付で「ノベルティを持っていって下さい」と言っていたのが僕です。
-
-スタッフ業をしていたので全ての発表を聞けてなかったのですが。幾らかは聞きました。その中でも僕が気になったのは2つ。
-
- And Yet, Vim Survived: Thinking and Seeing in the Age of Code You Don't Write - Λlisue
-
-ご本人は話がうまいので、見ている方々は「面白かった... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mattn/articles/4efa9e1c42613b</guid>
-      <pubDate>Mon, 03 Nov 2025 02:25:23 +0000</pubDate>
+編集者が増えると同時編集によるデータ競合が発生しやすい
+スプレッドシートの肥大... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/ota-tsutomu/items/e00599edde8ab1721e6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 04 Nov 2025 01:02:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>カードゲームの対戦機能をクライアント主体で設計したらこうなった</title>
+      <link>https://zenn.dev/niwatly/articles/295841b00bcb7f</link>
+      <description>はじめに
+お久しぶりです。にわとりです。
+過去に個人開発でカードゲームをリリースしたことがありまして、その時の設計、特にインゲーム部分の設計を公開したいなと以前から思ってました。
+この度 claude code のおかげでコードベースから設計書の書き起こしが大変簡単にできるようになったので、その内容を共有します。
+僕個人は他人の設計書を読むのは比較的楽しいと感じるほうなので、そのような方、とくにカードゲームのロジックの複雑さを肴に酒が飲めるような方に楽しんでもらえると幸いです。
+ゲーム概要やルール説明は一切省略して始めますがご了承ください。では、以下からは claude と一緒に書い... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/niwatly/articles/295841b00bcb7f</guid>
+      <pubDate>Tue, 04 Nov 2025 12:56:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
