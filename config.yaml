@@ -10,7 +10,7 @@ use_percentile_threshold: true   # データに応じて動的しきい値も使
 percentile_p: 0.70        # 類似度の上位20%を採用する目安（80パーセンタイル）
 apply_threshold_on: "final_score" # "similarity" or "final_score"（後述）
 min_similarity: 0.10      # コサイン類似度の固定しきい値（0.0〜1.0, nullで無効）
-score_threshold: 0.017 # 最終スコア側にしきい値を置く場合だけ使う
+score_threshold: 0.06 # 最終スコア側にしきい値を置く場合だけ使う
 profiles:
   - name: default
     feeds_opml: data/feeds.opml
@@ -25,7 +25,7 @@ profiles:
     title: "Tech Feed (English)"
     description: "英語記事からおすすめフィードを生成"
     apply_threshold_on: "final_score" # "similarity" or "final_score"（後述）
-    score_threshold: 0.120 # 最終スコア側にしきい値を置く場合だけ使う
+    score_threshold: 0.200 # 最終スコア側にしきい値を置く場合だけ使う
     language: "ja"
     translation:
       enabled: true
@@ -38,7 +38,7 @@ profiles:
     title: "Space Tech Feed"
     description: "宇宙関係の記事からおすすめフィードを生成"
     apply_threshold_on: "final_score" # "similarity" or "final_score"（後述）
-    score_threshold: 0.015 # 最終スコア側にしきい値を置く場合だけ使う
+    score_threshold: 0.06 # 最終スコア側にしきい値を置く場合だけ使う
   - name: paper
     feeds_opml: data/feeds_paper.opml
     likes_csv: data/likes_paper.csv
@@ -46,7 +46,7 @@ profiles:
     title: "Paper Feed (English)"
     description: "論文からおすすめフィードを生成"
     apply_threshold_on: "final_score" # "similarity" or "final_score"（後述）
-    score_threshold: 0.140 # 最終スコア側にしきい値を置く場合だけ使う
+    score_threshold: 0.300 # 最終スコア側にしきい値を置く場合だけ使う
     language: "ja"
     translation:
       enabled: true
