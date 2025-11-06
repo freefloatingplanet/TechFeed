@@ -7,7 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Nov 2025 12:17:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 13:21:03 +0000</lastBuildDate>
+    <item>
+      <title>行動適応型Q学習：オフラインからオンラインへの統合フレームワーク
+RL</title>
+      <link>http://arxiv.org/abs/2511.03695v1</link>
+      <description>オフライン強化学習（RL）は、オンラインでのやり取りなしに固定データからの学習を可能にしますが、オフラインで学習したポリシーは、分布のシフトや未知の状態・行動ペアに対する信頼できない値推定のために、動的な環境に展開するとしばしば問題を抱えます。本稿では、オフラインRLからオンラインRLへのスムーズで信頼性の高い移行を可能にするように設計されたフレームワーク、行動適応型Q学習（BAQ）を紹介します。その鍵となるアイデアは、オフラインデータから導出された暗黙的な行動モデルを活用し、オンライン微調整中に行動一貫性シグナルを提供することです。BAQは、(i)不確実性が高い場合にオンラインポリシーをオフライン行動に合わせ、(ii)より信頼性の高いオンライン経験が蓄積されるにつれてこの制約を徐々に緩和するという、2つの目的を持つ損失を組み込んでいます。この適応メカニズムは、分布外推定による誤差の伝播を軽減し、初期のオンライン更新を安定化し、新しいシナリオへの適応を加速します。標準的なベンチマークにおいて、BAQは
+従来のオフラインからオンラインへの強化学習アプローチを一貫して上回り、
+より高速な回 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2511.03695v1</guid>
+      <pubDate>Wed, 05 Nov 2025 18:20:23 +0000</pubDate>
+    </item>
     <item>
       <title>AnaFlow: 推論駆動型の説明可能かつサンプル効率の高いアナログ回路サイジングのためのエージェント型LLMベースのワークフロー</title>
       <link>http://arxiv.org/abs/2511.03697v1</link>
@@ -16,19 +26,26 @@
       <pubDate>Wed, 05 Nov 2025 18:24:01 +0000</pubDate>
     </item>
     <item>
-      <title>RoboRAN：強化学習ベースの統合ロボティクスフレームワーク
-自律ナビゲーション</title>
-      <link>http://arxiv.org/abs/2505.14526v2</link>
-      <description>自律ロボットは、陸上や水中から空中や宇宙空間まで、多様な環境でナビゲーションと操作を行う必要があります。強化学習（RL）は特定の自律ロボット向けのポリシーの訓練において有望性を示していますが、既存のフレームワークやベンチマークは特定のプラットフォームに限定されることが多く、異なるモビリティシステム間での一般化や公平な比較が制限されています。本稿では、多様なロボットプラットフォームや運用環境にわたってRLベースのナビゲーションポリシーを訓練、評価、展開するためのマルチドメインフレームワークを提示します。本研究は、4つの主要な貢献を示します。(1) スケーラブルでモジュール化されたフレームワークにより、ロボットタスクのシームレスな互換性と再現可能な訓練パイプラインを実現します。(2) 衛星ロボットシミュレータ、無人水上艦、車輪付き地上車両など、複数のロボットを用いた実世界実験を通じて実証された、シミュレーションから現実世界への転移です。 (3) Isaac Labで訓練されたポリシーを実際のロボットに展開するための初のオープンソースAPIのリリース。これにより、軽量な推論と迅速なフィールド (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2505.14526v2</guid>
-      <pubDate>Tue, 20 May 2025 15:48:23 +0000</pubDate>
+      <title>エリート人間を出し抜き、ブラフで勝つ：セルフプレイと強化学習によるライアーズポーカーの習得</title>
+      <link>http://arxiv.org/abs/2511.03724v1</link>
+      <description>AI研究者は長年、ポーカーのようなゲームを、マルチプレイヤーダイナミクス、不完全情報、不確実性下での推論を特徴とする環境のテストベッドとして注目してきました。近年のブレークスルーにより、ノーリミットテキサスホールデムにおける人間のエリートプレイに匹敵するものが実現しましたが、マルチプレイヤーダイナミクスは抑制されています。ほとんどのハンドは、複数ラウンドの入札を経て2人のプレイヤーのみが関与することですぐに収束します。本論文では、大規模なマルチプレイヤーエンゲージメントを特徴とするゲームである縮小版ライアーズポーカーにおいて、人間のエリートプレイを達成した初のAIエージェントであるSollyを紹介します。Sollyは、モデルフリー、アクタークリティック、深層強化学習アルゴリズムを用いたセルフプレイを用いてトレーニングされました。Sollyは、ヘッズアップおよびマルチプレイヤーのライアーズポーカーにおいて、勝率（ハンドの50%以上で勝利）とエクイティ（獲得金額）で測定されたように、人間のエリートレベルでプレイしました。 Sollyは、推論能力を備えたものも含め、大規模言語モデル（LLM） (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2511.03724v1</guid>
+      <pubDate>Wed, 05 Nov 2025 18:58:18 +0000</pubDate>
     </item>
     <item>
-      <title>空飛ぶロボットアート：ROSベースのドローンが記録破りの壁画を描く</title>
-      <link>http://arxiv.org/abs/2511.03651v1</link>
-      <description>本論文では、世界最大の壁画をドローンで制作するために開発された、先駆的な自律型無人航空システムの革新的な設計と導入成功について紹介する。風や直射日光といった屋外の悪条件下で芸術的な精度と動作信頼性を維持するという二重の課題に取り組む本研究では、屋外でこれまでにない精度でナビゲーションとペイント作業を可能にする堅牢なシステムを紹介する。このアプローチの鍵となるのは、赤外線（IR）モーションキャプチャカメラとLiDAR技術を組み合わせた革新的なナビゲーションシステムであり、大規模な芸術用途に特化した正確な位置追跡を可能にする。計画された経路に対して接線方向と法線方向に異なる制御を行う独自の制御アーキテクチャを採用することで、正確な軌道追跡と安定した線描画を可能にする。また、複雑な曲線描画や領域塗りつぶしを可能にする軌道計画と経路最適化のアルゴリズムも提示する。このシステムには、ドローンのプロペラによって発生する乱気流の中でも効果的に機能するように特別に設計されたカスタム設計の塗料噴霧機構が搭載されており、ドローンの重要な部品を塗料による損傷から保護し、長寿命と安定した性能を保証します。実験 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2511.03651v1</guid>
-      <pubDate>Wed, 05 Nov 2025 17:09:16 +0000</pubDate>
+      <title>マルチスケール連合学習を用いた大腸癌の組織病理学的グレーディング</title>
+      <link>http://arxiv.org/abs/2511.03693v1</link>
+      <description>大腸癌（CRC）の悪性度判定は重要な予後因子ですが、観察者間のばらつきや多施設間データ共有によるプライバシー制約によって依然として阻害されています。ディープラーニングは自動化への道筋を提供しますが、集中型のトレーニングモデルはデータガバナンス規制と矛盾し、マルチスケール解析の診断的重要性が軽視されています。本研究では、CRCの組織病理学的悪性度判定のための、スケーラブルでプライバシー保護された連合学習（FL）フレームワークを提案します。このフレームワークは、分散トレーニングパラダイム内にマルチスケール特徴学習を統合します。私たちのアプローチは、デュアルストリームResNetRS50バックボーンを採用し、きめ細かい核の詳細とより広範な組織レベルのコンテキストを同時に取得します。このアーキテクチャは、FedProxを使用して安定化された堅牢なFLシステムに統合されており、複数の病院からの異種データ分布におけるクライアントドリフトを軽減します。 CRC-HGDデータセットを用いた広範な評価の結果、本フレームワークは83.5%という総合的な精度を達成し、同等の集中型モデル（81.6%）を上回る (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2511.03693v1</guid>
+      <pubDate>Wed, 05 Nov 2025 18:18:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>分散の縮小：強化学習における縮小ベースライン
+検証可能な報酬付き</title>
+      <link>http://arxiv.org/abs/2511.03710v1</link>
+      <description>検証可能な報酬を伴う強化学習（RLVR）は、GRPOなどの方策勾配法を用いた大規模推論モデル（LRM）の学習後処理のための強力なパラダイムとして登場しました。学習を安定化させるために、これらの手法では通常、各プロンプトの経験的平均を差し引くことで軌跡報酬を中心化します。統計的には、この中心化は制御変量（またはベースライン）として機能し、方策勾配推定量の分散を低減します。通常、平均報酬は、バッチ内の各プロンプトについて、プロンプトごとの経験的平均を用いて推定されます。Steinのパラドックスに着想を得て、本研究では、プロンプトごとの平均とプロンプト全体の平均を組み合わせた収縮推定量を用いることで、特にRLVRに典型的な低世代領域において、プロンプトごとの平均推定精度を向上させることを提案します。理論的には、我々は、アルゴリズム全体にわたってより分散の低い方策勾配推定値をもたらすことが証明されている、収縮ベースのベースラインを構築する。提案するベースラインは、既存のプロンプトごとの平均ベースラインの代替として機能し、追加のハイパーパラメータや計算を必要としない。経験的には、収縮ベースライン (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2511.03710v1</guid>
+      <pubDate>Wed, 05 Nov 2025 18:43:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

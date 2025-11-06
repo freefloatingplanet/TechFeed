@@ -7,32 +7,104 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Nov 2025 12:17:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 13:20:55 +0000</lastBuildDate>
     <item>
-      <title>【DDD】そのValueObjectまじで意味ないっす</title>
-      <link>https://qiita.com/umekikazuya/items/e8567659dc06b07cc9cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>0. はじめに
-ValueObjectって"不変性"や"同一性を持たない"という点が特徴ですよね。
-あなたのドメインモデリングは、その特徴を消した実装になっていませんか？
-ソフトウェア業界で著名な Vladimir Khorikov 氏は以下のように言及されています。
-
-... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/umekikazuya/items/e8567659dc06b07cc9cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Mon, 03 Nov 2025 15:24:49 +0000</pubDate>
+      <title>ソフトウェアエンジニアを辞めてYouTuberとして独立します｜seya</title>
+      <link>https://note.com/seyanote/n/n7c02a7ed65b1</link>
+      <description>タイトル通り、この度ソフトウェアエンジニアとして勤めていた企業を退職しまして、YouTuberとして独立します！実際のところYouTubeの稼ぎだけでは全然食べて行けないので、それ以外にも色々やっていくのですが、あらゆる活動の主軸となるのでYouTuberと名乗っていこうと思います。 運営しているのはこちらのAIでサボろ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/seyanote/n/n7c02a7ed65b1</guid>
+      <pubDate>Wed, 05 Nov 2025 12:23:33 +0000</pubDate>
     </item>
     <item>
-      <title>Web 標準動向 2025年10月版</title>
-      <link>https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202510</link>
-      <description>こんにちは！ サイボウズ株式会社 フロントエンドエンジニアの mehm8128 (@mehm8128) です。
+      <title>今年俺を一番幸せにしたDX最高な奴ら10選</title>
+      <link>https://zenn.dev/chiji/articles/a8eaa9ed1d042c</link>
+      <description>2025年も後もう少しで終わりますねー。
+そこで、2025年筆者が使っててこれDX良かったなーというライブラリ・SaaS・ツールを紹介します！
+みなさん、普段から開発者体験（DX）を気にしてますか？
+DXとは、開発中に感じる“心地よさ”や“効率の良さ”を指します。
+どんなに実装が複雑でも、DXを損なうことがなければ開発はずっと楽しいんです！
+そこでこの記事では、「心から開発を楽しめる」相棒たちを10選紹介します！
+
+ 1. Convex
+“SQLの呪縛”からの解放
+歴史のあるSQLはどうしても、歴史に引っ張られます。
+Supabaseとかを使ってると、Row Level Security... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chiji/articles/a8eaa9ed1d042c</guid>
+      <pubDate>Tue, 04 Nov 2025 13:57:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>フロントエンドとサーバーでのバリデーション責務分解</title>
+      <link>https://zenn.dev/ryugen04/articles/20251104-frontend-validation</link>
+      <description>はじめに
+先日、Xでこんな投稿が話題になっていました。
+https://x.com/okd61807313/status/1984917649386615251
+実際のサイトを見ていないため詳細は不明ですが、事象としてはフロントエンドのJavaScriptだけでバリデーションを実装し、サーバーサイドに同等以上のバリデーションがなかったケースです。
+DevToolsで回避できるということは、悪意あるユーザーが不正なデータを送信できてしまいます。
+サーバーサイドではすべてのバリデーションを実装するべきです。セキュリティの観点でも、ドメインの正当性を保つ意味でも、サーバーは最後の砦となりま... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ryugen04/articles/20251104-frontend-validation</guid>
+      <pubDate>Wed, 05 Nov 2025 12:02:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reactにおける&lt;Component /&gt;とComponent()の違い</title>
+      <link>https://zenn.dev/chot/articles/f0d20f46b60818</link>
+      <description>Reactでは、JSXを返す関数を組み合わせてアプリケーションを作っていきます。それらの関数は&lt;Component /&gt;のように呼び出すこともあれば、Component()のように呼び出すこともあります。後者を使用する機会は多くないかもしれませんが、例えばrender hooksパターンによってカスタムフックからUIを返したいときに使われることがあります。
+一見どちらも同じようにJSXを返しますが、Reactはそれらをまったく異なるものとして扱います。
+この投稿では、2つの呼び出し方の違いと、それによって挙動がどう変わるのかを見ていきます。
+
+ 「コンポーネント呼び出し」と「... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chot/articles/f0d20f46b60818</guid>
+      <pubDate>Tue, 04 Nov 2025 05:27:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>LUUPユーザー「警察官が高圧的」と投稿も、「危険運転」「無責任」と批判殺到</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2511/06/news085.html</link>
+      <description>SNSで、とある「LUUP」ユーザーの投稿が炎上している。路上駐車の車を避けるため、一瞬歩道に入ったところを警察官に呼び止められたという内容だ。 投稿によれば、警察官は「歩道を走ってはいけないのは知っているよな？」と高圧的な口調であったという。利用者が身分証不携帯を伝えると、住所と電話番号を控えられ、「... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2511/06/news085.html</guid>
+      <pubDate>Thu, 06 Nov 2025 05:31:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIを賢く動かすのは「指示力」ではなく「文脈設計力」</title>
+      <link>https://zenn.dev/aun_phonogram/articles/44d298f8d9d0fd</link>
+      <description>対象読者
+
+AIとやり取りしているうちに、気づいたら時間が溶けている方
+AIで効率化しているはずなのに、実感が持てない方
+指示を出し直すループにハマって、同じところを行ったり来たりしている方
+
 
  はじめに
-サイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。
-https://blog.cybozu.io/entry/joining-w3c
-https://blog.cybozu.io/entry/w3c-interview-part1
-https://blog.cybozu.io/entry/w3c-interview-part2
-標準化プロセスに関わることができるようになるための最初の一歩として、フロントエンドエンジニアの一部のメンバーは積極... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202510</guid>
-      <pubDate>Tue, 04 Nov 2025 07:41:17 +0000</pubDate>
+AIコーディングをしていて、気づいたら時間が溶けていた。という話を聞くことがあります。
+プロンプトをもっと詳しく書けばよくなるはずだと、指示を工夫してみる。でもなぜか状況は良くならない。それどころか、やり取りを続けるほど沼にハマっている気がする...
+これはプロンプトの問題ではなく、LLMの制約によるものです。その制約を理解し、上手に付き合う方法が「コンテキストエンジニアリング」... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aun_phonogram/articles/44d298f8d9d0fd</guid>
+      <pubDate>Mon, 03 Nov 2025 10:44:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observability Conference Tokyo 2025にオーガナイザーとして参加してました</title>
+      <link>https://zenn.dev/katzchang/articles/3b6c0da97d090d</link>
+      <description>2025年10月27日、これを書いている時点で先週、Observability Conference Tokyo 2025というカンファレンスを開催しました。私は「オーガナイザー」という立場で、カンファレンス全体の雰囲気作りを担いながら、当日はクロージングキーノートでも少し話をしました。
+いくつか、やったことを振り返っていきます。
+
+ 開催趣旨をどう作ったか
+
+まず、ウェブサイト https://o11con.jp に掲載するための開催趣旨を作りました。このカンファレンスは誰に向けたものか、そして、参加することで何を得られるのかを簡潔に説明し、「参加したい！」と思ってもらうための文章です... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/katzchang/articles/3b6c0da97d090d</guid>
+      <pubDate>Wed, 05 Nov 2025 06:11:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic推奨] 安定したLLM出力を得るプロンプト設計</title>
+      <link>https://zenn.dev/tsuboi/articles/da19549dbdc6de</link>
+      <description>LLMは「とりあえず」では動かない
+Vercel AI SDK などを使い LLM をアプリケーションに組み込む際、期待通りの出力を安定して得ることが課題となります。
+「いい感じに要約して」「この質問に答えて」といった漠然とした指示では、以下のような問題が頻発します。
+
+「承知いたしました。こちらが要約です...」といった余計な前置きが毎回付く
+JSON で返してほしいのに、Markdown やただのテキストで返ってくる
+外部データを渡しても無視され、事実に反する誤情報を生成する
+
+プロンプトを調整して一時的に解決しても、別のケースで再び同じ問題が発生します。こうした試行錯誤の繰り返... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tsuboi/articles/da19549dbdc6de</guid>
+      <pubDate>Tue, 04 Nov 2025 12:31:54 +0000</pubDate>
     </item>
     <item>
       <title>ドキュメント検索MCPサーバを作ってみた【MCP+OpenSearch+AWS】</title>
@@ -47,40 +119,16 @@ SREチームでは、開発リソースの20%を目安にメインプロジェ�
       <pubDate>Tue, 04 Nov 2025 03:07:01 +0000</pubDate>
     </item>
     <item>
-      <title>システム構成図・シーケンス図、結局どれ使う？人気ツールとエンジニアのリアルな使い分け徹底解説</title>
-      <link>https://zenn.dev/akari1106/articles/a9e8be49256ca3</link>
-      <description>システム構成図やシーケンス図を描くとき、「どのツールを使えばいいの？」 と悩んでいませんか？
-draw.io、PlantUML、Mermaid、FigJam...選択肢が多すぎて、結局いつも同じツールに逃げてしまう。でも本当にそれでいいのか不安。
-この記事では、実際のエンジニアたちが使っているツールと、その選び方を徹底的にまとめました。
-▼ガッシーさんのツイート
-https://x.com/GussieTech/status/1984195601471594908
-に集まった情報を参考に記載させてもらっています。デザイナー、プログラマー、エンジニア、経営層と様々な方がリアクションされてい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/akari1106/articles/a9e8be49256ca3</guid>
-      <pubDate>Mon, 03 Nov 2025 16:53:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>ソフトウェアエンジニアを辞めてYouTuberとして独立します｜seya</title>
-      <link>https://note.com/seyanote/n/n7c02a7ed65b1</link>
-      <description>タイトル通り、この度ソフトウェアエンジニアとして勤めていた企業を退職しまして、YouTuberとして独立します！実際のところYouTubeの稼ぎだけでは全然食べて行けないので、それ以外にも色々やっていくのですが、あらゆる活動の主軸となるのでYouTuberと名乗っていこうと思います。 運営しているのはこちらのAIでサボろ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/seyanote/n/n7c02a7ed65b1</guid>
-      <pubDate>Wed, 05 Nov 2025 12:23:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>フロントエンドアーキテクチャ設計 〜Clean Architecture実践パターン〜</title>
-      <link>https://zenn.dev/sakisakiika/articles/39f2164796c62b</link>
+      <title>カードゲームの対戦機能をクライアント主体で設計したらこうなった</title>
+      <link>https://zenn.dev/niwatly/articles/295841b00bcb7f</link>
       <description>はじめに
-昨今フロントエンド開発が複雑化する中で、サーバサイドの開発でよく用いられる「クリーンアーキテクチャ」の原則をWebフロントエンドに適用する方法を考えていました。
-本記事はクリーンアーキテクチャの原則をフロントエンドに応用した設計パターンについて紹介します。なお、実装例はReactで記述していますが、設計パターン自体は他のフレームワークでも応用可能です。
-
- アーキテクチャの全体像と各レイヤーの責務
-結果として以下のようなレイヤー構造を導き出しました。
-
-各レイヤーの責務は以下のとおりです。
-
-Domain: アプリケーションの核となるモデルやビジネスルールを定義
-UseCa... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sakisakiika/articles/39f2164796c62b</guid>
-      <pubDate>Sun, 02 Nov 2025 15:53:01 +0000</pubDate>
+お久しぶりです。にわとりです。
+過去に個人開発でカードゲームをリリースしたことがありまして、その時の設計、特にインゲーム部分の設計を公開したいなと以前から思ってました。
+この度 claude code のおかげでコードベースから設計書の書き起こしが大変簡単にできるようになったので、その内容を共有します。
+僕個人は他人の設計書を読むのは比較的楽しいと感じるほうなので、そのような方、とくにカードゲームのロジックの複雑さを肴に酒が飲めるような方に楽しんでもらえると幸いです。
+ゲーム概要やルール説明は一切省略して始めますがご了承ください。では、以下からは claude と一緒に書い... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/niwatly/articles/295841b00bcb7f</guid>
+      <pubDate>Tue, 04 Nov 2025 12:56:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
