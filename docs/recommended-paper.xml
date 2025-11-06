@@ -7,13 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Nov 2025 06:35:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 12:17:15 +0000</lastBuildDate>
     <item>
       <title>AnaFlow: 推論駆動型の説明可能かつサンプル効率の高いアナログ回路サイジングのためのエージェント型LLMベースのワークフロー</title>
       <link>http://arxiv.org/abs/2511.03697v1</link>
       <description>アナログ/ミックスシグナル回路は、電子機器と物理世界とのインターフェースに不可欠です。しかし、その設計は依然として大部分が手作業で行われており、設計サイクルが長く、エラーが発生しやすい状況となっています。近年のAIベースの強化学習や生成AIの台頭により、この作業を自動化する新しい手法が開発されましたが、多くの時間のかかるシミュレーションが必要となることが、全体的な効率を阻害する重大なボトルネックとなっています。さらに、結果として得られる設計ソリューションの説明可能性の欠如が、ツールの広範な採用を妨げています。これらの問題に対処するため、サンプル効率が高く説明可能なアナログ回路のサイズ決定のための、新しいエージェントAIフレームワークが提案されています。このフレームワークは、マルチエージェントワークフローを採用しており、専用の大規模言語モデル（LLM）ベースのエージェントが協力して回路トポロジを解釈し、設計目標を理解し、人間が解釈可能な推論を用いて目標達成に向けて回路の設計パラメータを反復的に改良します。適応型シミュレーション戦略は、高いサンプル効率をもたらすインテリジェントな制御を実現 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
       <guid isPermaLink="true">http://arxiv.org/abs/2511.03697v1</guid>
       <pubDate>Wed, 05 Nov 2025 18:24:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>RoboRAN：強化学習ベースの統合ロボティクスフレームワーク
+自律ナビゲーション</title>
+      <link>http://arxiv.org/abs/2505.14526v2</link>
+      <description>自律ロボットは、陸上や水中から空中や宇宙空間まで、多様な環境でナビゲーションと操作を行う必要があります。強化学習（RL）は特定の自律ロボット向けのポリシーの訓練において有望性を示していますが、既存のフレームワークやベンチマークは特定のプラットフォームに限定されることが多く、異なるモビリティシステム間での一般化や公平な比較が制限されています。本稿では、多様なロボットプラットフォームや運用環境にわたってRLベースのナビゲーションポリシーを訓練、評価、展開するためのマルチドメインフレームワークを提示します。本研究は、4つの主要な貢献を示します。(1) スケーラブルでモジュール化されたフレームワークにより、ロボットタスクのシームレスな互換性と再現可能な訓練パイプラインを実現します。(2) 衛星ロボットシミュレータ、無人水上艦、車輪付き地上車両など、複数のロボットを用いた実世界実験を通じて実証された、シミュレーションから現実世界への転移です。 (3) Isaac Labで訓練されたポリシーを実際のロボットに展開するための初のオープンソースAPIのリリース。これにより、軽量な推論と迅速なフィールド (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2505.14526v2</guid>
+      <pubDate>Tue, 20 May 2025 15:48:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>空飛ぶロボットアート：ROSベースのドローンが記録破りの壁画を描く</title>
+      <link>http://arxiv.org/abs/2511.03651v1</link>
+      <description>本論文では、世界最大の壁画をドローンで制作するために開発された、先駆的な自律型無人航空システムの革新的な設計と導入成功について紹介する。風や直射日光といった屋外の悪条件下で芸術的な精度と動作信頼性を維持するという二重の課題に取り組む本研究では、屋外でこれまでにない精度でナビゲーションとペイント作業を可能にする堅牢なシステムを紹介する。このアプローチの鍵となるのは、赤外線（IR）モーションキャプチャカメラとLiDAR技術を組み合わせた革新的なナビゲーションシステムであり、大規模な芸術用途に特化した正確な位置追跡を可能にする。計画された経路に対して接線方向と法線方向に異なる制御を行う独自の制御アーキテクチャを採用することで、正確な軌道追跡と安定した線描画を可能にする。また、複雑な曲線描画や領域塗りつぶしを可能にする軌道計画と経路最適化のアルゴリズムも提示する。このシステムには、ドローンのプロペラによって発生する乱気流の中でも効果的に機能するように特別に設計されたカスタム設計の塗料噴霧機構が搭載されており、ドローンの重要な部品を塗料による損傷から保護し、長寿命と安定した性能を保証します。実験 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2511.03651v1</guid>
+      <pubDate>Wed, 05 Nov 2025 17:09:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

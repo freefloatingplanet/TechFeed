@@ -7,104 +7,80 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Nov 2025 06:35:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 12:17:07 +0000</lastBuildDate>
     <item>
-      <title>GASを使うと社内だけで使えるWebサイトが簡単に作れるの知ってました？</title>
-      <link>https://zenn.dev/sui_water/articles/502a6ef30b79e1</link>
-      <description>はじめに
-2025年11月現在、Geminiを使用してGoogle Slidesを作成する「まじん式」プロンプトが話題です。
-https://note.com/majin_108/n/n11fc2f2190e9
-こちらの記事で初めて知りましたが、どうやらGoogle Apps Script(GAS)を使うと、社内限定で使えるWebアプリケーションを簡単に構築できるそうです。
-GAS自体は使ったことはありますが、Webアプリケーションを作ったことはありませんでした。
-本記事では、実践的なサンプルプロジェクトとしてGoogleDriveにあるファイルを検索するアプリケーション(Drive... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sui_water/articles/502a6ef30b79e1</guid>
-      <pubDate>Mon, 03 Nov 2025 10:41:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>生成AI活用×無料SaaS：tracerouteを世界地図で見える化【IPinfo×geojson.io】</title>
-      <link>https://qiita.com/ntaka329/items/0c0c2cb719103b38facf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-GMOコネクトの永田です。
-暗号のおねえさん（ https://qiita.com/yumi-sakemi ）から唐突に「インターネット経路の可視化をしたい！」と言われて対応しましたので、今回可視化にあたり実施したことをまとめます。
-tracerouteの結果だ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/ntaka329/items/0c0c2cb719103b38facf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 05 Nov 2025 07:22:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【速報】IETF124 CFRG セッション1 参加報告 - ペアリング曲線とBLS署名の再始動に注目</title>
-      <link>https://qiita.com/satokan3/items/82368e205037157720c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>おはようございます！
-時差ボケが酷くていつ寝落ちするかわからないという爆弾を抱えた男 GMOコネクトでCTOしている菅野（かんの）こと、さとかん です。
-今回は、CFRGに関する参加報告を書きます！
+      <title>【DDD】そのValueObjectまじで意味ないっす</title>
+      <link>https://qiita.com/umekikazuya/items/e8567659dc06b07cc9cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>0. はじめに
+ValueObjectって"不変性"や"同一性を持たない"という点が特徴ですよね。
+あなたのドメインモデリングは、その特徴を消した実装になっていませんか？
+ソフトウェア業界で著名な Vladimir Khorikov 氏は以下のように言及されています。
 
-はじめに
-IETF124がカナダ・モントリオールで開催され、2025年1... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/satokan3/items/82368e205037157720c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 04 Nov 2025 13:44:15 +0000</pubDate>
+... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/umekikazuya/items/e8567659dc06b07cc9cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Mon, 03 Nov 2025 15:24:49 +0000</pubDate>
     </item>
     <item>
-      <title>Codex CLIに静的型付き関数型言語TreePを作らせてみた</title>
-      <link>https://zenn.dev/nextbeat/articles/819c2ace67e8ef</link>
-      <description>挨拶
-こんにちは！株式会社ネクストビートでテクノロジー・エバンジェリストなる肩書きでお仕事をしている水島です。最近は以前からやっている業務に加えて、（もちろん業務ですが）LLMのLoRA作成のPoCにも挑戦したりして、少しワクワクする日々です。
-最近は皆さんもコーディングAIを使う機会が増えているかと思いますが、私はClaude CodeでなくCodex CLIに浮気中です。もちろん、Claude Codeの能力が低いわけではありません。ただ、「深い理解」を必要とするタスクにはCodex CLI（GPT-5）の方がミスを犯しにくいという実感があるからです。
-そんなCodex CLIを... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nextbeat/articles/819c2ace67e8ef</guid>
-      <pubDate>Wed, 05 Nov 2025 04:12:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>End of Japanese community | SUMO community discussions | Forums | Mozilla Support</title>
-      <link>https://support.mozilla.org/en-US/forums/contributors/717446</link>
-      <description>Hi, I am a locale leader of SUMO Japanese community. I have contributed to the Support over 20 years, before the beginning of support.mozilla.org. Today, November 4, we decided to end our SUMO Japanese community. In October 22, the sumobot was introduced to Japanese KB articles. I cannot accept i... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://support.mozilla.org/en-US/forums/contributors/717446</guid>
-      <pubDate>Thu, 06 Nov 2025 03:18:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI AgentKitでサクッとAIエージェント作ってみた</title>
-      <link>https://qiita.com/morimune/items/3d07e4e0062598093b3e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-こんにちは！KIYO LearningでAirCourseの開発をしている森下です。今回は、OpenAIが2025年10月6日に発表した、AgentKitについてご紹介します！
-この記事では、AgentKitを使って星座占いAIエージェントを実際に作ってみるまで... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/morimune/items/3d07e4e0062598093b3e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 04 Nov 2025 01:29:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>GAS × Supabase × Next.js × Qiita API で構築する業務ナレッジ可視化ツール</title>
-      <link>https://qiita.com/ota-tsutomu/items/e00599edde8ab1721e6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-Google Apps Script（GAS）とスプレッドシートで社内ツールを作るのは非常に簡単で便利です。
-しかし、その便利さゆえに以下のような課題を感じたことはないでしょうか？
+      <title>Web 標準動向 2025年10月版</title>
+      <link>https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202510</link>
+      <description>こんにちは！ サイボウズ株式会社 フロントエンドエンジニアの mehm8128 (@mehm8128) です。
 
-編集者が増えると同時編集によるデータ競合が発生しやすい
-スプレッドシートの肥大... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/ota-tsutomu/items/e00599edde8ab1721e6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 04 Nov 2025 01:02:51 +0000</pubDate>
+ はじめに
+サイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。
+https://blog.cybozu.io/entry/joining-w3c
+https://blog.cybozu.io/entry/w3c-interview-part1
+https://blog.cybozu.io/entry/w3c-interview-part2
+標準化プロセスに関わることができるようになるための最初の一歩として、フロントエンドエンジニアの一部のメンバーは積極... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202510</guid>
+      <pubDate>Tue, 04 Nov 2025 07:41:17 +0000</pubDate>
     </item>
     <item>
-      <title>カードゲームの対戦機能をクライアント主体で設計したらこうなった</title>
-      <link>https://zenn.dev/niwatly/articles/295841b00bcb7f</link>
+      <title>ドキュメント検索MCPサーバを作ってみた【MCP+OpenSearch+AWS】</title>
+      <link>https://zenn.dev/levtech/articles/a5a3204ffed86c</link>
       <description>はじめに
-お久しぶりです。にわとりです。
-過去に個人開発でカードゲームをリリースしたことがありまして、その時の設計、特にインゲーム部分の設計を公開したいなと以前から思ってました。
-この度 claude code のおかげでコードベースから設計書の書き起こしが大変簡単にできるようになったので、その内容を共有します。
-僕個人は他人の設計書を読むのは比較的楽しいと感じるほうなので、そのような方、とくにカードゲームのロジックの複雑さを肴に酒が飲めるような方に楽しんでもらえると幸いです。
-ゲーム概要やルール説明は一切省略して始めますがご了承ください。では、以下からは claude と一緒に書い... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/niwatly/articles/295841b00bcb7f</guid>
-      <pubDate>Tue, 04 Nov 2025 12:56:01 +0000</pubDate>
+こんにちは、SREチームの鈴木です。
+SREチームでは、開発リソースの20%を目安にメインプロジェクト以外の「自チームの運用課題の解消」に取り組むことができます。
+現在、AWS・New Relic・TiDB など開発部で利用する複数のSaaSを管理しており、問い合わせ対応にかかる工数が課題になっています。これを解決するため、各サービスの公式ドキュメントを参照して正確な回答を返す MCP サーバーを作って、実験的に導入してみました！
+今後は費用対効果を計測しつつ、効果が見込める場合には改善点を洗い出してブラッシュアップしていきたいと思います。
+本記事では、OpenSearch... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/levtech/articles/a5a3204ffed86c</guid>
+      <pubDate>Tue, 04 Nov 2025 03:07:01 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】JavaScriptソースマップの内部動作を知る — なぜ私達はバンドル済みのWebアプリをデバッグできるのか</title>
-      <link>https://techfeed.io/entries/690bbfbdb335ef5804a05886?from=rss</link>
-      <description>11月4日、Polar Signalsが「The Inner Workings of JavaScript Source Maps」と題した記事を公開した。この記事では、JavaScriptのソースマップ（Source Map）がどのようにしてミニファイド済みのコードと元のソースコードを対応づけているのか、その内部構造や仕組みについて詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/690bbfbdb335ef5804a05886?from=rss</guid>
-      <pubDate>Wed, 05 Nov 2025 21:21:01 +0000</pubDate>
+      <title>システム構成図・シーケンス図、結局どれ使う？人気ツールとエンジニアのリアルな使い分け徹底解説</title>
+      <link>https://zenn.dev/akari1106/articles/a9e8be49256ca3</link>
+      <description>システム構成図やシーケンス図を描くとき、「どのツールを使えばいいの？」 と悩んでいませんか？
+draw.io、PlantUML、Mermaid、FigJam...選択肢が多すぎて、結局いつも同じツールに逃げてしまう。でも本当にそれでいいのか不安。
+この記事では、実際のエンジニアたちが使っているツールと、その選び方を徹底的にまとめました。
+▼ガッシーさんのツイート
+https://x.com/GussieTech/status/1984195601471594908
+に集まった情報を参考に記載させてもらっています。デザイナー、プログラマー、エンジニア、経営層と様々な方がリアクションされてい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/akari1106/articles/a9e8be49256ca3</guid>
+      <pubDate>Mon, 03 Nov 2025 16:53:36 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】そんなに速くない？WebAssemblyとネイティブコードでガチのパフォーマンス比較してみた</title>
-      <link>https://techfeed.io/entries/690bbcdfb335ef5804a057f4?from=rss</link>
-      <description>11月5日、マサチューセッツ大学アマースト校のAbhinav Jangda氏、Bobby Powers氏、Emery D. Berger氏、Arjun Guha氏が「Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code」と題した論文を公開した。この記事では、WebAssembly（Wasm）の実行性能がネイティブコードとどの程度差があるのかを、実際の大規模アプリケーションを用いて体系的に分析した研究について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/690bbcdfb335ef5804a057f4?from=rss</guid>
-      <pubDate>Wed, 05 Nov 2025 21:08:47 +0000</pubDate>
+      <title>ソフトウェアエンジニアを辞めてYouTuberとして独立します｜seya</title>
+      <link>https://note.com/seyanote/n/n7c02a7ed65b1</link>
+      <description>タイトル通り、この度ソフトウェアエンジニアとして勤めていた企業を退職しまして、YouTuberとして独立します！実際のところYouTubeの稼ぎだけでは全然食べて行けないので、それ以外にも色々やっていくのですが、あらゆる活動の主軸となるのでYouTuberと名乗っていこうと思います。 運営しているのはこちらのAIでサボろ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/seyanote/n/n7c02a7ed65b1</guid>
+      <pubDate>Wed, 05 Nov 2025 12:23:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>フロントエンドアーキテクチャ設計 〜Clean Architecture実践パターン〜</title>
+      <link>https://zenn.dev/sakisakiika/articles/39f2164796c62b</link>
+      <description>はじめに
+昨今フロントエンド開発が複雑化する中で、サーバサイドの開発でよく用いられる「クリーンアーキテクチャ」の原則をWebフロントエンドに適用する方法を考えていました。
+本記事はクリーンアーキテクチャの原則をフロントエンドに応用した設計パターンについて紹介します。なお、実装例はReactで記述していますが、設計パターン自体は他のフレームワークでも応用可能です。
+
+ アーキテクチャの全体像と各レイヤーの責務
+結果として以下のようなレイヤー構造を導き出しました。
+
+各レイヤーの責務は以下のとおりです。
+
+Domain: アプリケーションの核となるモデルやビジネスルールを定義
+UseCa... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sakisakiika/articles/39f2164796c62b</guid>
+      <pubDate>Sun, 02 Nov 2025 15:53:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
