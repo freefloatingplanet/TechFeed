@@ -157,7 +157,14 @@ def score_candidates(candidates, likes, cfg):
     if not cand_texts:
         return []
 
-    vec = TfidfVectorizer(max_features=cfg.get("tfidf_max_features", 8000), ngram_range=(1, 2))
+    isSourceEnglish = cfg.get("source_language", "ja") == "en"
+    vec = None
+    if isSourceEnglish:
+        vec = TfidfVectorizer(max_features=cfg.get("tfidf_max_features", 8000), ngram_range=(1, 2))
+    else:
+        # 英語じゃない場合は多言語に強い char_wb n-gram を使う
+        vec = TfidfVectorizer(analyzer="char_wb", min_df=2, ngram_range=(3, 5))
+
     X_liked = vec.fit_transform(liked_texts)
     X_cand = vec.transform(cand_texts)
     sims = cosine_similarity(X_cand, X_liked).mean(axis=1)
