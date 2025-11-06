@@ -13,3 +13,7 @@ dependencies:
   - beautifulsoup4
   - tenacity
   - requests
+  - pip
+  - pip:
+    - fugashi
+    - unidic-lite

@@ -14,6 +14,11 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 from translator import translate_texts
 
+from fugashi import Tagger
+tagger = Tagger()
+
+def ja_tokenize(text):
+    return [w.surface for w in tagger(text)]
 
 def strip_html(s):
     return BeautifulSoup(s or "", "html.parser").get_text(" ", strip=True)
@@ -163,7 +168,9 @@ def score_candidates(candidates, likes, cfg):
         vec = TfidfVectorizer(max_features=cfg.get("tfidf_max_features", 8000), ngram_range=(1, 2))
     else:
         # 英語じゃない場合は多言語に強い char_wb n-gram を使う
-        vec = TfidfVectorizer(analyzer="char_wb", min_df=2, ngram_range=(3, 5))
+        # vec = TfidfVectorizer(analyzer="char_wb", min_df=2, ngram_range=(3, 5))
+        # 日本語用のトークナイザを使う
+        vec = TfidfVectorizer(tokenizer=ja_tokenize, token_pattern=None, ngram_range=(1, 2))
 
     X_liked = vec.fit_transform(liked_texts)
     X_cand = vec.transform(cand_texts)

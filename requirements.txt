@@ -6,3 +6,5 @@ python-dateutil
 beautifulsoup4
 tenacity
 requests
+fugashi
+unidic-lite
