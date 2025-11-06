@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Nov 2025 06:34:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 06:35:14 +0000</lastBuildDate>
     <item>
-      <title>GeoCrossBench: リモートセンシングのためのクロスバンド一般化</title>
-      <link>http://arxiv.org/abs/2511.02831v1</link>
-      <description>リモートセンシング衛星の数と多様性は時間とともに増加していますが、ラベル付きデータの大部分は古い衛星から取得されています。地球観測の基礎モデルがスケールアップするにつれて、新しい衛星をサポートするための（再）トレーニングのコストも増大するため、新しい衛星へのモデルの一般化能力がますます重要になります。本研究では、人気のあるGeoBenchベンチマークを新しい評価プロトコルで拡張したGeoCrossBenchを紹介します。このベンチマークは、インディストリビューション性能、バンド重複のない衛星への一般化、そしてトレーニングセットに対して追加バンドを持つ衛星への一般化をテストします。また、ChannelViTの自己教師付き拡張であるChiViTを開発し、衛星間性能を向上させます。まず、リモートセンシングのための最良の基礎モデル（DOFA、TerraFM）でさえ、インディストリビューション設定ではDINOv3のような汎用モデルよりも優れた性能を発揮しないことを示します。第二に、バンドの重複がない新しい衛星に一般化すると、すべてのモデルのパフォーマンスが2～4倍低下し、ChiViTは次点のDI (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2511.02831v1</guid>
-      <pubDate>Tue, 04 Nov 2025 18:58:20 +0000</pubDate>
+      <title>AnaFlow: 推論駆動型の説明可能かつサンプル効率の高いアナログ回路サイジングのためのエージェント型LLMベースのワークフロー</title>
+      <link>http://arxiv.org/abs/2511.03697v1</link>
+      <description>アナログ/ミックスシグナル回路は、電子機器と物理世界とのインターフェースに不可欠です。しかし、その設計は依然として大部分が手作業で行われており、設計サイクルが長く、エラーが発生しやすい状況となっています。近年のAIベースの強化学習や生成AIの台頭により、この作業を自動化する新しい手法が開発されましたが、多くの時間のかかるシミュレーションが必要となることが、全体的な効率を阻害する重大なボトルネックとなっています。さらに、結果として得られる設計ソリューションの説明可能性の欠如が、ツールの広範な採用を妨げています。これらの問題に対処するため、サンプル効率が高く説明可能なアナログ回路のサイズ決定のための、新しいエージェントAIフレームワークが提案されています。このフレームワークは、マルチエージェントワークフローを採用しており、専用の大規模言語モデル（LLM）ベースのエージェントが協力して回路トポロジを解釈し、設計目標を理解し、人間が解釈可能な推論を用いて目標達成に向けて回路の設計パラメータを反復的に改良します。適応型シミュレーション戦略は、高いサンプル効率をもたらすインテリジェントな制御を実現 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2511.03697v1</guid>
+      <pubDate>Wed, 05 Nov 2025 18:24:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
