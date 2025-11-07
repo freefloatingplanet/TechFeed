@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Nov 2025 13:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 06:35:31 +0000</lastBuildDate>
     <item>
       <title>NASA、マーシャル宇宙飛行センターのISS職員を数十人レイオフ–月や火星の探査を優先</title>
       <link>https://uchubiz.com/article/new67365/</link>
@@ -44,13 +44,6 @@
       <pubDate>Mon, 03 Nov 2025 22:55:22 +0000</pubDate>
     </item>
     <item>
-      <title>31歳・衛星通信・放送業界「宇宙業界の給与相場と、転職した会社が倒産した場合のキャリアパスを知りたい」【宇宙ビジネスキャリア相談室】【PR】</title>
-      <link>https://sorabatake.jp/42926/</link>
-      <description>宇宙ビジネスに関心を持つ皆さまからキャリアに関する質問を募集。「給与相場」「宇宙業界内の事業領域区分とキャリアパス」「会社の継続性」に関する質問に宇宙人材エージェントを運営する株式会社インバイトユーの河辺さんにご回答いただきました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/42926/</guid>
-      <pubDate>Mon, 27 Oct 2025 23:01:39 +0000</pubDate>
-    </item>
-    <item>
       <title>宇宙スタートアップの「スピード」需要に対応–デジタルで部品加工を劇的に早めるミスミの実力</title>
       <link>https://uchubiz.com/article/int67033/</link>
       <description>製造業における“インフラ”として名高い企業がある。主に工場などの製造現場で用いる装置類の機械部品を供給しているミスミだ。紙の図面をやり取りして部品調達していた時代に、膨大なパターンの製品を1つのカタログにし既製品化する […] (source: Uchubiz)</description>
@@ -77,6 +70,13 @@
       <description>欧州に巨大宇宙企業が誕生する見通しです。2025年10月23日、Airbus、Leonardo、Thalesの3社が、宇宙事業を統合し、新会社を設立するための覚書（MOU）を締結したと発表しました。その概要についてご紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/43139/</guid>
       <pubDate>Mon, 03 Nov 2025 23:02:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>「空からガロア理論の本が降ってきた」数学専攻からAI企業を経て、SAR衛星の魅力にハマったテックリードのキャリア遍歴</title>
+      <link>https://sorabatake.jp/43241/</link>
+      <description>非宇宙業界から宇宙業界に転職をした人に焦点を当てたインタビュー連載「Why Space」、12人目のインタビュイーはスペースシフトのテックリード、安井秀輔さんです。安井さんが考える宇宙業界の面白さと展望とは。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/43241/</guid>
+      <pubDate>Thu, 06 Nov 2025 23:00:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
