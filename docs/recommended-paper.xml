@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Nov 2025 06:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 06:31:55 +0000</lastBuildDate>
     <item>
       <title>ドクター・ウェル：シンボリック世界モデルを用いた動的推論と学習
 具体化されたLLMベースのマルチエージェント・コラボレーション</title>
@@ -17,19 +17,19 @@
       <pubDate>Thu, 06 Nov 2025 18:37:18 +0000</pubDate>
     </item>
     <item>
+      <title>SnapStream: データフローアクセラレータによる効率的な長シーケンスデコード</title>
+      <link>http://arxiv.org/abs/2511.03092v2</link>
+      <description>1000億以上のパラメータを持ち、10万以上のコンテキスト長をサポートする大規模言語モデル（LLM）の普及により、大規模なKVキャッシュをサポートするためのオンチップメモリの需要が高まっています。StreamingLLMやSnapKVなどの技術は、モデルの精度を維持しながらKVキャッシュサイズを制御する方法を示しています。しかしながら、これらの技術は、vLLMやSGLangなどのフレームワークを用いた産業用途では一般的に使用されていません。その理由は2つあります。1つは、これらのフレームワークで採用されている静的グラフと連続バッチ処理手法により、標準的なマルチヘッドアテンションアルゴリズムへの変更が困難になること、もう1つは、このような技術が現代の命令追跡モデルや推論モデルに及ぼす精度への影響が十分に理解されていないため、これらの技術を実装する必要性が見えにくいことです。本稿では、Llama-3.1-8B-InstructとDeepSeek-R1におけるこれらの精度への影響を検証し、大規模に展開可能なKVキャッシュ圧縮手法であるSnapStreamを開発します。SambaNova SN (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2511.03092v2</guid>
+      <pubDate>Wed, 05 Nov 2025 00:38:31 +0000</pubDate>
+    </item>
+    <item>
       <title>CancerGUIDE：内部不一致によるがんガイドラインの理解
 推定</title>
       <link>http://arxiv.org/abs/2509.07325v2</link>
       <description>全米総合がんセンターネットワーク（NCCN）は、がん治療に関するエビデンスに基づいたガイドラインを提供しています。複雑な患者の症状をガイドラインに準拠した治療推奨に翻訳するには、時間がかかり、専門知識が必要であり、誤りが発生しやすいという問題があります。大規模言語モデル（LLM）機能の進歩は、治療推奨の作成に必要な時間を短縮し、精度を向上させることが期待されます。本研究では、非小細胞肺がん（NSCLC）患者に対し、ガイドラインに準拠した治療経路を自動的に生成するLLMエージェントベースのアプローチを紹介します。本アプローチの貢献は3つあります。まず、NSCLC患者121例の新たな縦断的データセットを構築しました。このデータセットには、臨床経験、診断結果、病歴が含まれており、それぞれに専門医資格を持つ腫瘍専門医が対応するNCCNガイドラインの経路を専門的に注釈付けしています。第二に、既存のLLMは、モデル開発と評価の両方において高品質なプロキシベンチマーク生成を可能にするドメイン固有の知識を有し、専門家による注釈付きベンチマークとの強い相関（スピアマン係数r=0.88、RMSE=0.08 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
       <guid isPermaLink="true">http://arxiv.org/abs/2509.07325v2</guid>
       <pubDate>Tue, 09 Sep 2025 01:49:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>SnapStream: データフローアクセラレータによる効率的な長シーケンスデコード</title>
-      <link>http://arxiv.org/abs/2511.03092v2</link>
-      <description>1000億以上のパラメータを持ち、10万以上のコンテキスト長をサポートする大規模言語モデル（LLM）の普及により、大規模なKVキャッシュをサポートするためのオンチップメモリの需要が高まっています。StreamingLLMやSnapKVなどの技術は、モデルの精度を維持しながらKVキャッシュサイズを制御する方法を示しています。しかしながら、これらの技術は、vLLMやSGLangなどのフレームワークを用いた産業用途では一般的に使用されていません。その理由は2つあります。1つは、これらのフレームワークで採用されている静的グラフと連続バッチ処理手法により、標準的なマルチヘッドアテンションアルゴリズムへの変更が困難になること、もう1つは、このような技術が現代の命令追跡モデルや推論モデルに及ぼす精度への影響が十分に理解されていないため、これらの技術を実装する必要性が見えにくいことです。本稿では、Llama-3.1-8B-InstructとDeepSeek-R1におけるこれらの精度への影響を検証し、大規模に展開可能なKVキャッシュ圧縮手法であるSnapStreamを開発します。SambaNova SN (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2511.03092v2</guid>
-      <pubDate>Wed, 05 Nov 2025 00:38:31 +0000</pubDate>
     </item>
     <item>
       <title>非凸無線異種連合学習：
@@ -49,7 +49,7 @@
       <pubDate>Thu, 06 Nov 2025 18:59:59 +0000</pubDate>
     </item>
     <item>
-      <title>数学プレースメントアセスメントの多手法分析：古典的アプローチ、
+      <title>数学プレースメント評価の多手法分析：古典的アプローチ、
 機械学習アプローチ、クラスタリングアプローチ</title>
       <link>http://arxiv.org/abs/2511.04667v1</link>
       <description>本研究では、198名の学生を対象に実施された40項目の数学プレースメントテストを、古典的テスト理論、機械学習、教師なしクラスタリングを組み合わせたマルチメソッドフレームワークを用いて評価しました。古典的テスト理論による分析の結果、項目の55%が優れた識別力（$D \geq 0.40$）を示し、30%は識別力が低く（$D &lt; 0.20$）、置換が必要であることが明らかになりました。

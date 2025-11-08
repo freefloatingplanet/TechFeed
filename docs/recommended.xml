@@ -7,17 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Nov 2025 06:35:26 +0000</lastBuildDate>
-    <item>
-      <title>AIエージェントに「責任を持たせる」ために必要なもの</title>
-      <link>https://qiita.com/autotaker1984/items/c30eafd8ab6a5e52cf9d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-AI モデルやそれを核とした AI エージェントの技術が急速に進化しています。
-その一方で、AI に業務を任せようとすると試してみてもなかなかうまくいかない、というのが 2025 年 11 月現在の実情ではないでしょうか？
-本記事では、AI エージェントに仕事を... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/autotaker1984/items/c30eafd8ab6a5e52cf9d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 05 Nov 2025 21:55:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Nov 2025 06:31:45 +0000</lastBuildDate>
     <item>
       <title>UnrealEngine5の教科書 [C++入門編,第三巻]</title>
       <link>https://zenn.dev/daichi_gamedev/books/unreal-engine-cplusplus</link>
@@ -36,11 +26,17 @@ UnrealEngine5(UE5)のC++を使ったゲーム制作について、初心者の�
       <pubDate>Wed, 05 Nov 2025 18:20:37 +0000</pubDate>
     </item>
     <item>
-      <title>アマゾンからの段ボールに見覚えある「シミ」　男性が通報した理由は：朝日新聞</title>
-      <link>https://www.asahi.com/articles/ASTC62V4STC6UTIL016M.html</link>
-      <description>東京都内に住む男性のもとに10月1日、ネット通販で注文していた浴室暖房乾燥機1台が届いた。新品のはずの段ボールには、黒いシミがあった。それを見た男性は、急いで警視庁に電話をかけた。なぜ「クレーム」で… (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.asahi.com/articles/ASTC62V4STC6UTIL016M.html</guid>
-      <pubDate>Fri, 07 Nov 2025 01:38:47 +0000</pubDate>
+      <title>Asyncio 再訪：百万並行処理への道</title>
+      <link>https://zenn.dev/cepe_jp/articles/684c51c7dfbf30</link>
+      <description>序文
+async/await の背後にある驚くべきエンジニアリングと，
+シングルスレッドで百万並行処理に辿る道。
+
+ 概要
+もしあなたが大多数の Python 開発者と同じなら，おそらく日常業務で asyncio を使っているでしょう。asyncやawaitキーワードをあちこちに散りばめ，物事を「並行して」実行する必要があるときにはasyncioをインポートする。しかし，ここで不都合な真実をお伝えしましょう：私たちの多くは，非同期コードを「カーゴ・カルト・プログラミング ¹」のごとく，表面的に真似ているに過ぎないのです。
+最近，昔のコードをレビューしていて，思わず背筋が凍るパターンをいく... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/cepe_jp/articles/684c51c7dfbf30</guid>
+      <pubDate>Thu, 06 Nov 2025 06:05:07 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】そんなに速くない？WebAssemblyとネイティブコードでガチのパフォーマンス比較してみた</title>
@@ -50,25 +46,7 @@ UnrealEngine5(UE5)のC++を使ったゲーム制作について、初心者の�
       <pubDate>Wed, 05 Nov 2025 21:08:47 +0000</pubDate>
     </item>
     <item>
-      <title>「生成AIに仕事を奪われるのでは？」「勝手に学習に使われていない？」―カメラマンの不安に、Adobe Fireflyはどう応えているのか - はてなニュース</title>
-      <link>https://hatenanews.com/articles/2025/11/07/103000</link>
-      <description>近年、さまざまな画像生成AIが登場し、クリエイティブの世界が大きく変わりつつあります。 特にプロのカメラマンやフォトグラファーたちは、「このまま進化するとAIに仕事が奪われるのでは」というキャリアへの不安と、生成AIの学習に「作品が勝手に使われるのでは」という著作権への不安、その両方に直面しています。 ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://hatenanews.com/articles/2025/11/07/103000</guid>
-      <pubDate>Fri, 07 Nov 2025 02:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reactにおける&lt;Component /&gt;とComponent()の違い</title>
-      <link>https://zenn.dev/chot/articles/f0d20f46b60818</link>
-      <description>Reactでは、JSXを返す関数を組み合わせてアプリケーションを作っていきます。それらの関数は&lt;Component /&gt;のように呼び出すこともあれば、Component()のように呼び出すこともあります。後者を使用する機会は多くないかもしれませんが、例えばrender hooksパターンによってカスタムフックからUIを返したいときに使われることがあります。
-一見どちらも同じようにJSXを返しますが、Reactはそれらをまったく異なるものとして扱います。
-この投稿では、2つの呼び出し方の違いと、それによって挙動がどう変わるのかを見ていきます。
-
- 「コンポーネント呼び出し」と「... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/chot/articles/f0d20f46b60818</guid>
-      <pubDate>Tue, 04 Nov 2025 05:27:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>ユーザーの質問にUIつきで応答するChatGPTアプリを作る（Apps SDK）</title>
+      <title>Apps SDKでシンプルなChatGPTアプリを作る</title>
       <link>https://zenn.dev/himara2/articles/ae362b516e9e52</link>
       <description>Apps SDKを使うとChatGPTで動くアプリを作ることができます。
 
@@ -84,16 +62,47 @@ UIは柔軟に... (source: Zennのトレンド)</description>
       <pubDate>Thu, 06 Nov 2025 10:54:16 +0000</pubDate>
     </item>
     <item>
-      <title>Observability Conference Tokyo 2025にオーガナイザーとして参加してました</title>
-      <link>https://zenn.dev/katzchang/articles/3b6c0da97d090d</link>
-      <description>2025年10月27日、これを書いている時点で先週、Observability Conference Tokyo 2025というカンファレンスを開催しました。私は「オーガナイザー」という立場で、カンファレンス全体の雰囲気作りを担いながら、当日はクロージングキーノートでも少し話をしました。
-いくつか、やったことを振り返っていきます。
+      <title>フロントエンドとサーバーでのバリデーション責務分解</title>
+      <link>https://zenn.dev/ryugen04/articles/20251104-frontend-validation</link>
+      <description>はじめに
+先日、Xでこんな投稿が話題になっていました。
+https://x.com/okd61807313/status/1984917649386615251
+実際のサイトを見ていないため詳細は不明ですが、事象としてはフロントエンドのJavaScriptだけでバリデーションを実装し、サーバーサイドに同等以上のバリデーションがなかったケースです。
+DevToolsで回避できるということは、悪意あるユーザーが不正なデータを送信できてしまいます。
+サーバーサイドではすべてのバリデーションを実装するべきです。セキュリティの観点でも、ドメインの正当性を保つ意味でも、サーバーは最後の砦となりま... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ryugen04/articles/20251104-frontend-validation</guid>
+      <pubDate>Wed, 05 Nov 2025 12:02:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>「三項演算子」の名前に値する演算は条件演算子以外にあるか：アセンブリー言語の観点から</title>
+      <link>https://zenn.dev/mod_poppo/articles/ternary-operator</link>
+      <description>三項演算子 (ternary operator) とは、多くの場合はC系の言語にある &lt;条件&gt; ? &lt;真の場合の式&gt; : &lt;偽の場合の式&gt; の形の式（条件演算子）を指します。3つの式を入力として取る演算子なので三項演算子、というわけです。
+しかし、「三項演算子」という普遍的にも思える名前で「条件演算子」という具体的な演算子を指して良いのでしょうか？例えば単に「二項演算子」と言って「減算（マイナス）」を指したら「二項演算子は他に加算、乗算などがあるだろう」と文句を言われそうです。そういう文句が少ないのは、三項演算子と呼べる対象が少ないからなのでしょうか？... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mod_poppo/articles/ternary-operator</guid>
+      <pubDate>Thu, 06 Nov 2025 09:12:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>なぜタスク管理をNotionからGitHub Projectsへ移行したのか - AI時代の開発効率を最大化する選択</title>
+      <link>https://zenn.dev/pivotmedia/articles/pivot-notion-to-github-projects</link>
+      <description>こんにちは。PIVOTでソフトウェアエンジニア、スクラムマスターを務めて(いる|いた)@tawachanです。
+この記事では、PIVOTのプロダクトチームがNotionからGitHub Projectsへタスク管理ツールを移行した経緯と、具体的な実装方法について紹介します。
 
- 開催趣旨をどう作ったか
-
-まず、ウェブサイト https://o11con.jp に掲載するための開催趣旨を作りました。このカンファレンスは誰に向けたものか、そして、参加することで何を得られるのかを簡潔に説明し、「参加したい！」と思ってもらうための文章です... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/katzchang/articles/3b6c0da97d090d</guid>
-      <pubDate>Wed, 05 Nov 2025 06:11:48 +0000</pubDate>
+ 背景：AIファーストチームへの変革
+詳細な背景については、前回の記事「スクラムからカンバンへの移行——ソフトウェアエンジニアがマネージャーになる時代に」で、チームの思想やプロセスの変化について紹介しました。今回は、その思想を支える具体的なツールの変化に焦点を当てます。
+前回の記事で紹介したように、私たちのチームは... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pivotmedia/articles/pivot-notion-to-github-projects</guid>
+      <pubDate>Wed, 05 Nov 2025 08:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>DSPy + LangSmithでプロンプトを全自動で育ててみた</title>
+      <link>https://zenn.dev/monox_dev/articles/7f5b8bb1423cbf</link>
+      <description>はじめに
+「システムに組み込むプロンプトって、どうやって修繕・管理すればいいんだ…？」
+LLM関係のプロダクトを作っていて、この悩みにぶつかった人は多いんじゃないでしょうか。私もその一人でした。
+最初は手動でプロンプトを書いて、結果を目視で確認して、ちょっとずつ修正して…を繰り返します。数パターンなら何とかなりますが、テストケースが増えてくるとすぐに破綻します。「あのプロンプト変更でこっちのケースが壊れた」「前のバージョンの方がよかった気がする…」といった状況、経験ありませんか？
+この記事では、評価×改善のループを自動化して、プロンプトが勝手に進化していく環境を、AIプロダクト開発... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/monox_dev/articles/7f5b8bb1423cbf</guid>
+      <pubDate>Thu, 06 Nov 2025 06:03:10 +0000</pubDate>
     </item>
     <item>
       <title>Kiroを使ってZennの執筆効率と品質を改善する</title>
