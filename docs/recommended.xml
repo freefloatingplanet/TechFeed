@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Nov 2025 06:31:45 +0000</lastBuildDate>
-    <item>
-      <title>UnrealEngine5の教科書 [C++入門編,第三巻]</title>
-      <link>https://zenn.dev/daichi_gamedev/books/unreal-engine-cplusplus</link>
-      <description>📘この本について
-UnrealEngine5(UE5)のC++を使ったゲーム制作について、初心者の方向けに1から丁寧に解説している入門本です。C++基礎からUnrealEngineでのC++を使用したゲーム制作の基本機能の実装までゲーム制作に必要な項目をまとめています。
-
-✒️本は既存のページ含めて現在制作中です
-本は既存ページ含めて現在制作中です。随時ページを追加していきます。アップデートはすぐ反映されるので読者の方は常に最新の状態の本を読んでいただけます。ページは事前報告なくアップデートされます。ご了承ください。
-
-📰直近のアップデート情報
-2025/11/06 C++入門編,第三巻を公開しました!
-2025/10/18  C++入門編,第三巻の執筆を開始しました!
-
-🎉UnrealEngine5の教科書 第一巻と第二巻がご好評につき、第三巻の制作が決定しました！追加予定の章はあくまで予定で、まだ制作は確定している訳ではありません。本にいいねや共有して頂けると非常に励みになります。今後もアップデートに励んでいきます。 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/daichi_gamedev/books/unreal-engine-cplusplus</guid>
-      <pubDate>Wed, 05 Nov 2025 18:20:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Asyncio 再訪：百万並行処理への道</title>
-      <link>https://zenn.dev/cepe_jp/articles/684c51c7dfbf30</link>
-      <description>序文
-async/await の背後にある驚くべきエンジニアリングと，
-シングルスレッドで百万並行処理に辿る道。
-
- 概要
-もしあなたが大多数の Python 開発者と同じなら，おそらく日常業務で asyncio を使っているでしょう。asyncやawaitキーワードをあちこちに散りばめ，物事を「並行して」実行する必要があるときにはasyncioをインポートする。しかし，ここで不都合な真実をお伝えしましょう：私たちの多くは，非同期コードを「カーゴ・カルト・プログラミング ¹」のごとく，表面的に真似ているに過ぎないのです。
-最近，昔のコードをレビューしていて，思わず背筋が凍るパターンをいく... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/cepe_jp/articles/684c51c7dfbf30</guid>
-      <pubDate>Thu, 06 Nov 2025 06:05:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Nov 2025 06:31:58 +0000</lastBuildDate>
     <item>
       <title>【海外記事紹介】そんなに速くない？WebAssemblyとネイティブコードでガチのパフォーマンス比較してみた</title>
       <link>https://techfeed.io/entries/690bbcdfb335ef5804a057f4?from=rss</link>
@@ -46,32 +16,47 @@ async/await の背後にある驚くべきエンジニアリングと，
       <pubDate>Wed, 05 Nov 2025 21:08:47 +0000</pubDate>
     </item>
     <item>
-      <title>Apps SDKでシンプルなChatGPTアプリを作る</title>
-      <link>https://zenn.dev/himara2/articles/ae362b516e9e52</link>
-      <description>Apps SDKを使うとChatGPTで動くアプリを作ることができます。
-
-今回は「Z Coffee」というカフェを想定し、ユーザーとのやり取りに応じて店舗情報を表示するアプリを作ってみました。
-これをどのように実装したのかをまとめてみます。
-
- ChatGPT Appsとは？
-OpenAIが提供する仕組みで、ChatGPTとの会話の中で3rd partyが作成したアプリをリッチなUI付きで表示できるものです。
-例えば「渋谷付近でホテルを予約したい」とユーザーが尋ねた際、Booking.comのアプリが反応して渋谷近辺のホテルの一覧を画像付きで表示する、みたいな感じです。
-
-UIは柔軟に... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/himara2/articles/ae362b516e9e52</guid>
-      <pubDate>Thu, 06 Nov 2025 10:54:16 +0000</pubDate>
+      <title>【因果推論】反実仮想モデル5選：「もしも」を統計的に推定する手法の比較</title>
+      <link>https://qiita.com/ktdatascience/items/713dbfe1e80aabff7318?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+データ分析の現場では、「もし施策を実施しなかったら、どうなっていたか？」という問いに答える必要があります。しかし、実際に施策を受けた人が「施策を受けなかった場合」の姿を観測することはできません。
+反実仮想モデルは、この観測できない「もしも」の世界を統計的に推定す... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/ktdatascience/items/713dbfe1e80aabff7318?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 08 Nov 2025 08:00:47 +0000</pubDate>
     </item>
     <item>
-      <title>フロントエンドとサーバーでのバリデーション責務分解</title>
-      <link>https://zenn.dev/ryugen04/articles/20251104-frontend-validation</link>
-      <description>はじめに
-先日、Xでこんな投稿が話題になっていました。
-https://x.com/okd61807313/status/1984917649386615251
-実際のサイトを見ていないため詳細は不明ですが、事象としてはフロントエンドのJavaScriptだけでバリデーションを実装し、サーバーサイドに同等以上のバリデーションがなかったケースです。
-DevToolsで回避できるということは、悪意あるユーザーが不正なデータを送信できてしまいます。
-サーバーサイドではすべてのバリデーションを実装するべきです。セキュリティの観点でも、ドメインの正当性を保つ意味でも、サーバーは最後の砦となりま... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ryugen04/articles/20251104-frontend-validation</guid>
-      <pubDate>Wed, 05 Nov 2025 12:02:33 +0000</pubDate>
+      <title>Next.jsで練習するページ遷移型の検索機能</title>
+      <link>https://zenn.dev/dev_tips84/articles/d2b8573fb6dd2c</link>
+      <description>この記事ではNext.jsを使いながら、Webの基本にのっとった「ページ遷移型の検索機能」というわかりやすい題材を学びます。「遷移」と書くとなんだか難しく感じますが、その仕組みはとてもシンプルです。
+また、コーディングの途中でAIツールも使いますので、AIを使ってNext.jsやReactのコードを書き、読んで理解する練習にもなります。
+
+
+ なぜページ遷移型の検索を題材にするのか？
+ひとことで言うと、簡単なのに十分学ぶ価値があるからです。
+Next.jsのようなフレームワークを使っていると、いくらでも複雑で凝った設計・実装が出来てしまいます。検索機能ひとつとっても色々な設計・実装が考え... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dev_tips84/articles/d2b8573fb6dd2c</guid>
+      <pubDate>Sat, 08 Nov 2025 14:24:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIに「仕様書」を読ませたら、レビューの質が爆上がりする？</title>
+      <link>https://zenn.dev/flinters_blog/articles/25ffbe3c511967</link>
+      <description>こんにちは、FLINTERS新卒エンジニアの野崎です。
+先日、社内で開催された「AI強化会」というLT会で、「仕様駆動開発でAIレビューを強化したい」というテーマで登壇させていただきました 。
+今回は、そのLTでお話しした内容と、その後のアップデートも踏まえて、登壇内容をブログとしてご紹介させていただきます。
+
+ 「仕様書」というドキュメントの可能性
+現在、私のチームでは仕様駆動開発（SDD）の導入を進めています。
+SDDとは、「仕様書を唯一の信頼できる情報源（Single Source of Truth）とする」開発手法です 。
+導入にあたり、Spec kitやOpenspecといった... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/flinters_blog/articles/25ffbe3c511967</guid>
+      <pubDate>Thu, 06 Nov 2025 03:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>ニューヨーク市長選に勝利したマムダニ陣営のSNS戦略は何が新しかったのか？オールドメディアが驚嘆したその手法 【生成AI事件簿】あらゆるバイラル動画は具体的な争点や政策と連動、インフルエンサーをメディア化したのも画期的 | JBpress (ジェイビープレス)</title>
+      <link>https://jbpress.ismedia.jp/articles/-/91589</link>
+      <description>（小林 啓倫：経営コンサルタント） 現地時間の11月4日、米ニューヨーク市で市長選が行われ、民主党候補のゾーラン・マムダニが当選した。彼の当選は全米、いや全世界から驚きをもって受け止められている。世界各国でいわゆる「右派」と見なされる政権が誕生し、米国もトランプ政権が極めて右派的な姿勢を見せる中、マム... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://jbpress.ismedia.jp/articles/-/91589</guid>
+      <pubDate>Sat, 08 Nov 2025 00:38:01 +0000</pubDate>
     </item>
     <item>
       <title>「三項演算子」の名前に値する演算は条件演算子以外にあるか：アセンブリー言語の観点から</title>
@@ -82,27 +67,25 @@ DevToolsで回避できるということは、悪意あるユーザーが不正
       <pubDate>Thu, 06 Nov 2025 09:12:42 +0000</pubDate>
     </item>
     <item>
-      <title>なぜタスク管理をNotionからGitHub Projectsへ移行したのか - AI時代の開発効率を最大化する選択</title>
-      <link>https://zenn.dev/pivotmedia/articles/pivot-notion-to-github-projects</link>
-      <description>こんにちは。PIVOTでソフトウェアエンジニア、スクラムマスターを務めて(いる|いた)@tawachanです。
-この記事では、PIVOTのプロダクトチームがNotionからGitHub Projectsへタスク管理ツールを移行した経緯と、具体的な実装方法について紹介します。
-
- 背景：AIファーストチームへの変革
-詳細な背景については、前回の記事「スクラムからカンバンへの移行——ソフトウェアエンジニアがマネージャーになる時代に」で、チームの思想やプロセスの変化について紹介しました。今回は、その思想を支える具体的なツールの変化に焦点を当てます。
-前回の記事で紹介したように、私たちのチームは... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pivotmedia/articles/pivot-notion-to-github-projects</guid>
-      <pubDate>Wed, 05 Nov 2025 08:00:01 +0000</pubDate>
+      <title>おい、スマホを置け - じゃあ、おうちで学べる</title>
+      <link>https://syu-m-5151.hatenablog.com/entry/2025/11/07/120351</link>
+      <description>はじめに 「本が読めない」――多くの人がそう言います。それも、決して能力の低い人たちではありません。仕事は速く、正確で優秀な人たちです。それなのに、本が読めない。数ページで集中力が切れてしまう。気づくとスマホを見ている。「昔は読めたんですけどね」という声もよく聞きます。昔は確かに読めたのに、今は読め... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://syu-m-5151.hatenablog.com/entry/2025/11/07/120351</guid>
+      <pubDate>Fri, 07 Nov 2025 04:00:49 +0000</pubDate>
     </item>
     <item>
-      <title>DSPy + LangSmithでプロンプトを全自動で育ててみた</title>
-      <link>https://zenn.dev/monox_dev/articles/7f5b8bb1423cbf</link>
-      <description>はじめに
-「システムに組み込むプロンプトって、どうやって修繕・管理すればいいんだ…？」
-LLM関係のプロダクトを作っていて、この悩みにぶつかった人は多いんじゃないでしょうか。私もその一人でした。
-最初は手動でプロンプトを書いて、結果を目視で確認して、ちょっとずつ修正して…を繰り返します。数パターンなら何とかなりますが、テストケースが増えてくるとすぐに破綻します。「あのプロンプト変更でこっちのケースが壊れた」「前のバージョンの方がよかった気がする…」といった状況、経験ありませんか？
-この記事では、評価×改善のループを自動化して、プロンプトが勝手に進化していく環境を、AIプロダクト開発... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/monox_dev/articles/7f5b8bb1423cbf</guid>
-      <pubDate>Thu, 06 Nov 2025 06:03:10 +0000</pubDate>
+      <title>マックの注文端末でメニューに価格が表示されてなくて困る話…モバイルオーダーでは見れるのに店舗だとなぜ見れないのか疑問だし、UIが問題と感じる人も</title>
+      <link>https://togetter.com/li/2625527</link>
+      <description>マックの店舗端末でメニューの単価が表示されず、欲しい品をカートに入れて初めて合計が分かる仕様に不満。モバイル注文では確認できるのに店頭端末は非表示で予算管理しにくく、追加提案も煩わしい。セットの価格は高く感じ、以前より分かりづらくなったとの指摘がある。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2625527</guid>
+      <pubDate>Sat, 08 Nov 2025 09:43:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>「古いiPhoneでLINE使えなくなる」ポスターに批判殺到　掲示元の「ノジマ」に意図を聞いた</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2511/08/news036.html</link>
+      <description>家電量販店の「ノジマ」が一部店舗で掲示したポスターが、利用者の誤解を招くとして批判を集めている。問題となったのは、「一部機種でLINEが使えなくなります」という文言だ。実際には、OSやアプリを最新の状態にすれば引き続き利用できるにもかかわらず、あたかもLINEが即座に利用不可になるような印象を与えていた。 ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2511/08/news036.html</guid>
+      <pubDate>Sat, 08 Nov 2025 09:52:26 +0000</pubDate>
     </item>
     <item>
       <title>Kiroを使ってZennの執筆効率と品質を改善する</title>
@@ -118,18 +101,6 @@ Zenn CLI をインストール済み
 上記の準備がまだの方は、以下のガイドに従って事前準... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/kiro-zenn-writing-efficiency-improvement</guid>
       <pubDate>Thu, 06 Nov 2025 09:18:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>カードゲームの対戦機能をクライアント主体で設計したらこうなった</title>
-      <link>https://zenn.dev/niwatly/articles/295841b00bcb7f</link>
-      <description>はじめに
-お久しぶりです。にわとりです。
-過去に個人開発でカードゲームをリリースしたことがありまして、その時の設計、特にインゲーム部分の設計を公開したいなと以前から思ってました。
-この度 claude code のおかげでコードベースから設計書の書き起こしが大変簡単にできるようになったので、その内容を共有します。
-僕個人は他人の設計書を読むのは比較的楽しいと感じるほうなので、そのような方、とくにカードゲームのロジックの複雑さを肴に酒が飲めるような方に楽しんでもらえると幸いです。
-ゲーム概要やルール説明は一切省略して始めますがご了承ください。では、以下からは claude と一緒に書い... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/niwatly/articles/295841b00bcb7f</guid>
-      <pubDate>Tue, 04 Nov 2025 12:56:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

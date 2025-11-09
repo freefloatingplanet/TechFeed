@@ -7,37 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Nov 2025 06:31:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 06:32:05 +0000</lastBuildDate>
     <item>
-      <title>ドクター・ウェル：シンボリック世界モデルを用いた動的推論と学習
-具体化されたLLMベースのマルチエージェント・コラボレーション</title>
-      <link>http://arxiv.org/abs/2511.04646v1</link>
-      <description>協調型マルチエージェントプランニングでは、エージェントが部分的な情報と限られたコミュニケーションで共同で意思決定を行う必要があります。軌道レベルでの調整は、タイミングや動きの小さなずれが連鎖的に衝突に発展するため、しばしば失敗します。シンボリックプランニングは、抽象度を高め、同期と共同の進歩を可能にする最小限の行動語彙を提供することで、この課題を軽減します。本稿では、協調型マルチエージェントプランニングのための分散型ニューロシンボリックフレームワークである DR. WELL を紹介します。協力は、2段階の交渉プロトコルを通じて展開されます。エージェントはまず、推論に基づいて候補となる役割を提案し、次に合意と環境制約の下で共同割り当てにコミットします。コミット後、各エージェントは、詳細な軌道を明らかにすることなく、自らの役割に関するシンボリックプランを独立して生成し、実行します。プランは、現在の状態を符号化し、エージェントの行動に応じて更新される共有世界モデルを介して、実行結果に基づいています。生の軌道ではなくシンボリックプランに基づいて推論することで、DR. WELLは、脆弱なステップ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2511.04646v1</guid>
-      <pubDate>Thu, 06 Nov 2025 18:37:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>SnapStream: データフローアクセラレータによる効率的な長シーケンスデコード</title>
-      <link>http://arxiv.org/abs/2511.03092v2</link>
-      <description>1000億以上のパラメータを持ち、10万以上のコンテキスト長をサポートする大規模言語モデル（LLM）の普及により、大規模なKVキャッシュをサポートするためのオンチップメモリの需要が高まっています。StreamingLLMやSnapKVなどの技術は、モデルの精度を維持しながらKVキャッシュサイズを制御する方法を示しています。しかしながら、これらの技術は、vLLMやSGLangなどのフレームワークを用いた産業用途では一般的に使用されていません。その理由は2つあります。1つは、これらのフレームワークで採用されている静的グラフと連続バッチ処理手法により、標準的なマルチヘッドアテンションアルゴリズムへの変更が困難になること、もう1つは、このような技術が現代の命令追跡モデルや推論モデルに及ぼす精度への影響が十分に理解されていないため、これらの技術を実装する必要性が見えにくいことです。本稿では、Llama-3.1-8B-InstructとDeepSeek-R1におけるこれらの精度への影響を検証し、大規模に展開可能なKVキャッシュ圧縮手法であるSnapStreamを開発します。SambaNova SN (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2511.03092v2</guid>
-      <pubDate>Wed, 05 Nov 2025 00:38:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>CancerGUIDE：内部不一致によるがんガイドラインの理解
-推定</title>
-      <link>http://arxiv.org/abs/2509.07325v2</link>
-      <description>全米総合がんセンターネットワーク（NCCN）は、がん治療に関するエビデンスに基づいたガイドラインを提供しています。複雑な患者の症状をガイドラインに準拠した治療推奨に翻訳するには、時間がかかり、専門知識が必要であり、誤りが発生しやすいという問題があります。大規模言語モデル（LLM）機能の進歩は、治療推奨の作成に必要な時間を短縮し、精度を向上させることが期待されます。本研究では、非小細胞肺がん（NSCLC）患者に対し、ガイドラインに準拠した治療経路を自動的に生成するLLMエージェントベースのアプローチを紹介します。本アプローチの貢献は3つあります。まず、NSCLC患者121例の新たな縦断的データセットを構築しました。このデータセットには、臨床経験、診断結果、病歴が含まれており、それぞれに専門医資格を持つ腫瘍専門医が対応するNCCNガイドラインの経路を専門的に注釈付けしています。第二に、既存のLLMは、モデル開発と評価の両方において高品質なプロキシベンチマーク生成を可能にするドメイン固有の知識を有し、専門家による注釈付きベンチマークとの強い相関（スピアマン係数r=0.88、RMSE=0.08 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2509.07325v2</guid>
-      <pubDate>Tue, 09 Sep 2025 01:49:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>非凸無線異種連合学習：
-バイアスと分散のトレードオフ</title>
-      <link>http://arxiv.org/abs/2510.26722v3</link>
-      <description>無線（OTA）連合学習（FL）は、無線多重アクセスチャネルの波形重ね合わせを利用してモデル更新を1回で集約するスケーラブルなパラダイムとして広く認識されています。既存のOTA-FL設計は、主に均一な無線環境（デバイス間でパス損失が等しい）を想定するか、収束を保証するためにゼロバイアス更新を強制することにより、ゼロバイアスモデル更新を強制します。しかし、不均一な無線環境では、このような設計は最も弱いデバイスによって制約され、更新の分散が増大します。さらに、バイアス付きOTA-FLのこれまでの分析は主に凸目的関数を扱っていますが、現代のAIモデルのほとんどは高度に非凸です。これらのギャップを踏まえ、本研究では、無線の不均一性下での一般的な滑らかな非凸目的関数に対する確率的勾配降下法（SGD）を用いたOTA-FLを研究します。我々は、構造化された時間不変のモデルバイアスを可能にしながら、分散更新を低減する新たなOTA-FL SGD更新を開発しました。バイアスと分散のトレードオフを明示的に示す有限時間定常性境界（期待時間平均二乗勾配ノルム）を導出します。このトレードオフを最適化するために、非凸 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2510.26722v3</guid>
-      <pubDate>Thu, 30 Oct 2025 17:22:57 +0000</pubDate>
+      <title>GentleHumanoid：接触を多用する人間と物体のインタラクションのための上半身の柔軟性学習</title>
+      <link>http://arxiv.org/abs/2511.04679v1</link>
+      <description>ヒューマノイドロボットは、安全で自然な物理的相互作用が不可欠な人間中心の環境で動作することが期待されています。しかし、最新の強化学習（RL）ポリシーのほとんどは、剛体追跡を重視し、外力を抑制しています。既存のインピーダンス拡張アプローチは、通常、ベースまたはエンドエフェクタの制御に限定されており、コンプライアンスを実現するよりも、極端な力への抵抗に重点を置いています。本稿では、インピーダンス制御を全身動作追跡ポリシーに統合し、上半身のコンプライアンスを実現するフレームワークであるGentleHumanoidを紹介します。その中核となるのは、抵抗接触（表面に押し付けたときの復元力）と誘導接触（人間の動作データからサンプリングされた押し引き）の両方をモデル化する、統一されたスプリングベースの定式化です。この定式化により、肩、肘、手首全体で運動学的に一貫した力が確保され、ポリシーをさまざまな相互作用シナリオにさらすことができます。安全性は、タスク調整可能な力の閾値によってさらにサポートされます。我々は、シミュレーションとUnitree G1ヒューマノイドの両方で、優しいハグ、座位から立位への (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2511.04679v1</guid>
+      <pubDate>Thu, 06 Nov 2025 18:59:33 +0000</pubDate>
     </item>
     <item>
       <title>ダークエネルギーサーベイ3年目の成果：シミュレーションに基づく$w$CDM推論
@@ -58,33 +34,11 @@
       <pubDate>Thu, 06 Nov 2025 18:53:07 +0000</pubDate>
     </item>
     <item>
-      <title>直接密度比推定としてのリース回帰</title>
-      <link>http://arxiv.org/abs/2511.04568v1</link>
-      <description>Riesz回帰は、因果パラメータおよび構造パラメータ推定のためのバイアス除去機械学習のツールとして注目を集めている（Chernozhukov et al., 2021）。本研究では、Riesz回帰が平均処置効果（ATE）推定を含む重要なケースにおいて、直接密度比推定（DRE）と密接に関連していることを示す。具体的には、Riesz回帰の考え方と目的は、直接密度比推定における最小二乗重要度フィッティング（LSIF、Kanamori et al., 2009）の考え方と目的と一致している。 Riesz回帰は、幅広い問題におけるRiesz表現体の推定に適用できるという意味で汎用性が高いが、DREとの等価性により、収束率分析、ブレグマン・ダイバージェンス最小化による損失関数の選択、ニューラルネットワークなどの柔軟なモデルの正則化手法など、特定のケースにおける既存の結果を直接インポートすることができる。逆に、バイアス除去機械学習におけるRiesz表現体に関する知見は、直接密度比推定法の応用範囲を広げる。本論文は、Kato (2025a)およびKato (2025b)における先行研究の結果を統合する (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2511.04568v1</guid>
-      <pubDate>Thu, 06 Nov 2025 17:25:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>パラメトリック偏微分方程式のための物理学に基づくニューラルネットワークとニューラル演算子
-人間とAIの共同解析</title>
-      <link>http://arxiv.org/abs/2511.04576v1</link>
-      <description>PDEは科学技術のあらゆる分野で広く用いられており、その解はパラメータ（物理的特性、境界条件、形状）に依存します。従来の数値解析手法では、パラメータごとにPDEを再度解く必要があるため、パラメータ空間の探索は法外なコストがかかります。近年の機械学習の進歩、特に物理学に基づくニューラルネットワーク（PINN）とニューラル演算子は、パラメータ空間全体にわたって一般化する解演算子を学習することで、パラメトリックPDEの解法に革命をもたらしました。本研究では、2つの主要なパラダイムを批判的に分析します。(1) PINNは物理法則をソフト制約として埋め込み、スパースデータを用いた逆問題に優れています。(2) ニューラル演算子（例：DeepONet、Fourier Neural Operator）は、無限次元関数空間間のマッピングを学習し、これまでにない一般化を実現します。流体力学、固体力学、伝熱、電磁気学における比較を通して、ニューラル演算子は、マルチクエリシナリオにおいて従来のソルバーと比較して、同等の精度を維持しながら、10の3乗から10の5乗倍の計算速度向上を達成できることを示します。手法 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2511.04576v1</guid>
-      <pubDate>Thu, 06 Nov 2025 17:31:59 +0000</pubDate>
-    </item>
-    <item>
       <title>VeriCoT: 論理的一貫性チェックによるニューロシンボリック思考連鎖検証</title>
       <link>http://arxiv.org/abs/2511.04662v1</link>
       <description>LLMはChain-of-Thought（CoT）を通じて多段階の推論を実行できますが、自身の論理を確実に検証することはできません。たとえ正しい答えに至ったとしても、その根底にある推論に欠陥がある場合があり、重要なシナリオにおける信頼を損なう可能性があります。この問題を軽減するために、我々はCoT推論から形式的な論理的議論を抽出し検証する神経記号的手法であるVeriCoTを導入します。VeriCoTは、CoTの各推論ステップを一階述語論理に形式化し、議論を情報源の文脈、常識的知識、または以前の推論ステップに根拠づける前提を特定します。記号表現により、自動ソルバーは論理的妥当性を検証でき、自然言語前提により、人間やシステムは根拠のない、あるいは誤った推論ステップを特定できます。ProofWriter、LegalBench、BioASQデータセットを用いた実験では、VeriCoTが欠陥のある推論を効果的に特定し、最終的な答えの正しさを強力に予測できることが示されています。また、VeriCoTの検証信号を、(1)推論時の自己反映、(2)VeriCoTで抽出したデータセットを用いた教師ありファ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
       <guid isPermaLink="true">http://arxiv.org/abs/2511.04662v1</guid>
       <pubDate>Thu, 06 Nov 2025 18:50:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>分散型マルチエージェント確率的最短経路問題における後悔下限値</title>
-      <link>http://arxiv.org/abs/2511.04594v1</link>
-      <description>マルチエージェントシステム（MAS）は、群ロボット工学や交通ルーティングなどのアプリケーションにおいて中心的な役割を果たします。これらのアプリケーションでは、エージェントは共通の目的を達成するために分散的に調整する必要があります。確率的最短経路（SSP）問題は、このような設定における分散制御をモデル化するための自然な枠組みを提供します。SSPにおける学習の問題はシングルエージェント設定において広く研究されてきましたが、分散型マルチエージェントの変種は依然としてほとんど研究されていません。本研究では、そのギャップを埋めるための一歩を踏み出します。線形関数近似の下で分散型マルチエージェントSSP（Dec-MASSP）を研究し、遷移ダイナミクスとコストを線形モデルを用いて表現します。新しい対称性に基づく議論を適用することで、最適ポリシーの構造を特定します。私たちの主な貢献は、任意のエージェント数（$n$）に対する学習困難なインスタンスの構築に基づいて、この設定における最初の後悔下限値を導出したことです。我々の$K$エピソードにわたる$\Omega(\sqrt{K})$の後悔下限値は、Dec- (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2511.04594v1</guid>
-      <pubDate>Thu, 06 Nov 2025 17:49:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
