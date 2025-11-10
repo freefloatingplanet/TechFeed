@@ -7,38 +7,83 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Nov 2025 06:32:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 06:37:39 +0000</lastBuildDate>
     <item>
-      <title>GentleHumanoid：接触を多用する人間と物体のインタラクションのための上半身の柔軟性学習</title>
-      <link>http://arxiv.org/abs/2511.04679v1</link>
-      <description>ヒューマノイドロボットは、安全で自然な物理的相互作用が不可欠な人間中心の環境で動作することが期待されています。しかし、最新の強化学習（RL）ポリシーのほとんどは、剛体追跡を重視し、外力を抑制しています。既存のインピーダンス拡張アプローチは、通常、ベースまたはエンドエフェクタの制御に限定されており、コンプライアンスを実現するよりも、極端な力への抵抗に重点を置いています。本稿では、インピーダンス制御を全身動作追跡ポリシーに統合し、上半身のコンプライアンスを実現するフレームワークであるGentleHumanoidを紹介します。その中核となるのは、抵抗接触（表面に押し付けたときの復元力）と誘導接触（人間の動作データからサンプリングされた押し引き）の両方をモデル化する、統一されたスプリングベースの定式化です。この定式化により、肩、肘、手首全体で運動学的に一貫した力が確保され、ポリシーをさまざまな相互作用シナリオにさらすことができます。安全性は、タスク調整可能な力の閾値によってさらにサポートされます。我々は、シミュレーションとUnitree G1ヒューマノイドの両方で、優しいハグ、座位から立位への (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2511.04679v1</guid>
-      <pubDate>Thu, 06 Nov 2025 18:59:33 +0000</pubDate>
+      <title>再構成可能な地球観測衛星スケジューリング問題</title>
+      <link>http://arxiv.org/abs/2507.10394v3</link>
+      <description>地球観測衛星（EOS）は、自然災害から社会発展に至るまで、地球の現象の捕捉と分析において極めて重要な役割を果たしています。EOSのスケジュールを最適化するEOSスケジューリング問題（EOSSP）は、多くの場合、直下方向のEOSシステムに基づいて解かれており、その結果、ターゲットの観測時間が制限され、結果として各EOSの有効性が制限されます。本論文では、最先端の衛星群再構成技術を活用し、再構成可能なEOSスケジューリング問題（REOSSP）を開発します。REOSSPでは、EOSが操作可能であると仮定し、スケジュール中の複数の機会において、より最適な衛星群構成を形成します。本論文では、与えられたパラメータに対してREOSSPのスケジューリング問題を最適に解くための、新しい混合整数線形計画法を開発します。さらに、REOSSPは大規模な問題では計算コストが高くなる可能性があるため、ローリングホライズン手順（RHP）解法を開発します。 REOSSPの性能は、問題特性を変化させた一連のランダムインスタンスと、ハリケーン・サンディを用いた現実的な性能を示すケーススタディを通じて、ベースラインとなるE (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2507.10394v3</guid>
+      <pubDate>Mon, 14 Jul 2025 15:36:27 +0000</pubDate>
     </item>
     <item>
-      <title>ダークエネルギーサーベイ3年目の成果：シミュレーションに基づく$w$CDM推論
-弱重力レンズ効果と銀河クラスタリングマップからの深層学習。I. 分析
-設計</title>
-      <link>http://arxiv.org/abs/2511.04681v1</link>
-      <description>深層学習を用いたデータ駆動型アプローチは、宇宙の大規模構造から非ガウス情報を抽出するための強力な手法として浮上しつつあります。本研究では、ダークエネルギーサーベイ3年目（DES Y3）の現実的な構成において、弱レンズ効果と銀河クラスタリングマップを組み合わせた初のシミュレーションベース推論（SBI）パイプラインを提示し、今後のサーベイデータ解析の準備として役立ちます。CosmoGridV1 N体シミュレーションスイートに基づくスケーラブルな順方向モデルを開発し、マップレベルでDES Y3の100万を超える自己整合的な模擬実現を生成します。この大規模データセットを活用し、球面幾何学におけるサーベイ全領域で深層グラフ畳み込みニューラルネットワークを訓練し、目標パラメータとの相互情報量を近似的に最大化する低次元特徴を学習します。これらの学習された圧縮により、10次元パラメータ空間におけるフロー正規化による暗黙尤度のニューラル密度推定が可能になります。この空間は、宇宙論的$w$CDM、固有アラインメント、線形銀河バイアスパラメータを含み、バリオン、測光赤方偏移、シアバイアスのニューサンスを周辺 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2511.04681v1</guid>
-      <pubDate>Thu, 06 Nov 2025 18:59:59 +0000</pubDate>
+      <title>極めて非構造化環境における基盤モデルを用いたマルチモーダルループ閉鎖検出</title>
+      <link>http://arxiv.org/abs/2511.05404v1</link>
+      <description>堅牢なループ閉鎖検出は、惑星探査などのGNSSが利用できない環境における同時自己位置推定・地図作成（SLAM）アルゴリズムの重要な要素です。このような環境では、視覚による場所認識はエイリアシングやテクスチャの弱さのために失敗することが多く、LiDARベースの手法はスパース性と曖昧性の影響を受けます。本論文では、視覚とLiDARの両方のモダリティにトランスフォーマーベースの基盤モデルを活用し、極めて非構造化された環境でも堅牢なループ閉鎖を実現するマルチモーダルパイプラインであるMPRFを紹介します。検索に限定された従来の研究とは異なり、MPRFは2段階の視覚検索戦略と明示的な6自由度姿勢推定を統合し、効率的な候補スクリーニングのためのDINOv2特徴とSALAD集約、そして幾何学的検証のためのSONATAベースのLiDAR記述子を組み合わせます。 S3LIデータセットとS3LI Vulcanoデータセットを用いた実験では、MPRFが最先端の検索手法よりも精度が高く、低テクスチャ領域における姿勢推定の堅牢性も向上することが示されました。SLAMバックエンドに適した解釈可能な対応関係を提供す (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2511.05404v1</guid>
+      <pubDate>Fri, 07 Nov 2025 16:30:35 +0000</pubDate>
     </item>
     <item>
-      <title>数学プレースメント評価の多手法分析：古典的アプローチ、
-機械学習アプローチ、クラスタリングアプローチ</title>
-      <link>http://arxiv.org/abs/2511.04667v1</link>
-      <description>本研究では、198名の学生を対象に実施された40項目の数学プレースメントテストを、古典的テスト理論、機械学習、教師なしクラスタリングを組み合わせたマルチメソッドフレームワークを用いて評価しました。古典的テスト理論による分析の結果、項目の55%が優れた識別力（$D \geq 0.40$）を示し、30%は識別力が低く（$D &lt; 0.20$）、置換が必要であることが明らかになりました。
-問6（グラフ解釈）は、この試験で最も強力な識別器であり、完全な識別力（$D = 1.000$）、最高の分散分析F統計量（$F = 4609.1$）、および最大のランダムフォレスト特徴重要度（0.206）を達成し、予測力の20.6%を占めました。機械学習アルゴリズムは、ランダムフォレストと勾配ブースティングがそれぞれ97.5%と96.0%の交差検証精度を達成し、優れた性能を示しました。K平均法クラスタリングは、42.5%を境界とする自然な2値コンピテンシー構造を識別しました。これは、機関の閾値である55%から逸脱しており、補習カテゴリーへの過剰分類の可能性を示唆しています。2クラスター解は、非常に安定しており（ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2511.04667v1</guid>
-      <pubDate>Thu, 06 Nov 2025 18:53:07 +0000</pubDate>
+      <title>グラフベースシミュレータにおける材料一般化のためのパラメータ効率の高いコンディショニング</title>
+      <link>http://arxiv.org/abs/2511.05456v1</link>
+      <description>グラフネットワークベースシミュレータ（GNS）は、粒子ベースの物理特性（流体、変形可能な固体、粉体流など）を学習する上で高い可能性を示しており、その固有の帰納的バイアスにより、未知の形状にも一般化できます。しかしながら、既存のモデルは通常、単一の材料タイプに対して学習されており、異なる構成挙動に一般化できず、現実世界のエンジニアリング環境への適用性が制限されています。本研究では、粉体流を実例として、GNSモデルを材料パラメータに適応させるパラメータ効率の高い調整メカニズムを提案します。材料特性への感受性は初期のメッセージパッシング（MP）層に集中していることを明らかにしました。これは、構成モデル（モール・クーロンなど）の局所的な性質と、それらが情報伝播に与える影響に結び付けられる発見です。我々は、事前学習済みモデルの10 MP層のうち最初の数層（1～5層）のみを微調整することで、ネットワーク全体を微調整した場合と同等のテスト性能が得られることを実証的に検証しました。この知見に基づき、これらの初期層を特にターゲットとするように設計された、パラメータ効率の高い特徴量線形変調（FiLM）コン (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2511.05456v1</guid>
+      <pubDate>Fri, 07 Nov 2025 17:55:35 +0000</pubDate>
     </item>
     <item>
-      <title>VeriCoT: 論理的一貫性チェックによるニューロシンボリック思考連鎖検証</title>
-      <link>http://arxiv.org/abs/2511.04662v1</link>
-      <description>LLMはChain-of-Thought（CoT）を通じて多段階の推論を実行できますが、自身の論理を確実に検証することはできません。たとえ正しい答えに至ったとしても、その根底にある推論に欠陥がある場合があり、重要なシナリオにおける信頼を損なう可能性があります。この問題を軽減するために、我々はCoT推論から形式的な論理的議論を抽出し検証する神経記号的手法であるVeriCoTを導入します。VeriCoTは、CoTの各推論ステップを一階述語論理に形式化し、議論を情報源の文脈、常識的知識、または以前の推論ステップに根拠づける前提を特定します。記号表現により、自動ソルバーは論理的妥当性を検証でき、自然言語前提により、人間やシステムは根拠のない、あるいは誤った推論ステップを特定できます。ProofWriter、LegalBench、BioASQデータセットを用いた実験では、VeriCoTが欠陥のある推論を効果的に特定し、最終的な答えの正しさを強力に予測できることが示されています。また、VeriCoTの検証信号を、(1)推論時の自己反映、(2)VeriCoTで抽出したデータセットを用いた教師ありファ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
-      <guid isPermaLink="true">http://arxiv.org/abs/2511.04662v1</guid>
-      <pubDate>Thu, 06 Nov 2025 18:50:08 +0000</pubDate>
+      <title>EveryDayVLA：手頃な価格のロボット操作のための視覚・言語・行動モデル</title>
+      <link>http://arxiv.org/abs/2511.05397v1</link>
+      <description>視覚・言語・行動（VLA）モデルは、視覚入力と言語指示をロボットの動作に直接マッピングしますが、高価なハードウェアに依存することが多く、新しいシーンや複雑なシーンでは動作が困難です。本研究では、300ドル未満で組み立てられ、適度な積載量と作業スペースを備えた6自由度マニピュレーター、EverydayVLAを紹介します。単一の統合モデルが離散動作と連続動作を共同で出力し、適応型水平アンサンブルが動作の不確実性を監視して、安全で信頼性の高い動作のためにオンザフライで再計画をトリガーします。LIBEROでは、EverydayVLAは最先端の成功率に匹敵し、実世界テストでは、従来の手法と比較して、分布内動作で49%、分布外動作で34.9%の性能向上を達成しました。最先端のVLAと費用対効果の高いハードウェアを組み合わせることで、EverydayVLAは
+ロボットの基礎モデルへのアクセスを民主化し、家庭や研究室での経済的な利用への道を開きます。実験ビデオと詳細はこちら：
+https://everydayvla.github.io/ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2511.05397v1</guid>
+      <pubDate>Fri, 07 Nov 2025 16:24:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>AttentionとTSミキサーを備えた高度なハイブリッドトランスフォーマーLSTM技術
+掘削の貫入速度予測</title>
+      <link>http://arxiv.org/abs/2508.05210v3</link>
+      <description>掘削速度（ROP）予測は掘削最適化に不可欠ですが、掘削データの非線形性、動的特性、および不均一性のために依然として困難です。従来の経験的、物理学的、標準的な機械学習モデルは、過度に単純化された仮定や集中的な特徴量エンジニアリングに依存しており、長期的な依存関係や複雑な特徴量の相互作用をモデル化する能力が制限されています。これらの問題に対処するため、本研究では、新しいディープラーニングハイブリッドLSTM-Trans-Mixer-Attフレームワークを提示します。このフレームワークは、まずカスタマイズされたLong Short-Term Memory（LSTM）ネットワークを介して入力データを処理し、掘削サイクルに沿ったマルチスケールの時間的依存関係を捕捉します。次に、掘削固有の位置エンコーディングとリアルタイム最適化を備えたEnhanced Transformerエンコーダーによって特徴量が調整されます。同時に、並列時系列ミキサー（TS-Mixer）ブロックが導入され、岩相指標や泥の特性を含む静的およびカテゴリパラメータの効率的な特徴間相互作用モデリングが容易になりました。Enhanc (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2508.05210v3</guid>
+      <pubDate>Thu, 07 Aug 2025 09:45:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>物理的に調整されたニューラルネットワークを用いた衛星データの降水量予測</title>
+      <link>http://arxiv.org/abs/2511.05471v1</link>
+      <description>正確な短期降水量予報は主に高密度の気象レーダーネットワークに依存しており、極端な気候現象の影響を最も受けやすい地域では運用上の価値が限られています。本稿では、GOES-16 RRQPEで学習した衛星のみのモデルであるTUPAN（Transferable and Universal Physics-Aligned Nowcasting Network）を紹介します。ほとんどのナウキャスト用深層学習モデルとは異なり、TUPANは予報を物理的に意味のある要素に分解します。変分エンコーダー・デコーダーはオプティカルフロー監視下で最近の画像から動き場と強度場を推定し、リードタイム条件付きMaxViTは潜在状態を進化させ、微分可能な移流演算子は将来のフレームを再構築します。 GOES-16とIMERGデータの両方を用いて、最大4つの異なる気候（リオデジャネイロ、マナウス、マイアミ、ラパス）において、10～180分リードタイムで、4～64mm/hの閾値でCSIおよびHSSメトリクスを用いてTUPANNを評価しました。オプティカルフロー、ディープラーニング、ハイブリッドベースラインとの比較では、TUP (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2511.05471v1</guid>
+      <pubDate>Fri, 07 Nov 2025 18:33:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>エンタープライズ・ディープ・リサーチ：エンタープライズ分析のためのステアラブル・マルチエージェント・ディープ・リサーチ</title>
+      <link>http://arxiv.org/abs/2510.17797v2</link>
+      <description>情報量が指数関数的に増加するにつれ、企業は非構造化データを一貫性のある実用的な洞察に変換するというプレッシャーに直面しています。自律エージェントは有望ですが、ドメイン固有のニュアンス、インテントの整合、そしてエンタープライズ統合に苦労することがよくあります。本稿では、(1) 適応型クエリ分解のためのマスタープランニングエージェント、(2) 4つの専用検索エージェント（一般、学術、GitHub、LinkedIn）、(3) NL2SQL、ファイル分析、エンタープライズワークフローをサポートする拡張可能なMCPベースのツールエコシステム、(4) データ駆動型洞察のための可視化エージェント、(5) 知識ギャップを検出し、オプションで人間参加型のステアリングガイダンスによって研究の方向性を更新するリフレクションメカニズムを統合したマルチエージェントシステム、Enterprise Deep Research (EDR)を紹介します。これらのコンポーネントにより、社内データセットで検証済みの自動レポート生成、リアルタイムストリーミング、そしてシームレスなエンタープライズ展開が可能になります。 Dee (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2510.17797v2</guid>
+      <pubDate>Mon, 20 Oct 2025 17:55:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Orion-MSP: 表形式のコンテキスト内学習のためのマルチスケールスパースアテンション</title>
+      <link>http://arxiv.org/abs/2511.02818v3</link>
+      <description>表形式データは、実世界のアプリケーションにおいて依然として主要なフォーマットです。しかしながら、表形式データ向けの効果的なニューラルモデルの開発は、異種の特徴タイプと複数のスケールで発生する複雑な相互作用のために、依然として困難です。TabPFNやTabICLといった表形式のコンテキスト内学習（ICL）の最近の進歩は、タスク固有の微調整なしに、勾配ブースティング木（GBT）に匹敵する最先端の性能を達成しています。しかしながら、現在のアーキテクチャには、(1) 階層的依存関係を無視する単一スケールの特徴処理、(2) 表幅の2次スケーリングによる稠密な注目、(3) 反復的な表現の改良とコンポーネント間の通信を妨げる厳密に順次的なコンポーネント処理という、重要な限界があります。これらの課題に対処するため、我々は、(1) 階層的特徴相互作用を捉えるマルチスケール処理を特徴とする表形式ICLアーキテクチャであるOrion-MSPを紹介します。 (2) ウィンドウパターン、グローバルパターン、ランダムパターンを組み合わせたブロックスパースアテンションにより、スケーラブルな効率性と長距離接続性を実現 (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2511.02818v3</guid>
+      <pubDate>Tue, 04 Nov 2025 18:43:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>TimeSearch-R：長編動画理解のための適応型時間探索
+自己検証強化学習による</title>
+      <link>http://arxiv.org/abs/2511.05489v1</link>
+      <description>時間的検索は、与えられたクエリに基づいて数万フレームの中から関連するフレームの最小限のセットを特定し、長編動画の正確な理解の基盤となることを目的としています。既存の研究では、検索空間を段階的に絞り込む試みがなされています。しかし、これらのアプローチは通常、手作業による検索プロセスに依存しており、最適な検索戦略を学習するためのエンドツーエンドの最適化が欠けています。本稿では、時間的検索をテキストと動画のインターリーブ思考として再定式化し、強化学習（RL）を通じて動画クリップの検索を推論プロセスにシームレスに統合するTimeSearch-Rを提案します。しかし、グループ相対ポリシー最適化（GRPO）などのRLトレーニング手法を動画推論に適用すると、教師なしの中間検索決定が生じる可能性があります。これは、動画コンテンツの探索が不十分になり、論理的推論に一貫性がなくなることにつながります。これらの問題に対処するため、我々はGRPO with Completeness Self-Verification (GRPO-CSV)を導入します。これは、インターリーブ推論プロセスから検索されたビデオフレ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2511.05489v1</guid>
+      <pubDate>Fri, 07 Nov 2025 18:58:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>FedFACT：制御可能なグループ公平性のための証明可能なフレームワーク
+連合学習におけるキャリブレーション</title>
+      <link>http://arxiv.org/abs/2506.03777v2</link>
+      <description>意思決定シナリオにおける連合学習（FL）の新たな応用に伴い、モデルの公平性を調整し、センシティブなグループ（例：女性、男性）間の格差を防ぐことが不可欠です。現在の研究は主に、FLにおけるグループ公平性の2つの概念、すなわちグローバル公平性（全クライアント間の全体的なモデル格差）とローカル公平性（各クライアント内の格差）に焦点を当てています。しかし、公平性基準が分解不可能かつ微分不可能であるため、公平なFLには2つの根本的な未解決の課題があります。(i)
+特に多クラス設定において、グローバル公平性とローカル公平性の調和を図ること。(ii)
+制御可能で最適な精度と公平性のトレードオフを実現すること。これらの課題に対処するため、我々はFedFACTと呼ばれる、新しい制御可能な連合グループ公平性キャリブレーションフレームワークを提案します。 FedFACTは、グローバルおよびローカルの公平性制約の両方の下でベイズ最適分類器を識別し、公平性を確保しながらパフォーマンスの低下を最小限に抑えたモデルを生成します。最適公平分類器の特性に基づいて、公平な連合学習を、インプロセスではパーソナライズされたコ (source: ArXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=50)</description>
+      <guid isPermaLink="true">http://arxiv.org/abs/2506.03777v2</guid>
+      <pubDate>Wed, 04 Jun 2025 09:39:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
