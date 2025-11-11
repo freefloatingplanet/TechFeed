@@ -7,72 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Nov 2025 06:37:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 06:36:28 +0000</lastBuildDate>
     <item>
-      <title>【海外記事紹介】そんなに速くない？WebAssemblyとネイティブコードでガチのパフォーマンス比較してみた</title>
-      <link>https://techfeed.io/entries/690bbcdfb335ef5804a057f4?from=rss</link>
-      <description>11月5日、マサチューセッツ大学アマースト校のAbhinav Jangda氏、Bobby Powers氏、Emery D. Berger氏、Arjun Guha氏が「Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code」と題した論文を公開した。この記事では、WebAssembly（Wasm）の実行性能がネイティブコードとどの程度差があるのかを、実際の大規模アプリケーションを用いて体系的に分析した研究について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/690bbcdfb335ef5804a057f4?from=rss</guid>
-      <pubDate>Wed, 05 Nov 2025 21:08:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe対抗で完全無料の「Affinity」を使ってみた　“いきなりクラッシュ”に困惑しつつ、これでいいかも？</title>
-      <link>https://www.itmedia.co.jp/news/articles/2511/10/news070.html</link>
-      <description>ITmedia NEWSにおける1週間の記事アクセス数を集計し、上位10記事を紹介する「ITmedia NEWS Weekly Top10」。今回は11月1～7日までの7日間について集計し、まとめた。 先週のアクセス2位は、Adobeのデザインツール群「Creative Cloud」の代替として注目されてきた買い切り型デザインツール「Affinity」が、ついに完全無... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2511/10/news070.html</guid>
-      <pubDate>Mon, 10 Nov 2025 04:05:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>eslint-plugin-import-accessのpackageDirectoryオプション</title>
-      <link>https://zenn.dev/uhyo/articles/eslint-plugin-import-access-v310</link>
-      <description>皆さんこんにちは。今回は、筆者が公開しているESlintプラグインeslint-plugin-import-accessの新バージョン (v3.1.0) で追加された新しいオプション packageDirectory を紹介します。
-このオプションにより、プラグインの活用の幅がかなり広がります。ぜひ試してみてください。
-
- 復習: eslint-plugin-import-accessとは
-まず、このプラグイン自体をご存じない方のために、基本的なところを解説します。次の画像はeslint-plugin-import-accessの機能を端的に説明するものです。
-
-eslint-plugi... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/uhyo/articles/eslint-plugin-import-access-v310</guid>
-      <pubDate>Sun, 09 Nov 2025 12:17:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next.jsで練習するページ遷移型の検索機能</title>
-      <link>https://zenn.dev/dev_tips84/articles/d2b8573fb6dd2c</link>
-      <description>この記事ではNext.jsを使いながら、Webの基本にのっとった「ページ遷移型の検索機能」というわかりやすい題材を学びます。「遷移」と書くとなんだか難しく感じますが、その仕組みはとてもシンプルです。
-また、コーディングの途中でAIツールも使いますので、AIを使ってNext.jsやReactのコードを書き、読んで理解する練習にもなります。
-
-
- なぜページ遷移型の検索を題材にするのか？
-ひとことで言うと、簡単なのに十分学ぶ価値があるからです。
-Next.jsのようなフレームワークを使っていると、いくらでも複雑で凝った設計・実装が出来てしまいます。検索機能ひとつとっても色々な設計・実装が考え... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dev_tips84/articles/d2b8573fb6dd2c</guid>
-      <pubDate>Sat, 08 Nov 2025 14:24:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>MCPの3つの欠点 - よりよく使うために知っておきたいこと</title>
-      <link>https://zenn.dev/k9i/articles/20251108_mcp_drawbacks</link>
-      <description>MCPは強力で便利なツールですが、他のツールと同様に、設計上の制限と課題があります。これらを理解することで、MCPをより効果的に活用できるようになります。
-この記事では、MCPの3つの欠点と、それぞれへの実践的な対策を紹介します。興味深いことに、MCPを発表したAnthropic自身もこれらの課題を認識し、改善に取り組んでいます。
-
- MCPの3つの欠点
-
- 1. AIエージェントは必ずしもMCPが得意でない
-LLMはコード作成での訓練は豊富ですが、ツール呼び出しの訓練データは非常に限定的です[1]。実際のツール呼び出し例は合成データのみに基づいており、自然言語に存在しない特殊なトークン... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/k9i/articles/20251108_mcp_drawbacks</guid>
-      <pubDate>Sun, 09 Nov 2025 01:25:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>「なんかMeet重いんだけど」を撲滅！GWS監査ログとLooker Studioで作るネットワーク品質ダッシュボード</title>
-      <link>https://zenn.dev/hotaka_noda/articles/7bcf7f790decc7</link>
-      <description>🚀 はじめに
-「最近、Google Meetの調子悪いんだけど…」
-「XXさんの声、ブツブツ切れてますよ」
-コーポレートエンジニアやネットワーク担当者の皆さん、こんなフワッとした社員からの申告に頭を悩ませていませんか？
-原因が「社員の自宅回線」なのか、「会社のVPN」なのか、はたまた「特定のオフィスのWi-Fiが詰まっ
-てる」のか…。原因の切り分けができず、具体的なアクションが取れないのはツラいですよね。
-この記事では、Google Workspace Enterprise プラン以上で利用できる「BigQueryへのログエクスポート機能」を使い、Google Meetのネットワーク... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hotaka_noda/articles/7bcf7f790decc7</guid>
-      <pubDate>Sun, 09 Nov 2025 13:42:14 +0000</pubDate>
+      <title>チームを壊す「ブリリアントジャーク」とどう向き合うか―スクラムマスターとしての実践と学び―</title>
+      <link>https://zenn.dev/nttdata_tech/articles/fad56bfecd34b4</link>
+      <description>はじめに アジャイル開発では「チームワーク」が成果の鍵を握ります。 しかし、チームの中に高い技術スキルを持っていても、協調性に欠けるメンバーがいると、プロジェクトは一気に難航します。 そうした存在は「ブリリアントジャーク（Brilliant Jerk）」と呼ばれます。 私自身、スクラムマスターとして、まさにそのよ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/fad56bfecd34b4</guid>
+      <pubDate>Mon, 10 Nov 2025 18:54:13 +0000</pubDate>
     </item>
     <item>
       <title>意思決定を委ねる：CLIツール「should-i」</title>
@@ -105,6 +46,61 @@ MCP（Model Context Protocol）の使い方がよくわからない
 DocDD（Document-Dri... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/imaimai17468/articles/5df32a0bcfc75a</guid>
       <pubDate>Sun, 09 Nov 2025 08:46:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>stateを最小限に捉えることで、Reactコンポーネントを改善する</title>
+      <link>https://zenn.dev/mameshiba_274/articles/3d6910cb2decba</link>
+      <description>こんにちは。本稿では、SPAアプリケーションにおいて、Reactコンポーネントをリファクタリングしていた際の気づきを紹介します。（何番煎じかは分かりませんが...）では、早速みていきます。
+
+ 例：問題のあるReactコンポーネント
+APIで取得してきた画像データを表示するページを作成しており、次のような&lt;Gallery&gt;コンポーネントがあるとします。親コンポーネントからrawImagesをpropsとして受け取り、表示する画像をstateとして管理しています。そして、ボタン押下ごとに表示する画像の数を3枚ずつ増やすロジックです。このコードの問題点は何でしょうか。
+const... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mameshiba_274/articles/3d6910cb2decba</guid>
+      <pubDate>Sun, 09 Nov 2025 15:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>小ネタ：黒電話のWeb Componentをつくってみたよ</title>
+      <link>https://zenn.dev/lecto/articles/ee345c79c269eb</link>
+      <description>はじめに
+先日、電話番号の入力UIについて雑談していたときのこと。
+「最近の入力フォーム、テンキーとか色々工夫されてるよね」
+「そういえば昔は黒電話で番号回してたんだよな...」
+「今の若い人って黒電話使えるのかな・・・？」
+この何気ない一言でとりあえず作ってみました！
+確かに、昭和生まれの私には馴染み深い黒電話のロータリーダイヤル。
+でも、平成・令和生まれの人たちにとっては「見たことはあるけど使ったことない」という人も多いはず。
+そこで思いついたのが、
+「Web上で黒電話を体験できるUIを作ったら面白いんじゃない？」
+というわけで、勢いでWeb Componentとして黒電話のロー... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/lecto/articles/ee345c79c269eb</guid>
+      <pubDate>Sun, 09 Nov 2025 15:20:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>「数カ月で済む動きではないですね」――メモリだけでなく、HDDとSSDも値上がり中</title>
+      <link>https://www.itmedia.co.jp/pcuser/articles/2511/10/news093.html</link>
+      <description>一連の値動きや仕入れ状況については、各ショップでさまざまな推測がなされているが、気になるのは事態が落ち着くメドだ。短期的に収束するといった楽観的な見方は一切聞かれなかった。 オリオスペックは「規模的には少し前のマイニングブームの頃の動きに似ていますが、今回は世界的な生成AI需要が背景にあるのではと言... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/pcuser/articles/2511/10/news093.html</guid>
+      <pubDate>Mon, 10 Nov 2025 08:12:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】エンジニアが「手持ちのフォントすべてを平均化」して作ったフォント「Averia」が海外で話題に</title>
+      <link>https://techfeed.io/entries/691254bbb335ef5804a1e76a?from=rss</link>
+      <description>Avería — すべてのフォントの“平均”から生まれたフォント11月9日、iotic.comが「Avería – The Average Font」と題した記事を公開した。この記事では、手持ちのフォントすべてを平均化して作られたフォント「Avería」の制作過程と、その背後にある「ジェネレーティブ・タイポグラフィ（生成的タイポグラフィ）」の発想について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/691254bbb335ef5804a1e76a?from=rss</guid>
+      <pubDate>Mon, 10 Nov 2025 21:10:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>社内でAIハッカソン(AI開発合宿)を開催した話</title>
+      <link>https://zenn.dev/hokuto_tech/articles/c6ec0fb4eb11d8</link>
+      <description>2025年9月に、HOKUTOの開発メンバー(エンジニア・QAエンジニア・デザイナー)で開発合宿を行ってきました。
+HOKUTOではフルリモートでの働き方となっており、メンバーでオフラインで集まって何かを行うというのは実は珍しかったりします。
+開発合宿では毎年テーマを決めて取り組む形にしています。今年は 「生成AIを活用して普段の開発・作業を楽にしてくれるかもしれないツールを作る」というテーマ のもと、いわゆる「AIハッカソン」を行いました。
+今回の開発合宿は以下の目的のもと開催しました:
+
+最新のAI技術トレンドと応用事例についての知識を深める
+参加者同士の情報共有を促進し、生成AI関... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hokuto_tech/articles/c6ec0fb4eb11d8</guid>
+      <pubDate>Tue, 11 Nov 2025 01:00:02 +0000</pubDate>
     </item>
     <item>
       <title>OSSでTakumiを回した所感と反映した内容紹介</title>
