@@ -7,56 +7,44 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Nov 2025 06:36:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 06:36:00 +0000</lastBuildDate>
     <item>
-      <title>チームを壊す「ブリリアントジャーク」とどう向き合うか―スクラムマスターとしての実践と学び―</title>
-      <link>https://zenn.dev/nttdata_tech/articles/fad56bfecd34b4</link>
-      <description>はじめに アジャイル開発では「チームワーク」が成果の鍵を握ります。 しかし、チームの中に高い技術スキルを持っていても、協調性に欠けるメンバーがいると、プロジェクトは一気に難航します。 そうした存在は「ブリリアントジャーク（Brilliant Jerk）」と呼ばれます。 私自身、スクラムマスターとして、まさにそのよ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/fad56bfecd34b4</guid>
-      <pubDate>Mon, 10 Nov 2025 18:54:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>意思決定を委ねる：CLIツール「should-i」</title>
-      <link>https://zenn.dev/justhiro/articles/5351c337282175</link>
+      <title>技術ブログを書きながら、居場所を探していた話</title>
+      <link>https://zenn.dev/akari1106/articles/567b0aee65fb8b</link>
       <description>はじめに
-「今日のランチは何にしよう？」「新しいライブラリを試すべきか？」日常の小さな決断から技術選定まで、私たちは日々無数の選択を迫られています。そんな時、宇宙に判断を委ねてみるのはいかがでしょうか。
-今回は、yesno.wtf APIを使って意思決定をサポートするCLIツール「should-i」をRustで開発しました。この記事では、その実装過程と技術的なポイントを紹介します。
+技術ブログ、みなさん書いてますか？ROM専（読む専門）派、という方も多いと思います。
+アウトプットってのは時代が進んでもまだまだ少数派です。
+かくいう私は、Zennやdev.toと今はインターネットの片隅にお邪魔する形で書いています。
+技術ブログを書き始める前、私はずっとローカルのOneNoteにちんたら書いていました。
+日記のようなものに近いレベルから、謎のメモと謎のスクショだけのものまで本当に自由に。
+何故ローカルだったのかは、小石が怖かったから。
 
- should-iとは
-should-iは、質問を投げかけるとYES/NO/MAYBEで答えてくれるシンプルなCLIツールです。回答と一緒にGIF画像のURLも返してくれるので、視覚的にも楽しめます。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/justhiro/articles/5351c337282175</guid>
-      <pubDate>Sat, 08 Nov 2025 14:57:57 +0000</pubDate>
+「批判」
+「恥」
+「炎上」
+「キャリアの傷になるかもしれない」
+「叩かれる」
+「間違った情報だ」
+
+
+色々な怖さがありま... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/akari1106/articles/567b0aee65fb8b</guid>
+      <pubDate>Sun, 09 Nov 2025 17:48:21 +0000</pubDate>
     </item>
     <item>
-      <title>もっと気軽にDocDD(SpecDD)でAI駆動開発したい</title>
-      <link>https://zenn.dev/imaimai17468/articles/5df32a0bcfc75a</link>
-      <description>はじめに
-CursorやClaude Codeを使っているエンジニアの皆さん、こんな悩みを抱えたことありませんか？
-
-AIアシスタントに適切なコンテキストを渡すのが難しい
-開発ワークフローが属人化して、チームで統一されない
-MCP（Model Context Protocol）の使い方がよくわからない
-コード品質を保ちながら効率的に開発したい
-
-このような課題を解決するために、DocDDというプロジェクトを作成しました。
-この記事では、DocDDを使ってMCPをうまく活用し、効率的な開発ワークフローを構築する方法を紹介します。
-
- DocDDとは
-DocDD（Document-Dri... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/imaimai17468/articles/5df32a0bcfc75a</guid>
-      <pubDate>Sun, 09 Nov 2025 08:46:53 +0000</pubDate>
+      <title>AIエージェントへの指示、実際どうしてる？</title>
+      <link>https://zenn.dev/rescuenow/articles/3b82a651794d4c</link>
+      <description>先日、社内のエンジニアとの雑談で「hosoyさんはClaude Codeを使うときにどんなプロンプト書いてますか？DDLとか渡してますか？」と聞かれました。AIエージェントを活用するための記事はたくさんありますが、やはり気になるのは、「実際みんなどんな感じでAIエージェントに指示を出してタスクを進めてるんだろう？？コンテキストとかプロンプトが大事なのは分かってるけど、具体例を見せてほしい！」っていうところです。
+なので、私自身はAIエージェントの基本中の基本の機能しか利用していないですが、実際のタスクに対してどのようにAIエージェントに指示を出して作業を進めているかを恥ずかしながら公開し... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/rescuenow/articles/3b82a651794d4c</guid>
+      <pubDate>Mon, 10 Nov 2025 01:45:32 +0000</pubDate>
     </item>
     <item>
-      <title>stateを最小限に捉えることで、Reactコンポーネントを改善する</title>
-      <link>https://zenn.dev/mameshiba_274/articles/3d6910cb2decba</link>
-      <description>こんにちは。本稿では、SPAアプリケーションにおいて、Reactコンポーネントをリファクタリングしていた際の気づきを紹介します。（何番煎じかは分かりませんが...）では、早速みていきます。
-
- 例：問題のあるReactコンポーネント
-APIで取得してきた画像データを表示するページを作成しており、次のような&lt;Gallery&gt;コンポーネントがあるとします。親コンポーネントからrawImagesをpropsとして受け取り、表示する画像をstateとして管理しています。そして、ボタン押下ごとに表示する画像の数を3枚ずつ増やすロジックです。このコードの問題点は何でしょうか。
-const... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mameshiba_274/articles/3d6910cb2decba</guid>
-      <pubDate>Sun, 09 Nov 2025 15:00:01 +0000</pubDate>
+      <title>AIバブルが崩壊したらどれほど壊滅的な被害をもたらすのか？</title>
+      <link>https://gigazine.net/news/20251111-ai-bubble-burst/</link>
+      <description>AI開発のあおりを受けてMicrosoftやAppleの株価はうなぎ登り。AI開発に欠かせないGPUを提供するNVIDIAが世界で初めて時価総額5兆ドル(約770兆円)に到達するなど、AIの市場規模は計り知れない大きさに膨れ上がりました。ところが、この経済的価値は「バブル」の状態にあり、いつかはじけてしまうのではないかと懸念する声... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20251111-ai-bubble-burst/</guid>
+      <pubDate>Tue, 11 Nov 2025 16:27:22 +0000</pubDate>
     </item>
     <item>
       <title>小ネタ：黒電話のWeb Componentをつくってみたよ</title>
@@ -74,13 +62,6 @@ const... (source: Zennのトレンド)</description>
 というわけで、勢いでWeb Componentとして黒電話のロー... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/lecto/articles/ee345c79c269eb</guid>
       <pubDate>Sun, 09 Nov 2025 15:20:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>「数カ月で済む動きではないですね」――メモリだけでなく、HDDとSSDも値上がり中</title>
-      <link>https://www.itmedia.co.jp/pcuser/articles/2511/10/news093.html</link>
-      <description>一連の値動きや仕入れ状況については、各ショップでさまざまな推測がなされているが、気になるのは事態が落ち着くメドだ。短期的に収束するといった楽観的な見方は一切聞かれなかった。 オリオスペックは「規模的には少し前のマイニングブームの頃の動きに似ていますが、今回は世界的な生成AI需要が背景にあるのではと言... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/pcuser/articles/2511/10/news093.html</guid>
-      <pubDate>Mon, 10 Nov 2025 08:12:19 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】エンジニアが「手持ちのフォントすべてを平均化」して作ったフォント「Averia」が海外で話題に</title>
@@ -103,26 +84,61 @@ HOKUTOではフルリモートでの働き方となっており、メンバー�
       <pubDate>Tue, 11 Nov 2025 01:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>OSSでTakumiを回した所感と反映した内容紹介</title>
-      <link>https://zenn.dev/catatsuy/articles/fd18426f34386f</link>
-      <description>Takumiのオープンソース開発者応援プログラムに選ばれて、Takumiを3ヶ月無料で利用できるようになったので、現在試し中です。
-Takumiはソースコードをしっかり読んでセキュリティの問題を見つけてくれるAIで、指摘内容がしっかり読まないと理解できないような報告である点が非常に好印象です。一方で、今回診断してもらったrepoはCLIツールなので、Webアプリ前提の助言が刺さらない場面が多くありました。
-また修正方法までは出してくれない（簡単な変更は出してくれることはある）のは少し惜しいと感じています。言いたいことは分かるが、実際どうすれば解決するのか、という点は自分や他のAIに考えて... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/catatsuy/articles/fd18426f34386f</guid>
-      <pubDate>Sun, 09 Nov 2025 05:31:04 +0000</pubDate>
+      <title>2025年の個人開発：爆速で「パンダ特化型SNS」を作った技術スタック全公開</title>
+      <link>https://zenn.dev/kinnkinn/articles/622a65a2a76dce</link>
+      <description>この記事では、私が個人開発でリリースしたパンダ情報特化型アグリゲーションサービス「PanDo (パンドゥ)」について、そのアーキテクチャから実装のこだわりまでを紹介します。
+
+https://n-scroller.vercel.app
+
+ 導入：なぜ今、パンダなのか？
+開発動機は、パンダに関する情報（動物園の公式サイト、ニュース、SNS）がWeb上に散在しており、それらを一元的に追いかけるのが困難だった点にあります。
+X（旧Twitter）のように、タイムラインを眺めているだけで最新情報が「受動的」に入ってくるサービスを目指しました。また、フロントエンドからバックエンドまでを一気通貫で... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kinnkinn/articles/622a65a2a76dce</guid>
+      <pubDate>Tue, 11 Nov 2025 03:21:34 +0000</pubDate>
     </item>
     <item>
-      <title>SNKRDUNKにおける機械学習への取り組みの現状と今後の展望</title>
-      <link>https://zenn.dev/team_soda/articles/soda-snkrdunk-ml-pickuplinks</link>
+      <title>Twilio Preflightで通話品質を "診断" する</title>
+      <link>https://zenn.dev/ivry/articles/f275cb6a125e8e</link>
       <description>はじめに
-株式会社SODAでバックエンドのテックリードをしている仲宗根です。
-SODAは、SNKRDUNKというスニーカーやアパレル、トレーディングカード(トレカ)のフリマサービスを運営しています。
-本記事では、SNKRDUNKにおける機械学習プロジェクトの一例として、ピックアップリンクのパーソナライズを紹介します。この取り組みを通して、SNKRDUNKの開発に興味を持っていただければ幸いです。
+こんにちは！株式会社IVRy でソフトウェアエンジニアをしているtsutouです。
+VoIPで音声通話を実現している音声通話アプリにおいて「音声が聞こえない」「途切れる」といったユーザー問い合わせは、サポートチームにとって調査の難易度が高く大きな負担となります。
+!
+VoIP（Voice over Internet Protocol） は、従来の電話回線ではなく、インターネットなどのIPネットワークを介して音声をやりとりする技術です。
 
- ピックアップリンクとは
-ピックアップリンクとは、SNKRDUNKアプリのおすすめタブの上部に配置された特定のカテゴリーやブランドごとにまとめられた商品へのリンクのことです（図1）。リン... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/team_soda/articles/soda-snkrdunk-ml-pickuplinks</guid>
-      <pubDate>Mon, 10 Nov 2025 01:52:31 +0000</pubDate>
+特に、ネットワーク環境に起因する問題は、ユーザー自身では原因を特定することが困難で、結果として多くのサポート依頼につながっていました。
+そ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ivry/articles/f275cb6a125e8e</guid>
+      <pubDate>Tue, 11 Nov 2025 08:39:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>育休中の深夜に作った、オムツ用ゴミ袋残量センサー</title>
+      <link>https://zenn.dev/zaico/articles/3b0e97e757adbc</link>
+      <description>初めての育児とゴミ出し問題→からのラピッドプロトタイピング
+↓一夜城のゴミ袋残量センサー
+
+やあみんな！株式会社ZAICO 新規事業開発室の @tarouimo だよ！
+いきなり私事ですが、息子が生まれて育休を取得して、はじめての育児に奮闘してました。
+ところで私の家ではごみ収集場がご近所様と共同になっています。燃やすゴミの日は大量のオムツを捨てるのですが、、、ある日、カラス被害で我が家のゴミ袋が見るも無惨な姿になっているではありませんか！
+ご近所の方が清掃を手伝ってくれてありがたかった反面、迷惑をかけてしまったので対策しなければなりません。
+そこで、市の指定袋の内側に丈夫なクラフト... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/zaico/articles/3b0e97e757adbc</guid>
+      <pubDate>Mon, 10 Nov 2025 22:57:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>チームを壊す「ブリリアントジャーク」とどう向き合うか―スクラムマスターとしての実践と学び―</title>
+      <link>https://zenn.dev/nttdata_tech/articles/fad56bfecd34b4</link>
+      <description>はじめに
+アジャイル開発では「チームワーク」が成果の鍵を握ります。
+しかし、チームの中に高い技術スキルを持っていても、協調性に欠けるメンバーがいると、プロジェクトは一気に難航します。
+そうした存在は「ブリリアントジャーク（Brilliant Jerk）」と呼ばれます。
+私自身、スクラムマスターとして、まさにそのような状況に直面したことがあります。
+本記事では、そのときの経験と、そこから得た教訓を紹介します。
+※ご紹介する内容はわかりやすく一般化したもので、実在のプロジェクトや人物とは一切関係ありません。
+
+ ブリリアントジャークとは何か
+ブリリアントジャークとは、優秀だが厄介な人を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/fad56bfecd34b4</guid>
+      <pubDate>Mon, 10 Nov 2025 02:31:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
