@@ -7,61 +7,50 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Nov 2025 06:36:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 06:36:06 +0000</lastBuildDate>
     <item>
-      <title>技術ブログを書きながら、居場所を探していた話</title>
-      <link>https://zenn.dev/akari1106/articles/567b0aee65fb8b</link>
+      <title>チーム専属QAからE2E自動化横断支援へ。QAキャリアを前進させた1年間</title>
+      <link>https://zenn.dev/mixi/articles/8ec03e546072af</link>
+      <description>こんにちは！　株式会社MIXIでQAをしているayanoです。
+この1年間、私は「チーム専属QA」から「横断的なE2Eテスト自動化の支援者」という新しい役割に挑戦してきました。
+この記事では、そんな私がどんなきっかけでキャリアを変え、どんな1年を過ごしてきたのかをまとめます。
+「チームの中で頑張るQA」から、「チームを支えるQA」へ──その変化の過程を、ひとつのキャリアケースとして読んでいただけたらと思います。
+
+ チーム専属QAとしての私
+異業種・異職種からQAエンジニアに転職して5年半の期間、私は計4つの開発チームで「チーム専属QA」として働いてきました。
+最初は、テスト実行を通じて... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mixi/articles/8ec03e546072af</guid>
+      <pubDate>Tue, 11 Nov 2025 06:02:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Snowflake】Snowflake IntelligenceにWeb検索機能を統合してみた</title>
+      <link>https://zenn.dev/truestar/articles/6f080b08a49911</link>
       <description>はじめに
-技術ブログ、みなさん書いてますか？ROM専（読む専門）派、という方も多いと思います。
-アウトプットってのは時代が進んでもまだまだ少数派です。
-かくいう私は、Zennやdev.toと今はインターネットの片隅にお邪魔する形で書いています。
-技術ブログを書き始める前、私はずっとローカルのOneNoteにちんたら書いていました。
-日記のようなものに近いレベルから、謎のメモと謎のスクショだけのものまで本当に自由に。
-何故ローカルだったのかは、小石が怖かったから。
-
-「批判」
-「恥」
-「炎上」
-「キャリアの傷になるかもしれない」
-「叩かれる」
-「間違った情報だ」
-
-
-色々な怖さがありま... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/akari1106/articles/567b0aee65fb8b</guid>
-      <pubDate>Sun, 09 Nov 2025 17:48:21 +0000</pubDate>
+企業のデータ分析基盤としてSnowflakeを活用するケースは増えていますが、その多くは社内に蓄積された構造化データの分析に留まっています。
+一方で、実際のビジネス意思決定では、ニュース、SNS、オープンデータなど、社外の非構造データが重要なインサイトをもたらす場面が少なくありません。
+そこで今回、Snowflake IntelligenceにWeb検索機能を組み込み、Web上から取得した情報とSnowflake内のデータをあわせて要約・分析・洞察生成を行えるようなエージェントを作成しました。
+本記事では、この機能を実現するための設計方針、Web情報の取得と統合の仕組みを解... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/truestar/articles/6f080b08a49911</guid>
+      <pubDate>Wed, 12 Nov 2025 07:26:25 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントへの指示、実際どうしてる？</title>
-      <link>https://zenn.dev/rescuenow/articles/3b82a651794d4c</link>
-      <description>先日、社内のエンジニアとの雑談で「hosoyさんはClaude Codeを使うときにどんなプロンプト書いてますか？DDLとか渡してますか？」と聞かれました。AIエージェントを活用するための記事はたくさんありますが、やはり気になるのは、「実際みんなどんな感じでAIエージェントに指示を出してタスクを進めてるんだろう？？コンテキストとかプロンプトが大事なのは分かってるけど、具体例を見せてほしい！」っていうところです。
-なので、私自身はAIエージェントの基本中の基本の機能しか利用していないですが、実際のタスクに対してどのようにAIエージェントに指示を出して作業を進めているかを恥ずかしながら公開し... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/rescuenow/articles/3b82a651794d4c</guid>
-      <pubDate>Mon, 10 Nov 2025 01:45:32 +0000</pubDate>
+      <title>Claude Codeを使ったおすすめ勉強法</title>
+      <link>https://zenn.dev/parfait/articles/7542405e10130d</link>
+      <description>Claude Codeの登場で学びの時間が減った
+Claude Codeが便利すぎて、もう手放せません。
+ただし、Claude Codeを使えば使うほど「自分でコーディングする機会」は激減しました。
+それが悪いとは断言しづらいですが、一つ言えるのは「私のような中途半端にプログラミングを学んだ人間にとって勉強の機会が減ることは致命的」ということです。
+Claude Codeの/output-styleでLearningを選ぶことでユーザーの学習をサポートできなくはないのですが、個人的に試した印象としては「身につけるための学習」とはちょっと違うかな？と感じました。
+では「身につけるための... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/parfait/articles/7542405e10130d</guid>
+      <pubDate>Mon, 10 Nov 2025 14:46:33 +0000</pubDate>
     </item>
     <item>
-      <title>AIバブルが崩壊したらどれほど壊滅的な被害をもたらすのか？</title>
-      <link>https://gigazine.net/news/20251111-ai-bubble-burst/</link>
-      <description>AI開発のあおりを受けてMicrosoftやAppleの株価はうなぎ登り。AI開発に欠かせないGPUを提供するNVIDIAが世界で初めて時価総額5兆ドル(約770兆円)に到達するなど、AIの市場規模は計り知れない大きさに膨れ上がりました。ところが、この経済的価値は「バブル」の状態にあり、いつかはじけてしまうのではないかと懸念する声... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20251111-ai-bubble-burst/</guid>
-      <pubDate>Tue, 11 Nov 2025 16:27:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>小ネタ：黒電話のWeb Componentをつくってみたよ</title>
-      <link>https://zenn.dev/lecto/articles/ee345c79c269eb</link>
-      <description>はじめに
-先日、電話番号の入力UIについて雑談していたときのこと。
-「最近の入力フォーム、テンキーとか色々工夫されてるよね」
-「そういえば昔は黒電話で番号回してたんだよな...」
-「今の若い人って黒電話使えるのかな・・・？」
-この何気ない一言でとりあえず作ってみました！
-確かに、昭和生まれの私には馴染み深い黒電話のロータリーダイヤル。
-でも、平成・令和生まれの人たちにとっては「見たことはあるけど使ったことない」という人も多いはず。
-そこで思いついたのが、
-「Web上で黒電話を体験できるUIを作ったら面白いんじゃない？」
-というわけで、勢いでWeb Componentとして黒電話のロー... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lecto/articles/ee345c79c269eb</guid>
-      <pubDate>Sun, 09 Nov 2025 15:20:45 +0000</pubDate>
+      <title>【海外記事紹介】FFmpegがGoogleへ「バグだけじゃなく、資金も送れ」 — AIによる脆弱性報告急増の裏で、OSSに起きている危機</title>
+      <link>https://techfeed.io/entries/6914f941b335ef5804a2b1f3?from=rss</link>
+      <description>11月12日、The New Stackが「FFmpeg to Google: Fund Us or Stop Sending Bugs」と題した記事を公開した。この記事では、AIによる脆弱性報告の急増を背景に、FFmpegとGoogleの間で噴出した「オープンソースの安全性と、そのコストを誰が負担するのか」という問題について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6914f941b335ef5804a2b1f3?from=rss</guid>
+      <pubDate>Wed, 12 Nov 2025 21:16:49 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】エンジニアが「手持ちのフォントすべてを平均化」して作ったフォント「Averia」が海外で話題に</title>
@@ -69,6 +58,20 @@
       <description>Avería — すべてのフォントの“平均”から生まれたフォント11月9日、iotic.comが「Avería – The Average Font」と題した記事を公開した。この記事では、手持ちのフォントすべてを平均化して作られたフォント「Avería」の制作過程と、その背後にある「ジェネレーティブ・タイポグラフィ（生成的タイポグラフィ）」の発想について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/691254bbb335ef5804a1e76a?from=rss</guid>
       <pubDate>Mon, 10 Nov 2025 21:10:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>アジャイル開発の課題を経営課題として捉える〜人的資本経営とFAST〜</title>
+      <link>https://zenn.dev/loglass/articles/agile-as-management-issue-hcm-fast</link>
+      <description>!
+この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の117週目の記事です！
+3年間連続達成まで残り42週となりました！
+
+
+ はじめに
+みなさんは、良いプロダクトを作っていくために、良い組織を作りたいと考えたことはありますか？私は常にこのことについて頭を悩ませていますが、うまくいかないことだらけでいつも心が折れてしまいそうになります。
+困り果てていた私は偶然「問題解決のジレンマ」と「5000の事例から導き出した 日本企業最後の伸びしろ 人的資本経営大全」という書籍を手に取りました。そして、その書籍から得た知見をこの組織を良くしていくことに使え... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/loglass/articles/agile-as-management-issue-hcm-fast</guid>
+      <pubDate>Wed, 12 Nov 2025 04:44:41 +0000</pubDate>
     </item>
     <item>
       <title>社内でAIハッカソン(AI開発合宿)を開催した話</title>
@@ -82,19 +85,6 @@ HOKUTOではフルリモートでの働き方となっており、メンバー�
 参加者同士の情報共有を促進し、生成AI関... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/hokuto_tech/articles/c6ec0fb4eb11d8</guid>
       <pubDate>Tue, 11 Nov 2025 01:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025年の個人開発：爆速で「パンダ特化型SNS」を作った技術スタック全公開</title>
-      <link>https://zenn.dev/kinnkinn/articles/622a65a2a76dce</link>
-      <description>この記事では、私が個人開発でリリースしたパンダ情報特化型アグリゲーションサービス「PanDo (パンドゥ)」について、そのアーキテクチャから実装のこだわりまでを紹介します。
-
-https://n-scroller.vercel.app
-
- 導入：なぜ今、パンダなのか？
-開発動機は、パンダに関する情報（動物園の公式サイト、ニュース、SNS）がWeb上に散在しており、それらを一元的に追いかけるのが困難だった点にあります。
-X（旧Twitter）のように、タイムラインを眺めているだけで最新情報が「受動的」に入ってくるサービスを目指しました。また、フロントエンドからバックエンドまでを一気通貫で... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kinnkinn/articles/622a65a2a76dce</guid>
-      <pubDate>Tue, 11 Nov 2025 03:21:34 +0000</pubDate>
     </item>
     <item>
       <title>Twilio Preflightで通話品質を "診断" する</title>
@@ -111,6 +101,22 @@ VoIP（Voice over Internet Protocol） は、従来の電話回線ではなく�
       <pubDate>Tue, 11 Nov 2025 08:39:39 +0000</pubDate>
     </item>
     <item>
+      <title>エンジニアキャリアと敗者のゲームと勝者のゲーム</title>
+      <link>https://zenn.dev/truestar/articles/8692d8a0eddb28</link>
+      <description>前置き
+こんにちは。さすらいのデータエンジニアのこみぃです。
+秋がギリギリその体面を保ちつつ、でも冬に移りつつある昨今ですが、いかがお過ごしでしょうか？
+秋の夜長はポエムを読みたくなる季節ということで、今日は一風変わった記事をお届けしましょう。
+
+ 勝者のゲームと敗者のゲーム
+さて、まずはいきなり見慣れない概念から始めていきましょう。世の中には勝者のゲームと敗者のゲームという、2つのゲーム観の概念が存在します。
+これは書籍「敗者のゲーム」に出てくる概念です。作中の例でそのまま解説します。
+https://amzn.to/4nOxa3q
+敗者のゲームとは、プレイヤーのどちらかがミスをし... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/truestar/articles/8692d8a0eddb28</guid>
+      <pubDate>Tue, 11 Nov 2025 21:12:56 +0000</pubDate>
+    </item>
+    <item>
       <title>育休中の深夜に作った、オムツ用ゴミ袋残量センサー</title>
       <link>https://zenn.dev/zaico/articles/3b0e97e757adbc</link>
       <description>初めての育児とゴミ出し問題→からのラピッドプロトタイピング
@@ -123,22 +129,6 @@ VoIP（Voice over Internet Protocol） は、従来の電話回線ではなく�
 そこで、市の指定袋の内側に丈夫なクラフト... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/zaico/articles/3b0e97e757adbc</guid>
       <pubDate>Mon, 10 Nov 2025 22:57:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>チームを壊す「ブリリアントジャーク」とどう向き合うか―スクラムマスターとしての実践と学び―</title>
-      <link>https://zenn.dev/nttdata_tech/articles/fad56bfecd34b4</link>
-      <description>はじめに
-アジャイル開発では「チームワーク」が成果の鍵を握ります。
-しかし、チームの中に高い技術スキルを持っていても、協調性に欠けるメンバーがいると、プロジェクトは一気に難航します。
-そうした存在は「ブリリアントジャーク（Brilliant Jerk）」と呼ばれます。
-私自身、スクラムマスターとして、まさにそのような状況に直面したことがあります。
-本記事では、そのときの経験と、そこから得た教訓を紹介します。
-※ご紹介する内容はわかりやすく一般化したもので、実在のプロジェクトや人物とは一切関係ありません。
-
- ブリリアントジャークとは何か
-ブリリアントジャークとは、優秀だが厄介な人を... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/fad56bfecd34b4</guid>
-      <pubDate>Mon, 10 Nov 2025 02:31:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

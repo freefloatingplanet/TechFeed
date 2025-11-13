@@ -7,6 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Nov 2025 06:36:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 06:36:14 +0000</lastBuildDate>
+    <item>
+      <title>ロボット工学と人工知能における効用理論の応用を理解する：概説</title>
+      <link>https://arxiv.org/pdf/2306.09445v2</link>
+      <description>経済学、ゲーム理論、オペレーションズ・リサーチにおける統一概念として、効用はロボティクスとAIの分野においても、個体のニーズ、選好、そして興味のレベルを評価するために用いられています。特に、マルチエージェント／ロボットシステム（MAS/MRS）における意思決定と学習において、適切な効用モデルは、エージェントが現在のニーズを達成するための合理的な戦略を選択し、協調と行動の組織化を学習することで、システムの効用を最適化し、安定的で信頼できる関係を構築し、人間社会と同様に、各グループメンバーの持続可能な発展を保証するように導くことができます。これらのシステムの複雑で大規模かつ長期的な行動は、根底にある関係の基本的な特性によって強く規定されていますが、ロボティクスとAIにおけるメカニズムの理論的側面や応用分野に関する議論はこれまであまり行われてきませんでした。本稿では、エージェント間の相互作用における相互関係と外部関係を記述・評価するための、効用指向のニーズパラダイムを紹介します。そして、このパラダイムを裏付ける関連分野の既存文献を調査し、有望な研究方向と、さらなる研究が必要と考えられる未解決 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/pdf/2306.09445v2</guid>
+      <pubDate>Thu, 15 Jun 2023 18:55:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLMSat: 大規模言語モデルに基づく自律宇宙探査のための目標指向エージェント</title>
+      <link>https://arxiv.org/pdf/2405.01392v1</link>
+      <description>宇宙船が地球からより遠くへ、より複雑なミッションを遂行するにつれて、より高度な自律性と機内知能を備えたシステムが求められています。太陽系全体の探査速度を向上させるためには、人間によるミッションコントロールへの依存を減らすことがますます重要になります。最近の研究では、ミッション遂行における自律性のレベルを高めるために、AIベースの目標指向システムが検討されています。これらのシステムは、記号推論マネージャーを利用して宇宙船の状態と手作りの知識ベースから推論を行い、タスクの自律的な生成と再計画を可能にします。このようなシステムは、制御されたケースでは成功することが証明されていますが、宇宙船が世界を理解できるようにするために人間が作成したオントロジーモデルを必要とするため、実装が困難です。強化学習は、ロボットエージェントが目標を追求できるように訓練するために適用されてきました。自律性のための新しいアーキテクチャが求められています。本研究では、宇宙船の高レベル制御システムとしての大規模言語モデル（LLM）の応用を検討します。本研究では、システム工学的アプローチを用いて、LLMを推論エンジンとして (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/pdf/2405.01392v1</guid>
+      <pubDate>Sat, 13 Apr 2024 03:33:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>大規模なダイナミックエコドライブによる都市部の二酸化炭素排出量の削減</title>
+      <link>https://arxiv.org/pdf/2408.05609v2</link>
+      <description>交通の規模と多様性は、脱炭素化にとって非常に困難な分野となっています。本稿では、炭素排出量削減の新たな機会として、半自動運転車の普及拡大について考察します。半自動運転車は、インテリジェントな速度指令によって渋滞を緩和し、排出量を削減するようにプログラムできます。しかし、このようなダイナミックエコドライブは気候変動に変化をもたらすのでしょうか？交通シナリオの多様性と車両排出量の複雑さのため、包括的な影響分析はこれまで困難でした。私たちは、大規模なシナリオモデリングと、慎重に設計されたネットワーク分解戦略を用いたマルチタスク深層強化学習を用いることで、この課題に取り組みます。米国の3大都市圏の6,011の信号付き交差点において、ダイナミックエコドライブの詳細な将来的影響評価を実施し、100万通りの交通シナリオをシミュレーションしました。その結果、排出量を最適化した車両軌道は、スループットや安全性を損なうことなく、都市全体の交差点における炭素排出量を11～22%削減できることが分かりました。これは、合理的な仮定に基づくと、イスラエルとナイジェリアの排出量に相当します。エコドライブ導入率10% (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/pdf/2408.05609v2</guid>
+      <pubDate>Sat, 10 Aug 2024 18:23:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>ロボット移動のためのDeepCPGポリシー</title>
+      <link>https://arxiv.org/pdf/2302.13191v1</link>
+      <description>中枢パターン発生器（CPG）は、脚を持つ動物の歩行における律動的な行動の神経基盤を形成しています。ネットワークに組織化されたCPGダイナミクスは、複雑な歩行行動の出現を可能にします。本研究では、この知見を多脚ロボットの歩行行動開発に応用します。本研究では、CPGを大規模ニューラルネットワークの層として埋め込み、深層強化学習（DRL）環境における歩行行動のエンドツーエンド学習を容易にする、新たなDeepCPGポリシーを提示します。このアプローチの有効性を、物理エンジンベースの昆虫型ロボットを用いて実証します。従来のアプローチと比較して、DeepCPGポリシーは、高次元センサー空間（視覚）においても、効果的な歩行戦略をサンプル効率の高いエンドツーエンド学習で実現できることを示します。DeepCPGポリシーは、モジュール型ロボット構成とマルチエージェントDRLを用いて拡張可能です。本研究の結果は、これらのポリシーをモジュール型で事前確率を組み込んだ段階的な複雑化を行うことで、ロボットプラットフォーム上での非自明なセンサーとモーターの統合を実現できることを示唆しています。これらの結果は、生物学 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/pdf/2302.13191v1</guid>
+      <pubDate>Sat, 25 Feb 2023 23:16:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>分散適応制御: ロボットリサイクル工場の管理に最適な認知アーキテクチャ候補</title>
+      <link>https://arxiv.org/pdf/2012.12586v1</link>
+      <description>過去10年間、社会は様々な技術分野で著しい成長を遂げてきました。しかし、第四次産業革命はまだ受け入れられていません。インダストリー4.0は、サイバーフィジカルシステム（CPS）にオープン環境がもたらす不確実性に対処するための新しいアーキテクチャモデルの必要性など、いくつかの課題を突きつけています。廃電気電子機器（WEEE）リサイクル工場は、そのようなオープン環境の一つです。ここでは、CPSは変化する環境の中で調和的に動作し、類似のCPSやそれほど類似していないCPSと相互作用し、人間の作業員と適応的に協働する必要があります。本稿では、リサイクル工場の管理に適した認知アーキテクチャとして、分散適応制御（DAC）理論を支持します。具体的には、欧州HR-Recyclerプロジェクトの予想される要求を満たすために、DACの再帰的実装（シングルエージェントレベルと大規模レベルの両方）を提案します。さらに、再帰DACの将来の実装のための現実的なベンチマークを得ることを目的として、マイクロリサイクル工場のプロトタイプを提示します。 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/pdf/2012.12586v1</guid>
+      <pubDate>Wed, 23 Dec 2020 10:33:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>チームベースのナビゲーションの学習：マルチエージェント経路探索のための深層強化学習技術のレビュー</title>
+      <link>https://arxiv.org/pdf/2308.05893v2</link>
+      <description>マルチエージェント経路探索（MAPF）は、多くの大規模ロボット応用において重要な分野であり、マルチエージェントシステムの基本ステップとなることがよくあります。しかしながら、複雑で混雑した環境におけるMAPFの複雑さの増大は、既存のソリューションの有効性を著しく低下させます。MAPFの最近の進歩の概要を提示したり、マルチエージェントシステム設定における深層強化学習（DRL）を個別に詳細にレビューした他の研究とは対照的に、本レビュー論文で提示する私たちの研究は、MAPFにおけるDRLベースのアプローチの統合に焦点を当てています。さらに、統一された評価指標の欠如に対処し、これらの指標を包括的に明確化することで、MAPFソリューションの評価における現在のギャップを埋めることを目指しています。最後に、本論文では、モデルベースDRLが有望な将来の方向性として持つ可能性について議論し、MAPFの現在の課題に対処するために必要な基礎的な理解を提供します。私たちの目的は、読者が現在の研究の方向性を理解し、さまざまなMAPFアルゴリズムを比較するための統一された指標を提供し、モデルベースDRLに関する知識 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/pdf/2308.05893v2</guid>
+      <pubDate>Fri, 11 Aug 2023 00:59:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>ゼロショットスケーラブルコラボレーションのための異種マルチエージェント強化学習</title>
+      <link>https://arxiv.org/pdf/2404.03869v2</link>
+      <description>マルチエージェント強化学習（MARL）の出現は、自動運転車ネットワークなど、さまざまな分野に大きな変革をもたらしています。しかし、現実世界のマルチエージェントシステムは通常、複数の役割を含み、これらのシステムの規模は動的に変動します。したがって、ゼロショットのスケーラブルなコラボレーションを実現するためには、異なる役割の戦略を規模に応じて柔軟に更新できることが不可欠であり、これは現在のMARLフレームワークにとって依然として課題となっています。この問題を解決するために、我々は、パラメータ共有PPOベースのMARLネットワークに異質性を統合した、スケーラブルで異質な近接ポリシー最適化（SHPPO）という新しいMARLフレームワークを提案します。まず、潜在ネットワークを活用して、各エージェントの戦略パターンを適応的に学習します。次に、意思決定ネットワークに挿入される異質層を導入し、そのパラメータは学習された潜在変数によって具体的に生成されます。私たちのアプローチは、異種層を除くすべてのパラメータが共有されるためスケーラブルであり、個体間および時間的な異種性を獲得することで、SHPPOが様々 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/pdf/2404.03869v2</guid>
+      <pubDate>Fri, 05 Apr 2024 03:02:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>複数車両システムにおける協調制御のためのマルチ残差エキスパート混合学習</title>
+      <link>https://arxiv.org/pdf/2507.09836v1</link>
+      <description>自動運転車（AV）はますます普及しており、その用途は単なる交通手段にとどまらず、交通流を制御するモバイルアクチュエータとしての役割まで拡大しています。これは、交通信号などの従来の固定位置アクチュエータとは対照的で、ラグランジュ交通制御と呼ばれています。しかし、交通シナリオ全体に汎用化できる効果的なラグランジュ交通制御ポリシーをAV向けに設計することは、大きな課題をもたらします。現実世界の交通環境は非常に多様であり、そのような多様な交通シナリオにわたって堅牢に機能するポリシーの開発は困難です。さらに、交通システムのマルチエージェント性、参加者間の複雑な動機、そして厳格な物理的および外部的制約の下で相反する最適化目標といった複雑な要素が、この課題をさらに複雑にしています。これらの課題に対処するため、我々はMulti-Residual Mixture of Expert Learning（MRMEL）を導入します。これは、交通シナリオ空間の構造を明示的に考慮しながら、与えられた準最適な公称ポリシーを学習済み残差で拡張する、ラグランジュ交通制御のための新しいフレームワークです。特に、残差強化学 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/pdf/2507.09836v1</guid>
+      <pubDate>Mon, 14 Jul 2025 00:17:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>QuadSwarm: 直接推力制御による深層強化学習のためのモジュール式マルチクアドローターシミュレータ</title>
+      <link>https://arxiv.org/pdf/2306.09537v1</link>
+      <description>強化学習（RL）は、ロボット工学タスクのための堅牢なポリシー作成において有望性を示しています。しかし、現代のRLアルゴリズムは大量のデータを必要とし、効果的なポリシーを訓練するために数十億回の環境遷移を必要とすることがよくあります。そのため、高速で高度に並列化可能なシミュレータの使用が不可欠です。このようなシミュレータは、速度に加えて、ロボットの物理特性と環境との相互作用を、シミュレーションで学習したポリシーを現実世界に適用できるレベルでモデル化する必要があります。本稿では、これらの問題に対処する、クアドローター向けシングルロボットおよびマルチロボットRL研究のための高速で信頼性の高いシミュレータ、QuadSwarmを紹介します。QuadSwarmは、高速順方向動力学伝播をレンダリングから分離し、高度な並列化を可能にすることで、スループットが計算量の増加に比例して拡張されるように設計されています。多様な訓練シナリオを含む、マルチロボットRL向けにカスタマイズされた複数のコンポーネントを提供し、マルチクアドローター制御ポリシーの開発とsim2real転送を容易にするドメインランダム化を提 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/pdf/2306.09537v1</guid>
+      <pubDate>Thu, 15 Jun 2023 22:46:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>安全で堅牢な高速道路ランプ進入のためのマルチエージェント深層強化学習の体系的研究</title>
+      <link>https://arxiv.org/pdf/2411.14593v2</link>
+      <description>今日の自動車は高速道路で自動運転が可能であり、大都市では無人ロボタクシーが運行されています。将来的には、より高度な自動運転が利用可能になり、より普及することが期待されています。しかし、技術的には、完全自律走行に相当するいわゆる「レベル5」（L5）の運転はまだ実現されていません。そのためには、完全自律走行の高速道路ランプ進入などの機能が利用可能であり、完全自律走行を可能にするための安全性が証明され、信頼性の高い堅牢な動作を提供する必要があります。本研究では、合流する（自車）車両が進入する高速道路交通流との衝突を最小限に抑えるために車両の前進動作を制御する高速道路ランプ機能について体系的な研究を行います。この問題に対して、ゲーム理論的マルチエージェント（MA）アプローチを採用し、深層強化学習（DRL）に基づく制御器の適用について検討します。MA DRLの仮想環境では、シミュレーションデータを用いたセルフプレイを用いて、合流する車両がテーパー型合流時に縦方向の位置を安全に制御することを学習します。本論文で提示する研究は、既存の研究を拡張し、2台以上の車両（エージェント）の相互作用を研究するこ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/pdf/2411.14593v2</guid>
+      <pubDate>Thu, 21 Nov 2024 21:23:46 +0000</pubDate>
+    </item>
   </channel>
 </rss>
