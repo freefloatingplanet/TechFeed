@@ -7,11 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Nov 2025 06:36:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 06:36:02 +0000</lastBuildDate>
     <item>
       <title>ロボット工学と人工知能における効用理論の応用を理解する：概説</title>
       <link>https://arxiv.org/pdf/2306.09445v2</link>
-      <description>経済学、ゲーム理論、オペレーションズ・リサーチにおける統一概念として、効用はロボティクスとAIの分野においても、個体のニーズ、選好、そして興味のレベルを評価するために用いられています。特に、マルチエージェント／ロボットシステム（MAS/MRS）における意思決定と学習において、適切な効用モデルは、エージェントが現在のニーズを達成するための合理的な戦略を選択し、協調と行動の組織化を学習することで、システムの効用を最適化し、安定的で信頼できる関係を構築し、人間社会と同様に、各グループメンバーの持続可能な発展を保証するように導くことができます。これらのシステムの複雑で大規模かつ長期的な行動は、根底にある関係の基本的な特性によって強く規定されていますが、ロボティクスとAIにおけるメカニズムの理論的側面や応用分野に関する議論はこれまであまり行われてきませんでした。本稿では、エージェント間の相互作用における相互関係と外部関係を記述・評価するための、効用指向のニーズパラダイムを紹介します。そして、このパラダイムを裏付ける関連分野の既存文献を調査し、有望な研究方向と、さらなる研究が必要と考えられる未解決 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <description>経済学、ゲーム理論、オペレーションズ・リサーチにおける統一概念として、効用はロボティクスとAIの分野においても、個体のニーズ、選好、そして興味のレベルを評価するために用いられています。特に、マルチエージェント／ロボットシステム（MAS/MRS）における意思決定と学習において、適切な効用モデルは、エージェントが現在のニーズを達成するための合理的な戦略を選択し、協調と行動の組織化を学習することで、システムの効用を最適化し、安定的で信頼できる関係を構築し、人間社会と同様に、各グループメンバーの持続可能な発展を保証することを導きます。これらのシステムの複雑で大規模かつ長期的な行動は、根底にある関係性の基本特性によって強く規定されていますが、ロボティクスとAIにおけるメカニズムの理論的側面や応用分野に関する議論はこれまであまり行われてきませんでした。本稿では、エージェント間の相互作用における相互関係と外部関係を記述・評価するための、効用指向のニーズパラダイムを紹介します。そして、関連分野の既存文献を調査し、このパラダイムを裏付ける有望な研究方向性と、今後の研究に必要と思われる未解決の問題をいくつ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
       <guid isPermaLink="true">https://arxiv.org/pdf/2306.09445v2</guid>
       <pubDate>Thu, 15 Jun 2023 18:55:48 +0000</pubDate>
     </item>

@@ -7,43 +7,44 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Nov 2025 06:36:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 06:35:54 +0000</lastBuildDate>
     <item>
-      <title>チーム専属QAからE2E自動化横断支援へ。QAキャリアを前進させた1年間</title>
-      <link>https://zenn.dev/mixi/articles/8ec03e546072af</link>
-      <description>こんにちは！　株式会社MIXIでQAをしているayanoです。
-この1年間、私は「チーム専属QA」から「横断的なE2Eテスト自動化の支援者」という新しい役割に挑戦してきました。
-この記事では、そんな私がどんなきっかけでキャリアを変え、どんな1年を過ごしてきたのかをまとめます。
-「チームの中で頑張るQA」から、「チームを支えるQA」へ──その変化の過程を、ひとつのキャリアケースとして読んでいただけたらと思います。
+      <title>【2025年版】生成AIツール、結局どれ使えばいいの？実際に使って比較してみた</title>
+      <link>https://zenn.dev/miz_1123/articles/30496a86db8feb</link>
+      <description>生成AIツールが乱立する中、どのモデル・ツールを選べばいいか迷っている方も多いのではないでしょうか。本記事では、実際に使ったことのあるモデルとツールに絞って、それぞれの特徴と使い分けを紹介します。
+!
+筆者はClaude信者の為、若干偏った思想の記事になっている可能性があります。
 
- チーム専属QAとしての私
-異業種・異職種からQAエンジニアに転職して5年半の期間、私は計4つの開発チームで「チーム専属QA」として働いてきました。
-最初は、テスト実行を通じて... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mixi/articles/8ec03e546072af</guid>
-      <pubDate>Tue, 11 Nov 2025 06:02:10 +0000</pubDate>
+
+ モデルの特徴
+まずは、主要な生成AIモデルの特徴を見ていきましょう。それぞれ得意分野が異なるため、用途に応じて使い分けることをおすすめします。
+
+
+GPT: 発散的思考が得意で、短時間で多様なアイデアを生成できる。ブレインストーミングや企画の壁打ち相手におすすめ
+
+Codex: GPTのコーディング特化型... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/miz_1123/articles/30496a86db8feb</guid>
+      <pubDate>Wed, 12 Nov 2025 12:36:23 +0000</pubDate>
     </item>
     <item>
-      <title>【Snowflake】Snowflake IntelligenceにWeb検索機能を統合してみた</title>
-      <link>https://zenn.dev/truestar/articles/6f080b08a49911</link>
-      <description>はじめに
-企業のデータ分析基盤としてSnowflakeを活用するケースは増えていますが、その多くは社内に蓄積された構造化データの分析に留まっています。
-一方で、実際のビジネス意思決定では、ニュース、SNS、オープンデータなど、社外の非構造データが重要なインサイトをもたらす場面が少なくありません。
-そこで今回、Snowflake IntelligenceにWeb検索機能を組み込み、Web上から取得した情報とSnowflake内のデータをあわせて要約・分析・洞察生成を行えるようなエージェントを作成しました。
-本記事では、この機能を実現するための設計方針、Web情報の取得と統合の仕組みを解... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/truestar/articles/6f080b08a49911</guid>
-      <pubDate>Wed, 12 Nov 2025 07:26:25 +0000</pubDate>
+      <title>なぜ、今「CRAFT」なのか？ 〜高市政権の「モノづくり再興」が、AI時代のエンジニアの"職人魂"に火をつける〜</title>
+      <link>https://qiita.com/GIFCat/items/2d4aa7a4c8ef19486211?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>「AI」と「国家」が、同時にあなたの価値を変えようとしている
+今、私たちエンジニアのキャリアは、2つの巨大な地殻変動に挟まれています。
+
+ミクロな変動（AI）：
+AIが進化し、日々の「Work（作業）」が奪われるかもしれないという、個人のキャリアへの不安。
+
+マクロな変... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/GIFCat/items/2d4aa7a4c8ef19486211?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 13 Nov 2025 00:11:54 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeを使ったおすすめ勉強法</title>
-      <link>https://zenn.dev/parfait/articles/7542405e10130d</link>
-      <description>Claude Codeの登場で学びの時間が減った
-Claude Codeが便利すぎて、もう手放せません。
-ただし、Claude Codeを使えば使うほど「自分でコーディングする機会」は激減しました。
-それが悪いとは断言しづらいですが、一つ言えるのは「私のような中途半端にプログラミングを学んだ人間にとって勉強の機会が減ることは致命的」ということです。
-Claude Codeの/output-styleでLearningを選ぶことでユーザーの学習をサポートできなくはないのですが、個人的に試した印象としては「身につけるための学習」とはちょっと違うかな？と感じました。
-では「身につけるための... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/parfait/articles/7542405e10130d</guid>
-      <pubDate>Mon, 10 Nov 2025 14:46:33 +0000</pubDate>
+      <title>チームを壊す「ブリリアントジャーク」とどう向き合うか―スクラムマスターとしての実践と学び―</title>
+      <link>https://web.archive.org/web/20251111083112/https://zenn.dev/nttdata_tech/articles/fad56bfecd34b4</link>
+      <description>はじめに アジャイル開発では「チームワーク」が成果の鍵を握ります。 しかし、チームの中に高い技術スキルを持っていても、協調性に欠けるメンバーがいると、プロジェクトは一気に難航します。 そうした存在は「ブリリアントジャーク（Brilliant Jerk）」と呼ばれます。 私自身、スクラムマスターとして、まさにそのよ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://web.archive.org/web/20251111083112/https://zenn.dev/nttdata_tech/articles/fad56bfecd34b4</guid>
+      <pubDate>Thu, 13 Nov 2025 18:35:49 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】FFmpegがGoogleへ「バグだけじゃなく、資金も送れ」 — AIによる脆弱性報告急増の裏で、OSSに起きている危機</title>
@@ -60,6 +61,27 @@ Claude Codeの/output-styleでLearningを選ぶことでユーザーの学習を
       <pubDate>Mon, 10 Nov 2025 21:10:19 +0000</pubDate>
     </item>
     <item>
+      <title>LLM開発の裏で行われるデバッグ作業: PyTorch DCP</title>
+      <link>https://zenn.dev/turing_motors/articles/04eed10b0aafe9</link>
+      <description>はじめに
+Turing CTO室に所属している東京科学大学(Institute of Science Tokyo)の藤井です。
+本記事は、LLM, VLM開発の裏で行われるリアルなデバッグ作業の様子を紹介します。
+LLM, VLMの開発の裏には本記事で紹介するような地道なデバッグ作業が多数あるのですが、なかなかその実態が伝わっていないように思います。できるだけ詳細にデバッグ作業の様子を記しましたので、実際の現場で行われている作業を追体験いただけますと幸いです。
+
+ Background
+まず、デバッグ作業を行う前の背景と経緯について説明します。
+学習に使用している依存関係の継続的なu... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/04eed10b0aafe9</guid>
+      <pubDate>Thu, 13 Nov 2025 06:03:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>なぜ人手不足なのにIT人材が消耗品にされる？　日本型DXの致命的な欠陥構造を分析</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2511/13/news003.html</link>
+      <description>この連載について 過去25年間にわたる、IT部門のコスト削減や効率化を目的とした合理的判断の連続が技術力の空洞化を招き、DX推進の期待に応えられないという不合理な結果を生んだ。 さらに、多くの企業が既存IT人材を事実上の消耗品として扱っているとしたら、それは部門の生気や覇気を奪う「呪縛」とも言える。 本連載... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2511/13/news003.html</guid>
+      <pubDate>Thu, 13 Nov 2025 01:34:43 +0000</pubDate>
+    </item>
+    <item>
       <title>アジャイル開発の課題を経営課題として捉える〜人的資本経営とFAST〜</title>
       <link>https://zenn.dev/loglass/articles/agile-as-management-issue-hcm-fast</link>
       <description>!
@@ -72,33 +94,6 @@ Claude Codeの/output-styleでLearningを選ぶことでユーザーの学習を
 困り果てていた私は偶然「問題解決のジレンマ」と「5000の事例から導き出した 日本企業最後の伸びしろ 人的資本経営大全」という書籍を手に取りました。そして、その書籍から得た知見をこの組織を良くしていくことに使え... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/loglass/articles/agile-as-management-issue-hcm-fast</guid>
       <pubDate>Wed, 12 Nov 2025 04:44:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>社内でAIハッカソン(AI開発合宿)を開催した話</title>
-      <link>https://zenn.dev/hokuto_tech/articles/c6ec0fb4eb11d8</link>
-      <description>2025年9月に、HOKUTOの開発メンバー(エンジニア・QAエンジニア・デザイナー)で開発合宿を行ってきました。
-HOKUTOではフルリモートでの働き方となっており、メンバーでオフラインで集まって何かを行うというのは実は珍しかったりします。
-開発合宿では毎年テーマを決めて取り組む形にしています。今年は 「生成AIを活用して普段の開発・作業を楽にしてくれるかもしれないツールを作る」というテーマ のもと、いわゆる「AIハッカソン」を行いました。
-今回の開発合宿は以下の目的のもと開催しました:
-
-最新のAI技術トレンドと応用事例についての知識を深める
-参加者同士の情報共有を促進し、生成AI関... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hokuto_tech/articles/c6ec0fb4eb11d8</guid>
-      <pubDate>Tue, 11 Nov 2025 01:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Twilio Preflightで通話品質を "診断" する</title>
-      <link>https://zenn.dev/ivry/articles/f275cb6a125e8e</link>
-      <description>はじめに
-こんにちは！株式会社IVRy でソフトウェアエンジニアをしているtsutouです。
-VoIPで音声通話を実現している音声通話アプリにおいて「音声が聞こえない」「途切れる」といったユーザー問い合わせは、サポートチームにとって調査の難易度が高く大きな負担となります。
-!
-VoIP（Voice over Internet Protocol） は、従来の電話回線ではなく、インターネットなどのIPネットワークを介して音声をやりとりする技術です。
-
-特に、ネットワーク環境に起因する問題は、ユーザー自身では原因を特定することが困難で、結果として多くのサポート依頼につながっていました。
-そ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ivry/articles/f275cb6a125e8e</guid>
-      <pubDate>Tue, 11 Nov 2025 08:39:39 +0000</pubDate>
     </item>
     <item>
       <title>エンジニアキャリアと敗者のゲームと勝者のゲーム</title>
@@ -117,18 +112,19 @@ https://amzn.to/4nOxa3q
       <pubDate>Tue, 11 Nov 2025 21:12:56 +0000</pubDate>
     </item>
     <item>
-      <title>育休中の深夜に作った、オムツ用ゴミ袋残量センサー</title>
-      <link>https://zenn.dev/zaico/articles/3b0e97e757adbc</link>
-      <description>初めての育児とゴミ出し問題→からのラピッドプロトタイピング
-↓一夜城のゴミ袋残量センサー
-
-やあみんな！株式会社ZAICO 新規事業開発室の @tarouimo だよ！
-いきなり私事ですが、息子が生まれて育休を取得して、はじめての育児に奮闘してました。
-ところで私の家ではごみ収集場がご近所様と共同になっています。燃やすゴミの日は大量のオムツを捨てるのですが、、、ある日、カラス被害で我が家のゴミ袋が見るも無惨な姿になっているではありませんか！
-ご近所の方が清掃を手伝ってくれてありがたかった反面、迷惑をかけてしまったので対策しなければなりません。
-そこで、市の指定袋の内側に丈夫なクラフト... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/zaico/articles/3b0e97e757adbc</guid>
-      <pubDate>Mon, 10 Nov 2025 22:57:01 +0000</pubDate>
+      <title>Python で他生物の視覚をシミュレートする</title>
+      <link>https://zenn.dev/aldagram_tech/articles/2bb82ddb00cffc</link>
+      <description>こんにちは！アルダグラムでエンジニアをしている内倉です
+今年も、一年が終わろうとしていますね。
+私のブログ当番は、これが今年最後の予定なので、また印象に残ったニュースを振り返ってみたいと思います。
+今年、個人的に気になったニュースは、だいぶ最近ですが
+日本では初めての発見となる、二枚貝と共生するヨコエビ、その名も「ユキミノノマルハサミヨコエビ」の発見です。（なんと風情のあるお名前…）
+研究者の方のコメントで、
+ミノガイの仲間ですが、調査で甲殻類を探していると海底の岩をどけたときに触手を活発に動かして
+蠢いている様子をまれに見ます。
+今回はそれを見て『何か寄生していないかな～』と考え貝を持... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aldagram_tech/articles/2bb82ddb00cffc</guid>
+      <pubDate>Thu, 13 Nov 2025 09:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
