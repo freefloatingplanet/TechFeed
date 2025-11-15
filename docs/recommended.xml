@@ -7,44 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Nov 2025 06:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 06:32:12 +0000</lastBuildDate>
     <item>
-      <title>【2025年版】生成AIツール、結局どれ使えばいいの？実際に使って比較してみた</title>
-      <link>https://zenn.dev/miz_1123/articles/30496a86db8feb</link>
-      <description>生成AIツールが乱立する中、どのモデル・ツールを選べばいいか迷っている方も多いのではないでしょうか。本記事では、実際に使ったことのあるモデルとツールに絞って、それぞれの特徴と使い分けを紹介します。
-!
-筆者はClaude信者の為、若干偏った思想の記事になっている可能性があります。
+      <title>AIの質問を『選択肢+推奨度+理由』にしたら、意思決定の質と速度が圧倒的にあがった</title>
+      <link>https://zenn.dev/loglass/articles/e250a06fca1f4a</link>
+      <description>こんにちは、ログラスの松岡(@little_hand_s})です
+
+ 3行まとめ
+
+AIに質問させるときに選択肢を提示させると、回答が楽で早くなる
+さらに、推奨度とその理由を出力させると、その根拠を元にAIと議論できるし、納得感を持って進められる
+結果、意思決定が速くなり、質も上がる
 
 
- モデルの特徴
-まずは、主要な生成AIモデルの特徴を見ていきましょう。それぞれ得意分野が異なるため、用途に応じて使い分けることをおすすめします。
-
-
-GPT: 発散的思考が得意で、短時間で多様なアイデアを生成できる。ブレインストーミングや企画の壁打ち相手におすすめ
-
-Codex: GPTのコーディング特化型... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/miz_1123/articles/30496a86db8feb</guid>
-      <pubDate>Wed, 12 Nov 2025 12:36:23 +0000</pubDate>
+ AIと対話しながら開発してますか？
+Claude CodeやCursorなどのAI開発ツールを使ってる人、増えてますよね。
+AIが暴走しないように、不明な点を質問させてる人も多いと思います。
+でも、毎回自然言語で答えるの、面倒じゃないですか？
+たとえば：
+AI: 「バリデーション、フロントエンドとバッ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/loglass/articles/e250a06fca1f4a</guid>
+      <pubDate>Wed, 12 Nov 2025 03:48:07 +0000</pubDate>
     </item>
     <item>
-      <title>なぜ、今「CRAFT」なのか？ 〜高市政権の「モノづくり再興」が、AI時代のエンジニアの"職人魂"に火をつける〜</title>
-      <link>https://qiita.com/GIFCat/items/2d4aa7a4c8ef19486211?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>「AI」と「国家」が、同時にあなたの価値を変えようとしている
-今、私たちエンジニアのキャリアは、2つの巨大な地殻変動に挟まれています。
-
-ミクロな変動（AI）：
-AIが進化し、日々の「Work（作業）」が奪われるかもしれないという、個人のキャリアへの不安。
-
-マクロな変... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/GIFCat/items/2d4aa7a4c8ef19486211?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 13 Nov 2025 00:11:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>チームを壊す「ブリリアントジャーク」とどう向き合うか―スクラムマスターとしての実践と学び―</title>
-      <link>https://web.archive.org/web/20251111083112/https://zenn.dev/nttdata_tech/articles/fad56bfecd34b4</link>
-      <description>はじめに アジャイル開発では「チームワーク」が成果の鍵を握ります。 しかし、チームの中に高い技術スキルを持っていても、協調性に欠けるメンバーがいると、プロジェクトは一気に難航します。 そうした存在は「ブリリアントジャーク（Brilliant Jerk）」と呼ばれます。 私自身、スクラムマスターとして、まさにそのよ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://web.archive.org/web/20251111083112/https://zenn.dev/nttdata_tech/articles/fad56bfecd34b4</guid>
-      <pubDate>Thu, 13 Nov 2025 18:35:49 +0000</pubDate>
+      <title>おい、言語化しろ - じゃあ、おうちで学べる</title>
+      <link>https://syu-m-5151.hatenablog.com/entry/2025/11/14/112023</link>
+      <description>はじめに 「言語化」という言葉を聞くたびに、私は少しだけ居心地が悪くなる。この感覚に初めて気づいたのは、数年前の、ある夏の午後だった。後輩エンジニアとの1on1で、私は彼にコードレビューのコツを教えようとしていた。モニターに映るコードを指差しながら、「このコードの何が良くないか、分かる？」と聞いた。彼... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://syu-m-5151.hatenablog.com/entry/2025/11/14/112023</guid>
+      <pubDate>Fri, 14 Nov 2025 03:07:11 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】FFmpegがGoogleへ「バグだけじゃなく、資金も送れ」 — AIによる脆弱性報告急増の裏で、OSSに起きている危機</title>
@@ -75,41 +65,52 @@ LLM, VLMの開発の裏には本記事で紹介するような地道なデバッ
       <pubDate>Thu, 13 Nov 2025 06:03:34 +0000</pubDate>
     </item>
     <item>
-      <title>なぜ人手不足なのにIT人材が消耗品にされる？　日本型DXの致命的な欠陥構造を分析</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2511/13/news003.html</link>
-      <description>この連載について 過去25年間にわたる、IT部門のコスト削減や効率化を目的とした合理的判断の連続が技術力の空洞化を招き、DX推進の期待に応えられないという不合理な結果を生んだ。 さらに、多くの企業が既存IT人材を事実上の消耗品として扱っているとしたら、それは部門の生気や覇気を奪う「呪縛」とも言える。 本連載... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2511/13/news003.html</guid>
-      <pubDate>Thu, 13 Nov 2025 01:34:43 +0000</pubDate>
+      <title>書いたコードを“スキル化”して再利用してる話</title>
+      <link>https://zenn.dev/explaza/articles/9f3271d1a9ce70</link>
+      <description>こんにちは、@_mkazutaka です。
+今回は、Claude Codeのスキル機能を使って、過去に書いたコードをスキル化し、再利用する方法について紹介したいと思います。
+
+ 背景
+コードを書く際に、プロジェクトの規則、もしくはある一定のパターンに従って、コードを書くことがあると思います。例えば、弊社の場合、データストアへのアクセスのためにRepositoryパターンが使われているのですが、エンティティごとにだいたい似たような実装になることが多いです。
+具体的には以下の6個の関数を定義し、テストを加えた形が多いです。
+
+create: 作成
+update: 更新
+save: 更新 もし... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/explaza/articles/9f3271d1a9ce70</guid>
+      <pubDate>Thu, 13 Nov 2025 07:55:42 +0000</pubDate>
     </item>
     <item>
-      <title>アジャイル開発の課題を経営課題として捉える〜人的資本経営とFAST〜</title>
-      <link>https://zenn.dev/loglass/articles/agile-as-management-issue-hcm-fast</link>
-      <description>!
-この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の117週目の記事です！
-3年間連続達成まで残り42週となりました！
-
-
- はじめに
-みなさんは、良いプロダクトを作っていくために、良い組織を作りたいと考えたことはありますか？私は常にこのことについて頭を悩ませていますが、うまくいかないことだらけでいつも心が折れてしまいそうになります。
-困り果てていた私は偶然「問題解決のジレンマ」と「5000の事例から導き出した 日本企業最後の伸びしろ 人的資本経営大全」という書籍を手に取りました。そして、その書籍から得た知見をこの組織を良くしていくことに使え... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/loglass/articles/agile-as-management-issue-hcm-fast</guid>
-      <pubDate>Wed, 12 Nov 2025 04:44:41 +0000</pubDate>
+      <title>「Suicaのペンギン」卒業騒動にまつわる背景と誤解　JR東日本に聞いた</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2511/14/news113.html</link>
+      <description>「Suicaのペンギン」はSuicaのキャラクター“ではなかった” Suicaのペンギンの生みの親は、イラストレーターで絵本作家の坂崎千春さんです。SNSでは「SuicaのペンギンがSuicaのために生まれた」という前提で反応している人が多いのですが、実はそこに“勘違い”があります。 坂崎さんは、絵本作家として1998年からペンギン... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2511/14/news113.html</guid>
+      <pubDate>Fri, 14 Nov 2025 11:46:57 +0000</pubDate>
     </item>
     <item>
-      <title>エンジニアキャリアと敗者のゲームと勝者のゲーム</title>
-      <link>https://zenn.dev/truestar/articles/8692d8a0eddb28</link>
-      <description>前置き
-こんにちは。さすらいのデータエンジニアのこみぃです。
-秋がギリギリその体面を保ちつつ、でも冬に移りつつある昨今ですが、いかがお過ごしでしょうか？
-秋の夜長はポエムを読みたくなる季節ということで、今日は一風変わった記事をお届けしましょう。
+      <title>TestcontainersでRDBを使ったテストを快適にする仕組み</title>
+      <link>https://zenn.dev/praha/articles/255cf672650e2e</link>
+      <description>なぜSQLのテストが必要なのか
+ユニットテストでDBアクセスをモックするのは一般的なプラクティスです。テストの高速化に有効ですが、SQLロジック自体はテストされないという課題があります。
+複雑なJOINや集計処理、サブクエリを含むSQLは、意図通りに動作しているか実際にRDBで実行してみないとわかりません。また、パフォーマンスチューニングのためにSQLを書き換えたとき、テストがなければ「最適化によって挙動が壊れていないか」を確認するのが困難です。
+「シンプルなSQLだけ書いて、複雑な処理はアプリケーション側で行えばよいのでは」という考え方もあるでしょう。しかし、大量のデータをアプリケ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/praha/articles/255cf672650e2e</guid>
+      <pubDate>Thu, 13 Nov 2025 04:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>デカルトの4つの規則に学ぶエンジニアの思考法</title>
+      <link>https://zenn.dev/hisamitsu/articles/449cbae1fcf02d</link>
+      <description>自分も気づけば30代後半で、エンジニアとしての知識だけでなく、最低限の教養も持っておきたいなと思い、空いてる時間で哲学をかじり始めました（継続できる自信はない）。
+その中で、あの有名な名言「我思う、ゆえに我あり」を残した、近代哲学の父と呼ばれるデカルトが、真実を探究するために作った4つの規則がエンジニアにも使える思考法だなと思い、記事化しておきます。
 
- 勝者のゲームと敗者のゲーム
-さて、まずはいきなり見慣れない概念から始めていきましょう。世の中には勝者のゲームと敗者のゲームという、2つのゲーム観の概念が存在します。
-これは書籍「敗者のゲーム」に出てくる概念です。作中の例でそのまま解説します。
-https://amzn.to/4nOxa3q
-敗者のゲームとは、プレイヤーのどちらかがミスをし... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/truestar/articles/8692d8a0eddb28</guid>
-      <pubDate>Tue, 11 Nov 2025 21:12:56 +0000</pubDate>
+ デカルトが4つの規則に到達するまで：背景と思想の流れ
+本題に入る前に、少し背景を。
+デカルトが生きた17世紀ヨーロッパは、「何が正しいのか？」が分からない時代でした。
+
+宗教戦争（カトリック vs プロテスタント）で社会全体が混乱
+占星... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hisamitsu/articles/449cbae1fcf02d</guid>
+      <pubDate>Fri, 14 Nov 2025 00:02:04 +0000</pubDate>
     </item>
     <item>
       <title>Python で他生物の視覚をシミュレートする</title>

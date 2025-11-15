@@ -7,76 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Nov 2025 06:36:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 06:32:21 +0000</lastBuildDate>
     <item>
-      <title>ロボット工学と人工知能における効用理論の応用を理解する：概説</title>
-      <link>https://arxiv.org/pdf/2306.09445v2</link>
-      <description>経済学、ゲーム理論、オペレーションズ・リサーチにおける統一概念として、効用はロボティクスとAIの分野においても、個体のニーズ、選好、そして興味のレベルを評価するために用いられています。特に、マルチエージェント／ロボットシステム（MAS/MRS）における意思決定と学習において、適切な効用モデルは、エージェントが現在のニーズを達成するための合理的な戦略を選択し、協調と行動の組織化を学習することで、システムの効用を最適化し、安定的で信頼できる関係を構築し、人間社会と同様に、各グループメンバーの持続可能な発展を保証することを導きます。これらのシステムの複雑で大規模かつ長期的な行動は、根底にある関係性の基本特性によって強く規定されていますが、ロボティクスとAIにおけるメカニズムの理論的側面や応用分野に関する議論はこれまであまり行われてきませんでした。本稿では、エージェント間の相互作用における相互関係と外部関係を記述・評価するための、効用指向のニーズパラダイムを紹介します。そして、関連分野の既存文献を調査し、このパラダイムを裏付ける有望な研究方向性と、今後の研究に必要と思われる未解決の問題をいくつ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/pdf/2306.09445v2</guid>
-      <pubDate>Thu, 15 Jun 2023 18:55:48 +0000</pubDate>
+      <title>プレビュー、承認、それとも破棄？予測的な低モーションインタラクションパラダイム</title>
+      <link>https://arxiv.org/abs/2511.10532v1</link>
+      <description>反復運動障害（RSI）は、コンピューター ユーザーのおよそ 5 人に 1 人が罹患しており、何十年にもわたる人間工学に基づいたマウスの再設計にもかかわらず、未だに大部分が解決されていません。このようなデバイスにはすべて、操作するために依然として微細運動が必要なという根本的な限界があります。この研究では、予測的な AI 支援入力が、物理的なポインティングをランク付けされた画面上の候補に置き換えることで、その動きを削減できるかどうかを調査します。ユーザーの主体性を維持するために、Preview Accept Discard（PAD）を導入します。これは、ユーザーが予測された GUI ターゲットをプレビューし、ランク付けされた選択肢の小さなセットを循環表示し、キーを離すタイミングでそれらを承認または破棄できる、ゼロクリック インタラクション パラダイムです。PAD は、ブラウザーベースの電子メール クライアントと、さまざまな上位 3 つの精度での ISO 9241-9 キーボード予測タスクの 2 つの設定で評価します。両方の研究を通じて、PAD は、精度が最高のスペルチェッカーの精度と同程度 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.10532v1</guid>
+      <pubDate>Thu, 13 Nov 2025 17:31:35 +0000</pubDate>
     </item>
     <item>
-      <title>LLMSat: 大規模言語モデルに基づく自律宇宙探査のための目標指向エージェント</title>
-      <link>https://arxiv.org/pdf/2405.01392v1</link>
-      <description>宇宙船が地球からより遠くへ、より複雑なミッションを遂行するにつれて、より高度な自律性と機内知能を備えたシステムが求められています。太陽系全体の探査速度を向上させるためには、人間によるミッションコントロールへの依存を減らすことがますます重要になります。最近の研究では、ミッション遂行における自律性のレベルを高めるために、AIベースの目標指向システムが検討されています。これらのシステムは、記号推論マネージャーを利用して宇宙船の状態と手作りの知識ベースから推論を行い、タスクの自律的な生成と再計画を可能にします。このようなシステムは、制御されたケースでは成功することが証明されていますが、宇宙船が世界を理解できるようにするために人間が作成したオントロジーモデルを必要とするため、実装が困難です。強化学習は、ロボットエージェントが目標を追求できるように訓練するために適用されてきました。自律性のための新しいアーキテクチャが求められています。本研究では、宇宙船の高レベル制御システムとしての大規模言語モデル（LLM）の応用を検討します。本研究では、システム工学的アプローチを用いて、LLMを推論エンジンとして (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/pdf/2405.01392v1</guid>
-      <pubDate>Sat, 13 Apr 2024 03:33:17 +0000</pubDate>
+      <title>感情的知性と責任ある強化学習に向けて</title>
+      <link>https://arxiv.org/abs/2511.10573v1</link>
+      <description>医療や行動支援におけるパーソナライズされた意思決定システムは、多くの場合、静的なルールベースやエンゲージメント最大化ヒューリスティックに依存しており、ユーザーの感情的背景や倫理的制約が考慮されていません。このようなアプローチは、特に重度の精神疾患、物質使用障害、うつ病などの領域において、無神経または安全でない介入を推奨するリスクがあります。この限界に対処するため、我々は、感情的および文脈的理解と倫理的配慮を順次的な意思決定プロセスに統合する責任ある強化学習（RRL）フレームワークを提案します。RRLは、パーソナライズを制約付きマルコフ決定プロセス（CMDP）として定式化し、エージェントが感情的整合性と倫理的安全性を確保しながらエンゲージメントと遵守を最適化します。我々は、短期的な行動エンゲージメントと長期的なユーザーの幸福を明示的にバランスさせる多目的報酬関数を導入し、感情的な準備、影響、リスクの変動を捉える感情情報に基づく状態表現を定義します。提案されたアーキテクチャは、安全制約またはラグランジュ正則化を拡張した任意の強化学習アルゴリズム（例：DQN、PPO）でインスタンス化できます (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.10573v1</guid>
+      <pubDate>Thu, 13 Nov 2025 18:09:37 +0000</pubDate>
     </item>
     <item>
-      <title>大規模なダイナミックエコドライブによる都市部の二酸化炭素排出量の削減</title>
-      <link>https://arxiv.org/pdf/2408.05609v2</link>
-      <description>交通の規模と多様性は、脱炭素化にとって非常に困難な分野となっています。本稿では、炭素排出量削減の新たな機会として、半自動運転車の普及拡大について考察します。半自動運転車は、インテリジェントな速度指令によって渋滞を緩和し、排出量を削減するようにプログラムできます。しかし、このようなダイナミックエコドライブは気候変動に変化をもたらすのでしょうか？交通シナリオの多様性と車両排出量の複雑さのため、包括的な影響分析はこれまで困難でした。私たちは、大規模なシナリオモデリングと、慎重に設計されたネットワーク分解戦略を用いたマルチタスク深層強化学習を用いることで、この課題に取り組みます。米国の3大都市圏の6,011の信号付き交差点において、ダイナミックエコドライブの詳細な将来的影響評価を実施し、100万通りの交通シナリオをシミュレーションしました。その結果、排出量を最適化した車両軌道は、スループットや安全性を損なうことなく、都市全体の交差点における炭素排出量を11～22%削減できることが分かりました。これは、合理的な仮定に基づくと、イスラエルとナイジェリアの排出量に相当します。エコドライブ導入率10% (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/pdf/2408.05609v2</guid>
-      <pubDate>Sat, 10 Aug 2024 18:23:59 +0000</pubDate>
+      <title>単一ノードを超えたLLM推論：高速All-Reduce通信によるボトルネックの緩和策</title>
+      <link>https://arxiv.org/abs/2511.09557v2</link>
+      <description>大規模言語モデル (LLM) のサイズが拡大し続けるにつれて、分散推論の重要性が高まっています。モデル並列戦略は、複数の GPU だけでなく複数のノードにも効率的に拡張できなければなりません。この研究では、GPU ベースのスーパーコンピューターで LLM を使用したマルチノード分散推論の詳細なパフォーマンス調査を紹介します。制御された実験用に設計された研究指向のプロトタイプエンジンである YALIS と並行して、いくつかの最先端の推論エンジンを使用して実験を行います。さまざまなモデル並列スキームの強力なスケーリング動作を分析し、主要なボトルネックを特定します。all-reduce 操作は一般的なパフォーマンスのボトルネックであるため、NVSHMEM を使用した再帰的倍増に基づく階層型 all-reduce アルゴリズムである NVRAR を開発しました。NVRAR は、HPE Slingshot および InfiniBand インターコネクト上で 128 KB ～ 2 MB のメッセージサイズに対して、NCCL よりも最大 1.9 ～ 3.6 倍低いレイテンシを実現します。 YALIS (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.09557v2</guid>
+      <pubDate>Wed, 12 Nov 2025 18:59:26 +0000</pubDate>
     </item>
     <item>
-      <title>ロボット移動のためのDeepCPGポリシー</title>
-      <link>https://arxiv.org/pdf/2302.13191v1</link>
-      <description>中枢パターン発生器（CPG）は、脚を持つ動物の歩行における律動的な行動の神経基盤を形成しています。ネットワークに組織化されたCPGダイナミクスは、複雑な歩行行動の出現を可能にします。本研究では、この知見を多脚ロボットの歩行行動開発に応用します。本研究では、CPGを大規模ニューラルネットワークの層として埋め込み、深層強化学習（DRL）環境における歩行行動のエンドツーエンド学習を容易にする、新たなDeepCPGポリシーを提示します。このアプローチの有効性を、物理エンジンベースの昆虫型ロボットを用いて実証します。従来のアプローチと比較して、DeepCPGポリシーは、高次元センサー空間（視覚）においても、効果的な歩行戦略をサンプル効率の高いエンドツーエンド学習で実現できることを示します。DeepCPGポリシーは、モジュール型ロボット構成とマルチエージェントDRLを用いて拡張可能です。本研究の結果は、これらのポリシーをモジュール型で事前確率を組み込んだ段階的な複雑化を行うことで、ロボットプラットフォーム上での非自明なセンサーとモーターの統合を実現できることを示唆しています。これらの結果は、生物学 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/pdf/2302.13191v1</guid>
-      <pubDate>Sat, 25 Feb 2023 23:16:57 +0000</pubDate>
+      <title>遅延フィードバック下での個別資源配分のための二層コンテキストバンディット</title>
+      <link>https://arxiv.org/abs/2511.10572v1</link>
+      <description>教育、雇用、医療といったハイステークス領域において、限られた資源を公平に配分するには、短期的な効用と長期的な影響のバランスを取り、遅延効果、隠れた異質性、倫理的制約を考慮する必要があります。しかしながら、ほとんどの学習ベースの配分フレームワークは、即時フィードバックを前提とするか、個人の特性と介入のダイナミクスの複雑な相互作用を無視しています。本稿では、遅延フィードバック下での個別化された資源配分のための、新たな二階層コンテキストバンディットフレームワークを提案します。このフレームワークは、動的な人口、キャパシティ制約、そして時間的制約のある影響を伴う現実世界の状況で動作するように設計されています。メタレベルでは、このモデルは、公平性と運用上の制約を満たすように、サブグループレベルの予算配分を最適化します。ベースレベルでは、観察データで学習されたニューラルネットワークを用いて、各グループ内で最も反応性の高い個人を特定します。同時に、資源固有の遅延カーネルによってモデル化されたクールダウンウィンドウと遅延治療効果を考慮します。時間的ダイナミクスとフィードバック遅延を明示的にモデル化するこ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.10572v1</guid>
+      <pubDate>Thu, 13 Nov 2025 18:09:08 +0000</pubDate>
     </item>
     <item>
-      <title>分散適応制御: ロボットリサイクル工場の管理に最適な認知アーキテクチャ候補</title>
-      <link>https://arxiv.org/pdf/2012.12586v1</link>
-      <description>過去10年間、社会は様々な技術分野で著しい成長を遂げてきました。しかし、第四次産業革命はまだ受け入れられていません。インダストリー4.0は、サイバーフィジカルシステム（CPS）にオープン環境がもたらす不確実性に対処するための新しいアーキテクチャモデルの必要性など、いくつかの課題を突きつけています。廃電気電子機器（WEEE）リサイクル工場は、そのようなオープン環境の一つです。ここでは、CPSは変化する環境の中で調和的に動作し、類似のCPSやそれほど類似していないCPSと相互作用し、人間の作業員と適応的に協働する必要があります。本稿では、リサイクル工場の管理に適した認知アーキテクチャとして、分散適応制御（DAC）理論を支持します。具体的には、欧州HR-Recyclerプロジェクトの予想される要求を満たすために、DACの再帰的実装（シングルエージェントレベルと大規模レベルの両方）を提案します。さらに、再帰DACの将来の実装のための現実的なベンチマークを得ることを目的として、マイクロリサイクル工場のプロトタイプを提示します。 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/pdf/2012.12586v1</guid>
-      <pubDate>Wed, 23 Dec 2020 10:33:22 +0000</pubDate>
+      <title>追加の地上データなしで因果推論のための機械学習予測のバイアス除去：衛星データに基づく貧困分析における「一枚の地図、多くの試行」</title>
+      <link>https://arxiv.org/abs/2508.01341v2</link>
+      <description>衛星画像などの地球観測データを用いて訓練された機械学習モデルは、世帯レベルの富裕度指標の予測において大きな可能性を示しており、複数の因果関係試験に活用できる高解像度の富裕度マップの作成を可能にし、グローバル開発研究における慢性的なデータ不足に対処しています。しかし、標準的な訓練目標は全体的な予測精度を優先するため、これらの予測は平均値への収縮に悩まされることが多く、因果的処置効果の推定値が減衰し、政策評価における有用性が制限されます。予測駆動推論（PPI）などの既存のバイアス除去手法は、この減衰バイアスに対処できますが、因果推論の下流段階で追加の新鮮なグラウンドトゥルースデータを必要とするため、データ不足の環境での適用性が制限されます。本研究では、新たに収集されたラベル付きデータに依存せずに収縮によって引き起こされる予測バイアスを大幅に低減する2つの事後補正手法、線形キャリブレーション補正（LCC）とTweedieの補正アプローチを紹介し、評価します。 LCCは、ホールドアウトされたキャリブレーション分割に基づいて推定された単純な線形変換を適用します。Tweedieの方法は、密度スコア (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.01341v2</guid>
+      <pubDate>Sat, 02 Aug 2025 12:26:26 +0000</pubDate>
     </item>
     <item>
-      <title>チームベースのナビゲーションの学習：マルチエージェント経路探索のための深層強化学習技術のレビュー</title>
-      <link>https://arxiv.org/pdf/2308.05893v2</link>
-      <description>マルチエージェント経路探索（MAPF）は、多くの大規模ロボット応用において重要な分野であり、マルチエージェントシステムの基本ステップとなることがよくあります。しかしながら、複雑で混雑した環境におけるMAPFの複雑さの増大は、既存のソリューションの有効性を著しく低下させます。MAPFの最近の進歩の概要を提示したり、マルチエージェントシステム設定における深層強化学習（DRL）を個別に詳細にレビューした他の研究とは対照的に、本レビュー論文で提示する私たちの研究は、MAPFにおけるDRLベースのアプローチの統合に焦点を当てています。さらに、統一された評価指標の欠如に対処し、これらの指標を包括的に明確化することで、MAPFソリューションの評価における現在のギャップを埋めることを目指しています。最後に、本論文では、モデルベースDRLが有望な将来の方向性として持つ可能性について議論し、MAPFの現在の課題に対処するために必要な基礎的な理解を提供します。私たちの目的は、読者が現在の研究の方向性を理解し、さまざまなMAPFアルゴリズムを比較するための統一された指標を提供し、モデルベースDRLに関する知識 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/pdf/2308.05893v2</guid>
-      <pubDate>Fri, 11 Aug 2023 00:59:29 +0000</pubDate>
+      <title>変圧器の一般化線形モード接続</title>
+      <link>https://arxiv.org/abs/2506.22712v2</link>
+      <description>ニューラルネットワークの損失ランドスケープの形状を理解することは、ディープラーニングにおける中心的な課題であり、一般化と最適化にも影響を及ぼします。注目すべき現象は線形モード接続性（LMC）です。これは、独立してトレーニングされたモデルが、別々の損失領域にあるように見えても、低損失またはゼロ損失のパスによって接続される可能性があるものです。しかし、これはニューロンの順列など、機能的に等価なモデルが異なって見えるパラメータ空間の対称性によってしばしば不明瞭になります。これまでの研究は主に順列によるニューロンの並べ替えに焦点を当ててきましたが、そのようなアプローチは範囲が限られており、Transformerなどの最新のアーキテクチャが示すより豊富な対称性を捉えることができません。本研究では、順列、半順列、直交変換、および一般可逆マップという4つの対称性クラスを捉える統一フレームワークを導入し、有効な再パラメータ化のセットを拡大し、多くの以前のアプローチを特殊なケースとして包含します。重要なのは、この一般化により、独立して学習されたVision TransformerとGPT-2モデル間の低 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.22712v2</guid>
+      <pubDate>Sat, 28 Jun 2025 01:46:36 +0000</pubDate>
     </item>
     <item>
-      <title>ゼロショットスケーラブルコラボレーションのための異種マルチエージェント強化学習</title>
-      <link>https://arxiv.org/pdf/2404.03869v2</link>
-      <description>マルチエージェント強化学習（MARL）の出現は、自動運転車ネットワークなど、さまざまな分野に大きな変革をもたらしています。しかし、現実世界のマルチエージェントシステムは通常、複数の役割を含み、これらのシステムの規模は動的に変動します。したがって、ゼロショットのスケーラブルなコラボレーションを実現するためには、異なる役割の戦略を規模に応じて柔軟に更新できることが不可欠であり、これは現在のMARLフレームワークにとって依然として課題となっています。この問題を解決するために、我々は、パラメータ共有PPOベースのMARLネットワークに異質性を統合した、スケーラブルで異質な近接ポリシー最適化（SHPPO）という新しいMARLフレームワークを提案します。まず、潜在ネットワークを活用して、各エージェントの戦略パターンを適応的に学習します。次に、意思決定ネットワークに挿入される異質層を導入し、そのパラメータは学習された潜在変数によって具体的に生成されます。私たちのアプローチは、異種層を除くすべてのパラメータが共有されるためスケーラブルであり、個体間および時間的な異種性を獲得することで、SHPPOが様々 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/pdf/2404.03869v2</guid>
-      <pubDate>Fri, 05 Apr 2024 03:02:57 +0000</pubDate>
+      <title>改善型多腕バンディット問題のためのアルゴリズム設計とより強力な保証</title>
+      <link>https://arxiv.org/abs/2511.10619v1</link>
+      <description>多腕バンディット問題の改善は、不確実性の下で労力を割り当てるための正式なモデルであり、新技術への研究努力の投資、臨床試験の実施、学習曲線からのハイパーパラメータの選択などのシナリオに動機付けられます。アームを引くたびに、収穫逓減の単調に増加する報酬が提供されます。やや悲観的な最悪ケースの保証ではあるものの、バンディットを改善するためのアルゴリズムを設計する研究が増えています。実際、最適なアームに対する決定論的アルゴリズムとランダム化アルゴリズムの両方で、乗法近似係数の強い下限が知られています。ここで、$k$はバンディットアームの数です。本研究では、2つの新しいパラメータ化されたバンディットアルゴリズムのファミリーを提案し、オフラインデータを使用して各ファミリーから準最適なアルゴリズムを学習する際のサンプル複雑性を制限します。定義する最初のファミリーには、以前の研究からの最適なランダム化アルゴリズムが含まれます。このファミリーから適切に選択されたアルゴリズムは、アーム報酬曲線が凹面の強さに関連する追加特性を満たす場合、$k$への最適な依存性を持ちながら、より強力な保証を実現できることを示 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.10619v1</guid>
+      <pubDate>Thu, 13 Nov 2025 18:46:56 +0000</pubDate>
     </item>
     <item>
-      <title>複数車両システムにおける協調制御のためのマルチ残差エキスパート混合学習</title>
-      <link>https://arxiv.org/pdf/2507.09836v1</link>
-      <description>自動運転車（AV）はますます普及しており、その用途は単なる交通手段にとどまらず、交通流を制御するモバイルアクチュエータとしての役割まで拡大しています。これは、交通信号などの従来の固定位置アクチュエータとは対照的で、ラグランジュ交通制御と呼ばれています。しかし、交通シナリオ全体に汎用化できる効果的なラグランジュ交通制御ポリシーをAV向けに設計することは、大きな課題をもたらします。現実世界の交通環境は非常に多様であり、そのような多様な交通シナリオにわたって堅牢に機能するポリシーの開発は困難です。さらに、交通システムのマルチエージェント性、参加者間の複雑な動機、そして厳格な物理的および外部的制約の下で相反する最適化目標といった複雑な要素が、この課題をさらに複雑にしています。これらの課題に対処するため、我々はMulti-Residual Mixture of Expert Learning（MRMEL）を導入します。これは、交通シナリオ空間の構造を明示的に考慮しながら、与えられた準最適な公称ポリシーを学習済み残差で拡張する、ラグランジュ交通制御のための新しいフレームワークです。特に、残差強化学 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/pdf/2507.09836v1</guid>
-      <pubDate>Mon, 14 Jul 2025 00:17:12 +0000</pubDate>
+      <title>パーキンソン病における指タッピングテストの運動特性の解釈可能かつ粒度の高いビデオベースの定量化</title>
+      <link>https://arxiv.org/abs/2506.18925v3</link>
+      <description>パーキンソン病（PD）の運動特性を正確に定量化することは、病気の進行を監視し、治療戦略を最適化するために重要です。指タッピングテストは標準的な運動評価です。臨床医は患者のタッピング動作を視覚的に評価し、タッピングの振幅、速度、不規則性に基づいて全体的な重症度スコアを割り当てます。しかし、この主観的な評価は評価者間および評価者内のばらつきが生じやすく、このテスト中に取得された個々の運動特性についての知見は得られません。本稿では、ビデオ録画からPDの運動特性を定量化するきめ細かいコンピュータービジョンベースの手法を紹介します。運動低下、運動緩慢、シーケンス効果、およびためらい停止を特徴付けるために、臨床的に関連する4つの特徴セットが提案されています。私たちは、パーソナライズドパーキンソンプロジェクトのPD患者74名のビデオ録画と臨床評価でこのアプローチを評価しました。バリマックス回転を用いた主成分分析により、ビデオベースの特徴が4つの障害に対応することが示されました。さらに、ビデオベースの分析により、シーケンス効果とためらい停止の障害におけるより詳細な差異を特定することができました。以下で (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.18925v3</guid>
+      <pubDate>Thu, 19 Jun 2025 12:49:06 +0000</pubDate>
     </item>
     <item>
-      <title>QuadSwarm: 直接推力制御による深層強化学習のためのモジュール式マルチクアドローターシミュレータ</title>
-      <link>https://arxiv.org/pdf/2306.09537v1</link>
-      <description>強化学習（RL）は、ロボット工学タスクのための堅牢なポリシー作成において有望性を示しています。しかし、現代のRLアルゴリズムは大量のデータを必要とし、効果的なポリシーを訓練するために数十億回の環境遷移を必要とすることがよくあります。そのため、高速で高度に並列化可能なシミュレータの使用が不可欠です。このようなシミュレータは、速度に加えて、ロボットの物理特性と環境との相互作用を、シミュレーションで学習したポリシーを現実世界に適用できるレベルでモデル化する必要があります。本稿では、これらの問題に対処する、クアドローター向けシングルロボットおよびマルチロボットRL研究のための高速で信頼性の高いシミュレータ、QuadSwarmを紹介します。QuadSwarmは、高速順方向動力学伝播をレンダリングから分離し、高度な並列化を可能にすることで、スループットが計算量の増加に比例して拡張されるように設計されています。多様な訓練シナリオを含む、マルチロボットRL向けにカスタマイズされた複数のコンポーネントを提供し、マルチクアドローター制御ポリシーの開発とsim2real転送を容易にするドメインランダム化を提 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/pdf/2306.09537v1</guid>
-      <pubDate>Thu, 15 Jun 2023 22:46:20 +0000</pubDate>
+      <title>アメリカの幸福度：26億件のソーシャルメディア投稿から見る都市部と農村部の生活満足度と幸福度の異なるパターン</title>
+      <link>https://arxiv.org/abs/2511.10542v1</link>
+      <description>26億件の位置情報付きソーシャルメディア投稿（2014～2022年）と微調整された生成言語モデルを用いて、米国の郡レベルの生活満足度と幸福度指標を構築した。農村部と都市部の明らかなパラドックスを明らかにする。農村部では生活満足度が高く、都市部では幸福度が高い。これを両立させるために、評価的幸福度と快楽的幸福度の2つを主観的幸福度の異なる層として扱い、それぞれが場所、政治、時間に異なる形でマッピングされることを示した。共和党支持地域は評価面で満足度が高いように見えるが、主要都市圏以外では幸福度における党派間の格差はほぼ横ばいであり、状況依存的な政治的影響を示している。快楽的幸福度層では時間的ショックが優勢であり、2020～2022年には幸福度が急激に低下する一方、生活満足度はより緩やかに推移する。これらのパターンはロジスティックおよびOLS仕様全体で頑健であり、幸福度理論と整合している。結果は、ソーシャルメディア投稿の集団の関連性として解釈され、大規模な言語ベースの指標が、表現された幸福のタイプを区別することで、農村と都市の格差に関する矛盾する調査結果を解決し、従来の調査に透明性と再現性 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.10542v1</guid>
+      <pubDate>Thu, 13 Nov 2025 17:41:11 +0000</pubDate>
     </item>
     <item>
-      <title>安全で堅牢な高速道路ランプ進入のためのマルチエージェント深層強化学習の体系的研究</title>
-      <link>https://arxiv.org/pdf/2411.14593v2</link>
-      <description>今日の自動車は高速道路で自動運転が可能であり、大都市では無人ロボタクシーが運行されています。将来的には、より高度な自動運転が利用可能になり、より普及することが期待されています。しかし、技術的には、完全自律走行に相当するいわゆる「レベル5」（L5）の運転はまだ実現されていません。そのためには、完全自律走行の高速道路ランプ進入などの機能が利用可能であり、完全自律走行を可能にするための安全性が証明され、信頼性の高い堅牢な動作を提供する必要があります。本研究では、合流する（自車）車両が進入する高速道路交通流との衝突を最小限に抑えるために車両の前進動作を制御する高速道路ランプ機能について体系的な研究を行います。この問題に対して、ゲーム理論的マルチエージェント（MA）アプローチを採用し、深層強化学習（DRL）に基づく制御器の適用について検討します。MA DRLの仮想環境では、シミュレーションデータを用いたセルフプレイを用いて、合流する車両がテーパー型合流時に縦方向の位置を安全に制御することを学習します。本論文で提示する研究は、既存の研究を拡張し、2台以上の車両（エージェント）の相互作用を研究するこ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/pdf/2411.14593v2</guid>
-      <pubDate>Thu, 21 Nov 2024 21:23:46 +0000</pubDate>
+      <title>大谷：ディープラーニングによる世界の降水量予測精度向上</title>
+      <link>https://arxiv.org/abs/2511.10562v1</link>
+      <description>正確な降水量推定は、水文学的応用において極めて重要であり、特に地上観測網がまばらで予測能力が限られている南半球諸国においてはなおさらである。既存の衛星ベースの降水量プロダクトは、長波赤外線チャンネルのみに依存しているか、特に1日未満の時間スケールで大きな誤差をもたらす可能性のあるデータで較正されていることが多い。本研究では、静止衛星（GEO）からの可視赤外線（VIS-IR）観測の全スペクトルを利用した、新しいリアルタイム降水量推定アルゴリズム「Oya」を紹介する。Oyaは、降水量検出用と定量的降水量推定（QPE）用の2つのU-Netモデルを組み合わせた2段階ディープラーニングアプローチを採用し、降水イベントと非降水イベント間の固有のデータ不均衡に対処している。モデルは、高解像度GPM統合レーダー放射計アルゴリズム（CORRA）v07データをグラウンドトゥルースデータとして用いて学習され、CORRAの時間的サンプリングの制限による過学習を軽減し、堅牢性を高めるためにIMERG-Finalリトリーバルで事前学習されています。複数の静止軌道衛星を活用することで、「おや」は準全球規模のカバレッ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.10562v1</guid>
+      <pubDate>Thu, 13 Nov 2025 18:01:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
