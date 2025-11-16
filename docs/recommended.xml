@@ -7,34 +7,55 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Nov 2025 06:32:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 06:33:25 +0000</lastBuildDate>
     <item>
-      <title>AIの質問を『選択肢+推奨度+理由』にしたら、意思決定の質と速度が圧倒的にあがった</title>
-      <link>https://zenn.dev/loglass/articles/e250a06fca1f4a</link>
-      <description>こんにちは、ログラスの松岡(@little_hand_s})です
-
- 3行まとめ
-
-AIに質問させるときに選択肢を提示させると、回答が楽で早くなる
-さらに、推奨度とその理由を出力させると、その根拠を元にAIと議論できるし、納得感を持って進められる
-結果、意思決定が速くなり、質も上がる
-
-
- AIと対話しながら開発してますか？
-Claude CodeやCursorなどのAI開発ツールを使ってる人、増えてますよね。
-AIが暴走しないように、不明な点を質問させてる人も多いと思います。
-でも、毎回自然言語で答えるの、面倒じゃないですか？
-たとえば：
-AI: 「バリデーション、フロントエンドとバッ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/loglass/articles/e250a06fca1f4a</guid>
-      <pubDate>Wed, 12 Nov 2025 03:48:07 +0000</pubDate>
+      <title>「ブルーカラービリオネア」という幻想　迫るAI失業、中高年にも脅威 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN11CTZ0R11C25A1000000/</link>
+      <description>米国で人工知能（AI）で代替できないブルーカラーの高額収入が注目され、職業訓練校への入学者が増えている。「ブルーカラービリオネア」を目指す動きだが、若者の雇用の受け皿になり得るかは不透明だ。AI普及による労働需給の緩みへの警戒が強まり、不安と混乱が広がり始めている。若者・大卒の失業率が上昇米国の労働... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN11CTZ0R11C25A1000000/</guid>
+      <pubDate>Sat, 15 Nov 2025 21:24:05 +0000</pubDate>
     </item>
     <item>
-      <title>おい、言語化しろ - じゃあ、おうちで学べる</title>
-      <link>https://syu-m-5151.hatenablog.com/entry/2025/11/14/112023</link>
-      <description>はじめに 「言語化」という言葉を聞くたびに、私は少しだけ居心地が悪くなる。この感覚に初めて気づいたのは、数年前の、ある夏の午後だった。後輩エンジニアとの1on1で、私は彼にコードレビューのコツを教えようとしていた。モニターに映るコードを指差しながら、「このコードの何が良くないか、分かる？」と聞いた。彼... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://syu-m-5151.hatenablog.com/entry/2025/11/14/112023</guid>
-      <pubDate>Fri, 14 Nov 2025 03:07:11 +0000</pubDate>
+      <title>プログラミングのように法律答案が書けるエディタ「エルコード」を無料公開</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000002.000152752.html</link>
+      <description>【エディタの使い方】 ＜要素を抽出＞ 問題文のうち、答案構成をするにあたって重要な部分について、ハイライトすることで要素を抽出します。この作業は、従来の法律答案の作成にあたっても、一般的に行われます。 ＜答案構成＞ ハイライトして抽出した要素を参考にしながら、法的推論のための形式言語Matchaを用いて、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://prtimes.jp/main/html/rd/p/000000002.000152752.html</guid>
+      <pubDate>Sat, 15 Nov 2025 05:56:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>文字化けの正体はこれだ！半角カナ・JIS・UTFの沼を実例で読み解く</title>
+      <link>https://qiita.com/comty/items/cb4b0f0060af3ccc7209?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+文字化けは「文字集合」「符号化方式」「宣言」の不一致から生じます。特に日本語は歴史的に複数の方式が並立し、メールや携帯端末、業務システムの相互運用で事故が起きやすい背景があります。
+本稿は、代表的な文字コードの考え方、典型的な化け方のパターン、昔のメールで半角カ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/comty/items/cb4b0f0060af3ccc7209?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 13 Nov 2025 11:06:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>iOSエンジニアだけが知っているGmailのなにげないすごさ</title>
+      <link>https://zenn.dev/10q89s/articles/gmail_notifications</link>
+      <description>!
+読むのにかかる時間: 約5分
+
+
+ はじめに
+Gmailは太古の昔からモバイルアプリも提供されており、高い完成度を誇っている。
+iOSエンジニアしか気づかないすごいポイントがあるので紹介したい。
+
+ Gmailアプリのすごさ
+Gmailアプリのすごさは、メールをiPhoneで受信したあとの挙動にある。
+
+ 普通に通知が届く
+
+
+ 他の端末でメールを既読にすると、通知センターから通知が消える
+
+
+ どこがすごいのかわからないですよね
+プッシュ通知は世の中の多くのアプリで利用されているけど
+そのほとんどは プッシュ通知を送りっぱなしで、ユーザーが通知をタップするか手動で消すまで残り続ける... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/10q89s/articles/gmail_notifications</guid>
+      <pubDate>Thu, 13 Nov 2025 23:00:01 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】FFmpegがGoogleへ「バグだけじゃなく、資金も送れ」 — AIによる脆弱性報告急増の裏で、OSSに起きている危機</title>
@@ -42,13 +63,6 @@ AI: 「バリデーション、フロントエンドとバッ... (source: Zenn�
       <description>11月12日、The New Stackが「FFmpeg to Google: Fund Us or Stop Sending Bugs」と題した記事を公開した。この記事では、AIによる脆弱性報告の急増を背景に、FFmpegとGoogleの間で噴出した「オープンソースの安全性と、そのコストを誰が負担するのか」という問題について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6914f941b335ef5804a2b1f3?from=rss</guid>
       <pubDate>Wed, 12 Nov 2025 21:16:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】エンジニアが「手持ちのフォントすべてを平均化」して作ったフォント「Averia」が海外で話題に</title>
-      <link>https://techfeed.io/entries/691254bbb335ef5804a1e76a?from=rss</link>
-      <description>Avería — すべてのフォントの“平均”から生まれたフォント11月9日、iotic.comが「Avería – The Average Font」と題した記事を公開した。この記事では、手持ちのフォントすべてを平均化して作られたフォント「Avería」の制作過程と、その背後にある「ジェネレーティブ・タイポグラフィ（生成的タイポグラフィ）」の発想について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/691254bbb335ef5804a1e76a?from=rss</guid>
-      <pubDate>Mon, 10 Nov 2025 21:10:19 +0000</pubDate>
     </item>
     <item>
       <title>LLM開発の裏で行われるデバッグ作業: PyTorch DCP</title>
@@ -63,6 +77,13 @@ LLM, VLMの開発の裏には本記事で紹介するような地道なデバッ
 学習に使用している依存関係の継続的なu... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/04eed10b0aafe9</guid>
       <pubDate>Thu, 13 Nov 2025 06:03:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】エンジニアが「手持ちのフォントすべてを平均化」して作ったフォント「Averia」が海外で話題に</title>
+      <link>https://techfeed.io/entries/691254bbb335ef5804a1e76a?from=rss</link>
+      <description>Avería — すべてのフォントの“平均”から生まれたフォント11月9日、iotic.comが「Avería – The Average Font」と題した記事を公開した。この記事では、手持ちのフォントすべてを平均化して作られたフォント「Avería」の制作過程と、その背後にある「ジェネレーティブ・タイポグラフィ（生成的タイポグラフィ）」の発想について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/691254bbb335ef5804a1e76a?from=rss</guid>
+      <pubDate>Mon, 10 Nov 2025 21:10:19 +0000</pubDate>
     </item>
     <item>
       <title>書いたコードを“スキル化”して再利用してる話</title>
@@ -81,36 +102,16 @@ save: 更新 もし... (source: Zennのトレンド)</description>
       <pubDate>Thu, 13 Nov 2025 07:55:42 +0000</pubDate>
     </item>
     <item>
-      <title>「Suicaのペンギン」卒業騒動にまつわる背景と誤解　JR東日本に聞いた</title>
-      <link>https://www.itmedia.co.jp/mobile/articles/2511/14/news113.html</link>
-      <description>「Suicaのペンギン」はSuicaのキャラクター“ではなかった” Suicaのペンギンの生みの親は、イラストレーターで絵本作家の坂崎千春さんです。SNSでは「SuicaのペンギンがSuicaのために生まれた」という前提で反応している人が多いのですが、実はそこに“勘違い”があります。 坂崎さんは、絵本作家として1998年からペンギン... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2511/14/news113.html</guid>
-      <pubDate>Fri, 14 Nov 2025 11:46:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>TestcontainersでRDBを使ったテストを快適にする仕組み</title>
-      <link>https://zenn.dev/praha/articles/255cf672650e2e</link>
-      <description>なぜSQLのテストが必要なのか
-ユニットテストでDBアクセスをモックするのは一般的なプラクティスです。テストの高速化に有効ですが、SQLロジック自体はテストされないという課題があります。
-複雑なJOINや集計処理、サブクエリを含むSQLは、意図通りに動作しているか実際にRDBで実行してみないとわかりません。また、パフォーマンスチューニングのためにSQLを書き換えたとき、テストがなければ「最適化によって挙動が壊れていないか」を確認するのが困難です。
-「シンプルなSQLだけ書いて、複雑な処理はアプリケーション側で行えばよいのでは」という考え方もあるでしょう。しかし、大量のデータをアプリケ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/praha/articles/255cf672650e2e</guid>
-      <pubDate>Thu, 13 Nov 2025 04:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>デカルトの4つの規則に学ぶエンジニアの思考法</title>
-      <link>https://zenn.dev/hisamitsu/articles/449cbae1fcf02d</link>
-      <description>自分も気づけば30代後半で、エンジニアとしての知識だけでなく、最低限の教養も持っておきたいなと思い、空いてる時間で哲学をかじり始めました（継続できる自信はない）。
-その中で、あの有名な名言「我思う、ゆえに我あり」を残した、近代哲学の父と呼ばれるデカルトが、真実を探究するために作った4つの規則がエンジニアにも使える思考法だなと思い、記事化しておきます。
+      <title>Windows版Zedを試してみたらVSCodeより使うことになりそう</title>
+      <link>https://zenn.dev/amenaruya/articles/66b7ee7540703c</link>
+      <description>Zedといふものをしてみむとおもひて⋯
+記事の主旨と何の関係もない話
+表題の文句「してみむとおもひて」は、土佐日記(紀貫之)の冒頭としてよく知られる「⋯してみんとてするなり」とはやや異なりますが、こちらを見るとそのように書いてありました。とは言え、「としのしはすのしはすの廿日」などとあってなんだか怪しいので、誤って伝わった文章か、書いた方が誤ったかのどちらかのように思えます。普通に土佐日記を読むならこちらの方が紙面の状態も良く、ふりがなも丁寧でよさそうです。
 
- デカルトが4つの規則に到達するまで：背景と思想の流れ
-本題に入る前に、少し背景を。
-デカルトが生きた17世紀ヨーロッパは、「何が正しいのか？」が分からない時代でした。
-
-宗教戦争（カトリック vs プロテスタント）で社会全体が混乱
-占星... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hisamitsu/articles/449cbae1fcf02d</guid>
-      <pubDate>Fri, 14 Nov 2025 00:02:04 +0000</pubDate>
+https://zed.dev/
+Zedはコードエディターの一つであり、Rust製というところからも、その性能に期待を寄せる... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/amenaruya/articles/66b7ee7540703c</guid>
+      <pubDate>Sat, 15 Nov 2025 10:55:12 +0000</pubDate>
     </item>
     <item>
       <title>Python で他生物の視覚をシミュレートする</title>

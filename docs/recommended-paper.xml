@@ -7,11 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Nov 2025 06:32:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 06:33:35 +0000</lastBuildDate>
     <item>
       <title>プレビュー、承認、それとも破棄？予測的な低モーションインタラクションパラダイム</title>
       <link>https://arxiv.org/abs/2511.10532v1</link>
-      <description>反復運動障害（RSI）は、コンピューター ユーザーのおよそ 5 人に 1 人が罹患しており、何十年にもわたる人間工学に基づいたマウスの再設計にもかかわらず、未だに大部分が解決されていません。このようなデバイスにはすべて、操作するために依然として微細運動が必要なという根本的な限界があります。この研究では、予測的な AI 支援入力が、物理的なポインティングをランク付けされた画面上の候補に置き換えることで、その動きを削減できるかどうかを調査します。ユーザーの主体性を維持するために、Preview Accept Discard（PAD）を導入します。これは、ユーザーが予測された GUI ターゲットをプレビューし、ランク付けされた選択肢の小さなセットを循環表示し、キーを離すタイミングでそれらを承認または破棄できる、ゼロクリック インタラクション パラダイムです。PAD は、ブラウザーベースの電子メール クライアントと、さまざまな上位 3 つの精度での ISO 9241-9 キーボード予測タスクの 2 つの設定で評価します。両方の研究を通じて、PAD は、精度が最高のスペルチェッカーの精度と同程度 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <description>反復運動障害（RSI）は、コンピューター ユーザーのおよそ 5 人に 1 人が罹患しており、何十年にもわたる人間工学に基づいたマウスの再設計にもかかわらず、未だに大部分が解決されていません。このようなデバイスにはすべて、操作するために細かい運動が必要なという根本的な制限があります。この研究では、予測的な AI 支援入力が、物理的なポインティングをランク付けされた画面上の提案に置き換えることで、その動きを削減できるかどうかを調査します。ユーザーの主体性を維持するために、Preview Accept Discard（PAD）を導入します。これは、ユーザーが予測された GUI ターゲットをプレビューし、ランク付けされた選択肢の小さなセットを循環し、キーを放すタイミングでそれらを承認または破棄できる、ゼロクリック インタラクション パラダイムです。PAD は、ブラウザーベースの電子メール クライアントと、さまざまな上位 3 つの精度での ISO 9241-9 キーボード予測タスクの 2 つの設定で評価します。両方の研究を通じて、PAD は、精度が最高のスペルチェッカーの精度と同程度である場合に (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
       <guid isPermaLink="true">https://arxiv.org/abs/2511.10532v1</guid>
       <pubDate>Thu, 13 Nov 2025 17:31:35 +0000</pubDate>
     </item>
@@ -32,7 +32,7 @@
     <item>
       <title>遅延フィードバック下での個別資源配分のための二層コンテキストバンディット</title>
       <link>https://arxiv.org/abs/2511.10572v1</link>
-      <description>教育、雇用、医療といったハイステークス領域において、限られた資源を公平に配分するには、短期的な効用と長期的な影響のバランスを取り、遅延効果、隠れた異質性、倫理的制約を考慮する必要があります。しかしながら、ほとんどの学習ベースの配分フレームワークは、即時フィードバックを前提とするか、個人の特性と介入のダイナミクスの複雑な相互作用を無視しています。本稿では、遅延フィードバック下での個別化された資源配分のための、新たな二階層コンテキストバンディットフレームワークを提案します。このフレームワークは、動的な人口、キャパシティ制約、そして時間的制約のある影響を伴う現実世界の状況で動作するように設計されています。メタレベルでは、このモデルは、公平性と運用上の制約を満たすように、サブグループレベルの予算配分を最適化します。ベースレベルでは、観察データで学習されたニューラルネットワークを用いて、各グループ内で最も反応性の高い個人を特定します。同時に、資源固有の遅延カーネルによってモデル化されたクールダウンウィンドウと遅延治療効果を考慮します。時間的ダイナミクスとフィードバック遅延を明示的にモデル化するこ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <description>教育、雇用、医療といったハイステークス領域において、限られた資源を公平に配分するには、短期的な効用と長期的な影響のバランスを取り、遅延効果、隠れた異質性、倫理的制約を考慮する必要があります。しかしながら、ほとんどの学習ベースの配分フレームワークは、即時フィードバックを前提とするか、個人の特性と介入のダイナミクスの複雑な相互作用を無視しています。本稿では、遅延フィードバック下での個別化された資源配分のための、新たな二階層コンテキストバンディットフレームワークを提案します。このフレームワークは、動的な人口、キャパシティ制約、そして時間的制約のある影響を伴う現実世界の状況で動作するように設計されています。メタレベルでは、このモデルは、公平性と運用上の制約を満たすように、サブグループレベルの予算配分を最適化します。ベースレベルでは、観察データで学習したニューラルネットワークを用いて、各グループ内で最も反応性の高い個人を特定します。同時に、資源固有の遅延カーネルによってモデル化されたクールダウンウィンドウと遅延治療効果を考慮します。時間的ダイナミクスとフィードバック遅延を明示的にモデル化すること (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
       <guid isPermaLink="true">https://arxiv.org/abs/2511.10572v1</guid>
       <pubDate>Thu, 13 Nov 2025 18:09:08 +0000</pubDate>
     </item>
@@ -44,18 +44,18 @@
       <pubDate>Sat, 02 Aug 2025 12:26:26 +0000</pubDate>
     </item>
     <item>
-      <title>変圧器の一般化線形モード接続</title>
-      <link>https://arxiv.org/abs/2506.22712v2</link>
-      <description>ニューラルネットワークの損失ランドスケープの形状を理解することは、ディープラーニングにおける中心的な課題であり、一般化と最適化にも影響を及ぼします。注目すべき現象は線形モード接続性（LMC）です。これは、独立してトレーニングされたモデルが、別々の損失領域にあるように見えても、低損失またはゼロ損失のパスによって接続される可能性があるものです。しかし、これはニューロンの順列など、機能的に等価なモデルが異なって見えるパラメータ空間の対称性によってしばしば不明瞭になります。これまでの研究は主に順列によるニューロンの並べ替えに焦点を当ててきましたが、そのようなアプローチは範囲が限られており、Transformerなどの最新のアーキテクチャが示すより豊富な対称性を捉えることができません。本研究では、順列、半順列、直交変換、および一般可逆マップという4つの対称性クラスを捉える統一フレームワークを導入し、有効な再パラメータ化のセットを拡大し、多くの以前のアプローチを特殊なケースとして包含します。重要なのは、この一般化により、独立して学習されたVision TransformerとGPT-2モデル間の低 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.22712v2</guid>
-      <pubDate>Sat, 28 Jun 2025 01:46:36 +0000</pubDate>
-    </item>
-    <item>
       <title>改善型多腕バンディット問題のためのアルゴリズム設計とより強力な保証</title>
       <link>https://arxiv.org/abs/2511.10619v1</link>
       <description>多腕バンディット問題の改善は、不確実性の下で労力を割り当てるための正式なモデルであり、新技術への研究努力の投資、臨床試験の実施、学習曲線からのハイパーパラメータの選択などのシナリオに動機付けられます。アームを引くたびに、収穫逓減の単調に増加する報酬が提供されます。やや悲観的な最悪ケースの保証ではあるものの、バンディットを改善するためのアルゴリズムを設計する研究が増えています。実際、最適なアームに対する決定論的アルゴリズムとランダム化アルゴリズムの両方で、乗法近似係数の強い下限が知られています。ここで、$k$はバンディットアームの数です。本研究では、2つの新しいパラメータ化されたバンディットアルゴリズムのファミリーを提案し、オフラインデータを使用して各ファミリーから準最適なアルゴリズムを学習する際のサンプル複雑性を制限します。定義する最初のファミリーには、以前の研究からの最適なランダム化アルゴリズムが含まれます。このファミリーから適切に選択されたアルゴリズムは、アーム報酬曲線が凹面の強さに関連する追加特性を満たす場合、$k$への最適な依存性を持ちながら、より強力な保証を実現できることを示 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
       <guid isPermaLink="true">https://arxiv.org/abs/2511.10619v1</guid>
       <pubDate>Thu, 13 Nov 2025 18:46:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>変圧器の一般化線形モード接続</title>
+      <link>https://arxiv.org/abs/2506.22712v2</link>
+      <description>ニューラルネットワークの損失ランドスケープの形状を理解することは、ディープラーニングにおける中心的な課題であり、一般化と最適化にも影響を及ぼします。注目すべき現象は線形モード接続性（LMC）です。これは、独立してトレーニングされたモデルが、別々の損失領域にあるように見えても、低損失またはゼロ損失のパスによって接続される可能性があるものです。しかし、これはニューロンの順列など、機能的に等価なモデルが異なって見えるパラメータ空間の対称性によってしばしば不明瞭になります。これまでの研究は主に順列によるニューロンの並べ替えに焦点を当ててきましたが、そのようなアプローチは範囲が限られており、Transformerなどの最新のアーキテクチャが示すより豊富な対称性を捉えることができません。本研究では、順列、半順列、直交変換、および一般可逆マップという4つの対称性クラスを捉える統一フレームワークを導入し、有効な再パラメータ化のセットを拡大し、多くの以前のアプローチを特殊なケースとして包含します。重要なのは、この一般化により、独立して学習されたVision TransformerとGPT-2モデル間の低 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.22712v2</guid>
+      <pubDate>Sat, 28 Jun 2025 01:46:36 +0000</pubDate>
     </item>
     <item>
       <title>パーキンソン病における指タッピングテストの運動特性の解釈可能かつ粒度の高いビデオベースの定量化</title>
@@ -67,7 +67,7 @@
     <item>
       <title>アメリカの幸福度：26億件のソーシャルメディア投稿から見る都市部と農村部の生活満足度と幸福度の異なるパターン</title>
       <link>https://arxiv.org/abs/2511.10542v1</link>
-      <description>26億件の位置情報付きソーシャルメディア投稿（2014～2022年）と微調整された生成言語モデルを用いて、米国の郡レベルの生活満足度と幸福度指標を構築した。農村部と都市部の明らかなパラドックスを明らかにする。農村部では生活満足度が高く、都市部では幸福度が高い。これを両立させるために、評価的幸福度と快楽的幸福度の2つを主観的幸福度の異なる層として扱い、それぞれが場所、政治、時間に異なる形でマッピングされることを示した。共和党支持地域は評価面で満足度が高いように見えるが、主要都市圏以外では幸福度における党派間の格差はほぼ横ばいであり、状況依存的な政治的影響を示している。快楽的幸福度層では時間的ショックが優勢であり、2020～2022年には幸福度が急激に低下する一方、生活満足度はより緩やかに推移する。これらのパターンはロジスティックおよびOLS仕様全体で頑健であり、幸福度理論と整合している。結果は、ソーシャルメディア投稿の集団の関連性として解釈され、大規模な言語ベースの指標が、表現された幸福のタイプを区別することで、農村と都市の格差に関する矛盾する調査結果を解決し、従来の調査に透明性と再現性 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <description>26億件の位置情報付きソーシャルメディア投稿（2014～2022年）と微調整された生成言語モデルを用いて、米国の郡レベルの生活満足度と幸福度指標を構築した。農村部と都市部の明らかなパラドックスを明らかにする。農村部では生活満足度が高く、都市部では幸福度が高い。これを両立させるために、評価的幸福度と快楽的幸福度の2つを主観的幸福度の異なる層として扱い、それぞれが場所、政治、時間に異なる形でマッピングされることを示した。共和党支持地域は評価面で満足度が高いように見えるが、主要都市圏以外では幸福度における党派間の格差はほぼ横ばいであり、政治的影響は文脈に依存していることを示している。快楽的幸福度層では時間的ショックが優勢であり、2020～2022年には幸福度が急激に低下する一方、生活満足度はより緩やかに推移する。これらのパターンはロジスティックおよびOLS仕様全体で頑健であり、幸福度理論と整合している。結果は、ソーシャルメディア投稿の集団の関連性として解釈され、大規模な言語ベースの指標が、表現された幸福のタイプを区別することで、農村と都市の格差に関する矛盾する調査結果を解決し、従来の調査に透 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
       <guid isPermaLink="true">https://arxiv.org/abs/2511.10542v1</guid>
       <pubDate>Thu, 13 Nov 2025 17:41:11 +0000</pubDate>
     </item>
