@@ -7,76 +7,72 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Nov 2025 06:33:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 06:36:39 +0000</lastBuildDate>
     <item>
-      <title>プレビュー、承認、それとも破棄？予測的な低モーションインタラクションパラダイム</title>
-      <link>https://arxiv.org/abs/2511.10532v1</link>
-      <description>反復運動障害（RSI）は、コンピューター ユーザーのおよそ 5 人に 1 人が罹患しており、何十年にもわたる人間工学に基づいたマウスの再設計にもかかわらず、未だに大部分が解決されていません。このようなデバイスにはすべて、操作するために細かい運動が必要なという根本的な制限があります。この研究では、予測的な AI 支援入力が、物理的なポインティングをランク付けされた画面上の提案に置き換えることで、その動きを削減できるかどうかを調査します。ユーザーの主体性を維持するために、Preview Accept Discard（PAD）を導入します。これは、ユーザーが予測された GUI ターゲットをプレビューし、ランク付けされた選択肢の小さなセットを循環し、キーを放すタイミングでそれらを承認または破棄できる、ゼロクリック インタラクション パラダイムです。PAD は、ブラウザーベースの電子メール クライアントと、さまざまな上位 3 つの精度での ISO 9241-9 キーボード予測タスクの 2 つの設定で評価します。両方の研究を通じて、PAD は、精度が最高のスペルチェッカーの精度と同程度である場合に (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.10532v1</guid>
-      <pubDate>Thu, 13 Nov 2025 17:31:35 +0000</pubDate>
+      <title>鋼合金のSEM画像における炭化物微細構造のセグメンテーションのためのデータ効率の高いU-Net</title>
+      <link>https://arxiv.org/abs/2511.11485v1</link>
+      <description>原子炉圧力容器鋼の微細構造を理解することは、炭化物析出物が合金を強化すると同時に亀裂の発生源となるため、機械的特性の予測に極めて重要です。走査型電子顕微鏡画像では、炭化物とマトリックスの濃淡値の重なりにより、単純な閾値設定は効果的ではありません。本研究では、わずか \textbf{10 枚の注釈付き走査型電子顕微鏡画像} でトレーニングした軽量 U-Net（30.7～M パラメータ）を用いた、データ効率の高いセグメンテーションパイプラインを紹介します。データが限られているにもかかわらず、本モデルは \textbf{Dice-Sørensen 係数 0.98} を達成し、冶金学の分野における最先端技術（従来の画像解析：0.85）を大幅に上回る性能を実現しました。また、最先端のデータ効率の高いセグメンテーションモデルと比較して、注釈付けの労力を 1 桁削減しました。このアプローチにより、合金設計における炭化物の迅速かつ自動定量化が可能になり、他の鋼種にも一般化できるため、原子炉圧力容器鋼の解析におけるデータ効率の高いディープラーニングの可能性が示されます。 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.11485v1</guid>
+      <pubDate>Fri, 14 Nov 2025 17:01:02 +0000</pubDate>
     </item>
     <item>
-      <title>感情的知性と責任ある強化学習に向けて</title>
-      <link>https://arxiv.org/abs/2511.10573v1</link>
-      <description>医療や行動支援におけるパーソナライズされた意思決定システムは、多くの場合、静的なルールベースやエンゲージメント最大化ヒューリスティックに依存しており、ユーザーの感情的背景や倫理的制約が考慮されていません。このようなアプローチは、特に重度の精神疾患、物質使用障害、うつ病などの領域において、無神経または安全でない介入を推奨するリスクがあります。この限界に対処するため、我々は、感情的および文脈的理解と倫理的配慮を順次的な意思決定プロセスに統合する責任ある強化学習（RRL）フレームワークを提案します。RRLは、パーソナライズを制約付きマルコフ決定プロセス（CMDP）として定式化し、エージェントが感情的整合性と倫理的安全性を確保しながらエンゲージメントと遵守を最適化します。我々は、短期的な行動エンゲージメントと長期的なユーザーの幸福を明示的にバランスさせる多目的報酬関数を導入し、感情的な準備、影響、リスクの変動を捉える感情情報に基づく状態表現を定義します。提案されたアーキテクチャは、安全制約またはラグランジュ正則化を拡張した任意の強化学習アルゴリズム（例：DQN、PPO）でインスタンス化できます (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.10573v1</guid>
-      <pubDate>Thu, 13 Nov 2025 18:09:37 +0000</pubDate>
+      <title>経験に基づく推論時間推論戦略の適応</title>
+      <link>https://arxiv.org/abs/2511.11519v1</link>
+      <description>エージェントAIシステムがトレーニング後のインタラクションに基づいて問題解決アプローチを適応させることは、依然として根本的な課題です。推論時にメモリを更新・維持するシステムは提案されていますが、既存の設計では言語モデルまたはエージェントへのテキスト入力を変更することでのみシステムを操作しているため、サンプリングパラメータの変更、ツールの削除、システムプロンプトの変更、エージェントパラダイムとワークフローパラダイムの切り替えを行うことができません。一方、より柔軟に適応するシステムはオフライン最適化を必要とし、一度導入されると静的な状態を維持します。本研究では、蓄積された経験に基づいて推論時に動的にカスタマイズされた戦略（LLM呼び出し、ツール、サンプリングパラメータ、制御ロジックを含む完全な計算手順）を生成するExperience-Guided Reasoner（EGuR）を紹介します。これは、LLMベースのメタ戦略（戦略を出力する戦略）を用いて実現され、すべての戦略コンポーネント（プロンプト、サンプリングパラメータ、ツール構成、制御ロジック）の適応を可能にします。 EGuRは2つのコン (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.11519v1</guid>
+      <pubDate>Fri, 14 Nov 2025 17:45:28 +0000</pubDate>
     </item>
     <item>
-      <title>単一ノードを超えたLLM推論：高速All-Reduce通信によるボトルネックの緩和策</title>
-      <link>https://arxiv.org/abs/2511.09557v2</link>
-      <description>大規模言語モデル (LLM) のサイズが拡大し続けるにつれて、分散推論の重要性が高まっています。モデル並列戦略は、複数の GPU だけでなく複数のノードにも効率的に拡張できなければなりません。この研究では、GPU ベースのスーパーコンピューターで LLM を使用したマルチノード分散推論の詳細なパフォーマンス調査を紹介します。制御された実験用に設計された研究指向のプロトタイプエンジンである YALIS と並行して、いくつかの最先端の推論エンジンを使用して実験を行います。さまざまなモデル並列スキームの強力なスケーリング動作を分析し、主要なボトルネックを特定します。all-reduce 操作は一般的なパフォーマンスのボトルネックであるため、NVSHMEM を使用した再帰的倍増に基づく階層型 all-reduce アルゴリズムである NVRAR を開発しました。NVRAR は、HPE Slingshot および InfiniBand インターコネクト上で 128 KB ～ 2 MB のメッセージサイズに対して、NCCL よりも最大 1.9 ～ 3.6 倍低いレイテンシを実現します。 YALIS (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.09557v2</guid>
-      <pubDate>Wed, 12 Nov 2025 18:59:26 +0000</pubDate>
+      <title>スピルオーバーと部分適格性を考慮した二者間実験における総効果の推定</title>
+      <link>https://arxiv.org/abs/2511.11564v1</link>
+      <description>我々は、処置側ユニットのサブセットのみが割り当ての対象となる一方で、すべてのユニットが相互作用を続け、干渉を生成する二部システムにおけるランダム化実験を研究する。適格性制約付き二部実験を形式化し、完全展開に整合した推定量を定義する。すなわち、適格ユニットに対する一次総処置効果（PTTE）と不適格ユニットに対する二次総処置効果（STTE）である。適格セット内でのランダム化の下で、識別条件を与え、曝露マッピング、一般化傾向スコア、柔軟な機械学習を組み合わせた干渉を考慮したアンサンブル推定量を開発する。さらに、処置レベルと結果レベルの推定量を結び付ける射影を導入する。このマッピングは線形加法エッジ条件下で正確であり、（通常ははるかに小さい）処置側での推定を結果への決定論的集約によって可能にする。現実的な曝露レジームにおける既知のグラウンドトゥルースを用いたシミュレーションにおいて、提案された推定量は低いバイアスと分散でPTTEとSTTEを回復し、干渉を無視した場合に生じる可能性のあるバイアスを低減する。 2 つのフィールド実験は、実用的な関連性を示しています。私たちの方法は、両方の研究で事前 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.11564v1</guid>
+      <pubDate>Fri, 14 Nov 2025 18:55:51 +0000</pubDate>
     </item>
     <item>
-      <title>遅延フィードバック下での個別資源配分のための二層コンテキストバンディット</title>
-      <link>https://arxiv.org/abs/2511.10572v1</link>
-      <description>教育、雇用、医療といったハイステークス領域において、限られた資源を公平に配分するには、短期的な効用と長期的な影響のバランスを取り、遅延効果、隠れた異質性、倫理的制約を考慮する必要があります。しかしながら、ほとんどの学習ベースの配分フレームワークは、即時フィードバックを前提とするか、個人の特性と介入のダイナミクスの複雑な相互作用を無視しています。本稿では、遅延フィードバック下での個別化された資源配分のための、新たな二階層コンテキストバンディットフレームワークを提案します。このフレームワークは、動的な人口、キャパシティ制約、そして時間的制約のある影響を伴う現実世界の状況で動作するように設計されています。メタレベルでは、このモデルは、公平性と運用上の制約を満たすように、サブグループレベルの予算配分を最適化します。ベースレベルでは、観察データで学習したニューラルネットワークを用いて、各グループ内で最も反応性の高い個人を特定します。同時に、資源固有の遅延カーネルによってモデル化されたクールダウンウィンドウと遅延治療効果を考慮します。時間的ダイナミクスとフィードバック遅延を明示的にモデル化すること (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.10572v1</guid>
-      <pubDate>Thu, 13 Nov 2025 18:09:08 +0000</pubDate>
+      <title>ImAgent: テスト時にスケーラブルな画像生成を実現する統合マルチモーダルエージェントフレームワーク</title>
+      <link>https://arxiv.org/abs/2511.11483v1</link>
+      <description>最近のテキスト画像変換（T2I）モデルは、視覚的にリアルで意味的に一貫性のある画像を生成する点で目覚ましい進歩を遂げてきました。しかし、特にテキスト記述が曖昧または不十分な場合、与えられたプロンプトとのランダム性や不整合が依然として問題となります。プロンプト書き換え、ベストオブNサンプリング、自己改良などの既存のアプローチはこれらの問題を軽減できますが、通常は追加モジュールが必要で独立して動作するため、テスト時間のスケーリング効率が低下し、計算オーバーヘッドが増加します。本稿では、効率的なテスト時間のスケーリングを実現するために、推論、生成、自己評価を単一のフレームワークに統合した、トレーニング不要の統合マルチモーダルエージェントであるImAgentを紹介します。ポリシーコントローラによって誘導され、複数の生成アクションが動的に相互作用して自己組織化し、外部モデルに依存せずに画像の忠実度と意味的整合を向上させます。画像生成および編集タスクに関する広範な実験により、ImAgent はバックボーン モデルを一貫して改善し、バックボーン モデルが失敗する他の強力なベースラインさえも上回り、テ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.11483v1</guid>
+      <pubDate>Fri, 14 Nov 2025 17:00:29 +0000</pubDate>
     </item>
     <item>
-      <title>追加の地上データなしで因果推論のための機械学習予測のバイアス除去：衛星データに基づく貧困分析における「一枚の地図、多くの試行」</title>
-      <link>https://arxiv.org/abs/2508.01341v2</link>
-      <description>衛星画像などの地球観測データを用いて訓練された機械学習モデルは、世帯レベルの富裕度指標の予測において大きな可能性を示しており、複数の因果関係試験に活用できる高解像度の富裕度マップの作成を可能にし、グローバル開発研究における慢性的なデータ不足に対処しています。しかし、標準的な訓練目標は全体的な予測精度を優先するため、これらの予測は平均値への収縮に悩まされることが多く、因果的処置効果の推定値が減衰し、政策評価における有用性が制限されます。予測駆動推論（PPI）などの既存のバイアス除去手法は、この減衰バイアスに対処できますが、因果推論の下流段階で追加の新鮮なグラウンドトゥルースデータを必要とするため、データ不足の環境での適用性が制限されます。本研究では、新たに収集されたラベル付きデータに依存せずに収縮によって引き起こされる予測バイアスを大幅に低減する2つの事後補正手法、線形キャリブレーション補正（LCC）とTweedieの補正アプローチを紹介し、評価します。 LCCは、ホールドアウトされたキャリブレーション分割に基づいて推定された単純な線形変換を適用します。Tweedieの方法は、密度スコア (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.01341v2</guid>
-      <pubDate>Sat, 02 Aug 2025 12:26:26 +0000</pubDate>
+      <title>公平なクラスタリングを複数のグループに一般化する：アルゴリズムとアプリケーション</title>
+      <link>https://arxiv.org/abs/2511.11539v1</link>
+      <description>クラスタリングは機械学習とデータ分析における基本的なタスクですが、複数の保護属性によって定義される様々な疎外されたコミュニティを公平に表現できないことがよくあります。これは、トレーニングデータの偏りによって引き起こされることが多い欠点です。その結果、クラスタリング結果の公平性を高める必要性が高まっており、理想的には、従来のクラスタリングの後処理ステップとして最小限の変更を加えることで実現されます。最近、Chakrabortyら[COLT'25]は、データポイントが2つのグループのみに属するという限定的なシナリオにおいて、\emph{closest fair clustering}の研究を開始しました。しかし実際には、データポイントは通常、年齢、民族、性別などの多様な保護属性を反映した多くのグループによって特徴付けられます。
+本研究では、\emph{closest fair clustering}問題の研究を、任意の数（2つ以上）のグループを持つ設定に一般化します。まず、すべてのグループのサイズが同じであっても、この問題はNP困難であることを示します。これは、正確なアルゴリズムが存在する (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.11539v1</guid>
+      <pubDate>Fri, 14 Nov 2025 18:19:18 +0000</pubDate>
     </item>
     <item>
-      <title>改善型多腕バンディット問題のためのアルゴリズム設計とより強力な保証</title>
-      <link>https://arxiv.org/abs/2511.10619v1</link>
-      <description>多腕バンディット問題の改善は、不確実性の下で労力を割り当てるための正式なモデルであり、新技術への研究努力の投資、臨床試験の実施、学習曲線からのハイパーパラメータの選択などのシナリオに動機付けられます。アームを引くたびに、収穫逓減の単調に増加する報酬が提供されます。やや悲観的な最悪ケースの保証ではあるものの、バンディットを改善するためのアルゴリズムを設計する研究が増えています。実際、最適なアームに対する決定論的アルゴリズムとランダム化アルゴリズムの両方で、乗法近似係数の強い下限が知られています。ここで、$k$はバンディットアームの数です。本研究では、2つの新しいパラメータ化されたバンディットアルゴリズムのファミリーを提案し、オフラインデータを使用して各ファミリーから準最適なアルゴリズムを学習する際のサンプル複雑性を制限します。定義する最初のファミリーには、以前の研究からの最適なランダム化アルゴリズムが含まれます。このファミリーから適切に選択されたアルゴリズムは、アーム報酬曲線が凹面の強さに関連する追加特性を満たす場合、$k$への最適な依存性を持ちながら、より強力な保証を実現できることを示 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.10619v1</guid>
-      <pubDate>Thu, 13 Nov 2025 18:46:56 +0000</pubDate>
+      <title>凸関数の学習とテスト</title>
+      <link>https://arxiv.org/abs/2511.11498v1</link>
+      <description>我々は、ガウス空間上の実数値凸関数の \emph{学習} と \emph{検定} の問題について考察する。数学、統計学、コンピュータサイエンスの分野で関数の凸性に関する研究は広範に行われているものの、その学習可能性と検定可能性は、主に離散的または限定的な設定においてのみ検討されてきた。典型的には、実数値関数には適さないハミング距離に関して検討されてきた。
+対照的に、我々は、関数へのサンプルアクセスと、リプシッツ性という緩やかな平滑性条件を仮定し、標準的なガウス測度の下で高次元においてこれらの問題を研究する。平滑性の仮定は自然であり、実際には1次元であっても必要である。なぜなら、この仮定がなければ、有限個のサンプルから凸性を推論することはできないからである。主な結果として、以下の結果を示します。
+- 凸関数の学習：Lipschitz凸関数に対する、$n^{O(1/\varepsilon^2)}$ 個のサンプルを用いて誤差$\varepsilon$を達成する不可知論的な固有学習アルゴリズム。\emph{相関統計クエリ(CSQ)}モデルにおいて、$n^{\mathrm{poly}(1/\va (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.11498v1</guid>
+      <pubDate>Fri, 14 Nov 2025 17:19:44 +0000</pubDate>
     </item>
     <item>
-      <title>変圧器の一般化線形モード接続</title>
-      <link>https://arxiv.org/abs/2506.22712v2</link>
-      <description>ニューラルネットワークの損失ランドスケープの形状を理解することは、ディープラーニングにおける中心的な課題であり、一般化と最適化にも影響を及ぼします。注目すべき現象は線形モード接続性（LMC）です。これは、独立してトレーニングされたモデルが、別々の損失領域にあるように見えても、低損失またはゼロ損失のパスによって接続される可能性があるものです。しかし、これはニューロンの順列など、機能的に等価なモデルが異なって見えるパラメータ空間の対称性によってしばしば不明瞭になります。これまでの研究は主に順列によるニューロンの並べ替えに焦点を当ててきましたが、そのようなアプローチは範囲が限られており、Transformerなどの最新のアーキテクチャが示すより豊富な対称性を捉えることができません。本研究では、順列、半順列、直交変換、および一般可逆マップという4つの対称性クラスを捉える統一フレームワークを導入し、有効な再パラメータ化のセットを拡大し、多くの以前のアプローチを特殊なケースとして包含します。重要なのは、この一般化により、独立して学習されたVision TransformerとGPT-2モデル間の低 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.22712v2</guid>
-      <pubDate>Sat, 28 Jun 2025 01:46:36 +0000</pubDate>
+      <title>ビデオワールドモデルによるスケーラブルな政策評価</title>
+      <link>https://arxiv.org/abs/2511.11520v1</link>
+      <description>ロボット操作のためのジェネラリストポリシーの学習は、多様なシナリオにおいて言語条件付けされたマルチタスク行動を可能にするため、大きな期待が寄せられています。しかし、実世界テストは費用がかかり、時間がかかり、労働集約的であるため、これらのポリシーの評価は依然として困難です。また、頻繁に環境をリセットする必要があり、実証されていないポリシーを物理的なロボットに適用する際には安全上のリスクを伴います。ロボット操作のためのアセットをシミュレーション環境に手動で作成し、入力する方法では、主に多大なエンジニアリング作業と、物理特性とレンダリングの両面でシミュレーションと現実世界のギャップが大きいことが原因で、これらの問題に対処できていません。本稿では、ポリシー評価のための世界モデルを学習するためのスケーラブルな方法として、アクション条件付きビデオ生成モデルの使用を検討します。既存の事前学習済みビデオ生成モデルにアクション条件付けを組み込む方法を示します。これにより、事前学習段階でインターネット規模の実際のオンラインビデオを活用できるようになり、ロボット操作のために収集コストの高い、ビデオとアクショ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.11520v1</guid>
+      <pubDate>Fri, 14 Nov 2025 17:46:17 +0000</pubDate>
     </item>
     <item>
-      <title>パーキンソン病における指タッピングテストの運動特性の解釈可能かつ粒度の高いビデオベースの定量化</title>
-      <link>https://arxiv.org/abs/2506.18925v3</link>
-      <description>パーキンソン病（PD）の運動特性を正確に定量化することは、病気の進行を監視し、治療戦略を最適化するために重要です。指タッピングテストは標準的な運動評価です。臨床医は患者のタッピング動作を視覚的に評価し、タッピングの振幅、速度、不規則性に基づいて全体的な重症度スコアを割り当てます。しかし、この主観的な評価は評価者間および評価者内のばらつきが生じやすく、このテスト中に取得された個々の運動特性についての知見は得られません。本稿では、ビデオ録画からPDの運動特性を定量化するきめ細かいコンピュータービジョンベースの手法を紹介します。運動低下、運動緩慢、シーケンス効果、およびためらい停止を特徴付けるために、臨床的に関連する4つの特徴セットが提案されています。私たちは、パーソナライズドパーキンソンプロジェクトのPD患者74名のビデオ録画と臨床評価でこのアプローチを評価しました。バリマックス回転を用いた主成分分析により、ビデオベースの特徴が4つの障害に対応することが示されました。さらに、ビデオベースの分析により、シーケンス効果とためらい停止の障害におけるより詳細な差異を特定することができました。以下で (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.18925v3</guid>
-      <pubDate>Thu, 19 Jun 2025 12:49:06 +0000</pubDate>
+      <title>LDC: 動的制御による研究アイデアの生成の学習</title>
+      <link>https://arxiv.org/abs/2412.14626v2</link>
+      <description>大規模言語モデル（LLM）の近年の進歩は、科学研究のアイデア創出の自動化における可能性を実証しています。既存のアプローチは主にプロンプティング技術に焦点を当てており、多くの場合、専門家の基準（新規性、実現可能性、有効性）から逸脱したアイデアを生み出します。これらは、研究コミュニティで高品質なアイデアの3つの主要なサブディメンションとして広く認識されています。また、これらのディメンションには固有のトレードオフがあるため、バランスを取ることは依然として困難です。これらの限界に対処するため、我々は、教師あり微調整（SFT）と制御可能な強化学習（RL）を組み合わせた2段階アプローチを採用した初のフレームワークを提案します。SFT段階では、モデルは研究論文とそれに対応するフォローアップアイデアのペアから基礎パターンを学習します。RL段階では、きめ細かなフィードバックに導かれる多次元報酬モデルが、主要なディメンション全体にわたってモデルを評価・最適化します。推論中は、文レベルのデコーダーによって調整されるディメンションコントローラーが、アイデア生成プロセスを動的に状況に応じて制御します。私たちのフ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2412.14626v2</guid>
+      <pubDate>Thu, 19 Dec 2024 08:28:18 +0000</pubDate>
     </item>
     <item>
-      <title>アメリカの幸福度：26億件のソーシャルメディア投稿から見る都市部と農村部の生活満足度と幸福度の異なるパターン</title>
-      <link>https://arxiv.org/abs/2511.10542v1</link>
-      <description>26億件の位置情報付きソーシャルメディア投稿（2014～2022年）と微調整された生成言語モデルを用いて、米国の郡レベルの生活満足度と幸福度指標を構築した。農村部と都市部の明らかなパラドックスを明らかにする。農村部では生活満足度が高く、都市部では幸福度が高い。これを両立させるために、評価的幸福度と快楽的幸福度の2つを主観的幸福度の異なる層として扱い、それぞれが場所、政治、時間に異なる形でマッピングされることを示した。共和党支持地域は評価面で満足度が高いように見えるが、主要都市圏以外では幸福度における党派間の格差はほぼ横ばいであり、政治的影響は文脈に依存していることを示している。快楽的幸福度層では時間的ショックが優勢であり、2020～2022年には幸福度が急激に低下する一方、生活満足度はより緩やかに推移する。これらのパターンはロジスティックおよびOLS仕様全体で頑健であり、幸福度理論と整合している。結果は、ソーシャルメディア投稿の集団の関連性として解釈され、大規模な言語ベースの指標が、表現された幸福のタイプを区別することで、農村と都市の格差に関する矛盾する調査結果を解決し、従来の調査に透 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.10542v1</guid>
-      <pubDate>Thu, 13 Nov 2025 17:41:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>大谷：ディープラーニングによる世界の降水量予測精度向上</title>
-      <link>https://arxiv.org/abs/2511.10562v1</link>
-      <description>正確な降水量推定は、水文学的応用において極めて重要であり、特に地上観測網がまばらで予測能力が限られている南半球諸国においてはなおさらである。既存の衛星ベースの降水量プロダクトは、長波赤外線チャンネルのみに依存しているか、特に1日未満の時間スケールで大きな誤差をもたらす可能性のあるデータで較正されていることが多い。本研究では、静止衛星（GEO）からの可視赤外線（VIS-IR）観測の全スペクトルを利用した、新しいリアルタイム降水量推定アルゴリズム「Oya」を紹介する。Oyaは、降水量検出用と定量的降水量推定（QPE）用の2つのU-Netモデルを組み合わせた2段階ディープラーニングアプローチを採用し、降水イベントと非降水イベント間の固有のデータ不均衡に対処している。モデルは、高解像度GPM統合レーダー放射計アルゴリズム（CORRA）v07データをグラウンドトゥルースデータとして用いて学習され、CORRAの時間的サンプリングの制限による過学習を軽減し、堅牢性を高めるためにIMERG-Finalリトリーバルで事前学習されています。複数の静止軌道衛星を活用することで、「おや」は準全球規模のカバレッ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.10562v1</guid>
-      <pubDate>Thu, 13 Nov 2025 18:01:08 +0000</pubDate>
+      <title>ドローン群のエネルギー管理</title>
+      <link>https://arxiv.org/abs/2511.11557v1</link>
+      <description>本稿では、不確実性下で動作するドローン群システムにおける意思決定のための分析フレームワークを提示する。このフレームワークは、部分観測マルコフ決定過程（POMDP）と深層決定論的方策勾配（DDPG）強化学習の統合に基づく。提案するアプローチは、コグニティブAIプラットフォーム内における無人航空機（UAV）の適応制御と協調行動を可能にする。各エージェントは動的な環境状態から最適なエネルギー管理および航行方策を学習する。標準的なDDPGアーキテクチャをベイズフィルタリングから導出される信念状態表現で拡張することで、部分観測環境における堅牢な意思決定を可能にする。本稿では、ガウス分布の場合、DDPGから導出された方策と、元の連続問題の離散化バージョンに対する最適方策の性能を数値的に比較する。シミュレーション結果は、POMDP-DDPGベースの群制御モデルが、ベースライン手法と比較してミッション成功率とエネルギー効率を大幅に向上させることを実証している。開発されたフレームワークは、複数のエージェントにわたる分散学習と意思決定調整をサポートし、スケーラブルなコグニティブ群自律性の基盤を提供する。こ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.11557v1</guid>
+      <pubDate>Fri, 14 Nov 2025 18:47:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
