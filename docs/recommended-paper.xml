@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Nov 2025 06:36:39 +0000</lastBuildDate>
-    <item>
-      <title>鋼合金のSEM画像における炭化物微細構造のセグメンテーションのためのデータ効率の高いU-Net</title>
-      <link>https://arxiv.org/abs/2511.11485v1</link>
-      <description>原子炉圧力容器鋼の微細構造を理解することは、炭化物析出物が合金を強化すると同時に亀裂の発生源となるため、機械的特性の予測に極めて重要です。走査型電子顕微鏡画像では、炭化物とマトリックスの濃淡値の重なりにより、単純な閾値設定は効果的ではありません。本研究では、わずか \textbf{10 枚の注釈付き走査型電子顕微鏡画像} でトレーニングした軽量 U-Net（30.7～M パラメータ）を用いた、データ効率の高いセグメンテーションパイプラインを紹介します。データが限られているにもかかわらず、本モデルは \textbf{Dice-Sørensen 係数 0.98} を達成し、冶金学の分野における最先端技術（従来の画像解析：0.85）を大幅に上回る性能を実現しました。また、最先端のデータ効率の高いセグメンテーションモデルと比較して、注釈付けの労力を 1 桁削減しました。このアプローチにより、合金設計における炭化物の迅速かつ自動定量化が可能になり、他の鋼種にも一般化できるため、原子炉圧力容器鋼の解析におけるデータ効率の高いディープラーニングの可能性が示されます。 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.11485v1</guid>
-      <pubDate>Fri, 14 Nov 2025 17:01:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>経験に基づく推論時間推論戦略の適応</title>
-      <link>https://arxiv.org/abs/2511.11519v1</link>
-      <description>エージェントAIシステムがトレーニング後のインタラクションに基づいて問題解決アプローチを適応させることは、依然として根本的な課題です。推論時にメモリを更新・維持するシステムは提案されていますが、既存の設計では言語モデルまたはエージェントへのテキスト入力を変更することでのみシステムを操作しているため、サンプリングパラメータの変更、ツールの削除、システムプロンプトの変更、エージェントパラダイムとワークフローパラダイムの切り替えを行うことができません。一方、より柔軟に適応するシステムはオフライン最適化を必要とし、一度導入されると静的な状態を維持します。本研究では、蓄積された経験に基づいて推論時に動的にカスタマイズされた戦略（LLM呼び出し、ツール、サンプリングパラメータ、制御ロジックを含む完全な計算手順）を生成するExperience-Guided Reasoner（EGuR）を紹介します。これは、LLMベースのメタ戦略（戦略を出力する戦略）を用いて実現され、すべての戦略コンポーネント（プロンプト、サンプリングパラメータ、ツール構成、制御ロジック）の適応を可能にします。 EGuRは2つのコン (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.11519v1</guid>
-      <pubDate>Fri, 14 Nov 2025 17:45:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>スピルオーバーと部分適格性を考慮した二者間実験における総効果の推定</title>
-      <link>https://arxiv.org/abs/2511.11564v1</link>
-      <description>我々は、処置側ユニットのサブセットのみが割り当ての対象となる一方で、すべてのユニットが相互作用を続け、干渉を生成する二部システムにおけるランダム化実験を研究する。適格性制約付き二部実験を形式化し、完全展開に整合した推定量を定義する。すなわち、適格ユニットに対する一次総処置効果（PTTE）と不適格ユニットに対する二次総処置効果（STTE）である。適格セット内でのランダム化の下で、識別条件を与え、曝露マッピング、一般化傾向スコア、柔軟な機械学習を組み合わせた干渉を考慮したアンサンブル推定量を開発する。さらに、処置レベルと結果レベルの推定量を結び付ける射影を導入する。このマッピングは線形加法エッジ条件下で正確であり、（通常ははるかに小さい）処置側での推定を結果への決定論的集約によって可能にする。現実的な曝露レジームにおける既知のグラウンドトゥルースを用いたシミュレーションにおいて、提案された推定量は低いバイアスと分散でPTTEとSTTEを回復し、干渉を無視した場合に生じる可能性のあるバイアスを低減する。 2 つのフィールド実験は、実用的な関連性を示しています。私たちの方法は、両方の研究で事前 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.11564v1</guid>
-      <pubDate>Fri, 14 Nov 2025 18:55:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>ImAgent: テスト時にスケーラブルな画像生成を実現する統合マルチモーダルエージェントフレームワーク</title>
-      <link>https://arxiv.org/abs/2511.11483v1</link>
-      <description>最近のテキスト画像変換（T2I）モデルは、視覚的にリアルで意味的に一貫性のある画像を生成する点で目覚ましい進歩を遂げてきました。しかし、特にテキスト記述が曖昧または不十分な場合、与えられたプロンプトとのランダム性や不整合が依然として問題となります。プロンプト書き換え、ベストオブNサンプリング、自己改良などの既存のアプローチはこれらの問題を軽減できますが、通常は追加モジュールが必要で独立して動作するため、テスト時間のスケーリング効率が低下し、計算オーバーヘッドが増加します。本稿では、効率的なテスト時間のスケーリングを実現するために、推論、生成、自己評価を単一のフレームワークに統合した、トレーニング不要の統合マルチモーダルエージェントであるImAgentを紹介します。ポリシーコントローラによって誘導され、複数の生成アクションが動的に相互作用して自己組織化し、外部モデルに依存せずに画像の忠実度と意味的整合を向上させます。画像生成および編集タスクに関する広範な実験により、ImAgent はバックボーン モデルを一貫して改善し、バックボーン モデルが失敗する他の強力なベースラインさえも上回り、テ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.11483v1</guid>
-      <pubDate>Fri, 14 Nov 2025 17:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>公平なクラスタリングを複数のグループに一般化する：アルゴリズムとアプリケーション</title>
-      <link>https://arxiv.org/abs/2511.11539v1</link>
-      <description>クラスタリングは機械学習とデータ分析における基本的なタスクですが、複数の保護属性によって定義される様々な疎外されたコミュニティを公平に表現できないことがよくあります。これは、トレーニングデータの偏りによって引き起こされることが多い欠点です。その結果、クラスタリング結果の公平性を高める必要性が高まっており、理想的には、従来のクラスタリングの後処理ステップとして最小限の変更を加えることで実現されます。最近、Chakrabortyら[COLT'25]は、データポイントが2つのグループのみに属するという限定的なシナリオにおいて、\emph{closest fair clustering}の研究を開始しました。しかし実際には、データポイントは通常、年齢、民族、性別などの多様な保護属性を反映した多くのグループによって特徴付けられます。
-本研究では、\emph{closest fair clustering}問題の研究を、任意の数（2つ以上）のグループを持つ設定に一般化します。まず、すべてのグループのサイズが同じであっても、この問題はNP困難であることを示します。これは、正確なアルゴリズムが存在する (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.11539v1</guid>
-      <pubDate>Fri, 14 Nov 2025 18:19:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Nov 2025 21:27:10 +0000</lastBuildDate>
     <item>
       <title>凸関数の学習とテスト</title>
       <link>https://arxiv.org/abs/2511.11498v1</link>

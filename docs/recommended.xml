@@ -7,66 +7,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Nov 2025 06:36:29 +0000</lastBuildDate>
-    <item>
-      <title>【海外記事紹介】FirefoxにAI搭載は誰も望んでいない、と評する記事が海外で話題に</title>
-      <link>https://techfeed.io/entries/691a4245bb34b50fd19b889f?from=rss</link>
-      <description>11月15日、Manual do Usuárioが「I think nobody wants AI in Firefox, Mozilla」と題した記事を公開した。この記事では、Mozillaが開発を進めているFirefox向けAIアシスタント機能「Window AI」と、それに対するユーザーの強い反発について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/691a4245bb34b50fd19b889f?from=rss</guid>
-      <pubDate>Sun, 16 Nov 2025 21:29:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>iOSエンジニアだけが知っているGmailのなにげないすごさ</title>
-      <link>https://zenn.dev/10q89s/articles/gmail_notifications</link>
-      <description>!
-読むのにかかる時間: 約5分
-
-
- はじめに
-Gmailは太古の昔からモバイルアプリも提供されており、高い完成度を誇っている。
-iOSエンジニアしか気づかないすごいポイントがあるので紹介したい。
-
- Gmailアプリのすごさ
-Gmailアプリのすごさは、メールをiPhoneで受信したあとの挙動にある。
-
- 普通に通知が届く
-
-
- 他の端末でメールを既読にすると、通知センターから通知が消える
-
-
- どこがすごいのかわからないですよね
-プッシュ通知は世の中の多くのアプリで利用されているけど
-そのほとんどは プッシュ通知を送りっぱなしで、ユーザーが通知をタップするか手動で消すまで残り続ける... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/10q89s/articles/gmail_notifications</guid>
-      <pubDate>Thu, 13 Nov 2025 23:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>「シニアエンジニアとして技術で事業に貢献する方法」全部振り返る | レバテックラボ（レバテックLAB）</title>
-      <link>https://levtech.jp/media/article/column/detail_757/</link>
-      <description>私がスタッフエンジニアとして働くうえで、最も重視している考えは「事に向かうこと」です。 ここでフォーカスしている「事」とは「重要な事」を指しています。今自分にしか出来ない最も重要だと思うことを指しています。逆に言えば、それ以外のことには向かうことなかれという考えです。 Tebikiのスタッフエンジニアは... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://levtech.jp/media/article/column/detail_757/</guid>
-      <pubDate>Mon, 17 Nov 2025 03:22:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>コミュニティへの関わり方①あなたに合った参加スタイルを見つけよう</title>
-      <link>https://zenn.dev/dataheroes/articles/f2fb8c4597a32c</link>
-      <description>この記事について
-この記事は、私個人の経験と気づきをまとめたエッセイです。
-
- 簡単な自己紹介
-私は、日本最大級の共通ポイントサービスの1つである、Vポイントサービスのエンジニアリング責任者をしています。
-2019年にデータ基盤の責任者だった私は、Snowflakeと出会い、それから6年近くこの製品を利用してデータ基盤の統合やモダン化を進めてきました。
-現在、Snowflakeの日本コミュニティである、SnowVillageに参加し、コミュニティアンバサダーである、Snowflake Data Superheroesに選出いただいており、日本人DSHの13人のうちの1人として過ごさせ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dataheroes/articles/f2fb8c4597a32c</guid>
-      <pubDate>Sun, 16 Nov 2025 05:26:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Nov 2025 21:27:03 +0000</lastBuildDate>
     <item>
       <title>【海外記事紹介】FFmpegがGoogleへ「バグだけじゃなく、資金も送れ」 — AIによる脆弱性報告急増の裏で、OSSに起きている危機</title>
       <link>https://techfeed.io/entries/6914f941b335ef5804a2b1f3?from=rss</link>
       <description>11月12日、The New Stackが「FFmpeg to Google: Fund Us or Stop Sending Bugs」と題した記事を公開した。この記事では、AIによる脆弱性報告の急増を背景に、FFmpegとGoogleの間で噴出した「オープンソースの安全性と、そのコストを誰が負担するのか」という問題について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6914f941b335ef5804a2b1f3?from=rss</guid>
       <pubDate>Wed, 12 Nov 2025 21:16:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>あなたもクソコードの世界に触れてみませんか？？ - 逆リファクタリングバトルのイベント報告 -</title>
+      <link>https://zenn.dev/smartcamp/articles/eac471f2304863</link>
+      <description>「コードは綺麗に書くべき」
+そんな呪いにかかっていませんか？
+「可読性が正義」「保守性が命」
+確かにその通り。
+でも、そこに縛られすぎて“自由に書く楽しさ”を忘れていないでしょうか。
+コードなんて、本来もっと遊んでいい。
+ときには破壊的に、意味不明に、カオスな方向へ振り切ってみてもいい。
+今日はその逆方向へ思いっきり振り切る遊び「逆リファクタリングバトル」というイベントをしたので、その内容を共有しようと思います。
+Hello. クソコード!!
+
+ はじめに
+こんにちは。初めまして。まるべいじ（malvageee）と申します！
+先ほど、少し刺激的な言葉で始めましたが、この記事は「汚いコード... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/smartcamp/articles/eac471f2304863</guid>
+      <pubDate>Mon, 17 Nov 2025 01:28:20 +0000</pubDate>
     </item>
     <item>
       <title>週末にほぼAI (v0・Claude Codeなど) が作った比較サイトをリリース - ほぼ2日で完成した個人開発の裏側</title>
@@ -90,6 +56,13 @@ https://www.shimizu-okini.com/
       <pubDate>Sun, 16 Nov 2025 21:15:38 +0000</pubDate>
     </item>
     <item>
+      <title>弱者男性が救われるための制度設計──人類は存続すべきか、AIが生命史を継いでもいいのか - 晶文社スクラップブック</title>
+      <link>https://s-scrap.com/12663</link>
+      <description>「女が差別されている」「いや、男の方がつらい」などと、今日もネットではバトルが繰り広げられている。統計的事実からすれば、どちらの主張も可能であるにもかかわらず、お互いに攻撃し合い、対立の度合いを深めていく泥沼とも言える事態が生じているのが現在だ。かようにネットで展開しがちな男女論、フェミニズムと... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://s-scrap.com/12663</guid>
+      <pubDate>Mon, 17 Nov 2025 03:08:02 +0000</pubDate>
+    </item>
+    <item>
       <title>この文字組み、どっちが正解？ベースライン調整のセンスを磨いておこう</title>
       <link>https://www.adobe.com/jp/creativecloud/roc/blog/design/quiz-challenge/baseline.html</link>
       <description>1．電話番号のハイフンの天地に気をつける では、1問目から振り返っていきましょう。 1問目の解答は「B」でした。 AとBとの違いは、ハイフン（-）の上下の位置（天地）です 上記のAの作例では、ハイフン（-）が少し下がっていて、全体的にバランスが悪くなっています。 いっぽう、Bの作例ではハイフン（-）の位置がちょ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
@@ -97,25 +70,44 @@ https://www.shimizu-okini.com/
       <pubDate>Mon, 17 Nov 2025 02:00:11 +0000</pubDate>
     </item>
     <item>
-      <title>「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？</title>
-      <link>https://zenn.dev/ukitaka/articles/468d418a5dd8fa</link>
-      <description>2要素認証などでよくみる6桁のワンタイムパスワードですが、個人的に何となく気になっていることがありました。
-それは 同じ数字が並ぶことが多いな と感じるということです。
+      <title>Node.js on Dockerでスリムかつセキュアなコンテナイメージを作る - 2025年版</title>
+      <link>https://zenn.dev/bitkey_dev/articles/7802c25e79e1db</link>
+      <description>はじめに
+みなさんはDockerfileを書いていますか？
+近年はAIによる支援でDockerfileをスクラッチで書く機会が減っていると考えられます。
+しかしながら、AIに書かせる場合でも良い書き方を知っていることで、その後の修正が容易になります。
+この記事では、Node.jsアプリケーションのDockerfileを作成する際に、私ならこのように書くという提案をします。
 
-この記事では
+ 作成するDockerfileとディレクトリ構造
+初めに、完成形のDockerfileとディレクトリ構造を示します。
+以降のセクションで実装のポイントを解説していきます。
+実行可能なサンプルコードはGitHubで... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/bitkey_dev/articles/7802c25e79e1db</guid>
+      <pubDate>Fri, 14 Nov 2025 02:09:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Claude Code】Skills機能で『AIっぽい』UIから脱却する方法！Anthropic公式もおすすめ</title>
+      <link>https://zenn.dev/tmasuyama1114/articles/anthropic_claude_skills_design</link>
+      <description>こんにちは、とまだです。
+Claude CodeでUIを生成してもらうと、どれも似たような見た目になってしまう。そんな経験はありませんか？
+こういうの👇
 
-「同じ数字が並ぶ」という直感が正しいのか？
-何かの目的 (例: 入力を楽にする) があってこうなっているのか？
-ワンタイムパスワードの生成アルゴリズム的にこういう偏りが生まれやすくなるのか？
-
-という素朴な疑問を解決すべく調査・検証してみました。
-
- ワンタイムパスワードの仕様
-6桁のワンタイムパスワード（以下、OTP）は、実は国際的に標準化された仕様に基づいて生成されています。
-
-RFC 4226 -... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ukitaka/articles/468d418a5dd8fa</guid>
-      <pubDate>Sun, 16 Nov 2025 13:50:12 +0000</pubDate>
+私も最初は、どのプロジェクトも似たような紫のグラデーションになってしまい、困った経験があります。しかし、これには技術的な理由があるんです。そして、解決方法もちゃんと用意されています。
+この記事では、Anthropicの公式ブログで公開された解決手法を、Claude Code初心者向けに噛み砕いて解説します。
+AI生成UIの「没個性化」問題と、その解決策となるSkills機能について、日常的な例えを交えながら段階的に見ていきましょう。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tmasuyama1114/articles/anthropic_claude_skills_design</guid>
+      <pubDate>Sun, 16 Nov 2025 14:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>ReAct 論文と共に読み解く strands-agents/sdk-python の実装</title>
+      <link>https://zenn.dev/aws_japan/articles/2025-11-17-react-strands-agents</link>
+      <description>こんにちは、AWS Japan で Solutions Architect をしている yoheikikuta です。
+2025 年は AI エージェントの開発が盛んになっており、多くの人が何かしらの AI エージェントを作ってみたことがあるのではないでしょうか。
+一方で、LLM を用いたエージェントとしてどのような枠組みに基づいて効果的に振る舞っているのか、その枠組みがどのように実装されているのか、という観点で深掘りをしたことがある人はそれほどいないかもしれません。
+本ブログでは、AI エージェントを作る人がその土台となる部分の理解を深めるための一助として、LLM がエージェントとして... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/2025-11-17-react-strands-agents</guid>
+      <pubDate>Mon, 17 Nov 2025 00:12:05 +0000</pubDate>
     </item>
     <item>
       <title>Windows版Zedを試してみたらVSCodeより使うことになりそう</title>
