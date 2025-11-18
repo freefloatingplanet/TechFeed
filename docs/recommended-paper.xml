@@ -7,36 +7,41 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Nov 2025 21:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 06:35:22 +0000</lastBuildDate>
     <item>
-      <title>凸関数の学習とテスト</title>
-      <link>https://arxiv.org/abs/2511.11498v1</link>
-      <description>我々は、ガウス空間上の実数値凸関数の \emph{学習} と \emph{検定} の問題について考察する。数学、統計学、コンピュータサイエンスの分野で関数の凸性に関する研究は広範に行われているものの、その学習可能性と検定可能性は、主に離散的または限定的な設定においてのみ検討されてきた。典型的には、実数値関数には適さないハミング距離に関して検討されてきた。
-対照的に、我々は、関数へのサンプルアクセスと、リプシッツ性という緩やかな平滑性条件を仮定し、標準的なガウス測度の下で高次元においてこれらの問題を研究する。平滑性の仮定は自然であり、実際には1次元であっても必要である。なぜなら、この仮定がなければ、有限個のサンプルから凸性を推論することはできないからである。主な結果として、以下の結果を示します。
-- 凸関数の学習：Lipschitz凸関数に対する、$n^{O(1/\varepsilon^2)}$ 個のサンプルを用いて誤差$\varepsilon$を達成する不可知論的な固有学習アルゴリズム。\emph{相関統計クエリ(CSQ)}モデルにおいて、$n^{\mathrm{poly}(1/\va (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.11498v1</guid>
-      <pubDate>Fri, 14 Nov 2025 17:19:44 +0000</pubDate>
+      <title>P1: 強化学習で物理オリンピックを制覇する</title>
+      <link>https://arxiv.org/abs/2511.13612v1</link>
+      <description>大規模言語モデル（LLM）における近年の進歩により、そのフロンティアはパズルを解くことから科学的レベルの推論、つまり単に規則に当てはまるだけでなく、自然に立ち向かう必要がある問題に取り組むために必要なものへと移行しました。物理学はこの変化を最も鋭く試すものであり、記号を現実に根本的に結び付け、ほとんどの現代技術の基礎となっています。本研究では、並外れた物理学的推論能力、特にオリンピックレベルの物理学の問題を解くことに優れた大規模言語モデルを開発することで、物理学研究を前進させようとしています。私たちは、完全に強化学習（RL）によってトレーニングされたオープンソースの物理学推論モデルファミリーであるP1を紹介します。その中でも、P1-235B-A22Bは、最新の国際物理オリンピック（IPhO 2025）で金メダルを獲得した最初のオープンソースモデルであり、2024/2025年に開催される13の国際/地域物理学大会で12個の金メダルを獲得します。 P1-30B-A3Bは、IPhO 2025においてほぼ全てのオープンソースモデルを凌駕し、銀メダルを獲得しました。さらに、エージェントフレームワ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.13612v1</guid>
+      <pubDate>Mon, 17 Nov 2025 17:18:13 +0000</pubDate>
     </item>
     <item>
-      <title>ビデオワールドモデルによるスケーラブルな政策評価</title>
-      <link>https://arxiv.org/abs/2511.11520v1</link>
-      <description>ロボット操作のためのジェネラリストポリシーの学習は、多様なシナリオにおいて言語条件付けされたマルチタスク行動を可能にするため、大きな期待が寄せられています。しかし、実世界テストは費用がかかり、時間がかかり、労働集約的であるため、これらのポリシーの評価は依然として困難です。また、頻繁に環境をリセットする必要があり、実証されていないポリシーを物理的なロボットに適用する際には安全上のリスクを伴います。ロボット操作のためのアセットをシミュレーション環境に手動で作成し、入力する方法では、主に多大なエンジニアリング作業と、物理特性とレンダリングの両面でシミュレーションと現実世界のギャップが大きいことが原因で、これらの問題に対処できていません。本稿では、ポリシー評価のための世界モデルを学習するためのスケーラブルな方法として、アクション条件付きビデオ生成モデルの使用を検討します。既存の事前学習済みビデオ生成モデルにアクション条件付けを組み込む方法を示します。これにより、事前学習段階でインターネット規模の実際のオンラインビデオを活用できるようになり、ロボット操作のために収集コストの高い、ビデオとアクショ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.11520v1</guid>
-      <pubDate>Fri, 14 Nov 2025 17:46:17 +0000</pubDate>
+      <title>QUILL: キャッシュローカル変形可能アテンションのためのアルゴリズムとアーキテクチャの協調設計</title>
+      <link>https://arxiv.org/abs/2511.13679v1</link>
+      <description>変形可能なトランスフォーマーは最先端の検出技術を提供しますが、メモリアクセスの不規則性と演算強度の低さから、ハードウェアへのマッピングは容易ではありません。本稿では、変形可能なアテンションをキャッシュフレンドリーなシングルパス処理に変換する、スケジュールを考慮したアクセラレータQUILLを紹介します。その中核となるのは、距離ベースのアウトオブオーダークエリ（DOOQ）で、空間的な近接性に基づいてクエリを順序付けます。先読みによって代替バッファへの領域プリフェッチが実行され、メモリと計算が重複するスケジュールを考慮したプリフェッチループが形成されます。統合されたMSDeformAttnエンジンは、補間、ソフトマックス、集約、そして最終的な投影（W''m）を中間結果を残さずに1パスで実行します。一方、小さなテンソルはオンチップに保持され、周囲の密なレイヤーは統合されたGEMM上で実行されます。 RTLとして実装され、エンドツーエンドで評価されたQUILLは、RTX 4090と比較して最大7.29倍のスループットと47.3倍のエネルギー効率を実現し、従来のアクセラレータと比較してスループット (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.13679v1</guid>
+      <pubDate>Mon, 17 Nov 2025 18:34:04 +0000</pubDate>
     </item>
     <item>
-      <title>LDC: 動的制御による研究アイデアの生成の学習</title>
-      <link>https://arxiv.org/abs/2412.14626v2</link>
-      <description>大規模言語モデル（LLM）の近年の進歩は、科学研究のアイデア創出の自動化における可能性を実証しています。既存のアプローチは主にプロンプティング技術に焦点を当てており、多くの場合、専門家の基準（新規性、実現可能性、有効性）から逸脱したアイデアを生み出します。これらは、研究コミュニティで高品質なアイデアの3つの主要なサブディメンションとして広く認識されています。また、これらのディメンションには固有のトレードオフがあるため、バランスを取ることは依然として困難です。これらの限界に対処するため、我々は、教師あり微調整（SFT）と制御可能な強化学習（RL）を組み合わせた2段階アプローチを採用した初のフレームワークを提案します。SFT段階では、モデルは研究論文とそれに対応するフォローアップアイデアのペアから基礎パターンを学習します。RL段階では、きめ細かなフィードバックに導かれる多次元報酬モデルが、主要なディメンション全体にわたってモデルを評価・最適化します。推論中は、文レベルのデコーダーによって調整されるディメンションコントローラーが、アイデア生成プロセスを動的に状況に応じて制御します。私たちのフ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2412.14626v2</guid>
-      <pubDate>Thu, 19 Dec 2024 08:28:18 +0000</pubDate>
+      <title>テキスト位置を考慮したシーンの再照明のための IC-Light のトレーニング不要のマルチビュー拡張</title>
+      <link>https://arxiv.org/abs/2511.13684v1</link>
+      <description>我々は、ガウススプラッティング（3DGS）を介して表現された3Dシーンのテキスト誘導による再ライティングのための、効率的でテキスト位置認識パイプラインであるGS-Lightを紹介します。GS-Lightは、マルチビュー入力を処理するために、トレーニング不要の単一入力拡散モデルの拡張を実装します。照明の方向、色、強度、または参照オブジェクトを指定する可能性のあるユーザープロンプトが与えられた場合、大規模な視覚言語モデル（LVLM）を使用してプロンプトを照明の事前分布に解析します。ジオメトリとセマンティクス（深度、表面法線、およびセマンティックセグメンテーション）の既成の推定器を使用して、これらの照明の事前分布をビュージオメトリ制約と融合し、照明マップを計算して各ビューの初期潜在コードを生成します。これらの細心の注意を払って導出された初期潜在コードは、特に照明方向に関して、ユーザーの期待をより正確に反映した再ライティング出力を生成するように拡散モデルを導きます。マルチビューレンダリング画像と初期潜在変数をマルチビューリライティングモデルに入力することで、高忠実度で芸術的なリライティング画像 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.13684v1</guid>
+      <pubDate>Mon, 17 Nov 2025 18:37:41 +0000</pubDate>
     </item>
     <item>
-      <title>ドローン群のエネルギー管理</title>
-      <link>https://arxiv.org/abs/2511.11557v1</link>
-      <description>本稿では、不確実性下で動作するドローン群システムにおける意思決定のための分析フレームワークを提示する。このフレームワークは、部分観測マルコフ決定過程（POMDP）と深層決定論的方策勾配（DDPG）強化学習の統合に基づく。提案するアプローチは、コグニティブAIプラットフォーム内における無人航空機（UAV）の適応制御と協調行動を可能にする。各エージェントは動的な環境状態から最適なエネルギー管理および航行方策を学習する。標準的なDDPGアーキテクチャをベイズフィルタリングから導出される信念状態表現で拡張することで、部分観測環境における堅牢な意思決定を可能にする。本稿では、ガウス分布の場合、DDPGから導出された方策と、元の連続問題の離散化バージョンに対する最適方策の性能を数値的に比較する。シミュレーション結果は、POMDP-DDPGベースの群制御モデルが、ベースライン手法と比較してミッション成功率とエネルギー効率を大幅に向上させることを実証している。開発されたフレームワークは、複数のエージェントにわたる分散学習と意思決定調整をサポートし、スケーラブルなコグニティブ群自律性の基盤を提供する。こ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.11557v1</guid>
-      <pubDate>Fri, 14 Nov 2025 18:47:30 +0000</pubDate>
+      <title>ST-ProC: 堅牢な半教師あり交通モード識別のためのグラフプロトタイプフレームワーク</title>
+      <link>https://arxiv.org/abs/2511.13702v1</link>
+      <description>GPS軌跡からの移動モード識別（TMI）は都市情報処理に不可欠ですが、アノテーションのコストが高いことが障害となり、深刻なラベル不足に陥っています。現在普及している半教師あり学習（SSL）手法は、壊滅的な確証バイアスに悩まされ、固有のデータマニホールドを無視するため、このタスクには適していません。私たちは、これらの制限に対処するために、新しいグラフプロトタイプ多目的SSLフレームワークであるST-ProCを提案します。私たちのフレームワークは、グラフプロトタイプコアと基礎的なSSLサポートを相乗的に機能させます。コアは、グラフ正則化、プロトタイプアンカー、およびノイズを積極的に除去するための新しいマージンを考慮した疑似ラベリング戦略を介してデータマニホールドを活用します。このコアは、基礎的な対比損失と教師-生徒一貫性損失によってサポートおよび安定化されており、高品質の表現と堅牢な最適化を保証します。 ST-ProC はすべてのベースラインを大幅に上回り、実際のスパース ラベル設定でその有効性を実証し、FixMatch などの最先端の方法に比べて 21.5% のパフォーマンス向上を実現し (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.13702v1</guid>
+      <pubDate>Mon, 17 Nov 2025 18:52:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>OlmoEarth: マルチモーダル地球観測のための安定した潜在画像モデリング</title>
+      <link>https://arxiv.org/abs/2511.13655v1</link>
+      <description>地球観測データは、画像のように空間的でありながら、動画やテキストのようにシーケンシャルで、高度にマルチモーダルであるという、特有の課題を抱えています。そこで、地球観測分野向けに設計された、新たな自己教師学習の定式化、マスキング戦略、損失を採用した、マルチモーダルな時空間基盤モデルである OlmoEarth を紹介します。OlmoEarth は、外部パートナーによる様々な研究ベンチマークや実世界のタスクにおいて、他の 12 の基盤モデルと比較して最先端のパフォーマンスを達成しています。埋め込みを評価する際、OlmoEarth は 24 のタスクのうち 15 で最高のパフォーマンスを達成し、完全な微調整を加えると 29 のタスクのうち 19 で最高のパフォーマンスを達成します。私たちは、地球観測モデルのデータ収集、ラベリング、トレーニング、推論のためのエンドツーエンドのプラットフォームのバックボーンとして OlmoEarth を展開しています。OlmoEarth プラットフォームは、世界最大の問題の解決に取り組む非営利団体や NGO に、最先端の基盤モデルと強力なデータ管理ツールを提供しま (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.13655v1</guid>
+      <pubDate>Mon, 17 Nov 2025 18:06:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

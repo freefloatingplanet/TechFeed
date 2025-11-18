@@ -7,13 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Nov 2025 21:27:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 06:35:15 +0000</lastBuildDate>
     <item>
-      <title>【海外記事紹介】FFmpegがGoogleへ「バグだけじゃなく、資金も送れ」 — AIによる脆弱性報告急増の裏で、OSSに起きている危機</title>
-      <link>https://techfeed.io/entries/6914f941b335ef5804a2b1f3?from=rss</link>
-      <description>11月12日、The New Stackが「FFmpeg to Google: Fund Us or Stop Sending Bugs」と題した記事を公開した。この記事では、AIによる脆弱性報告の急増を背景に、FFmpegとGoogleの間で噴出した「オープンソースの安全性と、そのコストを誰が負担するのか」という問題について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6914f941b335ef5804a2b1f3?from=rss</guid>
-      <pubDate>Wed, 12 Nov 2025 21:16:49 +0000</pubDate>
+      <title>これ、ランサムウェアの入り口になっちゃうやつでは？ 大企業の6割超がVPN機器の脆弱性を「即時特定できない」</title>
+      <link>https://ascii.jp/elem/000/004/352/4352292/</link>
+      <description>近年、企業におけるランサムウェア被害が高水準で推移している。警察庁のサイバー警察局が公表した報告でも、VPN機器などからの侵入がランサムウェアの主な感染経路として指摘されている点が挙げられている（警察庁サイバー警察局「令和７年上半期におけるサイバー空間をめぐる脅威の情勢等について」）。 アシュアード... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://ascii.jp/elem/000/004/352/4352292/</guid>
+      <pubDate>Mon, 17 Nov 2025 08:11:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>600ファイル5000箇所の多言語対応を半日で終わらせた話</title>
+      <link>https://zenn.dev/dress_code/articles/codebase-transformation</link>
+      <description>TL;DR
+
+約600ファイル、5,000箇所への中国語追加を「工程分割 + AST 解析」により計6時間（実装4時間、実行2時間）で完了
+AI にファイル単位で処理させると無駄な再計算が発生して非効率だったため、「抽出」「翻訳」「適用」の3工程に分割し AST 解析で効率化を実現
+この手法の鍵は「コンテキストの制御」で、適切な粒度で問題を分割し AI に必要最小限の情報だけを渡すことで処理速度と精度を最大化できる
+
+
+ はじめに
+こんにちは、DressCode でプロダクトエンジニアをしているないとーです。
+この記事では、AI だけでは解決できなかった大規模コード変更を、AST（抽... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/codebase-transformation</guid>
+      <pubDate>Mon, 17 Nov 2025 02:00:02 +0000</pubDate>
     </item>
     <item>
       <title>あなたもクソコードの世界に触れてみませんか？？ - 逆リファクタリングバトルのイベント報告 -</title>
@@ -35,18 +51,13 @@ Hello. クソコード!!
       <pubDate>Mon, 17 Nov 2025 01:28:20 +0000</pubDate>
     </item>
     <item>
-      <title>週末にほぼAI (v0・Claude Codeなど) が作った比較サイトをリリース - ほぼ2日で完成した個人開発の裏側</title>
-      <link>https://zenn.dev/chot/articles/e594febc54f68f</link>
-      <description>個人開発は楽しいですが、ゼロからすべて作ると週末だけではなかなか終わりません。
-今回は、UI生成AI「v0」と「Claude Code」などを活用し、従来なら2日では終わらなかった開発を土日だけでリリースできた工程を紹介します。
-このアプリの約9割はLLM（コーディングエージェント）による実装です。
-人は仕様や品質ルールを考え、実装はAIに任せる――そんな進め方で短期間リリースを実現しました。
-作ったのはこちら
-https://www.shimizu-okini.com/
-この記事では、使ったツールのセットアップから完成までの流れをまとめます。
-また、コードやプロンプトの詳細より「どう進... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/chot/articles/e594febc54f68f</guid>
-      <pubDate>Fri, 14 Nov 2025 09:26:37 +0000</pubDate>
+      <title>Linuxで顔認証するPAMモジュール chissu-pam を作った</title>
+      <link>https://zenn.dev/sett4/articles/cf330b6044cd49</link>
+      <description>これは何?
+毎回 sudo やロックスクリーン解除でパスワードを打つのが面倒なので、顔認証の PAM モジュールを自作した話です。Linux Desktop の顔認証といえば Howdy が定番ですが、あえて chissu-pam を作った理由も含めてまとめました。名前の由来は Windows Hello → 日本語のちぃ〜っす → Chissu という流れです。
+Mac なら Touch ID、Windows なら Windows Hello でパスワード入力から解放されている人が多いと思います。Linux Desktop でも同じ快適さを得たい！という勢いと、今流行りの Vibe... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sett4/articles/cf330b6044cd49</guid>
+      <pubDate>Mon, 17 Nov 2025 01:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】仕様駆動開発（SDD:Spec-Driven Development） — AIはウォーターフォールの逆襲を招くのか</title>
@@ -54,36 +65,6 @@ https://www.shimizu-okini.com/
       <description>11月16日、Marmelabが「Spec-Driven Development: The Waterfall Strikes Back」と題した記事を公開した。この記事では、仕様書駆動開発（Spec-Driven Development; SDD）がAI時代のプログラミングに秩序をもたらすという期待と、冗長な文書作成がアジリティを損なうという懸念の両面について詳しく紹介されている。以下に、その内容を紹介する。仕様書駆動開発（SDD）の台頭チャット入力を中心に据えるコーディングアシスタントは、従来のIDEと比べ手がかりが少ない。そこでオープンソース界隈では、初期プロンプトと数個の指示からLLMに「仕様」「実装計画」「タスクリスト」を生成させ、ユーザーが追記・修正し、完成した文書群をコーディングエージェント（Claude Code、Cursor、Copilot等）へ渡す、という流れが生まれている。これがSDDである。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/691a3efabb34b50fd19b883a?from=rss</guid>
       <pubDate>Sun, 16 Nov 2025 21:15:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>弱者男性が救われるための制度設計──人類は存続すべきか、AIが生命史を継いでもいいのか - 晶文社スクラップブック</title>
-      <link>https://s-scrap.com/12663</link>
-      <description>「女が差別されている」「いや、男の方がつらい」などと、今日もネットではバトルが繰り広げられている。統計的事実からすれば、どちらの主張も可能であるにもかかわらず、お互いに攻撃し合い、対立の度合いを深めていく泥沼とも言える事態が生じているのが現在だ。かようにネットで展開しがちな男女論、フェミニズムと... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://s-scrap.com/12663</guid>
-      <pubDate>Mon, 17 Nov 2025 03:08:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>この文字組み、どっちが正解？ベースライン調整のセンスを磨いておこう</title>
-      <link>https://www.adobe.com/jp/creativecloud/roc/blog/design/quiz-challenge/baseline.html</link>
-      <description>1．電話番号のハイフンの天地に気をつける では、1問目から振り返っていきましょう。 1問目の解答は「B」でした。 AとBとの違いは、ハイフン（-）の上下の位置（天地）です 上記のAの作例では、ハイフン（-）が少し下がっていて、全体的にバランスが悪くなっています。 いっぽう、Bの作例ではハイフン（-）の位置がちょ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.adobe.com/jp/creativecloud/roc/blog/design/quiz-challenge/baseline.html</guid>
-      <pubDate>Mon, 17 Nov 2025 02:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Node.js on Dockerでスリムかつセキュアなコンテナイメージを作る - 2025年版</title>
-      <link>https://zenn.dev/bitkey_dev/articles/7802c25e79e1db</link>
-      <description>はじめに
-みなさんはDockerfileを書いていますか？
-近年はAIによる支援でDockerfileをスクラッチで書く機会が減っていると考えられます。
-しかしながら、AIに書かせる場合でも良い書き方を知っていることで、その後の修正が容易になります。
-この記事では、Node.jsアプリケーションのDockerfileを作成する際に、私ならこのように書くという提案をします。
-
- 作成するDockerfileとディレクトリ構造
-初めに、完成形のDockerfileとディレクトリ構造を示します。
-以降のセクションで実装のポイントを解説していきます。
-実行可能なサンプルコードはGitHubで... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/bitkey_dev/articles/7802c25e79e1db</guid>
-      <pubDate>Fri, 14 Nov 2025 02:09:07 +0000</pubDate>
     </item>
     <item>
       <title>【Claude Code】Skills機能で『AIっぽい』UIから脱却する方法！Anthropic公式もおすすめ</title>
@@ -110,6 +91,24 @@ AI生成UIの「没個性化」問題と、その解決策となるSkills機能�
       <pubDate>Mon, 17 Nov 2025 00:12:05 +0000</pubDate>
     </item>
     <item>
+      <title>RAGをゼロから実装して仕組みを学ぶ【2025年版】</title>
+      <link>https://zenn.dev/knowledgesense/articles/2619c6e5918d08</link>
+      <description>!
+今回は、「RAG初心者」に向けた内容です。（プロのみなさん、すみません）
+
+本記事では、RAGの基本的な仕組みを理解するために、Pythonを使ってゼロからRAGを実装する手順をざっくり解説します。
+株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。
+
+ この記事は何
+この記事では、非エンジニアでも、手元のPCで「RAG」を動かせるというところまで解説したいと思います。
+
+こんな感じでRAGを構築できます。入門から解説します
+最近、非エンジニアでも、RAGに興味を持つ方が増えました。
+ただ、一方で、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/2619c6e5918d08</guid>
+      <pubDate>Tue, 18 Nov 2025 00:01:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Windows版Zedを試してみたらVSCodeより使うことになりそう</title>
       <link>https://zenn.dev/amenaruya/articles/66b7ee7540703c</link>
       <description>Zedといふものをしてみむとおもひて⋯
@@ -120,6 +119,19 @@ https://zed.dev/
 Zedはコードエディターの一つであり、Rust製というところからも、その性能に期待を寄せる... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/amenaruya/articles/66b7ee7540703c</guid>
       <pubDate>Sat, 15 Nov 2025 10:55:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>シミュレーションコンペで銅メダル2つを獲得してkaggle Expertになった方法</title>
+      <link>https://zenn.dev/epicai_techblog/articles/a80959e01d62fd</link>
+      <description>はじめに
+kaggleで開催されたチェスコンペと強化学習コンペに参加し、銅メダルを獲得しました。
+
+これらのコンペは、シミュレーションコンペと呼ばれるコンペであり、通常のコンペとは異なります。通常のコンペに比べて、シミュレーションコンペの方が初心者の方やAIに慣れていない方はメダルを獲りやすいと思います。本記事では、その理由やコンペで取り組んだ内容を振り返りながら紹介します。
+
+ シミュレーションコンペについて
+シミュレーションコンペとは、参加者が自作のbotを提出し、bot同士を対戦させることで順位を決める形式のコンペです。モデルの精度を競い合う通常のコンペとは異なり、Eloレーテ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/epicai_techblog/articles/a80959e01d62fd</guid>
+      <pubDate>Mon, 17 Nov 2025 11:17:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
