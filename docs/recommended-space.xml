@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Nov 2025 06:35:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 06:35:27 +0000</lastBuildDate>
     <item>
       <title>インド、宇宙船「ガガンヤーン」のパラシュートを試験–2027年に打ち上げ予定</title>
       <link>https://uchubiz.com/article/new67536/</link>
@@ -21,6 +21,13 @@
       <description>アメリカの民間企業Blue Origin（ブルー・オリジン）は、日本時間2025年11月14日に新型ロケット「New Glenn（ニューグレン）」の2回目の打ち上げを実施しました。搭載されていたNASA＝アメリカ航空宇宙… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/ssn/20251114-new-glenn-escapade.html</guid>
       <pubDate>Fri, 14 Nov 2025 10:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>インターステラテクノロジズ、ロケット「ZERO」初号機の顧客に日米3衛星を追加–計7機を搭載</title>
+      <link>https://uchubiz.com/article/new67692/</link>
+      <description>インターステラテクノロジズ（北海道大樹町）は11月19日、開発中のロケット「ZERO」初号機の顧客として、新たに東京大学、米国の私立学校Fulton Science Academy、米国の企業Lothan Spaceの […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new67692/</guid>
+      <pubDate>Wed, 19 Nov 2025 01:24:49 +0000</pubDate>
     </item>
     <item>
       <title>【スマホ圏外のデータも収集】アークエッジ・スペース、小型IoT端末から衛星へのデータ送信に成功【宇宙ビジネスニュース】</title>
@@ -44,11 +51,11 @@
       <pubDate>Tue, 11 Nov 2025 01:12:57 +0000</pubDate>
     </item>
     <item>
-      <title>欧州、空気を栄養源とするタンパク質を試験–尿素を活用、未来の食品として注目</title>
-      <link>https://uchubiz.com/article/new67484/</link>
-      <description>フィンランドのフードテックスタートアップであるSolar Foods（ソーラー・フーズ）は、二酸化炭素（CO2）や水素、酸素（いわば空気）、少量の栄養素を微生物に供給する独自のバイオプロセスによって、微生物タンパク質「 […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new67484/</guid>
-      <pubDate>Mon, 10 Nov 2025 07:49:07 +0000</pubDate>
+      <title>S字を描く星形成領域の煌き　ハッブル宇宙望遠鏡が観測した渦巻銀河「NGC 4535」</title>
+      <link>https://sorae.info/astronomy/20251119-ngc-4535.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した渦巻銀河「NGC 4535」。 おとめ座の方向、約5000万光年先にあります。 きつく「S」字を描くように中心部を取り巻く渦巻腕（渦状腕）の様子が、精細に捉えられています。… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20251119-ngc-4535.html</guid>
+      <pubDate>Wed, 19 Nov 2025 00:51:16 +0000</pubDate>
     </item>
     <item>
       <title>NTT、衛星で道路陥没の予兆を捕捉–世界初、85％のコスト削減見込み</title>
@@ -56,13 +63,6 @@
       <description>NTTは、合成開口レーダー（SAR）衛星で道路陥没の予兆を捉える手法の実証に成功した。世界初という。現地作業なしに効率的、経済的に道路陥没のリスクが高い位置を絞り込めるとしている。11月7日に発表した。 　社会インフラ […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new67510/</guid>
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>夜の南天を舞う“宇宙のコウモリ”　ESOの望遠鏡が観測したHII領域「RCW 94」と「RCW 95」</title>
-      <link>https://sorae.info/astronomy/20251106-rcw-94-95.html</link>
-      <description>こちらは、「コンパス座」から「じょうぎ座」にかけて広がるHII領域「RCW 94」と「RCW 95」。 約1万光年先にあり、地球からの見かけの広さは満月4個分に相当します。 どこか翼を広げた生き物の姿のようにも見えるこの… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20251106-rcw-94-95.html</guid>
-      <pubDate>Thu, 06 Nov 2025 11:31:54 +0000</pubDate>
     </item>
     <item>
       <title>【欧州の戦略的自律性を高めるため、巨大宇宙企業誕生へ】Airbus、Leonardo、Thalesが宇宙事業統合に向けたMOUを締結【宇宙ビジネスニュース】</title>
