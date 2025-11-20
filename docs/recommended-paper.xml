@@ -7,70 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Nov 2025 06:35:05 +0000</lastBuildDate>
-    <item>
-      <title>分数ポアンカレ不等式を用いた重尾部SDEのRényi差分プライバシー</title>
-      <link>https://arxiv.org/abs/2511.15634v1</link>
-      <description>学習アルゴリズムの差分プライバシー (DP) の特性評価は、近年大きな課題となっています。並行して、多くの研究で、最新の深層学習モデルのモデルとして、またそのパフォーマンスを向上させるために、ヘビーテールノイズのある確率的勾配降下法 (SGD) の挙動を調査することが提案されています。しかし、ほとんどの DP 境界はライトテールノイズに焦点を当てており、十分な保証が得られているものの、提案されている手法はヘビーテールの設定に直接拡張されていません。最近、ヘビーテール SGD の最初の DP 保証が得られました。これらの結果は、勾配クリッピングを必要とせずに $(0,δ)$-DP 保証を提供します。DP とヘビーテールアルゴリズムの関係に新たな光を当てているにもかかわらず、これらの結果はパラメーターの数に大きく依存しており、確立された Rényi 差分プライバシー (RDP) などの他の DP 概念には拡張できません。本研究では、これらの限界に対処するため、裾の重いSDEとその離散化版に対する初のRDP保証を導出することを提案する。我々の枠組みは、新しいレーニイフロー計算と、確立された分 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.15634v1</guid>
-      <pubDate>Wed, 19 Nov 2025 17:18:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>SRPO: 視覚・言語・行動モデルのための自己参照的ポリシー最適化</title>
-      <link>https://arxiv.org/abs/2511.15605v1</link>
-      <description>視覚・言語・行動（VLA）モデルはロボット操作に優れていますが、専門家のデモンストレーションに大きく依存しているため、デモンストレーションバイアスが発生し、パフォーマンスが制限されます。強化学習（RL）は、これらの制限を克服するための重要なトレーニング後戦略ですが、グループベースの最適化アプローチを含む現在のVLA-RL手法は、深刻な報酬のスパース性によって機能不全に陥っています。バイナリ成功指標に依存すると、失敗した軌跡で貴重な情報が無駄になり、トレーニング効率が低下します。この問題を解決するために、我々は新しいVLA-RLフレームワークである自己参照ポリシー最適化（SRPO）を提案します。SRPOは、現在のトレーニングバッチ内で生成されたモデル自身の成功軌跡を自己参照として活用することで、外部デモンストレーションや手動の報酬エンジニアリングの必要性を排除します。これにより、失敗した試行に進捗状況に応じた報酬を割り当てることができます。中核となる革新は、潜在世界表現を使用して行動の進捗をロバストに測定することです。生のピクセルに依存したり、ドメイン固有の微調整を必要としたりする代わり (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.15605v1</guid>
-      <pubDate>Wed, 19 Nov 2025 16:52:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>VisPlay: 画像から自己進化する視覚言語モデル</title>
-      <link>https://arxiv.org/abs/2511.15661v1</link>
-      <description>強化学習 (RL) は、複雑な推論タスクにおける視覚言語モデル (VLM) を改善するための原理的なフレームワークを提供します。しかし、既存の RL アプローチでは、検証可能な報酬を定義するために人間が注釈を付けたラベルやタスク固有のヒューリスティックに依存することが多く、どちらもコストがかかり、拡張が困難です。本稿では、大量のラベルなし画像データを使用して VLM が推論能力を自律的に向上できるようにする自己進化型 RL フレームワーク、VisPlay を紹介します。単一の基本 VLM から始めて、VisPlay はモデルを 2 つの相互作用する役割に割り当てます。1 つは、挑戦的でありながら回答可能な視覚的な質問を作成する画像条件付き質問者、もう 1 つは銀色の応答を生成するマルチモーダル推論者です。これらの役割は、多様性と難易度の報酬を組み込んで生成される質問の複雑さと銀色の回答の品質のバランスをとるグループ相対ポリシー最適化 (GRPO) と共同でトレーニングされます。VisPlay は 2 つのモデル ファミリにわたって効率的に拡張できます。 VisPlayは、Qwen2.5 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.15661v1</guid>
-      <pubDate>Wed, 19 Nov 2025 17:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>CODE-II: 心電図解析における人工知能のための大規模データセット</title>
-      <link>https://arxiv.org/abs/2511.15632v1</link>
-      <description>心電図（ECG）解釈のためのデータ駆動型方法は急速に進歩しています。大規模データセットにより人工知能（AI）ベースのECG分析が進歩しましたが、注釈の品質、サイズ、範囲の制限が依然として大きな課題です。ここでは、ブラジルのミナスジェライス州遠隔医療ネットワーク（TNMG）が収集した2,093,807人の成人患者の2,735,269の12誘導ECGの大規模な実世界データセットであるCODE-IIを紹介します。各検査は、標準化された診断基準を使用して注釈が付けられ、心臓専門医によってレビューされました。CODE-IIの特徴は、心臓専門医の意見を取り入れて開発され、遠隔医療の現場で日常的に使用されている、臨床的に意義のある66の診断クラスのセットです。さらに、オープンで利用可能なサブセットとして、15,000人の患者の公開サブセットであるCODE-II-openと、盲検評価のために複数の心臓専門医によってレビューされた8,475の検査の重複しないセットであるCODE-II-testを提供します。 CODE-II で事前トレーニングされたニューラル ネットワークは、外部ベンチマーク (PTB- (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.15632v1</guid>
-      <pubDate>Wed, 19 Nov 2025 17:14:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>軌跡からのコアセット：損失差の相関によるデータの選択</title>
-      <link>https://arxiv.org/abs/2508.20230v2</link>
-      <description>ディープラーニングモデルは、様々な領域で最先端の性能を発揮しますが、リアルタイムやリソース制約のあるシナリオではスケーラビリティの課題に直面します。この課題に対処するため、我々は、コアセット選択のためのシンプルでスケーラブルな指標である損失差の相関（CLD）を提案します。CLDは、ホールドアウトされた検証セットの損失軌跡とのアライメントを測定することで、最も影響力のあるトレーニングサンプルを特定します。CLDは非常に効率的で、トレーニングチェックポイントでサンプルごとの損失値を計算するだけで済み、多くの既存のサブセット選択手法で使用されているコストのかかる勾配と曲率の計算を回避できます。我々は、CLDベースのコアセットの収束保証を確立する一般的な理論的枠組みを開発し、収束誤差の上限が選択されたサンプルのアライメントと検証セットの代表性によって決まることを実証します。 CIFAR-100およびImageNet-1kにおいて、CLDベースのコアセットは、サブセットサイズ全体にわたって最先端の手法を上回るかほぼ同等の性能を示し、最先端ではない場合でも、計算コストの高いベースラインとの誤差は1 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.20230v2</guid>
-      <pubDate>Wed, 27 Aug 2025 19:18:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>基礎的な自動評価器：推論中心領域におけるマルチタスク生成評価器の訓練のスケーリング</title>
-      <link>https://arxiv.org/abs/2510.17793v2</link>
-      <description>トレーニング時とテスト時の両方でスケーラブルな評価に対する高まる需要に応えるため、特化型生成評価器の微調整が人気のパラダイムとして浮上しました。しかし、最近の研究は主に強化学習（RL）などの新しい手法を評価器のトレーニングに適用することに焦点を当てており、大規模なデータ駆動型開発からは距離を置いています。本研究では、データのスケーリングに焦点を当て、5つの独自の評価タスク（ペアワイズ、ステップレベル、参照フリーおよび参照ベースの検証、単一評価）と推論評価に焦点を当てた複数のドメインにわたる250万サンプルのセットをキュレーションします。このデータを使用して、80億および200億（36億アクティブ）のパラメータ評価器ファミリーであるFoundational Automatic Reasoning Evaluators（FARE）を、単純な反復拒否サンプリング教師あり微調整（SFT）アプローチでトレーニングします。 FARE-8Bは、より大規模な強化学習（RL）訓練を受けた専門評価器に挑戦し、FARE-20Bは700億台を超える専門評価器を凌駕し、オープンソース評価器の新たな標準を確立しま (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.17793v2</guid>
-      <pubDate>Mon, 20 Oct 2025 17:52:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>MambaIO: マルチスケール周波数分離モデリングによる歩行者向けグローバル座標慣性オドメトリ</title>
-      <link>https://arxiv.org/abs/2511.15645v1</link>
-      <description>慣性オドメトリ（IO）は、慣性計測ユニット（IMU）からの加速度と角速度の測定値のみを使用してリアルタイムの位置特定を可能にするため、コンシューマーグレードのアプリケーションでの位置特定のための有望なソリューションとなっています。 伝統的に、IOにおけるIMU計測は、ボディ座標系とグローバル座標系という2つの座標系パラダイムの下で処理され、後者が広く採用されています。 しかし、ドローンシナリオにおける最近の研究では、ボディフレームが位置特定精度を大幅に向上できることが実証されており、歩行者IOに対するグローバルフレームの適合性の再評価が求められています。 この課題に対処するため、本稿では、理論分析、定性検査、定量実験を通じて、歩行者IOにおけるグローバル座標系フレームの有効性を体系的に評価します。 これらの知見に基づいて、ラプラシアンピラミッドを使用してIMU計測値を高周波成分と低周波成分に分解するMambaIOをさらに提案します。低周波成分はMambaアーキテクチャによって処理され、暗黙的な文脈的動作の手がかりを抽出します。一方、高周波成分は畳み込み構造によって処理され、きめ細かな局 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.15645v1</guid>
-      <pubDate>Wed, 19 Nov 2025 17:29:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>SA-FARIデータセット：動物の映像からあらゆるものをセグメント化し、認識・識別する</title>
-      <link>https://arxiv.org/abs/2511.15622v1</link>
-      <description>自動ビデオ分析は、野生生物の保護に不可欠です。この分野における基礎的なタスクは、個体再識別や行動認識などのアプリケーションの基盤となる複数動物追跡（MAT）です。しかし、既存のデータセットは規模が限られていたり、少数の種に限定されていたり、十分な時間的および地理的多様性が欠如していたりするため、野生動物の個体群全体に適用できる汎用MATモデルのトレーニングに適したベンチマークが残っていません。この問題を解決するために、野生動物向けの最大のオープンソースMATデータセットであるSA-FARIを紹介します。これは、約10年間（2014～2024年）にわたって4大陸741か所で収集された11,609本のカメラトラップビデオで構成され、99種のカテゴリーにわたります。各ビデオには徹底的に注釈が付けられ、16,224個のマスクレットIDと942,702個の個別の境界ボックス、セグメンテーションマスク、種ラベルを含む約46時間分の高密度に注釈が付けられた映像になります。タスク固有の注釈に加え、各動画のカメラトラップの位置情報を匿名化して公開します。最後に、SAM 3を含む最先端の視覚言語モデルを用 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.15622v1</guid>
-      <pubDate>Wed, 19 Nov 2025 17:07:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>MF-GCN: 視線追跡、顔、音響特徴を用いた三峰性うつ病検出のための多周波数グラフ畳み込みネットワーク</title>
-      <link>https://arxiv.org/abs/2511.15675v1</link>
-      <description>視線追跡データは、うつ病群で頻繁に観察される否定的な刺激への注意の偏りを定量化します。音声および動画データは、うつ病の特徴である感情の平坦化と精神運動遅延を捉えます。統計的検証により、うつ病群と非うつ病群を区別する上での優れた識別力が確認されました。私たちは、低周波情報に焦点を当てた既存のグラフベースモデルの重大な限界に対処し、マルチ周波数グラフ畳み込みネットワーク（MF-GCN）を提案します。このフレームワークは、低周波信号と高周波信号の両方を活用できる新しいマルチ周波数フィルタバンクモジュール（MFFFM）で構成されています。従来の機械学習アルゴリズムおよびディープラーニングフレームワークに対する広範な評価により、MF-GCNは一貫してベースラインを上回る性能を示すことが実証されています。2値（うつ病と非うつ病）分類において、モデルは感度0.96およびF2スコア0.94を達成しました。 3クラス（うつ病なし、軽度から中等度のうつ病、重度のうつ病）の分類タスクにおいて、提案手法は感度0.79、特異度0.87を達成し、他のモデルを有意に上回りました。一般化可能性を検証するため、本モデル (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.15675v1</guid>
-      <pubDate>Wed, 19 Nov 2025 18:18:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Nov 2025 10:33:40 +0000</lastBuildDate>
     <item>
       <title>PBRミッションのためのチェレンコフカメラ</title>
       <link>https://arxiv.org/abs/2511.15636v1</link>

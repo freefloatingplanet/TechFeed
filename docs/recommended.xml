@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Nov 2025 06:34:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 10:33:36 +0000</lastBuildDate>
     <item>
       <title>HonoとPerl 〜 異文化を持ち込む</title>
       <link>https://zenn.dev/yusukebe/articles/0e1837b7e96325</link>
@@ -24,27 +24,6 @@ HonoはWeb標準のAPIを使って作られています。Web標準は元々ブ�
       <description>2回目の削除要請について、Xユーザーからは「にじボイス側は無断学習してたのか、わざと似せたのか、たまたまなのかを明らかにするべき」「学習データの出どころをごまかすからこういうことになる」など、にじボイスが利用した学習データに言及する声の他、「声が似てるだけで削除要請ってどういうこと？」「『削除要請... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/articles/2511/19/news090.html</guid>
       <pubDate>Wed, 19 Nov 2025 07:53:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>社会人1年目が語る、“セキュリティイベント沼”のすゝめ</title>
-      <link>https://zenn.dev/nttdata_tech/articles/803a18ce35ba21</link>
-      <description>はじめに
-25卒でNTTデータグループに入社し、NTTDATA-CERTに配属された廣瀬です。
-学生時代から現在までセキュリティをはじめとしたIT系のイベントに積極的に参加しています。
-最近、「どのようなイベントに参加すればよいか」と質問を受けることが増えました。
-そこで本記事では、イベントに参加する意味、イベントの探し方、実際に参加して良かったセキュリティイベントを紹介します。
-
- 想定読者
-
-外部の勉強会等に参加したいが、一歩踏み出せない人
-セキュリティに興味があるが、何をしたらいいかわからない学生
-※上記以外の方もぜひご覧ください！
-
-
- 私が考えるイベントに参加する意味
-イベ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/803a18ce35ba21</guid>
-      <pubDate>Wed, 19 Nov 2025 00:39:28 +0000</pubDate>
     </item>
     <item>
       <title>Google Antigravityファーストインプレッション</title>
@@ -70,6 +49,27 @@ AntigravityのAgentの動きを設定できるようです。左側の設定で�
       <description>11月15日、Manual do Usuárioが「I think nobody wants AI in Firefox, Mozilla」と題した記事を公開した。この記事では、Mozillaが開発を進めているFirefox向けAIアシスタント機能「Window AI」と、それに対するユーザーの強い反発について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/691a4245bb34b50fd19b889f?from=rss</guid>
       <pubDate>Sun, 16 Nov 2025 21:29:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>なぜリリース計画は遅延するの？「後ろめたくないバッファ」で解決する方法</title>
+      <link>https://zenn.dev/loglass/articles/7dfe1fb0aa1086</link>
+      <description>こんにちは、ログラスの松岡(@little_hand_s)です
+
+
+ 3行まとめ
+
+バッファを適切に積まないと、計画が遅延する可能性が高まる。
+バッファを積みにくくする心理的バイアス(計画錯誤、過度に守備的と思われる不安)が存在する。
+バイアスを打ち破るために、内訳を分解して過去の実績データに基づいて算出する「分解・ファクトベースバッファ」を使うとよい
+
+※この記事ではアジャイル開発を例に説明しますが、考え方はウォーターフォールなど他の開発手法でも使えます。
+
+ リリース計画、遅れてない？
+リリース計画を立てても、計画通りに進まないことが多いですよね。こんな経験、ありませんか？
+
+リリー... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/loglass/articles/7dfe1fb0aa1086</guid>
+      <pubDate>Wed, 19 Nov 2025 00:28:15 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントを開発するPdMがやることをプロンプトを書きながら考える</title>
@@ -98,13 +98,6 @@ AI にファイル単位で処理させると無駄な再計算が発生して�
       <pubDate>Mon, 17 Nov 2025 02:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>「死ぬ程キレ症の俺がVRCHATを始めた」は観測手による迫害の始まりである。｜駒枝</title>
-      <link>https://note.com/komaeda_/n/nb8a46496e3c6</link>
-      <description>VRchat界隈を賑わせた愉快なnote、悪口本舗。個人的には罵倒のボキャブラリーは嫌いではない。 しかし、紐解いていくと私は、後述の「突撃マニュアル」に近しい、不可思議な嫌悪感に襲われた。 正直、私はVRchatを一度だってプレイしたことがない。どうでもいいとすら思っているが、故に語ることがある。 まず第一として... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/komaeda_/n/nb8a46496e3c6</guid>
-      <pubDate>Thu, 20 Nov 2025 01:13:44 +0000</pubDate>
-    </item>
-    <item>
       <title>「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？</title>
       <link>https://zenn.dev/ukitaka/articles/468d418a5dd8fa</link>
       <description>2要素認証などでよくみる6桁のワンタイムパスワードですが、個人的に何となく気になっていることがありました。
@@ -124,6 +117,17 @@ AI にファイル単位で処理させると無駄な再計算が発生して�
 RFC 4226 -... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/ukitaka/articles/468d418a5dd8fa</guid>
       <pubDate>Sun, 16 Nov 2025 13:50:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>“ジャバラ”がバラっと完成！人事配置表自動化の舞台裏</title>
+      <link>https://zenn.dev/govtechtokyo/articles/b8dc21b263c27f</link>
+      <description>1. はじめに ― 「ジャバラ」とは？
+図１：組織人事一覧（見本）
+皆さんはタイトルを見て「ジャバラ？なんだそれ？果物か？うねうね、びよんびよんしたやつか？」と思われるでしょう。そうです、うねうねしたものなんです！
+ジャバラは、都庁の人事配置一覧のことです。昔は都庁職員の一覧を蛇腹折りで保管していたため、この名前がついたそうです。
+GovTech東京でも、東京都の外郭団体として「ジャバラ」を作成し共有しています。組織拡大に伴い、職員情報を毎月更新する必要があり、特に年度替わりの4月には100名規模の異動も発生するため、作業量が一気に増加します。以前はExcel上での手作業が中心で入退... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/govtechtokyo/articles/b8dc21b263c27f</guid>
+      <pubDate>Wed, 19 Nov 2025 05:00:01 +0000</pubDate>
     </item>
     <item>
       <title>RAGをゼロから実装して仕組みを学ぶ【2025年版】</title>
