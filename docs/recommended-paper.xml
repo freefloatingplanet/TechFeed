@@ -7,78 +7,77 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Nov 2025 06:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 06:35:05 +0000</lastBuildDate>
     <item>
-      <title>VULPO: ポリシーオンLLM最適化によるコンテキストアウェアな脆弱性検出</title>
-      <link>https://arxiv.org/abs/2511.11896v2</link>
-      <description>オープンソースソフトウェアへの広範な依存は、脆弱性悪用リスクを劇的に増大させており、効果的でスケーラブルな脆弱性検出（VD）の必要性を浮き彫りにしています。既存のVD技術は、従来の機械学習ベースであれ、プロンプトエンジニアリング、教師ありファインチューニング、オフポリシープリファレンス最適化といったLLMベースのアプローチであれ、コンテキストアウェア分析を実行する能力において根本的な限界を抱えています。これらの技術は固定入力や静的なプリファレンスデータセットに依存し、リポジトリレベルの依存関係を適応的に探索できず、重要な脆弱性コンテキストを見落とす関数レベルのベンチマークによって制約されています。
-本稿では、コンテキストアウェアVDのためのオンポリシーLLM強化学習フレームワークである脆弱性適応型ポリシー最適化（VULPO）を紹介します。トレーニングと評価を支援するために、まず、高品質な関数レベルのサンプルを軽量な手法で拡張し、リポジトリレベルのコンテキスト情報を抽出できる新しいデータセットContextVulを構築します。次に、予測の正確性、脆弱性の特定精度、脆弱性分析の意味的関連性 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.11896v2</guid>
-      <pubDate>Fri, 14 Nov 2025 21:57:48 +0000</pubDate>
+      <title>分数ポアンカレ不等式を用いた重尾部SDEのRényi差分プライバシー</title>
+      <link>https://arxiv.org/abs/2511.15634v1</link>
+      <description>学習アルゴリズムの差分プライバシー (DP) の特性評価は、近年大きな課題となっています。並行して、多くの研究で、最新の深層学習モデルのモデルとして、またそのパフォーマンスを向上させるために、ヘビーテールノイズのある確率的勾配降下法 (SGD) の挙動を調査することが提案されています。しかし、ほとんどの DP 境界はライトテールノイズに焦点を当てており、十分な保証が得られているものの、提案されている手法はヘビーテールの設定に直接拡張されていません。最近、ヘビーテール SGD の最初の DP 保証が得られました。これらの結果は、勾配クリッピングを必要とせずに $(0,δ)$-DP 保証を提供します。DP とヘビーテールアルゴリズムの関係に新たな光を当てているにもかかわらず、これらの結果はパラメーターの数に大きく依存しており、確立された Rényi 差分プライバシー (RDP) などの他の DP 概念には拡張できません。本研究では、これらの限界に対処するため、裾の重いSDEとその離散化版に対する初のRDP保証を導出することを提案する。我々の枠組みは、新しいレーニイフロー計算と、確立された分 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.15634v1</guid>
+      <pubDate>Wed, 19 Nov 2025 17:18:54 +0000</pubDate>
     </item>
     <item>
-      <title>画像の向こう側を見る：心電図と解剖学的知識に基づくガドリニウム造影後期画像からの心筋瘢痕セグメンテーション</title>
-      <link>https://arxiv.org/abs/2511.14702v1</link>
-      <description>遅延ガドリニウム造影（LGE）心臓MRIから心筋瘢痕を正確にセグメンテーションすることは、組織の生存能力を評価するために不可欠ですが、コントラストの変動や画像アーティファクトの影響により依然として困難です。心電図（ECG）信号は、伝導異常が瘢痕化した心筋領域の特定や示唆に役立つため、補完的な生理学的情報を提供します。本研究では、ECGから得られる電気生理学的情報とAHA-17アトラスの解剖学的事前分布を統合し、生理学的に一貫性のあるLGEベースの瘢痕セグメンテーションを実現する、新たなマルチモーダルフレームワークを提案します。ECGとLGE-MRIは同時に取得されないため、取得時間差に基づいて特徴量を動的に重み付け・融合するTemporal Aware Feature Fusion（TAFF）メカニズムを導入します。本手法は臨床データセットで評価され、最先端の画像のみのベースライン（nnU-Net）と比較して大幅な改善を達成しました。瘢痕の平均Diceスコアは0.6149から0.8463に向上し、精度（0.9115）と感度（0.9043）の両方で高い性能を達成しました。これらの結果は、 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.14702v1</guid>
-      <pubDate>Tue, 18 Nov 2025 17:42:20 +0000</pubDate>
+      <title>SRPO: 視覚・言語・行動モデルのための自己参照的ポリシー最適化</title>
+      <link>https://arxiv.org/abs/2511.15605v1</link>
+      <description>視覚・言語・行動（VLA）モデルはロボット操作に優れていますが、専門家のデモンストレーションに大きく依存しているため、デモンストレーションバイアスが発生し、パフォーマンスが制限されます。強化学習（RL）は、これらの制限を克服するための重要なトレーニング後戦略ですが、グループベースの最適化アプローチを含む現在のVLA-RL手法は、深刻な報酬のスパース性によって機能不全に陥っています。バイナリ成功指標に依存すると、失敗した軌跡で貴重な情報が無駄になり、トレーニング効率が低下します。この問題を解決するために、我々は新しいVLA-RLフレームワークである自己参照ポリシー最適化（SRPO）を提案します。SRPOは、現在のトレーニングバッチ内で生成されたモデル自身の成功軌跡を自己参照として活用することで、外部デモンストレーションや手動の報酬エンジニアリングの必要性を排除します。これにより、失敗した試行に進捗状況に応じた報酬を割り当てることができます。中核となる革新は、潜在世界表現を使用して行動の進捗をロバストに測定することです。生のピクセルに依存したり、ドメイン固有の微調整を必要としたりする代わり (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.15605v1</guid>
+      <pubDate>Wed, 19 Nov 2025 16:52:23 +0000</pubDate>
     </item>
     <item>
-      <title>創薬におけるAIの進歩を測定：Tox21チャレンジのための再現可能なリーダーボード</title>
-      <link>https://arxiv.org/abs/2511.14744v1</link>
-      <description>2010年代初頭からのディープラーニングの台頭は、コンピュータービジョンや自然言語処理といった分野に変革をもたらし、生物医学研究に大きな影響を与えました。特に創薬においては、2015年に、画像における「ImageNetの瞬間」に匹敵する重要な転換点が訪れました。この年、ディープニューラルネットワークがTox21データチャレンジにおいて従来のアプローチを凌駕しました。このマイルストーンは、製薬業界全体におけるディープラーニングの導入を加速させ、現在ではほとんどの大手企業がこれらの手法を研究パイプラインに統合しています。Tox21チャレンジ終了後、そのデータセットはMoleculeNetやOpen Graph Benchmarkといったいくつかの確立されたベンチマークに組み込まれました。しかし、これらの統合の過程でデータセットは改変され、ラベルが補完または捏造されたため、研究間の比較可能性が失われました。その結果、過去10年間で生物活性および毒性予測手法がどの程度改善されたかは依然として不明です。この目的のため、Hugging Faceでホストされ、オリジナルのTox21 Challeng (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.14744v1</guid>
-      <pubDate>Tue, 18 Nov 2025 18:43:42 +0000</pubDate>
+      <title>VisPlay: 画像から自己進化する視覚言語モデル</title>
+      <link>https://arxiv.org/abs/2511.15661v1</link>
+      <description>強化学習 (RL) は、複雑な推論タスクにおける視覚言語モデル (VLM) を改善するための原理的なフレームワークを提供します。しかし、既存の RL アプローチでは、検証可能な報酬を定義するために人間が注釈を付けたラベルやタスク固有のヒューリスティックに依存することが多く、どちらもコストがかかり、拡張が困難です。本稿では、大量のラベルなし画像データを使用して VLM が推論能力を自律的に向上できるようにする自己進化型 RL フレームワーク、VisPlay を紹介します。単一の基本 VLM から始めて、VisPlay はモデルを 2 つの相互作用する役割に割り当てます。1 つは、挑戦的でありながら回答可能な視覚的な質問を作成する画像条件付き質問者、もう 1 つは銀色の応答を生成するマルチモーダル推論者です。これらの役割は、多様性と難易度の報酬を組み込んで生成される質問の複雑さと銀色の回答の品質のバランスをとるグループ相対ポリシー最適化 (GRPO) と共同でトレーニングされます。VisPlay は 2 つのモデル ファミリにわたって効率的に拡張できます。 VisPlayは、Qwen2.5 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.15661v1</guid>
+      <pubDate>Wed, 19 Nov 2025 17:55:15 +0000</pubDate>
     </item>
     <item>
-      <title>\textit{FLARE}: 連合学習における堅牢なクライアント信頼性のための適応型多次元レピュテーション</title>
-      <link>https://arxiv.org/abs/2511.14715v1</link>
-      <description>連合学習（FL）は、データのプライバシーを保護しながら、協調的なモデル学習を可能にします。しかし、ビザンチン攻撃、データポイズニング、あるいは適応的な敵対行動によってモデルの整合性を損なう悪意のあるクライアントに対しては、依然として脆弱です。既存の防御メカニズムは静的な閾値と二値分類に依存しており、現実世界の展開におけるクライアントの行動の変化に適応できません。そこで本稿では、クライアントの信頼性評価を二値的な判断から継続的かつ多次元的な信頼評価へと変換する、適応型の評判ベースのフレームワークであるFLAREを提案します。FLAREは、(i) パフォーマンスの一貫性、統計的な異常指標、そして時間的な行動を捉える多次元の評判スコア、(ii) モデルの収束と最近の攻撃の強度に基づいてセキュリティの厳しさを調整する自己較正型適応型閾値メカニズム、(iii) クライアントを完全に排除するのではなく、疑わしい貢献を比例的に制限するソフト除外機能を備えた評判加重集約、そして(iv) プライベート化されたクライアント更新における評判スコアリングを可能にするローカル差分プライバシー（LDP）メカニズム (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.14715v1</guid>
-      <pubDate>Tue, 18 Nov 2025 17:57:40 +0000</pubDate>
+      <title>CODE-II: 心電図解析における人工知能のための大規模データセット</title>
+      <link>https://arxiv.org/abs/2511.15632v1</link>
+      <description>心電図（ECG）解釈のためのデータ駆動型方法は急速に進歩しています。大規模データセットにより人工知能（AI）ベースのECG分析が進歩しましたが、注釈の品質、サイズ、範囲の制限が依然として大きな課題です。ここでは、ブラジルのミナスジェライス州遠隔医療ネットワーク（TNMG）が収集した2,093,807人の成人患者の2,735,269の12誘導ECGの大規模な実世界データセットであるCODE-IIを紹介します。各検査は、標準化された診断基準を使用して注釈が付けられ、心臓専門医によってレビューされました。CODE-IIの特徴は、心臓専門医の意見を取り入れて開発され、遠隔医療の現場で日常的に使用されている、臨床的に意義のある66の診断クラスのセットです。さらに、オープンで利用可能なサブセットとして、15,000人の患者の公開サブセットであるCODE-II-openと、盲検評価のために複数の心臓専門医によってレビューされた8,475の検査の重複しないセットであるCODE-II-testを提供します。 CODE-II で事前トレーニングされたニューラル ネットワークは、外部ベンチマーク (PTB- (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.15632v1</guid>
+      <pubDate>Wed, 19 Nov 2025 17:14:05 +0000</pubDate>
     </item>
     <item>
-      <title>シナプス可塑性による注意力こそが全て：生物学的に着想を得たスパイクニューロモルフィックトランスフォーマー</title>
-      <link>https://arxiv.org/abs/2511.14691v1</link>
-      <description>注意とは、無関係な側面を無視しながら、特定のいくつかの側面に選択的に焦点を合わせる脳の能力です。この生物学的原理は、現代のトランスフォーマーの注意メカニズムに影響を与えました。トランスフォーマーは現在、GPTなどの大規模言語モデル（LLM）の基盤となっていますが、膨大なトレーニングと推論のエネルギーを犠牲にし、大きなカーボンフットプリントにつながっています。脳の注意は神経回路から生まれますが、トランスフォーマーの注意は、入力シーケンスの要素に重みを付けるためにドット積の類似性に依存しています。ニューロモルフィックコンピューティング、特にスパイキングニューラルネットワーク（SNN）は、脳にヒントを得たエネルギー効率の良いインテリジェンスへの道を提供します。注意ベースのスパイキングトランスフォーマーに関する最近の研究にもかかわらず、コアとなる注意層は非ニューロモルフィックのままです。現在のスパイキング注意は、（i）イベント駆動型スパイクではなく、浮動小数点演算に適したドット積または要素ごとの類似性に依存し、（ii）フォンノイマンボトルネックの影響を受ける注意行列を維持し、インメモリコンピュ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.14691v1</guid>
-      <pubDate>Tue, 18 Nov 2025 17:28:29 +0000</pubDate>
+      <title>軌跡からのコアセット：損失差の相関によるデータの選択</title>
+      <link>https://arxiv.org/abs/2508.20230v2</link>
+      <description>ディープラーニングモデルは、様々な領域で最先端の性能を発揮しますが、リアルタイムやリソース制約のあるシナリオではスケーラビリティの課題に直面します。この課題に対処するため、我々は、コアセット選択のためのシンプルでスケーラブルな指標である損失差の相関（CLD）を提案します。CLDは、ホールドアウトされた検証セットの損失軌跡とのアライメントを測定することで、最も影響力のあるトレーニングサンプルを特定します。CLDは非常に効率的で、トレーニングチェックポイントでサンプルごとの損失値を計算するだけで済み、多くの既存のサブセット選択手法で使用されているコストのかかる勾配と曲率の計算を回避できます。我々は、CLDベースのコアセットの収束保証を確立する一般的な理論的枠組みを開発し、収束誤差の上限が選択されたサンプルのアライメントと検証セットの代表性によって決まることを実証します。 CIFAR-100およびImageNet-1kにおいて、CLDベースのコアセットは、サブセットサイズ全体にわたって最先端の手法を上回るかほぼ同等の性能を示し、最先端ではない場合でも、計算コストの高いベースラインとの誤差は1 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.20230v2</guid>
+      <pubDate>Wed, 27 Aug 2025 19:18:39 +0000</pubDate>
     </item>
     <item>
-      <title>AdamHD: 言語モデルの事前学習のための分離Huber減衰正則化</title>
-      <link>https://arxiv.org/abs/2511.14721v1</link>
-      <description>AdamW のような分離重み減衰を用いた適応型最適化器は、大規模なトランスフォーマーベースの生成モデルの事前学習における事実上の標準です。しかし、重み減衰に組み込まれた $\ell_2$ ペナルティの二次関数的な性質により、すべてのパラメータが原点に向かって同じ速度で移動します。そのため、更新は稀ではあるものの極端な勾配方向に対して脆弱になり、条件付けの良好な座標に対して過剰なペナルティを課すことがよくあります。本稿では、AdamW の代替として、$\ell_2$ ペナルティを分離した滑らかな Huber 正則化器に置き換える AdamHuberDecay を提案します。この更新は、パラメータの大きさが閾値 $δ$ を下回る間は二次関数的に減衰し、$δ$ を超えると線形（$\ell_1$ のように）減衰します。これにより、(i) 有界な正則化勾配、(ii) 座標ごとの 2 次モーメント再スケーリングに対する不変性、(iii) 過大な重みに対するより強いスパース性圧力が得られます。
-我々は、閉形式の分離 Huber 減衰ステップを導出し、それを任意の Adam ファミリー オプティマイザ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.14721v1</guid>
-      <pubDate>Tue, 18 Nov 2025 18:08:20 +0000</pubDate>
+      <title>基礎的な自動評価器：推論中心領域におけるマルチタスク生成評価器の訓練のスケーリング</title>
+      <link>https://arxiv.org/abs/2510.17793v2</link>
+      <description>トレーニング時とテスト時の両方でスケーラブルな評価に対する高まる需要に応えるため、特化型生成評価器の微調整が人気のパラダイムとして浮上しました。しかし、最近の研究は主に強化学習（RL）などの新しい手法を評価器のトレーニングに適用することに焦点を当てており、大規模なデータ駆動型開発からは距離を置いています。本研究では、データのスケーリングに焦点を当て、5つの独自の評価タスク（ペアワイズ、ステップレベル、参照フリーおよび参照ベースの検証、単一評価）と推論評価に焦点を当てた複数のドメインにわたる250万サンプルのセットをキュレーションします。このデータを使用して、80億および200億（36億アクティブ）のパラメータ評価器ファミリーであるFoundational Automatic Reasoning Evaluators（FARE）を、単純な反復拒否サンプリング教師あり微調整（SFT）アプローチでトレーニングします。 FARE-8Bは、より大規模な強化学習（RL）訓練を受けた専門評価器に挑戦し、FARE-20Bは700億台を超える専門評価器を凌駕し、オープンソース評価器の新たな標準を確立しま (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.17793v2</guid>
+      <pubDate>Mon, 20 Oct 2025 17:52:06 +0000</pubDate>
     </item>
     <item>
-      <title>GMAT: スライド画像全体の分類のための視覚言語 MIL におけるテキストエンコーダのためのグラウンデッドマルチエージェント臨床記述生成</title>
-      <link>https://arxiv.org/abs/2508.01293v2</link>
-      <description>マルチインスタンス学習 (MIL) は、全スライド画像 (WSI) 分類の主要なアプローチであり、ギガピクセルの病理スライドの効率的な分析を可能にします。最近の研究では、視覚言語モデル (VLM) を MIL パイプラインに導入して、単純なクラス名ではなく、テキストベースのクラス記述を通じて医学的知識を組み込んでいます。しかし、これらの方法が大規模言語モデル (LLM) を使用して臨床記述を生成したり、固定長のプロンプトを使用して複雑な病理概念を表す場合、VLM のトークン容量が限られているため、エンコードされたクラス情報の表現力と豊かさが制限されることがよくあります。さらに、LLM のみで生成された記述は、ドメイングラウンディングやきめ細かい医学的特異性が欠けている可能性があり、視覚的特徴との調整が最適ではありません。これらの課題に対処するために、私たちは 2 つの重要な貢献を持つ視覚言語 MIL フレームワークを提案します。(1) 精選された病理学の教科書とエージェントの特化 (形態学、空間的コンテキストなど) を活用して、正確で多様な臨床記述を生成する、グラウンデッド マルチエー (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.01293v2</guid>
-      <pubDate>Sat, 02 Aug 2025 09:59:39 +0000</pubDate>
+      <title>MambaIO: マルチスケール周波数分離モデリングによる歩行者向けグローバル座標慣性オドメトリ</title>
+      <link>https://arxiv.org/abs/2511.15645v1</link>
+      <description>慣性オドメトリ（IO）は、慣性計測ユニット（IMU）からの加速度と角速度の測定値のみを使用してリアルタイムの位置特定を可能にするため、コンシューマーグレードのアプリケーションでの位置特定のための有望なソリューションとなっています。 伝統的に、IOにおけるIMU計測は、ボディ座標系とグローバル座標系という2つの座標系パラダイムの下で処理され、後者が広く採用されています。 しかし、ドローンシナリオにおける最近の研究では、ボディフレームが位置特定精度を大幅に向上できることが実証されており、歩行者IOに対するグローバルフレームの適合性の再評価が求められています。 この課題に対処するため、本稿では、理論分析、定性検査、定量実験を通じて、歩行者IOにおけるグローバル座標系フレームの有効性を体系的に評価します。 これらの知見に基づいて、ラプラシアンピラミッドを使用してIMU計測値を高周波成分と低周波成分に分解するMambaIOをさらに提案します。低周波成分はMambaアーキテクチャによって処理され、暗黙的な文脈的動作の手がかりを抽出します。一方、高周波成分は畳み込み構造によって処理され、きめ細かな局 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.15645v1</guid>
+      <pubDate>Wed, 19 Nov 2025 17:29:27 +0000</pubDate>
     </item>
     <item>
-      <title>MOON: 電子商取引製品理解のための生成的MLLMベースのマルチモーダル表現学習</title>
-      <link>https://arxiv.org/abs/2508.11999v2</link>
-      <description>電子商取引の急速な発展に伴い、タスク固有の表現ではなく、一般的な表現の探求が研究の注目を集めています。製品理解に関しては、既存の識別デュアルフローアーキテクチャがこの分野の進歩を牽引していますが、製品の複数の画像とテキスト間の多対1のアライメントをモデル化することが本質的に困難です。したがって、生成マルチモーダル大規模言語モデル（MLLM）は、製品表現学習を改善する大きな可能性を秘めていると主張します。ただし、この目標を達成することは、いくつかの重要な課題のために、依然として簡単ではありません。一般的なLLMにはマルチモーダルでアスペクトを認識したモデリングモジュールが不足しています。製品画像には背景ノイズが一般的に存在します。評価のための標準的なベンチマークがありません。これらの問題に対処するために、製品表現学習用の最初の生成MLLMベースモデルであるMOONを提案します。私たちの方法（1）は、マルチモーダルでアスペクト固有の製品コンテンツをターゲットにしたモデリングにガイド付きMixture-of-Experts（MoE）モジュールを採用しています。 (2) 製品画像におけるコアセ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2508.11999v2</guid>
-      <pubDate>Sat, 16 Aug 2025 09:59:25 +0000</pubDate>
+      <title>SA-FARIデータセット：動物の映像からあらゆるものをセグメント化し、認識・識別する</title>
+      <link>https://arxiv.org/abs/2511.15622v1</link>
+      <description>自動ビデオ分析は、野生生物の保護に不可欠です。この分野における基礎的なタスクは、個体再識別や行動認識などのアプリケーションの基盤となる複数動物追跡（MAT）です。しかし、既存のデータセットは規模が限られていたり、少数の種に限定されていたり、十分な時間的および地理的多様性が欠如していたりするため、野生動物の個体群全体に適用できる汎用MATモデルのトレーニングに適したベンチマークが残っていません。この問題を解決するために、野生動物向けの最大のオープンソースMATデータセットであるSA-FARIを紹介します。これは、約10年間（2014～2024年）にわたって4大陸741か所で収集された11,609本のカメラトラップビデオで構成され、99種のカテゴリーにわたります。各ビデオには徹底的に注釈が付けられ、16,224個のマスクレットIDと942,702個の個別の境界ボックス、セグメンテーションマスク、種ラベルを含む約46時間分の高密度に注釈が付けられた映像になります。タスク固有の注釈に加え、各動画のカメラトラップの位置情報を匿名化して公開します。最後に、SAM 3を含む最先端の視覚言語モデルを用 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.15622v1</guid>
+      <pubDate>Wed, 19 Nov 2025 17:07:08 +0000</pubDate>
     </item>
     <item>
-      <title>電力配電システム復旧のための異種マルチエージェント近接政策最適化</title>
-      <link>https://arxiv.org/abs/2511.14730v1</link>
-      <description>大規模停電後の電力配電システム（PDS）の復旧には、電力バランス、電圧制限、熱定格などの非線形制約下で、フィーダトポロジを再構成し、分散型エネルギーリソース（DER）を調整する、順次スイッチング操作が必要です。これらの課題により、従来の最適化および価値ベースの強化学習アプローチは計算効率が悪く、拡張が困難です。本稿では、異種エージェント近接ポリシー最適化（HAPPO）を通じてインスタンス化された異種エージェント強化学習（HARL）フレームワークを適用し、相互接続されたマイクログリッド全体で協調的な復旧を可能にします。各エージェントは、負荷、DER容量、スイッチ数が異なる個別のマイクログリッドを制御し、実用的な構造的異質性を導入します。分散型アクターポリシーは、安定したポリシーオンアップデートのためのアドバンテージ値を計算するために、集中型批評家によってトレーニングされます。物理学に基づくOpenDSS環境は、完全な電力フローフィードバックを提供し、無効なアクションマスキングではなく、微分可能なペナルティ信号を介して動作制限を適用します。 DER発電量の合計は2400kWに制限されており (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.14730v1</guid>
-      <pubDate>Tue, 18 Nov 2025 18:23:35 +0000</pubDate>
+      <title>MF-GCN: 視線追跡、顔、音響特徴を用いた三峰性うつ病検出のための多周波数グラフ畳み込みネットワーク</title>
+      <link>https://arxiv.org/abs/2511.15675v1</link>
+      <description>視線追跡データは、うつ病群で頻繁に観察される否定的な刺激への注意の偏りを定量化します。音声および動画データは、うつ病の特徴である感情の平坦化と精神運動遅延を捉えます。統計的検証により、うつ病群と非うつ病群を区別する上での優れた識別力が確認されました。私たちは、低周波情報に焦点を当てた既存のグラフベースモデルの重大な限界に対処し、マルチ周波数グラフ畳み込みネットワーク（MF-GCN）を提案します。このフレームワークは、低周波信号と高周波信号の両方を活用できる新しいマルチ周波数フィルタバンクモジュール（MFFFM）で構成されています。従来の機械学習アルゴリズムおよびディープラーニングフレームワークに対する広範な評価により、MF-GCNは一貫してベースラインを上回る性能を示すことが実証されています。2値（うつ病と非うつ病）分類において、モデルは感度0.96およびF2スコア0.94を達成しました。 3クラス（うつ病なし、軽度から中等度のうつ病、重度のうつ病）の分類タスクにおいて、提案手法は感度0.79、特異度0.87を達成し、他のモデルを有意に上回りました。一般化可能性を検証するため、本モデル (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.15675v1</guid>
+      <pubDate>Wed, 19 Nov 2025 18:18:53 +0000</pubDate>
     </item>
     <item>
-      <title>HyMAD: 国境監視・モニタリングのためのハイブリッドマルチアクティビティ検出アプローチ</title>
-      <link>https://arxiv.org/abs/2511.14698v1</link>
-      <description>地震センシングは、国境監視・モニタリングのための有望なソリューションとして浮上しています。地中に埋設されることが多い地震センサーは小型で目立ちにくいため、侵入者による検知、回避、破壊が困難です。これは、視認性の高いカメラやフェンスに比べて、地震センシングの有効性を大幅に高めます。しかし、地震信号の複雑性とノイズ性のため、人間の侵入、動物の移動、車両の振動など、同時に発生する重複した活動を正確に検知・区別することは依然として大きな課題です。同時発生している活動を正しく識別することは非常に重要です。なぜなら、それらを区別できないと、誤分類、検出漏れ、状況の不完全な理解につながり、監視システムの信頼性が低下する可能性があるからです。この問題に対処するため、我々は時空間特徴融合に基づくディープニューラルアーキテクチャであるHyMAD（Hybrid Multi-Activity Detection）を提案します。このフレームワークは、SincNetで抽出されたスペクトル特徴と、リカレントニューラルネットワーク（RNN）によってモデル化された時間依存性を統合します。さらに、HyMADは、イントラモ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.14698v1</guid>
-      <pubDate>Tue, 18 Nov 2025 17:37:38 +0000</pubDate>
+      <title>PBRミッションのためのチェレンコフカメラ</title>
+      <link>https://arxiv.org/abs/2511.15636v1</link>
+      <description>POEMMA-Balloon with Radio（PBR）ミッションは、超高エネルギー宇宙線、高高度水平空気シャワー、天体ニュートリノの検出を向上させるために設計されたNASAの超高圧気球実験です。PBRの主要機器はチェレンコフカメラ（CC）で、2048ピクセルのSiPMカメラを使用して、宇宙線誘起空気シャワーからの光チェレンコフ放射を検出し、ニュートリノを示す上向きの信号を探します。
+CCは、10ナノ秒の積分時間で320～900 nmのスペクトル範囲で動作し、二重焦点光学設計を活用して検出効率を高めます。CCはシャワーの軌道を正確に再構築することを可能にし、宇宙線の組成とエネルギー分布に関する貴重なデータを提供します。PBRの準軌道高度はこれらの測定に特に有利であり、地上と宇宙の機器間の観測ギャップを埋める独自の視点を提供します。さらに、CCはニュートリノ探索において重要な役割を果たし、天体物理学的トランジェントに関連する地球スキミングニュートリノからのタウ-レプトン崩壊シャワーを検出します。CCを蛍光および電波検出システムと統合することで、PBRは高エネルギー宇宙現象に対するマル (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.15636v1</guid>
+      <pubDate>Wed, 19 Nov 2025 17:20:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

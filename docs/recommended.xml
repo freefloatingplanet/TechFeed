@@ -7,13 +7,44 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Nov 2025 06:35:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 06:34:56 +0000</lastBuildDate>
     <item>
-      <title>Affinity 3対応！ お絵描きするときに使いたい、インクの描き味を再現した商用利用無料のブラシ素材 -Inkers</title>
-      <link>https://coliss.com/articles/freebies/inkers-brushes-for-affinity-by-paolo.html</link>
-      <description>Affinityの無料化から2週間が経ち、これからAffinityをやってみるぞという人も多いと思います。 Affinityでお絵描きするときに使いたい、インクの描き味を再現したブラシ素材を紹介します。もしかしたら、期間限定かもしれないので、ダウンロードはお早めに！ ブラシの作者様の紹介 ブラシのダウンロード方法 Affinityに... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://coliss.com/articles/freebies/inkers-brushes-for-affinity-by-paolo.html</guid>
-      <pubDate>Wed, 19 Nov 2025 00:47:46 +0000</pubDate>
+      <title>HonoとPerl 〜 異文化を持ち込む</title>
+      <link>https://zenn.dev/yusukebe/articles/0e1837b7e96325</link>
+      <description>Honoの面白いネタがあるので書きます。
+
+ Web標準
+HonoはWeb標準のAPIを使って作られています。Web標準は元々ブラウザで動くもの（JavaScriptやCSS、HTML）に対して考えられた技術仕様もしくは指針です。昨今はCloudflare Workers、Deno、BunといったJavaScriptランタイムはV8やJavaScriptCoreブラウザのエンジンを使っていて、サーバーサイドでWeb標準のAPIを動かすようになっています。Node.jsもそれに追従して使えるようになっています。例えば、HTTPのレスポンスを返したければResponseオブジェクトを使います... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yusukebe/articles/0e1837b7e96325</guid>
+      <pubDate>Wed, 19 Nov 2025 03:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>日本俳優連合、AI音声「にじボイス」にまた削除要請　20件の声が“声優に酷似”</title>
+      <link>https://www.itmedia.co.jp/aiplus/articles/2511/19/news090.html</link>
+      <description>2回目の削除要請について、Xユーザーからは「にじボイス側は無断学習してたのか、わざと似せたのか、たまたまなのかを明らかにするべき」「学習データの出どころをごまかすからこういうことになる」など、にじボイスが利用した学習データに言及する声の他、「声が似てるだけで削除要請ってどういうこと？」「『削除要請... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/articles/2511/19/news090.html</guid>
+      <pubDate>Wed, 19 Nov 2025 07:53:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>社会人1年目が語る、“セキュリティイベント沼”のすゝめ</title>
+      <link>https://zenn.dev/nttdata_tech/articles/803a18ce35ba21</link>
+      <description>はじめに
+25卒でNTTデータグループに入社し、NTTDATA-CERTに配属された廣瀬です。
+学生時代から現在までセキュリティをはじめとしたIT系のイベントに積極的に参加しています。
+最近、「どのようなイベントに参加すればよいか」と質問を受けることが増えました。
+そこで本記事では、イベントに参加する意味、イベントの探し方、実際に参加して良かったセキュリティイベントを紹介します。
+
+ 想定読者
+
+外部の勉強会等に参加したいが、一歩踏み出せない人
+セキュリティに興味があるが、何をしたらいいかわからない学生
+※上記以外の方もぜひご覧ください！
+
+
+ 私が考えるイベントに参加する意味
+イベ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/803a18ce35ba21</guid>
+      <pubDate>Wed, 19 Nov 2025 00:39:28 +0000</pubDate>
     </item>
     <item>
       <title>Google Antigravityファーストインプレッション</title>
@@ -39,13 +70,6 @@ AntigravityのAgentの動きを設定できるようです。左側の設定で�
       <description>11月15日、Manual do Usuárioが「I think nobody wants AI in Firefox, Mozilla」と題した記事を公開した。この記事では、Mozillaが開発を進めているFirefox向けAIアシスタント機能「Window AI」と、それに対するユーザーの強い反発について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/691a4245bb34b50fd19b889f?from=rss</guid>
       <pubDate>Sun, 16 Nov 2025 21:29:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>アジャイルとはそもそも何なのか？</title>
-      <link>https://zenn.dev/pdfractal/articles/53b908e0d1db3c</link>
-      <description>はじめに アジャイルという言葉は広く普及していますが、その本質を正確に理解している人は多くありません。表面的には「変化に強い開発手法」「小さく作って早く回す」という説明が一般的ですが、実際のアジャイルははるかに本質的で、人間の認知能力と組織構造に強く依存した哲学的な方式です。本レポートでは、アジャ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/pdfractal/articles/53b908e0d1db3c</guid>
-      <pubDate>Sun, 16 Nov 2025 06:47:52 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントを開発するPdMがやることをプロンプトを書きながら考える</title>
@@ -74,25 +98,11 @@ AI にファイル単位で処理させると無駄な再計算が発生して�
       <pubDate>Mon, 17 Nov 2025 02:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】仕様駆動開発（SDD:Spec-Driven Development） — AIはウォーターフォールの逆襲を招くのか</title>
-      <link>https://techfeed.io/entries/691a3efabb34b50fd19b883a?from=rss</link>
-      <description>11月16日、Marmelabが「Spec-Driven Development: The Waterfall Strikes Back」と題した記事を公開した。この記事では、仕様書駆動開発（Spec-Driven Development; SDD）がAI時代のプログラミングに秩序をもたらすという期待と、冗長な文書作成がアジリティを損なうという懸念の両面について詳しく紹介されている。以下に、その内容を紹介する。仕様書駆動開発（SDD）の台頭チャット入力を中心に据えるコーディングアシスタントは、従来のIDEと比べ手がかりが少ない。そこでオープンソース界隈では、初期プロンプトと数個の指示からLLMに「仕様」「実装計画」「タスクリスト」を生成させ、ユーザーが追記・修正し、完成した文書群をコーディングエージェント（Claude Code、Cursor、Copilot等）へ渡す、という流れが生まれている。これがSDDである。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/691a3efabb34b50fd19b883a?from=rss</guid>
-      <pubDate>Sun, 16 Nov 2025 21:15:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Claude Code】Skills機能で『AIっぽい』UIから脱却する方法！Anthropic公式もおすすめ</title>
-      <link>https://zenn.dev/tmasuyama1114/articles/anthropic_claude_skills_design</link>
-      <description>こんにちは、とまだです。
-Claude CodeでUIを生成してもらうと、どれも似たような見た目になってしまう。そんな経験はありませんか？
-こういうの👇
-
-私も最初は、どのプロジェクトも似たような紫のグラデーションになってしまい、困った経験があります。しかし、これには技術的な理由があるんです。そして、解決方法もちゃんと用意されています。
-この記事では、Anthropicの公式ブログで公開された解決手法を、Claude Code初心者向けに噛み砕いて解説します。
-AI生成UIの「没個性化」問題と、その解決策となるSkills機能について、日常的な例えを交えながら段階的に見ていきましょう。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tmasuyama1114/articles/anthropic_claude_skills_design</guid>
-      <pubDate>Sun, 16 Nov 2025 14:21:14 +0000</pubDate>
+      <title>「死ぬ程キレ症の俺がVRCHATを始めた」は観測手による迫害の始まりである。｜駒枝</title>
+      <link>https://note.com/komaeda_/n/nb8a46496e3c6</link>
+      <description>VRchat界隈を賑わせた愉快なnote、悪口本舗。個人的には罵倒のボキャブラリーは嫌いではない。 しかし、紐解いていくと私は、後述の「突撃マニュアル」に近しい、不可思議な嫌悪感に襲われた。 正直、私はVRchatを一度だってプレイしたことがない。どうでもいいとすら思っているが、故に語ることがある。 まず第一として... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/komaeda_/n/nb8a46496e3c6</guid>
+      <pubDate>Thu, 20 Nov 2025 01:13:44 +0000</pubDate>
     </item>
     <item>
       <title>「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？</title>
