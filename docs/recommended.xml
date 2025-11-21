@@ -7,48 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Nov 2025 10:33:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 06:36:27 +0000</lastBuildDate>
     <item>
-      <title>HonoとPerl 〜 異文化を持ち込む</title>
-      <link>https://zenn.dev/yusukebe/articles/0e1837b7e96325</link>
-      <description>Honoの面白いネタがあるので書きます。
-
- Web標準
-HonoはWeb標準のAPIを使って作られています。Web標準は元々ブラウザで動くもの（JavaScriptやCSS、HTML）に対して考えられた技術仕様もしくは指針です。昨今はCloudflare Workers、Deno、BunといったJavaScriptランタイムはV8やJavaScriptCoreブラウザのエンジンを使っていて、サーバーサイドでWeb標準のAPIを動かすようになっています。Node.jsもそれに追従して使えるようになっています。例えば、HTTPのレスポンスを返したければResponseオブジェクトを使います... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yusukebe/articles/0e1837b7e96325</guid>
-      <pubDate>Wed, 19 Nov 2025 03:04:28 +0000</pubDate>
+      <title>【メモ】「大喜利」や「ラジオ番組に投稿（ハガキ職人）」って海外でもあるの？との疑問をAIに訊いた回答。 - INVISIBLE Dojo.　ーQUIET &amp; COLORFUL PLACE-</title>
+      <link>https://m-dojo.hatenadiary.com/entry/2025/11/21/131242</link>
+      <description>いま、日本の漫画がどういう経路をたどって外国語に翻訳されているかはいまいち知らないんだけど、たしかこと少年ジャンプにおいては、現在の連載誌がそのまま、大急ぎで公式英訳されてるはずだ。 2018年からそうだったか animationbusiness.info 「少年ジャンプ」の人気作が、日本のリリースと同時に海外では無料で読む... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://m-dojo.hatenadiary.com/entry/2025/11/21/131242</guid>
+      <pubDate>Fri, 21 Nov 2025 04:17:22 +0000</pubDate>
     </item>
     <item>
-      <title>日本俳優連合、AI音声「にじボイス」にまた削除要請　20件の声が“声優に酷似”</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2511/19/news090.html</link>
-      <description>2回目の削除要請について、Xユーザーからは「にじボイス側は無断学習してたのか、わざと似せたのか、たまたまなのかを明らかにするべき」「学習データの出どころをごまかすからこういうことになる」など、にじボイスが利用した学習データに言及する声の他、「声が似てるだけで削除要請ってどういうこと？」「『削除要請... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/articles/2511/19/news090.html</guid>
-      <pubDate>Wed, 19 Nov 2025 07:53:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Antigravityファーストインプレッション</title>
-      <link>https://zenn.dev/ukiuni/articles/447549118796b1</link>
-      <description>Gemini3とともに、GoogleのAIエディタ、Antigravityが発表されました。早速触っていきます。
-https://antigravity.google/download
-からダウンロードできます。
-
-各OSの手順で通例通りインストールして、起動するとセットアップ画面になります。
-
-他エディタから設定をImportできるようです。後続でテーマの内容を連携できたりするようです。
-
-珍しいのでTokyo Nightテーマにしてみようとも思いましたが、文字色が薄くてなれないので、Darkにします。
-
-
-AntigravityのAgentの動きを設定できるようです。左側の設定で、右... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ukiuni/articles/447549118796b1</guid>
-      <pubDate>Tue, 18 Nov 2025 22:54:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】FirefoxにAI搭載は誰も望んでいない、と評する記事が海外で話題に</title>
-      <link>https://techfeed.io/entries/691a4245bb34b50fd19b889f?from=rss</link>
-      <description>11月15日、Manual do Usuárioが「I think nobody wants AI in Firefox, Mozilla」と題した記事を公開した。この記事では、Mozillaが開発を進めているFirefox向けAIアシスタント機能「Window AI」と、それに対するユーザーの強い反発について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/691a4245bb34b50fd19b889f?from=rss</guid>
-      <pubDate>Sun, 16 Nov 2025 21:29:41 +0000</pubDate>
+      <title>個人宅に“企業のデータセンター”設置、廃熱を暖房として活用　英国で実証実験</title>
+      <link>https://www.itmedia.co.jp/news/articles/2511/21/news041.html</link>
+      <description>BBCの報道によると、テレンス・ブリッジズさんと妻のレスリーさんは、ガスボイラーを撤去し、庭の小屋に小型データセンター「HeatHub」を設置。これにより、月額の電気料金を375ポンド（約7万7000円、1ポンド＝約205円）から40ポンド（約8200円）にまで削減することに成功したという。 今回設置したHeatHubは、ガスボイ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2511/21/news041.html</guid>
+      <pubDate>Fri, 21 Nov 2025 00:46:27 +0000</pubDate>
     </item>
     <item>
       <title>なぜリリース計画は遅延するの？「後ろめたくないバッファ」で解決する方法</title>
@@ -72,51 +44,70 @@ AntigravityのAgentの動きを設定できるようです。左側の設定で�
       <pubDate>Wed, 19 Nov 2025 00:28:15 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントを開発するPdMがやることをプロンプトを書きながら考える</title>
-      <link>https://zenn.dev/layerx/articles/671bdaf4aa0a32</link>
-      <description>こちらはLayerX AI エージェントブログリレー48日目の記事です。
-こんにちは、CEO室でAIエージェント開発のPdMをしているKenta Watanabeです。昨日はTomoakiさんの作って学ぶ ChatGPT Atlas
-でした。Evalに関する実用的な記事になる予定だったんですが、ちょっと別テーマで書きたいことが出てきたのでテーマを変えてみます。これまでのAIエージェントブログリレーでは開発寄りの記事を書いてきましたが、今日はPdM目線での記事を書きたいと思います。
-普段はAIエージェントの企画・開発を行っていますが、企画と開発両面で従来のプロダクトとの違いを感じる場面が... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/layerx/articles/671bdaf4aa0a32</guid>
-      <pubDate>Tue, 18 Nov 2025 14:45:14 +0000</pubDate>
+      <title>Bedrock AgentCore で Remote MCP サーバーをホストする2つの方法の徹底検証</title>
+      <link>https://zenn.dev/aws_japan/articles/001-bedrock-agentcore-remote-mcp</link>
+      <description>はじめに
+初めまして！AWS Japan に 2025/10/1 に入社した AI/ML Specialist Solutions Architect の Kujirada です。
+2025 年、MCP は Agent と外部システムを接続し、Tool として利用するためのプロトコルとして急速に普及しています。エンタープライズ利用の需要に伴い、Local MCP から Remote MCP への移行が進んでいます。Remote MCP は、利用者自身での Local MCP サーバーの管理が不要になるため、広範なユーザーへのサービス提供を可能にします。
+AWS マネージドサービスを利... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/001-bedrock-agentcore-remote-mcp</guid>
+      <pubDate>Thu, 20 Nov 2025 22:46:44 +0000</pubDate>
     </item>
     <item>
-      <title>600ファイル5000箇所の多言語対応を半日で終わらせた話</title>
-      <link>https://zenn.dev/dress_code/articles/codebase-transformation</link>
-      <description>TL;DR
-
-約600ファイル、5,000箇所への中国語追加を「工程分割 + AST 解析」により計6時間（実装4時間、実行2時間）で完了
-AI にファイル単位で処理させると無駄な再計算が発生して非効率だったため、「抽出」「翻訳」「適用」の3工程に分割し AST 解析で効率化を実現
-この手法の鍵は「コンテキストの制御」で、適切な粒度で問題を分割し AI に必要最小限の情報だけを渡すことで処理速度と精度を最大化できる
-
-
- はじめに
-こんにちは、DressCode でプロダクトエンジニアをしているないとーです。
-この記事では、AI だけでは解決できなかった大規模コード変更を、AST（抽... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/codebase-transformation</guid>
-      <pubDate>Mon, 17 Nov 2025 02:00:02 +0000</pubDate>
+      <title>海外「こんな国が存在するはずない…」 日本の日常風景、綺麗すぎてAIだと疑われてしまう</title>
+      <link>http://pandora11.com/blog-entry-5547.html</link>
+      <description>今回ご紹介するのは、日本に留学中の学生が投稿したもので、 日本の街中をサイクリングしながら撮影した映像が収められています。 看板などを見る限り大阪市内のようです。 日本有数の大都市であるとは言え、 基本的には日本でよく見られる都市部の光景だと思われます。 しかし、映像に映る街の清潔さや平和な雰囲気が、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">http://pandora11.com/blog-entry-5547.html</guid>
+      <pubDate>Thu, 20 Nov 2025 16:04:23 +0000</pubDate>
     </item>
     <item>
-      <title>「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？</title>
-      <link>https://zenn.dev/ukitaka/articles/468d418a5dd8fa</link>
-      <description>2要素認証などでよくみる6桁のワンタイムパスワードですが、個人的に何となく気になっていることがありました。
-それは 同じ数字が並ぶことが多いな と感じるということです。
+      <title>Typescriptにするだけで型安全になると思ってはいけない</title>
+      <link>https://zenn.dev/takisato/articles/1a26aaa60ba2ba</link>
+      <description>はじめに
+「TypeScriptを使えば型安全なコードが書ける」
+多くの人はこんな期待を持って、コードを書き始めることでしょう。
+しかしそのコードは、「型」の恩恵を受けているでしょうか？
+例えば運動して痩せたいと思っている人を想像してみてください。「ジムに入会したから痩せるわ」と言われたらどうでしょう。
+その返しはあえて言いませんが、それと同じです。
+「Typescriptを使うだけ」で型安全になると思ってはいけません。
+この記事では、よくあるTypeScriptのアンチパターンと、それを段階的に改善していく方法を、具体的なコード例とともに紹介します。
 
-この記事では
+ このコードの間違いは？
+ま... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/takisato/articles/1a26aaa60ba2ba</guid>
+      <pubDate>Wed, 19 Nov 2025 08:49:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>OSSに貢献するときの心得</title>
+      <link>https://zenn.dev/kyome/articles/1259c94ad576ca</link>
+      <description>私はOSSのアプリ/ライブラリの開発運営（オーナー）をしています[1]。世界中の多くの人がIssueを立ててくれたりPull Requestを立てて貢献（Contribute）してくれて嬉しい一方で、初コントリビュートでやり方を知らなかったり、我流が過ぎる方がおりオーナーとしてハンドリングに困ることも多々あります。そこで、OSSに貢献するときの基本的な心得を紹介します。
 
-「同じ数字が並ぶ」という直感が正しいのか？
-何かの目的 (例: 入力を楽にする) があってこうなっているのか？
-ワンタイムパスワードの生成アルゴリズム的にこういう偏りが生まれやすくなるのか？
+ Issue編
+IssueはPull Requestに比べて手軽にできる貢献の第一歩です。そのため大手のOSSだと膨大な量になりがちなので質の低いIssueは一生ハンドリングされないか時効が来たら閉じられてしまいます。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kyome/articles/1259c94ad576ca</guid>
+      <pubDate>Wed, 19 Nov 2025 13:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>【個人開発】モンスターハンター募集掲示板のようなサービス「HuntersHub」を作った話</title>
+      <link>https://zenn.dev/motty93/articles/release_huntershub</link>
+      <description>やぁ！みんな。
+ハンティングライフ、楽しんでいるかな？
+どうもてぃです。
+この度HuntersHubというサービスをリリースしたので、その開発経緯や技術スタック、実装で工夫した点などを振り返りながら書きなぐっていこうと思います。
 
-という素朴な疑問を解決すべく調査・検証してみました。
 
- ワンタイムパスワードの仕様
-6桁のワンタイムパスワード（以下、OTP）は、実は国際的に標準化された仕様に基づいて生成されています。
+ 開発経緯
+最近全くゲームは出来ていないのですが、ふとやりたいなぁと思うゲームとしてモンスターハンターポータブルシリーズがあります。
 
-RFC 4226 -... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ukitaka/articles/468d418a5dd8fa</guid>
-      <pubDate>Sun, 16 Nov 2025 13:50:12 +0000</pubDate>
+MHP2G配信の動画を見る
+コミュニティに参加する
+勉強・仕事しながら配信を見る
+ヤフオクでPSP3000を落札する(もはや奇行)
+PSPにCFWを導入してRemote Joy LiteでPCの大画面で遊べるようにする
+
+な... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/motty93/articles/release_huntershub</guid>
+      <pubDate>Wed, 19 Nov 2025 14:22:57 +0000</pubDate>
     </item>
     <item>
       <title>“ジャバラ”がバラっと完成！人事配置表自動化の舞台裏</title>
@@ -130,22 +121,15 @@ GovTech東京でも、東京都の外郭団体として「ジャバラ」を作�
       <pubDate>Wed, 19 Nov 2025 05:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>RAGをゼロから実装して仕組みを学ぶ【2025年版】</title>
-      <link>https://zenn.dev/knowledgesense/articles/2619c6e5918d08</link>
-      <description>!
-今回は、「RAG初心者」に向けた内容です。（プロのみなさん、すみません）
+      <title>なぜ、物理よりデジタルの方がセキュリティレベルが上がるのに、そう感じない人が多いのか？</title>
+      <link>https://zenn.dev/pdfractal/articles/7edb395bfbfb00</link>
+      <description>はじめに
+デジタル化が進む社会において、私たちは頻繁に「従来よりセキュリティが強化されます」という言葉を耳にします。特に行政や金融サービスのデジタル移行に関しては、暗号技術を活用したデジタル鍵によって、物理鍵に比べて圧倒的な安全性が確保できています。それにもかかわらず、多くの人々は「デジタル＝危険」「紙や物理の方が安全」という印象を持ち続けています。この違和感は、単なる知識不足ではなく、人間の心理構造と情報の伝わり方に起因しています。本稿では、なぜ人は「現実と逆の感覚」を抱くのか、その根本理由を掘り下げて考察します。
 
-本記事では、RAGの基本的な仕組みを理解するために、Pythonを使ってゼロからRAGを実装する手順をざっくり解説します。
-株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。
-
- この記事は何
-この記事では、非エンジニアでも、手元のPCで「RAG」を動かせるというところまで解説したいと思います。
-
-こんな感じでRAGを構築できます。入門から解説します
-最近、非エンジニアでも、RAGに興味を持つ方が増えました。
-ただ、一方で、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/2619c6e5918d08</guid>
-      <pubDate>Tue, 18 Nov 2025 00:01:06 +0000</pubDate>
+ 見える危険は安心し、見えない危険は恐怖になる
+人間は、理解でき... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pdfractal/articles/7edb395bfbfb00</guid>
+      <pubDate>Tue, 18 Nov 2025 15:08:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

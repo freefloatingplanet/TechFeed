@@ -7,14 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Nov 2025 10:33:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 06:36:31 +0000</lastBuildDate>
     <item>
-      <title>PBRミッションのためのチェレンコフカメラ</title>
-      <link>https://arxiv.org/abs/2511.15636v1</link>
-      <description>POEMMA-Balloon with Radio（PBR）ミッションは、超高エネルギー宇宙線、高高度水平空気シャワー、天体ニュートリノの検出を向上させるために設計されたNASAの超高圧気球実験です。PBRの主要機器はチェレンコフカメラ（CC）で、2048ピクセルのSiPMカメラを使用して、宇宙線誘起空気シャワーからの光チェレンコフ放射を検出し、ニュートリノを示す上向きの信号を探します。
-CCは、10ナノ秒の積分時間で320～900 nmのスペクトル範囲で動作し、二重焦点光学設計を活用して検出効率を高めます。CCはシャワーの軌道を正確に再構築することを可能にし、宇宙線の組成とエネルギー分布に関する貴重なデータを提供します。PBRの準軌道高度はこれらの測定に特に有利であり、地上と宇宙の機器間の観測ギャップを埋める独自の視点を提供します。さらに、CCはニュートリノ探索において重要な役割を果たし、天体物理学的トランジェントに関連する地球スキミングニュートリノからのタウ-レプトン崩壊シャワーを検出します。CCを蛍光および電波検出システムと統合することで、PBRは高エネルギー宇宙現象に対するマル (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.15636v1</guid>
-      <pubDate>Wed, 19 Nov 2025 17:20:10 +0000</pubDate>
+      <title>スマートレンズによる器用さ：野生の人間によるデモンストレーションによる多指ロボット操作</title>
+      <link>https://arxiv.org/abs/2511.16661v1</link>
+      <description>自然環境における日常的な作業を行う人間から多指ロボットのポリシーを学習することは、ロボット工学コミュニティにおける長年の壮大な目標でした。この目標達成は、労働集約的なロボットデータ収集への依存を軽減するため、人間環境における汎用的なロボット操作に向けた大きな進歩となるでしょう。しかし、多大な努力にもかかわらず、この目標に向けた進歩は、人間とロボットの身体性のギャップ、そして自然界の人間のビデオから自律ポリシーを学習するための関連する文脈的および動作的手がかりを抽出することの難しさによってボトルネックとなってきました。私たちは、人間のデータを取得するためのシンプルでありながら十分に強力なハードウェアと、提案するフレームワークAINAによって、この夢の実現に大きく一歩近づいたと主張します。AINAは、Aria Gen 2グラスを用いて、誰でも、どこでも、あらゆる環境で収集したデータから多指ポリシーを学習することを可能にします。このグラスは軽量で持ち運びやすく、高解像度のRGBカメラを搭載し、正確な3Dヘッドポーズとハンドポーズを提供し、シーンの深度推定に活用できる広いステレオビューを提供し (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.16661v1</guid>
+      <pubDate>Thu, 20 Nov 2025 18:59:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
