@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Nov 2025 06:36:27 +0000</lastBuildDate>
-    <item>
-      <title>【メモ】「大喜利」や「ラジオ番組に投稿（ハガキ職人）」って海外でもあるの？との疑問をAIに訊いた回答。 - INVISIBLE Dojo.　ーQUIET &amp; COLORFUL PLACE-</title>
-      <link>https://m-dojo.hatenadiary.com/entry/2025/11/21/131242</link>
-      <description>いま、日本の漫画がどういう経路をたどって外国語に翻訳されているかはいまいち知らないんだけど、たしかこと少年ジャンプにおいては、現在の連載誌がそのまま、大急ぎで公式英訳されてるはずだ。 2018年からそうだったか animationbusiness.info 「少年ジャンプ」の人気作が、日本のリリースと同時に海外では無料で読む... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://m-dojo.hatenadiary.com/entry/2025/11/21/131242</guid>
-      <pubDate>Fri, 21 Nov 2025 04:17:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>個人宅に“企業のデータセンター”設置、廃熱を暖房として活用　英国で実証実験</title>
-      <link>https://www.itmedia.co.jp/news/articles/2511/21/news041.html</link>
-      <description>BBCの報道によると、テレンス・ブリッジズさんと妻のレスリーさんは、ガスボイラーを撤去し、庭の小屋に小型データセンター「HeatHub」を設置。これにより、月額の電気料金を375ポンド（約7万7000円、1ポンド＝約205円）から40ポンド（約8200円）にまで削減することに成功したという。 今回設置したHeatHubは、ガスボイ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2511/21/news041.html</guid>
-      <pubDate>Fri, 21 Nov 2025 00:46:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Nov 2025 06:32:01 +0000</lastBuildDate>
     <item>
       <title>なぜリリース計画は遅延するの？「後ろめたくないバッファ」で解決する方法</title>
       <link>https://zenn.dev/loglass/articles/7dfe1fb0aa1086</link>
@@ -44,21 +30,36 @@
       <pubDate>Wed, 19 Nov 2025 00:28:15 +0000</pubDate>
     </item>
     <item>
-      <title>Bedrock AgentCore で Remote MCP サーバーをホストする2つの方法の徹底検証</title>
-      <link>https://zenn.dev/aws_japan/articles/001-bedrock-agentcore-remote-mcp</link>
-      <description>はじめに
-初めまして！AWS Japan に 2025/10/1 に入社した AI/ML Specialist Solutions Architect の Kujirada です。
-2025 年、MCP は Agent と外部システムを接続し、Tool として利用するためのプロトコルとして急速に普及しています。エンタープライズ利用の需要に伴い、Local MCP から Remote MCP への移行が進んでいます。Remote MCP は、利用者自身での Local MCP サーバーの管理が不要になるため、広範なユーザーへのサービス提供を可能にします。
-AWS マネージドサービスを利... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/001-bedrock-agentcore-remote-mcp</guid>
-      <pubDate>Thu, 20 Nov 2025 22:46:44 +0000</pubDate>
+      <title>事務作業をパートさん、生成ＡＩで代替できる仕事なので契約満了の予定だったが「彼女の仕事は丁寧でＡＩではできない」という周囲の声を受け雇用継続を決めた→「ご本人はAIを使いこなしていた」</title>
+      <link>https://posfie.com/@petaritape/p/tLMALrs</link>
+      <description>フミコ・フミオ【「給食営業マンサバイバル戦記」9/18発売】 @Delete_All 我が営業部では顧客管理やリスト更新などの事務作業をパートさんにお願いしていた。生成ＡＩで代替できる作業なのでパート契約期間満了の予定だったが「彼女の仕事は丁寧でＡＩではできない」という周囲の声を受け雇用継続を決めた。先ほど当該パ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://posfie.com/@petaritape/p/tLMALrs</guid>
+      <pubDate>Fri, 21 Nov 2025 14:36:52 +0000</pubDate>
     </item>
     <item>
-      <title>海外「こんな国が存在するはずない…」 日本の日常風景、綺麗すぎてAIだと疑われてしまう</title>
-      <link>http://pandora11.com/blog-entry-5547.html</link>
-      <description>今回ご紹介するのは、日本に留学中の学生が投稿したもので、 日本の街中をサイクリングしながら撮影した映像が収められています。 看板などを見る限り大阪市内のようです。 日本有数の大都市であるとは言え、 基本的には日本でよく見られる都市部の光景だと思われます。 しかし、映像に映る街の清潔さや平和な雰囲気が、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">http://pandora11.com/blog-entry-5547.html</guid>
-      <pubDate>Thu, 20 Nov 2025 16:04:23 +0000</pubDate>
+      <title>WindowsのAI製品への批判を受けMicrosoftのAI責任者が冷笑系にウンザリ、「超賢いAIに感心しないなんて信じられない」と語る</title>
+      <link>https://gigazine.net/news/20251120-microsoft-ai-ceo-against-windows-backlash/</link>
+      <description>WindowsはCopilotをはじめとするさまざまなAI製品を開発していますが、これらのAIに対しては根強い批判もあります。Microsoft AIのムスタファ・スレイマンCEOは、WindowsのAI製品に対する不満に「AIの能力に感銘を受けていない人々がいることに驚いている」と反論しました。 Microsoft AI CEO pushes back against criti... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20251120-microsoft-ai-ceo-against-windows-backlash/</guid>
+      <pubDate>Fri, 21 Nov 2025 07:09:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>イワタニ、カセットガス式の持ち運べる炊飯器 - 家電 Watch</title>
+      <link>https://kaden.watch.impress.co.jp/docs/news/2064857.html</link>
+      <description> (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://kaden.watch.impress.co.jp/docs/news/2064857.html</guid>
+      <pubDate>Thu, 20 Nov 2025 08:55:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI駆動組み込み開発における「Rustの必然性」</title>
+      <link>https://zenn.dev/kokimu/articles/7bb7f9f3896bb4</link>
+      <description>AI駆動組み込み開発における「Rustの必然性」
+
+ はじめに
+Rustは学習コストが高い言語として知られています。所有権、ライフタイム、借用チェッカーといった独特な概念は、C言語やPythonから移行するエンジニアにとって大きな壁となってきました。しかし、AIエージェント(Claude Code、Gemini、Codexなど)を活用した開発という視点から見ると、この評価は大きく変わります。
+本記事では、AIエージェントと協働する開発環境において、Rustが持つ独自の優位性について、具体的なコード例とコンパイル結果を示しながら解説します。特に、Rustコンパイラの厳格な型システムとエ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kokimu/articles/7bb7f9f3896bb4</guid>
+      <pubDate>Fri, 21 Nov 2025 00:01:45 +0000</pubDate>
     </item>
     <item>
       <title>Typescriptにするだけで型安全になると思ってはいけない</title>
@@ -78,6 +79,13 @@ AWS マネージドサービスを利... (source: Zennのトレンド)</descript
       <pubDate>Wed, 19 Nov 2025 08:49:31 +0000</pubDate>
     </item>
     <item>
+      <title>採取したキノコを撮影してAI判定　AIは“食べられる”と回答も…　実際は「毒キノコ」　和歌山市の70代男性が嘔吐の症状で一時入院　「AIや図鑑で自己判断するのは危険」市が注意呼びかけ（MBSニュース） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/da8fb346918e1d8bd3549d0c044a26c0aa939526</link>
+      <description>和歌山市生活保健課によると、同市在住の70代男性は11月3日、奈良県下北山村の山中でヒラタケやシイタケに似たキノコを採取。 翌4日、食べられるかどうかを植物園などに確認しようとしましたが、連絡がつながらなかったため、採取したキノコを自らの電子端末で撮影し、AI判定を行ったところ、AIは“シイタケかヒラタケで... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/da8fb346918e1d8bd3549d0c044a26c0aa939526</guid>
+      <pubDate>Fri, 21 Nov 2025 08:23:38 +0000</pubDate>
+    </item>
+    <item>
       <title>OSSに貢献するときの心得</title>
       <link>https://zenn.dev/kyome/articles/1259c94ad576ca</link>
       <description>私はOSSのアプリ/ライブラリの開発運営（オーナー）をしています[1]。世界中の多くの人がIssueを立ててくれたりPull Requestを立てて貢献（Contribute）してくれて嬉しい一方で、初コントリビュートでやり方を知らなかったり、我流が過ぎる方がおりオーナーとしてハンドリングに困ることも多々あります。そこで、OSSに貢献するときの基本的な心得を紹介します。
@@ -88,48 +96,23 @@ IssueはPull Requestに比べて手軽にできる貢献の第一歩です。そ
       <pubDate>Wed, 19 Nov 2025 13:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>【個人開発】モンスターハンター募集掲示板のようなサービス「HuntersHub」を作った話</title>
-      <link>https://zenn.dev/motty93/articles/release_huntershub</link>
-      <description>やぁ！みんな。
-ハンティングライフ、楽しんでいるかな？
-どうもてぃです。
-この度HuntersHubというサービスをリリースしたので、その開発経緯や技術スタック、実装で工夫した点などを振り返りながら書きなぐっていこうと思います。
+      <title>技術書典における宣伝と実際の売上について――書籍紹介でどれくらい売上が伸びるのか？</title>
+      <link>https://qiita.com/dtak/items/8b3a4abc94d16497b991?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>これまでのあらすじ
+技術書典19に出展したけど、全然売れない。悲しみの投稿
 
-
- 開発経緯
-最近全くゲームは出来ていないのですが、ふとやりたいなぁと思うゲームとしてモンスターハンターポータブルシリーズがあります。
-
-MHP2G配信の動画を見る
-コミュニティに参加する
-勉強・仕事しながら配信を見る
-ヤフオクでPSP3000を落札する(もはや奇行)
-PSPにCFWを導入してRemote Joy LiteでPCの大画面で遊べるようにする
-
-な... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/motty93/articles/release_huntershub</guid>
-      <pubDate>Wed, 19 Nov 2025 14:22:57 +0000</pubDate>
+をしたのが11月19日23時頃。特に反応もなく、「誰もお前を愛さない」状態になる。翌日は、いつもの愚にも付かない伝言ゲームをして(それを世の中では仕事というらしい)、帰宅。そうしてSNSを開... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/dtak/items/8b3a4abc94d16497b991?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 21 Nov 2025 11:57:41 +0000</pubDate>
     </item>
     <item>
-      <title>“ジャバラ”がバラっと完成！人事配置表自動化の舞台裏</title>
-      <link>https://zenn.dev/govtechtokyo/articles/b8dc21b263c27f</link>
-      <description>1. はじめに ― 「ジャバラ」とは？
-図１：組織人事一覧（見本）
-皆さんはタイトルを見て「ジャバラ？なんだそれ？果物か？うねうね、びよんびよんしたやつか？」と思われるでしょう。そうです、うねうねしたものなんです！
-ジャバラは、都庁の人事配置一覧のことです。昔は都庁職員の一覧を蛇腹折りで保管していたため、この名前がついたそうです。
-GovTech東京でも、東京都の外郭団体として「ジャバラ」を作成し共有しています。組織拡大に伴い、職員情報を毎月更新する必要があり、特に年度替わりの4月には100名規模の異動も発生するため、作業量が一気に増加します。以前はExcel上での手作業が中心で入退... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/govtechtokyo/articles/b8dc21b263c27f</guid>
-      <pubDate>Wed, 19 Nov 2025 05:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜ、物理よりデジタルの方がセキュリティレベルが上がるのに、そう感じない人が多いのか？</title>
-      <link>https://zenn.dev/pdfractal/articles/7edb395bfbfb00</link>
+      <title>なぜAIは会話を重ねると間違えるのか：マルチターン対話の落とし穴と実用化への示唆</title>
+      <link>https://zenn.dev/pksha/articles/6f38eac49db885</link>
       <description>はじめに
-デジタル化が進む社会において、私たちは頻繁に「従来よりセキュリティが強化されます」という言葉を耳にします。特に行政や金融サービスのデジタル移行に関しては、暗号技術を活用したデジタル鍵によって、物理鍵に比べて圧倒的な安全性が確保できています。それにもかかわらず、多くの人々は「デジタル＝危険」「紙や物理の方が安全」という印象を持ち続けています。この違和感は、単なる知識不足ではなく、人間の心理構造と情報の伝わり方に起因しています。本稿では、なぜ人は「現実と逆の感覚」を抱くのか、その根本理由を掘り下げて考察します。
-
- 見える危険は安心し、見えない危険は恐怖になる
-人間は、理解でき... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pdfractal/articles/7edb395bfbfb00</guid>
-      <pubDate>Tue, 18 Nov 2025 15:08:16 +0000</pubDate>
+こんにちは、PKSHA Technologyでアルゴリズムエンジニアをしている原田です。LLMの性能は、各種ベンチマークにおいて着実な向上を見せており、その能力の高さは客観的な指標によっても示されています。しかし、これらの指標が必ずしも実際のユースケースにおける性能と一致するとは限らない点は、AIを実用化する上で重要な視点です。
+その一例として、マルチターンでの対話が挙げられます。LLMの性能はシングルターンのベンチマークで議論されることが多い一方、マルチターンの評価手法はまだ十分に整備されていないのが実情です。ユースケースを見ても、ある程度決まったタスクの自動化などシング... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pksha/articles/6f38eac49db885</guid>
+      <pubDate>Fri, 21 Nov 2025 05:35:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

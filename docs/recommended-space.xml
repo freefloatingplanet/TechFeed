@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Nov 2025 06:36:30 +0000</lastBuildDate>
-    <item>
-      <title>ブルー・オリジンが「ニューグレン」2号機を打ち上げ　NASA探査機の軌道投入とブースター海上着陸に成功</title>
-      <link>https://sorae.info/ssn/20251114-new-glenn-escapade.html</link>
-      <description>アメリカの民間企業Blue Origin（ブルー・オリジン）は、日本時間2025年11月14日に新型ロケット「New Glenn（ニューグレン）」の2回目の打ち上げを実施しました。搭載されていたNASA＝アメリカ航空宇宙… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20251114-new-glenn-escapade.html</guid>
-      <pubDate>Fri, 14 Nov 2025 10:57:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Nov 2025 06:32:05 +0000</lastBuildDate>
     <item>
       <title>インターステラテクノロジズ、ロケット「ZERO」初号機の顧客に日米3衛星を追加–計7機を搭載</title>
       <link>https://uchubiz.com/article/new67692/</link>
@@ -28,6 +21,13 @@
       <description>こちらは、太陽以外の恒星で発生したコロナ質量放出（CME）のイメージ図。 活発に活動する左下の恒星から吹き出したコロナ質量放出によって、右上の惑星が強い影響を受けている様子が描かれています。 大量のプラズマが塊状に放出さ… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20251119-stellar-cme.html</guid>
       <pubDate>Wed, 19 Nov 2025 11:58:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>BULL、ドイツ企業と戦略的パートナーシップで覚書–宇宙の持続可能性向上目指す</title>
+      <link>https://uchubiz.com/article/new67816/</link>
+      <description>BULL（栃木県宇都宮市）はドイツ企業MAITY Spaceと宇宙の持続可能性と安全性の促進に向けた戦略的パートナーシップを確立する覚書（MOU）を締結した。11月21日に発表した。 　BULLが開発する、衛星やロケッ […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new67816/</guid>
+      <pubDate>Fri, 21 Nov 2025 08:15:00 +0000</pubDate>
     </item>
     <item>
       <title>【スマホ圏外のデータも収集】アークエッジ・スペース、小型IoT端末から衛星へのデータ送信に成功【宇宙ビジネスニュース】</title>
