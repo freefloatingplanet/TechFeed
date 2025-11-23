@@ -7,48 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Nov 2025 06:32:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 06:33:41 +0000</lastBuildDate>
     <item>
-      <title>なぜリリース計画は遅延するの？「後ろめたくないバッファ」で解決する方法</title>
-      <link>https://zenn.dev/loglass/articles/7dfe1fb0aa1086</link>
-      <description>こんにちは、ログラスの松岡(@little_hand_s)です
-
-
- 3行まとめ
-
-バッファを適切に積まないと、計画が遅延する可能性が高まる。
-バッファを積みにくくする心理的バイアス(計画錯誤、過度に守備的と思われる不安)が存在する。
-バイアスを打ち破るために、内訳を分解して過去の実績データに基づいて算出する「分解・ファクトベースバッファ」を使うとよい
-
-※この記事ではアジャイル開発を例に説明しますが、考え方はウォーターフォールなど他の開発手法でも使えます。
-
- リリース計画、遅れてない？
-リリース計画を立てても、計画通りに進まないことが多いですよね。こんな経験、ありませんか？
-
-リリー... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/loglass/articles/7dfe1fb0aa1086</guid>
-      <pubDate>Wed, 19 Nov 2025 00:28:15 +0000</pubDate>
+      <title>AIに仕事を任せようとしたら、自分の仕事を言語化することになった｜honeshabri</title>
+      <link>https://note.com/honeshabri/n/nf0f2def2cdbf</link>
+      <description>日頃から仕事をAIにやらせられないかと試行錯誤しているわけだが、今回も学びがあった。書類の作成をNotionのAIエージェントに任せようとしたら、思いがけず「仕事の言語化」という別の価値を得ることになったのわけだ。 多分どこの会社でもやっているだろうが、弊社にも目標管理というのがある。俺が大っ嫌いなやつだ。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/honeshabri/n/nf0f2def2cdbf</guid>
+      <pubDate>Sat, 22 Nov 2025 04:22:55 +0000</pubDate>
     </item>
     <item>
-      <title>事務作業をパートさん、生成ＡＩで代替できる仕事なので契約満了の予定だったが「彼女の仕事は丁寧でＡＩではできない」という周囲の声を受け雇用継続を決めた→「ご本人はAIを使いこなしていた」</title>
-      <link>https://posfie.com/@petaritape/p/tLMALrs</link>
-      <description>フミコ・フミオ【「給食営業マンサバイバル戦記」9/18発売】 @Delete_All 我が営業部では顧客管理やリスト更新などの事務作業をパートさんにお願いしていた。生成ＡＩで代替できる作業なのでパート契約期間満了の予定だったが「彼女の仕事は丁寧でＡＩではできない」という周囲の声を受け雇用継続を決めた。先ほど当該パ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://posfie.com/@petaritape/p/tLMALrs</guid>
-      <pubDate>Fri, 21 Nov 2025 14:36:52 +0000</pubDate>
+      <title>Bedrock AgentCore で Remote MCP サーバーをホストする2つの方法の徹底検証</title>
+      <link>https://zenn.dev/aws_japan/articles/001-bedrock-agentcore-remote-mcp</link>
+      <description>はじめに
+初めまして！AWS Japan に 2025/10/1 に入社した AI/ML Specialist Solutions Architect の Kujirada です。
+2025 年、MCP は Agent と外部システムを接続し、Tool として利用するためのプロトコルとして急速に普及しています。エンタープライズ利用の需要に伴い、Local MCP から Remote MCP への移行が進んでいます。Remote MCP は、利用者自身での Local MCP サーバーの管理が不要になるため、広範なユーザーへのサービス提供を可能にします。
+AWS マネージドサービスを利... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/001-bedrock-agentcore-remote-mcp</guid>
+      <pubDate>Thu, 20 Nov 2025 22:46:44 +0000</pubDate>
     </item>
     <item>
-      <title>WindowsのAI製品への批判を受けMicrosoftのAI責任者が冷笑系にウンザリ、「超賢いAIに感心しないなんて信じられない」と語る</title>
-      <link>https://gigazine.net/news/20251120-microsoft-ai-ceo-against-windows-backlash/</link>
-      <description>WindowsはCopilotをはじめとするさまざまなAI製品を開発していますが、これらのAIに対しては根強い批判もあります。Microsoft AIのムスタファ・スレイマンCEOは、WindowsのAI製品に対する不満に「AIの能力に感銘を受けていない人々がいることに驚いている」と反論しました。 Microsoft AI CEO pushes back against criti... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20251120-microsoft-ai-ceo-against-windows-backlash/</guid>
-      <pubDate>Fri, 21 Nov 2025 07:09:49 +0000</pubDate>
+      <title>2025年版・「関心の分離」実践ガイド　～単一責務の原則（SRP）から始める、システム開発の「痛み」を整頓する技術～</title>
+      <link>https://qiita.com/panda728z/items/b67e767e50745b865af2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+（長文になります。ご注意ください）
+私は幸いにも、いくつかのアプリケーションをリリースし
+
+動くものを作る
+
+という第一のハードルを越えることができました。
+
+しかし、真の課題はその後にありました。
+それは、障害対応や機能追加といった「運用」の中で発生する
+... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/panda728z/items/b67e767e50745b865af2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 21 Nov 2025 23:04:49 +0000</pubDate>
     </item>
     <item>
-      <title>イワタニ、カセットガス式の持ち運べる炊飯器 - 家電 Watch</title>
-      <link>https://kaden.watch.impress.co.jp/docs/news/2064857.html</link>
-      <description> (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://kaden.watch.impress.co.jp/docs/news/2064857.html</guid>
-      <pubDate>Thu, 20 Nov 2025 08:55:52 +0000</pubDate>
+      <title>ITベンダーの皆様、御社SaaSの導入を社内で止めていたのは、私です｜dx_note</title>
+      <link>https://note.com/posi7293/n/n369d55fe370e</link>
+      <description>はじめにITベンダーの皆様、申し訳ありません。 この数ヶ月、何社もの「進捗どうですか?」というメールに対して、「社内で検討中」と返信して進めておりませんでした。 御社の素晴らしいSaaSの導入を止めていた犯人は、私です。 言い訳をすると、今日は、いろいろな仕事に追われていた。 朝からDXのプロジェクトの進捗を... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/posi7293/n/n369d55fe370e</guid>
+      <pubDate>Sat, 22 Nov 2025 12:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>スマートフォンは誰のものか（八田真行） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/588a811d46e561e7931d9300d3b9ef2e7d9a3472</link>
+      <description>私たちはスマートフォンを「購入」したと思っている。しかし本当にそれを「所有」しているのだろうか。 現代社会において、スマートフォンはもはや単なる通信機器ではない。財布であり、身分証明書であり、コミュニケーションの手段であり、情報へのゲートウェイである。多くの人が一日の大半をこの画面の前で過ごす。し... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/588a811d46e561e7931d9300d3b9ef2e7d9a3472</guid>
+      <pubDate>Fri, 21 Nov 2025 03:19:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nano Banana Pro APIの新規機能は Gemini Web版で利用できるの！？ (Gemini 3 Pro Image)</title>
+      <link>https://zenn.dev/mohy_nyapan/articles/72ae3a8965a41c</link>
+      <description>!
+AIのはなしだけどAIでかいてないよ！
+Googleのマニュアルを少し試してみたよ
+
+
+ はじめに
+おひさしぶりです
+ちょっと備忘録的に書きます、全部マニュアルに記載のある内容です！
+ただ、自分用に残したかったので書きました
+今までのNanobananaが出来ることに関しては今回触れません（反響あったら書くかもですがｗ）
+マニュアルが主にAPIベースなので、
+Geminiやaistudioとは仕様が異なる可能性があることはご了承ください
+APIのマニュアルを元に、GeminiWeb版で確認できた項目は、各セクションに記載しています
+2025/11/21現在の情報です
+
+ NanoBa... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mohy_nyapan/articles/72ae3a8965a41c</guid>
+      <pubDate>Fri, 21 Nov 2025 16:21:10 +0000</pubDate>
     </item>
     <item>
       <title>AI駆動組み込み開発における「Rustの必然性」</title>
@@ -62,38 +90,11 @@ Rustは学習コストが高い言語として知られています。所有権�
       <pubDate>Fri, 21 Nov 2025 00:01:45 +0000</pubDate>
     </item>
     <item>
-      <title>Typescriptにするだけで型安全になると思ってはいけない</title>
-      <link>https://zenn.dev/takisato/articles/1a26aaa60ba2ba</link>
-      <description>はじめに
-「TypeScriptを使えば型安全なコードが書ける」
-多くの人はこんな期待を持って、コードを書き始めることでしょう。
-しかしそのコードは、「型」の恩恵を受けているでしょうか？
-例えば運動して痩せたいと思っている人を想像してみてください。「ジムに入会したから痩せるわ」と言われたらどうでしょう。
-その返しはあえて言いませんが、それと同じです。
-「Typescriptを使うだけ」で型安全になると思ってはいけません。
-この記事では、よくあるTypeScriptのアンチパターンと、それを段階的に改善していく方法を、具体的なコード例とともに紹介します。
-
- このコードの間違いは？
-ま... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/takisato/articles/1a26aaa60ba2ba</guid>
-      <pubDate>Wed, 19 Nov 2025 08:49:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>採取したキノコを撮影してAI判定　AIは“食べられる”と回答も…　実際は「毒キノコ」　和歌山市の70代男性が嘔吐の症状で一時入院　「AIや図鑑で自己判断するのは危険」市が注意呼びかけ（MBSニュース） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/da8fb346918e1d8bd3549d0c044a26c0aa939526</link>
-      <description>和歌山市生活保健課によると、同市在住の70代男性は11月3日、奈良県下北山村の山中でヒラタケやシイタケに似たキノコを採取。 翌4日、食べられるかどうかを植物園などに確認しようとしましたが、連絡がつながらなかったため、採取したキノコを自らの電子端末で撮影し、AI判定を行ったところ、AIは“シイタケかヒラタケで... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/da8fb346918e1d8bd3549d0c044a26c0aa939526</guid>
-      <pubDate>Fri, 21 Nov 2025 08:23:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>OSSに貢献するときの心得</title>
-      <link>https://zenn.dev/kyome/articles/1259c94ad576ca</link>
-      <description>私はOSSのアプリ/ライブラリの開発運営（オーナー）をしています[1]。世界中の多くの人がIssueを立ててくれたりPull Requestを立てて貢献（Contribute）してくれて嬉しい一方で、初コントリビュートでやり方を知らなかったり、我流が過ぎる方がおりオーナーとしてハンドリングに困ることも多々あります。そこで、OSSに貢献するときの基本的な心得を紹介します。
-
- Issue編
-IssueはPull Requestに比べて手軽にできる貢献の第一歩です。そのため大手のOSSだと膨大な量になりがちなので質の低いIssueは一生ハンドリングされないか時効が来たら閉じられてしまいます。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kyome/articles/1259c94ad576ca</guid>
-      <pubDate>Wed, 19 Nov 2025 13:00:10 +0000</pubDate>
+      <title>スライドホスティングサイトでの文字化けの悩みをさらに調べていたら、より良さそうな対処方法を発見した - kmuto’s blog</title>
+      <link>https://kmuto.hatenablog.com/entry/2025/11/23/111400</link>
+      <description>昨日はスライドホスティングサイトの文字化け・文字落ちの対処としてPDFの画像化・透明文字埋め込みの変換をするPDF Slide Guardを作っていた。 kmuto.hatenablog.com 「そもそも何でこの文字化けが起きるんだ？」と掘っていった結果、（少なくとも今対象にしているケースでは）QPDFで修復できることがわかった。 qpdf -... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://kmuto.hatenablog.com/entry/2025/11/23/111400</guid>
+      <pubDate>Sun, 23 Nov 2025 03:02:40 +0000</pubDate>
     </item>
     <item>
       <title>技術書典における宣伝と実際の売上について――書籍紹介でどれくらい売上が伸びるのか？</title>
@@ -106,13 +107,18 @@ IssueはPull Requestに比べて手軽にできる貢献の第一歩です。そ
       <pubDate>Fri, 21 Nov 2025 11:57:41 +0000</pubDate>
     </item>
     <item>
-      <title>なぜAIは会話を重ねると間違えるのか：マルチターン対話の落とし穴と実用化への示唆</title>
-      <link>https://zenn.dev/pksha/articles/6f38eac49db885</link>
+      <title>【ポエム】プログラミングスキルと同じように、AIデバッグスキルも必要になりそうだな、と感じた話</title>
+      <link>https://zenn.dev/sunagaku/articles/ai-debug-skill-needed</link>
       <description>はじめに
-こんにちは、PKSHA Technologyでアルゴリズムエンジニアをしている原田です。LLMの性能は、各種ベンチマークにおいて着実な向上を見せており、その能力の高さは客観的な指標によっても示されています。しかし、これらの指標が必ずしも実際のユースケースにおける性能と一致するとは限らない点は、AIを実用化する上で重要な視点です。
-その一例として、マルチターンでの対話が挙げられます。LLMの性能はシングルターンのベンチマークで議論されることが多い一方、マルチターンの評価手法はまだ十分に整備されていないのが実情です。ユースケースを見ても、ある程度決まったタスクの自動化などシング... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pksha/articles/6f38eac49db885</guid>
-      <pubDate>Fri, 21 Nov 2025 05:35:59 +0000</pubDate>
+僕は、普段から多くのAI活用のトップランナーの方々と仲良くさせて頂いていて、僕自身も AI の活用方法について発信したりしています。
+そんな中で、最近ふと感じたことがあります。それは、「AIデバッグスキル」の重要性です。
+プログラミングを学ぶ際、文法やデバッグ方法を学ぶことは大切です。
+同じように、AI を使いこなすためにも「なぜ上手く動かないのか？」を理解し、改善していくスキルが必要になるのではないか、と感じています。
+本記事では、僕自身の体験をもとに、AI 活用における「デバッグスキル」の重要性や、「AIとの向き合い方」について、お話しします。
+
+ AI活用における「練... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sunagaku/articles/ai-debug-skill-needed</guid>
+      <pubDate>Fri, 21 Nov 2025 23:43:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
