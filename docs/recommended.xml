@@ -7,94 +7,84 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Nov 2025 06:33:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 06:36:37 +0000</lastBuildDate>
     <item>
-      <title>AIに仕事を任せようとしたら、自分の仕事を言語化することになった｜honeshabri</title>
-      <link>https://note.com/honeshabri/n/nf0f2def2cdbf</link>
-      <description>日頃から仕事をAIにやらせられないかと試行錯誤しているわけだが、今回も学びがあった。書類の作成をNotionのAIエージェントに任せようとしたら、思いがけず「仕事の言語化」という別の価値を得ることになったのわけだ。 多分どこの会社でもやっているだろうが、弊社にも目標管理というのがある。俺が大っ嫌いなやつだ。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/honeshabri/n/nf0f2def2cdbf</guid>
-      <pubDate>Sat, 22 Nov 2025 04:22:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bedrock AgentCore で Remote MCP サーバーをホストする2つの方法の徹底検証</title>
-      <link>https://zenn.dev/aws_japan/articles/001-bedrock-agentcore-remote-mcp</link>
-      <description>はじめに
-初めまして！AWS Japan に 2025/10/1 に入社した AI/ML Specialist Solutions Architect の Kujirada です。
-2025 年、MCP は Agent と外部システムを接続し、Tool として利用するためのプロトコルとして急速に普及しています。エンタープライズ利用の需要に伴い、Local MCP から Remote MCP への移行が進んでいます。Remote MCP は、利用者自身での Local MCP サーバーの管理が不要になるため、広範なユーザーへのサービス提供を可能にします。
-AWS マネージドサービスを利... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/001-bedrock-agentcore-remote-mcp</guid>
-      <pubDate>Thu, 20 Nov 2025 22:46:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025年版・「関心の分離」実践ガイド　～単一責務の原則（SRP）から始める、システム開発の「痛み」を整頓する技術～</title>
-      <link>https://qiita.com/panda728z/items/b67e767e50745b865af2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-（長文になります。ご注意ください）
-私は幸いにも、いくつかのアプリケーションをリリースし
+      <title>Microsoft Ignite 2025しがない回想記　Keynote入れないのぉ？？~ネパール人に感謝して~</title>
+      <link>https://zenn.dev/kasada/articles/b89c69e66ff67d</link>
+      <description>こんにちは、しがない情シスことKaz Asadaです。今回は2025/11/18~21@サンフランシスコで開催されたMicrosoftの年次カンファレンスMicrosoft Ignite 2025に参加してきたので、その時の思い出を綴ります。来年もサンフランシスコでの開催とのこと、この記事が再び悲しむ人を生み出さないようになれば幸いです。
+!
+この記事はIgniteの中身よりKeynoteの参加までの珍道中を語っています。
 
-動くものを作る
-
-という第一のハードルを越えることができました。
-
-しかし、真の課題はその後にありました。
-それは、障害対応や機能追加といった「運用」の中で発生する
-... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/panda728z/items/b67e767e50745b865af2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 21 Nov 2025 23:04:49 +0000</pubDate>
+実は私、Igniteは3年連続３回目の参加です。2023年のシアトル、2024年シカゴ、と続いて今回のサンフランシスコです。
+Microsoft Igniteの目玉... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kasada/articles/b89c69e66ff67d</guid>
+      <pubDate>Sun, 23 Nov 2025 08:55:48 +0000</pubDate>
     </item>
     <item>
-      <title>ITベンダーの皆様、御社SaaSの導入を社内で止めていたのは、私です｜dx_note</title>
-      <link>https://note.com/posi7293/n/n369d55fe370e</link>
-      <description>はじめにITベンダーの皆様、申し訳ありません。 この数ヶ月、何社もの「進捗どうですか?」というメールに対して、「社内で検討中」と返信して進めておりませんでした。 御社の素晴らしいSaaSの導入を止めていた犯人は、私です。 言い訳をすると、今日は、いろいろな仕事に追われていた。 朝からDXのプロジェクトの進捗を... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/posi7293/n/n369d55fe370e</guid>
-      <pubDate>Sat, 22 Nov 2025 12:00:39 +0000</pubDate>
+      <title>おい、本を読め - じゃあ、おうちで学べる</title>
+      <link>https://syu-m-5151.hatenablog.com/entry/2025/11/24/043314</link>
+      <description>はじめに 深夜二時、ベッドの中でスマホの光に顔を照らされています。明日は仕事なのに眠れません。眠れないからタイムラインを開きます。フォローしている誰かが「今日読んだ本」について熱く語っています。別の誰かは朝五時起きでサービスだか英語の勉強だかを始めたらしいです。また別の誰かは副業で月10万稼いだと報... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://syu-m-5151.hatenablog.com/entry/2025/11/24/043314</guid>
+      <pubDate>Mon, 24 Nov 2025 00:13:43 +0000</pubDate>
     </item>
     <item>
-      <title>スマートフォンは誰のものか（八田真行） - エキスパート - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/expert/articles/588a811d46e561e7931d9300d3b9ef2e7d9a3472</link>
-      <description>私たちはスマートフォンを「購入」したと思っている。しかし本当にそれを「所有」しているのだろうか。 現代社会において、スマートフォンはもはや単なる通信機器ではない。財布であり、身分証明書であり、コミュニケーションの手段であり、情報へのゲートウェイである。多くの人が一日の大半をこの画面の前で過ごす。し... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/588a811d46e561e7931d9300d3b9ef2e7d9a3472</guid>
-      <pubDate>Fri, 21 Nov 2025 03:19:04 +0000</pubDate>
+      <title>aws loginコマンドが来たのでAWSのアクセスキーを削除したかったけど、やっぱり保留しました。</title>
+      <link>https://zenn.dev/ncdc/articles/153101d64b0175</link>
+      <description>はじめに AWS CLIにaws loginコマンドが実装されました。 このコマンドを使うとアクセスキーがなくてもAWS CLIを使用できます。つまりアクセスキーの発行が不要となるので、アクセスキーの漏洩という大きなセキュリティリスクを排除することが出来ます。 私の場合、仕事ではAWS IdCに移行済でアクセスキーは使っていない... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/153101d64b0175</guid>
+      <pubDate>Sat, 22 Nov 2025 15:57:46 +0000</pubDate>
     </item>
     <item>
-      <title>Nano Banana Pro APIの新規機能は Gemini Web版で利用できるの！？ (Gemini 3 Pro Image)</title>
-      <link>https://zenn.dev/mohy_nyapan/articles/72ae3a8965a41c</link>
+      <title>新卒3ヶ月目で共通基盤の0→1を任されて学んだ『アウトカム思考』の大切さ</title>
+      <link>https://zenn.dev/loglass/articles/2025-newcomer</link>
       <description>!
-AIのはなしだけどAIでかいてないよ！
-Googleのマニュアルを少し試してみたよ
+この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の118週目の記事です！
+3年間連続達成まで残り41週となりました！
 
 
  はじめに
-おひさしぶりです
-ちょっと備忘録的に書きます、全部マニュアルに記載のある内容です！
-ただ、自分用に残したかったので書きました
-今までのNanobananaが出来ることに関しては今回触れません（反響あったら書くかもですがｗ）
-マニュアルが主にAPIベースなので、
-Geminiやaistudioとは仕様が異なる可能性があることはご了承ください
-APIのマニュアルを元に、GeminiWeb版で確認できた項目は、各セクションに記載しています
-2025/11/21現在の情報です
+今年の4月に新卒でログラスにエンジニアとして入社したカワサキです。
+ログラスに入社して3ヶ月目から共通基盤プロジェクトの立ち上げの開発に携わり、エンジニアとしてアプリケーション部分の開発全般を行いました。入社してすぐにコードをたくさん書くことが出来るプロダクト開発に携わる機会をいただき、その中で学んだことをまとめました。
 
- NanoBa... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mohy_nyapan/articles/72ae3a8965a41c</guid>
-      <pubDate>Fri, 21 Nov 2025 16:21:10 +0000</pubDate>
+ 取り組んだこと
+この記事では具体的な技術スタックの細かい説明には踏み込みませんが、前... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/loglass/articles/2025-newcomer</guid>
+      <pubDate>Fri, 21 Nov 2025 08:03:08 +0000</pubDate>
     </item>
     <item>
-      <title>AI駆動組み込み開発における「Rustの必然性」</title>
-      <link>https://zenn.dev/kokimu/articles/7bb7f9f3896bb4</link>
-      <description>AI駆動組み込み開発における「Rustの必然性」
-
- はじめに
-Rustは学習コストが高い言語として知られています。所有権、ライフタイム、借用チェッカーといった独特な概念は、C言語やPythonから移行するエンジニアにとって大きな壁となってきました。しかし、AIエージェント(Claude Code、Gemini、Codexなど)を活用した開発という視点から見ると、この評価は大きく変わります。
-本記事では、AIエージェントと協働する開発環境において、Rustが持つ独自の優位性について、具体的なコード例とコンパイル結果を示しながら解説します。特に、Rustコンパイラの厳格な型システムとエ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kokimu/articles/7bb7f9f3896bb4</guid>
-      <pubDate>Fri, 21 Nov 2025 00:01:45 +0000</pubDate>
+      <title>【備忘録】アーキテクチャConference 2025 で 学びと気づきが得られすぎたので、共有したい...</title>
+      <link>https://zenn.dev/sunagaku/articles/architecture-conference-2025</link>
+      <description>はじめに
+昨日、一昨日にかけて開催された、アーキテクチャConferenceに参加してきました。
+本イベントを通じて、自分自身がまだ足りていないスキルを明確にできたり、今の企業が直面している課題、そしてそれをどのように解決していくかのヒントを得ることができました。
+まだ完全に理解できたわけではありませんが、非常に多くのことを学ばせていただきました。
+本記事では、カンファレンスで得られた学びを自分自身の備忘録として残すとともに、参加できなかった方々にもその内容を共有したいと思い作成しました。
+各セッションから得られた気づきを自分なりにまとめてみましたので、ご覧いただけると嬉しいです。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sunagaku/articles/architecture-conference-2025</guid>
+      <pubDate>Sat, 22 Nov 2025 05:38:21 +0000</pubDate>
     </item>
     <item>
-      <title>スライドホスティングサイトでの文字化けの悩みをさらに調べていたら、より良さそうな対処方法を発見した - kmuto’s blog</title>
-      <link>https://kmuto.hatenablog.com/entry/2025/11/23/111400</link>
-      <description>昨日はスライドホスティングサイトの文字化け・文字落ちの対処としてPDFの画像化・透明文字埋め込みの変換をするPDF Slide Guardを作っていた。 kmuto.hatenablog.com 「そもそも何でこの文字化けが起きるんだ？」と掘っていった結果、（少なくとも今対象にしているケースでは）QPDFで修復できることがわかった。 qpdf -... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://kmuto.hatenablog.com/entry/2025/11/23/111400</guid>
-      <pubDate>Sun, 23 Nov 2025 03:02:40 +0000</pubDate>
+      <title>外交映像のミーム動画化 ― SNS・AIが広げる外交情報空間と「揺さぶりが効かない日本社会」（佐藤仁） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/5a2b098afb76c05cdb514bc58e2cf599b141b9ed</link>
+      <description>日本の金井正彰アジア大洋州局長は北京を訪れ、中国外交部の劉勁松アジア局長と協議を行った。本会談は、台湾有事に関する高市早苗首相の国会答弁を受け、両国の立場を相互に確認し、今後の外交的見通しを整理する重要な位置づけにあった。協議の場で日本側は、中国の薛剣・駐大阪総領事によるSNS投稿を問題視し、正式に... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/5a2b098afb76c05cdb514bc58e2cf599b141b9ed</guid>
+      <pubDate>Sat, 22 Nov 2025 22:11:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rust でローカルにできる限りにセキュアに保存</title>
+      <link>https://zenn.dev/nodamushi/articles/7189de6df51938</link>
+      <description>Rust で他人に抜かれたらまずいデータをローカルに保存したいときにどうするか、ちょっと調べたり考えたりしたまとめ。
+主にこの記事では暗号化する鍵（OsRnd とか使った 自動生成の鍵 を想定）の扱い方をローカルでどうするかです。暗号化方法については適宜選べばよいでしょう。ChaCha20Poly1305 あたりで十分かと個人的には思います。
+クラウドを使えやクソデブって？うん、それでいいんじゃない？
+!
+私はセキュリティの専門家ではないので、鵜呑みにせずにご自身で考えてください。
+
+
+ keyring
+keyring クレートを使うと、 OS 固有の安全なストアに統一的にアクセスする方... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nodamushi/articles/7189de6df51938</guid>
+      <pubDate>Sun, 23 Nov 2025 09:47:38 +0000</pubDate>
     </item>
     <item>
       <title>技術書典における宣伝と実際の売上について――書籍紹介でどれくらい売上が伸びるのか？</title>
@@ -107,18 +97,36 @@ Rustは学習コストが高い言語として知られています。所有権�
       <pubDate>Fri, 21 Nov 2025 11:57:41 +0000</pubDate>
     </item>
     <item>
-      <title>【ポエム】プログラミングスキルと同じように、AIデバッグスキルも必要になりそうだな、と感じた話</title>
-      <link>https://zenn.dev/sunagaku/articles/ai-debug-skill-needed</link>
+      <title>AIを駆使して2D図面画像を2DCAD(ベクター)化する</title>
+      <link>https://zenn.dev/firstautomation/articles/36e4d5e3455f52</link>
       <description>はじめに
-僕は、普段から多くのAI活用のトップランナーの方々と仲良くさせて頂いていて、僕自身も AI の活用方法について発信したりしています。
-そんな中で、最近ふと感じたことがあります。それは、「AIデバッグスキル」の重要性です。
-プログラミングを学ぶ際、文法やデバッグ方法を学ぶことは大切です。
-同じように、AI を使いこなすためにも「なぜ上手く動かないのか？」を理解し、改善していくスキルが必要になるのではないか、と感じています。
-本記事では、僕自身の体験をもとに、AI 活用における「デバッグスキル」の重要性や、「AIとの向き合い方」について、お話しします。
+株式会社ファースト・オートメーションCTOの田中(しろくま)です！
+今回は以下のような2D図面画像の分析の難しさと生成AIの発展によってそれが少しずつ解けるようになってきているという話をしたいと思います。
 
- AI活用における「練... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sunagaku/articles/ai-debug-skill-needed</guid>
-      <pubDate>Fri, 21 Nov 2025 23:43:48 +0000</pubDate>
+
+ 解きたい問題
+我々が製造業と関わる中で、なかなか最新のAIを持ってしても解くのが難しいと思っている問題が2D図面の画像解析です。
+2D図面の画像を正確に解析できるようになることで、以下のような応用ができるようになります。
+
+2次元的に投影された図から3次元的なモデルの復元
+図面に描かれた物体の加工手順の生成
+寸法の抜けや図面のミスなどのチェック
+過去設計した類似形状... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/firstautomation/articles/36e4d5e3455f52</guid>
+      <pubDate>Sun, 23 Nov 2025 05:08:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Google Antigravity】話題のAI IDEを使って、家庭菜園シミュレータを1日で爆誕させた話</title>
+      <link>https://zenn.dev/acorn181/articles/2186869ff32265</link>
+      <description>はじめに
+先日発表されたGoogleの新しいエージェント型開発環境「Antigravity」。
+「コードを書くのではなく、Agentを管理する」という新しいパラダイムを提唱するこのツールを使って、 1日で本格的な「家庭菜園シミュレータ（Garden Planner）」 を開発しました。
+結論から言うと、 「詳細な仕様さえ渡せば、実装コストはほぼゼロになる」 という衝撃的な体験でした。
+この記事では、実際にAntigravityに投げたプロンプト（指示書）の内容と、それによって生成されたコードの品質、そして開発体験のリアルなログを共有します。
+
+ 作ったもの：Garden Planne... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acorn181/articles/2186869ff32265</guid>
+      <pubDate>Sun, 23 Nov 2025 08:41:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
