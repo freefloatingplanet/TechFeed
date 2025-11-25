@@ -7,13 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Nov 2025 06:36:41 +0000</lastBuildDate>
-    <item>
-      <title>マルチチャネルイメージングのためのスパース専門家混合: すべてのチャネルの相互作用は必須ですか?</title>
-      <link>https://arxiv.org/abs/2511.17400v1</link>
-      <description>ビジョントランスフォーマー（ViTs）は視覚基盤モデルのバックボーンとなっていますが、細胞画や衛星画像といったマルチチャネル領域への最適化は未だ十分に研究されていません。これらの領域における重要な課題は、各チャネルが異なる情報を運ぶため、チャネル間の相互作用を捉えることです。既存の研究では、トークン化の際に各チャネルを独立して扱うことで有効性を示してきましたが、このアプローチは当然のことながら、アテンションブロックに大きな計算ボトルネックをもたらします。チャネルごとの比較はアテンションの2乗増加につながり、過剰な$\text{FLOPs}$と高いトレーニングコストにつながります。本研究では、有効性から、クロスチャネルアテンションにおける見過ごされてきた効率性の課題に焦点を移し、「すべてのチャネルの相互作用をモデル化する必要があるのか？」という問いを投げかけます。スパースMixture-of-Experts（$\text{MoE}$）の哲学に着想を得て、$\text{ViTs}$におけるマルチチャンネル画像のためのMixture-of-ExpertsアーキテクチャであるMoE-ViTを提 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.17400v1</guid>
-      <pubDate>Fri, 21 Nov 2025 17:00:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Nov 2025 06:38:18 +0000</lastBuildDate>
   </channel>
 </rss>

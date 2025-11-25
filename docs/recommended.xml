@@ -7,69 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Nov 2025 06:36:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 06:37:31 +0000</lastBuildDate>
     <item>
-      <title>Microsoft Ignite 2025しがない回想記　Keynote入れないのぉ？？~ネパール人に感謝して~</title>
-      <link>https://zenn.dev/kasada/articles/b89c69e66ff67d</link>
-      <description>こんにちは、しがない情シスことKaz Asadaです。今回は2025/11/18~21@サンフランシスコで開催されたMicrosoftの年次カンファレンスMicrosoft Ignite 2025に参加してきたので、その時の思い出を綴ります。来年もサンフランシスコでの開催とのこと、この記事が再び悲しむ人を生み出さないようになれば幸いです。
-!
-この記事はIgniteの中身よりKeynoteの参加までの珍道中を語っています。
-
-実は私、Igniteは3年連続３回目の参加です。2023年のシアトル、2024年シカゴ、と続いて今回のサンフランシスコです。
-Microsoft Igniteの目玉... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kasada/articles/b89c69e66ff67d</guid>
-      <pubDate>Sun, 23 Nov 2025 08:55:48 +0000</pubDate>
+      <title>営業にアジャイルをどう理解してもらったのか？ ダイキン工業の内製化チームの試み - Agile Journey</title>
+      <link>https://agilejourney.uzabase.com/entry/2025/11/25/103000</link>
+      <description>ダイキン工業では2021年から、有志が集い、アジャイル開発によるソフトウェアの内製化に取り組み始めました。営業部門をステークホルダーとしたスクラムによる開発体制を作り、事業価値を提供するためプロダクトの改善を繰り返してきました。 しかし、本来一つのチームであるはずのスクラムの中で、営業側から開発チーム... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://agilejourney.uzabase.com/entry/2025/11/25/103000</guid>
+      <pubDate>Tue, 25 Nov 2025 02:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>おい、本を読め - じゃあ、おうちで学べる</title>
-      <link>https://syu-m-5151.hatenablog.com/entry/2025/11/24/043314</link>
-      <description>はじめに 深夜二時、ベッドの中でスマホの光に顔を照らされています。明日は仕事なのに眠れません。眠れないからタイムラインを開きます。フォローしている誰かが「今日読んだ本」について熱く語っています。別の誰かは朝五時起きでサービスだか英語の勉強だかを始めたらしいです。また別の誰かは副業で月10万稼いだと報... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://syu-m-5151.hatenablog.com/entry/2025/11/24/043314</guid>
-      <pubDate>Mon, 24 Nov 2025 00:13:43 +0000</pubDate>
+      <title>gpt‑oss量子化モデルは実用的？RTX 3060で限界チャレンジ</title>
+      <link>https://zenn.dev/dxc_ai_driven/articles/ac66ba708120eb</link>
+      <description>はじめに
+ChatGPT や Claude、Gemini などの大規模言語モデル（LLM）はクラウド上で動かすのが一般的です。
+しかし最近、gpt‑oss という、ローカルでも動かせるオープンソースのLLMが公開されました。
+これは、商用利用も可能な「オープンウェイトモデル」であり、
+学習済みの重み（ウェイト）が公開されているため、PCのスペックに合った重みのモデルをダウンロードすることで、誰でもローカル環境でLLMを動かすことができます。
+実際に gpt‑oss‑20B（Q8_0） をRTX 3060（VRAM 12GB）で動かし、精度・速度・メモリ使用量を検証しました。
+
+
+ g... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dxc_ai_driven/articles/ac66ba708120eb</guid>
+      <pubDate>Mon, 24 Nov 2025 11:50:57 +0000</pubDate>
     </item>
     <item>
       <title>aws loginコマンドが来たのでAWSのアクセスキーを削除したかったけど、やっぱり保留しました。</title>
       <link>https://zenn.dev/ncdc/articles/153101d64b0175</link>
-      <description>はじめに AWS CLIにaws loginコマンドが実装されました。 このコマンドを使うとアクセスキーがなくてもAWS CLIを使用できます。つまりアクセスキーの発行が不要となるので、アクセスキーの漏洩という大きなセキュリティリスクを排除することが出来ます。 私の場合、仕事ではAWS IdCに移行済でアクセスキーは使っていない... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/153101d64b0175</guid>
-      <pubDate>Sat, 22 Nov 2025 15:57:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>新卒3ヶ月目で共通基盤の0→1を任されて学んだ『アウトカム思考』の大切さ</title>
-      <link>https://zenn.dev/loglass/articles/2025-newcomer</link>
-      <description>!
-この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の118週目の記事です！
-3年間連続達成まで残り41週となりました！
-
-
- はじめに
-今年の4月に新卒でログラスにエンジニアとして入社したカワサキです。
-ログラスに入社して3ヶ月目から共通基盤プロジェクトの立ち上げの開発に携わり、エンジニアとしてアプリケーション部分の開発全般を行いました。入社してすぐにコードをたくさん書くことが出来るプロダクト開発に携わる機会をいただき、その中で学んだことをまとめました。
-
- 取り組んだこと
-この記事では具体的な技術スタックの細かい説明には踏み込みませんが、前... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/loglass/articles/2025-newcomer</guid>
-      <pubDate>Fri, 21 Nov 2025 08:03:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>【備忘録】アーキテクチャConference 2025 で 学びと気づきが得られすぎたので、共有したい...</title>
-      <link>https://zenn.dev/sunagaku/articles/architecture-conference-2025</link>
       <description>はじめに
-昨日、一昨日にかけて開催された、アーキテクチャConferenceに参加してきました。
-本イベントを通じて、自分自身がまだ足りていないスキルを明確にできたり、今の企業が直面している課題、そしてそれをどのように解決していくかのヒントを得ることができました。
-まだ完全に理解できたわけではありませんが、非常に多くのことを学ばせていただきました。
-本記事では、カンファレンスで得られた学びを自分自身の備忘録として残すとともに、参加できなかった方々にもその内容を共有したいと思い作成しました。
-各セッションから得られた気づきを自分なりにまとめてみましたので、ご覧いただけると嬉しいです。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sunagaku/articles/architecture-conference-2025</guid>
-      <pubDate>Sat, 22 Nov 2025 05:38:21 +0000</pubDate>
+AWS CLIにaws loginコマンドが実装されました。
+https://aws.amazon.com/jp/blogs/security/simplified-developer-access-to-aws-with-aws-login/
+このコマンドを使うとアクセスキーがなくてもAWS CLIを使用できます。つまりアクセスキーの発行が不要となるので、アクセスキーの漏洩という大きなセキュリティリスクを排除することが出来ます。
+私の場合、仕事ではAWS IdCに移行済でアクセスキーは使っていないので影響はないかなと思ったのですが、よく考えたら個人用のAWSアカウントは普... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/153101d64b0175</guid>
+      <pubDate>Sat, 22 Nov 2025 03:14:00 +0000</pubDate>
     </item>
     <item>
-      <title>外交映像のミーム動画化 ― SNS・AIが広げる外交情報空間と「揺さぶりが効かない日本社会」（佐藤仁） - エキスパート - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/expert/articles/5a2b098afb76c05cdb514bc58e2cf599b141b9ed</link>
-      <description>日本の金井正彰アジア大洋州局長は北京を訪れ、中国外交部の劉勁松アジア局長と協議を行った。本会談は、台湾有事に関する高市早苗首相の国会答弁を受け、両国の立場を相互に確認し、今後の外交的見通しを整理する重要な位置づけにあった。協議の場で日本側は、中国の薛剣・駐大阪総領事によるSNS投稿を問題視し、正式に... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/5a2b098afb76c05cdb514bc58e2cf599b141b9ed</guid>
-      <pubDate>Sat, 22 Nov 2025 22:11:35 +0000</pubDate>
+      <title>AWS CodeCommitがGAに完全復帰。新規アカウントでのリポジトリ作成を検証してみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/aws-codecommit-returns-to-ga/</link>
+      <description>AWSは2024年のCodeCommitの非推奨化を撤回し、GAへの完全復帰を発表しました。本記事では、制限期間中に開設したAWS環境を利用して、CodeCommitのリポジトリ作成が可能な事を試してみました。 2025年11月24日、AWSは以前「非推奨化（De-emphasis）」の方針を発表していたAWS CodeCommitについて、General Availability（... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://dev.classmethod.jp/articles/aws-codecommit-returns-to-ga/</guid>
+      <pubDate>Mon, 24 Nov 2025 23:37:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>「脳を覆う電極シート」、香港チームが開発　数ミリの穴から挿入し展開　ビーグル犬で検証、術後1日で退院</title>
+      <link>https://www.itmedia.co.jp/news/articles/2511/25/news030.html</link>
+      <description>従来、ブレイン・コンピュータ・インタフェース（BCI）に必要な電極デバイスは頭蓋骨を大きく開く埋め込み手術が必要だったが、今回開発されたガイドワイヤ駆動型BCIは、わずか4～8mmの穴から挿入できるという。 このデバイスは、厚さ21μmの極薄フィルム電極アレイ。2cm四方の面積に256個の電極を配置したこのデバイスは... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2511/25/news030.html</guid>
+      <pubDate>Tue, 25 Nov 2025 00:25:02 +0000</pubDate>
     </item>
     <item>
       <title>Rust でローカルにできる限りにセキュアに保存</title>
@@ -87,14 +71,26 @@ keyring クレートを使うと、 OS 固有の安全なストアに統一的�
       <pubDate>Sun, 23 Nov 2025 09:47:38 +0000</pubDate>
     </item>
     <item>
-      <title>技術書典における宣伝と実際の売上について――書籍紹介でどれくらい売上が伸びるのか？</title>
-      <link>https://qiita.com/dtak/items/8b3a4abc94d16497b991?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>これまでのあらすじ
-技術書典19に出展したけど、全然売れない。悲しみの投稿
+      <title>AIファーストなドキュメント戦略 - DocCommentにユビキタス言語を書くだけのシンプルなアプローチ</title>
+      <link>https://zenn.dev/k9i/articles/20251124_doccomment</link>
+      <description>AIコーディング、特にClaude CodeやCursorのようなツールの普及に伴い、「AIにいかに正確なコンテキストを与えるか」が開発者の最大の関心事になっています。
+その中で現在、 SDD（Spec Driven Development）的なアプローチ——つまり、詳細な仕様書をAIに書かせ、それこそが正としてメンテナンスを続ける手法——が注目されています。しかし、私は実務での経験を通じて、「仕様書を充実させるよりも、コード内のDocCommentを充実させるシンプルなアプローチこそが、AIファーストな開発なのでは？」 という考えに至りました。
+SDD自体賛否あるアプローチで、好意的な... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/k9i/articles/20251124_doccomment</guid>
+      <pubDate>Mon, 24 Nov 2025 04:27:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>ポエム：LLM時代のライブラリ設計、LLMが書きやすいものにした方が良いので泣く泣く方針転換した</title>
+      <link>https://zenn.dev/jtechjapan_pub/articles/c11c81bae36746</link>
+      <description>本当は、今でもRailway Oriented Programmingで書きたい
+!
+注:この記事は筆者の考えを書き出したものをLLMを使って編集してまとめ上げています。
 
-をしたのが11月19日23時頃。特に反応もなく、「誰もお前を愛さない」状態になる。翌日は、いつもの愚にも付かない伝言ゲームをして(それを世の中では仕事というらしい)、帰宅。そうしてSNSを開... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/dtak/items/8b3a4abc94d16497b991?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 21 Nov 2025 11:57:41 +0000</pubDate>
+株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。
+私は Railway Oriented Programming が好きで、C#で実現するために ResultBox というライブラリを作り、自社のイベントソーシングライブラリ Sekiban にも組み込んできました。自分がメインで作る小さなプロジェクトでは問題なく機能していましたが、チーム開発とLLM時代の到来により、方針転換を決断しました。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/jtechjapan_pub/articles/c11c81bae36746</guid>
+      <pubDate>Sun, 23 Nov 2025 11:39:08 +0000</pubDate>
     </item>
     <item>
       <title>AIを駆使して2D図面画像を2DCAD(ベクター)化する</title>
