@@ -7,6 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Nov 2025 06:38:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 06:36:47 +0000</lastBuildDate>
+    <item>
+      <title>MSTN: 高速かつ効率的な多変量時系列モデル</title>
+      <link>https://arxiv.org/abs/2511.20577v1</link>
+      <description>現実世界の時系列データは、急速で短期的な変化から緩やかな長期的傾向まで、複数の時間スケールにわたって作用する、高度に非定常で複雑なダイナミクスを備えています。既存のモデルのほとんどは、パッチベースのトークン化、固定周波数変換、固定バックボーンアーキテクチャなど、固定スケールの構造事前分布に依存しています。これは多くの場合、時間的ダイナミクスの過剰な正則化につながり、時間的変動の全スペクトルを適応的にモデル化する能力が制限され、予測不可能で突発的な大規模イベントに対するパフォーマンスが低下します。この問題を解決するために、階層型マルチスケールおよびシーケンスモデリング原理に基づく新しいディープラーニングアーキテクチャであるマルチスケール時間ネットワーク（MSTN）を導入します。MSTNフレームワークは、（i）ローカルパターンの階層的特徴ピラミッドを構築するマルチスケール畳み込みエンコーダ、（ii）長距離の時間依存性のシーケンスモデリングコンポーネントを統合しています。これを BiLSTM および Transformer のバリアントで経験的に検証し、将来のアーキテクチャの進歩のための柔軟 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.20577v1</guid>
+      <pubDate>Tue, 25 Nov 2025 18:09:42 +0000</pubDate>
+    </item>
   </channel>
 </rss>

@@ -7,68 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Nov 2025 06:37:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 06:36:43 +0000</lastBuildDate>
     <item>
-      <title>営業にアジャイルをどう理解してもらったのか？ ダイキン工業の内製化チームの試み - Agile Journey</title>
-      <link>https://agilejourney.uzabase.com/entry/2025/11/25/103000</link>
-      <description>ダイキン工業では2021年から、有志が集い、アジャイル開発によるソフトウェアの内製化に取り組み始めました。営業部門をステークホルダーとしたスクラムによる開発体制を作り、事業価値を提供するためプロダクトの改善を繰り返してきました。 しかし、本来一つのチームであるはずのスクラムの中で、営業側から開発チーム... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://agilejourney.uzabase.com/entry/2025/11/25/103000</guid>
-      <pubDate>Tue, 25 Nov 2025 02:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>gpt‑oss量子化モデルは実用的？RTX 3060で限界チャレンジ</title>
-      <link>https://zenn.dev/dxc_ai_driven/articles/ac66ba708120eb</link>
+      <title>やるべきリファクタを見極め、1ヶ月でやりきれた理由</title>
+      <link>https://zenn.dev/studio/articles/refactoring-validation-process</link>
       <description>はじめに
-ChatGPT や Claude、Gemini などの大規模言語モデル（LLM）はクラウド上で動かすのが一般的です。
-しかし最近、gpt‑oss という、ローカルでも動かせるオープンソースのLLMが公開されました。
-これは、商用利用も可能な「オープンウェイトモデル」であり、
-学習済みの重み（ウェイト）が公開されているため、PCのスペックに合った重みのモデルをダウンロードすることで、誰でもローカル環境でLLMを動かすことができます。
-実際に gpt‑oss‑20B（Q8_0） をRTX 3060（VRAM 12GB）で動かし、精度・速度・メモリ使用量を検証しました。
-
-
- g... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dxc_ai_driven/articles/ac66ba708120eb</guid>
-      <pubDate>Mon, 24 Nov 2025 11:50:57 +0000</pubDate>
+この間、Studioでエディタの大幅な高速化をリリースしました。
+https://studio.design/ja/whats-new/editor-speed-up
+これは開発初期からの設計を見直して実現したものです。確実に改善につながると確信できるものでしたが、コア機能に大きく手を入れる必要がありました。
+リファクタリングは、多くの技術記事でも意見が分かれるテーマです。原則論では肯定的に語られる一方、実践論では「そのリファクタ、今やるか？見送るか？」という判断基準の重要性が強調されています。
+この記事では、どうやってリファクタを見極め、どうやって組織を動かし、どうやって... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/studio/articles/refactoring-validation-process</guid>
+      <pubDate>Mon, 24 Nov 2025 14:10:04 +0000</pubDate>
     </item>
     <item>
-      <title>aws loginコマンドが来たのでAWSのアクセスキーを削除したかったけど、やっぱり保留しました。</title>
-      <link>https://zenn.dev/ncdc/articles/153101d64b0175</link>
-      <description>はじめに
-AWS CLIにaws loginコマンドが実装されました。
-https://aws.amazon.com/jp/blogs/security/simplified-developer-access-to-aws-with-aws-login/
-このコマンドを使うとアクセスキーがなくてもAWS CLIを使用できます。つまりアクセスキーの発行が不要となるので、アクセスキーの漏洩という大きなセキュリティリスクを排除することが出来ます。
-私の場合、仕事ではAWS IdCに移行済でアクセスキーは使っていないので影響はないかなと思ったのですが、よく考えたら個人用のAWSアカウントは普... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/153101d64b0175</guid>
-      <pubDate>Sat, 22 Nov 2025 03:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS CodeCommitがGAに完全復帰。新規アカウントでのリポジトリ作成を検証してみた | DevelopersIO</title>
-      <link>https://dev.classmethod.jp/articles/aws-codecommit-returns-to-ga/</link>
-      <description>AWSは2024年のCodeCommitの非推奨化を撤回し、GAへの完全復帰を発表しました。本記事では、制限期間中に開設したAWS環境を利用して、CodeCommitのリポジトリ作成が可能な事を試してみました。 2025年11月24日、AWSは以前「非推奨化（De-emphasis）」の方針を発表していたAWS CodeCommitについて、General Availability（... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/aws-codecommit-returns-to-ga/</guid>
-      <pubDate>Mon, 24 Nov 2025 23:37:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>「脳を覆う電極シート」、香港チームが開発　数ミリの穴から挿入し展開　ビーグル犬で検証、術後1日で退院</title>
-      <link>https://www.itmedia.co.jp/news/articles/2511/25/news030.html</link>
-      <description>従来、ブレイン・コンピュータ・インタフェース（BCI）に必要な電極デバイスは頭蓋骨を大きく開く埋め込み手術が必要だったが、今回開発されたガイドワイヤ駆動型BCIは、わずか4～8mmの穴から挿入できるという。 このデバイスは、厚さ21μmの極薄フィルム電極アレイ。2cm四方の面積に256個の電極を配置したこのデバイスは... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2511/25/news030.html</guid>
-      <pubDate>Tue, 25 Nov 2025 00:25:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rust でローカルにできる限りにセキュアに保存</title>
-      <link>https://zenn.dev/nodamushi/articles/7189de6df51938</link>
-      <description>Rust で他人に抜かれたらまずいデータをローカルに保存したいときにどうするか、ちょっと調べたり考えたりしたまとめ。
-主にこの記事では暗号化する鍵（OsRnd とか使った 自動生成の鍵 を想定）の扱い方をローカルでどうするかです。暗号化方法については適宜選べばよいでしょう。ChaCha20Poly1305 あたりで十分かと個人的には思います。
-クラウドを使えやクソデブって？うん、それでいいんじゃない？
-!
-私はセキュリティの専門家ではないので、鵜呑みにせずにご自身で考えてください。
-
-
- keyring
-keyring クレートを使うと、 OS 固有の安全なストアに統一的にアクセスする方... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nodamushi/articles/7189de6df51938</guid>
-      <pubDate>Sun, 23 Nov 2025 09:47:38 +0000</pubDate>
+      <title>【海外記事紹介】Rustにはガッカリしている</title>
+      <link>https://techfeed.io/entries/69261dbc2020c64b2242f9eb</link>
+      <description>11月24日、bykozyが「Blog - Rust is a disappointment」と題した記事を公開した。この記事では、Rustが期待されてきた「C++の後継候補」としての役割を十分に果たしていないのではないかという問題提起を行い、とくにコンパイル速度の遅さ、言語としての複雑さ、メモリ安全性と信頼性のトレードオフ、可変共有状態の扱... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/69261dbc2020c64b2242f9eb</guid>
+      <pubDate>Tue, 25 Nov 2025 21:21:47 +0000</pubDate>
     </item>
     <item>
       <title>AIファーストなドキュメント戦略 - DocCommentにユビキタス言語を書くだけのシンプルなアプローチ</title>
@@ -78,6 +35,21 @@ keyring クレートを使うと、 OS 固有の安全なストアに統一的�
 SDD自体賛否あるアプローチで、好意的な... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/k9i/articles/20251124_doccomment</guid>
       <pubDate>Mon, 24 Nov 2025 04:27:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>【ポエム】AIに対してやってることって、みんなが嫌ってるマネジメントと同じじゃね？</title>
+      <link>https://zenn.dev/gen_shun/articles/a58517dab3f48d</link>
+      <description>こんにちは！ゲンシュンです。
+この記事は半年前にtwitterに溜め込んでた下書きツイートを雑にまとめたポエム集で、この記事から得られる学びはないと思います笑。
+
+ 背景
+ここ最近はCopilot、Claude、ChatGPTなど複数のAIツールを駆使して、開発・調査・壁打ちなどやっています。ある日Cloud Codeのアウトプットがあまりにも期待と全然違ったので、今まで以上にすごーく丁寧に指示をしたんですよ。でもなんか筋が違うし、最終的には虚偽のアウトプットをしてきたんですよね。
+
+何度も何度も丁寧に指示しても、ずっと虚偽の報告をされ続け...
+
+こんな虚偽の報告されたの初めてだったの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/gen_shun/articles/a58517dab3f48d</guid>
+      <pubDate>Mon, 24 Nov 2025 08:00:01 +0000</pubDate>
     </item>
     <item>
       <title>ポエム：LLM時代のライブラリ設計、LLMが書きやすいものにした方が良いので泣く泣く方針転換した</title>
@@ -93,25 +65,6 @@ SDD自体賛否あるアプローチで、好意的な... (source: Zennのトレ
       <pubDate>Sun, 23 Nov 2025 11:39:08 +0000</pubDate>
     </item>
     <item>
-      <title>AIを駆使して2D図面画像を2DCAD(ベクター)化する</title>
-      <link>https://zenn.dev/firstautomation/articles/36e4d5e3455f52</link>
-      <description>はじめに
-株式会社ファースト・オートメーションCTOの田中(しろくま)です！
-今回は以下のような2D図面画像の分析の難しさと生成AIの発展によってそれが少しずつ解けるようになってきているという話をしたいと思います。
-
-
- 解きたい問題
-我々が製造業と関わる中で、なかなか最新のAIを持ってしても解くのが難しいと思っている問題が2D図面の画像解析です。
-2D図面の画像を正確に解析できるようになることで、以下のような応用ができるようになります。
-
-2次元的に投影された図から3次元的なモデルの復元
-図面に描かれた物体の加工手順の生成
-寸法の抜けや図面のミスなどのチェック
-過去設計した類似形状... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/firstautomation/articles/36e4d5e3455f52</guid>
-      <pubDate>Sun, 23 Nov 2025 05:08:28 +0000</pubDate>
-    </item>
-    <item>
       <title>【Google Antigravity】話題のAI IDEを使って、家庭菜園シミュレータを1日で爆誕させた話</title>
       <link>https://zenn.dev/acorn181/articles/2186869ff32265</link>
       <description>はじめに
@@ -123,6 +76,47 @@ SDD自体賛否あるアプローチで、好意的な... (source: Zennのトレ
  作ったもの：Garden Planne... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/acorn181/articles/2186869ff32265</guid>
       <pubDate>Sun, 23 Nov 2025 08:41:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】Rustにはガッカリしている</title>
+      <link>https://techfeed.io/entries/69261dbc2020c64b2242f9eb?from=rss</link>
+      <description>11月24日、bykozyが「Blog - Rust is a disappointment」と題した記事を公開した。この記事では、Rustが期待されてきた「C++の後継候補」としての役割を十分に果たしていないのではないかという問題提起を行い、とくにコンパイル速度の遅さ、言語としての複雑さ、メモリ安全性と信頼性のトレードオフ、可変共有状態の扱いにおける限界について詳しく紹介している。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/69261dbc2020c64b2242f9eb?from=rss</guid>
+      <pubDate>Tue, 25 Nov 2025 21:20:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>QAとSREが統合したQualityチームの挑戦</title>
+      <link>https://zenn.dev/luup_developers/articles/sre-gr1m0h-20251125</link>
+      <description>はじめに
+Luupに所属している、ぐりもお（@gr1m0h）です。
+2025年7月、私が所属していたInfra/SREチームとQAチームが統合し、新たにQualityチームが発足しました。この体制変更は、品質保証とサイト信頼性エンジニアリングを統合的に捉える試みであり、従来の組織サイロを超えた挑戦だと考えています。
+本記事では、SREチームのメンバーとしての視点から、私の考えを整理してお伝えします。QAとSREをどのように統合するか、そしてSREのプラクティスを用いて品質と信頼性を一貫して確保していくかについて説明したいと思います。
+なお、本記事では以下の用語を次のように定義していま... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/luup_developers/articles/sre-gr1m0h-20251125</guid>
+      <pubDate>Tue, 25 Nov 2025 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【個人開発】Gemini × n8n × Antigravity で、サーバー代0円の「Micro-SaaS半自動製造工場」を構築した話</title>
+      <link>https://zenn.dev/kaeru_tools/articles/855586e04e9389</link>
+      <description>はじめに
+個人でWebサービスやツールを作ろうとした際、コーディングそのものよりも「何を作るか（アイデア出し）」「要件をどうするか（設計）」に時間を取られてしまうことがよくあります。
+開発者としては「作る」部分に集中したかったため、自宅の Mac mini (Docker) でホストしている n8n と Gemini API を組み合わせて、アイデア出しから要件定義までを自動化するワークフローを構築しました。
+また、実装には話題の Google Antigravity を活用し、開発工数を大幅に圧縮しています。
+本記事では、ランニングコストを極限まで抑えつつ、個人開発のサイクルを高速... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kaeru_tools/articles/855586e04e9389</guid>
+      <pubDate>Mon, 24 Nov 2025 07:22:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>サプライチェーン攻撃の実態解明とカナリーの防衛戦略</title>
+      <link>https://zenn.dev/canary_techblog/articles/6f7c9728665b3a</link>
+      <description>はじめに
+2025 年 9 月中旬、npm パッケージマネージャでサプライチェーン攻撃が連続して発生しました。開発に欠かせないツールが標的になったこの事件は、多くのエンジニアにとって他人事ではありません。この記事では、攻撃の仕組みと実被害をわかりやすく解説するとともに、Canary がどう備えているかを共有します。私たちの取り組みが、みなさんのセキュリティ対策のヒントになれば幸いです。
+
+ 攻撃の全体像
+今回の攻撃は、フィッシングから始まりました。攻撃者はパッケージのメンテナに巧妙なフィッシングメールを送り、認証情報を盗み出して、正規パッケージに悪意あるコードを仕込んでいきました。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/canary_techblog/articles/6f7c9728665b3a</guid>
+      <pubDate>Tue, 25 Nov 2025 01:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

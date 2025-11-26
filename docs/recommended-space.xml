@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Nov 2025 06:37:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 06:36:47 +0000</lastBuildDate>
     <item>
       <title>太陽以外の恒星で発生した「コロナ質量放出」を初検出か　生命居住可能性にも影響</title>
       <link>https://sorae.info/astronomy/20251119-stellar-cme.html</link>
@@ -30,13 +30,6 @@
       <pubDate>Thu, 20 Nov 2025 01:26:27 +0000</pubDate>
     </item>
     <item>
-      <title>NASA、巨大アンテナが故障–2カ月運用を停止、復旧の見通し立たず</title>
-      <link>https://uchubiz.com/article/new67565/</link>
-      <description>米航空宇宙局（NASA）の深宇宙通信網「Deep Space Network（DSN）」を構成する巨大アンテナ「Deep Space Station 14（DSS-14）」が機器の故障から2カ月近く運用を停止している。 […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new67565/</guid>
-      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【スマホ圏外のデータも収集】アークエッジ・スペース、小型IoT端末から衛星へのデータ送信に成功【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/43306/</link>
       <description>2025年11月6日、アークエッジ・スペースは、地上のIoT端末から自社衛星へのデータ送信に成功したことを発表しました。これにより、携帯電話が圏外の地域であっても、データ利活用の促進が期待できる、注目のニュースです。 (source: 宙畑)</description>
@@ -44,18 +37,18 @@
       <pubDate>Sun, 09 Nov 2025 23:02:10 +0000</pubDate>
     </item>
     <item>
-      <title>LambdaVision、宇宙での製造技術を活用した失明治療の革新に向けて、700万ドルのシード資金を調達【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/43333/</link>
-      <description>2025年11月5日、アメリカのバイオテクノロジー企業LambdaVisionは、宇宙という微小重力環境を使った人工網膜の開発を加速させるため、総額700万ドルのシード資金調達を実施したと発表しました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/43333/</guid>
-      <pubDate>Tue, 11 Nov 2025 01:12:57 +0000</pubDate>
-    </item>
-    <item>
       <title>S字を描く星形成領域の煌き　ハッブル宇宙望遠鏡が観測した渦巻銀河「NGC 4535」</title>
       <link>https://sorae.info/astronomy/20251119-ngc-4535.html</link>
       <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した渦巻銀河「NGC 4535」。 おとめ座の方向、約5000万光年先にあります。 きつく「S」字を描くように中心部を取り巻く渦巻腕（渦状腕）の様子が、精細に捉えられています。… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20251119-ngc-4535.html</guid>
       <pubDate>Wed, 19 Nov 2025 00:51:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>LambdaVision、宇宙での製造技術を活用した失明治療の革新に向けて、700万ドルのシード資金を調達【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/43333/</link>
+      <description>2025年11月5日、アメリカのバイオテクノロジー企業LambdaVisionは、宇宙という微小重力環境を使った人工網膜の開発を加速させるため、総額700万ドルのシード資金調達を実施したと発表しました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/43333/</guid>
+      <pubDate>Tue, 11 Nov 2025 01:12:57 +0000</pubDate>
     </item>
     <item>
       <title>【衛星データを楽しく学ぶツールを作りました】リピート希望率100%！社内研修にも使えるボードゲーム「宙の知恵」のクラウドファンディングは12月9日まで【PR】</title>
@@ -70,6 +63,13 @@
       <description>インターステラテクノロジズ株式会社は2025年11月19日、小型人工衛星打ち上げロケット「ZERO（ゼロ）」初号機の新たな顧客として、日米の3衛星が決定したと発表しました。 今回追加されたのは、「東京大学 宇宙資源連携研… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20251119-ist-zero.html</guid>
       <pubDate>Wed, 19 Nov 2025 08:07:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISSで新種の細菌を発見も、地上のイモリの皮膚で “発見済み” だったことが併せて判明</title>
+      <link>https://sorae.info/science/20251125-microbacterium-meiriae.html</link>
+      <description>地球から最も隔絶された環境の宇宙ステーションには独特の微生物叢（微生物の種類や量）が形成されており、時々新種の細菌が見つかることもあります。これらの細菌はその状況から、宇宙ステーションで突然変異したのではなく、たまたま地… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/science/20251125-microbacterium-meiriae.html</guid>
+      <pubDate>Tue, 25 Nov 2025 12:44:04 +0000</pubDate>
     </item>
     <item>
       <title>アークエッジ・スペース、氷河や温室効果ガスのモニタリングの共同研究でタジキスタンと覚書</title>
