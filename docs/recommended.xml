@@ -7,25 +7,74 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Nov 2025 06:36:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 06:37:24 +0000</lastBuildDate>
     <item>
-      <title>やるべきリファクタを見極め、1ヶ月でやりきれた理由</title>
-      <link>https://zenn.dev/studio/articles/refactoring-validation-process</link>
-      <description>はじめに
-この間、Studioでエディタの大幅な高速化をリリースしました。
-https://studio.design/ja/whats-new/editor-speed-up
-これは開発初期からの設計を見直して実現したものです。確実に改善につながると確信できるものでしたが、コア機能に大きく手を入れる必要がありました。
-リファクタリングは、多くの技術記事でも意見が分かれるテーマです。原則論では肯定的に語られる一方、実践論では「そのリファクタ、今やるか？見送るか？」という判断基準の重要性が強調されています。
-この記事では、どうやってリファクタを見極め、どうやって組織を動かし、どうやって... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/studio/articles/refactoring-validation-process</guid>
-      <pubDate>Mon, 24 Nov 2025 14:10:04 +0000</pubDate>
+      <title>実装の 9 割を AI に任せる。食べログのジュニアエンジニアが構築した AI 連携開発フロー - Tabelog Tech Blog</title>
+      <link>https://tech-blog.tabelog.com/entry/optimized_ai_development_flow</link>
+      <description>こんにちは、食べログのアワード予約チームに所属するジュニアエンジニアの南野です。弊社では業務への AI 導入が進んでおり、開発のあり方が変わりつつあります。本記事では、実務で試行錯誤を行なった上で私が API 開発のリードタイムを削減させた AI 連携開発フローについてご紹介します。 今回の開発では、強力な助... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech-blog.tabelog.com/entry/optimized_ai_development_flow</guid>
+      <pubDate>Wed, 26 Nov 2025 08:10:35 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】Rustにはガッカリしている</title>
-      <link>https://techfeed.io/entries/69261dbc2020c64b2242f9eb</link>
-      <description>11月24日、bykozyが「Blog - Rust is a disappointment」と題した記事を公開した。この記事では、Rustが期待されてきた「C++の後継候補」としての役割を十分に果たしていないのではないかという問題提起を行い、とくにコンパイル速度の遅さ、言語としての複雑さ、メモリ安全性と信頼性のトレードオフ、可変共有状態の扱... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/69261dbc2020c64b2242f9eb</guid>
-      <pubDate>Tue, 25 Nov 2025 21:21:47 +0000</pubDate>
+      <title>AI時代、未経験から1年で実務レベルのエンジニアになった方法</title>
+      <link>https://qiita.com/tomoya11/items/0309c38c6c61781b1e9a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>去年の今頃、僕は完全な未経験者だった。
+プログラミングの「プ」の字も知らず、ターミナルを開くのすら怖かった。
+でも、2025年の今、僕は実務レベルのエンジニアとして働いている。
+何が変わったのか？それはAIの力を借りながら、正しい順番で基礎を積み上げたことだ。
+AIがあれば... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/tomoya11/items/0309c38c6c61781b1e9a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 26 Nov 2025 04:26:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>巨大SQLに対する解読術</title>
+      <link>https://zenn.dev/leverages/articles/2ab70781a8c211</link>
+      <description>こんにちは！ゲンシュンです。
+この記事は執筆中に「もはやAIに聞けば済むことね？」と思い投稿をお蔵入りしたものの、やっぱりまだ必要な知見かもしれないと思い直して残骸から蘇生したものとなります笑。
+
+ 背景
+前職では古来から存在するアプリケーションの集計用SQLをdbtを導入してリファクタリングしたり、現職では作成者が不在となった1500行超える大量のスケジュールクエリを全てDataformで書き直したり、SQLの考古学を強いられる機会がたくさんありました。ドメイン知識がないので手探りなものから、全てのカラムに select any_value(xx having max created_... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/leverages/articles/2ab70781a8c211</guid>
+      <pubDate>Tue, 25 Nov 2025 09:30:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>117時報と戦っているオタクの記録</title>
+      <link>https://qiita.com/m_nai/items/b0471394ef75bcd4bdfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+どことは言いませんが、チケットを取る際に「〇時〇分販売開始」という界隈にいます。
+私はもともと抽選界隈で戦っていたので、この〇分になった瞬間に叩くというのがどうにも慣れない。
+117時報を鳴らしながらチケ発するのですが、
+界隈長い友人に「これどの瞬間に押すの？」... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/m_nai/items/b0471394ef75bcd4bdfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 25 Nov 2025 04:40:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>モノレポ＋Hono＋OpenAPIスキーマ駆動(Orval)+Drizzleは最高</title>
+      <link>https://zenn.dev/takumi0706/articles/12229d929523ec</link>
+      <description>はじめに
+最近の開発で、モノレポ上に Hono のバックエンドと Next.js のフロントを抱えたアプリを作っている。そこで一周回って確信したのが、「Hono + OpenAPIスキーマ駆動 (Orval) + Drizzle」の組み合わせがとにかく快適ということ。この記事では、その理由と気持ちよかった設計ポイントをまとめる。
+ポイントは以下の3つ。
+
+Honoがプレゼンテーション層の薄皮に徹し、クリーンアーキテクチャを素直に表現できる。
+OpenAPI → Orval → Zod → TypeScript 型 というパイプラインが、“仕様＝型＝バリデーション” を保証してくれる。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/takumi0706/articles/12229d929523ec</guid>
+      <pubDate>Wed, 26 Nov 2025 08:05:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>オープンソース・プロジェクトのたたみ方</title>
+      <link>https://zenn.dev/dmikurube/articles/how-to-wind-down-an-opensource-project</link>
+      <description>本記事は Embulk に関する以下のアナウンスの、非公式日本語版 + α です。
+
+
+ Embulk の「メンテナンス・モード」
+去る 2025 年 10 月 15 日、その時点で GitHub の embulk organization に入っていた人に向けて、以下のようなメールを送りました。
+
+Embulk に関係し、中でも Embulk の GitHub org にいる皆さま、
+Embulk 関係の git log から確認できた公開メールアドレスや、個別に確認できたメールアドレス宛にお送りしています。
+… (中略: 英語でのごあいさつなど) …
+ご無沙汰しております。みくるべで... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dmikurube/articles/how-to-wind-down-an-opensource-project</guid>
+      <pubDate>Tue, 25 Nov 2025 16:08:30 +0000</pubDate>
     </item>
     <item>
       <title>AIファーストなドキュメント戦略 - DocCommentにユビキタス言語を書くだけのシンプルなアプローチ</title>
@@ -35,47 +84,6 @@ https://studio.design/ja/whats-new/editor-speed-up
 SDD自体賛否あるアプローチで、好意的な... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/k9i/articles/20251124_doccomment</guid>
       <pubDate>Mon, 24 Nov 2025 04:27:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>【ポエム】AIに対してやってることって、みんなが嫌ってるマネジメントと同じじゃね？</title>
-      <link>https://zenn.dev/gen_shun/articles/a58517dab3f48d</link>
-      <description>こんにちは！ゲンシュンです。
-この記事は半年前にtwitterに溜め込んでた下書きツイートを雑にまとめたポエム集で、この記事から得られる学びはないと思います笑。
-
- 背景
-ここ最近はCopilot、Claude、ChatGPTなど複数のAIツールを駆使して、開発・調査・壁打ちなどやっています。ある日Cloud Codeのアウトプットがあまりにも期待と全然違ったので、今まで以上にすごーく丁寧に指示をしたんですよ。でもなんか筋が違うし、最終的には虚偽のアウトプットをしてきたんですよね。
-
-何度も何度も丁寧に指示しても、ずっと虚偽の報告をされ続け...
-
-こんな虚偽の報告されたの初めてだったの... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/gen_shun/articles/a58517dab3f48d</guid>
-      <pubDate>Mon, 24 Nov 2025 08:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>ポエム：LLM時代のライブラリ設計、LLMが書きやすいものにした方が良いので泣く泣く方針転換した</title>
-      <link>https://zenn.dev/jtechjapan_pub/articles/c11c81bae36746</link>
-      <description>本当は、今でもRailway Oriented Programmingで書きたい
-!
-注:この記事は筆者の考えを書き出したものをLLMを使って編集してまとめ上げています。
-
-株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。
-私は Railway Oriented Programming が好きで、C#で実現するために ResultBox というライブラリを作り、自社のイベントソーシングライブラリ Sekiban にも組み込んできました。自分がメインで作る小さなプロジェクトでは問題なく機能していましたが、チーム開発とLLM時代の到来により、方針転換を決断しました。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/jtechjapan_pub/articles/c11c81bae36746</guid>
-      <pubDate>Sun, 23 Nov 2025 11:39:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Google Antigravity】話題のAI IDEを使って、家庭菜園シミュレータを1日で爆誕させた話</title>
-      <link>https://zenn.dev/acorn181/articles/2186869ff32265</link>
-      <description>はじめに
-先日発表されたGoogleの新しいエージェント型開発環境「Antigravity」。
-「コードを書くのではなく、Agentを管理する」という新しいパラダイムを提唱するこのツールを使って、 1日で本格的な「家庭菜園シミュレータ（Garden Planner）」 を開発しました。
-結論から言うと、 「詳細な仕様さえ渡せば、実装コストはほぼゼロになる」 という衝撃的な体験でした。
-この記事では、実際にAntigravityに投げたプロンプト（指示書）の内容と、それによって生成されたコードの品質、そして開発体験のリアルなログを共有します。
-
- 作ったもの：Garden Planne... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acorn181/articles/2186869ff32265</guid>
-      <pubDate>Sun, 23 Nov 2025 08:41:22 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Rustにはガッカリしている</title>
@@ -94,17 +102,6 @@ Luupに所属している、ぐりもお（@gr1m0h）です。
 なお、本記事では以下の用語を次のように定義していま... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/luup_developers/articles/sre-gr1m0h-20251125</guid>
       <pubDate>Tue, 25 Nov 2025 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【個人開発】Gemini × n8n × Antigravity で、サーバー代0円の「Micro-SaaS半自動製造工場」を構築した話</title>
-      <link>https://zenn.dev/kaeru_tools/articles/855586e04e9389</link>
-      <description>はじめに
-個人でWebサービスやツールを作ろうとした際、コーディングそのものよりも「何を作るか（アイデア出し）」「要件をどうするか（設計）」に時間を取られてしまうことがよくあります。
-開発者としては「作る」部分に集中したかったため、自宅の Mac mini (Docker) でホストしている n8n と Gemini API を組み合わせて、アイデア出しから要件定義までを自動化するワークフローを構築しました。
-また、実装には話題の Google Antigravity を活用し、開発工数を大幅に圧縮しています。
-本記事では、ランニングコストを極限まで抑えつつ、個人開発のサイクルを高速... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kaeru_tools/articles/855586e04e9389</guid>
-      <pubDate>Mon, 24 Nov 2025 07:22:42 +0000</pubDate>
     </item>
     <item>
       <title>サプライチェーン攻撃の実態解明とカナリーの防衛戦略</title>
