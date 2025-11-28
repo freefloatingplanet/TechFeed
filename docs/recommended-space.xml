@@ -7,13 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Nov 2025 06:37:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 06:37:11 +0000</lastBuildDate>
     <item>
-      <title>太陽以外の恒星で発生した「コロナ質量放出」を初検出か　生命居住可能性にも影響</title>
-      <link>https://sorae.info/astronomy/20251119-stellar-cme.html</link>
-      <description>こちらは、太陽以外の恒星で発生したコロナ質量放出（CME）のイメージ図。 活発に活動する左下の恒星から吹き出したコロナ質量放出によって、右上の惑星が強い影響を受けている様子が描かれています。 大量のプラズマが塊状に放出さ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20251119-stellar-cme.html</guid>
-      <pubDate>Wed, 19 Nov 2025 11:58:57 +0000</pubDate>
+      <title>ブルーオリジン、巨大ロケット「ニューグレン」を増強へ–3回目の打ち上げから段階的に導入</title>
+      <link>https://uchubiz.com/article/new67772/</link>
+      <description>米Blue Origin（ブルーオリジン）は、全長98mの大型ロケット「New Glenn」（ニューグレン）を強化することを明らかにした。同社は米国時間11月13日に、New Glennの2回目の打ち上げでブースターの […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new67772/</guid>
+      <pubDate>Fri, 21 Nov 2025 03:27:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>BULL、ドイツ企業と戦略的パートナーシップで覚書–宇宙の持続可能性向上目指す</title>
+      <link>https://uchubiz.com/article/new67816/</link>
+      <description>BULL（栃木県宇都宮市）はドイツ企業MAITY Spaceと宇宙の持続可能性と安全性の促進に向けた戦略的パートナーシップを確立する覚書（MOU）を締結した。11月21日に発表した。 　BULLが開発する、衛星やロケッ […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new67816/</guid>
+      <pubDate>Fri, 21 Nov 2025 08:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>インターステラテクノロジズ、ロケット「ZERO」初号機の顧客に日米3衛星を追加–計7機を搭載</title>
+      <link>https://uchubiz.com/article/new67692/</link>
+      <description>インターステラテクノロジズ（北海道大樹町）は11月19日、開発中のロケット「ZERO」初号機の顧客として、新たに東京大学、米国の私立学校Fulton Science Academy、米国の企業Lothan Spaceの […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new67692/</guid>
+      <pubDate>Wed, 19 Nov 2025 01:24:49 +0000</pubDate>
     </item>
     <item>
       <title>咲き誇る花のような渦巻銀河　ハッブル宇宙望遠鏡が観測した「NGC 972」</title>
@@ -23,25 +37,18 @@
       <pubDate>Sun, 23 Nov 2025 11:47:59 +0000</pubDate>
     </item>
     <item>
+      <title>暗黒物質由来？　天の川銀河中心方向でハロー状のガンマ線放射を発見</title>
+      <link>https://sorae.info/astronomy/20251127-wimp-gamma-ray-candidate.html</link>
+      <description>間接的な証拠をもとに存在すると考えられている、謎に満ちた「暗黒物質（ダークマター）」。 その暗黒物質から放射された電磁波を初めて捉えたかもしれないとする研究成果を、東京大学大学院の戸谷友則教授が発表しました。 あるはずな… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20251127-wimp-gamma-ray-candidate.html</guid>
+      <pubDate>Thu, 27 Nov 2025 11:18:22 +0000</pubDate>
+    </item>
+    <item>
       <title>ねじれたダストレーンが印象的　ハッブル宇宙望遠鏡が観測した渦巻銀河「NGC 3718」</title>
       <link>https://sorae.info/astronomy/20251120-ngc-3718.html</link>
       <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した渦巻銀河「NGC 3718」。 おおぐま座の方向にあるこの銀河は、渦巻きというよりも、ねじれて引き伸ばされた「S」字の形をしているのが印象的です。 この画像では、塵（ダスト… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20251120-ngc-3718.html</guid>
       <pubDate>Thu, 20 Nov 2025 01:26:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【スマホ圏外のデータも収集】アークエッジ・スペース、小型IoT端末から衛星へのデータ送信に成功【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/43306/</link>
-      <description>2025年11月6日、アークエッジ・スペースは、地上のIoT端末から自社衛星へのデータ送信に成功したことを発表しました。これにより、携帯電話が圏外の地域であっても、データ利活用の促進が期待できる、注目のニュースです。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/43306/</guid>
-      <pubDate>Sun, 09 Nov 2025 23:02:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>S字を描く星形成領域の煌き　ハッブル宇宙望遠鏡が観測した渦巻銀河「NGC 4535」</title>
-      <link>https://sorae.info/astronomy/20251119-ngc-4535.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した渦巻銀河「NGC 4535」。 おとめ座の方向、約5000万光年先にあります。 きつく「S」字を描くように中心部を取り巻く渦巻腕（渦状腕）の様子が、精細に捉えられています。… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20251119-ngc-4535.html</guid>
-      <pubDate>Wed, 19 Nov 2025 00:51:16 +0000</pubDate>
     </item>
     <item>
       <title>【衛星データを楽しく学ぶツールを作りました】リピート希望率100%！社内研修にも使えるボードゲーム「宙の知恵」のクラウドファンディングは12月9日まで【PR】</title>
@@ -56,13 +63,6 @@
       <description>2025年11月5日、アメリカのバイオテクノロジー企業LambdaVisionは、宇宙という微小重力環境を使った人工網膜の開発を加速させるため、総額700万ドルのシード資金調達を実施したと発表しました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/43333/</guid>
       <pubDate>Tue, 11 Nov 2025 01:12:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>インターステラテクノロジズの「ZERO」初号機、日米3衛星が新たに搭載決定　計7機に</title>
-      <link>https://sorae.info/space/20251119-ist-zero.html</link>
-      <description>インターステラテクノロジズ株式会社は2025年11月19日、小型人工衛星打ち上げロケット「ZERO（ゼロ）」初号機の新たな顧客として、日米の3衛星が決定したと発表しました。 今回追加されたのは、「東京大学 宇宙資源連携研… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20251119-ist-zero.html</guid>
-      <pubDate>Wed, 19 Nov 2025 08:07:53 +0000</pubDate>
     </item>
     <item>
       <title>ISSで新種の細菌を発見も、地上のイモリの皮膚で “発見済み” だったことが併せて判明</title>

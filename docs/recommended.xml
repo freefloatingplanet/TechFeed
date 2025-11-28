@@ -7,36 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Nov 2025 06:37:24 +0000</lastBuildDate>
-    <item>
-      <title>実装の 9 割を AI に任せる。食べログのジュニアエンジニアが構築した AI 連携開発フロー - Tabelog Tech Blog</title>
-      <link>https://tech-blog.tabelog.com/entry/optimized_ai_development_flow</link>
-      <description>こんにちは、食べログのアワード予約チームに所属するジュニアエンジニアの南野です。弊社では業務への AI 導入が進んでおり、開発のあり方が変わりつつあります。本記事では、実務で試行錯誤を行なった上で私が API 開発のリードタイムを削減させた AI 連携開発フローについてご紹介します。 今回の開発では、強力な助... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tech-blog.tabelog.com/entry/optimized_ai_development_flow</guid>
-      <pubDate>Wed, 26 Nov 2025 08:10:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI時代、未経験から1年で実務レベルのエンジニアになった方法</title>
-      <link>https://qiita.com/tomoya11/items/0309c38c6c61781b1e9a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>去年の今頃、僕は完全な未経験者だった。
-プログラミングの「プ」の字も知らず、ターミナルを開くのすら怖かった。
-でも、2025年の今、僕は実務レベルのエンジニアとして働いている。
-何が変わったのか？それはAIの力を借りながら、正しい順番で基礎を積み上げたことだ。
-AIがあれば... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/tomoya11/items/0309c38c6c61781b1e9a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 26 Nov 2025 04:26:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>巨大SQLに対する解読術</title>
-      <link>https://zenn.dev/leverages/articles/2ab70781a8c211</link>
-      <description>こんにちは！ゲンシュンです。
-この記事は執筆中に「もはやAIに聞けば済むことね？」と思い投稿をお蔵入りしたものの、やっぱりまだ必要な知見かもしれないと思い直して残骸から蘇生したものとなります笑。
-
- 背景
-前職では古来から存在するアプリケーションの集計用SQLをdbtを導入してリファクタリングしたり、現職では作成者が不在となった1500行超える大量のスケジュールクエリを全てDataformで書き直したり、SQLの考古学を強いられる機会がたくさんありました。ドメイン知識がないので手探りなものから、全てのカラムに select any_value(xx having max created_... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/leverages/articles/2ab70781a8c211</guid>
-      <pubDate>Tue, 25 Nov 2025 09:30:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Nov 2025 06:37:05 +0000</lastBuildDate>
     <item>
       <title>117時報と戦っているオタクの記録</title>
       <link>https://qiita.com/m_nai/items/b0471394ef75bcd4bdfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -61,6 +32,13 @@ OpenAPI → Orval → Zod → TypeScript 型 というパイプラインが、�
       <pubDate>Wed, 26 Nov 2025 08:05:10 +0000</pubDate>
     </item>
     <item>
+      <title>コード全体を自動解析して常時更新する「Code Wiki」公開　開発者の未来はどう変わるのか</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2511/27/news068.html</link>
+      <description>Googleは2025年11月13日（米国時間）、ソフトウェア開発における「コード読解」の負担を軽減する新サービス「Code Wiki」のパブリックプレビュー版を公開した。同社は、「既存コードの理解に時間がかかることが開発の最大級のボトルネックになっている」と指摘し、この課題を解決する仕組みとして本サービスを位置付けて... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2511/27/news068.html</guid>
+      <pubDate>Thu, 27 Nov 2025 08:32:52 +0000</pubDate>
+    </item>
+    <item>
       <title>オープンソース・プロジェクトのたたみ方</title>
       <link>https://zenn.dev/dmikurube/articles/how-to-wind-down-an-opensource-project</link>
       <description>本記事は Embulk に関する以下のアナウンスの、非公式日本語版 + α です。
@@ -77,13 +55,73 @@ Embulk 関係の git log から確認できた公開メールアドレスや、�
       <pubDate>Tue, 25 Nov 2025 16:08:30 +0000</pubDate>
     </item>
     <item>
-      <title>AIファーストなドキュメント戦略 - DocCommentにユビキタス言語を書くだけのシンプルなアプローチ</title>
-      <link>https://zenn.dev/k9i/articles/20251124_doccomment</link>
-      <description>AIコーディング、特にClaude CodeやCursorのようなツールの普及に伴い、「AIにいかに正確なコンテキストを与えるか」が開発者の最大の関心事になっています。
-その中で現在、 SDD（Spec Driven Development）的なアプローチ——つまり、詳細な仕様書をAIに書かせ、それこそが正としてメンテナンスを続ける手法——が注目されています。しかし、私は実務での経験を通じて、「仕様書を充実させるよりも、コード内のDocCommentを充実させるシンプルなアプローチこそが、AIファーストな開発なのでは？」 という考えに至りました。
-SDD自体賛否あるアプローチで、好意的な... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/k9i/articles/20251124_doccomment</guid>
-      <pubDate>Mon, 24 Nov 2025 04:27:50 +0000</pubDate>
+      <title>「AIに先にテストを全部書かせる」はTDDじゃない。でも、それもアリだよね。</title>
+      <link>https://zenn.dev/loglass/articles/16745471ef55ff</link>
+      <description>こんにちは、ログラスの松岡(@little_hand_s)です
+
+
+ 3行まとめ
+
+「先にテストをまとめて書かせる」はTDDではない（サイクルと目的が違う）
+従来のTDDでは非推奨だったが、AI時代では有効な手法に
+違いを理解して使い分けることで、AI時代の開発がより効果的になる
+
+
+ AI時代のTDDと、混乱しやすい実現方法
+最近、AI開発の文脈で「TDD（Test-Driven Development：テスト駆動設計）が有効」という話をよく聞くようになりました。
+ClaudeCode公式のベストプラクティスでも「TDDはエージェンティックコーディングによってさらに強力になる」と述べら... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/loglass/articles/16745471ef55ff</guid>
+      <pubDate>Wed, 26 Nov 2025 23:22:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>JSONはもう古い？LLM時代の新フォーマット「TOON」がトークンを節約する理由</title>
+      <link>https://zenn.dev/akari1106/articles/ba99c8702ee732</link>
+      <description>はじめに
+JSONくん、君はちょっと「おしゃべり」すぎるかもしれない。
+開発をしていると、JSON (JavaScript Object Notation) とはもう「空気」のような存在ですよね。何かしらどこかしらで付き合いのある感じ。
+APIを叩けばJSONが返ってくる。設定ファイルもJSON。何ならログもJSON。
+私も長年連れ添った相棒として、彼（JSON）のことは信頼しています。
+でも、LLM（大規模言語モデル） と付き合い始めてから、ちょっと気になることが出てきました。
+「あれ…？ 君、無駄口多くない…？」
+[
+  {"id": 1, "name": "user_a", "... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/akari1106/articles/ba99c8702ee732</guid>
+      <pubDate>Wed, 26 Nov 2025 17:22:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>SNSアプリの投稿画面のUIデザイン改善</title>
+      <link>https://zenn.dev/noppe/articles/7093cbaac7d976</link>
+      <description>この記事では、iOS 向け Mastodon クライアント DAWN が行った投稿画面の UI デザイン改善について解説します。
+DAWNは、iOSのネイティブアプリとしての使いやすさと、Mastodonの分散型SNSとしての特性を両立させることを目指しています。
+先日、App Storeで３つのフィーチャー掲載をいただき、ユーザーの皆様からも高い評価をいただいています。
+
+今回の変更では、よりネイティブアプリらしいLiquid GlassのUIを追求しつつ、投稿画面の情報整理と機能拡張を実現しました。
+アップデートを続けていると、つい機能が増えすぎて道具箱のようなUIになりがちですが、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/noppe/articles/7093cbaac7d976</guid>
+      <pubDate>Wed, 26 Nov 2025 20:11:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>git worktree 並列開発でのポート競合を解消するCLI、PortMuxを作りました</title>
+      <link>https://zenn.dev/yuta_takahashi/articles/introduce-portmux-cli</link>
+      <description>はじめに
+Coding Agent でタスクを並列に進めることが一般的になりつつある昨今、git worktree でブランチごとに環境を分け、ローカルで並行開発する場面が増えています。このような開発フローでは、各 worktree で開発サーバーを立ち上げて行き来しながら動作確認する必要があります。
+とはいえ、ローカルサーバーの切り替えは手間がかかります。1 つのプロダクトで複数のサーバーを立てていると、毎回 stop / start をやり直したり、ポート競合に引っかかったりしがちです。
+この記事では、git worktree 運用時のポート競合と切り替えの手間を減らすために開発... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yuta_takahashi/articles/introduce-portmux-cli</guid>
+      <pubDate>Wed, 26 Nov 2025 17:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>FastAPIのテストコードを書いてDIの重要性を知った話</title>
+      <link>https://zenn.dev/lancers/articles/1bff9ebffdbd89</link>
+      <description>きっかけ
+こんにちは、ランサーズでエンジニアをしている岡田です。
+当時は開発スピード優先でテストコードなんて二の次。
+DIの概念は知りつつも、「DIを意識した開発コードって？」「DIを意識すると何が良いの？」と分からないままでした。
+それでも、FastAPI+sqlalchemyの開発では、DBを使う時に大抵エンドポイントの引数にdb: Session = Depends(get_db)が出てきます。
+「どうしてエンドポイントの内部ではなく引数で書くのか？」といまいち納得しないまま、FastAPIの書き方に従っておまじないのようにDependsを書いてました。
+そして、開発コードも増... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/lancers/articles/1bff9ebffdbd89</guid>
+      <pubDate>Thu, 27 Nov 2025 01:56:09 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Rustにはガッカリしている</title>
@@ -91,29 +129,6 @@ SDD自体賛否あるアプローチで、好意的な... (source: Zennのトレ
       <description>11月24日、bykozyが「Blog - Rust is a disappointment」と題した記事を公開した。この記事では、Rustが期待されてきた「C++の後継候補」としての役割を十分に果たしていないのではないかという問題提起を行い、とくにコンパイル速度の遅さ、言語としての複雑さ、メモリ安全性と信頼性のトレードオフ、可変共有状態の扱いにおける限界について詳しく紹介している。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/69261dbc2020c64b2242f9eb?from=rss</guid>
       <pubDate>Tue, 25 Nov 2025 21:20:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>QAとSREが統合したQualityチームの挑戦</title>
-      <link>https://zenn.dev/luup_developers/articles/sre-gr1m0h-20251125</link>
-      <description>はじめに
-Luupに所属している、ぐりもお（@gr1m0h）です。
-2025年7月、私が所属していたInfra/SREチームとQAチームが統合し、新たにQualityチームが発足しました。この体制変更は、品質保証とサイト信頼性エンジニアリングを統合的に捉える試みであり、従来の組織サイロを超えた挑戦だと考えています。
-本記事では、SREチームのメンバーとしての視点から、私の考えを整理してお伝えします。QAとSREをどのように統合するか、そしてSREのプラクティスを用いて品質と信頼性を一貫して確保していくかについて説明したいと思います。
-なお、本記事では以下の用語を次のように定義していま... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/luup_developers/articles/sre-gr1m0h-20251125</guid>
-      <pubDate>Tue, 25 Nov 2025 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>サプライチェーン攻撃の実態解明とカナリーの防衛戦略</title>
-      <link>https://zenn.dev/canary_techblog/articles/6f7c9728665b3a</link>
-      <description>はじめに
-2025 年 9 月中旬、npm パッケージマネージャでサプライチェーン攻撃が連続して発生しました。開発に欠かせないツールが標的になったこの事件は、多くのエンジニアにとって他人事ではありません。この記事では、攻撃の仕組みと実被害をわかりやすく解説するとともに、Canary がどう備えているかを共有します。私たちの取り組みが、みなさんのセキュリティ対策のヒントになれば幸いです。
-
- 攻撃の全体像
-今回の攻撃は、フィッシングから始まりました。攻撃者はパッケージのメンテナに巧妙なフィッシングメールを送り、認証情報を盗み出して、正規パッケージに悪意あるコードを仕込んでいきました。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/canary_techblog/articles/6f7c9728665b3a</guid>
-      <pubDate>Tue, 25 Nov 2025 01:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
