@@ -7,36 +7,46 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Nov 2025 06:37:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 06:34:02 +0000</lastBuildDate>
     <item>
-      <title>117時報と戦っているオタクの記録</title>
-      <link>https://qiita.com/m_nai/items/b0471394ef75bcd4bdfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-どことは言いませんが、チケットを取る際に「〇時〇分販売開始」という界隈にいます。
-私はもともと抽選界隈で戦っていたので、この〇分になった瞬間に叩くというのがどうにも慣れない。
-117時報を鳴らしながらチケ発するのですが、
-界隈長い友人に「これどの瞬間に押すの？」... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/m_nai/items/b0471394ef75bcd4bdfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 25 Nov 2025 04:40:17 +0000</pubDate>
+      <title>AIコードレビュー「棚卸し」のススメ</title>
+      <link>https://zenn.dev/aki_think/articles/e8a846e9bb95b0</link>
+      <description>AI にコードレビューを投げると、ありがたいことに山ほどレビューコメントが返ってくる。
+しかし、実際に運用してみると、その中には直さなくても良さそうな細かい指摘や、そもそもレビュー内容自体が誤っているコメントが紛れ込み、PR のコメント欄があっという間にカオスな状態になることも珍しくない。
+結局のところ、一つひとつについて「この指摘は妥当か？」「今すぐ対応すべきか？」を目で追いながら判断していくことになり、レビューが増えたわりに仕分け作業だけが重くのしかかってくる。
+そこで発想を変え、まずは PR についたレビューコメントをすべて洗い出し、その一つひとつについて妥当性や対応方針（対応する... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aki_think/articles/e8a846e9bb95b0</guid>
+      <pubDate>Thu, 27 Nov 2025 11:54:43 +0000</pubDate>
     </item>
     <item>
-      <title>モノレポ＋Hono＋OpenAPIスキーマ駆動(Orval)+Drizzleは最高</title>
-      <link>https://zenn.dev/takumi0706/articles/12229d929523ec</link>
+      <title>Next.jsのハイドレーションエラーを時計機能で理解する</title>
+      <link>https://zenn.dev/takeshi0518/articles/30bdd78a7901b0</link>
       <description>はじめに
-最近の開発で、モノレポ上に Hono のバックエンドと Next.js のフロントを抱えたアプリを作っている。そこで一周回って確信したのが、「Hono + OpenAPIスキーマ駆動 (Orval) + Drizzle」の組み合わせがとにかく快適ということ。この記事では、その理由と気持ちよかった設計ポイントをまとめる。
-ポイントは以下の3つ。
+Next.js で時計機能を実装したとき、ハイドレーションエラーに遭遇しました。
+この記事では、そのエラーの原因を深堀りし、Next.js の内部構造を理解していきます。
+同じようなエラーで悩んでいる方の参考になれば幸いです。
+!
+記事の内容に誤りや改善点があれば、コメントで教えていただけると嬉しいです。
 
-Honoがプレゼンテーション層の薄皮に徹し、クリーンアーキテクチャを素直に表現できる。
-OpenAPI → Orval → Zod → TypeScript 型 というパイプラインが、“仕様＝型＝バリデーション” を保証してくれる。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/takumi0706/articles/12229d929523ec</guid>
-      <pubDate>Wed, 26 Nov 2025 08:05:10 +0000</pubDate>
+
+ エラーが発生した状況
+
+ 発生したコード
+天気情報アプリを作成していて、現在時刻を表示する時計機能を実装しました。
+LiveTime.tsx(エラーが発生したコード)
+//LiveTime.tsx
+'use client';
+
+import { useEffect,... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/takeshi0518/articles/30bdd78a7901b0</guid>
+      <pubDate>Wed, 26 Nov 2025 08:43:51 +0000</pubDate>
     </item>
     <item>
-      <title>コード全体を自動解析して常時更新する「Code Wiki」公開　開発者の未来はどう変わるのか</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2511/27/news068.html</link>
-      <description>Googleは2025年11月13日（米国時間）、ソフトウェア開発における「コード読解」の負担を軽減する新サービス「Code Wiki」のパブリックプレビュー版を公開した。同社は、「既存コードの理解に時間がかかることが開発の最大級のボトルネックになっている」と指摘し、この課題を解決する仕組みとして本サービスを位置付けて... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2511/27/news068.html</guid>
-      <pubDate>Thu, 27 Nov 2025 08:32:52 +0000</pubDate>
+      <title>大手ゲーム企業でAI導入が加速もインディーゲーム界隈では「AIフリー」が新たな売り文句として広まっている</title>
+      <link>https://gigazine.net/news/20251128-indie-game-developers-ai-free/</link>
+      <description>生成AIの普及はゲーム業界にも波及しており、複数の大手ゲーム企業が開発にAIを導入しています。これに抗うかのように、一部のインディーゲームスタジオは「AIフリー」を大々的に打ち出し、AIを使用せずにゲーム開発を行っていることをアピールしています。 Indie game developers have a new sales pitch: being ‘AI fr... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20251128-indie-game-developers-ai-free/</guid>
+      <pubDate>Fri, 28 Nov 2025 11:51:32 +0000</pubDate>
     </item>
     <item>
       <title>オープンソース・プロジェクトのたたみ方</title>
@@ -74,41 +84,23 @@ ClaudeCode公式のベストプラクティスでも「TDDはエージェンテ�
       <pubDate>Wed, 26 Nov 2025 23:22:39 +0000</pubDate>
     </item>
     <item>
-      <title>JSONはもう古い？LLM時代の新フォーマット「TOON」がトークンを節約する理由</title>
-      <link>https://zenn.dev/akari1106/articles/ba99c8702ee732</link>
-      <description>はじめに
-JSONくん、君はちょっと「おしゃべり」すぎるかもしれない。
-開発をしていると、JSON (JavaScript Object Notation) とはもう「空気」のような存在ですよね。何かしらどこかしらで付き合いのある感じ。
-APIを叩けばJSONが返ってくる。設定ファイルもJSON。何ならログもJSON。
-私も長年連れ添った相棒として、彼（JSON）のことは信頼しています。
-でも、LLM（大規模言語モデル） と付き合い始めてから、ちょっと気になることが出てきました。
-「あれ…？ 君、無駄口多くない…？」
-[
-  {"id": 1, "name": "user_a", "... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/akari1106/articles/ba99c8702ee732</guid>
-      <pubDate>Wed, 26 Nov 2025 17:22:05 +0000</pubDate>
+      <title>Gemini 3 Pro 実務活用ガイド：個人の能力を拡張し、業務フローを変革するための設計図｜【AI研究中】ただし</title>
+      <link>https://note.com/note_tds/n/n7ba408852de9</link>
+      <description>前回のNotebookLMの記事が大好評だったため、Geminiについてもまとめてみました。 今回も前回同様、実用的なプロンプトを記事の最後に付けています。 はじめに：「物知りな辞書」から「思考する教師」へ「生成AIは、検索の代わりに使うもの」「文章を要約させるためのもの」 もし、あなたがGeminiに対してこのような認識... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/note_tds/n/n7ba408852de9</guid>
+      <pubDate>Fri, 28 Nov 2025 13:18:55 +0000</pubDate>
     </item>
     <item>
-      <title>SNSアプリの投稿画面のUIデザイン改善</title>
-      <link>https://zenn.dev/noppe/articles/7093cbaac7d976</link>
-      <description>この記事では、iOS 向け Mastodon クライアント DAWN が行った投稿画面の UI デザイン改善について解説します。
-DAWNは、iOSのネイティブアプリとしての使いやすさと、Mastodonの分散型SNSとしての特性を両立させることを目指しています。
-先日、App Storeで３つのフィーチャー掲載をいただき、ユーザーの皆様からも高い評価をいただいています。
+      <title>Go + クリーンアーキテクチャで AI エージェント基盤を再設計した話【前編】</title>
+      <link>https://zenn.dev/iyusuke/articles/b06400ce2b66c9</link>
+      <description>AIエージェントの開発を一気に行っていたのでそのまとめとなる記事を書いてみようと思います。
+エージェント開発のSDKやノーコードツールは充実してきていますが、MVPとしてバックエンドとして使ってる Go でライブラリなどをあまり使わず開発を進めた結果、ほぼ自前で実装することになったので一からのAIエージェント開発ということで参考になるかと思います。
 
-今回の変更では、よりネイティブアプリらしいLiquid GlassのUIを追求しつつ、投稿画面の情報整理と機能拡張を実現しました。
-アップデートを続けていると、つい機能が増えすぎて道具箱のようなUIになりがちですが、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/noppe/articles/7093cbaac7d976</guid>
-      <pubDate>Wed, 26 Nov 2025 20:11:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>git worktree 並列開発でのポート競合を解消するCLI、PortMuxを作りました</title>
-      <link>https://zenn.dev/yuta_takahashi/articles/introduce-portmux-cli</link>
-      <description>はじめに
-Coding Agent でタスクを並列に進めることが一般的になりつつある昨今、git worktree でブランチごとに環境を分け、ローカルで並行開発する場面が増えています。このような開発フローでは、各 worktree で開発サーバーを立ち上げて行き来しながら動作確認する必要があります。
-とはいえ、ローカルサーバーの切り替えは手間がかかります。1 つのプロダクトで複数のサーバーを立てていると、毎回 stop / start をやり直したり、ポート競合に引っかかったりしがちです。
-この記事では、git worktree 運用時のポート競合と切り替えの手間を減らすために開発... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yuta_takahashi/articles/introduce-portmux-cli</guid>
-      <pubDate>Wed, 26 Nov 2025 17:00:13 +0000</pubDate>
+ 1. はじめに：なぜ Go で AI エージェント基盤を作るのか
+AI エージェントの実装といえば、一般には Python が選ばれます。
+LangChain / LangGraph や LlamaIndex など、強力なエージェントフレ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/iyusuke/articles/b06400ce2b66c9</guid>
+      <pubDate>Thu, 27 Nov 2025 09:22:45 +0000</pubDate>
     </item>
     <item>
       <title>FastAPIのテストコードを書いてDIの重要性を知った話</title>
@@ -129,6 +121,17 @@ DIの概念は知りつつも、「DIを意識した開発コードって？」�
       <description>11月24日、bykozyが「Blog - Rust is a disappointment」と題した記事を公開した。この記事では、Rustが期待されてきた「C++の後継候補」としての役割を十分に果たしていないのではないかという問題提起を行い、とくにコンパイル速度の遅さ、言語としての複雑さ、メモリ安全性と信頼性のトレードオフ、可変共有状態の扱いにおける限界について詳しく紹介している。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/69261dbc2020c64b2242f9eb?from=rss</guid>
       <pubDate>Tue, 25 Nov 2025 21:20:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>ルートファイルの凝集度を上げる React Router v7 リファクタリング</title>
+      <link>https://zenn.dev/coji/articles/react-router-v7-route-component-cohesion</link>
+      <description>これはなに？
+前回の記事では、購入者・出品者・管理者のように異なるロールの機能を「同じカテゴリだから」とまとめてしまう問題を扱いました。コロケーション構成でルートを機能単位に分けることで、条件分岐が散らばらず保守しやすくなるという話でした。
+今回は、その「分けたルートの中身」に注目します。ルートを適切に分割しても、ひとつのルートファイルの中で関係ない処理が混在していると、結局コードの見通しが悪くなってしまいます。
+この記事では、ありがちなルートファイルを段階的にリファクタリングしながら、凝集度を上げるとはどういうことかを体感してもらいます。
+本記事の内容を Notebook LM で... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/coji/articles/react-router-v7-route-component-cohesion</guid>
+      <pubDate>Fri, 28 Nov 2025 04:19:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
