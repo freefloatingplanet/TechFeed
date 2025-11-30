@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Nov 2025 06:34:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 06:35:25 +0000</lastBuildDate>
+    <item>
+      <title>モノレポ＋Hono＋OpenAPIスキーマ駆動(Orval)+Drizzleは最高</title>
+      <link>https://zenn.dev/takumi0706/articles/12229d929523ec</link>
+      <description>はじめに
+最近の開発で、モノレポ上に Hono のバックエンドと Next.js のフロントを抱えたアプリを作っている。そこで一周回って確信したのが、「Hono + OpenAPIスキーマ駆動 (Orval) + Drizzle」の組み合わせがとにかく快適ということ。この記事では、その理由と気持ちよかった設計ポイントをまとめる。
+ポイントは以下の3つ。
+
+Honoがプレゼンテーション層の薄皮に徹し、クリーンアーキテクチャを素直に表現できる。
+OpenAPI → Orval → Zod → TypeScript 型 というパイプラインが、“仕様＝型＝バリデーション” を保証してくれる。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/takumi0706/articles/12229d929523ec</guid>
+      <pubDate>Wed, 26 Nov 2025 08:05:10 +0000</pubDate>
+    </item>
     <item>
       <title>AIコードレビュー「棚卸し」のススメ</title>
       <link>https://zenn.dev/aki_think/articles/e8a846e9bb95b0</link>
@@ -19,50 +31,15 @@
       <pubDate>Thu, 27 Nov 2025 11:54:43 +0000</pubDate>
     </item>
     <item>
-      <title>Next.jsのハイドレーションエラーを時計機能で理解する</title>
-      <link>https://zenn.dev/takeshi0518/articles/30bdd78a7901b0</link>
+      <title>再帰やループを使わずに組合せを求める</title>
+      <link>https://zenn.dev/pona/articles/675a59cb0a9efc</link>
       <description>はじめに
-Next.js で時計機能を実装したとき、ハイドレーションエラーに遭遇しました。
-この記事では、そのエラーの原因を深堀りし、Next.js の内部構造を理解していきます。
-同じようなエラーで悩んでいる方の参考になれば幸いです。
-!
-記事の内容に誤りや改善点があれば、コメントで教えていただけると嬉しいです。
+世の中の言語や環境の中には，順列や組合せの生成といった高度なコレクション操作を標準で提供してくれないものが少なからずあります．かかる折には自前でジェネレータを定義するものですが，再帰だのループだのと書いているうちに目が回って疲れてしまいます．しかし，こと組合せの生成に関しては心配無用です．繰り返しを用いずにビット演算だけでこれを実現する方法があります．
 
-
- エラーが発生した状況
-
- 発生したコード
-天気情報アプリを作成していて、現在時刻を表示する時計機能を実装しました。
-LiveTime.tsx(エラーが発生したコード)
-//LiveTime.tsx
-'use client';
-
-import { useEffect,... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/takeshi0518/articles/30bdd78a7901b0</guid>
-      <pubDate>Wed, 26 Nov 2025 08:43:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>大手ゲーム企業でAI導入が加速もインディーゲーム界隈では「AIフリー」が新たな売り文句として広まっている</title>
-      <link>https://gigazine.net/news/20251128-indie-game-developers-ai-free/</link>
-      <description>生成AIの普及はゲーム業界にも波及しており、複数の大手ゲーム企業が開発にAIを導入しています。これに抗うかのように、一部のインディーゲームスタジオは「AIフリー」を大々的に打ち出し、AIを使用せずにゲーム開発を行っていることをアピールしています。 Indie game developers have a new sales pitch: being ‘AI fr... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20251128-indie-game-developers-ai-free/</guid>
-      <pubDate>Fri, 28 Nov 2025 11:51:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>オープンソース・プロジェクトのたたみ方</title>
-      <link>https://zenn.dev/dmikurube/articles/how-to-wind-down-an-opensource-project</link>
-      <description>本記事は Embulk に関する以下のアナウンスの、非公式日本語版 + α です。
-
-
- Embulk の「メンテナンス・モード」
-去る 2025 年 10 月 15 日、その時点で GitHub の embulk organization に入っていた人に向けて、以下のようなメールを送りました。
-
-Embulk に関係し、中でも Embulk の GitHub org にいる皆さま、
-Embulk 関係の git log から確認できた公開メールアドレスや、個別に確認できたメールアドレス宛にお送りしています。
-… (中略: 英語でのごあいさつなど) …
-ご無沙汰しております。みくるべで... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dmikurube/articles/how-to-wind-down-an-opensource-project</guid>
-      <pubDate>Tue, 25 Nov 2025 16:08:30 +0000</pubDate>
+ 組合せと二進数
+組合せというのは，集団の中から何個か要素を取り出す時，どんなバリエーションが有り得るのかを考える分野です．例えば，7 色のボールが入った箱から 3 個取り出す場合，赤青緑だったり青黄橙といったふうに複数の... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pona/articles/675a59cb0a9efc</guid>
+      <pubDate>Sat, 29 Nov 2025 12:10:02 +0000</pubDate>
     </item>
     <item>
       <title>「AIに先にテストを全部書かせる」はTDDじゃない。でも、それもアリだよね。</title>
@@ -89,6 +66,25 @@ ClaudeCode公式のベストプラクティスでも「TDDはエージェンテ�
       <description>前回のNotebookLMの記事が大好評だったため、Geminiについてもまとめてみました。 今回も前回同様、実用的なプロンプトを記事の最後に付けています。 はじめに：「物知りな辞書」から「思考する教師」へ「生成AIは、検索の代わりに使うもの」「文章を要約させるためのもの」 もし、あなたがGeminiに対してこのような認識... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://note.com/note_tds/n/n7ba408852de9</guid>
       <pubDate>Fri, 28 Nov 2025 13:18:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transactional Outbox と冪等性の実装ガイド</title>
+      <link>https://qiita.com/zou-g/items/d2999e53fed1aa26057a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに ― あの「予約大丈夫かな…？」という不安の正体
+金曜の夜、友人との飲み会の席を確保しようとして、食べログやホットペッパーのような予約サービスを使う場面を想像してみてください。
+画面には「予約を受け付けました」と出ているのに、しばらく待っても確認メールが届かない。... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/zou-g/items/d2999e53fed1aa26057a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 29 Nov 2025 05:36:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>「S3はオブジェクトストレージ」の意味、本当に理解できてますか？~見事にハマった俺の屍を超えて行け~</title>
+      <link>https://qiita.com/Rabbit_booK/items/aa6ea14f7ed2106f3655?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>AWSの資格勉強（SAAなど）をしていると、必ず出てくる定番の知識があります。
+「S3はオブジェクトストレージであり、EFSのようなファイルストレージとは異なり、ディレクトリ階層構造を持たない」
+私も丸暗記して、「またこれかー、サービス問題やわ」とドヤ顔していました。
+しか... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Rabbit_booK/items/aa6ea14f7ed2106f3655?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 28 Nov 2025 10:22:04 +0000</pubDate>
     </item>
     <item>
       <title>Go + クリーンアーキテクチャで AI エージェント基盤を再設計した話【前編】</title>
@@ -121,17 +117,6 @@ DIの概念は知りつつも、「DIを意識した開発コードって？」�
       <description>11月24日、bykozyが「Blog - Rust is a disappointment」と題した記事を公開した。この記事では、Rustが期待されてきた「C++の後継候補」としての役割を十分に果たしていないのではないかという問題提起を行い、とくにコンパイル速度の遅さ、言語としての複雑さ、メモリ安全性と信頼性のトレードオフ、可変共有状態の扱いにおける限界について詳しく紹介している。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/69261dbc2020c64b2242f9eb?from=rss</guid>
       <pubDate>Tue, 25 Nov 2025 21:20:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>ルートファイルの凝集度を上げる React Router v7 リファクタリング</title>
-      <link>https://zenn.dev/coji/articles/react-router-v7-route-component-cohesion</link>
-      <description>これはなに？
-前回の記事では、購入者・出品者・管理者のように異なるロールの機能を「同じカテゴリだから」とまとめてしまう問題を扱いました。コロケーション構成でルートを機能単位に分けることで、条件分岐が散らばらず保守しやすくなるという話でした。
-今回は、その「分けたルートの中身」に注目します。ルートを適切に分割しても、ひとつのルートファイルの中で関係ない処理が混在していると、結局コードの見通しが悪くなってしまいます。
-この記事では、ありがちなルートファイルを段階的にリファクタリングしながら、凝集度を上げるとはどういうことかを体感してもらいます。
-本記事の内容を Notebook LM で... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/coji/articles/react-router-v7-route-component-cohesion</guid>
-      <pubDate>Fri, 28 Nov 2025 04:19:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
