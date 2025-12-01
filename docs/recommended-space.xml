@@ -7,55 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Nov 2025 06:35:29 +0000</lastBuildDate>
-    <item>
-      <title>ハッブル宇宙望遠鏡が観測した大マゼラン雲の星形成領域「N159」</title>
-      <link>https://sorae.info/astronomy/20251128-lmc-n159.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測したHII（エイチツー）領域「N159」。 かじき座の方向、約16万光年先にあります。 全体では幅150光年にわたる広大な領域で、ここに写っているのはその一部。 明るさが異なる… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20251128-lmc-n159.html</guid>
-      <pubDate>Fri, 28 Nov 2025 11:41:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>シドニーで開かれた「IAC 2025」現地レポート–中国が存在感、オーストラリアは各地で特色も</title>
-      <link>https://uchubiz.com/article/new67700/</link>
-      <description>International Astronautical Congress 2025（国際宇宙会議、通称「IAC」）が9月30日から10月3日にかけて、オーストラリアのシドニーで開催された。IACは宇宙科学・技術の研究成 […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new67700/</guid>
-      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ブルーオリジン、巨大ロケット「ニューグレン」を増強へ–3回目の打ち上げから段階的に導入</title>
-      <link>https://uchubiz.com/article/new67772/</link>
-      <description>米Blue Origin（ブルーオリジン）は、全長98mの大型ロケット「New Glenn」（ニューグレン）を強化することを明らかにした。同社は米国時間11月13日に、New Glennの2回目の打ち上げでブースターの […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new67772/</guid>
-      <pubDate>Fri, 21 Nov 2025 03:27:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>BULL、ドイツ企業と戦略的パートナーシップで覚書–宇宙の持続可能性向上目指す</title>
-      <link>https://uchubiz.com/article/new67816/</link>
-      <description>BULL（栃木県宇都宮市）はドイツ企業MAITY Spaceと宇宙の持続可能性と安全性の促進に向けた戦略的パートナーシップを確立する覚書（MOU）を締結した。11月21日に発表した。 　BULLが開発する、衛星やロケッ […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new67816/</guid>
-      <pubDate>Fri, 21 Nov 2025 08:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>インターステラテクノロジズ、ロケット「ZERO」初号機の顧客に日米3衛星を追加–計7機を搭載</title>
-      <link>https://uchubiz.com/article/new67692/</link>
-      <description>インターステラテクノロジズ（北海道大樹町）は11月19日、開発中のロケット「ZERO」初号機の顧客として、新たに東京大学、米国の私立学校Fulton Science Academy、米国の企業Lothan Spaceの […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new67692/</guid>
-      <pubDate>Wed, 19 Nov 2025 01:24:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>咲き誇る花のような渦巻銀河　ハッブル宇宙望遠鏡が観測した「NGC 972」</title>
-      <link>https://sorae.info/astronomy/20251123-ngc-972.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した渦巻銀河「NGC 972」。 おひつじ座の方向、約7000万光年先にあります。 明るい中心部とその周りを取り囲む渦巻腕（渦状腕）の複雑な様相は、宇宙に咲いた一輪の花を思わせ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20251123-ngc-972.html</guid>
-      <pubDate>Sun, 23 Nov 2025 11:47:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Dec 2025 06:39:35 +0000</lastBuildDate>
     <item>
       <title>暗黒物質由来？　天の川銀河中心方向でハロー状のガンマ線放射を発見</title>
       <link>https://sorae.info/astronomy/20251127-wimp-gamma-ray-candidate.html</link>
       <description>間接的な証拠をもとに存在すると考えられている、謎に満ちた「暗黒物質（ダークマター）」。 その暗黒物質から放射された電磁波を初めて捉えたかもしれないとする研究成果を、東京大学大学院の戸谷友則教授が発表しました。 あるはずな… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20251127-wimp-gamma-ray-candidate.html</guid>
       <pubDate>Thu, 27 Nov 2025 11:18:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>米国に学ぶ宇宙産業の民間活用。財務省が宇宙戦略基金の発展を提言【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/43456/</link>
+      <description>2025年11月11日、財務省が宇宙政策に関する会議資料を公表しました。米国の事例を参考に、日本の宇宙産業における民間資金活用の必要性が強調されています。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/43456/</guid>
+      <pubDate>Sun, 30 Nov 2025 23:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>「気球からロケット発射」のAstroXが18億円を調達–2026年内の宇宙空間到達を目指す</title>
+      <link>https://uchubiz.com/article/new67944/</link>
+      <description>気球を使って空中からロケットを発射するRockoon方式による衛星軌道投入ロケットを開発するAstroX（福島県南相馬市）は11月28日、合計18億円の資金を調達したことを発表した。 　alphaをリード投資家としてシ […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new67944/</guid>
+      <pubDate>Sun, 30 Nov 2025 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ロシアが宇宙船「ソユーズMS-28」を打ち上げ　約3時間後にISSへ到着</title>
+      <link>https://sorae.info/ssn/20251130-soyuz-ms-28.html</link>
+      <description>ロシアの国営宇宙企業Roscosmos（ロスコスモス）は、日本時間2025年11月27日に「Soyuz（ソユーズ）2.1a」ロケットの打ち上げを実施しました。搭載されていた宇宙船「Soyuz（ソユーズ）MS-28」は無事… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20251130-soyuz-ms-28.html</guid>
+      <pubDate>Sun, 30 Nov 2025 08:34:54 +0000</pubDate>
     </item>
     <item>
       <title>【衛星データを楽しく学ぶツールを作りました】リピート希望率100%！社内研修にも使えるボードゲーム「宙の知恵」のクラウドファンディングは12月9日まで【PR】</title>
@@ -65,11 +44,32 @@
       <pubDate>Sun, 23 Nov 2025 23:00:41 +0000</pubDate>
     </item>
     <item>
+      <title>ロシア、打ち上げで「バイコヌール宇宙基地」の発射台を損傷–ISSへの有人輸送に影響か</title>
+      <link>https://uchubiz.com/article/new67951/</link>
+      <description>11月27日に実施された国際宇宙ステーション（ISS）へのロケット打ち上げでロシア唯一の有人宇宙船の発射台が損傷したと、ロシア国営宇宙公社（Roscosmos、ロスコスモス）が明かした。 　ロシアは27日、カザフスタン […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new67951/</guid>
+      <pubDate>Mon, 01 Dec 2025 05:37:47 +0000</pubDate>
+    </item>
+    <item>
       <title>ISSで新種の細菌を発見も、地上のイモリの皮膚で “発見済み” だったことが併せて判明</title>
       <link>https://sorae.info/science/20251125-microbacterium-meiriae.html</link>
       <description>地球から最も隔絶された環境の宇宙ステーションには独特の微生物叢（微生物の種類や量）が形成されており、時々新種の細菌が見つかることもあります。これらの細菌はその状況から、宇宙ステーションで突然変異したのではなく、たまたま地… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/science/20251125-microbacterium-meiriae.html</guid>
       <pubDate>Tue, 25 Nov 2025 12:44:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>大阪の「ものづくり技術」で宇宙機の製造需要に応える–大阪商工会議所がコミュニティ醸成</title>
+      <link>https://uchubiz.com/article/fea67914/</link>
+      <description>衛星のサプライチェーン構築や宇宙食の開発など、日本各地で宇宙産業の発展に向けたさまざまな取り組みが生まれている。また、北海道大樹町や福島県南相馬市などでは、広大な土地を生かした宇宙港や実証施設の建設が進んでいるところだ […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/fea67914/</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>韓国でヌリ号ロケット4回目の打ち上げ実施　13機の衛星を軌道に投入</title>
+      <link>https://sorae.info/ssn/20251201-nuri.html</link>
+      <description>韓国で日本時間2025年11月27日に、「ヌリ号」ロケット4回目の打ち上げが実施されました。搭載されていた13機の衛星は目標の軌道に投入されたことを、KARI＝韓国航空宇宙研究院が報告しています。 打ち上げに関する情報は… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20251201-nuri.html</guid>
+      <pubDate>Mon, 01 Dec 2025 01:11:23 +0000</pubDate>
     </item>
     <item>
       <title>アークエッジ・スペース、氷河や温室効果ガスのモニタリングの共同研究でタジキスタンと覚書</title>

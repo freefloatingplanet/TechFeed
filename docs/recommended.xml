@@ -7,74 +7,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Nov 2025 06:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 06:39:32 +0000</lastBuildDate>
     <item>
-      <title>モノレポ＋Hono＋OpenAPIスキーマ駆動(Orval)+Drizzleは最高</title>
-      <link>https://zenn.dev/takumi0706/articles/12229d929523ec</link>
-      <description>はじめに
-最近の開発で、モノレポ上に Hono のバックエンドと Next.js のフロントを抱えたアプリを作っている。そこで一周回って確信したのが、「Hono + OpenAPIスキーマ駆動 (Orval) + Drizzle」の組み合わせがとにかく快適ということ。この記事では、その理由と気持ちよかった設計ポイントをまとめる。
-ポイントは以下の3つ。
-
-Honoがプレゼンテーション層の薄皮に徹し、クリーンアーキテクチャを素直に表現できる。
-OpenAPI → Orval → Zod → TypeScript 型 というパイプラインが、“仕様＝型＝バリデーション” を保証してくれる。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/takumi0706/articles/12229d929523ec</guid>
-      <pubDate>Wed, 26 Nov 2025 08:05:10 +0000</pubDate>
+      <title>動画の倍速視聴、理解できるのは何倍まで？　高齢者と若者の違いを米UCLAが研究報告</title>
+      <link>https://www.itmedia.co.jp/news/articles/2512/01/news021.html</link>
+      <description>このコーナーでは、2014年から先端テクノロジーの研究を論文単位で記事にしているWebメディア「Seamless」（シームレス）を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 X： ＠shiropen2 現代のデジタル社会において、動画コンテンツの倍速視聴は日常的な光景となった。YouTube... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2512/01/news021.html</guid>
+      <pubDate>Sun, 30 Nov 2025 23:17:23 +0000</pubDate>
     </item>
     <item>
-      <title>AIコードレビュー「棚卸し」のススメ</title>
-      <link>https://zenn.dev/aki_think/articles/e8a846e9bb95b0</link>
-      <description>AI にコードレビューを投げると、ありがたいことに山ほどレビューコメントが返ってくる。
-しかし、実際に運用してみると、その中には直さなくても良さそうな細かい指摘や、そもそもレビュー内容自体が誤っているコメントが紛れ込み、PR のコメント欄があっという間にカオスな状態になることも珍しくない。
-結局のところ、一つひとつについて「この指摘は妥当か？」「今すぐ対応すべきか？」を目で追いながら判断していくことになり、レビューが増えたわりに仕分け作業だけが重くのしかかってくる。
-そこで発想を変え、まずは PR についたレビューコメントをすべて洗い出し、その一つひとつについて妥当性や対応方針（対応する... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aki_think/articles/e8a846e9bb95b0</guid>
-      <pubDate>Thu, 27 Nov 2025 11:54:43 +0000</pubDate>
+      <title>Azure の バックボーン や ネットワーク を図解してみる</title>
+      <link>https://zenn.dev/microsoft/articles/azurebackbone</link>
+      <description>こちらは Microsoft Azure Tech Advent Calendar 2025 1日目 の記事です。
+
+ はじめに
+Azure を支えるネットワークインフラ について、公式ドキュメント等にある情報をまとめつつ、図解しながら、その構造や通信の経路などを掘り下げてみます。特に バックボーン あたりをフォーカスして記載しています。また本記事とあわせ、実際にバックボーン経由の通信がインターネットにでないことも検証した記事も併せてご覧ください。
+
+ Azure → Microsoft サービスの通信がインターネットに出ないか Datadog Network Path で検証 
+
+
+ ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/azurebackbone</guid>
+      <pubDate>Sun, 30 Nov 2025 18:43:47 +0000</pubDate>
     </item>
     <item>
-      <title>再帰やループを使わずに組合せを求める</title>
-      <link>https://zenn.dev/pona/articles/675a59cb0a9efc</link>
-      <description>はじめに
-世の中の言語や環境の中には，順列や組合せの生成といった高度なコレクション操作を標準で提供してくれないものが少なからずあります．かかる折には自前でジェネレータを定義するものですが，再帰だのループだのと書いているうちに目が回って疲れてしまいます．しかし，こと組合せの生成に関しては心配無用です．繰り返しを用いずにビット演算だけでこれを実現する方法があります．
-
- 組合せと二進数
-組合せというのは，集団の中から何個か要素を取り出す時，どんなバリエーションが有り得るのかを考える分野です．例えば，7 色のボールが入った箱から 3 個取り出す場合，赤青緑だったり青黄橙といったふうに複数の... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pona/articles/675a59cb0a9efc</guid>
-      <pubDate>Sat, 29 Nov 2025 12:10:02 +0000</pubDate>
+      <title>レスポンシブデザインの「間」を適切に設計するためのフルイドタイポグラフィとグリッドシステムの考え方——キャンバスインからコンテンツアウトへ</title>
+      <link>https://yuheiy.com/blog/2025/designing-the-in-between</link>
+      <description>「PLAID Designer’s Advent Calendar 2025」の1日目の記事です。 レスポンシブデザインでウェブサイトの制作をする場合、デザイナーがモバイル幅とデスクトップ幅のデザインカンプを作成し、開発者がそれをもとに実装するというワークフローが一般的である。このとき決まって問題になるのが、デザインカンプとして定義さ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://yuheiy.com/blog/2025/designing-the-in-between</guid>
+      <pubDate>Mon, 01 Dec 2025 01:06:34 +0000</pubDate>
     </item>
     <item>
-      <title>「AIに先にテストを全部書かせる」はTDDじゃない。でも、それもアリだよね。</title>
-      <link>https://zenn.dev/loglass/articles/16745471ef55ff</link>
-      <description>こんにちは、ログラスの松岡(@little_hand_s)です
-
-
- 3行まとめ
-
-「先にテストをまとめて書かせる」はTDDではない（サイクルと目的が違う）
-従来のTDDでは非推奨だったが、AI時代では有効な手法に
-違いを理解して使い分けることで、AI時代の開発がより効果的になる
-
-
- AI時代のTDDと、混乱しやすい実現方法
-最近、AI開発の文脈で「TDD（Test-Driven Development：テスト駆動設計）が有効」という話をよく聞くようになりました。
-ClaudeCode公式のベストプラクティスでも「TDDはエージェンティックコーディングによってさらに強力になる」と述べら... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/loglass/articles/16745471ef55ff</guid>
-      <pubDate>Wed, 26 Nov 2025 23:22:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gemini 3 Pro 実務活用ガイド：個人の能力を拡張し、業務フローを変革するための設計図｜【AI研究中】ただし</title>
-      <link>https://note.com/note_tds/n/n7ba408852de9</link>
-      <description>前回のNotebookLMの記事が大好評だったため、Geminiについてもまとめてみました。 今回も前回同様、実用的なプロンプトを記事の最後に付けています。 はじめに：「物知りな辞書」から「思考する教師」へ「生成AIは、検索の代わりに使うもの」「文章を要約させるためのもの」 もし、あなたがGeminiに対してこのような認識... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/note_tds/n/n7ba408852de9</guid>
-      <pubDate>Fri, 28 Nov 2025 13:18:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transactional Outbox と冪等性の実装ガイド</title>
-      <link>https://qiita.com/zou-g/items/d2999e53fed1aa26057a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに ― あの「予約大丈夫かな…？」という不安の正体
-金曜の夜、友人との飲み会の席を確保しようとして、食べログやホットペッパーのような予約サービスを使う場面を想像してみてください。
-画面には「予約を受け付けました」と出ているのに、しばらく待っても確認メールが届かない。... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/zou-g/items/d2999e53fed1aa26057a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 29 Nov 2025 05:36:03 +0000</pubDate>
+      <title>【海外記事紹介】「今はAIバブルだ、なぜなら私たちが必要とされていないから😭」と嘆く機械学習エンジニアのブログが話題に — ソフトウェアによる効率化はなぜ後回しにされるのか</title>
+      <link>https://techfeed.io/entries/692cb7ea3837533862f0e80e?from=rss</link>
+      <description>11月30日、Pete Warden氏が「I Know We’re in an AI Bubble Because Nobody Wants Me 😭」と題したブログ記事を公開し、海外で話題を呼んでいる。この記事では、AIバブルの過熱と、巨大なハードウェア投資と対照的にソフトウェア最適化への投資が顕著に不足しているという著者の問題意識について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/692cb7ea3837533862f0e80e?from=rss</guid>
+      <pubDate>Sun, 30 Nov 2025 21:32:26 +0000</pubDate>
     </item>
     <item>
       <title>「S3はオブジェクトストレージ」の意味、本当に理解できてますか？~見事にハマった俺の屍を超えて行け~</title>
@@ -87,36 +55,88 @@ ClaudeCode公式のベストプラクティスでも「TDDはエージェンテ�
       <pubDate>Fri, 28 Nov 2025 10:22:04 +0000</pubDate>
     </item>
     <item>
-      <title>Go + クリーンアーキテクチャで AI エージェント基盤を再設計した話【前編】</title>
-      <link>https://zenn.dev/iyusuke/articles/b06400ce2b66c9</link>
-      <description>AIエージェントの開発を一気に行っていたのでそのまとめとなる記事を書いてみようと思います。
-エージェント開発のSDKやノーコードツールは充実してきていますが、MVPとしてバックエンドとして使ってる Go でライブラリなどをあまり使わず開発を進めた結果、ほぼ自前で実装することになったので一からのAIエージェント開発ということで参考になるかと思います。
+      <title>Swift 6.2からのConcurrency SafeなNotification</title>
+      <link>https://zenn.dev/matsuji/articles/fa7fa7517282e3</link>
+      <description>はじめに
+iOSやmacOSのアプリケーションの開発をする上でNotificationCenterを使うタイミングは時々あります。
+NotificationCenterはグローバルに通知を飛ばすことができ、OSからのイベントやCore Dataの変更を購読したりできます。
+このNotificationCenterですが、Objective-C時代のAPIを引きずっていて、現在のSwiftに最適化されていませんでした。
+SF-0011で見直しが入り、Swift 6.2からは今までよりもモダンで安全に通知の購読や発行ができるようになりました。
+この記事ではその使い方を紹介します。
+!
+新... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/matsuji/articles/fa7fa7517282e3</guid>
+      <pubDate>Sun, 30 Nov 2025 15:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS マネジメントコンソールで学ぶ ECS インフラ構築入門</title>
+      <link>https://zenn.dev/y___u/books/aws-ecs-hands-on</link>
+      <description>⭐︎ この Zenn Book について
+AWS マネジメントコンソールで、実践的な ECS Web アプリ基盤を構築するハンズオンです。Spring Boot で作成したシンプルな Web アプリを題材に、ネットワークから CI/CD まで、実際に手を動かしながら段階的に AWS の各サービスがどう連携するかを体感できます。
 
- 1. はじめに：なぜ Go で AI エージェント基盤を作るのか
-AI エージェントの実装といえば、一般には Python が選ばれます。
-LangChain / LangGraph や LlamaIndex など、強力なエージェントフレ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/iyusuke/articles/b06400ce2b66c9</guid>
-      <pubDate>Thu, 27 Nov 2025 09:22:45 +0000</pubDate>
+⭐︎ 想定読者
+・AWS の基礎知識はあるが、実際に環境構築経験は少ない方
+・コンテナベースのクラウドインフラを一から構築してみたい方
+
+⭐︎ 本書の特徴
+・各手順を画面キャプチャ付きで詳しく解説しているため、迷わず進められます
+・マネジメントコンソールでの操作を通じて、リソースの設定内容や相互関係を実感しながら学べます
+・セキュリティ設定、監視・通知、自動デプロイなど、本番環境では必須となる要素についても学べます
+
+⭐︎ 基本無料
+一通りのインフラ構築に関するコンテンツ (Chapter 01 ~ 14, 16) は無料で公開しています。Chapter 15 のみ応援購入のためのおまけになっています。
+
+⭐︎ おまけ
+開発環境のコスト削減に役立つ、ECS や (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/y___u/books/aws-ecs-hands-on</guid>
+      <pubDate>Fri, 28 Nov 2025 23:00:24 +0000</pubDate>
     </item>
     <item>
-      <title>FastAPIのテストコードを書いてDIの重要性を知った話</title>
-      <link>https://zenn.dev/lancers/articles/1bff9ebffdbd89</link>
-      <description>きっかけ
-こんにちは、ランサーズでエンジニアをしている岡田です。
-当時は開発スピード優先でテストコードなんて二の次。
-DIの概念は知りつつも、「DIを意識した開発コードって？」「DIを意識すると何が良いの？」と分からないままでした。
-それでも、FastAPI+sqlalchemyの開発では、DBを使う時に大抵エンドポイントの引数にdb: Session = Depends(get_db)が出てきます。
-「どうしてエンドポイントの内部ではなく引数で書くのか？」といまいち納得しないまま、FastAPIの書き方に従っておまじないのようにDependsを書いてました。
-そして、開発コードも増... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lancers/articles/1bff9ebffdbd89</guid>
-      <pubDate>Thu, 27 Nov 2025 01:56:09 +0000</pubDate>
+      <title>SELECT * がデータモデルの保守性を下げる話</title>
+      <link>https://zenn.dev/okiyuki/articles/d94b4ceb940160</link>
+      <description>SQLコーディング規約で SELECT * を使わずにカラム名を明示化する、というポリシーを時々見るのですが、正直なところ自分はこれまで「どっちでもいいかな〜」くらいに思ってました。アドホックな分析なら速いし、dbtで開発していても最下流のデータマートなら「カラムが増えても勝手についてきてくれるし、楽でいいじゃん」くらいに考えていました。
+一方、ディメンショナルモデリングを運用する中で、これを入れておかないと、知らぬ間に不適切なカラムが公開されて保守性が著しく下がる ということを痛感する出来事がありました。今回は、その実体験の共有となぜエンジニアリングの観点で SELECT * がアンチ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/okiyuki/articles/d94b4ceb940160</guid>
+      <pubDate>Sun, 30 Nov 2025 00:23:03 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】Rustにはガッカリしている</title>
-      <link>https://techfeed.io/entries/69261dbc2020c64b2242f9eb?from=rss</link>
-      <description>11月24日、bykozyが「Blog - Rust is a disappointment」と題した記事を公開した。この記事では、Rustが期待されてきた「C++の後継候補」としての役割を十分に果たしていないのではないかという問題提起を行い、とくにコンパイル速度の遅さ、言語としての複雑さ、メモリ安全性と信頼性のトレードオフ、可変共有状態の扱いにおける限界について詳しく紹介している。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/69261dbc2020c64b2242f9eb?from=rss</guid>
-      <pubDate>Tue, 25 Nov 2025 21:20:59 +0000</pubDate>
+      <title>esa記事を自動要約するSlack Botの実装詳細【Gemini + Cloud Run】</title>
+      <link>https://zenn.dev/transmedia_blog/articles/ad324e179b8a68</link>
+      <description>1. はじめに
+こんにちは！
+TransMedia Tech Lab に所属している B1 の木村 翔竜です。
+前回の記事では、私の先輩が「毎日更新される膨大な情報を効率良くインプットするには」というのを書きました。こちらでは、esaへの投稿を自動で要約してSlackに通知するbotの概要と運用結果をご紹介しました。
+本記事では、その実装の詳細について解説していきます！具体的には以下の内容をカバーします。
+
+システム全体の構成
+Gemini APIを活用したプロンプト設計の工夫
+esa API連携の実装
+Cloud Runを用いたデプロイ方法
+実装中に直面した課題とその解決策
+
+技術... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/transmedia_blog/articles/ad324e179b8a68</guid>
+      <pubDate>Sun, 30 Nov 2025 09:04:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[TIP] 改めてDI + DDDを理解する</title>
+      <link>https://zenn.dev/ncdc/articles/0be30eb5e3f2a0</link>
+      <description>最初に
+今更ながら、DIについて曖昧な理解を断ち切りたいと思いました。
+そのために、今回は「hono + DI + DDD」を使用して、備忘録として残しておきます。
+では始めます。
+!
+本記事では、DI + DDDの理解を深めることが目的のため、
+「inversify」等のライブラリは使用せず、簡単な実装例を記載しています。
+実務ではあまり有効的な実装ではないことが前提です。
+
+
+ DI（依存性注入）とは？
+巷では、「依存性注入」という小難しい言葉を使用して説明されることが多いですが、
+要するに、「部品同士が直接くっつくのではなく、必要な部品は外から渡してあげる仕組み」のことです。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/0be30eb5e3f2a0</guid>
+      <pubDate>Fri, 28 Nov 2025 09:29:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
