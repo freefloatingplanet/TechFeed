@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 Dec 2025 06:39:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 06:38:19 +0000</lastBuildDate>
     <item>
       <title>ヴァルダ・スペースが5回目のミッションを開始、AFRLのテスト飛行を延長</title>
       <link>https://spacenews.com/varda-space-launches-its-fifth-mission-extends-run-of-afrl-test-flights/</link>
       <description>W-5は、同社の自由飛行型再突入体「Wシリーズ」の最新宇宙船で、地球を周回軌道に乗せ、軌道上での処理と宇宙で作られた物質の回収を目的として設計されています。この記事は、Varda Spaceが5回目のミッションを開始し、AFRLの試験飛行を延長したという記事がSpaceNewsに掲載されたものです。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/varda-space-launches-its-fifth-mission-extends-run-of-afrl-test-flights/</guid>
       <pubDate>Fri, 28 Nov 2025 22:23:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU宇宙法：真の戦略的公平性を求める</title>
+      <link>https://spacenews.com/the-eu-space-act-a-call-for-true-strategic-fairness/</link>
+      <description>始める前に注意点があります。以下の意見は、EUが加盟国と協力して、欧州の経済的重要性、世界で果たしたい役割、現在の安全保障上の脅威（つまり、はるかに多くの […]）に見合った宇宙能力を備えるために十分な投資を行うことを最終的に決定する状況においてのみ関連します。この記事「EU宇宙法：真の戦略的公平性を求める声」はSpaceNewsに最初に掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/the-eu-space-act-a-call-for-true-strategic-fairness/</guid>
+      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
