@@ -7,13 +7,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Dec 2025 06:38:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 06:37:37 +0000</lastBuildDate>
     <item>
-      <title>サイバーセキュリティ、“侵入前提”はもう時代遅れ？　今再び「防御」に注目が集まるワケ</title>
-      <link>https://www.itmedia.co.jp/news/articles/2512/02/news014.html</link>
-      <description>サイバーセキュリティの分野で、パラダイムシフトが進んでいる。近年の常識となっていた「攻撃者の侵入を前提とした事後検知・対応」というトレンドが、「侵入の予防」へと回帰しつつあるのだ。その理由と、どのような取り組みに注目が集まっているのかを見てみよう。 サイバーセキュリティの取り組みは、3つの要素で構... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2512/02/news014.html</guid>
-      <pubDate>Tue, 02 Dec 2025 03:22:10 +0000</pubDate>
+      <title>【海外記事紹介】「今はAIバブルだ、なぜなら私たちが必要とされていないから😭」と嘆く機械学習エンジニアのブログが話題に — ソフトウェアによる効率化はなぜ後回しにされるのか</title>
+      <link>https://techfeed.io/entries/692cb7ea3837533862f0e80e?from=rss</link>
+      <description>11月30日、Pete Warden氏が「I Know We’re in an AI Bubble Because Nobody Wants Me 😭」と題したブログ記事を公開し、海外で話題を呼んでいる。この記事では、AIバブルの過熱と、巨大なハードウェア投資と対照的にソフトウェア最適化への投資が顕著に不足しているという著者の問題意識について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/692cb7ea3837533862f0e80e?from=rss</guid>
+      <pubDate>Sun, 30 Nov 2025 21:32:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>AgentのToolを公開MCPから自作に変えたらToken使用料が9割削減した</title>
+      <link>https://zenn.dev/leverages/articles/github-zenn-linkage-20251201-1</link>
+      <description>AgentのToolを公開されているMCPから自作に変更したら、Token使用料が9割削減できた話を書きます。
+
+ 背景
+現在ko☆shi（こーし）という引き継ぎを自動化するAgentを社内プロダクトとして開発しています。
+
+このAgentはGitHub、Asana、Slackをデータソースとして使用しており、Strands AgentsのMCP機能を使用して、各サービスの情報を取得しています。ユースケースとしては、最新のPRやIssueがどのタスクと紐づいているかを確認したり、そのタスクについてどういう意思決定がされているかを把握したりしています。
+いつも通りko☆shiを使用している... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/leverages/articles/github-zenn-linkage-20251201-1</guid>
+      <pubDate>Tue, 02 Dec 2025 04:57:52 +0000</pubDate>
     </item>
     <item>
       <title>ずんだもんに『先輩のクソコードのせいで本番が燃えてるのだ！』と毎朝叫ばれる目覚ましアプリを作った</title>
@@ -25,26 +38,25 @@
       <pubDate>Sun, 30 Nov 2025 22:03:19 +0000</pubDate>
     </item>
     <item>
-      <title>やったらあかんで！ AWSアンチパターン</title>
-      <link>https://zenn.dev/isawa/articles/3e9f9aeba89bde</link>
-      <description>概要
-どうも、どすこいです！
-先日投稿した 「そのDockerfile、卒業しよう」実務で通用するベストプラクティス が多くの方に読んでいただき、本当にうれしく思っています。
-今回取り上げるテーマは、AWSにおけるアンチパターンです。
-「AWSは触れているけれど、正直ベストプラクティスが分からないまま何となく動かしている」
-「インフラは後から直せばいいと思っていたら、思った以上に深刻な状態になっていた」
-そんな経験がある方はきっと共感できる内容だと思います。
-この記事では、私自身が実務で遭遇した失敗や、普段のよく目にするやってしまいがちな構成を中心に紹介します。
-単なる失敗談ではなく... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/isawa/articles/3e9f9aeba89bde</guid>
-      <pubDate>Mon, 01 Dec 2025 11:00:02 +0000</pubDate>
+      <title>「要件が決まらない」と嘆くのをやめて、企画と一緒に「業務」を作りに行こう - Tabelog Tech Blog</title>
+      <link>https://tech-blog.tabelog.com/entry/advent-calendar-20251203</link>
+      <description>この記事は 食べログ Advent Calendar 2025 の3日目の記事です🎅🎄 「要件定義書、確認しました。これじゃ作れません」 「え、なんとかこのまま進められない？」 エンジニアなら一度は経験したことがあるであろう、この不毛なやり取り。 かつての私も、「要件を決めるのは企画の仕事、それを作るのがエンジニアの仕事」... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech-blog.tabelog.com/entry/advent-calendar-20251203</guid>
+      <pubDate>Tue, 02 Dec 2025 23:54:53 +0000</pubDate>
     </item>
     <item>
-      <title>BtoBサイトの参考デザイン12選。企業規模や業種別にポイントも解説 | Coneのコンテンツ制作所</title>
-      <link>https://cone-c-slide.com/see-sla/blog/btobsite-design/</link>
-      <description>このように、BtoBでは「問い合わせ」を獲得し、その後の商談で受注につなげるという構造になっています。だからこそ、企業全体の信頼性を示す「コーポレートサイト」と、サービスの詳細情報を伝えて問い合わせを獲得する「サービスサイト」が重要になるのです。 そこで本記事では、BtoBビジネス特有の構造を持つ「コーポ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://cone-c-slide.com/see-sla/blog/btobsite-design/</guid>
-      <pubDate>Tue, 02 Dec 2025 02:00:07 +0000</pubDate>
+      <title>月間350件のプルリクを捌きつつ、実装タスクも並列でこなすために必要だったものはやっぱりgit worktreeでした。</title>
+      <link>https://zenn.dev/dress_code/articles/89a5ceaa6eac37</link>
+      <description>Dress Code Advent Calendar 2025、2日目の記事です🎉
+私がgit worktreeを使うに至るまでの話と、worktreeを使う際のおすすめのツールを紹介します。AI系の話はしません。
+よろしくお願いします！
+https://adventar.org/calendars/12017
+
+ はじめに。
+「タイトル盛りすぎだろw」と思われそうですが、DRESS CODE（弊社が展開しているSaaSの名称）の直近1ヶ月のPR数を確認したところ、なんと350件以上がマージされていました。
+現在は2チーム体制で開発を行なっており、コードレビューはチーム内でクロスレビュー... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/89a5ceaa6eac37</guid>
+      <pubDate>Tue, 02 Dec 2025 12:00:30 +0000</pubDate>
     </item>
     <item>
       <title>YAMLを数行変えただけでGithub Actionsの料金を70%削減できて実行時間まで減った話</title>
@@ -64,58 +76,39 @@
       <pubDate>Mon, 01 Dec 2025 02:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>SELECT * がデータモデルの保守性を下げる話</title>
-      <link>https://zenn.dev/okiyuki/articles/d94b4ceb940160</link>
-      <description>SQLコーディング規約で SELECT * を使わずにカラム名を明示化する、というポリシーを時々見るのですが、正直なところ自分はこれまで「どっちでもいいかな〜」くらいに思ってました。アドホックな分析なら速いし、dbtで開発していても最下流のデータマートなら「カラムが増えても勝手についてきてくれるし、楽でいいじゃん」くらいに考えていました。
-一方、ディメンショナルモデリングを運用する中で、これを入れておかないと、知らぬ間に不適切なカラムが公開されて保守性が著しく下がる ということを痛感する出来事がありました。今回は、その実体験の共有となぜエンジニアリングの観点で SELECT * がアンチ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/okiyuki/articles/d94b4ceb940160</guid>
-      <pubDate>Sun, 30 Nov 2025 00:23:03 +0000</pubDate>
+      <title>AIを楽観視する日本　「脅威ではない」44%、先進国では異例 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC133YR0T11C25A1000000/</link>
+      <description>急速に進化する人工知能（AI）によって、我々の仕事がなくなってしまうのではないか――。多くの日本人が、そうした懸念を実は「抱いていない」ことが日経BPの独自調査で明らかになった。海外の調査と比較すると、日本人のAIに対する楽観的な姿勢は、先進国では異例である。日経BPは2025年7月に、生成AIの活用に関するウェ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC133YR0T11C25A1000000/</guid>
+      <pubDate>Tue, 02 Dec 2025 23:24:14 +0000</pubDate>
     </item>
     <item>
-      <title>爆速CLI入門 ~最初に知りたかったTips~</title>
-      <link>https://zenn.dev/mozumasu/articles/mozumasu-cli-beginner</link>
-      <description>この記事はTechBullのアドカレ2日目の記事です。
+      <title>TanStack Startを試してみたけど、もうNext.jsには戻れない</title>
+      <link>https://zenn.dev/yt4/articles/tanstack-start-next-js</link>
+      <description>英語圏の X で Next.js と TanStack Start を比較する投稿が話題になっていました。
+投稿の冒頭には「TanStack Start を試してみたけど、もう Next.js には戻れない」とあり、投稿主は TanStack Start を強く推奨しているように見えます。
+この投稿に対し、多くのコメントが寄せられていました。
+興味深い議論だと感じたので、この記事では元の投稿と寄せられた意見、そして最後に自分の考えをまとめます。
 
- はじめに
-怠惰はプログラマの美徳である。
-CLIはそんな怠惰人間を支えてくれる最強の相棒である。
-キーボードだけで操作し、自動化を積み重ねていく。
-そんな世界へ踏み込もうとすると、最初の一歩で壁にぶつかる。
-本を開けば呪文のようなコマンドオプションが並び、由来もわからない。
-man や help があると言われても英語がつらい。
-何から手をつければいいのかもわからない。
-そこで、この記事では「最初に知りたかった」 CLI の Tips を紹介していく。
-
- 自分の使っているシェルを確認しよう
-現在使用しているシェルは以下の環境変... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mozumasu/articles/mozumasu-cli-beginner</guid>
-      <pubDate>Tue, 02 Dec 2025 00:32:58 +0000</pubDate>
+ おことわり
+本記事は、X 上で見かけた議論を紹介しつつ、自分の理解を整理したものです。
+特定の投稿者への反論や指摘を目的としたものではなく、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yt4/articles/tanstack-start-next-js</guid>
+      <pubDate>Mon, 01 Dec 2025 02:23:18 +0000</pubDate>
     </item>
     <item>
-      <title>【C#】Prismaのような書き心地をEFCoreでも実現！Linqraftの紹介</title>
-      <link>https://zenn.dev/arika/articles/20251130-linqraft-with-interceptor</link>
-      <description>先日、LinqraftというC#のライブラリを公開しました！この記事ではその紹介をしたいと思います。
+      <title>Prompt Cachingを完全に理解してLLMコストを爆裂に下げる</title>
+      <link>https://zenn.dev/ubie_dev/articles/ade17afebabaa9</link>
+      <description>!
+この記事は Ubie Tech Advent Calendar 2025 の1日目の記事です。
 
+Ubieのモバイルアプリ(iOS/Android)では、身体の悩みを相談できる医療AIエージェントを提供しています。toCでLLMプロダクトを提供する上では、コスト最適化が重要な課題となります。
+この記事では、その中核となる技術のひとつであるPrompt Cachingのプラクティスを紹介します。まだPrompt Cachingを試されていない方は、もしかすると50%~規模のコスト削減余地が眠っているかもしれません。
 
- 動機
-C#は素晴らしい言語です。強力な型安全性、分厚い標準ライブラリ、GUIアプリの開発からWEB構築まで、おおよそあらゆる用途に対応できて素晴らしい言語だと思っています。
-そんなC#ですが、私が日頃からフラストレーションを感じていることがあります。
-それは「クラス定義がめんどくさい！」そして「Selectクエリを書くのがめんどくさい！」ということです。
-C#は静的型付け言語なので、基本的に使用したいクラスはすべて定義しなければなりません。それ自体はある程度しょうがないのですが、派... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/arika/articles/20251130-linqraft-with-interceptor</guid>
-      <pubDate>Sun, 30 Nov 2025 08:13:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>EMになって10年。10年前の自分に伝えたい8つのこと</title>
-      <link>https://zenn.dev/openlogi/articles/d43f344f146274</link>
-      <description>この記事はOPENLOGI Advent Calendarの1日目の記事です。
-私はマネジメントの仕事を始めてから、今年でちょうど10年になりました。最初は現場リーダーから始めて、EM、VPoE、執行役員と経験してきました。
-この10年の間に、リリースが1年半遅れていたプロジェクトの立て直しや、CTOのいない組織の立て直しなど、いくつかの「なかなかハードな現場」を経験してきました。
-当然ですが、全部がうまくいったわけではありません。
-正直、「もっと良いやり方があったな」と思うことの方が多いです。
-それでも、10年という時間をかけて、ようやく「これは本当にそうだな」と自信を持って言えること... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/openlogi/articles/d43f344f146274</guid>
-      <pubDate>Sun, 30 Nov 2025 23:17:33 +0000</pubDate>
+ Prompt Cachingとは
+Prompt Caching(C... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/ade17afebabaa9</guid>
+      <pubDate>Tue, 02 Dec 2025 02:10:50 +0000</pubDate>
     </item>
     <item>
       <title>アドベントカレンダーをLLMで書くくらいなら何も書かない方がいい。</title>
