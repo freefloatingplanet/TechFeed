@@ -7,26 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Dec 2025 06:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 06:37:32 +0000</lastBuildDate>
     <item>
-      <title>【海外記事紹介】「今はAIバブルだ、なぜなら私たちが必要とされていないから😭」と嘆く機械学習エンジニアのブログが話題に — ソフトウェアによる効率化はなぜ後回しにされるのか</title>
-      <link>https://techfeed.io/entries/692cb7ea3837533862f0e80e?from=rss</link>
-      <description>11月30日、Pete Warden氏が「I Know We’re in an AI Bubble Because Nobody Wants Me 😭」と題したブログ記事を公開し、海外で話題を呼んでいる。この記事では、AIバブルの過熱と、巨大なハードウェア投資と対照的にソフトウェア最適化への投資が顕著に不足しているという著者の問題意識について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/692cb7ea3837533862f0e80e?from=rss</guid>
-      <pubDate>Sun, 30 Nov 2025 21:32:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>AgentのToolを公開MCPから自作に変えたらToken使用料が9割削減した</title>
-      <link>https://zenn.dev/leverages/articles/github-zenn-linkage-20251201-1</link>
-      <description>AgentのToolを公開されているMCPから自作に変更したら、Token使用料が9割削減できた話を書きます。
+      <title>「’ or ‘1’=‘1」これを見てピンと来ない人、危険ですよ。</title>
+      <link>https://qiita.com/KYoshiyama/items/f8f25ac6aaa13e859678?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>（本記事は理解促進のためのフィクションであり、実在のシステム・ログ・顧客環境とは一切関係ありません。）
+　
+ある日、会社のSlackでこんな会話を目にしました。
 
- 背景
-現在ko☆shi（こーし）という引き継ぎを自動化するAgentを社内プロダクトとして開発しています。
-
-このAgentはGitHub、Asana、Slackをデータソースとして使用しており、Strands AgentsのMCP機能を使用して、各サービスの情報を取得しています。ユースケースとしては、最新のPRやIssueがどのタスクと紐づいているかを確認したり、そのタスクについてどういう意思決定がされているかを把握したりしています。
-いつも通りko☆shiを使用している... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/leverages/articles/github-zenn-linkage-20251201-1</guid>
-      <pubDate>Tue, 02 Dec 2025 04:57:52 +0000</pubDate>
+投稿したのは、機械学習エンジニア出身で、最近アプリ側も触るようになった後輩くん。
+普段は、「モデルの精度が〜」... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/KYoshiyama/items/f8f25ac6aaa13e859678?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 02 Dec 2025 23:23:26 +0000</pubDate>
     </item>
     <item>
       <title>ずんだもんに『先輩のクソコードのせいで本番が燃えてるのだ！』と毎朝叫ばれる目覚ましアプリを作った</title>
@@ -38,11 +30,19 @@
       <pubDate>Sun, 30 Nov 2025 22:03:19 +0000</pubDate>
     </item>
     <item>
-      <title>「要件が決まらない」と嘆くのをやめて、企画と一緒に「業務」を作りに行こう - Tabelog Tech Blog</title>
-      <link>https://tech-blog.tabelog.com/entry/advent-calendar-20251203</link>
-      <description>この記事は 食べログ Advent Calendar 2025 の3日目の記事です🎅🎄 「要件定義書、確認しました。これじゃ作れません」 「え、なんとかこのまま進められない？」 エンジニアなら一度は経験したことがあるであろう、この不毛なやり取り。 かつての私も、「要件を決めるのは企画の仕事、それを作るのがエンジニアの仕事」... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tech-blog.tabelog.com/entry/advent-calendar-20251203</guid>
-      <pubDate>Tue, 02 Dec 2025 23:54:53 +0000</pubDate>
+      <title>やったらあかんで！ AWSアンチパターン</title>
+      <link>https://zenn.dev/isawa/articles/3e9f9aeba89bde</link>
+      <description>概要
+どうも、どすこいです！
+先日投稿した 「そのDockerfile、卒業しよう」実務で通用するベストプラクティス が多くの方に読んでいただき、本当にうれしく思っています。
+今回取り上げるテーマは、AWSにおけるアンチパターンです。
+「AWSは触れているけれど、正直ベストプラクティスが分からないまま何となく動かしている」
+「インフラは後から直せばいいと思っていたら、思った以上に深刻な状態になっていた」
+そんな経験がある方はきっと共感できる内容だと思います。
+この記事では、私自身が実務で遭遇した失敗や、普段のよく目にするやってしまいがちな構成を中心に紹介します。
+単なる失敗談ではなく... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/isawa/articles/3e9f9aeba89bde</guid>
+      <pubDate>Mon, 01 Dec 2025 11:00:02 +0000</pubDate>
     </item>
     <item>
       <title>月間350件のプルリクを捌きつつ、実装タスクも並列でこなすために必要だったものはやっぱりgit worktreeでした。</title>
@@ -57,6 +57,13 @@ https://adventar.org/calendars/12017
 現在は2チーム体制で開発を行なっており、コードレビューはチーム内でクロスレビュー... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/dress_code/articles/89a5ceaa6eac37</guid>
       <pubDate>Tue, 02 Dec 2025 12:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>JSONにケツカンマを求めるのは間違っているだろうか - An Epicurean</title>
+      <link>https://blog.song.mu/entry/is-it-strange-to-want-a-trailing-comma-in-json</link>
+      <description>間違っています。JSONは仕様が簡潔で融通が利かないところがメリットであり、ケツカンマやコメントを許容しないこともそれに一役買っています。ケツカンマやコメントが欲しければYAMLを使いましょう。YAMLはJSONのスーパーセットなので、JSONにケツカンマやコメントをつければYAMLとして読むことは出来ます。 JSONとYAML... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://blog.song.mu/entry/is-it-strange-to-want-a-trailing-comma-in-json</guid>
+      <pubDate>Thu, 04 Dec 2025 03:57:06 +0000</pubDate>
     </item>
     <item>
       <title>YAMLを数行変えただけでGithub Actionsの料金を70%削減できて実行時間まで減った話</title>
@@ -76,25 +83,37 @@ https://adventar.org/calendars/12017
       <pubDate>Mon, 01 Dec 2025 02:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>AIを楽観視する日本　「脅威ではない」44%、先進国では異例 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUC133YR0T11C25A1000000/</link>
-      <description>急速に進化する人工知能（AI）によって、我々の仕事がなくなってしまうのではないか――。多くの日本人が、そうした懸念を実は「抱いていない」ことが日経BPの独自調査で明らかになった。海外の調査と比較すると、日本人のAIに対する楽観的な姿勢は、先進国では異例である。日経BPは2025年7月に、生成AIの活用に関するウェ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC133YR0T11C25A1000000/</guid>
-      <pubDate>Tue, 02 Dec 2025 23:24:14 +0000</pubDate>
+      <title>新人のときに読みたかった ―『先輩データサイエンティストからの指南書』を読んで</title>
+      <link>https://zenn.dev/mkj/articles/c081840e565623</link>
+      <description>株式会社松尾研究所のごうやです。
+本記事は、松尾研究所 Advent Calendar 2025の記事です。
+株式会社ブレインパッドの浅野様から先輩データサイエンティストからの指南書をご恵贈賜りましたのでレビューします。
+
+ はじめに
+データサイエンティストとして働いていると、「分析はできたけど、その先どうするの？」と素朴な疑問が湧きました。手元のNotebookで精度の高いモデルができた。技術検証としては成功。それを本番環境で動かして、クライアントに実際に使ってもらうとなると、途端にハードルが上がります。
+本書『先輩データサイエンティストからの指南書』は、エンジニアリングの観点から「分... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mkj/articles/c081840e565623</guid>
+      <pubDate>Tue, 02 Dec 2025 15:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>TanStack Startを試してみたけど、もうNext.jsには戻れない</title>
-      <link>https://zenn.dev/yt4/articles/tanstack-start-next-js</link>
-      <description>英語圏の X で Next.js と TanStack Start を比較する投稿が話題になっていました。
-投稿の冒頭には「TanStack Start を試してみたけど、もう Next.js には戻れない」とあり、投稿主は TanStack Start を強く推奨しているように見えます。
-この投稿に対し、多くのコメントが寄せられていました。
-興味深い議論だと感じたので、この記事では元の投稿と寄せられた意見、そして最後に自分の考えをまとめます。
+      <title>爆速CLI入門 ~最初に知りたかったTips~</title>
+      <link>https://zenn.dev/mozumasu/articles/mozumasu-cli-beginner</link>
+      <description>この記事はTechBullのアドカレ2日目の記事です。
 
- おことわり
-本記事は、X 上で見かけた議論を紹介しつつ、自分の理解を整理したものです。
-特定の投稿者への反論や指摘を目的としたものではなく、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yt4/articles/tanstack-start-next-js</guid>
-      <pubDate>Mon, 01 Dec 2025 02:23:18 +0000</pubDate>
+ はじめに
+怠惰はプログラマの美徳である。
+CLIはそんな怠惰人間を支えてくれる最強の相棒である。
+キーボードだけで操作し、自動化を積み重ねていく。
+そんな世界へ踏み込もうとすると、最初の一歩で壁にぶつかる。
+本を開けば呪文のようなコマンドオプションが並び、由来もわからない。
+man や help があると言われても英語がつらい。
+何から手をつければいいのかもわからない。
+そこで、この記事では「最初に知りたかった」 CLI の Tips を紹介していく。
+
+ 自分の使っているシェルを確認しよう
+現在使用しているシェルは以下の環境変... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mozumasu/articles/mozumasu-cli-beginner</guid>
+      <pubDate>Tue, 02 Dec 2025 00:32:58 +0000</pubDate>
     </item>
     <item>
       <title>Prompt Cachingを完全に理解してLLMコストを爆裂に下げる</title>

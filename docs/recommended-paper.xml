@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 03 Dec 2025 06:37:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 06:37:40 +0000</lastBuildDate>
     <item>
-      <title>一般化BCIの再考：EEGメンタルコマンドデコードのための34万以上のユニークなアルゴリズム構成のベンチマーク</title>
-      <link>https://arxiv.org/abs/2512.02978v1</link>
-      <description>脳波記録法（EEG）で測定された脳パターンの堅牢なデコードと分類は、参加者内および参加者間の変動性が十分に文書化されているため、現実世界（つまり、科学研究室や医療施設以外）の脳コンピューターインターフェース（BCI）アプリケーションにとって依然として大きな課題です。ここでは、空間的および非線形EEG分類の340,000を超える固有の組み合わせを評価する大規模なベンチマークを紹介します。私たちの方法論的パイプラインは、3つのオープンアクセスEEGデータセットにわたる共通空間パターン（CSP）、リーマン幾何学、機能的連結性、およびフラクタルまたはエントロピーベースの機能の組み合わせで構成されています。以前の研究とは異なり、私たちの分析は参加者ごとに、複数の周波数帯域（8〜15 Hzと8〜30 Hz）にわたって動作し、グループレベルのパフォーマンスと個々の変動性の両方を直接評価できます。共分散接線空間射影（cov-tgsp）とCSPは、一貫して最高の平均分類精度を達成しました。しかし、その有効性はデータセットに大きく依存し、特に最も異質なデータセットにおいては、参加者レベルで顕著な差が見られ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2512.02978v1</guid>
-      <pubDate>Tue, 02 Dec 2025 17:56:46 +0000</pubDate>
+      <title>ロボットの高速回避と反応計画のためのスーパーコンピューティング</title>
+      <link>https://arxiv.org/abs/2509.19486v2</link>
+      <description>本稿では、高性能コンピューティング（HPC）がロボット制御においてミリ秒単位の応答性を実現する方法を示す概念実証研究であるSHARP（Supercomputing for High-speed Avoidance and Reactive Planning）を紹介します。現代のロボットは、人間とロボットが共有する作業空間において、より高い応答性に対する要求が高まっていますが、搭載プロセッサはサイズ、消費電力、コストの制約を受けています。HPCへのオフロードは、軌道計画のための大規模な並列処理を可能にしますが、ネットワークの遅延とジッターの影響により、リアルタイムロボットへの適用可能性は依然として不透明です。本稿では、7自由度マニピュレーターが高速のフォーム弾を回避しなければならないストレステストシナリオにおいて、SHARPを評価します。ローカルおよびリモートの HPC クラスターの両方で MPI を使用して実装された並列化マルチゴール A* 検索を使用することで、システムは平均計画レイテンシ 22.9 ミリ秒 (ローカル) および 30.0 ミリ秒 (リモート、約 300 km 離れた (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.19486v2</guid>
+      <pubDate>Tue, 23 Sep 2025 18:48:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

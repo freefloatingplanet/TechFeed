@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Dec 2025 06:37:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 06:37:39 +0000</lastBuildDate>
+    <item>
+      <title>暗黒物質由来？　天の川銀河中心方向でハロー状のガンマ線放射を発見</title>
+      <link>https://sorae.info/astronomy/20251127-wimp-gamma-ray-candidate.html</link>
+      <description>間接的な証拠をもとに存在すると考えられている、謎に満ちた「暗黒物質（ダークマター）」。 その暗黒物質から放射された電磁波を初めて捉えたかもしれないとする研究成果を、東京大学大学院の戸谷友則教授が発表しました。 あるはずな… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20251127-wimp-gamma-ray-candidate.html</guid>
+      <pubDate>Thu, 27 Nov 2025 11:18:22 +0000</pubDate>
+    </item>
     <item>
       <title>米国に学ぶ宇宙産業の民間活用。財務省が宇宙戦略基金の発展を提言【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/43456/</link>
@@ -30,25 +37,11 @@
       <pubDate>Sun, 30 Nov 2025 08:34:54 +0000</pubDate>
     </item>
     <item>
-      <title>【衛星データを楽しく学ぶツールを作りました】リピート希望率100%！社内研修にも使えるボードゲーム「宙の知恵」のクラウドファンディングは12月9日まで【PR】</title>
-      <link>https://sorabatake.jp/43483/</link>
-      <description>衛星データの利活用を楽しく体験できるボードゲーム「宙の知恵（そらのちえ）」を株式会社sorano meが開発。その概要とクラウドファンティングのリターンについて紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/43483/</guid>
-      <pubDate>Sun, 23 Nov 2025 23:00:41 +0000</pubDate>
-    </item>
-    <item>
       <title>ロシア、打ち上げで「バイコヌール宇宙基地」の発射台を損傷–ISSへの有人輸送に影響か</title>
       <link>https://uchubiz.com/article/new67951/</link>
       <description>11月27日に実施された国際宇宙ステーション（ISS）へのロケット打ち上げでロシア唯一の有人宇宙船の発射台が損傷したと、ロシア国営宇宙公社（Roscosmos、ロスコスモス）が明かした。 　ロシアは27日、カザフスタン […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new67951/</guid>
       <pubDate>Mon, 01 Dec 2025 05:37:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISSで新種の細菌を発見も、地上のイモリの皮膚で “発見済み” だったことが併せて判明</title>
-      <link>https://sorae.info/science/20251125-microbacterium-meiriae.html</link>
-      <description>地球から最も隔絶された環境の宇宙ステーションには独特の微生物叢（微生物の種類や量）が形成されており、時々新種の細菌が見つかることもあります。これらの細菌はその状況から、宇宙ステーションで突然変異したのではなく、たまたま地… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/science/20251125-microbacterium-meiriae.html</guid>
-      <pubDate>Tue, 25 Nov 2025 12:44:04 +0000</pubDate>
     </item>
     <item>
       <title>大阪の「ものづくり技術」で宇宙機の製造需要に応える–大阪商工会議所がコミュニティ醸成</title>
@@ -58,6 +51,13 @@
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>スペースデータ、ISSと地球のデジタルツインを連携–「ひとつのデジタル空間」として再現</title>
+      <link>https://uchubiz.com/article/new68012/</link>
+      <description>スペースデータ（東京都港区）は12月3日、国際宇宙ステーション（ISS）のデジタルツインと、地球のデジタルツインのシームレスな連結を実現したと発表した。ユーザーは、地球上の特定地点から見たISSの軌道や可視範囲、またI […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new68012/</guid>
+      <pubDate>Thu, 04 Dec 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>韓国でヌリ号ロケット4回目の打ち上げ実施　13機の衛星を軌道に投入</title>
       <link>https://sorae.info/ssn/20251201-nuri.html</link>
       <description>韓国で日本時間2025年11月27日に、「ヌリ号」ロケット4回目の打ち上げが実施されました。搭載されていた13機の衛星は目標の軌道に投入されたことを、KARI＝韓国航空宇宙研究院が報告しています。 打ち上げに関する情報は… (source: sorae 宇宙へのポータルサイト)</description>
@@ -65,11 +65,11 @@
       <pubDate>Mon, 01 Dec 2025 01:11:23 +0000</pubDate>
     </item>
     <item>
-      <title>アークエッジ・スペース、氷河や温室効果ガスのモニタリングの共同研究でタジキスタンと覚書</title>
-      <link>https://uchubiz.com/article/new67824/</link>
-      <description>アークエッジ・スペースは中央アジアのタジキスタンと衛星画像解析による氷河と温室効果ガス（GHG）のモニタリングの共同研究を目的にした覚書を締結した。11月21日に発表した。 　締結の相手となったのは、タジキスタン政府の […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new67824/</guid>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <title>クラゲのような不思議な姿　“カシオペヤ座”の惑星状星雲「HFG 1」</title>
+      <link>https://sorae.info/astronomy/20251204-pn-hfg-1.html</link>
+      <description>こちらは、不思議な姿をした惑星状星雲「HFG 1」。 カシオペヤ座の方向、約2300光年先にあります。 画像に向かって右上には傘のような弧状の構造、左下には尾のように伸びた構造があります。その姿は、まるでマリンスノーを背… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20251204-pn-hfg-1.html</guid>
+      <pubDate>Thu, 04 Dec 2025 02:39:14 +0000</pubDate>
     </item>
     <item>
       <title>灼熱の星が輝かせた蝶のような惑星状星雲「NGC 6302」　チリのジェミニ南望遠鏡が観測</title>
