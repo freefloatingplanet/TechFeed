@@ -7,27 +7,60 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Dec 2025 06:37:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 06:37:43 +0000</lastBuildDate>
     <item>
-      <title>「’ or ‘1’=‘1」これを見てピンと来ない人、危険ですよ。</title>
-      <link>https://qiita.com/KYoshiyama/items/f8f25ac6aaa13e859678?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>（本記事は理解促進のためのフィクションであり、実在のシステム・ログ・顧客環境とは一切関係ありません。）
-　
-ある日、会社のSlackでこんな会話を目にしました。
-
-投稿したのは、機械学習エンジニア出身で、最近アプリ側も触るようになった後輩くん。
-普段は、「モデルの精度が〜」... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/KYoshiyama/items/f8f25ac6aaa13e859678?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 02 Dec 2025 23:23:26 +0000</pubDate>
+      <title>ゴミ出しのルール、「午前6時までにお出しください」って、早くない？みんなそう？→夜に出して夜中に回収してくれる福岡のシステムが称えられる</title>
+      <link>https://togetter.com/li/2635499</link>
+      <description>ゴミ出しを「午前6時まで」に設定している地域で、早朝のルールに戸惑う声が多数。寒い季節や暗い時間帯に出すのは大変で、地域によっては8時や10時までのところもある。夜間に回収車が巡回して住民が直接持ち寄る台湾式の運用に触発され、回収時間や人手、焼却施設の位置など運用上の課題を指摘する意見が出ている。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2635499</guid>
+      <pubDate>Fri, 05 Dec 2025 01:43:54 +0000</pubDate>
     </item>
     <item>
-      <title>ずんだもんに『先輩のクソコードのせいで本番が燃えてるのだ！』と毎朝叫ばれる目覚ましアプリを作った</title>
-      <link>https://qiita.com/alclimb/items/e303cf655373992f61f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに：エンジニアにとって「最高の目覚まし」とは
-朝、起きることができない。
-大音量のアラームも、光で起こす目覚ましライトも、計算問題を解かないと止まらないアプリも試しました。しかし、慣れてしまえば二度寝は容易です。脳が「これはただのアラームだ」と学習してしまうからです... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/alclimb/items/e303cf655373992f61f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sun, 30 Nov 2025 22:03:19 +0000</pubDate>
+      <title>初心者が爆速で Claude Code を習得する 10 のステップ</title>
+      <link>https://zenn.dev/aws_japan/articles/235df74854bad6</link>
+      <description>はじめに
+Claude Code を使い始めて、こんな悩みはありませんか？
+
+「セットアップしたけど、次に何をすればいいの？」
+「便利な機能があるらしいけど、使いこなせていない」
+「MCP サーバーって便利そうだけど、試しに何から入れればいいの？」
+
+この記事では、Claude Code on Amazon Bedrock の設定が完了した方が、Claude Code の基本的な操作方法を知り、「お、使いこなせてきたぞ！」と実感できるようになるためのポイントをご紹介します。
+!
+まだセットアップがお済みでない方は、以下のブログを参考に設定を行ってください。
+
+
+
+
+
+ 1. セットア... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/235df74854bad6</guid>
+      <pubDate>Tue, 02 Dec 2025 13:03:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI エージェント開発で失敗しないための 10 のデザインパターン - フレームワークに依存しない設計の共通言語を定義する</title>
+      <link>https://zenn.dev/loglass/articles/c7f4499ec8320b</link>
+      <description>!
+この記事は 株式会社ログラス Productチーム Advent Calendar 2025 のシリーズ 1、1日目 の記事です。
+
+Loglass VPoT の川村（@k0j1iii）です。
+AI エージェントを作ってみたが、「制御が難しい」「中身がわからない」と感じた経験はないだろうか。LangGraph や AutoGen といったフレームワークの登場により、容易に AI エージェントを作れるようになった一方で、本番運用するためには「無限ループ」「コスト爆発」「デバッグ不能」といった壁に直面する。
+本記事では、Anthropic・LangGraph・DeepLearning.... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/loglass/articles/c7f4499ec8320b</guid>
+      <pubDate>Mon, 01 Dec 2025 08:56:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>AgentのToolを公開MCPから自作に変えたらToken使用料が9割削減した</title>
+      <link>https://zenn.dev/leverages/articles/github-zenn-linkage-20251201-1</link>
+      <description>AgentのToolを公開されているMCPから自作に変更したら、Token使用料が9割削減できた話を書きます。
+
+ 背景
+現在ko☆shi（こーし）という引き継ぎを自動化するAgentを社内プロダクトとして開発しています。
+
+このAgentはGitHub、Asana、Slackをデータソースとして使用しており、Strands AgentsのMCP機能を使用して、各サービスの情報を取得しています。ユースケースとしては、最新のPRやIssueがどのタスクと紐づいているかを確認したり、そのタスクについてどういう意思決定がされているかを把握したりしています。
+いつも通りko☆shiを使用している... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/leverages/articles/github-zenn-linkage-20251201-1</guid>
+      <pubDate>Tue, 02 Dec 2025 04:57:52 +0000</pubDate>
     </item>
     <item>
       <title>やったらあかんで！ AWSアンチパターン</title>
@@ -59,28 +92,16 @@ https://adventar.org/calendars/12017
       <pubDate>Tue, 02 Dec 2025 12:00:30 +0000</pubDate>
     </item>
     <item>
-      <title>JSONにケツカンマを求めるのは間違っているだろうか - An Epicurean</title>
-      <link>https://blog.song.mu/entry/is-it-strange-to-want-a-trailing-comma-in-json</link>
-      <description>間違っています。JSONは仕様が簡潔で融通が利かないところがメリットであり、ケツカンマやコメントを許容しないこともそれに一役買っています。ケツカンマやコメントが欲しければYAMLを使いましょう。YAMLはJSONのスーパーセットなので、JSONにケツカンマやコメントをつければYAMLとして読むことは出来ます。 JSONとYAML... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://blog.song.mu/entry/is-it-strange-to-want-a-trailing-comma-in-json</guid>
-      <pubDate>Thu, 04 Dec 2025 03:57:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>YAMLを数行変えただけでGithub Actionsの料金を70%削減できて実行時間まで減った話</title>
-      <link>https://zenn.dev/counterworks/articles/573954dcfa8bb6</link>
-      <description>!
-※この記事は「COUNTER WORKS Advent Calendar 2025」の1日目の記事です。
+      <title>Claude Code公式Pluginのすすめ</title>
+      <link>https://zenn.dev/modokkin/articles/zenn-2025-12-03-tech-claude-code-plugins</link>
+      <description>この記事は tacoms Advent Calendar 2025 3日目の記事です。
 
-
- 結論: Blacksmithのrunnerを使うといいよ！
-
-サードパーティであるBlacksmith製のrunnerを利用した所、1分あたりの単価が半額になった上に、実行時間も減り、結果コストも約70%削減できました。
-今回の結果は、正確には、Github Actions用yamlの各Jobのrunnerを変更（runs-onを修正）する前に、導入に向けての調査や、Blacksmith自体への登録という作業をしたことにより実現しております。
-
- はじめに
-ご無沙汰しており... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/counterworks/articles/573954dcfa8bb6</guid>
-      <pubDate>Mon, 01 Dec 2025 02:00:02 +0000</pubDate>
+こんにちは、株式会社 tacoms で SRE をやっている はぶちん (@modokkin) です。
+気付けばあっという間に12月に入りましたね。ガーデナーにとってはそろそろ冬越しの準備が必要な時期ですが、手入れが楽になる一方で、しばらく遠のくと思うと寂しくもあります。
+寒くなってきたので、みなさまお身体にはお気をつけください。
+さて、今回はClaude Codeの公式Pluginについて紹介します。Plugin機能については公式ブログなどで知っている方も多いと思いますが、公式リポジトリで公開され... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/modokkin/articles/zenn-2025-12-03-tech-claude-code-plugins</guid>
+      <pubDate>Tue, 02 Dec 2025 21:00:01 +0000</pubDate>
     </item>
     <item>
       <title>新人のときに読みたかった ―『先輩データサイエンティストからの指南書』を読んで</title>
@@ -116,32 +137,16 @@ man や help があると言われても英語がつらい。
       <pubDate>Tue, 02 Dec 2025 00:32:58 +0000</pubDate>
     </item>
     <item>
-      <title>Prompt Cachingを完全に理解してLLMコストを爆裂に下げる</title>
-      <link>https://zenn.dev/ubie_dev/articles/ade17afebabaa9</link>
-      <description>!
-この記事は Ubie Tech Advent Calendar 2025 の1日目の記事です。
+      <title>DRYにしすぎるとコードは干からびる</title>
+      <link>https://zenn.dev/recustomer/articles/507cb85b321a63</link>
+      <description>前置き
+手前味噌ながら、弊社は高い開発生産性を評価され、Findy Team+ Award 2024, 2025 を2年連続で受賞した。華やかな受賞理由の裏側には様々な要因があるが、その中でも技術的な側面としてひっそりと、開発者が直接触れる作業領域に対して強く作用させていた力学のひとつが、本記事にて紹介する 「DRY との向き合い方(=境界設計)」 である。
 
-Ubieのモバイルアプリ(iOS/Android)では、身体の悩みを相談できる医療AIエージェントを提供しています。toCでLLMプロダクトを提供する上では、コスト最適化が重要な課題となります。
-この記事では、その中核となる技術のひとつであるPrompt Cachingのプラクティスを紹介します。まだPrompt Cachingを試されていない方は、もしかすると50%~規模のコスト削減余地が眠っているかもしれません。
-
- Prompt Cachingとは
-Prompt Caching(C... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/ade17afebabaa9</guid>
-      <pubDate>Tue, 02 Dec 2025 02:10:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>アドベントカレンダーをLLMで書くくらいなら何も書かない方がいい。</title>
-      <link>https://zenn.dev/watany/articles/ad14f8a352d62f</link>
-      <description>はじめに
-これから話すのは地雷の話で、踏むまではそれを知らない人もいるが一発の被弾が致命傷になる話だ。
-誰も話してくれないが、静かに起こっているアウトプットへの変化、そのムードについて書く。
-ムードなので定量的な話ではないが、その辺は差し引いて意見の一つとして読んで欲しい。
-
- 「アウトプット最高！」の時代
-Qiita、はてなブログ、Zennなどに書くのが当たり前の時代。書けば書くほど褒められる、というのが当たり前だった。量的な物の代表格として一人アドベントカレンダーという、12月に25本連続で記事を書くものを称賛する空気もあった。
-アウトプットの質自体を問われることは実はなかった。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/watany/articles/ad14f8a352d62f</guid>
-      <pubDate>Sun, 30 Nov 2025 15:00:21 +0000</pubDate>
+ 「最短距離」で走るつもりが、最速で消耗戦へ
+早期のプロダクト開発では「まずはスピードを最優先」という判断がしばしば下される。
+だが、短期効率だけを信じて場当たり的な共通化、とりわけ 「誤った DRY」 を積み重ねると、ほんの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/recustomer/articles/507cb85b321a63</guid>
+      <pubDate>Tue, 02 Dec 2025 07:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

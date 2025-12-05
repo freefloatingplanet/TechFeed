@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Dec 2025 06:37:39 +0000</lastBuildDate>
-    <item>
-      <title>暗黒物質由来？　天の川銀河中心方向でハロー状のガンマ線放射を発見</title>
-      <link>https://sorae.info/astronomy/20251127-wimp-gamma-ray-candidate.html</link>
-      <description>間接的な証拠をもとに存在すると考えられている、謎に満ちた「暗黒物質（ダークマター）」。 その暗黒物質から放射された電磁波を初めて捉えたかもしれないとする研究成果を、東京大学大学院の戸谷友則教授が発表しました。 あるはずな… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20251127-wimp-gamma-ray-candidate.html</guid>
-      <pubDate>Thu, 27 Nov 2025 11:18:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>米国に学ぶ宇宙産業の民間活用。財務省が宇宙戦略基金の発展を提言【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/43456/</link>
-      <description>2025年11月11日、財務省が宇宙政策に関する会議資料を公表しました。米国の事例を参考に、日本の宇宙産業における民間資金活用の必要性が強調されています。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/43456/</guid>
-      <pubDate>Sun, 30 Nov 2025 23:02:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Dec 2025 06:37:50 +0000</lastBuildDate>
     <item>
       <title>「気球からロケット発射」のAstroXが18億円を調達–2026年内の宇宙空間到達を目指す</title>
       <link>https://uchubiz.com/article/new67944/</link>
@@ -70,6 +56,20 @@
       <description>こちらは、不思議な姿をした惑星状星雲「HFG 1」。 カシオペヤ座の方向、約2300光年先にあります。 画像に向かって右上には傘のような弧状の構造、左下には尾のように伸びた構造があります。その姿は、まるでマリンスノーを背… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20251204-pn-hfg-1.html</guid>
       <pubDate>Thu, 04 Dec 2025 02:39:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>火星のクレーター？実は…　地球観測衛星が捉えた「サハラの目」</title>
+      <link>https://sorae.info/space/20251204-sentinel-2-richat-structure.html</link>
+      <description>赤い大地と同心円状の地形が火星を思わせるこちらの画像。 実は、地球の“ある場所”を観測したデータから作成されたものなんです。 侵食作用が生み出した「サハラの目」 その場所とは、アフリカのモーリタニアにある直径約50kmの… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20251204-sentinel-2-richat-structure.html</guid>
+      <pubDate>Thu, 04 Dec 2025 11:30:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年12月の星空情報：14日の「ふたご座流星群」を見よう</title>
+      <link>https://sorae.info/astronomy/202512-starry-sky.html</link>
+      <description>12月、木々の葉も枯れ落ち、静かな冷気が空を包む時期となりました。しかし、星空では本格的な冬はまだ先です。今の時期に空を眺めると、西側には秋、東側には冬と、二つの季節の星座を見ることができます。 西の空に4つの星が大きな… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/202512-starry-sky.html</guid>
+      <pubDate>Thu, 04 Dec 2025 08:01:51 +0000</pubDate>
     </item>
     <item>
       <title>灼熱の星が輝かせた蝶のような惑星状星雲「NGC 6302」　チリのジェミニ南望遠鏡が観測</title>

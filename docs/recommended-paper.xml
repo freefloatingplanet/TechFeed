@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 04 Dec 2025 06:37:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 06:37:52 +0000</lastBuildDate>
     <item>
-      <title>ロボットの高速回避と反応計画のためのスーパーコンピューティング</title>
-      <link>https://arxiv.org/abs/2509.19486v2</link>
-      <description>本稿では、高性能コンピューティング（HPC）がロボット制御においてミリ秒単位の応答性を実現する方法を示す概念実証研究であるSHARP（Supercomputing for High-speed Avoidance and Reactive Planning）を紹介します。現代のロボットは、人間とロボットが共有する作業空間において、より高い応答性に対する要求が高まっていますが、搭載プロセッサはサイズ、消費電力、コストの制約を受けています。HPCへのオフロードは、軌道計画のための大規模な並列処理を可能にしますが、ネットワークの遅延とジッターの影響により、リアルタイムロボットへの適用可能性は依然として不透明です。本稿では、7自由度マニピュレーターが高速のフォーム弾を回避しなければならないストレステストシナリオにおいて、SHARPを評価します。ローカルおよびリモートの HPC クラスターの両方で MPI を使用して実装された並列化マルチゴール A* 検索を使用することで、システムは平均計画レイテンシ 22.9 ミリ秒 (ローカル) および 30.0 ミリ秒 (リモート、約 300 km 離れた (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.19486v2</guid>
-      <pubDate>Tue, 23 Sep 2025 18:48:56 +0000</pubDate>
+      <title>QKAN-LSTM: 量子に着想を得たコルモゴロフ・アーノルド長短期記憶</title>
+      <link>https://arxiv.org/abs/2512.05049v1</link>
+      <description>長短期記憶（LSTM）モデルは、都市通信予測などの分野におけるシーケンシャルモデリングタスクの中核を成す、特殊なタイプのリカレントニューラルネットワーク（RNN）です。これらの分野では、時間的な相関と非線形依存性が支配的です。しかし、従来のLSTMは、パラメータの冗長性が高く、非線形表現力が限られているという問題があります。本研究では、LSTMのゲーティング構造にDARUAN（データ再アップロード活性化）モジュールを統合した、量子に着想を得たコルモゴロフ・アーノルド長短期記憶（QKAN-LSTM）を提案します。各DARUANは量子変分活性化関数（QVAF）として機能し、周波数適応性を高め、マルチ量子ビットエンタングルメントなしで指数関数的に豊富なスペクトル表現を可能にします。結果として得られるアーキテクチャは、量子レベルの表現力を維持しながら、従来のハードウェア上で完全に実行可能です。減衰単振動運動、ベッセル関数、都市通信の3つのデータセットを用いた実証的評価により、QKAN-LSTMは従来のLSTMと比較して学習パラメータを79%削減しながら、優れた予測精度と汎化性能を実現することが (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.05049v1</guid>
+      <pubDate>Thu, 04 Dec 2025 18:03:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
