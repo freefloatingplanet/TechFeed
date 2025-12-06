@@ -7,13 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Dec 2025 06:37:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 06:34:01 +0000</lastBuildDate>
     <item>
-      <title>ゴミ出しのルール、「午前6時までにお出しください」って、早くない？みんなそう？→夜に出して夜中に回収してくれる福岡のシステムが称えられる</title>
-      <link>https://togetter.com/li/2635499</link>
-      <description>ゴミ出しを「午前6時まで」に設定している地域で、早朝のルールに戸惑う声が多数。寒い季節や暗い時間帯に出すのは大変で、地域によっては8時や10時までのところもある。夜間に回収車が巡回して住民が直接持ち寄る台湾式の運用に触発され、回収時間や人手、焼却施設の位置など運用上の課題を指摘する意見が出ている。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2635499</guid>
-      <pubDate>Fri, 05 Dec 2025 01:43:54 +0000</pubDate>
+      <title>「これ社内ルール的にNGです」をリリース直前に起こしたくなかったので、新アプリ開発の企画会議に参加してみた結果</title>
+      <link>https://qiita.com/hito-shi/items/2bc99ea57915c45c7e48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+こんにちは。ゲームの「審査」を担当しているAppReviewチーム所属の＠hito-shiです。
+今回、初めてアドベントカレンダーに参加させていただくことになりましたため、審査という業務においてシフトレフトを試みた体験についてお話しできればと思います。
+どうぞよ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/hito-shi/items/2bc99ea57915c45c7e48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 04 Dec 2025 22:06:30 +0000</pubDate>
     </item>
     <item>
       <title>初心者が爆速で Claude Code を習得する 10 のステップ</title>
@@ -38,103 +41,84 @@ Claude Code を使い始めて、こんな悩みはありませんか？
       <pubDate>Tue, 02 Dec 2025 13:03:31 +0000</pubDate>
     </item>
     <item>
-      <title>AI エージェント開発で失敗しないための 10 のデザインパターン - フレームワークに依存しない設計の共通言語を定義する</title>
-      <link>https://zenn.dev/loglass/articles/c7f4499ec8320b</link>
+      <title>JSでギャルゲー！～JavaScriptでノベルゲームエンジン作った～</title>
+      <link>https://zenn.dev/dgbt/articles/f36d356929a0b6</link>
+      <description>この記事は、https://speakerdeck.com/endohizumi/jsdegiyaruge-javascriptdenoberugeenzinzuo-tutatuta の本を、元に、アドベントカレンダー用に、追記・修正したものです。
+
+ 初めに
+はいどーも、はじめましての方ははじめまして、ご存知の方はそうだよ。ヒズミさんだよ（「10割、はじめてだろ！」「全員じゃねーか！」）
+趣味として、OSSでWebノベルゲームエンジンのWebTaleKitを開発しています。
+出来たばかりで、まだ、知名度が低いので、名前を覚えていってくれたら、幸いです。
+使った感想(@endo_hizu... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dgbt/articles/f36d356929a0b6</guid>
+      <pubDate>Thu, 04 Dec 2025 07:53:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>新卒エンジニアが入社8ヶ月を通して学んだ開発への向き合い方 - Speee DEVELOPER BLOG</title>
+      <link>https://tech.speee.jp/entry/yuritani-learnings-as-a-newcomer</link>
+      <description>※この記事は、2025 Speee Advent Calendar6日目の記事です。 昨日の記事はこちら はじめに 挨拶と現在の業務内容について 皆さんこんにちは。株式会社Speeeに25卒で入社いたしました、エンジニアの白戸と申します。社内では「ユリタニ」のあだ名で呼ばれています。 4月に入社してから私は弊社の運営する不動産一括査定サ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech.speee.jp/entry/yuritani-learnings-as-a-newcomer</guid>
+      <pubDate>Sat, 06 Dec 2025 02:42:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flutter x Riverpodのアーキテクチャ考察</title>
+      <link>https://zenn.dev/st43/articles/ca7feb21500a6c</link>
+      <description>Commune Developers Advent Calendar 2025の5日目の記事です。
+わたくしは6年iOS開発をやっておりましたが、今年9月からFlutter開発をしております。
+3ヶ月ほどやった感想ですが、Riverpodが圧倒的に便利だなと感じています。
+Riverpod自体は以前から個人的に興味があって、ドキュメント読んで試してみたこともありました。
+そのときはまだピンと来ていなかったのですが、実際に使ってみるとその強力さが理解できました。
+便利と思う反面、学習コストも相応にあって、まだまだ自信を持って使いこなせているとは言えません。
+Flutter開発のキャッチアッ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/st43/articles/ca7feb21500a6c</guid>
+      <pubDate>Fri, 05 Dec 2025 01:08:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>React2Shell (CVE-2025-55182) で気付いた React Server Components のセキュリティの盲点</title>
+      <link>https://zenn.dev/storehero/articles/15636985eb876c</link>
+      <description>はじめに
+先日、Vercel から「Important Security Update for Next.js 15 &amp; 16」という件名のメールが Gmail に届きました。
+リンク先の CVE ページを確認したところ、CVSS スコアが 10.0（Critical） と記載されており、すぐに対応が必要な深刻な問題であることがわかりました。
+CVSS スコアとは、脆弱性の深刻度を0.0〜10.0の数値で表す国際的な評価基準です。10.0はこのスケールの最大値であり、「認証なしで、リモートから、容易に、システムを完全に制御される可能性がある」レベルの脆弱性を意味します。過去に... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/storehero/articles/15636985eb876c</guid>
+      <pubDate>Fri, 05 Dec 2025 01:38:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>社内データ基盤 × Agent Engine × ADK × Next.jsで、分析エージェントを作っている話（技術編）</title>
+      <link>https://zenn.dev/readyfor_blog/articles/3f6909aff58261</link>
       <description>!
-この記事は 株式会社ログラス Productチーム Advent Calendar 2025 のシリーズ 1、1日目 の記事です。
+この記事は、READYFOR Advent Calendar 2025 の4日目の記事です
 
-Loglass VPoT の川村（@k0j1iii）です。
-AI エージェントを作ってみたが、「制御が難しい」「中身がわからない」と感じた経験はないだろうか。LangGraph や AutoGen といったフレームワークの登場により、容易に AI エージェントを作れるようになった一方で、本番運用するためには「無限ループ」「コスト爆発」「デバッグ不能」といった壁に直面する。
-本記事では、Anthropic・LangGraph・DeepLearning.... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/loglass/articles/c7f4499ec8320b</guid>
-      <pubDate>Mon, 01 Dec 2025 08:56:22 +0000</pubDate>
+私たちREADYFORの社内には、dbtとBigQueryにより整備されたデータ基盤があり、日々多くの情報が蓄積されています。
+しかし、社内の誰もが自分の手で「今知りたいこと」をデータから引き出すのは、いまだに簡単ではありません。
+SQLを書く、BIツールのダッシュボードを更新する——こうした手間が意思決定のスピードを鈍らせていました。
+この課題を解決するために、READYFORでは社内データ基盤とLLMを組み合わせた“社内データ分析エージェント”の開発に取り組んでいます。
+この記事では、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/readyfor_blog/articles/3f6909aff58261</guid>
+      <pubDate>Thu, 04 Dec 2025 04:15:21 +0000</pubDate>
     </item>
     <item>
-      <title>AgentのToolを公開MCPから自作に変えたらToken使用料が9割削減した</title>
-      <link>https://zenn.dev/leverages/articles/github-zenn-linkage-20251201-1</link>
-      <description>AgentのToolを公開されているMCPから自作に変更したら、Token使用料が9割削減できた話を書きます。
-
- 背景
-現在ko☆shi（こーし）という引き継ぎを自動化するAgentを社内プロダクトとして開発しています。
-
-このAgentはGitHub、Asana、Slackをデータソースとして使用しており、Strands AgentsのMCP機能を使用して、各サービスの情報を取得しています。ユースケースとしては、最新のPRやIssueがどのタスクと紐づいているかを確認したり、そのタスクについてどういう意思決定がされているかを把握したりしています。
-いつも通りko☆shiを使用している... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/leverages/articles/github-zenn-linkage-20251201-1</guid>
-      <pubDate>Tue, 02 Dec 2025 04:57:52 +0000</pubDate>
+      <title>はてなブログをはじめたらやること。基本的なこととSEO対策について - panazone | 一条工務店と育児とガジェット</title>
+      <link>https://panazone.jp/entry/how-to-publishing-blog</link>
+      <description>一昨日から息子が体調不良で、保育園を休んでいます。昨日は私が休みを取り、子どもとゆっくり過ごしました。といいつつも、熱があるものの走り回れるぐらい元気なので大変です。 先月下旬辺りからはてなブログを開始して、なんとなく順調にブログが成長しつつあります。私の職業がITエンジニアであるのと、過去にはてな... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://panazone.jp/entry/how-to-publishing-blog</guid>
+      <pubDate>Sat, 06 Dec 2025 00:38:28 +0000</pubDate>
     </item>
     <item>
-      <title>やったらあかんで！ AWSアンチパターン</title>
-      <link>https://zenn.dev/isawa/articles/3e9f9aeba89bde</link>
-      <description>概要
-どうも、どすこいです！
-先日投稿した 「そのDockerfile、卒業しよう」実務で通用するベストプラクティス が多くの方に読んでいただき、本当にうれしく思っています。
-今回取り上げるテーマは、AWSにおけるアンチパターンです。
-「AWSは触れているけれど、正直ベストプラクティスが分からないまま何となく動かしている」
-「インフラは後から直せばいいと思っていたら、思った以上に深刻な状態になっていた」
-そんな経験がある方はきっと共感できる内容だと思います。
-この記事では、私自身が実務で遭遇した失敗や、普段のよく目にするやってしまいがちな構成を中心に紹介します。
-単なる失敗談ではなく... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/isawa/articles/3e9f9aeba89bde</guid>
-      <pubDate>Mon, 01 Dec 2025 11:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>月間350件のプルリクを捌きつつ、実装タスクも並列でこなすために必要だったものはやっぱりgit worktreeでした。</title>
-      <link>https://zenn.dev/dress_code/articles/89a5ceaa6eac37</link>
-      <description>Dress Code Advent Calendar 2025、2日目の記事です🎉
-私がgit worktreeを使うに至るまでの話と、worktreeを使う際のおすすめのツールを紹介します。AI系の話はしません。
-よろしくお願いします！
-https://adventar.org/calendars/12017
+      <title>技術力で殴る前に「問い」を研げ。</title>
+      <link>https://zenn.dev/shizumaru/articles/42664815ba973f</link>
+      <description>はじめに
+本記事は 仮想通貨 Advent Calendar 2025 のシリーズ2の6日目の記事です。
+エンジニアやデータサイエンティストがクリプトトレードに参入する際、最も陥りやすい罠があります。それは、「高度なモデルや大量の特徴量を使えば、エッジ（優位性）が見つかる」という誤解です。
 
- はじめに。
-「タイトル盛りすぎだろw」と思われそうですが、DRESS CODE（弊社が展開しているSaaSの名称）の直近1ヶ月のPR数を確認したところ、なんと350件以上がマージされていました。
-現在は2チーム体制で開発を行なっており、コードレビューはチーム内でクロスレビュー... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/89a5ceaa6eac37</guid>
-      <pubDate>Tue, 02 Dec 2025 12:00:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code公式Pluginのすすめ</title>
-      <link>https://zenn.dev/modokkin/articles/zenn-2025-12-03-tech-claude-code-plugins</link>
-      <description>この記事は tacoms Advent Calendar 2025 3日目の記事です。
+とりあえず大量のインジケーターをLightGBMに突っ込む
+深層強化学習の論文を実装してみる
+グリッドサーチでパラメータを最適化し続ける
 
-こんにちは、株式会社 tacoms で SRE をやっている はぶちん (@modokkin) です。
-気付けばあっという間に12月に入りましたね。ガーデナーにとってはそろそろ冬越しの準備が必要な時期ですが、手入れが楽になる一方で、しばらく遠のくと思うと寂しくもあります。
-寒くなってきたので、みなさまお身体にはお気をつけください。
-さて、今回はClaude Codeの公式Pluginについて紹介します。Plugin機能については公式ブログなどで知っている方も多いと思いますが、公式リポジトリで公開され... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/modokkin/articles/zenn-2025-12-03-tech-claude-code-plugins</guid>
-      <pubDate>Tue, 02 Dec 2025 21:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>新人のときに読みたかった ―『先輩データサイエンティストからの指南書』を読んで</title>
-      <link>https://zenn.dev/mkj/articles/c081840e565623</link>
-      <description>株式会社松尾研究所のごうやです。
-本記事は、松尾研究所 Advent Calendar 2025の記事です。
-株式会社ブレインパッドの浅野様から先輩データサイエンティストからの指南書をご恵贈賜りましたのでレビューします。
-
- はじめに
-データサイエンティストとして働いていると、「分析はできたけど、その先どうするの？」と素朴な疑問が湧きました。手元のNotebookで精度の高いモデルができた。技術検証としては成功。それを本番環境で動かして、クライアントに実際に使ってもらうとなると、途端にハードルが上がります。
-本書『先輩データサイエンティストからの指南書』は、エンジニアリングの観点から「分... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mkj/articles/c081840e565623</guid>
-      <pubDate>Tue, 02 Dec 2025 15:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>爆速CLI入門 ~最初に知りたかったTips~</title>
-      <link>https://zenn.dev/mozumasu/articles/mozumasu-cli-beginner</link>
-      <description>この記事はTechBullのアドカレ2日目の記事です。
-
- はじめに
-怠惰はプログラマの美徳である。
-CLIはそんな怠惰人間を支えてくれる最強の相棒である。
-キーボードだけで操作し、自動化を積み重ねていく。
-そんな世界へ踏み込もうとすると、最初の一歩で壁にぶつかる。
-本を開けば呪文のようなコマンドオプションが並び、由来もわからない。
-man や help があると言われても英語がつらい。
-何から手をつければいいのかもわからない。
-そこで、この記事では「最初に知りたかった」 CLI の Tips を紹介していく。
-
- 自分の使っているシェルを確認しよう
-現在使用しているシェルは以下の環境変... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mozumasu/articles/mozumasu-cli-beginner</guid>
-      <pubDate>Tue, 02 Dec 2025 00:32:58 +0000</pubDate>
+しかし、多くの場合、待っているのは「過学習（Overfitting）」という名の死です。
+なぜでしょうか？ それは 「解くべき問題（問い）」の定義が間違って... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shizumaru/articles/42664815ba973f</guid>
+      <pubDate>Fri, 05 Dec 2025 22:00:03 +0000</pubDate>
     </item>
     <item>
       <title>DRYにしすぎるとコードは干からびる</title>
