@@ -7,58 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Dec 2025 06:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 06:33:39 +0000</lastBuildDate>
     <item>
-      <title>「これ社内ルール的にNGです」をリリース直前に起こしたくなかったので、新アプリ開発の企画会議に参加してみた結果</title>
-      <link>https://qiita.com/hito-shi/items/2bc99ea57915c45c7e48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-こんにちは。ゲームの「審査」を担当しているAppReviewチーム所属の＠hito-shiです。
-今回、初めてアドベントカレンダーに参加させていただくことになりましたため、審査という業務においてシフトレフトを試みた体験についてお話しできればと思います。
-どうぞよ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/hito-shi/items/2bc99ea57915c45c7e48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 04 Dec 2025 22:06:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>初心者が爆速で Claude Code を習得する 10 のステップ</title>
-      <link>https://zenn.dev/aws_japan/articles/235df74854bad6</link>
-      <description>はじめに
-Claude Code を使い始めて、こんな悩みはありませんか？
-
-「セットアップしたけど、次に何をすればいいの？」
-「便利な機能があるらしいけど、使いこなせていない」
-「MCP サーバーって便利そうだけど、試しに何から入れればいいの？」
-
-この記事では、Claude Code on Amazon Bedrock の設定が完了した方が、Claude Code の基本的な操作方法を知り、「お、使いこなせてきたぞ！」と実感できるようになるためのポイントをご紹介します。
-!
-まだセットアップがお済みでない方は、以下のブログを参考に設定を行ってください。
-
-
-
-
-
- 1. セットア... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/235df74854bad6</guid>
-      <pubDate>Tue, 02 Dec 2025 13:03:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>JSでギャルゲー！～JavaScriptでノベルゲームエンジン作った～</title>
-      <link>https://zenn.dev/dgbt/articles/f36d356929a0b6</link>
-      <description>この記事は、https://speakerdeck.com/endohizumi/jsdegiyaruge-javascriptdenoberugeenzinzuo-tutatuta の本を、元に、アドベントカレンダー用に、追記・修正したものです。
-
- 初めに
-はいどーも、はじめましての方ははじめまして、ご存知の方はそうだよ。ヒズミさんだよ（「10割、はじめてだろ！」「全員じゃねーか！」）
-趣味として、OSSでWebノベルゲームエンジンのWebTaleKitを開発しています。
-出来たばかりで、まだ、知名度が低いので、名前を覚えていってくれたら、幸いです。
-使った感想(@endo_hizu... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dgbt/articles/f36d356929a0b6</guid>
-      <pubDate>Thu, 04 Dec 2025 07:53:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>新卒エンジニアが入社8ヶ月を通して学んだ開発への向き合い方 - Speee DEVELOPER BLOG</title>
-      <link>https://tech.speee.jp/entry/yuritani-learnings-as-a-newcomer</link>
-      <description>※この記事は、2025 Speee Advent Calendar6日目の記事です。 昨日の記事はこちら はじめに 挨拶と現在の業務内容について 皆さんこんにちは。株式会社Speeeに25卒で入社いたしました、エンジニアの白戸と申します。社内では「ユリタニ」のあだ名で呼ばれています。 4月に入社してから私は弊社の運営する不動産一括査定サ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tech.speee.jp/entry/yuritani-learnings-as-a-newcomer</guid>
-      <pubDate>Sat, 06 Dec 2025 02:42:20 +0000</pubDate>
+      <title>アクセンチュア新社長が力説した「AI時代に人間がやるべきこと」とは何か</title>
+      <link>https://japan.zdnet.com/article/35241278/</link>
+      <description>アクセンチュアの代表取締役社長に12月1日付で就任した濱岡大氏は、同社が先頃開いた社長就任会見で、上記のように述べた。人間がこれまでやってきた仕事をこれからはAIが代替していくのではないかとの見方がある中で、「人間がやるべきなのは新しいことへのチャレンジ」とのメッセージに共感したので、明言として取り上... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://japan.zdnet.com/article/35241278/</guid>
+      <pubDate>Fri, 05 Dec 2025 09:57:24 +0000</pubDate>
     </item>
     <item>
       <title>Flutter x Riverpodのアーキテクチャ考察</title>
@@ -74,35 +29,46 @@ Flutter開発のキャッチアッ... (source: Zennのトレンド)</description
       <pubDate>Fri, 05 Dec 2025 01:08:23 +0000</pubDate>
     </item>
     <item>
-      <title>React2Shell (CVE-2025-55182) で気付いた React Server Components のセキュリティの盲点</title>
-      <link>https://zenn.dev/storehero/articles/15636985eb876c</link>
-      <description>はじめに
-先日、Vercel から「Important Security Update for Next.js 15 &amp; 16」という件名のメールが Gmail に届きました。
-リンク先の CVE ページを確認したところ、CVSS スコアが 10.0（Critical） と記載されており、すぐに対応が必要な深刻な問題であることがわかりました。
-CVSS スコアとは、脆弱性の深刻度を0.0〜10.0の数値で表す国際的な評価基準です。10.0はこのスケールの最大値であり、「認証なしで、リモートから、容易に、システムを完全に制御される可能性がある」レベルの脆弱性を意味します。過去に... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/storehero/articles/15636985eb876c</guid>
-      <pubDate>Fri, 05 Dec 2025 01:38:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>社内データ基盤 × Agent Engine × ADK × Next.jsで、分析エージェントを作っている話（技術編）</title>
-      <link>https://zenn.dev/readyfor_blog/articles/3f6909aff58261</link>
+      <title>なぜ "簡単" なコードが複雑になるのか 〜 AI時代に読み直す『Simple Made Easy』</title>
+      <link>https://zenn.dev/loglass/articles/6b56dac587f02e</link>
       <description>!
-この記事は、READYFOR Advent Calendar 2025 の4日目の記事です
+株式会社ログラス プロダクトチーム Advent Calendar 2025 のシリーズ 1、6日目の記事です。
 
-私たちREADYFORの社内には、dbtとBigQueryにより整備されたデータ基盤があり、日々多くの情報が蓄積されています。
-しかし、社内の誰もが自分の手で「今知りたいこと」をデータから引き出すのは、いまだに簡単ではありません。
-SQLを書く、BIツールのダッシュボードを更新する——こうした手間が意思決定のスピードを鈍らせていました。
-この課題を解決するために、READYFORでは社内データ基盤とLLMを組み合わせた“社内データ分析エージェント”の開発に取り組んでいます。
-この記事では、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/readyfor_blog/articles/3f6909aff58261</guid>
-      <pubDate>Thu, 04 Dec 2025 04:15:21 +0000</pubDate>
+14年前の講演が、いま必要になる理由。生成AIがコードを量産できてしまう2025年、圧倒されてしまっていないでしょうか。コードレビューや品質確保に追われているかもしれません。
+この"複雑性の増大"に対して鋭い洞察を与えるのが、Rich Hickey（リッチ・ヒッキー）による Simple Made Easy (2011) です。ソフトウェア設計の本質を突く名講演でありながら、最近はあまり話題に登らないようです。
+この記事では、原義に沿って Simple Made Ea... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/loglass/articles/6b56dac587f02e</guid>
+      <pubDate>Fri, 05 Dec 2025 22:00:03 +0000</pubDate>
     </item>
     <item>
-      <title>はてなブログをはじめたらやること。基本的なこととSEO対策について - panazone | 一条工務店と育児とガジェット</title>
-      <link>https://panazone.jp/entry/how-to-publishing-blog</link>
-      <description>一昨日から息子が体調不良で、保育園を休んでいます。昨日は私が休みを取り、子どもとゆっくり過ごしました。といいつつも、熱があるものの走り回れるぐらい元気なので大変です。 先月下旬辺りからはてなブログを開始して、なんとなく順調にブログが成長しつつあります。私の職業がITエンジニアであるのと、過去にはてな... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://panazone.jp/entry/how-to-publishing-blog</guid>
-      <pubDate>Sat, 06 Dec 2025 00:38:28 +0000</pubDate>
+      <title>「健康保険証で良いじゃないですか」──政治家ポストにマイナ保険証派が“猛反論”した理由</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2512/06/news025.html</link>
+      <description>実際にマイナ保険証として利用するには、段階的な手続きが必要だ。まずはマイナンバーカード本体を申請し、作成する。次に、そのカードを健康保険証として利用するための登録申請を行う。最後に、医療機関や薬局の窓口でマイナンバーカードを用いて受付を済ませる。この手順を踏むことで、従来通りの保険診療が可能とな... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2512/06/news025.html</guid>
+      <pubDate>Sat, 06 Dec 2025 00:50:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>結局なぜRCEが発生するのか？react2shell PoC研究レポート (途中)</title>
+      <link>https://zenn.dev/calloc134/articles/poc-report-for-personal</link>
+      <description>はじめに
+当記事は、react2shell の PoC 攻撃手法についての調査です。
+
+ 注意事項
+当記事の内容は、あくまで PoC 攻撃手法の研究目的です。
+また、当記事の内容には間違い・認識違いが含まれる可能性があります。
+本番環境での動的な解析を実施しておらず、コードリーディングを中心とした調査であるためです。
+また、コードによる裏取りは行っているものの、
+生成 AI によるハルシネーションの可能性も否定できません。
+最後に、当記事が万が一攻撃を助長する場合、
+記事を非公開にいたします。
+
+ TODO
+
+プロトタイプについての更に正確な解説
+
+$@構文周りのコードリーディングと... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/calloc134/articles/poc-report-for-personal</guid>
+      <pubDate>Sat, 06 Dec 2025 12:31:34 +0000</pubDate>
     </item>
     <item>
       <title>技術力で殴る前に「問い」を研げ。</title>
@@ -121,16 +87,56 @@ SQLを書く、BIツールのダッシュボードを更新する——こうし
       <pubDate>Fri, 05 Dec 2025 22:00:03 +0000</pubDate>
     </item>
     <item>
-      <title>DRYにしすぎるとコードは干からびる</title>
-      <link>https://zenn.dev/recustomer/articles/507cb85b321a63</link>
-      <description>前置き
-手前味噌ながら、弊社は高い開発生産性を評価され、Findy Team+ Award 2024, 2025 を2年連続で受賞した。華やかな受賞理由の裏側には様々な要因があるが、その中でも技術的な側面としてひっそりと、開発者が直接触れる作業領域に対して強く作用させていた力学のひとつが、本記事にて紹介する 「DRY との向き合い方(=境界設計)」 である。
+      <title>エンジニアに必要な「読解力」とは？ 技術文書を構造化して"秒"で理解する技術</title>
+      <link>https://zenn.dev/coconala/articles/engineer-reading-skill-structuring</link>
+      <description>こんにちは。
+株式会社ココナラ 技術戦略室に所属している デミオ です。
+こちらは株式会社ココナラ Advent Calendar 2025 5日目の記事です。
 
- 「最短距離」で走るつもりが、最速で消耗戦へ
-早期のプロダクト開発では「まずはスピードを最優先」という判断がしばしば下される。
-だが、短期効率だけを信じて場当たり的な共通化、とりわけ 「誤った DRY」 を積み重ねると、ほんの... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/recustomer/articles/507cb85b321a63</guid>
-      <pubDate>Tue, 02 Dec 2025 07:00:05 +0000</pubDate>
+ 導入
+エンジニアの日常業務を振り返ってみてください。IDEでコードを書いている時間よりも、画面上の文字を「読んでいる」時間の方が圧倒的に長くありませんか？
+技術ドキュメント、仕様書、APIリファレンス、GitHubのIssue、そして他人のコード。これら膨大なテキストデータを素早く、かつ正確にインプットできるかどうかが、エンジニアとしての生産性と処理効率（スループット）を決定づけます。
+ここで重要なのは、ただ文字を目で追うこ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/coconala/articles/engineer-reading-skill-structuring</guid>
+      <pubDate>Fri, 05 Dec 2025 01:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Luaをコンパイル先とする言語処理系を作る際のTips</title>
+      <link>https://zenn.dev/mod_poppo/articles/compiling-to-lua</link>
+      <description>この記事は「Lua Advent Calendar 2025」および「言語実装 Advent Calendar 2025」の6日目の記事です。
+Luaは個人的には好きな言語ですが、静的な型システムの不在や、比較的冗長な記述などにより、人や用途によっては不満を感じることもあるかもしれません。Lua自体はオープンソースで提供されていますが、開発体制はクローズド寄りなので、ユーザーの希望が通るとも限りません。しかし、Luaを組み込んだアプリケーションはいくつか存在し、プログラムをLuaとして動かしたい需要はあるでしょう。そこで、「他の言語からLuaへコンパイルしよう」という発想が出てきます。L... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mod_poppo/articles/compiling-to-lua</guid>
+      <pubDate>Sat, 06 Dec 2025 03:40:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>2000行のPRを投げつけた僕が学んだ、コーディングで大切な5つの習慣</title>
+      <link>https://zenn.dev/sdb_blog/articles/a3f7b8c9d2e1f0</link>
+      <description>はじめに
+Social Databank Advent Calendar 2025 の6日目です。
+こんにちは🐉
+日々のコーディング業務の中で、上司の助言や本の知識から抜粋して意識していることを5つピックアップしてみました。
+これらは自分が実践している中で特に効果を感じている習慣です。
+
+ 1. PRの差分はなるべく200行以内に抑える
+Pull Requestのサイズは、レビューの質に直接影響します。
+なぜ200行なのか?
+それは多すぎるとレビュアーは読まなくなるからです😊
+レビュアーにも集中力があります。
+人間の集中力なんてたかが知れてるので、あまりに修正が多いと集中が切れて見落... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sdb_blog/articles/a3f7b8c9d2e1f0</guid>
+      <pubDate>Fri, 05 Dec 2025 08:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>JetBrains社のIDEは何がいいのか</title>
+      <link>https://zenn.dev/wwwave/articles/46c3bcea58e9e0</link>
+      <description>【🎄Merry Christmas🎄 WWWAVE アドベントカレンダー　12/5の記事です】
+株式会社ウェイブのエンジニア兼PdMの肥沼です。
+私は仕事ではvscodeを、個人開発ではJetBrains社のIDEを愛用しています。
+PyCharm ProとJetBrains AI Ultimateにしっかり課金するほど使っています。
+よく会社の同僚に「JetBrains？なにそれおいしいの？」「vscodeでいいじゃんwww」と言われることが多くそのたびに「なんで自分はJetBrains社のIDE」を使っているんだろうと思ます。
+今まで言語化したことがなかったので、この記事で私がなぜJ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/wwwave/articles/46c3bcea58e9e0</guid>
+      <pubDate>Fri, 05 Dec 2025 05:48:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
