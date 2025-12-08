@@ -7,45 +7,65 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Dec 2025 06:33:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 06:40:44 +0000</lastBuildDate>
     <item>
-      <title>アクセンチュア新社長が力説した「AI時代に人間がやるべきこと」とは何か</title>
-      <link>https://japan.zdnet.com/article/35241278/</link>
-      <description>アクセンチュアの代表取締役社長に12月1日付で就任した濱岡大氏は、同社が先頃開いた社長就任会見で、上記のように述べた。人間がこれまでやってきた仕事をこれからはAIが代替していくのではないかとの見方がある中で、「人間がやるべきなのは新しいことへのチャレンジ」とのメッセージに共感したので、明言として取り上... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://japan.zdnet.com/article/35241278/</guid>
-      <pubDate>Fri, 05 Dec 2025 09:57:24 +0000</pubDate>
+      <title>CodexについにSkillsが来たので徹底解説</title>
+      <link>https://zenn.dev/aki_think/articles/978556f1652aa6</link>
+      <description>CodexについにSkillsが来たので徹底解説
+先日のアップデートでようやくCodexにも待望のSkillsが実装された。この機能を待ち望んでいた方も多いのではないだろうか。今回はこのSkillsをまだ活用していない方に向けて仕組みと利用例を徹底解説している。ぜひ参考にしていただけたら嬉しい。
+ちなみにSkillsはCodex特有の仕組みではなく、もともとClaude Codeで実装されていた概念で、エージェントが動的に発見・ロードできる、指示・スクリプト・リソースのパッケージだ。「ナレッジの目次だけ最初にLLMに渡して、本当に必要な時だけ中身を読み込む」仕組み。コンテキストエンジ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aki_think/articles/978556f1652aa6</guid>
+      <pubDate>Sat, 06 Dec 2025 08:55:49 +0000</pubDate>
     </item>
     <item>
-      <title>Flutter x Riverpodのアーキテクチャ考察</title>
-      <link>https://zenn.dev/st43/articles/ca7feb21500a6c</link>
-      <description>Commune Developers Advent Calendar 2025の5日目の記事です。
-わたくしは6年iOS開発をやっておりましたが、今年9月からFlutter開発をしております。
-3ヶ月ほどやった感想ですが、Riverpodが圧倒的に便利だなと感じています。
-Riverpod自体は以前から個人的に興味があって、ドキュメント読んで試してみたこともありました。
-そのときはまだピンと来ていなかったのですが、実際に使ってみるとその強力さが理解できました。
-便利と思う反面、学習コストも相応にあって、まだまだ自信を持って使いこなせているとは言えません。
-Flutter開発のキャッチアッ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/st43/articles/ca7feb21500a6c</guid>
-      <pubDate>Fri, 05 Dec 2025 01:08:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜ "簡単" なコードが複雑になるのか 〜 AI時代に読み直す『Simple Made Easy』</title>
-      <link>https://zenn.dev/loglass/articles/6b56dac587f02e</link>
+      <title>フルリモート歴1年のエンジニアが辿り着いた“最強の作業環境”</title>
+      <link>https://zenn.dev/collabostyle/articles/f7ec387e0096b4</link>
       <description>!
-株式会社ログラス プロダクトチーム Advent Calendar 2025 のシリーズ 1、6日目の記事です。
+この記事はコラボスタイル Advent Calendar 2025の6日目の記事です。
+https://adventar.org/calendars/11621
 
-14年前の講演が、いま必要になる理由。生成AIがコードを量産できてしまう2025年、圧倒されてしまっていないでしょうか。コードレビューや品質確保に追われているかもしれません。
-この"複雑性の増大"に対して鋭い洞察を与えるのが、Rich Hickey（リッチ・ヒッキー）による Simple Made Easy (2011) です。ソフトウェア設計の本質を突く名講演でありながら、最近はあまり話題に登らないようです。
-この記事では、原義に沿って Simple Made Ea... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/loglass/articles/6b56dac587f02e</guid>
-      <pubDate>Fri, 05 Dec 2025 22:00:03 +0000</pubDate>
+どうもこんにちは！コラボスタイルでバックエンドエンジニアをしているMESIです。
+2025年の1月に入社して以来、プロダクト開発や社内の技術改善に日々関わっています。
+コラボスタイルはフルリモート勤務が可能で、日本全国にメンバーが散らばって働いています。
+その分、「どんな環境で仕事するか？」は自分次第。1日の大半を過ごす場所なので、快適度が生産性に直結します。
+というわけで今回は、私がフルリモート環境で“仕事効率を爆上げ”... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/collabostyle/articles/f7ec387e0096b4</guid>
+      <pubDate>Fri, 05 Dec 2025 15:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>「健康保険証で良いじゃないですか」──政治家ポストにマイナ保険証派が“猛反論”した理由</title>
-      <link>https://www.itmedia.co.jp/mobile/articles/2512/06/news025.html</link>
-      <description>実際にマイナ保険証として利用するには、段階的な手続きが必要だ。まずはマイナンバーカード本体を申請し、作成する。次に、そのカードを健康保険証として利用するための登録申請を行う。最後に、医療機関や薬局の窓口でマイナンバーカードを用いて受付を済ませる。この手順を踏むことで、従来通りの保険診療が可能とな... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2512/06/news025.html</guid>
-      <pubDate>Sat, 06 Dec 2025 00:50:25 +0000</pubDate>
+      <title>8GBメモリでローカルLLMを動かす</title>
+      <link>https://zenn.dev/kokoa0429/articles/e515ff57d56cc0</link>
+      <description>この記事は「Anthrotech Advent Calendar 2025」の6日目です。
+前回の記事は、 なかいあんこうさんの oraja時代のBMS新圧縮常識！？ です。
+
+ 8GBメモリでローカルLLMを動かす
+
+ はじめに
+「ローカルでLLMを動かしたい」——そう思って調べると、「RTX 4090が必要」「VRAM 24GB推奨」みたいな記事ばかり出てきて心が折れそうになりますよね。でも実は、8GBのメモリでも十分動くモデルと設定があります。
+この記事では、Proxmox上のVM（メモリ8GB、CPUのみ）でLLMを動かすまでに試行錯誤した内容をまとめました。具体的には、Miss... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kokoa0429/articles/e515ff57d56cc0</guid>
+      <pubDate>Sat, 06 Dec 2025 12:17:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>React2Shell (CVE-2025-55182) で気付いた React Server Components のセキュリティの盲点</title>
+      <link>https://zenn.dev/storehero/articles/15636985eb876c</link>
+      <description>はじめに
+先日、Vercel から「Important Security Update for Next.js 15 &amp; 16」という件名のメールが Gmail に届きました。
+リンク先の CVE ページを確認したところ、CVSS スコアが 10.0（Critical） と記載されており、すぐに対応が必要な深刻な問題であることがわかりました。
+CVSS スコアとは、脆弱性の深刻度を0.0〜10.0の数値で表す国際的な評価基準です。10.0はこのスケールの最大値であり、「認証なしで、リモートから、容易に、システムを完全に制御される可能性がある」レベルの脆弱性を意味します。過去に... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/storehero/articles/15636985eb876c</guid>
+      <pubDate>Fri, 05 Dec 2025 01:38:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLMのプロダクト利用とAI破産を回避する運用体制</title>
+      <link>https://zenn.dev/ivry/articles/databricks-ai-query-cost-management</link>
+      <description>こんにちは、IVRy でデータエンジニアとして働いている松田 健司(@ken_3ba)と申します。今まで「マツケン」というあだ名しかつかなかったのですが、社内では長いからという理由でKJと呼ばれるようになりました。
+本記事は、IVRy Advent Calender「IVRy AIブログリレー Part2」6日目の記事です。
+https://adventar.org/calendars/11552
+2025年7月1日入社でまだ半年経っていませんが、前職からDatabricksをずっと触っており、IVRyでもDatabricksを利用したデータ基盤構築や利活用をしています。
+この記事では、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ivry/articles/databricks-ai-query-cost-management</guid>
+      <pubDate>Sat, 06 Dec 2025 03:04:14 +0000</pubDate>
     </item>
     <item>
       <title>結局なぜRCEが発生するのか？react2shell PoC研究レポート (途中)</title>
@@ -101,32 +121,6 @@ $@構文周りのコードリーディングと... (source: Zennのトレンド)
       <pubDate>Fri, 05 Dec 2025 01:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>Luaをコンパイル先とする言語処理系を作る際のTips</title>
-      <link>https://zenn.dev/mod_poppo/articles/compiling-to-lua</link>
-      <description>この記事は「Lua Advent Calendar 2025」および「言語実装 Advent Calendar 2025」の6日目の記事です。
-Luaは個人的には好きな言語ですが、静的な型システムの不在や、比較的冗長な記述などにより、人や用途によっては不満を感じることもあるかもしれません。Lua自体はオープンソースで提供されていますが、開発体制はクローズド寄りなので、ユーザーの希望が通るとも限りません。しかし、Luaを組み込んだアプリケーションはいくつか存在し、プログラムをLuaとして動かしたい需要はあるでしょう。そこで、「他の言語からLuaへコンパイルしよう」という発想が出てきます。L... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mod_poppo/articles/compiling-to-lua</guid>
-      <pubDate>Sat, 06 Dec 2025 03:40:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>2000行のPRを投げつけた僕が学んだ、コーディングで大切な5つの習慣</title>
-      <link>https://zenn.dev/sdb_blog/articles/a3f7b8c9d2e1f0</link>
-      <description>はじめに
-Social Databank Advent Calendar 2025 の6日目です。
-こんにちは🐉
-日々のコーディング業務の中で、上司の助言や本の知識から抜粋して意識していることを5つピックアップしてみました。
-これらは自分が実践している中で特に効果を感じている習慣です。
-
- 1. PRの差分はなるべく200行以内に抑える
-Pull Requestのサイズは、レビューの質に直接影響します。
-なぜ200行なのか?
-それは多すぎるとレビュアーは読まなくなるからです😊
-レビュアーにも集中力があります。
-人間の集中力なんてたかが知れてるので、あまりに修正が多いと集中が切れて見落... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sdb_blog/articles/a3f7b8c9d2e1f0</guid>
-      <pubDate>Fri, 05 Dec 2025 08:00:05 +0000</pubDate>
-    </item>
-    <item>
       <title>JetBrains社のIDEは何がいいのか</title>
       <link>https://zenn.dev/wwwave/articles/46c3bcea58e9e0</link>
       <description>【🎄Merry Christmas🎄 WWWAVE アドベントカレンダー　12/5の記事です】
@@ -137,6 +131,25 @@ PyCharm ProとJetBrains AI Ultimateにしっかり課金するほど使ってい
 今まで言語化したことがなかったので、この記事で私がなぜJ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/wwwave/articles/46c3bcea58e9e0</guid>
       <pubDate>Fri, 05 Dec 2025 05:48:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>「コードは上から下へ読むのが一番」と思った時に、思い出してほしい話</title>
+      <link>https://zenn.dev/panda728/articles/d0b3d9e3404f33</link>
+      <description>序文
+プログラミングを始めたばかりの頃、私たちはこう教わりました。
+「プログラムは、上から下へ動くものである」
+これはCPUの仕組みから考えても正しく、直感的です。
+しかし、現在、私が取り組む「基幹システム移行」
+そこで苦しんでいる原因もまた「上から下への一本道」にあります。
+
+本記事では、
+なぜ私たちが直感的な「一本道」を捨てて、
+一見すると複雑な「アーキテクチャ（関心事の分離）」を選ぶのか。
+その理由を、「人間の脳のスペック（認知の限界）」から紐解きます。
+※どちらが優れているかという話ではありません。
+「なぜ、そうなったのか」という、エンジニアが歩んできた歴史と選択のお話です。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/panda728/articles/d0b3d9e3404f33</guid>
+      <pubDate>Sat, 06 Dec 2025 05:33:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
