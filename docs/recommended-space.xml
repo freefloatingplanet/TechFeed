@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Dec 2025 06:40:48 +0000</lastBuildDate>
-    <item>
-      <title>「気球からロケット発射」のAstroXが18億円を調達–2026年内の宇宙空間到達を目指す</title>
-      <link>https://uchubiz.com/article/new67944/</link>
-      <description>気球を使って空中からロケットを発射するRockoon方式による衛星軌道投入ロケットを開発するAstroX（福島県南相馬市）は11月28日、合計18億円の資金を調達したことを発表した。 　alphaをリード投資家としてシ […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new67944/</guid>
-      <pubDate>Sun, 30 Nov 2025 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>見事な環状銀河とその向こうにも環状銀河　ハッブル宇宙望遠鏡が観測した「ホーグの天体」</title>
-      <link>https://sorae.info/astronomy/20251205-hoag-s-object.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した「Hoag's Object（ホーグの天体）」と呼ばれる銀河。 へび座の方向、約6億光年先にあります。 明るく輝く中心部分を、きれいな円形をしたリング状の構造が大きく取り囲… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20251205-hoag-s-object.html</guid>
-      <pubDate>Fri, 05 Dec 2025 13:01:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Dec 2025 06:38:37 +0000</lastBuildDate>
     <item>
       <title>ロシア、打ち上げで「バイコヌール宇宙基地」の発射台を損傷–ISSへの有人輸送に影響か</title>
       <link>https://uchubiz.com/article/new67951/</link>
@@ -49,6 +35,20 @@
       <description>スペースデータ（東京都港区）は12月3日、国際宇宙ステーション（ISS）のデジタルツインと、地球のデジタルツインのシームレスな連結を実現したと発表した。ユーザーは、地球上の特定地点から見たISSの軌道や可視範囲、またI […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new68012/</guid>
       <pubDate>Thu, 04 Dec 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>スウェーデン宇宙公社、社名を「SSC Space」に変更　2026年初めにグローバルブランドに統一</title>
+      <link>https://sorae.info/space/20251208-ssc-space.html</link>
+      <description>スウェーデン宇宙公社＝Swedish Space Corporation（SSC）は2025年12月8日、2026年初めに社名を「SSC Space」に変更すると発表しました。社名変更にあわせて、グループ全体を1つのグロ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20251208-ssc-space.html</guid>
+      <pubDate>Mon, 08 Dec 2025 08:19:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>火星・南極域の地下に湖は存在しない？　NASA探査機による最新の観測成果</title>
+      <link>https://sorae.info/astronomy/20251208-mars-mro.html</link>
+      <description>火星の南極域の地下に湖が存在するかもしれない。そんな研究成果が2018年に発表されて話題になりました。 湖ということは液体の水が存在することになるわけですから、この成果は地球外生命探査の観点からも注目され、検証した研究の… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20251208-mars-mro.html</guid>
+      <pubDate>Mon, 08 Dec 2025 11:48:52 +0000</pubDate>
     </item>
     <item>
       <title>クラゲのような不思議な姿　“カシオペヤ座”の惑星状星雲「HFG 1」</title>

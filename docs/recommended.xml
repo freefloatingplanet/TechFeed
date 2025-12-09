@@ -7,88 +7,87 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Dec 2025 06:40:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 06:38:32 +0000</lastBuildDate>
     <item>
-      <title>CodexについにSkillsが来たので徹底解説</title>
-      <link>https://zenn.dev/aki_think/articles/978556f1652aa6</link>
-      <description>CodexについにSkillsが来たので徹底解説
-先日のアップデートでようやくCodexにも待望のSkillsが実装された。この機能を待ち望んでいた方も多いのではないだろうか。今回はこのSkillsをまだ活用していない方に向けて仕組みと利用例を徹底解説している。ぜひ参考にしていただけたら嬉しい。
-ちなみにSkillsはCodex特有の仕組みではなく、もともとClaude Codeで実装されていた概念で、エージェントが動的に発見・ロードできる、指示・スクリプト・リソースのパッケージだ。「ナレッジの目次だけ最初にLLMに渡して、本当に必要な時だけ中身を読み込む」仕組み。コンテキストエンジ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aki_think/articles/978556f1652aa6</guid>
-      <pubDate>Sat, 06 Dec 2025 08:55:49 +0000</pubDate>
+      <title>AIがコーディングをする今、人間にしかできない役割を引き受けていく話 - Speee DEVELOPER BLOG</title>
+      <link>https://tech.speee.jp/entry/speee-human-value-beyond-coding</link>
+      <description>はじめに ※この記事は、2025 Speee Advent Calendar9日目の記事です。昨日の記事はこちら こんにちは！Speeeでイエウールという自社サービスのWebサービスの開発をしている、木俣と申します。周囲からはきまっちゃんと呼ばれています！ 私は2023年にSpeeeに入社しました。当時、エンジニアとして「課題を特定し解決まで... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech.speee.jp/entry/speee-human-value-beyond-coding</guid>
+      <pubDate>Tue, 09 Dec 2025 03:05:44 +0000</pubDate>
     </item>
     <item>
-      <title>フルリモート歴1年のエンジニアが辿り着いた“最強の作業環境”</title>
-      <link>https://zenn.dev/collabostyle/articles/f7ec387e0096b4</link>
-      <description>!
-この記事はコラボスタイル Advent Calendar 2025の6日目の記事です。
-https://adventar.org/calendars/11621
-
-どうもこんにちは！コラボスタイルでバックエンドエンジニアをしているMESIです。
-2025年の1月に入社して以来、プロダクト開発や社内の技術改善に日々関わっています。
-コラボスタイルはフルリモート勤務が可能で、日本全国にメンバーが散らばって働いています。
-その分、「どんな環境で仕事するか？」は自分次第。1日の大半を過ごす場所なので、快適度が生産性に直結します。
-というわけで今回は、私がフルリモート環境で“仕事効率を爆上げ”... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/collabostyle/articles/f7ec387e0096b4</guid>
-      <pubDate>Fri, 05 Dec 2025 15:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>8GBメモリでローカルLLMを動かす</title>
-      <link>https://zenn.dev/kokoa0429/articles/e515ff57d56cc0</link>
-      <description>この記事は「Anthrotech Advent Calendar 2025」の6日目です。
-前回の記事は、 なかいあんこうさんの oraja時代のBMS新圧縮常識！？ です。
-
- 8GBメモリでローカルLLMを動かす
+      <title>「その処理、本当に並列ですか？」Node.js, Python, Ruby, Goで踏み抜くCPUバウンドの罠</title>
+      <link>https://zenn.dev/hacobell_dev/articles/learning-multithreading-in-several-languages</link>
+      <description>この記事は「Hacobell Developers Advent Calendar」ー 8日目の記事です。
 
  はじめに
-「ローカルでLLMを動かしたい」——そう思って調べると、「RTX 4090が必要」「VRAM 24GB推奨」みたいな記事ばかり出てきて心が折れそうになりますよね。でも実は、8GBのメモリでも十分動くモデルと設定があります。
-この記事では、Proxmox上のVM（メモリ8GB、CPUのみ）でLLMを動かすまでに試行錯誤した内容をまとめました。具体的には、Miss... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kokoa0429/articles/e515ff57d56cc0</guid>
-      <pubDate>Sat, 06 Dec 2025 12:17:49 +0000</pubDate>
+「あの言語の並行処理って、結局どう動くんだっけ？」
+日々の開発業務に追われる中で、ふと立ち止まってしまうことはありませんか？現代のアプリケーション開発において、マルチコアCPUの性能を最大限に引き出し、ユーザーに快適なレスポンスを返すために並行処理の理解は不可欠です。
+しかし、使用する言語によって、そのアプローチや内部的な挙動は驚くほど異なります。
+本記事では、Node.js, Python, Ruby, Goをピックアップし、それぞれの並行処理モデルが「CPUバウン... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hacobell_dev/articles/learning-multithreading-in-several-languages</guid>
+      <pubDate>Mon, 08 Dec 2025 00:30:05 +0000</pubDate>
     </item>
     <item>
-      <title>React2Shell (CVE-2025-55182) で気付いた React Server Components のセキュリティの盲点</title>
-      <link>https://zenn.dev/storehero/articles/15636985eb876c</link>
+      <title>美しいLinuxデスクトップで開発をしませんか？</title>
+      <link>https://zenn.dev/kiku_sui/articles/31e599360be2db</link>
+      <description>初めまして、株式会社mikan Backendエンジニアのkikusuiと申します。
+mikan Advent Calendarの8日目を担当させてもらいます。
+前日は弊社バックエンドエンジニアの和田さんがデータベースのパフォーマンス周りに関して素晴らしい記事を上げてくださっていましたが、自分は技術観点ではありつつ趣味に振り切った記事にしようと思います。
+https://adventar.org/calendars/11889
+早速ですが皆さん普段の開発には何のPCを使っているでしょうか？私はミニPCにZorin OSというLinuxディストリビューションを導入して開発を行なっています。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kiku_sui/articles/31e599360be2db</guid>
+      <pubDate>Mon, 08 Dec 2025 00:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>エンジニア出身PMが一次請けで失敗しまくった話</title>
+      <link>https://zenn.dev/xxpiyomaruxx/articles/61699e48f45a55</link>
+      <description>PM界隈 Advent Calendar 2025の12月7日分担当のぴよです。このアドカレ、PMがいっぱい集まってて楽しいのと、ZennやQiitaじゃなくてnoteに書いてる人が多くて新鮮。
+
+ はじめに
+私は元エンジニアで、二次請け以降のSIer案件でPMを何プロジェクトか経験し、現在はシステム開発会社を経営しています。経営しながらインフラ整備したりPMしたりしています。今回、初めて非IT系のエンドクライアントと直接やり取りする受託開発を担当しました。案件は「スプレッドシートで行っていた申請管理をシステム化する」という、よくある業務効率化案件です（正確にはシステム化スコープはこちら... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/xxpiyomaruxx/articles/61699e48f45a55</guid>
+      <pubDate>Sun, 07 Dec 2025 11:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>実績は土台を作って意思決定で積み上がる - AI時代に崩れないキャリアの築き方 - そーだいなるらくがき帳</title>
+      <link>https://soudai.hatenablog.com/entry/2025/12/08/233100</link>
+      <description>最近、1on1で同じ話を何度かしたので、ここに整理して残しておく。 生成AI・LLMが当たり前になりつつある今、「これから自分のキャリアをどう築けばいいかわからない」という相談を受けることが増えた。 新卒から自分と同世代*1まで、悩みの種類は違っても不安の根っこは似ている。 そのときにセットで話すことが多いの... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://soudai.hatenablog.com/entry/2025/12/08/233100</guid>
+      <pubDate>Mon, 08 Dec 2025 23:58:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>音声から映像まで“ほぼAIで制作”。地上波テレビ番組AIタイムスリップ企画をどう作ったか（CloseBox） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2025/12/08/4761.html</link>
+      <description>11月28日夜に放送された、日本テレビのバラエティ番組「沸騰ワード10」の制作に、生成AIのクリエーターとして関わりました。筆者がどんなことをやっていたのかを解説したいと思います。 番組としては1時間弱の尺がありますが、その中の10分少々のコーナー「AIの真骨頂！写真1枚で昭和へタイムスリップ！AI映像で蘇る!?」... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.techno-edge.net/article/2025/12/08/4761.html</guid>
+      <pubDate>Mon, 08 Dec 2025 11:08:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた</title>
+      <link>https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-先日、Vercel から「Important Security Update for Next.js 15 &amp; 16」という件名のメールが Gmail に届きました。
-リンク先の CVE ページを確認したところ、CVSS スコアが 10.0（Critical） と記載されており、すぐに対応が必要な深刻な問題であることがわかりました。
-CVSS スコアとは、脆弱性の深刻度を0.0〜10.0の数値で表す国際的な評価基準です。10.0はこのスケールの最大値であり、「認証なしで、リモートから、容易に、システムを完全に制御される可能性がある」レベルの脆弱性を意味します。過去に... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/storehero/articles/15636985eb876c</guid>
-      <pubDate>Fri, 05 Dec 2025 01:38:14 +0000</pubDate>
+生まれたばかりの赤ちゃんは、まだ言葉を知らない。
+代わりに泣くことで、世界と会話しようとする。
+でも、その"言葉"を聞き取るのが、想像以上に難しい。
+眠いのか、お腹がすいたのか、ただ抱きしめてほしいだけなのか。
+毎回ゼロから推理ゲームが始まる。
+夜中の3時。
+泣... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 06 Dec 2025 22:04:28 +0000</pubDate>
     </item>
     <item>
-      <title>LLMのプロダクト利用とAI破産を回避する運用体制</title>
-      <link>https://zenn.dev/ivry/articles/databricks-ai-query-cost-management</link>
-      <description>こんにちは、IVRy でデータエンジニアとして働いている松田 健司(@ken_3ba)と申します。今まで「マツケン」というあだ名しかつかなかったのですが、社内では長いからという理由でKJと呼ばれるようになりました。
-本記事は、IVRy Advent Calender「IVRy AIブログリレー Part2」6日目の記事です。
-https://adventar.org/calendars/11552
-2025年7月1日入社でまだ半年経っていませんが、前職からDatabricksをずっと触っており、IVRyでもDatabricksを利用したデータ基盤構築や利活用をしています。
-この記事では、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ivry/articles/databricks-ai-query-cost-management</guid>
-      <pubDate>Sat, 06 Dec 2025 03:04:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>結局なぜRCEが発生するのか？react2shell PoC研究レポート (途中)</title>
-      <link>https://zenn.dev/calloc134/articles/poc-report-for-personal</link>
-      <description>はじめに
-当記事は、react2shell の PoC 攻撃手法についての調査です。
-
- 注意事項
-当記事の内容は、あくまで PoC 攻撃手法の研究目的です。
-また、当記事の内容には間違い・認識違いが含まれる可能性があります。
-本番環境での動的な解析を実施しておらず、コードリーディングを中心とした調査であるためです。
-また、コードによる裏取りは行っているものの、
-生成 AI によるハルシネーションの可能性も否定できません。
-最後に、当記事が万が一攻撃を助長する場合、
-記事を非公開にいたします。
-
- TODO
-
-プロトタイプについての更に正確な解説
-
-$@構文周りのコードリーディングと... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/calloc134/articles/poc-report-for-personal</guid>
-      <pubDate>Sat, 06 Dec 2025 12:31:34 +0000</pubDate>
+      <title>Reactにおける共通コンポーネント設計のアンチパターン</title>
+      <link>https://zenn.dev/uzu_tech/articles/common-component-anti-pattern</link>
+      <description>株式会社 Sally エンジニアの @piesukeです。
+弊社では、マーダーミステリーをプレイできるアプリ「ウズ」と、マーダーミステリーを制作しウズ上で利用できるアプリ「ウズスタジオ」を開発しています。
+最近良かったマーダーミステリーは「青いクジラは沈まない」です。
+複数のWebサービスを展開する弊社では、開発効率の向上と車輪の再発明防止のため、頻繁に使用されるコンポーネントを共通コンポーネントとして管理しています。
+しかし、共通コンポーネントは多岐にわたる箇所での利用を想定する必要があり、設計上の考慮が不足すると、結果として使いづらいコンポーネントとなることがあります。
+本稿では、共... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/uzu_tech/articles/common-component-anti-pattern</guid>
+      <pubDate>Sun, 07 Dec 2025 03:00:02 +0000</pubDate>
     </item>
     <item>
       <title>技術力で殴る前に「問い」を研げ。</title>
@@ -107,49 +106,11 @@ $@構文周りのコードリーディングと... (source: Zennのトレンド)
       <pubDate>Fri, 05 Dec 2025 22:00:03 +0000</pubDate>
     </item>
     <item>
-      <title>エンジニアに必要な「読解力」とは？ 技術文書を構造化して"秒"で理解する技術</title>
-      <link>https://zenn.dev/coconala/articles/engineer-reading-skill-structuring</link>
-      <description>こんにちは。
-株式会社ココナラ 技術戦略室に所属している デミオ です。
-こちらは株式会社ココナラ Advent Calendar 2025 5日目の記事です。
-
- 導入
-エンジニアの日常業務を振り返ってみてください。IDEでコードを書いている時間よりも、画面上の文字を「読んでいる」時間の方が圧倒的に長くありませんか？
-技術ドキュメント、仕様書、APIリファレンス、GitHubのIssue、そして他人のコード。これら膨大なテキストデータを素早く、かつ正確にインプットできるかどうかが、エンジニアとしての生産性と処理効率（スループット）を決定づけます。
-ここで重要なのは、ただ文字を目で追うこ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/coconala/articles/engineer-reading-skill-structuring</guid>
-      <pubDate>Fri, 05 Dec 2025 01:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>JetBrains社のIDEは何がいいのか</title>
-      <link>https://zenn.dev/wwwave/articles/46c3bcea58e9e0</link>
-      <description>【🎄Merry Christmas🎄 WWWAVE アドベントカレンダー　12/5の記事です】
-株式会社ウェイブのエンジニア兼PdMの肥沼です。
-私は仕事ではvscodeを、個人開発ではJetBrains社のIDEを愛用しています。
-PyCharm ProとJetBrains AI Ultimateにしっかり課金するほど使っています。
-よく会社の同僚に「JetBrains？なにそれおいしいの？」「vscodeでいいじゃんwww」と言われることが多くそのたびに「なんで自分はJetBrains社のIDE」を使っているんだろうと思ます。
-今まで言語化したことがなかったので、この記事で私がなぜJ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/wwwave/articles/46c3bcea58e9e0</guid>
-      <pubDate>Fri, 05 Dec 2025 05:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>「コードは上から下へ読むのが一番」と思った時に、思い出してほしい話</title>
-      <link>https://zenn.dev/panda728/articles/d0b3d9e3404f33</link>
-      <description>序文
-プログラミングを始めたばかりの頃、私たちはこう教わりました。
-「プログラムは、上から下へ動くものである」
-これはCPUの仕組みから考えても正しく、直感的です。
-しかし、現在、私が取り組む「基幹システム移行」
-そこで苦しんでいる原因もまた「上から下への一本道」にあります。
-
-本記事では、
-なぜ私たちが直感的な「一本道」を捨てて、
-一見すると複雑な「アーキテクチャ（関心事の分離）」を選ぶのか。
-その理由を、「人間の脳のスペック（認知の限界）」から紐解きます。
-※どちらが優れているかという話ではありません。
-「なぜ、そうなったのか」という、エンジニアが歩んできた歴史と選択のお話です。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/panda728/articles/d0b3d9e3404f33</guid>
-      <pubDate>Sat, 06 Dec 2025 05:33:28 +0000</pubDate>
+      <title>モーダルが開いている間、その下のページが連鎖してスクロールしてしまうのを回避するCSSの新しいテクニック</title>
+      <link>https://coliss.com/articles/build-websites/operation/work/how-to-avoid-scroll-chaining-with-css.html</link>
+      <description>スクロールチェーン（スクロールの連鎖）とは、ページ上にスクロールするコンテンツ（ダイアログやモーダルなど）があり、そのコンテンツをスクロールして終点に到達するとその下のページのコンテンツもスクロールしてしまう現象です。 Chromeの次のバージョンで、この問題が数行のCSSで解決できるようになるので、紹介... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://coliss.com/articles/build-websites/operation/work/how-to-avoid-scroll-chaining-with-css.html</guid>
+      <pubDate>Tue, 09 Dec 2025 00:17:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
