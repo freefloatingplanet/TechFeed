@@ -7,26 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Dec 2025 06:38:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 06:39:11 +0000</lastBuildDate>
     <item>
-      <title>AIがコーディングをする今、人間にしかできない役割を引き受けていく話 - Speee DEVELOPER BLOG</title>
-      <link>https://tech.speee.jp/entry/speee-human-value-beyond-coding</link>
-      <description>はじめに ※この記事は、2025 Speee Advent Calendar9日目の記事です。昨日の記事はこちら こんにちは！Speeeでイエウールという自社サービスのWebサービスの開発をしている、木俣と申します。周囲からはきまっちゃんと呼ばれています！ 私は2023年にSpeeeに入社しました。当時、エンジニアとして「課題を特定し解決まで... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tech.speee.jp/entry/speee-human-value-beyond-coding</guid>
-      <pubDate>Tue, 09 Dec 2025 03:05:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>「その処理、本当に並列ですか？」Node.js, Python, Ruby, Goで踏み抜くCPUバウンドの罠</title>
-      <link>https://zenn.dev/hacobell_dev/articles/learning-multithreading-in-several-languages</link>
-      <description>この記事は「Hacobell Developers Advent Calendar」ー 8日目の記事です。
-
- はじめに
-「あの言語の並行処理って、結局どう動くんだっけ？」
-日々の開発業務に追われる中で、ふと立ち止まってしまうことはありませんか？現代のアプリケーション開発において、マルチコアCPUの性能を最大限に引き出し、ユーザーに快適なレスポンスを返すために並行処理の理解は不可欠です。
-しかし、使用する言語によって、そのアプローチや内部的な挙動は驚くほど異なります。
-本記事では、Node.js, Python, Ruby, Goをピックアップし、それぞれの並行処理モデルが「CPUバウン... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hacobell_dev/articles/learning-multithreading-in-several-languages</guid>
-      <pubDate>Mon, 08 Dec 2025 00:30:05 +0000</pubDate>
+      <title>MCP仕様がLinux Foundationに寄贈され「AAIF」の元で開発されることに — goose、AGENTS.mdと合わせ、AIエージェント基盤技術の世界標準化が促進</title>
+      <link>https://techfeed.io/entries/6938955b81853d29034a4b15?from=rss</link>
+      <description>12月10日、Anthoropicが「Donating the Model Context Protocol and establishing the Agentic AI Foundation」と題した記事を公開した。この記事では、オープン標準「Model Context Protocol（MCP）」をLinux Foundation傘下の新組織へ寄贈し、エージェントAIの基盤を強化する取り組みについて詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6938955b81853d29034a4b15?from=rss</guid>
+      <pubDate>Tue, 09 Dec 2025 21:32:11 +0000</pubDate>
     </item>
     <item>
       <title>美しいLinuxデスクトップで開発をしませんか？</title>
@@ -50,18 +37,24 @@ https://adventar.org/calendars/11889
       <pubDate>Sun, 07 Dec 2025 11:21:31 +0000</pubDate>
     </item>
     <item>
-      <title>実績は土台を作って意思決定で積み上がる - AI時代に崩れないキャリアの築き方 - そーだいなるらくがき帳</title>
-      <link>https://soudai.hatenablog.com/entry/2025/12/08/233100</link>
-      <description>最近、1on1で同じ話を何度かしたので、ここに整理して残しておく。 生成AI・LLMが当たり前になりつつある今、「これから自分のキャリアをどう築けばいいかわからない」という相談を受けることが増えた。 新卒から自分と同世代*1まで、悩みの種類は違っても不安の根っこは似ている。 そのときにセットで話すことが多いの... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://soudai.hatenablog.com/entry/2025/12/08/233100</guid>
-      <pubDate>Mon, 08 Dec 2025 23:58:49 +0000</pubDate>
+      <title>「AIは過剰に宣伝されているが、ツールとしては大いに信じている」、リーナス・トーバルズ氏が東京開催のOpen Source Summit Japan基調講演で語ったこと（前編）</title>
+      <link>https://www.publickey1.jp/blog/25/aiopen_source_summit_japan.html</link>
+      <description>トーバルズ氏　私がここに来たのは、毎年恒例のメンテナーサミットが明日開催されるからです。そこで私たちが議論する予定の大きなテーマの1つが、AIを使用する際の私たちのツールとポリシーを拡大することです。 私はAI全般の話題が嫌いですが、それはAIを嫌っているからではなく、AIが過剰に宣伝されているからです。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.publickey1.jp/blog/25/aiopen_source_summit_japan.html</guid>
+      <pubDate>Tue, 09 Dec 2025 15:14:59 +0000</pubDate>
     </item>
     <item>
-      <title>音声から映像まで“ほぼAIで制作”。地上波テレビ番組AIタイムスリップ企画をどう作ったか（CloseBox） | テクノエッジ TechnoEdge</title>
-      <link>https://www.techno-edge.net/article/2025/12/08/4761.html</link>
-      <description>11月28日夜に放送された、日本テレビのバラエティ番組「沸騰ワード10」の制作に、生成AIのクリエーターとして関わりました。筆者がどんなことをやっていたのかを解説したいと思います。 番組としては1時間弱の尺がありますが、その中の10分少々のコーナー「AIの真骨頂！写真1枚で昭和へタイムスリップ！AI映像で蘇る!?」... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.techno-edge.net/article/2025/12/08/4761.html</guid>
-      <pubDate>Mon, 08 Dec 2025 11:08:37 +0000</pubDate>
+      <title>3年ぶりにアプリをアップデートしたことの振り返り</title>
+      <link>https://zenn.dev/naoya_maeda/articles/af86652c1ba611</link>
+      <description>本記事は、『エンジニアと人生 Advent Calendar 2025』10日目の記事です。
+https://adventar.org/calendars/12244
+本記事では、僕が約3年ぶりにアプリをアップデートしたことについて振り返っています。
+前半では、個人開発を始めたきっかけや現在リリースしているアプリの紹介を、後半では今回アップデートしたアプリの開発内容や振り返りをまとめています。技術的な話題にはあまり触れていないので、読み物として気軽に読んでいただけると幸いです。
+
+ 個人開発を始めたきっかけについて
+個人開発を始めたきっかけは、特に深い理由があったわけではなく、ただ単に... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/naoya_maeda/articles/af86652c1ba611</guid>
+      <pubDate>Tue, 09 Dec 2025 15:00:02 +0000</pubDate>
     </item>
     <item>
       <title>【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた</title>
@@ -90,27 +83,36 @@ https://adventar.org/calendars/11889
       <pubDate>Sun, 07 Dec 2025 03:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>技術力で殴る前に「問い」を研げ。</title>
-      <link>https://zenn.dev/shizumaru/articles/42664815ba973f</link>
+      <title>マネジメントを知らないエンジニアが本を読んで感じたこと</title>
+      <link>https://zenn.dev/studist/articles/newbie-management-learn</link>
       <description>はじめに
-本記事は 仮想通貨 Advent Calendar 2025 のシリーズ2の6日目の記事です。
-エンジニアやデータサイエンティストがクリプトトレードに参入する際、最も陥りやすい罠があります。それは、「高度なモデルや大量の特徴量を使えば、エッジ（優位性）が見つかる」という誤解です。
-
-とりあえず大量のインジケーターをLightGBMに突っ込む
-深層強化学習の論文を実装してみる
-グリッドサーチでパラメータを最適化し続ける
-
-しかし、多くの場合、待っているのは「過学習（Overfitting）」という名の死です。
-なぜでしょうか？ それは 「解くべき問題（問い）」の定義が間違って... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shizumaru/articles/42664815ba973f</guid>
-      <pubDate>Fri, 05 Dec 2025 22:00:03 +0000</pubDate>
+Teachme Player開発チームの山川 (@jyamakawa) です。
+私たちのチームでは今年だけでも2人のメンバーが新しく加わりました。
+それに伴い、入社オンボーディングやプロジェクト参画・コードベース理解の支援など、コーディング以外の業務を担うことが増えてきました。
+コードを書く以外のことはあまりやってこないで仕事をしてきましたが、エンジニアであれば「必要なのであれば学ぶ」姿勢は重要でしょう。ということで、マネジメントについて何も知らない自分がマネジメントを学んで得た気づきをまとめます。
+（ちなみに私自身、新卒3年目、スタディスト入社から約1年を過ぎたところです... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/studist/articles/newbie-management-learn</guid>
+      <pubDate>Tue, 09 Dec 2025 03:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>モーダルが開いている間、その下のページが連鎖してスクロールしてしまうのを回避するCSSの新しいテクニック</title>
-      <link>https://coliss.com/articles/build-websites/operation/work/how-to-avoid-scroll-chaining-with-css.html</link>
-      <description>スクロールチェーン（スクロールの連鎖）とは、ページ上にスクロールするコンテンツ（ダイアログやモーダルなど）があり、そのコンテンツをスクロールして終点に到達するとその下のページのコンテンツもスクロールしてしまう現象です。 Chromeの次のバージョンで、この問題が数行のCSSで解決できるようになるので、紹介... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://coliss.com/articles/build-websites/operation/work/how-to-avoid-scroll-chaining-with-css.html</guid>
-      <pubDate>Tue, 09 Dec 2025 00:17:02 +0000</pubDate>
+      <title>【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた - Qiita</title>
+      <link>https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5</link>
+      <description>はじめに 生まれたばかりの赤ちゃんは、まだ言葉を知らない。 代わりに泣くことで、世界と会話しようとする。 でも、その"言葉"を聞き取るのが、想像以上に難しい。 眠いのか、お腹がすいたのか、ただ抱きしめてほしいだけなのか。 毎回ゼロから推理ゲームが始まる。 夜中の3時。 泣き声の理由が分からず、抱っこしなが... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5</guid>
+      <pubDate>Tue, 09 Dec 2025 07:01:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>音声合成の日本語化手法が一般化した話</title>
+      <link>https://zenn.dev/mkj/articles/0576d194771c08</link>
+      <description>株式会社松尾研究所で働いている栗原です。本記事は、松尾研究所 Advent Calendar 2025の記事です。
+!
+入社エントリーに記載しましたが、この記事ではAI日本語音声合成について解説していきます。音声合成について、知識が無くても読めるようにしています。テックブログという事もあり、フランクに書いています。
+
+
+ はじめに
+日本語音声合成は、ディープラーニングを用いた音声合成手法が登場して以降、大きく品質を上げました。当初は、フィードフォワード型などの単純な手法で実現してきましたが、様々なディープラーニングの手法を取り込み、急激に品質を上げていき、あっという間に日常的に使用する技... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mkj/articles/0576d194771c08</guid>
+      <pubDate>Mon, 08 Dec 2025 15:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
