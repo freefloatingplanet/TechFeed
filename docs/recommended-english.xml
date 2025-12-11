@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Dec 2025 06:39:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 06:39:41 +0000</lastBuildDate>
     <item>
-      <title>中国公聴会は米国の政策の欠陥に焦点を当てる</title>
-      <link>https://spacenews.com/china-hearing-focuses-on-u-s-policy-shortfalls/</link>
-      <description>中国の宇宙計画の台頭に関する下院公聴会は、NASAの宇宙飛行士の月への再帰還に関する現在のアプローチを含む、米国の宇宙政策に対するより広範な批判へと発展した。この記事「中国に関する公聴会は米国の政策の欠陥に焦点を当てている」はSpaceNewsに初掲載された。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/china-hearing-focuses-on-u-s-policy-shortfalls/</guid>
-      <pubDate>Sun, 07 Dec 2025 16:51:39 +0000</pubDate>
+      <title>ベンチマーク社、エドワーズ空軍基地でのホットファイア試験で高スループットASCENTスラスターを実証</title>
+      <link>https://spacenews.com/benchmark-demonstrates-high-throughput-ascent-thruster-in-hotfire-testing-at-edwards-air-force-base/</link>
+      <description>サンフランシスコ – ベンチマーク・スペース・システムズのASCENT燃料搭載のマカウスラスタが10分間の連続燃焼に成功し、この推進技術の軌道上応用への道を開いたと、同社は12月10日に発表した。「ASCENTは他のモノプロペラントに比べてインパルス密度が50%高いため、ミッションプランナーや宇宙船の設計者は、より少ない燃料で同様のデルタv（速度変化）を得ることができます。」という記事「ベンチマークがエドワーズ空軍基地でのホットファイア試験で高スループットのASCENTスラスタを実証」がSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/benchmark-demonstrates-high-throughput-ascent-thruster-in-hotfire-testing-at-edwards-air-force-base/</guid>
+      <pubDate>Wed, 10 Dec 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>マルチエージェントAIが未知の宇宙ミッションを強化する方法</title>
+      <link>https://spacenews.com/how-multi-agent-ai-can-strengthen-space-missions-against-the-unknown/</link>
+      <description>宇宙ミッションは、複雑性によって特徴づけられる新たな時代を迎えています。センサーの増加、ソフトウェア駆動型の動作の増加、サブシステムの緊密な連携、そして宇宙船と軌道インフラ間の相互作用の増加などです。これらのシステムが進化するにつれて、潜在的な故障モードの数も増加します。その範囲は、熱ドリフトやハードウェアの老朽化から、構成エラー、環境擾乱、そして未知のシステム挙動に至るまで多岐にわたります。[…] マルチエージェントAIが未知の脅威に対する宇宙ミッションを強化する方法 は、SpaceNews に初掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/how-multi-agent-ai-can-strengthen-space-missions-against-the-unknown/</guid>
+      <pubDate>Wed, 10 Dec 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

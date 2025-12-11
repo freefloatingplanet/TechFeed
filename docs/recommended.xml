@@ -7,41 +7,75 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Dec 2025 06:39:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 06:39:40 +0000</lastBuildDate>
     <item>
-      <title>MCP仕様がLinux Foundationに寄贈され「AAIF」の元で開発されることに — goose、AGENTS.mdと合わせ、AIエージェント基盤技術の世界標準化が促進</title>
-      <link>https://techfeed.io/entries/6938955b81853d29034a4b15?from=rss</link>
-      <description>12月10日、Anthoropicが「Donating the Model Context Protocol and establishing the Agentic AI Foundation」と題した記事を公開した。この記事では、オープン標準「Model Context Protocol（MCP）」をLinux Foundation傘下の新組織へ寄贈し、エージェントAIの基盤を強化する取り組みについて詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6938955b81853d29034a4b15?from=rss</guid>
-      <pubDate>Tue, 09 Dec 2025 21:32:11 +0000</pubDate>
+      <title>バリデーションとパースの分離。Goで実装する「変更に強い」CSV 処理の設計 - カミナシ エンジニアブログ</title>
+      <link>https://kaminashi-developer.hatenablog.jp/entry/go-csv-import-design</link>
+      <description>こんにちは。カミナシで「カミナシ 従業員」の開発を行っている nilpoona です。 業務アプリケーションを作っていると、避けて通れないのが CSV インポート機能 です。 最初は「encoding/csv で読んでループ回せば実装できる」と考えて作り始めるのですが、仕様が複雑になるにつれて、以下のような課題に直面することが... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://kaminashi-developer.hatenablog.jp/entry/go-csv-import-design</guid>
+      <pubDate>Wed, 10 Dec 2025 23:15:40 +0000</pubDate>
     </item>
     <item>
-      <title>美しいLinuxデスクトップで開発をしませんか？</title>
-      <link>https://zenn.dev/kiku_sui/articles/31e599360be2db</link>
-      <description>初めまして、株式会社mikan Backendエンジニアのkikusuiと申します。
-mikan Advent Calendarの8日目を担当させてもらいます。
-前日は弊社バックエンドエンジニアの和田さんがデータベースのパフォーマンス周りに関して素晴らしい記事を上げてくださっていましたが、自分は技術観点ではありつつ趣味に振り切った記事にしようと思います。
-https://adventar.org/calendars/11889
-早速ですが皆さん普段の開発には何のPCを使っているでしょうか？私はミニPCにZorin OSというLinuxディストリビューションを導入して開発を行なっています。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kiku_sui/articles/31e599360be2db</guid>
-      <pubDate>Mon, 08 Dec 2025 00:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>エンジニア出身PMが一次請けで失敗しまくった話</title>
-      <link>https://zenn.dev/xxpiyomaruxx/articles/61699e48f45a55</link>
-      <description>PM界隈 Advent Calendar 2025の12月7日分担当のぴよです。このアドカレ、PMがいっぱい集まってて楽しいのと、ZennやQiitaじゃなくてnoteに書いてる人が多くて新鮮。
+      <title>ローカル開発のシークレット設定を自動化する ── Go × AWS Secrets Manager</title>
+      <link>https://zenn.dev/layerx/articles/762ecd4494694f</link>
+      <description>LayerX Tech Advent Calendar 2025の9日目の記事です。
+バクラク事業部 ソフトウェアエンジニアの @upamune です。
+今日は、ローカル開発のシークレット設定をいい感じにした話をします。
 
- はじめに
-私は元エンジニアで、二次請け以降のSIer案件でPMを何プロジェクトか経験し、現在はシステム開発会社を経営しています。経営しながらインフラ整備したりPMしたりしています。今回、初めて非IT系のエンドクライアントと直接やり取りする受託開発を担当しました。案件は「スプレッドシートで行っていた申請管理をシステム化する」という、よくある業務効率化案件です（正確にはシステム化スコープはこちら... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/xxpiyomaruxx/articles/61699e48f45a55</guid>
-      <pubDate>Sun, 07 Dec 2025 11:21:31 +0000</pubDate>
+
+ ローカル開発環境のシークレット設定、手動でやっていませんか？
+「シークレットは1Passwordにあるので設定してください」
+開発環境のセットアップでこのようなことを言った・聞いたことがある人も多いのではないでしょうか。APIキーなど、ローカル開発でシークレットの設定が必要なことがあります。
+この記事では、AWS Secrets Manager と Go の s... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/layerx/articles/762ecd4494694f</guid>
+      <pubDate>Tue, 09 Dec 2025 10:24:23 +0000</pubDate>
     </item>
     <item>
-      <title>「AIは過剰に宣伝されているが、ツールとしては大いに信じている」、リーナス・トーバルズ氏が東京開催のOpen Source Summit Japan基調講演で語ったこと（前編）</title>
-      <link>https://www.publickey1.jp/blog/25/aiopen_source_summit_japan.html</link>
-      <description>トーバルズ氏　私がここに来たのは、毎年恒例のメンテナーサミットが明日開催されるからです。そこで私たちが議論する予定の大きなテーマの1つが、AIを使用する際の私たちのツールとポリシーを拡大することです。 私はAI全般の話題が嫌いですが、それはAIを嫌っているからではなく、AIが過剰に宣伝されているからです。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.publickey1.jp/blog/25/aiopen_source_summit_japan.html</guid>
-      <pubDate>Tue, 09 Dec 2025 15:14:59 +0000</pubDate>
+      <title>技術的負債で生じる「クラフト」を管理せよ！ ケーススタディで学ぶ4分類とその対処法 - Agile Journey</title>
+      <link>https://agilejourney.uzabase.com/entry/2025/12/11/103000</link>
+      <description>はじめまして。流しのアーキテクトを生業としている、株式会社ウルフチーフの川島（@kawasima）です。私はSIerで20年、主にアーキテクトとしてさまざまなプロジェクトに関わってきました。現在は独立し、データモデリングを中心に、多くの企業の設計や技術者育成を支援しています。 数多くの現場を渡り歩く中で、プロジ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://agilejourney.uzabase.com/entry/2025/12/11/103000</guid>
+      <pubDate>Thu, 11 Dec 2025 02:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code × MCP × Notion で「Jupyter Notebookから分析レポート」ことはじめ</title>
+      <link>https://zenn.dev/mkj/articles/0f7ba3695874ee</link>
+      <description>株式会社松尾研究所の大岡です。この記事は、松尾研究所 Advent Calendar 2025の記事です。今回は、Jupyter NotebookからNotion上に分析レポートを自動生成することに挑戦してみます。Notionを利用していなくても、ConfluenceやObsidianも公式からMCP[1]が発表されているので、現場で試してみようかな、という気持ちになっていただけたら嬉しいです。
+
+ データ分析現場でNotebookが増殖し続ける問題
+データ分析の現場では、気を緩めるとJupyter Notebookがすぐにリポジトリの中心として存在感を示してきます。
+コードを書きながら... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mkj/articles/0f7ba3695874ee</guid>
+      <pubDate>Tue, 09 Dec 2025 15:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>奮発して手にいれたヘルシオ最上位機種の初仕事の結果がまるで地獄の門「出土品？」「何をするとそうなる」</title>
+      <link>https://togetter.com/li/2637617</link>
+      <description>ブラックフライデーで奮発したヘルシオ最上位の初仕事が酷い結果に。冷凍ピザを「生地から焼く」モードで予熱前に入れたため全面炭化。新品がすすだらけになり、トーストモードなら正常に焼けた。製品の耐熱性で発火は免れたが、操作ミスでピザが“出土品”のようになった。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2637617</guid>
+      <pubDate>Thu, 11 Dec 2025 03:41:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>プランナーがAIと開発してみたら、開発生産性が4倍・Issue作成時間が95%削減された話 - Speee DEVELOPER BLOG</title>
+      <link>https://tech.speee.jp/entry/refosumu-dev-ops-up-project</link>
+      <description>※この記事は、2025 Speee Advent Calendar11日目の記事です。 昨日の記事はこちら こんにちは、Speeeでプランナーとしてプロダクト開発に携わっている石川澄怜です。 Speeeには新卒で入社し、今年で3年目になります。大学時代は、中世日本文学における「地獄」についてひたすら研究していました。 現在は、リフォーム検... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech.speee.jp/entry/refosumu-dev-ops-up-project</guid>
+      <pubDate>Thu, 11 Dec 2025 02:47:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>生成AI時代だからこそ、Vim as an IME</title>
+      <link>https://zenn.dev/dog/articles/vim-as-an-ime</link>
+      <description>生成AI時代だからこそ、Vim as an IME
+Firenvim を導入しました。
+Firenvim とは、Firefox や Chrome のテキストボックスの上に Neovim をオーバーレイし、テキストエリアにある内容を Neovim の一時バッファに送ってくれる機能です。もちろん、そのバッファを保存（:w）すると、ブラウザのテキストエリアに即座に反映してくれます。
+今回は、このツールを使って「Vim as an IME」を実現する現代的な意義について語ります。
+
+(引用: Firenvim GitHub README)
+
+ IME をインストールしないという選択肢
+Lin... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dog/articles/vim-as-an-ime</guid>
+      <pubDate>Wed, 10 Dec 2025 14:04:32 +0000</pubDate>
     </item>
     <item>
       <title>3年ぶりにアプリをアップデートしたことの振り返り</title>
@@ -57,32 +91,6 @@ https://adventar.org/calendars/12244
       <pubDate>Tue, 09 Dec 2025 15:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた</title>
-      <link>https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-生まれたばかりの赤ちゃんは、まだ言葉を知らない。
-代わりに泣くことで、世界と会話しようとする。
-でも、その"言葉"を聞き取るのが、想像以上に難しい。
-眠いのか、お腹がすいたのか、ただ抱きしめてほしいだけなのか。
-毎回ゼロから推理ゲームが始まる。
-夜中の3時。
-泣... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 06 Dec 2025 22:04:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reactにおける共通コンポーネント設計のアンチパターン</title>
-      <link>https://zenn.dev/uzu_tech/articles/common-component-anti-pattern</link>
-      <description>株式会社 Sally エンジニアの @piesukeです。
-弊社では、マーダーミステリーをプレイできるアプリ「ウズ」と、マーダーミステリーを制作しウズ上で利用できるアプリ「ウズスタジオ」を開発しています。
-最近良かったマーダーミステリーは「青いクジラは沈まない」です。
-複数のWebサービスを展開する弊社では、開発効率の向上と車輪の再発明防止のため、頻繁に使用されるコンポーネントを共通コンポーネントとして管理しています。
-しかし、共通コンポーネントは多岐にわたる箇所での利用を想定する必要があり、設計上の考慮が不足すると、結果として使いづらいコンポーネントとなることがあります。
-本稿では、共... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/uzu_tech/articles/common-component-anti-pattern</guid>
-      <pubDate>Sun, 07 Dec 2025 03:00:02 +0000</pubDate>
-    </item>
-    <item>
       <title>マネジメントを知らないエンジニアが本を読んで感じたこと</title>
       <link>https://zenn.dev/studist/articles/newbie-management-learn</link>
       <description>はじめに
@@ -95,24 +103,19 @@ Teachme Player開発チームの山川 (@jyamakawa) です。
       <pubDate>Tue, 09 Dec 2025 03:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた - Qiita</title>
-      <link>https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5</link>
-      <description>はじめに 生まれたばかりの赤ちゃんは、まだ言葉を知らない。 代わりに泣くことで、世界と会話しようとする。 でも、その"言葉"を聞き取るのが、想像以上に難しい。 眠いのか、お腹がすいたのか、ただ抱きしめてほしいだけなのか。 毎回ゼロから推理ゲームが始まる。 夜中の3時。 泣き声の理由が分からず、抱っこしなが... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5</guid>
-      <pubDate>Tue, 09 Dec 2025 07:01:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>音声合成の日本語化手法が一般化した話</title>
-      <link>https://zenn.dev/mkj/articles/0576d194771c08</link>
-      <description>株式会社松尾研究所で働いている栗原です。本記事は、松尾研究所 Advent Calendar 2025の記事です。
-!
-入社エントリーに記載しましたが、この記事ではAI日本語音声合成について解説していきます。音声合成について、知識が無くても読めるようにしています。テックブログという事もあり、フランクに書いています。
-
+      <title>「とりあえずNext.js」をやめてBetter-T-Stackを試してみた</title>
+      <link>https://zenn.dev/appleworld/articles/567515443c85a3</link>
+      <description>株式会社アップルワールドのrikuです。
+※この記事はアップルワールド Advent Calendar 2025の9日目の記事です。
 
  はじめに
-日本語音声合成は、ディープラーニングを用いた音声合成手法が登場して以降、大きく品質を上げました。当初は、フィードフォワード型などの単純な手法で実現してきましたが、様々なディープラーニングの手法を取り込み、急激に品質を上げていき、あっという間に日常的に使用する技... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mkj/articles/0576d194771c08</guid>
-      <pubDate>Mon, 08 Dec 2025 15:00:06 +0000</pubDate>
+2025年12月3日に起きたNext.jsおよびRSCのセキュリティ問題を受けて、弊社のフロントエンド技術選定について真剣に考える必要が出てきました。
+今回の問題については各所で再三触れられているため、ここでは詳細を割愛します。
+
+
+弊社では今まで利用者数が多いこと、AIによる開発と親和性が高いことを理由に2025年は「とりあえずNext.js」にすることが多かったのですが、弊社の規模・状況だと万が一問題が発生した際に会社存続のリスクに繋がる... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/appleworld/articles/567515443c85a3</guid>
+      <pubDate>Mon, 08 Dec 2025 22:30:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

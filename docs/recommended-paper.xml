@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Dec 2025 06:39:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 06:39:46 +0000</lastBuildDate>
     <item>
-      <title>宇宙AIのための分散型信頼：マルチベンダーLEO衛星ネットワークにおけるブロックチェーンベースの連合学習</title>
-      <link>https://arxiv.org/abs/2512.08882v1</link>
-      <description>宇宙AIの台頭は、災害検知、国境監視、気候監視などのアプリケーションを通じて、民間および政府の低軌道（LEO）衛星からの膨大なデータを活用し、政府と産業を再編しています。連合衛星学習（FSL）は、生データを共有することなく共同モデルトレーニングを可能にしますが、断続的な接続のために収束が遅く、衛星間または衛星地上通信リンクへのサイバー攻撃によって注入されたものを含む、偏ったまたは偽造された更新が衛星群全体で発生する可能性があるという重大な信頼性の課題をもたらします。私たちは、LEOネットワークにおける信頼できるマルチベンダーコラボレーションを可能にするブロックチェーン支援フレームワーク、OrbitChainを提案します。OrbitChainは、(i)より優れた計算能力を持つ高高度プラットフォーム（HAP）にコンセンサスをオフロードし、(ii)異なるベンダーが所有する異なる軌道からのモデル更新の透明性と監査可能な来歴を確保し、(iii)操作されたまたは不完全な貢献がグローバルなFSLモデル集約に影響するのを防ぎます。広範囲にわたるシミュレーションにより、OrbitChainは計算と通信の (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2512.08882v1</guid>
-      <pubDate>Tue, 09 Dec 2025 18:16:34 +0000</pubDate>
+      <title>Py-DiSMech: 離散微分幾何学に基づくソフトロボットのモデリングと制御のためのスケーラブルで効率的なフレームワーク</title>
+      <link>https://arxiv.org/abs/2512.09911v1</link>
+      <description>高忠実度のシミュレーションは、従来のモデリングツールでは対応しきれない大きな幾何学的変形や複雑な接触相互作用を伴うソフトロボットの設計と制御に不可欠となっている。この分野における近年の進歩は、物理的精度、計算スケーラビリティ、最新の制御および最適化パイプラインとのシームレスな統合を兼ね備えたシミュレーションフレームワークを求めている。本研究では、離散微分幾何学 (DDG) の原理に基づいたソフトロボット構造のモデリングと制御のための Python ベースのオープンソースシミュレーションフレームワークである Py-DiSMech を紹介する。曲率やひずみなどの幾何学的量をメッシュ上で直接離散化することにより、Py-DiSMech はロッド、シェル、ハイブリッド構造の非線形変形を高忠実度かつ計算コストを削減して捉える。このフレームワークは、(i) 既存のジオメトリベースのシミュレータよりも桁違いに高速化する完全にベクトル化された NumPy 実装、(ii) ロッド間、ロッドシェル、シェル間相互作用をサポートするペナルティエネルギーベースの完全に暗黙的な接触モデルを導入する。 (iii) 形 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.09911v1</guid>
+      <pubDate>Wed, 10 Dec 2025 18:40:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>自律航空機の視覚的進行方向予測</title>
+      <link>https://arxiv.org/abs/2512.09898v1</link>
+      <description>無人航空機（UAV）と無人地上車両（UGV）の統合は、捜索救助、環境モニタリング、物流などのアプリケーション向けインテリジェント自律システムの開発においてますます重要になっています。しかし、リアルタイムのシナリオでこれらのプラットフォーム間を正確に調整することは、特にGPSやGNSSなどの外部位置推定インフラストラクチャが利用できないか劣化している場合、大きな課題となります[1]。本論文では、ナビゲーションと調整のための堅牢なUGV検出と機首角度予測に焦点を当てた、リアルタイムUAV-UGV統合のためのビジョンベースでデータ駆動型のフレームワークを提案します。このシステムは、微調整されたYOLOv5モデルを使用してUGVを検出し、境界ボックスの特徴を抽出します。その後、この特徴は軽量の人工ニューラルネットワーク（ANN）によって使用され、UAVの必要な機首角度を推定します。トレーニング中にVICONモーションキャプチャシステムを使用してグラウンドトゥルースデータを生成し、制御されたラボ環境で収集された13,000枚を超える注釈付き画像のデータセットが得られました。訓練済みのANNは、平 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.09898v1</guid>
+      <pubDate>Wed, 10 Dec 2025 18:27:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
