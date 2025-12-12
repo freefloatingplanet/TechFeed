@@ -7,13 +7,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Dec 2025 06:39:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 06:39:29 +0000</lastBuildDate>
     <item>
-      <title>バリデーションとパースの分離。Goで実装する「変更に強い」CSV 処理の設計 - カミナシ エンジニアブログ</title>
-      <link>https://kaminashi-developer.hatenablog.jp/entry/go-csv-import-design</link>
-      <description>こんにちは。カミナシで「カミナシ 従業員」の開発を行っている nilpoona です。 業務アプリケーションを作っていると、避けて通れないのが CSV インポート機能 です。 最初は「encoding/csv で読んでループ回せば実装できる」と考えて作り始めるのですが、仕様が複雑になるにつれて、以下のような課題に直面することが... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://kaminashi-developer.hatenablog.jp/entry/go-csv-import-design</guid>
-      <pubDate>Wed, 10 Dec 2025 23:15:40 +0000</pubDate>
+      <title>Reactカスタムフックが可読性を損なうとき</title>
+      <link>https://zenn.dev/yuta_takahashi/articles/cases-where-custom-hooks-compromise-readability</link>
+      <description>この記事は React Advent Calender 2025 11 日目の投稿です。
+
+ 可読性の高いカスタムフックを考える
+React 開発において、「ロジックはカスタムフックに切り出す」というプラクティスは、私たちの思考に深く根付いています。しかし、筆者の経験上、「なんとなく」でカスタムフックに切り出されたロジックは、かえってコードの可読性を下げることが多いと感じています。コンポーネントの挙動を理解するために別ファイルを行き来し、分断されたロジックを頭の中でつなぎ合わせなければならないコードは可読性が低く、改修や不具合の調査を難しくします。
+本記事では、React のカスタムフッ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yuta_takahashi/articles/cases-where-custom-hooks-compromise-readability</guid>
+      <pubDate>Wed, 10 Dec 2025 17:24:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>View TransitionでわかるNext.jsとAstroの設計思想</title>
+      <link>https://zenn.dev/ignorant_kenji/articles/6f501784ee2812</link>
+      <description>PLAID Designer's Advent Calendar 11日目の記事です。こんにちは。株式会社プレイドのDirection &amp; Development Unit所属のデザインエンジニア、ケンジです。
+
+ はじめに
+ウェブフロントエンド開発のエコシステムは成熟期を迎えました。「シングルページアプリケーション（SPA）」と「マルチページアプリケーション（MPA）」という長年の二項対立。この議論は、View Transition APIの標準化と普及により、その境界線を溶解させつつあります。
+この新しいウェブ標準APIは、MPAであってもSPAのようなシームレスなページ遷移... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ignorant_kenji/articles/6f501784ee2812</guid>
+      <pubDate>Thu, 11 Dec 2025 05:32:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCP仕様がLinux Foundationに寄贈され「AAIF」の元で開発されることに — goose、AGENTS.mdと合わせ、AIエージェント基盤技術の世界標準化が促進</title>
+      <link>https://techfeed.io/entries/6938955b81853d29034a4b15?from=rss</link>
+      <description>12月10日、Anthoropicが「Donating the Model Context Protocol and establishing the Agentic AI Foundation」と題した記事を公開した。この記事では、オープン標準「Model Context Protocol（MCP）」をLinux Foundation傘下の新組織へ寄贈し、エージェントAIの基盤を強化する取り組みについて詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6938955b81853d29034a4b15?from=rss</guid>
+      <pubDate>Tue, 09 Dec 2025 21:32:11 +0000</pubDate>
     </item>
     <item>
       <title>ローカル開発のシークレット設定を自動化する ── Go × AWS Secrets Manager</title>
@@ -31,36 +53,11 @@
       <pubDate>Tue, 09 Dec 2025 10:24:23 +0000</pubDate>
     </item>
     <item>
-      <title>技術的負債で生じる「クラフト」を管理せよ！ ケーススタディで学ぶ4分類とその対処法 - Agile Journey</title>
-      <link>https://agilejourney.uzabase.com/entry/2025/12/11/103000</link>
-      <description>はじめまして。流しのアーキテクトを生業としている、株式会社ウルフチーフの川島（@kawasima）です。私はSIerで20年、主にアーキテクトとしてさまざまなプロジェクトに関わってきました。現在は独立し、データモデリングを中心に、多くの企業の設計や技術者育成を支援しています。 数多くの現場を渡り歩く中で、プロジ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://agilejourney.uzabase.com/entry/2025/12/11/103000</guid>
-      <pubDate>Thu, 11 Dec 2025 02:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code × MCP × Notion で「Jupyter Notebookから分析レポート」ことはじめ</title>
-      <link>https://zenn.dev/mkj/articles/0f7ba3695874ee</link>
-      <description>株式会社松尾研究所の大岡です。この記事は、松尾研究所 Advent Calendar 2025の記事です。今回は、Jupyter NotebookからNotion上に分析レポートを自動生成することに挑戦してみます。Notionを利用していなくても、ConfluenceやObsidianも公式からMCP[1]が発表されているので、現場で試してみようかな、という気持ちになっていただけたら嬉しいです。
-
- データ分析現場でNotebookが増殖し続ける問題
-データ分析の現場では、気を緩めるとJupyter Notebookがすぐにリポジトリの中心として存在感を示してきます。
-コードを書きながら... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mkj/articles/0f7ba3695874ee</guid>
-      <pubDate>Tue, 09 Dec 2025 15:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>奮発して手にいれたヘルシオ最上位機種の初仕事の結果がまるで地獄の門「出土品？」「何をするとそうなる」</title>
-      <link>https://togetter.com/li/2637617</link>
-      <description>ブラックフライデーで奮発したヘルシオ最上位の初仕事が酷い結果に。冷凍ピザを「生地から焼く」モードで予熱前に入れたため全面炭化。新品がすすだらけになり、トーストモードなら正常に焼けた。製品の耐熱性で発火は免れたが、操作ミスでピザが“出土品”のようになった。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2637617</guid>
-      <pubDate>Thu, 11 Dec 2025 03:41:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>プランナーがAIと開発してみたら、開発生産性が4倍・Issue作成時間が95%削減された話 - Speee DEVELOPER BLOG</title>
-      <link>https://tech.speee.jp/entry/refosumu-dev-ops-up-project</link>
-      <description>※この記事は、2025 Speee Advent Calendar11日目の記事です。 昨日の記事はこちら こんにちは、Speeeでプランナーとしてプロダクト開発に携わっている石川澄怜です。 Speeeには新卒で入社し、今年で3年目になります。大学時代は、中世日本文学における「地獄」についてひたすら研究していました。 現在は、リフォーム検... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tech.speee.jp/entry/refosumu-dev-ops-up-project</guid>
-      <pubDate>Thu, 11 Dec 2025 02:47:59 +0000</pubDate>
+      <title>AIで生成した「やたら長文だが内容は薄い情報」とか「意味のある情報が抜けた要約文」を上司や同僚に送りつけるのはやめようね、の話。 - フジイユウジ::ドットネット</title>
+      <link>https://fujii-yuji.net/2025/12/12/085414</link>
+      <description>生成AIによって作られた「やたら長文なのに内容は薄い文章」とか「要約されてはいるけど、必要なことが書かれていない文章」を上司や同僚に送りつける人がいます。 そういう仕事の邪魔になるようなAI生成物ををハーバード・ビジネス・レビューが「ワークスロップ」って名付けてるそうです。来年くらいにワークスロップが... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://fujii-yuji.net/2025/12/12/085414</guid>
+      <pubDate>Fri, 12 Dec 2025 00:09:30 +0000</pubDate>
     </item>
     <item>
       <title>生成AI時代だからこそ、Vim as an IME</title>
@@ -78,29 +75,18 @@ Lin... (source: Zennのトレンド)</description>
       <pubDate>Wed, 10 Dec 2025 14:04:32 +0000</pubDate>
     </item>
     <item>
-      <title>3年ぶりにアプリをアップデートしたことの振り返り</title>
-      <link>https://zenn.dev/naoya_maeda/articles/af86652c1ba611</link>
-      <description>本記事は、『エンジニアと人生 Advent Calendar 2025』10日目の記事です。
-https://adventar.org/calendars/12244
-本記事では、僕が約3年ぶりにアプリをアップデートしたことについて振り返っています。
-前半では、個人開発を始めたきっかけや現在リリースしているアプリの紹介を、後半では今回アップデートしたアプリの開発内容や振り返りをまとめています。技術的な話題にはあまり触れていないので、読み物として気軽に読んでいただけると幸いです。
-
- 個人開発を始めたきっかけについて
-個人開発を始めたきっかけは、特に深い理由があったわけではなく、ただ単に... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/naoya_maeda/articles/af86652c1ba611</guid>
-      <pubDate>Tue, 09 Dec 2025 15:00:02 +0000</pubDate>
+      <title>海外「日本人の発想ってスゲーな…」 ヨーロッパ屈指の建築家が伊勢神宮の凄さを語り話題に</title>
+      <link>http://pandora11.com/blog-entry-5569.html</link>
+      <description>古来、特別格の宮とされ、神社本庁の本宗であり、 「日本国民の総氏神」とされる伊勢神宮。 正式名称は「神宮」だけですが、他の神宮と区別するために、 「伊勢」の地名を冠して伊勢神宮と通称されています。 他の多くの神社が朱塗りの建物や瓦屋根に変わっていった中で、 伊勢神宮は神明造という古代の建築様式を受け継... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">http://pandora11.com/blog-entry-5569.html</guid>
+      <pubDate>Thu, 11 Dec 2025 15:09:45 +0000</pubDate>
     </item>
     <item>
-      <title>マネジメントを知らないエンジニアが本を読んで感じたこと</title>
-      <link>https://zenn.dev/studist/articles/newbie-management-learn</link>
-      <description>はじめに
-Teachme Player開発チームの山川 (@jyamakawa) です。
-私たちのチームでは今年だけでも2人のメンバーが新しく加わりました。
-それに伴い、入社オンボーディングやプロジェクト参画・コードベース理解の支援など、コーディング以外の業務を担うことが増えてきました。
-コードを書く以外のことはあまりやってこないで仕事をしてきましたが、エンジニアであれば「必要なのであれば学ぶ」姿勢は重要でしょう。ということで、マネジメントについて何も知らない自分がマネジメントを学んで得た気づきをまとめます。
-（ちなみに私自身、新卒3年目、スタディスト入社から約1年を過ぎたところです... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/studist/articles/newbie-management-learn</guid>
-      <pubDate>Tue, 09 Dec 2025 03:00:00 +0000</pubDate>
+      <title>バッグの中に自分の物ではないAirPodsが片方だけ入っていた…心当たりがなさすぎる、でも捨てるのもなんだしどうしよう→誰かに位置情報を特定されている可能性がある</title>
+      <link>https://togetter.com/li/2637982</link>
+      <description>バッグのポケットから見知らぬ片方のAirPodsが出てきた。持ち主が思い当たらず捨てるのもためらう。拾得物の所有者確認や同僚への確認のうえ、見つけた位置情報機能で追跡されていないか注意する。悪意ある第三者が家や行動を特定するために仕込む例があるため、安全のため警察相談や遠くでの廃棄を検討するとよい。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2637982</guid>
+      <pubDate>Fri, 12 Dec 2025 00:20:29 +0000</pubDate>
     </item>
     <item>
       <title>「とりあえずNext.js」をやめてBetter-T-Stackを試してみた</title>
@@ -116,6 +102,17 @@ Teachme Player開発チームの山川 (@jyamakawa) です。
 弊社では今まで利用者数が多いこと、AIによる開発と親和性が高いことを理由に2025年は「とりあえずNext.js」にすることが多かったのですが、弊社の規模・状況だと万が一問題が発生した際に会社存続のリスクに繋がる... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/appleworld/articles/567515443c85a3</guid>
       <pubDate>Mon, 08 Dec 2025 22:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flutter × Apple Watch 開発入門</title>
+      <link>https://zenn.dev/koichi_51/books/794ed5d92a03d6</link>
+      <description>本書は、Flutter 開発者が Apple Watch アプリを開発するための第一歩を踏み出すためのガイドです。Flutter とネイティブコードを組み合わせることで、既存の Flutter アプリに Apple Watch の機能を追加できます。
+
+本書では、Flutter と iOS 間の通信方法（Method Channel、Pigeon）と、iOS と Apple Watch 間の通信方法（WCSession）を学びます。基礎編では Method Channel と WCSession の基本を理解し、実際に動作するカウンターアプリを作成します。実践編では、型安全な実装方法として Pigeon を学び、WCSession の 4 つの通信方法（sendMessage、updateApplicationContext、transferUserInfo、transferFile）の違いと使い分けを理解します。各章には実際に動作するサンプルコードが含まれており、カウンターアプリ、設定アプリ、メッセージアプリ、画像転送アプリなど、実践的な例を題材にしています。
+
+基礎から実践まで、実 (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/koichi_51/books/794ed5d92a03d6</guid>
+      <pubDate>Wed, 10 Dec 2025 13:26:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
