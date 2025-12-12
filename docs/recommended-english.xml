@@ -7,33 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Dec 2025 06:39:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 07:20:08 +0000</lastBuildDate>
     <item>
-      <title>ベンチマーク社、エドワーズ空軍基地でのホットファイア試験で高スループットASCENTスラスターを実証</title>
-      <link>https://spacenews.com/benchmark-demonstrates-high-throughput-ascent-thruster-in-hotfire-testing-at-edwards-air-force-base/</link>
-      <description>サンフランシスコ – ベンチマーク・スペース・システムズのASCENT燃料搭載のマカウスラスタが10分間の連続燃焼に成功し、この推進技術の軌道上応用への道を開いたと、同社は12月10日に発表した。「ASCENTは他のモノプロペラントに比べてインパルス密度が50%高いため、ミッションプランナーや宇宙船の設計者は、より少ない燃料で同様のデルタv（速度変化）を得ることができます。」という記事「ベンチマークがエドワーズ空軍基地でのホットファイア試験で高スループットのASCENTスラスタを実証」がSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/benchmark-demonstrates-high-throughput-ascent-thruster-in-hotfire-testing-at-edwards-air-force-base/</guid>
-      <pubDate>Wed, 10 Dec 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>マルチエージェントAIが未知の宇宙ミッションを強化する方法</title>
-      <link>https://spacenews.com/how-multi-agent-ai-can-strengthen-space-missions-against-the-unknown/</link>
-      <description>宇宙ミッションは、複雑性によって特徴づけられる新たな時代を迎えています。センサーの増加、ソフトウェア駆動型の動作の増加、サブシステムの緊密な連携、そして宇宙船と軌道インフラ間の相互作用の増加などが挙げられます。これらのシステムが進化するにつれて、潜在的な故障モードの数も増加します。その範囲は、熱ドリフトやハードウェアの老朽化から、構成エラー、環境擾乱、そして未知のシステム挙動に至るまで多岐にわたります。[…] マルチエージェントAIが未知の脅威に対する宇宙ミッションを強化する方法に関する記事は、SpaceNewsに初掲載されました。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/how-multi-agent-ai-can-strengthen-space-missions-against-the-unknown/</guid>
-      <pubDate>Wed, 10 Dec 2025 14:00:00 +0000</pubDate>
+      <title>米国の月面開発競争：プランBを待てない理由</title>
+      <link>https://spacenews.com/the-u-s-race-to-the-moon-why-plan-b-cannot-wait/</link>
+      <description>トランプ政権と議会は長年にわたり、2028年から2030年の間に米国人を中国より先に月へ帰還させることが国家の最優先事項であると明確に述べてきました。これは、米国の宇宙におけるリーダーシップ、世界的な影響力、そして人類探査の未来にとって中心的な役割を果たします。しかし、宇宙コミュニティ全体では、厳しい認識が生まれています[…] この記事「米国の月面探査競争：プランBを先延ばしにできない理由」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/the-u-s-race-to-the-moon-why-plan-b-cannot-wait/</guid>
+      <pubDate>Thu, 11 Dec 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Enduralock、OneLink™プロトタイプを無重力シミュレーションで検証</title>
       <link>https://spacenews.com/enduralock-validates-onelink-prototype-in-zero-g-simulation/</link>
       <description>レネクサ、カンザス州 – Enduralock 社は、Arkisys 社の 1G ロボット地上試験施設で OneLink™ 衛星ドッキング コネクタの形状、適合性、機能の試験が無事完了したことを発表しました […] この記事 Enduralock 社が OneLink™ プロトタイプを無重力シミュレーションで検証したという記事が最初に SpaceNews に掲載されました。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/enduralock-validates-onelink-prototype-in-zero-g-simulation/</guid>
-      <pubDate>Thu, 11 Dec 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>米国の月面開発競争：プランBを待てない理由</title>
-      <link>https://spacenews.com/the-u-s-race-to-the-moon-why-plan-b-cannot-wait/</link>
-      <description>トランプ政権と議会は長年にわたり、2028年から2030年の間に米国人を中国より先に月へ帰還させることが国家の最優先事項であると明確に述べてきました。これは、米国の宇宙におけるリーダーシップ、世界的な影響力、そして人類探査の未来にとって中心的な役割を果たします。しかし、宇宙コミュニティ全体では、厳しい認識が生まれています[…] この記事「米国の月面探査競争：プランBを先延ばしにできない理由」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/the-u-s-race-to-the-moon-why-plan-b-cannot-wait/</guid>
       <pubDate>Thu, 11 Dec 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>

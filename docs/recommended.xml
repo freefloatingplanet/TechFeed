@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Dec 2025 06:39:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 07:20:07 +0000</lastBuildDate>
     <item>
       <title>Reactカスタムフックが可読性を損なうとき</title>
       <link>https://zenn.dev/yuta_takahashi/articles/cases-where-custom-hooks-compromise-readability</link>
@@ -20,6 +20,13 @@ React 開発において、「ロジックはカスタムフックに切り出�
       <pubDate>Wed, 10 Dec 2025 17:24:08 +0000</pubDate>
     </item>
     <item>
+      <title>MCP仕様がLinux Foundationに寄贈され「AAIF」の元で開発されることに — goose、AGENTS.mdと合わせ、AIエージェント基盤技術の世界標準化が促進</title>
+      <link>https://techfeed.io/entries/6938955b81853d29034a4b15?from=rss</link>
+      <description>12月10日、Anthoropicが「Donating the Model Context Protocol and establishing the Agentic AI Foundation」と題した記事を公開した。この記事では、オープン標準「Model Context Protocol（MCP）」をLinux Foundation傘下の新組織へ寄贈し、エージェントAIの基盤を強化する取り組みについて詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6938955b81853d29034a4b15?from=rss</guid>
+      <pubDate>Tue, 09 Dec 2025 21:32:11 +0000</pubDate>
+    </item>
+    <item>
       <title>View TransitionでわかるNext.jsとAstroの設計思想</title>
       <link>https://zenn.dev/ignorant_kenji/articles/6f501784ee2812</link>
       <description>PLAID Designer's Advent Calendar 11日目の記事です。こんにちは。株式会社プレイドのDirection &amp; Development Unit所属のデザインエンジニア、ケンジです。
@@ -29,28 +36,6 @@ React 開発において、「ロジックはカスタムフックに切り出�
 この新しいウェブ標準APIは、MPAであってもSPAのようなシームレスなページ遷移... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/ignorant_kenji/articles/6f501784ee2812</guid>
       <pubDate>Thu, 11 Dec 2025 05:32:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>MCP仕様がLinux Foundationに寄贈され「AAIF」の元で開発されることに — goose、AGENTS.mdと合わせ、AIエージェント基盤技術の世界標準化が促進</title>
-      <link>https://techfeed.io/entries/6938955b81853d29034a4b15?from=rss</link>
-      <description>12月10日、Anthoropicが「Donating the Model Context Protocol and establishing the Agentic AI Foundation」と題した記事を公開した。この記事では、オープン標準「Model Context Protocol（MCP）」をLinux Foundation傘下の新組織へ寄贈し、エージェントAIの基盤を強化する取り組みについて詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6938955b81853d29034a4b15?from=rss</guid>
-      <pubDate>Tue, 09 Dec 2025 21:32:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>ローカル開発のシークレット設定を自動化する ── Go × AWS Secrets Manager</title>
-      <link>https://zenn.dev/layerx/articles/762ecd4494694f</link>
-      <description>LayerX Tech Advent Calendar 2025の9日目の記事です。
-バクラク事業部 ソフトウェアエンジニアの @upamune です。
-今日は、ローカル開発のシークレット設定をいい感じにした話をします。
-
-
- ローカル開発環境のシークレット設定、手動でやっていませんか？
-「シークレットは1Passwordにあるので設定してください」
-開発環境のセットアップでこのようなことを言った・聞いたことがある人も多いのではないでしょうか。APIキーなど、ローカル開発でシークレットの設定が必要なことがあります。
-この記事では、AWS Secrets Manager と Go の s... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/layerx/articles/762ecd4494694f</guid>
-      <pubDate>Tue, 09 Dec 2025 10:24:23 +0000</pubDate>
     </item>
     <item>
       <title>AIで生成した「やたら長文だが内容は薄い情報」とか「意味のある情報が抜けた要約文」を上司や同僚に送りつけるのはやめようね、の話。 - フジイユウジ::ドットネット</title>
@@ -75,11 +60,19 @@ Lin... (source: Zennのトレンド)</description>
       <pubDate>Wed, 10 Dec 2025 14:04:32 +0000</pubDate>
     </item>
     <item>
-      <title>海外「日本人の発想ってスゲーな…」 ヨーロッパ屈指の建築家が伊勢神宮の凄さを語り話題に</title>
-      <link>http://pandora11.com/blog-entry-5569.html</link>
-      <description>古来、特別格の宮とされ、神社本庁の本宗であり、 「日本国民の総氏神」とされる伊勢神宮。 正式名称は「神宮」だけですが、他の神宮と区別するために、 「伊勢」の地名を冠して伊勢神宮と通称されています。 他の多くの神社が朱塗りの建物や瓦屋根に変わっていった中で、 伊勢神宮は神明造という古代の建築様式を受け継... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">http://pandora11.com/blog-entry-5569.html</guid>
-      <pubDate>Thu, 11 Dec 2025 15:09:45 +0000</pubDate>
+      <title>ローカル開発のシークレット設定を自動化する ── Go × AWS Secrets Manager</title>
+      <link>https://zenn.dev/layerx/articles/762ecd4494694f</link>
+      <description>LayerX Tech Advent Calendar 2025の9日目の記事です。
+バクラク事業部 ソフトウェアエンジニアの @upamune です。
+今日は、ローカル開発のシークレット設定をいい感じにした話をします。
+
+
+ ローカル開発環境のシークレット設定、手動でやっていませんか？
+「シークレットは1Passwordにあるので設定してください」
+開発環境のセットアップでこのようなことを言った・聞いたことがある人も多いのではないでしょうか。APIキーなど、ローカル開発でシークレットの設定が必要なことがあります。
+この記事では、AWS Secrets Manager と Go の s... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/layerx/articles/762ecd4494694f</guid>
+      <pubDate>Tue, 09 Dec 2025 10:24:23 +0000</pubDate>
     </item>
     <item>
       <title>バッグの中に自分の物ではないAirPodsが片方だけ入っていた…心当たりがなさすぎる、でも捨てるのもなんだしどうしよう→誰かに位置情報を特定されている可能性がある</title>
@@ -87,6 +80,25 @@ Lin... (source: Zennのトレンド)</description>
       <description>バッグのポケットから見知らぬ片方のAirPodsが出てきた。持ち主が思い当たらず捨てるのもためらう。拾得物の所有者確認や同僚への確認のうえ、見つけた位置情報機能で追跡されていないか注意する。悪意ある第三者が家や行動を特定するために仕込む例があるため、安全のため警察相談や遠くでの廃棄を検討するとよい。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://togetter.com/li/2637982</guid>
       <pubDate>Fri, 12 Dec 2025 00:20:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>海外「日本人の発想ってスゲーな…」 ヨーロッパ屈指の建築家が伊勢神宮の凄さを語り話題に</title>
+      <link>http://pandora11.com/blog-entry-5569.html</link>
+      <description>古来、特別格の宮とされ、神社本庁の本宗であり、 「日本国民の総氏神」とされる伊勢神宮。 正式名称は「神宮」だけですが、他の神宮と区別するために、 「伊勢」の地名を冠して伊勢神宮と通称されています。 他の多くの神社が朱塗りの建物や瓦屋根に変わっていった中で、 伊勢神宮は神明造という古代の建築様式を受け継... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">http://pandora11.com/blog-entry-5569.html</guid>
+      <pubDate>Thu, 11 Dec 2025 15:09:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>マネジメントを知らないエンジニアが本を読んで感じたこと</title>
+      <link>https://zenn.dev/studist/articles/newbie-management-learn</link>
+      <description>はじめに
+Teachme Player開発チームの山川 (@jyamakawa) です。
+私たちのチームでは今年だけでも2人のメンバーが新しく加わりました。
+それに伴い、入社オンボーディングやプロジェクト参画・コードベース理解の支援など、コーディング以外の業務を担うことが増えてきました。
+コードを書く以外のことはあまりやってこないで仕事をしてきましたが、エンジニアであれば「必要なのであれば学ぶ」姿勢は重要でしょう。ということで、マネジメントについて何も知らない自分がマネジメントを学んで得た気づきをまとめます。
+（ちなみに私自身、新卒3年目、スタディスト入社から約1年を過ぎたところです... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/studist/articles/newbie-management-learn</guid>
+      <pubDate>Tue, 09 Dec 2025 03:00:00 +0000</pubDate>
     </item>
     <item>
       <title>「とりあえずNext.js」をやめてBetter-T-Stackを試してみた</title>
@@ -102,17 +114,6 @@ Lin... (source: Zennのトレンド)</description>
 弊社では今まで利用者数が多いこと、AIによる開発と親和性が高いことを理由に2025年は「とりあえずNext.js」にすることが多かったのですが、弊社の規模・状況だと万が一問題が発生した際に会社存続のリスクに繋がる... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/appleworld/articles/567515443c85a3</guid>
       <pubDate>Mon, 08 Dec 2025 22:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flutter × Apple Watch 開発入門</title>
-      <link>https://zenn.dev/koichi_51/books/794ed5d92a03d6</link>
-      <description>本書は、Flutter 開発者が Apple Watch アプリを開発するための第一歩を踏み出すためのガイドです。Flutter とネイティブコードを組み合わせることで、既存の Flutter アプリに Apple Watch の機能を追加できます。
-
-本書では、Flutter と iOS 間の通信方法（Method Channel、Pigeon）と、iOS と Apple Watch 間の通信方法（WCSession）を学びます。基礎編では Method Channel と WCSession の基本を理解し、実際に動作するカウンターアプリを作成します。実践編では、型安全な実装方法として Pigeon を学び、WCSession の 4 つの通信方法（sendMessage、updateApplicationContext、transferUserInfo、transferFile）の違いと使い分けを理解します。各章には実際に動作するサンプルコードが含まれており、カウンターアプリ、設定アプリ、メッセージアプリ、画像転送アプリなど、実践的な例を題材にしています。
-
-基礎から実践まで、実 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/koichi_51/books/794ed5d92a03d6</guid>
-      <pubDate>Wed, 10 Dec 2025 13:26:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
