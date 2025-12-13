@@ -7,74 +7,74 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Dec 2025 21:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 21:18:55 +0000</lastBuildDate>
     <item>
-      <title>EasyPost (YC S13) Is Hiring</title>
+      <title>GleamをAdvent of Codeで試してみた</title>
+      <link>https://blog.tymscar.com/posts/gleamaoc2025/</link>
+      <description>コメント (source: Hacker News)</description>
+      <guid isPermaLink="true">https://blog.tymscar.com/posts/gleamaoc2025/</guid>
+      <pubDate>Sat, 13 Dec 2025 17:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>EasyPost（YC S13）が採用中</title>
       <link>https://www.easypost.com/careers</link>
-      <description>Comments (source: Hacker News)</description>
+      <description>コメント (source: Hacker News)</description>
       <guid isPermaLink="true">https://www.easypost.com/careers</guid>
       <pubDate>Sat, 13 Dec 2025 17:01:25 +0000</pubDate>
     </item>
     <item>
-      <title>Analysis finds anytime electricity from solar available as battery costs plummet</title>
+      <title>分析によると、バッテリーコストが急落し、太陽光発電による電気はいつでも利用可能</title>
       <link>https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/</link>
-      <description>Comments (source: Hacker News)</description>
+      <description>コメント (source: Hacker News)</description>
       <guid isPermaLink="true">https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/</guid>
       <pubDate>Sat, 13 Dec 2025 17:32:21 +0000</pubDate>
     </item>
     <item>
-      <title>How to Watch the Radiant Geminid Meteor Shower Tonight</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-years-best-and-brightest-meteor-shower-peaks-this-weekend-heres-how-to-watch-the-radiant-geminids-180987858/</link>
-      <description>Comments (source: Hacker News)</description>
-      <guid isPermaLink="true">https://www.smithsonianmag.com/smart-news/this-years-best-and-brightest-meteor-shower-peaks-this-weekend-heres-how-to-watch-the-radiant-geminids-180987858/</guid>
-      <pubDate>Sat, 13 Dec 2025 18:12:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Former Apple, Google designer: "Are we stuck with the same Desktop UX forever?" [video]</title>
+      <title>私たちは永遠に同じデスクトップ UX に縛られるのでしょうか? [ビデオ]</title>
       <link>https://www.youtube.com/watch?v=1fZTOjd_bOQ</link>
-      <description>Comments (source: Hacker News)</description>
+      <description>コメント (source: Hacker News)</description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=1fZTOjd_bOQ</guid>
       <pubDate>Sat, 13 Dec 2025 18:39:53 +0000</pubDate>
     </item>
     <item>
-      <title>AI data center boom could be bad news for other infrastructure projects</title>
+      <title>AIデータセンターのブームは他のインフラプロジェクトにとって悪いニュースになるかもしれない</title>
       <link>https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/</link>
-      <description>Improvements to roads, bridges, and other infrastructure could take a hit as data center construction accelerates. (source: TechCrunch)</description>
+      <description>データセンターの建設が加速するにつれ、道路や橋梁などのインフラの改善が打撃を受ける可能性がある。 (source: TechCrunch)</description>
       <guid isPermaLink="true">https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/</guid>
       <pubDate>Sat, 13 Dec 2025 19:37:47 +0000</pubDate>
     </item>
     <item>
-      <title>VPN location claims don't match real traffic exits</title>
+      <title>VPNの位置情報の主張は実際の交通出口と一致しない</title>
       <link>https://ipinfo.io/blog/vpn-location-mismatch-report</link>
-      <description>Comments (source: Hacker News)</description>
+      <description>コメント (source: Hacker News)</description>
       <guid isPermaLink="true">https://ipinfo.io/blog/vpn-location-mismatch-report</guid>
       <pubDate>Sat, 13 Dec 2025 19:46:19 +0000</pubDate>
     </item>
     <item>
-      <title>Ask HN: How do you handle release notes for multiple audiences?</title>
+      <title>HN に質問: 複数の対象者向けのリリース ノートをどのように処理しますか?</title>
       <link>https://news.ycombinator.com/item?id=46257486</link>
-      <description>Comments (source: Hacker News)</description>
+      <description>コメント (source: Hacker News)</description>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=46257486</guid>
       <pubDate>Sat, 13 Dec 2025 20:04:26 +0000</pubDate>
     </item>
     <item>
-      <title>I fed 24 years of my blog posts to a Markov model</title>
+      <title>私は24年間のブログ記事をマルコフモデルに入力しました</title>
       <link>https://susam.net/fed-24-years-of-posts-to-markov-model.html</link>
-      <description>Comments (source: Hacker News)</description>
+      <description>コメント (source: Hacker News)</description>
       <guid isPermaLink="true">https://susam.net/fed-24-years-of-posts-to-markov-model.html</guid>
       <pubDate>Sat, 13 Dec 2025 20:19:53 +0000</pubDate>
     </item>
     <item>
-      <title>Want to sway an election? Here’s how much fake online accounts cost</title>
+      <title>選挙に介入したい？偽のオンラインアカウントの費用は？</title>
       <link>https://www.science.org/content/article/want-sway-election-here-s-how-much-fake-online-accounts-cost</link>
-      <description>Comments (source: Hacker News)</description>
+      <description>コメント (source: Hacker News)</description>
       <guid isPermaLink="true">https://www.science.org/content/article/want-sway-election-here-s-how-much-fake-online-accounts-cost</guid>
       <pubDate>Sat, 13 Dec 2025 20:48:09 +0000</pubDate>
     </item>
     <item>
-      <title>DoorDash driver faces felony charges after allegedly spraying customers’ food</title>
+      <title>ドアダッシュの運転手、客の食べ物にスプレーをかけたとして重罪で起訴される</title>
       <link>https://techcrunch.com/2025/12/13/doordash-driver-faces-felony-charges-after-allegedly-spraying-customers-food/</link>
-      <description>A woman is facing felony charges in Evansville, Indiana over a DoorDash delivery in which she allegedly sprayed the food with a substance that made the customers vomit. (source: TechCrunch)</description>
+      <description>インディアナ州エバンズビルで、ドアダッシュの配達中に客に嘔吐を引き起こす物質を食品に散布したとして、女性が重罪で起訴されている。 (source: TechCrunch)</description>
       <guid isPermaLink="true">https://techcrunch.com/2025/12/13/doordash-driver-faces-felony-charges-after-allegedly-spraying-customers-food/</guid>
       <pubDate>Sat, 13 Dec 2025 21:06:51 +0000</pubDate>
     </item>
