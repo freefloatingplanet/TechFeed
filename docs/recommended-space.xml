@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Dec 2025 06:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 21:11:35 +0000</lastBuildDate>
     <item>
       <title>ジェームズ・ウェッブ宇宙望遠鏡が観測した約131億年前の超新星</title>
       <link>https://sorae.info/astronomy/20251212-grb-250314a-jwst.html</link>
@@ -65,18 +65,18 @@
       <pubDate>Mon, 08 Dec 2025 11:48:52 +0000</pubDate>
     </item>
     <item>
-      <title>火星のクレーター？実は…　地球観測衛星が捉えた「サハラの目」</title>
-      <link>https://sorae.info/space/20251204-sentinel-2-richat-structure.html</link>
-      <description>赤い大地と同心円状の地形が火星を思わせるこちらの画像。 実は、地球の“ある場所”を観測したデータから作成されたものなんです。 侵食作用が生み出した「サハラの目」 その場所とは、アフリカのモーリタニアにある直径約50kmの… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20251204-sentinel-2-richat-structure.html</guid>
-      <pubDate>Thu, 04 Dec 2025 11:30:45 +0000</pubDate>
+      <title>見かけによらない距離感　ハッブル宇宙望遠鏡が観測した銀河「NGC 4319」と「Mrk 205」</title>
+      <link>https://sorae.info/astronomy/20251213-ngc-4319-mrk-205.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した銀河「NGC 4319」。 りゅう座の方向、約7600万光年先にあります。 明るい中心部分の周りで、1本の渦巻腕（渦状腕）がぐるりと大きく包み込んでいるような姿をしています… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20251213-ngc-4319-mrk-205.html</guid>
+      <pubDate>Sat, 13 Dec 2025 08:14:09 +0000</pubDate>
     </item>
     <item>
-      <title>2025年12月の星空情報：14日の「ふたご座流星群」を見よう</title>
-      <link>https://sorae.info/astronomy/202512-starry-sky.html</link>
-      <description>12月、木々の葉も枯れ落ち、静かな冷気が空を包む時期となりました。しかし、星空では本格的な冬はまだ先です。今の時期に空を眺めると、西側には秋、東側には冬と、二つの季節の星座を見ることができます。 西の空に4つの星が大きな… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/202512-starry-sky.html</guid>
-      <pubDate>Thu, 04 Dec 2025 08:01:51 +0000</pubDate>
+      <title>太陽系の移動速度は従来の推定より3倍以上速い？　宇宙モデルに影響する発見</title>
+      <link>https://sorae.info/astronomy/20251213-solar-system.html</link>
+      <description>太陽系は、背景に対して約370km/sもの速度で移動していると推定されています。この速度の算出の根拠の1つとして、宇宙には特別な場所はなく、小さなスケールではムラがあっても、大きなスケールで見ればムラがないとする「宇宙原… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20251213-solar-system.html</guid>
+      <pubDate>Sat, 13 Dec 2025 12:05:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

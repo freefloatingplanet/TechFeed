@@ -7,34 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Dec 2025 06:35:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 21:11:33 +0000</lastBuildDate>
     <item>
-      <title>View TransitionでわかるNext.jsとAstroの設計思想</title>
-      <link>https://zenn.dev/ignorant_kenji/articles/6f501784ee2812</link>
-      <description>PLAID Designer's Advent Calendar 11日目の記事です。こんにちは。株式会社プレイドのDirection &amp; Development Unit所属のデザインエンジニア、ケンジです。
-
- はじめに
-ウェブフロントエンド開発のエコシステムは成熟期を迎えました。「シングルページアプリケーション（SPA）」と「マルチページアプリケーション（MPA）」という長年の二項対立。この議論は、View Transition APIの標準化と普及により、その境界線を溶解させつつあります。
-この新しいウェブ標準APIは、MPAであってもSPAのようなシームレスなページ遷移... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ignorant_kenji/articles/6f501784ee2812</guid>
-      <pubDate>Thu, 11 Dec 2025 05:32:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>緯度経度からの住所検索！〜日本の住所に絶望し、希望を見つけるまで〜</title>
-      <link>https://zenn.dev/layerx/articles/489e81aae2e33b</link>
-      <description>この記事は LayerX Tech Advent Calendar 2025 12 日目の記事です。
-前回は@tigerさんのslack-blockbookというslack  appのUI確認を爆速にするライブラリについての記事でした。
-
-こんにちは。株式会社LayerXソフトウェアエンジニアのyataです。
-皆さん、もちろん緯度経度は好きですよね？
-今回は、緯度経度と住所を用いた開発に取り組んだ際のお話です。
-「緯度経度から住所を割り出す」。
-一見簡単そうに見えるこの要件の中で、日本の住所に絶望し、そこから希望を見つけるまでの物語をお届けします。
-
- やりたかったこと
-今回実装したの... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/layerx/articles/489e81aae2e33b</guid>
-      <pubDate>Fri, 12 Dec 2025 03:46:38 +0000</pubDate>
+      <title>【Gemini】コード差分を「フローチャート」にしてロジック確認を爆速化する方法</title>
+      <link>https://qiita.com/yyy0123/items/a95496ecd624e95b80f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>どうもこんにちは。普段はQAエンジニアとして自社サービスのSaaSの品質管理をしています。
+突然ですが、みなさんは開発物のロジック確認、どのようにされていますか？
+特に複雑な条件分岐やループ処理が入ったソースコードの差分をレビューする際、「頭の中だけでロジックを追うのが辛い... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/yyy0123/items/a95496ecd624e95b80f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 12 Dec 2025 22:04:20 +0000</pubDate>
     </item>
     <item>
       <title>🐸 なぜ今、Agentic Workflowなのか - Graflowの設計思想</title>
@@ -42,6 +23,20 @@
       <description>🌟 はじめに: AIエージェント時代のワークフローと「理想と現実のギャップ」 LLMの台頭により、システム開発の現場では「AIエージェント」をどのように業務や自社製品に組み込むかが喫緊の関心事となっています。 一方で、いざプロダクション環境でエージェントを動かそうとすると、既存のツールと要件の間に 「理想と現... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://zenn.dev/myui/articles/64f31faaf1488c</guid>
       <pubDate>Fri, 12 Dec 2025 10:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RAGをコマンドで気軽に使う(obsidian,NeoVimからも使える)</title>
+      <link>https://zenn.dev/takeshy/articles/8883e8387e0b35</link>
+      <description>はじめに 最近GoogleでFile Searchという簡単にRAGが使えるAPIが提供されました。任意のStore名を指定して、ファイルをアップロードすれば、以降はGeminiのAPIでChatする際にtoolにそのStore名を指定するだけでRAGとして使ってくれるというお手軽さ。RAGにすることで、大量のデータをプロンプトに含ませることなく、「朝... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/takeshy/articles/8883e8387e0b35</guid>
+      <pubDate>Sat, 13 Dec 2025 07:41:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>ニコニコ公式の #ネット流行語100 で「ｴｯﾎｴｯﾎ」が選出されていたが、ちゃんと本家本元の写真を撮影したハニー・ヘーレさんにコメントを貰いに行っていて流石だった</title>
+      <link>https://togetter.com/li/2638486</link>
+      <description>ニコニコの「ネット流行語100」で「ｴｯﾎｴｯﾎ」が選ばれ、元ネタの写真を撮ったオランダ人写真家Hannie Heereが2021年に撮影したフクロウへの感謝を伝えるビデオメッセージを寄せた。ニコニコは本家に取材し、表彰式で紹介した。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2638486</guid>
+      <pubDate>Sat, 13 Dec 2025 10:35:58 +0000</pubDate>
     </item>
     <item>
       <title>生成AI時代だからこそ、Vim as an IME</title>
@@ -69,18 +64,26 @@ https://speakerdeck.com/himaratsu/xiao-sanatimu-da-kinashi-shi-g... (source: Zen
       <pubDate>Thu, 11 Dec 2025 10:48:10 +0000</pubDate>
     </item>
     <item>
+      <title>俺が一番好きなデザインパターン「Strategy Pattern」の話</title>
+      <link>https://zenn.dev/zozotech/articles/204d6bfe2e4314</link>
+      <description>!
+🎄 本記事は ZOZO Advent Calendar 2025 シリーズ 8 の 11 日目です。
+ぜひ他の記事もご覧ください。
+
+
+ はじめに
+こんにちは。データシステム部・推薦基盤ブロックのかみけん（上國料）です。
+突然ですが、デザインパターンの中で個人的に一番好きなのは Strategy Pattern です。
+学生時代、研究で鬼のように使っていました。機械学習の研究では「複数のモデルを同じ条件で比較する」場面が頻繁にあって、モデル A とモデル B、さらに提案手法 C を差し替えながら実験を回すわけです。このとき、各モデルを Strategy として切り出しておくと、実験コ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/zozotech/articles/204d6bfe2e4314</guid>
+      <pubDate>Wed, 10 Dec 2025 15:00:06 +0000</pubDate>
+    </item>
+    <item>
       <title>キーエンス、グーグル、成城石井…「あの企業のすごさ」が面白いほど分かる8冊</title>
       <link>https://bookplus.nikkei.com/atcl/column/051200507/120900004/</link>
       <description>日経BOOKプラスに掲載されている記事、本、著者を任意のキーワードで検索することができます。 ※ISBNも検索にご利用いただけます。ISBNとは出版物固有の13桁の番号で、裏表紙に記載されています。本サイトでISBNを使って書籍を検索する際は、ハイフン（-）を省略し、13桁の数字のみを半角文字で入力してください。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://bookplus.nikkei.com/atcl/column/051200507/120900004/</guid>
       <pubDate>Sat, 13 Dec 2025 02:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>iPhoneキーボードのバグによりまともに入力できないことをスローモーションで検証した動画が130万再生超え</title>
-      <link>https://gigazine.net/news/20251212-ios-keyboard-is-broken/</link>
-      <description>iPhoneではアルファベットをキーボードで入力可能ですが、一部のユーザーは2025年後半のiOSアップデートに伴い、「キーボードでのタイプミスが増えた」と報告しています。実際にiPhoneのキーボードで何が起きているのかをスローモーションで検証した動画がYouTubeに投稿され、記事作成時点で130万再生を超える注目を集め... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20251212-ios-keyboard-is-broken/</guid>
-      <pubDate>Fri, 12 Dec 2025 08:08:33 +0000</pubDate>
     </item>
     <item>
       <title>クロックパズルを単因子論で解く</title>
@@ -107,27 +110,6 @@ https://speakerdeck.com/himaratsu/xiao-sanatimu-da-kinashi-shi-g... (source: Zen
 基礎から実践まで、実 (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/koichi_51/books/794ed5d92a03d6</guid>
       <pubDate>Wed, 10 Dec 2025 13:26:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>シフトレフトは施策ではない --- 品質の作り込みは最初から始まっている</title>
-      <link>https://zenn.dev/moneyforward/articles/0a9e517a02ddbd</link>
-      <description>1. はじめに
-!
-シフトレフトという言葉に感じていた違和感
-
-ここ数年、「シフトレフト」という言葉を耳にする機会が増えました。
-テスト、QA、セキュリティ、運用――
-何かにつけて「シフトレフトしよう」という言葉が使われます。
-一方で、正直なところずっと違和感もありました。
-話を聞いていると、人によって指しているものが違います。
-テストを早く書くことを指す人もいれば、
-QAを設計段階から巻き込むことだと言う人もいる。
-レビュー工程を前倒しすることだ、という説明を聞いたこともあります。
-どれも間違ってはいないと思うのですが、どれもしっくりこなかったです。
-なぜなら自分自身は、
-ウォータ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/moneyforward/articles/0a9e517a02ddbd</guid>
-      <pubDate>Fri, 12 Dec 2025 08:48:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

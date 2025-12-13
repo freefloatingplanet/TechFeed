@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Programming" title="Programming">
+            <outline type="rss" text="Tech Chrunch" title="Tech Chrunch" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com"/>
+            <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com"/>
+            <outline type="rss" text="Info Q" title="Info Q" xmlUrl="http://www.infoq.com/rss/rss.action" htmlUrl="http://www.infoq.com"/>
+            <outline type="rss" text="WorkOS Blog" title="WorkOS Blog" xmlUrl="https://workos.com/blog/rss.xml" htmlUrl="https://workos.com/blog"/>
+        </outline>
+    </body>
+</opml>
