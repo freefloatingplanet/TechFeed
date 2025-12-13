@@ -7,76 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Dec 2025 21:18:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 21:36:17 +0000</lastBuildDate>
     <item>
-      <title>GleamをAdvent of Codeで試してみた</title>
-      <link>https://blog.tymscar.com/posts/gleamaoc2025/</link>
-      <description>コメント (source: Hacker News)</description>
-      <guid isPermaLink="true">https://blog.tymscar.com/posts/gleamaoc2025/</guid>
-      <pubDate>Sat, 13 Dec 2025 17:00:14 +0000</pubDate>
+      <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
+      <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
+      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主要な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</guid>
+      <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
     </item>
     <item>
-      <title>EasyPost（YC S13）が採用中</title>
-      <link>https://www.easypost.com/careers</link>
-      <description>コメント (source: Hacker News)</description>
-      <guid isPermaLink="true">https://www.easypost.com/careers</guid>
-      <pubDate>Sat, 13 Dec 2025 17:01:25 +0000</pubDate>
+      <title>Okta から Python アプリにユーザーを同期する方法</title>
+      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</link>
+      <description>わずか数行のコードで、SCIM、Okta、Python、WorkOS を使用してアプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</guid>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>分析によると、バッテリーコストが急落し、太陽光発電による電気はいつでも利用可能</title>
-      <link>https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/</link>
-      <description>コメント (source: Hacker News)</description>
-      <guid isPermaLink="true">https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/</guid>
-      <pubDate>Sat, 13 Dec 2025 17:32:21 +0000</pubDate>
+      <title>WorkOSの内部</title>
+      <link>https://workos.com/blog/inside-workos</link>
+      <description>WorkOS の舞台裏に潜入して、卓越性、開発者の喜び、そして目的のある成長を追求する企業を支える文化、理念、人材を発見してください。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/inside-workos</guid>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>私たちは永遠に同じデスクトップ UX に縛られるのでしょうか? [ビデオ]</title>
-      <link>https://www.youtube.com/watch?v=1fZTOjd_bOQ</link>
-      <description>コメント (source: Hacker News)</description>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=1fZTOjd_bOQ</guid>
-      <pubDate>Sat, 13 Dec 2025 18:39:53 +0000</pubDate>
+      <title>Magika 1.0: Rust と AI による、よりスマートで高速なファイル検出</title>
+      <link>https://www.infoq.com/news/2025/12/magika-rust-file-type-detector/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Googleは、オープンソースのファイル形式検出システム「Magika」を大幅に書き換えたバージョン1.0をリリースしました。新バージョンはAIを活用し、より幅広いファイル形式に対応し、最高の速度とセキュリティを実現するためにRustで構築されています。Sergio De Simone著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/magika-rust-file-type-detector/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 12 Dec 2025 21:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AIデータセンターのブームは他のインフラプロジェクトにとって悪いニュースになるかもしれない</title>
-      <link>https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/</link>
-      <description>データセンターの建設が加速するにつれ、道路や橋梁などのインフラの改善が打撃を受ける可能性がある。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/</guid>
-      <pubDate>Sat, 13 Dec 2025 19:37:47 +0000</pubDate>
+      <title>WorkOS MCP Night: ホリデースペシャル</title>
+      <link>https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</link>
+      <description>MCPナイト、ホリデースペシャルは歴史的な瞬間を刻みました。AnthropicがMCPをLinux Foundationに寄贈し、Agentic AI Foundationが設立されました。Cloudflare、Supabase、Datadog、Microsoft、Googleによるデモも行われました。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>VPNの位置情報の主張は実際の交通出口と一致しない</title>
-      <link>https://ipinfo.io/blog/vpn-location-mismatch-report</link>
-      <description>コメント (source: Hacker News)</description>
-      <guid isPermaLink="true">https://ipinfo.io/blog/vpn-location-mismatch-report</guid>
-      <pubDate>Sat, 13 Dec 2025 19:46:19 +0000</pubDate>
+      <title>React Advanced 2025: Nuqs で型安全な URL 状態管理が中心に</title>
+      <link>https://www.infoq.com/news/2025/12/nuqs-react-advanced/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>React向けの最先端のオープンソースURL状態管理ツールであるNuqsは、その型安全なアプローチによってアプリケーション開発に革命をもたらします。React Advanced 2025で展示されたNuqsは、開発者がURLを介してアプリの完全な状態を共有できるようにし、「テレポート」や「タイムトラベル」を可能にします。業界リーダーに採用されているNuqsは、堅牢なパフォーマンスと型安全性を確保しながら、状態管理を簡素化します。ダニエル・カーティス (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/nuqs-react-advanced/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 12 Dec 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>HN に質問: 複数の対象者向けのリリース ノートをどのように処理しますか?</title>
-      <link>https://news.ycombinator.com/item?id=46257486</link>
-      <description>コメント (source: Hacker News)</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46257486</guid>
-      <pubDate>Sat, 13 Dec 2025 20:04:26 +0000</pubDate>
+      <title>チームマネージャーとして機械学習エンジニアを育成する中で学んだこと</title>
+      <link>https://www.infoq.com/news/2025/12/machine-learning-engineers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>AIチームマネージャーであるヴィヴェック・グプタ氏は、AIエキスパートを効果的に指導し、チームを牽引するために、幅広い情報に常に精通しています。グプタ氏はDev Summit Bostonで、エンジニアは技術スキルと対人スキルの両方に関するフィードバックを必要としていると述べました。彼は学習時間、助けを求めること、そしてチーム間の連携を重視しています。メンターシップ、データ処理、そして人間参加型検証は、機械学習エンジニアにとって成功の鍵です。ベン・リンダース著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/machine-learning-engineers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 11 Dec 2025 11:31:00 +0000</pubDate>
     </item>
     <item>
-      <title>私は24年間のブログ記事をマルコフモデルに入力しました</title>
-      <link>https://susam.net/fed-24-years-of-posts-to-markov-model.html</link>
-      <description>コメント (source: Hacker News)</description>
-      <guid isPermaLink="true">https://susam.net/fed-24-years-of-posts-to-markov-model.html</guid>
-      <pubDate>Sat, 13 Dec 2025 20:19:53 +0000</pubDate>
+      <title>.NET 10 の ASP.NET Core: Blazor、API、OpenAPI の大幅な更新</title>
+      <link>https://www.infoq.com/news/2025/12/asp-net-core-10-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Microsoftは、先月の.NET 10リリースに付随するASP.NET Coreのメジャーアップデートの詳細を発表しました。既報の通り、このバージョンではBlazor、Minimal API、OpenAPI生成、認証、そしてフレームワーク全体のパフォーマンスにおいて大幅な改善が図られています。Almir Vuk著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/asp-net-core-10-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 11 Dec 2025 08:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>選挙に介入したい？偽のオンラインアカウントの費用は？</title>
-      <link>https://www.science.org/content/article/want-sway-election-here-s-how-much-fake-online-accounts-cost</link>
-      <description>コメント (source: Hacker News)</description>
-      <guid isPermaLink="true">https://www.science.org/content/article/want-sway-election-here-s-how-much-fake-online-accounts-cost</guid>
-      <pubDate>Sat, 13 Dec 2025 20:48:09 +0000</pubDate>
+      <title>AIエージェントセキュリティのためのCerbos：機能、価格、代替品</title>
+      <link>https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</link>
+      <description>Cerbosは、開発者がアプリケーションにきめ細かなアクセス制御を実装するのに役立つオープンソースの認可エンジンです。Apache 2.0ライセンスの下でリリースされており、アプリケーションが特定のアクションを許可するかどうかを判断するための、一元化されたポリシー決定ポイントを提供します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</guid>
+      <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>ドアダッシュの運転手、客の食べ物にスプレーをかけたとして重罪で起訴される</title>
-      <link>https://techcrunch.com/2025/12/13/doordash-driver-faces-felony-charges-after-allegedly-spraying-customers-food/</link>
-      <description>インディアナ州エバンズビルで、ドアダッシュの配達中に客に嘔吐を引き起こす物質を食品に散布したとして、女性が重罪で起訴されている。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2025/12/13/doordash-driver-faces-felony-charges-after-allegedly-spraying-customers-food/</guid>
-      <pubDate>Sat, 13 Dec 2025 21:06:51 +0000</pubDate>
+      <title>記事: InfoQ Javaトレンドレポート2025</title>
+      <link>https://www.infoq.com/articles/java-trends-report-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>このレポートは、InfoQ Java編集チームと複数のJavaチャンピオンが、2025年のJavaおよびJVM分野における技術の採用状況と新たなトレンドについて現在どのように見ているかをまとめたものです。Java言語、KotlinやScalaなどの関連言語、Java仮想マシン（JVM）、そしてJavaベースのフレームワークとユーティリティに焦点を当てています。Michael Redlich、Erik Costlow、Karsten Silz、Trisha Gee、Marit van Dijk、Richard Fichtner、Bert Jan Schrijver著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/java-trends-report-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 11 Dec 2025 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
