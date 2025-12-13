@@ -18,7 +18,7 @@ profiles:
     output_rss: docs/recommended.xml
     title: "Tech Feed"
     description: "技術系のブログからおすすめフィードを生成"
-  - name: english tech
+  - name: english space tech
     feeds_opml: data/feeds_english.opml
     likes_csv: data/likes_english.csv
     output_rss: docs/recommended-english.xml
@@ -52,14 +52,14 @@ profiles:
       enabled: true
       source_language: "en"
       target_language: "ja"
-  - name: englishtech
+  - name: english tech
     feeds_opml: data/feeds_englishtech.opml
     likes_csv: data/likes_englishtech.csv
     output_rss: docs/recommended-englishtech.xml
     title: "Tech Feed (English)"
     description: "海外の技術系のブログからおすすめフィードを生成"
     apply_threshold_on: "final_score" # "similarity" or "final_score"（後述）
-    score_threshold: 0.170 # 最終スコア側にしきい値を置く場合だけ使う
+    score_threshold: 0.220 # 最終スコア側にしきい値を置く場合だけ使う
     language: "ja"
     translation:
       enabled: true
