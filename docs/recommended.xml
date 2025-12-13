@@ -7,7 +7,39 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Dec 2025 21:11:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 21:15:08 +0000</lastBuildDate>
+    <item>
+      <title>緯度経度からの住所検索！〜日本の住所に絶望し、希望を見つけるまで〜</title>
+      <link>https://zenn.dev/layerx/articles/489e81aae2e33b</link>
+      <description>この記事は LayerX Tech Advent Calendar 2025 12 日目の記事です。
+前回は@tigerさんのslack-blockbookというslack  appのUI確認を爆速にするライブラリについての記事でした。
+
+こんにちは。株式会社LayerXソフトウェアエンジニアのyataです。
+皆さん、もちろん緯度経度は好きですよね？
+今回は、緯度経度と住所を用いた開発に取り組んだ際のお話です。
+「緯度経度から住所を割り出す」。
+一見簡単そうに見えるこの要件の中で、日本の住所に絶望し、そこから希望を見つけるまでの物語をお届けします。
+
+ やりたかったこと
+今回実装したの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/layerx/articles/489e81aae2e33b</guid>
+      <pubDate>Fri, 12 Dec 2025 03:46:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話</title>
+      <link>https://zenn.dev/stafes_blog/articles/d7457519a2daec</link>
+      <description>!
+この記事は、スターフェスティバル Advent Calendar 2025の11日目です。
+
+こんにちは。
+ここ1ヶ月くらい、Obsidian × Claude Code メインで日々の情報整理に使ってみて、思った以上に自分に合っていると感じたので、そのあたりを書きます。
+
+ 日々の情報整理を改善しようと思った背景
+組織横断のプロジェクトと、それ以外の大小さまざまなタスクが日々発生していて、プロジェクトのボードに載せづらいタスクが多かった。
+メモや Slack の TODO を使ってはいたものの、気づくとタスクと情報が散らばってしまい、目の前のタスクをこなしていたら、使わなくなった。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/stafes_blog/articles/d7457519a2daec</guid>
+      <pubDate>Thu, 11 Dec 2025 01:00:01 +0000</pubDate>
+    </item>
     <item>
       <title>【Gemini】コード差分を「フローチャート」にしてロジック確認を爆速化する方法</title>
       <link>https://qiita.com/yyy0123/items/a95496ecd624e95b80f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -23,13 +55,6 @@
       <description>🌟 はじめに: AIエージェント時代のワークフローと「理想と現実のギャップ」 LLMの台頭により、システム開発の現場では「AIエージェント」をどのように業務や自社製品に組み込むかが喫緊の関心事となっています。 一方で、いざプロダクション環境でエージェントを動かそうとすると、既存のツールと要件の間に 「理想と現... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://zenn.dev/myui/articles/64f31faaf1488c</guid>
       <pubDate>Fri, 12 Dec 2025 10:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RAGをコマンドで気軽に使う(obsidian,NeoVimからも使える)</title>
-      <link>https://zenn.dev/takeshy/articles/8883e8387e0b35</link>
-      <description>はじめに 最近GoogleでFile Searchという簡単にRAGが使えるAPIが提供されました。任意のStore名を指定して、ファイルをアップロードすれば、以降はGeminiのAPIでChatする際にtoolにそのStore名を指定するだけでRAGとして使ってくれるというお手軽さ。RAGにすることで、大量のデータをプロンプトに含ませることなく、「朝... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/takeshy/articles/8883e8387e0b35</guid>
-      <pubDate>Sat, 13 Dec 2025 07:41:02 +0000</pubDate>
     </item>
     <item>
       <title>ニコニコ公式の #ネット流行語100 で「ｴｯﾎｴｯﾎ」が選出されていたが、ちゃんと本家本元の写真を撮影したハニー・ヘーレさんにコメントを貰いに行っていて流石だった</title>
@@ -62,21 +87,6 @@ Lin... (source: Zennのトレンド)</description>
 https://speakerdeck.com/himaratsu/xiao-sanatimu-da-kinashi-shi-g... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/himara2/articles/755a0a2c4678c0</guid>
       <pubDate>Thu, 11 Dec 2025 10:48:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>俺が一番好きなデザインパターン「Strategy Pattern」の話</title>
-      <link>https://zenn.dev/zozotech/articles/204d6bfe2e4314</link>
-      <description>!
-🎄 本記事は ZOZO Advent Calendar 2025 シリーズ 8 の 11 日目です。
-ぜひ他の記事もご覧ください。
-
-
- はじめに
-こんにちは。データシステム部・推薦基盤ブロックのかみけん（上國料）です。
-突然ですが、デザインパターンの中で個人的に一番好きなのは Strategy Pattern です。
-学生時代、研究で鬼のように使っていました。機械学習の研究では「複数のモデルを同じ条件で比較する」場面が頻繁にあって、モデル A とモデル B、さらに提案手法 C を差し替えながら実験を回すわけです。このとき、各モデルを Strategy として切り出しておくと、実験コ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/zozotech/articles/204d6bfe2e4314</guid>
-      <pubDate>Wed, 10 Dec 2025 15:00:06 +0000</pubDate>
     </item>
     <item>
       <title>キーエンス、グーグル、成城石井…「あの企業のすごさ」が面白いほど分かる8冊</title>

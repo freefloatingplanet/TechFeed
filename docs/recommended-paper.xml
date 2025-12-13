@@ -7,11 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Dec 2025 21:11:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 21:15:14 +0000</lastBuildDate>
     <item>
-      <title>T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders</title>
+      <title>T-SHRED: Transformer 浅い再帰デコーダーを用いた正則化とモデル発見のための記号回帰</title>
       <link>https://arxiv.org/abs/2506.15881v3</link>
-      <description>SHallow REcurrent Decoders (SHRED) are effective for system identification and forecasting from sparse sensor measurements. Such models are light-weight and computationally efficient, allowing them to be trained on consumer laptops. SHRED-based models rely on Recurrent Neural Networks (RNNs) and a simple Multi-Layer Perceptron (MLP) for the temporal encoding and spatial decoding respectively. Despite the relatively simple structure of SHRED, they are able to predict chaotic dynamical systems on  (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <description>SHallow REcurrent Decoder（SHRED）は、スパースなセンサー計測値からのシステム識別と予測に効果的です。このようなモデルは軽量で計算効率が高いため、一般のノートパソコンでトレーニングできます。SHREDベースのモデルは、時間的エンコードと空間的デコードにそれぞれリカレントニューラルネットワーク（RNN）とシンプルな多層パーセプトロン（MLP）を利用しています。SHREDは比較的シンプルな構造であるにもかかわらず、スパースなセンサー計測値セットから直接、さまざまな物理的、空間的、時間的スケールのカオス的動的システムを予測できます。本研究では、時間的エンコードに記号回帰が組み込まれたトランスフォーマー（T-SHRED）を活用することでSHREDを改良し、物理データの自己回帰長期予測を回避します。これは、T-SHREDに新しいスパース非線形ダイナミクスの識別（SINDy）アテンションメカニズムを組み込むことで実現され、潜在空間にスパース正則化を適用することで、即時の記号解釈も可能になります。記号回帰は、訓練中に潜在空間のダイナミクスを学習・正則化することで、モデルの (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
       <guid isPermaLink="true">https://arxiv.org/abs/2506.15881v3</guid>
       <pubDate>Wed, 18 Jun 2025 21:14:38 +0000</pubDate>
     </item>
