@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Dec 2025 07:20:07 +0000</lastBuildDate>
-    <item>
-      <title>Reactカスタムフックが可読性を損なうとき</title>
-      <link>https://zenn.dev/yuta_takahashi/articles/cases-where-custom-hooks-compromise-readability</link>
-      <description>この記事は React Advent Calender 2025 11 日目の投稿です。
-
- 可読性の高いカスタムフックを考える
-React 開発において、「ロジックはカスタムフックに切り出す」というプラクティスは、私たちの思考に深く根付いています。しかし、筆者の経験上、「なんとなく」でカスタムフックに切り出されたロジックは、かえってコードの可読性を下げることが多いと感じています。コンポーネントの挙動を理解するために別ファイルを行き来し、分断されたロジックを頭の中でつなぎ合わせなければならないコードは可読性が低く、改修や不具合の調査を難しくします。
-本記事では、React のカスタムフッ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yuta_takahashi/articles/cases-where-custom-hooks-compromise-readability</guid>
-      <pubDate>Wed, 10 Dec 2025 17:24:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>MCP仕様がLinux Foundationに寄贈され「AAIF」の元で開発されることに — goose、AGENTS.mdと合わせ、AIエージェント基盤技術の世界標準化が促進</title>
-      <link>https://techfeed.io/entries/6938955b81853d29034a4b15?from=rss</link>
-      <description>12月10日、Anthoropicが「Donating the Model Context Protocol and establishing the Agentic AI Foundation」と題した記事を公開した。この記事では、オープン標準「Model Context Protocol（MCP）」をLinux Foundation傘下の新組織へ寄贈し、エージェントAIの基盤を強化する取り組みについて詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6938955b81853d29034a4b15?from=rss</guid>
-      <pubDate>Tue, 09 Dec 2025 21:32:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Dec 2025 06:35:33 +0000</lastBuildDate>
     <item>
       <title>View TransitionでわかるNext.jsとAstroの設計思想</title>
       <link>https://zenn.dev/ignorant_kenji/articles/6f501784ee2812</link>
@@ -38,11 +20,28 @@ React 開発において、「ロジックはカスタムフックに切り出�
       <pubDate>Thu, 11 Dec 2025 05:32:13 +0000</pubDate>
     </item>
     <item>
-      <title>AIで生成した「やたら長文だが内容は薄い情報」とか「意味のある情報が抜けた要約文」を上司や同僚に送りつけるのはやめようね、の話。 - フジイユウジ::ドットネット</title>
-      <link>https://fujii-yuji.net/2025/12/12/085414</link>
-      <description>生成AIによって作られた「やたら長文なのに内容は薄い文章」とか「要約されてはいるけど、必要なことが書かれていない文章」を上司や同僚に送りつける人がいます。 そういう仕事の邪魔になるようなAI生成物ををハーバード・ビジネス・レビューが「ワークスロップ」って名付けてるそうです。来年くらいにワークスロップが... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://fujii-yuji.net/2025/12/12/085414</guid>
-      <pubDate>Fri, 12 Dec 2025 00:09:30 +0000</pubDate>
+      <title>緯度経度からの住所検索！〜日本の住所に絶望し、希望を見つけるまで〜</title>
+      <link>https://zenn.dev/layerx/articles/489e81aae2e33b</link>
+      <description>この記事は LayerX Tech Advent Calendar 2025 12 日目の記事です。
+前回は@tigerさんのslack-blockbookというslack  appのUI確認を爆速にするライブラリについての記事でした。
+
+こんにちは。株式会社LayerXソフトウェアエンジニアのyataです。
+皆さん、もちろん緯度経度は好きですよね？
+今回は、緯度経度と住所を用いた開発に取り組んだ際のお話です。
+「緯度経度から住所を割り出す」。
+一見簡単そうに見えるこの要件の中で、日本の住所に絶望し、そこから希望を見つけるまでの物語をお届けします。
+
+ やりたかったこと
+今回実装したの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/layerx/articles/489e81aae2e33b</guid>
+      <pubDate>Fri, 12 Dec 2025 03:46:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐸 なぜ今、Agentic Workflowなのか - Graflowの設計思想</title>
+      <link>https://zenn.dev/myui/articles/64f31faaf1488c</link>
+      <description>🌟 はじめに: AIエージェント時代のワークフローと「理想と現実のギャップ」 LLMの台頭により、システム開発の現場では「AIエージェント」をどのように業務や自社製品に組み込むかが喫緊の関心事となっています。 一方で、いざプロダクション環境でエージェントを動かそうとすると、既存のツールと要件の間に 「理想と現... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/myui/articles/64f31faaf1488c</guid>
+      <pubDate>Fri, 12 Dec 2025 10:23:00 +0000</pubDate>
     </item>
     <item>
       <title>生成AI時代だからこそ、Vim as an IME</title>
@@ -60,60 +59,75 @@ Lin... (source: Zennのトレンド)</description>
       <pubDate>Wed, 10 Dec 2025 14:04:32 +0000</pubDate>
     </item>
     <item>
-      <title>ローカル開発のシークレット設定を自動化する ── Go × AWS Secrets Manager</title>
-      <link>https://zenn.dev/layerx/articles/762ecd4494694f</link>
-      <description>LayerX Tech Advent Calendar 2025の9日目の記事です。
-バクラク事業部 ソフトウェアエンジニアの @upamune です。
-今日は、ローカル開発のシークレット設定をいい感じにした話をします。
-
-
- ローカル開発環境のシークレット設定、手動でやっていませんか？
-「シークレットは1Passwordにあるので設定してください」
-開発環境のセットアップでこのようなことを言った・聞いたことがある人も多いのではないでしょうか。APIキーなど、ローカル開発でシークレットの設定が必要なことがあります。
-この記事では、AWS Secrets Manager と Go の s... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/layerx/articles/762ecd4494694f</guid>
-      <pubDate>Tue, 09 Dec 2025 10:24:23 +0000</pubDate>
+      <title>AIの力を借りて2人で10人分の仕事をする (2025年・個人開発)</title>
+      <link>https://zenn.dev/himara2/articles/755a0a2c4678c0</link>
+      <description>Claude CodeやCodexの登場でコーディングは体感3倍くらい早くなりました。しかしプロダクト開発自体の速度アップは1.x倍くらいに留まっている気がします。
+その原因は「プロダクト作りはコーディング以外にも色々やることがあるから」だと思い、コーディング以外でのAI活用を今年色々試したのでまとめてみます。
+なお、このZennは「小さなチーム 大きな仕事」というタイトルで以前発表したものの再編版です。スライドの方が読みやすい方はそちらを参照してください:)
+https://speakerdeck.com/himaratsu/xiao-sanatimu-da-kinashi-shi-g... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/himara2/articles/755a0a2c4678c0</guid>
+      <pubDate>Thu, 11 Dec 2025 10:48:10 +0000</pubDate>
     </item>
     <item>
-      <title>バッグの中に自分の物ではないAirPodsが片方だけ入っていた…心当たりがなさすぎる、でも捨てるのもなんだしどうしよう→誰かに位置情報を特定されている可能性がある</title>
-      <link>https://togetter.com/li/2637982</link>
-      <description>バッグのポケットから見知らぬ片方のAirPodsが出てきた。持ち主が思い当たらず捨てるのもためらう。拾得物の所有者確認や同僚への確認のうえ、見つけた位置情報機能で追跡されていないか注意する。悪意ある第三者が家や行動を特定するために仕込む例があるため、安全のため警察相談や遠くでの廃棄を検討するとよい。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2637982</guid>
-      <pubDate>Fri, 12 Dec 2025 00:20:29 +0000</pubDate>
+      <title>キーエンス、グーグル、成城石井…「あの企業のすごさ」が面白いほど分かる8冊</title>
+      <link>https://bookplus.nikkei.com/atcl/column/051200507/120900004/</link>
+      <description>日経BOOKプラスに掲載されている記事、本、著者を任意のキーワードで検索することができます。 ※ISBNも検索にご利用いただけます。ISBNとは出版物固有の13桁の番号で、裏表紙に記載されています。本サイトでISBNを使って書籍を検索する際は、ハイフン（-）を省略し、13桁の数字のみを半角文字で入力してください。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://bookplus.nikkei.com/atcl/column/051200507/120900004/</guid>
+      <pubDate>Sat, 13 Dec 2025 02:00:20 +0000</pubDate>
     </item>
     <item>
-      <title>海外「日本人の発想ってスゲーな…」 ヨーロッパ屈指の建築家が伊勢神宮の凄さを語り話題に</title>
-      <link>http://pandora11.com/blog-entry-5569.html</link>
-      <description>古来、特別格の宮とされ、神社本庁の本宗であり、 「日本国民の総氏神」とされる伊勢神宮。 正式名称は「神宮」だけですが、他の神宮と区別するために、 「伊勢」の地名を冠して伊勢神宮と通称されています。 他の多くの神社が朱塗りの建物や瓦屋根に変わっていった中で、 伊勢神宮は神明造という古代の建築様式を受け継... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">http://pandora11.com/blog-entry-5569.html</guid>
-      <pubDate>Thu, 11 Dec 2025 15:09:45 +0000</pubDate>
+      <title>iPhoneキーボードのバグによりまともに入力できないことをスローモーションで検証した動画が130万再生超え</title>
+      <link>https://gigazine.net/news/20251212-ios-keyboard-is-broken/</link>
+      <description>iPhoneではアルファベットをキーボードで入力可能ですが、一部のユーザーは2025年後半のiOSアップデートに伴い、「キーボードでのタイプミスが増えた」と報告しています。実際にiPhoneのキーボードで何が起きているのかをスローモーションで検証した動画がYouTubeに投稿され、記事作成時点で130万再生を超える注目を集め... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20251212-ios-keyboard-is-broken/</guid>
+      <pubDate>Fri, 12 Dec 2025 08:08:33 +0000</pubDate>
     </item>
     <item>
-      <title>マネジメントを知らないエンジニアが本を読んで感じたこと</title>
-      <link>https://zenn.dev/studist/articles/newbie-management-learn</link>
-      <description>はじめに
-Teachme Player開発チームの山川 (@jyamakawa) です。
-私たちのチームでは今年だけでも2人のメンバーが新しく加わりました。
-それに伴い、入社オンボーディングやプロジェクト参画・コードベース理解の支援など、コーディング以外の業務を担うことが増えてきました。
-コードを書く以外のことはあまりやってこないで仕事をしてきましたが、エンジニアであれば「必要なのであれば学ぶ」姿勢は重要でしょう。ということで、マネジメントについて何も知らない自分がマネジメントを学んで得た気づきをまとめます。
-（ちなみに私自身、新卒3年目、スタディスト入社から約1年を過ぎたところです... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/studist/articles/newbie-management-learn</guid>
-      <pubDate>Tue, 09 Dec 2025 03:00:00 +0000</pubDate>
+      <title>クロックパズルを単因子論で解く</title>
+      <link>https://zenn.dev/lotz/articles/93f73c17145819</link>
+      <description>これは「Haskell Advent Calendar 2025」12日目の記事です。
+
+タイトルにクロックパズルと銘打ちましたが、このパズルの本当の名前を私は知りません（知ってたら教えて下さい）。パズルというのは例えば、以下のように
+
+左、中央、右にそれぞれ3時間と4時間と5時間を計る時計があり、時計の針は 1,2,3 を指しているとします。それぞれの押しボタンを押すと時計の針は以下のように動きます。
+
+押しボタン a を押すと、左の時計の針が2時間進み、中央の時計の針が1時間進む
+押しボタン b を押すと、中央の時計の針が2時間進み、右の時計の針が3時間進む
+押しボタン c を押すと... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/lotz/articles/93f73c17145819</guid>
+      <pubDate>Thu, 11 Dec 2025 22:47:16 +0000</pubDate>
     </item>
     <item>
-      <title>「とりあえずNext.js」をやめてBetter-T-Stackを試してみた</title>
-      <link>https://zenn.dev/appleworld/articles/567515443c85a3</link>
-      <description>株式会社アップルワールドのrikuです。
-※この記事はアップルワールド Advent Calendar 2025の9日目の記事です。
+      <title>Flutter × Apple Watch 開発入門</title>
+      <link>https://zenn.dev/koichi_51/books/794ed5d92a03d6</link>
+      <description>本書は、Flutter 開発者が Apple Watch アプリを開発するための第一歩を踏み出すためのガイドです。Flutter とネイティブコードを組み合わせることで、既存の Flutter アプリに Apple Watch の機能を追加できます。
 
- はじめに
-2025年12月3日に起きたNext.jsおよびRSCのセキュリティ問題を受けて、弊社のフロントエンド技術選定について真剣に考える必要が出てきました。
-今回の問題については各所で再三触れられているため、ここでは詳細を割愛します。
+本書では、Flutter と iOS 間の通信方法（Method Channel、Pigeon）と、iOS と Apple Watch 間の通信方法（WCSession）を学びます。基礎編では Method Channel と WCSession の基本を理解し、実際に動作するカウンターアプリを作成します。実践編では、型安全な実装方法として Pigeon を学び、WCSession の 4 つの通信方法（sendMessage、updateApplicationContext、transferUserInfo、transferFile）の違いと使い分けを理解します。各章には実際に動作するサンプルコードが含まれており、カウンターアプリ、設定アプリ、メッセージアプリ、画像転送アプリなど、実践的な例を題材にしています。
 
+基礎から実践まで、実 (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/koichi_51/books/794ed5d92a03d6</guid>
+      <pubDate>Wed, 10 Dec 2025 13:26:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>シフトレフトは施策ではない --- 品質の作り込みは最初から始まっている</title>
+      <link>https://zenn.dev/moneyforward/articles/0a9e517a02ddbd</link>
+      <description>1. はじめに
+!
+シフトレフトという言葉に感じていた違和感
 
-弊社では今まで利用者数が多いこと、AIによる開発と親和性が高いことを理由に2025年は「とりあえずNext.js」にすることが多かったのですが、弊社の規模・状況だと万が一問題が発生した際に会社存続のリスクに繋がる... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/appleworld/articles/567515443c85a3</guid>
-      <pubDate>Mon, 08 Dec 2025 22:30:05 +0000</pubDate>
+ここ数年、「シフトレフト」という言葉を耳にする機会が増えました。
+テスト、QA、セキュリティ、運用――
+何かにつけて「シフトレフトしよう」という言葉が使われます。
+一方で、正直なところずっと違和感もありました。
+話を聞いていると、人によって指しているものが違います。
+テストを早く書くことを指す人もいれば、
+QAを設計段階から巻き込むことだと言う人もいる。
+レビュー工程を前倒しすることだ、という説明を聞いたこともあります。
+どれも間違ってはいないと思うのですが、どれもしっくりこなかったです。
+なぜなら自分自身は、
+ウォータ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/moneyforward/articles/0a9e517a02ddbd</guid>
+      <pubDate>Fri, 12 Dec 2025 08:48:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
