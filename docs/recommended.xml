@@ -7,38 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Dec 2025 21:36:02 +0000</lastBuildDate>
-    <item>
-      <title>Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話</title>
-      <link>https://zenn.dev/stafes_blog/articles/d7457519a2daec</link>
-      <description>!
-この記事は、スターフェスティバル Advent Calendar 2025の11日目です。
-
-こんにちは。
-ここ1ヶ月くらい、Obsidian × Claude Code メインで日々の情報整理に使ってみて、思った以上に自分に合っていると感じたので、そのあたりを書きます。
-
- 日々の情報整理を改善しようと思った背景
-組織横断のプロジェクトと、それ以外の大小さまざまなタスクが日々発生していて、プロジェクトのボードに載せづらいタスクが多かった。
-メモや Slack の TODO を使ってはいたものの、気づくとタスクと情報が散らばってしまい、目の前のタスクをこなしていたら、使わなくなった。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/stafes_blog/articles/d7457519a2daec</guid>
-      <pubDate>Thu, 11 Dec 2025 01:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Gemini】コード差分を「フローチャート」にしてロジック確認を爆速化する方法</title>
-      <link>https://qiita.com/yyy0123/items/a95496ecd624e95b80f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>どうもこんにちは。普段はQAエンジニアとして自社サービスのSaaSの品質管理をしています。
-突然ですが、みなさんは開発物のロジック確認、どのようにされていますか？
-特に複雑な条件分岐やループ処理が入ったソースコードの差分をレビューする際、「頭の中だけでロジックを追うのが辛い... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/yyy0123/items/a95496ecd624e95b80f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 12 Dec 2025 22:04:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>🐸 なぜ今、Agentic Workflowなのか - Graflowの設計思想</title>
-      <link>https://zenn.dev/myui/articles/64f31faaf1488c</link>
-      <description>🌟 はじめに: AIエージェント時代のワークフローと「理想と現実のギャップ」 LLMの台頭により、システム開発の現場では「AIエージェント」をどのように業務や自社製品に組み込むかが喫緊の関心事となっています。 一方で、いざプロダクション環境でエージェントを動かそうとすると、既存のツールと要件の間に 「理想と現... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/myui/articles/64f31faaf1488c</guid>
-      <pubDate>Fri, 12 Dec 2025 10:23:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 Dec 2025 06:35:28 +0000</lastBuildDate>
     <item>
       <title>ニコニコ公式の #ネット流行語100 で「ｴｯﾎｴｯﾎ」が選出されていたが、ちゃんと本家本元の写真を撮影したハニー・ヘーレさんにコメントを貰いに行っていて流石だった</title>
       <link>https://togetter.com/li/2638486</link>
@@ -47,19 +16,11 @@
       <pubDate>Sat, 13 Dec 2025 10:35:58 +0000</pubDate>
     </item>
     <item>
-      <title>生成AI時代だからこそ、Vim as an IME</title>
-      <link>https://zenn.dev/dog/articles/vim-as-an-ime</link>
-      <description>生成AI時代だからこそ、Vim as an IME
-Firenvim を導入しました。
-Firenvim とは、Firefox や Chrome のテキストボックスの上に Neovim をオーバーレイし、テキストエリアにある内容を Neovim の一時バッファに送ってくれる機能です。もちろん、そのバッファを保存（:w）すると、ブラウザのテキストエリアに即座に反映してくれます。
-今回は、このツールを使って「Vim as an IME」を実現する現代的な意義について語ります。
-
-(引用: Firenvim GitHub README)
-
- IME をインストールしないという選択肢
-Lin... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dog/articles/vim-as-an-ime</guid>
-      <pubDate>Wed, 10 Dec 2025 14:04:32 +0000</pubDate>
+      <title>「継続」は力なり - 継続を知り、Promiseの限界を超え、Effect Systemへ - エムスリーテックブログ</title>
+      <link>https://www.m3tech.blog/entry/2025/12/14/100000</link>
+      <description>本記事は、M3 Advent Calendar 2025 14日目の記事です。 はじめまして。エンジニアグループ、コンシューマーチームの松本と申します。 今回は、「継続 - Continuation」の本質を理解し、Promiseやasync/awaitでは解決できない課題を明らかにした上で、それを乗り越えるEffect Systemについて解説します。 「継続 - Conti... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/12/14/100000</guid>
+      <pubDate>Sun, 14 Dec 2025 01:29:11 +0000</pubDate>
     </item>
     <item>
       <title>AIの力を借りて2人で10人分の仕事をする (2025年・個人開発)</title>
@@ -94,6 +55,15 @@ https://speakerdeck.com/himaratsu/xiao-sanatimu-da-kinashi-shi-g... (source: Zen
       <pubDate>Sat, 13 Dec 2025 02:00:20 +0000</pubDate>
     </item>
     <item>
+      <title>LLM学習における実験管理入門（W&amp;B）</title>
+      <link>https://zenn.dev/mkj/articles/52697fbd2ad133</link>
+      <description>こんにちは。松尾研究所シニアデータサイエンティストの太田です。
+先日自己紹介にて「松尾研究所のPMは裁量を持たせてもらえる」「しかしそれがむずい」というお話をさせていただきましたが、ここでは僕が最初に携わったプロジェクトであるLLMの事後学習プロジェクトにおいて、どのように実験を管理したかについて共有したいと思います。
+松尾研究所に入る前、画像解析モデルの構築はしていたものの基本はワンマンプレイであり、複数名のメンバーと共に（尚且つ未知の領域であるLLMの事後学習の）実験を走らせるというのは初の経験でした。この記事ではプロジェクトに揉まれる中でチームが培った方法論のいくつかを「ベストプラ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mkj/articles/52697fbd2ad133</guid>
+      <pubDate>Sat, 13 Dec 2025 15:00:06 +0000</pubDate>
+    </item>
+    <item>
       <title>クロックパズルを単因子論で解く</title>
       <link>https://zenn.dev/lotz/articles/93f73c17145819</link>
       <description>これは「Haskell Advent Calendar 2025」12日目の記事です。
@@ -118,6 +88,40 @@ https://speakerdeck.com/himaratsu/xiao-sanatimu-da-kinashi-shi-g... (source: Zen
 基礎から実践まで、実 (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/koichi_51/books/794ed5d92a03d6</guid>
       <pubDate>Wed, 10 Dec 2025 13:26:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>シフトレフトは施策ではない --- 品質の作り込みは最初から始まっている</title>
+      <link>https://zenn.dev/moneyforward/articles/0a9e517a02ddbd</link>
+      <description>1. はじめに
+!
+シフトレフトという言葉に感じていた違和感
+
+ここ数年、「シフトレフト」という言葉を耳にする機会が増えました。
+テスト、QA、セキュリティ、運用――
+何かにつけて「シフトレフトしよう」という言葉が使われます。
+一方で、正直なところずっと違和感もありました。
+話を聞いていると、人によって指しているものが違います。
+テストを早く書くことを指す人もいれば、
+QAを設計段階から巻き込むことだと言う人もいる。
+レビュー工程を前倒しすることだ、という説明を聞いたこともあります。
+どれも間違ってはいないと思うのですが、どれもしっくりこなかったです。
+なぜなら自分自身は、
+ウォータ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/moneyforward/articles/0a9e517a02ddbd</guid>
+      <pubDate>Fri, 12 Dec 2025 08:48:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐸 なぜ今、Agentic Workflowなのか - Graflowの設計思想</title>
+      <link>https://zenn.dev/myui/articles/64f31faaf1488c</link>
+      <description>🌟 はじめに: AIエージェント時代のワークフローと「理想と現実のギャップ」
+LLMの台頭により、システム開発の現場では「AIエージェント」をどのように業務や自社製品に組み込むかが喫緊の関心事となっています。
+一方で、いざプロダクション環境でエージェントを動かそうとすると、既存のツールと要件の間に 「理想と現実のギャップ」 を感じることはないでしょうか？
+
+「自律的に動くエージェントは魅力的だが、本番環境では挙動を制御したい」
+「SuperAgentの挙動が不安定なので挙動を把握したい」
+「多数のエージェントタスクの並列処理やHuman-in-the-Loop(HITL)、長時間走る... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/myui/articles/64f31faaf1488c</guid>
+      <pubDate>Fri, 12 Dec 2025 08:47:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

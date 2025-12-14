@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Dec 2025 21:36:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 06:35:43 +0000</lastBuildDate>
     <item>
       <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
       <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
@@ -74,7 +74,7 @@
     <item>
       <title>記事: InfoQ Javaトレンドレポート2025</title>
       <link>https://www.infoq.com/articles/java-trends-report-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>このレポートは、InfoQ Java編集チームと複数のJavaチャンピオンが、2025年のJavaおよびJVM分野における技術の採用状況と新たなトレンドについて現在どのように見ているかをまとめたものです。Java言語、KotlinやScalaなどの関連言語、Java仮想マシン（JVM）、そしてJavaベースのフレームワークとユーティリティに焦点を当てています。Michael Redlich、Erik Costlow、Karsten Silz、Trisha Gee、Marit van Dijk、Richard Fichtner、Bert Jan Schrijver著 (source: InfoQ)</description>
+      <description>このレポートは、InfoQ Java編集チームと複数のJavaチャンピオンが、2025年のJavaおよびJVM分野における技術の採用状況と新たなトレンドについて現在どのように見ているかをまとめたものです。Java言語、そしてKotlinやScalaといった関連言語、Java仮想マシン（JVM）、そしてJavaベースのフレームワークとユーティリティに焦点を当てています。Michael Redlich、Erik Costlow、Karsten Silz、Trisha Gee、Marit van Dijk、Richard Fichtner、Bert Jan Schrijver著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/articles/java-trends-report-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 11 Dec 2025 09:00:00 +0000</pubDate>
     </item>
