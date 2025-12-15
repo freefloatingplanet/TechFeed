@@ -7,11 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Dec 2025 06:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 06:41:24 +0000</lastBuildDate>
     <item>
       <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
       <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
-      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主要な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
+      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</guid>
       <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
     </item>

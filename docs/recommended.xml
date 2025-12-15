@@ -7,20 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Dec 2025 06:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 06:41:15 +0000</lastBuildDate>
     <item>
-      <title>ニコニコ公式の #ネット流行語100 で「ｴｯﾎｴｯﾎ」が選出されていたが、ちゃんと本家本元の写真を撮影したハニー・ヘーレさんにコメントを貰いに行っていて流石だった</title>
-      <link>https://togetter.com/li/2638486</link>
-      <description>ニコニコの「ネット流行語100」で「ｴｯﾎｴｯﾎ」が選ばれ、元ネタの写真を撮ったオランダ人写真家Hannie Heereが2021年に撮影したフクロウへの感謝を伝えるビデオメッセージを寄せた。ニコニコは本家に取材し、表彰式で紹介した。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2638486</guid>
-      <pubDate>Sat, 13 Dec 2025 10:35:58 +0000</pubDate>
+      <title>理想の Workflow Platform という“聖杯”に、n8n でついに手が届くかもしれない | メルカリエンジニアリング</title>
+      <link>https://engineering.mercari.com/blog/entry/20251211-cf3b67a5a7/</link>
+      <description>こんにちわ。AI Task Force の @ISSA です。 この記事は、Merpay &amp; Mercoin Advent Calendar 2025 の11日目の記事です。 概要 ワークフローや業務自動化のツールは以前から数多く存在していますが、 Zapier や Make のようなノーコード・ローコードツール、Workato のようにエンタープライズ寄りの iPaaS、そして MuleSo... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://engineering.mercari.com/blog/entry/20251211-cf3b67a5a7/</guid>
+      <pubDate>Sun, 14 Dec 2025 14:32:19 +0000</pubDate>
     </item>
     <item>
-      <title>「継続」は力なり - 継続を知り、Promiseの限界を超え、Effect Systemへ - エムスリーテックブログ</title>
-      <link>https://www.m3tech.blog/entry/2025/12/14/100000</link>
-      <description>本記事は、M3 Advent Calendar 2025 14日目の記事です。 はじめまして。エンジニアグループ、コンシューマーチームの松本と申します。 今回は、「継続 - Continuation」の本質を理解し、Promiseやasync/awaitでは解決できない課題を明らかにした上で、それを乗り越えるEffect Systemについて解説します。 「継続 - Conti... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/12/14/100000</guid>
-      <pubDate>Sun, 14 Dec 2025 01:29:11 +0000</pubDate>
+      <title>もしかして、無名企業のホームページってこうあるべきなんじゃないか！？ | Cone Inc. | 株式会社コーン</title>
+      <link>https://coneinc.jp/corpsiteren/</link>
+      <description>はじめまして、もしかしたら二度目まして。「小さなチームで大きな仕事をする最高の会社をつくる」をモットーに株式会社Coneを運営している佐藤です。 今回は、僕たちConeのコーポレートサイトがリニューアルしたということで、その背景というか考えたことを書いていこうと思います。 というのも、今回のリニューアルな... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://coneinc.jp/corpsiteren/</guid>
+      <pubDate>Mon, 15 Dec 2025 02:00:22 +0000</pubDate>
     </item>
     <item>
       <title>AIの力を借りて2人で10人分の仕事をする (2025年・個人開発)</title>
@@ -33,28 +33,6 @@ https://speakerdeck.com/himaratsu/xiao-sanatimu-da-kinashi-shi-g... (source: Zen
       <pubDate>Thu, 11 Dec 2025 10:48:10 +0000</pubDate>
     </item>
     <item>
-      <title>俺が一番好きなデザインパターン「Strategy Pattern」の話</title>
-      <link>https://zenn.dev/zozotech/articles/204d6bfe2e4314</link>
-      <description>!
-🎄 本記事は ZOZO Advent Calendar 2025 シリーズ 8 の 11 日目です。
-ぜひ他の記事もご覧ください。
-
-
- はじめに
-こんにちは。データシステム部・推薦基盤ブロックのかみけん（上國料）です。
-突然ですが、デザインパターンの中で個人的に一番好きなのは Strategy Pattern です。
-学生時代、研究で鬼のように使っていました。機械学習の研究では「複数のモデルを同じ条件で比較する」場面が頻繁にあって、モデル A とモデル B、さらに提案手法 C を差し替えながら実験を回すわけです。このとき、各モデルを Strategy として切り出しておくと、実験コ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/zozotech/articles/204d6bfe2e4314</guid>
-      <pubDate>Wed, 10 Dec 2025 15:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>キーエンス、グーグル、成城石井…「あの企業のすごさ」が面白いほど分かる8冊</title>
-      <link>https://bookplus.nikkei.com/atcl/column/051200507/120900004/</link>
-      <description>日経BOOKプラスに掲載されている記事、本、著者を任意のキーワードで検索することができます。 ※ISBNも検索にご利用いただけます。ISBNとは出版物固有の13桁の番号で、裏表紙に記載されています。本サイトでISBNを使って書籍を検索する際は、ハイフン（-）を省略し、13桁の数字のみを半角文字で入力してください。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://bookplus.nikkei.com/atcl/column/051200507/120900004/</guid>
-      <pubDate>Sat, 13 Dec 2025 02:00:20 +0000</pubDate>
-    </item>
-    <item>
       <title>LLM学習における実験管理入門（W&amp;B）</title>
       <link>https://zenn.dev/mkj/articles/52697fbd2ad133</link>
       <description>こんにちは。松尾研究所シニアデータサイエンティストの太田です。
@@ -64,51 +42,41 @@ https://speakerdeck.com/himaratsu/xiao-sanatimu-da-kinashi-shi-g... (source: Zen
       <pubDate>Sat, 13 Dec 2025 15:00:06 +0000</pubDate>
     </item>
     <item>
-      <title>クロックパズルを単因子論で解く</title>
-      <link>https://zenn.dev/lotz/articles/93f73c17145819</link>
-      <description>これは「Haskell Advent Calendar 2025」12日目の記事です。
-
-タイトルにクロックパズルと銘打ちましたが、このパズルの本当の名前を私は知りません（知ってたら教えて下さい）。パズルというのは例えば、以下のように
-
-左、中央、右にそれぞれ3時間と4時間と5時間を計る時計があり、時計の針は 1,2,3 を指しているとします。それぞれの押しボタンを押すと時計の針は以下のように動きます。
-
-押しボタン a を押すと、左の時計の針が2時間進み、中央の時計の針が1時間進む
-押しボタン b を押すと、中央の時計の針が2時間進み、右の時計の針が3時間進む
-押しボタン c を押すと... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lotz/articles/93f73c17145819</guid>
-      <pubDate>Thu, 11 Dec 2025 22:47:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flutter × Apple Watch 開発入門</title>
-      <link>https://zenn.dev/koichi_51/books/794ed5d92a03d6</link>
-      <description>本書は、Flutter 開発者が Apple Watch アプリを開発するための第一歩を踏み出すためのガイドです。Flutter とネイティブコードを組み合わせることで、既存の Flutter アプリに Apple Watch の機能を追加できます。
-
-本書では、Flutter と iOS 間の通信方法（Method Channel、Pigeon）と、iOS と Apple Watch 間の通信方法（WCSession）を学びます。基礎編では Method Channel と WCSession の基本を理解し、実際に動作するカウンターアプリを作成します。実践編では、型安全な実装方法として Pigeon を学び、WCSession の 4 つの通信方法（sendMessage、updateApplicationContext、transferUserInfo、transferFile）の違いと使い分けを理解します。各章には実際に動作するサンプルコードが含まれており、カウンターアプリ、設定アプリ、メッセージアプリ、画像転送アプリなど、実践的な例を題材にしています。
-
-基礎から実践まで、実 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/koichi_51/books/794ed5d92a03d6</guid>
-      <pubDate>Wed, 10 Dec 2025 13:26:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>シフトレフトは施策ではない --- 品質の作り込みは最初から始まっている</title>
-      <link>https://zenn.dev/moneyforward/articles/0a9e517a02ddbd</link>
+      <title>AgentOps入門　〜LLM時代の新たな運用パラダイム〜</title>
+      <link>https://zenn.dev/mkj/articles/438de5dc603084</link>
       <description>1. はじめに
-!
-シフトレフトという言葉に感じていた違和感
+こんにちは、松尾研究所でデータサイエンティストをしている力岡です。本記事は、松尾研究所 Advent Calendar 2025 の記事になります。
+GPT や Gemini などの LLM を活用した AI エージェントは急速に普及し、複数ツールを組み合わせた複雑なタスクも自律的に実行できるようになりました。その一方で、「なぜエージェントが失敗したのか分からない」「推論コストが想定以上に膨らむ」「複数エージェントを連携させる際のボトルネックが特定できない」といった、これまでにない運用上の課題が浮き彫りになっています。
+こうした高度なエージェントシステムは、従来の L... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mkj/articles/438de5dc603084</guid>
+      <pubDate>Sun, 14 Dec 2025 15:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI設計壁打ちに使える、小さな合意を積み重ねるプロトコルを作った</title>
+      <link>https://zenn.dev/erukiti/articles/2512-micro-commit-protocol</link>
+      <description>コーディングエージェント、特に頭のよいモデルを使っていると、大量の情報を流し込まれて脳が焼かれることありませんか？
+ちょっと参考資料を渡して「これを元に設計を開始したい」と言い出すと、
 
-ここ数年、「シフトレフト」という言葉を耳にする機会が増えました。
-テスト、QA、セキュリティ、運用――
-何かにつけて「シフトレフトしよう」という言葉が使われます。
-一方で、正直なところずっと違和感もありました。
-話を聞いていると、人によって指しているものが違います。
-テストを早く書くことを指す人もいれば、
-QAを設計段階から巻き込むことだと言う人もいる。
-レビュー工程を前倒しすることだ、という説明を聞いたこともあります。
-どれも間違ってはいないと思うのですが、どれもしっくりこなかったです。
-なぜなら自分自身は、
-ウォータ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/moneyforward/articles/0a9e517a02ddbd</guid>
-      <pubDate>Fri, 12 Dec 2025 08:48:08 +0000</pubDate>
+「五次元異空間ミョーミョンでピョマるだけですね」
+「ではラングリングの有効期間は2秒間でかまいませんか？」
+「これだから平成のひとは！」
+とかいきなり言われて「は？なに？？？」みたいになりがちです。
+
+ざくっと設計壁打ちしたかったから、参考資料（これも絶対のものではない）を渡しただけなのに、参考資料を絶対のものとしてずっと先まで全部「勝手に確定された」というのはかなりのストレスになります。しかも、それら... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/erukiti/articles/2512-micro-commit-protocol</guid>
+      <pubDate>Sun, 14 Dec 2025 02:01:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>「単一戦略」から「アンサンブル」へ。Strategy Factoryパターンで挑む、シャープレシオ向上の技術</title>
+      <link>https://zenn.dev/ageonsen/articles/ce692f471787d8</link>
+      <description>この記事はマケデコ Advent Calendar 2025 14日目の記事です。私が行なっている汎用的な戦略構築方法の一つをパターン化しました。当たり前の話なので大したエッジではないはずです。
+ちなみに私はシステム設計の素人なので間違っているところがあればご容赦願いたいです。
+
+ はじめに：聖杯を探すな、工場を作れ
+クオンツトレードやシステムトレードの世界において、私たちはしばしば「単一の最強ストラテジー（聖杯）」を探し求めがちです。しかし、市場のレジーム変化や過学習のリスクを考えると、一つのロジックに依存することは極めて危険です。
+レイ・ダリオが「聖杯（The Holy Grail ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ageonsen/articles/ce692f471787d8</guid>
+      <pubDate>Sun, 14 Dec 2025 08:57:54 +0000</pubDate>
     </item>
     <item>
       <title>🐸 なぜ今、Agentic Workflowなのか - Graflowの設計思想</title>
@@ -122,6 +90,34 @@ LLMの台頭により、システム開発の現場では「AIエージェント
 「多数のエージェントタスクの並列処理やHuman-in-the-Loop(HITL)、長時間走る... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/myui/articles/64f31faaf1488c</guid>
       <pubDate>Fri, 12 Dec 2025 08:47:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>NotebookLM のスライドを「編集できる資料」にするーGemini で YAML 化 → Google Slide 生成</title>
+      <link>https://zenn.dev/hirokita117/articles/24c42f407dc9b9</link>
+      <description>はじめに：NotebookLM の「スライド資料」、便利だけどかゆい所に手が届かない
+NotebookLM の「スライド資料」生成によって作成されるスライドがクオリティ高いと専らの話題のことと思います。
+
+雑なメモや社内ドキュメントから、いい感じの構成を勝手に組んでくれる
+それなりに見栄えするので、たたき台として強い
+Google Workspace を契約していれば、社内で共有も安心
+
+個人的に「スライドの構成能力がすごいな」と思うのが、入力が一文でもスライドになるところです。
+例えば、
+
+「カレーはシチューより美味しい」
+
+みたいな雑な一文でも、NotebookLM は「主張 →... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hirokita117/articles/24c42f407dc9b9</guid>
+      <pubDate>Sun, 14 Dec 2025 06:52:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>RAGを埋め込んだGeminiをコマンドで使う(Obsidian,NeoVim対応)</title>
+      <link>https://zenn.dev/takeshy/articles/8883e8387e0b35</link>
+      <description>はじめに
+最近GoogleでFile Searchという簡単にRAGが使えるAPIが提供されました。任意のStore名を指定して、ファイルをアップロードすれば、以降はGeminiのAPIでChatする際にtoolにそのStore名を指定するだけでRAGとして使ってくれるというお手軽さ。RAGにすることで、大量のデータをプロンプトに含ませることなく、「朝御飯」や「朝ごはん」などの言葉のゆらぎも考慮して結果に含んでくれるようになります。
+上記を実行できるragujuaryというコマンドを実装しました。各種プラットフォーム用のバイナリがダウンロードできます。日本語のマニュアルもありますが、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/takeshy/articles/8883e8387e0b35</guid>
+      <pubDate>Sat, 13 Dec 2025 07:10:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

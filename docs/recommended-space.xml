@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Dec 2025 06:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 06:41:18 +0000</lastBuildDate>
+    <item>
+      <title>NASAの火星探査機「MAVEN」信号が途絶える　今年で火星到着から11年</title>
+      <link>https://sorae.info/space/20251212-maven-signal-loss.html</link>
+      <description>NASA＝アメリカ航空宇宙局は2025年12月9日付で、火星探査機「MAVEN（メイブン）」からの信号が途絶えたことを明らかにしました。 火星の裏側へ回り込んだ後に信号を再捕捉できず NASAによると、MAVENが202… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20251212-maven-signal-loss.html</guid>
+      <pubDate>Fri, 12 Dec 2025 00:19:10 +0000</pubDate>
+    </item>
     <item>
       <title>ジェームズ・ウェッブ宇宙望遠鏡が観測した約131億年前の超新星</title>
       <link>https://sorae.info/astronomy/20251212-grb-250314a-jwst.html</link>
@@ -35,13 +42,6 @@
       <description>3人の宇宙飛行士を乗せた「Soyuz MS-27」（ソユーズ）宇宙船が12月9日、カザフスタンに着陸した。3人は国際宇宙ステーション（ISS）での8カ月間の滞在を終え、地球へと帰還した。 　Soyuzに搭乗していたのは […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new68137/</guid>
       <pubDate>Wed, 10 Dec 2025 07:53:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>スペースデータ、ISSと地球のデジタルツインを連携–「ひとつのデジタル空間」として再現</title>
-      <link>https://uchubiz.com/article/new68012/</link>
-      <description>スペースデータ（東京都港区）は12月3日、国際宇宙ステーション（ISS）のデジタルツインと、地球のデジタルツインのシームレスな連結を実現したと発表した。ユーザーは、地球上の特定地点から見たISSの軌道や可視範囲、またI […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new68012/</guid>
-      <pubDate>Thu, 04 Dec 2025 01:00:00 +0000</pubDate>
     </item>
     <item>
       <title>誰でも月で暮らせる時代へ–竹中工務店の「宇宙のくらしをつくる建築展」で考える宇宙のQOL</title>
