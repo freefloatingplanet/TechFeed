@@ -7,39 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Dec 2025 06:41:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 06:39:34 +0000</lastBuildDate>
     <item>
-      <title>理想の Workflow Platform という“聖杯”に、n8n でついに手が届くかもしれない | メルカリエンジニアリング</title>
-      <link>https://engineering.mercari.com/blog/entry/20251211-cf3b67a5a7/</link>
-      <description>こんにちわ。AI Task Force の @ISSA です。 この記事は、Merpay &amp; Mercoin Advent Calendar 2025 の11日目の記事です。 概要 ワークフローや業務自動化のツールは以前から数多く存在していますが、 Zapier や Make のようなノーコード・ローコードツール、Workato のようにエンタープライズ寄りの iPaaS、そして MuleSo... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://engineering.mercari.com/blog/entry/20251211-cf3b67a5a7/</guid>
-      <pubDate>Sun, 14 Dec 2025 14:32:19 +0000</pubDate>
+      <title>RISC-Vはなぜシンプルなのか？x86との比較で理解する設計思想 - iimon TECH BLOG</title>
+      <link>https://tech.iimon.co.jp/entry/2025/12/16</link>
+      <description>本記事はiimon Advent Calendar 2025 16日目の記事となります！ こんにちは、iimonでエンジニアをしている須藤です。 RISC-V（リスクファイブ）は「シンプルでエレガント」と言われますが、実感が湧いていなかったので、今回はx86との比較を通じて、シンプルさやその設計思想を体感していこうかと思います。 この記事で... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech.iimon.co.jp/entry/2025/12/16</guid>
+      <pubDate>Tue, 16 Dec 2025 02:51:09 +0000</pubDate>
     </item>
     <item>
-      <title>もしかして、無名企業のホームページってこうあるべきなんじゃないか！？ | Cone Inc. | 株式会社コーン</title>
-      <link>https://coneinc.jp/corpsiteren/</link>
-      <description>はじめまして、もしかしたら二度目まして。「小さなチームで大きな仕事をする最高の会社をつくる」をモットーに株式会社Coneを運営している佐藤です。 今回は、僕たちConeのコーポレートサイトがリニューアルしたということで、その背景というか考えたことを書いていこうと思います。 というのも、今回のリニューアルな... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://coneinc.jp/corpsiteren/</guid>
-      <pubDate>Mon, 15 Dec 2025 02:00:22 +0000</pubDate>
+      <title>健康保険証が身分証明証になれなかったのは何故か？（10年経過したのでマイナンバーカード更新しながら）</title>
+      <link>https://qiita.com/sapi_kawahara/items/1390368a2039554bb4f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>割符からマイナ保険証へ：身分証明の歴史と「合わせる」技術の進化
+その昔、 「割符（わりふ）」 というシステムがありました。それは、身分証明や契約履行のための、いわば「合鍵」のような仕組みです。 この古の知恵と、2025年に廃止（新規発行停止）となる健康保険証、そしてマイナ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/sapi_kawahara/items/1390368a2039554bb4f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sun, 14 Dec 2025 14:11:58 +0000</pubDate>
     </item>
     <item>
-      <title>AIの力を借りて2人で10人分の仕事をする (2025年・個人開発)</title>
-      <link>https://zenn.dev/himara2/articles/755a0a2c4678c0</link>
-      <description>Claude CodeやCodexの登場でコーディングは体感3倍くらい早くなりました。しかしプロダクト開発自体の速度アップは1.x倍くらいに留まっている気がします。
-その原因は「プロダクト作りはコーディング以外にも色々やることがあるから」だと思い、コーディング以外でのAI活用を今年色々試したのでまとめてみます。
-なお、このZennは「小さなチーム 大きな仕事」というタイトルで以前発表したものの再編版です。スライドの方が読みやすい方はそちらを参照してください:)
-https://speakerdeck.com/himaratsu/xiao-sanatimu-da-kinashi-shi-g... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/himara2/articles/755a0a2c4678c0</guid>
-      <pubDate>Thu, 11 Dec 2025 10:48:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLM学習における実験管理入門（W&amp;B）</title>
-      <link>https://zenn.dev/mkj/articles/52697fbd2ad133</link>
-      <description>こんにちは。松尾研究所シニアデータサイエンティストの太田です。
-先日自己紹介にて「松尾研究所のPMは裁量を持たせてもらえる」「しかしそれがむずい」というお話をさせていただきましたが、ここでは僕が最初に携わったプロジェクトであるLLMの事後学習プロジェクトにおいて、どのように実験を管理したかについて共有したいと思います。
-松尾研究所に入る前、画像解析モデルの構築はしていたものの基本はワンマンプレイであり、複数名のメンバーと共に（尚且つ未知の領域であるLLMの事後学習の）実験を走らせるというのは初の経験でした。この記事ではプロジェクトに揉まれる中でチームが培った方法論のいくつかを「ベストプラ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mkj/articles/52697fbd2ad133</guid>
-      <pubDate>Sat, 13 Dec 2025 15:00:06 +0000</pubDate>
+      <title>【アドベントカレンダー2025】ぐるなびが取り組む「設計からのオブザーバビリティ」 3つのプロダクトで実践した Observability Shift Left - ぐるなびをちょっと良くするエンジニアブログ</title>
+      <link>https://developers.gnavi.co.jp/entry/adventcalendar-251216-1/</link>
+      <description>はじめに こんにちは、ぐるなびの APM(Application Performance Monitoring)分科会 です。 私たちは、全社的なシステム品質の向上を目指し、組織横断でオブザーバビリティ（可観測性）の導入・活用を推進しています。 昨今、「オブザーバビリティ」という言葉は広く浸透しましたが、多くの現場では依然として「リリース... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://developers.gnavi.co.jp/entry/adventcalendar-251216-1/</guid>
+      <pubDate>Tue, 16 Dec 2025 03:03:54 +0000</pubDate>
     </item>
     <item>
       <title>AgentOps入門　〜LLM時代の新たな運用パラダイム〜</title>
@@ -52,44 +41,36 @@ GPT や Gemini などの LLM を活用した AI エージェントは急速に�
       <pubDate>Sun, 14 Dec 2025 15:00:04 +0000</pubDate>
     </item>
     <item>
-      <title>AI設計壁打ちに使える、小さな合意を積み重ねるプロトコルを作った</title>
-      <link>https://zenn.dev/erukiti/articles/2512-micro-commit-protocol</link>
-      <description>コーディングエージェント、特に頭のよいモデルを使っていると、大量の情報を流し込まれて脳が焼かれることありませんか？
-ちょっと参考資料を渡して「これを元に設計を開始したい」と言い出すと、
-
-「五次元異空間ミョーミョンでピョマるだけですね」
-「ではラングリングの有効期間は2秒間でかまいませんか？」
-「これだから平成のひとは！」
-とかいきなり言われて「は？なに？？？」みたいになりがちです。
-
-ざくっと設計壁打ちしたかったから、参考資料（これも絶対のものではない）を渡しただけなのに、参考資料を絶対のものとしてずっと先まで全部「勝手に確定された」というのはかなりのストレスになります。しかも、それら... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/erukiti/articles/2512-micro-commit-protocol</guid>
-      <pubDate>Sun, 14 Dec 2025 02:01:21 +0000</pubDate>
+      <title>副作用とロジックの分離。Railway Oriented Programming と Result 型で 「テストしやすい」バリデーションの設計 - カミナシ エンジニアブログ</title>
+      <link>https://kaminashi-developer.hatenablog.jp/entry/typescript-rop-result-validation-design</link>
+      <description>こんにちは、カミナシでソフトウェアエンジニアをしているShimmyです。 カミナシでは現場のDXを支援するB2B SaaSプロダクトを開発しています。そのうちの1つである「カミナシ レポート」の「ひな形編集」機能では、ユーザーがフォームテンプレートを自由に作成できます。 ひな形の保存前には約20種類のバリデーションを... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://kaminashi-developer.hatenablog.jp/entry/typescript-rop-result-validation-design</guid>
+      <pubDate>Mon, 15 Dec 2025 23:31:33 +0000</pubDate>
     </item>
     <item>
-      <title>「単一戦略」から「アンサンブル」へ。Strategy Factoryパターンで挑む、シャープレシオ向上の技術</title>
-      <link>https://zenn.dev/ageonsen/articles/ce692f471787d8</link>
-      <description>この記事はマケデコ Advent Calendar 2025 14日目の記事です。私が行なっている汎用的な戦略構築方法の一つをパターン化しました。当たり前の話なので大したエッジではないはずです。
-ちなみに私はシステム設計の素人なので間違っているところがあればご容赦願いたいです。
+      <title>Git Worktreeでブランチごとにデータベースも分離 —— Docker Volume スナップショットの活用</title>
+      <link>https://zenn.dev/layerx/articles/6539bf1842f1e0</link>
+      <description>LayerX Tech Advent Calendar 2025の15日目の記事です。
+バクラク事業部 ソフトウェアエンジニアの @upamune です。
+今日は、ローカル開発においての困りごとである、Git Worktreeとデータベースなどの永続化ミドルウェアの組み合わせ問題をいい感じにした話をします。
 
- はじめに：聖杯を探すな、工場を作れ
-クオンツトレードやシステムトレードの世界において、私たちはしばしば「単一の最強ストラテジー（聖杯）」を探し求めがちです。しかし、市場のレジーム変化や過学習のリスクを考えると、一つのロジックに依存することは極めて危険です。
-レイ・ダリオが「聖杯（The Holy Grail ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ageonsen/articles/ce692f471787d8</guid>
-      <pubDate>Sun, 14 Dec 2025 08:57:54 +0000</pubDate>
+
+ はじめに
+AI Coding Agentの登場で、複数の機能を並行して開発する機会が増えました。Agentに任せている間に別の作業を進めたり、レビュー待ちのブランチを放置して次のタスクに取りかかったり。こうした並行開発では、git worktreeが便利です。ブランチごとに独... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/layerx/articles/6539bf1842f1e0</guid>
+      <pubDate>Mon, 15 Dec 2025 08:39:27 +0000</pubDate>
     </item>
     <item>
-      <title>🐸 なぜ今、Agentic Workflowなのか - Graflowの設計思想</title>
-      <link>https://zenn.dev/myui/articles/64f31faaf1488c</link>
-      <description>🌟 はじめに: AIエージェント時代のワークフローと「理想と現実のギャップ」
-LLMの台頭により、システム開発の現場では「AIエージェント」をどのように業務や自社製品に組み込むかが喫緊の関心事となっています。
-一方で、いざプロダクション環境でエージェントを動かそうとすると、既存のツールと要件の間に 「理想と現実のギャップ」 を感じることはないでしょうか？
+      <title>z-index 地獄を避ける方法</title>
+      <link>https://zenn.dev/moshjp/articles/00064e77369cb8</link>
+      <description>この記事は MOSH Advent Calendar 2025 の15日目の記事です。
+MOSH には Page Builder というノーコードでランディングページを構築できるプロダクトがあります。この記事では Page Builder の開発を通じて私が学んだことの中から、多数の要素の重ね合わせ順序をシンプルに構成する方法を紹介します。[1]
 
-「自律的に動くエージェントは魅力的だが、本番環境では挙動を制御したい」
-「SuperAgentの挙動が不安定なので挙動を把握したい」
-「多数のエージェントタスクの並列処理やHuman-in-the-Loop(HITL)、長時間走る... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/myui/articles/64f31faaf1488c</guid>
-      <pubDate>Fri, 12 Dec 2025 08:47:40 +0000</pubDate>
+ヘッダと左右のサイドバーは固定して常に最前面に,プレビュー上にはハイライトや編集メニューを配置
+
+要素の重ね合わせはフロントエンド開発でしばしば厄介な問題を引き起こします。重ね合わせ順序を調整する手段として最もよく知られているのは恐らく z-... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/moshjp/articles/00064e77369cb8</guid>
+      <pubDate>Sun, 14 Dec 2025 22:00:01 +0000</pubDate>
     </item>
     <item>
       <title>NotebookLM のスライドを「編集できる資料」にするーGemini で YAML 化 → Google Slide 生成</title>
@@ -111,13 +92,38 @@ Google Workspace を契約していれば、社内で共有も安心
       <pubDate>Sun, 14 Dec 2025 06:52:06 +0000</pubDate>
     </item>
     <item>
-      <title>RAGを埋め込んだGeminiをコマンドで使う(Obsidian,NeoVim対応)</title>
-      <link>https://zenn.dev/takeshy/articles/8883e8387e0b35</link>
+      <title>AI-FriendlyなNotebookを作ろう。次世代のNotebook環境について</title>
+      <link>https://zenn.dev/mkj/articles/7c6f38e1b70594</link>
       <description>はじめに
-最近GoogleでFile Searchという簡単にRAGが使えるAPIが提供されました。任意のStore名を指定して、ファイルをアップロードすれば、以降はGeminiのAPIでChatする際にtoolにそのStore名を指定するだけでRAGとして使ってくれるというお手軽さ。RAGにすることで、大量のデータをプロンプトに含ませることなく、「朝御飯」や「朝ごはん」などの言葉のゆらぎも考慮して結果に含んでくれるようになります。
-上記を実行できるragujuaryというコマンドを実装しました。各種プラットフォーム用のバイナリがダウンロードできます。日本語のマニュアルもありますが、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/takeshy/articles/8883e8387e0b35</guid>
-      <pubDate>Sat, 13 Dec 2025 07:10:09 +0000</pubDate>
+株式会社松尾研究所のごうやです。
+CursorやClaude CodeなどのAIコーディングツールでJupyter Notebookを編集しようとして、こんな経験はありませんか？
+
+「セルを追加して」と指示したのに、JSONの構造がおかしくなる
+コードの一部を修正しただけなのに、大量の差分が発生する
+AIが提案したコードを適用すると、なぜかNotebookが壊れる
+
+Jupyter Notebook（.ipynbファイル）は内部的にJSON形式で保存されるため、AIツールとの相性が良くありません。本記事では、この問題を解決する.pyベースのNotebook環境「marimo... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mkj/articles/7c6f38e1b70594</guid>
+      <pubDate>Mon, 15 Dec 2025 15:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>たった1日で実務経験が積める神ゲー『農家はReplace()されました』</title>
+      <link>https://zenn.dev/oginoshikibu/articles/5a0c30f39c08f9</link>
+      <description>こちらの記事は「Medley（メドレー） - Qiita Advent Calendar 2025」の15日目の記事です🎄
+
+
+
+ 👋 はじめに
+株式会社メドレーに2025年4月に新卒入社した、おぎのしきぶと申します。
+突然ですがエンジニアの皆さん、休日は何をして過ごしていますか？
+毎日仕事でコーディングをしていて飽き飽きしていませんか？
+そんなとき、休日に行いたいことといえば、もちろん「業務に無関係なコーディング」ですよね。
+今日は、そういった気持ちで始めた「プログラミングをするゲーム」が思ったよりも業務だったというお話をします。
+
+ 🎮 ゲームの紹介
+今回紹介するのは「農家は Rep... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/oginoshikibu/articles/5a0c30f39c08f9</guid>
+      <pubDate>Sun, 14 Dec 2025 23:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

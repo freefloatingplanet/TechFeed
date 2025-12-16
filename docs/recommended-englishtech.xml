@@ -7,11 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Dec 2025 06:41:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 06:39:48 +0000</lastBuildDate>
     <item>
       <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
       <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
-      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
+      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主要な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</guid>
       <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
     </item>
@@ -21,6 +21,13 @@
       <description>わずか数行のコードで、SCIM、Okta、Python、WorkOS を使用してアプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</guid>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Javaニュースまとめ: Spring Tools 5、TornadoVM、Payara Platform、Hibernate ORM、Spock Framework</title>
+      <link>https://www.infoq.com/news/2025/12/java-news-roundup-dec08-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>今週の2025年12月8日版Javaラウンドアップでは、Spring Tools 5.0のリリース、Spring AIとSpring Shellのマイルストーンリリース、Payara Platformの2025年12月版、Hibernate ORMとSpock Frameworkのポイントリリース、そしてSpring Framework、Micronaut、Apache TomEE、Apache Tomcatのメンテナンスリリースといった注目のニュースを取り上げます。マイケル・レッドリッヒ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/java-news-roundup-dec08-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 15 Dec 2025 10:50:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOSの内部</title>
@@ -58,11 +65,11 @@
       <pubDate>Thu, 11 Dec 2025 11:31:00 +0000</pubDate>
     </item>
     <item>
-      <title>.NET 10 の ASP.NET Core: Blazor、API、OpenAPI の大幅な更新</title>
-      <link>https://www.infoq.com/news/2025/12/asp-net-core-10-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Microsoftは、先月の.NET 10リリースに付随するASP.NET Coreのメジャーアップデートの詳細を発表しました。既報の通り、このバージョンではBlazor、Minimal API、OpenAPI生成、認証、そしてフレームワーク全体のパフォーマンスにおいて大幅な改善が図られています。Almir Vuk著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/asp-net-core-10-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 11 Dec 2025 08:55:00 +0000</pubDate>
+      <title>MetaのReactコンパイラ1.0が自動メモ化を本番環境に導入</title>
+      <link>https://www.infoq.com/news/2025/12/react-compiler-meta/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Reactアプリの最適化を自動化する画期的なツール、React Compiler 1.0をご紹介します。パフォーマンスを最大12%向上させ、読み込み速度とインタラクション速度を2.5倍向上させます。主要フレームワークと互換性があり、Metaで実証済みのReact Compiler 1.0は、統合された診断機能によりビルドを簡素化します。コードの書き換えなしでシームレスな改善を実現し、開発者がよりスマートにコードを書くことができるようになります。Daniel Curtis著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/react-compiler-meta/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 15 Dec 2025 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントセキュリティのためのCerbos：機能、価格、代替品</title>
@@ -70,13 +77,6 @@
       <description>Cerbosは、開発者がアプリケーションにきめ細かなアクセス制御を実装するのに役立つオープンソースの認可エンジンです。Apache 2.0ライセンスの下でリリースされており、アプリケーションが特定のアクションを許可するかどうかを判断するための、一元化されたポリシー決定ポイントを提供します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</guid>
       <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>記事: InfoQ Javaトレンドレポート2025</title>
-      <link>https://www.infoq.com/articles/java-trends-report-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>このレポートは、InfoQ Java編集チームと複数のJavaチャンピオンが、2025年のJavaおよびJVM分野における技術の採用状況と新たなトレンドについて現在どのように見ているかをまとめたものです。Java言語、そしてKotlinやScalaといった関連言語、Java仮想マシン（JVM）、そしてJavaベースのフレームワークとユーティリティに焦点を当てています。Michael Redlich、Erik Costlow、Karsten Silz、Trisha Gee、Marit van Dijk、Richard Fichtner、Bert Jan Schrijver著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/java-trends-report-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 11 Dec 2025 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

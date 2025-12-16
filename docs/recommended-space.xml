@@ -7,35 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Dec 2025 06:41:18 +0000</lastBuildDate>
-    <item>
-      <title>NASAの火星探査機「MAVEN」信号が途絶える　今年で火星到着から11年</title>
-      <link>https://sorae.info/space/20251212-maven-signal-loss.html</link>
-      <description>NASA＝アメリカ航空宇宙局は2025年12月9日付で、火星探査機「MAVEN（メイブン）」からの信号が途絶えたことを明らかにしました。 火星の裏側へ回り込んだ後に信号を再捕捉できず NASAによると、MAVENが202… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20251212-maven-signal-loss.html</guid>
-      <pubDate>Fri, 12 Dec 2025 00:19:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>ジェームズ・ウェッブ宇宙望遠鏡が観測した約131億年前の超新星</title>
-      <link>https://sorae.info/astronomy/20251212-grb-250314a-jwst.html</link>
-      <description>こちらは、ジェームズ・ウェッブ宇宙望遠鏡（JWST）が観測した、おとめ座の一角。 中央の渦巻銀河から右上の位置にある、小さな赤い光が拡大表示されています。 これは、「GRB 250314A」と名付けられたガンマ線バースト… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20251212-grb-250314a-jwst.html</guid>
-      <pubDate>Fri, 12 Dec 2025 11:59:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>銀河をつなぐ壮大なガスの“橋”　ウェッブとハッブルが観測した「NGC 4485」＆「NGC 4490」</title>
-      <link>https://sorae.info/astronomy/20251207-ngc-4485-4490-jwst-hst.html</link>
-      <description>こちらは、ジェームズ・ウェッブ宇宙望遠鏡（JWST）とハッブル宇宙望遠鏡（HST）が観測した銀河「NGC 4485」と「NGC 4490」。 りょうけん座の方向、約2400万光年先にあります。画像の左上にあるのがNGC … (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20251207-ngc-4485-4490-jwst-hst.html</guid>
-      <pubDate>Sun, 07 Dec 2025 01:40:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>かみのけ座で渦巻く“貧血”銀河「NGC 4921」　ハッブル宇宙望遠鏡が観測</title>
-      <link>https://sorae.info/astronomy/20251211-ngc-4921.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した渦巻銀河「NGC 4921」。 かみのけ座の方向、約3億光年先にあります。 モノクロの観測データをそのまま使用した画像……ではなく、作成時には青・緑・赤を使って着色されてい… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20251211-ngc-4921.html</guid>
-      <pubDate>Thu, 11 Dec 2025 11:06:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Dec 2025 06:39:41 +0000</lastBuildDate>
     <item>
       <title>ロシアのソユーズ宇宙船、3人の宇宙飛行士と地球に帰還–ISSで8カ月滞在</title>
       <link>https://uchubiz.com/article/new68137/</link>
@@ -65,11 +37,39 @@
       <pubDate>Mon, 08 Dec 2025 11:48:52 +0000</pubDate>
     </item>
     <item>
+      <title>Tellusが法人向け新サービス「Tellus Pro」を発表！ データの取得・処理・共有をクラウドで一元化</title>
+      <link>https://sorabatake.jp/43368/</link>
+      <description>2025年11月13日、Tellusが法人向け「Tellus Pro」を発表。データの取得から共有まで一元管理し、国内の衛星データのハブとしての機能が搭載された本サービスについて紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/43368/</guid>
+      <pubDate>Mon, 15 Dec 2025 22:59:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>JAXAとANA、「飛行機の窓」から大気成分を観測–衛星リモセン活用して温室効果ガス削減へ</title>
+      <link>https://uchubiz.com/article/new68258/</link>
+      <description>宇宙航空研究開発機構（JAXA）とANAホールディングスは12月16日、衛星リモートセンシング技術を活用して、定期旅客便での大気成分などを自動観測する実証を世界で初めて開始した。衛星と航空機のデータを組み合わせることで […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new68258/</guid>
+      <pubDate>Tue, 16 Dec 2025 03:51:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>「持つべきものを持てた」JAXA瀧口太理事に訊く、30年以上技術力を磨いた日本の地球観測衛星の歴史と展望</title>
+      <link>https://sorabatake.jp/43696/</link>
+      <description>日本の地球観測衛星や実用衛星はどのように進化をとげ、今、国際社会でどのような位置づけにあるのか。JAXAで長年、衛星開発利用を牽引してきた瀧口太理事にじっくり伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/43696/</guid>
+      <pubDate>Mon, 15 Dec 2025 23:00:58 +0000</pubDate>
+    </item>
+    <item>
       <title>見かけによらない距離感　ハッブル宇宙望遠鏡が観測した銀河「NGC 4319」と「Mrk 205」</title>
       <link>https://sorae.info/astronomy/20251213-ngc-4319-mrk-205.html</link>
       <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した銀河「NGC 4319」。 りゅう座の方向、約7600万光年先にあります。 明るい中心部分の周りで、1本の渦巻腕（渦状腕）がぐるりと大きく包み込んでいるような姿をしています… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20251213-ngc-4319-mrk-205.html</guid>
       <pubDate>Sat, 13 Dec 2025 08:14:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>流出した大気が形成する“二重の尾”　太陽系外惑星WASP-121 bをウェッブ宇宙望遠鏡が観測</title>
+      <link>https://sorae.info/astronomy/20251215-wasp-121-b.html</link>
+      <description>こちらは、最新の研究成果にもとづいた、太陽系外惑星「WASP-121 b」の想像図です。 巨大ガス惑星の前後に帯状の雲のような尾が形成され、恒星を取り囲むように広がっている様子が描かれています。 WASP-121 bは、… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20251215-wasp-121-b.html</guid>
+      <pubDate>Mon, 15 Dec 2025 12:04:10 +0000</pubDate>
     </item>
     <item>
       <title>太陽系の移動速度は従来の推定より3倍以上速い？　宇宙モデルに影響する発見</title>
