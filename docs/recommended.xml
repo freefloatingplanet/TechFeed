@@ -7,45 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Dec 2025 06:39:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 06:39:18 +0000</lastBuildDate>
     <item>
-      <title>RISC-Vはなぜシンプルなのか？x86との比較で理解する設計思想 - iimon TECH BLOG</title>
-      <link>https://tech.iimon.co.jp/entry/2025/12/16</link>
-      <description>本記事はiimon Advent Calendar 2025 16日目の記事となります！ こんにちは、iimonでエンジニアをしている須藤です。 RISC-V（リスクファイブ）は「シンプルでエレガント」と言われますが、実感が湧いていなかったので、今回はx86との比較を通じて、シンプルさやその設計思想を体感していこうかと思います。 この記事で... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tech.iimon.co.jp/entry/2025/12/16</guid>
-      <pubDate>Tue, 16 Dec 2025 02:51:09 +0000</pubDate>
+      <title>【アドベントカレンダー2025】DuckDBで変わる繁忙期対策のログ分析とサイジング - 1時間の1%に潜む36秒のリスク- - ぐるなびをちょっと良くするエンジニアブログ</title>
+      <link>https://developers.gnavi.co.jp/entry/adventcalendar-251217-1/</link>
+      <description>はじめに こんにちは。Reservation Service Devグループの佐藤です。ネット予約に関する開発全般に関わっています。 本記事では、繁忙期前のサイジングや新機能リリース時の負荷予測で利用しているログ分析について、従来利用していたSQLiteからDuckDBへ移行し、分析フローを改善した事例を紹介します。また、パーセンタ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://developers.gnavi.co.jp/entry/adventcalendar-251217-1/</guid>
+      <pubDate>Wed, 17 Dec 2025 03:20:30 +0000</pubDate>
     </item>
     <item>
-      <title>健康保険証が身分証明証になれなかったのは何故か？（10年経過したのでマイナンバーカード更新しながら）</title>
-      <link>https://qiita.com/sapi_kawahara/items/1390368a2039554bb4f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>割符からマイナ保険証へ：身分証明の歴史と「合わせる」技術の進化
-その昔、 「割符（わりふ）」 というシステムがありました。それは、身分証明や契約履行のための、いわば「合鍵」のような仕組みです。 この古の知恵と、2025年に廃止（新規発行停止）となる健康保険証、そしてマイナ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/sapi_kawahara/items/1390368a2039554bb4f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sun, 14 Dec 2025 14:11:58 +0000</pubDate>
+      <title>RAGで厄介なExcel文書を意味構造JSON化するOSSライブラリを作りました</title>
+      <link>https://zenn.dev/harumikun/articles/42e9cd55ab5960</link>
+      <description>はじめに こんちは！製造業で社内SE的なのやってる人です。 最近RAG分野にハマっていますが、Excel文書が厄介者すぎるということに最近気が付きました。ZennでもRAGにおいて、このExcel文書をいかに扱うかの記事は定期的に見かけます。 先人のエンジニアの方々が様々な有効打を提示してくれていますが、私も別のアプロー... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/harumikun/articles/42e9cd55ab5960</guid>
+      <pubDate>Mon, 15 Dec 2025 13:02:31 +0000</pubDate>
     </item>
     <item>
-      <title>【アドベントカレンダー2025】ぐるなびが取り組む「設計からのオブザーバビリティ」 3つのプロダクトで実践した Observability Shift Left - ぐるなびをちょっと良くするエンジニアブログ</title>
-      <link>https://developers.gnavi.co.jp/entry/adventcalendar-251216-1/</link>
-      <description>はじめに こんにちは、ぐるなびの APM(Application Performance Monitoring)分科会 です。 私たちは、全社的なシステム品質の向上を目指し、組織横断でオブザーバビリティ（可観測性）の導入・活用を推進しています。 昨今、「オブザーバビリティ」という言葉は広く浸透しましたが、多くの現場では依然として「リリース... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://developers.gnavi.co.jp/entry/adventcalendar-251216-1/</guid>
-      <pubDate>Tue, 16 Dec 2025 03:03:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>AgentOps入門　〜LLM時代の新たな運用パラダイム〜</title>
-      <link>https://zenn.dev/mkj/articles/438de5dc603084</link>
-      <description>1. はじめに
-こんにちは、松尾研究所でデータサイエンティストをしている力岡です。本記事は、松尾研究所 Advent Calendar 2025 の記事になります。
-GPT や Gemini などの LLM を活用した AI エージェントは急速に普及し、複数ツールを組み合わせた複雑なタスクも自律的に実行できるようになりました。その一方で、「なぜエージェントが失敗したのか分からない」「推論コストが想定以上に膨らむ」「複数エージェントを連携させる際のボトルネックが特定できない」といった、これまでにない運用上の課題が浮き彫りになっています。
-こうした高度なエージェントシステムは、従来の L... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mkj/articles/438de5dc603084</guid>
-      <pubDate>Sun, 14 Dec 2025 15:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>副作用とロジックの分離。Railway Oriented Programming と Result 型で 「テストしやすい」バリデーションの設計 - カミナシ エンジニアブログ</title>
-      <link>https://kaminashi-developer.hatenablog.jp/entry/typescript-rop-result-validation-design</link>
-      <description>こんにちは、カミナシでソフトウェアエンジニアをしているShimmyです。 カミナシでは現場のDXを支援するB2B SaaSプロダクトを開発しています。そのうちの1つである「カミナシ レポート」の「ひな形編集」機能では、ユーザーがフォームテンプレートを自由に作成できます。 ひな形の保存前には約20種類のバリデーションを... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://kaminashi-developer.hatenablog.jp/entry/typescript-rop-result-validation-design</guid>
-      <pubDate>Mon, 15 Dec 2025 23:31:33 +0000</pubDate>
+      <title>中国発の詐欺広告に甘いMeta、数千億円規模の収入優先か　ザッカーバーグCEO関与の疑いも</title>
+      <link>https://www.itmedia.co.jp/news/articles/2512/16/news119.html</link>
+      <description>米Metaは2024年、中国の広告主に関する不愉快な結論を認めざるを得なくなった。これらの広告主は全世界で、Metaが運営するFacebook、Instagram、WhatsAppの利用者をだましていたのだ。 中国政府は国民がMetaのソーシャルメディアを利用するのを禁じているが、中国企業が外国の消費者向け広告に使うのは容認している。結... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2512/16/news119.html</guid>
+      <pubDate>Tue, 16 Dec 2025 09:00:31 +0000</pubDate>
     </item>
     <item>
       <title>Git Worktreeでブランチごとにデータベースも分離 —— Docker Volume スナップショットの活用</title>
@@ -59,6 +41,27 @@ GPT や Gemini などの LLM を活用した AI エージェントは急速に�
 AI Coding Agentの登場で、複数の機能を並行して開発する機会が増えました。Agentに任せている間に別の作業を進めたり、レビュー待ちのブランチを放置して次のタスクに取りかかったり。こうした並行開発では、git worktreeが便利です。ブランチごとに独... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/layerx/articles/6539bf1842f1e0</guid>
       <pubDate>Mon, 15 Dec 2025 08:39:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>リモートワークだと、チームワークを維持するのは難しいのか？</title>
+      <link>https://zenn.dev/jugyo/articles/8eb0bac50b4f27</link>
+      <description>リモートワークだと、チームワークを維持するのは難しいのか？
+結論から言うと、難しい。
+ただしそれは、リモートワークという働き方そのものが問題だからではない。
+リモートワークでは、チームを支えているコンテキストが維持されにくいからだ。
+
+ リモートワークでは、コンテキストが自然に共有されない
+対面で仕事をしていると、多くのことが説明されないまま共有されている。
+
+いま何が重要なのか
+誰がどこで詰まっていそうか
+この判断はどれくらい急ぐべきなのか
+完璧さより速度が求められている局面なのか
+
+こうした情報の多くは、会話のトーン、間、視線、雑談、場の空気といった非言語的な要素に支えられている。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/jugyo/articles/8eb0bac50b4f27</guid>
+      <pubDate>Mon, 15 Dec 2025 14:52:28 +0000</pubDate>
     </item>
     <item>
       <title>z-index 地獄を避ける方法</title>
@@ -92,6 +95,34 @@ Google Workspace を契約していれば、社内で共有も安心
       <pubDate>Sun, 14 Dec 2025 06:52:06 +0000</pubDate>
     </item>
     <item>
+      <title>RAGの「リランキング」を10倍速くする「MixLM」</title>
+      <link>https://zenn.dev/knowledgesense/articles/4eb785fd0e9a2b</link>
+      <description>本記事では、RAGの応答速度を速くするための「MixLM」という手法について、ざっくり理解します。
+株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。
+
+ この記事は何
+この記事は、RAGで必須の手法「リランキング」の速度を飛躍的に高める「MixLM」の論文[1]について、日本語で簡単にまとめたものです。
+https://arxiv.org/abs/2512.07846
+今回も「そもそもRAGとは？」については、知っている前提で進みます。確認する場合は、こちらの記事もご参考下さい。
+
+ 本題
+
+ ざっく... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/4eb785fd0e9a2b</guid>
+      <pubDate>Tue, 16 Dec 2025 00:01:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>コードレビューの業務Tierを上げる</title>
+      <link>https://zenn.dev/ubie_dev/articles/6c660ad9fc5dcc</link>
+      <description>はじめに
+こんにちは。Ubie のテクノロジープラットフォーム部で Web エンジニアをやっている highwide といいます。Ubie には今年の 10 月に入社しました。
+これは Ubie Tech Advent Calendar 2025 の 16 日目の記事です。
+さて、いきなり前職の話をするのですが、最後に所属していたチームで「最初は面食らったものの、最終的にめちゃくちゃ良かったなと思うチームの Working Agreement」として 「コードレビューの優先度をできるだけ高める」 というものがありました。
+当初は社内ドキュメントでこの慣習を紹介しようと思ったのですが、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/6c660ad9fc5dcc</guid>
+      <pubDate>Tue, 16 Dec 2025 00:30:05 +0000</pubDate>
+    </item>
+    <item>
       <title>AI-FriendlyなNotebookを作ろう。次世代のNotebook環境について</title>
       <link>https://zenn.dev/mkj/articles/7c6f38e1b70594</link>
       <description>はじめに
@@ -105,25 +136,6 @@ AIが提案したコードを適用すると、なぜかNotebookが壊れる
 Jupyter Notebook（.ipynbファイル）は内部的にJSON形式で保存されるため、AIツールとの相性が良くありません。本記事では、この問題を解決する.pyベースのNotebook環境「marimo... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/mkj/articles/7c6f38e1b70594</guid>
       <pubDate>Mon, 15 Dec 2025 15:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>たった1日で実務経験が積める神ゲー『農家はReplace()されました』</title>
-      <link>https://zenn.dev/oginoshikibu/articles/5a0c30f39c08f9</link>
-      <description>こちらの記事は「Medley（メドレー） - Qiita Advent Calendar 2025」の15日目の記事です🎄
-
-
-
- 👋 はじめに
-株式会社メドレーに2025年4月に新卒入社した、おぎのしきぶと申します。
-突然ですがエンジニアの皆さん、休日は何をして過ごしていますか？
-毎日仕事でコーディングをしていて飽き飽きしていませんか？
-そんなとき、休日に行いたいことといえば、もちろん「業務に無関係なコーディング」ですよね。
-今日は、そういった気持ちで始めた「プログラミングをするゲーム」が思ったよりも業務だったというお話をします。
-
- 🎮 ゲームの紹介
-今回紹介するのは「農家は Rep... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/oginoshikibu/articles/5a0c30f39c08f9</guid>
-      <pubDate>Sun, 14 Dec 2025 23:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

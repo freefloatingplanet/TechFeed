@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Dec 2025 06:39:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 06:39:23 +0000</lastBuildDate>
     <item>
-      <title>MindDrive: オンライン強化学習による自動運転のための視覚・言語・行動モデル</title>
-      <link>https://arxiv.org/abs/2512.13636v1</link>
-      <description>自動運転における現在の視覚・言語・行動（VLA）パラダイムは、主に模倣学習（IL）に依存していますが、これは分布シフトや因果関係の混乱などの固有の課題をもたらします。オンライン強化学習は、試行錯誤学習を通じてこれらの問題に対処する有望な方法を提供します。しかし、自動運転のVLAモデルにオンライン強化学習を適用すると、連続行動空間における非効率的な探索が妨げとなります。この制限を克服するために、我々は2つの異なるLoRAパラメータセットを持つ大規模言語モデル（LLM）で構成されるVLAフレームワークであるMindDriveを提案します。1つのLLMは、シナリオ推論と運転意思決定のための意思決定エキスパートとして機能し、もう1つは言語的決定を実行可能な軌道に動的にマッピングするアクションエキスパートとして機能します。軌道レベルの報酬を推論空間にフィードバックすることで、MindDriveは、連続行動空間で直接動作するのではなく、離散的な言語的運転決定の有限セットにわたって試行錯誤学習を可能にします。このアプローチは、複雑なシナリオにおける最適な意思決定、人間のような運転行動、そしてオンライ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2512.13636v1</guid>
-      <pubDate>Mon, 15 Dec 2025 18:31:32 +0000</pubDate>
+      <title>社会経済指標、スマート交通システム、都市シミュレーターを活用し、ZEV導入を加速し、VMTを削減する</title>
+      <link>https://arxiv.org/abs/2512.11870v2</link>
+      <description>世界的に、道路交通は温室効果ガス（GHG）排出量の15％を占め、PM2.5による早期死亡者数は推定38万5千人に上ります。都市はIPCCの目標達成に重要な役割を果たし、世界のエネルギー関連のGHG排出量の75％を排出しています。テキサス州ヒューストンでは、道路交通は気候行動計画（CAP）の基準排出量の48％を占めています。2050年までにネットゼロを達成するために、CAPは2014年の基準値から70％の排出量削減を目標としており、そのうち30％は再生可能エネルギーで相殺します。ヒューストンは人口密度が低く自動車に依存しており、道路排出量の89％は乗用車と小型トラックによるもので、公共交通機関の利用は限られているため、この目標は困難です。社会経済格差はゼロエミッション車（ZEV）の導入をさらに制限しています。戦略では、交通機関の改善と都市設計を通じてZEVのアクセスを拡大し、車両走行距離（VMT）を20％削減することに重点を置いています。本稿では、路上排出量のベースラインを確立し、ZEVの普及を促進しVMTを削減するための社会経済指標と高度道路交通システム（ITS）を活用した政策を評価す (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.11870v2</guid>
+      <pubDate>Fri, 05 Dec 2025 22:15:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

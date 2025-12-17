@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Dec 2025 06:39:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 06:39:22 +0000</lastBuildDate>
+    <item>
+      <title>ジェームズ・ウェッブ宇宙望遠鏡が観測した約131億年前の超新星</title>
+      <link>https://sorae.info/astronomy/20251212-grb-250314a-jwst.html</link>
+      <description>こちらは、ジェームズ・ウェッブ宇宙望遠鏡（JWST）が観測した、おとめ座の一角。 中央の渦巻銀河から右上の位置にある、小さな赤い光が拡大表示されています。 これは、「GRB 250314A」と名付けられたガンマ線バースト… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20251212-grb-250314a-jwst.html</guid>
+      <pubDate>Fri, 12 Dec 2025 11:59:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>かみのけ座で渦巻く“貧血”銀河「NGC 4921」　ハッブル宇宙望遠鏡が観測</title>
+      <link>https://sorae.info/astronomy/20251211-ngc-4921.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した渦巻銀河「NGC 4921」。 かみのけ座の方向、約3億光年先にあります。 モノクロの観測データをそのまま使用した画像……ではなく、作成時には青・緑・赤を使って着色されてい… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20251211-ngc-4921.html</guid>
+      <pubDate>Thu, 11 Dec 2025 11:06:25 +0000</pubDate>
+    </item>
     <item>
       <title>ロシアのソユーズ宇宙船、3人の宇宙飛行士と地球に帰還–ISSで8カ月滞在</title>
       <link>https://uchubiz.com/article/new68137/</link>
@@ -21,20 +35,6 @@
       <description>数十年後、月は宇宙飛行士やビリオネアだけではなく、一般市民も気軽に訪れ、生活する場所になるかもしれない。竹中工務店による、宇宙で生活するための技術や取り組みを紹介する「宇宙のくらしをつくる建築展｜Lunar Archi […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new68183/</guid>
       <pubDate>Fri, 12 Dec 2025 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>スウェーデン宇宙公社、社名を「SSC Space」に変更　2026年初めにグローバルブランドに統一</title>
-      <link>https://sorae.info/space/20251208-ssc-space.html</link>
-      <description>スウェーデン宇宙公社＝Swedish Space Corporation（SSC）は2025年12月8日、2026年初めに社名を「SSC Space」に変更すると発表しました。社名変更にあわせて、グループ全体を1つのグロ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20251208-ssc-space.html</guid>
-      <pubDate>Mon, 08 Dec 2025 08:19:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>火星・南極域の地下に湖は存在しない？　NASA探査機による最新の観測成果</title>
-      <link>https://sorae.info/astronomy/20251208-mars-mro.html</link>
-      <description>火星の南極域の地下に湖が存在するかもしれない。そんな研究成果が2018年に発表されて話題になりました。 湖ということは液体の水が存在することになるわけですから、この成果は地球外生命探査の観点からも注目され、検証した研究の… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20251208-mars-mro.html</guid>
-      <pubDate>Mon, 08 Dec 2025 11:48:52 +0000</pubDate>
     </item>
     <item>
       <title>Tellusが法人向け新サービス「Tellus Pro」を発表！ データの取得・処理・共有をクラウドで一元化</title>
