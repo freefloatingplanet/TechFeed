@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Dec 2025 06:39:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 06:39:13 +0000</lastBuildDate>
     <item>
-      <title>Javaニュースまとめ: Spring Tools 5、TornadoVM、Payara Platform、Hibernate ORM、Spock Framework</title>
-      <link>https://www.infoq.com/news/2025/12/java-news-roundup-dec08-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>今週の2025年12月8日版Javaラウンドアップでは、Spring Tools 5.0のリリース、Spring AIとSpring Shellのマイルストーンリリース、Payara Platformの2025年12月版、Hibernate ORMとSpock Frameworkのポイントリリース、そしてSpring Framework、Micronaut、Apache TomEE、Apache Tomcatのメンテナンスリリースといった注目のニュースを取り上げます。マイケル・レッドリッヒ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/java-news-roundup-dec08-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 15 Dec 2025 10:50:00 +0000</pubDate>
+      <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
+      <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
+      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主要な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</guid>
+      <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Okta から Python アプリにユーザーを同期する方法</title>
+      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</link>
+      <description>わずか数行のコードで、SCIM、Okta、Python、WorkOS を使用してアプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</guid>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>記事: 信頼できる生産性: AI加速開発のセキュリティ確保</title>
@@ -30,13 +37,6 @@
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Magika 1.0: Rust と AI による、よりスマートで高速なファイル検出</title>
-      <link>https://www.infoq.com/news/2025/12/magika-rust-file-type-detector/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Googleは、オープンソースのファイル形式検出システム「Magika」を大幅に書き換えたバージョン1.0をリリースしました。新バージョンはAIを活用し、より幅広いファイル形式に対応し、最高の速度とセキュリティを実現するためにRustで構築されています。Sergio De Simone著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/magika-rust-file-type-detector/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 12 Dec 2025 21:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
       <link>https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</link>
       <description>MCPナイト、ホリデースペシャルは歴史的な瞬間を刻みました。AnthropicがMCPをLinux Foundationに寄贈し、Agentic AI Foundationが設立されました。Cloudflare、Supabase、Datadog、Microsoft、Googleによるデモも行われました。 (source: WorkOS Blog)</description>
@@ -51,11 +51,11 @@
       <pubDate>Tue, 16 Dec 2025 11:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>MetaのReactコンパイラ1.0が自動メモ化を本番環境に導入</title>
-      <link>https://www.infoq.com/news/2025/12/react-compiler-meta/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Reactアプリの最適化を自動化する画期的なツール、React Compiler 1.0をご紹介します。パフォーマンスを最大12%向上させ、読み込み速度とインタラクション速度を2.5倍向上させます。主要フレームワークと互換性があり、Metaで実証済みのReact Compiler 1.0は、統合された診断機能によりビルドを簡素化します。コードの書き換えなしでシームレスな改善を実現し、開発者がよりスマートにコードを書くことができるようになります。Daniel Curtis著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/react-compiler-meta/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 15 Dec 2025 09:00:00 +0000</pubDate>
+      <title>プレゼンテーション: クラウドと分散アプリケーションのスケーリング: 米国No.1の銀行ポータルであるchase.comからの教訓と戦略</title>
+      <link>https://www.infoq.com/presentations/chase-scale-cloud-distributed/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ドゥライ・アラサン氏が、Chase.comを6,700万人以上のアクティブユーザーへとスケールアップするために採用したアーキテクチャ戦略について説明します。マルチリージョン分離による高い耐障害性の実現、エッジコンピューティングによるレイテンシの71%削減、そして自動化された「インフラストラクチャ再舗装」によるセキュリティドリフトの排除について解説します。自己修復型可観測性とエンジニアリングファーストの文化構築に関する重要な教訓を共有します。ドゥライ・アラサン著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/chase-scale-cloud-distributed/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 17 Dec 2025 13:40:00 +0000</pubDate>
     </item>
     <item>
       <title>AWS Transform Custom が技術的負債を解消</title>
@@ -76,7 +76,7 @@
       <link>https://www.infoq.com/news/2025/12/tornadovm-20-gpu-llm/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>TornadoVMプロジェクトは最近バージョン2.0に到達しました。これは、Java向けの異機種ハードウェアランタイムの提供を目指すオープンソースプロジェクトにとって大きなマイルストーンです。
 
-このプロジェクトは、マルチコアCPU、GPU、FPGA上でJavaプログラムを自動的に高速化します。このリリースは、JVM上でLLMソリューションを開発しているチームにとって特に興味深いものとなるでしょう。ベン・エバンス著 (source: InfoQ)</description>
+このプロジェクトは、マルチコアCPU、GPU、FPGA上でJavaプログラムを自動的に高速化します。このリリースは、JVM上でLLMソリューションを開発しているチームにとって特に興味深いものとなるでしょう。ベン・エバンス (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2025/12/tornadovm-20-gpu-llm/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 17 Dec 2025 06:00:00 +0000</pubDate>
     </item>

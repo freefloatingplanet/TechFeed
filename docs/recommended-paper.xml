@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Dec 2025 06:39:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 06:39:08 +0000</lastBuildDate>
     <item>
-      <title>社会経済指標、スマート交通システム、都市シミュレーターを活用し、ZEV導入を加速し、VMTを削減する</title>
-      <link>https://arxiv.org/abs/2512.11870v2</link>
-      <description>世界的に、道路交通は温室効果ガス（GHG）排出量の15％を占め、PM2.5による早期死亡者数は推定38万5千人に上ります。都市はIPCCの目標達成に重要な役割を果たし、世界のエネルギー関連のGHG排出量の75％を排出しています。テキサス州ヒューストンでは、道路交通は気候行動計画（CAP）の基準排出量の48％を占めています。2050年までにネットゼロを達成するために、CAPは2014年の基準値から70％の排出量削減を目標としており、そのうち30％は再生可能エネルギーで相殺します。ヒューストンは人口密度が低く自動車に依存しており、道路排出量の89％は乗用車と小型トラックによるもので、公共交通機関の利用は限られているため、この目標は困難です。社会経済格差はゼロエミッション車（ZEV）の導入をさらに制限しています。戦略では、交通機関の改善と都市設計を通じてZEVのアクセスを拡大し、車両走行距離（VMT）を20％削減することに重点を置いています。本稿では、路上排出量のベースラインを確立し、ZEVの普及を促進しVMTを削減するための社会経済指標と高度道路交通システム（ITS）を活用した政策を評価す (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2512.11870v2</guid>
-      <pubDate>Fri, 05 Dec 2025 22:15:24 +0000</pubDate>
+      <title>KA-CRNNを用いたリチウムイオンカソードの連続SOC依存熱分解速度論の学習</title>
+      <link>https://arxiv.org/abs/2512.15628v1</link>
+      <description>リチウムイオン電池の熱暴走は、充電状態（SOC）に大きく影響されます。既存の予測モデルは通常、最大SOCまたはいくつかの離散的なSOCレベルにおけるスカラー反応パラメータを推定するため、過酷な条件下での発熱挙動を支配する連続的なSOC依存性を捉えることができません。この問題を解決するため、我々はKolmogorov-Arnold化学反応ニューラルネットワーク（KA-CRNN）フレームワークを適用し、連続的かつ現実的なSOC依存性のカソード-電解質間の発熱相互作用を学習します。物理符号化されたKA-CRNNを適用し、示差走査熱量測定（DSC）データからカソード-電解質分解のSOC依存性反応パラメータを直接学習します。機構情報に基づいた反応経路がネットワークアーキテクチャに組み込まれているため、活性化エネルギー、指数関数前因子、エンタルピー、および関連パラメータを連続的かつ完全に解釈可能なSOC関数として表現できます。このフレームワークはNCA、NM、NMAカソードにおいて実証されており、あらゆるSOCにおけるDSC発熱特性を再現するモデルを生成し、SOC依存の酸素放出および相転移メカニズ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.15628v1</guid>
+      <pubDate>Wed, 17 Dec 2025 17:39:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

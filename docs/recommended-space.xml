@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Dec 2025 06:39:22 +0000</lastBuildDate>
-    <item>
-      <title>ジェームズ・ウェッブ宇宙望遠鏡が観測した約131億年前の超新星</title>
-      <link>https://sorae.info/astronomy/20251212-grb-250314a-jwst.html</link>
-      <description>こちらは、ジェームズ・ウェッブ宇宙望遠鏡（JWST）が観測した、おとめ座の一角。 中央の渦巻銀河から右上の位置にある、小さな赤い光が拡大表示されています。 これは、「GRB 250314A」と名付けられたガンマ線バースト… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20251212-grb-250314a-jwst.html</guid>
-      <pubDate>Fri, 12 Dec 2025 11:59:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>かみのけ座で渦巻く“貧血”銀河「NGC 4921」　ハッブル宇宙望遠鏡が観測</title>
-      <link>https://sorae.info/astronomy/20251211-ngc-4921.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した渦巻銀河「NGC 4921」。 かみのけ座の方向、約3億光年先にあります。 モノクロの観測データをそのまま使用した画像……ではなく、作成時には青・緑・赤を使って着色されてい… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20251211-ngc-4921.html</guid>
-      <pubDate>Thu, 11 Dec 2025 11:06:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Dec 2025 06:39:07 +0000</lastBuildDate>
     <item>
       <title>ロシアのソユーズ宇宙船、3人の宇宙飛行士と地球に帰還–ISSで8カ月滞在</title>
       <link>https://uchubiz.com/article/new68137/</link>
@@ -35,6 +21,13 @@
       <description>数十年後、月は宇宙飛行士やビリオネアだけではなく、一般市民も気軽に訪れ、生活する場所になるかもしれない。竹中工務店による、宇宙で生活するための技術や取り組みを紹介する「宇宙のくらしをつくる建築展｜Lunar Archi […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new68183/</guid>
       <pubDate>Fri, 12 Dec 2025 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>米上院、NASA長官にアイザックマン氏を承認–気になる「アテナ計画」の中身</title>
+      <link>https://uchubiz.com/article/new68322/</link>
+      <description>米連邦議会上院は米国時間12月17日、実業家であり、宇宙を飛行した経験があるJared Isaacman（ジャレッド・アイザックマン）氏を新しい米航空宇宙局（NASA）の長官として承認した。 　米決済処理会社Shift […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new68322/</guid>
+      <pubDate>Thu, 18 Dec 2025 05:53:08 +0000</pubDate>
     </item>
     <item>
       <title>Tellusが法人向け新サービス「Tellus Pro」を発表！ データの取得・処理・共有をクラウドで一元化</title>
@@ -56,6 +49,13 @@
       <description>日本の地球観測衛星や実用衛星はどのように進化をとげ、今、国際社会でどのような位置づけにあるのか。JAXAで長年、衛星開発利用を牽引してきた瀧口太理事にじっくり伺いました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/43696/</guid>
       <pubDate>Mon, 15 Dec 2025 23:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>アリアンスペースが「アリアン6」で測位システム「ガリレオ」の衛星2機を打ち上げ</title>
+      <link>https://sorae.info/ssn/20251218-va266.html</link>
+      <description>ヨーロッパ企業Arianespace（アリアンスペース）は日本時間2025年12月17日に「Ariane 6（アリアン6）」ロケットの打ち上げを実施しました。搭載されていた衛星は無事に軌道に投入されたことを、Ariane… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20251218-va266.html</guid>
+      <pubDate>Thu, 18 Dec 2025 01:25:54 +0000</pubDate>
     </item>
     <item>
       <title>見かけによらない距離感　ハッブル宇宙望遠鏡が観測した銀河「NGC 4319」と「Mrk 205」</title>

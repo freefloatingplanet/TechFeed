@@ -7,27 +7,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Dec 2025 06:39:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 06:39:02 +0000</lastBuildDate>
     <item>
-      <title>【アドベントカレンダー2025】DuckDBで変わる繁忙期対策のログ分析とサイジング - 1時間の1%に潜む36秒のリスク- - ぐるなびをちょっと良くするエンジニアブログ</title>
-      <link>https://developers.gnavi.co.jp/entry/adventcalendar-251217-1/</link>
-      <description>はじめに こんにちは。Reservation Service Devグループの佐藤です。ネット予約に関する開発全般に関わっています。 本記事では、繁忙期前のサイジングや新機能リリース時の負荷予測で利用しているログ分析について、従来利用していたSQLiteからDuckDBへ移行し、分析フローを改善した事例を紹介します。また、パーセンタ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://developers.gnavi.co.jp/entry/adventcalendar-251217-1/</guid>
-      <pubDate>Wed, 17 Dec 2025 03:20:30 +0000</pubDate>
+      <title>Nix Flake+direnvでプロジェクトのパッケージ管理</title>
+      <link>https://zenn.dev/watagame/articles/miselike-nix</link>
+      <description>突然なんですけど、「mise」人気ですよね。ArchLinuxを利用していた頃は自分も使っていました。
+ただ、NixOSを利用するようになってからは、全部Flake+direnvでええやんとなってしまったのでmiseを使わなくなりました。
+利点としては10万を越える豊富なパッケージが利用できることと、高い自由度があると思います。
+まあ「nixわけわかめだからtomlとかで設定できるmiseが良いんじゃ」って言われそうなんですけど、nix言語は関数の生えたJSONらしいのでそんな難しくないです。
+...冗談はともかく、今はノリと勢いとAIでなんとかなるので雰囲気を掴んでその良さを知ってもら... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/watagame/articles/miselike-nix</guid>
+      <pubDate>Wed, 17 Dec 2025 10:06:35 +0000</pubDate>
     </item>
     <item>
-      <title>RAGで厄介なExcel文書を意味構造JSON化するOSSライブラリを作りました</title>
-      <link>https://zenn.dev/harumikun/articles/42e9cd55ab5960</link>
-      <description>はじめに こんちは！製造業で社内SE的なのやってる人です。 最近RAG分野にハマっていますが、Excel文書が厄介者すぎるということに最近気が付きました。ZennでもRAGにおいて、このExcel文書をいかに扱うかの記事は定期的に見かけます。 先人のエンジニアの方々が様々な有効打を提示してくれていますが、私も別のアプロー... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/harumikun/articles/42e9cd55ab5960</guid>
-      <pubDate>Mon, 15 Dec 2025 13:02:31 +0000</pubDate>
+      <title>ブラウザだけで高速かつ無限に文章・音声・画像のAIを使う事ができるGemini Nanoを試してみる</title>
+      <link>https://zenn.dev/finatext/articles/236a27fa78817d</link>
+      <description>この記事は、Finatext Advent Calendar 2025 の17日目の記事です。
+こんにちは、Finatextでフロントエンド開発に携わっているあんどです。
+先日参加したイベント 冬のJavaScript祭り の菅原のびすけさんのセッションにて知って個人的に発見のあった、Google Chrome の組み込みAIであるGemini Nanoについて紹介させていただければと思います。
+
+ Gemini Nanoとは
+Googleの提供モデルであるGeminiシリーズの中で、掲題の通りブラウザやスマートフォンなどの端末上で直接動作する最小クラスのオンデバイスAIモデルです。
+
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/finatext/articles/236a27fa78817d</guid>
+      <pubDate>Tue, 16 Dec 2025 15:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>中国発の詐欺広告に甘いMeta、数千億円規模の収入優先か　ザッカーバーグCEO関与の疑いも</title>
-      <link>https://www.itmedia.co.jp/news/articles/2512/16/news119.html</link>
-      <description>米Metaは2024年、中国の広告主に関する不愉快な結論を認めざるを得なくなった。これらの広告主は全世界で、Metaが運営するFacebook、Instagram、WhatsAppの利用者をだましていたのだ。 中国政府は国民がMetaのソーシャルメディアを利用するのを禁じているが、中国企業が外国の消費者向け広告に使うのは容認している。結... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2512/16/news119.html</guid>
-      <pubDate>Tue, 16 Dec 2025 09:00:31 +0000</pubDate>
+      <title>値上げを提案された家賃の交渉とその結果 - 紙屋研究所</title>
+      <link>https://kamiyakenkyujo.hatenablog.com/entry/2025/12/17/095906</link>
+      <description>ぼくは賃貸マンションに住んでいるが、大家（企業A）から7月に家賃値上げの提案をされ、ずっと交渉をしてきて、このたび家賃を据え置きのまま契約更新することになった。 企業Aからの提案は、今の家賃を30%値上げするというものだった。 弁護士にも相談したが、特別なことはしていない。 ぼくら夫婦がやったのは、ほぼた... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://kamiyakenkyujo.hatenablog.com/entry/2025/12/17/095906</guid>
+      <pubDate>Wed, 17 Dec 2025 05:48:36 +0000</pubDate>
     </item>
     <item>
       <title>Git Worktreeでブランチごとにデータベースも分離 —— Docker Volume スナップショットの活用</title>
@@ -64,16 +75,18 @@ AI Coding Agentの登場で、複数の機能を並行して開発する機会�
       <pubDate>Mon, 15 Dec 2025 14:52:28 +0000</pubDate>
     </item>
     <item>
-      <title>z-index 地獄を避ける方法</title>
-      <link>https://zenn.dev/moshjp/articles/00064e77369cb8</link>
-      <description>この記事は MOSH Advent Calendar 2025 の15日目の記事です。
-MOSH には Page Builder というノーコードでランディングページを構築できるプロダクトがあります。この記事では Page Builder の開発を通じて私が学んだことの中から、多数の要素の重ね合わせ順序をシンプルに構成する方法を紹介します。[1]
+      <title>言語化されない組織の「やりづらい」をラップバトルで開示させる</title>
+      <link>https://zenn.dev/loglass/articles/b217268b26de96</link>
+      <description>!
+この記事は 株式会社ログラス Productチーム Advent Calendar 2025 のシリーズ 1、17日目 の記事です。
 
-ヘッダと左右のサイドバーは固定して常に最前面に,プレビュー上にはハイライトや編集メニューを配置
 
-要素の重ね合わせはフロントエンド開発でしばしば厄介な問題を引き起こします。重ね合わせ順序を調整する手段として最もよく知られているのは恐らく z-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/moshjp/articles/00064e77369cb8</guid>
-      <pubDate>Sun, 14 Dec 2025 22:00:01 +0000</pubDate>
+ はじめに：組織の「対話疲れ」を打破する、ラップバトルという奇策
+組織の対話や心理的安全性について、ミーティングやアンケートを行っているのになかなか意見が出ない一方で、チームや組織の雰囲気はなんとなく良くないということはないでしょうか？
+私のチームも、スタートアップ特有の急激な組織変更や権限の移り変わりによって、「仕事のやりやすさ」に対するネガティブな回答が増加している状況に直面していました。
+さらに問題だったのは、このネガティブな状況に対して、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/loglass/articles/b217268b26de96</guid>
+      <pubDate>Tue, 16 Dec 2025 23:44:58 +0000</pubDate>
     </item>
     <item>
       <title>NotebookLM のスライドを「編集できる資料」にするーGemini で YAML 化 → Google Slide 生成</title>
@@ -95,23 +108,6 @@ Google Workspace を契約していれば、社内で共有も安心
       <pubDate>Sun, 14 Dec 2025 06:52:06 +0000</pubDate>
     </item>
     <item>
-      <title>RAGの「リランキング」を10倍速くする「MixLM」</title>
-      <link>https://zenn.dev/knowledgesense/articles/4eb785fd0e9a2b</link>
-      <description>本記事では、RAGの応答速度を速くするための「MixLM」という手法について、ざっくり理解します。
-株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。
-
- この記事は何
-この記事は、RAGで必須の手法「リランキング」の速度を飛躍的に高める「MixLM」の論文[1]について、日本語で簡単にまとめたものです。
-https://arxiv.org/abs/2512.07846
-今回も「そもそもRAGとは？」については、知っている前提で進みます。確認する場合は、こちらの記事もご参考下さい。
-
- 本題
-
- ざっく... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/4eb785fd0e9a2b</guid>
-      <pubDate>Tue, 16 Dec 2025 00:01:01 +0000</pubDate>
-    </item>
-    <item>
       <title>コードレビューの業務Tierを上げる</title>
       <link>https://zenn.dev/ubie_dev/articles/6c660ad9fc5dcc</link>
       <description>はじめに
@@ -123,19 +119,22 @@ https://arxiv.org/abs/2512.07846
       <pubDate>Tue, 16 Dec 2025 00:30:05 +0000</pubDate>
     </item>
     <item>
-      <title>AI-FriendlyなNotebookを作ろう。次世代のNotebook環境について</title>
-      <link>https://zenn.dev/mkj/articles/7c6f38e1b70594</link>
+      <title>ダンジョン生成に一様分布を求めるのは間違っているだろうか</title>
+      <link>https://zenn.dev/folio_sec/articles/06c4271b96bfb5</link>
+      <description>これは FOLIO Advent Calendar 2025 17日目の記事です。
+
+誰でも一度は魔王になって、勇者のくせになまいきだと、侵入者を撃退するためのダンジョン作りに興じたことがあるでしょう。ダンジョン（長いので以降は迷路と呼ぶ）は古くからある定番コンテンツなだけあって、自動的な生成アルゴリズムにも棒倒し法や穴掘り法など様々なものがあります。しかしアルゴリズムによっては長い直線だらけの通路ができてしまったり、反対に行き止まりが多くなってしまったりと生成される迷路に偏りが生じることも知られています。そこで本稿ではちょっと視点を加えて、特定のパターンに偏りがない完全に公平な迷路生成... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/folio_sec/articles/06c4271b96bfb5</guid>
+      <pubDate>Tue, 16 Dec 2025 23:29:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pydantic の居場所は “境界” がちょうどいい</title>
+      <link>https://zenn.dev/recustomer/articles/bcd19cdfe4572f</link>
       <description>はじめに
-株式会社松尾研究所のごうやです。
-CursorやClaude CodeなどのAIコーディングツールでJupyter Notebookを編集しようとして、こんな経験はありませんか？
-
-「セルを追加して」と指示したのに、JSONの構造がおかしくなる
-コードの一部を修正しただけなのに、大量の差分が発生する
-AIが提案したコードを適用すると、なぜかNotebookが壊れる
-
-Jupyter Notebook（.ipynbファイル）は内部的にJSON形式で保存されるため、AIツールとの相性が良くありません。本記事では、この問題を解決する.pyベースのNotebook環境「marimo... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mkj/articles/7c6f38e1b70594</guid>
-      <pubDate>Mon, 15 Dec 2025 15:00:02 +0000</pubDate>
+Pydantic はとても便利である。だがこれを過信してドメインモデルの中心に据えると、責務の境界が曖昧になり、設計はたいてい溶ける。戦略なく溶け固まった巨大なコードベースは、ソフトウェアの迅速かつ安全な進化を困難にするだけでなく、LLM-based な AI の推論の安定性も低下させる。
+LLM-based な AI エージェントは、構造が論理的に明示されたコード（型・境界・不変条件）ほど扱いやすい傾向がある。型定義には datetime と書いてあるのに、実態はバリデータで文字列を無理やり変換して受け入れるような「嘘」があると、コードだけを読む AI は挙動を正しく予測... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/recustomer/articles/bcd19cdfe4572f</guid>
+      <pubDate>Tue, 16 Dec 2025 16:06:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
