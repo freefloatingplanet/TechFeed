@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Dec 2025 06:39:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 06:37:45 +0000</lastBuildDate>
+    <item>
+      <title>間違って電源ぶち抜いてしまい、学園祭の全配信システムを止めた話</title>
+      <link>https://zenn.dev/sohosai/articles/9ea1ec0e844232</link>
+      <description>この記事は本番環境などでやらかしちゃった人 - Qiita Advent Calendar 2025の17日目の記事です。
+
+こんにちは、間瀬bb （@bb_mase） です。
+今回は、学園祭の本番1日目である前夜祭の生配信中に自分の足でコアスイッチの電源をぶち抜いてしまい、全配信システムを約10分間止めた話をします。
+
+ はじめに
+私は筑波大学の学園祭「雙峰祭」の実行委員会で、インフラ担当長を務めていました。3人のチームで、光ファイバーネットワークの構築から生配信システムの運用まで、学園祭全体を支えるネットワークインフラを担当しています。
+そんなインフラ担当長という立場ながら、一番ヤバ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sohosai/articles/9ea1ec0e844232</guid>
+      <pubDate>Wed, 17 Dec 2025 13:06:02 +0000</pubDate>
+    </item>
     <item>
       <title>Nix Flake+direnvでプロジェクトのパッケージ管理</title>
       <link>https://zenn.dev/watagame/articles/miselike-nix</link>
@@ -20,103 +34,75 @@
       <pubDate>Wed, 17 Dec 2025 10:06:35 +0000</pubDate>
     </item>
     <item>
-      <title>ブラウザだけで高速かつ無限に文章・音声・画像のAIを使う事ができるGemini Nanoを試してみる</title>
-      <link>https://zenn.dev/finatext/articles/236a27fa78817d</link>
-      <description>この記事は、Finatext Advent Calendar 2025 の17日目の記事です。
-こんにちは、Finatextでフロントエンド開発に携わっているあんどです。
-先日参加したイベント 冬のJavaScript祭り の菅原のびすけさんのセッションにて知って個人的に発見のあった、Google Chrome の組み込みAIであるGemini Nanoについて紹介させていただければと思います。
+      <title>(理論物理学において)数値計算はなぜ必要なのか</title>
+      <link>https://zenn.dev/akio_tomiya/articles/863160c1054b45</link>
+      <description>物理学の目的の1つは、少ない原理と少ないデータから未来を予測することです、これは「予言」としばしば呼ばれます。
+物理学において、たとえ原理を微分方程式として書けても、初期条件から将来の状態を計算できなければ予測・予言にはなりません。つまり単に「法則を立てる(式を立てる)」だけでなく、「条件を与えて解いて量を出す」ところまで行って初めて物理学として意味がある、ということも出来ると思います(すこし言いすぎですが)。
 
- Gemini Nanoとは
-Googleの提供モデルであるGeminiシリーズの中で、掲題の通りブラウザやスマートフォンなどの端末上で直接動作する最小クラスのオンデバイスAIモデルです。
-
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/finatext/articles/236a27fa78817d</guid>
-      <pubDate>Tue, 16 Dec 2025 15:00:10 +0000</pubDate>
+ 1. 解析解はすばらしい
+たとえば調和振動子は解析解があり、運動を式として表すことができます。自由落下や斜方投射も、空気抵抗を無視すれば同じく手で解くことができます。ラプラス... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/akio_tomiya/articles/863160c1054b45</guid>
+      <pubDate>Wed, 17 Dec 2025 09:39:14 +0000</pubDate>
     </item>
     <item>
-      <title>値上げを提案された家賃の交渉とその結果 - 紙屋研究所</title>
-      <link>https://kamiyakenkyujo.hatenablog.com/entry/2025/12/17/095906</link>
-      <description>ぼくは賃貸マンションに住んでいるが、大家（企業A）から7月に家賃値上げの提案をされ、ずっと交渉をしてきて、このたび家賃を据え置きのまま契約更新することになった。 企業Aからの提案は、今の家賃を30%値上げするというものだった。 弁護士にも相談したが、特別なことはしていない。 ぼくら夫婦がやったのは、ほぼた... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://kamiyakenkyujo.hatenablog.com/entry/2025/12/17/095906</guid>
-      <pubDate>Wed, 17 Dec 2025 05:48:36 +0000</pubDate>
+      <title>大学数学未履修が青色になった方法</title>
+      <link>https://qiita.com/manuo/items/239fe9528fbb9f86c14f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>😊はじめに
+先日のABC436で無事入青することが出来ました。
+まさか自分の名前の色が青色になる日が来るとは思っておらず、AtCoderの右上を見てはニヤニヤしています。
+この記事では入青するために必要だったと印象に残っている事柄を紹介したいと思います。
+
+🕰️自分が競... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/manuo/items/239fe9528fbb9f86c14f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 17 Dec 2025 22:00:16 +0000</pubDate>
     </item>
     <item>
-      <title>Git Worktreeでブランチごとにデータベースも分離 —— Docker Volume スナップショットの活用</title>
-      <link>https://zenn.dev/layerx/articles/6539bf1842f1e0</link>
-      <description>LayerX Tech Advent Calendar 2025の15日目の記事です。
-バクラク事業部 ソフトウェアエンジニアの @upamune です。
-今日は、ローカル開発においての困りごとである、Git Worktreeとデータベースなどの永続化ミドルウェアの組み合わせ問題をいい感じにした話をします。
+      <title>分散サービスのトランザクションでアンチパターンを設計してしまった話　〜とその改善〜</title>
+      <link>https://zenn.dev/finatext/articles/481416ea9afa5c</link>
+      <description>この記事は、Finatext Advent Calendar 2025 の 16 日目の記事です。
+
+ はじめに
+分散サービスでアプリケーションを構築する際、「分散トランザクションの壁」にぶつかることは避けられません。単一データベースで保証されていた ACID 特性（特に原子性）が、複数サービスにまたがると簡単には実現できないからです。
+業務で複数の分散サービスとデータベースを更新する処理を実装する際、「DB の ACID 特性を最大限活用すれば、シンプルに実装できるのでは？」 という考えから設計を始めました。しかし、その結果として典型的なアンチパターンに陥り、深刻なバグを埋め込む設計に... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/finatext/articles/481416ea9afa5c</guid>
+      <pubDate>Tue, 16 Dec 2025 00:43:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>技術書を「覚える」のをやめたら、使えるようになった</title>
+      <link>https://zenn.dev/recustomer/articles/caff27849cb91c</link>
+      <description>!
+この記事はRecustomer Advent Calendar 2025 18日目の記事です。
 
 
  はじめに
-AI Coding Agentの登場で、複数の機能を並行して開発する機会が増えました。Agentに任せている間に別の作業を進めたり、レビュー待ちのブランチを放置して次のタスクに取りかかったり。こうした並行開発では、git worktreeが便利です。ブランチごとに独... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/layerx/articles/6539bf1842f1e0</guid>
-      <pubDate>Mon, 15 Dec 2025 08:39:27 +0000</pubDate>
+RecustomerでエンジニアをしているRyoheiです。
+私は今年の4月に新卒として入社し、それから2週間に1冊のペースで技術書を読んできました。
+最初は弊社CTOとの日常会話からこの試みをはじめ、12月まで走り切りました。
+ただ、最初の頃は技術書なんてまともに読んだことがなく、正直かなり苦戦していました。
+
+読み終えること自体が難しい
+分厚い本は手に取る気にもならない
+「覚えよう」「メモしよう」と意気込むと時間がかかりすぎる
+読んだ気がするけど、しばらくするとどこで読... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/recustomer/articles/caff27849cb91c</guid>
+      <pubDate>Thu, 18 Dec 2025 00:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>リモートワークだと、チームワークを維持するのは難しいのか？</title>
-      <link>https://zenn.dev/jugyo/articles/8eb0bac50b4f27</link>
-      <description>リモートワークだと、チームワークを維持するのは難しいのか？
-結論から言うと、難しい。
-ただしそれは、リモートワークという働き方そのものが問題だからではない。
-リモートワークでは、チームを支えているコンテキストが維持されにくいからだ。
-
- リモートワークでは、コンテキストが自然に共有されない
-対面で仕事をしていると、多くのことが説明されないまま共有されている。
-
-いま何が重要なのか
-誰がどこで詰まっていそうか
-この判断はどれくらい急ぐべきなのか
-完璧さより速度が求められている局面なのか
-
-こうした情報の多くは、会話のトーン、間、視線、雑談、場の空気といった非言語的な要素に支えられている。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/jugyo/articles/8eb0bac50b4f27</guid>
-      <pubDate>Mon, 15 Dec 2025 14:52:28 +0000</pubDate>
+      <title>【海外記事紹介】「ジュニア開発者をAIで置き換えるのは最悪のアイデア」とAWSのCEOが語り大きな話題に</title>
+      <link>https://techfeed.io/entries/694471083837533862f722f4?from=rss</link>
+      <description>12月18日、海外スタートアップFinalRoundが「AWS CEO Explains 3 Reasons AI Can’t Replace Junior Devs」と題したブログ記事を公開し、話題を呼んでいる。この記事では、「AIがジュニア開発者（若手エンジニア）を置き換える」という短絡的な発想に対して、AWS CEOのMatt Garman氏が挙げた3つの理由を軸に、企業の人員戦略・育成・AI活用の現実について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/694471083837533862f722f4?from=rss</guid>
+      <pubDate>Thu, 18 Dec 2025 21:24:24 +0000</pubDate>
     </item>
     <item>
-      <title>言語化されない組織の「やりづらい」をラップバトルで開示させる</title>
-      <link>https://zenn.dev/loglass/articles/b217268b26de96</link>
-      <description>!
-この記事は 株式会社ログラス Productチーム Advent Calendar 2025 のシリーズ 1、17日目 の記事です。
-
-
- はじめに：組織の「対話疲れ」を打破する、ラップバトルという奇策
-組織の対話や心理的安全性について、ミーティングやアンケートを行っているのになかなか意見が出ない一方で、チームや組織の雰囲気はなんとなく良くないということはないでしょうか？
-私のチームも、スタートアップ特有の急激な組織変更や権限の移り変わりによって、「仕事のやりやすさ」に対するネガティブな回答が増加している状況に直面していました。
-さらに問題だったのは、このネガティブな状況に対して、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/loglass/articles/b217268b26de96</guid>
-      <pubDate>Tue, 16 Dec 2025 23:44:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>NotebookLM のスライドを「編集できる資料」にするーGemini で YAML 化 → Google Slide 生成</title>
-      <link>https://zenn.dev/hirokita117/articles/24c42f407dc9b9</link>
-      <description>はじめに：NotebookLM の「スライド資料」、便利だけどかゆい所に手が届かない
-NotebookLM の「スライド資料」生成によって作成されるスライドがクオリティ高いと専らの話題のことと思います。
-
-雑なメモや社内ドキュメントから、いい感じの構成を勝手に組んでくれる
-それなりに見栄えするので、たたき台として強い
-Google Workspace を契約していれば、社内で共有も安心
-
-個人的に「スライドの構成能力がすごいな」と思うのが、入力が一文でもスライドになるところです。
-例えば、
-
-「カレーはシチューより美味しい」
-
-みたいな雑な一文でも、NotebookLM は「主張 →... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hirokita117/articles/24c42f407dc9b9</guid>
-      <pubDate>Sun, 14 Dec 2025 06:52:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>コードレビューの業務Tierを上げる</title>
-      <link>https://zenn.dev/ubie_dev/articles/6c660ad9fc5dcc</link>
-      <description>はじめに
-こんにちは。Ubie のテクノロジープラットフォーム部で Web エンジニアをやっている highwide といいます。Ubie には今年の 10 月に入社しました。
-これは Ubie Tech Advent Calendar 2025 の 16 日目の記事です。
-さて、いきなり前職の話をするのですが、最後に所属していたチームで「最初は面食らったものの、最終的にめちゃくちゃ良かったなと思うチームの Working Agreement」として 「コードレビューの優先度をできるだけ高める」 というものがありました。
-当初は社内ドキュメントでこの慣習を紹介しようと思ったのですが、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/6c660ad9fc5dcc</guid>
-      <pubDate>Tue, 16 Dec 2025 00:30:05 +0000</pubDate>
+      <title>RSC/Next.jsは信頼できないかもだけど、それで良いのかもしれない</title>
+      <link>https://zenn.dev/naofumik/articles/467a875928baef</link>
+      <description>背景
+先日、RSCに重大な脆弱性が見つかりました。詳細については多くの記事が書かれていますので割愛しますが、Next.jsをただデプロイしているだけでもやられる重大さです。
+RSCの設計自体も問題視されています。当初からセキュリティの議論が多く、今回の件とは直接関係がないものの、サーバとクライアントの境界が曖昧な点などが指摘されていました。この状況を見ていると最悪の場合、RSC/Next.jsのセキュリティを十分に高めることが現実的に不可能となる可能性も残されており、今後注視する必要があります。
+でも本当にNext.jsってセキュリティが重要なのだろうか？ サーバはセキュアでなければ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/naofumik/articles/467a875928baef</guid>
+      <pubDate>Wed, 17 Dec 2025 12:38:43 +0000</pubDate>
     </item>
     <item>
       <title>ダンジョン生成に一様分布を求めるのは間違っているだろうか</title>

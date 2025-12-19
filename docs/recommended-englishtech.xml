@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Dec 2025 06:39:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 06:37:56 +0000</lastBuildDate>
     <item>
       <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
       <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
       <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主要な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</guid>
       <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>InfoQ、社会技術的リーダーシップに焦点を当てた1月のオンライン建築家コホートを発表</title>
+      <link>https://www.infoq.com/news/2025/12/infoq-architect-jan-26/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>InfoQは、2026年1月入学の認定アーキテクトプログラムを発表しました。ルカ・メッツァリラ氏がファシリテーターを務めるこの5週間のオンラインコースは、社会技術的リーダーシップに焦点を当て、シニアアーキテクトが技術設計と組織への影響力のギャップを埋められるよう支援します。参加者は毎週の応用学習とピアコラボレーションを通してICSAET認定資格を取得します。イアン・ロビンズ (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/infoq-architect-jan-26/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 18 Dec 2025 14:12:00 +0000</pubDate>
     </item>
     <item>
       <title>Okta から Python アプリにユーザーを同期する方法</title>
@@ -23,11 +30,11 @@
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>記事: 信頼できる生産性: AI加速開発のセキュリティ確保</title>
-      <link>https://www.infoq.com/articles/secure-ai-development/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>自律型AIエージェントは生産性を向上させますが、安全策がなければ深刻な損害を引き起こす可能性があります。コンテキスト、推論、ツールといったReActループを、プロババンスゲート、プランナーとクリティカルの分離、スコープ付き認証情報、サンドボックス化されたコード、そしてSTRIDE/MAESTRO脅威モデリングによって保護します。堅牢なログ記録、限定された自律性、そしてレッドチーム演習により、エージェントはリスクを最小限に抑えながら、信頼できる生産性を提供できます。Sriram Madapusi Vasudevan著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/secure-ai-development/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 16 Dec 2025 09:00:00 +0000</pubDate>
+      <title>記事: AIによる変化の流れにおける建築</title>
+      <link>https://www.infoq.com/articles/architecture-ai-augmented-change/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>AI導入が急増する一方で、多くの組織はパイロット段階から事業拡大に至っていません。解決策はテクノロジーだけでなく、組織構造にあります。この記事では、明確なドメインとガードレールを定義することで、アーキテクトが「迅速なフロー」を実現する方法について解説します。成果の制御からコンテキストのキュレーションへと移行し、AIによって継続的かつ価値あるビジネス変革を推進する方法を学びましょう。Jonathan McPhail、Juan Medina、Jake DeCrane、Isuru Wijesundara (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/architecture-ai-augmented-change/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 18 Dec 2025 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOSの内部</title>
@@ -44,6 +51,13 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>プレゼンテーション: クラウドと分散アプリケーションのスケーリング: 米国No.1の銀行ポータルであるchase.comからの教訓と戦略</title>
+      <link>https://www.infoq.com/presentations/chase-scale-cloud-distributed/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Durai Arasan氏が、Chase.comを6,700万人以上のアクティブユーザーへとスケールアップするために採用したアーキテクチャ戦略について説明します。マルチリージョン分離による高い耐障害性の実現、エッジコンピューティングによるレイテンシの71%削減、そして自動化された「インフラストラクチャ再舗装」によるセキュリティドリフトの排除について解説します。自己修復型可観測性とエンジニアリングファーストの文化構築に関する重要な教訓を共有します。Durai Arasan著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/chase-scale-cloud-distributed/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 17 Dec 2025 13:40:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Metaの最適化プラットフォームAx 1.0はLLMとシステム最適化を合理化します</title>
       <link>https://www.infoq.com/news/2025/12/ax-hyperparameter-optimization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>Axは現在安定版となり、Metaのオープンソースプラットフォームとして、研究者やエンジニアが複雑でリソースを大量に消費する実験に機械学習を適用できるよう設計されています。Metaは過去数年間、AIモデルの改良、機械学習研究の加速、本番環境インフラの調整などにAxを活用してきました。Sergio De Simone著 (source: InfoQ)</description>
@@ -51,21 +65,7 @@
       <pubDate>Tue, 16 Dec 2025 11:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション: クラウドと分散アプリケーションのスケーリング: 米国No.1の銀行ポータルであるchase.comからの教訓と戦略</title>
-      <link>https://www.infoq.com/presentations/chase-scale-cloud-distributed/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ドゥライ・アラサン氏が、Chase.comを6,700万人以上のアクティブユーザーへとスケールアップするために採用したアーキテクチャ戦略について説明します。マルチリージョン分離による高い耐障害性の実現、エッジコンピューティングによるレイテンシの71%削減、そして自動化された「インフラストラクチャ再舗装」によるセキュリティドリフトの排除について解説します。自己修復型可観測性とエンジニアリングファーストの文化構築に関する重要な教訓を共有します。ドゥライ・アラサン著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/chase-scale-cloud-distributed/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 17 Dec 2025 13:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS Transform Custom が技術的負債を解消</title>
-      <link>https://www.infoq.com/news/2025/12/aws-transform-technical-debt/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AWS Transform Customは、Java、Node.js、Python向けのAI駆動型ですぐに使える変換機能により、コードのモダナイゼーションに革命をもたらします。このエンタープライズ向けツールは、アプリケーションのアップグレードを最大5倍高速化すると同時に、組織のニュアンスを学習することで、高品質で繰り返し可能な変換を実現します。Steef-Jan Wiggers著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/aws-transform-technical-debt/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 16 Dec 2025 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントセキュリティのためのCerbos：機能、価格、代替品</title>
+      <title>AIエージェントセキュリティのためのCerbos：機能、価格、代替手段</title>
       <link>https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</link>
       <description>Cerbosは、開発者がアプリケーションにきめ細かなアクセス制御を実装するのに役立つオープンソースの認可エンジンです。Apache 2.0ライセンスの下でリリースされており、アプリケーションが特定のアクションを許可するかどうかを判断するための、一元化されたポリシー決定ポイントを提供します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</guid>
