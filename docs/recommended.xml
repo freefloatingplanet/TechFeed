@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Dec 2025 06:37:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 06:36:13 +0000</lastBuildDate>
     <item>
       <title>間違って電源ぶち抜いてしまい、学園祭の全配信システムを止めた話</title>
       <link>https://zenn.dev/sohosai/articles/9ea1ec0e844232</link>
@@ -23,49 +23,44 @@
       <pubDate>Wed, 17 Dec 2025 13:06:02 +0000</pubDate>
     </item>
     <item>
-      <title>Nix Flake+direnvでプロジェクトのパッケージ管理</title>
-      <link>https://zenn.dev/watagame/articles/miselike-nix</link>
-      <description>突然なんですけど、「mise」人気ですよね。ArchLinuxを利用していた頃は自分も使っていました。
-ただ、NixOSを利用するようになってからは、全部Flake+direnvでええやんとなってしまったのでmiseを使わなくなりました。
-利点としては10万を越える豊富なパッケージが利用できることと、高い自由度があると思います。
-まあ「nixわけわかめだからtomlとかで設定できるmiseが良いんじゃ」って言われそうなんですけど、nix言語は関数の生えたJSONらしいのでそんな難しくないです。
-...冗談はともかく、今はノリと勢いとAIでなんとかなるので雰囲気を掴んでその良さを知ってもら... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/watagame/articles/miselike-nix</guid>
-      <pubDate>Wed, 17 Dec 2025 10:06:35 +0000</pubDate>
+      <title>モバイルアプリエンジニアだけど鉄道会社に転職して、退職した｜とと</title>
+      <link>https://note.com/totokit4/n/n19e17b45e1fc</link>
+      <description>こんにちは。ととです。 わたくしごとですが、大阪の鉄道会社を12月末に退職することにしまして、先日が最終出勤日でした。 ということで、私が2年半あまり、どのような仕事をしてどのような経験を積んだか、記録として残しておこうと思います。 （以下、ただのオレ頑張ったぜポエムです） 入社した理由大学卒業+就職と... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/totokit4/n/n19e17b45e1fc</guid>
+      <pubDate>Fri, 19 Dec 2025 00:12:30 +0000</pubDate>
     </item>
     <item>
-      <title>(理論物理学において)数値計算はなぜ必要なのか</title>
-      <link>https://zenn.dev/akio_tomiya/articles/863160c1054b45</link>
-      <description>物理学の目的の1つは、少ない原理と少ないデータから未来を予測することです、これは「予言」としばしば呼ばれます。
-物理学において、たとえ原理を微分方程式として書けても、初期条件から将来の状態を計算できなければ予測・予言にはなりません。つまり単に「法則を立てる(式を立てる)」だけでなく、「条件を与えて解いて量を出す」ところまで行って初めて物理学として意味がある、ということも出来ると思います(すこし言いすぎですが)。
+      <title>「今さら聞けない...」認証・認可まわりをざっと復習しよう</title>
+      <link>https://zenn.dev/isawa/articles/2b84d7d6b2f207</link>
+      <description>概要
+どうも、どすこいです！
+本記事はCloud Pratica Advent Calendar 2025の19日目です！
+本記事では実務で困らないための認証・認可まわりの知識をできるだけ整理してまとめます。
+ログイン機能を実装する中でよく出てくる用語や仕組みを中心に、「なんとなく使っている状態」から一歩抜け出すことを目的としています。
 
- 1. 解析解はすばらしい
-たとえば調和振動子は解析解があり、運動を式として表すことができます。自由落下や斜方投射も、空気抵抗を無視すれば同じく手で解くことができます。ラプラス... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/akio_tomiya/articles/863160c1054b45</guid>
-      <pubDate>Wed, 17 Dec 2025 09:39:14 +0000</pubDate>
+ 対象読者
+本記事では以下のような方を想定しています。
+
+認証・認可について「雰囲気では分かっているが、中身を説明できない」と感じている方
+認証・認可の仕組みを深く理解しないまま、ログイン機能を実装している方
+Cookie/セッション/JWT/OA... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/isawa/articles/2b84d7d6b2f207</guid>
+      <pubDate>Fri, 19 Dec 2025 11:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>大学数学未履修が青色になった方法</title>
-      <link>https://qiita.com/manuo/items/239fe9528fbb9f86c14f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>😊はじめに
-先日のABC436で無事入青することが出来ました。
-まさか自分の名前の色が青色になる日が来るとは思っておらず、AtCoderの右上を見てはニヤニヤしています。
-この記事では入青するために必要だったと印象に残っている事柄を紹介したいと思います。
+      <title>try-catch に疲れたので、TypeScript で別の書き方を考えた</title>
+      <link>https://zenn.dev/sangun/articles/354b8d53343777</link>
+      <description>!
+この記事は、GMOペパボ エンジニアAdvent Calendar 2025 の17日目の記事です。
 
-🕰️自分が競... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/manuo/items/239fe9528fbb9f86c14f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 17 Dec 2025 22:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>分散サービスのトランザクションでアンチパターンを設計してしまった話　〜とその改善〜</title>
-      <link>https://zenn.dev/finatext/articles/481416ea9afa5c</link>
-      <description>この記事は、Finatext Advent Calendar 2025 の 16 日目の記事です。
+JS/TSを長く触れていると、無意識に受け入れてしまっている不便さがあります。その一つが、TypeScriptにおける非同期処理のエラーハンドリングです。
+async/await の登場で非同期処理は劇的に書きやすくなりましたが、その裏で私たちは try-catch ブロックのネストと、型安全性の喪失という新たな問題と戦い続けてきました。
+今回は、そんなモヤモヤと向き合った結果、
+最終的に try-ok という小さなライブラリを作った話です。
 
- はじめに
-分散サービスでアプリケーションを構築する際、「分散トランザクションの壁」にぶつかることは避けられません。単一データベースで保証されていた ACID 特性（特に原子性）が、複数サービスにまたがると簡単には実現できないからです。
-業務で複数の分散サービスとデータベースを更新する処理を実装する際、「DB の ACID 特性を最大限活用すれば、シンプルに実装できるのでは？」 という考えから設計を始めました。しかし、その結果として典型的なアンチパターンに陥り、深刻なバグを埋め込む設計に... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/finatext/articles/481416ea9afa5c</guid>
-      <pubDate>Tue, 16 Dec 2025 00:43:34 +0000</pubDate>
+ 私たちが抱える「try-catch... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sangun/articles/354b8d53343777</guid>
+      <pubDate>Thu, 18 Dec 2025 00:44:09 +0000</pubDate>
     </item>
     <item>
       <title>技術書を「覚える」のをやめたら、使えるようになった</title>
@@ -105,22 +100,41 @@ RSCの設計自体も問題視されています。当初からセキュリテ�
       <pubDate>Wed, 17 Dec 2025 12:38:43 +0000</pubDate>
     </item>
     <item>
-      <title>ダンジョン生成に一様分布を求めるのは間違っているだろうか</title>
-      <link>https://zenn.dev/folio_sec/articles/06c4271b96bfb5</link>
-      <description>これは FOLIO Advent Calendar 2025 17日目の記事です。
-
-誰でも一度は魔王になって、勇者のくせになまいきだと、侵入者を撃退するためのダンジョン作りに興じたことがあるでしょう。ダンジョン（長いので以降は迷路と呼ぶ）は古くからある定番コンテンツなだけあって、自動的な生成アルゴリズムにも棒倒し法や穴掘り法など様々なものがあります。しかしアルゴリズムによっては長い直線だらけの通路ができてしまったり、反対に行き止まりが多くなってしまったりと生成される迷路に偏りが生じることも知られています。そこで本稿ではちょっと視点を加えて、特定のパターンに偏りがない完全に公平な迷路生成... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/folio_sec/articles/06c4271b96bfb5</guid>
-      <pubDate>Tue, 16 Dec 2025 23:29:21 +0000</pubDate>
+      <title>フロントエンド分割やめました</title>
+      <link>https://zenn.dev/coconala/articles/d4c30f0f582259</link>
+      <description>こちらは株式会社ココナラ Advent Calendar 2025 19日目の記事です。
+こんにちは。ココナラ法律相談で開発を担当している高崎です。
+以前、こちらの記事でRailsのモノリスから管理画面をReactへ段階的に移行する取り組みについて書きました。
+結論から言うと、現在のチームフェーズと事業優先度を鑑み、この「フロントエンド分割（リプレイス）」という方針を中断し、Rails（ERB）主体の開発体制に戻す決断をしました。
+今回は、なぜ一度始めたリプレイスを中断するに至ったのか。その背景にある「事業優先の力学」と「合意形成の難しさ」について、自戒を込めて振り返りたいと思います。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/coconala/articles/d4c30f0f582259</guid>
+      <pubDate>Thu, 18 Dec 2025 13:06:20 +0000</pubDate>
     </item>
     <item>
-      <title>Pydantic の居場所は “境界” がちょうどいい</title>
-      <link>https://zenn.dev/recustomer/articles/bcd19cdfe4572f</link>
+      <title>医療業界で突然LLMを使ってくれと言われたら</title>
+      <link>https://zenn.dev/livetoon/articles/ba4536e4722187</link>
       <description>はじめに
-Pydantic はとても便利である。だがこれを過信してドメインモデルの中心に据えると、責務の境界が曖昧になり、設計はたいてい溶ける。戦略なく溶け固まった巨大なコードベースは、ソフトウェアの迅速かつ安全な進化を困難にするだけでなく、LLM-based な AI の推論の安定性も低下させる。
-LLM-based な AI エージェントは、構造が論理的に明示されたコード（型・境界・不変条件）ほど扱いやすい傾向がある。型定義には datetime と書いてあるのに、実態はバリデータで文字列を無理やり変換して受け入れるような「嘘」があると、コードだけを読む AI は挙動を正しく予測... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/recustomer/articles/bcd19cdfe4572f</guid>
-      <pubDate>Tue, 16 Dec 2025 16:06:42 +0000</pubDate>
+「うちの病院でも生成AIを活用したい」
+「電子カルテの要約をAIでできないか」
+医療機関のDX推進担当者や、外部のシステム開発者がこのような相談を受けることが増えています。しかし医療分野でLLMを活用する場合、一般的なWebサービスとは異なる厳格なデータの要件があります。
+本記事では、2025年12月時点で日本国内の医療機関がLLMを本番利用する際に知っておくべき、規制要件とクラウドプロバイダーの選択肢について、網羅的に解説します。
+ちなみに私は元医師で、現在株式会社LivetoonでCTOとしてAI開発をしている長嶋と申します。
+また東大病院循環器内科にも所属しており、医... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/livetoon/articles/ba4536e4722187</guid>
+      <pubDate>Fri, 19 Dec 2025 01:59:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>PDFのあるあると内部構造を独自XML表現を通して理解したい！</title>
+      <link>https://zenn.dev/layerx/articles/20251218-pdf-xml</link>
+      <description>はじめに
+LayerX Tech Advent Calendar の 18 日目の記事です。
+今年の 4 月に新卒として入社し、先月からバクラク事業部の Payment 開発部で新規事業の開発をしています。@tak848です。最近は「takのPDF」という謎のSlackスタンプを押されることが増えました。
+みなさん、普段仕事やAIツールでPDFを扱う機会は多いと思いますが、「PDFの中身がどうなっているか」を意識したことはありますか？
+私たちは当たり前のようにPDFを作成・閲覧していますが、その裏側にある構造を知る機会は意外と少ないものです。
+直近の社内LTのネタを考える中で、「P... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/layerx/articles/20251218-pdf-xml</guid>
+      <pubDate>Thu, 18 Dec 2025 11:32:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
