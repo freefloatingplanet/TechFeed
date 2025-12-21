@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Dec 2025 06:36:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 06:36:33 +0000</lastBuildDate>
+    <item>
+      <title>FGA：WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
+      <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
+      <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
+      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主要な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</guid>
+      <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>InfoQ、社会技術的リーダーシップに焦点を当てた1月のオンライン建築家コホートを発表</title>
+      <link>https://www.infoq.com/news/2025/12/infoq-architect-jan-26/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>InfoQは、2026年1月入学の認定アーキテクトプログラムを発表しました。ルカ・メッツァリラ氏がファシリテーターを務めるこの5週間のオンラインコースは、社会技術的リーダーシップに焦点を当て、シニアアーキテクトが技術設計と組織への影響力のギャップを埋められるよう支援します。参加者は毎週の応用学習とピアコラボレーションを通してICSAET認定資格を取得します。イアン・ロビンズ (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/infoq-architect-jan-26/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 18 Dec 2025 14:12:00 +0000</pubDate>
+    </item>
     <item>
       <title>Okta から Python アプリにユーザーを同期する方法</title>
       <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</link>
@@ -44,32 +65,11 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション: クラウドと分散アプリケーションのスケーリング: 米国No.1の銀行ポータルであるchase.comからの教訓と戦略</title>
-      <link>https://www.infoq.com/presentations/chase-scale-cloud-distributed/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Durai Arasan氏が、Chase.comを6,700万人以上のアクティブユーザーへとスケールアップするために採用したアーキテクチャ戦略について説明します。マルチリージョン分離による高い耐障害性の実現、エッジコンピューティングによるレイテンシの71%削減、そして自動化された「インフラストラクチャ再舗装」によるセキュリティドリフトの排除について解説します。自己修復型可観測性とエンジニアリングファーストの文化構築に関する重要な教訓を共有します。Durai Arasan著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/chase-scale-cloud-distributed/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 17 Dec 2025 13:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ルンバから電動自転車まで、ハードウェアのスタートアップ企業はなぜ倒産しているのか？</title>
-      <link>https://techcrunch.com/video/from-roombas-to-e-bikes-why-are-hardware-startups-going-bankrupt/</link>
-      <description>ハードウェア業界は、iRobot、Luminar、Rad Power Bikesが相次いで破産申請するなど、厳しい1週間を迎えました。各社はそれぞれ関税圧力、サプライチェーンの問題、市場の変化といった問題に直面していますが、これらを総合すると、世界的な貿易摩擦と海外の安価な競争の時代に、物理的な製品を製造することの難しさという大きな物語を物語っています。[…] (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/video/from-roombas-to-e-bikes-why-are-hardware-startups-going-bankrupt/</guid>
-      <pubDate>Fri, 19 Dec 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>AIエージェントセキュリティのためのCerbos：機能、価格、代替品</title>
       <link>https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</link>
       <description>Cerbosは、開発者がアプリケーションにきめ細かなアクセス制御を実装するのに役立つオープンソースの認可エンジンです。Apache 2.0ライセンスの下でリリースされており、アプリケーションが特定のアクションを許可するかどうかを判断するための、一元化されたポリシー決定ポイントを提供します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</guid>
       <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ハッキング、盗難、そして混乱：2025年の最悪のデータ侵害</title>
-      <link>https://techcrunch.com/2025/12/19/hacks-thefts-and-disruption-the-worst-data-breaches-of-2025/</link>
-      <description>TechCrunchは、米国政府のデータベースへの侵入から韓国で毎月発生するハッキングまで、2025年の最大規模のデータ侵害、破壊的なサイバー攻撃、損害を与えるハッキングを振り返ります。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2025/12/19/hacks-thefts-and-disruption-the-worst-data-breaches-of-2025/</guid>
-      <pubDate>Fri, 19 Dec 2025 14:09:03 +0000</pubDate>
     </item>
     <item>
       <title>記事：AI時代の建築家の立場</title>

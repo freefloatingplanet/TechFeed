@@ -7,7 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Dec 2025 06:36:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 06:36:22 +0000</lastBuildDate>
+    <item>
+      <title>AIを禁止して気づいた エンジニアの基礎体力</title>
+      <link>https://qiita.com/nakaharayuto/items/cc169738fe1124a7c859?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+この記事は「新人にAIを使わせるべきか」というよくある議論に対して、
+エンジニア1年目の自分が AIを使っていた時期 と 使わなかった時期 を比較し、
+どのような変化があったのかを実体験ベースでまとめた成長記録です。
+新人にAIは使わせない方がいいという意見があ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/nakaharayuto/items/cc169738fe1124a7c859?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 19 Dec 2025 11:40:18 +0000</pubDate>
+    </item>
     <item>
       <title>間違って電源ぶち抜いてしまい、学園祭の全配信システムを止めた話</title>
       <link>https://zenn.dev/sohosai/articles/9ea1ec0e844232</link>
@@ -23,11 +34,11 @@
       <pubDate>Wed, 17 Dec 2025 13:06:02 +0000</pubDate>
     </item>
     <item>
-      <title>モバイルアプリエンジニアだけど鉄道会社に転職して、退職した｜とと</title>
-      <link>https://note.com/totokit4/n/n19e17b45e1fc</link>
-      <description>こんにちは。ととです。 わたくしごとですが、大阪の鉄道会社を12月末に退職することにしまして、先日が最終出勤日でした。 ということで、私が2年半あまり、どのような仕事をしてどのような経験を積んだか、記録として残しておこうと思います。 （以下、ただのオレ頑張ったぜポエムです） 入社した理由大学卒業+就職と... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/totokit4/n/n19e17b45e1fc</guid>
-      <pubDate>Fri, 19 Dec 2025 00:12:30 +0000</pubDate>
+      <title>個人の活動を記録する生成AI時代の日報「Activity Report」が生まれるまで｜hashiyaman</title>
+      <link>https://note.com/hashiyaman/n/n57ee6c67c416</link>
+      <description>こんにちは、Ubieの橋山です。 この記事は「Ubie 生成AI Advent Calendar 2025」12/20の投稿です。 本稿ではその続編として、この構想がどのように設計・実装されているかという具体的な試行錯誤についてお話しします。 目標設定時の情報収集を楽にしたいUbieには「変化進化会」という、目標設定や成長について所属組織... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/hashiyaman/n/n57ee6c67c416</guid>
+      <pubDate>Sat, 20 Dec 2025 11:49:12 +0000</pubDate>
     </item>
     <item>
       <title>「今さら聞けない...」認証・認可まわりをざっと復習しよう</title>
@@ -48,19 +59,15 @@ Cookie/セッション/JWT/OA... (source: Zennのトレンド)</description>
       <pubDate>Fri, 19 Dec 2025 11:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>try-catch に疲れたので、TypeScript で別の書き方を考えた</title>
-      <link>https://zenn.dev/sangun/articles/354b8d53343777</link>
-      <description>!
-この記事は、GMOペパボ エンジニアAdvent Calendar 2025 の17日目の記事です。
+      <title>CF WorkersでNodeJS依存ライブラリが使えない？できらぁ！！！～黒魔術ViteプラグインでNodeJS依存関数を透過的に呼ぶ話～</title>
+      <link>https://zenn.dev/inaridiy/articles/80ad405279e3fe</link>
+      <description>この記事は、Cloudflare Advent Calendar 2025の二十日目の記事です。
 
-JS/TSを長く触れていると、無意識に受け入れてしまっている不便さがあります。その一つが、TypeScriptにおける非同期処理のエラーハンドリングです。
-async/await の登場で非同期処理は劇的に書きやすくなりましたが、その裏で私たちは try-catch ブロックのネストと、型安全性の喪失という新たな問題と戦い続けてきました。
-今回は、そんなモヤモヤと向き合った結果、
-最終的に try-ok という小さなライブラリを作った話です。
-
- 私たちが抱える「try-catch... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sangun/articles/354b8d53343777</guid>
-      <pubDate>Thu, 18 Dec 2025 00:44:09 +0000</pubDate>
+ はじめに
+みなさん、Cloudflare Workers使ってますか！？ 安くて、他のCloudflare製品群とService Bindingsで簡単に結合出来て、課金体系がLLMと相性が良くて最高なので、僕はよく使っています。
+これらのメリットは、Cloudflare Workers が V8 ベースの独自ランタイムで動くことに起因しますが、同時に大きなデメリットももたらしてしまいます。つまり、@napi-rs/canvas、pdfjs-dist、playwright など Node... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/inaridiy/articles/80ad405279e3fe</guid>
+      <pubDate>Sat, 20 Dec 2025 07:43:10 +0000</pubDate>
     </item>
     <item>
       <title>技術書を「覚える」のをやめたら、使えるようになった</title>
@@ -90,14 +97,15 @@ RecustomerでエンジニアをしているRyoheiです。
       <pubDate>Thu, 18 Dec 2025 21:24:24 +0000</pubDate>
     </item>
     <item>
-      <title>RSC/Next.jsは信頼できないかもだけど、それで良いのかもしれない</title>
-      <link>https://zenn.dev/naofumik/articles/467a875928baef</link>
-      <description>背景
-先日、RSCに重大な脆弱性が見つかりました。詳細については多くの記事が書かれていますので割愛しますが、Next.jsをただデプロイしているだけでもやられる重大さです。
-RSCの設計自体も問題視されています。当初からセキュリティの議論が多く、今回の件とは直接関係がないものの、サーバとクライアントの境界が曖昧な点などが指摘されていました。この状況を見ていると最悪の場合、RSC/Next.jsのセキュリティを十分に高めることが現実的に不可能となる可能性も残されており、今後注視する必要があります。
-でも本当にNext.jsってセキュリティが重要なのだろうか？ サーバはセキュアでなければ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/naofumik/articles/467a875928baef</guid>
-      <pubDate>Wed, 17 Dec 2025 12:38:43 +0000</pubDate>
+      <title>「画像なし」で挑むVLM学習 / Text-Printed Imageによるアプローチ</title>
+      <link>https://zenn.dev/turing_motors/articles/017e6d6253632f</link>
+      <description>VLM学習のための「Text-Printed Image」手法。テキストを画像化することでモダリティギャップを緩和しより効果的に学習できるようにする。
+
+ はじめに
+チューリングでインターンをしている東京科学大学(Institute of Science Tokyo)の山辺です。
+インターンでは、「画像を一切使わずに VLM を学習できるか？」というテーマで研究を進め、その成果を論文としてまとめて arXiv に投稿しました。画像付きデータを大量に集めるのではなく、テキストだけをうまく活用して VLM を学習させる、という少し変わったアプローチに取り組んでいます。論文はすでに公開されて... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/017e6d6253632f</guid>
+      <pubDate>Fri, 19 Dec 2025 07:49:06 +0000</pubDate>
     </item>
     <item>
       <title>フロントエンド分割やめました</title>
@@ -123,18 +131,6 @@ RSCの設計自体も問題視されています。当初からセキュリテ�
 また東大病院循環器内科にも所属しており、医... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/livetoon/articles/ba4536e4722187</guid>
       <pubDate>Fri, 19 Dec 2025 01:59:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>PDFのあるあると内部構造を独自XML表現を通して理解したい！</title>
-      <link>https://zenn.dev/layerx/articles/20251218-pdf-xml</link>
-      <description>はじめに
-LayerX Tech Advent Calendar の 18 日目の記事です。
-今年の 4 月に新卒として入社し、先月からバクラク事業部の Payment 開発部で新規事業の開発をしています。@tak848です。最近は「takのPDF」という謎のSlackスタンプを押されることが増えました。
-みなさん、普段仕事やAIツールでPDFを扱う機会は多いと思いますが、「PDFの中身がどうなっているか」を意識したことはありますか？
-私たちは当たり前のようにPDFを作成・閲覧していますが、その裏側にある構造を知る機会は意外と少ないものです。
-直近の社内LTのネタを考える中で、「P... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/layerx/articles/20251218-pdf-xml</guid>
-      <pubDate>Thu, 18 Dec 2025 11:32:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

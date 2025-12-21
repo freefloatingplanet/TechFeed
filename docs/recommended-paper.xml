@@ -7,11 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Dec 2025 06:36:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 06:36:28 +0000</lastBuildDate>
     <item>
       <title>LLMを用いた自然言語から時相論理への文法強制翻訳</title>
       <link>https://arxiv.org/abs/2512.16814v1</link>
-      <description>自然言語（NL）を時相論理（TL）などの形式言語に変換することは、人間とロボットや自律システムとのコミュニケーションに不可欠です。最先端のアプローチでは、このタスクを原子命題（AP）の抽出段階と翻訳段階に分解します。しかし、既存の手法は、正確な抽出、共参照の存在、そして限られたデータからの学習に課題を抱えています。本稿では、NLからTLへの翻訳のためのフレームワークとして、文法強制翻訳（GraFT）を提案します。このフレームワークは、先行研究が言語モデルに全語彙からトークンを反復的に予測させることで、抽出段階と翻訳段階の両方を解決しているという観察に基づいています。これに対し、GraFTは、各ステップにおいて全語彙から有効な出力トークンの集合を少数に制限することで、両方のタスクの複雑さを軽減します。この解空間の縮小は、各問題の固有の特性を利用することで実現されます。また、解空間の縮小がより効率的な学習につながる理由についても、理論的根拠を示します。 CW、GLTL、Naviベンチマークを用いてGraFTの有効性を評価しました。最先端の翻訳手法と比較すると、GraFTはエンドツーエンドの (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <description>自然言語（NL）を時相論理（TL）などの形式言語に変換することは、人間とロボットや自律システムとのコミュニケーションに不可欠です。最先端のアプローチでは、このタスクを原子命題（AP）の抽出段階と翻訳段階に分解します。しかし、既存の手法は、正確な抽出、共参照の存在、そして限られたデータからの学習に課題を抱えています。本稿では、NLからTLへの翻訳のためのフレームワークである文法強制翻訳（GraFT）を提案します。このフレームワークは、先行研究が言語モデルに全語彙からトークンを反復的に予測させることで、抽出段階と翻訳段階の両方を解決しているという観察に基づいています。これに対し、GraFTは、各ステップにおいて全語彙から有効な出力トークンの集合を少数に制限することで、両方のタスクの複雑さを軽減します。この解空間の縮小は、各問題の固有の特性を利用することで実現されます。また、解空間の縮小がより効率的な学習につながる理由についても理論的根拠を示します。 CW、GLTL、Naviベンチマークを用いてGraFTの有効性を評価しました。最先端の翻訳手法と比較すると、GraFTはエンドツーエンドの翻訳 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
       <guid isPermaLink="true">https://arxiv.org/abs/2512.16814v1</guid>
       <pubDate>Thu, 18 Dec 2025 17:55:15 +0000</pubDate>
     </item>
