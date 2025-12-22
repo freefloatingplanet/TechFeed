@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Dec 2025 06:36:33 +0000</lastBuildDate>
-    <item>
-      <title>FGA：WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
-      <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Dec 2025 06:40:47 +0000</lastBuildDate>
     <item>
       <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
       <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
       <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主要な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</guid>
       <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>InfoQ、社会技術的リーダーシップに焦点を当てた1月のオンライン建築家コホートを発表</title>
-      <link>https://www.infoq.com/news/2025/12/infoq-architect-jan-26/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>InfoQは、2026年1月入学の認定アーキテクトプログラムを発表しました。ルカ・メッツァリラ氏がファシリテーターを務めるこの5週間のオンラインコースは、社会技術的リーダーシップに焦点を当て、シニアアーキテクトが技術設計と組織への影響力のギャップを埋められるよう支援します。参加者は毎週の応用学習とピアコラボレーションを通してICSAET認定資格を取得します。イアン・ロビンズ (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/infoq-architect-jan-26/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 18 Dec 2025 14:12:00 +0000</pubDate>
     </item>
     <item>
       <title>Okta から Python アプリにユーザーを同期する方法</title>
@@ -37,18 +23,18 @@
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>記事: AIによる変化の流れにおける建築</title>
-      <link>https://www.infoq.com/articles/architecture-ai-augmented-change/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AI導入が急増する一方で、多くの組織はパイロット段階から事業拡大に至っていません。解決策はテクノロジーだけでなく、組織構造にあります。この記事では、明確なドメインとガードレールを定義することで、アーキテクトが「迅速なフロー」を実現する方法について解説します。成果の制御からコンテキストのキュレーションへと移行し、AIによって継続的かつ価値あるビジネス変革を推進する方法を学びましょう。Jonathan McPhail、Juan Medina、Jake DeCrane、Isuru Wijesundara (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/architecture-ai-augmented-change/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 18 Dec 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>oRPC、OpenAPIサポートとエンドツーエンドの型安全性を備えたバージョン1.0をリリース</title>
       <link>https://www.infoq.com/news/2025/12/orpc-v1-typesafe/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>型安全なAPIを構築するための最先端のTypeScriptライブラリ、oRPC 1.0をご紹介します。OpenAPIとの完全な統合により、安定した本番環境対応ソリューションを提供します。主な機能には、エンタープライズグレードの型安全性、複雑な型のサポート、そして一般的なフレームワークとのシームレスな統合が含まれます。優れたパフォーマンスと包括的な移行ガイドを備えたoRPCは、現代のAPI開発における選択肢として注目を集めています。ダニエル・カーティス著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2025/12/orpc-v1-typesafe/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Fri, 19 Dec 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EUが2035年のEV目標を縮小、電気自動車スタートアップは懸念表明</title>
+      <link>https://techcrunch.com/2025/12/21/as-eu-waters-down-2035-ev-goals-electric-startups-express-concern/</link>
+      <description>未来は電気自動車になるかもしれないが、その未来は先送りされつつある。欧州委員会は柔軟性の必要性を理由に、2035年までにガソリン車の販売を禁止するという野心的な計画を緩和した。当初は新車の100%をゼロエミッション車にすることを義務付けていたが、改訂された計画では、新車の10%を[…] (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2025/12/21/as-eu-waters-down-2035-ev-goals-electric-startups-express-concern/</guid>
+      <pubDate>Sun, 21 Dec 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOSの内部</title>
@@ -65,11 +51,25 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>AWS、コンテナ化されたアプリケーションのデプロイメントを簡素化するECS Express Modeを発表</title>
+      <link>https://www.infoq.com/news/2025/12/aws-ecs-express-mode/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>AWSはAmazon ECS Express Modeをリリースしました。これにより、コンテナ化されたウェブアプリケーションとAPIのデプロイプロセスが簡素化されます。Express Modeを使用すると、IAMロール、ロードバランサー、スケーリングといった通常必要な追加要件を省略し、本番環境対応のサービスを一括でデプロイできます。Matt Saunders著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/aws-ecs-express-mode/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sun, 21 Dec 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>AIエージェントセキュリティのためのCerbos：機能、価格、代替品</title>
       <link>https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</link>
       <description>Cerbosは、開発者がアプリケーションにきめ細かなアクセス制御を実装するのに役立つオープンソースの認可エンジンです。Apache 2.0ライセンスの下でリリースされており、アプリケーションが特定のアクションを許可するかどうかを判断するための、一元化されたポリシー決定ポイントを提供します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</guid>
       <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Javaニュースまとめ: GlassFish、TornadoVM、Spring Shell、WildFly、Hibernate、Kotlin</title>
+      <link>https://www.infoq.com/news/2025/12/java-news-roundup-dec15-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>今週の2025年12月15日版Javaラウンドアップでは、GlassFish 8.0の15番目のマイルストーンリリース、Spring Shell 4.0の最初のリリース候補、TornadoVM、Hibernate Reactive、Hibernate Search、Kotlinのポイントリリース、WildFly 39の最初のベータリリース、Micronaut HelidonとVert.xのメンテナンスリリースなど、注目すべきニュースを取り上げます。Michael Redlich著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/java-news-roundup-dec15-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 22 Dec 2025 02:30:00 +0000</pubDate>
     </item>
     <item>
       <title>記事：AI時代の建築家の立場</title>

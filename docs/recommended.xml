@@ -7,38 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Dec 2025 06:36:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 06:40:36 +0000</lastBuildDate>
     <item>
-      <title>AIを禁止して気づいた エンジニアの基礎体力</title>
-      <link>https://qiita.com/nakaharayuto/items/cc169738fe1124a7c859?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>タイミーの1,200万超ユーザーを支える認証基盤を Go と Ory Hydra で作っている話</title>
+      <link>https://zenn.dev/7riatsu/articles/e2fbba2c65904d</link>
       <description>はじめに
-この記事は「新人にAIを使わせるべきか」というよくある議論に対して、
-エンジニア1年目の自分が AIを使っていた時期 と 使わなかった時期 を比較し、
-どのような変化があったのかを実体験ベースでまとめた成長記録です。
-新人にAIは使わせない方がいいという意見があ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/nakaharayuto/items/cc169738fe1124a7c859?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 19 Dec 2025 11:40:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>間違って電源ぶち抜いてしまい、学園祭の全配信システムを止めた話</title>
-      <link>https://zenn.dev/sohosai/articles/9ea1ec0e844232</link>
-      <description>この記事は本番環境などでやらかしちゃった人 - Qiita Advent Calendar 2025の17日目の記事です。
-
-こんにちは、間瀬bb （@bb_mase） です。
-今回は、学園祭の本番1日目である前夜祭の生配信中に自分の足でコアスイッチの電源をぶち抜いてしまい、全配信システムを約10分間止めた話をします。
-
- はじめに
-私は筑波大学の学園祭「雙峰祭」の実行委員会で、インフラ担当長を務めていました。3人のチームで、光ファイバーネットワークの構築から生配信システムの運用まで、学園祭全体を支えるネットワークインフラを担当しています。
-そんなインフラ担当長という立場ながら、一番ヤバ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sohosai/articles/9ea1ec0e844232</guid>
-      <pubDate>Wed, 17 Dec 2025 13:06:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>個人の活動を記録する生成AI時代の日報「Activity Report」が生まれるまで｜hashiyaman</title>
-      <link>https://note.com/hashiyaman/n/n57ee6c67c416</link>
-      <description>こんにちは、Ubieの橋山です。 この記事は「Ubie 生成AI Advent Calendar 2025」12/20の投稿です。 本稿ではその続編として、この構想がどのように設計・実装されているかという具体的な試行錯誤についてお話しします。 目標設定時の情報収集を楽にしたいUbieには「変化進化会」という、目標設定や成長について所属組織... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/hashiyaman/n/n57ee6c67c416</guid>
-      <pubDate>Sat, 20 Dec 2025 11:49:12 +0000</pubDate>
+こんにちは。タイミー CTO 室の成田（@7riatsu）です。
+現在、タイミーは 1,200 万人以上のワーカーの皆様にご利用いただいています。そんなタイミーの認証基盤をゼロから作り直しています。
+本記事では、CTO 室で開発を進めている Worker IdP（Identity Provider）について、技術選定やアーキテクチャ、Ory Hydra を選んだ理由、1,200 万人のデータ移行の品質保証の仕組みを、実際の設計判断を踏まえて紹介します。
+Worker IdP は、タイミーで働くワーカー（エンドユーザー）向けの認証基盤です。セキュリティ強化や今後の事業展開を見... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/7riatsu/articles/e2fbba2c65904d</guid>
+      <pubDate>Sat, 20 Dec 2025 23:00:01 +0000</pubDate>
     </item>
     <item>
       <title>「今さら聞けない...」認証・認可まわりをざっと復習しよう</title>
@@ -70,24 +49,29 @@ Cookie/セッション/JWT/OA... (source: Zennのトレンド)</description>
       <pubDate>Sat, 20 Dec 2025 07:43:10 +0000</pubDate>
     </item>
     <item>
-      <title>技術書を「覚える」のをやめたら、使えるようになった</title>
-      <link>https://zenn.dev/recustomer/articles/caff27849cb91c</link>
-      <description>!
-この記事はRecustomer Advent Calendar 2025 18日目の記事です。
+      <title>転職して4ヶ月、開発チームのリードを任されてやってきたこと</title>
+      <link>https://zenn.dev/moshjp/articles/e9518202e77b65</link>
+      <description>この記事は MOSH Advent Calendar 2025 の21日目の記事です。
 
+こんにちは！勝間（@ryo_katsuma）です。今年の8月にMOSHに入社して、現在は新規機能開発チームでリードを担当しています。
+前職のクックパッドには16年ほど在籍していました。大人数の開発チームのリードや、新規事業での開発組織のマネージャーなど、いろいろな経験をさせてもらいました。そんな背景もあって、MOSHに入社してまもなく、現在所属している開発チームのリードを任せてもらうことになりました。チームはエンジニア4名（私含む）、PdM1名、デザイナ1名の小規模なスクラムチームです。
+入社して4... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/moshjp/articles/e9518202e77b65</guid>
+      <pubDate>Sat, 20 Dec 2025 23:59:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【書評】小さく作って深く学ぶGo──『Learn Go with Pocket-Sized Projects』</title>
+      <link>https://zenn.dev/pythocial/articles/ae7b8e6193e441</link>
+      <description>はじめに
+社内の掲示板で名前が挙がっていた『Learn Go with Pocket-Sized Projects』が気になったので読んでみたところ、思いもよらず自分にとって読みやすいスタイルで、時間はかかったものの最後までじっくり読み切ってしまいました。
+この記事では、いくつかの章を抜粋して紹介しつつ、この本の学習体験の良さという観点から、全体の感想をまとめます。
+どんな本？：
 
- はじめに
-RecustomerでエンジニアをしているRyoheiです。
-私は今年の4月に新卒として入社し、それから2週間に1冊のペースで技術書を読んできました。
-最初は弊社CTOとの日常会話からこの試みをはじめ、12月まで走り切りました。
-ただ、最初の頃は技術書なんてまともに読んだことがなく、正直かなり苦戦していました。
-
-読み終えること自体が難しい
-分厚い本は手に取る気にもならない
-「覚えよう」「メモしよう」と意気込むと時間がかかりすぎる
-読んだ気がするけど、しばらくするとどこで読... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/recustomer/articles/caff27849cb91c</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:01 +0000</pubDate>
+11種類ものプロジェクトを用いて、各章ごとに Go プロジェクトの作成方法を伴走で教えてくれる本
+著者陣はエアバスグループで長らく Go を使ってきたフランスのシニアエンジニアたち
+2025年5月に出版、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pythocial/articles/ae7b8e6193e441</guid>
+      <pubDate>Sat, 20 Dec 2025 15:00:02 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「ジュニア開発者をAIで置き換えるのは最悪のアイデア」とAWSのCEOが語り大きな話題に</title>
@@ -97,15 +81,38 @@ RecustomerでエンジニアをしているRyoheiです。
       <pubDate>Thu, 18 Dec 2025 21:24:24 +0000</pubDate>
     </item>
     <item>
-      <title>「画像なし」で挑むVLM学習 / Text-Printed Imageによるアプローチ</title>
-      <link>https://zenn.dev/turing_motors/articles/017e6d6253632f</link>
-      <description>VLM学習のための「Text-Printed Image」手法。テキストを画像化することでモダリティギャップを緩和しより効果的に学習できるようにする。
+      <title>PR単位で動作確認がしたい！</title>
+      <link>https://zenn.dev/ubie_dev/articles/8c34b08626aa88</link>
+      <description>始めに
+Ubieでプラットフォームエンジニア兼SREをしているonoteruです。
+今回は、Ubieで運用しているpreview環境と呼ばれる仕組みについて紹介します。preview環境は、プルリクエストごとに動作確認ができる環境を提供する仕組みです。この環境により、開発者の動作確認のボトルネックを解消し、開発効率の向上を実現しています。
+なお、本記事はUbie Tech Advent Calendar 2025 20日目の記事となります。
 
- はじめに
-チューリングでインターンをしている東京科学大学(Institute of Science Tokyo)の山辺です。
-インターンでは、「画像を一切使わずに VLM を学習できるか？」というテーマで研究を進め、その成果を論文としてまとめて arXiv に投稿しました。画像付きデータを大量に集めるのではなく、テキストだけをうまく活用して VLM を学習させる、という少し変わったアプローチに取り組んでいます。論文はすでに公開されて... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/017e6d6253632f</guid>
-      <pubDate>Fri, 19 Dec 2025 07:49:06 +0000</pubDate>
+ 背景と課題
+近年、AIエージェントを活用したコーディング支援ツールが普及し、コードを書くこと自体のハードルは大きく下がってきました。しかし、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/8c34b08626aa88</guid>
+      <pubDate>Sat, 20 Dec 2025 06:46:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>「できる領域」のやり方を、「できない領域」に転用する——そのために必要だったのは、暗黙知を「構造化」することだった - Speee DEVELOPER BLOG</title>
+      <link>https://tech.speee.jp/entry/structuring-tacit-knowledge</link>
+      <description>※この記事は、2025 Speee Advent Calendar 22日目の記事です。昨日の記事はこちら はじめに こんにちは、SpeeeでHousiiというサービスの開発をしている新卒2年目エンジニアの北田です。 この1年で、事業として実現したいことの難易度が大きく上がりました。それに伴い、設計・調査の難易度も上がっています。結果として... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech.speee.jp/entry/structuring-tacit-knowledge</guid>
+      <pubDate>Mon, 22 Dec 2025 02:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年版: 開発環境のツールまとめ</title>
+      <link>https://zenn.dev/micin/articles/2025-12-19_k-ono65_dev_environment</link>
+      <description>この記事は MICIN Advent Calendar 2025 の 19日目の記事です。
+前回は藤原さんのペルソナの感情からはじめる肥満症治療プロダクト設計〜 Cursorで一日ハッカソンに挑んで見えたこと〜でした。
+
+ 1.はじめに
+SREチームの小野です。
+普段はAWSやGCPなどのクラウドの管理やモニタリングの整備などを行っています。
+実はIT業界に就職したのは、「映画などで黒い画面に向かってカタカタしてる人がかっこよかったから」という私にとっては、モダンなIDEよりもターミナルやvimなどの方が好みです。
+とはいえIDEでサクサクと開発している人を見るとそれはそれで憧れるので、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/micin/articles/2025-12-19_k-ono65_dev_environment</guid>
+      <pubDate>Fri, 19 Dec 2025 01:00:01 +0000</pubDate>
     </item>
     <item>
       <title>フロントエンド分割やめました</title>
@@ -118,19 +125,6 @@ RecustomerでエンジニアをしているRyoheiです。
 ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/coconala/articles/d4c30f0f582259</guid>
       <pubDate>Thu, 18 Dec 2025 13:06:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>医療業界で突然LLMを使ってくれと言われたら</title>
-      <link>https://zenn.dev/livetoon/articles/ba4536e4722187</link>
-      <description>はじめに
-「うちの病院でも生成AIを活用したい」
-「電子カルテの要約をAIでできないか」
-医療機関のDX推進担当者や、外部のシステム開発者がこのような相談を受けることが増えています。しかし医療分野でLLMを活用する場合、一般的なWebサービスとは異なる厳格なデータの要件があります。
-本記事では、2025年12月時点で日本国内の医療機関がLLMを本番利用する際に知っておくべき、規制要件とクラウドプロバイダーの選択肢について、網羅的に解説します。
-ちなみに私は元医師で、現在株式会社LivetoonでCTOとしてAI開発をしている長嶋と申します。
-また東大病院循環器内科にも所属しており、医... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/livetoon/articles/ba4536e4722187</guid>
-      <pubDate>Fri, 19 Dec 2025 01:59:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
