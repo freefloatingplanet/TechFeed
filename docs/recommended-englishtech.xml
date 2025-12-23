@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Dec 2025 06:40:47 +0000</lastBuildDate>
-    <item>
-      <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
-      <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
-      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主要な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</guid>
-      <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Okta から Python アプリにユーザーを同期する方法</title>
-      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</link>
-      <description>わずか数行のコードで、SCIM、Okta、Python、WorkOS を使用してアプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</guid>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Dec 2025 06:40:19 +0000</lastBuildDate>
     <item>
       <title>oRPC、OpenAPIサポートとエンドツーエンドの型安全性を備えたバージョン1.0をリリース</title>
       <link>https://www.infoq.com/news/2025/12/orpc-v1-typesafe/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -30,11 +16,11 @@
       <pubDate>Fri, 19 Dec 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>EUが2035年のEV目標を縮小、電気自動車スタートアップは懸念表明</title>
-      <link>https://techcrunch.com/2025/12/21/as-eu-waters-down-2035-ev-goals-electric-startups-express-concern/</link>
-      <description>未来は電気自動車になるかもしれないが、その未来は先送りされつつある。欧州委員会は柔軟性の必要性を理由に、2035年までにガソリン車の販売を禁止するという野心的な計画を緩和した。当初は新車の100%をゼロエミッション車にすることを義務付けていたが、改訂された計画では、新車の10%を[…] (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2025/12/21/as-eu-waters-down-2035-ev-goals-electric-startups-express-concern/</guid>
-      <pubDate>Sun, 21 Dec 2025 15:00:00 +0000</pubDate>
+      <title>Toad: 既存の LLM の UX を向上させる、すべての LLM 向けの統合 CLI ツール</title>
+      <link>https://www.infoq.com/news/2025/12/llm-agent-cli/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Rich and Textual（テキストユーザーインターフェース（TUI）を作成するためのフレームワーク）の開発者であるウィル・マクグガン氏は、休暇中に自身のUIスキルを活かしてToadを開発しました。この新しく公開されたツールは、ターミナル上の複数のコーディングエージェントに、エージェント通信プロトコル（ACP）を介して同じツールからアクセスできる、統一された「美しい」GUIを提供することを目指しています。Olimpiu Pop著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/llm-agent-cli/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 22 Dec 2025 12:12:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOSの内部</title>
@@ -51,6 +37,20 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>プレゼンテーション: DevOps はプロダクトエンジニアにも有効</title>
+      <link>https://www.infoq.com/presentations/devops-product-engineers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>レスリー・コルデロは、組織の拡大のための社会技術的ソリューションとしてのプラットフォームエンジニアリングについて論じます。CALMSフレームワーク、信頼性と速度の間の「緊張の振り子」、そして受動的なリーダーシップから能動的なリーダーシップへの移行方法について解説します。共同学習と分散型権力に焦点を当てることで、人間の幸福を犠牲にすることなく、回復力のあるシステムを構築する方法を共有します。レスリー・コルデロ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/devops-product-engineers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 22 Dec 2025 14:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ポッドキャスト: OpenJDK と JCP エキスパート グループの最新情報: Simon Ritter による考察</title>
+      <link>https://www.infoq.com/podcasts/latest-open-java-development-kit/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>このエピソードでは、Azulの副CTOであるサイモン・リッター氏が、ポッドキャストのホストでありInfoQのJavaトピックのリードエディターであるマイケル・レッドリッヒ氏と対談し、OpenJDKの最新機能と、JDK 9以来JCPエキスパートグループに所属するサイモン氏の経験について語りました。OpenJDKのトピックには、6ヶ月リリースサイクル、世代別Shenandoah、JDKフライトレコーダー、Project Leyden、コンパクトオブジェクトヘッダーなどが含まれていました。サイモン・リッター (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/podcasts/latest-open-java-development-kit/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 22 Dec 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>AWS、コンテナ化されたアプリケーションのデプロイメントを簡素化するECS Express Modeを発表</title>
       <link>https://www.infoq.com/news/2025/12/aws-ecs-express-mode/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>AWSはAmazon ECS Express Modeをリリースしました。これにより、コンテナ化されたウェブアプリケーションとAPIのデプロイプロセスが簡素化されます。Express Modeを使用すると、IAMロール、ロードバランサー、スケーリングといった通常必要な追加要件を省略し、本番環境対応のサービスを一括でデプロイできます。Matt Saunders著 (source: InfoQ)</description>
@@ -65,18 +65,18 @@
       <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
     </item>
     <item>
+      <title>ターゲット、生成AIレコメンデーションでカートに追加インタラクションを11%向上</title>
+      <link>https://www.infoq.com/news/2025/12/target-genai-model-recommend/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ターゲットは、GenAIを活用したホームカテゴリー向けアクセサリー推奨システム「GRAM」を導入しました。大規模言語モデルを用いて商品属性の優先順位付けを行い、美的統一性も捉えています。このシステムは、買い物客が好みのアクセサリーを見つけるのを支援し、人間によるキュレーションを統合することで、エンゲージメントとコンバージョンの目に見える改善を実現しました。リーラ・クミリ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/target-genai-model-recommend/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 22 Dec 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Javaニュースまとめ: GlassFish、TornadoVM、Spring Shell、WildFly、Hibernate、Kotlin</title>
       <link>https://www.infoq.com/news/2025/12/java-news-roundup-dec15-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>今週の2025年12月15日版Javaラウンドアップでは、GlassFish 8.0の15番目のマイルストーンリリース、Spring Shell 4.0の最初のリリース候補、TornadoVM、Hibernate Reactive、Hibernate Search、Kotlinのポイントリリース、WildFly 39の最初のベータリリース、Micronaut HelidonとVert.xのメンテナンスリリースなど、注目すべきニュースを取り上げます。Michael Redlich著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2025/12/java-news-roundup-dec15-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 22 Dec 2025 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>記事：AI時代の建築家の立場</title>
-      <link>https://www.infoq.com/articles/architects-ai-era/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AIがツールから協働者へと進化するにつれ、アーキテクトは手作業による設計からメタ設計へと移行する必要があります。この記事では、この移行を支援する「3つのループ」（In、On、Out）フレームワークを紹介します。監督と委任のバランスを取り、スキルの衰退などのリスクを軽減し、AI拡張システムを安全に保ち、人間の意図に沿ったガバナンス構造を設計する方法を探ります。Dave Holliday、João Carlos Gonçalves、Manoj Kumar Yadav (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/architects-ai-era/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 19 Dec 2025 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Dec 2025 06:40:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 06:40:10 +0000</lastBuildDate>
+    <item>
+      <title>新卒がfreee会計の開発で学んだ「図解」という武器 - freee Developers Hub</title>
+      <link>https://developers.freee.co.jp/entry/understanding-complex-domain-with-diagrams</link>
+      <description>この記事は、freee Developers Advent Calendar 2025の 23日目の記事です。 adventar.org こんにちは！最近ようやくわからないことがわかってきた25卒のtakaです。普段はfreee会計のチームでエンジニアをしています。 今回は、AIで生産性を向上した・課題解決したといったキラキラした話ではないです。新卒1年目の私が「... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://developers.freee.co.jp/entry/understanding-complex-domain-with-diagrams</guid>
+      <pubDate>Tue, 23 Dec 2025 01:27:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Figmaやめて、AIとコードでUIを作り始めた話</title>
+      <link>https://zenn.dev/aishift/articles/3e211e67e3dc14</link>
+      <description>こんにちは、AI ShiftでUI/UXデザイナーをやってる後藤です。この記事はAI Shift Advent Calendar 2025の21日目の記事です。 この記事は、Figmaの使用をいったん停止して、AIとコードでUIデザインをするとどうなるのか、という経過報告です。 実験の途中ですので、まだ成功も失敗もはっきりしておりません。なので、本日... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/aishift/articles/3e211e67e3dc14</guid>
+      <pubDate>Mon, 22 Dec 2025 03:43:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>なぜ「何でも作れる時代」に私は作れないのか - じゃあ、おうちで学べる</title>
+      <link>https://syu-m-5151.hatenablog.com/entry/2025/12/22/135517</link>
+      <description>はじめに 年末、2025年を振り返る。フォロワーは7倍になった。副業も順調。書籍の執筆や翻訳にも関わった。登壇の依頼も増えた。どこからどう見ても、良い年だったはずだ。 なのに、胸の奥に澱のようなものが溜まっている。 コードは書いた。山ほど書いた。でもそれは、誰かに頼まれたコードだ。お金になるコード。評価... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://syu-m-5151.hatenablog.com/entry/2025/12/22/135517</guid>
+      <pubDate>Mon, 22 Dec 2025 06:22:35 +0000</pubDate>
+    </item>
     <item>
       <title>タイミーの1,200万超ユーザーを支える認証基盤を Go と Ory Hydra で作っている話</title>
       <link>https://zenn.dev/7riatsu/articles/e2fbba2c65904d</link>
@@ -20,33 +41,29 @@ Worker IdP は、タイミーで働くワーカー（エンドユーザー）向
       <pubDate>Sat, 20 Dec 2025 23:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>「今さら聞けない...」認証・認可まわりをざっと復習しよう</title>
-      <link>https://zenn.dev/isawa/articles/2b84d7d6b2f207</link>
-      <description>概要
-どうも、どすこいです！
-本記事はCloud Pratica Advent Calendar 2025の19日目です！
-本記事では実務で困らないための認証・認可まわりの知識をできるだけ整理してまとめます。
-ログイン機能を実装する中でよく出てくる用語や仕組みを中心に、「なんとなく使っている状態」から一歩抜け出すことを目的としています。
-
- 対象読者
-本記事では以下のような方を想定しています。
-
-認証・認可について「雰囲気では分かっているが、中身を説明できない」と感じている方
-認証・認可の仕組みを深く理解しないまま、ログイン機能を実装している方
-Cookie/セッション/JWT/OA... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/isawa/articles/2b84d7d6b2f207</guid>
-      <pubDate>Fri, 19 Dec 2025 11:00:01 +0000</pubDate>
+      <title>最速最強の Markdown コンパイラ作るぞ</title>
+      <link>https://zenn.dev/mizchi/articles/markdown-incremental-preview</link>
+      <description>人生で5度目ぐらいの Markdown Editor 実装をしました。今回が最速です。
+ここで試せます。
+https://markdown.mizchi.workers.dev/
+実際に地上最速かはいろんなパフォーマンスの軸があるのでなんとも言えないんですが、少なくともエディタ上のインクリメンタルコンパイルという視点では、他に負けないと思います。(ベンチマークは記事後半にあります)
+自分で言うのもなんですが、とにかく速いです。差分コンパイルなので分量が多くても耐えます。プレビューと編集の自動同期が便利で。試しに20000文字突っ込んでも表示ラグはなく、 60fps を維持しています。
+F... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mizchi/articles/markdown-incremental-preview</guid>
+      <pubDate>Sun, 21 Dec 2025 10:51:25 +0000</pubDate>
     </item>
     <item>
-      <title>CF WorkersでNodeJS依存ライブラリが使えない？できらぁ！！！～黒魔術ViteプラグインでNodeJS依存関数を透過的に呼ぶ話～</title>
-      <link>https://zenn.dev/inaridiy/articles/80ad405279e3fe</link>
-      <description>この記事は、Cloudflare Advent Calendar 2025の二十日目の記事です。
+      <title>AIエージェントの最前線~シングルからマルチAIエージェントへの進化につながる技術とマルチAIエージェントの現在地~</title>
+      <link>https://zenn.dev/mkj/articles/10ee4ced3d7aaf</link>
+      <description>この記事は松尾研究所 Advent Calendar 2025の19日目の記事です。
 
  はじめに
-みなさん、Cloudflare Workers使ってますか！？ 安くて、他のCloudflare製品群とService Bindingsで簡単に結合出来て、課金体系がLLMと相性が良くて最高なので、僕はよく使っています。
-これらのメリットは、Cloudflare Workers が V8 ベースの独自ランタイムで動くことに起因しますが、同時に大きなデメリットももたらしてしまいます。つまり、@napi-rs/canvas、pdfjs-dist、playwright など Node... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/inaridiy/articles/80ad405279e3fe</guid>
-      <pubDate>Sat, 20 Dec 2025 07:43:10 +0000</pubDate>
+松尾研究所のデータサイエンスチームでマネージャーを務めています長谷です。
+松尾研究所では、企業との取り組みをさらに加速するためにR&amp;Dの取り組みを開始し、AIの社会実装に向けた最新技術の調査と、重点研究開発領域の選定・実施を進めています。
+本記事では、その取り組みの一環として実施したマルチAIエージェントに関するサーベイ結果の一部を紹介します。本取り組みは弊社メンバーの太田さん、大西さん、尾崎さん、北さん、橋本さん、渡邊さん(五十音順)と共に実施しました。
+非常に長文ですので、興味... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mkj/articles/10ee4ced3d7aaf</guid>
+      <pubDate>Mon, 22 Dec 2025 02:50:01 +0000</pubDate>
     </item>
     <item>
       <title>転職して4ヶ月、開発チームのリードを任されてやってきたこと</title>
@@ -54,24 +71,10 @@ Cookie/セッション/JWT/OA... (source: Zennのトレンド)</description>
       <description>この記事は MOSH Advent Calendar 2025 の21日目の記事です。
 
 こんにちは！勝間（@ryo_katsuma）です。今年の8月にMOSHに入社して、現在は新規機能開発チームでリードを担当しています。
-前職のクックパッドには16年ほど在籍していました。大人数の開発チームのリードや、新規事業での開発組織のマネージャーなど、いろいろな経験をさせてもらいました。そんな背景もあって、MOSHに入社してまもなく、現在所属している開発チームのリードを任せてもらうことになりました。チームはエンジニア4名（私含む）、PdM1名、デザイナ1名の小規模なスクラムチームです。
-入社して4... (source: Zennのトレンド)</description>
+前職のクックパッドには16年ほど在籍していました。大人数の開発チームのリードや、新規事業での開発組織のマネージャーなど、いろいろな経験をさせてもらいましたが、そんな背景もあって、MOSHに入社してまもなく、現在所属している開発チームのリードを任せてもらうことになりました。チームはエンジニア4名（私含む）、PdM1名、デザイナ1名の小規模なスクラムチームです。
+入社して... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/moshjp/articles/e9518202e77b65</guid>
       <pubDate>Sat, 20 Dec 2025 23:59:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【書評】小さく作って深く学ぶGo──『Learn Go with Pocket-Sized Projects』</title>
-      <link>https://zenn.dev/pythocial/articles/ae7b8e6193e441</link>
-      <description>はじめに
-社内の掲示板で名前が挙がっていた『Learn Go with Pocket-Sized Projects』が気になったので読んでみたところ、思いもよらず自分にとって読みやすいスタイルで、時間はかかったものの最後までじっくり読み切ってしまいました。
-この記事では、いくつかの章を抜粋して紹介しつつ、この本の学習体験の良さという観点から、全体の感想をまとめます。
-どんな本？：
-
-11種類ものプロジェクトを用いて、各章ごとに Go プロジェクトの作成方法を伴走で教えてくれる本
-著者陣はエアバスグループで長らく Go を使ってきたフランスのシニアエンジニアたち
-2025年5月に出版、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pythocial/articles/ae7b8e6193e441</guid>
-      <pubDate>Sat, 20 Dec 2025 15:00:02 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「ジュニア開発者をAIで置き換えるのは最悪のアイデア」とAWSのCEOが語り大きな話題に</title>
@@ -94,37 +97,11 @@ Ubieでプラットフォームエンジニア兼SREをしているonoteruです
       <pubDate>Sat, 20 Dec 2025 06:46:10 +0000</pubDate>
     </item>
     <item>
-      <title>「できる領域」のやり方を、「できない領域」に転用する——そのために必要だったのは、暗黙知を「構造化」することだった - Speee DEVELOPER BLOG</title>
-      <link>https://tech.speee.jp/entry/structuring-tacit-knowledge</link>
-      <description>※この記事は、2025 Speee Advent Calendar 22日目の記事です。昨日の記事はこちら はじめに こんにちは、SpeeeでHousiiというサービスの開発をしている新卒2年目エンジニアの北田です。 この1年で、事業として実現したいことの難易度が大きく上がりました。それに伴い、設計・調査の難易度も上がっています。結果として... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tech.speee.jp/entry/structuring-tacit-knowledge</guid>
-      <pubDate>Mon, 22 Dec 2025 02:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025年版: 開発環境のツールまとめ</title>
-      <link>https://zenn.dev/micin/articles/2025-12-19_k-ono65_dev_environment</link>
-      <description>この記事は MICIN Advent Calendar 2025 の 19日目の記事です。
-前回は藤原さんのペルソナの感情からはじめる肥満症治療プロダクト設計〜 Cursorで一日ハッカソンに挑んで見えたこと〜でした。
-
- 1.はじめに
-SREチームの小野です。
-普段はAWSやGCPなどのクラウドの管理やモニタリングの整備などを行っています。
-実はIT業界に就職したのは、「映画などで黒い画面に向かってカタカタしてる人がかっこよかったから」という私にとっては、モダンなIDEよりもターミナルやvimなどの方が好みです。
-とはいえIDEでサクサクと開発している人を見るとそれはそれで憧れるので、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/micin/articles/2025-12-19_k-ono65_dev_environment</guid>
-      <pubDate>Fri, 19 Dec 2025 01:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>フロントエンド分割やめました</title>
-      <link>https://zenn.dev/coconala/articles/d4c30f0f582259</link>
-      <description>こちらは株式会社ココナラ Advent Calendar 2025 19日目の記事です。
-こんにちは。ココナラ法律相談で開発を担当している高崎です。
-以前、こちらの記事でRailsのモノリスから管理画面をReactへ段階的に移行する取り組みについて書きました。
-結論から言うと、現在のチームフェーズと事業優先度を鑑み、この「フロントエンド分割（リプレイス）」という方針を中断し、Rails（ERB）主体の開発体制に戻す決断をしました。
-今回は、なぜ一度始めたリプレイスを中断するに至ったのか。その背景にある「事業優先の力学」と「合意形成の難しさ」について、自戒を込めて振り返りたいと思います。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/coconala/articles/d4c30f0f582259</guid>
-      <pubDate>Thu, 18 Dec 2025 13:06:20 +0000</pubDate>
+      <title>AI で日本語の長文を校正する - 山下泰平の趣味の方法</title>
+      <link>https://cocolog-nifty.hatenablog.com/entry/2025/12/22/124436</link>
+      <description>50万文字の日本語長文を書いた。 長文なので、当然ながら全体的につながっている。書きながら、あれはどうだっけというようなことが頻繁に起きてかなり困った。なので脳のリソースを維持するため、色々工夫をしたんだけど、その中で「誤字を気にしない」というのがある。 私は誤字が多い。だからこれを気にすることで脳... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://cocolog-nifty.hatenablog.com/entry/2025/12/22/124436</guid>
+      <pubDate>Mon, 22 Dec 2025 14:00:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

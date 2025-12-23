@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Dec 2025 06:40:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 06:40:14 +0000</lastBuildDate>
     <item>
-      <title>NeuRehab: 強化学習とスパイキングニューラルネットワークに基づくリハビリ自動化フレームワーク</title>
-      <link>https://arxiv.org/abs/2512.17841v1</link>
-      <description>ロボットリハビリテーション療法の近年の進歩により、脳卒中後の筋肉回復のための基本的な制御スキームを備えたモジュール式運動システムが提供されています。しかし、これらのシステムは、患者の複雑で絶えず変化する行動への適応や、熱や電力といった移動環境下での動作に課題を抱えています。これを解決するため、本研究ではNeuRehabを紹介します。これは、AIベースの自動化機能を備えたトレーニングおよび推論パイプラインと、動作パフォーマンス、消費電力、観測遅延のバランスをとるニューロモルフィック・コンピューティングベースの制御システムを組み合わせたエンドツーエンドのフレームワークです。このフレームワークは2つのパーティションで構成されています。1つは、専用のニューロモルフィック・ハードウェア上に展開された超低消費電力スパイク・ネットワークに基づくリハビリテーション装置用です。もう1つは、患者ごとに微調整を行うための計算集約型ハードウェアを搭載できる据置型ハードウェア上に配置されています。両モジュール間の通信チャネルを維持し、アルゴリズムコンポーネントを分割することで、据置型マシン上の計算量と電力を大量 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2512.17841v1</guid>
-      <pubDate>Fri, 19 Dec 2025 17:47:14 +0000</pubDate>
+      <title>CLIPを超えて：糖尿病網膜症診断におけるクロスモーダルアライメントのための知識強化型マルチモーダルトランスフォーマー</title>
+      <link>https://arxiv.org/abs/2512.19663v1</link>
+      <description>糖尿病網膜症（DR）は世界中で予防可能な失明の主な原因であり、正確な自動診断システムが求められています。コントラスト言語画像事前学習（CLIP）などの一般領域の視覚言語モデルは自然画像タスクでは優れた性能を発揮しますが、医療分野のアプリケーション、特に眼科画像のクロスモーダル検索では苦戦しています。本研究では、網膜眼底画像、臨床テキスト、構造化患者データをマルチモーダルトランスフォーマーアーキテクチャを介して統合する、知識強化型の新しい共同埋め込みフレームワークを提案します。このフレームワークは、医療画像とテキストの整合における重大なギャップを解消します。本アプローチでは、網膜画像にはVision Transformer（ViT-B/16）、臨床ナラティブにはBio-ClinicalBERT、構造化人口統計学的および臨床的特徴には多層パーセプトロンという、各モダリティに個別のエンコーダを採用しています。これらのモダリティは、モダリティペア間のコントラスト損失、画像とテキストの再構成損失、ICDRおよびSDRGスキームに従ったDR重症度グレーディングの分類損失など、複数の目的を使用してト (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.19663v1</guid>
+      <pubDate>Mon, 22 Dec 2025 18:41:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
