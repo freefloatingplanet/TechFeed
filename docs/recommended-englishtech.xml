@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Dec 2025 06:40:19 +0000</lastBuildDate>
-    <item>
-      <title>oRPC、OpenAPIサポートとエンドツーエンドの型安全性を備えたバージョン1.0をリリース</title>
-      <link>https://www.infoq.com/news/2025/12/orpc-v1-typesafe/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>型安全なAPIを構築するための最先端のTypeScriptライブラリ、oRPC 1.0をご紹介します。OpenAPIとの完全な統合により、安定した本番環境対応ソリューションを提供します。主な機能には、エンタープライズグレードの型安全性、複雑な型のサポート、そして一般的なフレームワークとのシームレスな統合が含まれます。優れたパフォーマンスと包括的な移行ガイドを備えたoRPCは、現代のAPI開発における選択肢として注目を集めています。ダニエル・カーティス著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/orpc-v1-typesafe/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 19 Dec 2025 16:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Dec 2025 06:40:03 +0000</lastBuildDate>
     <item>
       <title>Toad: 既存の LLM の UX を向上させる、すべての LLM 向けの統合 CLI ツール</title>
       <link>https://www.infoq.com/news/2025/12/llm-agent-cli/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -37,16 +30,23 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション: DevOps はプロダクトエンジニアにも有効</title>
+      <title>プレゼンテーション: DevOps はプロダクトエンジニアにも有効です</title>
       <link>https://www.infoq.com/presentations/devops-product-engineers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>レスリー・コルデロは、組織の拡大のための社会技術的ソリューションとしてのプラットフォームエンジニアリングについて論じます。CALMSフレームワーク、信頼性と速度の間の「緊張の振り子」、そして受動的なリーダーシップから能動的なリーダーシップへの移行方法について解説します。共同学習と分散型権力に焦点を当てることで、人間の幸福を犠牲にすることなく、回復力のあるシステムを構築する方法を共有します。レスリー・コルデロ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/devops-product-engineers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 22 Dec 2025 14:42:00 +0000</pubDate>
     </item>
     <item>
+      <title>記事: スケーラブルなストリーミングインフラの構築: 視聴者は明日まで待てない</title>
+      <link>https://www.infoq.com/articles/evolution-backend-streaming-application/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ストリーミングでは、課題はすぐに発生します。顧客は今まさにテレビを見ており、明日見る予定はありません。ゴールデンタイムにシステムが故障した場合、回復の見込みはありません。視聴者は離れてしまい、二度と戻ってこない可能性があります。1年半前、ProSiebenSat.1 Media SEでは、国際的なユーザー向けにストリーミングアプリケーションを拡張するという課題に直面しました。ダニエル・フラスカ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/evolution-backend-streaming-application/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 23 Dec 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ポッドキャスト: OpenJDK と JCP エキスパート グループの最新情報: Simon Ritter による考察</title>
       <link>https://www.infoq.com/podcasts/latest-open-java-development-kit/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>このエピソードでは、Azulの副CTOであるサイモン・リッター氏が、ポッドキャストのホストでありInfoQのJavaトピックのリードエディターであるマイケル・レッドリッヒ氏と対談し、OpenJDKの最新機能と、JDK 9以来JCPエキスパートグループに所属するサイモン氏の経験について語りました。OpenJDKのトピックには、6ヶ月リリースサイクル、世代別Shenandoah、JDKフライトレコーダー、Project Leyden、コンパクトオブジェクトヘッダーなどが含まれていました。サイモン・リッター (source: InfoQ)</description>
+      <description>このエピソードでは、Azulの副CTOであるサイモン・リッター氏が、ポッドキャストのホストでありInfoQのJavaトピックのリードエディターであるマイケル・レッドリッヒ氏と対談し、OpenJDKの最新機能と、JDK 9以来のJCPエキスパートグループでのサイモン氏の経験について語りました。OpenJDKのトピックには、6ヶ月リリースサイクル、世代別Shenandoah、JDKフライトレコーダー、Project Leyden、コンパクトオブジェクトヘッダーなどが含まれていました。サイモン・リッター (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/podcasts/latest-open-java-development-kit/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 22 Dec 2025 11:00:00 +0000</pubDate>
     </item>

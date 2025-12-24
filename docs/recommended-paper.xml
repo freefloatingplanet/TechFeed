@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Dec 2025 06:40:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 06:39:59 +0000</lastBuildDate>
     <item>
-      <title>CLIPを超えて：糖尿病網膜症診断におけるクロスモーダルアライメントのための知識強化型マルチモーダルトランスフォーマー</title>
-      <link>https://arxiv.org/abs/2512.19663v1</link>
-      <description>糖尿病網膜症（DR）は世界中で予防可能な失明の主な原因であり、正確な自動診断システムが求められています。コントラスト言語画像事前学習（CLIP）などの一般領域の視覚言語モデルは自然画像タスクでは優れた性能を発揮しますが、医療分野のアプリケーション、特に眼科画像のクロスモーダル検索では苦戦しています。本研究では、網膜眼底画像、臨床テキスト、構造化患者データをマルチモーダルトランスフォーマーアーキテクチャを介して統合する、知識強化型の新しい共同埋め込みフレームワークを提案します。このフレームワークは、医療画像とテキストの整合における重大なギャップを解消します。本アプローチでは、網膜画像にはVision Transformer（ViT-B/16）、臨床ナラティブにはBio-ClinicalBERT、構造化人口統計学的および臨床的特徴には多層パーセプトロンという、各モダリティに個別のエンコーダを採用しています。これらのモダリティは、モダリティペア間のコントラスト損失、画像とテキストの再構成損失、ICDRおよびSDRGスキームに従ったDR重症度グレーディングの分類損失など、複数の目的を使用してト (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2512.19663v1</guid>
-      <pubDate>Mon, 22 Dec 2025 18:41:45 +0000</pubDate>
+      <title>太極重力波探査ミッションにおける科学観測モードにおける宇宙機慣性センサ質量中心オフセットの校正方法</title>
+      <link>https://arxiv.org/abs/2512.20468v1</link>
+      <description>宇宙船 (SC) と慣性センサーテストマス (TM) 間の質量中心 (CoM) オフセットを正確に較正することは、LISA や Taiji などの宇宙ベースの重力波 (GW) アンテナにとって極めて重要です。現在の較正方法では、科学データの連続性と衛星間リンクを中断する追加の宇宙船操作が必要であり、重力波信号のコヒーレンスが損なわれます。ここでは、慣性センサー、干渉計、微分波面センサーからの標準的な科学モード測定値のみを使用して、CoM オフセットベクトルを直接推定する、操作不要の較正方式を紹介します。モデルベースの適応型カルマンフィルターに CoM オフセットによって誘発される結合加速度を拡張状態として埋め込むことで、すべての軸にわたって 0.01～1.5 mm の推定精度を最大 1% 未満の誤差で実現します。このアプローチにより、定常観測期間中の継続的かつ高精度な較正が可能になり、必要な精度を維持しながら継続的かつ一貫した重力波データ収集が保証されるとともに、性能評価や故障診断といったDFACSの高度な機能も容易になります。微弱な重力波信号の検出にはデータの連続性が不可欠となるLI (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.20468v1</guid>
+      <pubDate>Tue, 23 Dec 2025 16:03:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

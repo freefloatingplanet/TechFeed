@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Dec 2025 06:40:10 +0000</lastBuildDate>
-    <item>
-      <title>新卒がfreee会計の開発で学んだ「図解」という武器 - freee Developers Hub</title>
-      <link>https://developers.freee.co.jp/entry/understanding-complex-domain-with-diagrams</link>
-      <description>この記事は、freee Developers Advent Calendar 2025の 23日目の記事です。 adventar.org こんにちは！最近ようやくわからないことがわかってきた25卒のtakaです。普段はfreee会計のチームでエンジニアをしています。 今回は、AIで生産性を向上した・課題解決したといったキラキラした話ではないです。新卒1年目の私が「... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://developers.freee.co.jp/entry/understanding-complex-domain-with-diagrams</guid>
-      <pubDate>Tue, 23 Dec 2025 01:27:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Figmaやめて、AIとコードでUIを作り始めた話</title>
-      <link>https://zenn.dev/aishift/articles/3e211e67e3dc14</link>
-      <description>こんにちは、AI ShiftでUI/UXデザイナーをやってる後藤です。この記事はAI Shift Advent Calendar 2025の21日目の記事です。 この記事は、Figmaの使用をいったん停止して、AIとコードでUIデザインをするとどうなるのか、という経過報告です。 実験の途中ですので、まだ成功も失敗もはっきりしておりません。なので、本日... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/aishift/articles/3e211e67e3dc14</guid>
-      <pubDate>Mon, 22 Dec 2025 03:43:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜ「何でも作れる時代」に私は作れないのか - じゃあ、おうちで学べる</title>
-      <link>https://syu-m-5151.hatenablog.com/entry/2025/12/22/135517</link>
-      <description>はじめに 年末、2025年を振り返る。フォロワーは7倍になった。副業も順調。書籍の執筆や翻訳にも関わった。登壇の依頼も増えた。どこからどう見ても、良い年だったはずだ。 なのに、胸の奥に澱のようなものが溜まっている。 コードは書いた。山ほど書いた。でもそれは、誰かに頼まれたコードだ。お金になるコード。評価... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://syu-m-5151.hatenablog.com/entry/2025/12/22/135517</guid>
-      <pubDate>Mon, 22 Dec 2025 06:22:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>タイミーの1,200万超ユーザーを支える認証基盤を Go と Ory Hydra で作っている話</title>
-      <link>https://zenn.dev/7riatsu/articles/e2fbba2c65904d</link>
-      <description>はじめに
-こんにちは。タイミー CTO 室の成田（@7riatsu）です。
-現在、タイミーは 1,200 万人以上のワーカーの皆様にご利用いただいています。そんなタイミーの認証基盤をゼロから作り直しています。
-本記事では、CTO 室で開発を進めている Worker IdP（Identity Provider）について、技術選定やアーキテクチャ、Ory Hydra を選んだ理由、1,200 万人のデータ移行の品質保証の仕組みを、実際の設計判断を踏まえて紹介します。
-Worker IdP は、タイミーで働くワーカー（エンドユーザー）向けの認証基盤です。セキュリティ強化や今後の事業展開を見... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/7riatsu/articles/e2fbba2c65904d</guid>
-      <pubDate>Sat, 20 Dec 2025 23:00:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Dec 2025 06:39:53 +0000</lastBuildDate>
     <item>
       <title>最速最強の Markdown コンパイラ作るぞ</title>
       <link>https://zenn.dev/mizchi/articles/markdown-incremental-preview</link>
@@ -53,28 +21,47 @@ F... (source: Zennのトレンド)</description>
       <pubDate>Sun, 21 Dec 2025 10:51:25 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントの最前線~シングルからマルチAIエージェントへの進化につながる技術とマルチAIエージェントの現在地~</title>
-      <link>https://zenn.dev/mkj/articles/10ee4ced3d7aaf</link>
-      <description>この記事は松尾研究所 Advent Calendar 2025の19日目の記事です。
-
- はじめに
-松尾研究所のデータサイエンスチームでマネージャーを務めています長谷です。
-松尾研究所では、企業との取り組みをさらに加速するためにR&amp;Dの取り組みを開始し、AIの社会実装に向けた最新技術の調査と、重点研究開発領域の選定・実施を進めています。
-本記事では、その取り組みの一環として実施したマルチAIエージェントに関するサーベイ結果の一部を紹介します。本取り組みは弊社メンバーの太田さん、大西さん、尾崎さん、北さん、橋本さん、渡邊さん(五十音順)と共に実施しました。
-非常に長文ですので、興味... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mkj/articles/10ee4ced3d7aaf</guid>
-      <pubDate>Mon, 22 Dec 2025 02:50:01 +0000</pubDate>
+      <title>アップルの「AirTag」より優れた紛失防止タグを見つけた話</title>
+      <link>https://japan.cnet.com/article/35242005/</link>
+      <description>（国内編集部注：日本では商品名「Pebblebee」として同ブランドの紛失防止タグが販売中。 紛失防止タグの分野で、AppleのAirTagが“王道”の存在であることは間違いない。最大の理由は、正確無比な「探す」機能にある。位置をかなりの精度で特定でき、探し物の場所を一気に絞り込める。 ただし、完成度が高い一方で、使っ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://japan.cnet.com/article/35242005/</guid>
+      <pubDate>Tue, 23 Dec 2025 12:46:41 +0000</pubDate>
     </item>
     <item>
-      <title>転職して4ヶ月、開発チームのリードを任されてやってきたこと</title>
-      <link>https://zenn.dev/moshjp/articles/e9518202e77b65</link>
-      <description>この記事は MOSH Advent Calendar 2025 の21日目の記事です。
+      <title>今年お世話になったTypeScriptの型集</title>
+      <link>https://zenn.dev/nokazn/articles/2025-type-utilities</link>
+      <description>はじめに
+この記事はWano Group Advent Calendar 2025の18日目の記事です。
+普段自分はTypeScript / React / Next.jsなどを使用して主にフロントエンドの開発をしているのですが、その中で2025年によく使用した型をいくつか挙げていこうと思います。
+ちなみに下記のうち🛠️マークがついているものは自前で定義した型ですが、ユーテリティ型を提供するライブラリ等でも同等（or それ以上）の機能を提供しているものもあるとは思います。
+できるだけ外部への依存を減らしたい目的もあり、自前で定義できそうなものは必要な分だけ
+定義しています。
 
-こんにちは！勝間（@ryo_katsuma）です。今年の8月にMOSHに入社して、現在は新規機能開発チームでリードを担当しています。
-前職のクックパッドには16年ほど在籍していました。大人数の開発チームのリードや、新規事業での開発組織のマネージャーなど、いろいろな経験をさせてもらいましたが、そんな背景もあって、MOSHに入社してまもなく、現在所属している開発チームのリードを任せてもらうことになりました。チームはエンジニア4名（私含む）、PdM1名、デザイナ1名の小規模なスクラムチームです。
-入社して... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/moshjp/articles/e9518202e77b65</guid>
-      <pubDate>Sat, 20 Dec 2025 23:59:53 +0000</pubDate>
+ 🛠️... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nokazn/articles/2025-type-utilities</guid>
+      <pubDate>Mon, 22 Dec 2025 09:01:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>開発環境をRustで染まりたい</title>
+      <link>https://zenn.dev/tsubasa_ryuto/articles/13588a7236f578</link>
+      <description>今まで何も考えず、MacOS標準のBashを使い、いつの日かZshが標準となり、そのまま使い続けていました。
+エディタもVimから始まり、なんとなく人気のNeovimに移行。少しカスタマイズはするものの、多機能なNeovimを使いきれていない自分にモヤモヤしていました。 ターミナルもApple純正からiTerm2に変えてみたものの、「まー、みんな使ってるし」と特にこだわりなく使い続けていました。
+ふと、「エンジニアとして、それでいいの？」
+そんな疑問が湧きました。
+最近、Rustでキーボードファームウェアを書いており、ぼんやりと将来的にOSS活動もしたいなーと思っている中で、「自分が毎日... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tsubasa_ryuto/articles/13588a7236f578</guid>
+      <pubDate>Mon, 22 Dec 2025 23:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pythonを書くなら、Ruffのルールページは最高の教材だと思う（AI時代の学び方）</title>
+      <link>https://zenn.dev/layerx/articles/28498105e81a4f</link>
+      <description>この記事は LayerX Tech Advent Calendar 2025 23日目の記事です。
+Ai Workforce事業部 プロダクト部 FDEグループ エンジニアの 堤 です。
+本記事では、プログラムを書き始めたばかりの頃に Pythonの静的解析ツールである Ruff のエラー修正を通じて学んだ経験と、それを踏まえて作った ruff-tutor-mcp というMCPサーバー、そしてAIコーディング時代の学び方について書きたいと思います。
+
+最近、エンジニアのみなさんはコーディングエージェントを使っているのではないでしょうか。特に、Claude Codeがリリースされてからそ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/layerx/articles/28498105e81a4f</guid>
+      <pubDate>Tue, 23 Dec 2025 03:00:02 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「ジュニア開発者をAIで置き換えるのは最悪のアイデア」とAWSのCEOが語り大きな話題に</title>
@@ -84,24 +71,59 @@ F... (source: Zennのトレンド)</description>
       <pubDate>Thu, 18 Dec 2025 21:24:24 +0000</pubDate>
     </item>
     <item>
-      <title>PR単位で動作確認がしたい！</title>
-      <link>https://zenn.dev/ubie_dev/articles/8c34b08626aa88</link>
-      <description>始めに
-Ubieでプラットフォームエンジニア兼SREをしているonoteruです。
-今回は、Ubieで運用しているpreview環境と呼ばれる仕組みについて紹介します。preview環境は、プルリクエストごとに動作確認ができる環境を提供する仕組みです。この環境により、開発者の動作確認のボトルネックを解消し、開発効率の向上を実現しています。
-なお、本記事はUbie Tech Advent Calendar 2025 20日目の記事となります。
+      <title>CTOをやめようと思っている話✨</title>
+      <link>https://zenn.dev/ryosukeiketeru/articles/893d86fbc7ffa8</link>
+      <description>CTOをやめようと思う
+ただし、今すぐではないです。これを見た社員や投資家の方は、びっくりしないでくださいね。
+これは辞めます宣言ではなくて、この1年のMOSHの成長と、プロダクトづくりを取り巻く環境の変化を踏まえて、今後の自分の価値発揮の仕方を改めて見直している、という話です。
+そして結論から言うと、最近、こう思うようになりました。
+CTOより、CTO以外の方が価値が出る局面が来るかもしれないな〜と
+今日はその背景にある、MOSHの現在地と、これからの僕の役割について...の思考を書いてみたいと思います。
 
- 背景と課題
-近年、AIエージェントを活用したコーディング支援ツールが普及し、コードを書くこと自体のハードルは大きく下がってきました。しかし、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/8c34b08626aa88</guid>
-      <pubDate>Sat, 20 Dec 2025 06:46:10 +0000</pubDate>
+ ファウンディングエンジニアとしての8年
+まず簡単に自己紹介を。
+僕はMO... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ryosukeiketeru/articles/893d86fbc7ffa8</guid>
+      <pubDate>Tue, 23 Dec 2025 16:13:47 +0000</pubDate>
     </item>
     <item>
-      <title>AI で日本語の長文を校正する - 山下泰平の趣味の方法</title>
-      <link>https://cocolog-nifty.hatenablog.com/entry/2025/12/22/124436</link>
-      <description>50万文字の日本語長文を書いた。 長文なので、当然ながら全体的につながっている。書きながら、あれはどうだっけというようなことが頻繁に起きてかなり困った。なので脳のリソースを維持するため、色々工夫をしたんだけど、その中で「誤字を気にしない」というのがある。 私は誤字が多い。だからこれを気にすることで脳... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://cocolog-nifty.hatenablog.com/entry/2025/12/22/124436</guid>
-      <pubDate>Mon, 22 Dec 2025 14:00:22 +0000</pubDate>
+      <title>Figmaやめて、AIとコードでUIを作り始めた話</title>
+      <link>https://zenn.dev/aishift/articles/3e211e67e3dc14</link>
+      <description>こんにちは、AI ShiftでUI/UXデザイナーをやってる後藤です。この記事はAI Shift Advent Calendar 2025の21日目の記事です。
+この記事は、Figmaの使用をいったん停止して、AIとコードでUIデザインをするとどうなるのか、という経過報告です。
+実験の途中ですので、まだ成功も失敗もはっきりしておりません。なので、本日18:30からのM-1グランプリをご覧になった方がより楽しい休日をお過ごしになられるかと思います。
+
+ 結論から言うと
+「デザインと実装の境界をなくした」 ことで、UIデザインの時間を「考える」に全振りできるようになりました。
+そして、これか... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aishift/articles/3e211e67e3dc14</guid>
+      <pubDate>Sun, 21 Dec 2025 00:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>「このデザイン、CSSで再現できないかも😫」を解決してくれるかもしれないプロパティ、mask</title>
+      <link>https://zenn.dev/chot/articles/b85ffe33a12f95</link>
+      <description>CSSにおけるmaskというプロパティによってデザインを実装可能にしてくれたケースが3つありましたので、私見をしたためていきます。
+既にCSSのmaskプロパティについてご存知の方はmaskが可能にしてくれるデザインパターンへ
+マスクという行為およびCSSのmaskについてこれから知りたい方は前提知識へ
+
+ 前提知識
+
+ そもそも「マスク」とは
+左の画像を、星の形にくり抜きたい。そのくり抜く行為を、この記事内では「マスク」と呼びます。
+※くり抜く行為はクリッピングであり、それを用いてマスクを行うのであればクリッピングマスクなのではないかというもっともな主張があると思いますが、CSSのプロ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chot/articles/b85ffe33a12f95</guid>
+      <pubDate>Tue, 23 Dec 2025 01:14:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Goの哲学を哲学する - Interface編</title>
+      <link>https://zenn.dev/dorarep/articles/1ca793424148e7</link>
+      <description>多くのプログラミング言語は、時代のトレンドを取り込みながら進化を続けています。その結果として「できること」は似通っていきます。
+だからこそ注目すべきなのは「できないこと」であり、言語があえて制約する部分こそがもっとも開発者の思想を色濃く反映されている部分といえます。
+たとえばRubyが型宣言を義務化せず柔軟さを尊重しているのは、Matz氏の「プログラマの幸福」を第一にする哲学の現れです。
+一方でGoは、設計段階から「できないこと」が数多く組み込まれています。これは単なる不足ではなく、シンプルさを優先する明確な思想に基づいています。
+本記事では、その「Goの哲学」を深掘りすることで、単なる... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dorarep/articles/1ca793424148e7</guid>
+      <pubDate>Mon, 22 Dec 2025 04:25:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
