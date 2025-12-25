@@ -7,7 +7,40 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Dec 2025 06:39:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 06:39:08 +0000</lastBuildDate>
+    <item>
+      <title>Informaticaで複雑なAIガバナンスをシンプルに実現！</title>
+      <link>https://qiita.com/nickqinsc/items/9985d63db41d92d2c0c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>AIガバナンスとは
+とりあえず、Google先生に聞いてみます！
+
+AIの導入は現時代企業のトレンドなのですが、AIは、私たちの可能性を広げる『魔法』であると同時に、扱いを誤れば身を傷つける『両刃の剣』でもあります。
+膨大な知識を瞬時に引き出す圧倒的な利便性。その裏には、... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/nickqinsc/items/9985d63db41d92d2c0c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 23 Dec 2025 08:06:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年、Claude Code と 1 人で 40 万行規模のフルスタック＋インフラを構築した話（あみださん）</title>
+      <link>https://zenn.dev/shusuke_o/articles/f63e1bf61363b8</link>
+      <description>はじめに
+2025 年、私は Claude Code とともに 40 万行規模のフルスタック＋インフラを 1 人で構築しました。
+個人開発としては大規模なプロジェクトです。AI に任せきりでは破綻します。どう設計し、どう協働すれば破綻なく進められるのか。2 年間の試行錯誤で得た知見を共有します。
+最初に AI 開発に触れたのは 2022 年、GitHub Copilot の Tab 補完でした。Tab を押すだけでコードが増えていく体験は驚きでした。そこから AI ツールの進化とともに開発スタイルも変わり、今では Claude Code がメインパートナーです。
+プロジェクトの規模は... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shusuke_o/articles/f63e1bf61363b8</guid>
+      <pubDate>Mon, 22 Dec 2025 03:13:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rustは生成AI時代の覇権言語になる説</title>
+      <link>https://zenn.dev/ryugotoo/articles/691c08f844a5e1</link>
+      <description>正直、Rustは手で書くのがしんどい
+Rustを触ったことがある人なら共感してもらえると思うんですが、Rustって手で書くのがしんどいんですよね。
+代表的なのは所有権とライフタイム。私も最初はここでガッツリつまずきました。「なんでこのコードがコンパイル通らないの？」と何度思ったことか。
+でも、Rustには手放せない良さがあるんです。メモリ安全性の高さ、structやenumの表現力、matchの気持ちよさ、Resultによるエラーハンドリングの強制。一度この良さを知ると、他の言語に戻りづらくなる。
+しんどいけど良い。良いけどしんどい。このジレンマを抱えていたんですが、生成AIの登場で... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ryugotoo/articles/691c08f844a5e1</guid>
+      <pubDate>Tue, 23 Dec 2025 03:49:16 +0000</pubDate>
+    </item>
     <item>
       <title>最速最強の Markdown コンパイラ作るぞ</title>
       <link>https://zenn.dev/mizchi/articles/markdown-incremental-preview</link>
@@ -19,13 +52,6 @@ https://markdown.mizchi.workers.dev/
 F... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/mizchi/articles/markdown-incremental-preview</guid>
       <pubDate>Sun, 21 Dec 2025 10:51:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>アップルの「AirTag」より優れた紛失防止タグを見つけた話</title>
-      <link>https://japan.cnet.com/article/35242005/</link>
-      <description>（国内編集部注：日本では商品名「Pebblebee」として同ブランドの紛失防止タグが販売中。 紛失防止タグの分野で、AppleのAirTagが“王道”の存在であることは間違いない。最大の理由は、正確無比な「探す」機能にある。位置をかなりの精度で特定でき、探し物の場所を一気に絞り込める。 ただし、完成度が高い一方で、使っ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://japan.cnet.com/article/35242005/</guid>
-      <pubDate>Tue, 23 Dec 2025 12:46:41 +0000</pubDate>
     </item>
     <item>
       <title>今年お世話になったTypeScriptの型集</title>
@@ -42,33 +68,14 @@ F... (source: Zennのトレンド)</description>
       <pubDate>Mon, 22 Dec 2025 09:01:25 +0000</pubDate>
     </item>
     <item>
-      <title>開発環境をRustで染まりたい</title>
-      <link>https://zenn.dev/tsubasa_ryuto/articles/13588a7236f578</link>
-      <description>今まで何も考えず、MacOS標準のBashを使い、いつの日かZshが標準となり、そのまま使い続けていました。
-エディタもVimから始まり、なんとなく人気のNeovimに移行。少しカスタマイズはするものの、多機能なNeovimを使いきれていない自分にモヤモヤしていました。 ターミナルもApple純正からiTerm2に変えてみたものの、「まー、みんな使ってるし」と特にこだわりなく使い続けていました。
-ふと、「エンジニアとして、それでいいの？」
-そんな疑問が湧きました。
-最近、Rustでキーボードファームウェアを書いており、ぼんやりと将来的にOSS活動もしたいなーと思っている中で、「自分が毎日... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tsubasa_ryuto/articles/13588a7236f578</guid>
-      <pubDate>Mon, 22 Dec 2025 23:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pythonを書くなら、Ruffのルールページは最高の教材だと思う（AI時代の学び方）</title>
-      <link>https://zenn.dev/layerx/articles/28498105e81a4f</link>
-      <description>この記事は LayerX Tech Advent Calendar 2025 23日目の記事です。
-Ai Workforce事業部 プロダクト部 FDEグループ エンジニアの 堤 です。
-本記事では、プログラムを書き始めたばかりの頃に Pythonの静的解析ツールである Ruff のエラー修正を通じて学んだ経験と、それを踏まえて作った ruff-tutor-mcp というMCPサーバー、そしてAIコーディング時代の学び方について書きたいと思います。
-
-最近、エンジニアのみなさんはコーディングエージェントを使っているのではないでしょうか。特に、Claude Codeがリリースされてからそ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/layerx/articles/28498105e81a4f</guid>
-      <pubDate>Tue, 23 Dec 2025 03:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】「ジュニア開発者をAIで置き換えるのは最悪のアイデア」とAWSのCEOが語り大きな話題に</title>
-      <link>https://techfeed.io/entries/694471083837533862f722f4?from=rss</link>
-      <description>12月18日、海外スタートアップFinalRoundが「AWS CEO Explains 3 Reasons AI Can’t Replace Junior Devs」と題したブログ記事を公開し、話題を呼んでいる。この記事では、「AIがジュニア開発者（若手エンジニア）を置き換える」という短絡的な発想に対して、AWS CEOのMatt Garman氏が挙げた3つの理由を軸に、企業の人員戦略・育成・AI活用の現実について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/694471083837533862f722f4?from=rss</guid>
-      <pubDate>Thu, 18 Dec 2025 21:24:24 +0000</pubDate>
+      <title>【実録】クリぼっち確定。AIに「過去半年の自分の行い」を全投入して恋愛相談したら、再起不能レベルの『正論パンチ』を食らった話</title>
+      <link>https://qiita.com/dekenbu/items/27bae39274436c68dc80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+メリークリスマス。
+街はイルミネーションで輝き、恋人たちが愛を語らう聖夜。 私は今、暖房の効きが悪いワンルームで一人、パソコンの画面を見つめています。
+本来であれば、半年前に「運命だね」と言い合った彼女と、予約していた三越のケーキを食べ、シャンパンを開けているは... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/dekenbu/items/27bae39274436c68dc80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 23 Dec 2025 22:07:05 +0000</pubDate>
     </item>
     <item>
       <title>CTOをやめようと思っている話✨</title>
@@ -87,17 +94,25 @@ CTOより、CTO以外の方が価値が出る局面が来るかもしれない�
       <pubDate>Tue, 23 Dec 2025 16:13:47 +0000</pubDate>
     </item>
     <item>
-      <title>Figmaやめて、AIとコードでUIを作り始めた話</title>
-      <link>https://zenn.dev/aishift/articles/3e211e67e3dc14</link>
-      <description>こんにちは、AI ShiftでUI/UXデザイナーをやってる後藤です。この記事はAI Shift Advent Calendar 2025の21日目の記事です。
-この記事は、Figmaの使用をいったん停止して、AIとコードでUIデザインをするとどうなるのか、という経過報告です。
-実験の途中ですので、まだ成功も失敗もはっきりしておりません。なので、本日18:30からのM-1グランプリをご覧になった方がより楽しい休日をお過ごしになられるかと思います。
+      <title>新しいデザインシステム・コンポーネント管理のかたち「shadcn/ui registry」</title>
+      <link>https://zenn.dev/imaimai17468/articles/774e42f5613b15</link>
+      <description>この記事では、shadcn/ui の Registry 機能を活用して、企業の自家製の UI ライブラリやデザインシステムを構築・配布する方法を解説します。
 
- 結論から言うと
-「デザインと実装の境界をなくした」 ことで、UIデザインの時間を「考える」に全振りできるようになりました。
-そして、これか... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aishift/articles/3e211e67e3dc14</guid>
-      <pubDate>Sun, 21 Dec 2025 00:30:01 +0000</pubDate>
+ はじめに
+UI コンポーネントライブラリを作成・配布する方法として、npm パッケージとして公開するのが一般的です。shadcn/ui が提唱する Registry 方式 は、それとは異なるアプローチを提供します。どちらが優れているというわけではなく、ユースケースに応じて使い分けるのが理想です。
+shadcn/ui では npx shadcn add button のように CLI でコンポーネントを取得できますが、Regist... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/imaimai17468/articles/774e42f5613b15</guid>
+      <pubDate>Wed, 24 Dec 2025 09:02:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>TeXから始めるLean言語</title>
+      <link>https://zenn.dev/k16/articles/f468f28a08a764</link>
+      <description>「Leanが気になるけど、証明とかできて何がうれしいの？」って感じている人も少なくないと思います。すっきり答えられる見識が自分にあるわけではないのですが、証明といっても特に身構える必要はないと思うよ、という話をします。題材は「TeXの展開処理」です（そもそも本記事は「TeX ＆ LaTeX Advent Calendar 2025」の24日めです。23日めの記事はwtsnjpさんによる「日本語版Learn LaTeXのリリースと裏話」でした）。
+
+ TeXの展開処理をモデル化する
+Leanのような定理証明環境は、数学の証明（問題）を解いてもらう道具というよりも、「気になる対象を形式化し、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/k16/articles/f468f28a08a764</guid>
+      <pubDate>Tue, 23 Dec 2025 20:00:05 +0000</pubDate>
     </item>
     <item>
       <title>「このデザイン、CSSで再現できないかも😫」を解決してくれるかもしれないプロパティ、mask</title>
@@ -113,17 +128,6 @@ CTOより、CTO以外の方が価値が出る局面が来るかもしれない�
 ※くり抜く行為はクリッピングであり、それを用いてマスクを行うのであればクリッピングマスクなのではないかというもっともな主張があると思いますが、CSSのプロ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/chot/articles/b85ffe33a12f95</guid>
       <pubDate>Tue, 23 Dec 2025 01:14:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Goの哲学を哲学する - Interface編</title>
-      <link>https://zenn.dev/dorarep/articles/1ca793424148e7</link>
-      <description>多くのプログラミング言語は、時代のトレンドを取り込みながら進化を続けています。その結果として「できること」は似通っていきます。
-だからこそ注目すべきなのは「できないこと」であり、言語があえて制約する部分こそがもっとも開発者の思想を色濃く反映されている部分といえます。
-たとえばRubyが型宣言を義務化せず柔軟さを尊重しているのは、Matz氏の「プログラマの幸福」を第一にする哲学の現れです。
-一方でGoは、設計段階から「できないこと」が数多く組み込まれています。これは単なる不足ではなく、シンプルさを優先する明確な思想に基づいています。
-本記事では、その「Goの哲学」を深掘りすることで、単なる... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dorarep/articles/1ca793424148e7</guid>
-      <pubDate>Mon, 22 Dec 2025 04:25:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

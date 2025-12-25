@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Dec 2025 06:39:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 06:39:13 +0000</lastBuildDate>
     <item>
-      <title>太極重力波探査ミッションにおける科学観測モードにおける宇宙機慣性センサ質量中心オフセットの校正方法</title>
-      <link>https://arxiv.org/abs/2512.20468v1</link>
-      <description>宇宙船 (SC) と慣性センサーテストマス (TM) 間の質量中心 (CoM) オフセットを正確に較正することは、LISA や Taiji などの宇宙ベースの重力波 (GW) アンテナにとって極めて重要です。現在の較正方法では、科学データの連続性と衛星間リンクを中断する追加の宇宙船操作が必要であり、重力波信号のコヒーレンスが損なわれます。ここでは、慣性センサー、干渉計、微分波面センサーからの標準的な科学モード測定値のみを使用して、CoM オフセットベクトルを直接推定する、操作不要の較正方式を紹介します。モデルベースの適応型カルマンフィルターに CoM オフセットによって誘発される結合加速度を拡張状態として埋め込むことで、すべての軸にわたって 0.01～1.5 mm の推定精度を最大 1% 未満の誤差で実現します。このアプローチにより、定常観測期間中の継続的かつ高精度な較正が可能になり、必要な精度を維持しながら継続的かつ一貫した重力波データ収集が保証されるとともに、性能評価や故障診断といったDFACSの高度な機能も容易になります。微弱な重力波信号の検出にはデータの連続性が不可欠となるLI (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2512.20468v1</guid>
-      <pubDate>Tue, 23 Dec 2025 16:03:18 +0000</pubDate>
+      <title>メタヒューリスティックアセンブリとターゲットドリブンフィルタリングを用いたAMLに対するトランスクリプトーム条件付き個別化de novo薬剤生成</title>
+      <link>https://arxiv.org/abs/2512.21301v1</link>
+      <description>急性骨髄性白血病（AML）は、その極めて高い分子多様性と高い再発率により、依然として臨床的に大きな課題となっています。精密医療によって変異特異的な治療法が導入されている一方で、多くの患者は依然として効果的で個別化された治療法を享受できていません。本論文では、患者特異的なトランスクリプトミクスとde novo創薬のギャップを埋める、新たなエンドツーエンドの計算フレームワークを提示します。TCGA-LAMLコホートのバルクRNAシーケンスデータを解析することにより、本研究では重み付け遺伝子共発現ネットワーク解析（WGCNA）を用いて、HK3などの代謝トランスポーターやSIGLEC9などの免疫調節受容体を含む20の高価値バイオマーカーを優先順位付けしました。これらの標的の物理構造はAlphaFold3を用いてモデル化され、DOGSiteScorerエンジンを用いて創薬可能なホットスポットが定量的にマッピングされました。次に、反応ファーストの進化型メタヒューリスティックアルゴリズムと、特定されたホットスポットへの空間アライメントに基づいてフラグメントライブラリから新規リガンドを組み立てる多目的 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.21301v1</guid>
+      <pubDate>Wed, 24 Dec 2025 17:39:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

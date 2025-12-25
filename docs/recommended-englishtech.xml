@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Dec 2025 06:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 06:39:18 +0000</lastBuildDate>
     <item>
-      <title>Toad: 既存の LLM の UX を向上させる、すべての LLM 向けの統合 CLI ツール</title>
-      <link>https://www.infoq.com/news/2025/12/llm-agent-cli/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Rich and Textual（テキストユーザーインターフェース（TUI）を作成するためのフレームワーク）の開発者であるウィル・マクグガン氏は、休暇中に自身のUIスキルを活かしてToadを開発しました。この新しく公開されたツールは、ターミナル上の複数のコーディングエージェントに、エージェント通信プロトコル（ACP）を介して同じツールからアクセスできる、統一された「美しい」GUIを提供することを目指しています。Olimpiu Pop著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/llm-agent-cli/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 22 Dec 2025 12:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WorkOSの内部</title>
-      <link>https://workos.com/blog/inside-workos</link>
-      <description>WorkOS の舞台裏に潜入して、卓越性、開発者の喜び、そして目的のある成長を追求する企業を支える文化、理念、人材を発見してください。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/inside-workos</guid>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <title>プレゼンテーション: DevOps はプロダクトエンジニアにも有効</title>
+      <link>https://www.infoq.com/presentations/devops-product-engineers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>レスリー・コルデロは、組織の拡大のための社会技術的ソリューションとしてのプラットフォームエンジニアリングについて論じます。CALMSフレームワーク、信頼性と速度の間の「緊張の振り子」、そして受動的なリーダーシップから能動的なリーダーシップへの移行方法について解説します。共同学習と分散型権力に焦点を当てることで、人間の幸福を犠牲にすることなく、回復力のあるシステムを構築する方法を共有します。レスリー・コルデロ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/devops-product-engineers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 22 Dec 2025 14:42:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
@@ -30,11 +23,11 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション: DevOps はプロダクトエンジニアにも有効です</title>
-      <link>https://www.infoq.com/presentations/devops-product-engineers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>レスリー・コルデロは、組織の拡大のための社会技術的ソリューションとしてのプラットフォームエンジニアリングについて論じます。CALMSフレームワーク、信頼性と速度の間の「緊張の振り子」、そして受動的なリーダーシップから能動的なリーダーシップへの移行方法について解説します。共同学習と分散型権力に焦点を当てることで、人間の幸福を犠牲にすることなく、回復力のあるシステムを構築する方法を共有します。レスリー・コルデロ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/devops-product-engineers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 22 Dec 2025 14:42:00 +0000</pubDate>
+      <title>Cactus v1: ゼロレイテンシと完全なプライバシーを備えたモバイルでのクロスプラットフォーム LLM 推論</title>
+      <link>https://www.infoq.com/news/2025/12/cactus-on-device-inference/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Yコンビネーターの支援を受けるスタートアップ企業Cactusは、クロスプラットフォームでエネルギー効率の高いカーネルとネイティブランタイムを通じて、携帯電話、ウェアラブル端末、その他の低消費電力デバイスへのローカルAI推論を可能にします。デバイス内推論において、最初のトークン生成までの時間は50ミリ秒未満、ネットワークレイテンシは排除され、完全なプライバシーがデフォルトで確保されています。Sergio De Simone著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/cactus-on-device-inference/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 24 Dec 2025 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>記事: スケーラブルなストリーミングインフラの構築: 視聴者は明日まで待てない</title>
@@ -44,18 +37,25 @@
       <pubDate>Tue, 23 Dec 2025 09:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Orion: プライバシー重視のユーザー向けの、テレメトリゼロ、広告ゼロ、AI対応の新しいブラウザ</title>
+      <link>https://www.infoq.com/news/2025/12/orion-ai-proof-privacy-browser/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Kagiは、プライバシーをデフォルトで保護し、テレメトリを一切使用せず、広告トラッキング技術も統合されていないウェブブラウザ、Orion 1.0をリリースしました。OrionはChromeとFirefoxの両方の拡張機能をサポートし、セキュリティ、プライバシー、パフォーマンスを最優先するため、コアから意図的にAIを排除しています。OrionはmacOSとiOSをターゲットとしており、近日中にLinux版とWindows版もリリース予定です。OrionはWebKitをベースにしています。Bruno Couriol著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/orion-ai-proof-privacy-browser/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 25 Dec 2025 02:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ポッドキャスト: OpenJDK と JCP エキスパート グループの最新情報: Simon Ritter による考察</title>
       <link>https://www.infoq.com/podcasts/latest-open-java-development-kit/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>このエピソードでは、Azulの副CTOであるサイモン・リッター氏が、ポッドキャストのホストでありInfoQのJavaトピックのリードエディターであるマイケル・レッドリッヒ氏と対談し、OpenJDKの最新機能と、JDK 9以来のJCPエキスパートグループでのサイモン氏の経験について語りました。OpenJDKのトピックには、6ヶ月リリースサイクル、世代別Shenandoah、JDKフライトレコーダー、Project Leyden、コンパクトオブジェクトヘッダーなどが含まれていました。サイモン・リッター (source: InfoQ)</description>
+      <description>このエピソードでは、Azulの副CTOであるサイモン・リッター氏が、ポッドキャストのホストでありInfoQのJavaトピックのリードエディターであるマイケル・レッドリッヒ氏と対談し、OpenJDKの最新機能と、JDK 9以来JCPエキスパートグループに所属するサイモン氏の経験について語りました。OpenJDKのトピックには、6ヶ月リリースサイクル、世代別Shenandoah、JDKフライトレコーダー、Project Leyden、コンパクトオブジェクトヘッダーなどが含まれていました。サイモン・リッター (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/podcasts/latest-open-java-development-kit/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 22 Dec 2025 11:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AWS、コンテナ化されたアプリケーションのデプロイメントを簡素化するECS Express Modeを発表</title>
-      <link>https://www.infoq.com/news/2025/12/aws-ecs-express-mode/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AWSはAmazon ECS Express Modeをリリースしました。これにより、コンテナ化されたウェブアプリケーションとAPIのデプロイプロセスが簡素化されます。Express Modeを使用すると、IAMロール、ロードバランサー、スケーリングといった通常必要な追加要件を省略し、本番環境対応のサービスを一括でデプロイできます。Matt Saunders著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/aws-ecs-express-mode/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sun, 21 Dec 2025 09:00:00 +0000</pubDate>
+      <title>プレゼンテーション：実践における言語AIの生態学と経済学</title>
+      <link>https://www.infoq.com/presentations/llm-ai-africa/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ジェイド・アボットは、大規模でリソースを大量に消費するモデルから、効率性と文化の持続可能性を優先する「Little LM」への移行について論じます。LoRA、量子化、GRPOといった技術が、より少ない計算リソースで高いパフォーマンスを実現する仕組みを説明します。「Ubuntu Punk」哲学を共有することで、抽出的なデータ処理から人間中心の持続可能なAIシステムへと移行する方法を解説します。ジェイド・アボット (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/llm-ai-africa/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 24 Dec 2025 10:27:00 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントセキュリティのためのCerbos：機能、価格、代替品</title>
