@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Dec 2025 06:39:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 06:38:47 +0000</lastBuildDate>
+    <item>
+      <title>WorkOSの内部</title>
+      <link>https://workos.com/blog/inside-workos</link>
+      <description>WorkOS の舞台裏に潜入して、卓越性、開発者の喜び、そして目的のある成長を追求する企業を支える文化、理念、人材を発見してください。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/inside-workos</guid>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>プレゼンテーション: DevOps はプロダクトエンジニアにも有効</title>
       <link>https://www.infoq.com/presentations/devops-product-engineers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -16,18 +23,18 @@
       <pubDate>Mon, 22 Dec 2025 14:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>WorkOS MCP Night: ホリデースペシャル</title>
-      <link>https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</link>
-      <description>MCPナイト、ホリデースペシャルは歴史的な瞬間を刻みました。AnthropicがMCPをLinux Foundationに寄贈し、Agentic AI Foundationが設立されました。Cloudflare、Supabase、Datadog、Microsoft、Googleによるデモも行われました。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</guid>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cactus v1: ゼロレイテンシと完全なプライバシーを備えたモバイルでのクロスプラットフォーム LLM 推論</title>
       <link>https://www.infoq.com/news/2025/12/cactus-on-device-inference/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>Yコンビネーターの支援を受けるスタートアップ企業Cactusは、クロスプラットフォームでエネルギー効率の高いカーネルとネイティブランタイムを通じて、携帯電話、ウェアラブル端末、その他の低消費電力デバイスへのローカルAI推論を可能にします。デバイス内推論において、最初のトークン生成までの時間は50ミリ秒未満、ネットワークレイテンシは排除され、完全なプライバシーがデフォルトで確保されています。Sergio De Simone著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2025/12/cactus-on-device-inference/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 24 Dec 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WorkOS MCP Night: ホリデースペシャル</title>
+      <link>https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</link>
+      <description>MCPナイト、ホリデースペシャルは歴史的な瞬間を刻みました。AnthropicがMCPをLinux Foundationに寄贈し、Agentic AI Foundationが設立されました。Cloudflare、Supabase、Datadog、Microsoft、Googleによるデモも行われました。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>記事: スケーラブルなストリーミングインフラの構築: 視聴者は明日まで待てない</title>
@@ -70,13 +77,6 @@
       <description>ターゲットは、GenAIを活用したホームカテゴリー向けアクセサリー推奨システム「GRAM」を導入しました。大規模言語モデルを用いて商品属性の優先順位付けを行い、美的統一性も捉えています。このシステムは、買い物客が好みのアクセサリーを見つけるのを支援し、人間によるキュレーションを統合することで、エンゲージメントとコンバージョンの目に見える改善を実現しました。リーラ・クミリ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2025/12/target-genai-model-recommend/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 22 Dec 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Javaニュースまとめ: GlassFish、TornadoVM、Spring Shell、WildFly、Hibernate、Kotlin</title>
-      <link>https://www.infoq.com/news/2025/12/java-news-roundup-dec15-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>今週の2025年12月15日版Javaラウンドアップでは、GlassFish 8.0の15番目のマイルストーンリリース、Spring Shell 4.0の最初のリリース候補、TornadoVM、Hibernate Reactive、Hibernate Search、Kotlinのポイントリリース、WildFly 39の最初のベータリリース、Micronaut HelidonとVert.xのメンテナンスリリースなど、注目すべきニュースを取り上げます。Michael Redlich著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/java-news-roundup-dec15-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 22 Dec 2025 02:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

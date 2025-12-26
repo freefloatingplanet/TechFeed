@@ -7,28 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Dec 2025 06:39:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 06:38:36 +0000</lastBuildDate>
     <item>
-      <title>Informaticaで複雑なAIガバナンスをシンプルに実現！</title>
-      <link>https://qiita.com/nickqinsc/items/9985d63db41d92d2c0c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>AIガバナンスとは
-とりあえず、Google先生に聞いてみます！
-
-AIの導入は現時代企業のトレンドなのですが、AIは、私たちの可能性を広げる『魔法』であると同時に、扱いを誤れば身を傷つける『両刃の剣』でもあります。
-膨大な知識を瞬時に引き出す圧倒的な利便性。その裏には、... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/nickqinsc/items/9985d63db41d92d2c0c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 23 Dec 2025 08:06:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025年、Claude Code と 1 人で 40 万行規模のフルスタック＋インフラを構築した話（あみださん）</title>
-      <link>https://zenn.dev/shusuke_o/articles/f63e1bf61363b8</link>
-      <description>はじめに
-2025 年、私は Claude Code とともに 40 万行規模のフルスタック＋インフラを 1 人で構築しました。
-個人開発としては大規模なプロジェクトです。AI に任せきりでは破綻します。どう設計し、どう協働すれば破綻なく進められるのか。2 年間の試行錯誤で得た知見を共有します。
-最初に AI 開発に触れたのは 2022 年、GitHub Copilot の Tab 補完でした。Tab を押すだけでコードが増えていく体験は驚きでした。そこから AI ツールの進化とともに開発スタイルも変わり、今では Claude Code がメインパートナーです。
-プロジェクトの規模は... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shusuke_o/articles/f63e1bf61363b8</guid>
-      <pubDate>Mon, 22 Dec 2025 03:13:21 +0000</pubDate>
+      <title>Moonbit Advent Calendar の振り返り ~ はたして実用的な言語なのか</title>
+      <link>https://zenn.dev/mizchi/articles/moonbit-advent-last-day</link>
+      <description>Moonbit Advent Calendar 最終日の振り返りです。
+https://qiita.com/advent-calendar/2025/moonbit
+このカレンダーを作った目的は、自分を追い立てつつ(結果として Luna UI が完成しました)、隙あらば皆さんにもMoonbit触れてもらう機会にしたい、と言う気持ちがありました。。
+結果的に10記事近く自分が書きましたが、当初の想定以上に参加者を集めることができ、その目的は達成できたと思います。
+本音としては、本当はもっと軽いリファレンス的な記事を連投してお茶を濁すつもりでしたが、 @ramenha0141 さんの熱量が入... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mizchi/articles/moonbit-advent-last-day</guid>
+      <pubDate>Thu, 25 Dec 2025 10:12:33 +0000</pubDate>
     </item>
     <item>
       <title>Rustは生成AI時代の覇権言語になる説</title>
@@ -42,30 +31,11 @@ Rustを触ったことがある人なら共感してもらえると思うんで�
       <pubDate>Tue, 23 Dec 2025 03:49:16 +0000</pubDate>
     </item>
     <item>
-      <title>最速最強の Markdown コンパイラ作るぞ</title>
-      <link>https://zenn.dev/mizchi/articles/markdown-incremental-preview</link>
-      <description>人生で5度目ぐらいの Markdown Editor 実装をしました。今回が最速です。
-ここで試せます。
-https://markdown.mizchi.workers.dev/
-実際に地上最速かはいろんなパフォーマンスの軸があるのでなんとも言えないんですが、少なくともエディタ上のインクリメンタルコンパイルという視点では、他に負けないと思います。(ベンチマークは記事後半にあります)
-自分で言うのもなんですが、とにかく速いです。差分コンパイルなので分量が多くても耐えます。プレビューと編集の自動同期が便利で。試しに20000文字突っ込んでも表示ラグはなく、 60fps を維持しています。
-F... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mizchi/articles/markdown-incremental-preview</guid>
-      <pubDate>Sun, 21 Dec 2025 10:51:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>今年お世話になったTypeScriptの型集</title>
-      <link>https://zenn.dev/nokazn/articles/2025-type-utilities</link>
-      <description>はじめに
-この記事はWano Group Advent Calendar 2025の18日目の記事です。
-普段自分はTypeScript / React / Next.jsなどを使用して主にフロントエンドの開発をしているのですが、その中で2025年によく使用した型をいくつか挙げていこうと思います。
-ちなみに下記のうち🛠️マークがついているものは自前で定義した型ですが、ユーテリティ型を提供するライブラリ等でも同等（or それ以上）の機能を提供しているものもあるとは思います。
-できるだけ外部への依存を減らしたい目的もあり、自前で定義できそうなものは必要な分だけ
-定義しています。
-
- 🛠️... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nokazn/articles/2025-type-utilities</guid>
-      <pubDate>Mon, 22 Dec 2025 09:01:25 +0000</pubDate>
+      <title>フロントエンドテストパフォーマンス改善：Vitestのボトルネックを探っていく</title>
+      <link>https://zenn.dev/socialplus/articles/bfb19c5f98ae32</link>
+      <description>どうもこんにちは、たくびーです。 最近、CIにかかる時間が気になり、その手始めとしてテストの高速化に挑戦していました。 今回はそこで得たボトルネックの特定方法と意外なボトルネックについて紹介したいと思います。 推測するな、計測せよ かの有名なロブ・パイク氏の「Notes on Programming in C」の言葉を意訳した... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/socialplus/articles/bfb19c5f98ae32</guid>
+      <pubDate>Fri, 26 Dec 2025 00:08:51 +0000</pubDate>
     </item>
     <item>
       <title>【実録】クリぼっち確定。AIに「過去半年の自分の行い」を全投入して恋愛相談したら、再起不能レベルの『正論パンチ』を食らった話</title>
@@ -76,6 +46,34 @@ F... (source: Zennのトレンド)</description>
 本来であれば、半年前に「運命だね」と言い合った彼女と、予約していた三越のケーキを食べ、シャンパンを開けているは... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/dekenbu/items/27bae39274436c68dc80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Tue, 23 Dec 2025 22:07:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RAGが苦手な「膨大な会話データ」を検索可能に</title>
+      <link>https://zenn.dev/knowledgesense/articles/c2baff28b7b2fa</link>
+      <description>導入
+こんにちは、株式会社ナレッジセンスの須藤英寿です。
+今回は、過去の対話情報をもとに、LLMと一貫した会話を続けられる仕組み「Hindsight」について紹介します。
+https://arxiv.org/pdf/2512.12818
+
+
+ サマリー
+RAGの代表的な活用方法の一つとして、過去のメールやチャットを情報源に、それまでのやり取りを前提とした会話を成立させる手法があります。
+しかし、やり取りのデータは時間とともにどんどん増えていきます。さらに事実と意見が混在したデータも多く存在するため、標準的なRAGを導入してもうまく会話を成立させることができません。
+「Hindsigh... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/c2baff28b7b2fa</guid>
+      <pubDate>Thu, 25 Dec 2025 01:26:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>新卒3年目が、AIフル活用で設計力が爆あがりした話</title>
+      <link>https://zenn.dev/ourly_tech_blog/articles/9301cc0acdd09c</link>
+      <description>こんにちは。ourlyでエンジニアをしている@ourly_nobuoです。
+この記事は「開発生産性コミュニティD-Plus🐬 Advent Calendar 2025 24日目」の投稿です🎄🎅
+2025年に入り、開発現場での生成AI活用が急速に進んでいます。
+そんな中、最近よく耳にするのが "Vibe Coding"（雰囲気で指示を出して、あとはAI任せにするスタイル）という言葉です。
+しかし、私はエンジニア3年目としてAIを活用するにあたり、この「Vibe Coding」をあえて避けました。
+理由はシンプルで、「なんとなく依頼して、返ってきたコードの不具合を直すだけの作業」になってしま... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ourly_tech_blog/articles/9301cc0acdd09c</guid>
+      <pubDate>Wed, 24 Dec 2025 03:00:05 +0000</pubDate>
     </item>
     <item>
       <title>CTOをやめようと思っている話✨</title>
@@ -105,16 +103,6 @@ shadcn/ui では npx shadcn add button のように CLI でコンポーネント
       <pubDate>Wed, 24 Dec 2025 09:02:17 +0000</pubDate>
     </item>
     <item>
-      <title>TeXから始めるLean言語</title>
-      <link>https://zenn.dev/k16/articles/f468f28a08a764</link>
-      <description>「Leanが気になるけど、証明とかできて何がうれしいの？」って感じている人も少なくないと思います。すっきり答えられる見識が自分にあるわけではないのですが、証明といっても特に身構える必要はないと思うよ、という話をします。題材は「TeXの展開処理」です（そもそも本記事は「TeX ＆ LaTeX Advent Calendar 2025」の24日めです。23日めの記事はwtsnjpさんによる「日本語版Learn LaTeXのリリースと裏話」でした）。
-
- TeXの展開処理をモデル化する
-Leanのような定理証明環境は、数学の証明（問題）を解いてもらう道具というよりも、「気になる対象を形式化し、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/k16/articles/f468f28a08a764</guid>
-      <pubDate>Tue, 23 Dec 2025 20:00:05 +0000</pubDate>
-    </item>
-    <item>
       <title>「このデザイン、CSSで再現できないかも😫」を解決してくれるかもしれないプロパティ、mask</title>
       <link>https://zenn.dev/chot/articles/b85ffe33a12f95</link>
       <description>CSSにおけるmaskというプロパティによってデザインを実装可能にしてくれたケースが3つありましたので、私見をしたためていきます。
@@ -128,6 +116,20 @@ Leanのような定理証明環境は、数学の証明（問題）を解いて�
 ※くり抜く行為はクリッピングであり、それを用いてマスクを行うのであればクリッピングマスクなのではないかというもっともな主張があると思いますが、CSSのプロ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/chot/articles/b85ffe33a12f95</guid>
       <pubDate>Tue, 23 Dec 2025 01:14:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kaggleの「次の一手」を探る6個のヒント</title>
+      <link>https://zenn.dev/muku_8949/articles/2633c986a51254</link>
+      <description>※ 本記事は、「Kaggle Advent Calendar 2025」18日目の記事です。
+
+ はじめに
+みなさん、こんにちは！Mukuと申します。
+Kaggleコンペに参加しはじめた序盤って、とても楽しいですよね。次々にアイデアが湧き、右肩上がりにスコアが伸びていくあの期間。
+しかし、そこからスコアが伸び悩み、プラトー（停滞期）に達したときの苦しみは、Kaggleに取り組む上で避けられない運命だと思います。(これもKaggleの醍醐味ではありますが…。笑)
+自分も例外なく、毎回のようにもがき苦しんでいます。😂
+そうして壁にぶつかりながらも、幸運なことに直近参加した4つのコンペのうち3... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/muku_8949/articles/2633c986a51254</guid>
+      <pubDate>Wed, 24 Dec 2025 15:47:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
