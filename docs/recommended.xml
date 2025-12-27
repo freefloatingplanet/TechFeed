@@ -7,7 +7,46 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Dec 2025 06:38:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 06:36:59 +0000</lastBuildDate>
+    <item>
+      <title>半信半疑で始めたスクラム開発を、1年越しに振り返ってみる</title>
+      <link>https://qiita.com/komakichi3/items/f73fd49862a8aeb6c942?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>スクラム開発をやり始めて、初心者なりにも色々と考えることが多くなってきたので備忘録として残します。
+
+あくまで1年間やってきた個人の感想なので、正式な団体の解釈とは異なる可能性があります。
+
+結論
+スクラム（ひいてはアジャイル）は、全てのプロセスが良いプロダクトを生み... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/komakichi3/items/f73fd49862a8aeb6c942?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 25 Dec 2025 15:13:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【2025年最新】Gemini FlashとProの違いを徹底比較！サッカーのポジションで例えてみた</title>
+      <link>https://qiita.com/okkam_018/items/13a0a7c0ce22e46be117?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>0. はじめに
+Googleが提供する最新AI、 Gemini 。「Flash」と「Pro」の2種類がありますが、「結局何が違うの？」と迷っている方も多いのではないでしょうか。
+スペック表を見ても専門用語ばかりで難しいですよね。そこで、 この2つのモデルの違いを、サッカー... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/okkam_018/items/13a0a7c0ce22e46be117?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 26 Dec 2025 01:32:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Obsidianを使ってみた所感と、実際に試して分かったこと</title>
+      <link>https://zenn.dev/idapan/articles/4122ed6954cd78</link>
+      <description>今日『Obsidian × AI 自分だけの知識のデータベースをつくる』という書籍が発売され、ちょうど手元にも届きました。
+周りでも使っている人が少しずつ増えてきていたので、改めて Obsidian を試していました。
+https://www.amazon.co.jp/dp/4839989869
+
+
+ 普段の作業と Obsidian の相性
+普段の開発では、Claude などの生成AIを使いながら作業することが増えています。
+設計を考えたり、調査した内容をまとめたりする際には、一度 Markdown ファイルとして書き出してから進めることが多いです。
+たとえば、
+
+仕様や設計の整理
+調査... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/idapan/articles/4122ed6954cd78</guid>
+      <pubDate>Thu, 25 Dec 2025 10:33:51 +0000</pubDate>
+    </item>
     <item>
       <title>Moonbit Advent Calendar の振り返り ~ はたして実用的な言語なのか</title>
       <link>https://zenn.dev/mizchi/articles/moonbit-advent-last-day</link>
@@ -20,22 +59,14 @@ https://qiita.com/advent-calendar/2025/moonbit
       <pubDate>Thu, 25 Dec 2025 10:12:33 +0000</pubDate>
     </item>
     <item>
-      <title>Rustは生成AI時代の覇権言語になる説</title>
-      <link>https://zenn.dev/ryugotoo/articles/691c08f844a5e1</link>
-      <description>正直、Rustは手で書くのがしんどい
-Rustを触ったことがある人なら共感してもらえると思うんですが、Rustって手で書くのがしんどいんですよね。
-代表的なのは所有権とライフタイム。私も最初はここでガッツリつまずきました。「なんでこのコードがコンパイル通らないの？」と何度思ったことか。
-でも、Rustには手放せない良さがあるんです。メモリ安全性の高さ、structやenumの表現力、matchの気持ちよさ、Resultによるエラーハンドリングの強制。一度この良さを知ると、他の言語に戻りづらくなる。
-しんどいけど良い。良いけどしんどい。このジレンマを抱えていたんですが、生成AIの登場で... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ryugotoo/articles/691c08f844a5e1</guid>
-      <pubDate>Tue, 23 Dec 2025 03:49:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>フロントエンドテストパフォーマンス改善：Vitestのボトルネックを探っていく</title>
-      <link>https://zenn.dev/socialplus/articles/bfb19c5f98ae32</link>
-      <description>どうもこんにちは、たくびーです。 最近、CIにかかる時間が気になり、その手始めとしてテストの高速化に挑戦していました。 今回はそこで得たボトルネックの特定方法と意外なボトルネックについて紹介したいと思います。 推測するな、計測せよ かの有名なロブ・パイク氏の「Notes on Programming in C」の言葉を意訳した... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/socialplus/articles/bfb19c5f98ae32</guid>
-      <pubDate>Fri, 26 Dec 2025 00:08:51 +0000</pubDate>
+      <title>Arch Linuxしか使わなくなった話</title>
+      <link>https://zenn.dev/molyashi/articles/9423a75b55b08b</link>
+      <description>この記事では、元々WindowsヘビーユーザーだったWindows歴7年の私がArch Linuxに乗り換えて今後もメインではArch Linuxしか使わないであろう理由についてお話していきます。
+
+ 1.Windowsへの技術的な失望（不安定、AIゴリ押し、ブラックボックス）
+まずは、Windowsをやめた理由についてお話します。理由はたくさんありますが、一番大きかったのはWindows 11になってからMSがCopilot等のAI関連に力を入れるようになり、Windowsの開発がおろそかになり、バグ修正はおろか新たなバグが追加で出てくると言ったOSとしての安定性に欠ける代物になってし... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/molyashi/articles/9423a75b55b08b</guid>
+      <pubDate>Thu, 25 Dec 2025 16:14:24 +0000</pubDate>
     </item>
     <item>
       <title>【実録】クリぼっち確定。AIに「過去半年の自分の行い」を全投入して恋愛相談したら、再起不能レベルの『正論パンチ』を食らった話</title>
@@ -64,34 +95,6 @@ RAGの代表的な活用方法の一つとして、過去のメールやチャ�
       <pubDate>Thu, 25 Dec 2025 01:26:09 +0000</pubDate>
     </item>
     <item>
-      <title>新卒3年目が、AIフル活用で設計力が爆あがりした話</title>
-      <link>https://zenn.dev/ourly_tech_blog/articles/9301cc0acdd09c</link>
-      <description>こんにちは。ourlyでエンジニアをしている@ourly_nobuoです。
-この記事は「開発生産性コミュニティD-Plus🐬 Advent Calendar 2025 24日目」の投稿です🎄🎅
-2025年に入り、開発現場での生成AI活用が急速に進んでいます。
-そんな中、最近よく耳にするのが "Vibe Coding"（雰囲気で指示を出して、あとはAI任せにするスタイル）という言葉です。
-しかし、私はエンジニア3年目としてAIを活用するにあたり、この「Vibe Coding」をあえて避けました。
-理由はシンプルで、「なんとなく依頼して、返ってきたコードの不具合を直すだけの作業」になってしま... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ourly_tech_blog/articles/9301cc0acdd09c</guid>
-      <pubDate>Wed, 24 Dec 2025 03:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>CTOをやめようと思っている話✨</title>
-      <link>https://zenn.dev/ryosukeiketeru/articles/893d86fbc7ffa8</link>
-      <description>CTOをやめようと思う
-ただし、今すぐではないです。これを見た社員や投資家の方は、びっくりしないでくださいね。
-これは辞めます宣言ではなくて、この1年のMOSHの成長と、プロダクトづくりを取り巻く環境の変化を踏まえて、今後の自分の価値発揮の仕方を改めて見直している、という話です。
-そして結論から言うと、最近、こう思うようになりました。
-CTOより、CTO以外の方が価値が出る局面が来るかもしれないな〜と
-今日はその背景にある、MOSHの現在地と、これからの僕の役割について...の思考を書いてみたいと思います。
-
- ファウンディングエンジニアとしての8年
-まず簡単に自己紹介を。
-僕はMO... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ryosukeiketeru/articles/893d86fbc7ffa8</guid>
-      <pubDate>Tue, 23 Dec 2025 16:13:47 +0000</pubDate>
-    </item>
-    <item>
       <title>新しいデザインシステム・コンポーネント管理のかたち「shadcn/ui registry」</title>
       <link>https://zenn.dev/imaimai17468/articles/774e42f5613b15</link>
       <description>この記事では、shadcn/ui の Registry 機能を活用して、企業の自家製の UI ライブラリやデザインシステムを構築・配布する方法を解説します。
@@ -103,33 +106,23 @@ shadcn/ui では npx shadcn add button のように CLI でコンポーネント
       <pubDate>Wed, 24 Dec 2025 09:02:17 +0000</pubDate>
     </item>
     <item>
-      <title>「このデザイン、CSSで再現できないかも😫」を解決してくれるかもしれないプロパティ、mask</title>
-      <link>https://zenn.dev/chot/articles/b85ffe33a12f95</link>
-      <description>CSSにおけるmaskというプロパティによってデザインを実装可能にしてくれたケースが3つありましたので、私見をしたためていきます。
-既にCSSのmaskプロパティについてご存知の方はmaskが可能にしてくれるデザインパターンへ
-マスクという行為およびCSSのmaskについてこれから知りたい方は前提知識へ
-
- 前提知識
-
- そもそも「マスク」とは
-左の画像を、星の形にくり抜きたい。そのくり抜く行為を、この記事内では「マスク」と呼びます。
-※くり抜く行為はクリッピングであり、それを用いてマスクを行うのであればクリッピングマスクなのではないかというもっともな主張があると思いますが、CSSのプロ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/chot/articles/b85ffe33a12f95</guid>
-      <pubDate>Tue, 23 Dec 2025 01:14:45 +0000</pubDate>
+      <title>2025年のdotfiles</title>
+      <link>https://zenn.dev/momeemt/articles/dotfiles2025</link>
+      <description>はじめに
+こんにちは。ソフトウェアエンジニアの生産効率は、高性能なマシンや質の良いキーボード、さらには日々の運動や栄養バランスの取れた食事などに支えられていますが、中でもポータブルな設定ファイル集である dotfiles にはそれぞれのエンジニアが持つ計算機環境へのこだわりが凝縮されているのではないでしょうか。
+この記事では、まず dotfiles とそれを取り巻くシステムの変遷について説明して、その後に今年2025年に筆者が整備した config（dotfiles、Terraform、Kubernetes 設定のモノレポ）について紹介します。
+https://github.com/... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/momeemt/articles/dotfiles2025</guid>
+      <pubDate>Fri, 26 Dec 2025 13:21:45 +0000</pubDate>
     </item>
     <item>
-      <title>Kaggleの「次の一手」を探る6個のヒント</title>
-      <link>https://zenn.dev/muku_8949/articles/2633c986a51254</link>
-      <description>※ 本記事は、「Kaggle Advent Calendar 2025」18日目の記事です。
-
- はじめに
-みなさん、こんにちは！Mukuと申します。
-Kaggleコンペに参加しはじめた序盤って、とても楽しいですよね。次々にアイデアが湧き、右肩上がりにスコアが伸びていくあの期間。
-しかし、そこからスコアが伸び悩み、プラトー（停滞期）に達したときの苦しみは、Kaggleに取り組む上で避けられない運命だと思います。(これもKaggleの醍醐味ではありますが…。笑)
-自分も例外なく、毎回のようにもがき苦しんでいます。😂
-そうして壁にぶつかりながらも、幸運なことに直近参加した4つのコンペのうち3... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/muku_8949/articles/2633c986a51254</guid>
-      <pubDate>Wed, 24 Dec 2025 15:47:10 +0000</pubDate>
+      <title>「手作り RAG システム」で RAG の仕組みを学び直す</title>
+      <link>https://zenn.dev/google_cloud_jp/articles/e699bda0a298d6</link>
+      <description>はじめに
+Google Cloud では、RAG を手軽に実現する手段として、Vertex AI Search や Vertex AI RAG Engine などのマネージドサービスが提供されています。あるいは、ベクトル検索エンジンである Vector Search を利用して、独自の RAG システムを構築することもできます。
+業務システムとして利用する際は、これらのサービスを利用することで、スケーラビリティの高いシステムが容易に構築できますが、システム設計に関わるエンジニアとしては、そもそも RAG とはどのような仕組みで、どのような処理が裏側で行われているのかを理解しておくこと... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/google_cloud_jp/articles/e699bda0a298d6</guid>
+      <pubDate>Fri, 26 Dec 2025 01:32:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
