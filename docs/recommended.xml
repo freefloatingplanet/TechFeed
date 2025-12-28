@@ -7,56 +7,33 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Dec 2025 06:36:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 06:37:23 +0000</lastBuildDate>
     <item>
-      <title>半信半疑で始めたスクラム開発を、1年越しに振り返ってみる</title>
-      <link>https://qiita.com/komakichi3/items/f73fd49862a8aeb6c942?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>スクラム開発をやり始めて、初心者なりにも色々と考えることが多くなってきたので備忘録として残します。
-
-あくまで1年間やってきた個人の感想なので、正式な団体の解釈とは異なる可能性があります。
-
-結論
-スクラム（ひいてはアジャイル）は、全てのプロセスが良いプロダクトを生み... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/komakichi3/items/f73fd49862a8aeb6c942?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 25 Dec 2025 15:13:28 +0000</pubDate>
+      <title>AIの不用意な導入が裏目に出る理由を説明する「ドアマンの誤謬」とは？</title>
+      <link>https://gigazine.net/news/20251227-doorman-fallacy-ai-backfires-easily/</link>
+      <description>現代ではさまざまな労働分野でAIが普及しており、2025年の調査では88％の企業が少なくとも1つの業務で定期的にAIを使用し、約3分の1がAIプログラムの規模拡大を開始していると回答しています。しかし、AIにかけられる高い期待にもかかわらずAIの導入が失敗し、結果的にコスト増大に直面する企業も増えているとのこと。不... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20251227-doorman-fallacy-ai-backfires-easily/</guid>
+      <pubDate>Sat, 27 Dec 2025 03:26:55 +0000</pubDate>
     </item>
     <item>
-      <title>【2025年最新】Gemini FlashとProの違いを徹底比較！サッカーのポジションで例えてみた</title>
-      <link>https://qiita.com/okkam_018/items/13a0a7c0ce22e46be117?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>0. はじめに
-Googleが提供する最新AI、 Gemini 。「Flash」と「Pro」の2種類がありますが、「結局何が違うの？」と迷っている方も多いのではないでしょうか。
-スペック表を見ても専門用語ばかりで難しいですよね。そこで、 この2つのモデルの違いを、サッカー... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/okkam_018/items/13a0a7c0ce22e46be117?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 26 Dec 2025 01:32:28 +0000</pubDate>
+      <title>ChatGPT使いすぎて、文章見ると『あ、これChatGPTに書かせて一部だけ訂正したやつだな』というのが大体分かるようになってきてしまった</title>
+      <link>https://togetter.com/li/2643830</link>
+      <description>チャットAIを頻繁に使っていると、文章やアプリ、コードに特有の「AIっぽさ」が判別できるようになる。部分的に手直しされた生成文やAIらしい変数名・構造は見抜きやすく、慣れた人には一目で分かる。作成者の意図や修正の跡が透けて見えるため、AI活用の場面と使い方を慎重に選ぶべきだと感じる。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2643830</guid>
+      <pubDate>Sat, 27 Dec 2025 22:36:30 +0000</pubDate>
     </item>
     <item>
-      <title>Obsidianを使ってみた所感と、実際に試して分かったこと</title>
-      <link>https://zenn.dev/idapan/articles/4122ed6954cd78</link>
-      <description>今日『Obsidian × AI 自分だけの知識のデータベースをつくる』という書籍が発売され、ちょうど手元にも届きました。
-周りでも使っている人が少しずつ増えてきていたので、改めて Obsidian を試していました。
-https://www.amazon.co.jp/dp/4839989869
+      <title>天下一レビュープロセス大会 2025</title>
+      <link>https://zenn.dev/aldagram_tech/articles/01b9ab2fd6daee</link>
+      <description>!
+この記事の文章は100%天然由来の人間によって生成されています
+(ただしコードブロック内は除きます)
 
-
- 普段の作業と Obsidian の相性
-普段の開発では、Claude などの生成AIを使いながら作業することが増えています。
-設計を考えたり、調査した内容をまとめたりする際には、一度 Markdown ファイルとして書き出してから進めることが多いです。
-たとえば、
-
-仕様や設計の整理
-調査... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/idapan/articles/4122ed6954cd78</guid>
-      <pubDate>Thu, 25 Dec 2025 10:33:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moonbit Advent Calendar の振り返り ~ はたして実用的な言語なのか</title>
-      <link>https://zenn.dev/mizchi/articles/moonbit-advent-last-day</link>
-      <description>Moonbit Advent Calendar 最終日の振り返りです。
-https://qiita.com/advent-calendar/2025/moonbit
-このカレンダーを作った目的は、自分を追い立てつつ(結果として Luna UI が完成しました)、隙あらば皆さんにもMoonbit触れてもらう機会にしたい、と言う気持ちがありました。。
-結果的に10記事近く自分が書きましたが、当初の想定以上に参加者を集めることができ、その目的は達成できたと思います。
-本音としては、本当はもっと軽いリファレンス的な記事を連投してお茶を濁すつもりでしたが、 @ramenha0141 さんの熱量が入... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mizchi/articles/moonbit-advent-last-day</guid>
-      <pubDate>Thu, 25 Dec 2025 10:12:33 +0000</pubDate>
+こんにちは！アルダグラムのKANNAの開発お手伝いをさせて頂いているoubakiouです。
+PR単位でのレビュー依頼は、レビューを行う人間の脆弱な身体と精神を前提とした旧時代のプロセスでした。しかし現代では労働基準法に守られていない優秀なAIレビュアーがいつでも安価に利用できるため、PR単位だけではなく必要となればコミット単位・Ctrl+Sの単位でも懇切丁寧なレビューを受ける事が出来るようになりました。
+思い返せば2024年のLLMは極一部の状況では人間を上回る知性を発揮できたもの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aldagram_tech/articles/01b9ab2fd6daee</guid>
+      <pubDate>Fri, 26 Dec 2025 04:34:42 +0000</pubDate>
     </item>
     <item>
       <title>Arch Linuxしか使わなくなった話</title>
@@ -69,41 +46,28 @@ https://qiita.com/advent-calendar/2025/moonbit
       <pubDate>Thu, 25 Dec 2025 16:14:24 +0000</pubDate>
     </item>
     <item>
-      <title>【実録】クリぼっち確定。AIに「過去半年の自分の行い」を全投入して恋愛相談したら、再起不能レベルの『正論パンチ』を食らった話</title>
-      <link>https://qiita.com/dekenbu/items/27bae39274436c68dc80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-メリークリスマス。
-街はイルミネーションで輝き、恋人たちが愛を語らう聖夜。 私は今、暖房の効きが悪いワンルームで一人、パソコンの画面を見つめています。
-本来であれば、半年前に「運命だね」と言い合った彼女と、予約していた三越のケーキを食べ、シャンパンを開けているは... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/dekenbu/items/27bae39274436c68dc80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 23 Dec 2025 22:07:05 +0000</pubDate>
+      <title>Reactコンポーネントを作る上で意識していること</title>
+      <link>https://zenn.dev/wogo_techblog/articles/04fcaac49d749c</link>
+      <description>こんにちは、WOGOの千葉です。
+普段フロントエンドエンジニアとして、ReactとTailwind CSSを使った開発をしています。
+この記事では、再利用性の高いコンポーネントを作るために、自分が意識しているいくつかのポイントを紹介します。
+
+ 1. SVGアイコンはJSXにしてcurrentColorを使う
+アイコンコンポーネントを作る際、SVGを直接JSXとして扱い、色の指定にはcurrentColorを使うようにしています。
+export function ArrowRight({ className }: { className?: string }) {
+  return (
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/wogo_techblog/articles/04fcaac49d749c</guid>
+      <pubDate>Thu, 25 Dec 2025 10:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>RAGが苦手な「膨大な会話データ」を検索可能に</title>
-      <link>https://zenn.dev/knowledgesense/articles/c2baff28b7b2fa</link>
-      <description>導入
-こんにちは、株式会社ナレッジセンスの須藤英寿です。
-今回は、過去の対話情報をもとに、LLMと一貫した会話を続けられる仕組み「Hindsight」について紹介します。
-https://arxiv.org/pdf/2512.12818
-
-
- サマリー
-RAGの代表的な活用方法の一つとして、過去のメールやチャットを情報源に、それまでのやり取りを前提とした会話を成立させる手法があります。
-しかし、やり取りのデータは時間とともにどんどん増えていきます。さらに事実と意見が混在したデータも多く存在するため、標準的なRAGを導入してもうまく会話を成立させることができません。
-「Hindsigh... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/c2baff28b7b2fa</guid>
-      <pubDate>Thu, 25 Dec 2025 01:26:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>新しいデザインシステム・コンポーネント管理のかたち「shadcn/ui registry」</title>
-      <link>https://zenn.dev/imaimai17468/articles/774e42f5613b15</link>
-      <description>この記事では、shadcn/ui の Registry 機能を活用して、企業の自家製の UI ライブラリやデザインシステムを構築・配布する方法を解説します。
-
- はじめに
-UI コンポーネントライブラリを作成・配布する方法として、npm パッケージとして公開するのが一般的です。shadcn/ui が提唱する Registry 方式 は、それとは異なるアプローチを提供します。どちらが優れているというわけではなく、ユースケースに応じて使い分けるのが理想です。
-shadcn/ui では npx shadcn add button のように CLI でコンポーネントを取得できますが、Regist... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/imaimai17468/articles/774e42f5613b15</guid>
-      <pubDate>Wed, 24 Dec 2025 09:02:17 +0000</pubDate>
+      <title>2026年、量子コンピュータが半導体ビジネスに「統合」されるための必須生存ルール</title>
+      <link>https://zenn.dev/yuichirominato/articles/8b2abe422e97b8</link>
+      <description>SEMICON Japan 2025を終え、私はある種の確信、あるいは強い「警鐘」を鳴らすべきだと感じています。
+2026年、量子コンピュータはこれまでの「研究開発フェーズ」を卒業し、巨大な 「半導体LSI業界」の一部 へと完全に飲み込まれます。これまで大学や研究機関が10年以上かけて積み上げてきた「自由な開発」の時代は終わり、これからは冷徹な「商用半導体のルール」がすべてを支配します。
+SEMI量子コンピュータ協議会を通じて、両業界の橋渡しをしてきた私から、これからこの業界に参入しようとする、あるいは生き残ろうとする皆さんに、「半導体の流儀」への適応という観点から、絶対に避けて通れない... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yuichirominato/articles/8b2abe422e97b8</guid>
+      <pubDate>Sat, 27 Dec 2025 05:28:03 +0000</pubDate>
     </item>
     <item>
       <title>2025年のdotfiles</title>
@@ -123,6 +87,27 @@ Google Cloud では、RAG を手軽に実現する手段として、Vertex AI Se
 業務システムとして利用する際は、これらのサービスを利用することで、スケーラビリティの高いシステムが容易に構築できますが、システム設計に関わるエンジニアとしては、そもそも RAG とはどのような仕組みで、どのような処理が裏側で行われているのかを理解しておくこと... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/google_cloud_jp/articles/e699bda0a298d6</guid>
       <pubDate>Fri, 26 Dec 2025 01:32:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>UnityでなぜMCPが必要なのか</title>
+      <link>https://zenn.dev/dsgarage/articles/2cd3e51b3cdfcd</link>
+      <description>AIコーディングアシスタントの進化によって、C#スクリプトを書くこと自体は、もはや特別な行為ではなくなりつつあります。
+頭の中にあるイメージを言葉にすれば、数秒後にはそれなりに動きそうなコードが目の前に現れます。
+それは間違いなく革命です。
+しかし、Unityでゲームを作っている方なら、きっとこう感じたことがあるはずです。
+
+「……ここからが本番なんだよな」
+
+本記事では、なぜUnity開発においてMCP（Model Context Protocol）が必要なのかを、単なる効率化の話ではなく、「もっと早く試したい」「もっと雑に作って、もっと磨きたい」という開発者の衝動の視点から掘り下げて... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dsgarage/articles/2cd3e51b3cdfcd</guid>
+      <pubDate>Fri, 26 Dec 2025 04:40:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>規約ベースのフレームワークはAI処理に不利だと思う - きしだのHatena</title>
+      <link>https://nowokay.hatenablog.com/entry/2025/12/28/045145</link>
+      <description>久しぶりに、Railsについて「設定より規約だなぁ」という発言を目にして、「規約よりアノテーションがいいし、AIに不利」みたいなツッコミをしたわけです。 ということで、どのようにAIに不利かまとめてみます。 一応、いまのRailsについてはAIがかなり学習しているので、Opusなどではかなり的確に扱えているようです。 ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://nowokay.hatenablog.com/entry/2025/12/28/045145</guid>
+      <pubDate>Sun, 28 Dec 2025 00:34:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

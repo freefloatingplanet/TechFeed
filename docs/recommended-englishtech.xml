@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 27 Dec 2025 06:37:08 +0000</lastBuildDate>
-    <item>
-      <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
-      <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
-      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主要な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</guid>
-      <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Okta から Python アプリにユーザーを同期する方法</title>
-      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</link>
-      <description>わずか数行のコードで、SCIM、Okta、Python、WorkOS を使用してアプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</guid>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Dec 2025 06:37:33 +0000</lastBuildDate>
     <item>
       <title>プレゼンテーション: 変化する権力構造: 上級エンジニアが下級エンジニアから学べること</title>
       <link>https://www.infoq.com/presentations/hierarchical-team/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -37,18 +23,18 @@
       <pubDate>Fri, 26 Dec 2025 08:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>WorkOSの内部</title>
-      <link>https://workos.com/blog/inside-workos</link>
-      <description>WorkOS の舞台裏に潜入して、卓越性、開発者の喜び、そして目的のある成長を追求する企業を支える文化、理念、人材を発見してください。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/inside-workos</guid>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cactus v1: ゼロレイテンシと完全なプライバシーを備えたモバイルでのクロスプラットフォーム LLM 推論</title>
       <link>https://www.infoq.com/news/2025/12/cactus-on-device-inference/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>Yコンビネーターの支援を受けるスタートアップ企業Cactusは、クロスプラットフォームでエネルギー効率の高いカーネルとネイティブランタイムを通じて、携帯電話、ウェアラブル端末、その他の低消費電力デバイスへのローカルAI推論を可能にします。デバイス内推論において、最初のトークン生成までの時間は50ミリ秒未満、ネットワークレイテンシは排除され、完全なプライバシーがデフォルトで確保されています。Sergio De Simone著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2025/12/cactus-on-device-inference/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 24 Dec 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WorkOSの内部</title>
+      <link>https://workos.com/blog/inside-workos</link>
+      <description>WorkOS の舞台裏に潜入して、卓越性、開発者の喜び、そして目的のある成長を追求する企業を支える文化、理念、人材を発見してください。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/inside-workos</guid>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
@@ -77,6 +63,20 @@
       <description>Cerbosは、開発者がアプリケーションにきめ細かなアクセス制御を実装するのに役立つオープンソースの認可エンジンです。Apache 2.0ライセンスの下でリリースされており、アプリケーションが特定のアクションを許可するかどうかを判断するための、一元化されたポリシー決定ポイントを提供します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</guid>
       <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS がネットワークファイアウォールプロキシのプレビューを開始し、マネージドエグレスセキュリティを簡素化</title>
+      <link>https://www.infoq.com/news/2025/12/aws-network-firewall-proxy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>AWSは、プロキシ管理を最適化し、VPCのアウトバウンドセキュリティを強化するマネージドサービス「Network Firewall Proxy」のプレビュー版を発表しました。NATゲートウェイと統合されたこのツールは、3フェーズモデルを通じてトラフィックを検査し、TLSインターセプションとTransit Gateway経由の集中型モデルの両方をサポートします。現在、東オハイオ州で利用可能です。Steef-Jan Wiggers著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/aws-network-firewall-proxy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 27 Dec 2025 10:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflareがtokio-quicheをオープンソース化、RustでQUICとHTTP/3をより簡単に実現</title>
+      <link>https://www.infoq.com/news/2025/12/quic-http3-rust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Cloudflareは、非同期QUICおよびHTTP/3 Rustライブラリ「tokio-quiche」をオープンソース化しました。これは、実績のあるquiche実装をTokioランタイムでラップすることで、高性能QUICアプリケーションの開発を簡素化します。このライブラリは、エッジサービス、Oxy HTTPプロキシ、またはWARPクライアントのWireguardベースのトンネルに代わるMASQUEベースのトンネルを支えるために社内で使用されていました。Olimpiu Pop著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/quic-http3-rust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 27 Dec 2025 08:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
