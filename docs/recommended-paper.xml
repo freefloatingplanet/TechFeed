@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Dec 2025 06:37:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 06:41:45 +0000</lastBuildDate>
     <item>
-      <title>メタヒューリスティックアセンブリとターゲットドリブンフィルタリングを用いたAMLに対するトランスクリプトーム条件付き個別化de novo薬剤生成</title>
-      <link>https://arxiv.org/abs/2512.21301v1</link>
-      <description>急性骨髄性白血病（AML）は、その極めて高い分子多様性と高い再発率により、依然として臨床的に大きな課題となっています。精密医療によって変異特異的な治療法が導入されている一方で、多くの患者は依然として効果的で個別化された治療法を享受できていません。本論文では、患者特異的なトランスクリプトミクスとde novo創薬のギャップを埋める、新たなエンドツーエンドの計算フレームワークを提示します。TCGA-LAMLコホートのバルクRNAシーケンスデータを解析することにより、本研究では重み付け遺伝子共発現ネットワーク解析（WGCNA）を用いて、HK3などの代謝トランスポーターやSIGLEC9などの免疫調節受容体を含む20の高価値バイオマーカーを優先順位付けしました。これらの標的の物理構造はAlphaFold3を用いてモデル化され、DOGSiteScorerエンジンを用いて創薬可能なホットスポットが定量的にマッピングされました。次に、反応ファーストの進化型メタヒューリスティックアルゴリズムと、特定されたホットスポットへの空間アライメントに基づいてフラグメントライブラリから新規リガンドを組み立てる多目的 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2512.21301v1</guid>
-      <pubDate>Wed, 24 Dec 2025 17:39:37 +0000</pubDate>
+      <title>NextG O-RANにおけるメタ学習ベースのハンドオーバー管理</title>
+      <link>https://arxiv.org/abs/2512.22022v1</link>
+      <description>従来のハンドオーバー（THO）はモバイル接続のバックボーンとして機能してきましたが、特に高密度な展開や高周波数帯域において、障害や遅延がますます多くなっています。これらの限界に対処するため、3GPPはプロアクティブなセル予約とユーザー主導の実行を可能にする条件付きハンドオーバー（CHO）を導入しました。しかし、どちらのハンドオーバー（HO）タイプも、シグナリング、リソース使用量、信頼性において複雑なトレードオフを伴います。本稿では、トップクラスのモバイルネットワーク事業者（MNO）による独自の全国規模のモビリティ管理データセットを提示し、これらの問題に対する新たな知見を提供し、次世代ネットワークにおける適応型で堅牢なHO制御の必要性を訴えます。これらの知見に基づき、O-RANアーキテクチャ内でTHOとCHOを共同で最適化する初のフレームワーク、CONTRAを提案します。我々は CONTRA の 2 つの変種を研究します。1 つは、明確なサービスまたはユーザー固有の要件を反映して、ユーザーが事前的にいずれかの HO タイプに割り当てられるもので、もう 1 つは、システムの状態とニーズに基 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.22022v1</guid>
+      <pubDate>Fri, 26 Dec 2025 13:01:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

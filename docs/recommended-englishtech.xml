@@ -7,11 +7,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Dec 2025 06:37:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 06:41:50 +0000</lastBuildDate>
+    <item>
+      <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
+      <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
+      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</guid>
+      <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Javaニュースまとめ: Spring Vault、LangChain4j、Seed4J、Infinispan、Gradle</title>
+      <link>https://www.infoq.com/news/2025/12/java-news-roundup-dec22-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>今週の2025年12月22日版Javaラウンドアップでは、Spring Vaultの新しいインターフェースであるVaultClientとReactiveVaultClient、LangChain4jとSeed4Jのポイントリリース、Micronaut、Quarkus、Infinispanのメンテナンスリリース、そしてGradle 9.3の2番目のリリース候補版といった注目のニュースを取り上げます。Michael Redlich著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/java-news-roundup-dec22-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 29 Dec 2025 02:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Okta から Python アプリにユーザーを同期する方法</title>
+      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</link>
+      <description>わずか数行のコードで、SCIM、Okta、Python、WorkOS を使用してアプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</guid>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>プレゼンテーション: 変化する権力構造: 上級エンジニアが下級エンジニアから学べること</title>
       <link>https://www.infoq.com/presentations/hierarchical-team/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ベス・アンダーソンは「権力距離指数」とそれがコミュニケーションにおいて果たす重要な役割について論じます。大韓航空801便の悲劇をケーススタディとして取り上げ、階層構造に基づく沈黙の危険性を解説します。心理的安全性の4段階の構築、リバースメンタリングの実践、そしてPRをゲートキーピングではなく知識共有のツールとして活用するための実践的なフレームワークを紹介します。ベス・アンダーソン著 (source: InfoQ)</description>
+      <description>ベス・アンダーソンは「権力距離指数」と、それがコミュニケーションにおいて果たす重要な役割について論じます。大韓航空801便の悲劇をケーススタディとして取り上げ、階層構造に基づく沈黙の危険性を解説します。心理的安全性の4段階の構築、リバースメンタリングの実践、そしてPRをゲートキーピングではなく知識共有のツールとして活用するための、実践的なフレームワークを紹介します。ベス・アンダーソン著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/hierarchical-team/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Fri, 26 Dec 2025 15:00:00 +0000</pubDate>
     </item>
@@ -21,13 +42,6 @@
       <description>Spotifyは、Confidence実験プラットフォームに「学習を伴う実験（EwL）」指標を導入しました。これは、どれだけのテストが「成功」したかだけでなく、意思決定に直結する洞察をもたらしたかを測定するものです。EwLは、製品チーム全体における学習の量と質の両方を把握し、大規模かつ迅速かつスマートな製品決定を支援します。結果は、リリース、中止、または反復のいずれかのアクションを裏付けるものでなければなりません。Olimpiu Pop著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2025/12/spotify-product-experiments/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Fri, 26 Dec 2025 08:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cactus v1: ゼロレイテンシと完全なプライバシーを備えたモバイルでのクロスプラットフォーム LLM 推論</title>
-      <link>https://www.infoq.com/news/2025/12/cactus-on-device-inference/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Yコンビネーターの支援を受けるスタートアップ企業Cactusは、クロスプラットフォームでエネルギー効率の高いカーネルとネイティブランタイムを通じて、携帯電話、ウェアラブル端末、その他の低消費電力デバイスへのローカルAI推論を可能にします。デバイス内推論において、最初のトークン生成までの時間は50ミリ秒未満、ネットワークレイテンシは排除され、完全なプライバシーがデフォルトで確保されています。Sergio De Simone著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/cactus-on-device-inference/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 24 Dec 2025 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOSの内部</title>
@@ -42,20 +56,6 @@
       <description>MCPナイト、ホリデースペシャルは歴史的な瞬間を刻みました。AnthropicがMCPをLinux Foundationに寄贈し、Agentic AI Foundationが設立されました。Cloudflare、Supabase、Datadog、Microsoft、Googleによるデモも行われました。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</guid>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Orion: プライバシー重視のユーザー向けの、テレメトリゼロ、広告ゼロ、AI対応の新しいブラウザ</title>
-      <link>https://www.infoq.com/news/2025/12/orion-ai-proof-privacy-browser/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Kagiは、プライバシーをデフォルトで保護し、テレメトリを一切使用せず、広告トラッキング技術も統合されていないウェブブラウザ、Orion 1.0をリリースしました。OrionはChromeとFirefoxの両方の拡張機能をサポートし、セキュリティ、プライバシー、パフォーマンスを最優先するため、コアから意図的にAIを排除しています。OrionはmacOSとiOSをターゲットとしており、近日中にLinux版とWindows版もリリース予定です。OrionはWebKitをベースにしています。Bruno Couriol著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/orion-ai-proof-privacy-browser/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 25 Dec 2025 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>プレゼンテーション：実践における言語AIの生態学と経済学</title>
-      <link>https://www.infoq.com/presentations/llm-ai-africa/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ジェイド・アボットは、大規模でリソースを大量に消費するモデルから、効率性と文化の持続可能性を優先する「Little LM」への移行について論じます。LoRA、量子化、GRPOといった技術が、より少ない計算リソースで高いパフォーマンスを実現する仕組みを説明します。「Ubuntu Punk」哲学を共有することで、抽出的なデータ処理から人間中心の持続可能なAIシステムへと移行する方法を解説します。ジェイド・アボット (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/llm-ai-africa/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 24 Dec 2025 10:27:00 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントセキュリティのためのCerbos：機能、価格、代替品</title>
