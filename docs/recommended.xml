@@ -7,73 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Dec 2025 06:41:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 06:39:02 +0000</lastBuildDate>
     <item>
-      <title>【テンプレ配布】Obsidian×Claude Codeで「調べ直し地獄」から解放される開発Wiki構築術</title>
-      <link>https://zenn.dev/tdmn/articles/73dd383d216174</link>
-      <description>Claude Codeを使ってコーディング作業をしているとき、最初の指示を忘れたり既存の実装を無視した実装を行ってめちゃくちゃになりませんか？なりません？？
-あと、あまりに粒度の大きい実装、修正をさせるとブラックボックス化して訳分からなくなるってことありませんか？
-本記事では、 Obsidian + Claude Code の組み合わせに出会って、開発効率と精度を200%にすることを目標に私が実際に運用している「開発ナレッジWiki」の構築方法と、すぐに使えるテンプレートを公開します。
-!
-この記事で得られること
-
-「調べ直し」と「聞き直し」を二度としなくなるWiki構築法
-Claude... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tdmn/articles/73dd383d216174</guid>
-      <pubDate>Sat, 27 Dec 2025 14:18:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>私のソフトウェア開発を一変させてしまった2025年のAIエージェントをふりかえる</title>
-      <link>https://blog.lai.so/agents-in-2025/</link>
-      <description>2023年から段階的にAIを開発フローに組み込み、2025年は試行錯誤とツールの大きな変化、そしてエージェント化を経て、私のソフトウェア開発の進め方は明確に変化しました。 ここで言う「変化」とは、単に作業が速くなった、便利になったという話ではありません。 より具体的には「コードをタイピングする時間よりも、間... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://blog.lai.so/agents-in-2025/</guid>
-      <pubDate>Sun, 28 Dec 2025 08:57:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>AttentionをMarkov連鎖として捉える</title>
-      <link>https://zenn.dev/horiyuki42/articles/535fcf5544bc3c</link>
-      <description>導入 Transformerのself-attention行列は、通常は各トークン間の直接的な重みとして用いられます。softmaxの後、この行列は非負で各行の和が1になるため、確率遷移行列として見なすことができます。ここでは、attentionを一度作用させる操作は1ステップの遷移に対応します。本記事では、このattention行列を繰り返し作用... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/horiyuki42/articles/535fcf5544bc3c</guid>
-      <pubDate>Sun, 28 Dec 2025 15:05:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>「Linux部」を全国の中高に！算額のように技術を競い、日本の情報産業を底上げする構想</title>
-      <link>https://qiita.com/kameda05/items/b5e3a72f164aeb1872c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>「Linux部」を全国の中高に！算額のように技術を競い、日本の情報産業を底上げする構想
-
-はじめに
-現在、多くの中学校・高校には「パソコン部」が存在します。しかし、私はあえてLinux部という形でのコミュニティを全国に広げるべきではないかと考えています。
-この記事では、な... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/kameda05/items/b5e3a72f164aeb1872c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 27 Dec 2025 01:37:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>業務の煩悩を祓うAI活用術108選 / AI 108 Usages</title>
-      <link>https://speakerdeck.com/smartbank/ye-wu-nofan-nao-wofu-uaihuo-yong-shu-108xuan</link>
-      <description>「除夜の鐘」とは、人間にあるとされる108種類の煩悩（悩みや心の迷い、苦しみ）を鐘を1回撞くごとに1つずつ消し去り、清らかな心で新年を迎えるための日本の風習です。 今回、もうすぐ大晦日を迎えるにあたり、「除夜の鐘」をテーマに「業務効率化の難しさや悩み」を「煩悩」に例え、それを解決した108個のAI… (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://speakerdeck.com/smartbank/ye-wu-nofan-nao-wofu-uaihuo-yong-shu-108xuan</guid>
-      <pubDate>Mon, 29 Dec 2025 03:48:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rust製のPythonライブラリを自作してみた</title>
-      <link>https://zenn.dev/ctenopoma/articles/rust-python-ai</link>
-      <description>Rust製のPythonライブラリを自作してみた
-
- 動機的なお話
-日頃、Pythonで開発を行っている身からして何一つ不便は感じないのですが、uvやruffがRust製であることを考えると、やはり処理速度は正義なのかと思うこの頃。
-特に処理速度で困っているわけではないのですが、困る前にRust製ライブラリの作り方を学習しておこうということで。
-
- 目標
-まず適当なライブラリを作成してみて、その後、Rust製のPythonライブラリ開発用のテンプレートを作成していこうと思います。
-
- サンプルの実装
-
- 環境
-AIの利用を前提として、以下の環境で開発しようと思います。
-
-copilo... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ctenopoma/articles/rust-python-ai</guid>
-      <pubDate>Sat, 27 Dec 2025 10:29:09 +0000</pubDate>
+      <title>おい、論理で人が動くと思ってるのか - じゃあ、おうちで学べる</title>
+      <link>https://syu-m-5151.hatenablog.com/entry/2025/12/29/160746</link>
+      <description>はじめに 数年前の、ある金曜日の夜のことだ。会議は完全な失敗に終わった。会議室を出て、エレベーターのボタンを押しながら、私はこの文章を書こうと決めた。書き上げるまでにずいぶん時間がかかってしまったので、当時の思いとは少し違っているかもしれない。 あの会議で「論理的に正しいことを言ったのか」と問われ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://syu-m-5151.hatenablog.com/entry/2025/12/29/160746</guid>
+      <pubDate>Mon, 29 Dec 2025 11:49:41 +0000</pubDate>
     </item>
     <item>
       <title>7年運用した Firestore から 1億件超えのデータを Cloud SQL に移行し、速度と費用と開発体験を改善した話</title>
@@ -95,6 +35,47 @@ copilo... (source: Zennのトレンド)</description>
       <pubDate>Sun, 28 Dec 2025 07:15:27 +0000</pubDate>
     </item>
     <item>
+      <title>AI駆動開発を全力で試して得られた、10の実践テクニックと知見について</title>
+      <link>https://zenn.dev/sunagaku/articles/ai-development-best-practices-2025</link>
+      <description>はじめに
+「AI を使えば開発を効率化できる」 僕自身も色々と試していて、その確証を持っていたのですが、
+
+「どこまで AI に任せられるのか？」
+「バイブコーディングだと、どのタイミングでアプリがスケールしなくなるのか？」
+「どのような問題が生じるのか？エンジニアリングで対応できないのか？」
+
+など、色々と気になりつつ、ずっと避けてしまっていたところがありました。
+そこで、自分の個人開発中のアプリに対して、全力でAIを活用して最大限の開発効率化を目指して開発を行なってみました。
+ここで僕自身が試したことや工夫したこと、そして得られた実践テクニックと知見を共有したいと思います。
+もし... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sunagaku/articles/ai-development-best-practices-2025</guid>
+      <pubDate>Mon, 29 Dec 2025 02:23:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>AttentionをMarkov連鎖として捉える</title>
+      <link>https://zenn.dev/horiyuki42/articles/535fcf5544bc3c</link>
+      <description>導入
+Transformerのself-attention行列は、通常は各トークン間の直接的な重みとして用いられます。softmaxの後、この行列は非負で各行の和が1になるため、確率遷移行列として見なすことができます。ここでは、attentionを一度作用させる操作は1ステップの遷移に対応します。本記事では、このattention行列を繰り返し作用させたときに、どのような分布が得られるかを整理します。NeurIPS 2025に採択された次の論文を参考にしました。
+https://openreview.net/forum?id=wy2FwyNYro
+
+ Attention行列の定義と基... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/horiyuki42/articles/535fcf5544bc3c</guid>
+      <pubDate>Sun, 28 Dec 2025 06:04:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>自分のエンジニアリング成果を「見える化」してドヤるための GitHub CLI 拡張 gh-brag を作った</title>
+      <link>https://zenn.dev/jackchuka/articles/19ebe3677cebdc</link>
+      <description>はじめに
+こんにちは、 jackchuka です。
+突然ですが、エンジニアの皆さんに質問です。
+評価面談や 1-on-1 の直前に 「自分、この半年で具体的に何したっけ...？」 と頭を抱えたことはありませんか？
+あるいは、職務経歴書を更新しようとして「何回か大きな PR を出した気はするけど、正確な数は覚えてないな」となることはないでしょうか。
+GitHub の「草」は活動の継続性は示してくれますが、「どのような領域にインパクトを出したか」という質的な側面までは語ってくれません。
+そこで今回、自分の GitHub 活動をサクッと集計・分析し、いい感じのダッシュボードで成果を「見える... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/jackchuka/articles/19ebe3677cebdc</guid>
+      <pubDate>Sun, 28 Dec 2025 09:51:28 +0000</pubDate>
+    </item>
+    <item>
       <title>2025年のdotfiles</title>
       <link>https://zenn.dev/momeemt/articles/dotfiles2025</link>
       <description>はじめに
@@ -105,13 +86,36 @@ https://github.com/... (source: Zennのトレンド)</description>
       <pubDate>Fri, 26 Dec 2025 13:21:45 +0000</pubDate>
     </item>
     <item>
-      <title>【60億円流出】GitHub Token流出から始まったAPI改ざんとその対策</title>
-      <link>https://zenn.dev/omakase/articles/validator-security-incident-2025</link>
-      <description>前回の振り返り
-前回の記事では、ステーキングプロバイダーの API レスポンスが実行時に改ざんされ、利用者がそれに気づかず署名してしまったことで資産が流出してしまった、というインシデントについて整理しました。具体的には、Unstake のトランザクションに悪意のある権限移譲の処理が追加されていて、それをデコードして確認しないまま署名してしまったのが原因でした。なので、「署名する前にデコードして中身を確認する」という対策などについて記載しました。
-本記事では、ステーキングプロバイダーから公開された続報をもとに、「なぜ API が改ざんされてしまったのか」という根本原因について、その攻撃... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/omakase/articles/validator-security-incident-2025</guid>
-      <pubDate>Fri, 26 Dec 2025 06:00:01 +0000</pubDate>
+      <title>AI時代のコードレビュー ― 何を見るべきか、何は見なくてよくなったか</title>
+      <link>https://zenn.dev/pivotmedia/articles/ai-era-code-review</link>
+      <description>こんにちは。PIVOTでソフトウェアエンジニアをしている@tawachanです。
+AIの進化により、私たちの開発プロセスは根本から変わりつつあります。AIは部分的に導入するのではなく、プロジェクト全体を見直す必要があるのは当然の流れです。実際PIVOTでもスクラムからカンバンへの移行を行うなど、私たちもいろいろ考えてやってみています。その流れの一例として以前の記事「スクラムからカンバンへの移行——ソフトウェアエンジニアがマネージャーになる時代に」でも書いています。
+しかし今回は、あえてその大きな話から視点を移し、コードレビューという日々の細かいプラクティスに焦点を当てたいと思います。今年... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pivotmedia/articles/ai-era-code-review</guid>
+      <pubDate>Sun, 28 Dec 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bambu Labの工業向けフィラメントを試してみた</title>
+      <link>https://zenn.dev/aeronext_dev/articles/6d94a2b46a2498</link>
+      <description>背景
+ホビー向けのPLAなどは、特に熱に弱く、真夏の炎天下に置いていると、柔らかくなって形が変形したりしてしまいます。
+そこまで温度が高い状態にならなくても、時間とともに少しずつ形状が変形してきてしまうことがあります。
+そこで、少し値段は高いのですが、工業向けのフィラメントが各種あるので、実際どんな感じか試してみました。
+
+ 用意したフィラメント
+比較のために用意したのは、
+
+PPA-CF
+PAHT-CF
+PA6-GF
+
+ABS
+の4種類です。
+ABSは比較用です。
+PPA-CFが一番熱に強そうなので、選定しました。お値段は一番高く、まだAMSに非対応とのことです。
+PAHT-CFは... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aeronext_dev/articles/6d94a2b46a2498</guid>
+      <pubDate>Sun, 28 Dec 2025 22:00:01 +0000</pubDate>
     </item>
     <item>
       <title>推しキャラ駆動開発のススメ</title>
@@ -126,6 +130,19 @@ https://github.com/... (source: Zennのトレンド)</description>
 Claude Codeに、自分の好きなキャラクターとして振る舞ってもらうようにしました。すると、エラーが出ても気分が沈みにくくなり、デバッグも「一緒に原因を探している」感覚になりました。淡々としたエラーメッセージより、励ましやリアク... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/yosugi/articles/character-driven-development</guid>
       <pubDate>Sun, 28 Dec 2025 05:11:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dockerの裏側を知るために、Goで最小限のコンテナランタイムを作ってみた</title>
+      <link>https://zenn.dev/7csc/articles/6bca7dad3b0a84</link>
+      <description>はじめに
+コンテナ技術は当たり前のように使われていますが、コンテナランタイムの仕組みについて理解を深めるため、実装してみました。
+といっても、過去に一度挑戦しましたが、なかなかうまくいかず塩漬けになっていたので2025年の締めとして取り組みました。
+これまで何冊か技術書を読んだものの、やっぱり作ってみた方が一連の処理をイメージしやすいので、コンテナについて学習されている方にとって私の書いたコードが少しでも参考になれば嬉しいです。
+!
+「自作した」と言っていますが、runcなどの便利かつ強力なライブラリを組み合わせただけで、大したものではないです。
+おまけに動かすことを最優先したので非... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/7csc/articles/6bca7dad3b0a84</guid>
+      <pubDate>Sat, 27 Dec 2025 15:11:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

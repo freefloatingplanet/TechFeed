@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Dec 2025 06:41:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 06:39:13 +0000</lastBuildDate>
+    <item>
+      <title>FGA：WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
+      <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新興のAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
       <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
@@ -30,18 +37,11 @@
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション: 変化する権力構造: 上級エンジニアが下級エンジニアから学べること</title>
-      <link>https://www.infoq.com/presentations/hierarchical-team/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ベス・アンダーソンは「権力距離指数」と、それがコミュニケーションにおいて果たす重要な役割について論じます。大韓航空801便の悲劇をケーススタディとして取り上げ、階層構造に基づく沈黙の危険性を解説します。心理的安全性の4段階の構築、リバースメンタリングの実践、そしてPRをゲートキーピングではなく知識共有のツールとして活用するための、実践的なフレームワークを紹介します。ベス・アンダーソン著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/hierarchical-team/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 26 Dec 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>勝率を超えて：Spotifyが製品実験における学習を定量化する方法</title>
-      <link>https://www.infoq.com/news/2025/12/spotify-product-experiments/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Spotifyは、Confidence実験プラットフォームに「学習を伴う実験（EwL）」指標を導入しました。これは、どれだけのテストが「成功」したかだけでなく、意思決定に直結する洞察をもたらしたかを測定するものです。EwLは、製品チーム全体における学習の量と質の両方を把握し、大規模かつ迅速かつスマートな製品決定を支援します。結果は、リリース、中止、または反復のいずれかのアクションを裏付けるものでなければなりません。Olimpiu Pop著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/spotify-product-experiments/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 26 Dec 2025 08:08:00 +0000</pubDate>
+      <title>SharePoint Framework 1.22 は Heft ベースのビルド ツールチェーンと更新されたプロジェクト ベースラインを搭載してリリースされました</title>
+      <link>https://www.infoq.com/news/2025/12/spfx-1-22-heft/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Microsoftは、SharePoint Framework（SPFx）バージョン1.22の一般提供を発表しました。これは、SPFx開発者向けのビルドおよびツールエクスペリエンスの近代化に重点を置いたリリースです。この変更は、SPFxソリューションの構築方法の根本的なアップデートであり、技術的負債の解決、拡張性の向上、そしてより広範なMicrosoftツールチェーン標準への準拠を目指しています。Edin Kapić (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/spfx-1-22-heft/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 29 Dec 2025 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOSの内部</title>
