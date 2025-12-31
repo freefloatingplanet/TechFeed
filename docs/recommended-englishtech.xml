@@ -7,11 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Dec 2025 06:39:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 06:39:31 +0000</lastBuildDate>
+    <item>
+      <title>CNCF、ワークロードの標準化に向けたKubernetes AI適合認定プログラムを開始</title>
+      <link>https://www.infoq.com/news/2025/12/cncf-kubernetes-ai-conformance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>CNCFは、人工知能（AI）ワークロードの標準化を目指し、Certified Kubernetes AI Conformanceプログラムを開始しました。GPU管理、ネットワーク、ギャングスケジューリングの技術ベースラインを確立することで、クラウドプロバイダー間のポータビリティを確保します。企業が生成型AIモデルを本番環境に移行する際に、技術的負債を軽減し、ベンダーロックインを防ぐことを目的としています。マーク・シルベスター (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/cncf-kubernetes-ai-conformance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 30 Dec 2025 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>FGA：WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新興のAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
@@ -44,6 +51,13 @@
       <pubDate>Mon, 29 Dec 2025 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft Foundry Agent サービスが長期メモリ プレビューで状態管理を簡素化</title>
+      <link>https://www.infoq.com/news/2025/12/foundry-agent-memory-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>マイクロソフトは、Foundry Agent Service向けにマネージド長期記憶ストアのパブリックプレビューを開始しました。このサービスは、ユーザーコンテキストの抽出、統合、取得を自動化し、AIエージェントとの長期的なインタラクションにおけるインテリジェンスの劣化を防ぐネイティブな「状態レイヤー」を提供します。Steef-Jan Wiggers著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/foundry-agent-memory-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 30 Dec 2025 10:16:00 +0000</pubDate>
+    </item>
+    <item>
       <title>WorkOSの内部</title>
       <link>https://workos.com/blog/inside-workos</link>
       <description>WorkOS の舞台裏に潜入して、卓越性、開発者の喜び、そして目的のある成長を追求する企業を支える文化、理念、人材を発見してください。 (source: WorkOS Blog)</description>
@@ -63,20 +77,6 @@
       <description>Cerbosは、開発者がアプリケーションにきめ細かなアクセス制御を実装するのに役立つオープンソースの認可エンジンです。Apache 2.0ライセンスの下でリリースされており、アプリケーションが特定のアクションを許可するかどうかを判断するための、一元化されたポリシー決定ポイントを提供します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</guid>
       <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS がネットワークファイアウォールプロキシのプレビューを開始し、マネージドエグレスセキュリティを簡素化</title>
-      <link>https://www.infoq.com/news/2025/12/aws-network-firewall-proxy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AWSは、プロキシ管理を最適化し、VPCのアウトバウンドセキュリティを強化するマネージドサービス「Network Firewall Proxy」のプレビュー版を発表しました。NATゲートウェイと統合されたこのツールは、3フェーズモデルを通じてトラフィックを検査し、TLSインターセプションとTransit Gateway経由の集中型モデルの両方をサポートします。現在、東オハイオ州で利用可能です。Steef-Jan Wiggers著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/aws-network-firewall-proxy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 27 Dec 2025 10:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflareがtokio-quicheをオープンソース化、RustでQUICとHTTP/3をより簡単に実現</title>
-      <link>https://www.infoq.com/news/2025/12/quic-http3-rust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Cloudflareは、非同期QUICおよびHTTP/3 Rustライブラリ「tokio-quiche」をオープンソース化しました。これは、実績のあるquiche実装をTokioランタイムでラップすることで、高性能QUICアプリケーションの開発を簡素化します。このライブラリは、エッジサービス、Oxy HTTPプロキシ、またはWARPクライアントのWireguardベースのトンネルに代わるMASQUEベースのトンネルを支えるために社内で使用されていました。Olimpiu Pop著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/quic-http3-rust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 27 Dec 2025 08:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

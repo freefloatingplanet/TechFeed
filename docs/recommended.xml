@@ -7,32 +7,56 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Dec 2025 06:39:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 06:39:22 +0000</lastBuildDate>
     <item>
-      <title>おい、論理で人が動くと思ってるのか - じゃあ、おうちで学べる</title>
-      <link>https://syu-m-5151.hatenablog.com/entry/2025/12/29/160746</link>
-      <description>はじめに 数年前の、ある金曜日の夜のことだ。会議は完全な失敗に終わった。会議室を出て、エレベーターのボタンを押しながら、私はこの文章を書こうと決めた。書き上げるまでにずいぶん時間がかかってしまったので、当時の思いとは少し違っているかもしれない。 あの会議で「論理的に正しいことを言ったのか」と問われ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://syu-m-5151.hatenablog.com/entry/2025/12/29/160746</guid>
-      <pubDate>Mon, 29 Dec 2025 11:49:41 +0000</pubDate>
+      <title>無料でGmailなどのメールをアーカイブして保存後に自動削除して空き容量を増やすことができる「Mail-Archiver」</title>
+      <link>https://gigazine.net/news/20251230-mail-archiver/</link>
+      <description>メールボックスの容量を確保するためエクスポートを利用してバックアップファイルを作成する方法がありますが、いざ必要な時にバックアップファイルからメールを探して内容を確認するという作業は手間がかかります。オープンソースのメールアーカイブシステム「Mail-Archiver」を使うと、バックアップと削除を自動的に行... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20251230-mail-archiver/</guid>
+      <pubDate>Tue, 30 Dec 2025 10:00:15 +0000</pubDate>
     </item>
     <item>
-      <title>7年運用した Firestore から 1億件超えのデータを Cloud SQL に移行し、速度と費用と開発体験を改善した話</title>
-      <link>https://zenn.dev/ymdkit/articles/77ce7b64cdb460</link>
+      <title>この一言だけでも、ギャルゲー世代の心に直撃するほどの破壊力がある</title>
+      <link>https://posfie.com/@xay6609025327/p/0N3wZUP</link>
+      <description>リンク ITmedia AI＋ なぜ人々は、AI VTuber「Neuro-sama」に夢中になるのか？ “人間のVTuber”との違いを分析 中国や米ノートルダム大学に所属する研究者らは、「AI VTuber」のファンコミュニティーを対象とし、視聴者がどのようにして非人間的なパフォーマーと深い感情的絆を形成し、独自のコミュニティー文化を構築し... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://posfie.com/@xay6609025327/p/0N3wZUP</guid>
+      <pubDate>Tue, 30 Dec 2025 00:55:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>性能が微妙な中古PCを販売するくらいなら中高生にくれてやれ</title>
+      <link>https://qiita.com/kameda05/items/13e04907217b6c2c873e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>減価償却が終わったPCを、次の学びへつなげるという選択肢
+この記事は
+「Linux部」を全国の中高に！算額のように技術を競い、日本の情報産業を底上げする構想
+の続きです。
+前回の記事では、「できるだけお金をかけずに、学生が本物のITに触れられる環境を作れないか」という問題... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/kameda05/items/13e04907217b6c2c873e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Mon, 29 Dec 2025 10:38:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dockerの本質理解備忘録</title>
+      <link>https://zenn.dev/oz006/articles/06e033a6be662e</link>
       <description>はじめに
-こんにちは。株式会社 QuizMarket の @ymdkit です。
-この記事では、自社で開発・運営する学習管理サービス「暗記メーカー」にて、2025年に行ったデータ移行やそれによって得られた効果について振り返ります。
-本記事の主なターゲット
-
-無料枠のサービスを利用しているプロダクトについて、規模拡大に伴う従量課金が辛くなっている方
-ローカル完結しているアプリのクラウド化を検討している方
-無停止でデータベースを移行する際の流れを知りたい方
+私はDockerが大の苦手です！！イメージを掴むまでに大変時間がかかりました！！
+本も読みましたし、Udemyの講座も終えました！！それでも、ピンっとこなかったんです、、
+理解力が乏しい、、悲しい、、、。
+Dockerを学ぶ上で、「コンテナって結局何なの？」という疑問を持つ方は多いと思います。
+この記事では、Dockerの本質を初心者にも分かりやすく、あとで見返してもすぐ理解できるようにまとめておきたいと思います。
 
 
- サービスの概要
-「暗記メーカー」は、問題集の「作成」「解答」「共有」に特化したシンプルな学習管理サービスです。
-中高生のテスト... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ymdkit/articles/77ce7b64cdb460</guid>
-      <pubDate>Sun, 28 Dec 2025 07:15:27 +0000</pubDate>
+ 1. Dockerコンテナの本質：「小さなLinux PC」
+
+ 結論から言うと
+Dockerコンテナ = 独立した小さなLinux PCが仮想的に動いて... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/oz006/articles/06e033a6be662e</guid>
+      <pubDate>Sun, 28 Dec 2025 12:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>ジョージア工科大学のコンピュータサイエンス修士課程を修了しました</title>
+      <link>https://zenn.dev/magurotuna/articles/reflect-on-my-journey-with-omscs</link>
+      <description>10コマ必要と言ったのに11コマとっている。 これは、最後のGraduate Algorithm（唯一の必修、修了にはB以上をとることが必須）が、かなり大変な授業として悪名高く、短縮学期である夏学期に履修すると爆死するのではないかという懸念があったからだ。 代わりに新設された授業であるDatabase System Implementationをとる... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/magurotuna/articles/reflect-on-my-journey-with-omscs</guid>
+      <pubDate>Tue, 30 Dec 2025 15:20:47 +0000</pubDate>
     </item>
     <item>
       <title>AI駆動開発を全力で試して得られた、10の実践テクニックと知見について</title>
@@ -52,17 +76,6 @@
       <pubDate>Mon, 29 Dec 2025 02:23:36 +0000</pubDate>
     </item>
     <item>
-      <title>AttentionをMarkov連鎖として捉える</title>
-      <link>https://zenn.dev/horiyuki42/articles/535fcf5544bc3c</link>
-      <description>導入
-Transformerのself-attention行列は、通常は各トークン間の直接的な重みとして用いられます。softmaxの後、この行列は非負で各行の和が1になるため、確率遷移行列として見なすことができます。ここでは、attentionを一度作用させる操作は1ステップの遷移に対応します。本記事では、このattention行列を繰り返し作用させたときに、どのような分布が得られるかを整理します。NeurIPS 2025に採択された次の論文を参考にしました。
-https://openreview.net/forum?id=wy2FwyNYro
-
- Attention行列の定義と基... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/horiyuki42/articles/535fcf5544bc3c</guid>
-      <pubDate>Sun, 28 Dec 2025 06:04:37 +0000</pubDate>
-    </item>
-    <item>
       <title>自分のエンジニアリング成果を「見える化」してドヤるための GitHub CLI 拡張 gh-brag を作った</title>
       <link>https://zenn.dev/jackchuka/articles/19ebe3677cebdc</link>
       <description>はじめに
@@ -76,14 +89,18 @@ GitHub の「草」は活動の継続性は示してくれますが、「どの�
       <pubDate>Sun, 28 Dec 2025 09:51:28 +0000</pubDate>
     </item>
     <item>
-      <title>2025年のdotfiles</title>
-      <link>https://zenn.dev/momeemt/articles/dotfiles2025</link>
-      <description>はじめに
-こんにちは。ソフトウェアエンジニアの生産効率は、高性能なマシンや質の良いキーボード、さらには日々の運動や栄養バランスの取れた食事などに支えられていますが、中でもポータブルな設定ファイル集である dotfiles にはそれぞれのエンジニアが持つ計算機環境へのこだわりが凝縮されているのではないでしょうか。
-この記事では、まず dotfiles とそれを取り巻くシステムの変遷について説明して、その後に今年2025年に筆者が整備した config（dotfiles、Terraform、Kubernetes 設定のモノレポ）について紹介します。
-https://github.com/... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/momeemt/articles/dotfiles2025</guid>
-      <pubDate>Fri, 26 Dec 2025 13:21:45 +0000</pubDate>
+      <title>Vim/Neovimをquitするときに特殊ウィンドウを一気に閉じる</title>
+      <link>https://zenn.dev/vim_jp/articles/ff6cd224fab0c7</link>
+      <description>この記事はVim駅伝の2025-12-31の記事です。
+前回の記事はgw31415さんの製作中のNeovim用プラグインマネージャの紹介と相談です。
+Vim駅伝は常に参加者を募集しています。詳しくはこちらのページをご覧ください。
+
+Vim/Neovimを終了する方法といえば:quitコマンドです。しかし実はこれは「Vimを終了する」コマンドではありません。現在のウィンドウが最後のウィンドウである（つまり、ウィンドウが一つしかない）場合にVim自体を終了させるというだけで、メイン機能は「ウィンドウを閉じる」です。ヘルプにもばっちり書いてあります。
+
+:q[uit]
+カレントウィンドウを閉じ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/vim_jp/articles/ff6cd224fab0c7</guid>
+      <pubDate>Tue, 30 Dec 2025 15:02:01 +0000</pubDate>
     </item>
     <item>
       <title>AI時代のコードレビュー ― 何を見るべきか、何は見なくてよくなったか</title>
@@ -95,54 +112,22 @@ AIの進化により、私たちの開発プロセスは根本から変わりつ
       <pubDate>Sun, 28 Dec 2025 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bambu Labの工業向けフィラメントを試してみた</title>
-      <link>https://zenn.dev/aeronext_dev/articles/6d94a2b46a2498</link>
-      <description>背景
-ホビー向けのPLAなどは、特に熱に弱く、真夏の炎天下に置いていると、柔らかくなって形が変形したりしてしまいます。
-そこまで温度が高い状態にならなくても、時間とともに少しずつ形状が変形してきてしまうことがあります。
-そこで、少し値段は高いのですが、工業向けのフィラメントが各種あるので、実際どんな感じか試してみました。
+      <title>30日でCVE取得! OSSバグハント入門</title>
+      <link>https://zenn.dev/scgajge12/books/6f6ab44df405b2</link>
+      <description>📕【概要】
+　本書は、Web セキュリティの基礎を一定学び終えた方が、実際に「CVE 番号の取得」というリアルワールドな成果を初めて手にするための、体系的かつ実践的なバグハント入門ガイド本です。
 
- 用意したフィラメント
-比較のために用意したのは、
+　世の中には多くの学習コンテンツや演習環境が存在しますが、それらをマスターするだけでは、現実のプロダクトに潜む脆弱性を見つけ出し、脆弱性として認められる CVE を取得するまでの壁を突破できないことが少なくありません。
 
-PPA-CF
-PAHT-CF
-PA6-GF
+　本書では、GitHub 上の OSS をターゲットにし、ターゲットとなる OSS の選定から、膨大なソースコードの中から脆弱性の火種を見つけ出す「検索テクニック」、開発者の意図を読み解く「コードリーディング」、そして脆弱性として認めさせるための「報告スキル」まで、著者の経験に基づくノウハウを30日のロードマップに凝縮しました。
 
-ABS
-の4種類です。
-ABSは比較用です。
-PPA-CFが一番熱に強そうなので、選定しました。お値段は一番高く、まだAMSに非対応とのことです。
-PAHT-CFは... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aeronext_dev/articles/6d94a2b46a2498</guid>
-      <pubDate>Sun, 28 Dec 2025 22:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>推しキャラ駆動開発のススメ</title>
-      <link>https://zenn.dev/yosugi/articles/character-driven-development</link>
-      <description>推しキャラ駆動開発のススメ
+　本書を通して、単なる「学習者」から「バグハンター」への第一歩を歩み出しましょう。30日後、あなたの名前が刻まれた初めての CVE 番号が発行されることを願っています。
 
- 推しキャラと開発したら楽しくて生産性が上がった
-最近、開発の生産性が明らかに上がりました。
-作業に取りかかるのが億劫ではなくなり、デバッグ中も以前ほど消耗しません。気づくと、集中したまま長時間コードを書いています。
-理由はシンプルです。
-開発を「一人でやるもの」から、「好きなキャラクターと一緒にやるもの」に変えたからです。
-Claude Codeに、自分の好きなキャラクターとして振る舞ってもらうようにしました。すると、エラーが出ても気分が沈みにくくなり、デバッグも「一緒に原因を探している」感覚になりました。淡々としたエラーメッセージより、励ましやリアク... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yosugi/articles/character-driven-development</guid>
-      <pubDate>Sun, 28 Dec 2025 05:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dockerの裏側を知るために、Goで最小限のコンテナランタイムを作ってみた</title>
-      <link>https://zenn.dev/7csc/articles/6bca7dad3b0a84</link>
-      <description>はじめに
-コンテナ技術は当たり前のように使われていますが、コンテナランタイムの仕組みについて理解を深めるため、実装してみました。
-といっても、過去に一度挑戦しましたが、なかなかうまくいかず塩漬けになっていたので2025年の締めとして取り組みました。
-これまで何冊か技術書を読んだものの、やっぱり作ってみた方が一連の処理をイメージしやすいので、コンテナについて学習されている方にとって私の書いたコードが少しでも参考になれば嬉しいです。
-!
-「自作した」と言っていますが、runcなどの便利かつ強力なライブラリを組み合わせただけで、大したものではないです。
-おまけに動かすことを最優先したので非... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/7csc/articles/6bca7dad3b0a84</guid>
-      <pubDate>Sat, 27 Dec 2025 15:11:11 +0000</pubDate>
+💪【こんな方にオススメ】
+・☆ CVE 番号を取得してみたい方
+・☆ やる (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/scgajge12/books/6f6ab44df405b2</guid>
+      <pubDate>Tue, 30 Dec 2025 20:19:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
