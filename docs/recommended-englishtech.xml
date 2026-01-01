@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 31 Dec 2025 06:39:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 06:39:49 +0000</lastBuildDate>
+    <item>
+      <title>オープンソースのエージェントサンドボックスにより、Kubernetes 上で AI エージェントを安全に展開可能</title>
+      <link>https://www.infoq.com/news/2025/12/agent-sandbox-kubernetes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Agent Sandboxは、安定したIDと永続ストレージを備えた単一のステートフルPodを管理するための宣言型APIを提供するオープンソースのKubernetesコントローラーです。特に、信頼できないLLM生成コードを実行するための隔離環境の構築や、その他のステートフルワークロードの実行に適しています。Sergio De Simone著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/agent-sandbox-kubernetes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 30 Dec 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>CNCF、ワークロードの標準化に向けたKubernetes AI適合認定プログラムを開始</title>
       <link>https://www.infoq.com/news/2025/12/cncf-kubernetes-ai-conformance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -25,16 +32,9 @@
     <item>
       <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
       <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
-      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
+      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主要な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</guid>
       <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Javaニュースまとめ: Spring Vault、LangChain4j、Seed4J、Infinispan、Gradle</title>
-      <link>https://www.infoq.com/news/2025/12/java-news-roundup-dec22-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>今週の2025年12月22日版Javaラウンドアップでは、Spring Vaultの新しいインターフェースであるVaultClientとReactiveVaultClient、LangChain4jとSeed4Jのポイントリリース、Micronaut、Quarkus、Infinispanのメンテナンスリリース、そしてGradle 9.3の2番目のリリース候補版といった注目のニュースを取り上げます。Michael Redlich著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/java-news-roundup-dec22-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 29 Dec 2025 02:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Okta から Python アプリにユーザーを同期する方法</title>
@@ -44,18 +44,18 @@
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SharePoint Framework 1.22 は Heft ベースのビルド ツールチェーンと更新されたプロジェクト ベースラインを搭載してリリースされました</title>
-      <link>https://www.infoq.com/news/2025/12/spfx-1-22-heft/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Microsoftは、SharePoint Framework（SPFx）バージョン1.22の一般提供を発表しました。これは、SPFx開発者向けのビルドおよびツールエクスペリエンスの近代化に重点を置いたリリースです。この変更は、SPFxソリューションの構築方法の根本的なアップデートであり、技術的負債の解決、拡張性の向上、そしてより広範なMicrosoftツールチェーン標準への準拠を目指しています。Edin Kapić (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/spfx-1-22-heft/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 29 Dec 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft Foundry Agent サービスが長期メモリ プレビューで状態管理を簡素化</title>
       <link>https://www.infoq.com/news/2025/12/foundry-agent-memory-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>マイクロソフトは、Foundry Agent Service向けにマネージド長期記憶ストアのパブリックプレビューを開始しました。このサービスは、ユーザーコンテキストの抽出、統合、取得を自動化し、AIエージェントとの長期的なインタラクションにおけるインテリジェンスの劣化を防ぐネイティブな「状態レイヤー」を提供します。Steef-Jan Wiggers著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2025/12/foundry-agent-memory-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Tue, 30 Dec 2025 10:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>新しいビルドシステムを搭載したReScript 12.0がリリースされました</title>
+      <link>https://www.infoq.com/news/2025/12/rescript-12-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ReScript 12.0がリリースされました。ビルドシステムの書き換え、パフォーマンスの向上、構文の強化により、言語の近代化におけるマイルストーンとなります。主な機能には、モジュールアーキテクチャ、辞書リテラル、JSX保存モードなどがあり、確実なタイピングと高速コンパイルを求める開発者にとって、TypeScriptの強力な代替手段としての地位を強化しています。今すぐ進化を体験してください！ダニエル・カーティス (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/rescript-12-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 31 Dec 2025 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOSの内部</title>

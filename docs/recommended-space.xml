@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Dec 2025 06:39:25 +0000</lastBuildDate>
-    <item>
-      <title>日本の宇宙スタートアップ上場6社の時価総額が合計4000億円に到達–SPACETIDEが調査</title>
-      <link>https://uchubiz.com/article/new68541/</link>
-      <description>SPACETIDE（東京都中央区）は、宇宙業界レポート「SPACETIDE COMPASS」の最新刊vol.13を発表した。宇宙ビジネスのトレンドやスタートアップ数、政府・政策に関するトレンドなどをまとめており、有料版 […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new68541/</guid>
-      <pubDate>Mon, 29 Dec 2025 05:31:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Jan 2026 06:39:43 +0000</lastBuildDate>
     <item>
       <title>インターステラテクノロジズが東北支社を開設–ロケット「ZERO」の製造体制を強化</title>
       <link>https://uchubiz.com/article/new68336/</link>
@@ -65,11 +58,11 @@
       <pubDate>Mon, 22 Dec 2025 23:37:18 +0000</pubDate>
     </item>
     <item>
-      <title>雪だるま銀河に宇宙のクリスマスツリー　NASAが“冬をイメージした”4天体画像を公開</title>
-      <link>https://sorae.info/astronomy/20251223-cosmic-holiday-greetings.html</link>
-      <description>NASAの「チャンドラX線観測衛星（Chandra）」の運用チームは2025年12月22日、冬をイメージした4つの天体画像をまとめた“ホリデーカード”を公開しました。可視光・赤外線など他の望遠鏡のデータと、チャンドラがと… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20251223-cosmic-holiday-greetings.html</guid>
-      <pubDate>Tue, 23 Dec 2025 12:40:36 +0000</pubDate>
+      <title>京都の老舗町工場「HILLTOP」に宇宙スタートアップがこぞって頼る理由–24時間動く無人工場を現地取材</title>
+      <link>https://uchubiz.com/article/new68511/</link>
+      <description>20社を超える日本の宇宙スタートアップから宇宙機部品の発注依頼が相次ぐ町工場が京都にある。最短5日の超短納期で、試作から量産までをトータルに支援するHILLTOP（ヒルトップ）だ。国内にとどまらず、某米国法人の宇宙機関 […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new68511/</guid>
+      <pubDate>Wed, 31 Dec 2025 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【宇宙産業×地場産業の両輪を回すヒントは鹿児島県にあり】60年以上ロケット打上げに携わる鹿児島県の宇宙ビジネス展望</title>
@@ -77,6 +70,13 @@
       <description>衛星を活用した離島での実証、企業参入の最前線まで、鹿児島県の宇宙政策の歴史と展望について、鹿児島県商工労働水産部の北村貴志部長にお話を伺いました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/43952/</guid>
       <pubDate>Fri, 26 Dec 2025 04:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年1月の星空情報：4日は「しぶんぎ座流星群」が極大</title>
+      <link>https://sorae.info/astronomy/202601-starry-sky.html</link>
+      <description>1月、新しい年を迎え、気持ちも新たに空を眺めると、冷気の中で湿気は遠のき、空気まで新鮮に感じられます。冴えわたった夜空には、色とりどりの星が瞬いています。 冬空で最初に目につくのは「オリオン座」でしょう。南の空に、「オリ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/202601-starry-sky.html</guid>
+      <pubDate>Thu, 01 Jan 2026 02:19:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
