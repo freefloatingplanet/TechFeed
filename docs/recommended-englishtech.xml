@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Jan 2026 06:39:49 +0000</lastBuildDate>
-    <item>
-      <title>オープンソースのエージェントサンドボックスにより、Kubernetes 上で AI エージェントを安全に展開可能</title>
-      <link>https://www.infoq.com/news/2025/12/agent-sandbox-kubernetes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Agent Sandboxは、安定したIDと永続ストレージを備えた単一のステートフルPodを管理するための宣言型APIを提供するオープンソースのKubernetesコントローラーです。特に、信頼できないLLM生成コードを実行するための隔離環境の構築や、その他のステートフルワークロードの実行に適しています。Sergio De Simone著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/agent-sandbox-kubernetes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 30 Dec 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CNCF、ワークロードの標準化に向けたKubernetes AI適合認定プログラムを開始</title>
-      <link>https://www.infoq.com/news/2025/12/cncf-kubernetes-ai-conformance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>CNCFは、人工知能（AI）ワークロードの標準化を目指し、Certified Kubernetes AI Conformanceプログラムを開始しました。GPU管理、ネットワーク、ギャングスケジューリングの技術ベースラインを確立することで、クラウドプロバイダー間のポータビリティを確保します。企業が生成型AIモデルを本番環境に移行する際に、技術的負債を軽減し、ベンダーロックインを防ぐことを目的としています。マーク・シルベスター (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/cncf-kubernetes-ai-conformance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 30 Dec 2025 09:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Jan 2026 03:55:10 +0000</lastBuildDate>
     <item>
       <title>FGA：WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
@@ -37,11 +23,25 @@
       <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
     </item>
     <item>
+      <title>オープンソースのTwitter代替サービス、Mastodonの初心者向けガイド</title>
+      <link>https://techcrunch.com/2026/01/01/what-is-mastodon/</link>
+      <description>新興プラットフォームに詳しい人でなければ、イーロン・マスクがTwitterを買収し、Xと改名するまで、Mastodonが何なのか知らなかったでしょう。買収直後、Twitterの今後の方向性を巡ってユーザーが不安を募らせる中、何百万人ものユーザーが同じマイクロブログサイトであるMastodonへと移行しました。時が経つにつれ[…] (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/01/01/what-is-mastodon/</guid>
+      <pubDate>Thu, 01 Jan 2026 21:02:13 +0000</pubDate>
+    </item>
+    <item>
       <title>Okta から Python アプリにユーザーを同期する方法</title>
       <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</link>
       <description>わずか数行のコードで、SCIM、Okta、Python、WorkOS を使用してアプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</guid>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>欧州の銀行、AI導入で20万人の雇用削減を計画</title>
+      <link>https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/</link>
+      <description>この大量虐殺は、バックオフィス業務、リスク管理、コンプライアンスに最も大きな打撃を与えるでしょう。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/</guid>
+      <pubDate>Thu, 01 Jan 2026 20:28:20 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Foundry Agent サービスが長期メモリ プレビューで状態管理を簡素化</title>

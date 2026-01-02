@@ -7,38 +7,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jan 2026 06:39:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 03:54:55 +0000</lastBuildDate>
     <item>
-      <title>低予算の個人開発でMongoDBをRDBの代わりに使うのは割とあり</title>
-      <link>https://zenn.dev/nexryai/articles/e7906805e025e4</link>
-      <description>これは個人の見解です。この話題に関する意見が人によって違うことは理解していますが、あくまで私1人の意見として参考にしてください。 何事にも批判的思考を持つことが大切という話です。 TL;DR 現代的な環境にデプロイする場合、RDBは非常にコストが悪い。 全開発者がエンタープライズクラスの信頼性が必要な高予算We... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/nexryai/articles/e7906805e025e4</guid>
-      <pubDate>Wed, 31 Dec 2025 04:34:25 +0000</pubDate>
+      <title>【狂気の実証実験1】AIエージェントに電気ショック権限を付与したら生活が更生した</title>
+      <link>https://qiita.com/motoya0118/items/da163b7f7b53fc445f63?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>概要
+本記事では、
+「自分の意思では生活習慣を改善できない人間が、AI Agentに“罰”を与える権限を渡したらどうなるか」
+という実証実験について紹介します。
+リマインダーも、ToDo管理も、コーチングサービスも続かない。
+理由はシンプルで、守らなくても痛くないから。
+... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/motoya0118/items/da163b7f7b53fc445f63?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 01 Jan 2026 03:39:34 +0000</pubDate>
     </item>
     <item>
-      <title>2025年、nwiizoが作ったソフトウェア - じゃあ、おうちで学べる</title>
-      <link>https://syu-m-5151.hatenablog.com/entry/2025/12/31/232623</link>
-      <description>はじめに 2025年が終わろうとしている。 先日、「なぜ『何でも作れる時代』に私は作れないのか」という記事を書いた。「代表作」がないという焦り、量をやることの重要性、そして引き算の必要性。書きながら、自分の弱さと向き合った。 syu-m-5151.hatenablog.com あの記事で「2026年は20個作る」と宣言した。その前に、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://syu-m-5151.hatenablog.com/entry/2025/12/31/232623</guid>
-      <pubDate>Wed, 31 Dec 2025 14:47:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>性能が微妙な中古PCを販売するくらいなら中高生にくれてやれ</title>
-      <link>https://qiita.com/kameda05/items/13e04907217b6c2c873e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>減価償却が終わったPCを、次の学びへつなげるという選択肢
-この記事は
-「Linux部」を全国の中高に！算額のように技術を競い、日本の情報産業を底上げする構想
-の続きです。
-前回の記事では、「できるだけお金をかけずに、学生が本物のITに触れられる環境を作れないか」という問題... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/kameda05/items/13e04907217b6c2c873e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Mon, 29 Dec 2025 10:38:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年、副業で「月15万円」を稼ぐAIを活用する不労所得のアイデア3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-      <link>https://forbesjapan.com/articles/detail/88112</link>
-      <description>Fiverrが実施した、Z世代とアルファ世代の1万2000人を対象とする最近の調査によると、労働市場における最年少であるこの世代は、仕事の安定性や経済的安全性をどのように捉えるべきかについて、おおむね正しい認識を持っていることが明らかになった。 Z世代の回答者のおよそ67％は、経済的な安全と安定を確保するために... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://forbesjapan.com/articles/detail/88112</guid>
-      <pubDate>Wed, 31 Dec 2025 08:09:39 +0000</pubDate>
+      <title>【狂気の実証実験1】AIエージェントに電気ショック権限を付与したら生活が更生した - Qiita</title>
+      <link>https://qiita.com/motoya0118/items/da163b7f7b53fc445f63</link>
+      <description>概要 本記事では、 「自分の意思では生活習慣を改善できない人間が、AI Agentに“罰”を与える権限を渡したらどうなるか」 という実証実験について紹介します。 リマインダーも、ToDo管理も、コーチングサービスも続かない。 理由はシンプルで、守らなくても痛くないから。 そこで本記事では、 CLI型Agentに「コーチング役... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://qiita.com/motoya0118/items/da163b7f7b53fc445f63</guid>
+      <pubDate>Thu, 01 Jan 2026 13:31:54 +0000</pubDate>
     </item>
     <item>
       <title>やはりお前らのSkillsの解釈はまちがっている。</title>
@@ -55,6 +43,29 @@
       <pubDate>Tue, 30 Dec 2025 05:30:48 +0000</pubDate>
     </item>
     <item>
+      <title>デジタル署名を TypeScript で学ぶ</title>
+      <link>https://zenn.dev/stin/articles/degital-sign-with-typescript</link>
+      <description>デジタル署名とは
+配布されているデータを受け取るとき、受け取ったデータが本当に配布している人から来たものかを確認したいことがあります。
+例えば便利なソフトウェアをダウンロードできるサイトがあるとしましょう。そのソフトウェアをダウンロードしてインストールしますが、ダウンロードしたそのバイナリは本当にそのソフトウェア開発者が提供したものでしょうか？実はサイトが改竄されていて、マルウェアを仕込まれたソフトウェアを配っているかもしれません。
+デジタル署名は、データに対して追加の署名データを付与します。データの受け取り側がその署名データを検証することで、次のことを確認できます。
+
+受け取ったデ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/stin/articles/degital-sign-with-typescript</guid>
+      <pubDate>Wed, 31 Dec 2025 14:56:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>個人開発の進捗報告が面倒なので、GitHub ActionsとAIで「勝手にデモ動画を作る」仕組みを構築した</title>
+      <link>https://qiita.com/rinfo4080/items/1d36c56604aac6ed007c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+「今週の進捗どうなってる？」
+個人開発や少人数のチーム開発をしていると、この質問に答えるための資料作りで週末が潰れること、ありませんか？
+コードは書けても、変更内容を非エンジニア（PMやクライアント）にわかるように説明するのは、正直かなりカロリーを使います。
+... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/rinfo4080/items/1d36c56604aac6ed007c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 30 Dec 2025 10:19:45 +0000</pubDate>
+    </item>
+    <item>
       <title>2025 年、OSS を 3 つ出して「これはこれでええやん」まとめ</title>
       <link>https://zenn.dev/nyaomaru/articles/2025-summary-of-oss</link>
       <description>みなさん、こんにちは！
@@ -69,32 +80,37 @@
       <pubDate>Wed, 31 Dec 2025 06:08:05 +0000</pubDate>
     </item>
     <item>
-      <title>個人開発の進捗報告が面倒なので、GitHub ActionsとAIで「勝手にデモ動画を作る」仕組みを構築した - Qiita</title>
-      <link>https://qiita.com/rinfo4080/items/1d36c56604aac6ed007c</link>
-      <description>はじめに 「今週の進捗どうなってる？」 個人開発や少人数のチーム開発をしていると、この質問に答えるための資料作りで週末が潰れること、ありませんか？ コードは書けても、変更内容を非エンジニア（PMやクライアント）にわかるように説明するのは、正直かなりカロリーを使います。 「Gitのコミットログを見るだけで、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://qiita.com/rinfo4080/items/1d36c56604aac6ed007c</guid>
-      <pubDate>Wed, 31 Dec 2025 14:49:52 +0000</pubDate>
+      <title>小データの予測から意思決定へ：転職を機に研究仮説を総括する</title>
+      <link>https://zenn.dev/akira_t/articles/from-prediction-to-decision</link>
+      <description>新卒から11年勤めたNECを退職し、2025年9月にPreferred Networks（PFN）に移りました。これまでデータサイエンスの実務と、社会人博士などを通じた機械学習研究を続けつつ、数理最適化の事業化にも取り組んできました（披露宴の席次も数理最適化で決めました）。
+本記事では総括として、当時よく耳にした「小データでは機械より人が強い」という言説を出発点に、なぜそう見えるのか考えた研究の流れと、意思決定へ軸足を移してきた経緯を振り返ります。
+
+ TL;DR
+
+実世界のデータ分析の現場は小データであることが多く、「小データでは人の方が強い」と言われがち
+その理由として3つの仮説（常... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/akira_t/articles/from-prediction-to-decision</guid>
+      <pubDate>Wed, 31 Dec 2025 14:43:49 +0000</pubDate>
     </item>
     <item>
-      <title>MacのJISキーボードで¥が\に化けない問題を、今度こそ忘れないために書く - 理系学生日記</title>
-      <link>https://kiririmode.hatenablog.jp/entry/20251230/17179246901338412328</link>
-      <description>また忘れた。MacのJIS配列キーボードで、英数入力のときに¥キーを押したらバックスラッシュが出るようにする方法を。 プログラマにとってバックスラッシュは日常的に使う記号です。正規表現のエスケープ、パス区切り、文字列リテラル。どこを見ても\だらけ。なのに、MacのJISキーボードでは¥キーを押すと¥が出る。いや、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://kiririmode.hatenablog.jp/entry/20251230/17179246901338412328</guid>
-      <pubDate>Wed, 31 Dec 2025 09:06:56 +0000</pubDate>
+      <title>なぜローストビーフは日本のおせち料理の仲間入りをしたのか…この謎を追って調査班は南米アマゾンに飛んだ→様々な考察が集まる</title>
+      <link>https://togetter.com/li/2646119</link>
+      <description>リンク Wikipedia ローストビーフ ローストビーフ（英: Roast beef）またはローステッドビーフは、伝統的なイギリス料理のひとつ。牛肉の塊をオーブンなどで蒸し焼きにし、薄くスライスしたもの。 焼きあがった後は薄くスライスして、グレイビーをかけて食べる。薬味としてホースラディッシュ、マスタードやクレソンとと... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2646119</guid>
+      <pubDate>Thu, 01 Jan 2026 08:01:27 +0000</pubDate>
     </item>
     <item>
-      <title>Vim/Neovimをquitするときに特殊ウィンドウを一気に閉じる</title>
-      <link>https://zenn.dev/vim_jp/articles/ff6cd224fab0c7</link>
-      <description>この記事はVim駅伝の2025-12-31の記事です。
-前回の記事はgw31415さんの製作中のNeovim用プラグインマネージャの紹介と相談です。
-Vim駅伝は常に参加者を募集しています。詳しくはこちらのページをご覧ください。
-
-Vim/Neovimを終了する方法といえば:quitコマンドです。しかし実はこれは「Vimを終了する」コマンドではありません。現在のウィンドウが最後のウィンドウである（つまり、ウィンドウが一つしかない）場合にVim自体を終了させるというだけで、メイン機能は「ウィンドウを閉じる」です。ヘルプにもばっちり書いてあります。
-
-:q[uit]
-カレントウィンドウを閉じ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/vim_jp/articles/ff6cd224fab0c7</guid>
-      <pubDate>Tue, 30 Dec 2025 15:02:01 +0000</pubDate>
+      <title>Pythonパッケージ管理ツール「uv」はなぜこれほど爆速なのか？</title>
+      <link>https://zenn.dev/acrosstudioblog/articles/8efb31681b46f3</link>
+      <description>新人に「uv使いなよ」と言った手前、なぜ爆速なのか本気で調べてみた結果
+最近、チームに入ってきた新入社員の環境構築を手伝っていたときのことです。
+pip でライブラリを入れている彼を見て、私は反射的にこう言いました。
+「あ、今は uv を使ったほうがいいよ。とにかく速いから」
+素直に uv を導入して「うわっ、本当に一瞬ですね！」と驚く彼を見て満足した私ですが、デスクに戻ってふと冷や汗が出ました。
+（……あれ？ 待てよ。なんで uv ってこんなに速いんだっけ？）
+「Rust製だから」という定型句は知っています。でも、それだけで10倍以上も差が出るものなのか？ もし彼に「Rustだと具... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acrosstudioblog/articles/8efb31681b46f3</guid>
+      <pubDate>Tue, 30 Dec 2025 09:10:12 +0000</pubDate>
     </item>
     <item>
       <title>30日でCVE取得! OSSバグハント入門</title>
@@ -104,13 +120,13 @@ Vim/Neovimを終了する方法といえば:quitコマンドです。しかし�
 
 　世の中には多くの学習コンテンツや演習環境が存在しますが、それらをマスターするだけでは、現実のプロダクトに潜む脆弱性を見つけ出し、脆弱性として認められる CVE を取得するまでの壁を突破できないことが少なくありません。
 
-　本書では、GitHub 上の OSS をターゲットにし、ターゲットとなる OSS の選定から、膨大なソースコードの中から脆弱性の火種を見つけ出す「検索テクニック」、開発者の意図を読み解く「コードリーディング」、そして脆弱性として認めさせるための「報告スキル」まで、著者の経験に基づくノウハウを30日のロードマップに凝縮しました。
+　本書では、GitHub 上の OSS をターゲットにし、ターゲットとなる OSS の選定から、膨大なソースコードの中から脆弱性の原因を見つけ出す「検索テクニック」、実装を読み解く「コードレビュー」、そして脆弱性として認めさせるための「報告スキル」まで、著者の経験に基づくノウハウを30日のロードマップに凝縮しました。
 
 　本書を通して、単なる「学習者」から「バグハンター」への第一歩を歩み出しましょう。30日後、あなたの名前が刻まれた初めての CVE 番号が発行されることを願っています。
 
 💪【こんな方にオススメ】
 ・☆ CVE 番号を取得してみたい方
-・☆ やる (source: Zennのトレンド)</description>
+・☆ やる気のある方、 (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/scgajge12/books/6f6ab44df405b2</guid>
       <pubDate>Tue, 30 Dec 2025 20:19:38 +0000</pubDate>
     </item>

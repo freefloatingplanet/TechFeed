@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Jan 2026 06:39:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 03:55:05 +0000</lastBuildDate>
     <item>
-      <title>MSACL: 指数的安定化制御のためのリアプノフ証明書を用いた多段階アクター・クリティック学習</title>
-      <link>https://arxiv.org/abs/2512.24955v1</link>
-      <description>モデルフリー強化学習（RL）において証明可能な安定性を実現することは、特に探索と厳格な安全性のバランスをとる上で依然として課題となっている。本稿では、多段階リアプノフ証明書学習を通じて指数安定性理論と最大エントロピーRLを統合するフレームワークであるMSACLを紹介する。複雑な報酬工学に依存する手法とは異なり、MSACLはオフポリシーの多段階データを利用し、理論的な安定性条件を満たすリアプノフ証明書を学習する。指数安定性ラベル（ESL）とλ重み付け集約メカニズムを導入することで、このフレームワークは多段階学習におけるバイアスと分散のトレードオフを効果的にバランスさせる。ポリシー最適化は安定性を考慮したアドバンテージ関数によって導かれ、学習されたポリシーが迅速なリアプノフ降下を促進することを保証する。本稿では、安定化タスクや非線形追跡タスクを含む6つのベンチマークでMSACLを評価し、最先端のリアプノフベースRLアルゴリズムに対する優位性を実証する。 MSACLは、単純な報酬の下で指数関数的安定性と迅速な収束を実現すると同時に、不確実性に対する優れた堅牢性と未知の軌道への一般化を示します (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2512.24955v1</guid>
-      <pubDate>Wed, 31 Dec 2025 16:36:44 +0000</pubDate>
+      <title>コルモゴロフ・アーノルドエネルギーモデル：高速かつ解釈可能な生成モデリング</title>
+      <link>https://arxiv.org/abs/2506.14167v7</link>
+      <description>トップダウン生成モデルの潜在空間におけるエネルギーベースモデル（EBM）の学習は、多くのデータモダリティにわたる生成のための強力なフレームワークを提供します。しかし、その解釈可能性をどのようにモデル設計の指針として活用し、生成品質を向上させ、トレーニング時間を短縮できるかは依然として不明です。さらに、ランジュバンモンテカルロ（LMC）サンプリングへの依存は、効率性と多峰性潜在分布のサンプリングに課題をもたらします。本研究では、コルモゴロフ-アーノルド表現定理を生成モデリングに新たに適応させ、構造バイアスと帰納的バイアスを活用するコルモゴロフ-アーノルドエネルギーモデル（KAEM）を導入します。KAEMは、一変量関係の事前条件を制約することにより、逆変換法による高速かつ正確な推論を可能にします。潜在空間の低次元性と適切な帰納的バイアスをエンコードすることで、重要度サンプリング（IS）が実行可能で偏りのない、非常に効率的な事後サンプラーになることを実証します。 ISが失敗する領域に対しては、集団ベースのLMCに基づく戦略を導入し、事後分布をアニール分布のシーケンスに分解することでLMCの混 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=50)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.14167v7</guid>
+      <pubDate>Tue, 17 Jun 2025 04:07:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
