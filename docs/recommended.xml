@@ -7,26 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jan 2026 03:54:55 +0000</lastBuildDate>
-    <item>
-      <title>【狂気の実証実験1】AIエージェントに電気ショック権限を付与したら生活が更生した</title>
-      <link>https://qiita.com/motoya0118/items/da163b7f7b53fc445f63?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>概要
-本記事では、
-「自分の意思では生活習慣を改善できない人間が、AI Agentに“罰”を与える権限を渡したらどうなるか」
-という実証実験について紹介します。
-リマインダーも、ToDo管理も、コーチングサービスも続かない。
-理由はシンプルで、守らなくても痛くないから。
-... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/motoya0118/items/da163b7f7b53fc445f63?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 01 Jan 2026 03:39:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Jan 2026 06:39:39 +0000</lastBuildDate>
     <item>
       <title>【狂気の実証実験1】AIエージェントに電気ショック権限を付与したら生活が更生した - Qiita</title>
-      <link>https://qiita.com/motoya0118/items/da163b7f7b53fc445f63</link>
+      <link>https://qiita.com/motoya0118/items/da163b7f7b53fc445f63?utm_campaign=post_article&amp;utm_medium=twitter&amp;utm_source=twitter_share</link>
       <description>概要 本記事では、 「自分の意思では生活習慣を改善できない人間が、AI Agentに“罰”を与える権限を渡したらどうなるか」 という実証実験について紹介します。 リマインダーも、ToDo管理も、コーチングサービスも続かない。 理由はシンプルで、守らなくても痛くないから。 そこで本記事では、 CLI型Agentに「コーチング役... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://qiita.com/motoya0118/items/da163b7f7b53fc445f63</guid>
-      <pubDate>Thu, 01 Jan 2026 13:31:54 +0000</pubDate>
+      <guid isPermaLink="true">https://qiita.com/motoya0118/items/da163b7f7b53fc445f63?utm_campaign=post_article&amp;utm_medium=twitter&amp;utm_source=twitter_share</guid>
+      <pubDate>Thu, 01 Jan 2026 22:13:18 +0000</pubDate>
     </item>
     <item>
       <title>やはりお前らのSkillsの解釈はまちがっている。</title>
@@ -66,6 +53,20 @@
       <pubDate>Tue, 30 Dec 2025 10:19:45 +0000</pubDate>
     </item>
     <item>
+      <title>今年お世話になった開発環境の棚卸し 2025</title>
+      <link>https://zenn.dev/okmkm321/articles/dev_environment_inventory</link>
+      <description>はじめに
+師走も佳境ということで、自分の開発環境に新しく導入したツールや本年もお世話になったツールを棚卸しがてら紹介できればと思います！
+
+ 前提: 普段の開発スタイル
+中学生という多感な時期にブラッディ・マンデイというドラマにハマってしまったせいで、ターミナルみたいな無機質な画面に向かって作業することがかっこいいと思っているエンジニアです。そんなわけで、普段の開発はNeovimを使い、ターミナルから出ない生活を送らせていただいてます。
+最近は業務でフロントもバックエンドも触るので、tmuxで複数サーバーを立ち上げて切り替えながら作業しています。雰囲気はこんな感じです。
+
+ターミナル... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/okmkm321/articles/dev_environment_inventory</guid>
+      <pubDate>Tue, 30 Dec 2025 23:42:49 +0000</pubDate>
+    </item>
+    <item>
       <title>2025 年、OSS を 3 つ出して「これはこれでええやん」まとめ</title>
       <link>https://zenn.dev/nyaomaru/articles/2025-summary-of-oss</link>
       <description>みなさん、こんにちは！
@@ -80,24 +81,42 @@
       <pubDate>Wed, 31 Dec 2025 06:08:05 +0000</pubDate>
     </item>
     <item>
-      <title>小データの予測から意思決定へ：転職を機に研究仮説を総括する</title>
-      <link>https://zenn.dev/akira_t/articles/from-prediction-to-decision</link>
-      <description>新卒から11年勤めたNECを退職し、2025年9月にPreferred Networks（PFN）に移りました。これまでデータサイエンスの実務と、社会人博士などを通じた機械学習研究を続けつつ、数理最適化の事業化にも取り組んできました（披露宴の席次も数理最適化で決めました）。
-本記事では総括として、当時よく耳にした「小データでは機械より人が強い」という言説を出発点に、なぜそう見えるのか考えた研究の流れと、意思決定へ軸足を移してきた経緯を振り返ります。
+      <title>Flutter未経験から6ヶ月で戦力化し、日商250万円、アクティブユーザー4500人に成長させるまでにやったこと</title>
+      <link>https://zenn.dev/jambo_dev/articles/365b8ad2fc10e9</link>
+      <description>はじめに
+こんにちは。jamboでテックリードをやっているishidaです。
+2022年11月に入社し、現在はテックリードとモバイルアプリ事業のリーダーを担当しています。
+Flutter未経験の状態から社内で導入を進め、
+現在は日商250万円規模の機能を支えるモバイルアプリとして運用しています。
+本記事では、
 
- TL;DR
+なぜFlutterを選んだのか
+戦力化するまでのキャッチアップ、学習方法
+新技術をチーム開発する際に生じた課題と対応
+AIエージェントとの付き合い方
+新技術導入時に1人目が意識すべきポイント
 
-実世界のデータ分析の現場は小データであることが多く、「小データでは人の方が強い」と言われがち
-その理由として3つの仮説（常... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/akira_t/articles/from-prediction-to-decision</guid>
-      <pubDate>Wed, 31 Dec 2025 14:43:49 +0000</pubDate>
+を、実体験ベースでまとめます。
+!
+なお、サービス名については伏せさせていただきま... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/jambo_dev/articles/365b8ad2fc10e9</guid>
+      <pubDate>Wed, 31 Dec 2025 14:57:29 +0000</pubDate>
     </item>
     <item>
-      <title>なぜローストビーフは日本のおせち料理の仲間入りをしたのか…この謎を追って調査班は南米アマゾンに飛んだ→様々な考察が集まる</title>
-      <link>https://togetter.com/li/2646119</link>
-      <description>リンク Wikipedia ローストビーフ ローストビーフ（英: Roast beef）またはローステッドビーフは、伝統的なイギリス料理のひとつ。牛肉の塊をオーブンなどで蒸し焼きにし、薄くスライスしたもの。 焼きあがった後は薄くスライスして、グレイビーをかけて食べる。薬味としてホースラディッシュ、マスタードやクレソンとと... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2646119</guid>
-      <pubDate>Thu, 01 Jan 2026 08:01:27 +0000</pubDate>
+      <title>Rust における「変数」を本気で理解する</title>
+      <link>https://zenn.dev/moooda_dev/articles/683b3ca9ba6c1e</link>
+      <description>はじめに
+最近、業務とは別に Rust を触り始めました。
+普段はフロントエンドエンジニアとして Vue / TypeScript
+を中心に開発しており、状態管理やリアクティブなデータフロー、型による安全性にはある程度慣れた環境で仕事をしています。
+そんな背景で Rust に触れてみると、最初につまずいたのが
+「変数」というあまりにも基本的な概念 でした。
+let がデフォルトで再代入不可だったり、再宣言（シャドーイング）
+という仕組みが普通に使われていたりと、JavaScript
+では前提として意識していなかったルールが次々に出てきます。
+ただ、この「変数まわりの違い」を丁寧に追っ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/moooda_dev/articles/683b3ca9ba6c1e</guid>
+      <pubDate>Wed, 31 Dec 2025 06:47:29 +0000</pubDate>
     </item>
     <item>
       <title>Pythonパッケージ管理ツール「uv」はなぜこれほど爆速なのか？</title>
