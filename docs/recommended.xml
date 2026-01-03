@@ -7,27 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jan 2026 06:39:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 06:37:24 +0000</lastBuildDate>
     <item>
-      <title>【狂気の実証実験1】AIエージェントに電気ショック権限を付与したら生活が更生した - Qiita</title>
-      <link>https://qiita.com/motoya0118/items/da163b7f7b53fc445f63?utm_campaign=post_article&amp;utm_medium=twitter&amp;utm_source=twitter_share</link>
-      <description>概要 本記事では、 「自分の意思では生活習慣を改善できない人間が、AI Agentに“罰”を与える権限を渡したらどうなるか」 という実証実験について紹介します。 リマインダーも、ToDo管理も、コーチングサービスも続かない。 理由はシンプルで、守らなくても痛くないから。 そこで本記事では、 CLI型Agentに「コーチング役... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://qiita.com/motoya0118/items/da163b7f7b53fc445f63?utm_campaign=post_article&amp;utm_medium=twitter&amp;utm_source=twitter_share</guid>
-      <pubDate>Thu, 01 Jan 2026 22:13:18 +0000</pubDate>
+      <title>RAGの精度が73%から100%に向上した話 ─ チャンキング戦略の比較検証</title>
+      <link>https://zenn.dev/oharu121/articles/efd3d038afc6da</link>
+      <description>はじめに
+https://youtu.be/Jx6umLYhDtc
+RAG（Retrieval-Augmented Generation）システムを構築していると、「なぜか精度が上がらない」という壁にぶつかることがあります。
+本記事では、社内規程文書を対象としたRAGシステムで、回答精度を73.3%から100%に改善した過程を紹介します。検証した複数のチャンキング戦略の中で、意外にも最もシンプルな解決策が最も効果的だったという結果になりました。
+また、「Re-rankingを導入すれば精度が上がる」と思っていたのですが、逆に精度が下がるという予想外の結果も得られました。その理由につい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/oharu121/articles/efd3d038afc6da</guid>
+      <pubDate>Tue, 30 Dec 2025 16:21:40 +0000</pubDate>
     </item>
     <item>
-      <title>やはりお前らのSkillsの解釈はまちがっている。</title>
-      <link>https://zenn.dev/nuits_jp/articles/2025-12-30-interpretation-of-agent-skills</link>
-      <description>Claude Codeで提供が始まり、Codex CLIやGitHub Copilotでも相次いでサポートされたAgent Skills（以後Skills）機能。とても素晴らしい機能だと思います。
-ただ、MCPのときにも思ったのですが、Anthropicは新しい機能のプロモーションがとても上手です。上手すぎて結果、過大に受け取って誤解する人を多数生んでいると思います。
-本稿ではSkillsの誤解と、本来の特徴について、簡潔に整理しておきたいと思います。
-
- 何がまちがっているか？
-よく見かける説明はつぎのような内容です。
-
-これまで汎用的であったエージェントに、ドメイン固有の専門知識や、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nuits_jp/articles/2025-12-30-interpretation-of-agent-skills</guid>
-      <pubDate>Tue, 30 Dec 2025 05:30:48 +0000</pubDate>
+      <title>AI発ネットミームを大人は知らない　創作は「工業化」されゆくのか：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASTDV4J2LTDVUCVL00XM.html</link>
+      <description>大人の知らないブームが、昨年、世界中の子どもたちの間で広がった。　「トゥントゥントゥンサフール」「ウディンディンディンディンマディン～」　土曜日の昼下がり、東京・大塚の山下書店に、呪文のような言葉を… (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.asahi.com/articles/ASTDV4J2LTDVUCVL00XM.html</guid>
+      <pubDate>Sat, 03 Jan 2026 00:14:35 +0000</pubDate>
     </item>
     <item>
       <title>デジタル署名を TypeScript で学ぶ</title>
@@ -40,17 +37,6 @@
 受け取ったデ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/stin/articles/degital-sign-with-typescript</guid>
       <pubDate>Wed, 31 Dec 2025 14:56:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>個人開発の進捗報告が面倒なので、GitHub ActionsとAIで「勝手にデモ動画を作る」仕組みを構築した</title>
-      <link>https://qiita.com/rinfo4080/items/1d36c56604aac6ed007c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-「今週の進捗どうなってる？」
-個人開発や少人数のチーム開発をしていると、この質問に答えるための資料作りで週末が潰れること、ありませんか？
-コードは書けても、変更内容を非エンジニア（PMやクライアント）にわかるように説明するのは、正直かなりカロリーを使います。
-... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/rinfo4080/items/1d36c56604aac6ed007c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 30 Dec 2025 10:19:45 +0000</pubDate>
     </item>
     <item>
       <title>今年お世話になった開発環境の棚卸し 2025</title>
@@ -117,6 +103,19 @@ let がデフォルトで再代入不可だったり、再宣言（シャドー�
 ただ、この「変数まわりの違い」を丁寧に追っ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/moooda_dev/articles/683b3ca9ba6c1e</guid>
       <pubDate>Wed, 31 Dec 2025 06:47:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Next.js】「動けば正義」から卒業する。個人開発で設定すべきセキュリティヘッダー7選とその効果</title>
+      <link>https://zenn.dev/famaryllis/articles/e8193ebe5057c7</link>
+      <description>はじめに
+先日公開したCSV変換アプリの開発中に、AI（ペアプロ相手）から 「セキュリティヘッダーを設定しましょう」 と指摘され、前回の記事 に書いたのですがセキュリティヘッダーのそれぞれの役割の理解が曖昧なままだったので改めて調べた内容を備忘録としてまとめます。
+
+ セキュリティヘッダーとは
+Webブラウザは基本的にお人好しです。サーバーから送られてきたコードや画像は、疑いもせずに表示・実行しようとします。
+そこに悪意のあるスクリプトが混ざっていたり、透明なiframeに閉じ込められたりしていても、ブラウザは「そういう指示かな？」と思って実行してしまいます。
+セキュリティヘッダーと... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/famaryllis/articles/e8193ebe5057c7</guid>
+      <pubDate>Thu, 01 Jan 2026 21:00:17 +0000</pubDate>
     </item>
     <item>
       <title>Pythonパッケージ管理ツール「uv」はなぜこれほど爆速なのか？</title>
