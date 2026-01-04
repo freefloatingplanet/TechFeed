@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Jan 2026 06:37:35 +0000</lastBuildDate>
-    <item>
-      <title>FGA：WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
-      <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jan 2026 06:38:01 +0000</lastBuildDate>
     <item>
       <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
       <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
@@ -77,6 +70,13 @@
       <description>Cerbosは、開発者がアプリケーションにきめ細かなアクセス制御を実装するのに役立つオープンソースの認可エンジンです。Apache 2.0ライセンスの下でリリースされており、アプリケーションが特定のアクションを許可するかどうかを判断するための、一元化されたポリシー決定ポイントを提供します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</guid>
       <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS、M9gインスタンスで第5世代Gravitonプロセッサを導入</title>
+      <link>https://www.infoq.com/news/2026/01/aws-graviton-m9g/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>AWSは最近、新しいGraviton5プロセッサと、それを搭載した最初のEC2インスタンスである汎用M9gインスタンスのプレビューを発表しました。同社によると、この最新チップはGraviton4と比較して最大25%高いパフォーマンスを実現し、Nitro Isolation Engineを導入し、L3キャッシュの容量拡大により、レイテンシ、メモリ帯域幅、ネットワークスループットが向上します。（Renato Losio著） (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/aws-graviton-m9g/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 03 Jan 2026 06:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,102 +7,98 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Jan 2026 06:37:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 06:37:48 +0000</lastBuildDate>
     <item>
-      <title>RAGの精度が73%から100%に向上した話 ─ チャンキング戦略の比較検証</title>
-      <link>https://zenn.dev/oharu121/articles/efd3d038afc6da</link>
+      <title>Ｘの生成ＡＩでビキニ姿に、女性や未成年の性的画像が新年に急増</title>
+      <link>https://jp.reuters.com/business/technology/WMWMQIEIH5KLTEM6BYHRIDZEZY-2026-01-03/</link>
+      <description>[ワシントン／デトロイト ２日 ロイター] - ブラジルのリオデジャネイロを拠点に活動するミュージシャンのジュリー・ユカリさんは、昨年１２月３１日深夜に婚約者が撮影した写真をＸに投稿した。年が明けた翌日、何百もの「いいね」に交じり、写真をビキニ姿にするようＸの内蔵人工知能Ｇｒｏｋに依頼しているメッセージ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://jp.reuters.com/business/technology/WMWMQIEIH5KLTEM6BYHRIDZEZY-2026-01-03/</guid>
+      <pubDate>Sat, 03 Jan 2026 05:58:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>コンテキストエンジニアリングについて気になったのでまとめてみた</title>
+      <link>https://qiita.com/yakumo_09/items/00ac034571fec150351a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-https://youtu.be/Jx6umLYhDtc
-RAG（Retrieval-Augmented Generation）システムを構築していると、「なぜか精度が上がらない」という壁にぶつかることがあります。
-本記事では、社内規程文書を対象としたRAGシステムで、回答精度を73.3%から100%に改善した過程を紹介します。検証した複数のチャンキング戦略の中で、意外にも最もシンプルな解決策が最も効果的だったという結果になりました。
-また、「Re-rankingを導入すれば精度が上がる」と思っていたのですが、逆に精度が下がるという予想外の結果も得られました。その理由につい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/oharu121/articles/efd3d038afc6da</guid>
-      <pubDate>Tue, 30 Dec 2025 16:21:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI発ネットミームを大人は知らない　創作は「工業化」されゆくのか：朝日新聞</title>
-      <link>https://www.asahi.com/articles/ASTDV4J2LTDVUCVL00XM.html</link>
-      <description>大人の知らないブームが、昨年、世界中の子どもたちの間で広がった。　「トゥントゥントゥンサフール」「ウディンディンディンディンマディン～」　土曜日の昼下がり、東京・大塚の山下書店に、呪文のような言葉を… (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.asahi.com/articles/ASTDV4J2LTDVUCVL00XM.html</guid>
-      <pubDate>Sat, 03 Jan 2026 00:14:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>デジタル署名を TypeScript で学ぶ</title>
-      <link>https://zenn.dev/stin/articles/degital-sign-with-typescript</link>
-      <description>デジタル署名とは
-配布されているデータを受け取るとき、受け取ったデータが本当に配布している人から来たものかを確認したいことがあります。
-例えば便利なソフトウェアをダウンロードできるサイトがあるとしましょう。そのソフトウェアをダウンロードしてインストールしますが、ダウンロードしたそのバイナリは本当にそのソフトウェア開発者が提供したものでしょうか？実はサイトが改竄されていて、マルウェアを仕込まれたソフトウェアを配っているかもしれません。
-デジタル署名は、データに対して追加の署名データを付与します。データの受け取り側がその署名データを検証することで、次のことを確認できます。
+AIがタスクをこなす上で、全く的外れなことをすることがあるのはなぜだろうと思ったことはありませんか？
+実はそれはAIの賢さやシステムプロンプトだけの問題ではなく、コンテキストが関係しています。
 
-受け取ったデ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/stin/articles/degital-sign-with-typescript</guid>
-      <pubDate>Wed, 31 Dec 2025 14:56:05 +0000</pubDate>
+今回はAnthropicが発表した、AIエージェント開発におけ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/yakumo_09/items/00ac034571fec150351a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 03 Jan 2026 05:08:01 +0000</pubDate>
     </item>
     <item>
-      <title>今年お世話になった開発環境の棚卸し 2025</title>
-      <link>https://zenn.dev/okmkm321/articles/dev_environment_inventory</link>
-      <description>はじめに
-師走も佳境ということで、自分の開発環境に新しく導入したツールや本年もお世話になったツールを棚卸しがてら紹介できればと思います！
-
- 前提: 普段の開発スタイル
-中学生という多感な時期にブラッディ・マンデイというドラマにハマってしまったせいで、ターミナルみたいな無機質な画面に向かって作業することがかっこいいと思っているエンジニアです。そんなわけで、普段の開発はNeovimを使い、ターミナルから出ない生活を送らせていただいてます。
-最近は業務でフロントもバックエンドも触るので、tmuxで複数サーバーを立ち上げて切り替えながら作業しています。雰囲気はこんな感じです。
-
-ターミナル... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/okmkm321/articles/dev_environment_inventory</guid>
-      <pubDate>Tue, 30 Dec 2025 23:42:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025 年、OSS を 3 つ出して「これはこれでええやん」まとめ</title>
-      <link>https://zenn.dev/nyaomaru/articles/2025-summary-of-oss</link>
-      <description>みなさん、こんにちは！
-最近はダイエットのため、亀仙人の修行のように 10kg 以上のリュックを背負って散歩してるフロントエンドエンジニアの @nyaomaru です！🐢
-今年もあっという間に去ってしまいました。
-気づけば年末ですね・・・！
-年末といえば、大掃除・買い出し・振り返り、忙しすぎて師匠も走るから師走と呼ばれておりますが、皆さんは走り回ってますか？僕は走り回りすぎて洗い千切られたボロ雑巾のようになっております。
-それはさておき、今年の汚れ今年のうちに。今年の想い、今年のうちに 🧹
-ということで 2025 年を「公開した OSS」の観点で振り返ろうと思います。
-なお、バズったとか... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nyaomaru/articles/2025-summary-of-oss</guid>
-      <pubDate>Wed, 31 Dec 2025 06:08:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flutter未経験から6ヶ月で戦力化し、日商250万円、アクティブユーザー4500人に成長させるまでにやったこと</title>
-      <link>https://zenn.dev/jambo_dev/articles/365b8ad2fc10e9</link>
-      <description>はじめに
-こんにちは。jamboでテックリードをやっているishidaです。
-2022年11月に入社し、現在はテックリードとモバイルアプリ事業のリーダーを担当しています。
-Flutter未経験の状態から社内で導入を進め、
-現在は日商250万円規模の機能を支えるモバイルアプリとして運用しています。
+      <title>【狂気の実証実験1】AIエージェントに電気ショック権限を付与したら生活が更生した</title>
+      <link>https://qiita.com/motoya0118/items/da163b7f7b53fc445f63?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>概要
 本記事では、
-
-なぜFlutterを選んだのか
-戦力化するまでのキャッチアップ、学習方法
-新技術をチーム開発する際に生じた課題と対応
-AIエージェントとの付き合い方
-新技術導入時に1人目が意識すべきポイント
-
-を、実体験ベースでまとめます。
-!
-なお、サービス名については伏せさせていただきま... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/jambo_dev/articles/365b8ad2fc10e9</guid>
-      <pubDate>Wed, 31 Dec 2025 14:57:29 +0000</pubDate>
+「自分の意思では生活習慣を改善できない人間が、AI Agentに“罰”を与える権限を渡したらどうなるか」
+という実証実験について紹介します。
+リマインダーも、ToDo管理も、コーチングサービスも続かない。
+理由はシンプルで、守らなくても痛くないから。
+... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/motoya0118/items/da163b7f7b53fc445f63?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 01 Jan 2026 03:39:34 +0000</pubDate>
     </item>
     <item>
-      <title>Rust における「変数」を本気で理解する</title>
-      <link>https://zenn.dev/moooda_dev/articles/683b3ca9ba6c1e</link>
+      <title>Claude Code の ENABLE_TOOL_SEARCH=1 の挙動を理解する 2026/01</title>
+      <link>https://zenn.dev/him0/articles/8b6c82e592e30b</link>
+      <description>この記事はリバースエンジニアリングによる推測も含みます。この変更が現時点で表に出ておらず、取り下げられる可能性もあります。
+Claude Code を含め、多くのコーディングエージェントでは、ファイル操作や外部との通信を行う際に MCP(Model Context Protocol) を用います。この MCP は、AI Agent とサードパーティーのサービスを繋ぐ仕組みと理解されている方が多いように思います。しかし、これは半分間違いで AI Agent が利用する API 呼び出しを定義する広義的な標準フォーマットであり、その適用範囲は内部的に定義された Tool 等も含まれます。
+h... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/him0/articles/8b6c82e592e30b</guid>
+      <pubDate>Sat, 03 Jan 2026 19:34:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>ずっと欲しかったPDFリーダーを個人開発している話</title>
+      <link>https://zenn.dev/togatoga/articles/e1e1e316491003</link>
       <description>はじめに
-最近、業務とは別に Rust を触り始めました。
-普段はフロントエンドエンジニアとして Vue / TypeScript
-を中心に開発しており、状態管理やリアクティブなデータフロー、型による安全性にはある程度慣れた環境で仕事をしています。
-そんな背景で Rust に触れてみると、最初につまずいたのが
-「変数」というあまりにも基本的な概念 でした。
-let がデフォルトで再代入不可だったり、再宣言（シャドーイング）
-という仕組みが普通に使われていたりと、JavaScript
-では前提として意識していなかったルールが次々に出てきます。
-ただ、この「変数まわりの違い」を丁寧に追っ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/moooda_dev/articles/683b3ca9ba6c1e</guid>
-      <pubDate>Wed, 31 Dec 2025 06:47:29 +0000</pubDate>
+こんにちは、@togatogaです。検索とRustが好きなソフトウェアエンジニアです。
+私は技術書を読むのが好きです。近年はAIやLLMのサービスの発展により和訳や解説を手軽に得られるようになったこともありPDF形式で技術書を購入することが増えました。しかし、既存のPDFリーダーには私が欲しい機能が不足しており、読書体験があまり良くありませんでした。
+私がPDFリーダーに求めている要件は以下の通りです。
+
+前のページの図表や文章を見つつ、今のページを読みたい（特に数ページ前の内容を参照したい場合）
+
+下手に移動すると今読んでいるページを見失う
+
+
+英語の文章の翻訳・解説を「... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/togatoga/articles/e1e1e316491003</guid>
+      <pubDate>Fri, 02 Jan 2026 22:53:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026元日、Playwright MCPに触れて気づいた、LLM時代のブラウザ自動化の新しいパラダイム</title>
+      <link>https://zenn.dev/nossa/articles/8d90efd840934f</link>
+      <description>はじめに
+年末年始でPlaywright MCPを触り直しています。きっかけは、MCPがLinux Foundation傘下のAgentic AI Foundationに移管されたというニュースでした。GitHub Starsは23,000を超え、2024年11月のMCP発表からわずか1年。最初は「また新しいツールか」程度に思っていたのですが、触っているうちに、これまで経験してきたブラウザ自動化とは何か違うと感じ始めました。
+その違和感を年末年始で整理してみた結果、自分なりに言語化できたのが「Webページの表現方法」の変化という視点です。
+
+ PlaywrightとPlaywrigh... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nossa/articles/8d90efd840934f</guid>
+      <pubDate>Thu, 01 Jan 2026 05:36:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年版：JavaScript/TypeScriptのロギング入門</title>
+      <link>https://zenn.dev/hongminhee/articles/e0d19ae2c4e042</link>
+      <description>本番環境で障害が発生したとき、手がかりになるのは結局ログだけだった——という経験は、多くのエンジニアが持っているのではないでしょうか。ところが、開発中に書き散らしたconsole.logは肝心なときに役に立たないことが多いものです。「ここ通った」「動いた」といったメッセージや、巨大なオブジェクトがそのまま出力されているだけでは、原因特定は困難です。
+かといって、本格的なロギングライブラリを導入するのは大げさに感じることもあります。winstonやPinoは高機能ですが、設定項目が多く、エッジ環境では動かなかったり、依存関係が増えたりと、ちょっとしたAPIサーバーには重たい選択肢かもしれま... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hongminhee/articles/e0d19ae2c4e042</guid>
+      <pubDate>Thu, 01 Jan 2026 02:51:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIキャラ同士で会話したら自分にないアイデアが生まれるのでは？</title>
+      <link>https://zenn.dev/yuki_koike0626/articles/dev-character-discussion</link>
+      <description>前提
+これは私しか使わないサービスの個人開発の備忘録です。2027年を迎える頃に、『2026年はこんなこともしたな』と振り返りつつ、読んだ人のシステム開発のアイデアになるようなミノムシぐらい小さい社会貢献をしておきます。このサービスの本当の意図は打席に立つことです。その言葉の意味含め本編へ。
+
+これは個人利用なので使えません
+
+ 開発した経緯
+キングダムは好きですか？私は大好きです
+一人一人のキャラクターの野望だったり、判断、性格だったりとにかく奥が深く学べることが多い漫画です。
+「キングダムで好きなキャラクターは何？」
+相手がどんな人か知りたい時にこれ以上の質問はないでしょう。ちな... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yuki_koike0626/articles/dev-character-discussion</guid>
+      <pubDate>Sat, 03 Jan 2026 09:48:02 +0000</pubDate>
     </item>
     <item>
       <title>【Next.js】「動けば正義」から卒業する。個人開発で設定すべきセキュリティヘッダー7選とその効果</title>
@@ -118,35 +114,24 @@ Webブラウザは基本的にお人好しです。サーバーから送られ�
       <pubDate>Thu, 01 Jan 2026 21:00:17 +0000</pubDate>
     </item>
     <item>
-      <title>Pythonパッケージ管理ツール「uv」はなぜこれほど爆速なのか？</title>
-      <link>https://zenn.dev/acrosstudioblog/articles/8efb31681b46f3</link>
-      <description>新人に「uv使いなよ」と言った手前、なぜ爆速なのか本気で調べてみた結果
-最近、チームに入ってきた新入社員の環境構築を手伝っていたときのことです。
-pip でライブラリを入れている彼を見て、私は反射的にこう言いました。
-「あ、今は uv を使ったほうがいいよ。とにかく速いから」
-素直に uv を導入して「うわっ、本当に一瞬ですね！」と驚く彼を見て満足した私ですが、デスクに戻ってふと冷や汗が出ました。
-（……あれ？ 待てよ。なんで uv ってこんなに速いんだっけ？）
-「Rust製だから」という定型句は知っています。でも、それだけで10倍以上も差が出るものなのか？ もし彼に「Rustだと具... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acrosstudioblog/articles/8efb31681b46f3</guid>
-      <pubDate>Tue, 30 Dec 2025 09:10:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>30日でCVE取得! OSSバグハント入門</title>
-      <link>https://zenn.dev/scgajge12/books/6f6ab44df405b2</link>
-      <description>📕【概要】
-　本書は、Web セキュリティの基礎を一定学び終えた方が、実際に「CVE 番号の取得」というリアルワールドな成果を初めて手にするための、体系的かつ実践的なバグハント入門ガイド本です。
+      <title>新人エンジニアのための今度こそ理解するSSL/TLS超入門</title>
+      <link>https://zenn.dev/collabostyle/articles/ec7604c7468b84</link>
+      <description>はじめに
+Web開発やインフラに関わっていると、必ず目にするのがHTTPSです。
+今や「HTTPではなくHTTPSが当たり前」という世界になっています。
+一方で、こんな経験はありませんか？
 
-　世の中には多くの学習コンテンツや演習環境が存在しますが、それらをマスターするだけでは、現実のプロダクトに潜む脆弱性を見つけ出し、脆弱性として認められる CVE を取得するまでの壁を突破できないことが少なくありません。
+証明書エラーが出たけど、よく分からず無視した
+「オレオレ証明書」と言われてもピンとこない
+HTTPSなのに「安全ではありません」と表示されて混乱した
 
-　本書では、GitHub 上の OSS をターゲットにし、ターゲットとなる OSS の選定から、膨大なソースコードの中から脆弱性の原因を見つけ出す「検索テクニック」、実装を読み解く「コードレビュー」、そして脆弱性として認めさせるための「報告スキル」まで、著者の経験に基づくノウハウを30日のロードマップに凝縮しました。
-
-　本書を通して、単なる「学習者」から「バグハンター」への第一歩を歩み出しましょう。30日後、あなたの名前が刻まれた初めての CVE 番号が発行されることを願っています。
-
-💪【こんな方にオススメ】
-・☆ CVE 番号を取得してみたい方
-・☆ やる気のある方、 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/scgajge12/books/6f6ab44df405b2</guid>
-      <pubDate>Tue, 30 Dec 2025 20:19:38 +0000</pubDate>
+SSL/TLSは使うことは簡単ですが、何が起きているかを理解するのは意外と難しい技術です。
+特に新人エンジニアのうちは、
+「HTTPS ＝ 暗号化されていて安全」
+というイメージだけで通り過ぎてしまいがちです。
+しかし実際の SSL/TLS は、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/collabostyle/articles/ec7604c7468b84</guid>
+      <pubDate>Fri, 02 Jan 2026 10:38:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
