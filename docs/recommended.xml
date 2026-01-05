@@ -7,38 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Jan 2026 06:45:43 +0000</lastBuildDate>
-    <item>
-      <title>Claude Code 開発者自身の活用法をまとめてみた</title>
-      <link>https://zenn.dev/akino/articles/62e25d7c1b37d6</link>
-      <description>こんにちは、あきのです。普段は　「AI開発効率化ソリューション」 を提供しているZenTechのCTOをしています。最近は常にAIで開発が効率化できないか考えています。
-この記事では、Claude Codeの開発者であるBorisさんが投稿されていたClaude Codeの活用法をまとめさせていただきました。
-ご本人に、記事にして良いかDMしたところ快諾いただいたため、記事にさせていただきました！
-Thank you very much!
-https://x.com/bcherny/status/2007179832300581177
-!
-誤解している部分もあるかもしれません。その場合は... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/akino/articles/62e25d7c1b37d6</guid>
-      <pubDate>Sat, 03 Jan 2026 05:47:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>「google」を「gogle」と打つだけで終了。アクセスした瞬間にデータが抜かれる仕組みが怖い | ライフハッカー・ジャパン</title>
-      <link>https://www.lifehacker.jp/article/2601parked-urls-malware-risk/</link>
-      <description>セキュリティ企業Infobloxの研究者らが発表したレポートによると、有名サイトに似せたドメインや、期限切れのドメインを悪用した詐欺が急増中。 たった1文字の打ち間違いで、本来のサイトではなく「スケアウェア（不安を煽る詐欺広告）」や「マルウェア」を仕込んだサイトに放り込まれてしまうのです。 見た目はそっくり... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.lifehacker.jp/article/2601parked-urls-malware-risk/</guid>
-      <pubDate>Sun, 04 Jan 2026 13:41:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>コンテキストエンジニアリングについて気になったのでまとめてみた</title>
-      <link>https://qiita.com/yakumo_09/items/00ac034571fec150351a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-AIがタスクをこなす上で、全く的外れなことをすることがあるのはなぜだろうと思ったことはありませんか？
-実はそれはAIの賢さやシステムプロンプトだけの問題ではなく、コンテキストが関係しています。
-
-今回はAnthropicが発表した、AIエージェント開発におけ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/yakumo_09/items/00ac034571fec150351a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 03 Jan 2026 05:08:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Jan 2026 21:31:47 +0000</lastBuildDate>
     <item>
       <title>【狂気の実証実験2】GPTsに電気ショック権限を付与してみた</title>
       <link>https://qiita.com/motoya0118/items/bd5266a987d082caea16?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -60,6 +29,32 @@ Claude Code を含め、多くのコーディングエージェントでは、�
 h... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/him0/articles/8b6c82e592e30b</guid>
       <pubDate>Sat, 03 Jan 2026 19:34:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xでも使える生成AI「Grok」の画像編集機能で子どもや女性の性的画像が生成可能な問題を受けインド・フランス・マレーシアの当局が調査を開始</title>
+      <link>https://gigazine.net/news/20260105-authorities-investigating-grok-generating-deepfakes/</link>
+      <description>生成AI「Grok」の画像編集機能が2025年12月からXでも簡単に使えるようになった結果、他人の画像を勝手に編集する事例が発生したほか、コスプレイヤーや子どもの写真を無断で性的に加工するという事例が世界的に広がっています。これを受け、フランスおよびマレーシアの規制当局がGrokの調査を開始したと報じられました。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20260105-authorities-investigating-grok-generating-deepfakes/</guid>
+      <pubDate>Mon, 05 Jan 2026 06:52:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>【2026年1月】コンテナランタイム周辺の調査メモ：Docker以外に何があるのか、今どうなっているのか</title>
+      <link>https://zenn.dev/nossa/articles/a6f5b342ad83f0</link>
+      <description>!
+可能な限り公式ドキュメント等で裏取りを行っていますが、この記事は個人的な調査メモであり、内容の正確性を保証するものではありません。
+技術選定や本番環境への導入に際しては、必ず各プロジェクトの公式ドキュメントをご確認ください。
+
+
+ この記事について
+コンテナランタイムについて調べ直したのでメモを残します。
+「コンテナランタイム」という言葉は文脈によって指すものが異なります。低レベルのOCI Runtime、高レベルのCRI Runtime、Docker/Podmanのようなエンジン全体。このあたりを整理しつつ、2026年1月時点の状況をまとめました。
+
+
+ 目次
+
+コンテナ技術のレイ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nossa/articles/a6f5b342ad83f0</guid>
+      <pubDate>Sun, 04 Jan 2026 01:21:40 +0000</pubDate>
     </item>
     <item>
       <title>横断的に理解する PostgreSQL の 内部データ構造: MVCC・トランザクション分離・インデックス</title>
@@ -92,16 +87,34 @@ MVCC... (source: Zennのトレンド)</description>
       <pubDate>Fri, 02 Jan 2026 15:51:52 +0000</pubDate>
     </item>
     <item>
-      <title>韓国軍のPCで「ソフトウェアレンダリング」してみた</title>
-      <link>https://zenn.dev/shika_gfx/articles/shika-soft-rend</link>
-      <description>はじめに : 真っ黒なコンソール画面と、グラフィックスへの渇望
-私は現在、韓国で兵役の義務を遂行中の現役軍人です。
-目前には、簡単なウェブサーフィン、ネット講義用として支給された共用PCがあります。
-しかし、私はこのPCで派手な3Dグラフィックスを画面に表示させることはできません。
-軍隊の厳格なセキュリティシステムが、未知のプログラムによる 「ウィンドウ生成（Window Creation）」や 「ドライバへのアクセス」を完全に遮断しているからです。
-この記事は、色んな制約を越え、C++の標準ライブラリ（STL）だけでグラフィックス数学ライブラリとソフトウェアレンダラーをゼロから実装... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shika_gfx/articles/shika-soft-rend</guid>
-      <pubDate>Sun, 04 Jan 2026 01:23:51 +0000</pubDate>
+      <title>AIキャラ同士で会話したら自分にないアイデアが生まれるのでは？</title>
+      <link>https://zenn.dev/yuki_koike0626/articles/dev-character-discussion</link>
+      <description>前提
+これは私しか使わないサービスの個人開発の備忘録です。2027年を迎える頃に、『2026年はこんなこともしたな』と振り返りつつ、読んだ人のシステム開発のアイデアになるようなミノムシぐらい小さい社会貢献をしておきます。このサービスの本当の意図は打席に立つことです。その言葉の意味含め本編へ。
+
+これは個人利用なので使えません
+
+ 開発した経緯
+キングダムは好きですか？私は大好きです
+一人一人のキャラクターの野望だったり、判断、性格だったりとにかく奥が深く学べることが多い漫画です。
+「キングダムで好きなキャラクターは何？」
+相手がどんな人か知りたい時にこれ以上の質問はないでしょう。ちな... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yuki_koike0626/articles/dev-character-discussion</guid>
+      <pubDate>Sat, 03 Jan 2026 09:48:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年は全部ターミナルでやるぞ！</title>
+      <link>https://zenn.dev/ignission/articles/9c2d8d5e709a4c</link>
+      <description>はじめに
+あけましておめでとうございます🎍
+スティーブン・R・コヴィー博士の著書『7つの習慣』に由来する有名な言葉、「Sharpening the Saw ー ノコギリを研ぐ」。今年の正月休みこそは普段後回しにしていた、コーディング環境周りを改善し、開発速度を爆アゲしたいと思っています。
+
+ 研ぎたいもの
+頭ではわかっている。ただ、マスターするには時間がかかりすぎる。
+例えば習熟するのに1ヶ月かかるとして、エンジニア人生で見れば余裕でペイできるのに、一時的に生産性が下がることが嫌でなかなか本腰を入れられない。
+そこで、今年こそは以下をマスターし、AIに負けないくらい生産性を発揮するこ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ignission/articles/9c2d8d5e709a4c</guid>
+      <pubDate>Sun, 04 Jan 2026 09:13:27 +0000</pubDate>
     </item>
     <item>
       <title>新人エンジニアのための今度こそ理解するSSL/TLS超入門</title>
@@ -124,14 +137,14 @@ SSL/TLSは使うことは簡単ですが、何が起きているかを理解す�
       <pubDate>Fri, 02 Jan 2026 10:38:57 +0000</pubDate>
     </item>
     <item>
-      <title>「机の上が端末だらけ」はもう限界。田舎役所の“情シス”が直面する、三層分離の構造的な詰み</title>
+      <title>part1:「机の上が端末だらけ」はもう限界。田舎役所の“情シス”が直面する、三層分離の構造的な限界</title>
       <link>https://zenn.dev/8chikuwa3/articles/33cb40aa3ac5ad</link>
       <description>はじめに
 こんにちは。とある田舎小規模自治体で「情シス」担当している一般事務職員です。
 今回は、私たち自治体職員が長年付き合ってきた（そして最近は頭を抱えている）「三層分離」というネットワークモデルについて、現場の視点から整理してみたいと思います。
-※GeminiやNotebooklmを活用して記事をまとめているので、変な表現があったら教えてください。
+※GeminiやNotebooklmを活用して記事をまとめているところもあるので、変な表現があったら教えてください。
 DX推進だ、クラウド活用だ、とお題目は立派ですが、現場の実態は「物理的に分かれた3台のPCに囲まれて、PCを切り替えながら仕事をする」という、極めてアナログな状況になっていないでしょうか？
-なぜ今、この仕組みを変えなければならないのか... (source: Zennのトレンド)</description>
+なぜ今、この仕組みを変えなければ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/8chikuwa3/articles/33cb40aa3ac5ad</guid>
       <pubDate>Sun, 04 Jan 2026 11:38:39 +0000</pubDate>
     </item>

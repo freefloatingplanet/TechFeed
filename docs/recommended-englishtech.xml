@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Jan 2026 06:45:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 21:31:59 +0000</lastBuildDate>
+    <item>
+      <title>FGA：WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
+      <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
+      <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
+      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主要な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</guid>
+      <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
+    </item>
     <item>
       <title>Okta から Python アプリにユーザーを同期する方法</title>
       <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</link>
@@ -16,32 +30,11 @@
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>欧州の銀行、AI導入で20万人の雇用削減を計画</title>
-      <link>https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/</link>
-      <description>この大量虐殺は、バックオフィス業務、リスク管理、コンプライアンスに最も大きな打撃を与えるでしょう。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/</guid>
-      <pubDate>Thu, 01 Jan 2026 20:28:20 +0000</pubDate>
-    </item>
-    <item>
       <title>DuckDB の WebAssembly クライアントにより、ブラウザで Iceberg データセットのクエリが可能に</title>
       <link>https://www.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>DuckDBは最近、ブラウザタブ内で直接Iceberg RESTカタログとのエンドツーエンドの連携を実現しました。インフラのセットアップは不要です。この新機能は、ブラウザで動作するDuckDBのWebAssemblyポートであるDuckDB-Wasmを活用しており、ユーザーはサーバーレスでIcebergテーブルへのクエリ、読み取り、書き込みを行うことができます。Renato Losio著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Sun, 04 Jan 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>新しいビルドシステムを搭載したReScript 12.0がリリースされました</title>
-      <link>https://www.infoq.com/news/2025/12/rescript-12-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ReScript 12.0がリリースされました。ビルドシステムの書き換え、パフォーマンスの向上、構文の強化により、言語の近代化におけるマイルストーンとなります。主な機能には、モジュールアーキテクチャ、辞書リテラル、JSX保存モードなどがあり、確実なタイピングと高速コンパイルを求める開発者にとって、TypeScriptの強力な代替手段としての地位を強化しています。今すぐ進化を体験してください！ダニエル・カーティス (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2025/12/rescript-12-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 31 Dec 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Disrupt Startup Battlefieldで選出された物流、製造、素材分野のスタートアップ企業トップ16社</title>
-      <link>https://techcrunch.com/2026/01/02/the-16-top-logistics-manufacturing-materials-startups-from-disrupt-startup-battlefield/</link>
-      <description>以下は、物流、製造、資材部門の Startup Battlefield 200 選出企業の完全なリストです。また、これらの企業をこのコンテストに選出した理由についても説明します。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/01/02/the-16-top-logistics-manufacturing-materials-startups-from-disrupt-startup-battlefield/</guid>
-      <pubDate>Fri, 02 Jan 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOSの内部</title>
@@ -65,9 +58,16 @@
       <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
     </item>
     <item>
+      <title>JEP 525は、Javaの構造化並行性にタイムアウト処理とジョイナーの改良をもたらします</title>
+      <link>https://www.infoq.com/news/2026/01/timeout-joiner-refinements/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>次期JDK 26の目玉となるJEP 525は、構造化並行処理を洗練させ、より明確で安全なタスク管理を実現します。このイテレーションでは、カスタムジョイナーにタイムアウトコールバックが導入され、柔軟性とエラー処理が向上します。合理化されたAPIと実用的な用途への重点により、開発者は並行タスクを効率的に管理できるようになり、Project Loomの高度な機能への道が開かれます。A N M Bazlur Rahman著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/timeout-joiner-refinements/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 05 Jan 2026 15:10:00 +0000</pubDate>
+    </item>
+    <item>
       <title>AWS、M9gインスタンスで第5世代Gravitonプロセッサを導入</title>
       <link>https://www.infoq.com/news/2026/01/aws-graviton-m9g/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AWSは最近、新しいGraviton5プロセッサと、それを搭載した最初のEC2インスタンスである汎用M9gインスタンスのプレビューを発表しました。同社によると、この最新チップはGraviton4と比較して最大25%高いパフォーマンスを実現し、Nitro Isolation Engineを導入し、L3キャッシュの容量拡大により、レイテンシ、メモリ帯域幅、ネットワークスループットが向上します。（Renato Losio著） (source: InfoQ)</description>
+      <description>AWSは最近、新しいGraviton5プロセッサと、それを搭載した最初のEC2インスタンスである汎用M9gインスタンスのプレビューを発表しました。同社によると、この最新チップはGraviton4と比較して最大25%高いパフォーマンスを実現し、Nitro Isolation Engineを導入し、L3キャッシュの容量拡大により、レイテンシ、メモリ帯域幅、ネットワークスループットが向上します。（レナート・ロシオ著） (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/aws-graviton-m9g/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Sat, 03 Jan 2026 06:38:00 +0000</pubDate>
     </item>
