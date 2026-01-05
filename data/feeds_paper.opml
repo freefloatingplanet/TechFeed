@@ -6,7 +6,7 @@
     </head>
     <body>
         <outline text="paper" title="paper">
-            <outline type="rss" text="arxivで機械学習系全般" title="機械学習全般" xmlUrl="https://export.arxiv.org/api/query?search_query=cat:cs.LG+OR+cat:cs.AI+OR+cat:astro-ph.IM+OR+cat:physics.space-ph+OR+cat:cs.NE+OR+cat:cs.MA+OR+cat:cs.RO+OR+cat:eess.SY&max_results=50&sortBy=lastUpdatedDate" htmlUrl="https://arxiv.org/"/>
+            <outline type="rss" text="arxivで機械学習系全般" title="機械学習全般" xmlUrl="https://export.arxiv.org/api/query?search_query=cat:cs.LG+OR+cat:cs.AI+OR+cat:astro-ph.IM+OR+cat:physics.space-ph+OR+cat:cs.NE+OR+cat:cs.MA+OR+cat:cs.RO+OR+cat:eess.SY&max_results=100&sortBy=lastUpdatedDate" htmlUrl="https://arxiv.org/"/>
             <outline type="rss" text="arxivで星形成系のをざっくり" title="天文星形成" xmlUrl="https://export.arxiv.org/api/query?search_query=all:observation+AND+(all:star+OR+all:stellar)+AND+(all:formation+OR+all:forming+OR+all:star-forming)+AND+(all:region+OR+all:regions+OR+all:cluster)+AND+((all:planetary+AND+all:mass)+OR+(all:brown+AND+all:dwarf)+OR+(all:free+AND+all:floating))&max_results=20&sortBy=lastUpdatedDate" htmlUrl="https://arxiv.org/"/>
         </outline>
     </body>
