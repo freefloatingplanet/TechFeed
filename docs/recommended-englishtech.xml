@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 04 Jan 2026 06:38:01 +0000</lastBuildDate>
-    <item>
-      <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
-      <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
-      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</guid>
-      <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>オープンソースのTwitter代替サービス、Mastodonの初心者向けガイド</title>
-      <link>https://techcrunch.com/2026/01/01/what-is-mastodon/</link>
-      <description>新興プラットフォームに詳しい人でなければ、イーロン・マスクがTwitterを買収し、Xと改名するまで、Mastodonが何なのか知らなかったでしょう。買収直後、Twitterの今後の方向性を巡ってユーザーが不安を募らせる中、何百万人ものユーザーが同じマイクロブログサイトであるMastodonへと移行しました。時が経つにつれ[…] (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/01/01/what-is-mastodon/</guid>
-      <pubDate>Thu, 01 Jan 2026 21:02:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Jan 2026 06:45:54 +0000</lastBuildDate>
     <item>
       <title>Okta から Python アプリにユーザーを同期する方法</title>
       <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</link>
@@ -35,6 +21,13 @@
       <description>この大量虐殺は、バックオフィス業務、リスク管理、コンプライアンスに最も大きな打撃を与えるでしょう。 (source: TechCrunch)</description>
       <guid isPermaLink="true">https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/</guid>
       <pubDate>Thu, 01 Jan 2026 20:28:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>DuckDB の WebAssembly クライアントにより、ブラウザで Iceberg データセットのクエリが可能に</title>
+      <link>https://www.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>DuckDBは最近、ブラウザタブ内で直接Iceberg RESTカタログとのエンドツーエンドの連携を実現しました。インフラのセットアップは不要です。この新機能は、ブラウザで動作するDuckDBのWebAssemblyポートであるDuckDB-Wasmを活用しており、ユーザーはサーバーレスでIcebergテーブルへのクエリ、読み取り、書き込みを行うことができます。Renato Losio著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sun, 04 Jan 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>新しいビルドシステムを搭載したReScript 12.0がリリースされました</title>
@@ -77,6 +70,13 @@
       <description>AWSは最近、新しいGraviton5プロセッサと、それを搭載した最初のEC2インスタンスである汎用M9gインスタンスのプレビューを発表しました。同社によると、この最新チップはGraviton4と比較して最大25%高いパフォーマンスを実現し、Nitro Isolation Engineを導入し、L3キャッシュの容量拡大により、レイテンシ、メモリ帯域幅、ネットワークスループットが向上します。（Renato Losio著） (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/aws-graviton-m9g/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Sat, 03 Jan 2026 06:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Javaニュースまとめ: Spring Shell、JReleaser、TornadoInsight、Apache Camel</title>
+      <link>https://www.infoq.com/news/2026/01/java-news-roundup-dec29-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>今週は比較的静かな2025年12月29日のJavaまとめです。注目のニュースは、Spring Shell 4.0のGAリリース、JReleaser 1.22.0とApache Camel 4.14.3のポイントリリース、そしてTornadoInsightがTornadoVM 2.0の最新リリースに対応しました。マイケル・レッドリッヒ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/java-news-roundup-dec29-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 05 Jan 2026 02:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

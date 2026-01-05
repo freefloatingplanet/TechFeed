@@ -7,13 +7,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Jan 2026 06:37:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 06:45:43 +0000</lastBuildDate>
     <item>
-      <title>Ｘの生成ＡＩでビキニ姿に、女性や未成年の性的画像が新年に急増</title>
-      <link>https://jp.reuters.com/business/technology/WMWMQIEIH5KLTEM6BYHRIDZEZY-2026-01-03/</link>
-      <description>[ワシントン／デトロイト ２日 ロイター] - ブラジルのリオデジャネイロを拠点に活動するミュージシャンのジュリー・ユカリさんは、昨年１２月３１日深夜に婚約者が撮影した写真をＸに投稿した。年が明けた翌日、何百もの「いいね」に交じり、写真をビキニ姿にするようＸの内蔵人工知能Ｇｒｏｋに依頼しているメッセージ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://jp.reuters.com/business/technology/WMWMQIEIH5KLTEM6BYHRIDZEZY-2026-01-03/</guid>
-      <pubDate>Sat, 03 Jan 2026 05:58:40 +0000</pubDate>
+      <title>Claude Code 開発者自身の活用法をまとめてみた</title>
+      <link>https://zenn.dev/akino/articles/62e25d7c1b37d6</link>
+      <description>こんにちは、あきのです。普段は　「AI開発効率化ソリューション」 を提供しているZenTechのCTOをしています。最近は常にAIで開発が効率化できないか考えています。
+この記事では、Claude Codeの開発者であるBorisさんが投稿されていたClaude Codeの活用法をまとめさせていただきました。
+ご本人に、記事にして良いかDMしたところ快諾いただいたため、記事にさせていただきました！
+Thank you very much!
+https://x.com/bcherny/status/2007179832300581177
+!
+誤解している部分もあるかもしれません。その場合は... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/akino/articles/62e25d7c1b37d6</guid>
+      <pubDate>Sat, 03 Jan 2026 05:47:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>「google」を「gogle」と打つだけで終了。アクセスした瞬間にデータが抜かれる仕組みが怖い | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2601parked-urls-malware-risk/</link>
+      <description>セキュリティ企業Infobloxの研究者らが発表したレポートによると、有名サイトに似せたドメインや、期限切れのドメインを悪用した詐欺が急増中。 たった1文字の打ち間違いで、本来のサイトではなく「スケアウェア（不安を煽る詐欺広告）」や「マルウェア」を仕込んだサイトに放り込まれてしまうのです。 見た目はそっくり... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.lifehacker.jp/article/2601parked-urls-malware-risk/</guid>
+      <pubDate>Sun, 04 Jan 2026 13:41:48 +0000</pubDate>
     </item>
     <item>
       <title>コンテキストエンジニアリングについて気になったのでまとめてみた</title>
@@ -27,8 +40,8 @@ AIがタスクをこなす上で、全く的外れなことをすることがあ
       <pubDate>Sat, 03 Jan 2026 05:08:01 +0000</pubDate>
     </item>
     <item>
-      <title>【狂気の実証実験1】AIエージェントに電気ショック権限を付与したら生活が更生した</title>
-      <link>https://qiita.com/motoya0118/items/da163b7f7b53fc445f63?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>【狂気の実証実験2】GPTsに電気ショック権限を付与してみた</title>
+      <link>https://qiita.com/motoya0118/items/bd5266a987d082caea16?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>概要
 本記事では、
 「自分の意思では生活習慣を改善できない人間が、AI Agentに“罰”を与える権限を渡したらどうなるか」
@@ -36,8 +49,8 @@ AIがタスクをこなす上で、全く的外れなことをすることがあ
 リマインダーも、ToDo管理も、コーチングサービスも続かない。
 理由はシンプルで、守らなくても痛くないから。
 ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/motoya0118/items/da163b7f7b53fc445f63?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 01 Jan 2026 03:39:34 +0000</pubDate>
+      <guid isPermaLink="true">https://qiita.com/motoya0118/items/bd5266a987d082caea16?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sun, 04 Jan 2026 02:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code の ENABLE_TOOL_SEARCH=1 の挙動を理解する 2026/01</title>
@@ -49,69 +62,46 @@ h... (source: Zennのトレンド)</description>
       <pubDate>Sat, 03 Jan 2026 19:34:07 +0000</pubDate>
     </item>
     <item>
-      <title>ずっと欲しかったPDFリーダーを個人開発している話</title>
-      <link>https://zenn.dev/togatoga/articles/e1e1e316491003</link>
+      <title>横断的に理解する PostgreSQL の 内部データ構造: MVCC・トランザクション分離・インデックス</title>
+      <link>https://zenn.dev/calloc134/articles/postgres-internal-mvcc-index</link>
       <description>はじめに
-こんにちは、@togatogaです。検索とRustが好きなソフトウェアエンジニアです。
-私は技術書を読むのが好きです。近年はAIやLLMのサービスの発展により和訳や解説を手軽に得られるようになったこともありPDF形式で技術書を購入することが増えました。しかし、既存のPDFリーダーには私が欲しい機能が不足しており、読書体験があまり良くありませんでした。
-私がPDFリーダーに求めている要件は以下の通りです。
+こんにちは。かろっく@calloc134 です。
+巷では NewSQL が流行りを見せていますが、皆さんこう思ったことはありませんか？
+我々は、RDBMS ですら、十分に理解していないのではないか？
+今回は、PostgreSQL の内部実装に焦点を当てて、RDBMS 実装の解像度を上げていきたいと思います。
+PostgreSQL の内部実装については、
+インデックスの実装、追記型アーキテクチャ、MVCC、トランザクション分離モデルなどが
+断片的に語られることはありますが、横断的な解説はあまり見かけないように思います。
+この記事では、PostgreSQL における
 
-前のページの図表や文章を見つつ、今のページを読みたい（特に数ページ前の内容を参照したい場合）
-
-下手に移動すると今読んでいるページを見失う
-
-
-英語の文章の翻訳・解説を「... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/togatoga/articles/e1e1e316491003</guid>
-      <pubDate>Fri, 02 Jan 2026 22:53:45 +0000</pubDate>
+MVCC... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/calloc134/articles/postgres-internal-mvcc-index</guid>
+      <pubDate>Sat, 03 Jan 2026 08:20:39 +0000</pubDate>
     </item>
     <item>
-      <title>2026元日、Playwright MCPに触れて気づいた、LLM時代のブラウザ自動化の新しいパラダイム</title>
-      <link>https://zenn.dev/nossa/articles/8d90efd840934f</link>
+      <title>uv, ruff, ty, marimoで作る！次世代のPython研究開発環境</title>
+      <link>https://zenn.dev/ohashi_reon/articles/230e7ee6989233</link>
       <description>はじめに
-年末年始でPlaywright MCPを触り直しています。きっかけは、MCPがLinux Foundation傘下のAgentic AI Foundationに移管されたというニュースでした。GitHub Starsは23,000を超え、2024年11月のMCP発表からわずか1年。最初は「また新しいツールか」程度に思っていたのですが、触っているうちに、これまで経験してきたブラウザ自動化とは何か違うと感じ始めました。
-その違和感を年末年始で整理してみた結果、自分なりに言語化できたのが「Webページの表現方法」の変化という視点です。
+この記事では、実際に私が使っているPythonを使った研究環境の構築方法を紹介します。
 
- PlaywrightとPlaywrigh... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nossa/articles/8d90efd840934f</guid>
-      <pubDate>Thu, 01 Jan 2026 05:36:30 +0000</pubDate>
+ なぜ既存の方法ではダメなのか？
+従来のpipやvenv、black、flake8、mypy、Jupyter Notebookといったツールの組み合わせは、多くのPython開発者にとって馴染み深いものです。しかし、これらのツールには以下のような課題があります。
+
+パフォーマンス: pipは依存関係の解決やパッケージのインストールに時間がかかることがあります。特に大規模なプロジェクトでは、環境構築に多くの時間を費やすことになります。型チェックツールmypyは実行速度が遅いため、開発の妨... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ohashi_reon/articles/230e7ee6989233</guid>
+      <pubDate>Fri, 02 Jan 2026 15:51:52 +0000</pubDate>
     </item>
     <item>
-      <title>2026年版：JavaScript/TypeScriptのロギング入門</title>
-      <link>https://zenn.dev/hongminhee/articles/e0d19ae2c4e042</link>
-      <description>本番環境で障害が発生したとき、手がかりになるのは結局ログだけだった——という経験は、多くのエンジニアが持っているのではないでしょうか。ところが、開発中に書き散らしたconsole.logは肝心なときに役に立たないことが多いものです。「ここ通った」「動いた」といったメッセージや、巨大なオブジェクトがそのまま出力されているだけでは、原因特定は困難です。
-かといって、本格的なロギングライブラリを導入するのは大げさに感じることもあります。winstonやPinoは高機能ですが、設定項目が多く、エッジ環境では動かなかったり、依存関係が増えたりと、ちょっとしたAPIサーバーには重たい選択肢かもしれま... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hongminhee/articles/e0d19ae2c4e042</guid>
-      <pubDate>Thu, 01 Jan 2026 02:51:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIキャラ同士で会話したら自分にないアイデアが生まれるのでは？</title>
-      <link>https://zenn.dev/yuki_koike0626/articles/dev-character-discussion</link>
-      <description>前提
-これは私しか使わないサービスの個人開発の備忘録です。2027年を迎える頃に、『2026年はこんなこともしたな』と振り返りつつ、読んだ人のシステム開発のアイデアになるようなミノムシぐらい小さい社会貢献をしておきます。このサービスの本当の意図は打席に立つことです。その言葉の意味含め本編へ。
-
-これは個人利用なので使えません
-
- 開発した経緯
-キングダムは好きですか？私は大好きです
-一人一人のキャラクターの野望だったり、判断、性格だったりとにかく奥が深く学べることが多い漫画です。
-「キングダムで好きなキャラクターは何？」
-相手がどんな人か知りたい時にこれ以上の質問はないでしょう。ちな... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yuki_koike0626/articles/dev-character-discussion</guid>
-      <pubDate>Sat, 03 Jan 2026 09:48:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Next.js】「動けば正義」から卒業する。個人開発で設定すべきセキュリティヘッダー7選とその効果</title>
-      <link>https://zenn.dev/famaryllis/articles/e8193ebe5057c7</link>
-      <description>はじめに
-先日公開したCSV変換アプリの開発中に、AI（ペアプロ相手）から 「セキュリティヘッダーを設定しましょう」 と指摘され、前回の記事 に書いたのですがセキュリティヘッダーのそれぞれの役割の理解が曖昧なままだったので改めて調べた内容を備忘録としてまとめます。
-
- セキュリティヘッダーとは
-Webブラウザは基本的にお人好しです。サーバーから送られてきたコードや画像は、疑いもせずに表示・実行しようとします。
-そこに悪意のあるスクリプトが混ざっていたり、透明なiframeに閉じ込められたりしていても、ブラウザは「そういう指示かな？」と思って実行してしまいます。
-セキュリティヘッダーと... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/famaryllis/articles/e8193ebe5057c7</guid>
-      <pubDate>Thu, 01 Jan 2026 21:00:17 +0000</pubDate>
+      <title>韓国軍のPCで「ソフトウェアレンダリング」してみた</title>
+      <link>https://zenn.dev/shika_gfx/articles/shika-soft-rend</link>
+      <description>はじめに : 真っ黒なコンソール画面と、グラフィックスへの渇望
+私は現在、韓国で兵役の義務を遂行中の現役軍人です。
+目前には、簡単なウェブサーフィン、ネット講義用として支給された共用PCがあります。
+しかし、私はこのPCで派手な3Dグラフィックスを画面に表示させることはできません。
+軍隊の厳格なセキュリティシステムが、未知のプログラムによる 「ウィンドウ生成（Window Creation）」や 「ドライバへのアクセス」を完全に遮断しているからです。
+この記事は、色んな制約を越え、C++の標準ライブラリ（STL）だけでグラフィックス数学ライブラリとソフトウェアレンダラーをゼロから実装... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shika_gfx/articles/shika-soft-rend</guid>
+      <pubDate>Sun, 04 Jan 2026 01:23:51 +0000</pubDate>
     </item>
     <item>
       <title>新人エンジニアのための今度こそ理解するSSL/TLS超入門</title>
@@ -132,6 +122,18 @@ SSL/TLSは使うことは簡単ですが、何が起きているかを理解す�
 しかし実際の SSL/TLS は、... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/collabostyle/articles/ec7604c7468b84</guid>
       <pubDate>Fri, 02 Jan 2026 10:38:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>「机の上が端末だらけ」はもう限界。田舎役所の“情シス”が直面する、三層分離の構造的な詰み</title>
+      <link>https://zenn.dev/8chikuwa3/articles/33cb40aa3ac5ad</link>
+      <description>はじめに
+こんにちは。とある田舎小規模自治体で「情シス」担当している一般事務職員です。
+今回は、私たち自治体職員が長年付き合ってきた（そして最近は頭を抱えている）「三層分離」というネットワークモデルについて、現場の視点から整理してみたいと思います。
+※GeminiやNotebooklmを活用して記事をまとめているので、変な表現があったら教えてください。
+DX推進だ、クラウド活用だ、とお題目は立派ですが、現場の実態は「物理的に分かれた3台のPCに囲まれて、PCを切り替えながら仕事をする」という、極めてアナログな状況になっていないでしょうか？
+なぜ今、この仕組みを変えなければならないのか... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/8chikuwa3/articles/33cb40aa3ac5ad</guid>
+      <pubDate>Sun, 04 Jan 2026 11:38:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
