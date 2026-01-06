@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Jan 2026 21:31:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 06:40:50 +0000</lastBuildDate>
+    <item>
+      <title>Claude Code の7つの拡張機能、結局どう使い分ければいいの？</title>
+      <link>https://zenn.dev/tmasuyama1114/articles/claude_code_extension_guide</link>
+      <description>こんにちは、とまだです。
+Claude Code を使っていると、こんな疑問が湧いてきませんか？
+「CLAUDE.md、Skills、Sub-agents、MCP、カスタムスラッシュコマンド...いろいろあるけど、どれをどう使えばいいの？」
+今回伝えたいことの要点は、7つの機能は「2つの軸」で整理すると迷わなくなるということです。
+軸1は「いつ読み込まれるか」、軸2は「誰が動くか」。この2つの視点で分類すると、それぞれの役割がスッキリ見えてきます。この記事では、7つの機能を2軸で整理し、迷ったときの判断基準まで解説します。
+（追記：動画ではより噛み砕いて解説していますので、ぜひご覧くださ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tmasuyama1114/articles/claude_code_extension_guide</guid>
+      <pubDate>Sat, 03 Jan 2026 16:33:38 +0000</pubDate>
+    </item>
     <item>
       <title>【狂気の実証実験2】GPTsに電気ショック権限を付与してみた</title>
       <link>https://qiita.com/motoya0118/items/bd5266a987d082caea16?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -20,22 +32,6 @@
 ... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/motoya0118/items/bd5266a987d082caea16?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Sun, 04 Jan 2026 02:10:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code の ENABLE_TOOL_SEARCH=1 の挙動を理解する 2026/01</title>
-      <link>https://zenn.dev/him0/articles/8b6c82e592e30b</link>
-      <description>この記事はリバースエンジニアリングによる推測も含みます。この変更が現時点で表に出ておらず、取り下げられる可能性もあります。
-Claude Code を含め、多くのコーディングエージェントでは、ファイル操作や外部との通信を行う際に MCP(Model Context Protocol) を用います。この MCP は、AI Agent とサードパーティーのサービスを繋ぐ仕組みと理解されている方が多いように思います。しかし、これは半分間違いで AI Agent が利用する API 呼び出しを定義する広義的な標準フォーマットであり、その適用範囲は内部的に定義された Tool 等も含まれます。
-h... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/him0/articles/8b6c82e592e30b</guid>
-      <pubDate>Sat, 03 Jan 2026 19:34:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xでも使える生成AI「Grok」の画像編集機能で子どもや女性の性的画像が生成可能な問題を受けインド・フランス・マレーシアの当局が調査を開始</title>
-      <link>https://gigazine.net/news/20260105-authorities-investigating-grok-generating-deepfakes/</link>
-      <description>生成AI「Grok」の画像編集機能が2025年12月からXでも簡単に使えるようになった結果、他人の画像を勝手に編集する事例が発生したほか、コスプレイヤーや子どもの写真を無断で性的に加工するという事例が世界的に広がっています。これを受け、フランスおよびマレーシアの規制当局がGrokの調査を開始したと報じられました。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20260105-authorities-investigating-grok-generating-deepfakes/</guid>
-      <pubDate>Mon, 05 Jan 2026 06:52:50 +0000</pubDate>
     </item>
     <item>
       <title>【2026年1月】コンテナランタイム周辺の調査メモ：Docker以外に何があるのか、今どうなっているのか</title>
@@ -57,6 +53,22 @@ h... (source: Zennのトレンド)</description>
       <pubDate>Sun, 04 Jan 2026 01:21:40 +0000</pubDate>
     </item>
     <item>
+      <title>Fluentdを使った監査ログ機能の設計</title>
+      <link>https://zenn.dev/bizibl_dev/articles/3cc96533ce03fc</link>
+      <description>はじめに
+こんにちは、Biziblでクラウドエンジニアをしているりょうま (@engineer_ryoma)です。
+先日、Biziblの機能にて、監査ログ機能の設計を担当させていただきました。
+その際、Fluentdを使って急なアクセス増に耐えられるような構成にしたのですが、その設計において色々と試行錯誤したのでその過程を紹介せていただきます。
+どの会社でも、ガバナンスの一環としてユーザーの監査ログ機能が求められることも多いかなと思うので、少しでも参考になれば幸いです。
+
+ 監査ログ機能の要件
+ざっくりの機能要件としては以下のとおりです。
+
+情報の不正取得、持ち出しのチェックを行うた... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/bizibl_dev/articles/3cc96533ce03fc</guid>
+      <pubDate>Mon, 05 Jan 2026 02:36:59 +0000</pubDate>
+    </item>
+    <item>
       <title>横断的に理解する PostgreSQL の 内部データ構造: MVCC・トランザクション分離・インデックス</title>
       <link>https://zenn.dev/calloc134/articles/postgres-internal-mvcc-index</link>
       <description>はじめに
@@ -74,33 +86,30 @@ MVCC... (source: Zennのトレンド)</description>
       <pubDate>Sat, 03 Jan 2026 08:20:39 +0000</pubDate>
     </item>
     <item>
-      <title>uv, ruff, ty, marimoで作る！次世代のPython研究開発環境</title>
-      <link>https://zenn.dev/ohashi_reon/articles/230e7ee6989233</link>
-      <description>はじめに
-この記事では、実際に私が使っているPythonを使った研究環境の構築方法を紹介します。
-
- なぜ既存の方法ではダメなのか？
-従来のpipやvenv、black、flake8、mypy、Jupyter Notebookといったツールの組み合わせは、多くのPython開発者にとって馴染み深いものです。しかし、これらのツールには以下のような課題があります。
-
-パフォーマンス: pipは依存関係の解決やパッケージのインストールに時間がかかることがあります。特に大規模なプロジェクトでは、環境構築に多くの時間を費やすことになります。型チェックツールmypyは実行速度が遅いため、開発の妨... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ohashi_reon/articles/230e7ee6989233</guid>
-      <pubDate>Fri, 02 Jan 2026 15:51:52 +0000</pubDate>
+      <title>韓国軍のPCで「ソフトウェアレンダリング」してみた</title>
+      <link>https://zenn.dev/shika_gfx/articles/shika-soft-rend</link>
+      <description>はじめに : 真っ黒なコンソール画面と、グラフィックスへの渇望
+私は現在、韓国で兵役の義務を遂行中の現役軍人です。
+目前には、簡単なウェブサーフィン、ネット講義用として支給された共用PCがあります。
+しかし、私はこのPCで派手な3Dグラフィックスを画面に表示させることはできません。
+軍隊の厳格なセキュリティシステムが、未知のプログラムによる 「ウィンドウ生成（Window Creation）」や 「ドライバへのアクセス」を完全に遮断しているからです。
+この記事は、色んな制約を越え、C++の標準ライブラリ（STL）だけでグラフィックス数学ライブラリとソフトウェアレンダラーをゼロから実装... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shika_gfx/articles/shika-soft-rend</guid>
+      <pubDate>Sun, 04 Jan 2026 01:23:51 +0000</pubDate>
     </item>
     <item>
-      <title>AIキャラ同士で会話したら自分にないアイデアが生まれるのでは？</title>
-      <link>https://zenn.dev/yuki_koike0626/articles/dev-character-discussion</link>
-      <description>前提
-これは私しか使わないサービスの個人開発の備忘録です。2027年を迎える頃に、『2026年はこんなこともしたな』と振り返りつつ、読んだ人のシステム開発のアイデアになるようなミノムシぐらい小さい社会貢献をしておきます。このサービスの本当の意図は打席に立つことです。その言葉の意味含め本編へ。
-
-これは個人利用なので使えません
-
- 開発した経緯
-キングダムは好きですか？私は大好きです
-一人一人のキャラクターの野望だったり、判断、性格だったりとにかく奥が深く学べることが多い漫画です。
-「キングダムで好きなキャラクターは何？」
-相手がどんな人か知りたい時にこれ以上の質問はないでしょう。ちな... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yuki_koike0626/articles/dev-character-discussion</guid>
-      <pubDate>Sat, 03 Jan 2026 09:48:02 +0000</pubDate>
+      <title>VimのコードベースはどのバージョンのSTEVIEか？</title>
+      <link>https://zenn.dev/nil2/articles/2da481e588b649</link>
+      <description>この記事はVim駅伝の447本目の記事です。
+Vimは初め、Amigaで動くテキストエディタとして開発されました。
+Vimを開発したBram氏は、大学にいた頃viを使っていてそれが手に馴染んでいたそうで、
+大学卒業後Océという会社に就職し、Amiga 2000というマシンを購入したのち、
+Amigaでもviを使いたかったからとVimを開発したのだとか。[1]
+そのとき、STEVIEというテキストエディタがVimのベースとなったのだとか。
+当時コードを入手できたviクローンの中では一番良かったそうで、それでSTEVIEのコードをベースにVimを開発されたそう。[2]
+コードについては長い... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nil2/articles/2da481e588b649</guid>
+      <pubDate>Mon, 05 Jan 2026 11:16:30 +0000</pubDate>
     </item>
     <item>
       <title>2026年は全部ターミナルでやるぞ！</title>
@@ -117,26 +126,6 @@ MVCC... (source: Zennのトレンド)</description>
       <pubDate>Sun, 04 Jan 2026 09:13:27 +0000</pubDate>
     </item>
     <item>
-      <title>新人エンジニアのための今度こそ理解するSSL/TLS超入門</title>
-      <link>https://zenn.dev/collabostyle/articles/ec7604c7468b84</link>
-      <description>はじめに
-Web開発やインフラに関わっていると、必ず目にするのがHTTPSです。
-今や「HTTPではなくHTTPSが当たり前」という世界になっています。
-一方で、こんな経験はありませんか？
-
-証明書エラーが出たけど、よく分からず無視した
-「オレオレ証明書」と言われてもピンとこない
-HTTPSなのに「安全ではありません」と表示されて混乱した
-
-SSL/TLSは使うことは簡単ですが、何が起きているかを理解するのは意外と難しい技術です。
-特に新人エンジニアのうちは、
-「HTTPS ＝ 暗号化されていて安全」
-というイメージだけで通り過ぎてしまいがちです。
-しかし実際の SSL/TLS は、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/collabostyle/articles/ec7604c7468b84</guid>
-      <pubDate>Fri, 02 Jan 2026 10:38:57 +0000</pubDate>
-    </item>
-    <item>
       <title>part1:「机の上が端末だらけ」はもう限界。田舎役所の“情シス”が直面する、三層分離の構造的な限界</title>
       <link>https://zenn.dev/8chikuwa3/articles/33cb40aa3ac5ad</link>
       <description>はじめに
@@ -147,6 +136,21 @@ DX推進だ、クラウド活用だ、とお題目は立派ですが、現場の
 なぜ今、この仕組みを変えなければ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/8chikuwa3/articles/33cb40aa3ac5ad</guid>
       <pubDate>Sun, 04 Jan 2026 11:38:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeで記憶領域を持つための独自のAgent Skillsを使っている</title>
+      <link>https://zenn.dev/yamadashy/articles/claude-code-agent-skills-agent-memory</link>
+      <description>作業内容をエージェントに記憶させて「ひとまず忘れたい」と思うことがあります。
+作業中に別の差し込みが入ったとき。気になった何かを調査させて、一旦寝かせておきたいとき。
+Claude Codeは履歴から再開することもできますが、履歴は日々増えていくので古いものを辿るのは面倒ですよね。中断された細かい対応のために履歴を遡るようなことはやりません。
+記憶してくれていれば探す手間もないので、対話の文脈をもっとカジュアルに残せると嬉しい。
+そこで、agent-memory というスキルをローカルに作って試しています。
+
+ やっていること
+シンプルな仕組みのスキルです。
+中断するときに「記憶して」や... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yamadashy/articles/claude-code-agent-skills-agent-memory</guid>
+      <pubDate>Mon, 05 Jan 2026 01:11:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
