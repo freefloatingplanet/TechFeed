@@ -7,32 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Jan 2026 06:40:50 +0000</lastBuildDate>
-    <item>
-      <title>Claude Code の7つの拡張機能、結局どう使い分ければいいの？</title>
-      <link>https://zenn.dev/tmasuyama1114/articles/claude_code_extension_guide</link>
-      <description>こんにちは、とまだです。
-Claude Code を使っていると、こんな疑問が湧いてきませんか？
-「CLAUDE.md、Skills、Sub-agents、MCP、カスタムスラッシュコマンド...いろいろあるけど、どれをどう使えばいいの？」
-今回伝えたいことの要点は、7つの機能は「2つの軸」で整理すると迷わなくなるということです。
-軸1は「いつ読み込まれるか」、軸2は「誰が動くか」。この2つの視点で分類すると、それぞれの役割がスッキリ見えてきます。この記事では、7つの機能を2軸で整理し、迷ったときの判断基準まで解説します。
-（追記：動画ではより噛み砕いて解説していますので、ぜひご覧くださ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tmasuyama1114/articles/claude_code_extension_guide</guid>
-      <pubDate>Sat, 03 Jan 2026 16:33:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【狂気の実証実験2】GPTsに電気ショック権限を付与してみた</title>
-      <link>https://qiita.com/motoya0118/items/bd5266a987d082caea16?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>概要
-本記事では、
-「自分の意思では生活習慣を改善できない人間が、AI Agentに“罰”を与える権限を渡したらどうなるか」
-という実証実験について紹介します。
-リマインダーも、ToDo管理も、コーチングサービスも続かない。
-理由はシンプルで、守らなくても痛くないから。
-... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/motoya0118/items/bd5266a987d082caea16?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sun, 04 Jan 2026 02:10:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Jan 2026 06:40:07 +0000</lastBuildDate>
     <item>
       <title>【2026年1月】コンテナランタイム周辺の調査メモ：Docker以外に何があるのか、今どうなっているのか</title>
       <link>https://zenn.dev/nossa/articles/a6f5b342ad83f0</link>
@@ -69,21 +44,43 @@ Claude Code を使っていると、こんな疑問が湧いてきませんか�
       <pubDate>Mon, 05 Jan 2026 02:36:59 +0000</pubDate>
     </item>
     <item>
-      <title>横断的に理解する PostgreSQL の 内部データ構造: MVCC・トランザクション分離・インデックス</title>
-      <link>https://zenn.dev/calloc134/articles/postgres-internal-mvcc-index</link>
-      <description>はじめに
-こんにちは。かろっく@calloc134 です。
-巷では NewSQL が流行りを見せていますが、皆さんこう思ったことはありませんか？
-我々は、RDBMS ですら、十分に理解していないのではないか？
-今回は、PostgreSQL の内部実装に焦点を当てて、RDBMS 実装の解像度を上げていきたいと思います。
-PostgreSQL の内部実装については、
-インデックスの実装、追記型アーキテクチャ、MVCC、トランザクション分離モデルなどが
-断片的に語られることはありますが、横断的な解説はあまり見かけないように思います。
-この記事では、PostgreSQL における
+      <title>RAGの「業界特化」戦略（メルカリの成功例に学ぶ）</title>
+      <link>https://zenn.dev/knowledgesense/articles/dc593ea029356f</link>
+      <description>本記事では、RAGの精度を向上させるための「ドメイン特化埋め込みモデル」の手法について、ざっくり解説します。
+株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。
 
-MVCC... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/calloc134/articles/postgres-internal-mvcc-index</guid>
-      <pubDate>Sat, 03 Jan 2026 08:20:39 +0000</pubDate>
+ この記事は何
+この記事は、メルカリの研究チームがAAAI 2026で発表した「ドメイン認識型テキスト埋め込み」に関する論文[1]について、日本語で簡単にまとめたものです。
+https://arxiv.org/abs/2512.21021
+ちなみに、この論文自体はRAGについて直接言及したものではありません。しかし、 RAGとは検索エンジンそ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/dc593ea029356f</guid>
+      <pubDate>Tue, 06 Jan 2026 02:25:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】「グラフィックスAPIなくして、ポインタでいいんじゃね？」現代GPUの力を解き放つ新発想が海外で話題に</title>
+      <link>https://techfeed.io/entries/695dc2193837533862fbe411?from=rss</link>
+      <description>12月17日、Sebastian Aaltonen氏が「No Graphics API」と題した記事を公開した。この記事では、現代のGPUが抱える複雑すぎる命令系統を整理し、より効率的に動かすための次世代の考え方について詳しく紹介されている。なお、本稿は初心者向けに要点をかいつまんで解説したものである。技術的な詳細や厳密な議論をより深く知りたい方は、ぜひ原文を参照していただきたい。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/695dc2193837533862fbe411?from=rss</guid>
+      <pubDate>Wed, 07 Jan 2026 02:16:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>自分専用 IDE for Agent を作り始めた話</title>
+      <link>https://zenn.dev/tettuan/articles/2026-01-5a46d0ecc2b66c</link>
+      <description>AI Agentを支援する統合開発環境を作りはじめた
+
+（↑ 2 days、中央のプレビュー以外は動作）
+
+ はじめに
+AI Agentで開発を進めるうち、ある問題が浮上してきました。「Agentが今何をしているのか分からない」「効率が良いのか悪いのか判断できない」——そんなモヤモヤを抱えながら作業する日々が続きました。
+この課題を解決するために作ったのが、Guimptという統合開発環境です。コードを書くためのエディタではなく、AI Agentの動きを見える化し、改善していくためのツールとして設計しました。
+
+
+ 1. なぜ作ったのか
+
+ きっかけ
+KAMUI OSというプロダクトに... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tettuan/articles/2026-01-5a46d0ecc2b66c</guid>
+      <pubDate>Sun, 04 Jan 2026 22:00:01 +0000</pubDate>
     </item>
     <item>
       <title>韓国軍のPCで「ソフトウェアレンダリング」してみた</title>

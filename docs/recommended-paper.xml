@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Jan 2026 06:40:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 06:40:14 +0000</lastBuildDate>
     <item>
-      <title>超高精度視線速度測定における隠れた体系的性質の解明</title>
-      <link>https://arxiv.org/abs/2601.02296v1</link>
-      <description>我々は、EXtreme PREcision Spectrograph（EXPRES）の7年間の視線速度データにおいて、小さいながらも一貫性のある機器ドリフトを特定し、補正しました。系統的変化は、EXPRESがより大きな温度変動を経験した2022年1月の前後6か月間で最も顕著であり、視線速度の谷からピークまでの系統的な振幅は2.8 m/sでした。これは、惑星のシグネチャーを模倣するか、隠蔽するのに十分な大きさです。これらの影響を分離して補正するために、2次元エシェログラムのシフト、スケーリング、回転、およびレーザー周波数コム（LFC）線から得られる線二等分線幅（LBS）を追跡する一連の診断法を開発しました。これらの経験的トレーサーと機器テレメトリを多次元回帰分析で組み合わせることで、太陽のRVでトレースされたEXPRES機器のトレンドをRMS 1.32 m/sから0.43 m/sに減少させ、67%の改善を実現しました。また、12個の彩層静穏恒星全体では、速度分散が26%減少しました。さらに、注入回復シミュレーションでは、補正後に低振幅の惑星信号に対する感度が2倍になることが示されました。 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2601.02296v1</guid>
-      <pubDate>Mon, 05 Jan 2026 17:31:44 +0000</pubDate>
+      <title>近傍の若い星の画像によるディスク進化研究 (DESTINYS): V721 CrA と BN CrA は偏光赤外線で広く構造化されたディスクを持つ</title>
+      <link>https://arxiv.org/abs/2511.01717v1</link>
+      <description>DESTINYS大規模プログラムの一環として、VLT/SPHEREを用いてHバンドで得られた、南の冠星形成領域の2つの星、V721 CrAとBN CrAの周囲のディスクの近赤外散乱光観測結果を紹介します。私たちの目的は、これらのディスクの形態を解析し、主要な特性を明らかにすることです。解析的な軸対称ディスクモデルを採用して観測結果をフィッティングし、主要なディスクパラメータ、すなわちダスト質量、高度プロファイル、傾斜角について回帰分析を行います。RADMC-3Dコードを使用し、完全な偏光散乱処理を施した解析モデルの合成観測結果を生成します。どちらの星も、近赤外領域に部分構造を持つ、分解されたディスクと拡張されたディスクを示しています。V721 CrAのディスクはBN CrA (190 au) よりも垂直方向に厚く、半径方向に小さく (120 au)、明るいです。また、内側の領域には渦巻き腕も見られます。 BN CrAのディスクには、固有のダストギャップか自己投影された影のいずれかである可能性のある暗い円形の帯と、ディスクの短軸に沿った輝度の増加が見られます。どちらのディスクも、CrA領 (source: arXiv Query: search_query=all:observation AND (all:star OR all:stellar) AND (all:formation OR all:forming OR all:star-forming) AND (all:region OR all:regions OR all:cluster) AND ( (all:planetary AND all:mass) OR (all:brown AND all:dwarf) OR (all:free AND all:floating) )&amp;id_list=&amp;start=0&amp;max_results=20)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.01717v1</guid>
+      <pubDate>Mon, 03 Nov 2025 16:25:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

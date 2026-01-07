@@ -7,27 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Jan 2026 06:41:00 +0000</lastBuildDate>
-    <item>
-      <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
-      <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
-      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主要な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</guid>
-      <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Okta から Python アプリにユーザーを同期する方法</title>
-      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</link>
-      <description>わずか数行のコードで、SCIM、Okta、Python、WorkOS を使用してアプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</guid>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Jan 2026 06:40:19 +0000</lastBuildDate>
     <item>
       <title>DuckDB の WebAssembly クライアントにより、ブラウザで Iceberg データセットのクエリが可能に</title>
       <link>https://www.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>DuckDBは最近、ブラウザタブ内で直接Iceberg RESTカタログとのエンドツーエンドの連携を実現しました。インフラのセットアップは不要です。この新機能は、ブラウザで動作するDuckDBのWebAssemblyポートであるDuckDB-Wasmを活用しており、ユーザーはサーバーレスでIcebergテーブルへのクエリ、読み取り、書き込みを行うことができます。Renato Losio著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Sun, 04 Jan 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>スパイウェアメーカーpcTattletaleの創設者がハッキングと監視ソフトウェアの宣伝で有罪を認める</title>
+      <link>https://techcrunch.com/2026/01/06/founder-of-spyware-maker-pctattletale-pleads-guilty-to-hacking-and-advertising-surveillance-software/</link>
+      <description>ハッキングされたストーカーウェア会社 pcTattletale の創設者ブライアン・フレミングは、現在は倒産したミシガン州のスパイウェア会社の経営に関連する連邦訴追に対して有罪を認めた。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/01/06/founder-of-spyware-maker-pctattletale-pleads-guilty-to-hacking-and-advertising-surveillance-software/</guid>
+      <pubDate>Tue, 06 Jan 2026 19:23:22 +0000</pubDate>
     </item>
     <item>
       <title>WorkOSの内部</title>
@@ -44,11 +37,11 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Nvidiaは汎用ロボットのAndroidになりたい</title>
-      <link>https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/</link>
-      <description>NVIDIAはCES 2026で、基盤モデル、シミュレーションツール、ハードウェアを含むフルスタックのロボティクス・エコシステムを発表しました。同社はロボティクスのデフォルト・プラットフォームとなることを目指しています。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/</guid>
-      <pubDate>Mon, 05 Jan 2026 23:00:00 +0000</pubDate>
+      <title>Docker Kanvas が Helm と Kustomize に挑み、Kubernetes の覇権を握る</title>
+      <link>https://www.infoq.com/news/2026/01/docker-kanvas-cloud-deployment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Docker社は、ローカル開発とクラウド本番環境のギャップを埋めるために設計された新しいプラットフォーム「Kanvas」をリリースしました。Docker ComposeファイルをKubernetesアーティファクトに変換する作業を自動化することで、このツールはHelmやKustomizeといった既存のソリューションに対抗する存在となります。Layer5と共同開発されたKanvasは、Infrastructure as Codeへの移行を象徴するものであり、クラウドネイティブなデプロイメントを簡素化するための可視化機能を提供します。Mark Silvester著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/docker-kanvas-cloud-deployment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 06 Jan 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントセキュリティのためのCerbos：機能、価格、代替品</title>
@@ -77,6 +70,13 @@
       <description>今週は比較的静かな2025年12月29日のJavaまとめです。注目のニュースは、Spring Shell 4.0のGAリリース、JReleaser 1.22.0とApache Camel 4.14.3のポイントリリース、そしてTornadoInsightがTornadoVM 2.0の最新リリースに対応しました。マイケル・レッドリッヒ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/java-news-roundup-dec29-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 05 Jan 2026 02:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>メタ、レイバン・ディスプレイ・グラスの国際展開を一時停止</title>
+      <link>https://techcrunch.com/2026/01/06/meta-pauses-international-expansion-of-its-ray-ban-display-glasses/</link>
+      <description>メタは当初、2026年初頭にフランス、イタリア、カナダ、英国でこのメガネを発売する予定だった。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/01/06/meta-pauses-international-expansion-of-its-ray-ban-display-glasses/</guid>
+      <pubDate>Tue, 06 Jan 2026 15:04:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
