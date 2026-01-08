@@ -7,41 +7,67 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Jan 2026 06:40:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 06:40:33 +0000</lastBuildDate>
     <item>
-      <title>【2026年1月】コンテナランタイム周辺の調査メモ：Docker以外に何があるのか、今どうなっているのか</title>
-      <link>https://zenn.dev/nossa/articles/a6f5b342ad83f0</link>
-      <description>!
-可能な限り公式ドキュメント等で裏取りを行っていますが、この記事は個人的な調査メモであり、内容の正確性を保証するものではありません。
-技術選定や本番環境への導入に際しては、必ず各プロジェクトの公式ドキュメントをご確認ください。
-
-
- この記事について
-コンテナランタイムについて調べ直したのでメモを残します。
-「コンテナランタイム」という言葉は文脈によって指すものが異なります。低レベルのOCI Runtime、高レベルのCRI Runtime、Docker/Podmanのようなエンジン全体。このあたりを整理しつつ、2026年1月時点の状況をまとめました。
-
-
- 目次
-
-コンテナ技術のレイ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nossa/articles/a6f5b342ad83f0</guid>
-      <pubDate>Sun, 04 Jan 2026 01:21:40 +0000</pubDate>
+      <title>「私の写真がAIで悪用」　Xの性的画像問題、日本は法規制緩く - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC067MI0W6A100C2000000/</link>
+      <description>X（旧ツイッター）のAI（人工知能）機能で生成した性的画像の被害が国内にも広がっている。悪意ある利用者が「服を水着に変えて」と指示するだけで本人の同意なく生成でき、専門家は「X側の悪用対策が不十分だ」と指摘する。フランスやインドなどが調査に乗り出したのに対し、日本政府は「情報収集段階」にとどまってい... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC067MI0W6A100C2000000/</guid>
+      <pubDate>Wed, 07 Jan 2026 23:47:08 +0000</pubDate>
     </item>
     <item>
-      <title>Fluentdを使った監査ログ機能の設計</title>
-      <link>https://zenn.dev/bizibl_dev/articles/3cc96533ce03fc</link>
+      <title>テストが設計を駆動するなら、評価は何を駆動する？   〜テスト駆動開発と評価駆動開発、「先に定義する」ことの力〜</title>
+      <link>https://zenn.dev/r_kaga/articles/54698ed22fbfe9</link>
+      <description>テスト駆動開発（TDD）を実践したことがある人なら、テストが設計を駆動するという感覚がわかるかもしれません。
+t-wada氏の言葉を借りれば、「テストを先に書き、それに対応するコードを書いていくと、使う側の期待に沿ってコードを書くことになります」——結果として使いやすい設計が生まれる。
+https://levtech.jp/media/article/interview/detail_477/
+AIプロダクト開発ではどうでしょう。
+LLMの出力は非決定論的で、従来のテストだけでは乗り切れません。
+「この入力なら、この出力」というアサーションができない世界です。
+そこで登場するのが評価（E... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/r_kaga/articles/54698ed22fbfe9</guid>
+      <pubDate>Tue, 06 Jan 2026 09:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>外部依存ゼロのVim/Neovimでもプラグインを使える。本体に同梱されてるから。</title>
+      <link>https://zenn.dev/vim_jp/articles/e2620b502913f4</link>
+      <description>この記事はVim駅伝の2026-01-07の記事です。
+前回の記事はnil2さんのVimのコードベースはどのバージョンのSTEVIEか？です。
+Vim駅伝は常に参加者を募集しています。詳しくはこちらのページをご覧ください。
+
+Vimは歴史のあるエディタで、単体でも多様なファイル編集に対応する高機能なエディタです。また、NeovimはVimからフォークされたエディタで、さまざまな機能拡張が加えられています。これらのエディタは、現代ではそのデフォルト機能だけでなく、プラグインを導入してよりリッチな体験を目指すことが多いです。
+https://zenn.dev/vim_jp/articles/... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/vim_jp/articles/e2620b502913f4</guid>
+      <pubDate>Tue, 06 Jan 2026 15:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>「SQLiteは本番で使えない」は本当か？ 未経験がRails 8 × 格安VPSで負荷試験を乗り越え、PHP学習アプリをリリースしました！</title>
+      <link>https://zenn.dev/sekito/articles/31c94dec1cc9a3</link>
+      <description>初めまして、sekitoと申します。
+この度、PHP8技術者認定初級試験の受験者に向けた学習サポートアプリ、『PHP8技術者認定初級試験スタディ』をリリースしました。
+この記事でお伝えしたいのはアプリの宣伝だけではありません。
+このアプリは、月額800円のVPSとSQLiteという、一般的には「本番向きではない」とされる構成で動いています。しかし、負荷試験では 同時接続150人（秒間数百リクエスト）をエラー率0% で捌き切りました。
+「SQLiteは本番では使えない」 「個人開発でもDBサーバーは分けるべき」
+そんな常識に、Rails 8 と Kamal は立ち向かえるのか。未経験エンジ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sekito/articles/31c94dec1cc9a3</guid>
+      <pubDate>Tue, 06 Jan 2026 23:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIで個人開発を始めたら「作る」より「売る」が100倍難しかった話</title>
+      <link>https://zenn.dev/ktg/articles/518c880823ad4a</link>
       <description>はじめに
-こんにちは、Biziblでクラウドエンジニアをしているりょうま (@engineer_ryoma)です。
-先日、Biziblの機能にて、監査ログ機能の設計を担当させていただきました。
-その際、Fluentdを使って急なアクセス増に耐えられるような構成にしたのですが、その設計において色々と試行錯誤したのでその過程を紹介せていただきます。
-どの会社でも、ガバナンスの一環としてユーザーの監査ログ機能が求められることも多いかなと思うので、少しでも参考になれば幸いです。
+AIを使えば個人開発が簡単にできる時代。
+自分もコードはほとんど書けないけど、AIを使ってアプリを作って収益を得たい。そんな軽い気持ちで始めた個人開発でしたが、現実はそんなに甘くなかった。
+この記事は、これから個人開発を始めようと思っている方への「先に知っておいてほしいこと」です。
+結論から言うと、アプリを作ること自体はそこまで難しくない。本当に難しいのは「売る」ことでした。
 
- 監査ログ機能の要件
-ざっくりの機能要件としては以下のとおりです。
 
-情報の不正取得、持ち出しのチェックを行うた... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/bizibl_dev/articles/3cc96533ce03fc</guid>
-      <pubDate>Mon, 05 Jan 2026 02:36:59 +0000</pubDate>
+ ぶつかった壁：作れても売る場所がない
+最初は自分の興味がある分野でアプリを作ってみました。AIを使えば、思ったより簡単に動くものができる。
+でも、作った後に気づいたんです。
+「これ、どこで売るの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ktg/articles/518c880823ad4a</guid>
+      <pubDate>Tue, 06 Jan 2026 16:53:01 +0000</pubDate>
     </item>
     <item>
       <title>RAGの「業界特化」戦略（メルカリの成功例に学ぶ）</title>
@@ -57,6 +83,21 @@ https://arxiv.org/abs/2512.21021
       <pubDate>Tue, 06 Jan 2026 02:25:41 +0000</pubDate>
     </item>
     <item>
+      <title>31万枚の画像をAI自動整理するシステムを、RTX 5090とローカルVLM(Qwen2-VL)で作った話</title>
+      <link>https://zenn.dev/toki_mwc/articles/a7a76e05d143d9</link>
+      <description>はじめに：31万枚の「未分類」地獄
+画像管理アプリ「Eagle」に溜め込んだ画像が、気づけば31万枚を超えていました。
+
+ℹ️ 注記：本記事執筆時点での状態です。現在はさらに33万枚以上に増加しています。
+
+未分類フォルダやタグなし画像が大量に存在
+問題は、そのうち数万枚が「未分類」フォルダや単なる日付フォルダに死蔵されていること。手作業でタグ付けする時間はなく、検索もままならない状態でした。
+「画像を特定のフォルダに放り込むだけで、AIが内容を理解し、タグ付けし、分類してくれる自動アーカイブシステムが欲しい」
+そう思って作ったのが、今回紹介する Eagle AI Intellige... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/toki_mwc/articles/a7a76e05d143d9</guid>
+      <pubDate>Tue, 06 Jan 2026 09:59:56 +0000</pubDate>
+    </item>
+    <item>
       <title>【海外記事紹介】「グラフィックスAPIなくして、ポインタでいいんじゃね？」現代GPUの力を解き放つ新発想が海外で話題に</title>
       <link>https://techfeed.io/entries/695dc2193837533862fbe411?from=rss</link>
       <description>12月17日、Sebastian Aaltonen氏が「No Graphics API」と題した記事を公開した。この記事では、現代のGPUが抱える複雑すぎる命令系統を整理し、より効率的に動かすための次世代の考え方について詳しく紹介されている。なお、本稿は初心者向けに要点をかいつまんで解説したものである。技術的な詳細や厳密な議論をより深く知りたい方は、ぜひ原文を参照していただきたい。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
@@ -64,75 +105,21 @@ https://arxiv.org/abs/2512.21021
       <pubDate>Wed, 07 Jan 2026 02:16:57 +0000</pubDate>
     </item>
     <item>
-      <title>自分専用 IDE for Agent を作り始めた話</title>
-      <link>https://zenn.dev/tettuan/articles/2026-01-5a46d0ecc2b66c</link>
-      <description>AI Agentを支援する統合開発環境を作りはじめた
-
-（↑ 2 days、中央のプレビュー以外は動作）
-
- はじめに
-AI Agentで開発を進めるうち、ある問題が浮上してきました。「Agentが今何をしているのか分からない」「効率が良いのか悪いのか判断できない」——そんなモヤモヤを抱えながら作業する日々が続きました。
-この課題を解決するために作ったのが、Guimptという統合開発環境です。コードを書くためのエディタではなく、AI Agentの動きを見える化し、改善していくためのツールとして設計しました。
+      <title>新卒エンジニアよ。コードは書かなくていいかもしれない。でも理解だけはやめないでほしい</title>
+      <link>https://zenn.dev/tokium_dev/articles/vibe-coding-understanding-matters</link>
+      <description>!
+この記事は新卒エンジニアの筆者が、同じ新卒エンジニア、未来の新卒エンジニアに向けた記事です。
 
 
- 1. なぜ作ったのか
+ 最初はバイブコーディングでいいと思っていた
+2025年4月、私は株式会社TOKIUMに新卒エンジニアとして入社しました。
+当時はバイブコーディング全盛期だったため、「もうAIが書いた方が圧倒的に速いし、全部バイブコーディングでいいんじゃないか?」と思っていました。
+でも同時に、「本当に自力でコードを書かなくて良いのか?」という不安も抱えていました。
+このような思いを抱きながら半年間開発してきて、経験を経て学んだことがあります。
 
- きっかけ
-KAMUI OSというプロダクトに... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tettuan/articles/2026-01-5a46d0ecc2b66c</guid>
-      <pubDate>Sun, 04 Jan 2026 22:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>韓国軍のPCで「ソフトウェアレンダリング」してみた</title>
-      <link>https://zenn.dev/shika_gfx/articles/shika-soft-rend</link>
-      <description>はじめに : 真っ黒なコンソール画面と、グラフィックスへの渇望
-私は現在、韓国で兵役の義務を遂行中の現役軍人です。
-目前には、簡単なウェブサーフィン、ネット講義用として支給された共用PCがあります。
-しかし、私はこのPCで派手な3Dグラフィックスを画面に表示させることはできません。
-軍隊の厳格なセキュリティシステムが、未知のプログラムによる 「ウィンドウ生成（Window Creation）」や 「ドライバへのアクセス」を完全に遮断しているからです。
-この記事は、色んな制約を越え、C++の標準ライブラリ（STL）だけでグラフィックス数学ライブラリとソフトウェアレンダラーをゼロから実装... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shika_gfx/articles/shika-soft-rend</guid>
-      <pubDate>Sun, 04 Jan 2026 01:23:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>VimのコードベースはどのバージョンのSTEVIEか？</title>
-      <link>https://zenn.dev/nil2/articles/2da481e588b649</link>
-      <description>この記事はVim駅伝の447本目の記事です。
-Vimは初め、Amigaで動くテキストエディタとして開発されました。
-Vimを開発したBram氏は、大学にいた頃viを使っていてそれが手に馴染んでいたそうで、
-大学卒業後Océという会社に就職し、Amiga 2000というマシンを購入したのち、
-Amigaでもviを使いたかったからとVimを開発したのだとか。[1]
-そのとき、STEVIEというテキストエディタがVimのベースとなったのだとか。
-当時コードを入手できたviクローンの中では一番良かったそうで、それでSTEVIEのコードをベースにVimを開発されたそう。[2]
-コードについては長い... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nil2/articles/2da481e588b649</guid>
-      <pubDate>Mon, 05 Jan 2026 11:16:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年は全部ターミナルでやるぞ！</title>
-      <link>https://zenn.dev/ignission/articles/9c2d8d5e709a4c</link>
-      <description>はじめに
-あけましておめでとうございます🎍
-スティーブン・R・コヴィー博士の著書『7つの習慣』に由来する有名な言葉、「Sharpening the Saw ー ノコギリを研ぐ」。今年の正月休みこそは普段後回しにしていた、コーディング環境周りを改善し、開発速度を爆アゲしたいと思っています。
-
- 研ぎたいもの
-頭ではわかっている。ただ、マスターするには時間がかかりすぎる。
-例えば習熟するのに1ヶ月かかるとして、エンジニア人生で見れば余裕でペイできるのに、一時的に生産性が下がることが嫌でなかなか本腰を入れられない。
-そこで、今年こそは以下をマスターし、AIに負けないくらい生産性を発揮するこ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ignission/articles/9c2d8d5e709a4c</guid>
-      <pubDate>Sun, 04 Jan 2026 09:13:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>part1:「机の上が端末だらけ」はもう限界。田舎役所の“情シス”が直面する、三層分離の構造的な限界</title>
-      <link>https://zenn.dev/8chikuwa3/articles/33cb40aa3ac5ad</link>
-      <description>はじめに
-こんにちは。とある田舎小規模自治体で「情シス」担当している一般事務職員です。
-今回は、私たち自治体職員が長年付き合ってきた（そして最近は頭を抱えている）「三層分離」というネットワークモデルについて、現場の視点から整理してみたいと思います。
-※GeminiやNotebooklmを活用して記事をまとめているところもあるので、変な表現があったら教えてください。
-DX推進だ、クラウド活用だ、とお題目は立派ですが、現場の実態は「物理的に分かれた3台のPCに囲まれて、PCを切り替えながら仕事をする」という、極めてアナログな状況になっていないでしょうか？
-なぜ今、この仕組みを変えなければ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/8chikuwa3/articles/33cb40aa3ac5ad</guid>
-      <pubDate>Sun, 04 Jan 2026 11:38:39 +0000</pubDate>
+確かにコードは書かなくていいかもしれない。でも、理解だけ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/vibe-coding-understanding-matters</guid>
+      <pubDate>Wed, 07 Jan 2026 01:40:25 +0000</pubDate>
     </item>
     <item>
       <title>Claude Codeで記憶領域を持つための独自のAgent Skillsを使っている</title>

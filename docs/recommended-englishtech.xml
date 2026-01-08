@@ -7,20 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Jan 2026 06:40:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 06:41:01 +0000</lastBuildDate>
+    <item>
+      <title>OpenAIが参入しても、AIスタートアップが勝てるとVCが考える分野</title>
+      <link>https://techcrunch.com/video/where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game/</link>
+      <description>Premiseのパートナーであり、NEAの元パートナーでもあるヴァネッサ・ラーコ氏は、2026年はついにコンシューマーAIの年になると考えています。長年にわたりコンシューマーとプロシューマーに投資してきたラーコ氏は、AIが「コンシェルジュのような」サービスを推進することで、消費者のオンラインでの過ごし方が変化していくと考えています。問題は、従来のコンシューマー製品が[…] (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/video/where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game/</guid>
+      <pubDate>Wed, 07 Jan 2026 18:53:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Okta から Python アプリにユーザーを同期する方法</title>
+      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</link>
+      <description>わずか数行のコードで、SCIM、Okta、Python、WorkOS を使用してアプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</guid>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>DuckDB の WebAssembly クライアントにより、ブラウザで Iceberg データセットのクエリが可能に</title>
       <link>https://www.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>DuckDBは最近、ブラウザタブ内で直接Iceberg RESTカタログとのエンドツーエンドの連携を実現しました。インフラのセットアップは不要です。この新機能は、ブラウザで動作するDuckDBのWebAssemblyポートであるDuckDB-Wasmを活用しており、ユーザーはサーバーレスでIcebergテーブルへのクエリ、読み取り、書き込みを行うことができます。Renato Losio著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Sun, 04 Jan 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>スパイウェアメーカーpcTattletaleの創設者がハッキングと監視ソフトウェアの宣伝で有罪を認める</title>
-      <link>https://techcrunch.com/2026/01/06/founder-of-spyware-maker-pctattletale-pleads-guilty-to-hacking-and-advertising-surveillance-software/</link>
-      <description>ハッキングされたストーカーウェア会社 pcTattletale の創設者ブライアン・フレミングは、現在は倒産したミシガン州のスパイウェア会社の経営に関連する連邦訴追に対して有罪を認めた。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/01/06/founder-of-spyware-maker-pctattletale-pleads-guilty-to-hacking-and-advertising-surveillance-software/</guid>
-      <pubDate>Tue, 06 Jan 2026 19:23:22 +0000</pubDate>
     </item>
     <item>
       <title>WorkOSの内部</title>
@@ -39,16 +46,9 @@
     <item>
       <title>Docker Kanvas が Helm と Kustomize に挑み、Kubernetes の覇権を握る</title>
       <link>https://www.infoq.com/news/2026/01/docker-kanvas-cloud-deployment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Docker社は、ローカル開発とクラウド本番環境のギャップを埋めるために設計された新しいプラットフォーム「Kanvas」をリリースしました。Docker ComposeファイルをKubernetesアーティファクトに変換する作業を自動化することで、このツールはHelmやKustomizeといった既存のソリューションに対抗する存在となります。Layer5と共同開発されたKanvasは、Infrastructure as Codeへの移行を象徴するものであり、クラウドネイティブなデプロイメントを簡素化するための可視化機能を提供します。Mark Silvester著 (source: InfoQ)</description>
+      <description>Docker社は、ローカル開発とクラウド本番環境のギャップを埋めるために設計された新しいプラットフォーム「Kanvas」をリリースしました。Docker ComposeファイルをKubernetesアーティファクトに変換する作業を自動化することで、HelmやKustomizeといった既存のソリューションに対抗するツールとなります。Layer5と共同開発されたKanvasは、Infrastructure as Codeへの移行を象徴するものであり、クラウドネイティブなデプロイメントを簡素化するための可視化機能を提供します。Mark Silvester著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/docker-kanvas-cloud-deployment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Tue, 06 Jan 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントセキュリティのためのCerbos：機能、価格、代替品</title>
-      <link>https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</link>
-      <description>Cerbosは、開発者がアプリケーションにきめ細かなアクセス制御を実装するのに役立つオープンソースの認可エンジンです。Apache 2.0ライセンスの下でリリースされており、アプリケーションが特定のアクションを許可するかどうかを判断するための、一元化されたポリシー決定ポイントを提供します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</guid>
-      <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
     </item>
     <item>
       <title>JEP 525は、Javaの構造化並行性にタイムアウト処理とジョイナーの改良をもたらします</title>
@@ -58,9 +58,16 @@
       <pubDate>Mon, 05 Jan 2026 15:10:00 +0000</pubDate>
     </item>
     <item>
+      <title>AIエージェントセキュリティのためのCerbos：機能、価格、代替品</title>
+      <link>https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</link>
+      <description>Cerbosは、開発者がアプリケーションにきめ細かなアクセス制御を実装するのに役立つオープンソースの認可エンジンです。Apache 2.0ライセンスの下でリリースされており、アプリケーションが特定のアクションを許可するかどうかを判断するための、一元化されたポリシー決定ポイントを提供します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</guid>
+      <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
+    </item>
+    <item>
       <title>AWS、M9gインスタンスで第5世代Gravitonプロセッサを導入</title>
       <link>https://www.infoq.com/news/2026/01/aws-graviton-m9g/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AWSは最近、新しいGraviton5プロセッサと、それを搭載した最初のEC2インスタンスである汎用M9gインスタンスのプレビューを発表しました。同社によると、この最新チップはGraviton4と比較して最大25%高いパフォーマンスを実現し、Nitro Isolation Engineを導入し、L3キャッシュの容量拡大により、レイテンシ、メモリ帯域幅、ネットワークスループットが向上します。（Renato Losio著） (source: InfoQ)</description>
+      <description>AWSは最近、新しいGraviton5プロセッサと、それを搭載した最初のEC2インスタンスである汎用M9gインスタンスのプレビューを発表しました。同社によると、この最新チップはGraviton4と比較して最大25%高いパフォーマンスを実現し、Nitro Isolation Engineを導入し、L3キャッシュの容量拡大により、レイテンシ、メモリ帯域幅、ネットワークスループットが向上します。（レナート・ロシオ著） (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/aws-graviton-m9g/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Sat, 03 Jan 2026 06:38:00 +0000</pubDate>
     </item>
@@ -70,13 +77,6 @@
       <description>今週は比較的静かな2025年12月29日のJavaまとめです。注目のニュースは、Spring Shell 4.0のGAリリース、JReleaser 1.22.0とApache Camel 4.14.3のポイントリリース、そしてTornadoInsightがTornadoVM 2.0の最新リリースに対応しました。マイケル・レッドリッヒ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/java-news-roundup-dec29-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 05 Jan 2026 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>メタ、レイバン・ディスプレイ・グラスの国際展開を一時停止</title>
-      <link>https://techcrunch.com/2026/01/06/meta-pauses-international-expansion-of-its-ray-ban-display-glasses/</link>
-      <description>メタは当初、2026年初頭にフランス、イタリア、カナダ、英国でこのメガネを発売する予定だった。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/01/06/meta-pauses-international-expansion-of-its-ray-ban-display-glasses/</guid>
-      <pubDate>Tue, 06 Jan 2026 15:04:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

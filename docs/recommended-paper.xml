@@ -7,13 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Jan 2026 06:40:14 +0000</lastBuildDate>
-    <item>
-      <title>近傍の若い星の画像によるディスク進化研究 (DESTINYS): V721 CrA と BN CrA は偏光赤外線で広く構造化されたディスクを持つ</title>
-      <link>https://arxiv.org/abs/2511.01717v1</link>
-      <description>DESTINYS大規模プログラムの一環として、VLT/SPHEREを用いてHバンドで得られた、南の冠星形成領域の2つの星、V721 CrAとBN CrAの周囲のディスクの近赤外散乱光観測結果を紹介します。私たちの目的は、これらのディスクの形態を解析し、主要な特性を明らかにすることです。解析的な軸対称ディスクモデルを採用して観測結果をフィッティングし、主要なディスクパラメータ、すなわちダスト質量、高度プロファイル、傾斜角について回帰分析を行います。RADMC-3Dコードを使用し、完全な偏光散乱処理を施した解析モデルの合成観測結果を生成します。どちらの星も、近赤外領域に部分構造を持つ、分解されたディスクと拡張されたディスクを示しています。V721 CrAのディスクはBN CrA (190 au) よりも垂直方向に厚く、半径方向に小さく (120 au)、明るいです。また、内側の領域には渦巻き腕も見られます。 BN CrAのディスクには、固有のダストギャップか自己投影された影のいずれかである可能性のある暗い円形の帯と、ディスクの短軸に沿った輝度の増加が見られます。どちらのディスクも、CrA領 (source: arXiv Query: search_query=all:observation AND (all:star OR all:stellar) AND (all:formation OR all:forming OR all:star-forming) AND (all:region OR all:regions OR all:cluster) AND ( (all:planetary AND all:mass) OR (all:brown AND all:dwarf) OR (all:free AND all:floating) )&amp;id_list=&amp;start=0&amp;max_results=20)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.01717v1</guid>
-      <pubDate>Mon, 03 Nov 2025 16:25:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Jan 2026 06:40:56 +0000</lastBuildDate>
   </channel>
 </rss>
