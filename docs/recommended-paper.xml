@@ -7,6 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Jan 2026 06:40:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 06:40:28 +0000</lastBuildDate>
+    <item>
+      <title>ROOFS: 堅牢なバイオマーカー特徴選択</title>
+      <link>https://arxiv.org/abs/2601.05151v1</link>
+      <description>特徴選択（FS）は、バイオマーカーの発見や生物医学データセットの解析に不可欠です。しかし、高次元の特徴空間、少ないサンプルサイズ、多重共線性、欠損値といった課題により、FSは容易ではありません。さらに、FSの性能はデータセットや予測タスクによって異なります。本稿では、研究者が問題に適したFS手法を選択できるよう支援するPythonパッケージ「roofs」（https://gitlab.inria.fr/compo/roofs）を提案します。Roofsは、ユーザーのデータに対して複数のFS手法をベンチマークし、包括的な評価指標をまとめたレポートを生成します。評価指標には、楽観補正を用いて推定された下流予測性能、安定性、個々の特徴の信頼性、そしてシミュレーション結果を用いた半合成データで評価された真陽性率と偽陽性率が含まれます。肺がんにおける抗PD-(L)1免疫療法に対する耐性の予測因子を同定することを目的としたPIONeeR臨床試験のデータを用いて、Roofsの有用性を実証します。 PIONeeRデータセットには、435人の患者から得られた374の多元血液および腫瘍バイオマーカーが含まれ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.05151v1</guid>
+      <pubDate>Thu, 08 Jan 2026 17:41:07 +0000</pubDate>
+    </item>
   </channel>
 </rss>

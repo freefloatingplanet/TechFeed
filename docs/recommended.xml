@@ -7,80 +7,54 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Jan 2026 06:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 06:40:22 +0000</lastBuildDate>
     <item>
-      <title>「私の写真がAIで悪用」　Xの性的画像問題、日本は法規制緩く - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUC067MI0W6A100C2000000/</link>
-      <description>X（旧ツイッター）のAI（人工知能）機能で生成した性的画像の被害が国内にも広がっている。悪意ある利用者が「服を水着に変えて」と指示するだけで本人の同意なく生成でき、専門家は「X側の悪用対策が不十分だ」と指摘する。フランスやインドなどが調査に乗り出したのに対し、日本政府は「情報収集段階」にとどまってい... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC067MI0W6A100C2000000/</guid>
-      <pubDate>Wed, 07 Jan 2026 23:47:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>テストが設計を駆動するなら、評価は何を駆動する？   〜テスト駆動開発と評価駆動開発、「先に定義する」ことの力〜</title>
-      <link>https://zenn.dev/r_kaga/articles/54698ed22fbfe9</link>
-      <description>テスト駆動開発（TDD）を実践したことがある人なら、テストが設計を駆動するという感覚がわかるかもしれません。
-t-wada氏の言葉を借りれば、「テストを先に書き、それに対応するコードを書いていくと、使う側の期待に沿ってコードを書くことになります」——結果として使いやすい設計が生まれる。
-https://levtech.jp/media/article/interview/detail_477/
-AIプロダクト開発ではどうでしょう。
-LLMの出力は非決定論的で、従来のテストだけでは乗り切れません。
-「この入力なら、この出力」というアサーションができない世界です。
-そこで登場するのが評価（E... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/r_kaga/articles/54698ed22fbfe9</guid>
-      <pubDate>Tue, 06 Jan 2026 09:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>外部依存ゼロのVim/Neovimでもプラグインを使える。本体に同梱されてるから。</title>
-      <link>https://zenn.dev/vim_jp/articles/e2620b502913f4</link>
-      <description>この記事はVim駅伝の2026-01-07の記事です。
-前回の記事はnil2さんのVimのコードベースはどのバージョンのSTEVIEか？です。
-Vim駅伝は常に参加者を募集しています。詳しくはこちらのページをご覧ください。
+      <title>フォームのオートコンプリートでデザインが壊れる問題をCSSだけで解決する</title>
+      <link>https://zenn.dev/localer/articles/b7d9aba4ca4db8</link>
+      <description>パスワードマネージャーなどでオートコンプリート(自動補完)されたとき、
+&lt;input/&gt; 要素の背景色や入力された文字の色が、
+自分の意図しない見た目になっていたことはありませんか？
+例えば、
 
-Vimは歴史のあるエディタで、単体でも多様なファイル編集に対応する高機能なエディタです。また、NeovimはVimからフォークされたエディタで、さまざまな機能拡張が加えられています。これらのエディタは、現代ではそのデフォルト機能だけでなく、プラグインを導入してよりリッチな体験を目指すことが多いです。
-https://zenn.dev/vim_jp/articles/... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/vim_jp/articles/e2620b502913f4</guid>
-      <pubDate>Tue, 06 Jan 2026 15:03:00 +0000</pubDate>
+背景が突然黄色や青っぽい色になる
+
+background-colorを指定しているのに無視される
+文字色だけが変わり、ダークモードで読めなくなる
+
+
+オートコンプリート時
+これらはCSSの指定ミスではなく、Chromeを始めとするブラウザではオートコンプリート時に、ブラウザ側が独自のスタイルを強制的に適用する仕様によるものです
+
+メモ:
+多くのブラウザーのユーザーエージェントスタイル... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/localer/articles/b7d9aba4ca4db8</guid>
+      <pubDate>Thu, 08 Jan 2026 06:29:05 +0000</pubDate>
     </item>
     <item>
-      <title>「SQLiteは本番で使えない」は本当か？ 未経験がRails 8 × 格安VPSで負荷試験を乗り越え、PHP学習アプリをリリースしました！</title>
-      <link>https://zenn.dev/sekito/articles/31c94dec1cc9a3</link>
-      <description>初めまして、sekitoと申します。
-この度、PHP8技術者認定初級試験の受験者に向けた学習サポートアプリ、『PHP8技術者認定初級試験スタディ』をリリースしました。
-この記事でお伝えしたいのはアプリの宣伝だけではありません。
-このアプリは、月額800円のVPSとSQLiteという、一般的には「本番向きではない」とされる構成で動いています。しかし、負荷試験では 同時接続150人（秒間数百リクエスト）をエラー率0% で捌き切りました。
-「SQLiteは本番では使えない」 「個人開発でもDBサーバーは分けるべき」
-そんな常識に、Rails 8 と Kamal は立ち向かえるのか。未経験エンジ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sekito/articles/31c94dec1cc9a3</guid>
-      <pubDate>Tue, 06 Jan 2026 23:00:01 +0000</pubDate>
+      <title>Figma→実装の再現度を上げるAIワークフロー設計（Claude Code × Playwright）</title>
+      <link>https://zenn.dev/reality_tech/articles/1d6df6811715fb</link>
+      <description>!
+この記事では、Claude CodeとFigma MCPを使って「Figmaのデザインを高い再現度で実装に落とし込む」ためのワークフロー設計を紹介します。
+Figma MCPのデザインコンテキストはサイズが大きく、そのままAIに渡すと再現度が不安定になりがちです。そこで本記事では、タスク分割とPlaywright検証を組み合わせたパイプラインを構築し、スクリーンショット比較やレイアウト差分として検証できる状態まで落とし込むことを目標にしました。
+
+
+ はじめに
+REALITY で Server エンジニアをしているあさだです。今回は Claude Code に触れる機会があり、実際に... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/reality_tech/articles/1d6df6811715fb</guid>
+      <pubDate>Wed, 07 Jan 2026 09:34:38 +0000</pubDate>
     </item>
     <item>
-      <title>AIで個人開発を始めたら「作る」より「売る」が100倍難しかった話</title>
-      <link>https://zenn.dev/ktg/articles/518c880823ad4a</link>
+      <title>実装を揃えるより、仕様を揃える― Go と PHP の電話番号対応で考えたこと</title>
+      <link>https://zenn.dev/canly/articles/a64fba8a3a0fc4</link>
       <description>はじめに
-AIを使えば個人開発が簡単にできる時代。
-自分もコードはほとんど書けないけど、AIを使ってアプリを作って収益を得たい。そんな軽い気持ちで始めた個人開発でしたが、現実はそんなに甘くなかった。
-この記事は、これから個人開発を始めようと思っている方への「先に知っておいてほしいこと」です。
-結論から言うと、アプリを作ること自体はそこまで難しくない。本当に難しいのは「売る」ことでした。
-
-
- ぶつかった壁：作れても売る場所がない
-最初は自分の興味がある分野でアプリを作ってみました。AIを使えば、思ったより簡単に動くものができる。
-でも、作った後に気づいたんです。
-「これ、どこで売るの... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ktg/articles/518c880823ad4a</guid>
-      <pubDate>Tue, 06 Jan 2026 16:53:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>RAGの「業界特化」戦略（メルカリの成功例に学ぶ）</title>
-      <link>https://zenn.dev/knowledgesense/articles/dc593ea029356f</link>
-      <description>本記事では、RAGの精度を向上させるための「ドメイン特化埋め込みモデル」の手法について、ざっくり解説します。
-株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。
-
- この記事は何
-この記事は、メルカリの研究チームがAAAI 2026で発表した「ドメイン認識型テキスト埋め込み」に関する論文[1]について、日本語で簡単にまとめたものです。
-https://arxiv.org/abs/2512.21021
-ちなみに、この論文自体はRAGについて直接言及したものではありません。しかし、 RAGとは検索エンジンそ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/dc593ea029356f</guid>
-      <pubDate>Tue, 06 Jan 2026 02:25:41 +0000</pubDate>
+あけましておめでとうございます、三上です。普段はカンリー店舗集客という店舗情報の一元管理サービスの開発を行っています。本年もどうぞよろしくお願いいたします。
+https://jp.can-ly.com/
+さて、複数の言語・リポジトリで同じドメイン知識を扱っていると、「どこまで実装を揃えるべきか？」という悩みに直面することがあります。
+本記事では、 Go / PHP が混在する環境で電話番号のバリデーション・フォーマット変換をどう整理したか、その過程と学びをまとめてみたいと思います。
+カンリー店舗集客は昨年リニューアル版がリリースされました。
+私はリニューアルプロジェクトの途... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/canly/articles/a64fba8a3a0fc4</guid>
+      <pubDate>Wed, 07 Jan 2026 04:39:12 +0000</pubDate>
     </item>
     <item>
       <title>31万枚の画像をAI自動整理するシステムを、RTX 5090とローカルVLM(Qwen2-VL)で作った話</title>
@@ -122,19 +96,47 @@ https://arxiv.org/abs/2512.21021
       <pubDate>Wed, 07 Jan 2026 01:40:25 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeで記憶領域を持つための独自のAgent Skillsを使っている</title>
-      <link>https://zenn.dev/yamadashy/articles/claude-code-agent-skills-agent-memory</link>
-      <description>作業内容をエージェントに記憶させて「ひとまず忘れたい」と思うことがあります。
-作業中に別の差し込みが入ったとき。気になった何かを調査させて、一旦寝かせておきたいとき。
-Claude Codeは履歴から再開することもできますが、履歴は日々増えていくので古いものを辿るのは面倒ですよね。中断された細かい対応のために履歴を遡るようなことはやりません。
-記憶してくれていれば探す手間もないので、対話の文脈をもっとカジュアルに残せると嬉しい。
-そこで、agent-memory というスキルをローカルに作って試しています。
+      <title>この冬、育てたいGitHub Readme。Golang製のスタイリッリュなLanguage Stats SVG</title>
+      <link>https://zenn.dev/chot/articles/30b08c452795eb</link>
+      <description>はじめに
+GitHubのプロフィールページ（README）をカスタムしたくなったことはないでしょうか。
+よく見かけるカスタムパーツとして下図のような、readme-stats があります。
 
- やっていること
-シンプルな仕組みのスキルです。
-中断するときに「記憶して」や... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yamadashy/articles/claude-code-agent-skills-agent-memory</guid>
-      <pubDate>Mon, 05 Jan 2026 01:11:19 +0000</pubDate>
+readme stats
+
+この画像は本家の github-readme-stats とは別で自作したものです。詳細はコチラ
+
+これは、自分のアカウントのリポジトリで使用されている言語を集計し可視化したものです。個人的に好きなパーツですが、デザインに飽きてきたので、スタイリッシュなデザインかつ、Golangのキャッチアップがてら作りたいなと思ったのが今回のモチベーションです。本記事では、その紹介... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chot/articles/30b08c452795eb</guid>
+      <pubDate>Thu, 08 Jan 2026 08:18:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>個人開発の面倒な『利用規約』を一瞬で生成するツールを1日で作ってみた</title>
+      <link>https://zenn.dev/c_shiraga/articles/9941b44f76fdc0</link>
+      <description>はじめに
+個人開発をしていて、一番面倒な瞬間ってありませんか？
+私は、「サービスは完成したのに、利用規約とプライバシーポリシーを書くのが面倒で公開できない」ときです。
+既存の雛形はWordやPDFだったり、自分のサービス内容に合わせて書き換えるのが大変だったり…。
+そんな悩みを解決するために、参考にするサイトのURLや作成したサービスの概要を入れるだけで、そのサービスに特化した規約をMarkdownで生成してくれるツールを作りました。
+https://termsmd.com/
+完全無料で、ログインも不要です。
+今回は、このツールを作った背景と、使用した技術スタックについて紹介します。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/c_shiraga/articles/9941b44f76fdc0</guid>
+      <pubDate>Wed, 07 Jan 2026 22:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appleから人材流出続く — SafariのリードデザイナーがThe Browser Companyへ移籍、加速するAIブラウザ競争</title>
+      <link>https://techfeed.io/entries/696064ed3837533862fca10d?from=rss</link>
+      <description>1月9日、MacRumorsが「Apple Loses Safari Lead Designer to The Browser Company」と題した記事を公開した。この記事では、AppleのSafariチームでリードデザイナーを務めていたMarco Triverio（マルコ・トリヴェリオ）氏が、The Browser Companyへ移籍したことについて詳しく紹介されている。以下に、その内容を紹介する。AppleのSafariチームから、また一人シニアクラスの重要人物が去った。リードデザイナーを務めていたTriverio氏が、ArcやDiaといったブラウザを開発するThe Browser Companyに加入したのである。これは、AI主導のブラウザ競争が激化する中、Appleのブラウザチームから注目度の高い人材が流出するパターンが継続していることを示唆している。巨大なバックボーンを得た「挑戦者」の立ち位置今回の移籍の背景には、The Browser Companyを取り巻く環境の劇的な変化がある。同社は2025年9月、ソフトウェア大手のAtlassian（アトラシアン）によって約6 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/696064ed3837533862fca10d?from=rss</guid>
+      <pubDate>Fri, 09 Jan 2026 02:16:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】Linuxカーネル開発とAI Slop問題、リーナス・トーバルズ氏がメーリングリストで一喝 — 「AI Slopをドキュメントで解決できると思うのは、ただの世間知らずだ」</title>
+      <link>https://techfeed.io/entries/6960617d36a9803e0398b154?from=rss</link>
+      <description>1月9日、Phoronixが「Linus Torvalds: "The AI Slop Issue Is NOT Going To Be Solved With Documentation"」と題した記事を公開した。この記事では、Linuxカーネル開発におけるAI生成パッチ（AI Slop）への対応指針と、それに対するリーナス・トーバルズ氏の見解について詳しく紹介されている。以下に、その内容を紹介する。Linuxカーネルの開発コミュニティでは、現在、AI（大規模言語モデル）などのツールを用いて生成されたソースコードの投稿（パッチ）に関するガイドライン策定が進められている。この議論の背景には、コーディングアシスタントの普及により、AIが生成した不適切なコード（AI Slop）が大量に投稿され、開発現場の負担が増大することへの懸念がある。これに対し、Linuxの創始者であるリーナス・トーバルズ氏は、メーリングリストにて極めて現実的な見解を示した。同氏は、AIを特別視してドキュメントを整備することに懐疑的であり、AIを「単なる一つの道具」として扱うべきだと主張している。リーナス氏が投稿した主 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6960617d36a9803e0398b154?from=rss</guid>
+      <pubDate>Fri, 09 Jan 2026 02:01:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

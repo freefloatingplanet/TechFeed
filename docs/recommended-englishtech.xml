@@ -7,13 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Jan 2026 06:41:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 06:40:33 +0000</lastBuildDate>
     <item>
-      <title>OpenAIが参入しても、AIスタートアップが勝てるとVCが考える分野</title>
-      <link>https://techcrunch.com/video/where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game/</link>
-      <description>Premiseのパートナーであり、NEAの元パートナーでもあるヴァネッサ・ラーコ氏は、2026年はついにコンシューマーAIの年になると考えています。長年にわたりコンシューマーとプロシューマーに投資してきたラーコ氏は、AIが「コンシェルジュのような」サービスを推進することで、消費者のオンラインでの過ごし方が変化していくと考えています。問題は、従来のコンシューマー製品が[…] (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/video/where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game/</guid>
-      <pubDate>Wed, 07 Jan 2026 18:53:35 +0000</pubDate>
+      <title>DeepSeek-V3.2は推論タスクにおいてGPT-5を上回る</title>
+      <link>https://www.infoq.com/news/2026/01/deepseek-v32/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>DeepSeekは、オープンソースの推論およびエージェントAIモデルファミリーであるDeepSeek-V3.2をリリースしました。高計算能力版であるDeepSeek-V3.2-Specialeは、いくつかの推論ベンチマークにおいてGPT-5を上回り、Gemini-3.0-Proと同等の性能を発揮しました。アンソニー・アルフォード (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/deepseek-v32/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 06 Jan 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FGA：WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
+      <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新興のAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
+      <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
+      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主要な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</guid>
+      <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
     </item>
     <item>
       <title>Okta から Python アプリにユーザーを同期する方法</title>
@@ -21,20 +35,6 @@
       <description>わずか数行のコードで、SCIM、Okta、Python、WorkOS を使用してアプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</guid>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DuckDB の WebAssembly クライアントにより、ブラウザで Iceberg データセットのクエリが可能に</title>
-      <link>https://www.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>DuckDBは最近、ブラウザタブ内で直接Iceberg RESTカタログとのエンドツーエンドの連携を実現しました。インフラのセットアップは不要です。この新機能は、ブラウザで動作するDuckDBのWebAssemblyポートであるDuckDB-Wasmを活用しており、ユーザーはサーバーレスでIcebergテーブルへのクエリ、読み取り、書き込みを行うことができます。Renato Losio著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sun, 04 Jan 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WorkOSの内部</title>
-      <link>https://workos.com/blog/inside-workos</link>
-      <description>WorkOS の舞台裏に潜入して、卓越性、開発者の喜び、そして目的のある成長を追求する企業を支える文化、理念、人材を発見してください。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/inside-workos</guid>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
@@ -51,9 +51,23 @@
       <pubDate>Tue, 06 Jan 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>ソフトウェアセキュリティを確保するためにテスターができること</title>
+      <link>https://www.infoq.com/news/2026/01/ensure-software-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>安全なソフトウェア開発ライフサイクルとは、セキュリティを最後に散りばめるのではなく、計画、設計、構築、テスト、そして保守のすべてに組み込むことを意味すると、サラ・マルティネス氏は講演「ソフトウェアセキュリティの確保」の中で述べています。テスターはバグ発見者ではなく、初期の防御者であり、最初のスプリントからセキュリティと品質を組み込む役割を担います。文化を第一に、自動化を第二に、そして継続的なテストと監視を常に念頭に置いてください。ベン・リンダース著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/ensure-software-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 08 Jan 2026 11:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>記事: Agentic Terminal - CLI エージェントでターミナルが活性化する仕組み</title>
+      <link>https://www.infoq.com/articles/agentic-terminal-cli-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>本記事では、著者のSachin Joglekar氏が、CLIターミナルがエージェント化され、開発者が目標を宣言し、AIエージェントがプランニング、ツールの呼び出し、反復処理、必要に応じて承認の依頼、そしてリクエストの実行を行うという変革について論じています。また、Gemini、Claude、Auto-GPTという3つの異なるCLIツールのプランニングスタイルについても解説しています。Sachin Joglekar著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/agentic-terminal-cli-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 08 Jan 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>JEP 525は、Javaの構造化並行性にタイムアウト処理とジョイナーの改良をもたらします</title>
       <link>https://www.infoq.com/news/2026/01/timeout-joiner-refinements/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>次期JDK 26の目玉となるJEP 525は、構造化された並行処理を洗練させ、より明確で安全なタスク管理を実現します。このイテレーションでは、カスタムジョイナーにタイムアウトコールバックが導入され、柔軟性とエラー処理が向上します。合理化されたAPIと実用的な用途への重点により、開発者は並行タスクを効率的に管理できるようになり、Project Loomの高度な機能への道が開かれます。A N M Bazlur Rahman著 (source: InfoQ)</description>
+      <description>次期JDK 26の目玉となるJEP 525は、構造化並行処理を洗練させ、より明確で安全なタスク管理を実現します。このイテレーションでは、カスタムジョイナーにタイムアウトコールバックが導入され、柔軟性とエラー処理が向上します。合理化されたAPIと実用的な用途への重点により、開発者は並行タスクを効率的に管理できるようになり、Project Loomの高度な機能への道が開かれます。A N M Bazlur Rahman著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/timeout-joiner-refinements/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 05 Jan 2026 15:10:00 +0000</pubDate>
     </item>
@@ -63,20 +77,6 @@
       <description>Cerbosは、開発者がアプリケーションにきめ細かなアクセス制御を実装するのに役立つオープンソースの認可エンジンです。Apache 2.0ライセンスの下でリリースされており、アプリケーションが特定のアクションを許可するかどうかを判断するための、一元化されたポリシー決定ポイントを提供します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</guid>
       <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS、M9gインスタンスで第5世代Gravitonプロセッサを導入</title>
-      <link>https://www.infoq.com/news/2026/01/aws-graviton-m9g/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AWSは最近、新しいGraviton5プロセッサと、それを搭載した最初のEC2インスタンスである汎用M9gインスタンスのプレビューを発表しました。同社によると、この最新チップはGraviton4と比較して最大25%高いパフォーマンスを実現し、Nitro Isolation Engineを導入し、L3キャッシュの容量拡大により、レイテンシ、メモリ帯域幅、ネットワークスループットが向上します。（レナート・ロシオ著） (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/aws-graviton-m9g/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 03 Jan 2026 06:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Javaニュースまとめ: Spring Shell、JReleaser、TornadoInsight、Apache Camel</title>
-      <link>https://www.infoq.com/news/2026/01/java-news-roundup-dec29-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>今週は比較的静かな2025年12月29日のJavaまとめです。注目のニュースは、Spring Shell 4.0のGAリリース、JReleaser 1.22.0とApache Camel 4.14.3のポイントリリース、そしてTornadoInsightがTornadoVM 2.0の最新リリースに対応しました。マイケル・レッドリッヒ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/java-news-roundup-dec29-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 05 Jan 2026 02:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
