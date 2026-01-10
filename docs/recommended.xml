@@ -7,69 +7,54 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Jan 2026 06:40:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 06:36:26 +0000</lastBuildDate>
     <item>
-      <title>フォームのオートコンプリートでデザインが壊れる問題をCSSだけで解決する</title>
-      <link>https://zenn.dev/localer/articles/b7d9aba4ca4db8</link>
-      <description>パスワードマネージャーなどでオートコンプリート(自動補完)されたとき、
-&lt;input/&gt; 要素の背景色や入力された文字の色が、
-自分の意図しない見た目になっていたことはありませんか？
-例えば、
-
-背景が突然黄色や青っぽい色になる
-
-background-colorを指定しているのに無視される
-文字色だけが変わり、ダークモードで読めなくなる
-
-
-オートコンプリート時
-これらはCSSの指定ミスではなく、Chromeを始めとするブラウザではオートコンプリート時に、ブラウザ側が独自のスタイルを強制的に適用する仕様によるものです
-
-メモ:
-多くのブラウザーのユーザーエージェントスタイル... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/localer/articles/b7d9aba4ca4db8</guid>
-      <pubDate>Thu, 08 Jan 2026 06:29:05 +0000</pubDate>
+      <title>AIに「ありがとう」と言うだけで数千万円の損失が…!? OpenAI代表サム・アルトマンも危惧するChatGPTの“恐るべき電気代”の真相 | 文春オンライン</title>
+      <link>https://bunshun.jp/articles/-/84696</link>
+      <description>「AIに丁寧語を使う必要はない」――。そんな議論を耳にしたことはないだろうか。実はこれ、単なる時短テクニックの話ではない。OpenAIのCEOサム・アルトマンによれば、私たちがAIに「おねがい」や「ありがとう」と入力するだけで、膨大なコストが浪費されている可能性があるというのだ。 いまや生活に欠かせないAIだが、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://bunshun.jp/articles/-/84696</guid>
+      <pubDate>Fri, 09 Jan 2026 04:13:29 +0000</pubDate>
     </item>
     <item>
-      <title>Figma→実装の再現度を上げるAIワークフロー設計（Claude Code × Playwright）</title>
-      <link>https://zenn.dev/reality_tech/articles/1d6df6811715fb</link>
-      <description>!
-この記事では、Claude CodeとFigma MCPを使って「Figmaのデザインを高い再現度で実装に落とし込む」ためのワークフロー設計を紹介します。
-Figma MCPのデザインコンテキストはサイズが大きく、そのままAIに渡すと再現度が不安定になりがちです。そこで本記事では、タスク分割とPlaywright検証を組み合わせたパイプラインを構築し、スクリーンショット比較やレイアウト差分として検証できる状態まで落とし込むことを目標にしました。
-
-
- はじめに
-REALITY で Server エンジニアをしているあさだです。今回は Claude Code に触れる機会があり、実際に... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/reality_tech/articles/1d6df6811715fb</guid>
-      <pubDate>Wed, 07 Jan 2026 09:34:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>実装を揃えるより、仕様を揃える― Go と PHP の電話番号対応で考えたこと</title>
-      <link>https://zenn.dev/canly/articles/a64fba8a3a0fc4</link>
+      <title>Python開発の初速を上げるためのテンプレート設計</title>
+      <link>https://qiita.com/kobori_akira/items/a69ce52cc2862af7ebc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-あけましておめでとうございます、三上です。普段はカンリー店舗集客という店舗情報の一元管理サービスの開発を行っています。本年もどうぞよろしくお願いいたします。
-https://jp.can-ly.com/
-さて、複数の言語・リポジトリで同じドメイン知識を扱っていると、「どこまで実装を揃えるべきか？」という悩みに直面することがあります。
-本記事では、 Go / PHP が混在する環境で電話番号のバリデーション・フォーマット変換をどう整理したか、その過程と学びをまとめてみたいと思います。
-カンリー店舗集客は昨年リニューアル版がリリースされました。
-私はリニューアルプロジェクトの途... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/canly/articles/a64fba8a3a0fc4</guid>
-      <pubDate>Wed, 07 Jan 2026 04:39:12 +0000</pubDate>
+「ちょっとしたアイデアを試してみたい」と思ったとき、どのように開発を始めるでしょうか。
+おそらく「とりあえず書いてみる」というのが一般的だと思います。生成AIの活用が浸透した現在では、より「試しに書かせてみる」ということがやりやすくなりました。
+一方でそのように... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/kobori_akira/items/a69ce52cc2862af7ebc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 07 Jan 2026 22:57:11 +0000</pubDate>
     </item>
     <item>
-      <title>31万枚の画像をAI自動整理するシステムを、RTX 5090とローカルVLM(Qwen2-VL)で作った話</title>
-      <link>https://zenn.dev/toki_mwc/articles/a7a76e05d143d9</link>
-      <description>はじめに：31万枚の「未分類」地獄
-画像管理アプリ「Eagle」に溜め込んだ画像が、気づけば31万枚を超えていました。
+      <title>続・Claude Code公式Pluginのすすめ+α</title>
+      <link>https://zenn.dev/modokkin/articles/zenn-2026-01-06-claude-code-plugins-update</link>
+      <description>こんにちは、株式会社 tacoms で SRE をやっている はぶちん (@modokkin) です。
+2025年が終わり2026年になりましたね。今年もどうぞよろしくお願いします。
+さて、今回は前回の記事の続編として、Claude Codeの最近のアップデートで追加された新機能や便利になったポイントを紹介します。
 
-ℹ️ 注記：本記事執筆時点での状態です。現在はさらに33万枚以上に増加しています。
+ 前回記事のおさらい
+前回は公式Pluginの概要とインストール方法、実際に使ってみた感想を紹介しました。
 
-未分類フォルダやタグなし画像が大量に存在
-問題は、そのうち数万枚が「未分類」フォルダや単なる日付フォルダに死蔵されていること。手作業でタグ付けする時間はなく、検索もままならない状態でした。
-「画像を特定のフォルダに放り込むだけで、AIが内容を理解し、タグ付けし、分類してくれる自動アーカイブシステムが欲しい」
-そう思って作ったのが、今回紹介する Eagle AI Intellige... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/toki_mwc/articles/a7a76e05d143d9</guid>
-      <pubDate>Tue, 06 Jan 2026 09:59:56 +0000</pubDate>
+記事の中で、公式マーケットプレイスを手動で追加する手順を紹介しました。しかし2025年12月中旬のアップデートでこの手順が不要になりました。その後も継続的にアップデ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/modokkin/articles/zenn-2026-01-06-claude-code-plugins-update</guid>
+      <pubDate>Tue, 06 Jan 2026 14:31:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLMアプリケーションのセキュリティ実践：脆弱性の発見からガードレール実装まで</title>
+      <link>https://zenn.dev/acompany/articles/c642c09bd167a6</link>
+      <description>はじめに
+株式会社Acompany プラットフォーム部エンジニアの平岡です。
+生成AIが急速に普及する中、社内チャットボットやカスタマーサポートなど、LLMを組み込んだアプリケーションが増えてきました。ただ、これらのアプリケーションには従来のWebアプリとは異なる脆弱性が潜んでいます。「悪意あるプロンプトでシステムプロンプトが漏洩した」「チャットボットが誤った情報を回答してしまった」といった事例を耳にしたことがある方も多いのではないでしょうか。
+Webアプリケーションセキュリティの向上を目的とした非営利団体OWASP（Open Worldwide Application Securi... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acompany/articles/c642c09bd167a6</guid>
+      <pubDate>Thu, 08 Jan 2026 10:15:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>「ロボット幼稚園」でAI搭載ロボットを進化させる</title>
+      <link>https://gigazine.net/news/20260110-preschool-for-robots/</link>
+      <description>探索・失敗・継続的な改善を通して行動学習する「汎用(はんよう)知能ロボット」の開発を目指す企業のPantographが、「ロボットのための幼稚園」の構想を明らかにしました。仮想上のトレーニングだけではなくロボットが現実世界のさまざまな環境に触れて学習していくことで、AIのトレーニングに利用するデータが枯渇して... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20260110-preschool-for-robots/</guid>
+      <pubDate>Sat, 10 Jan 2026 03:04:11 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「グラフィックスAPIなくして、ポインタでいいんじゃね？」現代GPUの力を解き放つ新発想が海外で話題に</title>
@@ -77,23 +62,6 @@ https://jp.can-ly.com/
       <description>12月17日、Sebastian Aaltonen氏が「No Graphics API」と題した記事を公開した。この記事では、現代のGPUが抱える複雑すぎる命令系統を整理し、より効率的に動かすための次世代の考え方について詳しく紹介されている。なお、本稿は初心者向けに要点をかいつまんで解説したものである。技術的な詳細や厳密な議論をより深く知りたい方は、ぜひ原文を参照していただきたい。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/695dc2193837533862fbe411?from=rss</guid>
       <pubDate>Wed, 07 Jan 2026 02:16:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>新卒エンジニアよ。コードは書かなくていいかもしれない。でも理解だけはやめないでほしい</title>
-      <link>https://zenn.dev/tokium_dev/articles/vibe-coding-understanding-matters</link>
-      <description>!
-この記事は新卒エンジニアの筆者が、同じ新卒エンジニア、未来の新卒エンジニアに向けた記事です。
-
-
- 最初はバイブコーディングでいいと思っていた
-2025年4月、私は株式会社TOKIUMに新卒エンジニアとして入社しました。
-当時はバイブコーディング全盛期だったため、「もうAIが書いた方が圧倒的に速いし、全部バイブコーディングでいいんじゃないか?」と思っていました。
-でも同時に、「本当に自力でコードを書かなくて良いのか?」という不安も抱えていました。
-このような思いを抱きながら半年間開発してきて、経験を経て学んだことがあります。
-
-確かにコードは書かなくていいかもしれない。でも、理解だけ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/vibe-coding-understanding-matters</guid>
-      <pubDate>Wed, 07 Jan 2026 01:40:25 +0000</pubDate>
     </item>
     <item>
       <title>この冬、育てたいGitHub Readme。Golang製のスタイリッリュなLanguage Stats SVG</title>

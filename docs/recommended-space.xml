@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Jan 2026 06:40:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 06:36:31 +0000</lastBuildDate>
     <item>
       <title>Space BD、衛星開発の即戦力人材を養成するプログラム「HURDLES」を初提供–山形大学と契約</title>
       <link>https://uchubiz.com/article/new68597/</link>
@@ -51,6 +51,13 @@
       <pubDate>Sun, 04 Jan 2026 23:04:08 +0000</pubDate>
     </item>
     <item>
+      <title>木星が見頃！2026年1月10日に「衝」を迎える太陽系最大の惑星を観測しよう</title>
+      <link>https://sorae.info/astronomy/20260107-jupiter-opposition.html</link>
+      <description>太陽系最大の惑星「木星」が、2026年1月10日17時42分ごろ（※）にいよいよ「衝（しょう）」を迎えます。衝の前後は地球との距離が大きく縮み、木星が一晩を通して見やすくなるため、観測の好機となります。 冬の澄んだ夜空を… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260107-jupiter-opposition.html</guid>
+      <pubDate>Fri, 09 Jan 2026 09:10:04 +0000</pubDate>
+    </item>
+    <item>
       <title>地球の誕生には超新星由来の宇宙線が関わった？ 「宇宙線浴メカニズム」を提案</title>
       <link>https://sorae.info/astronomy/20260107-immersion-mechanism.html</link>
       <description>地球は「水の惑星」と表現されることもありますが、質量全体に対する水の比率は決して高くはありません。 これまでに6000個以上が確認されている太陽系外惑星に目を向けると、その中には表面全体が深い海に覆われている可能性が指摘… (source: sorae 宇宙へのポータルサイト)</description>
@@ -70,13 +77,6 @@
       <description>炭素質小惑星「ベンヌ（ベヌー）」には、生命の構成要素となる様々な種類の有機分子や、太陽系誕生以前の物質など、非常に多様な物質が含まれていると考えられています。これらの物質について詳しく分析することは、地球やヒトなどの存在… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260108-bennu-sample-2.html</guid>
       <pubDate>Thu, 08 Jan 2026 12:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年1月の星空情報：4日は「しぶんぎ座流星群」が極大</title>
-      <link>https://sorae.info/astronomy/202601-starry-sky.html</link>
-      <description>1月、新しい年を迎え、気持ちも新たに空を眺めると、冷気の中で湿気は遠のき、空気まで新鮮に感じられます。冴えわたった夜空には、色とりどりの星が瞬いています。 冬空で最初に目につくのは「オリオン座」でしょう。南の空に、「オリ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/202601-starry-sky.html</guid>
-      <pubDate>Thu, 01 Jan 2026 02:19:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
