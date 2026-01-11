@@ -7,54 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Jan 2026 06:36:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 06:38:10 +0000</lastBuildDate>
     <item>
-      <title>AIに「ありがとう」と言うだけで数千万円の損失が…!? OpenAI代表サム・アルトマンも危惧するChatGPTの“恐るべき電気代”の真相 | 文春オンライン</title>
-      <link>https://bunshun.jp/articles/-/84696</link>
-      <description>「AIに丁寧語を使う必要はない」――。そんな議論を耳にしたことはないだろうか。実はこれ、単なる時短テクニックの話ではない。OpenAIのCEOサム・アルトマンによれば、私たちがAIに「おねがい」や「ありがとう」と入力するだけで、膨大なコストが浪費されている可能性があるというのだ。 いまや生活に欠かせないAIだが、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://bunshun.jp/articles/-/84696</guid>
-      <pubDate>Fri, 09 Jan 2026 04:13:29 +0000</pubDate>
+      <title>「GrokとXのアプリをAppleとGoogleのアプリストアから削除せよ」という公開書簡をアメリカの政治家たちが送付、理由は「違法な性的画像を大量生成しているため」</title>
+      <link>https://gigazine.net/news/20260110-grok-x-app-suspended-apple-google/</link>
+      <description>イーロン・マスク氏のAI企業であるxAIが開発している生成AI「Grok」の画像生成機能で、子どもや女性の性的な画像を生成できてしまうことが問題視されています。この機能をめぐり、Appleのティム・クックCEOとGoogleのサンダー・ピチャイCEO宛に「XとGrokアプリをApp StoreとGoogle Playから締め出すべき」という公開書簡... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20260110-grok-x-app-suspended-apple-google/</guid>
+      <pubDate>Sat, 10 Jan 2026 12:24:54 +0000</pubDate>
     </item>
     <item>
-      <title>Python開発の初速を上げるためのテンプレート設計</title>
-      <link>https://qiita.com/kobori_akira/items/a69ce52cc2862af7ebc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>医療費控除の入力が面倒すぎたので、Pythonだけで「ACCESS風」ローカル入力ツールを作った</title>
+      <link>https://qiita.com/iasou24/items/ec8070175e126c88adfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>先日は珍プレー大賞をいただきありがとうございました。
+ずっと中古ノートパソコンで作業しているので、賞金でモニターをポチしました。
+仕事に、あと今度の個展でのMVや開発アプリの表示で使う予定です。
+さて、本題。
+医療費控除の明細入力、毎年地味に面倒ではないでしょうか。
+自分は... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/iasou24/items/ec8070175e126c88adfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 09 Jan 2026 16:16:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Actions のシークレットは簡単に見れる</title>
+      <link>https://zenn.dev/enjapan/articles/github-actions-secrets</link>
       <description>はじめに
-「ちょっとしたアイデアを試してみたい」と思ったとき、どのように開発を始めるでしょうか。
-おそらく「とりあえず書いてみる」というのが一般的だと思います。生成AIの活用が浸透した現在では、より「試しに書かせてみる」ということがやりやすくなりました。
-一方でそのように... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/kobori_akira/items/a69ce52cc2862af7ebc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 07 Jan 2026 22:57:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>続・Claude Code公式Pluginのすすめ+α</title>
-      <link>https://zenn.dev/modokkin/articles/zenn-2026-01-06-claude-code-plugins-update</link>
-      <description>こんにちは、株式会社 tacoms で SRE をやっている はぶちん (@modokkin) です。
-2025年が終わり2026年になりましたね。今年もどうぞよろしくお願いします。
-さて、今回は前回の記事の続編として、Claude Codeの最近のアップデートで追加された新機能や便利になったポイントを紹介します。
-
- 前回記事のおさらい
-前回は公式Pluginの概要とインストール方法、実際に使ってみた感想を紹介しました。
-
-記事の中で、公式マーケットプレイスを手動で追加する手順を紹介しました。しかし2025年12月中旬のアップデートでこの手順が不要になりました。その後も継続的にアップデ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/modokkin/articles/zenn-2026-01-06-claude-code-plugins-update</guid>
-      <pubDate>Tue, 06 Jan 2026 14:31:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLMアプリケーションのセキュリティ実践：脆弱性の発見からガードレール実装まで</title>
-      <link>https://zenn.dev/acompany/articles/c642c09bd167a6</link>
-      <description>はじめに
-株式会社Acompany プラットフォーム部エンジニアの平岡です。
-生成AIが急速に普及する中、社内チャットボットやカスタマーサポートなど、LLMを組み込んだアプリケーションが増えてきました。ただ、これらのアプリケーションには従来のWebアプリとは異なる脆弱性が潜んでいます。「悪意あるプロンプトでシステムプロンプトが漏洩した」「チャットボットが誤った情報を回答してしまった」といった事例を耳にしたことがある方も多いのではないでしょうか。
-Webアプリケーションセキュリティの向上を目的とした非営利団体OWASP（Open Worldwide Application Securi... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acompany/articles/c642c09bd167a6</guid>
-      <pubDate>Thu, 08 Jan 2026 10:15:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>「ロボット幼稚園」でAI搭載ロボットを進化させる</title>
-      <link>https://gigazine.net/news/20260110-preschool-for-robots/</link>
-      <description>探索・失敗・継続的な改善を通して行動学習する「汎用(はんよう)知能ロボット」の開発を目指す企業のPantographが、「ロボットのための幼稚園」の構想を明らかにしました。仮想上のトレーニングだけではなくロボットが現実世界のさまざまな環境に触れて学習していくことで、AIのトレーニングに利用するデータが枯渇して... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20260110-preschool-for-robots/</guid>
-      <pubDate>Sat, 10 Jan 2026 03:04:11 +0000</pubDate>
+こんにちは。エン株式会社のプラットフォームグループ（PFG）に所属している山﨑です。私が所属しているチームでは週１回輪読会を行っており、GitHub Actions の本を読んでいます。「GitHub CI/CD実践ガイド」という本で、めちゃくちゃオススメです。この記事の内容の多くは本の中で紹介されているので、気になった方は読んでみてください。
+GitHub Actions を使えば CI/CD を簡単に構築できますが、セキュリティの観点で注意しないといけないことが多くあります。セキュリティより利便性が重視されている傾向にあるため、どこにどんなリスクがあるのか把握しておくこ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/enjapan/articles/github-actions-secrets</guid>
+      <pubDate>Fri, 09 Jan 2026 00:10:59 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「グラフィックスAPIなくして、ポインタでいいんじゃね？」現代GPUの力を解き放つ新発想が海外で話題に</title>
@@ -62,6 +42,34 @@ Webアプリケーションセキュリティの向上を目的とした非営�
       <description>12月17日、Sebastian Aaltonen氏が「No Graphics API」と題した記事を公開した。この記事では、現代のGPUが抱える複雑すぎる命令系統を整理し、より効率的に動かすための次世代の考え方について詳しく紹介されている。なお、本稿は初心者向けに要点をかいつまんで解説したものである。技術的な詳細や厳密な議論をより深く知りたい方は、ぜひ原文を参照していただきたい。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/695dc2193837533862fbe411?from=rss</guid>
       <pubDate>Wed, 07 Jan 2026 02:16:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>量子HPCクラウド提供をやめます。</title>
+      <link>https://zenn.dev/yuichirominato/articles/a3b33e252be9f9</link>
+      <description>こんにちは、HPCは量子シミュレーションなどが主体のものです。弊社ではGPUをベースとしたクラウドの提供をお客さんに試みてみましたが今後はクラウド単体での提供はやめます。
+引き続きコンサルティングなどの傍のクラウド利用はしばらく続けます。
+１、儲からない
+HPC自体は研究で研究費は圧縮したいという要望が強く儲かる領域でない。
+２、クラウドの運用体力がない
+弊社では半導体量子も、機械学習も、量子アプリも、どれもこれもやっていてクラウド運用を頑張りましたが、それを安定して運用する体力がありませんでした。お客様には大変ご迷惑をおかけしてすみません。
+３、実用化が見えない
+量子自体は最適化や機械... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yuichirominato/articles/a3b33e252be9f9</guid>
+      <pubDate>Fri, 09 Jan 2026 12:47:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>毛の一本まで切り抜きたい猫好きエンジニアへ送るセグメンテーション比較</title>
+      <link>https://zenn.dev/neoai/articles/segmentation</link>
+      <description>はじめに
+株式会社 neoAI で学生 AI エンジニアをしております、山田 祐平です。
+画像から特定の領域を切り出す セグメンテーション は、背景除去、物体カウント、画像編集、自動運転など幅広い分野で活用されている技術です。最近では、テキストで対象を指定できるモデルや、会話的に調整できるモデルも登場し、より直感的に使えるようになっています。
+一方で、選択肢が増えた分、「結局どのモデルを使えばいいの？」と迷うことも増えました。この記事では、Gemini 2.5 / SAM 3 / YOLO11 の 3 つの手法を同じ画像で実際に動かし、出力や使い勝手を比較します。
+
+ TL;DR
+
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/neoai/articles/segmentation</guid>
+      <pubDate>Sat, 10 Jan 2026 09:07:08 +0000</pubDate>
     </item>
     <item>
       <title>この冬、育てたいGitHub Readme。Golang製のスタイリッリュなLanguage Stats SVG</title>

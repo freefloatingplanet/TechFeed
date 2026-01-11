@@ -7,11 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 10 Jan 2026 06:36:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 06:38:23 +0000</lastBuildDate>
+    <item>
+      <title>DeepSeek-V3.2は推論タスクにおいてGPT-5を上回る</title>
+      <link>https://www.infoq.com/news/2026/01/deepseek-v32/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>DeepSeekは、オープンソースの推論およびエージェントAIモデルファミリーであるDeepSeek-V3.2をリリースしました。高計算能力版であるDeepSeek-V3.2-Specialeは、いくつかの推論ベンチマークにおいてGPT-5よりも優れた性能を示し、Gemini-3.0-Proとほぼ同等の性能を示しました。アンソニー・アルフォード (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/deepseek-v32/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 06 Jan 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FGA：WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
+      <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
       <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
-      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
+      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主要な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</guid>
       <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
     </item>
@@ -30,16 +44,9 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Docker Kanvas が Helm と Kustomize に挑み、Kubernetes の覇権を握る</title>
-      <link>https://www.infoq.com/news/2026/01/docker-kanvas-cloud-deployment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Docker社は、ローカル開発とクラウド本番環境のギャップを埋めるために設計された新しいプラットフォーム「Kanvas」をリリースしました。Docker ComposeファイルをKubernetesアーティファクトに変換する作業を自動化することで、このツールはHelmやKustomizeといった既存のソリューションに対抗する存在となります。Layer5と共同開発されたKanvasは、Infrastructure as Codeへの移行を象徴するものであり、クラウドネイティブなデプロイメントを簡素化するための可視化機能を提供します。Mark Silvester著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/docker-kanvas-cloud-deployment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 06 Jan 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ソフトウェアセキュリティを確保するためにテスターができること</title>
       <link>https://www.infoq.com/news/2026/01/ensure-software-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>安全なソフトウェア開発ライフサイクルとは、セキュリティを最後に散りばめるのではなく、計画、設計、構築、テスト、そして保守のすべてに組み込むことを意味すると、サラ・マルティネス氏は講演「ソフトウェアセキュリティの確保」の中で述べています。テスターはバグ発見者ではなく、初期の防御者であり、最初のスプリントからセキュリティと品質を組み込む役割を担います。文化を第一に、自動化を第二に、そして継続的なテストと監視を常に念頭に置いてください。ベン・リンダース著 (source: InfoQ)</description>
+      <description>安全なソフトウェア開発ライフサイクルとは、セキュリティを最後に散りばめるのではなく、計画、設計、構築、テスト、そして保守のプロセスに組み込むことを意味すると、サラ・マルティネス氏は講演「ソフトウェアセキュリティの確保」の中で述べています。テスターはバグ発見者ではなく、初期の防御者であり、最初のスプリントからセキュリティと品質を組み込む役割を担います。文化を第一に、自動化を第二に、そして継続的なテストと監視を常に念頭に置いてください。ベン・リンダース著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/ensure-software-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 08 Jan 2026 11:42:00 +0000</pubDate>
     </item>
@@ -49,13 +56,6 @@
       <description>本記事では、著者のSachin Joglekar氏が、CLIターミナルがエージェント化され、開発者が目標を宣言し、AIエージェントがプランニング、ツールの呼び出し、反復処理、必要に応じて承認の依頼、そしてリクエストの実行を行うという変革について論じています。また、Gemini、Claude、Auto-GPTという3つの異なるCLIツールのプランニングスタイルについても解説しています。Sachin Joglekar著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/articles/agentic-terminal-cli-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 08 Jan 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>JEP 525は、Javaの構造化並行性にタイムアウト処理とジョイナーの改良をもたらします</title>
-      <link>https://www.infoq.com/news/2026/01/timeout-joiner-refinements/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>次期JDK 26の目玉となるJEP 525は、構造化された並行処理を洗練させ、より明確で安全なタスク管理を実現します。このイテレーションでは、カスタムジョイナーにタイムアウトコールバックが導入され、柔軟性とエラー処理が向上します。合理化されたAPIと実用的な用途への重点により、開発者は並行タスクを効率的に管理できるようになり、Project Loomの高度な機能への道が開かれます。A N M Bazlur Rahman著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/timeout-joiner-refinements/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 05 Jan 2026 15:10:00 +0000</pubDate>
     </item>
     <item>
       <title>ミニブック：InfoQトレンドレポート2025 eMag</title>
