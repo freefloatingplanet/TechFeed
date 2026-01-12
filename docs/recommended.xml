@@ -7,13 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Jan 2026 06:38:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 06:43:01 +0000</lastBuildDate>
     <item>
-      <title>「GrokとXのアプリをAppleとGoogleのアプリストアから削除せよ」という公開書簡をアメリカの政治家たちが送付、理由は「違法な性的画像を大量生成しているため」</title>
-      <link>https://gigazine.net/news/20260110-grok-x-app-suspended-apple-google/</link>
-      <description>イーロン・マスク氏のAI企業であるxAIが開発している生成AI「Grok」の画像生成機能で、子どもや女性の性的な画像を生成できてしまうことが問題視されています。この機能をめぐり、Appleのティム・クックCEOとGoogleのサンダー・ピチャイCEO宛に「XとGrokアプリをApp StoreとGoogle Playから締め出すべき」という公開書簡... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20260110-grok-x-app-suspended-apple-google/</guid>
-      <pubDate>Sat, 10 Jan 2026 12:24:54 +0000</pubDate>
+      <title>私たちが完全に理解している最も複雑なAIモデルとは何か？</title>
+      <link>https://gigazine.net/news/20260112-most-complex-ai-model/</link>
+      <description>驚異的な発展を続けるAI技術に対して、「なんだかよくわからない」という印象を持つ人は決して少なくはありませんが、AIをよく知る人でさえ同じ考えに至るようです。AIに関する教育的デジタルコンテンツを制作するWelch Labsが「現代のAIを理解している者は誰もいない」と冒頭で述べる衝撃的な動画を発信していました。 ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20260112-most-complex-ai-model/</guid>
+      <pubDate>Sun, 11 Jan 2026 15:17:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>サムネイル画像URLはバックエンドで生成すべき</title>
+      <link>https://zenn.dev/catatsuy/articles/4070de849114e0</link>
+      <description>最初に三行まとめ
+
+サムネイル画像のURLはフロントエンドで組み立てず、バックエンドで生成して返す
+理由は「後方互換性」と「CDNキャッシュ効率」
+画面サイズ最適化はJavaScriptの計算ではなくpicture/srcsetでブラウザに選ばせる
+
+最近はサムネイル画像を静的に全パターン作るより、変換を動的に行い、CDNでキャッシュしていく設計が一般的になってきました。すると「画面サイズはフロントエンドが知っているのだから、JavaScriptで最適なwidthを計算してURLに付ければいいのでは？」という発想が出てきます。
+しかし、この実装は明確に危険で、やってはいけません。画像UR... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/catatsuy/articles/4070de849114e0</guid>
+      <pubDate>Sun, 11 Jan 2026 09:07:47 +0000</pubDate>
     </item>
     <item>
       <title>医療費控除の入力が面倒すぎたので、Pythonだけで「ACCESS風」ローカル入力ツールを作った</title>
@@ -37,6 +51,13 @@ GitHub Actions を使えば CI/CD を簡単に構築できますが、セキュ�
       <pubDate>Fri, 09 Jan 2026 00:10:59 +0000</pubDate>
     </item>
     <item>
+      <title>なぜ誰も手を付けなかったのか？ ― Vibeコーディングが解いた15年の沈黙 | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/mp3gain-resuscitation-mp3rgain/</link>
+      <description>ベルリンのしがひです。DJやっています。 昨日、DJ用音源のラウドネス最適化ツール「headroom」を開発したことをZennで記事にしました。RekordboxからCDJにUSBエクスポートする際、Auto Gain機能が効かないために発生するトラック間の音量差を解消するためのツールです。 開発を進める中で、MP3ファイルのロスレスゲイン... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://dev.classmethod.jp/articles/mp3gain-resuscitation-mp3rgain/</guid>
+      <pubDate>Sun, 11 Jan 2026 00:19:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【海外記事紹介】「グラフィックスAPIなくして、ポインタでいいんじゃね？」現代GPUの力を解き放つ新発想が海外で話題に</title>
       <link>https://techfeed.io/entries/695dc2193837533862fbe411?from=rss</link>
       <description>12月17日、Sebastian Aaltonen氏が「No Graphics API」と題した記事を公開した。この記事では、現代のGPUが抱える複雑すぎる命令系統を整理し、より効率的に動かすための次世代の考え方について詳しく紹介されている。なお、本稿は初心者向けに要点をかいつまんで解説したものである。技術的な詳細や厳密な議論をより深く知りたい方は、ぜひ原文を参照していただきたい。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
@@ -44,18 +65,18 @@ GitHub Actions を使えば CI/CD を簡単に構築できますが、セキュ�
       <pubDate>Wed, 07 Jan 2026 02:16:57 +0000</pubDate>
     </item>
     <item>
-      <title>量子HPCクラウド提供をやめます。</title>
-      <link>https://zenn.dev/yuichirominato/articles/a3b33e252be9f9</link>
-      <description>こんにちは、HPCは量子シミュレーションなどが主体のものです。弊社ではGPUをベースとしたクラウドの提供をお客さんに試みてみましたが今後はクラウド単体での提供はやめます。
-引き続きコンサルティングなどの傍のクラウド利用はしばらく続けます。
-１、儲からない
-HPC自体は研究で研究費は圧縮したいという要望が強く儲かる領域でない。
-２、クラウドの運用体力がない
-弊社では半導体量子も、機械学習も、量子アプリも、どれもこれもやっていてクラウド運用を頑張りましたが、それを安定して運用する体力がありませんでした。お客様には大変ご迷惑をおかけしてすみません。
-３、実用化が見えない
-量子自体は最適化や機械... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yuichirominato/articles/a3b33e252be9f9</guid>
-      <pubDate>Fri, 09 Jan 2026 12:47:02 +0000</pubDate>
+      <title>2026年開発環境のことはじめ</title>
+      <link>https://zenn.dev/chiaoi/articles/2026_development_environment</link>
+      <description>2026年になりました。あけましておめでとうございます。
+私の2026年開始時点での開発環境が現状どのようになっているかを解説します。
+
+ 開発環境のテーマ
+昨年はAIが流行った年になりました。そこでAIフレンドリーに、、、、特にしているわけではありません。むしろ、AIをほとんど使用していません。
+
+ AIとの付き合い方
+開発をするときにAIにコードを書かせることはほとんどありません。基本的に手で書くようにしています。もちろん、AIを使用することで動くコードが書けるということは理解をしています。AIに質問をすること自体はよく行っています。書いたことのないプログラミング言語を読むときは自分... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chiaoi/articles/2026_development_environment</guid>
+      <pubDate>Sun, 11 Jan 2026 11:00:56 +0000</pubDate>
     </item>
     <item>
       <title>毛の一本まで切り抜きたい猫好きエンジニアへ送るセグメンテーション比較</title>
@@ -70,35 +91,6 @@ HPC自体は研究で研究費は圧縮したいという要望が強く儲か�
 ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/neoai/articles/segmentation</guid>
       <pubDate>Sat, 10 Jan 2026 09:07:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>この冬、育てたいGitHub Readme。Golang製のスタイリッリュなLanguage Stats SVG</title>
-      <link>https://zenn.dev/chot/articles/30b08c452795eb</link>
-      <description>はじめに
-GitHubのプロフィールページ（README）をカスタムしたくなったことはないでしょうか。
-よく見かけるカスタムパーツとして下図のような、readme-stats があります。
-
-readme stats
-
-この画像は本家の github-readme-stats とは別で自作したものです。詳細はコチラ
-
-これは、自分のアカウントのリポジトリで使用されている言語を集計し可視化したものです。個人的に好きなパーツですが、デザインに飽きてきたので、スタイリッシュなデザインかつ、Golangのキャッチアップがてら作りたいなと思ったのが今回のモチベーションです。本記事では、その紹介... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/chot/articles/30b08c452795eb</guid>
-      <pubDate>Thu, 08 Jan 2026 08:18:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>個人開発の面倒な『利用規約』を一瞬で生成するツールを1日で作ってみた</title>
-      <link>https://zenn.dev/c_shiraga/articles/9941b44f76fdc0</link>
-      <description>はじめに
-個人開発をしていて、一番面倒な瞬間ってありませんか？
-私は、「サービスは完成したのに、利用規約とプライバシーポリシーを書くのが面倒で公開できない」ときです。
-既存の雛形はWordやPDFだったり、自分のサービス内容に合わせて書き換えるのが大変だったり…。
-そんな悩みを解決するために、参考にするサイトのURLや作成したサービスの概要を入れるだけで、そのサービスに特化した規約をMarkdownで生成してくれるツールを作りました。
-https://termsmd.com/
-完全無料で、ログインも不要です。
-今回は、このツールを作った背景と、使用した技術スタックについて紹介します。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/c_shiraga/articles/9941b44f76fdc0</guid>
-      <pubDate>Wed, 07 Jan 2026 22:30:05 +0000</pubDate>
     </item>
     <item>
       <title>Appleから人材流出続く — SafariのリードデザイナーがThe Browser Companyへ移籍、加速するAIブラウザ競争</title>
