@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 12 Jan 2026 06:43:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 06:40:42 +0000</lastBuildDate>
     <item>
-      <title>自動運転マグネトロンスパッタリングシステムにおけるin-situ組成マッピングのための機械学習</title>
-      <link>https://arxiv.org/abs/2506.05999v2</link>
-      <description>自動化と機械学習（ML）を用いて実験手順を加速するセルフドライブラボ（SDL）は、新材料の発見において大きな可能性を秘めています。しかしながら、薄膜科学において、SDLは主に溶液ベースの合成法に限定されており、自動化は容易ですが、無機材料の広範な化学空間にアクセスすることはできません。本研究では、マグネトロン共スパッタリングに基づくSDLを提示します。コンビナトリアルフレームワークを用いて、多元素組成傾斜薄膜の正確な組成マップを取得します。これは通常、系統的誤差が生じやすい、時間のかかるex-situ分析を必要とします。本研究では、任意のソースの組み合わせとスパッタリング条件に対して、迅速かつキャリブレーションフリーのin-situ ML駆動型アプローチを提示します。スパッタチャンバー内に設置された水晶振動子マイクロバランスセンサーからのin-situ測定値を用いて、多元素コンビナトリアル薄膜の組成分布を予測する手法を開発します。与えられたソースに対して、センサーの読み取り値は、ガウス過程（GP）を用いた能動学習によって、スパッタリング圧力とマグネトロン電力の関数として学習されます。最 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.05999v2</guid>
-      <pubDate>Fri, 06 Jun 2025 11:38:35 +0000</pubDate>
+      <title>THETA: ロボットハンド制御における遠隔操作と自動化のための三角測量による手の状態推定</title>
+      <link>https://arxiv.org/abs/2601.07768v1</link>
+      <description>ロボットハンドの遠隔操作は、手の相対的な関節位置（XYZ）を推定するために一般的に使用される深度カメラとセンサーグローブの高コストによって制限されています。本研究では、人間の指の相対的な関節角度（θ）を概算するために、3台のウェブカメラを用いた三角測量ベースのトラッキングを用いた、費用対効果の高い斬新なアプローチを紹介します。また、TheRobotStudioの低価格ロボットハンドであるDexHandを改造したものも紹介し、THETAのリアルタイムアプリケーションを実証します。データ収集には、120度間隔で配置された3台の640x480pウェブカメラを使用して40種類の異なる手のジェスチャーが含まれ、48,000枚を超えるRGB画像が生成されました。関節角度は、MCP、PIP、およびDIPの指関節の中点を測定することで手動で決定されました。キャプチャされたRGBフレームは、マルチスケールの手のセグメンテーションのためにResNet-50バックボーンを備えたDeepLabV3セグメンテーションモデルを使用して処理されました。分割された画像はHSVフィルタリングされ、階層的空間特徴抽出に最 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.07768v1</guid>
+      <pubDate>Mon, 12 Jan 2026 17:50:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

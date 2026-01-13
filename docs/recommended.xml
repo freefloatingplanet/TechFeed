@@ -7,13 +7,50 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Jan 2026 06:43:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 06:40:35 +0000</lastBuildDate>
     <item>
-      <title>私たちが完全に理解している最も複雑なAIモデルとは何か？</title>
-      <link>https://gigazine.net/news/20260112-most-complex-ai-model/</link>
-      <description>驚異的な発展を続けるAI技術に対して、「なんだかよくわからない」という印象を持つ人は決して少なくはありませんが、AIをよく知る人でさえ同じ考えに至るようです。AIに関する教育的デジタルコンテンツを制作するWelch Labsが「現代のAIを理解している者は誰もいない」と冒頭で述べる衝撃的な動画を発信していました。 ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20260112-most-complex-ai-model/</guid>
-      <pubDate>Sun, 11 Jan 2026 15:17:12 +0000</pubDate>
+      <title>AI時代にORMなんて必要なんですかね？</title>
+      <link>https://zenn.dev/terurou/articles/55ffe7c6e5c96e</link>
+      <description>新規で構築するシステムの設計を考えていて、 「今の時代にORMなんているんか？？？」 という思いに至ったので、これを書いてます。
+
+ ORMなしでAIにDBアクセスコードを生成する
+AIでコードを生成する前提として、
+
+AIは生SQLを書くのが得意
+オブジェクトマッピングみたいなボイラープレートをAIに生成させるコストは極小（人間が手で書くとめちゃくちゃ時間がかかる）
+
+という点が挙げられます。
+そのため、AIを使う前提であれば、ORMなしで以下の作業を行っても、必要なコスト（特に時間）は極小です。
+
+ドメイン要件を伝えてSQLを生成させる
+オブジェクトマッピング処理（いわゆるDAO）を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/terurou/articles/55ffe7c6e5c96e</guid>
+      <pubDate>Fri, 09 Jan 2026 08:41:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prisma から Atlas + Kysely への移行 - Supabase 環境での実践記録</title>
+      <link>https://zenn.dev/coji/articles/prisma-to-atlas-kysely-migration-with-supabase</link>
+      <description>これはなに？
+本番環境で約2年間 Prisma を使っていたプロジェクトを、Atlas + Kysely に移行した記録です。Supabase の PostgreSQL を使っている環境だったので、いくつか注意点がありました。この記事では、移行の動機から具体的な手順、そして移行リスクを抑えるために追加した E2E テストまで、一連の流れを共有します。
+
+ プロジェクトの背景
+このプロジェクトは 2021年8月に Next.js で開発を開始し、約4年半運用しています。
+技術スタックは何度か変わっていて、最初は Next.js と Supabase SDK を使っていました。認証も S... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/coji/articles/prisma-to-atlas-kysely-migration-with-supabase</guid>
+      <pubDate>Mon, 12 Jan 2026 09:55:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>便利Neovimプラグイン紹介：undo-glow.nvim</title>
+      <link>https://zenn.dev/vim_jp/articles/00e297fcccf949</link>
+      <description>この記事はVim駅伝の2026-01-12の記事です。
+前回の記事はtakaya-ishiyamaさんのvimを終了した時の状態に復元するです。
+Vim駅伝は常に参加者を募集しています。詳しくはこちらのページをご覧ください。
+
+undo-glow.nvimというNeovimプラグインを紹介します。
+https://github.com/y3owk1n/undo-glow.nvim
+個人的に好みで以前から使っているのですが、ちょっと検索した感じでは、これを紹介している日本語情報が以下のページしかありませんでした。以下では名前を紹介しただけだったので、あまり広まっていないぽいな〜と思ってこの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/vim_jp/articles/00e297fcccf949</guid>
+      <pubDate>Sun, 11 Jan 2026 15:02:01 +0000</pubDate>
     </item>
     <item>
       <title>サムネイル画像URLはバックエンドで生成すべき</title>
@@ -30,39 +67,13 @@
       <pubDate>Sun, 11 Jan 2026 09:07:47 +0000</pubDate>
     </item>
     <item>
-      <title>医療費控除の入力が面倒すぎたので、Pythonだけで「ACCESS風」ローカル入力ツールを作った</title>
-      <link>https://qiita.com/iasou24/items/ec8070175e126c88adfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>先日は珍プレー大賞をいただきありがとうございました。
-ずっと中古ノートパソコンで作業しているので、賞金でモニターをポチしました。
-仕事に、あと今度の個展でのMVや開発アプリの表示で使う予定です。
-さて、本題。
-医療費控除の明細入力、毎年地味に面倒ではないでしょうか。
-自分は... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/iasou24/items/ec8070175e126c88adfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 09 Jan 2026 16:16:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Actions のシークレットは簡単に見れる</title>
-      <link>https://zenn.dev/enjapan/articles/github-actions-secrets</link>
+      <title>ミームコインで１万円吹き飛ばしたので、気晴らしにブロックチェーンを作ってみる</title>
+      <link>https://qiita.com/dynamite_jeyms/items/0335c6eb900430d345d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-こんにちは。エン株式会社のプラットフォームグループ（PFG）に所属している山﨑です。私が所属しているチームでは週１回輪読会を行っており、GitHub Actions の本を読んでいます。「GitHub CI/CD実践ガイド」という本で、めちゃくちゃオススメです。この記事の内容の多くは本の中で紹介されているので、気になった方は読んでみてください。
-GitHub Actions を使えば CI/CD を簡単に構築できますが、セキュリティの観点で注意しないといけないことが多くあります。セキュリティより利便性が重視されている傾向にあるため、どこにどんなリスクがあるのか把握しておくこ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/enjapan/articles/github-actions-secrets</guid>
-      <pubDate>Fri, 09 Jan 2026 00:10:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜ誰も手を付けなかったのか？ ― Vibeコーディングが解いた15年の沈黙 | DevelopersIO</title>
-      <link>https://dev.classmethod.jp/articles/mp3gain-resuscitation-mp3rgain/</link>
-      <description>ベルリンのしがひです。DJやっています。 昨日、DJ用音源のラウドネス最適化ツール「headroom」を開発したことをZennで記事にしました。RekordboxからCDJにUSBエクスポートする際、Auto Gain機能が効かないために発生するトラック間の音量差を解消するためのツールです。 開発を進める中で、MP3ファイルのロスレスゲイン... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/mp3gain-resuscitation-mp3rgain/</guid>
-      <pubDate>Sun, 11 Jan 2026 00:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】「グラフィックスAPIなくして、ポインタでいいんじゃね？」現代GPUの力を解き放つ新発想が海外で話題に</title>
-      <link>https://techfeed.io/entries/695dc2193837533862fbe411?from=rss</link>
-      <description>12月17日、Sebastian Aaltonen氏が「No Graphics API」と題した記事を公開した。この記事では、現代のGPUが抱える複雑すぎる命令系統を整理し、より効率的に動かすための次世代の考え方について詳しく紹介されている。なお、本稿は初心者向けに要点をかいつまんで解説したものである。技術的な詳細や厳密な議論をより深く知りたい方は、ぜひ原文を参照していただきたい。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/695dc2193837533862fbe411?from=rss</guid>
-      <pubDate>Wed, 07 Jan 2026 02:16:57 +0000</pubDate>
+正月早々、某先輩のミームコインに1万円を突っ込み、見事に溶かしました。
+仕事中にチャートが爆上がりしているのを見て「これはいける！」と飛び乗ったものの、3時間後に業務を終えて確認すると、資産は半分以下。 「ここで売ったら負けだ」という謎の意地でホールドし続けた結... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/dynamite_jeyms/items/0335c6eb900430d345d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sun, 11 Jan 2026 18:34:53 +0000</pubDate>
     </item>
     <item>
       <title>2026年開発環境のことはじめ</title>
@@ -79,18 +90,36 @@ GitHub Actions を使えば CI/CD を簡単に構築できますが、セキュ�
       <pubDate>Sun, 11 Jan 2026 11:00:56 +0000</pubDate>
     </item>
     <item>
-      <title>毛の一本まで切り抜きたい猫好きエンジニアへ送るセグメンテーション比較</title>
-      <link>https://zenn.dev/neoai/articles/segmentation</link>
-      <description>はじめに
-株式会社 neoAI で学生 AI エンジニアをしております、山田 祐平です。
-画像から特定の領域を切り出す セグメンテーション は、背景除去、物体カウント、画像編集、自動運転など幅広い分野で活用されている技術です。最近では、テキストで対象を指定できるモデルや、会話的に調整できるモデルも登場し、より直感的に使えるようになっています。
-一方で、選択肢が増えた分、「結局どのモデルを使えばいいの？」と迷うことも増えました。この記事では、Gemini 2.5 / SAM 3 / YOLO11 の 3 つの手法を同じ画像で実際に動かし、出力や使い勝手を比較します。
+      <title>「期待値」を超えるのが一番面白い</title>
+      <link>https://zenn.dev/k_sangaku/articles/exceeding-expectations</link>
+      <description>「期待通りのアウトプットを出したのに、なぜか手応えがない」
+そんな経験、ありませんか？
+私は何度もありました。
+依頼されたことを、依頼された通りにやった。品質も問題ない。納期も守った。
+でも、なぜか達成感がない。相手の反応も「ああ、ありがとう」という感じで、それ以上でもそれ以下でもない。
+そして、あるとき気づきました。
+「期待通り」は、実は「可もなく不可もなく」と同義なのではないか、と。
 
- TL;DR
+ はじめに
+本記事では、「期待値を超える」ということの価値と、その具体的な方法について言語化してみたいと思います。
 
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/neoai/articles/segmentation</guid>
-      <pubDate>Sat, 10 Jan 2026 09:07:08 +0000</pubDate>
+ なぜ期待値を超えることに価値があるのか
+
+ 「信頼残高」が貯まる
+期待値を超え続... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/k_sangaku/articles/exceeding-expectations</guid>
+      <pubDate>Mon, 12 Jan 2026 01:02:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>ゲームエフェクトってどうやってできてるの？</title>
+      <link>https://zenn.dev/kurie/articles/771d62b9790416</link>
+      <description>🐸ゲームエフェクトを紐解く
+ゲーム業界志望の学生さんだけではなく、映像業界など他業界のプロの方々はもちろんのこと、ゲーム開発現場であってもエフェクトを作ったことがない方々に「ゲームのエフェクトがどうやって作られているのか？」はあまり知られていない印象です。
+でも実は非常にシンプルな話で、極端に言えば「テクスチャを3Dモデルに貼って表示しているだけ」なんですよね。キャラクターや背景と同じです。なので Maya とか Blender だけで作ることもできて、下の画像は左のエフェクトを右のようなモデルで作るよというイメージの画像になります。
+
+左の画像は CGHOW さんの X の投稿から... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kurie/articles/771d62b9790416</guid>
+      <pubDate>Mon, 12 Jan 2026 07:55:49 +0000</pubDate>
     </item>
     <item>
       <title>Appleから人材流出続く — SafariのリードデザイナーがThe Browser Companyへ移籍、加速するAIブラウザ競争</title>
