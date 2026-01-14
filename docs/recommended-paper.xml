@@ -7,13 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 13 Jan 2026 06:40:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 06:40:33 +0000</lastBuildDate>
     <item>
-      <title>THETA: ロボットハンド制御における遠隔操作と自動化のための三角測量による手の状態推定</title>
-      <link>https://arxiv.org/abs/2601.07768v1</link>
-      <description>ロボットハンドの遠隔操作は、手の相対的な関節位置（XYZ）を推定するために一般的に使用される深度カメラとセンサーグローブの高コストによって制限されています。本研究では、人間の指の相対的な関節角度（θ）を概算するために、3台のウェブカメラを用いた三角測量ベースのトラッキングを用いた、費用対効果の高い斬新なアプローチを紹介します。また、TheRobotStudioの低価格ロボットハンドであるDexHandを改造したものも紹介し、THETAのリアルタイムアプリケーションを実証します。データ収集には、120度間隔で配置された3台の640x480pウェブカメラを使用して40種類の異なる手のジェスチャーが含まれ、48,000枚を超えるRGB画像が生成されました。関節角度は、MCP、PIP、およびDIPの指関節の中点を測定することで手動で決定されました。キャプチャされたRGBフレームは、マルチスケールの手のセグメンテーションのためにResNet-50バックボーンを備えたDeepLabV3セグメンテーションモデルを使用して処理されました。分割された画像はHSVフィルタリングされ、階層的空間特徴抽出に最 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2601.07768v1</guid>
-      <pubDate>Mon, 12 Jan 2026 17:50:02 +0000</pubDate>
+      <title>ミームコインコピー取引における操作的ボットへの抵抗：思考連鎖推論を用いたマルチエージェントアプローチ</title>
+      <link>https://arxiv.org/abs/2601.08641v1</link>
+      <description>トランプコインの発売は、ミームコイン投資の波を引き起こしました。深い取引知識を必要としない戦略に依存しないアプローチであるコピー取引は、ミームコイン市場で急速に普及しました。しかし、操作的なボットの蔓延、フォローされているウォレットの将来のパフォーマンスの不確実性、取引執行の遅延により、コピー取引は収益性を保証するものではありません。近年、大規模言語モデル（LLM）は、マルチモーダルデータを効果的に理解し、説明可能な意思決定を生成することで、金融アプリケーションで有望視されています。しかし、単一のLLMでは、資産配分などの複雑で多面的なタスクには苦労します。これらの課題は、LLMのトレーニングデータに十分なドメイン固有の知識が不足していることが多い暗号通貨市場では、さらに顕著になります。
+これらの課題に対処するため、ミームコインのコピー取引のための説明可能なマルチエージェントシステムを提案します。資産管理チームの構造に着想を得たこのシステムは、複雑なタスクをサブタスクに分解し、専門のエージェントを調整して協調的に解決します。各エージェントは、少量の思考連鎖（CoT）プロンプトを用いて、 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.08641v1</guid>
+      <pubDate>Tue, 13 Jan 2026 15:13:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

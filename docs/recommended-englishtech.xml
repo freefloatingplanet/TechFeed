@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 13 Jan 2026 06:40:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 06:40:38 +0000</lastBuildDate>
     <item>
       <title>大規模言語モデルの事実の正確性を評価するためにFACTSベンチマークスイートを導入</title>
       <link>https://www.infoq.com/news/2026/01/facts-benchmark-suite/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -16,11 +16,25 @@
       <pubDate>Mon, 12 Jan 2026 07:55:00 +0000</pubDate>
     </item>
     <item>
+      <title>Google、Gemini CLI 向けコンテキスト駆動開発拡張機能「Conductor」を発表</title>
+      <link>https://www.infoq.com/news/2026/01/google-conductor/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Googleは、Gemini CLIの新しいプレビュー拡張機能「Conductor」をリリースしました。Conductorは、AI支援ソフトウェア開発に構造化されたコンテキスト駆動型のアプローチを導入します。この拡張機能は、チャットベースのコーディングツールによくある限界、つまりセッション間でプロジェクトのコンテキストが失われるという問題を解決するように設計されています。Robert Krzaczyński (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/google-conductor/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 13 Jan 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>FGA：WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新興のAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appleが月額12.99ドルのアプリバンドル「Creator Studio」を開始</title>
+      <link>https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/</link>
+      <description>このバンドルには、Mac および iPad 上の Final Cut Pro、Logic Pro、Pixelmator Pro、および Mac 上の Motion、Compressor、MainStage へのアクセスが含まれています。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/</guid>
+      <pubDate>Tue, 13 Jan 2026 14:40:19 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
@@ -39,7 +53,7 @@
     <item>
       <title>プレゼンテーション: 現場からの Java 並行処理: 現場で学んだ教訓</title>
       <link>https://www.infoq.com/presentations/java-grpc-workload/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Hugo Marques氏が、Javaの大規模並列処理を、シンプルなフレームワークの枠にとらわれず、高スループットIOの課題を解決する方法を説明します。Netflixの実例を交えながら、ネストされた並列ストリームの落とし穴、セマフォによるバックプレッシャーの管理、そして制限付きエグゼキュータから仮想スレッドへの移行について解説します。JVMのパフォーマンスを最大化しながら、下流のサービスを保護する方法を学びましょう。Hugo Marques著 (source: InfoQ)</description>
+      <description>Hugo Marques氏が、Javaの大規模並列処理を巧みに活用する方法を解説します。シンプルなフレームワークの枠を超え、高スループットIOの課題を解決します。Netflixの実例を交えながら、ネストされた並列ストリームの落とし穴、セマフォによるバックプレッシャーの管理、そして制限付きエグゼキュータから仮想スレッドへの移行について解説します。JVMのパフォーマンスを最大化しながら、下流のサービスを保護する方法を学びましょう。Hugo Marques著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/java-grpc-workload/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 12 Jan 2026 13:00:00 +0000</pubDate>
     </item>
@@ -58,25 +72,11 @@
       <pubDate>Mon, 12 Jan 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ミニブック：InfoQトレンドレポート2025 eMag</title>
-      <link>https://www.infoq.com/minibooks/2025-infoq-trends-reports-emag/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>InfoQ eMagの特別版には、2025年のInfoQトレンドレポートを網羅的に収録しています。2025年は、テクノロジーとソフトウェア開発のトレンドにおいて、進化と革命が同時に起こる年です。このレポートは、単に過去1年間のテクノロジートレンドを反映するだけでなく、将来の探求とイノベーションの指針として活用したいと考えています。InfoQ (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/minibooks/2025-infoq-trends-reports-emag/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 09 Jan 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>AIエージェントセキュリティのためのCerbos：機能、価格、代替品</title>
       <link>https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</link>
       <description>Cerbosは、開発者がアプリケーションにきめ細かなアクセス制御を実装するのに役立つオープンソースの認可エンジンです。Apache 2.0ライセンスの下でリリースされており、アプリケーションが特定のアクションを許可するかどうかを判断するための、一元化されたポリシー決定ポイントを提供します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</guid>
       <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>プレゼンテーション: 高速結果整合性: Fly.io を支える分散システム Corrosion の内部</title>
-      <link>https://www.infoq.com/presentations/corrosion/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ソムトチ・オニェクウェレ氏が、低レイテンシの状態レプリケーションを実現する分散システム「Corrosion」のアーキテクチャを解説します。Fly.ioがグローバルマシンデータを処理するために、ConsulからゴシップベースのSQLiteソリューションに移行した経緯についても解説します。CRDT、SWIMプロトコル、QUICを取り上げ、CAP定理の複雑さを管理しながら速度を優先する、回復力のあるシステムを構築する方法を紹介します。ソムトチ・オニェクウェレ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/corrosion/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 09 Jan 2026 14:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

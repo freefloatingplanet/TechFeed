@@ -7,50 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Jan 2026 06:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 06:40:20 +0000</lastBuildDate>
     <item>
-      <title>AI時代にORMなんて必要なんですかね？</title>
-      <link>https://zenn.dev/terurou/articles/55ffe7c6e5c96e</link>
-      <description>新規で構築するシステムの設計を考えていて、 「今の時代にORMなんているんか？？？」 という思いに至ったので、これを書いてます。
-
- ORMなしでAIにDBアクセスコードを生成する
-AIでコードを生成する前提として、
-
-AIは生SQLを書くのが得意
-オブジェクトマッピングみたいなボイラープレートをAIに生成させるコストは極小（人間が手で書くとめちゃくちゃ時間がかかる）
-
-という点が挙げられます。
-そのため、AIを使う前提であれば、ORMなしで以下の作業を行っても、必要なコスト（特に時間）は極小です。
-
-ドメイン要件を伝えてSQLを生成させる
-オブジェクトマッピング処理（いわゆるDAO）を... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/terurou/articles/55ffe7c6e5c96e</guid>
-      <pubDate>Fri, 09 Jan 2026 08:41:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prisma から Atlas + Kysely への移行 - Supabase 環境での実践記録</title>
-      <link>https://zenn.dev/coji/articles/prisma-to-atlas-kysely-migration-with-supabase</link>
-      <description>これはなに？
-本番環境で約2年間 Prisma を使っていたプロジェクトを、Atlas + Kysely に移行した記録です。Supabase の PostgreSQL を使っている環境だったので、いくつか注意点がありました。この記事では、移行の動機から具体的な手順、そして移行リスクを抑えるために追加した E2E テストまで、一連の流れを共有します。
-
- プロジェクトの背景
-このプロジェクトは 2021年8月に Next.js で開発を開始し、約4年半運用しています。
-技術スタックは何度か変わっていて、最初は Next.js と Supabase SDK を使っていました。認証も S... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/coji/articles/prisma-to-atlas-kysely-migration-with-supabase</guid>
-      <pubDate>Mon, 12 Jan 2026 09:55:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>便利Neovimプラグイン紹介：undo-glow.nvim</title>
-      <link>https://zenn.dev/vim_jp/articles/00e297fcccf949</link>
-      <description>この記事はVim駅伝の2026-01-12の記事です。
-前回の記事はtakaya-ishiyamaさんのvimを終了した時の状態に復元するです。
-Vim駅伝は常に参加者を募集しています。詳しくはこちらのページをご覧ください。
-
-undo-glow.nvimというNeovimプラグインを紹介します。
-https://github.com/y3owk1n/undo-glow.nvim
-個人的に好みで以前から使っているのですが、ちょっと検索した感じでは、これを紹介している日本語情報が以下のページしかありませんでした。以下では名前を紹介しただけだったので、あまり広まっていないぽいな〜と思ってこの... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/vim_jp/articles/00e297fcccf949</guid>
-      <pubDate>Sun, 11 Jan 2026 15:02:01 +0000</pubDate>
+      <title>【海外記事紹介】MySQLを使うのはもうやめよう — オープンソースに背を向けた結果、衰退。</title>
+      <link>https://techfeed.io/entries/6965cb519930145c450e5eef?from=rss</link>
+      <description>1月12日、海外エンジニアのOtto氏が「Stop using MySQL in 2026, it is not true open source」と題した記事を公開した。この記事では、MySQLのオープンソースとしての形骸化と技術的な衰退、そしてMariaDBをはじめとする代替案への移行の必要性について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6965cb519930145c450e5eef?from=rss</guid>
+      <pubDate>Tue, 13 Jan 2026 04:34:25 +0000</pubDate>
     </item>
     <item>
       <title>サムネイル画像URLはバックエンドで生成すべき</title>
@@ -67,13 +30,15 @@ https://github.com/y3owk1n/undo-glow.nvim
       <pubDate>Sun, 11 Jan 2026 09:07:47 +0000</pubDate>
     </item>
     <item>
-      <title>ミームコインで１万円吹き飛ばしたので、気晴らしにブロックチェーンを作ってみる</title>
-      <link>https://qiita.com/dynamite_jeyms/items/0335c6eb900430d345d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-正月早々、某先輩のミームコインに1万円を突っ込み、見事に溶かしました。
-仕事中にチャートが爆上がりしているのを見て「これはいける！」と飛び乗ったものの、3時間後に業務を終えて確認すると、資産は半分以下。 「ここで売ったら負けだ」という謎の意地でホールドし続けた結... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/dynamite_jeyms/items/0335c6eb900430d345d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sun, 11 Jan 2026 18:34:53 +0000</pubDate>
+      <title>2025年の AI コーディングの振り返り</title>
+      <link>https://zenn.dev/hololab/articles/28f84cfcdfea9d</link>
+      <description>昨年末から隙間時間に少しずつ書いてて気づいたらもう 1 月も半ばになってしまいましたが、2025年に恐らく一番時間を割いたであろう AI コーディングに関しての振り返りです。
+なるべく先に現在どうしてるのかを書き、その後に過去の変遷を書いていく形にしたので、興味のある部分だけ読んでいただければと思います。
+
+ 前提
+特定のツールや特定の LLM に対しての感想や評価の記事を見てよく思うのは、人によって同じものに対して評価が全然違うという事です。これは人それぞれプロンプトなどの指示や使い方のクセが違いますし、対象となる技術領域や規模感なんかも違います。そして、LLM やツールもそれぞれ得意... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hololab/articles/28f84cfcdfea9d</guid>
+      <pubDate>Tue, 13 Jan 2026 06:27:51 +0000</pubDate>
     </item>
     <item>
       <title>2026年開発環境のことはじめ</title>
@@ -90,25 +55,33 @@ https://github.com/y3owk1n/undo-glow.nvim
       <pubDate>Sun, 11 Jan 2026 11:00:56 +0000</pubDate>
     </item>
     <item>
-      <title>「期待値」を超えるのが一番面白い</title>
-      <link>https://zenn.dev/k_sangaku/articles/exceeding-expectations</link>
-      <description>「期待通りのアウトプットを出したのに、なぜか手応えがない」
-そんな経験、ありませんか？
-私は何度もありました。
-依頼されたことを、依頼された通りにやった。品質も問題ない。納期も守った。
-でも、なぜか達成感がない。相手の反応も「ああ、ありがとう」という感じで、それ以上でもそれ以下でもない。
-そして、あるとき気づきました。
-「期待通り」は、実は「可もなく不可もなく」と同義なのではないか、と。
+      <title>Zennの自動翻訳機能から学ぶプロダクト開発の難しさ</title>
+      <link>https://zenn.dev/akari1106/articles/993e42b4430f36</link>
+      <description>はじめに
+2026年1月、Zennに自動翻訳機能が導入されました。著者が翻訳を許可した記事について、記事URLに?locale=enをつけることで英語版が読めるようになったのです。
+当初はデフォルトでONになっていたこの機能、賛否両論を呼び、運営は速やかにデフォルトOFFへと変更しました。この一連の流れを見て、私は「プロダクト開発って本当に難しいな」と改めて感じました。
+今回は、Zennの自動翻訳機能を題材に、プロダクト開発における様々な視点や課題について考えてみたいと思います。
+まあいわゆるそういう訓練というか備忘録も兼ねてるよんって話です。
 
- はじめに
-本記事では、「期待値を超える」ということの価値と、その具体的な方法について言語化してみたいと思います。
+ 何が起きたのか
+まず、時系列関係を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/akari1106/articles/993e42b4430f36</guid>
+      <pubDate>Mon, 12 Jan 2026 13:53:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>スマホでコードを書くという選択肢</title>
+      <link>https://zenn.dev/sijiaoh/articles/377abc8cc28f92</link>
+      <description>スマホでコードを書きたい。
+電車の中、散歩の途中、ちょっとした待ち時間。PCを開けない場面で、ふとコードのことが気になる。あの関数、あのバグ、あの機能。でもスマホでは記号の入力が絶望的で、実用的ではありません。
+私もそう思っていました。
 
- なぜ期待値を超えることに価値があるのか
-
- 「信頼残高」が貯まる
-期待値を超え続... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/k_sangaku/articles/exceeding-expectations</guid>
-      <pubDate>Mon, 12 Jan 2026 01:02:41 +0000</pubDate>
+ コーディングエージェントとの出会い
+コーディングエージェントを本格的に使い始めて、考えが変わりました。
+自然言語がコードになる。「この関数をリファクタリングして」と言えば、リファクタリングされる。「テストを追加して」と言えば、テストが書かれる。コマンドの実行もできます。
+これだ、と思いました。
+自然言語でコーディングができるなら、スマホでもいけるので... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sijiaoh/articles/377abc8cc28f92</guid>
+      <pubDate>Mon, 12 Jan 2026 09:45:44 +0000</pubDate>
     </item>
     <item>
       <title>ゲームエフェクトってどうやってできてるの？</title>
@@ -134,6 +107,13 @@ https://github.com/y3owk1n/undo-glow.nvim
       <description>1月9日、Phoronixが「Linus Torvalds: "The AI Slop Issue Is NOT Going To Be Solved With Documentation"」と題した記事を公開した。この記事では、Linuxカーネル開発におけるAI生成パッチ（AI Slop）への対応指針と、それに対するリーナス・トーバルズ氏の見解について詳しく紹介されている。以下に、その内容を紹介する。Linuxカーネルの開発コミュニティでは、現在、AI（大規模言語モデル）などのツールを用いて生成されたソースコードの投稿（パッチ）に関するガイドライン策定が進められている。この議論の背景には、コーディングアシスタントの普及により、AIが生成した不適切なコード（AI Slop）が大量に投稿され、開発現場の負担が増大することへの懸念がある。これに対し、Linuxの創始者であるリーナス・トーバルズ氏は、メーリングリストにて極めて現実的な見解を示した。同氏は、AIを特別視してドキュメントを整備することに懐疑的であり、AIを「単なる一つの道具」として扱うべきだと主張している。リーナス氏が投稿した主 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6960617d36a9803e0398b154?from=rss</guid>
       <pubDate>Fri, 09 Jan 2026 02:01:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>TechFeedの次なる挑戦。Hajimariグループへのジョインについて、創業者からのメッセージ</title>
+      <link>https://techfeed.io/entries/695dc631e9ec4a337135323c?from=rss</link>
+      <description>TechFeedユーザーのみなさま、そしてエンジニアコミュニティのみなさまへ。TechFeed代表の白石です。 今日は、TechFeedの未来に向けた大きな一歩について、ぼくの言葉で直接お伝えさせてください。この度、TechFeedは株式会社Hajimariにジョインすることになりました。なぜ、Hajimariなのか10年以上前のことですが、ぼくはかつて「html5j」という大きなWebエンジニアコミュニティを運営していました。その中で、活気あるコミュニティを運営する喜びを存分に味わうとともに、運営の難しさや、関係者の方々に対して十分な価値を提供できない苦しさを痛感してきました。その経験から生まれたのがTechFeedです。「すべてのエンジニアに必携のツールを」という理想を掲げ、今日まで走り続けてきましたが、正直に言えば スタートアップとしての歩みは苦しいことの連続でした。それでも今日まで続けられたのは、一緒に汗を流した仲間、力を貸してくださるエキスパートのみなさま、そして何よりTechFeedを日常的に使ってくださるユーザーのみなさまがいたからです。本当にありがとうございます。そして (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/695dc631e9ec4a337135323c?from=rss</guid>
+      <pubDate>Wed, 14 Jan 2026 05:50:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
