@@ -7,27 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Jan 2026 06:40:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 06:40:19 +0000</lastBuildDate>
+    <item>
+      <title>油井亀美也宇宙飛行士、1月15日に地球に帰還へ–クルーの健康上の理由で前倒し</title>
+      <link>https://uchubiz.com/article/new68655/</link>
+      <description>NASAとSpaceXは、油井亀美也宇宙飛行士が搭乗するクルードラゴン宇宙船（Crew-11）の、国際宇宙ステーション（ISS）からの離脱と地球帰還の予定日時を発表した。日本時間1月15日7時00分以降にISSを離脱し […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new68655/</guid>
+      <pubDate>Sun, 11 Jan 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Space BD、衛星開発の即戦力人材を養成するプログラム「HURDLES」を初提供–山形大学と契約</title>
       <link>https://uchubiz.com/article/new68597/</link>
       <description>Space BD（東京都中央区）は1月8日、衛星開発の即戦力人材を養成するプログラム「HURDLES（ハードルズ）」を初めて提供すると発表した。山形大学と「超小型人工衛星（ベニバナ・サット）プロジェクト支援業務（令和7 […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new68597/</guid>
       <pubDate>Thu, 08 Jan 2026 04:39:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>京都の老舗町工場「HILLTOP」に宇宙スタートアップがこぞって頼る理由–24時間動く無人工場を現地取材</title>
-      <link>https://uchubiz.com/article/new68511/</link>
-      <description>20社を超える日本の宇宙スタートアップから宇宙機部品の発注依頼が相次ぐ町工場が京都にある。最短5日の超短納期で、試作から量産までをトータルに支援するHILLTOP（ヒルトップ）だ。国内にとどまらず、某米国法人の宇宙機関 […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new68511/</guid>
-      <pubDate>Wed, 31 Dec 2025 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ベテルギウスで観測される長周期の変光は伴星の“航跡”が引き起こしている可能性</title>
-      <link>https://sorae.info/astronomy/20260109-betelgeuse-siwarha.html</link>
-      <description>こちらは、オリオン座の一等星「Betelgeuse（ベテルギウス）」とその伴星「Siwarha（シワルハ）」を、最新の研究成果にもとづいて描いたイメージ図。 巨大な赤色超巨星であるBetelgeuse、その周囲に広がった… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260109-betelgeuse-siwarha.html</guid>
-      <pubDate>Fri, 09 Jan 2026 01:48:56 +0000</pubDate>
     </item>
     <item>
       <title>スペースXがライドシェアミッション「Twilight」の打ち上げを実施　系外惑星観測衛星「Pandora」などを投入</title>
@@ -37,11 +30,18 @@
       <pubDate>Mon, 12 Jan 2026 04:20:42 +0000</pubDate>
     </item>
     <item>
-      <title>KeysightとKT SAT、静止軌道と低軌道の衛星で、通信を途切れさせずに切り替える実証に成功【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/44050/</link>
-      <description>2025年12月11日、計測機器などに強みを持つKeysightと、衛星通信事業を手がけるKT SATは、静止軌道（GEO）衛星と低軌道（LEO）を模擬した回線の間で、通信を途切れさせずに切り替える実証に成功したと発表しました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/44050/</guid>
-      <pubDate>Sun, 04 Jan 2026 23:04:08 +0000</pubDate>
+      <title>ispaceとJAXA、月域の宇宙ゴミ対策や廃棄物の管理について検討</title>
+      <link>https://uchubiz.com/article/new68708/</link>
+      <description>ispace（東京都中央区）は1月14日、宇宙航空研究開発機構（JAXA）と「月域におけるスペースデブリの低減と廃棄管理に関する推奨事項に係る検討」について契約を締結したと発表した。 　現在、国連（COPUOS）やIA […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new68708/</guid>
+      <pubDate>Wed, 14 Jan 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASAと米エネルギー省、2030年までの「月面原子炉」実現に向けて署名</title>
+      <link>https://uchubiz.com/article/new68701/</link>
+      <description>NASAと米国エネルギー省（DOE）は、アルテミス計画や火星探査ミッションに向けて、月面での核分裂表面発電システムの研究開発を支援するという新たなコミットメントを発表した。 　両機関が署名した覚書は、2030年までに月 […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new68701/</guid>
+      <pubDate>Wed, 14 Jan 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>火星の雷の観測に成功　探査機が捉えた音で確認</title>
@@ -58,18 +58,18 @@
       <pubDate>Tue, 13 Jan 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>木星が見頃！2026年1月10日に「衝」を迎える太陽系最大の惑星を観測しよう</title>
-      <link>https://sorae.info/astronomy/20260107-jupiter-opposition.html</link>
-      <description>太陽系最大の惑星「木星」が、2026年1月10日17時42分ごろ（※）にいよいよ「衝（しょう）」を迎えます。衝の前後は地球との距離が大きく縮み、木星が一晩を通して見やすくなるため、観測の好機となります。 冬の澄んだ夜空を… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260107-jupiter-opposition.html</guid>
-      <pubDate>Fri, 09 Jan 2026 09:10:04 +0000</pubDate>
+      <title>Frontier Innovationsの西村竜彦氏・浜野豊氏が語る、日本の宇宙産業10年の変化とエコシステムの「2周目」【前編】</title>
+      <link>https://sorabatake.jp/44231/</link>
+      <description>2026年1月時点で宇宙スタートアップ6社が東証グロース市場に名を連ねています。直近の10年で日本の宇宙産業がどう変化したのか、日本の宇宙産業のエコシステムに何が求められているのか、Frontier Innovationsの西村竜彦さん、浜野豊さんのお二人に伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/44231/</guid>
+      <pubDate>Wed, 14 Jan 2026 23:00:51 +0000</pubDate>
     </item>
     <item>
-      <title>“宇宙ゴム” とプレソーラー粒子　【小惑星ベンヌのサンプルから多種多様な物質を発見（後編）】</title>
-      <link>https://sorae.info/astronomy/20260108-bennu-sample-2.html</link>
-      <description>炭素質小惑星「ベンヌ（ベヌー）」には、生命の構成要素となる様々な種類の有機分子や、太陽系誕生以前の物質など、非常に多様な物質が含まれていると考えられています。これらの物質について詳しく分析することは、地球やヒトなどの存在… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260108-bennu-sample-2.html</guid>
-      <pubDate>Thu, 08 Jan 2026 12:00:05 +0000</pubDate>
+      <title>「共感できるかどうか」Frontier Innovationsの西村竜彦氏・浜野豊氏が明かす、スタートアップ投資・支援で大切にしていること【後編】</title>
+      <link>https://sorabatake.jp/44241/</link>
+      <description>日本の宇宙産業の10年の変化とエコシステムの発展について、Frontier Innovationsの西村竜彦さんと浜野豊さんにお話を伺った特別インタビューの後編。投資判断の具体的なプロセスや第2世代・第3世代の宇宙スタートアップに対する期待について伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/44241/</guid>
+      <pubDate>Wed, 14 Jan 2026 23:01:00 +0000</pubDate>
     </item>
     <item>
       <title>ガスの流れの最大速度は毎秒1000km以上　ハッブルが観測したハービッグ・ハロー天体「HH 80/81」</title>

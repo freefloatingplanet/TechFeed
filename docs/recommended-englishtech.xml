@@ -7,34 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Jan 2026 06:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 06:40:27 +0000</lastBuildDate>
     <item>
-      <title>大規模言語モデルの事実の正確性を評価するためにFACTSベンチマークスイートを導入</title>
-      <link>https://www.infoq.com/news/2026/01/facts-benchmark-suite/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>LLMの事実的正確性を体系的に評価することを目的とした新たな業界ベンチマークが、FACTSベンチマークスイートのリリースとともに公開されました。FACTSチームがKaggleと共同で開発したこのスイートは、事実的根拠に関するこれまでの研究を拡張し、言語モデルが事実的に正しい応答をどれだけ確実に生成するかを測定するための、より広範で多次元的なフレームワークを導入しています。Robert Krzaczyński著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/facts-benchmark-suite/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 12 Jan 2026 07:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google、Gemini CLI 向けコンテキスト駆動開発拡張機能「Conductor」を発表</title>
-      <link>https://www.infoq.com/news/2026/01/google-conductor/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Googleは、Gemini CLIの新しいプレビュー拡張機能「Conductor」をリリースしました。Conductorは、AI支援ソフトウェア開発に構造化されたコンテキスト駆動型のアプローチを導入します。この拡張機能は、チャットベースのコーディングツールによくある限界、つまりセッション間でプロジェクトのコンテキストが失われるという問題を解決するように設計されています。Robert Krzaczyński (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/google-conductor/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 13 Jan 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FGA：WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
-      <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新興のAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Appleが月額12.99ドルのアプリバンドル「Creator Studio」を開始</title>
-      <link>https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/</link>
-      <description>このバンドルには、Mac および iPad 上の Final Cut Pro、Logic Pro、Pixelmator Pro、および Mac 上の Motion、Compressor、MainStage へのアクセスが含まれています。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/</guid>
-      <pubDate>Tue, 13 Jan 2026 14:40:19 +0000</pubDate>
+      <title>AI搭載コードエディタ「Cursor」が動的コンテキスト検出を導入し、トークン効率を向上</title>
+      <link>https://www.infoq.com/news/2026/01/cursor-dynamic-context-discovery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Cursorは、大規模言語モデルへのリクエストのコンテキストサイズを最小限に抑える新しいアプローチを導入しました。「動的コンテキスト検出」と呼ばれるこの手法は、大量の静的コンテキストを事前に含める必要がなくなり、エージェントが必要な情報のみを動的に取得できるようになります。これによりトークンの使用量が減少し、混乱を招く可能性のある、あるいは無関係な詳細情報の組み込みが制限されます。Sergio De Simone著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/cursor-dynamic-context-discovery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 14 Jan 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
@@ -44,6 +23,13 @@
       <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
     </item>
     <item>
+      <title>プレゼンテーション: 現場からの Java 並行処理: 現場で学んだ教訓</title>
+      <link>https://www.infoq.com/presentations/java-grpc-workload/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Hugo Marques氏が、Javaの大規模並列処理を巧みに活用する方法を解説します。シンプルなフレームワークの枠を超え、高スループットIOの課題を解決します。Netflixの実例を交えながら、ネストされた並列ストリームの落とし穴、セマフォによるバックプレッシャーの管理、そして制限付きエグゼキュータから仮想スレッドへの移行について解説します。JVMのパフォーマンスを最大化しながら、下流のサービスを保護する方法を学びましょう。Hugo Marques著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/java-grpc-workload/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 12 Jan 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Okta から Python アプリにユーザーを同期する方法</title>
       <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</link>
       <description>わずか数行のコードで、SCIM、Okta、Python、WorkOS を使用してアプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
@@ -51,11 +37,11 @@
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション: 現場からの Java 並行処理: 現場で学んだ教訓</title>
-      <link>https://www.infoq.com/presentations/java-grpc-workload/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Hugo Marques氏が、Javaの大規模並列処理を巧みに活用する方法を解説します。シンプルなフレームワークの枠を超え、高スループットIOの課題を解決します。Netflixの実例を交えながら、ネストされた並列ストリームの落とし穴、セマフォによるバックプレッシャーの管理、そして制限付きエグゼキュータから仮想スレッドへの移行について解説します。JVMのパフォーマンスを最大化しながら、下流のサービスを保護する方法を学びましょう。Hugo Marques著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/java-grpc-workload/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 12 Jan 2026 13:00:00 +0000</pubDate>
+      <title>WorkOS Pipes: 面倒な手間なくサードパーティ製品との統合を実現</title>
+      <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
+      <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。そこで、OAuthフロー、トークン管理、プロバイダー設定を自動化するPipesを開発しました。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
@@ -72,11 +58,25 @@
       <pubDate>Mon, 12 Jan 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>BandcampはAI音楽に反対し、プラットフォームからそれを禁止する立場を取った。</title>
+      <link>https://techcrunch.com/2026/01/14/bandcamp-takes-a-stand-against-ai-music-banning-it-from-the-platform/</link>
+      <description>「ミュージシャンには音楽を作り続けてほしいし、ファンにはバンドキャンプで見つけた音楽が人間によって作られたものだと確信してほしい」と同社は述べた。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/01/14/bandcamp-takes-a-stand-against-ai-music-banning-it-from-the-platform/</guid>
+      <pubDate>Wed, 14 Jan 2026 17:06:04 +0000</pubDate>
+    </item>
+    <item>
       <title>AIエージェントセキュリティのためのCerbos：機能、価格、代替品</title>
       <link>https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</link>
       <description>Cerbosは、開発者がアプリケーションにきめ細かなアクセス制御を実装するのに役立つオープンソースの認可エンジンです。Apache 2.0ライセンスの下でリリースされており、アプリケーションが特定のアクションを許可するかどうかを判断するための、一元化されたポリシー決定ポイントを提供します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</guid>
       <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>プレゼンテーション: 効果的な文化の実現: 永続的な成功を推進する包括的リーダーシップ</title>
+      <link>https://www.infoq.com/presentations/inclusive-leadership/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>マシュー・カード氏がBBCでリーダーシップとインクルーシビティの交差点について語ります。彼は、ハードルを単に上げるのではなく「変える」ことで、チームのダイナミクスを変革できると説明します。信頼、心理的安全性、そしてレジリエンスのための「C.A.P.S.」と「D.O.S.E.」というフレームワークを取り上げ、エンジニアリングリーダーが有害な行動を排除し、多様な人材が活躍するための実践的な戦略を共有します。マシュー・カード著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/inclusive-leadership/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 14 Jan 2026 14:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

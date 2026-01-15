@@ -7,14 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Jan 2026 06:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 06:40:22 +0000</lastBuildDate>
     <item>
-      <title>ミームコインコピー取引における操作的ボットへの抵抗：思考連鎖推論を用いたマルチエージェントアプローチ</title>
-      <link>https://arxiv.org/abs/2601.08641v1</link>
-      <description>トランプコインの発売は、ミームコイン投資の波を引き起こしました。深い取引知識を必要としない戦略に依存しないアプローチであるコピー取引は、ミームコイン市場で急速に普及しました。しかし、操作的なボットの蔓延、フォローされているウォレットの将来のパフォーマンスの不確実性、取引執行の遅延により、コピー取引は収益性を保証するものではありません。近年、大規模言語モデル（LLM）は、マルチモーダルデータを効果的に理解し、説明可能な意思決定を生成することで、金融アプリケーションで有望視されています。しかし、単一のLLMでは、資産配分などの複雑で多面的なタスクには苦労します。これらの課題は、LLMのトレーニングデータに十分なドメイン固有の知識が不足していることが多い暗号通貨市場では、さらに顕著になります。
-これらの課題に対処するため、ミームコインのコピー取引のための説明可能なマルチエージェントシステムを提案します。資産管理チームの構造に着想を得たこのシステムは、複雑なタスクをサブタスクに分解し、専門のエージェントを調整して協調的に解決します。各エージェントは、少量の思考連鎖（CoT）プロンプトを用いて、 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2601.08641v1</guid>
-      <pubDate>Tue, 13 Jan 2026 15:13:41 +0000</pubDate>
+      <title>感染症の動態を局所的に制御するための差分プライバシー連合学習</title>
+      <link>https://arxiv.org/abs/2509.14024v2</link>
+      <description>感染症の流行時には、流行の拡大を緩和するために迅速な対応が必要です。この対応において、局所的なアプローチには、必要なリソースを制限し、大規模な介入の影響を軽減できるなど、いくつかの利点があります。しかし、利用可能なデータが限られているため、ローカル規模で別の機械学習（ML）モデルをトレーニングすることは多くの場合実現可能ではありません。データの集中化も、その高い機密性とプライバシーの制約のために困難です。本研究では、関連する地方保健当局（LHA）によって管理されているドイツの郡とコミュニティに基づく局所的な戦略を検討します。詳細な状況データの可用性に反しないプライバシーの保護のために、公衆衛生の専門家と意思決定者を支援できるプライバシー保護予測方法を提案します。連合学習（FL）を備えたML手法は、生データを集中化することなく共有モデルをトレーニングします。郡、コミュニティ、またはLHAをクライアントと見なし、有用性とプライバシーのバランスを見つけることで、クライアントレベルの差分プライバシー（DP）を備えたFLフレームワークを研究します。症例数を予測するために、最近の症例数のスライディ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.14024v2</guid>
+      <pubDate>Wed, 17 Sep 2025 14:28:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,27 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Jan 2026 06:40:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 06:40:15 +0000</lastBuildDate>
     <item>
-      <title>【海外記事紹介】MySQLを使うのはもうやめよう — オープンソースに背を向けた結果、衰退。</title>
-      <link>https://techfeed.io/entries/6965cb519930145c450e5eef?from=rss</link>
-      <description>1月12日、海外エンジニアのOtto氏が「Stop using MySQL in 2026, it is not true open source」と題した記事を公開した。この記事では、MySQLのオープンソースとしての形骸化と技術的な衰退、そしてMariaDBをはじめとする代替案への移行の必要性について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6965cb519930145c450e5eef?from=rss</guid>
-      <pubDate>Tue, 13 Jan 2026 04:34:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>サムネイル画像URLはバックエンドで生成すべき</title>
-      <link>https://zenn.dev/catatsuy/articles/4070de849114e0</link>
-      <description>最初に三行まとめ
-
-サムネイル画像のURLはフロントエンドで組み立てず、バックエンドで生成して返す
-理由は「後方互換性」と「CDNキャッシュ効率」
-画面サイズ最適化はJavaScriptの計算ではなくpicture/srcsetでブラウザに選ばせる
-
-最近はサムネイル画像を静的に全パターン作るより、変換を動的に行い、CDNでキャッシュしていく設計が一般的になってきました。すると「画面サイズはフロントエンドが知っているのだから、JavaScriptで最適なwidthを計算してURLに付ければいいのでは？」という発想が出てきます。
-しかし、この実装は明確に危険で、やってはいけません。画像UR... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/catatsuy/articles/4070de849114e0</guid>
-      <pubDate>Sun, 11 Jan 2026 09:07:47 +0000</pubDate>
+      <title>コーディングを楽しめなくなった、あなたへ</title>
+      <link>https://zenn.dev/coconala/articles/e1ba22510836fc</link>
+      <description>1. 正直、最近コーディングが「作業」になってきた
+エンジニア4年目になった。
+新人の頃は、自分の書いたコードが動くだけで嬉しかった。console.log が出力されるだけで「おお」と思ったし、APIからデータが返ってきた時は本気で感動した。先輩のコードを読んで「なんだこの魔法は」と思いながら、少しずつ自分でも書けるようになっていく。あの頃は毎日が発見だった。
+でも最近、その感覚がほとんどない。
+いや、できることは明らかに増えた。設計もするし、レビューもする。後輩に教えることもある。一人で機能を丸ごと任されることも増えた。「成長してる」と言われれば、たぶんそうなんだと思う。
+ただ、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/coconala/articles/e1ba22510836fc</guid>
+      <pubDate>Tue, 13 Jan 2026 03:58:36 +0000</pubDate>
     </item>
     <item>
       <title>2025年の AI コーディングの振り返り</title>
@@ -41,47 +32,28 @@
       <pubDate>Tue, 13 Jan 2026 06:27:51 +0000</pubDate>
     </item>
     <item>
-      <title>2026年開発環境のことはじめ</title>
-      <link>https://zenn.dev/chiaoi/articles/2026_development_environment</link>
-      <description>2026年になりました。あけましておめでとうございます。
-私の2026年開始時点での開発環境が現状どのようになっているかを解説します。
-
- 開発環境のテーマ
-昨年はAIが流行った年になりました。そこでAIフレンドリーに、、、、特にしているわけではありません。むしろ、AIをほとんど使用していません。
-
- AIとの付き合い方
-開発をするときにAIにコードを書かせることはほとんどありません。基本的に手で書くようにしています。もちろん、AIを使用することで動くコードが書けるということは理解をしています。AIに質問をすること自体はよく行っています。書いたことのないプログラミング言語を読むときは自分... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/chiaoi/articles/2026_development_environment</guid>
-      <pubDate>Sun, 11 Jan 2026 11:00:56 +0000</pubDate>
+      <title>【海外記事紹介】Anthropic、Pythonコミュニティに莫大な寄付を行い称賛と歓迎の声 — セキュリティ向上や専任開発者の支援、コミュニティ活性化などに期待が高まる</title>
+      <link>https://techfeed.io/entries/6967443ca38a81760a365c15?from=rss</link>
+      <description>1月14日、Anthropicが「Anthropic has made a large contribution to the Python Software Foundation and open source security」と題した記事を公開した。この記事では、AnthropicによるPythonソフトウェア財団（PSF）への大規模な寄付と、それを通じたオープンソースエコシステムのセキュリティ強化について詳しく紹介されている。以下に、その内容を紹介する。AnthropicによるPSFへの150万ドルの投資AIスタートアップのAnthropicが、今後2年間にわたり総額150万ドル（約2億2,000万円）をPythonソフトウェア財団（PSF）に寄付することが明らかとなった。この歴史的な寄付は、主にPythonエコシステムのセキュリティ向上を支援することを目的としている。この資金提供により、PSFはセキュリティロードマップの策定を加速させ、数百万人のPythonユーザーやPyPI（Python Package Index）利用者をサプライチェーン攻撃から保護するための取り組みを強 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6967443ca38a81760a365c15?from=rss</guid>
+      <pubDate>Wed, 14 Jan 2026 07:22:36 +0000</pubDate>
     </item>
     <item>
-      <title>Zennの自動翻訳機能から学ぶプロダクト開発の難しさ</title>
-      <link>https://zenn.dev/akari1106/articles/993e42b4430f36</link>
+      <title>Claude「Cowork」を試してみた - コーディング不要でClaude Codeの力を使えるようになった</title>
+      <link>https://zenn.dev/lnest_knowledge/articles/0b763e2ccf1bd8</link>
       <description>はじめに
-2026年1月、Zennに自動翻訳機能が導入されました。著者が翻訳を許可した記事について、記事URLに?locale=enをつけることで英語版が読めるようになったのです。
-当初はデフォルトでONになっていたこの機能、賛否両論を呼び、運営は速やかにデフォルトOFFへと変更しました。この一連の流れを見て、私は「プロダクト開発って本当に難しいな」と改めて感じました。
-今回は、Zennの自動翻訳機能を題材に、プロダクト開発における様々な視点や課題について考えてみたいと思います。
-まあいわゆるそういう訓練というか備忘録も兼ねてるよんって話です。
+2025年1月12日、AnthropicからClaude Desktopの新機能「Cowork」がリサーチプレビューとして公開されました。
 
- 何が起きたのか
-まず、時系列関係を... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/akari1106/articles/993e42b4430f36</guid>
-      <pubDate>Mon, 12 Jan 2026 13:53:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>スマホでコードを書くという選択肢</title>
-      <link>https://zenn.dev/sijiaoh/articles/377abc8cc28f92</link>
-      <description>スマホでコードを書きたい。
-電車の中、散歩の途中、ちょっとした待ち時間。PCを開けない場面で、ふとコードのことが気になる。あの関数、あのバグ、あの機能。でもスマホでは記号の入力が絶望的で、実用的ではありません。
-私もそう思っていました。
+Coworkのサイドバー画面
+簡単に言うと、Claude Codeの技術をコーディング以外の作業に使えるようにしたものです。ターミナル操作なしで、デスクトップアプリから直接使えます。
+この記事では、実際にCoworkを使ってみた感想と、どんなことができるのかを紹介します。
 
- コーディングエージェントとの出会い
-コーディングエージェントを本格的に使い始めて、考えが変わりました。
-自然言語がコードになる。「この関数をリファクタリングして」と言えば、リファクタリングされる。「テストを追加して」と言えば、テストが書かれる。コマンドの実行もできます。
-これだ、と思いました。
-自然言語でコーディングができるなら、スマホでもいけるので... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sijiaoh/articles/377abc8cc28f92</guid>
-      <pubDate>Mon, 12 Jan 2026 09:45:44 +0000</pubDate>
+ Coworkとは
+Coworkは、ローカルのフォルダをClaudeに共有して、ファイルの読み取り・編集・作成を任せられる機能です。
+
+フォルダを指定してCowo... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/lnest_knowledge/articles/0b763e2ccf1bd8</guid>
+      <pubDate>Tue, 13 Jan 2026 08:24:00 +0000</pubDate>
     </item>
     <item>
       <title>ゲームエフェクトってどうやってできてるの？</title>
@@ -95,18 +67,60 @@
       <pubDate>Mon, 12 Jan 2026 07:55:49 +0000</pubDate>
     </item>
     <item>
-      <title>Appleから人材流出続く — SafariのリードデザイナーがThe Browser Companyへ移籍、加速するAIブラウザ競争</title>
-      <link>https://techfeed.io/entries/696064ed3837533862fca10d?from=rss</link>
-      <description>1月9日、MacRumorsが「Apple Loses Safari Lead Designer to The Browser Company」と題した記事を公開した。この記事では、AppleのSafariチームでリードデザイナーを務めていたMarco Triverio（マルコ・トリヴェリオ）氏が、The Browser Companyへ移籍したことについて詳しく紹介されている。以下に、その内容を紹介する。AppleのSafariチームから、また一人シニアクラスの重要人物が去った。リードデザイナーを務めていたTriverio氏が、ArcやDiaといったブラウザを開発するThe Browser Companyに加入したのである。これは、AI主導のブラウザ競争が激化する中、Appleのブラウザチームから注目度の高い人材が流出するパターンが継続していることを示唆している。巨大なバックボーンを得た「挑戦者」の立ち位置今回の移籍の背景には、The Browser Companyを取り巻く環境の劇的な変化がある。同社は2025年9月、ソフトウェア大手のAtlassian（アトラシアン）によって約6 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/696064ed3837533862fca10d?from=rss</guid>
-      <pubDate>Fri, 09 Jan 2026 02:16:13 +0000</pubDate>
+      <title>Antigravityにエンジニアリングの未来を見た</title>
+      <link>https://zenn.dev/innovation/articles/ce0f4b638fd86c</link>
+      <description>!
+この記事の構成・執筆には、Google DeepMindのAdvanced Agentic Coding Assistant「Antigravity」を使用しています。
+
+
+ はじめに
+きっかけは、昨年の年末に妻から言われた一言でした。
+「なんかいいファミリーカレンダーアプリないかな？ 有名なやついくつか試したんだけど、どれも痒い所に手が及がないんだよね」
+帯に短し襷に長し。既存のアプリでは、我が家の運用に微妙にフィットしない。エンジニアなら誰もが一度は経験する「それなら自分で作った方が早いのでは？」という衝動に駆られる瞬間です。
+ただ、年末年始の休みを使ってゼロからコードを書くの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/innovation/articles/ce0f4b638fd86c</guid>
+      <pubDate>Tue, 13 Jan 2026 03:00:44 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】Linuxカーネル開発とAI Slop問題、リーナス・トーバルズ氏がメーリングリストで一喝 — 「AI Slopをドキュメントで解決できると思うのは、ただの世間知らずだ」</title>
-      <link>https://techfeed.io/entries/6960617d36a9803e0398b154?from=rss</link>
-      <description>1月9日、Phoronixが「Linus Torvalds: "The AI Slop Issue Is NOT Going To Be Solved With Documentation"」と題した記事を公開した。この記事では、Linuxカーネル開発におけるAI生成パッチ（AI Slop）への対応指針と、それに対するリーナス・トーバルズ氏の見解について詳しく紹介されている。以下に、その内容を紹介する。Linuxカーネルの開発コミュニティでは、現在、AI（大規模言語モデル）などのツールを用いて生成されたソースコードの投稿（パッチ）に関するガイドライン策定が進められている。この議論の背景には、コーディングアシスタントの普及により、AIが生成した不適切なコード（AI Slop）が大量に投稿され、開発現場の負担が増大することへの懸念がある。これに対し、Linuxの創始者であるリーナス・トーバルズ氏は、メーリングリストにて極めて現実的な見解を示した。同氏は、AIを特別視してドキュメントを整備することに懐疑的であり、AIを「単なる一つの道具」として扱うべきだと主張している。リーナス氏が投稿した主 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6960617d36a9803e0398b154?from=rss</guid>
-      <pubDate>Fri, 09 Jan 2026 02:01:33 +0000</pubDate>
+      <title>【海外記事紹介】Linux向けマルウェアフレームワーク「VoidLink」が発見される — 高度かつ多彩な攻撃を可能に、Linuxサーバー管理者にとっての脅威となる可能性</title>
+      <link>https://techfeed.io/entries/69673eb1a38a81760a365ab2?from=rss</link>
+      <description>1月14日、Ars Technicaが「Never-before-seen Linux malware is “far more advanced than typical”」と題した記事を公開した。この記事では、高度な機能を備え、これまでに類を見ないLinux向けマルウェア・フレームワーク「VoidLink」について詳しく紹介されている。以下に、その内容を紹介する。リサーチチームは、広範なモジュール群を用いてLinuxマシンに感染する、これまでに確認されたことのない新しいフレームワークを発見した。このフレームワークは、攻撃者に対して非常に高度かつ多彩な機能を提供する点が特徴である。ソースコード内では「VoidLink」と呼ばれるこのフレームワークは、30以上のモジュールを備えており、感染したマシンごとに攻撃者のニーズに合わせて機能をカスタマイズすることが可能だ。これらのモジュールは、追加の隠蔽機能、偵察用の特定ツール、権限昇格、および侵害されたネットワーク内でのラテラルムーブメント（横展開）といった機能を提供する。各コンポーネントは、キャンペーンの進展に伴う目的の変化に応じて、容易に (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/69673eb1a38a81760a365ab2?from=rss</guid>
+      <pubDate>Wed, 14 Jan 2026 06:58:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI開発時代の矜持 ― AIに書かせたコードに責任を負うということ</title>
+      <link>https://zenn.dev/plusone/articles/8255b1f428232c</link>
+      <description>はじめに
+生成AIによる開発は、すでに実用段階に入っている。
+いまや、プログラミング経験が浅くても、
+それなりに複雑な構造を持つコードを手に入れることができる。
+この変化自体は、歓迎すべきものだ。
+参入のハードルが下がり、
+試し、学び、作る機会が広がったことに疑いはない。
+一方で、ふと立ち止まって考えてみたくなる場面も増えてきた。
+「本当に、それでよいのだろうか」と。
+初心者が初心者である理由は、能力の不足ではない。
+多くの場合、経験がまだ足りないだけだ。
+試行錯誤し、失敗し、考え直す過程そのものが、
+開発者を育ててきた。
+ところが、GAIがあまりにも至れり尽くせりになると、
+その過... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/plusone/articles/8255b1f428232c</guid>
+      <pubDate>Tue, 13 Jan 2026 00:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLMの中身を覗いてみたら、Transformerは「回路」を形成していた</title>
+      <link>https://zenn.dev/50s_zerotohero/articles/a6189c891fbd71</link>
+      <description>はじめに
+LLM（大規模言語モデル）は、「次に来るトークンを予測するモデル」だと言われます。
+では実際に、その判断はどのように行われているのでしょうか？
+本記事では、IOI（Indirect Object Identification）というシンプルなタスクを題材に、LLMの内部で何が起きているのかを覗いてみます。
+結論を先に言うと、Transformerは単に確率を計算しているのではなく、学習を通じて「どの情報をどう処理するか」という “回路” を内部に形成していきます。"回路" と呼ぶのは、電子回路のように、特定の情報が特定の経路を通って処理されるためです。
+
+ 本記事の想定読者... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/50s_zerotohero/articles/a6189c891fbd71</guid>
+      <pubDate>Mon, 12 Jan 2026 01:51:33 +0000</pubDate>
     </item>
     <item>
       <title>TechFeedの次なる挑戦。Hajimariグループへのジョインについて、創業者からのメッセージ</title>
