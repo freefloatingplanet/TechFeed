@@ -7,36 +7,89 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Jan 2026 06:40:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 06:40:12 +0000</lastBuildDate>
     <item>
-      <title>コーディングを楽しめなくなった、あなたへ</title>
-      <link>https://zenn.dev/coconala/articles/e1ba22510836fc</link>
-      <description>1. 正直、最近コーディングが「作業」になってきた
-エンジニア4年目になった。
-新人の頃は、自分の書いたコードが動くだけで嬉しかった。console.log が出力されるだけで「おお」と思ったし、APIからデータが返ってきた時は本気で感動した。先輩のコードを読んで「なんだこの魔法は」と思いながら、少しずつ自分でも書けるようになっていく。あの頃は毎日が発見だった。
-でも最近、その感覚がほとんどない。
-いや、できることは明らかに増えた。設計もするし、レビューもする。後輩に教えることもある。一人で機能を丸ごと任されることも増えた。「成長してる」と言われれば、たぶんそうなんだと思う。
-ただ、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/coconala/articles/e1ba22510836fc</guid>
-      <pubDate>Tue, 13 Jan 2026 03:58:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025年の AI コーディングの振り返り</title>
-      <link>https://zenn.dev/hololab/articles/28f84cfcdfea9d</link>
-      <description>昨年末から隙間時間に少しずつ書いてて気づいたらもう 1 月も半ばになってしまいましたが、2025年に恐らく一番時間を割いたであろう AI コーディングに関しての振り返りです。
-なるべく先に現在どうしてるのかを書き、その後に過去の変遷を書いていく形にしたので、興味のある部分だけ読んでいただければと思います。
+      <title>Reactの魔法を理解する</title>
+      <link>https://zenn.dev/gaomond/articles/7c69f904c53ceb</link>
+      <description>僕はバックエンドエンジニアなんですが、モノを作ろうとするとどうしてもフロントを触る必要があります。
+ここではReactを触れるようになるための最低限の知識をまとめておこうと思います。
+できるだけ「なぜそうなるのか？」を深堀りながら書きたいと思います。
+AI使いながら書いてます。Reactの公式ドキュメントも参考にしてます。
 
- 前提
-特定のツールや特定の LLM に対しての感想や評価の記事を見てよく思うのは、人によって同じものに対して評価が全然違うという事です。これは人それぞれプロンプトなどの指示や使い方のクセが違いますし、対象となる技術領域や規模感なんかも違います。そして、LLM やツールもそれぞれ得意... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hololab/articles/28f84cfcdfea9d</guid>
-      <pubDate>Tue, 13 Jan 2026 06:27:51 +0000</pubDate>
+Reactのコードは初見には「魔法」だらけです。急に出てきたreact hooksという呪文を丸暗記するのは辛い。hooks導入の背景を理解し、呪文を呪文で無くします。
+
+ 1. 原理原則: UI = f(state)
+
+Reactのすべては、この数式に集約されます... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/gaomond/articles/7c69f904c53ceb</guid>
+      <pubDate>Wed, 14 Jan 2026 04:57:48 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】Anthropic、Pythonコミュニティに莫大な寄付を行い称賛と歓迎の声 — セキュリティ向上や専任開発者の支援、コミュニティ活性化などに期待が高まる</title>
-      <link>https://techfeed.io/entries/6967443ca38a81760a365c15?from=rss</link>
-      <description>1月14日、Anthropicが「Anthropic has made a large contribution to the Python Software Foundation and open source security」と題した記事を公開した。この記事では、AnthropicによるPythonソフトウェア財団（PSF）への大規模な寄付と、それを通じたオープンソースエコシステムのセキュリティ強化について詳しく紹介されている。以下に、その内容を紹介する。AnthropicによるPSFへの150万ドルの投資AIスタートアップのAnthropicが、今後2年間にわたり総額150万ドル（約2億2,000万円）をPythonソフトウェア財団（PSF）に寄付することが明らかとなった。この歴史的な寄付は、主にPythonエコシステムのセキュリティ向上を支援することを目的としている。この資金提供により、PSFはセキュリティロードマップの策定を加速させ、数百万人のPythonユーザーやPyPI（Python Package Index）利用者をサプライチェーン攻撃から保護するための取り組みを強 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6967443ca38a81760a365c15?from=rss</guid>
-      <pubDate>Wed, 14 Jan 2026 07:22:36 +0000</pubDate>
+      <title>Claude Codeの並列実行を効率化する管理アプリを作った</title>
+      <link>https://zenn.dev/akino/articles/4e1b949594b6ca</link>
+      <description>こんにちは、秋野です。Xでもチームや組織でのAI開発効率化を発信してます。ぜひフォローいただけますと幸いです🙏
+
+ 作ったもの
+Claude Codeで、複数のターミナルウィンドウで並行してセッションを実行していると「あのセッションは今何をしているのか？」「権限の入力待ちになっていないか？」といった状況を把握するのが難しくなりがちです。
+この課題を解決するために、Claude Code Monitor（リアルタイム監視ダッシュボード）を自作しました。Claude Code Hooksを活用してイベントを収集し、WebSocketでWebUIに即座に反映します。
+画面UI
+
+実際に動かして... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/akino/articles/4e1b949594b6ca</guid>
+      <pubDate>Wed, 14 Jan 2026 22:10:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeに別のAIエージェント（Codex等）を相談役として付けてみた</title>
+      <link>https://zenn.dev/hiropon22/articles/599e0d5a7517b3</link>
+      <description>きっかけ
+Claude Codeには日頃から大変お世話になっていますが、完全にお任せというわけにも行かないのが実情です。
+
+
+計画段階でのレビュー - 「そのアプローチで大丈夫？」と確認したい
+
+実装中の軌道修正 - おかしな方向に進みそうなときに相談に乗りたい
+
+完了時のチェック - 見落としがないか確認したい
+
+結局、横についていないと不安で、ちょくちょく様子を見に行く必要がありました。 Claude Codeが自律的に良い判断をしてくれれば、もっと任せられるのに... と思っていました。
+そんなとき、CodexがMCPサーバの機能を持っていることを知りました。「自分の代わりにC... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hiropon22/articles/599e0d5a7517b3</guid>
+      <pubDate>Wed, 14 Jan 2026 00:56:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rust+Wasmで爆速ライフゲームを作って動く壁紙にする</title>
+      <link>https://zenn.dev/108_twil3akine/articles/rust-wasm-lifegame-wallpaper</link>
+      <description>はじめに
+Rust と WebAssembly（Wasm）の学習として、コンウェイのライフゲームを作成しました。
+ただブラウザで動かすだけでは面白くないので、Windows の「Lively Wallpaper」を使って、自分のデスクトップ壁紙としてヌルヌル動かすところまでをゴールにしています。
+成果物はこんな感じです
+
+ライフゲームが動いてる図
+1000×1000 を超える巨大なグリッドでも 60fps で動作します。
+この記事では、Rust によるロジック実装、特に JavaScript（以下JS）と Wasm 間での配列受け渡しをゼロコピーにする最適化と、それを Lively ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/108_twil3akine/articles/rust-wasm-lifegame-wallpaper</guid>
+      <pubDate>Wed, 14 Jan 2026 16:06:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Gemini】社内の風景写真を「新海誠風」に変換して、資料作成の素材不足を解決してみた</title>
+      <link>https://zenn.dev/medirom_tech/articles/b12ba64c57d413</link>
+      <description>はじめに
+こんにちは、P3です。
+普段はデザイナーでもエンジニアでもなく、ITシステム部門で働きつつ、たまに広報としてカメラを構えて社内撮影などをしています。
+本記事は、「Geminiを活用して、自前の写真からリッチな素材を作る」 というテーマで、前後編の2回に分けてお届けします！
+
+
+第1回（今回）： 【Gemini】社内の風景写真を「新海誠風」に変換して、資料作成の素材不足を解決してみた
+
+
+
+第2回（次回）： 生成した画像への「文字入れ」デザイン編（※近日公開予定）
+
+突然ですが、社内向けの資料や登壇資料を作る際、「いい感じの社内の写真」 がなくて困ることはありませんか？
+
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/medirom_tech/articles/b12ba64c57d413</guid>
+      <pubDate>Wed, 14 Jan 2026 10:08:03 +0000</pubDate>
     </item>
     <item>
       <title>Claude「Cowork」を試してみた - コーディング不要でClaude Codeの力を使えるようになった</title>
@@ -82,52 +135,26 @@ Coworkは、ローカルのフォルダをClaudeに共有して、ファイル�
       <pubDate>Tue, 13 Jan 2026 03:00:44 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】Linux向けマルウェアフレームワーク「VoidLink」が発見される — 高度かつ多彩な攻撃を可能に、Linuxサーバー管理者にとっての脅威となる可能性</title>
-      <link>https://techfeed.io/entries/69673eb1a38a81760a365ab2?from=rss</link>
-      <description>1月14日、Ars Technicaが「Never-before-seen Linux malware is “far more advanced than typical”」と題した記事を公開した。この記事では、高度な機能を備え、これまでに類を見ないLinux向けマルウェア・フレームワーク「VoidLink」について詳しく紹介されている。以下に、その内容を紹介する。リサーチチームは、広範なモジュール群を用いてLinuxマシンに感染する、これまでに確認されたことのない新しいフレームワークを発見した。このフレームワークは、攻撃者に対して非常に高度かつ多彩な機能を提供する点が特徴である。ソースコード内では「VoidLink」と呼ばれるこのフレームワークは、30以上のモジュールを備えており、感染したマシンごとに攻撃者のニーズに合わせて機能をカスタマイズすることが可能だ。これらのモジュールは、追加の隠蔽機能、偵察用の特定ツール、権限昇格、および侵害されたネットワーク内でのラテラルムーブメント（横展開）といった機能を提供する。各コンポーネントは、キャンペーンの進展に伴う目的の変化に応じて、容易に (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/69673eb1a38a81760a365ab2?from=rss</guid>
-      <pubDate>Wed, 14 Jan 2026 06:58:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI開発時代の矜持 ― AIに書かせたコードに責任を負うということ</title>
-      <link>https://zenn.dev/plusone/articles/8255b1f428232c</link>
+      <title>「横のガードレール」でAIにアーキテクチャを教えるのをやめた話</title>
+      <link>https://zenn.dev/hideyuki_toyama/articles/horizontal-guard-rails</link>
       <description>はじめに
-生成AIによる開発は、すでに実用段階に入っている。
-いまや、プログラミング経験が浅くても、
-それなりに複雑な構造を持つコードを手に入れることができる。
-この変化自体は、歓迎すべきものだ。
-参入のハードルが下がり、
-試し、学び、作る機会が広がったことに疑いはない。
-一方で、ふと立ち止まって考えてみたくなる場面も増えてきた。
-「本当に、それでよいのだろうか」と。
-初心者が初心者である理由は、能力の不足ではない。
-多くの場合、経験がまだ足りないだけだ。
-試行錯誤し、失敗し、考え直す過程そのものが、
-開発者を育ててきた。
-ところが、GAIがあまりにも至れり尽くせりになると、
-その過... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/plusone/articles/8255b1f428232c</guid>
-      <pubDate>Tue, 13 Jan 2026 00:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLMの中身を覗いてみたら、Transformerは「回路」を形成していた</title>
-      <link>https://zenn.dev/50s_zerotohero/articles/a6189c891fbd71</link>
-      <description>はじめに
-LLM（大規模言語モデル）は、「次に来るトークンを予測するモデル」だと言われます。
-では実際に、その判断はどのように行われているのでしょうか？
-本記事では、IOI（Indirect Object Identification）というシンプルなタスクを題材に、LLMの内部で何が起きているのかを覗いてみます。
-結論を先に言うと、Transformerは単に確率を計算しているのではなく、学習を通じて「どの情報をどう処理するか」という “回路” を内部に形成していきます。"回路" と呼ぶのは、電子回路のように、特定の情報が特定の経路を通って処理されるためです。
+AI駆動開発、やってますか？
+Claude Code や Codex に「クリーンアーキテクチャ+DDDで実装して」と指示すると、最初はある程度きれいなコードが出てきます。でも1週間後、気づいたらドメイン層が infrastructure を import してたり、UseCase に presentation のロジックが混入してたり。
+仕様駆動でも最初の構成は作れる。しかし人の介入なしには維持できない。
+この問題、どう解決すればいいんでしょうか。
+!
+この記事は note で書いた「縦と横のガードレール」の実装版です。思想的な背景が気になる方は、先にそちらをどうぞ。
 
- 本記事の想定読者... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/50s_zerotohero/articles/a6189c891fbd71</guid>
-      <pubDate>Mon, 12 Jan 2026 01:51:33 +0000</pubDate>
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hideyuki_toyama/articles/horizontal-guard-rails</guid>
+      <pubDate>Wed, 14 Jan 2026 23:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>TechFeedの次なる挑戦。Hajimariグループへのジョインについて、創業者からのメッセージ</title>
-      <link>https://techfeed.io/entries/695dc631e9ec4a337135323c?from=rss</link>
-      <description>TechFeedユーザーのみなさま、そしてエンジニアコミュニティのみなさまへ。TechFeed代表の白石です。 今日は、TechFeedの未来に向けた大きな一歩について、ぼくの言葉で直接お伝えさせてください。この度、TechFeedは株式会社Hajimariにジョインすることになりました。なぜ、Hajimariなのか10年以上前のことですが、ぼくはかつて「html5j」という大きなWebエンジニアコミュニティを運営していました。その中で、活気あるコミュニティを運営する喜びを存分に味わうとともに、運営の難しさや、関係者の方々に対して十分な価値を提供できない苦しさを痛感してきました。その経験から生まれたのがTechFeedです。「すべてのエンジニアに必携のツールを」という理想を掲げ、今日まで走り続けてきましたが、正直に言えば スタートアップとしての歩みは苦しいことの連続でした。それでも今日まで続けられたのは、一緒に汗を流した仲間、力を貸してくださるエキスパートのみなさま、そして何よりTechFeedを日常的に使ってくださるユーザーのみなさまがいたからです。本当にありがとうございます。そして (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/695dc631e9ec4a337135323c?from=rss</guid>
-      <pubDate>Wed, 14 Jan 2026 05:50:07 +0000</pubDate>
+      <title>Wikipedia、MetaやMicrosoftらAI大手5社とライセンス契約を締結 — AI開発の「フリーライド」に終止符か</title>
+      <link>https://techfeed.io/entries/6969adc4705e2846906a37f4?from=rss</link>
+      <description>1月16日、Ars Technicaが「Wikipedia will share content with AI firms in new licensing deals」と題した記事を公開した。この記事では、ウィキメディア財団が大手AI企業各社と締結した、Wikipediaコンテンツの利用に関する新たなライセンス契約について詳しく紹介されている。以下に、その内容を紹介する。ウィキメディア財団は1月15日（現地時間）、Microsoft、Meta、Amazon、Perplexity、およびMistral AIの5社とライセンス契約を締結したことを発表した。この提携により、Microsoft CopilotやChatGPTなどのAIアシスタントを支える大規模言語モデル（LLM）のトレーニングにおいて、Wikipediaのコンテンツを商用利用するための枠組みが拡大されることとなる。これまで、これらの企業の多くは許可を得ることなくWikipediaのデータをスクレイピング（自動収集）して利用してきた経緯がある。しかし、今回の契約締結により、主要なAI開発企業の多くが「Wikimedia En (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6969adc4705e2846906a37f4?from=rss</guid>
+      <pubDate>Fri, 16 Jan 2026 03:17:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Jan 2026 06:40:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 06:40:19 +0000</lastBuildDate>
     <item>
-      <title>感染症の動態を局所的に制御するための差分プライバシー連合学習</title>
-      <link>https://arxiv.org/abs/2509.14024v2</link>
-      <description>感染症の流行時には、流行の拡大を緩和するために迅速な対応が必要です。この対応において、局所的なアプローチには、必要なリソースを制限し、大規模な介入の影響を軽減できるなど、いくつかの利点があります。しかし、利用可能なデータが限られているため、ローカル規模で別の機械学習（ML）モデルをトレーニングすることは多くの場合実現可能ではありません。データの集中化も、その高い機密性とプライバシーの制約のために困難です。本研究では、関連する地方保健当局（LHA）によって管理されているドイツの郡とコミュニティに基づく局所的な戦略を検討します。詳細な状況データの可用性に反しないプライバシーの保護のために、公衆衛生の専門家と意思決定者を支援できるプライバシー保護予測方法を提案します。連合学習（FL）を備えたML手法は、生データを集中化することなく共有モデルをトレーニングします。郡、コミュニティ、またはLHAをクライアントと見なし、有用性とプライバシーのバランスを見つけることで、クライアントレベルの差分プライバシー（DP）を備えたFLフレームワークを研究します。症例数を予測するために、最近の症例数のスライディ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.14024v2</guid>
-      <pubDate>Wed, 17 Sep 2025 14:28:04 +0000</pubDate>
+      <title>CROCS: スマートメーターデータを用いた行動中心の消費者セグメンテーションのための2段階クラスタリングフレームワーク</title>
+      <link>https://arxiv.org/abs/2601.10494v1</link>
+      <description>再生可能エネルギーの統合と電化への広範な推進による不確実性の高まりに電力系統運用者が直面する中、需要側管理（DSM）、特にデマンドレスポンス（DR）は、現代の電力システムの需給バランス調整における費用対効果の高いメカニズムとして大きな注目を集めています。スマートメーターの世界的な導入が進むにつれて、かつてないほど大量の消費データが得られ、実際の使用行動に基づいた消費者セグメンテーションが可能になり、より効果的なDSMおよびDRプログラムの設計に役立つことが期待されます。しかし、既存のクラスタリングベースのセグメンテーション手法は、消費者の行動の多様性を十分に反映しておらず、多くの場合、厳格な時間的整合に依存し、異常、欠損データ、または大規模な導入がある場合には機能不全に陥ります。
+これらの課題に対処するため、我々は新しい2段階クラスタリングフレームワーク、クラスター化表現最適化消費者セグメンテーション（CROCS）を提案します。第1段階では、各消費者の日々の負荷プロファイルを個別にクラスタリングして代表負荷セット（RLS）を形成し、典型的な日中の消費行動の簡潔な概要を提供します。第2段 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.10494v1</guid>
+      <pubDate>Thu, 15 Jan 2026 15:13:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
