@@ -7,7 +7,61 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Jan 2026 06:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 06:36:43 +0000</lastBuildDate>
+    <item>
+      <title>jjを使っていて驚いた「1変更1コミット」という哲学</title>
+      <link>https://zenn.dev/imudak/articles/jj-gerrit-philosophy</link>
+      <description>jjを使っていて驚いた「1変更1コミット」という哲学
+
+ はじめに
+前回の記事でjj (Jujutsu) の基本的な使い方を紹介しました。ファイルの変更が自動で記録され、コミットメッセージを後から書けるという便利さに魅了されて使い始めたのですが、使っているうちにもっと根本的な思想の違いに気づいてしまいました。
+それは「1つの修正に対して1つのコミット（change）を使い、説明を上書きしていく」というスタイルです。作業履歴はローカルにとどめ、共有するのは1つのchangeのみ。issueやPRに対してもchangeは1つで、手元の作業履歴をどんどん修正していきます。
+これは、Git/... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/imudak/articles/jj-gerrit-philosophy</guid>
+      <pubDate>Thu, 15 Jan 2026 10:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rust アプリケーションにおける実践的トランザクション設計</title>
+      <link>https://zenn.dev/poi2/articles/68e3d158a6d4b9</link>
+      <description>はじめに
+Rust でエンタープライズアプリケーションを構築する際、トランザクション管理の設計と実装が壁となります。
+所有権システムの制約により、他言語では当たり前のパターンが適用できず、多くの開発者が実装に悩むポイントとなっています。
+本記事では、実際のプロダクション環境で使用できる実装パターンを、具体的なコード例とともに解説します。
+Rust におけるスタンダードな DB アクセスライブラリーである SeaORM と sqlx の両方での実装を通じて、実践的なアプローチを提示します。
+本記事では、PostgreSQL や MySQL のようなトランザクション機能を持つ RDBMS... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/poi2/articles/68e3d158a6d4b9</guid>
+      <pubDate>Wed, 14 Jan 2026 15:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>カメラが回る開発現場で学ぶ、エンジニアがビジネスで成長するための5つの視点</title>
+      <link>https://qiita.com/GIFCat/items/9529bb67ac6ab6857b79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>「開発風景を撮影させてください」
+
+そう言われた時、正直戸惑いました。
+エンジニアとして、コードを書いている姿をカメラに収められることへの抵抗感。でも、後にこのドキュメンタリー撮影が、私のエンジニアとしての成長を大きく後押ししてくれました。
+今回は、伝統工芸×AIエージェ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/GIFCat/items/9529bb67ac6ab6857b79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 16 Jan 2026 00:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>コーディングを楽しめなくなった、あなたへ</title>
+      <link>https://zenn.dev/coconala/articles/e1ba22510836fc</link>
+      <description>1. 正直、最近コーディングが「作業」になってきた
+エンジニア4年目になった。
+新人の頃は、自分の書いたコードが動くだけで嬉しかった。console.log が出力されるだけで「おお」と思ったし、APIからデータが返ってきた時は本気で感動した。先輩のコードを読んで「なんだこの魔法は」と思いながら、少しずつ自分でも書けるようになっていく。あの頃は毎日が発見だった。
+でも最近、その感覚がほとんどない。
+いや、できることは明らかに増えた。設計もするし、レビューもする。後輩に教えることもある。一人で機能を丸ごと任されることも増えた。「成長してる」と言われれば、たぶんそうなんだと思う。
+ただ、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/coconala/articles/e1ba22510836fc</guid>
+      <pubDate>Tue, 13 Jan 2026 03:58:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI に指示するのではなく、まずは AI に質問させた方が捗る</title>
+      <link>https://zenn.dev/hataluck/articles/d347a5011cf71e</link>
+      <description>はじめに 頭の中には手順や判断のポイントがあるのに、それを明文化出来ていない。 その結果、関係者間で前提が共有されないまま話が進み議論がすれ違ってしまう、ということがあると思います。 これは、暗黙知が言語化されていない状態です。 そしてこれは、 AI ≒ LLM を使う上でも同じ課題に直面します。 頭の中にある... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/hataluck/articles/d347a5011cf71e</guid>
+      <pubDate>Thu, 15 Jan 2026 23:47:32 +0000</pubDate>
+    </item>
     <item>
       <title>Reactの魔法を理解する</title>
       <link>https://zenn.dev/gaomond/articles/7c69f904c53ceb</link>
@@ -25,114 +79,35 @@ Reactのすべては、この数式に集約されます... (source: Zennのト�
       <pubDate>Wed, 14 Jan 2026 04:57:48 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeの並列実行を効率化する管理アプリを作った</title>
-      <link>https://zenn.dev/akino/articles/4e1b949594b6ca</link>
-      <description>こんにちは、秋野です。Xでもチームや組織でのAI開発効率化を発信してます。ぜひフォローいただけますと幸いです🙏
+      <title>信頼できないソフトウェアと、どう付き合うか</title>
+      <link>https://zenn.dev/chot/articles/b07162a685ca99</link>
+      <description>そのコマンド、本当に信頼しているだろうか
+Webフロントエンド開発では npx が良く使われていますよね。インストール不要で一発でコマンドを実行できて便利だと思います。
+MCP サーバーや AI 関連ツールも同じ配布形態が多くて、 npx のほかにもPythonを呼びだす uvx や pipx が使われることも。
+Web上に書かれているこれらのコマンドを実行するとき、なにをどこまで信頼しているのかが曖昧になりがちです。
+開発者を信頼しているのか、プラットフォームを信頼しているのか、評判を信頼しているのか、じぶんのコンピュータの防御を信頼しているのか。
 
- 作ったもの
-Claude Codeで、複数のターミナルウィンドウで並行してセッションを実行していると「あのセッションは今何をしているのか？」「権限の入力待ちになっていないか？」といった状況を把握するのが難しくなりがちです。
-この課題を解決するために、Claude Code Monitor（リアルタイム監視ダッシュボード）を自作しました。Claude Code Hooksを活用してイベントを収集し、WebSocketでWebUIに即座に反映します。
-画面UI
-
-実際に動かして... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/akino/articles/4e1b949594b6ca</guid>
-      <pubDate>Wed, 14 Jan 2026 22:10:05 +0000</pubDate>
+ 安全だと錯覚してしまう
+イン... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chot/articles/b07162a685ca99</guid>
+      <pubDate>Thu, 15 Jan 2026 09:02:27 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeに別のAIエージェント（Codex等）を相談役として付けてみた</title>
-      <link>https://zenn.dev/hiropon22/articles/599e0d5a7517b3</link>
-      <description>きっかけ
-Claude Codeには日頃から大変お世話になっていますが、完全にお任せというわけにも行かないのが実情です。
-
-
-計画段階でのレビュー - 「そのアプローチで大丈夫？」と確認したい
-
-実装中の軌道修正 - おかしな方向に進みそうなときに相談に乗りたい
-
-完了時のチェック - 見落としがないか確認したい
-
-結局、横についていないと不安で、ちょくちょく様子を見に行く必要がありました。 Claude Codeが自律的に良い判断をしてくれれば、もっと任せられるのに... と思っていました。
-そんなとき、CodexがMCPサーバの機能を持っていることを知りました。「自分の代わりにC... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hiropon22/articles/599e0d5a7517b3</guid>
-      <pubDate>Wed, 14 Jan 2026 00:56:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rust+Wasmで爆速ライフゲームを作って動く壁紙にする</title>
-      <link>https://zenn.dev/108_twil3akine/articles/rust-wasm-lifegame-wallpaper</link>
-      <description>はじめに
-Rust と WebAssembly（Wasm）の学習として、コンウェイのライフゲームを作成しました。
-ただブラウザで動かすだけでは面白くないので、Windows の「Lively Wallpaper」を使って、自分のデスクトップ壁紙としてヌルヌル動かすところまでをゴールにしています。
-成果物はこんな感じです
-
-ライフゲームが動いてる図
-1000×1000 を超える巨大なグリッドでも 60fps で動作します。
-この記事では、Rust によるロジック実装、特に JavaScript（以下JS）と Wasm 間での配列受け渡しをゼロコピーにする最適化と、それを Lively ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/108_twil3akine/articles/rust-wasm-lifegame-wallpaper</guid>
-      <pubDate>Wed, 14 Jan 2026 16:06:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Gemini】社内の風景写真を「新海誠風」に変換して、資料作成の素材不足を解決してみた</title>
-      <link>https://zenn.dev/medirom_tech/articles/b12ba64c57d413</link>
-      <description>はじめに
-こんにちは、P3です。
-普段はデザイナーでもエンジニアでもなく、ITシステム部門で働きつつ、たまに広報としてカメラを構えて社内撮影などをしています。
-本記事は、「Geminiを活用して、自前の写真からリッチな素材を作る」 というテーマで、前後編の2回に分けてお届けします！
-
-
-第1回（今回）： 【Gemini】社内の風景写真を「新海誠風」に変換して、資料作成の素材不足を解決してみた
-
-
-
-第2回（次回）： 生成した画像への「文字入れ」デザイン編（※近日公開予定）
-
-突然ですが、社内向けの資料や登壇資料を作る際、「いい感じの社内の写真」 がなくて困ることはありませんか？
-
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/medirom_tech/articles/b12ba64c57d413</guid>
-      <pubDate>Wed, 14 Jan 2026 10:08:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude「Cowork」を試してみた - コーディング不要でClaude Codeの力を使えるようになった</title>
-      <link>https://zenn.dev/lnest_knowledge/articles/0b763e2ccf1bd8</link>
-      <description>はじめに
-2025年1月12日、AnthropicからClaude Desktopの新機能「Cowork」がリサーチプレビューとして公開されました。
-
-Coworkのサイドバー画面
-簡単に言うと、Claude Codeの技術をコーディング以外の作業に使えるようにしたものです。ターミナル操作なしで、デスクトップアプリから直接使えます。
-この記事では、実際にCoworkを使ってみた感想と、どんなことができるのかを紹介します。
-
- Coworkとは
-Coworkは、ローカルのフォルダをClaudeに共有して、ファイルの読み取り・編集・作成を任せられる機能です。
-
-フォルダを指定してCowo... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lnest_knowledge/articles/0b763e2ccf1bd8</guid>
-      <pubDate>Tue, 13 Jan 2026 08:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ゲームエフェクトってどうやってできてるの？</title>
-      <link>https://zenn.dev/kurie/articles/771d62b9790416</link>
-      <description>🐸ゲームエフェクトを紐解く
-ゲーム業界志望の学生さんだけではなく、映像業界など他業界のプロの方々はもちろんのこと、ゲーム開発現場であってもエフェクトを作ったことがない方々に「ゲームのエフェクトがどうやって作られているのか？」はあまり知られていない印象です。
-でも実は非常にシンプルな話で、極端に言えば「テクスチャを3Dモデルに貼って表示しているだけ」なんですよね。キャラクターや背景と同じです。なので Maya とか Blender だけで作ることもできて、下の画像は左のエフェクトを右のようなモデルで作るよというイメージの画像になります。
-
-左の画像は CGHOW さんの X の投稿から... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kurie/articles/771d62b9790416</guid>
-      <pubDate>Mon, 12 Jan 2026 07:55:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Antigravityにエンジニアリングの未来を見た</title>
-      <link>https://zenn.dev/innovation/articles/ce0f4b638fd86c</link>
+      <title>Emacsに浮気してしまったVimmerが2026年に思うこと</title>
+      <link>https://zenn.dev/laraochan/articles/c2d8ce9525f096</link>
       <description>!
-この記事の構成・執筆には、Google DeepMindのAdvanced Agentic Coding Assistant「Antigravity」を使用しています。
+この記事はVim駅伝の2026-01-16の記事です！！
+前回の記事はKamiyamaさんの2026年になったのでVSCodeからNeovimへ移行しましたです。
+Vim駅伝は常に参加者を募集しています。詳しくはこちらのページをご覧ください。
 
 
  はじめに
-きっかけは、昨年の年末に妻から言われた一言でした。
-「なんかいいファミリーカレンダーアプリないかな？ 有名なやついくつか試したんだけど、どれも痒い所に手が及がないんだよね」
-帯に短し襷に長し。既存のアプリでは、我が家の運用に微妙にフィットしない。エンジニアなら誰もが一度は経験する「それなら自分で作った方が早いのでは？」という衝動に駆られる瞬間です。
-ただ、年末年始の休みを使ってゼロからコードを書くの... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/innovation/articles/ce0f4b638fd86c</guid>
-      <pubDate>Tue, 13 Jan 2026 03:00:44 +0000</pubDate>
+この記事では学生から現在の社会人一年目までの間、Vimを使ってきた自分が、2026年になってEmacsを再燃した理由を気楽に述べていく記事になっております。
+これは宗教改宗の話とかの話ではなく、どちらがいいと断定するものではありません！
+Vimについてももちろんこれからも愛し設定し続けていこうと思っています！！
+Vimmerとし... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/laraochan/articles/c2d8ce9525f096</guid>
+      <pubDate>Thu, 15 Jan 2026 19:22:50 +0000</pubDate>
     </item>
     <item>
       <title>「横のガードレール」でAIにアーキテクチャを教えるのをやめた話</title>

@@ -7,34 +7,41 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Jan 2026 06:40:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 06:36:55 +0000</lastBuildDate>
+    <item>
+      <title>中東全域の著名なGmailおよびWhatsAppユーザーを標的としたハッキングキャンペーンの経緯</title>
+      <link>https://techcrunch.com/2026/01/16/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/</link>
+      <description>このフィッシング攻撃はイラン系英国人活動家を含むWhatsAppのユーザーを標的とし、レバノンの閣僚と少なくとも1人のジャーナリストの認証情報を盗んだ。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/01/16/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/</guid>
+      <pubDate>Fri, 16 Jan 2026 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>350PB、数百万件のイベントを1つのシステムで：Uberのクロスリージョン・データレイクと災害復旧の仕組み</title>
+      <link>https://www.infoq.com/news/2026/01/uber-hivesync-data-lake/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>UberのHiveSyncは、複数のリージョン間でHive/HDFSデータの一貫性を維持する、シャード化されたクロスリージョンバッチレプリケーションシステムです。1日あたり500万件のHiveイベントと8PBのデータレプリケーションを処理し、イベントドリブンジョブ、ハイブリッドRPCとDistCp戦略、DAGベースのオーケストレーション、動的シャーディングを採用することで、災害復旧、水平スケーリング、そして99.99%のクロスリージョンデータ精度を実現します。リーラ・クミリ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/uber-hivesync-data-lake/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 16 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FGA：WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
+      <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI搭載コードエディタ「Cursor」が動的コンテキスト検出を導入し、トークン効率を向上</title>
+      <link>https://www.infoq.com/news/2026/01/cursor-dynamic-context-discovery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Cursorは、大規模言語モデルへのリクエストのコンテキストサイズを最小限に抑える新しいアプローチを導入しました。「動的コンテキスト検出」と呼ばれるこの手法は、大量の静的コンテキストを事前に含める必要がなくなり、エージェントが必要な情報のみを動的に取得できるようになります。これによりトークンの使用量が減少し、混乱を招く可能性のある、あるいは無関係な詳細情報の組み込みが制限されます。Sergio De Simone著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/cursor-dynamic-context-discovery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 14 Jan 2026 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>技術リーダーシップの道を歩む</title>
       <link>https://www.infoq.com/news/2026/01/technical-leadership-path/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>技術リーダーは、個々の貢献者業務を超えた課題に直面しています。投資に関するビジネス部門との調整、システム面の管理、メンタリング、そして変化するコードベースへの対応などです。偶発的な複雑化を避けるには、コードスタイル、実装パターン、そして標準といった技術的な整合性が不可欠です。リーダーシップは、スキルの実践、チームの問題の改善、そしてロールモデルとしての行動を通して成長します。ベン・リンダース著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/technical-leadership-path/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 15 Jan 2026 11:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントセキュリティのためのDescope：機能、価格、代替手段</title>
-      <link>https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</link>
-      <description>Descopeは2025年4月にAgentic Identity Hubをリリースし、エージェントの認証と認可のための開発者向け外部IAMプラットフォームとして位置付けています。この記事では、DescopeのエージェントIDへのアプローチ、主な機能と価格、そしてWorkOSなどの本番環境対応の代替製品（特にB2B SaaSチーム向け）との比較について解説します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/descope-vs-workos-agentic-identity-enterprise-authentication</guid>
-      <pubDate>Mon, 03 Nov 2025 21:43:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>プレゼンテーション: 現場からの Java 並行処理: 現場で学んだ教訓</title>
-      <link>https://www.infoq.com/presentations/java-grpc-workload/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Hugo Marques氏が、Javaの大規模並列処理を巧みに活用する方法を解説します。シンプルなフレームワークの枠を超え、高スループットIOの課題を解決します。Netflixの実例を交えながら、ネストされた並列ストリームの落とし穴、セマフォによるバックプレッシャーの管理、そして制限付きエグゼキュータから仮想スレッドへの移行について解説します。JVMのパフォーマンスを最大化しながら、下流のサービスを保護する方法を学びましょう。Hugo Marques著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/java-grpc-workload/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 12 Jan 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Okta から Python アプリにユーザーを同期する方法</title>
-      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</link>
-      <description>わずか数行のコードで、SCIM、Okta、Python、WorkOS を使用してアプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-python-app</guid>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティ製品との統合を実現</title>
@@ -63,13 +70,6 @@
       <description>マシュー・カード氏がBBCでリーダーシップとインクルーシビティの交差点について語ります。彼は、ハードルを単に上げるのではなく、「ハードルを変える」ことで、チームのダイナミクスをどのように変革できるかを説明します。信頼、心理的安全性、そしてレジリエンスのための彼独自のフレームワーク「C.A.P.S.」と「D.O.S.E.」を取り上げ、エンジニアリングリーダーが有害な行動を排除し、多様な人材が活躍するための実践的な戦略を共有します。マシュー・カード著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/inclusive-leadership/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 14 Jan 2026 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>米国上院議員、X、Meta、Alphabetなどの企業に性的ディープフェイクに関する説明を要求</title>
-      <link>https://techcrunch.com/2026/01/15/us-senators-demand-answers-from-x-meta-alphabet-on-sexualized-deepfakes/</link>
-      <description>複数の米国上院議員は、X、Meta、Alphabet、Snap、Reddit、TikTokのリーダーに宛てた書簡の中で、各社に対し、「強力な保護策とポリシー」を講じていることの証拠と、各社のプラットフォーム上での性的ディープフェイクの増加をどのように抑制する予定かを示すよう要求している。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/01/15/us-senators-demand-answers-from-x-meta-alphabet-on-sexualized-deepfakes/</guid>
-      <pubDate>Thu, 15 Jan 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Django がバックグラウンドタスクとネイティブ CSP サポートを組み込んだバージョン 6.0 をリリース</title>
