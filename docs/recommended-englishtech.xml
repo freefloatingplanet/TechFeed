@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Jan 2026 06:37:28 +0000</lastBuildDate>
-    <item>
-      <title>WorkOS のエンジニアリングリーダーシップ: 製品、人材、そしてインパクト</title>
-      <link>https://workos.com/blog/engineering-leadership-at-workos-product-people-and-impact</link>
-      <description>WorkOS のエンジニアリングリーダーシップは、プロダクトオーナーシップ、テクニカルスチュワードシップ、そして人材リーダーシップを融合させています。エンジニアリングマネージャーは、コード、チーム、そして顧客と緊密に連携します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/engineering-leadership-at-workos-product-people-and-impact</guid>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中東全域の著名なGmailおよびWhatsAppユーザーを標的としたハッキングキャンペーンの経緯</title>
-      <link>https://techcrunch.com/2026/01/16/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/</link>
-      <description>このフィッシング攻撃はイラン系英国人活動家を含むWhatsAppのユーザーを標的とし、レバノンの閣僚と少なくとも1人のジャーナリストの認証情報を盗んだ。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/01/16/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/</guid>
-      <pubDate>Fri, 16 Jan 2026 17:15:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jan 2026 06:45:54 +0000</lastBuildDate>
     <item>
       <title>350PB、数百万件のイベントを1つのシステムで：Uberのクロスリージョン・データレイクと災害復旧の仕組み</title>
       <link>https://www.infoq.com/news/2026/01/uber-hivesync-data-lake/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -30,9 +16,23 @@
       <pubDate>Fri, 16 Jan 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Hugging Face、1兆トークンの多言語対訳テキストデータセット「FineTranslations」をリリース</title>
+      <link>https://www.infoq.com/news/2026/01/huggingface-fine-translations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Hugging Faceは、英語と500以上の言語にわたる1兆トークン以上の対訳テキストを含む大規模な多言語データセット「FineTranslations」をリリースしました。このデータセットは、FineWeb2コーパスに含まれる英語以外のコンテンツをGemma3 27Bを用いて英語に翻訳することで作成されました。データ生成パイプライン全体は再現性と公開文書化が図られています。Robert Krzaczyński著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/huggingface-fine-translations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sun, 18 Jan 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SRE向け人間中心AI：制御を失うことなくマルチエージェントによるインシデント対応を実現</title>
+      <link>https://www.infoq.com/news/2026/01/opsworker-ai-sre/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>近年の研究や業界コメントの増加は、組織におけるサイト信頼性エンジニアリングへのアプローチに変化が生じていることを示唆しています。ポケベルを機械に渡すのではなく、チームはオンコールエンジニアと連携して動作するマルチエージェントAIシステムを設計し、探索範囲を絞り込み、面倒な手順を自動化しながら、判断は人間に委ねています。マット・サンダース (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/opsworker-ai-sre/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sun, 18 Jan 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>技術リーダーシップの道を歩む</title>
       <link>https://www.infoq.com/news/2026/01/technical-leadership-path/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>技術リーダーは、個々の貢献者業務を超えた課題に直面しています。投資に関するビジネス部門との調整、システム面の管理、メンタリング、そして変化するコードベースへの対応などです。偶発的な複雑化を避けるには、コードスタイル、実装パターン、そして標準といった技術的な整合性が不可欠です。リーダーシップは、スキルの実践、チームの問題の改善、そしてロールモデルとしての行動を通して成長します。ベン・リンダース著 (source: InfoQ)</description>
+      <description>技術リーダーは、個々の貢献者業務を超えた課題に直面しています。投資に関するビジネスとの調整、システム面の管理、メンタリング、そして変化するコードベースへの対応などです。偶発的な複雑化を避けるには、コードスタイル、実装パターン、そして標準の共有といった技術的な整合性が不可欠です。リーダーシップは、スキルの実践、チームの問題の改善、そしてロールモデルとしての行動を通して成長します。ベン・リンダース著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/technical-leadership-path/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 15 Jan 2026 11:08:00 +0000</pubDate>
     </item>
@@ -44,11 +44,25 @@
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>セコイアがアンスロピックに投資、ライバルへのVC支援のタブーを破る：FT</title>
+      <link>https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/</link>
+      <description>フィナンシャル・タイムズによると、セコイア・キャピタルは、Claudeを開発するAIスタートアップ企業Anthropicの大型資金調達ラウンドに参加すると報じられています。これはシリコンバレーで間違いなく注目を集める動きです。なぜでしょうか？ベンチャーキャピタルは歴史的に、同じ分野の競合企業への投資を避け、単一の勝者に賭ける傾向があったからです。[…] (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/</guid>
+      <pubDate>Sun, 18 Jan 2026 22:15:17 +0000</pubDate>
+    </item>
+    <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティ製品との統合を実現</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
       <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。そこで、OAuthフロー、トークン管理、プロバイダー設定を自動化するPipesを開発しました。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Javaニュースまとめ: WildFly 39、Open Liberty、Spring Framework、JobRunr、Gradle、Micrometer</title>
+      <link>https://www.infoq.com/news/2026/01/java-news-roundup-jan12-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>今週の2026年1月12日版Javaラウンドアップでは、WildFly 39のGAリリース、JobRunrとGradleのポイントリリース、Spring FrameworkとMicronautのメンテナンスリリース、Micrometer MetricsとMicrometer Tracingのマイルストーンリリース、そしてOpen Liberty 26.0.0.1のベータリリースといったニュースを特集しています。Michael Redlich著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/java-news-roundup-jan12-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 19 Jan 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
@@ -63,20 +77,6 @@
       <description>Cerbosは、開発者がアプリケーションにきめ細かなアクセス制御を実装するのに役立つオープンソースの認可エンジンです。Apache 2.0ライセンスの下でリリースされており、アプリケーションが特定のアクションを許可するかどうかを判断するための、一元化されたポリシー決定ポイントを提供します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</guid>
       <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>プレゼンテーション: 効果的な文化の実現: 永続的な成功を推進する包括的リーダーシップ</title>
-      <link>https://www.infoq.com/presentations/inclusive-leadership/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>マシュー・カード氏がBBCでリーダーシップとインクルーシビティの交差点について語ります。彼は、ハードルを単に上げるのではなく「変える」ことで、チームのダイナミクスを変革できると説明します。信頼、心理的安全性、そしてレジリエンスのための「C.A.P.S.」と「D.O.S.E.」というフレームワークを取り上げ、エンジニアリングリーダーが有害な行動を排除し、多様な人材が活躍するための実践的な戦略を共有します。マシュー・カード著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/inclusive-leadership/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 14 Jan 2026 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Django がバックグラウンドタスクとネイティブ CSP サポートを組み込んだバージョン 6.0 をリリース</title>
-      <link>https://www.infoq.com/news/2026/01/django-6-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Django 6.0がリリースされました。組み込みのタスクフレームワーク、コンテンツセキュリティポリシーによるセキュリティ強化、モジュール設計のためのテンプレートパーシャルなど、最先端の機能を開発者に提供します。このリリースはPython 3.12から3.14をサポートし、Webアプリ開発を効率化すると同時に、クリーンで迅速な設計を促進します。DjangoがWebアプリケーション開発の環境を近代化していくこの興奮に、ぜひご参加ください！ ダニエル・カーティス (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/django-6-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

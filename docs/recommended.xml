@@ -7,75 +7,72 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Jan 2026 06:37:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 06:45:40 +0000</lastBuildDate>
     <item>
-      <title>店に食事会の予約をしたら、その予約方法が『直前キャンセル対策』として素晴らしいシステムだった「これは普及して欲しい」「海外ではわりと普通」</title>
-      <link>https://togetter.com/li/2653142</link>
-      <description>四十九日の食事会を予約すると、ショートメールでTableCheckペイのリンクが届き、クレジットカード登録が必要だった。会食後に決済され、直前キャンセルは100%請求されるため無断欠席対策になる。利用者が現地で費用確認して承認するフローがあり、普及すべき仕組みだと感じた。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2653142</guid>
-      <pubDate>Sun, 18 Jan 2026 02:08:18 +0000</pubDate>
+      <title>Claude Codeを実務で安全に使うための設定と運用の整理</title>
+      <link>https://zenn.dev/tukiyubi/articles/7f43f23f053394</link>
+      <description>!
+※お詫びと訂正（2026/01/19）
+初版で /sandbox の説明に不正確な記述がありました。Sandbox enabled with auto-allow for bash commands という表示を根拠に「自動承認が有効になるだけ」と読める表現になっていましたが、公式には /sandbox により Bash 実行がサンドボックス化され、ファイルシステム／ネットワークの制限が適用される旨が説明されています。該当箇所の図と本文を修正し、あわせて「/sandbox は Claude Code 全体を別VMに移す機能ではない」点も追記しました。
+参考：Making Claude... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tukiyubi/articles/7f43f23f053394</guid>
+      <pubDate>Sun, 18 Jan 2026 02:39:15 +0000</pubDate>
     </item>
     <item>
-      <title>1ミリも除雪しない「電磁式除雪デバイス」を分解してみた</title>
-      <link>https://japan.cnet.com/article/35242812/</link>
-      <description>筆者のところに届いた最新の詐欺ガジェットは、「先進電磁式凍結防止・除雪デバイス」だ。友人の親戚が購入したものの宣伝通りの効果が得られなかったため、筆者の手元に回ってきたというわけだ。 まずはこのデバイスを見てみよう。外箱には多くの宣伝文句が並んでいる。「能動的な電子干渉」を利用してフロントガラスへ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://japan.cnet.com/article/35242812/</guid>
-      <pubDate>Fri, 16 Jan 2026 04:26:38 +0000</pubDate>
+      <title>「買ったのに使われなかったもの」の原因は、「システムが定着しない原因」と大体同じだった</title>
+      <link>https://blog.tinect.jp/?p=90670</link>
+      <description>こんにちは、しんざきです。ついこの間まで、2025年って12月60日くらいまで伸びないかなあと妄想していたんですが、気が付いたらもう2026年1月が半分を過ぎていますね。 何なんでしょうこの4倍速展開。イベントテキストを高速スキップする設定のソシャゲか？ この記事で書きたいことは、大体以下のようなことです。 ・年... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://blog.tinect.jp/?p=90670</guid>
+      <pubDate>Sun, 18 Jan 2026 22:59:32 +0000</pubDate>
     </item>
     <item>
-      <title>Reactの魔法を理解する</title>
-      <link>https://zenn.dev/gaomond/articles/7c69f904c53ceb</link>
-      <description>僕はバックエンドエンジニアなんですが、モノを作ろうとするとどうしてもフロントを触る必要があります。
-ここではReactを触れるようになるための最低限の知識をまとめておこうと思います。
-できるだけ「なぜそうなるのか？」を深堀りながら書きたいと思います。
-AI使いながら書いてます。Reactの公式ドキュメントも参考にしてます。
-
-Reactのコードは初見には「魔法」だらけです。急に出てきたreact hooksという呪文を丸暗記するのは辛い。hooks導入の背景を理解し、呪文を呪文で無くします。
-
- 1. 原理原則: UI = f(state)
-
-Reactのすべては、この数式に集約されます... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/gaomond/articles/7c69f904c53ceb</guid>
-      <pubDate>Wed, 14 Jan 2026 04:57:48 +0000</pubDate>
+      <title>jQuery 4.0.0がリリース！「まだ開発してたの？」「実家のような安心感」などと言われながらも歓迎の声多数 — 実はいまだにWebの大部分を支えているインフラ技術</title>
+      <link>https://techfeed.io/entries/696d9674028408433252e074?from=rss</link>
+      <description>1月19日、jQueryチームが「jQuery 4.0.0」と題した記事を公開した。この記事では、約10年ぶりのメジャーアップデートとなる最新版の変更点とともに、Webの7割以上を支え続けるこのライブラリの現在地について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/696d9674028408433252e074?from=rss</guid>
+      <pubDate>Mon, 19 Jan 2026 02:27:00 +0000</pubDate>
     </item>
     <item>
-      <title>CISSP合格体験記｜公式教材を信じて「割り切った」社会人学習と試験当日の立ち回り</title>
-      <link>https://zenn.dev/rfc1149/articles/f46538ce9d7444</link>
-      <description>CISSPは、すべてを理解してから受ける試験ではないと感じました。
-範囲は非常に広く、完璧を目指すと途中で手が止まります。
-すべてを網羅しようとするのは現実的ではないと感じ、次の方針を取りました。
-
-Official Study Guide と Official Practice Tests に書かれている内容は漏れなく押さえる。
-それ以外が出題されても気にしない、と割り切る。
-
-私は平日1時間程度、休日3時間程度の学習でCISSPに合格しました。
-ノートは作らず、出題範囲をすべて網羅することも諦めました。
-その代わりに、
-「公式教材に書かれていることは漏れなく押さえる」
-「書かれていな... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/rfc1149/articles/f46538ce9d7444</guid>
-      <pubDate>Sat, 17 Jan 2026 00:49:52 +0000</pubDate>
+      <title>マリオワールドで256回エリア移動をするとバグる理由</title>
+      <link>https://zenn.dev/tomoha/articles/c5b88177447b51</link>
+      <description>はじめに
+こんにちは、スーパーマリオワールド研究者の倫葉（ともは）と申します。もともとは、スーパーマリオワールドにおける任意コード実行のカテゴリを中心にRTA走者として活動していましたが、現在は研究と実況解説を中心に活動しています。過去には、国際研究チームに参加し、長年未解決だったSwitch Onlineにおける「オープンバス」という領域における挙動の解明を行った実績があります。
+さて、先日、何気なくYouTubeを見ていたところ、とあるショート動画を見つけました。
+https://www.youtube.com/shorts/mlNKIVZiY1c
+こちらの動画では、「スーパーマ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tomoha/articles/c5b88177447b51</guid>
+      <pubDate>Sat, 17 Jan 2026 14:56:24 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeの並列実行を効率化する管理アプリを作った</title>
-      <link>https://zenn.dev/akino/articles/4e1b949594b6ca</link>
-      <description>こんにちは、秋野です。Xでもチームや組織でのAI開発効率化を発信してます。ぜひフォローいただけますと幸いです🙏
+      <title>ITコンサル3人でAI駆動開発を2日間やってみた</title>
+      <link>https://zenn.dev/ncdc/articles/e15a2bc6020b9c</link>
+      <description>はじめに
+「生成AIでアプリを開発したい」といった声が多くの企業で挙がっている昨今ですが、非エンジニアがAI駆動開発を実際行った場合、どの程度のクオリティになり、どのような課題があるのかを知りたいなと思い、今回チャレンジしてみました。
+NCDCのITコンサルタント3名がAIを駆使して2日間で実際のお客様向けのクローズドコミュニティアプリを開発するAI駆動開発を実施しましたので、その結果や感想をまとめています。
+今回の我々のオチとしては、それっぽいアプリの生成はできたものの、リリースまでは辿り着くことができないという何とも残念な結果に終わっています...
 
- 作ったもの
-Claude Codeで、複数のターミナルウィンドウで並行してセッションを実行していると「あのセッションは今何をしているのか？」「権限の入力待ちになっていないか？」といった状況を把握するのが難しくなりがちです。
-この課題を解決するために、Claude Code Monitor（リアルタイム監視ダッシュボード）を自作しました。Claude Code Hooksを活用してイベントを収集し、WebSocketでWebUIに即座に反映します。
-画面UI
+ 対象読者
 
-実際に動かして... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/akino/articles/4e1b949594b6ca</guid>
-      <pubDate>Wed, 14 Jan 2026 22:10:05 +0000</pubDate>
+AI駆動開発に... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/e15a2bc6020b9c</guid>
+      <pubDate>Sat, 17 Jan 2026 12:45:22 +0000</pubDate>
     </item>
     <item>
-      <title>「Suica」のシステム、徐々に変わってきているの知ってましたか？</title>
-      <link>https://www.itmedia.co.jp/mobile/articles/2601/17/news034.html</link>
-      <description>今回のアクセス数のトップは、SNS上で「Suicaがないと困る」という旨のポストが人気を集めたことを受けて執筆された記事でした。 Suicaは東日本旅客鉄道（JR東日本）が2001年から商用サービスを開始した交通系ICカードです。当初は純粋に鉄道の乗車にのみ使えたSuicaですが、電子マネー機能の追加、おサイフケータイ向け... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2601/17/news034.html</guid>
-      <pubDate>Sat, 17 Jan 2026 06:02:48 +0000</pubDate>
+      <title>ほぼ同一のテンプレ説明文を用いてたAIを利用した政治系動画チャンネルについてのメモ - 電脳塵芥</title>
+      <link>https://nou-yunyun.hatenablog.com/entry/2026/01/18/210000</link>
+      <description>先日書いた記事で嘘デタラメな政治動画をアップするyoutubeチャンネルの「目本の未来を皆る」についての記事を書いた。その際に次の様なチャンネルの説明文のスクショを挙げたのだが、それ関連での追加記事というか、そんな感じのものをここにメモしておく。まずこういったAIを活用して特定ジャンルを粗製乱造するチャン... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://nou-yunyun.hatenablog.com/entry/2026/01/18/210000</guid>
+      <pubDate>Sun, 18 Jan 2026 12:48:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIが生成する「最適なデータ」に、作り手の意思を乗せるということ</title>
+      <link>https://qiita.com/GIFCat/items/ac02aa8b9b5712125fde?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>「AIが人間の仕事を奪う」という議論が各所でなされていますが、以前テレビである映像を見てから、私の中での認識が変わりました。
+それは、ジグソーパズルの検品風景です。
+「どういうこと？」ってなりますよね。
+実は、完成したパズルを作業員の方が手作業でガシャガシャと崩して箱に詰め... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/GIFCat/items/ac02aa8b9b5712125fde?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sun, 18 Jan 2026 00:00:43 +0000</pubDate>
     </item>
     <item>
       <title>Next.jsは「近道」か「迷路」か。迷子の初学者がWebの歴史を遡り、Next.jsの本質が見えてきた話</title>
@@ -94,35 +91,14 @@ Claude Codeで、複数のターミナルウィンドウで並行してセッシ
       <pubDate>Sat, 17 Jan 2026 07:07:06 +0000</pubDate>
     </item>
     <item>
-      <title>AI に指示するのではなく、まずは AI に質問させた方が捗る</title>
-      <link>https://zenn.dev/hataluck/articles/d347a5011cf71e</link>
-      <description>はじめに
-頭の中には手順や判断のポイントがあるのに、それを明文化出来ていない。
-その結果、関係者間で前提が共有されないまま話が進み議論がすれ違ってしまう、ということがあると思います。
-これは、暗黙知が言語化されていない状態です。
-そしてこれは、 AI ≒ LLM を使う上でも同じ課題に直面します。
-頭の中にある暗黙知を明文化しないと、 LLM から良い回答は得られません。
-この記事で紹介するのは、そういった状態をプロンプトエンジニアリングの力を使って、解決する方法です。
-
- 結論
-暗黙知の言語化には、"AI に答えさせる"のではなく、AI に質問してもらう（インタビュー型プロンプティ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hataluck/articles/d347a5011cf71e</guid>
-      <pubDate>Wed, 14 Jan 2026 05:44:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>「横のガードレール」でAIにアーキテクチャを教えるのをやめた話</title>
-      <link>https://zenn.dev/hideyuki_toyama/articles/horizontal-guard-rails</link>
-      <description>はじめに
-AI駆動開発、やってますか？
-Claude Code や Codex に「クリーンアーキテクチャ+DDDで実装して」と指示すると、最初はある程度きれいなコードが出てきます。でも1週間後、気づいたらドメイン層が infrastructure を import してたり、UseCase に presentation のロジックが混入してたり。
-仕様駆動でも最初の構成は作れる。しかし人の介入なしには維持できない。
-この問題、どう解決すればいいんでしょうか。
-!
-この記事は note で書いた「縦と横のガードレール」の実装版です。思想的な背景が気になる方は、先にそちらをどうぞ。
-
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hideyuki_toyama/articles/horizontal-guard-rails</guid>
-      <pubDate>Wed, 14 Jan 2026 23:15:00 +0000</pubDate>
+      <title>なぜ私はフロントエンド開発を避けるようになったのか</title>
+      <link>https://zenn.dev/sijiaoh/articles/9c7edf0ba29def</link>
+      <description>jQueryの時代
+発端は学生時代に遡ります。Web制作の授業で初めてWebに触れたのですが、当時はまだ古き良きjQueryの時代でした。HTML、CSS、JavaScriptの3ファイル構成で、classを介してそれぞれを繋げていくスタイル。私はこれが嫌いでした。
+単純に、面倒だったのです。
+「関心の分離」というメリットを説かれましたが、気の利いた反論が思いつかず、その場では引き下がりました。しかし、全く納得していませんでした。構造・装飾・振る舞いを分離するという思想は理解できます。ただ、ひとつのボタンの見た目を変えるために3つのファイルを行き来する体験が、本当に「正しい設計」なの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sijiaoh/articles/9c7edf0ba29def</guid>
+      <pubDate>Sat, 17 Jan 2026 10:41:41 +0000</pubDate>
     </item>
     <item>
       <title>Wikipedia、MetaやMicrosoftらAI大手5社とライセンス契約を締結 — AI開発の「フリーライド」に終止符か</title>
