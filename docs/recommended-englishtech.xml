@@ -7,41 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Jan 2026 06:45:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 06:42:55 +0000</lastBuildDate>
     <item>
-      <title>350PB、数百万件のイベントを1つのシステムで：Uberのクロスリージョン・データレイクと災害復旧の仕組み</title>
-      <link>https://www.infoq.com/news/2026/01/uber-hivesync-data-lake/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>UberのHiveSyncは、複数のリージョン間でHive/HDFSデータの一貫性を維持する、シャード化されたクロスリージョンバッチレプリケーションシステムです。1日あたり500万件のHiveイベントと8PBのデータレプリケーションを処理し、イベントドリブンジョブ、ハイブリッドRPCとDistCp戦略、DAGベースのオーケストレーション、動的シャーディングを採用することで、災害復旧、水平スケーリング、そして99.99%のクロスリージョンデータ精度を実現します。リーラ・クミリ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/uber-hivesync-data-lake/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 16 Jan 2026 15:00:00 +0000</pubDate>
+      <title>OktaからLaravelアプリにユーザーを同期する方法</title>
+      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
+      <description>わずか数行のコードで、SCIM、Okta、WorkOS を使用して Laravel アプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hugging Face、1兆トークンの多言語対訳テキストデータセット「FineTranslations」をリリース</title>
-      <link>https://www.infoq.com/news/2026/01/huggingface-fine-translations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Hugging Faceは、英語と500以上の言語にわたる1兆トークン以上の対訳テキストを含む大規模な多言語データセット「FineTranslations」をリリースしました。このデータセットは、FineWeb2コーパスに含まれる英語以外のコンテンツをGemma3 27Bを用いて英語に翻訳することで作成されました。データ生成パイプライン全体は再現性と公開文書化が図られています。Robert Krzaczyński著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/huggingface-fine-translations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sun, 18 Jan 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SRE向け人間中心AI：制御を失うことなくマルチエージェントによるインシデント対応を実現</title>
-      <link>https://www.infoq.com/news/2026/01/opsworker-ai-sre/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>近年の研究や業界コメントの増加は、組織におけるサイト信頼性エンジニアリングへのアプローチに変化が生じていることを示唆しています。ポケベルを機械に渡すのではなく、チームはオンコールエンジニアと連携して動作するマルチエージェントAIシステムを設計し、探索範囲を絞り込み、面倒な手順を自動化しながら、判断は人間に委ねています。マット・サンダース (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/opsworker-ai-sre/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sun, 18 Jan 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>技術リーダーシップの道を歩む</title>
-      <link>https://www.infoq.com/news/2026/01/technical-leadership-path/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>技術リーダーは、個々の貢献者業務を超えた課題に直面しています。投資に関するビジネスとの調整、システム面の管理、メンタリング、そして変化するコードベースへの対応などです。偶発的な複雑化を避けるには、コードスタイル、実装パターン、そして標準の共有といった技術的な整合性が不可欠です。リーダーシップは、スキルの実践、チームの問題の改善、そしてロールモデルとしての行動を通して成長します。ベン・リンダース著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/technical-leadership-path/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 15 Jan 2026 11:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FGA：WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
+      <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新興のAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft、Azure Functions のモデルコンテキストプロトコルサーバーのサポートをリリース</title>
+      <link>https://www.infoq.com/news/2026/01/azure-functions-mcp-support/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>MicrosoftはAzure Functions向けにモデルコンテキストプロトコル（MCP）をリリースしました。これにより、AIエージェントの安全で標準化されたワークフローが確保されます。OBO認証とストリーミング可能なHTTPトランスポートを内蔵し、主要なセキュリティ上の懸念事項に対処します。複数言語とセルフホスティングに対応したMCPにより、開発者は機密データを保護しながら容易にデプロイできるようになります。Steef-Jan Wiggers著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/azure-functions-mcp-support/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 19 Jan 2026 10:25:00 +0000</pubDate>
     </item>
     <item>
       <title>セコイアがアンスロピックに投資、ライバルへのVC支援のタブーを破る：FT</title>
@@ -51,7 +37,7 @@
       <pubDate>Sun, 18 Jan 2026 22:15:17 +0000</pubDate>
     </item>
     <item>
-      <title>WorkOS Pipes: 面倒な手間なくサードパーティ製品との統合を実現</title>
+      <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
       <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。そこで、OAuthフロー、トークン管理、プロバイダー設定を自動化するPipesを開発しました。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
@@ -77,6 +63,20 @@
       <description>Cerbosは、開発者がアプリケーションにきめ細かなアクセス制御を実装するのに役立つオープンソースの認可エンジンです。Apache 2.0ライセンスの下でリリースされており、アプリケーションが特定のアクションを許可するかどうかを判断するための、一元化されたポリシー決定ポイントを提供します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</guid>
       <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Googleと小売業界のリーダーが、次世代AIショッピングを実現するユニバーサルコマースプロトコルを発表</title>
+      <link>https://www.infoq.com/news/2026/01/google-agentic-commerce-ucp/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Googleは、AIを活用したショッピングエージェントが商品の検索から決済、購入後の管理まで、エンドツーエンドでタスクを完了できるようにするオープンスタンダード、Universal Commerce Protocol（UCP）を発表しました。Shopify、Targetなどの企業と共同開発されました。UCPは、コマース機能の標準化、複数の決済サービスへの対応、そしてグローバル展開を目指しています。次世代のエージェンシーコマースを形作ります。リーラ・クミリ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/google-agentic-commerce-ucp/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 19 Jan 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>マイクロソフトがXAML Studioをオープンソース化し、長年愛されてきたプロトタイピングツールを復活させる</title>
+      <link>https://www.infoq.com/news/2026/01/xaml-studio-open-source/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>マイクロソフトは、XAMLベースのUI開発のための軽量ラピッドプロトタイピングツールであるXAML Studioを.NET Foundationの下で正式にオープンソース化しました。このツールは当初、Microsoft Garageイニシアチブの一環としてMicrosoft Storeでリリースされていましたが、現在はGitHubリポジトリを通じてコミュニティからの貢献とコラボレーションを歓迎しています。エディン・カピッチ (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/xaml-studio-open-source/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

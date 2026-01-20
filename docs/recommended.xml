@@ -7,24 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Jan 2026 06:45:40 +0000</lastBuildDate>
-    <item>
-      <title>Claude Codeを実務で安全に使うための設定と運用の整理</title>
-      <link>https://zenn.dev/tukiyubi/articles/7f43f23f053394</link>
-      <description>!
-※お詫びと訂正（2026/01/19）
-初版で /sandbox の説明に不正確な記述がありました。Sandbox enabled with auto-allow for bash commands という表示を根拠に「自動承認が有効になるだけ」と読める表現になっていましたが、公式には /sandbox により Bash 実行がサンドボックス化され、ファイルシステム／ネットワークの制限が適用される旨が説明されています。該当箇所の図と本文を修正し、あわせて「/sandbox は Claude Code 全体を別VMに移す機能ではない」点も追記しました。
-参考：Making Claude... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tukiyubi/articles/7f43f23f053394</guid>
-      <pubDate>Sun, 18 Jan 2026 02:39:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>「買ったのに使われなかったもの」の原因は、「システムが定着しない原因」と大体同じだった</title>
-      <link>https://blog.tinect.jp/?p=90670</link>
-      <description>こんにちは、しんざきです。ついこの間まで、2025年って12月60日くらいまで伸びないかなあと妄想していたんですが、気が付いたらもう2026年1月が半分を過ぎていますね。 何なんでしょうこの4倍速展開。イベントテキストを高速スキップする設定のソシャゲか？ この記事で書きたいことは、大体以下のようなことです。 ・年... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://blog.tinect.jp/?p=90670</guid>
-      <pubDate>Sun, 18 Jan 2026 22:59:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Jan 2026 06:42:44 +0000</lastBuildDate>
     <item>
       <title>jQuery 4.0.0がリリース！「まだ開発してたの？」「実家のような安心感」などと言われながらも歓迎の声多数 — 実はいまだにWebの大部分を支えているインフラ技術</title>
       <link>https://techfeed.io/entries/696d9674028408433252e074?from=rss</link>
@@ -44,6 +27,20 @@ https://www.youtube.com/shorts/mlNKIVZiY1c
       <pubDate>Sat, 17 Jan 2026 14:56:24 +0000</pubDate>
     </item>
     <item>
+      <title>コードは「読めるけど書けない」でいい時代になった｜すてぃお</title>
+      <link>https://note.com/suthio/n/n3f88afe28dbd</link>
+      <description>最近、プロダクト開発をしていて気づいたことがあります。 僕はもう、IDEやエディタをほとんど開いていません。 以前なら、開発といえば、まずVSCodeなどのエディタを立ち上げて、コードを書き始めるのが当たり前でした。 でも今は違います。AIに「こういう機能を作って」と指示を出して、生成されたコードを読んで、「... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/suthio/n/n3f88afe28dbd</guid>
+      <pubDate>Tue, 20 Jan 2026 03:49:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>1900倍の重力を発生させて「時空圧縮」を可能にする超重力装置が中国で稼働準備中</title>
+      <link>https://gigazine.net/news/20260120-hypergravity-machine-china/</link>
+      <description>中国の浙江大学では超重力装置の「CHIEF1300」が稼働しており、2025年12月22日から「CHIEF1900」の設置も始まっています。CHIEF1300では1トンの物体に1300倍の重力、CHIEF1900では1900倍の重力をかけることが可能で、「超重力場を形成して時空圧縮効果を実現できる」とアピールされています。 世界最大！我国超重力实验... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20260120-hypergravity-machine-china/</guid>
+      <pubDate>Mon, 19 Jan 2026 20:13:22 +0000</pubDate>
+    </item>
+    <item>
       <title>ITコンサル3人でAI駆動開発を2日間やってみた</title>
       <link>https://zenn.dev/ncdc/articles/e15a2bc6020b9c</link>
       <description>はじめに
@@ -58,21 +55,25 @@ AI駆動開発に... (source: Zennのトレンド)</description>
       <pubDate>Sat, 17 Jan 2026 12:45:22 +0000</pubDate>
     </item>
     <item>
-      <title>ほぼ同一のテンプレ説明文を用いてたAIを利用した政治系動画チャンネルについてのメモ - 電脳塵芥</title>
-      <link>https://nou-yunyun.hatenablog.com/entry/2026/01/18/210000</link>
-      <description>先日書いた記事で嘘デタラメな政治動画をアップするyoutubeチャンネルの「目本の未来を皆る」についての記事を書いた。その際に次の様なチャンネルの説明文のスクショを挙げたのだが、それ関連での追加記事というか、そんな感じのものをここにメモしておく。まずこういったAIを活用して特定ジャンルを粗製乱造するチャン... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://nou-yunyun.hatenablog.com/entry/2026/01/18/210000</guid>
-      <pubDate>Sun, 18 Jan 2026 12:48:33 +0000</pubDate>
+      <title>getElementByIdはなぜ速いのかを理解する</title>
+      <link>https://zenn.dev/ycode/articles/fa13cb0104225b</link>
+      <description>こんにちは、フロントエンドのyです。
+今回はgetElementByIdについての記事です。
+JavaScriptを書くとき、getElementByIdを使ってDOMを参照していますか？
+それともquerySelectorでDOMを参照していますか？
+私は基本的にはgetElemtntByIdを使ってDOMを取得することに意識を置いていました。
+getElementByIdによるid検索はHTML上で一意であり、処理が速いと言われているからです。
+querySelectorに関しては、参照したDOMの下階層のDOMを参照したいときなどに使っています。
+querySelectorはDOM... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ycode/articles/fa13cb0104225b</guid>
+      <pubDate>Sun, 18 Jan 2026 16:01:01 +0000</pubDate>
     </item>
     <item>
-      <title>AIが生成する「最適なデータ」に、作り手の意思を乗せるということ</title>
-      <link>https://qiita.com/GIFCat/items/ac02aa8b9b5712125fde?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>「AIが人間の仕事を奪う」という議論が各所でなされていますが、以前テレビである映像を見てから、私の中での認識が変わりました。
-それは、ジグソーパズルの検品風景です。
-「どういうこと？」ってなりますよね。
-実は、完成したパズルを作業員の方が手作業でガシャガシャと崩して箱に詰め... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/GIFCat/items/ac02aa8b9b5712125fde?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sun, 18 Jan 2026 00:00:43 +0000</pubDate>
+      <title>スシローの呼び出し番号を表示するディスプレイ、あまりにも分かりづらい「こんなに沢山矢印やら数字やらアイコン書いてあるのに全く理解できないUI」</title>
+      <link>https://togetter.com/li/2653868</link>
+      <description>スシローの店内ディスプレイが極めて分かりにくい。矢印や数字、アイコンが多用されているのに何を示すのか判別できず、呼び出し番号が小さく視認性も低い。UIの装飾に気を取られ本来伝えるべき情報が伝わらないため、案内効率が落ち、客や店員のやり取りが増え混乱を招いている。観光客も誤解しやすく、アプリ予約の利... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2653868</guid>
+      <pubDate>Tue, 20 Jan 2026 00:46:49 +0000</pubDate>
     </item>
     <item>
       <title>Next.jsは「近道」か「迷路」か。迷子の初学者がWebの歴史を遡り、Next.jsの本質が見えてきた話</title>
@@ -101,11 +102,21 @@ AI駆動開発に... (source: Zennのトレンド)</description>
       <pubDate>Sat, 17 Jan 2026 10:41:41 +0000</pubDate>
     </item>
     <item>
-      <title>Wikipedia、MetaやMicrosoftらAI大手5社とライセンス契約を締結 — AI開発の「フリーライド」に終止符か</title>
-      <link>https://techfeed.io/entries/6969adc4705e2846906a37f4?from=rss</link>
-      <description>1月16日、Ars Technicaが「Wikipedia will share content with AI firms in new licensing deals」と題した記事を公開した。この記事では、ウィキメディア財団が大手AI企業各社と締結した、Wikipediaコンテンツの利用に関する新たなライセンス契約について詳しく紹介されている。以下に、その内容を紹介する。ウィキメディア財団は1月15日（現地時間）、Microsoft、Meta、Amazon、Perplexity、およびMistral AIの5社とライセンス契約を締結したことを発表した。この提携により、Microsoft CopilotやChatGPTなどのAIアシスタントを支える大規模言語モデル（LLM）のトレーニングにおいて、Wikipediaのコンテンツを商用利用するための枠組みが拡大されることとなる。これまで、これらの企業の多くは許可を得ることなくWikipediaのデータをスクレイピング（自動収集）して利用してきた経緯がある。しかし、今回の契約締結により、主要なAI開発企業の多くが「Wikimedia En (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6969adc4705e2846906a37f4?from=rss</guid>
-      <pubDate>Fri, 16 Jan 2026 03:17:24 +0000</pubDate>
+      <title>フリーランスは社員みたいにチャンスをもらえない？</title>
+      <link>https://zenn.dev/manabu/articles/7897df031386a4</link>
+      <description>【結論】 あなたの目利きと能力次第？
+社員ほどではないが、取り組み方次第で、
+今後生き残るためのスキルを獲得するチャンスはあるはずです。
+また、早いうちにフリーランスとして色んな現場に参画する事は
+長期的な視点でメリットもあると考えています。
+トップレベルというわけではないですが
+年齢と過去の経歴を加味すると、自分の報酬は同年代より高いと思います。
+エージェント紹介の単価水準でも、高単価と言われる部類に入ると思います。
+これまで9年ほどフリーランスエンジニアとして培った、案件選びや
+面談のスタンス、チームコミュニケーションの改善に取り組んできた
+ナレッジが役立ったらいいなと思い、この... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/manabu/articles/7897df031386a4</guid>
+      <pubDate>Sun, 18 Jan 2026 23:03:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
