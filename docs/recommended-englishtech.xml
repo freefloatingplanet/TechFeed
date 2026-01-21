@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Jan 2026 06:42:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 06:43:19 +0000</lastBuildDate>
     <item>
       <title>OktaからLaravelアプリにユーザーを同期する方法</title>
       <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
@@ -30,11 +30,18 @@
       <pubDate>Mon, 19 Jan 2026 10:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>セコイアがアンスロピックに投資、ライバルへのVC支援のタブーを破る：FT</title>
-      <link>https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/</link>
-      <description>フィナンシャル・タイムズによると、セコイア・キャピタルは、Claudeを開発するAIスタートアップ企業Anthropicの大型資金調達ラウンドに参加すると報じられています。これはシリコンバレーで間違いなく注目を集める動きです。なぜでしょうか？ベンチャーキャピタルは歴史的に、同じ分野の競合企業への投資を避け、単一の勝者に賭ける傾向があったからです。[…] (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/</guid>
-      <pubDate>Sun, 18 Jan 2026 22:15:17 +0000</pubDate>
+      <title>アントロピックCEO、NVIDIA批判でダボスを驚愕させる</title>
+      <link>https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/</link>
+      <description>アンスロピックのCEO、ダリオ・アモデイ氏は、中国への売却計画をめぐり、政権と米国の半導体企業を激しく非難した。この批判は、これらの半導体企業の一つであるNVIDIAがアンスロピックの主要パートナーであり投資家でもあるため、特に注目を集めた。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/</guid>
+      <pubDate>Wed, 21 Jan 2026 01:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>UStriveのセキュリティ欠陥により、子供を含むユーザーの個人情報が漏洩した。</title>
+      <link>https://techcrunch.com/2026/01/20/ustrive-security-lapse-exposed-personal-data-of-its-users-including-children/</link>
+      <description>オンラインメンタリングサイト「UStrive」は、メールアドレス、電話番号、その他の非公開情報をログイン中の他のユーザーに公開していました。同非営利団体はTechCrunchに対し、この問題はすでに解決したと報告しましたが、影響を受けた個人への通知については明言を避けました。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/01/20/ustrive-security-lapse-exposed-personal-data-of-its-users-including-children/</guid>
+      <pubDate>Tue, 20 Jan 2026 20:47:47 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
@@ -42,13 +49,6 @@
       <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。そこで、OAuthフロー、トークン管理、プロバイダー設定を自動化するPipesを開発しました。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Javaニュースまとめ: WildFly 39、Open Liberty、Spring Framework、JobRunr、Gradle、Micrometer</title>
-      <link>https://www.infoq.com/news/2026/01/java-news-roundup-jan12-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>今週の2026年1月12日版Javaラウンドアップでは、WildFly 39のGAリリース、JobRunrとGradleのポイントリリース、Spring FrameworkとMicronautのメンテナンスリリース、Micrometer MetricsとMicrometer Tracingのマイルストーンリリース、そしてOpen Liberty 26.0.0.1のベータリリースといったニュースを特集しています。Michael Redlich著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/java-news-roundup-jan12-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 19 Jan 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
