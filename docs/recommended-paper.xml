@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Jan 2026 06:43:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 06:41:35 +0000</lastBuildDate>
     <item>
-      <title>重力波データ解析における量子ニューラルネットワークのための最先端のクラウド量子コンピュータの評価</title>
-      <link>https://arxiv.org/abs/2601.14036v1</link>
-      <description>本研究では、大企業（IBM、IonQ、IQM Quantum Computersなど）がクラウド用に提供している量子コンピュータを使用して、LISA宇宙ミッションのコンテキストでデータ分析用に開発された量子ニューラルネットワーク（QNN）を実行する可能性を調査します。このQNNはPythonのQiskitライブラリを使用して開発されました。以前の研究では、QNNが重力波（GW）データのパターンを従来のニューラルネットワークよりもはるかに高速に学習し、将来のLISAデータストリームでの高速なGW信号検出に適していることを実証しました。IBM Quantum、Amazon Braket、Microsoft Azureなどのハードウェアプロバイダーの料金を分析したところ、QNNの最初のセグメントを実行するための料金はそれぞれ\$2000、\$60000、\$1000000になることがわかりました。無料のプランを使用して、{\fontfamily{qcr} \selectfont ibm\_kyoto} および {\fontfamily{qcr}\selectfont IQM Quantum  (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2601.14036v1</guid>
-      <pubDate>Tue, 20 Jan 2026 14:56:22 +0000</pubDate>
+      <title>ソーシャルメディアにおけるFIMI調査のためのDISARMのエージェント的運用化</title>
+      <link>https://arxiv.org/abs/2601.15109v1</link>
+      <description>同盟国とそのエンドユーザーグループ間のデータとインテリジェンスの相互運用性は、NATO諸国の集団防衛能力（通常型とハイブリッド型の両方）の基盤となる要素と考えられている。対外情報操作・干渉（FIMI）および関連するハイブリッド活動は、様々な社会次元と情報圏で行われており、脅威の特性評価、状況認識の持続、対応の調整にこれまで以上に大きな課題をもたらしている。近年のAIの進歩は、操作コンテンツの生成と増幅などを通じて、AIを活用したトローリングや干渉活動のコストをさらに低減させている。FIMIの標準化されたメタデータと分析フレームワークとしてDISARMフレームワークが導入されたにもかかわらず、ソーシャルメディア規模での運用は依然として課題となっている。本稿では、ソーシャルメディア上のFIMIを調査するために、フレームワークに依存しないエージェントベースのDISARMの運用化を提案する。我々は、専門のエージェントAIコンポーネントが協調的に(1) 操作行動候補を検出し、(2) これらの行動を標準的なDISARM分類に透過的にマッピングするマルチエージェントパイプラインを開発しました。このア (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.15109v1</guid>
+      <pubDate>Wed, 21 Jan 2026 15:50:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

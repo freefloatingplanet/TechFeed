@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Jan 2026 06:43:08 +0000</lastBuildDate>
-    <item>
-      <title>エンジニアの技術と給料 - megamouthの葬列</title>
-      <link>https://www.megamouth.info/entry/2026/01/20/225357</link>
-      <description>お金、それも給料の話は、あさましい、ということになっている。婚活パーティーでもなければ隣の席の人間がいくら貰っているか堂々と聞くこともできない。 かつてGoogleで、自分の給料を全社員が見られる共有スプレッドシートに書き込み、公開を促した女性が現れてとんでもない騒ぎになったことがある。その行為の是非は... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.megamouth.info/entry/2026/01/20/225357</guid>
-      <pubDate>Tue, 20 Jan 2026 15:40:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Jan 2026 06:41:30 +0000</lastBuildDate>
     <item>
       <title>【Claude Code】非エンジニアが1行もコードを書かずにAI搭載の「画像トリミングツール」を作った話</title>
       <link>https://qiita.com/ot12/items/06015037ea758b518c6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -26,65 +19,37 @@
       <pubDate>Mon, 19 Jan 2026 21:42:58 +0000</pubDate>
     </item>
     <item>
-      <title>先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。【前編】</title>
-      <link>https://qiita.com/hitomin_poke/items/f5e8cb0c1b2e1145e852?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>人はなぜ忘れるのか。初めての現場で学びが「点」になる理由
-― 記憶の科学と、現場構造のすれ違い ―
-
-はじめまして。
-株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で
-つまずきやすいポイントを整理して発信しています。
-PRUMについて気... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/hitomin_poke/items/f5e8cb0c1b2e1145e852?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 20 Jan 2026 04:12:47 +0000</pubDate>
+      <title>Claude Codeの機能が多くて混乱している人へ</title>
+      <link>https://zenn.dev/kazu1/articles/b678ce44616354</link>
+      <description>はじめに
+Claude Codeを触り始めると、「Skills」「Custom Commands」「Hooks」「サブエージェント」「MCP Servers」...と、似たような機能がいくつも出てきて混乱しませんか？
+それらを使わなくても開発効率は使っていない時よりもかなり上がっているので、私は自腹で月300ドル払っていましたが、半年ほどあまり活用していませんでした。しかし活用したところかなり便利だったので一度まとめてみます。
+この記事では、各機能の使い方だけでなく、「なぜその機能が存在するのか」「どういう問題を解決するのか」という思想から説明していきます。思想を理解すれば、新しい場... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kazu1/articles/b678ce44616354</guid>
+      <pubDate>Sun, 18 Jan 2026 13:25:06 +0000</pubDate>
     </item>
     <item>
-      <title>テストで開発者を駆動する</title>
-      <link>https://zenn.dev/fusic/articles/test-driven-developers</link>
-      <description>2026年1月より株式会社 Fusic にジョインした miyamyia(←これはtypoですが、みやみやと読みます。typoが正。) です。
-早速ですが、私は前職で、もしくは休日にこんな経験をすることがありました。
-朝起きるとなんだか嫌な予感がする。いつもより目が霞んでいて、ベッドから出たくない。
-そんな体を起こして、デスクに座る。いつもの通りやるべきことを思い出して、コードを書く。...思い出せない。何をやるべきなんだっけ。
-思い出した後も、コードを書く手が止まる。やるべきことは思い出したのに、どこから手をつけたらいいかわからない。
-嫌な予感が的中する。今日は集中できない、モチベーシ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/fusic/articles/test-driven-developers</guid>
-      <pubDate>Mon, 19 Jan 2026 01:42:37 +0000</pubDate>
+      <title>プログラマの抱いている「住所」についての誤謬</title>
+      <link>https://zenn.dev/yuyaokada09/articles/ed4d2c1f3b982c</link>
+      <description>この記事は Patrick McKenzie さんのブログ・エントリ、 “Falsehoods Programmers Believe About Names” および Shibata Masaaki さんによるその対訳 “プログラマの抱いている名前についての誤謬” のオマージュです。
+
+欧米のシステムに日本人が住所を登録するとき、表記方法やそのバリデーションに悩まされ、正しいか自信のない住所を入力することが多いだろう。
+住所はECを中心とする多くのサービスを提供するための必須情報であり、システムは正しい住所を正しく処理するべきだ。
+わたしの住所は漢字と数字からなるアドレス、28文字の... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yuyaokada09/articles/ed4d2c1f3b982c</guid>
+      <pubDate>Mon, 19 Jan 2026 06:46:58 +0000</pubDate>
     </item>
     <item>
-      <title>getElementByIdはなぜ速いのかを理解する</title>
-      <link>https://zenn.dev/ycode/articles/fa13cb0104225b</link>
-      <description>こんにちは、フロントエンドのyです。
-今回はgetElementByIdについての記事です。
-JavaScriptを書くとき、getElementByIdを使ってDOMを参照していますか？
-それともquerySelectorでDOMを参照していますか？
-私は基本的にはgetElemtntByIdを使ってDOMを取得することに意識を置いていました。
-getElementByIdによるid検索はHTML上で一意であり、処理が速いと言われているからです。
-querySelectorに関しては、参照したDOMの下階層のDOMを参照したいときなどに使っています。
-querySelectorはDOM... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ycode/articles/fa13cb0104225b</guid>
-      <pubDate>Sun, 18 Jan 2026 16:01:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next.jsは「近道」か「迷路」か。迷子の初学者がWebの歴史を遡り、Next.jsの本質が見えてきた話</title>
-      <link>https://zenn.dev/takeshi0518/articles/4900ca7f320355</link>
-      <description>1. はじめに
-
- この記事を書いた理由
-僕は現在、Next.js を使ってポートフォリオアプリケーションを開発しています。しかし、ある時ふと気づきました。
-「なぜ Next.js を使っているのか、自分の言葉で説明できない」
-チュートリアルをこなし、公式ドキュメントを読み、アプリを作る。基本的なことはある程度できるようになりましたが、「なぜこの技術が必要なのか」 という本質を理解していませんでした。
-表面的な使い方だけではなく、技術の本質を理解したい。そう思った僕は Web アプリケーションの歴史を調べ始めました。
-
- Web アプリケーションの変遷との出会い
-学習を進める中で、W... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/takeshi0518/articles/4900ca7f320355</guid>
-      <pubDate>Sat, 17 Jan 2026 07:07:06 +0000</pubDate>
+      <title>物流現場で頭上を通るコンベアを内製して、作業時間を300秒から17秒に削減した話 - MonotaRO Tech Blog</title>
+      <link>https://tech-blog.monotaro.com/entry/2026/01/22/090000</link>
+      <description>はじめに こんにちは！物流部門で設備技術チームに所属している中垣です。 MonotaROの物流センターに勤務しており、設備導入や改善業務に取り組んでいます。 本記事では物流現場における「自動化設備の内製フロー」についてご紹介します。 「物流の人がテックブログ！？」と思われるかもしれませんが、先日開催された社... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech-blog.monotaro.com/entry/2026/01/22/090000</guid>
+      <pubDate>Thu, 22 Jan 2026 00:08:14 +0000</pubDate>
     </item>
     <item>
       <title>【脱・初心者】なぜAWSのプロは「IAMユーザー」を使わないのか？ 9割が知らない「AssumeRole」の正体</title>
       <link>https://zenn.dev/miyaco_log/articles/ebec1c1f64c046</link>
-      <description>この記事でわかること】
+      <description>【この記事でわかること】
 
 IAMユーザーは「永続的な社員証」。漏洩したら終わる。
 IAMロールは「貸し出し用の帽子」。被っている間だけ権限を持てる。
@@ -94,9 +59,20 @@ AssumeRoleとは、帽子を「被る（変身する）」アクションのこ�
 
  はじめに：Access Denied という絶望
 AWSを触っていて、最も頻繁に目にするエラー。 それが User: xxx is not authorized to perform: s3:ListBuckets です。
-「管理者権限（Admin）のはずなのに！」 「言われた通りJSONを貼り付け... (source: Zennのトレンド)</description>
+「管理者権限（Admin）のはずなのに！」 「言われた通りJSONを貼り付... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/miyaco_log/articles/ebec1c1f64c046</guid>
       <pubDate>Sun, 18 Jan 2026 22:29:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>MoonBit による静的解析：簡易言語の分析から MCIL まで</title>
+      <link>https://zenn.dev/moonbitlang/articles/bc477c84d9c0b2</link>
+      <description>著者：lampese
+
+ 一、 はじめに
+コードを書いているとき、まるで「予知能力」があるかのようなツールに好奇心を抱いたことはありませんか？ C/C++ のコンパイラが「変数が初期化されていない可能性があります」と警告したり、TypeScript の IDE があるオブジェクトが「null である可能性があります」と提示したりするとき、それらはプログラムを実行しているのではなく、単にソースコードを「スキャン」することで、潜在的な実行時のリスクを正確に予見しているのです。その背後に隠されているのが、プログラミングの世界における強力かつエレガントな技術 —— 静的解析です。
+しかし、多くの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/moonbitlang/articles/bc477c84d9c0b2</guid>
+      <pubDate>Tue, 20 Jan 2026 07:25:57 +0000</pubDate>
     </item>
     <item>
       <title>なぜ、MCPよりも「ファイルベースで扱うSkills」の方が便利なのか</title>
@@ -111,14 +87,27 @@ USBのように、外部ツールやデータソースをきれいにつなぐ�
       <pubDate>Mon, 19 Jan 2026 11:45:14 +0000</pubDate>
     </item>
     <item>
-      <title>なぜ私はフロントエンド開発を避けるようになったのか</title>
-      <link>https://zenn.dev/sijiaoh/articles/9c7edf0ba29def</link>
-      <description>jQueryの時代
-発端は学生時代に遡ります。Web制作の授業で初めてWebに触れたのですが、当時はまだ古き良きjQueryの時代でした。HTML、CSS、JavaScriptの3ファイル構成で、classを介してそれぞれを繋げていくスタイル。私はこれが嫌いでした。
-単純に、面倒だったのです。
-「関心の分離」というメリットを説かれましたが、気の利いた反論が思いつかず、その場では引き下がりました。しかし、全く納得していませんでした。構造・装飾・振る舞いを分離するという思想は理解できます。ただ、ひとつのボタンの見た目を変えるために3つのファイルを行き来する体験が、本当に「正しい設計」なの... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sijiaoh/articles/9c7edf0ba29def</guid>
-      <pubDate>Sat, 17 Jan 2026 10:41:41 +0000</pubDate>
+      <title>なぜ、IT業界"にわか"層は「Web系がSIerに比べて技術的に優位」という幻想を抱くのか？</title>
+      <link>https://zenn.dev/pdfractal/articles/e9f3aa5f0d55f0</link>
+      <description>はじめに
+IT業界においてWeb系とSIerを比較する議論は長年繰り返されてきましたが、その多くは技術的優劣という形で語られています。
+しかしこの議論をよく観察すると、技術そのものではなく認知の歪みが話題の中心に据えられていることが分かります。
+とりわけITのにわか層においては、Web系は技術的に優位でSIerは劣位であるという単純化された幻想が強固に信じられています。
+本稿では、この幻想がどのような構造によって生まれ、なぜ再生産され続けるのかを論理的に整理します。
+議論の対象は技術文化ではなく、人事文化とマネジメント構造、そしてそれを誤認する人間側の認知メカニズムです。
+
+ 技術は... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pdfractal/articles/e9f3aa5f0d55f0</guid>
+      <pubDate>Mon, 19 Jan 2026 06:06:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【C#】これからはTcpClient/UdpClientをやめてSocketを直接使おう</title>
+      <link>https://zenn.dev/nuskey/articles/csharp-dont-use-tcpclient</link>
+      <description>C#のSystem.Net.Sockets以下には、TcpClient/UdpClientというクラスが存在します。C#でTCP/UDPを扱う方法を検索すると上位に出てくるため、利用している方も多いのではないでしょうか。
+しかし、これらは実質的に単なるSocketのラッパーであり、かつAPIも現代的な視点で見るとかなり奇妙なものになっています。dotnet/runtimeのissueやPRを読んでいても、これらのクラスは積極的にメンテナンスされておらず、今となっては推奨される手法ではない、というのが最新の見解であるようです。
+とはいえ、いきなり「これらのクラスを使うのをやめろ」というだけ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nuskey/articles/csharp-dont-use-tcpclient</guid>
+      <pubDate>Wed, 21 Jan 2026 09:24:18 +0000</pubDate>
     </item>
     <item>
       <title>フリーランスは社員みたいにチャンスをもらえない？</title>

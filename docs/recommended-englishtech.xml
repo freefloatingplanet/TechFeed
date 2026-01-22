@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Jan 2026 06:43:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 06:41:40 +0000</lastBuildDate>
     <item>
       <title>OktaからLaravelアプリにユーザーを同期する方法</title>
       <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
       <description>わずか数行のコードで、SCIM、Okta、WorkOS を使用して Laravel アプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
-      <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft、Azure Functions のモデルコンテキストプロトコルサーバーのサポートをリリース</title>
@@ -30,18 +23,11 @@
       <pubDate>Mon, 19 Jan 2026 10:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>アントロピックCEO、NVIDIA批判でダボスを驚愕させる</title>
-      <link>https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/</link>
-      <description>アンスロピックのCEO、ダリオ・アモデイ氏は、中国への売却計画をめぐり、政権と米国の半導体企業を激しく非難した。この批判は、これらの半導体企業の一つであるNVIDIAがアンスロピックの主要パートナーであり投資家でもあるため、特に注目を集めた。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/</guid>
-      <pubDate>Wed, 21 Jan 2026 01:39:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>UStriveのセキュリティ欠陥により、子供を含むユーザーの個人情報が漏洩した。</title>
-      <link>https://techcrunch.com/2026/01/20/ustrive-security-lapse-exposed-personal-data-of-its-users-including-children/</link>
-      <description>オンラインメンタリングサイト「UStrive」は、メールアドレス、電話番号、その他の非公開情報をログイン中の他のユーザーに公開していました。同非営利団体はTechCrunchに対し、この問題はすでに解決したと報告しましたが、影響を受けた個人への通知については明言を避けました。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/01/20/ustrive-security-lapse-exposed-personal-data-of-its-users-including-children/</guid>
-      <pubDate>Tue, 20 Jan 2026 20:47:47 +0000</pubDate>
+      <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
+      <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
@@ -67,9 +53,23 @@
     <item>
       <title>Googleと小売業界のリーダーが、次世代AIショッピングを実現するユニバーサルコマースプロトコルを発表</title>
       <link>https://www.infoq.com/news/2026/01/google-agentic-commerce-ucp/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Googleは、AIを活用したショッピングエージェントが商品の検索から決済、購入後の管理まで、エンドツーエンドでタスクを完了できるようにするオープンスタンダード、Universal Commerce Protocol（UCP）を発表しました。Shopify、Targetなどの企業と共同開発されました。UCPは、コマース機能の標準化、複数の決済サービスへの対応、そしてグローバル展開を目指しています。次世代のエージェンシーコマースを形作ります。リーラ・クミリ著 (source: InfoQ)</description>
+      <description>Googleは、Shopify、Targetなどの企業と共同開発したオープンスタンダード「Universal Commerce Protocol（UCP）」を発表しました。これにより、AIを活用したショッピングエージェントは、商品の検索から決済、購入後の管理まで、エンドツーエンドでタスクを完了できるようになります。UCPは、コマース機能の標準化、複数の決済サービスへの対応、そしてグローバル展開を目指しています。次世代のエージェンシーコマースを形作ります。リーラ・クミリ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/google-agentic-commerce-ucp/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 19 Jan 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>プレゼンテーション: ペタバイト規模の自動運転データから洞察を引き出し、発見を可能にする方法</title>
+      <link>https://www.infoq.com/presentations/autonomous-driving-data/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Kyra Mozleyは、自動運転車の認識技術の進化について論じ、高価な手作業によるラベリングから埋め込みファーストのアーキテクチャへの移行について解説します。CLIPやSAMといった基盤モデルを活用して、自動ラベリング、RAGに着想を得た探索、そしてFew-Shot Adapterを実現する方法について解説します。この講演は、エンジニアリングリーダーにとって、エッジケースにも対応できるモジュール式でスケーラブルなビジョンシステムを構築するための青写真となります。Kyra Mozley著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/autonomous-driving-data/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 21 Jan 2026 15:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>記事シリーズ - AI 支援開発：現実世界のパターン、落とし穴、そして本番環境への準備</title>
+      <link>https://www.infoq.com/articles/ai-assisted-development-series/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>このシリーズでは、概念実証後に何が起こるのか、そしてAIがどのようにソフトウェアデリバリーパイプラインの一部となるのかを検証します。AIが概念実証から本番環境へと移行するにつれ、チームはモデルのパフォーマンスだけでなく、アーキテクチャ、プロセス、そしてアカウンタビリティといった課題にも焦点が当てられていることに気づき始めています。この移行によって、優れたソフトウェアエンジニアリングとは何かが再定義されています。アーサー・カザルス著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/ai-assisted-development-series/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 21 Jan 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>マイクロソフトがXAML Studioをオープンソース化し、長年愛されてきたプロトタイピングツールを復活させる</title>
