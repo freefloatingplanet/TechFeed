@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 06:41:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 06:41:21 +0000</lastBuildDate>
     <item>
-      <title>ソーシャルメディアにおけるFIMI調査のためのDISARMのエージェント的運用化</title>
-      <link>https://arxiv.org/abs/2601.15109v1</link>
-      <description>同盟国とそのエンドユーザーグループ間のデータとインテリジェンスの相互運用性は、NATO諸国の集団防衛能力（通常型とハイブリッド型の両方）の基盤となる要素と考えられている。対外情報操作・干渉（FIMI）および関連するハイブリッド活動は、様々な社会次元と情報圏で行われており、脅威の特性評価、状況認識の持続、対応の調整にこれまで以上に大きな課題をもたらしている。近年のAIの進歩は、操作コンテンツの生成と増幅などを通じて、AIを活用したトローリングや干渉活動のコストをさらに低減させている。FIMIの標準化されたメタデータと分析フレームワークとしてDISARMフレームワークが導入されたにもかかわらず、ソーシャルメディア規模での運用は依然として課題となっている。本稿では、ソーシャルメディア上のFIMIを調査するために、フレームワークに依存しないエージェントベースのDISARMの運用化を提案する。我々は、専門のエージェントAIコンポーネントが協調的に(1) 操作行動候補を検出し、(2) これらの行動を標準的なDISARM分類に透過的にマッピングするマルチエージェントパイプラインを開発しました。このア (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2601.15109v1</guid>
-      <pubDate>Wed, 21 Jan 2026 15:50:13 +0000</pubDate>
+      <title>太極重力波探査ミッションにおける科学観測モードにおける宇宙機慣性センサ質量中心オフセットの校正方法</title>
+      <link>https://arxiv.org/abs/2512.20468v2</link>
+      <description>宇宙船 (SC) と慣性センサーテストマス (TM) 間の質量中心 (CoM) オフセットを正確に較正することは、LISA や Taiji などの宇宙ベースの重力波 (GW) アンテナにとって極めて重要です。現在の較正方法では、科学データの連続性と衛星間リンクを中断する追加の宇宙船操作が必要であり、重力波信号のコヒーレンスが損なわれます。ここでは、慣性センサー、干渉計、微分波面センサーからの標準的な科学モード測定値のみを使用して、CoM オフセットベクトルを直接推定する、操作不要の較正方式を紹介します。モデルベースの適応型カルマンフィルターに CoM オフセットによって誘発される結合加速度を拡張状態として埋め込むことで、すべての軸にわたって 0.01～1.5 mm の推定精度を最大 1% 未満の誤差で実現します。このアプローチにより、定常観測期間中の継続的かつ高精度な較正が可能になり、必要な精度を維持しながら継続的かつ一貫した重力波データ収集が保証されるとともに、性能評価や故障診断といったDFACSの高度な機能も容易になります。微弱な重力波信号の検出にはデータの連続性が不可欠となるLI (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.20468v2</guid>
+      <pubDate>Tue, 23 Dec 2025 16:03:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
