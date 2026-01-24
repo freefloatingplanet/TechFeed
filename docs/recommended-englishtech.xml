@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Jan 2026 06:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 06:37:46 +0000</lastBuildDate>
     <item>
       <title>OktaからLaravelアプリにユーザーを同期する方法</title>
       <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
@@ -23,11 +23,11 @@
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Humans&amp;は、協調がAIの次のフロンティアであると考えており、それを証明するモデルを構築している。</title>
-      <link>https://techcrunch.com/2026/01/22/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/</link>
-      <description>Anthropic、Meta、OpenAI、xAI、Google DeepMind の卒業生によって設立された新しいスタートアップ企業である Humans&amp; は、チャットではなくコラボレーションのための次世代の基盤モデルを構築しています。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/01/22/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/</guid>
-      <pubDate>Thu, 22 Jan 2026 19:24:13 +0000</pubDate>
+      <title>プレゼンテーション: グリッドをグリーンに保つための Kraken のサーバーレス アーキテクチャ</title>
+      <link>https://www.infoq.com/presentations/integrating-renewable-energy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ケビン・ボウマン氏が、英国の30GWの電力網を再生可能エネルギーでバランス調整するKraken Technologyの取り組みについて解説します。AWS Lambda、EventBridge、DynamoDBを活用し、グリッドスケールのバッテリーと仮想発電所を管理するアーキテクチャ設計図について解説します。サーバーレススタックによって、ミリ秒単位のレイテンシーで周波数応答と24時間予測最適化を実現し、電力供給を維持するKraken Technologyの取り組みをご覧ください。ケビン・ボウマン著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/integrating-renewable-energy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 23 Jan 2026 15:15:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
@@ -35,6 +35,13 @@
       <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。そこで、OAuthフロー、トークン管理、プロバイダー設定を自動化するPipesを開発しました。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VoidZero、RustベースのパフォーマンスとPrettierの互換性を備えたOxfmt Alphaを発表</title>
+      <link>https://www.infoq.com/news/2026/01/oxfmt-rust-prettier/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>VoidZeroは、JavaScriptおよびTypeScriptプロジェクトにおいてPrettierよりも30倍以上の高速パフォーマンスを実現する、最先端のRustベースのコードフォーマッタ「Oxfmt」を発表しました。既存のPrettier構成と互換性のあるOxfmtは、効率性とスタイルの一貫性を求める開発者のニーズに応えます。シームレスな移行、強化された機能、そしてコミュニティ主導の改善へのコミットメントをお楽しみください。ダニエル・カーティス (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/oxfmt-rust-prettier/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 23 Jan 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
@@ -49,13 +56,6 @@
       <description>Cerbosは、開発者がアプリケーションにきめ細かなアクセス制御を実装するのに役立つオープンソースの認可エンジンです。Apache 2.0ライセンスの下でリリースされており、アプリケーションが特定のアクションを許可するかどうかを判断するための、一元化されたポリシー決定ポイントを提供します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</guid>
       <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Googleと小売業界のリーダーが、次世代AIショッピングを実現するユニバーサルコマースプロトコルを発表</title>
-      <link>https://www.infoq.com/news/2026/01/google-agentic-commerce-ucp/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Googleは、Shopify、Targetなどの企業と共同開発したオープンスタンダード「Universal Commerce Protocol（UCP）」を発表しました。これにより、AIを活用したショッピングエージェントは、商品の検索からチェックアウト、購入後の管理まで、エンドツーエンドでタスクを完了できるようになります。UCPは、コマース機能の標準化、複数の決済サービスへの対応、そしてグローバル展開を目指しています。次世代のエージェンシーコマースを形作ります。リーラ・クミリ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/google-agentic-commerce-ucp/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 19 Jan 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>プレゼンテーション: ペタバイト規模の自動運転データから洞察を引き出し、発見を可能にする方法</title>
@@ -74,7 +74,7 @@
     <item>
       <title>記事シリーズ - AI 支援開発：現実世界のパターン、落とし穴、そして本番環境への準備</title>
       <link>https://www.infoq.com/articles/ai-assisted-development-series/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>このシリーズでは、概念実証後に何が起こるのか、そしてAIがどのようにソフトウェアデリバリーパイプラインの一部となるのかを検証します。AIが概念実証から本番環境へと移行するにつれ、チームはモデルのパフォーマンスだけでなく、アーキテクチャ、プロセス、そしてアカウンタビリティといった課題にも焦点が当てられていることに気づき始めています。この移行によって、優れたソフトウェアエンジニアリングとは何かが再定義されています。アーサー・カザルス著 (source: InfoQ)</description>
+      <description>このシリーズでは、概念実証後に何が起こるのか、そしてAIがどのようにソフトウェアデリバリーパイプラインの一部となるのかを検証します。AIが概念実証から本番環境に移行するにつれ、チームはモデルのパフォーマンスだけでなく、アーキテクチャ、プロセス、そしてアカウンタビリティといった課題にも焦点を当てていることに気づき始めています。この移行によって、優れたソフトウェアエンジニアリングとは何かが再定義されています。アーサー・カザルス著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/articles/ai-assisted-development-series/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 21 Jan 2026 09:00:00 +0000</pubDate>
     </item>

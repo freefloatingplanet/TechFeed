@@ -7,39 +7,36 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Jan 2026 06:41:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 06:37:35 +0000</lastBuildDate>
     <item>
-      <title>“うんち”はどこでしますか？　1万人が暮らす街で排便をシミュレーション　米大学が真面目に調査したワケ</title>
-      <link>https://www.itmedia.co.jp/news/articles/2601/23/news027.html</link>
-      <description>実際には、通勤や通学をし、レストランで食事をし、出先でトイレを利用する。研究チームが発表した「Where do We Poop？」（私たちはどこでウンチをするのか？）というユニークなタイトルの論文は、人の移動と生理現象をコンピュータ上でシミュレーションし、より正確な感染予測を行おうという試みだ。 このシミュレーシ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2601/23/news027.html</guid>
-      <pubDate>Thu, 22 Jan 2026 23:06:52 +0000</pubDate>
+      <title>Geminiの「Gem」で自分専用のAWS認定講師を作ってみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/gemini-gem-aws-certification-instructor/</link>
+      <description>はじめに みなさん、AWS 認定試験の勉強は捗っているでしょうか。 最近、「ソリューションアーキテクト – プロフェッショナル（SAP-C02）」の勉強をしていたのですが、せっかくなので AI を活用して効率的に学習できないかなと模索していました。 その結果、 Gemini の Gem を作成し、専用の「AWS 試験対策講師」を作っ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://dev.classmethod.jp/articles/gemini-gem-aws-certification-instructor/</guid>
+      <pubDate>Fri, 23 Jan 2026 04:59:34 +0000</pubDate>
     </item>
     <item>
-      <title>Docker Composeの基本の書き方</title>
-      <link>https://zenn.dev/wakinoza/articles/991cfc8b0f539c</link>
-      <description>はじめに
-こんにちは。
-プログラミング初心者wakinozaと申します。
-勉強中に調べたことを記事にまとめています。
-十分気をつけて執筆していますが、なにぶん初心者が書いた記事なので、理解が浅い点などあるかと思います。
-間違い等あれば、指摘いただけると助かります。
-記事を参考にされる方は、初心者の記事であることを念頭において、お読みいただけると幸いです。
+      <title>【個人開発】Claude Codeに83%のコードを書かせる「ドキュメント駆動開発」の全貌【Flutter向けCLAUDE.md公開】</title>
+      <link>https://zenn.dev/furunag/articles/claude-code-document-driven-development</link>
+      <description>こんにちは、MLエンジニアのふるです。最近ネイティブアプリにハマったので、ネイティブアプリの記事をたくさん書いていこうと思います。noteで書いた記事における技術解説版です。
 
- 記事のテーマ
-この記事は、Docker Composeの書き方についてまとめています。
-
- 動作環境
-
-Windows11
-Visual Studio Code
-Docker 29
+ AIサマリー
 
 
- 目次
-1. Docker Compose... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/wakinoza/articles/991cfc8b0f539c</guid>
-      <pubDate>Wed, 21 Jan 2026 07:22:37 +0000</pubDate>
+ 今回作ったアプリについて
+トークマネ - AIが能動的に声をかけてくれる予定管理アプリ
+毎朝「今日の予定、決めましょうか？」とAIが話しかけてくる。音声で会話するだけで予定が自動登録。
+「ひとりじゃないから、続く」
+以下この個人開発アプリの解説記事になります。
+
+試してみたい方はこちら
+
+
+ はじめに
+「AIにアプリを作らせようとしたが、仕様を勝手に変えられた」
+「文脈を忘れてバグを埋め込ま... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/furunag/articles/claude-code-document-driven-development</guid>
+      <pubDate>Fri, 23 Jan 2026 03:00:01 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Wikipediaボランティアが長年培った「AI臭い文章の検知ルール」が、逆にAIによる擬態を巧妙にする「Humanizer」というツールを生み出すという皮肉な展開に</title>
@@ -49,45 +46,32 @@ Docker 29
       <pubDate>Fri, 23 Jan 2026 02:08:53 +0000</pubDate>
     </item>
     <item>
+      <title>全身に反射材をつけたゲーミング雪かき、視認性抜群だと話題に「クソコラみたいな反射の仕方するのなｗ」「テクスチャバグかよ」</title>
+      <link>https://togetter.com/li/2655307</link>
+      <description>吹雪で車から見えにくいため、全身にオーロラリフレクターを装着して雪かきを行い、視認性を高めている。虹色に反射して非常に目立ち、三人で作業する様子や関連アイテムの紹介もある。見た目が派手で合成やゲームのテクスチャバグのようだと受け取られ、ネタ感を楽しむ反応が多数寄せられている。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2655307</guid>
+      <pubDate>Sat, 24 Jan 2026 01:21:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>「あとで読む」を消化できない全ての人へ</title>
+      <link>https://zenn.dev/ogi1211/articles/curaq-philosophy</link>
+      <description>知識の流動性を最大化する、CuraQの設計思想
+こんにちは、あるいは初めまして。
+先日、初めての個人開発でよくわからないままバズを頂き（？）、幸いなことに3,400名を超えるユーザー様に登録頂いた CuraQ（クラキュー）というサービスを作っている、おぎと申します。
+今回はあらためてどういう思想でCuraQを作ったのか？や、サービスの設計の中で「単なるブックマーク」や「あとで読むリスト」以上の意味を見出している私自身の考えを共有したいと思い、記事を書いています。
+もし興味を持っていただけたらサービスは無料で使い始められますので、ページ下部のリンクからぜひご登録をお願いします！
+
+
+ ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ogi1211/articles/curaq-philosophy</guid>
+      <pubDate>Fri, 23 Jan 2026 07:18:41 +0000</pubDate>
+    </item>
+    <item>
       <title>「人間がコードを書く時代は終わった」議論は2種類のコードを混同している</title>
       <link>https://zenn.dev/uryyyyyyy/articles/f127af4277aa32</link>
-      <description>ちょうど最近このような投稿を連続して見かけたので、「コード」が何を指しているのかの自分の理解を整理しておきます。
-
-https://note.com/suthio/n/n3f88afe28dbd
-世の中的に見ればソフトウェアエンジニアは未だに売り手市場であると言えると思うので、上記の指摘について「そんなことはないはず」と反論する人も多いと思います。
-また、上のRyanさんのツイートでも
-
-That's not to say SWEs don't have work to do
-
-と書かれています。これも「ソフトウェアエンジニアはコードを書く仕事なのだから、AIが書くようになるなら仕事がな... (source: Zennのトレンド)</description>
+      <description>ちょうど最近このような投稿を連続して見かけたので、「コード」が何を指しているのかの自分の理解を整理しておきます。 世の中的に見ればソフトウェアエンジニアは未だに売り手市場であると言えると思うので、上記の指摘について「そんなことはないはず」と反論する人も多いと思います。 また、上のRyanさんのツイート... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://zenn.dev/uryyyyyyy/articles/f127af4277aa32</guid>
-      <pubDate>Thu, 22 Jan 2026 08:13:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜ、MCPよりも「ファイルベースで扱うSkills」の方が便利なのか</title>
-      <link>https://zenn.dev/karamage/articles/db488ca6362eb2</link>
-      <description>最近、Model Context Protocol（MCP）ではなく「ファイルベースで扱うSkills」の方が便利だという話をよく耳にするようになりました。
-実際に過去数カ月、自分もClaude Codeや関連ツールを触りながら、MCPとSkillsを使ってきました。
-その中で感じたことを雑多に言語化したいと思います
-私が最初にMCPを触ったときの印象は、「とてもよくできた接続規格」でした。
-USBのように、外部ツールやデータソースをきれいにつなぐための標準という感じです。
-一方で、実際の業務で使おうとすると「で、結局このプロジェクトでは何をどうすればいいんだっけ」という部分は、別途プロ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/karamage/articles/db488ca6362eb2</guid>
-      <pubDate>Mon, 19 Jan 2026 11:45:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜ、IT業界"にわか"層は「Web系がSIerに比べて技術的に優位」という幻想を抱くのか？</title>
-      <link>https://zenn.dev/pdfractal/articles/e9f3aa5f0d55f0</link>
-      <description>はじめに
-IT業界においてWeb系とSIerを比較する議論は長年繰り返されてきましたが、その多くは技術的優劣という形で語られています。
-しかしこの議論をよく観察すると、技術そのものではなく認知の歪みが話題の中心に据えられていることが分かります。
-とりわけITのにわか層においては、Web系は技術的に優位でSIerは劣位であるという単純化された幻想が強固に信じられています。
-本稿では、この幻想がどのような構造によって生まれ、なぜ再生産され続けるのかを論理的に整理します。
-議論の対象は技術文化ではなく、人事文化とマネジメント構造、そしてそれを誤認する人間側の認知メカニズムです。
-
- 技術は... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pdfractal/articles/e9f3aa5f0d55f0</guid>
-      <pubDate>Mon, 19 Jan 2026 06:06:58 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 08:09:37 +0000</pubDate>
     </item>
     <item>
       <title>【C#】これからはTcpClient/UdpClientをやめてSocketを直接使おう</title>
@@ -99,14 +83,15 @@ IT業界においてWeb系とSIerを比較する議論は長年繰り返され�
       <pubDate>Wed, 21 Jan 2026 09:24:18 +0000</pubDate>
     </item>
     <item>
-      <title>「人間がコードを書く時代は終わった」— Node.js創始者の宣言から考える、ソフトウェア開発の未来</title>
-      <link>https://zenn.dev/liushengli/articles/c12d4a6881b604</link>
-      <description>「人間がコードを書く時代は終わった」
-この言葉は、Node.jsの生みの親であるRyan Dahlが最近投稿したツイートの一節です。彼はこう続けています。「SWE（ソフトウェアエンジニア）を自認する私たちにとっては不穏な話だが、それでも真実だ。エンジニアの仕事がなくなるわけではない。ただ、シンタックスを直接書くことはもう仕事ではなくなった」
-私自身、Claude Codeを使い始めてから半年が経ちました。振り返ってみると、この間ほとんど手でコードを書いていません。最初は「本当にこれでいいのか」という不安がありましたが、今では全く違う形でソフトウェア開発と向き合っています。
-この記事では... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/liushengli/articles/c12d4a6881b604</guid>
-      <pubDate>Wed, 21 Jan 2026 14:17:24 +0000</pubDate>
+      <title>量子コンピュータの「幻滅期」を超えて：2026年、実利と研究が切り離される再編の幕開け</title>
+      <link>https://zenn.dev/yuichirominato/articles/52954bca4e24f2</link>
+      <description>2025年、加速した「量子離れ」の背景
+これまで数年にわたり、多くの企業が「量子優位性」という言葉に導かれ、多額の投資を続けてきました。しかし、2025年を振り返ると、その多くは実用性とは程遠い、ごく小さな**TOY問題（おもちゃの問題）**の解決に終始してしまったのが現実です。
+「いつか、既存のコンピュータを凌駕する」というエサを追い求め、存在しないゴールを探すためにお金と時間を費やすフェーズは、2025年をもって限界を迎えました。結果が出ないプロジェクトに対し、シビアな判断を下し、撤退・離脱を選択する企業が相次いだのが昨年の大きな動きです。
+
+ 「基礎研究」と「応用研究」の混同と... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yuichirominato/articles/52954bca4e24f2</guid>
+      <pubDate>Fri, 23 Jan 2026 05:35:07 +0000</pubDate>
     </item>
     <item>
       <title>いいから設計段階でレビュー依頼を出せ</title>
