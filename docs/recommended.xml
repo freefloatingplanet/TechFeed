@@ -7,36 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Jan 2026 06:37:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 06:38:16 +0000</lastBuildDate>
     <item>
-      <title>Geminiの「Gem」で自分専用のAWS認定講師を作ってみた | DevelopersIO</title>
-      <link>https://dev.classmethod.jp/articles/gemini-gem-aws-certification-instructor/</link>
-      <description>はじめに みなさん、AWS 認定試験の勉強は捗っているでしょうか。 最近、「ソリューションアーキテクト – プロフェッショナル（SAP-C02）」の勉強をしていたのですが、せっかくなので AI を活用して効率的に学習できないかなと模索していました。 その結果、 Gemini の Gem を作成し、専用の「AWS 試験対策講師」を作っ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/gemini-gem-aws-certification-instructor/</guid>
-      <pubDate>Fri, 23 Jan 2026 04:59:34 +0000</pubDate>
+      <title>原稿の確認依頼を行ったところ先方から「Geminiはこう言っています」とAIのコピペ修正案が送られてきて衝撃を受けた→「世に出てない原稿をAIに食わせたって事だよな...」</title>
+      <link>https://togetter.com/li/2655455</link>
+      <description>原稿確認を依頼したら、相手から「Geminiはこう言っています」とAIの修正案をそのまま送られてきて衝撃を受けた。誠実な印象の人だけに驚きが大きい。AIに大量に読ませて信頼しているのか、確認者の意見を直接聞きたかっただけなのに自分で読まず即レスでコピペするのは失礼で編集の存在を否定しているように感じる。未... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2655455</guid>
+      <pubDate>Sat, 24 Jan 2026 07:49:49 +0000</pubDate>
     </item>
     <item>
-      <title>【個人開発】Claude Codeに83%のコードを書かせる「ドキュメント駆動開発」の全貌【Flutter向けCLAUDE.md公開】</title>
-      <link>https://zenn.dev/furunag/articles/claude-code-document-driven-development</link>
-      <description>こんにちは、MLエンジニアのふるです。最近ネイティブアプリにハマったので、ネイティブアプリの記事をたくさん書いていこうと思います。noteで書いた記事における技術解説版です。
-
- AIサマリー
-
-
- 今回作ったアプリについて
-トークマネ - AIが能動的に声をかけてくれる予定管理アプリ
-毎朝「今日の予定、決めましょうか？」とAIが話しかけてくる。音声で会話するだけで予定が自動登録。
-「ひとりじゃないから、続く」
-以下この個人開発アプリの解説記事になります。
-
-試してみたい方はこちら
-
+      <title>ステルスSSID、百害あって一利なし</title>
+      <link>https://zenn.dev/digeon/articles/bfe97d0ef09232</link>
+      <description>ステルスSSID、百害あって一利なし
 
  はじめに
-「AIにアプリを作らせようとしたが、仕様を勝手に変えられた」
-「文脈を忘れてバグを埋め込ま... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/furunag/articles/claude-code-document-driven-development</guid>
-      <pubDate>Fri, 23 Jan 2026 03:00:01 +0000</pubDate>
+「SSIDを隠せばセキュリティが上がる」
+無線LAN設定でこのような運用をしてませんか？
+ステルスSSID（Hidden SSID）は、ぱっと見セキュリティ対策に見えますが、現実は効果がないどころか、むしろセキュリティリスクを高めます。
+本記事では、ステルスSSIDがなぜ「意味がない」のか、そしてどのような対策が本当に有効なのかを解説できたらと思います
+LLMに査読させまくりましたが、誤りがあればコメントで優しく教えていただけると幸いです。
+あとこの記事の大半は企業の無線LANが主な話題となります
+!
+30秒でわかるかもしれない結論... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/digeon/articles/bfe97d0ef09232</guid>
+      <pubDate>Thu, 22 Jan 2026 11:15:59 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Wikipediaボランティアが長年培った「AI臭い文章の検知ルール」が、逆にAIによる擬態を巧妙にする「Humanizer」というツールを生み出すという皮肉な展開に</title>
@@ -46,11 +40,29 @@
       <pubDate>Fri, 23 Jan 2026 02:08:53 +0000</pubDate>
     </item>
     <item>
-      <title>全身に反射材をつけたゲーミング雪かき、視認性抜群だと話題に「クソコラみたいな反射の仕方するのなｗ」「テクスチャバグかよ」</title>
-      <link>https://togetter.com/li/2655307</link>
-      <description>吹雪で車から見えにくいため、全身にオーロラリフレクターを装着して雪かきを行い、視認性を高めている。虹色に反射して非常に目立ち、三人で作業する様子や関連アイテムの紹介もある。見た目が派手で合成やゲームのテクスチャバグのようだと受け取られ、ネタ感を楽しむ反応が多数寄せられている。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2655307</guid>
-      <pubDate>Sat, 24 Jan 2026 01:21:48 +0000</pubDate>
+      <title>GitHub Copilot SDK で遊ぼう - Copilot の「できない」を解決する</title>
+      <link>https://zenn.dev/openjny/articles/8c98d344f78889</link>
+      <description>GitHub Copilot、めちゃくちゃ便利ですよね。VS Code 上で使っていることが多いのですが、コード補完はもちろん、Chat でかなりエージェント的な作業もできるようになりました。特に devcontainer のような隔離環境上で YOLO させるのに最近はハマっています。
+でも、使い込んでいくと「これ、できないの？」と思う場面が出てきます。その代表例が、決定的なワークフローを組むことです。現状では、あくまで自然言語・LLM でフロー制御するしかありません。
+ですが、最近登場した GitHub Copilot SDK を使えば、この課題を解決できます。
+本記事では、Copi... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/openjny/articles/8c98d344f78889</guid>
+      <pubDate>Fri, 23 Jan 2026 10:43:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>「人間がコードを書く時代は終わった」議論は2種類のコードを混同している</title>
+      <link>https://zenn.dev/uryyyyyyy/articles/f127af4277aa32</link>
+      <description>ちょうど最近このような投稿を連続して見かけたので、「コード」が何を指しているのかの自分の理解を整理しておきます。
+
+https://note.com/suthio/n/n3f88afe28dbd
+世の中的に見ればソフトウェアエンジニアは未だに売り手市場であると言えると思うので、上記の指摘について「そんなことはないはず」と反論する人も多いと思います。
+また、上のRyanさんのツイートでも
+
+That's not to say SWEs don't have work to do
+
+と書かれています。これも「ソフトウェアエンジニアはコードを書く仕事なのだから、AIが書くようになるなら仕事がな... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/uryyyyyyy/articles/f127af4277aa32</guid>
+      <pubDate>Thu, 22 Jan 2026 08:13:42 +0000</pubDate>
     </item>
     <item>
       <title>「あとで読む」を消化できない全ての人へ</title>
@@ -67,22 +79,6 @@
       <pubDate>Fri, 23 Jan 2026 07:18:41 +0000</pubDate>
     </item>
     <item>
-      <title>「人間がコードを書く時代は終わった」議論は2種類のコードを混同している</title>
-      <link>https://zenn.dev/uryyyyyyy/articles/f127af4277aa32</link>
-      <description>ちょうど最近このような投稿を連続して見かけたので、「コード」が何を指しているのかの自分の理解を整理しておきます。 世の中的に見ればソフトウェアエンジニアは未だに売り手市場であると言えると思うので、上記の指摘について「そんなことはないはず」と反論する人も多いと思います。 また、上のRyanさんのツイート... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/uryyyyyyy/articles/f127af4277aa32</guid>
-      <pubDate>Fri, 23 Jan 2026 08:09:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【C#】これからはTcpClient/UdpClientをやめてSocketを直接使おう</title>
-      <link>https://zenn.dev/nuskey/articles/csharp-dont-use-tcpclient</link>
-      <description>C#のSystem.Net.Sockets以下には、TcpClient/UdpClientというクラスが存在します。C#でTCP/UDPを扱う方法を検索すると上位に出てくるため、利用している方も多いのではないでしょうか。
-しかし、これらは実質的に単なるSocketのラッパーであり、かつAPIも現代的な視点で見るとかなり奇妙なものになっています。dotnet/runtimeのissueやPRを読んでいても、これらのクラスは積極的にメンテナンスされておらず、今となっては推奨される手法ではない、というのが最新の見解であるようです。
-とはいえ、いきなり「これらのクラスを使うのをやめろ」というだけ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nuskey/articles/csharp-dont-use-tcpclient</guid>
-      <pubDate>Wed, 21 Jan 2026 09:24:18 +0000</pubDate>
-    </item>
-    <item>
       <title>量子コンピュータの「幻滅期」を超えて：2026年、実利と研究が切り離される再編の幕開け</title>
       <link>https://zenn.dev/yuichirominato/articles/52954bca4e24f2</link>
       <description>2025年、加速した「量子離れ」の背景
@@ -94,21 +90,51 @@
       <pubDate>Fri, 23 Jan 2026 05:35:07 +0000</pubDate>
     </item>
     <item>
-      <title>いいから設計段階でレビュー依頼を出せ</title>
-      <link>https://zenn.dev/gizmo/articles/d2962c4a0754c7</link>
-      <description>はじめに
-開発チームでよくある、こんなやり取り。
+      <title>In silicoペプチド創薬の教科書</title>
+      <link>https://zenn.dev/labcode/books/6c6dc31864ef14</link>
+      <description>📰 概要
+In silicoペプチド創薬の技術を体系的に学び、実験に進む前段階を“PCだけ”で完結させたい方へ。
 
-「進捗どうですか？」
-「大丈夫です、順調です。そろそろ動くものができそうです」
-「動作確認取れたので、プルリク出しました。レビューお願いします！」
+本書は、Wetでペプチド創薬を専門にしていた著者が、その後 in silico 創薬を学び、
+ペプチド創薬を「In silico」という視点から整理・実装した技術書です。
 
-このやり取りが常態化しているチームは、間違いなく「遅い」です。
-なぜなら、実装をすべて終えてからレビューに持ってくるという行為は、チーム全体の効率よりも「自分のタスクを個人の責任範囲だけで完結させたい」という意識が勝ってしまっているからです。
-結果として、最後にドカンと巨大なプルリクエストが出され、手戻りが発生する。
-本記事では、このスタイルがなぜ現代の開発において致命的なのか、そして... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/gizmo/articles/d2962c4a0754c7</guid>
-      <pubDate>Tue, 20 Jan 2026 09:14:01 +0000</pubDate>
+環境構築から具体的な操作方法、つまずきやすいポイントやエラーの考え方まで含め、
+「In silicoペプチド創薬を自分の研究に取り入れる」ことをゴールに構成しています。
+
+本書で紹介する手法は、近年の論文で実際に用いられているアプローチを中心としております。
+この一冊を通して、In silico ペプチド創薬を学び、実験設計や論文化へとつなげてみませんか。
+
+👫 対象とする読者
+・ペプチド創薬に興味はあるが、In silicoは未経験の方
+・in vitro スクリーニングの限界を感じ、新しい探索手法を探している研究者
+・低分子の in silico 創薬経験はあるが、ペプチドには踏み出せていない方
+・自分のペプチド配列を、計算機上で評価・比較したい方
+
+💰 販売価格
+期間限定で ¥3000→¥200 (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/labcode/books/6c6dc31864ef14</guid>
+      <pubDate>Sat, 24 Jan 2026 10:51:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xperia 1 Ⅱ にLineageOSを焼いてソシャゲ専用端末としての余生を与える</title>
+      <link>https://zenn.dev/tokium_dev/articles/xperia-1-mark2-lineageos-revival</link>
+      <description>!
+本記事は、2025年末の情報を元に作成されました。
+本記事の情報を利用して生じた損害については、筆者は一切の責任を負いませんので、ご注意ください。
+
+!
+要点だけ知りたい人はこちら → #忙しい人のための要点まとめ
+
+
+ 背景
+年末年始休暇に大掃除をしていたところ、昔使っていたモバイル端末がなんと6台も発掘されました。
+購入した当時はいずれも優秀な端末でしたが、寄る年波には勝てず😭 特にバッテリーの劣化は無視できないレベルで、交換用のバッテリーも信頼性に足るものを見つけ出すのは困難な状況でした。
+
+左から、Nexus 6P・Razer Phone・Xperia 1 Ⅱ
+
+基盤の破砕処... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/xperia-1-mark2-lineageos-revival</guid>
+      <pubDate>Fri, 23 Jan 2026 00:00:43 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】iOS / MacのSafariで120Hzの滑らかなブラウジングを有効にする隠し設定</title>
