@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Jan 2026 06:38:16 +0000</lastBuildDate>
-    <item>
-      <title>原稿の確認依頼を行ったところ先方から「Geminiはこう言っています」とAIのコピペ修正案が送られてきて衝撃を受けた→「世に出てない原稿をAIに食わせたって事だよな...」</title>
-      <link>https://togetter.com/li/2655455</link>
-      <description>原稿確認を依頼したら、相手から「Geminiはこう言っています」とAIの修正案をそのまま送られてきて衝撃を受けた。誠実な印象の人だけに驚きが大きい。AIに大量に読ませて信頼しているのか、確認者の意見を直接聞きたかっただけなのに自分で読まず即レスでコピペするのは失礼で編集の存在を否定しているように感じる。未... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2655455</guid>
-      <pubDate>Sat, 24 Jan 2026 07:49:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>ステルスSSID、百害あって一利なし</title>
-      <link>https://zenn.dev/digeon/articles/bfe97d0ef09232</link>
-      <description>ステルスSSID、百害あって一利なし
-
- はじめに
-「SSIDを隠せばセキュリティが上がる」
-無線LAN設定でこのような運用をしてませんか？
-ステルスSSID（Hidden SSID）は、ぱっと見セキュリティ対策に見えますが、現実は効果がないどころか、むしろセキュリティリスクを高めます。
-本記事では、ステルスSSIDがなぜ「意味がない」のか、そしてどのような対策が本当に有効なのかを解説できたらと思います
-LLMに査読させまくりましたが、誤りがあればコメントで優しく教えていただけると幸いです。
-あとこの記事の大半は企業の無線LANが主な話題となります
-!
-30秒でわかるかもしれない結論... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/digeon/articles/bfe97d0ef09232</guid>
-      <pubDate>Thu, 22 Jan 2026 11:15:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Jan 2026 06:44:01 +0000</lastBuildDate>
     <item>
       <title>【海外記事紹介】Wikipediaボランティアが長年培った「AI臭い文章の検知ルール」が、逆にAIによる擬態を巧妙にする「Humanizer」というツールを生み出すという皮肉な展開に</title>
       <link>https://techfeed.io/entries/6972d8351c8f0875c5df4ad6?from=rss</link>
@@ -40,54 +16,61 @@ LLMに査読させまくりましたが、誤りがあればコメントで優�
       <pubDate>Fri, 23 Jan 2026 02:08:53 +0000</pubDate>
     </item>
     <item>
-      <title>GitHub Copilot SDK で遊ぼう - Copilot の「できない」を解決する</title>
-      <link>https://zenn.dev/openjny/articles/8c98d344f78889</link>
-      <description>GitHub Copilot、めちゃくちゃ便利ですよね。VS Code 上で使っていることが多いのですが、コード補完はもちろん、Chat でかなりエージェント的な作業もできるようになりました。特に devcontainer のような隔離環境上で YOLO させるのに最近はハマっています。
-でも、使い込んでいくと「これ、できないの？」と思う場面が出てきます。その代表例が、決定的なワークフローを組むことです。現状では、あくまで自然言語・LLM でフロー制御するしかありません。
-ですが、最近登場した GitHub Copilot SDK を使えば、この課題を解決できます。
-本記事では、Copi... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/openjny/articles/8c98d344f78889</guid>
-      <pubDate>Fri, 23 Jan 2026 10:43:44 +0000</pubDate>
+      <title>AIエージェントにお金を払えば、誰でもゲームを作れてしまうという衝撃の事実　開発者の仕事はどうなる？ (1/5)</title>
+      <link>https://ascii.jp/elem/000/004/368/4368590/</link>
+      <description>Antigravityで作成したアドベンチャーゲーム「99番区の事件簿」のイメージポスター。AntigravityとNano Banana Proで作成（筆者作成） エージェントタイプのAIが注目を集めています。人間の指示を受けて、AIが何をするべきかを自己判断して、必要なことを次々に実行して進めてくれるというものです。12月末にメタへの買... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://ascii.jp/elem/000/004/368/4368590/</guid>
+      <pubDate>Mon, 26 Jan 2026 01:29:18 +0000</pubDate>
     </item>
     <item>
-      <title>「人間がコードを書く時代は終わった」議論は2種類のコードを混同している</title>
-      <link>https://zenn.dev/uryyyyyyy/articles/f127af4277aa32</link>
-      <description>ちょうど最近このような投稿を連続して見かけたので、「コード」が何を指しているのかの自分の理解を整理しておきます。
+      <title>エンジニアの仕事がAIで置き換え可能なんて悲しいこと、簡単に言わないで欲しい</title>
+      <link>https://zenn.dev/ispec_inc/articles/82e30345ca4b1b</link>
+      <description>!
+本記事は一般論を述べたり、他者へ思想の変化を求めたりするものではありません。あくまで自分自身が感じたことをつらつらと書いたものです。
+また、本記事における"エンジニア"は"ソフトウェアエンジニア"と読み替えていただいた方が正確かもしれません。
 
-https://note.com/suthio/n/n3f88afe28dbd
-世の中的に見ればソフトウェアエンジニアは未だに売り手市場であると言えると思うので、上記の指摘について「そんなことはないはず」と反論する人も多いと思います。
-また、上のRyanさんのツイートでも
-
-That's not to say SWEs don't have work to do
-
-と書かれています。これも「ソフトウェアエンジニアはコードを書く仕事なのだから、AIが書くようになるなら仕事がな... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/uryyyyyyy/articles/f127af4277aa32</guid>
-      <pubDate>Thu, 22 Jan 2026 08:13:42 +0000</pubDate>
+最近、SNSや技術記事投稿プラットフォームなどで「エンジニアの仕事がAIによってなくなる」だとか、「AIによって生成されるコードを利用することが当たり前になる」だとか、そういった昨今のAIの発達に伴うエンジニアの価値の変化を警告するような旨の主張をよく見かけます。そして自分はそういった主張を見るたび、正直辟易しています。悲しいです。
+これはそ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ispec_inc/articles/82e30345ca4b1b</guid>
+      <pubDate>Sat, 24 Jan 2026 03:50:08 +0000</pubDate>
     </item>
     <item>
-      <title>「あとで読む」を消化できない全ての人へ</title>
-      <link>https://zenn.dev/ogi1211/articles/curaq-philosophy</link>
-      <description>知識の流動性を最大化する、CuraQの設計思想
-こんにちは、あるいは初めまして。
-先日、初めての個人開発でよくわからないままバズを頂き（？）、幸いなことに3,400名を超えるユーザー様に登録頂いた CuraQ（クラキュー）というサービスを作っている、おぎと申します。
-今回はあらためてどういう思想でCuraQを作ったのか？や、サービスの設計の中で「単なるブックマーク」や「あとで読むリスト」以上の意味を見出している私自身の考えを共有したいと思い、記事を書いています。
-もし興味を持っていただけたらサービスは無料で使い始められますので、ページ下部のリンクからぜひご登録をお願いします！
-
-
- ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ogi1211/articles/curaq-philosophy</guid>
-      <pubDate>Fri, 23 Jan 2026 07:18:41 +0000</pubDate>
+      <title>エンジニアのAI疲れとの付き合い方</title>
+      <link>https://zenn.dev/karamage/articles/306f0c571e0af9</link>
+      <description>この記事は、「AIを使えば楽になるはずなのに、なぜか前より疲れている」 と感じたことがあるエンジニアの人に向けて書いています。 AIに何度もプロンプトを投げ直し、出てきたコードを修正し続け、気づけば一日が終わっている。 「AIは便利なはずの道具なのに、なんで自分はこんなに消耗しているんだろう。。（泣）」 ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/karamage/articles/306f0c571e0af9</guid>
+      <pubDate>Sun, 25 Jan 2026 00:36:25 +0000</pubDate>
     </item>
     <item>
-      <title>量子コンピュータの「幻滅期」を超えて：2026年、実利と研究が切り離される再編の幕開け</title>
-      <link>https://zenn.dev/yuichirominato/articles/52954bca4e24f2</link>
-      <description>2025年、加速した「量子離れ」の背景
-これまで数年にわたり、多くの企業が「量子優位性」という言葉に導かれ、多額の投資を続けてきました。しかし、2025年を振り返ると、その多くは実用性とは程遠い、ごく小さな**TOY問題（おもちゃの問題）**の解決に終始してしまったのが現実です。
-「いつか、既存のコンピュータを凌駕する」というエサを追い求め、存在しないゴールを探すためにお金と時間を費やすフェーズは、2025年をもって限界を迎えました。結果が出ないプロジェクトに対し、シビアな判断を下し、撤退・離脱を選択する企業が相次いだのが昨年の大きな動きです。
+      <title>Clawdbot入門(#1)：チャットアプリで動く“自分専用AIアシスタント”の出来ることと安全な始め方</title>
+      <link>https://zenn.dev/yujmatsu/articles/20260125_clawdbot_beginners_guide</link>
+      <description>本記事は 2026-01 時点の公式ドキュメント/リポジトリの情報を元に整理しています。Clawdbot は更新が速いので、手順や設定キーが変わっていたら公式ドキュメントを優先してください。
 
- 「基礎研究」と「応用研究」の混同と... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yuichirominato/articles/52954bca4e24f2</guid>
-      <pubDate>Fri, 23 Jan 2026 05:35:07 +0000</pubDate>
+
+ はじめに（この記事でわかること）
+「Clawdbotって話題だけど、結局なにができるの？」「Mac miniを買わないとダメ？」「危なくない？」という初学者の不安を、仕組み・出来ること・安全な始め方の3点で解消するのがこの記事のゴールです。
+この記事でわかること：
+
+Clawdbot が「ChatGPT/Claudeの代替」ではなく、何が違うのか
+“AIが実際に作業する”とは具体的に何を指す... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yujmatsu/articles/20260125_clawdbot_beginners_guide</guid>
+      <pubDate>Sun, 25 Jan 2026 13:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI開発における知識の定着のしづらさと抗い方</title>
+      <link>https://zenn.dev/hyokokkooko/articles/e5377427a6752f</link>
+      <description>開発にいろんな人がAIを使っている
+こんにちは。
+最近はSNSのエンジニアさんも、技術記事も、見ていると今やどこもかしもAIを使った開発が盛んになってきていますね。
+自分が働いている会社もAIフル活用で、GeminiやDevin、Copilotの有料版をエンジニア全員に付与されており、日々のお仕事でも活用しています。
+使い始めて半年以上経過し、社内でも色々と変化や認識が生まれてきました。
+
+定期的にAIへのいい感じの指示の出し方の共有会をする
+AIはどんどん使ってくれ
+とはいえAIは間違いがあるという前提で付き合うこと
+人間へのプルリクエスト前にgithub上のAIレビュー（copi... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hyokokkooko/articles/e5377427a6752f</guid>
+      <pubDate>Sat, 24 Jan 2026 13:37:46 +0000</pubDate>
     </item>
     <item>
       <title>In silicoペプチド創薬の教科書</title>
@@ -116,25 +99,11 @@ In silicoペプチド創薬の技術を体系的に学び、実験に進む前�
       <pubDate>Sat, 24 Jan 2026 10:51:58 +0000</pubDate>
     </item>
     <item>
-      <title>Xperia 1 Ⅱ にLineageOSを焼いてソシャゲ専用端末としての余生を与える</title>
-      <link>https://zenn.dev/tokium_dev/articles/xperia-1-mark2-lineageos-revival</link>
-      <description>!
-本記事は、2025年末の情報を元に作成されました。
-本記事の情報を利用して生じた損害については、筆者は一切の責任を負いませんので、ご注意ください。
-
-!
-要点だけ知りたい人はこちら → #忙しい人のための要点まとめ
-
-
- 背景
-年末年始休暇に大掃除をしていたところ、昔使っていたモバイル端末がなんと6台も発掘されました。
-購入した当時はいずれも優秀な端末でしたが、寄る年波には勝てず😭 特にバッテリーの劣化は無視できないレベルで、交換用のバッテリーも信頼性に足るものを見つけ出すのは困難な状況でした。
-
-左から、Nexus 6P・Razer Phone・Xperia 1 Ⅱ
-
-基盤の破砕処... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/xperia-1-mark2-lineageos-revival</guid>
-      <pubDate>Fri, 23 Jan 2026 00:00:43 +0000</pubDate>
+      <title>【海外記事紹介】「コミットが数ヶ月間ゼロ」MySQLが深刻な分岐点を迎えている —サンフランシスコで関連企業による緊急会合が開催</title>
+      <link>https://techfeed.io/entries/6976c4d025530742c47c7c6c?from=rss</link>
+      <description>1月24日、The Registerが「Devs assessing options for MySQL's future beyond Oracle」と題した記事を公開した。この記事では、MySQLが直面している存続の危機と、Oracle体制からの脱却を模索するコミュニティの動向について詳しく紹介されている。以下に、その内容を紹介する。「MySQLは今、重要な岐路に立たされている」——。かつてMySQL ABで開発に携わり、現在はPerconaのCTOを務めるVadim Tkachenko氏の言葉は、単なる比喩ではない。ウェブのバックエンドを支え続けてきた巨人が、Oracleによる管理下で、かつてない機能不全に陥っている。1. 露呈した「開発停滞」の異常事態今回の危機の引き金となったのは、オープンソース版MySQLのリポジトリにおける異常な静寂だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6976c4d025530742c47c7c6c?from=rss</guid>
+      <pubDate>Mon, 26 Jan 2026 01:35:12 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】iOS / MacのSafariで120Hzの滑らかなブラウジングを有効にする隠し設定</title>
@@ -142,6 +111,13 @@ In silicoペプチド創薬の技術を体系的に学び、実験に進む前�
       <description>1月23日、MacRumorsが「Enable Smoother 120Hz Browsing in Safari」と題した記事を公開した。この記事では、Safariにおける120Hzリフレッシュレートのレンダリングを有効化し、ブラウジングの滑らかさを向上させる方法について詳しく紹介されている。Safariのレンダリング制限を解除するProMotionディスプレイを搭載したiPhone、iPad、Macは、120Hzの非常に滑らかなアニメーションを表示する能力を有している。しかし、AppleのSafariブラウザはデフォルトでページレンダリングが60fpsに制限されており、スクロール時にカクつきや応答の鈍さを感じるユーザーも少なくなかった。これは、ChromeやFirefoxといった他社製ブラウザがより高いフレームレートでの描画に対応していることと比較される要因となっていた。Safariの最新バージョンには、この120Hzレンダリングを解放するための隠し設定が含まれている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6972dcf1ceb8a733ccdbf283?from=rss</guid>
       <pubDate>Fri, 23 Jan 2026 02:29:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>書いた小説をAIに見せてもおだてられるだけなので「小説の公募の下読みをしていますがこのような作品が送られてきました」と頼んだら率直に批評してくれたがAI不信になった</title>
+      <link>https://togetter.com/li/2655953</link>
+      <description>AIに小説を見せるとお世辞しかしないと思ったが、「公募の下読み」を装うと率直な辛辣批評が返り、不信感が芽生えた。AIは深堀りして厳しく指摘する一方、頼めば熱烈な称賛文も生成でき、昔の煽り手法の逆が有効になる。現状のAIは既存評価にも容赦なく批判を出すため、公募合格水準の作品でも否定的な意見を並べる。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2655953</guid>
+      <pubDate>Sun, 25 Jan 2026 09:49:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

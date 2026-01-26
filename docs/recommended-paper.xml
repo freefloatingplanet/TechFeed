@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Jan 2026 06:38:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 06:44:08 +0000</lastBuildDate>
     <item>
-      <title>太極重力波探査ミッションにおける科学観測モードにおける宇宙機慣性センサ質量中心オフセットの校正方法</title>
-      <link>https://arxiv.org/abs/2512.20468v2</link>
-      <description>宇宙船 (SC) と慣性センサーテストマス (TM) 間の質量中心 (CoM) オフセットを正確に較正することは、LISA や Taiji などの宇宙ベースの重力波 (GW) アンテナにとって極めて重要です。現在の較正方法では、科学データの連続性と衛星間リンクを中断する追加の宇宙船操作が必要であり、重力波信号のコヒーレンスが損なわれます。ここでは、慣性センサー、干渉計、微分波面センサーからの標準的な科学モード測定値のみを使用して、CoM オフセットベクトルを直接推定する、操作不要の較正方式を紹介します。モデルベースの適応型カルマンフィルターに CoM オフセットによって誘発される結合加速度を拡張状態として埋め込むことで、すべての軸にわたって 0.01～1.5 mm の推定精度を最大 1% 未満の誤差で実現します。このアプローチにより、定常観測期間中の継続的かつ高精度な較正が可能になり、必要な精度を維持しながら継続的かつ一貫した重力波データ収集が保証されるとともに、性能評価や故障診断といったDFACSの高度な機能も容易になります。微弱な重力波信号の検出にはデータの連続性が不可欠となるLI (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2512.20468v2</guid>
-      <pubDate>Tue, 23 Dec 2025 16:03:18 +0000</pubDate>
+      <title>包括的でアクセスしやすいハイブリッド天文学会議の構築に向けた一つの試み：FRB 2025</title>
+      <link>https://arxiv.org/abs/2601.14357v2</link>
+      <description>高速電波バースト（FRB）分野の急速な拡大に伴い、FRB会議も同時に増加しています。これらの会議は他の研究者と交流し、協力関係を築くために不可欠ですが、多くの会議は、十分な旅費、柔軟なスケジュール、または地理的に近い場所に住む人しか参加できません。このことが、若手研究者（ECR）や資源の乏しい地域の人々を主に悩ませる障壁となり、コミュニティの成長、多様性、持続可能性を制限しています。これらの問題に対処するため、2025年7月にモントリオールで200名を超える参加者を得て開催されたFRB 2025会議は、科学的卓越性に加えて、包括性とアクセシビリティを優先するように設計されました。本研究では、ECRが主導する組織委員会、YouTubeライブストリームを含む完全なハイブリッド形式、低い登録料、会議冒頭の教育日、地元のベジタリアンケータリング、ポスターの代わりにフラッシュトークを実施するなど、これらの目標をどのように実現したかについて説明します。会議後の参加者アンケートから、私たちの取り組みの効果を評価することができました。特に、参加者の約半数を占めるオンライン参加者からは、ライブ配信と講演 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.14357v2</guid>
+      <pubDate>Tue, 20 Jan 2026 18:56:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
