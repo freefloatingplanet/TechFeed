@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Jan 2026 06:44:13 +0000</lastBuildDate>
-    <item>
-      <title>プレゼンテーション: グリッドをグリーンに保つための Kraken のサーバーレス アーキテクチャ</title>
-      <link>https://www.infoq.com/presentations/integrating-renewable-energy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ケビン・ボウマン氏が、英国の30GWの電力網を再生可能エネルギーでバランス調整するKraken Technologyの取り組みについて解説します。AWS Lambda、EventBridge、DynamoDBを活用し、グリッドスケールのバッテリーと仮想発電所を管理するアーキテクチャ設計図について解説します。サーバーレススタックによって、ミリ秒単位のレイテンシーで周波数応答と24時間予測最適化を実現し、電力供給を維持するKraken Technologyの取り組みをご覧ください。ケビン・ボウマン著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/integrating-renewable-energy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 23 Jan 2026 15:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Humans&amp;は、協調がAIの次のフロンティアであると考えており、それを証明するモデルを構築している。</title>
-      <link>https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/</link>
-      <description>Anthropic、Meta、OpenAI、xAI、Google DeepMind の卒業生によって設立された新しいスタートアップ企業である Humans&amp; は、チャットではなくコラボレーションのための次世代の基盤モデルを構築しています。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/</guid>
-      <pubDate>Sun, 25 Jan 2026 22:11:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Jan 2026 06:42:12 +0000</lastBuildDate>
     <item>
       <title>DoorDash の A/B テストをマルチアームバンディットで強化</title>
       <link>https://www.infoq.com/news/2026/01/multi-armed-bandits-doordash/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -35,6 +21,13 @@
       <description>最近の記事によると、Oracleの高速ソート手法に関する特許が失効し、オープンソースデータベースで自由に使用できるようになったとのことです。このソートアルゴリズムの発明者であるマーク・キャラハン氏は、この20年前の手法が類似データのソートを高速化し、データベースシステムの高速化と効率化に繋がる可能性を示唆しています。レナート・ロシオ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/oracle-patent-sorting-databases/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Sat, 24 Jan 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Obvious Venturesは、地球、人類、経済の健全性を360度視野に入れ、5番目のファンドを獲得した。</title>
+      <link>https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/</link>
+      <description>創業12年のこの企業は、5番目のファンドのために3億6,036万360ドルを調達しました。そして、この数字には理由があります。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/</guid>
+      <pubDate>Mon, 26 Jan 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
@@ -65,18 +58,25 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントセキュリティのためのCerbos：機能、価格、代替品</title>
-      <link>https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</link>
-      <description>Cerbosは、開発者がアプリケーションにきめ細かなアクセス制御を実装するのに役立つオープンソースの認可エンジンです。Apache 2.0ライセンスの下でリリースされており、アプリケーションが特定のアクションを許可するかどうかを判断するための、一元化されたポリシー決定ポイントを提供します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/cerbos-vs-workos-authorization-enterprise-authentication</guid>
-      <pubDate>Tue, 04 Nov 2025 21:55:00 +0000</pubDate>
+      <title>TikTokの代替サービスSkylight、TikTok米国との契約締結後ユーザー数38万人超に急上昇</title>
+      <link>https://techcrunch.com/2026/01/26/tiktok-alternative-skylight-soars-to-380k-users-after-tiktok-u-s-deal-finalized/</link>
+      <description>CEO の Tori White 氏と CTO の Reed Harmeyer 氏が共同設立した Skylight は、組み込みのビデオ エディター、ユーザー プロファイル、いいね、コメント、共有のサポート、コミュニティ キュレーターが他のユーザーがフォローできるカスタム フィードを作成できる機能などを提供します。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/01/26/tiktok-alternative-skylight-soars-to-380k-users-after-tiktok-u-s-deal-finalized/</guid>
+      <pubDate>Mon, 26 Jan 2026 18:20:48 +0000</pubDate>
     </item>
     <item>
-      <title>オープンペイメントスタンダードx402がメジャーアップグレードで機能を拡張</title>
-      <link>https://www.infoq.com/news/2026/01/x402-agentic-http-payments/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>オープン決済標準規格x402は、実世界での使用開始から6ヶ月を経て、メジャーアップデートを実施しました。このアップデートでは、単一リクエストによる正確な金額での決済という枠を超えたプロトコル拡張が行われました。このリリースでは、ウォレットベースのID、自動API検出、動的な決済受取人、CAIP標準によるマルチチェーンおよび法定通貨のサポート拡張、そしてカスタムネットワークや決済スキーム向けの完全モジュール型SDKが追加されています。Sergio De Simone著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/x402-agentic-http-payments/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 22 Jan 2026 19:00:00 +0000</pubDate>
+      <title>記事: バーチャルパネル - AIの現場：開発者がソフトウェアプロセスをどのように書き換えているか</title>
+      <link>https://www.infoq.com/articles/ai-developers-rewriting-software-process/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>このバーチャルパネルでは、エンジニア、アーキテクト、そして技術リーダーが一堂に会し、AIがソフトウェア開発のあり方をどのように変えつつあるのかを探ります。AIを日常のワークフローに組み込む際の成功例と失敗例について、実務家たちがそれぞれの知見を共有し、AIを現代のエンジニアリング実践における持続可能な要素とするためには、コンテキスト、検証、そして文化的な適応がいかに重要であるかを強調します。アーサー・カザルス、マリア・ブリチェヴァ、メイ・ウォルター、フィル・カルサド、アンドレアス・コレッガー (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/ai-developers-rewriting-software-process/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 26 Jan 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aspire 13.1 は、MCP 統合、CLI 機能強化、Azure デプロイメントのアップデートを導入します</title>
+      <link>https://www.infoq.com/news/2026/01/dotnet-aspire-13-1-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Aspire 13.1は、Aspire 13で導入された多言語対応プラットフォーム基盤を基盤とする増分アップデートとしてリリースされました。このリリースでは、コマンドラインインターフェースの強化、AI支援開発ワークフローへのより深いサポート、ダッシュボードエクスペリエンスの改良、Azureベースの環境におけるより明確な展開動作を通じて、開発者の生産性向上に重点を置いています。Almir Vuk著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/dotnet-aspire-13-1-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 26 Jan 2026 08:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

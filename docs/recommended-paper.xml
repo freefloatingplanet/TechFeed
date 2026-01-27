@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Jan 2026 06:44:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 06:42:06 +0000</lastBuildDate>
     <item>
-      <title>包括的でアクセスしやすいハイブリッド天文学会議の構築に向けた一つの試み：FRB 2025</title>
-      <link>https://arxiv.org/abs/2601.14357v2</link>
-      <description>高速電波バースト（FRB）分野の急速な拡大に伴い、FRB会議も同時に増加しています。これらの会議は他の研究者と交流し、協力関係を築くために不可欠ですが、多くの会議は、十分な旅費、柔軟なスケジュール、または地理的に近い場所に住む人しか参加できません。このことが、若手研究者（ECR）や資源の乏しい地域の人々を主に悩ませる障壁となり、コミュニティの成長、多様性、持続可能性を制限しています。これらの問題に対処するため、2025年7月にモントリオールで200名を超える参加者を得て開催されたFRB 2025会議は、科学的卓越性に加えて、包括性とアクセシビリティを優先するように設計されました。本研究では、ECRが主導する組織委員会、YouTubeライブストリームを含む完全なハイブリッド形式、低い登録料、会議冒頭の教育日、地元のベジタリアンケータリング、ポスターの代わりにフラッシュトークを実施するなど、これらの目標をどのように実現したかについて説明します。会議後の参加者アンケートから、私たちの取り組みの効果を評価することができました。特に、参加者の約半数を占めるオンライン参加者からは、ライブ配信と講演 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2601.14357v2</guid>
-      <pubDate>Tue, 20 Jan 2026 18:56:36 +0000</pubDate>
+      <title>Reflect: 大規模な憲法整合のための透明性のある原則に基づく推論</title>
+      <link>https://arxiv.org/abs/2601.18730v1</link>
+      <description>整合の憲法的枠組みは、大規模言語モデル（LLM）を自然言語で記述された価値観に基づく原則（偏った言語の使用を避けるなど）に整合させることを目的としている。これまでの研究では、これらの原則を浸透させるために、人間によるフィードバックからの強化学習（RLHF）などのパラメータ微調整手法に焦点が当てられてきた。しかし、これらのアプローチは計算量が多く、慎重なエンジニアリングと調整が必要であり、入手が困難な人間による注釈データが必要になることも少なくない。本稿では、訓練やデータを必要としない憲法的整合のための推論時枠組みである \textsc{reflect} を提案する。これは、命令調整されたモデルを原則セットに整合させるためのプラグアンドプレイ方式を提供する。\textsc{reflect} は完全に文脈内で動作し、（i）憲法条件付けされた基本応答と、生成後の（ii）自己評価、（iii）（a）自己批評、および（iii）（b）最終修正を組み合わせる。 \textsc{reflect} の、生成後に原則を明示的に文脈内推論する手法は、標準的な少数ショットプロンプトよりも優れており、透明な推論ト (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.18730v1</guid>
+      <pubDate>Mon, 26 Jan 2026 17:54:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

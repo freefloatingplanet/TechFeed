@@ -7,35 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Jan 2026 06:44:05 +0000</lastBuildDate>
-    <item>
-      <title>宇宙を活用した野生動物追跡プロジェクトが約3年ぶりに再始動へ！ 2027年までに6機の小型衛星によるコンステレーション構築へ【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/43707/</link>
-      <description>2025年11月19日、世界の野生動物を宇宙から追跡するシステムICARUS（イカロス）が、約3年ぶりに運用を再開するために、小型衛星GENA-OTに搭載されて打ち上げられました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/43707/</guid>
-      <pubDate>Sun, 25 Jan 2026 22:59:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>ispaceとJAXA、月域の宇宙ゴミ対策や廃棄物の管理について検討</title>
-      <link>https://uchubiz.com/article/new68708/</link>
-      <description>ispace（東京都中央区）は1月14日、宇宙航空研究開発機構（JAXA）と「月域におけるスペースデブリの低減と廃棄管理に関する推奨事項に係る検討」について契約を締結したと発表した。 　現在、国連（COPUOS）やIA […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new68708/</guid>
-      <pubDate>Wed, 14 Jan 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日本発のAI半導体企業EdgeCortixがNASA試験で放射線耐性を実証【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/44357/</link>
-      <description>日本発EdgeCortixのAI半導体がNASAの重イオン試験をクリア。月面や静止軌道など、過酷な放射線環境下での高度なAI活用を実現する成果として注目されます。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/44357/</guid>
-      <pubDate>Sun, 18 Jan 2026 23:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>商用宇宙ステーションにも関わるVoyager、地上インフラをアップデートする光通信向け結晶材料を宇宙で製造する特許を取得【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/44396/</link>
-      <description>Voyager Technologiesは、微小重力環境を活用した、光通信向け結晶材料の製造方法に関する特許を取得したと発表しました。この技術は、データセンターやAIを支える地上の光通信ネットワークといった地上の重要なインフラをアップデートする可能性を秘めています。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/44396/</guid>
-      <pubDate>Sun, 25 Jan 2026 23:00:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Jan 2026 06:42:04 +0000</lastBuildDate>
     <item>
       <title>NASAと米エネルギー省、2030年までの「月面原子炉」実現に向けて署名</title>
       <link>https://uchubiz.com/article/new68701/</link>
@@ -51,11 +23,25 @@
       <pubDate>Sun, 25 Jan 2026 22:58:20 +0000</pubDate>
     </item>
     <item>
+      <title>スカパーＪＳＡＴ、月探査計画「アルテミス2」の地上局に選定–アジアの民間企業で唯一</title>
+      <link>https://uchubiz.com/article/new68835/</link>
+      <description>スカパーＪＳＡＴは1月26日、米国航空宇宙局（NASA）による有人月周回ミッション「アルテミス2」において、宇宙船「Orion」からの一方向ドップラー測定信号を受信する地上局として選定されたことを発表した。今回の測定で […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new68835/</guid>
+      <pubDate>Tue, 27 Jan 2026 05:34:55 +0000</pubDate>
+    </item>
+    <item>
       <title>宇都宮市、宇宙スタートアップを支援する「企業版ふるさと納税」を募集–BULLとフォーカスの2社に</title>
       <link>https://uchubiz.com/article/new68779/</link>
       <description>栃木県宇都宮市は、市内に拠点を構える宇宙スタートアップを支援するべく、企業版ふるさと納税を募集している。応募締切は3月9日。 　宇都宮市では、「うつのみや産業振興ビジョン」において航空宇宙領域を重点振興産業に位置付けて […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new68779/</guid>
       <pubDate>Thu, 22 Jan 2026 01:05:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>「日本モジュール」開発の日本低軌道社中に三菱重工と三菱電機が出資</title>
+      <link>https://uchubiz.com/article/new68830/</link>
+      <description>三井物産が設立した子会社の日本低軌道社中（東京都中央区）は1月26日、三菱重工業、三菱電機から出資を受けたことを発表した。 　三井物産は、2023年に宇宙航空研究開発機構（JAXA）から米国商業宇宙ステーション接続型の […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new68830/</guid>
+      <pubDate>Mon, 26 Jan 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Frontier Innovationsの西村竜彦氏・浜野豊氏が語る、日本の宇宙産業10年の変化とエコシステムの「2周目」【前編】</title>
@@ -77,6 +63,20 @@
       <description>日本の宇宙産業の10年の変化とエコシステムの発展について、Frontier Innovationsの西村竜彦さんと浜野豊さんにお話を伺った特別インタビューの後編。投資判断の具体的なプロセスや第2世代・第3世代の宇宙スタートアップに対する期待について伺いました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/44241/</guid>
       <pubDate>Wed, 14 Jan 2026 23:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>「西陣織の宇宙服」など開発のAmateras Space、堀江貴文氏やアクセルスペース中村氏から資金調達</title>
+      <link>https://uchubiz.com/article/new68840/</link>
+      <description>日本発の宇宙服を開発するスタートアップAmateras Spaceは1月27日、エンジェルラウンドにおいて第三者割当増資による資金調達を実施したと発表した。今回の金額は非公開。 　引受先は、実業家の堀江貴文氏、レオス・ […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new68840/</guid>
+      <pubDate>Tue, 27 Jan 2026 05:52:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>スペースシャトル「チャレンジャー」の事故から40年　NASAが2026年の「追悼の日」を迎える</title>
+      <link>https://sorae.info/space/20260126-nasa-day-of-remembrance.html</link>
+      <description>NASA（アメリカ航空宇宙局）は2026年1月22日に、今年の「追悼の日（Day of Remembrance）」の記念行事を執り行いました。 毎年1月下旬から2月上旬にかけては、NASAにとって特別な時期です。アポロ計… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260126-nasa-day-of-remembrance.html</guid>
+      <pubDate>Mon, 26 Jan 2026 12:40:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
