@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Jan 2026 06:42:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 06:42:42 +0000</lastBuildDate>
     <item>
       <title>DoorDash の A/B テストをマルチアームバンディットで強化</title>
       <link>https://www.infoq.com/news/2026/01/multi-armed-bandits-doordash/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -21,13 +21,6 @@
       <description>最近の記事によると、Oracleの高速ソート手法に関する特許が失効し、オープンソースデータベースで自由に使用できるようになったとのことです。このソートアルゴリズムの発明者であるマーク・キャラハン氏は、この20年前の手法が類似データのソートを高速化し、データベースシステムの高速化と効率化に繋がる可能性を示唆しています。レナート・ロシオ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/oracle-patent-sorting-databases/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Sat, 24 Jan 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Obvious Venturesは、地球、人類、経済の健全性を360度視野に入れ、5番目のファンドを獲得した。</title>
-      <link>https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/</link>
-      <description>創業12年のこの企業は、5番目のファンドのために3億6,036万360ドルを調達しました。そして、この数字には理由があります。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/</guid>
-      <pubDate>Mon, 26 Jan 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
@@ -44,11 +37,11 @@
       <pubDate>Sun, 25 Jan 2026 07:28:00 +0000</pubDate>
     </item>
     <item>
-      <title>VoidZero、RustベースのパフォーマンスとPrettierの互換性を備えたOxfmt Alphaを発表</title>
-      <link>https://www.infoq.com/news/2026/01/oxfmt-rust-prettier/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>VoidZeroは、JavaScriptおよびTypeScriptプロジェクトにおいてPrettierよりも30倍以上の高速パフォーマンスを実現する、最先端のRustベースのコードフォーマッタ「Oxfmt」を発表しました。既存のPrettier構成と互換性のあるOxfmtは、効率性とスタイルの一貫性を求める開発者のニーズに応えます。シームレスな移行、強化された機能、そしてコミュニティ主導の改善へのコミットメントをお楽しみください。ダニエル・カーティス (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/oxfmt-rust-prettier/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 23 Jan 2026 16:00:00 +0000</pubDate>
+      <title>CedarがサンドボックスプロジェクトとしてCNCFに参加</title>
+      <link>https://www.infoq.com/news/2026/01/cedar-joins-cncf-sandbox/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>AWSが開発したオープンソースのポリシー言語「Cedar」が、CNCFのサンドボックスプロジェクトに参加しました。きめ細かなアプリケーション権限管理のために設計されたCedarは、検証可能な高性能ポリシーエンジンを用いて、アクセス制御とコードを切り離します。CedarはRBAC、ABAC、ReBACをサポートし、OPAなどの汎用ツールに代わる、安全で分析可能な代替手段を提供します。Mark Silvester著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/cedar-joins-cncf-sandbox/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 27 Jan 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
@@ -58,11 +51,11 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>TikTokの代替サービスSkylight、TikTok米国との契約締結後ユーザー数38万人超に急上昇</title>
-      <link>https://techcrunch.com/2026/01/26/tiktok-alternative-skylight-soars-to-380k-users-after-tiktok-u-s-deal-finalized/</link>
-      <description>CEO の Tori White 氏と CTO の Reed Harmeyer 氏が共同設立した Skylight は、組み込みのビデオ エディター、ユーザー プロファイル、いいね、コメント、共有のサポート、コミュニティ キュレーターが他のユーザーがフォローできるカスタム フィードを作成できる機能などを提供します。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/01/26/tiktok-alternative-skylight-soars-to-380k-users-after-tiktok-u-s-deal-finalized/</guid>
-      <pubDate>Mon, 26 Jan 2026 18:20:48 +0000</pubDate>
+      <title>記事：摩擦の解決：大切なものを変える</title>
+      <link>https://www.infoq.com/articles/friction-fix/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>摩擦は、あらゆる変革を阻む目に見えない流れです。摩擦は一つのものではなく、体系的なものです。人間関係が摩擦を生み出します。人、チーム、そしてテクノロジーの間に。解決策はKubernetesでもクラウドでもAIでもありません。私たちの思考、コミュニケーション、そして組織化のパターンを変えることなのです。キャット・モリス、ダイアナ・モンタリオン (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/friction-fix/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 27 Jan 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>記事: バーチャルパネル - AIの現場：開発者がソフトウェアプロセスをどのように書き換えているか</title>
@@ -77,6 +70,13 @@
       <description>Aspire 13.1は、Aspire 13で導入された多言語対応プラットフォーム基盤を基盤とする増分アップデートとしてリリースされました。このリリースでは、コマンドラインインターフェースの強化、AI支援開発ワークフローへのより深いサポート、ダッシュボードエクスペリエンスの改良、Azureベースの環境におけるより明確な展開動作を通じて、開発者の生産性向上に重点を置いています。Almir Vuk著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/dotnet-aspire-13-1-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 26 Jan 2026 08:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Javaニュースまとめ: Oracleの重要なパッチアップデート、Grizzly 5、Payara Platform、GraalVM、Liberica JDK</title>
+      <link>https://www.infoq.com/news/2026/01/java-news-roundup-jan19-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>今週の2026年1月19日版Javaラウンドアップでは、JDK 27をターゲットとしたTLS 1.3向けポスト量子ハイブリッド鍵交換（JEP 527）、GlassFish Grizzly 5.0、Oracle Critical Patch Update (CPU) Advisoryの四半期リリース、Payara Platformの2026年1月版、Liberica JDK、GraalVM、OpenXava、Ktorのメンテナンスリリースなど、注目のニュースをお届けします。マイケル・レッドリッヒ (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/java-news-roundup-jan19-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 27 Jan 2026 12:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

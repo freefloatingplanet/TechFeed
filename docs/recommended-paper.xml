@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Jan 2026 06:42:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 06:42:37 +0000</lastBuildDate>
     <item>
-      <title>Reflect: 大規模な憲法整合のための透明性のある原則に基づく推論</title>
-      <link>https://arxiv.org/abs/2601.18730v1</link>
-      <description>整合の憲法的枠組みは、大規模言語モデル（LLM）を自然言語で記述された価値観に基づく原則（偏った言語の使用を避けるなど）に整合させることを目的としている。これまでの研究では、これらの原則を浸透させるために、人間によるフィードバックからの強化学習（RLHF）などのパラメータ微調整手法に焦点が当てられてきた。しかし、これらのアプローチは計算量が多く、慎重なエンジニアリングと調整が必要であり、入手が困難な人間による注釈データが必要になることも少なくない。本稿では、訓練やデータを必要としない憲法的整合のための推論時枠組みである \textsc{reflect} を提案する。これは、命令調整されたモデルを原則セットに整合させるためのプラグアンドプレイ方式を提供する。\textsc{reflect} は完全に文脈内で動作し、（i）憲法条件付けされた基本応答と、生成後の（ii）自己評価、（iii）（a）自己批評、および（iii）（b）最終修正を組み合わせる。 \textsc{reflect} の、生成後に原則を明示的に文脈内推論する手法は、標準的な少数ショットプロンプトよりも優れており、透明な推論ト (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2601.18730v1</guid>
-      <pubDate>Mon, 26 Jan 2026 17:54:54 +0000</pubDate>
+      <title>活性化関数の設計は継続学習における可塑性を維持する</title>
+      <link>https://arxiv.org/abs/2509.22562v2</link>
+      <description>独立かつ同一に分布する（i.i.d.）学習環境において、活性化関数は広範囲にベンチマークされており、モデルサイズと最適化を調整すると、その差は縮まることが多い。しかし、継続学習では状況は異なる。壊滅的な忘却に加えて、モデルは徐々に適応能力を失う可能性があり（可塑性の喪失と呼ばれる）、この失敗モードにおける非線形性の役割は未解明のままである。我々は、活性化の選択が可塑性の喪失を軽減するための、アーキテクチャに依存しない主要な手段であることを示す。負の分岐の形状と飽和挙動のプロパティレベル解析に基づき、2つのドロップイン非線形性（Smooth-LeakyとRandomized Smooth-Leaky）を導入し、それらを2つの補完的な設定、すなわち（i）教師ありクラス増分ベンチマークと（ii）制御された分布とダイナミクスシフトを誘発するように設計された非定常MuJoCo環境による強化学習で評価する。また、活性化の形状と変化への適応を関連付ける、シンプルなストレスプロトコルと診断法も提供します。要点は明白です。思慮深い活性化設計は、追加の容量やタスク固有の調整なしに、継続学習における可塑性を (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.22562v2</guid>
+      <pubDate>Fri, 26 Sep 2025 16:41:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

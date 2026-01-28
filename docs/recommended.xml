@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jan 2026 06:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 06:42:31 +0000</lastBuildDate>
     <item>
       <title>MoonBitによるCRDTアルゴリズムの実装とリアルタイム共同編集アプリケーションの構築</title>
       <link>https://zenn.dev/moonbitlang/articles/463d2abd94ce8e</link>
@@ -18,26 +18,56 @@ Google Docsで同僚と同時にドキュメントを編集したり、Figmaで�
       <pubDate>Mon, 26 Jan 2026 07:54:09 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】Wikipediaボランティアが長年培った「AI臭い文章の検知ルール」が、逆にAIによる擬態を巧妙にする「Humanizer」というツールを生み出すという皮肉な展開に</title>
-      <link>https://techfeed.io/entries/6972d8351c8f0875c5df4ad6?from=rss</link>
-      <description>1月22日、海外のテクノロジーメディアArs Technicaが「Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.」と題した記事を公開した。この記事では、WikipediaボランティアがAI投稿を排除するために蓄積してきた「AI特有の文章表現」のリストが、皮肉にもAIの文章をより人間らしく修正するためのガイドラインとして活用されている実態について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6972d8351c8f0875c5df4ad6?from=rss</guid>
-      <pubDate>Fri, 23 Jan 2026 02:08:53 +0000</pubDate>
+      <title>自分でやった方が早いは、AI時代に組織とお前を殺す</title>
+      <link>https://zenn.dev/nuits_jp/articles/2026-01-27-codex-review-prompt</link>
+      <description>「AIに任せるより自分でやった方が早い」
+「AIの書いたコードなんて使い物にならない」
+「結局最後は人間が直さないといけない」
+
+私も以前はそう思っていましたし、現在でもSNS上ではそういう意見をよく見かけます。
+でも、その甘えは近い将来に組織とあなた自身を殺しますよ？
+
+ これまでは許された
+これまでも「人に任せるより自分でやった方が早い」という考えは、「良くない仕草」として知られてきました。
+後進が育たず組織が成長しませんし、結果「当たり前に自分ができる仕事」が自分から手離れせず、自分の成長機会を失うからです。
+とは言えこれまでは、そういう甘えも部分的に見逃されてきました。
+その仕... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nuits_jp/articles/2026-01-27-codex-review-prompt</guid>
+      <pubDate>Mon, 26 Jan 2026 21:09:03 +0000</pubDate>
     </item>
     <item>
-      <title>Clawdbot入門(#1)：チャットアプリで動く“自分専用AIアシスタント”の出来ることと安全な始め方</title>
-      <link>https://zenn.dev/yujmatsu/articles/20260125_clawdbot_beginners_guide</link>
-      <description>本記事は 2026-01 時点の公式ドキュメント/リポジトリの情報を元に整理しています。Clawdbot は更新が速いので、手順や設定キーが変わっていたら公式ドキュメントを優先してください。
+      <title>Microsoft Entra エージェント ID を理解したい</title>
+      <link>https://zenn.dev/microsoft/articles/be9e51acf96cb3</link>
+      <description>はじめに
+Microsoft Entra エージェント ID (以降、エージェント ID) がパブリック プレビューで提供開始しています。ただ、正直なところ「何ができるのか」「何に使うものなのか」が分かりにくい、という印象を持ちました。そのため、本記事では Learn のドキュメントをベースに何となくイメージを掴むことを目的に整理していきます。
 
+ Agent 365 との関係性
+2026 年 1 月時点で Agent 365 の詳細が明らかになっているわけではないので、あくまで個人の見解です。
 
- はじめに（この記事でわかること）
-「Clawdbotって話題だけど、結局なにができるの？」「Mac miniを買わないとダメ？」「危なくない？」という初学者の不安を、仕組み・出来ること・安全な始め方の3点で解消するのがこの記事のゴールです。
-この記事でわかること：
+ エージェント ID
 
-Clawdbot が「ChatGPT/Claudeの代替」ではなく、何が違うのか
-“AIが実際に作業する”とは具体的に何を指す... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yujmatsu/articles/20260125_clawdbot_beginners_guide</guid>
-      <pubDate>Sun, 25 Jan 2026 13:00:01 +0000</pubDate>
+AI エージェントが持つ ID・アカウント
+Microsoft... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/be9e51acf96cb3</guid>
+      <pubDate>Mon, 26 Jan 2026 10:22:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>社内で技術書の輪読会を始めた話</title>
+      <link>https://zenn.dev/wed_engineering/articles/20260118-reading-circle</link>
+      <description>こんにちは、WED 株式会社でエンジニアをしている篠崎（@sinora_）です。
+チームで技術力を高めるために、社内で「輪読会」を始めました。
+週に1回、1時間。
+メンバー全員で同じ技術書を読み、議論する時間です。
+最初は「続くかな？」と不安でしたが、気づけば半年以上続いています。
+そして、思わぬ副次的な効果も得られました。
+それは、技術書の「積読」が解消されたことです。
+一人で読んでいたら間違いなく挫折していたであろう分厚い技術書も、
+チームの力を借りることで最後まで読み切ることができました。
+今回は、私たちのチームで続けている輪読会の進め方と、その魅力をお伝えします。
+
+ 輪読会を始... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/wed_engineering/articles/20260118-reading-circle</guid>
+      <pubDate>Mon, 26 Jan 2026 00:52:50 +0000</pubDate>
     </item>
     <item>
       <title>月間400件以上のプルリクエストを生産したClaude Code活用事例</title>
@@ -56,41 +86,17 @@ tl;dr書いてあるのでぜひそこだけでも見ていってください！
       <pubDate>Mon, 26 Jan 2026 03:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>最近話題の Clawdbot をラズパイ 5 で動かしてみた</title>
-      <link>https://zenn.dev/edom18/articles/try-clawdbot-on-raspi</link>
-      <description>はじめに
-最近、一気に話題になってきた Clawdbot について、実際に動かしてみたのでその所感を紹介したいと思います。
-ただ、まだ自分自身、手探りで触っている状態なので初心者として使っているよ、という前提で記事を見てもらうといいかと思います。
-また Clawdbot のポイントとして、AI 部分はすべてクラウド上の ChatGPT や Gemini、Claude などの API を利用する形のため、運用するマシン自体は低スペックなものでも動かすことができます。
-今回はこの Clawdbot を、先日購入した Raspberry Pi 5 にインストールして常時稼働する自分専用 ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/edom18/articles/try-clawdbot-on-raspi</guid>
-      <pubDate>Mon, 26 Jan 2026 04:04:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>In silicoペプチド創薬の教科書</title>
-      <link>https://zenn.dev/labcode/books/6c6dc31864ef14</link>
-      <description>📰 概要
-In silicoペプチド創薬の技術を体系的に学び、実験に進む前段階を“PCだけ”で完結させたい方へ。
+      <title>RAGで大事なキーワードを無視させない手法</title>
+      <link>https://zenn.dev/knowledgesense/articles/6bada1cdce48d5</link>
+      <description>導入
+こんにちは、株式会社ナレッジセンスの須藤英寿です。
+今回は、多段階のRAGで最初に入力した質問の大事なキーワードを、忘れないようにする手法「ActiShade」について紹介します。
+https://arxiv.org/pdf/2601.07260
 
-本書は、Wetでペプチド創薬を専門にしていた著者が、その後 in silico 創薬を学び、
-ペプチド創薬を「In silico」という視点から整理・実装した技術書です。
-
-環境構築から具体的な操作方法、つまずきやすいポイントやエラーの考え方まで含め、
-「In silicoペプチド創薬を自分の研究に取り入れる」ことをゴールに構成しています。
-
-本書で紹介する手法は、近年の論文で実際に用いられているアプローチを中心としております。
-この一冊を通して、In silico ペプチド創薬を学び、実験設計や論文化へとつなげてみませんか。
-
-👫 対象とする読者
-・ペプチド創薬に興味はあるが、In silicoは未経験の方
-・in vitro スクリーニングの限界を感じ、新しい探索手法を探している研究者
-・低分子の in silico 創薬経験はあるが、ペプチドには踏み出せていない方
-・自分のペプチド配列を、計算機上で評価・比較したい方
-
-💰 販売価格
-期間限定で ¥3000→¥200 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/labcode/books/6c6dc31864ef14</guid>
-      <pubDate>Sat, 24 Jan 2026 10:51:58 +0000</pubDate>
+複雑な質問に回答する際に、RAGを複数回繰り返すことで精度を上げることは一般的な手法として確立されています。しかし、検索回数が増えるごとに情報量が増えていき、ハルシネーションのリスクが高くなります。その中でも、特に致命的なのがユーザーの質問そのものの一部を忘れてしまうことです。
+ActiShadeは「無視されたキーワード」に焦点をあ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/6bada1cdce48d5</guid>
+      <pubDate>Tue, 27 Jan 2026 01:05:21 +0000</pubDate>
     </item>
     <item>
       <title>VanishChat - DBなし・完全ステートレスなメッセンジャーをCloudflare Workersで作った</title>
@@ -107,11 +113,11 @@ Web Pushの仕様を調べていたときのこと。
       <pubDate>Mon, 26 Jan 2026 13:43:33 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】MySQLが深刻な分岐点を迎えている —サンフランシスコで関連企業による緊急会合が開催</title>
-      <link>https://techfeed.io/entries/6976c4d025530742c47c7c6c?from=rss</link>
-      <description>1月24日、The Registerが「Devs assessing options for MySQL's future beyond Oracle」と題した記事を公開した。この記事では、MySQLが直面している存続の危機と、Oracle体制からの脱却を模索するコミュニティの動向について詳しく紹介されている。以下に、その内容を紹介する。「MySQLは今、重要な岐路に立たされている」——。かつてMySQL ABで開発に携わり、現在はPerconaのCTOを務めるVadim Tkachenko氏の言葉は、単なる比喩ではない。ウェブのバックエンドを支え続けてきた巨人が、Oracleによる管理下で、かつてない機能不全に陥っている。1. 露呈した「開発停滞」の異常事態今回の危機の引き金となったのは、オープンソース版MySQLのリポジトリにおける異常な静寂だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6976c4d025530742c47c7c6c?from=rss</guid>
-      <pubDate>Mon, 26 Jan 2026 01:35:12 +0000</pubDate>
+      <title>OpenSSLが脆弱性ラッシュ — 「High」を含む11件の脆弱性を一挙公開、早めの対応を</title>
+      <link>https://techfeed.io/entries/697977db7fcc150e4145f3b7?from=rss</link>
+      <description>2026年1月27日、OpenSSLプロジェクトは計11件の脆弱性を修正したセキュリティアップデートを公開した。今回のリリースは、深刻度「High」が1件、「Moderate」が1件、そして「Low」が9件という、まさに「脆弱性ラッシュ」とも言える異例の規模である。特にOpenSSL 3.x系を利用しているシステムにおいては、認証なしで攻撃可能な脆弱性が含まれており、インフラ担当者や開発者は迅速な対応を迫られている。今回の「ラッシュ」の内容公開された11件の脆弱性は、メモリ破損、DoS攻撃、データの整合性欠如など多岐にわたる。海外のエンジニアコミュニティでは、特定のセキュリティリサーチチーム（Aisle Research等）による集中的な監査の結果ではないかとの見方が強い。主要な脆弱性の内訳は以下の通りだ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/697977db7fcc150e4145f3b7?from=rss</guid>
+      <pubDate>Wed, 28 Jan 2026 02:43:39 +0000</pubDate>
     </item>
     <item>
       <title>エンジニアのAI疲れとの付き合い方</title>
@@ -129,11 +135,27 @@ AIに何度もプロンプトを投げ直し、出てきたコードを修正し
       <pubDate>Sat, 24 Jan 2026 11:56:38 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】iOS / MacのSafariで120Hzの滑らかなブラウジングを有効にする隠し設定</title>
-      <link>https://techfeed.io/entries/6972dcf1ceb8a733ccdbf283?from=rss</link>
-      <description>1月23日、MacRumorsが「Enable Smoother 120Hz Browsing in Safari」と題した記事を公開した。この記事では、Safariにおける120Hzリフレッシュレートのレンダリングを有効化し、ブラウジングの滑らかさを向上させる方法について詳しく紹介されている。Safariのレンダリング制限を解除するProMotionディスプレイを搭載したiPhone、iPad、Macは、120Hzの非常に滑らかなアニメーションを表示する能力を有している。しかし、AppleのSafariブラウザはデフォルトでページレンダリングが60fpsに制限されており、スクロール時にカクつきや応答の鈍さを感じるユーザーも少なくなかった。これは、ChromeやFirefoxといった他社製ブラウザがより高いフレームレートでの描画に対応していることと比較される要因となっていた。Safariの最新バージョンには、この120Hzレンダリングを解放するための隠し設定が含まれている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6972dcf1ceb8a733ccdbf283?from=rss</guid>
-      <pubDate>Fri, 23 Jan 2026 02:29:05 +0000</pubDate>
+      <title>マーケターのための Google Antigravity 活用術</title>
+      <link>https://zenn.dev/geeknees/books/b312b1844fb348</link>
+      <description>## 概要
+本書は、AI感度が高いマーケター向けに、Google Antigravityを使って  
+「一人で全部できる」マーケ実務を回すための実践書です。  
+LP作成、キーワード抽出、キャッチコピー、ROIのざっくり試算まで、  単なるAIチャットツールとしてではなく、「複数のエージェントを束ねる指揮官」 として  実務を圧倒的なスピードで回すための型を伝授します。
+
+## 対象読者
+- AIツールは触っているが、単純なチャットに限界を感じている人
+- B2B/B2C問わず、マーケ施策を自ら高速で実行したい担当者・起業家
+- 制作の「待ち時間」をゼロにし、検証回数を最大化したい人
+- エンジニア向けに見える Antigravity をマーケの実務に翻訳したい人
+
+## 本書で得られること
+- Agent Manager を駆使したマルチタスク管理術
+- Browser Agent による競合調査と顧客の声（VoC）の自動収集
+- テキストから「動くLP（HTML/CSS）」を一気に作り上げるフロー
+- Contextファイル を使ってエージェントを自分専用の参謀に育てる方法
+- 施 (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/geeknees/books/b312b1844fb348</guid>
+      <pubDate>Tue, 27 Jan 2026 17:12:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
