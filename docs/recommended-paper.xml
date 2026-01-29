@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 28 Jan 2026 06:42:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 06:55:08 +0000</lastBuildDate>
     <item>
-      <title>活性化関数の設計は継続学習における可塑性を維持する</title>
-      <link>https://arxiv.org/abs/2509.22562v2</link>
-      <description>独立かつ同一に分布する（i.i.d.）学習環境において、活性化関数は広範囲にベンチマークされており、モデルサイズと最適化を調整すると、その差は縮まることが多い。しかし、継続学習では状況は異なる。壊滅的な忘却に加えて、モデルは徐々に適応能力を失う可能性があり（可塑性の喪失と呼ばれる）、この失敗モードにおける非線形性の役割は未解明のままである。我々は、活性化の選択が可塑性の喪失を軽減するための、アーキテクチャに依存しない主要な手段であることを示す。負の分岐の形状と飽和挙動のプロパティレベル解析に基づき、2つのドロップイン非線形性（Smooth-LeakyとRandomized Smooth-Leaky）を導入し、それらを2つの補完的な設定、すなわち（i）教師ありクラス増分ベンチマークと（ii）制御された分布とダイナミクスシフトを誘発するように設計された非定常MuJoCo環境による強化学習で評価する。また、活性化の形状と変化への適応を関連付ける、シンプルなストレスプロトコルと診断法も提供します。要点は明白です。思慮深い活性化設計は、追加の容量やタスク固有の調整なしに、継続学習における可塑性を (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.22562v2</guid>
-      <pubDate>Fri, 26 Sep 2025 16:41:47 +0000</pubDate>
+      <title>VSCOUT: 高次元回顧的モニタリングにおける外れ値検出のためのハイブリッド変分オートエンコーダアプローチ</title>
+      <link>https://arxiv.org/abs/2601.20830v1</link>
+      <description>現代の産業プロセスやサービスプロセスは、高次元、非ガウス分布、そして汚染されやすいデータを生成します。これは、従来の統計的プロセス制御（SPC）の基本的な前提に疑問を投げかけます。裾野の広がり、マルチモーダル性、非線形依存性、そしてスパースな特殊原因観測は、ベースライン推定を歪め、真の異常を隠蔽し、管理下（IC）参照セットの確実な特定を妨げる可能性があります。これらの課題に対処するため、高次元設定での遡及的（フェーズI）モニタリング専用に設計された分布フリーフレームワーク、VSCOUTを紹介します。VSCOUTは、自動関連性判定変分オートエンコーダ（ARD-VAE）アーキテクチャと、アンサンブルベースの潜在的外れ値フィルタリングおよび変化点検出を組み合わせています。ARD事前分布は最も有益な潜在次元を分離し、アンサンブルフィルタと変化点フィルタは、決定された潜在空間内の点ごとの構造的汚染を識別します。第2段階の再学習ステップでは、フラグ付けされた観測値を削除し、保持されたインライアのみを使用して潜在構造を再推定することで、マスキングを軽減し、IC潜在多様体を安定化させます。この2段階の (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.20830v1</guid>
+      <pubDate>Wed, 28 Jan 2026 18:30:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
