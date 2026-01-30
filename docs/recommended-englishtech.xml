@@ -7,41 +7,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Jan 2026 06:55:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 06:56:22 +0000</lastBuildDate>
+    <item>
+      <title>OktaからLaravelアプリにユーザーを同期する方法</title>
+      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
+      <description>わずか数行のコードで、SCIM、Okta、WorkOS を使用して Laravel アプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
+      <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uber、分散ストレージの静的制限から優先度を考慮した負荷制御へ移行</title>
+      <link>https://www.infoq.com/news/2026/01/uber-priority-aware-load-manager/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Uberのエンジニアたちは、ストレージプラットフォームを静的なレート制限から優先度を考慮した負荷管理システムへと進化させた経緯を詳しく説明しました。このアプローチは、制御とストレージを共存させ、重要なトラフィックを優先し、過負荷時には動的に負荷を削減することで、UberのMySQLベースの分散データベースであるDocstoreとSchemalessを保護します。リーラ・クミリ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/uber-priority-aware-load-manager/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 29 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>鉄道は、システム障害の診断におけるログ、メトリクス、トレース、アラートの重要性を強調しています。</title>
       <link>https://www.infoq.com/news/2026/01/railway-diagnosing-failure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Railway社のエンジニアリングチームは、開発者とSREチームがログ、メトリクス、トレース、アラートを組み合わせて本番環境システムの障害を理解し診断する方法を説明した、包括的な可観測性ガイドを公開しました。クレイグ・リシ著 (source: InfoQ)</description>
+      <description>Railway社のエンジニアリングチームは、開発者とSREチームがログ、メトリクス、トレース、アラートを組み合わせて本番システムの障害を理解し診断する方法を説明した、包括的な可観測性ガイドを公開しました。クレイグ・リシ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/railway-diagnosing-failure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
-      <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。そこで、OAuthフロー、トークン管理、プロバイダー設定を自動化するPipesを開発しました。 (source: WorkOS Blog)</description>
+      <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。Pipes は、OAuth フロー、トークン管理、プロバイダー設定を自動化するツールです。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SwiftクロスプラットフォームフレームワークSkip Now完全オープンソース</title>
       <link>https://www.infoq.com/news/2026/01/swift-skip-open-sourced/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>単一のSwift/SwiftUIコードベースからiOSおよびAndroidアプリを作成できるソリューション「Skip」の開発チームは、3年間の開発期間を経て、コミュニティへの導入と貢献を促進するため、製品を完全にオープンソース化する決定を発表しました。Sergio De Simone著 (source: InfoQ)</description>
+      <description>3年間の開発を経て、単一のSwift/SwiftUIコードベースからiOSとAndroidアプリを作成できるソリューション「Skip」の開発チームは、コミュニティへの導入と貢献を促進するため、製品を完全にオープンソース化する決定を発表しました。Sergio De Simone著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/01/swift-skip-open-sourced/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 28 Jan 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CedarがサンドボックスプロジェクトとしてCNCFに参加</title>
-      <link>https://www.infoq.com/news/2026/01/cedar-joins-cncf-sandbox/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AWSが開発したオープンソースのポリシー言語「Cedar」が、CNCFのサンドボックスプロジェクトに参加しました。きめ細かなアプリケーション権限管理のために設計されたCedarは、検証可能な高性能ポリシーエンジンを用いて、アクセス制御とコードを切り離します。CedarはRBAC、ABAC、ReBACをサポートし、OPAなどの汎用ツールに代わる、安全で分析可能な代替手段を提供します。Mark Silvester著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/cedar-joins-cncf-sandbox/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 27 Jan 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SpaceXが株式公開市場に上場、セカンダリー市場はすでに活況</title>
-      <link>https://techcrunch.com/video/spacex-is-coming-to-the-public-markets-and-secondaries-are-already-on-fire/</link>
-      <description>報道によると、spaceXは2026年のIPOに向けて、ウォール街の主要銀行4行と提携を進めており、これは市場に必要なリセットをもたらす可能性がある。同社は8,000億ドルの評価額で公開買い付けを完了したばかりで、二次市場の需要は急騰している。SpaceXが噂されている1.5兆ドルの評価額に近い水準で上場すれば、OpenAI、Stripe、Databricksといった後期段階のユニコーン企業のIPOが次々と起こるきっかけとなる可能性がある。Equityの司会者レベッカ・ベランが語る[…] (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/video/spacex-is-coming-to-the-public-markets-and-secondaries-are-already-on-fire/</guid>
-      <pubDate>Wed, 28 Jan 2026 21:35:29 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
@@ -63,13 +70,6 @@
       <description>Moumita Bhattacharya氏が、Netflixのランキングシステムの進化について、マルチモデルアーキテクチャからUnified Contextual Recommender（UniCoRn）までを解説します。長期的な会員の嗜好を把握するために、タスクに依存しないユーザー基盤モデル（UFM）をどのように構築したかを解説します。高スループット推論や、関連性とパーソナライゼーションのトレードオフといったシステム課題をどのように解決したかをご覧ください。Moumita Bhattacharya著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/foundation-models-ranking/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 28 Jan 2026 17:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>記事: バーチャルパネル - AIの現場：開発者がソフトウェアプロセスをどのように書き換えているか</title>
-      <link>https://www.infoq.com/articles/ai-developers-rewriting-software-process/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>このバーチャルパネルでは、エンジニア、アーキテクト、そして技術リーダーが一堂に会し、AIがソフトウェア開発のあり方をどのように変えつつあるのかを探ります。AIを日常のワークフローに組み込む際の成功例と失敗例について、実務家たちがそれぞれの知見を共有し、AIを現代のエンジニアリング実践における持続可能な要素とするためには、コンテキスト、検証、そして文化的な適応がいかに重要であるかを強調します。アーサー・カザルス、マリア・ブリチェヴァ、メイ・ウォルター、フィル・カルサド、アンドレアス・コレッガー (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/ai-developers-rewriting-software-process/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 26 Jan 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Javaニュースまとめ: Oracleの重要なパッチアップデート、Grizzly 5、Payara Platform、GraalVM、Liberica JDK</title>

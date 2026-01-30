@@ -7,45 +7,67 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Jan 2026 06:55:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 06:56:11 +0000</lastBuildDate>
     <item>
-      <title>【海外記事紹介】「もう限界だ」― Windowsを20年来愛していたエンジニアが、Linuxに乗り換えるまでの苦悩を語ったブログが話題に</title>
-      <link>https://techfeed.io/entries/697ad1df79175633b633beeb?from=rss</link>
-      <description>1月29日、Bogdanが「Bogdan's Blog – From Microsoft to Microslop to Linux: Why I Made the Switch」と題した記事を公開した。この記事では、長年Windowsを愛用してきたエンジニアが、近年のOS品質の低下や強引なAI統合、広告表示に耐えかねてLinuxへと完全に移行した経緯について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/697ad1df79175633b633beeb?from=rss</guid>
-      <pubDate>Thu, 29 Jan 2026 03:19:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>「40Hzの音」を聞くと“脳のごみ”を2倍洗い流す　霊長類で実験　アルツハイマー病の新治療へ</title>
-      <link>https://www.itmedia.co.jp/news/articles/2601/29/news035.html</link>
-      <description>結果は、7日間の40Hz刺激により、脳脊髄液中のAβ濃度が2倍以上に上昇した。ランダムな音や無音では変化がなく、この効果が40Hz特異的であることを確認した。研究チームはこの上昇を、40Hz刺激が脳の老廃物排出システム（グリンパティック系）を活性化し、脳内にたまったAβを脳脊髄液へ押し出した結果と解釈している。 （... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2601/29/news035.html</guid>
-      <pubDate>Wed, 28 Jan 2026 23:36:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>自分でやった方が早いは、AI時代に組織とお前を殺す</title>
-      <link>https://zenn.dev/nuits_jp/articles/2026-01-27-codex-review-prompt</link>
-      <description>「AIに任せるより自分でやった方が早い」
-「AIの書いたコードなんて使い物にならない」
-「結局最後は人間が直さないといけない」
+      <title>Figma x Claudeでフルでコーディングしてみた</title>
+      <link>https://zenn.dev/hamworks/articles/0d57ca09e695c5</link>
+      <description>自分ではメインで手を動かさず、ClaudeにHTMLコーディングをほぼ任せました。
+地味にFigma MCPを初めて使ったので、いい感じの進め方ないかなーって試行錯誤した記録を残しておきます。
+今回はReactとかじゃなく、HTML（Nunjucksを用いたtwig）を作成しています。
+コーディングルール等はルールで定義します。CLAUDE.mdにばーっと全部書いてからルールにわけてって頼むと、いい感じに分けてくれます。（読んでくれるとは言ってない）
+今回は、
 
-私も以前はそう思っていましたし、現在でもSNS上ではそういう意見をよく見かけます。
-でも、その甘えは近い将来に組織とあなた自身を殺しますよ？
+アーキテクチャ
+CSSルール
 
- これまでは許された
-これまでも「人に任せるより自分でやった方が早い」という考えは、「良くない仕草」として知られてきました。
-後進が育たず組織が成長しませんし、結果「当たり前に自分ができる仕事」が自分から手離れせず、自分の成長機会を失うからです。
-とは言えこれまでは、そういう甘えも部分的に見逃されてきました。
-その仕... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nuits_jp/articles/2026-01-27-codex-review-prompt</guid>
-      <pubDate>Mon, 26 Jan 2026 21:09:03 +0000</pubDate>
+レスポンシブのブレークポイント
+命名規則
+
+今回はBEM指定だったので、サンプルも載せる
+
+
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hamworks/articles/0d57ca09e695c5</guid>
+      <pubDate>Thu, 29 Jan 2026 02:56:51 +0000</pubDate>
     </item>
     <item>
-      <title>2026年のBluesky予測 - Bluesky</title>
-      <link>https://bsky.social/about/blog/01-28-2026-bluesky-2026-predictions-jp</link>
-      <description>1月も終わりに近づきましたが、私たちは「行動の選択」について考えています。この疑問が浮かんだのは、ある明白で、かつ苛立たしい事実に気づいたからです。現代のソーシャルウェブが、憂鬱で、攻撃的で、人間味のない「情報の掃き溜め」になってしまったのは決して偶然ではない、という事実です。一つひとつの機能、一... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://bsky.social/about/blog/01-28-2026-bluesky-2026-predictions-jp</guid>
-      <pubDate>Wed, 28 Jan 2026 22:46:03 +0000</pubDate>
+      <title>日本をアジアのウクライナにしないための警戒</title>
+      <link>https://anond.hatelabo.jp/20260129150151</link>
+      <description>アメリカの近年の国家安全保障戦略（NSS）は、中国との直接戦争を回避しつつ競争を管理するという方針を明確にしている。 これは公式文書から読み取れる事実である。 一方で、その結果として最前線での軍事的・政治的負担を同盟国に委ねる誘因が生じ得るという点は分析・推測の領域に属する。 ウクライナ戦争は、大国同... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://anond.hatelabo.jp/20260129150151</guid>
+      <pubDate>Thu, 29 Jan 2026 06:26:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>さよなら、Figmaからのコピペ。Pencil.devでデザインをコードとして管理する</title>
+      <link>https://zenn.dev/yuukikawabata/articles/pencil-dev-introduction</link>
+      <description>こんにちは。
+突然ですが、フロントエンド開発でこんな**「めんどくさい」**を感じたことはありませんか？
+
+Figmaのデザインを見ながら、CSSの数値をポチポチ書き写す作業
+「ここのマージン、デザインと違うよ」という指摘への修正対応
+実装が進むにつれて、Figmaのデザイン画と実際のコードが乖離していく（そしてFigmaは放置される）
+
+
+もし一つでも当てはまるなら、今回紹介する 「Pencil.dev」 は、あなたの開発体験を劇的に変える可能性があります。
+今回は、今海外のエンジニア界隈で話題沸騰中のこのツールについて、「何がすごいのか」「どうやって使うのか」をエンジニア目線でサク... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yuukikawabata/articles/pencil-dev-introduction</guid>
+      <pubDate>Wed, 28 Jan 2026 13:27:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Git の次へ。jj（Jujutsu）が変えるバージョン管理の常識</title>
+      <link>https://zenn.dev/yamitake/articles/jj-jujutsu-modern-vcs-guide</link>
+      <description>はじめに
+「git stash し忘れてチェックアウトできない」
+「git rebase でコンフリクトの嵐」
+「git reset --hard で作業が消えた...」
+Git を使っていて、こんな経験はありませんか？
+jj（Jujutsu） は、これらの Git の痛みをすべて解消するために設計された、次世代のバージョン管理システムです。Google のエンジニアが開発し、Rust で書かれたこのツールは、Git リポジトリとの完全な互換性を持ちながら、根本的に優れたワークフローを提供します。
+この記事では、jj の魅力と基本的な使い方を紹介します。
+
+ jj とは何か
+Juju... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yamitake/articles/jj-jujutsu-modern-vcs-guide</guid>
+      <pubDate>Tue, 27 Jan 2026 06:47:34 +0000</pubDate>
     </item>
     <item>
       <title>AIの見張り番をやめよう - AIチームを指揮するOSS「takt」を公開しました</title>
@@ -61,18 +83,18 @@ AIエージェントが、言うことを聞いてくれないのです。
       <pubDate>Tue, 27 Jan 2026 11:16:01 +0000</pubDate>
     </item>
     <item>
-      <title>VanishChat - DBなし・完全ステートレスなメッセンジャーをCloudflare Workersで作った</title>
-      <link>https://zenn.dev/kiyo2023/articles/vanishchat-db-free-messenger</link>
-      <description>はじめに
-Web Pushの仕様を調べていたときのこと。
-「受信者がオフラインの場合、メッセージはブラウザベンダーのPush Service（GoogleやApple、Mozillaが運営）に一時的に保管される」
-この一文を見て、ピンときました。
-「これ、一時的なDBとして使えるのでは？」
-メッセンジャーアプリを作ろうとすると、相手がオフラインのときにメッセージを保存しておく仕組みが必要になります。普通はDBを用意するわけですが、Push Serviceが勝手にキューイングしてくれるなら、サーバー側にDBは要らないはず。
-そう思って作ったのがVanishChatです。
-せっかくサーバ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kiyo2023/articles/vanishchat-db-free-messenger</guid>
-      <pubDate>Mon, 26 Jan 2026 13:43:33 +0000</pubDate>
+      <title>【経営層に伝わる】NIST IR 8286で学ぶ「セキュリティ＝事業リスク」の説明技法</title>
+      <link>https://zenn.dev/moneymog/articles/c1f014b3299159</link>
+      <description>「セキュリティの話をするな」
+ある経営会議で、CISOがそう言われた。予算申請のプレゼンを準備して、脆弱性の数も、攻撃の傾向も、対策の必要性も丁寧に説明したのに。
+返ってきたのは「で、結局いくら損するの？」という一言だった。
+この光景、見覚えがある人は多いと思う。セキュリティの「技術的な正しさ」と、経営層が求める「事業への影響」の間には、深い溝がある。その溝を埋めるためのフレームワークが、NISTから出ている。NIST IR 8286だ。
+
+ 経営層と「言語」が違う問題
+セキュリティ担当者が経営層に説明するとき、よくある失敗パターンがある。
+技術的な正確さを追求しすぎる。「CVSSスコア... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/moneymog/articles/c1f014b3299159</guid>
+      <pubDate>Wed, 28 Jan 2026 10:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Google、Gemini 3搭載の次世代Chromeを発表 — AIによるブラウジング体験の革新がついに始まった</title>
@@ -82,24 +104,18 @@ Web Pushの仕様を調べていたときのこと。
       <pubDate>Thu, 29 Jan 2026 02:18:52 +0000</pubDate>
     </item>
     <item>
-      <title>ブラウザ戦争の歴史を辿ってみた</title>
-      <link>https://zenn.dev/shima0111/articles/b9819c999fa011</link>
-      <description>ブラウザは現代では単にテキストを読むものではなく、ゲーム・業務効率化アプリ・動画再生・チャットなどなど、ネイティブアプリとの差分がほぼなくなっています。
-ところで、アラサーである私は記憶のある時点ですでにChromeが市場を支配し始めた後でした。
-つまりChrome天下しか知らないのです。まるで江戸時代のように太平の安定した統治のもとを生きています。
-しかしかつての歴史を知ること、そしてこれから先の話も考えてみたいと思ったのでこの記事を書きます。
-私は学生時代は歴史は苦手でしたが、こういう歴史はなんかワクワクしますよね！
-!
-この記事は歴史的な物語として記載しています。技術的に厳密性を欠... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shima0111/articles/b9819c999fa011</guid>
-      <pubDate>Tue, 27 Jan 2026 12:58:44 +0000</pubDate>
-    </item>
-    <item>
       <title>OpenSSLが脆弱性ラッシュ — 「High」を含む11件の脆弱性を一挙公開、早めの対応を</title>
       <link>https://techfeed.io/entries/697977db7fcc150e4145f3b7?from=rss</link>
       <description>2026年1月27日、OpenSSLプロジェクトは計11件の脆弱性を修正したセキュリティアップデートを公開した。今回のリリースは、深刻度「High」が1件、「Moderate」が1件、そして「Low」が9件という、まさに「脆弱性ラッシュ」とも言える異例の規模である。特にOpenSSL 3.x系を利用しているシステムにおいては、認証なしで攻撃可能な脆弱性が含まれており、インフラ担当者や開発者は迅速な対応を迫られている。今回の「ラッシュ」の内容公開された11件の脆弱性は、メモリ破損、DoS攻撃、データの整合性欠如など多岐にわたる。海外のエンジニアコミュニティでは、特定のセキュリティリサーチチーム（Aisle Research等）による集中的な監査の結果ではないかとの見方が強い。主要な脆弱性の内訳は以下の通りだ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/697977db7fcc150e4145f3b7?from=rss</guid>
       <pubDate>Wed, 28 Jan 2026 02:43:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>相次ぐモバイルバッテリの発火、主な原因が明らかに</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2082118.html</link>
+      <description> (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2082118.html</guid>
+      <pubDate>Fri, 30 Jan 2026 01:04:19 +0000</pubDate>
     </item>
     <item>
       <title>マーケターのための Google Antigravity 活用術</title>

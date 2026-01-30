@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Jan 2026 06:55:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 06:56:17 +0000</lastBuildDate>
     <item>
-      <title>VSCOUT: 高次元回顧的モニタリングにおける外れ値検出のためのハイブリッド変分オートエンコーダアプローチ</title>
-      <link>https://arxiv.org/abs/2601.20830v1</link>
-      <description>現代の産業プロセスやサービスプロセスは、高次元、非ガウス分布、そして汚染されやすいデータを生成します。これは、従来の統計的プロセス制御（SPC）の基本的な前提に疑問を投げかけます。裾野の広がり、マルチモーダル性、非線形依存性、そしてスパースな特殊原因観測は、ベースライン推定を歪め、真の異常を隠蔽し、管理下（IC）参照セットの確実な特定を妨げる可能性があります。これらの課題に対処するため、高次元設定での遡及的（フェーズI）モニタリング専用に設計された分布フリーフレームワーク、VSCOUTを紹介します。VSCOUTは、自動関連性判定変分オートエンコーダ（ARD-VAE）アーキテクチャと、アンサンブルベースの潜在的外れ値フィルタリングおよび変化点検出を組み合わせています。ARD事前分布は最も有益な潜在次元を分離し、アンサンブルフィルタと変化点フィルタは、決定された潜在空間内の点ごとの構造的汚染を識別します。第2段階の再学習ステップでは、フラグ付けされた観測値を削除し、保持されたインライアのみを使用して潜在構造を再推定することで、マスキングを軽減し、IC潜在多様体を安定化させます。この2段階の (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2601.20830v1</guid>
-      <pubDate>Wed, 28 Jan 2026 18:30:48 +0000</pubDate>
+      <title>ダイヤル・ア・ライドの学習：電動ダイヤル・ア・ライド問題へのディープグラフ強化学習アプローチ</title>
+      <link>https://arxiv.org/abs/2601.22052v1</link>
+      <description>都市交通システムは電気によるオンデマンドサービスへの移行を進めており、エネルギーとサービス品質の制約下での車両管理において運用上の課題が生じています。電動ダイヤル・ア・ライド問題（E-DARP）は、限られたバッテリー容量と非線形充電ダイナミクスを組み込むことで、従来のダイヤル・ア・ライド問題を拡張したもので、計算複雑度が増大し、リアルタイム利用における厳密な手法のスケーラビリティが制限されます。本論文では、グラフニューラルネットワークエンコーダとアテンション駆動型経路構築ポリシーに基づく深層強化学習アプローチを提案します。この手法は、移動時間やエネルギー消費量などのエッジ属性に直接作用することで、実際の道路網における非ユークリッド的、非対称的、かつエネルギー依存的な経路コストを捉えます。学習されたポリシーは、ユークリッド的仮定や人為的なヒューリスティックに依存せずに、経路、充電、およびサービス品質を共同で最適化します。このアプローチは、サンフランシスコのライドシェアリングデータを用いた2つのケーススタディで評価されます。ベンチマークインスタンスにおいて、この手法は既知の最良の結果の0. (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.22052v1</guid>
+      <pubDate>Thu, 29 Jan 2026 17:51:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
