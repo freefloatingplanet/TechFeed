@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Jan 2026 06:56:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 06:46:17 +0000</lastBuildDate>
+    <item>
+      <title>【海外記事紹介】「もう限界だ」― Windowsを20年来愛していたエンジニアが、Linuxに乗り換えるまでの苦悩を語ったブログが話題に</title>
+      <link>https://techfeed.io/entries/697ad1df79175633b633beeb?from=rss</link>
+      <description>1月29日、Bogdanが「Bogdan's Blog – From Microsoft to Microslop to Linux: Why I Made the Switch」と題した記事を公開した。この記事では、長年Windowsを愛用してきたエンジニアが、近年のOS品質の低下や強引なAI統合、広告表示に耐えかねてLinuxへと完全に移行した経緯について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/697ad1df79175633b633beeb?from=rss</guid>
+      <pubDate>Thu, 29 Jan 2026 03:19:59 +0000</pubDate>
+    </item>
     <item>
       <title>Figma x Claudeでフルでコーディングしてみた</title>
       <link>https://zenn.dev/hamworks/articles/0d57ca09e695c5</link>
@@ -31,11 +38,20 @@ CSSルール
       <pubDate>Thu, 29 Jan 2026 02:56:51 +0000</pubDate>
     </item>
     <item>
-      <title>日本をアジアのウクライナにしないための警戒</title>
-      <link>https://anond.hatelabo.jp/20260129150151</link>
-      <description>アメリカの近年の国家安全保障戦略（NSS）は、中国との直接戦争を回避しつつ競争を管理するという方針を明確にしている。 これは公式文書から読み取れる事実である。 一方で、その結果として最前線での軍事的・政治的負担を同盟国に委ねる誘因が生じ得るという点は分析・推測の領域に属する。 ウクライナ戦争は、大国同... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://anond.hatelabo.jp/20260129150151</guid>
-      <pubDate>Thu, 29 Jan 2026 06:26:01 +0000</pubDate>
+      <title>Antigravityで大人のLP開発</title>
+      <link>https://zenn.dev/xxishan/articles/7686830bf5eeaf</link>
+      <description>AI開発プラットフォーム「Antigravity」を使ってランディングページ（LP）を作成しようと思った際に、この辺に気をつけてやったよということを共有します。
+
+ LP開発に必要な前提知識
+LPとはすなわちサービス（またはプロダクト）について知ってもらい、特定のアクション（お問合せ、資料請求、購読など）につなげるものです。つまりトップページと、何らかのアクション対象（たとえばお問合せフォーム）が必要になります。また、信頼性のあるサービスに見えるように、トップページ以外にページもあります。
+
+（広義の）LP
+
+（狭義の）ランディングページ
+CTA（Call To Action）ボタン
+お... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/xxishan/articles/7686830bf5eeaf</guid>
+      <pubDate>Wed, 28 Jan 2026 01:28:20 +0000</pubDate>
     </item>
     <item>
       <title>さよなら、Figmaからのコピペ。Pencil.devでデザインをコードとして管理する</title>
@@ -54,6 +70,17 @@ Figmaのデザインを見ながら、CSSの数値をポチポチ書き写す作
       <pubDate>Wed, 28 Jan 2026 13:27:04 +0000</pubDate>
     </item>
     <item>
+      <title>VS Code + GitHub Copilotで「”半自動”マルチエージェント」開発をやってみた</title>
+      <link>https://zenn.dev/jins/articles/25900be95ab8b8</link>
+      <description>はじめに
+最近、AI開発のトレンドとして「マルチエージェント」という言葉をよく耳にするようになりました。
+しかし、これを試すには複雑なPythonライブラリ（CrewAIやAutoGenなど）を導入したり、API利用料を気にしながらクラウドで動かしたりと、ハードルが高いのが現状です。
+そこで本記事では、 普段使っている「VS Code」と「GitHub Copilot」だけ を使って、ローカル環境で疑似的にマルチエージェントシステムを構築・運用してみた事例を紹介します。
+特別なツールや外部サービスは一切不要。「プロンプトファイルによる役割分担」という工夫だけで、いつもの開発体験がどう... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/jins/articles/25900be95ab8b8</guid>
+      <pubDate>Wed, 28 Jan 2026 23:09:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Git の次へ。jj（Jujutsu）が変えるバージョン管理の常識</title>
       <link>https://zenn.dev/yamitake/articles/jj-jujutsu-modern-vcs-guide</link>
       <description>はじめに
@@ -70,31 +97,18 @@ Juju... (source: Zennのトレンド)</description>
       <pubDate>Tue, 27 Jan 2026 06:47:34 +0000</pubDate>
     </item>
     <item>
-      <title>AIの見張り番をやめよう - AIチームを指揮するOSS「takt」を公開しました</title>
-      <link>https://zenn.dev/nrs/articles/c6842288a526d7</link>
-      <description>はじめに
-皆さんはAIエージェントと一緒に開発をしていて、こんな経験はないでしょうか。
-「さっき言ったことをもう忘れてるの？」
-AIエージェントを使った開発は本当に便利です。コードを書いてもらう、リファクタリングを任せる、テストを作ってもらう。素晴らしい時代になったなぁと思います。しかし、使えば使うほど、ある壁にぶつかります。
-AIエージェントが、言うことを聞いてくれないのです。
-与えた役割を忘れる。共有した知識が抜け落ちる。一度指摘したことを、しばらくしたらまたやらかす。皆さんにも身に覚えがあるのではないでしょうか。
-私もまさにこの問題に悩まされてきました。そして、この問題を解決す... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nrs/articles/c6842288a526d7</guid>
-      <pubDate>Tue, 27 Jan 2026 11:16:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【経営層に伝わる】NIST IR 8286で学ぶ「セキュリティ＝事業リスク」の説明技法</title>
-      <link>https://zenn.dev/moneymog/articles/c1f014b3299159</link>
-      <description>「セキュリティの話をするな」
-ある経営会議で、CISOがそう言われた。予算申請のプレゼンを準備して、脆弱性の数も、攻撃の傾向も、対策の必要性も丁寧に説明したのに。
-返ってきたのは「で、結局いくら損するの？」という一言だった。
-この光景、見覚えがある人は多いと思う。セキュリティの「技術的な正しさ」と、経営層が求める「事業への影響」の間には、深い溝がある。その溝を埋めるためのフレームワークが、NISTから出ている。NIST IR 8286だ。
+      <title>そのインタラクション、どう作るか？</title>
+      <link>https://zenn.dev/team_soda/articles/ba0fe106a605dc</link>
+      <description>GestureDetectorは使ったことありますか?
+Flutter使ってれば何度も使ったことあると思います。
+しかし、そのほとんどはシングルタップを目的としたonTapのはずです。
+この記事ではさまざまなアプリのインタラクションを題材として、onTap以外のメソッドの使い方を見ていきます。
+Flutterの知識を少しでも向上してもらうのはもちろん、「こんなインタラクション、UIもあるのか！」と感じてもらい、明日から仕事や個人開発に活かしてもらえたら嬉しいです。
+この記事では初級、中級、上級に分けてGestureDetectorを使った色々なインタラクションデザインを見ていきます。
 
- 経営層と「言語」が違う問題
-セキュリティ担当者が経営層に説明するとき、よくある失敗パターンがある。
-技術的な正確さを追求しすぎる。「CVSSスコア... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/moneymog/articles/c1f014b3299159</guid>
-      <pubDate>Wed, 28 Jan 2026 10:00:02 +0000</pubDate>
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/team_soda/articles/ba0fe106a605dc</guid>
+      <pubDate>Fri, 30 Jan 2026 11:00:05 +0000</pubDate>
     </item>
     <item>
       <title>Google、Gemini 3搭載の次世代Chromeを発表 — AIによるブラウジング体験の革新がついに始まった</title>
@@ -109,13 +123,6 @@ AIエージェントが、言うことを聞いてくれないのです。
       <description>2026年1月27日、OpenSSLプロジェクトは計11件の脆弱性を修正したセキュリティアップデートを公開した。今回のリリースは、深刻度「High」が1件、「Moderate」が1件、そして「Low」が9件という、まさに「脆弱性ラッシュ」とも言える異例の規模である。特にOpenSSL 3.x系を利用しているシステムにおいては、認証なしで攻撃可能な脆弱性が含まれており、インフラ担当者や開発者は迅速な対応を迫られている。今回の「ラッシュ」の内容公開された11件の脆弱性は、メモリ破損、DoS攻撃、データの整合性欠如など多岐にわたる。海外のエンジニアコミュニティでは、特定のセキュリティリサーチチーム（Aisle Research等）による集中的な監査の結果ではないかとの見方が強い。主要な脆弱性の内訳は以下の通りだ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/697977db7fcc150e4145f3b7?from=rss</guid>
       <pubDate>Wed, 28 Jan 2026 02:43:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>相次ぐモバイルバッテリの発火、主な原因が明らかに</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2082118.html</link>
-      <description> (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2082118.html</guid>
-      <pubDate>Fri, 30 Jan 2026 01:04:19 +0000</pubDate>
     </item>
     <item>
       <title>マーケターのための Google Antigravity 活用術</title>
