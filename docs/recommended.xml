@@ -7,67 +7,80 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Jan 2026 06:46:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 06:55:56 +0000</lastBuildDate>
     <item>
-      <title>【海外記事紹介】「もう限界だ」― Windowsを20年来愛していたエンジニアが、Linuxに乗り換えるまでの苦悩を語ったブログが話題に</title>
-      <link>https://techfeed.io/entries/697ad1df79175633b633beeb?from=rss</link>
-      <description>1月29日、Bogdanが「Bogdan's Blog – From Microsoft to Microslop to Linux: Why I Made the Switch」と題した記事を公開した。この記事では、長年Windowsを愛用してきたエンジニアが、近年のOS品質の低下や強引なAI統合、広告表示に耐えかねてLinuxへと完全に移行した経緯について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/697ad1df79175633b633beeb?from=rss</guid>
-      <pubDate>Thu, 29 Jan 2026 03:19:59 +0000</pubDate>
+      <title>【個人開発】QAをAIがしてくれるサービスをつくった</title>
+      <link>https://zenn.dev/keiichiro/articles/b998a410601537</link>
+      <description>背景と動機
+個人開発でも業務でも開発をしている中で、切り離せないのはQA（品質保証）です。せっかく作ったソフトウェアも品質が保証されずバグだらけではユーザーの信頼を得られないからです。
+https://ja.wikipedia.org/wiki/品質保証
+個人開発では機能を作るだけで精一杯で、QAは後回しになりがちです。
+結局、自分でちょっと触って動けばそのままリリースすることが多いです
+一方、業務では品質を守るためにQAは欠かせませんが、修正 → QA → 再QA という流れの中で、開発が思うように進まないと感じることもありました。
+「品質を担保するコスト」は思っている以上に大きい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/keiichiro/articles/b998a410601537</guid>
+      <pubDate>Sun, 01 Feb 2026 00:56:01 +0000</pubDate>
     </item>
     <item>
-      <title>Figma x Claudeでフルでコーディングしてみた</title>
-      <link>https://zenn.dev/hamworks/articles/0d57ca09e695c5</link>
-      <description>自分ではメインで手を動かさず、ClaudeにHTMLコーディングをほぼ任せました。
-地味にFigma MCPを初めて使ったので、いい感じの進め方ないかなーって試行錯誤した記録を残しておきます。
-今回はReactとかじゃなく、HTML（Nunjucksを用いたtwig）を作成しています。
-コーディングルール等はルールで定義します。CLAUDE.mdにばーっと全部書いてからルールにわけてって頼むと、いい感じに分けてくれます。（読んでくれるとは言ってない）
-今回は、
+      <title>PM の育成はなぜ難しいのか？ ー「贈与」の視点で考える「見えない仕事」の伝え方ー</title>
+      <link>https://zenn.dev/t_vana4/articles/c13b3eaaa9f5e3</link>
+      <description>人材育成ってむずかしい...。
 
-アーキテクチャ
-CSSルール
+ はじめに
+こんにちは！vana4 です。
+都内の IT スタートアップで PM（プロジェクトマネージャー）として働いています。
+みなさんの会社では、どのような人材育成の施策を実施されていますか？
+特に PL（プロジェクトリーダー）や PM といったリーダーの育成はうまくいっているでしょうか？
+私は最近 PM の育成について考えるようになったのですが、どのように育成していくのが良いのか、正直まったく見出せていません。
 
-レスポンシブのブレークポイント
-命名規則
-
-今回はBEM指定だったので、サンプルも載せる
-
-
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hamworks/articles/0d57ca09e695c5</guid>
-      <pubDate>Thu, 29 Jan 2026 02:56:51 +0000</pubDate>
+「状況に応じて正解が変わるため仕事をマニュアル化できない」
+「結局、修羅場をくぐった数（経験）がものを言う」
+「背中を見て覚えろ、と言う... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/t_vana4/articles/c13b3eaaa9f5e3</guid>
+      <pubDate>Sat, 31 Jan 2026 08:02:03 +0000</pubDate>
     </item>
     <item>
-      <title>Antigravityで大人のLP開発</title>
-      <link>https://zenn.dev/xxishan/articles/7686830bf5eeaf</link>
-      <description>AI開発プラットフォーム「Antigravity」を使ってランディングページ（LP）を作成しようと思った際に、この辺に気をつけてやったよということを共有します。
+      <title>【Swift】guard を「前提の宣言」として使うための整理</title>
+      <link>https://zenn.dev/takehito/articles/437aab341b6102</link>
+      <description>Swift の guard は便利ですが、使い方を誤ると「どちらの処理が本筋か分からない」「否定が重なって読みにくい」といった状態になりがちです。
+この記事では、guard を 前提の宣言（= この先を続けてよい条件の確定） として使うための考え方と、実務で安定する書き方のルールを、“なぜそうするのか” を最小限の文量で整理します。
 
- LP開発に必要な前提知識
-LPとはすなわちサービス（またはプロダクト）について知ってもらい、特定のアクション（お問合せ、資料請求、購読など）につなげるものです。つまりトップページと、何らかのアクション対象（たとえばお問合せフォーム）が必要になります。また、信頼性のあるサービスに見えるように、トップページ以外にページもあります。
+!
 
-（広義の）LP
+ TL;DR
 
-（狭義の）ランディングページ
-CTA（Call To Action）ボタン
-お... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/xxishan/articles/7686830bf5eeaf</guid>
-      <pubDate>Wed, 28 Jan 2026 01:28:20 +0000</pubDate>
+
+guard は「この先を続けてよい条件」を先に宣言する道具
+
+else は早期脱出（return / throw など）だけにする
+本処理や分岐を else に書きたくなったら if に切り替える
+否定の読みにくさは命名の問題として... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/takehito/articles/437aab341b6102</guid>
+      <pubDate>Sat, 31 Jan 2026 09:46:32 +0000</pubDate>
     </item>
     <item>
-      <title>さよなら、Figmaからのコピペ。Pencil.devでデザインをコードとして管理する</title>
-      <link>https://zenn.dev/yuukikawabata/articles/pencil-dev-introduction</link>
-      <description>こんにちは。
-突然ですが、フロントエンド開発でこんな**「めんどくさい」**を感じたことはありませんか？
-
-Figmaのデザインを見ながら、CSSの数値をポチポチ書き写す作業
-「ここのマージン、デザインと違うよ」という指摘への修正対応
-実装が進むにつれて、Figmaのデザイン画と実際のコードが乖離していく（そしてFigmaは放置される）
+      <title>【Antigravity】動画編集ド素人の学生が、Pythonで「ゆっくり実況」の完全自動化に挑んでみた話</title>
+      <link>https://zenn.dev/kiri_tech/articles/bbbaf5f1cdc57d</link>
+      <description>Antigravityとは
+Googleが開発した最新のAIファーストな統合開発環境（IDE）です。 従来の「コード補完」にとどまらず、「こんなアプリが作りたい」とチャットで伝えるだけで、AIエージェントがファイル構成からコードの実装までを半自動で行ってくれます。 まるで「重力（開発の面倒な作業）」から解放されたかのような体験ができることから、Antigravityと名付けられています。
+開発画面はこんな感じ。右側のチャット欄でAIにお願いすると、左側のファイルに勝手にコードが書かれていきます。凄すぎて笑える...。
 
 
-もし一つでも当てはまるなら、今回紹介する 「Pencil.dev」 は、あなたの開発体験を劇的に変える可能性があります。
-今回は、今海外のエンジニア界隈で話題沸騰中のこのツールについて、「何がすごいのか」「どうやって使うのか」をエンジニア目線でサク... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yuukikawabata/articles/pencil-dev-introduction</guid>
-      <pubDate>Wed, 28 Jan 2026 13:27:04 +0000</pubDate>
+ 1. はじめに：YMM？なにそれ美味しいの？
+こんにちは！G... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kiri_tech/articles/bbbaf5f1cdc57d</guid>
+      <pubDate>Sat, 31 Jan 2026 11:52:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>フロントエンドのモジュール分割を考える</title>
+      <link>https://zenn.dev/frontendflat/articles/574207fb58a7b0</link>
+      <description>最近、わかる！ソフトウェア設計トレーニング を読みました。以下の紹介文にある通り、普遍的な設計理論をどういった場合に適用するか判断力を養う問題が載っています。
+
+本書は、その問いに正面から向き合います。 ソフトウェア設計には、確かに現場の経験が欠かせません。 しかし、その根底には、学ぶことで誰もが習得できる、普遍的な「理論」と「判断基準」が存在します。 それは、数学の公式を学んだ後、問題集を解いて応用力を身につける学習プロセスと何ら変わりません。本書は、その訓練を積むための本格的な「設計問題集」です。
+
+第 2 章ではモジュール分割に関する説明と問題があるのですが、「ソフトウェア設計の主... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/frontendflat/articles/574207fb58a7b0</guid>
+      <pubDate>Fri, 30 Jan 2026 05:25:13 +0000</pubDate>
     </item>
     <item>
       <title>VS Code + GitHub Copilotで「”半自動”マルチエージェント」開発をやってみた</title>
@@ -79,22 +92,6 @@ Figmaのデザインを見ながら、CSSの数値をポチポチ書き写す作
 特別なツールや外部サービスは一切不要。「プロンプトファイルによる役割分担」という工夫だけで、いつもの開発体験がどう... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/jins/articles/25900be95ab8b8</guid>
       <pubDate>Wed, 28 Jan 2026 23:09:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Git の次へ。jj（Jujutsu）が変えるバージョン管理の常識</title>
-      <link>https://zenn.dev/yamitake/articles/jj-jujutsu-modern-vcs-guide</link>
-      <description>はじめに
-「git stash し忘れてチェックアウトできない」
-「git rebase でコンフリクトの嵐」
-「git reset --hard で作業が消えた...」
-Git を使っていて、こんな経験はありませんか？
-jj（Jujutsu） は、これらの Git の痛みをすべて解消するために設計された、次世代のバージョン管理システムです。Google のエンジニアが開発し、Rust で書かれたこのツールは、Git リポジトリとの完全な互換性を持ちながら、根本的に優れたワークフローを提供します。
-この記事では、jj の魅力と基本的な使い方を紹介します。
-
- jj とは何か
-Juju... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yamitake/articles/jj-jujutsu-modern-vcs-guide</guid>
-      <pubDate>Tue, 27 Jan 2026 06:47:34 +0000</pubDate>
     </item>
     <item>
       <title>そのインタラクション、どう作るか？</title>
@@ -125,27 +122,18 @@ Flutterの知識を少しでも向上してもらうのはもちろん、「こ�
       <pubDate>Wed, 28 Jan 2026 02:43:39 +0000</pubDate>
     </item>
     <item>
-      <title>マーケターのための Google Antigravity 活用術</title>
-      <link>https://zenn.dev/geeknees/books/b312b1844fb348</link>
-      <description>## 概要
-本書は、AI感度が高いマーケター向けに、Google Antigravityを使って  
-「一人で全部できる」マーケ実務を回すための実践書です。  
-LP作成、キーワード抽出、キャッチコピー、ROIのざっくり試算まで、  単なるAIチャットツールとしてではなく、「複数のエージェントを束ねる指揮官」 として  実務を圧倒的なスピードで回すための型を伝授します。
+      <title>寿司屋のサイトをmicroCMSからpitcmsに乗り換えた</title>
+      <link>https://zenn.dev/yutopia898/articles/e8005988b656d4</link>
+      <description>microCMSからpitcmsにヘッドレスCMSを移行したのでその記録をのこします。
+開発した本人なので、贔屓目マックスではありますが、Jamstackアーキテクチャのサイトには最適な選択肢だと思っているので、pitcmsがどのようなものかわかってもらえたら嬉しいです。
 
-## 対象読者
-- AIツールは触っているが、単純なチャットに限界を感じている人
-- B2B/B2C問わず、マーケ施策を自ら高速で実行したい担当者・起業家
-- 制作の「待ち時間」をゼロにし、検証回数を最大化したい人
-- エンジニア向けに見える Antigravity をマーケの実務に翻訳したい人
-
-## 本書で得られること
-- Agent Manager を駆使したマルチタスク管理術
-- Browser Agent による競合調査と顧客の声（VoC）の自動収集
-- テキストから「動くLP（HTML/CSS）」を一気に作り上げるフロー
-- Contextファイル を使ってエージェントを自分専用の参謀に育てる方法
-- 施 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/geeknees/books/b312b1844fb348</guid>
-      <pubDate>Tue, 27 Jan 2026 17:12:10 +0000</pubDate>
+ pitcmsとは
+pitcmsは、「はがしやすい日本製ヘッドレスCMS」というキャッチコピーのヘッドレスCMSです。
+2026年の1月下旬にリリースしたのでまだ生まれたばかりのサービスです。
+https://pitcms.net
+microCMSとの大きな違いは、APIベースではなく、GitベースのCMSであるとこ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yutopia898/articles/e8005988b656d4</guid>
+      <pubDate>Sat, 31 Jan 2026 05:40:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

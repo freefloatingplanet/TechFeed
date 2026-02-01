@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 31 Jan 2026 06:46:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 06:56:06 +0000</lastBuildDate>
+    <item>
+      <title>Chainguard、コンテナCVEの98%が上位20イメージの外側に潜んでいることを発見</title>
+      <link>https://www.infoq.com/news/2026/01/chainguard-opensource-vulns/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Chainguardの最新の「信頼できるオープンソースの現状」レポートは、コンテナイメージの脆弱性とオープンソース依存関係のロングテールに関する業界の現状を詳細に示しています。このレポートは、2025年9月から11月の間に観測された1,800以上のコンテナイメージプロジェクトと10,100件の脆弱性事例に基づき、本番環境のデータに基づいた視点を提供しています。マット・サンダース著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/chainguard-opensource-vulns/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 31 Jan 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Uber、分散ストレージの静的制限から優先度を考慮した負荷制御へ移行</title>
       <link>https://www.infoq.com/news/2026/01/uber-priority-aware-load-manager/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -23,25 +30,11 @@
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>鉄道は、システム障害の診断におけるログ、メトリクス、トレース、アラートの重要性を強調しています。</title>
-      <link>https://www.infoq.com/news/2026/01/railway-diagnosing-failure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Railway社のエンジニアリングチームは、開発者とSREチームがログ、メトリクス、トレース、アラートを組み合わせて本番システムの障害を理解し診断する方法を説明した、包括的な可観測性ガイドを公開しました。クレイグ・リシ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/railway-diagnosing-failure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
       <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。そこで、OAuthフロー、トークン管理、プロバイダー設定を自動化するPipesを開発しました。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SwiftクロスプラットフォームフレームワークSkip Now完全オープンソース</title>
-      <link>https://www.infoq.com/news/2026/01/swift-skip-open-sourced/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>3年間の開発を経て、単一のSwift/SwiftUIコードベースからiOSとAndroidアプリを作成できるソリューション「Skip」の開発チームは、コミュニティへの導入と貢献を促進するため、製品を完全にオープンソース化する決定を発表しました。Sergio De Simone著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/swift-skip-open-sourced/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 28 Jan 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
@@ -72,11 +65,18 @@
       <pubDate>Fri, 30 Jan 2026 09:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：ランキングの基礎モデル：課題、成功、そして学んだ教訓</title>
-      <link>https://www.infoq.com/presentations/foundation-models-ranking/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Moumita Bhattacharya氏が、Netflixのランキングシステムの進化について、マルチモデルアーキテクチャからUnified Contextual Recommender（UniCoRn）までを解説します。長期的な会員の嗜好を把握するために、タスクに依存しないユーザー基盤モデル（UFM）をどのように構築したかを解説します。高スループット推論や、関連性とパーソナライゼーションのトレードオフといったシステム課題をどのように解決したかをご覧ください。Moumita Bhattacharya著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/foundation-models-ranking/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 28 Jan 2026 17:03:00 +0000</pubDate>
+      <title>OpenAI、GPT-5.2を統合した無料のLaTeXネイティブワークスペース「Prism」をリリース</title>
+      <link>https://www.infoq.com/news/2026/01/openai-prism/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>OpenAIは、学術的な執筆と共同作業向けに設計された無料のクラウドベースのLaTeXワークスペース「Prism」をリリースしました。このプラットフォームは、GPT-5.2をオーサリング環境に直接統合しています。このプラットフォームは、文書編集、コンパイル、引用管理、AI支援による修正を単一のウェブベースのワークスペースに統合し、長文の科学文書を作成する研究者を対象としています。Robert Krzaczyński著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/openai-prism/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 31 Jan 2026 12:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft が OData .NET (ODL) 9.0.0 プレビュー 3 をリリース: 安全性、最新 API、仕様準拠</title>
+      <link>https://www.infoq.com/news/2026/01/odata-net-preview-9/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Microsoftは、OData .NETクライアントおよびコアライブラリの最新プレビュー版となるOData .NET (ODL) 9.0.0 Preview 3をリリースしました。これにより、ライブラリのモダナイゼーションへの取り組みが継続されます。このプレビュー版では、より安全なデフォルト動作、ランタイムAPIのクリーンアップ、そしてOData仕様へのより厳格な準拠に重点が置かれており、チームは安定した9.xリリースに向けて取り組んでいます。Edin Kapić (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/odata-net-preview-9/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 31 Jan 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
