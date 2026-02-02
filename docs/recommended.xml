@@ -7,9 +7,33 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Feb 2026 06:55:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 07:07:27 +0000</lastBuildDate>
     <item>
-      <title>【個人開発】QAをAIがしてくれるサービスをつくった</title>
+      <title>Moltbookについて、いま起きていることのまとめ</title>
+      <link>https://zenn.dev/sakasegawa/articles/9cf4dba3f6b5f3</link>
+      <description>こんにちは！逆瀬川 ( @gyakuse ) です！
+さいきん Moltbook という OpenClaw (Clawdbot -&gt; Moltbot -&gt; OpenClawと名称が変わってきた) の Agent 用の Reddit 風 SNS が登場しました。
+めっちゃ面白かったので色々まとめたいと思います。
+
+
+ Moltbookについて
+OpenClaw向けの Reddit 風 SNSです。
+DM以外には人間は干渉せず、自由に投稿をすることができます。
+
+ なにが起きているか？
+AI 同士が SNS で自由に発言し合った結果、いろんな発言が飛び出しています。なお、後述のよ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sakasegawa/articles/9cf4dba3f6b5f3</guid>
+      <pubDate>Sat, 31 Jan 2026 10:58:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】「もう限界だ」― Windowsを20年来愛していたエンジニアが、Linuxに乗り換えるまでの苦悩を語ったブログが話題に</title>
+      <link>https://techfeed.io/entries/697ad1df79175633b633beeb?from=rss</link>
+      <description>1月29日、Bogdanが「Bogdan's Blog – From Microsoft to Microslop to Linux: Why I Made the Switch」と題した記事を公開した。この記事では、長年Windowsを愛用してきたエンジニアが、近年のOS品質の低下や強引なAI統合、広告表示に耐えかねてLinuxへと完全に移行した経緯について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/697ad1df79175633b633beeb?from=rss</guid>
+      <pubDate>Thu, 29 Jan 2026 03:19:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【個人開発】毎回テストで疲弊するのをやめたくて、AI QAサービスを作った</title>
       <link>https://zenn.dev/keiichiro/articles/b998a410601537</link>
       <description>背景と動機
 個人開発でも業務でも開発をしている中で、切り離せないのはQA（品質保証）です。せっかく作ったソフトウェアも品質が保証されずバグだらけではユーザーの信頼を得られないからです。
@@ -22,22 +46,31 @@ https://ja.wikipedia.org/wiki/品質保証
       <pubDate>Sun, 01 Feb 2026 00:56:01 +0000</pubDate>
     </item>
     <item>
-      <title>PM の育成はなぜ難しいのか？ ー「贈与」の視点で考える「見えない仕事」の伝え方ー</title>
-      <link>https://zenn.dev/t_vana4/articles/c13b3eaaa9f5e3</link>
-      <description>人材育成ってむずかしい...。
+      <title>MCP Apps標準化でWeb業界が一変。MCPクライアントとMCPサーバで対応した経験をもとに解説</title>
+      <link>https://zenn.dev/takeshy/articles/f88ee9325720b4</link>
+      <description>追記
+結論から言います。MCP Apps対応は、今すぐ着手すべきです。
+現状でもユーザーはもうGoogle検索を使わなくなりつつあります。「新宿から大阪 新幹線 時刻」と検索する代わりに、「来週の金曜、新宿から大阪に行きたい。午前中に着くルートを調べて」とAIに話しかけて終わり。検索結果の1位を取っても、そもそも検索されなければ意味がない時代です。
+そしてMCP Appsは、この流れを決定的にします。一度インストールされたアプリは、AIが勝手に起動するからです。
+ここで重要なのは、同じカテゴリのアプリは今のMCPの仕組みだと基本的に1つしか入れられないという点です。似たようなTool... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/takeshy/articles/f88ee9325720b4</guid>
+      <pubDate>Fri, 30 Jan 2026 01:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>RAGの精度が出ない原因は『LLM』ではなかった話</title>
+      <link>https://zenn.dev/kazusa_nakagawa/articles/article11_rag</link>
+      <description>はじめに
+RAG（Retrieval-Augmented Generation）を使ったアシスタントを実装していると、「それっぽいけど中身が薄い」「質問にちゃんと答えていない」と感じる場面に遭遇しますよね...
+当初は LLM の性能やプロンプト設計を疑いがちですが、実際に調査してみると、問題の本質は回答生成ではなく検索（Retrieval）とランキングにあるケースが多いと分かりました 🔍
+この記事では、RAG の精度が出なかった原因と、実際に行った改善を、コードレビュー結果をもとに整理していきます。劇的な改善とまではいきませんが、少しでも参考になれば幸いです。
 
- はじめに
-こんにちは！vana4 です。
-都内の IT スタートアップで PM（プロジェクトマネージャー）として働いています。
-みなさんの会社では、どのような人材育成の施策を実施されていますか？
-特に PL（プロジェクトリーダー）や PM といったリーダーの育成はうまくいっているでしょうか？
-私は最近 PM の育成について考えるようになったのですが、どのように育成していくのが良いのか、正直まったく見出せていません。
 
-「状況に応じて正解が変わるため仕事をマニュアル化できない」
-「結局、修羅場をくぐった数（経験）がものを言う」
-「背中を見て覚えろ、と言う... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/t_vana4/articles/c13b3eaaa9f5e3</guid>
-      <pubDate>Sat, 31 Jan 2026 08:02:03 +0000</pubDate>
+ 前提構成
+
+
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kazusa_nakagawa/articles/article11_rag</guid>
+      <pubDate>Sat, 31 Jan 2026 03:36:47 +0000</pubDate>
     </item>
     <item>
       <title>【Swift】guard を「前提の宣言」として使うための整理</title>
@@ -59,53 +92,11 @@ else は早期脱出（return / throw など）だけにする
       <pubDate>Sat, 31 Jan 2026 09:46:32 +0000</pubDate>
     </item>
     <item>
-      <title>【Antigravity】動画編集ド素人の学生が、Pythonで「ゆっくり実況」の完全自動化に挑んでみた話</title>
-      <link>https://zenn.dev/kiri_tech/articles/bbbaf5f1cdc57d</link>
-      <description>Antigravityとは
-Googleが開発した最新のAIファーストな統合開発環境（IDE）です。 従来の「コード補完」にとどまらず、「こんなアプリが作りたい」とチャットで伝えるだけで、AIエージェントがファイル構成からコードの実装までを半自動で行ってくれます。 まるで「重力（開発の面倒な作業）」から解放されたかのような体験ができることから、Antigravityと名付けられています。
-開発画面はこんな感じ。右側のチャット欄でAIにお願いすると、左側のファイルに勝手にコードが書かれていきます。凄すぎて笑える...。
-
-
- 1. はじめに：YMM？なにそれ美味しいの？
-こんにちは！G... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kiri_tech/articles/bbbaf5f1cdc57d</guid>
-      <pubDate>Sat, 31 Jan 2026 11:52:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>フロントエンドのモジュール分割を考える</title>
-      <link>https://zenn.dev/frontendflat/articles/574207fb58a7b0</link>
-      <description>最近、わかる！ソフトウェア設計トレーニング を読みました。以下の紹介文にある通り、普遍的な設計理論をどういった場合に適用するか判断力を養う問題が載っています。
-
-本書は、その問いに正面から向き合います。 ソフトウェア設計には、確かに現場の経験が欠かせません。 しかし、その根底には、学ぶことで誰もが習得できる、普遍的な「理論」と「判断基準」が存在します。 それは、数学の公式を学んだ後、問題集を解いて応用力を身につける学習プロセスと何ら変わりません。本書は、その訓練を積むための本格的な「設計問題集」です。
-
-第 2 章ではモジュール分割に関する説明と問題があるのですが、「ソフトウェア設計の主... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/frontendflat/articles/574207fb58a7b0</guid>
-      <pubDate>Fri, 30 Jan 2026 05:25:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>VS Code + GitHub Copilotで「”半自動”マルチエージェント」開発をやってみた</title>
-      <link>https://zenn.dev/jins/articles/25900be95ab8b8</link>
-      <description>はじめに
-最近、AI開発のトレンドとして「マルチエージェント」という言葉をよく耳にするようになりました。
-しかし、これを試すには複雑なPythonライブラリ（CrewAIやAutoGenなど）を導入したり、API利用料を気にしながらクラウドで動かしたりと、ハードルが高いのが現状です。
-そこで本記事では、 普段使っている「VS Code」と「GitHub Copilot」だけ を使って、ローカル環境で疑似的にマルチエージェントシステムを構築・運用してみた事例を紹介します。
-特別なツールや外部サービスは一切不要。「プロンプトファイルによる役割分担」という工夫だけで、いつもの開発体験がどう... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/jins/articles/25900be95ab8b8</guid>
-      <pubDate>Wed, 28 Jan 2026 23:09:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>そのインタラクション、どう作るか？</title>
-      <link>https://zenn.dev/team_soda/articles/ba0fe106a605dc</link>
-      <description>GestureDetectorは使ったことありますか?
-Flutter使ってれば何度も使ったことあると思います。
-しかし、そのほとんどはシングルタップを目的としたonTapのはずです。
-この記事ではさまざまなアプリのインタラクションを題材として、onTap以外のメソッドの使い方を見ていきます。
-Flutterの知識を少しでも向上してもらうのはもちろん、「こんなインタラクション、UIもあるのか！」と感じてもらい、明日から仕事や個人開発に活かしてもらえたら嬉しいです。
-この記事では初級、中級、上級に分けてGestureDetectorを使った色々なインタラクションデザインを見ていきます。
-
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/team_soda/articles/ba0fe106a605dc</guid>
-      <pubDate>Fri, 30 Jan 2026 11:00:05 +0000</pubDate>
+      <title>寿司屋のサイトをmicroCMSからpitcmsに乗り換えた</title>
+      <link>https://zenn.dev/yutopia898/articles/e8005988b656d4</link>
+      <description>microCMSからpitcmsにヘッドレスCMSを移行したのでその記録をのこします。 開発した本人なので、贔屓目マックスではありますが、Jamstackアーキテクチャのサイトには最適な選択肢だと思っているので、pitcmsがどのようなものかわかってもらえたら嬉しいです。 pitcmsとは pitcmsは、「はがしやすい日本製ヘッドレスCMS」... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/yutopia898/articles/e8005988b656d4</guid>
+      <pubDate>Sun, 01 Feb 2026 10:18:58 +0000</pubDate>
     </item>
     <item>
       <title>Google、Gemini 3搭載の次世代Chromeを発表 — AIによるブラウジング体験の革新がついに始まった</title>
@@ -115,25 +106,30 @@ Flutterの知識を少しでも向上してもらうのはもちろん、「こ�
       <pubDate>Thu, 29 Jan 2026 02:18:52 +0000</pubDate>
     </item>
     <item>
-      <title>OpenSSLが脆弱性ラッシュ — 「High」を含む11件の脆弱性を一挙公開、早めの対応を</title>
-      <link>https://techfeed.io/entries/697977db7fcc150e4145f3b7?from=rss</link>
-      <description>2026年1月27日、OpenSSLプロジェクトは計11件の脆弱性を修正したセキュリティアップデートを公開した。今回のリリースは、深刻度「High」が1件、「Moderate」が1件、そして「Low」が9件という、まさに「脆弱性ラッシュ」とも言える異例の規模である。特にOpenSSL 3.x系を利用しているシステムにおいては、認証なしで攻撃可能な脆弱性が含まれており、インフラ担当者や開発者は迅速な対応を迫られている。今回の「ラッシュ」の内容公開された11件の脆弱性は、メモリ破損、DoS攻撃、データの整合性欠如など多岐にわたる。海外のエンジニアコミュニティでは、特定のセキュリティリサーチチーム（Aisle Research等）による集中的な監査の結果ではないかとの見方が強い。主要な脆弱性の内訳は以下の通りだ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/697977db7fcc150e4145f3b7?from=rss</guid>
-      <pubDate>Wed, 28 Jan 2026 02:43:39 +0000</pubDate>
+      <title>脱初心者のための実践バグバウンティ登竜門</title>
+      <link>https://zenn.dev/scgajge12/books/06d5b176dfe0d7</link>
+      <description>📕【概要】
+　本書は、バグバウンティにおけるバグハンティングのスキルを、入門レベルから実用レベルへと高めるための、体系的かつ実践的な「脱初心者」向けの初級本です。
+
+　多くの一般的な学習コンテンツは基礎知識の習得に役立ちますが、それらを学ぶだけでは、リアルワールドのバグバウンティプログラムで実際の脆弱性を発見して報奨金を獲得するのは難しく、より実践的なバグハンターとしてのノウハウが不可欠です。
+
+　本書では、特にバグバウンティプラットフォームのプログラムにおける Web アプリケーションをターゲットにし、実在する脆弱性を発見するための技術的な観点や、調査に必要な非技術的なスキルについて、筆者の経験談をもとに体系化しました。
+
+　本書を通して、入門者・初心者レベルから一歩抜け出し、自力で未知の脆弱性を発見できる「初級バグハンター」へとステップアップするための実践的な知見を提供します。実際に初の報奨金を獲得するキッカケとして活用いただければ幸いです。
+
+💪【こんな方にオススメ】
+・☆ バグバウンティ（脆弱性報奨金制度）にチャレンジしたい方
+・☆ やる気のある方、熱意のある方
+・Web セキ (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/scgajge12/books/06d5b176dfe0d7</guid>
+      <pubDate>Sun, 01 Feb 2026 23:25:12 +0000</pubDate>
     </item>
     <item>
-      <title>寿司屋のサイトをmicroCMSからpitcmsに乗り換えた</title>
-      <link>https://zenn.dev/yutopia898/articles/e8005988b656d4</link>
-      <description>microCMSからpitcmsにヘッドレスCMSを移行したのでその記録をのこします。
-開発した本人なので、贔屓目マックスではありますが、Jamstackアーキテクチャのサイトには最適な選択肢だと思っているので、pitcmsがどのようなものかわかってもらえたら嬉しいです。
-
- pitcmsとは
-pitcmsは、「はがしやすい日本製ヘッドレスCMS」というキャッチコピーのヘッドレスCMSです。
-2026年の1月下旬にリリースしたのでまだ生まれたばかりのサービスです。
-https://pitcms.net
-microCMSとの大きな違いは、APIベースではなく、GitベースのCMSであるとこ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yutopia898/articles/e8005988b656d4</guid>
-      <pubDate>Sat, 31 Jan 2026 05:40:02 +0000</pubDate>
+      <title>AIエージェント専用SNS「Moltbook」、大人気の裏で深刻な脆弱性 — 全エージェントの乗っ取りが可能だった</title>
+      <link>https://techfeed.io/entries/69804aa779175633b6359012?from=rss</link>
+      <description>1月31日、Ars Technicaが「AI agents now have their own Reddit-style social network, and it's getting weird fast」と題した記事を公開した。この記事では、AIエージェント専用のReddit型SNS「Moltbook」の急成長と、それに伴って露呈した極めて深刻なセキュリティ上の懸念について詳しく紹介されている。以下に、その内容を紹介する。「Moltbook」は、RedditスタイルのUIを持つ、AIエージェントのみが参加可能なソーシャルネットワークである。登録済みAIエージェント数はすでに32,000件を突破しており、マシン間（Machine-to-Machine）の社会的一貫性を問う、過去最大規模の実験場となっている。このプラットフォームは、爆発的な普及を見せている個人向けAIアシスタント「OpenClaw」（旧称：Clawdbot、Moltbot）のエコシステムから派生した。Moltbookの最大の特徴は、人間の介在なしにAIエージェントが自律的に投稿、コメント、アップボート（高評価）、お (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/69804aa779175633b6359012?from=rss</guid>
+      <pubDate>Mon, 02 Feb 2026 06:56:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

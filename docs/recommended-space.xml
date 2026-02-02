@@ -7,20 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Feb 2026 06:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 07:07:33 +0000</lastBuildDate>
+    <item>
+      <title>史上初、火星探査車が「AIが計画したルート」で走行　大規模言語モデル「Claude」を活用</title>
+      <link>https://sorae.info/space/20260131-perseverance-claude.html</link>
+      <description>NASA（アメリカ航空宇宙局）は2026年1月30日、火星探査車「Perseverance（パーシビアランス）」が、AIによって計画された“別の天体で初”の走行（ドライブ）を完了したと発表しました。2025年12月8日と… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260131-perseverance-claude.html</guid>
+      <pubDate>Sat, 31 Jan 2026 13:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>スペースX、衛星衝突回避システム「Stargaze」を発表–他の衛星運用者に無料提供へ</title>
+      <link>https://uchubiz.com/article/new68922/</link>
+      <description>SpaceXは、地球低軌道の衛星衝突リスクを下げるシステム「Stargaze」を発表した。Starlink衛星群に搭載された光学センサーを使い、軌道上の物体を短時間で追跡する仕組みだ。今後数週間以内に多くの衛星運用者に […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new68922/</guid>
+      <pubDate>Sun, 01 Feb 2026 22:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>スーパーアース深部に潜むマグマの海が生命居住可能性を高める磁場を生み出しているかも</title>
       <link>https://sorae.info/astronomy/20260129-super-earth-magnetic-field.html</link>
       <description>これまでに6000個以上が見つかっている太陽系外惑星の研究が進む中、生命が存在できる環境を持つ「第2の地球」の発見に大きな期待が寄せられています。 注目されているもののひとつが、地球よりも質量が大きく、かつ巨大ガス惑星や… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260129-super-earth-magnetic-field.html</guid>
       <pubDate>Thu, 29 Jan 2026 11:28:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>宇都宮市、宇宙スタートアップを支援する「企業版ふるさと納税」を募集–BULLとフォーカスの2社に</title>
-      <link>https://uchubiz.com/article/new68779/</link>
-      <description>栃木県宇都宮市は、市内に拠点を構える宇宙スタートアップを支援するべく、企業版ふるさと納税を募集している。応募締切は3月9日。 　宇都宮市では、「うつのみや産業振興ビジョン」において航空宇宙領域を重点振興産業に位置付けて […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new68779/</guid>
-      <pubDate>Thu, 22 Jan 2026 01:05:50 +0000</pubDate>
     </item>
     <item>
       <title>超新星爆発を通じて可視光線でもブラックホール誕生の瞬間を観測できる可能性</title>
@@ -51,13 +58,6 @@
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>「共感できるかどうか」Frontier Innovationsの西村竜彦氏・浜野豊氏が明かす、スタートアップ投資・支援で大切にしていること【後編】</title>
-      <link>https://sorabatake.jp/44241/</link>
-      <description>日本の宇宙産業の10年の変化とエコシステムの発展について、Frontier Innovationsの西村竜彦さんと浜野豊さんにお話を伺った特別インタビューの後編。投資判断の具体的なプロセスや第2世代・第3世代の宇宙スタートアップに対する期待について伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/44241/</guid>
-      <pubDate>Wed, 14 Jan 2026 23:01:00 +0000</pubDate>
-    </item>
-    <item>
       <title>「西陣織の宇宙服」など開発のAmateras Space、堀江貴文氏やアクセルスペース中村氏から資金調達</title>
       <link>https://uchubiz.com/article/new68840/</link>
       <description>日本発の宇宙服を開発するスタートアップAmateras Spaceは1月27日、エンジェルラウンドにおいて第三者割当増資による資金調達を実施したと発表した。今回の金額は非公開。 　引受先は、実業家の堀江貴文氏、レオス・ […] (source: Uchubiz)</description>
@@ -72,11 +72,11 @@
       <pubDate>Sat, 31 Jan 2026 10:17:28 +0000</pubDate>
     </item>
     <item>
-      <title>スペースシャトル「チャレンジャー」の事故から40年　NASAが2026年の「追悼の日」を迎える</title>
-      <link>https://sorae.info/space/20260126-nasa-day-of-remembrance.html</link>
-      <description>NASA（アメリカ航空宇宙局）は2026年1月22日に、今年の「追悼の日（Day of Remembrance）」の記念行事を執り行いました。 毎年1月下旬から2月上旬にかけては、NASAにとって特別な時期です。アポロ計… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260126-nasa-day-of-remembrance.html</guid>
-      <pubDate>Mon, 26 Jan 2026 12:40:59 +0000</pubDate>
+      <title>NASAの木星探査機ジュノーが衛星エウロパの氷殻を測定　厚さは30km近くに達する可能性</title>
+      <link>https://sorae.info/astronomy/20260201-europa-juno.html</link>
+      <description>木星の衛星Europa（エウロパ）は、分厚い氷の下に広大な内部海が存在すると考えられており、太陽系内で生命が存在する可能性が高い天体の一つとして注目されています。 今回、NASA（アメリカ航空宇宙局）の木星探査機「Jun… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260201-europa-juno.html</guid>
+      <pubDate>Sun, 01 Feb 2026 08:57:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

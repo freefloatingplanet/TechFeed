@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Feb 2026 06:56:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 07:07:35 +0000</lastBuildDate>
     <item>
-      <title>ダイヤル・ア・ライドの学習：電動ダイヤル・ア・ライド問題へのディープグラフ強化学習アプローチ</title>
-      <link>https://arxiv.org/abs/2601.22052v1</link>
-      <description>都市交通システムは電気によるオンデマンドサービスへの移行を進めており、エネルギーとサービス品質の制約下での車両管理において運用上の課題が生じています。電動ダイヤル・ア・ライド問題（E-DARP）は、限られたバッテリー容量と非線形充電ダイナミクスを組み込むことで、従来のダイヤル・ア・ライド問題を拡張したもので、計算複雑度が増大し、リアルタイム利用における厳密な手法のスケーラビリティが制限されます。本論文では、グラフニューラルネットワークエンコーダとアテンション駆動型経路構築ポリシーに基づく深層強化学習アプローチを提案します。この手法は、移動時間やエネルギー消費量などのエッジ属性に直接作用することで、実際の道路網における非ユークリッド的、非対称的、かつエネルギー依存的な経路コストを捉えます。学習されたポリシーは、ユークリッド的仮定や人為的なヒューリスティックに依存せずに、経路、充電、およびサービス品質を共同で最適化します。このアプローチは、サンフランシスコのライドシェアリングデータを用いた2つのケーススタディで評価されます。ベンチマークインスタンスにおいて、この手法は既知の最良の結果の0. (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2601.22052v1</guid>
-      <pubDate>Thu, 29 Jan 2026 17:51:04 +0000</pubDate>
+      <title>FC-KAN: コルモゴロフ・アーノルドネットワークにおける関数の組み合わせ</title>
+      <link>https://arxiv.org/abs/2409.01763v4</link>
+      <description>本稿では、低次元データに対してBスプライン、ウェーブレット、ラジアル基底関数といった一般的な数学関数を要素ごとの演算で組み合わせるコルモゴロフ・アーノルドネットワーク（KAN）であるFC-KANを紹介します。これらの関数の出力を組み合わせる手法として、和、要素ごとの積、和と要素ごとの積の加算、2次関数と3次関数の表現、連結、連結出力の線形変換など、様々な手法を検討します。実験では、MNISTおよびFashion-MNISTデータセットを用いて、FC-KANを多層パーセプトロンネットワーク（MLP）やBSRBF-KAN、EfficientKAN、FastKAN、FasterKANといった既存のKANと比較します。 FC-KANの2つのバリアントは、Bスプラインとガウス関数の差（DoG）の出力、およびBスプラインと二次関数の線形変換の出力を組み合わせたもので、5回の独立した学習実行の平均において、他のモデルを全体的に上回る性能を示しました。FC-KANは、将来のKANの設計において、これらの関数の組み合わせを活用できると期待しています。リポジトリはhttps://github.com/ho (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2409.01763v4</guid>
+      <pubDate>Tue, 03 Sep 2024 10:16:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
