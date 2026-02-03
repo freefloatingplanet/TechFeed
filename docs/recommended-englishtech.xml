@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 02 Feb 2026 07:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 06:58:11 +0000</lastBuildDate>
+    <item>
+      <title>Chainguard、コンテナCVEの98%がトップ20イメージの外側に潜んでいることを発見</title>
+      <link>https://www.infoq.com/news/2026/01/chainguard-opensource-vulns/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Chainguardの最新の「信頼できるオープンソースの現状」レポートは、コンテナイメージの脆弱性とオープンソース依存関係のロングテールに関する業界の現状を詳細に示しています。このレポートは、2025年9月から11月の間に観測された1,800以上のコンテナイメージプロジェクトと10,100件の脆弱性事例に基づき、本番環境のデータに基づいた視点を提供しています。マット・サンダース著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/chainguard-opensource-vulns/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 31 Jan 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OktaからLaravelアプリにユーザーを同期する方法</title>
+      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
+      <description>わずか数行のコードで、SCIM、Okta、WorkOS を使用して Laravel アプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
@@ -30,18 +44,11 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>マイクロソフト、C# および WinForms エキスパートによる .NET 開発者向けカスタム Copilot エージェントを追加</title>
-      <link>https://www.infoq.com/news/2026/01/copilot-agents-csharp-winforms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>MicrosoftとGitHubは、C#およびWindows Forms開発者の生産性とコード品質の向上を目的として設計された、.NETに特化した初のGitHub Copilotカスタムエージェントを発表し、Copilotエコシステムを拡張しました。今回の発表は、Copilotカスタムエージェントの広範な展開の一環であり、C# ExpertとWinForms Expertという2つの専用エージェントが、エージェント指示マークダウンファイルの形式で導入されます。Edin Kapić著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/copilot-agents-csharp-winforms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 30 Jan 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ポッドキャスト: 技術系創業者の道: コード、リーダーシップ、そしてバランス</title>
-      <link>https://www.infoq.com/podcasts/code-leadership-balance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>このポッドキャストでは、カルチャー＆メソッドの主任編集者であるシェーン・ハスティーが、プログラマーからスタートアップのCEOへの転身、技術リーダーシップと事業開発のバランス、そしてその過程で燃え尽き症候群を回避する方法について、トリシャ・バラクルに語りました。トリシャ・バラクル (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/podcasts/code-leadership-balance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 30 Jan 2026 09:00:00 +0000</pubDate>
+      <title>連合は、合意のない性的コンテンツに対する連邦グロク禁止を要求</title>
+      <link>https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/</link>
+      <description>xAIチャットボットが何千枚もの合意のない性的画像を生成し、国家安全保障と児童の安全に関する懸念を引き起こしたことを受け、非営利団体は米国政府に対し、連邦機関でのGrokの使用を停止するよう求めている。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/</guid>
+      <pubDate>Mon, 02 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Javaニュースまとめ: Jakarta EE 12、Spring Shell、Open Liberty、Quarkus、Tomcat、JHipster、Gradle</title>
@@ -51,20 +58,6 @@
       <pubDate>Mon, 02 Feb 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション: WASM コンポーネントは FaaS のベストフレンドです</title>
-      <link>https://www.infoq.com/presentations/wasm-components-faas/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Laurent Doguin が、Wasm のコールドスタート性能とセキュリティモデルが、なぜ理想的な FaaS ランタイムなのかを説明します。多言語相互運用性を実現する WebAssembly コンポーネントモデルについて解説し、CNCF wasmCloud と NATS を用いた分散型プロバイダーベースのアーキテクチャの構築方法を解説します。これは、重いコンテナのオーバーヘッドなしに「スケール・トゥ・ゼロ」のインフラストラクチャをスケールさせたいと考えているアーキテクトにとって理想的なソリューションです。Laurent Doguin 著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/wasm-components-faas/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 30 Jan 2026 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>さようなら、企業コングロマリット。こんにちは、個人コングロマリット。</title>
-      <link>https://techcrunch.com/2026/02/01/bye-bye-corporate-conglomerates-hello-personal-conglomerates/</link>
-      <description>イーロン・マスク氏によるSpaceX、xAI、テスラの合併報道は、ゼネラル・エレクトリックの全盛期、あるいは黄金時代の強盗男爵時代を思い起こさせる。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/02/01/bye-bye-corporate-conglomerates-hello-personal-conglomerates/</guid>
-      <pubDate>Sun, 01 Feb 2026 15:39:08 +0000</pubDate>
-    </item>
-    <item>
       <title>OpenAI、GPT-5.2を統合した無料のLaTeXネイティブワークスペース「Prism」をリリース</title>
       <link>https://www.infoq.com/news/2026/01/openai-prism/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>OpenAIは、学術的な執筆と共同作業向けに設計された無料のクラウドベースのLaTeXワークスペース「Prism」をリリースしました。このプラットフォームは、GPT-5.2をオーサリング環境に直接統合しています。このプラットフォームは、文書編集、コンパイル、引用管理、AI支援による修正を単一のウェブベースのワークスペースに統合し、長文の科学文書を作成する研究者を対象としています。Robert Krzaczyński著 (source: InfoQ)</description>
@@ -72,11 +65,18 @@
       <pubDate>Sat, 31 Jan 2026 12:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft が OData .NET (ODL) 9.0.0 プレビュー 3 をリリース: 安全性、最新 API、仕様準拠</title>
-      <link>https://www.infoq.com/news/2026/01/odata-net-preview-9/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Microsoftは、OData .NETクライアントおよびコアライブラリの最新プレビュー版となるOData .NET (ODL) 9.0.0 Preview 3をリリースしました。これにより、ライブラリのモダナイゼーションへの取り組みが継続されます。このプレビュー版では、より安全なデフォルト動作、ランタイムAPIのクリーンアップ、そしてOData仕様へのより厳格な準拠に重点が置かれており、チームは安定した9.xリリースに向けて取り組んでいます。Edin Kapić (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/odata-net-preview-9/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 31 Jan 2026 08:00:00 +0000</pubDate>
+      <title>検査可能な AI ワークフローのためのオープンソース Python ライブラリとして Daggr が導入されました</title>
+      <link>https://www.infoq.com/news/2026/02/daggr-open-source/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Gradioチームは、複数ステップのAIワークフローの構築とデバッグを簡素化するために設計された、オープンソースのPythonライブラリ「Daggr」をリリースしました。Daggrを使用すると、開発者はPythonでプログラム的にワークフローを定義し、パイプラインの各ステップの中間状態、入力、出力を表示するビジュアルキャンバスを自動的に生成できます。Robert Krzaczyński著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/daggr-open-source/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 02 Feb 2026 11:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>記事: なぜ多くの機械学習プロジェクトが本番環境に到達できないのか</title>
+      <link>https://www.infoq.com/articles/why-ml-projects-fail-production/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>本稿では、機械学習（ML）プロジェクトにおけるよくある失敗、例えば問題の枠組みの弱さや、プロトタイプから本番環境への継続的なギャップなどを分析します。明確なビジネス目標の設定、データを製品として扱うこと、そして信頼性の高い本番環境対応のMLデリバリーを実現するために、部門横断的なチームを連携させる方法について、実践的で経験に基づいたガイダンスを提供します。文傑（ウェンジエ・ジ） (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/why-ml-projects-fail-production/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 02 Feb 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

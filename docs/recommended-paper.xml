@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 02 Feb 2026 07:07:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 06:58:06 +0000</lastBuildDate>
     <item>
-      <title>FC-KAN: コルモゴロフ・アーノルドネットワークにおける関数の組み合わせ</title>
-      <link>https://arxiv.org/abs/2409.01763v4</link>
-      <description>本稿では、低次元データに対してBスプライン、ウェーブレット、ラジアル基底関数といった一般的な数学関数を要素ごとの演算で組み合わせるコルモゴロフ・アーノルドネットワーク（KAN）であるFC-KANを紹介します。これらの関数の出力を組み合わせる手法として、和、要素ごとの積、和と要素ごとの積の加算、2次関数と3次関数の表現、連結、連結出力の線形変換など、様々な手法を検討します。実験では、MNISTおよびFashion-MNISTデータセットを用いて、FC-KANを多層パーセプトロンネットワーク（MLP）やBSRBF-KAN、EfficientKAN、FastKAN、FasterKANといった既存のKANと比較します。 FC-KANの2つのバリアントは、Bスプラインとガウス関数の差（DoG）の出力、およびBスプラインと二次関数の線形変換の出力を組み合わせたもので、5回の独立した学習実行の平均において、他のモデルを全体的に上回る性能を示しました。FC-KANは、将来のKANの設計において、これらの関数の組み合わせを活用できると期待しています。リポジトリはhttps://github.com/ho (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2409.01763v4</guid>
-      <pubDate>Tue, 03 Sep 2024 10:16:43 +0000</pubDate>
+      <title>ユニバーサルスピーチエンハンサーとしてのマスクされたオートエンコーダー</title>
+      <link>https://arxiv.org/abs/2602.02413v1</link>
+      <description>教師あり音声強調手法は非常に成功を収めてきました。しかしながら、実際のシナリオではクリーンな音声が不足しており、同等の強調性能を提供し、他の音声関連のダウンストリームアプリケーションにも適用可能な自己教師学習（SSL）ベースの音声強調手法が求められています。本研究では、音声に影響を与える歪みの種類に依存せず、複数の歪みを同時に処理でき、自己教師学習方式で学習される、マスクオートエンコーダベースの汎用音声強調装置を開発します。拡張スタックは、ノイズの多い入力データにさらなる歪みを追加します。マスクオートエンコーダモデルは、事前学習中にスペクトログラムのマスク領域を再構築するとともに、追加された歪みを除去することを学習します。事前学習済みの埋め込みは、特定のダウンストリームタスク向けに少量のペアデータで学習されたモデルを微調整するために使用されます。事前学習済みの特徴量を、ノイズ除去および残響除去のダウンストリームタスクで評価します。事前学習用拡張スタックにおける様々な拡張（単一話者または複数話者など）と、様々なノイズを含む入力特徴表現（$log1p$圧縮など）が事前学習済み埋め込みと下流 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.02413v1</guid>
+      <pubDate>Mon, 02 Feb 2026 18:13:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

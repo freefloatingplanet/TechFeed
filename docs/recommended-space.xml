@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Feb 2026 07:07:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 06:58:05 +0000</lastBuildDate>
+    <item>
+      <title>2026年2月の星空情報：オリオン座からたどる冬の星座めぐり</title>
+      <link>https://sorae.info/astronomy/202602-starry-sky.html</link>
+      <description>2月、冷たい風の吹く時期ですが、少しずつ日が長くなり、春の兆しを感じられる時期となりました。しかし、星空ではまだ冬の星座が数多く見られます。 地上からみて一番明るい星は？　恒星・惑星ランキング 夜空を見上げてまず目につく… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/202602-starry-sky.html</guid>
+      <pubDate>Mon, 02 Feb 2026 12:56:51 +0000</pubDate>
+    </item>
     <item>
       <title>史上初、火星探査車が「AIが計画したルート」で走行　大規模言語モデル「Claude」を活用</title>
       <link>https://sorae.info/space/20260131-perseverance-claude.html</link>
@@ -28,13 +35,6 @@
       <description>これまでに6000個以上が見つかっている太陽系外惑星の研究が進む中、生命が存在できる環境を持つ「第2の地球」の発見に大きな期待が寄せられています。 注目されているもののひとつが、地球よりも質量が大きく、かつ巨大ガス惑星や… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260129-super-earth-magnetic-field.html</guid>
       <pubDate>Thu, 29 Jan 2026 11:28:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>超新星爆発を通じて可視光線でもブラックホール誕生の瞬間を観測できる可能性</title>
-      <link>https://sorae.info/astronomy/20260128-sn-2022esa.html</link>
-      <description>恒星進化の終着点のひとつ、ブラックホール。一般的に、太陽の8倍から30倍程度の質量で形成された星は、恒星としての寿命の終わりに超新星爆発を起こし、中性子星やブラックホールを残すと考えられています。 その一方で、太陽の30… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260128-sn-2022esa.html</guid>
-      <pubDate>Wed, 28 Jan 2026 01:49:45 +0000</pubDate>
     </item>
     <item>
       <title>「日本モジュール」開発の日本低軌道社中に三菱重工と三菱電機が出資</title>
