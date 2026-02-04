@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Feb 2026 06:58:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 06:59:19 +0000</lastBuildDate>
     <item>
-      <title>ユニバーサルスピーチエンハンサーとしてのマスクされたオートエンコーダー</title>
-      <link>https://arxiv.org/abs/2602.02413v1</link>
-      <description>教師あり音声強調手法は非常に成功を収めてきました。しかしながら、実際のシナリオではクリーンな音声が不足しており、同等の強調性能を提供し、他の音声関連のダウンストリームアプリケーションにも適用可能な自己教師学習（SSL）ベースの音声強調手法が求められています。本研究では、音声に影響を与える歪みの種類に依存せず、複数の歪みを同時に処理でき、自己教師学習方式で学習される、マスクオートエンコーダベースの汎用音声強調装置を開発します。拡張スタックは、ノイズの多い入力データにさらなる歪みを追加します。マスクオートエンコーダモデルは、事前学習中にスペクトログラムのマスク領域を再構築するとともに、追加された歪みを除去することを学習します。事前学習済みの埋め込みは、特定のダウンストリームタスク向けに少量のペアデータで学習されたモデルを微調整するために使用されます。事前学習済みの特徴量を、ノイズ除去および残響除去のダウンストリームタスクで評価します。事前学習用拡張スタックにおける様々な拡張（単一話者または複数話者など）と、様々なノイズを含む入力特徴表現（$log1p$圧縮など）が事前学習済み埋め込みと下流 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.02413v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:13:59 +0000</pubDate>
+      <title>月のレゴリスと模擬物質の特性に関するオープンデータベース</title>
+      <link>https://arxiv.org/abs/2602.03829v1</link>
+      <description>月面を覆う未固結物質の層である月レゴリスは、月のために開発された科学技術、特に現場科学調査、資源利用、表面インフラ、移動システムにおいて中心的な役割を果たしています。しかしながら、月の土壌特性に関するデータは、数十年にわたるミッション報告書に断片的に散在しており、アクセスや解釈が困難な形式となっている場合が多いです。本稿では、有人ミッションにおける直接現場測定、月面表面相互作用およびリモートセンシングを用いた推定値、そして地球に持ち帰られたサンプルの実験室分析などを含む、月レゴリスの物理的および地質工学的特性に関する新たに構築されたデータベースを紹介します。収集されたデータには、ルナおよびアポロ時代の歴史的ミッション文書から現代の月面計画に至るまで、内部摩擦角と凝集力（いずれもモール・クーロン・モデルのパラメータ）、嵩密度、静的支持力などが含まれます。データセットには、各値が得られた試験の種類と場所が明記されています。当データベースには、月面レゴリス模擬物質のパラメータも含まれており、ミッションデータと実験室研究を直接結び付けることができます。この情報を一元管理するだけでなく、データの (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.03829v1</guid>
+      <pubDate>Tue, 03 Feb 2026 18:44:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

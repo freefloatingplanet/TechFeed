@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Feb 2026 06:58:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 06:59:24 +0000</lastBuildDate>
+    <item>
+      <title>ポッドキャスト: 開発者は早期の倫理的負債に取り組むことでソフトウェアのESG側面を改善できる</title>
+      <link>https://www.infoq.com/podcasts/developers-improve-software-aspects/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>QCon London 2025のパフォーマンスとサステナビリティトラックのホストを務めるエリカ・ピサーニ氏が、トラックの組み立てと講演への参加から得た教訓を振り返ります。彼女はソフトウェアの環境的・社会的側面の重要性に触れ、ソフトウェア開発のアーキテクチャとプラクティスにおける小さなステップを通して、開発者がそれらをどのように改善できるかを示唆しています。エリカ・ピサーニ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/podcasts/developers-improve-software-aspects/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 02 Feb 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MongoDBがAtlasに埋め込みと再ランキングAPIを導入</title>
+      <link>https://www.infoq.com/news/2026/02/mongodb-embedding-reranking-api/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>MongoDBは先日、MongoDB Atlasにおける埋め込みおよび再ランキングAPIのパブリックプレビューを発表しました。この新しいAPIにより、開発者はマネージドクラウドデータベース内でVoyage AIの検索モデルに直接アクセスできるようになります。これにより、セマンティック検索やAIアシスタントなどの機能を、統合された単一の環境内で構築し、監視と課金を一元化できるようになります。Renato Losio著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/mongodb-embedding-reranking-api/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 03 Feb 2026 04:53:00 +0000</pubDate>
+    </item>
     <item>
       <title>Chainguard、コンテナCVEの98%がトップ20イメージの外側に潜んでいることを発見</title>
       <link>https://www.infoq.com/news/2026/01/chainguard-opensource-vulns/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -25,7 +39,7 @@
     <item>
       <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新興のAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
@@ -44,25 +58,11 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>連合は、合意のない性的コンテンツに対する連邦グロク禁止を要求</title>
-      <link>https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/</link>
-      <description>xAIチャットボットが何千枚もの合意のない性的画像を生成し、国家安全保障と児童の安全に関する懸念を引き起こしたことを受け、非営利団体は米国政府に対し、連邦機関でのGrokの使用を停止するよう求めている。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/</guid>
-      <pubDate>Mon, 02 Feb 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Javaニュースまとめ: Jakarta EE 12、Spring Shell、Open Liberty、Quarkus、Tomcat、JHipster、Gradle</title>
       <link>https://www.infoq.com/news/2026/02/java-news-roundup-jan26-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>今週の2026年1月26日版Javaラウンドアップでは、Jakarta EE 12のマイルストーンとGAリリーススケジュールの最新情報、Open Libertyの2026年1月版、Quarkusのポイントリリース、Spring Shell、Apache Tomcat、Gradleのメンテナンスリリース、JHipster 9.0のベータ版第1弾と第2弾を特集します。マイケル・レッドリッヒ (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/02/java-news-roundup-jan26-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 02 Feb 2026 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI、GPT-5.2を統合した無料のLaTeXネイティブワークスペース「Prism」をリリース</title>
-      <link>https://www.infoq.com/news/2026/01/openai-prism/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>OpenAIは、学術的な執筆と共同作業向けに設計された無料のクラウドベースのLaTeXワークスペース「Prism」をリリースしました。このプラットフォームは、GPT-5.2をオーサリング環境に直接統合しています。このプラットフォームは、文書編集、コンパイル、引用管理、AI支援による修正を単一のウェブベースのワークスペースに統合し、長文の科学文書を作成する研究者を対象としています。Robert Krzaczyński著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/openai-prism/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 31 Jan 2026 12:56:00 +0000</pubDate>
     </item>
     <item>
       <title>検査可能な AI ワークフローのためのオープンソース Python ライブラリとして Daggr が導入されました</title>
@@ -74,7 +74,7 @@
     <item>
       <title>記事: なぜ多くの機械学習プロジェクトが本番環境に到達できないのか</title>
       <link>https://www.infoq.com/articles/why-ml-projects-fail-production/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>本稿では、機械学習（ML）プロジェクトにおけるよくある失敗、例えば問題の枠組みの弱さや、プロトタイプから本番環境への継続的なギャップなどを分析します。明確なビジネス目標の設定、データを製品として扱うこと、そして信頼性の高い本番環境対応のMLデリバリーを実現するために、部門横断的なチームを連携させる方法について、実践的で経験に基づいたガイダンスを提供します。文傑（ウェンジエ・ジ） (source: InfoQ)</description>
+      <description>本稿では、機械学習（ML）プロジェクトにおけるよくある失敗、例えば問題のフレーミングの弱さや、プロトタイプから本番環境への継続的なギャップなどを分析します。明確なビジネス目標の設定、データを製品として扱うこと、そして信頼性の高い本番環境対応のMLデリバリーを実現するために、部門横断的なチームを連携させる方法について、実践的で経験に基づいたガイダンスを提供します。文傑（ウェンジー・ジ） (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/articles/why-ml-projects-fail-production/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 02 Feb 2026 11:00:00 +0000</pubDate>
     </item>

@@ -7,27 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Feb 2026 06:58:01 +0000</lastBuildDate>
-    <item>
-      <title>Obsidian読書メモ術。知識を「記録」するのをやめて「発酵」させよう - Digiledge（デジレッジ）</title>
-      <link>https://koheifukushi-kuih-creative.com/entry/20260203/1770071400</link>
-      <description>昨日は、「Obsidianでブログを書く。思考の断片が勝手に記事に変わる感覚」というタイトルで、記事作成にどうObsidianを使い倒すかをお話ししました。でも、書くための「ネタ」や「知恵」って、どこから湧いてくるんでしょう？ 私の場合は、「読書」や「実体験」が大きな源になっています。 特に本について、以前の私は... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://koheifukushi-kuih-creative.com/entry/20260203/1770071400</guid>
-      <pubDate>Mon, 02 Feb 2026 23:26:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>【AI駆動開発】個人開発でも爆速リリースを続けられる理由 〜 企画からリリース後運用まで〜</title>
-      <link>https://zenn.dev/yokkomystery/articles/85e9b4d6cc8d36</link>
-      <description>本記事では、実際に私がFlutterで作成したAIチャットアプリ（Sodalio）を題材に、企画 → プロジェクト初期化 → 開発 → レビュー → テスト → リリース → 運用の各フェーズにおけるAI駆動開発の実践方法をお届けします。
-個人開発者の中には、複数のプロダクトを同時に開発・運用している方も少なくないと思います。
-かく言う私も、Web/モバイル合わせて現在10以上のプロダクトを開発・運用していますが、個人開発において、以下の課題は避けられないと思っています。
-
-限られた時間で、どう品質を担保するか
-一人でやるリスク（レビュー不足、テスト漏れ）をどう補うか
-運用フェーズで疲弊... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yokkomystery/articles/85e9b4d6cc8d36</guid>
-      <pubDate>Sat, 31 Jan 2026 22:08:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Feb 2026 06:59:10 +0000</lastBuildDate>
     <item>
       <title>C#erとして考える、モダンC#/.NETの2026年始の現在地とLLM時代の課題</title>
       <link>https://zenn.dev/nossa/articles/12591dab29df30</link>
@@ -48,6 +28,31 @@
 将来性はあると思っていま... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/nossa/articles/12591dab29df30</guid>
       <pubDate>Sun, 01 Feb 2026 11:52:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>野球を彫刻する｜朝日新聞社 メディア研究開発センター</title>
+      <link>https://note.com/asahi_ictrad/n/n6ed3e5daeb1e</link>
+      <description>はじめにCTO室の浦川です。昨年１０月に異動となり、今年の初めからニューヨーク支局に駐在しています。 昨年はみなさん、どんな一年だったでしょうか。 私にとっては、駐在の準備も含め、さまざまな出来事があった一年でした。なかでも、例年と違っていたのが、「野球に興味を持った」ということです。 ある週末、やる... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/asahi_ictrad/n/n6ed3e5daeb1e</guid>
+      <pubDate>Tue, 03 Feb 2026 23:32:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code Max(100ドル)を会社支給にするまでに考えたこと・試したことまとめ</title>
+      <link>https://zenn.dev/manalink_dev/articles/claude_code_max_plan_thinking_and_compare</link>
+      <description>2026年の年始から、Claude Code Maxプラン（$100）をマナリンクの開発チーム全員に会社支給とすることにしました。
+当記事ではそこまでに至る経緯と、決定した理由、今後の展望などをまとめます。
+誰向けの記事なのかよくわからない内容になりそうなのですが、
+
+会社支給内容を決める側の立場の方
+小規模の開発組織（弊社のような）でAIコーディングを活用するにあたって、どういうスタンスを取っているかが気になる方
+色々な会社のAIコーディングへのスタンスを知って、今後のキャリアの参考にしたいエンジニアの方
+
+といった方々に読んでいただきたいです。
+
+ これまでの流れ（ざっくり）
+開発環... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/manalink_dev/articles/claude_code_max_plan_thinking_and_compare</guid>
+      <pubDate>Sun, 01 Feb 2026 23:05:48 +0000</pubDate>
     </item>
     <item>
       <title>AI組織の家老が部下8人の報告で圧死したので、将軍に「本音を聞いてやれ」と言ったら、将軍が家老の本音を聞いた上で、リストラを提案してきた</title>
@@ -81,20 +86,21 @@ https://zenn.dev/shio_shoppaize/artic... (source: Zennのトレンド)</descript
       <pubDate>Mon, 02 Feb 2026 06:55:14 +0000</pubDate>
     </item>
     <item>
-      <title>「まだそんな古いCSSを使ってるの？」現在では必要のない古いCSSを見つけて、仕様に準拠したCSSを提案してくれるツール -ReliCSS</title>
-      <link>https://coliss.com/articles/build-websites/operation/css/detect-css-hacks-relicss.html</link>
-      <description>CSSの新機能を早く使ってみたいと思うかもしれませんが、その前に古いCSSのメンテナンスをしなくてはと思っている人にお勧めの無料ツールを紹介します。 CSSをコピペするだけで、現在では必要のない古いCSSのハックを検出し、W3Cの仕様に準拠したCSSを提案してくれます。 ReliCSS ReliCSSは、古いブラウザ固有のCSSハッ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://coliss.com/articles/build-websites/operation/css/detect-css-hacks-relicss.html</guid>
-      <pubDate>Tue, 03 Feb 2026 01:00:34 +0000</pubDate>
+      <title>VSCodeの時代は終わった？次世代エディタ Zed Editor 完全ガイド</title>
+      <link>https://zenn.dev/yamitake/articles/zed-editor-next-generation-ide</link>
+      <description>はじめに
+2015年のリリース以来、VSCodeはエディタ市場を席巻し、約73%のシェアを誇る王者として君臨してきました。しかし、Electronベースのアーキテクチャによるメモリ消費や起動速度の遅さに不満を感じている開発者も少なくありません。
+そこに登場したのがZed Editorです。Atom EditorやTree-sitterの生みの親であるNathan Sobo氏を中心に、Rustでゼロから構築された次世代コードエディタ。2026年春の1.0リリースを目前に控え、今まさに注目すべきエディタです。
+この記事では、Zed Editorの特徴、VSCodeとの比較、そして移行方法... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yamitake/articles/zed-editor-next-generation-ide</guid>
+      <pubDate>Mon, 02 Feb 2026 01:18:22 +0000</pubDate>
     </item>
     <item>
-      <title>ランサムウェア対策としてのリスク分析アプローチ</title>
-      <link>https://zenn.dev/nttdata_tech/articles/a376d152c8493c</link>
-      <description>はじめに：なぜランサムウェア対策としてリスク分析が必要なのか
-ランサムウェアは、技術的な巧妙さとともに事業への影響の大きさが問題となるサイバー脅威です。
-EDRの導入、バックアップの取得、復旧訓練の実施といったランサムウェアへの対策は、多くの企業ですでに進められています。一方で、「どの情報資産がランサムウェアに感染すると事業に致命的な影響が出るのか」「どの侵入経路が実際に成立しやすいのか」「被害発生時に本当に復旧できるのか」といった問いに、体系的に説明できるケースは多くありません。そこで共通して見えてくる課題があります。それは、対策は講じているものの、どこを優先して守るべきかが整理さ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/a376d152c8493c</guid>
-      <pubDate>Mon, 02 Feb 2026 04:00:01 +0000</pubDate>
+      <title>フランスが「Microsoft Teams」と「Zoom」を排除した理由--何に代替するのか</title>
+      <link>https://japan.zdnet.com/article/35243443/</link>
+      <description>フランス政府が米国のテクノロジー企業を信頼していないというのは、あながち間違いではない。実際のところ、フランスは自国のデータやサービスを米国企業に委ねることに強い不信感を抱いている。 フランスの公務・国家改革担当副大臣のDavid Amiel氏は、フランスが「デジタル面での独立性の回復」に注力していると明言... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://japan.zdnet.com/article/35243443/</guid>
+      <pubDate>Tue, 03 Feb 2026 07:18:22 +0000</pubDate>
     </item>
     <item>
       <title>脱初心者のための実践バグバウンティ登竜門</title>
@@ -124,12 +130,12 @@ EDRの導入、バックアップの取得、復旧訓練の実施といった�
     </item>
     <item>
       <title>Dockerで開発して、AWSで本番運用するとはどういうことか〜タスクをこなすことに必死で、仕組みを理解していなかった自分のための整理〜</title>
-      <link>https://zenn.dev/h4gi/articles/a35a7aee20888b</link>
+      <link>https://zenn.dev/digeon/articles/a35a7aee20888b</link>
       <description>はじめに
 これまで私は、目の前の「開発タスク」をさばくに必死でした。同時にPMとしてフロントにたったり、他の作業も山ほどありAPIを書いたり、業務としては成立していたと思いますが、基礎的なことを学ぶ時間がありませんでした。
 ただ、「じゃあ一人でゼロからシステムを作って、本番まで持っていってください」と言われたらどうだろう、と考えました。たぶん自分はできないな、と思いました。
 DockerもECSもRDSも触っている。でもそれは「触っている」だけで、なぜその構成になっているのか、どこで何が動いているのかを説明できない。このままだと、ずっと部分的な理解のままになってしまう気がして、開発環... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/h4gi/articles/a35a7aee20888b</guid>
+      <guid isPermaLink="true">https://zenn.dev/digeon/articles/a35a7aee20888b</guid>
       <pubDate>Sun, 01 Feb 2026 07:58:55 +0000</pubDate>
     </item>
   </channel>

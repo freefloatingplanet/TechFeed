@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Feb 2026 06:58:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 06:59:16 +0000</lastBuildDate>
     <item>
-      <title>2026年2月の星空情報：オリオン座からたどる冬の星座めぐり</title>
-      <link>https://sorae.info/astronomy/202602-starry-sky.html</link>
-      <description>2月、冷たい風の吹く時期ですが、少しずつ日が長くなり、春の兆しを感じられる時期となりました。しかし、星空ではまだ冬の星座が数多く見られます。 地上からみて一番明るい星は？　恒星・惑星ランキング 夜空を見上げてまず目につく… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/202602-starry-sky.html</guid>
-      <pubDate>Mon, 02 Feb 2026 12:56:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>史上初、火星探査車が「AIが計画したルート」で走行　大規模言語モデル「Claude」を活用</title>
-      <link>https://sorae.info/space/20260131-perseverance-claude.html</link>
-      <description>NASA（アメリカ航空宇宙局）は2026年1月30日、火星探査車「Perseverance（パーシビアランス）」が、AIによって計画された“別の天体で初”の走行（ドライブ）を完了したと発表しました。2025年12月8日と… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260131-perseverance-claude.html</guid>
-      <pubDate>Sat, 31 Jan 2026 13:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>スペースX、衛星衝突回避システム「Stargaze」を発表–他の衛星運用者に無料提供へ</title>
-      <link>https://uchubiz.com/article/new68922/</link>
-      <description>SpaceXは、地球低軌道の衛星衝突リスクを下げるシステム「Stargaze」を発表した。Starlink衛星群に搭載された光学センサーを使い、軌道上の物体を短時間で追跡する仕組みだ。今後数週間以内に多くの衛星運用者に […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new68922/</guid>
-      <pubDate>Sun, 01 Feb 2026 22:00:00 +0000</pubDate>
+      <title>「気球からロケット発射」のAstroXが23億円を調達–2026年内の宇宙空間到達を目指す</title>
+      <link>https://uchubiz.com/article/new68946/</link>
+      <description>AstroX（福島県南相馬市）は2月4日、総額23.2億円の資金調達を発表した。第三者割当増資の引受先は、One Capital、インクルージョン・ジャパン、エンジェル投資家。 　AstroXは、気球を用いて空中からロ […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new68946/</guid>
+      <pubDate>Wed, 04 Feb 2026 04:52:50 +0000</pubDate>
     </item>
     <item>
       <title>スーパーアース深部に潜むマグマの海が生命居住可能性を高める磁場を生み出しているかも</title>
@@ -77,6 +63,20 @@
       <description>木星の衛星Europa（エウロパ）は、分厚い氷の下に広大な内部海が存在すると考えられており、太陽系内で生命が存在する可能性が高い天体の一つとして注目されています。 今回、NASA（アメリカ航空宇宙局）の木星探査機「Jun… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260201-europa-juno.html</guid>
       <pubDate>Sun, 01 Feb 2026 08:57:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>ウェッブ宇宙望遠鏡が明らかにする「宇宙の骨組み」　史上最も高解像度なダークマター地図</title>
+      <link>https://sorae.info/astronomy/20260203-dark-matter-map-jwst.html</link>
+      <description>こちらは、NASA（アメリカ航空宇宙局）のジェームズ・ウェッブ宇宙望遠鏡（JWST）が観測した約80万個もの銀河と、そこに重ね合わせられた「ある物質」の分布図です。 青色の明暗で可視化されているのは、「ダークマター（暗黒… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260203-dark-matter-map-jwst.html</guid>
+      <pubDate>Tue, 03 Feb 2026 09:29:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>スペースX、対話型AI「Grok」開発のxAIを統合へ–宇宙データセンターを構築</title>
+      <link>https://uchubiz.com/article/new68933/</link>
+      <description>SpaceXは、対話型AI「Grok」を開発するxAIを買収し、自社組織に統合すると発表した。両社はイーロン・マスク氏が率いてきたが、これまでは別会社として運営されていた。今回の買収で、AI開発と宇宙インフラを一体的に […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new68933/</guid>
+      <pubDate>Tue, 03 Feb 2026 10:03:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
