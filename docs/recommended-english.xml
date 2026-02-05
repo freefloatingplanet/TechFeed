@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Feb 2026 06:59:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 07:04:51 +0000</lastBuildDate>
     <item>
       <title>スターリンクとデジタル主権の崩壊</title>
       <link>https://spacenews.com/starlink-and-the-unravelling-of-digital-sovereignty/</link>
@@ -28,6 +28,20 @@
       <description>宇宙調達において、「飛行実績」ほど重みのある言葉はほとんどありません。サプライヤーがそれを主張すれば、関係者は安心できるでしょう。「ハードウェアは飛行した。うまく機能した」と誰もが考えます。そのようなハードウェアを使用するリスクは、ほとんどゼロ、あるいは全くないと言えるでしょう。これは当然のことです。宇宙は過酷なことで有名ですし、[…] この記事「飛行実績？想像とは違う」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/flight-heritage-it-isnt-what-you-think/</guid>
       <pubDate>Tue, 03 Feb 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>光速の宇宙望遠鏡</title>
+      <link>https://spacenews.com/space-telescopes-at-light-speed/</link>
+      <description>光は宇宙で最も速い現象であり、秒速30万キロメートル弱の速度で移動します。電波からガンマ線まで、この光を観測する望遠鏡は、それよりもかなり遅い速度で作られています。一例として、ジェイムズ・ウェッブ宇宙望遠鏡が挙げられます。NASAは1990年代半ばにこのミッションの実現可能性調査を開始し、[…] この記事「光速の宇宙望遠鏡」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/space-telescopes-at-light-speed/</guid>
+      <pubDate>Wed, 04 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>シリコンを戦略に：新たな宇宙開発競争の隠れた戦場</title>
+      <link>https://spacenews.com/silicon-as-strategy-the-hidden-battleground-of-the-new-space-race/</link>
+      <description>民生用エレクトロニクスの戦略において、カスタムシリコンはマラソンの最終段階です。市販の部品を用いて製品の性能を実証し、量産体制を確立した後、差別化、運用改善、そして利益率の最適化のために独自チップへの投資を行います。しかし、現代の衛星通信（SATCOM）エコシステムでは、このシナリオは逆転しています。業界の[…] この記事「シリコンを戦略に：新たな宇宙開発競争の隠れた戦場」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/silicon-as-strategy-the-hidden-battleground-of-the-new-space-race/</guid>
+      <pubDate>Wed, 04 Feb 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

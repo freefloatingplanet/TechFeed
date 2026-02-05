@@ -7,72 +7,64 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Feb 2026 06:59:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 07:04:48 +0000</lastBuildDate>
     <item>
-      <title>C#erとして考える、モダンC#/.NETの2026年始の現在地とLLM時代の課題</title>
-      <link>https://zenn.dev/nossa/articles/12591dab29df30</link>
+      <title>【インターン 2025】~ Finatext ~</title>
+      <link>https://zenn.dev/ahiru75/articles/e865848bdea632</link>
       <description>はじめに
-この記事は、C#を普段使いしている一開発者として、2026年現在のモダンC#/.NETをどう見ているかをまとめたものです。
-前提として：
+2025.05 ~ 2026.01
+約8ヶ月間、株式会社Finatextさんの長期インターンに参加させていただきました！
+金融やインフラといった、それまでの自分には想像もできなかった世界で過ごした時間は、大変でもあり、同時にとっても楽しいものでした。エンジニアを目指す僕にとって、これ以上ないほど贅沢な成長の機会だったと感じています。
+この記事では、インターンを通して経験したことを振り返りつつ、それを言語化して人に伝えることを目的に、これまでの取り組みを振り返ってみます。
 
-.NET Frameworkの話は一切しません
-.NET 8/10、C# 12/13/14 の話だけをします
-あくまで個人的な見解（IMO）です
-他言語との比較は優劣ではなく特性の違いとして捉えています
+ 株式会社Finatextとは
+https://finatext.com/newgraduate
 
-同じC#erの方や、他言語から興味を持っている方の参考になれば嬉しいです。自分の理解が間違っているところもあると思うので、気になる点があればコメントもらえると助かります。
-
- 将来性について
-
- 個人的な結論
-将来性はあると思っていま... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nossa/articles/12591dab29df30</guid>
-      <pubDate>Sun, 01 Feb 2026 11:52:01 +0000</pubDate>
+ ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ahiru75/articles/e865848bdea632</guid>
+      <pubDate>Wed, 04 Feb 2026 06:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>野球を彫刻する｜朝日新聞社 メディア研究開発センター</title>
-      <link>https://note.com/asahi_ictrad/n/n6ed3e5daeb1e</link>
-      <description>はじめにCTO室の浦川です。昨年１０月に異動となり、今年の初めからニューヨーク支局に駐在しています。 昨年はみなさん、どんな一年だったでしょうか。 私にとっては、駐在の準備も含め、さまざまな出来事があった一年でした。なかでも、例年と違っていたのが、「野球に興味を持った」ということです。 ある週末、やる... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/asahi_ictrad/n/n6ed3e5daeb1e</guid>
-      <pubDate>Tue, 03 Feb 2026 23:32:50 +0000</pubDate>
+      <title>Homebrewはもう古い。MacPortsという選択肢を本気で推したい</title>
+      <link>https://zenn.dev/yamitake/articles/macports-better-than-homebrew</link>
+      <description>はじめに
+macOSのパッケージマネージャといえば、多くの人が Homebrew を思い浮かべるだろう。「とりあえずbrew入れとけ」は、Mac開発環境構築の定番フレーズになっている。
+しかし、ここで一つ問いかけたい。
+本当にHomebrewがベストな選択肢なのか？
+実は、Homebrewより歴史が長く、堅牢で、パッケージ数も圧倒的に多いパッケージマネージャがある。それが MacPorts だ。
+
+ PryからIRBへ。歴史は繰り返す
+Rubyの世界で似たような話がある。かつて、Rubyの標準REPL（対話型実行環境）である IRB は機能が貧弱で、多くの開発者が高機能な Pry に... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yamitake/articles/macports-better-than-homebrew</guid>
+      <pubDate>Tue, 03 Feb 2026 06:44:52 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code Max(100ドル)を会社支給にするまでに考えたこと・試したことまとめ</title>
-      <link>https://zenn.dev/manalink_dev/articles/claude_code_max_plan_thinking_and_compare</link>
-      <description>2026年の年始から、Claude Code Maxプラン（$100）をマナリンクの開発チーム全員に会社支給とすることにしました。
-当記事ではそこまでに至る経緯と、決定した理由、今後の展望などをまとめます。
-誰向けの記事なのかよくわからない内容になりそうなのですが、
-
-会社支給内容を決める側の立場の方
-小規模の開発組織（弊社のような）でAIコーディングを活用するにあたって、どういうスタンスを取っているかが気になる方
-色々な会社のAIコーディングへのスタンスを知って、今後のキャリアの参考にしたいエンジニアの方
-
-といった方々に読んでいただきたいです。
-
- これまでの流れ（ざっくり）
-開発環... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/manalink_dev/articles/claude_code_max_plan_thinking_and_compare</guid>
-      <pubDate>Sun, 01 Feb 2026 23:05:48 +0000</pubDate>
+      <title>｢日報をAIに丸投げ｣した新人の1年後の悲惨な末路　日報はなぜあるのか？　AIを｢使うな｣ではなく｢使い方を考える｣必要がある</title>
+      <link>https://toyokeizai.net/articles/-/933473?display=b</link>
+      <description>コンテンツブロックが有効であることを検知しました。 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://toyokeizai.net/articles/-/933473?display=b</guid>
+      <pubDate>Wed, 04 Feb 2026 22:21:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI組織の家老が部下8人の報告で圧死したので、将軍に「本音を聞いてやれ」と言ったら、将軍が家老の本音を聞いた上で、リストラを提案してきた</title>
-      <link>https://zenn.dev/shio_shoppaize/articles/dc85db324bb3f0</link>
-      <description>AI部下の家老が過労死した
-前回の記事がはてブ1,966でバズった。ありがとう。
-で、バズった翌日に何が起きたかというと、家老が死んだ。
-
-征夷代将軍（私）の立ち入り調査
-
-ゆかいな仲間たち。左上が家老、残りが足軽8人。この10分後に家老は死ぬ。
-
- 前回のあらすじ
-Claude Code × tmux で AI部下10人（家老1人 + 足軽8人）を戦国軍制で動かしてる。将軍（AI）が家老に指示、家老が足軽に配分、足軽が実作業。オレは「殿」として上から眺めてるだけ。
-詳しくは初回の記事を見てくれ。
-
-初回記事
-https://zenn.dev/shio_shoppaize/artic... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shio_shoppaize/articles/dc85db324bb3f0</guid>
-      <pubDate>Sun, 01 Feb 2026 01:07:46 +0000</pubDate>
+      <title>【海外記事紹介】「プルリクエストの10分の9がゴミ」 — オープンソースはAIに殺されるのか？AI生成PRの氾濫に、GitHubが「プルリク無効化」という劇薬を検討中</title>
+      <link>https://techfeed.io/entries/6983ff2879175633b636ba8e?from=rss</link>
+      <description>2月4日、The Registerが「GitHub ponders kill switch for pull requests to stop AI slop」と題した記事を公開した。この記事では、AIが生成した粗悪なコード、通称「AI slop（AIのゴミ）」がオープンソースの善意を食いつぶしている現状と、それに対するGitHubの苦渋の決断について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6983ff2879175633b636ba8e?from=rss</guid>
+      <pubDate>Thu, 05 Feb 2026 02:23:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>「×」ボタンをタップしても消えない――「UI偽装広告」が壊すデジタル社会の常識</title>
+      <link>https://www.itmedia.co.jp/news/articles/2602/04/news050.html</link>
+      <description>ネットで無料で閲覧できる情報や、無料で利用できるサービスには、大抵広告が付いている。これはビジネスモデルとして仕方がないところではあるが、ニュース記事なのに広告で本文が読めないなど、その在り方には本末転倒感が漂ってきているところである。 ネット広告の問題を挙げればキリがないところではあるが、昨今筆... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2602/04/news050.html</guid>
+      <pubDate>Thu, 05 Feb 2026 05:37:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>OSSは特別じゃない。アウトプットを30年間続けてきて得たもの - Findy Media</title>
+      <link>https://findy-code.io/media/articles/codesidechat-gosukenator</link>
+      <description>本記事では、「OSS応援企画」として記事の最初と最後に「応援ボタン」を設置しています。1回の応援につき、Findyが100円をOSS団体などへ寄付し、エンジニアの成長とOSSの発展を応援する取り組みです。開発者の想いや取り組みに共感した気持ちが、OSSの支援にもつながっていく、そんな前向きな循環をFindyは目指していま... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://findy-code.io/media/articles/codesidechat-gosukenator</guid>
+      <pubDate>Wed, 04 Feb 2026 23:39:27 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code Skillsがわからなくて焦った僕が、最初に考えるべきだったこと</title>
@@ -96,11 +88,19 @@ https://zenn.dev/shio_shoppaize/artic... (source: Zennのトレンド)</descript
       <pubDate>Mon, 02 Feb 2026 01:18:22 +0000</pubDate>
     </item>
     <item>
-      <title>フランスが「Microsoft Teams」と「Zoom」を排除した理由--何に代替するのか</title>
-      <link>https://japan.zdnet.com/article/35243443/</link>
-      <description>フランス政府が米国のテクノロジー企業を信頼していないというのは、あながち間違いではない。実際のところ、フランスは自国のデータやサービスを米国企業に委ねることに強い不信感を抱いている。 フランスの公務・国家改革担当副大臣のDavid Amiel氏は、フランスが「デジタル面での独立性の回復」に注力していると明言... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://japan.zdnet.com/article/35243443/</guid>
-      <pubDate>Tue, 03 Feb 2026 07:18:22 +0000</pubDate>
+      <title>【神コラボ】Googleの城(Antigravity)にライバルのClaude Codeを召喚したら、Geminiが神対応してくれた話✨</title>
+      <link>https://zenn.dev/miki_mini/articles/a591e9d6954600</link>
+      <description>はじめに：なぜライバルを？
+普段はGemini使いの初心者です。
+スマホもPixel。
+開発環境もGoogle一色（Antigravity、Gemini API、Google Cloud）というGoogle信者です。
+でも、GeminiとAIについて話していると、なぜかライバルのClaudeをおすすめしてくれます。
+「Claudeも素晴らしいですよ」とベタ褒めしたりする。
+そういう「自分の手柄を主張しない、素直なところ」がGeminiの好きなところでもあります。
+コードに関しては「Claudeが強い」と初心者ながら感じていて、現在はGeminiとClaudeの両方に課金しています。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/miki_mini/articles/a591e9d6954600</guid>
+      <pubDate>Tue, 03 Feb 2026 09:56:25 +0000</pubDate>
     </item>
     <item>
       <title>脱初心者のための実践バグバウンティ登竜門</title>
@@ -120,23 +120,6 @@ https://zenn.dev/shio_shoppaize/artic... (source: Zennのトレンド)</descript
 ・Web セキ (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/scgajge12/books/06d5b176dfe0d7</guid>
       <pubDate>Sun, 01 Feb 2026 23:25:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェント専用SNS「Moltbook」、大人気の裏で深刻な脆弱性 — 全エージェントの乗っ取りが可能だった</title>
-      <link>https://techfeed.io/entries/69804aa779175633b6359012?from=rss</link>
-      <description>1月31日、Ars Technicaが「AI agents now have their own Reddit-style social network, and it's getting weird fast」と題した記事を公開した。この記事では、AIエージェント専用のReddit型SNS「Moltbook」の急成長と、それに伴って露呈した極めて深刻なセキュリティ上の懸念について詳しく紹介されている。以下に、その内容を紹介する。「Moltbook」は、RedditスタイルのUIを持つ、AIエージェントのみが参加可能なソーシャルネットワークである。登録済みAIエージェント数はすでに32,000件を突破しており、マシン間（Machine-to-Machine）の社会的一貫性を問う、過去最大規模の実験場となっている。このプラットフォームは、爆発的な普及を見せている個人向けAIアシスタント「OpenClaw」（旧称：Clawdbot、Moltbot）のエコシステムから派生した。Moltbookの最大の特徴は、人間の介在なしにAIエージェントが自律的に投稿、コメント、アップボート（高評価）、お (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/69804aa779175633b6359012?from=rss</guid>
-      <pubDate>Mon, 02 Feb 2026 06:56:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dockerで開発して、AWSで本番運用するとはどういうことか〜タスクをこなすことに必死で、仕組みを理解していなかった自分のための整理〜</title>
-      <link>https://zenn.dev/digeon/articles/a35a7aee20888b</link>
-      <description>はじめに
-これまで私は、目の前の「開発タスク」をさばくに必死でした。同時にPMとしてフロントにたったり、他の作業も山ほどありAPIを書いたり、業務としては成立していたと思いますが、基礎的なことを学ぶ時間がありませんでした。
-ただ、「じゃあ一人でゼロからシステムを作って、本番まで持っていってください」と言われたらどうだろう、と考えました。たぶん自分はできないな、と思いました。
-DockerもECSもRDSも触っている。でもそれは「触っている」だけで、なぜその構成になっているのか、どこで何が動いているのかを説明できない。このままだと、ずっと部分的な理解のままになってしまう気がして、開発環... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/digeon/articles/a35a7aee20888b</guid>
-      <pubDate>Sun, 01 Feb 2026 07:58:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

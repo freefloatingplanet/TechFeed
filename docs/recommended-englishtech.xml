@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Feb 2026 06:59:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 07:05:02 +0000</lastBuildDate>
     <item>
-      <title>ポッドキャスト: 開発者は早期の倫理的負債に取り組むことでソフトウェアのESG側面を改善できる</title>
-      <link>https://www.infoq.com/podcasts/developers-improve-software-aspects/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>QCon London 2025のパフォーマンスとサステナビリティトラックのホストを務めるエリカ・ピサーニ氏が、トラックの組み立てと講演への参加から得た教訓を振り返ります。彼女はソフトウェアの環境的・社会的側面の重要性に触れ、ソフトウェア開発のアーキテクチャとプラクティスにおける小さなステップを通して、開発者がそれらをどのように改善できるかを示唆しています。エリカ・ピサーニ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/podcasts/developers-improve-software-aspects/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 02 Feb 2026 11:00:00 +0000</pubDate>
+      <title>WorkOS のエンジニアリングリーダーシップ: 製品、人材、そして影響</title>
+      <link>https://workos.com/blog/engineering-leadership-at-workos-product-people-and-impact</link>
+      <description>WorkOS のエンジニアリングリーダーシップは、プロダクトオーナーシップ、テクニカルスチュワードシップ、そして人材リーダーシップを融合させています。エンジニアリングマネージャーは、コード、チーム、そして顧客と緊密に連携します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/engineering-leadership-at-workos-product-people-and-impact</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>MongoDBがAtlasに埋め込みと再ランキングAPIを導入</title>
@@ -23,11 +23,11 @@
       <pubDate>Tue, 03 Feb 2026 04:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>Chainguard、コンテナCVEの98%がトップ20イメージの外側に潜んでいることを発見</title>
-      <link>https://www.infoq.com/news/2026/01/chainguard-opensource-vulns/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Chainguardの最新の「信頼できるオープンソースの現状」レポートは、コンテナイメージの脆弱性とオープンソース依存関係のロングテールに関する業界の現状を詳細に示しています。このレポートは、2025年9月から11月の間に観測された1,800以上のコンテナイメージプロジェクトと10,100件の脆弱性事例に基づき、本番環境のデータに基づいた視点を提供しています。マット・サンダース著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/01/chainguard-opensource-vulns/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 31 Jan 2026 19:00:00 +0000</pubDate>
+      <title>プレゼンテーション: ウェアハウスを超えて: BigQuery だけではデータの問題を解決できない理由</title>
+      <link>https://www.infoq.com/presentations/bigquery-data-challenges/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Sarah Usherは、BigQueryのようなウェアハウスがレイテンシとコストに悩まされるアーキテクチャ上の「限界点」について解説します。系統とイノベーションを再びコントロールするためには、概念的なデータライフサイクル（生データ、キュレーションデータ、ユースケース）の必要性を解説します。スケールをボトルネックにすることなく、MLチームとアナリティクスの両方を支援する、信頼できる唯一の情報源を設計するための実践的な戦略を紹介します。Sarah Usher著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/bigquery-data-challenges/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 04 Feb 2026 14:48:00 +0000</pubDate>
     </item>
     <item>
       <title>OktaからLaravelアプリにユーザーを同期する方法</title>
@@ -39,7 +39,7 @@
     <item>
       <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新興のAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
@@ -58,25 +58,25 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Javaニュースまとめ: Jakarta EE 12、Spring Shell、Open Liberty、Quarkus、Tomcat、JHipster、Gradle</title>
-      <link>https://www.infoq.com/news/2026/02/java-news-roundup-jan26-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>今週の2026年1月26日版Javaラウンドアップでは、Jakarta EE 12のマイルストーンとGAリリーススケジュールの最新情報、Open Libertyの2026年1月版、Quarkusのポイントリリース、Spring Shell、Apache Tomcat、Gradleのメンテナンスリリース、JHipster 9.0のベータ版第1弾と第2弾を特集します。マイケル・レッドリッヒ (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/java-news-roundup-jan26-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 02 Feb 2026 02:30:00 +0000</pubDate>
+      <title>LinkedIn がサービス ディスカバリを再構築: Zookeeper を Kafka と xDS で大規模に置き換える</title>
+      <link>https://www.infoq.com/news/2026/02/linkedin-service-discovery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>LinkedInのエンジニアリングチームは、従来のZooKeeperサービスディスカバリプラットフォームをアップグレードし、スケーラビリティとパフォーマンスの向上を実現しました。Apache KafkaとxDSプロトコルを活用することで、新しいアーキテクチャは結果整合性を実現し、複数言語をサポートし、ダウンタイムのない移行を可能にしました。アップグレード後、レイテンシは大幅に改善され、数十万ものアプリインスタンスの運用が可能になりました。Patrick Farry著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/linkedin-service-discovery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 05 Feb 2026 01:21:00 +0000</pubDate>
     </item>
     <item>
-      <title>検査可能な AI ワークフローのためのオープンソース Python ライブラリとして Daggr が導入されました</title>
-      <link>https://www.infoq.com/news/2026/02/daggr-open-source/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Gradioチームは、複数ステップのAIワークフローの構築とデバッグを簡素化するために設計された、オープンソースのPythonライブラリ「Daggr」をリリースしました。Daggrを使用すると、開発者はPythonでプログラム的にワークフローを定義し、パイプラインの各ステップの中間状態、入力、出力を表示するビジュアルキャンバスを自動的に生成できます。Robert Krzaczyński著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/daggr-open-source/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 02 Feb 2026 11:45:00 +0000</pubDate>
+      <title>A16zはAIインフラ向けに17億ドルを調達しました。今後の展開は？</title>
+      <link>https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/</link>
+      <description>Andreessen Horowitz が新たに 150 億ドルという巨額の資金を調達しました。そのうちの 17 億ドルは、Black Forrest Labs、Cursor、OpenAI、ElevenLabs、Ideogram、Fal など、最大かつ最も著名な AI 投資の一部を担うインフラストラクチャ チームに割り当てられます。A16z のジェネラル パートナーで、インフラストラクチャ チームの Jennifer Li (ElevenLabs などの投資を監督。評価額は 110 億ドルに達しました) は、Ideagram や Fal の方向性について明確な見解を持っています […] (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/</guid>
+      <pubDate>Wed, 04 Feb 2026 20:24:12 +0000</pubDate>
     </item>
     <item>
-      <title>記事: なぜ多くの機械学習プロジェクトが本番環境に到達できないのか</title>
-      <link>https://www.infoq.com/articles/why-ml-projects-fail-production/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>本稿では、機械学習（ML）プロジェクトにおけるよくある失敗、例えば問題のフレーミングの弱さや、プロトタイプから本番環境への継続的なギャップなどを分析します。明確なビジネス目標の設定、データを製品として扱うこと、そして信頼性の高い本番環境対応のMLデリバリーを実現するために、部門横断的なチームを連携させる方法について、実践的で経験に基づいたガイダンスを提供します。文傑（ウェンジー・ジ） (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/why-ml-projects-fail-production/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 02 Feb 2026 11:00:00 +0000</pubDate>
+      <title>記事: アラート疲れからエージェント支援によるインテリジェントな観測可能性へ</title>
+      <link>https://www.infoq.com/articles/agent-assisted-intelligent-observability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>システムが成長するにつれて、可観測性の維持が困難になり、インシデントの診断も困難になります。エージェント型可観測性は、既存のツールにAIを重ね合わせ、読み取り専用モードから開始して異常を検知し、問題を要約します。時間の経過とともに、エージェントはコンテキストを追加し、シグナルを相関させ、低リスクのタスクを自動化します。このアプローチにより、エンジニアは分析と判断に集中できるようになります。Rohit Dhawan著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/agent-assisted-intelligent-observability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 04 Feb 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
