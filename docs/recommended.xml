@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Feb 2026 07:04:48 +0000</lastBuildDate>
-    <item>
-      <title>【インターン 2025】~ Finatext ~</title>
-      <link>https://zenn.dev/ahiru75/articles/e865848bdea632</link>
-      <description>はじめに
-2025.05 ~ 2026.01
-約8ヶ月間、株式会社Finatextさんの長期インターンに参加させていただきました！
-金融やインフラといった、それまでの自分には想像もできなかった世界で過ごした時間は、大変でもあり、同時にとっても楽しいものでした。エンジニアを目指す僕にとって、これ以上ないほど贅沢な成長の機会だったと感じています。
-この記事では、インターンを通して経験したことを振り返りつつ、それを言語化して人に伝えることを目的に、これまでの取り組みを振り返ってみます。
-
- 株式会社Finatextとは
-https://finatext.com/newgraduate
-
- ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ahiru75/articles/e865848bdea632</guid>
-      <pubDate>Wed, 04 Feb 2026 06:00:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Feb 2026 07:01:00 +0000</lastBuildDate>
     <item>
       <title>Homebrewはもう古い。MacPortsという選択肢を本気で推したい</title>
       <link>https://zenn.dev/yamitake/articles/macports-better-than-homebrew</link>
@@ -39,11 +23,32 @@ Rubyの世界で似たような話がある。かつて、Rubyの標準REPL（�
       <pubDate>Tue, 03 Feb 2026 06:44:52 +0000</pubDate>
     </item>
     <item>
-      <title>｢日報をAIに丸投げ｣した新人の1年後の悲惨な末路　日報はなぜあるのか？　AIを｢使うな｣ではなく｢使い方を考える｣必要がある</title>
-      <link>https://toyokeizai.net/articles/-/933473?display=b</link>
-      <description>コンテンツブロックが有効であることを検知しました。 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://toyokeizai.net/articles/-/933473?display=b</guid>
-      <pubDate>Wed, 04 Feb 2026 22:21:00 +0000</pubDate>
+      <title>tmux使いが全員Zellijに乗り換える日が来た</title>
+      <link>https://zenn.dev/hirokitakamura/articles/zellij-complete-guide</link>
+      <description>😩 tmuxの苦行、覚えてるか
+tmux。あいつとの付き合いはもう長い。
+.tmux.confを何時間かけて書いた？プレフィックスキーをCtrl+bからCtrl+aに変えて、ペイン分割のキーバインドを設定して、ステータスバーの色を変えて、プラグインマネージャ入れて、resurrectで永続化して。
+で、新しいマシンに移ったらまた最初からだ。🫠
+俺はある日気づいた。ターミナルマルチプレクサーの設定に人生を費やしている。本末転倒もいいところだ。コードを書く時間より.tmux.confを弄る時間のほうが長い週があった。病気だろ、これは。
+そんなときに出会ったのがZellijだ。🔥
+
+ 🤔 ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hirokitakamura/articles/zellij-complete-guide</guid>
+      <pubDate>Wed, 04 Feb 2026 10:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>ファクトチェック：高市首相演説の観衆写真、本物?フェイク?　AIの誤判断が混乱助長 | 毎日新聞</title>
+      <link>https://mainichi.jp/articles/20260205/k00/00m/010/178000c</link>
+      <description>8日投開票の衆院選で高市早苗首相が福岡市の公園で街頭演説した際、多数の聴衆が写っている写真を巡ってSNS上で「フェイクだ」「本物だ」と虚実を争う投稿が飛び交った。実際に会場は多くの聴衆で埋まったが、人工知能（AI）が偽画像の可能性を指摘したことで混乱に拍車をかけることになった。 高市首相の演説があったの... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://mainichi.jp/articles/20260205/k00/00m/010/178000c</guid>
+      <pubDate>Thu, 05 Feb 2026 21:20:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>米AI兵器で「無人地獄」計画　台湾防衛の切り札か、人類滅亡の序章か - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN28CW30Y6A120C2000000/</link>
+      <description>【この記事のポイント】・完全無人のAI戦闘機、コストは「F35」の10分の1・台湾侵攻が「著しく困難に」と米国防総省の元幹部・戦争が「突然エスカレートする」リスクも人工知能（AI）が軍事大国である米国の軍事戦略と防衛産業、そして戦争と平和のあり方そのものを変えようとしている。数千の無人兵器を台湾海峡に展開... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN28CW30Y6A120C2000000/</guid>
+      <pubDate>Thu, 05 Feb 2026 20:34:56 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「プルリクエストの10分の9がゴミ」 — オープンソースはAIに殺されるのか？AI生成PRの氾濫に、GitHubが「プルリク無効化」という劇薬を検討中</title>
@@ -60,47 +65,40 @@ Rubyの世界で似たような話がある。かつて、Rubyの標準REPL（�
       <pubDate>Thu, 05 Feb 2026 05:37:33 +0000</pubDate>
     </item>
     <item>
-      <title>OSSは特別じゃない。アウトプットを30年間続けてきて得たもの - Findy Media</title>
-      <link>https://findy-code.io/media/articles/codesidechat-gosukenator</link>
-      <description>本記事では、「OSS応援企画」として記事の最初と最後に「応援ボタン」を設置しています。1回の応援につき、Findyが100円をOSS団体などへ寄付し、エンジニアの成長とOSSの発展を応援する取り組みです。開発者の想いや取り組みに共感した気持ちが、OSSの支援にもつながっていく、そんな前向きな循環をFindyは目指していま... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://findy-code.io/media/articles/codesidechat-gosukenator</guid>
-      <pubDate>Wed, 04 Feb 2026 23:39:27 +0000</pubDate>
+      <title>EUでバックエンドエンジニアとして転職活動した記録（応募数・通過率・面接対策まとめ）</title>
+      <link>https://zenn.dev/katsulau/articles/f745af2c36a2bd</link>
+      <description>スペインのバルセロナに住んでおり、バックエンドエンジニアとして
+2025年の10月中旬〜2月初旬にかけて転職活動を行いました。
+色々と知見が貯まったので共有したいと思います。
+
+ 面接のプロセス
+面接のプロセスは
+
+LinkedInで応募、またはスカウトメッセージを受ける
+勤務地など、条件が合いそうであればHRとの面接。（面談の前に、電話で軽いスクリーニングがあったりもします）
+技術テスト(課題提出型、オンライン上でのコーディングテストなど)
+技術面接(1~2回)
+カルチャー面接
+
+大体このような流れになります。
+ただし、カルチャー面接と技術面接を明確に分けない会社もあり、
+両者の順番が... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/katsulau/articles/f745af2c36a2bd</guid>
+      <pubDate>Thu, 05 Feb 2026 12:17:12 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code Skillsがわからなくて焦った僕が、最初に考えるべきだったこと</title>
-      <link>https://zenn.dev/tokium_dev/articles/1f0c83eb3dd72d</link>
+      <title>なぜJavaのジェネリクスの型推論は同じ型を強制しないのか</title>
+      <link>https://zenn.dev/nstock/articles/java-generics-lub-type-inference</link>
       <description>はじめに
-こんにちは、TOKIUMの重村です。25卒として入社した後、新卒未経験でエンジニアになり、現在はAI出張手配プロダクトの開発チームリーダーをしています。
-若手エンジニアの皆さん、Claude Code Skills使っていますでしょうか？
-少し前からSkillsが登場し、できることの幅がすごく広がりましたよね。自分も早くからキャッチアップしていきたかったのですが、なかなか手をつけられずズルズルと学習しないまま来てしまいました。気づけばどんどん進化していき、Xの人達の投稿をみると「ここまで使いこなしているのか...」と焦りを感じています。
-今回の記事では、そもそもなぜ革新的な... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/1f0c83eb3dd72d</guid>
-      <pubDate>Mon, 02 Feb 2026 06:55:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>VSCodeの時代は終わった？次世代エディタ Zed Editor 完全ガイド</title>
-      <link>https://zenn.dev/yamitake/articles/zed-editor-next-generation-ide</link>
-      <description>はじめに
-2015年のリリース以来、VSCodeはエディタ市場を席巻し、約73%のシェアを誇る王者として君臨してきました。しかし、Electronベースのアーキテクチャによるメモリ消費や起動速度の遅さに不満を感じている開発者も少なくありません。
-そこに登場したのがZed Editorです。Atom EditorやTree-sitterの生みの親であるNathan Sobo氏を中心に、Rustでゼロから構築された次世代コードエディタ。2026年春の1.0リリースを目前に控え、今まさに注目すべきエディタです。
-この記事では、Zed Editorの特徴、VSCodeとの比較、そして移行方法... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yamitake/articles/zed-editor-next-generation-ide</guid>
-      <pubDate>Mon, 02 Feb 2026 01:18:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【神コラボ】Googleの城(Antigravity)にライバルのClaude Codeを召喚したら、Geminiが神対応してくれた話✨</title>
-      <link>https://zenn.dev/miki_mini/articles/a591e9d6954600</link>
-      <description>はじめに：なぜライバルを？
-普段はGemini使いの初心者です。
-スマホもPixel。
-開発環境もGoogle一色（Antigravity、Gemini API、Google Cloud）というGoogle信者です。
-でも、GeminiとAIについて話していると、なぜかライバルのClaudeをおすすめしてくれます。
-「Claudeも素晴らしいですよ」とベタ褒めしたりする。
-そういう「自分の手柄を主張しない、素直なところ」がGeminiの好きなところでもあります。
-コードに関しては「Claudeが強い」と初心者ながら感じていて、現在はGeminiとClaudeの両方に課金しています。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/miki_mini/articles/a591e9d6954600</guid>
-      <pubDate>Tue, 03 Feb 2026 09:56:25 +0000</pubDate>
+こんにちは。Nstockのtouyuです。
+Nstockに入社し、初めて本格的にJavaでコードを書くようになりました。
+Javaの書き味は思っていたよりモダンで、他言語からの類推でもある程度書くことができました。加えてCoding Agentの発展も著しく、正直にいうと言語仕様を深く理解せずに書くことも増えていました。
+そんなある日、あるジェネリクスを含んだコードが期待していたものとは異なる挙動をすることに気づきました。
+
+ 期待と異なる挙動
+同じ型の2つの変数（aとb）を引数に取り、何らかの処理をさせるメソッドを用意したいと考え、以下のようなコードを生成してもらいました... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nstock/articles/java-generics-lub-type-inference</guid>
+      <pubDate>Thu, 05 Feb 2026 01:24:10 +0000</pubDate>
     </item>
     <item>
       <title>脱初心者のための実践バグバウンティ登竜門</title>
@@ -120,6 +118,13 @@ Rubyの世界で似たような話がある。かつて、Rubyの標準REPL（�
 ・Web セキ (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/scgajge12/books/06d5b176dfe0d7</guid>
       <pubDate>Sun, 01 Feb 2026 23:25:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】Debianプロジェクト、開発者の「静かな離脱」に苦悩 ― MIA（行方不明者）対策の自動化を検討</title>
+      <link>https://techfeed.io/entries/698564d1bf1c6338a73ae9a3?from=rss</link>
+      <description>2月5日、Phoronixが「Debian's Challenge When Its Developers Quietly Drift Away」と題した記事を公開した。この記事では、Debianプロジェクトにおいてボランティアの開発者が静かに活動を離れてしまうことで生じる課題について詳しく紹介されている。以下に、その内容を紹介する。先月、Debianのデータ保護チームに誰もいなくなったというニュースが報じられたが、Debianでは過去にも様々な取り組みにおいてボランティアの人員確保が課題となってきた。Debianプロジェクトリーダー（DPL）であるAndreas Tille氏は、ボランティアの開発者が時間の制約や関心の変化などにより、プロジェクトに適切な通知を行わないまま静かに活動を離れてしまう「ドリフト（漂流）」の問題を注視している。直面している問題の本質は、ボランティアが貢献を止めること自体ではなく、それが他の開発者に伝わらないまま行われる点にある。特に特定のチームに委任されたメンバーが関与を止めたり、パッケージが徐々に未メンテナンスの状態になったりした場合、周囲がその離脱を把握 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/698564d1bf1c6338a73ae9a3?from=rss</guid>
+      <pubDate>Fri, 06 Feb 2026 03:49:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

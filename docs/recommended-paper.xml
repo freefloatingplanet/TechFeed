@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Feb 2026 07:04:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 07:01:08 +0000</lastBuildDate>
     <item>
-      <title>El Agente Quntur: 量子化学の研究協力者エージェント</title>
-      <link>https://arxiv.org/abs/2602.04850v1</link>
-      <description>量子化学は、化学、材料科学、計算生物学などの分野における基礎的な実現ツールです。その強力さにもかかわらず、方法論の複雑さ、ソフトウェアの異種性、結果の十分な情報に基づいた解釈の必要性から、量子化学シミュレーションの実用化は依然として有資格の専門家の手に委ねられています。これらのツールへのアクセス性のギャップを埋め、より幅広いバックグラウンドを持つ化学者にその範囲を広げるために、我々はEl Agente Qunturを紹介します。これは、単なる自動化ツールとしてではなく、計算量子化学の研究協力者として動作するように設計された階層型マルチエージェントAIシステムです。Qunturは、次の3つの主要戦略に従って設計されました。i) 推論主導の決定を優先してハードコードされた手続き型ポリシーを排除する、ii) 一般化と効率性を促進する汎用的で構成可能なアクションを構築する、iii) サブ分野間の抽象的な量子化学推論を統合するためのガイド付きディープリサーチと、ソフトウェアの内部ロジックと構文の詳細な理解を実装する。これらの設計原則はORCAでインスタンス化されていますが、研究エージェントにも広 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.04850v1</guid>
-      <pubDate>Wed, 04 Feb 2026 18:38:50 +0000</pubDate>
+      <title>容量付き車両経路問題のためのトランスフォーマーを用いた量子強化学習</title>
+      <link>https://arxiv.org/abs/2602.05920v1</link>
+      <description>本稿では、容量付き車両経路問題（CVRP）を、古典的および量子的な強化学習（RL）アプローチと比較することで考察します。Advantage Actor-Critic（A2C）エージェントは、古典的、完全量子、ハイブリッドの各バージョンで実装され、トランスフォーマーアーキテクチャを統合することで、自己注意および相互注意メカニズムを通じて車両、クライアント、デポ間の関係性を捉えます。実験は、20台のクライアントと4台の車両を考慮した、容量制約のある複数車両のシナリオに焦点を当て、10回の独立した実行で実施されます。性能は、経路距離、経路のコンパクトさ、経路の重複を用いて評価されます。結果は、3つのアプローチすべてが効果的な経路ポリシーを学習できることを示しています。しかし、量子強化モデルは古典的なベースラインを上回り、より堅牢な経路構成を生成し、ハイブリッドアーキテクチャは距離、コンパクトさ、経路の重複全体で最高の総合性能を達成しました。定量的な改善に加えて、定性的な可視化により、量子ベースのモデルはより構造化され、一貫性のある経路ソリューションを生成することが明らかになりました。これらの (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.05920v1</guid>
+      <pubDate>Thu, 05 Feb 2026 17:32:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

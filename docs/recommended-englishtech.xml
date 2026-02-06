@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Feb 2026 07:05:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 07:01:13 +0000</lastBuildDate>
     <item>
-      <title>WorkOS のエンジニアリングリーダーシップ: 製品、人材、そして影響</title>
-      <link>https://workos.com/blog/engineering-leadership-at-workos-product-people-and-impact</link>
-      <description>WorkOS のエンジニアリングリーダーシップは、プロダクトオーナーシップ、テクニカルスチュワードシップ、そして人材リーダーシップを融合させています。エンジニアリングマネージャーは、コード、チーム、そして顧客と緊密に連携します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/engineering-leadership-at-workos-product-people-and-impact</guid>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MongoDBがAtlasに埋め込みと再ランキングAPIを導入</title>
-      <link>https://www.infoq.com/news/2026/02/mongodb-embedding-reranking-api/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>MongoDBは先日、MongoDB Atlasにおける埋め込みおよび再ランキングAPIのパブリックプレビューを発表しました。この新しいAPIにより、開発者はマネージドクラウドデータベース内でVoyage AIの検索モデルに直接アクセスできるようになります。これにより、セマンティック検索やAIアシスタントなどの機能を、統合された単一の環境内で構築し、監視と課金を一元化できるようになります。Renato Losio著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/mongodb-embedding-reranking-api/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 03 Feb 2026 04:53:00 +0000</pubDate>
+      <title>NASAの宇宙飛行士は月へのミッションに携帯電話を持ち込むことができるようになった</title>
+      <link>https://techcrunch.com/2026/02/05/nasa-astronauts-can-now-bring-their-phones-with-them-on-their-mission-to-the-moon/</link>
+      <description>この世のものとは思えないようなセルフィーを撮る準備をしましょう。クルー12号は来週、国際宇宙ステーション（ISS）へ向かう予定です。一方、1960年代以来初めて人類を月周回させる、待望のアルテミスIIミッションは3月まで延期されました。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/02/05/nasa-astronauts-can-now-bring-their-phones-with-them-on-their-mission-to-the-moon/</guid>
+      <pubDate>Thu, 05 Feb 2026 18:29:48 +0000</pubDate>
     </item>
     <item>
       <title>プレゼンテーション: ウェアハウスを超えて: BigQuery だけではデータの問題を解決できない理由</title>
@@ -37,11 +30,25 @@
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>OpenCode: Claude CodeやCopilotに対抗するオープンソースのAIコーディングエージェント</title>
+      <link>https://www.infoq.com/news/2026/02/opencode-coding-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>オープンソースのAIコーディングツールOpenCodeは、ネイティブターミナルベースのUI、マルチセッションサポート、そしてClaude、OpenAI、Gemini、ローカルモデルを含む75以上のモデルとの互換性を備えています。CLIツールに加えて、OpenCodeはデスクトップアプリとしても利用可能で、VS Code、Cursor、その他のツール用のIDE拡張機能としても利用可能です。Sergio De Simone著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/opencode-coding-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
       <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新興のAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>テスト駆動開発と本番環境でのテストからのフィードバックの取得</title>
+      <link>https://www.infoq.com/news/2026/02/feedback-TDD-production/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>チームはエンドツーエンドテストではなく、強力なユニットテストと統合テストに依存しています。TDD、ペアプログラミング、そして優れた設計を用いて、小さな変更を頻繁にリリースし、実際のフィードバックを得るために本番環境でテストを行い、フィーチャートグルを使用してリスクを軽減していると、Ola Hast氏とAsgaut Mjølne Söderbom氏はペアプログラミングによる継続的デリバリーに関する講演で述べています。Ben Linders著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/feedback-TDD-production/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 05 Feb 2026 11:36:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
@@ -60,16 +67,9 @@
     <item>
       <title>LinkedIn がサービス ディスカバリを再構築: Zookeeper を Kafka と xDS で大規模に置き換える</title>
       <link>https://www.infoq.com/news/2026/02/linkedin-service-discovery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>LinkedInのエンジニアリングチームは、従来のZooKeeperサービスディスカバリプラットフォームをアップグレードし、スケーラビリティとパフォーマンスの向上を実現しました。Apache KafkaとxDSプロトコルを活用することで、新しいアーキテクチャは結果整合性を実現し、複数言語をサポートし、ダウンタイムのない移行を可能にしました。アップグレード後、レイテンシは大幅に改善され、数十万ものアプリインスタンスの運用が可能になりました。Patrick Farry著 (source: InfoQ)</description>
+      <description>LinkedInのエンジニアリングチームは、スケーラビリティとパフォーマンスを向上させるため、従来のZooKeeperサービスディスカバリプラットフォームをアップグレードすることに成功しました。Apache KafkaとxDSプロトコルを活用することで、新しいアーキテクチャは結果整合性を実現し、複数言語をサポートし、ダウンタイムのない移行を可能にしました。アップグレード後、レイテンシは大幅に改善され、数十万ものアプリインスタンスの運用が可能になりました。Patrick Farry著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/02/linkedin-service-discovery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 05 Feb 2026 01:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A16zはAIインフラ向けに17億ドルを調達しました。今後の展開は？</title>
-      <link>https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/</link>
-      <description>Andreessen Horowitz が新たに 150 億ドルという巨額の資金を調達しました。そのうちの 17 億ドルは、Black Forrest Labs、Cursor、OpenAI、ElevenLabs、Ideogram、Fal など、最大かつ最も著名な AI 投資の一部を担うインフラストラクチャ チームに割り当てられます。A16z のジェネラル パートナーで、インフラストラクチャ チームの Jennifer Li (ElevenLabs などの投資を監督。評価額は 110 億ドルに達しました) は、Ideagram や Fal の方向性について明確な見解を持っています […] (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/</guid>
-      <pubDate>Wed, 04 Feb 2026 20:24:12 +0000</pubDate>
     </item>
     <item>
       <title>記事: アラート疲れからエージェント支援によるインテリジェントな観測可能性へ</title>
