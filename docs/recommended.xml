@@ -7,48 +7,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Feb 2026 07:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 06:50:06 +0000</lastBuildDate>
     <item>
-      <title>Homebrewはもう古い。MacPortsという選択肢を本気で推したい</title>
-      <link>https://zenn.dev/yamitake/articles/macports-better-than-homebrew</link>
+      <title>3,980円のカメラでClaude Codeに「身体」を与えてみた</title>
+      <link>https://zenn.dev/nextbeat/articles/2026-02-embodied-claude</link>
+      <description>はじめに こんにちは！株式会社ネクストビートでテクノロジー・エバンジェリストなる肩書きでお仕事をしている水島です。最近はコーディングAIの活用についての記事を色々と書いてきましたが、今回はちょっと趣向が違います。 AIに「身体」を与える話です。 「身体」といっても人型ロボットを作ったとかではありません。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/nextbeat/articles/2026-02-embodied-claude</guid>
+      <pubDate>Fri, 06 Feb 2026 10:23:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI「Grok」のディープフェイク騒動、倫理後回しの投資回収に危うさ - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN3019Q0Q6A130C2000000/</link>
+      <description>X（旧ツイッター）上の生成AI（人工知能）「Grok（グロック）」によって女性らの画像が性的に改変される被害が相次いだ問題は、同社のSNSがもはや安全な交流の場ではないことをあらわにした。AIがつくる偽画像「ディープフェイク」を有料プランへの誘導手段にしてしまう収益優先の姿勢は、企業倫理を置き去りにしている... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN3019Q0Q6A130C2000000/</guid>
+      <pubDate>Fri, 06 Feb 2026 22:27:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code Agent Teamsが来た！さっそく使い倒して自前のOSSを滅ぼそうと思ったら……？</title>
+      <link>https://zenn.dev/nrs/articles/68840349bbdd8c</link>
       <description>はじめに
-macOSのパッケージマネージャといえば、多くの人が Homebrew を思い浮かべるだろう。「とりあえずbrew入れとけ」は、Mac開発環境構築の定番フレーズになっている。
-しかし、ここで一つ問いかけたい。
-本当にHomebrewがベストな選択肢なのか？
-実は、Homebrewより歴史が長く、堅牢で、パッケージ数も圧倒的に多いパッケージマネージャがある。それが MacPorts だ。
-
- PryからIRBへ。歴史は繰り返す
-Rubyの世界で似たような話がある。かつて、Rubyの標準REPL（対話型実行環境）である IRB は機能が貧弱で、多くの開発者が高機能な Pry に... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yamitake/articles/macports-better-than-homebrew</guid>
-      <pubDate>Tue, 03 Feb 2026 06:44:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>tmux使いが全員Zellijに乗り換える日が来た</title>
-      <link>https://zenn.dev/hirokitakamura/articles/zellij-complete-guide</link>
-      <description>😩 tmuxの苦行、覚えてるか
-tmux。あいつとの付き合いはもう長い。
-.tmux.confを何時間かけて書いた？プレフィックスキーをCtrl+bからCtrl+aに変えて、ペイン分割のキーバインドを設定して、ステータスバーの色を変えて、プラグインマネージャ入れて、resurrectで永続化して。
-で、新しいマシンに移ったらまた最初からだ。🫠
-俺はある日気づいた。ターミナルマルチプレクサーの設定に人生を費やしている。本末転倒もいいところだ。コードを書く時間より.tmux.confを弄る時間のほうが長い週があった。病気だろ、これは。
-そんなときに出会ったのがZellijだ。🔥
-
- 🤔 ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hirokitakamura/articles/zellij-complete-guide</guid>
-      <pubDate>Wed, 04 Feb 2026 10:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>ファクトチェック：高市首相演説の観衆写真、本物?フェイク?　AIの誤判断が混乱助長 | 毎日新聞</title>
-      <link>https://mainichi.jp/articles/20260205/k00/00m/010/178000c</link>
-      <description>8日投開票の衆院選で高市早苗首相が福岡市の公園で街頭演説した際、多数の聴衆が写っている写真を巡ってSNS上で「フェイクだ」「本物だ」と虚実を争う投稿が飛び交った。実際に会場は多くの聴衆で埋まったが、人工知能（AI）が偽画像の可能性を指摘したことで混乱に拍車をかけることになった。 高市首相の演説があったの... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://mainichi.jp/articles/20260205/k00/00m/010/178000c</guid>
-      <pubDate>Thu, 05 Feb 2026 21:20:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>米AI兵器で「無人地獄」計画　台湾防衛の切り札か、人類滅亡の序章か - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOGN28CW30Y6A120C2000000/</link>
-      <description>【この記事のポイント】・完全無人のAI戦闘機、コストは「F35」の10分の1・台湾侵攻が「著しく困難に」と米国防総省の元幹部・戦争が「突然エスカレートする」リスクも人工知能（AI）が軍事大国である米国の軍事戦略と防衛産業、そして戦争と平和のあり方そのものを変えようとしている。数千の無人兵器を台湾海峡に展開... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN28CW30Y6A120C2000000/</guid>
-      <pubDate>Thu, 05 Feb 2026 20:34:56 +0000</pubDate>
+皆さん、Claude Codeに待望のAgent Teamsが登場したことをご存知でしょうか。
+複数のエージェントを連携させてタスクを処理する、いわゆる「マルチエージェント」の仕組みがClaude Codeにも正式に搭載されました。私も発表を見たときは「おお、これは」と思わず声が出ました。
+ところで、私はtaktというAIエージェントオーケストレーションツールを開発しています。taktもまた、複数のエージェントを連携させてタスクを処理するツールです。
+Agent Teamsが登場した今、taktはもう役目を終えたのでしょうか。同じことができるなら、標準機能を使った方がいいに... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nrs/articles/68840349bbdd8c</guid>
+      <pubDate>Fri, 06 Feb 2026 08:11:47 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「プルリクエストの10分の9がゴミ」 — オープンソースはAIに殺されるのか？AI生成PRの氾濫に、GitHubが「プルリク無効化」という劇薬を検討中</title>
@@ -56,13 +39,6 @@ tmux。あいつとの付き合いはもう長い。
       <description>2月4日、The Registerが「GitHub ponders kill switch for pull requests to stop AI slop」と題した記事を公開した。この記事では、AIが生成した粗悪なコード、通称「AI slop（AIのゴミ）」がオープンソースの善意を食いつぶしている現状と、それに対するGitHubの苦渋の決断について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6983ff2879175633b636ba8e?from=rss</guid>
       <pubDate>Thu, 05 Feb 2026 02:23:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>「×」ボタンをタップしても消えない――「UI偽装広告」が壊すデジタル社会の常識</title>
-      <link>https://www.itmedia.co.jp/news/articles/2602/04/news050.html</link>
-      <description>ネットで無料で閲覧できる情報や、無料で利用できるサービスには、大抵広告が付いている。これはビジネスモデルとして仕方がないところではあるが、ニュース記事なのに広告で本文が読めないなど、その在り方には本末転倒感が漂ってきているところである。 ネット広告の問題を挙げればキリがないところではあるが、昨今筆... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2602/04/news050.html</guid>
-      <pubDate>Thu, 05 Feb 2026 05:37:33 +0000</pubDate>
     </item>
     <item>
       <title>EUでバックエンドエンジニアとして転職活動した記録（応募数・通過率・面接対策まとめ）</title>
@@ -96,28 +72,38 @@ Javaの書き味は思っていたよりモダンで、他言語からの類推�
 そんなある日、あるジェネリクスを含んだコードが期待していたものとは異なる挙動をすることに気づきました。
 
  期待と異なる挙動
-同じ型の2つの変数（aとb）を引数に取り、何らかの処理をさせるメソッドを用意したいと考え、以下のようなコードを生成してもらいました... (source: Zennのトレンド)</description>
+同じ型の2つの引数を取り、何らかの処理をさせるメソッドを用意したいと考え、以下のようなコードを生成してもらいました。
+&lt;T&amp;... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/nstock/articles/java-generics-lub-type-inference</guid>
       <pubDate>Thu, 05 Feb 2026 01:24:10 +0000</pubDate>
     </item>
     <item>
-      <title>脱初心者のための実践バグバウンティ登竜門</title>
-      <link>https://zenn.dev/scgajge12/books/06d5b176dfe0d7</link>
-      <description>📕【概要】
-　本書は、バグバウンティにおけるバグハンティングのスキルを、入門レベルから実用レベルへと高めるための、体系的かつ実践的な「脱初心者」向けの初級本です。
+      <title>どの駒かわからない変則ルールの「量子将棋」…藤井聡太「永世竜王」到達の裏で世界大会を初開催した開発者の情熱、「無用の用」探究する将棋の学術的価値［指す将が行く］</title>
+      <link>https://www.yomiuri.co.jp/igoshougi/ryuoh/20260205-GYT8T00101/</link>
+      <description>【読売新聞】　はさみ将棋、まわり将棋、山崩し……。将棋の対局に飽きてしまった時や、将棋のルールを知らない人と盤駒を使って遊ぶ際に「脱線」を経験したことがあるのでは。藤井聡太竜王が頂点に立つ「本将棋」から派生した変則ルールの将棋を探究 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.yomiuri.co.jp/igoshougi/ryuoh/20260205-GYT8T00101/</guid>
+      <pubDate>Fri, 06 Feb 2026 09:16:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini API のコストを最適化する方法</title>
+      <link>https://zenn.dev/google_cloud_jp/articles/0e7a7bd1573dfb</link>
+      <description>本記事では、Gemini を API で利用する際のコストを節約するための手法をまとめています。主には Vertex AI からの利用を想定していますが、多くは Google AI Studio などでも使える手法です。
 
-　多くの一般的な学習コンテンツは基礎知識の習得に役立ちますが、それらを学ぶだけでは、リアルワールドのバグバウンティプログラムで実際の脆弱性を発見して報奨金を獲得するのは難しく、より実践的なバグハンターとしてのノウハウが不可欠です。
-
-　本書では、特にバグバウンティプラットフォームのプログラムにおける Web アプリケーションをターゲットにし、実在する脆弱性を発見するための技術的な観点や、調査に必要な非技術的なスキルについて、筆者の経験談をもとに体系化しました。
-
-　本書を通して、入門者・初心者レベルから一歩抜け出し、自力で未知の脆弱性を発見できる「初級バグハンター」へとステップアップするための実践的な知見を提供します。実際に初の報奨金を獲得するキッカケとして活用いただければ幸いです。
-
-💪【こんな方にオススメ】
-・☆ バグバウンティ（脆弱性報奨金制度）にチャレンジしたい方
-・☆ やる気のある方、熱意のある方
-・Web セキ (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/scgajge12/books/06d5b176dfe0d7</guid>
-      <pubDate>Sun, 01 Feb 2026 23:25:12 +0000</pubDate>
+ 背景
+Gemini をはじめ多くの LLM は、入出力の Token 数に応じた従量課金モデルとなっているため、特に大規模に利用している場合はコストが気になることが多いと思います。
+Gemini にはコンテキストキャッシュ保存 という機能など、コストを削減する手法は幾つかありますが、あまり体系的 / 網羅的に整理されているコンテンツがなかったので、今日時点の機能をベ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/google_cloud_jp/articles/0e7a7bd1573dfb</guid>
+      <pubDate>Thu, 05 Feb 2026 09:15:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>VSCode卒業？次世代エディタ「Zed」を触って感じた、エンジニアとしての思考の速度</title>
+      <link>https://zenn.dev/yuukikawabata/articles/zed-editor-impression</link>
+      <description>こんにちは。Webエンジニアとして6年目を迎えた、34歳のパパエンジニアです。
+未経験からこの業界に飛び込んで、気づけばもう中堅。以前は自社で新人のトレーナーなんかもやっていましたが、最近は現場での開発にどっぷり浸かりつつ、夜な夜な家族が寝静まった後に個人開発でアプリリリースを目指してコードを書いています。
+さて、みなさんは開発エディタ、何を使っていますか？
+おそらく9割くらいの方が VS Code (Visual Studio Code) と答えるのではないでしょうか。私もその一人です。未経験で入社したとき、先輩に「まずはこれを入れろ」と言われて以来、私のエンジニア人生はずっとVS ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yuukikawabata/articles/zed-editor-impression</guid>
+      <pubDate>Thu, 05 Feb 2026 12:44:28 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Debianプロジェクト、開発者の「静かな離脱」に苦悩 ― MIA（行方不明者）対策の自動化を検討</title>

@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Feb 2026 07:01:13 +0000</lastBuildDate>
-    <item>
-      <title>NASAの宇宙飛行士は月へのミッションに携帯電話を持ち込むことができるようになった</title>
-      <link>https://techcrunch.com/2026/02/05/nasa-astronauts-can-now-bring-their-phones-with-them-on-their-mission-to-the-moon/</link>
-      <description>この世のものとは思えないようなセルフィーを撮る準備をしましょう。クルー12号は来週、国際宇宙ステーション（ISS）へ向かう予定です。一方、1960年代以来初めて人類を月周回させる、待望のアルテミスIIミッションは3月まで延期されました。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/02/05/nasa-astronauts-can-now-bring-their-phones-with-them-on-their-mission-to-the-moon/</guid>
-      <pubDate>Thu, 05 Feb 2026 18:29:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>プレゼンテーション: ウェアハウスを超えて: BigQuery だけではデータの問題を解決できない理由</title>
-      <link>https://www.infoq.com/presentations/bigquery-data-challenges/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Sarah Usherは、BigQueryのようなウェアハウスがレイテンシとコストに悩まされるアーキテクチャ上の「限界点」について解説します。系統とイノベーションを再びコントロールするためには、概念的なデータライフサイクル（生データ、キュレーションデータ、ユースケース）の必要性を解説します。スケールをボトルネックにすることなく、MLチームとアナリティクスの両方を支援する、信頼できる唯一の情報源を設計するための実践的な戦略を紹介します。Sarah Usher著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/bigquery-data-challenges/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 04 Feb 2026 14:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OktaからLaravelアプリにユーザーを同期する方法</title>
-      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
-      <description>わずか数行のコードで、SCIM、Okta、WorkOS を使用して Laravel アプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Feb 2026 06:50:20 +0000</lastBuildDate>
     <item>
       <title>OpenCode: Claude CodeやCopilotに対抗するオープンソースのAIコーディングエージェント</title>
       <link>https://www.infoq.com/news/2026/02/opencode-coding-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -58,6 +37,13 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>MUI、35個のアクセシブルコンポーネントを搭載したBase UI 1をリリース</title>
+      <link>https://www.infoq.com/news/2026/02/baseui-v1-accessible/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Base UI 1.0が正式にリリースされました！MUIを基盤とするこのスタイルレスReactコンポーネントライブラリは、35個のアクセシブルコンポーネントを長期メンテナンスで提供します。洗練されたAPIと強化されたパフォーマンスにより、開発者はカスタムデザインを容易に作成できると同時に、堅牢なアクセシビリティをすぐに実現できます。Daniel Curtis (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/baseui-v1-accessible/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 06 Feb 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
       <link>https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</link>
       <description>MCPナイト、ホリデースペシャルは歴史的な瞬間を刻みました。AnthropicがMCPをLinux Foundationに寄贈し、Agentic AI Foundationが設立されました。Cloudflare、Supabase、Datadog、Microsoft、Googleによるデモも行われました。 (source: WorkOS Blog)</description>
@@ -65,9 +51,23 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>EUはTikTokに対し、無限スクロールなどの「中毒性」機能を無効にし、推奨エンジンを修正する必要があると述べている</title>
+      <link>https://techcrunch.com/2026/02/06/eu-tiktok-disable-addictive-features-infinite-scroll-recommendation-engine/</link>
+      <description>欧州委員会は金曜日、TikTokのアプリが意図的に「中毒性」を持つように設計されていると非難し、無限スクロール、自動再生、プッシュ通知、推奨エンジンなどの機能を挙げた。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/02/06/eu-tiktok-disable-addictive-features-infinite-scroll-recommendation-engine/</guid>
+      <pubDate>Fri, 06 Feb 2026 16:24:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>LinkedIn はコードスキャンに GitHub Actions、CodeQL、Semgrep を活用しています</title>
+      <link>https://www.infoq.com/news/2026/02/linkedin-redesigns-sast-pipeline/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>LinkedInは、GitHub Actionsとカスタムワークフローを使用して静的アプリケーションセキュリティテスト（SAST）パイプラインを再構築し、数千のリポジトリにわたる一貫性と強制力のあるコードスキャンを実現しました。この再設計により、セキュリティカバレッジ、開発者ワークフロー、そして可観測性が向上し、同社のシフトレフト戦略もサポートされます。リーラ・クミリ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/linkedin-redesigns-sast-pipeline/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 06 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>LinkedIn がサービス ディスカバリを再構築: Zookeeper を Kafka と xDS で大規模に置き換える</title>
       <link>https://www.infoq.com/news/2026/02/linkedin-service-discovery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>LinkedInのエンジニアリングチームは、スケーラビリティとパフォーマンスを向上させるため、従来のZooKeeperサービスディスカバリプラットフォームをアップグレードすることに成功しました。Apache KafkaとxDSプロトコルを活用することで、新しいアーキテクチャは結果整合性を実現し、複数言語をサポートし、ダウンタイムのない移行を可能にしました。アップグレード後、レイテンシは大幅に改善され、数十万ものアプリインスタンスの運用が可能になりました。Patrick Farry著 (source: InfoQ)</description>
+      <description>LinkedInのエンジニアリングチームは、従来のZooKeeperサービスディスカバリプラットフォームをアップグレードし、スケーラビリティとパフォーマンスの向上を実現しました。Apache KafkaとxDSプロトコルを活用することで、新しいアーキテクチャは結果整合性を実現し、複数言語をサポートし、ダウンタイムのない移行を可能にしました。アップグレード後、レイテンシは大幅に改善され、数十万ものアプリインスタンスの運用が可能になりました。Patrick Farry著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/02/linkedin-service-discovery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 05 Feb 2026 01:21:00 +0000</pubDate>
     </item>
