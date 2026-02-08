@@ -7,11 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Feb 2026 06:50:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 06:56:35 +0000</lastBuildDate>
     <item>
       <title>容量付き車両経路問題のためのトランスフォーマーを用いた量子強化学習</title>
       <link>https://arxiv.org/abs/2602.05920v1</link>
-      <description>本稿では、容量付き車両経路問題（CVRP）を、古典的および量子的な強化学習（RL）アプローチと比較することで考察します。Advantage Actor-Critic（A2C）エージェントは、古典的、完全量子、ハイブリッドの各バージョンで実装され、トランスフォーマーアーキテクチャを統合することで、自己注意および相互注意メカニズムを通じて車両、クライアント、デポ間の関係性を捉えます。実験は、20台のクライアントと4台の車両を考慮した、容量制約のある複数車両のシナリオに焦点を当て、10回の独立した実行で実施されます。性能は、経路距離、経路のコンパクトさ、経路の重複を用いて評価されます。結果は、3つのアプローチすべてが効果的な経路ポリシーを学習できることを示しています。しかし、量子強化モデルは古典的なベースラインを上回り、より堅牢な経路構成を生成し、ハイブリッドアーキテクチャは距離、コンパクトさ、経路の重複全体で最高の総合性能を達成しました。定量的な改善に加えて、定性的な可視化により、量子ベースのモデルはより構造化され、一貫性のある経路ソリューションを生成することが明らかになりました。これらの (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <description>本稿では、容量付き車両経路問題（CVRP）を、古典的および量子的な強化学習（RL）アプローチと比較することで考察します。Advantage Actor-Critic（A2C）エージェントは、古典的、完全量子的、そしてハイブリッドなバリアントで実装され、トランスフォーマーアーキテクチャを統合することで、自己注意および相互注意メカニズムを通じて車両、クライアント、デポ間の関係性を捉えます。実験は、20台のクライアントと4台の車両を考慮し、容量制約のある複数車両のシナリオに焦点を当て、10回の独立した実行で実施されます。性能は、経路距離、経路のコンパクトさ、経路の重複を用いて評価されます。結果は、3つのアプローチすべてが効果的な経路ポリシーを学習できることを示しています。しかし、量子強化モデルは古典的なベースラインを上回り、より堅牢な経路構成を生成し、ハイブリッドアーキテクチャは距離、コンパクトさ、経路の重複において最高の総合性能を達成しました。定量的な改善に加えて、定性的な可視化により、量子ベースのモデルはより構造化され、一貫性のある経路ソリューションを生成することが明らかになりました。こ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
       <guid isPermaLink="true">https://arxiv.org/abs/2602.05920v1</guid>
       <pubDate>Thu, 05 Feb 2026 17:32:14 +0000</pubDate>
     </item>

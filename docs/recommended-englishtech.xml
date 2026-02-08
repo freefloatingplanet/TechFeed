@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Feb 2026 06:50:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 06:56:40 +0000</lastBuildDate>
     <item>
-      <title>OpenCode: Claude CodeやCopilotに対抗するオープンソースのAIコーディングエージェント</title>
-      <link>https://www.infoq.com/news/2026/02/opencode-coding-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>オープンソースのAIコーディングツールOpenCodeは、ネイティブターミナルベースのUI、マルチセッションサポート、そしてClaude、OpenAI、Gemini、ローカルモデルを含む75以上のモデルとの互換性を備えています。CLIツールに加えて、OpenCodeはデスクトップアプリとしても利用可能で、VS Code、Cursor、その他のツール用のIDE拡張機能としても利用可能です。Sergio De Simone著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/opencode-coding-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+      <title>OktaからLaravelアプリにユーザーを同期する方法</title>
+      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
+      <description>わずか数行のコードで、SCIM、Okta、WorkOS を使用して Laravel アプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
@@ -44,6 +44,13 @@
       <pubDate>Fri, 06 Feb 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>CloudflareがMoltworkerをデモ、エッジにセルフホスト型AIエージェントを導入</title>
+      <link>https://www.infoq.com/news/2026/02/cloudflare-moltworker/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Cloudflareは、自社の開発者プラットフォーム上でセルフホスト型パーソナルAIエージェントMoltbotを実行するためのオープンソースソリューション「Moltworker」を発表しました。これにより、Mac miniなどのローカルハードウェアは不要になります。Clawdbotからブランド名を変更したMoltbotは、チャットアプリケーションのパーソナルアシスタントとして機能し、AIモデル、ブラウザ、サードパーティ製ツールと統合しながら、ユーザーによる操作性を維持します。Robert Krzaczyński著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/cloudflare-moltworker/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 07 Feb 2026 10:33:00 +0000</pubDate>
+    </item>
+    <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
       <link>https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</link>
       <description>MCPナイト、ホリデースペシャルは歴史的な瞬間を刻みました。AnthropicがMCPをLinux Foundationに寄贈し、Agentic AI Foundationが設立されました。Cloudflare、Supabase、Datadog、Microsoft、Googleによるデモも行われました。 (source: WorkOS Blog)</description>
@@ -67,16 +74,9 @@
     <item>
       <title>LinkedIn がサービス ディスカバリを再構築: Zookeeper を Kafka と xDS で大規模に置き換える</title>
       <link>https://www.infoq.com/news/2026/02/linkedin-service-discovery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>LinkedInのエンジニアリングチームは、従来のZooKeeperサービスディスカバリプラットフォームをアップグレードし、スケーラビリティとパフォーマンスの向上を実現しました。Apache KafkaとxDSプロトコルを活用することで、新しいアーキテクチャは結果整合性を実現し、複数言語をサポートし、ダウンタイムのない移行を可能にしました。アップグレード後、レイテンシは大幅に改善され、数十万ものアプリインスタンスの運用が可能になりました。Patrick Farry著 (source: InfoQ)</description>
+      <description>LinkedInのエンジニアリングチームは、スケーラビリティとパフォーマンスを向上させるため、従来のZooKeeperサービスディスカバリプラットフォームをアップグレードすることに成功しました。Apache KafkaとxDSプロトコルを活用することで、新しいアーキテクチャは結果整合性を実現し、複数言語をサポートし、ダウンタイムのない移行を可能にしました。アップグレード後、レイテンシは大幅に改善され、数十万ものアプリインスタンスの運用が可能になりました。Patrick Farry著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/02/linkedin-service-discovery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 05 Feb 2026 01:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>記事: アラート疲れからエージェント支援によるインテリジェントな観測可能性へ</title>
-      <link>https://www.infoq.com/articles/agent-assisted-intelligent-observability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>システムが成長するにつれて、可観測性の維持が困難になり、インシデントの診断も困難になります。エージェント型可観測性は、既存のツールにAIを重ね合わせ、読み取り専用モードから開始して異常を検知し、問題を要約します。時間の経過とともに、エージェントはコンテキストを追加し、シグナルを相関させ、低リスクのタスクを自動化します。このアプローチにより、エンジニアは分析と判断に集中できるようになります。Rohit Dhawan著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/agent-assisted-intelligent-observability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 04 Feb 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

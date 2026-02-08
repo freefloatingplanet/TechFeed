@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Feb 2026 06:50:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 06:56:32 +0000</lastBuildDate>
+    <item>
+      <title>スペースX、衛星衝突回避システム「Stargaze」を発表–他の衛星運用者に無料提供へ</title>
+      <link>https://uchubiz.com/article/new68922/</link>
+      <description>SpaceXは、地球低軌道の衛星衝突リスクを下げるシステム「Stargaze」を発表した。Starlink衛星群に搭載された光学センサーを使い、軌道上の物体を短時間で追跡する仕組みだ。今後数週間以内に多くの衛星運用者に […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new68922/</guid>
+      <pubDate>Sun, 01 Feb 2026 22:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>木星は定説よりも小さくて扁平だった？　ボイジャーの観測以来半世紀ぶりのサイズ更新</title>
       <link>https://sorae.info/astronomy/20260206-the-size-and-shape-of-jupiter.html</link>
@@ -42,13 +49,6 @@
       <description>JAXA発スタートアップのWHERE（東京都文京区）は2月6日、住宅テックラボ（東京都渋谷区）のオーナーサーチデータと連携することを発表した。両社は衛星データとAIを軸にした不動産AIツール「WHERE」の機能を拡張し […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new68969/</guid>
       <pubDate>Fri, 06 Feb 2026 03:22:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>イオとエウロパの違いは誕生した時から？　木星の衛星の起源に迫る新たな研究成果</title>
-      <link>https://sorae.info/astronomy/20260131-io-europa-divergent.html</link>
-      <description>太陽系最大の惑星である木星。その周囲を回る「ガリレオ衛星」と呼ばれる4つの大きな衛星は、それぞれ異なる特徴を持っていることで知られています。 特に、最も内側を公転する「Io（イオ）」と、そのすぐ外側を公転する「Europ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260131-io-europa-divergent.html</guid>
-      <pubDate>Sat, 31 Jan 2026 10:17:28 +0000</pubDate>
     </item>
     <item>
       <title>「西陣織の宇宙服」など開発のAmateras Space、堀江貴文氏やアクセルスペース中村氏から資金調達</title>

@@ -7,31 +7,68 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Feb 2026 06:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 06:56:27 +0000</lastBuildDate>
     <item>
-      <title>3,980円のカメラでClaude Codeに「身体」を与えてみた</title>
-      <link>https://zenn.dev/nextbeat/articles/2026-02-embodied-claude</link>
-      <description>はじめに こんにちは！株式会社ネクストビートでテクノロジー・エバンジェリストなる肩書きでお仕事をしている水島です。最近はコーディングAIの活用についての記事を色々と書いてきましたが、今回はちょっと趣向が違います。 AIに「身体」を与える話です。 「身体」といっても人型ロボットを作ったとかではありません。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/nextbeat/articles/2026-02-embodied-claude</guid>
-      <pubDate>Fri, 06 Feb 2026 10:23:20 +0000</pubDate>
+      <title>聞きづらい人にならないための技術</title>
+      <link>https://zenn.dev/idapan/articles/af819fa822c090</link>
+      <description>聞きづらい人にならないための技術
+
+ はじめに
+開発を進める中で個人的に感じた「聞きづらさ」や「話しづらさ」について、
+自分なりにどう向き合えばいいのかを考え、
+周りの人の意見も聞きながら、聞きやすい雰囲気を作る技術をまとめたいと思いました。
+
+
+ 開発を進める中で、こんなことを感じた
+開発を進める中で、個人的にこんな違和感を覚える場面がありました。
+
+
+SlackやWebミーティングでのやり取りで
+
+
+何を考えているのか分からない
+
+
+どこまで進んでいるのか見えない
+
+
+
+
+「分からなかったら聞いてください」と言われても、
+
+
+聞くのが怖い
+
+
+詰められそう
+
+
+自分の理解不足を晒... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/idapan/articles/af819fa822c090</guid>
+      <pubDate>Sat, 07 Feb 2026 00:48:37 +0000</pubDate>
     </item>
     <item>
-      <title>AI「Grok」のディープフェイク騒動、倫理後回しの投資回収に危うさ - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOGN3019Q0Q6A130C2000000/</link>
-      <description>X（旧ツイッター）上の生成AI（人工知能）「Grok（グロック）」によって女性らの画像が性的に改変される被害が相次いだ問題は、同社のSNSがもはや安全な交流の場ではないことをあらわにした。AIがつくる偽画像「ディープフェイク」を有料プランへの誘導手段にしてしまう収益優先の姿勢は、企業倫理を置き去りにしている... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN3019Q0Q6A130C2000000/</guid>
-      <pubDate>Fri, 06 Feb 2026 22:27:34 +0000</pubDate>
+      <title>自分のコードをAIに攻撃させたら"守り"が全部ザルだった</title>
+      <link>https://zenn.dev/smartvain/articles/ai-attacked-my-code-security-mostly-placebo</link>
+      <description>「セキュリティ、ちゃんとやってる？」
+この質問、正直めちゃくちゃ怖い。
+SQLインジェクション対策？　やってる。XSS対策？　エスケープしてる。CSRF？　トークン入れてる。
+——でも、「ちゃんと」って何だ？
+OWASPのチェックリストを上から順に潰して、ESLintのセキュリティプラグインを入れて、dependabotのアラートを処理して。やることはやっている。はずだった。
+自分のコードに自律型AIハッカーをけしかけるまでは。
+
+ はじめに
+セキュリティは「そこそこ意識している」つもりだった。
+でも今は、コードを書くときの思考回路がまるっきり変わった。守る側の視点だけでコードを書いてい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/smartvain/articles/ai-attacked-my-code-security-mostly-placebo</guid>
+      <pubDate>Sat, 07 Feb 2026 21:43:44 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code Agent Teamsが来た！さっそく使い倒して自前のOSSを滅ぼそうと思ったら……？</title>
-      <link>https://zenn.dev/nrs/articles/68840349bbdd8c</link>
-      <description>はじめに
-皆さん、Claude Codeに待望のAgent Teamsが登場したことをご存知でしょうか。
-複数のエージェントを連携させてタスクを処理する、いわゆる「マルチエージェント」の仕組みがClaude Codeにも正式に搭載されました。私も発表を見たときは「おお、これは」と思わず声が出ました。
-ところで、私はtaktというAIエージェントオーケストレーションツールを開発しています。taktもまた、複数のエージェントを連携させてタスクを処理するツールです。
-Agent Teamsが登場した今、taktはもう役目を終えたのでしょうか。同じことができるなら、標準機能を使った方がいいに... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nrs/articles/68840349bbdd8c</guid>
-      <pubDate>Fri, 06 Feb 2026 08:11:47 +0000</pubDate>
+      <title>目端の利くビジネスリーダーが「AIについて語らなくなった」理由（Forbes JAPAN） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/7b75c066e5f41f4ee13ea6a9a4d936f443b572c1</link>
+      <description>過去数年にわたるサンフランシスコの看板広告を、誰かが几帳面に写真で記録してきたのだとしたら、その写真からAI（人工知能）革命をほとんどコマ送りのように追えるはずだ。 当初のメッセージは、純粋な期待と、比類ない知能を大規模に展開するというビジョンそのものだった。ほぼどの企業も、目に見えない閾値を越えて... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7b75c066e5f41f4ee13ea6a9a4d936f443b572c1</guid>
+      <pubDate>Sun, 08 Feb 2026 00:42:40 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「プルリクエストの10分の9がゴミ」 — オープンソースはAIに殺されるのか？AI生成PRの氾濫に、GitHubが「プルリク無効化」という劇薬を検討中</title>
@@ -39,6 +76,13 @@ Agent Teamsが登場した今、taktはもう役目を終えたのでしょう�
       <description>2月4日、The Registerが「GitHub ponders kill switch for pull requests to stop AI slop」と題した記事を公開した。この記事では、AIが生成した粗悪なコード、通称「AI slop（AIのゴミ）」がオープンソースの善意を食いつぶしている現状と、それに対するGitHubの苦渋の決断について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6983ff2879175633b636ba8e?from=rss</guid>
       <pubDate>Thu, 05 Feb 2026 02:23:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ドイツの声優がネトフリ吹き替え拒否　AI訓練に使用は「自滅」（時事通信） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/769d6995cf3a7dd92effac7a40fbd9da960b106d</link>
+      <description>【ベルリン時事】ドイツの声優たちが米動画配信大手ネットフリックスの吹き替え版への出演を拒否し、波紋を呼んでいる。 人工知能（AI）の訓練に自らの声の利用を認めるよう求める出演契約に反発。AIの音声に仕事が奪われかねないことから、声優側は声の提供が「自滅を招く」（独メディア）と警戒している。 報道による... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/769d6995cf3a7dd92effac7a40fbd9da960b106d</guid>
+      <pubDate>Sat, 07 Feb 2026 14:24:38 +0000</pubDate>
     </item>
     <item>
       <title>EUでバックエンドエンジニアとして転職活動した記録（応募数・通過率・面接対策まとめ）</title>
@@ -63,37 +107,14 @@ LinkedInで応募、またはスカウトメッセージを受ける
       <pubDate>Thu, 05 Feb 2026 12:17:12 +0000</pubDate>
     </item>
     <item>
-      <title>なぜJavaのジェネリクスの型推論は同じ型を強制しないのか</title>
-      <link>https://zenn.dev/nstock/articles/java-generics-lub-type-inference</link>
-      <description>はじめに
-こんにちは。Nstockのtouyuです。
-Nstockに入社し、初めて本格的にJavaでコードを書くようになりました。
-Javaの書き味は思っていたよりモダンで、他言語からの類推でもある程度書くことができました。加えてCoding Agentの発展も著しく、正直にいうと言語仕様を深く理解せずに書くことも増えていました。
-そんなある日、あるジェネリクスを含んだコードが期待していたものとは異なる挙動をすることに気づきました。
-
- 期待と異なる挙動
-同じ型の2つの引数を取り、何らかの処理をさせるメソッドを用意したいと考え、以下のようなコードを生成してもらいました。
-&lt;T&amp;... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nstock/articles/java-generics-lub-type-inference</guid>
-      <pubDate>Thu, 05 Feb 2026 01:24:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>どの駒かわからない変則ルールの「量子将棋」…藤井聡太「永世竜王」到達の裏で世界大会を初開催した開発者の情熱、「無用の用」探究する将棋の学術的価値［指す将が行く］</title>
-      <link>https://www.yomiuri.co.jp/igoshougi/ryuoh/20260205-GYT8T00101/</link>
-      <description>【読売新聞】　はさみ将棋、まわり将棋、山崩し……。将棋の対局に飽きてしまった時や、将棋のルールを知らない人と盤駒を使って遊ぶ際に「脱線」を経験したことがあるのでは。藤井聡太竜王が頂点に立つ「本将棋」から派生した変則ルールの将棋を探究 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.yomiuri.co.jp/igoshougi/ryuoh/20260205-GYT8T00101/</guid>
-      <pubDate>Fri, 06 Feb 2026 09:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gemini API のコストを最適化する方法</title>
-      <link>https://zenn.dev/google_cloud_jp/articles/0e7a7bd1573dfb</link>
-      <description>本記事では、Gemini を API で利用する際のコストを節約するための手法をまとめています。主には Vertex AI からの利用を想定していますが、多くは Google AI Studio などでも使える手法です。
-
- 背景
-Gemini をはじめ多くの LLM は、入出力の Token 数に応じた従量課金モデルとなっているため、特に大規模に利用している場合はコストが気になることが多いと思います。
-Gemini にはコンテキストキャッシュ保存 という機能など、コストを削減する手法は幾つかありますが、あまり体系的 / 網羅的に整理されているコンテンツがなかったので、今日時点の機能をベ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/google_cloud_jp/articles/0e7a7bd1573dfb</guid>
-      <pubDate>Thu, 05 Feb 2026 09:15:01 +0000</pubDate>
+      <title>[2026年2月6日] ソフトウェアエンジニアリングという仕事の変質を感じる (週刊AI)</title>
+      <link>https://zenn.dev/carenet/articles/49dd8e64165e33</link>
+      <description>こんにちは、Kaiです。
+また隔週になってしまいすみません。
+ちょうど今朝がた、GPT-5.3-CodexとClaude Opus 4.6が発表されました。双方ともベンチマークスコアは旧モデルを大幅に上回っているようですが、もはやここまでくるとモデルの性能差よりも、コードベースの作り方や、ドキュメントの整備状況、ワークフローの設計の方がずっと出力されるコード品質に効いてくるような気がしています。
+もちろん、AIオリエンテッドな洗練されたやり方を既に導入しているところでは、モデルの性能向上はシンプルに出来ることの拡大、速度の向上につながるでしょう。一方で、まだそこに至っていない場合には性能... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/carenet/articles/49dd8e64165e33</guid>
+      <pubDate>Fri, 06 Feb 2026 09:21:35 +0000</pubDate>
     </item>
     <item>
       <title>VSCode卒業？次世代エディタ「Zed」を触って感じた、エンジニアとしての思考の速度</title>
@@ -104,6 +125,16 @@ Gemini にはコンテキストキャッシュ保存 という機能など、コ
 おそらく9割くらいの方が VS Code (Visual Studio Code) と答えるのではないでしょうか。私もその一人です。未経験で入社したとき、先輩に「まずはこれを入れろ」と言われて以来、私のエンジニア人生はずっとVS ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/yuukikawabata/articles/zed-editor-impression</guid>
       <pubDate>Thu, 05 Feb 2026 12:44:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>3,980円のカメラでClaude Codeに「身体」を与えてみた</title>
+      <link>https://zenn.dev/nextbeat/articles/2026-02-embodied-claude</link>
+      <description>はじめに
+こんにちは！株式会社ネクストビートでテクノロジー・エバンジェリストなる肩書きでお仕事をしている水島です。最近はコーディングAIの活用についての記事を色々と書いてきましたが、今回はちょっと趣向が違います。
+AIに「身体」を与える話です。
+「身体」といっても人型ロボットを作ったとかではありません。3,980円のWi-Fiカメラ1台で、Claude Codeに「目」「首」「耳」を与え、さらに長期記憶（脳）や声まで持たせたという話です。きっかけはふとした思いつきだったのですが、Xに投稿したところ想定外にバズってしまい、せっかくなのでプロジェクトの全体像を記事にまとめることにしました... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nextbeat/articles/2026-02-embodied-claude</guid>
+      <pubDate>Fri, 06 Feb 2026 07:08:08 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Debianプロジェクト、開発者の「静かな離脱」に苦悩 ― MIA（行方不明者）対策の自動化を検討</title>
