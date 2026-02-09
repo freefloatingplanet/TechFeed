@@ -7,20 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Feb 2026 06:56:32 +0000</lastBuildDate>
-    <item>
-      <title>スペースX、衛星衝突回避システム「Stargaze」を発表–他の衛星運用者に無料提供へ</title>
-      <link>https://uchubiz.com/article/new68922/</link>
-      <description>SpaceXは、地球低軌道の衛星衝突リスクを下げるシステム「Stargaze」を発表した。Starlink衛星群に搭載された光学センサーを使い、軌道上の物体を短時間で追跡する仕組みだ。今後数週間以内に多くの衛星運用者に […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new68922/</guid>
-      <pubDate>Sun, 01 Feb 2026 22:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Feb 2026 07:10:26 +0000</lastBuildDate>
     <item>
       <title>木星は定説よりも小さくて扁平だった？　ボイジャーの観測以来半世紀ぶりのサイズ更新</title>
       <link>https://sorae.info/astronomy/20260206-the-size-and-shape-of-jupiter.html</link>
       <description>こちらは、太陽系最大の惑星・木星のサイズに関する最新の数値と従来の数値を比較した図です。 若干見分けづらいかもしれませんが、濃い黄色が従来の定説にもとづいた数値、薄い黄色が最新の研究成果にもとづいた数値を示しています。 … (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260206-the-size-and-shape-of-jupiter.html</guid>
       <pubDate>Fri, 06 Feb 2026 11:35:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>スペースX、衛星衝突回避システム「Stargaze」を発表–他の衛星運用者に無料提供へ</title>
+      <link>https://uchubiz.com/article/new68922/</link>
+      <description>SpaceXは、地球低軌道の衛星衝突リスクを下げるシステム「Stargaze」を発表した。Starlink衛星群に搭載された光学センサーを使い、軌道上の物体を短時間で追跡する仕組みだ。今後数週間以内に多くの衛星運用者に […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new68922/</guid>
+      <pubDate>Sun, 01 Feb 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
       <title>「気球からロケット発射」のAstroXが23億円を調達–2026年内の宇宙空間到達を目指す</title>
@@ -51,13 +51,6 @@
       <pubDate>Fri, 06 Feb 2026 03:22:15 +0000</pubDate>
     </item>
     <item>
-      <title>「西陣織の宇宙服」など開発のAmateras Space、堀江貴文氏やアクセルスペース中村氏から資金調達</title>
-      <link>https://uchubiz.com/article/new68840/</link>
-      <description>日本発の宇宙服を開発するスタートアップAmateras Spaceは1月27日、エンジェルラウンドにおいて第三者割当増資による資金調達を実施したと発表した。今回の金額は非公開。 　引受先は、実業家の堀江貴文氏、レオス・ […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new68840/</guid>
-      <pubDate>Tue, 27 Jan 2026 05:52:32 +0000</pubDate>
-    </item>
-    <item>
       <title>NASAの木星探査機ジュノーが衛星エウロパの氷殻を測定　厚さは30km近くに達する可能性</title>
       <link>https://sorae.info/astronomy/20260201-europa-juno.html</link>
       <description>木星の衛星Europa（エウロパ）は、分厚い氷の下に広大な内部海が存在すると考えられており、太陽系内で生命が存在する可能性が高い天体の一つとして注目されています。 今回、NASA（アメリカ航空宇宙局）の木星探査機「Jun… (source: sorae 宇宙へのポータルサイト)</description>
@@ -70,6 +63,13 @@
       <description>こちらは、NASA（アメリカ航空宇宙局）のジェームズ・ウェッブ宇宙望遠鏡（JWST）が観測した約80万個もの銀河と、そこに重ね合わせられた「ある物質」の分布図です。 青色の明暗で可視化されているのは、「ダークマター（暗黒… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260203-dark-matter-map-jwst.html</guid>
       <pubDate>Tue, 03 Feb 2026 09:29:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>「重要インフラにおける衛星ベースの監視ニーズが高まっている」ドイツのAI企業LiveEO、インフラ監視に向けた自社の衛星開発とコンステレーション構築を発表【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/44551/</link>
+      <description>2026年1月28日、ドイツのAI企業LiveEOは、国内インフラ監視向けの衛星コンステレーション「Twinspector」を打ち上げると発表しました。ドイツはこれまで、広範囲で高解像度の地球観測データを提供できる国内事業者が不足しており、他国に依存してきました。今回はこの課題解決に向けた取り組みとなります。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/44551/</guid>
+      <pubDate>Sun, 08 Feb 2026 22:57:39 +0000</pubDate>
     </item>
     <item>
       <title>スペースX、対話型AI「Grok」開発のxAIを統合へ–宇宙データセンターを構築</title>

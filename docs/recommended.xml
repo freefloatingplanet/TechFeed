@@ -7,68 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Feb 2026 06:56:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 07:10:21 +0000</lastBuildDate>
     <item>
-      <title>聞きづらい人にならないための技術</title>
-      <link>https://zenn.dev/idapan/articles/af819fa822c090</link>
-      <description>聞きづらい人にならないための技術
-
- はじめに
-開発を進める中で個人的に感じた「聞きづらさ」や「話しづらさ」について、
-自分なりにどう向き合えばいいのかを考え、
-周りの人の意見も聞きながら、聞きやすい雰囲気を作る技術をまとめたいと思いました。
-
-
- 開発を進める中で、こんなことを感じた
-開発を進める中で、個人的にこんな違和感を覚える場面がありました。
-
-
-SlackやWebミーティングでのやり取りで
-
-
-何を考えているのか分からない
-
-
-どこまで進んでいるのか見えない
-
-
-
-
-「分からなかったら聞いてください」と言われても、
-
-
-聞くのが怖い
-
-
-詰められそう
-
-
-自分の理解不足を晒... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/idapan/articles/af819fa822c090</guid>
-      <pubDate>Sat, 07 Feb 2026 00:48:37 +0000</pubDate>
+      <title>Agent Teamを使ってロールプレイ駆動開発してみよう</title>
+      <link>https://zenn.dev/sakasegawa/articles/e6a8aa168a7d19</link>
+      <description>こんにちは！逆瀬川 (@gyakuse) です。
+Claude CodeにAgent Teamという機能が登場しました。これを使ってロールプレイ駆動開発というのをやってみたら面白かったので、その知見をまとめておきます。
+Coding Agent界隈ではいろんなオーケストレーションの仕組みが作られてきました。最近では multi-agent-shogun などが記憶に新しいものとしてあります。これは将軍・家老・足軽のようなロールが作業をしていくオーケストレーションでめっちゃ面白いです。
+今回Agent Teamの登場により、こうしたオーケストレーションがClaude Codeのネイティブ機... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sakasegawa/articles/e6a8aa168a7d19</guid>
+      <pubDate>Sat, 07 Feb 2026 09:00:31 +0000</pubDate>
     </item>
     <item>
-      <title>自分のコードをAIに攻撃させたら"守り"が全部ザルだった</title>
-      <link>https://zenn.dev/smartvain/articles/ai-attacked-my-code-security-mostly-placebo</link>
-      <description>「セキュリティ、ちゃんとやってる？」
-この質問、正直めちゃくちゃ怖い。
-SQLインジェクション対策？　やってる。XSS対策？　エスケープしてる。CSRF？　トークン入れてる。
-——でも、「ちゃんと」って何だ？
-OWASPのチェックリストを上から順に潰して、ESLintのセキュリティプラグインを入れて、dependabotのアラートを処理して。やることはやっている。はずだった。
-自分のコードに自律型AIハッカーをけしかけるまでは。
-
- はじめに
-セキュリティは「そこそこ意識している」つもりだった。
-でも今は、コードを書くときの思考回路がまるっきり変わった。守る側の視点だけでコードを書いてい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/smartvain/articles/ai-attacked-my-code-security-mostly-placebo</guid>
-      <pubDate>Sat, 07 Feb 2026 21:43:44 +0000</pubDate>
+      <title>なぜ、Claude Codeは、RAGを捨ててAgentic Searchを選んだのか？</title>
+      <link>https://zenn.dev/karamage/articles/2514cf04e0d1ac</link>
+      <description>先日、Claude Codeの開発者でありAnthropicのエンジニアでもあるBoris Cherny氏が、「初期のClaude CodeではRAG＋ローカルベクターDBを使っていたが、最終的にAgentic Searchの方が圧倒的に良いと分かった」 という発言がありました 私はBoris氏のこの投稿を見たとき「やっぱ、そうだよな」と思いました。なぜなら私もRA... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/karamage/articles/2514cf04e0d1ac</guid>
+      <pubDate>Sun, 08 Feb 2026 04:45:20 +0000</pubDate>
     </item>
     <item>
-      <title>目端の利くビジネスリーダーが「AIについて語らなくなった」理由（Forbes JAPAN） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/7b75c066e5f41f4ee13ea6a9a4d936f443b572c1</link>
-      <description>過去数年にわたるサンフランシスコの看板広告を、誰かが几帳面に写真で記録してきたのだとしたら、その写真からAI（人工知能）革命をほとんどコマ送りのように追えるはずだ。 当初のメッセージは、純粋な期待と、比類ない知能を大規模に展開するというビジョンそのものだった。ほぼどの企業も、目に見えない閾値を越えて... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7b75c066e5f41f4ee13ea6a9a4d936f443b572c1</guid>
-      <pubDate>Sun, 08 Feb 2026 00:42:40 +0000</pubDate>
+      <title>AIが脆弱性を96%見つける時代に、僕らがセキュリティを学ぶ意味はあるのか</title>
+      <link>https://zenn.dev/smartvain/articles/ai-finds-96pct-vulns-why-learn-security</link>
+      <description>「このコード、セキュリティ的に大丈夫かな……」 PRレビューのたびに、なんとなく不安になる。SQLインジェクション、XSS、CSRF——知識としては知っている。でも、自分のレビューで本当に脆弱性を潰しきれているかと聞かれたら、正直自信がない。 そしてある日、こんなニュースが流れてきた。 「自律型AIハッカーツール Sha... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/smartvain/articles/ai-finds-96pct-vulns-why-learn-security</guid>
+      <pubDate>Mon, 09 Feb 2026 00:30:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>ゼロから始めるContext Engineering</title>
+      <link>https://zenn.dev/sakasegawa/articles/65895201c59e44</link>
+      <description>こんにちは！逆瀬川 (@gyakuse) です！
+今日はContext EngineeringについてなぜContext Engineeringが大事かというのを最近のAI AgentのContext構造やキャッシュ機構の働きなどを見ながらまとめていきたいと思います。
+
+ Context Engineeringとは
+定義としては
+
+推論において最適な情報群をキュレートしたり維持する一連の戦略 (Anthropic)
+
+などが多くわりとふわっとしているのであんまり定義を振り返ることはありません。
+Context Engineeringを考えるためには、現代のAI AgentがどのようなCo... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sakasegawa/articles/65895201c59e44</guid>
+      <pubDate>Sun, 08 Feb 2026 08:18:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code Agent Teamsが来た！さっそく使い倒して自前のOSSを滅ぼそうと思ったら……？</title>
+      <link>https://zenn.dev/nrs/articles/68840349bbdd8c</link>
+      <description>はじめに
+皆さん、Claude Codeに待望のAgent Teamsが登場したことをご存知でしょうか。
+複数のエージェントを連携させてタスクを処理する、いわゆる「マルチエージェント」の仕組みがClaude Codeにも正式に搭載されました。私も発表を見たときは「おお、これは」と思わず声が出ました。
+ところで、私はtaktというAIエージェントオーケストレーションツールを開発しています。taktもまた、複数のエージェントを連携させてタスクを処理するツールです。
+Agent Teamsが登場した今、taktはもう役目を終えたのでしょうか。同じことができるなら、標準機能を使った方がいいに... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nrs/articles/68840349bbdd8c</guid>
+      <pubDate>Fri, 06 Feb 2026 08:11:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude CodeのSkillsで作る、AIライフマネジメント</title>
+      <link>https://zenn.dev/react_uncle/articles/840efe2fdc6963</link>
+      <description>はじめに
+こんにちは。@react_nextjs です。
+みなさんこの動画を見ましたか？
+https://www.youtube.com/watch?v=KHiq6nf0Jio
+私も以前、似たようなことを試みたことがあります。GitHubリポジトリで自分のタスクや目標を管理しようとしたのですが、結局続きませんでした。
+理由は明確で、管理すること自体が負担になっていたからです。
+私は顧問先や副業を複数抱えており、本業以外に使える学習時間と副業時間のリソースが可視化されていませんでした。毎日「今日はどれくらい時間があるのか」「何から手をつけるべきか」を考えて計画を立てるものの、達成できな... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/react_uncle/articles/840efe2fdc6963</guid>
+      <pubDate>Mon, 09 Feb 2026 00:49:00 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「プルリクエストの10分の9がゴミ」 — オープンソースはAIに殺されるのか？AI生成PRの氾濫に、GitHubが「プルリク無効化」という劇薬を検討中</title>
@@ -78,53 +80,16 @@ OWASPのチェックリストを上から順に潰して、ESLintのセキュリ
       <pubDate>Thu, 05 Feb 2026 02:23:36 +0000</pubDate>
     </item>
     <item>
-      <title>ドイツの声優がネトフリ吹き替え拒否　AI訓練に使用は「自滅」（時事通信） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/769d6995cf3a7dd92effac7a40fbd9da960b106d</link>
-      <description>【ベルリン時事】ドイツの声優たちが米動画配信大手ネットフリックスの吹き替え版への出演を拒否し、波紋を呼んでいる。 人工知能（AI）の訓練に自らの声の利用を認めるよう求める出演契約に反発。AIの音声に仕事が奪われかねないことから、声優側は声の提供が「自滅を招く」（独メディア）と警戒している。 報道による... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/769d6995cf3a7dd92effac7a40fbd9da960b106d</guid>
-      <pubDate>Sat, 07 Feb 2026 14:24:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>EUでバックエンドエンジニアとして転職活動した記録（応募数・通過率・面接対策まとめ）</title>
-      <link>https://zenn.dev/katsulau/articles/f745af2c36a2bd</link>
-      <description>スペインのバルセロナに住んでおり、バックエンドエンジニアとして
-2025年の10月中旬〜2月初旬にかけて転職活動を行いました。
-色々と知見が貯まったので共有したいと思います。
+      <title>NodeCG 配信グラフィック開発入門 ~Vite + React + TypeScript テンプレートで学ぶNodeCG開発~</title>
+      <link>https://zenn.dev/bozitoma/books/nodecg-react-overlay</link>
+      <description>Web技術（Node.js/ブラウザ）で、ライブ配信用のグラフィックと操作パネルを自由に作れるフレームワーク「NodeCG」の入門書です。
 
- 面接のプロセス
-面接のプロセスは
+本書では、自分用に準備した「Vite + React + TypeScript」のNodeCG開発テンプレートを公開し、ハンズオン形式でNodeCGを体系的に学べるように解説します。
+面倒な初期設定はすべて済ませてあるため、すぐに開発をスタートできます。
 
-LinkedInで応募、またはスカウトメッセージを受ける
-勤務地など、条件が合いそうであればHRとの面接。（面談の前に、電話で軽いスクリーニングがあったりもします）
-技術テスト(課題提出型、オンライン上でのコーディングテストなど)
-技術面接(1~2回)
-カルチャー面接
-
-大体このような流れになります。
-ただし、カルチャー面接と技術面接を明確に分けない会社もあり、
-両者の順番が... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/katsulau/articles/f745af2c36a2bd</guid>
-      <pubDate>Thu, 05 Feb 2026 12:17:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[2026年2月6日] ソフトウェアエンジニアリングという仕事の変質を感じる (週刊AI)</title>
-      <link>https://zenn.dev/carenet/articles/49dd8e64165e33</link>
-      <description>こんにちは、Kaiです。
-また隔週になってしまいすみません。
-ちょうど今朝がた、GPT-5.3-CodexとClaude Opus 4.6が発表されました。双方ともベンチマークスコアは旧モデルを大幅に上回っているようですが、もはやここまでくるとモデルの性能差よりも、コードベースの作り方や、ドキュメントの整備状況、ワークフローの設計の方がずっと出力されるコード品質に効いてくるような気がしています。
-もちろん、AIオリエンテッドな洗練されたやり方を既に導入しているところでは、モデルの性能向上はシンプルに出来ることの拡大、速度の向上につながるでしょう。一方で、まだそこに至っていない場合には性能... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/carenet/articles/49dd8e64165e33</guid>
-      <pubDate>Fri, 06 Feb 2026 09:21:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>VSCode卒業？次世代エディタ「Zed」を触って感じた、エンジニアとしての思考の速度</title>
-      <link>https://zenn.dev/yuukikawabata/articles/zed-editor-impression</link>
-      <description>こんにちは。Webエンジニアとして6年目を迎えた、34歳のパパエンジニアです。
-未経験からこの業界に飛び込んで、気づけばもう中堅。以前は自社で新人のトレーナーなんかもやっていましたが、最近は現場での開発にどっぷり浸かりつつ、夜な夜な家族が寝静まった後に個人開発でアプリリリースを目指してコードを書いています。
-さて、みなさんは開発エディタ、何を使っていますか？
-おそらく9割くらいの方が VS Code (Visual Studio Code) と答えるのではないでしょうか。私もその一人です。未経験で入社したとき、先輩に「まずはこれを入れろ」と言われて以来、私のエンジニア人生はずっとVS ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yuukikawabata/articles/zed-editor-impression</guid>
-      <pubDate>Thu, 05 Feb 2026 12:44:28 +0000</pubDate>
+「既存のツールでは実現できない独自のグラフィックを配信に載せたい」「スタッフが使いやすい専用の管理画面を作りたい」という方は、ぜひ参考にしてください。 (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/bozitoma/books/nodecg-react-overlay</guid>
+      <pubDate>Sat, 07 Feb 2026 06:56:05 +0000</pubDate>
     </item>
     <item>
       <title>3,980円のカメラでClaude Codeに「身体」を与えてみた</title>
