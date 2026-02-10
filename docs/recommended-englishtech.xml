@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Feb 2026 07:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 07:11:38 +0000</lastBuildDate>
     <item>
       <title>次期Mocaはエージェント定義言語をオープンソース仕様としてリリース</title>
       <link>https://www.infoq.com/news/2026/02/agent-definition-language/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -23,13 +23,6 @@
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>テスト駆動開発と本番環境でのテストからのフィードバックの取得</title>
-      <link>https://www.infoq.com/news/2026/02/feedback-TDD-production/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>チームはエンドツーエンドテストではなく、強力なユニットテストと統合テストに依存しています。TDD、ペアプログラミング、そして優れた設計を用いて、小さな変更を頻繁にリリースし、実際のフィードバックを得るために本番環境でテストを行い、フィーチャートグルを使用してリスクを軽減していると、Ola Hast氏とAsgaut Mjølne Söderbom氏はペアプログラミングによる継続的デリバリーに関する講演で述べています。Ben Linders著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/feedback-TDD-production/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 05 Feb 2026 11:36:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MUI、35個のアクセシブルコンポーネントを搭載したBase UI 1をリリース</title>
       <link>https://www.infoq.com/news/2026/02/baseui-v1-accessible/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>Base UI 1.0が正式にリリースされました！MUIを基盤とするこのスタイルレスReactコンポーネントライブラリは、35個のアクセシブルコンポーネントを長期メンテナンスで提供します。洗練されたAPIと強化されたパフォーマンスにより、開発者はカスタムデザインを容易に作成できると同時に、堅牢なアクセシビリティをすぐに実現できます。Daniel Curtis (source: InfoQ)</description>
@@ -42,6 +35,13 @@
       <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。そこで、OAuthフロー、トークン管理、プロバイダー設定を自動化するPipesを開発しました。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ポッドキャスト: [ビデオポッドキャスト] マデリン・オルソンとValkeyの改善</title>
+      <link>https://www.infoq.com/podcasts/valkey-performance-improvements/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>このエピソードでは、トーマス・ベッツが、Valkeyプロジェクトのメンテナーであり、Amazon ElastiCacheおよびAmazon MemoryDBのプリンシパルソフトウェア開発エンジニアでもあるマデリン・オルソンと対談します。会話では、ValkeyがRedisのオープンソースフォークとしてどのように始まったのか、そしてメンテナーがどのようにメモリ使用量を最適化し、スループットを向上させたのかについて語ります。マデリン・オルソン (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/podcasts/valkey-performance-improvements/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 09 Feb 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CloudflareがMoltworkerをデモ、エッジにセルフホスト型AIエージェントを導入</title>
@@ -72,11 +72,11 @@
       <pubDate>Mon, 09 Feb 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>LinkedIn がサービス ディスカバリを再構築: Zookeeper を Kafka と xDS で大規模に置き換える</title>
-      <link>https://www.infoq.com/news/2026/02/linkedin-service-discovery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>LinkedInのエンジニアリングチームは、従来のZooKeeperサービスディスカバリプラットフォームをアップグレードし、スケーラビリティとパフォーマンスの向上を実現しました。Apache KafkaとxDSプロトコルを活用することで、新しいアーキテクチャは結果整合性を実現し、複数言語をサポートし、ダウンタイムのない移行を可能にしました。アップグレード後、レイテンシは大幅に改善され、数十万ものアプリインスタンスの運用が可能になりました。Patrick Farry著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/linkedin-service-discovery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 05 Feb 2026 01:21:00 +0000</pubDate>
+      <title>記事: リソースが限られた環境での LLM の構築: 実践的な視点</title>
+      <link>https://www.infoq.com/articles/building-llms-resource-constrained-environments/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>本稿では、インフラストラクチャとコンピューティング能力の限界がイノベーションの推進力となり得ると主張しています。小規模で効率的なモデル、合成データ生成、そして規律あるエンジニアリングによって、厳しいリソース制約下でも、影響力のあるLLMベースのAIシステムの構築が可能になることを示しています。Olimpiu Pop著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/building-llms-resource-constrained-environments/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 09 Feb 2026 11:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

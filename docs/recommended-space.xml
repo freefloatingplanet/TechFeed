@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Feb 2026 07:10:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 07:11:23 +0000</lastBuildDate>
+    <item>
+      <title>JAXAが「イプシロンS」開発計画見直しへ　2段目を変更し2026年度内の実証機打ち上げ目指す</title>
+      <link>https://sorae.info/space/20260206-epsilon-s.html</link>
+      <description>JAXA（宇宙航空研究開発機構）は2026年2月4日に開催された第102回宇宙開発利用部会にて、開発中の「イプシロンS」ロケットに関する最新の状況を報告しました。 イプシロンSロケットとは イプシロンSロケットは、前身と… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260206-epsilon-s.html</guid>
+      <pubDate>Fri, 06 Feb 2026 01:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>木星は定説よりも小さくて扁平だった？　ボイジャーの観測以来半世紀ぶりのサイズ更新</title>
       <link>https://sorae.info/astronomy/20260206-the-size-and-shape-of-jupiter.html</link>
@@ -49,13 +56,6 @@
       <description>JAXA発スタートアップのWHERE（東京都文京区）は2月6日、住宅テックラボ（東京都渋谷区）のオーナーサーチデータと連携することを発表した。両社は衛星データとAIを軸にした不動産AIツール「WHERE」の機能を拡張し […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new68969/</guid>
       <pubDate>Fri, 06 Feb 2026 03:22:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>NASAの木星探査機ジュノーが衛星エウロパの氷殻を測定　厚さは30km近くに達する可能性</title>
-      <link>https://sorae.info/astronomy/20260201-europa-juno.html</link>
-      <description>木星の衛星Europa（エウロパ）は、分厚い氷の下に広大な内部海が存在すると考えられており、太陽系内で生命が存在する可能性が高い天体の一つとして注目されています。 今回、NASA（アメリカ航空宇宙局）の木星探査機「Jun… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260201-europa-juno.html</guid>
-      <pubDate>Sun, 01 Feb 2026 08:57:10 +0000</pubDate>
     </item>
     <item>
       <title>ウェッブ宇宙望遠鏡が明らかにする「宇宙の骨組み」　史上最も高解像度なダークマター地図</title>
