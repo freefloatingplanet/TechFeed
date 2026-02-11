@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Feb 2026 07:11:23 +0000</lastBuildDate>
-    <item>
-      <title>JAXAが「イプシロンS」開発計画見直しへ　2段目を変更し2026年度内の実証機打ち上げ目指す</title>
-      <link>https://sorae.info/space/20260206-epsilon-s.html</link>
-      <description>JAXA（宇宙航空研究開発機構）は2026年2月4日に開催された第102回宇宙開発利用部会にて、開発中の「イプシロンS」ロケットに関する最新の状況を報告しました。 イプシロンSロケットとは イプシロンSロケットは、前身と… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260206-epsilon-s.html</guid>
-      <pubDate>Fri, 06 Feb 2026 01:45:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Feb 2026 07:07:28 +0000</lastBuildDate>
     <item>
       <title>木星は定説よりも小さくて扁平だった？　ボイジャーの観測以来半世紀ぶりのサイズ更新</title>
       <link>https://sorae.info/astronomy/20260206-the-size-and-shape-of-jupiter.html</link>
@@ -35,6 +28,13 @@
       <description>AstroX（福島県南相馬市）は2月4日、総額23.2億円の資金調達を発表した。第三者割当増資の引受先は、One Capital、インクルージョン・ジャパン、エンジェル投資家。 　AstroXは、気球を用いて空中からロ […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new68946/</guid>
       <pubDate>Wed, 04 Feb 2026 04:52:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>じっと見つめる目のような惑星状星雲　ハッブル宇宙望遠鏡が観測した「ESO 456-67」</title>
+      <link>https://sorae.info/astronomy/20260210-eso-456-67.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した惑星状星雲「ESO 456-67」。 いて座の方向、約1万光年先にあります。 赤いリングの中に切れ込みが入った青い球体が埋め込まれているような構造は、どこか動物の目を思わせ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260210-eso-456-67.html</guid>
+      <pubDate>Tue, 10 Feb 2026 11:39:54 +0000</pubDate>
     </item>
     <item>
       <title>「この契約は宇宙軌道上の防衛における転換点となる」Slingshot Aerospaceが宇宙防衛に必要なAIエージェントの開発で2,700万ドルの契約を米国宇宙軍から受注【宇宙ビジネスニュース】</title>

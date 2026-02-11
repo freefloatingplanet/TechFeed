@@ -7,7 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Feb 2026 07:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 07:07:21 +0000</lastBuildDate>
+    <item>
+      <title>Zennブログ執筆用のAgent Skillを自作して運用してみた</title>
+      <link>https://zenn.dev/redamoon/articles/article40-zenn-blog-writing</link>
+      <description>はじめに
+私はZennで技術ブログを書く際に、CursorのAgent Skillsを活用しています。具体的には、自分のブログ用にカスタマイズした「Zenn技術ブログ執筆スキル」という SKILL.md を作成し、日々アップデートしながら運用しています。
+この記事では、そのスキルの中身と運用方法、そしてtextlintやObsidianとの組み合わせで得られた効果について紹介します。
+
+ この記事で伝えたいこと
+
+自分のブログ用にカスタマイズしたAgent Skillの具体的な内容
+日々の運用でスキルをどうアップデートしているか
+ObsidianのメモからZenn記事への変換でスキル... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/redamoon/articles/article40-zenn-blog-writing</guid>
+      <pubDate>Mon, 09 Feb 2026 12:47:57 +0000</pubDate>
+    </item>
     <item>
       <title>ゼロから始めるContext Engineering</title>
       <link>https://zenn.dev/sakasegawa/articles/65895201c59e44</link>
@@ -34,26 +49,6 @@ https://x.com/bcherny/status/2017824286489383315
       <pubDate>Sat, 07 Feb 2026 10:59:29 +0000</pubDate>
     </item>
     <item>
-      <title>「チームみらいは誰の声を聞いているのか——オードリー・タンとの分岐点」という記事の誤情報について｜NISHIO Hirokazu</title>
-      <link>https://note.com/nishiohirokazu/n/n58b6f250d298</link>
-      <description>こんな記事を読んで「参考になる」などと言っている人を見かけました。この記事の社会科学的な側面はよく調べていて面白いものだと思います。しかし、技術的な理解で大きな間違いが含まれているので公益のために指摘しておこうと思います。 この記事は「Talk to the Ciry」を「チームみらい」と結びつけ「Polis」「Audre... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/nishiohirokazu/n/n58b6f250d298</guid>
-      <pubDate>Mon, 09 Feb 2026 16:17:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude CodeのSkillsで作る、AIライフマネジメント</title>
-      <link>https://zenn.dev/react_uncle/articles/840efe2fdc6963</link>
-      <description>はじめに
-こんにちは。@react_nextjs です。
-みなさんこの動画を見ましたか？
-https://www.youtube.com/watch?v=KHiq6nf0Jio
-私も以前、似たようなことを試みたことがあります。GitHubリポジトリで自分のタスクや目標を管理しようとしたのですが、結局続きませんでした。
-理由は明確で、管理すること自体が負担になっていたからです。
-私は顧問先や副業を複数抱えており、本業以外に使える学習時間と副業時間のリソースが可視化されていませんでした。毎日「今日はどれくらい時間があるのか」「何から手をつけるべきか」を考えて計画を立てるものの、達成できな... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/react_uncle/articles/840efe2fdc6963</guid>
-      <pubDate>Mon, 09 Feb 2026 00:49:00 +0000</pubDate>
-    </item>
-    <item>
       <title>WSLからネイティブLinuxに乗り換えてよかったこと</title>
       <link>https://zenn.dev/texia/articles/c98da5518233a7</link>
       <description>WSLにはかなりお世話になってきたし、正直そこまで不満はなかったです。
@@ -75,11 +70,11 @@ GNOMEの使い心地が想像よりだいぶ良かった
       <pubDate>Sun, 08 Feb 2026 03:21:50 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントのUXを進化させる「A2UI」でアプリを構築 - Taste of Tech Topics</title>
-      <link>https://acro-engineer.hatenablog.com/entry/2026/02/10/120000</link>
-      <description>こんにちは。大塚です。 普段は生成AIを利用したサービスの開発に携わっているのですが、直近の仕事では、数理最適化の手法を扱う機会がありました。 実は、大学の授業で数理最適化をかじっており、教授がよく 「人の勘や経験に頼っている部分を数式に落とし込むことで、合理的な意思決定ができるようにしよう。」 とい... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://acro-engineer.hatenablog.com/entry/2026/02/10/120000</guid>
-      <pubDate>Tue, 10 Feb 2026 03:46:36 +0000</pubDate>
+      <title>スターリンク遮断でロシア軍が大混乱に　指揮系統「崩壊」、外国技術依存の脆弱性露呈 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/91498</link>
+      <description>ウクライナに侵攻しているロシア軍は、米スペースXの衛星通信サービス「スターリンク」が無効化されたことで混乱に陥っている。一方、ウクライナ側は引き続きスターリンクを利用できるように、自国の端末を急いで「ホワイトリスト」に登録している。 この戦争では双方とも、妨害への耐性が高い長距離通信を提供する商用... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://forbesjapan.com/articles/detail/91498</guid>
+      <pubDate>Tue, 10 Feb 2026 23:14:51 +0000</pubDate>
     </item>
     <item>
       <title>「なんか良いらしい」でDDDを導入した結果、何も得られなかった話</title>
@@ -112,14 +107,28 @@ DDD導入にあたり、DDDの本や記事をたくさん読みました。個�
       <pubDate>Sat, 07 Feb 2026 06:56:05 +0000</pubDate>
     </item>
     <item>
-      <title>3,980円のカメラでClaude Codeに「身体」を与えてみた</title>
-      <link>https://zenn.dev/nextbeat/articles/2026-02-embodied-claude</link>
+      <title>一番の脆弱性は"人間のコードレビュー"だった</title>
+      <link>https://zenn.dev/smartvain/articles/ai-security-test-human-code-review-weakest</link>
+      <description>「LGTM 🚀」
+このたった4文字、何回書いてきただろう。
+PRが来て、差分を見て、ロジックを追って、「まあ問題なさそうだな」でApprove。正直、金曜の夕方に来た30ファイル変更のPRに対して、全行を真剣に読んだかと聞かれたら——答えに詰まる。
+たぶん、あなたもそうだと思う。
+
+ はじめに
+認証・認可、入力バリデーション、そのあたりを「ちゃんとやってるつもり」で何年もやってきた。
+でも最近、自律型AIエージェントにセキュリティテストを任せてみたら、僕が一番信頼していた「人間のコードレビュー」が、実は一番のザルだったと気づいた。
+ツールを入れて満足する話じゃない。もっと手前の話だった。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/smartvain/articles/ai-security-test-human-code-review-weakest</guid>
+      <pubDate>Tue, 10 Feb 2026 09:07:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIコーディングのベストプラクティスを読み漁って分かった、本当に重要な4つの原則</title>
+      <link>https://zenn.dev/epicai_techblog/articles/7bf1e878061ef5</link>
       <description>はじめに
-こんにちは！株式会社ネクストビートでテクノロジー・エバンジェリストなる肩書きでお仕事をしている水島です。最近はコーディングAIの活用についての記事を色々と書いてきましたが、今回はちょっと趣向が違います。
-AIに「身体」を与える話です。
-「身体」といっても人型ロボットを作ったとかではありません。3,980円のWi-Fiカメラ1台で、Claude Codeに「目」「首」「耳」を与え、さらに長期記憶（脳）や声まで持たせたという話です。きっかけはふとした思いつきだったのですが、Xに投稿したところ想定外にバズってしまい、せっかくなのでプロジェクトの全体像を記事にまとめることにしました... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nextbeat/articles/2026-02-embodied-claude</guid>
-      <pubDate>Fri, 06 Feb 2026 07:08:08 +0000</pubDate>
+ここ一年ほどで、AIを使ったプログラミングに関する記事が爆発的に増えました。OpenAIやAnthropicの公式ドキュメント、個人ブログ、Zennの記事など、様々な場所で「AIコーディングのベストプラクティス」が語られています。
+ただ、記事が増えすぎて「結局何が一番重要なのか」「どの記事を読めばいいのか」が分からなくなってきたと感じている人も多いのではないでしょうか。私も競プロ・Kaggle・Web開発・個人開発など様々な場面でAIコーディングを実践してきましたが、記事ごとに主張が微妙に違っていたり、ツール固有の話と汎用的な話が混ざっていたりして、整理が必要だと感じていま... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/epicai_techblog/articles/7bf1e878061ef5</guid>
+      <pubDate>Mon, 09 Feb 2026 09:00:02 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Debianプロジェクト、開発者の「静かな離脱」に苦悩 ― MIA（行方不明者）対策の自動化を検討</title>

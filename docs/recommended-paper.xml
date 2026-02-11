@@ -7,15 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Feb 2026 07:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 07:07:32 +0000</lastBuildDate>
     <item>
-      <title>DynamiQ: 圧縮マルチホップ All-reduce を用いた勾配同期の高速化</title>
-      <link>https://arxiv.org/abs/2602.08923v1</link>
-      <description>マルチホップ・オールリデュースは、大規模モデル学習の事実上のバックボーンです。学習規模が大きくなるにつれて、ネットワークがボトルネックとなることが多くなり、転送データ量の削減が求められます。そのため、最近のシステムでは、勾配量子化を用いて学習プロセスを大幅に高速化できることが実証されています。しかし、これらのシステムは、集約トポロジに沿ってエントリが複数回部分合計されるマルチホップ集約には最適化されていません。
-本稿では、量子化のベストプラクティスとマルチホップ集約のギャップを埋める量子化フレームワーク、DynamiQを紹介します。DynamiQは、部分合計をより適切に表現するための新しい手法を導入し、高速実行を可能にするために、解凍・累積・再圧縮の融合カーネルと共同設計されています。
-PyTorch DDPを拡張し、NCCL P2P上でDynamiQをサポートしました。様々なLLM、タスク、スケールにおいて、Omni-Reduce、THC、そしてMXFP4、MXFP6、MXFP8といった最新標準の手法の中で、最高値に対して最大34.2%の一貫した改善を示しました。さらに、Dynami (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.08923v1</guid>
-      <pubDate>Mon, 09 Feb 2026 17:25:37 +0000</pubDate>
+      <title>流通外検出のためのVendiノベルティスコア</title>
+      <link>https://arxiv.org/abs/2602.10062v1</link>
+      <description>分布外（OOD）検出は、機械学習システムを安全に展開するために重要です。既存の事後検出器は通常、モデル信頼スコアまたは特徴空間での尤度推定に依存しており、多くの場合、制限的な分布の仮定に基づいています。本研究では、第3のパラダイムを導入し、多様性の観点からOOD検出を定式化します。類似性ベースの多様性メトリックのファミリーであるVendiスコア（VS）に基づくOOD検出器であるVendi Novelty Score（VNS）を提案します。VNSは、テストサンプルが分布内特徴セットのVSをどの程度増加させるかを定量化し、密度モデリングを必要としない新規性の原理的な概念を提供します。VNSは線形時間、ノンパラメトリックであり、クラス条件付き（ローカル）およびデータセットレベル（グローバル）の新規性を自然に組み合わせます。複数の画像分類ベンチマークとネットワークアーキテクチャにわたって、VNSは最先端のOOD検出パフォーマンスを実現します。驚くべきことに、VNS はトレーニング データの 1% のみを使用して計算した場合でもこのパフォーマンスを維持し、メモリまたはアクセスが制限された設定での (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.10062v1</guid>
+      <pubDate>Tue, 10 Feb 2026 18:30:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
