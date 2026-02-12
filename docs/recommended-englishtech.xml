@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Feb 2026 07:07:38 +0000</lastBuildDate>
-    <item>
-      <title>次期Mocaはエージェント定義言語をオープンソース仕様としてリリース</title>
-      <link>https://www.infoq.com/news/2026/02/agent-definition-language/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Mocaは、AIエージェントの定義、レビュー、ガバナンスをフレームワークやプラットフォーム間で標準化することを目的とした、ベンダー中立の仕様であるエージェント定義言語（ADL）をオープンソース化しました。このプロジェクトはApache 2.0ライセンスの下でリリースされ、AIエージェントに欠けていた「定義レイヤー」として位置付けられています。これは、APIにおけるOpenAPIの役割に匹敵します。Robert Krzaczyński著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/agent-definition-language/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 09 Feb 2026 06:48:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Feb 2026 07:07:24 +0000</lastBuildDate>
     <item>
       <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
@@ -30,13 +23,6 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ポッドキャスト: [ビデオポッドキャスト] マデリン・オルソンとValkeyの改善</title>
-      <link>https://www.infoq.com/podcasts/valkey-performance-improvements/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>このエピソードでは、トーマス・ベッツが、Valkeyプロジェクトのメンテナーであり、Amazon ElastiCacheおよびAmazon MemoryDBのプリンシパルソフトウェア開発エンジニアでもあるマデリン・オルソンと対談します。会話では、ValkeyがRedisのオープンソースフォークとしてどのように始まったのか、そしてメンテナーがどのようにメモリ使用量を最適化し、スループットを向上させたのかについて語ります。マデリン・オルソン (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/podcasts/valkey-performance-improvements/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 09 Feb 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
       <link>https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</link>
       <description>MCPナイト、ホリデースペシャルは歴史的な瞬間を刻みました。AnthropicがMCPをLinux Foundationに寄贈し、Agentic AI Foundationが設立されました。Cloudflare、Supabase、Datadog、Microsoft、Googleによるデモも行われました。 (source: WorkOS Blog)</description>
@@ -44,11 +30,11 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Java ニュースまとめ: GlassFish 8.0、OmniHai 1.0、LangChain4j、Infinispan、Hibernate、JobRunr</title>
-      <link>https://www.infoq.com/news/2026/02/java-news-roundup-feb02-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>今週の2026年2月2日版Javaラウンドアップでは、GlassFish 8.0とOmniHai 1.0のGAリリース、LangChain4j、Infinispan、JBangのポイントリリース、HelidonとJobRunrのメンテナンスリリース、そしてHibernate ORM、Hibernate Reactive、Hibernate Searchのマイルストーンリリースといった注目ニュースをお届けします。マイケル・レッドリッヒ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/java-news-roundup-feb02-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 09 Feb 2026 02:30:00 +0000</pubDate>
+      <title>司法省は、トレンチャントのボスが「数百万台のコンピュータとデバイス」にアクセスできるエクスプロイトをロシアのブローカーに販売したと発表</title>
+      <link>https://techcrunch.com/2026/02/11/doj-says-trenchant-boss-sold-exploits-to-russian-broker-capable-of-accessing-millions-of-computers-and-devices/</link>
+      <description>L3ハリス傘下のハッキング・監視ツールメーカー、トレンチャントの元社長は、ロシア政府も顧客とするロシアのブローカーに複数のエクスプロイトを販売した罪で、懲役9年の判決に直面している。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/02/11/doj-says-trenchant-boss-sold-exploits-to-russian-broker-capable-of-accessing-millions-of-computers-and-devices/</guid>
+      <pubDate>Wed, 11 Feb 2026 18:41:41 +0000</pubDate>
     </item>
     <item>
       <title>記事: リソースが限られた環境での LLM の構築: 実践的な視点</title>
@@ -56,6 +42,13 @@
       <description>本稿では、インフラストラクチャとコンピューティング能力の限界がイノベーションの推進力となり得ると主張しています。小規模で効率的なモデル、合成データ生成、そして規律あるエンジニアリングによって、厳しいリソース制約下でも、影響力のあるLLMベースのAIシステムの構築が可能になることを示しています。Olimpiu Pop著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/articles/building-llms-resource-constrained-environments/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 09 Feb 2026 11:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ポッドキャスト: [ビデオポッドキャスト] AIツール時代のソフトウェアアーキテクチャの技術</title>
+      <link>https://www.infoq.com/podcasts/craft-software-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>AIコーディングアシスタントはスピードを約束しますが、品質、信頼性、そして建築家の技術にとって何を意味するのでしょうか？「Next Gen Architecture Playbook」の初回エピソードでは、シュエタ・ヴォーラとグレイディ・ブーチが、機械が人間と並んでコードを書くようになると、建築はどのように進化していくべきなのか、原理的な視点から考察します。彼らは、生産性の向上が現実のものとなるソフトウェアエンジニアリングの第三の黄金時代について考察します。グレイディ・ブーチ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/podcasts/craft-software-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 11 Feb 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>QCon 20周年記念カンファレンスのプレビュー: プロダクションAI、レジリエンス、スタッフ+エンジニアリング</title>
@@ -72,9 +65,16 @@
       <pubDate>Tue, 10 Feb 2026 08:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>Pandas 3.0 ではデフォルトの文字列型とコピーオンライトセマンティクスが導入されました</title>
+      <link>https://www.infoq.com/news/2026/02/pandas-library/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>pandasチームは、文字列処理、メモリセマンティクス、日時解決に関するコア動作を変更するメジャーアップデートであるpandas 3.0.0をリリースしました。また、非推奨機能を大幅に削除しました。このリリースでは、ライブラリAPIのコア動作にいくつかの変更が加えられています。Robert Krzaczyński著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/pandas-library/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 11 Feb 2026 08:40:00 +0000</pubDate>
+    </item>
+    <item>
       <title>記事: Jakarta EE 12 マイルストーン 2: データ時代の到来と一貫性および構成</title>
       <link>https://www.infoq.com/articles/jakartaee-12-milestone-2/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Jakarta EE 12 マイルストーン2は、次世代エンタープライズJavaの幕開けを告げるものです。永続性、データ、NoSQLを統合したクエリ言語であるJakarta Queryが導入され、プラットフォームはJava 21に準拠しています。このマイルストーンは、クラウドネイティブ・エンタープライズ・アプリケーションの統合、モダナイゼーション、そして開発者の生産性向上に重点を置いています。Otavio Santana著 (source: InfoQ)</description>
+      <description>Jakarta EE 12 マイルストーン2は、次世代エンタープライズJavaの幕開けを告げるものです。永続性、データ、NoSQLを統合したクエリ言語であるJakarta Queryを導入し、プラットフォームをJava 21に準拠させます。このマイルストーンは、クラウドネイティブ・エンタープライズ・アプリケーションの統合、モダナイゼーション、そして開発者の生産性向上に重点を置いています。Otavio Santana著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/articles/jakartaee-12-milestone-2/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Tue, 10 Feb 2026 09:00:00 +0000</pubDate>
     </item>

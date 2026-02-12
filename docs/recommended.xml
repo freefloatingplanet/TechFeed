@@ -7,104 +7,63 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Feb 2026 07:07:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 07:07:10 +0000</lastBuildDate>
     <item>
-      <title>Zennブログ執筆用のAgent Skillを自作して運用してみた</title>
-      <link>https://zenn.dev/redamoon/articles/article40-zenn-blog-writing</link>
-      <description>はじめに
-私はZennで技術ブログを書く際に、CursorのAgent Skillsを活用しています。具体的には、自分のブログ用にカスタマイズした「Zenn技術ブログ執筆スキル」という SKILL.md を作成し、日々アップデートしながら運用しています。
-この記事では、そのスキルの中身と運用方法、そしてtextlintやObsidianとの組み合わせで得られた効果について紹介します。
-
- この記事で伝えたいこと
-
-自分のブログ用にカスタマイズしたAgent Skillの具体的な内容
-日々の運用でスキルをどうアップデートしているか
-ObsidianのメモからZenn記事への変換でスキル... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/redamoon/articles/article40-zenn-blog-writing</guid>
-      <pubDate>Mon, 09 Feb 2026 12:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>ゼロから始めるContext Engineering</title>
-      <link>https://zenn.dev/sakasegawa/articles/65895201c59e44</link>
-      <description>こんにちは！逆瀬川 (@gyakuse) です！
-今日はContext EngineeringについてなぜContext Engineeringが大事かというのを最近のAI AgentのContext構造やキャッシュ機構の働きなどを見ながらまとめていきたいと思います。
-
- Context Engineeringとは
-定義としては
-
-推論において最適な情報群をキュレートしたり維持する一連の戦略 (Anthropic)
-
-などが多くわりとふわっとしているのであんまり定義を振り返ることはありません。
-Context Engineeringを考えるためには、現代のAI AgentがどのようなCo... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sakasegawa/articles/65895201c59e44</guid>
-      <pubDate>Sun, 08 Feb 2026 08:18:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜ、Claude Codeは、RAGを捨ててAgentic Searchを選んだのか？</title>
-      <link>https://zenn.dev/karamage/articles/2514cf04e0d1ac</link>
-      <description>先日、Claude Codeの開発者でありAnthropicのエンジニアでもあるBoris Cherny氏が、「初期のClaude CodeではRAG＋ローカルベクターDBを使っていたが、最終的にAgentic Searchの方が圧倒的に良いと分かった」 という発言がありました
-https://x.com/bcherny/status/2017824286489383315
-私はBoris氏のこの投稿を見たとき「やっぱ、そうだよな」と思いました。なぜなら私もRAGで検索システムを作った際に似たようなことを考えていたからです。この記事ではこの騒動の背景を整理しつつ、なぜClaude Cod... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/karamage/articles/2514cf04e0d1ac</guid>
-      <pubDate>Sat, 07 Feb 2026 10:59:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>WSLからネイティブLinuxに乗り換えてよかったこと</title>
-      <link>https://zenn.dev/texia/articles/c98da5518233a7</link>
-      <description>WSLにはかなりお世話になってきたし、正直そこまで不満はなかったです。
-ただ、ビッグデータ寄りの分析を回すときにメモリ不足が頻発して、コード側に余計な工夫を入れるのがしんどくなってきました。
-「そこまで変わらんだろ」と思いつつネイティブLinuxに移行したんですが、結論としては想像以上に快適でした。
-いまはもうWSLに戻ることはないかなという感覚です。
-
- まず結論
-
-体感で一番効いたのはメモリ余裕
-GPU周りのモヤモヤが減って、試行回数が増えた
-Linux向けアプリを「気軽に試す」までのハードルが下がった
-GNOMEの使い心地が想像よりだいぶ良かった
-
-
- 体感No.1はメモリ余裕
-こ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/texia/articles/c98da5518233a7</guid>
-      <pubDate>Sun, 08 Feb 2026 03:21:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>スターリンク遮断でロシア軍が大混乱に　指揮系統「崩壊」、外国技術依存の脆弱性露呈 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-      <link>https://forbesjapan.com/articles/detail/91498</link>
-      <description>ウクライナに侵攻しているロシア軍は、米スペースXの衛星通信サービス「スターリンク」が無効化されたことで混乱に陥っている。一方、ウクライナ側は引き続きスターリンクを利用できるように、自国の端末を急いで「ホワイトリスト」に登録している。 この戦争では双方とも、妨害への耐性が高い長距離通信を提供する商用... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://forbesjapan.com/articles/detail/91498</guid>
-      <pubDate>Tue, 10 Feb 2026 23:14:51 +0000</pubDate>
+      <title>｢SaaSの死｣震源、アンソロピックの実力　オフィスに照準でAI競争優位 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN113Z50R10C26A2000000/</link>
+      <description>【シリコンバレー=山田遼太郎】米人工知能（AI）開発新興のアンソロピックが躍進している。AIが業務ソフトの事業モデルを崩す「SaaSの死」の震源として株式市場でにわかに注目を集め、直近1年の売上高や企業価値の増加率は米オープンAIを上回る。技術者が頼るニッチな存在から、法人向けAI市場の主役に躍り出た。株売り... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN113Z50R10C26A2000000/</guid>
+      <pubDate>Wed, 11 Feb 2026 21:23:46 +0000</pubDate>
     </item>
     <item>
       <title>「なんか良いらしい」でDDDを導入した結果、何も得られなかった話</title>
       <link>https://zenn.dev/tokium_dev/articles/why-ddd-failed-for-me</link>
-      <description>「なんか良いらしいぞ」
+      <description>!
+[追記] 「本質を理解した！」と自信満々に書いたにも関わらず、DDDについてまだ理解が浅かったようです...。素晴らしい解説コメントをいただいたので、DDDの本質を理解したい方はぜひコメント欄もご覧ください！
+
+
+ 「なんか良いらしいぞ」
 新卒で入社して配属されたのは、新規事業の立ち上げチームでした。Web開発の経験はほぼゼロ。開発を始めて少し経った頃に、社内の他のチームがDDDという手法を使っていると知りました。
 調べてみると、「有名な手法」「価値あるソフトウェアが作れる」らしい。
 なんか良いらしい。じゃあうちもやろう、と。
 これが失敗の始まりでした。
 
- 表面的な理解が招いた勘違い
-開発していたのはRAGチャットボットです。
-DDD導入にあたり、DDDの本や記事をたくさん読みました。個人的に一番分かりやすかったのはこれ（それでも難しかったけど）。
-
-出典: ドメイン駆動設計入門 - 翔泳社
-... (source: Zennのトレンド)</description>
+ 表面的な理解が招いた勘違... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/why-ddd-failed-for-me</guid>
       <pubDate>Mon, 09 Feb 2026 05:45:26 +0000</pubDate>
     </item>
     <item>
-      <title>NodeCG 配信グラフィック開発入門 ~Vite + React + TypeScript テンプレートで学ぶNodeCG開発~</title>
-      <link>https://zenn.dev/bozitoma/books/nodecg-react-overlay</link>
-      <description>Web技術（Node.js/ブラウザ）で、ライブ配信用のグラフィックと操作パネルを自由に作れるフレームワーク「NodeCG」の入門書です。
+      <title>Geminiの全チャット履歴をNotebookLMに食わせて「自分専用ナレッジベース」を作った話</title>
+      <link>https://zenn.dev/minipoisson/articles/d8b307f8eedc5f</link>
+      <description>はじめに：Geminiとの対話は「知的資産」だ 日々、プログラミングのデバッグやアイデア出しに Google Gemini を活用している方は多いと思います。しかし、その膨大なチャット履歴、「使い捨て」にしていませんか？ Gemini の履歴は、自分の思考プロセス、ハマったエラー、解決策が詰まった「知的ライフログ」そのもので... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/minipoisson/articles/d8b307f8eedc5f</guid>
+      <pubDate>Wed, 11 Feb 2026 07:16:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI VTuber開発日記 〜AIキャラクターの作成からOBSを用いたYouTube配信まで〜</title>
+      <link>https://zenn.dev/robustonian/articles/aituber_development_start</link>
+      <description>はじめに
 
-本書では、自分用に準備した「Vite + React + TypeScript」のNodeCG開発テンプレートを公開し、ハンズオン形式でNodeCGを体系的に学べるように解説します。
-面倒な初期設定はすべて済ませてあるため、すぐに開発をスタートできます。
+ この記事の対象者
 
-「既存のツールでは実現できない独自のグラフィックを配信に載せたい」「スタッフが使いやすい専用の管理画面を作りたい」という方は、ぜひ参考にしてください。 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/bozitoma/books/nodecg-react-overlay</guid>
-      <pubDate>Sat, 07 Feb 2026 06:56:05 +0000</pubDate>
+これからAIキャラクターを作りたいと考えている
+OBS Studioの使い方やYouTube配信の方法が知りたい
+15日という限られた期間でどれくらいのことができるようになるのか知りたい
+
+
+ 背景
+Shizuku AIが米VC大手から大型資金調達を受けて、企業価値が約120億円になったとのことでAI VTuberに興味を持った方も多いと思う。
+このニュースを受けて、これからAI VTuberやAIキャラクターを開発しようと考えている方向けに、私が15日間という限られた期間でAITuber開発をしたときの日記を公開することにした。
+半年ほど前の内容で... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/robustonian/articles/aituber_development_start</guid>
+      <pubDate>Wed, 11 Feb 2026 03:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>なぜ？　Windows標準の「メモ帳」に脆弱性が見つかる #エキスパートトピ（山口健太） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/10777917d624d35573ad4385ab028758544375df</link>
+      <description>Windows 11に標準搭載された新しい「メモ帳」。Markdownファイルの編集に対応している（アプリ画面より、筆者作成） 2月10日に提供が始まったWindowsのセキュリティ更新プログラムの中に、「メモ帳」の脆弱性に対応するものが含まれているとして、SNSで話題になっています。 この脆弱性は、メモ帳で悪意のあるリンクを含... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/10777917d624d35573ad4385ab028758544375df</guid>
+      <pubDate>Thu, 12 Feb 2026 04:42:32 +0000</pubDate>
     </item>
     <item>
       <title>一番の脆弱性は"人間のコードレビュー"だった</title>
@@ -129,6 +88,43 @@ PRが来て、差分を見て、ロジックを追って、「まあ問題なさ
 ただ、記事が増えすぎて「結局何が一番重要なのか」「どの記事を読めばいいのか」が分からなくなってきたと感じている人も多いのではないでしょうか。私も競プロ・Kaggle・Web開発・個人開発など様々な場面でAIコーディングを実践してきましたが、記事ごとに主張が微妙に違っていたり、ツール固有の話と汎用的な話が混ざっていたりして、整理が必要だと感じていま... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/epicai_techblog/articles/7bf1e878061ef5</guid>
       <pubDate>Mon, 09 Feb 2026 09:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>なぜ現場ではCTEで書かれたクエリが少ないのか</title>
+      <link>https://zenn.dev/tonbi_attack/articles/560b025a188620</link>
+      <description>はじめに
+CTEはSQLを整理しやすくする便利な構文です。
+それでも実務では、CTEよりサブクエリや一時テーブル中心のクエリをよく見かけます。
+これは好みの問題だけではありません。
+歴史的背景、データベースの最適化特性、チームのレビュー体制、ORMの使い方といった複数の要因が重なって起きています。
+この記事では、現場でCTEが少なくなりやすい理由を客観的に整理します。
+
+ 結論
+CTEが使われにくいのは、次の4つが積み重なるからです。
+
+歴史的に、CTEを使えない時代が長かった
+クエリ次第で、実行計画が不利になることがある
+読み手とレビュワーの習熟度に差が出やすい
+ORM中心の開発で... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tonbi_attack/articles/560b025a188620</guid>
+      <pubDate>Wed, 11 Feb 2026 07:58:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>なぜ、「ElysiaJS」は爆速なのか</title>
+      <link>https://zenn.dev/gymynnym/articles/c326836dc035e4</link>
+      <description>はじめに
+
+かわいいバージョンの ElysiaJS のロゴ
+ElysiaJS は Bun エコシステムで最も使われるフレームワークで、高速で効率的で安定的なタイプシステムを誇ります。また、開発者経験（DX）が優れていて、個人的にも JS/TS ベースのウェブプロジェクトを開発する時、ElysiaJS をよく使っています。
+本記事では、なぜ ElysiaJS が他のフレームワークよりも魅力的なのかに関して、性能面で説明します。
+
+以後、ElysiaJS は Elysia と略します。
+
+
+ Bun
+Elysia は基本的に Bun ランタイムを使うことを前提として開発されています。もち... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/gymynnym/articles/c326836dc035e4</guid>
+      <pubDate>Tue, 10 Feb 2026 07:09:53 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Debianプロジェクト、開発者の「静かな離脱」に苦悩 ― MIA（行方不明者）対策の自動化を検討</title>
