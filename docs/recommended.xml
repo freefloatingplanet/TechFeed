@@ -7,38 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Feb 2026 07:07:10 +0000</lastBuildDate>
-    <item>
-      <title>｢SaaSの死｣震源、アンソロピックの実力　オフィスに照準でAI競争優位 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOGN113Z50R10C26A2000000/</link>
-      <description>【シリコンバレー=山田遼太郎】米人工知能（AI）開発新興のアンソロピックが躍進している。AIが業務ソフトの事業モデルを崩す「SaaSの死」の震源として株式市場でにわかに注目を集め、直近1年の売上高や企業価値の増加率は米オープンAIを上回る。技術者が頼るニッチな存在から、法人向けAI市場の主役に躍り出た。株売り... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN113Z50R10C26A2000000/</guid>
-      <pubDate>Wed, 11 Feb 2026 21:23:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>「なんか良いらしい」でDDDを導入した結果、何も得られなかった話</title>
-      <link>https://zenn.dev/tokium_dev/articles/why-ddd-failed-for-me</link>
-      <description>!
-[追記] 「本質を理解した！」と自信満々に書いたにも関わらず、DDDについてまだ理解が浅かったようです...。素晴らしい解説コメントをいただいたので、DDDの本質を理解したい方はぜひコメント欄もご覧ください！
-
-
- 「なんか良いらしいぞ」
-新卒で入社して配属されたのは、新規事業の立ち上げチームでした。Web開発の経験はほぼゼロ。開発を始めて少し経った頃に、社内の他のチームがDDDという手法を使っていると知りました。
-調べてみると、「有名な手法」「価値あるソフトウェアが作れる」らしい。
-なんか良いらしい。じゃあうちもやろう、と。
-これが失敗の始まりでした。
-
- 表面的な理解が招いた勘違... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/why-ddd-failed-for-me</guid>
-      <pubDate>Mon, 09 Feb 2026 05:45:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Geminiの全チャット履歴をNotebookLMに食わせて「自分専用ナレッジベース」を作った話</title>
-      <link>https://zenn.dev/minipoisson/articles/d8b307f8eedc5f</link>
-      <description>はじめに：Geminiとの対話は「知的資産」だ 日々、プログラミングのデバッグやアイデア出しに Google Gemini を活用している方は多いと思います。しかし、その膨大なチャット履歴、「使い捨て」にしていませんか？ Gemini の履歴は、自分の思考プロセス、ハマったエラー、解決策が詰まった「知的ライフログ」そのもので... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/minipoisson/articles/d8b307f8eedc5f</guid>
-      <pubDate>Wed, 11 Feb 2026 07:16:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Feb 2026 07:04:34 +0000</lastBuildDate>
     <item>
       <title>AI VTuber開発日記 〜AIキャラクターの作成からOBSを用いたYouTube配信まで〜</title>
       <link>https://zenn.dev/robustonian/articles/aituber_development_start</link>
@@ -59,11 +28,68 @@ Shizuku AIが米VC大手から大型資金調達を受けて、企業価値が�
       <pubDate>Wed, 11 Feb 2026 03:00:06 +0000</pubDate>
     </item>
     <item>
-      <title>なぜ？　Windows標準の「メモ帳」に脆弱性が見つかる #エキスパートトピ（山口健太） - エキスパート - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/expert/articles/10777917d624d35573ad4385ab028758544375df</link>
-      <description>Windows 11に標準搭載された新しい「メモ帳」。Markdownファイルの編集に対応している（アプリ画面より、筆者作成） 2月10日に提供が始まったWindowsのセキュリティ更新プログラムの中に、「メモ帳」の脆弱性に対応するものが含まれているとして、SNSで話題になっています。 この脆弱性は、メモ帳で悪意のあるリンクを含... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/10777917d624d35573ad4385ab028758544375df</guid>
-      <pubDate>Thu, 12 Feb 2026 04:42:32 +0000</pubDate>
+      <title>Claudeちゃんと夜のお散歩をしてみた</title>
+      <link>https://zenn.dev/nextbeat/articles/2026-02-embodied-claude-walk</link>
+      <description>はじめに
+こんにちは！株式会社ネクストビートでテクノロジー・エバンジェリストをしている水島です。
+前回の記事「3,980円のカメラでClaude Codeに「身体」を与えてみた」では、Wi-Fiカメラを使ってClaude Codeに目・首・耳・脳・声を与えた話を書きました。ありがたいことに多くの反響をいただき、プロジェクトはその後も進化を続けています。
+今回はその続き。Claude Codeを外に連れ出して、夜の街を散歩した話です。
+前回の記事からわずか数日で、声の感情表現、ステレオビジョン（左目・右目）、カメラ制御のONVIF標準化、記憶システムの進化など、さまざまなアップデートが... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nextbeat/articles/2026-02-embodied-claude-walk</guid>
+      <pubDate>Thu, 12 Feb 2026 02:23:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chromeが重い人、Windows 11の「親切すぎる機能」が足を引っ張っているかも | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2602-hacks-every-google-chrome-user-should-know/</link>
+      <description>「Google Chromeはメモリを食い過ぎる」──そんな言葉も今や定番ですが、私の経験上、使い物にならないほど動作が酷くなることは滅多にありませんでした。 ところが最近、その「まさか」が起きたのです。 リサーチのために大量のタブを開きながら作業していたら、Chromeが突然、壁にぶつかったように動かなくなりました。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.lifehacker.jp/article/2602-hacks-every-google-chrome-user-should-know/</guid>
+      <pubDate>Thu, 12 Feb 2026 09:46:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>カンリー社内Claude Code勉強会の資料を公開します</title>
+      <link>https://zenn.dev/canly/articles/cc0891517e45cc</link>
+      <description>本記事について
+株式会社カンリーでは、2025年6月頃から全エンジニア向けにClaude Codeを導入しています。
+それ以前にDevinやCursorなども導入しており、現在ではこれら3ツールを個人の裁量で使い分けて業務をしています。
+その中においてツールの理解度・習熟度は個人でばらつきがあり、組織として活用レベルを一段上げたいと考えて勉強会を実施しました。
+本記事はその際の資料をほぼそのまま掲載したものとなります。
+Claude Codeを使ったことはある、しかし使いこなす余地が残されている方向けの資料です。
+
+ なぜ今Claude Codeを学ぶのか
+
+ 「人間がコードを書く時... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/canly/articles/cc0891517e45cc</guid>
+      <pubDate>Thu, 12 Feb 2026 04:38:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>ウォーターフォールを成功させるには、結局先の工程に取りかからないと厳しいと思った話</title>
+      <link>https://zenn.dev/tonbi_attack/articles/c07206607bb3b1</link>
+      <description>はじめに
+ウォーターフォールは、要件定義から順番に進める前提で語られることが多いです。私も最初はそのイメージで進めていました。
+ただ、実務で何度か痛い目を見て、結局は先の工程に早めに触れないと成立しない場面が多いと感じるようになりました。
+この記事で言いたいことはシンプルです。
+工程を崩したいのではなく、前工程の精度を上げるために、先の工程の情報を先に取りにいく必要があるという話です。
+
+ よくある前提
+ウォーターフォールの説明では、次のような順序が理想形として置かれます。
+
+要件定義
+基本設計
+詳細設計
+実装
+テスト
+
+この順序自体は間違っていません。
+ただし、既存システム改修では... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tonbi_attack/articles/c07206607bb3b1</guid>
+      <pubDate>Wed, 11 Feb 2026 09:57:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>「イーロンはすごいですが、ザッカーバーグはザルですよ」闇バイトのリクルーターが恐れるのは警察でもヤクザでもなくSNSのアルゴリズム変更だという話</title>
+      <link>https://togetter.com/li/2663358</link>
+      <description>草下シンヤ @kusakashinya 闇バイトのリクルーターが数年前に「警察もヤクザもそれほど問題ではない。本当に怖いのはイーロンマスク。アルゴリズムが変われば、一気にシゴトができなくなる」と言っていた。 先日、そのリクルーターからDMが来た。 「イーロンにやられました。Xから撤退してインスタにいきます」 Xの仕様... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2663358</guid>
+      <pubDate>Fri, 13 Feb 2026 05:29:55 +0000</pubDate>
     </item>
     <item>
       <title>一番の脆弱性は"人間のコードレビュー"だった</title>
@@ -81,13 +107,40 @@ PRが来て、差分を見て、ロジックを追って、「まあ問題なさ
       <pubDate>Tue, 10 Feb 2026 09:07:36 +0000</pubDate>
     </item>
     <item>
-      <title>AIコーディングのベストプラクティスを読み漁って分かった、本当に重要な4つの原則</title>
-      <link>https://zenn.dev/epicai_techblog/articles/7bf1e878061ef5</link>
+      <title>Windowsの高速化をがんばってみた</title>
+      <link>https://zenn.dev/maedan/articles/91caa405e30165</link>
       <description>はじめに
-ここ一年ほどで、AIを使ったプログラミングに関する記事が爆発的に増えました。OpenAIやAnthropicの公式ドキュメント、個人ブログ、Zennの記事など、様々な場所で「AIコーディングのベストプラクティス」が語られています。
-ただ、記事が増えすぎて「結局何が一番重要なのか」「どの記事を読めばいいのか」が分からなくなってきたと感じている人も多いのではないでしょうか。私も競プロ・Kaggle・Web開発・個人開発など様々な場面でAIコーディングを実践してきましたが、記事ごとに主張が微妙に違っていたり、ツール固有の話と汎用的な話が混ざっていたりして、整理が必要だと感じていま... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/epicai_techblog/articles/7bf1e878061ef5</guid>
-      <pubDate>Mon, 09 Feb 2026 09:00:02 +0000</pubDate>
+Windowsのもっさり感を多少なりとも改善する手をいろいろと考えまして、
+レジストリ操作で出来ることはないか、調べたのでまとめます
+初心者には禁断技であるレジストリ操作を行うので、
+書いてあることを行っても結果に責任は持ちませんし、バックアップはお願いしますね
+
+ レジストリエディタとは
+Windowsには標準でレジストリエディタというアプリがあって、
+これを使用してWindowsの内部設定を変更することで、
+通常の「設定」では出来ない事が出来るようになります
+このアプリの使用方法は、以前の記事にまとめているのでそちらを見てください
+https://zenn.dev/ma... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/maedan/articles/91caa405e30165</guid>
+      <pubDate>Wed, 11 Feb 2026 01:45:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIエージェントへの回答は y だけでよい</title>
+      <link>https://zenn.dev/kimushun1101/articles/ai-agent-y-response</link>
+      <description>はじめに
+Claude CodeやGemini CLIなどのAIコーディングエージェントをターミナルで使っていると、こんなやり取りが頻繁に発生すると思います。
+Claude: この方針で進めてよろしいですか？
+自分:   はい、お願いします。
+律儀に日本語で返していた頃の自分に教えてあげたい。
+y の一文字で十分だということを。
+
+ 2種類の「承認」がある
+まず前提として、AIコーディングエージェントには2種類の「承認」が存在します。
+
+ ツールUI承認
+ファイルの書き込みやコマンド実行など、ツール側が用意した許可プロンプトです。Claude Codeでは以下のような選択肢が表示され... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kimushun1101/articles/ai-agent-y-response</guid>
+      <pubDate>Wed, 11 Feb 2026 20:53:54 +0000</pubDate>
     </item>
     <item>
       <title>なぜ現場ではCTEで書かれたクエリが少ないのか</title>
@@ -108,30 +161,6 @@ CTEが使われにくいのは、次の4つが積み重なるからです。
 ORM中心の開発で... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/tonbi_attack/articles/560b025a188620</guid>
       <pubDate>Wed, 11 Feb 2026 07:58:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜ、「ElysiaJS」は爆速なのか</title>
-      <link>https://zenn.dev/gymynnym/articles/c326836dc035e4</link>
-      <description>はじめに
-
-かわいいバージョンの ElysiaJS のロゴ
-ElysiaJS は Bun エコシステムで最も使われるフレームワークで、高速で効率的で安定的なタイプシステムを誇ります。また、開発者経験（DX）が優れていて、個人的にも JS/TS ベースのウェブプロジェクトを開発する時、ElysiaJS をよく使っています。
-本記事では、なぜ ElysiaJS が他のフレームワークよりも魅力的なのかに関して、性能面で説明します。
-
-以後、ElysiaJS は Elysia と略します。
-
-
- Bun
-Elysia は基本的に Bun ランタイムを使うことを前提として開発されています。もち... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/gymynnym/articles/c326836dc035e4</guid>
-      <pubDate>Tue, 10 Feb 2026 07:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】Debianプロジェクト、開発者の「静かな離脱」に苦悩 ― MIA（行方不明者）対策の自動化を検討</title>
-      <link>https://techfeed.io/entries/698564d1bf1c6338a73ae9a3?from=rss</link>
-      <description>2月5日、Phoronixが「Debian's Challenge When Its Developers Quietly Drift Away」と題した記事を公開した。この記事では、Debianプロジェクトにおいてボランティアの開発者が静かに活動を離れてしまうことで生じる課題について詳しく紹介されている。以下に、その内容を紹介する。先月、Debianのデータ保護チームに誰もいなくなったというニュースが報じられたが、Debianでは過去にも様々な取り組みにおいてボランティアの人員確保が課題となってきた。Debianプロジェクトリーダー（DPL）であるAndreas Tille氏は、ボランティアの開発者が時間の制約や関心の変化などにより、プロジェクトに適切な通知を行わないまま静かに活動を離れてしまう「ドリフト（漂流）」の問題を注視している。直面している問題の本質は、ボランティアが貢献を止めること自体ではなく、それが他の開発者に伝わらないまま行われる点にある。特に特定のチームに委任されたメンバーが関与を止めたり、パッケージが徐々に未メンテナンスの状態になったりした場合、周囲がその離脱を把握 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/698564d1bf1c6338a73ae9a3?from=rss</guid>
-      <pubDate>Fri, 06 Feb 2026 03:49:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

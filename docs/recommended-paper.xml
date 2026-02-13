@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Feb 2026 07:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 07:04:41 +0000</lastBuildDate>
     <item>
-      <title>分割、調和、そして征服：マルチモーダル言語モデルによるマルチコモディティフロー問題の解決</title>
-      <link>https://arxiv.org/abs/2602.11057v1</link>
-      <description>マルチコモディティフロー（MCF）問題は、ネットワークフローと組合せ最適化における基礎的なトピックであり、交通、通信、物流など幅広い分野に応用されています。近年、アロケーションシステムの急速な拡大により、既存の最適化エンジンは最適性と扱いやすさのバランスを取ることが課題となっています。本論文では、サービスプロバイダーにとって大きなニーズであるトレードオフのジレンマに対処するために、マルチモーダル言語モデル（MLM）の推論能力を活用した初のMLベース手法であるPramを紹介します。提案の一環として、Pramは(i)元の問題をローカルなサブ問題に分割し、MLMを活用した「エージェント」によって解決することで、高品質なアロケーションを迅速に計算します。また、(ii)マルチエージェント強化学習アルゴリズムを用いてこれらのサブ問題を調和させることで、グローバルな一貫性を確保します。理論的には、コンテキスト内で勾配降下法を実行するPramが、MCF問題群において最適解に収束することが証明できることを示します。経験的に、実世界のデータセットと公開トポロジにおいて、Pramは線形計画法ソルバーに匹敵す (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.11057v1</guid>
-      <pubDate>Wed, 11 Feb 2026 17:24:49 +0000</pubDate>
+      <title>KAN-FIF: スプラインパラメータ化軽量物理ベース気象衛星による熱帯低気圧推定</title>
+      <link>https://arxiv.org/abs/2602.12117v1</link>
+      <description>熱帯低気圧（TC）は、最も破壊的な自然災害の一つであり、強風、大雨、高潮によって沿岸地域に壊滅的な被害をもたらします。熱帯低気圧のタイムリーな監視は、人命と財産の損失を軽減するために不可欠ですが、リソースに制約のあるエッジデバイスにおける既存の手法の計算効率の悪さとパラメータ数の増加によって、その実現が困難になっています。現在の物理法則に基づくモデルは、TC属性間の高次多項式関係を捉えられない線形特徴相互作用に悩まされており、モデルサイズの肥大化やハードウェアの非互換性につながります。これらの課題を克服するために、本研究では、MLP層とCNN層をスプラインパラメータ化されたKAN層と統合した軽量マルチモーダルアーキテクチャであるKolmogorov-Arnold Network-based Feature Interaction Framework（KAN-FIF）を紹介します。最大持続風速（MSW）予測において、KAN-FIFフレームワークは、ベースラインモデルのPhy-CoCoと比較して、パラメータが94.8%削減され（0.99MB vs. 19MB）、サンプルあたりの推論速度が6 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.12117v1</guid>
+      <pubDate>Thu, 12 Feb 2026 16:07:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
