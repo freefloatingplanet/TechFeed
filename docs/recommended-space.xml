@@ -7,48 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Feb 2026 07:04:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 06:53:10 +0000</lastBuildDate>
     <item>
-      <title>Synspective、エアバス子会社にSAR衛星データを提供へ–地球観測ポートフォリオに統合</title>
-      <link>https://uchubiz.com/article/new68991/</link>
-      <description>小型SAR衛星の開発やSARデータの販売などをするSynspective（東京都江東区）は2月10日、フランスの航空宇宙企業Airbusの子会社Airbus Defence and Space（以下「エアバス」）との、 […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new68991/</guid>
-      <pubDate>Tue, 10 Feb 2026 08:23:11 +0000</pubDate>
+      <title>アリアンスペースが「アリアン6」で「アマゾンレオ」の衛星32機を打ち上げ　ブースター4基形態の初飛行</title>
+      <link>https://sorae.info/ssn/20260213-va267.html</link>
+      <description>ヨーロッパ企業Arianespace（アリアンスペース）は日本時間2026年2月13日に「Ariane 6（アリアン6）」ロケットの打ち上げを実施しました。搭載されていたAmazon（アマゾン）の衛星は無事に軌道に投入さ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260213-va267.html</guid>
+      <pubDate>Fri, 13 Feb 2026 10:21:04 +0000</pubDate>
     </item>
     <item>
-      <title>QPS研究所、小型SAR衛星5号機 「ツクヨミ-Ⅰ」の商用運用を再開–2024年9月に不具合</title>
-      <link>https://uchubiz.com/article/new69009/</link>
-      <description>QPS研究所（福岡市中央区）は2月12日、一部の通信系統に不具合が生じていた同社の小型SAR衛星QPS-SAR5号機「ツクヨミ-Ⅰ」の復旧作業が完了し、商用運用を再開すると発表した。 　2023年12月に打ち上げられた […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new69009/</guid>
-      <pubDate>Thu, 12 Feb 2026 23:00:00 +0000</pubDate>
+      <title>ハッブル宇宙望遠鏡の膨大なデータからAIの力を借りて研究者が見つけた“特異な天体”の数々</title>
+      <link>https://sorae.info/astronomy/20260211-anomalous-objects-from-hubble-data-by-ai.html</link>
+      <description>こちらの6つの天体は、すべてハッブル宇宙望遠鏡（HST）の観測データから見つかった特異な天体たちの姿です。 左上の赤く輝くリングは、銀河が銀河を突き抜けるように衝突したことで形成された「環状銀河」。中央下や右下のゆがんだ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260211-anomalous-objects-from-hubble-data-by-ai.html</guid>
+      <pubDate>Wed, 11 Feb 2026 09:38:22 +0000</pubDate>
     </item>
     <item>
-      <title>「人工流れ星」のALE、3度目の挑戦で2028年度に宇宙実証へ–パートナー各社とも連携</title>
-      <link>https://uchubiz.com/article/new68952/</link>
-      <description>ALE（東京都港区）は2月4日、世界初の人工流れ星実証プロジェクト「Starlight Challenge」を発表した。2028年度中の打ち上げ実証を目指す。同社は2019年に衛星を2回打ち上げたが流星源の放出成功には […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new68952/</guid>
-      <pubDate>Wed, 04 Feb 2026 07:22:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vast、ISSの「民間有人ミッション」を初受注–アクシオム独占状態に変化</title>
-      <link>https://uchubiz.com/article/new69034/</link>
-      <description>米国の宇宙企業Vastは、NASAから国際宇宙ステーション（ISS）への「第6回 民間有人ミッション（Private Astronaut Mission）」の契約を獲得した。打ち上げは早ければ2027年夏を予定しており […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new69034/</guid>
-      <pubDate>Fri, 13 Feb 2026 04:35:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>スペースX、衛星衝突回避システム「Stargaze」を発表–他の衛星運用者に無料提供へ</title>
-      <link>https://uchubiz.com/article/new68922/</link>
-      <description>SpaceXは、地球低軌道の衛星衝突リスクを下げるシステム「Stargaze」を発表した。Starlink衛星群に搭載された光学センサーを使い、軌道上の物体を短時間で追跡する仕組みだ。今後数週間以内に多くの衛星運用者に […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new68922/</guid>
-      <pubDate>Sun, 01 Feb 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>「気球からロケット発射」のAstroXが23億円を調達–2026年内の宇宙空間到達を目指す</title>
-      <link>https://uchubiz.com/article/new68946/</link>
-      <description>AstroX（福島県南相馬市）は2月4日、総額23.2億円の資金調達を発表した。第三者割当増資の引受先は、One Capital、インクルージョン・ジャパン、エンジェル投資家。 　AstroXは、気球を用いて空中からロ […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new68946/</guid>
-      <pubDate>Wed, 04 Feb 2026 04:52:50 +0000</pubDate>
+      <title>じっと見つめる目のような惑星状星雲　ハッブル宇宙望遠鏡が観測した「ESO 456-67」</title>
+      <link>https://sorae.info/astronomy/20260210-eso-456-67.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した惑星状星雲「ESO 456-67」。 いて座の方向、約1万光年先にあります。 赤いリングの中に切れ込みが入った青い球体が埋め込まれているような構造は、どこか動物の目を思わせ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260210-eso-456-67.html</guid>
+      <pubDate>Tue, 10 Feb 2026 11:39:54 +0000</pubDate>
     </item>
     <item>
       <title>不動産探索ツールのWHERE、衛星データ解析と名簿データを連携して精度向上–住宅テックラボと</title>
@@ -65,11 +44,32 @@
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>ULA、「ヴァルカン」ロケットで米宇宙軍のペイロード打ち上げに成功もブースターに再び異常発生</title>
+      <link>https://sorae.info/ssn/20260213-vulcan-ussf-87.html</link>
+      <description>ULA（ユナイテッド・ローンチ・アライアンス）は日本時間2026年2月12日、「Vulcan（バルカン、ヴァルカン）」ロケットの打ち上げを実施しました。搭載されていたアメリカ宇宙軍のペイロードは予定されていた軌道への投入… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260213-vulcan-ussf-87.html</guid>
+      <pubDate>Fri, 13 Feb 2026 08:37:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>別府湾海底の放射性ヨウ素は「人新世」を示す　噴火や異常気象の痕跡も</title>
+      <link>https://sorae.info/science/20260212-beppu-bay-sediments.html</link>
+      <description>人為的な地球環境の改変を根拠に、「現在は新しい地質年代である『人新世』に区分される」という考えがあります。今のところ、人新世は正式な地質年代とはなっていませんが、どの指標を基準に人新世を定義するかについての議論が続いてい… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/science/20260212-beppu-bay-sediments.html</guid>
+      <pubDate>Thu, 12 Feb 2026 12:00:26 +0000</pubDate>
+    </item>
+    <item>
       <title>「重要インフラにおける衛星ベースの監視ニーズが高まっている」ドイツのAI企業LiveEO、インフラ監視に向けた自社の衛星開発とコンステレーション構築を発表【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/44551/</link>
       <description>2026年1月28日、ドイツのAI企業LiveEOは、国内インフラ監視向けの衛星コンステレーション「Twinspector」を打ち上げると発表しました。ドイツはこれまで、広範囲で高解像度の地球観測データを提供できる国内事業者が不足しており、他国に依存してきました。今回はこの課題解決に向けた取り組みとなります。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/44551/</guid>
       <pubDate>Sun, 08 Feb 2026 22:57:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>観測史上最遠の可能性　135億年前の初期宇宙に存在した銀河「MoM-z14」を発見</title>
+      <link>https://sorae.info/astronomy/20260212-mom-z14-jwst.html</link>
+      <description>こちらは、ジェームズ・ウェッブ宇宙望遠鏡（JWST）が観測した、ろくぶんぎ座の一角。右下にはその一部の拡大画像が挿入されています。 ノイズとして見落としてしまいそうなほど小さなこの光は、発表時点で観測史上最遠の可能性があ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260212-mom-z14-jwst.html</guid>
+      <pubDate>Thu, 12 Feb 2026 09:41:49 +0000</pubDate>
     </item>
     <item>
       <title>スペースX、対話型AI「Grok」開発のxAIを統合へ–宇宙データセンターを構築</title>

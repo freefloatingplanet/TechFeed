@@ -7,25 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Feb 2026 07:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 06:53:07 +0000</lastBuildDate>
     <item>
-      <title>AI VTuber開発日記 〜AIキャラクターの作成からOBSを用いたYouTube配信まで〜</title>
-      <link>https://zenn.dev/robustonian/articles/aituber_development_start</link>
+      <title>SLPの脆弱性を突いた攻撃について</title>
+      <link>https://qiita.com/jouse_sakamoto/items/2ab3e0048abd95ac7041?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-
- この記事の対象者
-
-これからAIキャラクターを作りたいと考えている
-OBS Studioの使い方やYouTube配信の方法が知りたい
-15日という限られた期間でどれくらいのことができるようになるのか知りたい
-
-
- 背景
-Shizuku AIが米VC大手から大型資金調達を受けて、企業価値が約120億円になったとのことでAI VTuberに興味を持った方も多いと思う。
-このニュースを受けて、これからAI VTuberやAIキャラクターを開発しようと考えている方向けに、私が15日間という限られた期間でAITuber開発をしたときの日記を公開することにした。
-半年ほど前の内容で... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/robustonian/articles/aituber_development_start</guid>
-      <pubDate>Wed, 11 Feb 2026 03:00:06 +0000</pubDate>
+こんにちは、三菱電機の坂本です。
+三菱電機　情報技術総合研究所では、製品開発時のセキュリティ対策にフィードバックする目的で、複数種類のハニーポットを設置・運用しています。
+運用しているハニーポットの1つに、IoT機器を応答機能に設置した「IoT家電ハニーポット」... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/jouse_sakamoto/items/2ab3e0048abd95ac7041?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 13 Feb 2026 00:31:23 +0000</pubDate>
     </item>
     <item>
       <title>Claudeちゃんと夜のお散歩をしてみた</title>
@@ -37,13 +28,6 @@ Shizuku AIが米VC大手から大型資金調達を受けて、企業価値が�
 前回の記事からわずか数日で、声の感情表現、ステレオビジョン（左目・右目）、カメラ制御のONVIF標準化、記憶システムの進化など、さまざまなアップデートが... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/nextbeat/articles/2026-02-embodied-claude-walk</guid>
       <pubDate>Thu, 12 Feb 2026 02:23:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chromeが重い人、Windows 11の「親切すぎる機能」が足を引っ張っているかも | ライフハッカー・ジャパン</title>
-      <link>https://www.lifehacker.jp/article/2602-hacks-every-google-chrome-user-should-know/</link>
-      <description>「Google Chromeはメモリを食い過ぎる」──そんな言葉も今や定番ですが、私の経験上、使い物にならないほど動作が酷くなることは滅多にありませんでした。 ところが最近、その「まさか」が起きたのです。 リサーチのために大量のタブを開きながら作業していたら、Chromeが突然、壁にぶつかったように動かなくなりました。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.lifehacker.jp/article/2602-hacks-every-google-chrome-user-should-know/</guid>
-      <pubDate>Thu, 12 Feb 2026 09:46:54 +0000</pubDate>
     </item>
     <item>
       <title>カンリー社内Claude Code勉強会の資料を公開します</title>
@@ -85,28 +69,6 @@ Claude Codeを使ったことはある、しかし使いこなす余地が残さ
       <pubDate>Wed, 11 Feb 2026 09:57:19 +0000</pubDate>
     </item>
     <item>
-      <title>「イーロンはすごいですが、ザッカーバーグはザルですよ」闇バイトのリクルーターが恐れるのは警察でもヤクザでもなくSNSのアルゴリズム変更だという話</title>
-      <link>https://togetter.com/li/2663358</link>
-      <description>草下シンヤ @kusakashinya 闇バイトのリクルーターが数年前に「警察もヤクザもそれほど問題ではない。本当に怖いのはイーロンマスク。アルゴリズムが変われば、一気にシゴトができなくなる」と言っていた。 先日、そのリクルーターからDMが来た。 「イーロンにやられました。Xから撤退してインスタにいきます」 Xの仕様... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2663358</guid>
-      <pubDate>Fri, 13 Feb 2026 05:29:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>一番の脆弱性は"人間のコードレビュー"だった</title>
-      <link>https://zenn.dev/smartvain/articles/ai-security-test-human-code-review-weakest</link>
-      <description>「LGTM 🚀」
-このたった4文字、何回書いてきただろう。
-PRが来て、差分を見て、ロジックを追って、「まあ問題なさそうだな」でApprove。正直、金曜の夕方に来た30ファイル変更のPRに対して、全行を真剣に読んだかと聞かれたら——答えに詰まる。
-たぶん、あなたもそうだと思う。
-
- はじめに
-認証・認可、入力バリデーション、そのあたりを「ちゃんとやってるつもり」で何年もやってきた。
-でも最近、自律型AIエージェントにセキュリティテストを任せてみたら、僕が一番信頼していた「人間のコードレビュー」が、実は一番のザルだったと気づいた。
-ツールを入れて満足する話じゃない。もっと手前の話だった。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/smartvain/articles/ai-security-test-human-code-review-weakest</guid>
-      <pubDate>Tue, 10 Feb 2026 09:07:36 +0000</pubDate>
-    </item>
-    <item>
       <title>Windowsの高速化をがんばってみた</title>
       <link>https://zenn.dev/maedan/articles/91caa405e30165</link>
       <description>はじめに
@@ -125,22 +87,12 @@ https://zenn.dev/ma... (source: Zennのトレンド)</description>
       <pubDate>Wed, 11 Feb 2026 01:45:23 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントへの回答は y だけでよい</title>
-      <link>https://zenn.dev/kimushun1101/articles/ai-agent-y-response</link>
-      <description>はじめに
-Claude CodeやGemini CLIなどのAIコーディングエージェントをターミナルで使っていると、こんなやり取りが頻繁に発生すると思います。
-Claude: この方針で進めてよろしいですか？
-自分:   はい、お願いします。
-律儀に日本語で返していた頃の自分に教えてあげたい。
-y の一文字で十分だということを。
-
- 2種類の「承認」がある
-まず前提として、AIコーディングエージェントには2種類の「承認」が存在します。
-
- ツールUI承認
-ファイルの書き込みやコマンド実行など、ツール側が用意した許可プロンプトです。Claude Codeでは以下のような選択肢が表示され... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kimushun1101/articles/ai-agent-y-response</guid>
-      <pubDate>Wed, 11 Feb 2026 20:53:54 +0000</pubDate>
+      <title>DLL Hell から .NET の自己完結型デプロイまで：30年の依存関係戦争</title>
+      <link>https://zenn.dev/takekazuomi/articles/dll-hell-over30y</link>
+      <description>miseに、dotnet(C#)を管理させようとして、dotnetの独自性に気が付かせられた。Microsoftには、コンシューマー向けの独自OSと、幅広い開発者コミュニティを抱え、かなり長い間（今も）バージョン問題に取り組んできた経験がある。その結果が、dotnet に集約されている。ここでは、その長い歴史を振り返り、現在の実装に至る道を再度辿る。
+Windows の DLL Hell は1990年代に開発者を苦しめた共有ライブラリのバージョン競合問題であり、.NET Framework では、これの解決も含め設計されたが、皮肉にもフレームワーク自体が新たな「DLL Hell」を生み出... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/takekazuomi/articles/dll-hell-over30y</guid>
+      <pubDate>Thu, 12 Feb 2026 13:18:37 +0000</pubDate>
     </item>
     <item>
       <title>なぜ現場ではCTEで書かれたクエリが少ないのか</title>
@@ -161,6 +113,41 @@ CTEが使われにくいのは、次の4つが積み重なるからです。
 ORM中心の開発で... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/tonbi_attack/articles/560b025a188620</guid>
       <pubDate>Wed, 11 Feb 2026 07:58:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Claude Code】Agent Teamを役割ではなく「4つの性格」で組んだら、議論の性質が変わった</title>
+      <link>https://zenn.dev/happy_elements/articles/d01195392ceb10</link>
+      <description>はじめに — Agent Teamをどう「編成」するか
+Claude CodeにAgent Teamが登場して、複数のエージェントを並列に動かせるようになりました。
+最初に考えたのは「役割で分ける」ことでした。フロントエンド担当、バックエンド担当、テスト担当。タスクを分割して、それぞれに任せる。効率的に見えます。
+これはタスクを並列に処理したい場面では有効です。ただ、設計判断など 「考える」ことが中心のタスクでは、別のアプローチもあるのではないかと感じました。
+「役割」ではなく「考え方」で分けたらどうなるか——そこで試したのが 「性格で分ける」 というアプローチでした。
+
+ 4つの性... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/happy_elements/articles/d01195392ceb10</guid>
+      <pubDate>Fri, 13 Feb 2026 06:41:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>解像度が低いのに、プロンプトなど書けるわけがない。</title>
+      <link>https://zenn.dev/recurrenthub/articles/1e0e30f7037dd9</link>
+      <description>「そのプロンプト、どうやって作ったの？」
+AIを使ってアウトプットを出していると、こう聞かれることがあります。まるで、手元に「魔法の呪文」が書かれた巻物があるかのように。
+しかし、答えはいつも相手を困惑させます。
+「プロンプト？ 作ってないよ。壁打ちして、結果が出たら、それをAIに再現させるためのプロンプトを逆生成させてるだけ」
+多くの人は、この「順序」が逆です。最初から完璧な指示書（プロンプト）を書こうとして、画面の前でフリーズします。あるいは、適当な指示を投げて、出てきた平凡な回答に「AIってこんなもんか」と失望します。
+自分の中に答えがないのに、AIが一発で望む回答など出してくれる... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/recurrenthub/articles/1e0e30f7037dd9</guid>
+      <pubDate>Thu, 12 Feb 2026 08:59:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>React, Vue, Svelteの「危険なHTML挿入」と「javascript: URL」の実装を読み比べてみた</title>
+      <link>https://zenn.dev/akito_tsukahara/articles/1d15cb875b0f82</link>
+      <description>1. はじめに
+普段の開発でReactやVue、Svelteを使っていると、XSS対策は「フレームワークがよしなにやってくれるもの」という感覚があります。実際、どのフレームワークもデフォルトで自動エスケープを実装しており、基本的なXSSは防いでくれます。
+では、その裏側で具体的に何が行われているのか、気になったことはないでしょうか。前回の記事ではLaravelのCSRF対策の内部実装を追いましたが、今回はフロントエンドフレームワークのセキュリティ実装を覗いてみることにしました。
+調べてみると、同じ「XSSを防ぐ」という目的でも、フレームワークごとにアプローチが違うことに気づきました。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/akito_tsukahara/articles/1d15cb875b0f82</guid>
+      <pubDate>Thu, 12 Feb 2026 14:39:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
