@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Feb 2026 06:53:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 06:57:01 +0000</lastBuildDate>
     <item>
       <title>アリアンスペースが「アリアン6」で「アマゾンレオ」の衛星32機を打ち上げ　ブースター4基形態の初飛行</title>
       <link>https://sorae.info/ssn/20260213-va267.html</link>
@@ -30,6 +30,13 @@
       <pubDate>Tue, 10 Feb 2026 11:39:54 +0000</pubDate>
     </item>
     <item>
+      <title>ULA、「ヴァルカン」ロケットで米宇宙軍のペイロード打ち上げに成功もブースターに再び異常発生</title>
+      <link>https://sorae.info/ssn/20260213-vulcan-ussf-87.html</link>
+      <description>ULA（ユナイテッド・ローンチ・アライアンス）は日本時間2026年2月12日、「Vulcan（バルカン、ヴァルカン）」ロケットの打ち上げを実施しました。搭載されていたアメリカ宇宙軍のペイロードは予定されていた軌道への投入… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260213-vulcan-ussf-87.html</guid>
+      <pubDate>Fri, 13 Feb 2026 08:37:28 +0000</pubDate>
+    </item>
+    <item>
       <title>不動産探索ツールのWHERE、衛星データ解析と名簿データを連携して精度向上–住宅テックラボと</title>
       <link>https://uchubiz.com/article/new68969/</link>
       <description>JAXA発スタートアップのWHERE（東京都文京区）は2月6日、住宅テックラボ（東京都渋谷区）のオーナーサーチデータと連携することを発表した。両社は衛星データとAIを軸にした不動産AIツール「WHERE」の機能を拡張し […] (source: Uchubiz)</description>
@@ -42,13 +49,6 @@
       <description>NASAは、有人月周回ミッション「アルテミス2」の打ち上げ前試験であるウェット・ドレス・リハーサルのスケジュールを再調整したと発表した。搭乗予定の4人の乗組員はすでにヒューストンで隔離期間に入っており、健康管理と出発準 […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new68918/</guid>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ULA、「ヴァルカン」ロケットで米宇宙軍のペイロード打ち上げに成功もブースターに再び異常発生</title>
-      <link>https://sorae.info/ssn/20260213-vulcan-ussf-87.html</link>
-      <description>ULA（ユナイテッド・ローンチ・アライアンス）は日本時間2026年2月12日、「Vulcan（バルカン、ヴァルカン）」ロケットの打ち上げを実施しました。搭載されていたアメリカ宇宙軍のペイロードは予定されていた軌道への投入… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260213-vulcan-ussf-87.html</guid>
-      <pubDate>Fri, 13 Feb 2026 08:37:28 +0000</pubDate>
     </item>
     <item>
       <title>別府湾海底の放射性ヨウ素は「人新世」を示す　噴火や異常気象の痕跡も</title>

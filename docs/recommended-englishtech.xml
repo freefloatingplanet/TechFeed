@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Feb 2026 06:53:17 +0000</lastBuildDate>
-    <item>
-      <title>Rokuは収益性向上の取り組みの一環としてストリーミングバンドルを開始する予定</title>
-      <link>https://techcrunch.com/2026/02/13/roku-to-launch-streaming-bundles-as-part-of-its-efforts-to-continue-growing-its-profitability/</link>
-      <description>Rokuは第4四半期に8,050万ドルの純利益を計上し、素晴らしい業績を達成しました。同社はストリーミングバンドルに関する計画も発表しました。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/02/13/roku-to-launch-streaming-bundles-as-part-of-its-efforts-to-continue-growing-its-profitability/</guid>
-      <pubDate>Fri, 13 Feb 2026 16:39:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>信用力の高い人向けの出会い系アプリ「スコア」が復活</title>
-      <link>https://techcrunch.com/2026/02/13/score-the-dating-app-for-good-to-excellent-credit-returns-for-everyone-to-use/</link>
-      <description>2年前、信用度が「良好」から「優良」の人向けに、物議を醸した出会い系アプリがリリースされ、すぐに閉鎖されました。しかし今、創設者は誰でも利用できるアプリとして再リリースしようとしています。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/02/13/score-the-dating-app-for-good-to-excellent-credit-returns-for-everyone-to-use/</guid>
-      <pubDate>Fri, 13 Feb 2026 14:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Feb 2026 06:57:07 +0000</lastBuildDate>
     <item>
       <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
@@ -37,11 +23,25 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Nuxt Studio リリース: 制作現場でのコンテンツ編集を可能にするオープンソース CMS</title>
+      <link>https://www.infoq.com/news/2026/02/nuxt-studio-cms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Nuxt Studio のご紹介：Nuxt ウェブサイト向けの究極のオープンソース コンテンツ管理ソリューション。強力なセルフホスト型モジュールでコンテンツを完全にコントロールできます。直感的なビジュアルエディタ、リアルタイムプレビュー、そしてシームレスな Git 統合により、開発ワークフローを効率化し、コンテンツクリエイターのギャップを埋めます。今すぐチームの潜在能力を解き放ちましょう！ Daniel Curtis (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/nuxt-studio-cms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 14 Feb 2026 08:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>OpenAI、ChatGPT向けに単一のプライマリPostgreSQLインスタンスを1秒あたり数百万クエリまで拡張</title>
       <link>https://www.infoq.com/news/2026/02/openai-runs-chatgpt-postgres/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>OpenAIは、ChatGPTとそのAPIプラットフォームをサポートするためにPostgreSQLを拡張し、数億人のユーザーに対して毎秒数百万件のクエリを処理できるようにした方法について説明しました。Azure上で50個近くのリードレプリカを備えた単一プライマリPostgreSQLデプロイメントを実行し、クエリパターンを最適化し、書き込み負荷の高いワークロードをシャードシステムにオフロードすることで、OpenAIは書き込み負荷を管理しながら低レイテンシの読み取りを維持しました。リーラ・クミリ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/02/openai-runs-chatgpt-postgres/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Firestore が 100 以上の新しいクエリ機能を備えたパイプライン操作を追加</title>
+      <link>https://www.infoq.com/news/2026/02/firestore-enterprise-pipeline/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>GoogleはFirestoreのクエリエンジンを刷新し、「パイプライン操作」を導入しました。これにより、複雑なサーバーサイド集計と配列のネスト解除が可能になります。このアップデートにより、Firestore Enterpriseはオプションのインデックスモデルに移行し、アーキテクトは書き込み速度を優先し、コストを削減できるようになります。MongoDBスタイルの集計機能と同等の性能を実現しますが、プレビュー版ではリアルタイム性とエミュレーターのサポートが現時点では不足しています。Steef-Jan Wiggers著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/firestore-enterprise-pipeline/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 14 Feb 2026 10:11:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
@@ -58,18 +58,18 @@
       <pubDate>Wed, 11 Feb 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>16人のクロードエージェントが人間の介入なしにCコンパイラを構築しました...ほぼ</title>
+      <link>https://www.infoq.com/news/2026/02/claude-built-c-compiler/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>自律ソフトウェア開発の限界を探るため、Anthropicは16個のClaude Opus 4.6 AIエージェントを用いて、RustベースのCコンパイラをゼロから構築しました。共有リポジトリ上で並行して作業するエージェントは、変更を調整し、最終的にx86、ARM、RISC-V、そしてその他多くのオープンソースプロジェクトでLinux 6.9カーネルを構築できるコンパイラを開発しました。Sergio De Simone著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/claude-built-c-compiler/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 14 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>プレゼンテーション: 大規模実世界アプリケーション向け埋め込みモデルの構築</title>
       <link>https://www.infoq.com/presentations/llm-large-scale-applications/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>Sahil Dua氏は、大規模な検索およびRAGアプリケーションの実現における埋め込みモデルの重要な役割について解説します。Transformerベースのアーキテクチャ、対照学習手法、そして大規模な言語モデルを本番環境対応の学習モデルへと昇華させるプロセスについて解説します。クエリレイテンシの最適化、ドキュメントインデックスの処理、検索品質の評価に関する知見も共有します。Sahil Dua氏 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/llm-large-scale-applications/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Fri, 13 Feb 2026 15:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pandas 3.0 ではデフォルトの文字列型とコピーオンライトセマンティクスが導入されました</title>
-      <link>https://www.infoq.com/news/2026/02/pandas-library/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>pandasチームは、文字列処理、メモリセマンティクス、日時解決に関するコア動作を変更するメジャーアップデートであるpandas 3.0.0をリリースしました。また、非推奨機能を大幅に削除しました。このリリースでは、ライブラリAPIのコア動作にいくつかの変更が加えられています。Robert Krzaczyński著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/pandas-library/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 11 Feb 2026 08:40:00 +0000</pubDate>
     </item>
     <item>
       <title>WhatsApp、30億台のデバイスでマルウェアをブロックするためにRustベースのメディアパーサーを導入</title>

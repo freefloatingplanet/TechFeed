@@ -7,16 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Feb 2026 06:53:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 06:56:55 +0000</lastBuildDate>
     <item>
-      <title>SLPの脆弱性を突いた攻撃について</title>
-      <link>https://qiita.com/jouse_sakamoto/items/2ab3e0048abd95ac7041?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-こんにちは、三菱電機の坂本です。
-三菱電機　情報技術総合研究所では、製品開発時のセキュリティ対策にフィードバックする目的で、複数種類のハニーポットを設置・運用しています。
-運用しているハニーポットの1つに、IoT機器を応答機能に設置した「IoT家電ハニーポット」... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/jouse_sakamoto/items/2ab3e0048abd95ac7041?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 13 Feb 2026 00:31:23 +0000</pubDate>
+      <title>南陽市が何故、「生成AIデバイド対策」に取り組んだのか｜佐野毅</title>
+      <link>https://note.com/ichigonme/n/n9e29af7808e9</link>
+      <description>プロローグ：先日、南陽市の「生成AIのプロンプト（指示文）をホームページで公開する」という行政ではありえない取り組みが、『People Innovation Awards 2026』という全国的なアワードで、「チャレンジ賞」に選ばれました。 「市役所が生成AIのプロンプト（指示文）を配っている？それがどうして表彰されるの？」と思... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/ichigonme/n/n9e29af7808e9</guid>
+      <pubDate>Sun, 15 Feb 2026 04:40:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>いい加減重い腰を上げてNeovimへ移行した</title>
+      <link>https://zenn.dev/sonicmoov/articles/cddd50d644ac86</link>
+      <description>知人の話などから移行したいとは思っていたものの、 最近は仕事ではIDEでの開発が多くVimを使い込む機会もそこまでなく、騙し騙しVimを使い続けてしまっていました。
+いい加減そろそろかなと思い年末年始の休みを利用して移行したのでざっくりまとめます。
+
+ 移行したプラグイン・所感
+
+ plugin manager
+
+ dein.vim -&gt; lazy.nvim
+
+遅延読み込みもそうですが、プラグインごとの設定を構造的に管理しやすくなったことに意義を感じています。
+
+ syntax系
+
+ vim-polyglot -&gt; nvim-treesitter
+
+tree-sitter製の... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sonicmoov/articles/cddd50d644ac86</guid>
+      <pubDate>Fri, 13 Feb 2026 08:23:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>解像度が低いのに、プロンプトなど書けるわけがない。</title>
+      <link>https://zenn.dev/recurrenthub/articles/1e0e30f7037dd9</link>
+      <description>「そのプロンプト、どうやって作ったの？」 AIを使ってアウトプットを出していると、こう聞かれることがあります。まるで、手元に「魔法の呪文」が書かれた巻物があるかのように。 しかし、答えはいつも相手を困惑させます。 「プロンプト？ 作ってないよ。壁打ちして、結果が出たら、それをAIに再現させるためのプロン... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/recurrenthub/articles/1e0e30f7037dd9</guid>
+      <pubDate>Sat, 14 Feb 2026 01:40:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIコーディング時代のレビュー負荷を可視化したい！ —— GASとGitHub APIで「誰がどのくらいレビューしたか」をSlackに通知する仕組み - SmartHR Tech Blog</title>
+      <link>https://tech.smarthr.jp/entry/2026/02/10/162401</link>
+      <description>こんにちは。SmartHRでプロダクトエンジニアをしているmatsugenです。 昨今、開発におけるAI活用が随分と進み、開発速度の向上を日々実感しています。一方で、開発速度が上がると Pull Request（以下 PR）の数も増えます。そうなると、レビューの負荷も増大します。 私が所属するチームでは、レビューの負荷を可視化する... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech.smarthr.jp/entry/2026/02/10/162401</guid>
+      <pubDate>Thu, 12 Feb 2026 03:21:08 +0000</pubDate>
     </item>
     <item>
       <title>Claudeちゃんと夜のお散歩をしてみた</title>
@@ -30,124 +63,75 @@
       <pubDate>Thu, 12 Feb 2026 02:23:53 +0000</pubDate>
     </item>
     <item>
-      <title>カンリー社内Claude Code勉強会の資料を公開します</title>
-      <link>https://zenn.dev/canly/articles/cc0891517e45cc</link>
-      <description>本記事について
-株式会社カンリーでは、2025年6月頃から全エンジニア向けにClaude Codeを導入しています。
-それ以前にDevinやCursorなども導入しており、現在ではこれら3ツールを個人の裁量で使い分けて業務をしています。
-その中においてツールの理解度・習熟度は個人でばらつきがあり、組織として活用レベルを一段上げたいと考えて勉強会を実施しました。
-本記事はその際の資料をほぼそのまま掲載したものとなります。
-Claude Codeを使ったことはある、しかし使いこなす余地が残されている方向けの資料です。
-
- なぜ今Claude Codeを学ぶのか
-
- 「人間がコードを書く時... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/canly/articles/cc0891517e45cc</guid>
-      <pubDate>Thu, 12 Feb 2026 04:38:34 +0000</pubDate>
+      <title>技術発信を後回しにした私が、転職で詰んだ話。</title>
+      <link>https://zenn.dev/igz0/articles/skill-without-proof</link>
+      <description>書類選考の結果通知を開くたび、目に入るのは「お祈りメール」ばかりだった。 当時の私は「実力が足りないから落ちるのだ」と思い込んでいた。だが今振り返ると、それは半分しか正解ではない。 足りなかったのは実力そのものだけではなく、実力を外に伝える材料だった。 私は新卒時代、技術発信を「すごい人がやるもの」... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/igz0/articles/skill-without-proof</guid>
+      <pubDate>Sat, 14 Feb 2026 10:21:11 +0000</pubDate>
     </item>
     <item>
-      <title>ウォーターフォールを成功させるには、結局先の工程に取りかからないと厳しいと思った話</title>
-      <link>https://zenn.dev/tonbi_attack/articles/c07206607bb3b1</link>
+      <title>未経験エンジニアが crypto.randomUUID() で詰まった話（スマホで動かなかった）</title>
+      <link>https://zenn.dev/crebo_tech/articles/4d263f0a3757de</link>
       <description>はじめに
-ウォーターフォールは、要件定義から順番に進める前提で語られることが多いです。私も最初はそのイメージで進めていました。
-ただ、実務で何度か痛い目を見て、結局は先の工程に早めに触れないと成立しない場面が多いと感じるようになりました。
-この記事で言いたいことはシンプルです。
-工程を崩したいのではなく、前工程の精度を上げるために、先の工程の情報を先に取りにいく必要があるという話です。
+未経験からエンジニアを目指し、Reactで個人開発を進めています。
+その中で、id生成に crypto.randomUUID() を使っていました。
+PCのホスト環境では問題なく動いていたのですが、
+ある日スマホ（iPhone）で確認したところ、
+フォームで入力された内容が画面に表示されなくなりました。
+今回は、そのときに学んだことをまとめます。
 
- よくある前提
-ウォーターフォールの説明では、次のような順序が理想形として置かれます。
 
-要件定義
-基本設計
-詳細設計
-実装
-テスト
+ 起きたこと
+PCでは問題なく動作していました。
+const id = crypto.randomUUID();
+しかし、スマホで開くと正常に動作しない。
+最初は、
 
-この順序自体は間違っていません。
-ただし、既存システム改修では... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tonbi_attack/articles/c07206607bb3b1</guid>
-      <pubDate>Wed, 11 Feb 2026 09:57:19 +0000</pubDate>
+
+「コードのどこかが間違っているのでは？」
+
+
+「自分の理... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/crebo_tech/articles/4d263f0a3757de</guid>
+      <pubDate>Fri, 13 Feb 2026 04:38:24 +0000</pubDate>
     </item>
     <item>
-      <title>Windowsの高速化をがんばってみた</title>
-      <link>https://zenn.dev/maedan/articles/91caa405e30165</link>
+      <title>ClaudeでPRレビュー対応を爆速化する</title>
+      <link>https://zenn.dev/datum_studio/articles/c5c5dcb87a70f1</link>
       <description>はじめに
-Windowsのもっさり感を多少なりとも改善する手をいろいろと考えまして、
-レジストリ操作で出来ることはないか、調べたのでまとめます
-初心者には禁断技であるレジストリ操作を行うので、
-書いてあることを行っても結果に責任は持ちませんし、バックアップはお願いしますね
+こんにちは、データエンジニアの山口歩夢です。
+PRを出してレビューで複数の修正のコメントをもらった際、一つ一つ直すのは手間がかかるかと思います。自分自身、微修正依頼が複数あった場合など、Claude Codeを使って一気に直せたら便利なのになと思いました。
+こうしたPRレビュー対応を一括対応するためのSkillsを作ってみたので、本記事ではそちらについて紹介しようと思います。
 
- レジストリエディタとは
-Windowsには標準でレジストリエディタというアプリがあって、
-これを使用してWindowsの内部設定を変更することで、
-通常の「設定」では出来ない事が出来るようになります
-このアプリの使用方法は、以前の記事にまとめているのでそちらを見てください
-https://zenn.dev/ma... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/maedan/articles/91caa405e30165</guid>
-      <pubDate>Wed, 11 Feb 2026 01:45:23 +0000</pubDate>
+ 作成したSkillsの概要
+早速、作成したSkillsの概要を紹介します。
+本記事では、このSkillsの名前を「pr-review-fixer」として、使い方や機能についてご紹介していければと思... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/datum_studio/articles/c5c5dcb87a70f1</guid>
+      <pubDate>Sat, 14 Feb 2026 02:01:33 +0000</pubDate>
     </item>
     <item>
-      <title>DLL Hell から .NET の自己完結型デプロイまで：30年の依存関係戦争</title>
-      <link>https://zenn.dev/takekazuomi/articles/dll-hell-over30y</link>
-      <description>miseに、dotnet(C#)を管理させようとして、dotnetの独自性に気が付かせられた。Microsoftには、コンシューマー向けの独自OSと、幅広い開発者コミュニティを抱え、かなり長い間（今も）バージョン問題に取り組んできた経験がある。その結果が、dotnet に集約されている。ここでは、その長い歴史を振り返り、現在の実装に至る道を再度辿る。
-Windows の DLL Hell は1990年代に開発者を苦しめた共有ライブラリのバージョン競合問題であり、.NET Framework では、これの解決も含め設計されたが、皮肉にもフレームワーク自体が新たな「DLL Hell」を生み出... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/takekazuomi/articles/dll-hell-over30y</guid>
-      <pubDate>Thu, 12 Feb 2026 13:18:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜ現場ではCTEで書かれたクエリが少ないのか</title>
-      <link>https://zenn.dev/tonbi_attack/articles/560b025a188620</link>
-      <description>はじめに
-CTEはSQLを整理しやすくする便利な構文です。
-それでも実務では、CTEよりサブクエリや一時テーブル中心のクエリをよく見かけます。
-これは好みの問題だけではありません。
-歴史的背景、データベースの最適化特性、チームのレビュー体制、ORMの使い方といった複数の要因が重なって起きています。
-この記事では、現場でCTEが少なくなりやすい理由を客観的に整理します。
+      <title>大規模設計で学んだ「抽象化」の力：関数型的にシステムを捉えるコツ</title>
+      <link>https://zenn.dev/uma002/articles/architecture-abstraction-patterns</link>
+      <description>概要
+最近、1ヶ月ほど続く大規模なプロジェクトの設計フェーズに携わっていました。その中で得た大きな学びは、 「設計作業において、一度詳細を捨てて抽象化して考えること」 の圧倒的な有用性です。
+本記事では、設計の迷いを解消し、チームでの議論を加速させるための「抽象化のコツ」について、実体験をもとにまとめます。
 
- 結論
-CTEが使われにくいのは、次の4つが積み重なるからです。
+ 背景：なぜ抽象化が必要だったのか
+大規模なプロジェクトでは、扱うインフラリソースやビジネスロジックが膨大になります。詳細な仕様に目を向けすぎると、「木を見て森を見ず」の状態に陥り、以下のような課題に直面しました。
 
-歴史的に、CTEを使えない時代が長かった
-クエリ次第で、実行計画が不利になることがある
-読み手とレビュワーの習熟度に差が出やすい
-ORM中心の開発で... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tonbi_attack/articles/560b025a188620</guid>
-      <pubDate>Wed, 11 Feb 2026 07:58:07 +0000</pubDate>
+インフラコンポーネントをどの単位で分割すべきか確信が持てない... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/uma002/articles/architecture-abstraction-patterns</guid>
+      <pubDate>Fri, 13 Feb 2026 13:07:44 +0000</pubDate>
     </item>
     <item>
-      <title>【Claude Code】Agent Teamを役割ではなく「4つの性格」で組んだら、議論の性質が変わった</title>
-      <link>https://zenn.dev/happy_elements/articles/d01195392ceb10</link>
-      <description>はじめに — Agent Teamをどう「編成」するか
-Claude CodeにAgent Teamが登場して、複数のエージェントを並列に動かせるようになりました。
-最初に考えたのは「役割で分ける」ことでした。フロントエンド担当、バックエンド担当、テスト担当。タスクを分割して、それぞれに任せる。効率的に見えます。
-これはタスクを並列に処理したい場面では有効です。ただ、設計判断など 「考える」ことが中心のタスクでは、別のアプローチもあるのではないかと感じました。
-「役割」ではなく「考え方」で分けたらどうなるか——そこで試したのが 「性格で分ける」 というアプローチでした。
-
- 4つの性... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/happy_elements/articles/d01195392ceb10</guid>
-      <pubDate>Fri, 13 Feb 2026 06:41:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>解像度が低いのに、プロンプトなど書けるわけがない。</title>
-      <link>https://zenn.dev/recurrenthub/articles/1e0e30f7037dd9</link>
-      <description>「そのプロンプト、どうやって作ったの？」
-AIを使ってアウトプットを出していると、こう聞かれることがあります。まるで、手元に「魔法の呪文」が書かれた巻物があるかのように。
-しかし、答えはいつも相手を困惑させます。
-「プロンプト？ 作ってないよ。壁打ちして、結果が出たら、それをAIに再現させるためのプロンプトを逆生成させてるだけ」
-多くの人は、この「順序」が逆です。最初から完璧な指示書（プロンプト）を書こうとして、画面の前でフリーズします。あるいは、適当な指示を投げて、出てきた平凡な回答に「AIってこんなもんか」と失望します。
-自分の中に答えがないのに、AIが一発で望む回答など出してくれる... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/recurrenthub/articles/1e0e30f7037dd9</guid>
-      <pubDate>Thu, 12 Feb 2026 08:59:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>React, Vue, Svelteの「危険なHTML挿入」と「javascript: URL」の実装を読み比べてみた</title>
-      <link>https://zenn.dev/akito_tsukahara/articles/1d15cb875b0f82</link>
-      <description>1. はじめに
-普段の開発でReactやVue、Svelteを使っていると、XSS対策は「フレームワークがよしなにやってくれるもの」という感覚があります。実際、どのフレームワークもデフォルトで自動エスケープを実装しており、基本的なXSSは防いでくれます。
-では、その裏側で具体的に何が行われているのか、気になったことはないでしょうか。前回の記事ではLaravelのCSRF対策の内部実装を追いましたが、今回はフロントエンドフレームワークのセキュリティ実装を覗いてみることにしました。
-調べてみると、同じ「XSSを防ぐ」という目的でも、フレームワークごとにアプローチが違うことに気づきました。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/akito_tsukahara/articles/1d15cb875b0f82</guid>
-      <pubDate>Thu, 12 Feb 2026 14:39:48 +0000</pubDate>
+      <title>Agent Teams＋Skillsでエージェント3体と1週間働いたら、"自分の仕事"が再定義された</title>
+      <link>https://zenn.dev/neurostack_0001/articles/agent-teams-one-week-redefine-work</link>
+      <description>「AIに指示を出す側」のつもりが、自分がボトルネックだった
+Claude Codeを使い始めて半年、自分は「AIを使いこなしている側」だと思っていました。プロンプトを書いて、コードを生成させて、レビューして、マージする。効率は確かに上がっていた。
+でも、ある日気づいたんです。毎回同じレビュー指摘を口頭で伝えている自分がいることに。AIに「レビューして」と頼んでも、観点がブレる。テストを書かせても、戦略がない。結局、自分がすべての判断を下していて、AIは「ちょっと賢いコード生成機」止まりだった。
+そこで試したのが、Agent TeamsとSkillsを組み合わせた運用です。1週間実務に... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/neurostack_0001/articles/agent-teams-one-week-redefine-work</guid>
+      <pubDate>Fri, 13 Feb 2026 17:18:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
