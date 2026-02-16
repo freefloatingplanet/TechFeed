@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Feb 2026 06:57:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 07:09:32 +0000</lastBuildDate>
     <item>
-      <title>KAN-FIF: スプラインパラメータ化軽量物理ベース気象衛星による熱帯低気圧推定</title>
-      <link>https://arxiv.org/abs/2602.12117v1</link>
-      <description>熱帯低気圧（TC）は、最も破壊的な自然災害の一つであり、強風、大雨、高潮によって沿岸地域に壊滅的な被害をもたらします。熱帯低気圧のタイムリーな監視は、人命と財産の損失を軽減するために不可欠ですが、リソースに制約のあるエッジデバイスにおける既存の手法の計算効率の悪さとパラメータ数の増加によって、その実現が困難になっています。現在の物理法則に基づくモデルは、TC属性間の高次多項式関係を捉えられない線形特徴相互作用に悩まされており、モデルサイズの肥大化やハードウェアの非互換性につながります。これらの課題を克服するために、本研究では、MLP層とCNN層をスプラインパラメータ化されたKAN層と統合した軽量マルチモーダルアーキテクチャであるKolmogorov-Arnold Network-based Feature Interaction Framework（KAN-FIF）を紹介します。最大持続風速（MSW）予測において、KAN-FIFフレームワークは、ベースラインモデルのPhy-CoCoと比較して、パラメータが94.8%削減され（0.99MB vs. 19MB）、サンプルあたりの推論速度が6 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.12117v1</guid>
-      <pubDate>Thu, 12 Feb 2026 16:07:39 +0000</pubDate>
+      <title>ギャップとリング：拡張した原始惑星系円盤のほぼ普遍的な特徴</title>
+      <link>https://arxiv.org/abs/2602.12906v1</link>
+      <description>リング、ギャップ、空洞といった下部構造は原始惑星系円盤で一般的に観測されており、ダストの進化と惑星形成において重要な役割を果たすと考えられています。しかしながら、近傍の星形成領域にある拡張円盤の一部（ダスト半径30 AU超の68%）は未解明のままであり、その下部構造の内容は不明確です。そのため、円盤全体におけるダストの進化と惑星形成の初期条件に関する理解は限定的です。本研究では、これまで未解明であった拡張円盤における下部構造の存在を調査し、太陽系近傍の拡張原始惑星系円盤の全てが下部構造を有するかどうかを評価することを目指します。我々は、これまで解像できなかった200パーセク以内の26個の拡張円盤について、1.33 mmでのALMAバンド6連続波による高解像度（$\sim$0.12"）観測結果を発表する。これにより、おうし座、へびつかい座、カメレオン座、おおかみ座、さそり座上部、ケンタウルス座上部おおかみ座、ケンタウルス座下部南十字星の拡張円盤の高解像度サンプルが完成した。フランケンシュタインとガラリオを用いて放射強度プロファイルを解析し、下部構造を検出した。17個の円盤は明確な下部構造 (source: arXiv Query: search_query=all:observation AND (all:star OR all:stellar) AND (all:formation OR all:forming OR all:star-forming) AND (all:region OR all:regions OR all:cluster) AND ( (all:planetary AND all:mass) OR (all:brown AND all:dwarf) OR (all:free AND all:floating) )&amp;id_list=&amp;start=0&amp;max_results=20)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.12906v1</guid>
+      <pubDate>Fri, 13 Feb 2026 13:06:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

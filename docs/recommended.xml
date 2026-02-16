@@ -7,107 +7,47 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Feb 2026 06:56:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 07:09:25 +0000</lastBuildDate>
     <item>
-      <title>南陽市が何故、「生成AIデバイド対策」に取り組んだのか｜佐野毅</title>
-      <link>https://note.com/ichigonme/n/n9e29af7808e9</link>
-      <description>プロローグ：先日、南陽市の「生成AIのプロンプト（指示文）をホームページで公開する」という行政ではありえない取り組みが、『People Innovation Awards 2026』という全国的なアワードで、「チャレンジ賞」に選ばれました。 「市役所が生成AIのプロンプト（指示文）を配っている？それがどうして表彰されるの？」と思... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/ichigonme/n/n9e29af7808e9</guid>
-      <pubDate>Sun, 15 Feb 2026 04:40:48 +0000</pubDate>
+      <title>useEffect で API を叩くのを卒業しよう</title>
+      <link>https://zenn.dev/ashunar0/articles/32419c3c60cc53</link>
+      <description>はじめに 「useEffectでデータ取得するのはやめた方がいい」— こんな話を聞いたことはないだろうか。 でも自分はずっと、useEffect + fetch でAPIを叩いていた。中でtry-catchして、useStateにセットして、ローディングもエラーも自分で管理して。チュートリアルで覚えたそのパターンを、特に疑うこともなく使い続けてい... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/ashunar0/articles/32419c3c60cc53</guid>
+      <pubDate>Sun, 15 Feb 2026 10:06:25 +0000</pubDate>
     </item>
     <item>
-      <title>いい加減重い腰を上げてNeovimへ移行した</title>
-      <link>https://zenn.dev/sonicmoov/articles/cddd50d644ac86</link>
-      <description>知人の話などから移行したいとは思っていたものの、 最近は仕事ではIDEでの開発が多くVimを使い込む機会もそこまでなく、騙し騙しVimを使い続けてしまっていました。
-いい加減そろそろかなと思い年末年始の休みを利用して移行したのでざっくりまとめます。
+      <title>非エンジニアがClaude Codeでアプリを作って公開した全記録</title>
+      <link>https://zenn.dev/tiaroka/articles/f6a0187b721607</link>
+      <description>自作したタスク管理アプリ「長い長いノート」
+このアプリを、エンジニアではない人間がAIコーディングツールだけで作りました。
+私はライターです。コードを自分でゼロから書く力はないし、読めているのかも正直自信がない。そんな人間が、Claude Codeを使ってWebアプリを開発し、本番環境にデプロイして、実際にユーザーに使ってもらうところまでやりました。
+かかった期間は約4ヶ月。Claude Codeの前で手を動かした時間は合計で約20時間（調べ物やバグの再現確認にかけた時間は含まない）。これはその全記録です。
 
- 移行したプラグイン・所感
-
- plugin manager
-
- dein.vim -&gt; lazy.nvim
-
-遅延読み込みもそうですが、プラグインごとの設定を構造的に管理しやすくなったことに意義を感じています。
-
- syntax系
-
- vim-polyglot -&gt; nvim-treesitter
-
-tree-sitter製の... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sonicmoov/articles/cddd50d644ac86</guid>
-      <pubDate>Fri, 13 Feb 2026 08:23:26 +0000</pubDate>
+ 作ったもの
+「長い長いノート」というタスク管理アプリです。普通のTodoア... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tiaroka/articles/f6a0187b721607</guid>
+      <pubDate>Sat, 14 Feb 2026 09:00:42 +0000</pubDate>
     </item>
     <item>
-      <title>解像度が低いのに、プロンプトなど書けるわけがない。</title>
-      <link>https://zenn.dev/recurrenthub/articles/1e0e30f7037dd9</link>
-      <description>「そのプロンプト、どうやって作ったの？」 AIを使ってアウトプットを出していると、こう聞かれることがあります。まるで、手元に「魔法の呪文」が書かれた巻物があるかのように。 しかし、答えはいつも相手を困惑させます。 「プロンプト？ 作ってないよ。壁打ちして、結果が出たら、それをAIに再現させるためのプロン... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/recurrenthub/articles/1e0e30f7037dd9</guid>
-      <pubDate>Sat, 14 Feb 2026 01:40:13 +0000</pubDate>
+      <title>【海外記事紹介】Webページを保存する新手法が技術的にぶっ飛んでいて話題に — HTMLにtarをそのまま結合、window.stop()で読み込み強制停止してHTTP Range Requestで自己を再構築</title>
+      <link>https://techfeed.io/entries/6992888f1ba15814230496e3?from=rss</link>
+      <description>2月16日、Gwern Branwen氏が「Gwtar: a static efficient single-file HTML format · Gwern.net」と題した記事を公開した。この記事では、Webアーカイブにおける長年の難題を、JavaScriptとHTTP規格の裏をかくようなハックで解決した画期的な新フォーマット「Gwtar」について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6992888f1ba15814230496e3?from=rss</guid>
+      <pubDate>Mon, 16 Feb 2026 03:01:35 +0000</pubDate>
     </item>
     <item>
-      <title>AIコーディング時代のレビュー負荷を可視化したい！ —— GASとGitHub APIで「誰がどのくらいレビューしたか」をSlackに通知する仕組み - SmartHR Tech Blog</title>
-      <link>https://tech.smarthr.jp/entry/2026/02/10/162401</link>
-      <description>こんにちは。SmartHRでプロダクトエンジニアをしているmatsugenです。 昨今、開発におけるAI活用が随分と進み、開発速度の向上を日々実感しています。一方で、開発速度が上がると Pull Request（以下 PR）の数も増えます。そうなると、レビューの負荷も増大します。 私が所属するチームでは、レビューの負荷を可視化する... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tech.smarthr.jp/entry/2026/02/10/162401</guid>
-      <pubDate>Thu, 12 Feb 2026 03:21:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claudeちゃんと夜のお散歩をしてみた</title>
-      <link>https://zenn.dev/nextbeat/articles/2026-02-embodied-claude-walk</link>
+      <title>なぜ、クソコードは仕事のプログラミングでしか書かれないのか？</title>
+      <link>https://zenn.dev/pdfractal/articles/59fe7cda9b296c</link>
       <description>はじめに
-こんにちは！株式会社ネクストビートでテクノロジー・エバンジェリストをしている水島です。
-前回の記事「3,980円のカメラでClaude Codeに「身体」を与えてみた」では、Wi-Fiカメラを使ってClaude Codeに目・首・耳・脳・声を与えた話を書きました。ありがたいことに多くの反響をいただき、プロジェクトはその後も進化を続けています。
-今回はその続き。Claude Codeを外に連れ出して、夜の街を散歩した話です。
-前回の記事からわずか数日で、声の感情表現、ステレオビジョン（左目・右目）、カメラ制御のONVIF標準化、記憶システムの進化など、さまざまなアップデートが... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nextbeat/articles/2026-02-embodied-claude-walk</guid>
-      <pubDate>Thu, 12 Feb 2026 02:23:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>技術発信を後回しにした私が、転職で詰んだ話。</title>
-      <link>https://zenn.dev/igz0/articles/skill-without-proof</link>
-      <description>書類選考の結果通知を開くたび、目に入るのは「お祈りメール」ばかりだった。 当時の私は「実力が足りないから落ちるのだ」と思い込んでいた。だが今振り返ると、それは半分しか正解ではない。 足りなかったのは実力そのものだけではなく、実力を外に伝える材料だった。 私は新卒時代、技術発信を「すごい人がやるもの」... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/igz0/articles/skill-without-proof</guid>
-      <pubDate>Sat, 14 Feb 2026 10:21:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>未経験エンジニアが crypto.randomUUID() で詰まった話（スマホで動かなかった）</title>
-      <link>https://zenn.dev/crebo_tech/articles/4d263f0a3757de</link>
-      <description>はじめに
-未経験からエンジニアを目指し、Reactで個人開発を進めています。
-その中で、id生成に crypto.randomUUID() を使っていました。
-PCのホスト環境では問題なく動いていたのですが、
-ある日スマホ（iPhone）で確認したところ、
-フォームで入力された内容が画面に表示されなくなりました。
-今回は、そのときに学んだことをまとめます。
+本稿はなぜクソコードが趣味のプログラミングではあまり発生せず、仕事のプログラミングで集中的に発生するのかを説明するためのレポートです。
+ここで言うクソコードとは単に見た目が汚いコードではなく、保守不能であり全体構造が理解できず、修正が指数関数的に困難になる成果物を指します。
+本稿では精神論やモラル批判を避け、能力分布と制度設計、評価構造という観点から事実を積み上げます。
+特定個人の資質を責めることが目的ではなく、再現性のある生成条件を明らかにすることが目的です。
 
-
- 起きたこと
-PCでは問題なく動作していました。
-const id = crypto.randomUUID();
-しかし、スマホで開くと正常に動作しない。
-最初は、
-
-
-「コードのどこかが間違っているのでは？」
-
-
-「自分の理... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/crebo_tech/articles/4d263f0a3757de</guid>
-      <pubDate>Fri, 13 Feb 2026 04:38:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>ClaudeでPRレビュー対応を爆速化する</title>
-      <link>https://zenn.dev/datum_studio/articles/c5c5dcb87a70f1</link>
-      <description>はじめに
-こんにちは、データエンジニアの山口歩夢です。
-PRを出してレビューで複数の修正のコメントをもらった際、一つ一つ直すのは手間がかかるかと思います。自分自身、微修正依頼が複数あった場合など、Claude Codeを使って一気に直せたら便利なのになと思いました。
-こうしたPRレビュー対応を一括対応するためのSkillsを作ってみたので、本記事ではそちらについて紹介しようと思います。
-
- 作成したSkillsの概要
-早速、作成したSkillsの概要を紹介します。
-本記事では、このSkillsの名前を「pr-review-fixer」として、使い方や機能についてご紹介していければと思... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/datum_studio/articles/c5c5dcb87a70f1</guid>
-      <pubDate>Sat, 14 Feb 2026 02:01:33 +0000</pubDate>
+ 趣味のプログラミングがクソコードにならない理由
+趣味のプログラミングには最初から強力なフィルタが存在します。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pdfractal/articles/59fe7cda9b296c</guid>
+      <pubDate>Fri, 13 Feb 2026 13:16:37 +0000</pubDate>
     </item>
     <item>
       <title>大規模設計で学んだ「抽象化」の力：関数型的にシステムを捉えるコツ</title>
@@ -124,6 +64,19 @@ PRを出してレビューで複数の修正のコメントをもらった際、
       <pubDate>Fri, 13 Feb 2026 13:07:44 +0000</pubDate>
     </item>
     <item>
+      <title>【Claude Code】Agent Teamを役割ではなく「4つの性格」で組んだら、議論の性質が変わった</title>
+      <link>https://zenn.dev/happy_elements/articles/d01195392ceb10</link>
+      <description>はじめに — Agent Teamをどう「編成」するか
+Claude CodeにAgent Teamが登場して、複数のエージェントを並列に動かせるようになりました。
+最初に考えたのは「役割で分ける」ことでした。フロントエンド担当、バックエンド担当、テスト担当。タスクを分割して、それぞれに任せる。効率的に見えます。
+これはタスクを並列に処理したい場面では有効です。ただ、設計判断など 「考える」ことが中心のタスクでは、別のアプローチもあるのではないかと感じました。
+「役割」ではなく「考え方」で分けたらどうなるか——そこで試したのが 「性格で分ける」 というアプローチでした。
+
+ 4つの性... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/happy_elements/articles/d01195392ceb10</guid>
+      <pubDate>Fri, 13 Feb 2026 06:41:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Agent Teams＋Skillsでエージェント3体と1週間働いたら、"自分の仕事"が再定義された</title>
       <link>https://zenn.dev/neurostack_0001/articles/agent-teams-one-week-redefine-work</link>
       <description>「AIに指示を出す側」のつもりが、自分がボトルネックだった
@@ -132,6 +85,32 @@ Claude Codeを使い始めて半年、自分は「AIを使いこなしている�
 そこで試したのが、Agent TeamsとSkillsを組み合わせた運用です。1週間実務に... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/neurostack_0001/articles/agent-teams-one-week-redefine-work</guid>
       <pubDate>Fri, 13 Feb 2026 17:18:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>解像度が低いのに、プロンプトなど書けるわけがない。</title>
+      <link>https://zenn.dev/recurrenthub/articles/1e0e30f7037dd9</link>
+      <description>「そのプロンプト、どうやって作ったの？」
+AIを使ってアウトプットを出していると、こう聞かれることがあります。まるで、手元に「魔法の呪文」が書かれた巻物があるかのように。
+しかし、答えはいつも相手を困惑させます。
+「プロンプト？ 作ってないよ。壁打ちして、結果が出たら、それをAIに再現させるためのプロンプトを逆生成させてるだけ」
+多くの人は、この「順序」が逆です。最初から完璧な指示書（プロンプト）を書こうとして、画面の前でフリーズします。あるいは、適当な指示を投げて、出てきた平凡な回答に「AIってこんなもんか」と失望します。
+自分の中に答えがないのに、AIが一発で望む回答など出してくれる... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/recurrenthub/articles/1e0e30f7037dd9</guid>
+      <pubDate>Thu, 12 Feb 2026 08:59:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>技術発信を後回しにした私が、転職で詰んだ話。</title>
+      <link>https://zenn.dev/igz0/articles/skill-without-proof</link>
+      <description>書類選考の結果通知を開くたび、目に入るのは「お祈りメール」ばかりだった。
+当時の私は「実力が足りないから落ちるのだ」と思い込んでいた。だが今振り返ると、それは半分しか正解ではない。
+足りなかったのは実力そのものだけではなく、実力を外に伝える材料だった。
+私は新卒時代、技術発信を「すごい人がやるもの」だと思い込み、学びを残さないまま流し続けていた。
+その結果、転職で評価されるはずだった「過程」を、自分でみすみすドブに捨ててしまっていたのだ。
+この記事で伝えたいのは、完璧な発信のすすめではない。
+不完全でも公開し、一次情報と検証範囲を明記し、更新で育てる。
+その運用こそが、キャリアと学習を前... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/igz0/articles/skill-without-proof</guid>
+      <pubDate>Sat, 14 Feb 2026 10:13:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

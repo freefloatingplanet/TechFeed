@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Feb 2026 06:57:07 +0000</lastBuildDate>
-    <item>
-      <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
-      <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新興のAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Feb 2026 07:09:37 +0000</lastBuildDate>
     <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
@@ -28,6 +21,13 @@
       <description>Nuxt Studio のご紹介：Nuxt ウェブサイト向けの究極のオープンソース コンテンツ管理ソリューション。強力なセルフホスト型モジュールでコンテンツを完全にコントロールできます。直感的なビジュアルエディタ、リアルタイムプレビュー、そしてシームレスな Git 統合により、開発ワークフローを効率化し、コンテンツクリエイターのギャップを埋めます。今すぐチームの潜在能力を解き放ちましょう！ Daniel Curtis (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/02/nuxt-studio-cms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Sat, 14 Feb 2026 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EUは売れ残ったアパレル、衣類、アクセサリー、履物の廃棄を禁止</title>
+      <link>https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en</link>
+      <description>コメント (source: Hacker News)</description>
+      <guid isPermaLink="true">https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en</guid>
+      <pubDate>Sun, 15 Feb 2026 17:10:18 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI、ChatGPT向けに単一のプライマリPostgreSQLインスタンスを1秒あたり数百万クエリまで拡張</title>
@@ -51,11 +51,11 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ポッドキャスト: [ビデオポッドキャスト] AIツール時代のソフトウェアアーキテクチャの技術</title>
-      <link>https://www.infoq.com/podcasts/craft-software-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AIコーディングアシスタントはスピードを約束しますが、品質、信頼性、そして建築家の技術にとって何を意味するのでしょうか？「Next Gen Architecture Playbook」の初回エピソードでは、シュエタ・ヴォーラとグレイディ・ブーチが、機械が人間と並んでコードを書くようになると、建築はどのように進化していくべきなのか、原理的な視点から考察します。彼らは、生産性の向上が現実のものとなるソフトウェアエンジニアリングの第三の黄金時代について考察します。グレイディ・ブーチ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/podcasts/craft-software-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 11 Feb 2026 11:00:00 +0000</pubDate>
+      <title>Javaニュースまとめ: JDK 26-RC1、Spring Framework、Open Liberty、EclipseStore、Gradle</title>
+      <link>https://www.infoq.com/news/2026/02/java-news-roundup-feb09-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>今週の2026年2月9日版Javaラウンドアップでは、JDK 26とGradle 9.4の最初のリリース候補版、Micrometer MetricsとMicrometer Tracingのマイルストーンリリース、Open Liberty 26.0.0.2とEclipseStore 4.0のベータリリース、そしてSpring Framework、Micronaut、Quarkusのメンテナンスリリースなど、注目すべきニュースを特集します。マイケル・レッドリッヒ (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/java-news-roundup-feb09-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 16 Feb 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
       <title>16人のクロードエージェントが人間の介入なしにCコンパイラを構築しました...ほぼ</title>
