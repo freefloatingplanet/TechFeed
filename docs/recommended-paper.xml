@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Feb 2026 07:09:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 07:04:48 +0000</lastBuildDate>
     <item>
-      <title>ギャップとリング：拡張した原始惑星系円盤のほぼ普遍的な特徴</title>
-      <link>https://arxiv.org/abs/2602.12906v1</link>
-      <description>リング、ギャップ、空洞といった下部構造は原始惑星系円盤で一般的に観測されており、ダストの進化と惑星形成において重要な役割を果たすと考えられています。しかしながら、近傍の星形成領域にある拡張円盤の一部（ダスト半径30 AU超の68%）は未解明のままであり、その下部構造の内容は不明確です。そのため、円盤全体におけるダストの進化と惑星形成の初期条件に関する理解は限定的です。本研究では、これまで未解明であった拡張円盤における下部構造の存在を調査し、太陽系近傍の拡張原始惑星系円盤の全てが下部構造を有するかどうかを評価することを目指します。我々は、これまで解像できなかった200パーセク以内の26個の拡張円盤について、1.33 mmでのALMAバンド6連続波による高解像度（$\sim$0.12"）観測結果を発表する。これにより、おうし座、へびつかい座、カメレオン座、おおかみ座、さそり座上部、ケンタウルス座上部おおかみ座、ケンタウルス座下部南十字星の拡張円盤の高解像度サンプルが完成した。フランケンシュタインとガラリオを用いて放射強度プロファイルを解析し、下部構造を検出した。17個の円盤は明確な下部構造 (source: arXiv Query: search_query=all:observation AND (all:star OR all:stellar) AND (all:formation OR all:forming OR all:star-forming) AND (all:region OR all:regions OR all:cluster) AND ( (all:planetary AND all:mass) OR (all:brown AND all:dwarf) OR (all:free AND all:floating) )&amp;id_list=&amp;start=0&amp;max_results=20)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.12906v1</guid>
-      <pubDate>Fri, 13 Feb 2026 13:06:28 +0000</pubDate>
+      <title>BEACONS: 偏微分方程式のための誤差制限付き代数的構成可能ニューラルソルバー</title>
+      <link>https://arxiv.org/abs/2602.14853v1</link>
+      <description>ニューラルネットワークがトレーニングデータの凸包を超えて確実に一般化できないという従来の限界は、実験的または解析的に検証できる範囲をはるかに超える領域で偏微分方程式を解きたい場合が多い計算物理学にとって大きな問題となります。本論文では、厳密な収束性、安定性、および保存特性を持ち、外挿領域でも正確さが保証される、形式的に検証された偏微分方程式のニューラルネットワークソルバーを構築することで、これらの限界を回避する方法を示します。特性法を使用して偏微分方程式の解の解析特性を事前に予測することにより（トレーニング領域から任意に離れた領域でも）、浅いニューラルネットワーク近似の最悪ケースの L^inf 誤差に対して厳密な外挿境界を構築できることを示します。次に、偏微分方程式の解をより単純な関数の合成に分解することで、これらの浅いニューラルネットワークを合成して深層アーキテクチャを形成する方法を示します。これは、近似における大きなL^inf誤差が抑制された合成深層学習の考え方に基づいています。結果として得られるフレームワークはBEACONS（Bounded-Error, Algebraicall (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.14853v1</guid>
+      <pubDate>Mon, 16 Feb 2026 15:49:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

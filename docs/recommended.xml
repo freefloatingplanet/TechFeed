@@ -7,26 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Feb 2026 07:09:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 07:04:41 +0000</lastBuildDate>
     <item>
-      <title>useEffect で API を叩くのを卒業しよう</title>
-      <link>https://zenn.dev/ashunar0/articles/32419c3c60cc53</link>
-      <description>はじめに 「useEffectでデータ取得するのはやめた方がいい」— こんな話を聞いたことはないだろうか。 でも自分はずっと、useEffect + fetch でAPIを叩いていた。中でtry-catchして、useStateにセットして、ローディングもエラーも自分で管理して。チュートリアルで覚えたそのパターンを、特に疑うこともなく使い続けてい... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/ashunar0/articles/32419c3c60cc53</guid>
-      <pubDate>Sun, 15 Feb 2026 10:06:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>非エンジニアがClaude Codeでアプリを作って公開した全記録</title>
-      <link>https://zenn.dev/tiaroka/articles/f6a0187b721607</link>
-      <description>自作したタスク管理アプリ「長い長いノート」
-このアプリを、エンジニアではない人間がAIコーディングツールだけで作りました。
-私はライターです。コードを自分でゼロから書く力はないし、読めているのかも正直自信がない。そんな人間が、Claude Codeを使ってWebアプリを開発し、本番環境にデプロイして、実際にユーザーに使ってもらうところまでやりました。
-かかった期間は約4ヶ月。Claude Codeの前で手を動かした時間は合計で約20時間（調べ物やバグの再現確認にかけた時間は含まない）。これはその全記録です。
-
- 作ったもの
-「長い長いノート」というタスク管理アプリです。普通のTodoア... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tiaroka/articles/f6a0187b721607</guid>
-      <pubDate>Sat, 14 Feb 2026 09:00:42 +0000</pubDate>
+      <title>「サポート切れルーターはすべて廃棄を」米CISAが異例の命令、その深刻な理由とは</title>
+      <link>https://ascii.jp/elem/000/004/373/4373984/</link>
+      <description>「サポートが終了したルーターやVPNは、すべて廃棄してください」 米国サイバーセキュリティ・インフラセキュリティ庁（CISA）が、連邦政府の「文民行政機関」に対して、こんな命令を出した。2026年2月5日に同庁がウェブサイトで公表している。この「文民行政機関」という言葉が聞き慣れないため調べると、国防総省やCIA... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://ascii.jp/elem/000/004/373/4373984/</guid>
+      <pubDate>Mon, 16 Feb 2026 23:58:39 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Webページを保存する新手法が技術的にぶっ飛んでいて話題に — HTMLにtarをそのまま結合、window.stop()で読み込み強制停止してHTTP Range Requestで自己を再構築</title>
@@ -34,6 +21,36 @@
       <description>2月16日、Gwern Branwen氏が「Gwtar: a static efficient single-file HTML format · Gwern.net」と題した記事を公開した。この記事では、Webアーカイブにおける長年の難題を、JavaScriptとHTTP規格の裏をかくようなハックで解決した画期的な新フォーマット「Gwtar」について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6992888f1ba15814230496e3?from=rss</guid>
       <pubDate>Mon, 16 Feb 2026 03:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenClaw+さくらのAI Engine無料枠でAIエージェントを構築する</title>
+      <link>https://zenn.dev/yskst/articles/3309f73a813d1a</link>
+      <description>はじめに
+
+OpenClawのトークン消費が激しいのでClaude以外のModel選択肢を探してみました。
+強いマシンを買ってローカルLLMを立てれば使い放題だけどそこまでコストはかけられないなぁと思っていたところ、さくらのAI Engineの無料枠が3,000リクエスト/月とかなり太っ腹だったので試してみた、という記事です。
+
+ 事前準備
+まずVPSなどでOpenClawを動かすサーバ環境を用意します。
+メモリ4GB以上が推奨のようですが、
+自分の環境では2vCPU/2GBメモリのサーバでも(若干もっさりしますが)一応動きました。
+!
+OpenClawは稼働している環境のファイルア... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yskst/articles/3309f73a813d1a</guid>
+      <pubDate>Mon, 16 Feb 2026 00:36:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>useEffect で API を叩くのを卒業しよう</title>
+      <link>https://zenn.dev/ashunar0/articles/32419c3c60cc53</link>
+      <description>はじめに
+「useEffectでデータ取得するのはやめた方がいい」— こんな話を聞いたことはないだろうか。
+でも自分はずっと、useEffect + fetch でAPIを叩いていた。中でtry-catchして、useStateにセットして、ローディングもエラーも自分で管理して。チュートリアルで覚えたそのパターンを、特に疑うこともなく使い続けていた。
+「やめた方がいいのは分かった。じゃあ何を使えばいいの？」— この記事は、その疑問に対する自分なりの答えを、実際にTanStack Queryに置き換えてみた過程から書いている。
+
+
+ useEffect + fetch で書くとこうなる... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ashunar0/articles/32419c3c60cc53</guid>
+      <pubDate>Sat, 14 Feb 2026 10:57:20 +0000</pubDate>
     </item>
     <item>
       <title>なぜ、クソコードは仕事のプログラミングでしか書かれないのか？</title>
@@ -50,31 +67,30 @@
       <pubDate>Fri, 13 Feb 2026 13:16:37 +0000</pubDate>
     </item>
     <item>
-      <title>大規模設計で学んだ「抽象化」の力：関数型的にシステムを捉えるコツ</title>
-      <link>https://zenn.dev/uma002/articles/architecture-abstraction-patterns</link>
-      <description>概要
-最近、1ヶ月ほど続く大規模なプロジェクトの設計フェーズに携わっていました。その中で得た大きな学びは、 「設計作業において、一度詳細を捨てて抽象化して考えること」 の圧倒的な有用性です。
-本記事では、設計の迷いを解消し、チームでの議論を加速させるための「抽象化のコツ」について、実体験をもとにまとめます。
+      <title>モダンで爆速。月額0円でWebアプリを開発・公開する技術構成（Hono/Neon/Drizzle/Cloudflare Pages）</title>
+      <link>https://zenn.dev/epicai_techblog/articles/ff6225111e3649</link>
+      <description>1. はじめに
+こんにちは！ 株式会社EpicAIの松島です！
+EpicAIではシステム開発系の案件に関わることが多く、要件整理〜実装まで幅広く触っています。個人では、作りたいものを気軽に作って試したり、AtCoderで競プロをやったりしています。
+今回は、自分が個人開発をするときに愛用している技術構成について紹介します。
+学生や個人開発者のみなさん、アプリのデプロイ先、どうしていますか？
+「モダンな技術でWebアプリを作りたい！でも…」
 
- 背景：なぜ抽象化が必要だったのか
-大規模なプロジェクトでは、扱うインフラリソースやビジネスロジックが膨大になります。詳細な仕様に目を向けすぎると、「木を見て森を見ず」の状態に陥り、以下のような課題に直面しました。
-
-インフラコンポーネントをどの単位で分割すべきか確信が持てない... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/uma002/articles/architecture-abstraction-patterns</guid>
-      <pubDate>Fri, 13 Feb 2026 13:07:44 +0000</pubDate>
+AWSやAzureは機能が多すぎて学習コストが高いし、クレジットカードの高額請求が怖い…。
+Herokuの無料枠が終わってから、手軽なデプロイ先... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/epicai_techblog/articles/ff6225111e3649</guid>
+      <pubDate>Sun, 15 Feb 2026 23:01:05 +0000</pubDate>
     </item>
     <item>
-      <title>【Claude Code】Agent Teamを役割ではなく「4つの性格」で組んだら、議論の性質が変わった</title>
-      <link>https://zenn.dev/happy_elements/articles/d01195392ceb10</link>
-      <description>はじめに — Agent Teamをどう「編成」するか
-Claude CodeにAgent Teamが登場して、複数のエージェントを並列に動かせるようになりました。
-最初に考えたのは「役割で分ける」ことでした。フロントエンド担当、バックエンド担当、テスト担当。タスクを分割して、それぞれに任せる。効率的に見えます。
-これはタスクを並列に処理したい場面では有効です。ただ、設計判断など 「考える」ことが中心のタスクでは、別のアプローチもあるのではないかと感じました。
-「役割」ではなく「考え方」で分けたらどうなるか——そこで試したのが 「性格で分ける」 というアプローチでした。
+      <title>AIコーディングが隆盛する一方でマネジメントが辛い件</title>
+      <link>https://zenn.dev/hiroharu8864/articles/782ed847d52aae</link>
+      <description>表記の件で最近色々思うことがあり、若干ネガティブな文章を書く。自分の中のマイナスな気持ちを吐き出してすっきりして、新たな気持ちで業務に向き合っていく。
 
- 4つの性... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/happy_elements/articles/d01195392ceb10</guid>
-      <pubDate>Fri, 13 Feb 2026 06:41:34 +0000</pubDate>
+ はじめに
+コード生成AIの品質が最近急激に向上し、AIコーディングを導入することで、開発のリリースサイクルの短縮化や、工数削減のメリットを享受することができる。このため、開発組織にAIコーディングを導入する方向にどの組織も舵を切ることになるだろう。一方で、開発組織の機密情報であるソースコードを外部サービスに提供することになる。このため、機密情報漏えいなどのリスクを最小化するための運用ルールづくりも合わせて行う必要があると考えている。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hiroharu8864/articles/782ed847d52aae</guid>
+      <pubDate>Sat, 14 Feb 2026 12:07:00 +0000</pubDate>
     </item>
     <item>
       <title>Agent Teams＋Skillsでエージェント3体と1週間働いたら、"自分の仕事"が再定義された</title>
@@ -85,18 +101,6 @@ Claude Codeを使い始めて半年、自分は「AIを使いこなしている�
 そこで試したのが、Agent TeamsとSkillsを組み合わせた運用です。1週間実務に... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/neurostack_0001/articles/agent-teams-one-week-redefine-work</guid>
       <pubDate>Fri, 13 Feb 2026 17:18:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>解像度が低いのに、プロンプトなど書けるわけがない。</title>
-      <link>https://zenn.dev/recurrenthub/articles/1e0e30f7037dd9</link>
-      <description>「そのプロンプト、どうやって作ったの？」
-AIを使ってアウトプットを出していると、こう聞かれることがあります。まるで、手元に「魔法の呪文」が書かれた巻物があるかのように。
-しかし、答えはいつも相手を困惑させます。
-「プロンプト？ 作ってないよ。壁打ちして、結果が出たら、それをAIに再現させるためのプロンプトを逆生成させてるだけ」
-多くの人は、この「順序」が逆です。最初から完璧な指示書（プロンプト）を書こうとして、画面の前でフリーズします。あるいは、適当な指示を投げて、出てきた平凡な回答に「AIってこんなもんか」と失望します。
-自分の中に答えがないのに、AIが一発で望む回答など出してくれる... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/recurrenthub/articles/1e0e30f7037dd9</guid>
-      <pubDate>Thu, 12 Feb 2026 08:59:25 +0000</pubDate>
     </item>
     <item>
       <title>技術発信を後回しにした私が、転職で詰んだ話。</title>
@@ -111,6 +115,21 @@ AIを使ってアウトプットを出していると、こう聞かれること
 その運用こそが、キャリアと学習を前... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/igz0/articles/skill-without-proof</guid>
       <pubDate>Sat, 14 Feb 2026 10:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Excel 方眼紙を GitHub Copilot に食わせてみた</title>
+      <link>https://zenn.dev/microsoft/articles/github-copilot-excel-hoganshi</link>
+      <description>はじめに
+!
+この記事は、以下の記事の Skill を前提にしていますが、別に必須ではありません。
+私が C# が好きなので、C# でやるための仕掛けを入れています。ほかの言語でも同様のことができると思います。
+C#er のための GitHub Copilot が勝手に Python を実行するのを辞めさせたい場合の対処法
+
+最近の GitHub Copilot は賢いので、意外と Excel を読むことが出来ます。
+といっても、直接 Excel ファイルを読み込むのではなく、Excel を処理するスクリプトを書いて、その結果を見ているような感じです。
+今回は、Excel 方眼紙を ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/github-copilot-excel-hoganshi</guid>
+      <pubDate>Mon, 16 Feb 2026 14:36:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
