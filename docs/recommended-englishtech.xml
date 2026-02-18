@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Feb 2026 07:04:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 07:06:41 +0000</lastBuildDate>
     <item>
-      <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
-      <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nuxt Studio リリース: 制作現場でのコンテンツ編集を可能にするオープンソース CMS</title>
-      <link>https://www.infoq.com/news/2026/02/nuxt-studio-cms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Nuxt Studio のご紹介：Nuxt ウェブサイト向けの究極のオープンソース コンテンツ管理ソリューション。強力なセルフホスト型モジュールでコンテンツを完全にコントロールできます。直感的なビジュアルエディタ、リアルタイムプレビュー、そしてシームレスな Git 統合により、開発ワークフローを効率化し、コンテンツクリエイターのギャップを埋めます。今すぐチームの潜在能力を解き放ちましょう！ Daniel Curtis (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/nuxt-studio-cms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 14 Feb 2026 08:30:00 +0000</pubDate>
+      <title>WordPress.comは、編集、スタイルの調整、画像の作成などができるAIアシスタントを追加しました</title>
+      <link>https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/</link>
+      <description>この機能はウェブサイト内で動作し、コンテンツとレイアウトを理解するように設計されており、サイト所有者は自然言語コマンドで変更を加えることができます。WordPressのAIアシスタントは、厳密にカスタマイズされたプロンプトを必要としません。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/</guid>
+      <pubDate>Tue, 17 Feb 2026 16:10:44 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
@@ -30,11 +23,11 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Firestore が 100 以上の新しいクエリ機能を備えたパイプライン操作を追加</title>
-      <link>https://www.infoq.com/news/2026/02/firestore-enterprise-pipeline/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>GoogleはFirestoreのクエリエンジンを刷新し、「パイプライン操作」を導入しました。これにより、複雑なサーバーサイド集計と配列のネスト解除が可能になります。このアップデートにより、Firestore Enterpriseはオプションのインデックスモデルに移行し、アーキテクトは書き込み速度を優先し、コストを削減できるようになります。MongoDBスタイルの集計機能と同等の性能を実現しますが、プレビュー版ではリアルタイム性とエミュレーターのサポートが現時点では不足しています。Steef-Jan Wiggers著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/firestore-enterprise-pipeline/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 14 Feb 2026 10:11:00 +0000</pubDate>
+      <title>OpenAI、AIエージェントサーフェスを統合するCodexアプリサーバーアーキテクチャを公開</title>
+      <link>https://www.infoq.com/news/2026/02/opanai-codex-app-server/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>OpenAIは最近、Codexコーディングエージェントのコアロジックを様々なクライアントサーフェスから分離する双方向プロトコルであるCodex App Serverの詳細なアーキテクチャ記述を公開しました。App Serverは、CLI、VS Code拡張機能、ウェブアプリなど、あらゆるCodexエクスペリエンスを単一の安定したAPIで実現します。Eran Stiller著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/opanai-codex-app-server/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 17 Feb 2026 11:45:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
@@ -51,6 +44,13 @@
       <pubDate>Mon, 16 Feb 2026 15:45:00 +0000</pubDate>
     </item>
     <item>
+      <title>子どものソーシャルメディアを禁止する動きが進む国々</title>
+      <link>https://techcrunch.com/2026/02/17/social-media-ban-children-countries-list/</link>
+      <description>オーストラリアは、ネットいじめ、ソーシャルメディア依存、捕食者への露出など、ソーシャルメディア上で若いユーザーが直面する可能性のあるプレッシャーとリスクを軽減することを目的として、2025年後半に禁止令を出した最初の国です。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/02/17/social-media-ban-children-countries-list/</guid>
+      <pubDate>Tue, 17 Feb 2026 15:59:38 +0000</pubDate>
+    </item>
+    <item>
       <title>GlassFish 8.0はJakarta EE 11との互換性、セキュリティ強化、データアクセスの改善を実現</title>
       <link>https://www.infoq.com/news/2026/02/glassfish-8-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>Eclipse Foundationは、15回のマイルストーンリリースを経て、GlassFishバージョン8.0をリリースしました。仮想スレッドのサポート、アプリケーションセキュリティの強化、データアクセスの改善などが特長です。GlassFish 8.0は、Jakarta EE 11と互換性のある実装です。Java Championであり、OmniFishの共同創設者でもあるOndro Mihályi氏が、InfoQのインタビューでGlassFish 8.0について語りました。Michael Redlich著 (source: InfoQ)</description>
@@ -65,18 +65,18 @@
       <pubDate>Mon, 16 Feb 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>16人のクロードエージェントが人間の介入なしにCコンパイラを構築しました...ほぼ</title>
-      <link>https://www.infoq.com/news/2026/02/claude-built-c-compiler/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>自律ソフトウェア開発の限界を探るため、Anthropicは16個のClaude Opus 4.6 AIエージェントを用いて、RustベースのCコンパイラをゼロから構築しました。共有リポジトリ上で並行して作業するエージェントは、変更を調整し、最終的にx86、ARM、RISC-V、そしてその他多くのオープンソースプロジェクトでLinux 6.9カーネルを構築できるコンパイラを開発しました。Sergio De Simone著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/claude-built-c-compiler/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 14 Feb 2026 12:00:00 +0000</pubDate>
+      <title>フォードはF1と賞金を利用して3万ドルの電気トラックを製造</title>
+      <link>https://techcrunch.com/2026/02/17/ford-turns-to-f1-and-bounties-to-build-a-30000-electric-truck/</link>
+      <description>3Dプリントされたレゴのようなパーツ、F1の思考、そして報奨金プログラムの組み合わせが、テスラの目標達成を後押しするだろう。テスラのベテラン、アラン・クラーク率いるチームは、効率性に徹底的にこだわっている。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/02/17/ford-turns-to-f1-and-bounties-to-build-a-30000-electric-truck/</guid>
+      <pubDate>Tue, 17 Feb 2026 23:43:21 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション: 大規模実世界アプリケーション向け埋め込みモデルの構築</title>
-      <link>https://www.infoq.com/presentations/llm-large-scale-applications/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Sahil Dua氏は、大規模な検索およびRAGアプリケーションの実現における埋め込みモデルの重要な役割について解説します。Transformerベースのアーキテクチャ、対照学習手法、そして大規模な言語モデルを本番環境対応の学習モデルへと昇華させるプロセスについて解説します。クエリレイテンシの最適化、ドキュメントインデックスの処理、そして検索品質の評価に関する知見も共有します。Sahil Dua著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/llm-large-scale-applications/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 13 Feb 2026 15:50:00 +0000</pubDate>
+      <title>Chrome 144 に Temporal API が追加: JavaScript の日付/時刻標準化を促進</title>
+      <link>https://www.infoq.com/news/2026/02/chrome-temporal-date-api/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Chrome 144では、画期的なTemporal APIが導入され、JavaScriptにおける日付と時刻の管理に革命をもたらします。批判されてきたDateオブジェクトの現代的な代替として、Temporalは解析の曖昧さ、タイムゾーンの複雑さ、そして可変演算といった問題を解決します。明確な型と組み込みサポートにより、開発者は日付をシームレスに扱うことができますが、ブラウザによって導入状況は異なります。ダニエル・カーティス (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/chrome-temporal-date-api/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 17 Feb 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

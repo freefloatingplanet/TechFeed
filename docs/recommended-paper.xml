@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Feb 2026 07:04:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 07:06:35 +0000</lastBuildDate>
     <item>
-      <title>BEACONS: 偏微分方程式のための誤差制限付き代数的構成可能ニューラルソルバー</title>
-      <link>https://arxiv.org/abs/2602.14853v1</link>
-      <description>ニューラルネットワークがトレーニングデータの凸包を超えて確実に一般化できないという従来の限界は、実験的または解析的に検証できる範囲をはるかに超える領域で偏微分方程式を解きたい場合が多い計算物理学にとって大きな問題となります。本論文では、厳密な収束性、安定性、および保存特性を持ち、外挿領域でも正確さが保証される、形式的に検証された偏微分方程式のニューラルネットワークソルバーを構築することで、これらの限界を回避する方法を示します。特性法を使用して偏微分方程式の解の解析特性を事前に予測することにより（トレーニング領域から任意に離れた領域でも）、浅いニューラルネットワーク近似の最悪ケースの L^inf 誤差に対して厳密な外挿境界を構築できることを示します。次に、偏微分方程式の解をより単純な関数の合成に分解することで、これらの浅いニューラルネットワークを合成して深層アーキテクチャを形成する方法を示します。これは、近似における大きなL^inf誤差が抑制された合成深層学習の考え方に基づいています。結果として得られるフレームワークはBEACONS（Bounded-Error, Algebraicall (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.14853v1</guid>
-      <pubDate>Mon, 16 Feb 2026 15:49:19 +0000</pubDate>
+      <title>宇宙論における点広がり関数モデリングのためのディープラーニング</title>
+      <link>https://arxiv.org/abs/2602.15780v1</link>
+      <description>本稿では、現在最先端のアプローチである「全視野におけるPSF」（PIFF）よりも高い精度を実現する、データ駆動型のAIベースの点広がり関数（PSF）モデルの開発について紹介します。PIFFは、ダークエネルギーサーベイ（DES）、ハイパー・シュプリーム・カム（HSC）サーベイ、ヴェラ・C・ルビン天文台による時空遺産サーベイ（LSST）など、主要な弱重力レンズ効果サーベイで広く利用されています。PSFは、星などの点光源の光が大気と望遠鏡光学系を通過した後、どのように撮像されるかを特徴づけ、撮像システム全体の「ぼやけた指紋」を効果的に表します。PSFの正確なモデリングは、弱重力レンズ効果の解析に不可欠です。PSFの推定におけるバイアスは、宇宙の膨張史とダークエネルギー研究における大規模構造の成長を測る主要な宇宙論的プローブの一つである宇宙シア測定に直接伝播するからです。 PIFFはCCDごとに独立してPSFモデルを構築し、焦点面全体にわたって空間的な整合性が失われるという限界があるため、本研究では深層学習に基づくPSF再構成フレームワークを導入する。このアプローチでは、すばる望遠鏡の超広視野 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.15780v1</guid>
+      <pubDate>Tue, 17 Feb 2026 18:12:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

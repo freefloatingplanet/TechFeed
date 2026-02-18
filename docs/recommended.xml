@@ -7,13 +7,47 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Feb 2026 07:04:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 07:06:26 +0000</lastBuildDate>
     <item>
-      <title>「サポート切れルーターはすべて廃棄を」米CISAが異例の命令、その深刻な理由とは</title>
-      <link>https://ascii.jp/elem/000/004/373/4373984/</link>
-      <description>「サポートが終了したルーターやVPNは、すべて廃棄してください」 米国サイバーセキュリティ・インフラセキュリティ庁（CISA）が、連邦政府の「文民行政機関」に対して、こんな命令を出した。2026年2月5日に同庁がウェブサイトで公表している。この「文民行政機関」という言葉が聞き慣れないため調べると、国防総省やCIA... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://ascii.jp/elem/000/004/373/4373984/</guid>
-      <pubDate>Mon, 16 Feb 2026 23:58:39 +0000</pubDate>
+      <title>【コピペすら不要】tmux + Neovimで作るVSCodeライクなターミナル開発環境</title>
+      <link>https://zenn.dev/spacemarket/articles/fd6203970ba0fe</link>
+      <description>おはようございます、こんにちは、こんばんは。
+スペースマーケットでWebエンジニアをしています、s0arです。
+ファッキンコールド（クソ寒い）
+今日はターミナル開発環境の話をします。
+
+ この記事 is 何
+以前、Zellij + Helix で軽量ターミナル開発環境を作った記事を書きました。
+
+で、結局 tmux + Neovim に乗り換えました。
+!
+ちょっと前に「Neovimの設定が面倒」「tmuxのキーバインド覚えたくない」って言ったばかりなのにもう乗り換えるんか、みたいな声はさすがにないと思います。
+だって前回の記事の方が割と異端でしょ。今回は正統でしょ。ほなええでしょ。なあ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/spacemarket/articles/fd6203970ba0fe</guid>
+      <pubDate>Mon, 16 Feb 2026 02:53:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ハッカソンに登録したのにClaude Codeが凄すぎて提出できなかった話</title>
+      <link>https://zenn.dev/niji2/articles/claudecode00</link>
+      <description>はじめに
+Zennの「第4回 Agentic AI Hackathon with Google Cloud」に登録しました。Google Cloudのクーポンももらいました。でも、提出できませんでした。すみません。
+理由は単純です。開発にClaude Codeを使っていて、Opus4.6が公開されてからあまりにも開発が捗りすぎて、気づいたらGoogle CloudではなくClaude Codeでアプリを作り込んでいたからです。
+この記事では、Claude Codeが実際に何をできるのかを、開発中の栽培記録アプリ（Flutter + Python）での実例を交えて具体的に書きます。
+
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/niji2/articles/claudecode00</guid>
+      <pubDate>Mon, 16 Feb 2026 07:22:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIがペネトレーションテストを自動化する時代が来た——2026年の主要ツールまとめ</title>
+      <link>https://zenn.dev/frsk/articles/ai-pentesting-tools-2026</link>
+      <description>AIペンテストツールが急に増えた
+最近、タイムラインにAIペネトレーションテストの話がやたら出てくる。
+1年前はPentestGPTぐらいしかなかった。それが2025年の後半から急に増えて、2026年2月の時点でオープンソースだけで8つ以上、商用サービスも5つ以上ある。
+なんでこんなに急に増えたのか。まず、LLMがかなり賢くなって、セキュリティツールとの連携の仕方が固まってきた。NmapやMetasploit、SqlmapといったツールをAIエージェントが自分で選んで回せるようになった。つまり、作る側の準備が整った。
+もう1つは、テストしなきゃいけないコードが一気に増えたこと。バイブ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/frsk/articles/ai-pentesting-tools-2026</guid>
+      <pubDate>Mon, 16 Feb 2026 17:38:54 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Webページを保存する新手法が技術的にぶっ飛んでいて話題に — HTMLにtarをそのまま結合、window.stop()で読み込み強制停止してHTTP Range Requestで自己を再構築</title>
@@ -23,21 +57,13 @@
       <pubDate>Mon, 16 Feb 2026 03:01:35 +0000</pubDate>
     </item>
     <item>
-      <title>OpenClaw+さくらのAI Engine無料枠でAIエージェントを構築する</title>
-      <link>https://zenn.dev/yskst/articles/3309f73a813d1a</link>
+      <title>C#er のための GitHub Copilot が勝手に Python を実行するのを辞めさせたい場合の対処法</title>
+      <link>https://zenn.dev/microsoft/articles/github-copilot-csharp-scripting</link>
       <description>はじめに
-
-OpenClawのトークン消費が激しいのでClaude以外のModel選択肢を探してみました。
-強いマシンを買ってローカルLLMを立てれば使い放題だけどそこまでコストはかけられないなぁと思っていたところ、さくらのAI Engineの無料枠が3,000リクエスト/月とかなり太っ腹だったので試してみた、という記事です。
-
- 事前準備
-まずVPSなどでOpenClawを動かすサーバ環境を用意します。
-メモリ4GB以上が推奨のようですが、
-自分の環境では2vCPU/2GBメモリのサーバでも(若干もっさりしますが)一応動きました。
-!
-OpenClawは稼働している環境のファイルア... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yskst/articles/3309f73a813d1a</guid>
-      <pubDate>Mon, 16 Feb 2026 00:36:04 +0000</pubDate>
+GitHub Copilot (最近は GitHub Copilot CLI を個人的にはよく使っています) で、何かデータ処理をさせようとすると、最初に Python のコードを生成して、Python を実行しようとすることが多いと思います。
+それだけなら、まだいいのですが放っておくと pip install を実行して、Python の環境を汚染してしまうこともあります。個人的には、この動きはあまり好ましくないので、自分の好きな C# でデータ処理をさせるように、GitHub Copilot をカスタムする方法を紹介します。C# を書いている人であれば .NET 10 ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/github-copilot-csharp-scripting</guid>
+      <pubDate>Mon, 16 Feb 2026 13:43:06 +0000</pubDate>
     </item>
     <item>
       <title>useEffect で API を叩くのを卒業しよう</title>
@@ -53,54 +79,38 @@ OpenClawは稼働している環境のファイルア... (source: Zennのトレ�
       <pubDate>Sat, 14 Feb 2026 10:57:20 +0000</pubDate>
     </item>
     <item>
-      <title>なぜ、クソコードは仕事のプログラミングでしか書かれないのか？</title>
-      <link>https://zenn.dev/pdfractal/articles/59fe7cda9b296c</link>
-      <description>はじめに
-本稿はなぜクソコードが趣味のプログラミングではあまり発生せず、仕事のプログラミングで集中的に発生するのかを説明するためのレポートです。
-ここで言うクソコードとは単に見た目が汚いコードではなく、保守不能であり全体構造が理解できず、修正が指数関数的に困難になる成果物を指します。
-本稿では精神論やモラル批判を避け、能力分布と制度設計、評価構造という観点から事実を積み上げます。
-特定個人の資質を責めることが目的ではなく、再現性のある生成条件を明らかにすることが目的です。
+      <title>Excel 方眼紙を GitHub Copilot に食わせてみた</title>
+      <link>https://zenn.dev/microsoft/articles/github-copilot-excel-hoganshi</link>
+      <description>更新履歴
 
- 趣味のプログラミングがクソコードにならない理由
-趣味のプログラミングには最初から強力なフィルタが存在します。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pdfractal/articles/59fe7cda9b296c</guid>
-      <pubDate>Fri, 13 Feb 2026 13:16:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>モダンで爆速。月額0円でWebアプリを開発・公開する技術構成（Hono/Neon/Drizzle/Cloudflare Pages）</title>
-      <link>https://zenn.dev/epicai_techblog/articles/ff6225111e3649</link>
-      <description>1. はじめに
-こんにちは！ 株式会社EpicAIの松島です！
-EpicAIではシステム開発系の案件に関わることが多く、要件整理〜実装まで幅広く触っています。個人では、作りたいものを気軽に作って試したり、AtCoderで競プロをやったりしています。
-今回は、自分が個人開発をするときに愛用している技術構成について紹介します。
-学生や個人開発者のみなさん、アプリのデプロイ先、どうしていますか？
-「モダンな技術でWebアプリを作りたい！でも…」
+2026/02/16: 初版公開
+2026/02/18: Claude Sonnet 4.6 でも試してみた結果を追記
 
-AWSやAzureは機能が多すぎて学習コストが高いし、クレジットカードの高額請求が怖い…。
-Herokuの無料枠が終わってから、手軽なデプロイ先... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/epicai_techblog/articles/ff6225111e3649</guid>
-      <pubDate>Sun, 15 Feb 2026 23:01:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIコーディングが隆盛する一方でマネジメントが辛い件</title>
-      <link>https://zenn.dev/hiroharu8864/articles/782ed847d52aae</link>
-      <description>表記の件で最近色々思うことがあり、若干ネガティブな文章を書く。自分の中のマイナスな気持ちを吐き出してすっきりして、新たな気持ちで業務に向き合っていく。
 
  はじめに
-コード生成AIの品質が最近急激に向上し、AIコーディングを導入することで、開発のリリースサイクルの短縮化や、工数削減のメリットを享受することができる。このため、開発組織にAIコーディングを導入する方向にどの組織も舵を切ることになるだろう。一方で、開発組織の機密情報であるソースコードを外部サービスに提供することになる。このため、機密情報漏えいなどのリスクを最小化するための運用ルールづくりも合わせて行う必要があると考えている。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hiroharu8864/articles/782ed847d52aae</guid>
-      <pubDate>Sat, 14 Feb 2026 12:07:00 +0000</pubDate>
+!
+この記事は、以下の記事の Skill を前提にしていますが、別に必須ではありません。
+私が C# が好きなので、C# でやるための仕掛けを入れています。ほかの言語でも同様のことができると思います。
+C#er のための GitHub Copilot が勝手に Python を実行するのを辞めさせたい場合の対処法
+
+最近の GitHub Copilot は賢いので、意外と Excel を読むことが出来ます。
+といっても、直接 Excel ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/github-copilot-excel-hoganshi</guid>
+      <pubDate>Mon, 16 Feb 2026 14:36:11 +0000</pubDate>
     </item>
     <item>
-      <title>Agent Teams＋Skillsでエージェント3体と1週間働いたら、"自分の仕事"が再定義された</title>
-      <link>https://zenn.dev/neurostack_0001/articles/agent-teams-one-week-redefine-work</link>
-      <description>「AIに指示を出す側」のつもりが、自分がボトルネックだった
-Claude Codeを使い始めて半年、自分は「AIを使いこなしている側」だと思っていました。プロンプトを書いて、コードを生成させて、レビューして、マージする。効率は確かに上がっていた。
-でも、ある日気づいたんです。毎回同じレビュー指摘を口頭で伝えている自分がいることに。AIに「レビューして」と頼んでも、観点がブレる。テストを書かせても、戦略がない。結局、自分がすべての判断を下していて、AIは「ちょっと賢いコード生成機」止まりだった。
-そこで試したのが、Agent TeamsとSkillsを組み合わせた運用です。1週間実務に... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/neurostack_0001/articles/agent-teams-one-week-redefine-work</guid>
-      <pubDate>Fri, 13 Feb 2026 17:18:10 +0000</pubDate>
+      <title>あなたがSunoだと思ってサブスクしているそのAI作曲サービスの正体（CloseBox） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/02/18/4870.html</link>
+      <description>音楽生成AI、特にSunoについて人に教えることが多いのですが、このところ立て続けに奇妙な出来事に遭遇しています。電話やメッセンジャーでのやり取りで、「この機能について教えてくれ」と言われて、手元のSunoアプリ（モバイル）やWeb版を見ながらやり方を教えているのに、「そんなボタンやメニューはない」と言うので... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.techno-edge.net/article/2026/02/18/4870.html</guid>
+      <pubDate>Wed, 18 Feb 2026 02:04:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>100均のメジャーで測ってVRChatワールドを作った結果、予想外のことが起きた｜タカハシヤマダ</title>
+      <link>https://note.com/takahashi_yamada/n/n93f84fbd2dfd</link>
+      <description>最近、BOOTHで公開したVRCワールドアセットがあるのですが、今回は設計段階から少々違ったアプローチをしてみました。現実の「実寸」をベースに制作してみたのです。 もちろん、マンションの内装や細部まで完全に同じにするわけではなく、あくまで建物の構造や空間の寸法を実際のサイズに合わせる、という意味での実寸制... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/takahashi_yamada/n/n93f84fbd2dfd</guid>
+      <pubDate>Tue, 17 Feb 2026 23:04:10 +0000</pubDate>
     </item>
     <item>
       <title>技術発信を後回しにした私が、転職で詰んだ話。</title>
@@ -115,21 +125,6 @@ Claude Codeを使い始めて半年、自分は「AIを使いこなしている�
 その運用こそが、キャリアと学習を前... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/igz0/articles/skill-without-proof</guid>
       <pubDate>Sat, 14 Feb 2026 10:13:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Excel 方眼紙を GitHub Copilot に食わせてみた</title>
-      <link>https://zenn.dev/microsoft/articles/github-copilot-excel-hoganshi</link>
-      <description>はじめに
-!
-この記事は、以下の記事の Skill を前提にしていますが、別に必須ではありません。
-私が C# が好きなので、C# でやるための仕掛けを入れています。ほかの言語でも同様のことができると思います。
-C#er のための GitHub Copilot が勝手に Python を実行するのを辞めさせたい場合の対処法
-
-最近の GitHub Copilot は賢いので、意外と Excel を読むことが出来ます。
-といっても、直接 Excel ファイルを読み込むのではなく、Excel を処理するスクリプトを書いて、その結果を見ているような感じです。
-今回は、Excel 方眼紙を ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/github-copilot-excel-hoganshi</guid>
-      <pubDate>Mon, 16 Feb 2026 14:36:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

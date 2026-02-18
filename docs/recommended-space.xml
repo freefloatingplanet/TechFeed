@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Feb 2026 07:04:46 +0000</lastBuildDate>
-    <item>
-      <title>死にゆく星の光が織りなす絶景　ハッブル宇宙望遠鏡が観測した「卵星雲」の新画像</title>
-      <link>https://sorae.info/astronomy/20260213-egg-nebula.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した原始惑星状星雲「CRL 2688」。 中央の平らな雲から細長いX字形の光と同心円状の輝きが広がる、不思議な光景が捉えられています。 はくちょう座の方向、約1000光年先にあ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260213-egg-nebula.html</guid>
-      <pubDate>Fri, 13 Feb 2026 11:57:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Feb 2026 07:06:31 +0000</lastBuildDate>
     <item>
       <title>アリアンスペースが「アリアン6」で「アマゾンレオ」の衛星32機を打ち上げ　ブースター4基形態の初飛行</title>
       <link>https://sorae.info/ssn/20260213-va267.html</link>
@@ -28,6 +21,20 @@
       <description>楽天モバイル株式会社は2026年2月16日、JAXA（宇宙航空研究開発機構）が宇宙戦略基金事業として公募した技術開発テーマ「衛星通信と地上ネットワークの統合運用の実現に向けた周波数共用技術等の開発・実証」に、同社の提案が… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260217-rakuten-mobile-jaxa.html</guid>
       <pubDate>Tue, 17 Feb 2026 02:07:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>渦巻銀河？ レンズ状銀河？ ハッブル宇宙望遠鏡が観測した“おとめ座”の「NGC 4680」</title>
+      <link>https://sorae.info/astronomy/20260216-ngc-4680.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した銀河「NGC 4680」。 おとめ座の方向、約1億光年先にあります。 明るい中心部を取り囲む幅の広い渦巻腕（渦状腕）を、淡い輝きが大きく包みこんでいるような姿をしています。… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260216-ngc-4680.html</guid>
+      <pubDate>Wed, 18 Feb 2026 02:19:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>宇宙実験の洋上回収をドローンで支援へ　エアロネクストがJAXA案件を受託</title>
+      <link>https://sorae.info/space/20260217-aeronext.html</link>
+      <description>株式会社エアロネクストは2026年2月17日、JAXA（宇宙航空研究開発機構）の研究開発（製作）「海洋浮遊物回収支援ドローンの設計・製作」の公募において、業務を受託したと発表しました。期間は2026年1月から2026年3… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260217-aeronext.html</guid>
+      <pubDate>Tue, 17 Feb 2026 07:09:15 +0000</pubDate>
     </item>
     <item>
       <title>ULA、「ヴァルカン」ロケットで米宇宙軍のペイロード打ち上げに成功もブースターに再び異常発生</title>
@@ -44,13 +51,6 @@
       <pubDate>Fri, 06 Feb 2026 03:22:15 +0000</pubDate>
     </item>
     <item>
-      <title>別府湾海底の放射性ヨウ素は「人新世」を示す　噴火や異常気象の痕跡も</title>
-      <link>https://sorae.info/science/20260212-beppu-bay-sediments.html</link>
-      <description>人為的な地球環境の改変を根拠に、「現在は新しい地質年代である『人新世』に区分される」という考えがあります。今のところ、人新世は正式な地質年代とはなっていませんが、どの指標を基準に人新世を定義するかについての議論が続いてい… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/science/20260212-beppu-bay-sediments.html</guid>
-      <pubDate>Thu, 12 Feb 2026 12:00:26 +0000</pubDate>
-    </item>
-    <item>
       <title>船舶が座礁、航空機が着陸不能に!? 宇宙システムの「もしも」に備える官民が一堂に会した机上演習の実施意図</title>
       <link>https://sorabatake.jp/44787/</link>
       <description>宇宙システムの安定性強化に関する官民協議会の構成員が集まり、宇宙システム全体の機能保障強化のための机上演習が行われました。冒頭挨拶で話された内容や机上演習が行われた背景についてまとめています。 (source: 宙畑)</description>
@@ -65,18 +65,18 @@
       <pubDate>Tue, 17 Feb 2026 04:41:17 +0000</pubDate>
     </item>
     <item>
-      <title>観測史上最遠の可能性　135億年前の初期宇宙に存在した銀河「MoM-z14」を発見</title>
-      <link>https://sorae.info/astronomy/20260212-mom-z14-jwst.html</link>
-      <description>こちらは、ジェームズ・ウェッブ宇宙望遠鏡（JWST）が観測した、ろくぶんぎ座の一角。右下にはその一部の拡大画像が挿入されています。 ノイズとして見落としてしまいそうなほど小さなこの光は、発表時点で観測史上最遠の可能性があ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260212-mom-z14-jwst.html</guid>
-      <pubDate>Thu, 12 Feb 2026 09:41:49 +0000</pubDate>
-    </item>
-    <item>
       <title>スペースX、対話型AI「Grok」開発のxAIを統合へ–宇宙データセンターを構築</title>
       <link>https://uchubiz.com/article/new68933/</link>
       <description>SpaceXは、対話型AI「Grok」を開発するxAIを買収し、自社組織に統合すると発表した。両社はイーロン・マスク氏が率いてきたが、これまでは別会社として運営されていた。今回の買収で、AI開発と宇宙インフラを一体的に […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new68933/</guid>
       <pubDate>Tue, 03 Feb 2026 10:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>土星の衛星タイタンは数億年前に衛星どうしの合体で誕生した可能性？　環の形成にも影響か</title>
+      <link>https://sorae.info/astronomy/20260217-saturn-titan-ring-formation.html</link>
+      <description>土星の最大の衛星Titan（タイタン、ティタン）は、窒素を主成分とする厚い大気を持つ太陽系唯一の衛星です。液体メタンの雨が降って川や湖が形成されているという、地球の水によく似た循環システムが存在するほか、地下には内部海が… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260217-saturn-titan-ring-formation.html</guid>
+      <pubDate>Tue, 17 Feb 2026 12:05:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
