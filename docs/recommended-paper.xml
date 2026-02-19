@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Feb 2026 07:06:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 07:05:40 +0000</lastBuildDate>
     <item>
-      <title>宇宙論における点広がり関数モデリングのためのディープラーニング</title>
-      <link>https://arxiv.org/abs/2602.15780v1</link>
-      <description>本稿では、現在最先端のアプローチである「全視野におけるPSF」（PIFF）よりも高い精度を実現する、データ駆動型のAIベースの点広がり関数（PSF）モデルの開発について紹介します。PIFFは、ダークエネルギーサーベイ（DES）、ハイパー・シュプリーム・カム（HSC）サーベイ、ヴェラ・C・ルビン天文台による時空遺産サーベイ（LSST）など、主要な弱重力レンズ効果サーベイで広く利用されています。PSFは、星などの点光源の光が大気と望遠鏡光学系を通過した後、どのように撮像されるかを特徴づけ、撮像システム全体の「ぼやけた指紋」を効果的に表します。PSFの正確なモデリングは、弱重力レンズ効果の解析に不可欠です。PSFの推定におけるバイアスは、宇宙の膨張史とダークエネルギー研究における大規模構造の成長を測る主要な宇宙論的プローブの一つである宇宙シア測定に直接伝播するからです。 PIFFはCCDごとに独立してPSFモデルを構築し、焦点面全体にわたって空間的な整合性が失われるという限界があるため、本研究では深層学習に基づくPSF再構成フレームワークを導入する。このアプローチでは、すばる望遠鏡の超広視野 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.15780v1</guid>
-      <pubDate>Tue, 17 Feb 2026 18:12:53 +0000</pubDate>
+      <title>物理学に基づくニューラルネットワークを用いた太陽の極磁場蓄積に対する非線形消光効果の調査</title>
+      <link>https://arxiv.org/abs/2602.16656v1</link>
+      <description>太陽ダイナモは、傾斜消光（TQ）や緯度消光（LQ）といった非線形フィードバックによって強く変調される過程を通じたポロイダル磁場の再生に依存している。これらのメカニズムは、太陽の極磁場の増強、ひいては将来の太陽活動周期の振幅を制御する上で決定的な役割を果たしている。本研究では、物理情報に基づくニューラルネットワーク（PINN）を用いて表面磁束輸送（SFT）方程式を解き、ニューラルネットワークフレームワークに物理的制約を直接組み込んだ。輸送パラメータを系統的に変化させることで、TQとLQの極双極子増強に対する相対的な寄与を分離する。残留双極子モーメントを周期ごとの増幅の診断として使用し、拡散係数の増加に伴ってTQの抑制が強まる一方で、移流が支配的な領域ではLQが支配的となることを示した。比$ΔD_{\mathrm{LQ}}/ΔD_{\mathrm{TQ}}$はダイナモ有効範囲に対して滑らかな逆二乗依存性を示し、これまでの経験的フィッティングを精度向上と散布低減で改良しています。さらに、この結果は、トレーニングプロセスのため、PINNのセットアップに減衰項は必須ではないことを示しています。従 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.16656v1</guid>
+      <pubDate>Wed, 18 Feb 2026 17:54:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

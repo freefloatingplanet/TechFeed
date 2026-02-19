@@ -7,24 +7,62 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Feb 2026 07:06:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 07:05:34 +0000</lastBuildDate>
     <item>
-      <title>【コピペすら不要】tmux + Neovimで作るVSCodeライクなターミナル開発環境</title>
-      <link>https://zenn.dev/spacemarket/articles/fd6203970ba0fe</link>
-      <description>おはようございます、こんにちは、こんばんは。
-スペースマーケットでWebエンジニアをしています、s0arです。
-ファッキンコールド（クソ寒い）
-今日はターミナル開発環境の話をします。
+      <title>「1行もコードを書いてない」——3日後、150万APIキー漏洩。身に覚えがあった【前編】</title>
+      <link>https://zenn.dev/helloworld/articles/5c69b2981d5199</link>
+      <description>「1行もコードを書いてない」
+2026年1月、SNS「Moltbook」がローンチした。バズったのはサービスじゃなくて、創業者の一言
 
- この記事 is 何
-以前、Zellij + Helix で軽量ターミナル開発環境を作った記事を書きました。
+元ポスト — 「Moltbookのコードは1行も書いてない。技術アーキテクチャのビジョンだけ持って、AIがそれを現実にした」
+Xでめちゃくちゃ回ってた。「コード書かなくてもここまで作れるのか」って
+3日後、全部崩れた
+curlコマンドを1回叩いただけで、本来見えてはいけない150万件のAPIキーが丸見え。特別なハッキング技術は何もいらなかった
+昔、GitHub の public リポジトリに API キーを置いてしまったことがある。Google から... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/helloworld/articles/5c69b2981d5199</guid>
+      <pubDate>Mon, 16 Feb 2026 22:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>バイブコーディングで課題解決アプリを作ったけど、やっぱり紙が最強だった話</title>
+      <link>https://zenn.dev/jun_murakami/articles/81f54145c17414</link>
+      <description>!
+この記事は100％人間の手で書かれています。
 
-で、結局 tmux + Neovim に乗り換えました。
-!
-ちょっと前に「Neovimの設定が面倒」「tmuxのキーバインド覚えたくない」って言ったばかりなのにもう乗り換えるんか、みたいな声はさすがにないと思います。
-だって前回の記事の方が割と異端でしょ。今回は正統でしょ。ほなええでしょ。なあ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/spacemarket/articles/fd6203970ba0fe</guid>
-      <pubDate>Mon, 16 Feb 2026 02:53:04 +0000</pubDate>
+最近はAIのおかげで、ドメイン知識を持つ業界の当事者が、
+自分でツールを作るハードルは劇的に下がりました。
+音楽家の僕も例外ではありません。
+そこで先日、レコーディングの現場で使うための
+「テイク評価・コンピング管理アプリ」を作りました。
+https://zenn.dev/jun_murakami/articles/2f11d63cf9bf9d
+かなり頑張って作り込んで、自信もありました。
+で、現場に持ち込んだところ・・・
+紙が勝ちました。 玉砕です。
+アプリが動かなかったとかではないんです。普通に動くし、むしろ完成度は高い（と思ってた... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/jun_murakami/articles/81f54145c17414</guid>
+      <pubDate>Mon, 16 Feb 2026 04:27:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>"ビビる大木AI"を生放送で喋らせた全技術 — ラヴィット!裏側</title>
+      <link>https://zenn.dev/t_honda/articles/loveit-ai-voice-pipeline</link>
+      <description>"ビビる大木AI"を生放送で喋らせた全技術 — ラヴィット!裏側
+
+
+ はじめに
+TBS「ラヴィット!」のミステリー企画で、AI版「ビビる大木」を生放送に出演させるシステムを徹夜二日間で開発しました。初回発話レイテンシ2.5秒、本番の生放送で事故ゼロ。
+3Dキャラクターが裏方オペレーターの操作やAIの応答に合わせてリアルタイムに発話し、口を動かし、字幕を表示する。いわゆる「AIバーチャルタレント」のライブ出演基盤です。この記事では、音声クローンから3Dリップシンク、日本語処理、AI駆動開発まで、システムの全技術を解説します。
+
+ システム全体のアーキテクチャ
+
+ 音声モデルの学習 —... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/t_honda/articles/loveit-ai-voice-pipeline</guid>
+      <pubDate>Tue, 17 Feb 2026 22:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>小1にGemini使わせてみたら、AIより先に困ったことがあった</title>
+      <link>https://zenn.dev/nexta_/articles/f001c370c7df1d</link>
+      <description>はじめに こんにちは！QAエンジニアのAyakaです。 前回の記事では、子供とGeminiを使ってみた体験と、AIとの距離感について書きました。 今回はそのときに出てきた、もう少し技術寄りの気づきについてです。 小1はキーボード入力がほぼできないので、音声入力でGeminiを使いました。 ここで想定外のところに壁がありまし... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/nexta_/articles/f001c370c7df1d</guid>
+      <pubDate>Wed, 18 Feb 2026 16:00:40 +0000</pubDate>
     </item>
     <item>
       <title>ハッカソンに登録したのにClaude Codeが凄すぎて提出できなかった話</title>
@@ -39,44 +77,21 @@ Zennの「第4回 Agentic AI Hackathon with Google Cloud」に登録しました
       <pubDate>Mon, 16 Feb 2026 07:22:28 +0000</pubDate>
     </item>
     <item>
-      <title>AIがペネトレーションテストを自動化する時代が来た——2026年の主要ツールまとめ</title>
-      <link>https://zenn.dev/frsk/articles/ai-pentesting-tools-2026</link>
-      <description>AIペンテストツールが急に増えた
-最近、タイムラインにAIペネトレーションテストの話がやたら出てくる。
-1年前はPentestGPTぐらいしかなかった。それが2025年の後半から急に増えて、2026年2月の時点でオープンソースだけで8つ以上、商用サービスも5つ以上ある。
-なんでこんなに急に増えたのか。まず、LLMがかなり賢くなって、セキュリティツールとの連携の仕方が固まってきた。NmapやMetasploit、SqlmapといったツールをAIエージェントが自分で選んで回せるようになった。つまり、作る側の準備が整った。
-もう1つは、テストしなきゃいけないコードが一気に増えたこと。バイブ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/frsk/articles/ai-pentesting-tools-2026</guid>
-      <pubDate>Mon, 16 Feb 2026 17:38:54 +0000</pubDate>
+      <title>Geminiが歌を手に入れた。日本語の楽曲をチャットで作れるGoogle Lyria 3を使ってみた（CloseBox） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/02/19/4873.html</link>
+      <description>Googleは2月18日、ボーカル入り楽曲生成を始めました。同社はLyriaという音楽生成AIをすでに提供していましたが、新バージョンのLyria 3でボーカル入り楽曲の生成をサポート。日本語も含めた楽曲をGeminiのチャットインタフェースで提供しています。 やり方は簡単で、Geminiの中で曲を作る指示をするだけ。Geminiのツー... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.techno-edge.net/article/2026/02/19/4873.html</guid>
+      <pubDate>Thu, 19 Feb 2026 00:24:26 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】Webページを保存する新手法が技術的にぶっ飛んでいて話題に — HTMLにtarをそのまま結合、window.stop()で読み込み強制停止してHTTP Range Requestで自己を再構築</title>
-      <link>https://techfeed.io/entries/6992888f1ba15814230496e3?from=rss</link>
-      <description>2月16日、Gwern Branwen氏が「Gwtar: a static efficient single-file HTML format · Gwern.net」と題した記事を公開した。この記事では、Webアーカイブにおける長年の難題を、JavaScriptとHTTP規格の裏をかくようなハックで解決した画期的な新フォーマット「Gwtar」について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6992888f1ba15814230496e3?from=rss</guid>
-      <pubDate>Mon, 16 Feb 2026 03:01:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>C#er のための GitHub Copilot が勝手に Python を実行するのを辞めさせたい場合の対処法</title>
-      <link>https://zenn.dev/microsoft/articles/github-copilot-csharp-scripting</link>
-      <description>はじめに
-GitHub Copilot (最近は GitHub Copilot CLI を個人的にはよく使っています) で、何かデータ処理をさせようとすると、最初に Python のコードを生成して、Python を実行しようとすることが多いと思います。
-それだけなら、まだいいのですが放っておくと pip install を実行して、Python の環境を汚染してしまうこともあります。個人的には、この動きはあまり好ましくないので、自分の好きな C# でデータ処理をさせるように、GitHub Copilot をカスタムする方法を紹介します。C# を書いている人であれば .NET 10 ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/github-copilot-csharp-scripting</guid>
-      <pubDate>Mon, 16 Feb 2026 13:43:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>useEffect で API を叩くのを卒業しよう</title>
-      <link>https://zenn.dev/ashunar0/articles/32419c3c60cc53</link>
-      <description>はじめに
-「useEffectでデータ取得するのはやめた方がいい」— こんな話を聞いたことはないだろうか。
-でも自分はずっと、useEffect + fetch でAPIを叩いていた。中でtry-catchして、useStateにセットして、ローディングもエラーも自分で管理して。チュートリアルで覚えたそのパターンを、特に疑うこともなく使い続けていた。
-「やめた方がいいのは分かった。じゃあ何を使えばいいの？」— この記事は、その疑問に対する自分なりの答えを、実際にTanStack Queryに置き換えてみた過程から書いている。
-
-
- useEffect + fetch で書くとこうなる... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ashunar0/articles/32419c3c60cc53</guid>
-      <pubDate>Sat, 14 Feb 2026 10:57:20 +0000</pubDate>
+      <title>話題のmicrogptを早速試してみる</title>
+      <link>https://zenn.dev/aiforall/articles/e5733531811e0e</link>
+      <description>2月12日にkarpathy氏がGistに投稿した以下のmicrogptをご存知でしょうか。
+https://gist.github.com/karpathy
+この記事を執筆してる時点で一週間が経過していますが、なおも修正が行われているこれは、GPTの構造をPythonで簡易的に実装したソースコードになります。GPTの構造を理解するのにも役立つ内容となっており、その行数は最新（2/18 11時時点）で、200行という短さです。
+加えて、プログラムファイルの先頭にあるDocstringの通り、Pythonの標準ライブラリのみを使用して実装が行われているため、他の複雑なライブラリを理解するこ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aiforall/articles/e5733531811e0e</guid>
+      <pubDate>Wed, 18 Feb 2026 05:26:09 +0000</pubDate>
     </item>
     <item>
       <title>Excel 方眼紙を GitHub Copilot に食わせてみた</title>
@@ -99,32 +114,28 @@ C#er のための GitHub Copilot が勝手に Python を実行するのを辞め
       <pubDate>Mon, 16 Feb 2026 14:36:11 +0000</pubDate>
     </item>
     <item>
-      <title>あなたがSunoだと思ってサブスクしているそのAI作曲サービスの正体（CloseBox） | テクノエッジ TechnoEdge</title>
-      <link>https://www.techno-edge.net/article/2026/02/18/4870.html</link>
-      <description>音楽生成AI、特にSunoについて人に教えることが多いのですが、このところ立て続けに奇妙な出来事に遭遇しています。電話やメッセンジャーでのやり取りで、「この機能について教えてくれ」と言われて、手元のSunoアプリ（モバイル）やWeb版を見ながらやり方を教えているのに、「そんなボタンやメニューはない」と言うので... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.techno-edge.net/article/2026/02/18/4870.html</guid>
-      <pubDate>Wed, 18 Feb 2026 02:04:14 +0000</pubDate>
+      <title>モダンで爆速。月額0円でWebアプリを開発・公開する技術構成（Hono/Neon/Drizzle/Cloudflare Pages）</title>
+      <link>https://zenn.dev/epicai_techblog/articles/ff6225111e3649</link>
+      <description>1. はじめに
+こんにちは！ 株式会社EpicAIの松島です！
+EpicAIではシステム開発系の案件に関わることが多く、要件整理〜実装まで幅広く触っています。個人では、作りたいものを気軽に作って試したり、AtCoderで競プロをやったりしています。
+今回は、自分が個人開発をするときに愛用している技術構成について紹介します。
+学生や個人開発者のみなさん、アプリのデプロイ先、どうしていますか？
+「モダンな技術でWebアプリを作りたい！でも…」
+
+AWSやAzureは機能が多すぎて学習コストが高いし、クレジットカードの高額請求が怖い…。
+Herokuの無料枠が終わってから、手軽なデプロイ先... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/epicai_techblog/articles/ff6225111e3649</guid>
+      <pubDate>Sun, 15 Feb 2026 23:01:05 +0000</pubDate>
     </item>
     <item>
-      <title>100均のメジャーで測ってVRChatワールドを作った結果、予想外のことが起きた｜タカハシヤマダ</title>
-      <link>https://note.com/takahashi_yamada/n/n93f84fbd2dfd</link>
-      <description>最近、BOOTHで公開したVRCワールドアセットがあるのですが、今回は設計段階から少々違ったアプローチをしてみました。現実の「実寸」をベースに制作してみたのです。 もちろん、マンションの内装や細部まで完全に同じにするわけではなく、あくまで建物の構造や空間の寸法を実際のサイズに合わせる、という意味での実寸制... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/takahashi_yamada/n/n93f84fbd2dfd</guid>
-      <pubDate>Tue, 17 Feb 2026 23:04:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>技術発信を後回しにした私が、転職で詰んだ話。</title>
-      <link>https://zenn.dev/igz0/articles/skill-without-proof</link>
-      <description>書類選考の結果通知を開くたび、目に入るのは「お祈りメール」ばかりだった。
-当時の私は「実力が足りないから落ちるのだ」と思い込んでいた。だが今振り返ると、それは半分しか正解ではない。
-足りなかったのは実力そのものだけではなく、実力を外に伝える材料だった。
-私は新卒時代、技術発信を「すごい人がやるもの」だと思い込み、学びを残さないまま流し続けていた。
-その結果、転職で評価されるはずだった「過程」を、自分でみすみすドブに捨ててしまっていたのだ。
-この記事で伝えたいのは、完璧な発信のすすめではない。
-不完全でも公開し、一次情報と検証範囲を明記し、更新で育てる。
-その運用こそが、キャリアと学習を前... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/igz0/articles/skill-without-proof</guid>
-      <pubDate>Sat, 14 Feb 2026 10:13:15 +0000</pubDate>
+      <title>なぜExcel/VBAは軽視されるのか：技術ヒエラルキーと現場・管理の非対称性</title>
+      <link>https://zenn.dev/minipoisson/articles/psychology-of-technical-hierarchy</link>
+      <description>はじめに
+私は日頃、C#を用いた画像処理やPythonによる文字列解析やクラウドAPIの利用、またGeminiやNotebookLMを活用したAIエージェントの構築など、いわゆる「モダン」で「高度」とされる技術スタックに好んで触れています。一方で、予算や権限が厳しく制限された業務現場において、ExcelやVBAを駆使して「今日そこにある課題」を突破するハックも同じ熱量で実践してきました。
+その両方の世界を跨いで活動する中で、どうしても拭えない違和感があります。それは、「技術の内容（何を実現したか）」ではなく、「技術の種類（何を使ったか）」によって、エンジニアの価値が品定めされてしまう... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/minipoisson/articles/psychology-of-technical-hierarchy</guid>
+      <pubDate>Tue, 17 Feb 2026 15:56:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

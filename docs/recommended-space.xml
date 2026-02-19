@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Feb 2026 07:06:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 07:05:37 +0000</lastBuildDate>
     <item>
-      <title>アリアンスペースが「アリアン6」で「アマゾンレオ」の衛星32機を打ち上げ　ブースター4基形態の初飛行</title>
-      <link>https://sorae.info/ssn/20260213-va267.html</link>
-      <description>ヨーロッパ企業Arianespace（アリアンスペース）は日本時間2026年2月13日に「Ariane 6（アリアン6）」ロケットの打ち上げを実施しました。搭載されていたAmazon（アマゾン）の衛星は無事に軌道に投入さ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260213-va267.html</guid>
-      <pubDate>Fri, 13 Feb 2026 10:21:04 +0000</pubDate>
+      <title>真っ暗な海を漂うクラゲのような渦巻銀河「JW100」　ハッブル宇宙望遠鏡が観測</title>
+      <link>https://sorae.info/astronomy/20260216-jw100.html</link>
+      <description>こちらの画像、中央右下に写っているのはハッブル宇宙望遠鏡（HST）が観測した渦巻銀河「JW100」。 ペガスス座の方向、約8億光年先にあります。 地球に対してほぼ真横を向けた銀河円盤から画像の下方向に向かって、斑点が連な… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260216-jw100.html</guid>
+      <pubDate>Mon, 16 Feb 2026 12:40:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>「気球からロケット発射」のAstroXが23億円を調達–2026年内の宇宙空間到達を目指す</title>
+      <link>https://uchubiz.com/article/new68946/</link>
+      <description>AstroX（福島県南相馬市）は2月4日、総額23.2億円の資金調達を発表した。第三者割当増資の引受先は、One Capital、インクルージョン・ジャパン、エンジェル投資家。 　AstroXは、気球を用いて空中からロ […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new68946/</guid>
+      <pubDate>Wed, 04 Feb 2026 04:52:50 +0000</pubDate>
     </item>
     <item>
       <title>楽天モバイル、JAXA宇宙戦略基金に採択　「次世代衛星通信AI」で地上ネットワークとの統合運用へ</title>
@@ -37,13 +44,6 @@
       <pubDate>Tue, 17 Feb 2026 07:09:15 +0000</pubDate>
     </item>
     <item>
-      <title>ULA、「ヴァルカン」ロケットで米宇宙軍のペイロード打ち上げに成功もブースターに再び異常発生</title>
-      <link>https://sorae.info/ssn/20260213-vulcan-ussf-87.html</link>
-      <description>ULA（ユナイテッド・ローンチ・アライアンス）は日本時間2026年2月12日、「Vulcan（バルカン、ヴァルカン）」ロケットの打ち上げを実施しました。搭載されていたアメリカ宇宙軍のペイロードは予定されていた軌道への投入… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260213-vulcan-ussf-87.html</guid>
-      <pubDate>Fri, 13 Feb 2026 08:37:28 +0000</pubDate>
-    </item>
-    <item>
       <title>不動産探索ツールのWHERE、衛星データ解析と名簿データを連携して精度向上–住宅テックラボと</title>
       <link>https://uchubiz.com/article/new68969/</link>
       <description>JAXA発スタートアップのWHERE（東京都文京区）は2月6日、住宅テックラボ（東京都渋谷区）のオーナーサーチデータと連携することを発表した。両社は衛星データとAIを軸にした不動産AIツール「WHERE」の機能を拡張し […] (source: Uchubiz)</description>
@@ -65,11 +65,11 @@
       <pubDate>Tue, 17 Feb 2026 04:41:17 +0000</pubDate>
     </item>
     <item>
-      <title>スペースX、対話型AI「Grok」開発のxAIを統合へ–宇宙データセンターを構築</title>
-      <link>https://uchubiz.com/article/new68933/</link>
-      <description>SpaceXは、対話型AI「Grok」を開発するxAIを買収し、自社組織に統合すると発表した。両社はイーロン・マスク氏が率いてきたが、これまでは別会社として運営されていた。今回の買収で、AI開発と宇宙インフラを一体的に […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new68933/</guid>
-      <pubDate>Tue, 03 Feb 2026 10:03:18 +0000</pubDate>
+      <title>製造企業の宇宙参入可能性を最短10分で診断できるプラットフォーム「ORBITAS」–ALTILANが公開</title>
+      <link>https://uchubiz.com/article/new69103/</link>
+      <description>ALTILAN（静岡県浜松市）は2月19日、宇宙参入診断プラットフォーム「ORBITAS（オルビタス）」の提供を開始した。製造業の企業が、宇宙機器のどの領域で自社技術を生かせる可能性があるのかを最短10分で診断できると […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new69103/</guid>
+      <pubDate>Thu, 19 Feb 2026 05:27:07 +0000</pubDate>
     </item>
     <item>
       <title>土星の衛星タイタンは数億年前に衛星どうしの合体で誕生した可能性？　環の形成にも影響か</title>
