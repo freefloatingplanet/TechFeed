@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Feb 2026 07:05:37 +0000</lastBuildDate>
-    <item>
-      <title>真っ暗な海を漂うクラゲのような渦巻銀河「JW100」　ハッブル宇宙望遠鏡が観測</title>
-      <link>https://sorae.info/astronomy/20260216-jw100.html</link>
-      <description>こちらの画像、中央右下に写っているのはハッブル宇宙望遠鏡（HST）が観測した渦巻銀河「JW100」。 ペガスス座の方向、約8億光年先にあります。 地球に対してほぼ真横を向けた銀河円盤から画像の下方向に向かって、斑点が連な… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260216-jw100.html</guid>
-      <pubDate>Mon, 16 Feb 2026 12:40:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>「気球からロケット発射」のAstroXが23億円を調達–2026年内の宇宙空間到達を目指す</title>
-      <link>https://uchubiz.com/article/new68946/</link>
-      <description>AstroX（福島県南相馬市）は2月4日、総額23.2億円の資金調達を発表した。第三者割当増資の引受先は、One Capital、インクルージョン・ジャパン、エンジェル投資家。 　AstroXは、気球を用いて空中からロ […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new68946/</guid>
-      <pubDate>Wed, 04 Feb 2026 04:52:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Feb 2026 07:02:38 +0000</lastBuildDate>
     <item>
       <title>楽天モバイル、JAXA宇宙戦略基金に採択　「次世代衛星通信AI」で地上ネットワークとの統合運用へ</title>
       <link>https://sorae.info/space/20260217-rakuten-mobile-jaxa.html</link>
@@ -65,11 +51,25 @@
       <pubDate>Tue, 17 Feb 2026 04:41:17 +0000</pubDate>
     </item>
     <item>
+      <title>魚介類向け宇宙養殖システムからAI洪水予測まで、宇宙産業への新規参入企業も。東京都の「宇宙製品開発助成」に採択された8つの技術開発テーマ</title>
+      <link>https://sorabatake.jp/44824/</link>
+      <description>東京都と東京都中小企業振興公社は宇宙産業に特化した助成制度 「宇宙製品等開発経費助成」の支援対象として、計8件の事業を採択。その概要と宙畑編集部が気になったポイントを紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/44824/</guid>
+      <pubDate>Thu, 19 Feb 2026 23:00:34 +0000</pubDate>
+    </item>
+    <item>
       <title>製造企業の宇宙参入可能性を最短10分で診断できるプラットフォーム「ORBITAS」–ALTILANが公開</title>
       <link>https://uchubiz.com/article/new69103/</link>
       <description>ALTILAN（静岡県浜松市）は2月19日、宇宙参入診断プラットフォーム「ORBITAS（オルビタス）」の提供を開始した。製造業の企業が、宇宙機器のどの領域で自社技術を生かせる可能性があるのかを最短10分で診断できると […] (source: Uchubiz)</description>
       <guid isPermaLink="true">https://uchubiz.com/article/new69103/</guid>
       <pubDate>Thu, 19 Feb 2026 05:27:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>月面の水分子はレゴリスの微小な空隙で作られる？　新たな生成メカニズムを提唱</title>
+      <link>https://sorae.info/astronomy/20260220-lunar-surface-h2o.html</link>
+      <description>乾燥した不毛の大地と考えられてきた月の表面に、実は「水」が存在していることは、近年の観測によって確実視されつつあります。 2020年にはNASA（アメリカ航空宇宙局）が、当時運用していた成層圏赤外線天文台「SOFIA（ソ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260220-lunar-surface-h2o.html</guid>
+      <pubDate>Fri, 20 Feb 2026 02:31:25 +0000</pubDate>
     </item>
     <item>
       <title>土星の衛星タイタンは数億年前に衛星どうしの合体で誕生した可能性？　環の形成にも影響か</title>

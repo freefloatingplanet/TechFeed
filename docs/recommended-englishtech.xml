@@ -7,11 +7,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Feb 2026 07:05:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 07:02:44 +0000</lastBuildDate>
+    <item>
+      <title>Redditはショッピングのための新しいAI検索機能をテスト中</title>
+      <link>https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/</link>
+      <description>米国の少数のユーザーは、価格、画像、購入場所への直接リンクを含むインタラクティブな製品カルーセルを含む検索結果が表示されるようになります。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/</guid>
+      <pubDate>Thu, 19 Feb 2026 18:22:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>記事: Kubernetes におけるエッジアプリケーションのプロアクティブな自動スケーリング</title>
+      <link>https://www.infoq.com/articles/proactive-autoscaling-edge-kubernetes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Kubernetesは、エッジでのトラフィックの急増に対して、しばしば対応が遅れてしまいます。応答時間、CPUの空き容量、コンテナの起動遅延を考慮したプロアクティブなスケーリングアプローチは、インスタンスの追加や削除をよりスムーズに行い、突発的なトラフィックの急増を防ぎ、リソースが限られたシステムでも安定したパフォーマンスを維持できます。Rajeev Kallayil Ravi著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/proactive-autoscaling-edge-kubernetes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 17 Feb 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dropbox がエンタープライズ ナレッジ検索向けにスケーラブルなコンテキスト エンジンを構築した方法</title>
+      <link>https://www.infoq.com/news/2026/02/dropbox-context-engine/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Dropboxのエンジニアたちは、Dropbox Dashの背後にあるコンテキストエンジンの構築方法について詳しく説明し、大規模なエンタープライズAIをサポートするために、インデックスベースの検索、ナレッジグラフから得られるコンテキスト、そして継続的な評価へと移行していることを明らかにした。マット・フォスター (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/dropbox-context-engine/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 18 Feb 2026 07:23:00 +0000</pubDate>
+    </item>
     <item>
       <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新興のAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
@@ -30,18 +51,18 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAIがAIエージェントサーフェスを統合するCodexアプリサーバーアーキテクチャを公開</title>
+      <title>オンボーディングを48時間から4時間に短縮：Amazon Keyのイベント駆動型プラットフォームの内部</title>
+      <link>https://www.infoq.com/news/2026/02/amazon-key-event-driven-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Amazon Keyは、Amazon EventBridgeを基盤とした集中型のイベントドリブンアーキテクチャを採用することで、イベントプラットフォームを近代化しました。この再設計により、毎日数百万件ものイベントをミリ秒単位のレイテンシーで処理できるようになり、スキーマガバナンスの向上、アカウント間ルーティングの自動化、そしてサービスのオンボーディング時間を48時間から4時間に短縮しながら、99.99%の信頼性を維持しています。リーラ・クミリ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/amazon-key-event-driven-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 19 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI、AIエージェントサーフェスを統合するCodexアプリサーバーアーキテクチャを公開</title>
       <link>https://www.infoq.com/news/2026/02/opanai-codex-app-server/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>OpenAIは最近、Codexコーディングエージェントのコアロジックを様々なクライアントサーフェスから分離する双方向プロトコルであるCodex App Serverの詳細なアーキテクチャ記述を公開しました。App Serverは、CLI、VS Code拡張機能、ウェブアプリなど、あらゆるCodexエクスペリエンスを単一の安定したAPIで実現します。Eran Stiller著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/02/opanai-codex-app-server/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Tue, 17 Feb 2026 11:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>プレゼンテーション: 理想的なマイクロフロントエンドプラットフォーム</title>
-      <link>https://www.infoq.com/presentations/distributed-micro-frontends/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Luca Mezzalira氏が、マイクロフロントエンドの意思決定フレームワークを公開します。構成、ルーティング、通信を網羅しています。「ストリームアラインメント」チームの構築方法と、基盤アーキテクチャにおける「タイガーチーム」の活用方法を解説します。また、外部依存関係の削減による社会技術的なメリットについても解説し、ガードレールとディスカバリーサービスを活用して1日25回以上のデプロイを実現する方法も紹介します。Luca Mezzalira著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/distributed-micro-frontends/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 16 Feb 2026 15:45:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
@@ -51,32 +72,11 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SeatGeekとSpotifyが提携し、音楽プラットフォーム内でコンサートチケット販売を提供</title>
-      <link>https://techcrunch.com/2026/02/18/seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform/</link>
-      <description>これはSeatGeekにとって戦略的な勝利です。Spotifyアプリに直接広告を掲載することで、SeatGeekは今後開催されるイベントを発見する何百万人ものアクティブな音楽ファンにリーチし、リスナーをチケット購入者へと転換させる可能性を高めることができます。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/02/18/seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform/</guid>
-      <pubDate>Wed, 18 Feb 2026 19:07:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>GlassFish 8.0はJakarta EE 11との互換性、セキュリティ強化、データアクセスの改善を実現</title>
-      <link>https://www.infoq.com/news/2026/02/glassfish-8-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Eclipse Foundationは、15回のマイルストーンリリースを経て、GlassFishバージョン8.0をリリースしました。仮想スレッドのサポート、アプリケーションセキュリティの強化、データアクセスの改善などが特長です。GlassFish 8.0は、Jakarta EE 11と互換性のある実装です。Java Championであり、OmniFishの共同創設者でもあるOndro Mihályi氏が、InfoQのインタビューでGlassFish 8.0について語りました。Michael Redlich著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/glassfish-8-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 17 Feb 2026 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google、499ドルのPixel 10aを発表</title>
-      <link>https://techcrunch.com/2026/02/18/google-debuts-499-pixel-10a/</link>
-      <description>このスマートフォンは現在予約注文可能で、出荷は3月5日から開始されます。カラーはラベンダー、ベリー、フォグ、オブシディアンの4色です。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/02/18/google-debuts-499-pixel-10a/</guid>
-      <pubDate>Wed, 18 Feb 2026 17:41:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome 144 に Temporal API が追加: JavaScript の日付/時刻標準化を促進</title>
-      <link>https://www.infoq.com/news/2026/02/chrome-temporal-date-api/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Chrome 144では、画期的なTemporal APIが導入され、JavaScriptにおける日付と時刻の管理に革命をもたらします。批判されてきたDateオブジェクトの現代的な代替として、Temporalは解析の曖昧さ、タイムゾーンの複雑さ、そして可変演算といった問題を解決します。明確な型と組み込みサポートにより、開発者は日付をシームレスに扱うことができますが、ブラウザによって導入状況は異なります。ダニエル・カーティス (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/chrome-temporal-date-api/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 17 Feb 2026 08:00:00 +0000</pubDate>
+      <title>JDK 26とJDK 27: これまでにわかっていること</title>
+      <link>https://www.infoq.com/news/2026/02/java-26-so-far/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>JDK 25以来初の非LTSリリースとなるJDK 26は、JEP形式の10個の新機能を含む2番目のリリース候補版に到達しました。これらの新機能は、コアJavaライブラリ、HotSpot、Java言語仕様、セキュリティライブラリ、クライアントライブラリの5つのカテゴリーに分類できます。JDK 26を検証し、JDK 27でターゲットとされている、またはターゲットとされる可能性のある機能を予測します。マイケル・レッドリッヒ (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/java-26-so-far/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 20 Feb 2026 02:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

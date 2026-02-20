@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Feb 2026 07:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 07:02:39 +0000</lastBuildDate>
     <item>
-      <title>物理学に基づくニューラルネットワークを用いた太陽の極磁場蓄積に対する非線形消光効果の調査</title>
-      <link>https://arxiv.org/abs/2602.16656v1</link>
-      <description>太陽ダイナモは、傾斜消光（TQ）や緯度消光（LQ）といった非線形フィードバックによって強く変調される過程を通じたポロイダル磁場の再生に依存している。これらのメカニズムは、太陽の極磁場の増強、ひいては将来の太陽活動周期の振幅を制御する上で決定的な役割を果たしている。本研究では、物理情報に基づくニューラルネットワーク（PINN）を用いて表面磁束輸送（SFT）方程式を解き、ニューラルネットワークフレームワークに物理的制約を直接組み込んだ。輸送パラメータを系統的に変化させることで、TQとLQの極双極子増強に対する相対的な寄与を分離する。残留双極子モーメントを周期ごとの増幅の診断として使用し、拡散係数の増加に伴ってTQの抑制が強まる一方で、移流が支配的な領域ではLQが支配的となることを示した。比$ΔD_{\mathrm{LQ}}/ΔD_{\mathrm{TQ}}$はダイナモ有効範囲に対して滑らかな逆二乗依存性を示し、これまでの経験的フィッティングを精度向上と散布低減で改良しています。さらに、この結果は、トレーニングプロセスのため、PINNのセットアップに減衰項は必須ではないことを示しています。従 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.16656v1</guid>
-      <pubDate>Wed, 18 Feb 2026 17:54:59 +0000</pubDate>
+      <title>リッジ回帰における最適な制約なし自己蒸留：厳密な改善、精密な漸近解析、ワンショットチューニング</title>
+      <link>https://arxiv.org/abs/2602.17565v1</link>
+      <description>自己蒸留（SD）とは、同一のアーキテクチャと学習データを用いて、正解ラベルと教師自身の予測値を混合したデータを用いて生徒データを再学習させるプロセスである。SDは経験的に汎化を向上させることが多いことが示されているが、その正式な保証は限定的である。本研究では、混合重み$ξ$が単位区間外になる可能性がある制約のない設定におけるリッジ回帰のSDを検証する。学習データに基づき、分布に関する仮定を一切与えずに、任意の予測リスクの2乗（分布外を含む）に対して、最適混合された生徒データは、教師リッジリスク$R(λ)$が非定常（すなわち$R'(λ) \neq 0$）となるすべての正則化レベル$λ&gt; 0$において、リッジ教師データを厳密に改善することを証明した。任意のλの値に対して最適混合重み$ξ^\star(λ)$の閉じた形式の表現を取得し、それが符号規則$\operatorname{sign}(ξ^\star(λ))=-\operatorname{sign}(R'(λ))$に従うことを示します。特に、過剰正則化領域の場合、$ξ^\star(λ)$は負になることがあります。SDによるリスク改善を定量 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.17565v1</guid>
+      <pubDate>Thu, 19 Feb 2026 17:21:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

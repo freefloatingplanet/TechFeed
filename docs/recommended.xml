@@ -7,39 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Feb 2026 07:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 07:02:34 +0000</lastBuildDate>
     <item>
-      <title>「1行もコードを書いてない」——3日後、150万APIキー漏洩。身に覚えがあった【前編】</title>
-      <link>https://zenn.dev/helloworld/articles/5c69b2981d5199</link>
-      <description>「1行もコードを書いてない」
-2026年1月、SNS「Moltbook」がローンチした。バズったのはサービスじゃなくて、創業者の一言
-
-元ポスト — 「Moltbookのコードは1行も書いてない。技術アーキテクチャのビジョンだけ持って、AIがそれを現実にした」
-Xでめちゃくちゃ回ってた。「コード書かなくてもここまで作れるのか」って
-3日後、全部崩れた
-curlコマンドを1回叩いただけで、本来見えてはいけない150万件のAPIキーが丸見え。特別なハッキング技術は何もいらなかった
-昔、GitHub の public リポジトリに API キーを置いてしまったことがある。Google から... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/helloworld/articles/5c69b2981d5199</guid>
-      <pubDate>Mon, 16 Feb 2026 22:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>バイブコーディングで課題解決アプリを作ったけど、やっぱり紙が最強だった話</title>
-      <link>https://zenn.dev/jun_murakami/articles/81f54145c17414</link>
-      <description>!
-この記事は100％人間の手で書かれています。
-
-最近はAIのおかげで、ドメイン知識を持つ業界の当事者が、
-自分でツールを作るハードルは劇的に下がりました。
-音楽家の僕も例外ではありません。
-そこで先日、レコーディングの現場で使うための
-「テイク評価・コンピング管理アプリ」を作りました。
-https://zenn.dev/jun_murakami/articles/2f11d63cf9bf9d
-かなり頑張って作り込んで、自信もありました。
-で、現場に持ち込んだところ・・・
-紙が勝ちました。 玉砕です。
-アプリが動かなかったとかではないんです。普通に動くし、むしろ完成度は高い（と思ってた... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/jun_murakami/articles/81f54145c17414</guid>
-      <pubDate>Mon, 16 Feb 2026 04:27:07 +0000</pubDate>
+      <title>【Go】Map複合キー「構造体キー vs 文字列キー」~ 検証レポート ~</title>
+      <link>https://qiita.com/umekikazuya/items/4a1210e7606cb2c0c35d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+今回、Go言語におけるmapの複合キーの表現方法についてフォーカスを当てて検証を行ってみました。
+あまり意識せず「型安全だから」という理由で構造体を複合キーに指定している方、そもそも構造体をキーにしていいことを知らない方、も意外と多いのかなと思います。
+本記事で... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/umekikazuya/items/4a1210e7606cb2c0c35d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 19 Feb 2026 17:42:20 +0000</pubDate>
     </item>
     <item>
       <title>"ビビる大木AI"を生放送で喋らせた全技術 — ラヴィット!裏側</title>
@@ -58,30 +35,20 @@ TBS「ラヴィット!」のミステリー企画で、AI版「ビビる大木�
       <pubDate>Tue, 17 Feb 2026 22:00:11 +0000</pubDate>
     </item>
     <item>
-      <title>小1にGemini使わせてみたら、AIより先に困ったことがあった</title>
-      <link>https://zenn.dev/nexta_/articles/f001c370c7df1d</link>
-      <description>はじめに こんにちは！QAエンジニアのAyakaです。 前回の記事では、子供とGeminiを使ってみた体験と、AIとの距離感について書きました。 今回はそのときに出てきた、もう少し技術寄りの気づきについてです。 小1はキーボード入力がほぼできないので、音声入力でGeminiを使いました。 ここで想定外のところに壁がありまし... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/nexta_/articles/f001c370c7df1d</guid>
-      <pubDate>Wed, 18 Feb 2026 16:00:40 +0000</pubDate>
+      <title>「AIを使えば劇的に生産性が上がる」は本当か？cc-sdd導入前後のデプロイ頻度データから見えた、AI時代のチーム開発の"本当のボトルネック"。 - Timee Product Team Blog</title>
+      <link>https://tech.timee.co.jp/entry/2026/02/19/190000</link>
+      <description>こんにちは！プロダクトエンジニアのkazzhiraです。 私たちのチームでは、2025年の夏ごろから「AI活用による開発生産性の向上」に取り組んできました。しかし、当初の取り組みは抽象的なガードレールの提示や個々人の実践にとどまり、チームとして大きな成果には結びつきませんでした。 その後、SDD（仕様駆動開発）とい... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech.timee.co.jp/entry/2026/02/19/190000</guid>
+      <pubDate>Thu, 19 Feb 2026 10:12:13 +0000</pubDate>
     </item>
     <item>
-      <title>ハッカソンに登録したのにClaude Codeが凄すぎて提出できなかった話</title>
-      <link>https://zenn.dev/niji2/articles/claudecode00</link>
-      <description>はじめに
-Zennの「第4回 Agentic AI Hackathon with Google Cloud」に登録しました。Google Cloudのクーポンももらいました。でも、提出できませんでした。すみません。
-理由は単純です。開発にClaude Codeを使っていて、Opus4.6が公開されてからあまりにも開発が捗りすぎて、気づいたらGoogle CloudではなくClaude Codeでアプリを作り込んでいたからです。
-この記事では、Claude Codeが実際に何をできるのかを、開発中の栽培記録アプリ（Flutter + Python）での実例を交えて具体的に書きます。
-
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/niji2/articles/claudecode00</guid>
-      <pubDate>Mon, 16 Feb 2026 07:22:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Geminiが歌を手に入れた。日本語の楽曲をチャットで作れるGoogle Lyria 3を使ってみた（CloseBox） | テクノエッジ TechnoEdge</title>
-      <link>https://www.techno-edge.net/article/2026/02/19/4873.html</link>
-      <description>Googleは2月18日、ボーカル入り楽曲生成を始めました。同社はLyriaという音楽生成AIをすでに提供していましたが、新バージョンのLyria 3でボーカル入り楽曲の生成をサポート。日本語も含めた楽曲をGeminiのチャットインタフェースで提供しています。 やり方は簡単で、Geminiの中で曲を作る指示をするだけ。Geminiのツー... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.techno-edge.net/article/2026/02/19/4873.html</guid>
-      <pubDate>Thu, 19 Feb 2026 00:24:26 +0000</pubDate>
+      <title>【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン</title>
+      <link>https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに：プロにとって「Vibe Coding」は恐怖でしかない
+2025年11月のリリース以来、Antigravity（アンチグラビティ）界隈では「Vibe Coding（バイブコーディング）」という言葉が流行しています。
+「コードが読めなくても、AIとノリで対話して... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 18 Feb 2026 03:00:22 +0000</pubDate>
     </item>
     <item>
       <title>話題のmicrogptを早速試してみる</title>
@@ -94,39 +61,44 @@ https://gist.github.com/karpathy
       <pubDate>Wed, 18 Feb 2026 05:26:09 +0000</pubDate>
     </item>
     <item>
-      <title>Excel 方眼紙を GitHub Copilot に食わせてみた</title>
-      <link>https://zenn.dev/microsoft/articles/github-copilot-excel-hoganshi</link>
-      <description>更新履歴
+      <title>gitのちょっとした手間を解決するCLI、gut-cliを作りました</title>
+      <link>https://zenn.dev/steelydylan/articles/why-i-created-gut-cli</link>
+      <description>はじめに
+git commit -m "ここに何書こう..." ってなることありませんか？
+これをgit commitだけにして、変更内容はAIに書いて欲しいなと思ってCLIツールを作りに着手しました。
+Claude Codeでやれば？という話かもしれませんが、Claude Codeは汎用的なコーディングエージェントなのでファイル全体を読み込んでユーザーの許可を得てみたいな感じで
+コミットメッセージを考えて欲しいだけなのに若干待たされるのが不便でした。
+このCLI（gut-cli）だとこんな感じでサクサクです！
 
-2026/02/16: 初版公開
-2026/02/18: Claude Sonnet 4.6 でも試してみた結果を追記
-
-
- はじめに
-!
-この記事は、以下の記事の Skill を前提にしていますが、別に必須ではありません。
-私が C# が好きなので、C# でやるための仕掛けを入れています。ほかの言語でも同様のことができると思います。
-C#er のための GitHub Copilot が勝手に Python を実行するのを辞めさせたい場合の対処法
-
-最近の GitHub Copilot は賢いので、意外と Excel を読むことが出来ます。
-といっても、直接 Excel ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/github-copilot-excel-hoganshi</guid>
-      <pubDate>Mon, 16 Feb 2026 14:36:11 +0000</pubDate>
+ブランチ名も同じです。GitHubのissueの内容を見て、featu... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/steelydylan/articles/why-i-created-gut-cli</guid>
+      <pubDate>Thu, 19 Feb 2026 00:31:03 +0000</pubDate>
     </item>
     <item>
-      <title>モダンで爆速。月額0円でWebアプリを開発・公開する技術構成（Hono/Neon/Drizzle/Cloudflare Pages）</title>
-      <link>https://zenn.dev/epicai_techblog/articles/ff6225111e3649</link>
-      <description>1. はじめに
-こんにちは！ 株式会社EpicAIの松島です！
-EpicAIではシステム開発系の案件に関わることが多く、要件整理〜実装まで幅広く触っています。個人では、作りたいものを気軽に作って試したり、AtCoderで競プロをやったりしています。
-今回は、自分が個人開発をするときに愛用している技術構成について紹介します。
-学生や個人開発者のみなさん、アプリのデプロイ先、どうしていますか？
-「モダンな技術でWebアプリを作りたい！でも…」
-
-AWSやAzureは機能が多すぎて学習コストが高いし、クレジットカードの高額請求が怖い…。
-Herokuの無料枠が終わってから、手軽なデプロイ先... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/epicai_techblog/articles/ff6225111e3649</guid>
-      <pubDate>Sun, 15 Feb 2026 23:01:05 +0000</pubDate>
+      <title>「自分、いけます」Suicaペンギン後継に他社キャラ続々立候補　Duolingoのフクロウ、ポスペのモモ、Pontaのたぬきまで</title>
+      <link>https://www.itmedia.co.jp/news/articles/2602/20/news062.html</link>
+      <description>語学アプリ「Duolingo」のX公式アカウントは、JR東の新キャラ選考プロセスの投稿を引用する形で、「自分、いけます」と立候補。「Duoca」というSuica風のカードにフクロウをデザインした画像を投稿した。フクロウの緑とSuicaの色はイメージ近く、違和感がない。 このポストには「JR東日本アプリ」から「かわいい」と返信... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2602/20/news062.html</guid>
+      <pubDate>Fri, 20 Feb 2026 02:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>PRのレビューが追いつかない！もう人間がボトルネックなので、気合いではなく仕組みで少しずつなんとかしていく</title>
+      <link>https://zenn.dev/pepabo/articles/ai-pr-review-bottleneck</link>
+      <description>はじめに
+PRのレビューが追いつかないことがある。気がついたらレビューで1日の殆どの時間を使うこともあった。
+私のチームでは、エンジニアがClaude Codeなどのエージェントを並列に起動して一人でかつての数人分のPRを出すようになりました。さらに、エンジニアだけでなくCSやディレクターといった非エンジニアのメンバーもClaude Code Actions（GitHub Actions上でClaude Codeを動かす仕組み）を通じてPRを出すようになっています。（この取り組みについては以前の記事「Claude Code Actionで複数リポジトリを横断して情報を参照し調査・実装... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pepabo/articles/ai-pr-review-bottleneck</guid>
+      <pubDate>Wed, 18 Feb 2026 11:07:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>クラウド型コーディングエージェントの時代がまた来る</title>
+      <link>https://zenn.dev/ubie_dev/articles/9258ddaa5f8caa</link>
+      <description>Ubie CTO の @yukukotani です。
+2025年は、Claude Codeのようなターミナル型やCursorのようなエディタ統合型など、ローカルで動作するコーディングエージェントが急速に普及した年でした。一方で、Devinのようなクラウド型のエージェントは、登場時の熱狂と比べるとやや落ち着いた印象を受けた方も多いのではないでしょうか。
+個人的には、今の道具では生産性改善の天井が見えてきたように感じます。認知負荷が限界を迎えているからです。そしてその救世主として、クラウド型コーディングエージェントが再び主役に躍り出ると考えています。
+本記事では、なぜ今までクラウド型が主流に... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/9258ddaa5f8caa</guid>
+      <pubDate>Thu, 19 Feb 2026 00:00:10 +0000</pubDate>
     </item>
     <item>
       <title>なぜExcel/VBAは軽視されるのか：技術ヒエラルキーと現場・管理の非対称性</title>
