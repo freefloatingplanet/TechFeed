@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Feb 2026 07:02:34 +0000</lastBuildDate>
-    <item>
-      <title>【Go】Map複合キー「構造体キー vs 文字列キー」~ 検証レポート ~</title>
-      <link>https://qiita.com/umekikazuya/items/4a1210e7606cb2c0c35d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-今回、Go言語におけるmapの複合キーの表現方法についてフォーカスを当てて検証を行ってみました。
-あまり意識せず「型安全だから」という理由で構造体を複合キーに指定している方、そもそも構造体をキーにしていいことを知らない方、も意外と多いのかなと思います。
-本記事で... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/umekikazuya/items/4a1210e7606cb2c0c35d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 19 Feb 2026 17:42:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>"ビビる大木AI"を生放送で喋らせた全技術 — ラヴィット!裏側</title>
-      <link>https://zenn.dev/t_honda/articles/loveit-ai-voice-pipeline</link>
-      <description>"ビビる大木AI"を生放送で喋らせた全技術 — ラヴィット!裏側
-
-
- はじめに
-TBS「ラヴィット!」のミステリー企画で、AI版「ビビる大木」を生放送に出演させるシステムを徹夜二日間で開発しました。初回発話レイテンシ2.5秒、本番の生放送で事故ゼロ。
-3Dキャラクターが裏方オペレーターの操作やAIの応答に合わせてリアルタイムに発話し、口を動かし、字幕を表示する。いわゆる「AIバーチャルタレント」のライブ出演基盤です。この記事では、音声クローンから3Dリップシンク、日本語処理、AI駆動開発まで、システムの全技術を解説します。
-
- システム全体のアーキテクチャ
-
- 音声モデルの学習 —... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/t_honda/articles/loveit-ai-voice-pipeline</guid>
-      <pubDate>Tue, 17 Feb 2026 22:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>「AIを使えば劇的に生産性が上がる」は本当か？cc-sdd導入前後のデプロイ頻度データから見えた、AI時代のチーム開発の"本当のボトルネック"。 - Timee Product Team Blog</title>
-      <link>https://tech.timee.co.jp/entry/2026/02/19/190000</link>
-      <description>こんにちは！プロダクトエンジニアのkazzhiraです。 私たちのチームでは、2025年の夏ごろから「AI活用による開発生産性の向上」に取り組んできました。しかし、当初の取り組みは抽象的なガードレールの提示や個々人の実践にとどまり、チームとして大きな成果には結びつきませんでした。 その後、SDD（仕様駆動開発）とい... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tech.timee.co.jp/entry/2026/02/19/190000</guid>
-      <pubDate>Thu, 19 Feb 2026 10:12:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン</title>
-      <link>https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに：プロにとって「Vibe Coding」は恐怖でしかない
-2025年11月のリリース以来、Antigravity（アンチグラビティ）界隈では「Vibe Coding（バイブコーディング）」という言葉が流行しています。
-「コードが読めなくても、AIとノリで対話して... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 18 Feb 2026 03:00:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Feb 2026 06:50:08 +0000</lastBuildDate>
     <item>
       <title>話題のmicrogptを早速試してみる</title>
       <link>https://zenn.dev/aiforall/articles/e5733531811e0e</link>
@@ -75,11 +33,21 @@ Claude Codeでやれば？という話かもしれませんが、Claude Codeは�
       <pubDate>Thu, 19 Feb 2026 00:31:03 +0000</pubDate>
     </item>
     <item>
-      <title>「自分、いけます」Suicaペンギン後継に他社キャラ続々立候補　Duolingoのフクロウ、ポスペのモモ、Pontaのたぬきまで</title>
-      <link>https://www.itmedia.co.jp/news/articles/2602/20/news062.html</link>
-      <description>語学アプリ「Duolingo」のX公式アカウントは、JR東の新キャラ選考プロセスの投稿を引用する形で、「自分、いけます」と立候補。「Duoca」というSuica風のカードにフクロウをデザインした画像を投稿した。フクロウの緑とSuicaの色はイメージ近く、違和感がない。 このポストには「JR東日本アプリ」から「かわいい」と返信... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2602/20/news062.html</guid>
-      <pubDate>Fri, 20 Feb 2026 02:02:12 +0000</pubDate>
+      <title>AIコーディングエージェント時代のReactコード診断ツール「React Doctor」</title>
+      <link>https://zenn.dev/my_vision/articles/34a92a674a7c47</link>
+      <description>はじめに
+AIコーディングエージェントがコードを書く時代になりましたが、エージェントが生成するコードは必ずしもプロジェクトのベストプラクティスに沿っているとは限りません。
+「不要な useEffect を使わないで」「prop drilling ではなく Context を使って」——こうしたルールをエージェントにどう教えるか？これは多くの開発者が直面している課題かと思います。
+React Doctor は、この課題に対する一つの解決策です。Reactコードベースを静的解析してスコアリングするだけでなく、AIコーディングエージェントの「スキル」として組み込めるという特徴を持っています... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/my_vision/articles/34a92a674a7c47</guid>
+      <pubDate>Thu, 19 Feb 2026 09:16:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>プログラミングが「全くできない人」の頭の中を解剖してみた</title>
+      <link>https://zenn.dev/rabee/articles/2d9ab1789b707d</link>
+      <description>はじめに 世の中の「未経験エンジニア挑戦記」の多くは、もともと数学が得意だったり、論理的思考の化身のような人たちが書いています。 しかし、私は違います。 「ロジックを組む」その言葉の響きだけで、私の脳のブレーカーが落ちます。 この記事では、できる人には一生理解できないであろう「プログラミングが全くで... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/rabee/articles/2d9ab1789b707d</guid>
+      <pubDate>Fri, 20 Feb 2026 08:26:48 +0000</pubDate>
     </item>
     <item>
       <title>PRのレビューが追いつかない！もう人間がボトルネックなので、気合いではなく仕組みで少しずつなんとかしていく</title>
@@ -101,13 +69,56 @@ PRのレビューが追いつかないことがある。気がついたらレビ
       <pubDate>Thu, 19 Feb 2026 00:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>なぜExcel/VBAは軽視されるのか：技術ヒエラルキーと現場・管理の非対称性</title>
-      <link>https://zenn.dev/minipoisson/articles/psychology-of-technical-hierarchy</link>
+      <title>個人開発した「技術書ランキングサイト」が公開1日で1,000PV突破した裏側</title>
+      <link>https://zenn.dev/codaccu/articles/540bbfe931888d</link>
       <description>はじめに
-私は日頃、C#を用いた画像処理やPythonによる文字列解析やクラウドAPIの利用、またGeminiやNotebookLMを活用したAIエージェントの構築など、いわゆる「モダン」で「高度」とされる技術スタックに好んで触れています。一方で、予算や権限が厳しく制限された業務現場において、ExcelやVBAを駆使して「今日そこにある課題」を突破するハックも同じ熱量で実践してきました。
-その両方の世界を跨いで活動する中で、どうしても拭えない違和感があります。それは、「技術の内容（何を実現したか）」ではなく、「技術の種類（何を使ったか）」によって、エンジニアの価値が品定めされてしまう... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/minipoisson/articles/psychology-of-technical-hierarchy</guid>
-      <pubDate>Tue, 17 Feb 2026 15:56:03 +0000</pubDate>
+「せっかく作った個人開発サービス、誰にも使われなかったらどうしよう……」
+そんな不安を抱えながらリリースした「Engineer's Book Hub」ですが、おかげさまで公開初日から1日1,000view、収益も約5,000円）を達成することができました!
+本記事では、短期間でこれだけの反響をいただけた理由と、それを支えた「期間×ジャンル」の連動ロジックについて共有します。
+
+ 1. サイトの概要と「勝因」の分析
+作成したのは、Qiitaの記事データを解析し、エンジニアに本当に支持されている本を可視化するランキングサイトです。
+なぜ、数あるランキングサイトの中で初速が出せた... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/codaccu/articles/540bbfe931888d</guid>
+      <pubDate>Thu, 19 Feb 2026 21:31:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>モジュラモノリスで急成長SaaSをスケール - マイクロサービス移行の判断基準</title>
+      <link>https://zenn.dev/neoai/articles/2b8ee68d99e545</link>
+      <description>はじめに
+株式会社neoAIでエンジニアをしている加藤です。
+私は弊社SaaSプロダクトのアーキテクチャについて、ここ1年ほど見直しを考えていました。
+もともとモノリスで開発していたサービスが、複数のLLM拡張やマルチテナントの要件拡大に伴いスケーリングの限界にぶつかりました。
+「マイクロサービスにしよう」と即決したくなりましたが、弊社にはマルチテナントからシングルテナント、さらにはお客様環境へのデプロイという独特の運用形態があります。
+様々な観点を考えた結果、モジュラモノリスを経由する判断をしました。
+この記事では、組織やサービスのフェーズから考えたアーキテクチャ判断のプロセスと、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/neoai/articles/2b8ee68d99e545</guid>
+      <pubDate>Fri, 20 Feb 2026 09:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIエージェント設計の三層モデル</title>
+      <link>https://zenn.dev/chillnn_tech/articles/agent-design</link>
+      <description>はじめに
+こんにちは。
+株式会社CHILLNNという京都のスタートアップで、プロダクト開発をしています永田です。
+Claude Code や OpenClaw を触ってみて、「このコンセプトを理解して、自分でもエージェントを作ってみたい」と思った方は多いのではないでしょうか。私もその一人です。
+OpenClaw で遊びながら、中身がよくわからないままに個人情報を渡すのが憚られたので、コンセプトを拝借しつつ 0 から作ってみました。
+さらに、業務でも独自のエージェントを複数作っているのですが、その過程で「社内でエージェントを作るときに、毎回議論がぶれない枠組み」が欲しくなり、設計フレー... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chillnn_tech/articles/agent-design</guid>
+      <pubDate>Thu, 19 Feb 2026 05:27:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>斜体はどうして選択範囲からはみ出るの？</title>
+      <link>https://zenn.dev/morisawa/articles/08e848e52539c3</link>
+      <description>ある日、社内 Slack に、こんな投稿がありました。
+フォントがカーソルから大きくはみ出すのはそういう仕様でいいんだろうか?
+
+水色の選択領域からはみ出した回鍋肉
+これは当社の DriveFlux というフォントで表示したテキストで、右に文字が大きく傾いています。Web ブラウザーやテキストエディターで斜体の文字を選択状態にすると、矩形から文字がはみ出して見えることがあります。Web フォントとして利用する際にボックス内でクリッピングを設定していたら、表示が欠けてしまうことにもつながります。
+どうしてこうなっているのでしょうか？もしかして、フォントのつくりが悪いのでしょうか？
+実は、こ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/morisawa/articles/08e848e52539c3</guid>
+      <pubDate>Thu, 19 Feb 2026 04:00:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

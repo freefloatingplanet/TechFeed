@@ -7,27 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Feb 2026 07:02:38 +0000</lastBuildDate>
-    <item>
-      <title>楽天モバイル、JAXA宇宙戦略基金に採択　「次世代衛星通信AI」で地上ネットワークとの統合運用へ</title>
-      <link>https://sorae.info/space/20260217-rakuten-mobile-jaxa.html</link>
-      <description>楽天モバイル株式会社は2026年2月16日、JAXA（宇宙航空研究開発機構）が宇宙戦略基金事業として公募した技術開発テーマ「衛星通信と地上ネットワークの統合運用の実現に向けた周波数共用技術等の開発・実証」に、同社の提案が… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260217-rakuten-mobile-jaxa.html</guid>
-      <pubDate>Tue, 17 Feb 2026 02:07:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>渦巻銀河？ レンズ状銀河？ ハッブル宇宙望遠鏡が観測した“おとめ座”の「NGC 4680」</title>
-      <link>https://sorae.info/astronomy/20260216-ngc-4680.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した銀河「NGC 4680」。 おとめ座の方向、約1億光年先にあります。 明るい中心部を取り囲む幅の広い渦巻腕（渦状腕）を、淡い輝きが大きく包みこんでいるような姿をしています。… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260216-ngc-4680.html</guid>
-      <pubDate>Wed, 18 Feb 2026 02:19:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Feb 2026 06:50:11 +0000</lastBuildDate>
     <item>
       <title>宇宙実験の洋上回収をドローンで支援へ　エアロネクストがJAXA案件を受託</title>
       <link>https://sorae.info/space/20260217-aeronext.html</link>
       <description>株式会社エアロネクストは2026年2月17日、JAXA（宇宙航空研究開発機構）の研究開発（製作）「海洋浮遊物回収支援ドローンの設計・製作」の公募において、業務を受託したと発表しました。期間は2026年1月から2026年3… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260217-aeronext.html</guid>
       <pubDate>Tue, 17 Feb 2026 07:09:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>台湾の宇宙開発が新段階へ　初の宇宙スタートアップ向けアクセラレーター「TASA iSPARK」設立</title>
+      <link>https://sorae.info/space/20260221-taiwan-space-agency.html</link>
+      <description>TASA（台湾国家宇宙センター）は2026年2月、台湾初となる宇宙スタートアップ向けアクセラレーター「TASA iSPARK」の設立を発表しました。2026年7月の正式オープンを予定しています。 世界の宇宙経済が2025… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260221-taiwan-space-agency.html</guid>
+      <pubDate>Sat, 21 Feb 2026 05:47:24 +0000</pubDate>
     </item>
     <item>
       <title>不動産探索ツールのWHERE、衛星データ解析と名簿データを連携して精度向上–住宅テックラボと</title>
@@ -70,6 +63,13 @@
       <description>乾燥した不毛の大地と考えられてきた月の表面に、実は「水」が存在していることは、近年の観測によって確実視されつつあります。 2020年にはNASA（アメリカ航空宇宙局）が、当時運用していた成層圏赤外線天文台「SOFIA（ソ… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260220-lunar-surface-h2o.html</guid>
       <pubDate>Fri, 20 Feb 2026 02:31:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>最優秀賞は「星の命名権（愛称）」！「星空フォトコンテスト 2025」を全国の星空好きとツナガリたい神津島発コミュニティが2月28日まで開催中</title>
+      <link>https://sorae.info/news/kozushima-community-dmqpy_s3.html</link>
+      <description>全国の星空好きとツナガリを目指す東京都の離島・神津島村とテレビ朝日が運営する「星空ツナガルコミュニティ」が、「星空フォトコンテスト 2025～冬の星空をシェアしよう～」を開催しています。「スマホで撮影OK、SNSにハッシ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/news/kozushima-community-dmqpy_s3.html</guid>
+      <pubDate>Fri, 20 Feb 2026 12:00:05 +0000</pubDate>
     </item>
     <item>
       <title>土星の衛星タイタンは数億年前に衛星どうしの合体で誕生した可能性？　環の形成にも影響か</title>

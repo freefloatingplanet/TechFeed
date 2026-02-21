@@ -7,13 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Feb 2026 07:02:39 +0000</lastBuildDate>
-    <item>
-      <title>リッジ回帰における最適な制約なし自己蒸留：厳密な改善、精密な漸近解析、ワンショットチューニング</title>
-      <link>https://arxiv.org/abs/2602.17565v1</link>
-      <description>自己蒸留（SD）とは、同一のアーキテクチャと学習データを用いて、正解ラベルと教師自身の予測値を混合したデータを用いて生徒データを再学習させるプロセスである。SDは経験的に汎化を向上させることが多いことが示されているが、その正式な保証は限定的である。本研究では、混合重み$ξ$が単位区間外になる可能性がある制約のない設定におけるリッジ回帰のSDを検証する。学習データに基づき、分布に関する仮定を一切与えずに、任意の予測リスクの2乗（分布外を含む）に対して、最適混合された生徒データは、教師リッジリスク$R(λ)$が非定常（すなわち$R'(λ) \neq 0$）となるすべての正則化レベル$λ&gt; 0$において、リッジ教師データを厳密に改善することを証明した。任意のλの値に対して最適混合重み$ξ^\star(λ)$の閉じた形式の表現を取得し、それが符号規則$\operatorname{sign}(ξ^\star(λ))=-\operatorname{sign}(R'(λ))$に従うことを示します。特に、過剰正則化領域の場合、$ξ^\star(λ)$は負になることがあります。SDによるリスク改善を定量 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.17565v1</guid>
-      <pubDate>Thu, 19 Feb 2026 17:21:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Feb 2026 06:50:22 +0000</lastBuildDate>
   </channel>
 </rss>
