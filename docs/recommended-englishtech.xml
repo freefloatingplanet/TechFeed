@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Feb 2026 06:50:27 +0000</lastBuildDate>
-    <item>
-      <title>OktaからLaravelアプリにユーザーを同期する方法</title>
-      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
-      <description>わずか数行のコードで、SCIM、Okta、WorkOS を使用して Laravel アプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Feb 2026 06:55:18 +0000</lastBuildDate>
     <item>
       <title>プレゼンテーション: WebAssembly コンポーネントが安全でポータブルなソフトウェア拡張を実現する方法</title>
       <link>https://www.infoq.com/presentations/webassembly-extensions/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -23,32 +16,18 @@
       <pubDate>Fri, 20 Feb 2026 09:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>Dropbox がエンタープライズ ナレッジ検索向けにスケーラブルなコンテキスト エンジンを構築した方法</title>
-      <link>https://www.infoq.com/news/2026/02/dropbox-context-engine/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Dropboxのエンジニアたちは、Dropbox Dashの背後にあるコンテキストエンジンの構築方法について詳しく説明し、大規模なエンタープライズAIをサポートするために、インデックスベースの検索、ナレッジグラフから得られるコンテキスト、そして継続的な評価へと移行していることを明らかにした。マット・フォスター (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/dropbox-context-engine/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 18 Feb 2026 07:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Agentic WorkflowsがAI駆動型リポジトリ自動化を実現</title>
-      <link>https://www.infoq.com/news/2026/02/github-agentic-workflows/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>GitHubによると、最近テクニカルプレビューとしてリリースされたGitHub Agentic Workflowsは、コンテキストと意図を理解するコーディングエージェントを用いて、複雑で反復的なリポジトリタスクを自動化する手段を提供するという。これにより、問題の自動トリアージとラベル付け、ドキュメントの更新、CIのトラブルシューティング、テストの改善、レポート作成といったワークフローが可能になる。Sergio De Simone著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/github-agentic-workflows/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+      <title>AWS が RDS for SQL Server データベースイベントからの Lambda 関数トリガーを有効化</title>
+      <link>https://www.infoq.com/news/2026/02/aws-lambda-rds-trigger-events/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>AWS の革新的な Amazon RDS SQL Server 向けパターンで、イベントドリブンアーキテクチャのパワーを解き放ちましょう。このアプローチは、データベースイベントを処理から分離し、スケーラビリティと応答性を向上させます。Lambda 関数と CloudWatch 統合を活用することで、ワークフローを効率化し、コストを削減し、アプリケーションパフォーマンスを向上させます。効率的なデータ管理に向けたムーブメントにぜひご参加ください！ Steef-Jan Wiggers 著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/aws-lambda-rds-trigger-events/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 21 Feb 2026 10:33:00 +0000</pubDate>
     </item>
     <item>
       <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新興のAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
-      <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
-      <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。そこで、OAuthフロー、トークン管理、プロバイダー設定を自動化するPipesを開発しました。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>オンボーディングを48時間から4時間に短縮：Amazon Keyのイベント駆動型プラットフォームの内部</title>
@@ -56,6 +35,13 @@
       <description>Amazon Keyは、Amazon EventBridgeを基盤とした集中型のイベントドリブンアーキテクチャを採用することで、イベントプラットフォームを近代化しました。この再設計により、毎日数百万件ものイベントをミリ秒単位のレイテンシーで処理できるようになり、スキーマガバナンスの向上、アカウント間ルーティングの自動化、そしてサービスのオンボーディング時間を48時間から4時間に短縮しながら、99.99%の信頼性を維持しています。リーラ・クミリ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/02/amazon-key-event-driven-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 19 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
+      <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
+      <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。そこで、OAuthフロー、トークン管理、プロバイダー設定を自動化するPipesを開発しました。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>InScope、財務報告の課題解決に1,450万ドルを調達</title>
@@ -72,11 +58,25 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>.NET 11 Preview 1 がリリース。ランタイム非同期、Zstandard サポート、C# 15 の機能を搭載</title>
+      <link>https://www.infoq.com/news/2026/02/dotnet-11-preview1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>NET 11 Preview 1がリリースされました。注目すべき変更点として、非同期メソッドの処理をコンパイラからランタイム自体に移行したRuntime Asyncが挙げられます。このプレビューでは、CoreCLR WebAssemblyの実装、ネイティブZstandard圧縮、C# 15のコレクション式引数、MAUIの改善も導入されています。コミュニティの反応は賛否両論で、非同期メソッドの変更は高く評価される一方で、言語の複雑さについては議論が巻き起こっています。Almir Vuk著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/dotnet-11-preview1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 21 Feb 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>JDK 26とJDK 27: これまでにわかっていること</title>
       <link>https://www.infoq.com/news/2026/02/java-26-so-far/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>JDK 25以来初の非LTSリリースとなるJDK 26は、JEP形式の10個の新機能を含む2番目のリリース候補版に到達しました。これらの新機能は、コアJavaライブラリ、HotSpot、Java言語仕様、セキュリティライブラリ、クライアントライブラリの5つのカテゴリーに分類できます。JDK 26を検証し、JDK 27でターゲットとされている、またはターゲットとされる可能性のある機能を予測します。マイケル・レッドリッヒ (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/02/java-26-so-far/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Fri, 20 Feb 2026 02:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TypeScript 6 リリース: Go の書き換えに備えて開発者にアップグレードの呼びかけ</title>
+      <link>https://www.infoq.com/news/2026/02/typescript-6-released-beta/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>TypeScriptチームは先日、TypeScript 6のベータ版をリリースしました。このリリースは、完全な機能リリースではなく、重要な移行ポイントとなるものです。技術的負債の解消と標準化に重点を置き、時間の経過とともに増大したコアパフォーマンス問題の解決を目指してTypeScriptコードをGo言語で書き直したTypeScript 7に向けたエコシステムの準備を整えています。Bruno Couriol著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/typescript-6-released-beta/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 21 Feb 2026 15:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

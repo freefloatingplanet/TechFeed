@@ -7,56 +7,74 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Feb 2026 06:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 06:55:09 +0000</lastBuildDate>
     <item>
-      <title>話題のmicrogptを早速試してみる</title>
-      <link>https://zenn.dev/aiforall/articles/e5733531811e0e</link>
-      <description>2月12日にkarpathy氏がGistに投稿した以下のmicrogptをご存知でしょうか。
-https://gist.github.com/karpathy
-この記事を執筆してる時点で一週間が経過していますが、なおも修正が行われているこれは、GPTの構造をPythonで簡易的に実装したソースコードになります。GPTの構造を理解するのにも役立つ内容となっており、その行数は最新（2/18 11時時点）で、200行という短さです。
-加えて、プログラムファイルの先頭にあるDocstringの通り、Pythonの標準ライブラリのみを使用して実装が行われているため、他の複雑なライブラリを理解するこ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aiforall/articles/e5733531811e0e</guid>
-      <pubDate>Wed, 18 Feb 2026 05:26:09 +0000</pubDate>
+      <title>ガストで人を介さず「テーブル決済」、食い逃げ対策はあるのか？　すかいらーくに聞いた安心の仕組み</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2602/21/news009.html</link>
+      <description>ガストやバーミヤンで食事をした後、伝票を持ってレジに向かい、前の人が終わるのをじっと待つ。ひと昔前まで当たり前だった手間が省けるサービスが浸透しつつある。すかいらーくホールディングスが提供する「テーブル決済」だ。 店員を介さずに卓上のタブレット端末で会計を済ませることができ、食事を終えたら、席に座... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2602/21/news009.html</guid>
+      <pubDate>Sat, 21 Feb 2026 03:24:17 +0000</pubDate>
     </item>
     <item>
-      <title>gitのちょっとした手間を解決するCLI、gut-cliを作りました</title>
-      <link>https://zenn.dev/steelydylan/articles/why-i-created-gut-cli</link>
+      <title>Windowsの「メモ帳」を使っている人は要注意。今すぐアップデートして | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2602microsoft-patched-major-security-vulnerability-in-notepad/</link>
+      <description>Microsoftは、Windows標準アプリ「メモ帳（Notepad）」のセキュリティ欠陥を修正しました。 この脆弱性は、ユーザーが攻撃者に誘導されて任意のコードを実行してしまうリスクを孕んでいましたが、先週無事にパッチが適用されています。 「メモ帳」にAI関連の変更が加えられたことで（そう、あの「メモ帳」です）、攻撃者... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.lifehacker.jp/article/2602microsoft-patched-major-security-vulnerability-in-notepad/</guid>
+      <pubDate>Sat, 21 Feb 2026 10:52:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jujutsuを使った新しいバージョン管理の形</title>
+      <link>https://zenn.dev/sun_asterisk/articles/using-jj-granular-commits-and-branches</link>
       <description>はじめに
-git commit -m "ここに何書こう..." ってなることありませんか？
-これをgit commitだけにして、変更内容はAIに書いて欲しいなと思ってCLIツールを作りに着手しました。
-Claude Codeでやれば？という話かもしれませんが、Claude Codeは汎用的なコーディングエージェントなのでファイル全体を読み込んでユーザーの許可を得てみたいな感じで
-コミットメッセージを考えて欲しいだけなのに若干待たされるのが不便でした。
-このCLI（gut-cli）だとこんな感じでサクサクです！
+みなさん、Jujutsu（jj）使っていますか？
+https://www.jj-vcs.dev/latest/
+近頃、注目を集めているjjですが、まだ使っていない、もしくは
+触ったことがないという人も多いのではないでしょうか？
+この記事は、そのような開発者に向けての記事となります。
 
-ブランチ名も同じです。GitHubのissueの内容を見て、featu... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/steelydylan/articles/why-i-created-gut-cli</guid>
-      <pubDate>Thu, 19 Feb 2026 00:31:03 +0000</pubDate>
+ 本記事の目的について
+jjを始める上で詰まってしまうポイントや、
+どのように運用していけばいいかを提案するのが
+本記事の目的です。
+
+ jjを使い始めるメリット
+addやstashが不要になり、コミットの粒度管理と並行作業が圧倒的に楽になります。
+gitを使っていて、こんな経験はないでしょう... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sun_asterisk/articles/using-jj-granular-commits-and-branches</guid>
+      <pubDate>Fri, 20 Feb 2026 05:00:34 +0000</pubDate>
     </item>
     <item>
-      <title>AIコーディングエージェント時代のReactコード診断ツール「React Doctor」</title>
-      <link>https://zenn.dev/my_vision/articles/34a92a674a7c47</link>
+      <title>AIエージェントにVRMキャラクターをつけてモーションを制御する</title>
+      <link>https://zenn.dev/yokomachi/articles/202602_vrm-motion-control-on-web</link>
+      <description>!
+この記事は人間が書き、プログラムの実装・記事の校正に生成AIを使用しています。
+
+
+ はじめに
+現在進行形で個人開発中のAIエージェントでユーザーインタフェースとして3Dモデルを使ってみることにしました。
+とはいえ一から実装する知識がないので、以前から見知っていたAITuberKitを利用してフロントエンドの実装を手軽にしてみようと思います。
+
+ちなみに、本記事の内容は最近発表したLTでも触れています。
+LTの資料はこちら
+
+
+ 技術スタック
+
+VRMモデル作成: VRoid Studio
+
+Webフロントエンド: Next.js, TypeScript
+VRM表示・制御: thre... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yokomachi/articles/202602_vrm-motion-control-on-web</guid>
+      <pubDate>Sat, 21 Feb 2026 07:14:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geminiに数学と電気回路を教わったら爆速だったけど、「画像の撮り方」で精度が激変した話</title>
+      <link>https://qiita.com/harupython/items/e2179396fb3828c26fb0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-AIコーディングエージェントがコードを書く時代になりましたが、エージェントが生成するコードは必ずしもプロジェクトのベストプラクティスに沿っているとは限りません。
-「不要な useEffect を使わないで」「prop drilling ではなく Context を使って」——こうしたルールをエージェントにどう教えるか？これは多くの開発者が直面している課題かと思います。
-React Doctor は、この課題に対する一つの解決策です。Reactコードベースを静的解析してスコアリングするだけでなく、AIコーディングエージェントの「スキル」として組み込めるという特徴を持っています... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/my_vision/articles/34a92a674a7c47</guid>
-      <pubDate>Thu, 19 Feb 2026 09:16:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>プログラミングが「全くできない人」の頭の中を解剖してみた</title>
-      <link>https://zenn.dev/rabee/articles/2d9ab1789b707d</link>
-      <description>はじめに 世の中の「未経験エンジニア挑戦記」の多くは、もともと数学が得意だったり、論理的思考の化身のような人たちが書いています。 しかし、私は違います。 「ロジックを組む」その言葉の響きだけで、私の脳のブレーカーが落ちます。 この記事では、できる人には一生理解できないであろう「プログラミングが全くで... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/rabee/articles/2d9ab1789b707d</guid>
-      <pubDate>Fri, 20 Feb 2026 08:26:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>PRのレビューが追いつかない！もう人間がボトルネックなので、気合いではなく仕組みで少しずつなんとかしていく</title>
-      <link>https://zenn.dev/pepabo/articles/ai-pr-review-bottleneck</link>
-      <description>はじめに
-PRのレビューが追いつかないことがある。気がついたらレビューで1日の殆どの時間を使うこともあった。
-私のチームでは、エンジニアがClaude Codeなどのエージェントを並列に起動して一人でかつての数人分のPRを出すようになりました。さらに、エンジニアだけでなくCSやディレクターといった非エンジニアのメンバーもClaude Code Actions（GitHub Actions上でClaude Codeを動かす仕組み）を通じてPRを出すようになっています。（この取り組みについては以前の記事「Claude Code Actionで複数リポジトリを横断して情報を参照し調査・実装... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pepabo/articles/ai-pr-review-bottleneck</guid>
-      <pubDate>Wed, 18 Feb 2026 11:07:01 +0000</pubDate>
+2025年、生成AIの画像認識（マルチモーダル）が大きく覚醒しました。
+高校生の僕は、数学や電気回路の勉強でわからない問題があると、スマホで写真を撮ってGeminiに投げるようになりました。Geminiは公式ヘルプでも学習ツールとしての利用が案内されている通り、... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/harupython/items/e2179396fb3828c26fb0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 21 Feb 2026 00:46:12 +0000</pubDate>
     </item>
     <item>
       <title>クラウド型コーディングエージェントの時代がまた来る</title>
@@ -67,20 +85,6 @@ PRのレビューが追いつかないことがある。気がついたらレビ
 本記事では、なぜ今までクラウド型が主流に... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/9258ddaa5f8caa</guid>
       <pubDate>Thu, 19 Feb 2026 00:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>個人開発した「技術書ランキングサイト」が公開1日で1,000PV突破した裏側</title>
-      <link>https://zenn.dev/codaccu/articles/540bbfe931888d</link>
-      <description>はじめに
-「せっかく作った個人開発サービス、誰にも使われなかったらどうしよう……」
-そんな不安を抱えながらリリースした「Engineer's Book Hub」ですが、おかげさまで公開初日から1日1,000view、収益も約5,000円）を達成することができました!
-本記事では、短期間でこれだけの反響をいただけた理由と、それを支えた「期間×ジャンル」の連動ロジックについて共有します。
-
- 1. サイトの概要と「勝因」の分析
-作成したのは、Qiitaの記事データを解析し、エンジニアに本当に支持されている本を可視化するランキングサイトです。
-なぜ、数あるランキングサイトの中で初速が出せた... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/codaccu/articles/540bbfe931888d</guid>
-      <pubDate>Thu, 19 Feb 2026 21:31:56 +0000</pubDate>
     </item>
     <item>
       <title>モジュラモノリスで急成長SaaSをスケール - マイクロサービス移行の判断基準</title>
@@ -96,29 +100,37 @@ PRのレビューが追いつかないことがある。気がついたらレビ
       <pubDate>Fri, 20 Feb 2026 09:00:04 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェント設計の三層モデル</title>
-      <link>https://zenn.dev/chillnn_tech/articles/agent-design</link>
-      <description>はじめに
-こんにちは。
-株式会社CHILLNNという京都のスタートアップで、プロダクト開発をしています永田です。
-Claude Code や OpenClaw を触ってみて、「このコンセプトを理解して、自分でもエージェントを作ってみたい」と思った方は多いのではないでしょうか。私もその一人です。
-OpenClaw で遊びながら、中身がよくわからないままに個人情報を渡すのが憚られたので、コンセプトを拝借しつつ 0 から作ってみました。
-さらに、業務でも独自のエージェントを複数作っているのですが、その過程で「社内でエージェントを作るときに、毎回議論がぶれない枠組み」が欲しくなり、設計フレー... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/chillnn_tech/articles/agent-design</guid>
-      <pubDate>Thu, 19 Feb 2026 05:27:42 +0000</pubDate>
+      <title>DSPyでドメインエキスパートに挑んだ結果、返り討ちにあった話</title>
+      <link>https://zenn.dev/coten/articles/8a3628b07f8fd1</link>
+      <description>こんにちは！
+COTENでAIリサーチャーをしているtakaです。COTENでは世界史データベースの構築において、AI技術をどう活かせるかを調査・検証しています。
+この記事では、世界史データベースの構築のタスクの一つ、「歴史イベント文の正規化」でDSPyによるPromptの自動最適化を試みた際の知見を共有します。
+タイトルにある通り、結果はドメインエキスパートの知見には勝てなかったのですが、そこから得られた「DSPyが輝く場所・そうでない場所」の学びは大きかったので、失敗談として共有させてください。
+TL;DR
+
+情報抽出タスクで、DSPyによる自動Prompt最適化（MIPROv2）を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/coten/articles/8a3628b07f8fd1</guid>
+      <pubDate>Fri, 20 Feb 2026 05:50:57 +0000</pubDate>
     </item>
     <item>
-      <title>斜体はどうして選択範囲からはみ出るの？</title>
-      <link>https://zenn.dev/morisawa/articles/08e848e52539c3</link>
-      <description>ある日、社内 Slack に、こんな投稿がありました。
-フォントがカーソルから大きくはみ出すのはそういう仕様でいいんだろうか?
+      <title>先延ばし癖のある人は、実は『隠れた才能』を持っている可能性 - ナゾロジー</title>
+      <link>https://nazology.kusuguru.co.jp/archives/191960</link>
+      <description>締め切りが目の前にあるのに、急に部屋の模様替えを始めたり、普段は見向きもしない歴史の資料を読み耽ってしまったり。 こうした行動をとる人の多くは、単に「意志が弱い」と思われがちです。 従来、心理学の世界では、先延ばしは不安やストレスを回避するための「不適応な行動」として捉えられてきました。 しかし、私... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://nazology.kusuguru.co.jp/archives/191960</guid>
+      <pubDate>Sat, 21 Feb 2026 06:44:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>プログラミング言語オタクとして改めてC#を語りたい</title>
+      <link>https://zenn.dev/nuskey/articles/why-i-use-csharp</link>
+      <description>皆さんはC#、使っていますか？
+世界的には人気の言語であるC#ですが、残念ながら日本ではあまり流行っていないというのが現状です。というわけで色々なプログラミング言語をかじっている身としては、ちゃんとC#の良さを知ってもらいたい！ということで改めて筆を取った次第です。
+C#だけでなくGoやRust、Swiftなどの様々な言語の話を盛り込んでいるので、普段からC#を使っているという方もそうでない方も、是非一度この記事に目を通してもらえると嬉しいです。
 
-水色の選択領域からはみ出した回鍋肉
-これは当社の DriveFlux というフォントで表示したテキストで、右に文字が大きく傾いています。Web ブラウザーやテキストエディターで斜体の文字を選択状態にすると、矩形から文字がはみ出して見えることがあります。Web フォントとして利用する際にボックス内でクリッピングを設定していたら、表示が欠けてしまうことにもつながります。
-どうしてこうなっているのでしょうか？もしかして、フォントのつくりが悪いのでしょうか？
-実は、こ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/morisawa/articles/08e848e52539c3</guid>
-      <pubDate>Thu, 19 Feb 2026 04:00:13 +0000</pubDate>
+ この記事を書いたきっかけ
+私がこの記事を書き始めたのは、何縫ねの。さんによる下の記事がきっかけだったりします。
+https://blog.... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nuskey/articles/why-i-use-csharp</guid>
+      <pubDate>Sat, 21 Feb 2026 07:56:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
