@@ -7,41 +7,96 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Feb 2026 06:55:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 07:10:34 +0000</lastBuildDate>
     <item>
-      <title>ガストで人を介さず「テーブル決済」、食い逃げ対策はあるのか？　すかいらーくに聞いた安心の仕組み</title>
-      <link>https://www.itmedia.co.jp/mobile/articles/2602/21/news009.html</link>
-      <description>ガストやバーミヤンで食事をした後、伝票を持ってレジに向かい、前の人が終わるのをじっと待つ。ひと昔前まで当たり前だった手間が省けるサービスが浸透しつつある。すかいらーくホールディングスが提供する「テーブル決済」だ。 店員を介さずに卓上のタブレット端末で会計を済ませることができ、食事を終えたら、席に座... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2602/21/news009.html</guid>
-      <pubDate>Sat, 21 Feb 2026 03:24:17 +0000</pubDate>
+      <title>AIエージェント × knipで無駄コードを簡単に掃除</title>
+      <link>https://zenn.dev/knowledgework/articles/knip-with-ai-agent</link>
+      <description>こんにちは、よしこです。すっかりAIがコードを書く日々ですね。
+最近、AIエージェントでのコーディングと相性のいいワークフローを手軽に導入したので紹介します。
+
+ knipとは？
+knip は、JavaScript/TypeScriptプロジェクトの不要なコードを静的解析で検出してくれるツールです。
+使われていないファイルやコードはもちろん、外部から参照されていないexportや、package.jsonに載っているけど利用されていないpackageまで見つけてくれます。無駄package気付きづらいのでありがたい…
+
+ AIエージェントと組み合わせて使う
+エージェントにコーディングを任... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/knip-with-ai-agent</guid>
+      <pubDate>Thu, 19 Feb 2026 23:12:14 +0000</pubDate>
     </item>
     <item>
-      <title>Windowsの「メモ帳」を使っている人は要注意。今すぐアップデートして | ライフハッカー・ジャパン</title>
-      <link>https://www.lifehacker.jp/article/2602microsoft-patched-major-security-vulnerability-in-notepad/</link>
-      <description>Microsoftは、Windows標準アプリ「メモ帳（Notepad）」のセキュリティ欠陥を修正しました。 この脆弱性は、ユーザーが攻撃者に誘導されて任意のコードを実行してしまうリスクを孕んでいましたが、先週無事にパッチが適用されています。 「メモ帳」にAI関連の変更が加えられたことで（そう、あの「メモ帳」です）、攻撃者... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.lifehacker.jp/article/2602microsoft-patched-major-security-vulnerability-in-notepad/</guid>
-      <pubDate>Sat, 21 Feb 2026 10:52:46 +0000</pubDate>
+      <title>数兆パラメータの時代に、無料GPU環境で3Bモデルを動かしたら想像以上だった</title>
+      <link>https://zenn.dev/kozoka_ai/articles/4041c910f6280e</link>
+      <description>加えて、500回以上のツール呼び出しを伴うDeep Search（自律的なWeb調査）にも対応しています。推論・コード生成・会話・エージェント行動を1つのモデルで実行できる、小型モデルとしては異例の汎用性を備えています。 ローカルAIの実務的価値 巨大モデルの性能は確かに魅力的ですが、実務では別の観点が重要になる場面... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/kozoka_ai/articles/4041c910f6280e</guid>
+      <pubDate>Sun, 22 Feb 2026 01:19:15 +0000</pubDate>
     </item>
     <item>
-      <title>Jujutsuを使った新しいバージョン管理の形</title>
-      <link>https://zenn.dev/sun_asterisk/articles/using-jj-granular-commits-and-branches</link>
+      <title>プログラミング言語オタクとして改めてC#を語りたい</title>
+      <link>https://zenn.dev/nuskey/articles/why-i-use-csharp</link>
+      <description>皆さんはC#、使っていますか？ 世界的には人気の言語であるC#ですが、残念ながら日本ではあまり流行っていないというのが現状です。というわけで色々なプログラミング言語をかじっている身としては、ちゃんとC#の良さを知ってもらいたい！ということで改めて筆を取った次第です。 C#だけでなくGoやRust、Swiftなどの様々... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/nuskey/articles/why-i-use-csharp</guid>
+      <pubDate>Sun, 22 Feb 2026 03:32:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>ごく個人的なClaude Codeプラクティス集</title>
+      <link>https://zenn.dev/hawkymisc/articles/2cace1f599cc06</link>
+      <description>TL;DR
+自分自身のスタイルを振り返りつつ、よりよいClaude Codeの使い方がないか模索する機会としてよさそうでもあり、どこかのClaude Code使い始めユーザーの参考になるかもしれない、と考えて、自分自身のClaude Codeを使うときのスタイルやプラクティスをまとめていきます。
+なお、この記事は人力で書いています。
+
+ 課金プラン
+ClaudeはProプランを契約しています。Maxを契約していた時期もありましたが、平日夜間+休日のみに限ると、やや持て余す感があります。
+とはいえProプランではやや足りない……という中途半端なところで、以前はRate Limitに達し... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hawkymisc/articles/2cace1f599cc06</guid>
+      <pubDate>Fri, 20 Feb 2026 17:27:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>"世界変わる"——非エンジニアでもできる、 Claude Code による n8n ワークフロー開発</title>
+      <link>https://zenn.dev/ubie_dev/articles/6b23a74187766b</link>
+      <description>こんにちは。 Ubie の syucream です。最近は組織開発とか生成AI社内活用とかやってます。
+「業務を一番よく知っている人が、自分で自動化できる。」 この状態を、AI の力でどう実現するか。本記事では、 Ubie が Claude Code と n8n を用いたワークフロー開発効率化・民主化による業務効率化の実例を紹介します。
+
+
+ 「一番無理な仕事かも」
+社内の業務自動化ツール n8n について、あるメンバーがこうコメントしました。
+n8n は、さまざまなサービスを「つなぐ」ことで業務を自動化する AI ワークフローシステムです。しかしそのワークフローを正しく組み上げるのは一... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/6b23a74187766b</guid>
+      <pubDate>Fri, 20 Feb 2026 03:49:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeが凄すぎ──2行の指示で10ファイル・5484行のコードを生成し変更した</title>
+      <link>https://qiita.com/yniji/items/85b0ed5b37de386242fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-みなさん、Jujutsu（jj）使っていますか？
-https://www.jj-vcs.dev/latest/
-近頃、注目を集めているjjですが、まだ使っていない、もしくは
-触ったことがないという人も多いのではないでしょうか？
-この記事は、そのような開発者に向けての記事となります。
+「生成AIで開発が楽になる」と言われて久しいですが、実際には「思ったほど楽になっていない」と感じているエンジニアは多いのではないでしょうか。
+その原因は、エンジニアがAIと「競合」しているからです。
+解決策はシンプルです。AIを「道具」ではなく「同僚」として扱う... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/yniji/items/85b0ed5b37de386242fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 20 Feb 2026 04:46:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【React】Strategyパターン実践編 〜マルチテナント対応を例に〜</title>
+      <link>https://zenn.dev/sakisakiika/articles/f41abf4e0160a7</link>
+      <description>はじめに
+マルチテナント対応のフロントエンドを開発していると、テナントごとの差異を考慮しなければなりません。例えば、「テナントAではバリデーションを厳格にしたい」「テナント毎にAPIのリクエスト形式が違う」などの差異が出てきたとき、コンポーネント内で安易にif分岐させていませんか？
+その積み重ねは、やがて保守不能な構成となります。
+本記事では、Strategy（戦略）パターンの考え方をReactに取り入れ、テナント固有の振る舞いをクリーンに実装するアプローチを考えてみましたので紹介します。
+// こうなりがち
+const handleSubmit = async (data) =&amp;g... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sakisakiika/articles/f41abf4e0160a7</guid>
+      <pubDate>Sat, 21 Feb 2026 09:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>新デザインツールPencilはなぜエンジニアに刺さるのか</title>
+      <link>https://zenn.dev/aria3/articles/pencil-dev-why-engineers-love-it</link>
+      <description>!
+この記事は2026年2月20日時点の情報をもとにしています。Pencilは早期アクセス段階のため、仕様変更の可能性があります。最新の情報は公式サイトを確認してください。
 
- 本記事の目的について
-jjを始める上で詰まってしまうポイントや、
-どのように運用していけばいいかを提案するのが
-本記事の目的です。
 
- jjを使い始めるメリット
-addやstashが不要になり、コミットの粒度管理と並行作業が圧倒的に楽になります。
-gitを使っていて、こんな経験はないでしょう... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sun_asterisk/articles/using-jj-granular-commits-and-branches</guid>
-      <pubDate>Fri, 20 Feb 2026 05:00:34 +0000</pubDate>
+ Pencilとは何か
+Pencilは、IDEに統合できるAIネイティブなデザインツールだ。公式のキャッチコピーは「Design on canvas. Land in code.」で、デザインをキャンバス上で行い、そのままコードに落とし込むことを目指している。
+Figmaのようなベクターキャンバスを持ちながら、Claude CodeやCursorといったAIコーディングツールとMCP（Model Context ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aria3/articles/pencil-dev-why-engineers-love-it</guid>
+      <pubDate>Fri, 20 Feb 2026 11:35:41 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントにVRMキャラクターをつけてモーションを制御する</title>
@@ -75,62 +130,6 @@ VRM表示・制御: thre... (source: Zennのトレンド)</description>
 高校生の僕は、数学や電気回路の勉強でわからない問題があると、スマホで写真を撮ってGeminiに投げるようになりました。Geminiは公式ヘルプでも学習ツールとしての利用が案内されている通り、... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/harupython/items/e2179396fb3828c26fb0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Sat, 21 Feb 2026 00:46:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>クラウド型コーディングエージェントの時代がまた来る</title>
-      <link>https://zenn.dev/ubie_dev/articles/9258ddaa5f8caa</link>
-      <description>Ubie CTO の @yukukotani です。
-2025年は、Claude Codeのようなターミナル型やCursorのようなエディタ統合型など、ローカルで動作するコーディングエージェントが急速に普及した年でした。一方で、Devinのようなクラウド型のエージェントは、登場時の熱狂と比べるとやや落ち着いた印象を受けた方も多いのではないでしょうか。
-個人的には、今の道具では生産性改善の天井が見えてきたように感じます。認知負荷が限界を迎えているからです。そしてその救世主として、クラウド型コーディングエージェントが再び主役に躍り出ると考えています。
-本記事では、なぜ今までクラウド型が主流に... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/9258ddaa5f8caa</guid>
-      <pubDate>Thu, 19 Feb 2026 00:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>モジュラモノリスで急成長SaaSをスケール - マイクロサービス移行の判断基準</title>
-      <link>https://zenn.dev/neoai/articles/2b8ee68d99e545</link>
-      <description>はじめに
-株式会社neoAIでエンジニアをしている加藤です。
-私は弊社SaaSプロダクトのアーキテクチャについて、ここ1年ほど見直しを考えていました。
-もともとモノリスで開発していたサービスが、複数のLLM拡張やマルチテナントの要件拡大に伴いスケーリングの限界にぶつかりました。
-「マイクロサービスにしよう」と即決したくなりましたが、弊社にはマルチテナントからシングルテナント、さらにはお客様環境へのデプロイという独特の運用形態があります。
-様々な観点を考えた結果、モジュラモノリスを経由する判断をしました。
-この記事では、組織やサービスのフェーズから考えたアーキテクチャ判断のプロセスと、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/neoai/articles/2b8ee68d99e545</guid>
-      <pubDate>Fri, 20 Feb 2026 09:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>DSPyでドメインエキスパートに挑んだ結果、返り討ちにあった話</title>
-      <link>https://zenn.dev/coten/articles/8a3628b07f8fd1</link>
-      <description>こんにちは！
-COTENでAIリサーチャーをしているtakaです。COTENでは世界史データベースの構築において、AI技術をどう活かせるかを調査・検証しています。
-この記事では、世界史データベースの構築のタスクの一つ、「歴史イベント文の正規化」でDSPyによるPromptの自動最適化を試みた際の知見を共有します。
-タイトルにある通り、結果はドメインエキスパートの知見には勝てなかったのですが、そこから得られた「DSPyが輝く場所・そうでない場所」の学びは大きかったので、失敗談として共有させてください。
-TL;DR
-
-情報抽出タスクで、DSPyによる自動Prompt最適化（MIPROv2）を... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/coten/articles/8a3628b07f8fd1</guid>
-      <pubDate>Fri, 20 Feb 2026 05:50:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>先延ばし癖のある人は、実は『隠れた才能』を持っている可能性 - ナゾロジー</title>
-      <link>https://nazology.kusuguru.co.jp/archives/191960</link>
-      <description>締め切りが目の前にあるのに、急に部屋の模様替えを始めたり、普段は見向きもしない歴史の資料を読み耽ってしまったり。 こうした行動をとる人の多くは、単に「意志が弱い」と思われがちです。 従来、心理学の世界では、先延ばしは不安やストレスを回避するための「不適応な行動」として捉えられてきました。 しかし、私... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://nazology.kusuguru.co.jp/archives/191960</guid>
-      <pubDate>Sat, 21 Feb 2026 06:44:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>プログラミング言語オタクとして改めてC#を語りたい</title>
-      <link>https://zenn.dev/nuskey/articles/why-i-use-csharp</link>
-      <description>皆さんはC#、使っていますか？
-世界的には人気の言語であるC#ですが、残念ながら日本ではあまり流行っていないというのが現状です。というわけで色々なプログラミング言語をかじっている身としては、ちゃんとC#の良さを知ってもらいたい！ということで改めて筆を取った次第です。
-C#だけでなくGoやRust、Swiftなどの様々な言語の話を盛り込んでいるので、普段からC#を使っているという方もそうでない方も、是非一度この記事に目を通してもらえると嬉しいです。
-
- この記事を書いたきっかけ
-私がこの記事を書き始めたのは、何縫ねの。さんによる下の記事がきっかけだったりします。
-https://blog.... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nuskey/articles/why-i-use-csharp</guid>
-      <pubDate>Sat, 21 Feb 2026 07:56:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

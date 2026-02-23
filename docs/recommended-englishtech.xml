@@ -7,20 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Feb 2026 06:55:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 07:10:45 +0000</lastBuildDate>
     <item>
       <title>プレゼンテーション: WebAssembly コンポーネントが安全でポータブルなソフトウェア拡張を実現する方法</title>
       <link>https://www.infoq.com/presentations/webassembly-extensions/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Alex Radoviciが、C-ABIとスクリプトからWasmコンポーネントモデル（WASI Preview 2）への移行について説明します。Rust、TypeScript、C++でネイティブに近い速度で動作する安全なプラグインシステムの構築方法を紹介します。アーキテクトは、Wasmインターフェース型（WIT）、リソース管理、そして安全性が重視される環境でサンドボックス化された拡張機能をデプロイする際に得られる実践的な教訓について学ぶことができます。Alex Radovici著 (source: InfoQ)</description>
+      <description>Alex Radovici氏が、C-ABIとスクリプトからWasmコンポーネントモデル（WASI Preview 2）への移行について解説します。Rust、TypeScript、C++でネイティブに近い速度で動作するセキュアなプラグインシステムの構築方法を紹介します。アーキテクトは、Wasmインターフェース型（WIT）、リソース管理、そして安全性が重視される環境でサンドボックス化された拡張機能をデプロイする際に得られる実践的な教訓について学ぶことができます。Alex Radovici著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/webassembly-extensions/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Fri, 20 Feb 2026 09:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>AWS が RDS for SQL Server データベースイベントからの Lambda 関数トリガーを有効化</title>
-      <link>https://www.infoq.com/news/2026/02/aws-lambda-rds-trigger-events/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AWS の革新的な Amazon RDS SQL Server 向けパターンで、イベントドリブンアーキテクチャのパワーを解き放ちましょう。このアプローチは、データベースイベントを処理から分離し、スケーラビリティと応答性を向上させます。Lambda 関数と CloudWatch 統合を活用することで、ワークフローを効率化し、コストを削減し、アプリケーションパフォーマンスを向上させます。効率的なデータ管理に向けたムーブメントにぜひご参加ください！ Steef-Jan Wiggers 著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/aws-lambda-rds-trigger-events/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 21 Feb 2026 10:33:00 +0000</pubDate>
+      <title>Databricks、AIワークロード向けPostgreSQLデータベース「Lakebase」を発表</title>
+      <link>https://www.infoq.com/news/2026/02/databricks-lakebase-postgresql/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Databricksは先日、Lakebaseの一般提供開始を発表しました。Lakebaseは、コンピューティングとストレージを独立して拡張できる、PostgreSQLベースのサーバーレスOLTPデータベースです。LakebaseはDatabricksプラットフォームと統合するように設計されており、トランザクション機能と分析機能を組み合わせたハイブリッドソリューションを提供します。Renato Losio著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/databricks-lakebase-postgresql/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sun, 22 Feb 2026 10:25:00 +0000</pubDate>
     </item>
     <item>
       <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
@@ -44,13 +44,6 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>InScope、財務報告の課題解決に1,450万ドルを調達</title>
-      <link>https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/</link>
-      <description>Flexport、Miro、Hopin、Thrive Globalで働いていた会計士らによって設立されたこのスタートアップは、財務諸表作成の難しさを自動化する。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/</guid>
-      <pubDate>Fri, 20 Feb 2026 19:24:57 +0000</pubDate>
-    </item>
-    <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
       <link>https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</link>
       <description>MCPナイト、ホリデースペシャルは歴史的な瞬間を刻みました。AnthropicがMCPをLinux Foundationに寄贈し、Agentic AI Foundationが設立されました。Cloudflare、Supabase、Datadog、Microsoft、Googleによるデモも行われました。 (source: WorkOS Blog)</description>
@@ -72,9 +65,16 @@
       <pubDate>Fri, 20 Feb 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>TypeScript 6 リリース: Go の書き換えに備えて開発者にアップグレードの呼びかけ</title>
+      <title>春のニュースまとめ: Boot、Security、Integration、Modulith、AMQP の 2 番目のマイルストーンリリース</title>
+      <link>https://www.infoq.com/news/2026/02/spring-news-roundup-feb16-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>2026年2月16日の週、Springエコシステムは活発な活動を見せ、Spring Boot、Spring Security、Spring Integration、Spring Modulth、Spring AMQPの2番目のマイルストーンリリースに加え、Spring Session、Spring for Apache Kafka、Spring LDAPの1番目のマイルストーンリリースも発表されました。マイケル・レッドリッヒ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/spring-news-roundup-feb16-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 23 Feb 2026 02:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TypeScript 6 ベータ版リリース: Go の書き換えに備えて開発者にアップグレードを呼びかけ</title>
       <link>https://www.infoq.com/news/2026/02/typescript-6-released-beta/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>TypeScriptチームは先日、TypeScript 6のベータ版をリリースしました。このリリースは、完全な機能リリースではなく、重要な移行ポイントとなるものです。技術的負債の解消と標準化に重点を置き、時間の経過とともに増大したコアパフォーマンス問題の解決を目指してTypeScriptコードをGo言語で書き直したTypeScript 7に向けたエコシステムの準備を整えています。Bruno Couriol著 (source: InfoQ)</description>
+      <description>TypeScriptチームは先日、TypeScript 6のベータ版をリリースしました。このリリースは、完全な機能リリースではなく、重要な移行ポイントとなるものです。技術的負債の解消と標準化に重点を置き、時間の経過とともに増大したコアパフォーマンス問題の解決を目指してTypeScriptコードをGo言語で書き直したTypeScript 7に向けたエコシステムの準備を整えています。Bruno Couriol (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/02/typescript-6-released-beta/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Sat, 21 Feb 2026 15:47:00 +0000</pubDate>
     </item>
