@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Feb 2026 07:10:45 +0000</lastBuildDate>
-    <item>
-      <title>プレゼンテーション: WebAssembly コンポーネントが安全でポータブルなソフトウェア拡張を実現する方法</title>
-      <link>https://www.infoq.com/presentations/webassembly-extensions/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Alex Radovici氏が、C-ABIとスクリプトからWasmコンポーネントモデル（WASI Preview 2）への移行について解説します。Rust、TypeScript、C++でネイティブに近い速度で動作するセキュアなプラグインシステムの構築方法を紹介します。アーキテクトは、Wasmインターフェース型（WIT）、リソース管理、そして安全性が重視される環境でサンドボックス化された拡張機能をデプロイする際に得られる実践的な教訓について学ぶことができます。Alex Radovici著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/webassembly-extensions/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 20 Feb 2026 09:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Databricks、AIワークロード向けPostgreSQLデータベース「Lakebase」を発表</title>
-      <link>https://www.infoq.com/news/2026/02/databricks-lakebase-postgresql/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Databricksは先日、Lakebaseの一般提供開始を発表しました。Lakebaseは、コンピューティングとストレージを独立して拡張できる、PostgreSQLベースのサーバーレスOLTPデータベースです。LakebaseはDatabricksプラットフォームと統合するように設計されており、トランザクション機能と分析機能を組み合わせたハイブリッドソリューションを提供します。Renato Losio著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/databricks-lakebase-postgresql/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sun, 22 Feb 2026 10:25:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Feb 2026 07:06:11 +0000</lastBuildDate>
     <item>
       <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
@@ -30,18 +16,18 @@
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>オンボーディングを48時間から4時間に短縮：Amazon Keyのイベント駆動型プラットフォームの内部</title>
-      <link>https://www.infoq.com/news/2026/02/amazon-key-event-driven-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Amazon Keyは、Amazon EventBridgeを基盤とした集中型のイベントドリブンアーキテクチャを採用することで、イベントプラットフォームを近代化しました。この再設計により、毎日数百万件ものイベントをミリ秒単位のレイテンシーで処理できるようになり、スキーマガバナンスの向上、アカウント間ルーティングの自動化、そしてサービスのオンボーディング時間を48時間から4時間に短縮しながら、99.99%の信頼性を維持しています。リーラ・クミリ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/amazon-key-event-driven-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 19 Feb 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
       <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。そこで、OAuthフロー、トークン管理、プロバイダー設定を自動化するPipesを開発しました。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TSSLint 3.0: 依存関係を削減した最終メジャーリリース</title>
+      <link>https://www.infoq.com/news/2026/02/tsslint-3-release-final/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Johnson Chu氏による軽量なTypeScriptリンティングツールTSSLint 3は、依存関係の削減と従来のリンターからの移行パスの改善により、パフォーマンスを向上させます。TSLintの精神的後継として、.tsインポートのネイティブNode.jsサポートを活用し、ほぼ瞬時の診断と修正を提供します。強化された開発者ツールと新しいTSL互換レイヤーにより、大規模プロジェクトでのリンティングが簡素化されます。Daniel Curtis著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/tsslint-3-release-final/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 23 Feb 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>
@@ -58,11 +44,18 @@
       <pubDate>Sat, 21 Feb 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>JDK 26とJDK 27: これまでにわかっていること</title>
-      <link>https://www.infoq.com/news/2026/02/java-26-so-far/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>JDK 25以来初の非LTSリリースとなるJDK 26は、JEP形式の10個の新機能を含む2番目のリリース候補版に到達しました。これらの新機能は、コアJavaライブラリ、HotSpot、Java言語仕様、セキュリティライブラリ、クライアントライブラリの5つのカテゴリーに分類できます。JDK 26を検証し、JDK 27でターゲットとされている、またはターゲットとされる可能性のある機能を予測します。マイケル・レッドリッヒ (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/java-26-so-far/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 20 Feb 2026 02:30:00 +0000</pubDate>
+      <title>Spotifyは、AIを活用したプロンプトプレイリストを英国およびその他の市場に展開します。</title>
+      <link>https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/</link>
+      <description>SpotifyはAIを活用した「プロンプトプレイリスト」機能のテストを継続しており、現在、英国、アイルランド、オーストラリア、スウェーデンのプレミアム加入者向けにこのツールを展開している。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/</guid>
+      <pubDate>Mon, 23 Feb 2026 16:50:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Java ニュースまとめ: JDK26-RC2、Payara プラットフォーム、Hibernate、Quarkus、Apache Camel、Jakarta EE 12</title>
+      <link>https://www.infoq.com/news/2026/02/java-news-roundup-feb16-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>今週の2026年2月16日版Javaラウンドアップでは、JDK 26の2番目のリリース候補版、Jakarta EE 12のアップデート、Payara Platformの2026年2月版、Apache Camelのポイントリリース、Hibernate SearchとQuarkusのメンテナンスリリースなど、注目のニュースをお届けします。マイケル・レッドリッヒ (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/java-news-roundup-feb16-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 24 Feb 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
       <title>春のニュースまとめ: Boot、Security、Integration、Modulith、AMQP の 2 番目のマイルストーンリリース</title>
@@ -70,6 +63,13 @@
       <description>2026年2月16日の週、Springエコシステムは活発な活動を見せ、Spring Boot、Spring Security、Spring Integration、Spring Modulth、Spring AMQPの2番目のマイルストーンリリースに加え、Spring Session、Spring for Apache Kafka、Spring LDAPの1番目のマイルストーンリリースも発表されました。マイケル・レッドリッヒ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/02/spring-news-roundup-feb16-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 23 Feb 2026 02:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uforwarder: 効率的なイベント駆動型マイクロサービスのための Uber のスケーラブルな Kafka コンシューマープロキシ</title>
+      <link>https://www.infoq.com/news/2026/02/uber-uforwarder-kafka-push-proxy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Uberは、プッシュベースのKafkaコンシューマープロキシであるuForwarderをオープンソース化しました。uForwarderは、毎日数兆件のメッセージと数ペタバイト規模のデータを処理するために構築されています。このシステムは、コンテキストアウェアルーティング、ヘッドオブラインブロッキング緩和、適応型自動リバランス、パーティションレベルの遅延処理を導入し、大規模なイベント駆動型マイクロサービスにおけるスケーラビリティ、ワークロード分離、ハードウェア効率を向上させます。リーラ・クミリ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/uber-uforwarder-kafka-push-proxy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 23 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>TypeScript 6 ベータ版リリース: Go の書き換えに備えて開発者にアップグレードを呼びかけ</title>

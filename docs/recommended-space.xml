@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Feb 2026 07:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 07:06:02 +0000</lastBuildDate>
     <item>
-      <title>渦巻銀河？ レンズ状銀河？ ハッブル宇宙望遠鏡が観測した“おとめ座”の「NGC 4680」</title>
-      <link>https://sorae.info/astronomy/20260216-ngc-4680.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した銀河「NGC 4680」。 おとめ座の方向、約1億光年先にあります。 明るい中心部を取り囲む幅の広い渦巻腕（渦状腕）を、淡い輝きが大きく包みこんでいるような姿をしています。… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260216-ngc-4680.html</guid>
-      <pubDate>Wed, 18 Feb 2026 02:19:39 +0000</pubDate>
+      <title>英Orbexが初飛行前に経営破綻　欧州小型ロケット開発の苦境</title>
+      <link>https://sorae.info/space/20260223-eu-orbex.html</link>
+      <description>イギリス・スコットランドを拠点としていたロケット開発企業「Orbex（オーベックス）」は現地時間2026年2月11日、管財人選任の手続きを開始したと発表しました。自社開発の小型ロケットによる初のテスト飛行を2026年中に… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260223-eu-orbex.html</guid>
+      <pubDate>Mon, 23 Feb 2026 08:20:30 +0000</pubDate>
     </item>
     <item>
       <title>台湾の宇宙開発が新段階へ　初の宇宙スタートアップ向けアクセラレーター「TASA iSPARK」設立</title>
@@ -30,13 +30,6 @@
       <pubDate>Fri, 06 Feb 2026 03:22:15 +0000</pubDate>
     </item>
     <item>
-      <title>船舶が座礁、航空機が着陸不能に!? 宇宙システムの「もしも」に備える官民が一堂に会した机上演習の実施意図</title>
-      <link>https://sorabatake.jp/44787/</link>
-      <description>宇宙システムの安定性強化に関する官民協議会の構成員が集まり、宇宙システム全体の機能保障強化のための机上演習が行われました。冒頭挨拶で話された内容や机上演習が行われた背景についてまとめています。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/44787/</guid>
-      <pubDate>Sun, 15 Feb 2026 23:00:29 +0000</pubDate>
-    </item>
-    <item>
       <title>エアロネクスト、JAXAの海洋浮遊物回収を支援するドローンを製造へ</title>
       <link>https://uchubiz.com/article/new69052/</link>
       <description>エアロネクスト（東京都渋谷区）は2月17日、宇宙航空研究開発機構（JAXA）の研究開発「海洋浮遊物回収支援ドローンの設計・製作」の公募において業務を受託したと発表した。期間は2026年1～3月。 　これはJAXAの宇宙 […] (source: Uchubiz)</description>
@@ -51,18 +44,18 @@
       <pubDate>Thu, 19 Feb 2026 23:00:34 +0000</pubDate>
     </item>
     <item>
-      <title>製造企業の宇宙参入可能性を最短10分で診断できるプラットフォーム「ORBITAS」–ALTILANが公開</title>
-      <link>https://uchubiz.com/article/new69103/</link>
-      <description>ALTILAN（静岡県浜松市）は2月19日、宇宙参入診断プラットフォーム「ORBITAS（オルビタス）」の提供を開始した。製造業の企業が、宇宙機器のどの領域で自社技術を生かせる可能性があるのかを最短10分で診断できると […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new69103/</guid>
-      <pubDate>Thu, 19 Feb 2026 05:27:07 +0000</pubDate>
-    </item>
-    <item>
       <title>英ロケット企業Orbexが資金ショートで事業閉鎖。初飛行延期が影響か【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/44933/</link>
       <description>英国のロケット企業Orbexが事業閉鎖に追い込まれています。ドイツのThe Exploration Companyへの事業売却を模索し、交渉に入っていましたが、最終的に合意には至りませんでした。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/44933/</guid>
       <pubDate>Sun, 22 Feb 2026 23:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>製造企業の宇宙参入可能性を最短10分で診断できるプラットフォーム「ORBITAS」–ALTILANが公開</title>
+      <link>https://uchubiz.com/article/new69103/</link>
+      <description>ALTILAN（静岡県浜松市）は2月19日、宇宙参入診断プラットフォーム「ORBITAS（オルビタス）」の提供を開始した。製造業の企業が、宇宙機器のどの領域で自社技術を生かせる可能性があるのかを最短10分で診断できると […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new69103/</guid>
+      <pubDate>Thu, 19 Feb 2026 05:27:07 +0000</pubDate>
     </item>
     <item>
       <title>月面の水分子はレゴリスの微小な空隙で作られる？　新たな生成メカニズムを提唱</title>
@@ -77,6 +70,13 @@
       <description>全国の星空好きとツナガリを目指す東京都の離島・神津島村とテレビ朝日が運営する「星空ツナガルコミュニティ」が、「星空フォトコンテスト 2025～冬の星空をシェアしよう～」を開催しています。「スマホで撮影OK、SNSにハッシ… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/news/kozushima-community-dmqpy_s3.html</guid>
       <pubDate>Fri, 20 Feb 2026 12:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>AST SpaceMobile、従来比10倍のデータをさばける巨大アンテナ衛星「BlueBird 6」展開成功。届かなかった場所にも4G・5Gが届く世界へ【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/44921/</link>
+      <description>2026年2月11日、AST SpaceMobileは次世代通信衛星「BlueBird 6」のアンテナ展開に成功したと発表しました。今回の発表によると、この通信アンテナは、低軌道の商用衛星向けとしては最大級のサイズです。この技術により、宇宙から世界中のスマートフォンへ直接通信するという同社の構想の実現に一歩近づきます。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/44921/</guid>
+      <pubDate>Mon, 23 Feb 2026 23:02:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

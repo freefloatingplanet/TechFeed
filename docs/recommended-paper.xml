@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Feb 2026 07:10:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 07:06:05 +0000</lastBuildDate>
     <item>
-      <title>銀河活動・トーラス・アウトフローサーベイ（GATOS）：N. 局所活動銀河における物理過程の解明。JWST MIRI/MRS観測データの教師なし階層的クラスタリング</title>
-      <link>https://arxiv.org/abs/2509.14019v2</link>
-      <description>積分場分光法の登場により、私たちは現在、空間的に分解された大量のデータを扱っており、特に近傍銀河のような複雑な天体を観測する場合、その分析は困難になっています。我々は、銀河の中心部（平均1秒～160パーセク）内の異なる物理領域を自動的に分離する手法の開発を目指しています。これにより、銀河系をより深く理解し、その進化に影響を与える主要な電離源の初期特性を明らかにすることができます。スペクトルの類似性に基づいてデータキューブを解析するための、教師なし階層的クラスタリングアルゴリズムを開発しました。このアルゴリズムは、類似したスペクトルを持つスパクセルをクラスタリングすることで、異なる物理プロセスを分離するのに役立ちます。この手法を、JWST搭載の中間赤外線観測装置（MIRI）の中分解能分光計（MRS）で観測された、銀河活動・トーラス・アウトフローサーベイ（GATOS）の7個とアーカイブソースの8個を含む、距離100メガパーセク未満の近傍銀河15個のサンプルに適用しました。これらのクラスターから、スペクトルの中央値を計算し、線スペクトルと連続スペクトルの特性を測定しました。これらの測定値を用 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.14019v2</guid>
-      <pubDate>Wed, 17 Sep 2025 14:25:15 +0000</pubDate>
+      <title>ASTRI-Hornモニタリングデータの多変量時系列予測：正常行動モデル</title>
+      <link>https://arxiv.org/abs/2602.19984v1</link>
+      <description>本研究では、通常の運用条件下でのASTRI-Hornチェレンコフ望遠鏡からの監視時系列データを予測するために開発された正常動作モデル（NBM）を紹介します。分析は、望遠鏡制御ユニットが2022年9月から2024年7月の間に取得した、方位角モーターと仰角モーターのセンサー測定値を表す15の物理変数に焦点を当てました。データクリーニング、リサンプリング、特徴選択、相関分析の後、データセットは固定長の間隔に分割されました。最初のIサンプルはモデルに提供された入力シーケンスを表し、予測長Tは予測される将来の時間ステップの数を示します。次に、スライディングウィンドウ手法を適用して間隔の数を増やしました。多層パーセプトロン（MLP）は、すべての特徴にわたって同時に多変量予測を実行するようにトレーニングされました。モデルのパフォーマンスは、平均二乗誤差（MSE）と正規化中央値絶対偏差（NMAD）を用いて評価され、さらに長短期記憶（LSTM）ネットワークと比較ベンチマークされました。MLPモデルは、様々な特徴量とI-T構成において一貫した結果を示し、LSTMのパフォーマンスと同等でありながら、より高速 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.19984v1</guid>
+      <pubDate>Mon, 23 Feb 2026 15:51:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,120 +7,46 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Feb 2026 07:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 07:05:57 +0000</lastBuildDate>
     <item>
-      <title>AIエージェント × knipで無駄コードを簡単に掃除</title>
-      <link>https://zenn.dev/knowledgework/articles/knip-with-ai-agent</link>
-      <description>こんにちは、よしこです。すっかりAIがコードを書く日々ですね。
-最近、AIエージェントでのコーディングと相性のいいワークフローを手軽に導入したので紹介します。
-
- knipとは？
-knip は、JavaScript/TypeScriptプロジェクトの不要なコードを静的解析で検出してくれるツールです。
-使われていないファイルやコードはもちろん、外部から参照されていないexportや、package.jsonに載っているけど利用されていないpackageまで見つけてくれます。無駄package気付きづらいのでありがたい…
-
- AIエージェントと組み合わせて使う
-エージェントにコーディングを任... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/knip-with-ai-agent</guid>
-      <pubDate>Thu, 19 Feb 2026 23:12:14 +0000</pubDate>
+      <title>パランティアCEO「AIは人文科学系の仕事を破壊するだろう」 | Business Insider Japan</title>
+      <link>https://www.businessinsider.jp/article/27db80e2-e5b6-42ca-973e-01c461c04cb1/</link>
+      <description>パランティアのアレックス・カープCEOは、「AIの時代には、現場で役立つ技術や実務のスキルを持つ人が強く求められる」と語った。REUTERS/Arnd Wiegmann パランティア・テクノロジーズの共同創業者でCEOのアレックス・カープは、大学や大学院で技術系の教育を受けていない。哲学を専攻していたカープは、AIが発展するに... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.businessinsider.jp/article/27db80e2-e5b6-42ca-973e-01c461c04cb1/</guid>
+      <pubDate>Mon, 23 Feb 2026 19:18:07 +0000</pubDate>
     </item>
     <item>
-      <title>数兆パラメータの時代に、無料GPU環境で3Bモデルを動かしたら想像以上だった</title>
-      <link>https://zenn.dev/kozoka_ai/articles/4041c910f6280e</link>
-      <description>加えて、500回以上のツール呼び出しを伴うDeep Search（自律的なWeb調査）にも対応しています。推論・コード生成・会話・エージェント行動を1つのモデルで実行できる、小型モデルとしては異例の汎用性を備えています。 ローカルAIの実務的価値 巨大モデルの性能は確かに魅力的ですが、実務では別の観点が重要になる場面... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/kozoka_ai/articles/4041c910f6280e</guid>
-      <pubDate>Sun, 22 Feb 2026 01:19:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>プログラミング言語オタクとして改めてC#を語りたい</title>
-      <link>https://zenn.dev/nuskey/articles/why-i-use-csharp</link>
-      <description>皆さんはC#、使っていますか？ 世界的には人気の言語であるC#ですが、残念ながら日本ではあまり流行っていないというのが現状です。というわけで色々なプログラミング言語をかじっている身としては、ちゃんとC#の良さを知ってもらいたい！ということで改めて筆を取った次第です。 C#だけでなくGoやRust、Swiftなどの様々... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/nuskey/articles/why-i-use-csharp</guid>
-      <pubDate>Sun, 22 Feb 2026 03:32:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>ごく個人的なClaude Codeプラクティス集</title>
-      <link>https://zenn.dev/hawkymisc/articles/2cace1f599cc06</link>
-      <description>TL;DR
-自分自身のスタイルを振り返りつつ、よりよいClaude Codeの使い方がないか模索する機会としてよさそうでもあり、どこかのClaude Code使い始めユーザーの参考になるかもしれない、と考えて、自分自身のClaude Codeを使うときのスタイルやプラクティスをまとめていきます。
-なお、この記事は人力で書いています。
+      <title>支援先のQAチームにClaude Codeを導入してテストケース生成を自動化した話</title>
+      <link>https://zenn.dev/neurostack_0001/articles/claude-code-qa-sprint-testcase-generation</link>
+      <description>きっかけ：支援先のスプリント開発で見えた課題
+技術顧問として入っている会社で、スプリント開発の現場を見ていてずっと気になっていたことがあった。
+QAチームのテストケース作成がボトルネックになっている。
+具体的にはこんな状況だった。
 
- 課金プラン
-ClaudeはProプランを契約しています。Maxを契約していた時期もありましたが、平日夜間+休日のみに限ると、やや持て余す感があります。
-とはいえProプランではやや足りない……という中途半端なところで、以前はRate Limitに達し... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hawkymisc/articles/2cace1f599cc06</guid>
-      <pubDate>Fri, 20 Feb 2026 17:27:33 +0000</pubDate>
+スプリント後半にQAの作業が溜まり、テストケース作成が間に合わない
+JIRAチケットの受け入れ条件からテストケースへの変換が完全に手作業
+QAメンバーはコードを読めないので、エンジニアに「この変更、何に影響する？」と毎回聞く
+新しいQAメンバーが入ると、テスト観点を覚えるまでに時間がかかる
+
+OpenObserveでも同じような課題があったらしく、Cla... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/neurostack_0001/articles/claude-code-qa-sprint-testcase-generation</guid>
+      <pubDate>Sun, 22 Feb 2026 02:48:59 +0000</pubDate>
     </item>
     <item>
-      <title>"世界変わる"——非エンジニアでもできる、 Claude Code による n8n ワークフロー開発</title>
-      <link>https://zenn.dev/ubie_dev/articles/6b23a74187766b</link>
-      <description>こんにちは。 Ubie の syucream です。最近は組織開発とか生成AI社内活用とかやってます。
-「業務を一番よく知っている人が、自分で自動化できる。」 この状態を、AI の力でどう実現するか。本記事では、 Ubie が Claude Code と n8n を用いたワークフロー開発効率化・民主化による業務効率化の実例を紹介します。
-
-
- 「一番無理な仕事かも」
-社内の業務自動化ツール n8n について、あるメンバーがこうコメントしました。
-n8n は、さまざまなサービスを「つなぐ」ことで業務を自動化する AI ワークフローシステムです。しかしそのワークフローを正しく組み上げるのは一... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/6b23a74187766b</guid>
-      <pubDate>Fri, 20 Feb 2026 03:49:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Codeが凄すぎ──2行の指示で10ファイル・5484行のコードを生成し変更した</title>
-      <link>https://qiita.com/yniji/items/85b0ed5b37de386242fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>コードを理解する超軽量MCPを作った — トークン70%削減、1分でセットアップ</title>
+      <link>https://zenn.dev/badmonster/articles/92338955317115</link>
       <description>はじめに
-「生成AIで開発が楽になる」と言われて久しいですが、実際には「思ったほど楽になっていない」と感じているエンジニアは多いのではないでしょうか。
-その原因は、エンジニアがAIと「競合」しているからです。
-解決策はシンプルです。AIを「道具」ではなく「同僚」として扱う... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/yniji/items/85b0ed5b37de386242fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 20 Feb 2026 04:46:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【React】Strategyパターン実践編 〜マルチテナント対応を例に〜</title>
-      <link>https://zenn.dev/sakisakiika/articles/f41abf4e0160a7</link>
-      <description>はじめに
-マルチテナント対応のフロントエンドを開発していると、テナントごとの差異を考慮しなければなりません。例えば、「テナントAではバリデーションを厳格にしたい」「テナント毎にAPIのリクエスト形式が違う」などの差異が出てきたとき、コンポーネント内で安易にif分岐させていませんか？
-その積み重ねは、やがて保守不能な構成となります。
-本記事では、Strategy（戦略）パターンの考え方をReactに取り入れ、テナント固有の振る舞いをクリーンに実装するアプローチを考えてみましたので紹介します。
-// こうなりがち
-const handleSubmit = async (data) =&amp;g... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sakisakiika/articles/f41abf4e0160a7</guid>
-      <pubDate>Sat, 21 Feb 2026 09:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>新デザインツールPencilはなぜエンジニアに刺さるのか</title>
-      <link>https://zenn.dev/aria3/articles/pencil-dev-why-engineers-love-it</link>
-      <description>!
-この記事は2026年2月20日時点の情報をもとにしています。Pencilは早期アクセス段階のため、仕様変更の可能性があります。最新の情報は公式サイトを確認してください。
+コーディングエージェントのデモは魔法のように見えます。しかし、実際のコードベースに向けると：
 
+コンテキストウィンドウがすぐに埋まる
+古いコードに対してハルシネーションが起きる
+処理が遅すぎて、grepした方が早い
 
- Pencilとは何か
-Pencilは、IDEに統合できるAIネイティブなデザインツールだ。公式のキャッチコピーは「Design on canvas. Land in code.」で、デザインをキャンバス上で行い、そのままコードに落とし込むことを目指している。
-Figmaのようなベクターキャンバスを持ちながら、Claude CodeやCursorといったAIコーディングツールとMCP（Model Context ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aria3/articles/pencil-dev-why-engineers-love-it</guid>
-      <pubDate>Fri, 20 Feb 2026 11:35:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントにVRMキャラクターをつけてモーションを制御する</title>
-      <link>https://zenn.dev/yokomachi/articles/202602_vrm-motion-control-on-web</link>
-      <description>!
-この記事は人間が書き、プログラムの実装・記事の校正に生成AIを使用しています。
-
-
- はじめに
-現在進行形で個人開発中のAIエージェントでユーザーインタフェースとして3Dモデルを使ってみることにしました。
-とはいえ一から実装する知識がないので、以前から見知っていたAITuberKitを利用してフロントエンドの実装を手軽にしてみようと思います。
-
-ちなみに、本記事の内容は最近発表したLTでも触れています。
-LTの資料はこちら
-
-
- 技術スタック
-
-VRMモデル作成: VRoid Studio
-
-Webフロントエンド: Next.js, TypeScript
-VRM表示・制御: thre... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yokomachi/articles/202602_vrm-motion-control-on-web</guid>
-      <pubDate>Sat, 21 Feb 2026 07:14:48 +0000</pubDate>
+大規模なRust/Python/TSリポジトリでAIワークフローを構築する中でこの壁にぶつかったので、自分のスタックに本当に欲しかったものを作りました：ASTベースの超軽量な組み込みMCPです。
+cocoindex-codeというツールで、トークン消費を約70%削減し、待ち時間も大幅に短縮できます。
+Claude、Codex、Cursor、その他MCP対応のコ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/badmonster/articles/92338955317115</guid>
+      <pubDate>Sun, 22 Feb 2026 04:22:16 +0000</pubDate>
     </item>
     <item>
       <title>Geminiに数学と電気回路を教わったら爆速だったけど、「画像の撮り方」で精度が激変した話</title>
@@ -130,6 +56,90 @@ VRM表示・制御: thre... (source: Zennのトレンド)</description>
 高校生の僕は、数学や電気回路の勉強でわからない問題があると、スマホで写真を撮ってGeminiに投げるようになりました。Geminiは公式ヘルプでも学習ツールとしての利用が案内されている通り、... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/harupython/items/e2179396fb3828c26fb0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Sat, 21 Feb 2026 00:46:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>確定申告を自動化する Agent Skill "shinkoku" を OSS にした</title>
+      <link>https://zenn.dev/kazukinagata/articles/83fe82191db01b</link>
+      <description>確定申告、めんどくさくないですか？
+年に1回しかやらないから毎年やり方を忘れる。レシートの山を前にしてうんざりする。帳簿をつけて、決算書を作って、税額を計算して、申告書を提出する――気が遠くなるほど長い道のりです。個人事業主やフリーランスの方なら、この苦しみに共感してもらえると思います。
+「もう全部 AI にやらせたい」。そう思って作ったのが、確定申告を自動化する Agent Skill「shinkoku」です。この記事では、作った動機、できること、セットアップ方法、テストによる品質保証について紹介します。
+https://github.com/kazukinagata/shinkoku... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kazukinagata/articles/83fe82191db01b</guid>
+      <pubDate>Sat, 21 Feb 2026 22:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cursorデザイン責任者に聞いた「AI時代の勉強法」。答えは「本を読め」</title>
+      <link>https://zenn.dev/perksh/articles/f94c5a3696831e</link>
+      <description>先日、Cursor Party Tokyoというイベントに参加してきた。
+ゲストはCursorを作っているAnysphere社のデザイン責任者、Ryo Lu氏。
+話を聞いていて強く印象に残ったのは、Cursorは「自動コード生成ツール」ではなくプログラミング学習者のパートナーだと考えているということ。今後はエンジニア以外にも使いやすくしていくとのことだった。
+セッションの後に質疑応答で直接質問することができた。
+
+ 意外な学習法
+「Cursorに作ってもらったり質問する以外に、何かおすすめの学習法はありますか？」
+返ってきた答えは
+「まず学習対象についての本を全体的に読んで、全体感を把... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/perksh/articles/f94c5a3696831e</guid>
+      <pubDate>Fri, 20 Feb 2026 08:43:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIのテストコードは信用するな🙅‍♂️</title>
+      <link>https://zenn.dev/tko_kasai/articles/3f5863e3407891</link>
+      <description>※この記事は主観的な内容が多く詰まっているため、あくまで一つの意見として捉えてください。
+
+ はじめに
+私はソフトウェアエンジニアとして、普段はAI駆動開発の実験で0→1のプロダクト開発に従事しています。
+このタイトルはAIを責めているわけではありません。AIを使いこなせていない私自身への叱責です。
+AI駆動開発を実践する中で、テストコードに関して大きな落とし穴にハマりました。この記事では、その経験から得た教訓を共有します。
+
+ 対象読者
+
+AIにテストコードを書かせている人
+AI駆動開発でテストの品質に悩んでいる人
+バイブコーディングでテストスイートが肥大化してしまった人
+
+
+ 用語解... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tko_kasai/articles/3f5863e3407891</guid>
+      <pubDate>Mon, 23 Feb 2026 01:59:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【個人開発】1週間で5万PV突破！Vercel無料枠の限界に挑みながら「エンジニアの物欲を刺激する新サイト」を作った話</title>
+      <link>https://zenn.dev/codaccu/articles/3be11d2dc84b94</link>
+      <description>はじめに
+こんにちは！先日リリースした「技術書ランキングサイト」ですが、想像を絶する反響をいただき、公開1週間で累計50,000PVを突破しました。
+あまりのアクセスに、Vercelの無料プラン（Hobby）のAnalytics画面は常に「12時間分」しかログを追えない状況（無料枠の限界……笑）ですが、リアルタイムで数字が跳ね上がる様子は、まさに個人開発冥利に尽きる体験でした。
+今回は、その勢いで作った 「エンジニアのデスク周りと物欲」 をターゲットにした新サイトの紹介と、爆速開発の裏側を共有します。
+
+ 1. Vercel無料枠で5万PVを捌いた結果
+正直、ここまで伸びるとは思って... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/codaccu/articles/3be11d2dc84b94</guid>
+      <pubDate>Sun, 22 Feb 2026 09:21:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>プログラミング言語オタクとして改めてC#を語りたい</title>
+      <link>https://zenn.dev/nuskey/articles/why-i-use-csharp</link>
+      <description>皆さんはC#、使っていますか？
+世界的には人気の言語であるC#ですが、残念ながら日本ではあまり流行っていないというのが現状です。というわけで色々なプログラミング言語をかじっている身としては、ちゃんとC#の良さを知ってもらいたい！ということで改めて筆を取った次第です。
+C#だけでなくGoやRust、Swiftなどの様々な言語の話を盛り込んでいるので、普段からC#を使っているという方もそうでない方も、是非一度この記事に目を通してもらえると嬉しいです。
+
+ この記事を書いたきっかけ
+私がこの記事を書き始めたのは、何縫ねの。さんによる下の記事がきっかけだったりします。
+https://blog.... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nuskey/articles/why-i-use-csharp</guid>
+      <pubDate>Sat, 21 Feb 2026 07:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>わからなくてもいいからエラーに当たったら最低5分自分で考えるようにしよう、と開発にAIを取り入れてもうすぐ1年のタイミングで考えた</title>
+      <link>https://zenn.dev/j____takumi/articles/think_5_minutes_with_vibe_coding</link>
+      <description>今後AIを使うことは時代的に必須となっています。しかし、だからと言って何でもかんでもAIに任せっぱなしにしてはいけない、とこの半年で考えたので今回記事を書こうと思います。
+
+ コーディングにAIを取り入れて早８ヶ月が経って考え続けるAIとの向き合い方
+わたしは、趣味で作っているアプリのコーディングにAIを2025年の梅雨あたりに導入し始めました。
+AIと感覚的に対話しながら開発を進めるこうしたスタイルは、「バイブコーディング（Vibe Coding）」とも呼ばれています。プロンプトを投げながら次々と実装を進めていくこの開発スタイルは、コーディングの速度を大幅に引き上げてくれます。
+全て手... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/j____takumi/articles/think_5_minutes_with_vibe_coding</guid>
+      <pubDate>Mon, 23 Feb 2026 10:32:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
