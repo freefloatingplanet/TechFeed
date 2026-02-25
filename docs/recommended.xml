@@ -7,30 +7,57 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Feb 2026 07:05:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 07:07:29 +0000</lastBuildDate>
     <item>
-      <title>パランティアCEO「AIは人文科学系の仕事を破壊するだろう」 | Business Insider Japan</title>
-      <link>https://www.businessinsider.jp/article/27db80e2-e5b6-42ca-973e-01c461c04cb1/</link>
-      <description>パランティアのアレックス・カープCEOは、「AIの時代には、現場で役立つ技術や実務のスキルを持つ人が強く求められる」と語った。REUTERS/Arnd Wiegmann パランティア・テクノロジーズの共同創業者でCEOのアレックス・カープは、大学や大学院で技術系の教育を受けていない。哲学を専攻していたカープは、AIが発展するに... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.businessinsider.jp/article/27db80e2-e5b6-42ca-973e-01c461c04cb1/</guid>
-      <pubDate>Mon, 23 Feb 2026 19:18:07 +0000</pubDate>
+      <title>えっ!?ビルの中で？中国・養豚業界に起きている「革命」、最新技術で超えた“しがらみ”、「養豚ビル」の実力、中国農業の近未来</title>
+      <link>https://wedge.ismedia.jp/articles/-/40264</link>
+      <description>中国の養豚業界に「革命」が起きている。 大資本VS零細農民。 中国養豚業界では長年、零細農民がコスト面で大資本を打ち負かしてきた。しかし、その図式がいま逆転しつつある。DX（デジタル・トランスフォーメーション）とAIを武器に、大規模業者がコスト面で零細事業者を圧倒し始めている。 中国を席巻する養豚ビル 26... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://wedge.ismedia.jp/articles/-/40264</guid>
+      <pubDate>Wed, 25 Feb 2026 02:37:42 +0000</pubDate>
     </item>
     <item>
-      <title>支援先のQAチームにClaude Codeを導入してテストケース生成を自動化した話</title>
-      <link>https://zenn.dev/neurostack_0001/articles/claude-code-qa-sprint-testcase-generation</link>
-      <description>きっかけ：支援先のスプリント開発で見えた課題
-技術顧問として入っている会社で、スプリント開発の現場を見ていてずっと気になっていたことがあった。
-QAチームのテストケース作成がボトルネックになっている。
-具体的にはこんな状況だった。
+      <title>Microsoftの提案するLLM向け記憶管理手法</title>
+      <link>https://zenn.dev/knowledgesense/articles/7d5fed819d2f8e</link>
+      <description>導入
+こんにちは、株式会社ナレッジセンスの須藤英寿です。
+今回はMicrosoftの提案するLLM向けのメモリ機能、「Mnemis」を紹介します。
+https://arxiv.org/pdf/2602.15313
 
-スプリント後半にQAの作業が溜まり、テストケース作成が間に合わない
-JIRAチケットの受け入れ条件からテストケースへの変換が完全に手作業
-QAメンバーはコードを読めないので、エンジニアに「この変更、何に影響する？」と毎回聞く
-新しいQAメンバーが入ると、テスト観点を覚えるまでに時間がかかる
 
-OpenObserveでも同じような課題があったらしく、Cla... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/neurostack_0001/articles/claude-code-qa-sprint-testcase-generation</guid>
-      <pubDate>Sun, 22 Feb 2026 02:48:59 +0000</pubDate>
+ サマリー
+Agentの能力の上昇により、コンテキストエンジニアリングがより重要になってきています。特に、これまでの会話の情報をコンテキストとして効率的に取得するメモリ管理方法は、どのエージェントにも欠かせない機能となっていきます。
+「Mnemis」は、新しいメモリの管理手法として、登場しました。カテゴリ分けを利用した階層構造と、ベクトル検索を利用した類似度検索、LLM... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/7d5fed819d2f8e</guid>
+      <pubDate>Tue, 24 Feb 2026 01:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA-Nemotron-Nano-9B-v2-Japanese から Embedding モデルを作る</title>
+      <link>https://zenn.dev/yner/articles/nemotron_nano_embedding</link>
+      <description>NVIDIA が公開した NVIDIA-Nemotron-Nano-9B-v2-Japanese は、Qwen3 の 3〜6 倍ものスループットを持つ日本語 LLM として注目を集めています。現状ではチャット形式での利用のためのモデルのみが公開されており Embedding モデルは提供されていないという状況になっています。
+私は個人的に記事推薦のモデルを作って運用していて、自然言語を Embedding に変換して機械学習モデルの特徴量として使っています。Nemotron ベースの高速な Embedding モデルがあれば、推論速度と推薦性能の両方を改善できるのではないか——ということ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yner/articles/nemotron_nano_embedding</guid>
+      <pubDate>Mon, 23 Feb 2026 08:57:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenClawでUnity自律開発を試したが、正直まだ厳しいと感じた話</title>
+      <link>https://zenn.dev/omori432/articles/open-claw-unity-hackathon-2026</link>
+      <description>やろうとしたこと
+ハッカソンの機会に、話題のOpenClawでUnityゲームを作ろうとした。
+普段はClaude CodeのSubagentで並行開発を回していて、それなりにうまくいっている。だったらOpenClawにオーケストレーションごと任せたらどうなるのか。コードも画像も音楽も全部AI、人間はディレクションだけ。どこまでいけるか試した。
+厳しかった。期待が大きかった分、落差がきつい。
+
+ 構成と準備
+作ったのはGlitchClawという2Dサバイバーズライク。サイバーパンクな世界で小さいクリーチャーが敵と10分間戦い続けるやつ。
+https://github.com/rioX... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/omori432/articles/open-claw-unity-hackathon-2026</guid>
+      <pubDate>Mon, 23 Feb 2026 09:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>米軍が諦めた「未来の兵器」なぜ日本は形にできたのか？ マッハ7で100km先の目標も撃破する「ゲームチェンジャー」開発の現在地 | 乗りものニュース</title>
+      <link>https://trafficnews.jp/post/636874</link>
+      <description>2025年、日本の兵器、装備品開発で明るいニュースと言えば、レールガンの洋上試験成功があげられます。とは言っても世界各国、特にアメリカの長い取り組みがあっても、まだまだ完成へのハードルが高い兵器です。そんなレールガンの開発状況を、改めて整理してみましょう。 防衛省が洋上試験成功を発表 「レールガン」と... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://trafficnews.jp/post/636874</guid>
+      <pubDate>Wed, 25 Feb 2026 02:50:08 +0000</pubDate>
     </item>
     <item>
       <title>コードを理解する超軽量MCPを作った — トークン70%削減、1分でセットアップ</title>
@@ -49,13 +76,11 @@ Claude、Codex、Cursor、その他MCP対応のコ... (source: Zennのトレン�
       <pubDate>Sun, 22 Feb 2026 04:22:16 +0000</pubDate>
     </item>
     <item>
-      <title>Geminiに数学と電気回路を教わったら爆速だったけど、「画像の撮り方」で精度が激変した話</title>
-      <link>https://qiita.com/harupython/items/e2179396fb3828c26fb0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-2025年、生成AIの画像認識（マルチモーダル）が大きく覚醒しました。
-高校生の僕は、数学や電気回路の勉強でわからない問題があると、スマホで写真を撮ってGeminiに投げるようになりました。Geminiは公式ヘルプでも学習ツールとしての利用が案内されている通り、... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/harupython/items/e2179396fb3828c26fb0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 21 Feb 2026 00:46:12 +0000</pubDate>
+      <title>「今日はなんだか頭が冴えない」は仕方なかった？　脳にある“コンディションの波”　1日の目標達成に影響</title>
+      <link>https://www.itmedia.co.jp/news/articles/2602/25/news035.html</link>
+      <description>目標を立てたのに達成できない日と、すんなりこなせる日がある。この差はどこから来るのか。 従来、認知機能と目標達成の関係は、人と人の違いとして調べられてきた。認知テストの成績が高い人ほどうまく目標を達成できるのではないか、という発想だ。しかし健常者ではこの関連はほとんど見つかっていなかった。そこで研... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2602/25/news035.html</guid>
+      <pubDate>Tue, 24 Feb 2026 23:46:25 +0000</pubDate>
     </item>
     <item>
       <title>確定申告を自動化する Agent Skill "shinkoku" を OSS にした</title>
@@ -68,66 +93,21 @@ https://github.com/kazukinagata/shinkoku... (source: Zennのトレンド)</descr
       <pubDate>Sat, 21 Feb 2026 22:37:15 +0000</pubDate>
     </item>
     <item>
-      <title>Cursorデザイン責任者に聞いた「AI時代の勉強法」。答えは「本を読め」</title>
-      <link>https://zenn.dev/perksh/articles/f94c5a3696831e</link>
-      <description>先日、Cursor Party Tokyoというイベントに参加してきた。
-ゲストはCursorを作っているAnysphere社のデザイン責任者、Ryo Lu氏。
-話を聞いていて強く印象に残ったのは、Cursorは「自動コード生成ツール」ではなくプログラミング学習者のパートナーだと考えているということ。今後はエンジニア以外にも使いやすくしていくとのことだった。
-セッションの後に質疑応答で直接質問することができた。
-
- 意外な学習法
-「Cursorに作ってもらったり質問する以外に、何かおすすめの学習法はありますか？」
-返ってきた答えは
-「まず学習対象についての本を全体的に読んで、全体感を把... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/perksh/articles/f94c5a3696831e</guid>
-      <pubDate>Fri, 20 Feb 2026 08:43:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIのテストコードは信用するな🙅‍♂️</title>
-      <link>https://zenn.dev/tko_kasai/articles/3f5863e3407891</link>
-      <description>※この記事は主観的な内容が多く詰まっているため、あくまで一つの意見として捉えてください。
-
- はじめに
-私はソフトウェアエンジニアとして、普段はAI駆動開発の実験で0→1のプロダクト開発に従事しています。
-このタイトルはAIを責めているわけではありません。AIを使いこなせていない私自身への叱責です。
-AI駆動開発を実践する中で、テストコードに関して大きな落とし穴にハマりました。この記事では、その経験から得た教訓を共有します。
-
- 対象読者
-
-AIにテストコードを書かせている人
-AI駆動開発でテストの品質に悩んでいる人
-バイブコーディングでテストスイートが肥大化してしまった人
-
-
- 用語解... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tko_kasai/articles/3f5863e3407891</guid>
-      <pubDate>Mon, 23 Feb 2026 01:59:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>【個人開発】1週間で5万PV突破！Vercel無料枠の限界に挑みながら「エンジニアの物欲を刺激する新サイト」を作った話</title>
-      <link>https://zenn.dev/codaccu/articles/3be11d2dc84b94</link>
+      <title>地方で技術カンファレンスをやりたい人へ〜Go Conference mini in Sendai 2026 を終えて伝えたいこと〜</title>
+      <link>https://zenn.dev/senoue/articles/71397b1f651518</link>
       <description>はじめに
-こんにちは！先日リリースした「技術書ランキングサイト」ですが、想像を絶する反響をいただき、公開1週間で累計50,000PVを突破しました。
-あまりのアクセスに、Vercelの無料プラン（Hobby）のAnalytics画面は常に「12時間分」しかログを追えない状況（無料枠の限界……笑）ですが、リアルタイムで数字が跳ね上がる様子は、まさに個人開発冥利に尽きる体験でした。
-今回は、その勢いで作った 「エンジニアのデスク周りと物欲」 をターゲットにした新サイトの紹介と、爆速開発の裏側を共有します。
+2026年2月、Go Conference mini in Sendai 2026 を無事に終えることができました。
+まずは、参加してくださった皆さん、登壇者、スポンサー、スタッフ、そして応援してくれたすべての方に感謝しています。
+この記事は、イベントの成功を誇るためのものではありません。
+地方で技術カンファレンスをやってみたいと思っている人に向けて、
+実際にやってみて分かったこと、感じたことを残しておきたいと思い、書いています。
 
- 1. Vercel無料枠で5万PVを捌いた結果
-正直、ここまで伸びるとは思って... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/codaccu/articles/3be11d2dc84b94</guid>
-      <pubDate>Sun, 22 Feb 2026 09:21:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>プログラミング言語オタクとして改めてC#を語りたい</title>
-      <link>https://zenn.dev/nuskey/articles/why-i-use-csharp</link>
-      <description>皆さんはC#、使っていますか？
-世界的には人気の言語であるC#ですが、残念ながら日本ではあまり流行っていないというのが現状です。というわけで色々なプログラミング言語をかじっている身としては、ちゃんとC#の良さを知ってもらいたい！ということで改めて筆を取った次第です。
-C#だけでなくGoやRust、Swiftなどの様々な言語の話を盛り込んでいるので、普段からC#を使っているという方もそうでない方も、是非一度この記事に目を通してもらえると嬉しいです。
+ 地方で開催しようとすると、最初に感じる不安
+地方で技術カンファレンスをやろうとすると、だいたい次のような不安が出てきます。
 
- この記事を書いたきっかけ
-私がこの記事を書き始めたのは、何縫ねの。さんによる下の記事がきっかけだったりします。
-https://blog.... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nuskey/articles/why-i-use-csharp</guid>
-      <pubDate>Sat, 21 Feb 2026 07:56:00 +0000</pubDate>
+運営を手伝って... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/senoue/articles/71397b1f651518</guid>
+      <pubDate>Mon, 23 Feb 2026 23:46:33 +0000</pubDate>
     </item>
     <item>
       <title>わからなくてもいいからエラーに当たったら最低5分自分で考えるようにしよう、と開発にAIを取り入れてもうすぐ1年のタイミングで考えた</title>

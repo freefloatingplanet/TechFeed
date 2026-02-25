@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Feb 2026 07:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 07:07:34 +0000</lastBuildDate>
     <item>
-      <title>ASTRI-Hornモニタリングデータの多変量時系列予測：正常行動モデル</title>
-      <link>https://arxiv.org/abs/2602.19984v1</link>
-      <description>本研究では、通常の運用条件下でのASTRI-Hornチェレンコフ望遠鏡からの監視時系列データを予測するために開発された正常動作モデル（NBM）を紹介します。分析は、望遠鏡制御ユニットが2022年9月から2024年7月の間に取得した、方位角モーターと仰角モーターのセンサー測定値を表す15の物理変数に焦点を当てました。データクリーニング、リサンプリング、特徴選択、相関分析の後、データセットは固定長の間隔に分割されました。最初のIサンプルはモデルに提供された入力シーケンスを表し、予測長Tは予測される将来の時間ステップの数を示します。次に、スライディングウィンドウ手法を適用して間隔の数を増やしました。多層パーセプトロン（MLP）は、すべての特徴にわたって同時に多変量予測を実行するようにトレーニングされました。モデルのパフォーマンスは、平均二乗誤差（MSE）と正規化中央値絶対偏差（NMAD）を用いて評価され、さらに長短期記憶（LSTM）ネットワークと比較ベンチマークされました。MLPモデルは、様々な特徴量とI-T構成において一貫した結果を示し、LSTMのパフォーマンスと同等でありながら、より高速 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.19984v1</guid>
-      <pubDate>Mon, 23 Feb 2026 15:51:50 +0000</pubDate>
+      <title>ニュートリノ検出のための巨大電波アレイ（GRAND）に向けて：GRANDProto300とGRAND@Augerのプロトタイプ</title>
+      <link>https://arxiv.org/abs/2509.21306v2</link>
+      <description>巨大電波ニュートリノ検出アレイ（GRAND）は、宇宙起源の超高エネルギー（UHE）粒子を観測するマルチメッセンジャー観測所として提案されている。その主な目標は、多数のUHE宇宙線と、それらの相互作用によって生成されるガンマ線やニュートリノなどの二次粒子を検出することにより、長年探し求められてきたUHE宇宙線の起源を突き止めることである。GRANDコラボレーションは、大気中のUHE粒子の相互作用によって引き起こされる空気シャワーが放出する無線信号を探す大規模な無線アンテナアレイを用いて、この目標を達成する予定である。2023年以来、フランスのGRAND@Nançay、アルゼンチンのGRAND@Auger、中国のGRANDProto300という3つの小規模プロトタイプGRANDアレイが稼働している。これらのアレイは共に、長期のフィールド条件下でGRANDの検出原理を検証し、空気シャワーの効率的で自律的な無線検出を実現することを目標としている。 GRANDプロトタイプのハードウェア、ソフトウェア、レイアウト、および運用について解説します。これらのデータを用いて、各観測地点の局所的な電磁環境の (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.21306v2</guid>
+      <pubDate>Thu, 25 Sep 2025 15:21:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

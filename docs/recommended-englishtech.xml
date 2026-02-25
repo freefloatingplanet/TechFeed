@@ -7,13 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Feb 2026 07:06:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 07:07:39 +0000</lastBuildDate>
+    <item>
+      <title>OktaからLaravelアプリにユーザーを同期する方法</title>
+      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
+      <description>わずか数行のコードで、SCIM、Okta、WorkOS を使用して Laravel アプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
       <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新興のAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appleの研究者がUIの視覚化と制御のためのデバイス内AIモデル「Ferret-UI Lite」を発表</title>
+      <link>https://www.infoq.com/news/2026/02/apple-ferret-ui-lite-on-device/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>AppleのFerret-UI Liteは、モバイルとデスクトップの画面に最適化され、画面イメージの解釈、アイコンやテキストなどのUI要素の理解、メッセージの読み取り、健康データの確認など、アプリとのインタラクションを可能にする3Bパラメータモデルです。Sergio De Simone著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/apple-ferret-ui-lite-on-device/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 24 Feb 2026 19:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
@@ -37,25 +51,18 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>.NET 11 Preview 1 がリリース。ランタイム非同期、Zstandard サポート、C# 15 の機能を搭載</title>
-      <link>https://www.infoq.com/news/2026/02/dotnet-11-preview1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>NET 11 Preview 1がリリースされました。注目すべき変更点として、非同期メソッドの処理をコンパイラからランタイム自体に移行したRuntime Asyncが挙げられます。このプレビューでは、CoreCLR WebAssemblyの実装、ネイティブZstandard圧縮、C# 15のコレクション式引数、MAUIの改善も導入されています。コミュニティの反応は賛否両論で、非同期メソッドの変更は高く評価される一方で、言語の複雑さについては議論が巻き起こっています。Almir Vuk著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/dotnet-11-preview1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 21 Feb 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spotifyは、AIを活用したプロンプトプレイリストを英国およびその他の市場に展開します。</title>
-      <link>https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/</link>
-      <description>SpotifyはAIを活用した「プロンプトプレイリスト」機能のテストを継続しており、現在、英国、アイルランド、オーストラリア、スウェーデンのプレミアム加入者向けにこのツールを展開している。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/</guid>
-      <pubDate>Mon, 23 Feb 2026 16:50:36 +0000</pubDate>
-    </item>
-    <item>
       <title>Java ニュースまとめ: JDK26-RC2、Payara プラットフォーム、Hibernate、Quarkus、Apache Camel、Jakarta EE 12</title>
       <link>https://www.infoq.com/news/2026/02/java-news-roundup-feb16-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>今週の2026年2月16日版Javaラウンドアップでは、JDK 26の2番目のリリース候補版、Jakarta EE 12のアップデート、Payara Platformの2026年2月版、Apache Camelのポイントリリース、Hibernate SearchとQuarkusのメンテナンスリリースなど、注目のニュースをお届けします。マイケル・レッドリッヒ (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/02/java-news-roundup-feb16-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Tue, 24 Feb 2026 02:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>記事: バーチャルパネル - 文化、コード、プラットフォーム: 高いパフォーマンスを発揮するチームの構築</title>
+      <link>https://www.infoq.com/articles/panel-high-performing-teams/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>このバーチャルパネルでは、プラットフォームエンジニアリングによるパフォーマンス向上と開発者エクスペリエンスの促進に焦点を当て、生産性、品質、開発者の幸福度などを向上させます。また、ソフトウェア開発組織の文化変革とパフォーマンス向上において、技術リーダーシップが果たせる役割についても考察します。ベン・リンダース、パトリック・クア、アビー・バンサー、サラ・ウェルズ (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/panel-high-performing-teams/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 24 Feb 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>春のニュースまとめ: Boot、Security、Integration、Modulith、AMQP の 2 番目のマイルストーンリリース</title>
@@ -67,16 +74,9 @@
     <item>
       <title>Uforwarder: 効率的なイベント駆動型マイクロサービスのための Uber のスケーラブルな Kafka コンシューマープロキシ</title>
       <link>https://www.infoq.com/news/2026/02/uber-uforwarder-kafka-push-proxy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Uberは、プッシュベースのKafkaコンシューマープロキシであるuForwarderをオープンソース化しました。uForwarderは、毎日数兆件のメッセージと数ペタバイト規模のデータを処理するために構築されています。このシステムは、コンテキストアウェアルーティング、ヘッドオブラインブロッキング緩和、適応型自動リバランス、パーティションレベルの遅延処理を導入し、大規模なイベント駆動型マイクロサービスにおけるスケーラビリティ、ワークロード分離、ハードウェア効率を向上させます。リーラ・クミリ著 (source: InfoQ)</description>
+      <description>Uberは、プッシュベースのKafkaコンシューマープロキシであるuForwarderをオープンソース化しました。uForwarderは、毎日数兆件のメッセージと数ペタバイトのデータを処理するために構築されています。このシステムは、コンテキストアウェアルーティング、ヘッドオブラインブロッキング緩和、適応型自動リバランス、パーティションレベルの遅延処理を導入し、大規模なイベント駆動型マイクロサービスにおけるスケーラビリティ、ワークロード分離、ハードウェア効率を向上させます。リーラ・クミリ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/02/uber-uforwarder-kafka-push-proxy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 23 Feb 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TypeScript 6 ベータ版リリース: Go の書き換えに備えて開発者にアップグレードを呼びかけ</title>
-      <link>https://www.infoq.com/news/2026/02/typescript-6-released-beta/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>TypeScriptチームは先日、TypeScript 6のベータ版をリリースしました。このリリースは、完全な機能リリースではなく、重要な移行ポイントとなるものです。技術的負債の解消と標準化に重点を置き、時間の経過とともに増大したコアパフォーマンス問題の解決を目指してTypeScriptコードをGo言語で書き直したTypeScript 7に向けたエコシステムの準備を整えています。Bruno Couriol (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/typescript-6-released-beta/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 21 Feb 2026 15:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
