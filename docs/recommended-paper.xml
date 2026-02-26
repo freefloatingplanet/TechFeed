@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Feb 2026 07:07:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 07:05:58 +0000</lastBuildDate>
     <item>
-      <title>ニュートリノ検出のための巨大電波アレイ（GRAND）に向けて：GRANDProto300とGRAND@Augerのプロトタイプ</title>
-      <link>https://arxiv.org/abs/2509.21306v2</link>
-      <description>巨大電波ニュートリノ検出アレイ（GRAND）は、宇宙起源の超高エネルギー（UHE）粒子を観測するマルチメッセンジャー観測所として提案されている。その主な目標は、多数のUHE宇宙線と、それらの相互作用によって生成されるガンマ線やニュートリノなどの二次粒子を検出することにより、長年探し求められてきたUHE宇宙線の起源を突き止めることである。GRANDコラボレーションは、大気中のUHE粒子の相互作用によって引き起こされる空気シャワーが放出する無線信号を探す大規模な無線アンテナアレイを用いて、この目標を達成する予定である。2023年以来、フランスのGRAND@Nançay、アルゼンチンのGRAND@Auger、中国のGRANDProto300という3つの小規模プロトタイプGRANDアレイが稼働している。これらのアレイは共に、長期のフィールド条件下でGRANDの検出原理を検証し、空気シャワーの効率的で自律的な無線検出を実現することを目標としている。 GRANDプロトタイプのハードウェア、ソフトウェア、レイアウト、および運用について解説します。これらのデータを用いて、各観測地点の局所的な電磁環境の (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.21306v2</guid>
-      <pubDate>Thu, 25 Sep 2025 15:21:16 +0000</pubDate>
+      <title>混合整数計画へのランダムキー最適化器の適用</title>
+      <link>https://arxiv.org/abs/2602.22173v1</link>
+      <description>混合整数計画（MIP）は、金融、物流、エネルギーシステム、ネットワーク設計など、幅広い意思決定アプリケーションで用いられるNP困難な最適化モデルです。現代の商用ソルバーは目覚ましい進歩を遂げ、多くの小規模および中規模のインスタンスで効果的に動作しますが、大規模または制約の厳しい定式化では性能が低下することがよくあります。本稿では、問題固有のデコーダーを設計することで、MIPに対する高品質な解を計算するための柔軟でメタヒューリスティックな代替手段として、ランダムキー最適化（RKO）フレームワークの適用について考察します。提案するアプローチは、連続ランダムキー空間で動作し、効率的なデコード手順によって候補解を実行可能な整数解にマッピングすることで、探索プロセスと実現可能性の検証を分離します。本手法は、バイイン制約とカーディナリティ制約を伴う平均分散マルコウィッツ・ポートフォリオ最適化問題と、時間依存巡回セールスマン問題という、代表的かつ構造的に異なる2つのベンチマーク問題で評価します。各定式化に対して、有効探索空間の縮小、実現可能性の向上、収束の加速を目的として、カスタマイズされたデコーダ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.22173v1</guid>
+      <pubDate>Wed, 25 Feb 2026 18:20:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,46 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Feb 2026 07:07:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 07:05:53 +0000</lastBuildDate>
+    <item>
+      <title>git の次の時代のバージョン管理システム jj (jujutsu)</title>
+      <link>https://zenn.dev/nttdata_tech/articles/33ec2c7972373e</link>
+      <description>jj ブームはすぐそばに?
+最近、にわかに jj (jujutsu) が話題だ。
+jj は、Google の Martin von Zweigbergk 氏が 2019 年に開発を始めたバージョン管理システム (VCS) だ。2022年のカンファレンス「Git Merge 2022」では、 jj は Google 社内でも利用されていると紹介されている。
+私は jj の存在を知ってはいたが、 git で特に困っていなかったことや、プロジェクト名がネタっぽかったことから、それほど興味を惹かれなかった。
+最近、AIコーディングエージェントを使っているうちに、 git でのバージョン管理が... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/33ec2c7972373e</guid>
+      <pubDate>Wed, 25 Feb 2026 07:35:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude CodeのSkillsを作成例から徹底理解する</title>
+      <link>https://zenn.dev/acntechjp/articles/554765e5a0d0be</link>
+      <description>はじめに：AIエージェントの「できること」を拡張する
+Claude Codeは、ターミナル上で動くAIエージェントです。コードの読み書きだけでなく、PowerShellやPython、OSコマンドの実行もできます。しかし、プロジェクト固有の業務手順やツール連携をClaudeが最初から知っているわけではありません。
+ここで登場するのが Skills です。
+Skillsとは、Claude Codeに「特定の業務をどう実行するか」を教えるための仕組みです。SKILL.md というファイルに手順を書いておくだけで、Claudeはそのスキルを自律的に選択し、PowerShellスクリプトや... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/554765e5a0d0be</guid>
+      <pubDate>Mon, 23 Feb 2026 15:44:17 +0000</pubDate>
+    </item>
     <item>
       <title>えっ!?ビルの中で？中国・養豚業界に起きている「革命」、最新技術で超えた“しがらみ”、「養豚ビル」の実力、中国農業の近未来</title>
       <link>https://wedge.ismedia.jp/articles/-/40264</link>
       <description>中国の養豚業界に「革命」が起きている。 大資本VS零細農民。 中国養豚業界では長年、零細農民がコスト面で大資本を打ち負かしてきた。しかし、その図式がいま逆転しつつある。DX（デジタル・トランスフォーメーション）とAIを武器に、大規模業者がコスト面で零細事業者を圧倒し始めている。 中国を席巻する養豚ビル 26... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://wedge.ismedia.jp/articles/-/40264</guid>
       <pubDate>Wed, 25 Feb 2026 02:37:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>IBMが組み込んだClaude、IBMを撃つ ── メインフレーム・モダナイゼーションは誰にも解けない</title>
+      <link>https://zenn.dev/yostos/articles/ibm-cobol-claude-irony</link>
+      <description>TL;DR
+AnthropicのClaude CodeによるCOBOLモダナイゼーション対応発表によりIBM株急落。皮肉にもIBM自身がClaudeを自社ツールに組み込んだ矢先。筆者の考えではClaude Code・IBM Bob・AWS Blu Ageのいずれであっても、メインフレーム・モダナイゼーションの本質的な問題解決は不能。本当の敵はツールの優劣ではなく、失われた業務知識という名の技術的負債。
+
+ IBM株、一夜にして13%急落
+2026年2月23日、IBM株が13%急落しました。2000年10月以来、最大の下落幅です。
+きっかけはAnthropicが公開したブログ記事「Ho... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yostos/articles/ibm-cobol-claude-irony</guid>
+      <pubDate>Tue, 24 Feb 2026 08:30:01 +0000</pubDate>
     </item>
     <item>
       <title>Microsoftの提案するLLM向け記憶管理手法</title>
@@ -31,83 +64,60 @@ Agentの能力の上昇により、コンテキストエンジニアリングが
       <pubDate>Tue, 24 Feb 2026 01:14:50 +0000</pubDate>
     </item>
     <item>
-      <title>NVIDIA-Nemotron-Nano-9B-v2-Japanese から Embedding モデルを作る</title>
-      <link>https://zenn.dev/yner/articles/nemotron_nano_embedding</link>
-      <description>NVIDIA が公開した NVIDIA-Nemotron-Nano-9B-v2-Japanese は、Qwen3 の 3〜6 倍ものスループットを持つ日本語 LLM として注目を集めています。現状ではチャット形式での利用のためのモデルのみが公開されており Embedding モデルは提供されていないという状況になっています。
-私は個人的に記事推薦のモデルを作って運用していて、自然言語を Embedding に変換して機械学習モデルの特徴量として使っています。Nemotron ベースの高速な Embedding モデルがあれば、推論速度と推薦性能の両方を改善できるのではないか——ということ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yner/articles/nemotron_nano_embedding</guid>
-      <pubDate>Mon, 23 Feb 2026 08:57:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenClawでUnity自律開発を試したが、正直まだ厳しいと感じた話</title>
-      <link>https://zenn.dev/omori432/articles/open-claw-unity-hackathon-2026</link>
-      <description>やろうとしたこと
-ハッカソンの機会に、話題のOpenClawでUnityゲームを作ろうとした。
-普段はClaude CodeのSubagentで並行開発を回していて、それなりにうまくいっている。だったらOpenClawにオーケストレーションごと任せたらどうなるのか。コードも画像も音楽も全部AI、人間はディレクションだけ。どこまでいけるか試した。
-厳しかった。期待が大きかった分、落差がきつい。
-
- 構成と準備
-作ったのはGlitchClawという2Dサバイバーズライク。サイバーパンクな世界で小さいクリーチャーが敵と10分間戦い続けるやつ。
-https://github.com/rioX... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/omori432/articles/open-claw-unity-hackathon-2026</guid>
-      <pubDate>Mon, 23 Feb 2026 09:00:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>米軍が諦めた「未来の兵器」なぜ日本は形にできたのか？ マッハ7で100km先の目標も撃破する「ゲームチェンジャー」開発の現在地 | 乗りものニュース</title>
-      <link>https://trafficnews.jp/post/636874</link>
-      <description>2025年、日本の兵器、装備品開発で明るいニュースと言えば、レールガンの洋上試験成功があげられます。とは言っても世界各国、特にアメリカの長い取り組みがあっても、まだまだ完成へのハードルが高い兵器です。そんなレールガンの開発状況を、改めて整理してみましょう。 防衛省が洋上試験成功を発表 「レールガン」と... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://trafficnews.jp/post/636874</guid>
-      <pubDate>Wed, 25 Feb 2026 02:50:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>コードを理解する超軽量MCPを作った — トークン70%削減、1分でセットアップ</title>
-      <link>https://zenn.dev/badmonster/articles/92338955317115</link>
+      <title>GitHub CopilotのSkillsは手順書だ：3桁行差分の大規模Terraform移行に使い回す</title>
+      <link>https://zenn.dev/aeonpeople/articles/morihaya-20260224-copilot-skills-is-tetsuzukisho</link>
       <description>はじめに
-コーディングエージェントのデモは魔法のように見えます。しかし、実際のコードベースに向けると：
+こんにちは。イオンスマートテクノロジー株式会社（AST）でSREチームの林 aka もりはやです。
+本記事ではGitHub Copilotの「Skills」と呼ばれる機能について、私たちJTCやEnterpriseの文脈で捉え直した結果「要は手順書ですね」と捉えることで複雑なTerraformの移行を再現性のある形で進められるようになった話を紹介します。
+ポイントは「Skills」ってカッコ良い表現よりも、「AI用の手順書じゃん」と捉えることで利用の敷居が大幅に下がったという点です。
 
-コンテキストウィンドウがすぐに埋まる
-古いコードに対してハルシネーションが起きる
-処理が遅すぎて、grepした方が早い
+ TL;DR
 
-大規模なRust/Python/TSリポジトリでAIワークフローを構築する中でこの壁にぶつかったので、自分のスタックに本当に欲しかったものを作りました：ASTベースの超軽量な組み込みMCPです。
-cocoindex-codeというツールで、トークン消費を約70%削減し、待ち時間も大幅に短縮できます。
-Claude、Codex、Cursor、その他MCP対応のコ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/badmonster/articles/92338955317115</guid>
-      <pubDate>Sun, 22 Feb 2026 04:22:16 +0000</pubDate>
+Skills、Custom-instructionなんて言葉に惑わされて... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aeonpeople/articles/morihaya-20260224-copilot-skills-is-tetsuzukisho</guid>
+      <pubDate>Tue, 24 Feb 2026 23:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>「今日はなんだか頭が冴えない」は仕方なかった？　脳にある“コンディションの波”　1日の目標達成に影響</title>
-      <link>https://www.itmedia.co.jp/news/articles/2602/25/news035.html</link>
-      <description>目標を立てたのに達成できない日と、すんなりこなせる日がある。この差はどこから来るのか。 従来、認知機能と目標達成の関係は、人と人の違いとして調べられてきた。認知テストの成績が高い人ほどうまく目標を達成できるのではないか、という発想だ。しかし健常者ではこの関連はほとんど見つかっていなかった。そこで研... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2602/25/news035.html</guid>
-      <pubDate>Tue, 24 Feb 2026 23:46:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>確定申告を自動化する Agent Skill "shinkoku" を OSS にした</title>
-      <link>https://zenn.dev/kazukinagata/articles/83fe82191db01b</link>
-      <description>確定申告、めんどくさくないですか？
-年に1回しかやらないから毎年やり方を忘れる。レシートの山を前にしてうんざりする。帳簿をつけて、決算書を作って、税額を計算して、申告書を提出する――気が遠くなるほど長い道のりです。個人事業主やフリーランスの方なら、この苦しみに共感してもらえると思います。
-「もう全部 AI にやらせたい」。そう思って作ったのが、確定申告を自動化する Agent Skill「shinkoku」です。この記事では、作った動機、できること、セットアップ方法、テストによる品質保証について紹介します。
-https://github.com/kazukinagata/shinkoku... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kazukinagata/articles/83fe82191db01b</guid>
-      <pubDate>Sat, 21 Feb 2026 22:37:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>地方で技術カンファレンスをやりたい人へ〜Go Conference mini in Sendai 2026 を終えて伝えたいこと〜</title>
-      <link>https://zenn.dev/senoue/articles/71397b1f651518</link>
+      <title>Obsidianは便利なMarkdownエディタじゃない！見落としがちなコアプラグイン4選</title>
+      <link>https://zenn.dev/assign/articles/obsidian-core-plugins-4</link>
       <description>はじめに
-2026年2月、Go Conference mini in Sendai 2026 を無事に終えることができました。
-まずは、参加してくださった皆さん、登壇者、スポンサー、スタッフ、そして応援してくれたすべての方に感謝しています。
-この記事は、イベントの成功を誇るためのものではありません。
-地方で技術カンファレンスをやってみたいと思っている人に向けて、
-実際にやってみて分かったこと、感じたことを残しておきたいと思い、書いています。
+こんにちは、株式会社アサインでエンジニアをしているうちほり（@showichiro0123）です。
+先日、社内LT会で「Obsidianの機能も使いこなそう！」というテーマで発表しました。本記事はその内容をベースに、Zenn記事として再構成したものです。
+最近、Claude CodeやGemini CLIなどのAIツールと連携したナレッジドキュメンテーションツールとしてObsidianを使い始める人が増えていると感じています。ただ、実際のところ「便利なMarkdownエディタ」としてしか使えていない方も多いのではないでしょうか。
+実はObsidianには多数のコアプラグイン... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/assign/articles/obsidian-core-plugins-4</guid>
+      <pubDate>Tue, 24 Feb 2026 00:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIのテストコードは信用するな🙅‍♂️</title>
+      <link>https://zenn.dev/tko_kasai/articles/3f5863e3407891</link>
+      <description>※この記事は主観的な内容が多く詰まっているため、あくまで一つの意見として捉えてください。
 
- 地方で開催しようとすると、最初に感じる不安
-地方で技術カンファレンスをやろうとすると、だいたい次のような不安が出てきます。
+ はじめに
+私はソフトウェアエンジニアとして、普段はAI駆動開発の実験で0→1のプロダクト開発に従事しています。
+このタイトルはAIを責めているわけではありません。AIを使いこなせていない私自身への叱責です。
+AI駆動開発を実践する中で、テストコードに関して大きな落とし穴にハマりました。この記事では、その経験から得た教訓を共有します。
 
-運営を手伝って... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/senoue/articles/71397b1f651518</guid>
-      <pubDate>Mon, 23 Feb 2026 23:46:33 +0000</pubDate>
+ 対象読者
+
+AIにテストコードを書かせている人
+AI駆動開発でテストの品質に悩んでいる人
+バイブコーディングでテストスイートが肥大化してしまった人
+
+
+ 用語解... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tko_kasai/articles/3f5863e3407891</guid>
+      <pubDate>Mon, 23 Feb 2026 01:59:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude CodeのOSS版 OpenCodeの内部挙動を理解する</title>
+      <link>https://zenn.dev/epicai_techblog/articles/20b78066cac63f</link>
+      <description>はじめに
+EpicAIの佐藤です。
+現在、Claude CodeやCodexなどのコーディングAIエージェントが広く使われていますが、その仕組みについて詳細に解説した記事はほとんど存在しません。「LLMが様々なCLIツールを駆使してコーディングを行うAI Agentだ」という抽象的な理解は浸透しており、実際使ってみるとUIからもそれは推察できます。しかし、私は機械学習エンジニアとして、コーディングAIエージェントが内部でどのような状態遷移をし、LLMへの入力をどう取捨選択しているのかといった、AIエージェントの実装レベルの設計を詳しく知りたいと考えました。
+しかし残念ながら、Clau... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/epicai_techblog/articles/20b78066cac63f</guid>
+      <pubDate>Wed, 25 Feb 2026 09:43:30 +0000</pubDate>
     </item>
     <item>
       <title>わからなくてもいいからエラーに当たったら最低5分自分で考えるようにしよう、と開発にAIを取り入れてもうすぐ1年のタイミングで考えた</title>
