@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Feb 2026 07:05:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 07:01:14 +0000</lastBuildDate>
     <item>
-      <title>“暗黒銀河”の候補「CDG-2」は質量の99％がダークマター？　ハッブル宇宙望遠鏡のデータから発見</title>
-      <link>https://sorae.info/astronomy/20260224-dark-galaxy-candidate-cdg-2.html</link>
-      <description>突然ですが、「次の画像の中央には銀河が写っています」と言われた時、どれがそうなのかわかりますでしょうか？ とても小さく見える遠方銀河はいくつかありますが、今回の“主役”はそれとは別の、もう少し地球の近くにある銀河です。 … (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260224-dark-galaxy-candidate-cdg-2.html</guid>
-      <pubDate>Tue, 24 Feb 2026 12:12:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>健康問題でISSから早期帰還したマイク・フィンク宇宙飛行士がコメント発表–「非常に良好な状態」</title>
-      <link>https://uchubiz.com/article/new69136/</link>
-      <description>NASAは日本時間2月26日、国際宇宙ステーション（ISS）から1月15に早期帰還したクルードラゴン宇宙船運用11号機（Crew-11）ミッションの乗組員である、Mike Fincke氏によるコメントを初めて発表した。 […] (source: Uchubiz)</description>
-      <guid isPermaLink="true">https://uchubiz.com/article/new69136/</guid>
-      <pubDate>Thu, 26 Feb 2026 00:50:09 +0000</pubDate>
+      <title>ZIPAIR、乗客に衛星通信「スターリンク」を無料提供–アジアの航空会社で初めて</title>
+      <link>https://uchubiz.com/article/new69147/</link>
+      <description>ZIPAIR Tokyoは2月26日、アジアのエアラインで初めてSpaceXの衛星インターネットサービス「Starlink」を搭載したと発表した。従来の機内Wi-Fiと同じく、Starlinkも無料で提供する。乗客は自 […] (source: Uchubiz)</description>
+      <guid isPermaLink="true">https://uchubiz.com/article/new69147/</guid>
+      <pubDate>Fri, 27 Feb 2026 00:57:52 +0000</pubDate>
     </item>
     <item>
       <title>台湾の宇宙開発が新段階へ　初の宇宙スタートアップ向けアクセラレーター「TASA iSPARK」設立</title>
@@ -44,6 +37,13 @@
       <pubDate>Thu, 19 Feb 2026 23:00:34 +0000</pubDate>
     </item>
     <item>
+      <title>ESAの小型衛星が捉えた“黄金のリング”　2026年2月の金環日食を宇宙で観測</title>
+      <link>https://sorae.info/astronomy/20260227-annular-solar-eclipse.html</link>
+      <description>漆黒の宇宙に浮かび上がった燃えるような黄金のリング。ESA（ヨーロッパ宇宙機関）が2026年2月20日付で公開したこの画像は、同年2月17日に起きた金環日食の様子を捉えたものです。 極端紫外線で捉えた“火の輪” 日食とは… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260227-annular-solar-eclipse.html</guid>
+      <pubDate>Fri, 27 Feb 2026 01:29:30 +0000</pubDate>
+    </item>
+    <item>
       <title>英ロケット企業Orbexが資金ショートで事業閉鎖。初飛行延期が影響か【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/44933/</link>
       <description>英国のロケット企業Orbexが事業閉鎖に追い込まれています。ドイツのThe Exploration Companyへの事業売却を模索し、交渉に入っていましたが、最終的に合意には至りませんでした。 (source: 宙畑)</description>
@@ -58,11 +58,12 @@
       <pubDate>Thu, 19 Feb 2026 05:27:07 +0000</pubDate>
     </item>
     <item>
-      <title>月面の水分子はレゴリスの微小な空隙で作られる？　新たな生成メカニズムを提唱</title>
-      <link>https://sorae.info/astronomy/20260220-lunar-surface-h2o.html</link>
-      <description>乾燥した不毛の大地と考えられてきた月の表面に、実は「水」が存在していることは、近年の観測によって確実視されつつあります。 2020年にはNASA（アメリカ航空宇宙局）が、当時運用していた成層圏赤外線天文台「SOFIA（ソ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260220-lunar-surface-h2o.html</guid>
-      <pubDate>Fri, 20 Feb 2026 02:31:25 +0000</pubDate>
+      <title>世界有数のニッケル鉱山×衛星データ。CO2を地下に埋めて気候変動対策、SAR衛星がその監視役に【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/45070/</link>
+      <description>Canada Nickelが地中への炭素固定実証を実施、その経過を衛星データで検証しています。
+宇宙の技術が鉱山業界の脱炭素を後押しするモデルケースと期待されます。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45070/</guid>
+      <pubDate>Thu, 26 Feb 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>最優秀賞は「星の命名権（愛称）」！「星空フォトコンテスト 2025」を全国の星空好きとツナガリたい神津島発コミュニティが2月28日まで開催中</title>

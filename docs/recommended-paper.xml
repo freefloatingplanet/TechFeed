@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Feb 2026 07:05:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 07:01:16 +0000</lastBuildDate>
     <item>
-      <title>混合整数計画へのランダムキー最適化器の適用</title>
-      <link>https://arxiv.org/abs/2602.22173v1</link>
-      <description>混合整数計画（MIP）は、金融、物流、エネルギーシステム、ネットワーク設計など、幅広い意思決定アプリケーションで用いられるNP困難な最適化モデルです。現代の商用ソルバーは目覚ましい進歩を遂げ、多くの小規模および中規模のインスタンスで効果的に動作しますが、大規模または制約の厳しい定式化では性能が低下することがよくあります。本稿では、問題固有のデコーダーを設計することで、MIPに対する高品質な解を計算するための柔軟でメタヒューリスティックな代替手段として、ランダムキー最適化（RKO）フレームワークの適用について考察します。提案するアプローチは、連続ランダムキー空間で動作し、効率的なデコード手順によって候補解を実行可能な整数解にマッピングすることで、探索プロセスと実現可能性の検証を分離します。本手法は、バイイン制約とカーディナリティ制約を伴う平均分散マルコウィッツ・ポートフォリオ最適化問題と、時間依存巡回セールスマン問題という、代表的かつ構造的に異なる2つのベンチマーク問題で評価します。各定式化に対して、有効探索空間の縮小、実現可能性の向上、収束の加速を目的として、カスタマイズされたデコーダ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.22173v1</guid>
-      <pubDate>Wed, 25 Feb 2026 18:20:03 +0000</pubDate>
+      <title>デッドゾーン内縁における惑星形成 ― I：降着爆発と塵の成長の相互作用</title>
+      <link>https://arxiv.org/abs/2602.20283v1</link>
+      <description>原始惑星系円盤におけるデッドゾーンの内縁は周期的に不安定化し、デッドゾーン内に降着爆発と環状下部構造が形成されることが示されている。ダストの不透明度はこのプロセスにおいて重要な役割を果たしているものの、ダストの漂流と成長の熱的・力学的影響は十分に解明されていない。我々は、完全動的ダストモデルを用いて、内縁円盤における降着爆発の進化と、それがダストに富む下部構造の形成に与える影響を調査する。その過程で、この領域における惑星形成におけるダスト成長の重要性と限界を明らかにすることを目指す。デッドゾーンの内縁構造、粘性加熱および放射加熱、放射冷却、ダスト-ガスダイナミクス、そしてダストの進化に関する規定を含む、原始惑星系円盤の放射流体力学シミュレーションを実施する。内周円盤端における降着爆発は、複数のダストリングの形成につながり、これらのリングはデッドゾーンの奥深く（約1 au）まで広がり、粘性タイムスケール（α = 1e-4の場合、約10 kyr）で拡散する可能性があることがわかった。これらのリングには最大で地球質量の約1.6倍のダストリングが含まれており、惑星形成のきっかけとなる可能性があ (source: arXiv Query: search_query=all:observation AND (all:star OR all:stellar) AND (all:formation OR all:forming OR all:star-forming) AND (all:region OR all:regions OR all:cluster) AND ( (all:planetary AND all:mass) OR (all:brown AND all:dwarf) OR (all:free AND all:floating) )&amp;id_list=&amp;start=0&amp;max_results=20)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.20283v1</guid>
+      <pubDate>Mon, 23 Feb 2026 19:10:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
