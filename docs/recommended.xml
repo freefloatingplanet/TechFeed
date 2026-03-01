@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Feb 2026 06:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 06:53:33 +0000</lastBuildDate>
     <item>
-      <title>東北大、劣化率ゼロの「コバルトフリー」次世代リチウムイオン電池カソードを開発：軌道工学が解き明かしたマンガンの可能性 | XenoSpectrum</title>
-      <link>https://xenospectrum.com/tohoku-university-manganese-cathode-lithium-battery-breakthrough/</link>
-      <description>現代の脱炭素社会への移行において、リチウムイオン電池は疑いようのない主役である。太陽光や風力といった再生可能エネルギーを電力網に安定して供給するための巨大な蓄電システムから、排気ガスを一切出さずに長距離を走り抜ける電気自動車（EV）、さらには我々の手元にあるスマートフォンやウェアラブルデバイスに至... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://xenospectrum.com/tohoku-university-manganese-cathode-lithium-battery-breakthrough/</guid>
-      <pubDate>Fri, 27 Feb 2026 02:09:09 +0000</pubDate>
+      <title>Claude Code や Codex をオーケストレーションして自動でレビュー FB ループを回して洗い物をしてる話</title>
+      <link>https://zenn.dev/nrs/articles/db4120beb0e601</link>
+      <description>はじめに
+皆さんはもう AI コーディングツールを使っているでしょうか。Claude Code や GitHub Copilot、Cursor など、さまざまなツールが登場して、「AI がコードを書いてくれる時代」がやってきました。
+私も例に漏れず、その恩恵に預かろうと意気揚々と AI コーディングを始めました。これまでの生活はプログラミングと家事の二本柱。
+
+AI がコードを書いてくれるなら、プログラミングの時間が圧縮されて、自分の時間が増えるはず。溜まった洗い物や洗濯物を片付ける余裕が生まれるはず。そんな期待を胸に。
+
+ところが現実は違いました。
+AI がコードを書いている間、私... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nrs/articles/db4120beb0e601</guid>
+      <pubDate>Fri, 27 Feb 2026 09:56:25 +0000</pubDate>
     </item>
     <item>
       <title>Next.jsの書き方そのままで、ビルド4倍速・バンドル57%減。Vinextの仕組みを全部調べた</title>
@@ -53,13 +60,44 @@ git worktree は、ブランチを切り替えるのではなく、別ディレ�
       <pubDate>Fri, 27 Feb 2026 03:14:30 +0000</pubDate>
     </item>
     <item>
-      <title>静的解析からみるGoの過去と未来</title>
-      <link>https://zenn.dev/knowledgework/articles/1e176605a3c6e3</link>
+      <title>Gmailアカウントのセキュリティを今すぐ確認せよ、攻撃が進行中だ | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/92692</link>
+      <description>ハッキング攻撃は、AIの最新動向にも一部後押しされながら、急速なペースで進化し続けている。だが変わらないことが一つある。メールアカウントは依然として、攻撃者の照準のど真ん中にあるという点だ。推定でアクティブユーザーが20億人いるGmailがサイバー攻撃の主要標的になるのは驚くことではない。オンラインのサポ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://forbesjapan.com/articles/detail/92692</guid>
+      <pubDate>Sat, 28 Feb 2026 21:43:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>SwitchBot AI Hubレビュー。お前が誇るべきはAIだけじゃない、いろいろ詰め込んだ画期的な司令塔 - すまほん!!</title>
+      <link>https://smhn.info/202602-switchbot-ai-hub-review</link>
+      <description>SwitchBotより「SwitchBot AI Hub」を提供していただきましたのでレビューします。 この製品、「AI」と名乗るだけあって、日本のスマートホーム市場ではまず見かけない機能を備えているのはもちろん、これまでのSwitchBotでは替えの効かない機能をいくつも持っています。 ただ、正直に言うと一癖も二癖もある製品で、万... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://smhn.info/202602-switchbot-ai-hub-review</guid>
+      <pubDate>Sat, 28 Feb 2026 10:55:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>よくわからないで使っていたFastAPIの復習</title>
+      <link>https://zenn.dev/mima_ita/articles/26b59e6cfae3ab</link>
       <description>はじめに
-この記事は、2026年2月21日に開催されたGo Conference mini 2026 in SENDAIのキーノートで発表した内容をベースにしています。スライドはこちらで公開しています。
-Sendai.goは仙台を拠点としたGoのコミュニティで、2018年に立ち上げをサポートしました。今回のGo Conference mini 2026 in SENDAIはSendai.goのメンバーが中心となって運営したGo Conference miniで、参加者117名、セッション18本、LT12本、2トラック構成と、地方開催としてはかなり大きな規模でした。東京や関西からの参加... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/1e176605a3c6e3</guid>
-      <pubDate>Fri, 27 Feb 2026 03:00:03 +0000</pubDate>
+FastAPIは非常に使いやすいフレームワークで、BottleなどのPythonのWebフレームワークを触ったことがあれば、深く考えずに使えます。そのため、公式のドキュメントなどを読まなくても、それっぽく動くものは作ることができます。
+とはいえ、そういった基本を飛ばして書かれたものは検証段階では動作しても、いざ本番で動かそうとすると問題が出たりします。
+今回はよくわからないで使っていたFastAPIについて、復習して見落としていた内容についてまとめます。
+この文章で出てくるサンプルコードは以下の環境に依存しています。
+[project]
+name = "fastapi_sa... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mima_ita/articles/26b59e6cfae3ab</guid>
+      <pubDate>Fri, 27 Feb 2026 11:23:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>より強いテスト入力生成のためのConcolic実行</title>
+      <link>https://zenn.dev/termoshtt/articles/concolic-execution</link>
+      <description>最近Property-Based Testing (PBT) が普及しており、私も業務で proptest を使っています。PBTの利点は広く解説されているので割愛しますが、個人的には次の問題があると感じています。
+
+Propertyを考えれるケースが限られる
+テストケースの生成能力が低い
+
+特に私が主に扱うソフトウェアである数値計算ライブラリにおいては、前者は数学的なドメイン知識からある程度は補助できるものの、後者が大きな問題となっています。
+今回は後者に関して、Concolic Execution (Concrete + Symbolic Execution) という技術を紹介したい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/termoshtt/articles/concolic-execution</guid>
+      <pubDate>Sat, 28 Feb 2026 08:51:03 +0000</pubDate>
     </item>
     <item>
       <title>仕事でObsidianをどのように使っているか</title>
@@ -71,54 +109,6 @@ Sendai.goは仙台を拠点としたGoのコミュニティで、2018年に立�
 もう気づけばアラフォーなのでワーキングメモリが日に日に小さくなっている感覚があります。思いついたアイデアや「後でやろう」と思っていたことはすぐに揮発してしまいます。MTGで話した内容も翌日には半分くらい曖昧になっており非常に悲しいで... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/gatechnologies/articles/8f73b2d6e4f136</guid>
       <pubDate>Thu, 26 Feb 2026 13:16:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIが書いたコードで本番障害が起きたら、誰が責任を取るのか？ から考える、これからの人間の立ち位置について</title>
-      <link>https://zenn.dev/lv/articles/eba45d64f3f66a</link>
-      <description>背景
-2026年2月の1ヶ月間、社内でClaude Codeの勉強会を毎週やりました。
-自分が言い出しっぺで、企画から運営まで回しています。
-勉強会の資料は、私が書いた以下の本を使いました。
-https://zenn.dev/lv/books/f611cdfe8a6e1a
-ユニーク参加者は60名弱。
-開発者からエンジニアリングマネージャー層まで、幅広いメンバーが集まってくれました。
-毎週の活用事例をログとして集めていて、百数十超のデータが手元に残っています。
-記録を残してくれた方の体感値として、平均で6割の時間短縮が認められています。
-数字だけ見れば、速くなったと言えると思います。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lv/articles/eba45d64f3f66a</guid>
-      <pubDate>Thu, 26 Feb 2026 10:37:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Codeを"優秀な新卒部下"として使い倒す：個人開発爆速化の全ワークフロー</title>
-      <link>https://zenn.dev/yoshiaki0217/articles/9dd7a3666d475f</link>
-      <description>はじめに
-AIで開発は本当に速くなったのか？
-「AIを使えば開発が速くなる」
-このフレーズ自体は、もう聞き飽きるほど目にしてきました。
-実際、コード補完は賢いし、ちょっとした関数やエラー修正なら一瞬で解決することもあります。
-でも本当に“開発全体”は速くなりましたか？
-
-コードを貼り付けて修正してもらう。
-生成されたコードをコピペする。
-動かない。
-足りなかった前提を説明し直す。
-
-気づけば、コンテキストの説明に時間を使い、差分の確認に神経を使い、結局自分で修正する。
-そんな経験ないでしょうか？
-AIは優秀ですが、「ワークフローに組み込まれていないAI」は、強力な検索エンジンとあまり... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yoshiaki0217/articles/9dd7a3666d475f</guid>
-      <pubDate>Tue, 24 Feb 2026 04:29:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude CodeのOSS版 OpenCodeの内部挙動を理解する</title>
-      <link>https://zenn.dev/epicai_techblog/articles/20b78066cac63f</link>
-      <description>はじめに
-EpicAIの佐藤です。
-現在、Claude CodeやCodexなどのコーディングAIエージェントが広く使われていますが、その仕組みについて詳細に解説した記事はほとんど存在しません。「LLMが様々なCLIツールを駆使してコーディングを行うAI Agentだ」という抽象的な理解は浸透しており、実際使ってみるとUIからもそれは推察できます。しかし、私は機械学習エンジニアとして、コーディングAIエージェントが内部でどのような状態遷移をし、LLMへの入力をどう取捨選択しているのかといった、AIエージェントの実装レベルの設計を詳しく知りたいと考えました。
-しかし残念ながら、Clau... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/epicai_techblog/articles/20b78066cac63f</guid>
-      <pubDate>Wed, 25 Feb 2026 09:43:30 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「CSSだけでx86 CPUを作ってみた」という狂気のプロジェクトが話題に — CSSの最新仕様を駆使、（当然）JSも不要</title>

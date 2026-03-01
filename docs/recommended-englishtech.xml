@@ -7,27 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Feb 2026 06:45:42 +0000</lastBuildDate>
-    <item>
-      <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
-      <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Mar 2026 06:53:45 +0000</lastBuildDate>
     <item>
       <title>CISAは、職務の失敗が続いた1年後に代理長官を交代させた。</title>
       <link>https://techcrunch.com/2026/02/27/cisa-replaces-acting-director-gottumukkala-after-a-bumbling-year-on-the-job/</link>
-      <description>米国のサイバーセキュリティ機関のマドゥ・ゴットムッカラ代理長官は、1年間にわたる人員削減、解雇、配置転換、セキュリティ上の不備の疑惑、同長官が機関の指揮に苦労したとの主張を経て、交代することになる。 (source: TechCrunch)</description>
+      <description>米国のサイバーセキュリティ機関のマドゥ・ゴットムッカラ代理長官は、1年間にわたる人員削減、解雇、配置転換、セキュリティ上の不備の疑惑、同長官が機関の指揮に苦労したとの主張を経て、交代することになった。 (source: TechCrunch)</description>
       <guid isPermaLink="true">https://techcrunch.com/2026/02/27/cisa-replaces-acting-director-gottumukkala-after-a-bumbling-year-on-the-job/</guid>
       <pubDate>Fri, 27 Feb 2026 15:57:02 +0000</pubDate>
     </item>
     <item>
-      <title>Appleの研究者がUIの視覚化と制御のためのデバイス内AIモデル「Ferret-UI Lite」を発表</title>
-      <link>https://www.infoq.com/news/2026/02/apple-ferret-ui-lite-on-device/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AppleのFerret-UI Liteは、モバイルとデスクトップの画面に最適化され、画面イメージの解釈、アイコンやテキストなどのUI要素の理解、メッセージの読み取り、健康データの確認など、アプリとのインタラクションを可能にする3Bパラメータモデルです。Sergio De Simone著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/apple-ferret-ui-lite-on-device/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 24 Feb 2026 19:00:00 +0000</pubDate>
+      <title>MySQL 9.6 外部キー制約とカスケード処理の変更</title>
+      <link>https://www.infoq.com/news/2026/02/mysql-foreign-keys/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>MySQLは、外部キー制約とカスケードの管理方法を変更します。MySQL 9.6以降では、外部キーの検証とカスケード操作は、InnoDBストレージエンジンではなくSQLレイヤーで処理されます。これにより、変更追跡、レプリケーションの精度、データの一貫性が向上し、CDCパイプライン、混合データベース環境、分析ワークロードにおけるMySQLの信頼性が向上します。Renato Losio著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/mysql-foreign-keys/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 28 Feb 2026 08:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
+      <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新興のAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
@@ -39,16 +39,9 @@
     <item>
       <title>PinterestのCDCを活用したデータ取り込みにより、データベースのレイテンシが24時間から15分に短縮</title>
       <link>https://www.infoq.com/news/2026/02/pinterest-cdc-db-ingestion/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Pinterestは、Kafka、Flink、Spark、Icebergを活用した次世代CDCベースのデータベース取り込みフレームワークを発表しました。このシステムは、データ可用性のレイテンシを24時間以上から15分に短縮し、変更されたレコードのみを処理し、増分更新と削除をサポートし、数千のパイプラインにわたってペタバイト規模のデータに拡張することで、コストと効率を最適化します。リーラ・クミリ著 (source: InfoQ)</description>
+      <description>Pinterestは、Kafka、Flink、Spark、Icebergを活用した次世代CDCベースのデータベース取り込みフレームワークを発表しました。このシステムは、データ可用性のレイテンシを24時間以上から15分に短縮し、変更されたレコードのみを処理し、増分更新と削除をサポートし、数千のパイプラインにわたってペタバイト規模のデータまで拡張できるため、コストと効率を最適化します。リーラ・クミリ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/02/pinterest-cdc-db-ingestion/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 26 Feb 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TechCrunch Disrupt 2026のチケットを年間最安値で入手できるのは残り24時間です</title>
-      <link>https://techcrunch.com/2026/02/27/last-24-hours-to-get-techcrunch-disrupt-2026-tickets-at-the-lowest-rates-of-the-year/</link>
-      <description>TechCrunch Disrupt 2026の年間最低料金は本日をもって終了します。料金は太平洋標準時午後11時59分に値上がりします。1万人の創業者、投資家、経営者との交流、そして250名以上の業界リーダーによる重要なポイントの解説をお見逃しなく。今すぐ登録して、最大680ドル、またはグループパスで最大30%割引をお楽しみください。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/02/27/last-24-hours-to-get-techcrunch-disrupt-2026-tickets-at-the-lowest-rates-of-the-year/</guid>
-      <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cilium 10周年：より強力な暗号化、より安全なポリシー、大規模クラスターのより明確な可視性</title>
@@ -70,6 +63,13 @@
       <description>MCPナイト、ホリデースペシャルは歴史的な瞬間を刻みました。AnthropicがMCPをLinux Foundationに寄贈し、Agentic AI Foundationが設立されました。Cloudflare、Supabase、Datadog、Microsoft、Googleによるデモも行われました。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</guid>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>アントロピックが自らに仕掛けた罠</title>
+      <link>https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/</link>
+      <description>アントロピック、OpenAI、Google DeepMindといった企業は、長年にわたり責任ある自己統治を約束してきました。しかし、ルールが存在しない現状では、彼らを守るものはほとんどありません。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/</guid>
+      <pubDate>Sun, 01 Mar 2026 00:08:58 +0000</pubDate>
     </item>
     <item>
       <title>プレゼンテーション: 開発者エクスペリエンスチームの最適な効率性を実現する</title>
