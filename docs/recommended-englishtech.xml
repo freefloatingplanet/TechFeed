@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Mar 2026 06:53:45 +0000</lastBuildDate>
-    <item>
-      <title>CISAは、職務の失敗が続いた1年後に代理長官を交代させた。</title>
-      <link>https://techcrunch.com/2026/02/27/cisa-replaces-acting-director-gottumukkala-after-a-bumbling-year-on-the-job/</link>
-      <description>米国のサイバーセキュリティ機関のマドゥ・ゴットムッカラ代理長官は、1年間にわたる人員削減、解雇、配置転換、セキュリティ上の不備の疑惑、同長官が機関の指揮に苦労したとの主張を経て、交代することになった。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/02/27/cisa-replaces-acting-director-gottumukkala-after-a-bumbling-year-on-the-job/</guid>
-      <pubDate>Fri, 27 Feb 2026 15:57:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 07:04:51 +0000</lastBuildDate>
     <item>
       <title>MySQL 9.6 外部キー制約とカスケード処理の変更</title>
       <link>https://www.infoq.com/news/2026/02/mysql-foreign-keys/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -23,9 +16,16 @@
       <pubDate>Sat, 28 Feb 2026 08:34:00 +0000</pubDate>
     </item>
     <item>
+      <title>Honorは、動くカメラを搭載した「ロボットフォン」が音楽に合わせて踊れると発表</title>
+      <link>https://techcrunch.com/2026/03/01/honor-says-its-robot-phone-with-moving-camera-can-dance-to-music/</link>
+      <description>Honorは今年初め、可動式カメラアームを搭載した「ロボットフォン」を初めて発表しました。バルセロナで開催されたモバイル・ワールド・コングレス（MWC）に先立ち、同社はこのデバイスの詳細を公開しました。ロボットが指示なしに様々な状況に対応する様子も含まれています。同社はこのデバイスを[…]で発売する予定だと発表しました。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/01/honor-says-its-robot-phone-with-moving-camera-can-dance-to-music/</guid>
+      <pubDate>Sun, 01 Mar 2026 15:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新興のAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
@@ -39,9 +39,16 @@
     <item>
       <title>PinterestのCDCを活用したデータ取り込みにより、データベースのレイテンシが24時間から15分に短縮</title>
       <link>https://www.infoq.com/news/2026/02/pinterest-cdc-db-ingestion/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Pinterestは、Kafka、Flink、Spark、Icebergを活用した次世代CDCベースのデータベース取り込みフレームワークを発表しました。このシステムは、データ可用性のレイテンシを24時間以上から15分に短縮し、変更されたレコードのみを処理し、増分更新と削除をサポートし、数千のパイプラインにわたってペタバイト規模のデータまで拡張できるため、コストと効率を最適化します。リーラ・クミリ著 (source: InfoQ)</description>
+      <description>Pinterestは、Kafka、Flink、Spark、Icebergを活用した次世代CDCベースのデータベース取り込みフレームワークを発表しました。このシステムは、データ可用性のレイテンシを24時間以上から15分に短縮し、変更されたレコードのみを処理し、増分更新と削除をサポートし、数千のパイプラインにわたってペタバイト規模のデータに拡張することで、コストと効率を最適化します。リーラ・クミリ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/02/pinterest-cdc-db-ingestion/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 26 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Javaニュースまとめ: Lazy定数、TornadoVM 3.0、NetBeans 29、Quarkus、JReleaser、Open Liberty</title>
+      <link>https://www.infoq.com/news/2026/03/java-news-roundup-feb23-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>今週の2026年2月23日版Javaラウンドアップでは、注目のニュースをお届けします。新しいJEP 531候補であるLazy Constants、TornadoVM 3.0とNetBeans 29のGAリリース、Quarkus、JReleaser、Chicory、RefactorFirstのポイントリリース、MicronautとJoxのメンテナンスリリース、そしてOpen Libertyの2026年2月版です。マイケル・レッドリッヒ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/java-news-roundup-feb23-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 02 Mar 2026 03:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cilium 10周年：より強力な暗号化、より安全なポリシー、大規模クラスターのより明確な可視性</title>
@@ -51,7 +58,7 @@
       <pubDate>Wed, 25 Feb 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション: コードとしてのアーキテクチャによる安全な API 接続のためのプラットフォーム</title>
+      <title>プレゼンテーション: Architecture as Code による安全な API 接続のためのプラットフォーム</title>
       <link>https://www.infoq.com/presentations/secure-connectivity-api/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>ジム・ゴフは、偶然のアーキテクトからAPIプログラムリーダーへの転身について語り、セキュアなAPI接続の複雑さを管理する方法を説明します。開発者とセキュリティ担当者のギャップを埋めるために設計されたフレームワーク、共通アーキテクチャ言語モデル（CALM）を紹介します。アーキテクチャパターンを活用することで、エンジニアリングリーダーは6ヶ月かかるレビューサイクルを2時間で完了する自動デプロイメントへと移行できます。ジム・ゴフ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/secure-connectivity-api/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
@@ -70,13 +77,6 @@
       <description>アントロピック、OpenAI、Google DeepMindといった企業は、長年にわたり責任ある自己統治を約束してきました。しかし、ルールが存在しない現状では、彼らを守るものはほとんどありません。 (source: TechCrunch)</description>
       <guid isPermaLink="true">https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/</guid>
       <pubDate>Sun, 01 Mar 2026 00:08:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>プレゼンテーション: 開発者エクスペリエンスチームの最適な効率性を実現する</title>
-      <link>https://www.infoq.com/presentations/optimal-efficiency-devex/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ファビアン・デシャイ氏が、MonzoのDeveloper Velocityチームの戦略について解説します。「Platform as a Product（製品としてのプラットフォーム）」という考え方を解説し、製品開発に関する洞察力と経験を持つエンジニアの必要性を強調します。時間、費用、認知負荷の観点からDevExの効果を測定するための実用的なフレームワークを紹介し、規制の厳しい環境において、集中力のある小規模チームがいかに大きな成果を上げられるかを実証します。ファビアン・デシャイ氏 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/optimal-efficiency-devex/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 25 Feb 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Mar 2026 06:53:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 07:04:46 +0000</lastBuildDate>
     <item>
-      <title>デッドゾーン内縁における惑星形成 ― I：降着爆発と塵の成長の相互作用</title>
-      <link>https://arxiv.org/abs/2602.20283v1</link>
-      <description>原始惑星系円盤におけるデッドゾーンの内縁は周期的に不安定化し、デッドゾーン内に降着爆発と環状下部構造が形成されることが示されている。ダストの不透明度はこのプロセスにおいて重要な役割を果たしているものの、ダストの漂流と成長の熱的・力学的影響は十分に解明されていない。我々は、完全動的ダストモデルを用いて、内縁円盤における降着爆発の進化と、それがダストに富む下部構造の形成に与える影響を調査する。その過程で、この領域における惑星形成におけるダスト成長の重要性と限界を明らかにすることを目指す。デッドゾーンの内縁構造、粘性加熱および放射加熱、放射冷却、ダスト-ガスダイナミクス、そしてダストの進化に関する規定を含む、原始惑星系円盤の放射流体力学シミュレーションを実施する。内周円盤端における降着爆発は、複数のダストリングの形成につながり、これらのリングはデッドゾーンの奥深く（約1 au）まで広がり、粘性タイムスケール（α = 1e-4の場合、約10 kyr）で拡散する可能性があることがわかった。これらのリングには最大で地球質量の約1.6倍のダストリングが含まれており、惑星形成のきっかけとなる可能性があ (source: arXiv Query: search_query=all:observation AND (all:star OR all:stellar) AND (all:formation OR all:forming OR all:star-forming) AND (all:region OR all:regions OR all:cluster) AND ( (all:planetary AND all:mass) OR (all:brown AND all:dwarf) OR (all:free AND all:floating) )&amp;id_list=&amp;start=0&amp;max_results=20)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.20283v1</guid>
-      <pubDate>Mon, 23 Feb 2026 19:10:42 +0000</pubDate>
+      <title>線強度マッピングによる宇宙正午の重粒子サイクルへの新たな窓：[CII]-158$μ$m、HI 21 cm、CO$_{J+1\rightarrow J}$、H$α$銀河の自己相関と相互相関の予測</title>
+      <link>https://arxiv.org/abs/2602.24120v1</link>
+      <description>宇宙の星形成のピークである$z\sim1-2$を挟んで、流入、処理、そしてフィードバックが銀河とその周囲のリザーバーにおける重粒子の空間分布と化学組成の急速な変化を引き起こす。この重粒子サイクルは、原子状水素、電離炭素、一酸化炭素の線強度マッピング（LIM）によってトモグラフィー的にマッピングすることができる。
+我々は、TIM、EoRSpec/FYST、MeerKAT、Euclidという、同じ深宇宙をマッピングする4つのトレーサー（$z\sim0.5-1.7$）の分光サーベイ間の自己パワースペクトルとクロスパワースペクトルを検出するための、シミュレーションに基づく予測フレームワークを提示する。これらのトレーサーの3次元分布を電磁流体力学シミュレーションから順方向モデル化し、解析的分解に頼ることなく、2ハロー、1ハロー、ショットの統計量を直接捕捉する。さらに、高度に異方的な形状とフーリエ空間カバレッジを持つLIMサーベイに適した信号対雑音比の形式論を詳述する。
+現世代のサーベイにおいて、銀河相互相関が主要な発見経路となることを実証する。これらの観測装置は、COとHI 21 cmの自己スペ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.24120v1</guid>
+      <pubDate>Fri, 27 Feb 2026 15:57:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
