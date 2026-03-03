@@ -7,15 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 02 Mar 2026 07:04:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 06:58:46 +0000</lastBuildDate>
     <item>
-      <title>線強度マッピングによる宇宙正午の重粒子サイクルへの新たな窓：[CII]-158$μ$m、HI 21 cm、CO$_{J+1\rightarrow J}$、H$α$銀河の自己相関と相互相関の予測</title>
-      <link>https://arxiv.org/abs/2602.24120v1</link>
-      <description>宇宙の星形成のピークである$z\sim1-2$を挟んで、流入、処理、そしてフィードバックが銀河とその周囲のリザーバーにおける重粒子の空間分布と化学組成の急速な変化を引き起こす。この重粒子サイクルは、原子状水素、電離炭素、一酸化炭素の線強度マッピング（LIM）によってトモグラフィー的にマッピングすることができる。
-我々は、TIM、EoRSpec/FYST、MeerKAT、Euclidという、同じ深宇宙をマッピングする4つのトレーサー（$z\sim0.5-1.7$）の分光サーベイ間の自己パワースペクトルとクロスパワースペクトルを検出するための、シミュレーションに基づく予測フレームワークを提示する。これらのトレーサーの3次元分布を電磁流体力学シミュレーションから順方向モデル化し、解析的分解に頼ることなく、2ハロー、1ハロー、ショットの統計量を直接捕捉する。さらに、高度に異方的な形状とフーリエ空間カバレッジを持つLIMサーベイに適した信号対雑音比の形式論を詳述する。
-現世代のサーベイにおいて、銀河相互相関が主要な発見経路となることを実証する。これらの観測装置は、COとHI 21 cmの自己スペ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.24120v1</guid>
-      <pubDate>Fri, 27 Feb 2026 15:57:21 +0000</pubDate>
+      <title>KL正規化多腕バンディットに対する近似最適リグレット</title>
+      <link>https://arxiv.org/abs/2603.02155v1</link>
+      <description>最近の研究では、KL 正則化目的関数を用いた強化学習は、正則化されていない設定での古典的な $\sqrt{T}$ 型のリグレッションとは対照的に、収束速度が速くなったり、対数リグレッションが起こったりすることが示されています。しかし、KL 正則化目的関数に関するオンライン学習の統計的効率は、多腕バンディット (MAB) に特化しても、まだ完全には解明されていません。本研究では、MAB におけるこの問題に対処するため、新しい剥離論法を用いて KL-UCB を鋭く解析します。この解析により、$\tilde{O}(ηK\log^2T)$ の上限が得られます。これは、$K$ に線形依存する最初の高確率リグレッション境界です。ここで、$T$ は時間範囲、$K$ はアームの数、$η^{-1}$ は正則化の強度、$\tilde{O}$ は $\log T$ に関係するものを除くすべての対数因子を隠します。我々の解析のほぼタイトな性質は、最初の非定数下限値$Ω(ηK \log T)$によって証明される。これは、微妙なハードインスタンス構成とベイズ事前分布の調整された分解から導かれる。さらに、低正則化領 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.02155v1</guid>
+      <pubDate>Mon, 02 Mar 2026 18:17:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

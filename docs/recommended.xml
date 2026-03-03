@@ -7,27 +7,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Mar 2026 07:04:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 06:58:31 +0000</lastBuildDate>
     <item>
-      <title>米軍のイラン攻撃に「Claude」が使われたことが判明　トランプ大統領による「使用停止命令」後</title>
-      <link>https://www.itmedia.co.jp/news/articles/2603/02/news064.html</link>
-      <description>米国は2月28日（現地時間）に開始したイラン攻撃で米AnthropicのAI「Claude」を使ったと、米Axiosが3月1日、米国防総省（Department of War、以下「DoW」）の作戦に詳しい筋の話として報じた。Anthropicは2024年6月からAIサービスをDoWに提供している。 Anthropicが26日にDoWが求めるAIのセーフガード撤廃要求を拒否する... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2603/02/news064.html</guid>
-      <pubDate>Sun, 01 Mar 2026 23:31:10 +0000</pubDate>
+      <title>運転動画を検索可能にする 〜Cosmos-Embed1とDatabricksで〜</title>
+      <link>https://zenn.dev/turing_motors/articles/cf86e1bf0e41ca</link>
+      <description>はじめに
+チューリング株式会社 MLOpsチーム の @stu3dio_graph です。
+チューリングでは毎日データ収集車両を走らせ，数万時間を超える大量の運転動画データを収集しています。しかしデータが増えるほど 「ほしいシーンが見つからない」問題が深刻化 していきました。日時や車両 ID でフィルタリングすることはできても，「交差点で歩行者が横断しているシーン」「道路工事を避けて車線変更するシーン」のように，映像の中身に基づいてシーンを探す手段がなかったのです。
+
+ 運転動画を探すためのシステム
+このたび，NVIDIA が公開した映像-テキスト埋め込みモデル Cosmos-Emb... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/cf86e1bf0e41ca</guid>
+      <pubDate>Mon, 02 Mar 2026 06:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>東京大学の入試数学とJulia言語</title>
-      <link>https://zenn.dev/dannchu/books/u-tokyo-2026-julia</link>
-      <description>2026年の東京大学理科（理系）の数学の問題をJulia言語を用いて考えたり，解いてみました。数学の入試問題と言うのは，当然頭の中で考えて計算で解く必要があります。コンピューターを使って解くわけにはいきません。ですが，こういったツールを用いて考えたときにどのように考えるのか，また答えについてもどのように確認するのかというのは，自分の知見を与えてくれます。難しかった2026年度の問題を題材に，Julia言語を使うとどのように考えられるか，また確認できるかをまとめました。 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dannchu/books/u-tokyo-2026-julia</guid>
-      <pubDate>Sun, 01 Mar 2026 04:39:05 +0000</pubDate>
+      <title>NotebookLMの神アプデを試さずにいられなかった</title>
+      <link>https://qiita.com/apteryx-nz/items/3a12c5f1258db8d81a78?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+すでに「NotebookLMがアップデートでPowerPoint形式の出力に対応した」という記事は数多く出ています。
+それでも、個人的に待ち望んだアップデートだったため、あえて投稿します。
+公式Xでは、アップデートのお知らせと共に、有料ユーザへのリリース後、無料... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/apteryx-nz/items/3a12c5f1258db8d81a78?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sun, 01 Mar 2026 10:44:47 +0000</pubDate>
     </item>
     <item>
-      <title>衝撃！NotebookLMの「隠し機能」を解放する自動化ツール｜tyo</title>
-      <link>https://note.com/humble_dog9839/n/n896e285ad324</link>
-      <description>Google NotebookLMは、複雑な資料を読み解き、対話を通じて知見を深めるための強力なツールとして、瞬く間に多くのユーザーを魅了しました 。 しかし、日常的に使い込むほどに、エンジニアやパワーユーザーの間ではある種の欲求不満が募るようになります 。 「生成されたコンテンツをまとめてダウンロードしたい」 「特... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/humble_dog9839/n/n896e285ad324</guid>
-      <pubDate>Sat, 28 Feb 2026 13:25:36 +0000</pubDate>
+      <title>気になってた飲食店に入ったらQRコードを読んで注文するシステムだったが、LINEの友だち登録までさせられそうになったので嫌になって退店した「回避方法はあるけどもやもやする」</title>
+      <link>https://togetter.com/li/2670289</link>
+      <description>前から気になっていた店に入ると「QRで注文」と案内され、読み取るとLINEの友達登録が必須で注文できない仕組みだった。店員に断って退店した。口頭対応を頼めば受けてくれたかもしれないが「面倒な客」と思われるのは嫌だし、宣伝がLINEで届くのも煩わしい。LINE未利用者もいるし、客を逃すやり方で逆効果だと感じる。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2670289</guid>
+      <pubDate>Mon, 02 Mar 2026 21:22:32 +0000</pubDate>
     </item>
     <item>
       <title>壊れにくいUIテストの設計を考える（Playwright + Storybook + React + GitHub Actions）</title>
@@ -46,41 +54,33 @@ Vite + React + TypeScript の小さな検証リポジトリを作りました。
       <pubDate>Sun, 01 Mar 2026 04:51:21 +0000</pubDate>
     </item>
     <item>
-      <title>うちの母上、そのへんの安チクワにきゅうりを詰める技術が異常→きゅうりを切らず、チクワも破れない方法が伝授される「本質情報だ」</title>
-      <link>https://togetter.com/li/2670045</link>
-      <description>母が教えてくれたちくわにきゅうりを詰める裏ワザ。ちくわを茹でるか電子レンジで温めて伸ばし、熱いうちにきゅうりを差し込むと、きゅうりを切らずに丸ごと入る。加熱は短時間でOK。裂けずにきれいに詰められるので弁当や酒の肴に便利。試すと驚く効果あり。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2670045</guid>
-      <pubDate>Mon, 02 Mar 2026 03:50:29 +0000</pubDate>
+      <title>高市総理、「SANAE TOKEN」について注意喚起　「私は全く存じ上げません」</title>
+      <link>https://www.itmedia.co.jp/news/articles/2603/02/news126.html</link>
+      <description>高市早苗総理大臣は3月2日、「SANAE TOKEN」と呼ばれる仮想通貨について「名前のせいか、色々な誤解がある」として注意喚起を行った。高市総理自身とは全く関係がないという。 高市総理はXに「SANAE TOKENという仮想通貨が発行され、一定の取引が行われていると伺いました。名前のせいか、色々な誤解があるようですが、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2603/02/news126.html</guid>
+      <pubDate>Mon, 02 Mar 2026 13:57:24 +0000</pubDate>
     </item>
     <item>
-      <title>AIに1円稼いでと言ったら何が起きたか</title>
-      <link>https://zenn.dev/agent_workshop/articles/note-n74300b556a8d</link>
-      <description>はじめに: 「1円」への執念が生んだ進化
-AIエージェント5体のチームに「自走して1円稼いで（M1目標）」と指示してから約1週間。
-当初の戦略だった「note記事販売」は、PVこそ増えるものの、購入（CVR）に至らない日々が続いていました。72時間売上ゼロなら訴求を変える——そんな厳しいルール（大反省会の教訓）の中、AIチームが導き出した答えは、コンテンツ販売だけではありませんでした。
-「AI自らが市場で立ち回り、資産を運用して1円を稼ぎ出す」
-2026年2月23日、私たちはこの「実弾トレード」という新しい武器を手に、M1達成に向けた最終フェーズに突入しました。
-
-
- Phase 1... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/agent_workshop/articles/note-n74300b556a8d</guid>
-      <pubDate>Sat, 28 Feb 2026 09:43:14 +0000</pubDate>
+      <title>PRを送るだけでリポジトリを「乗っ取れる」？GitHub Actionsの危ない書き方を実際に検証してみた (hackerbot-claw)</title>
+      <link>https://zenn.dev/aeyesec/articles/417578718dcced</link>
+      <description>こんにちは！エーアイセキュリティラボのはるぷです。
+2026年2月下旬、オープンソース界隈を揺るがす自動攻撃キャンペーンが実施されました。ターゲットとなったのは、誰もが名前を知るような大手企業のプロジェクトを含む主要なリポジトリ群。攻撃の主導者は 「hackerbot-claw」 と呼ばれる、AI（Claude-Opus-4.5）を搭載した自律型セキュリティ調査エージェントです。
+このボットはわずか1週間で、7つのターゲットのうち少なくとも4つでリモートコード実行（RCE）に成功し、書き込み権限を持つGitHubトークンを外部へ流出させました。
+このStepSecurityの解析レポート... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aeyesec/articles/417578718dcced</guid>
+      <pubDate>Tue, 03 Mar 2026 00:37:27 +0000</pubDate>
     </item>
     <item>
-      <title>読みにくいExcelやCSVはなぜ日本で定着したのか</title>
-      <link>https://zenn.dev/tonbi_attack/articles/7307ce93b6c5d3</link>
-      <description>はじめに
-この記事では、現場でよく見る「読みにくいExcelやCSVの表」がなぜ広く定着したのかを、業務慣行、組織文化、評価軸の観点から整理します。
-最初に、論点を次の2層に分けて扱います。
-
-技術的・構造的な層: 読みにくいCSVは、どこがデータ構造として壊れているのか
-文化的・運用的な層: なぜExcel中心の運用が続き、壊れた構造が再生産されるのか
-
-CSVは本来データ交換形式であり、人間が直接読む前提の形式ではありません。
-問題はCSVそのものより、CSVを人間に読ませる運用と、帳票都合をデータ構造に持ち込む運用です。
-あわせて、列を圧縮して見栄えを優先してしまう理由と、そこ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tonbi_attack/articles/7307ce93b6c5d3</guid>
-      <pubDate>Fri, 27 Feb 2026 15:15:30 +0000</pubDate>
+      <title>非エンジニアの vibe-coding に「理解」を足す Claude Code プラグインを作った</title>
+      <link>https://zenn.dev/ramenumaiwhy/articles/178406388fced6</link>
+      <description>vibe-codingを"vibe"なままにしないために
+自分はエンジニアではない。でも Claude Code を使って自分でプロダクトを作っている。
+いわゆる vibe-coding だ。AIに指示を出して、コードを書かせて、動くものを作る。便利な時代になった。
+でも一つ、ずっと引っかかっていることがある。
+「自分が今なにを作っているのか」を、自分自身がちゃんと理解できていない瞬間がある。
+AIが出してくる plan（設計計画）を見ても、専門用語だらけで「まあ、いい感じにやってくれてるんだろう」で流してしまう。これが積み重なると、自分のプロダクトなのに中身がブラックボックスになる... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ramenumaiwhy/articles/178406388fced6</guid>
+      <pubDate>Sun, 01 Mar 2026 08:05:23 +0000</pubDate>
     </item>
     <item>
       <title>冪等（べきとう）性という名の技術的負債 ── AIコーディングで陥った「エラー隠蔽」の罠</title>
@@ -97,18 +97,20 @@ APIでいえば、同じリクエストを2回送っても1回送ったときと
       <pubDate>Sat, 28 Feb 2026 06:00:40 +0000</pubDate>
     </item>
     <item>
-      <title>「全エンジニアが Claude Code を 100% 活用する」を目指してダッシュボードを作った</title>
-      <link>https://zenn.dev/dinii/articles/28c8fcd041837d</link>
+      <title>あなたはEntra IDを理解できる</title>
+      <link>https://zenn.dev/headwaters/articles/64e6aad7acdff9</link>
       <description>はじめに
-「全エンジニアが Claude Code を 100% 活用する」
-これは、ダイニーの今期の目標のひとつです。
-正直、最初に思ったのは「何をもって 100% なんだ？」です。
-手がかりを探るために、まずチーム全員にアンケートを取りました。
-結果はバラバラで、「かなり活用できている」という人もいれば、「スキルやサブエージェントはほとんど使えていない」という人もいます。
-中でも多かったのが、「他の人がどう活用しているのか分からない」という声でした。
-実際、有志がスキルやサブエージェントを作っても、その存在自体を知らないメンバーがいます。知っていても中身が分からないから使えない... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dinii/articles/28c8fcd041837d</guid>
-      <pubDate>Fri, 27 Feb 2026 05:57:01 +0000</pubDate>
+ヘッドウォータースに入社し、ほとんど初めてクラウドという概念に本格的に触れました。
+業務のなかでAzureのキャッチアップを進める中で、理解が難しい概念がありました。
+それがEntra IDです。
+今回は自分なりに理解したその概念を、具体的な使い方のイメージを多めにして初心者エンジニアの方でも理解できるような記事にしてみました。
+
+ 認証の「抽象化」とクラウドの全体像
+クラウドやAzureを学ぶ際、最大の壁となるのが「Microsoft Entra ID（旧Azure AD）」です。
+「クラウドベースのID管理サービス」という言葉だけでは、実態は掴めません。
+Entra I... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/64e6aad7acdff9</guid>
+      <pubDate>Mon, 02 Mar 2026 01:02:43 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「CSSだけでx86 CPUを作ってみた」という狂気のプロジェクトが話題に — CSSの最新仕様を駆使、（当然）JSも不要</title>

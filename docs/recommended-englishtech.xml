@@ -7,20 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 02 Mar 2026 07:04:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 06:58:51 +0000</lastBuildDate>
+    <item>
+      <title>WorkOSがシリーズCで1億ドルを調達、評価額20億ドルに到達</title>
+      <link>https://workos.com/blog/series-c</link>
+      <description>WorkOSはシリーズCの資金調達で1億ドルを調達し、企業価値は20億ドルに達した。このラウンドはMeritechとSapphireが主導し、Audacious、Craft、Abstract、Greenoaksなどが参加した。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/series-c</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OktaからLaravelアプリにユーザーを同期する方法</title>
+      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
+      <description>わずか数行のコードで、SCIM、Okta、WorkOS を使用して Laravel アプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>MySQL 9.6 外部キー制約とカスケード処理の変更</title>
       <link>https://www.infoq.com/news/2026/02/mysql-foreign-keys/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>MySQLは、外部キー制約とカスケードの管理方法を変更します。MySQL 9.6以降では、外部キーの検証とカスケード操作は、InnoDBストレージエンジンではなくSQLレイヤーで処理されます。これにより、変更追跡、レプリケーションの精度、データの一貫性が向上し、CDCパイプライン、混合データベース環境、分析ワークロードにおけるMySQLの信頼性が向上します。Renato Losio著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/02/mysql-foreign-keys/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Sat, 28 Feb 2026 08:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Honorは、動くカメラを搭載した「ロボットフォン」が音楽に合わせて踊れると発表</title>
-      <link>https://techcrunch.com/2026/03/01/honor-says-its-robot-phone-with-moving-camera-can-dance-to-music/</link>
-      <description>Honorは今年初め、可動式カメラアームを搭載した「ロボットフォン」を初めて発表しました。バルセロナで開催されたモバイル・ワールド・コングレス（MWC）に先立ち、同社はこのデバイスの詳細を公開しました。ロボットが指示なしに様々な状況に対応する様子も含まれています。同社はこのデバイスを[…]で発売する予定だと発表しました。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/01/honor-says-its-robot-phone-with-moving-camera-can-dance-to-music/</guid>
-      <pubDate>Sun, 01 Mar 2026 15:30:00 +0000</pubDate>
     </item>
     <item>
       <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
@@ -51,13 +58,6 @@
       <pubDate>Mon, 02 Mar 2026 03:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cilium 10周年：より強力な暗号化、より安全なポリシー、大規模クラスターのより明確な可視性</title>
-      <link>https://www.infoq.com/news/2026/02/cilium-119/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Cilium 1.19がリリースされ、eBPFベースのネットワークおよびセキュリティプロジェクトの開発10周年を迎えました。このリリースには目玉となる機能はありませんが、セキュリティ強化、暗号化の強化、ネットワークポリシーの挙動改善、大規模Kubernetesクラスターのスケーラビリティ向上に重点が置かれています。Matt Saunders著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/cilium-119/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 25 Feb 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>プレゼンテーション: Architecture as Code による安全な API 接続のためのプラットフォーム</title>
       <link>https://www.infoq.com/presentations/secure-connectivity-api/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>ジム・ゴフは、偶然のアーキテクトからAPIプログラムリーダーへの転身について語り、セキュアなAPI接続の複雑さを管理する方法を説明します。開発者とセキュリティ担当者のギャップを埋めるために設計されたフレームワーク、共通アーキテクチャ言語モデル（CALM）を紹介します。アーキテクチャパターンを活用することで、エンジニアリングリーダーは6ヶ月かかるレビューサイクルを2時間で完了する自動デプロイメントへと移行できます。ジム・ゴフ著 (source: InfoQ)</description>
@@ -72,11 +72,11 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>アントロピックが自らに仕掛けた罠</title>
-      <link>https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/</link>
-      <description>アントロピック、OpenAI、Google DeepMindといった企業は、長年にわたり責任ある自己統治を約束してきました。しかし、ルールが存在しない現状では、彼らを守るものはほとんどありません。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/</guid>
-      <pubDate>Sun, 01 Mar 2026 00:08:58 +0000</pubDate>
+      <title>ポッドキャスト: [ビデオポッドキャスト] Nicole Forsgren による Frictionless DevEx</title>
+      <link>https://www.infoq.com/podcasts/frictionless-devex/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>このエピソードでは、トーマス・ベッツが、『Accelerate』の著者であり、DevOpsと開発者の生産性において最も著名な人物の一人であるニコール・フォースグレン博士と対談します。対談は、彼女の新著『Frictionless』のテーマである、開発者の摩擦を特定し、取り除くことについてです。ニコール・フォースグレン著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/podcasts/frictionless-devex/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 02 Mar 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
