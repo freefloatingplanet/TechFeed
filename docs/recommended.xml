@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Mar 2026 06:58:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 06:55:14 +0000</lastBuildDate>
     <item>
       <title>運転動画を検索可能にする 〜Cosmos-Embed1とDatabricksで〜</title>
       <link>https://zenn.dev/turing_motors/articles/cf86e1bf0e41ca</link>
@@ -31,11 +31,11 @@
       <pubDate>Sun, 01 Mar 2026 10:44:47 +0000</pubDate>
     </item>
     <item>
-      <title>気になってた飲食店に入ったらQRコードを読んで注文するシステムだったが、LINEの友だち登録までさせられそうになったので嫌になって退店した「回避方法はあるけどもやもやする」</title>
-      <link>https://togetter.com/li/2670289</link>
-      <description>前から気になっていた店に入ると「QRで注文」と案内され、読み取るとLINEの友達登録が必須で注文できない仕組みだった。店員に断って退店した。口頭対応を頼めば受けてくれたかもしれないが「面倒な客」と思われるのは嫌だし、宣伝がLINEで届くのも煩わしい。LINE未利用者もいるし、客を逃すやり方で逆効果だと感じる。... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2670289</guid>
-      <pubDate>Mon, 02 Mar 2026 21:22:32 +0000</pubDate>
+      <title>中道改革連合が落選者支援のためにクラウドファンディングを始めることを発表したが、「政治とカネ」の温床に繋がるリスクを指摘する意見が集まる</title>
+      <link>https://togetter.com/li/2670756</link>
+      <description>中道改革連合は落選者支援のためクラウドファンディングを実施する。落選者の窮状や党の資金難が背景にあり、寄付を募る姿勢に対し「当選議員がまず自腹を切るべき」「働かず寄付を求めるのは矛盾」「寄付で支持を買うことが政治と金の温床になる」といった批判が集まる。クラウドファンディングのリターン導入や既存の... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2670756</guid>
+      <pubDate>Wed, 04 Mar 2026 03:09:52 +0000</pubDate>
     </item>
     <item>
       <title>壊れにくいUIテストの設計を考える（Playwright + Storybook + React + GitHub Actions）</title>
@@ -54,11 +54,17 @@ Vite + React + TypeScript の小さな検証リポジトリを作りました。
       <pubDate>Sun, 01 Mar 2026 04:51:21 +0000</pubDate>
     </item>
     <item>
-      <title>高市総理、「SANAE TOKEN」について注意喚起　「私は全く存じ上げません」</title>
-      <link>https://www.itmedia.co.jp/news/articles/2603/02/news126.html</link>
-      <description>高市早苗総理大臣は3月2日、「SANAE TOKEN」と呼ばれる仮想通貨について「名前のせいか、色々な誤解がある」として注意喚起を行った。高市総理自身とは全く関係がないという。 高市総理はXに「SANAE TOKENという仮想通貨が発行され、一定の取引が行われていると伺いました。名前のせいか、色々な誤解があるようですが、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2603/02/news126.html</guid>
-      <pubDate>Mon, 02 Mar 2026 13:57:24 +0000</pubDate>
+      <title>Async React時代の宣言的UI: デバウンスの例</title>
+      <link>https://zenn.dev/uhyo/articles/async-react-debounce</link>
+      <description>宣言的UIとは何か、皆さんは答えられるでしょうか。
+「あーあの、DOM更新を直接プログラムに書くんじゃなくて、JSXとかであるべき状態を宣言したらライブラリが自動的に差分適用とかでDOMを更新してくれるやつでしょ？」
+もちろん、このような答えは間違いではありません。しかし、特にAsync Reactの時代においては、Reactの考えはさらに先を行っているようです。
+究極的には、宣言的UIは、やりたいことをロジックとして記述するだけで、具体的なことや細かい最適化はよしなにやってくれるものだという考えが伝わってきます。上述のようなDOMの更新の話はその一例にすぎません。
+
+
+やりたいこと: ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/uhyo/articles/async-react-debounce</guid>
+      <pubDate>Mon, 02 Mar 2026 15:10:48 +0000</pubDate>
     </item>
     <item>
       <title>PRを送るだけでリポジトリを「乗っ取れる」？GitHub Actionsの危ない書き方を実際に検証してみた (hackerbot-claw)</title>
@@ -69,18 +75,6 @@ Vite + React + TypeScript の小さな検証リポジトリを作りました。
 このStepSecurityの解析レポート... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/aeyesec/articles/417578718dcced</guid>
       <pubDate>Tue, 03 Mar 2026 00:37:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>非エンジニアの vibe-coding に「理解」を足す Claude Code プラグインを作った</title>
-      <link>https://zenn.dev/ramenumaiwhy/articles/178406388fced6</link>
-      <description>vibe-codingを"vibe"なままにしないために
-自分はエンジニアではない。でも Claude Code を使って自分でプロダクトを作っている。
-いわゆる vibe-coding だ。AIに指示を出して、コードを書かせて、動くものを作る。便利な時代になった。
-でも一つ、ずっと引っかかっていることがある。
-「自分が今なにを作っているのか」を、自分自身がちゃんと理解できていない瞬間がある。
-AIが出してくる plan（設計計画）を見ても、専門用語だらけで「まあ、いい感じにやってくれてるんだろう」で流してしまう。これが積み重なると、自分のプロダクトなのに中身がブラックボックスになる... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ramenumaiwhy/articles/178406388fced6</guid>
-      <pubDate>Sun, 01 Mar 2026 08:05:23 +0000</pubDate>
     </item>
     <item>
       <title>冪等（べきとう）性という名の技術的負債 ── AIコーディングで陥った「エラー隠蔽」の罠</title>
@@ -100,24 +94,31 @@ APIでいえば、同じリクエストを2回送っても1回送ったときと
       <title>あなたはEntra IDを理解できる</title>
       <link>https://zenn.dev/headwaters/articles/64e6aad7acdff9</link>
       <description>はじめに
-ヘッドウォータースに入社し、ほとんど初めてクラウドという概念に本格的に触れました。
-業務のなかでAzureのキャッチアップを進める中で、理解が難しい概念がありました。
+ヘッドウォータースに入社し、初めてクラウドという概念に本格的に触れました。
+業務のなかでAzureのキャッチアップを進めていましたが、理解が難しい概念がありました。
 それがEntra IDです。
-今回は自分なりに理解したその概念を、具体的な使い方のイメージを多めにして初心者エンジニアの方でも理解できるような記事にしてみました。
+今回は自分なりに理解したその概念を、具体的な使い方のイメージを多めにして入門者の方でも理解しやすい記事にしてみました。
 
  認証の「抽象化」とクラウドの全体像
 クラウドやAzureを学ぶ際、最大の壁となるのが「Microsoft Entra ID（旧Azure AD）」です。
 「クラウドベースのID管理サービス」という言葉だけでは、実態は掴めません。
-Entra I... (source: Zennのトレンド)</description>
+Entra IDの本質は、「私... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/headwaters/articles/64e6aad7acdff9</guid>
       <pubDate>Mon, 02 Mar 2026 01:02:43 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】「CSSだけでx86 CPUを作ってみた」という狂気のプロジェクトが話題に — CSSの最新仕様を駆使、（当然）JSも不要</title>
-      <link>https://techfeed.io/entries/699ff41bb8be4e210aad3b57?from=rss</link>
-      <description>2月25日、rebane2001が「x86CSS」と題した記事を公開した。この記事では、CSSのみでx86アーキテクチャをシミュレートするCPUエミュレータについて詳しく紹介されている。以下に、その内容を紹介する。プロジェクトの概要本プロジェクトは、ウェブサイトの装飾言語であるCSSのみを用いて、16bitのx86（Intel 8086）プログラムを実行可能にするものだ。最大の特徴は、JavaScriptを一切使用していない点にある。通常、ブラウザ上で動作する複雑なロジックはJavaScriptが担うが、作者はC言語のソースコードをバイナリ形式のマシンコード（機械語）へコンパイルし、そのバイナリをCSSのロジックのみで読み込み、演算して実行することに成功した。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/699ff41bb8be4e210aad3b57?from=rss</guid>
-      <pubDate>Thu, 26 Feb 2026 07:19:55 +0000</pubDate>
+      <title>【海外記事紹介】「エンジニアは今、マネージャーを目指すべきではない」 ― 激動のAI時代、現場を離れるのはハイリスクだという提言が話題に</title>
+      <link>https://techfeed.io/entries/69a7cca44271131d91d5944c?from=rss</link>
+      <description>3月4日、manager.devが「Don't become an Engineering Manager」と題した記事を公開した。この記事では、マネジメント職（EM：エンジニアリングマネージャー）への転身に伴う近年のリスクと、「現場のエンジニア」（IC：Individual Contributor）としてキャリアを継続することの合理性について詳しく紹介されている。以下に、その内容と、テック業界の主要コミュニティであるHacker Newsのスレッドなどで巻き起こっている議論を合わせて紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/69a7cca44271131d91d5944c?from=rss</guid>
+      <pubDate>Wed, 04 Mar 2026 06:09:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>コミュニティ主導で新たなnpmビューアー「npmx」が爆誕 — 2週間で1,000PR、「オープンソースのあるべき姿」と絶賛される</title>
+      <link>https://techfeed.io/entries/69a7b3c64271131d91d58ed2?from=rss</link>
+      <description>3月4日、npmxが「Announcing npmx: a fast, modern browser for the npm registry」と題した記事を公開した。この記事では、npmパッケージの検索・閲覧・評価をより効率化する新しいインターフェース「npmx」のアルファ版リリースについて詳しく紹介されている。以下に、その内容を紹介する。npmxとはnpmxは、世界最大のJavaScriptパッケージレジストリである「npm」のデータを、より高速かつ詳細に表示するための高機能なパッケージ閲覧ツールである。既存の公式サイト（npmjs.com）と同じレジストリをベースにしながらも、開発者がパッケージを選定・管理する際の利便性を極限まで高めることを目的として設計されている。npmxがなぜ注目されているのかnpmxが短期間で爆発的な注目を集めたのは、従来のツールでは「インストールしてみるまで分からなかった情報」を、検索の段階で可視化しているからだ。開発者の「知りたい」に答える情報設計開発者が最も懸念するのは、導入したパッケージがプロジェクトに悪影響を及ぼすことである。npmxでは、インス (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/69a7b3c64271131d91d58ed2?from=rss</guid>
+      <pubDate>Wed, 04 Mar 2026 04:23:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

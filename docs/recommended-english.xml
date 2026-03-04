@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Mar 2026 06:58:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 06:55:15 +0000</lastBuildDate>
     <item>
-      <title>CesiumAstro、通信システムにAIを組み込むためVidrovrを買収</title>
-      <link>https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/</link>
-      <description>サンフランシスコ – CesiumAstroは2月26日、マルチモーダル信号解析のための人工知能（AI）を専門とするスタートアップ企業Vidrovrの買収を発表しました。取引は2025年後半に完了予定で、条件は非公開です。CesiumAstroは、宇宙通信、情報収集、監視、偵察インフラへのAI組み込みを推進し、無線周波数（RF）による […] この記事「CesiumAstro、通信システムへのAI組み込みに向けてVidrovrを買収」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/</guid>
-      <pubDate>Thu, 26 Feb 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>エアバスとレオナルド、2025年の宇宙関連収益増加を報告</title>
-      <link>https://spacenews.com/airbus-and-leonardo-report-increased-space-revenues-for-2025/</link>
-      <description>ミラノ発 – 欧州最大手のエアバスとレオナルドは、それぞれの宇宙事業において、昨年比で売上高が増加したと発表しました。今週初めに別々の決算発表で発表されたこの結果は、両社がタレスと「プロジェクト・ブロモ」と呼ばれる合弁事業について協議中である中で発表されました。両社ともこの件について言及していませんでした[…] エアバスとレオナルド、2025年の宇宙事業売上高が増加と発表 この記事はSpaceNewsに最初に掲載されました。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/airbus-and-leonardo-report-increased-space-revenues-for-2025/</guid>
-      <pubDate>Thu, 26 Feb 2026 16:20:31 +0000</pubDate>
+      <title>宇宙が熱いとき、ワシントンは試合を開催する</title>
+      <link>https://spacenews.com/when-space-is-hot-washington-holds-a-match/</link>
+      <description>防衛・宇宙技術へのプライベート・エクイティ投資から得られる教訓は、投資家の間では同分野が流行しているものの、長期的には成功は政府の継続的な関与にかかっているということだ。この記事「宇宙が熱いとき、ワシントンで試合が開催される」は SpaceNews に最初に掲載された。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/when-space-is-hot-washington-holds-a-match/</guid>
+      <pubDate>Tue, 03 Mar 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

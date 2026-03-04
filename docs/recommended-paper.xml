@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Mar 2026 06:58:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 06:55:20 +0000</lastBuildDate>
     <item>
-      <title>KL正規化多腕バンディットに対する近似最適リグレット</title>
-      <link>https://arxiv.org/abs/2603.02155v1</link>
-      <description>最近の研究では、KL 正則化目的関数を用いた強化学習は、正則化されていない設定での古典的な $\sqrt{T}$ 型のリグレッションとは対照的に、収束速度が速くなったり、対数リグレッションが起こったりすることが示されています。しかし、KL 正則化目的関数に関するオンライン学習の統計的効率は、多腕バンディット (MAB) に特化しても、まだ完全には解明されていません。本研究では、MAB におけるこの問題に対処するため、新しい剥離論法を用いて KL-UCB を鋭く解析します。この解析により、$\tilde{O}(ηK\log^2T)$ の上限が得られます。これは、$K$ に線形依存する最初の高確率リグレッション境界です。ここで、$T$ は時間範囲、$K$ はアームの数、$η^{-1}$ は正則化の強度、$\tilde{O}$ は $\log T$ に関係するものを除くすべての対数因子を隠します。我々の解析のほぼタイトな性質は、最初の非定数下限値$Ω(ηK \log T)$によって証明される。これは、微妙なハードインスタンス構成とベイズ事前分布の調整された分解から導かれる。さらに、低正則化領 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.02155v1</guid>
-      <pubDate>Mon, 02 Mar 2026 18:17:33 +0000</pubDate>
+      <title>デッドゾーン内縁における惑星形成 ― I：降着爆発と塵の成長の相互作用</title>
+      <link>https://arxiv.org/abs/2602.20283v1</link>
+      <description>原始惑星系円盤におけるデッドゾーンの内縁は周期的に不安定化し、デッドゾーン内に降着爆発と環状下部構造が形成されることが示されている。ダストの不透明度はこのプロセスにおいて重要な役割を果たしているものの、ダストの漂流と成長の熱的・力学的影響は十分に解明されていない。我々は、完全動的ダストモデルを用いて、内縁円盤における降着爆発の進化と、それがダストに富む下部構造の形成に与える影響を調査する。その過程で、この領域における惑星形成におけるダスト成長の重要性と限界を明らかにすることを目指す。デッドゾーンの内縁構造、粘性加熱および放射加熱、放射冷却、ダスト-ガスダイナミクス、そしてダストの進化に関する規定を含む、原始惑星系円盤の放射流体力学シミュレーションを実施する。内周円盤端における降着爆発は、複数のダストリングの形成につながり、これらのリングはデッドゾーンの奥深く（約1 au）まで広がり、粘性タイムスケール（α = 1e-4の場合、約10 kyr）で拡散する可能性があることがわかった。これらのリングには最大で地球質量の約1.6倍のダストリングが含まれており、惑星形成のきっかけとなる可能性があ (source: arXiv Query: search_query=all:observation AND (all:star OR all:stellar) AND (all:formation OR all:forming OR all:star-forming) AND (all:region OR all:regions OR all:cluster) AND ( (all:planetary AND all:mass) OR (all:brown AND all:dwarf) OR (all:free AND all:floating) )&amp;id_list=&amp;start=0&amp;max_results=20)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.20283v1</guid>
+      <pubDate>Mon, 23 Feb 2026 19:10:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
