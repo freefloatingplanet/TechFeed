@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Mar 2026 06:55:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 06:58:57 +0000</lastBuildDate>
     <item>
-      <title>宇宙が熱いとき、ワシントンは試合を開催する</title>
-      <link>https://spacenews.com/when-space-is-hot-washington-holds-a-match/</link>
-      <description>防衛・宇宙技術へのプライベート・エクイティ投資から得られる教訓は、投資家の間では同分野が流行しているものの、長期的には成功は政府の継続的な関与にかかっているということだ。この記事「宇宙が熱いとき、ワシントンで試合が開催される」は SpaceNews に最初に掲載された。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/when-space-is-hot-washington-holds-a-match/</guid>
-      <pubDate>Tue, 03 Mar 2026 16:00:00 +0000</pubDate>
+      <title>（宇宙）SPACの復活</title>
+      <link>https://spacenews.com/return-of-the-space-spac/</link>
+      <description>元投資銀行家のラファエル・レットゲン氏は、2022年に白紙小切手によるペーパーカンパニーとの合併をめぐる熱狂が過熱したため、宇宙に特化した特別買収会社（SPAC）を放棄せざるを得ませんでした。それから4年後、彼は民間宇宙企業の上場に2億ドル以上の資金調達を貢献した後、SPACに復帰しました。SPACは株式市場で資金を調達し、[…] この記事はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/return-of-the-space-spac/</guid>
+      <pubDate>Wed, 04 Mar 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>信頼できる宇宙救助は宇宙での継続的な経済的機会の前提条件であり、まだ道のりは長い。</title>
+      <link>https://spacenews.com/reliable-space-rescue-is-a-prerequisite-for-continued-economic-opportunity-in-space-and-we-have-a-long-way-to-go/</link>
+      <description>2026年1月15日、SpaceXクルー11の4人の宇宙飛行士が国際宇宙ステーション（ISS）から無事地球に帰還した時、人々は安堵とともに歓声をあげました。帰還は、乗組員の1人が医療上の緊急事態に見舞われた後に行われました。容体は安定していましたが、地上での医療ケアが必要でした。帰還は無事に成功しました[…] この記事「宇宙における継続的な経済機会の実現には、信頼性の高い宇宙救助が不可欠であり、その道のりは長い」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/reliable-space-rescue-is-a-prerequisite-for-continued-economic-opportunity-in-space-and-we-have-a-long-way-to-go/</guid>
+      <pubDate>Wed, 04 Mar 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

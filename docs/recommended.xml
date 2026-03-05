@@ -7,51 +7,72 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Mar 2026 06:55:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 06:58:56 +0000</lastBuildDate>
     <item>
-      <title>運転動画を検索可能にする 〜Cosmos-Embed1とDatabricksで〜</title>
-      <link>https://zenn.dev/turing_motors/articles/cf86e1bf0e41ca</link>
+      <title>多分これから起きること｜shi3z</title>
+      <link>https://note.com/shi3zblog/n/n834b60210766</link>
+      <description>自分で自分を改良する自己書き換え型エージェンティックAI、sikiをちまちま開発するのにハマっている(公開はしているがまだ安定していないので遊んでみるのはお勧めしない)。 結構答えはいい線いくのだが、いかんせん最初の反応が鈍い。 まあこれはGeminiでもChatGPTでも同じくらい最初の反応というのは遅いんだけど、快... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/shi3zblog/n/n834b60210766</guid>
+      <pubDate>Wed, 04 Mar 2026 02:02:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】なぜ私のmalloc()は最初に必ず72KB確保するのか — libstdc++の奥まで潜って調べてみた</title>
+      <link>https://techfeed.io/entries/69a7d15e4271131d91d595f6?from=rss</link>
+      <description>3月2日、Joel Siks氏が「Why is my first C++ (m)allocation always 72 KB?」と題したブログ記事を公開し、話題を呼んでいる。この記事では、著者の特定の開発環境において、C++プログラムの実行直後に必ず発生していた「72 KB」というメモリ割り当ての要因について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/69a7d15e4271131d91d595f6?from=rss</guid>
+      <pubDate>Wed, 04 Mar 2026 06:29:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>動的型付け言語はそろそろ淘汰されるべき</title>
+      <link>https://zenn.dev/headwaters/articles/53f51eb428dab6</link>
+      <description>Pythonがめっちゃ嫌い
+私はPythonが嫌いです。
+というより、動的型付け言語が嫌いです。
+Jupyter Notebook (Google Colab) などの、セル単位での実行が有効な状況であれば、動的型付け言語のメリットは十分に活きると思います。
+しかし、一般的なプロダクト開発においては、動的型付け言語のメリットはもはや過去のものになっていると感じます。
+そう考える理由について、プログラミング言語の歴史を振り返りながら、私の考えを述べていきたいと思います。
+!
+この記事には筆者の個人的な見解が多分に含まれています。
+Pythonや動的型付け言語が好きな人は、ぜひコメントで... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/53f51eb428dab6</guid>
+      <pubDate>Wed, 04 Mar 2026 09:15:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>状態と性質を区別して考える</title>
+      <link>https://zenn.dev/knowledgework/articles/95f30cfd155b5d</link>
+      <description>この記事は、「KNOWLEDGE WORK Blog Sprint 2026 Spring」第3日目の記事になります。
+ナレッジワークでエンジニアリングマネージャーをしているhiroです。チーム内の開発トピックに対して主にバックエンドの設計・実装レビューを行っており、最近は少し減ってしまいましたが、実装にも携わっています。
+本記事では前回のBlog Sprintで弊社CTOが公開した「操作より状態・性質に着目する」の続きとして、「状態と性質を区別して考える」というテーマで設計や実装のヒントになる考え方を書きます。
+https://zenn.dev/knowledgework/articl... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/95f30cfd155b5d</guid>
+      <pubDate>Wed, 04 Mar 2026 03:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>備忘録 : Codexでいくつか機能が追加された</title>
+      <link>https://zenn.dev/tech_discovery/articles/263d67ac5df0d3</link>
       <description>はじめに
-チューリング株式会社 MLOpsチーム の @stu3dio_graph です。
-チューリングでは毎日データ収集車両を走らせ，数万時間を超える大量の運転動画データを収集しています。しかしデータが増えるほど 「ほしいシーンが見つからない」問題が深刻化 していきました。日時や車両 ID でフィルタリングすることはできても，「交差点で歩行者が横断しているシーン」「道路工事を避けて車線変更するシーン」のように，映像の中身に基づいてシーンを探す手段がなかったのです。
+Codex の情報はずっと追えていないので備忘録的に書いていこうと思います
+Codex のデスクトップアプリの出現あたりから、私も利用し始めたのでこの記事では2月初旬から今日までで更新や追加のあった機能や個人的に便利な機能などについてまとめていこうと思います
 
- 運転動画を探すためのシステム
-このたび，NVIDIA が公開した映像-テキスト埋め込みモデル Cosmos-Emb... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/cf86e1bf0e41ca</guid>
-      <pubDate>Mon, 02 Mar 2026 06:00:01 +0000</pubDate>
+ TL;DR
+
+音声入力がTUIで使えるようになった
+マルチエージェントが強化され、並列実行・ネスト・スレッドフォークまで可能に
+視認性と操作性（ハイライト、/copy、/clear）が改善
+メモリやスレッドの取り扱い、リアルタイム音声、ツール出力が堅くなった
+
+
+ CLI での音声入力
+まず大きいのは音声入力です。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tech_discovery/articles/263d67ac5df0d3</guid>
+      <pubDate>Wed, 04 Mar 2026 00:30:01 +0000</pubDate>
     </item>
     <item>
-      <title>NotebookLMの神アプデを試さずにいられなかった</title>
-      <link>https://qiita.com/apteryx-nz/items/3a12c5f1258db8d81a78?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-すでに「NotebookLMがアップデートでPowerPoint形式の出力に対応した」という記事は数多く出ています。
-それでも、個人的に待ち望んだアップデートだったため、あえて投稿します。
-公式Xでは、アップデートのお知らせと共に、有料ユーザへのリリース後、無料... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/apteryx-nz/items/3a12c5f1258db8d81a78?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sun, 01 Mar 2026 10:44:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>中道改革連合が落選者支援のためにクラウドファンディングを始めることを発表したが、「政治とカネ」の温床に繋がるリスクを指摘する意見が集まる</title>
-      <link>https://togetter.com/li/2670756</link>
-      <description>中道改革連合は落選者支援のためクラウドファンディングを実施する。落選者の窮状や党の資金難が背景にあり、寄付を募る姿勢に対し「当選議員がまず自腹を切るべき」「働かず寄付を求めるのは矛盾」「寄付で支持を買うことが政治と金の温床になる」といった批判が集まる。クラウドファンディングのリターン導入や既存の... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2670756</guid>
-      <pubDate>Wed, 04 Mar 2026 03:09:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>壊れにくいUIテストの設計を考える（Playwright + Storybook + React + GitHub Actions）</title>
-      <link>https://zenn.dev/ohimusdev46301/articles/be70f58bf82926</link>
-      <description>私は普段、開発に携わっていない（= 実装を触らない）アプリのテストを MagicPod で実装することが多いのですが、壊れにくいテストを作る難しさを強く感じています。
-特に悩ましいのは以下の2つを満たす粒度です。
-
-仕様変更には追従できる（多少のUI変更で壊れない）
-でも不具合は検知できる（本当に守りたい挙動が崩れたら落ちてほしい）
-
-このバランスを、テスト設計・ロケータ設計・運用ルールでどう支えるかを考えてみたくなり、
-Vite + React + TypeScript の小さな検証リポジトリを作りました。
-また、E2Eテストのケース数が増えると実行時間が長くなりがちです。
-なので、テ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ohimusdev46301/articles/be70f58bf82926</guid>
-      <pubDate>Sun, 01 Mar 2026 04:51:21 +0000</pubDate>
+      <title>AIも広告もない。Windows 11 LTSCという"逃げ場"の現実｜情報の灯台</title>
+      <link>https://note.com/joho_no_todai/n/naf5e7d27dad9</link>
+      <description>コパイロットが常駐し、スタートメニューに広告が並び、毎週のように新しいAI機能が降ってくる。2026年のWindows 11は、ユーザーを便利にしているのか、それとも疲弊させているのか。そんな問いへの答えの一つが、ひっそりと存在している。 「これが本来のWindowsだ」と感じさせるOSWindows 11 IoT Enterprise LTSC（長... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/joho_no_todai/n/naf5e7d27dad9</guid>
+      <pubDate>Wed, 04 Mar 2026 13:24:52 +0000</pubDate>
     </item>
     <item>
       <title>Async React時代の宣言的UI: デバウンスの例</title>
@@ -75,36 +96,6 @@ Vite + React + TypeScript の小さな検証リポジトリを作りました。
 このStepSecurityの解析レポート... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/aeyesec/articles/417578718dcced</guid>
       <pubDate>Tue, 03 Mar 2026 00:37:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>冪等（べきとう）性という名の技術的負債 ── AIコーディングで陥った「エラー隠蔽」の罠</title>
-      <link>https://zenn.dev/heybombon/articles/be7b28840cd580</link>
-      <description>はじめに
-AIコーディングアシスタントと開発していて、ある落とし穴に気づいた。
-エラーが発生したとき、AIはエラーを「抑え込んで」処理を継続させる方向で対応する。 その対応に「冪等性の確保」という名前がつくと、正しい設計判断に見えてしまう。しかし実際には、真の問題を隠蔽していただけだった。
-この記事では、Flutter アプリ開発で実際に体験した「冪等性の罠」を通じて、エラー対応の本質について考える。
-
- 冪等性とは
-冪等性（idempotency）とは、ある操作を何度実行しても1回実行したときと同じ結果になる性質。
-APIでいえば、同じリクエストを2回送っても1回送ったときと同じ結... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/heybombon/articles/be7b28840cd580</guid>
-      <pubDate>Sat, 28 Feb 2026 06:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>あなたはEntra IDを理解できる</title>
-      <link>https://zenn.dev/headwaters/articles/64e6aad7acdff9</link>
-      <description>はじめに
-ヘッドウォータースに入社し、初めてクラウドという概念に本格的に触れました。
-業務のなかでAzureのキャッチアップを進めていましたが、理解が難しい概念がありました。
-それがEntra IDです。
-今回は自分なりに理解したその概念を、具体的な使い方のイメージを多めにして入門者の方でも理解しやすい記事にしてみました。
-
- 認証の「抽象化」とクラウドの全体像
-クラウドやAzureを学ぶ際、最大の壁となるのが「Microsoft Entra ID（旧Azure AD）」です。
-「クラウドベースのID管理サービス」という言葉だけでは、実態は掴めません。
-Entra IDの本質は、「私... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/64e6aad7acdff9</guid>
-      <pubDate>Mon, 02 Mar 2026 01:02:43 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「エンジニアは今、マネージャーを目指すべきではない」 ― 激動のAI時代、現場を離れるのはハイリスクだという提言が話題に</title>

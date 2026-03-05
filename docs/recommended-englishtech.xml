@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Mar 2026 06:55:24 +0000</lastBuildDate>
-    <item>
-      <title>MySQL 9.6 外部キー制約とカスケード処理の変更</title>
-      <link>https://www.infoq.com/news/2026/02/mysql-foreign-keys/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>MySQLは、外部キー制約とカスケードの管理方法を変更します。MySQL 9.6以降では、外部キーの検証とカスケード操作は、InnoDBストレージエンジンではなくSQLレイヤーで処理されます。これにより、変更追跡、レプリケーションの精度、データの一貫性が向上し、CDCパイプライン、混合データベース環境、分析ワークロードにおけるMySQLの信頼性が向上します。Renato Losio著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/02/mysql-foreign-keys/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 28 Feb 2026 08:34:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Mar 2026 06:59:09 +0000</lastBuildDate>
     <item>
       <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
@@ -23,11 +16,11 @@
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>アクティビスト投資家のエリオットがAI主導の成長に賭け、Pinterestに10億ドルの株式を取得</title>
-      <link>https://techcrunch.com/2026/03/03/activist-investor-elliot-takes-a-1b-stake-in-pinterest-betting-on-ai-driven-growth/</link>
-      <description>このニュースは、Pinterestが深刻な逆風に直面している中で発表された。業績不振、従業員の15%に及ぶレイオフ、広告事業の低迷、そしてAIチャットボットとの競争激化により、株価は過去1年間で急落した。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/03/activist-investor-elliot-takes-a-1b-stake-in-pinterest-betting-on-ai-driven-growth/</guid>
-      <pubDate>Tue, 03 Mar 2026 17:27:37 +0000</pubDate>
+      <title>Vue Router 5: 互換性を損なうことなくファイルベースのルーティングをコアに導入</title>
+      <link>https://www.infoq.com/news/2026/03/vue-router-5/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Vue Router 5.0は、unplugin-vue-routerをコアに統合し、ファイルベースのルーティングとTypeScriptのサポートを強化しました。この移行リリースでは、互換性を損なう変更はなく、依存関係が簡素化され、データローダーや改良されたエディタツールなどの実験的な機能が導入されています。Vue.js開発者にとって理想的なこのリリースは、ESMのみに対応した次期バージョン6への橋渡しとなるでしょう。Daniel Curtis著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/vue-router-5/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 04 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
@@ -51,13 +44,6 @@
       <pubDate>Tue, 03 Mar 2026 10:13:00 +0000</pubDate>
     </item>
     <item>
-      <title>WorkOS MCP Night: ホリデースペシャル</title>
-      <link>https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</link>
-      <description>MCPナイト、ホリデースペシャルは歴史的な瞬間を刻みました。AnthropicがMCPをLinux Foundationに寄贈し、Agentic AI Foundationが設立されました。Cloudflare、Supabase、Datadog、Microsoft、Googleによるデモも行われました。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</guid>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>GitHubは2026年に、よりグローバルでAIに課題のあるオープンソースエコシステムを示唆している</title>
       <link>https://www.infoq.com/news/2026/03/github-ai-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>GitHubは、オープンソースのトレンドに関する年次レポートを発表しました。オープンソースコミュニティが来年に向けて準備を整えるため、「Octoverse 2025」レポートのデータを使用しました。そこから浮かび上がるのは、驚異的な規模とそれに伴う構造的な緊張です。クラウディオ・マソロ (source: InfoQ)</description>
@@ -65,18 +51,32 @@
       <pubDate>Tue, 03 Mar 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>WorkOS MCP Night: ホリデースペシャル</title>
+      <link>https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</link>
+      <description>MCPナイト、ホリデースペシャルは歴史的な瞬間を刻みました。AnthropicがMCPをLinux Foundationに寄贈し、Agentic AI Foundationが設立されました。Cloudflare、Supabase、Datadog、Microsoft、Googleによるデモも行われました。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Google、Gemini CLI Conductor に自動レビュー機能を導入</title>
       <link>https://www.infoq.com/news/2026/03/gemini-cli-conductor-reviews/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Googleは、Gemini CLI拡張機能Conductorを強化し、自動レビュー機能を追加しました。同社によると、このアップデートによりConductorは「計画と実行だけでなく検証にも活用できる」ようになり、AI生成コードの品質とガイドライン遵守を検証できるようになり、AI支援開発ワークフローにおける信頼性、安全性、そして制御性が向上します。Sergio De Simone著 (source: InfoQ)</description>
+      <description>Googleは、Gemini CLI拡張機能「Conductor」を強化し、自動レビュー機能を追加しました。同社によると、このアップデートによりConductorは「計画と実行だけでなく検証にも活用できる」ようになり、AI生成コードの品質とガイドライン遵守を検証できるようになり、AI支援開発ワークフローにおける信頼性、安全性、そして制御性が向上します。Sergio De Simone著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/gemini-cli-conductor-reviews/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Tue, 03 Mar 2026 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ポッドキャスト: [ビデオポッドキャスト] Nicole Forsgren による Frictionless DevEx</title>
       <link>https://www.infoq.com/podcasts/frictionless-devex/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>このエピソードでは、トーマス・ベッツが、『Accelerate』の著者であり、DevOpsと開発者の生産性において最も著名な人物の一人であるニコール・フォースグレン博士と対談します。対談は、彼女の新著『Frictionless』のテーマである、開発者の摩擦を特定し、取り除くことについてです。ニコール・フォースグレン著 (source: InfoQ)</description>
+      <description>このエピソードでは、トーマス・ベッツが『Accelerate』の著者であり、DevOpsと開発者の生産性において最も著名な人物の一人であるニコール・フォースグレン博士と対談します。対談は、彼女の新著『Frictionless』のテーマである、開発者の摩擦を特定し、取り除くことについてです。ニコール・フォースグレン著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/podcasts/frictionless-devex/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 02 Mar 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>彼の家は火事で焼け落ちた。彼は保険金を使ってポップソケッツを作った。</title>
+      <link>https://techcrunch.com/video/his-house-burned-down-he-used-the-insurance-money-to-build-popsockets/</link>
+      <description>消費者向けハードウェア企業が成功するために、ベンチャーキャピタルのトレッドミルに乗る必要があるでしょうか？ 11年間で115か国で2億9000万個の製品を販売したPopSocketsは、ブートストラップ型の低希釈化の道が、業界が考える以上に実現可能であることを証明しました。この世界的な消費者向けハードウェアブランドは、50万ドル未満、機関投資家からの資金なし、そして哲学教授の強い決意で築かれました。創業者で元CEOの[…]をご覧ください。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/video/his-house-burned-down-he-used-the-insurance-money-to-build-popsockets/</guid>
+      <pubDate>Wed, 04 Mar 2026 19:34:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
