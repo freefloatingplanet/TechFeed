@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 06:59:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 06:56:41 +0000</lastBuildDate>
+    <item>
+      <title>NASAがマイケル・フィンク宇宙飛行士のコメントを公表　1月にISSで発生した医療上の事案に関連</title>
+      <link>https://sorae.info/space/20260227-crew-11-mike-fincke.html</link>
+      <description>NASA（アメリカ航空宇宙局）は2026年2月25日付で、アメリカ企業SpaceX（スペースX）のCrew Dragon（クルードラゴン）宇宙船による有人宇宙飛行ミッション「Crew-11（クルー11）」の一員としてIS… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260227-crew-11-mike-fincke.html</guid>
+      <pubDate>Sat, 28 Feb 2026 09:13:35 +0000</pubDate>
+    </item>
     <item>
       <title>塵に阻まれても美しい姿　ハッブル宇宙望遠鏡が捉えた“隠された銀河”こと「IC 342」</title>
       <link>https://sorae.info/astronomy/20260227-ic-342.html</link>
@@ -21,13 +28,6 @@
       <description>スペースワン株式会社は日本時間2026年3月5日に「カイロス（KAIROS）」ロケット3号機の打ち上げを実施しました。発射後にミッション達成困難と判断したため飛行中断措置を行ったことを、スペースワンが発表しています。 打… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/ssn/20260305-kairos-3.html</guid>
       <pubDate>Thu, 05 Mar 2026 02:33:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>ispace、2026年度の株主優待を発表　シリーズ3ランダー試験モデルの見学会を実施へ</title>
-      <link>https://sorae.info/news/20260227-ispace.html</link>
-      <description>月面探査プログラムを進める株式会社ispaceは2026年2月27日、2026年度の株主優待制度の内容を発表しました。今年の目玉となるのは、現在日本で開発が進められている大型月着陸機「シリーズ3ランダー（仮称）」の試験モ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/news/20260227-ispace.html</guid>
-      <pubDate>Fri, 27 Feb 2026 11:07:32 +0000</pubDate>
     </item>
     <item>
       <title>「超新星爆発に失敗してブラックホールになった恒星」の最有力候補を観測</title>
@@ -51,6 +51,13 @@
       <pubDate>Wed, 04 Mar 2026 12:50:06 +0000</pubDate>
     </item>
     <item>
+      <title>ハッブルとユークリッドが観測した「キャッツアイ星雲」のクローズアップ＆ワイドビュー</title>
+      <link>https://sorae.info/astronomy/20260305-ngc-6543-cats-eye-nebula.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した惑星状星雲「NGC 6543」、別名「キャッツアイ星雲（Cat's Eye Nebula）」。 りゅう座の方向、約4400光年先にあります。 惑星状星雲は、超新星爆発を起こ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260305-ngc-6543-cats-eye-nebula.html</guid>
+      <pubDate>Thu, 05 Mar 2026 12:29:08 +0000</pubDate>
+    </item>
+    <item>
       <title>NASAがアルテミス計画の見直しを発表　月面着陸を2028年に先送りし地球低軌道でテスト実施へ</title>
       <link>https://sorae.info/space/20260301-nasa-artemis.html</link>
       <description>NASA（アメリカ航空宇宙局）は2026年2月27日付で、アメリカが主導する有人月面探査計画「Artemis（アルテミス）」において、ミッションの内容変更とスケジュールの更新を発表しました。半世紀以上の時を経て再開される… (source: sorae 宇宙へのポータルサイト)</description>
@@ -71,13 +78,6 @@
       <description>3月、寒波と雪の時期を乗り越えて、季節は少しずつ春へと歩みを進めています。けれど、星空ではまだ冬の星座が数多く見られます。 まず目に入るのは、南西に位置する「オリオン座」です。中央に3つの星がならび、その周辺を4つの星が… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/202603-starry-sky.html</guid>
       <pubDate>Sun, 01 Mar 2026 11:48:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>AST SpaceMobile、従来比10倍のデータをさばける巨大アンテナ衛星「BlueBird 6」展開成功。届かなかった場所にも4G・5Gが届く世界へ【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/44921/</link>
-      <description>2026年2月11日、AST SpaceMobileは次世代通信衛星「BlueBird 6」のアンテナ展開に成功したと発表しました。今回の発表によると、この通信アンテナは、低軌道の商用衛星向けとしては最大級のサイズです。この技術により、宇宙から世界中のスマートフォンへ直接通信するという同社の構想の実現に一歩近づきます。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/44921/</guid>
-      <pubDate>Mon, 23 Feb 2026 23:02:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

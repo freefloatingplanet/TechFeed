@@ -7,11 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Mar 2026 06:59:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 06:56:49 +0000</lastBuildDate>
+    <item>
+      <title>WorkOSがシリーズCで1億ドルを調達、評価額20億ドルに到達</title>
+      <link>https://workos.com/blog/series-c</link>
+      <description>WorkOSはシリーズCの資金調達で1億ドルを調達し、企業価値は20億ドルに達した。このラウンドはMeritechとSapphireが主導し、Audacious、Craft、Abstract、Greenoaksなどが参加した。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/series-c</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OktaからLaravelアプリにユーザーを同期する方法</title>
+      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
+      <description>わずか数行のコードで、SCIM、Okta、WorkOS を使用して Laravel アプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新興のAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
@@ -28,13 +42,6 @@
       <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。そこで、OAuthフロー、トークン管理、プロバイダー設定を自動化するPipesを開発しました。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Javaニュースまとめ: Lazy定数、TornadoVM 3.0、NetBeans 29、Quarkus、JReleaser、Open Liberty</title>
-      <link>https://www.infoq.com/news/2026/03/java-news-roundup-feb23-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>今週の2026年2月23日版Javaラウンドアップでは、注目のニュースをお届けします。新しいJEP 531候補であるLazy Constants、TornadoVM 3.0とNetBeans 29のGAリリース、Quarkus、JReleaser、Chicory、RefactorFirstのポイントリリース、MicronautとJoxのメンテナンスリリース、そしてOpen Libertyの2026年2月版です。マイケル・レッドリッヒ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/java-news-roundup-feb23-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 02 Mar 2026 03:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AWS、クラウド導入を自動化するエージェントプラグインをリリース</title>
@@ -60,23 +67,16 @@
     <item>
       <title>Google、Gemini CLI Conductor に自動レビュー機能を導入</title>
       <link>https://www.infoq.com/news/2026/03/gemini-cli-conductor-reviews/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Googleは、Gemini CLI拡張機能「Conductor」を強化し、自動レビュー機能を追加しました。同社によると、このアップデートによりConductorは「計画と実行だけでなく検証にも活用できる」ようになり、AI生成コードの品質とガイドライン遵守を検証できるようになり、AI支援開発ワークフローにおける信頼性、安全性、そして制御性が向上します。Sergio De Simone著 (source: InfoQ)</description>
+      <description>Googleは、Gemini CLI拡張機能Conductorを強化し、自動レビュー機能を追加しました。同社によると、このアップデートによりConductorは「計画と実行だけでなく検証にも活用できる」ようになり、AI生成コードの品質とガイドライン遵守を検証できるようになり、AI支援開発ワークフローにおける信頼性、安全性、そして制御性が向上します。Sergio De Simone著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/gemini-cli-conductor-reviews/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Tue, 03 Mar 2026 20:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ポッドキャスト: [ビデオポッドキャスト] Nicole Forsgren による Frictionless DevEx</title>
-      <link>https://www.infoq.com/podcasts/frictionless-devex/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>このエピソードでは、トーマス・ベッツが『Accelerate』の著者であり、DevOpsと開発者の生産性において最も著名な人物の一人であるニコール・フォースグレン博士と対談します。対談は、彼女の新著『Frictionless』のテーマである、開発者の摩擦を特定し、取り除くことについてです。ニコール・フォースグレン著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/podcasts/frictionless-devex/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 02 Mar 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>彼の家は火事で焼け落ちた。彼は保険金を使ってポップソケッツを作った。</title>
-      <link>https://techcrunch.com/video/his-house-burned-down-he-used-the-insurance-money-to-build-popsockets/</link>
-      <description>消費者向けハードウェア企業が成功するために、ベンチャーキャピタルのトレッドミルに乗る必要があるでしょうか？ 11年間で115か国で2億9000万個の製品を販売したPopSocketsは、ブートストラップ型の低希釈化の道が、業界が考える以上に実現可能であることを証明しました。この世界的な消費者向けハードウェアブランドは、50万ドル未満、機関投資家からの資金なし、そして哲学教授の強い決意で築かれました。創業者で元CEOの[…]をご覧ください。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/video/his-house-burned-down-he-used-the-insurance-money-to-build-popsockets/</guid>
-      <pubDate>Wed, 04 Mar 2026 19:34:26 +0000</pubDate>
+      <title>アーキテクチャアドバイスプロセスによるアーキテクチャ上の決定の分散化</title>
+      <link>https://www.infoq.com/news/2026/03/architecture-advice-process/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>テクノロジーと開発手法の進化に伴い、システムアーキテクチャは変化してきましたが、アーキテクチャの実践方法はそれに追いついていません。アンドリュー・ハーメル＝ロー氏によると、アーキテクチャは、システムを分散化してきたのと同様に、分散化される必要があります。アーキテクトが意思決定を行い、それを伝達する代わりに、アドバイスプロセスを用いて「誰でも意思決定できるようにする」という方法があります。ベン・リンダース著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/architecture-advice-process/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 05 Mar 2026 11:33:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

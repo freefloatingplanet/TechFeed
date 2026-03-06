@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Mar 2026 06:59:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 06:56:44 +0000</lastBuildDate>
     <item>
-      <title>デッドゾーン内縁における惑星形成 ― I：降着爆発と塵の成長の相互作用</title>
-      <link>https://arxiv.org/abs/2602.20283v1</link>
-      <description>原始惑星系円盤におけるデッドゾーンの内縁は周期的に不安定化し、デッドゾーン内に降着爆発と環状下部構造が形成されることが示されている。ダストの不透明度はこのプロセスにおいて重要な役割を果たしているものの、ダストの漂流と成長の熱的・力学的影響は十分に解明されていない。我々は、完全動的ダストモデルを用いて、内縁円盤における降着爆発の進化と、それがダストに富む下部構造の形成に与える影響を調査する。その過程で、この領域における惑星形成におけるダスト成長の重要性と限界を明らかにすることを目指す。デッドゾーンの内縁構造、粘性加熱および放射加熱、放射冷却、ダスト-ガスダイナミクス、そしてダストの進化に関する規定を含む、原始惑星系円盤の放射流体力学シミュレーションを実施する。内周円盤端における降着爆発は、複数のダストリングの形成につながり、これらのリングはデッドゾーンの奥深く（約1 au）まで広がり、粘性タイムスケール（α = 1e-4の場合、約10 kyr）で拡散する可能性があることがわかった。これらのリングには最大で地球質量の約1.6倍のダストリングが含まれており、惑星形成のきっかけとなる可能性があ (source: arXiv Query: search_query=all:observation AND (all:star OR all:stellar) AND (all:formation OR all:forming OR all:star-forming) AND (all:region OR all:regions OR all:cluster) AND ( (all:planetary AND all:mass) OR (all:brown AND all:dwarf) OR (all:free AND all:floating) )&amp;id_list=&amp;start=0&amp;max_results=20)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.20283v1</guid>
-      <pubDate>Mon, 23 Feb 2026 19:10:42 +0000</pubDate>
+      <title>LoRA-MME: コードコメント分類のための LoRA 調整エンコーダのマルチモデルアンサンブル</title>
+      <link>https://arxiv.org/abs/2603.03959v2</link>
+      <description>コードコメントの分類は、ソフトウェアの自動ドキュメント化と分析において重要なタスクです。NLBSE'26ツールコンペティションにおいて、パラメータ効率の高いファインチューニング（PEFT）を活用したマルチモデルアンサンブルアーキテクチャであるLoRA-MMEを紹介します。このアプローチは、UniXcoder、CodeBERT、GraphCodeBERT、CodeBERTaという4つの異なるトランスフォーマーエンコーダーの長所を組み合わせることで、Java、Python、Pharoにおけるマルチラベル分類の課題に対処します。これらのモデルをLow-Rank Adaptation（LoRA）を用いて個別にファインチューニングし、学習済みの重み付けアンサンブル戦略を用いて予測結果を集約することで、完全なモデルファインチューニングに伴うメモリオーバーヘッドなしに、分類性能を最大化します。このツールは、テストセットにおいてF1加重スコア0.7906、マクロF1スコア0.6867を達成しました。しかし、アンサンブルの計算コストにより、最終的な提出スコアは 41.20% となり、意味的正確性と推論効 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.03959v2</guid>
+      <pubDate>Wed, 04 Mar 2026 11:36:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

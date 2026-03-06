@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 06:58:56 +0000</lastBuildDate>
-    <item>
-      <title>多分これから起きること｜shi3z</title>
-      <link>https://note.com/shi3zblog/n/n834b60210766</link>
-      <description>自分で自分を改良する自己書き換え型エージェンティックAI、sikiをちまちま開発するのにハマっている(公開はしているがまだ安定していないので遊んでみるのはお勧めしない)。 結構答えはいい線いくのだが、いかんせん最初の反応が鈍い。 まあこれはGeminiでもChatGPTでも同じくらい最初の反応というのは遅いんだけど、快... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/shi3zblog/n/n834b60210766</guid>
-      <pubDate>Wed, 04 Mar 2026 02:02:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Mar 2026 06:56:37 +0000</lastBuildDate>
     <item>
       <title>【海外記事紹介】なぜ私のmalloc()は最初に必ず72KB確保するのか — libstdc++の奥まで潜って調べてみた</title>
       <link>https://techfeed.io/entries/69a7d15e4271131d91d595f6?from=rss</link>
@@ -68,24 +61,15 @@ Codex のデスクトップアプリの出現あたりから、私も利用し�
       <pubDate>Wed, 04 Mar 2026 00:30:01 +0000</pubDate>
     </item>
     <item>
-      <title>AIも広告もない。Windows 11 LTSCという"逃げ場"の現実｜情報の灯台</title>
-      <link>https://note.com/joho_no_todai/n/naf5e7d27dad9</link>
-      <description>コパイロットが常駐し、スタートメニューに広告が並び、毎週のように新しいAI機能が降ってくる。2026年のWindows 11は、ユーザーを便利にしているのか、それとも疲弊させているのか。そんな問いへの答えの一つが、ひっそりと存在している。 「これが本来のWindowsだ」と感じさせるOSWindows 11 IoT Enterprise LTSC（長... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/joho_no_todai/n/naf5e7d27dad9</guid>
-      <pubDate>Wed, 04 Mar 2026 13:24:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Async React時代の宣言的UI: デバウンスの例</title>
-      <link>https://zenn.dev/uhyo/articles/async-react-debounce</link>
-      <description>宣言的UIとは何か、皆さんは答えられるでしょうか。
-「あーあの、DOM更新を直接プログラムに書くんじゃなくて、JSXとかであるべき状態を宣言したらライブラリが自動的に差分適用とかでDOMを更新してくれるやつでしょ？」
-もちろん、このような答えは間違いではありません。しかし、特にAsync Reactの時代においては、Reactの考えはさらに先を行っているようです。
-究極的には、宣言的UIは、やりたいことをロジックとして記述するだけで、具体的なことや細かい最適化はよしなにやってくれるものだという考えが伝わってきます。上述のようなDOMの更新の話はその一例にすぎません。
-
-
-やりたいこと: ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/uhyo/articles/async-react-debounce</guid>
-      <pubDate>Mon, 02 Mar 2026 15:10:48 +0000</pubDate>
+      <title>リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法</title>
+      <link>https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+「前は動いてたのに、なぜか動かなくなった…」
+開発を進めていると、こんな経験をしたことがある方も多いのではないでしょうか。
+新機能の追加やバグ修正によって、既存の機能が壊れてしまう。これを防ぐために行うのが リグレッションテスト(回帰テスト) です。
+本記事で... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 05 Mar 2026 02:31:17 +0000</pubDate>
     </item>
     <item>
       <title>PRを送るだけでリポジトリを「乗っ取れる」？GitHub Actionsの危ない書き方を実際に検証してみた (hackerbot-claw)</title>
@@ -96,6 +80,24 @@ Codex のデスクトップアプリの出現あたりから、私も利用し�
 このStepSecurityの解析レポート... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/aeyesec/articles/417578718dcced</guid>
       <pubDate>Tue, 03 Mar 2026 00:37:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>友達の娘が「会わせたい人がいる」と彼氏を連れてきたが耳にずっとイヤホンをつけたままで時代を感じた話…「補聴器かもしれない」「だとしても彼氏が言うべき」など</title>
+      <link>https://togetter.com/li/2671476</link>
+      <description>友人の娘が父に彼氏を紹介した際、彼氏が終始イヤホンを外さず会話も礼儀に欠けていた。補聴器の可能性や事前の説明があれば別だが、家族に会う場なら配慮や娘からの連絡が必要。娘の教育や注意を促すべきとの意見が出ている。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2671476</guid>
+      <pubDate>Fri, 06 Mar 2026 03:59:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>4年間挫折し続けたWebアプリがClaude Codeで2週間で完成！ヒッタイト語学習サイト開発記</title>
+      <link>https://zenn.dev/astra_et_luna/articles/d8d0e89313d00f</link>
+      <description>はじめに
+「ヒッタイト語の学習サイトをつくりたい」
+どうも、Gassulawiyaです。大学院までヒッタイト語を研究していて、今はエンジニアをやっています。
+小学生の頃からヒッタイト帝国が大好きで、ドイツに留学して研究していました。楔形文字学の楽しさをもっと多くの人に届けたくて、ずっと学習サイトを作りたいと思っていました。エンジニアになって4年間、何度か挑戦しては挫折してきたのですが、2026年2月にClaude Codeを使って開発してみたところ、約2週間で形になるという驚きの体験がありました。
+公開後、電ファミニコゲーマーさんに取り上げていただいて、Xで58万インプレッションを記... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/astra_et_luna/articles/d8d0e89313d00f</guid>
+      <pubDate>Wed, 04 Mar 2026 14:01:55 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「エンジニアは今、マネージャーを目指すべきではない」 ― 激動のAI時代、現場を離れるのはハイリスクだという提言が話題に</title>
