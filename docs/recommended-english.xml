@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Mar 2026 06:56:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 06:49:23 +0000</lastBuildDate>
     <item>
       <title>（宇宙）SPACの復活</title>
       <link>https://spacenews.com/return-of-the-space-spac/</link>
@@ -35,6 +35,13 @@
       <description>宇宙は数十年にわたり、人類にとって最も過酷な実験場としての役割を果たしてきました。地球という保護圏の外にある真空、放射線、そして極限の温度環境に耐えられるのは、最も堅牢な技術だけなのです。今日、私たちは人工知能（AI）が宇宙での探査、理解、そして活動の方法を根本的に変える転換点を迎えています。しかし、AIを活用した宇宙開発は […] この記事「宇宙でAIを解き放つ：産業界と宇宙機関の連携強化の必要性」はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/</guid>
       <pubDate>Thu, 05 Mar 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ハイパースケーラーがあなたのすぐ近くに迫っています。勝敗はパワーで決まります。</title>
+      <link>https://spacenews.com/hyperscalers-are-coming-to-an-orbit-near-you-power-will-decide-the-winners/</link>
+      <description>通信メガコンステレーション、軌道上データセンター、次世代ペイロードの爆発的な成長に伴い、宇宙エコシステムは急速かつ不可逆的な変化の時代を迎えています。数万、数十万、そして今や100万を超える衛星コンステレーションの発表や申請が当たり前になりつつあります。ほんの一部でも[…] ハイパースケーラーがあなたの近くの軌道に到来。勝者はパワーで決まる。この記事はSpaceNewsに初掲載されました。 (source: SpaceNews)</description>
+      <guid isPermaLink="true">https://spacenews.com/hyperscalers-are-coming-to-an-orbit-near-you-power-will-decide-the-winners/</guid>
+      <pubDate>Fri, 06 Mar 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

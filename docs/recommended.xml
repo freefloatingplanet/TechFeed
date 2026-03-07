@@ -7,58 +7,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 06:56:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 06:49:20 +0000</lastBuildDate>
     <item>
-      <title>【海外記事紹介】なぜ私のmalloc()は最初に必ず72KB確保するのか — libstdc++の奥まで潜って調べてみた</title>
-      <link>https://techfeed.io/entries/69a7d15e4271131d91d595f6?from=rss</link>
-      <description>3月2日、Joel Siks氏が「Why is my first C++ (m)allocation always 72 KB?」と題したブログ記事を公開し、話題を呼んでいる。この記事では、著者の特定の開発環境において、C++プログラムの実行直後に必ず発生していた「72 KB」というメモリ割り当ての要因について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/69a7d15e4271131d91d595f6?from=rss</guid>
-      <pubDate>Wed, 04 Mar 2026 06:29:49 +0000</pubDate>
+      <title>AIに「4人の架空キャラ」を作って会議参加してもらったら、一人企画会議が最高に楽しくなった｜あきらパパ</title>
+      <link>https://note.com/akira_papa_ai/n/nc789792da859</link>
+      <description>個人開発をしていると、企画って基本一人で考えますよね。 私も日中は開発現場でエンジニアチームの一員として働いているのですが、夜間や土日は1人で副業開発しています。 で、1人だと、 「このアイデア、いける気がする！」って盛り上がって、でもしばらくすると「あれ、本当にこれでいいんだっけ…」ってなる。壁打ち... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/akira_papa_ai/n/nc789792da859</guid>
+      <pubDate>Mon, 02 Mar 2026 03:08:56 +0000</pubDate>
     </item>
     <item>
-      <title>動的型付け言語はそろそろ淘汰されるべき</title>
-      <link>https://zenn.dev/headwaters/articles/53f51eb428dab6</link>
-      <description>Pythonがめっちゃ嫌い
-私はPythonが嫌いです。
-というより、動的型付け言語が嫌いです。
-Jupyter Notebook (Google Colab) などの、セル単位での実行が有効な状況であれば、動的型付け言語のメリットは十分に活きると思います。
-しかし、一般的なプロダクト開発においては、動的型付け言語のメリットはもはや過去のものになっていると感じます。
-そう考える理由について、プログラミング言語の歴史を振り返りながら、私の考えを述べていきたいと思います。
-!
-この記事には筆者の個人的な見解が多分に含まれています。
-Pythonや動的型付け言語が好きな人は、ぜひコメントで... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/53f51eb428dab6</guid>
-      <pubDate>Wed, 04 Mar 2026 09:15:26 +0000</pubDate>
+      <title>デザイナーのためのコンポーネント設計論</title>
+      <link>https://zenn.dev/yy/books/b62994c6b0b1e9</link>
+      <description>デザインシステムが小難しくてよくわからない・これでいいのか不安がある、というプロダクトデザイナー・UIデザイナーに向けたガイドです。暗黙知になりがちなセオリーやプラクティスを徹底的に言語化しました。デザイン観点と実装観点を統合的に扱っているので、各社内のデザイナーがキャッチアップする教材、エンジニア・デザイナーで読み合わせていただくためのドキュメントとして活用いただけます。 (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yy/books/b62994c6b0b1e9</guid>
+      <pubDate>Wed, 04 Mar 2026 07:20:04 +0000</pubDate>
     </item>
     <item>
-      <title>状態と性質を区別して考える</title>
-      <link>https://zenn.dev/knowledgework/articles/95f30cfd155b5d</link>
-      <description>この記事は、「KNOWLEDGE WORK Blog Sprint 2026 Spring」第3日目の記事になります。
-ナレッジワークでエンジニアリングマネージャーをしているhiroです。チーム内の開発トピックに対して主にバックエンドの設計・実装レビューを行っており、最近は少し減ってしまいましたが、実装にも携わっています。
-本記事では前回のBlog Sprintで弊社CTOが公開した「操作より状態・性質に着目する」の続きとして、「状態と性質を区別して考える」というテーマで設計や実装のヒントになる考え方を書きます。
-https://zenn.dev/knowledgework/articl... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/95f30cfd155b5d</guid>
-      <pubDate>Wed, 04 Mar 2026 03:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>備忘録 : Codexでいくつか機能が追加された</title>
-      <link>https://zenn.dev/tech_discovery/articles/263d67ac5df0d3</link>
+      <title>Pull Requestのコードレビューをやめてモブレビューにする</title>
+      <link>https://zenn.dev/cariot_dev/articles/64a06e45e38a9e</link>
       <description>はじめに
-Codex の情報はずっと追えていないので備忘録的に書いていこうと思います
-Codex のデスクトップアプリの出現あたりから、私も利用し始めたのでこの記事では2月初旬から今日までで更新や追加のあった機能や個人的に便利な機能などについてまとめていこうと思います
+チームで開発を行う場合、Pull Request(プルリク)ベースの開発が当たり前になっています。
 
- TL;DR
+担当者（レビューイ）がPull Requestを作ってレビューを依頼する
+レビュアーがレビューを行う
+レビュアーから承認をもらったらマージする
 
-音声入力がTUIで使えるようになった
-マルチエージェントが強化され、並列実行・ネスト・スレッドフォークまで可能に
-視認性と操作性（ハイライト、/copy、/clear）が改善
-メモリやスレッドの取り扱い、リアルタイム音声、ツール出力が堅くなった
-
-
- CLI での音声入力
-まず大きいのは音声入力です。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tech_discovery/articles/263d67ac5df0d3</guid>
-      <pubDate>Wed, 04 Mar 2026 00:30:01 +0000</pubDate>
+という流れですね。
+Claude CodeなどのAIエージェントを駆使した開発（Vibe Coding、Agentic Coding、仕様駆動開発、AI-DLCなど）が進んでいく中で、プルリクを「人間」が都度レビューをするというプロセスの常識を疑う時期が来ているのかと思い「プルリクをレビューしない開発プロセス」を考えてみたいと思い... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/cariot_dev/articles/64a06e45e38a9e</guid>
+      <pubDate>Thu, 05 Mar 2026 05:51:30 +0000</pubDate>
     </item>
     <item>
       <title>リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法</title>
@@ -72,32 +49,38 @@ Codex のデスクトップアプリの出現あたりから、私も利用し�
       <pubDate>Thu, 05 Mar 2026 02:31:17 +0000</pubDate>
     </item>
     <item>
-      <title>PRを送るだけでリポジトリを「乗っ取れる」？GitHub Actionsの危ない書き方を実際に検証してみた (hackerbot-claw)</title>
-      <link>https://zenn.dev/aeyesec/articles/417578718dcced</link>
-      <description>こんにちは！エーアイセキュリティラボのはるぷです。
-2026年2月下旬、オープンソース界隈を揺るがす自動攻撃キャンペーンが実施されました。ターゲットとなったのは、誰もが名前を知るような大手企業のプロジェクトを含む主要なリポジトリ群。攻撃の主導者は 「hackerbot-claw」 と呼ばれる、AI（Claude-Opus-4.5）を搭載した自律型セキュリティ調査エージェントです。
-このボットはわずか1週間で、7つのターゲットのうち少なくとも4つでリモートコード実行（RCE）に成功し、書き込み権限を持つGitHubトークンを外部へ流出させました。
-このStepSecurityの解析レポート... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aeyesec/articles/417578718dcced</guid>
-      <pubDate>Tue, 03 Mar 2026 00:37:27 +0000</pubDate>
+      <title>ポップコーンUIとReact</title>
+      <link>https://zenn.dev/akfm/articles/popcorn-ui-anti-pattern</link>
+      <description>ページアクセス時に複数のローディングスピナーがランダムに表示され、徐々にコンテンツに置き換わっていくような体験に遭遇したこと、もしくは実装した経験はあるでしょうか？ReactチームはこのようなUIを、ポップコーンが弾ける様子に例えてポップコーンUIと揶揄しています。
+このようなUIはユーザー体験として好ましくありませんが、よくみられるUIでもあります。Reactにおいて、コンポーネント内でデータフェッチを扱う方法は様々ありますが、複数のコンポーネントでローディング状態をハンドリングしてしまうとポップコーンUIになりがちです。
+開発者が意図してより良い体験を実装すべきとも考えられますが、単... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/akfm/articles/popcorn-ui-anti-pattern</guid>
+      <pubDate>Fri, 06 Mar 2026 06:00:37 +0000</pubDate>
     </item>
     <item>
-      <title>友達の娘が「会わせたい人がいる」と彼氏を連れてきたが耳にずっとイヤホンをつけたままで時代を感じた話…「補聴器かもしれない」「だとしても彼氏が言うべき」など</title>
-      <link>https://togetter.com/li/2671476</link>
-      <description>友人の娘が父に彼氏を紹介した際、彼氏が終始イヤホンを外さず会話も礼儀に欠けていた。補聴器の可能性や事前の説明があれば別だが、家族に会う場なら配慮や娘からの連絡が必要。娘の教育や注意を促すべきとの意見が出ている。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2671476</guid>
-      <pubDate>Fri, 06 Mar 2026 03:59:07 +0000</pubDate>
+      <title>OSSにおけるAI Slop問題の何が問題なのか？</title>
+      <link>https://zenn.dev/yusukebe/articles/3fd5bc6ea341c9</link>
+      <description>Honoは2021年の12月に開発が始まって4年と少し経つ。たぶん、あなたが想像する以上に大きくなっている。GitHubのスターは現時点で29.2K。これは日本人発OSSで観測する限り第3位の数字だ。最近ではMCP公式SDKの依存に入り、ダウンロード数はうなぎのぼり。月間1億ダウンロードが近い。Cloudflareは多くのプロダクトでHonoを使っている。
+これだけ大きな規模のOSSに、クリエーター、もしくはメンテナとして関わることは非常に貴重な経験である。そこにはみなさんが見ていない景色が広がっている。
+Honoの開発において「憂鬱な」こともたくさんある。ただ、それを上回る楽しいことが... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yusukebe/articles/3fd5bc6ea341c9</guid>
+      <pubDate>Fri, 06 Mar 2026 03:51:29 +0000</pubDate>
     </item>
     <item>
-      <title>4年間挫折し続けたWebアプリがClaude Codeで2週間で完成！ヒッタイト語学習サイト開発記</title>
-      <link>https://zenn.dev/astra_et_luna/articles/d8d0e89313d00f</link>
-      <description>はじめに
-「ヒッタイト語の学習サイトをつくりたい」
-どうも、Gassulawiyaです。大学院までヒッタイト語を研究していて、今はエンジニアをやっています。
-小学生の頃からヒッタイト帝国が大好きで、ドイツに留学して研究していました。楔形文字学の楽しさをもっと多くの人に届けたくて、ずっと学習サイトを作りたいと思っていました。エンジニアになって4年間、何度か挑戦しては挫折してきたのですが、2026年2月にClaude Codeを使って開発してみたところ、約2週間で形になるという驚きの体験がありました。
-公開後、電ファミニコゲーマーさんに取り上げていただいて、Xで58万インプレッションを記... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/astra_et_luna/articles/d8d0e89313d00f</guid>
-      <pubDate>Wed, 04 Mar 2026 14:01:55 +0000</pubDate>
+      <title>久々にOllamaを触ったら、量子化で別物になってた</title>
+      <link>https://zenn.dev/dassimen/articles/fb7c9c893479ee</link>
+      <description>本記事の構成について
+この記事は、AIを使用して構成の整理や下書きを支援してもらっています。
+しかし、内容は精査の上理解を表現しています。
+
+ まずはじめに
+久々にOllamaのドキュメントを開いたら、見慣れない単語が目に入った。
+量子化（Quantization）
+以前にOllamaを触ったとき（前回の記事）は、gemma3を動かして「ローカルでLLMが動いた！」という体験がメインだった。
+当時のドキュメントには「7BモデルはRAM 8GB必要」「13BモデルはRAM 16GB必要」といった目安表があったはずだ。
+今回ドキュメントを見ると、その表が消えていた。代わりに量子化まわりの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dassimen/articles/fb7c9c893479ee</guid>
+      <pubDate>Wed, 04 Mar 2026 16:25:15 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「エンジニアは今、マネージャーを目指すべきではない」 ― 激動のAI時代、現場を離れるのはハイリスクだという提言が話題に</title>
@@ -105,6 +88,21 @@ Codex のデスクトップアプリの出現あたりから、私も利用し�
       <description>3月4日、manager.devが「Don't become an Engineering Manager」と題した記事を公開した。この記事では、マネジメント職（EM：エンジニアリングマネージャー）への転身に伴う近年のリスクと、「現場のエンジニア」（IC：Individual Contributor）としてキャリアを継続することの合理性について詳しく紹介されている。以下に、その内容と、テック業界の主要コミュニティであるHacker Newsのスレッドなどで巻き起こっている議論を合わせて紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/69a7cca44271131d91d5944c?from=rss</guid>
       <pubDate>Wed, 04 Mar 2026 06:09:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Figma不要論はまだ早い。かもしれない。AIは「りんご」の味を知らないから。</title>
+      <link>https://zenn.dev/kazhack/articles/ca8dcebdd9f10b</link>
+      <description>!
+本記事は、『試して学ぶ Figma MCPサーバー AIを活用したプロダクト開発』の著者が、書籍には書き記せなかった内容を補足するために著者自身が手作業で執筆したものです。
+本記事の内容は、著者の個人的な見解であり、著者が所属する会社の公式見解ではありません。
+また、特定のSNS投稿や投稿者を否定するものではなく、Figmaを活用したデザインプロセスの考察を目的としています。
+本記事で使用している画像は、Google Geminiのnano banana 2を使用して生成されています。
+
+
+ はじめに
+先日、Xでは「Figma不要論」が話題になっており、多くのデザイナーやエンジニアに... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kazhack/articles/ca8dcebdd9f10b</guid>
+      <pubDate>Thu, 05 Mar 2026 09:38:00 +0000</pubDate>
     </item>
     <item>
       <title>コミュニティ主導で新たなnpmビューアー「npmx」が爆誕 — 2週間で1,000PR、「オープンソースのあるべき姿」と絶賛される</title>

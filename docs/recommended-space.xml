@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 06:56:41 +0000</lastBuildDate>
-    <item>
-      <title>NASAがマイケル・フィンク宇宙飛行士のコメントを公表　1月にISSで発生した医療上の事案に関連</title>
-      <link>https://sorae.info/space/20260227-crew-11-mike-fincke.html</link>
-      <description>NASA（アメリカ航空宇宙局）は2026年2月25日付で、アメリカ企業SpaceX（スペースX）のCrew Dragon（クルードラゴン）宇宙船による有人宇宙飛行ミッション「Crew-11（クルー11）」の一員としてIS… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260227-crew-11-mike-fincke.html</guid>
-      <pubDate>Sat, 28 Feb 2026 09:13:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>塵に阻まれても美しい姿　ハッブル宇宙望遠鏡が捉えた“隠された銀河”こと「IC 342」</title>
-      <link>https://sorae.info/astronomy/20260227-ic-342.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した渦巻銀河「IC 342」。 きりん座の方向、約1100万光年先にあります。 高温のガスと星々が集まる銀河の明るい中心部、その周りでは塵の豊富な暗い雲が入り組んだ模様を描き、… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260227-ic-342.html</guid>
-      <pubDate>Fri, 27 Feb 2026 13:25:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Mar 2026 06:49:28 +0000</lastBuildDate>
     <item>
       <title>スペースワンが「カイロス」3号機を打ち上げ　飛行中断措置を行い衛星軌道投入できず</title>
       <link>https://sorae.info/ssn/20260305-kairos-3.html</link>
@@ -35,6 +21,13 @@
       <description>太陽より重い恒星は、寿命の最後に「超新星爆発（※1）」という激しい現象を起こし、その中心部に中性子星かブラックホールを残します。このうちブラックホールは、太陽の20～30倍以上というかなり重い恒星の超新星爆発で作られると… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260228-failed-supernova-candidate.html</guid>
       <pubDate>Sat, 28 Feb 2026 12:00:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>小惑星「2024 YR4」が2032年に月へ衝突する確率はゼロに　ウェッブ宇宙望遠鏡が最新データ提供</title>
+      <link>https://sorae.info/astronomy/20260306-2024-yr4.html</link>
+      <description>NASA（アメリカ航空宇宙局）は2026年3月5日付けで、小惑星「2024 YR4」に関する最新の軌道解析が行われた結果、この小惑星が2032年12月に月へ衝突する可能性が完全に排除されたと発表しました。 月への衝突確率… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260306-2024-yr4.html</guid>
+      <pubDate>Fri, 06 Mar 2026 10:11:46 +0000</pubDate>
     </item>
     <item>
       <title>52歳、IT企業でAI業務に従事「今いる業界で専門性を磨きながら、将来、宇宙ビジネスに関わるため、どのような準備が必要ですか？」【宇宙ビジネスキャリア相談室】【PR】</title>
