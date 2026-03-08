@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Mar 2026 06:49:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 06:51:23 +0000</lastBuildDate>
     <item>
       <title>OktaからLaravelアプリにユーザーを同期する方法</title>
       <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
@@ -37,11 +37,18 @@
       <pubDate>Fri, 06 Mar 2026 09:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
+      <title>WorkOS Pipes: 面倒な手間なくサードパーティ製品と統合</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
       <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。そこで、OAuthフロー、トークン管理、プロバイダー設定を自動化するPipesを開発しました。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>量子コンピュータ耐性IPsecの標準化：CloudflareがハイブリッドML-KEMを採用し、暗号スイートの肥大化を解消</title>
+      <link>https://www.infoq.com/news/2026/03/cloudflare-post-quantum-ipsec/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Cloudflareは、ハイブリッド耐量子暗号をIPsecとWANトラフィックに拡張し、NIST 2030の期限に先立ちSASEスタックを標準化しました。簡素化されたML-KEM鍵交換を採用することで、耐量子IPsecにおける長年の「暗号スイート肥大化」に対処します。このアップデートは、特殊なハードウェアのアップグレードを必要とせずに、「今すぐ収集、後で復号」する脅威を無力化することを目的としています。Steef-Jan Wiggers著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/cloudflare-post-quantum-ipsec/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 07 Mar 2026 10:45:00 +0000</pubDate>
     </item>
     <item>
       <title>グローバルスケールのアーキテクチャ：DoorDashの統合型コンポーザブルDasherオンボーディングプラットフォーム</title>
@@ -63,13 +70,6 @@
       <description>オーストラリアは、ネットいじめ、ソーシャルメディア依存、捕食者への露出など、ソーシャルメディア上で若いユーザーが直面する可能性のあるプレッシャーとリスクを軽減することを目的として、2025年後半に禁止令を出した最初の国です。 (source: TechCrunch)</description>
       <guid isPermaLink="true">https://techcrunch.com/2026/03/06/social-media-ban-children-countries-list/</guid>
       <pubDate>Fri, 06 Mar 2026 16:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google、Gemini CLI Conductor に自動レビュー機能を導入</title>
-      <link>https://www.infoq.com/news/2026/03/gemini-cli-conductor-reviews/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Googleは、Gemini CLI拡張機能「Conductor」を強化し、自動レビュー機能を追加しました。同社によると、このアップデートによりConductorは「計画と実行だけでなく検証にも活用できる」ようになり、AI生成コードの品質とガイドライン遵守を検証できるようになり、AI支援開発ワークフローにおける信頼性、安全性、そして制御性が向上します。Sergio De Simone著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/gemini-cli-conductor-reviews/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 03 Mar 2026 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>アーキテクチャアドバイスプロセスによるアーキテクチャ上の決定の分散化</title>

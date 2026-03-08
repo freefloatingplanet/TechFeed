@@ -7,13 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Mar 2026 06:49:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 06:51:11 +0000</lastBuildDate>
     <item>
-      <title>AIに「4人の架空キャラ」を作って会議参加してもらったら、一人企画会議が最高に楽しくなった｜あきらパパ</title>
-      <link>https://note.com/akira_papa_ai/n/nc789792da859</link>
-      <description>個人開発をしていると、企画って基本一人で考えますよね。 私も日中は開発現場でエンジニアチームの一員として働いているのですが、夜間や土日は1人で副業開発しています。 で、1人だと、 「このアイデア、いける気がする！」って盛り上がって、でもしばらくすると「あれ、本当にこれでいいんだっけ…」ってなる。壁打ち... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/akira_papa_ai/n/nc789792da859</guid>
-      <pubDate>Mon, 02 Mar 2026 03:08:56 +0000</pubDate>
+      <title>Firefoxがデザインの大幅な刷新を計画中：「Nova」が提示するUIの転換点とMozillaの決定的な焦燥 | XenoSpectrum</title>
+      <link>https://xenospectrum.com/firefox-nova-redesign-ui-strategy/</link>
+      <description>Webブラウザ市場において長らく苦境に立たされているMozillaが、起死回生の策ともとれる大規模なデザイン刷新に着手している。社内で「Nova（ノバ）」というコードネームで呼ばれるこの次期デザインは、従来の四角く堅牢な印象を完全に払拭し、極端なまでの曲線と浮遊感、そして鮮やかな色彩を取り入れようとしている。2... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://xenospectrum.com/firefox-nova-redesign-ui-strategy/</guid>
+      <pubDate>Sat, 07 Mar 2026 04:35:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI生成PRが自分のOSSプロジェクトに送られてくることについて思うこと、コントリビューターにできる助け方</title>
+      <link>https://zenn.dev/dai_shi/articles/a686bdf7fd5800</link>
+      <description>英語で書いた記事の日本語版です。
+https://newsletter.daishikato.com/p/my-thoughts-on-ai-generated-prs-for-my-oss-projects
+
+こんにちは。
+AI支援コーディングは素晴らしいものです。これは間違いないです。ただ、OSSへのコントリビュートという文脈になると、話は少し複雑になります。
+
+ 問題点
+自分のOSSプロジェクトにPRが届くと、私はそれを見て判断する必要があります。その時点では、そのPRにどれくらいAI支援が使われたのかはわかりません。
+極端な例で考えてみます。もしPRが100% AI生成だったとす... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dai_shi/articles/a686bdf7fd5800</guid>
+      <pubDate>Sat, 07 Mar 2026 04:22:26 +0000</pubDate>
     </item>
     <item>
       <title>デザイナーのためのコンポーネント設計論</title>
@@ -21,21 +36,6 @@
       <description>デザインシステムが小難しくてよくわからない・これでいいのか不安がある、というプロダクトデザイナー・UIデザイナーに向けたガイドです。暗黙知になりがちなセオリーやプラクティスを徹底的に言語化しました。デザイン観点と実装観点を統合的に扱っているので、各社内のデザイナーがキャッチアップする教材、エンジニア・デザイナーで読み合わせていただくためのドキュメントとして活用いただけます。 (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/yy/books/b62994c6b0b1e9</guid>
       <pubDate>Wed, 04 Mar 2026 07:20:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pull Requestのコードレビューをやめてモブレビューにする</title>
-      <link>https://zenn.dev/cariot_dev/articles/64a06e45e38a9e</link>
-      <description>はじめに
-チームで開発を行う場合、Pull Request(プルリク)ベースの開発が当たり前になっています。
-
-担当者（レビューイ）がPull Requestを作ってレビューを依頼する
-レビュアーがレビューを行う
-レビュアーから承認をもらったらマージする
-
-という流れですね。
-Claude CodeなどのAIエージェントを駆使した開発（Vibe Coding、Agentic Coding、仕様駆動開発、AI-DLCなど）が進んでいく中で、プルリクを「人間」が都度レビューをするというプロセスの常識を疑う時期が来ているのかと思い「プルリクをレビューしない開発プロセス」を考えてみたいと思い... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/cariot_dev/articles/64a06e45e38a9e</guid>
-      <pubDate>Thu, 05 Mar 2026 05:51:30 +0000</pubDate>
     </item>
     <item>
       <title>リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法</title>
@@ -56,6 +56,23 @@ Claude CodeなどのAIエージェントを駆使した開発（Vibe Coding、Ag
 開発者が意図してより良い体験を実装すべきとも考えられますが、単... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/akfm/articles/popcorn-ui-anti-pattern</guid>
       <pubDate>Fri, 06 Mar 2026 06:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【2026年版】大阪公立大学の学生システム開発チームで使用している技術スタック</title>
+      <link>https://zenn.dev/omu_tryangle/articles/29115afcef04eb</link>
+      <description>大阪公立大学の情報システム部門では、ITスキルを持つ学生を雇用して、学生目線で新規システムの企画開発から運用までを一貫して担当しています。
+そんな学生開発のシステムでは、どんな技術スタックが使用されているのか…？今回はフロントエンドからバックエンド、更にはインフラに至るまでご紹介していきたいと思います！
+
+ まとめ
+全体を俯瞰してみるとこんな感じ。
+
+※印のものは、現在メインで使用中のスタックに置換え予定です
+
+ フロントエンド
+TryAngleでは、Webアプリを中心に開発しています。
+フロントエンド開発においては、なるべく外部ライブラリへの依存を小さくすることを目標にしています。もち... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/omu_tryangle/articles/29115afcef04eb</guid>
+      <pubDate>Fri, 06 Mar 2026 04:41:55 +0000</pubDate>
     </item>
     <item>
       <title>OSSにおけるAI Slop問題の何が問題なのか？</title>
@@ -88,21 +105,6 @@ Honoの開発において「憂鬱な」こともたくさんある。ただ、�
       <description>3月4日、manager.devが「Don't become an Engineering Manager」と題した記事を公開した。この記事では、マネジメント職（EM：エンジニアリングマネージャー）への転身に伴う近年のリスクと、「現場のエンジニア」（IC：Individual Contributor）としてキャリアを継続することの合理性について詳しく紹介されている。以下に、その内容と、テック業界の主要コミュニティであるHacker Newsのスレッドなどで巻き起こっている議論を合わせて紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/69a7cca44271131d91d5944c?from=rss</guid>
       <pubDate>Wed, 04 Mar 2026 06:09:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Figma不要論はまだ早い。かもしれない。AIは「りんご」の味を知らないから。</title>
-      <link>https://zenn.dev/kazhack/articles/ca8dcebdd9f10b</link>
-      <description>!
-本記事は、『試して学ぶ Figma MCPサーバー AIを活用したプロダクト開発』の著者が、書籍には書き記せなかった内容を補足するために著者自身が手作業で執筆したものです。
-本記事の内容は、著者の個人的な見解であり、著者が所属する会社の公式見解ではありません。
-また、特定のSNS投稿や投稿者を否定するものではなく、Figmaを活用したデザインプロセスの考察を目的としています。
-本記事で使用している画像は、Google Geminiのnano banana 2を使用して生成されています。
-
-
- はじめに
-先日、Xでは「Figma不要論」が話題になっており、多くのデザイナーやエンジニアに... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kazhack/articles/ca8dcebdd9f10b</guid>
-      <pubDate>Thu, 05 Mar 2026 09:38:00 +0000</pubDate>
     </item>
     <item>
       <title>コミュニティ主導で新たなnpmビューアー「npmx」が爆誕 — 2週間で1,000PR、「オープンソースのあるべき姿」と絶賛される</title>
