@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Mar 2026 06:51:11 +0000</lastBuildDate>
-    <item>
-      <title>Firefoxがデザインの大幅な刷新を計画中：「Nova」が提示するUIの転換点とMozillaの決定的な焦燥 | XenoSpectrum</title>
-      <link>https://xenospectrum.com/firefox-nova-redesign-ui-strategy/</link>
-      <description>Webブラウザ市場において長らく苦境に立たされているMozillaが、起死回生の策ともとれる大規模なデザイン刷新に着手している。社内で「Nova（ノバ）」というコードネームで呼ばれるこの次期デザインは、従来の四角く堅牢な印象を完全に払拭し、極端なまでの曲線と浮遊感、そして鮮やかな色彩を取り入れようとしている。2... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://xenospectrum.com/firefox-nova-redesign-ui-strategy/</guid>
-      <pubDate>Sat, 07 Mar 2026 04:35:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Mar 2026 07:08:08 +0000</lastBuildDate>
     <item>
       <title>AI生成PRが自分のOSSプロジェクトに送られてくることについて思うこと、コントリビューターにできる助け方</title>
       <link>https://zenn.dev/dai_shi/articles/a686bdf7fd5800</link>
@@ -31,22 +24,21 @@ AI支援コーディングは素晴らしいものです。これは間違いな
       <pubDate>Sat, 07 Mar 2026 04:22:26 +0000</pubDate>
     </item>
     <item>
-      <title>デザイナーのためのコンポーネント設計論</title>
-      <link>https://zenn.dev/yy/books/b62994c6b0b1e9</link>
-      <description>デザインシステムが小難しくてよくわからない・これでいいのか不安がある、というプロダクトデザイナー・UIデザイナーに向けたガイドです。暗黙知になりがちなセオリーやプラクティスを徹底的に言語化しました。デザイン観点と実装観点を統合的に扱っているので、各社内のデザイナーがキャッチアップする教材、エンジニア・デザイナーで読み合わせていただくためのドキュメントとして活用いただけます。 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yy/books/b62994c6b0b1e9</guid>
-      <pubDate>Wed, 04 Mar 2026 07:20:04 +0000</pubDate>
+      <title>小惑星の公転軌道を人為的に変えることに成功　「天体衝突で人類滅亡」回避へ道筋</title>
+      <link>https://japan.cnet.com/article/35244754/</link>
+      <description>NASAは、小惑星に探査機を衝突させて軌道を変える実験「DARTミッション」によって、二重小惑星系の太陽周回軌道（公転軌道）にも変化が生じていたとする研究結果を発表した。人間が作った物体によって、天体の太陽周回軌道が測定可能な形で変えられたのは初めてだとしている。 探査機「DART」は2022年9月、地球防衛技術... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://japan.cnet.com/article/35244754/</guid>
+      <pubDate>Sun, 08 Mar 2026 23:34:56 +0000</pubDate>
     </item>
     <item>
-      <title>リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法</title>
-      <link>https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-「前は動いてたのに、なぜか動かなくなった…」
-開発を進めていると、こんな経験をしたことがある方も多いのではないでしょうか。
-新機能の追加やバグ修正によって、既存の機能が壊れてしまう。これを防ぐために行うのが リグレッションテスト(回帰テスト) です。
-本記事で... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 05 Mar 2026 02:31:17 +0000</pubDate>
+      <title>Claude Code に `cc` というエイリアスをつけたら PC がハングした話（原因は別でした）</title>
+      <link>https://zenn.dev/owayo/articles/6190821ac1dd1e</link>
+      <description>!
+2026-03-08 訂正:
+初版では「alias cc='claude ...' が原因で tree-sitter がCコンパイラの代わりに Claude Code を起動し、メモリが暴走した」と記載していました。しかし、コメントの指摘を受けて検証した結果、tree-sitter は Rust の std::process::Command（内部で execvp）を使って cc を呼び出すため、シェルエイリアスは解決されないことがわかりました。メモリ暴走の真の原因は tree-sitter test コマンド自体の既知の問題だと思われます。以下、訂正版です。
+ただし、cc をエイリ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/owayo/articles/6190821ac1dd1e</guid>
+      <pubDate>Thu, 05 Mar 2026 13:35:36 +0000</pubDate>
     </item>
     <item>
       <title>ポップコーンUIとReact</title>
@@ -58,21 +50,39 @@ AI支援コーディングは素晴らしいものです。これは間違いな
       <pubDate>Fri, 06 Mar 2026 06:00:37 +0000</pubDate>
     </item>
     <item>
-      <title>【2026年版】大阪公立大学の学生システム開発チームで使用している技術スタック</title>
-      <link>https://zenn.dev/omu_tryangle/articles/29115afcef04eb</link>
-      <description>大阪公立大学の情報システム部門では、ITスキルを持つ学生を雇用して、学生目線で新規システムの企画開発から運用までを一貫して担当しています。
-そんな学生開発のシステムでは、どんな技術スタックが使用されているのか…？今回はフロントエンドからバックエンド、更にはインフラに至るまでご紹介していきたいと思います！
+      <title>「How」から「Why」へ。ジュニアを卒業するための視座の上げ方：『ソフトウェアアーキテクチャの基礎』を読み解く</title>
+      <link>https://zenn.dev/zenn_mita/articles/6ac0edb5689c42</link>
+      <description>目次
 
- まとめ
-全体を俯瞰してみるとこんな感じ。
+初めに
+結論
+システムアーキテクチャとは
+システムデザインとは
+なぜ、すべての「良いデザイン」を詰め込めないのか？
+なぜ『なぜそうしたか』が重要なのか
+日々の業務で意識すべきこと
+まとめ：アーキ・デザインへの理解がミドルへの第一歩
 
-※印のものは、現在メインで使用中のスタックに置換え予定です
 
- フロントエンド
-TryAngleでは、Webアプリを中心に開発しています。
-フロントエンド開発においては、なるべく外部ライブラリへの依存を小さくすることを目標にしています。もち... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/omu_tryangle/articles/29115afcef04eb</guid>
-      <pubDate>Fri, 06 Mar 2026 04:41:55 +0000</pubDate>
+ 初めに
+AIが普及した今、単なる「作業員」であるジュニアの価値は著しく落ちており、早急に意思決定に責任を持つミドル・シニアクラスへ上がることが求められていると感じています。
+それらを達成し、エンジニアが価値を生み出すためには、
+自分なりの意見を持ち、意思決定に対して責任を持つことが重要だと考えています。
+システムアーキテクチャ・システムデザイ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/zenn_mita/articles/6ac0edb5689c42</guid>
+      <pubDate>Sat, 07 Mar 2026 03:20:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>GraphRAGを実際に構築して分かった「使うほど賢くなるAI」の仕組み</title>
+      <link>https://zenn.dev/okikusan/articles/0f8295e7ecaa19</link>
+      <description>はじめに ─ 「AIに文書を読ませる」だけでは足りなかった
+最近、「社内の文書をAIに読ませて質問に答えさせる」という仕組みを耳にする機会が増えました。いわゆる RAG（Retrieval Augmented Generation） です。
+これ、確かに便利なんです。マニュアルや規則集をAIに渡しておけば、「この手続きどうやるの？」と聞くだけで答えが返ってくる。
+でも、実際に数千件のドキュメントを扱うシステムを作ってみて気づいたことがあります。
+「文書を読ませる」だけでは、AIは賢くならない。
+人間が知識を使うとき、「AならばB、BならばC」と 知識のつながり を辿って考えますよね。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/okikusan/articles/0f8295e7ecaa19</guid>
+      <pubDate>Sat, 07 Mar 2026 09:37:15 +0000</pubDate>
     </item>
     <item>
       <title>OSSにおけるAI Slop問題の何が問題なのか？</title>
@@ -84,20 +94,23 @@ Honoの開発において「憂鬱な」こともたくさんある。ただ、�
       <pubDate>Fri, 06 Mar 2026 03:51:29 +0000</pubDate>
     </item>
     <item>
-      <title>久々にOllamaを触ったら、量子化で別物になってた</title>
-      <link>https://zenn.dev/dassimen/articles/fb7c9c893479ee</link>
-      <description>本記事の構成について
-この記事は、AIを使用して構成の整理や下書きを支援してもらっています。
-しかし、内容は精査の上理解を表現しています。
+      <title>まだAIコードをレビューするか、しないかで言い争ってるの？</title>
+      <link>https://zenn.dev/nuits_jp/articles/2026-03-08-reviewing-ai-code</link>
+      <description>AIが生成したコードをレビューするべきかどうか、という議論は定期的に起こります。
+3カ月以上その問題に悩んでいる人は、たぶんとっくに何らかの結論に達していると思います。
 
- まずはじめに
-久々にOllamaのドキュメントを開いたら、見慣れない単語が目に入った。
-量子化（Quantization）
-以前にOllamaを触ったとき（前回の記事）は、gemma3を動かして「ローカルでLLMが動いた！」という体験がメインだった。
-当時のドキュメントには「7BモデルはRAM 8GB必要」「13BモデルはRAM 16GB必要」といった目安表があったはずだ。
-今回ドキュメントを見ると、その表が消えていた。代わりに量子化まわりの... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dassimen/articles/fb7c9c893479ee</guid>
-      <pubDate>Wed, 04 Mar 2026 16:25:15 +0000</pubDate>
+2026.03.08 改修メモ
+レビュー0に拘り過ぎているように読めたので、表現を全体的に柔らかくしました。
+つまりナーフして少し火力を下げました。
+
+
+ 私の結論
+
+品質を維持したままコードレビューを減らせるよう、開発プロセス全体を改善する必要がある
+
+これは、すでにレビューしなくて済むようになったとか、レビューを0にしなくてはならないという話ではありません。品質を保ったまま、大幅にコードレビューを削減し続けなければ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nuits_jp/articles/2026-03-08-reviewing-ai-code</guid>
+      <pubDate>Sat, 07 Mar 2026 22:44:50 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「エンジニアは今、マネージャーを目指すべきではない」 ― 激動のAI時代、現場を離れるのはハイリスクだという提言が話題に</title>
