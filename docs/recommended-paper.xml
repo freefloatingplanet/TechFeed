@@ -7,14 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Mar 2026 07:08:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 06:56:58 +0000</lastBuildDate>
     <item>
-      <title>RAMoEA-QA: 堅牢な呼吸音声質問応答のための階層的特化</title>
-      <link>https://arxiv.org/abs/2603.06542v1</link>
-      <description>会話型生成AIは医療分野に急速に導入されつつあり、汎用モデルは異種の患者信号を統合し、多様なインタラクションスタイルをサポートしながら、臨床的に意味のある出力を生成する必要があります。呼吸ケアにおいては、モバイルマイクで録音した音声などの非侵襲的音声によって、スケーラブルなスクリーニングと長期モニタリングが可能になりますが、異種性の課題は特に深刻です。録音はデバイス、環境、取得プロトコルによって大きく異なり、質問は複数の意図と質問形式にまたがります。既存の生物医学音声言語QAシステムは、通常モノリシックであり、多様な呼吸器コーパスとクエリの意図に対処するための特化メカニズムを備えていません。また、限られた設定でのみ検証されているため、現実世界の環境で発生する変化にどれだけ確実に対応できるかは不明です。
-これらの制限に対処するために、我々は、複数の質問タイプを統合し、単一のマルチモーダルシステム内で離散ターゲットと連続ターゲットの両方をサポートする、階層的にルーティングされた呼吸音声質問応答生成モデルであるRAMoEA-QAを紹介します。 RAMoEA-QAは2段階の条件付き特化を適用し (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.06542v1</guid>
-      <pubDate>Fri, 06 Mar 2026 18:29:15 +0000</pubDate>
+      <title>ヒューマノイドの回復のための強化学習における古典的なバランス制御原理の組み込み</title>
+      <link>https://arxiv.org/abs/2603.08619v1</link>
+      <description>ヒューマノイドロボットは転倒や回復不能な故障状態に対して脆弱であり、非構造化環境における実用性は限定的である。強化学習は立ち上がり動作を実証しているものの、既存のアプローチでは、バランス状態の明示的な表現を伴わずに、回復を純粋なタスク報酬問題として扱っている。本稿では、キャプチャポイント、重心状態、重心運動量といった古典的なバランス指標を特権的な批評入力として埋め込み、訓練中にこれらの量に基づいて報酬を直接形成することで、この限界に対処する統合強化学習方策を提示する。一方、アクターはゼロショットハードウェア転送のために固有受容覚のみに依存する。参照軌道やスクリプト化された接触を必要とせず、単一の方策で回復スペクトル全体を網羅する。小さな外乱に対する足首と股関節の戦略、大きな押圧に対する矯正的な足踏み、そして手、肘、膝を用いた多接触立ち上がりを伴う順応的な転倒などである。Isaac LabのUnitree H1-2で訓練されたこの方策は、ランダム化された初期ポーズとスクリプト化されていない転倒構成において93.4%の回復率を達成した。アブレーション研究では、バランス情報に基づく構造を除去 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.08619v1</guid>
+      <pubDate>Mon, 09 Mar 2026 17:02:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

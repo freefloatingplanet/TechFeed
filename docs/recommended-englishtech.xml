@@ -7,46 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Mar 2026 07:08:19 +0000</lastBuildDate>
-    <item>
-      <title>WorkOS のエンジニアリングリーダーシップ: 製品、人材、そして影響</title>
-      <link>https://workos.com/blog/engineering-leadership-at-workos-product-people-and-impact</link>
-      <description>WorkOS のエンジニアリングリーダーシップは、プロダクトオーナーシップ、テクニカルスチュワードシップ、そして人材リーダーシップを融合させています。エンジニアリングマネージャーは、コード、チーム、そして顧客と緊密に連携します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/engineering-leadership-at-workos-product-people-and-impact</guid>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WorkOSがシリーズCで1億ドルを調達、評価額20億ドルに到達</title>
-      <link>https://workos.com/blog/series-c</link>
-      <description>WorkOSはシリーズCの資金調達で1億ドルを調達し、企業価値は20億ドルに達した。このラウンドはMeritechとSapphireが主導し、Audacious、Craft、Abstract、Greenoaksなどが参加した。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/series-c</guid>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OktaからLaravelアプリにユーザーを同期する方法</title>
-      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
-      <description>わずか数行のコードで、SCIM、Okta、WorkOS を使用して Laravel アプリに自動ユーザー プロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Mar 2026 06:57:03 +0000</lastBuildDate>
     <item>
       <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
       <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新興のAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
+      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション: 技術的な移行を行うことを決定しました</title>
-      <link>https://www.infoq.com/presentations/monzo-typescript-migration/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ソフィー・クーニンは、MonzoのTypeScriptへの移行をロードマップとして用いながら、大規模な技術移行の現実について論じます。ドキュメント作成やツール作成から測定可能なマイルストーンの設定に至るまで、「道の曲がり角」への対処法を解説します。技術的負債と機能追加作業のバランスを取るための重要な教訓を共有し、移行が本当に価値のある作業かどうかを判断するための枠組みを提供します。ソフィー・クーニン著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/monzo-typescript-migration/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 06 Mar 2026 09:15:00 +0000</pubDate>
+      <title>Javaニュースまとめ: Apache Solr 10、LangChain4j、Grails、JobRunr、Gradle、Devnexus、Commonhaus</title>
+      <link>https://www.infoq.com/news/2026/03/java-news-roundup-mar02-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>今週の2026年3月2日版Javaラウンドアップでは、Apache Solr 10のGAリリース、LangChain4j、JobRunr、Multik、Gradleのポイントリリース、GrailsとKeycloakのメンテナンスリリース、Devnexus 2026、そしてPi4JのCommonhaus Foundationへの加盟といったニュースを特集します。マイケル・レッドリッヒ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/java-news-roundup-mar02-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 09 Mar 2026 11:15:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
-      <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。そこで、OAuthフロー、トークン管理、プロバイダー設定を自動化するPipesを開発しました。 (source: WorkOS Blog)</description>
+      <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。Pipes は、OAuth フロー、トークン管理、プロバイダー設定を自動化するツールです。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
@@ -72,11 +51,32 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>アーキテクチャアドバイスプロセスによるアーキテクチャ上の決定の分散化</title>
-      <link>https://www.infoq.com/news/2026/03/architecture-advice-process/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>テクノロジーと開発手法の進化に伴い、システムアーキテクチャは変化してきましたが、アーキテクチャの実践方法はそれに追いついていません。アンドリュー・ハーメル＝ロー氏によると、アーキテクチャは、システムを分散化してきたのと同様に、分散化される必要があります。アーキテクトが意思決定を行い、それを伝達する代わりに、アドバイスプロセスを用いて「誰でも意思決定できるようにする」という方法があります。ベン・リンダース著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/architecture-advice-process/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 05 Mar 2026 11:33:00 +0000</pubDate>
+      <title>記事: 変化を指標として: 変更配信シグナルによるシステム信頼性の測定</title>
+      <link>https://www.infoq.com/articles/change-metrics-system-reliability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>システム変更は本番環境におけるインシデントの主な要因であり、変更関連の指標は信頼性の重要なシグナルとなります。変更リードタイム、変更成功率、インシデント漏洩率という最小限の指標セットは、デリバリーの効率性と信頼性を評価します。これらは、実用的な技術指標と、統一された変更観測性を実現するイベント中心のデータウェアハウスによって支えられています。Peihao Yuan著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/change-metrics-system-reliability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 09 Mar 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netflix が 400 の運用クラスターにわたる RDS PostgreSQL から Aurora PostgreSQL への移行を自動化</title>
+      <link>https://www.infoq.com/news/2026/03/netflix-automates-rds-aurora/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Netflixのエンジニアが、約400のRDS PostgreSQLクラスターをAuroraに移行し、ダウンタイムと運用リスクを削減する社内自動化プラットフォームについて説明します。このプラットフォームは、レプリケーション、CDC処理、制御されたカットオーバー、ロールバックを調整し、サービスチームのセルフサービス移行ワークフローをサポートします。リーラ・クミリ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/netflix-automates-rds-aurora/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>プレゼンテーション: AIネイティブ開発の4つのパターン</title>
+      <link>https://www.infoq.com/presentations/patterns-ai-native-development/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>パトリック・デボワ氏がAI時代におけるソフトウェアエンジニアリングの進化について論じます。彼は4つの重要なパターン、すなわちプロデューサーからマネージャーへの移行、仕様駆動開発による実装よりも意図の重視、デリバリーから発見への移行、そしてエージェントによる知識の管理について解説します。これらの変化が、どのように年功序列、チームの役割、そしてDevOpsワークフローの未来を再定義するのかを解説します。パトリック・デボワ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/patterns-ai-native-development/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 09 Mar 2026 14:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>マイクロソフトがMCP C# SDK v1.0をリリース、最新のプロトコル仕様を完全サポート</title>
+      <link>https://www.infoq.com/news/2026/03/mcp-csharp-v1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>マイクロソフトは、公式MCP C# SDKバージョン1.0をリリースしました。これにより、2025年11月25日版MCP仕様が完全にサポートされます。このリリースでは、強化された認証フロー、ツールとリソースのアイコンサポート、段階的なスコープ同意、URLモードの導出、サンプリング時のツール呼び出し、長時間実行されるHTTPリクエストの処理の改善などが導入されています。Almir Vuk著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/mcp-csharp-v1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 09 Mar 2026 08:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

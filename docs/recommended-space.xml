@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 07:08:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 06:56:56 +0000</lastBuildDate>
+    <item>
+      <title>ジェームズ・ウェッブ宇宙望遠鏡が観測した謎多き天王星の上層大気</title>
+      <link>https://sorae.info/astronomy/20260309-uranus-jwst.html</link>
+      <description>こちらは、ジェームズ・ウェッブ宇宙望遠鏡（JWST）の「NIRSpec（近赤外線分光器）」で観測した天王星です。 天王星は太陽系の惑星の中でも特異な存在として知られる巨大氷惑星です。自転軸が公転軌道面に対してほぼ横倒し（… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260309-uranus-jwst.html</guid>
+      <pubDate>Mon, 09 Mar 2026 12:07:09 +0000</pubDate>
+    </item>
     <item>
       <title>スペースワンが「カイロス」3号機を打ち上げ　飛行中断措置を行い衛星軌道投入できず</title>
       <link>https://sorae.info/ssn/20260305-kairos-3.html</link>
@@ -49,6 +56,13 @@
       <description>こちらは、火星の北半球に広がる高地「アラビア大陸（Arabia Terra）」の一角を、ESA（ヨーロッパ宇宙機関）の火星探査機「マーズ・エクスプレス（Mars Express）」に搭載された「高解像度ステレオカメラ（H… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260308-counting-craters.html</guid>
       <pubDate>Sun, 08 Mar 2026 12:05:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>公転周期がわずかに短縮　NASA探査機「DART」の衝突は二重小惑星全体に影響していた</title>
+      <link>https://sorae.info/astronomy/20260309-dart.html</link>
+      <description>2022年9月、NASA（アメリカ航空宇宙局）のミッション「DART」の無人探査機が、小惑星「Didymos（ディディモス）」を公転する衛星「Dimorphos（ディモルフォス）」への衝突に成功しました。この衝突によって… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260309-dart.html</guid>
+      <pubDate>Mon, 09 Mar 2026 09:13:08 +0000</pubDate>
     </item>
     <item>
       <title>ハッブルとユークリッドが観測した「キャッツアイ星雲」のクローズアップ＆ワイドビュー</title>

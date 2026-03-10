@@ -7,71 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 07:08:08 +0000</lastBuildDate>
-    <item>
-      <title>AI生成PRが自分のOSSプロジェクトに送られてくることについて思うこと、コントリビューターにできる助け方</title>
-      <link>https://zenn.dev/dai_shi/articles/a686bdf7fd5800</link>
-      <description>英語で書いた記事の日本語版です。
-https://newsletter.daishikato.com/p/my-thoughts-on-ai-generated-prs-for-my-oss-projects
-
-こんにちは。
-AI支援コーディングは素晴らしいものです。これは間違いないです。ただ、OSSへのコントリビュートという文脈になると、話は少し複雑になります。
-
- 問題点
-自分のOSSプロジェクトにPRが届くと、私はそれを見て判断する必要があります。その時点では、そのPRにどれくらいAI支援が使われたのかはわかりません。
-極端な例で考えてみます。もしPRが100% AI生成だったとす... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dai_shi/articles/a686bdf7fd5800</guid>
-      <pubDate>Sat, 07 Mar 2026 04:22:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>小惑星の公転軌道を人為的に変えることに成功　「天体衝突で人類滅亡」回避へ道筋</title>
-      <link>https://japan.cnet.com/article/35244754/</link>
-      <description>NASAは、小惑星に探査機を衝突させて軌道を変える実験「DARTミッション」によって、二重小惑星系の太陽周回軌道（公転軌道）にも変化が生じていたとする研究結果を発表した。人間が作った物体によって、天体の太陽周回軌道が測定可能な形で変えられたのは初めてだとしている。 探査機「DART」は2022年9月、地球防衛技術... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://japan.cnet.com/article/35244754/</guid>
-      <pubDate>Sun, 08 Mar 2026 23:34:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code に `cc` というエイリアスをつけたら PC がハングした話（原因は別でした）</title>
-      <link>https://zenn.dev/owayo/articles/6190821ac1dd1e</link>
-      <description>!
-2026-03-08 訂正:
-初版では「alias cc='claude ...' が原因で tree-sitter がCコンパイラの代わりに Claude Code を起動し、メモリが暴走した」と記載していました。しかし、コメントの指摘を受けて検証した結果、tree-sitter は Rust の std::process::Command（内部で execvp）を使って cc を呼び出すため、シェルエイリアスは解決されないことがわかりました。メモリ暴走の真の原因は tree-sitter test コマンド自体の既知の問題だと思われます。以下、訂正版です。
-ただし、cc をエイリ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/owayo/articles/6190821ac1dd1e</guid>
-      <pubDate>Thu, 05 Mar 2026 13:35:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>ポップコーンUIとReact</title>
-      <link>https://zenn.dev/akfm/articles/popcorn-ui-anti-pattern</link>
-      <description>ページアクセス時に複数のローディングスピナーがランダムに表示され、徐々にコンテンツに置き換わっていくような体験に遭遇したこと、もしくは実装した経験はあるでしょうか？ReactチームはこのようなUIを、ポップコーンが弾ける様子に例えてポップコーンUIと揶揄しています。
-このようなUIはユーザー体験として好ましくありませんが、よくみられるUIでもあります。Reactにおいて、コンポーネント内でデータフェッチを扱う方法は様々ありますが、複数のコンポーネントでローディング状態をハンドリングしてしまうとポップコーンUIになりがちです。
-開発者が意図してより良い体験を実装すべきとも考えられますが、単... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/akfm/articles/popcorn-ui-anti-pattern</guid>
-      <pubDate>Fri, 06 Mar 2026 06:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>「How」から「Why」へ。ジュニアを卒業するための視座の上げ方：『ソフトウェアアーキテクチャの基礎』を読み解く</title>
-      <link>https://zenn.dev/zenn_mita/articles/6ac0edb5689c42</link>
-      <description>目次
-
-初めに
-結論
-システムアーキテクチャとは
-システムデザインとは
-なぜ、すべての「良いデザイン」を詰め込めないのか？
-なぜ『なぜそうしたか』が重要なのか
-日々の業務で意識すべきこと
-まとめ：アーキ・デザインへの理解がミドルへの第一歩
-
-
- 初めに
-AIが普及した今、単なる「作業員」であるジュニアの価値は著しく落ちており、早急に意思決定に責任を持つミドル・シニアクラスへ上がることが求められていると感じています。
-それらを達成し、エンジニアが価値を生み出すためには、
-自分なりの意見を持ち、意思決定に対して責任を持つことが重要だと考えています。
-システムアーキテクチャ・システムデザイ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/zenn_mita/articles/6ac0edb5689c42</guid>
-      <pubDate>Sat, 07 Mar 2026 03:20:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Mar 2026 06:56:51 +0000</lastBuildDate>
     <item>
       <title>GraphRAGを実際に構築して分かった「使うほど賢くなるAI」の仕組み</title>
       <link>https://zenn.dev/okikusan/articles/0f8295e7ecaa19</link>
@@ -85,13 +21,61 @@ AIが普及した今、単なる「作業員」であるジュニアの価値は
       <pubDate>Sat, 07 Mar 2026 09:37:15 +0000</pubDate>
     </item>
     <item>
-      <title>OSSにおけるAI Slop問題の何が問題なのか？</title>
-      <link>https://zenn.dev/yusukebe/articles/3fd5bc6ea341c9</link>
-      <description>Honoは2021年の12月に開発が始まって4年と少し経つ。たぶん、あなたが想像する以上に大きくなっている。GitHubのスターは現時点で29.2K。これは日本人発OSSで観測する限り第3位の数字だ。最近ではMCP公式SDKの依存に入り、ダウンロード数はうなぎのぼり。月間1億ダウンロードが近い。Cloudflareは多くのプロダクトでHonoを使っている。
-これだけ大きな規模のOSSに、クリエーター、もしくはメンテナとして関わることは非常に貴重な経験である。そこにはみなさんが見ていない景色が広がっている。
-Honoの開発において「憂鬱な」こともたくさんある。ただ、それを上回る楽しいことが... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yusukebe/articles/3fd5bc6ea341c9</guid>
-      <pubDate>Fri, 06 Mar 2026 03:51:29 +0000</pubDate>
+      <title>デバッグはもう人間の仕事ではなくなった</title>
+      <link>https://zenn.dev/dinii/articles/debugging-is-solved</link>
+      <description>こんにちは、ダイニーの ogino です。
+弊社では、ほとんどの技術的な不具合の調査・解決を AI に丸投げできるようになりました。
+これは単なるコードレベルのバグに限りません。本番環境や特定のユーザーだけでしか発生しない問題、インフラの設定ミスなど含めすべてに言える話です。
+Claude Code を使い始めてからここに至るまで、大きく 2 つ転換点がありました。
+
+AI が本番データベース、ログ、Sentry などに直接アクセスできるようにした
+複数のエージェントが仮説を並列検証し、もう一体が対立してレビューするチーム構成にした
+
+それぞれについて詳しく説明していきます。
+
+ AI ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dinii/articles/debugging-is-solved</guid>
+      <pubDate>Mon, 09 Mar 2026 02:41:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Piで運用する自宅サーバー入門（第1巻：基礎編）</title>
+      <link>https://zenn.dev/murasanlab/books/c40c7d02a82d0f</link>
+      <description>Raspberry Piを手に入れて、LEDを光らせて、センサーの値を読んで……
+その先に「自宅サーバー」という  選択肢があることをご存じですか？                                                             
+
+本書は、Raspberry Piを「電子工作のおもちゃ」から「24時間稼働する実用的なサーバー」へとステップアップさせるための入門書です。月々の電気代はわずか100〜200円。小さなコンピュータが自宅の片隅で静かにサービスを提供し続ける——そんな環境を、一緒に構築していきましょう。
+
+コマンドを丸暗記するのではなく、「なぜその設定が必要なのか」「その仕組みはどうなっているのか 」を一つずつ丁寧に解説しています。サーバー運用に必要なLinuxの基礎知識からSSHによるリモート操作、サービスの自動起動、ログの確認まで、この1冊で土台を築くことができます。
+
+本書は「Raspberry Piではじめる自宅サーバー入門」シリーズの第1巻（基礎編）です。サーバー運用の世界への第一歩を、ここから始めてみませんか。 (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/murasanlab/books/c40c7d02a82d0f</guid>
+      <pubDate>Sun, 08 Mar 2026 11:38:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>では素晴らしい提案をしよう。お前もSlideVTuberにならないか？</title>
+      <link>https://zenn.dev/koeloop/articles/lightning-slide-vtuber-kit-intro</link>
+      <description>TL;DR
+こんにちは！個人開発界隈箱推し活動をしているコエルです。いつもいいねやフォローありがとうございます。大変励みになっております。
+ライトニングトークで顔出しせずにアバターで発表したい！という人(つまりわたし)のために、最小2枚の画像だけでSlideVTuberデビューできる、ツールキットをnpmに公開しました！前半が使い方の解説、後半が技術的な解説になっています。Slidev addonで組み込むための工夫や、音声解析の工夫など、技術的な内容を後半にまとめていますので、興味のある方はぜひ最後まで読んでみてくださいね。
+こんな感じでマイク連動で口パクするアバターをSlidev... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/koeloop/articles/lightning-slide-vtuber-kit-intro</guid>
+      <pubDate>Sat, 07 Mar 2026 04:28:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>SQL で区間同士の重なり（interval overlap）を一発で判定する方法</title>
+      <link>https://zenn.dev/medicu/articles/cd97674e6faa91</link>
+      <description>こんにちは！株式会社 MeDiCU で学生インターンをしている村山です。普段は、MeDiCU の管理するデータベース OneICU を使った臨床疫学研究や医療 AI 研究に関わっています。
+
+ はじめに
+SQL で時系列データを扱っていると、「2つの区間が重なっているか」を判定したい場面が頻繁に出てきます。
+
+あるイベントが発生していた時間帯と
+別のイベントが発生していた時間帯
+
+が重なっているかどうかを調べたい、といったケースです。一見すると単純な問題ですが、実際に SQL で書こうとすると、案外直感的には書きにくいのではないでしょうか。
+我々がやっているような ICU の時系列データ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/medicu/articles/cd97674e6faa91</guid>
+      <pubDate>Mon, 09 Mar 2026 09:23:48 +0000</pubDate>
     </item>
     <item>
       <title>まだAIコードをレビューするか、しないかで言い争ってるの？</title>
@@ -101,16 +85,37 @@ Honoの開発において「憂鬱な」こともたくさんある。ただ、�
 
 2026.03.08 改修メモ
 レビュー0に拘り過ぎているように読めたので、表現を全体的に柔らかくしました。
-つまりナーフして少し火力を下げました。
 
 
  私の結論
 
 品質を維持したままコードレビューを減らせるよう、開発プロセス全体を改善する必要がある
 
-これは、すでにレビューしなくて済むようになったとか、レビューを0にしなくてはならないという話ではありません。品質を保ったまま、大幅にコードレビューを削減し続けなければ... (source: Zennのトレンド)</description>
+これは、すでにレビューしなくて済むようになったとか、レビューを0にしなくてはならないという話ではありません。品質を保ったまま、大幅にコードレビューを削減し続けなければならないという話です。
+これは、少なくと... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/nuits_jp/articles/2026-03-08-reviewing-ai-code</guid>
       <pubDate>Sat, 07 Mar 2026 22:44:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>RAGで足りなくなったので Agentic Search を調べてみた</title>
+      <link>https://zenn.dev/edash_tech_blog/articles/02582c4f70d0fb</link>
+      <description>はじめに
+「なんでそこにあるデータを見てくれないかなぁ（泣）」…RAGを自作した人なら、一度はこう思ったことがあるのではないでしょうか。
+私自身、社内情報検索用のチャットボットをRAGで構築しましたが、回答精度がなかなか上がりませんでした。チャンクサイズを調整し、ハイブリッド検索を導入し、リランキングを入れ、プロンプトをこねくり回しても、ユーザーの曖昧な一言で検索が空振りする。そこにあるはずのデータに辿り着けない。加えて、言語モデルやツールがどんどん進化するので、チャットボットへの期待値も勝手に上がっていきます。質問者は「当然正確に答えてくれるだろう」と思っている。回答の生成自体は... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/edash_tech_blog/articles/02582c4f70d0fb</guid>
+      <pubDate>Sun, 08 Mar 2026 23:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>事例から学ぶ企業でのコーディングエージェントの内製やハーネスの作り方</title>
+      <link>https://zenn.dev/asterminds/articles/13356a9b5eb492</link>
+      <description>世はコーディングエージェント時代。
+もはや開発者のパートナーとして、個人的には利用制限に到達するとGithub以上に仕事が止まる依存度の高い存在になりました。
+そんなコーディングエージェントですが、調べてみると内製、もしくはコーディングエージェントの周囲に自社ならではの仕組みを構築してる企業も多いです。
+例えば、Stripeの「Minions」は週1000件以上のPRをマージしているそうです。
+Rampの「Inspect」はPRの30％近くを生成しており、Spotifyに至っては、トップエンジニアが2025年12月以降コードを一行も書いていないと決算で話しています。
+エンジニアとして純粋... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/asterminds/articles/13356a9b5eb492</guid>
+      <pubDate>Sun, 08 Mar 2026 09:41:15 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「エンジニアは今、マネージャーを目指すべきではない」 ― 激動のAI時代、現場を離れるのはハイリスクだという提言が話題に</title>
