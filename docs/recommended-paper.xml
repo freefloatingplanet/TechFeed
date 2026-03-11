@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Mar 2026 06:56:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 07:00:35 +0000</lastBuildDate>
     <item>
-      <title>ヒューマノイドの回復のための強化学習における古典的なバランス制御原理の組み込み</title>
-      <link>https://arxiv.org/abs/2603.08619v1</link>
-      <description>ヒューマノイドロボットは転倒や回復不能な故障状態に対して脆弱であり、非構造化環境における実用性は限定的である。強化学習は立ち上がり動作を実証しているものの、既存のアプローチでは、バランス状態の明示的な表現を伴わずに、回復を純粋なタスク報酬問題として扱っている。本稿では、キャプチャポイント、重心状態、重心運動量といった古典的なバランス指標を特権的な批評入力として埋め込み、訓練中にこれらの量に基づいて報酬を直接形成することで、この限界に対処する統合強化学習方策を提示する。一方、アクターはゼロショットハードウェア転送のために固有受容覚のみに依存する。参照軌道やスクリプト化された接触を必要とせず、単一の方策で回復スペクトル全体を網羅する。小さな外乱に対する足首と股関節の戦略、大きな押圧に対する矯正的な足踏み、そして手、肘、膝を用いた多接触立ち上がりを伴う順応的な転倒などである。Isaac LabのUnitree H1-2で訓練されたこの方策は、ランダム化された初期ポーズとスクリプト化されていない転倒構成において93.4%の回復率を達成した。アブレーション研究では、バランス情報に基づく構造を除去 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.08619v1</guid>
-      <pubDate>Mon, 09 Mar 2026 17:02:30 +0000</pubDate>
+      <title>航空機の電動化時代における緊急ロケーター送信機：エネルギー、統合、安全性の課題に関する包括的レビュー</title>
+      <link>https://arxiv.org/abs/2603.09918v1</link>
+      <description>航空機の電動化（MEA）パラダイムに基づく航空機システムの漸進的な電動化は、安全性が極めて重要な航空電子機器の設計と認定に関する制約を再構築しています。事故後の位置特定と捜索救助（SAR）活動に不可欠な緊急ロケーター送信機（ELT）は、従来の121.5/243 MHzビーコンからデジタル符号化された406 MHzシステムへと進化し、通常、複合ユニットでは121.5 MHzをホーミング信号として保持しています。同時に、Cospas-Sarsatインフラストラクチャ、特にMEOSARの近代化、マルチコンステレーション全地球航法衛星システム（GNSS）の統合、第2世代ビーコン機能により、検出遅延が短縮され、より豊富な遭難メッセージングが可能になっています。しかしながら、MEAプラットフォームは、利用可能な電力、熱管理、配線密度、および電磁両立性（EMC）に関してより厳しい制約を課します。その結果、ELTの性能は、デバイス自体だけでなく、設置条件や航空機全体の電気環境にもますます依存するようになっています。本レビューでは、ELTのアーキテクチャと起動/運用サイクルをまとめ、主要な技術的マイルス (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.09918v1</guid>
+      <pubDate>Tue, 10 Mar 2026 17:14:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,35 +7,51 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 06:56:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 07:00:23 +0000</lastBuildDate>
     <item>
-      <title>GraphRAGを実際に構築して分かった「使うほど賢くなるAI」の仕組み</title>
-      <link>https://zenn.dev/okikusan/articles/0f8295e7ecaa19</link>
-      <description>はじめに ─ 「AIに文書を読ませる」だけでは足りなかった
-最近、「社内の文書をAIに読ませて質問に答えさせる」という仕組みを耳にする機会が増えました。いわゆる RAG（Retrieval Augmented Generation） です。
-これ、確かに便利なんです。マニュアルや規則集をAIに渡しておけば、「この手続きどうやるの？」と聞くだけで答えが返ってくる。
-でも、実際に数千件のドキュメントを扱うシステムを作ってみて気づいたことがあります。
-「文書を読ませる」だけでは、AIは賢くならない。
-人間が知識を使うとき、「AならばB、BならばC」と 知識のつながり を辿って考えますよね。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/okikusan/articles/0f8295e7ecaa19</guid>
-      <pubDate>Sat, 07 Mar 2026 09:37:15 +0000</pubDate>
+      <title>メガネだけでClaude Codeとやり取りできるようにした話</title>
+      <link>https://zenn.dev/wmoto_ai/articles/claude-code-even-g2-glasses</link>
+      <description>!
+本記事は、手元の実際のログや会話をもとに、メガネでClaude Codeとやりとりして書いていま...せん。
+Codexに手伝ってもらいながら書いています。
+
+
+ はじめに
+子どもがいると、PCの前にずっと張り付いているわけにもいかないんですよね。
+ちょっと歩きたいとか、子どもの相手をするとか、そういうだけでClaude Codeのセッションが止まるのが地味につらかったです。運動不足にもなるし。
+で、コーディングエージェントを使っていて気づいたんですが、キーボードをガリガリ叩いている時間より、承認ボタンを押すとか通知をチラ見するとか、そういう細かい割り込みの方が意外と多い。
+別にスマ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/wmoto_ai/articles/claude-code-even-g2-glasses</guid>
+      <pubDate>Sun, 08 Mar 2026 23:54:51 +0000</pubDate>
     </item>
     <item>
-      <title>デバッグはもう人間の仕事ではなくなった</title>
-      <link>https://zenn.dev/dinii/articles/debugging-is-solved</link>
-      <description>こんにちは、ダイニーの ogino です。
-弊社では、ほとんどの技術的な不具合の調査・解決を AI に丸投げできるようになりました。
-これは単なるコードレベルのバグに限りません。本番環境や特定のユーザーだけでしか発生しない問題、インフラの設定ミスなど含めすべてに言える話です。
-Claude Code を使い始めてからここに至るまで、大きく 2 つ転換点がありました。
+      <title>エンジニアは知ってる。PM・PDMが「見逃している」AIツール活用術</title>
+      <link>https://zenn.dev/fastdoctor/articles/7f9622fdda9175</link>
+      <description>そこのPMさん。「AIを使いこなしてる」って胸張って言えるかい？
+現在所属している医療システムのチームでは、
+PDMやドメインエキスパートもエンジニアも、
+AIを活用して設計・要件定義や調査を行っています。
+ただ、PDMやドメインエキスパートの方々は、それでもまだAIを
+「フル活用できていない」という悩みを抱えているそう。
+(おそらく他の会社に比べたら圧倒的に使い倒しているが)
+GeminiやCursor、ChatGPTのチャット画面は活用するものの、
+特にカスタマイズせずに素の状態で使っていたり。
+また、各所に点在している会話やドキュメントを集約できないまま、
+バラバラに管理してい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/fastdoctor/articles/7f9622fdda9175</guid>
+      <pubDate>Mon, 09 Mar 2026 02:06:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>「アーキテクチャモダナイゼーション」読んだ感想</title>
+      <link>https://zenn.dev/mlbread/articles/c34e65a20295e7</link>
+      <description>2026/2/24に発売された「アーキテクチャモダナイゼーション」を読了したのでその感想になります。和訳本で、原著の方はちょうど2年前頃にリリースされていたようです。
+書籍の紹介文引用：
 
-AI が本番データベース、ログ、Sentry などに直接アクセスできるようにした
-複数のエージェントが仮説を並列検証し、もう一体が対立してレビューするチーム構成にした
-
-それぞれについて詳しく説明していきます。
-
- AI ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dinii/articles/debugging-is-solved</guid>
-      <pubDate>Mon, 09 Mar 2026 02:41:02 +0000</pubDate>
+本書は、技術・組織・戦略を統合し、システムの価値を最大化する実践ガイドです。
+長年運用され中身がブラックボックス化したシステムや、ドキュメントが機能せず改修のたびにリスクが伴う設計。こうした技術的負債は、現代のビジネスにおいて成長を阻む大きな壁となっています。
+本書は単なるコードのリファクタリング手法ではなく、ドメイン駆動設計（DDD）やチームトポロジー、ワードレイマッピングといった定評ある手法を組み... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mlbread/articles/c34e65a20295e7</guid>
+      <pubDate>Mon, 09 Mar 2026 09:44:45 +0000</pubDate>
     </item>
     <item>
       <title>Raspberry Piで運用する自宅サーバー入門（第1巻：基礎編）</title>
@@ -52,49 +68,61 @@ AI が本番データベース、ログ、Sentry などに直接アクセスで�
       <pubDate>Sun, 08 Mar 2026 11:38:46 +0000</pubDate>
     </item>
     <item>
-      <title>では素晴らしい提案をしよう。お前もSlideVTuberにならないか？</title>
-      <link>https://zenn.dev/koeloop/articles/lightning-slide-vtuber-kit-intro</link>
-      <description>TL;DR
-こんにちは！個人開発界隈箱推し活動をしているコエルです。いつもいいねやフォローありがとうございます。大変励みになっております。
-ライトニングトークで顔出しせずにアバターで発表したい！という人(つまりわたし)のために、最小2枚の画像だけでSlideVTuberデビューできる、ツールキットをnpmに公開しました！前半が使い方の解説、後半が技術的な解説になっています。Slidev addonで組み込むための工夫や、音声解析の工夫など、技術的な内容を後半にまとめていますので、興味のある方はぜひ最後まで読んでみてくださいね。
-こんな感じでマイク連動で口パクするアバターをSlidev... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/koeloop/articles/lightning-slide-vtuber-kit-intro</guid>
-      <pubDate>Sat, 07 Mar 2026 04:28:15 +0000</pubDate>
+      <title>秘密にしたい URL が Google 検索に載ってしまった話</title>
+      <link>https://zenn.dev/daiius/articles/sacapis-google-search-console</link>
+      <description>はじめに — 何が起きたのか
+サカバンバスピスの顔をランダム生成する Web アプリを開発しました。seed 値からキャラクターの顔を生成し、気に入った顔を ?seed=xxx 付きの URL でシェアできます。
+顔がサカバンバスピスっぽいかで名前もサカバンバスピスっぽくなったり、ならなかったりします。
+メインの遊び方として、中々出ない 「サカバンバスピス」が出るまで顔生成ボタンを連打してもらうというのがあります 。
+ですが、見落としに気づきました。
+ある日、自分のサイト名で Google 検索してみたところ、ユーザーがシェアした「サカバンバスピス」seed 付きの URL が検索結... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/daiius/articles/sacapis-google-search-console</guid>
+      <pubDate>Sun, 08 Mar 2026 22:30:01 +0000</pubDate>
     </item>
     <item>
-      <title>SQL で区間同士の重なり（interval overlap）を一発で判定する方法</title>
-      <link>https://zenn.dev/medicu/articles/cd97674e6faa91</link>
-      <description>こんにちは！株式会社 MeDiCU で学生インターンをしている村山です。普段は、MeDiCU の管理するデータベース OneICU を使った臨床疫学研究や医療 AI 研究に関わっています。
+      <title>2年間諦めていたDBの整合性崩れを、Claude Codeと2文のSQLで解決した話</title>
+      <link>https://zenn.dev/syncable_tech/articles/2ddb940ade018d</link>
+      <description>はじめに
+Syncableエンジニアリングチームの山ｐです。
+このテックブログでは、日々の開発や運用の中で出てきた技術的なメモや気づきを共有しています。
+今回は、2年間解決できなかった社内ツールのDBの整合性問題を、Claude Codeと協力して解決した話を書きます。
 
- はじめに
-SQL で時系列データを扱っていると、「2つの区間が重なっているか」を判定したい場面が頻繁に出てきます。
+ TL;DR
+長いので、先にまとめておきます。
 
-あるイベントが発生していた時間帯と
-別のイベントが発生していた時間帯
+保守作業こそAIが活きる場面がある
 
-が重なっているかどうかを調べたい、といったケースです。一見すると単純な問題ですが、実際に SQL で書こうとすると、案外直感的には書きにくいのではないでしょうか。
-我々がやっているような ICU の時系列データ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/medicu/articles/cd97674e6faa91</guid>
-      <pubDate>Mon, 09 Mar 2026 09:23:48 +0000</pubDate>
+新規開発ばかりが注目されがちですが、「怖くて手が出せなかった問題」にAIと一緒に向き合うことで、踏み出せることがあります
+
+
+自信がなくても、仮説があるなら試してみる
+
+最終的な解決策は「DATABASECHANGELOGのレコ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/syncable_tech/articles/2ddb940ade018d</guid>
+      <pubDate>Sun, 08 Mar 2026 23:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>まだAIコードをレビューするか、しないかで言い争ってるの？</title>
-      <link>https://zenn.dev/nuits_jp/articles/2026-03-08-reviewing-ai-code</link>
-      <description>AIが生成したコードをレビューするべきかどうか、という議論は定期的に起こります。
-3カ月以上その問題に悩んでいる人は、たぶんとっくに何らかの結論に達していると思います。
+      <title>AIに設計を任せたら、チームの空気が変わった未来</title>
+      <link>https://zenn.dev/plusone/articles/e98230583fe24d</link>
+      <description>AIは優秀な部下だった。
+コードは速く、知識量も圧倒的だ。
+だが――
+設計を任せた瞬間、チームの空気が変わった。
+これは、AIと働く未来に
+きっと訪れる“現場のリアル”だ。
+この記事は、生成AI（Generative AI）を開発プロジェクトに投入すると
+何が起きるのかを、物語形式でまとめたものです。
+いくつかの生成AIを実際に使って検証してみましたが、
+どれも似たような挙動をします。
+だからこれは単なるフィクションではなく、
+あながち否定できない未来の話です。
 
-2026.03.08 改修メモ
-レビュー0に拘り過ぎているように読めたので、表現を全体的に柔らかくしました。
 
-
- 私の結論
-
-品質を維持したままコードレビューを減らせるよう、開発プロセス全体を改善する必要がある
-
-これは、すでにレビューしなくて済むようになったとか、レビューを0にしなくてはならないという話ではありません。品質を保ったまま、大幅にコードレビューを削減し続けなければならないという話です。
-これは、少なくと... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nuits_jp/articles/2026-03-08-reviewing-ai-code</guid>
-      <pubDate>Sat, 07 Mar 2026 22:44:50 +0000</pubDate>
+ ⚡ 第1章：GAIの価値を実感する
+オンプレで長年動いてきた Web アプリを、
+クラウドへ移行するプロジェクトが始まっ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/plusone/articles/e98230583fe24d</guid>
+      <pubDate>Sun, 08 Mar 2026 23:00:01 +0000</pubDate>
     </item>
     <item>
       <title>RAGで足りなくなったので Agentic Search を調べてみた</title>
@@ -104,18 +132,6 @@ SQL で時系列データを扱っていると、「2つの区間が重なって
 私自身、社内情報検索用のチャットボットをRAGで構築しましたが、回答精度がなかなか上がりませんでした。チャンクサイズを調整し、ハイブリッド検索を導入し、リランキングを入れ、プロンプトをこねくり回しても、ユーザーの曖昧な一言で検索が空振りする。そこにあるはずのデータに辿り着けない。加えて、言語モデルやツールがどんどん進化するので、チャットボットへの期待値も勝手に上がっていきます。質問者は「当然正確に答えてくれるだろう」と思っている。回答の生成自体は... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/edash_tech_blog/articles/02582c4f70d0fb</guid>
       <pubDate>Sun, 08 Mar 2026 23:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>事例から学ぶ企業でのコーディングエージェントの内製やハーネスの作り方</title>
-      <link>https://zenn.dev/asterminds/articles/13356a9b5eb492</link>
-      <description>世はコーディングエージェント時代。
-もはや開発者のパートナーとして、個人的には利用制限に到達するとGithub以上に仕事が止まる依存度の高い存在になりました。
-そんなコーディングエージェントですが、調べてみると内製、もしくはコーディングエージェントの周囲に自社ならではの仕組みを構築してる企業も多いです。
-例えば、Stripeの「Minions」は週1000件以上のPRをマージしているそうです。
-Rampの「Inspect」はPRの30％近くを生成しており、Spotifyに至っては、トップエンジニアが2025年12月以降コードを一行も書いていないと決算で話しています。
-エンジニアとして純粋... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/asterminds/articles/13356a9b5eb492</guid>
-      <pubDate>Sun, 08 Mar 2026 09:41:15 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「エンジニアは今、マネージャーを目指すべきではない」 ― 激動のAI時代、現場を離れるのはハイリスクだという提言が話題に</title>

@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Mar 2026 06:57:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 07:00:40 +0000</lastBuildDate>
     <item>
-      <title>FGA: WorkOS が次世代 SaaS の認証をどのように再考しているか</title>
-      <link>https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</link>
-      <description>WorkOS FGAは、使い慣れたRBACを、実際の製品の進化に合わせて設計された柔軟な階層型モデルに拡張する、SaaS認証への新たなアプローチを導入します。従来のRBACとスキーマ駆動型のFGAシステムがアプリケーションの拡張に伴って機能不全に陥る理由、WorkOSのリソーススコープモデルが書き換えやロールの爆発的増加を回避する仕組み、そしてエンタープライズIDマッピング、高カーディナリティアーキテクチャ、そして新たなAIエージェントワークフローをサポートする仕組みについて解説します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/fga-how-workos-is-rethinking-authorization-for-the-next-generation-of-saas</guid>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <title>Datadog がエージェント Go バイナリのサイズを 77% 削減した方法</title>
+      <link>https://www.infoq.com/news/2026/03/datadog-go-binary-optimization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Datadog Agentが5年間で428MiBから1.22GiBにまで肥大化した後、Datadogのエンジニアたちはバイナリサイズの削減に着手しました。彼らは、Goバイナリの肥大化の大部分が、隠れた依存関係、無効化されたリンカー最適化、そしてGoコンパイラとリンカーの微妙な動作に起因することを発見しました。Sergio De Simone著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/datadog-go-binary-optimization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 10 Mar 2026 21:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google、ChromeにGeminiをインドで導入</title>
+      <link>https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/</link>
+      <description>ロールアウトの一環として、Gemini はヒンディー語、ベンガル語、グジャラート語、カンナダ語、マラヤーラム語、マラーティー語、テルグ語、タミル語などの言語をサポートします。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/</guid>
+      <pubDate>Wed, 11 Mar 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Javaニュースまとめ: Apache Solr 10、LangChain4j、Grails、JobRunr、Gradle、Devnexus、Commonhaus</title>
@@ -25,7 +32,7 @@
     <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
-      <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。Pipes は、OAuth フロー、トークン管理、プロバイダー設定を自動化するツールです。 (source: WorkOS Blog)</description>
+      <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。そこで、OAuthフロー、トークン管理、プロバイダー設定を自動化するPipesを開発しました。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
@@ -35,13 +42,6 @@
       <description>Cloudflareは、ハイブリッド耐量子暗号をIPsecとWANトラフィックに拡張し、NIST 2030の期限に先立ちSASEスタックを標準化しました。簡素化されたML-KEM鍵交換を採用することで、耐量子IPsecにおける長年の「暗号スイート肥大化」に対処します。このアップデートは、特殊なハードウェアのアップグレードを必要とせずに、「今すぐ収集、後で復号」する脅威を無力化することを目的としています。Steef-Jan Wiggers著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/cloudflare-post-quantum-ipsec/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Sat, 07 Mar 2026 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>グローバルスケールのアーキテクチャ：DoorDashの統合型コンポーザブルDasherオンボーディングプラットフォーム</title>
-      <link>https://www.infoq.com/news/2026/03/doordash-dasherglobal-onboarding/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>DoorDashは、グローバル展開をサポートするため、Dasherのオンボーディングシステムを統合されたモジュール型プラットフォームに再構築しました。新しいアーキテクチャは、再利用可能なステップモジュール、一元化されたステータスマップ、ワークフローオーケストレーションを採用し、一貫性のあるローカライズされたオンボーディングエクスペリエンスを実現します。この設計により、複雑さが軽減され、市場固有の差異に対応し、新規国への迅速な展開が可能になります。リーラ・クミリ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/doordash-dasherglobal-onboarding/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>

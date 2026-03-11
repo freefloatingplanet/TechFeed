@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 06:56:56 +0000</lastBuildDate>
-    <item>
-      <title>ジェームズ・ウェッブ宇宙望遠鏡が観測した謎多き天王星の上層大気</title>
-      <link>https://sorae.info/astronomy/20260309-uranus-jwst.html</link>
-      <description>こちらは、ジェームズ・ウェッブ宇宙望遠鏡（JWST）の「NIRSpec（近赤外線分光器）」で観測した天王星です。 天王星は太陽系の惑星の中でも特異な存在として知られる巨大氷惑星です。自転軸が公転軌道面に対してほぼ横倒し（… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260309-uranus-jwst.html</guid>
-      <pubDate>Mon, 09 Mar 2026 12:07:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>スペースワンが「カイロス」3号機を打ち上げ　飛行中断措置を行い衛星軌道投入できず</title>
-      <link>https://sorae.info/ssn/20260305-kairos-3.html</link>
-      <description>スペースワン株式会社は日本時間2026年3月5日に「カイロス（KAIROS）」ロケット3号機の打ち上げを実施しました。発射後にミッション達成困難と判断したため飛行中断措置を行ったことを、スペースワンが発表しています。 打… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260305-kairos-3.html</guid>
-      <pubDate>Thu, 05 Mar 2026 02:33:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 07:00:30 +0000</lastBuildDate>
     <item>
       <title>小惑星「2024 YR4」が2032年に月へ衝突する確率はゼロに　ウェッブ宇宙望遠鏡が最新データ提供</title>
       <link>https://sorae.info/astronomy/20260306-2024-yr4.html</link>
@@ -42,6 +28,13 @@
       <description>こちらは、ESO（ヨーロッパ南天天文台）のVLT（超大型望遠鏡）で観測した連星「AFGL 4106」です。 りゅうこつ座の方向、約1万光年先にあります。 画像の中央で黒い点として並んでいるのは、年老いた大質量星のペアです… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260304-afgl-4106.html</guid>
       <pubDate>Wed, 04 Mar 2026 12:50:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>ビジネスパーソンや地方自治体職員必見！ 第1回「サテライトデータビジネス検定」の受験申込は3月18日（水）まで</title>
+      <link>https://sorabatake.jp/45219/</link>
+      <description>地球観測衛星から得られるデータ（衛星データ）のビジネス活用に必要な知識を体系的に学べるよう設計されたサテライトデータビジネス検定の受験申込が始まりました。合格発表日には解説イベントも準備されています。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45219/</guid>
+      <pubDate>Wed, 11 Mar 2026 01:30:39 +0000</pubDate>
     </item>
     <item>
       <title>ウェッブ宇宙望遠鏡が捉えた“露出した頭蓋骨星雲”こと惑星状星雲「PMR 1」</title>
@@ -70,6 +63,13 @@
       <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した惑星状星雲「NGC 6543」、別名「キャッツアイ星雲（Cat's Eye Nebula）」。 りゅう座の方向、約4400光年先にあります。 惑星状星雲は、超新星爆発を起こ… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260305-ngc-6543-cats-eye-nebula.html</guid>
       <pubDate>Thu, 05 Mar 2026 12:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>人類は地球外文明の電波信号を見逃しているかもしれない　恒星活動で信号が変化する可能性</title>
+      <link>https://sorae.info/astronomy/20260310-seti-signal-bandwidth.html</link>
+      <description>地球外文明の信号や痕跡を捉える試み「SETI（地球外知的生命体探査）」は、これまで数十年にわたって行われてきましたが、いまだに明確な証拠は発見されていません。その理由については「2つの文明が同じ時期に近い場所で存在する可… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260310-seti-signal-bandwidth.html</guid>
+      <pubDate>Tue, 10 Mar 2026 12:23:00 +0000</pubDate>
     </item>
     <item>
       <title>世界有数のニッケル鉱山×衛星データ。CO2を地下に埋めて気候変動対策、SAR衛星がその監視役に【宇宙ビジネスニュース】</title>
