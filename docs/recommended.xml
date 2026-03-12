@@ -7,51 +7,66 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 07:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 07:02:11 +0000</lastBuildDate>
     <item>
-      <title>メガネだけでClaude Codeとやり取りできるようにした話</title>
-      <link>https://zenn.dev/wmoto_ai/articles/claude-code-even-g2-glasses</link>
+      <title>勘に頼るIAM設計はもう卒業。IAM Access Analyzerで実現する「ログから作る最小権限」 | iret.media</title>
+      <link>https://iret.media/188235</link>
+      <description>こんにちは、アイレットの日下です。 AWSを運用していて、「管理者権限（AdministratorAccess）を付けているのに、なぜか操作が弾かれる」という謎現象に頭を抱えました。 実は、IAMを「ただのログイン管理」だと思っていると、このAccess Deniedの謎から抜け出せません。 今回は、私が実務を通じて学んだ「IAMの本当の... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://iret.media/188235</guid>
+      <pubDate>Thu, 12 Mar 2026 03:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Opus4.6でdraw.io図を生成したらもはやLLMの前提が崩れてた件</title>
+      <link>https://zenn.dev/acntechjp/articles/4ab4491afd5a8b</link>
       <description>!
-本記事は、手元の実際のログや会話をもとに、メガネでClaude Codeとやりとりして書いていま...せん。
-Codexに手伝ってもらいながら書いています。
+この記事ではdraw.ioを使ってClaude Codeで作図する実践パートがありますが、MCPサーバーもSkillsも使っておりません。すべてOpus4.6の性能だけで作図してます。
 
 
  はじめに
-子どもがいると、PCの前にずっと張り付いているわけにもいかないんですよね。
-ちょっと歩きたいとか、子どもの相手をするとか、そういうだけでClaude Codeのセッションが止まるのが地味につらかったです。運動不足にもなるし。
-で、コーディングエージェントを使っていて気づいたんですが、キーボードをガリガリ叩いている時間より、承認ボタンを押すとか通知をチラ見するとか、そういう細かい割り込みの方が意外と多い。
-別にスマ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/wmoto_ai/articles/claude-code-even-g2-glasses</guid>
-      <pubDate>Sun, 08 Mar 2026 23:54:51 +0000</pubDate>
+「LLMは空間的な推論が苦手」「テキストベースで座標を扱うのだから、複雑な図はぐちゃぐちゃになるはず」──これは自分がずっと持っていた前提でした。おそらく同じように考えている方も多いのではないでしょうか。
+実際、以前のモデルで試した限りでは、この前提はおおむね正しかったと思います。構成が複雑になれば矢印が交差して読みにくい図になり、結局は人力で修正することになる。グラフ理論的に考えても... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/4ab4491afd5a8b</guid>
+      <pubDate>Tue, 10 Mar 2026 09:18:14 +0000</pubDate>
     </item>
     <item>
-      <title>エンジニアは知ってる。PM・PDMが「見逃している」AIツール活用術</title>
-      <link>https://zenn.dev/fastdoctor/articles/7f9622fdda9175</link>
-      <description>そこのPMさん。「AIを使いこなしてる」って胸張って言えるかい？
-現在所属している医療システムのチームでは、
-PDMやドメインエキスパートもエンジニアも、
-AIを活用して設計・要件定義や調査を行っています。
-ただ、PDMやドメインエキスパートの方々は、それでもまだAIを
-「フル活用できていない」という悩みを抱えているそう。
-(おそらく他の会社に比べたら圧倒的に使い倒しているが)
-GeminiやCursor、ChatGPTのチャット画面は活用するものの、
-特にカスタマイズせずに素の状態で使っていたり。
-また、各所に点在している会話やドキュメントを集約できないまま、
-バラバラに管理してい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/fastdoctor/articles/7f9622fdda9175</guid>
-      <pubDate>Mon, 09 Mar 2026 02:06:19 +0000</pubDate>
+      <title>Claude Codeで自分好みの朝刊が届く仕組みを作った</title>
+      <link>https://zenn.dev/aoi_umigishi/articles/936073d8dd16e9</link>
+      <description>はじめに こんにちは、まっくすと申します。 普段Flutter を使ったフリーランスのエンジニアとして働いています。 エンジニアになって大事だなぁと感じるのは、 言語や技術の最新情報を追いかける、ということです。 特に昨今のAI技術の発展を追いかけることは、 自分の仕事の生産性を上げることにつながるため、非常に... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/aoi_umigishi/articles/936073d8dd16e9</guid>
+      <pubDate>Wed, 11 Mar 2026 07:11:37 +0000</pubDate>
     </item>
     <item>
-      <title>「アーキテクチャモダナイゼーション」読んだ感想</title>
-      <link>https://zenn.dev/mlbread/articles/c34e65a20295e7</link>
-      <description>2026/2/24に発売された「アーキテクチャモダナイゼーション」を読了したのでその感想になります。和訳本で、原著の方はちょうど2年前頃にリリースされていたようです。
-書籍の紹介文引用：
+      <title>時計アイコンを精密につくるツールを開発した（迫真）</title>
+      <link>https://zenn.dev/rollpie/articles/a3ba230583e223</link>
+      <description>イラストレーターがなくても時計アイコンをつくれる道具を開発しました。
 
-本書は、技術・組織・戦略を統合し、システムの価値を最大化する実践ガイドです。
-長年運用され中身がブラックボックス化したシステムや、ドキュメントが機能せず改修のたびにリスクが伴う設計。こうした技術的負債は、現代のビジネスにおいて成長を阻む大きな壁となっています。
-本書は単なるコードのリファクタリング手法ではなく、ドメイン駆動設計（DDD）やチームトポロジー、ワードレイマッピングといった定評ある手法を組み... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mlbread/articles/c34e65a20295e7</guid>
-      <pubDate>Mon, 09 Mar 2026 09:44:45 +0000</pubDate>
+短針と長針の長さや幅を指定できたり、目盛りの大小や破線領域を設定できます。線の色はカラーピッカーで簡単に入力可能！
+時間指定できる時計のおしゃれアイコン
+で確認できます。時計素材に悩んだら使ってね！
+このジェネレーターを作るにあたって学んだことをここに残します。
+
+アイコンのレンダリングよりも、ジェネレーターUIのレンダリングのほうが10倍以上難しい
+Bounding Box算出はcanvasを使うべし（SVGの精緻な構造をつくるにあたってcanvas APIは避けられない、getBBoxは茨の道）
+Unityなどを... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/rollpie/articles/a3ba230583e223</guid>
+      <pubDate>Tue, 10 Mar 2026 02:31:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>デバッグはもう人間の仕事ではなくなった</title>
+      <link>https://zenn.dev/dinii/articles/debugging-is-solved</link>
+      <description>こんにちは、ダイニーの ogino です。
+弊社では、ほとんどの技術的な不具合の調査・解決を AI に丸投げできるようになりました。
+これは単なるコードレベルのバグに限りません。本番環境や特定のユーザーだけでしか発生しない問題、インフラの設定ミスなど含めすべてに言える話です。
+Claude Code を使い始めてからここに至るまで、大きく 2 つ転換点がありました。
+
+AI が本番データベース、ログ、Sentry などに直接アクセスできるようにした
+複数のエージェントが仮説を並列検証し、もう一体が対立してレビューするチーム構成にした
+
+それぞれについて詳しく説明していきます。
+
+ AI ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dinii/articles/debugging-is-solved</guid>
+      <pubDate>Mon, 09 Mar 2026 02:41:02 +0000</pubDate>
     </item>
     <item>
       <title>Raspberry Piで運用する自宅サーバー入門（第1巻：基礎編）</title>
@@ -68,70 +83,23 @@ GeminiやCursor、ChatGPTのチャット画面は活用するものの、
       <pubDate>Sun, 08 Mar 2026 11:38:46 +0000</pubDate>
     </item>
     <item>
-      <title>秘密にしたい URL が Google 検索に載ってしまった話</title>
-      <link>https://zenn.dev/daiius/articles/sacapis-google-search-console</link>
-      <description>はじめに — 何が起きたのか
-サカバンバスピスの顔をランダム生成する Web アプリを開発しました。seed 値からキャラクターの顔を生成し、気に入った顔を ?seed=xxx 付きの URL でシェアできます。
-顔がサカバンバスピスっぽいかで名前もサカバンバスピスっぽくなったり、ならなかったりします。
-メインの遊び方として、中々出ない 「サカバンバスピス」が出るまで顔生成ボタンを連打してもらうというのがあります 。
-ですが、見落としに気づきました。
-ある日、自分のサイト名で Google 検索してみたところ、ユーザーがシェアした「サカバンバスピス」seed 付きの URL が検索結... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/daiius/articles/sacapis-google-search-console</guid>
-      <pubDate>Sun, 08 Mar 2026 22:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>2年間諦めていたDBの整合性崩れを、Claude Codeと2文のSQLで解決した話</title>
-      <link>https://zenn.dev/syncable_tech/articles/2ddb940ade018d</link>
-      <description>はじめに
-Syncableエンジニアリングチームの山ｐです。
-このテックブログでは、日々の開発や運用の中で出てきた技術的なメモや気づきを共有しています。
-今回は、2年間解決できなかった社内ツールのDBの整合性問題を、Claude Codeと協力して解決した話を書きます。
+      <title>なぜ私はゲーム開発で「疎結合」と「コンポーネント指向」に異常なほどこだわるのか</title>
+      <link>https://zenn.dev/munimaru62o/articles/c6ed730c6e4c61</link>
+      <description>!
+この記事の3行まとめ
 
- TL;DR
-長いので、先にまとめておきます。
-
-保守作業こそAIが活きる場面がある
-
-新規開発ばかりが注目されがちですが、「怖くて手が出せなかった問題」にAIと一緒に向き合うことで、踏み出せることがあります
+ゲームから「予定調和」を排除し、プレイヤーの試行錯誤による「創発的な遊び」を生み出すための設計思想について。
+その手段としての「徹底した疎結合・ドメイン分離」と、実現するための3つの技術的アプローチ。
+理想を追うことで直面する「バランス崩壊・認知負荷」などの強烈なトレードオフと、その現実的な解決策。
 
 
-自信がなくても、仮説があるなら試してみる
 
-最終的な解決策は「DATABASECHANGELOGのレコ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/syncable_tech/articles/2ddb940ade018d</guid>
-      <pubDate>Sun, 08 Mar 2026 23:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIに設計を任せたら、チームの空気が変わった未来</title>
-      <link>https://zenn.dev/plusone/articles/e98230583fe24d</link>
-      <description>AIは優秀な部下だった。
-コードは速く、知識量も圧倒的だ。
-だが――
-設計を任せた瞬間、チームの空気が変わった。
-これは、AIと働く未来に
-きっと訪れる“現場のリアル”だ。
-この記事は、生成AI（Generative AI）を開発プロジェクトに投入すると
-何が起きるのかを、物語形式でまとめたものです。
-いくつかの生成AIを実際に使って検証してみましたが、
-どれも似たような挙動をします。
-だからこれは単なるフィクションではなく、
-あながち否定できない未来の話です。
-
-
- ⚡ 第1章：GAIの価値を実感する
-オンプレで長年動いてきた Web アプリを、
-クラウドへ移行するプロジェクトが始まっ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/plusone/articles/e98230583fe24d</guid>
-      <pubDate>Sun, 08 Mar 2026 23:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>RAGで足りなくなったので Agentic Search を調べてみた</title>
-      <link>https://zenn.dev/edash_tech_blog/articles/02582c4f70d0fb</link>
-      <description>はじめに
-「なんでそこにあるデータを見てくれないかなぁ（泣）」…RAGを自作した人なら、一度はこう思ったことがあるのではないでしょうか。
-私自身、社内情報検索用のチャットボットをRAGで構築しましたが、回答精度がなかなか上がりませんでした。チャンクサイズを調整し、ハイブリッド検索を導入し、リランキングを入れ、プロンプトをこねくり回しても、ユーザーの曖昧な一言で検索が空振りする。そこにあるはずのデータに辿り着けない。加えて、言語モデルやツールがどんどん進化するので、チャットボットへの期待値も勝手に上がっていきます。質問者は「当然正確に答えてくれるだろう」と思っている。回答の生成自体は... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/edash_tech_blog/articles/02582c4f70d0fb</guid>
-      <pubDate>Sun, 08 Mar 2026 23:00:02 +0000</pubDate>
+ はじめに
+ゲーム開発において「疎結合」「コンポーネント指向」「ドメイン駆動設計」といったアーキテクチャの重要性が語られることは珍しくありません。
+保守性が上がる、再利用性が高い、テストがしやすい……理由は様々です。
+しかし、私が個人的に開発しているUnre... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/munimaru62o/articles/c6ed730c6e4c61</guid>
+      <pubDate>Tue, 10 Mar 2026 12:35:36 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「エンジニアは今、マネージャーを目指すべきではない」 ― 激動のAI時代、現場を離れるのはハイリスクだという提言が話題に</title>
@@ -139,6 +107,26 @@ Syncableエンジニアリングチームの山ｐです。
       <description>3月4日、manager.devが「Don't become an Engineering Manager」と題した記事を公開した。この記事では、マネジメント職（EM：エンジニアリングマネージャー）への転身に伴う近年のリスクと、「現場のエンジニア」（IC：Individual Contributor）としてキャリアを継続することの合理性について詳しく紹介されている。以下に、その内容と、テック業界の主要コミュニティであるHacker Newsのスレッドなどで巻き起こっている議論を合わせて紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/69a7cca44271131d91d5944c?from=rss</guid>
       <pubDate>Wed, 04 Mar 2026 06:09:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>証券システムと、それを取り巻く世界</title>
+      <link>https://zenn.dev/mi_01_24fu/books/securities-system-flow</link>
+      <description>個人投資家が「注文ボタン」を押すと、その注文は証券会社のシステムを経由して取引所へ送信されます。条件が合えばすぐに約定することもありますが、板の状況によっては約定せず注文が板に並び続けることもあります。ほんの一つの注文の裏側では、余力の仮拘束、取引所とのプロトコル通信、板寄せやザラバでのマッチング、清算機関（JSCC）でのネッティング、ほふりでの株式振替など、驚くほど多くのシステムが連携して動いています。
+
+ 本書では、この一連の流れを「注文 → 約定 → 清算 → 決済(受渡)」の順にシステムエンジニアの視点で丁寧に整理しました。
+
+ ▼ 本書で得られる知識
+ ・証券取引を支えるプレイヤー(証券会社・取引所・JSCC・ほふり)の役割と全体像
+ ・注文管理システム(OMS)やフロント/ミドル/バックオフィスの構造
+ ・余力管理・与信チェック・冪等性など、システム設計上の勘所
+ ・DVP決済やネッティングなど、決済インフラの仕組み
+ ・NISA対応・株式分割・権利確定日処理といった実務寄りのトピック
+
+ ▼ こんな方におすすめ
+ ・これから証券システムに関わるエンジニアの方
+ ・証券ドメ (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mi_01_24fu/books/securities-system-flow</guid>
+      <pubDate>Wed, 11 Mar 2026 03:28:32 +0000</pubDate>
     </item>
     <item>
       <title>コミュニティ主導で新たなnpmビューアー「npmx」が爆誕 — 2週間で1,000PR、「オープンソースのあるべき姿」と絶賛される</title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 07:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 07:02:15 +0000</lastBuildDate>
     <item>
       <title>小惑星「2024 YR4」が2032年に月へ衝突する確率はゼロに　ウェッブ宇宙望遠鏡が最新データ提供</title>
       <link>https://sorae.info/astronomy/20260306-2024-yr4.html</link>
@@ -23,13 +23,6 @@
       <pubDate>Mon, 02 Mar 2026 00:18:59 +0000</pubDate>
     </item>
     <item>
-      <title>進化の果てにある連星の姿　超大型望遠鏡VLTが捉えた“りゅうこつ座”の「AFGL 4106」</title>
-      <link>https://sorae.info/astronomy/20260304-afgl-4106.html</link>
-      <description>こちらは、ESO（ヨーロッパ南天天文台）のVLT（超大型望遠鏡）で観測した連星「AFGL 4106」です。 りゅうこつ座の方向、約1万光年先にあります。 画像の中央で黒い点として並んでいるのは、年老いた大質量星のペアです… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260304-afgl-4106.html</guid>
-      <pubDate>Wed, 04 Mar 2026 12:50:06 +0000</pubDate>
-    </item>
-    <item>
       <title>ビジネスパーソンや地方自治体職員必見！ 第1回「サテライトデータビジネス検定」の受験申込は3月18日（水）まで</title>
       <link>https://sorabatake.jp/45219/</link>
       <description>地球観測衛星から得られるデータ（衛星データ）のビジネス活用に必要な知識を体系的に学べるよう設計されたサテライトデータビジネス検定の受験申込が始まりました。合格発表日には解説イベントも準備されています。 (source: 宙畑)</description>
@@ -42,6 +35,13 @@
       <description>こちらは、ジェームズ・ウェッブ宇宙望遠鏡（JWST）の「NIRCam（近赤外線カメラ）」で観測した惑星状星雲「PMR 1」。 ほ座の方向、約5000光年先にあります。 まるで透明な頭蓋骨の中に脳が浮かんでいるような姿をし… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260307-pmr-1.html</guid>
       <pubDate>Sat, 07 Mar 2026 12:44:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>ロスコスモスがバイコヌール宇宙基地31番射点の修復完了を発表　3月下旬に運用再開へ</title>
+      <link>https://sorae.info/space/20260311-baikonur-site-31.html</link>
+      <description>ロシアの国営宇宙企業Roscosmos（ロスコスモス）は2026年3月3日付で、カザフスタンのバイコヌール宇宙基地で31番射点のサービスキャビン（打ち上げ前のロケット下部へアクセスするための移動式プラットフォーム）の修復… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260311-baikonur-site-31.html</guid>
+      <pubDate>Wed, 11 Mar 2026 10:24:08 +0000</pubDate>
     </item>
     <item>
       <title>火星の古代クレーターに残る“明るい丘”　水の痕跡を示す手がかり</title>

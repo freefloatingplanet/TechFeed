@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Mar 2026 07:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 07:02:23 +0000</lastBuildDate>
     <item>
-      <title>Datadog がエージェント Go バイナリのサイズを 77% 削減した方法</title>
-      <link>https://www.infoq.com/news/2026/03/datadog-go-binary-optimization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Datadog Agentが5年間で428MiBから1.22GiBにまで肥大化した後、Datadogのエンジニアたちはバイナリサイズの削減に着手しました。彼らは、Goバイナリの肥大化の大部分が、隠れた依存関係、無効化されたリンカー最適化、そしてGoコンパイラとリンカーの微妙な動作に起因することを発見しました。Sergio De Simone著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/datadog-go-binary-optimization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 10 Mar 2026 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google、ChromeにGeminiをインドで導入</title>
-      <link>https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/</link>
-      <description>ロールアウトの一環として、Gemini はヒンディー語、ベンガル語、グジャラート語、カンナダ語、マラヤーラム語、マラーティー語、テルグ語、タミル語などの言語をサポートします。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/</guid>
-      <pubDate>Wed, 11 Mar 2026 02:30:00 +0000</pubDate>
+      <title>Uno Platform 6.5 がリリース。AI エージェントのサポート、Unicode テキスト、Studio の改良が追加</title>
+      <link>https://www.infoq.com/news/2026/03/uno-platform-6-5-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Uno Platform 6.5では、Antigravity AIエージェントのサポートが導入され、エージェントが実行時にアプリの動作を検証できるようになりました。Hot Designは、再設計されたツールバーと新しいスコープセレクターを備えた状態でデフォルトで起動するようになりました。また、このリリースでは、非ラテン文字用のUnicode TextBoxのサポートが追加され、WebAssembly上のWebView2が改善され、サポート対象プラットフォーム全体で450件を超えるコミュニティの問題が解決されています。Almir Vuk著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/uno-platform-6-5-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 11 Mar 2026 08:40:00 +0000</pubDate>
     </item>
     <item>
       <title>Javaニュースまとめ: Apache Solr 10、LangChain4j、Grails、JobRunr、Gradle、Devnexus、Commonhaus</title>
@@ -30,6 +23,13 @@
       <pubDate>Mon, 09 Mar 2026 11:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>Poppi創設者がTikTok、スーパーボウルの広告、そしてShark Tankへの復帰について語る</title>
+      <link>https://techcrunch.com/video/poppi-founder-on-tiktok-super-bowl-ads-and-her-return-to-shark-tank/</link>
+      <description>ベンチャーキャピタリストは長年、飲料業界のスタートアップ企業に懐疑的でした。薄利と厳しい流通を理由に、多くのブランドが成功しないと主張してきたのです。しかし、「機能性ソーダ」を謳う新たな波が、その見方に疑問を投げかけています。その一つが、キッチンでの実験からペプシコに19億5000万ドルで買収されたプレバイオティクス・ソーダブランド、Poppiです。このエピソードでは[…] (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/video/poppi-founder-on-tiktok-super-bowl-ads-and-her-return-to-shark-tank/</guid>
+      <pubDate>Wed, 11 Mar 2026 17:47:05 +0000</pubDate>
+    </item>
+    <item>
       <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
       <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。そこで、OAuthフロー、トークン管理、プロバイダー設定を自動化するPipesを開発しました。 (source: WorkOS Blog)</description>
@@ -37,11 +37,11 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>量子コンピュータ耐性IPsecの標準化：CloudflareがハイブリッドML-KEMを採用し、暗号スイートの肥大化を解消</title>
-      <link>https://www.infoq.com/news/2026/03/cloudflare-post-quantum-ipsec/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Cloudflareは、ハイブリッド耐量子暗号をIPsecとWANトラフィックに拡張し、NIST 2030の期限に先立ちSASEスタックを標準化しました。簡素化されたML-KEM鍵交換を採用することで、耐量子IPsecにおける長年の「暗号スイート肥大化」に対処します。このアップデートは、特殊なハードウェアのアップグレードを必要とせずに、「今すぐ収集、後で復号」する脅威を無力化することを目的としています。Steef-Jan Wiggers著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/cloudflare-post-quantum-ipsec/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 07 Mar 2026 10:45:00 +0000</pubDate>
+      <title>Webpack がネイティブ CSS サポート、ユニバーサル ターゲット、バージョン 6 へのパスを含む 2026 年のロードマップを公開</title>
+      <link>https://www.infoq.com/news/2026/03/webpack-2026-roadmap/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Even Stensberg氏が率いるWebpackの2026年ロードマップでは、バンドラーの近代化を目指した大幅な機能強化が発表されています。主な機能には、ネイティブCSSモジュールのサポート、様々な環境に対応したユニバーサルコンパイル、組み込みのTypeScriptサポート、そしてパフォーマンス最適化への注力などが含まれます。競合他社が台頭する中、Webpackはコアとなる強みを維持しながら、ユーザーエクスペリエンスの向上を目指しています。Daniel Curtis (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/webpack-2026-roadmap/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 11 Mar 2026 16:30:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP Night: ホリデースペシャル</title>

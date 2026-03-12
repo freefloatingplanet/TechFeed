@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Mar 2026 07:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 07:02:18 +0000</lastBuildDate>
     <item>
-      <title>航空機の電動化時代における緊急ロケーター送信機：エネルギー、統合、安全性の課題に関する包括的レビュー</title>
-      <link>https://arxiv.org/abs/2603.09918v1</link>
-      <description>航空機の電動化（MEA）パラダイムに基づく航空機システムの漸進的な電動化は、安全性が極めて重要な航空電子機器の設計と認定に関する制約を再構築しています。事故後の位置特定と捜索救助（SAR）活動に不可欠な緊急ロケーター送信機（ELT）は、従来の121.5/243 MHzビーコンからデジタル符号化された406 MHzシステムへと進化し、通常、複合ユニットでは121.5 MHzをホーミング信号として保持しています。同時に、Cospas-Sarsatインフラストラクチャ、特にMEOSARの近代化、マルチコンステレーション全地球航法衛星システム（GNSS）の統合、第2世代ビーコン機能により、検出遅延が短縮され、より豊富な遭難メッセージングが可能になっています。しかしながら、MEAプラットフォームは、利用可能な電力、熱管理、配線密度、および電磁両立性（EMC）に関してより厳しい制約を課します。その結果、ELTの性能は、デバイス自体だけでなく、設置条件や航空機全体の電気環境にもますます依存するようになっています。本レビューでは、ELTのアーキテクチャと起動/運用サイクルをまとめ、主要な技術的マイルス (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.09918v1</guid>
-      <pubDate>Tue, 10 Mar 2026 17:14:42 +0000</pubDate>
+      <title>火星有機分子分析装置（MOMA）の科学的アナログとしての改造された市販のレーザー質量分析計の応用</title>
+      <link>https://arxiv.org/abs/2506.14691v2</link>
+      <description>2028年に打ち上げが計画されているESA/NASAロザリンド・フランクリン探査車は、火星有機分子分析装置（MOMA）装置の一部として、初のレーザー脱離イオン化質量分析計（LDI-MS）を火星に運びます。MOMAは、潜在的な有機バイオシグネチャーの分析を通じて、ミッションの宇宙生物学目標に貢献します。同等の機器がほとんど入手できなかったため、類似の技術と機器を使用した実験室分析は限られていました。これまで、機器間に大きな違いがあるにもかかわらず、MOMAチームではThermo LTQ-XLプラットフォームが主要なアナログ機器として使用されてきました。本研究では、この市販のベンチトップLDI-MSをMOMAの動作パラメータに近づける一連の改造を提示し、MOMA検証実験用のサンプルを迅速にテストできるようにします。私たちは、この機器が鉱物マトリックス中の有機標準を検出できること、そしてMS/MSにより複雑な混合物中でも構造同定が可能になることを実証します。さらに、アタカマ砂漠の火星類似遺跡から採取した天然サンプルのスペクトルと比較することで、既存のLDI-MSプロトタイプ機の性能と比較検証 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.14691v2</guid>
+      <pubDate>Tue, 17 Jun 2025 16:29:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
