@@ -7,76 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Mar 2026 07:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 07:00:59 +0000</lastBuildDate>
+    <item>
+      <title>Claude Opus 4.6では、長時間稼働エージェント向けに適応推論とコンテキスト圧縮が導入されます。</title>
+      <link>https://www.infoq.com/news/2026/03/opus-4-6-context-compaction/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Anthropic社のClaude Opus 4.6は、長時間稼働するエージェントにおけるコンテキスト劣化を解決するために、「適応思考」と「圧縮API」を導入しました。このモデルは、100万トークンのコンテキストウィンドウをサポートし、マルチニードル検索精度は76%です。エージェントコーディングのベンチマークではトップクラスの性能を発揮する一方で、独立したテストではバイナリバックドアの検出率が49%にとどまり、SOTA（最先端）の主張と実際の運用環境におけるセキュリティとのギャップが浮き彫りになっています。執筆：Steef-Jan Wiggers (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/opus-4-6-context-compaction/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 12 Mar 2026 10:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DatadogがエージェントGoバイナリのサイズを77%削減した方法</title>
+      <link>https://www.infoq.com/news/2026/03/datadog-go-binary-optimization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Datadog Agentのサイズが5年間で428 MiBから1.22 GiBにまで増大したことを受け、Datadogのエンジニアたちはバイナリサイズの削減に着手しました。その結果、Goバイナリの肥大化のほとんどは、隠れた依存関係、無効化されたリンカー最適化、そしてGoコンパイラとリンカーの微妙な動作に起因することが判明しました。 セルジオ・デ・シモーネ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/datadog-go-binary-optimization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 10 Mar 2026 21:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Uno Platform 6.5 がリリース。AI エージェントのサポート、Unicode テキスト、Studio の改良が追加</title>
       <link>https://www.infoq.com/news/2026/03/uno-platform-6-5-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Uno Platform 6.5では、Antigravity AIエージェントのサポートが導入され、エージェントが実行時にアプリの動作を検証できるようになりました。Hot Designは、再設計されたツールバーと新しいスコープセレクターを備えた状態でデフォルトで起動するようになりました。また、このリリースでは、非ラテン文字用のUnicode TextBoxのサポートが追加され、WebAssembly上のWebView2が改善され、サポート対象プラットフォーム全体で450件を超えるコミュニティの問題が解決されています。Almir Vuk著 (source: InfoQ)</description>
+      <description>Uno Platform 6.5では、Antigravity AIエージェントのサポートが導入され、エージェントが実行時にアプリの動作を検証できるようになりました。Hot Designは、再設計されたツールバーと新しいスコープセレクタを備え、デフォルトで起動するようになりました。また、このリリースでは、非ラテン文字のUnicode TextBoxのサポートが追加され、WebAssembly上のWebView2が改善され、サポートされているすべてのプラットフォームで450件以上のコミュニティの問題が解決されています。執筆者：Almir Vuk (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/uno-platform-6-5-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 11 Mar 2026 08:40:00 +0000</pubDate>
     </item>
     <item>
-      <title>Javaニュースまとめ: Apache Solr 10、LangChain4j、Grails、JobRunr、Gradle、Devnexus、Commonhaus</title>
-      <link>https://www.infoq.com/news/2026/03/java-news-roundup-mar02-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>今週の2026年3月2日版Javaラウンドアップでは、Apache Solr 10のGAリリース、LangChain4j、JobRunr、Multik、Gradleのポイントリリース、GrailsとKeycloakのメンテナンスリリース、Devnexus 2026、そしてPi4JのCommonhaus Foundationへの加盟といったニュースを特集します。マイケル・レッドリッヒ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/java-news-roundup-mar02-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 09 Mar 2026 11:15:00 +0000</pubDate>
+      <title>InfoQの新しいオンライン講座で、社会技術アーキテクチャのスキルを向上させましょう</title>
+      <link>https://www.infoq.com/news/2026/03/architect-certification-program/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>InfoQが新たに開講するオンライン講座で、アーキテクチャリーダーシップを強化しましょう。開講日は2026年4月15日、5月7日、6月10日です。Luca Mezzalira氏が講師を務めるこの5週間のプログラムでは、ADR（アーキテクチャ設計レビュー）、プラットフォームエンジニアリング、AIのトレードオフといった社会技術的スキルに焦点を当てます。経験豊富な実務家は、フレームワークを実際のプロジェクトに適用し、ICSAET認定資格を取得し、InfoQコミュニティに貢献することができます。執筆：Ian Robins (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/architect-certification-program/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 12 Mar 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Poppi創設者がTikTok、スーパーボウルの広告、そしてShark Tankへの復帰について語る</title>
-      <link>https://techcrunch.com/video/poppi-founder-on-tiktok-super-bowl-ads-and-her-return-to-shark-tank/</link>
-      <description>ベンチャーキャピタリストは長年、飲料業界のスタートアップ企業に懐疑的でした。薄利と厳しい流通を理由に、多くのブランドが成功しないと主張してきたのです。しかし、「機能性ソーダ」を謳う新たな波が、その見方に疑問を投げかけています。その一つが、キッチンでの実験からペプシコに19億5000万ドルで買収されたプレバイオティクス・ソーダブランド、Poppiです。このエピソードでは[…] (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/video/poppi-founder-on-tiktok-super-bowl-ads-and-her-return-to-shark-tank/</guid>
-      <pubDate>Wed, 11 Mar 2026 17:47:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>WorkOS Pipes: 面倒な手間なくサードパーティとの統合を実現</title>
+      <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
-      <description>現代のアプリケーションを構築するには、複数のサードパーティサービスへの接続がますます重要になっています。そこで、OAuthフロー、トークン管理、プロバイダー設定を自動化するPipesを開発しました。 (source: WorkOS Blog)</description>
+      <description>現代のアプリケーション開発では、複数のサードパーティサービスとの接続がますます重要になっています。Pipesは、OAuthフロー、トークン管理、プロバイダー設定を自動的に処理するように設計されています。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Webpack がネイティブ CSS サポート、ユニバーサル ターゲット、バージョン 6 へのパスを含む 2026 年のロードマップを公開</title>
       <link>https://www.infoq.com/news/2026/03/webpack-2026-roadmap/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Even Stensberg氏が率いるWebpackの2026年ロードマップでは、バンドラーの近代化を目指した大幅な機能強化が発表されています。主な機能には、ネイティブCSSモジュールのサポート、様々な環境に対応したユニバーサルコンパイル、組み込みのTypeScriptサポート、そしてパフォーマンス最適化への注力などが含まれます。競合他社が台頭する中、Webpackはコアとなる強みを維持しながら、ユーザーエクスペリエンスの向上を目指しています。Daniel Curtis (source: InfoQ)</description>
+      <description>Even Stensberg氏が率いるwebpackの2026年ロードマップでは、バンドラーの近代化を目指した大幅な機能強化が発表されました。主な機能には、ネイティブCSSモジュールサポート、様々な環境に対応したユニバーサルコンパイル、組み込みのTypeScriptサポート、そしてパフォーマンス最適化への注力などが含まれます。競合他社の台頭に伴い、webpackはコアとなる強みを維持しながら、ユーザーエクスペリエンスの向上に努めています。執筆：Daniel Curtis (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/webpack-2026-roadmap/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 11 Mar 2026 16:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>WorkOS MCP Night: ホリデースペシャル</title>
+      <title>Tinderは、IRLイベントやバーチャルスピードデートで人々をオンラインデートに呼び戻そうとしている</title>
+      <link>https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/</link>
+      <description>Tinderは、ユーザー基盤の再構築と若いデートユーザー獲得を目指し、大幅なリニューアルを行いました。これには、対面イベント、AI強化、さらにはバーチャルスピードデートなどが含まれます。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/</guid>
+      <pubDate>Thu, 12 Mar 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WorkOS MCP ナイト：ホリデースペシャル</title>
       <link>https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</link>
-      <description>MCPナイト、ホリデースペシャルは歴史的な瞬間を刻みました。AnthropicがMCPをLinux Foundationに寄贈し、Agentic AI Foundationが設立されました。Cloudflare、Supabase、Datadog、Microsoft、Googleによるデモも行われました。 (source: WorkOS Blog)</description>
+      <description>MCPナイト、ホリデースペシャルは歴史的な瞬間を迎えました。AnthropicがLinux FoundationにMCPを寄贈し、Agentic AI Foundationが発足したのです。Cloudflare、Supabase、Datadog、Microsoft、Googleによるデモも行われました。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</guid>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>記事: 変化を指標として: 変更配信シグナルによるシステム信頼性の測定</title>
-      <link>https://www.infoq.com/articles/change-metrics-system-reliability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>システム変更は本番環境におけるインシデントの主な要因であり、変更関連の指標は信頼性の重要なシグナルとなります。変更リードタイム、変更成功率、インシデント漏洩率という最小限の指標セットは、デリバリーの効率性と信頼性を評価します。これらは、実用的な技術指標と、統一された変更観測性を実現するイベント中心のデータウェアハウスによって支えられています。Peihao Yuan著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/change-metrics-system-reliability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 09 Mar 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Netflix が 400 の運用クラスターにわたる RDS PostgreSQL から Aurora PostgreSQL への移行を自動化</title>
+      <title>Netflix、400の運用クラスターにわたるRDS PostgreSQLからAurora PostgreSQLへの移行を自動化</title>
       <link>https://www.infoq.com/news/2026/03/netflix-automates-rds-aurora/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Netflixのエンジニアが、約400のRDS PostgreSQLクラスターをAuroraに移行し、ダウンタイムと運用リスクを削減する社内自動化プラットフォームについて説明します。このプラットフォームは、レプリケーション、CDC処理、制御されたカットオーバー、ロールバックを調整し、サービスチームのセルフサービス移行ワークフローをサポートします。リーラ・クミリ著 (source: InfoQ)</description>
+      <description>Netflixのエンジニアは、約400のRDS PostgreSQLクラスターをAuroraに移行する社内自動化プラットフォームについて説明し、ダウンタイムと運用リスクの削減を実現した。このプラットフォームは、レプリケーション、CDC処理、制御された切り替え、ロールバックを調整するとともに、サービスチームがセルフサービス型の移行ワークフローを利用できるよう支援する。Leela Kumili著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/netflix-automates-rds-aurora/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション: AIネイティブ開発の4つのパターン</title>
+      <title>プレゼンテーション：AIネイティブ開発の4つのパターン</title>
       <link>https://www.infoq.com/presentations/patterns-ai-native-development/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>パトリック・デボワ氏がAI時代におけるソフトウェアエンジニアリングの進化について論じます。彼は4つの重要なパターン、すなわちプロデューサーからマネージャーへの移行、仕様駆動開発による実装よりも意図の重視、デリバリーから発見への移行、そしてエージェントによる知識の管理について解説します。これらの変化が、どのように年功序列、チームの役割、そしてDevOpsワークフローの未来を再定義するのかを解説します。パトリック・デボワ著 (source: InfoQ)</description>
+      <description>パトリック・デボワは、AI時代のソフトウェアエンジニアリングの進化について論じています。彼は、プロデューサーからマネージャーへの移行、仕様主導型開発による実装よりも意図への注力、デリバリーからディスカバリーへの移行、そしてエージェント知識の管理という4つの重要なパターンを紹介します。これらの変化が、役職、チームの役割、そしてDevOpsワークフローの未来をどのように再定義するのかを解説します。パトリック・デボワ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/patterns-ai-native-development/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 09 Mar 2026 14:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>マイクロソフトがMCP C# SDK v1.0をリリース、最新のプロトコル仕様を完全サポート</title>
-      <link>https://www.infoq.com/news/2026/03/mcp-csharp-v1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>マイクロソフトは、公式MCP C# SDKバージョン1.0をリリースしました。これにより、2025年11月25日版MCP仕様が完全にサポートされます。このリリースでは、強化された認証フロー、ツールとリソースのアイコンサポート、段階的なスコープ同意、URLモードの導出、サンプリング時のツール呼び出し、長時間実行されるHTTPリクエストの処理の改善などが導入されています。Almir Vuk著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/mcp-csharp-v1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 09 Mar 2026 08:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

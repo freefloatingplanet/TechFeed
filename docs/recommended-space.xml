@@ -7,20 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 07:02:15 +0000</lastBuildDate>
-    <item>
-      <title>小惑星「2024 YR4」が2032年に月へ衝突する確率はゼロに　ウェッブ宇宙望遠鏡が最新データ提供</title>
-      <link>https://sorae.info/astronomy/20260306-2024-yr4.html</link>
-      <description>NASA（アメリカ航空宇宙局）は2026年3月5日付けで、小惑星「2024 YR4」に関する最新の軌道解析が行われた結果、この小惑星が2032年12月に月へ衝突する可能性が完全に排除されたと発表しました。 月への衝突確率… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260306-2024-yr4.html</guid>
-      <pubDate>Fri, 06 Mar 2026 10:11:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Mar 2026 07:00:52 +0000</lastBuildDate>
     <item>
       <title>52歳、IT企業でAI業務に従事「今いる業界で専門性を磨きながら、将来、宇宙ビジネスに関わるため、どのような準備が必要ですか？」【宇宙ビジネスキャリア相談室】【PR】</title>
       <link>https://sorabatake.jp/45038/</link>
       <description>宇宙ビジネスに関心を持つ皆さまからキャリアに関する質問を募集。「宇宙業界とのかかわり方、宇宙におけるAI活用の最新事情」に関する質問に宇宙人材エージェントを運営する株式会社インバイトユーの河辺さんにご回答いただきました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45038/</guid>
       <pubDate>Mon, 02 Mar 2026 00:18:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>JAXAの新型補給機「HTV-X」1号機に搭載されていた超小型衛星の放出を実施</title>
+      <link>https://sorae.info/space/2026-03-12-htv-x1.html</link>
+      <description>JAXA（宇宙航空研究開発機構）は2026年3月12日、新型宇宙ステーション補給機1号機「HTV-X1」に搭載されていた超小型衛星「てんこう2（Ten-Koh2）」の放出を実施したと発表しました。 放出後に地上局で電波を… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/2026-03-12-htv-x1.html</guid>
+      <pubDate>Thu, 12 Mar 2026 12:14:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>「目の前にチャンスが来たらフルスイングできる場所に」南相馬市で生まれた宇宙産業の集積とその熱量の裏側【Why Space 特別インタビュー対談】</title>
+      <link>https://sorabatake.jp/45183/</link>
+      <description>今、福島県南相馬市に宇宙産業が集積し、宇宙産業に関する取り組みの熱量が高まっています。この地で、もともとは宇宙産業に関わらないキャリアを歩みながらも、現在は宇宙産業に関わり、その盛り上がりを加速させている3名にお話を伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45183/</guid>
+      <pubDate>Thu, 12 Mar 2026 23:11:02 +0000</pubDate>
     </item>
     <item>
       <title>ビジネスパーソンや地方自治体職員必見！ 第1回「サテライトデータビジネス検定」の受験申込は3月18日（水）まで</title>
@@ -58,13 +65,6 @@
       <pubDate>Mon, 09 Mar 2026 09:13:08 +0000</pubDate>
     </item>
     <item>
-      <title>ハッブルとユークリッドが観測した「キャッツアイ星雲」のクローズアップ＆ワイドビュー</title>
-      <link>https://sorae.info/astronomy/20260305-ngc-6543-cats-eye-nebula.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した惑星状星雲「NGC 6543」、別名「キャッツアイ星雲（Cat's Eye Nebula）」。 りゅう座の方向、約4400光年先にあります。 惑星状星雲は、超新星爆発を起こ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260305-ngc-6543-cats-eye-nebula.html</guid>
-      <pubDate>Thu, 05 Mar 2026 12:29:08 +0000</pubDate>
-    </item>
-    <item>
       <title>人類は地球外文明の電波信号を見逃しているかもしれない　恒星活動で信号が変化する可能性</title>
       <link>https://sorae.info/astronomy/20260310-seti-signal-bandwidth.html</link>
       <description>地球外文明の信号や痕跡を捉える試み「SETI（地球外知的生命体探査）」は、これまで数十年にわたって行われてきましたが、いまだに明確な証拠は発見されていません。その理由については「2つの文明が同じ時期に近い場所で存在する可… (source: sorae 宇宙へのポータルサイト)</description>
@@ -72,12 +72,11 @@
       <pubDate>Tue, 10 Mar 2026 12:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>世界有数のニッケル鉱山×衛星データ。CO2を地下に埋めて気候変動対策、SAR衛星がその監視役に【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/45070/</link>
-      <description>Canada Nickelが地中への炭素固定実証を実施、その経過を衛星データで検証しています。
-宇宙の技術が鉱山業界の脱炭素を後押しするモデルケースと期待されます。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45070/</guid>
-      <pubDate>Thu, 26 Feb 2026 23:00:00 +0000</pubDate>
+      <title>宇宙用半導体の「試験待ち」を解消へ！NTTらが放射線試験での地上代替評価を実証【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/45231/</link>
+      <description>宇宙産業の基盤、半導体開発を加速させる重要な成果です。放射線試験の予約待ちを解消することで、より多くのメーカーが宇宙開発に参入する環境の実現に貢献します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45231/</guid>
+      <pubDate>Thu, 12 Mar 2026 23:02:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

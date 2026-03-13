@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Mar 2026 07:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 07:00:55 +0000</lastBuildDate>
     <item>
-      <title>火星有機分子分析装置（MOMA）の科学的アナログとしての改造された市販のレーザー質量分析計の応用</title>
-      <link>https://arxiv.org/abs/2506.14691v2</link>
-      <description>2028年に打ち上げが計画されているESA/NASAロザリンド・フランクリン探査車は、火星有機分子分析装置（MOMA）装置の一部として、初のレーザー脱離イオン化質量分析計（LDI-MS）を火星に運びます。MOMAは、潜在的な有機バイオシグネチャーの分析を通じて、ミッションの宇宙生物学目標に貢献します。同等の機器がほとんど入手できなかったため、類似の技術と機器を使用した実験室分析は限られていました。これまで、機器間に大きな違いがあるにもかかわらず、MOMAチームではThermo LTQ-XLプラットフォームが主要なアナログ機器として使用されてきました。本研究では、この市販のベンチトップLDI-MSをMOMAの動作パラメータに近づける一連の改造を提示し、MOMA検証実験用のサンプルを迅速にテストできるようにします。私たちは、この機器が鉱物マトリックス中の有機標準を検出できること、そしてMS/MSにより複雑な混合物中でも構造同定が可能になることを実証します。さらに、アタカマ砂漠の火星類似遺跡から採取した天然サンプルのスペクトルと比較することで、既存のLDI-MSプロトタイプ機の性能と比較検証 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.14691v2</guid>
-      <pubDate>Tue, 17 Jun 2025 16:29:09 +0000</pubDate>
+      <title>構造健全性モニタリングにおける損傷識別のための数値ベンチマーク</title>
+      <link>https://arxiv.org/abs/2603.12069v1</link>
+      <description>新規データ駆動型戦略やハイブリッド物理データアプローチの検証および妥当性確認のためのデータセットの入手可能性は、現在、工学分野における最も差し迫った課題の1つです。データの所有権、セキュリティ、アクセス、メタデータの使いやすさは、現在、多くの分野、特に構造健全性モニタリング（SHM）アプリケーションにおける進歩を阻害しています。本論文では、動的および静的測定（すなわち、加速度と変位）で構成されるシミュレーションSHMデータセットを提示し、それを生成するために設計された概念フレームワークを含みます。シミュレーションされた測定は、実際の取得中に発生する可能性のあるシナリオを考慮するために、環境および運用変動（EOV）、さまざまな種類の損傷、測定ノイズ、センサーの故障および誤動作の影響を組み込むように生成されました。数値ベンチマークの参照として、固定-固定鋼梁構造が選択されました。シミュレーションされたモニタリングは、加速度記録を生成するための1自由度（SDOF）の仮定と、シミュレーションされた変位測定のためのオイラー・ベルヌーイ梁の仮定の下で実行されました。生成プロセスには並列計算が用いら (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.12069v1</guid>
+      <pubDate>Thu, 12 Mar 2026 15:36:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

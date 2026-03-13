@@ -7,13 +7,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 07:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 07:00:47 +0000</lastBuildDate>
     <item>
-      <title>勘に頼るIAM設計はもう卒業。IAM Access Analyzerで実現する「ログから作る最小権限」 | iret.media</title>
-      <link>https://iret.media/188235</link>
-      <description>こんにちは、アイレットの日下です。 AWSを運用していて、「管理者権限（AdministratorAccess）を付けているのに、なぜか操作が弾かれる」という謎現象に頭を抱えました。 実は、IAMを「ただのログイン管理」だと思っていると、このAccess Deniedの謎から抜け出せません。 今回は、私が実務を通じて学んだ「IAMの本当の... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://iret.media/188235</guid>
-      <pubDate>Thu, 12 Mar 2026 03:30:17 +0000</pubDate>
+      <title>Claude Codeで仕様駆動開発、tsumikiが良かった</title>
+      <link>https://zenn.dev/hidechannu/articles/20260314-spec-driven-development-tsumiki</link>
+      <description>はじめに
+前回の記事では、Claude Codeに出戻りした話と、コンテキストエンジニアリングの考え方について書いた。
+今回は「じゃあ実際に実務でどう使うの？」という話だ。
+個人開発のプロジェクトなら思いついたままにClaude Codeを走らせて実装すればいい。それはそれで楽しいし、それなりの成果物もできる。
+ただ、それでは再現性がない。
+以前書いた記事でも触れたが、モデルの精度が上がったとはいえAIはいまだにガチャだ。何かを作るたびに品質がブレる状態では実務には持ち込めない。
+そこでたどり着いたのが、仕様駆動開発（Spec-Driven Development） だ。
+
+ 仕様駆... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hidechannu/articles/20260314-spec-driven-development-tsumiki</guid>
+      <pubDate>Tue, 10 Mar 2026 17:09:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stripe Radarでカードテスティング対策のレート制限を実装した話</title>
+      <link>https://qiita.com/AkiraTakasaki/items/6dd99e3992ca701be658?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>こんにちは、ソーイ株式会社の高崎です。
+弊社では、会員制Webシステムの決済機能にStripeを利用しています。
+不正決済対策としてStripe Radarの導入を検討し、カードテスティング対策としてレート制限のルールを設定しました。
+結論として、以下のRadarルールを設... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/AkiraTakasaki/items/6dd99e3992ca701be658?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 12 Mar 2026 02:59:38 +0000</pubDate>
     </item>
     <item>
       <title>Opus4.6でdraw.io図を生成したらもはやLLMの前提が崩れてた件</title>
@@ -29,11 +47,23 @@
       <pubDate>Tue, 10 Mar 2026 09:18:14 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeで自分好みの朝刊が届く仕組みを作った</title>
-      <link>https://zenn.dev/aoi_umigishi/articles/936073d8dd16e9</link>
-      <description>はじめに こんにちは、まっくすと申します。 普段Flutter を使ったフリーランスのエンジニアとして働いています。 エンジニアになって大事だなぁと感じるのは、 言語や技術の最新情報を追いかける、ということです。 特に昨今のAI技術の発展を追いかけることは、 自分の仕事の生産性を上げることにつながるため、非常に... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/aoi_umigishi/articles/936073d8dd16e9</guid>
-      <pubDate>Wed, 11 Mar 2026 07:11:37 +0000</pubDate>
+      <title>プログラマの抱いている不動産データについての誤謬</title>
+      <link>https://zenn.dev/estie/articles/39efe1ebf6b188</link>
+      <description>こんにちは。ソフトウェアエンジニアのyasuandです。株式会社estieのデータマネジメントグループ（DMG）という部署で、登記簿データの管理システムを作っています。
+登記簿に限らず不動産データと日々触れ合っていると、時々”変な”データと出会うことがあります。住所の読みが面白いという程度ならその場でスルーして終わりなのですが、なかにはデータモデリング上の扱いが問題になるものも存在します。
+そこで今回は『プログラマの抱いている名前についての誤謬』をオマージュして『プログラマの抱いている不動産データについての誤謬』というタイトルで、建物を中心とした不動産データに関して多くの方が誤解している... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/estie/articles/39efe1ebf6b188</guid>
+      <pubDate>Thu, 12 Mar 2026 03:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>MySQLが好きな私が、今はPostgreSQLを勧めたい理由</title>
+      <link>https://zenn.dev/catatsuy/articles/f3721135c6f8f6</link>
+      <description>私はMySQLが好きです。長く使ってきましたし、オンプレミスでの運用もやってきました。
+しかし現職に来てからは、PostgreSQLを使う機会が増えました。最初は正直かなり抵抗感がありました。ずっとMySQLを使ってきたので、慣れの問題もありますし、PostgreSQLに対して必要以上に構えていたところもあったと思います。
+ただ、実際に使っていくうちに、PostgreSQLの良さが少しずつ見えてきました。最近では、新規開発でどちらを選ぶかと聞かれたら、PostgreSQLを選びたいと思うようになっています。
+私はMySQLを長く使ってきたので、昔のMySQLの雑さも知っています。ただ同時... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/catatsuy/articles/f3721135c6f8f6</guid>
+      <pubDate>Wed, 11 Mar 2026 10:29:39 +0000</pubDate>
     </item>
     <item>
       <title>時計アイコンを精密につくるツールを開発した（迫真）</title>
@@ -52,61 +82,47 @@ Unityなどを... (source: Zennのトレンド)</description>
       <pubDate>Tue, 10 Mar 2026 02:31:15 +0000</pubDate>
     </item>
     <item>
-      <title>デバッグはもう人間の仕事ではなくなった</title>
-      <link>https://zenn.dev/dinii/articles/debugging-is-solved</link>
-      <description>こんにちは、ダイニーの ogino です。
-弊社では、ほとんどの技術的な不具合の調査・解決を AI に丸投げできるようになりました。
-これは単なるコードレベルのバグに限りません。本番環境や特定のユーザーだけでしか発生しない問題、インフラの設定ミスなど含めすべてに言える話です。
-Claude Code を使い始めてからここに至るまで、大きく 2 つ転換点がありました。
-
-AI が本番データベース、ログ、Sentry などに直接アクセスできるようにした
-複数のエージェントが仮説を並列検証し、もう一体が対立してレビューするチーム構成にした
-
-それぞれについて詳しく説明していきます。
-
- AI ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dinii/articles/debugging-is-solved</guid>
-      <pubDate>Mon, 09 Mar 2026 02:41:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Piで運用する自宅サーバー入門（第1巻：基礎編）</title>
-      <link>https://zenn.dev/murasanlab/books/c40c7d02a82d0f</link>
-      <description>Raspberry Piを手に入れて、LEDを光らせて、センサーの値を読んで……
-その先に「自宅サーバー」という  選択肢があることをご存じですか？                                                             
-
-本書は、Raspberry Piを「電子工作のおもちゃ」から「24時間稼働する実用的なサーバー」へとステップアップさせるための入門書です。月々の電気代はわずか100〜200円。小さなコンピュータが自宅の片隅で静かにサービスを提供し続ける——そんな環境を、一緒に構築していきましょう。
-
-コマンドを丸暗記するのではなく、「なぜその設定が必要なのか」「その仕組みはどうなっているのか 」を一つずつ丁寧に解説しています。サーバー運用に必要なLinuxの基礎知識からSSHによるリモート操作、サービスの自動起動、ログの確認まで、この1冊で土台を築くことができます。
-
-本書は「Raspberry Piではじめる自宅サーバー入門」シリーズの第1巻（基礎編）です。サーバー運用の世界への第一歩を、ここから始めてみませんか。 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/murasanlab/books/c40c7d02a82d0f</guid>
-      <pubDate>Sun, 08 Mar 2026 11:38:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜ私はゲーム開発で「疎結合」と「コンポーネント指向」に異常なほどこだわるのか</title>
-      <link>https://zenn.dev/munimaru62o/articles/c6ed730c6e4c61</link>
-      <description>!
-この記事の3行まとめ
-
-ゲームから「予定調和」を排除し、プレイヤーの試行錯誤による「創発的な遊び」を生み出すための設計思想について。
-その手段としての「徹底した疎結合・ドメイン分離」と、実現するための3つの技術的アプローチ。
-理想を追うことで直面する「バランス崩壊・認知負荷」などの強烈なトレードオフと、その現実的な解決策。
-
-
-
- はじめに
-ゲーム開発において「疎結合」「コンポーネント指向」「ドメイン駆動設計」といったアーキテクチャの重要性が語られることは珍しくありません。
-保守性が上がる、再利用性が高い、テストがしやすい……理由は様々です。
-しかし、私が個人的に開発しているUnre... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/munimaru62o/articles/c6ed730c6e4c61</guid>
-      <pubDate>Tue, 10 Mar 2026 12:35:36 +0000</pubDate>
-    </item>
-    <item>
       <title>【海外記事紹介】「エンジニアは今、マネージャーを目指すべきではない」 ― 激動のAI時代、現場を離れるのはハイリスクだという提言が話題に</title>
       <link>https://techfeed.io/entries/69a7cca44271131d91d5944c?from=rss</link>
       <description>3月4日、manager.devが「Don't become an Engineering Manager」と題した記事を公開した。この記事では、マネジメント職（EM：エンジニアリングマネージャー）への転身に伴う近年のリスクと、「現場のエンジニア」（IC：Individual Contributor）としてキャリアを継続することの合理性について詳しく紹介されている。以下に、その内容と、テック業界の主要コミュニティであるHacker Newsのスレッドなどで巻き起こっている議論を合わせて紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/69a7cca44271131d91d5944c?from=rss</guid>
       <pubDate>Wed, 04 Mar 2026 06:09:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeで自分好みの朝刊が届く仕組みを作った</title>
+      <link>https://zenn.dev/aoi_umigishi/articles/936073d8dd16e9</link>
+      <description>はじめに
+こんにちは、まっくすと申します。
+普段Flutter を使ったフリーランスのエンジニアとして働いています。
+エンジニアになって大事だなぁと感じるのは、
+言語や技術の最新情報を追いかける、ということです。
+特に昨今のAI技術の発展を追いかけることは、
+自分の仕事の生産性を上げることにつながるため、非常に重要だと考えます。
+ただ、情報収集のために毎日複数のサイトを巡回するのは結構な手間です。
+Zenn、はてなブックマーク、Reddit、Hacker News、YouTube、X……と情報源が多いほど、
+「チェックし忘れ」や「時間が溶ける」問題が起きます。
+そこで、Claude ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aoi_umigishi/articles/936073d8dd16e9</guid>
+      <pubDate>Tue, 10 Mar 2026 11:37:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>なぜ Unity は C# を選び、Unreal は選ばなかったのかについての個人の考察</title>
+      <link>https://zenn.dev/wuyukwi/articles/97b70df23bd792</link>
+      <description>はじめに
+ゲームエンジンの言語の話になると、よくこんな対比が出てきます。
+Unity は C#。
+Unreal は C++ と Blueprint。
+この違い、ただの好みではありません。
+エンジンの設計思想そのものに関わっています。
+C# が優れているとか、C++ が古いとか、そういう単純な話ではない。
+両者はそもそも目指している開発体験が違うのです。
+
+
+ Unity が辿った言語統一の歴史
+今でこそ「Unity といえば C#」という印象がありますが、最初からそうだったわけではありません。
+初期の Unity では、開発者のバックグラウンドに合わせて複数の言語を選択できるのが特徴... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/wuyukwi/articles/97b70df23bd792</guid>
+      <pubDate>Wed, 11 Mar 2026 10:31:51 +0000</pubDate>
     </item>
     <item>
       <title>証券システムと、それを取り巻く世界</title>
@@ -127,13 +143,6 @@ AI が本番データベース、ログ、Sentry などに直接アクセスで�
  ・証券ドメ (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/mi_01_24fu/books/securities-system-flow</guid>
       <pubDate>Wed, 11 Mar 2026 03:28:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>コミュニティ主導で新たなnpmビューアー「npmx」が爆誕 — 2週間で1,000PR、「オープンソースのあるべき姿」と絶賛される</title>
-      <link>https://techfeed.io/entries/69a7b3c64271131d91d58ed2?from=rss</link>
-      <description>3月4日、npmxが「Announcing npmx: a fast, modern browser for the npm registry」と題した記事を公開した。この記事では、npmパッケージの検索・閲覧・評価をより効率化する新しいインターフェース「npmx」のアルファ版リリースについて詳しく紹介されている。以下に、その内容を紹介する。npmxとはnpmxは、世界最大のJavaScriptパッケージレジストリである「npm」のデータを、より高速かつ詳細に表示するための高機能なパッケージ閲覧ツールである。既存の公式サイト（npmjs.com）と同じレジストリをベースにしながらも、開発者がパッケージを選定・管理する際の利便性を極限まで高めることを目的として設計されている。npmxがなぜ注目されているのかnpmxが短期間で爆発的な注目を集めたのは、従来のツールでは「インストールしてみるまで分からなかった情報」を、検索の段階で可視化しているからだ。開発者の「知りたい」に答える情報設計開発者が最も懸念するのは、導入したパッケージがプロジェクトに悪影響を及ぼすことである。npmxでは、インス (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/69a7b3c64271131d91d58ed2?from=rss</guid>
-      <pubDate>Wed, 04 Mar 2026 04:23:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
