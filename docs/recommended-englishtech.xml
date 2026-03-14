@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 07:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 06:54:26 +0000</lastBuildDate>
     <item>
       <title>Claude Opus 4.6では、長時間稼働エージェント向けに適応推論とコンテキスト圧縮が導入されます。</title>
       <link>https://www.infoq.com/news/2026/03/opus-4-6-context-compaction/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -16,18 +16,11 @@
       <pubDate>Thu, 12 Mar 2026 10:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>DatadogがエージェントGoバイナリのサイズを77%削減した方法</title>
-      <link>https://www.infoq.com/news/2026/03/datadog-go-binary-optimization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Datadog Agentのサイズが5年間で428 MiBから1.22 GiBにまで増大したことを受け、Datadogのエンジニアたちはバイナリサイズの削減に着手しました。その結果、Goバイナリの肥大化のほとんどは、隠れた依存関係、無効化されたリンカー最適化、そしてGoコンパイラとリンカーの微妙な動作に起因することが判明しました。 セルジオ・デ・シモーネ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/datadog-go-binary-optimization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 10 Mar 2026 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Uno Platform 6.5 がリリース。AI エージェントのサポート、Unicode テキスト、Studio の改良が追加</title>
-      <link>https://www.infoq.com/news/2026/03/uno-platform-6-5-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Uno Platform 6.5では、Antigravity AIエージェントのサポートが導入され、エージェントが実行時にアプリの動作を検証できるようになりました。Hot Designは、再設計されたツールバーと新しいスコープセレクタを備え、デフォルトで起動するようになりました。また、このリリースでは、非ラテン文字のUnicode TextBoxのサポートが追加され、WebAssembly上のWebView2が改善され、サポートされているすべてのプラットフォームで450件以上のコミュニティの問題が解決されています。執筆者：Almir Vuk (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/uno-platform-6-5-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 11 Mar 2026 08:40:00 +0000</pubDate>
+      <title>JWKS開発者向けガイド</title>
+      <link>https://workos.com/blog/developers-guide-jwks</link>
+      <description>JSON Web Key Setsに関する完全なリファレンス：構造、アルゴリズム、エンドポイント、およびキーローテーション。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/developers-guide-jwks</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>InfoQの新しいオンライン講座で、社会技術アーキテクチャのスキルを向上させましょう</title>
@@ -37,6 +30,13 @@
       <pubDate>Thu, 12 Mar 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>AIエージェントのサポート、Unicodeテキスト、およびスタジオ機能の改善を含むUno Platform 6.5がリリースされました</title>
+      <link>https://www.infoq.com/news/2026/03/uno-platform-6-5-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Uno Platform 6.5では、Antigravity AIエージェントのサポートが導入され、エージェントが実行時にアプリの動作を検証できるようになりました。Hot Designは、再設計されたツールバーと新しいスコープセレクタを備え、デフォルトで起動するようになりました。また、このリリースでは、非ラテン文字のUnicode TextBoxのサポートが追加され、WebAssembly上のWebView2が改善され、サポートされているすべてのプラットフォームで450件以上のコミュニティの問題が解決されています。執筆者：Almir Vuk (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/uno-platform-6-5-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 11 Mar 2026 08:40:00 +0000</pubDate>
+    </item>
+    <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
       <description>現代のアプリケーション開発では、複数のサードパーティサービスとの接続がますます重要になっています。Pipesは、OAuthフロー、トークン管理、プロバイダー設定を自動的に処理するように設計されています。 (source: WorkOS Blog)</description>
@@ -44,18 +44,18 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Webpack がネイティブ CSS サポート、ユニバーサル ターゲット、バージョン 6 へのパスを含む 2026 年のロードマップを公開</title>
+      <title>WebpackがネイティブCSSサポート、ユニバーサルターゲット、バージョン6への道筋を含む2026年ロードマップを公開</title>
       <link>https://www.infoq.com/news/2026/03/webpack-2026-roadmap/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>Even Stensberg氏が率いるwebpackの2026年ロードマップでは、バンドラーの近代化を目指した大幅な機能強化が発表されました。主な機能には、ネイティブCSSモジュールサポート、様々な環境に対応したユニバーサルコンパイル、組み込みのTypeScriptサポート、そしてパフォーマンス最適化への注力などが含まれます。競合他社の台頭に伴い、webpackはコアとなる強みを維持しながら、ユーザーエクスペリエンスの向上に努めています。執筆：Daniel Curtis (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/webpack-2026-roadmap/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 11 Mar 2026 16:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Tinderは、IRLイベントやバーチャルスピードデートで人々をオンラインデートに呼び戻そうとしている</title>
-      <link>https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/</link>
-      <description>Tinderは、ユーザー基盤の再構築と若いデートユーザー獲得を目指し、大幅なリニューアルを行いました。これには、対面イベント、AI強化、さらにはバーチャルスピードデートなどが含まれます。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/</guid>
-      <pubDate>Thu, 12 Mar 2026 18:00:00 +0000</pubDate>
+      <title>DoorDashが顧客サポートチャットボットの大規模テストのためにLLM会話シミュレーターを構築</title>
+      <link>https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>DoorDashのエンジニアは、大規模言語モデル（LLM）を用いた顧客サポートチャットボットを大規模にテストするためのシミュレーションおよび評価フライホイールを構築しました。このシステムは、過去のトランスクリプトとバックエンドのモックアップを使用して複数ターンの合成会話を生成し、LLMを評価基準とするフレームワークで結果を評価し、本番展開前にプロンプト、コンテキスト、システム設計を迅速に反復改善することを可能にします。Leela Kumili著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 13 Mar 2026 14:12:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP ナイト：ホリデースペシャル</title>
@@ -65,18 +65,18 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Netflix、400の運用クラスターにわたるRDS PostgreSQLからAurora PostgreSQLへの移行を自動化</title>
-      <link>https://www.infoq.com/news/2026/03/netflix-automates-rds-aurora/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Netflixのエンジニアは、約400のRDS PostgreSQLクラスターをAuroraに移行する社内自動化プラットフォームについて説明し、ダウンタイムと運用リスクの削減を実現した。このプラットフォームは、レプリケーション、CDC処理、制御された切り替え、ロールバックを調整するとともに、サービスチームがセルフサービス型の移行ワークフローを利用できるよう支援する。Leela Kumili著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/netflix-automates-rds-aurora/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
+      <title>ポッドキャスト：情報フロー：エンジニアリング文化の隠れた原動力</title>
+      <link>https://www.infoq.com/podcasts/hidden-driver-engineering-culture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>このポッドキャストでは、カルチャー＆メソッド担当編集長のシェーン・ハスティが、ロン・ウェストラムの組織文化連続体、チーム文化形成における情報フローの役割、そしてリーダーが微弱な兆候を察知するために必要な想像力をどのように養うことができるかについて、エイドリアン・ペリアーと対談しました。執筆：エイドリアン・ペリアー (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/podcasts/hidden-driver-engineering-culture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 13 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：AIネイティブ開発の4つのパターン</title>
-      <link>https://www.infoq.com/presentations/patterns-ai-native-development/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>パトリック・デボワは、AI時代のソフトウェアエンジニアリングの進化について論じています。彼は、プロデューサーからマネージャーへの移行、仕様主導型開発による実装よりも意図への注力、デリバリーからディスカバリーへの移行、そしてエージェント知識の管理という4つの重要なパターンを紹介します。これらの変化が、役職、チームの役割、そしてDevOpsワークフローの未来をどのように再定義するのかを解説します。パトリック・デボワ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/patterns-ai-native-development/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 09 Mar 2026 14:55:00 +0000</pubDate>
+      <title>あるベンチャーキャピタリストが「この10年で最高の取引」と呼ぶ320億ドルの買収</title>
+      <link>https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/</link>
+      <description>Index VenturesのパートナーであるShardul Shah氏によると、サイバーセキュリティスタートアップのWizは「AI、クラウド、セキュリティ支出という3つの追い風の中心」に位置している。これらの追い風が、史上最大のベンチャーキャピタルによる買収となったGoogleの320億ドルの買収を後押しした。この買収は、2024年の提案が拒否され、大西洋両岸での独占禁止法審査を経て最終決定された。[…] (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/</guid>
+      <pubDate>Fri, 13 Mar 2026 16:20:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

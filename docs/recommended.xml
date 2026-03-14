@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 07:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 06:54:16 +0000</lastBuildDate>
     <item>
       <title>Claude Codeで仕様駆動開発、tsumikiが良かった</title>
       <link>https://zenn.dev/hidechannu/articles/20260314-spec-driven-development-tsumiki</link>
@@ -22,16 +22,6 @@
  仕様駆... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/hidechannu/articles/20260314-spec-driven-development-tsumiki</guid>
       <pubDate>Tue, 10 Mar 2026 17:09:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stripe Radarでカードテスティング対策のレート制限を実装した話</title>
-      <link>https://qiita.com/AkiraTakasaki/items/6dd99e3992ca701be658?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>こんにちは、ソーイ株式会社の高崎です。
-弊社では、会員制Webシステムの決済機能にStripeを利用しています。
-不正決済対策としてStripe Radarの導入を検討し、カードテスティング対策としてレート制限のルールを設定しました。
-結論として、以下のRadarルールを設... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/AkiraTakasaki/items/6dd99e3992ca701be658?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 12 Mar 2026 02:59:38 +0000</pubDate>
     </item>
     <item>
       <title>Opus4.6でdraw.io図を生成したらもはやLLMの前提が崩れてた件</title>
@@ -66,20 +56,18 @@
       <pubDate>Wed, 11 Mar 2026 10:29:39 +0000</pubDate>
     </item>
     <item>
-      <title>時計アイコンを精密につくるツールを開発した（迫真）</title>
-      <link>https://zenn.dev/rollpie/articles/a3ba230583e223</link>
-      <description>イラストレーターがなくても時計アイコンをつくれる道具を開発しました。
+      <title>最初に伝えるべきは「結論」ではなく「要約」</title>
+      <link>https://zenn.dev/knowledgework/articles/2bee3329c16bc1</link>
+      <description>こんにちは、ナレッジワークの munetoshi です。
+この記事は、KNOWLEDGE WORK Blog Sprint 2026 Spring の 10 本目の記事です。
 
-短針と長針の長さや幅を指定できたり、目盛りの大小や破線領域を設定できます。線の色はカラーピッカーで簡単に入力可能！
-時間指定できる時計のおしゃれアイコン
-で確認できます。時計素材に悩んだら使ってね！
-このジェネレーターを作るにあたって学んだことをここに残します。
+技術文書の冒頭には「結論」ではなく、文脈や目的を含んだ「要約」を書きましょう。本記事では、要約から書くことの利点、そう書くためのテクニックについて解説します。
+ここでは、「結論」と「要約」を以下のように定義します。
 
-アイコンのレンダリングよりも、ジェネレーターUIのレンダリングのほうが10倍以上難しい
-Bounding Box算出はcanvasを使うべし（SVGの精緻な構造をつくるにあたってcanvas APIは避けられない、getBBoxは茨の道）
-Unityなどを... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/rollpie/articles/a3ba230583e223</guid>
-      <pubDate>Tue, 10 Mar 2026 02:31:15 +0000</pubDate>
+結論: 議論や演繹の結果。話題の出発点 (仮定や前提) から導かれた最終的な帰結や判断。
+要約: その文章の主張の重要な要素をまとめたもの。結論だけでなく、目的や文脈、重要な議論の展開も含むことがあ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/2bee3329c16bc1</guid>
+      <pubDate>Fri, 13 Mar 2026 03:00:20 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「エンジニアは今、マネージャーを目指すべきではない」 ― 激動のAI時代、現場を離れるのはハイリスクだという提言が話題に</title>
@@ -104,6 +92,21 @@ Zenn、はてなブックマーク、Reddit、Hacker News、YouTube、X……と
 そこで、Claude ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/aoi_umigishi/articles/936073d8dd16e9</guid>
       <pubDate>Tue, 10 Mar 2026 11:37:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>インターン先でCI/CDパイプラインをゼロから構築し、リリース頻度を110倍にした話</title>
+      <link>https://zenn.dev/satotakahumi/articles/3f950feea0d8b2</link>
+      <description>1.はじめに
+AIによる高速な開発が当たり前になる中、私はインターンとして参加したプロジェクトで「品質をどう守るか」という課題に向き合いました。
+本記事では、AIを活用した開発の中で、品質を継続的に守る仕組みづくりに取り組んだ経験と、そこから得た学びを振り返ります。
+※本記事は、インターン生という一開発者の視点による個人の振り返りです。当時のチームの状況や判断を批判する意図は一切なく、むしろ未熟な提案を受け入れ、議論の機会をくださったチームへの感謝を込めて執筆しています。
+※インターン先に掲載の許可を得ております。
+簡単なまとめ
+!
+
+課題：AI生成コード前提の開発での品質担保がボト... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/satotakahumi/articles/3f950feea0d8b2</guid>
+      <pubDate>Wed, 11 Mar 2026 13:54:40 +0000</pubDate>
     </item>
     <item>
       <title>なぜ Unity は C# を選び、Unreal は選ばなかったのかについての個人の考察</title>
