@@ -7,34 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2026 06:54:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 07:03:58 +0000</lastBuildDate>
     <item>
-      <title>Claude Codeで仕様駆動開発、tsumikiが良かった</title>
-      <link>https://zenn.dev/hidechannu/articles/20260314-spec-driven-development-tsumiki</link>
+      <title>Claude CodeやCodexのスキルの管理を楽にするツール「faceted-prompting」</title>
+      <link>https://zenn.dev/nrs/articles/88f158aca0505b</link>
       <description>はじめに
-前回の記事では、Claude Codeに出戻りした話と、コンテキストエンジニアリングの考え方について書いた。
-今回は「じゃあ実際に実務でどう使うの？」という話だ。
-個人開発のプロジェクトなら思いついたままにClaude Codeを走らせて実装すればいい。それはそれで楽しいし、それなりの成果物もできる。
-ただ、それでは再現性がない。
-以前書いた記事でも触れたが、モデルの精度が上がったとはいえAIはいまだにガチャだ。何かを作るたびに品質がブレる状態では実務には持ち込めない。
-そこでたどり着いたのが、仕様駆動開発（Spec-Driven Development） だ。
-
- 仕様駆... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hidechannu/articles/20260314-spec-driven-development-tsumiki</guid>
-      <pubDate>Tue, 10 Mar 2026 17:09:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Opus4.6でdraw.io図を生成したらもはやLLMの前提が崩れてた件</title>
-      <link>https://zenn.dev/acntechjp/articles/4ab4491afd5a8b</link>
-      <description>!
-この記事ではdraw.ioを使ってClaude Codeで作図する実践パートがありますが、MCPサーバーもSkillsも使っておりません。すべてOpus4.6の性能だけで作図してます。
-
-
- はじめに
-「LLMは空間的な推論が苦手」「テキストベースで座標を扱うのだから、複雑な図はぐちゃぐちゃになるはず」──これは自分がずっと持っていた前提でした。おそらく同じように考えている方も多いのではないでしょうか。
-実際、以前のモデルで試した限りでは、この前提はおおむね正しかったと思います。構成が複雑になれば矢印が交差して読みにくい図になり、結局は人力で修正することになる。グラフ理論的に考えても... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/4ab4491afd5a8b</guid>
-      <pubDate>Tue, 10 Mar 2026 09:18:14 +0000</pubDate>
+プロンプトが長く、そして増えてくると、どんどんと保守性が下がってきます。
+役割、ルール、知識、作業指示、出力形式。
+最初はひとつのファイルに入っていても困りません。
+ところが運用を続けると、一部だけ差し替えたい、同じルールを別のスキルでも使いたい、Claude Code と Codex の両方で使いたい、といった欲が出てきます。
+そのたびに長いプロンプトを丸ごと編集するのは、かなりつらい。
+これは大きな課題です。
+以前、私はこの問題に対する考え方として、Faceted Prompting というものを書きました。
+https://zenn.dev/nrs/articles/... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nrs/articles/88f158aca0505b</guid>
+      <pubDate>Thu, 12 Mar 2026 11:15:06 +0000</pubDate>
     </item>
     <item>
       <title>プログラマの抱いている不動産データについての誤謬</title>
@@ -56,6 +43,13 @@
       <pubDate>Wed, 11 Mar 2026 10:29:39 +0000</pubDate>
     </item>
     <item>
+      <title>iPhoneの「探す」機能で４時間雪に埋もれていた夫を救い出した妻</title>
+      <link>https://karapaia.com/archives/590224.html</link>
+      <description>スマートフォン＝スマホは既に単なる携帯電話ではない。情報端末として、我々の日常生活に欠かせないアイテムとなっている。 そして位置情報アプリの搭載は、探し物を助けてくれるだけでなく、時として人命救助にもつながるように。 2026年2月、アメリカ・ワシントン州の雪山で雪崩に巻き込まれた男性が、アップル社の「... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://karapaia.com/archives/590224.html</guid>
+      <pubDate>Sat, 14 Mar 2026 07:50:06 +0000</pubDate>
+    </item>
+    <item>
       <title>最初に伝えるべきは「結論」ではなく「要約」</title>
       <link>https://zenn.dev/knowledgework/articles/2bee3329c16bc1</link>
       <description>こんにちは、ナレッジワークの munetoshi です。
@@ -70,28 +64,47 @@
       <pubDate>Fri, 13 Mar 2026 03:00:20 +0000</pubDate>
     </item>
     <item>
+      <title>OpenClawライクなソフトをまとめてみた</title>
+      <link>https://zenn.dev/karaage0703/articles/0e2e3484169db2</link>
+      <description>OpenClawが310K starsを超え、AIパーソナルアシスタント界隈が盛り上がっています。OpenClaw以外にも「Claw系」と呼ばれる派生プロジェクトや、独立系のCLIコーディングエージェントが数多く登場しています。
+この記事では、OpenClaw的なソフト（パーソナルAIアシスタント＆CLIコーディングエージェント）を個人的にまとめました。自分が使っているものや調査で見つけたものを、カテゴリ別に紹介します。
+!
+すべてのツールを実際に試したわけではありません。GitHubのREADMEやドキュメントをベースに情報をまとめています。また、この記事の調査にはAIを活用しています... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/karaage0703/articles/0e2e3484169db2</guid>
+      <pubDate>Fri, 13 Mar 2026 12:48:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>生成AIでパワポを作る方法一覧【2026年3月版】</title>
+      <link>https://zenn.dev/ncukondo/articles/ai-generate-pptx-methods-2026</link>
+      <description>はじめに
+生成AIを使ったスライド作成ツールの紹介記事は増えていますが、その多くはPDFやHTML出力が中心です。しかし実際の仕事では、上司や共著者が追加編集する、提出物としてパワポ形式(PPTX)が指定される、といった理由からPPTXでの出力が必要な場面が少なくありません。
+本記事では、2026年3月時点で利用可能な方法をGUI完結型・Markdown型・コード生成型の3カテゴリに分けて、PPTX出力の観点から整理します。
+
+ PPTX出力の「編集可能性」に注意
+まず前提として、PPTX出力に対応していても、中身が編集可能とは限らないという点を押さえておく必要があります。
+たとえば... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ncukondo/articles/ai-generate-pptx-methods-2026</guid>
+      <pubDate>Sat, 14 Mar 2026 00:14:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>懇親会でぼっちにならないテクニック</title>
+      <link>https://zenn.dev/philosophum/articles/4bdf97acbb2299</link>
+      <description>勉強会などのイベントに参加して、懇親会でぼっちになってしまった経験はありませんか？
+私は何度もあります。知り合いがいるイベントに参加しても、わりかしぼっち感を味わってます。
+色々考えると、懇親会でぼっちにならないためには、やっぱり努力と勇気が必要だと思っています。私は大体勇気が足りずに逃げ帰ることが多いです。
+それでも、いくつか使えるテクニックがあるので紹介します。
+この記事では、まず今すぐ使える当日のテクニックを紹介し、その後に時間をかけて準備できる方法も紹介します。完璧な解決策ではありませんが、少しでもぼっちを感じる人が減れば幸いです。
+
+ 懇親会が始まる、今からでもできるテクニック... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/philosophum/articles/4bdf97acbb2299</guid>
+      <pubDate>Fri, 13 Mar 2026 15:34:52 +0000</pubDate>
+    </item>
+    <item>
       <title>【海外記事紹介】「エンジニアは今、マネージャーを目指すべきではない」 ― 激動のAI時代、現場を離れるのはハイリスクだという提言が話題に</title>
       <link>https://techfeed.io/entries/69a7cca44271131d91d5944c?from=rss</link>
       <description>3月4日、manager.devが「Don't become an Engineering Manager」と題した記事を公開した。この記事では、マネジメント職（EM：エンジニアリングマネージャー）への転身に伴う近年のリスクと、「現場のエンジニア」（IC：Individual Contributor）としてキャリアを継続することの合理性について詳しく紹介されている。以下に、その内容と、テック業界の主要コミュニティであるHacker Newsのスレッドなどで巻き起こっている議論を合わせて紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/69a7cca44271131d91d5944c?from=rss</guid>
       <pubDate>Wed, 04 Mar 2026 06:09:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Codeで自分好みの朝刊が届く仕組みを作った</title>
-      <link>https://zenn.dev/aoi_umigishi/articles/936073d8dd16e9</link>
-      <description>はじめに
-こんにちは、まっくすと申します。
-普段Flutter を使ったフリーランスのエンジニアとして働いています。
-エンジニアになって大事だなぁと感じるのは、
-言語や技術の最新情報を追いかける、ということです。
-特に昨今のAI技術の発展を追いかけることは、
-自分の仕事の生産性を上げることにつながるため、非常に重要だと考えます。
-ただ、情報収集のために毎日複数のサイトを巡回するのは結構な手間です。
-Zenn、はてなブックマーク、Reddit、Hacker News、YouTube、X……と情報源が多いほど、
-「チェックし忘れ」や「時間が溶ける」問題が起きます。
-そこで、Claude ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aoi_umigishi/articles/936073d8dd16e9</guid>
-      <pubDate>Tue, 10 Mar 2026 11:37:51 +0000</pubDate>
     </item>
     <item>
       <title>インターン先でCI/CDパイプラインをゼロから構築し、リリース頻度を110倍にした話</title>
@@ -107,45 +120,6 @@ AIによる高速な開発が当たり前になる中、私はインターンと
 課題：AI生成コード前提の開発での品質担保がボト... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/satotakahumi/articles/3f950feea0d8b2</guid>
       <pubDate>Wed, 11 Mar 2026 13:54:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜ Unity は C# を選び、Unreal は選ばなかったのかについての個人の考察</title>
-      <link>https://zenn.dev/wuyukwi/articles/97b70df23bd792</link>
-      <description>はじめに
-ゲームエンジンの言語の話になると、よくこんな対比が出てきます。
-Unity は C#。
-Unreal は C++ と Blueprint。
-この違い、ただの好みではありません。
-エンジンの設計思想そのものに関わっています。
-C# が優れているとか、C++ が古いとか、そういう単純な話ではない。
-両者はそもそも目指している開発体験が違うのです。
-
-
- Unity が辿った言語統一の歴史
-今でこそ「Unity といえば C#」という印象がありますが、最初からそうだったわけではありません。
-初期の Unity では、開発者のバックグラウンドに合わせて複数の言語を選択できるのが特徴... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/wuyukwi/articles/97b70df23bd792</guid>
-      <pubDate>Wed, 11 Mar 2026 10:31:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>証券システムと、それを取り巻く世界</title>
-      <link>https://zenn.dev/mi_01_24fu/books/securities-system-flow</link>
-      <description>個人投資家が「注文ボタン」を押すと、その注文は証券会社のシステムを経由して取引所へ送信されます。条件が合えばすぐに約定することもありますが、板の状況によっては約定せず注文が板に並び続けることもあります。ほんの一つの注文の裏側では、余力の仮拘束、取引所とのプロトコル通信、板寄せやザラバでのマッチング、清算機関（JSCC）でのネッティング、ほふりでの株式振替など、驚くほど多くのシステムが連携して動いています。
-
- 本書では、この一連の流れを「注文 → 約定 → 清算 → 決済(受渡)」の順にシステムエンジニアの視点で丁寧に整理しました。
-
- ▼ 本書で得られる知識
- ・証券取引を支えるプレイヤー(証券会社・取引所・JSCC・ほふり)の役割と全体像
- ・注文管理システム(OMS)やフロント/ミドル/バックオフィスの構造
- ・余力管理・与信チェック・冪等性など、システム設計上の勘所
- ・DVP決済やネッティングなど、決済インフラの仕組み
- ・NISA対応・株式分割・権利確定日処理といった実務寄りのトピック
-
- ▼ こんな方におすすめ
- ・これから証券システムに関わるエンジニアの方
- ・証券ドメ (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mi_01_24fu/books/securities-system-flow</guid>
-      <pubDate>Wed, 11 Mar 2026 03:28:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

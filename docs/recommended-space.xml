@@ -7,13 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2026 06:54:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 07:04:02 +0000</lastBuildDate>
+    <item>
+      <title>死にゆく星がまとった美しきベール　しし座の惑星状星雲「EGB 6」</title>
+      <link>https://sorae.info/astronomy/20260314-egb-6.html</link>
+      <description>こちらは、アメリカ・アリゾナ州のキットピーク国立天文台（KPNO）にある口径4mのメイヨール望遠鏡で観測した惑星状星雲「EGB 6」。 しし座の方向、約2450光年先にあります。 真っ暗な宇宙空間を背景に、ガスが球状に広… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260314-egb-6.html</guid>
+      <pubDate>Sat, 14 Mar 2026 12:22:27 +0000</pubDate>
+    </item>
     <item>
       <title>「目の前にチャンスが来たらフルスイングできる場所に」南相馬市で生まれた宇宙産業の集積とその熱量の裏側【Why Space 特別インタビュー対談】</title>
       <link>https://sorabatake.jp/45183/</link>
       <description>今、福島県南相馬市に宇宙産業が集積し、宇宙産業に関する取り組みの熱量が高まっています。この地で、もともとは宇宙産業に関わらないキャリアを歩みながらも、現在は宇宙産業に関わり、その盛り上がりを加速させている3名にお話を伺いました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45183/</guid>
       <pubDate>Thu, 12 Mar 2026 23:11:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>JAXAの新型補給機「HTV-X」1号機に搭載されていた超小型衛星の放出を実施</title>
+      <link>https://sorae.info/space/2026-03-12-htv-x1.html</link>
+      <description>JAXA（宇宙航空研究開発機構）は2026年3月12日、新型宇宙ステーション補給機1号機「HTV-X1」に搭載されていた超小型衛星「てんこう2（Ten-Koh2）」の放出を実施したと発表しました。 放出後に地上局で電波を… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/2026-03-12-htv-x1.html</guid>
+      <pubDate>Thu, 12 Mar 2026 12:14:32 +0000</pubDate>
     </item>
     <item>
       <title>52歳、IT企業でAI業務に従事「今いる業界で専門性を磨きながら、将来、宇宙ビジネスに関わるため、どのような準備が必要ですか？」【宇宙ビジネスキャリア相談室】【PR】</title>
@@ -28,6 +42,34 @@
       <description>地球観測衛星から得られるデータ（衛星データ）のビジネス活用に必要な知識を体系的に学べるよう設計されたサテライトデータビジネス検定の受験申込が始まりました。合格発表日には解説イベントも準備されています。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45219/</guid>
       <pubDate>Wed, 11 Mar 2026 01:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ロスコスモスがバイコヌール宇宙基地31番射点の修復完了を発表　3月下旬に運用再開へ</title>
+      <link>https://sorae.info/space/20260311-baikonur-site-31.html</link>
+      <description>ロシアの国営宇宙企業Roscosmos（ロスコスモス）は2026年3月3日付で、カザフスタンのバイコヌール宇宙基地で31番射点のサービスキャビン（打ち上げ前のロケット下部へアクセスするための移動式プラットフォーム）の修復… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260311-baikonur-site-31.html</guid>
+      <pubDate>Wed, 11 Mar 2026 10:24:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>公転周期がわずかに短縮　NASA探査機「DART」の衝突は二重小惑星全体に影響していた</title>
+      <link>https://sorae.info/astronomy/20260309-dart.html</link>
+      <description>2022年9月、NASA（アメリカ航空宇宙局）のミッション「DART」の無人探査機が、小惑星「Didymos（ディディモス）」を公転する衛星「Dimorphos（ディモルフォス）」への衝突に成功しました。この衝突によって… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260309-dart.html</guid>
+      <pubDate>Mon, 09 Mar 2026 09:13:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>火星の古代クレーターに残る“明るい丘”　水の痕跡を示す手がかり</title>
+      <link>https://sorae.info/astronomy/20260308-counting-craters.html</link>
+      <description>こちらは、火星の北半球に広がる高地「アラビア大陸（Arabia Terra）」の一角を、ESA（ヨーロッパ宇宙機関）の火星探査機「マーズ・エクスプレス（Mars Express）」に搭載された「高解像度ステレオカメラ（H… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260308-counting-craters.html</guid>
+      <pubDate>Sun, 08 Mar 2026 12:05:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>人類は地球外文明の電波信号を見逃しているかもしれない　恒星活動で信号が変化する可能性</title>
+      <link>https://sorae.info/astronomy/20260310-seti-signal-bandwidth.html</link>
+      <description>地球外文明の信号や痕跡を捉える試み「SETI（地球外知的生命体探査）」は、これまで数十年にわたって行われてきましたが、いまだに明確な証拠は発見されていません。その理由については「2つの文明が同じ時期に近い場所で存在する可… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260310-seti-signal-bandwidth.html</guid>
+      <pubDate>Tue, 10 Mar 2026 12:23:00 +0000</pubDate>
     </item>
     <item>
       <title>宇宙用半導体の「試験待ち」を解消へ！NTTらが放射線試験での地上代替評価を実証【宇宙ビジネスニュース】</title>

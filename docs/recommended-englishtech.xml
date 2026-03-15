@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Mar 2026 06:54:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 07:04:10 +0000</lastBuildDate>
+    <item>
+      <title>OktaからLaravelアプリにユーザーを同期する方法</title>
+      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
+      <description>SCIM、Okta、WorkOSを使用して、わずか数行のコードでLaravelアプリに自動ユーザープロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Claude Opus 4.6では、長時間稼働エージェント向けに適応推論とコンテキスト圧縮が導入されます。</title>
       <link>https://www.infoq.com/news/2026/03/opus-4-6-context-compaction/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -25,23 +32,9 @@
     <item>
       <title>InfoQの新しいオンライン講座で、社会技術アーキテクチャのスキルを向上させましょう</title>
       <link>https://www.infoq.com/news/2026/03/architect-certification-program/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>InfoQが新たに開講するオンライン講座で、アーキテクチャリーダーシップを強化しましょう。開講日は2026年4月15日、5月7日、6月10日です。Luca Mezzalira氏が講師を務めるこの5週間のプログラムでは、ADR（アーキテクチャ設計レビュー）、プラットフォームエンジニアリング、AIのトレードオフといった社会技術的スキルに焦点を当てます。経験豊富な実務家は、フレームワークを実際のプロジェクトに適用し、ICSAET認定資格を取得し、InfoQコミュニティに貢献することができます。執筆：Ian Robins (source: InfoQ)</description>
+      <description>InfoQが新たに開講するオンライン講座で、アーキテクチャリーダーシップを強化しましょう。2026年4月15日、5月7日、6月10日に開講予定です。Luca Mezzalira氏が講師を務めるこの5週間のプログラムでは、ADR（アーキテクチャ設計レビュー）、プラットフォームエンジニアリング、AIのトレードオフといった社会技術的スキルに焦点を当てます。経験豊富な実務家は、フレームワークを実際のプロジェクトに適用し、ICSAET認定資格を取得し、InfoQコミュニティに貢献することができます。執筆：Ian Robins (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/architect-certification-program/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 12 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントのサポート、Unicodeテキスト、およびスタジオ機能の改善を含むUno Platform 6.5がリリースされました</title>
-      <link>https://www.infoq.com/news/2026/03/uno-platform-6-5-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Uno Platform 6.5では、Antigravity AIエージェントのサポートが導入され、エージェントが実行時にアプリの動作を検証できるようになりました。Hot Designは、再設計されたツールバーと新しいスコープセレクタを備え、デフォルトで起動するようになりました。また、このリリースでは、非ラテン文字のUnicode TextBoxのサポートが追加され、WebAssembly上のWebView2が改善され、サポートされているすべてのプラットフォームで450件以上のコミュニティの問題が解決されています。執筆者：Almir Vuk (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/uno-platform-6-5-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 11 Mar 2026 08:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
-      <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
-      <description>現代のアプリケーション開発では、複数のサードパーティサービスとの接続がますます重要になっています。Pipesは、OAuthフロー、トークン管理、プロバイダー設定を自動的に処理するように設計されています。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WebpackがネイティブCSSサポート、ユニバーサルターゲット、バージョン6への道筋を含む2026年ロードマップを公開</title>
@@ -51,7 +44,14 @@
       <pubDate>Wed, 11 Mar 2026 16:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>DoorDashが顧客サポートチャットボットの大規模テストのためにLLM会話シミュレーターを構築</title>
+      <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
+      <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
+      <description>現代のアプリケーション開発では、複数のサードパーティサービスとの接続がますます重要になっています。Pipesは、OAuthフロー、トークン管理、プロバイダー設定を自動的に処理するように設計されています。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DoorDashが顧客サポートチャットボットの大規模テストのため、LLM会話シミュレーターを構築</title>
       <link>https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>DoorDashのエンジニアは、大規模言語モデル（LLM）を用いた顧客サポートチャットボットを大規模にテストするためのシミュレーションおよび評価フライホイールを構築しました。このシステムは、過去のトランスクリプトとバックエンドのモックアップを使用して複数ターンの合成会話を生成し、LLMを評価基準とするフレームワークで結果を評価し、本番展開前にプロンプト、コンテキスト、システム設計を迅速に反復改善することを可能にします。Leela Kumili著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
