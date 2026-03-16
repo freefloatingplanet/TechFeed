@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Mar 2026 07:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 07:24:56 +0000</lastBuildDate>
+    <item>
+      <title>小さな具体的な行動と交代制のファシリテーターによって、振り返りを効果的に行う</title>
+      <link>https://www.infoq.com/news/2026/03/effective-retrospectives/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>チームは、不満の連鎖を避けるために、毎週1～2つの具体的な行動に焦点を当てた定期的な振り返りを実施できると、ナタン・ジャブカー・ノルドバーグ氏はQConロンドンで述べた。ファシリテーターを交代させることで、それぞれのファシリテーターが独自の視点をもたらし、主体性を高めることができる。彼は、より大きな変更を4～6週間の実験として捉え、その後、継続、微調整、または元に戻すかどうかを投票で決定することで、学習と継続的な改善を確実にすることを提案した。ベン・リンダース著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/effective-retrospectives/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 12 Mar 2026 11:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>OktaからLaravelアプリにユーザーを同期する方法</title>
       <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
@@ -32,16 +39,9 @@
     <item>
       <title>InfoQの新しいオンライン講座で、社会技術アーキテクチャのスキルを向上させましょう</title>
       <link>https://www.infoq.com/news/2026/03/architect-certification-program/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>InfoQが新たに開講するオンライン講座で、アーキテクチャリーダーシップを強化しましょう。2026年4月15日、5月7日、6月10日に開講予定です。Luca Mezzalira氏が講師を務めるこの5週間のプログラムでは、ADR（アーキテクチャ設計レビュー）、プラットフォームエンジニアリング、AIのトレードオフといった社会技術的スキルに焦点を当てます。経験豊富な実務家は、フレームワークを実際のプロジェクトに適用し、ICSAET認定資格を取得し、InfoQコミュニティに貢献することができます。執筆：Ian Robins (source: InfoQ)</description>
+      <description>InfoQが新たに開講するオンライン講座で、アーキテクチャリーダーシップを強化しましょう。開講日は2026年4月15日、5月7日、6月10日です。Luca Mezzalira氏が講師を務めるこの5週間のプログラムでは、ADR（アーキテクチャ設計レビュー）、プラットフォームエンジニアリング、AIのトレードオフといった社会技術的スキルに焦点を当てます。経験豊富な実務家は、フレームワークを実際のプロジェクトに適用し、ICSAET認定資格を取得し、InfoQコミュニティに貢献することができます。執筆：Ian Robins (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/architect-certification-program/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 12 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WebpackがネイティブCSSサポート、ユニバーサルターゲット、バージョン6への道筋を含む2026年ロードマップを公開</title>
-      <link>https://www.infoq.com/news/2026/03/webpack-2026-roadmap/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Even Stensberg氏が率いるwebpackの2026年ロードマップでは、バンドラーの近代化を目指した大幅な機能強化が発表されました。主な機能には、ネイティブCSSモジュールサポート、様々な環境に対応したユニバーサルコンパイル、組み込みのTypeScriptサポート、そしてパフォーマンス最適化への注力などが含まれます。競合他社の台頭に伴い、webpackはコアとなる強みを維持しながら、ユーザーエクスペリエンスの向上に努めています。執筆：Daniel Curtis (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/webpack-2026-roadmap/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 11 Mar 2026 16:30:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
@@ -51,7 +51,7 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>DoorDashが顧客サポートチャットボットの大規模テストのため、LLM会話シミュレーターを構築</title>
+      <title>DoorDashが顧客サポートチャットボットの大規模テストのためにLLM会話シミュレーターを構築</title>
       <link>https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>DoorDashのエンジニアは、大規模言語モデル（LLM）を用いた顧客サポートチャットボットを大規模にテストするためのシミュレーションおよび評価フライホイールを構築しました。このシステムは、過去のトランスクリプトとバックエンドのモックアップを使用して複数ターンの合成会話を生成し、LLMを評価基準とするフレームワークで結果を評価し、本番展開前にプロンプト、コンテキスト、システム設計を迅速に反復改善することを可能にします。Leela Kumili著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
@@ -72,11 +72,11 @@
       <pubDate>Fri, 13 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>あるベンチャーキャピタリストが「この10年で最高の取引」と呼ぶ320億ドルの買収</title>
-      <link>https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/</link>
-      <description>Index VenturesのパートナーであるShardul Shah氏によると、サイバーセキュリティスタートアップのWizは「AI、クラウド、セキュリティ支出という3つの追い風の中心」に位置している。これらの追い風が、史上最大のベンチャーキャピタルによる買収となったGoogleの320億ドルの買収を後押しした。この買収は、2024年の提案が拒否され、大西洋両岸での独占禁止法審査を経て最終決定された。[…] (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/</guid>
-      <pubDate>Fri, 13 Mar 2026 16:20:23 +0000</pubDate>
+      <title>Javaニュースまとめ：JHipster 9.0、Project Valhalla、Spring、Helidon、OpenXava、Java Operator SDK</title>
+      <link>https://www.infoq.com/news/2026/03/java-news-roundup-mar09-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>2026年3月9日付けの今週のJavaニュースまとめでは、JHipster 9.0のGAリリース、Project Valhallaのビルド27-jep401ea、Spring Tools、Helidon、OpenXava、Java Operator SDKのポイントリリース、Spring Frameworkのメンテナンスリリース、Open Libertyの2026年3月版ベータリリース、Micrometer MetricsとMicrometer Tracingのマイルストーンリリースなどのニュースを取り上げています。執筆：Michael Redlich (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/java-news-roundup-mar09-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 16 Mar 2026 02:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

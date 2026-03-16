@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 07:04:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 07:24:49 +0000</lastBuildDate>
+    <item>
+      <title>予期せぬ場所で起きた中性子星どうしの衝突　NASA望遠鏡群が捉えたガンマ線バーストの起源</title>
+      <link>https://sorae.info/astronomy/20260313-grb-230906a.html</link>
+      <description>ペンシルベニア州立大学のSimone Dichiaraさんを筆頭とする研究チームは、ガンマ線バースト（GRB）「GRB 230906A」に関する研究成果を発表しました。複数の宇宙望遠鏡による連携観測が行われたこのガンマ線… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260313-grb-230906a.html</guid>
+      <pubDate>Fri, 13 Mar 2026 01:59:04 +0000</pubDate>
+    </item>
     <item>
       <title>死にゆく星がまとった美しきベール　しし座の惑星状星雲「EGB 6」</title>
       <link>https://sorae.info/astronomy/20260314-egb-6.html</link>
@@ -56,13 +63,6 @@
       <description>2022年9月、NASA（アメリカ航空宇宙局）のミッション「DART」の無人探査機が、小惑星「Didymos（ディディモス）」を公転する衛星「Dimorphos（ディモルフォス）」への衝突に成功しました。この衝突によって… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260309-dart.html</guid>
       <pubDate>Mon, 09 Mar 2026 09:13:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>火星の古代クレーターに残る“明るい丘”　水の痕跡を示す手がかり</title>
-      <link>https://sorae.info/astronomy/20260308-counting-craters.html</link>
-      <description>こちらは、火星の北半球に広がる高地「アラビア大陸（Arabia Terra）」の一角を、ESA（ヨーロッパ宇宙機関）の火星探査機「マーズ・エクスプレス（Mars Express）」に搭載された「高解像度ステレオカメラ（H… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260308-counting-craters.html</guid>
-      <pubDate>Sun, 08 Mar 2026 12:05:50 +0000</pubDate>
     </item>
     <item>
       <title>人類は地球外文明の電波信号を見逃しているかもしれない　恒星活動で信号が変化する可能性</title>

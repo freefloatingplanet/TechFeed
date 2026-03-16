@@ -7,21 +7,57 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 07:03:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 07:24:44 +0000</lastBuildDate>
     <item>
-      <title>Claude CodeやCodexのスキルの管理を楽にするツール「faceted-prompting」</title>
-      <link>https://zenn.dev/nrs/articles/88f158aca0505b</link>
+      <title>【入門記事】ClaudeCodeの中級者になりたい人は集合してください</title>
+      <link>https://qiita.com/K5K/items/72cc4282819ace823524?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-プロンプトが長く、そして増えてくると、どんどんと保守性が下がってきます。
-役割、ルール、知識、作業指示、出力形式。
-最初はひとつのファイルに入っていても困りません。
-ところが運用を続けると、一部だけ差し替えたい、同じルールを別のスキルでも使いたい、Claude Code と Codex の両方で使いたい、といった欲が出てきます。
-そのたびに長いプロンプトを丸ごと編集するのは、かなりつらい。
-これは大きな課題です。
-以前、私はこの問題に対する考え方として、Faceted Prompting というものを書きました。
-https://zenn.dev/nrs/articles/... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nrs/articles/88f158aca0505b</guid>
-      <pubDate>Thu, 12 Mar 2026 11:15:06 +0000</pubDate>
+
+この記事はClaudeCodeと共同で執筆しました。
+ただ内容については100%投稿主の意図したものであり、隅々まで監修しております。
+
+みなさん、ClaudeCodeを使っていますか？
+(「バチバチ使いこなしているぜ！」という方は読んでも意味ないので、こ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/K5K/items/72cc4282819ace823524?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 13 Mar 2026 08:10:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>バイクの写真を送るだけで車種を判定するAIをLaravelで作った</title>
+      <link>https://qiita.com/auchida1982/items/f53aab7afcf80057c25b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>バイクの写真を送るだけで車種を判定するAIをLaravelで作った
+
+はじめに
+「このバイクなに？」と思ったことはありませんか？
+街で見かけたバイク、友人が乗っているバイク、昔のカタログに載っていたバイク。名前がわからなくてモヤモヤした経験は、バイク好きなら誰でもあるはず... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/auchida1982/items/f53aab7afcf80057c25b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sun, 15 Mar 2026 04:33:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】なぜ私のmalloc()は最初に必ず72KB確保するのか — libstdc++の奥まで潜って調べてみた</title>
+      <link>https://techfeed.io/entries/69a7d15e4271131d91d595f6?from=rss</link>
+      <description>3月2日、Joel Siks氏が「Why is my first C++ (m)allocation always 72 KB?」と題したブログ記事を公開し、話題を呼んでいる。この記事では、著者の特定の開発環境において、C++プログラムの実行直後に必ず発生していた「72 KB」というメモリ割り当ての要因について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/69a7d15e4271131d91d595f6?from=rss</guid>
+      <pubDate>Wed, 04 Mar 2026 06:29:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coding Agent に loop して欲しいのは prdじゃない skill だ</title>
+      <link>https://zenn.dev/takumiyoshikawa/articles/6930a0e58bc196</link>
+      <description>要約
+Ralph loopから始まり、Harness Engineering, AI-DLCと名前を変えてcoding agentを長期実行するコンセプトは世の中を席巻している。
+せっかくなので自分が使いやすい形でloopの実行をするためのOSSを作ってみたので中身を解説したい。
+https://github.com/takumiyoshikawa/skill-loop
+
+ モチベーション
+私が最初にRalph Loopのコンセプトを試した時に一番最初に感じた感想は機能しないだった。基本的には、その理由はprdと呼ばれる実行計画が粗悪なものであり、そのrepo特有の事情を全く考慮しな... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/takumiyoshikawa/articles/6930a0e58bc196</guid>
+      <pubDate>Sat, 14 Mar 2026 09:38:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす - Qiita</title>
+      <link>https://qiita.com/nogataka/items/5b5747f619e6eb745436</link>
+      <description>agency-agentsとは何か agency-agentsは、144個のAIエージェント定義をMarkdownファイルで提供するOSSです。Claude Code、Copilot、Cursor、Gemini CLIなど10以上のツールに対応しています。 「開発者として機能して」のような汎用プロンプトとの違いは、専門領域ごとの知識体系が構造化されている点です。Frontend Deve... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://qiita.com/nogataka/items/5b5747f619e6eb745436</guid>
+      <pubDate>Sun, 15 Mar 2026 02:09:31 +0000</pubDate>
     </item>
     <item>
       <title>プログラマの抱いている不動産データについての誤謬</title>
@@ -31,23 +67,6 @@ https://zenn.dev/nrs/articles/... (source: Zennのトレンド)</description>
 そこで今回は『プログラマの抱いている名前についての誤謬』をオマージュして『プログラマの抱いている不動産データについての誤謬』というタイトルで、建物を中心とした不動産データに関して多くの方が誤解している... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/estie/articles/39efe1ebf6b188</guid>
       <pubDate>Thu, 12 Mar 2026 03:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>MySQLが好きな私が、今はPostgreSQLを勧めたい理由</title>
-      <link>https://zenn.dev/catatsuy/articles/f3721135c6f8f6</link>
-      <description>私はMySQLが好きです。長く使ってきましたし、オンプレミスでの運用もやってきました。
-しかし現職に来てからは、PostgreSQLを使う機会が増えました。最初は正直かなり抵抗感がありました。ずっとMySQLを使ってきたので、慣れの問題もありますし、PostgreSQLに対して必要以上に構えていたところもあったと思います。
-ただ、実際に使っていくうちに、PostgreSQLの良さが少しずつ見えてきました。最近では、新規開発でどちらを選ぶかと聞かれたら、PostgreSQLを選びたいと思うようになっています。
-私はMySQLを長く使ってきたので、昔のMySQLの雑さも知っています。ただ同時... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/catatsuy/articles/f3721135c6f8f6</guid>
-      <pubDate>Wed, 11 Mar 2026 10:29:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>iPhoneの「探す」機能で４時間雪に埋もれていた夫を救い出した妻</title>
-      <link>https://karapaia.com/archives/590224.html</link>
-      <description>スマートフォン＝スマホは既に単なる携帯電話ではない。情報端末として、我々の日常生活に欠かせないアイテムとなっている。 そして位置情報アプリの搭載は、探し物を助けてくれるだけでなく、時として人命救助にもつながるように。 2026年2月、アメリカ・ワシントン州の雪山で雪崩に巻き込まれた男性が、アップル社の「... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://karapaia.com/archives/590224.html</guid>
-      <pubDate>Sat, 14 Mar 2026 07:50:06 +0000</pubDate>
     </item>
     <item>
       <title>最初に伝えるべきは「結論」ではなく「要約」</title>
@@ -74,19 +93,6 @@ https://zenn.dev/nrs/articles/... (source: Zennのトレンド)</description>
       <pubDate>Fri, 13 Mar 2026 12:48:15 +0000</pubDate>
     </item>
     <item>
-      <title>生成AIでパワポを作る方法一覧【2026年3月版】</title>
-      <link>https://zenn.dev/ncukondo/articles/ai-generate-pptx-methods-2026</link>
-      <description>はじめに
-生成AIを使ったスライド作成ツールの紹介記事は増えていますが、その多くはPDFやHTML出力が中心です。しかし実際の仕事では、上司や共著者が追加編集する、提出物としてパワポ形式(PPTX)が指定される、といった理由からPPTXでの出力が必要な場面が少なくありません。
-本記事では、2026年3月時点で利用可能な方法をGUI完結型・Markdown型・コード生成型の3カテゴリに分けて、PPTX出力の観点から整理します。
-
- PPTX出力の「編集可能性」に注意
-まず前提として、PPTX出力に対応していても、中身が編集可能とは限らないという点を押さえておく必要があります。
-たとえば... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ncukondo/articles/ai-generate-pptx-methods-2026</guid>
-      <pubDate>Sat, 14 Mar 2026 00:14:58 +0000</pubDate>
-    </item>
-    <item>
       <title>懇親会でぼっちにならないテクニック</title>
       <link>https://zenn.dev/philosophum/articles/4bdf97acbb2299</link>
       <description>勉強会などのイベントに参加して、懇親会でぼっちになってしまった経験はありませんか？
@@ -100,26 +106,17 @@ https://zenn.dev/nrs/articles/... (source: Zennのトレンド)</description>
       <pubDate>Fri, 13 Mar 2026 15:34:52 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】「エンジニアは今、マネージャーを目指すべきではない」 ― 激動のAI時代、現場を離れるのはハイリスクだという提言が話題に</title>
-      <link>https://techfeed.io/entries/69a7cca44271131d91d5944c?from=rss</link>
-      <description>3月4日、manager.devが「Don't become an Engineering Manager」と題した記事を公開した。この記事では、マネジメント職（EM：エンジニアリングマネージャー）への転身に伴う近年のリスクと、「現場のエンジニア」（IC：Individual Contributor）としてキャリアを継続することの合理性について詳しく紹介されている。以下に、その内容と、テック業界の主要コミュニティであるHacker Newsのスレッドなどで巻き起こっている議論を合わせて紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/69a7cca44271131d91d5944c?from=rss</guid>
-      <pubDate>Wed, 04 Mar 2026 06:09:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>インターン先でCI/CDパイプラインをゼロから構築し、リリース頻度を110倍にした話</title>
-      <link>https://zenn.dev/satotakahumi/articles/3f950feea0d8b2</link>
-      <description>1.はじめに
-AIによる高速な開発が当たり前になる中、私はインターンとして参加したプロジェクトで「品質をどう守るか」という課題に向き合いました。
-本記事では、AIを活用した開発の中で、品質を継続的に守る仕組みづくりに取り組んだ経験と、そこから得た学びを振り返ります。
-※本記事は、インターン生という一開発者の視点による個人の振り返りです。当時のチームの状況や判断を批判する意図は一切なく、むしろ未熟な提案を受け入れ、議論の機会をくださったチームへの感謝を込めて執筆しています。
-※インターン先に掲載の許可を得ております。
-簡単なまとめ
+      <title>私のOSS活動元年を振り返ったらAIと下心が原動力だった</title>
+      <link>https://zenn.dev/jackchuka/articles/473ef7cc70efbc</link>
+      <description>1年前、自分のGitHubプロフィールを開いても、ほぼ何もなかった。
+GitHubの公開レポはほとんどなし。あるのは数年前に作ったちょっとしたものくらいで、寂しいものだった。OSS活動？「いつかやりたいな」とは思っていたけど、何を作ればいいかわからない、公開しても誰も見ないだろうし、仕事との時間のバランスを考えると腰が重い。そんな状態でした。
+それが今、気づいたら20個以上のOSSを公開していて、合計Star数は200を超えていた。
+この記事では、私のOSS活動元年の節目として、何を学び何がこの変化を起こしたのかを振り返ろうと思う。
+こんにちは、jackchukaです。
 !
-
-課題：AI生成コード前提の開発での品質担保がボト... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/satotakahumi/articles/3f950feea0d8b2</guid>
-      <pubDate>Wed, 11 Mar 2026 13:54:40 +0000</pubDate>
+注）この記事... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/jackchuka/articles/473ef7cc70efbc</guid>
+      <pubDate>Sun, 15 Mar 2026 04:15:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

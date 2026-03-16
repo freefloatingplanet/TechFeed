@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Mar 2026 07:04:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 07:24:51 +0000</lastBuildDate>
     <item>
-      <title>構造健全性モニタリングにおける損傷識別のための数値ベンチマーク</title>
-      <link>https://arxiv.org/abs/2603.12069v1</link>
-      <description>新規データ駆動型戦略やハイブリッド物理データアプローチの検証および妥当性確認のためのデータセットの入手可能性は、現在、工学分野における最も差し迫った課題の1つです。データの所有権、セキュリティ、アクセス、メタデータの使いやすさは、現在、多くの分野、特に構造健全性モニタリング（SHM）アプリケーションにおける進歩を阻害しています。本論文では、動的および静的測定（すなわち、加速度と変位）で構成されるシミュレーションSHMデータセットを提示し、それを生成するために設計された概念フレームワークを含みます。シミュレーションされた測定は、実際の取得中に発生する可能性のあるシナリオを考慮するために、環境および運用変動（EOV）、さまざまな種類の損傷、測定ノイズ、センサーの故障および誤動作の影響を組み込むように生成されました。数値ベンチマークの参照として、固定-固定鋼梁構造が選択されました。シミュレーションされたモニタリングは、加速度記録を生成するための1自由度（SDOF）の仮定と、シミュレーションされた変位測定のためのオイラー・ベルヌーイ梁の仮定の下で実行されました。生成プロセスには並列計算が用いら (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.12069v1</guid>
-      <pubDate>Thu, 12 Mar 2026 15:36:57 +0000</pubDate>
+      <title>第10回ABAWコンペティションにおけるチームRAS：マルチモーダルな感情価と覚醒度の推定アプローチ</title>
+      <link>https://arxiv.org/abs/2603.13056v1</link>
+      <description>外見、頭部の姿勢、照明、遮蔽物、および被験者固有の感情表現パターンの大きな変動のため、実環境（ITW）条件下での感情の価数と覚醒度に関する継続的な感情認識は依然として困難な課題です。本稿では、ITWにおける価数と覚醒度の推定のためのマルチモーダル手法を提案します。この手法は、顔、行動、音声という3つの相補的なモダリティを組み合わせています。顔モダリティは、GRADAベースのフレームレベル埋め込みとTransformerベースの時間回帰に依存しています。ビデオセグメントから行動に関連する情報を抽出するためにQwen3-VL-4B-Instructを使用し、セグメント間の時間的ダイナミクスをモデル化するためにMambaを使用します。音声モダリティは、アテンション統計プーリングを備えたWavLM-Largeに依存しており、信頼性の低いセグメントや非音声セグメントの影響を軽減するためのクロスモーダルフィルタリング段階が含まれています。複数のモダリティを融合するために、適応的な重み付けでモダリティ間の相互作用を学習する指向型クロスモーダル混合エキスパート融合戦略と、フレームレベルで視覚的特徴を組 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.13056v1</guid>
+      <pubDate>Fri, 13 Mar 2026 15:06:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
