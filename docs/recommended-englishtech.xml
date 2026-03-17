@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Mar 2026 07:24:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 07:10:38 +0000</lastBuildDate>
     <item>
-      <title>小さな具体的な行動と交代制のファシリテーターによって、振り返りを効果的に行う</title>
-      <link>https://www.infoq.com/news/2026/03/effective-retrospectives/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>チームは、不満の連鎖を避けるために、毎週1～2つの具体的な行動に焦点を当てた定期的な振り返りを実施できると、ナタン・ジャブカー・ノルドバーグ氏はQConロンドンで述べた。ファシリテーターを交代させることで、それぞれのファシリテーターが独自の視点をもたらし、主体性を高めることができる。彼は、より大きな変更を4～6週間の実験として捉え、その後、継続、微調整、または元に戻すかどうかを投票で決定することで、学習と継続的な改善を確実にすることを提案した。ベン・リンダース著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/effective-retrospectives/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 12 Mar 2026 11:15:00 +0000</pubDate>
+      <title>プレゼンテーション：自動テストのための画像処理</title>
+      <link>https://www.infoq.com/presentations/image-processing-automated-tests/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ステファン・ディルンストルファー氏は、DOMベースのテストからビジュアルUIエージェントへの移行について論じています。彼は、LLMが1ピクセルのずれや壊れた道路網の検出といった精密なタスクでしばしば失敗する理由を説明し、高度な画像レジストレーションと「思考連鎖」ビジョン処理が信頼性の高いQAに不可欠である理由を共有しています。生成AIと古典的なアルゴリズムを組み合わせることが、自動化の未来である理由を学びましょう。ステファン・ディルンストルファー著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/image-processing-automated-tests/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 16 Mar 2026 14:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AppleがAirPods Max 2をひっそりと発売</title>
+      <link>https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/</link>
+      <description>同社の高級ヘッドホンの後継機種は549ドルで発売され、強化されたアクティブノイズキャンセリング機能、H2チップ、ライブ翻訳機能、より優れた音質などを搭載している。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/</guid>
+      <pubDate>Mon, 16 Mar 2026 14:12:50 +0000</pubDate>
     </item>
     <item>
       <title>OktaからLaravelアプリにユーザーを同期する方法</title>
@@ -23,25 +30,11 @@
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Opus 4.6では、長時間稼働エージェント向けに適応推論とコンテキスト圧縮が導入されます。</title>
-      <link>https://www.infoq.com/news/2026/03/opus-4-6-context-compaction/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Anthropic社のClaude Opus 4.6は、長時間稼働するエージェントにおけるコンテキスト劣化を解決するために、「適応思考」と「圧縮API」を導入しました。このモデルは、100万トークンのコンテキストウィンドウをサポートし、マルチニードル検索精度は76%です。エージェントコーディングのベンチマークではトップクラスの性能を発揮する一方で、独立したテストではバイナリバックドアの検出率が49%にとどまり、SOTA（最先端）の主張と実際の運用環境におけるセキュリティとのギャップが浮き彫りになっています。執筆：Steef-Jan Wiggers (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/opus-4-6-context-compaction/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 12 Mar 2026 10:01:00 +0000</pubDate>
-    </item>
-    <item>
       <title>JWKS開発者向けガイド</title>
       <link>https://workos.com/blog/developers-guide-jwks</link>
       <description>JSON Web Key Setsに関する完全なリファレンス：構造、アルゴリズム、エンドポイント、およびキーローテーション。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/developers-guide-jwks</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>InfoQの新しいオンライン講座で、社会技術アーキテクチャのスキルを向上させましょう</title>
-      <link>https://www.infoq.com/news/2026/03/architect-certification-program/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>InfoQが新たに開講するオンライン講座で、アーキテクチャリーダーシップを強化しましょう。開講日は2026年4月15日、5月7日、6月10日です。Luca Mezzalira氏が講師を務めるこの5週間のプログラムでは、ADR（アーキテクチャ設計レビュー）、プラットフォームエンジニアリング、AIのトレードオフといった社会技術的スキルに焦点を当てます。経験豊富な実務家は、フレームワークを実際のプロジェクトに適用し、ICSAET認定資格を取得し、InfoQコミュニティに貢献することができます。執筆：Ian Robins (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/architect-certification-program/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 12 Mar 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
@@ -51,11 +44,11 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>DoorDashが顧客サポートチャットボットの大規模テストのためにLLM会話シミュレーターを構築</title>
-      <link>https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>DoorDashのエンジニアは、大規模言語モデル（LLM）を用いた顧客サポートチャットボットを大規模にテストするためのシミュレーションおよび評価フライホイールを構築しました。このシステムは、過去のトランスクリプトとバックエンドのモックアップを使用して複数ターンの合成会話を生成し、LLMを評価基準とするフレームワークで結果を評価し、本番展開前にプロンプト、コンテキスト、システム設計を迅速に反復改善することを可能にします。Leela Kumili著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 13 Mar 2026 14:12:00 +0000</pubDate>
+      <title>DoorDashが3200万個のラベルを使用してセマンティック検索のための画像、テキスト、クエリを整合させるDashCLIPを開発</title>
+      <link>https://www.infoq.com/news/2026/03/doordash-semantic-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>DoorDashは、商品画像、テキスト、ユーザーの検索クエリを共有埋め込み空間に配置するマルチモーダル機械学習システムを導入しました。対照学習を用いて3,200万件のラベル付きクエリと商品のペアでトレーニングされたこのシステムは、セマンティック検索、商品ランキング、広告の関連性を向上させます。埋め込みは、マーケットプレイス全体における他の機械学習タスクもサポートします。Leela Kumili著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/doordash-semantic-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 16 Mar 2026 14:25:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS MCP ナイト：ホリデースペシャル</title>
@@ -65,11 +58,11 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ポッドキャスト：情報フロー：エンジニアリング文化の隠れた原動力</title>
-      <link>https://www.infoq.com/podcasts/hidden-driver-engineering-culture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>このポッドキャストでは、カルチャー＆メソッド担当編集長のシェーン・ハスティが、ロン・ウェストラムの組織文化連続体、チーム文化形成における情報フローの役割、そしてリーダーが微弱な兆候を察知するために必要な想像力をどのように養うことができるかについて、エイドリアン・ペリアーと対談しました。執筆：エイドリアン・ペリアー (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/podcasts/hidden-driver-engineering-culture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 13 Mar 2026 09:00:00 +0000</pubDate>
+      <title>GoogleがPythonの共通表現言語をオープンソース化</title>
+      <link>https://www.infoq.com/news/2026/03/google-cel-expr-python/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Googleは、シンプルさ、スピード、安全性、移植性を重視して設計された、チューリング完全ではない組み込みポリシーおよび式言語である共通式言語（CEL）のPython実装であるCEL-expr-pythonをオープンソース化した。 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/google-cel-expr-python/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 16 Mar 2026 19:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Javaニュースまとめ：JHipster 9.0、Project Valhalla、Spring、Helidon、OpenXava、Java Operator SDK</title>
@@ -77,6 +70,13 @@
       <description>2026年3月9日付けの今週のJavaニュースまとめでは、JHipster 9.0のGAリリース、Project Valhallaのビルド27-jep401ea、Spring Tools、Helidon、OpenXava、Java Operator SDKのポイントリリース、Spring Frameworkのメンテナンスリリース、Open Libertyの2026年3月版ベータリリース、Micrometer MetricsとMicrometer Tracingのマイルストーンリリースなどのニュースを取り上げています。執筆：Michael Redlich (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/java-news-roundup-mar09-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 16 Mar 2026 02:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>記事：AIエージェントの実践的な評価：ベンチマーク、フレームワーク、および得られた教訓</title>
+      <link>https://www.infoq.com/articles/evaluating-ai-agents-lessons-learned/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>本稿では、実世界環境で動作するAIエージェントを評価するための実践的な手法を紹介します。ベンチマーク、自動評価パイプライン、および人間のレビューを組み合わせて、信頼性、タスクの成功、および複数ステップのエージェント動作を測定する方法について説明します。また、複数のインタラクションターンにわたって計画、ツールの使用、および操作を行うシステムを評価する際の課題についても論じます。執筆者：Amit Kumar Padhy (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/evaluating-ai-agents-lessons-learned/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 16 Mar 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

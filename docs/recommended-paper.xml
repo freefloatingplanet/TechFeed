@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Mar 2026 07:24:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 07:10:34 +0000</lastBuildDate>
     <item>
-      <title>第10回ABAWコンペティションにおけるチームRAS：マルチモーダルな感情価と覚醒度の推定アプローチ</title>
-      <link>https://arxiv.org/abs/2603.13056v1</link>
-      <description>外見、頭部の姿勢、照明、遮蔽物、および被験者固有の感情表現パターンの大きな変動のため、実環境（ITW）条件下での感情の価数と覚醒度に関する継続的な感情認識は依然として困難な課題です。本稿では、ITWにおける価数と覚醒度の推定のためのマルチモーダル手法を提案します。この手法は、顔、行動、音声という3つの相補的なモダリティを組み合わせています。顔モダリティは、GRADAベースのフレームレベル埋め込みとTransformerベースの時間回帰に依存しています。ビデオセグメントから行動に関連する情報を抽出するためにQwen3-VL-4B-Instructを使用し、セグメント間の時間的ダイナミクスをモデル化するためにMambaを使用します。音声モダリティは、アテンション統計プーリングを備えたWavLM-Largeに依存しており、信頼性の低いセグメントや非音声セグメントの影響を軽減するためのクロスモーダルフィルタリング段階が含まれています。複数のモダリティを融合するために、適応的な重み付けでモダリティ間の相互作用を学習する指向型クロスモーダル混合エキスパート融合戦略と、フレームレベルで視覚的特徴を組 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.13056v1</guid>
-      <pubDate>Fri, 13 Mar 2026 15:06:14 +0000</pubDate>
+      <title>Vib2ECG：胸部誘導SCG-ECGペアデータセットおよびECG再構成のためのベンチマーク</title>
+      <link>https://arxiv.org/abs/2603.15539v1</link>
+      <description>12誘導心電図（ECG）は心血管診断に不可欠ですが、日常生活での長期取得は複雑で高価なハードウェアによって制約されています。最近の研究では、心臓振動信号（SCG）などの低コストの心臓振動信号からECGを再構築する試みが行われていますが、データセットが不足しているため、現在の方法は四肢誘導に限定されており、臨床診断には胸部誘導を含む多誘導ECGが必要です。本研究では、完全な12誘導ECGと、17人の被験者から6つの胸部誘導位置で慣性計測ユニット（IMU）によって取得された振動信号を含む、初のペアになったマルチチャネル電気機械的心臓信号データセットであるVib2ECGを提案します。このデータセットに基づいて、ベンチマークも提供します。実験結果は、軽量な364 KパラメータU-Netを使用して、振動信号からさまざまな位置の電気的心臓信号を再構築できることを示しています。さらに、モデルにおいて、対応する電気活動が存在しない領域でECG波形が生成されるという幻覚現象が観察されました。本研究では、この現象の原因を分析し、緩和のための潜在的な方向性を提案します。この研究は、IMUセンサーを使用して取 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.15539v1</guid>
+      <pubDate>Mon, 16 Mar 2026 17:05:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

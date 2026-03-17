@@ -7,103 +7,98 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 07:24:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 07:10:27 +0000</lastBuildDate>
     <item>
-      <title>【入門記事】ClaudeCodeの中級者になりたい人は集合してください</title>
-      <link>https://qiita.com/K5K/items/72cc4282819ace823524?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>[小ネタ] Excelでセルにローカルフォルダの画像を表示する時は IMAGE 関数 + Caddy ワンライナーが便利</title>
+      <link>https://qiita.com/ssc-ksaitou/items/be43b3fd69502d6bf60b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-
-この記事はClaudeCodeと共同で執筆しました。
-ただ内容については100%投稿主の意図したものであり、隅々まで監修しております。
-
-みなさん、ClaudeCodeを使っていますか？
-(「バチバチ使いこなしているぜ！」という方は読んでも意味ないので、こ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/K5K/items/72cc4282819ace823524?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 13 Mar 2026 08:10:20 +0000</pubDate>
+AIの学習データ整理のために、ローカルにある画像をExcelシート上で一覧表示したいことがあったので、手法をメモしておきます。
+Excelには =IMAGE(URL) という関数があり、URL先の画像をセル内に表示できます。ただしこの関数には以下の制約があります... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/ssc-ksaitou/items/be43b3fd69502d6bf60b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Mon, 16 Mar 2026 06:55:57 +0000</pubDate>
     </item>
     <item>
-      <title>バイクの写真を送るだけで車種を判定するAIをLaravelで作った</title>
-      <link>https://qiita.com/auchida1982/items/f53aab7afcf80057c25b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>バイクの写真を送るだけで車種を判定するAIをLaravelで作った
-
-はじめに
-「このバイクなに？」と思ったことはありませんか？
-街で見かけたバイク、友人が乗っているバイク、昔のカタログに載っていたバイク。名前がわからなくてモヤモヤした経験は、バイク好きなら誰でもあるはず... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/auchida1982/items/f53aab7afcf80057c25b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sun, 15 Mar 2026 04:33:14 +0000</pubDate>
+      <title>IBM Bobを使って、PostgreSQLのToDoアプリをDb2へ変換してみよう</title>
+      <link>https://qiita.com/nishikyon/items/af47a0b003df619ef006?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>IBM BobはIBMが開発したVS Codeを利用したAIコーディングエージェントです。
+VS Codeプラグインではなく、IBM Bobを導入して専用アプリとして起動します。CLIもあります。
+かわいいキャラクター&amp;人の名前がついているので、使ってるとBobという人型ロ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/nishikyon/items/af47a0b003df619ef006?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Mon, 16 Mar 2026 00:13:37 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】なぜ私のmalloc()は最初に必ず72KB確保するのか — libstdc++の奥まで潜って調べてみた</title>
-      <link>https://techfeed.io/entries/69a7d15e4271131d91d595f6?from=rss</link>
-      <description>3月2日、Joel Siks氏が「Why is my first C++ (m)allocation always 72 KB?」と題したブログ記事を公開し、話題を呼んでいる。この記事では、著者の特定の開発環境において、C++プログラムの実行直後に必ず発生していた「72 KB」というメモリ割り当ての要因について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/69a7d15e4271131d91d595f6?from=rss</guid>
-      <pubDate>Wed, 04 Mar 2026 06:29:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coding Agent に loop して欲しいのは prdじゃない skill だ</title>
-      <link>https://zenn.dev/takumiyoshikawa/articles/6930a0e58bc196</link>
-      <description>要約
-Ralph loopから始まり、Harness Engineering, AI-DLCと名前を変えてcoding agentを長期実行するコンセプトは世の中を席巻している。
-せっかくなので自分が使いやすい形でloopの実行をするためのOSSを作ってみたので中身を解説したい。
-https://github.com/takumiyoshikawa/skill-loop
-
- モチベーション
-私が最初にRalph Loopのコンセプトを試した時に一番最初に感じた感想は機能しないだった。基本的には、その理由はprdと呼ばれる実行計画が粗悪なものであり、そのrepo特有の事情を全く考慮しな... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/takumiyoshikawa/articles/6930a0e58bc196</guid>
-      <pubDate>Sat, 14 Mar 2026 09:38:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす - Qiita</title>
-      <link>https://qiita.com/nogataka/items/5b5747f619e6eb745436</link>
-      <description>agency-agentsとは何か agency-agentsは、144個のAIエージェント定義をMarkdownファイルで提供するOSSです。Claude Code、Copilot、Cursor、Gemini CLIなど10以上のツールに対応しています。 「開発者として機能して」のような汎用プロンプトとの違いは、専門領域ごとの知識体系が構造化されている点です。Frontend Deve... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://qiita.com/nogataka/items/5b5747f619e6eb745436</guid>
-      <pubDate>Sun, 15 Mar 2026 02:09:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>プログラマの抱いている不動産データについての誤謬</title>
-      <link>https://zenn.dev/estie/articles/39efe1ebf6b188</link>
-      <description>こんにちは。ソフトウェアエンジニアのyasuandです。株式会社estieのデータマネジメントグループ（DMG）という部署で、登記簿データの管理システムを作っています。
-登記簿に限らず不動産データと日々触れ合っていると、時々”変な”データと出会うことがあります。住所の読みが面白いという程度ならその場でスルーして終わりなのですが、なかにはデータモデリング上の扱いが問題になるものも存在します。
-そこで今回は『プログラマの抱いている名前についての誤謬』をオマージュして『プログラマの抱いている不動産データについての誤謬』というタイトルで、建物を中心とした不動産データに関して多くの方が誤解している... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/estie/articles/39efe1ebf6b188</guid>
-      <pubDate>Thu, 12 Mar 2026 03:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>最初に伝えるべきは「結論」ではなく「要約」</title>
-      <link>https://zenn.dev/knowledgework/articles/2bee3329c16bc1</link>
-      <description>こんにちは、ナレッジワークの munetoshi です。
-この記事は、KNOWLEDGE WORK Blog Sprint 2026 Spring の 10 本目の記事です。
-
-技術文書の冒頭には「結論」ではなく、文脈や目的を含んだ「要約」を書きましょう。本記事では、要約から書くことの利点、そう書くためのテクニックについて解説します。
-ここでは、「結論」と「要約」を以下のように定義します。
-
-結論: 議論や演繹の結果。話題の出発点 (仮定や前提) から導かれた最終的な帰結や判断。
-要約: その文章の主張の重要な要素をまとめたもの。結論だけでなく、目的や文脈、重要な議論の展開も含むことがあ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/2bee3329c16bc1</guid>
-      <pubDate>Fri, 13 Mar 2026 03:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenClawライクなソフトをまとめてみた</title>
-      <link>https://zenn.dev/karaage0703/articles/0e2e3484169db2</link>
-      <description>OpenClawが310K starsを超え、AIパーソナルアシスタント界隈が盛り上がっています。OpenClaw以外にも「Claw系」と呼ばれる派生プロジェクトや、独立系のCLIコーディングエージェントが数多く登場しています。
-この記事では、OpenClaw的なソフト（パーソナルAIアシスタント＆CLIコーディングエージェント）を個人的にまとめました。自分が使っているものや調査で見つけたものを、カテゴリ別に紹介します。
+      <title>音楽の生成・編集が可能な高性能ローカル音楽生成AI【ACE-Step-1.5】から音楽生成AIの仕組みを完全に理解する</title>
+      <link>https://zenn.dev/asap/articles/6a717d7a68ec02</link>
+      <description>はじめに
 !
-すべてのツールを実際に試したわけではありません。GitHubのREADMEやドキュメントをベースに情報をまとめています。また、この記事の調査にはAIを活用しています... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/karaage0703/articles/0e2e3484169db2</guid>
-      <pubDate>Fri, 13 Mar 2026 12:48:15 +0000</pubDate>
+この記事はすべて人力で記述しています。
+誤りがあれば、こっそりと教えてください。
+
+https://github.com/ace-step/ACE-Step-1.5
+最近、AIで音楽を生成できるオープンソースモデル「ACE-Step 1.5」を試す機会があったので、備忘録として残します。
+性能や操作感において、Sunoなどの商用モデルに匹敵するクオリティで、しかもローカル環境で動かせるという、なかなかロマンのあるモデルです。
+また、このモデルはテキストからの音楽生成だけでなく、音楽の一部分修正なども行うことができ、しかもそれらの機能を単一のモデルによって達成している（マ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/asap/articles/6a717d7a68ec02</guid>
+      <pubDate>Sun, 15 Mar 2026 16:21:47 +0000</pubDate>
     </item>
     <item>
-      <title>懇親会でぼっちにならないテクニック</title>
-      <link>https://zenn.dev/philosophum/articles/4bdf97acbb2299</link>
-      <description>勉強会などのイベントに参加して、懇親会でぼっちになってしまった経験はありませんか？
-私は何度もあります。知り合いがいるイベントに参加しても、わりかしぼっち感を味わってます。
-色々考えると、懇親会でぼっちにならないためには、やっぱり努力と勇気が必要だと思っています。私は大体勇気が足りずに逃げ帰ることが多いです。
-それでも、いくつか使えるテクニックがあるので紹介します。
-この記事では、まず今すぐ使える当日のテクニックを紹介し、その後に時間をかけて準備できる方法も紹介します。完璧な解決策ではありませんが、少しでもぼっちを感じる人が減れば幸いです。
+      <title>GitHub Copilotのスラッシュコマンドやサブエージェントを使って、簡易レビュー実装</title>
+      <link>https://zenn.dev/peishim/articles/f1030e6102946c</link>
+      <description>はじめに
+自分が参画している現場で、GitHub Copilotを用いて、ローカルでAIレビューする仕組みを作ってみたので、どのようなものを作ったのかを紹介していきます。
+GitHub Copilotも知らないうちに結構進化していて、VScodeで使う分には使いやすいと感じたので、「こういう部分が便利！」みたいな情報も合わせて伝えられればと思います。
+Claude Codeなどと比べて、GitHub Copilotの機能などを紹介している記事は少ないように思うので、GitHub Copilotしか使えない環境の人にとって参考になる記事になれば幸いです。
+!
+仕事で作ったものと同じよう... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/peishim/articles/f1030e6102946c</guid>
+      <pubDate>Sun, 15 Mar 2026 14:20:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>ハーネスで縛れ、AIに任せろ ーAIエージェントの出力品質は“構造”で守る / 開発者向けブログ・イベント | GMO Developers</title>
+      <link>https://developers.gmo.jp/technology/81389/</link>
+      <description>AIコーディングエージェントによって、実装のスピードは確かに上がりました。設計し、試し、修正する。その試行回数を増やせることは、AI駆動開発の大きな価値です。 一方で、コード品質のばらつきや設計の揺れといった課題も見えてきました。そこで私たちは、AIの出力品質を人の注意力ではなく、構造で支える仕組みとし... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://developers.gmo.jp/technology/81389/</guid>
+      <pubDate>Tue, 17 Mar 2026 04:52:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dockerイメージを深掘りしてみる</title>
+      <link>https://zenn.dev/wakaka23/articles/20ad423456bb8f</link>
+      <description>概要
+業務や学習などでDockerを触ることは割とありましたが、ふと「自分ってDockerイメージがなんなのかあんまり理解してないな...」と思ってしまいました。本記事はDockerイメージの実体を理解すべく、Dockerイメージを展開し各ファイルの中身を確認した際の備忘録です。
 
- 懇親会が始まる、今からでもできるテクニック... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/philosophum/articles/4bdf97acbb2299</guid>
-      <pubDate>Fri, 13 Mar 2026 15:34:52 +0000</pubDate>
+ Dockerイメージとは
+Dockerイメージはレイヤの集合体であり、各レイヤは独自のファイルシステムをtarアーカイブファイルとして保有しています。ベースレイヤを基底として他レイヤを上部に重ね合わせることで、一つのファイルシステムとして構成していきます。
+
+https://qiita.com/zemb... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/wakaka23/articles/20ad423456bb8f</guid>
+      <pubDate>Sun, 15 Mar 2026 12:10:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude CodeのReact習熟度を測る</title>
+      <link>https://zenn.dev/uhyo/articles/react-profession-bench-1</link>
+      <description>皆さんこんにちは。コーディングエージェントの発展により、プログラムの多くの部分をAiが書いてくれるようになりました。
+しかし、筆者が得意とするReactに関しては、動くものを作ることはできるにせよ、人間が十分に指図しなければ質のいいコードが書けないことも多いと感じています。
+そこで、今回は、Claude CodeのReact習熟度を測るための簡単なベンチマークを作ってみたので、その結果を共有します。
+
+ 注意と予防線
+ベンチマークと名乗ると、粗探しをしたい方々が寄ってくる傾向があります。その前に、今回の設定が以下のとおりであることをご理解ください。
+
+あくまで筆者が考える「習熟度」を測っ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/uhyo/articles/react-profession-bench-1</guid>
+      <pubDate>Sun, 15 Mar 2026 15:23:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>生成AIでパワポを作る方法一覧【2026年3月版】</title>
+      <link>https://zenn.dev/ncukondo/articles/ai-generate-pptx-methods-2026</link>
+      <description>はじめに
+生成AIを使ったスライド作成ツールの紹介記事は増えていますが、その多くはPDFやHTML出力が中心です。しかし実際の仕事では、上司や共著者が追加編集する、提出物としてパワポ形式(PPTX)が指定される、といった理由からPPTXでの出力が必要な場面が少なくありません。
+本記事では、2026年3月時点で利用可能な方法をGUI完結型・Markdown型・コード生成型の3カテゴリに分けて、PPTX出力の観点から整理します。
+
+ PPTX出力の「編集可能性」に注意
+まず前提として、PPTX出力に対応していても、中身が編集可能とは限らないという点を押さえておく必要があります。
+たとえば... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ncukondo/articles/ai-generate-pptx-methods-2026</guid>
+      <pubDate>Sat, 14 Mar 2026 00:14:58 +0000</pubDate>
     </item>
     <item>
       <title>私のOSS活動元年を振り返ったらAIと下心が原動力だった</title>
@@ -117,6 +112,14 @@ GitHubの公開レポはほとんどなし。あるのは数年前に作った�
 注）この記事... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/jackchuka/articles/473ef7cc70efbc</guid>
       <pubDate>Sun, 15 Mar 2026 04:15:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>コードを書くのをやめた。Claude Codeに月商300万のSaaSの全コードを書かせ、完全ソロ運用しているという話。</title>
+      <link>https://zenn.dev/nnze/articles/e3f648e335a947</link>
+      <description>私は現在、B2B向けのニッチな自動化APIミドルウェアをSaaSとして完全な個人で運用し、広告費ゼロ・従業員ゼロで毎月およそ300万円ほどのMRR、定額の月次収益を生み出している。しかも実を言うと、この半年間、エディタを開いて人間が手入力する従来のコーディング作業など1秒たりともおこなっていない。ローカルのターミナルからClaude Codeを呼び出し、AIに要件と仕様を突っ込んでシステム全体を保守拡張させているだけだ。
+コードを手書きする時代は終わった。ではエンジニアは何をすれば勝てるのか。本当に機能するAIネイティブ時代のSaaS個人開発と、B2Bマーケティングの泥臭い現実を、書き殴... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nnze/articles/e3f648e335a947</guid>
+      <pubDate>Sun, 15 Mar 2026 02:05:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

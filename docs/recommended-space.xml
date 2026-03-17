@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 07:24:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 07:10:32 +0000</lastBuildDate>
     <item>
       <title>予期せぬ場所で起きた中性子星どうしの衝突　NASA望遠鏡群が捉えたガンマ線バーストの起源</title>
       <link>https://sorae.info/astronomy/20260313-grb-230906a.html</link>
@@ -44,6 +44,13 @@
       <pubDate>Mon, 02 Mar 2026 00:18:59 +0000</pubDate>
     </item>
     <item>
+      <title>非対称な渦巻腕を伸ばした銀河「NGC 2442」のクローズアップ　ハッブル宇宙望遠鏡が観測</title>
+      <link>https://sorae.info/astronomy/20260316-ngc-2442.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡（HST）で観測した渦巻銀河「NGC 2442」のクローズアップ。 とびうお座の方向、約5500万光年先にあります。 NGC 2442は、大きくゆがんだ非対称な2本の渦巻腕（渦状腕）を持つこと… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260316-ngc-2442.html</guid>
+      <pubDate>Mon, 16 Mar 2026 12:10:32 +0000</pubDate>
+    </item>
+    <item>
       <title>ビジネスパーソンや地方自治体職員必見！ 第1回「サテライトデータビジネス検定」の受験申込は3月18日（水）まで</title>
       <link>https://sorabatake.jp/45219/</link>
       <description>地球観測衛星から得られるデータ（衛星データ）のビジネス活用に必要な知識を体系的に学べるよう設計されたサテライトデータビジネス検定の受験申込が始まりました。合格発表日には解説イベントも準備されています。 (source: 宙畑)</description>
@@ -56,13 +63,6 @@
       <description>ロシアの国営宇宙企業Roscosmos（ロスコスモス）は2026年3月3日付で、カザフスタンのバイコヌール宇宙基地で31番射点のサービスキャビン（打ち上げ前のロケット下部へアクセスするための移動式プラットフォーム）の修復… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260311-baikonur-site-31.html</guid>
       <pubDate>Wed, 11 Mar 2026 10:24:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>公転周期がわずかに短縮　NASA探査機「DART」の衝突は二重小惑星全体に影響していた</title>
-      <link>https://sorae.info/astronomy/20260309-dart.html</link>
-      <description>2022年9月、NASA（アメリカ航空宇宙局）のミッション「DART」の無人探査機が、小惑星「Didymos（ディディモス）」を公転する衛星「Dimorphos（ディモルフォス）」への衝突に成功しました。この衝突によって… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260309-dart.html</guid>
-      <pubDate>Mon, 09 Mar 2026 09:13:08 +0000</pubDate>
     </item>
     <item>
       <title>人類は地球外文明の電波信号を見逃しているかもしれない　恒星活動で信号が変化する可能性</title>
