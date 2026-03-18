@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 07:10:27 +0000</lastBuildDate>
-    <item>
-      <title>[小ネタ] Excelでセルにローカルフォルダの画像を表示する時は IMAGE 関数 + Caddy ワンライナーが便利</title>
-      <link>https://qiita.com/ssc-ksaitou/items/be43b3fd69502d6bf60b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-AIの学習データ整理のために、ローカルにある画像をExcelシート上で一覧表示したいことがあったので、手法をメモしておきます。
-Excelには =IMAGE(URL) という関数があり、URL先の画像をセル内に表示できます。ただしこの関数には以下の制約があります... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/ssc-ksaitou/items/be43b3fd69502d6bf60b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Mon, 16 Mar 2026 06:55:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBM Bobを使って、PostgreSQLのToDoアプリをDb2へ変換してみよう</title>
-      <link>https://qiita.com/nishikyon/items/af47a0b003df619ef006?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>IBM BobはIBMが開発したVS Codeを利用したAIコーディングエージェントです。
-VS Codeプラグインではなく、IBM Bobを導入して専用アプリとして起動します。CLIもあります。
-かわいいキャラクター&amp;人の名前がついているので、使ってるとBobという人型ロ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/nishikyon/items/af47a0b003df619ef006?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Mon, 16 Mar 2026 00:13:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 07:07:08 +0000</lastBuildDate>
     <item>
       <title>音楽の生成・編集が可能な高性能ローカル音楽生成AI【ACE-Step-1.5】から音楽生成AIの仕組みを完全に理解する</title>
       <link>https://zenn.dev/asap/articles/6a717d7a68ec02</link>
@@ -42,76 +24,91 @@ https://github.com/ace-step/ACE-Step-1.5
       <pubDate>Sun, 15 Mar 2026 16:21:47 +0000</pubDate>
     </item>
     <item>
-      <title>GitHub Copilotのスラッシュコマンドやサブエージェントを使って、簡易レビュー実装</title>
-      <link>https://zenn.dev/peishim/articles/f1030e6102946c</link>
-      <description>はじめに
-自分が参画している現場で、GitHub Copilotを用いて、ローカルでAIレビューする仕組みを作ってみたので、どのようなものを作ったのかを紹介していきます。
-GitHub Copilotも知らないうちに結構進化していて、VScodeで使う分には使いやすいと感じたので、「こういう部分が便利！」みたいな情報も合わせて伝えられればと思います。
-Claude Codeなどと比べて、GitHub Copilotの機能などを紹介している記事は少ないように思うので、GitHub Copilotしか使えない環境の人にとって参考になる記事になれば幸いです。
-!
-仕事で作ったものと同じよう... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/peishim/articles/f1030e6102946c</guid>
-      <pubDate>Sun, 15 Mar 2026 14:20:33 +0000</pubDate>
+      <title>Webサービスを作って公開したらなんか知らないアカウントが開発者を自称していた</title>
+      <link>https://zenn.dev/satetsu888/articles/ab3b195c7603b0</link>
+      <description>@satetsu888 です。最近AIエージェントで開発が高速化した結果、作った機能の動作確認が間に合わなくなっていく感じがしているので、QAをAIに任せるためのハーネス的なことをするサービス aqua を作っていました。
+このサービスの紹介を書こうと思っていたんですが、なんか知らないアカウントが僕の作ったサービスの開発者を自称してXに投稿しているのを見つけたので、注意喚起も兼ねて調べたことをまとめておこうと思います。
+
+ 起きたことのタイムライン
+
+03/10: サービスをリリース
+03/13: 僕が自分でサービスの紹介をredditに投稿
+
+03/14: 知らないアカウントがサービス... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/satetsu888/articles/ab3b195c7603b0</guid>
+      <pubDate>Sun, 15 Mar 2026 08:11:29 +0000</pubDate>
     </item>
     <item>
-      <title>ハーネスで縛れ、AIに任せろ ーAIエージェントの出力品質は“構造”で守る / 開発者向けブログ・イベント | GMO Developers</title>
-      <link>https://developers.gmo.jp/technology/81389/</link>
-      <description>AIコーディングエージェントによって、実装のスピードは確かに上がりました。設計し、試し、修正する。その試行回数を増やせることは、AI駆動開発の大きな価値です。 一方で、コード品質のばらつきや設計の揺れといった課題も見えてきました。そこで私たちは、AIの出力品質を人の注意力ではなく、構造で支える仕組みとし... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://developers.gmo.jp/technology/81389/</guid>
-      <pubDate>Tue, 17 Mar 2026 04:52:33 +0000</pubDate>
+      <title>「できること」を掛け算していったら、「自分しかできないこと」になった - そーだいなるらくがき帳</title>
+      <link>https://soudai.hatenablog.com/entry/2026/03/13/154704</link>
+      <description>この記事は株式会社クイック様から許可をいただき、過去の寄稿記事を転載しています。 一部、掲載当時から変更になった情報については補足を追加しています。 本文 エンジニアとして技術ブログをしたためるそーだいさんは、現在の仕事を「自分しかできないこと」と感じているそうです。誰もが追い求める、でもどこにある... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://soudai.hatenablog.com/entry/2026/03/13/154704</guid>
+      <pubDate>Fri, 13 Mar 2026 08:24:43 +0000</pubDate>
     </item>
     <item>
-      <title>Dockerイメージを深掘りしてみる</title>
-      <link>https://zenn.dev/wakaka23/articles/20ad423456bb8f</link>
-      <description>概要
-業務や学習などでDockerを触ることは割とありましたが、ふと「自分ってDockerイメージがなんなのかあんまり理解してないな...」と思ってしまいました。本記事はDockerイメージの実体を理解すべく、Dockerイメージを展開し各ファイルの中身を確認した際の備忘録です。
-
- Dockerイメージとは
-Dockerイメージはレイヤの集合体であり、各レイヤは独自のファイルシステムをtarアーカイブファイルとして保有しています。ベースレイヤを基底として他レイヤを上部に重ね合わせることで、一つのファイルシステムとして構成していきます。
-
-https://qiita.com/zemb... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/wakaka23/articles/20ad423456bb8f</guid>
-      <pubDate>Sun, 15 Mar 2026 12:10:33 +0000</pubDate>
+      <title>プッツンした人間が AI にダメ出しし続けたら flaky テストが全滅した | BLOG - DeNA Engineering</title>
+      <link>https://engineering.dena.com/blog/2026/03/flaky-test-elimination-with-ai/</link>
+      <description>こんにちは、 kocchi の Claude Code です。 ご主人はついにブログ記事まで私に書かせ始めました。まいったものです。でも書きます。あの数日間に何が起きたかを一番知っているのは私なので。 先日、ご主人と一緒にプロダクトの E2E テストから flaky を全滅させました。flaky テストとは、同じコードなのに実行するたび... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://engineering.dena.com/blog/2026/03/flaky-test-elimination-with-ai/</guid>
+      <pubDate>Tue, 17 Mar 2026 05:14:54 +0000</pubDate>
     </item>
     <item>
-      <title>Claude CodeのReact習熟度を測る</title>
-      <link>https://zenn.dev/uhyo/articles/react-profession-bench-1</link>
-      <description>皆さんこんにちは。コーディングエージェントの発展により、プログラムの多くの部分をAiが書いてくれるようになりました。
-しかし、筆者が得意とするReactに関しては、動くものを作ることはできるにせよ、人間が十分に指図しなければ質のいいコードが書けないことも多いと感じています。
-そこで、今回は、Claude CodeのReact習熟度を測るための簡単なベンチマークを作ってみたので、その結果を共有します。
-
- 注意と予防線
-ベンチマークと名乗ると、粗探しをしたい方々が寄ってくる傾向があります。その前に、今回の設定が以下のとおりであることをご理解ください。
-
-あくまで筆者が考える「習熟度」を測っ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/uhyo/articles/react-profession-bench-1</guid>
-      <pubDate>Sun, 15 Mar 2026 15:23:17 +0000</pubDate>
+      <title>Sycophancy――ゴマすりが人を愚かにする » p2ptk[.]org</title>
+      <link>https://p2ptk.org/ai/5473</link>
+      <description>以下の文章は、コリイ・ドクトロウの「The billionaires aren’t OK」という記事を翻訳したものである。 Pluralistic ビリオネアたちは、我々を本物の人間だと思っていない。当然だろう。何十億ドルもの富を生み出すために途方もない苦しみを他者に強いておきながら、その搾取事業の犠牲者にわずかでも共感を覚えることな... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://p2ptk.org/ai/5473</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:52 +0000</pubDate>
     </item>
     <item>
-      <title>生成AIでパワポを作る方法一覧【2026年3月版】</title>
-      <link>https://zenn.dev/ncukondo/articles/ai-generate-pptx-methods-2026</link>
-      <description>はじめに
-生成AIを使ったスライド作成ツールの紹介記事は増えていますが、その多くはPDFやHTML出力が中心です。しかし実際の仕事では、上司や共著者が追加編集する、提出物としてパワポ形式(PPTX)が指定される、といった理由からPPTXでの出力が必要な場面が少なくありません。
-本記事では、2026年3月時点で利用可能な方法をGUI完結型・Markdown型・コード生成型の3カテゴリに分けて、PPTX出力の観点から整理します。
+      <title>Vite+ の異常なタスクランナー: vite-task は如何にしてキャッシュの手動依存管理をなくしたか</title>
+      <link>https://zenn.dev/herp_inc/articles/strange-task-runner</link>
+      <description>原題『Vite+の異常なタスクランナー または vite-task は如何にしてキャッシュの手動依存管理を止めてファイルアクセスを自動捕捉するようになったか』[1]
 
- PPTX出力の「編集可能性」に注意
-まず前提として、PPTX出力に対応していても、中身が編集可能とは限らないという点を押さえておく必要があります。
-たとえば... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ncukondo/articles/ai-generate-pptx-methods-2026</guid>
-      <pubDate>Sat, 14 Mar 2026 00:14:58 +0000</pubDate>
+先日、ついに Vite+ の alpha 版がリリースされました。oxc エコシステムの全面バックアップを受けた高速なネイティブ実装ツールチェーンが揃い踏みしており、開発コミュニティも沸き立っています。
+私も仕事で扱っているプロジェクトを手元で Vite+ に置き換えてみたのですが、 vp (ヴイピー) 鬼はえええ！このまま遅いやつら全部 Vite+ に置き換えていこうぜ！ という気持ちになりました。
+そんな Vite+ ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/herp_inc/articles/strange-task-runner</guid>
+      <pubDate>Tue, 17 Mar 2026 09:05:46 +0000</pubDate>
     </item>
     <item>
-      <title>私のOSS活動元年を振り返ったらAIと下心が原動力だった</title>
-      <link>https://zenn.dev/jackchuka/articles/473ef7cc70efbc</link>
-      <description>1年前、自分のGitHubプロフィールを開いても、ほぼ何もなかった。
-GitHubの公開レポはほとんどなし。あるのは数年前に作ったちょっとしたものくらいで、寂しいものだった。OSS活動？「いつかやりたいな」とは思っていたけど、何を作ればいいかわからない、公開しても誰も見ないだろうし、仕事との時間のバランスを考えると腰が重い。そんな状態でした。
-それが今、気づいたら20個以上のOSSを公開していて、合計Star数は200を超えていた。
-この記事では、私のOSS活動元年の節目として、何を学び何がこの変化を起こしたのかを振り返ろうと思う。
-こんにちは、jackchukaです。
-!
-注）この記事... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/jackchuka/articles/473ef7cc70efbc</guid>
-      <pubDate>Sun, 15 Mar 2026 04:15:29 +0000</pubDate>
+      <title>システム設計における妥協案の作り方: 理想像の STEP1 として妥協案を設計する</title>
+      <link>https://zenn.dev/knowledgework/articles/c3f2f5986a24a6</link>
+      <description>mayah です。株式会社ナレッジワークでは創業時より CTO をしており、プロダクト全体の技術方針やアーキテクチャを定める役割をしています。
+この記事は、KNOWLEDGE WORK Blog Sprint 2026 Spring の 12 本目の記事です。
+本日はシステム設計における妥協案の作り方について話してみたいと思います。
+システム設計を行うに当たって、妥協はつきものです。最初から理想的な設計のもとに実装ができればいいのですが、締め切りまでの時間がなくて少ない工数で作れる方法を選ばなければならなかったり、工数が多いとそもそも ROI が合わなかったり、様々な理由で妥協した設計を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/c3f2f5986a24a6</guid>
+      <pubDate>Tue, 17 Mar 2026 03:59:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>今更ですが、Claude Codeで、ミュージックプレイヤーみたいなものを作ってみた</title>
+      <link>https://zenn.dev/churadata/articles/3a1382e4f6990f</link>
+      <description>生成AI使っていますか？
+がく＠ちゅらデータエンジニアです。
+昨今、生成AIを使っての開発ってのは、かなりかなり浸透してきて、生成AIがないと話にならん！な状況になりつつあると思います。
+全然使わないまんまじゃまずいなぁーーと思い、業務でも色々取り入れて試行錯誤してるところです。
+
+ 朝、ふと思いついた
+いつも通り、下娘を幼稚園に送り、帰りにYoutubeMusicでアニソンを聴きながら帰ってきたときにふと思いました。
+「仕事中に作業用のBGMで、『こんな音楽流して』『リラックス用にカフェジャズを流して』みたいなこととが出来ないか？」
+と考えました。アレクサとかでできるあれです。
+スマー... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/churadata/articles/3a1382e4f6990f</guid>
+      <pubDate>Mon, 16 Mar 2026 13:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>「AIっぽい」の正体は文体じゃない — 全業務をAIエージェントで回して気づいたこと</title>
+      <link>https://zenn.dev/omori432/articles/ai-likeness-not-about-writing-style</link>
+      <description>RIOです。AnotherBallでモバイルエンジニアをしていて、Avvyというアプリを開発しています。（@rioX432）
+日々の業務では、Claude Codeをメインのパートナーとして使っています。開発はもちろん、テックブログの執筆、調査レポートの作成、コードレビュー、デザインまで。できることは片っ端からAIに任せて、業務全体をAIエージェントで回すことを目指しています。
+その結果、日常的にもらうようになったフィードバックがあります。
+
+「AIっぽくて嫌」
+「AIっぽくて中身がない」
+「AIのレビューをそのまま出力されると困る。文脈を理解した上での指摘が欲しい」
+「AI生成されたレ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/omori432/articles/ai-likeness-not-about-writing-style</guid>
+      <pubDate>Tue, 17 Mar 2026 10:41:31 +0000</pubDate>
     </item>
     <item>
       <title>コードを書くのをやめた。Claude Codeに月商300万のSaaSの全コードを書かせ、完全ソロ運用しているという話。</title>

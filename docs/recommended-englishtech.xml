@@ -7,20 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Mar 2026 07:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 07:07:20 +0000</lastBuildDate>
+    <item>
+      <title>WorkOSがシリーズCラウンドで1億ドルを調達、企業価値は20億ドルに達する</title>
+      <link>https://workos.com/blog/series-c</link>
+      <description>WorkOSはシリーズC資金調達ラウンドで1億ドルを調達し、企業価値は20億ドルとなった。今回のラウンドはMeritechとSapphireが主導し、Audacious、Craft、Abstract、Greenoaksなどが参加した。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/series-c</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QCon London 2026：DVDからグローバルストリーミングへ ― Netflixのコマースアーキテクチャは実際にどのように進化してきたのか</title>
+      <link>https://www.infoq.com/news/2026/03/netflix-dvds-to-global-streaming/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Netflixのダイナミックな主任エンジニア、カシア・トラプソ氏は、DVDレンタルサービスから世界的なストリーミング大手へと進化を遂げた同社のコマースアーキテクチャを巧みに操る。彼女が提唱する課金システムへの実践的な適応に関する洞察は、俊敏性、ローカライゼーション、そして現代の決済環境の複雑さについて、非常に貴重な教訓を与えてくれる。ダニエル・カーティス著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/netflix-dvds-to-global-streaming/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 17 Mar 2026 16:46:00 +0000</pubDate>
+    </item>
     <item>
       <title>プレゼンテーション：自動テストのための画像処理</title>
       <link>https://www.infoq.com/presentations/image-processing-automated-tests/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ステファン・ディルンストルファー氏は、DOMベースのテストからビジュアルUIエージェントへの移行について論じています。彼は、LLMが1ピクセルのずれや壊れた道路網の検出といった精密なタスクでしばしば失敗する理由を説明し、高度な画像レジストレーションと「思考連鎖」ビジョン処理が信頼性の高いQAに不可欠である理由を共有しています。生成AIと古典的なアルゴリズムを組み合わせることが、自動化の未来である理由を学びましょう。ステファン・ディルンストルファー著 (source: InfoQ)</description>
+      <description>ステファン・ディルンストルファー氏は、DOMベースのテストからビジュアルUIエージェントへの移行について論じています。彼は、LLMが1ピクセルのずれや壊れた道路網の検出といった精密なタスクでしばしば失敗する理由を説明し、高度な画像レジストレーションと「思考連鎖」ビジョン処理が信頼性の高いQAに不可欠であることを解説します。生成AIと古典的なアルゴリズムを組み合わせることが、自動化の未来である理由を学びましょう。ステファン・ディルンストルファー著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/image-processing-automated-tests/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 16 Mar 2026 14:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AppleがAirPods Max 2をひっそりと発売</title>
-      <link>https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/</link>
-      <description>同社の高級ヘッドホンの後継機種は549ドルで発売され、強化されたアクティブノイズキャンセリング機能、H2チップ、ライブ翻訳機能、より優れた音質などを搭載している。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/</guid>
-      <pubDate>Mon, 16 Mar 2026 14:12:50 +0000</pubDate>
     </item>
     <item>
       <title>OktaからLaravelアプリにユーザーを同期する方法</title>
@@ -37,6 +44,13 @@
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>GammaはCanvaとAdobeに対抗するため、AI画像生成ツールを追加した。</title>
+      <link>https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/</link>
+      <description>同社の新製品「ガンマ・イマジン」は、ユーザーがテキストプロンプトを使用して、インタラクティブなチャートやビジュアライゼーション、マーケティング資料、ソーシャルグラフィック、インフォグラフィックといったブランド固有のアセットを作成できるようにするものです。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/</guid>
+      <pubDate>Tue, 17 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
       <description>現代のアプリケーション開発では、複数のサードパーティサービスとの接続がますます重要になっています。Pipesは、OAuthフロー、トークン管理、プロバイダー設定を自動的に処理するように設計されています。 (source: WorkOS Blog)</description>
@@ -46,7 +60,7 @@
     <item>
       <title>DoorDashが3200万個のラベルを使用してセマンティック検索のための画像、テキスト、クエリを整合させるDashCLIPを開発</title>
       <link>https://www.infoq.com/news/2026/03/doordash-semantic-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>DoorDashは、商品画像、テキスト、ユーザーの検索クエリを共有埋め込み空間に配置するマルチモーダル機械学習システムを導入しました。対照学習を用いて3,200万件のラベル付きクエリと商品のペアでトレーニングされたこのシステムは、セマンティック検索、商品ランキング、広告の関連性を向上させます。埋め込みは、マーケットプレイス全体における他の機械学習タスクもサポートします。Leela Kumili著 (source: InfoQ)</description>
+      <description>DoorDashは、商品画像、テキスト、ユーザーの検索クエリを共有埋め込み空間に配置するマルチモーダル機械学習システムを発表しました。対照学習を用いて3,200万件のラベル付きクエリと商品のペアでトレーニングされたこのシステムは、セマンティック検索、商品ランキング、広告の関連性を向上させます。埋め込みは、マーケットプレイス全体における他の機械学習タスクもサポートします。Leela Kumili 著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/doordash-semantic-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 16 Mar 2026 14:25:00 +0000</pubDate>
     </item>
@@ -63,20 +77,6 @@
       <description>Googleは、シンプルさ、スピード、安全性、移植性を重視して設計された、チューリング完全ではない組み込みポリシーおよび式言語である共通式言語（CEL）のPython実装であるCEL-expr-pythonをオープンソース化した。 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/google-cel-expr-python/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 16 Mar 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Javaニュースまとめ：JHipster 9.0、Project Valhalla、Spring、Helidon、OpenXava、Java Operator SDK</title>
-      <link>https://www.infoq.com/news/2026/03/java-news-roundup-mar09-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>2026年3月9日付けの今週のJavaニュースまとめでは、JHipster 9.0のGAリリース、Project Valhallaのビルド27-jep401ea、Spring Tools、Helidon、OpenXava、Java Operator SDKのポイントリリース、Spring Frameworkのメンテナンスリリース、Open Libertyの2026年3月版ベータリリース、Micrometer MetricsとMicrometer Tracingのマイルストーンリリースなどのニュースを取り上げています。執筆：Michael Redlich (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/java-news-roundup-mar09-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 16 Mar 2026 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>記事：AIエージェントの実践的な評価：ベンチマーク、フレームワーク、および得られた教訓</title>
-      <link>https://www.infoq.com/articles/evaluating-ai-agents-lessons-learned/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>本稿では、実世界環境で動作するAIエージェントを評価するための実践的な手法を紹介します。ベンチマーク、自動評価パイプライン、および人間のレビューを組み合わせて、信頼性、タスクの成功、および複数ステップのエージェント動作を測定する方法について説明します。また、複数のインタラクションターンにわたって計画、ツールの使用、および操作を行うシステムを評価する際の課題についても論じます。執筆者：Amit Kumar Padhy (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/evaluating-ai-agents-lessons-learned/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 16 Mar 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

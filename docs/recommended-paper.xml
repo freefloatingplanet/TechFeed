@@ -7,13 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Mar 2026 07:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 07:07:15 +0000</lastBuildDate>
     <item>
-      <title>Vib2ECG：胸部誘導SCG-ECGペアデータセットおよびECG再構成のためのベンチマーク</title>
-      <link>https://arxiv.org/abs/2603.15539v1</link>
-      <description>12誘導心電図（ECG）は心血管診断に不可欠ですが、日常生活での長期取得は複雑で高価なハードウェアによって制約されています。最近の研究では、心臓振動信号（SCG）などの低コストの心臓振動信号からECGを再構築する試みが行われていますが、データセットが不足しているため、現在の方法は四肢誘導に限定されており、臨床診断には胸部誘導を含む多誘導ECGが必要です。本研究では、完全な12誘導ECGと、17人の被験者から6つの胸部誘導位置で慣性計測ユニット（IMU）によって取得された振動信号を含む、初のペアになったマルチチャネル電気機械的心臓信号データセットであるVib2ECGを提案します。このデータセットに基づいて、ベンチマークも提供します。実験結果は、軽量な364 KパラメータU-Netを使用して、振動信号からさまざまな位置の電気的心臓信号を再構築できることを示しています。さらに、モデルにおいて、対応する電気活動が存在しない領域でECG波形が生成されるという幻覚現象が観察されました。本研究では、この現象の原因を分析し、緩和のための潜在的な方向性を提案します。この研究は、IMUセンサーを使用して取 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.15539v1</guid>
-      <pubDate>Mon, 16 Mar 2026 17:05:27 +0000</pubDate>
+      <title>GeMA: 複雑系をベンチマークするための潜在多様体フロンティアの学習</title>
+      <link>https://arxiv.org/abs/2603.16729v1</link>
+      <description>鉄道網、再生可能エネルギー発電設備、国家経済といった複雑なシステムのパフォーマンスをベンチマークすることは、輸送計画、規制、マクロ経済分析において極めて重要です。データ包絡分析（DEA）や確率的フロンティア分析（SFA）といった従来のフロンティア分析手法は、観測された入出力空間における効率フロンティアを推定し、効率性をこのフロンティアまでの距離として定義しますが、生産集合に関する制約的な仮定に依存しており、異質性やスケール効果を間接的にしか考慮していません。
+
+そこで本稿では、生産性多様体変分オートエンコーダ（ProMan-VAE）を用いて実装された潜在多様体フロンティアフレームワークである幾何学的多様体分析（GeMA）を提案します。GeMAは、観測空間におけるフロンティア関数を指定する代わりに、生産集合を入出力空間に埋め込まれた低次元多様体の境界として表現します。スプリットヘッドエンコーダは、技術構造と運用上の非効率性を捉える潜在変数を学習します。効率性は学習された多様体に関して評価され、内生的なピアグループは潜在技術空間におけるクラスターとして出現し、商構成はスケール不変のベンチマ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.16729v1</guid>
+      <pubDate>Tue, 17 Mar 2026 16:12:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
