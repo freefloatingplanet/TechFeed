@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Mar 2026 07:07:20 +0000</lastBuildDate>
-    <item>
-      <title>WorkOSがシリーズCラウンドで1億ドルを調達、企業価値は20億ドルに達する</title>
-      <link>https://workos.com/blog/series-c</link>
-      <description>WorkOSはシリーズC資金調達ラウンドで1億ドルを調達し、企業価値は20億ドルとなった。今回のラウンドはMeritechとSapphireが主導し、Audacious、Craft、Abstract、Greenoaksなどが参加した。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/series-c</guid>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Mar 2026 07:04:11 +0000</lastBuildDate>
     <item>
       <title>QCon London 2026：DVDからグローバルストリーミングへ ― Netflixのコマースアーキテクチャは実際にどのように進化してきたのか</title>
       <link>https://www.infoq.com/news/2026/03/netflix-dvds-to-global-streaming/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -23,11 +16,18 @@
       <pubDate>Tue, 17 Mar 2026 16:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：自動テストのための画像処理</title>
-      <link>https://www.infoq.com/presentations/image-processing-automated-tests/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ステファン・ディルンストルファー氏は、DOMベースのテストからビジュアルUIエージェントへの移行について論じています。彼は、LLMが1ピクセルのずれや壊れた道路網の検出といった精密なタスクでしばしば失敗する理由を説明し、高度な画像レジストレーションと「思考連鎖」ビジョン処理が信頼性の高いQAに不可欠であることを解説します。生成AIと古典的なアルゴリズムを組み合わせることが、自動化の未来である理由を学びましょう。ステファン・ディルンストルファー著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/image-processing-automated-tests/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 16 Mar 2026 14:02:00 +0000</pubDate>
+      <title>記事：メモリ安全性を超えて：Rustの特長 ― 自律型ロボットから学ぶ教訓</title>
+      <link>https://www.infoq.com/articles/practical-robustness-going-beyond-memory-safety-rust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>この記事では、自律移動ロボット群を制御するシステムという、実際のRustプロジェクトを通して、この疑問を探ります。Rustのメモリ安全性は強力な基盤ですが、その真の力は型システムと所有権ルールにあります。このセッションでは、メモリ安全性にとどまらず、振る舞いやプロトコルを型に直接エンコードする方法を探ります。執筆：Andy Brinkmeyer (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/practical-robustness-going-beyond-memory-safety-rust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 18 Mar 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>イランでの戦争により複数のAWSデータセンターが被害を受け、マルチAZ構成の前提が揺らぐ</title>
+      <link>https://www.infoq.com/news/2026/03/aws-multiaz-conflict-outage/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>今月初め、イランのドローン攻撃により、アラブ首長国連邦とバーレーンにある3つのAWSデータセンターが被害を受け、複数のサービスに障害が発生しました。同じAWSリージョン内の複数の施設に影響を与えたこの事件は、地政学的紛争がグローバルなクラウドインフラストラクチャとマルチAZ展開に直接どのような影響を与えるかについて、コミュニティ内で議論を巻き起こしました。レナート・ロシオ (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/aws-multiaz-conflict-outage/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 18 Mar 2026 08:17:00 +0000</pubDate>
     </item>
     <item>
       <title>OktaからLaravelアプリにユーザーを同期する方法</title>
@@ -44,13 +44,6 @@
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>GammaはCanvaとAdobeに対抗するため、AI画像生成ツールを追加した。</title>
-      <link>https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/</link>
-      <description>同社の新製品「ガンマ・イマジン」は、ユーザーがテキストプロンプトを使用して、インタラクティブなチャートやビジュアライゼーション、マーケティング資料、ソーシャルグラフィック、インフォグラフィックといったブランド固有のアセットを作成できるようにするものです。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/</guid>
-      <pubDate>Tue, 17 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
       <description>現代のアプリケーション開発では、複数のサードパーティサービスとの接続がますます重要になっています。Pipesは、OAuthフロー、トークン管理、プロバイダー設定を自動的に処理するように設計されています。 (source: WorkOS Blog)</description>
@@ -58,25 +51,34 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>DoorDashが3200万個のラベルを使用してセマンティック検索のための画像、テキスト、クエリを整合させるDashCLIPを開発</title>
-      <link>https://www.infoq.com/news/2026/03/doordash-semantic-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>DoorDashは、商品画像、テキスト、ユーザーの検索クエリを共有埋め込み空間に配置するマルチモーダル機械学習システムを発表しました。対照学習を用いて3,200万件のラベル付きクエリと商品のペアでトレーニングされたこのシステムは、セマンティック検索、商品ランキング、広告の関連性を向上させます。埋め込みは、マーケットプレイス全体における他の機械学習タスクもサポートします。Leela Kumili 著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/doordash-semantic-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 16 Mar 2026 14:25:00 +0000</pubDate>
+      <title>QCon London 2026: Use&lt;’lifetimes&gt; For&lt;’what&gt;</title>
+      <link>https://www.infoq.com/news/2026/03/rust-lifetimes-loans-polonius/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>QCon Londonで、TrueLayerのエンジニアであるEthan Brierley氏は、Poloniusの借用チェッカーのメンタルモデルを用いてRustのライフタイムの概念を再構築しました。ライフタイムをコードの領域ではなく、借用されたコードの集合として捉えるというものです。彼は借用チェッカーの基本から、バリアンスとサブタイピングを経て、serdeを用いたより高次のライフタイムへと展開し、借用という視点によって、これまで分かりにくかったライフタイムのエラーがいかに直感的に理解できるかを示しました。執筆：Steef-Jan Wiggers (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/rust-lifetimes-loans-polonius/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 18 Mar 2026 10:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>WorkOS MCP ナイト：ホリデースペシャル</title>
-      <link>https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</link>
-      <description>MCPナイト、ホリデースペシャルは歴史的な瞬間を迎えました。AnthropicがLinux FoundationにMCPを寄贈し、Agentic AI Foundationが発足したのです。Cloudflare、Supabase、Datadog、Microsoft、Googleによるデモも行われました。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/workos-mcp-night-3-0-recap-the-holiday-special</guid>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <title>QCon London 2026：カナダ歳入庁（CRA）の執行が迫る中、SBOM（中小企業向け販売促進ツール）はベストプラクティスから法的義務へと移行する</title>
+      <link>https://www.infoq.com/news/2026/03/sbom-viktor-petersson/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>QCon London 2026での講演で、ヴィクトル・ペテルソン氏は、米国と欧州における法改正が控えているため、ソフトウェア開発チームはSBOM（ソフトウェア部品表）の導入に時間がなくなりつつあると主張しました。
+
+彼は現在の規制状況を概説し、高品質なSBOMを作成するための実践的な方法論、そして作成された成果物を配布するための新たな標準規格について語りました。（マット・サンダース記） (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/sbom-viktor-petersson/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 18 Mar 2026 13:04:00 +0000</pubDate>
     </item>
     <item>
-      <title>GoogleがPythonの共通表現言語をオープンソース化</title>
-      <link>https://www.infoq.com/news/2026/03/google-cel-expr-python/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Googleは、シンプルさ、スピード、安全性、移植性を重視して設計された、チューリング完全ではない組み込みポリシーおよび式言語である共通式言語（CEL）のPython実装であるCEL-expr-pythonをオープンソース化した。 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/google-cel-expr-python/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 16 Mar 2026 19:00:00 +0000</pubDate>
+      <title>「不正操作不可能」なランキングは、ランキング対象企業からの資金提供によって運営されている。</title>
+      <link>https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/</link>
+      <description>人工知能モデルは急速に増加しており、競争は激化しています。多くの企業が参入する中で、どれが最高になるのか、そして誰がそれを決定するのでしょうか？ 以前はLM Arenaと呼ばれていたArenaは、最先端のLLM（法学修士）の事実上の公開リーダーボードとして台頭し、資金調達、ローンチ、PRサイクルに影響を与えています。わずか7ヶ月で、このスタートアップはUCバークレーの博士課程研究から[…] (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/</guid>
+      <pubDate>Wed, 18 Mar 2026 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Java 26は、言語の革新、ライブラリの改善、パフォーマンス、セキュリティの向上を実現します。</title>
+      <link>https://www.infoq.com/news/2026/03/java26-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>OracleはJavaプログラミング言語および仮想マシンのバージョン26をリリースしました。JDK 25以来初の非LTSリリースとなる今回の最終機能セットには10個のJEPが含まれており、そのうち5つは現在もプレビューおよびインキュベーター段階にあります。今回のリリースは、Javaライブラリの改善、言語の革新、パフォーマンス、およびセキュリティに重点を置いています。執筆：Michael Redlich (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/java26-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 18 Mar 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

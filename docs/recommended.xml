@@ -7,57 +7,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 07:07:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 07:03:55 +0000</lastBuildDate>
     <item>
-      <title>音楽の生成・編集が可能な高性能ローカル音楽生成AI【ACE-Step-1.5】から音楽生成AIの仕組みを完全に理解する</title>
-      <link>https://zenn.dev/asap/articles/6a717d7a68ec02</link>
-      <description>はじめに
-!
-この記事はすべて人力で記述しています。
-誤りがあれば、こっそりと教えてください。
-
-https://github.com/ace-step/ACE-Step-1.5
-最近、AIで音楽を生成できるオープンソースモデル「ACE-Step 1.5」を試す機会があったので、備忘録として残します。
-性能や操作感において、Sunoなどの商用モデルに匹敵するクオリティで、しかもローカル環境で動かせるという、なかなかロマンのあるモデルです。
-また、このモデルはテキストからの音楽生成だけでなく、音楽の一部分修正なども行うことができ、しかもそれらの機能を単一のモデルによって達成している（マ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/asap/articles/6a717d7a68ec02</guid>
-      <pubDate>Sun, 15 Mar 2026 16:21:47 +0000</pubDate>
+      <title>「コク」と「キレ」の両方を味わえるコップ、東大が開発　黒ビール→ジンジャーエールに変わっていくとどう感じる？</title>
+      <link>https://www.itmedia.co.jp/news/articles/2603/19/news042.html</link>
+      <description>2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2603/19/news042.html</guid>
+      <pubDate>Thu, 19 Mar 2026 00:08:35 +0000</pubDate>
     </item>
     <item>
-      <title>Webサービスを作って公開したらなんか知らないアカウントが開発者を自称していた</title>
-      <link>https://zenn.dev/satetsu888/articles/ab3b195c7603b0</link>
-      <description>@satetsu888 です。最近AIエージェントで開発が高速化した結果、作った機能の動作確認が間に合わなくなっていく感じがしているので、QAをAIに任せるためのハーネス的なことをするサービス aqua を作っていました。
-このサービスの紹介を書こうと思っていたんですが、なんか知らないアカウントが僕の作ったサービスの開発者を自称してXに投稿しているのを見つけたので、注意喚起も兼ねて調べたことをまとめておこうと思います。
+      <title>Antigravityは(バックエンドでは)使い物にならない</title>
+      <link>https://zenn.dev/beadiest_star64/articles/7e2de21fe1cfde</link>
+      <description>1. 概要
+タイトルの通りですが、Google Antigravityを2週間使い倒して、Antigravityの得意な分野と苦手な分野、個人的なAIコーディングの将来予想をしていきます。
 
- 起きたことのタイムライン
-
-03/10: サービスをリリース
-03/13: 僕が自分でサービスの紹介をredditに投稿
-
-03/14: 知らないアカウントがサービス... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/satetsu888/articles/ab3b195c7603b0</guid>
-      <pubDate>Sun, 15 Mar 2026 08:11:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>「できること」を掛け算していったら、「自分しかできないこと」になった - そーだいなるらくがき帳</title>
-      <link>https://soudai.hatenablog.com/entry/2026/03/13/154704</link>
-      <description>この記事は株式会社クイック様から許可をいただき、過去の寄稿記事を転載しています。 一部、掲載当時から変更になった情報については補足を追加しています。 本文 エンジニアとして技術ブログをしたためるそーだいさんは、現在の仕事を「自分しかできないこと」と感じているそうです。誰もが追い求める、でもどこにある... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://soudai.hatenablog.com/entry/2026/03/13/154704</guid>
-      <pubDate>Fri, 13 Mar 2026 08:24:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>プッツンした人間が AI にダメ出しし続けたら flaky テストが全滅した | BLOG - DeNA Engineering</title>
-      <link>https://engineering.dena.com/blog/2026/03/flaky-test-elimination-with-ai/</link>
-      <description>こんにちは、 kocchi の Claude Code です。 ご主人はついにブログ記事まで私に書かせ始めました。まいったものです。でも書きます。あの数日間に何が起きたかを一番知っているのは私なので。 先日、ご主人と一緒にプロダクトの E2E テストから flaky を全滅させました。flaky テストとは、同じコードなのに実行するたび... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://engineering.dena.com/blog/2026/03/flaky-test-elimination-with-ai/</guid>
-      <pubDate>Tue, 17 Mar 2026 05:14:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sycophancy――ゴマすりが人を愚かにする » p2ptk[.]org</title>
-      <link>https://p2ptk.org/ai/5473</link>
-      <description>以下の文章は、コリイ・ドクトロウの「The billionaires aren’t OK」という記事を翻訳したものである。 Pluralistic ビリオネアたちは、我々を本物の人間だと思っていない。当然だろう。何十億ドルもの富を生み出すために途方もない苦しみを他者に強いておきながら、その搾取事業の犠牲者にわずかでも共感を覚えることな... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://p2ptk.org/ai/5473</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:52 +0000</pubDate>
+ 2. Antigravityはフロントエンド特化
+「VSCodeをベースにブラウザを統合した」という事で大体察すると思いますが、AntigravityはTypeScriptとReactでフロントエンドで開発するには無類の強さを誇ります。
+少なくともToDoアプリを作る程度ならば。
+統合されたブラウザでDOMを操作して確認を行うため、UI崩れが『分かる』ようになったのは、AIコーディングにおいて... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/beadiest_star64/articles/7e2de21fe1cfde</guid>
+      <pubDate>Tue, 17 Mar 2026 17:25:18 +0000</pubDate>
     </item>
     <item>
       <title>Vite+ の異常なタスクランナー: vite-task は如何にしてキャッシュの手動依存管理をなくしたか</title>
@@ -81,20 +50,31 @@ https://github.com/ace-step/ACE-Step-1.5
       <pubDate>Tue, 17 Mar 2026 03:59:31 +0000</pubDate>
     </item>
     <item>
-      <title>今更ですが、Claude Codeで、ミュージックプレイヤーみたいなものを作ってみた</title>
-      <link>https://zenn.dev/churadata/articles/3a1382e4f6990f</link>
-      <description>生成AI使っていますか？
-がく＠ちゅらデータエンジニアです。
-昨今、生成AIを使っての開発ってのは、かなりかなり浸透してきて、生成AIがないと話にならん！な状況になりつつあると思います。
-全然使わないまんまじゃまずいなぁーーと思い、業務でも色々取り入れて試行錯誤してるところです。
+      <title>Reactをやめて MoonBit で50ページの業務システムを作った</title>
+      <link>https://zenn.dev/lehti/articles/c4b813a9192701</link>
+      <description>はじめに
+React、Vue、Svelte。フロントエンドのフレームワーク選定で普通に出てくる名前だと思う。自分もそうだった。
+でも結局、どれも選ばなかった。代わりにMoonBitという、ほとんど誰も使っていない言語でフロントエンドを書いている。しかも個人プロジェクトではなく、業務で毎日使われている社内CRM/SFAで。
+ページ数は50を超えた。顧客管理、契約処理、物件検索、社内チャット、日報、承認フロー、AI文書解析、マーケティング分析。一人で開発して、本番で運用している。
+なぜこうなったのか、実際どうなのかを書いておく。
 
- 朝、ふと思いついた
-いつも通り、下娘を幼稚園に送り、帰りにYoutubeMusicでアニソンを聴きながら帰ってきたときにふと思いました。
-「仕事中に作業用のBGMで、『こんな音楽流して』『リラックス用にカフェジャズを流して』みたいなこととが出来ないか？」
-と考えました。アレクサとかでできるあれです。
-スマー... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/churadata/articles/3a1382e4f6990f</guid>
-      <pubDate>Mon, 16 Mar 2026 13:00:09 +0000</pubDate>
+ なぜMoonBitを選んだのか
+正直に言うと、最初はR... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/lehti/articles/c4b813a9192701</guid>
+      <pubDate>Wed, 18 Mar 2026 22:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>43サイトの専用パーサーを実装して分かった、日本のWebサイトの「闇」と「光」</title>
+      <link>https://zenn.dev/bitsap/articles/e3701908b475f1</link>
+      <description>はじめに
+Web Reader APIという、URLを投げるとAI要約付きのMarkdownを返すAPIを開発しています。
+https://rapidapi.com/bitsap/api/webreader-ai
+Readability（Firefoxのリーダーモードに使われている汎用抽出エンジン）だけでは日本のサイトに対応しきれず、43サイトの専用パーサーを実装することになりました。
+この記事では、各サイトのHTML構造と格闘する中で遭遇した技術的なハマりどころ、設計判断、そして「なぜ汎用パーサーでは日本のサイトがうまく抽出できないのか」を赤裸々に書きます。
+
+ なぜ汎用パーサーで... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/bitsap/articles/e3701908b475f1</guid>
+      <pubDate>Tue, 17 Mar 2026 07:55:29 +0000</pubDate>
     </item>
     <item>
       <title>「AIっぽい」の正体は文体じゃない — 全業務をAIエージェントで回して気づいたこと</title>
@@ -111,12 +91,41 @@ https://github.com/ace-step/ACE-Step-1.5
       <pubDate>Tue, 17 Mar 2026 10:41:31 +0000</pubDate>
     </item>
     <item>
-      <title>コードを書くのをやめた。Claude Codeに月商300万のSaaSの全コードを書かせ、完全ソロ運用しているという話。</title>
-      <link>https://zenn.dev/nnze/articles/e3f648e335a947</link>
-      <description>私は現在、B2B向けのニッチな自動化APIミドルウェアをSaaSとして完全な個人で運用し、広告費ゼロ・従業員ゼロで毎月およそ300万円ほどのMRR、定額の月次収益を生み出している。しかも実を言うと、この半年間、エディタを開いて人間が手入力する従来のコーディング作業など1秒たりともおこなっていない。ローカルのターミナルからClaude Codeを呼び出し、AIに要件と仕様を突っ込んでシステム全体を保守拡張させているだけだ。
-コードを手書きする時代は終わった。ではエンジニアは何をすれば勝てるのか。本当に機能するAIネイティブ時代のSaaS個人開発と、B2Bマーケティングの泥臭い現実を、書き殴... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nnze/articles/e3f648e335a947</guid>
-      <pubDate>Sun, 15 Mar 2026 02:05:29 +0000</pubDate>
+      <title>手動 ER 図メンテから卒業する── GitHub Actions × DBML 自動生成の実践</title>
+      <link>https://zenn.dev/finatext/articles/auto-generate-dbml-from-orm</link>
+      <description>こんにちは、ナウキャストで LLM エンジニアをしている Ryotaro です。
+バックエンドの ER 図、ちゃんとメンテナンスできていますか？
+「コードは変えたけど ER 図の更新を忘れた」「いつの間にかドキュメントが実態と乖離していた」という経験は、多くのエンジニアに心当たりがあるのではないでしょうか。
+この記事では、SQLAlchemy モデルを Single Source of Truth（SSoT）として、GitHub Actions で DBML を自動生成・コミットする仕組みを構築しました。やってみたら結構うまくハマったので、その方法を紹介します。開発者はコードだけ修正すれ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/finatext/articles/auto-generate-dbml-from-orm</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeでのふるまいから隠れたSkillを見つける</title>
+      <link>https://zenn.dev/chigichan24/articles/eed4a60d102997</link>
+      <description>はじめに
+!
+前置きとして、この記事では Claude Code を LLM Agent の一例として扱います。
+ただし、ここで述べる考え方自体は Claude Code 固有のものではなく、他の Agent 的な開発体験にも応用できると思っています。
+
+LLM Agent を日常的に使っていると、だんだん「毎回似たような作業をしているな」と感じることがあります。そしてその先で、多くの人が一度はこう考えるはずです。
+
+自分が繰り返している作業パターンを見つけて、Skill として再利用できないだろうか？
+
+ただ、実際にやろうとすると意外と難しいです。なぜなら、Skill を作る前に、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chigichan24/articles/eed4a60d102997</guid>
+      <pubDate>Tue, 17 Mar 2026 19:23:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIコードレビューを「単一責任の原則」で育てた話</title>
+      <link>https://zenn.dev/globis/articles/d0c73d2b176ba5</link>
+      <description>はじめに
+こんにちは！グロービスのDevEx（Developer Experience）チームに所属するemi084です。
+AIコードレビューを導入したものの、「的外れな指摘が多い」「レビュー品質が安定しない」と感じることはありませんか？
+私たちも最初は的外れな指摘が何件も飛んできて、チームメンバーがAIレビューを無視し始める問題が発生してしまいました。
+この記事では、私たちのチームがその課題を「単一責任の原則をAIにも適用する」という発想で乗り越えてきた実践例を紹介します。観点ごとにエージェントを分割し、過去の失敗パターンをナレッジとして教え込むことで、AIレビュワーを「チームの一... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/globis/articles/d0c73d2b176ba5</guid>
+      <pubDate>Tue, 17 Mar 2026 00:42:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

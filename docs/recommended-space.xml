@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 07:07:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 07:04:01 +0000</lastBuildDate>
     <item>
       <title>予期せぬ場所で起きた中性子星どうしの衝突　NASA望遠鏡群が捉えたガンマ線バーストの起源</title>
       <link>https://sorae.info/astronomy/20260313-grb-230906a.html</link>
@@ -37,13 +37,6 @@
       <pubDate>Thu, 12 Mar 2026 12:14:32 +0000</pubDate>
     </item>
     <item>
-      <title>52歳、IT企業でAI業務に従事「今いる業界で専門性を磨きながら、将来、宇宙ビジネスに関わるため、どのような準備が必要ですか？」【宇宙ビジネスキャリア相談室】【PR】</title>
-      <link>https://sorabatake.jp/45038/</link>
-      <description>宇宙ビジネスに関心を持つ皆さまからキャリアに関する質問を募集。「宇宙業界とのかかわり方、宇宙におけるAI活用の最新事情」に関する質問に宇宙人材エージェントを運営する株式会社インバイトユーの河辺さんにご回答いただきました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45038/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:18:59 +0000</pubDate>
-    </item>
-    <item>
       <title>非対称な渦巻腕を伸ばした銀河「NGC 2442」のクローズアップ　ハッブル宇宙望遠鏡が観測</title>
       <link>https://sorae.info/astronomy/20260316-ngc-2442.html</link>
       <description>こちらは、ハッブル宇宙望遠鏡（HST）で観測した渦巻銀河「NGC 2442」のクローズアップ。 とびうお座の方向、約5500万光年先にあります。 NGC 2442は、大きくゆがんだ非対称な2本の渦巻腕（渦状腕）を持つこと… (source: sorae 宇宙へのポータルサイト)</description>
@@ -58,18 +51,18 @@
       <pubDate>Wed, 11 Mar 2026 01:30:39 +0000</pubDate>
     </item>
     <item>
-      <title>ロスコスモスがバイコヌール宇宙基地31番射点の修復完了を発表　3月下旬に運用再開へ</title>
-      <link>https://sorae.info/space/20260311-baikonur-site-31.html</link>
-      <description>ロシアの国営宇宙企業Roscosmos（ロスコスモス）は2026年3月3日付で、カザフスタンのバイコヌール宇宙基地で31番射点のサービスキャビン（打ち上げ前のロケット下部へアクセスするための移動式プラットフォーム）の修復… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260311-baikonur-site-31.html</guid>
-      <pubDate>Wed, 11 Mar 2026 10:24:08 +0000</pubDate>
+      <title>宇宙で輝く「10」　ハッブル宇宙望遠鏡が捉えた相互作用銀河「Arp 147」</title>
+      <link>https://sorae.info/astronomy/20260318-arp-147.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した相互作用銀河「Arp 147」。 くじら座の方向、地球から約4億3000万光年先にあります。 宇宙空間に浮かぶ2つの銀河が、まるで数字の「10」を描き出しているかのような非… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260318-arp-147.html</guid>
+      <pubDate>Wed, 18 Mar 2026 12:29:32 +0000</pubDate>
     </item>
     <item>
-      <title>人類は地球外文明の電波信号を見逃しているかもしれない　恒星活動で信号が変化する可能性</title>
-      <link>https://sorae.info/astronomy/20260310-seti-signal-bandwidth.html</link>
-      <description>地球外文明の信号や痕跡を捉える試み「SETI（地球外知的生命体探査）」は、これまで数十年にわたって行われてきましたが、いまだに明確な証拠は発見されていません。その理由については「2つの文明が同じ時期に近い場所で存在する可… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260310-seti-signal-bandwidth.html</guid>
-      <pubDate>Tue, 10 Mar 2026 12:23:00 +0000</pubDate>
+      <title>自然災害発生時の「より早く、より正しい情報の把握」を目指して。ゼンリン・JAXA・熊本県が連携、衛星データと地図データで建物被害推定の精度向上へ</title>
+      <link>https://sorabatake.jp/45218/</link>
+      <description>熊本県とJAXA、ゼンリンは「人工衛星を活用した建物被害推定プログラムに関する協力覚書」を締結しました。その概要と今後への期待を紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45218/</guid>
+      <pubDate>Wed, 18 Mar 2026 23:00:48 +0000</pubDate>
     </item>
     <item>
       <title>宇宙用半導体の「試験待ち」を解消へ！NTTらが放射線試験での地上代替評価を実証【宇宙ビジネスニュース】</title>
