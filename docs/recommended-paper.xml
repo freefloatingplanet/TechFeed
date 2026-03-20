@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Mar 2026 07:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 07:02:16 +0000</lastBuildDate>
     <item>
-      <title>サンライズ色圏赤外分光偏光計 SCIP: SUNRISE III の機器</title>
-      <link>https://arxiv.org/abs/2603.17929v1</link>
-      <description>気球搭載型太陽観測所「サンライズ」には、口径1メートルの光学望遠鏡が搭載されており、高度33km以上から紫外線、可視光、赤外線波長域で遮るもののない観測を途切れることなく行える独自のプラットフォームを提供しています。2024年に実施された改良型サンライズ観測所の3回目の飛行（現在はサンライズIIIと呼ばれています）では、770nmと850nm付近の近赤外線波長域を観測するための新しい分光偏光計SCIPが開発されました。これらの波長域には、Ca II赤外線三重線のうち2本、K I D1線とD2線、および複数のFe I線など、太陽磁場や光球・彩層における速度に敏感な多くのスペクトル線が含まれています。偏光測定は、変調器として回転波長板を使用し、カメラの前に偏光ビームスプリッターを配置して行われます。空間分解能とスペクトル分解能はそれぞれ 0.21秒角と 2x10^5 であり、10 秒の積分時間内に連続光強度の 0.03% (1σ) の偏光感度が達成されます。微弱な偏光信号を高精度で検出するために、光機械システム、偏光光学系と変調、制御電子機器、および搭載データ処理を慎重に設計しました。Su (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.17929v1</guid>
-      <pubDate>Wed, 18 Mar 2026 17:04:44 +0000</pubDate>
+      <title>確率的勾配法の最終反復収束性の再検討</title>
+      <link>https://arxiv.org/abs/2312.08531v4</link>
+      <description>ここ数年、確率的勾配降下法（SGD）アルゴリズムの最終反復における収束は、実用上は優れた性能を示すものの、理論的な理解が不足していることから、人々の関心を集めています。リプシッツ凸関数については、様々な研究で、最終反復における最適な高確率収束率が $O(\log(1/δ)\log T/\sqrt{T})$ または $O(\sqrt{\log(1/δ)/T})$ であることが確立されています。ここで、T は時間範囲、δ は失敗確率です。しかし、これらの境界を証明するために、既存の研究はすべてコンパクト領域に限定されているか、ほぼ確実に有界なノイズを必要としています。SGD の最終反復が、これらの 2 つの制約的な仮定なしに、依然として最適な収束率を保証できるかどうかを問うのは自然なことです。この重要な問題に加えて、まだ多くの理論的な問題が未解決のまま残っています。例えば、非平滑問題に対するSGDの最終反復収束と比較すると、平滑最適化に関する結果はまだほとんど開発されていません。さらに、既存の結果はすべて非複合目的関数と標準ユークリッドノルムに限定されています。最終反復収束がより広い複合最 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2312.08531v4</guid>
+      <pubDate>Wed, 13 Dec 2023 21:41:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

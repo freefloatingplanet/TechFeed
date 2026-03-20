@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Mar 2026 07:04:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 07:02:21 +0000</lastBuildDate>
     <item>
-      <title>QCon London 2026：DVDからグローバルストリーミングへ ― Netflixのコマースアーキテクチャは実際にどのように進化してきたのか</title>
-      <link>https://www.infoq.com/news/2026/03/netflix-dvds-to-global-streaming/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Netflixのダイナミックな主任エンジニア、カシア・トラプソ氏は、DVDレンタルサービスから世界的なストリーミング大手へと進化を遂げた同社のコマースアーキテクチャを巧みに操る。彼女が提唱する課金システムへの実践的な適応に関する洞察は、俊敏性、ローカライゼーション、そして現代の決済環境の複雑さについて、非常に貴重な教訓を与えてくれる。ダニエル・カーティス著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/netflix-dvds-to-global-streaming/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 17 Mar 2026 16:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>記事：メモリ安全性を超えて：Rustの特長 ― 自律型ロボットから学ぶ教訓</title>
-      <link>https://www.infoq.com/articles/practical-robustness-going-beyond-memory-safety-rust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>この記事では、自律移動ロボット群を制御するシステムという、実際のRustプロジェクトを通して、この疑問を探ります。Rustのメモリ安全性は強力な基盤ですが、その真の力は型システムと所有権ルールにあります。このセッションでは、メモリ安全性にとどまらず、振る舞いやプロトコルを型に直接エンコードする方法を探ります。執筆：Andy Brinkmeyer (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/practical-robustness-going-beyond-memory-safety-rust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 18 Mar 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>イランでの戦争により複数のAWSデータセンターが被害を受け、マルチAZ構成の前提が揺らぐ</title>
-      <link>https://www.infoq.com/news/2026/03/aws-multiaz-conflict-outage/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>今月初め、イランのドローン攻撃により、アラブ首長国連邦とバーレーンにある3つのAWSデータセンターが被害を受け、複数のサービスに障害が発生しました。同じAWSリージョン内の複数の施設に影響を与えたこの事件は、地政学的紛争がグローバルなクラウドインフラストラクチャとマルチAZ展開に直接どのような影響を与えるかについて、コミュニティ内で議論を巻き起こしました。レナート・ロシオ (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/aws-multiaz-conflict-outage/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 18 Mar 2026 08:17:00 +0000</pubDate>
+      <title>QCon London 2026：大規模テレメトリの扱い方、セルフホスト型オブザーバビリティのガイド</title>
+      <link>https://www.infoq.com/news/2026/03/self-hosted-observability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>QCon London 2026で、コリン・ダウチ氏は、セルフホスト型モニタリングスタックの構築と運用について議論し、現在のツール環境を概観し、ログ、メトリクス、トレースを個別の要素として扱うのではなく、一貫性のあるオブザーバビリティ設定を構築する方法について説明しました。レナート・ロシオ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/self-hosted-observability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 19 Mar 2026 09:17:00 +0000</pubDate>
     </item>
     <item>
       <title>OktaからLaravelアプリにユーザーを同期する方法</title>
@@ -42,6 +28,20 @@
       <description>JSON Web Key Setsに関する完全なリファレンス：構造、アルゴリズム、エンドポイント、およびキーローテーション。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/developers-guide-jwks</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>よくあるCORSエラーとその解決方法</title>
+      <link>https://workos.com/blog/common-cors-errors-and-how-to-fix-them</link>
+      <description>クロスオリジンリクエストを扱う開発者のための実践ガイド。あらゆる厄介なコンソールメッセージと、それらを解決するためのヘッダーを網羅。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/common-cors-errors-and-how-to-fix-them</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI支援型ソフトウェア開発において、人間はどのような役割を担うのか？</title>
+      <link>https://www.infoq.com/news/2026/03/mf-aiassisted-dev/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>マーティン・ファウラーのブログに掲載されたキーフ・モリスの記事は、AI支援型ソフトウェアエンジニアリングにおける人間の役割を検証し、開発者が完全に「ループから抜け出す」可能性は低いと主張している。むしろ、チームは「ループ内」で作業し、AIエージェントを導くためのテスト、仕様、フィードバックメカニズムを設計する可能性があり、業界の議論は、そのようなシステムをどのように検証し、管理すべきかに焦点を当てている。マット・フォスター著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/mf-aiassisted-dev/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 19 Mar 2026 07:32:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
@@ -67,11 +67,11 @@
       <pubDate>Wed, 18 Mar 2026 13:04:00 +0000</pubDate>
     </item>
     <item>
-      <title>「不正操作不可能」なランキングは、ランキング対象企業からの資金提供によって運営されている。</title>
-      <link>https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/</link>
-      <description>人工知能モデルは急速に増加しており、競争は激化しています。多くの企業が参入する中で、どれが最高になるのか、そして誰がそれを決定するのでしょうか？ 以前はLM Arenaと呼ばれていたArenaは、最先端のLLM（法学修士）の事実上の公開リーダーボードとして台頭し、資金調達、ローンチ、PRサイクルに影響を与えています。わずか7ヶ月で、このスタートアップはUCバークレーの博士課程研究から[…] (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/</guid>
-      <pubDate>Wed, 18 Mar 2026 16:30:00 +0000</pubDate>
+      <title>.NET 11 Preview 2 では、パフォーマンスの向上、マッピングの改善、およびネイティブ OpenTelemetry サポートが提供されます。</title>
+      <link>https://www.infoq.com/news/2026/03/dotnet-11-preview-2/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Microsoftは、.NET 11の2番目のプレビュー版をリリースしました。このプレビュー版では、ASP.NET Core向けのネイティブOpenTelemetryトレース、.NET MAUIにおけるMapコントロールの大幅な改善とバインディングの高速化、Blazor TempDataのサポート、新しいWeb Workerプロジェクトテンプレート、そしてランタイム、SDK、ライブラリ全体にわたるパフォーマンスの向上などが実現されています。Almir Vuk著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/dotnet-11-preview-2/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 19 Mar 2026 09:37:00 +0000</pubDate>
     </item>
     <item>
       <title>Java 26は、言語の革新、ライブラリの改善、パフォーマンス、セキュリティの向上を実現します。</title>

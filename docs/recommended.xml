@@ -7,26 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 07:03:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 07:02:10 +0000</lastBuildDate>
     <item>
-      <title>「コク」と「キレ」の両方を味わえるコップ、東大が開発　黒ビール→ジンジャーエールに変わっていくとどう感じる？</title>
-      <link>https://www.itmedia.co.jp/news/articles/2603/19/news042.html</link>
-      <description>2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2603/19/news042.html</guid>
-      <pubDate>Thu, 19 Mar 2026 00:08:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Antigravityは(バックエンドでは)使い物にならない</title>
-      <link>https://zenn.dev/beadiest_star64/articles/7e2de21fe1cfde</link>
-      <description>1. 概要
-タイトルの通りですが、Google Antigravityを2週間使い倒して、Antigravityの得意な分野と苦手な分野、個人的なAIコーディングの将来予想をしていきます。
+      <title>Claude Codeをフル活用！本気で使える厳選Skills/Plugin 8選</title>
+      <link>https://zenn.dev/itsuki_y/articles/0eb054f14523d7</link>
+      <description>Claude Codeを使い始めてから8ヶ月。これまで数十個のSkillsやPluginをインストールしては試行錯誤（いじり倒す）してきました。
+最初は「何これ、全部すげえ！」と新鮮でしたが、結局プラグインを入れすぎると互いに干渉し合ったり、使わなくなって埃をかぶったり（吃灰）するものが多いことに気づきました。
+最終的に生き残り、私の日常的な開発ワークフローを劇的に変えてくれた「神ツール」は以下の8つだけです。 今日は前置きなしで、私のとっておきをインストールコマンド付きで直接紹介します。そのままコピペして使ってください。
 
- 2. Antigravityはフロントエンド特化
-「VSCodeをベースにブラウザを統合した」という事で大体察すると思いますが、AntigravityはTypeScriptとReactでフロントエンドで開発するには無類の強さを誇ります。
-少なくともToDoアプリを作る程度ならば。
-統合されたブラウザでDOMを操作して確認を行うため、UI崩れが『分かる』ようになったのは、AIコーディングにおいて... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/beadiest_star64/articles/7e2de21fe1cfde</guid>
-      <pubDate>Tue, 17 Mar 2026 17:25:18 +0000</pubDate>
+ 1. Superpowers：万能の王様
+これはソフトウェ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/itsuki_y/articles/0eb054f14523d7</guid>
+      <pubDate>Wed, 18 Mar 2026 06:39:42 +0000</pubDate>
     </item>
     <item>
       <title>Vite+ の異常なタスクランナー: vite-task は如何にしてキャッシュの手動依存管理をなくしたか</title>
@@ -40,14 +32,30 @@
       <pubDate>Tue, 17 Mar 2026 09:05:46 +0000</pubDate>
     </item>
     <item>
-      <title>システム設計における妥協案の作り方: 理想像の STEP1 として妥協案を設計する</title>
-      <link>https://zenn.dev/knowledgework/articles/c3f2f5986a24a6</link>
-      <description>mayah です。株式会社ナレッジワークでは創業時より CTO をしており、プロダクト全体の技術方針やアーキテクチャを定める役割をしています。
-この記事は、KNOWLEDGE WORK Blog Sprint 2026 Spring の 12 本目の記事です。
-本日はシステム設計における妥協案の作り方について話してみたいと思います。
-システム設計を行うに当たって、妥協はつきものです。最初から理想的な設計のもとに実装ができればいいのですが、締め切りまでの時間がなくて少ない工数で作れる方法を選ばなければならなかったり、工数が多いとそもそも ROI が合わなかったり、様々な理由で妥協した設計を... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/c3f2f5986a24a6</guid>
-      <pubDate>Tue, 17 Mar 2026 03:59:31 +0000</pubDate>
+      <title>LLM人格を14日運用して見えた設計パターン — 固定プロンプトの先へ</title>
+      <link>https://zenn.dev/nabaaatee/articles/b4e90b7ef39026</link>
+      <description>はじめに — 3つの仮説
+LLM にキャラクター設定を与えるのは簡単だ。system prompt に「明るくて好奇心旺盛な性格」と書けばいい。しかし長期運用すると、同じ口調で同じことを言い続けがちだ。
+これは 一貫性 の問題と 変容の不在 という二つの別の問題が混在している。人間の人格は、核心的な価値観を保ちながら経験を通じて少しずつ変わっていく。この「変わらない部分」と「変わる部分」の共存を、LLM ベースのエージェントにどう実装するか。
+本稿は、筆者が開発・運用している自律エージェント INANNA の 14 日間・1,226 件の経験データ をもとに、以下の 3 つの仮説を観... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nabaaatee/articles/b4e90b7ef39026</guid>
+      <pubDate>Wed, 18 Mar 2026 02:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLMをもっと賢くする：ナレッジグラフ実践入門</title>
+      <link>https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide</link>
+      <description>「ChatGPTは賢いのに、なぜ業務では使いにくいのか」。その答えがナレッジグラフにあります。本書は、RAGだけでは解けない問題の正体を明らかにし、ナレッジグラフがLLMに何をもたらすかを、入門から世界の活用事例、実装アーキテクチャ、AI Agentとの統合まで一気通貫で解説します。エンタープライズ規模でのKG実装は難しい。だからこそ、何が難しいのかを正確に理解することが第一歩です。 (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide</guid>
+      <pubDate>Thu, 19 Mar 2026 02:14:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Radix UIを活かすCompound Components設計</title>
+      <link>https://zenn.dev/microcms/articles/3d25e5b24574a1</link>
+      <description>はじめに
+React コンポーネントの設計は、規模が大きくなるにつれて難しくなっていきます。boolean props が増えていったり、renderHeader のような render props が乱立したり、コンポーネントの中身が条件分岐だらけになったり。
+こうした問題へのアプローチとして Composition Patterns という考え方があります。この記事では Vercel が公開している vercel-composition-patterns を参照しつつ、その中でも Compound Components パターンに焦点を当てて、実際のコード例とともに紹介させていた... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/microcms/articles/3d25e5b24574a1</guid>
+      <pubDate>Wed, 18 Mar 2026 06:57:58 +0000</pubDate>
     </item>
     <item>
       <title>Reactをやめて MoonBit で50ページの業務システムを作った</title>
@@ -62,19 +70,6 @@ React、Vue、Svelte。フロントエンドのフレームワーク選定で普
 正直に言うと、最初はR... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/lehti/articles/c4b813a9192701</guid>
       <pubDate>Wed, 18 Mar 2026 22:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>43サイトの専用パーサーを実装して分かった、日本のWebサイトの「闇」と「光」</title>
-      <link>https://zenn.dev/bitsap/articles/e3701908b475f1</link>
-      <description>はじめに
-Web Reader APIという、URLを投げるとAI要約付きのMarkdownを返すAPIを開発しています。
-https://rapidapi.com/bitsap/api/webreader-ai
-Readability（Firefoxのリーダーモードに使われている汎用抽出エンジン）だけでは日本のサイトに対応しきれず、43サイトの専用パーサーを実装することになりました。
-この記事では、各サイトのHTML構造と格闘する中で遭遇した技術的なハマりどころ、設計判断、そして「なぜ汎用パーサーでは日本のサイトがうまく抽出できないのか」を赤裸々に書きます。
-
- なぜ汎用パーサーで... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/bitsap/articles/e3701908b475f1</guid>
-      <pubDate>Tue, 17 Mar 2026 07:55:29 +0000</pubDate>
     </item>
     <item>
       <title>「AIっぽい」の正体は文体じゃない — 全業務をAIエージェントで回して気づいたこと</title>
@@ -101,22 +96,6 @@ Readability（Firefoxのリーダーモードに使われている汎用抽出�
       <pubDate>Wed, 18 Mar 2026 00:00:13 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeでのふるまいから隠れたSkillを見つける</title>
-      <link>https://zenn.dev/chigichan24/articles/eed4a60d102997</link>
-      <description>はじめに
-!
-前置きとして、この記事では Claude Code を LLM Agent の一例として扱います。
-ただし、ここで述べる考え方自体は Claude Code 固有のものではなく、他の Agent 的な開発体験にも応用できると思っています。
-
-LLM Agent を日常的に使っていると、だんだん「毎回似たような作業をしているな」と感じることがあります。そしてその先で、多くの人が一度はこう考えるはずです。
-
-自分が繰り返している作業パターンを見つけて、Skill として再利用できないだろうか？
-
-ただ、実際にやろうとすると意外と難しいです。なぜなら、Skill を作る前に、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/chigichan24/articles/eed4a60d102997</guid>
-      <pubDate>Tue, 17 Mar 2026 19:23:43 +0000</pubDate>
-    </item>
-    <item>
       <title>AIコードレビューを「単一責任の原則」で育てた話</title>
       <link>https://zenn.dev/globis/articles/d0c73d2b176ba5</link>
       <description>はじめに
@@ -126,6 +105,17 @@ AIコードレビューを導入したものの、「的外れな指摘が多い
 この記事では、私たちのチームがその課題を「単一責任の原則をAIにも適用する」という発想で乗り越えてきた実践例を紹介します。観点ごとにエージェントを分割し、過去の失敗パターンをナレッジとして教え込むことで、AIレビュワーを「チームの一... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/globis/articles/d0c73d2b176ba5</guid>
       <pubDate>Tue, 17 Mar 2026 00:42:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>新機能を追加するために3,000行削除した話 — AIが書いたコードの技術負債とどう向き合うか</title>
+      <link>https://zenn.dev/shigerufukada/articles/ccf7cb56eb7b46</link>
+      <description>はじめに — AI が書いたコードの「その先」
+AI コーディングツールの普及で、非エンジニアでもシステムを構築できる時代になりました。それ自体は素晴らしいことで、実際にプロダクトとしてユーザーに使われているシステムが AI の力で生まれています。
+しかし、その先に待っているのは「動いているけど設計がないコードベース」です。
+場当たり的な指示で生成されたコードは、個々のファイルとしては正しく動きます。しかし全体を俯瞰すると、同じデータが複数の経路で変換され、同じ状態が異なる場所で管理され、型定義が散在している。新機能を追加しようとすると、どこに手を入れればいいのか分からない。
+これは... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shigerufukada/articles/ccf7cb56eb7b46</guid>
+      <pubDate>Thu, 19 Mar 2026 02:39:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
