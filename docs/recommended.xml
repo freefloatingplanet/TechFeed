@@ -7,18 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 07:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 06:52:06 +0000</lastBuildDate>
     <item>
-      <title>Claude Codeをフル活用！本気で使える厳選Skills/Plugin 8選</title>
-      <link>https://zenn.dev/itsuki_y/articles/0eb054f14523d7</link>
-      <description>Claude Codeを使い始めてから8ヶ月。これまで数十個のSkillsやPluginをインストールしては試行錯誤（いじり倒す）してきました。
-最初は「何これ、全部すげえ！」と新鮮でしたが、結局プラグインを入れすぎると互いに干渉し合ったり、使わなくなって埃をかぶったり（吃灰）するものが多いことに気づきました。
-最終的に生き残り、私の日常的な開発ワークフローを劇的に変えてくれた「神ツール」は以下の8つだけです。 今日は前置きなしで、私のとっておきをインストールコマンド付きで直接紹介します。そのままコピペして使ってください。
-
- 1. Superpowers：万能の王様
-これはソフトウェ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/itsuki_y/articles/0eb054f14523d7</guid>
-      <pubDate>Wed, 18 Mar 2026 06:39:42 +0000</pubDate>
+      <title>「え、たった2か月で!?」 三菱重工の無人機AI開発が“爆速”だったワケ 自衛隊も関係大アリな米企業とタッグ | 乗りものニュース</title>
+      <link>https://trafficnews.jp/post/646676</link>
+      <description>三菱重工業が、無人機に搭載するAIの開発から飛行実証までを、わずか8週間で完了させました。この驚異的なスピード開発の裏には、あるアメリカ企業との連携があったようです。 開発開始からわずか8週間で空へ 三菱重工業は、無人機に搭載するAI「ミッション・オートノミー」の開発で、飛行実証に成功したと発表しました... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://trafficnews.jp/post/646676</guid>
+      <pubDate>Sat, 21 Mar 2026 02:25:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI生成文から「AIくささ」を取り除く技術と、Claude Codeスキルに組み込むまでの話</title>
+      <link>https://zenn.dev/m0370/articles/205c9340a418c3</link>
+      <description>AIが書いた文章は、なぜバレるのか ChatGPTやClaudeに文章を書かせると、どこか「それっぽい」仕上がりになる。丁寧で、整っていて、読みやすい。でも何か引っかかる。その違和感の正体を、Wikipediaのコミュニティが体系的にまとめていることを最近知りました。 「Signs of AI writing」というページがそれです。WikiPr... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/m0370/articles/205c9340a418c3</guid>
+      <pubDate>Fri, 20 Mar 2026 11:32:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Flutter】デバッグ画面のソースコード、ちゃんとリリースビルドから除外していますか？</title>
+      <link>https://zenn.dev/chooyan/articles/ce5eafe02439c5</link>
+      <description>Flutter に限らずアプリ開発、というよりフロントエンドの開発全般で、「デバッグ画面」を用意することは少なくないと思います。
+Feature flag を強制的に切り替えて未公開の機能を動作確認したり、特定のデータを強制的に取得して UI で確認したり、キャッシュの内容をいじったり、内部のログを UI から確認したりなど、デバッグ画面は開発や検証を効率的に進める上で便利なツールです。
+ただし、そのようなデバッグ画面やデバッグ機能のソースコードは、内容によっては悪意のある第三者に解析されることで重大な被害のきっかけになり得ます。そのため、少なくともリリースビルドに含める必要がないものに... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chooyan/articles/ce5eafe02439c5</guid>
+      <pubDate>Thu, 19 Mar 2026 08:27:37 +0000</pubDate>
     </item>
     <item>
       <title>Vite+ の異常なタスクランナー: vite-task は如何にしてキャッシュの手動依存管理をなくしたか</title>
@@ -32,16 +43,6 @@
       <pubDate>Tue, 17 Mar 2026 09:05:46 +0000</pubDate>
     </item>
     <item>
-      <title>LLM人格を14日運用して見えた設計パターン — 固定プロンプトの先へ</title>
-      <link>https://zenn.dev/nabaaatee/articles/b4e90b7ef39026</link>
-      <description>はじめに — 3つの仮説
-LLM にキャラクター設定を与えるのは簡単だ。system prompt に「明るくて好奇心旺盛な性格」と書けばいい。しかし長期運用すると、同じ口調で同じことを言い続けがちだ。
-これは 一貫性 の問題と 変容の不在 という二つの別の問題が混在している。人間の人格は、核心的な価値観を保ちながら経験を通じて少しずつ変わっていく。この「変わらない部分」と「変わる部分」の共存を、LLM ベースのエージェントにどう実装するか。
-本稿は、筆者が開発・運用している自律エージェント INANNA の 14 日間・1,226 件の経験データ をもとに、以下の 3 つの仮説を観... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nabaaatee/articles/b4e90b7ef39026</guid>
-      <pubDate>Wed, 18 Mar 2026 02:45:05 +0000</pubDate>
-    </item>
-    <item>
       <title>LLMをもっと賢くする：ナレッジグラフ実践入門</title>
       <link>https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide</link>
       <description>「ChatGPTは賢いのに、なぜ業務では使いにくいのか」。その答えがナレッジグラフにあります。本書は、RAGだけでは解けない問題の正体を明らかにし、ナレッジグラフがLLMに何をもたらすかを、入門から世界の活用事例、実装アーキテクチャ、AI Agentとの統合まで一気通貫で解説します。エンタープライズ規模でのKG実装は難しい。だからこそ、何が難しいのかを正確に理解することが第一歩です。 (source: Zennのトレンド)</description>
@@ -49,13 +50,11 @@ LLM にキャラクター設定を与えるのは簡単だ。system prompt に�
       <pubDate>Thu, 19 Mar 2026 02:14:59 +0000</pubDate>
     </item>
     <item>
-      <title>Radix UIを活かすCompound Components設計</title>
-      <link>https://zenn.dev/microcms/articles/3d25e5b24574a1</link>
-      <description>はじめに
-React コンポーネントの設計は、規模が大きくなるにつれて難しくなっていきます。boolean props が増えていったり、renderHeader のような render props が乱立したり、コンポーネントの中身が条件分岐だらけになったり。
-こうした問題へのアプローチとして Composition Patterns という考え方があります。この記事では Vercel が公開している vercel-composition-patterns を参照しつつ、その中でも Compound Components パターンに焦点を当てて、実際のコード例とともに紹介させていた... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/microcms/articles/3d25e5b24574a1</guid>
-      <pubDate>Wed, 18 Mar 2026 06:57:58 +0000</pubDate>
+      <title>新人に「AI使用禁止令」は是か非か？「仕事の8割はAIに」という活用派 言語脳科学の権威は警鐘「ものを考える人間に一番大事なものを手放している」（ABEMA TIMES） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/9b6f170440c87a61475c63e8573373f4781717e3</link>
+      <description>ビジネスの現場で生成AIの活用が急速に進む中、あえて「新人には使わせない」という決断を下す企業が現れ話題となっている。ある調査によれば、AIは情報収集や分析、会議の議事録作成、問い合わせ対応など、多岐にわたる分野で効率化に貢献している。エンジニアの一人は「AIがなかった時に1時間、場合によっては2時間と... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9b6f170440c87a61475c63e8573373f4781717e3</guid>
+      <pubDate>Sat, 21 Mar 2026 03:46:56 +0000</pubDate>
     </item>
     <item>
       <title>Reactをやめて MoonBit で50ページの業務システムを作った</title>
@@ -72,18 +71,17 @@ React、Vue、Svelte。フロントエンドのフレームワーク選定で普
       <pubDate>Wed, 18 Mar 2026 22:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>「AIっぽい」の正体は文体じゃない — 全業務をAIエージェントで回して気づいたこと</title>
-      <link>https://zenn.dev/omori432/articles/ai-likeness-not-about-writing-style</link>
-      <description>RIOです。AnotherBallでモバイルエンジニアをしていて、Avvyというアプリを開発しています。（@rioX432）
-日々の業務では、Claude Codeをメインのパートナーとして使っています。開発はもちろん、テックブログの執筆、調査レポートの作成、コードレビュー、デザインまで。できることは片っ端からAIに任せて、業務全体をAIエージェントで回すことを目指しています。
-その結果、日常的にもらうようになったフィードバックがあります。
+      <title>初めてのダッシュボードUI設計で学んだこと</title>
+      <link>https://zenn.dev/medirom_tech/articles/aab342c4e2ca66</link>
+      <description>はじめに
+私はフロントエンドエンジニアとして勤務していますが、UI作成にも興味があり、デザインから実装まで担当する機会が増えてきました。
+インターン時代にバナーやLPのデザインを少し学んだことがあり、PinterestでUIを眺めるのも好きです。ただ、ダッシュボードのUIデザインは今回が初めてで、どこから手をつければいいか全くわからない状態からスタートしました。
+この記事では、参考になった資料や学び、詰まったポイントとどう乗り越えたかを書いていきます。同じような立場の方の参考になれば幸いです。
 
-「AIっぽくて嫌」
-「AIっぽくて中身がない」
-「AIのレビューをそのまま出力されると困る。文脈を理解した上での指摘が欲しい」
-「AI生成されたレ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/omori432/articles/ai-likeness-not-about-writing-style</guid>
-      <pubDate>Tue, 17 Mar 2026 10:41:31 +0000</pubDate>
+ まず要件書の機能を全部並べた
+仕様書を受け取り、まず内容を読んで、追加したい機能をその... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/medirom_tech/articles/aab342c4e2ca66</guid>
+      <pubDate>Wed, 18 Mar 2026 09:44:43 +0000</pubDate>
     </item>
     <item>
       <title>手動 ER 図メンテから卒業する── GitHub Actions × DBML 自動生成の実践</title>
@@ -94,17 +92,6 @@ React、Vue、Svelte。フロントエンドのフレームワーク選定で普
 この記事では、SQLAlchemy モデルを Single Source of Truth（SSoT）として、GitHub Actions で DBML を自動生成・コミットする仕組みを構築しました。やってみたら結構うまくハマったので、その方法を紹介します。開発者はコードだけ修正すれ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/finatext/articles/auto-generate-dbml-from-orm</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIコードレビューを「単一責任の原則」で育てた話</title>
-      <link>https://zenn.dev/globis/articles/d0c73d2b176ba5</link>
-      <description>はじめに
-こんにちは！グロービスのDevEx（Developer Experience）チームに所属するemi084です。
-AIコードレビューを導入したものの、「的外れな指摘が多い」「レビュー品質が安定しない」と感じることはありませんか？
-私たちも最初は的外れな指摘が何件も飛んできて、チームメンバーがAIレビューを無視し始める問題が発生してしまいました。
-この記事では、私たちのチームがその課題を「単一責任の原則をAIにも適用する」という発想で乗り越えてきた実践例を紹介します。観点ごとにエージェントを分割し、過去の失敗パターンをナレッジとして教え込むことで、AIレビュワーを「チームの一... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/globis/articles/d0c73d2b176ba5</guid>
-      <pubDate>Tue, 17 Mar 2026 00:42:42 +0000</pubDate>
     </item>
     <item>
       <title>新機能を追加するために3,000行削除した話 — AIが書いたコードの技術負債とどう向き合うか</title>

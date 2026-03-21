@@ -7,20 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Mar 2026 07:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 06:52:21 +0000</lastBuildDate>
+    <item>
+      <title>QCon London 2026：Spritely：インターネットの未来のためのインフラストラクチャ</title>
+      <link>https://www.infoq.com/news/2026/03/spritely-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Spritely InstituteのエグゼクティブディレクターであるChristine Lemmer-Webber氏と、Spritely InstituteのCTOであるDavid Thompson氏は、QCon London 2026で「Spritely：インターネットの未来のためのインフラストラクチャ」と題したプレゼンテーションを行い、ユーザーが制御権を持つ新しい基盤技術を用いてインターネットを分散化するためにSpritelyがどのように機能するかについて議論した。Michael Redlichによる記事 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/spritely-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 19 Mar 2026 15:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WorkOSがシリーズCラウンドで1億ドルを調達、企業価値は20億ドルに達する</title>
+      <link>https://workos.com/blog/series-c</link>
+      <description>WorkOSはシリーズC資金調達ラウンドで1億ドルを調達し、企業価値は20億ドルとなった。今回のラウンドはMeritechとSapphireが主導し、Audacious、Craft、Abstract、Greenoaksなどが参加した。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/series-c</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>QCon London 2026：大規模テレメトリの扱い方、セルフホスト型オブザーバビリティのガイド</title>
       <link>https://www.infoq.com/news/2026/03/self-hosted-observability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>QCon London 2026で、コリン・ダウチ氏は、セルフホスト型モニタリングスタックの構築と運用について議論し、現在のツール環境を概観し、ログ、メトリクス、トレースを個別の要素として扱うのではなく、一貫性のあるオブザーバビリティ設定を構築する方法について説明しました。レナート・ロシオ著 (source: InfoQ)</description>
+      <description>QCon London 2026で、コリン・ダウチ氏は、セルフホスト型モニタリングスタックの構築と運用について議論し、現在のツール環境を概観し、ログ、メトリクス、トレースを個別の要素として扱うのではなく、一貫性のあるオブザーバビリティ設定を構築する方法を説明した。レナート・ロシオ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/self-hosted-observability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 19 Mar 2026 09:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OktaからLaravelアプリにユーザーを同期する方法</title>
-      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
-      <description>SCIM、Okta、WorkOSを使用して、わずか数行のコードでLaravelアプリに自動ユーザープロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>JWKS開発者向けガイド</title>
@@ -30,18 +37,18 @@
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>OktaからLaravelアプリにユーザーを同期する方法</title>
+      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
+      <description>SCIM、Okta、WorkOSを使用して、わずか数行のコードでLaravelアプリに自動ユーザープロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>よくあるCORSエラーとその解決方法</title>
       <link>https://workos.com/blog/common-cors-errors-and-how-to-fix-them</link>
       <description>クロスオリジンリクエストを扱う開発者のための実践ガイド。あらゆる厄介なコンソールメッセージと、それらを解決するためのヘッダーを網羅。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/common-cors-errors-and-how-to-fix-them</guid>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI支援型ソフトウェア開発において、人間はどのような役割を担うのか？</title>
-      <link>https://www.infoq.com/news/2026/03/mf-aiassisted-dev/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>マーティン・ファウラーのブログに掲載されたキーフ・モリスの記事は、AI支援型ソフトウェアエンジニアリングにおける人間の役割を検証し、開発者が完全に「ループから抜け出す」可能性は低いと主張している。むしろ、チームは「ループ内」で作業し、AIエージェントを導くためのテスト、仕様、フィードバックメカニズムを設計する可能性があり、業界の議論は、そのようなシステムをどのように検証し、管理すべきかに焦点を当てている。マット・フォスター著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/mf-aiassisted-dev/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 19 Mar 2026 07:32:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
@@ -51,20 +58,11 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>QCon London 2026: Use&lt;’lifetimes&gt; For&lt;’what&gt;</title>
-      <link>https://www.infoq.com/news/2026/03/rust-lifetimes-loans-polonius/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>QCon Londonで、TrueLayerのエンジニアであるEthan Brierley氏は、Poloniusの借用チェッカーのメンタルモデルを用いてRustのライフタイムの概念を再構築しました。ライフタイムをコードの領域ではなく、借用されたコードの集合として捉えるというものです。彼は借用チェッカーの基本から、バリアンスとサブタイピングを経て、serdeを用いたより高次のライフタイムへと展開し、借用という視点によって、これまで分かりにくかったライフタイムのエラーがいかに直感的に理解できるかを示しました。執筆：Steef-Jan Wiggers (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/rust-lifetimes-loans-polonius/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 18 Mar 2026 10:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>QCon London 2026：カナダ歳入庁（CRA）の執行が迫る中、SBOM（中小企業向け販売促進ツール）はベストプラクティスから法的義務へと移行する</title>
-      <link>https://www.infoq.com/news/2026/03/sbom-viktor-petersson/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>QCon London 2026での講演で、ヴィクトル・ペテルソン氏は、米国と欧州における法改正が控えているため、ソフトウェア開発チームはSBOM（ソフトウェア部品表）の導入に時間がなくなりつつあると主張しました。
-
-彼は現在の規制状況を概説し、高品質なSBOMを作成するための実践的な方法論、そして作成された成果物を配布するための新たな標準規格について語りました。（マット・サンダース記） (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/sbom-viktor-petersson/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 18 Mar 2026 13:04:00 +0000</pubDate>
+      <title>Nvidia GTCで何が起こったのか：NemoClaw、ロボットのオラフ、そして1兆ドルの賭け</title>
+      <link>https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/</link>
+      <description>今週開催されたNvidiaのGTCカンファレンスで、CEOのジェンセン・フアン氏はトレードマークのレザージャケット姿で登壇し、2時間半に及ぶ基調講演を行った。講演では、2027年までにAIチップの売上高が1兆ドルに達すると予測し、すべての企業に「OpenClaw戦略」が必要だと宣言。最後は、マイクを切らざるを得なかったオラフのロボットが登場して締めくくった。そのメッセージは明白だった。Nvidiaは[…] (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/</guid>
+      <pubDate>Fri, 20 Mar 2026 20:02:35 +0000</pubDate>
     </item>
     <item>
       <title>.NET 11 Preview 2 では、パフォーマンスの向上、マッピングの改善、およびネイティブ OpenTelemetry サポートが提供されます。</title>
@@ -74,11 +72,11 @@
       <pubDate>Thu, 19 Mar 2026 09:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>Java 26は、言語の革新、ライブラリの改善、パフォーマンス、セキュリティの向上を実現します。</title>
-      <link>https://www.infoq.com/news/2026/03/java26-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>OracleはJavaプログラミング言語および仮想マシンのバージョン26をリリースしました。JDK 25以来初の非LTSリリースとなる今回の最終機能セットには10個のJEPが含まれており、そのうち5つは現在もプレビューおよびインキュベーター段階にあります。今回のリリースは、Javaライブラリの改善、言語の革新、パフォーマンス、およびセキュリティに重点を置いています。執筆：Michael Redlich (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/java26-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 18 Mar 2026 11:00:00 +0000</pubDate>
+      <title>JavaScriptの現状2025：調査結果から、TypeScriptが優位性を固める成熟したエコシステムが明らかになった</title>
+      <link>https://www.infoq.com/news/2026/03/state-of-js-survey-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>2025年のJavaScriptの現状調査によると、TypeScriptの優位性が確固たるものとなり、開発者の40%がTypeScriptのみを使用しているなど、エコシステムが成熟しつつあることが明らかになった。ビルドツールではViteが98%の満足度で急上昇し、Reactは賛否両論あるものの、依然としてトップフレームワークの地位を維持している。AI支援開発は著しく成長し、Node.jsは依然として優位性を保っている。全体として、開発者の満足度は5点満点中3.8点で安定している。執筆：ダニエル・カーティス (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/state-of-js-survey-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 20 Mar 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

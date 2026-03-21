@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 07:02:14 +0000</lastBuildDate>
-    <item>
-      <title>予期せぬ場所で起きた中性子星どうしの衝突　NASA望遠鏡群が捉えたガンマ線バーストの起源</title>
-      <link>https://sorae.info/astronomy/20260313-grb-230906a.html</link>
-      <description>ペンシルベニア州立大学のSimone Dichiaraさんを筆頭とする研究チームは、ガンマ線バースト（GRB）「GRB 230906A」に関する研究成果を発表しました。複数の宇宙望遠鏡による連携観測が行われたこのガンマ線… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260313-grb-230906a.html</guid>
-      <pubDate>Fri, 13 Mar 2026 01:59:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Mar 2026 06:52:12 +0000</lastBuildDate>
     <item>
       <title>死にゆく星がまとった美しきベール　しし座の惑星状星雲「EGB 6」</title>
       <link>https://sorae.info/astronomy/20260314-egb-6.html</link>
@@ -30,18 +23,18 @@
       <pubDate>Thu, 12 Mar 2026 23:11:02 +0000</pubDate>
     </item>
     <item>
-      <title>JAXAの新型補給機「HTV-X」1号機に搭載されていた超小型衛星の放出を実施</title>
-      <link>https://sorae.info/space/2026-03-12-htv-x1.html</link>
-      <description>JAXA（宇宙航空研究開発機構）は2026年3月12日、新型宇宙ステーション補給機1号機「HTV-X1」に搭載されていた超小型衛星「てんこう2（Ten-Koh2）」の放出を実施したと発表しました。 放出後に地上局で電波を… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/2026-03-12-htv-x1.html</guid>
-      <pubDate>Thu, 12 Mar 2026 12:14:32 +0000</pubDate>
-    </item>
-    <item>
       <title>非対称な渦巻腕を伸ばした銀河「NGC 2442」のクローズアップ　ハッブル宇宙望遠鏡が観測</title>
       <link>https://sorae.info/astronomy/20260316-ngc-2442.html</link>
       <description>こちらは、ハッブル宇宙望遠鏡（HST）で観測した渦巻銀河「NGC 2442」のクローズアップ。 とびうお座の方向、約5500万光年先にあります。 NGC 2442は、大きくゆがんだ非対称な2本の渦巻腕（渦状腕）を持つこと… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260316-ngc-2442.html</guid>
       <pubDate>Mon, 16 Mar 2026 12:10:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISSで2026年最初の船外活動を実施　NASA宇宙飛行士2名が新型太陽電池の増設準備作業を行う</title>
+      <link>https://sorae.info/space/20260320-iss-us-spacewalk.html</link>
+      <description>ISS（国際宇宙ステーション）では日本時間2026年3月18日から19日にかけて、2026年最初の船外活動が約7時間かけて実施されました。担当したのは、NASA（アメリカ航空宇宙局）のJessica Meir宇宙飛行士と… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260320-iss-us-spacewalk.html</guid>
+      <pubDate>Fri, 20 Mar 2026 08:48:07 +0000</pubDate>
     </item>
     <item>
       <title>ビジネスパーソンや地方自治体職員必見！ 第1回「サテライトデータビジネス検定」の受験申込は3月18日（水）まで</title>
@@ -70,6 +63,13 @@
       <description>宇宙産業の基盤、半導体開発を加速させる重要な成果です。放射線試験の予約待ちを解消することで、より多くのメーカーが宇宙開発に参入する環境の実現に貢献します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45231/</guid>
       <pubDate>Thu, 12 Mar 2026 23:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>「生まれたての惑星はふわふわ」という証拠を発見　2000万歳の4つの惑星の質量を正確に測定</title>
+      <link>https://sorae.info/astronomy/20260320-young-planet-low-density.html</link>
+      <description>「生まれたての惑星はふわふわ」であるという説があります。これは、惑星がどのように誕生・進化するかの理論モデルを基にして長年予測されていました。しかし、誕生から間もない惑星の発見数が少ない上に、詳細な観測が難しいことから、… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260320-young-planet-low-density.html</guid>
+      <pubDate>Fri, 20 Mar 2026 11:30:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
