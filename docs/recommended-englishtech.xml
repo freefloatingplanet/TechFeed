@@ -7,11 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Mar 2026 06:52:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 06:57:40 +0000</lastBuildDate>
     <item>
       <title>QCon London 2026：Spritely：インターネットの未来のためのインフラストラクチャ</title>
       <link>https://www.infoq.com/news/2026/03/spritely-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Spritely InstituteのエグゼクティブディレクターであるChristine Lemmer-Webber氏と、Spritely InstituteのCTOであるDavid Thompson氏は、QCon London 2026で「Spritely：インターネットの未来のためのインフラストラクチャ」と題したプレゼンテーションを行い、ユーザーが制御権を持つ新しい基盤技術を用いてインターネットを分散化するためにSpritelyがどのように機能するかについて議論した。Michael Redlichによる記事 (source: InfoQ)</description>
+      <description>スプライトリー・インスティテュートのエグゼクティブ・ディレクターであるクリスティン・レマー＝ウェバー氏と、同研究所のCTOであるデビッド・トンプソン氏は、QCon London 2026で「スプライトリー：インターネットの未来のためのインフラストラクチャ」と題したプレゼンテーションを行い、スプライトリーがユーザーに制御権を与える新しい基盤技術を用いてインターネットを分散化するためにどのように機能するかについて議論した。マイケル・レドリッチ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/spritely-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 19 Mar 2026 15:10:00 +0000</pubDate>
     </item>
@@ -21,13 +21,6 @@
       <description>WorkOSはシリーズC資金調達ラウンドで1億ドルを調達し、企業価値は20億ドルとなった。今回のラウンドはMeritechとSapphireが主導し、Audacious、Craft、Abstract、Greenoaksなどが参加した。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/series-c</guid>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>QCon London 2026：大規模テレメトリの扱い方、セルフホスト型オブザーバビリティのガイド</title>
-      <link>https://www.infoq.com/news/2026/03/self-hosted-observability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>QCon London 2026で、コリン・ダウチ氏は、セルフホスト型モニタリングスタックの構築と運用について議論し、現在のツール環境を概観し、ログ、メトリクス、トレースを個別の要素として扱うのではなく、一貫性のあるオブザーバビリティ設定を構築する方法を説明した。レナート・ロシオ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/self-hosted-observability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 19 Mar 2026 09:17:00 +0000</pubDate>
     </item>
     <item>
       <title>JWKS開発者向けガイド</title>
@@ -72,11 +65,18 @@
       <pubDate>Thu, 19 Mar 2026 09:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>JavaScriptの現状2025：調査結果から、TypeScriptが優位性を固める成熟したエコシステムが明らかになった</title>
+      <title>JavaScriptの現状2025：調査結果から、TypeScriptが優位性を固める成熟したエコシステムが明らかに</title>
       <link>https://www.infoq.com/news/2026/03/state-of-js-survey-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>2025年のJavaScriptの現状調査によると、TypeScriptの優位性が確固たるものとなり、開発者の40%がTypeScriptのみを使用しているなど、エコシステムが成熟しつつあることが明らかになった。ビルドツールではViteが98%の満足度で急上昇し、Reactは賛否両論あるものの、依然としてトップフレームワークの地位を維持している。AI支援開発は著しく成長し、Node.jsは依然として優位性を保っている。全体として、開発者の満足度は5点満点中3.8点で安定している。執筆：ダニエル・カーティス (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/state-of-js-survey-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Fri, 20 Mar 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QCon London 2026：Tansu.ioのご紹介 ― リーンオペレーションのためのKafkaの再考</title>
+      <link>https://www.infoq.com/news/2026/03/tansu-stateless-kafka-compatible/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ピーター・モーガンは、QCon LondonでTansuを発表した。Tansuは、オープンソースでKafka互換、ステートレス、リーダーレスのブローカーであり、ゼロまでスケール可能で、プラグイン可能なストレージ（S3、SQLite、Postgres）、ブローカー側のスキーマ検証、IcebergおよびDelta Lakeへの直接書き込み機能を備えている。Rustで記述されており、20MBのRAMを使用し、10ミリ秒で起動する。執筆：Steef-Jan Wiggers (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/tansu-stateless-kafka-compatible/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 21 Mar 2026 10:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

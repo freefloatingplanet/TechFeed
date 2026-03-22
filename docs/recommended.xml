@@ -7,102 +7,114 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 06:52:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 06:57:27 +0000</lastBuildDate>
     <item>
-      <title>「え、たった2か月で!?」 三菱重工の無人機AI開発が“爆速”だったワケ 自衛隊も関係大アリな米企業とタッグ | 乗りものニュース</title>
-      <link>https://trafficnews.jp/post/646676</link>
-      <description>三菱重工業が、無人機に搭載するAIの開発から飛行実証までを、わずか8週間で完了させました。この驚異的なスピード開発の裏には、あるアメリカ企業との連携があったようです。 開発開始からわずか8週間で空へ 三菱重工業は、無人機に搭載するAI「ミッション・オートノミー」の開発で、飛行実証に成功したと発表しました... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://trafficnews.jp/post/646676</guid>
-      <pubDate>Sat, 21 Mar 2026 02:25:27 +0000</pubDate>
+      <title>予約語で学ぶプログラミング言語の設計と戦略</title>
+      <link>https://zenn.dev/ahoxa1rx/articles/f2038942dcb276</link>
+      <description>厳密には異なる概念ですが、本記事では『開発者が識別子として自由に使えない特別な語』という広義の意味で予約語と呼称します。 予約語とは 予約語とは、プログラムが解析される初期段階において、特別な意味を持つものとして識別されるトークンのことです。 予約語は、制御構造、データ型、宣言、実行制約のような、プ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/ahoxa1rx/articles/f2038942dcb276</guid>
+      <pubDate>Sat, 14 Mar 2026 10:57:04 +0000</pubDate>
     </item>
     <item>
-      <title>AI生成文から「AIくささ」を取り除く技術と、Claude Codeスキルに組み込むまでの話</title>
-      <link>https://zenn.dev/m0370/articles/205c9340a418c3</link>
-      <description>AIが書いた文章は、なぜバレるのか ChatGPTやClaudeに文章を書かせると、どこか「それっぽい」仕上がりになる。丁寧で、整っていて、読みやすい。でも何か引っかかる。その違和感の正体を、Wikipediaのコミュニティが体系的にまとめていることを最近知りました。 「Signs of AI writing」というページがそれです。WikiPr... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/m0370/articles/205c9340a418c3</guid>
-      <pubDate>Fri, 20 Mar 2026 11:32:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Flutter】デバッグ画面のソースコード、ちゃんとリリースビルドから除外していますか？</title>
-      <link>https://zenn.dev/chooyan/articles/ce5eafe02439c5</link>
-      <description>Flutter に限らずアプリ開発、というよりフロントエンドの開発全般で、「デバッグ画面」を用意することは少なくないと思います。
-Feature flag を強制的に切り替えて未公開の機能を動作確認したり、特定のデータを強制的に取得して UI で確認したり、キャッシュの内容をいじったり、内部のログを UI から確認したりなど、デバッグ画面は開発や検証を効率的に進める上で便利なツールです。
-ただし、そのようなデバッグ画面やデバッグ機能のソースコードは、内容によっては悪意のある第三者に解析されることで重大な被害のきっかけになり得ます。そのため、少なくともリリースビルドに含める必要がないものに... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/chooyan/articles/ce5eafe02439c5</guid>
-      <pubDate>Thu, 19 Mar 2026 08:27:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vite+ の異常なタスクランナー: vite-task は如何にしてキャッシュの手動依存管理をなくしたか</title>
-      <link>https://zenn.dev/herp_inc/articles/strange-task-runner</link>
-      <description>原題『Vite+の異常なタスクランナー または vite-task は如何にしてキャッシュの手動依存管理を止めてファイルアクセスを自動捕捉するようになったか』[1]
+      <title>codexでスパコンを壊してしまった話</title>
+      <link>https://zenn.dev/chizuchizu/articles/a991c61ff0d073</link>
+      <description>とあるスーパーコンピュータを使っていたときの話です。
+私はこれまでログインノードでcodexに助けてもらいながらコーディングをしていました。しかし、ある日にcodexを開いた瞬間にプロセスがハングし、ストレージの応答を待つデッドロック状態となってSSHでシェルに入ることすらできなくなりました。
+知り合いもシェルに入れないと報告があり、他のユーザーにも影響があることがわかりました。
+注意喚起として記事を残します。
+3/22追記：プロセスが大量にメモリを占有することを確認しました。
 
-先日、ついに Vite+ の alpha 版がリリースされました。oxc エコシステムの全面バックアップを受けた高速なネイティブ実装ツールチェーンが揃い踏みしており、開発コミュニティも沸き立っています。
-私も仕事で扱っているプロジェクトを手元で Vite+ に置き換えてみたのですが、 vp (ヴイピー) 鬼はえええ！このまま遅いやつら全部 Vite+ に置き換えていこうぜ！ という気持ちになりました。
-そんな Vite+ ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/herp_inc/articles/strange-task-runner</guid>
-      <pubDate>Tue, 17 Mar 2026 09:05:46 +0000</pubDate>
+ 何をしたのか
+
+Codex 0.116.0
+
+ログインノードでcodexを起動しました。
+codex
+実行... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chizuchizu/articles/a991c61ff0d073</guid>
+      <pubDate>Sat, 21 Mar 2026 02:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>日本のボールペンはサラサラ、中国はガリガリ。技術開発には成功したものの、ビジネスベースに乗せられない中国 - 中華IT最新事情</title>
+      <link>https://tamakino.hatenablog.com/entry/2026/03/19/080000</link>
+      <description>日本のボールペンはサラサラ書ける。この技術に追いつこうと、太鋼集団ではペン先材料の開発を行い、日本水準に追いついた。しかし、ビジネスベースに乗せるという大きな課題が立ち塞がっていると太鋼集団が報じた。 シェアは小さくても高級市場は独占の日本文房具 中国は年間380億本のボールペンを生産し、世界の需要の... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tamakino.hatenablog.com/entry/2026/03/19/080000</guid>
+      <pubDate>Thu, 19 Mar 2026 10:26:55 +0000</pubDate>
     </item>
     <item>
       <title>LLMをもっと賢くする：ナレッジグラフ実践入門</title>
       <link>https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide</link>
-      <description>「ChatGPTは賢いのに、なぜ業務では使いにくいのか」。その答えがナレッジグラフにあります。本書は、RAGだけでは解けない問題の正体を明らかにし、ナレッジグラフがLLMに何をもたらすかを、入門から世界の活用事例、実装アーキテクチャ、AI Agentとの統合まで一気通貫で解説します。エンタープライズ規模でのKG実装は難しい。だからこそ、何が難しいのかを正確に理解することが第一歩です。 (source: Zennのトレンド)</description>
+      <description>「ChatGPTは賢いのに、なぜ業務では使いにくいのか」。その答えがナレッジグラフにあります。本書は、RAGだけでは解けない問題の正体を明らかにし、ナレッジグラフがLLMに何をもたらすかを、入門から世界の活用事例、実装アーキテクチャ、AI Agentとの統合まで一気通貫で解説します。エンタープライズ規模でのKG実装は難... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
       <guid isPermaLink="true">https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide</guid>
-      <pubDate>Thu, 19 Mar 2026 02:14:59 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 20:15:22 +0000</pubDate>
     </item>
     <item>
-      <title>新人に「AI使用禁止令」は是か非か？「仕事の8割はAIに」という活用派 言語脳科学の権威は警鐘「ものを考える人間に一番大事なものを手放している」（ABEMA TIMES） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/9b6f170440c87a61475c63e8573373f4781717e3</link>
-      <description>ビジネスの現場で生成AIの活用が急速に進む中、あえて「新人には使わせない」という決断を下す企業が現れ話題となっている。ある調査によれば、AIは情報収集や分析、会議の議事録作成、問い合わせ対応など、多岐にわたる分野で効率化に貢献している。エンジニアの一人は「AIがなかった時に1時間、場合によっては2時間と... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9b6f170440c87a61475c63e8573373f4781717e3</guid>
-      <pubDate>Sat, 21 Mar 2026 03:46:56 +0000</pubDate>
+      <title>ページをブックマークしてHTML・スクショ画像・PDFなどで自動保存して検索・ハイライトなどの注釈・複数人での共有・スマホアプリからの利用・RSSの自動保存・AIによる自動タグ付けができる「Linkwarden」、無料でセルフホストも可能</title>
+      <link>https://gigazine.net/news/20260321-linkwarden/</link>
+      <description>気になる記事やブログ、技術解説サイトなどブックマークに保存したサイトを後で見ようとした際に、ページが削除されているケースがあります。「Linkwarden」を使うと、ブックマークと同時にページをPDF化し、スクリーンショットを保存した上、複数人との共有や複数デバイスでの利用が可能となり、多機能なブックマーク管... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20260321-linkwarden/</guid>
+      <pubDate>Sat, 21 Mar 2026 12:26:52 +0000</pubDate>
     </item>
     <item>
-      <title>Reactをやめて MoonBit で50ページの業務システムを作った</title>
-      <link>https://zenn.dev/lehti/articles/c4b813a9192701</link>
-      <description>はじめに
-React、Vue、Svelte。フロントエンドのフレームワーク選定で普通に出てくる名前だと思う。自分もそうだった。
-でも結局、どれも選ばなかった。代わりにMoonBitという、ほとんど誰も使っていない言語でフロントエンドを書いている。しかも個人プロジェクトではなく、業務で毎日使われている社内CRM/SFAで。
-ページ数は50を超えた。顧客管理、契約処理、物件検索、社内チャット、日報、承認フロー、AI文書解析、マーケティング分析。一人で開発して、本番で運用している。
-なぜこうなったのか、実際どうなのかを書いておく。
+      <title>DGX Sparkで色々なローカルLLMを動かした比較結果</title>
+      <link>https://zenn.dev/karaage0703/articles/fcca40c614dffd</link>
+      <description>NVIDIA DGX Spark（GB10、ARM64、128GB統合メモリ）でローカルLLMを動かす方法を、推論エンジン別（Ollama / vLLM / SGLang）に解説します。
+「どのモデル × どのエンジンを選べばいいの？」という疑問に答えるため、手軽さ・賢さ（ツールコール精度）・速度・メモリ使用量の4軸で整理しました。
+この記事は実際にDGX Sparkで動作確認した手順をまとめたものです。動作確認できなかった方法も参考として記載しています。
+!
+この記事は、あくまで自分の環境での少数試行での結果です。条件など完全に揃えられてない点もありますので、正確なベンチマークというよ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/karaage0703/articles/fcca40c614dffd</guid>
+      <pubDate>Sat, 21 Mar 2026 16:18:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>なぜ議員削減は危険なのか——海外事例が示す民主主義の共通構造</title>
+      <link>https://newshonyaku.com/cutting-lawmakers-democracy-risk-2/</link>
+      <description>日本語 English 「議員削減」という名のリスク――民主主義はこうして静かに削られる 議員削減の議論が、再び動き出した。 そして今回も、それは「良いこと」として語られている。 自民党と維新は、衆議院の定数を45議席削減する法案提出で一致。しかも今回は、比例代表を中心に削る方向だという。 一見すると、無駄削減の... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://newshonyaku.com/cutting-lawmakers-democracy-risk-2/</guid>
+      <pubDate>Fri, 20 Mar 2026 13:17:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>レポ：CA Go Collegeに参加しました！</title>
+      <link>https://zenn.dev/riochin/articles/6b4099bd6cce6d</link>
+      <description>最終日にアベマくんと📸
 
- なぜMoonBitを選んだのか
-正直に言うと、最初はR... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lehti/articles/c4b813a9192701</guid>
-      <pubDate>Wed, 18 Mar 2026 22:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>初めてのダッシュボードUI設計で学んだこと</title>
-      <link>https://zenn.dev/medirom_tech/articles/aab342c4e2ca66</link>
-      <description>はじめに
-私はフロントエンドエンジニアとして勤務していますが、UI作成にも興味があり、デザインから実装まで担当する機会が増えてきました。
-インターン時代にバナーやLPのデザインを少し学んだことがあり、PinterestでUIを眺めるのも好きです。ただ、ダッシュボードのUIデザインは今回が初めてで、どこから手をつければいいか全くわからない状態からスタートしました。
-この記事では、参考になった資料や学び、詰まったポイントとどう乗り越えたかを書いていきます。同じような立場の方の参考になれば幸いです。
+ はじめに
+はじめまして❗️Riochinと申します。埼玉在住。普段は、某私立女子私大でプログラミングを勉強しています。
+2026年2月から、サイバーエージェント様が主催する短期インターンシップ、『Go College』に参加したので、レポート記事を書こうと思います！
 
- まず要件書の機能を全部並べた
-仕様書を受け取り、まず内容を読んで、追加したい機能をその... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/medirom_tech/articles/aab342c4e2ca66</guid>
-      <pubDate>Wed, 18 Mar 2026 09:44:43 +0000</pubDate>
+ Go Collegeの開催概要
+
+Go Collegeは、Go言語やサーバーサイド開発の基礎、データベースを使ったAPI実装の習得を目標としたインターンシップです。
+本インターンシップではGo言語での開発を行いますが、プログラミング経験があればGo言語の使用経験や本格的なサーバーサイドの開発... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/riochin/articles/6b4099bd6cce6d</guid>
+      <pubDate>Sat, 21 Mar 2026 03:48:03 +0000</pubDate>
     </item>
     <item>
-      <title>手動 ER 図メンテから卒業する── GitHub Actions × DBML 自動生成の実践</title>
-      <link>https://zenn.dev/finatext/articles/auto-generate-dbml-from-orm</link>
-      <description>こんにちは、ナウキャストで LLM エンジニアをしている Ryotaro です。
-バックエンドの ER 図、ちゃんとメンテナンスできていますか？
-「コードは変えたけど ER 図の更新を忘れた」「いつの間にかドキュメントが実態と乖離していた」という経験は、多くのエンジニアに心当たりがあるのではないでしょうか。
-この記事では、SQLAlchemy モデルを Single Source of Truth（SSoT）として、GitHub Actions で DBML を自動生成・コミットする仕組みを構築しました。やってみたら結構うまくハマったので、その方法を紹介します。開発者はコードだけ修正すれ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/finatext/articles/auto-generate-dbml-from-orm</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:13 +0000</pubDate>
+      <title>cmuxで変わるClaude Codeのマルチプロジェクト開発体験</title>
+      <link>https://zenn.dev/hummer/articles/cmux-ecosystem-claude-code</link>
+      <description>はじめに
+Claude Code、とても便利ですよね。でも使い込んでいくと、こんな不満が出てきませんか？
+
+
+サブエージェントが何をやっているか見えない（Agent ツールはブラックボックス）
+
+複数プロジェクトをまたぐ作業がつらい（Claude Code はカレントディレクトリドリブンなので）
+別リポジトリでの作業を AI に任せたいけど、cd して別セッション立ち上げて…が面倒
+
+これらの課題を解決するために、cmux というターミナルマルチプレクサを軸にしたエコシステムを作りました。この記事では、そのエコシステムを構成する4つのリポジトリを紹介します。
+
+ cmux とは（30... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hummer/articles/cmux-ecosystem-claude-code</guid>
+      <pubDate>Sat, 21 Mar 2026 16:44:41 +0000</pubDate>
     </item>
     <item>
-      <title>新機能を追加するために3,000行削除した話 — AIが書いたコードの技術負債とどう向き合うか</title>
-      <link>https://zenn.dev/shigerufukada/articles/ccf7cb56eb7b46</link>
-      <description>はじめに — AI が書いたコードの「その先」
-AI コーディングツールの普及で、非エンジニアでもシステムを構築できる時代になりました。それ自体は素晴らしいことで、実際にプロダクトとしてユーザーに使われているシステムが AI の力で生まれています。
-しかし、その先に待っているのは「動いているけど設計がないコードベース」です。
-場当たり的な指示で生成されたコードは、個々のファイルとしては正しく動きます。しかし全体を俯瞰すると、同じデータが複数の経路で変換され、同じ状態が異なる場所で管理され、型定義が散在している。新機能を追加しようとすると、どこに手を入れればいいのか分からない。
-これは... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shigerufukada/articles/ccf7cb56eb7b46</guid>
-      <pubDate>Thu, 19 Mar 2026 02:39:46 +0000</pubDate>
+      <title>AI生成文から「AIくささ」を取り除く技術と、Claude Codeスキルに組み込むまでの話</title>
+      <link>https://zenn.dev/m0370/articles/205c9340a418c3</link>
+      <description>AIが書いた文章は、なぜバレるのか
+ChatGPTやClaudeに文章を書かせると、どこか「それっぽい」仕上がりになる。丁寧で、整っていて、読みやすい。でも何か引っかかる。その違和感の正体を、Wikipediaのコミュニティが体系的にまとめていることを最近知りました。
+「Signs of AI writing」というページがそれです。WikiProject AI Cleanupという有志のプロジェクトが、Wikipedia上に紛れ込んだAI生成記事を何千件も精査するなかで、パターンを抽出してきたものです。たとえば「pivotal」「landscape」「tapestry」といった単語... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/m0370/articles/205c9340a418c3</guid>
+      <pubDate>Thu, 19 Mar 2026 23:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
