@@ -7,20 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Mar 2026 06:57:40 +0000</lastBuildDate>
-    <item>
-      <title>QCon London 2026：Spritely：インターネットの未来のためのインフラストラクチャ</title>
-      <link>https://www.infoq.com/news/2026/03/spritely-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>スプライトリー・インスティテュートのエグゼクティブ・ディレクターであるクリスティン・レマー＝ウェバー氏と、同研究所のCTOであるデビッド・トンプソン氏は、QCon London 2026で「スプライトリー：インターネットの未来のためのインフラストラクチャ」と題したプレゼンテーションを行い、スプライトリーがユーザーに制御権を与える新しい基盤技術を用いてインターネットを分散化するためにどのように機能するかについて議論した。マイケル・レドリッチ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/spritely-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 19 Mar 2026 15:10:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Mar 2026 07:17:33 +0000</lastBuildDate>
     <item>
       <title>WorkOSがシリーズCラウンドで1億ドルを調達、企業価値は20億ドルに達する</title>
       <link>https://workos.com/blog/series-c</link>
       <description>WorkOSはシリーズC資金調達ラウンドで1億ドルを調達し、企業価値は20億ドルとなった。今回のラウンドはMeritechとSapphireが主導し、Audacious、Craft、Abstract、Greenoaksなどが参加した。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/series-c</guid>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWSがAurora DSQLを拡張、プレイグラウンド、新しいツール統合、およびドライバーコネクタを追加</title>
+      <link>https://www.infoq.com/news/2026/03/aurora-dsql-playground-updates/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Amazonは、使いやすさ、統合性、開発者ツールに重点を置いたAurora DSQLの複数のアップデートを発表しました。これらの改善点には、開発者が登録や関連費用なしでブラウザ上で直接データベースを探索および実験できる新しいインタラクティブなAurora DSQL Playgroundが含まれています。Renato Losio著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/aurora-dsql-playground-updates/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sun, 22 Mar 2026 08:59:00 +0000</pubDate>
     </item>
     <item>
       <title>JWKS開発者向けガイド</title>
@@ -58,11 +58,11 @@
       <pubDate>Fri, 20 Mar 2026 20:02:35 +0000</pubDate>
     </item>
     <item>
-      <title>.NET 11 Preview 2 では、パフォーマンスの向上、マッピングの改善、およびネイティブ OpenTelemetry サポートが提供されます。</title>
-      <link>https://www.infoq.com/news/2026/03/dotnet-11-preview-2/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Microsoftは、.NET 11の2番目のプレビュー版をリリースしました。このプレビュー版では、ASP.NET Core向けのネイティブOpenTelemetryトレース、.NET MAUIにおけるMapコントロールの大幅な改善とバインディングの高速化、Blazor TempDataのサポート、新しいWeb Workerプロジェクトテンプレート、そしてランタイム、SDK、ライブラリ全体にわたるパフォーマンスの向上などが実現されています。Almir Vuk著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/dotnet-11-preview-2/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 19 Mar 2026 09:37:00 +0000</pubDate>
+      <title>春のニュースまとめ：ブート、セキュリティ、統合、AI、AMQPの第3マイルストーンリリース</title>
+      <link>https://www.infoq.com/news/2026/03/spring-news-roundup-mar16-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>2026年3月16日の週は、Springエコシステムにおいて活発な動きが見られました。Spring Boot、Spring Security、Spring Integration、Spring AI、Spring AMQPの第3マイルストーンリリースに加え、Spring DataとSpring for Apache Kafkaの第2マイルストーンリリースが行われました。 執筆：Michael Redlich (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/spring-news-roundup-mar16-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 23 Mar 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
       <title>JavaScriptの現状2025：調査結果から、TypeScriptが優位性を固める成熟したエコシステムが明らかに</title>

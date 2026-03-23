@@ -7,13 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2026 06:57:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 07:17:23 +0000</lastBuildDate>
     <item>
-      <title>予約語で学ぶプログラミング言語の設計と戦略</title>
-      <link>https://zenn.dev/ahoxa1rx/articles/f2038942dcb276</link>
-      <description>厳密には異なる概念ですが、本記事では『開発者が識別子として自由に使えない特別な語』という広義の意味で予約語と呼称します。 予約語とは 予約語とは、プログラムが解析される初期段階において、特別な意味を持つものとして識別されるトークンのことです。 予約語は、制御構造、データ型、宣言、実行制約のような、プ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/ahoxa1rx/articles/f2038942dcb276</guid>
-      <pubDate>Sat, 14 Mar 2026 10:57:04 +0000</pubDate>
+      <title>Coding Agentなどについて最近書いた/作ったもののまとめ</title>
+      <link>https://zenn.dev/sakasegawa/articles/cc648c792823ea</link>
+      <description>こんにちは！逆瀬川ちゃん (@gyakuse)です！
+今日は最近作ったものとか書いたものについてまとめていきたいと思います。
+ちなみに以前、毎日書くぞ〜ってアドベントカレンダー企画でやったときは13日でギブアップしていました。悲しみがあります。そのあとに10個のAIアプリケーションと3個のAIエージェントを1人で開発してみたと題してアプリケーションをドカドカ作るのを去年はやっていました。
+さいきんはVSR/AVSRとAI Agent/Computer-useあたりをやっていて、ついでにその周りでやったことや調べたことを記事として書いています。
+というわけで一つずつ公開順に紹介したいと思い... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sakasegawa/articles/cc648c792823ea</guid>
+      <pubDate>Sun, 22 Mar 2026 10:50:54 +0000</pubDate>
     </item>
     <item>
       <title>codexでスパコンを壊してしまった話</title>
@@ -35,59 +39,15 @@ codex
       <pubDate>Sat, 21 Mar 2026 02:29:00 +0000</pubDate>
     </item>
     <item>
-      <title>日本のボールペンはサラサラ、中国はガリガリ。技術開発には成功したものの、ビジネスベースに乗せられない中国 - 中華IT最新事情</title>
-      <link>https://tamakino.hatenablog.com/entry/2026/03/19/080000</link>
-      <description>日本のボールペンはサラサラ書ける。この技術に追いつこうと、太鋼集団ではペン先材料の開発を行い、日本水準に追いついた。しかし、ビジネスベースに乗せるという大きな課題が立ち塞がっていると太鋼集団が報じた。 シェアは小さくても高級市場は独占の日本文房具 中国は年間380億本のボールペンを生産し、世界の需要の... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tamakino.hatenablog.com/entry/2026/03/19/080000</guid>
-      <pubDate>Thu, 19 Mar 2026 10:26:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLMをもっと賢くする：ナレッジグラフ実践入門</title>
-      <link>https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide</link>
-      <description>「ChatGPTは賢いのに、なぜ業務では使いにくいのか」。その答えがナレッジグラフにあります。本書は、RAGだけでは解けない問題の正体を明らかにし、ナレッジグラフがLLMに何をもたらすかを、入門から世界の活用事例、実装アーキテクチャ、AI Agentとの統合まで一気通貫で解説します。エンタープライズ規模でのKG実装は難... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide</guid>
-      <pubDate>Thu, 19 Mar 2026 20:15:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>ページをブックマークしてHTML・スクショ画像・PDFなどで自動保存して検索・ハイライトなどの注釈・複数人での共有・スマホアプリからの利用・RSSの自動保存・AIによる自動タグ付けができる「Linkwarden」、無料でセルフホストも可能</title>
-      <link>https://gigazine.net/news/20260321-linkwarden/</link>
-      <description>気になる記事やブログ、技術解説サイトなどブックマークに保存したサイトを後で見ようとした際に、ページが削除されているケースがあります。「Linkwarden」を使うと、ブックマークと同時にページをPDF化し、スクリーンショットを保存した上、複数人との共有や複数デバイスでの利用が可能となり、多機能なブックマーク管... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20260321-linkwarden/</guid>
-      <pubDate>Sat, 21 Mar 2026 12:26:52 +0000</pubDate>
-    </item>
-    <item>
       <title>DGX Sparkで色々なローカルLLMを動かした比較結果</title>
       <link>https://zenn.dev/karaage0703/articles/fcca40c614dffd</link>
       <description>NVIDIA DGX Spark（GB10、ARM64、128GB統合メモリ）でローカルLLMを動かす方法を、推論エンジン別（Ollama / vLLM / SGLang）に解説します。
 「どのモデル × どのエンジンを選べばいいの？」という疑問に答えるため、手軽さ・賢さ（ツールコール精度）・速度・メモリ使用量の4軸で整理しました。
 この記事は実際にDGX Sparkで動作確認した手順をまとめたものです。動作確認できなかった方法も参考として記載しています。
 !
-この記事は、あくまで自分の環境での少数試行での結果です。条件など完全に揃えられてない点もありますので、正確なベンチマークというよ... (source: Zennのトレンド)</description>
+この記事は、あくまで自分の環境での少数の試行結果です。条件など完全に揃えられてない点もありますので、正確なベンチマークというより... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/karaage0703/articles/fcca40c614dffd</guid>
       <pubDate>Sat, 21 Mar 2026 16:18:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜ議員削減は危険なのか——海外事例が示す民主主義の共通構造</title>
-      <link>https://newshonyaku.com/cutting-lawmakers-democracy-risk-2/</link>
-      <description>日本語 English 「議員削減」という名のリスク――民主主義はこうして静かに削られる 議員削減の議論が、再び動き出した。 そして今回も、それは「良いこと」として語られている。 自民党と維新は、衆議院の定数を45議席削減する法案提出で一致。しかも今回は、比例代表を中心に削る方向だという。 一見すると、無駄削減の... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://newshonyaku.com/cutting-lawmakers-democracy-risk-2/</guid>
-      <pubDate>Fri, 20 Mar 2026 13:17:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>レポ：CA Go Collegeに参加しました！</title>
-      <link>https://zenn.dev/riochin/articles/6b4099bd6cce6d</link>
-      <description>最終日にアベマくんと📸
-
- はじめに
-はじめまして❗️Riochinと申します。埼玉在住。普段は、某私立女子私大でプログラミングを勉強しています。
-2026年2月から、サイバーエージェント様が主催する短期インターンシップ、『Go College』に参加したので、レポート記事を書こうと思います！
-
- Go Collegeの開催概要
-
-Go Collegeは、Go言語やサーバーサイド開発の基礎、データベースを使ったAPI実装の習得を目標としたインターンシップです。
-本インターンシップではGo言語での開発を行いますが、プログラミング経験があればGo言語の使用経験や本格的なサーバーサイドの開発... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/riochin/articles/6b4099bd6cce6d</guid>
-      <pubDate>Sat, 21 Mar 2026 03:48:03 +0000</pubDate>
     </item>
     <item>
       <title>cmuxで変わるClaude Codeのマルチプロジェクト開発体験</title>
@@ -106,6 +66,72 @@ Claude Code、とても便利ですよね。でも使い込んでいくと、こ
  cmux とは（30... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/hummer/articles/cmux-ecosystem-claude-code</guid>
       <pubDate>Sat, 21 Mar 2026 16:44:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>自宅NAS用Webファイルマネージャーを1日でフル実装した話</title>
+      <link>https://zenn.dev/sutobu000/articles/f413d520677cb1</link>
+      <description>経緯
+一眼カメラで撮ったRAWファイルや動画を、余っていたノートPCに外付けHDDケースを繋いでストレージとして使っていました。NASと呼べるほどのものではなく、ただの据え置きストレージです。
+SMB共有でMacからアクセスしていたんですが、いくつか不満がありまして。
+
+iPhoneからNASのファイルを見たいけど、「ファイル」アプリ経由だと遅い
+200MBを超えるRAWファイルのプレビューにいちいち時間がかかる
+撮影情報やGPS情報をブラウザでサッと確認したい
+
+ということで、ブラウザベースのファイルマネージャーを作ってみることにしました。
+Claude Codeのエージェントチー... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sutobu000/articles/f413d520677cb1</guid>
+      <pubDate>Sat, 21 Mar 2026 15:22:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>普段コード書かない奴が落合陽一に触発されてCLIツールを作った話</title>
+      <link>https://zenn.dev/sonicmoov/articles/b2ec3f6a8ade39</link>
+      <description>きっかけ
+前提として、自分は普段あまりコードを書かない人間だ。
+肩書きとしてはエンジニアだが、最近は口を出すことのほうが多くて、自分の手でガリガリ実装する機会はめっきり減った。最新のフロントエンド技術やクラウドの進化にもついていけていない。React の最新機能も追えてないし、インフラも昔の知識で止まっている。エンジニアとしての賞味期限を感じ始めていた...というのが前提にある。
+そんな中で目に入ったのが、落合陽一氏が vibe-local というコーディングエージェントをバイブコーディングで作ったというニュースだ。ローカル LLM だけで動く完全オフラインのコーディングツールを、あ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sonicmoov/articles/b2ec3f6a8ade39</guid>
+      <pubDate>Sat, 21 Mar 2026 15:44:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI 駆動開発全盛期を生き抜くために Markdown を「読む」ためだけのアプリ Arto を作った</title>
+      <link>https://zenn.dev/lambdalisue/articles/introduce-arto-markdown-reader</link>
+      <description>どうも、AI さんが書いた設計書とか実装計画書とかを読みまくって疲弊してるありすえです。
+突然ですが、皆さんは Markdown をどうやって 読んで いますか？
+GitHub 上で README を読む。VSCode のプレビューで確認する。あるいは生のテキストをそのまま目で追う。大体この辺りだと思います。僕もずっとそうでした。でも、ずっとモヤモヤしていたんですよね。
+
+ブラウザで GitHub を開くとタブが際限なく増殖する
+ローカルの Markdown をサクッと綺麗に読める手段が意外とない
+オフラインで設計ドキュメントを読み返したいときに困る
+
+「Markdown を 書く ため... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/lambdalisue/articles/introduce-arto-markdown-reader</guid>
+      <pubDate>Sun, 22 Mar 2026 11:28:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unity: ECS の性能を引き出すデータ設計の勘所</title>
+      <link>https://zenn.dev/ruccho/articles/unity-ecs-data-optimization</link>
+      <description>2023 年に Entities 1.0 がリリースされてしばらく経ちました。現在は Unity 本体と Entities との統合が進められ、これまで ECS を触っていなかったユーザーにとっても ECS の存在感が強まっています。ECS のことを学ぶにはいい頃合いではないでしょうか。
+
+GDC Unity Product Update - YouTube より
+この記事では Unity の ECS を使ってパフォーマンスを引き出すためのデータ設計について考えていきます。
+!
+この記事では Unity 公式の Entities パッケージによる ECS 実装のことを単に ECS と呼称... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ruccho/articles/unity-ecs-data-optimization</guid>
+      <pubDate>Sun, 22 Mar 2026 10:37:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>NFCタグの使い方とWeb NFC API</title>
+      <link>https://zenn.dev/ubie_dev/articles/nfc-guide-for-hackers</link>
+      <description>NFC（Near Field Communication）タグを触る機会がありました。
+NFCは数センチの距離で通信する近距離無線通信の規格です。NFCという技術自体はスマホ決済などで日常的に使われていると思いますが、自分でタグを書き込んで使ったことがある人は少ないのではないかと思います。この記事では、NFCタグの基本的な仕組みと使い方をまとめつつ、ウェブブラウザからNFCを直接読み書きできる Web NFC API のサンプルを紹介します。
+
+シールタイプのNFCタグ (wikimedia)
+
+ NFCタグの使いどころ
+「かざすだけ」で何ができるのか、具体的な活用例をいくつか見ていきま... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/nfc-guide-for-hackers</guid>
+      <pubDate>Sat, 21 Mar 2026 12:19:56 +0000</pubDate>
     </item>
     <item>
       <title>AI生成文から「AIくささ」を取り除く技術と、Claude Codeスキルに組み込むまでの話</title>

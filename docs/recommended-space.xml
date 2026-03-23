@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2026 06:57:32 +0000</lastBuildDate>
-    <item>
-      <title>死にゆく星がまとった美しきベール　しし座の惑星状星雲「EGB 6」</title>
-      <link>https://sorae.info/astronomy/20260314-egb-6.html</link>
-      <description>こちらは、アメリカ・アリゾナ州のキットピーク国立天文台（KPNO）にある口径4mのメイヨール望遠鏡で観測した惑星状星雲「EGB 6」。 しし座の方向、約2450光年先にあります。 真っ暗な宇宙空間を背景に、ガスが球状に広… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260314-egb-6.html</guid>
-      <pubDate>Sat, 14 Mar 2026 12:22:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>「目の前にチャンスが来たらフルスイングできる場所に」南相馬市で生まれた宇宙産業の集積とその熱量の裏側【Why Space 特別インタビュー対談】</title>
-      <link>https://sorabatake.jp/45183/</link>
-      <description>今、福島県南相馬市に宇宙産業が集積し、宇宙産業に関する取り組みの熱量が高まっています。この地で、もともとは宇宙産業に関わらないキャリアを歩みながらも、現在は宇宙産業に関わり、その盛り上がりを加速させている3名にお話を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45183/</guid>
-      <pubDate>Thu, 12 Mar 2026 23:11:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Mar 2026 07:17:27 +0000</lastBuildDate>
     <item>
       <title>非対称な渦巻腕を伸ばした銀河「NGC 2442」のクローズアップ　ハッブル宇宙望遠鏡が観測</title>
       <link>https://sorae.info/astronomy/20260316-ngc-2442.html</link>
@@ -30,18 +16,18 @@
       <pubDate>Mon, 16 Mar 2026 12:10:32 +0000</pubDate>
     </item>
     <item>
-      <title>ISSで2026年最初の船外活動を実施　NASA宇宙飛行士2名が新型太陽電池の増設準備作業を行う</title>
-      <link>https://sorae.info/space/20260320-iss-us-spacewalk.html</link>
-      <description>ISS（国際宇宙ステーション）では日本時間2026年3月18日から19日にかけて、2026年最初の船外活動が約7時間かけて実施されました。担当したのは、NASA（アメリカ航空宇宙局）のJessica Meir宇宙飛行士と… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260320-iss-us-spacewalk.html</guid>
-      <pubDate>Fri, 20 Mar 2026 08:48:07 +0000</pubDate>
-    </item>
-    <item>
       <title>魚を狙う鳥みたいな姿の銀河「NGC 5394」と「NGC 5395」　ジェミニ北望遠鏡が観測</title>
       <link>https://sorae.info/astronomy/20260321-heron-galaxy.html</link>
       <description>こちらは、ジェミニ天文台のジェミニ北望遠鏡で観測した銀河「NGC 5394」と「NGC 5395」のペア。りょうけん座の方向、地球から約1億7500万光年先にあります。 鳥のサギに見立てられた銀河のペア 18世紀の天文学… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260321-heron-galaxy.html</guid>
       <pubDate>Sat, 21 Mar 2026 13:58:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISSで2026年最初の船外活動を実施　NASA宇宙飛行士2名が新型太陽電池の増設準備作業を行う</title>
+      <link>https://sorae.info/space/20260320-iss-us-spacewalk.html</link>
+      <description>ISS（国際宇宙ステーション）では日本時間2026年3月18日から19日にかけて、2026年最初の船外活動が約7時間かけて実施されました。担当したのは、NASA（アメリカ航空宇宙局）のJessica Meir宇宙飛行士と… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260320-iss-us-spacewalk.html</guid>
+      <pubDate>Fri, 20 Mar 2026 08:48:07 +0000</pubDate>
     </item>
     <item>
       <title>ビジネスパーソンや地方自治体職員必見！ 第1回「サテライトデータビジネス検定」の受験申込は3月18日（水）まで</title>
@@ -56,6 +42,13 @@
       <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した相互作用銀河「Arp 147」。 くじら座の方向、地球から約4億3000万光年先にあります。 宇宙空間に浮かぶ2つの銀河が、まるで数字の「10」を描き出しているかのような非… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260318-arp-147.html</guid>
       <pubDate>Wed, 18 Mar 2026 12:29:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>近傍宇宙の膨張速度は従来の予測より遅いかも？　銀河群の動きをもとにハッブル定数を算出</title>
+      <link>https://sorae.info/astronomy/20260322-hubble-constant.html</link>
+      <description>この宇宙は約138億年前のビッグバンによって誕生して以来、現在に至るまで膨張を続けていることが知られています。この宇宙の膨張する速度を示す重要な指標が「ハッブル定数」です。 これまでの研究によれば、宇宙誕生から間もない頃… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260322-hubble-constant.html</guid>
+      <pubDate>Sun, 22 Mar 2026 12:02:04 +0000</pubDate>
     </item>
     <item>
       <title>自然災害発生時の「より早く、より正しい情報の把握」を目指して。ゼンリン・JAXA・熊本県が連携、衛星データと地図データで建物被害推定の精度向上へ</title>
@@ -77,6 +70,13 @@
       <description>「生まれたての惑星はふわふわ」であるという説があります。これは、惑星がどのように誕生・進化するかの理論モデルを基にして長年予測されていました。しかし、誕生から間もない惑星の発見数が少ない上に、詳細な観測が難しいことから、… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260320-young-planet-low-density.html</guid>
       <pubDate>Fri, 20 Mar 2026 11:30:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>宇宙開発と大工の意外な共通点は冗長性？宇宙×大工のイベントで見えた宇宙業界と他業界の距離が縮まるヒント</title>
+      <link>https://sorabatake.jp/45353/</link>
+      <description>2026年3月10日に開催されたイベント「宇宙大工サミット 2026」で語られた宇宙開発と大工の意外な共通点。また、イベントで見えたこれからの宇宙開発と他業界が連携するうえでのヒントについてまとめています。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45353/</guid>
+      <pubDate>Sun, 22 Mar 2026 23:00:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
