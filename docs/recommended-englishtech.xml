@@ -7,20 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Mar 2026 07:17:33 +0000</lastBuildDate>
-    <item>
-      <title>WorkOSがシリーズCラウンドで1億ドルを調達、企業価値は20億ドルに達する</title>
-      <link>https://workos.com/blog/series-c</link>
-      <description>WorkOSはシリーズC資金調達ラウンドで1億ドルを調達し、企業価値は20億ドルとなった。今回のラウンドはMeritechとSapphireが主導し、Audacious、Craft、Abstract、Greenoaksなどが参加した。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/series-c</guid>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 07:10:38 +0000</lastBuildDate>
     <item>
       <title>AWSがAurora DSQLを拡張、プレイグラウンド、新しいツール統合、およびドライバーコネクタを追加</title>
       <link>https://www.infoq.com/news/2026/03/aurora-dsql-playground-updates/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>Amazonは、使いやすさ、統合性、開発者ツールに重点を置いたAurora DSQLの複数のアップデートを発表しました。これらの改善点には、開発者が登録や関連費用なしでブラウザ上で直接データベースを探索および実験できる新しいインタラクティブなAurora DSQL Playgroundが含まれています。Renato Losio著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/aurora-dsql-playground-updates/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Sun, 22 Mar 2026 08:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netflixのグラフ抽象化の仕組み：650TBのグラフデータをグローバルにミリ秒単位で処理する</title>
+      <link>https://www.infoq.com/news/2026/03/netflix-graph-abstraction/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Netflixのエンジニアは、ミリ秒単位の低遅延で650TBのグラフデータを管理する高スループットプラットフォーム「Graph Abstraction」を構築しました。Netflix Gamingのソーシャルグラフから運用トポロジーグラフまで、幅広いサービスをサポートし、非同期レプリケーションによってグローバルな可用性を維持しています。この記事では、大規模パフォーマンスを実現するためのアーキテクチャ、キャッシング、およびトラバーサル設計について解説します。執筆：Leela Kumili (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/netflix-graph-abstraction/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 23 Mar 2026 13:54:00 +0000</pubDate>
     </item>
     <item>
       <title>JWKS開発者向けガイド</title>
@@ -51,11 +51,18 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Nvidia GTCで何が起こったのか：NemoClaw、ロボットのオラフ、そして1兆ドルの賭け</title>
-      <link>https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/</link>
-      <description>今週開催されたNvidiaのGTCカンファレンスで、CEOのジェンセン・フアン氏はトレードマークのレザージャケット姿で登壇し、2時間半に及ぶ基調講演を行った。講演では、2027年までにAIチップの売上高が1兆ドルに達すると予測し、すべての企業に「OpenClaw戦略」が必要だと宣言。最後は、マイクを切らざるを得なかったオラフのロボットが登場して締めくくった。そのメッセージは明白だった。Nvidiaは[…] (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/</guid>
-      <pubDate>Fri, 20 Mar 2026 20:02:35 +0000</pubDate>
+      <title>Apple、Foundationモデルのコンテキストウィンドウ管理を改善</title>
+      <link>https://www.infoq.com/news/2026/03/apple-foundation-models-context/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>現在リリース候補版が公開されているiOS 26.4では、AppleのFoundation Models向けにコンテキストウィンドウ管理機能が改善され、開発者は4096トークンというコンテキストウィンドウの制限に対応しやすくなります。これにより、コンテキストウィンドウを制約のあるリソースとして扱うことが推奨され、リソースの少ないシステムにおけるメモリのように積極的に管理することで、その使用を最適化することが可能になります。執筆：Sergio De Simone (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/apple-foundation-models-context/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Java ニュースまとめ: JDK 26、LibericaJDK、Payara プラットフォーム、GlassFish マイルストーン、ClawRunr</title>
+      <link>https://www.infoq.com/news/2026/03/java-news-roundup-mar16-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>2026年3月16日付けの今週のJavaニュースまとめでは、JDK 26のGAリリース、LibericaJDK 26、Payara Platformの2026年3月版、GlassFish 9.0の最初のマイルストーンリリース、Micronautのポイントリリース、そしてJobRunrが開発したJavaベースの新しいパーソナルAIアシスタント、ClawRunrの発表など、注目すべきニュースを取り上げています。執筆：Michael Redlich (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/java-news-roundup-mar16-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 23 Mar 2026 11:30:00 +0000</pubDate>
     </item>
     <item>
       <title>春のニュースまとめ：ブート、セキュリティ、統合、AI、AMQPの第3マイルストーンリリース</title>
@@ -63,13 +70,6 @@
       <description>2026年3月16日の週は、Springエコシステムにおいて活発な動きが見られました。Spring Boot、Spring Security、Spring Integration、Spring AI、Spring AMQPの第3マイルストーンリリースに加え、Spring DataとSpring for Apache Kafkaの第2マイルストーンリリースが行われました。 執筆：Michael Redlich (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/spring-news-roundup-mar16-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 23 Mar 2026 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>JavaScriptの現状2025：調査結果から、TypeScriptが優位性を固める成熟したエコシステムが明らかに</title>
-      <link>https://www.infoq.com/news/2026/03/state-of-js-survey-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>2025年のJavaScriptの現状調査によると、TypeScriptの優位性が確固たるものとなり、開発者の40%がTypeScriptのみを使用しているなど、エコシステムが成熟しつつあることが明らかになった。ビルドツールではViteが98%の満足度で急上昇し、Reactは賛否両論あるものの、依然としてトップフレームワークの地位を維持している。AI支援開発は著しく成長し、Node.jsは依然として優位性を保っている。全体として、開発者の満足度は5点満点中3.8点で安定している。執筆：ダニエル・カーティス (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/state-of-js-survey-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 20 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>QCon London 2026：Tansu.ioのご紹介 ― リーンオペレーションのためのKafkaの再考</title>

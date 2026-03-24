@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Mar 2026 07:17:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 07:10:33 +0000</lastBuildDate>
     <item>
-      <title>exoALMA XX：原始惑星系円盤に埋め込まれた惑星の断層撮影による検出</title>
-      <link>https://arxiv.org/abs/2603.13157v1</link>
-      <description>exoALMA大規模プログラムは、いくつかの原始惑星系円盤の塵と分子線放射に豊富なサブ構造を明らかにし、惑星形成が非常に動的な環境内で展開される可能性を示唆しています。惑星と円盤の相互作用および円盤の不安定性の合成観測を用いて、分子線の断層撮影研究を通してこれらのサブ構造の起源を調査する方法を示し、分析の範囲を線中心運動学だけにとどまらず拡張します。我々の結果は、中程度の角分解能（$0.15''-0.30''$）でALMAを数時間積算するだけで、恒星質量の0.1%を超える質量を持つ惑星によって引き起こされる主要な特徴を特定できることを示しています。これらの特徴は、ケプラー運動からのずれだけでなく、局所的な線幅の広がりとしても現れ、惑星の軌道半径と方位角位置を正確に制約することができます。さらに、スペクトル分解観測における線歪みに基づく診断法は、各メカニズムに関連する速度コヒーレンスの程度が異なるため、惑星起源のシグネチャと不安定性起源のシグネチャを区別するのに役立つことを示します。最後に、この断層撮影解析をHD 135344BとMWC 758の円盤のexoALMA CO線データに適用し (source: arXiv Query: search_query=all:observation AND (all:star OR all:stellar) AND (all:formation OR all:forming OR all:star-forming) AND (all:region OR all:regions OR all:cluster) AND ( (all:planetary AND all:mass) OR (all:brown AND all:dwarf) OR (all:free AND all:floating) )&amp;id_list=&amp;start=0&amp;max_results=20)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.13157v1</guid>
-      <pubDate>Fri, 13 Mar 2026 16:51:04 +0000</pubDate>
+      <title>複数衛星軌道上サービスミッション計画のためのルートフェーズ分割符号化遺伝的アルゴリズム</title>
+      <link>https://arxiv.org/abs/2603.22210v1</link>
+      <description>本稿では、地球静止軌道における複数サービス機による軌道上サービスミッションの計画について考察する。このミッションでは、経路決定は時間依存の軌道位相と、厳格な推進剤およびミッション期間の制約と密接に結びついている。我々は、複数のサービス機（SSC）間で、目標順序、離散的な位相回転決定（すなわち、位相回転数／待機サイクル数）、および経路分割を同時に最適化する経路位相分割遺伝的アルゴリズム（RPS-GA）を提案する。RPSトリプレット染色体は、経路順序、位相回転、および経路分割を統一構造で符号化し、実行可能な複数サービス機経路ブロックを崩すことなく、分割を考慮した組み換えを可能にする。実行可能性は、制約を考慮した適合度関数によって強制され、総ΔVに基づいて実行可能な解をランク付けし、総ペナルティと不均衡ペナルティを使用して推進剤およびミッション期間の違反にペナルティを与える。この定式化は、違反が単一のサービス宇宙機 (SSC) に集中することを抑制します。実行可能な最良解が特定されると、それは後続の世代でも実行可能なものとして保持され、収束の安定性が向上します。このフレームワークには、分割を (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.22210v1</guid>
+      <pubDate>Mon, 23 Mar 2026 17:08:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

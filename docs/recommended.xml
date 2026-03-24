@@ -7,36 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 07:17:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 07:10:24 +0000</lastBuildDate>
     <item>
-      <title>Coding Agentなどについて最近書いた/作ったもののまとめ</title>
-      <link>https://zenn.dev/sakasegawa/articles/cc648c792823ea</link>
-      <description>こんにちは！逆瀬川ちゃん (@gyakuse)です！
-今日は最近作ったものとか書いたものについてまとめていきたいと思います。
-ちなみに以前、毎日書くぞ〜ってアドベントカレンダー企画でやったときは13日でギブアップしていました。悲しみがあります。そのあとに10個のAIアプリケーションと3個のAIエージェントを1人で開発してみたと題してアプリケーションをドカドカ作るのを去年はやっていました。
-さいきんはVSR/AVSRとAI Agent/Computer-useあたりをやっていて、ついでにその周りでやったことや調べたことを記事として書いています。
-というわけで一つずつ公開順に紹介したいと思い... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sakasegawa/articles/cc648c792823ea</guid>
-      <pubDate>Sun, 22 Mar 2026 10:50:54 +0000</pubDate>
+      <title>[ネタ]復活の呪文を解析してみたよ - Qiita</title>
+      <link>https://qiita.com/yoshi389111/items/29ade2f62483e9c095d9</link>
+      <description>ゴールデンウィーク(2021-05)に、お勉強を兼ねて React + TypeScript で「ふっかつのじゅもん」の作成ページをGithub Pages 上に作りました（１の方です）。 じつは大昔に、復活の呪文の解析をした日記/作成できる CGI を公開していたことがあります。 （現在は、サイトが消滅して Internet Archive の中だけに存在する... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://qiita.com/yoshi389111/items/29ade2f62483e9c095d9</guid>
+      <pubDate>Fri, 07 May 2021 07:25:04 +0000</pubDate>
     </item>
     <item>
-      <title>codexでスパコンを壊してしまった話</title>
-      <link>https://zenn.dev/chizuchizu/articles/a991c61ff0d073</link>
-      <description>とあるスーパーコンピュータを使っていたときの話です。
-私はこれまでログインノードでcodexに助けてもらいながらコーディングをしていました。しかし、ある日にcodexを開いた瞬間にプロセスがハングし、ストレージの応答を待つデッドロック状態となってSSHでシェルに入ることすらできなくなりました。
-知り合いもシェルに入れないと報告があり、他のユーザーにも影響があることがわかりました。
-注意喚起として記事を残します。
-3/22追記：プロセスが大量にメモリを占有することを確認しました。
-
- 何をしたのか
-
-Codex 0.116.0
-
-ログインノードでcodexを起動しました。
-codex
-実行... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/chizuchizu/articles/a991c61ff0d073</guid>
-      <pubDate>Sat, 21 Mar 2026 02:29:00 +0000</pubDate>
+      <title>NFCタグの使い方とWeb NFC API</title>
+      <link>https://zenn.dev/ubie_dev/articles/nfc-guide-for-hackers</link>
+      <description>NFCの基礎知識 ここからはNFCの技術的な観点を見ていきましょう。 NDEF NFCタグに書き込むデータの形式として NDEF（NFC Data Exchange Format） が広く使われています。NDEFではデータを「レコード」という単位で格納し、1つのタグに複数のレコードを書き込むことができます。レコードにはいくつかの型があり、代表的な... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/nfc-guide-for-hackers</guid>
+      <pubDate>Mon, 23 Mar 2026 10:24:17 +0000</pubDate>
     </item>
     <item>
       <title>DGX Sparkで色々なローカルLLMを動かした比較結果</title>
@@ -48,6 +32,13 @@ codex
 この記事は、あくまで自分の環境での少数の試行結果です。条件など完全に揃えられてない点もありますので、正確なベンチマークというより... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/karaage0703/articles/fcca40c614dffd</guid>
       <pubDate>Sat, 21 Mar 2026 16:18:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ある神社の巫女さんが内職でCAT6AのLANケーブルを自作する光景「原因不明の通信障害に強そう」「加護欲しい」と話題になる</title>
+      <link>https://togetter.com/li/2678165</link>
+      <description>ある神社で巫女がCat6AのLANケーブルを自作して成端作業をしている様子が話題に。サーバールームやシステムの安全祈願と関連づけられ、職務の一環や自前で保守できる神職の存在から意外とあり得るとの声。芯線の配列ミスや被覆のかしめ不足で不良になるため練習が必要だが、初日の試行から二日目にかけて仕上がりが改善... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2678165</guid>
+      <pubDate>Tue, 24 Mar 2026 03:59:19 +0000</pubDate>
     </item>
     <item>
       <title>cmuxで変わるClaude Codeのマルチプロジェクト開発体験</title>
@@ -84,16 +75,6 @@ Claude Codeのエージェントチー... (source: Zennのトレンド)</descrip
       <pubDate>Sat, 21 Mar 2026 15:22:48 +0000</pubDate>
     </item>
     <item>
-      <title>普段コード書かない奴が落合陽一に触発されてCLIツールを作った話</title>
-      <link>https://zenn.dev/sonicmoov/articles/b2ec3f6a8ade39</link>
-      <description>きっかけ
-前提として、自分は普段あまりコードを書かない人間だ。
-肩書きとしてはエンジニアだが、最近は口を出すことのほうが多くて、自分の手でガリガリ実装する機会はめっきり減った。最新のフロントエンド技術やクラウドの進化にもついていけていない。React の最新機能も追えてないし、インフラも昔の知識で止まっている。エンジニアとしての賞味期限を感じ始めていた...というのが前提にある。
-そんな中で目に入ったのが、落合陽一氏が vibe-local というコーディングエージェントをバイブコーディングで作ったというニュースだ。ローカル LLM だけで動く完全オフラインのコーディングツールを、あ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sonicmoov/articles/b2ec3f6a8ade39</guid>
-      <pubDate>Sat, 21 Mar 2026 15:44:30 +0000</pubDate>
-    </item>
-    <item>
       <title>AI 駆動開発全盛期を生き抜くために Markdown を「読む」ためだけのアプリ Arto を作った</title>
       <link>https://zenn.dev/lambdalisue/articles/introduce-arto-markdown-reader</link>
       <description>どうも、AI さんが書いた設計書とか実装計画書とかを読みまくって疲弊してるありすえです。
@@ -121,26 +102,30 @@ GDC Unity Product Update - YouTube より
       <pubDate>Sun, 22 Mar 2026 10:37:07 +0000</pubDate>
     </item>
     <item>
-      <title>NFCタグの使い方とWeb NFC API</title>
-      <link>https://zenn.dev/ubie_dev/articles/nfc-guide-for-hackers</link>
-      <description>NFC（Near Field Communication）タグを触る機会がありました。
-NFCは数センチの距離で通信する近距離無線通信の規格です。NFCという技術自体はスマホ決済などで日常的に使われていると思いますが、自分でタグを書き込んで使ったことがある人は少ないのではないかと思います。この記事では、NFCタグの基本的な仕組みと使い方をまとめつつ、ウェブブラウザからNFCを直接読み書きできる Web NFC API のサンプルを紹介します。
-
-シールタイプのNFCタグ (wikimedia)
-
- NFCタグの使いどころ
-「かざすだけ」で何ができるのか、具体的な活用例をいくつか見ていきま... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/nfc-guide-for-hackers</guid>
-      <pubDate>Sat, 21 Mar 2026 12:19:56 +0000</pubDate>
+      <title>Claude Codeに長期記憶を持たせたら、壁打ちの質が変わった</title>
+      <link>https://zenn.dev/noprogllama/articles/7c24b2c2410213</link>
+      <description>どうも、AIエンジニアの@noprogllamaです。普段はAIで日常の仕組み化をしたり、投資×テクノロジーの実践知を発信したりしています。
+CLAUDE.mdという仕組みがあります。プロジェクトのルートに置いておくと、Claude Codeがセッション開始時に読み込んで、プロジェクトの方針や技術スタックを把握してくれます。開発に必要な情報はこれで十分伝わります。
+ですが、CLAUDE.mdには書けないものがあります。
+「前にこの方針で議論して、こういう理由で却下したよね」「あの時ハマったの、覚えてる？」——過去の会話の文脈です。
+私はClaude Codeを開発だけでなく壁打ち相手と... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/noprogllama/articles/7c24b2c2410213</guid>
+      <pubDate>Sun, 22 Mar 2026 09:18:21 +0000</pubDate>
     </item>
     <item>
-      <title>AI生成文から「AIくささ」を取り除く技術と、Claude Codeスキルに組み込むまでの話</title>
-      <link>https://zenn.dev/m0370/articles/205c9340a418c3</link>
-      <description>AIが書いた文章は、なぜバレるのか
-ChatGPTやClaudeに文章を書かせると、どこか「それっぽい」仕上がりになる。丁寧で、整っていて、読みやすい。でも何か引っかかる。その違和感の正体を、Wikipediaのコミュニティが体系的にまとめていることを最近知りました。
-「Signs of AI writing」というページがそれです。WikiProject AI Cleanupという有志のプロジェクトが、Wikipedia上に紛れ込んだAI生成記事を何千件も精査するなかで、パターンを抽出してきたものです。たとえば「pivotal」「landscape」「tapestry」といった単語... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/m0370/articles/205c9340a418c3</guid>
-      <pubDate>Thu, 19 Mar 2026 23:07:00 +0000</pubDate>
+      <title>Raspberry Piではじめる自宅サーバー入門（第2巻：運用編）</title>
+      <link>https://zenn.dev/murasanlab/books/10b6b15e557685</link>
+      <description>Raspberry Piでサーバーを立ち上げた。SSHで接続できるようになった。サービスも自動起動するようにした——
+
+でも、ふと不安がよぎります。「このサーバー、外から攻撃されたらどうしよう？」
+
+本書は、Raspberry Piサーバーを「動いている」状態から「安心して運用できる」状態へとステップアップさせるための1冊です。ファイアウォールで不要な通信を遮断し、不正アクセスを自動でブロックし、VPNで外出先から安全に接続する。さらにDockerを使って、サービスの構築・管理をモダンな手法で行えるようになります。
+
+コマンドを丸暗記するのではなく、「なぜその設定が必要なのか」「その仕組みはどうなっているのか」を一つずつ丁寧に解説しています。ufw、fail2ban、CrowdSec、Tailscale、WireGuard、Cloudflare Tunnel、Docker——これらの技術を、仕組みから理解して使いこなせる力を身につけます。
+
+本書は「Raspberry Piではじめる自宅サーバー入門」シリーズの第2巻（運用編）です。サーバーの「守り」と「つながり」を、ここから固めていき (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/murasanlab/books/10b6b15e557685</guid>
+      <pubDate>Mon, 23 Mar 2026 10:21:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
