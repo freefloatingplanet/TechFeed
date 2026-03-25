@@ -7,38 +7,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Mar 2026 07:10:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 07:08:11 +0000</lastBuildDate>
     <item>
-      <title>[ネタ]復活の呪文を解析してみたよ - Qiita</title>
-      <link>https://qiita.com/yoshi389111/items/29ade2f62483e9c095d9</link>
-      <description>ゴールデンウィーク(2021-05)に、お勉強を兼ねて React + TypeScript で「ふっかつのじゅもん」の作成ページをGithub Pages 上に作りました（１の方です）。 じつは大昔に、復活の呪文の解析をした日記/作成できる CGI を公開していたことがあります。 （現在は、サイトが消滅して Internet Archive の中だけに存在する... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://qiita.com/yoshi389111/items/29ade2f62483e9c095d9</guid>
-      <pubDate>Fri, 07 May 2021 07:25:04 +0000</pubDate>
+      <title>Claude Code を使いこなすために意識している 5つのこと</title>
+      <link>https://zenn.dev/sunagaku/articles/claude-code-usage-mindset</link>
+      <description>はじめに
+僕自身、普段から Claude Code を使い個人開発や業務に取り組んでいて、スキルの自作や Agent Teams の活用などを行っています。
+その中で、「Claude Code を上手く使えるかどうか」は、ツール自体の知識よりも、日々の向き合い方や考え方の部分が大きいと感じるようになりました。
+同じツールを使っていても、使い方が上手い人とそうでない人では、アウトプットの質とスピードに差が出ます。上手く活用出来ている人達から色々と学ばせて頂く中で、自分なりに意識するようになったことをまとめてみました。
+「もっとClaude Code を上手く使いたい」と感じている方の参... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sunagaku/articles/claude-code-usage-mindset</guid>
+      <pubDate>Mon, 23 Mar 2026 10:08:18 +0000</pubDate>
     </item>
     <item>
-      <title>NFCタグの使い方とWeb NFC API</title>
-      <link>https://zenn.dev/ubie_dev/articles/nfc-guide-for-hackers</link>
-      <description>NFCの基礎知識 ここからはNFCの技術的な観点を見ていきましょう。 NDEF NFCタグに書き込むデータの形式として NDEF（NFC Data Exchange Format） が広く使われています。NDEFではデータを「レコード」という単位で格納し、1つのタグに複数のレコードを書き込むことができます。レコードにはいくつかの型があり、代表的な... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/nfc-guide-for-hackers</guid>
-      <pubDate>Mon, 23 Mar 2026 10:24:17 +0000</pubDate>
+      <title>JavaScriptとTypeScriptのpolyglot</title>
+      <link>https://zenn.dev/qnighy/articles/e65e0995161ade</link>
+      <description>Polyglot とは、複数のプログラミング言語 (あるいはより一般に、何らかのファイルフォーマット) で解釈できるプログラムのことで、多言語話者にちなんでこの名前がつけられています。Polyglotはしばしば、プログラミングに関する非実用的な探求として遊ばれます。
+TypeScriptはJavaScriptのスーパーセットであるため、JavaScriptコードは自然にJavaScriptとTypeScriptコードのpolyglotとみなせます。しかしこれでは面白くないので、本稿では以下の条件を満たすpolyglotを提示します。
+
+JavaScriptとして実行したときと、TypeS... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/qnighy/articles/e65e0995161ade</guid>
+      <pubDate>Mon, 23 Mar 2026 13:50:30 +0000</pubDate>
     </item>
     <item>
-      <title>DGX Sparkで色々なローカルLLMを動かした比較結果</title>
-      <link>https://zenn.dev/karaage0703/articles/fcca40c614dffd</link>
-      <description>NVIDIA DGX Spark（GB10、ARM64、128GB統合メモリ）でローカルLLMを動かす方法を、推論エンジン別（Ollama / vLLM / SGLang）に解説します。
-「どのモデル × どのエンジンを選べばいいの？」という疑問に答えるため、手軽さ・賢さ（ツールコール精度）・速度・メモリ使用量の4軸で整理しました。
-この記事は実際にDGX Sparkで動作確認した手順をまとめたものです。動作確認できなかった方法も参考として記載しています。
-!
-この記事は、あくまで自分の環境での少数の試行結果です。条件など完全に揃えられてない点もありますので、正確なベンチマークというより... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/karaage0703/articles/fcca40c614dffd</guid>
-      <pubDate>Sat, 21 Mar 2026 16:18:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>ある神社の巫女さんが内職でCAT6AのLANケーブルを自作する光景「原因不明の通信障害に強そう」「加護欲しい」と話題になる</title>
-      <link>https://togetter.com/li/2678165</link>
-      <description>ある神社で巫女がCat6AのLANケーブルを自作して成端作業をしている様子が話題に。サーバールームやシステムの安全祈願と関連づけられ、職務の一環や自前で保守できる神職の存在から意外とあり得るとの声。芯線の配列ミスや被覆のかしめ不足で不良になるため練習が必要だが、初日の試行から二日目にかけて仕上がりが改善... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2678165</guid>
-      <pubDate>Tue, 24 Mar 2026 03:59:19 +0000</pubDate>
+      <title>【RAG】1000万文字の会話を理解させる手法</title>
+      <link>https://zenn.dev/knowledgesense/articles/9b21b1868f588b</link>
+      <description>導入
+こんにちは、株式会社ナレッジセンスの須藤英寿です。
+今回は超長文をLLMが理解できるようにするための手法、「SRLM」について紹介します。
+https://arxiv.org/pdf/2603.15653
+
+
+ サマリー
+LLMの性能は日々向上していますが、超長文に対しては、そもそものモデルの入力限界の問題や、精度の問題で必要な情報を適切に取り出すことができなくなってしまいます。
+「SRLM」は長文に対しての検索手法を複数作成して、その結果の多数決、推論ステップでの確信度合い、そして、推論ステップの長さをもとに、最も確からしい情報を取り出す手法です。モデルが直接扱いきれない10... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/9b21b1868f588b</guid>
+      <pubDate>Tue, 24 Mar 2026 01:14:03 +0000</pubDate>
     </item>
     <item>
       <title>cmuxで変わるClaude Codeのマルチプロジェクト開発体験</title>
@@ -59,22 +63,6 @@ Claude Code、とても便利ですよね。でも使い込んでいくと、こ
       <pubDate>Sat, 21 Mar 2026 16:44:41 +0000</pubDate>
     </item>
     <item>
-      <title>自宅NAS用Webファイルマネージャーを1日でフル実装した話</title>
-      <link>https://zenn.dev/sutobu000/articles/f413d520677cb1</link>
-      <description>経緯
-一眼カメラで撮ったRAWファイルや動画を、余っていたノートPCに外付けHDDケースを繋いでストレージとして使っていました。NASと呼べるほどのものではなく、ただの据え置きストレージです。
-SMB共有でMacからアクセスしていたんですが、いくつか不満がありまして。
-
-iPhoneからNASのファイルを見たいけど、「ファイル」アプリ経由だと遅い
-200MBを超えるRAWファイルのプレビューにいちいち時間がかかる
-撮影情報やGPS情報をブラウザでサッと確認したい
-
-ということで、ブラウザベースのファイルマネージャーを作ってみることにしました。
-Claude Codeのエージェントチー... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sutobu000/articles/f413d520677cb1</guid>
-      <pubDate>Sat, 21 Mar 2026 15:22:48 +0000</pubDate>
-    </item>
-    <item>
       <title>AI 駆動開発全盛期を生き抜くために Markdown を「読む」ためだけのアプリ Arto を作った</title>
       <link>https://zenn.dev/lambdalisue/articles/introduce-arto-markdown-reader</link>
       <description>どうも、AI さんが書いた設計書とか実装計画書とかを読みまくって疲弊してるありすえです。
@@ -90,16 +78,23 @@ GitHub 上で README を読む。VSCode のプレビューで確認する。あ�
       <pubDate>Sun, 22 Mar 2026 11:28:24 +0000</pubDate>
     </item>
     <item>
-      <title>Unity: ECS の性能を引き出すデータ設計の勘所</title>
-      <link>https://zenn.dev/ruccho/articles/unity-ecs-data-optimization</link>
-      <description>2023 年に Entities 1.0 がリリースされてしばらく経ちました。現在は Unity 本体と Entities との統合が進められ、これまで ECS を触っていなかったユーザーにとっても ECS の存在感が強まっています。ECS のことを学ぶにはいい頃合いではないでしょうか。
+      <title>新しい財布を買ったので盗難対策でスマートタグを財布に入れる→その日のうちに車上荒らしに遭い財布を盗まれるもスマートタグを入れていたおかげで無事に戻ってきた</title>
+      <link>https://togetter.com/li/2678455</link>
+      <description>新しい財布にスマートタグを入れた直後、買い物中に車上荒らしで車内の財布を盗まれた。タグで自宅を特定して財布を回収、犯人は周囲に警察がいたため自首した。普段はスマホ決済で財布を車に置いた油断が原因で、短時間でも被害に遭うと学んだ。次から財布やタグ管理を徹底する。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2678455</guid>
+      <pubDate>Wed, 25 Mar 2026 03:47:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>究極のマルチパラダイム次世代プログラミング言語Flix</title>
+      <link>https://zenn.dev/ababup1192/articles/cf73b13eae82da</link>
+      <description>プログラミング言語Flixで実験的にWebフレームワークFlame_Flixを実装しましたという記事も書きましたので、よければ合わせてご覧ください。
 
-GDC Unity Product Update - YouTube より
-この記事では Unity の ECS を使ってパフォーマンスを引き出すためのデータ設計について考えていきます。
-!
-この記事では Unity 公式の Entities パッケージによる ECS 実装のことを単に ECS と呼称... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ruccho/articles/unity-ecs-data-optimization</guid>
-      <pubDate>Sun, 22 Mar 2026 10:37:07 +0000</pubDate>
+みなさんは、複雑な要件を前にして「自分の実力不足」を痛感したことはないでしょうか。
+「もっと効率的なデータ構造はないか」「このアルゴリズムをより簡潔に表現できないか」「並行処理のバグが取れない……」といった悩みは、エンジニアなら誰もが一度は通る道です。
+しかし、その悩みは本当にあなた自身の「実力不足」だけが原因でしょうか。もしかすると、今使っている言語のパラダイムが、その問題に対して「最適ではない」だけかもしれません。
+本記事で紹介する... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ababup1192/articles/cf73b13eae82da</guid>
+      <pubDate>Mon, 23 Mar 2026 13:28:08 +0000</pubDate>
     </item>
     <item>
       <title>Claude Codeに長期記憶を持たせたら、壁打ちの質が変わった</title>
@@ -111,6 +106,21 @@ CLAUDE.mdという仕組みがあります。プロジェクトのルートに�
 私はClaude Codeを開発だけでなく壁打ち相手と... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/noprogllama/articles/7c24b2c2410213</guid>
       <pubDate>Sun, 22 Mar 2026 09:18:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>人間のコードレビュー辞めにしたくてコードレビューエージェント作ってみた</title>
+      <link>https://zenn.dev/gvatech_blog/articles/8f0be815036eaa</link>
+      <description>はじめに
+AIコーディングエージェントを使って実装はめちゃくちゃ速くなりました。
+実装だけなら生産性は数十倍くらいになってると思います。
+そしてそれは自分以外の人も同じです。
+そのため、これまででは考えられないほどのスピードでプルリクが上がってきます。
+レビュー終わり、さてAIに指示出すか、と思ったら次のレビューが来ます。
+(少し盛ってますが共感できる人も多いはずですw)
+自分が担当しているプロダクトではCopilotによる自動レビューはそこそこ役には立っていますが、やはりプロダクト固有のルールや設計レベルの指摘、という観点でいうと物足りなさを感じています。
+そこで、コードレビューに... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/gvatech_blog/articles/8f0be815036eaa</guid>
+      <pubDate>Mon, 23 Mar 2026 01:27:05 +0000</pubDate>
     </item>
     <item>
       <title>Raspberry Piではじめる自宅サーバー入門（第2巻：運用編）</title>

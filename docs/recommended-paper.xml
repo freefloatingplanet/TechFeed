@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Mar 2026 07:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 07:08:17 +0000</lastBuildDate>
     <item>
-      <title>複数衛星軌道上サービスミッション計画のためのルートフェーズ分割符号化遺伝的アルゴリズム</title>
-      <link>https://arxiv.org/abs/2603.22210v1</link>
-      <description>本稿では、地球静止軌道における複数サービス機による軌道上サービスミッションの計画について考察する。このミッションでは、経路決定は時間依存の軌道位相と、厳格な推進剤およびミッション期間の制約と密接に結びついている。我々は、複数のサービス機（SSC）間で、目標順序、離散的な位相回転決定（すなわち、位相回転数／待機サイクル数）、および経路分割を同時に最適化する経路位相分割遺伝的アルゴリズム（RPS-GA）を提案する。RPSトリプレット染色体は、経路順序、位相回転、および経路分割を統一構造で符号化し、実行可能な複数サービス機経路ブロックを崩すことなく、分割を考慮した組み換えを可能にする。実行可能性は、制約を考慮した適合度関数によって強制され、総ΔVに基づいて実行可能な解をランク付けし、総ペナルティと不均衡ペナルティを使用して推進剤およびミッション期間の違反にペナルティを与える。この定式化は、違反が単一のサービス宇宙機 (SSC) に集中することを抑制します。実行可能な最良解が特定されると、それは後続の世代でも実行可能なものとして保持され、収束の安定性が向上します。このフレームワークには、分割を (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.22210v1</guid>
-      <pubDate>Mon, 23 Mar 2026 17:08:19 +0000</pubDate>
+      <title>データ較正済み点像分布関数予測：手法の概要とMUSE-NFMでの実証</title>
+      <link>https://arxiv.org/abs/2603.23339v1</link>
+      <description>点像分布関数 (PSF) の正確な知識は、測光や位置測定から光源の分離やデコンボリューションに至るまで、天文学における多くのデータ解析ステップの基礎となります。しかし、補償光学 (AO) 観測では、PSF は波長、視野位置、観測条件によって大きく変動するため、モデル化が困難です。従来の PSF 再構成 (PSF-R) は、完全な AO テレメトリと複雑なインフラストラクチャを必要とするため、特に断層撮影システムでは日常的な使用が制限されます。本稿では、完全な AO テレメトリに頼ることなく、AO 補正された PSF の空間的およびスペクトル的変動を捉える、高速で正確かつデータ較正された PSF モデリングのための実用的なフレームワークを提案します。このアプローチは、astro-TIPTOP にヒントを得たフーリエベースの PSF モデルに基づいています。入力として、モデルは ESO アーカイブから取得可能な物理的に意味のあるパラメータのコンパクトなセットのみを使用します。軽量のニューラルネットワークがこれらの入力を補正し、実際のデータとの最適な一致を実現します。 PSFモデルとエンドツ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.23339v1</guid>
+      <pubDate>Tue, 24 Mar 2026 15:40:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

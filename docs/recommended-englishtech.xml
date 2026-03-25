@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Mar 2026 07:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 07:08:22 +0000</lastBuildDate>
     <item>
-      <title>AWSがAurora DSQLを拡張、プレイグラウンド、新しいツール統合、およびドライバーコネクタを追加</title>
-      <link>https://www.infoq.com/news/2026/03/aurora-dsql-playground-updates/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Amazonは、使いやすさ、統合性、開発者ツールに重点を置いたAurora DSQLの複数のアップデートを発表しました。これらの改善点には、開発者が登録や関連費用なしでブラウザ上で直接データベースを探索および実験できる新しいインタラクティブなAurora DSQL Playgroundが含まれています。Renato Losio著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/aurora-dsql-playground-updates/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sun, 22 Mar 2026 08:59:00 +0000</pubDate>
+      <title>WorkOSがシリーズCラウンドで1億ドルを調達、企業価値は20億ドルに達する</title>
+      <link>https://workos.com/blog/series-c</link>
+      <description>WorkOSはシリーズC資金調達ラウンドで1億ドルを調達し、企業価値は20億ドルとなった。今回のラウンドはMeritechとSapphireが主導し、Audacious、Craft、Abstract、Greenoaksなどが参加した。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/series-c</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Netflixのグラフ抽象化の仕組み：650TBのグラフデータをグローバルにミリ秒単位で処理する</title>
@@ -44,6 +44,13 @@
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>記事：5000万人のユーザーを抱えるアプリでSwiftUIを採用した経験から得た教訓</title>
+      <link>https://www.infoq.com/articles/adopting-swiftui-at-scale/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ほとんどのSwiftUI教育コンテンツは、小規模なプロジェクトやサンプルアプリに焦点を当てており、20人以上のiOSエンジニアチームが開発する5000万人のユーザーを抱えるアプリにSwiftUIを導入することの意味を説明していません。この記事では、このギャップを埋め、チーム、アプリ、そしてユーザーの信頼を損なうことなく成功する方法を示します。執筆者：Jimit Patel (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/adopting-swiftui-at-scale/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
       <description>現代のアプリケーション開発では、複数のサードパーティサービスとの接続がますます重要になっています。Pipesは、OAuthフロー、トークン管理、プロバイダー設定を自動的に処理するように設計されています。 (source: WorkOS Blog)</description>
@@ -70,13 +77,6 @@
       <description>2026年3月16日の週は、Springエコシステムにおいて活発な動きが見られました。Spring Boot、Spring Security、Spring Integration、Spring AI、Spring AMQPの第3マイルストーンリリースに加え、Spring DataとSpring for Apache Kafkaの第2マイルストーンリリースが行われました。 執筆：Michael Redlich (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/spring-news-roundup-mar16-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 23 Mar 2026 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>QCon London 2026：Tansu.ioのご紹介 ― リーンオペレーションのためのKafkaの再考</title>
-      <link>https://www.infoq.com/news/2026/03/tansu-stateless-kafka-compatible/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ピーター・モーガンは、QCon LondonでTansuを発表した。Tansuは、オープンソースでKafka互換、ステートレス、リーダーレスのブローカーであり、ゼロまでスケール可能で、プラグイン可能なストレージ（S3、SQLite、Postgres）、ブローカー側のスキーマ検証、IcebergおよびDelta Lakeへの直接書き込み機能を備えている。Rustで記述されており、20MBのRAMを使用し、10ミリ秒で起動する。執筆：Steef-Jan Wiggers (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/tansu-stateless-kafka-compatible/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 21 Mar 2026 10:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
