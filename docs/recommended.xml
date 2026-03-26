@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 07:08:11 +0000</lastBuildDate>
-    <item>
-      <title>Claude Code を使いこなすために意識している 5つのこと</title>
-      <link>https://zenn.dev/sunagaku/articles/claude-code-usage-mindset</link>
-      <description>はじめに
-僕自身、普段から Claude Code を使い個人開発や業務に取り組んでいて、スキルの自作や Agent Teams の活用などを行っています。
-その中で、「Claude Code を上手く使えるかどうか」は、ツール自体の知識よりも、日々の向き合い方や考え方の部分が大きいと感じるようになりました。
-同じツールを使っていても、使い方が上手い人とそうでない人では、アウトプットの質とスピードに差が出ます。上手く活用出来ている人達から色々と学ばせて頂く中で、自分なりに意識するようになったことをまとめてみました。
-「もっとClaude Code を上手く使いたい」と感じている方の参... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sunagaku/articles/claude-code-usage-mindset</guid>
-      <pubDate>Mon, 23 Mar 2026 10:08:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Mar 2026 07:15:46 +0000</lastBuildDate>
     <item>
       <title>JavaScriptとTypeScriptのpolyglot</title>
       <link>https://zenn.dev/qnighy/articles/e65e0995161ade</link>
@@ -30,37 +19,55 @@ JavaScriptとして実行したときと、TypeS... (source: Zennのトレンド
       <pubDate>Mon, 23 Mar 2026 13:50:30 +0000</pubDate>
     </item>
     <item>
-      <title>【RAG】1000万文字の会話を理解させる手法</title>
-      <link>https://zenn.dev/knowledgesense/articles/9b21b1868f588b</link>
-      <description>導入
-こんにちは、株式会社ナレッジセンスの須藤英寿です。
-今回は超長文をLLMが理解できるようにするための手法、「SRLM」について紹介します。
-https://arxiv.org/pdf/2603.15653
+      <title>Microsoft Learn参照させるAgent Skillsあるじゃん！</title>
+      <link>https://zenn.dev/headwaters/articles/d4417cd67f7935</link>
+      <description>はじめに
+周りの方の業務におけるAI活用がすごい…！
+ヘッドウォータース初参画のプロジェクトで最初に感じた事です
+開発経験やAzureの知識が浅い事に不安を感じてましたが、そもそも業務、開発を進める上でのAI活用でも遅れてました😭
+なので、今回はAgent Skillsについて調べてみたのでまとめようと思います！
 
-
- サマリー
-LLMの性能は日々向上していますが、超長文に対しては、そもそものモデルの入力限界の問題や、精度の問題で必要な情報を適切に取り出すことができなくなってしまいます。
-「SRLM」は長文に対しての検索手法を複数作成して、その結果の多数決、推論ステップでの確信度合い、そして、推論ステップの長さをもとに、最も確からしい情報を取り出す手法です。モデルが直接扱いきれない10... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/9b21b1868f588b</guid>
-      <pubDate>Tue, 24 Mar 2026 01:14:03 +0000</pubDate>
+ Agent Skillsとは
+Agent Skillsとは、コーディングエージェントに特定の能力や知識、手順を持たせるための仕組みです。
+エージェントが実行できるタスクをモジュールとして定義し、必要なときに読み込んで利用できるようにすることで、より安定した動作と高い再利... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/d4417cd67f7935</guid>
+      <pubDate>Tue, 24 Mar 2026 10:32:04 +0000</pubDate>
     </item>
     <item>
-      <title>cmuxで変わるClaude Codeのマルチプロジェクト開発体験</title>
-      <link>https://zenn.dev/hummer/articles/cmux-ecosystem-claude-code</link>
-      <description>はじめに
-Claude Code、とても便利ですよね。でも使い込んでいくと、こんな不満が出てきませんか？
+      <title>8,706回のINSERTがCIを殺していた — Rails CI 55%短縮の全手順</title>
+      <link>https://zenn.dev/pepabo/articles/ci-speedup-rails-infra-and-app</link>
+      <description>CIが8分を超えていました。1日に10回pushすれば、待ち時間だけで80分になります。開発のテンポが悪くなるし、プルリクエスト（PR）のフィードバックループも遅れます。
+結果から書くと、CI実行時間を8m08s → 3m37sまで短縮できました。55%の削減です。しかも最初のPRではプロダクションコードの変更は一切なく、CI設定とDB設定だけで47%削減しています。
+この改善はRailsアプリのCI（GitHub Actions、matrix 5分割、MySQL使用）で行ったもので、似た構成のプロジェクトならそのまま適用できる部分が多いはずです。この記事では、インフラ層の最適化（第1... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pepabo/articles/ci-speedup-rails-infra-and-app</guid>
+      <pubDate>Tue, 24 Mar 2026 23:22:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ハーネスエンジニアリングで人間のコードレビューをやめる</title>
+      <link>https://zenn.dev/theaktky/articles/1c6c3b9333117c</link>
+      <description>人間のコードレビューをやめた
+正直に言うと、意思決定の要らないコード品質のチェックに関しては、もう人間のレビューは不要だと思っている。
+人間のレビュワーはコードベースの一部しか把握していないし、疲れるし、遠慮するし、見落とす。AIはコードベース全体を読んだ上で、一貫した基準で指摘を出してくれる。しかもAIが数分で書いたコードを、人間が数時間〜数日かけてレビューするのは、単純にボトルネックでしかない。
+hentekoさんのコードレビューをなくすことを考えるという記事にもすごく共感した。
+僕は今、コードレビューを完全にAIに任せている。この記事ではそのやり方を書く。
+
+ ハーネスエンジニ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/theaktky/articles/1c6c3b9333117c</guid>
+      <pubDate>Tue, 24 Mar 2026 05:44:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【技術屋の思考ログ #12】 結合テスト（後編）：テストデータはDBに直接投入してはいけない</title>
+      <link>https://zenn.dev/uragasumi25/articles/ed7e16d3724bf7</link>
+      <description>1. はじめに
+こんにちは。技術屋の思考ログ、第12回目です。
+前回は「品質はテストで作るものではなく、設計で作るもの」というお話をしました。今回はその続き、「結合テスト（後編）」 です。
+テスト設計を終え、いざテストを実施するとなった時に、現場で一番のボトルネックになるのが 「テストデータの準備」 です。今回は、間違えがちなテストデータの作り方と、テストケースの切り出し方、そしてテスト実施期間中に設計者が本当にやるべき泥臭い仕事についてお伝えしたいと思います。
 
 
-サブエージェントが何をやっているか見えない（Agent ツールはブラックボックス）
-
-複数プロジェクトをまたぐ作業がつらい（Claude Code はカレントディレクトリドリブンなので）
-別リポジトリでの作業を AI に任せたいけど、cd して別セッション立ち上げて…が面倒
-
-これらの課題を解決するために、cmux というターミナルマルチプレクサを軸にしたエコシステムを作りました。この記事では、そのエコシステムを構成する4つのリポジトリを紹介します。
-
- cmux とは（30... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hummer/articles/cmux-ecosystem-claude-code</guid>
-      <pubDate>Sat, 21 Mar 2026 16:44:41 +0000</pubDate>
+ 2. SQLで直接データを入れるのは「反則」
+結合テストにおいて、私が若手に口酸っぱく指導しているルールがあります。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/uragasumi25/articles/ed7e16d3724bf7</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:07 +0000</pubDate>
     </item>
     <item>
       <title>AI 駆動開発全盛期を生き抜くために Markdown を「読む」ためだけのアプリ Arto を作った</title>
@@ -78,49 +85,39 @@ GitHub 上で README を読む。VSCode のプレビューで確認する。あ�
       <pubDate>Sun, 22 Mar 2026 11:28:24 +0000</pubDate>
     </item>
     <item>
-      <title>新しい財布を買ったので盗難対策でスマートタグを財布に入れる→その日のうちに車上荒らしに遭い財布を盗まれるもスマートタグを入れていたおかげで無事に戻ってきた</title>
-      <link>https://togetter.com/li/2678455</link>
-      <description>新しい財布にスマートタグを入れた直後、買い物中に車上荒らしで車内の財布を盗まれた。タグで自宅を特定して財布を回収、犯人は周囲に警察がいたため自首した。普段はスマホ決済で財布を車に置いた油断が原因で、短時間でも被害に遭うと学んだ。次から財布やタグ管理を徹底する。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2678455</guid>
-      <pubDate>Wed, 25 Mar 2026 03:47:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>究極のマルチパラダイム次世代プログラミング言語Flix</title>
-      <link>https://zenn.dev/ababup1192/articles/cf73b13eae82da</link>
-      <description>プログラミング言語Flixで実験的にWebフレームワークFlame_Flixを実装しましたという記事も書きましたので、よければ合わせてご覧ください。
+      <title>外部サービスの利用ガイドラインを作ってわかった、エンジニアが見落としがちな法的観点</title>
+      <link>https://zenn.dev/knowledgework/articles/19e7bfba76582f</link>
+      <description>!
+この記事は、KNOWLEDGE WORK Blog Sprint 2026 Spring の 17 本目の記事です。
 
-みなさんは、複雑な要件を前にして「自分の実力不足」を痛感したことはないでしょうか。
-「もっと効率的なデータ構造はないか」「このアルゴリズムをより簡潔に表現できないか」「並行処理のバグが取れない……」といった悩みは、エンジニアなら誰もが一度は通る道です。
-しかし、その悩みは本当にあなた自身の「実力不足」だけが原因でしょうか。もしかすると、今使っている言語のパラダイムが、その問題に対して「最適ではない」だけかもしれません。
-本記事で紹介する... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ababup1192/articles/cf73b13eae82da</guid>
-      <pubDate>Mon, 23 Mar 2026 13:28:08 +0000</pubDate>
+「このSaaS、業務で使っていいですか？」
+チームメンバーからの質問に、即答できませんでした。ISMS？取ってる。SOC2？ある。セキュリティ的には問題なさそうだ。でも、それだけで「使っていい」と言い切れるのか──。
+SaaSプロダクトを開発する会社で、ISMS運用やセキュリティ施策を担当しています。生成AIをはじめとする外部サービスの利用が加速する中、利用可否を判断するためのガイドラインを法務と協力して策定しました。
+その過程で得た最大の学びは、 外部サービスの利... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/19e7bfba76582f</guid>
+      <pubDate>Wed, 25 Mar 2026 03:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeに長期記憶を持たせたら、壁打ちの質が変わった</title>
-      <link>https://zenn.dev/noprogllama/articles/7c24b2c2410213</link>
-      <description>どうも、AIエンジニアの@noprogllamaです。普段はAIで日常の仕組み化をしたり、投資×テクノロジーの実践知を発信したりしています。
-CLAUDE.mdという仕組みがあります。プロジェクトのルートに置いておくと、Claude Codeがセッション開始時に読み込んで、プロジェクトの方針や技術スタックを把握してくれます。開発に必要な情報はこれで十分伝わります。
-ですが、CLAUDE.mdには書けないものがあります。
-「前にこの方針で議論して、こういう理由で却下したよね」「あの時ハマったの、覚えてる？」——過去の会話の文脈です。
-私はClaude Codeを開発だけでなく壁打ち相手と... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/noprogllama/articles/7c24b2c2410213</guid>
-      <pubDate>Sun, 22 Mar 2026 09:18:21 +0000</pubDate>
+      <title>Claude Codeとの壁打ちが「積み上げ型」に変わった。長期記憶MCPサーバーの開発記</title>
+      <link>https://zenn.dev/kimmaru/articles/3dbd92dea9ede8</link>
+      <description>きっかけ
+Claude Codeを日常的に使っていると、ある問題にぶつかります。
+セッションが変わるたびに、前提の共有からやり直しになるのです。
+CLAUDE.mdにプロジェクトのルールを書くことはできます。しかし「先週の壁打ちで出た結論」「あのとき却下した設計案」といった動的な文脈は消えてしまいます。
+そんなとき、@noprogllamaさんの記事「Claude Codeに長期記憶を持たせたら、壁打ちの質が変わった」を読みました。SQLite 1ファイルでローカル完結、トークン消費ゼロ、FTS5＋ベクトル検索のハイブリッド。これだ、と思いました。
+ただ、自分の環境に合わせていくつか... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kimmaru/articles/3dbd92dea9ede8</guid>
+      <pubDate>Tue, 24 Mar 2026 15:40:45 +0000</pubDate>
     </item>
     <item>
-      <title>人間のコードレビュー辞めにしたくてコードレビューエージェント作ってみた</title>
-      <link>https://zenn.dev/gvatech_blog/articles/8f0be815036eaa</link>
+      <title>複数の AI コーディングツールで開発体験を揃える — メモリ・スキル・サブエージェントの共通化</title>
+      <link>https://zenn.dev/medley/articles/sharing-memory-skills-subagents-across-ai-tools</link>
       <description>はじめに
-AIコーディングエージェントを使って実装はめちゃくちゃ速くなりました。
-実装だけなら生産性は数十倍くらいになってると思います。
-そしてそれは自分以外の人も同じです。
-そのため、これまででは考えられないほどのスピードでプルリクが上がってきます。
-レビュー終わり、さてAIに指示出すか、と思ったら次のレビューが来ます。
-(少し盛ってますが共感できる人も多いはずですw)
-自分が担当しているプロダクトではCopilotによる自動レビューはそこそこ役には立っていますが、やはりプロダクト固有のルールや設計レベルの指摘、という観点でいうと物足りなさを感じています。
-そこで、コードレビューに... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/gvatech_blog/articles/8f0be815036eaa</guid>
-      <pubDate>Mon, 23 Mar 2026 01:27:05 +0000</pubDate>
+こんにちは、医科診療所プロダクト開発室 AI推進グループ所属の髙橋(@Wakeupsloth)です。最近の業務では、AIコーディングツールの環境整備をリードしています。
+メドレーでは、2025 年 9 月 8 日に公開した記事「数字でみるメドレーのAI活用 現在地点とこれから」で述べている通り、「AI for All」を合言葉に、全社的な AI 活用を推進しています[1]。その一環として、プロダクト開発ではツールに縛られない柔軟な選定を方針の 1 つとしています[1:1]。
+ツール選択の自由がある一方で、チーム運用で重要なのは、ツールが異なっていても開発体験に大きな差を生ま... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/medley/articles/sharing-memory-skills-subagents-across-ai-tools</guid>
+      <pubDate>Wed, 25 Mar 2026 06:02:06 +0000</pubDate>
     </item>
     <item>
       <title>Raspberry Piではじめる自宅サーバー入門（第2巻：運用編）</title>

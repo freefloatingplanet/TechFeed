@@ -7,13 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Mar 2026 07:08:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 07:15:52 +0000</lastBuildDate>
     <item>
-      <title>データ較正済み点像分布関数予測：手法の概要とMUSE-NFMでの実証</title>
-      <link>https://arxiv.org/abs/2603.23339v1</link>
-      <description>点像分布関数 (PSF) の正確な知識は、測光や位置測定から光源の分離やデコンボリューションに至るまで、天文学における多くのデータ解析ステップの基礎となります。しかし、補償光学 (AO) 観測では、PSF は波長、視野位置、観測条件によって大きく変動するため、モデル化が困難です。従来の PSF 再構成 (PSF-R) は、完全な AO テレメトリと複雑なインフラストラクチャを必要とするため、特に断層撮影システムでは日常的な使用が制限されます。本稿では、完全な AO テレメトリに頼ることなく、AO 補正された PSF の空間的およびスペクトル的変動を捉える、高速で正確かつデータ較正された PSF モデリングのための実用的なフレームワークを提案します。このアプローチは、astro-TIPTOP にヒントを得たフーリエベースの PSF モデルに基づいています。入力として、モデルは ESO アーカイブから取得可能な物理的に意味のあるパラメータのコンパクトなセットのみを使用します。軽量のニューラルネットワークがこれらの入力を補正し、実際のデータとの最適な一致を実現します。 PSFモデルとエンドツ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.23339v1</guid>
-      <pubDate>Tue, 24 Mar 2026 15:40:07 +0000</pubDate>
+      <title>ニューカッスル英語における自動音声認識バイアスの社会言語学的分析</title>
+      <link>https://arxiv.org/abs/2603.24549v1</link>
+      <description>自動音声認識（ASR）システムは、日常的なコミュニケーション、教育、医療、産業など幅広い分野で利用されていますが、特に方言が学習データに含まれる標準アクセントから大きく逸脱する場合、話者によって性能にばらつきが生じます。本研究では、現在の音声認識技術にとって課題となっているイングランド北東部の地域方言であるニューカッスル英語の社会言語学的分析を通して、ASRのバイアスを調査します。タイサイド英語時系列電子コーパス（DECTE）の自然発話データを用いて、最先端の市販ASRシステムの出力を評価し、3,000件以上の転写エラーを詳細に分析します。エラーは言語領域ごとに分類され、性別、年齢、社会経済的地位などの社会変数との関連で検討されます。さらに、特定の母音特徴に関する音響学的ケーススタディでは、段階的な音声学的変異が誤認識に直接的にどのように影響するかを示します。
+
+結果によると、エラーの大部分は音韻的変異によるものであり、母音の質や声門化といった方言特有の特徴、地域特有の語彙、非標準的な文法形式などが繰り返しエラーの原因となっていることが分かった。エラー率は社会集団によっても異なり、男性 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.24549v1</guid>
+      <pubDate>Wed, 25 Mar 2026 17:24:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

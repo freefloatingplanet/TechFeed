@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 07:08:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 07:15:50 +0000</lastBuildDate>
     <item>
-      <title>ビジネスパーソンや地方自治体職員必見！ 第1回「サテライトデータビジネス検定」の受験申込は3月18日（水）まで</title>
-      <link>https://sorabatake.jp/45219/</link>
-      <description>地球観測衛星から得られるデータ（衛星データ）のビジネス活用に必要な知識を体系的に学べるよう設計されたサテライトデータビジネス検定の受験申込が始まりました。合格発表日には解説イベントも準備されています。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45219/</guid>
-      <pubDate>Wed, 11 Mar 2026 01:30:39 +0000</pubDate>
+      <title>ロシアがISSへの補給船「プログレスMS-33」を打ち上げ　手動ドッキングを実施</title>
+      <link>https://sorae.info/ssn/20260326-progress-ms-33.html</link>
+      <description>ロシアの国営宇宙企業Roscosmos（ロスコスモス）は日本時間2026年3月22日に「Soyuz（ソユーズ）2.1a」ロケットの打ち上げを実施しました。搭載されていた補給船「Progress（プログレス）MS-33」は… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260326-progress-ms-33.html</guid>
+      <pubDate>Thu, 26 Mar 2026 01:38:14 +0000</pubDate>
     </item>
     <item>
       <title>宇宙で輝く「10」　ハッブル宇宙望遠鏡が捉えた相互作用銀河「Arp 147」</title>
@@ -30,18 +30,18 @@
       <pubDate>Tue, 24 Mar 2026 12:26:09 +0000</pubDate>
     </item>
     <item>
-      <title>近傍宇宙の膨張速度は従来の予測より遅いかも？　銀河群の動きをもとにハッブル定数を算出</title>
-      <link>https://sorae.info/astronomy/20260322-hubble-constant.html</link>
-      <description>この宇宙は約138億年前のビッグバンによって誕生して以来、現在に至るまで膨張を続けていることが知られています。この宇宙の膨張する速度を示す重要な指標が「ハッブル定数」です。 これまでの研究によれば、宇宙誕生から間もない頃… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260322-hubble-constant.html</guid>
-      <pubDate>Sun, 22 Mar 2026 12:02:04 +0000</pubDate>
-    </item>
-    <item>
       <title>衛星搭載アダプタの部材剥離が原因となった可能性高まる　JAXAがH3ロケット8号機打ち上げ失敗原因究明状況を報告</title>
       <link>https://sorae.info/space/20260324-h3f8.html</link>
       <description>JAXA（宇宙航空研究開発機構）は2026年3月24日に開催された第61回宇宙開発利用部会 調査・安全小委員会にて、「H3」ロケット8号機打ち上げ失敗の原因究明について、最新の状況を報告しました。 これまでの大まかな経緯… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260324-h3f8.html</guid>
       <pubDate>Tue, 24 Mar 2026 11:25:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>近傍宇宙の膨張速度は従来の予測より遅いかも？　銀河群の動きをもとにハッブル定数を算出</title>
+      <link>https://sorae.info/astronomy/20260322-hubble-constant.html</link>
+      <description>この宇宙は約138億年前のビッグバンによって誕生して以来、現在に至るまで膨張を続けていることが知られています。この宇宙の膨張する速度を示す重要な指標が「ハッブル定数」です。 これまでの研究によれば、宇宙誕生から間もない頃… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260322-hubble-constant.html</guid>
+      <pubDate>Sun, 22 Mar 2026 12:02:04 +0000</pubDate>
     </item>
     <item>
       <title>自然災害発生時の「より早く、より正しい情報の把握」を目指して。ゼンリン・JAXA・熊本県が連携、衛星データと地図データで建物被害推定の精度向上へ</title>

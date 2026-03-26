@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Mar 2026 07:08:22 +0000</lastBuildDate>
-    <item>
-      <title>WorkOSがシリーズCラウンドで1億ドルを調達、企業価値は20億ドルに達する</title>
-      <link>https://workos.com/blog/series-c</link>
-      <description>WorkOSはシリーズC資金調達ラウンドで1億ドルを調達し、企業価値は20億ドルとなった。今回のラウンドはMeritechとSapphireが主導し、Audacious、Craft、Abstract、Greenoaksなどが参加した。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/series-c</guid>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Netflixのグラフ抽象化の仕組み：650TBのグラフデータをグローバルにミリ秒単位で処理する</title>
-      <link>https://www.infoq.com/news/2026/03/netflix-graph-abstraction/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Netflixのエンジニアは、ミリ秒単位の低遅延で650TBのグラフデータを管理する高スループットプラットフォーム「Graph Abstraction」を構築しました。Netflix Gamingのソーシャルグラフから運用トポロジーグラフまで、幅広いサービスをサポートし、非同期レプリケーションによってグローバルな可用性を維持しています。この記事では、大規模パフォーマンスを実現するためのアーキテクチャ、キャッシング、およびトラバーサル設計について解説します。執筆：Leela Kumili (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/netflix-graph-abstraction/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 23 Mar 2026 13:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>JWKS開発者向けガイド</title>
-      <link>https://workos.com/blog/developers-guide-jwks</link>
-      <description>JSON Web Key Setsに関する完全なリファレンス：構造、アルゴリズム、エンドポイント、およびキーローテーション。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/developers-guide-jwks</guid>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Mar 2026 07:15:57 +0000</lastBuildDate>
     <item>
       <title>OktaからLaravelアプリにユーザーを同期する方法</title>
       <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
@@ -44,11 +23,25 @@
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>ロシアがサイバー犯罪フォーラム「リークベース」の所有者とされる人物を逮捕したと報じられている。</title>
+      <link>https://techcrunch.com/2026/03/25/russia-arrests-alleged-owner-of-cybercrime-forum-leakbase-report-says/</link>
+      <description>ロシアの国営メディアは、ロシア警察が大規模ハッキングフォーラム「LeakBase」の管理者を逮捕したと報じた。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/25/russia-arrests-alleged-owner-of-cybercrime-forum-leakbase-report-says/</guid>
+      <pubDate>Wed, 25 Mar 2026 16:36:54 +0000</pubDate>
+    </item>
+    <item>
       <title>記事：5000万人のユーザーを抱えるアプリでSwiftUIを採用した経験から得た教訓</title>
       <link>https://www.infoq.com/articles/adopting-swiftui-at-scale/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>ほとんどのSwiftUI教育コンテンツは、小規模なプロジェクトやサンプルアプリに焦点を当てており、20人以上のiOSエンジニアチームが開発する5000万人のユーザーを抱えるアプリにSwiftUIを導入することの意味を説明していません。この記事では、このギャップを埋め、チーム、アプリ、そしてユーザーの信頼を損なうことなく成功する方法を示します。執筆者：Jimit Patel (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/articles/adopting-swiftui-at-scale/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Load Balancer ControllerがKubernetes Gateway APIのサポート付きで一般提供開始</title>
+      <link>https://www.infoq.com/news/2026/03/aws-gateway-api-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>AWS は、ロードバランサー コントローラーで Kubernetes Gateway API の一般提供 (GA) サポートをリリースし、アノテーションベースの設定を廃止して、適切な検証機能を備えた型安全な CRD を使用できるようにしました。このリリースでは、Gateway API 仕様を通じて、L4 (NLB 経由の TCP/UDP) と L7 (ALB 経由の HTTP/gRPC) の両方のルーティングが処理されます。チームは、クラスター管理者権限なしで、名前空間をまたいだルーティング、証明書の自動検出、およびロールの分離を利用できます。執筆者: Steef-Jan Wiggers (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/aws-gateway-api-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 25 Mar 2026 10:36:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
@@ -58,25 +51,32 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Apple、Foundationモデルのコンテキストウィンドウ管理を改善</title>
-      <link>https://www.infoq.com/news/2026/03/apple-foundation-models-context/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>現在リリース候補版が公開されているiOS 26.4では、AppleのFoundation Models向けにコンテキストウィンドウ管理機能が改善され、開発者は4096トークンというコンテキストウィンドウの制限に対応しやすくなります。これにより、コンテキストウィンドウを制約のあるリソースとして扱うことが推奨され、リソースの少ないシステムにおけるメモリのように積極的に管理することで、その使用を最適化することが可能になります。執筆：Sergio De Simone (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/apple-foundation-models-context/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
+      <title>プレゼンテーション：パネルディスカッション：現代の脅威に対するセキュリティ対策</title>
+      <link>https://www.infoq.com/presentations/security-challenges/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>パネリストたちは、タイポスクワッティングからAIによる脆弱性まで、ソフトウェアサプライチェーンの脅威が劇的に増加している現状について議論します。そして、CI/CDパイプラインと外部依存関係に対してゼロトラストの考え方を採用することで、基本的なスキャンを超えた対策を講じる方法を説明します。執筆者：Sonya Moisset、Andra Lezza、Stefania Chaplin、Celine Pypaert、Emma Yuan Fang (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/security-challenges/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 25 Mar 2026 09:04:00 +0000</pubDate>
     </item>
     <item>
-      <title>Java ニュースまとめ: JDK 26、LibericaJDK、Payara プラットフォーム、GlassFish マイルストーン、ClawRunr</title>
-      <link>https://www.infoq.com/news/2026/03/java-news-roundup-mar16-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>2026年3月16日付けの今週のJavaニュースまとめでは、JDK 26のGAリリース、LibericaJDK 26、Payara Platformの2026年3月版、GlassFish 9.0の最初のマイルストーンリリース、Micronautのポイントリリース、そしてJobRunrが開発したJavaベースの新しいパーソナルAIアシスタント、ClawRunrの発表など、注目すべきニュースを取り上げています。執筆：Michael Redlich (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/java-news-roundup-mar16-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 23 Mar 2026 11:30:00 +0000</pubDate>
+      <title>QCon London 2026：次世代の10億人の開発者を支えるツール</title>
+      <link>https://www.infoq.com/news/2026/03/qcon-next-developers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>QCon London 2026において、Netlifyのプラットフォームエンジニアリングディレクターであるイヴァン・ザレア氏は、AIがウェブ開発に与える影響について議論し、プラットフォーム上の1,100万人のユーザーの中で、従来とは異なるタイプの開発者が急増していることを指摘した。彼は、開発者ツールの3つの柱として、専門知識の習得、センスの磨き上げ、そして先見の明の実践を挙げ、進化し続ける状況において、思慮深いアーキテクチャの必要性を強調した。ダニエル・カーティス著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/qcon-next-developers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 25 Mar 2026 15:22:00 +0000</pubDate>
     </item>
     <item>
-      <title>春のニュースまとめ：ブート、セキュリティ、統合、AI、AMQPの第3マイルストーンリリース</title>
-      <link>https://www.infoq.com/news/2026/03/spring-news-roundup-mar16-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>2026年3月16日の週は、Springエコシステムにおいて活発な動きが見られました。Spring Boot、Spring Security、Spring Integration、Spring AI、Spring AMQPの第3マイルストーンリリースに加え、Spring DataとSpring for Apache Kafkaの第2マイルストーンリリースが行われました。 執筆：Michael Redlich (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/spring-news-roundup-mar16-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 23 Mar 2026 02:30:00 +0000</pubDate>
+      <title>ソープオペラとTikTokのハイブリッドがどのようにして数十億ドル規模のビジネスになったのか</title>
+      <link>https://techcrunch.com/video/how-soap-opera-tiktok-hybrids-became-a-billion-dollar-business/</link>
+      <description>ここ数年、モバイルアプリの新たなカテゴリーが静かに、そして数十億ドル規模のビジネスへと急成長を遂げました。それは「マイクロドラマ」と呼ばれるもので、スマートフォンで縦向きに視聴することを前提とした、モバイルファーストの短編脚本付き番組です。ソープオペラとTikTokを掛け合わせたようなもので、億万長者との秘密のロマンス、口うるさい狼女の義母、そしてユーザーがタップし続けるように仕組まれたクリフハンガーなど、盛りだくさんの内容となっています。主要な[…] (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/video/how-soap-opera-tiktok-hybrids-became-a-billion-dollar-business/</guid>
+      <pubDate>Wed, 25 Mar 2026 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>.NET 11 Preview 2 が MAUI をパフォーマンス向上とプラットフォームの改良でアップデート</title>
+      <link>https://www.infoq.com/news/2026/03/net-11-preview2-maui/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>.NET 11 Preview 2 では、.NET マルチプラットフォーム アプリ UI (MAUI) に対する一連のターゲットを絞ったアップデートが導入され、Map コントロール、データバインディングのパフォーマンス、および API の一貫性に重点が置かれています。これらの変更は段階的かつ具体的で、XAML、データバインディング、およびコントロールの動作における特定のユーザビリティとパフォーマンスの問題に対処しています。執筆者: Edin Kapić (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/net-11-preview2-maui/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 25 Mar 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
