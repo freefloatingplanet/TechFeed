@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Mar 2026 07:15:57 +0000</lastBuildDate>
-    <item>
-      <title>OktaからLaravelアプリにユーザーを同期する方法</title>
-      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
-      <description>SCIM、Okta、WorkOSを使用して、わずか数行のコードでLaravelアプリに自動ユーザープロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Mar 2026 07:14:50 +0000</lastBuildDate>
     <item>
       <title>よくあるCORSエラーとその解決方法</title>
       <link>https://workos.com/blog/common-cors-errors-and-how-to-fix-them</link>
@@ -23,23 +16,16 @@
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ロシアがサイバー犯罪フォーラム「リークベース」の所有者とされる人物を逮捕したと報じられている。</title>
-      <link>https://techcrunch.com/2026/03/25/russia-arrests-alleged-owner-of-cybercrime-forum-leakbase-report-says/</link>
-      <description>ロシアの国営メディアは、ロシア警察が大規模ハッキングフォーラム「LeakBase」の管理者を逮捕したと報じた。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/25/russia-arrests-alleged-owner-of-cybercrime-forum-leakbase-report-says/</guid>
-      <pubDate>Wed, 25 Mar 2026 16:36:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>記事：5000万人のユーザーを抱えるアプリでSwiftUIを採用した経験から得た教訓</title>
-      <link>https://www.infoq.com/articles/adopting-swiftui-at-scale/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ほとんどのSwiftUI教育コンテンツは、小規模なプロジェクトやサンプルアプリに焦点を当てており、20人以上のiOSエンジニアチームが開発する5000万人のユーザーを抱えるアプリにSwiftUIを導入することの意味を説明していません。この記事では、このギャップを埋め、チーム、アプリ、そしてユーザーの信頼を損なうことなく成功する方法を示します。執筆者：Jimit Patel (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/adopting-swiftui-at-scale/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
+      <title>OktaからLaravelアプリにユーザーを同期する方法</title>
+      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
+      <description>SCIM、Okta、WorkOSを使用して、わずか数行のコードでLaravelアプリに自動ユーザープロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AWS Load Balancer ControllerがKubernetes Gateway APIのサポート付きで一般提供開始</title>
       <link>https://www.infoq.com/news/2026/03/aws-gateway-api-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AWS は、ロードバランサー コントローラーで Kubernetes Gateway API の一般提供 (GA) サポートをリリースし、アノテーションベースの設定を廃止して、適切な検証機能を備えた型安全な CRD を使用できるようにしました。このリリースでは、Gateway API 仕様を通じて、L4 (NLB 経由の TCP/UDP) と L7 (ALB 経由の HTTP/gRPC) の両方のルーティングが処理されます。チームは、クラスター管理者権限なしで、名前空間をまたいだルーティング、証明書の自動検出、およびロールの分離を利用できます。執筆者: Steef-Jan Wiggers (source: InfoQ)</description>
+      <description>AWS は、ロードバランサー コントローラーで Kubernetes Gateway API の一般提供 (GA) サポートをリリースし、アノテーションベースの設定を廃止して、適切な検証機能を備えた型安全な CRD を採用しました。このリリースでは、Gateway API 仕様を通じて、L4 (NLB 経由の TCP/UDP) と L7 (ALB 経由の HTTP/gRPC) の両方のルーティングが処理されます。チームは、クラスター管理者権限なしで、名前空間をまたいだルーティング、証明書の自動検出、およびロールの分離を利用できます。執筆者: Steef-Jan Wiggers (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/aws-gateway-api-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 25 Mar 2026 10:36:00 +0000</pubDate>
     </item>
@@ -65,11 +51,18 @@
       <pubDate>Wed, 25 Mar 2026 15:22:00 +0000</pubDate>
     </item>
     <item>
-      <title>ソープオペラとTikTokのハイブリッドがどのようにして数十億ドル規模のビジネスになったのか</title>
-      <link>https://techcrunch.com/video/how-soap-opera-tiktok-hybrids-became-a-billion-dollar-business/</link>
-      <description>ここ数年、モバイルアプリの新たなカテゴリーが静かに、そして数十億ドル規模のビジネスへと急成長を遂げました。それは「マイクロドラマ」と呼ばれるもので、スマートフォンで縦向きに視聴することを前提とした、モバイルファーストの短編脚本付き番組です。ソープオペラとTikTokを掛け合わせたようなもので、億万長者との秘密のロマンス、口うるさい狼女の義母、そしてユーザーがタップし続けるように仕組まれたクリフハンガーなど、盛りだくさんの内容となっています。主要な[…] (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/video/how-soap-opera-tiktok-hybrids-became-a-billion-dollar-business/</guid>
-      <pubDate>Wed, 25 Mar 2026 15:30:00 +0000</pubDate>
+      <title>グリーンIT：AIが環境に与える影響を軽減する方法</title>
+      <link>https://www.infoq.com/news/2026/03/green-IT-AI-impact/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>AIはグリーンITにとって大きな課題となっている。各クエリは膨大なエネルギーを消費し、GPUチップの寿命はわずか2～3年で、コストはユーザーには見えない。EU AI法のような規制枠組みは執行面で不十分だと、ルディ・アクエ氏は述べた。彼女は講演「グリーンITを始めた頃に知っておきたかったこと」の中で、持続可能性を設計上の制約として用いたモデル圧縮、量子化、そして斬新なアーキテクチャについて発表した。ベン・リンダース著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/green-IT-AI-impact/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 26 Mar 2026 11:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>記事：AIスピードで実現するアーキテクチャガバナンス</title>
+      <link>https://www.infoq.com/articles/architectural-governance-ai-speed/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ジェネレーションAI時代において、コードはコモディティ化されているが、整合性はそうではない。従来のレビュー委員会は、AIが生成する出力に対応できない。本稿では、「宣言型アーキテクチャ」を探求し、ADR（自動設計ルール）とイベントモデルを自動化されたガードレールへと変革する。「左寄せ」の考え方を超え、適合する経路が抵抗の少ない経路となるモデルへと移行することで、一貫性を損なうことなく分散型ガバナンスを実現できる。執筆者：Kyle Howard、Christian Johansen、Dana Katzenelson、Brian Rhoten、Warren Gray (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/architectural-governance-ai-speed/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 26 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>.NET 11 Preview 2 が MAUI をパフォーマンス向上とプラットフォームの改良でアップデート</title>
@@ -77,6 +70,13 @@
       <description>.NET 11 Preview 2 では、.NET マルチプラットフォーム アプリ UI (MAUI) に対する一連のターゲットを絞ったアップデートが導入され、Map コントロール、データバインディングのパフォーマンス、および API の一貫性に重点が置かれています。これらの変更は段階的かつ具体的で、XAML、データバインディング、およびコントロールの動作における特定のユーザビリティとパフォーマンスの問題に対処しています。執筆者: Edin Kapić (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/net-11-preview2-maui/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 25 Mar 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>プレゼンテーション：オープンソース、コミュニティ、そしてその影響：MongoDBの物語</title>
+      <link>https://www.infoq.com/presentations/MongoDB-evolution/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>アンドリュー・デビッドソンとアクシャット・ヴィグは、トランザクションデータベース市場を革新する道のりについて語ります。彼らは、ドキュメントモデルが現代のアプリケーションにとって「バックミンスター・フラー」的な瞬間となった理由を説明し、「ウェブスケール」のミームからミッションクリティカルなワークロードへのスケーリングに関する教訓を共有します。リーダーは、運用上の卓越性、制御よりも利便性を収益化する方法、そしてオープンソース競争を乗り切る方法について学ぶことができます。執筆：アクシャット・ヴィグ、アンドリュー・デビッドソン (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/MongoDB-evolution/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 26 Mar 2026 09:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

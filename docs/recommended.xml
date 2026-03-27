@@ -7,40 +7,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 07:15:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 07:14:38 +0000</lastBuildDate>
     <item>
-      <title>JavaScriptとTypeScriptのpolyglot</title>
-      <link>https://zenn.dev/qnighy/articles/e65e0995161ade</link>
-      <description>Polyglot とは、複数のプログラミング言語 (あるいはより一般に、何らかのファイルフォーマット) で解釈できるプログラムのことで、多言語話者にちなんでこの名前がつけられています。Polyglotはしばしば、プログラミングに関する非実用的な探求として遊ばれます。
-TypeScriptはJavaScriptのスーパーセットであるため、JavaScriptコードは自然にJavaScriptとTypeScriptコードのpolyglotとみなせます。しかしこれでは面白くないので、本稿では以下の条件を満たすpolyglotを提示します。
+      <title>毎回ルールは書かなくていい。GitHub Copilot Agent Skillsで統一感を持たせる</title>
+      <link>https://zenn.dev/idnet/articles/d54a4952b7c8bd</link>
+      <description>GitHub Copilot を使っている方は、ぜひAgent Skillsを使ってほしいです。
+SKILL.md にルールを書いておけば、依頼のたびに説明し直す手間を減らせますよ！！
+こんにちは。システム開発の経験をもとに、現場で使える AI 活用を発信している KSAN です。
+Copilot にコード生成や文書作成を頼んでいると、こんなことはありませんか。
 
-JavaScriptとして実行したときと、TypeS... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/qnighy/articles/e65e0995161ade</guid>
-      <pubDate>Mon, 23 Mar 2026 13:50:30 +0000</pubDate>
+前回と似た依頼なのに、出力の雰囲気が変わる
+新規チャットを開くたびに、プロジェクトのルールを説明している
+チーム内でアウトプットのばらつきが出る
+
+これ、毎回やってないでしょうか。
+せっかく Copilot で効率化を図りたい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/idnet/articles/d54a4952b7c8bd</guid>
+      <pubDate>Wed, 25 Mar 2026 08:41:34 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft Learn参照させるAgent Skillsあるじゃん！</title>
-      <link>https://zenn.dev/headwaters/articles/d4417cd67f7935</link>
+      <title>100ms以内で動作するVLAモデルの実車適用</title>
+      <link>https://zenn.dev/turing_motors/articles/f5e44178d78153</link>
       <description>はじめに
-周りの方の業務におけるAI活用がすごい…！
-ヘッドウォータース初参画のプロジェクトで最初に感じた事です
-開発経験やAzureの知識が浅い事に不安を感じてましたが、そもそも業務、開発を進める上でのAI活用でも遅れてました😭
-なので、今回はAgent Skillsについて調べてみたのでまとめようと思います！
+チューリングのVLAチームでエンジニアをしている横井です。経済産業省およびNEDOが推進するプロジェクト「GENIAC」第3期の支援のもと、自社で開発したVLM「Heron」を土台に将来の走行軌跡を出力する 自動運転VLAモデル「DriveHeron」 をチームで開発しました。本記事では、DriveHeronを自動運転システムに統合し、リアルタイムで車両を制御できるようにした取り組みを紹介します。
+https://youtu.be/bv90MHM74IY
 
- Agent Skillsとは
-Agent Skillsとは、コーディングエージェントに特定の能力や知識、手順を持たせるための仕組みです。
-エージェントが実行できるタスクをモジュールとして定義し、必要なときに読み込んで利用できるようにすることで、より安定した動作と高い再利... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/d4417cd67f7935</guid>
-      <pubDate>Tue, 24 Mar 2026 10:32:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>8,706回のINSERTがCIを殺していた — Rails CI 55%短縮の全手順</title>
-      <link>https://zenn.dev/pepabo/articles/ci-speedup-rails-infra-and-app</link>
-      <description>CIが8分を超えていました。1日に10回pushすれば、待ち時間だけで80分になります。開発のテンポが悪くなるし、プルリクエスト（PR）のフィードバックループも遅れます。
-結果から書くと、CI実行時間を8m08s → 3m37sまで短縮できました。55%の削減です。しかも最初のPRではプロダクションコードの変更は一切なく、CI設定とDB設定だけで47%削減しています。
-この改善はRailsアプリのCI（GitHub Actions、matrix 5分割、MySQL使用）で行ったもので、似た構成のプロジェクトならそのまま適用できる部分が多いはずです。この記事では、インフラ層の最適化（第1... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pepabo/articles/ci-speedup-rails-infra-and-app</guid>
-      <pubDate>Tue, 24 Mar 2026 23:22:05 +0000</pubDate>
+ E2EモデルからVLAモデルへ
+自動運転で難しいのはカメラに映る情報を解釈し、交通規範や状況に照らして次の行動へ落と... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/f5e44178d78153</guid>
+      <pubDate>Thu, 26 Mar 2026 02:00:21 +0000</pubDate>
     </item>
     <item>
       <title>ハーネスエンジニアリングで人間のコードレビューをやめる</title>
@@ -56,48 +51,6 @@ hentekoさんのコードレビューをなくすことを考えるという記�
       <pubDate>Tue, 24 Mar 2026 05:44:34 +0000</pubDate>
     </item>
     <item>
-      <title>【技術屋の思考ログ #12】 結合テスト（後編）：テストデータはDBに直接投入してはいけない</title>
-      <link>https://zenn.dev/uragasumi25/articles/ed7e16d3724bf7</link>
-      <description>1. はじめに
-こんにちは。技術屋の思考ログ、第12回目です。
-前回は「品質はテストで作るものではなく、設計で作るもの」というお話をしました。今回はその続き、「結合テスト（後編）」 です。
-テスト設計を終え、いざテストを実施するとなった時に、現場で一番のボトルネックになるのが 「テストデータの準備」 です。今回は、間違えがちなテストデータの作り方と、テストケースの切り出し方、そしてテスト実施期間中に設計者が本当にやるべき泥臭い仕事についてお伝えしたいと思います。
-
-
- 2. SQLで直接データを入れるのは「反則」
-結合テストにおいて、私が若手に口酸っぱく指導しているルールがあります。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/uragasumi25/articles/ed7e16d3724bf7</guid>
-      <pubDate>Tue, 24 Mar 2026 09:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 駆動開発全盛期を生き抜くために Markdown を「読む」ためだけのアプリ Arto を作った</title>
-      <link>https://zenn.dev/lambdalisue/articles/introduce-arto-markdown-reader</link>
-      <description>どうも、AI さんが書いた設計書とか実装計画書とかを読みまくって疲弊してるありすえです。
-突然ですが、皆さんは Markdown をどうやって 読んで いますか？
-GitHub 上で README を読む。VSCode のプレビューで確認する。あるいは生のテキストをそのまま目で追う。大体この辺りだと思います。僕もずっとそうでした。でも、ずっとモヤモヤしていたんですよね。
-
-ブラウザで GitHub を開くとタブが際限なく増殖する
-ローカルの Markdown をサクッと綺麗に読める手段が意外とない
-オフラインで設計ドキュメントを読み返したいときに困る
-
-「Markdown を 書く ため... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lambdalisue/articles/introduce-arto-markdown-reader</guid>
-      <pubDate>Sun, 22 Mar 2026 11:28:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>外部サービスの利用ガイドラインを作ってわかった、エンジニアが見落としがちな法的観点</title>
-      <link>https://zenn.dev/knowledgework/articles/19e7bfba76582f</link>
-      <description>!
-この記事は、KNOWLEDGE WORK Blog Sprint 2026 Spring の 17 本目の記事です。
-
-「このSaaS、業務で使っていいですか？」
-チームメンバーからの質問に、即答できませんでした。ISMS？取ってる。SOC2？ある。セキュリティ的には問題なさそうだ。でも、それだけで「使っていい」と言い切れるのか──。
-SaaSプロダクトを開発する会社で、ISMS運用やセキュリティ施策を担当しています。生成AIをはじめとする外部サービスの利用が加速する中、利用可否を判断するためのガイドラインを法務と協力して策定しました。
-その過程で得た最大の学びは、 外部サービスの利... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/19e7bfba76582f</guid>
-      <pubDate>Wed, 25 Mar 2026 03:00:10 +0000</pubDate>
-    </item>
-    <item>
       <title>Claude Codeとの壁打ちが「積み上げ型」に変わった。長期記憶MCPサーバーの開発記</title>
       <link>https://zenn.dev/kimmaru/articles/3dbd92dea9ede8</link>
       <description>きっかけ
@@ -110,14 +63,42 @@ CLAUDE.mdにプロジェクトのルールを書くことはできます。し�
       <pubDate>Tue, 24 Mar 2026 15:40:45 +0000</pubDate>
     </item>
     <item>
-      <title>複数の AI コーディングツールで開発体験を揃える — メモリ・スキル・サブエージェントの共通化</title>
-      <link>https://zenn.dev/medley/articles/sharing-memory-skills-subagents-across-ai-tools</link>
-      <description>はじめに
-こんにちは、医科診療所プロダクト開発室 AI推進グループ所属の髙橋(@Wakeupsloth)です。最近の業務では、AIコーディングツールの環境整備をリードしています。
-メドレーでは、2025 年 9 月 8 日に公開した記事「数字でみるメドレーのAI活用 現在地点とこれから」で述べている通り、「AI for All」を合言葉に、全社的な AI 活用を推進しています[1]。その一環として、プロダクト開発ではツールに縛られない柔軟な選定を方針の 1 つとしています[1:1]。
-ツール選択の自由がある一方で、チーム運用で重要なのは、ツールが異なっていても開発体験に大きな差を生ま... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/medley/articles/sharing-memory-skills-subagents-across-ai-tools</guid>
-      <pubDate>Wed, 25 Mar 2026 06:02:06 +0000</pubDate>
+      <title>なぜ、Excel管理表は崩壊するのか ー 記録する表と、見るための表を分けよ</title>
+      <link>https://zenn.dev/tokium_dev/articles/7fd20a0f69127d</link>
+      <description>!
+この記事は、こちらの記事のExcelバージョンです。
+
+https://zenn.dev/tokium_dev/articles/5c9e322cdee796
+列が横にどこまでも伸び、大半のセルが空白。
+右端の方には「育休開始日・2回目」という列がひっそりと佇んでいる。現在の状況という列には、在籍中・入社前・育休中・退職済みが混在している。
+誰かが更新したらしいが、誰がいつ何を変えたのかわからない。
+引継ぎのたびに繰り返される会話がある。
+——前任者が作ったやつで、自分もよくわからなくて……
+これは、あなたがズボラだからでも、前任者が悪かったからでもありません。
+管理表のつくり方に、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/7fd20a0f69127d</guid>
+      <pubDate>Thu, 26 Mar 2026 00:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OSSは境界設計で強くなる ― 隙間家具OSSという設計思想 - Findy Media</title>
+      <link>https://findy-code.io/media/articles/codesidechat-fujiwara</link>
+      <description>本記事では、「OSS応援企画」として記事の最初と最後に「応援ボタン」を設置しています。1回の応援につき、Findyが100円をOSS団体などへ寄付し、エンジニアの成長とOSSの発展を応援する取り組みです。開発者の想いや取り組みに共感した気持ちが、OSSの支援にもつながっていく、そんな前向きな循環をFindyは目指していま... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://findy-code.io/media/articles/codesidechat-fujiwara</guid>
+      <pubDate>Thu, 26 Mar 2026 23:59:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>なぜ最近のWEB開発は毎回アプリケーション基盤を作り直してしまうのか</title>
+      <link>https://zenn.dev/o_sup/articles/49d0c7f8d1ebc4</link>
+      <description>30年近くWEB開発の現場にいます。
+HTMLベースで、ページ単位の見積もりが行われる時代に、PHPを用いてヘッダやフッタ、メニューを強化しつつ、DBと連携して一気に開発スピードが上がり、保守工数が減りました。
+30年ほど前、趣味でビリヤードの対戦記録を残すサイトを作った時に、同じような表を&lt;TABLE&gt;&lt;TR&gt;&lt;TD&gt;・・・と書くのが面倒でした。
+なので、全てデータ化しました。
+ユーザが増えたときはボタン１つで各自のページが作られるようにしました。
+そういった経験から、如何に楽して手間のかからないWEBシステムを作るかを考えて来ました。
+
+ 最近... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/o_sup/articles/49d0c7f8d1ebc4</guid>
+      <pubDate>Wed, 25 Mar 2026 11:03:27 +0000</pubDate>
     </item>
     <item>
       <title>Raspberry Piではじめる自宅サーバー入門（第2巻：運用編）</title>
@@ -133,6 +114,42 @@ CLAUDE.mdにプロジェクトのルールを書くことはできます。し�
 本書は「Raspberry Piではじめる自宅サーバー入門」シリーズの第2巻（運用編）です。サーバーの「守り」と「つながり」を、ここから固めていき (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/murasanlab/books/10b6b15e557685</guid>
       <pubDate>Mon, 23 Mar 2026 10:21:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>ドメイン駆動設計を1から勉強してみた感想</title>
+      <link>https://zenn.dev/aew2sbee/articles/domain-driven-design-tutorial</link>
+      <description>🌱 はじめに
+開発経験も4年ほど経過し、仕様書の要件を満たすコーディングを行えるようになりました。
+しかし、運用フェーズに進むと当然、不具合改修や要望変更が発生します。
+その時に、機能単位や役割単位にディレクトリ構成やファイル管理をしているのに
+
+「機能が一か所にまとまっているけど、ファイル修正がしにくい」
+「役割の範囲がどんどん肥大化する」
+
+というトラブルに最近悩まされています。
+
+その時に、ドメイン駆動設計（DDD）の書籍に出会い、
+「これで解決するのでは？」と軽い気持ちで手に取りました。
+これが個人的には大正解で、先ほどのトラブルが解決する兆しが見えたため、
+1から勉強してみ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aew2sbee/articles/domain-driven-design-tutorial</guid>
+      <pubDate>Wed, 25 Mar 2026 05:38:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>私のClaudeCodeによるアプリ実装方法の紹介</title>
+      <link>https://zenn.dev/trkbt10/articles/a6618a35dd49f8</link>
+      <description>ClaudeCodeが誕生してまだ一年と、少しであるが、コーディングを取り巻く環境は激変した
+とはいえ、激変したのはコーディングのみであり、どう作るのかという点についてはいまだに人間に委ねられている
+現段階で、エージェントをハンドリングするというノウハウの共有は、決して無駄ではないはずだ
+というわけで、私がエージェントを利用してソフトウェアを構築する際の手順について紹介したい
+当然、これは私の使い方であり、決して正解を意味しないことは注意されたい
+私はこれで作った、あなたはどうか、以上の意味はない
+
+ 作るものを考える
+まずはこれがないと始まらない
+とりあえず、MBTIをモチーフにしよう... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/trkbt10/articles/a6618a35dd49f8</guid>
+      <pubDate>Thu, 26 Mar 2026 10:43:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

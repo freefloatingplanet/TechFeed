@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 07:15:50 +0000</lastBuildDate>
-    <item>
-      <title>ロシアがISSへの補給船「プログレスMS-33」を打ち上げ　手動ドッキングを実施</title>
-      <link>https://sorae.info/ssn/20260326-progress-ms-33.html</link>
-      <description>ロシアの国営宇宙企業Roscosmos（ロスコスモス）は日本時間2026年3月22日に「Soyuz（ソユーズ）2.1a」ロケットの打ち上げを実施しました。搭載されていた補給船「Progress（プログレス）MS-33」は… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260326-progress-ms-33.html</guid>
-      <pubDate>Thu, 26 Mar 2026 01:38:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>宇宙で輝く「10」　ハッブル宇宙望遠鏡が捉えた相互作用銀河「Arp 147」</title>
-      <link>https://sorae.info/astronomy/20260318-arp-147.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡（HST）が観測した相互作用銀河「Arp 147」。 くじら座の方向、地球から約4億3000万光年先にあります。 宇宙空間に浮かぶ2つの銀河が、まるで数字の「10」を描き出しているかのような非… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260318-arp-147.html</guid>
-      <pubDate>Wed, 18 Mar 2026 12:29:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Mar 2026 07:14:43 +0000</lastBuildDate>
     <item>
       <title>恒星を周回しない浮遊惑星の衛星でも40億年以上にわたって液体の水を維持できる可能性</title>
       <link>https://sorae.info/astronomy/20260324-habitability-of-exomoon.html</link>
@@ -65,6 +51,13 @@
       <pubDate>Mon, 23 Mar 2026 23:00:27 +0000</pubDate>
     </item>
     <item>
+      <title>どちらが火星でどちらが地球？　スコリア丘が火星の火山活動の歴史を解き明かす手がかりに</title>
+      <link>https://sorae.info/astronomy/20260327-scoria-cones-on-mars.html</link>
+      <description>まずは、NASA（アメリカ航空宇宙局）が2026年3月2日に公開した2枚の画像をご覧ください。一方は地球、もう一方は火星の地表を宇宙から捉えた画像です。よく似た風景が広がっていますが、どちらが地球でどちらが火星か、見分け… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260327-scoria-cones-on-mars.html</guid>
+      <pubDate>Fri, 27 Mar 2026 02:16:20 +0000</pubDate>
+    </item>
+    <item>
       <title>「生まれたての惑星はふわふわ」という証拠を発見　2000万歳の4つの惑星の質量を正確に測定</title>
       <link>https://sorae.info/astronomy/20260320-young-planet-low-density.html</link>
       <description>「生まれたての惑星はふわふわ」であるという説があります。これは、惑星がどのように誕生・進化するかの理論モデルを基にして長年予測されていました。しかし、誕生から間もない惑星の発見数が少ない上に、詳細な観測が難しいことから、… (source: sorae 宇宙へのポータルサイト)</description>
@@ -77,6 +70,13 @@
       <description>2026年3月10日に開催されたイベント「宇宙大工サミット 2026」で語られた宇宙開発と大工の意外な共通点。また、イベントで見えたこれからの宇宙開発と他業界が連携するうえでのヒントについてまとめています。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45353/</guid>
       <pubDate>Sun, 22 Mar 2026 23:00:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>「進取の精神で空振りを恐れない」IT、自動車、食品加工…異分野が交わる “宇宙”の化学反応。福岡県商工部長に聞く、県内宇宙ビジネスの現在地</title>
+      <link>https://sorabatake.jp/45406/</link>
+      <description>QPS研究所の衛星打ち上げ成功や上場を契機に、九州、特に福岡県では宇宙ビジネスへの関心と参入の動きが広がっています。福岡県商工部長の見雪和之さんに県内の宇宙ビジネスの動向や今後の展望についてお話を伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45406/</guid>
+      <pubDate>Thu, 26 Mar 2026 23:00:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
