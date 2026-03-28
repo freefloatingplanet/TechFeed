@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Mar 2026 07:14:50 +0000</lastBuildDate>
-    <item>
-      <title>よくあるCORSエラーとその解決方法</title>
-      <link>https://workos.com/blog/common-cors-errors-and-how-to-fix-them</link>
-      <description>クロスオリジンリクエストを扱う開発者のための実践ガイド。あらゆる厄介なコンソールメッセージと、それらを解決するためのヘッダーを網羅。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/common-cors-errors-and-how-to-fix-them</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Mar 2026 07:04:22 +0000</lastBuildDate>
     <item>
       <title>OktaからLaravelアプリにユーザーを同期する方法</title>
       <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
@@ -23,11 +16,11 @@
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AWS Load Balancer ControllerがKubernetes Gateway APIのサポート付きで一般提供開始</title>
-      <link>https://www.infoq.com/news/2026/03/aws-gateway-api-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AWS は、ロードバランサー コントローラーで Kubernetes Gateway API の一般提供 (GA) サポートをリリースし、アノテーションベースの設定を廃止して、適切な検証機能を備えた型安全な CRD を採用しました。このリリースでは、Gateway API 仕様を通じて、L4 (NLB 経由の TCP/UDP) と L7 (ALB 経由の HTTP/gRPC) の両方のルーティングが処理されます。チームは、クラスター管理者権限なしで、名前空間をまたいだルーティング、証明書の自動検出、およびロールの分離を利用できます。執筆者: Steef-Jan Wiggers (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/aws-gateway-api-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 25 Mar 2026 10:36:00 +0000</pubDate>
+      <title>実験的なWebインストールAPIは、アプリケーションの発見と配布の改善を目指しています。</title>
+      <link>https://www.infoq.com/news/2026/03/web-install-api-origin-trial/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>新しい実験的なWebインストールAPIが、Microsoft EdgeとChromeのOrigin Trialで利用可能になりました。このAPIを使用すると、開発者はアプリ内でのユーザー操作からPWAのインストールプロンプトをプログラムでトリガーできます。このAPIは、特にブラウザのアドレスバーにあるインストールアイコンを知らないユーザーや、通常アプリストアを利用しないユーザーにとって、ソフトウェアの発見と配布を簡素化することを目的としています。ブルーノ・クーリオル著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/web-install-api-origin-trial/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 27 Mar 2026 22:50:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
@@ -37,18 +30,25 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：パネルディスカッション：現代の脅威に対するセキュリティ対策</title>
-      <link>https://www.infoq.com/presentations/security-challenges/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>パネリストたちは、タイポスクワッティングからAIによる脆弱性まで、ソフトウェアサプライチェーンの脅威が劇的に増加している現状について議論します。そして、CI/CDパイプラインと外部依存関係に対してゼロトラストの考え方を採用することで、基本的なスキャンを超えた対策を講じる方法を説明します。執筆者：Sonya Moisset、Andra Lezza、Stefania Chaplin、Celine Pypaert、Emma Yuan Fang (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/security-challenges/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 25 Mar 2026 09:04:00 +0000</pubDate>
+      <title>Agodaのストアフロント内部：DNSベースの負荷分散を改善するためのレイテンシ認識型リバースプロキシ</title>
+      <link>https://www.infoq.com/news/2026/03/agoda-rust-reverse-proxy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Agodaのエンジニアは、大規模オブジェクトストレージシステム全体で負荷分散、リクエストルーティング、および可観測性を向上させる、RustベースのS3互換リバースプロキシであるStorefrontを開発しました。このプロキシは、DNSベースの分散制限に対処し、レイテンシを考慮したルーティング、データセンター間の最適化、I/O保護、認証情報不要の認証を実装し、OpenTelemetryを介してテレメトリを公開します。Leela Kumili著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/agoda-rust-reverse-proxy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 27 Mar 2026 14:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>QCon London 2026：次世代の10億人の開発者を支えるツール</title>
-      <link>https://www.infoq.com/news/2026/03/qcon-next-developers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>QCon London 2026において、Netlifyのプラットフォームエンジニアリングディレクターであるイヴァン・ザレア氏は、AIがウェブ開発に与える影響について議論し、プラットフォーム上の1,100万人のユーザーの中で、従来とは異なるタイプの開発者が急増していることを指摘した。彼は、開発者ツールの3つの柱として、専門知識の習得、センスの磨き上げ、そして先見の明の実践を挙げ、進化し続ける状況において、思慮深いアーキテクチャの必要性を強調した。ダニエル・カーティス著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/qcon-next-developers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 25 Mar 2026 15:22:00 +0000</pubDate>
+      <title>ミニブック：AIスタックのセキュリティ確保：モデルから本番環境まで</title>
+      <link>https://www.infoq.com/minibooks/secure-ai-stack-model-production/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>本eMagでは、AI実験から本番環境への移行、そして従来の防御策では対応しきれない課題を探ります。AIを利用したフィッシング、モデル汚染、クラウドガバナンスという3つの重要な脅威について掘り下げます。セキュリティをライフサイクル全体にわたる責任として捉え直すことで、本号では、多層防御、堅牢なMLOps、そして責任ある導入フレームワークを通じて、機械時代のセキュリティを確保するためのロードマップを提供します。InfoQ提供 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/minibooks/secure-ai-stack-model-production/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 27 Mar 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>マイクロソフトがWindowsアプリ開発ワークフローを統合するWinApp CLIを発表</title>
+      <link>https://www.infoq.com/news/2026/03/winapp-cli/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>2026年1月、マイクロソフトは、Windowsアプリケーション開発における一般的なタスクを単一のインターフェースに統合することを目的とした新しいコマンドラインツールであるWinApp CLIのパブリックプレビューを発表しました。このツールはオープンソースとして提供され、.NET、C++、Electron、Rustなどのフレームワークで開発を行う開発者を対象としています。エディン・カピッチ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/winapp-cli/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 27 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>グリーンIT：AIが環境に与える影響を軽減する方法</title>
@@ -65,11 +65,11 @@
       <pubDate>Thu, 26 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>.NET 11 Preview 2 が MAUI をパフォーマンス向上とプラットフォームの改良でアップデート</title>
-      <link>https://www.infoq.com/news/2026/03/net-11-preview2-maui/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>.NET 11 Preview 2 では、.NET マルチプラットフォーム アプリ UI (MAUI) に対する一連のターゲットを絞ったアップデートが導入され、Map コントロール、データバインディングのパフォーマンス、および API の一貫性に重点が置かれています。これらの変更は段階的かつ具体的で、XAML、データバインディング、およびコントロールの動作における特定のユーザビリティとパフォーマンスの問題に対処しています。執筆者: Edin Kapić (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/net-11-preview2-maui/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 25 Mar 2026 09:00:00 +0000</pubDate>
+      <title>プレゼンテーション：セキュリティとアーキテクチャ：一方を裏切ることは両方を破壊することである</title>
+      <link>https://www.infoq.com/presentations/security-architecture-systemic-vulnerabilities/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>シャナ・デイカーズ＝ローレンスは、セキュリティとアーキテクチャの複雑な関係性を解説し、システム障害につながる3種類の「裏切り」（物理的、感情的、信頼）を特定しています。CrowdStrikeやChange Healthcareといった実際の事例に基づき、オープンなコミュニケーション、自動化、技術統合、検証、そして協調的な文化という5つの防御戦略を紹介しています。シャナ・デイカーズ＝ローレンス著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/security-architecture-systemic-vulnerabilities/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 27 Mar 2026 09:27:00 +0000</pubDate>
     </item>
     <item>
       <title>プレゼンテーション：オープンソース、コミュニティ、そしてその影響：MongoDBの物語</title>

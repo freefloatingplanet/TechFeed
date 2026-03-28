@@ -7,35 +7,46 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 07:14:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 07:04:11 +0000</lastBuildDate>
     <item>
-      <title>毎回ルールは書かなくていい。GitHub Copilot Agent Skillsで統一感を持たせる</title>
-      <link>https://zenn.dev/idnet/articles/d54a4952b7c8bd</link>
-      <description>GitHub Copilot を使っている方は、ぜひAgent Skillsを使ってほしいです。
-SKILL.md にルールを書いておけば、依頼のたびに説明し直す手間を減らせますよ！！
-こんにちは。システム開発の経験をもとに、現場で使える AI 活用を発信している KSAN です。
-Copilot にコード生成や文書作成を頼んでいると、こんなことはありませんか。
+      <title>電磁気学っぽい理論は電磁気学しかない？</title>
+      <link>https://zenn.dev/phykm/articles/9b18faddcbe0f2</link>
+      <description>歴史的・教科書的には、電磁気学の完成から特殊相対論につながるのが普通だが、この逆を考えてみる。特殊相対論と、電気現象に関するいくつかの性質の仮定から、それを満たす理論は電磁気学しかない、という議論を試みる。
 
-前回と似た依頼なのに、出力の雰囲気が変わる
-新規チャットを開くたびに、プロジェクトのルールを説明している
-チーム内でアウトプットのばらつきが出る
+ 試験電荷・電流と相対論的力学
+特殊相対論的力学を前提とする。光なしにどうやって特殊相対論を見つけたのか、という点は脇においておこう(?)
+素朴な電気現象の観察から、どうもこの世には「電荷」という量的属性があり、電荷のその運動状態によって力を受けることがわかったとする。これは次の性質をもつ。
 
-これ、毎回やってないでしょうか。
-せっかく Copilot で効率化を図りたい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/idnet/articles/d54a4952b7c8bd</guid>
-      <pubDate>Wed, 25 Mar 2026 08:41:34 +0000</pubDate>
+電荷とその運動状態にのみ依存する。(q,\mathbf{v}だけに依存する)
+これはq絶... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/phykm/articles/9b18faddcbe0f2</guid>
+      <pubDate>Fri, 27 Mar 2026 15:07:04 +0000</pubDate>
     </item>
     <item>
-      <title>100ms以内で動作するVLAモデルの実車適用</title>
-      <link>https://zenn.dev/turing_motors/articles/f5e44178d78153</link>
-      <description>はじめに
-チューリングのVLAチームでエンジニアをしている横井です。経済産業省およびNEDOが推進するプロジェクト「GENIAC」第3期の支援のもと、自社で開発したVLM「Heron」を土台に将来の走行軌跡を出力する 自動運転VLAモデル「DriveHeron」 をチームで開発しました。本記事では、DriveHeronを自動運転システムに統合し、リアルタイムで車両を制御できるようにした取り組みを紹介します。
-https://youtu.be/bv90MHM74IY
+      <title>ハーネスエンジニアリング ― AIエージェントが自律的に動ける開発環境の設計</title>
+      <link>https://ai.acsim.app/articles/harness-engineering-2026</link>
+      <description>ここからは、先進企業がこの考え方をどう実践しているかを掘り下げます。 先進企業の実践 OpenAI、Anthropic、Stripe。 規模もプロダクトも異なる3社ですが、実践には共通パターンがあります。 企業ごとではなく、テーマ別の横串で整理します。 エンジニアの役割の変化 AIにコードを書かせること自体は、もう多くのチー... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://ai.acsim.app/articles/harness-engineering-2026</guid>
+      <pubDate>Fri, 27 Mar 2026 16:12:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>開発環境現状確認 2026/03</title>
+      <link>https://zenn.dev/smartcamp/articles/e104f311d6eaee</link>
+      <description>!
+この記事は SMARTCAMP Engineer Blog のリレー記事企画：「開発環境」のリレー記事、始めます の1本目の記事です。
 
- E2EモデルからVLAモデルへ
-自動運転で難しいのはカメラに映る情報を解釈し、交通規範や状況に照らして次の行動へ落と... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/f5e44178d78153</guid>
-      <pubDate>Thu, 26 Mar 2026 02:00:21 +0000</pubDate>
+最近このタイトルの記事をよく見かけるので自分も便乗することにします。
+
+ GUI周り
+
+ エディタ
+Rust製の Zed を使ってます。
+以前は Cursor を使っていたんですがあまりにも動作が重すぎるため移行しました。
+起動も早いし動作も軽いしで快適です。
+テーマは Catppuccin をカスタマイズしてちょっぴり透過したり背景色を揃えたりしてます。
+ずっとダークモードで使ってましたがなんかライトモードのほうがおしゃれだし目に良さそうなので最... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/smartcamp/articles/e104f311d6eaee</guid>
+      <pubDate>Fri, 27 Mar 2026 01:00:08 +0000</pubDate>
     </item>
     <item>
       <title>ハーネスエンジニアリングで人間のコードレビューをやめる</title>
@@ -49,18 +60,6 @@ hentekoさんのコードレビューをなくすことを考えるという記�
  ハーネスエンジニ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/theaktky/articles/1c6c3b9333117c</guid>
       <pubDate>Tue, 24 Mar 2026 05:44:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Codeとの壁打ちが「積み上げ型」に変わった。長期記憶MCPサーバーの開発記</title>
-      <link>https://zenn.dev/kimmaru/articles/3dbd92dea9ede8</link>
-      <description>きっかけ
-Claude Codeを日常的に使っていると、ある問題にぶつかります。
-セッションが変わるたびに、前提の共有からやり直しになるのです。
-CLAUDE.mdにプロジェクトのルールを書くことはできます。しかし「先週の壁打ちで出た結論」「あのとき却下した設計案」といった動的な文脈は消えてしまいます。
-そんなとき、@noprogllamaさんの記事「Claude Codeに長期記憶を持たせたら、壁打ちの質が変わった」を読みました。SQLite 1ファイルでローカル完結、トークン消費ゼロ、FTS5＋ベクトル検索のハイブリッド。これだ、と思いました。
-ただ、自分の環境に合わせていくつか... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kimmaru/articles/3dbd92dea9ede8</guid>
-      <pubDate>Tue, 24 Mar 2026 15:40:45 +0000</pubDate>
     </item>
     <item>
       <title>なぜ、Excel管理表は崩壊するのか ー 記録する表と、見るための表を分けよ</title>
@@ -80,11 +79,13 @@ https://zenn.dev/tokium_dev/articles/5c9e322cdee796
       <pubDate>Thu, 26 Mar 2026 00:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>OSSは境界設計で強くなる ― 隙間家具OSSという設計思想 - Findy Media</title>
-      <link>https://findy-code.io/media/articles/codesidechat-fujiwara</link>
-      <description>本記事では、「OSS応援企画」として記事の最初と最後に「応援ボタン」を設置しています。1回の応援につき、Findyが100円をOSS団体などへ寄付し、エンジニアの成長とOSSの発展を応援する取り組みです。開発者の想いや取り組みに共感した気持ちが、OSSの支援にもつながっていく、そんな前向きな循環をFindyは目指していま... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://findy-code.io/media/articles/codesidechat-fujiwara</guid>
-      <pubDate>Thu, 26 Mar 2026 23:59:45 +0000</pubDate>
+      <title>【勉強会レポート】和田卓人（t-wada）さんに学ぶ「質とスピード」</title>
+      <link>https://zenn.dev/geniee/articles/1b109e2aa4f444</link>
+      <description>2026年2月24日、GENIEEでは和田卓人さんをお招きし、社内勉強会 「質とスピード 〜ソフトウェア開発の典型的な誤解を解く〜」 を開催しました。
+ソフトウェア開発では、機能を素早く届けることと、品質を保つことが対立するものとして語られる場面が少なくありません。実際、開発現場では「今はスピードを優先したい」「品質を優先すると納期が伸びる」といった悩みに向き合うことがよくあります。
+今回の講演では、そうした前提そのものを見直す視点が数多く示されました。この記事では、講演内容をそのまま要約するのではなく、当日特に印象に残った論点と、GENIEEの開発現場で考えるうえで示唆的だったポイン... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/geniee/articles/1b109e2aa4f444</guid>
+      <pubDate>Fri, 27 Mar 2026 01:01:07 +0000</pubDate>
     </item>
     <item>
       <title>なぜ最近のWEB開発は毎回アプリケーション基盤を作り直してしまうのか</title>
@@ -101,19 +102,20 @@ HTMLベースで、ページ単位の見積もりが行われる時代に、PHP�
       <pubDate>Wed, 25 Mar 2026 11:03:27 +0000</pubDate>
     </item>
     <item>
-      <title>Raspberry Piではじめる自宅サーバー入門（第2巻：運用編）</title>
-      <link>https://zenn.dev/murasanlab/books/10b6b15e557685</link>
-      <description>Raspberry Piでサーバーを立ち上げた。SSHで接続できるようになった。サービスも自動起動するようにした——
+      <title>私のClaudeCodeによるアプリ実装方法の紹介</title>
+      <link>https://zenn.dev/trkbt10/articles/a6618a35dd49f8</link>
+      <description>ClaudeCodeが誕生してまだ一年と、少しであるが、コーディングを取り巻く環境は激変した
+とはいえ、激変したのはコーディングのみであり、どう作るのかという点についてはいまだに人間に委ねられている
+現段階で、エージェントをハンドリングするというノウハウの共有は、決して無駄ではないはずだ
+というわけで、私がエージェントを利用してソフトウェアを構築する際の手順について紹介したい
+当然、これは私の使い方であり、決して正解を意味しないことは注意されたい
+私はこれで作った、あなたはどうか、以上の意味はない
 
-でも、ふと不安がよぎります。「このサーバー、外から攻撃されたらどうしよう？」
-
-本書は、Raspberry Piサーバーを「動いている」状態から「安心して運用できる」状態へとステップアップさせるための1冊です。ファイアウォールで不要な通信を遮断し、不正アクセスを自動でブロックし、VPNで外出先から安全に接続する。さらにDockerを使って、サービスの構築・管理をモダンな手法で行えるようになります。
-
-コマンドを丸暗記するのではなく、「なぜその設定が必要なのか」「その仕組みはどうなっているのか」を一つずつ丁寧に解説しています。ufw、fail2ban、CrowdSec、Tailscale、WireGuard、Cloudflare Tunnel、Docker——これらの技術を、仕組みから理解して使いこなせる力を身につけます。
-
-本書は「Raspberry Piではじめる自宅サーバー入門」シリーズの第2巻（運用編）です。サーバーの「守り」と「つながり」を、ここから固めていき (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/murasanlab/books/10b6b15e557685</guid>
-      <pubDate>Mon, 23 Mar 2026 10:21:42 +0000</pubDate>
+ 作るものを考える
+まずはこれがないと始まらない
+とりあえず、MBTIをモチーフにしよう... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/trkbt10/articles/a6618a35dd49f8</guid>
+      <pubDate>Thu, 26 Mar 2026 10:43:40 +0000</pubDate>
     </item>
     <item>
       <title>ドメイン駆動設計を1から勉強してみた感想</title>
@@ -136,20 +138,19 @@ HTMLベースで、ページ単位の見積もりが行われる時代に、PHP�
       <pubDate>Wed, 25 Mar 2026 05:38:07 +0000</pubDate>
     </item>
     <item>
-      <title>私のClaudeCodeによるアプリ実装方法の紹介</title>
-      <link>https://zenn.dev/trkbt10/articles/a6618a35dd49f8</link>
-      <description>ClaudeCodeが誕生してまだ一年と、少しであるが、コーディングを取り巻く環境は激変した
-とはいえ、激変したのはコーディングのみであり、どう作るのかという点についてはいまだに人間に委ねられている
-現段階で、エージェントをハンドリングするというノウハウの共有は、決して無駄ではないはずだ
-というわけで、私がエージェントを利用してソフトウェアを構築する際の手順について紹介したい
-当然、これは私の使い方であり、決して正解を意味しないことは注意されたい
-私はこれで作った、あなたはどうか、以上の意味はない
+      <title>ソフトウェアテストの古典から現在まで</title>
+      <link>https://zenn.dev/mima_ita/articles/79a98d9b9c97b6</link>
+      <description>はじめに
+このたび、ソフトウェアテストとは、そもそもいったいなんなのかということを考え直す機会があったので、その時に読み直した書籍や資料についての備忘録を記録します。
 
- 作るものを考える
-まずはこれがないと始まらない
-とりあえず、MBTIをモチーフにしよう... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/trkbt10/articles/a6618a35dd49f8</guid>
-      <pubDate>Thu, 26 Mar 2026 10:43:40 +0000</pubDate>
+ ISTQBとJSTQB
+ISTQB は International Software Testing Qualifications Board の略で、ソフトウェアテスト分野の国際的な資格制度を運営する組織です。
+現在のソフトウェアテストについて、どのような概念であるかについてを調べるには、ISTQBが提供している用語集や試験のシラパスを確認することで概要をつかめます。
+
+ISTQBの用語集
+Certified T... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mima_ita/articles/79a98d9b9c97b6</guid>
+      <pubDate>Thu, 26 Mar 2026 14:47:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
