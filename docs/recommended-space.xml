@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Mar 2026 07:04:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 07:10:21 +0000</lastBuildDate>
     <item>
       <title>ロシアがISSへの補給船「プログレスMS-33」を打ち上げ　手動ドッキングを実施</title>
       <link>https://sorae.info/ssn/20260326-progress-ms-33.html</link>
@@ -28,13 +28,6 @@
       <description>JAXA（宇宙航空研究開発機構）は2026年3月24日に開催された第61回宇宙開発利用部会 調査・安全小委員会にて、「H3」ロケット8号機打ち上げ失敗の原因究明について、最新の状況を報告しました。 これまでの大まかな経緯… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260324-h3f8.html</guid>
       <pubDate>Tue, 24 Mar 2026 11:25:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>近傍宇宙の膨張速度は従来の予測より遅いかも？　銀河群の動きをもとにハッブル定数を算出</title>
-      <link>https://sorae.info/astronomy/20260322-hubble-constant.html</link>
-      <description>この宇宙は約138億年前のビッグバンによって誕生して以来、現在に至るまで膨張を続けていることが知られています。この宇宙の膨張する速度を示す重要な指標が「ハッブル定数」です。 これまでの研究によれば、宇宙誕生から間もない頃… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260322-hubble-constant.html</guid>
-      <pubDate>Sun, 22 Mar 2026 12:02:04 +0000</pubDate>
     </item>
     <item>
       <title>自然災害発生時の「より早く、より正しい情報の把握」を目指して。ゼンリン・JAXA・熊本県が連携、衛星データと地図データで建物被害推定の精度向上へ</title>
@@ -70,6 +63,13 @@
       <description>2026年3月10日に開催されたイベント「宇宙大工サミット 2026」で語られた宇宙開発と大工の意外な共通点。また、イベントで見えたこれからの宇宙開発と他業界が連携するうえでのヒントについてまとめています。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45353/</guid>
       <pubDate>Sun, 22 Mar 2026 23:00:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>カシオペヤ座ガンマ星の伴星は白色矮星だった　「W」中央の星から届くX線の50年来の謎を解明</title>
+      <link>https://sorae.info/astronomy/20260328-gamma-cas.html</link>
+      <description>北の夜空を見上げると、アルファベットの「W」の形に並んだ星々を見つけることができます。北極星を探す時の目印としてよく知られている「カシオペヤ座」で、特に秋から冬にかけて見やすい星座です。 この「W」のちょうど中央の頂点に… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260328-gamma-cas.html</guid>
+      <pubDate>Sat, 28 Mar 2026 13:46:41 +0000</pubDate>
     </item>
     <item>
       <title>「進取の精神で空振りを恐れない」IT、自動車、食品加工…異分野が交わる “宇宙”の化学反応。福岡県商工部長に聞く、県内宇宙ビジネスの現在地</title>

@@ -7,7 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Mar 2026 07:04:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 07:10:16 +0000</lastBuildDate>
+    <item>
+      <title>社内問い合わせをAIエージェント化して爆速で解決できるようにした</title>
+      <link>https://zenn.dev/dinii/articles/18128bd1685e2a</link>
+      <description>はじめに：社内問い合わせがじわじわ開発を削っていく
+ダイニーでは、飲食店舗から日々、運用サポートチームに問い合わせが寄せられます。そして、運用サポートチームだけでは解決できない技術的な問い合わせを開発チームへつなぐ"入口"が 社内問い合わせシステム です。
+「会計がうまくいかない」「設定画面の操作が分からない」といった声が、社内問い合わせシステムを通って日々エスカレーションされます。
+ただ、運用が軌道に乗るにつれて次の課題が顕在化しました。
+
+1日あたり約8件の問い合わせが発生する
+1件の調査に数時間かかる
+リードタイムの中央値が10日
+ステータス管理が弱く、クローズされずに放置され... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dinii/articles/18128bd1685e2a</guid>
+      <pubDate>Fri, 27 Mar 2026 07:11:20 +0000</pubDate>
+    </item>
     <item>
       <title>電磁気学っぽい理論は電磁気学しかない？</title>
       <link>https://zenn.dev/phykm/articles/9b18faddcbe0f2</link>
@@ -23,69 +38,71 @@
       <pubDate>Fri, 27 Mar 2026 15:07:04 +0000</pubDate>
     </item>
     <item>
-      <title>ハーネスエンジニアリング ― AIエージェントが自律的に動ける開発環境の設計</title>
-      <link>https://ai.acsim.app/articles/harness-engineering-2026</link>
-      <description>ここからは、先進企業がこの考え方をどう実践しているかを掘り下げます。 先進企業の実践 OpenAI、Anthropic、Stripe。 規模もプロダクトも異なる3社ですが、実践には共通パターンがあります。 企業ごとではなく、テーマ別の横串で整理します。 エンジニアの役割の変化 AIにコードを書かせること自体は、もう多くのチー... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://ai.acsim.app/articles/harness-engineering-2026</guid>
-      <pubDate>Fri, 27 Mar 2026 16:12:20 +0000</pubDate>
+      <title>Agentic SearchとAgentic RAG、何が違うのかを自分なりに整理してスッキリするための備忘録</title>
+      <link>https://qiita.com/y-okayama-tb/items/93fda86f55766e47cbcf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+こんにちは。トライベック株式会社の岡山です。
+最近、AIエージェントの文脈で 「Agentic Search」 や 「Agentic RAG」 という言葉をよく耳にするようになりました。どちらもWeb検索を活用する自律型アプローチとして注目されていますが、「We... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/y-okayama-tb/items/93fda86f55766e47cbcf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 27 Mar 2026 01:48:03 +0000</pubDate>
     </item>
     <item>
-      <title>開発環境現状確認 2026/03</title>
-      <link>https://zenn.dev/smartcamp/articles/e104f311d6eaee</link>
-      <description>!
-この記事は SMARTCAMP Engineer Blog のリレー記事企画：「開発環境」のリレー記事、始めます の1本目の記事です。
+      <title>ベクトルDB不要！Pythonで構築する軽量セマンティック検索『concept-file、concept-grep』</title>
+      <link>https://zenn.dev/kiyoka/articles/concept-file-1</link>
+      <description>はじめに
+RAG（検索拡張生成）を試そうとすると、多くの場合「ベクトルデータベース」のセットアップが必要になります。
+しかし、「プロジェクト単位でサクッと意味検索がしたい」「DockerでDBを立てるほどではない」というケースも多いはず。そんな「重厚なDBはいらないけれど、grepより賢い検索が欲しい」というニーズに応えるため、検索ツール『concept-grep』を開発しました。また、データの保存形式として、concept-fileという仕様を定義しました。
 
-最近このタイトルの記事をよく見かけるので自分も便乗することにします。
-
- GUI周り
-
- エディタ
-Rust製の Zed を使ってます。
-以前は Cursor を使っていたんですがあまりにも動作が重すぎるため移行しました。
-起動も早いし動作も軽いしで快適です。
-テーマは Catppuccin をカスタマイズしてちょっぴり透過したり背景色を揃えたりしてます。
-ずっとダークモードで使ってましたがなんかライトモードのほうがおしゃれだし目に良さそうなので最... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/smartcamp/articles/e104f311d6eaee</guid>
-      <pubDate>Fri, 27 Mar 2026 01:00:08 +0000</pubDate>
+ concept-file とは？
+.concept ファイルは、テキスト・埋め込みベクトル・来歴情報を1つのプレーンテキ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kiyoka/articles/concept-file-1</guid>
+      <pubDate>Thu, 26 Mar 2026 14:31:56 +0000</pubDate>
     </item>
     <item>
-      <title>ハーネスエンジニアリングで人間のコードレビューをやめる</title>
-      <link>https://zenn.dev/theaktky/articles/1c6c3b9333117c</link>
-      <description>人間のコードレビューをやめた
-正直に言うと、意思決定の要らないコード品質のチェックに関しては、もう人間のレビューは不要だと思っている。
-人間のレビュワーはコードベースの一部しか把握していないし、疲れるし、遠慮するし、見落とす。AIはコードベース全体を読んだ上で、一貫した基準で指摘を出してくれる。しかもAIが数分で書いたコードを、人間が数時間〜数日かけてレビューするのは、単純にボトルネックでしかない。
-hentekoさんのコードレビューをなくすことを考えるという記事にもすごく共感した。
-僕は今、コードレビューを完全にAIに任せている。この記事ではそのやり方を書く。
+      <title>Pythonテクニック集</title>
+      <link>https://zenn.dev/uhs/articles/41cd2dadf0d14f</link>
+      <description>Pythonをもっとうまく書くための実践テクニック集
+Pythonには「知らなくても動くけど、知っていると圧倒的にコードがきれいになる」機能がたくさんあります。本記事は、そういった機能をなぜ使うのかから丁寧に説明します。「動くコードは書けるけど、もっとPythonらしい書き方を身につけたい」という方を主な対象にしています。
 
- ハーネスエンジニ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/theaktky/articles/1c6c3b9333117c</guid>
-      <pubDate>Tue, 24 Mar 2026 05:44:34 +0000</pubDate>
+
+ f-string
+
+ なぜ必要か
+プログラムを書いていると、変数の値を文字列に埋め込みたい場面が頻繁にあります。たとえば「Alice、30歳」のように名前と年齢を組み合わせた文字列を作りたいとき、昔のPythonでは以下のように書く必要がありました。
+nam... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/uhs/articles/41cd2dadf0d14f</guid>
+      <pubDate>Fri, 27 Mar 2026 06:50:09 +0000</pubDate>
     </item>
     <item>
-      <title>なぜ、Excel管理表は崩壊するのか ー 記録する表と、見るための表を分けよ</title>
-      <link>https://zenn.dev/tokium_dev/articles/7fd20a0f69127d</link>
-      <description>!
-この記事は、こちらの記事のExcelバージョンです。
-
-https://zenn.dev/tokium_dev/articles/5c9e322cdee796
-列が横にどこまでも伸び、大半のセルが空白。
-右端の方には「育休開始日・2回目」という列がひっそりと佇んでいる。現在の状況という列には、在籍中・入社前・育休中・退職済みが混在している。
-誰かが更新したらしいが、誰がいつ何を変えたのかわからない。
-引継ぎのたびに繰り返される会話がある。
-——前任者が作ったやつで、自分もよくわからなくて……
-これは、あなたがズボラだからでも、前任者が悪かったからでもありません。
-管理表のつくり方に、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/7fd20a0f69127d</guid>
-      <pubDate>Thu, 26 Mar 2026 00:30:00 +0000</pubDate>
+      <title>作業を丸投げできるAIブラウザCometが、iPhoneでタダで使えるぞ！ | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2603-iphone-perplexity-comet-ai-browser/</link>
+      <description>Perplexityは、iPhone向けアプリとしてAIブラウザ「Comet」をリリースしました。これによって、Appleのエコシステムで急成長を見せているAIブラウザが、さらに拡大することになります。 今回のリリースは、昨年末のAndroid版展開に続くものであり、価格設定における大きな方針転換を示しています。2025年に月額200ドルの... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.lifehacker.jp/article/2603-iphone-perplexity-comet-ai-browser/</guid>
+      <pubDate>Sat, 28 Mar 2026 04:51:12 +0000</pubDate>
     </item>
     <item>
-      <title>【勉強会レポート】和田卓人（t-wada）さんに学ぶ「質とスピード」</title>
-      <link>https://zenn.dev/geniee/articles/1b109e2aa4f444</link>
-      <description>2026年2月24日、GENIEEでは和田卓人さんをお招きし、社内勉強会 「質とスピード 〜ソフトウェア開発の典型的な誤解を解く〜」 を開催しました。
-ソフトウェア開発では、機能を素早く届けることと、品質を保つことが対立するものとして語られる場面が少なくありません。実際、開発現場では「今はスピードを優先したい」「品質を優先すると納期が伸びる」といった悩みに向き合うことがよくあります。
-今回の講演では、そうした前提そのものを見直す視点が数多く示されました。この記事では、講演内容をそのまま要約するのではなく、当日特に印象に残った論点と、GENIEEの開発現場で考えるうえで示唆的だったポイン... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/geniee/articles/1b109e2aa4f444</guid>
-      <pubDate>Fri, 27 Mar 2026 01:01:07 +0000</pubDate>
+      <title>コーディングエージェントのサンドボックス技術を理解する</title>
+      <link>https://zenn.dev/mkj/articles/3ec9d2d39f446b</link>
+      <description>株式会社松尾研究所の渡辺です。
+CodexやClaude Codeなどのコーディングエージェントは開発者のシェルとほぼ同じことができるようになっています。
+エージェントの中でnpm install を許可した際に、そのpostinstallスクリプトが ~/.ssh/id_rsa を読んで機密情報を外部に送信するといったことも理論上は起こりえます。このような事故を防止できるのが、サンドボックスです。本来のシステムから隔離された環境のことをサンドボックスと呼びます。
+本記事では、コーディングエージェントを走らせる際に、知っておくと役立つサンドボックス技術についてご紹介します。自分自身がCl... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mkj/articles/3ec9d2d39f446b</guid>
+      <pubDate>Fri, 27 Mar 2026 03:10:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Docling で PDF を Markdown に変換してみる</title>
+      <link>https://zenn.dev/fukurou_labo/articles/f523b8c34fcf43</link>
+      <description>はじめに
+フクロウラボの渋谷です。
+LLM を活用する中で、PDF や Word、PowerPoint などの資料をそのまま扱いづらいと感じたことはないでしょうか。
+テキストを抽出すること自体はできても、レイアウトが崩れたり、表や見出しといった文書構造が失われたりすると、内容を十分に活かせないことがあります。LLM の精度を高めるには、単に文字列を取り出すだけでなく、文書の構造をできる限り保ったまま扱うことが重要です。
+そこで今回は、この課題の解決に役立つツールとして、Docling（ドックリング） を紹介します。
+
+ Docling とは？
+https://github.com/d... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/fukurou_labo/articles/f523b8c34fcf43</guid>
+      <pubDate>Fri, 27 Mar 2026 11:18:52 +0000</pubDate>
     </item>
     <item>
       <title>なぜ最近のWEB開発は毎回アプリケーション基盤を作り直してしまうのか</title>
@@ -100,42 +117,6 @@ HTMLベースで、ページ単位の見積もりが行われる時代に、PHP�
  最近... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/o_sup/articles/49d0c7f8d1ebc4</guid>
       <pubDate>Wed, 25 Mar 2026 11:03:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>私のClaudeCodeによるアプリ実装方法の紹介</title>
-      <link>https://zenn.dev/trkbt10/articles/a6618a35dd49f8</link>
-      <description>ClaudeCodeが誕生してまだ一年と、少しであるが、コーディングを取り巻く環境は激変した
-とはいえ、激変したのはコーディングのみであり、どう作るのかという点についてはいまだに人間に委ねられている
-現段階で、エージェントをハンドリングするというノウハウの共有は、決して無駄ではないはずだ
-というわけで、私がエージェントを利用してソフトウェアを構築する際の手順について紹介したい
-当然、これは私の使い方であり、決して正解を意味しないことは注意されたい
-私はこれで作った、あなたはどうか、以上の意味はない
-
- 作るものを考える
-まずはこれがないと始まらない
-とりあえず、MBTIをモチーフにしよう... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/trkbt10/articles/a6618a35dd49f8</guid>
-      <pubDate>Thu, 26 Mar 2026 10:43:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>ドメイン駆動設計を1から勉強してみた感想</title>
-      <link>https://zenn.dev/aew2sbee/articles/domain-driven-design-tutorial</link>
-      <description>🌱 はじめに
-開発経験も4年ほど経過し、仕様書の要件を満たすコーディングを行えるようになりました。
-しかし、運用フェーズに進むと当然、不具合改修や要望変更が発生します。
-その時に、機能単位や役割単位にディレクトリ構成やファイル管理をしているのに
-
-「機能が一か所にまとまっているけど、ファイル修正がしにくい」
-「役割の範囲がどんどん肥大化する」
-
-というトラブルに最近悩まされています。
-
-その時に、ドメイン駆動設計（DDD）の書籍に出会い、
-「これで解決するのでは？」と軽い気持ちで手に取りました。
-これが個人的には大正解で、先ほどのトラブルが解決する兆しが見えたため、
-1から勉強してみ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aew2sbee/articles/domain-driven-design-tutorial</guid>
-      <pubDate>Wed, 25 Mar 2026 05:38:07 +0000</pubDate>
     </item>
     <item>
       <title>ソフトウェアテストの古典から現在まで</title>

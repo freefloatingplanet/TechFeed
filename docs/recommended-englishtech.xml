@@ -7,13 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Mar 2026 07:04:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 07:10:57 +0000</lastBuildDate>
+    <item>
+      <title>よくあるCORSエラーとその解決方法</title>
+      <link>https://workos.com/blog/common-cors-errors-and-how-to-fix-them</link>
+      <description>クロスオリジンリクエストを扱う開発者のための実践ガイド。あらゆる厄介なコンソールメッセージと、それらを解決するためのヘッダーを網羅。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/common-cors-errors-and-how-to-fix-them</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>OktaからLaravelアプリにユーザーを同期する方法</title>
       <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
       <description>SCIM、Okta、WorkOSを使用して、わずか数行のコードでLaravelアプリに自動ユーザープロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ProxySQLが、安定性、革新性、AIの3つのトラックを備えたマルチティアリリース戦略を導入</title>
+      <link>https://www.infoq.com/news/2026/03/proxysql-multi-tier-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ProxySQL 3.0.6が、新しいマルチティアリリース戦略とともに最近リリースされました。Stable Tierは信頼性と本番環境での使用に重点を置き、Innovative Tierは新機能を早期に導入し、AI/MCP TierはAI統合を含む将来の機能を探求します。Renato Losio著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/proxysql-multi-tier-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sun, 29 Mar 2026 07:03:00 +0000</pubDate>
     </item>
     <item>
       <title>実験的なWebインストールAPIは、アプリケーションの発見と配布の改善を目指しています。</title>
@@ -23,11 +37,11 @@
       <pubDate>Fri, 27 Mar 2026 22:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
-      <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
-      <description>現代のアプリケーション開発では、複数のサードパーティサービスとの接続がますます重要になっています。Pipesは、OAuthフロー、トークン管理、プロバイダー設定を自動的に処理するように設計されています。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <title>HashiCorp Vault 1.21では、SPIFFE認証、きめ細かなシークレットリカバリなどの機能が追加されました。</title>
+      <link>https://www.infoq.com/news/2026/03/hashicorp-vault-1-21/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>HashiCorpはVault 1.21をリリースしました。このバージョンでは、非人間ワークロード向けのネイティブSPIFFE認証が導入され、Vault 1.20で導入されたきめ細かなシークレットリカバリモデルが拡張され、KV v2シークレットアトリビューション、MFA TOTP自己登録、etcdに永続化せずにシークレットをPodに直接マウントするVault Secrets Operator CSIドライバなどが追加されています。執筆者：Diogo Carleto (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/hashicorp-vault-1-21/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 28 Mar 2026 10:05:00 +0000</pubDate>
     </item>
     <item>
       <title>Agodaのストアフロント内部：DNSベースの負荷分散を改善するためのレイテンシ認識型リバースプロキシ</title>
@@ -35,6 +49,13 @@
       <description>Agodaのエンジニアは、大規模オブジェクトストレージシステム全体で負荷分散、リクエストルーティング、および可観測性を向上させる、RustベースのS3互換リバースプロキシであるStorefrontを開発しました。このプロキシは、DNSベースの分散制限に対処し、レイテンシを考慮したルーティング、データセンター間の最適化、I/O保護、認証情報不要の認証を実装し、OpenTelemetryを介してテレメトリを公開します。Leela Kumili著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/agoda-rust-reverse-proxy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Fri, 27 Mar 2026 14:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
+      <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
+      <description>現代のアプリケーション開発では、複数のサードパーティサービスとの接続がますます重要になっています。Pipesは、OAuthフロー、トークン管理、プロバイダー設定を自動的に処理するように設計されています。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ミニブック：AIスタックのセキュリティ確保：モデルから本番環境まで</title>
@@ -51,32 +72,11 @@
       <pubDate>Fri, 27 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>グリーンIT：AIが環境に与える影響を軽減する方法</title>
-      <link>https://www.infoq.com/news/2026/03/green-IT-AI-impact/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AIはグリーンITにとって大きな課題となっている。各クエリは膨大なエネルギーを消費し、GPUチップの寿命はわずか2～3年で、コストはユーザーには見えない。EU AI法のような規制枠組みは執行面で不十分だと、ルディ・アクエ氏は述べた。彼女は講演「グリーンITを始めた頃に知っておきたかったこと」の中で、持続可能性を設計上の制約として用いたモデル圧縮、量子化、そして斬新なアーキテクチャについて発表した。ベン・リンダース著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/green-IT-AI-impact/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 26 Mar 2026 11:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>記事：AIスピードで実現するアーキテクチャガバナンス</title>
-      <link>https://www.infoq.com/articles/architectural-governance-ai-speed/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ジェネレーションAI時代において、コードはコモディティ化されているが、整合性はそうではない。従来のレビュー委員会は、AIが生成する出力に対応できない。本稿では、「宣言型アーキテクチャ」を探求し、ADR（自動設計ルール）とイベントモデルを自動化されたガードレールへと変革する。「左寄せ」の考え方を超え、適合する経路が抵抗の少ない経路となるモデルへと移行することで、一貫性を損なうことなく分散型ガバナンスを実現できる。執筆者：Kyle Howard、Christian Johansen、Dana Katzenelson、Brian Rhoten、Warren Gray (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/architectural-governance-ai-speed/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 26 Mar 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>プレゼンテーション：セキュリティとアーキテクチャ：一方を裏切ることは両方を破壊することである</title>
       <link>https://www.infoq.com/presentations/security-architecture-systemic-vulnerabilities/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>シャナ・デイカーズ＝ローレンスは、セキュリティとアーキテクチャの複雑な関係性を解説し、システム障害につながる3種類の「裏切り」（物理的、感情的、信頼）を特定しています。CrowdStrikeやChange Healthcareといった実際の事例に基づき、オープンなコミュニケーション、自動化、技術統合、検証、そして協調的な文化という5つの防御戦略を紹介しています。シャナ・デイカーズ＝ローレンス著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/security-architecture-systemic-vulnerabilities/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Fri, 27 Mar 2026 09:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>プレゼンテーション：オープンソース、コミュニティ、そしてその影響：MongoDBの物語</title>
-      <link>https://www.infoq.com/presentations/MongoDB-evolution/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>アンドリュー・デビッドソンとアクシャット・ヴィグは、トランザクションデータベース市場を革新する道のりについて語ります。彼らは、ドキュメントモデルが現代のアプリケーションにとって「バックミンスター・フラー」的な瞬間となった理由を説明し、「ウェブスケール」のミームからミッションクリティカルなワークロードへのスケーリングに関する教訓を共有します。リーダーは、運用上の卓越性、制御よりも利便性を収益化する方法、そしてオープンソース競争を乗り切る方法について学ぶことができます。執筆：アクシャット・ヴィグ、アンドリュー・デビッドソン (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/MongoDB-evolution/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 26 Mar 2026 09:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

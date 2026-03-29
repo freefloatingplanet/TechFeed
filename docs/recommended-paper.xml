@@ -7,13 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Mar 2026 07:04:17 +0000</lastBuildDate>
-    <item>
-      <title>自動運転におけるハイパースペクトルイメージングの課題：HSI-Driveの事例</title>
-      <link>https://arxiv.org/abs/2603.25510v1</link>
-      <description>自動運転（AD）におけるハイパースペクトルイメージング（HSI）の利用は有望であるものの、このアプリケーション領域特有の要件に関連する多くの課題に直面しています。一方では、制御不能で変動する照明条件、広い被写界深度範囲、高速で移動する物体を含む動的なシーンなどが挙げられます。他方では、リアルタイム動作の要件と組み込みプラットフォームの限られた計算リソースが課題となります。これらの要因の組み合わせにより、適切なHSI技術を選択するための基準と、センサーから得られるスペクトル情報と空間情報を活用するカスタムビジョンアルゴリズムの開発の両方が決定されます。本稿では、HSI-Driveデータセットの最新バージョンのデータを使用した実験結果を例として、ADへの応用を目的としたHSIベースのビジョンシステムの研究で検討されたいくつかの技術を分析します。 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.25510v1</guid>
-      <pubDate>Thu, 26 Mar 2026 14:45:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Mar 2026 07:10:52 +0000</lastBuildDate>
   </channel>
 </rss>
