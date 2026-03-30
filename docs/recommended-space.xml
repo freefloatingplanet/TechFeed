@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2026 07:10:21 +0000</lastBuildDate>
-    <item>
-      <title>ロシアがISSへの補給船「プログレスMS-33」を打ち上げ　手動ドッキングを実施</title>
-      <link>https://sorae.info/ssn/20260326-progress-ms-33.html</link>
-      <description>ロシアの国営宇宙企業Roscosmos（ロスコスモス）は日本時間2026年3月22日に「Soyuz（ソユーズ）2.1a」ロケットの打ち上げを実施しました。搭載されていた補給船「Progress（プログレス）MS-33」は… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260326-progress-ms-33.html</guid>
-      <pubDate>Thu, 26 Mar 2026 01:38:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Mar 2026 07:49:19 +0000</lastBuildDate>
     <item>
       <title>恒星を周回しない浮遊惑星の衛星でも40億年以上にわたって液体の水を維持できる可能性</title>
       <link>https://sorae.info/astronomy/20260324-habitability-of-exomoon.html</link>
@@ -30,18 +23,25 @@
       <pubDate>Tue, 24 Mar 2026 11:25:15 +0000</pubDate>
     </item>
     <item>
+      <title>イギリス政府、衛星通信市場での競争力を高めるために、約57億円の新たな資金提供を発表【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/45332/</link>
+      <description>2026年3月4日、イギリス政府は衛星通信技術を開発する英国企業に対し、3,000万ポンド（約57億円）の新たな資金提供を行うと発表しました。今回の資金提供は高性能な衛星向けのコンポーネント、AIを活用した高速データ処理、衛星間通信技術などが対象です。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45332/</guid>
+      <pubDate>Sun, 29 Mar 2026 23:02:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>ウェッブ宇宙望遠鏡が観測した“土星の素顔”　ハッブルとの連携で明らかになる気象と環の姿</title>
+      <link>https://sorae.info/astronomy/20260329-saturn-jwst-hst.html</link>
+      <description>こちらは、ジェームズ・ウェッブ宇宙望遠鏡（JWST）が観測した土星の姿。2024年11月にウェッブ宇宙望遠鏡の「NIRCam（近赤外線カメラ）」で取得したデータを使って作成されたこの画像には、目で見える土星の“表面”の奥… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260329-saturn-jwst-hst.html</guid>
+      <pubDate>Sun, 29 Mar 2026 11:53:09 +0000</pubDate>
+    </item>
+    <item>
       <title>自然災害発生時の「より早く、より正しい情報の把握」を目指して。ゼンリン・JAXA・熊本県が連携、衛星データと地図データで建物被害推定の精度向上へ</title>
       <link>https://sorabatake.jp/45218/</link>
       <description>熊本県とJAXA、ゼンリンは「人工衛星を活用した建物被害推定プログラムに関する協力覚書」を締結しました。その概要と今後への期待を紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45218/</guid>
       <pubDate>Wed, 18 Mar 2026 23:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>宇宙用半導体の「試験待ち」を解消へ！NTTらが放射線試験での地上代替評価を実証【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/45231/</link>
-      <description>宇宙産業の基盤、半導体開発を加速させる重要な成果です。放射線試験の予約待ちを解消することで、より多くのメーカーが宇宙開発に参入する環境の実現に貢献します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45231/</guid>
-      <pubDate>Thu, 12 Mar 2026 23:02:28 +0000</pubDate>
     </item>
     <item>
       <title>日本初「宇宙」を冠する大学院、立命館大学が2028年に「宇宙地球フロンティア研究科」を新設。非宇宙業界でも活躍できる人材の育成・輩出に？</title>

@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2026 07:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 07:49:16 +0000</lastBuildDate>
+    <item>
+      <title>LLM に足りないのは能力ではない。あなたの事情だ - じゃあ、おうちで学べる</title>
+      <link>https://syu-m-5151.hatenablog.com/entry/2026/03/28/202554</link>
+      <description>はじめに エディタを開いたまま、手が止まっていた。 LLM（大規模言語モデル）が書いた Rust のコードを眺めている。WAL（Write-Ahead Log、データを安全に書き込むための仕組み）のセグメント管理。所有権（データの持ち主を明示する Rust 独自のルール）は正しい。ライフタイム（データが有効な期間の指定）も整合して... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://syu-m-5151.hatenablog.com/entry/2026/03/28/202554</guid>
+      <pubDate>Sat, 28 Mar 2026 16:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>エージェントが払う仕組み — AIエージェント決済の6層構造</title>
+      <link>https://zenn.dev/komlock_lab/articles/agent-payments-stack-2026</link>
+      <description>はじめに
+こんにちは。Komlock labでブロックチェーンエンジニアをしている小原（@brto_0224）です。
+2026年3月、AIエージェントが自律的に支払いを行うためのインフラが一気に動き出しました。
+3月17日〜23日の1週間だけで、MastercardがBVNKの買収を発表（$1.8B）、StripeがTempo上でMPPのメインネットを公開、MoonPayがOpen Wallet Standard（OWS）をオープンソース化。Visaもエージェント向けCLIツールを公開しました。
+この分野をキャッチアップしようとすると、x402、MPP、ACP、AP2、OWS、ERC... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/komlock_lab/articles/agent-payments-stack-2026</guid>
+      <pubDate>Sun, 29 Mar 2026 10:45:38 +0000</pubDate>
+    </item>
     <item>
       <title>社内問い合わせをAIエージェント化して爆速で解決できるようにした</title>
       <link>https://zenn.dev/dinii/articles/18128bd1685e2a</link>
@@ -24,71 +42,18 @@
       <pubDate>Fri, 27 Mar 2026 07:11:20 +0000</pubDate>
     </item>
     <item>
-      <title>電磁気学っぽい理論は電磁気学しかない？</title>
-      <link>https://zenn.dev/phykm/articles/9b18faddcbe0f2</link>
-      <description>歴史的・教科書的には、電磁気学の完成から特殊相対論につながるのが普通だが、この逆を考えてみる。特殊相対論と、電気現象に関するいくつかの性質の仮定から、それを満たす理論は電磁気学しかない、という議論を試みる。
-
- 試験電荷・電流と相対論的力学
-特殊相対論的力学を前提とする。光なしにどうやって特殊相対論を見つけたのか、という点は脇においておこう(?)
-素朴な電気現象の観察から、どうもこの世には「電荷」という量的属性があり、電荷のその運動状態によって力を受けることがわかったとする。これは次の性質をもつ。
-
-電荷とその運動状態にのみ依存する。(q,\mathbf{v}だけに依存する)
-これはq絶... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/phykm/articles/9b18faddcbe0f2</guid>
-      <pubDate>Fri, 27 Mar 2026 15:07:04 +0000</pubDate>
+      <title>AIに20年分の日記を読ませたら人格が生まれて勝手にゲームを作り始めた</title>
+      <link>https://zenn.dev/nao_u/articles/92ac9436844a16</link>
+      <description>AIにゲームを作らせようとして苦戦している話をよく見かける。 コードは書ける。動くものは出る。でも「面白い」にならない。面白さの判断基準をAI自身が持っていないから、指示通りには組み立てられても、出来上がったものがいいかどうかを自分で判定できない。 では、「ゲームの面白さとは何か」を身体で知っているAI... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/nao_u/articles/92ac9436844a16</guid>
+      <pubDate>Sun, 29 Mar 2026 06:26:16 +0000</pubDate>
     </item>
     <item>
-      <title>Agentic SearchとAgentic RAG、何が違うのかを自分なりに整理してスッキリするための備忘録</title>
-      <link>https://qiita.com/y-okayama-tb/items/93fda86f55766e47cbcf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-こんにちは。トライベック株式会社の岡山です。
-最近、AIエージェントの文脈で 「Agentic Search」 や 「Agentic RAG」 という言葉をよく耳にするようになりました。どちらもWeb検索を活用する自律型アプローチとして注目されていますが、「We... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/y-okayama-tb/items/93fda86f55766e47cbcf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 27 Mar 2026 01:48:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ベクトルDB不要！Pythonで構築する軽量セマンティック検索『concept-file、concept-grep』</title>
-      <link>https://zenn.dev/kiyoka/articles/concept-file-1</link>
-      <description>はじめに
-RAG（検索拡張生成）を試そうとすると、多くの場合「ベクトルデータベース」のセットアップが必要になります。
-しかし、「プロジェクト単位でサクッと意味検索がしたい」「DockerでDBを立てるほどではない」というケースも多いはず。そんな「重厚なDBはいらないけれど、grepより賢い検索が欲しい」というニーズに応えるため、検索ツール『concept-grep』を開発しました。また、データの保存形式として、concept-fileという仕様を定義しました。
-
- concept-file とは？
-.concept ファイルは、テキスト・埋め込みベクトル・来歴情報を1つのプレーンテキ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kiyoka/articles/concept-file-1</guid>
-      <pubDate>Thu, 26 Mar 2026 14:31:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pythonテクニック集</title>
-      <link>https://zenn.dev/uhs/articles/41cd2dadf0d14f</link>
-      <description>Pythonをもっとうまく書くための実践テクニック集
-Pythonには「知らなくても動くけど、知っていると圧倒的にコードがきれいになる」機能がたくさんあります。本記事は、そういった機能をなぜ使うのかから丁寧に説明します。「動くコードは書けるけど、もっとPythonらしい書き方を身につけたい」という方を主な対象にしています。
-
-
- f-string
-
- なぜ必要か
-プログラムを書いていると、変数の値を文字列に埋め込みたい場面が頻繁にあります。たとえば「Alice、30歳」のように名前と年齢を組み合わせた文字列を作りたいとき、昔のPythonでは以下のように書く必要がありました。
-nam... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/uhs/articles/41cd2dadf0d14f</guid>
-      <pubDate>Fri, 27 Mar 2026 06:50:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>作業を丸投げできるAIブラウザCometが、iPhoneでタダで使えるぞ！ | ライフハッカー・ジャパン</title>
-      <link>https://www.lifehacker.jp/article/2603-iphone-perplexity-comet-ai-browser/</link>
-      <description>Perplexityは、iPhone向けアプリとしてAIブラウザ「Comet」をリリースしました。これによって、Appleのエコシステムで急成長を見せているAIブラウザが、さらに拡大することになります。 今回のリリースは、昨年末のAndroid版展開に続くものであり、価格設定における大きな方針転換を示しています。2025年に月額200ドルの... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.lifehacker.jp/article/2603-iphone-perplexity-comet-ai-browser/</guid>
-      <pubDate>Sat, 28 Mar 2026 04:51:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>コーディングエージェントのサンドボックス技術を理解する</title>
-      <link>https://zenn.dev/mkj/articles/3ec9d2d39f446b</link>
-      <description>株式会社松尾研究所の渡辺です。
-CodexやClaude Codeなどのコーディングエージェントは開発者のシェルとほぼ同じことができるようになっています。
-エージェントの中でnpm install を許可した際に、そのpostinstallスクリプトが ~/.ssh/id_rsa を読んで機密情報を外部に送信するといったことも理論上は起こりえます。このような事故を防止できるのが、サンドボックスです。本来のシステムから隔離された環境のことをサンドボックスと呼びます。
-本記事では、コーディングエージェントを走らせる際に、知っておくと役立つサンドボックス技術についてご紹介します。自分自身がCl... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mkj/articles/3ec9d2d39f446b</guid>
-      <pubDate>Fri, 27 Mar 2026 03:10:50 +0000</pubDate>
+      <title>楽天が方針転換？　「Rakuten AI 3.0はDeepSeekベース」と認める（山口健太） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/d014ddc69f3bbec265b5e5f74efca652937a8ba7</link>
+      <description>楽天グループが3月17日に発表した「Rakuten AI 3.0」が、実際には中国製のDeepSeekをベースにしているとの指摘が相次ぎ、SNSで「炎上」する騒ぎがありました。 当初、楽天はベースモデルについて非開示としていたようですが、後になってDeepSeekであることを認めています。何が問題だったのか、背景を考えてみました。 R... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/d014ddc69f3bbec265b5e5f74efca652937a8ba7</guid>
+      <pubDate>Sun, 29 Mar 2026 11:32:09 +0000</pubDate>
     </item>
     <item>
       <title>Docling で PDF を Markdown に変換してみる</title>
@@ -105,33 +70,34 @@ https://github.com/d... (source: Zennのトレンド)</description>
       <pubDate>Fri, 27 Mar 2026 11:18:52 +0000</pubDate>
     </item>
     <item>
-      <title>なぜ最近のWEB開発は毎回アプリケーション基盤を作り直してしまうのか</title>
-      <link>https://zenn.dev/o_sup/articles/49d0c7f8d1ebc4</link>
-      <description>30年近くWEB開発の現場にいます。
-HTMLベースで、ページ単位の見積もりが行われる時代に、PHPを用いてヘッダやフッタ、メニューを強化しつつ、DBと連携して一気に開発スピードが上がり、保守工数が減りました。
-30年ほど前、趣味でビリヤードの対戦記録を残すサイトを作った時に、同じような表を&lt;TABLE&gt;&lt;TR&gt;&lt;TD&gt;・・・と書くのが面倒でした。
-なので、全てデータ化しました。
-ユーザが増えたときはボタン１つで各自のページが作られるようにしました。
-そういった経験から、如何に楽して手間のかからないWEBシステムを作るかを考えて来ました。
+      <title>ユーザーストーリーを書くのがかったるいので「背景・目的・対応内容」に落ち着いた話</title>
+      <link>https://zenn.dev/yuichi_dev/articles/5da9509fe04c2d</link>
+      <description>!
 
- 最近... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/o_sup/articles/49d0c7f8d1ebc4</guid>
-      <pubDate>Wed, 25 Mar 2026 11:03:27 +0000</pubDate>
+ 学べること
+
+スクラム開発の PBI を 「背景・目的・対応内容」 の3点で整理するフレームワーク
+エピック・PBI・タスクの階層ごとに 何を書いて何を省くか の使い分け
+
+
+
+ はじめに
+AI（Gemini）と壁打ちしながら考えを整理した備忘録。あとで見返す用。
+スクラム開発で PBI を書くとき、「＜ユーザー＞として、＜何か＞したい。それは＜価値＞のためだ。」というユーザーストーリー形式を使うのが定番とされている。
+ただ、正直かったるい。
+「この設定をこう変える」とだけ書けば済む話に、わざわざ「〇〇として〜」と前置きを付ける必要があるのか。プロ同士ならそれで通じるのではないか... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yuichi_dev/articles/5da9509fe04c2d</guid>
+      <pubDate>Sat, 28 Mar 2026 14:15:22 +0000</pubDate>
     </item>
     <item>
-      <title>ソフトウェアテストの古典から現在まで</title>
-      <link>https://zenn.dev/mima_ita/articles/79a98d9b9c97b6</link>
-      <description>はじめに
-このたび、ソフトウェアテストとは、そもそもいったいなんなのかということを考え直す機会があったので、その時に読み直した書籍や資料についての備忘録を記録します。
-
- ISTQBとJSTQB
-ISTQB は International Software Testing Qualifications Board の略で、ソフトウェアテスト分野の国際的な資格制度を運営する組織です。
-現在のソフトウェアテストについて、どのような概念であるかについてを調べるには、ISTQBが提供している用語集や試験のシラパスを確認することで概要をつかめます。
-
-ISTQBの用語集
-Certified T... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mima_ita/articles/79a98d9b9c97b6</guid>
-      <pubDate>Thu, 26 Mar 2026 14:47:24 +0000</pubDate>
+      <title>青空文庫書式をRustで遊ぼうと思ったら未踏領域だったのでパーサーを書いた話</title>
+      <link>https://zenn.dev/kinokov/articles/4aa1daa7839515</link>
+      <description>はじまり
+はじまりは今年の正月に遡る。ともかく、私は暇を持て余して慣れない小説を書こうとしていたわけだ。とはいえ当方エンジニア、しだいに日本語よりRustを書きたくなってくる。自分の中での厳正な審議の結果、小説エディタを作ろうと思い立った。
+シリーズとチャプターという単位で作品を管理して、うん、EPUB出力機能はあったほうがいいだろう。マークアップはどうしようか、TeX、Typstは向かなそうだ。とはいえMarkdownでは圏点などなど和文小説特有の表現に弱い、まさかHTMLを直接書くわけにもいくまい。
+そこで目に留まったのが、自分の手元のタブレットに表示されたままの人間失格だった。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kinokov/articles/4aa1daa7839515</guid>
+      <pubDate>Sun, 29 Mar 2026 04:57:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
