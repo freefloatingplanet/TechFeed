@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 07:49:19 +0000</lastBuildDate>
-    <item>
-      <title>恒星を周回しない浮遊惑星の衛星でも40億年以上にわたって液体の水を維持できる可能性</title>
-      <link>https://sorae.info/astronomy/20260324-habitability-of-exomoon.html</link>
-      <description>生命に不可欠とされる液体の水。その維持には恒星からの熱が必要だと考えられがちですが、光の届かない暗黒の宇宙空間であっても、数十億年にわたって生命に適した環境が存在し得るかもしれません。 ルートヴィヒ・マクシミリアン大学ミ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260324-habitability-of-exomoon.html</guid>
-      <pubDate>Tue, 24 Mar 2026 12:26:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>衛星搭載アダプタの部材剥離が原因となった可能性高まる　JAXAがH3ロケット8号機打ち上げ失敗原因究明状況を報告</title>
-      <link>https://sorae.info/space/20260324-h3f8.html</link>
-      <description>JAXA（宇宙航空研究開発機構）は2026年3月24日に開催された第61回宇宙開発利用部会 調査・安全小委員会にて、「H3」ロケット8号機打ち上げ失敗の原因究明について、最新の状況を報告しました。 これまでの大まかな経緯… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260324-h3f8.html</guid>
-      <pubDate>Tue, 24 Mar 2026 11:25:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Mar 2026 07:22:13 +0000</lastBuildDate>
     <item>
       <title>イギリス政府、衛星通信市場での競争力を高めるために、約57億円の新たな資金提供を発表【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/45332/</link>
@@ -42,6 +28,20 @@
       <description>熊本県とJAXA、ゼンリンは「人工衛星を活用した建物被害推定プログラムに関する協力覚書」を締結しました。その概要と今後への期待を紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45218/</guid>
       <pubDate>Wed, 18 Mar 2026 23:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>オリオン座で青く輝く星のゆりかご　ESOの望遠鏡が捉えた反射星雲「M78」</title>
+      <link>https://sorae.info/astronomy/20260331-m78-eso.html</link>
+      <description>こちらは、反射星雲「M78（Messier 78）」。オリオン座の方向、約1350〜1600光年先にあります。 日本では冬の代表的な星座として知られるオリオン座。その有名な「三つ星」のすぐ近くに位置するM78は、青色に輝… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260331-m78-eso.html</guid>
+      <pubDate>Tue, 31 Mar 2026 03:01:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>ispaceが日米統合の新ランダー「ULTRA」を発表　月を周回する通信衛星網の構築も計画</title>
+      <link>https://sorae.info/space/20260330-ispace.html</link>
+      <description>日本の民間宇宙企業ispaceは2026年3月27日に記者発表会を開催し、月着陸船（ランダー）の新たなモデル「ULTRA（ウルトラ）」の開発と、今後のミッションスケジュールの再設定を発表しました。また、月周回衛星を活用し… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260330-ispace.html</guid>
+      <pubDate>Mon, 30 Mar 2026 12:31:55 +0000</pubDate>
     </item>
     <item>
       <title>日本初「宇宙」を冠する大学院、立命館大学が2028年に「宇宙地球フロンティア研究科」を新設。非宇宙業界でも活躍できる人材の育成・輩出に？</title>

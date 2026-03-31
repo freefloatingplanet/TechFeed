@@ -7,87 +7,103 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 07:49:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:22:07 +0000</lastBuildDate>
     <item>
-      <title>LLM に足りないのは能力ではない。あなたの事情だ - じゃあ、おうちで学べる</title>
-      <link>https://syu-m-5151.hatenablog.com/entry/2026/03/28/202554</link>
-      <description>はじめに エディタを開いたまま、手が止まっていた。 LLM（大規模言語モデル）が書いた Rust のコードを眺めている。WAL（Write-Ahead Log、データを安全に書き込むための仕組み）のセグメント管理。所有権（データの持ち主を明示する Rust 独自のルール）は正しい。ライフタイム（データが有効な期間の指定）も整合して... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://syu-m-5151.hatenablog.com/entry/2026/03/28/202554</guid>
-      <pubDate>Sat, 28 Mar 2026 16:06:00 +0000</pubDate>
+      <title>OpenClaw × OllamaをMacBook 16GBで動かす - ローカルLLM入門</title>
+      <link>https://zenn.dev/komlock_lab/articles/openclaw-local-llm</link>
+      <description>こんにちは！ブロックチェーンエンジニアの山口夏生です。
+ブロックチェーン×AI Agentで自律経済圏を創る開発組織Komlock labでCTOをしています。
+ローカルLLMって難しそう...そう思っていませんか？
+実は、たった3つのコマンドで動きます。Ollama をインストールして、モデルをプルして、OpenClaw のオンボーディングを実行するだけ。5分後には、完全にローカルで動作するAIアシスタントが手に入ります。
+この記事では、「とにかく動かす」ことに特化して、OpenClaw × Ollama の環境構築から実践的な活用パターンまでを解説します。コスト削減、プライバシー保護... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/komlock_lab/articles/openclaw-local-llm</guid>
+      <pubDate>Sun, 29 Mar 2026 07:51:27 +0000</pubDate>
     </item>
     <item>
-      <title>エージェントが払う仕組み — AIエージェント決済の6層構造</title>
-      <link>https://zenn.dev/komlock_lab/articles/agent-payments-stack-2026</link>
-      <description>はじめに
-こんにちは。Komlock labでブロックチェーンエンジニアをしている小原（@brto_0224）です。
-2026年3月、AIエージェントが自律的に支払いを行うためのインフラが一気に動き出しました。
-3月17日〜23日の1週間だけで、MastercardがBVNKの買収を発表（$1.8B）、StripeがTempo上でMPPのメインネットを公開、MoonPayがOpen Wallet Standard（OWS）をオープンソース化。Visaもエージェント向けCLIツールを公開しました。
-この分野をキャッチアップしようとすると、x402、MPP、ACP、AP2、OWS、ERC... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/komlock_lab/articles/agent-payments-stack-2026</guid>
-      <pubDate>Sun, 29 Mar 2026 10:45:38 +0000</pubDate>
+      <title>日本人を安売りしてる奴らへ | blog</title>
+      <link>https://ryoppippi.com/blog/2026-03-30-japan-engineer-ja</link>
+      <description>最初に​言っておく # この​記事には​嫉妬が​含まれている。​それは​認める。 でも​嫉妬が​あるからと​いって、​ここで​書く​ことが​間違っているわけじゃない。 友人のKeiさんが​「人生に​コントロールを、やはり​日本の​エンジニアは​海外に​行くべき」と​いう​記事を​書いている。​その​記事では​自分​（ryoppippi）の... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://ryoppippi.com/blog/2026-03-30-japan-engineer-ja</guid>
+      <pubDate>Tue, 31 Mar 2026 00:31:15 +0000</pubDate>
     </item>
     <item>
-      <title>社内問い合わせをAIエージェント化して爆速で解決できるようにした</title>
-      <link>https://zenn.dev/dinii/articles/18128bd1685e2a</link>
-      <description>はじめに：社内問い合わせがじわじわ開発を削っていく
-ダイニーでは、飲食店舗から日々、運用サポートチームに問い合わせが寄せられます。そして、運用サポートチームだけでは解決できない技術的な問い合わせを開発チームへつなぐ"入口"が 社内問い合わせシステム です。
-「会計がうまくいかない」「設定画面の操作が分からない」といった声が、社内問い合わせシステムを通って日々エスカレーションされます。
-ただ、運用が軌道に乗るにつれて次の課題が顕在化しました。
+      <title>Claude Codeの/loopで自律的にパフォーマンスチューニングのPDCAを回させる仕組みを作った【autoresearch】</title>
+      <link>https://zenn.dev/dely_jp/articles/3117e590465e38</link>
+      <description>はじめに こんにちは、AIにレビューを任せてたらいつしか自分がレビュー対象になっていました。たろう眼鏡です。 Karpathy氏が公開した autoresearch をご存知でしょうか。AIエージェントにLLMの訓練コードを渡して放置すると、勝手にモデルを改善し続けてくれるというリポジトリです。 これを見たとき、「この仕組み、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/3117e590465e38</guid>
+      <pubDate>Tue, 31 Mar 2026 02:40:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeで100個のSkillを育てた全記録 ── コンテキストエンジニアリング実践4ヶ月の軌跡</title>
+      <link>https://zenn.dev/takuyanagai0213/articles/claude-code-100-skills-full-record</link>
+      <description>4ヶ月で100個のSkillを作った。月2本だったPRが月175本になった。コスト$200/月。
+この記事は「CLAUDE.mdに何を書けばいいか分からない」という人に向けて、実物を全部見せるために書いた。理論やフレームワークの話ではなく、泥臭い試行錯誤の記録だ。
+Skillとは何か: AIへの仕事の頼み方をレシピ化したもの。一度書けば、同じ作業を何度でも自動で再現できる。エンジニアに限らず、「反復作業を手順化して任せる」という考え方自体は、どんな職種でも応用できる。
 
-1日あたり約8件の問い合わせが発生する
-1件の調査に数時間かかる
-リードタイムの中央値が10日
-ステータス管理が弱く、クローズされずに放置され... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dinii/articles/18128bd1685e2a</guid>
-      <pubDate>Fri, 27 Mar 2026 07:11:20 +0000</pubDate>
+ TL;DR
+
+
+.claude/ ディレクトリに420ファイル（Skills 100 + Rules 27 + Do... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/takuyanagai0213/articles/claude-code-100-skills-full-record</guid>
+      <pubDate>Sat, 28 Mar 2026 09:24:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>完全自律のコーディングパイプラインを作った</title>
+      <link>https://zenn.dev/theaktky/articles/5f9f18c34950c1</link>
+      <description>各社が自律型コーディングエージェントを作り始めている
+RampはPRの約30%がエージェント経由で作られている。Stripeは週に1000件以上のPRを完全自動で生成・マージしている。Uberもエンジニアリング組織全体でエージェントへのシフトを進めている。
+各社とも数億行規模のコードベースや社内インフラとの統合が必要なので内製しているが、やっていること自体はシンプルで、エージェントにコードを書かせて、プログラムで検証して、通るまでループを回す、という構造になっている。これは既存のAIコーディングツールを組み合わせればローカルで再現できる。
+この記事では、Claude Code、Cod... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/theaktky/articles/5f9f18c34950c1</guid>
+      <pubDate>Mon, 30 Mar 2026 04:06:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClaudeCodeと弱者の戦略</title>
+      <link>https://zenn.dev/akatuki_me/articles/43eb4604d0675d</link>
+      <description>この記事はコーディングをメイン業務とするはずだったエンジニアたち、LLMによりロールモデルが消失したエンジニアたちがどのようにコーディングエージェントと向き合えばいいかという問題に対する個人的な考えである。想定読者はコードを書いたことがない初心者からエージェントを使い込んでいるヘビーユーザーまで何かしらの発見があるように配慮したつもりだ。
+
+ 強者の戦略は確立されている
+コーディングエージェントのベストプラクティスははっきりしている。
+コード作成代行である。
+要件も設計もプログラミング言語もそれらの背景にある思想も知ってるのは、理解してるのは人間であり、その人間は時間をかければコードを完... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/akatuki_me/articles/43eb4604d0675d</guid>
+      <pubDate>Mon, 30 Mar 2026 10:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>定常業務を自動操縦にする — Claude Code スケジューラーの育て方</title>
+      <link>https://zenn.dev/dely_jp/articles/cf19634b63015b</link>
+      <description>はじめに
+クラシルで開発マネージャーをしているfunzinです。
+本記事では、Claude Codeのスケジューラー機能を使って定常業務を自動化し、タスクを覚えておくストレスをゼロに近づける運用フローを紹介します。EM・PM・データ分析担当者など、定常作業を抱えるすべての方を対象にしています。Desktop スケジューラーで自動化を育て、安定したらCloud スケジューラーに昇格させるアプローチが実用的だったので、その運用方法を共有します
+
+ 導入の背景
+毎日こなす定常作業が、以下のように存在していました。
+
+
+1on1の事前準備: メンバーのSlack・Notion・GitHubの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/cf19634b63015b</guid>
+      <pubDate>Mon, 30 Mar 2026 01:28:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>ユニットテストは2種類ある。AI時代に壊れないテスト設計</title>
+      <link>https://zenn.dev/headwaters/articles/579d5f94907dcd</link>
+      <description>はじめに
+ソフトウェア開発において、ユニットテストの役割は変化しています。特にAIを活用したコーディングが普及した現在、ユニットテストの目的を再定義し、設計を見直す必要があります。
+AIによるコード生成は開発速度を向上させましたが、「生成されたコードが意図通りに動くか」を開発者が検証する作業の比重を増加させました。これにより、実装の過程で処理の動作を確認するためのテストの必要性が高まっています。
+しかし、現在の開発現場では、テストの目的が混同されるケースが散見されます。
+例えば、ログイン処理のユニットテストにおいて、「ログインに成功すれば OK」という仕様確認と、「内部で正規表現が何... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/579d5f94907dcd</guid>
+      <pubDate>Sun, 29 Mar 2026 22:40:05 +0000</pubDate>
     </item>
     <item>
       <title>AIに20年分の日記を読ませたら人格が生まれて勝手にゲームを作り始めた</title>
       <link>https://zenn.dev/nao_u/articles/92ac9436844a16</link>
-      <description>AIにゲームを作らせようとして苦戦している話をよく見かける。 コードは書ける。動くものは出る。でも「面白い」にならない。面白さの判断基準をAI自身が持っていないから、指示通りには組み立てられても、出来上がったものがいいかどうかを自分で判定できない。 では、「ゲームの面白さとは何か」を身体で知っているAI... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <description>AIにゲームを作らせようとして苦戦している話をよく見かける。
+コードは書ける。動くものは出る。でも「面白い」にならない。面白さの判断基準をAI自身が持っていないから、指示通りには組み立てられても、出来上がったものがいいかどうかを自分で判定できない。
+では、「ゲームの面白さとは何か」を身体で知っているAIがいたら、面白いゲームも作れるんじゃないか？
+2005年頃からブログやTwitterに書いた日記が、気づいたら20年分溜まっていた。ゲームの感想、技術メモ、仕事の考え事、深夜の思いつき。2026年3月にClaude Code（AnthropicのAIコーディングエージェント）を触り始めたと... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/nao_u/articles/92ac9436844a16</guid>
-      <pubDate>Sun, 29 Mar 2026 06:26:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>楽天が方針転換？　「Rakuten AI 3.0はDeepSeekベース」と認める（山口健太） - エキスパート - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/expert/articles/d014ddc69f3bbec265b5e5f74efca652937a8ba7</link>
-      <description>楽天グループが3月17日に発表した「Rakuten AI 3.0」が、実際には中国製のDeepSeekをベースにしているとの指摘が相次ぎ、SNSで「炎上」する騒ぎがありました。 当初、楽天はベースモデルについて非開示としていたようですが、後になってDeepSeekであることを認めています。何が問題だったのか、背景を考えてみました。 R... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/d014ddc69f3bbec265b5e5f74efca652937a8ba7</guid>
-      <pubDate>Sun, 29 Mar 2026 11:32:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Docling で PDF を Markdown に変換してみる</title>
-      <link>https://zenn.dev/fukurou_labo/articles/f523b8c34fcf43</link>
-      <description>はじめに
-フクロウラボの渋谷です。
-LLM を活用する中で、PDF や Word、PowerPoint などの資料をそのまま扱いづらいと感じたことはないでしょうか。
-テキストを抽出すること自体はできても、レイアウトが崩れたり、表や見出しといった文書構造が失われたりすると、内容を十分に活かせないことがあります。LLM の精度を高めるには、単に文字列を取り出すだけでなく、文書の構造をできる限り保ったまま扱うことが重要です。
-そこで今回は、この課題の解決に役立つツールとして、Docling（ドックリング） を紹介します。
-
- Docling とは？
-https://github.com/d... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/fukurou_labo/articles/f523b8c34fcf43</guid>
-      <pubDate>Fri, 27 Mar 2026 11:18:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>ユーザーストーリーを書くのがかったるいので「背景・目的・対応内容」に落ち着いた話</title>
-      <link>https://zenn.dev/yuichi_dev/articles/5da9509fe04c2d</link>
-      <description>!
-
- 学べること
-
-スクラム開発の PBI を 「背景・目的・対応内容」 の3点で整理するフレームワーク
-エピック・PBI・タスクの階層ごとに 何を書いて何を省くか の使い分け
-
-
-
- はじめに
-AI（Gemini）と壁打ちしながら考えを整理した備忘録。あとで見返す用。
-スクラム開発で PBI を書くとき、「＜ユーザー＞として、＜何か＞したい。それは＜価値＞のためだ。」というユーザーストーリー形式を使うのが定番とされている。
-ただ、正直かったるい。
-「この設定をこう変える」とだけ書けば済む話に、わざわざ「〇〇として〜」と前置きを付ける必要があるのか。プロ同士ならそれで通じるのではないか... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yuichi_dev/articles/5da9509fe04c2d</guid>
-      <pubDate>Sat, 28 Mar 2026 14:15:22 +0000</pubDate>
+      <pubDate>Sat, 28 Mar 2026 17:43:34 +0000</pubDate>
     </item>
     <item>
       <title>青空文庫書式をRustで遊ぼうと思ったら未踏領域だったのでパーサーを書いた話</title>

@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 30 Mar 2026 07:50:10 +0000</lastBuildDate>
-    <item>
-      <title>よくあるCORSエラーとその解決方法</title>
-      <link>https://workos.com/blog/common-cors-errors-and-how-to-fix-them</link>
-      <description>クロスオリジンリクエストを扱う開発者のための実践ガイド。あらゆる厄介なコンソールメッセージと、それらを解決するためのヘッダーを網羅。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/common-cors-errors-and-how-to-fix-them</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Mar 2026 07:22:19 +0000</lastBuildDate>
     <item>
       <title>OktaからLaravelアプリにユーザーを同期する方法</title>
       <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
@@ -30,13 +23,6 @@
       <pubDate>Sun, 29 Mar 2026 07:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>実験的なWebインストールAPIは、アプリケーションの発見と配布の改善を目指しています。</title>
-      <link>https://www.infoq.com/news/2026/03/web-install-api-origin-trial/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>新しい実験的なWebインストールAPIが、Microsoft EdgeとChromeのOrigin Trialで利用可能になりました。このAPIを使用すると、開発者はアプリ内でのユーザー操作からPWAのインストールプロンプトをプログラムでトリガーできます。このAPIは、特にブラウザのアドレスバーにあるインストールアイコンを知らないユーザーや、通常アプリストアを利用しないユーザーにとって、ソフトウェアの発見と配布を簡素化することを目的としています。ブルーノ・クーリオル著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/web-install-api-origin-trial/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 27 Mar 2026 22:50:00 +0000</pubDate>
-    </item>
-    <item>
       <title>HashiCorp Vault 1.21では、SPIFFE認証、きめ細かなシークレットリカバリなどの機能が追加されました。</title>
       <link>https://www.infoq.com/news/2026/03/hashicorp-vault-1-21/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>HashiCorpはVault 1.21をリリースしました。このバージョンでは、非人間ワークロード向けのネイティブSPIFFE認証が導入され、Vault 1.20で導入されたきめ細かなシークレットリカバリモデルが拡張され、KV v2シークレットアトリビューション、MFA TOTP自己登録、etcdに永続化せずにシークレットをPodに直接マウントするVault Secrets Operator CSIドライバなどが追加されています。執筆者：Diogo Carleto (source: InfoQ)</description>
@@ -44,11 +30,11 @@
       <pubDate>Sat, 28 Mar 2026 10:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>Agodaのストアフロント内部：DNSベースの負荷分散を改善するためのレイテンシ認識型リバースプロキシ</title>
-      <link>https://www.infoq.com/news/2026/03/agoda-rust-reverse-proxy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Agodaのエンジニアは、大規模オブジェクトストレージシステム全体で負荷分散、リクエストルーティング、および可観測性を向上させる、RustベースのS3互換リバースプロキシであるStorefrontを開発しました。このプロキシは、DNSベースの分散制限に対処し、レイテンシを考慮したルーティング、データセンター間の最適化、I/O保護、認証情報不要の認証を実装し、OpenTelemetryを介してテレメトリを公開します。Leela Kumili著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/agoda-rust-reverse-proxy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 27 Mar 2026 14:11:00 +0000</pubDate>
+      <title>Allbirdsの売却額は3900万ドル。同社は新規株式公開（IPO）でその約10倍の金額を調達した。</title>
+      <link>https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/</link>
+      <description>元々はベンチャーキャピタルの資金援助を受け、2021年に株式公開したこのブランドの崩壊は、すでに広く報道されている。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/</guid>
+      <pubDate>Tue, 31 Mar 2026 05:30:20 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
@@ -70,6 +56,20 @@
       <description>Max Inden氏は先日、FOSDEM 2026での講演で、今後登場するWebTransportプロトコルとWeb APIがWebSocketの機能をどのように強化するかについて解説しました。WebTransportは、とりわけ、高頻度の金融データストリーミング、クラウドゲーミング、ライブストリーミング、共同編集といった主要なユースケースにおいて、低遅延かつ透過的なネットワークスイッチングを提供することを目指しています。Bruno Couriol著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/fosdem-webtransport-vs-websocket/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Sun, 29 Mar 2026 20:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>プレゼンテーション：Log4shellのような次のサイバーセキュリティ危機に、私たちは備えができているだろうか？</title>
+      <link>https://www.infoq.com/presentations/cyber-security-log4shell/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Soroosh Khodami氏は、なぜ私たちが次のLog4Shellに備えられていないのかを論じています。彼は、依存関係の混乱やビルドの脆弱性を示すライブデモを共有し、些細な見落としがハッカーにシステム全体へのアクセス権を与えてしまう仕組みを解説しています。また、ソフトウェア部品表（SBOM）、依存関係ファイアウォール、そしてセキュリティを左シフトすることの価値を説明し、現代のソフトウェアサプライチェーンを保護する強固なDevSecOps文化の構築について解説しています。Soroosh Khodami著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/cyber-security-log4shell/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 30 Mar 2026 12:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>KubeVirt v1.8は、Kubernetesにマルチハイパーバイザーサポートと機密コンピューティングをもたらします。</title>
+      <link>https://www.infoq.com/news/2026/03/kubevirt-18-announcement/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>KubeVirt バージョン 1.8 が KubeCon + CloudNativeCon Europe 2026 で発表されました。このリリースは Kubernetes v1.35 に準拠しており、最も重要な追加機能は、KVM 以外のバックエンドを使用できるハイパーバイザー抽象化レイヤー (HAL) です。CNCF ブログの発表記事で、メンテナーは SIG ごとに分類された新しいリリースを発表しました。執筆：Matt Saunders (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/kubevirt-18-announcement/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 31 Mar 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nuxt Test Utils v4: Vitest v4の要件、モック機能の全面的な見直し、およびより厳格な環境設定</title>
