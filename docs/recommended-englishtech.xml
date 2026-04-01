@@ -7,34 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:22:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 07:27:52 +0000</lastBuildDate>
+    <item>
+      <title>JWKS開発者向けガイド</title>
+      <link>https://workos.com/blog/developers-guide-jwks</link>
+      <description>JSON Web Key Setsに関する完全なリファレンス：構造、アルゴリズム、エンドポイント、およびキーローテーション。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/developers-guide-jwks</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>よくあるCORSエラーとその解決方法</title>
+      <link>https://workos.com/blog/common-cors-errors-and-how-to-fix-them</link>
+      <description>クロスオリジンリクエストを扱う開発者のための実践ガイド。あらゆる厄介なコンソールメッセージと、それらを解決するためのヘッダーを網羅。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/common-cors-errors-and-how-to-fix-them</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>OktaからLaravelアプリにユーザーを同期する方法</title>
       <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
       <description>SCIM、Okta、WorkOSを使用して、わずか数行のコードでLaravelアプリに自動ユーザープロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ProxySQLが、安定性、革新性、AIの3つのトラックを備えたマルチティアリリース戦略を導入</title>
-      <link>https://www.infoq.com/news/2026/03/proxysql-multi-tier-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ProxySQL 3.0.6が、新しいマルチティアリリース戦略とともに最近リリースされました。Stable Tierは信頼性と本番環境での使用に重点を置き、Innovative Tierは新機能を早期に導入し、AI/MCP TierはAI統合を含む将来の機能を探求します。Renato Losio著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/proxysql-multi-tier-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sun, 29 Mar 2026 07:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HashiCorp Vault 1.21では、SPIFFE認証、きめ細かなシークレットリカバリなどの機能が追加されました。</title>
-      <link>https://www.infoq.com/news/2026/03/hashicorp-vault-1-21/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>HashiCorpはVault 1.21をリリースしました。このバージョンでは、非人間ワークロード向けのネイティブSPIFFE認証が導入され、Vault 1.20で導入されたきめ細かなシークレットリカバリモデルが拡張され、KV v2シークレットアトリビューション、MFA TOTP自己登録、etcdに永続化せずにシークレットをPodに直接マウントするVault Secrets Operator CSIドライバなどが追加されています。執筆者：Diogo Carleto (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/hashicorp-vault-1-21/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 28 Mar 2026 10:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Allbirdsの売却額は3900万ドル。同社は新規株式公開（IPO）でその約10倍の金額を調達した。</title>
-      <link>https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/</link>
-      <description>元々はベンチャーキャピタルの資金援助を受け、2021年に株式公開したこのブランドの崩壊は、すでに広く報道されている。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/</guid>
-      <pubDate>Tue, 31 Mar 2026 05:30:20 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
@@ -65,18 +58,25 @@
       <pubDate>Mon, 30 Mar 2026 12:18:00 +0000</pubDate>
     </item>
     <item>
+      <title>記事：クラウドネイティブバンキングのためのイベント駆動型パターン：成功事例と失敗事例から学ぶ教訓</title>
+      <link>https://www.infoq.com/articles/event-driven-banking-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>イベント駆動型アーキテクチャは、銀行がシステムを分離し、サービスを拡張し、明確なアクティビティ履歴を作成するのに役立ちます。しかし、同時に複雑さ、新たな障害モード、運用上の課題も生じさせます。クリス・テイシー＝グリーンは、銀行システムにおいてイベント駆動型アーキテクチャがどのような価値をもたらすのか、また、信頼性を確保するために必要なインボックス／アウトボックスや安定したイベント契約といった実践的なパターンについて解説します。クリス・テイシー＝グリーン著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/event-driven-banking-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 31 Mar 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>プレゼンテーション：あなたが気づいていない隠れた決断</title>
+      <link>https://www.infoq.com/presentations/culture-systems-teams-careers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ダン・ファイクとショーナ・マーテルは、「隠れた意思決定」がいかにしてソフトウェアアーキテクチャとエンジニアリング文化を静かに形作っているかを解説します。CI/CDのボトルネック、プラットフォームの複雑さ、そして指標の不整合の背後にある目に見えないデフォルト設定を検証することで、意図的なリーダーシップを発揮するためのフレームワークを提示します。「意思決定の背後にある意思決定」を特定することで、ハイパフォーマンスなチームとキャリアをより効果的に育成する方法を学びましょう。著：ショーナ・マーテル、ダン・ファイク (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/culture-systems-teams-careers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 31 Mar 2026 13:58:00 +0000</pubDate>
+    </item>
+    <item>
       <title>KubeVirt v1.8は、Kubernetesにマルチハイパーバイザーサポートと機密コンピューティングをもたらします。</title>
       <link>https://www.infoq.com/news/2026/03/kubevirt-18-announcement/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>KubeVirt バージョン 1.8 が KubeCon + CloudNativeCon Europe 2026 で発表されました。このリリースは Kubernetes v1.35 に準拠しており、最も重要な追加機能は、KVM 以外のバックエンドを使用できるハイパーバイザー抽象化レイヤー (HAL) です。CNCF ブログの発表記事で、メンテナーは SIG ごとに分類された新しいリリースを発表しました。執筆：Matt Saunders (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/kubevirt-18-announcement/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Tue, 31 Mar 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nuxt Test Utils v4: Vitest v4の要件、モック機能の全面的な見直し、およびより厳格な環境設定</title>
-      <link>https://www.infoq.com/news/2026/03/nuxt-test-utils-4/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Nuxt Test Utils はバージョン 4.0.0 をリリースしました。このバージョンでは主に Vitest v4 が統合されています。今回のアップデートでは、テスト環境の設定を beforeAll に変更し、モジュールレベルのモックに関する問題を解決しています。また、よりクリーンな部分モックを実現するために mockNuxtImport を改善し、登録済みエンドポイントの状態管理を強化しています。このライブラリは、Nuxt フレームワークでのテストに不可欠であり、ユニットテストとエンドツーエンドテストを橋渡しする役割を果たします。執筆：Daniel Curtis (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/nuxt-test-utils-4/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sun, 29 Mar 2026 15:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

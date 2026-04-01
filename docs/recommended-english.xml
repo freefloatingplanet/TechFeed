@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:22:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 07:27:42 +0000</lastBuildDate>
     <item>
       <title>軌道データセンター建設競争において、最大の変数である電力が欠けている。</title>
       <link>https://spacenews.com/the-race-to-build-orbital-data-centers-is-missing-its-biggest-variable-power/</link>
@@ -21,13 +21,6 @@
       <description>サンフランシスコ – Voyager Technologies は 3 月 30 日、Icarus Robotics が国際宇宙ステーションで Joyride と呼ばれる自由飛行プラットフォームをテストするのを支援する計画を発表した。この契約に基づき、Voyager はペイロードの統合、安全認証、2027 年の打ち上げの調整、技術実証である Joyride-1 の軌道上運用計画と実行を担当する。Icarus Robotics はブルックリンで設立された […] この記事は SpaceNews に最初に掲載されました。 (source: SpaceNews)</description>
       <guid isPermaLink="true">https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/</guid>
       <pubDate>Mon, 30 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>アグリテックにおける「現場の真実」のギャップ：衛星だけではサプライチェーンを救えない理由</title>
-      <link>https://spacenews.com/the-ground-truth-gap-in-agtech-why-satellites-alone-cant-save-supply-chains/</link>
-      <description>地球観測分野は黄金時代を迎えています。衛星のハードウェアと打ち上げコストは急激に低下し、AIと分析によって推進されるコンピューターの処理能力は向上し続けています。これにより、精密農業と自動化されたサプライチェーン監視において真の革命が起こりました。農業関連企業、投資家、規制当局にとって、衛星技術を使用してサプライチェーンを追跡する[…] という魅力的な組み合わせです。投稿「アグリテックにおける「地上の真実」のギャップ：衛星だけではサプライチェーンを救えない理由」はSpaceNewsに最初に掲載されました。 (source: SpaceNews)</description>
-      <guid isPermaLink="true">https://spacenews.com/the-ground-truth-gap-in-agtech-why-satellites-alone-cant-save-supply-chains/</guid>
-      <pubDate>Fri, 27 Mar 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

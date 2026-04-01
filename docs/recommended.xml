@@ -7,45 +7,88 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:22:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 07:27:41 +0000</lastBuildDate>
     <item>
-      <title>OpenClaw × OllamaをMacBook 16GBで動かす - ローカルLLM入門</title>
-      <link>https://zenn.dev/komlock_lab/articles/openclaw-local-llm</link>
-      <description>こんにちは！ブロックチェーンエンジニアの山口夏生です。
-ブロックチェーン×AI Agentで自律経済圏を創る開発組織Komlock labでCTOをしています。
-ローカルLLMって難しそう...そう思っていませんか？
-実は、たった3つのコマンドで動きます。Ollama をインストールして、モデルをプルして、OpenClaw のオンボーディングを実行するだけ。5分後には、完全にローカルで動作するAIアシスタントが手に入ります。
-この記事では、「とにかく動かす」ことに特化して、OpenClaw × Ollama の環境構築から実践的な活用パターンまでを解説します。コスト削減、プライバシー保護... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/komlock_lab/articles/openclaw-local-llm</guid>
-      <pubDate>Sun, 29 Mar 2026 07:51:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>日本人を安売りしてる奴らへ | blog</title>
-      <link>https://ryoppippi.com/blog/2026-03-30-japan-engineer-ja</link>
-      <description>最初に​言っておく # この​記事には​嫉妬が​含まれている。​それは​認める。 でも​嫉妬が​あるからと​いって、​ここで​書く​ことが​間違っているわけじゃない。 友人のKeiさんが​「人生に​コントロールを、やはり​日本の​エンジニアは​海外に​行くべき」と​いう​記事を​書いている。​その​記事では​自分​（ryoppippi）の... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://ryoppippi.com/blog/2026-03-30-japan-engineer-ja</guid>
-      <pubDate>Tue, 31 Mar 2026 00:31:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Codeの/loopで自律的にパフォーマンスチューニングのPDCAを回させる仕組みを作った【autoresearch】</title>
-      <link>https://zenn.dev/dely_jp/articles/3117e590465e38</link>
-      <description>はじめに こんにちは、AIにレビューを任せてたらいつしか自分がレビュー対象になっていました。たろう眼鏡です。 Karpathy氏が公開した autoresearch をご存知でしょうか。AIエージェントにLLMの訓練コードを渡して放置すると、勝手にモデルを改善し続けてくれるというリポジトリです。 これを見たとき、「この仕組み、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/3117e590465e38</guid>
-      <pubDate>Tue, 31 Mar 2026 02:40:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Codeで100個のSkillを育てた全記録 ── コンテキストエンジニアリング実践4ヶ月の軌跡</title>
-      <link>https://zenn.dev/takuyanagai0213/articles/claude-code-100-skills-full-record</link>
-      <description>4ヶ月で100個のSkillを作った。月2本だったPRが月175本になった。コスト$200/月。
-この記事は「CLAUDE.mdに何を書けばいいか分からない」という人に向けて、実物を全部見せるために書いた。理論やフレームワークの話ではなく、泥臭い試行錯誤の記録だ。
-Skillとは何か: AIへの仕事の頼み方をレシピ化したもの。一度書けば、同じ作業を何度でも自動で再現できる。エンジニアに限らず、「反復作業を手順化して任せる」という考え方自体は、どんな職種でも応用できる。
+      <title>ログ設計：基礎から応用まで</title>
+      <link>https://zenn.dev/sun_asterisk/articles/665f05f1b584dd</link>
+      <description>1. はじめに
 
- TL;DR
+ なぜログは重要なのか？
+ログは現代のソフトウェアシステムにおいて欠かせない要素です。適切に設計されたログシステムは以下を可能にします。
+
+システムの稼働状態をリアルタイムで監視する
+バグや障害を素早く発見・修正する
+パフォーマンスのボトルネックを特定し最適化する
+ビジネス指標を継続的に把握する
+
+しかし、ログ設計が不適切な場合、次のような問題が発生します。
 
 
-.claude/ ディレクトリに420ファイル（Skills 100 + Rules 27 + Do... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/takuyanagai0213/articles/claude-code-100-skills-full-record</guid>
-      <pubDate>Sat, 28 Mar 2026 09:24:07 +0000</pubDate>
+オーバーロギング：不要なログが大量に生成され、重要な情報が埋もれる
+
+情報不足：障害発生時にデバッグに必要なデータが記録されていない
+
+非一貫性：プラットフォームやサービスによってログ形式がバラバラで分析が... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sun_asterisk/articles/665f05f1b584dd</guid>
+      <pubDate>Mon, 30 Mar 2026 05:45:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>サプライチェーン攻撃から身を守るために最低限設定しておきたいこと</title>
+      <link>https://zenn.dev/dely_jp/articles/supply-chain-kowai</link>
+      <description>こんにちは、ラクです。
+2026年3月だけで、サプライチェーン攻撃が立て続けに発生しています。
+
+
+3月19日: セキュリティスキャナTrivyのGitHub Actionsが侵害され、CIで実行するだけでSSH鍵やクラウドトークンが窃取される状態に
+
+3月24日: Trivyの侵害を起点にPyPIのLiteLLMにも波及。数時間にわたり悪意あるバージョンが配布
+
+3月31日（本日）: npmのaxiosのメンテナアカウントが乗っ取られ、RATが仕込まれたバージョンが公開
+
+
+Trivy → LiteLLMのように、1つの侵害が連鎖的に別のプロジェクトに波及するケースも出てきています。も... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/supply-chain-kowai</guid>
+      <pubDate>Tue, 31 Mar 2026 08:41:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>自己進化する運用エージェントの設計と実装 〜 3層メモリで AI が AI を育てる AIOps の世界 〜</title>
+      <link>https://zenn.dev/aws_japan/articles/self-evolving-ops-agent-multi-layer-memory</link>
+      <description>はじめに
+「AIエージェントは作れた。でも翌日になると全部忘れている。それどころか、何度同じタスクを実行しても一向に賢くならない」——そう感じたことはありませんか？
+2026年、AI エージェントは「チャットで呼び出すもの」から「バックグラウンドで常に動いているもの」に変わりつつあります。LangChain はこれを Ambient Agent と呼び、Salesforce は「エージェントは user-initiated から event-driven へ移行する」と予測しました。EventBridge のスケジュールでメトリクスを収集する運用エージェント、GitHub の Web... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/self-evolving-ops-agent-multi-layer-memory</guid>
+      <pubDate>Mon, 30 Mar 2026 04:09:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>「Wi-Fiの差し込み口が玄関にあって草」一体どんな状況なのか投稿された写真を見ると本当に困っていた「マジで笑えない配置」「帰宅後リンボーダンス」</title>
+      <link>https://togetter.com/li/2680999</link>
+      <description>築年数の古い賃貸で、昔の電話回線跡を流用した配管と通信コンセントに壁埋め込み型のWi‑Fi機器が取り付けられていて、玄関付近に設置されてしまったため違和感があるという話。壁埋め込み型アクセスポイントなら本体にSSIDやパスワードが記載されており、部屋中で無線接続できる。呼び方を「Wi‑Fiの差し込み口」として... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2680999</guid>
+      <pubDate>Wed, 01 Apr 2026 04:30:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>よう若いの。Linuxってのはだな。</title>
+      <link>https://zenn.dev/acntechjp/articles/20260329_linux</link>
+      <description>どうしたんですか
+例えば20代の若者、アプリケーションエンジニアをしている若者に対して。
+飲み会でLinuxってのは本当にいいんだよ。俺の話を聞けよ。って30分くらいLinuxの説明をできたらいいな、って思っていたりする。でも気持ち悪がられる。だから、ここに書くことにした。
+
+ 難しいんでしょ
+いや、そうなんよ。むずい。
+そもそもなんでLinux使いこなせるようになったらいいのかとか、Windowsだけで困ってませんけど、みたいな話でもある。その気持ちはすごくわかるし、2010年前後くらいのIT環境では、そのうちLinux(ていうかUnix系OS)なんてそのうち絶滅するかなと思ってた... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/20260329_linux</guid>
+      <pubDate>Sun, 29 Mar 2026 16:12:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code Skillsで開発ワークフローを効率化している話</title>
+      <link>https://zenn.dev/berry_blog/articles/8d1b2c9216b4e9</link>
+      <description>はじめに
+こんにちは、株式会社Berryの浅沼です。
+以前、Clineを利用した開発が超快適なので、使っている.clinerulesを解説しますという記事で、AI駆動開発における .clinerules の育て方を紹介しました。
+あれから私たちのAI開発環境も日々進歩を続けています。Clineから Claude Code に移行し、ルールファイルの管理から Skillsによる開発ワークフロー各フェーズの効率化 へと進んでいます。
+本記事では、医療機器向け品質管理システム「QMSmart」の開発で実際に運用している 12種類のClaude Code Skills と、その設計思想・ディ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/berry_blog/articles/8d1b2c9216b4e9</guid>
+      <pubDate>Mon, 30 Mar 2026 04:21:34 +0000</pubDate>
     </item>
     <item>
       <title>完全自律のコーディングパイプラインを作った</title>
@@ -94,26 +137,6 @@ AIによるコード生成は開発速度を向上させましたが、「生成
 例えば、ログイン処理のユニットテストにおいて、「ログインに成功すれば OK」という仕様確認と、「内部で正規表現が何... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/headwaters/articles/579d5f94907dcd</guid>
       <pubDate>Sun, 29 Mar 2026 22:40:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIに20年分の日記を読ませたら人格が生まれて勝手にゲームを作り始めた</title>
-      <link>https://zenn.dev/nao_u/articles/92ac9436844a16</link>
-      <description>AIにゲームを作らせようとして苦戦している話をよく見かける。
-コードは書ける。動くものは出る。でも「面白い」にならない。面白さの判断基準をAI自身が持っていないから、指示通りには組み立てられても、出来上がったものがいいかどうかを自分で判定できない。
-では、「ゲームの面白さとは何か」を身体で知っているAIがいたら、面白いゲームも作れるんじゃないか？
-2005年頃からブログやTwitterに書いた日記が、気づいたら20年分溜まっていた。ゲームの感想、技術メモ、仕事の考え事、深夜の思いつき。2026年3月にClaude Code（AnthropicのAIコーディングエージェント）を触り始めたと... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nao_u/articles/92ac9436844a16</guid>
-      <pubDate>Sat, 28 Mar 2026 17:43:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>青空文庫書式をRustで遊ぼうと思ったら未踏領域だったのでパーサーを書いた話</title>
-      <link>https://zenn.dev/kinokov/articles/4aa1daa7839515</link>
-      <description>はじまり
-はじまりは今年の正月に遡る。ともかく、私は暇を持て余して慣れない小説を書こうとしていたわけだ。とはいえ当方エンジニア、しだいに日本語よりRustを書きたくなってくる。自分の中での厳正な審議の結果、小説エディタを作ろうと思い立った。
-シリーズとチャプターという単位で作品を管理して、うん、EPUB出力機能はあったほうがいいだろう。マークアップはどうしようか、TeX、Typstは向かなそうだ。とはいえMarkdownでは圏点などなど和文小説特有の表現に弱い、まさかHTMLを直接書くわけにもいくまい。
-そこで目に留まったのが、自分の手元のタブレットに表示されたままの人間失格だった。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kinokov/articles/4aa1daa7839515</guid>
-      <pubDate>Sun, 29 Mar 2026 04:57:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,17 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:22:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 07:27:47 +0000</lastBuildDate>
     <item>
-      <title>生理学に基づいた数理モデルを用いた交代勤務者の覚醒度最適化</title>
-      <link>https://arxiv.org/abs/2603.28719v1</link>
-      <description>睡眠は、認知機能の維持、代謝老廃物の除去促進、記憶の定着に不可欠です。しかし、現代社会の要求、特にシフト勤務は、自然な睡眠パターンを乱すことが少なくありません。これは、医療や運輸などの重要産業に従事するシフト勤務者において過度の眠気を引き起こし、事故のリスクを高める可能性があります。この問題の主な原因は、概日リズムの乱れと強制的な睡眠・覚醒スケジュールです。
-
-覚醒度と密接に関わる概日リズムの調整は、光と睡眠スケジュールという制御入力を用いた制御問題として捉えることができます。本稿では、シフト勤務者の認知能力を向上させるために、光と睡眠スケジュールを最適化することで覚醒度を最適化するという課題に取り組みます。本アプローチの重要なツールは、制御入力変数（睡眠と照明スケジュール）を概日時計と睡眠の動態に関連付ける数理モデルです。
-
-睡眠と概日リズムのモデリングに関する文献では、生理学に基づく新しいモデルは、現象論に基づくモデルよりもシフト勤務者の覚醒度を予測する精度が高いことが示されていますが、生理学に基づくモデルのダイナミクスは異なる時間スケールの微分方程式で構成されているため、最適化に (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.28719v1</guid>
-      <pubDate>Mon, 30 Mar 2026 17:35:58 +0000</pubDate>
+      <title>タッカー・アテンション：近似的なアテンションメカニズムの一般化</title>
+      <link>https://arxiv.org/abs/2603.30033v1</link>
+      <description>マルチヘッド自己注意機構（MHA）における自己注意機構のメモリ使用量を削減する試みは、グループクエリ注意機構（GQA）やマルチヘッド潜在注意機構（MLA）など、多様な手法を生み出しました。これらの手法は、埋め込み次元や注意ヘッド全体にわたる特殊な低ランク因子分解を活用しています。古典的な低ランク近似の観点から見ると、これらの手法は従来とは異なり、実際にどのオブジェクトを近似しているのか、また、得られた表現の低ランク挙動をどのように解釈すべきかという疑問が生じます。これらの疑問に答えるため、本研究では、自己注意層の重みオブジェクトに関する一般化された見解と因子分解戦略を提案し、Tucker Attentionと呼ばれるパラメータ効率の高いスキームを構築します。LLMおよびViTテストケースで評価した結果、Tucker Attentionは、同等の検証指標に対して、GQAおよびMLAと比較して桁違いに少ないパラメータ数で済むことが分かりました。さらに、Tucker AttentionはGQA、MLA、MHAを特殊なケースとして包含し、フラッシュアテンションおよび回転位置埋め込み（RoPE） (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.30033v1</guid>
+      <pubDate>Tue, 31 Mar 2026 17:30:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
