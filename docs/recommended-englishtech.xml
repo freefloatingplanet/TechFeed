@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Apr 2026 07:27:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 07:19:38 +0000</lastBuildDate>
     <item>
       <title>JWKS開発者向けガイド</title>
       <link>https://workos.com/blog/developers-guide-jwks</link>
@@ -30,6 +30,20 @@
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>2026年にアプリを保護するためのMFAプロバイダー上位5社</title>
+      <link>https://workos.com/blog/top-mfa-providers-2026</link>
+      <description>主要な多要素認証ソリューションを実践的に比較：それぞれの長所、短所、そして自社のシステム構成に最適なソリューションの選び方について解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/top-mfa-providers-2026</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>第1四半期のスタートアップ資金調達額が過去最高を記録</title>
+      <link>https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/</link>
+      <description>四半期ごとの記録的な資金調達は、OpenAI、Anthropic、xAI、Waymoへの4件の大型買収案件の原動力となった。しかし、これは市場全体の活況も示している。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/</guid>
+      <pubDate>Wed, 01 Apr 2026 20:25:28 +0000</pubDate>
+    </item>
+    <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
       <description>現代のアプリケーション開発では、複数のサードパーティサービスとの接続がますます重要になっています。Pipesは、OAuthフロー、トークン管理、プロバイダー設定を自動的に処理するように設計されています。 (source: WorkOS Blog)</description>
@@ -37,25 +51,11 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Javaニュースまとめ：GraalVMビルドツール、EclipseLink、Springのマイルストーン、Open Liberty、Quarkus</title>
-      <link>https://www.infoq.com/news/2026/03/java-news-roundup-mar23-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>2026年3月23日付けの今週のJavaニュースまとめでは、GraalVM Native Build Tools 1.0とEclipseLink 5.0のGAリリース、Open Libertyの2026年3月版、Spring Boot、Spring Modulith、Spring AIの第4マイルストーンリリース、Quarkusのポイントリリース、Infinispanの最初の開発リリース、GlassFishのメンテナンスリリースといったニュースを取り上げています。執筆：Michael Redlich (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/java-news-roundup-mar23-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 30 Mar 2026 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FOSDEM 2026: WebTransport入門 - 次世代のWebSocket?!</title>
-      <link>https://www.infoq.com/news/2026/03/fosdem-webtransport-vs-websocket/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Max Inden氏は先日、FOSDEM 2026での講演で、今後登場するWebTransportプロトコルとWeb APIがWebSocketの機能をどのように強化するかについて解説しました。WebTransportは、とりわけ、高頻度の金融データストリーミング、クラウドゲーミング、ライブストリーミング、共同編集といった主要なユースケースにおいて、低遅延かつ透過的なネットワークスイッチングを提供することを目指しています。Bruno Couriol著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/fosdem-webtransport-vs-websocket/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sun, 29 Mar 2026 20:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>プレゼンテーション：Log4shellのような次のサイバーセキュリティ危機に、私たちは備えができているだろうか？</title>
-      <link>https://www.infoq.com/presentations/cyber-security-log4shell/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Soroosh Khodami氏は、なぜ私たちが次のLog4Shellに備えられていないのかを論じています。彼は、依存関係の混乱やビルドの脆弱性を示すライブデモを共有し、些細な見落としがハッカーにシステム全体へのアクセス権を与えてしまう仕組みを解説しています。また、ソフトウェア部品表（SBOM）、依存関係ファイアウォール、そしてセキュリティを左シフトすることの価値を説明し、現代のソフトウェアサプライチェーンを保護する強固なDevSecOps文化の構築について解説しています。Soroosh Khodami著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/cyber-security-log4shell/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 30 Mar 2026 12:18:00 +0000</pubDate>
+      <title>PinterestがAIエージェントワークフロー向けに本番規模のモデルコンテキストプロトコルエコシステムを展開</title>
+      <link>https://www.infoq.com/news/2026/04/pinterest-mcp-ecosystem/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Pinterestのエンジニアリングチームは、AIエージェントが複雑なエンジニアリングタスクを自動化し、多様な社内ツールを統合できる、本番環境に対応したモデルコンテキストプロトコル（MCP）エコシステムを導入しました。ドメイン固有のMCPサーバー、中央レジストリ、そして人間による承認プロセスにより、セキュリティ、ガバナンス、開発者の生産性が向上し、毎月数千時間もの時間を節約できます。Leela Kumili著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/pinterest-mcp-ecosystem/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 01 Apr 2026 14:35:00 +0000</pubDate>
     </item>
     <item>
       <title>記事：クラウドネイティブバンキングのためのイベント駆動型パターン：成功事例と失敗事例から学ぶ教訓</title>

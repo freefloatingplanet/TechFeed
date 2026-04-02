@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 07:27:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 07:19:33 +0000</lastBuildDate>
     <item>
-      <title>「日本には大きな市場があり、非常に大きなイノベーションの可能性がある」日本の製薬市場に注目。欧州発、宇宙バイオテック企業YURIインタビュー</title>
-      <link>https://sorabatake.jp/45275/</link>
-      <description>商業宇宙ステーション構築に向けた動きが活発化しています。そのようななか、日本の製薬市場に注目する、ドイツに本社、ルクセンブルクに子会社を持つスタートアップのYURIにお話を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45275/</guid>
-      <pubDate>Mon, 23 Mar 2026 23:00:09 +0000</pubDate>
+      <title>中国CAS Space、新型ロケット「Kinetica 2」初飛行に成功と発表　試験宇宙船など3機を投入</title>
+      <link>https://sorae.info/ssn/20260331-kinetica-2.html</link>
+      <description>中国の商業宇宙企業CAS Space（中科宇航）は日本時間2026年3月30日20時、酒泉衛星発射センターから新型ロケット「Kinetica 2（力箭2号）」を打ち上げ、初飛行を成功裏に終えたと発表しました。搭載されてい… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260331-kinetica-2.html</guid>
+      <pubDate>Tue, 31 Mar 2026 04:18:22 +0000</pubDate>
     </item>
     <item>
       <title>イギリス政府、衛星通信市場での競争力を高めるために、約57億円の新たな資金提供を発表【宇宙ビジネスニュース】</title>
@@ -23,11 +23,32 @@
       <pubDate>Sun, 29 Mar 2026 23:02:33 +0000</pubDate>
     </item>
     <item>
+      <title>ウェッブ宇宙望遠鏡が観測した“土星の素顔”　ハッブルとの連携で明らかになる気象と環の姿</title>
+      <link>https://sorae.info/astronomy/20260329-saturn-jwst-hst.html</link>
+      <description>こちらは、ジェームズ・ウェッブ宇宙望遠鏡（JWST）が観測した土星の姿。2024年11月にウェッブ宇宙望遠鏡の「NIRCam（近赤外線カメラ）」で取得したデータを使って作成されたこの画像には、目で見える土星の“表面”の奥… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260329-saturn-jwst-hst.html</guid>
+      <pubDate>Sun, 29 Mar 2026 11:53:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>オリオン座で青く輝く星のゆりかご　ESOの望遠鏡が捉えた反射星雲「M78」</title>
+      <link>https://sorae.info/astronomy/20260331-m78-eso.html</link>
+      <description>こちらは、反射星雲「M78（Messier 78）」。オリオン座の方向、約1350〜1600光年先にあります。 日本では冬の代表的な星座として知られるオリオン座。その有名な「三つ星」のすぐ近くに位置するM78は、青色に輝… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260331-m78-eso.html</guid>
+      <pubDate>Tue, 31 Mar 2026 03:01:10 +0000</pubDate>
+    </item>
+    <item>
       <title>火星衛星探査MMXに期待される、日本の深宇宙探査の新章～火星の衛星フォボスのサンプルリターンがもたらすもの～</title>
       <link>https://sorabatake.jp/45468/</link>
       <description>火星の衛星フォボスへの着陸といった野心的なミッションを持つMMXの打上げが控えるなか、JAXAの3名の研究者に日本の宇宙探査が長年培ってきた技術的強み、火星衛星探査がもたらす科学的意義など、たっぷりとお話を伺いました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45468/</guid>
       <pubDate>Tue, 31 Mar 2026 23:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>ispaceが日米統合の新ランダー「ULTRA」を発表　月を周回する通信衛星網の構築も計画</title>
+      <link>https://sorae.info/space/20260330-ispace.html</link>
+      <description>日本の民間宇宙企業ispaceは2026年3月27日に記者発表会を開催し、月着陸船（ランダー）の新たなモデル「ULTRA（ウルトラ）」の開発と、今後のミッションスケジュールの再設定を発表しました。また、月周回衛星を活用し… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260330-ispace.html</guid>
+      <pubDate>Mon, 30 Mar 2026 12:31:55 +0000</pubDate>
     </item>
     <item>
       <title>日本初「宇宙」を冠する大学院、立命館大学が2028年に「宇宙地球フロンティア研究科」を新設。非宇宙業界でも活躍できる人材の育成・輩出に？</title>
@@ -42,6 +63,13 @@
       <description>2026年3月10日に開催されたイベント「宇宙大工サミット 2026」で語られた宇宙開発と大工の意外な共通点。また、イベントで見えたこれからの宇宙開発と他業界が連携するうえでのヒントについてまとめています。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45353/</guid>
       <pubDate>Sun, 22 Mar 2026 23:00:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>カシオペヤ座ガンマ星の伴星は白色矮星だった　「W」中央の星から届くX線の50年来の謎を解明</title>
+      <link>https://sorae.info/astronomy/20260328-gamma-cas.html</link>
+      <description>北の夜空を見上げると、アルファベットの「W」の形に並んだ星々を見つけることができます。北極星を探す時の目印としてよく知られている「カシオペヤ座」で、特に秋から冬にかけて見やすい星座です。 この「W」のちょうど中央の頂点に… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260328-gamma-cas.html</guid>
+      <pubDate>Sat, 28 Mar 2026 13:46:41 +0000</pubDate>
     </item>
     <item>
       <title>「進取の精神で空振りを恐れない」IT、自動車、食品加工…異分野が交わる “宇宙”の化学反応。福岡県商工部長に聞く、県内宇宙ビジネスの現在地</title>

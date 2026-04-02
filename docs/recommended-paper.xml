@@ -7,13 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Apr 2026 07:27:47 +0000</lastBuildDate>
-    <item>
-      <title>タッカー・アテンション：近似的なアテンションメカニズムの一般化</title>
-      <link>https://arxiv.org/abs/2603.30033v1</link>
-      <description>マルチヘッド自己注意機構（MHA）における自己注意機構のメモリ使用量を削減する試みは、グループクエリ注意機構（GQA）やマルチヘッド潜在注意機構（MLA）など、多様な手法を生み出しました。これらの手法は、埋め込み次元や注意ヘッド全体にわたる特殊な低ランク因子分解を活用しています。古典的な低ランク近似の観点から見ると、これらの手法は従来とは異なり、実際にどのオブジェクトを近似しているのか、また、得られた表現の低ランク挙動をどのように解釈すべきかという疑問が生じます。これらの疑問に答えるため、本研究では、自己注意層の重みオブジェクトに関する一般化された見解と因子分解戦略を提案し、Tucker Attentionと呼ばれるパラメータ効率の高いスキームを構築します。LLMおよびViTテストケースで評価した結果、Tucker Attentionは、同等の検証指標に対して、GQAおよびMLAと比較して桁違いに少ないパラメータ数で済むことが分かりました。さらに、Tucker AttentionはGQA、MLA、MHAを特殊なケースとして包含し、フラッシュアテンションおよび回転位置埋め込み（RoPE） (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.30033v1</guid>
-      <pubDate>Tue, 31 Mar 2026 17:30:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Apr 2026 07:19:33 +0000</lastBuildDate>
   </channel>
 </rss>

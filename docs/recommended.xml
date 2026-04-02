@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 07:27:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 07:19:30 +0000</lastBuildDate>
     <item>
       <title>ログ設計：基礎から応用まで</title>
       <link>https://zenn.dev/sun_asterisk/articles/665f05f1b584dd</link>
@@ -35,7 +35,7 @@
     <item>
       <title>サプライチェーン攻撃から身を守るために最低限設定しておきたいこと</title>
       <link>https://zenn.dev/dely_jp/articles/supply-chain-kowai</link>
-      <description>こんにちは、ラクです。
+      <description>こんにちは、クラシルのラクです。
 2026年3月だけで、サプライチェーン攻撃が立て続けに発生しています。
 
 
@@ -46,38 +46,64 @@
 3月31日（本日）: npmのaxiosのメンテナアカウントが乗っ取られ、RATが仕込まれたバージョンが公開
 
 
-Trivy → LiteLLMのように、1つの侵害が連鎖的に別のプロジェクトに波及するケースも出てきています。も... (source: Zennのトレンド)</description>
+Trivy → LiteLLMのように、1つの侵害が連鎖的に別のプロジェクトに波及するケースも出てきて... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/supply-chain-kowai</guid>
       <pubDate>Tue, 31 Mar 2026 08:41:07 +0000</pubDate>
     </item>
     <item>
-      <title>自己進化する運用エージェントの設計と実装 〜 3層メモリで AI が AI を育てる AIOps の世界 〜</title>
-      <link>https://zenn.dev/aws_japan/articles/self-evolving-ops-agent-multi-layer-memory</link>
-      <description>はじめに
-「AIエージェントは作れた。でも翌日になると全部忘れている。それどころか、何度同じタスクを実行しても一向に賢くならない」——そう感じたことはありませんか？
-2026年、AI エージェントは「チャットで呼び出すもの」から「バックグラウンドで常に動いているもの」に変わりつつあります。LangChain はこれを Ambient Agent と呼び、Salesforce は「エージェントは user-initiated から event-driven へ移行する」と予測しました。EventBridge のスケジュールでメトリクスを収集する運用エージェント、GitHub の Web... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/self-evolving-ops-agent-multi-layer-memory</guid>
-      <pubDate>Mon, 30 Mar 2026 04:09:31 +0000</pubDate>
+      <title>Claude Codeでドメインエキスパートを育てる ── 解体新書自動生成Pluginの設計と実践 - 株式会社ヘンリー エンジニアブログ</title>
+      <link>https://dev.henry.jp/entry/create-henry-anatomy</link>
+      <description>はじめに 株式会社ヘンリーでソフトウェアエンジニアをしているUGAです。 ヘンリーでは電子カルテ・レセコン一体型のクラウドサービス「Henry」を開発しています。 医療ドメインのプロダクト開発では、コードの複雑さだけでなく、その背景にある医療ドメイン知識の複雑さが大きな壁になります。 この記事では、Claude Co... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://dev.henry.jp/entry/create-henry-anatomy</guid>
+      <pubDate>Thu, 02 Apr 2026 02:18:05 +0000</pubDate>
     </item>
     <item>
-      <title>「Wi-Fiの差し込み口が玄関にあって草」一体どんな状況なのか投稿された写真を見ると本当に困っていた「マジで笑えない配置」「帰宅後リンボーダンス」</title>
-      <link>https://togetter.com/li/2680999</link>
-      <description>築年数の古い賃貸で、昔の電話回線跡を流用した配管と通信コンセントに壁埋め込み型のWi‑Fi機器が取り付けられていて、玄関付近に設置されてしまったため違和感があるという話。壁埋め込み型アクセスポイントなら本体にSSIDやパスワードが記載されており、部屋中で無線接続できる。呼び方を「Wi‑Fiの差し込み口」として... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2680999</guid>
-      <pubDate>Wed, 01 Apr 2026 04:30:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>よう若いの。Linuxってのはだな。</title>
-      <link>https://zenn.dev/acntechjp/articles/20260329_linux</link>
-      <description>どうしたんですか
-例えば20代の若者、アプリケーションエンジニアをしている若者に対して。
-飲み会でLinuxってのは本当にいいんだよ。俺の話を聞けよ。って30分くらいLinuxの説明をできたらいいな、って思っていたりする。でも気持ち悪がられる。だから、ここに書くことにした。
+      <title>Claude Code を「何となく使っている」から抜け出す——『実践 Claude Code 入門』で得た気づき</title>
+      <link>https://zenn.dev/nextbeat/articles/practical-claude-code-introduction</link>
+      <description>この記事は、Claude Code を日常的に使っているものの「うまく活用できている実感がない」と感じているエンジニア向けです。
+特に、「CLAUDE.md は作ってみたけど、サブエージェント・スキル・フック・MCP などはまだ使いこなせていない」という方を対象にしています。
+書籍『実践 Claude Code 入門』（技術評論社）を読んで得た気づきをベースにしているので、ぜひ本書も読んでみてください。
+読者には以下の状態になってもらうことを目指しています。
 
- 難しいんでしょ
-いや、そうなんよ。むずい。
-そもそもなんでLinux使いこなせるようになったらいいのかとか、Windowsだけで困ってませんけど、みたいな話でもある。その気持ちはすごくわかるし、2010年前後くらいのIT環境では、そのうちLinux(ていうかUnix系OS)なんてそのうち絶滅するかなと思ってた... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/20260329_linux</guid>
-      <pubDate>Sun, 29 Mar 2026 16:12:04 +0000</pubDate>
+サブエージェント、スキル、フック、MCP がそれぞれ何のために存在するのかわかった
+「何となく使っている」から「理解して使ってい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nextbeat/articles/practical-claude-code-introduction</guid>
+      <pubDate>Tue, 31 Mar 2026 05:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【動画】マッコウクジラの出産で驚きの発見、非血縁者も協力</title>
+      <link>https://natgeo.nikkeibp.co.jp/atcl/news/26/033100182/</link>
+      <description>「プロジェクトCETI」は、機械学習ソフトを使ってマッコウクジラの出産映像を分析した。クジラたちは協力して母クジラと子クジラを支えていた。この動画には、出産したラウンダー（Rounder）の親族であるアクラ（Accra）、レディー・オラクル（Lady Oracle）、オーロラ（Aurora）と、親族ではないが出産に協力的だったア... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://natgeo.nikkeibp.co.jp/atcl/news/26/033100182/</guid>
+      <pubDate>Wed, 01 Apr 2026 12:11:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>npm をセキュアな挙動にするために .npmrc に記述する最小設定</title>
+      <link>https://zenn.dev/cycloud_blog/articles/5ce66daf4bd0cb</link>
+      <description>はじめに
+グループIT推進本部 CyberAgent group Infrastructure Unit（以下、CIU）所属・Next Expertsの平井（@did0es）です。
+CIUのサービスのWebフロントエンド開発に携わる傍ら、TypeScriptのNext Expertsとして情報発信や社内向けの技術支援を中心に活動しています。
+本記事では、pnpm や bun への移行を検討する前に、まず npm のままで実施できるセキュリティ対策を実施したい人を対象に、 .npmrc に入れるべき最小限の設定を紹介します。
+ここで紹介する設定は、最小構成でありつつ、CIUのWebフロ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/cycloud_blog/articles/5ce66daf4bd0cb</guid>
+      <pubDate>Wed, 01 Apr 2026 07:30:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>自己流「ハーネスエンジニアリング」からの脱却</title>
+      <link>https://zenn.dev/knowledgesense/articles/22eac0ba8cada3</link>
+      <description>本記事では、AIエージェントの性能を決める「ハーネス」の設計手法について、ざっくり解説します。
+株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。
+
+ この記事は何
+この記事は、AIエージェントのハーネス設計を自然言語で統一的に記述する手法「NLAH（Natural-Language Agent Harnesses）」の論文[1]について、日本語で簡単にまとめたものです。
+https://arxiv.org/abs/2603.25723
+
+ 本題
+
+ ざっくりサマリー
+「NLAH」は、エージェントのハーネス設計を、自... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/22eac0ba8cada3</guid>
+      <pubDate>Tue, 31 Mar 2026 03:50:36 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code Skillsで開発ワークフローを効率化している話</title>
@@ -91,52 +117,17 @@ Trivy → LiteLLMのように、1つの侵害が連鎖的に別のプロジェ�
       <pubDate>Mon, 30 Mar 2026 04:21:34 +0000</pubDate>
     </item>
     <item>
-      <title>完全自律のコーディングパイプラインを作った</title>
-      <link>https://zenn.dev/theaktky/articles/5f9f18c34950c1</link>
-      <description>各社が自律型コーディングエージェントを作り始めている
-RampはPRの約30%がエージェント経由で作られている。Stripeは週に1000件以上のPRを完全自動で生成・マージしている。Uberもエンジニアリング組織全体でエージェントへのシフトを進めている。
-各社とも数億行規模のコードベースや社内インフラとの統合が必要なので内製しているが、やっていること自体はシンプルで、エージェントにコードを書かせて、プログラムで検証して、通るまでループを回す、という構造になっている。これは既存のAIコーディングツールを組み合わせればローカルで再現できる。
-この記事では、Claude Code、Cod... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/theaktky/articles/5f9f18c34950c1</guid>
-      <pubDate>Mon, 30 Mar 2026 04:06:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>ClaudeCodeと弱者の戦略</title>
-      <link>https://zenn.dev/akatuki_me/articles/43eb4604d0675d</link>
-      <description>この記事はコーディングをメイン業務とするはずだったエンジニアたち、LLMによりロールモデルが消失したエンジニアたちがどのようにコーディングエージェントと向き合えばいいかという問題に対する個人的な考えである。想定読者はコードを書いたことがない初心者からエージェントを使い込んでいるヘビーユーザーまで何かしらの発見があるように配慮したつもりだ。
-
- 強者の戦略は確立されている
-コーディングエージェントのベストプラクティスははっきりしている。
-コード作成代行である。
-要件も設計もプログラミング言語もそれらの背景にある思想も知ってるのは、理解してるのは人間であり、その人間は時間をかければコードを完... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/akatuki_me/articles/43eb4604d0675d</guid>
-      <pubDate>Mon, 30 Mar 2026 10:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>定常業務を自動操縦にする — Claude Code スケジューラーの育て方</title>
-      <link>https://zenn.dev/dely_jp/articles/cf19634b63015b</link>
+      <title>axiosにサプライチェーン攻撃が発生した話と、担当プロジェクトでやっていた備え</title>
+      <link>https://zenn.dev/rescuenow/articles/880bf865235aaf</link>
       <description>はじめに
-クラシルで開発マネージャーをしているfunzinです。
-本記事では、Claude Codeのスケジューラー機能を使って定常業務を自動化し、タスクを覚えておくストレスをゼロに近づける運用フローを紹介します。EM・PM・データ分析担当者など、定常作業を抱えるすべての方を対象にしています。Desktop スケジューラーで自動化を育て、安定したらCloud スケジューラーに昇格させるアプローチが実用的だったので、その運用方法を共有します
+こんにちは、しもちです。本日（2026年3月31日）、npmパッケージのaxiosにサプライチェーン攻撃が発生しました。axiosは週間1億ダウンロードを超えるHTTPクライアントライブラリなので、かなり大きな影響が出ています。
+今回は攻撃の概要と、担当プロジェクトでの影響、そしてサプライチェーン攻撃への備えについて書きます。
 
- 導入の背景
-毎日こなす定常作業が、以下のように存在していました。
-
-
-1on1の事前準備: メンバーのSlack・Notion・GitHubの... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/cf19634b63015b</guid>
-      <pubDate>Mon, 30 Mar 2026 01:28:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>ユニットテストは2種類ある。AI時代に壊れないテスト設計</title>
-      <link>https://zenn.dev/headwaters/articles/579d5f94907dcd</link>
-      <description>はじめに
-ソフトウェア開発において、ユニットテストの役割は変化しています。特にAIを活用したコーディングが普及した現在、ユニットテストの目的を再定義し、設計を見直す必要があります。
-AIによるコード生成は開発速度を向上させましたが、「生成されたコードが意図通りに動くか」を開発者が検証する作業の比重を増加させました。これにより、実装の過程で処理の動作を確認するためのテストの必要性が高まっています。
-しかし、現在の開発現場では、テストの目的が混同されるケースが散見されます。
-例えば、ログイン処理のユニットテストにおいて、「ログインに成功すれば OK」という仕様確認と、「内部で正規表現が何... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/579d5f94907dcd</guid>
-      <pubDate>Sun, 29 Mar 2026 22:40:05 +0000</pubDate>
+ 何が起きたのか
+攻撃者はaxiosのメンテナー（jasonsaayman）のnpmアクセストークンを窃取し、通常のCI/CDパイプラインをバイパスして悪意のあるバージョンを直接npmに公開しました。
+公開された悪意のあるバージョンは以下の2つです... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/rescuenow/articles/880bf865235aaf</guid>
+      <pubDate>Tue, 31 Mar 2026 06:54:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
