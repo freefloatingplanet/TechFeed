@@ -7,30 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 07:19:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 07:16:01 +0000</lastBuildDate>
     <item>
-      <title>ログ設計：基礎から応用まで</title>
-      <link>https://zenn.dev/sun_asterisk/articles/665f05f1b584dd</link>
-      <description>1. はじめに
+      <title>ハーネスエンジニアリングを極めたら、IssueからAIエージェントが動き、人間の役割は要件定義だけになった</title>
+      <link>https://zenn.dev/aicon_kato/articles/harness-engineering-startup</link>
+      <description>2ヶ月で21体のAIエージェントによる自律開発パイプラインを構築した。GitHub Issueに要求を書いて寝れば、朝にはマージレディのPRが上がっている。本記事では、2026年2〜3月に何を作り、何が動き、何がまだ動いていないのかを記す。 出発点は、2月時点で既に 57万行 に膨れていたモノレポだった。モバイルアプリ＋管理画... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/aicon_kato/articles/harness-engineering-startup</guid>
+      <pubDate>Thu, 02 Apr 2026 14:53:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>遺産であるCOBOLを現代化し、その正確性を自ら証明するAIを開発した話</title>
+      <link>https://zenn.dev/y_watanabe11/articles/df0a334e0f751c</link>
+      <description>別で書いた記事：
+https://medium.com/@watanabe42463/i-built-an-ai-that-modernizes-legacy-cobol-and-then-made-it-prove-its-own-work-aa982343c833
 
- なぜログは重要なのか？
-ログは現代のソフトウェアシステムにおいて欠かせない要素です。適切に設計されたログシステムは以下を可能にします。
-
-システムの稼働状態をリアルタイムで監視する
-バグや障害を素早く発見・修正する
-パフォーマンスのボトルネックを特定し最適化する
-ビジネス指標を継続的に把握する
-
-しかし、ログ設計が不適切な場合、次のような問題が発生します。
-
-
-オーバーロギング：不要なログが大量に生成され、重要な情報が埋もれる
-
-情報不足：障害発生時にデバッグに必要なデータが記録されていない
-
-非一貫性：プラットフォームやサービスによってログ形式がバラバラで分析が... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sun_asterisk/articles/665f05f1b584dd</guid>
-      <pubDate>Mon, 30 Mar 2026 05:45:52 +0000</pubDate>
+ 8,000億行の基幹業務コードに言語モデルを解き放つと何が起きるのか
+まず、この変数名を見てください。
+WS-CUST-ID-X
+予想してみてください。CUSTはCustomer（顧客）でしょう。IDはそのままID。ですが、末尾のXは何を指すのか、さっぱりわかりません。
+次に、一般的なAI移行ツールによって「現代化」さ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/y_watanabe11/articles/df0a334e0f751c</guid>
+      <pubDate>Thu, 02 Apr 2026 06:39:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>息子のスマホを新規契約しに行ったら、娘と息子が機種は「iPhone」と言うので『高いからAndroidでええやろ』と返すと、「iPhoneじゃないといじめられる」と言われた</title>
+      <link>https://togetter.com/li/2681676</link>
+      <description>息子のスマホ契約で娘（22）と息子（12）が「iPhone」と言い、父は「高いからAndroidでいい」と言うも説得失敗。家族は父以外全員iPhoneで、娘が息子の中学3年間の端末代を負担することになった。父は古いAndroid使用。周囲でも「iPhoneでないといじめられる」という話が多い。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2681676</guid>
+      <pubDate>Thu, 02 Apr 2026 23:17:40 +0000</pubDate>
     </item>
     <item>
       <title>サプライチェーン攻撃から身を守るために最低限設定しておきたいこと</title>
@@ -51,11 +55,11 @@ Trivy → LiteLLMのように、1つの侵害が連鎖的に別のプロジェ�
       <pubDate>Tue, 31 Mar 2026 08:41:07 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeでドメインエキスパートを育てる ── 解体新書自動生成Pluginの設計と実践 - 株式会社ヘンリー エンジニアブログ</title>
-      <link>https://dev.henry.jp/entry/create-henry-anatomy</link>
-      <description>はじめに 株式会社ヘンリーでソフトウェアエンジニアをしているUGAです。 ヘンリーでは電子カルテ・レセコン一体型のクラウドサービス「Henry」を開発しています。 医療ドメインのプロダクト開発では、コードの複雑さだけでなく、その背景にある医療ドメイン知識の複雑さが大きな壁になります。 この記事では、Claude Co... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://dev.henry.jp/entry/create-henry-anatomy</guid>
-      <pubDate>Thu, 02 Apr 2026 02:18:05 +0000</pubDate>
+      <title>打ち上げ成功も「宇宙でトイレ故障」--月へ飛行中のアルテミスII乗組員、自力で修理</title>
+      <link>https://japan.cnet.com/article/35245976/</link>
+      <description>NASAは木曜日のブログ投稿で、月周回飛行に挑むArtemis IIの宇宙船オリオンに搭載されたトイレが、乗組員とヒューストンの地上管制チームの連携によって再び使える状態になったと明らかにした。 Artemis IIは水曜日にフロリダ州から打ち上げられたが、その後、乗組員がトイレ関連の警告灯の点滅を報告。NASAによると、地... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://japan.cnet.com/article/35245976/</guid>
+      <pubDate>Thu, 02 Apr 2026 22:16:04 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code を「何となく使っている」から抜け出す——『実践 Claude Code 入門』で得た気づき</title>
@@ -71,13 +75,6 @@ Trivy → LiteLLMのように、1つの侵害が連鎖的に別のプロジェ�
       <pubDate>Tue, 31 Mar 2026 05:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>【動画】マッコウクジラの出産で驚きの発見、非血縁者も協力</title>
-      <link>https://natgeo.nikkeibp.co.jp/atcl/news/26/033100182/</link>
-      <description>「プロジェクトCETI」は、機械学習ソフトを使ってマッコウクジラの出産映像を分析した。クジラたちは協力して母クジラと子クジラを支えていた。この動画には、出産したラウンダー（Rounder）の親族であるアクラ（Accra）、レディー・オラクル（Lady Oracle）、オーロラ（Aurora）と、親族ではないが出産に協力的だったア... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://natgeo.nikkeibp.co.jp/atcl/news/26/033100182/</guid>
-      <pubDate>Wed, 01 Apr 2026 12:11:32 +0000</pubDate>
-    </item>
-    <item>
       <title>npm をセキュアな挙動にするために .npmrc に記述する最小設定</title>
       <link>https://zenn.dev/cycloud_blog/articles/5ce66daf4bd0cb</link>
       <description>はじめに
@@ -89,45 +86,39 @@ CIUのサービスのWebフロントエンド開発に携わる傍ら、TypeScri
       <pubDate>Wed, 01 Apr 2026 07:30:48 +0000</pubDate>
     </item>
     <item>
-      <title>自己流「ハーネスエンジニアリング」からの脱却</title>
-      <link>https://zenn.dev/knowledgesense/articles/22eac0ba8cada3</link>
-      <description>本記事では、AIエージェントの性能を決める「ハーネス」の設計手法について、ざっくり解説します。
-株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。
+      <title>書籍の学びを Agent Skills にする ～現場で役立つシステム設計の原則編～</title>
+      <link>https://zenn.dev/eda_sann/articles/fd3beee3aa610d</link>
+      <description>はじめに
+みなさんは勉強のアウトプットはどのようにされていますか。
+自分はというと恥ずかしながら今までまったくやっていませんでした。
+これじゃよくないなと思い早一年、ようやくアウトプットをしようと決心し、この記事を書き始めました。
+ただ、やみくもにアウトプットを行ってもあまり意味ないかなと思い、
+せっかくなら自分が普段使えるものをアウトプットの過程で作ろうと考えました。
+そこで、Claude CodeのAgent Skillsの作成をアウトプットのゴールにすることに決めました。
 
- この記事は何
-この記事は、AIエージェントのハーネス設計を自然言語で統一的に記述する手法「NLAH（Natural-Language Agent Harnesses）」の論文[1]について、日本語で簡単にまとめたものです。
-https://arxiv.org/abs/2603.25723
-
- 本題
-
- ざっくりサマリー
-「NLAH」は、エージェントのハーネス設計を、自... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/22eac0ba8cada3</guid>
-      <pubDate>Tue, 31 Mar 2026 03:50:36 +0000</pubDate>
+ 書籍紹介
+今回アウトプットする本は、増田亨さんの現場で役立つシステム設計の原則です。
+選定理由は単純で... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/eda_sann/articles/fd3beee3aa610d</guid>
+      <pubDate>Wed, 01 Apr 2026 13:56:49 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code Skillsで開発ワークフローを効率化している話</title>
-      <link>https://zenn.dev/berry_blog/articles/8d1b2c9216b4e9</link>
-      <description>はじめに
-こんにちは、株式会社Berryの浅沼です。
-以前、Clineを利用した開発が超快適なので、使っている.clinerulesを解説しますという記事で、AI駆動開発における .clinerules の育て方を紹介しました。
-あれから私たちのAI開発環境も日々進歩を続けています。Clineから Claude Code に移行し、ルールファイルの管理から Skillsによる開発ワークフロー各フェーズの効率化 へと進んでいます。
-本記事では、医療機器向け品質管理システム「QMSmart」の開発で実際に運用している 12種類のClaude Code Skills と、その設計思想・ディ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/berry_blog/articles/8d1b2c9216b4e9</guid>
-      <pubDate>Mon, 30 Mar 2026 04:21:34 +0000</pubDate>
+      <title>俺はチューブ - megamouthの葬列</title>
+      <link>https://www.megamouth.info/entry/2026/04/02/220910</link>
+      <description>ある朝、俺はなにか気がかりな夢から目をさまして、自分が寝床の中で一本のチューブに変わっているのを発見した。 俺はチューブだ。AIに投げて、返ってきたものを受け取って、また投げる。ロジックの本質は俺をすり抜けて、構築中のシステムとチャットウィンドウの間を往復している。それは確かに俺の中を通ってはいるが... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.megamouth.info/entry/2026/04/02/220910</guid>
+      <pubDate>Thu, 02 Apr 2026 13:27:04 +0000</pubDate>
     </item>
     <item>
-      <title>axiosにサプライチェーン攻撃が発生した話と、担当プロジェクトでやっていた備え</title>
-      <link>https://zenn.dev/rescuenow/articles/880bf865235aaf</link>
+      <title>【MarkItDown】Office/PDFをMarkdown化してRAG前処理に使う</title>
+      <link>https://zenn.dev/michy/articles/db76efae494691</link>
       <description>はじめに
-こんにちは、しもちです。本日（2026年3月31日）、npmパッケージのaxiosにサプライチェーン攻撃が発生しました。axiosは週間1億ダウンロードを超えるHTTPクライアントライブラリなので、かなり大きな影響が出ています。
-今回は攻撃の概要と、担当プロジェクトでの影響、そしてサプライチェーン攻撃への備えについて書きます。
-
- 何が起きたのか
-攻撃者はaxiosのメンテナー（jasonsaayman）のnpmアクセストークンを窃取し、通常のCI/CDパイプラインをバイパスして悪意のあるバージョンを直接npmに公開しました。
-公開された悪意のあるバージョンは以下の2つです... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/rescuenow/articles/880bf865235aaf</guid>
-      <pubDate>Tue, 31 Mar 2026 06:54:31 +0000</pubDate>
+この記事は、Microsoftの MarkItDown を使ってOffice/PDFファイルをMarkdownに変換する手順をまとめたものです。
+RAGやLLM向けの前処理では、PDFやWordのまま保持するより、見出しや表をある程度保ったテキストにしておくと扱いやすくなります。今回は uv を使って最小構成で導入し、複数ファイルをまとめて .md に変換するところまで確認しました。
+検証には各機関が公開しているファイルをお借りしています。
+なお、先に結論を書くと、MarkItDownはRAGや検索の補助には有効ですが、元ファイルの完全な代替にはなりません。md を作れたか... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/michy/articles/db76efae494691</guid>
+      <pubDate>Wed, 01 Apr 2026 12:25:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

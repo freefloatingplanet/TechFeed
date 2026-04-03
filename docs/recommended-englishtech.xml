@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Apr 2026 07:19:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 07:16:12 +0000</lastBuildDate>
     <item>
-      <title>JWKS開発者向けガイド</title>
-      <link>https://workos.com/blog/developers-guide-jwks</link>
-      <description>JSON Web Key Setsに関する完全なリファレンス：構造、アルゴリズム、エンドポイント、およびキーローテーション。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/developers-guide-jwks</guid>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>よくあるCORSエラーとその解決方法</title>
-      <link>https://workos.com/blog/common-cors-errors-and-how-to-fix-them</link>
-      <description>クロスオリジンリクエストを扱う開発者のための実践ガイド。あらゆる厄介なコンソールメッセージと、それらを解決するためのヘッダーを網羅。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/common-cors-errors-and-how-to-fix-them</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OktaからLaravelアプリにユーザーを同期する方法</title>
-      <link>https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</link>
-      <description>SCIM、Okta、WorkOSを使用して、わずか数行のコードでLaravelアプリに自動ユーザープロビジョニングを追加するために必要な手順を段階的に説明するチュートリアルです。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/how-to-sync-users-from-okta-to-your-laravel-app</guid>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <title>組織規模拡大時に信頼関係と心理的安全性をどのように扱うべきか</title>
+      <link>https://www.infoq.com/news/2026/04/trust-psychological-safety-scale/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>組織が拡大するにつれて、コミュニケーション過多、共通認識の喪失、信頼のギャップが生じると、シャーロット・デ・ヨング・ショウエンブルク氏は指摘した。信頼はチームごとに築かれるものであり、複製することはできない。信頼は対人関係に基づくものであり、心理的安全性は人々の間に存在し、学習を促進する。リーダーは、大規模な組織において透明性と結束を奨励する構造、儀式、指標を意図的に設計する必要がある。ベン・リンダース著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/trust-psychological-safety-scale/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 02 Apr 2026 11:04:00 +0000</pubDate>
     </item>
     <item>
       <title>2026年にアプリを保護するためのMFAプロバイダー上位5社</title>
@@ -37,18 +23,18 @@
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>第1四半期のスタートアップ資金調達額が過去最高を記録</title>
-      <link>https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/</link>
-      <description>四半期ごとの記録的な資金調達は、OpenAI、Anthropic、xAI、Waymoへの4件の大型買収案件の原動力となった。しかし、これは市場全体の活況も示している。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/</guid>
-      <pubDate>Wed, 01 Apr 2026 20:25:28 +0000</pubDate>
-    </item>
-    <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
       <description>現代のアプリケーション開発では、複数のサードパーティサービスとの接続がますます重要になっています。Pipesは、OAuthフロー、トークン管理、プロバイダー設定を自動的に処理するように設計されています。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHubがAIを統合し、アクセシビリティ問題管理を改善し、フィードバックのトリアージを自動化</title>
+      <link>https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>GitHubは、アクセシビリティに関するフィードバックを大規模に管理するための、AIを活用した継続的なワークフローを導入しました。GitHub Actions、Copilot、およびModels APIを使用することで、このシステムはレポートを一元化し、WCAG準拠状況を分析し、人間の検証を維持しながらトリアージを自動化します。これにより、チームはフィードバックをより迅速に解決できるようになり、インクルージョンと部門横断的なコラボレーションが向上します。Leela Kumili著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 02 Apr 2026 14:45:00 +0000</pubDate>
     </item>
     <item>
       <title>PinterestがAIエージェントワークフロー向けに本番規模のモデルコンテキストプロトコルエコシステムを展開</title>
@@ -58,11 +44,18 @@
       <pubDate>Wed, 01 Apr 2026 14:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>記事：クラウドネイティブバンキングのためのイベント駆動型パターン：成功事例と失敗事例から学ぶ教訓</title>
-      <link>https://www.infoq.com/articles/event-driven-banking-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>イベント駆動型アーキテクチャは、銀行がシステムを分離し、サービスを拡張し、明確なアクティビティ履歴を作成するのに役立ちます。しかし、同時に複雑さ、新たな障害モード、運用上の課題も生じさせます。クリス・テイシー＝グリーンは、銀行システムにおいてイベント駆動型アーキテクチャがどのような価値をもたらすのか、また、信頼性を確保するために必要なインボックス／アウトボックスや安定したイベント契約といった実践的なパターンについて解説します。クリス・テイシー＝グリーン著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/event-driven-banking-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 31 Mar 2026 09:00:00 +0000</pubDate>
+      <title>記事：RAGを超えて：Spring Bootでコンテキスト認識型AIシステムを設計する</title>
+      <link>https://www.infoq.com/articles/beyond-rag-context-aware/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>本稿では、エンタープライズシステム向けRAGのアーキテクチャ改良版として、コンテキスト拡張生成（CAG）を紹介します。Spring Bootベースのコンテキストマネージャが、既存のリトリーバやLLMインフラストラクチャを変更することなく、ユーザーID、セッション状態、ポリシー制約をAIワークフローに組み込み、トレーサビリティ、一貫性、ガバナンスを向上させる方法を示します。執筆者：Syed Danish Ali (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/beyond-rag-context-aware/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 02 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Axios npmパッケージがサプライチェーン攻撃で侵害される</title>
+      <link>https://www.infoq.com/news/2026/04/axios-supply-chain/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>2026年3月31日、Axiosライブラリの2つのバージョンが侵害され、リモートアクセス型トロイの木馬が含まれていることが判明しました。悪意のあるパッケージは、乗っ取られたメンテナーアカウントを通じて公開されました。Axiosチームは侵害の発生原因を調査しており、影響を受けたバージョンは非推奨となりました。セキュリティ専門家は、より適切な依存関係管理の必要性を強調しています。執筆：ダニエル・カーティス (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/axios-supply-chain/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 02 Apr 2026 13:53:00 +0000</pubDate>
     </item>
     <item>
       <title>プレゼンテーション：あなたが気づいていない隠れた決断</title>
@@ -72,11 +65,18 @@
       <pubDate>Tue, 31 Mar 2026 13:58:00 +0000</pubDate>
     </item>
     <item>
-      <title>KubeVirt v1.8は、Kubernetesにマルチハイパーバイザーサポートと機密コンピューティングをもたらします。</title>
-      <link>https://www.infoq.com/news/2026/03/kubevirt-18-announcement/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>KubeVirt バージョン 1.8 が KubeCon + CloudNativeCon Europe 2026 で発表されました。このリリースは Kubernetes v1.35 に準拠しており、最も重要な追加機能は、KVM 以外のバックエンドを使用できるハイパーバイザー抽象化レイヤー (HAL) です。CNCF ブログの発表記事で、メンテナーは SIG ごとに分類された新しいリリースを発表しました。執筆：Matt Saunders (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/03/kubevirt-18-announcement/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 31 Mar 2026 07:00:00 +0000</pubDate>
+      <title>プレゼンテーション：楽しみと利益のためにエージェント群を指揮する</title>
+      <link>https://www.infoq.com/presentations/coding-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>エイドリアン・コッククロフトは、クラウドネイティブからAIネイティブ開発への移行について解説します。彼は、CursorやClaude Flowといったツールを用いて自律エージェント群を管理する「ディレクターレベル」のアプローチを紹介します。BDD、MCPサーバー、言語移植における実際の実験について議論しながら、エンジニアリングの未来はAI主導の開発をオーケストレーションするプラットフォームの構築にある理由を論じます。執筆：エイドリアン・コッククロフト (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/coding-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 02 Apr 2026 09:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>開発者向けCLI認証ガイド</title>
+      <link>https://workos.com/blog/cli-authentication-guide</link>
+      <description>APIキー、トークンファイル、OAuthデバイスフロー、クライアント認証情報を比較。CLIに最適な認証パターンを選択するための実践的なガイド。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/cli-authentication-guide</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

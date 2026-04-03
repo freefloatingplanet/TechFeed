@@ -7,6 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Apr 2026 07:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 07:16:08 +0000</lastBuildDate>
+    <item>
+      <title>AIを活用したストリートビューの最低階高抽出と機械学習による補完を用いたテキサス州全域における物件レベルの洪水リスク評価</title>
+      <link>https://arxiv.org/abs/2604.01153v2</link>
+      <description>本論文では、AI を活用したストリートビュー画像の分析と、パフォーマンス ゲート付き機械学習による補完を組み合わせることで、洪水リスク評価のための地域規模での建物固有の標高データを生成する実行可能な方法を提供すると主張します。テキサス州の 18 の関心領域 (AOI) にわたって 3 段階のパイプラインを開発し適用します。このパイプラインは、(1) Elev-Vision フレームワークを使用して Google ストリートビュー画像から LFE と道路の地盤面と最低階の高さの差 (HDSL) を抽出し、(2) 16 の地形、水文、地理、および洪水曝露の特徴でトレーニングされた Random Forest および Gradient Boosting モデルを使用して欠落している HDSL 値を補完し、(3) 結果として得られた標高データセットを Fathom 100 年洪水浸水面および USACE の深さ被害関数と統合して、物件固有の内部浸水深と予想される損失を推定します。 12,241 の住宅構造物のうち、73.4% の区画でストリート ビュー画像が利用可能であり、49.0% (5,9 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.01153v2</guid>
+      <pubDate>Wed, 01 Apr 2026 17:08:43 +0000</pubDate>
+    </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 07:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 07:16:05 +0000</lastBuildDate>
     <item>
       <title>中国CAS Space、新型ロケット「Kinetica 2」初飛行に成功と発表　試験宇宙船など3機を投入</title>
       <link>https://sorae.info/ssn/20260331-kinetica-2.html</link>
@@ -44,6 +44,13 @@
       <pubDate>Tue, 31 Mar 2026 23:00:49 +0000</pubDate>
     </item>
     <item>
+      <title>100億年前のクエーサーで急な減光　超大質量ブラックホールがわずか数年で“燃料切れ”に？</title>
+      <link>https://sorae.info/astronomy/20260402-quasar-rapid-dimming.html</link>
+      <description>宇宙における変化は、私たち人間の感覚からすれば想像を絶するほど長い時間をかけて進行するイメージがあります。しかし今回、宇宙のスケールではまさに「一瞬」とも言える極めて短いタイムスパンで、劇的な変化を見せた天体の発見が報告… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260402-quasar-rapid-dimming.html</guid>
+      <pubDate>Thu, 02 Apr 2026 12:00:09 +0000</pubDate>
+    </item>
+    <item>
       <title>ispaceが日米統合の新ランダー「ULTRA」を発表　月を周回する通信衛星網の構築も計画</title>
       <link>https://sorae.info/space/20260330-ispace.html</link>
       <description>日本の民間宇宙企業ispaceは2026年3月27日に記者発表会を開催し、月着陸船（ランダー）の新たなモデル「ULTRA（ウルトラ）」の開発と、今後のミッションスケジュールの再設定を発表しました。また、月周回衛星を活用し… (source: sorae 宇宙へのポータルサイト)</description>
@@ -63,13 +70,6 @@
       <description>2026年3月10日に開催されたイベント「宇宙大工サミット 2026」で語られた宇宙開発と大工の意外な共通点。また、イベントで見えたこれからの宇宙開発と他業界が連携するうえでのヒントについてまとめています。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45353/</guid>
       <pubDate>Sun, 22 Mar 2026 23:00:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>カシオペヤ座ガンマ星の伴星は白色矮星だった　「W」中央の星から届くX線の50年来の謎を解明</title>
-      <link>https://sorae.info/astronomy/20260328-gamma-cas.html</link>
-      <description>北の夜空を見上げると、アルファベットの「W」の形に並んだ星々を見つけることができます。北極星を探す時の目印としてよく知られている「カシオペヤ座」で、特に秋から冬にかけて見やすい星座です。 この「W」のちょうど中央の頂点に… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260328-gamma-cas.html</guid>
-      <pubDate>Sat, 28 Mar 2026 13:46:41 +0000</pubDate>
     </item>
     <item>
       <title>「進取の精神で空振りを恐れない」IT、自動車、食品加工…異分野が交わる “宇宙”の化学反応。福岡県商工部長に聞く、県内宇宙ビジネスの現在地</title>
