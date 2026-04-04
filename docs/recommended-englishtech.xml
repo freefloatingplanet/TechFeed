@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Apr 2026 07:16:12 +0000</lastBuildDate>
-    <item>
-      <title>組織規模拡大時に信頼関係と心理的安全性をどのように扱うべきか</title>
-      <link>https://www.infoq.com/news/2026/04/trust-psychological-safety-scale/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>組織が拡大するにつれて、コミュニケーション過多、共通認識の喪失、信頼のギャップが生じると、シャーロット・デ・ヨング・ショウエンブルク氏は指摘した。信頼はチームごとに築かれるものであり、複製することはできない。信頼は対人関係に基づくものであり、心理的安全性は人々の間に存在し、学習を促進する。リーダーは、大規模な組織において透明性と結束を奨励する構造、儀式、指標を意図的に設計する必要がある。ベン・リンダース著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/trust-psychological-safety-scale/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 02 Apr 2026 11:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年にアプリを保護するためのMFAプロバイダー上位5社</title>
-      <link>https://workos.com/blog/top-mfa-providers-2026</link>
-      <description>主要な多要素認証ソリューションを実践的に比較：それぞれの長所、短所、そして自社のシステム構成に最適なソリューションの選び方について解説します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/top-mfa-providers-2026</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Apr 2026 07:06:58 +0000</lastBuildDate>
     <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
@@ -51,6 +37,13 @@
       <pubDate>Thu, 02 Apr 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>アントロピックは民間市場で注目を集めているが、スペースXがその勢いを削ぐ可能性がある。</title>
+      <link>https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/</link>
+      <description>レインメーカー・セキュリティーズの社長であるグレン・アンダーソン氏は、非公開株の流通市場はかつてないほど活発化しており、アントロピックが最も人気のある銘柄である一方、オープンAIは勢いを失いつつあり、スペースXのIPOが間近に迫っていることで、市場全体の様相が大きく変わるだろうと述べている。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/</guid>
+      <pubDate>Sat, 04 Apr 2026 01:31:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Axios npmパッケージがサプライチェーン攻撃で侵害される</title>
       <link>https://www.infoq.com/news/2026/04/axios-supply-chain/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>2026年3月31日、Axiosライブラリの2つのバージョンが侵害され、リモートアクセス型トロイの木馬が含まれていることが判明しました。悪意のあるパッケージは、乗っ取られたメンテナーアカウントを通じて公開されました。Axiosチームは侵害の発生原因を調査しており、影響を受けたバージョンは非推奨となりました。セキュリティ専門家は、より適切な依存関係管理の必要性を強調しています。執筆：ダニエル・カーティス (source: InfoQ)</description>
@@ -58,11 +51,11 @@
       <pubDate>Thu, 02 Apr 2026 13:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：あなたが気づいていない隠れた決断</title>
-      <link>https://www.infoq.com/presentations/culture-systems-teams-careers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ダン・ファイクとショーナ・マーテルは、「隠れた意思決定」がいかにしてソフトウェアアーキテクチャとエンジニアリング文化を静かに形作っているかを解説します。CI/CDのボトルネック、プラットフォームの複雑さ、そして指標の不整合の背後にある目に見えないデフォルト設定を検証することで、意図的なリーダーシップを発揮するためのフレームワークを提示します。「意思決定の背後にある意思決定」を特定することで、ハイパフォーマンスなチームとキャリアをより効果的に育成する方法を学びましょう。著：ショーナ・マーテル、ダン・ファイク (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/culture-systems-teams-careers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 31 Mar 2026 13:58:00 +0000</pubDate>
+      <title>Module Federation 2.0がWebpack以外の環境でも幅広いサポートを提供し、安定版リリースに到達</title>
+      <link>https://www.infoq.com/news/2026/04/module-federation-2-stable/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>webpack 5で導入されたオープンソースのマイクロフロントエンドメカニズムであるModule Federation 2.0は、動的なTypeScript型ヒント、疎結合なランタイムレイヤー、Node.jsサポートなど、大幅なアップデートを提供します。これにより、さまざまなバンドラーやフレームワークとの互換性が向上します。主な機能には、副作用スキャナーやリモートモジュールの統合の容易化などがあり、これまでの導入における課題を解決します。執筆：Daniel Curtis (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/module-federation-2-stable/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 03 Apr 2026 10:12:00 +0000</pubDate>
     </item>
     <item>
       <title>プレゼンテーション：楽しみと利益のためにエージェント群を指揮する</title>
@@ -77,6 +70,13 @@
       <description>APIキー、トークンファイル、OAuthデバイスフロー、クライアント認証情報を比較。CLIに最適な認証パターンを選択するための実践的なガイド。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cli-authentication-guide</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>プレゼンテーション：パネルディスカッション：建築を閉鎖的な空間から解放する</title>
+      <link>https://www.infoq.com/presentations/panel-complexity-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>アンドリュー・ハーメル＝ローと専門家アーキテクトによるパネルディスカッションでは、2025年におけるアーキテクチャの実践の変化について議論します。ステークホルダーへの技術的負債の伝達戦略、ADR（代替的意思決定ルール）による分散型意思決定の利点、現代のリーダーのキャリアパスについて解説します。また、モバイルチームとバックエンドチーム間のギャップを埋め、包括的なシステムを確保するための洞察も共有します。執筆者：アンドリュー・ハーメル＝ロー、キャット・モリス、ダイアナ・モンタリオン、シャナ・ダクレズ＝ローレンス、ヴァネッサ・フォルミコラ、エレナ・ストイミロヴァ、ピーター・ハンター (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/panel-complexity-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 03 Apr 2026 09:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
