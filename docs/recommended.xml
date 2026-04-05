@@ -7,47 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Apr 2026 07:06:45 +0000</lastBuildDate>
-    <item>
-      <title>サプライチェーン攻撃から身を守るために最低限設定しておきたいこと</title>
-      <link>https://zenn.dev/dely_jp/articles/supply-chain-kowai</link>
-      <description>こんにちは、クラシルのラクです。
-2026年3月だけで、サプライチェーン攻撃が立て続けに発生しています。
-
-
-3月19日: セキュリティスキャナTrivyのGitHub Actionsが侵害され、CIで実行するだけでSSH鍵やクラウドトークンが窃取される状態に
-
-3月24日: Trivyの侵害を起点にPyPIのLiteLLMにも波及。数時間にわたり悪意あるバージョンが配布
-
-3月31日（本日）: npmのaxiosのメンテナアカウントが乗っ取られ、RATが仕込まれたバージョンが公開
-
-
-Trivy → LiteLLMのように、1つの侵害が連鎖的に別のプロジェクトに波及するケースも出てきて... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/supply-chain-kowai</guid>
-      <pubDate>Tue, 31 Mar 2026 08:41:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>遺産であるCOBOLを現代化し、その正確性を自ら証明するAIを開発した話</title>
-      <link>https://zenn.dev/y_watanabe11/articles/df0a334e0f751c</link>
-      <description>予想してみてください。CUSTはCustomer（顧客）でしょう。IDはそのままID。ですが、末尾のXは何を指すのか、さっぱりわかりません。 次に、一般的なAI移行ツールによって「現代化」された後のコードを見てみましょう。 名前はそのまま、スネークケース（snake_case）になっただけ。相変わらず意味不明です。業界ではこれ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/y_watanabe11/articles/df0a334e0f751c</guid>
-      <pubDate>Fri, 03 Apr 2026 09:11:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stitch × Figma Make × Claude Code で個人サイトがすんなり完成した話</title>
-      <link>https://zenn.dev/sunagaku/articles/stitch-figmamake-design-flow</link>
-      <description>はじめに
-AIを使えばデザインも簡単に作れる時代になりました。Figma Make、Stitch、v0 など、プロンプトを入力するだけでUIを生成してくれるツールがどんどん増えています。
-ただ、実際に使ってみると「それっぽいもの」は作れるけど、自分が本当に納得するデザインにたどり着くのは意外と難しいと感じた方も多いのではないでしょうか。
-
-いきなりAIに作らせても、漠然とした指示だと微妙なデザインが出てくる
-何度も修正するうちにAIクレジットが足りなくなる
-デザイン作成後に実装させる時にも手間がかかる
-
-僕自身も個人サイト（sunagaku.com）を作る際に同じ課題を感じていました... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sunagaku/articles/stitch-figmamake-design-flow</guid>
-      <pubDate>Thu, 02 Apr 2026 09:47:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Apr 2026 07:13:26 +0000</lastBuildDate>
     <item>
       <title>ハーネスエンジニアリングを極めたら、IssueからAIエージェントが動き、人間の役割は要件定義だけになった</title>
       <link>https://zenn.dev/aicon_kato/articles/harness-engineering-startup</link>
@@ -59,29 +19,68 @@ AIを使えばデザインも簡単に作れる時代になりました。Figma 
       <pubDate>Wed, 01 Apr 2026 11:51:41 +0000</pubDate>
     </item>
     <item>
-      <title>npm をセキュアな挙動にするために .npmrc に記述する最小設定</title>
-      <link>https://zenn.dev/cycloud_blog/articles/5ce66daf4bd0cb</link>
+      <title>リップシンクする妻のAIアバターをClaude Codeと開発した。iPhoneでアクセスして音声対話ができる、その作り方（CloseBox） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/04/04/4970.html</link>
+      <description>Grok Imagineで生成した妻の動画を27インチの大画面に映して「存在感」を味わう、という話を以前書きました。これは今も続けていて、十分に心が満たされてるのですが、そろそろその先にそろそろ進みたい。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.techno-edge.net/article/2026/04/04/4970.html</guid>
+      <pubDate>Sat, 04 Apr 2026 05:38:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoftがエンジニア全員にストップウォッチを配っていた時代の教訓</title>
+      <link>https://joho-todai.com/microsoft-engineers-stopwatch-lessons-productivity-era/</link>
+      <description>かつてMicrosoftには、ソフトウェアの「速さ」を物理的に計測する文化があった。その証言が、現代のメモリ浪費への批判と重なり、大きな反響を呼んでいる。 エンジニア全員にストップウォッチが支給された時代Windowsの品質を議論するとき、「昔はよかった」は禁句に近い。だが、元Windows部門プレジデントのスティーブ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://joho-todai.com/microsoft-engineers-stopwatch-lessons-productivity-era/</guid>
+      <pubDate>Sat, 04 Apr 2026 15:22:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>X 旧Twitter の「凍結回避ポイント」なんて、もうおまじない程度の価値しかない件について</title>
+      <link>https://anond.hatelabo.jp/20260405085134</link>
+      <description>さっきXで「凍結回避の8つのポイント」みたいなポストを見た。 BOT認定を避けろとか、不自然な操作をするなとか、誹謗中傷はやめろとか でも、今のXでそれ守ってて本当に凍結が防げるか？ 答えはNOだ。 現状、規約の空文化がひどすぎる。 健全に運用しているはずのアカウントが凍結されている。月額料金を払って青バッジ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://anond.hatelabo.jp/20260405085134</guid>
+      <pubDate>Sat, 04 Apr 2026 23:54:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>蚊を「空飛ぶ注射器」にしてコウモリにワクチンを打つ新技術が開発される</title>
+      <link>https://gigazine.net/news/20260404-mosquitos-flying-vaccine-carriers/</link>
+      <description>中国の研究チームが、コウモリが媒介する人獣共通感染症の流出（スピルオーバー）を防ぐために、蚊をワクチンの運び手として利用する、あるいは塩水トラップを用いた経口接種を行うという、生態学に基づいた新しいワクチン接種プラットフォームを開発しました。この手法は、コウモリを駆除することなく、狂犬病ウイルス... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20260404-mosquitos-flying-vaccine-carriers/</guid>
+      <pubDate>Sat, 04 Apr 2026 02:13:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>基本情報技術者試験に合格したので、勉強法と実際の試験についてまとめました</title>
+      <link>https://zenn.dev/hiruma_devlog/articles/c5f18ee690c2bc</link>
       <description>はじめに
-グループIT推進本部 CyberAgent group Infrastructure Unit（以下、CIU）所属・Next Expertsの平井（@did0es）です。
-CIUのサービスのWebフロントエンド開発に携わる傍ら、TypeScriptのNext Expertsとして情報発信や社内向けの技術支援を中心に活動しています。
-本記事では、pnpm や bun への移行を検討する前に、まず npm のままで実現可能なセキュリティ対策を実施したい人を対象に、 .npmrc に入れるべき最小限の設定を紹介します。
-ここで紹介する設定は、最小構成でありつつ、CIUのWebフロ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/cycloud_blog/articles/5ce66daf4bd0cb</guid>
-      <pubDate>Wed, 01 Apr 2026 07:30:48 +0000</pubDate>
+基本情報技術者試験の勉強法や体験談は、すでにたくさん公開されていると思います。
+その中でも、これから受験する方の中には「できるだけ新しい受験体験を参考にしたい」と思う方もいるのではないでしょうか。
+私も今回受験した(2026年3月29日)ので、勉強の進め方や実際に受けて感じたことをまとめてみようと思いました。
+基本情報技術者試験は出題範囲が広いため、これまでの学習経験や実務経験によって、必要な勉強時間や難易度の感じ方がかなり変わる試験だと思います。
+そのため、この記事の内容も「あくまで一例」として、参考程度に読んでいただければ嬉しいです。
+
+ 基本情報技術者を受けようと思っ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hiruma_devlog/articles/c5f18ee690c2bc</guid>
+      <pubDate>Sat, 04 Apr 2026 04:17:09 +0000</pubDate>
     </item>
     <item>
-      <title>淀川橋梁の部材に溶接不良2万8000カ所、再製作費をカナデビアに請求</title>
-      <link>https://xtech.nikkei.com/atcl/nxt/column/18/00142/02579/</link>
-      <description>建設中の阪神なんば線淀川橋梁で見つかった橋梁部材の溶接不良が約2万8000カ所に上ることを、施工を手掛ける日本橋梁（大阪市）の親会社のオリエンタル白石が明らかにした。日本橋梁は部材の再製作などに要する費用の全額を、溶接不良の部材を製作したカナデビア（旧日立造船）に請求する考えだ。同社は費用負担について... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://xtech.nikkei.com/atcl/nxt/column/18/00142/02579/</guid>
-      <pubDate>Thu, 02 Apr 2026 22:58:21 +0000</pubDate>
+      <title>AIエージェント開発の新標準「ADLC」を読み解く — IBM×Anthropicのガイドへの共感と、本番運用からの実践的フィードバック</title>
+      <link>https://zenn.dev/dxclab/articles/9f015ee80cd809</link>
+      <description>はじめに
+AIエージェントのPoCや検証は多くの現場で行われるようになりましたが、「本番環境で安定して運用する」となると、途端にハードルが上がります。従来のソフトウェア開発の常識だけでは対処しきれない課題が次々と出てくるからです。
+こうした課題に対して、IBMとAnthropicが共同で「ADLC（Agentic Development Lifecycle）」というガイドラインを公開しています。
+https://newsroom.ibm.com/2025-10-07-2025-ibm-and-anthropic-partner-to-advance-enterprise-softwa... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dxclab/articles/9f015ee80cd809</guid>
+      <pubDate>Fri, 03 Apr 2026 16:12:51 +0000</pubDate>
     </item>
     <item>
-      <title>思いつきを手軽にメモ。Claudeでアイデアを残し、広げる仕組みを作ってみた。 | DevelopersIO</title>
-      <link>https://dev.classmethod.jp/articles/claudememo-20260403/</link>
-      <description>この記事では、Claudeに「メモして」と言うだけでGitHubリポジトリにアイデアが自動保存される仕組みを作った話を、保存先選びの試行錯誤も含めてまとめます。 はじめに こんにちは、あんでぃです。 通勤電車の中、シャワーを浴びているとき、子供の送り迎えの帰り道。ふと「あ、これいいかも」と思いつくことがあります... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/claudememo-20260403/</guid>
-      <pubDate>Sat, 04 Apr 2026 00:36:02 +0000</pubDate>
+      <title>AIが書いたコードをレビューするな</title>
+      <link>https://zenn.dev/a_1ro/articles/4b0333e9d7b8f9</link>
+      <description>はじめに
+AIが書いたコードを一生懸命レビューしているあなた。残念だが、その作業は今日で終わりにしていい。
+2026年3月、InfoQがある調査結果を報じた。「AIコーディングアシスタントは開発速度を上げなかった」。理由は単純で、コーディングは元々ボトルネックではなかったからだ。
+では本当のボトルネックは何か。それは「認識のズレ」だ。
+レビューすべきはコードじゃなくて前提だ。「テストは書くよね？」「外部依存は増やさない方向だよね？」——その暗黙の期待を、実装が始まる前に言語化して合意する。それだけでコードレビューが「驚きの連続」から「確認作業」に変わる。
+この記事では、そのフローを ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/a_1ro/articles/4b0333e9d7b8f9</guid>
+      <pubDate>Fri, 03 Apr 2026 09:30:05 +0000</pubDate>
     </item>
     <item>
       <title>図面解析におけるマルチモーダル Graph RAG の有効性検証とデモアプリ開発</title>
@@ -93,31 +92,18 @@ CIUのサービスのWebフロントエンド開発に携わる傍ら、TypeScri
       <pubDate>Fri, 03 Apr 2026 05:15:34 +0000</pubDate>
     </item>
     <item>
-      <title>多くの人にとってGitが難しいという課題をスキルでなんとかしたい</title>
-      <link>https://zenn.dev/musoukun/articles/05ca5a6e817d88</link>
-      <description>TL;DR
-今まで沢山発表されてる、開発者向けのスキルには、Gitの戦略も入ってるけど 開発者向けだったと思います、なので再発明してもいいかなと思ってGitをうまくやってくれるスキルを作りました。
-この記事では、なぜ作ったのか、どういう仕組みか、実際に使うとどう見えるかを書きます。
-
- Gitは便利だけど、使える人が限られている
-Gitというバージョン管理の仕組みが昔からあります。ファイルの変更履歴を記録してくれるツールで、開発者にとっては空気のような存在です。
-ただし、Gitを使うには前提知識が必要です。というか最初は概念とコマンドを分かるまで難しくて自分も苦労したと思う。全部を分... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/musoukun/articles/05ca5a6e817d88</guid>
-      <pubDate>Thu, 02 Apr 2026 18:16:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>「直す圧力」に気づいてから変わった、ポストモーテムへの向き合い方</title>
-      <link>https://zenn.dev/loglass/articles/pressure-to-fix-postmortem-redesign</link>
+      <title>「ハーネスエンジニアリングやってます」と言いたくない理由</title>
+      <link>https://zenn.dev/karamage/articles/4788b0b791ef2d</link>
       <description>はじめに
-私はインシデントコマンダーとしてインシデント対応やポストモーテムに関わっています。ポストモーテムには以前から課題感を持っていましたが、効果的なポストモーテムにするために何が必要なのか、長い間分からないままでした。
-この記事では、自分がポストモーテムに対してどんな課題感を持ち、何に失敗し、そこから何を学んで、どう改善しているのかについて書いてみます。
-
- ポストモーテムで感じていた課題と自分の失敗
-
- うまくいかないポストモーテム
-ポストモーテムをファシリテートするとき、沈黙の時間に耐えられず、議論が煮えきらないまま解決策の検討に進んでしまうことがありました。自分自身がインシ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/loglass/articles/pressure-to-fix-postmortem-redesign</guid>
-      <pubDate>Fri, 03 Apr 2026 04:17:28 +0000</pubDate>
+トレンドの技術記事を眺めていると「ハーネスエンジニアリング」という言葉が目に飛び込んでくることが多くなってきました。ハーネスエンジニアリング…なんだかカッコいいスタイリッシュな響きで、綺羅星のように輝く新しい専門領域が誕生した感があります。
+でも、中身を読んでいくうちに、ちょっと違和感。。。これ、自分が普段やっていることと何が違うんだろう。。
+個人的にはハーネスエンジニアリングは、まやかしで実体のない曖昧で危うさを秘めた言葉だと思っています。
+!
+「まやかし」は、言いすぎかも(汗 と自己ツッコミ
+言葉だけが先行して勝手に一人歩きしてる感を「まやかし」と表現してみました。
+定... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/karamage/articles/4788b0b791ef2d</guid>
+      <pubDate>Sat, 04 Apr 2026 10:52:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

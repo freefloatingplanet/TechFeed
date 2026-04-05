@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Apr 2026 07:06:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 07:13:38 +0000</lastBuildDate>
+    <item>
+      <title>Swift 6.3ではAndroid SDKが安定化され、C言語との相互運用性が拡張されるなど、様々な改善がなされています。</title>
+      <link>https://www.infoq.com/news/2026/04/swift-6-3-android-c-interop/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Swift 6.3は、公式のAndroidサポートによりSwiftのクロスプラットフォーム化をさらに進め、新しい@c属性によってC言語との相互運用性を大幅に向上させ、組み込みプログラミングのサポートを継続的に拡張しています。また、統一されたビルドシステムの方向性によってエコシステムを強化し、開発者に低レベルのパフォーマンス制御機能を提供します。 執筆：セルジオ・デ・シモーネ (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/swift-6-3-android-c-interop/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 03 Apr 2026 17:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
       <link>https://workos.com/blog/workos-pipes-third-party-integrations</link>
@@ -21,13 +28,6 @@
       <description>GitHubは、アクセシビリティに関するフィードバックを大規模に管理するための、AIを活用した継続的なワークフローを導入しました。GitHub Actions、Copilot、およびModels APIを使用することで、このシステムはレポートを一元化し、WCAG準拠状況を分析し、人間の検証を維持しながらトリアージを自動化します。これにより、チームはフィードバックをより迅速に解決できるようになり、インクルージョンと部門横断的なコラボレーションが向上します。Leela Kumili著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 02 Apr 2026 14:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PinterestがAIエージェントワークフロー向けに本番規模のモデルコンテキストプロトコルエコシステムを展開</title>
-      <link>https://www.infoq.com/news/2026/04/pinterest-mcp-ecosystem/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Pinterestのエンジニアリングチームは、AIエージェントが複雑なエンジニアリングタスクを自動化し、多様な社内ツールを統合できる、本番環境に対応したモデルコンテキストプロトコル（MCP）エコシステムを導入しました。ドメイン固有のMCPサーバー、中央レジストリ、そして人間による承認プロセスにより、セキュリティ、ガバナンス、開発者の生産性が向上し、毎月数千時間もの時間を節約できます。Leela Kumili著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/pinterest-mcp-ecosystem/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 01 Apr 2026 14:35:00 +0000</pubDate>
     </item>
     <item>
       <title>記事：RAGを超えて：Spring Bootでコンテキスト認識型AIシステムを設計する</title>
@@ -60,7 +60,7 @@
     <item>
       <title>プレゼンテーション：楽しみと利益のためにエージェント群を指揮する</title>
       <link>https://www.infoq.com/presentations/coding-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>エイドリアン・コッククロフトは、クラウドネイティブからAIネイティブ開発への移行について解説します。彼は、CursorやClaude Flowといったツールを用いて自律エージェント群を管理する「ディレクターレベル」のアプローチを紹介します。BDD、MCPサーバー、言語移植における実際の実験について議論しながら、エンジニアリングの未来はAI主導の開発をオーケストレーションするプラットフォームの構築にある理由を論じます。執筆：エイドリアン・コッククロフト (source: InfoQ)</description>
+      <description>エイドリアン・コッククロフトは、クラウドネイティブからAIネイティブ開発への移行について解説します。彼は、CursorやClaude Flowといったツールを用いて自律エージェント群を管理する「ディレクターレベル」のアプローチを紹介します。BDD、MCPサーバー、言語移植における実際の実験について議論しながら、エンジニアリングの未来はAI駆動型開発をオーケストレーションするプラットフォームの構築にある理由を論じます。執筆：エイドリアン・コッククロフト (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/coding-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 02 Apr 2026 09:19:00 +0000</pubDate>
     </item>
@@ -72,7 +72,7 @@
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：パネルディスカッション：建築を閉鎖的な空間から解放する</title>
+      <title>プレゼンテーション：パネルディスカッション：建築をエコーチェンバーから解放する</title>
       <link>https://www.infoq.com/presentations/panel-complexity-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>アンドリュー・ハーメル＝ローと専門家アーキテクトによるパネルディスカッションでは、2025年におけるアーキテクチャの実践の変化について議論します。ステークホルダーへの技術的負債の伝達戦略、ADR（代替的意思決定ルール）による分散型意思決定の利点、現代のリーダーのキャリアパスについて解説します。また、モバイルチームとバックエンドチーム間のギャップを埋め、包括的なシステムを確保するための洞察も共有します。執筆者：アンドリュー・ハーメル＝ロー、キャット・モリス、ダイアナ・モンタリオン、シャナ・ダクレズ＝ローレンス、ヴァネッサ・フォルミコラ、エレナ・ストイミロヴァ、ピーター・ハンター (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/panel-complexity-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
