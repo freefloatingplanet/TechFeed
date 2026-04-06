@@ -7,20 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Apr 2026 07:13:30 +0000</lastBuildDate>
-    <item>
-      <title>「日本には大きな市場があり、非常に大きなイノベーションの可能性がある」日本の製薬市場に注目。欧州発、宇宙バイオテック企業YURIインタビュー</title>
-      <link>https://sorabatake.jp/45275/</link>
-      <description>商業宇宙ステーション構築に向けた動きが活発化しています。そのようななか、日本の製薬市場に注目する、ドイツに本社、ルクセンブルクに子会社を持つスタートアップのYURIにお話を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45275/</guid>
-      <pubDate>Mon, 23 Mar 2026 23:00:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Apr 2026 07:50:57 +0000</lastBuildDate>
     <item>
       <title>スカパーJSAT、「アルテミスII」のOrion宇宙船からの信号受信・測定に成功</title>
       <link>https://sorae.info/space/20260403-skyperfectjsat-artemis-ii-signal.html</link>
       <description>スカパーJSAT株式会社は2026年4月3日、NASA（アメリカ航空宇宙局）の有人月ミッション「Artemis II（アルテミスII）」において、日本時間4月2日に打ち上げられた宇宙船「Orion（オリオン、オライオン）… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260403-skyperfectjsat-artemis-ii-signal.html</guid>
       <pubDate>Fri, 03 Apr 2026 06:48:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>“岩石を作る元素”は惑星も主星も同じ比率？　ホットジュピターの観測で長年の仮説を証明</title>
+      <link>https://sorae.info/astronomy/20260405-wasp-189-b.html</link>
+      <description>アリゾナ州立大学のJorge Antonio Sanchezさんを筆頭とする国際研究チームは、てんびん座の方向・地球から約320光年先の太陽系外惑星「WASP-189 b」を観測した結果、岩石を形成する元素の比率が主星（… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260405-wasp-189-b.html</guid>
+      <pubDate>Sun, 05 Apr 2026 11:21:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>BluesとSkylo、衛星・携帯キャリア・Wi-Fiを束ねるIoTモジュールを発表、いつどこでもつながる通信を実現へ【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/45402/</link>
+      <description>2026年3月9日、BluesはSkylo  Technologiesと共同で、衛星・セルラー（通信キャリアの電波）・Wi-Fiの3種類の通信方式を1つのモジュールに統合したIoT向け通信モジュール「Notecard for Skylo」を発表しました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45402/</guid>
+      <pubDate>Sun, 05 Apr 2026 22:58:46 +0000</pubDate>
     </item>
     <item>
       <title>イギリス政府、衛星通信市場での競争力を高めるために、約57億円の新たな資金提供を発表【宇宙ビジネスニュース】</title>
@@ -51,18 +58,18 @@
       <pubDate>Thu, 02 Apr 2026 12:00:09 +0000</pubDate>
     </item>
     <item>
-      <title>日本初「宇宙」を冠する大学院、立命館大学が2028年に「宇宙地球フロンティア研究科」を新設。非宇宙業界でも活躍できる人材の育成・輩出に？</title>
-      <link>https://sorabatake.jp/45375/</link>
-      <description>2028年4月、立命館大学に国内最大級の宇宙分野の大学院「宇宙地球フロンティア研究科」が誕生します。発表会で語られた新しい学びの場が生まれた背景や展望とは。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45375/</guid>
-      <pubDate>Mon, 23 Mar 2026 23:00:27 +0000</pubDate>
+      <title>NVIDIA、宇宙向け「Space Computing」を発表。年商32兆円のAI計算インフラ企業が宇宙を正式市場に【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/45528/</link>
+      <description>軌道上データセンターから地上解析まで、用途に応じた製品群を一挙に公開しました。Planet LabsやAxiom Spaceなど宇宙企業6社との連携も同時に発表しています。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45528/</guid>
+      <pubDate>Sun, 05 Apr 2026 23:04:34 +0000</pubDate>
     </item>
     <item>
-      <title>宇宙開発と大工の意外な共通点は冗長性？宇宙×大工のイベントで見えた宇宙業界と他業界の距離が縮まるヒント</title>
-      <link>https://sorabatake.jp/45353/</link>
-      <description>2026年3月10日に開催されたイベント「宇宙大工サミット 2026」で語られた宇宙開発と大工の意外な共通点。また、イベントで見えたこれからの宇宙開発と他業界が連携するうえでのヒントについてまとめています。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45353/</guid>
-      <pubDate>Sun, 22 Mar 2026 23:00:54 +0000</pubDate>
+      <title>SpaceX、宇宙向けAIチップを自社製造へ。Tesla・xAIと1テラワット規模の「TERAFAB」発表【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/45536/</link>
+      <description>AIチップの供給不足を背景に、イーロン・マスク氏率いる3社が半導体の自社製造に乗り出します。生産の8割以上が宇宙向けで、ロケット・衛星・通信に続く新たな競争軸が見えてきました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45536/</guid>
+      <pubDate>Sun, 05 Apr 2026 23:06:51 +0000</pubDate>
     </item>
     <item>
       <title>「進取の精神で空振りを恐れない」IT、自動車、食品加工…異分野が交わる “宇宙”の化学反応。福岡県商工部長に聞く、県内宇宙ビジネスの現在地</title>

@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Apr 2026 07:13:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 07:51:04 +0000</lastBuildDate>
     <item>
-      <title>Swift 6.3ではAndroid SDKが安定化され、C言語との相互運用性が拡張されるなど、様々な改善がなされています。</title>
-      <link>https://www.infoq.com/news/2026/04/swift-6-3-android-c-interop/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Swift 6.3は、公式のAndroidサポートによりSwiftのクロスプラットフォーム化をさらに進め、新しい@c属性によってC言語との相互運用性を大幅に向上させ、組み込みプログラミングのサポートを継続的に拡張しています。また、統一されたビルドシステムの方向性によってエコシステムを強化し、開発者に低レベルのパフォーマンス制御機能を提供します。 執筆：セルジオ・デ・シモーネ (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/swift-6-3-android-c-interop/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 03 Apr 2026 17:00:00 +0000</pubDate>
+      <title>13言語のClaude Codeベンチマークにおいて、動的言語はより速く、より安価に動作することが明らかになった。</title>
+      <link>https://www.infoq.com/news/2026/04/ai-coding-language-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Rubyコミッターの遠藤祐介氏による600回のベンチマークテストでは、簡略化されたGitを実装したClaude Codeを13言語でテストしました。Ruby、Python、JavaScriptが最も高速かつ安価で、1回の実行あたり0.36～0.39ドルでした。統計的に型付けされた言語は、1.4～2.6倍のコストがかかりました。動的言語に型チェッカーを追加すると、1.6～3.2倍の速度低下が発生しました。完全なデータセットはGitHubで入手可能です。執筆者：Steef-Jan Wiggers (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/ai-coding-language-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 06 Apr 2026 04:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHubがAIを統合し、アクセシビリティ問題管理を改善し、フィードバックのトリアージを自動化</title>
+      <link>https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>GitHubは、アクセシビリティに関するフィードバックを大規模に管理するための、AIを活用した継続的なワークフローを導入しました。GitHub Actions、Copilot、Models APIを使用することで、このシステムはレポートを一元化し、WCAG準拠状況を分析し、人間の検証を維持しながらトリアージを自動化します。これにより、チームはフィードバックをより迅速に解決できるようになり、インクルージョンと部門横断的なコラボレーションが向上します。Leela Kumili著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 02 Apr 2026 14:45:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
@@ -21,20 +28,6 @@
       <description>現代のアプリケーション開発では、複数のサードパーティサービスとの接続がますます重要になっています。Pipesは、OAuthフロー、トークン管理、プロバイダー設定を自動的に処理するように設計されています。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/workos-pipes-third-party-integrations</guid>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHubがAIを統合し、アクセシビリティ問題管理を改善し、フィードバックのトリアージを自動化</title>
-      <link>https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>GitHubは、アクセシビリティに関するフィードバックを大規模に管理するための、AIを活用した継続的なワークフローを導入しました。GitHub Actions、Copilot、およびModels APIを使用することで、このシステムはレポートを一元化し、WCAG準拠状況を分析し、人間の検証を維持しながらトリアージを自動化します。これにより、チームはフィードバックをより迅速に解決できるようになり、インクルージョンと部門横断的なコラボレーションが向上します。Leela Kumili著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 02 Apr 2026 14:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>記事：RAGを超えて：Spring Bootでコンテキスト認識型AIシステムを設計する</title>
-      <link>https://www.infoq.com/articles/beyond-rag-context-aware/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>本稿では、エンタープライズシステム向けRAGのアーキテクチャ改良版として、コンテキスト拡張生成（CAG）を紹介します。Spring Bootベースのコンテキストマネージャが、既存のリトリーバやLLMインフラストラクチャを変更することなく、ユーザーID、セッション状態、ポリシー制約をAIワークフローに組み込み、トレーサビリティ、一貫性、ガバナンスを向上させる方法を示します。執筆者：Syed Danish Ali (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/beyond-rag-context-aware/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 02 Apr 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>アントロピックは民間市場で注目を集めているが、スペースXがその勢いを削ぐ可能性がある。</title>
@@ -56,6 +49,13 @@
       <description>webpack 5で導入されたオープンソースのマイクロフロントエンドメカニズムであるModule Federation 2.0は、動的なTypeScript型ヒント、疎結合なランタイムレイヤー、Node.jsサポートなど、大幅なアップデートを提供します。これにより、さまざまなバンドラーやフレームワークとの互換性が向上します。主な機能には、副作用スキャナーやリモートモジュールの統合の容易化などがあり、これまでの導入における課題を解決します。執筆：Daniel Curtis (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/04/module-federation-2-stable/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Fri, 03 Apr 2026 10:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Javaニュースまとめ：TornadoVM 4.0、Google ADK for Java 1.0、Grails、Tomcat、Log4j、Gradle</title>
+      <link>https://www.infoq.com/news/2026/04/java-news-roundup-mar30-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>2026年3月30日付けの今週のJavaニュースまとめでは、TornadoVM 4.0とGoogle ADK for Java 1.0のGAリリース、GrailsとGradleの最初のリリース候補版、Micronaut、Apache Tomcart、Apache Log4jのメンテナンスリリース、そしてJakarta EE 12のアップデートといったニュースを取り上げています。執筆：Michael Redlich (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/java-news-roundup-mar30-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 06 Apr 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
       <title>プレゼンテーション：楽しみと利益のためにエージェント群を指揮する</title>

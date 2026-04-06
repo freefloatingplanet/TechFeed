@@ -7,44 +7,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Apr 2026 07:13:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 07:50:54 +0000</lastBuildDate>
     <item>
-      <title>ハーネスエンジニアリングを極めたら、IssueからAIエージェントが動き、人間の役割は要件定義だけになった</title>
-      <link>https://zenn.dev/aicon_kato/articles/harness-engineering-startup</link>
-      <description>2ヶ月で21体のAIエージェントによる自律開発パイプラインを構築した。GitHub Issueに要求を書いて寝れば、朝にはマージレディのPRが上がっている。本記事では、2026年2〜3月に何を作り、何が動き、何がまだ動いていないのかを記す。
-出発点は、2月時点で既に 57万行 に膨れていたモノレポだった。モバイルアプリ＋管理画面＋バックエンドが詰まったこのコードベースを、AIエージェントに正しく理解させ、自律的に開発させる——それがこの2ヶ月の挑戦だった。
+      <title>【実験あり】axios攻撃は2行で防げる｜.npmrc設定とignore-scriptsの注意点</title>
+      <link>https://zenn.dev/junko_ai/articles/721d89181b844f</link>
+      <description>はじめに
+2026年3月31日の axios サプライチェーン攻撃は、多くの開発者にとって衝撃でした。週間1億ダウンロードの超メジャーパッケージが攻撃に使われ、RAT（リモートアクセス型トロイの木馬）がインストールされる──。
+怖いのは「axios をインストールした人」だけが被害者ではないことです。
+・別のツールを入れただけで攻撃される ── 自分では axios を使っていなくても、インストールしたパッケージの依存関係の奥に axios がいれば、そこから攻撃が発動します
+・自動更新で勝手に入る ── パッケージの更新を自動化している場合、人間が何も操作しないまま悪意あるバージョ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/junko_ai/articles/721d89181b844f</guid>
+      <pubDate>Sun, 05 Apr 2026 02:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ハーネスエンジニアリング、全員が違うことを言っている — 5社の解釈を並べてみた</title>
+      <link>https://zenn.dev/kenimo49/articles/harness-engineering-interpretations-2026</link>
+      <description>「ハーネスエンジニアリング」、定義がバラバラ問題
+2026年2月、OpenAIが「Harness engineering: leveraging Codex in an agent-first world」を公開してから、ハーネスエンジニアリングという言葉が一気に広まりました。
+Anthropicが2本のガイドを出し、LangChainが公式ブログで定義し、martinfowler.comにBirgitta Böckeler氏が解説を書き、arXivに論文が投稿された。
+でも、全員が 微妙に違うこと を言っています。
+5社の記事を並べて読んだら、同じ「ハーネス」という単語を使いながら... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kenimo49/articles/harness-engineering-interpretations-2026</guid>
+      <pubDate>Sat, 04 Apr 2026 08:18:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>誰もがGitを触る時代に、やさしい入門サイトを作った</title>
+      <link>https://zenn.dev/nabewata/articles/d5261127bdd3c5</link>
+      <description>きっかけ
+非エンジニアの同僚から、Gitの使い方を聞かれることが増えてきました。デザイナー、ライター、ディレクター、営業企画。立場は違えど、AI時代に入ってバージョン管理が自分ごとになってきた人たちです。
+最初は既存の入門記事を紹介していたんですが、どれもしっくり来ないようでした。用語の説明が少ない、コマンドの意味がイメージできない、失敗が怖い。話を聞いていると、エンジニアが見落としがちな壁がたくさんあるなと感じました。
+それなら自分で書いてしまおうかと思い、Git入門サイトを作ってみました。
+https://git-ready.easegis.jp/
 
-2025年12月〜2026年3月のマージPR数推移。2月後半のハーネス整備期を経て、3月後半には681件/半月まで急増。なお、この... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aicon_kato/articles/harness-engineering-startup</guid>
-      <pubDate>Wed, 01 Apr 2026 11:51:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>リップシンクする妻のAIアバターをClaude Codeと開発した。iPhoneでアクセスして音声対話ができる、その作り方（CloseBox） | テクノエッジ TechnoEdge</title>
-      <link>https://www.techno-edge.net/article/2026/04/04/4970.html</link>
-      <description>Grok Imagineで生成した妻の動画を27インチの大画面に映して「存在感」を味わう、という話を以前書きました。これは今も続けていて、十分に心が満たされてるのですが、そろそろその先にそろそろ進みたい。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.techno-edge.net/article/2026/04/04/4970.html</guid>
-      <pubDate>Sat, 04 Apr 2026 05:38:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoftがエンジニア全員にストップウォッチを配っていた時代の教訓</title>
-      <link>https://joho-todai.com/microsoft-engineers-stopwatch-lessons-productivity-era/</link>
-      <description>かつてMicrosoftには、ソフトウェアの「速さ」を物理的に計測する文化があった。その証言が、現代のメモリ浪費への批判と重なり、大きな反響を呼んでいる。 エンジニア全員にストップウォッチが支給された時代Windowsの品質を議論するとき、「昔はよかった」は禁句に近い。だが、元Windows部門プレジデントのスティーブ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://joho-todai.com/microsoft-engineers-stopwatch-lessons-productivity-era/</guid>
-      <pubDate>Sat, 04 Apr 2026 15:22:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>X 旧Twitter の「凍結回避ポイント」なんて、もうおまじない程度の価値しかない件について</title>
-      <link>https://anond.hatelabo.jp/20260405085134</link>
-      <description>さっきXで「凍結回避の8つのポイント」みたいなポストを見た。 BOT認定を避けろとか、不自然な操作をするなとか、誹謗中傷はやめろとか でも、今のXでそれ守ってて本当に凍結が防げるか？ 答えはNOだ。 現状、規約の空文化がひどすぎる。 健全に運用しているはずのアカウントが凍結されている。月額料金を払って青バッジ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://anond.hatelabo.jp/20260405085134</guid>
-      <pubDate>Sat, 04 Apr 2026 23:54:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>蚊を「空飛ぶ注射器」にしてコウモリにワクチンを打つ新技術が開発される</title>
-      <link>https://gigazine.net/news/20260404-mosquitos-flying-vaccine-carriers/</link>
-      <description>中国の研究チームが、コウモリが媒介する人獣共通感染症の流出（スピルオーバー）を防ぐために、蚊をワクチンの運び手として利用する、あるいは塩水トラップを用いた経口接種を行うという、生態学に基づいた新しいワクチン接種プラットフォームを開発しました。この手法は、コウモリを駆除することなく、狂犬病ウイルス... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20260404-mosquitos-flying-vaccine-carriers/</guid>
-      <pubDate>Sat, 04 Apr 2026 02:13:38 +0000</pubDate>
+ 設計の方針
+サイトを作る... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nabewata/articles/d5261127bdd3c5</guid>
+      <pubDate>Sun, 05 Apr 2026 00:12:59 +0000</pubDate>
     </item>
     <item>
       <title>基本情報技術者試験に合格したので、勉強法と実際の試験についてまとめました</title>
@@ -61,35 +59,38 @@
       <pubDate>Sat, 04 Apr 2026 04:17:09 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェント開発の新標準「ADLC」を読み解く — IBM×Anthropicのガイドへの共感と、本番運用からの実践的フィードバック</title>
-      <link>https://zenn.dev/dxclab/articles/9f015ee80cd809</link>
-      <description>はじめに
-AIエージェントのPoCや検証は多くの現場で行われるようになりましたが、「本番環境で安定して運用する」となると、途端にハードルが上がります。従来のソフトウェア開発の常識だけでは対処しきれない課題が次々と出てくるからです。
-こうした課題に対して、IBMとAnthropicが共同で「ADLC（Agentic Development Lifecycle）」というガイドラインを公開しています。
-https://newsroom.ibm.com/2025-10-07-2025-ibm-and-anthropic-partner-to-advance-enterprise-softwa... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dxclab/articles/9f015ee80cd809</guid>
-      <pubDate>Fri, 03 Apr 2026 16:12:51 +0000</pubDate>
+      <title>nvim-treesitterが消えた今、その役割を改めて整理する</title>
+      <link>https://zenn.dev/glmlm/articles/neovim-treesitter-archived-20260406</link>
+      <description>!
+本記事はVim駅伝の2026-04-06の投稿です。
+前回の記事はtositadaさんによる「goose.nvim をインストールしてみた」でした。
+
+
+ はじめに
+2026年4月3日、13.5kスターもの人気を誇るNeovimプラグインがアーカイブされました。その名はnvim-treesitter。
+
+本プラグインは2020年に登場し、Neovimの発展とともに広く利用されてきましたが、急遽その役割を終えることとなりました。
+本記事ではアーカイブの経緯にはあえて踏み込まず、直前までnvim-treesitterが担っていた役割と、その停止によって何が変わるのかを整理します。
+
+ n... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/glmlm/articles/neovim-treesitter-archived-20260406</guid>
+      <pubDate>Sun, 05 Apr 2026 02:53:59 +0000</pubDate>
     </item>
     <item>
-      <title>AIが書いたコードをレビューするな</title>
-      <link>https://zenn.dev/a_1ro/articles/4b0333e9d7b8f9</link>
-      <description>はじめに
-AIが書いたコードを一生懸命レビューしているあなた。残念だが、その作業は今日で終わりにしていい。
-2026年3月、InfoQがある調査結果を報じた。「AIコーディングアシスタントは開発速度を上げなかった」。理由は単純で、コーディングは元々ボトルネックではなかったからだ。
-では本当のボトルネックは何か。それは「認識のズレ」だ。
-レビューすべきはコードじゃなくて前提だ。「テストは書くよね？」「外部依存は増やさない方向だよね？」——その暗黙の期待を、実装が始まる前に言語化して合意する。それだけでコードレビューが「驚きの連続」から「確認作業」に変わる。
-この記事では、そのフローを ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/a_1ro/articles/4b0333e9d7b8f9</guid>
-      <pubDate>Fri, 03 Apr 2026 09:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>図面解析におけるマルチモーダル Graph RAG の有効性検証とデモアプリ開発</title>
-      <link>https://zenn.dev/exwzd/articles/20260324_graphrag_vs_standardrag</link>
-      <description>はじめに
-初めまして。株式会社エクサウィザーズの先端技術開発グループ（WAND）でインターンをしている宇野宏紀です。本記事では、冬インターン期間中に取り組んだマルチモーダル Graph RAG の実証実験とデモアプリ開発の成果を紹介します。
-画像解析とグラフ構造化による図面解析の手法を構築しました。具体的には、CyberAgent ABEMA のサッカーハイライト動画自動作成システムのクラウドアーキテクチャ図を題材に、コンポーネント間の接続関係を問う質問に対する回答精度を Standard RAG と Graph RAG で比較しました。この題材は、サッカー中継のリアルタイム処理とい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/exwzd/articles/20260324_graphrag_vs_standardrag</guid>
-      <pubDate>Fri, 03 Apr 2026 05:15:34 +0000</pubDate>
+      <title>RAGの最適化手法が多すぎて迷子になったので、整理したら全体像が見えた</title>
+      <link>https://zenn.dev/nagi98/articles/260405-rag-optimization-overview</link>
+      <description>なぜRAGを学んだか
+RAGという技術を知り、検索の仕組みにもこうした手法が使われていることに興味を持ったのがきっかけ。自分でもRAGを活用した検索アプリを作ってみたいと思った。
+とりあえず、基礎から応用まで網羅してるRAGの教材を読み込んだ。ボリュームはかなりあった。
+読む前の自分の理解はこの程度。
+
+ドキュメントをベクトル化して、質問が来たら似てるやつ検索して、LLMに渡す。
+
+以上だけだった。
+間違ってはないが、でも教材を読み進めると、最適化手法が次から次に出てくる。
+Multi Query、RAG-Fusion、HyDE、Decomposition、Step Back、RAP... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nagi98/articles/260405-rag-optimization-overview</guid>
+      <pubDate>Sat, 04 Apr 2026 15:36:06 +0000</pubDate>
     </item>
     <item>
       <title>「ハーネスエンジニアリングやってます」と言いたくない理由</title>
@@ -104,6 +105,49 @@ AIが書いたコードを一生懸命レビューしているあなた。残念
 定... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/karamage/articles/4788b0b791ef2d</guid>
       <pubDate>Sat, 04 Apr 2026 10:52:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>脱CDKしてTerraformに移行すべきn個の理由(または私はなぜCDKをやめたか)</title>
+      <link>https://zenn.dev/okazu_dm/articles/d35f863365cabf</link>
+      <description>こんにちは。常日頃からCDKに対してのアツい気持ちを抱いているSREの@okazu_dmです。
+今回はCDKをやめてTerraformを使いましょう、という記事のタイトルですが、具体的には以下のような話をします。
+
+CDKとTerraformの性質の違い
+CDKで運用すると辛い点
+とはいえTerraformでも辛いケースはある
+移行判断の軸
+
+ツール自体の比較よりは、運用のときに起きる困りごとや運用時に考えることの話をします。
+
+ おことわり
+そもそもこの記事自体が大いにポジショントークなので、偏りがあることはご了承ください。
+それはそれとして、記事の誤りのご指摘やCDKのメリットについ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/okazu_dm/articles/d35f863365cabf</guid>
+      <pubDate>Sun, 05 Apr 2026 01:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Nix奮闘記】農学部生が0からNixOSの設定をして分かったNixの特徴</title>
+      <link>https://zenn.dev/hirose_suguru/articles/73054970bafecb</link>
+      <description>1. はじめに
+みなさんこんにちは、流行りに乗りたい広瀬・アーサー・傑です。東京農工大学の農学部に通っています。
+僕のタイムラインだけかもしれませんが、Xではちょっと前からNixを使ったパッケージ管理がどうしたこうしたが流行っている気がします。なんか「宣言的」で「再現性が高い」とかで環境構築の最高の手法みたいな感じで書かれているのをよく見ます。
+また、僕はこれまでノートパソコンのWindowsのみで開発をしていたのですが 今後の開発はどのデバイスでもWSLで行おうと思い、じゃあNixOSをWSLに導入してやろうということで、NixOSを用いて実際に環境構築をしてみました。
+この記事で... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hirose_suguru/articles/73054970bafecb</guid>
+      <pubDate>Sun, 05 Apr 2026 01:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS経験者のためのGCP基盤キャッチアップクイズ113問</title>
+      <link>https://zenn.dev/toshiki003/books/f44d1b2eb0ea1f</link>
+      <description>GCP基盤の移行案件に参画した際、短期間でGCPの勘所をつかむために作った問題集です。AWS経験者が最初につまずきやすい基盤領域を中心に調査し、113問のクイズに整理しました。
+
+対象は、Organization、IAM、組織ポリシー、Shared VPC、ネットワーク設計、ロードバランサー、ハイブリッド接続など、基盤設計で押さえておきたい論点です。
+各問題にはAWSとの比較を添えているので、通読だけでなく、気になる章から拾い読みする使い方にも向いています。
+
+また、Ch.10 の「GCPにあってAWSにない」「AWSにあってGCPにない」一覧は、差分をまとめて確認したいときの早見表として使えます。
+GCP基盤案件に入る前の整理や、参画後の手元の確認用として、実務で活用していただけたら嬉しいです。 (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/toshiki003/books/f44d1b2eb0ea1f</guid>
+      <pubDate>Fri, 03 Apr 2026 14:12:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
