@@ -7,18 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Apr 2026 07:51:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 07:24:50 +0000</lastBuildDate>
     <item>
       <title>13言語のClaude Codeベンチマークにおいて、動的言語はより速く、より安価に動作することが明らかになった。</title>
       <link>https://www.infoq.com/news/2026/04/ai-coding-language-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Rubyコミッターの遠藤祐介氏による600回のベンチマークテストでは、簡略化されたGitを実装したClaude Codeを13言語でテストしました。Ruby、Python、JavaScriptが最も高速かつ安価で、1回の実行あたり0.36～0.39ドルでした。統計的に型付けされた言語は、1.4～2.6倍のコストがかかりました。動的言語に型チェッカーを追加すると、1.6～3.2倍の速度低下が発生しました。完全なデータセットはGitHubで入手可能です。執筆者：Steef-Jan Wiggers (source: InfoQ)</description>
+      <description>Rubyコミッターの遠藤祐介氏による600回のベンチマークテストでは、簡略化されたGitを実装したClaude Codeを13言語でテストしました。Ruby、Python、JavaScriptが最も高速かつ安価で、1回あたり0.36～0.39ドルでした。統計的に型付けされた言語は、1.4～2.6倍のコストがかかりました。動的言語に型チェッカーを追加すると、1.6～3.2倍の速度低下が発生しました。完全なデータセットはGitHubで入手可能です。執筆者：Steef-Jan Wiggers (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/04/ai-coding-language-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 06 Apr 2026 04:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>GitHubがAIを統合し、アクセシビリティ問題管理を改善し、フィードバックのトリアージを自動化</title>
+      <title>GitHubがAIを統合し、アクセシビリティ問題管理の改善とフィードバックのトリアージの自動化を実現</title>
       <link>https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>GitHubは、アクセシビリティに関するフィードバックを大規模に管理するための、AIを活用した継続的なワークフローを導入しました。GitHub Actions、Copilot、Models APIを使用することで、このシステムはレポートを一元化し、WCAG準拠状況を分析し、人間の検証を維持しながらトリアージを自動化します。これにより、チームはフィードバックをより迅速に解決できるようになり、インクルージョンと部門横断的なコラボレーションが向上します。Leela Kumili著 (source: InfoQ)</description>
+      <description>GitHubは、アクセシビリティに関するフィードバックを大規模に管理するための、AIを活用した継続的なワークフローを導入しました。GitHub Actions、Copilot、およびModels APIを使用することで、このシステムはレポートを一元化し、WCAG準拠状況を分析し、人間の検証を維持しながらトリアージを自動化します。これにより、チームはフィードバックをより迅速に解決できるようになり、インクルージョンと部門横断的なコラボレーションが向上します。Leela Kumili著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 02 Apr 2026 14:45:00 +0000</pubDate>
     </item>
@@ -30,11 +30,11 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>アントロピックは民間市場で注目を集めているが、スペースXがその勢いを削ぐ可能性がある。</title>
-      <link>https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/</link>
-      <description>レインメーカー・セキュリティーズの社長であるグレン・アンダーソン氏は、非公開株の流通市場はかつてないほど活発化しており、アントロピックが最も人気のある銘柄である一方、オープンAIは勢いを失いつつあり、スペースXのIPOが間近に迫っていることで、市場全体の様相が大きく変わるだろうと述べている。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/</guid>
-      <pubDate>Sat, 04 Apr 2026 01:31:00 +0000</pubDate>
+      <title>Startup Battlefield 200の応募受付開始：VCへのアクセス、TechCrunchでの報道、そして10万ドルの資金獲得のチャンス</title>
+      <link>https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/</link>
+      <description>自社のスタートアップ、または注目に値すると確信しているスタートアップを推薦し、応募手続きを完了してください。選ばれた200社には、ベンチャーキャピタルへのアクセス、TechCrunchでの報道、そしてStartup Battlefield 200への参加費10万ドルを獲得するチャンスがあります。応募締め切りは5月27日です。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/</guid>
+      <pubDate>Mon, 06 Apr 2026 14:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Axios npmパッケージがサプライチェーン攻撃で侵害される</title>
@@ -58,11 +58,11 @@
       <pubDate>Mon, 06 Apr 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：楽しみと利益のためにエージェント群を指揮する</title>
-      <link>https://www.infoq.com/presentations/coding-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>エイドリアン・コッククロフトは、クラウドネイティブからAIネイティブ開発への移行について解説します。彼は、CursorやClaude Flowといったツールを用いて自律エージェント群を管理する「ディレクターレベル」のアプローチを紹介します。BDD、MCPサーバー、言語移植における実際の実験について議論しながら、エンジニアリングの未来はAI駆動型開発をオーケストレーションするプラットフォームの構築にある理由を論じます。執筆：エイドリアン・コッククロフト (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/coding-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 02 Apr 2026 09:19:00 +0000</pubDate>
+      <title>プレゼンテーション：DuolingoのKubernetes活用事例</title>
+      <link>https://www.infoq.com/presentations/duolingo-eks-kubernetes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Franka Passing氏は、Duolingoの500を超えるバックエンドサービスをKubernetesに移行した際のアーキテクチャ変更について解説します。Argo CDによるGitOpsへの移行、IPv6専用ポッドへの移行、そして環境分離に用いられる「セルラーアーキテクチャ」について説明しています。また、開発者の信頼管理、AWSのレート制限への対応、そして初期導入サービスの運用化といった「現場からの報告」も共有しています。Franka Passing著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/duolingo-eks-kubernetes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 06 Apr 2026 12:11:00 +0000</pubDate>
     </item>
     <item>
       <title>開発者向けCLI認証ガイド</title>

@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Apr 2026 07:50:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 07:24:45 +0000</lastBuildDate>
     <item>
-      <title>個別化された血流予測と血行動態解析のためのリアルタイム代理モデル</title>
-      <link>https://arxiv.org/abs/2604.03197v1</link>
-      <description>心血管モデリングは、健康状態の追跡と心血管疾患の早期発見に対するニーズの高まりにより、過去数十年で急速に進歩しました。1次元動脈モデルは、計算効率と解の忠実度の間で魅力的な妥協点を提供しますが、大規模な集団への適用や大規模なインシリココホートの生成は依然として困難です。末端抵抗/コンプライアンスなどの特定の血行動態パラメータは、臨床的に推定することが難しく、ナイーブにサンプリングすると非生理的な血行動態が得られることが多く、シミュレーションデータセットの大部分が破棄されることになります。この研究では、瞬時の血行動態予測とパラメータ推定が可能な機械学習（ML）モデルをトレーニングするための体系的なフレームワークを提示します。まず、大規模なAsklepios臨床データセットで観察された多変量相関に基づいて、患者のパラメトリック仮想コホートを生成することから始め、生理学的パラメータ分布が尊重されるようにします。次に、患者固有の動脈圧と心拍出量（CO）を予測できる深層ニューラルネットワークのサロゲートモデルを訓練し、入力パラメータの迅速な事前スクリーニングを可能にします。これにより、非生理的な (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.03197v1</guid>
-      <pubDate>Fri, 03 Apr 2026 17:15:34 +0000</pubDate>
+      <title>信号時相論理を用いた強化学習の階層化</title>
+      <link>https://arxiv.org/abs/2604.04923v1</link>
+      <description>本論文では、各原子述語を階層化された空間におけるメンバーシップテストとして解釈する、信号時相論理（STL）のための階層化に基づく意味論を開発する。この視点から、階層化理論とSTLの間の新しい対応原理が明らかになり、ほとんどのSTL式が時空間の階層化を誘導するものと見なせることが示される。この解釈の意義は2つある。第一に、深層強化学習（DRL）によって生成される埋め込み空間の構造を分析するための新しい理論的枠組みを提供し、それを周囲の決定空間の幾何学と関連付ける。第二に、既存の高次元分析ツールの再利用を可能にすると同時に、新しい計算手法の創出を促す原理的な枠組みを提供する。この理論を裏付けるために、（1）ミニグリッドゲームにおける階層化理論の役割を説明し、（2）STL式の堅牢性を報酬として用いるゲームをプレイするDRLエージェントの潜在埋め込みに数値的手法を適用する。その過程で、我々は計算効率の良いシグネチャを提案する。予備的な証拠に基づくと、これらのシグネチャは、そのような埋め込み空間の階層構造を明らかにする上で有望であると思われる。 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.04923v1</guid>
+      <pubDate>Mon, 06 Apr 2026 17:58:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

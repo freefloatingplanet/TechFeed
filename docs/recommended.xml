@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2026 07:50:54 +0000</lastBuildDate>
-    <item>
-      <title>【実験あり】axios攻撃は2行で防げる｜.npmrc設定とignore-scriptsの注意点</title>
-      <link>https://zenn.dev/junko_ai/articles/721d89181b844f</link>
-      <description>はじめに
-2026年3月31日の axios サプライチェーン攻撃は、多くの開発者にとって衝撃でした。週間1億ダウンロードの超メジャーパッケージが攻撃に使われ、RAT（リモートアクセス型トロイの木馬）がインストールされる──。
-怖いのは「axios をインストールした人」だけが被害者ではないことです。
-・別のツールを入れただけで攻撃される ── 自分では axios を使っていなくても、インストールしたパッケージの依存関係の奥に axios がいれば、そこから攻撃が発動します
-・自動更新で勝手に入る ── パッケージの更新を自動化している場合、人間が何も操作しないまま悪意あるバージョ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/junko_ai/articles/721d89181b844f</guid>
-      <pubDate>Sun, 05 Apr 2026 02:40:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ハーネスエンジニアリング、全員が違うことを言っている — 5社の解釈を並べてみた</title>
-      <link>https://zenn.dev/kenimo49/articles/harness-engineering-interpretations-2026</link>
-      <description>「ハーネスエンジニアリング」、定義がバラバラ問題
-2026年2月、OpenAIが「Harness engineering: leveraging Codex in an agent-first world」を公開してから、ハーネスエンジニアリングという言葉が一気に広まりました。
-Anthropicが2本のガイドを出し、LangChainが公式ブログで定義し、martinfowler.comにBirgitta Böckeler氏が解説を書き、arXivに論文が投稿された。
-でも、全員が 微妙に違うこと を言っています。
-5社の記事を並べて読んだら、同じ「ハーネス」という単語を使いながら... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kenimo49/articles/harness-engineering-interpretations-2026</guid>
-      <pubDate>Sat, 04 Apr 2026 08:18:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Apr 2026 07:24:39 +0000</lastBuildDate>
     <item>
       <title>誰もがGitを触る時代に、やさしい入門サイトを作った</title>
       <link>https://zenn.dev/nabewata/articles/d5261127bdd3c5</link>
@@ -43,20 +21,6 @@ https://git-ready.easegis.jp/
 サイトを作る... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/nabewata/articles/d5261127bdd3c5</guid>
       <pubDate>Sun, 05 Apr 2026 00:12:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>基本情報技術者試験に合格したので、勉強法と実際の試験についてまとめました</title>
-      <link>https://zenn.dev/hiruma_devlog/articles/c5f18ee690c2bc</link>
-      <description>はじめに
-基本情報技術者試験の勉強法や体験談は、すでにたくさん公開されていると思います。
-その中でも、これから受験する方の中には「できるだけ新しい受験体験を参考にしたい」と思う方もいるのではないでしょうか。
-私も今回受験した(2026年3月29日)ので、勉強の進め方や実際に受けて感じたことをまとめてみようと思いました。
-基本情報技術者試験は出題範囲が広いため、これまでの学習経験や実務経験によって、必要な勉強時間や難易度の感じ方がかなり変わる試験だと思います。
-そのため、この記事の内容も「あくまで一例」として、参考程度に読んでいただければ嬉しいです。
-
- 基本情報技術者を受けようと思っ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hiruma_devlog/articles/c5f18ee690c2bc</guid>
-      <pubDate>Sat, 04 Apr 2026 04:17:09 +0000</pubDate>
     </item>
     <item>
       <title>nvim-treesitterが消えた今、その役割を改めて整理する</title>
@@ -77,6 +41,15 @@ https://git-ready.easegis.jp/
       <pubDate>Sun, 05 Apr 2026 02:53:59 +0000</pubDate>
     </item>
     <item>
+      <title>クラウド上の機密PDFを、URLを漏らさずブラウザで安全に見せる方法</title>
+      <link>https://zenn.dev/pksha/articles/b7a7d20f40fc3f</link>
+      <description>はじめに
+PKSHA Technology のソフトウェアエンジニアの許です。私が担当する PKSHA AI ヘルプデスクでは、社内ドキュメントをもとに AI が回答を生成する RAG（Retrieval-Augmented Generation）ベースのチャットエージェント機能を提供しています。ユーザーが質問を投げると、AI がクラウドストレージ上のドキュメントを検索し、根拠を示しながら回答を返します。
+こうしたプロダクトでは、AI の回答だけでなく「その根拠となった元のドキュメントを確認したい」というニーズが生まれます。とくに PDF ファイルの場合、テキストの抜粋を見せるだけで... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pksha/articles/b7a7d20f40fc3f</guid>
+      <pubDate>Mon, 06 Apr 2026 08:05:22 +0000</pubDate>
+    </item>
+    <item>
       <title>RAGの最適化手法が多すぎて迷子になったので、整理したら全体像が見えた</title>
       <link>https://zenn.dev/nagi98/articles/260405-rag-optimization-overview</link>
       <description>なぜRAGを学んだか
@@ -91,6 +64,38 @@ RAGという技術を知り、検索の仕組みにもこうした手法が使�
 Multi Query、RAG-Fusion、HyDE、Decomposition、Step Back、RAP... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/nagi98/articles/260405-rag-optimization-overview</guid>
       <pubDate>Sat, 04 Apr 2026 15:36:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>北朝鮮の偽IT技術者だと正体がバレた面接の映像が話題に、なぜ北朝鮮の工作員と判明したのか？ - GIGAZINE</title>
+      <link>https://gigazine.net/news/20260407-north-korean-worker-interview/</link>
+      <description>近年、北朝鮮の工作員が欧米のIT企業にフリーランサーとして潜入し、機密情報を盗んで悪用したり、情報をもとに身代金を脅し取ったりする事例が多数報告されています。欧米のIT企業が北朝鮮の工作員を雇用してしまわないか戦々恐々としている中、就職面接で行った「ある質問」で北朝鮮の工作員の雇用を防ぐことができた... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20260407-north-korean-worker-interview/</guid>
+      <pubDate>Tue, 07 Apr 2026 02:54:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOLIDやクリーンアーキテクチャの前に「入力・処理・出力」を分けよう</title>
+      <link>https://zenn.dev/tokium_dev/articles/2d8dcdb5b960ab</link>
+      <description>SOLID原則、クリーンアーキテクチャ、ヘキサゴナルアーキテクチャ――。
+設計について学ぼうとすると、いきなり抽象度の高い概念が押し寄せてきます。依存性逆転の原則って何だろう。ポートとアダプターって具体的にどうやるんだろう。そう途方に暮れた経験は、多くの人にあるのではないでしょうか。
+この記事では、もっとシンプルな原則を提案します。
+入力・処理・出力を分ける
+たったこれだけです。
+IPOモデル(Input-Process-Output model)と呼ばれるこの考え方は、プログラミングの教科書で最初に学ぶ概念のひとつです。しかし、実際のコードでこれを意識して守れている人は意外と少ないかも... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/2d8dcdb5b960ab</guid>
+      <pubDate>Mon, 06 Apr 2026 05:53:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude CodeにCLIツールを渡して精度と効率を上げる</title>
+      <link>https://zenn.dev/chot/articles/d0cd0425edd869</link>
+      <description>Claude Codeを使い始めたときに驚いたのは、ファイルを探索して構造や問題点を探し当てるのが上手なことでした。詳細なコマンドを指示しなくても、grepやfindを自ら実行して、コードベースを読み解いて回答を返してくれます。
+でも、精度が期待よりも低かったり、何かよくわからない処理を延々と繰り返していることもあります。たとえば次のようなことです。
+
+直前のやり取りや自分の回答に引っ張られて、遠回りなやり方に固執する
+会話が長くなるにつれて、途中の情報を見落としたり最初に渡した指示を忘れたりして精度が下がる
+
+その一方、CLIツールはAIエージェントのような柔軟性は高くありませんが、機... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chot/articles/d0cd0425edd869</guid>
+      <pubDate>Mon, 06 Apr 2026 01:00:09 +0000</pubDate>
     </item>
     <item>
       <title>「ハーネスエンジニアリングやってます」と言いたくない理由</title>
@@ -123,17 +128,6 @@ CDKで運用すると辛い点
 そもそもこの記事自体が大いにポジショントークなので、偏りがあることはご了承ください。
 それはそれとして、記事の誤りのご指摘やCDKのメリットについ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/okazu_dm/articles/d35f863365cabf</guid>
-      <pubDate>Sun, 05 Apr 2026 01:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Nix奮闘記】農学部生が0からNixOSの設定をして分かったNixの特徴</title>
-      <link>https://zenn.dev/hirose_suguru/articles/73054970bafecb</link>
-      <description>1. はじめに
-みなさんこんにちは、流行りに乗りたい広瀬・アーサー・傑です。東京農工大学の農学部に通っています。
-僕のタイムラインだけかもしれませんが、Xではちょっと前からNixを使ったパッケージ管理がどうしたこうしたが流行っている気がします。なんか「宣言的」で「再現性が高い」とかで環境構築の最高の手法みたいな感じで書かれているのをよく見ます。
-また、僕はこれまでノートパソコンのWindowsのみで開発をしていたのですが 今後の開発はどのデバイスでもWSLで行おうと思い、じゃあNixOSをWSLに導入してやろうということで、NixOSを用いて実際に環境構築をしてみました。
-この記事で... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hirose_suguru/articles/73054970bafecb</guid>
       <pubDate>Sun, 05 Apr 2026 01:00:07 +0000</pubDate>
     </item>
     <item>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2026 07:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 07:24:43 +0000</lastBuildDate>
     <item>
       <title>スカパーJSAT、「アルテミスII」のOrion宇宙船からの信号受信・測定に成功</title>
       <link>https://sorae.info/space/20260403-skyperfectjsat-artemis-ii-signal.html</link>
@@ -30,18 +30,18 @@
       <pubDate>Sun, 05 Apr 2026 22:58:46 +0000</pubDate>
     </item>
     <item>
-      <title>イギリス政府、衛星通信市場での競争力を高めるために、約57億円の新たな資金提供を発表【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/45332/</link>
-      <description>2026年3月4日、イギリス政府は衛星通信技術を開発する英国企業に対し、3,000万ポンド（約57億円）の新たな資金提供を行うと発表しました。今回の資金提供は高性能な衛星向けのコンポーネント、AIを活用した高速データ処理、衛星間通信技術などが対象です。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45332/</guid>
-      <pubDate>Sun, 29 Mar 2026 23:02:33 +0000</pubDate>
-    </item>
-    <item>
       <title>ULAがアトラスVでAmazonの衛星29機を打ち上げ　同ロケットの最大搭載量を更新</title>
       <link>https://sorae.info/ssn/20260405-ula-amazon-leo.html</link>
       <description>ULA（ユナイテッド・ローンチ・アライアンス）は日本時間2026年4月4日に「Atlas V（アトラスV）」ロケットの打ち上げを実施しました。搭載されていたAmazonの衛星は無事に軌道に投入されたことを、ULAとAma… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/ssn/20260405-ula-amazon-leo.html</guid>
       <pubDate>Sun, 05 Apr 2026 01:19:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>観測史上初となる彗星の自転の反転を確認か　ハッブル宇宙望遠鏡の未解析データから</title>
+      <link>https://sorae.info/astronomy/20260406-comet-41p.html</link>
+      <description>カリフォルニア大学ロサンゼルス校（UCLA）のDavid Jewittさんは、木星族彗星の一つである「41P/Tuttle-Giacobini-Kresák（タットル・ジャコビニ・クレサーク彗星、以下41P）」において、… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260406-comet-41p.html</guid>
+      <pubDate>Mon, 06 Apr 2026 12:58:25 +0000</pubDate>
     </item>
     <item>
       <title>火星衛星探査MMXに期待される、日本の深宇宙探査の新章～火星の衛星フォボスのサンプルリターンがもたらすもの～</title>
@@ -72,11 +72,11 @@
       <pubDate>Sun, 05 Apr 2026 23:06:51 +0000</pubDate>
     </item>
     <item>
-      <title>「進取の精神で空振りを恐れない」IT、自動車、食品加工…異分野が交わる “宇宙”の化学反応。福岡県商工部長に聞く、県内宇宙ビジネスの現在地</title>
-      <link>https://sorabatake.jp/45406/</link>
-      <description>QPS研究所の衛星打ち上げ成功や上場を契機に、九州、特に福岡県では宇宙ビジネスへの関心と参入の動きが広がっています。福岡県商工部長の見雪和之さんに県内の宇宙ビジネスの動向や今後の展望についてお話を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45406/</guid>
-      <pubDate>Thu, 26 Mar 2026 23:00:27 +0000</pubDate>
+      <title>2026年4月の星空情報：夕空に輝く3つの星と巨大な春の星座たちを見よう</title>
+      <link>https://sorae.info/astronomy/202604-starry-sky.html</link>
+      <description>4月、春の訪れを祝うかのように鳥の歌声が響き、大地には花が咲きこぼれる時期となりました。星空も春霞に包まれ、柔らかな雰囲気に変わっていきます。 しかし、夕暮れ時には明るい星々を数多く見ることができます。 日没頃、西の空に… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/202604-starry-sky.html</guid>
+      <pubDate>Mon, 06 Apr 2026 11:08:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
