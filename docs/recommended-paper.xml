@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Apr 2026 07:24:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 07:27:55 +0000</lastBuildDate>
     <item>
-      <title>信号時相論理を用いた強化学習の階層化</title>
-      <link>https://arxiv.org/abs/2604.04923v1</link>
-      <description>本論文では、各原子述語を階層化された空間におけるメンバーシップテストとして解釈する、信号時相論理（STL）のための階層化に基づく意味論を開発する。この視点から、階層化理論とSTLの間の新しい対応原理が明らかになり、ほとんどのSTL式が時空間の階層化を誘導するものと見なせることが示される。この解釈の意義は2つある。第一に、深層強化学習（DRL）によって生成される埋め込み空間の構造を分析するための新しい理論的枠組みを提供し、それを周囲の決定空間の幾何学と関連付ける。第二に、既存の高次元分析ツールの再利用を可能にすると同時に、新しい計算手法の創出を促す原理的な枠組みを提供する。この理論を裏付けるために、（1）ミニグリッドゲームにおける階層化理論の役割を説明し、（2）STL式の堅牢性を報酬として用いるゲームをプレイするDRLエージェントの潜在埋め込みに数値的手法を適用する。その過程で、我々は計算効率の良いシグネチャを提案する。予備的な証拠に基づくと、これらのシグネチャは、そのような埋め込み空間の階層構造を明らかにする上で有望であると思われる。 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.04923v1</guid>
-      <pubDate>Mon, 06 Apr 2026 17:58:58 +0000</pubDate>
+      <title>文字エラーベクトル：ページレベルのOCR評価のための分解可能なエラー</title>
+      <link>https://arxiv.org/abs/2604.06160v1</link>
+      <description>文字エラー率 (CER) は、光学文字認識 (OCR) の品質を評価するための重要な指標です。ただし、この指標はテキストが完全に解析されていることを前提としていますが、実際にはそうでない場合がほとんどです。ページ解析エラーが発生すると、CER は定義されなくなり、指標としての使用が制限され、特にラベル付けスキーマを共有しないデータを使用する場合、ページレベルの OCR の評価が困難になります。そこで、OCR 用の文字バッグ評価器である文字エラーベクトル (CEV) を導入します。CEV は、解析と OCR、および相互作用エラーのコンポーネントに分解できます。この分解により、実務者は、文書理解パイプラインの中で、テキスト抽出全体の品質に最も大きな影響を与える部分に焦点を当てることができます。CEV はさまざまな方法で実装できますが、ここでは SpACER (空間認識文字エラー率) と Jensen-Shannon 距離を使用した文字分布方法を示します。CEV のパフォーマンスを他の指標と比較検証します。まず、CER との関係、次に解析品質です。そして最後に、ページレベルのOCR品質を直接 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.06160v1</guid>
+      <pubDate>Tue, 07 Apr 2026 17:56:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

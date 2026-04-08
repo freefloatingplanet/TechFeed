@@ -7,7 +7,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Apr 2026 07:24:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 07:27:49 +0000</lastBuildDate>
+    <item>
+      <title>50年以上前のコンピューターで月面着陸して無事に帰ってきたアポロってどうなってんの？→当時のド根性すぎるシステムに唖然</title>
+      <link>https://togetter.com/li/2683648</link>
+      <description>アポロは低性能なAGCと手計算・手作業の工夫で月着陸と帰還を成し遂げた。現代機より人的運用が多く、宇宙船内にも手動での操作や目視での確認が多数あった。「コンピューター」として計算作業のエリートが多数集められ、軌道計算などはこなしていた。巨額の予算が使えた時代ならではの面もある。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2683648</guid>
+      <pubDate>Wed, 08 Apr 2026 05:22:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub App の秘密鍵を AWS KMS に閉じ込める</title>
+      <link>https://zenn.dev/aws_japan/articles/b311c3710826a6</link>
+      <description>はじめに
+こんにちは konippi です。
+2026 年 3 月、脆弱性スキャナーのTrivy が侵害されたことは大きなニュースとなりました。攻撃者は GitHub Actions ワークフローの設定 pull_request_target を悪用して PAT を窃取し、Trivy の公式リリースにクレデンシャルスティーラーを注入。数千の CI/CD パイプラインに影響を与えました。同時期に axios の npm パッケージ侵害や、 prt-scan キャンペーンも発生しています。
+これらに共通するのは、信頼されたソフトウェアサプライチェーンの一部が侵害され、ソフトウェアの配布チ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/b311c3710826a6</guid>
+      <pubDate>Tue, 07 Apr 2026 05:33:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Agent SDK でつくる！対話型AIエージェント開発</title>
+      <link>https://zenn.dev/ml_bear/books/f2d52a3bc0b33c</link>
+      <description>この本では、Claude Agent SDK (Python) を用いて、Claude Code方式の「ヒアリング → 深掘り → 成果物を出す」対話型ワークフローを持つAIエージェントを開発していきます。つくりながら学ぶことを重視し、最小限のコードでSDKを動かすところから始めて、MCP連携やサブエージェントを活用するアプリ開発まで、ステップバイステップで学べます。
+
+旅行プランナーを題材に、ターミナルで動く対話型エージェントを開発した後は、React + FastAPI + WebSocket でWeb UIをつけてアプリの体裁に仕上げます。サンプルコードはGitHubで公開しているので、手元で動かしながら進められます。
+
+500円と設定していますが投げ銭用です。本文は全て無料で読めます。 (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ml_bear/books/f2d52a3bc0b33c</guid>
+      <pubDate>Mon, 06 Apr 2026 00:27:23 +0000</pubDate>
+    </item>
     <item>
       <title>誰もがGitを触る時代に、やさしい入門サイトを作った</title>
       <link>https://zenn.dev/nabewata/articles/d5261127bdd3c5</link>
@@ -23,22 +51,29 @@ https://git-ready.easegis.jp/
       <pubDate>Sun, 05 Apr 2026 00:12:59 +0000</pubDate>
     </item>
     <item>
-      <title>nvim-treesitterが消えた今、その役割を改めて整理する</title>
-      <link>https://zenn.dev/glmlm/articles/neovim-treesitter-archived-20260406</link>
+      <title>共有スキルを2分類で管理する――AIスキル設計の理想と現実</title>
+      <link>https://zenn.dev/uhyo/articles/ai-skill-modular</link>
       <description>!
-本記事はVim駅伝の2026-04-06の投稿です。
-前回の記事はtositadaさんによる「goose.nvim をインストールしてみた」でした。
+これは筆者が業務の経験をもとに考察した内容であり、筆者が所属する会社の実際の方針や運用を示すものではありません。あくまで一考察としてお楽しみください。
 
+スキルとは、今や多くのコーディングAIエージェントに組み込まれた機能です。自然言語で示された条件を元にAIが自動的にスキルを起動することで、スキルとして設定されたプロンプトをAIが読み込み、それに従ってAIが動くというものです。また、いわゆるスラッシュコマンドとして、ユーザーが明示的にスキルの使用を指示することもできます。
+現在、スキルはAIを拡張し、カスタマイズする主要な手段として用いられています。つまり、良いスキルを用意してあげ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/uhyo/articles/ai-skill-modular</guid>
+      <pubDate>Tue, 07 Apr 2026 03:37:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>全PRの83%をAIレビューだけでマージできるようにした</title>
+      <link>https://zenn.dev/kauche/articles/e051583461c181</link>
+      <description>はじめに
+カウシェでは、PRの83%が人間のコードレビューを経ずに自動でマージされています。
+GitHub Actions上で動くAIレビュー（Claude Code Action）がPRを自動でApproveし、CIが通ればそのまま自動マージされる仕組みです。
+本記事では、レビュールールを毎晩自動改善する仕組みを作ることで、自分たちの運用で許容できるレベルまでAIレビューの精度を引き上げた話を書きます。
 
- はじめに
-2026年4月3日、13.5kスターもの人気を誇るNeovimプラグインがアーカイブされました。その名はnvim-treesitter。
-
-本プラグインは2020年に登場し、Neovimの発展とともに広く利用されてきましたが、急遽その役割を終えることとなりました。
-本記事ではアーカイブの経緯にはあえて踏み込まず、直前までnvim-treesitterが担っていた役割と、その停止によって何が変わるのかを整理します。
-
- n... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/glmlm/articles/neovim-treesitter-archived-20260406</guid>
-      <pubDate>Sun, 05 Apr 2026 02:53:59 +0000</pubDate>
+ これが成り立つ前提
+カウシェはtoCのECプラットフォームで、バックエンド・フロントエンド・モバイルを1つのモノレポで開発しています。
+決済や認証など不可逆な領域は人間がレビュ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kauche/articles/e051583461c181</guid>
+      <pubDate>Tue, 07 Apr 2026 01:33:39 +0000</pubDate>
     </item>
     <item>
       <title>クラウド上の機密PDFを、URLを漏らさずブラウザで安全に見せる方法</title>
@@ -48,41 +83,6 @@ PKSHA Technology のソフトウェアエンジニアの許です。私が担当
 こうしたプロダクトでは、AI の回答だけでなく「その根拠となった元のドキュメントを確認したい」というニーズが生まれます。とくに PDF ファイルの場合、テキストの抜粋を見せるだけで... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/pksha/articles/b7a7d20f40fc3f</guid>
       <pubDate>Mon, 06 Apr 2026 08:05:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>RAGの最適化手法が多すぎて迷子になったので、整理したら全体像が見えた</title>
-      <link>https://zenn.dev/nagi98/articles/260405-rag-optimization-overview</link>
-      <description>なぜRAGを学んだか
-RAGという技術を知り、検索の仕組みにもこうした手法が使われていることに興味を持ったのがきっかけ。自分でもRAGを活用した検索アプリを作ってみたいと思った。
-とりあえず、基礎から応用まで網羅してるRAGの教材を読み込んだ。ボリュームはかなりあった。
-読む前の自分の理解はこの程度。
-
-ドキュメントをベクトル化して、質問が来たら似てるやつ検索して、LLMに渡す。
-
-以上だけだった。
-間違ってはないが、でも教材を読み進めると、最適化手法が次から次に出てくる。
-Multi Query、RAG-Fusion、HyDE、Decomposition、Step Back、RAP... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nagi98/articles/260405-rag-optimization-overview</guid>
-      <pubDate>Sat, 04 Apr 2026 15:36:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>北朝鮮の偽IT技術者だと正体がバレた面接の映像が話題に、なぜ北朝鮮の工作員と判明したのか？ - GIGAZINE</title>
-      <link>https://gigazine.net/news/20260407-north-korean-worker-interview/</link>
-      <description>近年、北朝鮮の工作員が欧米のIT企業にフリーランサーとして潜入し、機密情報を盗んで悪用したり、情報をもとに身代金を脅し取ったりする事例が多数報告されています。欧米のIT企業が北朝鮮の工作員を雇用してしまわないか戦々恐々としている中、就職面接で行った「ある質問」で北朝鮮の工作員の雇用を防ぐことができた... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20260407-north-korean-worker-interview/</guid>
-      <pubDate>Tue, 07 Apr 2026 02:54:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOLIDやクリーンアーキテクチャの前に「入力・処理・出力」を分けよう</title>
-      <link>https://zenn.dev/tokium_dev/articles/2d8dcdb5b960ab</link>
-      <description>SOLID原則、クリーンアーキテクチャ、ヘキサゴナルアーキテクチャ――。
-設計について学ぼうとすると、いきなり抽象度の高い概念が押し寄せてきます。依存性逆転の原則って何だろう。ポートとアダプターって具体的にどうやるんだろう。そう途方に暮れた経験は、多くの人にあるのではないでしょうか。
-この記事では、もっとシンプルな原則を提案します。
-入力・処理・出力を分ける
-たったこれだけです。
-IPOモデル(Input-Process-Output model)と呼ばれるこの考え方は、プログラミングの教科書で最初に学ぶ概念のひとつです。しかし、実際のコードでこれを意識して守れている人は意外と少ないかも... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/2d8dcdb5b960ab</guid>
-      <pubDate>Mon, 06 Apr 2026 05:53:33 +0000</pubDate>
     </item>
     <item>
       <title>Claude CodeにCLIツールを渡して精度と効率を上げる</title>
@@ -98,50 +98,37 @@ IPOモデル(Input-Process-Output model)と呼ばれるこの考え方は、プ�
       <pubDate>Mon, 06 Apr 2026 01:00:09 +0000</pubDate>
     </item>
     <item>
-      <title>「ハーネスエンジニアリングやってます」と言いたくない理由</title>
-      <link>https://zenn.dev/karamage/articles/4788b0b791ef2d</link>
-      <description>はじめに
-トレンドの技術記事を眺めていると「ハーネスエンジニアリング」という言葉が目に飛び込んでくることが多くなってきました。ハーネスエンジニアリング…なんだかカッコいいスタイリッシュな響きで、綺羅星のように輝く新しい専門領域が誕生した感があります。
-でも、中身を読んでいくうちに、ちょっと違和感。。。これ、自分が普段やっていることと何が違うんだろう。。
-個人的にはハーネスエンジニアリングは、まやかしで実体のない曖昧で危うさを秘めた言葉だと思っています。
-!
-「まやかし」は、言いすぎかも(汗 と自己ツッコミ
-言葉だけが先行して勝手に一人歩きしてる感を「まやかし」と表現してみました。
-定... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/karamage/articles/4788b0b791ef2d</guid>
-      <pubDate>Sat, 04 Apr 2026 10:52:04 +0000</pubDate>
+      <title>1件の問い合わせから、3万件/日のユーザ体験を改善したCREの取り組み</title>
+      <link>https://zenn.dev/mitene/articles/37670f812485b3</link>
+      <description>こんにちは！「家族アルバム みてね」（以下 みてね）で、CRE（Customer Reliability Engineering）をしているささたつです。
+みてねは、子どもの写真や動画を家族で共有し、成長の記録を振り返られるサービスです。
+
+ はじめに
+ある日、1件のお問い合わせが届きました。
+
+「サムネイルの色味が変なんですが…」
+
+正直、この時点では軽微な表示の問題だと思っていました。
+しかし調査を進めると、この問題は毎日3万件以上のサムネイルに影響していることがわかりました。
+この記事では、お問い合わせを起点に、
+
+原因特定までの流れ
+どうやって安全に改善を行ったのか
+改善の影響を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mitene/articles/37670f812485b3</guid>
+      <pubDate>Tue, 07 Apr 2026 01:59:18 +0000</pubDate>
     </item>
     <item>
-      <title>脱CDKしてTerraformに移行すべきn個の理由(または私はなぜCDKをやめたか)</title>
-      <link>https://zenn.dev/okazu_dm/articles/d35f863365cabf</link>
-      <description>こんにちは。常日頃からCDKに対してのアツい気持ちを抱いているSREの@okazu_dmです。
-今回はCDKをやめてTerraformを使いましょう、という記事のタイトルですが、具体的には以下のような話をします。
+      <title>誰も教えてくれないソフトウェアの社会学</title>
+      <link>https://zenn.dev/acntechjp/articles/20260406_software_sociology</link>
+      <description>——先輩、まさか私立探偵に鞍替えしていたとは思いませんでしたよ
+真実から逃げたのさ。プロジェクト炎上の責任を一人でかぶろうとしたと人は言うが、ただ臆病だっただけだ。ずぶ濡れの子犬みたいにな。
 
-CDKとTerraformの性質の違い
-CDKで運用すると辛い点
-とはいえTerraformでも辛いケースはある
-移行判断の軸
-
-ツール自体の比較よりは、運用のときに起きる困りごとや運用時に考えることの話をします。
-
- おことわり
-そもそもこの記事自体が大いにポジショントークなので、偏りがあることはご了承ください。
-それはそれとして、記事の誤りのご指摘やCDKのメリットについ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/okazu_dm/articles/d35f863365cabf</guid>
-      <pubDate>Sun, 05 Apr 2026 01:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS経験者のためのGCP基盤キャッチアップクイズ113問</title>
-      <link>https://zenn.dev/toshiki003/books/f44d1b2eb0ea1f</link>
-      <description>GCP基盤の移行案件に参画した際、短期間でGCPの勘所をつかむために作った問題集です。AWS経験者が最初につまずきやすい基盤領域を中心に調査し、113問のクイズに整理しました。
-
-対象は、Organization、IAM、組織ポリシー、Shared VPC、ネットワーク設計、ロードバランサー、ハイブリッド接続など、基盤設計で押さえておきたい論点です。
-各問題にはAWSとの比較を添えているので、通読だけでなく、気になる章から拾い読みする使い方にも向いています。
-
-また、Ch.10 の「GCPにあってAWSにない」「AWSにあってGCPにない」一覧は、差分をまとめて確認したいときの早見表として使えます。
-GCP基盤案件に入る前の整理や、参画後の手元の確認用として、実務で活用していただけたら嬉しいです。 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/toshiki003/books/f44d1b2eb0ea1f</guid>
-      <pubDate>Fri, 03 Apr 2026 14:12:41 +0000</pubDate>
+半地下のこの店では外の雨音が、店内にも少し聞こえ続ける。カウンターで隣のスツールに座る後輩と俺の間には、まだ再会したばかりのぎこちなさも残っている。
+薄くかかったビル・エヴァンスのピアノの音は、そんな空気の上を転がって消えていく。氷とグラスのぶつかる音だけが、やけに正確な秒針みたいに夜を刻んでいた。
+こいつは元SIer時代、10年以上後輩だった男で、色々と指南してやった。腐れ縁で時々飲みに行くが、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/20260406_software_sociology</guid>
+      <pubDate>Mon, 06 Apr 2026 12:08:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

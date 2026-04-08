@@ -7,20 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Apr 2026 07:24:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 07:28:00 +0000</lastBuildDate>
+    <item>
+      <title>2026年にSaaSアプリを支えるための、最適なIDおよびアクセス管理プロバイダー5選</title>
+      <link>https://workos.com/blog/best-identity-access-management-providers-2026</link>
+      <description>SaaSチーム向けの主要なIAMソリューションに関する2026年版ガイド。機能、価格、トレードオフを詳細に解説し、最適なプロバイダーを選択してエンタープライズ案件をより迅速に成立させるお手伝いをします。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/best-identity-access-management-providers-2026</guid>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>13言語のClaude Codeベンチマークにおいて、動的言語はより速く、より安価に動作することが明らかになった。</title>
       <link>https://www.infoq.com/news/2026/04/ai-coding-language-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Rubyコミッターの遠藤祐介氏による600回のベンチマークテストでは、簡略化されたGitを実装したClaude Codeを13言語でテストしました。Ruby、Python、JavaScriptが最も高速かつ安価で、1回あたり0.36～0.39ドルでした。統計的に型付けされた言語は、1.4～2.6倍のコストがかかりました。動的言語に型チェッカーを追加すると、1.6～3.2倍の速度低下が発生しました。完全なデータセットはGitHubで入手可能です。執筆者：Steef-Jan Wiggers (source: InfoQ)</description>
+      <description>Rubyコミッターの遠藤祐介氏による600回のベンチマークテストでは、簡略化されたGitを実装したClaude Codeを13言語でテストしました。Ruby、Python、JavaScriptが最も高速かつ安価で、1回の実行あたり0.36～0.39ドルでした。統計的に型付けされた言語は、1.4～2.6倍のコストがかかりました。動的言語に型チェッカーを追加すると、1.6～3.2倍の速度低下が発生しました。完全なデータセットはGitHubで入手可能です。執筆者：Steef-Jan Wiggers (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/04/ai-coding-language-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 06 Apr 2026 04:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>GitHubがAIを統合し、アクセシビリティ問題管理の改善とフィードバックのトリアージの自動化を実現</title>
-      <link>https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>GitHubは、アクセシビリティに関するフィードバックを大規模に管理するための、AIを活用した継続的なワークフローを導入しました。GitHub Actions、Copilot、およびModels APIを使用することで、このシステムはレポートを一元化し、WCAG準拠状況を分析し、人間の検証を維持しながらトリアージを自動化します。これにより、チームはフィードバックをより迅速に解決できるようになり、インクルージョンと部門横断的なコラボレーションが向上します。Leela Kumili著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 02 Apr 2026 14:45:00 +0000</pubDate>
+      <title>Anthropicがnpmソースマップファイルを介してClaudeのコードソースを誤って公開</title>
+      <link>https://www.infoq.com/news/2026/04/claude-code-source-leak/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Anthropic社のClaude Code CLIのTypeScriptソースコード全体が、npmパッケージのバージョン2.1.88にソースマップファイルが誤って含まれたことで流出した。512,000行に及ぶコードベースは数時間以内にGitHubにアーカイブされた。Anthropic社はこれを人為的ミスによるパッケージングエラーと説明している。この流出により、未公開機能、内部モデルのコードネーム、マルチエージェントオーケストレーションアーキテクチャが明らかになった。執筆：Steef-Jan Wiggers (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/claude-code-source-leak/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 07 Apr 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WorkOS Pipes：面倒なサードパーティ統合なし</title>
@@ -30,32 +37,18 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Startup Battlefield 200の応募受付開始：VCへのアクセス、TechCrunchでの報道、そして10万ドルの資金獲得のチャンス</title>
-      <link>https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/</link>
-      <description>自社のスタートアップ、または注目に値すると確信しているスタートアップを推薦し、応募手続きを完了してください。選ばれた200社には、ベンチャーキャピタルへのアクセス、TechCrunchでの報道、そしてStartup Battlefield 200への参加費10万ドルを獲得するチャンスがあります。応募締め切りは5月27日です。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/</guid>
-      <pubDate>Mon, 06 Apr 2026 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Axios npmパッケージがサプライチェーン攻撃で侵害される</title>
-      <link>https://www.infoq.com/news/2026/04/axios-supply-chain/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>2026年3月31日、Axiosライブラリの2つのバージョンが侵害され、リモートアクセス型トロイの木馬が含まれていることが判明しました。悪意のあるパッケージは、乗っ取られたメンテナーアカウントを通じて公開されました。Axiosチームは侵害の発生原因を調査しており、影響を受けたバージョンは非推奨となりました。セキュリティ専門家は、より適切な依存関係管理の必要性を強調しています。執筆：ダニエル・カーティス (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/axios-supply-chain/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 02 Apr 2026 13:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Module Federation 2.0がWebpack以外の環境でも幅広いサポートを提供し、安定版リリースに到達</title>
-      <link>https://www.infoq.com/news/2026/04/module-federation-2-stable/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>webpack 5で導入されたオープンソースのマイクロフロントエンドメカニズムであるModule Federation 2.0は、動的なTypeScript型ヒント、疎結合なランタイムレイヤー、Node.jsサポートなど、大幅なアップデートを提供します。これにより、さまざまなバンドラーやフレームワークとの互換性が向上します。主な機能には、副作用スキャナーやリモートモジュールの統合の容易化などがあり、これまでの導入における課題を解決します。執筆：Daniel Curtis (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/module-federation-2-stable/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 03 Apr 2026 10:12:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Javaニュースまとめ：TornadoVM 4.0、Google ADK for Java 1.0、Grails、Tomcat、Log4j、Gradle</title>
       <link>https://www.infoq.com/news/2026/04/java-news-roundup-mar30-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>2026年3月30日付けの今週のJavaニュースまとめでは、TornadoVM 4.0とGoogle ADK for Java 1.0のGAリリース、GrailsとGradleの最初のリリース候補版、Micronaut、Apache Tomcart、Apache Log4jのメンテナンスリリース、そしてJakarta EE 12のアップデートといったニュースを取り上げています。執筆：Michael Redlich (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/04/java-news-roundup-mar30-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 06 Apr 2026 02:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中間者攻撃：多要素認証を無効にする脅威</title>
+      <link>https://workos.com/blog/adversary-in-the-middle-attacks</link>
+      <description>ユーザーが多要素認証を有効にし、強力なパスワードを使用し、推奨するすべてのセキュリティ対策を遵守しているとしても、攻撃者がユーザーとログインページの間に潜り込み、リアルタイムでトラフィックを中継して有効なセッションクッキーを持ち去ってしまうとしたら、それらはすべて無意味です。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/adversary-in-the-middle-attacks</guid>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>プレゼンテーション：DuolingoのKubernetes活用事例</title>
@@ -72,11 +65,18 @@
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：パネルディスカッション：建築をエコーチェンバーから解放する</title>
-      <link>https://www.infoq.com/presentations/panel-complexity-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>アンドリュー・ハーメル＝ローと専門家アーキテクトによるパネルディスカッションでは、2025年におけるアーキテクチャの実践の変化について議論します。ステークホルダーへの技術的負債の伝達戦略、ADR（代替的意思決定ルール）による分散型意思決定の利点、現代のリーダーのキャリアパスについて解説します。また、モバイルチームとバックエンドチーム間のギャップを埋め、包括的なシステムを確保するための洞察も共有します。執筆者：アンドリュー・ハーメル＝ロー、キャット・モリス、ダイアナ・モンタリオン、シャナ・ダクレズ＝ローレンス、ヴァネッサ・フォルミコラ、エレナ・ストイミロヴァ、ピーター・ハンター (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/panel-complexity-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 03 Apr 2026 09:19:00 +0000</pubDate>
+      <title>プレゼンテーション：すべてのビットが重要になるとき：Valkeyはいかにして最新のハードウェア向けにハッシュテーブルを再構築したか</title>
+      <link>https://www.infoq.com/presentations/hashtable-modern-hardware/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>マデリン・オルソンは、Valkeyのデータ構造の進化について、教科書的なポインタ追跡型のHashMapから、よりキャッシュを意識した設計へと移行してきた経緯を解説します。彼女は、メモリ密度を最大化するための「スウェーデン式」テーブルの実装について説明し、システムに関する直感、メモリのプリフェッチ、そしてミッションクリティカルなキャッシュに必要な厳密なテストについての洞察を共有します。 マデリン・オルソン著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/hashtable-modern-hardware/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 07 Apr 2026 13:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>記事：ブルームフィルタ：理論、エンジニアリング上のトレードオフ、およびGo言語での実装</title>
+      <link>https://www.infoq.com/articles/bloom-filters-practice-go-recommender/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>この記事では、レコメンダーのパフォーマンスを最適化するためのブルームフィルタのGo言語による実装について解説します。アーキテクチャの概要、ブルームフィルタの仕組み、Go言語との統合、パラメータ調整、そして本番環境の制約下で動作させることで得られた実践的な教訓について説明します。執筆者：Gabor Koos (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/bloom-filters-practice-go-recommender/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 07 Apr 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Apr 2026 07:24:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 07:27:53 +0000</lastBuildDate>
     <item>
-      <title>スカパーJSAT、「アルテミスII」のOrion宇宙船からの信号受信・測定に成功</title>
-      <link>https://sorae.info/space/20260403-skyperfectjsat-artemis-ii-signal.html</link>
-      <description>スカパーJSAT株式会社は2026年4月3日、NASA（アメリカ航空宇宙局）の有人月ミッション「Artemis II（アルテミスII）」において、日本時間4月2日に打ち上げられた宇宙船「Orion（オリオン、オライオン）… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260403-skyperfectjsat-artemis-ii-signal.html</guid>
-      <pubDate>Fri, 03 Apr 2026 06:48:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>“岩石を作る元素”は惑星も主星も同じ比率？　ホットジュピターの観測で長年の仮説を証明</title>
-      <link>https://sorae.info/astronomy/20260405-wasp-189-b.html</link>
-      <description>アリゾナ州立大学のJorge Antonio Sanchezさんを筆頭とする国際研究チームは、てんびん座の方向・地球から約320光年先の太陽系外惑星「WASP-189 b」を観測した結果、岩石を形成する元素の比率が主星（… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260405-wasp-189-b.html</guid>
-      <pubDate>Sun, 05 Apr 2026 11:21:36 +0000</pubDate>
+      <title>NASAアルテミスII打ち上げ成功、53年ぶりに人類が月周辺へ。人類史上最も遠い場所に到達し、2028年の有人着陸に向けテスト飛行が本格始動【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/45559/</link>
+      <description>2026年4月1日、NASAのアルテミスIIが打ち上げに成功しました。アポロ17号以来53年ぶりとなる有人月周回ミッションの全容と、2028年の月面着陸に向けた今後の計画を解説します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45559/</guid>
+      <pubDate>Tue, 07 Apr 2026 23:02:22 +0000</pubDate>
     </item>
     <item>
       <title>BluesとSkylo、衛星・携帯キャリア・Wi-Fiを束ねるIoTモジュールを発表、いつどこでもつながる通信を実現へ【宇宙ビジネスニュース】</title>
@@ -51,11 +44,11 @@
       <pubDate>Tue, 31 Mar 2026 23:00:49 +0000</pubDate>
     </item>
     <item>
-      <title>100億年前のクエーサーで急な減光　超大質量ブラックホールがわずか数年で“燃料切れ”に？</title>
-      <link>https://sorae.info/astronomy/20260402-quasar-rapid-dimming.html</link>
-      <description>宇宙における変化は、私たち人間の感覚からすれば想像を絶するほど長い時間をかけて進行するイメージがあります。しかし今回、宇宙のスケールではまさに「一瞬」とも言える極めて短いタイムスパンで、劇的な変化を見せた天体の発見が報告… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260402-quasar-rapid-dimming.html</guid>
-      <pubDate>Thu, 02 Apr 2026 12:00:09 +0000</pubDate>
+      <title>ノースロップ・グラマンが「ミノタウロスIV」を打ち上げ　米宇宙軍の技術実証衛星を軌道投入</title>
+      <link>https://sorae.info/ssn/20260408-minotaur-iv.html</link>
+      <description>Northrop Grumman（ノースロップ・グラマン）は日本時間2026年4月7日、「Minotaur IV（ミノタウロスIV）」ロケットの打ち上げを実施しました。搭載されていた米国防総省の宇宙試験プログラム（STP… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260408-minotaur-iv.html</guid>
+      <pubDate>Wed, 08 Apr 2026 01:14:28 +0000</pubDate>
     </item>
     <item>
       <title>NVIDIA、宇宙向け「Space Computing」を発表。年商32兆円のAI計算インフラ企業が宇宙を正式市場に【宇宙ビジネスニュース】</title>
@@ -77,6 +70,15 @@
       <description>4月、春の訪れを祝うかのように鳥の歌声が響き、大地には花が咲きこぼれる時期となりました。星空も春霞に包まれ、柔らかな雰囲気に変わっていきます。 しかし、夕暮れ時には明るい星々を数多く見ることができます。 日没頃、西の空に… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/202604-starry-sky.html</guid>
       <pubDate>Mon, 06 Apr 2026 11:08:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>GOSATプラグインを使って、温室効果ガスのデータをQGISで可視化しよう【後編】</title>
+      <link>https://sorabatake.jp/45289/</link>
+      <description>Tellusでは、QGIS上でGOSATシリーズのデータを解析できる専用のプラグイン「GOSATプラグイン」を開発し公開しています。
+GOSATプラグインをQGIS上にインストールすることで、Tellusで提供している上記のデータセットの検索からダウンロード、また、時系列でのアニメーション表示や任意地点の数値のグラフ化など、データを可視化することができます。
+今回は、具体的にどのようにGOSATプラグインで解析できるかを紹介します。実際にQGISやプラグインをダウンロードして解析を試してみてください。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45289/</guid>
+      <pubDate>Tue, 07 Apr 2026 09:00:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
