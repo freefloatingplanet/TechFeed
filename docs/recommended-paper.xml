@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Apr 2026 07:27:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 07:44:48 +0000</lastBuildDate>
     <item>
-      <title>文字エラーベクトル：ページレベルのOCR評価のための分解可能なエラー</title>
-      <link>https://arxiv.org/abs/2604.06160v1</link>
-      <description>文字エラー率 (CER) は、光学文字認識 (OCR) の品質を評価するための重要な指標です。ただし、この指標はテキストが完全に解析されていることを前提としていますが、実際にはそうでない場合がほとんどです。ページ解析エラーが発生すると、CER は定義されなくなり、指標としての使用が制限され、特にラベル付けスキーマを共有しないデータを使用する場合、ページレベルの OCR の評価が困難になります。そこで、OCR 用の文字バッグ評価器である文字エラーベクトル (CEV) を導入します。CEV は、解析と OCR、および相互作用エラーのコンポーネントに分解できます。この分解により、実務者は、文書理解パイプラインの中で、テキスト抽出全体の品質に最も大きな影響を与える部分に焦点を当てることができます。CEV はさまざまな方法で実装できますが、ここでは SpACER (空間認識文字エラー率) と Jensen-Shannon 距離を使用した文字分布方法を示します。CEV のパフォーマンスを他の指標と比較検証します。まず、CER との関係、次に解析品質です。そして最後に、ページレベルのOCR品質を直接 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.06160v1</guid>
-      <pubDate>Tue, 07 Apr 2026 17:56:06 +0000</pubDate>
+      <title>LeLaR：AIベースの衛星姿勢制御装置の初の軌道上実証</title>
+      <link>https://arxiv.org/abs/2512.19576v5</link>
+      <description>姿勢制御は多くの衛星ミッションにとって不可欠です。しかし、従来の制御器は設計に時間がかかり、モデルの不確実性や運用境界条件の変動に敏感です。深層強化学習（DRL）は、シミュレーション環境との自律的な相互作用を通じて適応制御戦略を学習することで、有望な代替手段を提供します。シミュレーションで訓練されたエージェントを実際の衛星に展開するというSim2Realギャップを克服することは、依然として大きな課題です。本研究では、慣性ポインティングマニューバのためのAIベースの姿勢制御器の軌道上での最初の実証に成功した事例を紹介します。このコントローラはシミュレーションで完全に訓練され、ヴュルツブルク大学とベルリン工科大学が共同で開発し、2025年1月に打ち上げられたナノサテライトInnoCube 3Uに搭載されました。本稿では、AIエージェントの設計、訓練手順の方法論、シミュレーションと実際の衛星の観測された挙動との差異、およびAIベースの姿勢コントローラとInnoCubeの従来のPDコントローラとの比較について説明します。定常状態の指標は、軌道上での繰り返しマヌーバにおけるAIベースのコントロー (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.19576v5</guid>
+      <pubDate>Mon, 22 Dec 2025 17:00:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

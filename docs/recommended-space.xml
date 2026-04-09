@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 07:27:53 +0000</lastBuildDate>
-    <item>
-      <title>NASAアルテミスII打ち上げ成功、53年ぶりに人類が月周辺へ。人類史上最も遠い場所に到達し、2028年の有人着陸に向けテスト飛行が本格始動【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/45559/</link>
-      <description>2026年4月1日、NASAのアルテミスIIが打ち上げに成功しました。アポロ17号以来53年ぶりとなる有人月周回ミッションの全容と、2028年の月面着陸に向けた今後の計画を解説します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45559/</guid>
-      <pubDate>Tue, 07 Apr 2026 23:02:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Apr 2026 07:43:30 +0000</lastBuildDate>
     <item>
       <title>BluesとSkylo、衛星・携帯キャリア・Wi-Fiを束ねるIoTモジュールを発表、いつどこでもつながる通信を実現へ【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/45402/</link>
@@ -23,11 +16,11 @@
       <pubDate>Sun, 05 Apr 2026 22:58:46 +0000</pubDate>
     </item>
     <item>
-      <title>ULAがアトラスVでAmazonの衛星29機を打ち上げ　同ロケットの最大搭載量を更新</title>
-      <link>https://sorae.info/ssn/20260405-ula-amazon-leo.html</link>
-      <description>ULA（ユナイテッド・ローンチ・アライアンス）は日本時間2026年4月4日に「Atlas V（アトラスV）」ロケットの打ち上げを実施しました。搭載されていたAmazonの衛星は無事に軌道に投入されたことを、ULAとAma… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260405-ula-amazon-leo.html</guid>
-      <pubDate>Sun, 05 Apr 2026 01:19:23 +0000</pubDate>
+      <title>中国が「長征6号改」を打ち上げ　衛星インターネット低軌道衛星「国網」5機を軌道投入</title>
+      <link>https://sorae.info/ssn/20260409-satnet-leo-21.html</link>
+      <description>CASC（中国航天科技集団）は日本時間2026年4月9日、太原衛星発射センターから「長征6号改」ロケットを打ち上げました。搭載されていた衛星インターネット低軌道衛星は、所定の軌道へ無事に投入されたことが報告されています。… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260409-satnet-leo-21.html</guid>
+      <pubDate>Thu, 09 Apr 2026 03:47:29 +0000</pubDate>
     </item>
     <item>
       <title>観測史上初となる彗星の自転の反転を確認か　ハッブル宇宙望遠鏡の未解析データから</title>
@@ -35,6 +28,13 @@
       <description>カリフォルニア大学ロサンゼルス校（UCLA）のDavid Jewittさんは、木星族彗星の一つである「41P/Tuttle-Giacobini-Kresák（タットル・ジャコビニ・クレサーク彗星、以下41P）」において、… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260406-comet-41p.html</guid>
       <pubDate>Mon, 06 Apr 2026 12:58:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>ULAがアトラスVでAmazonの衛星29機を打ち上げ　同ロケットの最大搭載量を更新</title>
+      <link>https://sorae.info/ssn/20260405-ula-amazon-leo.html</link>
+      <description>ULA（ユナイテッド・ローンチ・アライアンス）は日本時間2026年4月4日に「Atlas V（アトラスV）」ロケットの打ち上げを実施しました。搭載されていたAmazonの衛星は無事に軌道に投入されたことを、ULAとAma… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260405-ula-amazon-leo.html</guid>
+      <pubDate>Sun, 05 Apr 2026 01:19:23 +0000</pubDate>
     </item>
     <item>
       <title>火星衛星探査MMXに期待される、日本の深宇宙探査の新章～火星の衛星フォボスのサンプルリターンがもたらすもの～</title>

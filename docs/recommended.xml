@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 07:27:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 07:43:25 +0000</lastBuildDate>
     <item>
-      <title>50年以上前のコンピューターで月面着陸して無事に帰ってきたアポロってどうなってんの？→当時のド根性すぎるシステムに唖然</title>
-      <link>https://togetter.com/li/2683648</link>
-      <description>アポロは低性能なAGCと手計算・手作業の工夫で月着陸と帰還を成し遂げた。現代機より人的運用が多く、宇宙船内にも手動での操作や目視での確認が多数あった。「コンピューター」として計算作業のエリートが多数集められ、軌道計算などはこなしていた。巨額の予算が使えた時代ならではの面もある。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2683648</guid>
-      <pubDate>Wed, 08 Apr 2026 05:22:48 +0000</pubDate>
+      <title>Claude Codeのメモリを3階層にしたら「覚えてる」が「学んでる」に変わった</title>
+      <link>https://zenn.dev/tokium_dev/articles/claude-code-evolutionary-memory</link>
+      <description>Claude Codeを毎日使っていると、ふと「こいつ、俺のことわかってきたな」と感じる瞬間があります。 先日、DB分析の相談をしたとき、Claude Codeが黙ってソースコードを開いてフラグの意味を確認し始めました。以前は何度もスキーマだけで推測して間違えていたのに、今回は何も言わなくても自分から確認している。 ある... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/claude-code-evolutionary-memory</guid>
+      <pubDate>Thu, 09 Apr 2026 01:21:05 +0000</pubDate>
     </item>
     <item>
       <title>GitHub App の秘密鍵を AWS KMS に閉じ込める</title>
@@ -37,29 +37,21 @@
       <pubDate>Mon, 06 Apr 2026 00:27:23 +0000</pubDate>
     </item>
     <item>
-      <title>誰もがGitを触る時代に、やさしい入門サイトを作った</title>
-      <link>https://zenn.dev/nabewata/articles/d5261127bdd3c5</link>
-      <description>きっかけ
-非エンジニアの同僚から、Gitの使い方を聞かれることが増えてきました。デザイナー、ライター、ディレクター、営業企画。立場は違えど、AI時代に入ってバージョン管理が自分ごとになってきた人たちです。
-最初は既存の入門記事を紹介していたんですが、どれもしっくり来ないようでした。用語の説明が少ない、コマンドの意味がイメージできない、失敗が怖い。話を聞いていると、エンジニアが見落としがちな壁がたくさんあるなと感じました。
-それなら自分で書いてしまおうかと思い、Git入門サイトを作ってみました。
-https://git-ready.easegis.jp/
-
- 設計の方針
-サイトを作る... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nabewata/articles/d5261127bdd3c5</guid>
-      <pubDate>Sun, 05 Apr 2026 00:12:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>共有スキルを2分類で管理する――AIスキル設計の理想と現実</title>
-      <link>https://zenn.dev/uhyo/articles/ai-skill-modular</link>
+      <title>VSCode拡張機能から考える、サプライチェーン攻撃の身近さ</title>
+      <link>https://zenn.dev/acntechjp/articles/e0f9ce661e794e</link>
       <description>!
-これは筆者が業務の経験をもとに考察した内容であり、筆者が所属する会社の実際の方針や運用を示すものではありません。あくまで一考察としてお楽しみください。
+この記事の三行まとめ
 
-スキルとは、今や多くのコーディングAIエージェントに組み込まれた機能です。自然言語で示された条件を元にAIが自動的にスキルを起動することで、スキルとして設定されたプロンプトをAIが読み込み、それに従ってAIが動くというものです。また、いわゆるスラッシュコマンドとして、ユーザーが明示的にスキルの使用を指示することもできます。
-現在、スキルはAIを拡張し、カスタマイズする主要な手段として用いられています。つまり、良いスキルを用意してあげ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/uhyo/articles/ai-skill-modular</guid>
-      <pubDate>Tue, 07 Apr 2026 03:37:22 +0000</pubDate>
+axiosのサプライチェーン攻撃を機に調べたところ、VSCode拡張機能にはサンドボックスもバージョンロックもなく、npmより構造的にリスクが見えにくい
+自分のVSCodeを棚卸ししたら43個中15個が拡張パック経由の自動インストールで、自動更新もデフォルト有効のまま運用していた
+AIエージェントが依存関係を自律的に増やす時代だからこそ、「自分の環境に何が入っているか」を定期的に把握しておくことの重要性が増している
+
+
+
+ はじめに
+2026年3月31日、JavaScriptの主要HTTPクライアントライブラリ「axios」のnpmパッケージが侵害されました[... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/e0f9ce661e794e</guid>
+      <pubDate>Wed, 08 Apr 2026 07:43:34 +0000</pubDate>
     </item>
     <item>
       <title>全PRの83%をAIレビューだけでマージできるようにした</title>
@@ -76,13 +68,23 @@ GitHub Actions上で動くAIレビュー（Claude Code Action）がPRを自動�
       <pubDate>Tue, 07 Apr 2026 01:33:39 +0000</pubDate>
     </item>
     <item>
-      <title>クラウド上の機密PDFを、URLを漏らさずブラウザで安全に見せる方法</title>
-      <link>https://zenn.dev/pksha/articles/b7a7d20f40fc3f</link>
-      <description>はじめに
-PKSHA Technology のソフトウェアエンジニアの許です。私が担当する PKSHA AI ヘルプデスクでは、社内ドキュメントをもとに AI が回答を生成する RAG（Retrieval-Augmented Generation）ベースのチャットエージェント機能を提供しています。ユーザーが質問を投げると、AI がクラウドストレージ上のドキュメントを検索し、根拠を示しながら回答を返します。
-こうしたプロダクトでは、AI の回答だけでなく「その根拠となった元のドキュメントを確認したい」というニーズが生まれます。とくに PDF ファイルの場合、テキストの抜粋を見せるだけで... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pksha/articles/b7a7d20f40fc3f</guid>
-      <pubDate>Mon, 06 Apr 2026 08:05:22 +0000</pubDate>
+      <title>PjMとPdMですれ違っている人たちへ。お互いが「PL」と「BS」という別の景色を見ていることに気づいてほしい。</title>
+      <link>https://zenn.dev/tokium_dev/articles/524ac5889e442e</link>
+      <description>PLだけ見ていると、目の前の数字は作れても、将来的に大きな資産になる機能を見落としてしまうかもしれません。BSだけ見ていると、壮大なビジョンはあるけど、今期の数字がついてこない。 会社の経営にPLとBSの両方が必要なように、プロダクト開発にもPjMとPdMの両方が必要です。これ、会計やってる人にはすごく自然な話... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/524ac5889e442e</guid>
+      <pubDate>Wed, 08 Apr 2026 13:48:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOLIDやクリーンアーキテクチャの前に「入力・処理・出力」を分けよう</title>
+      <link>https://zenn.dev/tokium_dev/articles/2d8dcdb5b960ab</link>
+      <description>SOLID原則、クリーンアーキテクチャ、ヘキサゴナルアーキテクチャ――。
+設計について学ぼうとすると、いきなり抽象度の高い概念が押し寄せてきます。依存性逆転の原則って何だろう。ポートとアダプターって具体的にどうやるんだろう。そう途方に暮れた経験は、多くの人にあるのではないでしょうか。
+この記事では、もっとシンプルな原則を提案します。
+入力・処理・出力を分ける
+たったこれだけです。
+IPOモデル(Input-Process-Output model)と呼ばれるこの考え方は、プログラミングの教科書で最初に学ぶ概念のひとつです。しかし、実際のコードでこれを意識して守れている人は意外と少ないかも... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/2d8dcdb5b960ab</guid>
+      <pubDate>Mon, 06 Apr 2026 05:53:33 +0000</pubDate>
     </item>
     <item>
       <title>Claude CodeにCLIツールを渡して精度と効率を上げる</title>
