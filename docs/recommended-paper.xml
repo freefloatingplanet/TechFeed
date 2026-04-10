@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Apr 2026 07:44:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:48:36 +0000</lastBuildDate>
     <item>
-      <title>LeLaR：AIベースの衛星姿勢制御装置の初の軌道上実証</title>
-      <link>https://arxiv.org/abs/2512.19576v5</link>
-      <description>姿勢制御は多くの衛星ミッションにとって不可欠です。しかし、従来の制御器は設計に時間がかかり、モデルの不確実性や運用境界条件の変動に敏感です。深層強化学習（DRL）は、シミュレーション環境との自律的な相互作用を通じて適応制御戦略を学習することで、有望な代替手段を提供します。シミュレーションで訓練されたエージェントを実際の衛星に展開するというSim2Realギャップを克服することは、依然として大きな課題です。本研究では、慣性ポインティングマニューバのためのAIベースの姿勢制御器の軌道上での最初の実証に成功した事例を紹介します。このコントローラはシミュレーションで完全に訓練され、ヴュルツブルク大学とベルリン工科大学が共同で開発し、2025年1月に打ち上げられたナノサテライトInnoCube 3Uに搭載されました。本稿では、AIエージェントの設計、訓練手順の方法論、シミュレーションと実際の衛星の観測された挙動との差異、およびAIベースの姿勢コントローラとInnoCubeの従来のPDコントローラとの比較について説明します。定常状態の指標は、軌道上での繰り返しマヌーバにおけるAIベースのコントロー (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2512.19576v5</guid>
-      <pubDate>Mon, 22 Dec 2025 17:00:25 +0000</pubDate>
+      <title>A-SLIP：連続的な手持ち滑り推定のための音響センシング</title>
+      <link>https://arxiv.org/abs/2604.08528v1</link>
+      <description>確実な手内操作には、グリッパーと把持対象物との間の滑りをリアルタイムで正確に推定することが必要です。視覚、静電容量、または力-トルク測定に基づく既存の触覚センシング手法は、形状、耐久性、および滑りの方向と大きさを同時に推定する能力において根本的なトレードオフに直面しています。本稿では、把持面における連続的な滑りを推定するために、平行ジョーグリッパーに統合されたマルチチャンネル音響センシングシステムであるA-SLIPを紹介します。A-SLIPセンサーは、構造化された接触誘起振動を捉えるために、テクスチャ加工されたシリコン接触パッドの後ろに配置された圧電マイクロホンで構成されています。A-SLIPモデルは、軽量畳み込みネットワークを使用して同期されたマルチチャンネルオーディオをログメルスペクトログラムとして処理し、滑りの存在、方向、および大きさを同時に予測します。ロボットによる滑り条件と外部からの滑り条件の両方で実施した実験において、微調整された4つのマイクロホン構成は、平均絶対方向誤差14.1度を達成し、検出精度でベースラインを最大12%上回り、方向誤差を32%削減しました。単一マイクロ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.08528v1</guid>
+      <pubDate>Thu, 09 Apr 2026 17:58:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

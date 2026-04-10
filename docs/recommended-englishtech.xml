@@ -7,41 +7,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Apr 2026 07:44:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:48:40 +0000</lastBuildDate>
     <item>
-      <title>2026年にアプリを保護するためのMFAプロバイダー上位5社</title>
-      <link>https://workos.com/blog/top-mfa-providers-2026</link>
-      <description>主要な多要素認証ソリューションを実践的に比較：それぞれの長所、短所、そして自社のシステム構成に最適なソリューションの選び方について解説します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/top-mfa-providers-2026</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <title>シエラ社のブレット・テイラー氏は、ボタンをクリックする時代は終わったと述べている。</title>
+      <link>https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/</link>
+      <description>先月、Sierraは他のエージェントを構築するためのエージェントであるGhostwriterをリリースした。この「サービスとしてのエージェント」ツールにより、同社は従来のクリックベースのWebアプリケーションを自然言語に置き換えることを目指している。ユーザーは必要なことを説明するだけで、Ghostwriterがタスクを実行するための専用エージェントを自動的に作成・展開する。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/</guid>
+      <pubDate>Thu, 09 Apr 2026 17:20:50 +0000</pubDate>
     </item>
     <item>
-      <title>2026年にSaaSアプリを支えるための、最適なIDおよびアクセス管理プロバイダー5選</title>
-      <link>https://workos.com/blog/best-identity-access-management-providers-2026</link>
-      <description>SaaSチーム向けの主要なIAMソリューションに関する2026年版ガイド。機能、価格、トレードオフを詳細に解説し、最適なプロバイダーを選択してエンタープライズ案件をより迅速に成立させるお手伝いをします。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/best-identity-access-management-providers-2026</guid>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <title>UberのHive Federationは、16,000のデータセットと10PBを超えるデータを分散化し、大規模なダウンタイムゼロの分析を実現します。</title>
+      <link>https://www.infoq.com/news/2026/04/uber-hive-decentralized-data/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>UberはHiveデータウェアハウスを分散化し、ポインタベースのフェデレーションを使用して合計10ペタバイトを超える16,000のデータセットを移行しました。この移行により、ダウンタイムゼロ、厳格なACLの適用、ガバナンスの向上、分析および機械学習ワークロード向けの拡張可能でドメイン固有のデータセットが実現します。Leela Kumili著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/uber-hive-decentralized-data/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 09 Apr 2026 13:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：ローカルファースト – 買収後も機能し続けるソフトウェアの構築方法</title>
-      <link>https://www.infoq.com/presentations/local-first-build-software/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>アレックス・グッドは、現代のクラウド依存型アプリの脆弱性について論じ、「ローカルファースト」ソフトウェアのロードマップを共有します。GitのようなDAG構造とAutomergeを活用することで、脆弱なクライアントサーバーモデルから、データがデバイス上に存在する回復力の高いシステムへと移行する方法を説明します。技術的な実装、リッチテキストのマージ、そしてこのインフラストラクチャがエンジニアリングワークフローをどのように簡素化するかを探ります。アレックス・グッド著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/local-first-build-software/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 08 Apr 2026 10:37:00 +0000</pubDate>
+      <title>TechCrunch Disrupt 2026のチケットが最大500ドル割引になるのは、残りあと2日間！</title>
+      <link>https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/</link>
+      <description>最大500ドルのチケット割引は、明日4月10日午後11時59分（太平洋標準時）に終了します。それ以降は、TechCrunch Disrupt 2026のチケット価格が再び値上がりします。この機会を逃すと、今年最も注目されているテクノロジーイベントの一つへの参加権を、より高い料金で購入しなければならなくなります。今すぐ登録して、この割引価格を確保しましょう。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/</guid>
+      <pubDate>Thu, 09 Apr 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropicがnpmソースマップファイルを介してClaudeのコードソースを誤って公開</title>
-      <link>https://www.infoq.com/news/2026/04/claude-code-source-leak/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Anthropic社のClaude Code CLIのTypeScriptソースコード全体が、npmパッケージのバージョン2.1.88にソースマップファイルが誤って含まれたことで流出した。512,000行に及ぶコードベースは数時間以内にGitHubにアーカイブされた。Anthropic社はこれを人為的ミスによるパッケージングエラーと説明している。この流出により、未公開機能、内部モデルのコードネーム、マルチエージェントオーケストレーションアーキテクチャが明らかになった。執筆：Steef-Jan Wiggers (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/claude-code-source-leak/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 07 Apr 2026 08:00:00 +0000</pubDate>
+      <title>Aspire 13.2がリリースされました。CLIの拡張、TypeScript AppHostのプレビュー、ダッシュボードの改善などが含まれています。</title>
+      <link>https://www.infoq.com/news/2026/04/aspire-13-2-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Aspire 13.2では、デタッチモードとプロセス管理を備えた拡張CLI、プレビュー版のTypeScript AppHostサポート、ダッシュボードテレメトリのエクスポートとインポート、安定版Docker Composeパブリッシング、Microsoft Foundry統合、Azure仮想ネットワークサポート、そしてVS Code拡張機能の大幅なアップデートが提供されます。このリリースには、構成ファイルとリソースコマンドに対するいくつかの互換性のない変更も含まれています。執筆者：Almir Vuk (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/aspire-13-2-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 09 Apr 2026 08:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>子ども向けソーシャルメディアを禁止しようとしている国々は以下の通りです。</title>
-      <link>https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/</link>
-      <description>オーストラリアは2025年後半に、ソーシャルメディア上で若年層が直面する可能性のあるプレッシャーやリスク（サイバーいじめ、ソーシャルメディア依存症、捕食者への接触など）を軽減することを目的として、世界で初めてソーシャルメディアの利用を禁止した国である。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/</guid>
-      <pubDate>Wed, 08 Apr 2026 16:30:53 +0000</pubDate>
+      <title>論文：階層型エージェントRAGシステムの構築：自律的なエラー回復を備えたマルチモーダル推論</title>
+      <link>https://www.infoq.com/articles/building-hierarchical-agentic-rag-systems/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>本稿では、階層型エージェントRAGシステムが、構造化されたオーケストレーションを通じて専門ワーカーをどのように調整し、複雑なエンタープライズ分析ワークフローにおける精度、信頼性、説明可能性を向上させるかを考察する。本稿では、プロトコルHを用いて、決定論的ルーティング、リフレクティブリトライ、およびモダリティ認識推論が、より安全なマルチソースクエリ実行をどのようにサポートするかを示す。執筆者：Abhijit Ubale (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/building-hierarchical-agentic-rag-systems/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 09 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>
+      <link>https://workos.com/blog/multi-tenant-permissions-slack-notion-linear</link>
+      <description>Slack、Notion、Linearはそれぞれ、テナントごとの役割と権限に関して異なるアプローチを採用しています。ここでは、自社アプリに取り入れる価値のあるパターンをご紹介します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/multi-tenant-permissions-slack-notion-linear</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>中間者攻撃：多要素認証を無効にする脅威</title>
@@ -51,11 +58,11 @@
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：DuolingoのKubernetes活用事例</title>
-      <link>https://www.infoq.com/presentations/duolingo-eks-kubernetes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Franka Passing氏は、Duolingoの500を超えるバックエンドサービスをKubernetesに移行した際のアーキテクチャ変更について解説します。Argo CDによるGitOpsへの移行、IPv6専用ポッドへの移行、そして環境分離に用いられる「セルラーアーキテクチャ」について説明しています。また、開発者の信頼管理、AWSのレート制限への対応、そして初期導入サービスの運用化といった「現場からの報告」も共有しています。Franka Passing著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/duolingo-eks-kubernetes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 06 Apr 2026 12:11:00 +0000</pubDate>
+      <title>創業者たちは、アンジュナのレイオフとその後の回復から何を学べるか</title>
+      <link>https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/</link>
+      <description>2021年、Anjuna Securityは急速に成長し、積極的に人材を採用し、無限とも思える市場を追い求めていた。同年末までに、ベンチャーキャピタルから資金提供を受けたこのサイバーセキュリティ企業は従業員数を約75人にまで拡大し、継続的な急成長を見越して営業、カスタマーサクセス、サポートチームを構築していた。そして2022年が到来した。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/</guid>
+      <pubDate>Thu, 09 Apr 2026 21:17:30 +0000</pubDate>
     </item>
     <item>
       <title>開発者向けCLI認証ガイド</title>
@@ -65,18 +72,11 @@
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：すべてのビットが重要になるとき：Valkeyはいかにして最新のハードウェア向けにハッシュテーブルを再構築したか</title>
-      <link>https://www.infoq.com/presentations/hashtable-modern-hardware/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>マデリン・オルソンは、Valkeyのデータ構造の進化について、教科書的なポインタ追跡型のHashMapから、よりキャッシュを意識した設計へと移行してきた経緯を解説します。彼女は、メモリ密度を最大化するための「スウェーデン式」テーブルの実装について説明し、システムに関する直感、メモリのプリフェッチ、そしてミッションクリティカルなキャッシュに必要な厳密なテストについての洞察を共有します。 マデリン・オルソン著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/hashtable-modern-hardware/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 07 Apr 2026 13:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>記事：ブルームフィルタ：理論、エンジニアリング上のトレードオフ、およびGo言語での実装</title>
-      <link>https://www.infoq.com/articles/bloom-filters-practice-go-recommender/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>この記事では、レコメンダーのパフォーマンスを最適化するためのブルームフィルタのGo言語による実装について解説します。アーキテクチャの概要、ブルームフィルタの仕組み、Go言語との統合、パラメータ調整、そして本番環境の制約下で動作させることで得られた実践的な教訓について説明します。執筆者：Gabor Koos (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/bloom-filters-practice-go-recommender/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 07 Apr 2026 09:00:00 +0000</pubDate>
+      <title>CloudflareがEmDashを発表：WordPressの後継として位置づけられるTypeScriptベースのCMS</title>
+      <link>https://www.infoq.com/news/2026/04/cloudflare-emdash-wordpress/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Cloudflareは先日、WordPressの「精神的後継者」と称する新しいオープンソースCMS「EmDash」のプレビュー版を発表した。サーバーレスで開発者中心のアーキテクチャを中心にCMSモデルを再構築するために設計されたEmDashは、AIネイティブ機能、開発者ツール、WordPressからの移行パスを備えており、WordPressコミュニティおよびより広範なCMSコミュニティで議論を巻き起こしている。レナート・ロシオ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/cloudflare-emdash-wordpress/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 09 Apr 2026 20:39:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

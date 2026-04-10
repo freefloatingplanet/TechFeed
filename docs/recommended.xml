@@ -7,34 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 07:43:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:48:29 +0000</lastBuildDate>
     <item>
-      <title>Claude Codeのメモリを3階層にしたら「覚えてる」が「学んでる」に変わった</title>
-      <link>https://zenn.dev/tokium_dev/articles/claude-code-evolutionary-memory</link>
-      <description>Claude Codeを毎日使っていると、ふと「こいつ、俺のことわかってきたな」と感じる瞬間があります。 先日、DB分析の相談をしたとき、Claude Codeが黙ってソースコードを開いてフラグの意味を確認し始めました。以前は何度もスキーマだけで推測して間違えていたのに、今回は何も言わなくても自分から確認している。 ある... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/claude-code-evolutionary-memory</guid>
-      <pubDate>Thu, 09 Apr 2026 01:21:05 +0000</pubDate>
+      <title>Terraformを使わずにGitHubをコードで管理する</title>
+      <link>https://zenn.dev/babarot/articles/github-as-code-with-gh-infra</link>
+      <description>GitHubのリポジトリをどう管理するか
+GitHubのリポジトリが増えてくると、設定の管理が地味に厄介になります。OSSを複数持っていると、merge strategyやRuleset、Actionsの許可設定など、毎回似たような設定をしていくことになります。また、新しい設定を入れていくときも古いリポジトリでは漏れがちで、久しぶりに開いたら古い設定だった、みたいなこともよくあります。
+例えば、Goで新しいCLIツールを書いて公開するとします。visibilityをpublicにして、squash mergeだけ有効にして、auto delete head branchesをオンにす... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/babarot/articles/github-as-code-with-gh-infra</guid>
+      <pubDate>Wed, 08 Apr 2026 11:51:11 +0000</pubDate>
     </item>
     <item>
-      <title>GitHub App の秘密鍵を AWS KMS に閉じ込める</title>
-      <link>https://zenn.dev/aws_japan/articles/b311c3710826a6</link>
+      <title>EFFがXから撤退　表示数急落と権利保護の退行を理由に　マスク氏は「恥を知れ」</title>
+      <link>https://www.itmedia.co.jp/news/articles/2604/10/news070.html</link>
+      <description>米電子フロンティア財団（EFF）は4月9日（現地時間）、米Xのプラットフォームから離脱すると発表した。 EFFは、約20年にわたり同プラットフォーム（旧Twitter）を利用してきたが、離脱の主な理由として「インプレッションの激減」と「ユーザーの権利保護に対する姿勢の変化」を挙げている。 2018年には月に5000万～1億回... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2604/10/news070.html</guid>
+      <pubDate>Fri, 10 Apr 2026 00:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>エージェント開発の参考に！GitHub Copilotのシステムプロンプトを見てみよう</title>
+      <link>https://zenn.dev/microsoft/articles/github-copilot-prompts</link>
+      <description>AIエージェント開発では、モデル選定やツールはもちろんですが、それらを正しくハンドリングするための振る舞いの指示となるプロンプト（コンテキスト）の設計が肝です。すでに多くの企業がエージェントを製品に組み込んでおり、先行者の知見を自身の開発しているAIエージェントに活かせると効率的です。
+とはいえ、実際のプロダクトがどんな指示やルールで動いているかは製品の価値そのものであるがゆえに、多くの企業はそれらを公開せず、外から見えないことがほとんどです。
+
+ GitHub Copilotはプロンプトも含めてOSS
+実はGitHub Copilot（VS Code向け）のプロンプトを含むソースコード... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/github-copilot-prompts</guid>
+      <pubDate>Wed, 08 Apr 2026 02:45:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【2026年4月版】会社員が個人事業主になってApp Store・Google Playに組織アカウントで登録するまでの全記録</title>
+      <link>https://zenn.dev/zawascript/articles/2026-04-store</link>
       <description>はじめに
-こんにちは konippi です。
-2026 年 3 月、脆弱性スキャナーのTrivy が侵害されたことは大きなニュースとなりました。攻撃者は GitHub Actions ワークフローの設定 pull_request_target を悪用して PAT を窃取し、Trivy の公式リリースにクレデンシャルスティーラーを注入。数千の CI/CD パイプラインに影響を与えました。同時期に axios の npm パッケージ侵害や、 prt-scan キャンペーンも発生しています。
-これらに共通するのは、信頼されたソフトウェアサプライチェーンの一部が侵害され、ソフトウェアの配布チ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/b311c3710826a6</guid>
-      <pubDate>Tue, 07 Apr 2026 05:33:24 +0000</pubDate>
+お久しぶりです、@zawascriptです。
+最近は個人開発でアプリを作っているのですが、いざストアに公開しようとしたとき、こんな壁にぶつかりました。
+「本名がストアに公開されるの、嫌だな……」
+App StoreやGoogle Playに個人アカウントでアプリを公開すると、本名がストア上に表示されます。副業でやるにしても、趣味で出すにしても、フルネームが世界に公開されるのはちょっと抵抗がありますよね。
+この問題を解決するのが組織（Organization）アカウントです。組織アカウントなら、ストア上に表示されるのは屋号や事業名だけで、個人名は公開されません。
+ただし、組織... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/zawascript/articles/2026-04-store</guid>
+      <pubDate>Wed, 08 Apr 2026 11:05:59 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Agent SDK でつくる！対話型AIエージェント開発</title>
-      <link>https://zenn.dev/ml_bear/books/f2d52a3bc0b33c</link>
-      <description>この本では、Claude Agent SDK (Python) を用いて、Claude Code方式の「ヒアリング → 深掘り → 成果物を出す」対話型ワークフローを持つAIエージェントを開発していきます。つくりながら学ぶことを重視し、最小限のコードでSDKを動かすところから始めて、MCP連携やサブエージェントを活用するアプリ開発まで、ステップバイステップで学べます。
-
-旅行プランナーを題材に、ターミナルで動く対話型エージェントを開発した後は、React + FastAPI + WebSocket でWeb UIをつけてアプリの体裁に仕上げます。サンプルコードはGitHubで公開しているので、手元で動かしながら進められます。
-
-500円と設定していますが投げ銭用です。本文は全て無料で読めます。 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ml_bear/books/f2d52a3bc0b33c</guid>
-      <pubDate>Mon, 06 Apr 2026 00:27:23 +0000</pubDate>
+      <title>「トロイの木馬除去費用」セブンイレブンのこれ何？→持っていったら店員さんが優しく諭してくれます</title>
+      <link>https://togetter.com/li/2684300</link>
+      <description>セブンイレブンで見かける「これ何？」は、高齢者が特殊詐欺や偽ウイルス請求に遭いそうなときに店員に示すカード。持参されたら店員が対応を始め、電話相手が詐欺と気づかれにくい状況でも通報や説得で被害を防げる仕組み。警察と連携したアナログな防犯策で、電子マネーでの不正送金を抑止する効果がある。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2684300</guid>
+      <pubDate>Fri, 10 Apr 2026 03:25:58 +0000</pubDate>
     </item>
     <item>
       <title>VSCode拡張機能から考える、サプライチェーン攻撃の身近さ</title>
@@ -54,83 +73,44 @@ AIエージェントが依存関係を自律的に増やす時代だからこそ
       <pubDate>Wed, 08 Apr 2026 07:43:34 +0000</pubDate>
     </item>
     <item>
-      <title>全PRの83%をAIレビューだけでマージできるようにした</title>
-      <link>https://zenn.dev/kauche/articles/e051583461c181</link>
+      <title>仕様書は"使い捨て"にした方がうまくいった——仕様駆動開発3ヶ月の転換</title>
+      <link>https://zenn.dev/dely_jp/articles/ef573ae39b9162</link>
       <description>はじめに
-カウシェでは、PRの83%が人間のコードレビューを経ずに自動でマージされています。
-GitHub Actions上で動くAIレビュー（Claude Code Action）がPRを自動でApproveし、CIが通ればそのまま自動マージされる仕組みです。
-本記事では、レビュールールを毎晩自動改善する仕組みを作ることで、自分たちの運用で許容できるレベルまでAIレビューの精度を引き上げた話を書きます。
-
- これが成り立つ前提
-カウシェはtoCのECプラットフォームで、バックエンド・フロントエンド・モバイルを1つのモノレポで開発しています。
-決済や認証など不可逆な領域は人間がレビュ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kauche/articles/e051583461c181</guid>
-      <pubDate>Tue, 07 Apr 2026 01:33:39 +0000</pubDate>
+クラシルでAndroidエンジニアをしているなぐも（@nagumo7960）です。
+今年の1月から、AWSが提唱する「AI-DLC（AI-Driven Development Life Cycle）」の一部コンセプトに着想を得て、仕様書ベースの開発フローをAndroid側に導入してきました。中でも参考にしたのがConstructionフェーズの考え方です。Constructionフェーズでは「AIが提案し、人間が承認する」という役割分担を軸にしています。仕様に基づいてAIが実装を支援し、人間は仕様・設計の判断とレビューで品質を担保する。仕様と設計という重要な意思決定さえ固め... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/ef573ae39b9162</guid>
+      <pubDate>Wed, 08 Apr 2026 08:38:53 +0000</pubDate>
     </item>
     <item>
-      <title>PjMとPdMですれ違っている人たちへ。お互いが「PL」と「BS」という別の景色を見ていることに気づいてほしい。</title>
-      <link>https://zenn.dev/tokium_dev/articles/524ac5889e442e</link>
-      <description>PLだけ見ていると、目の前の数字は作れても、将来的に大きな資産になる機能を見落としてしまうかもしれません。BSだけ見ていると、壮大なビジョンはあるけど、今期の数字がついてこない。 会社の経営にPLとBSの両方が必要なように、プロダクト開発にもPjMとPdMの両方が必要です。これ、会計やってる人にはすごく自然な話... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/524ac5889e442e</guid>
-      <pubDate>Wed, 08 Apr 2026 13:48:15 +0000</pubDate>
+      <title>ChatGPTで「ビジョンボード」をラクにつくる方法。頭の中のふわっとした目標をAIで明確化 | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2604-chatgpt-goal-tracking/</link>
+      <description>ビジョンボードとは、頭で思い描いている理想像を視覚化したもの。 そのビジョンボードづくりにChatGPTを使い、目標の計画と進捗管理をはじめてからというもの、面倒な手作業から解放され、目標達成までの道のりがくっきりと見えるようになりました。 このAIは私の指示を的確に理解し、見た目も良く、内容もわかりやすい... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.lifehacker.jp/article/2604-chatgpt-goal-tracking/</guid>
+      <pubDate>Thu, 09 Apr 2026 13:22:59 +0000</pubDate>
     </item>
     <item>
-      <title>SOLIDやクリーンアーキテクチャの前に「入力・処理・出力」を分けよう</title>
-      <link>https://zenn.dev/tokium_dev/articles/2d8dcdb5b960ab</link>
-      <description>SOLID原則、クリーンアーキテクチャ、ヘキサゴナルアーキテクチャ――。
-設計について学ぼうとすると、いきなり抽象度の高い概念が押し寄せてきます。依存性逆転の原則って何だろう。ポートとアダプターって具体的にどうやるんだろう。そう途方に暮れた経験は、多くの人にあるのではないでしょうか。
-この記事では、もっとシンプルな原則を提案します。
-入力・処理・出力を分ける
-たったこれだけです。
-IPOモデル(Input-Process-Output model)と呼ばれるこの考え方は、プログラミングの教科書で最初に学ぶ概念のひとつです。しかし、実際のコードでこれを意識して守れている人は意外と少ないかも... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/2d8dcdb5b960ab</guid>
-      <pubDate>Mon, 06 Apr 2026 05:53:33 +0000</pubDate>
+      <title>"なんとなく改善"からの脱却。Langfuseで作る、精度を改善し続けられるAI開発基盤</title>
+      <link>https://zenn.dev/layerx/articles/cd04dd1350bac5</link>
+      <description>バクラク事業部ソフトウェアエンジニアのyataです。
+生成AI機能、最近よく見ますよね。
+現在では非常に多くのプロダクトに組み込まれ、日常的に触れることが当たり前になるほど世間に広まってきました。
+ただ、今までの開発と同じコストや難易度でこの機能が実現できるわけではありません。
+「精度は微妙だが、それっぽい挙動をするもの」は簡単に作ることができても、「お客様に継続的に使っていただける、安定した精度改善を続けられる機能」を作ることは、想像するよりもずっと難易度が高いと思っています。
+なぜなら、確率的な挙動をとる生成AIのアウトプットから定量的な精度を測定するのは難しく、改善の効果が分かりに... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/layerx/articles/cd04dd1350bac5</guid>
+      <pubDate>Thu, 09 Apr 2026 11:00:04 +0000</pubDate>
     </item>
     <item>
-      <title>Claude CodeにCLIツールを渡して精度と効率を上げる</title>
-      <link>https://zenn.dev/chot/articles/d0cd0425edd869</link>
-      <description>Claude Codeを使い始めたときに驚いたのは、ファイルを探索して構造や問題点を探し当てるのが上手なことでした。詳細なコマンドを指示しなくても、grepやfindを自ら実行して、コードベースを読み解いて回答を返してくれます。
-でも、精度が期待よりも低かったり、何かよくわからない処理を延々と繰り返していることもあります。たとえば次のようなことです。
+      <title>コードはAIが書ける時代に、設計力はどう鍛えるか - CleanArch Masterという形にした理由</title>
+      <link>https://zenn.dev/more_tech_blog/articles/bf6bf96c05bb9f</link>
+      <description>はじめまして！株式会社モアの片山です！
+普段はフルスタックエンジニアとしてWebサービスの開発をしています。
 
-直前のやり取りや自分の回答に引っ張られて、遠回りなやり方に固執する
-会話が長くなるにつれて、途中の情報を見落としたり最初に渡した指示を忘れたりして精度が下がる
-
-その一方、CLIツールはAIエージェントのような柔軟性は高くありませんが、機... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/chot/articles/d0cd0425edd869</guid>
-      <pubDate>Mon, 06 Apr 2026 01:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>1件の問い合わせから、3万件/日のユーザ体験を改善したCREの取り組み</title>
-      <link>https://zenn.dev/mitene/articles/37670f812485b3</link>
-      <description>こんにちは！「家族アルバム みてね」（以下 みてね）で、CRE（Customer Reliability Engineering）をしているささたつです。
-みてねは、子どもの写真や動画を家族で共有し、成長の記録を振り返られるサービスです。
-
- はじめに
-ある日、1件のお問い合わせが届きました。
-
-「サムネイルの色味が変なんですが…」
-
-正直、この時点では軽微な表示の問題だと思っていました。
-しかし調査を進めると、この問題は毎日3万件以上のサムネイルに影響していることがわかりました。
-この記事では、お問い合わせを起点に、
-
-原因特定までの流れ
-どうやって安全に改善を行ったのか
-改善の影響を... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mitene/articles/37670f812485b3</guid>
-      <pubDate>Tue, 07 Apr 2026 01:59:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>誰も教えてくれないソフトウェアの社会学</title>
-      <link>https://zenn.dev/acntechjp/articles/20260406_software_sociology</link>
-      <description>——先輩、まさか私立探偵に鞍替えしていたとは思いませんでしたよ
-真実から逃げたのさ。プロジェクト炎上の責任を一人でかぶろうとしたと人は言うが、ただ臆病だっただけだ。ずぶ濡れの子犬みたいにな。
-
-半地下のこの店では外の雨音が、店内にも少し聞こえ続ける。カウンターで隣のスツールに座る後輩と俺の間には、まだ再会したばかりのぎこちなさも残っている。
-薄くかかったビル・エヴァンスのピアノの音は、そんな空気の上を転がって消えていく。氷とグラスのぶつかる音だけが、やけに正確な秒針みたいに夜を刻んでいた。
-こいつは元SIer時代、10年以上後輩だった男で、色々と指南してやった。腐れ縁で時々飲みに行くが、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/20260406_software_sociology</guid>
-      <pubDate>Mon, 06 Apr 2026 12:08:14 +0000</pubDate>
+ 「分かった」と「書ける」のあいだを埋めたい
+生成AIでコードを書くハードルが下がったいま、逆に差が出やすくなったのは「どう実装するか」といったコーディング力よりも、「どう分けるか」「どこに責務を置くか」といった設計力のほうだと感じています。
+APIやUI画面は作れても、ユースケースの責務分離、依存関係の向き、ドメイン知識の置き場所まで腹落ちしているかというと、そこは別の難しさがあります。特にクリーンアーキテクチャは、図を見ると分かった気になる一方で、実際にコードを書くと急に難... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/more_tech_blog/articles/bf6bf96c05bb9f</guid>
+      <pubDate>Thu, 09 Apr 2026 03:56:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

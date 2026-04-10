@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 07:43:30 +0000</lastBuildDate>
-    <item>
-      <title>BluesとSkylo、衛星・携帯キャリア・Wi-Fiを束ねるIoTモジュールを発表、いつどこでもつながる通信を実現へ【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/45402/</link>
-      <description>2026年3月9日、BluesはSkylo  Technologiesと共同で、衛星・セルラー（通信キャリアの電波）・Wi-Fiの3種類の通信方式を1つのモジュールに統合したIoT向け通信モジュール「Notecard for Skylo」を発表しました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45402/</guid>
-      <pubDate>Sun, 05 Apr 2026 22:58:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Apr 2026 07:48:34 +0000</lastBuildDate>
     <item>
       <title>中国が「長征6号改」を打ち上げ　衛星インターネット低軌道衛星「国網」5機を軌道投入</title>
       <link>https://sorae.info/ssn/20260409-satnet-leo-21.html</link>
@@ -23,18 +16,18 @@
       <pubDate>Thu, 09 Apr 2026 03:47:29 +0000</pubDate>
     </item>
     <item>
+      <title>BluesとSkylo、衛星・携帯キャリア・Wi-Fiを束ねるIoTモジュールを発表、いつどこでもつながる通信を実現へ【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/45402/</link>
+      <description>2026年3月9日、BluesはSkylo  Technologiesと共同で、衛星・セルラー（通信キャリアの電波）・Wi-Fiの3種類の通信方式を1つのモジュールに統合したIoT向け通信モジュール「Notecard for Skylo」を発表しました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45402/</guid>
+      <pubDate>Sun, 05 Apr 2026 22:58:46 +0000</pubDate>
+    </item>
+    <item>
       <title>観測史上初となる彗星の自転の反転を確認か　ハッブル宇宙望遠鏡の未解析データから</title>
       <link>https://sorae.info/astronomy/20260406-comet-41p.html</link>
       <description>カリフォルニア大学ロサンゼルス校（UCLA）のDavid Jewittさんは、木星族彗星の一つである「41P/Tuttle-Giacobini-Kresák（タットル・ジャコビニ・クレサーク彗星、以下41P）」において、… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260406-comet-41p.html</guid>
       <pubDate>Mon, 06 Apr 2026 12:58:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>ULAがアトラスVでAmazonの衛星29機を打ち上げ　同ロケットの最大搭載量を更新</title>
-      <link>https://sorae.info/ssn/20260405-ula-amazon-leo.html</link>
-      <description>ULA（ユナイテッド・ローンチ・アライアンス）は日本時間2026年4月4日に「Atlas V（アトラスV）」ロケットの打ち上げを実施しました。搭載されていたAmazonの衛星は無事に軌道に投入されたことを、ULAとAma… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260405-ula-amazon-leo.html</guid>
-      <pubDate>Sun, 05 Apr 2026 01:19:23 +0000</pubDate>
     </item>
     <item>
       <title>火星衛星探査MMXに期待される、日本の深宇宙探査の新章～火星の衛星フォボスのサンプルリターンがもたらすもの～</title>
@@ -56,6 +49,13 @@
       <description>軌道上データセンターから地上解析まで、用途に応じた製品群を一挙に公開しました。Planet LabsやAxiom Spaceなど宇宙企業6社との連携も同時に発表しています。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45528/</guid>
       <pubDate>Sun, 05 Apr 2026 23:04:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>元JAXA宇宙飛行士の古川聡さん、杏林大学特任教授に就任　入学式で新入生に「4つの力」を語る</title>
+      <link>https://sorae.info/news/20260410-furukawa-kyorin.html</link>
+      <description>2026年3月末でJAXA（宇宙航空研究開発機構）を退職した古川聡さんが、4月1日付で杏林大学（東京都三鷹市）医学部の特任教授に就任しました。 医師としてのバックグラウンドを持つ古川さんが、宇宙飛行士として培った知見を次… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/news/20260410-furukawa-kyorin.html</guid>
+      <pubDate>Fri, 10 Apr 2026 01:01:01 +0000</pubDate>
     </item>
     <item>
       <title>SpaceX、宇宙向けAIチップを自社製造へ。Tesla・xAIと1テラワット規模の「TERAFAB」発表【宇宙ビジネスニュース】</title>
