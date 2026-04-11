@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Apr 2026 07:48:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 07:06:19 +0000</lastBuildDate>
+    <item>
+      <title>ガンダムの「ハロ」が宇宙へ！ 自律型ロボットをISS「きぼう」に送るプロジェクトが始動</title>
+      <link>https://sorae.info/biz/20260410-hello-haro.html</link>
+      <description>スペースエントリー株式会社は2026年4月7日、メカニックデザイナーの大河原邦男氏がデザインした自律型宇宙ロボット「みんなのハロ」を、ISS（国際宇宙ステーション）の「きぼう」日本実験棟へ送り長期滞在させるプロジェクト「… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/biz/20260410-hello-haro.html</guid>
+      <pubDate>Fri, 10 Apr 2026 03:26:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASAアルテミスII打ち上げ成功、53年ぶりに人類が月周辺へ。人類史上最も遠い場所に到達し、2028年の有人着陸に向けテスト飛行が本格始動【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/45559/</link>
+      <description>2026年4月1日、NASAのアルテミスIIが打ち上げに成功しました。アポロ17号以来53年ぶりとなる有人月周回ミッションの全容と、2028年の月面着陸に向けた今後の計画を解説します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45559/</guid>
+      <pubDate>Tue, 07 Apr 2026 23:02:22 +0000</pubDate>
+    </item>
     <item>
       <title>中国が「長征6号改」を打ち上げ　衛星インターネット低軌道衛星「国網」5機を軌道投入</title>
       <link>https://sorae.info/ssn/20260409-satnet-leo-21.html</link>
@@ -21,13 +35,6 @@
       <description>2026年3月9日、BluesはSkylo  Technologiesと共同で、衛星・セルラー（通信キャリアの電波）・Wi-Fiの3種類の通信方式を1つのモジュールに統合したIoT向け通信モジュール「Notecard for Skylo」を発表しました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45402/</guid>
       <pubDate>Sun, 05 Apr 2026 22:58:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>観測史上初となる彗星の自転の反転を確認か　ハッブル宇宙望遠鏡の未解析データから</title>
-      <link>https://sorae.info/astronomy/20260406-comet-41p.html</link>
-      <description>カリフォルニア大学ロサンゼルス校（UCLA）のDavid Jewittさんは、木星族彗星の一つである「41P/Tuttle-Giacobini-Kresák（タットル・ジャコビニ・クレサーク彗星、以下41P）」において、… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260406-comet-41p.html</guid>
-      <pubDate>Mon, 06 Apr 2026 12:58:25 +0000</pubDate>
     </item>
     <item>
       <title>火星衛星探査MMXに期待される、日本の深宇宙探査の新章～火星の衛星フォボスのサンプルリターンがもたらすもの～</title>
@@ -63,13 +70,6 @@
       <description>AIチップの供給不足を背景に、イーロン・マスク氏率いる3社が半導体の自社製造に乗り出します。生産の8割以上が宇宙向けで、ロケット・衛星・通信に続く新たな競争軸が見えてきました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45536/</guid>
       <pubDate>Sun, 05 Apr 2026 23:06:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年4月の星空情報：夕空に輝く3つの星と巨大な春の星座たちを見よう</title>
-      <link>https://sorae.info/astronomy/202604-starry-sky.html</link>
-      <description>4月、春の訪れを祝うかのように鳥の歌声が響き、大地には花が咲きこぼれる時期となりました。星空も春霞に包まれ、柔らかな雰囲気に変わっていきます。 しかし、夕暮れ時には明るい星々を数多く見ることができます。 日没頃、西の空に… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/202604-starry-sky.html</guid>
-      <pubDate>Mon, 06 Apr 2026 11:08:56 +0000</pubDate>
     </item>
     <item>
       <title>GOSATプラグインを使って、温室効果ガスのデータをQGISで可視化しよう【後編】</title>

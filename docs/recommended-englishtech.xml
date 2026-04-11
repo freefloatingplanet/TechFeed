@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Apr 2026 07:48:40 +0000</lastBuildDate>
-    <item>
-      <title>シエラ社のブレット・テイラー氏は、ボタンをクリックする時代は終わったと述べている。</title>
-      <link>https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/</link>
-      <description>先月、Sierraは他のエージェントを構築するためのエージェントであるGhostwriterをリリースした。この「サービスとしてのエージェント」ツールにより、同社は従来のクリックベースのWebアプリケーションを自然言語に置き換えることを目指している。ユーザーは必要なことを説明するだけで、Ghostwriterがタスクを実行するための専用エージェントを自動的に作成・展開する。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/</guid>
-      <pubDate>Thu, 09 Apr 2026 17:20:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Apr 2026 07:06:27 +0000</lastBuildDate>
     <item>
       <title>UberのHive Federationは、16,000のデータセットと10PBを超えるデータを分散化し、大規模なダウンタイムゼロの分析を実現します。</title>
       <link>https://www.infoq.com/news/2026/04/uber-hive-decentralized-data/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -23,11 +16,11 @@
       <pubDate>Thu, 09 Apr 2026 13:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>TechCrunch Disrupt 2026のチケットが最大500ドル割引になるのは、残りあと2日間！</title>
-      <link>https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/</link>
-      <description>最大500ドルのチケット割引は、明日4月10日午後11時59分（太平洋標準時）に終了します。それ以降は、TechCrunch Disrupt 2026のチケット価格が再び値上がりします。この機会を逃すと、今年最も注目されているテクノロジーイベントの一つへの参加権を、より高い料金で購入しなければならなくなります。今すぐ登録して、この割引価格を確保しましょう。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/</guid>
-      <pubDate>Thu, 09 Apr 2026 14:00:00 +0000</pubDate>
+      <title>ポッドキャスト：タイガーチーム、評価、エージェント：新しいAIエンジニアリングのプレイブック</title>
+      <link>https://www.infoq.com/podcasts/tiger-teams-evals-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>このポッドキャストでは、カルチャー＆メソッド担当編集長のシェーン・ハスティが、Mastraの共同創設者兼CEOであるサム・バグワット氏に、オープンソースコミュニティの構築と維持、AIエンジニアリングと評価という新たな分野、そしてエージェント型アプリケーションの出荷においてクロスファンクショナルなタイガーチームがいかに重要であるかについて話を聞きました。執筆：サム・バグワット (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/podcasts/tiger-teams-evals-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 10 Apr 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Aspire 13.2がリリースされました。CLIの拡張、TypeScript AppHostのプレビュー、ダッシュボードの改善などが含まれています。</title>
@@ -58,7 +51,7 @@
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>創業者たちは、アンジュナのレイオフとその後の回復から何を学べるか</title>
+      <title>創業者たちは、アンジュナの人員削減と回復から何を学べるか</title>
       <link>https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/</link>
       <description>2021年、Anjuna Securityは急速に成長し、積極的に人材を採用し、無限とも思える市場を追い求めていた。同年末までに、ベンチャーキャピタルから資金提供を受けたこのサイバーセキュリティ企業は従業員数を約75人にまで拡大し、継続的な急成長を見越して営業、カスタマーサクセス、サポートチームを構築していた。そして2022年が到来した。 (source: TechCrunch)</description>
       <guid isPermaLink="true">https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/</guid>
@@ -77,6 +70,13 @@
       <description>Cloudflareは先日、WordPressの「精神的後継者」と称する新しいオープンソースCMS「EmDash」のプレビュー版を発表した。サーバーレスで開発者中心のアーキテクチャを中心にCMSモデルを再構築するために設計されたEmDashは、AIネイティブ機能、開発者ツール、WordPressからの移行パスを備えており、WordPressコミュニティおよびより広範なCMSコミュニティで議論を巻き起こしている。レナート・ロシオ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/04/cloudflare-emdash-wordpress/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 09 Apr 2026 20:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>プレゼンテーション：レイテンシ：ゼロを目指す競争…私たちはそこに到達したのか？</title>
+      <link>https://www.infoq.com/presentations/latency-techniques/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>アミール・ランガー氏は、ポニー・エクスプレス時代から現代のハードウェアに至るまでのレイテンシー削減の進化について論じています。彼は、関心の分離（ビジネスロジックとI/Oの分離）や、AeronやDisruptorといったツールによって、いかにしてマイクロ秒単位の速度を実現できるかを解説しています。また、レプリケートされたステートマシン、Raftのようなコンセンサスプロトコル、そして低レイテンシーケンサーアーキテクチャの未来についても洞察を共有しています。アミール・ランガー著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/latency-techniques/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 10 Apr 2026 14:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

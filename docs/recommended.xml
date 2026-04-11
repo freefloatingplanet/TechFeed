@@ -7,70 +7,45 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Apr 2026 07:48:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 07:06:16 +0000</lastBuildDate>
     <item>
-      <title>Terraformを使わずにGitHubをコードで管理する</title>
-      <link>https://zenn.dev/babarot/articles/github-as-code-with-gh-infra</link>
-      <description>GitHubのリポジトリをどう管理するか
-GitHubのリポジトリが増えてくると、設定の管理が地味に厄介になります。OSSを複数持っていると、merge strategyやRuleset、Actionsの許可設定など、毎回似たような設定をしていくことになります。また、新しい設定を入れていくときも古いリポジトリでは漏れがちで、久しぶりに開いたら古い設定だった、みたいなこともよくあります。
-例えば、Goで新しいCLIツールを書いて公開するとします。visibilityをpublicにして、squash mergeだけ有効にして、auto delete head branchesをオンにす... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/babarot/articles/github-as-code-with-gh-infra</guid>
-      <pubDate>Wed, 08 Apr 2026 11:51:11 +0000</pubDate>
+      <title>PMが本来やるべき仕事の時間を取り戻す — Claude Codeで変わった3つのPM業務</title>
+      <link>https://zenn.dev/medirom_tech/articles/4a61491a6b5059</link>
+      <description>1. はじめに
+Claude Code、使っていますか？
+「エンジニア向けのツールでしょ？」と思っていた時期が、私にもありました。
+でも実際に触ってみて気づいたんです。私にとってのClaude Codeは、エンジニア向けツールというより、PM業務の前後にある“重い作業”を減らすための道具 だったと。
+半信半疑で使い始めてみたら、PM（プロダクトマネージャー）の仕事が 質も速度も 変わりました。
+この記事では、PMの私がClaude Codeを使いこなして変わった 3つの仕事 を紹介します。
+目指すのは「速いだけ」のAI活用ではなく、質と速度を両立しながら、PM本来の仕事に時間を取り戻... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/medirom_tech/articles/4a61491a6b5059</guid>
+      <pubDate>Wed, 08 Apr 2026 10:04:28 +0000</pubDate>
     </item>
     <item>
-      <title>EFFがXから撤退　表示数急落と権利保護の退行を理由に　マスク氏は「恥を知れ」</title>
-      <link>https://www.itmedia.co.jp/news/articles/2604/10/news070.html</link>
-      <description>米電子フロンティア財団（EFF）は4月9日（現地時間）、米Xのプラットフォームから離脱すると発表した。 EFFは、約20年にわたり同プラットフォーム（旧Twitter）を利用してきたが、離脱の主な理由として「インプレッションの激減」と「ユーザーの権利保護に対する姿勢の変化」を挙げている。 2018年には月に5000万～1億回... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2604/10/news070.html</guid>
-      <pubDate>Fri, 10 Apr 2026 00:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>エージェント開発の参考に！GitHub Copilotのシステムプロンプトを見てみよう</title>
-      <link>https://zenn.dev/microsoft/articles/github-copilot-prompts</link>
-      <description>AIエージェント開発では、モデル選定やツールはもちろんですが、それらを正しくハンドリングするための振る舞いの指示となるプロンプト（コンテキスト）の設計が肝です。すでに多くの企業がエージェントを製品に組み込んでおり、先行者の知見を自身の開発しているAIエージェントに活かせると効率的です。
-とはいえ、実際のプロダクトがどんな指示やルールで動いているかは製品の価値そのものであるがゆえに、多くの企業はそれらを公開せず、外から見えないことがほとんどです。
+      <title>Jujutsu はなぜ AI 時代に急に評価され始めたのか</title>
+      <link>https://zenn.dev/oukayuka/books/353ad112b88613</link>
+      <description>最近注目を集めている Git 互換の新世代 VCS、Jujutsu。
+2022年から公開されていましたが、しばらくは知る人ぞ知る存在のツールでした。それが 2025年中ごろから急に界隈で話題に上るようになりました。それは折しも Claude Code などのエージェント型 AI コーディングツールが登場し、人ではなく AI がほとんどのコードを書くフローが普及してきた時期に重なります。
+本書では Jujutsu がなぜ AI 支援開発のシーンで評価されるのかを解説していきます。
 
- GitHub Copilotはプロンプトも含めてOSS
-実はGitHub Copilot（VS Code向け）のプロンプトを含むソースコード... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/github-copilot-prompts</guid>
-      <pubDate>Wed, 08 Apr 2026 02:45:41 +0000</pubDate>
+※この記事は 2026 年 4 月開催の技術書典 20 に合わせて刊行された『じゅじゅちゅ！ jj new で始める Jujutsu × AI ワークフロー』の中の「第 1 章  Jujutsu ってどんなツール？」の内容を再編集したものです。
+
+https://oukayuka.booth.pm/items/8169264
+https://techbookfest.org/product/nCUm1fLEJi5AywW1pyYWMW (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/oukayuka/books/353ad112b88613</guid>
+      <pubDate>Fri, 10 Apr 2026 04:35:15 +0000</pubDate>
     </item>
     <item>
-      <title>【2026年4月版】会社員が個人事業主になってApp Store・Google Playに組織アカウントで登録するまでの全記録</title>
-      <link>https://zenn.dev/zawascript/articles/2026-04-store</link>
+      <title>Claude Code + Obsidian — Daily Note の下書きを自動生成し、週次・月次レビューまで積み上げる仕組みを作った</title>
+      <link>https://zenn.dev/dely_jp/articles/b8da42a57bbc39</link>
       <description>はじめに
-お久しぶりです、@zawascriptです。
-最近は個人開発でアプリを作っているのですが、いざストアに公開しようとしたとき、こんな壁にぶつかりました。
-「本名がストアに公開されるの、嫌だな……」
-App StoreやGoogle Playに個人アカウントでアプリを公開すると、本名がストア上に表示されます。副業でやるにしても、趣味で出すにしても、フルネームが世界に公開されるのはちょっと抵抗がありますよね。
-この問題を解決するのが組織（Organization）アカウントです。組織アカウントなら、ストア上に表示されるのは屋号や事業名だけで、個人名は公開されません。
-ただし、組織... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/zawascript/articles/2026-04-store</guid>
-      <pubDate>Wed, 08 Apr 2026 11:05:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>「トロイの木馬除去費用」セブンイレブンのこれ何？→持っていったら店員さんが優しく諭してくれます</title>
-      <link>https://togetter.com/li/2684300</link>
-      <description>セブンイレブンで見かける「これ何？」は、高齢者が特殊詐欺や偽ウイルス請求に遭いそうなときに店員に示すカード。持参されたら店員が対応を始め、電話相手が詐欺と気づかれにくい状況でも通報や説得で被害を防げる仕組み。警察と連携したアナログな防犯策で、電子マネーでの不正送金を抑止する効果がある。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2684300</guid>
-      <pubDate>Fri, 10 Apr 2026 03:25:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>VSCode拡張機能から考える、サプライチェーン攻撃の身近さ</title>
-      <link>https://zenn.dev/acntechjp/articles/e0f9ce661e794e</link>
-      <description>!
-この記事の三行まとめ
-
-axiosのサプライチェーン攻撃を機に調べたところ、VSCode拡張機能にはサンドボックスもバージョンロックもなく、npmより構造的にリスクが見えにくい
-自分のVSCodeを棚卸ししたら43個中15個が拡張パック経由の自動インストールで、自動更新もデフォルト有効のまま運用していた
-AIエージェントが依存関係を自律的に増やす時代だからこそ、「自分の環境に何が入っているか」を定期的に把握しておくことの重要性が増している
-
-
-
- はじめに
-2026年3月31日、JavaScriptの主要HTTPクライアントライブラリ「axios」のnpmパッケージが侵害されました[... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/e0f9ce661e794e</guid>
-      <pubDate>Wed, 08 Apr 2026 07:43:34 +0000</pubDate>
+こんにちは、クラシルでバックエンドエンジニアをしている hama です。
+私は Obsidian の Daily Note を毎日の業務記録として使っています。TODO やミーティングの予定、読んだ記事のメモなどを1ページにまとめて、あとから振り返れるようにしていました。
+ただ正直なところ、私の場合、手で書いていた頃は手間が多く、Daily Note をしっかり書き残さない日も多く内容が常に充実しているとは言えませんでした。
+そこで、Claude Code のスキル機能を使って Daily Note への記録の下準備を自動化しました。
+TODO や Meeting の自動挿... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/b8da42a57bbc39</guid>
+      <pubDate>Fri, 10 Apr 2026 09:32:22 +0000</pubDate>
     </item>
     <item>
       <title>仕様書は"使い捨て"にした方がうまくいった——仕様駆動開発3ヶ月の転換</title>
@@ -82,11 +57,26 @@ AIエージェントが依存関係を自律的に増やす時代だからこそ
       <pubDate>Wed, 08 Apr 2026 08:38:53 +0000</pubDate>
     </item>
     <item>
-      <title>ChatGPTで「ビジョンボード」をラクにつくる方法。頭の中のふわっとした目標をAIで明確化 | ライフハッカー・ジャパン</title>
-      <link>https://www.lifehacker.jp/article/2604-chatgpt-goal-tracking/</link>
-      <description>ビジョンボードとは、頭で思い描いている理想像を視覚化したもの。 そのビジョンボードづくりにChatGPTを使い、目標の計画と進捗管理をはじめてからというもの、面倒な手作業から解放され、目標達成までの道のりがくっきりと見えるようになりました。 このAIは私の指示を的確に理解し、見た目も良く、内容もわかりやすい... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.lifehacker.jp/article/2604-chatgpt-goal-tracking/</guid>
-      <pubDate>Thu, 09 Apr 2026 13:22:59 +0000</pubDate>
+      <title>世は大環境時代 - エージェントハーネスとRL環境の展開から見えてくるもの</title>
+      <link>https://zenn.dev/mkj/articles/d700c07675d7b1</link>
+      <description>松尾研究所の長谷です。データサイエンスチームのマネージャーを務めております。
+2026年に入って「ハーネスエンジニアリング」がバズワードになりました。同時に、強化学習（RL）の文脈でも「RL環境」への注目が急速に高まっています。
+この2つ、使われている領域は異なりますが、根っこの思想は驚くほど似ています。
+どちらも「モデルだけではなく、モデルを取り巻く環境の設計が成果を左右する」という認識に立っていて、さらにその環境をポータブルに共有・再利用できる仕組みが同時多発的に生まれています。
+この記事では、エージェントハーネスとRL環境それぞれの動向を整理しつつ、両者に共通する思想がなぜリーズナ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mkj/articles/d700c07675d7b1</guid>
+      <pubDate>Fri, 10 Apr 2026 02:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>入社1週目で即戦力になれた理由 ── AI駆動開発の iOS 開発チームに入って</title>
+      <link>https://zenn.dev/dely_jp/articles/bfc7aed2c10d3c</link>
+      <description>はじめに
+初めまして、クラシル社でiOSアプリを開発しているエンジニアの王👑です。以後よろしくお願いします。
+2025年2月、私はクラシル入社しました。SwiftUI + SPM マルチモジュール構成の大規模なコードベース。普通なら、まずコードを読み込み、アーキテクチャを把握し、既存パターンを学ぶところから始まるはずです。
+しかし、このチームでは違いました。Claude Code による AI 駆動開発が、すでに開発プロセスの中心に組み込まれていたのです。
+入社初日、最初のタスクに取り組んだとき、私は驚きました。コードベースの知識がほぼゼロの状態でも、要件を伝えるだけで AI が既存... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/bfc7aed2c10d3c</guid>
+      <pubDate>Thu, 09 Apr 2026 04:34:08 +0000</pubDate>
     </item>
     <item>
       <title>"なんとなく改善"からの脱却。Langfuseで作る、精度を改善し続けられるAI開発基盤</title>
@@ -99,6 +89,32 @@ AIエージェントが依存関係を自律的に増やす時代だからこそ
 なぜなら、確率的な挙動をとる生成AIのアウトプットから定量的な精度を測定するのは難しく、改善の効果が分かりに... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/layerx/articles/cd04dd1350bac5</guid>
       <pubDate>Thu, 09 Apr 2026 11:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeが書いたコードを、チームのコードにするためにやったこと — 理解負債とどう向き合ったか</title>
+      <link>https://zenn.dev/dely_jp/articles/b8b41a4202efda</link>
+      <description>はじめに
+こんにちは、クラシルでバックエンド開発をしているmighteeです。
+社内では開発者だけでなくbizメンバーも含めてAI活用を積極的に進めています。開発メンバーはすでにAIを日常的に使いこなしていますが、その中で新しい課題も見えてきました。
+Claude Codeを使って、Railsアプリケーションで2つの新機能の要件定義からリリースまでを担当しました。期間は約3週間です。開発はスクラム単位で進めていて、実装は自分がClaude Codeと一緒に進め、レビューは別スクラムのバックエンドエンジニアに見てもらう体制です。
+個人の体感では、生産性は上がりました。マイグレーション、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/b8b41a4202efda</guid>
+      <pubDate>Thu, 09 Apr 2026 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>転職してエクセルファイルを読み解いてHTMLに変換する仕事をしていたが、悪役令嬢は出てこないし、勇者パーティーも追放されなかった話</title>
+      <link>https://zenn.dev/aldagram_tech/articles/c472e358412864</link>
+      <description>こんにちは。アルダグラムのテクニカルフェロー(自称?)をしている蓬莱です。
+（特に社内外でアナウンスされているわけでもないので、本当に自称かも知れない。。）
+とあるMから始まるGAFAM企業をやめてブラブラしていたところを、縁があってアルダグラムに入社させていただく事になりました。（もうちょっとで半年になります）
+突然ですが、皆さん、エクセルファイルを読んでますか？
+「普通に仕事でエクセル使ってるわー。嫌やけど。」
+みたいな話じゃありません。
+エクセルファイルをアプリではなく人間が読むという話です。
+「ちょっと何言ってるかわかんない・・」
+って帰ろうとしたアナタ！ほんのもう少しだけお付き... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aldagram_tech/articles/c472e358412864</guid>
+      <pubDate>Thu, 09 Apr 2026 09:00:13 +0000</pubDate>
     </item>
     <item>
       <title>コードはAIが書ける時代に、設計力はどう鍛えるか - CleanArch Masterという形にした理由</title>
