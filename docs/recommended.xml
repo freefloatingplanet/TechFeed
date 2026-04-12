@@ -7,33 +7,51 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Apr 2026 07:06:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 07:21:18 +0000</lastBuildDate>
     <item>
-      <title>PMが本来やるべき仕事の時間を取り戻す — Claude Codeで変わった3つのPM業務</title>
-      <link>https://zenn.dev/medirom_tech/articles/4a61491a6b5059</link>
-      <description>1. はじめに
-Claude Code、使っていますか？
-「エンジニア向けのツールでしょ？」と思っていた時期が、私にもありました。
-でも実際に触ってみて気づいたんです。私にとってのClaude Codeは、エンジニア向けツールというより、PM業務の前後にある“重い作業”を減らすための道具 だったと。
-半信半疑で使い始めてみたら、PM（プロダクトマネージャー）の仕事が 質も速度も 変わりました。
-この記事では、PMの私がClaude Codeを使いこなして変わった 3つの仕事 を紹介します。
-目指すのは「速いだけ」のAI活用ではなく、質と速度を両立しながら、PM本来の仕事に時間を取り戻... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/medirom_tech/articles/4a61491a6b5059</guid>
-      <pubDate>Wed, 08 Apr 2026 10:04:28 +0000</pubDate>
+      <title>脱・セキュリティ初心者。現場の信頼を勝ち取るための「3つの原則」と「1つの習慣」</title>
+      <link>https://qiita.com/masa20057/items/be5d46e82f7301747e86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>「コードさえ書ければOK」だと思っていませんか？実は僕もそうでした。
+でも、技術以前に「信頼」を守るセキュリティ意識も非常に大切です。
+エンジニア未経験の方々が、最初の一歩で躓かないための「守りの本質」を、社内の情報セキュリティを守る活動もしている私の経験を交えて共有します... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/masa20057/items/be5d46e82f7301747e86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 09 Apr 2026 02:44:25 +0000</pubDate>
     </item>
     <item>
-      <title>Jujutsu はなぜ AI 時代に急に評価され始めたのか</title>
-      <link>https://zenn.dev/oukayuka/books/353ad112b88613</link>
-      <description>最近注目を集めている Git 互換の新世代 VCS、Jujutsu。
-2022年から公開されていましたが、しばらくは知る人ぞ知る存在のツールでした。それが 2025年中ごろから急に界隈で話題に上るようになりました。それは折しも Claude Code などのエージェント型 AI コーディングツールが登場し、人ではなく AI がほとんどのコードを書くフローが普及してきた時期に重なります。
-本書では Jujutsu がなぜ AI 支援開発のシーンで評価されるのかを解説していきます。
+      <title>Go + Reactで現場レベルの状態遷移を1つのテーブルに統合する — 13状態×15イベントを型で閉じ込める</title>
+      <link>https://zenn.dev/okamyuji/articles/golang-react-state-machine-transition-table</link>
+      <description>!
+本記事は、同じテーマを別のスタックで扱った次の2本の関連記事があります。前提知識や設計原則の部分には一部に意図的な重複記述がありますが、3本はそれぞれ独立して読めるように書いています。同じ題材(ImportJobの状態遷移とUI優先表示)を異なる言語・フレームワークで実装した比較として、気になるスタックのものだけを読んでいただいても構いません。
 
-※この記事は 2026 年 4 月開催の技術書典 20 に合わせて刊行された『じゅじゅちゅ！ jj new で始める Jujutsu × AI ワークフロー』の中の「第 1 章  Jujutsu ってどんなツール？」の内容を再編集したものです。
+Reactのフラグ地獄を状態遷移テーブルで解消する — モーダルとオーバーレイの優先表示まで設計する
+Railsのフラグ地獄を状態遷移テーブルで解消する — モーダルとオーバーレイの優先表示まで設計する
 
-https://oukayuka.booth.pm/items/8169264
-https://techbookfest.org/product/nCUm1fLEJi5AywW1pyYWMW (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/oukayuka/books/353ad112b88613</guid>
-      <pubDate>Fri, 10 Apr 2026 04:35:15 +0000</pubDate>
+
+
+ この記事で学べること
+3分で... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/okamyuji/articles/golang-react-state-machine-transition-table</guid>
+      <pubDate>Sat, 11 Apr 2026 04:20:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>認知科学でAI秘書の記憶を再設計したら別人になった話【プロンプト付き】｜はたけ</title>
+      <link>https://note.com/hatakejp/n/naae38195e8d8</link>
+      <description>「この前話したこと、覚えてないの？」 AI秘書と毎日やりとりしていると、こんなモヤッとした瞬間に出くわすことがあります。昨日の議論をゼロから説明し直す。一方で、もう関係ないはずの3ヶ月前の話を引きずっている。覚えてほしいことを覚えてくれない。忘れてほしいことを覚えている。 この噛み合わなさの正体が、ず... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/hatakejp/n/naae38195e8d8</guid>
+      <pubDate>Sat, 11 Apr 2026 05:25:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>分析エージェントの問題点と、セマンティックレイヤーという打ち手──AIにSQLを書かせない設計</title>
+      <link>https://zenn.dev/gixo/articles/semantic-layer-agent-bigquery</link>
+      <description>はじめに
+「自然言語でデータを分析できる」──デモでは魅力的に見えても、 本番導入に足る品質をどう担保するか、そもそも担保しきれるのか と疑問に感じたことはないでしょうか。
+この記事では、 自然言語でデータを分析するAIエージェントが実務で安定しにくい理由 を考察しつつ、近年話題の セマンティックレイヤーとの組み合わせにより、そうした課題を緩和しうる可能性 について紹介します。
+題材にはBigQueryの公開データセット bigquery-public-data.thelook_ecommerce を使います。手元で再現できるよう実テーブルをそのまま使っています。
+
+
+ なぜ分析エー... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/gixo/articles/semantic-layer-agent-bigquery</guid>
+      <pubDate>Fri, 10 Apr 2026 09:23:42 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code + Obsidian — Daily Note の下書きを自動生成し、週次・月次レビューまで積み上げる仕組みを作った</title>
@@ -48,47 +66,11 @@ TODO や Meeting の自動挿... (source: Zennのトレンド)</description>
       <pubDate>Fri, 10 Apr 2026 09:32:22 +0000</pubDate>
     </item>
     <item>
-      <title>仕様書は"使い捨て"にした方がうまくいった——仕様駆動開発3ヶ月の転換</title>
-      <link>https://zenn.dev/dely_jp/articles/ef573ae39b9162</link>
-      <description>はじめに
-クラシルでAndroidエンジニアをしているなぐも（@nagumo7960）です。
-今年の1月から、AWSが提唱する「AI-DLC（AI-Driven Development Life Cycle）」の一部コンセプトに着想を得て、仕様書ベースの開発フローをAndroid側に導入してきました。中でも参考にしたのがConstructionフェーズの考え方です。Constructionフェーズでは「AIが提案し、人間が承認する」という役割分担を軸にしています。仕様に基づいてAIが実装を支援し、人間は仕様・設計の判断とレビューで品質を担保する。仕様と設計という重要な意思決定さえ固め... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/ef573ae39b9162</guid>
-      <pubDate>Wed, 08 Apr 2026 08:38:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>世は大環境時代 - エージェントハーネスとRL環境の展開から見えてくるもの</title>
-      <link>https://zenn.dev/mkj/articles/d700c07675d7b1</link>
-      <description>松尾研究所の長谷です。データサイエンスチームのマネージャーを務めております。
-2026年に入って「ハーネスエンジニアリング」がバズワードになりました。同時に、強化学習（RL）の文脈でも「RL環境」への注目が急速に高まっています。
-この2つ、使われている領域は異なりますが、根っこの思想は驚くほど似ています。
-どちらも「モデルだけではなく、モデルを取り巻く環境の設計が成果を左右する」という認識に立っていて、さらにその環境をポータブルに共有・再利用できる仕組みが同時多発的に生まれています。
-この記事では、エージェントハーネスとRL環境それぞれの動向を整理しつつ、両者に共通する思想がなぜリーズナ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mkj/articles/d700c07675d7b1</guid>
-      <pubDate>Fri, 10 Apr 2026 02:50:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>入社1週目で即戦力になれた理由 ── AI駆動開発の iOS 開発チームに入って</title>
-      <link>https://zenn.dev/dely_jp/articles/bfc7aed2c10d3c</link>
-      <description>はじめに
-初めまして、クラシル社でiOSアプリを開発しているエンジニアの王👑です。以後よろしくお願いします。
-2025年2月、私はクラシル入社しました。SwiftUI + SPM マルチモジュール構成の大規模なコードベース。普通なら、まずコードを読み込み、アーキテクチャを把握し、既存パターンを学ぶところから始まるはずです。
-しかし、このチームでは違いました。Claude Code による AI 駆動開発が、すでに開発プロセスの中心に組み込まれていたのです。
-入社初日、最初のタスクに取り組んだとき、私は驚きました。コードベースの知識がほぼゼロの状態でも、要件を伝えるだけで AI が既存... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/bfc7aed2c10d3c</guid>
-      <pubDate>Thu, 09 Apr 2026 04:34:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>"なんとなく改善"からの脱却。Langfuseで作る、精度を改善し続けられるAI開発基盤</title>
-      <link>https://zenn.dev/layerx/articles/cd04dd1350bac5</link>
-      <description>バクラク事業部ソフトウェアエンジニアのyataです。
-生成AI機能、最近よく見ますよね。
-現在では非常に多くのプロダクトに組み込まれ、日常的に触れることが当たり前になるほど世間に広まってきました。
-ただ、今までの開発と同じコストや難易度でこの機能が実現できるわけではありません。
-「精度は微妙だが、それっぽい挙動をするもの」は簡単に作ることができても、「お客様に継続的に使っていただける、安定した精度改善を続けられる機能」を作ることは、想像するよりもずっと難易度が高いと思っています。
-なぜなら、確率的な挙動をとる生成AIのアウトプットから定量的な精度を測定するのは難しく、改善の効果が分かりに... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/layerx/articles/cd04dd1350bac5</guid>
-      <pubDate>Thu, 09 Apr 2026 11:00:04 +0000</pubDate>
+      <title>8歳の次男が「にゃんこ大戦争」に90万課金してた</title>
+      <link>https://togetter.com/li/2685069</link>
+      <description>8歳の次男がスマホのゲームに90万円課金。親の楽天カードで決済、親の端末を使わせていたため購入制限が回避されてしまった。フィルターに抜け道があり、Appleに返金申請して数週間で返金。以後、子用端末やアカウント管理、購入承認設定を厳格にし、決済情報を別管理にする必要が明確になった。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2685069</guid>
+      <pubDate>Sun, 12 Apr 2026 04:23:22 +0000</pubDate>
     </item>
     <item>
       <title>Claude Codeが書いたコードを、チームのコードにするためにやったこと — 理解負債とどう向き合ったか</title>
@@ -117,16 +99,26 @@ Claude Codeを使って、Railsアプリケーションで2つの新機能の要
       <pubDate>Thu, 09 Apr 2026 09:00:13 +0000</pubDate>
     </item>
     <item>
-      <title>コードはAIが書ける時代に、設計力はどう鍛えるか - CleanArch Masterという形にした理由</title>
-      <link>https://zenn.dev/more_tech_blog/articles/bf6bf96c05bb9f</link>
-      <description>はじめまして！株式会社モアの片山です！
-普段はフルスタックエンジニアとしてWebサービスの開発をしています。
+      <title>「AI時代に良い問いを立てる人が優秀」は本当なのか？をクーンのパラダイム論から考える</title>
+      <link>https://zenn.dev/acntechjp/articles/ac59a66d0e58d6</link>
+      <description>はじめに
+「AI時代に価値を持つのは、良質な問いを立てられる人だ」
+ここ最近、こうした論調をよく目にするようになりました。生成AIが急速に普及するなかで、「答えはAIが出してくれる。だから人間は問いを立てる側に回るべきだ」という主張は、直感的にもっともらしく聞こえます。
+ただ、自分自身の体験を振り返ると、少し違う景色が見えてきます。
+特に明確な問いもない状態で、自分が書きたいことや背景知識を殴り書きでプロンプトに詰め込むと、AIの側から「それならこういう切り口はどうですか？」と、思いもよらない問いが返ってくることがある。つまり、良質なコンテキスト（文脈・背景情報）を渡せば、AIも良質... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/ac59a66d0e58d6</guid>
+      <pubDate>Sat, 11 Apr 2026 15:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EmDashに触発されてWordpressの後継CMSを本気で考えぬいたらどうしても詰んでしまった話</title>
+      <link>https://zenn.dev/kusuke/articles/fd4229b84c57da</link>
+      <description>先日CloudflareからEmDashというCMSが登場して、「Wordpressの精神的後継者」というキャッチフレーズが流行りました。EmDash自体はCloudflareのSandboxという仕組みを前面に押し出していて、プラグインを安全に実行するというコンセプトは非常に面白かったです。が、公私ともに何十個もWordpressをインストールしたり、完全サーバレスのWordpressを作ったりした自分としてはなんか違うな感がとてもありました。
+そこで、本気でWordpressの後継をかんがえたらしんどくなって辞めた話を書こうと思います
 
- 「分かった」と「書ける」のあいだを埋めたい
-生成AIでコードを書くハードルが下がったいま、逆に差が出やすくなったのは「どう実装するか」といったコーディング力よりも、「どう分けるか」「どこに責務を置くか」といった設計力のほうだと感じています。
-APIやUI画面は作れても、ユースケースの責務分離、依存関係の向き、ドメイン知識の置き場所まで腹落ちしているかというと、そこは別の難しさがあります。特にクリーンアーキテクチャは、図を見ると分かった気になる一方で、実際にコードを書くと急に難... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/more_tech_blog/articles/bf6bf96c05bb9f</guid>
-      <pubDate>Thu, 09 Apr 2026 03:56:25 +0000</pubDate>
+ Wordpressの本質とはなんなのか？
+W... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kusuke/articles/fd4229b84c57da</guid>
+      <pubDate>Sat, 11 Apr 2026 02:20:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

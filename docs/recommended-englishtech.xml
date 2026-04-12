@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Apr 2026 07:06:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 07:21:30 +0000</lastBuildDate>
+    <item>
+      <title>2026年にSaaSアプリを支えるための、最適なIDおよびアクセス管理プロバイダー5選</title>
+      <link>https://workos.com/blog/best-identity-access-management-providers-2026</link>
+      <description>SaaSチーム向けの主要なIAMソリューションに関する2026年版ガイド。機能、価格、トレードオフを詳細に解説し、最適なプロバイダーを選択してエンタープライズ案件をより迅速に成立させるお手伝いをします。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/best-identity-access-management-providers-2026</guid>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>UberのHive Federationは、16,000のデータセットと10PBを超えるデータを分散化し、大規模なダウンタイムゼロの分析を実現します。</title>
       <link>https://www.infoq.com/news/2026/04/uber-hive-decentralized-data/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -18,7 +25,7 @@
     <item>
       <title>ポッドキャスト：タイガーチーム、評価、エージェント：新しいAIエンジニアリングのプレイブック</title>
       <link>https://www.infoq.com/podcasts/tiger-teams-evals-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>このポッドキャストでは、カルチャー＆メソッド担当編集長のシェーン・ハスティが、Mastraの共同創設者兼CEOであるサム・バグワット氏に、オープンソースコミュニティの構築と維持、AIエンジニアリングと評価という新たな分野、そしてエージェント型アプリケーションの出荷においてクロスファンクショナルなタイガーチームがいかに重要であるかについて話を聞きました。執筆：サム・バグワット (source: InfoQ)</description>
+      <description>このポッドキャストでは、カルチャー＆メソッド担当編集長のシェーン・ハスティが、Mastraの共同創設者兼CEOであるサム・バグワット氏に、オープンソースコミュニティの構築と維持、AIエンジニアリングと評価という新たな分野、そしてクロスファンクショナルなタイガーチームがエージェント型アプリケーションの出荷にいかに重要であるかについて話を聞きました。執筆：サム・バグワット (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/podcasts/tiger-teams-evals-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Fri, 10 Apr 2026 09:00:00 +0000</pubDate>
     </item>
@@ -32,7 +39,7 @@
     <item>
       <title>論文：階層型エージェントRAGシステムの構築：自律的なエラー回復を備えたマルチモーダル推論</title>
       <link>https://www.infoq.com/articles/building-hierarchical-agentic-rag-systems/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>本稿では、階層型エージェントRAGシステムが、構造化されたオーケストレーションを通じて専門ワーカーをどのように調整し、複雑なエンタープライズ分析ワークフローにおける精度、信頼性、説明可能性を向上させるかを考察する。本稿では、プロトコルHを用いて、決定論的ルーティング、リフレクティブリトライ、およびモダリティ認識推論が、より安全なマルチソースクエリ実行をどのようにサポートするかを示す。執筆者：Abhijit Ubale (source: InfoQ)</description>
+      <description>本稿では、階層型エージェントRAGシステムが、構造化されたオーケストレーションを通じて専門ワーカーをどのように調整し、複雑なエンタープライズ分析ワークフローにおける精度、信頼性、説明可能性を向上させるかを考察する。本稿では、プロトコルHを例として、決定論的ルーティング、リフレクティブリトライ、およびモダリティ認識推論が、より安全なマルチソースクエリ実行をどのようにサポートするかを示す。執筆者：Abhijit Ubale (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/articles/building-hierarchical-agentic-rag-systems/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 09 Apr 2026 09:00:00 +0000</pubDate>
     </item>
@@ -49,13 +56,6 @@
       <description>ユーザーが多要素認証を有効にし、強力なパスワードを使用し、推奨するすべてのセキュリティ対策を遵守しているとしても、攻撃者がユーザーとログインページの間に潜り込み、リアルタイムでトラフィックを中継して有効なセッションクッキーを持ち去ってしまうとしたら、それらはすべて無意味です。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/adversary-in-the-middle-attacks</guid>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>創業者たちは、アンジュナの人員削減と回復から何を学べるか</title>
-      <link>https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/</link>
-      <description>2021年、Anjuna Securityは急速に成長し、積極的に人材を採用し、無限とも思える市場を追い求めていた。同年末までに、ベンチャーキャピタルから資金提供を受けたこのサイバーセキュリティ企業は従業員数を約75人にまで拡大し、継続的な急成長を見越して営業、カスタマーサクセス、サポートチームを構築していた。そして2022年が到来した。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/</guid>
-      <pubDate>Thu, 09 Apr 2026 21:17:30 +0000</pubDate>
     </item>
     <item>
       <title>開発者向けCLI認証ガイド</title>
