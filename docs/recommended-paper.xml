@@ -7,13 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Apr 2026 07:21:25 +0000</lastBuildDate>
-    <item>
-      <title>A-SLIP：連続的な手持ち滑り推定のための音響センシング</title>
-      <link>https://arxiv.org/abs/2604.08528v1</link>
-      <description>確実な手内操作には、グリッパーと把持対象物との間の滑りをリアルタイムで正確に推定することが必要です。視覚、静電容量、または力-トルク測定に基づく既存の触覚センシング手法は、形状、耐久性、および滑りの方向と大きさを同時に推定する能力において根本的なトレードオフに直面しています。本稿では、把持面における連続的な滑りを推定するために、平行ジョーグリッパーに統合されたマルチチャンネル音響センシングシステムであるA-SLIPを紹介します。A-SLIPセンサーは、構造化された接触誘起振動を捉えるために、テクスチャ加工されたシリコン接触パッドの後ろに配置された圧電マイクロホンで構成されています。A-SLIPモデルは、軽量畳み込みネットワークを使用して同期されたマルチチャンネルオーディオをログメルスペクトログラムとして処理し、滑りの存在、方向、および大きさを同時に予測します。ロボットによる滑り条件と外部からの滑り条件の両方で実施した実験において、微調整された4つのマイクロホン構成は、平均絶対方向誤差14.1度を達成し、検出精度でベースラインを最大12%上回り、方向誤差を32%削減しました。単一マイクロ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.08528v1</guid>
-      <pubDate>Thu, 09 Apr 2026 17:58:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Apr 2026 08:11:08 +0000</lastBuildDate>
   </channel>
 </rss>

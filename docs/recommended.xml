@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Apr 2026 07:21:18 +0000</lastBuildDate>
-    <item>
-      <title>脱・セキュリティ初心者。現場の信頼を勝ち取るための「3つの原則」と「1つの習慣」</title>
-      <link>https://qiita.com/masa20057/items/be5d46e82f7301747e86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>「コードさえ書ければOK」だと思っていませんか？実は僕もそうでした。
-でも、技術以前に「信頼」を守るセキュリティ意識も非常に大切です。
-エンジニア未経験の方々が、最初の一歩で躓かないための「守りの本質」を、社内の情報セキュリティを守る活動もしている私の経験を交えて共有します... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/masa20057/items/be5d46e82f7301747e86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 09 Apr 2026 02:44:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Go + Reactで現場レベルの状態遷移を1つのテーブルに統合する — 13状態×15イベントを型で閉じ込める</title>
-      <link>https://zenn.dev/okamyuji/articles/golang-react-state-machine-transition-table</link>
-      <description>!
-本記事は、同じテーマを別のスタックで扱った次の2本の関連記事があります。前提知識や設計原則の部分には一部に意図的な重複記述がありますが、3本はそれぞれ独立して読めるように書いています。同じ題材(ImportJobの状態遷移とUI優先表示)を異なる言語・フレームワークで実装した比較として、気になるスタックのものだけを読んでいただいても構いません。
-
-Reactのフラグ地獄を状態遷移テーブルで解消する — モーダルとオーバーレイの優先表示まで設計する
-Railsのフラグ地獄を状態遷移テーブルで解消する — モーダルとオーバーレイの優先表示まで設計する
-
-
-
- この記事で学べること
-3分で... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/okamyuji/articles/golang-react-state-machine-transition-table</guid>
-      <pubDate>Sat, 11 Apr 2026 04:20:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>認知科学でAI秘書の記憶を再設計したら別人になった話【プロンプト付き】｜はたけ</title>
-      <link>https://note.com/hatakejp/n/naae38195e8d8</link>
-      <description>「この前話したこと、覚えてないの？」 AI秘書と毎日やりとりしていると、こんなモヤッとした瞬間に出くわすことがあります。昨日の議論をゼロから説明し直す。一方で、もう関係ないはずの3ヶ月前の話を引きずっている。覚えてほしいことを覚えてくれない。忘れてほしいことを覚えている。 この噛み合わなさの正体が、ず... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/hatakejp/n/naae38195e8d8</guid>
-      <pubDate>Sat, 11 Apr 2026 05:25:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Apr 2026 08:10:48 +0000</lastBuildDate>
     <item>
       <title>分析エージェントの問題点と、セマンティックレイヤーという打ち手──AIにSQLを書かせない設計</title>
       <link>https://zenn.dev/gixo/articles/semantic-layer-agent-bigquery</link>
@@ -54,6 +22,36 @@ Railsのフラグ地獄を状態遷移テーブルで解消する — モーダ�
       <pubDate>Fri, 10 Apr 2026 09:23:42 +0000</pubDate>
     </item>
     <item>
+      <title>「日本の農業は非効率」「AIやセンサーに置き換えればいい」と叫ぶ人が知らない農業の本質</title>
+      <link>https://diamond.jp/articles/-/387171</link>
+      <description>AIやセンサーを使う「スマート農業」や植物工場が注目されている。だが、それだけで農業と言えるのだろうか。茨城で農業法人を経営する筆者は、こうした取り組みをあえて「野菜生産販売業」と呼ぶ。テクノロジーだけでは語れない農業の本質とは何か。※本稿は、野口憲一『コメ関税ゼロで日本農業の夜は明ける』（新潮社）... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://diamond.jp/articles/-/387171</guid>
+      <pubDate>Fri, 10 Apr 2026 23:09:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeのマルチセッション管理にジョブキューの概念を取り入れる</title>
+      <link>https://zenn.dev/mh4gf/articles/claude-code-multi-session-job-queue</link>
+      <description>皆さんはClaude Codeのマルチセッション管理をどうしていますか？
+Claude Codeの進化により、1つのセッションでこなせるタスクの精度は大幅に上がりました。しかし実際の開発業務では1つのセッションだけでは足りないことの方が多いです。プルリクエストの作成までできたとしても、CIの失敗、コンフリクトの発生、レビューコメントの対応など、後続の細かい作業が続きます。また複数タスクを並列で進行したり、副業など複数プロジェクトに関わるならさらに並列作業が増えていきます。
+この問題には世の中には数多くのアプローチが出ており、自分もしばらく試行錯誤を続けていました。最終的にジョブキューベー... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mh4gf/articles/claude-code-multi-session-job-queue</guid>
+      <pubDate>Sun, 12 Apr 2026 06:50:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jujutsu はなぜ AI 時代に急に評価され始めたのか</title>
+      <link>https://zenn.dev/oukayuka/books/353ad112b88613</link>
+      <description>最近注目を集めている Git 互換の新世代 VCS、Jujutsu。
+2022年から公開されていましたが、しばらくは知る人ぞ知る存在のツールでした。それが 2025年中ごろから急に界隈で話題に上るようになりました。それは折しも Claude Code などのエージェント型 AI コーディングツールが登場し、人ではなく AI がほとんどのコードを書くフローが普及してきた時期に重なります。
+本書では Jujutsu がなぜ AI 支援開発のシーンで評価されるのかを解説していきます。
+
+※この記事は 2026 年 4 月開催の技術書典 20 に合わせて刊行された『じゅじゅちゅ！ jj new で始める Jujutsu × AI ワークフロー』の中の「第 1 章  Jujutsu ってどんなツール？」の内容を再編成したものです。
+
+https://oukayuka.booth.pm/items/8169264
+https://techbookfest.org/product/nCUm1fLEJi5AywW1pyYWMW (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/oukayuka/books/353ad112b88613</guid>
+      <pubDate>Fri, 10 Apr 2026 04:35:15 +0000</pubDate>
+    </item>
+    <item>
       <title>Claude Code + Obsidian — Daily Note の下書きを自動生成し、週次・月次レビューまで積み上げる仕組みを作った</title>
       <link>https://zenn.dev/dely_jp/articles/b8da42a57bbc39</link>
       <description>はじめに
@@ -66,37 +64,25 @@ TODO や Meeting の自動挿... (source: Zennのトレンド)</description>
       <pubDate>Fri, 10 Apr 2026 09:32:22 +0000</pubDate>
     </item>
     <item>
-      <title>8歳の次男が「にゃんこ大戦争」に90万課金してた</title>
-      <link>https://togetter.com/li/2685069</link>
-      <description>8歳の次男がスマホのゲームに90万円課金。親の楽天カードで決済、親の端末を使わせていたため購入制限が回避されてしまった。フィルターに抜け道があり、Appleに返金申請して数週間で返金。以後、子用端末やアカウント管理、購入承認設定を厳格にし、決済情報を別管理にする必要が明確になった。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2685069</guid>
-      <pubDate>Sun, 12 Apr 2026 04:23:22 +0000</pubDate>
+      <title>Linuxカーネルで「AIが生成したコードのすべての行、およびそれに起因するバグやセキュリティ上の欠陥の法的責任」を提出した人間がしっかりと負うことに</title>
+      <link>https://gigazine.net/news/20260413-linux-a-generated-code-assisted-by/</link>
+      <description>by Mike Cohen Linuxカーネルの開発コミュニティが数ヶ月にわたる議論を経て、AIが生成したコードの寄稿に関する正式なプロジェクト全体のポリシーを策定しました。LinuxカーネルのBDFLであるリーナス・トーバルズ氏とメンテナーたちの合意によって成立したこの規定は、AIを単なる一つのツールとして認める実利的な姿勢... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20260413-linux-a-generated-code-assisted-by/</guid>
+      <pubDate>Mon, 13 Apr 2026 02:29:12 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeが書いたコードを、チームのコードにするためにやったこと — 理解負債とどう向き合ったか</title>
-      <link>https://zenn.dev/dely_jp/articles/b8b41a4202efda</link>
+      <title>ベクトル検索は不要なのか</title>
+      <link>https://zenn.dev/nttdata_tech/articles/694e39ceff58b7</link>
       <description>はじめに
-こんにちは、クラシルでバックエンド開発をしているmighteeです。
-社内では開発者だけでなくbizメンバーも含めてAI活用を積極的に進めています。開発メンバーはすでにAIを日常的に使いこなしていますが、その中で新しい課題も見えてきました。
-Claude Codeを使って、Railsアプリケーションで2つの新機能の要件定義からリリースまでを担当しました。期間は約3週間です。開発はスクラム単位で進めていて、実装は自分がClaude Codeと一緒に進め、レビューは別スクラムのバックエンドエンジニアに見てもらう体制です。
-個人の体感では、生産性は上がりました。マイグレーション、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/b8b41a4202efda</guid>
-      <pubDate>Thu, 09 Apr 2026 09:21:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>転職してエクセルファイルを読み解いてHTMLに変換する仕事をしていたが、悪役令嬢は出てこないし、勇者パーティーも追放されなかった話</title>
-      <link>https://zenn.dev/aldagram_tech/articles/c472e358412864</link>
-      <description>こんにちは。アルダグラムのテクニカルフェロー(自称?)をしている蓬莱です。
-（特に社内外でアナウンスされているわけでもないので、本当に自称かも知れない。。）
-とあるMから始まるGAFAM企業をやめてブラブラしていたところを、縁があってアルダグラムに入社させていただく事になりました。（もうちょっとで半年になります）
-突然ですが、皆さん、エクセルファイルを読んでますか？
-「普通に仕事でエクセル使ってるわー。嫌やけど。」
-みたいな話じゃありません。
-エクセルファイルをアプリではなく人間が読むという話です。
-「ちょっと何言ってるかわかんない・・」
-って帰ろうとしたアナタ！ほんのもう少しだけお付き... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aldagram_tech/articles/c472e358412864</guid>
-      <pubDate>Thu, 09 Apr 2026 09:00:13 +0000</pubDate>
+タイトルの問いに対して、結論から言うとベクトル検索が完全に不要になった、ということはないです。一方、「各文書を分割→ベクトル化→並列に配置して検索」のような従来RAGのアーキテクチャだと対応できないユースケースは多々あります。
+本記事では、従来のベクトル型RAGの特徴を振り返り、技術的課題を再認識するとともに、最新のRAGアーキテクチャの利点を踏まえて、これらとベクトル検索をいかに共存させるかを再検討します。
+
+ RAG（Retrieval-Augmented Generation）
+
+ RAGの定義
+そもそもRAGとは、外部にあるデータを抽出し、ユーザーの入力と合わせてL... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/694e39ceff58b7</guid>
+      <pubDate>Fri, 10 Apr 2026 04:22:55 +0000</pubDate>
     </item>
     <item>
       <title>「AI時代に良い問いを立てる人が優秀」は本当なのか？をクーンのパラダイム論から考える</title>
@@ -108,6 +94,15 @@ Claude Codeを使って、Railsアプリケーションで2つの新機能の要
 特に明確な問いもない状態で、自分が書きたいことや背景知識を殴り書きでプロンプトに詰め込むと、AIの側から「それならこういう切り口はどうですか？」と、思いもよらない問いが返ってくることがある。つまり、良質なコンテキスト（文脈・背景情報）を渡せば、AIも良質... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/ac59a66d0e58d6</guid>
       <pubDate>Sat, 11 Apr 2026 15:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CDNを活用した画像配信の設計と最適化</title>
+      <link>https://zenn.dev/catatsuy/articles/43b5cf583fac76</link>
+      <description>最近のWebサービスでは、画像配信の設計を昔のままにしておくのは難しくなっています。
+以前は、画像をアップロードした時に固定サイズのサムネイルをいくつか生成し、それをそのまま配信する形でも大きな問題はありませんでした。しかし今は、高精細なディスプレイを持つスマートフォンが一般的になり、同じ画像でも表示環境に応じて適切なサイズやフォーマットを選ぶ必要があります。さらに、CDNや画像最適化サービスを使えば、元画像から必要な派生画像を動的に生成してキャッシュできるようになりました。こうなると、画像配信は単なるフロントエンドの都合ではなく、サービス全体の設計の一部として考える必要があります。
+私... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/catatsuy/articles/43b5cf583fac76</guid>
+      <pubDate>Sat, 11 Apr 2026 06:23:48 +0000</pubDate>
     </item>
     <item>
       <title>EmDashに触発されてWordpressの後継CMSを本気で考えぬいたらどうしても詰んでしまった話</title>
