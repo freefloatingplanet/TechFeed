@@ -7,6 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Apr 2026 08:11:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 07:54:01 +0000</lastBuildDate>
+    <item>
+      <title>一緒にプレイする：心の理論を通して信念誘導のための二重スパイ擁護者を学ぶ</title>
+      <link>https://arxiv.org/abs/2604.11666v1</link>
+      <description>大規模言語モデル（LLM）が対話システムのエンジンとなるにつれ、対話相手の意図や状態を推論する能力（つまり、心の理論（ToM）を形成して使用する能力）は、潜在的に敵対的な相手との安全なやり取りにおいてますます重要になってきています。私たちは、プライバシーをテーマにした新しいToMチャレンジ、信念誘導のためのToM（ToM-SB）を提案します。このチャレンジでは、防御側は二重スパイとして行動し、共有された世界の中で部分的な事前知識を持つ攻撃者の信念を誘導する必要があります。ToM-SBで成功するには、防御側は攻撃者と関わり、攻撃者のToMを形成し、攻撃者に機密情報の抽出に成功したと思わせることを目標とする必要があります。Gemini3-ProやGPT-5.4のような強力な最先端モデルはToM-SBで苦戦し、攻撃者の信念について推論するように促されても（ToMプロンプト）、攻撃者の事前知識が部分的な難しいシナリオでは攻撃者を騙すことに失敗することが多いことがわかりました。このギャップを埋めるため、強化学習を用いてToM-SB上でAIダブルエージェントとして機能するモデルを訓練し、欺瞞とTo (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.11666v1</guid>
+      <pubDate>Mon, 13 Apr 2026 16:14:41 +0000</pubDate>
+    </item>
   </channel>
 </rss>

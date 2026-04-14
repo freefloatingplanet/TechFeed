@@ -7,26 +7,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 08:10:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 07:53:53 +0000</lastBuildDate>
     <item>
-      <title>分析エージェントの問題点と、セマンティックレイヤーという打ち手──AIにSQLを書かせない設計</title>
-      <link>https://zenn.dev/gixo/articles/semantic-layer-agent-bigquery</link>
+      <title>GitHub Copilot CLI で個人タスク管理をやってみる</title>
+      <link>https://zenn.dev/microsoft/articles/copilot-task-management</link>
       <description>はじめに
-「自然言語でデータを分析できる」──デモでは魅力的に見えても、 本番導入に足る品質をどう担保するか、そもそも担保しきれるのか と疑問に感じたことはないでしょうか。
-この記事では、 自然言語でデータを分析するAIエージェントが実務で安定しにくい理由 を考察しつつ、近年話題の セマンティックレイヤーとの組み合わせにより、そうした課題を緩和しうる可能性 について紹介します。
-題材にはBigQueryの公開データセット bigquery-public-data.thelook_ecommerce を使います。手元で再現できるよう実テーブルをそのまま使っています。
-
-
- なぜ分析エー... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/gixo/articles/semantic-layer-agent-bigquery</guid>
-      <pubDate>Fri, 10 Apr 2026 09:23:42 +0000</pubDate>
+普段、私は仕事の作業メモやドキュメントを git リポジトリで管理していて、タスクは GitHub Issues + GitHub Projects で管理しています。フォルダーの命名規約に issue 番号を含めることでタスクと作業ファイルの紐づけを行い、YAML で工数データを記録し、GitHub Copilot の skill でその使い方を教えているので、Copilot にタスクの状況を聞いたり新しいタスクを作ったりといったことが自然言語で出来るようになっています。
+今回は、その仕組みからタスク管理の部分だけを抜き出したものを再実装してリポジトリとして公開したので、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/copilot-task-management</guid>
+      <pubDate>Sat, 11 Apr 2026 06:55:36 +0000</pubDate>
     </item>
     <item>
-      <title>「日本の農業は非効率」「AIやセンサーに置き換えればいい」と叫ぶ人が知らない農業の本質</title>
-      <link>https://diamond.jp/articles/-/387171</link>
-      <description>AIやセンサーを使う「スマート農業」や植物工場が注目されている。だが、それだけで農業と言えるのだろうか。茨城で農業法人を経営する筆者は、こうした取り組みをあえて「野菜生産販売業」と呼ぶ。テクノロジーだけでは語れない農業の本質とは何か。※本稿は、野口憲一『コメ関税ゼロで日本農業の夜は明ける』（新潮社）... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://diamond.jp/articles/-/387171</guid>
-      <pubDate>Fri, 10 Apr 2026 23:09:08 +0000</pubDate>
+      <title>Claude Max 20xプランでも足りないので、トークン節約のためにやったこと8選</title>
+      <link>https://zenn.dev/acntechjp/articles/1396e20b5167ce</link>
+      <description>!
+3行まとめ
+
+この記事はトークン節約という文脈で取り組んだ、コンテキストエンジニアリング・ハーネスエンジニアリングの話です
+作業に必要十分な情報だけをClaude に与える設計が、トークン節約だけでなくClaudeのアウトプットの質にも寄与します
+Claude Max 20xプランでもトークンが足りなくなった私の試行錯誤を紹介します
+
+
+
+
+ はじめに
+Claude Max 20xプランを契約しているのに、思ったよりすぐトークン使用枠の上限に達してしまう。
+同じ悩みを持つ人もいるのではないでしょうか。
+私は Claude Code で複数エージェントを並列に回しながら、「投資分析」や... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/1396e20b5167ce</guid>
+      <pubDate>Sun, 12 Apr 2026 23:00:07 +0000</pubDate>
     </item>
     <item>
       <title>Claude Codeのマルチセッション管理にジョブキューの概念を取り入れる</title>
@@ -38,82 +47,77 @@ Claude Codeの進化により、1つのセッションでこなせるタスク�
       <pubDate>Sun, 12 Apr 2026 06:50:38 +0000</pubDate>
     </item>
     <item>
-      <title>Jujutsu はなぜ AI 時代に急に評価され始めたのか</title>
-      <link>https://zenn.dev/oukayuka/books/353ad112b88613</link>
-      <description>最近注目を集めている Git 互換の新世代 VCS、Jujutsu。
-2022年から公開されていましたが、しばらくは知る人ぞ知る存在のツールでした。それが 2025年中ごろから急に界隈で話題に上るようになりました。それは折しも Claude Code などのエージェント型 AI コーディングツールが登場し、人ではなく AI がほとんどのコードを書くフローが普及してきた時期に重なります。
-本書では Jujutsu がなぜ AI 支援開発のシーンで評価されるのかを解説していきます。
-
-※この記事は 2026 年 4 月開催の技術書典 20 に合わせて刊行された『じゅじゅちゅ！ jj new で始める Jujutsu × AI ワークフロー』の中の「第 1 章  Jujutsu ってどんなツール？」の内容を再編成したものです。
-
-https://oukayuka.booth.pm/items/8169264
-https://techbookfest.org/product/nCUm1fLEJi5AywW1pyYWMW (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/oukayuka/books/353ad112b88613</guid>
-      <pubDate>Fri, 10 Apr 2026 04:35:15 +0000</pubDate>
+      <title>ChatGPTから乗り換え急増中。「Claude」を専属エージェントにして仕事を自動化するコツ3選 | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2604-matome-chatgpt-claude/</link>
+      <description>最近、周りでChatGPTから「Claude（クロード）」に乗り換える人が急増しています。 なぜ、これほどまでに注目されているのか。 それは、Claudeが単に「物知りなAI」である以上に、人間の意図を汲み取る能力が非常に高く、「空気が読める秘書」のように振る舞ってくれるからです。 「AIって何ができるの？」という初心者... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.lifehacker.jp/article/2604-matome-chatgpt-claude/</guid>
+      <pubDate>Mon, 13 Apr 2026 14:11:30 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code + Obsidian — Daily Note の下書きを自動生成し、週次・月次レビューまで積み上げる仕組みを作った</title>
-      <link>https://zenn.dev/dely_jp/articles/b8da42a57bbc39</link>
+      <title>AIのための特別なアーキテクチャはいらない ― 0→1開発で実践した設計原則とガードレール - カミナシ エンジニアブログ</title>
+      <link>https://kaminashi-developer.hatenablog.jp/entry/you-might-not-need-dedicated-architecture-for-ai</link>
+      <description>はじめに カミナシでエンジニアをしている Shimmy です。今は新規プロダクト開発をしています。 0→1の開発設計では「コードベースの持続可能性」と「短期的なデリバリー速度」の両方が重要です。そのバランスを取りながら、AIの力を最大限活かせるアーキテクチャを考えてきました。 その過程で分かった設計原則というの... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://kaminashi-developer.hatenablog.jp/entry/you-might-not-need-dedicated-architecture-for-ai</guid>
+      <pubDate>Mon, 13 Apr 2026 23:08:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>FlutterからReact Nativeへ。物流アプリのリプレイスに挑んでいる話</title>
+      <link>https://zenn.dev/hacobu/articles/d1a97a77b94766</link>
       <description>はじめに
-こんにちは、クラシルでバックエンドエンジニアをしている hama です。
-私は Obsidian の Daily Note を毎日の業務記録として使っています。TODO やミーティングの予定、読んだ記事のメモなどを1ページにまとめて、あとから振り返れるようにしていました。
-ただ正直なところ、私の場合、手で書いていた頃は手間が多く、Daily Note をしっかり書き残さない日も多く内容が常に充実しているとは言えませんでした。
-そこで、Claude Code のスキル機能を使って Daily Note への記録の下準備を自動化しました。
-TODO や Meeting の自動挿... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/b8da42a57bbc39</guid>
-      <pubDate>Fri, 10 Apr 2026 09:32:22 +0000</pubDate>
+こんにちは、株式会社HacobuでMOVO Driverアプリのエンジニアをしているまうです。
+今回は、私たちが現在進めている FlutterからReact Native のリプレイスプロジェクト についてお話しします。
+私自身はもともとAndroidエンジニアで、React Nativeは未経験からのスタートでした。この記事では、なぜ今回リプレイスするのか、React Nativeを実際に触ってみてどうだったかをお伝えします。
+
+ MOVO Driver とは
+MOVO Driverは、トラックドライバーの業務を効率化する無料のスマホアプリです。MOVOの各サービスとのタ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hacobu/articles/d1a97a77b94766</guid>
+      <pubDate>Mon, 13 Apr 2026 07:02:01 +0000</pubDate>
     </item>
     <item>
-      <title>Linuxカーネルで「AIが生成したコードのすべての行、およびそれに起因するバグやセキュリティ上の欠陥の法的責任」を提出した人間がしっかりと負うことに</title>
-      <link>https://gigazine.net/news/20260413-linux-a-generated-code-assisted-by/</link>
-      <description>by Mike Cohen Linuxカーネルの開発コミュニティが数ヶ月にわたる議論を経て、AIが生成したコードの寄稿に関する正式なプロジェクト全体のポリシーを策定しました。LinuxカーネルのBDFLであるリーナス・トーバルズ氏とメンテナーたちの合意によって成立したこの規定は、AIを単なる一つのツールとして認める実利的な姿勢... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20260413-linux-a-generated-code-assisted-by/</guid>
-      <pubDate>Mon, 13 Apr 2026 02:29:12 +0000</pubDate>
+      <title>AI関連のスクレイピングか　Twilogに「通常の数十倍」のアクセス　ログイン必須の緊急制限中</title>
+      <link>https://www.itmedia.co.jp/news/articles/2604/14/news080.html</link>
+      <description>Xのポストを記録／検索できるサービス「Twilog」（運営：トゥギャッター）が4月13日、海外の大量のIPアドレスから「通常時の数十倍」のアクセスを受けているとし、対策として、一時的にアクセスにログインを必須にした。 「攻撃もしくはAI関連の悪質なスクレイピング」とみており、簡易的な対応では防御が難しい状況。強... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2604/14/news080.html</guid>
+      <pubDate>Tue, 14 Apr 2026 04:04:38 +0000</pubDate>
     </item>
     <item>
-      <title>ベクトル検索は不要なのか</title>
-      <link>https://zenn.dev/nttdata_tech/articles/694e39ceff58b7</link>
+      <title>データプロダクトマネジメント始めました。SWEの原則でAI時代のデータ品質に向き合う</title>
+      <link>https://zenn.dev/ubie_dev/articles/ad3f556639d44e</link>
       <description>はじめに
-タイトルの問いに対して、結論から言うとベクトル検索が完全に不要になった、ということはないです。一方、「各文書を分割→ベクトル化→並列に配置して検索」のような従来RAGのアーキテクチャだと対応できないユースケースは多々あります。
-本記事では、従来のベクトル型RAGの特徴を振り返り、技術的課題を再認識するとともに、最新のRAGアーキテクチャの利点を踏まえて、これらとベクトル検索をいかに共存させるかを再検討します。
+こんにちは、@glassmonekey です。Ubie 株式会社でソフトウェアエンジニア（SWE）をしています。
+https://x.com/glassmonekey
+最近、テックリードとしての活動に加えて、データプロダクトマネージャーという役割に踏み込み始めました。同じようにキャリアの方向性を考えているエンジニアの方に、参考になればと思って書きます。
 
- RAG（Retrieval-Augmented Generation）
-
- RAGの定義
-そもそもRAGとは、外部にあるデータを抽出し、ユーザーの入力と合わせてL... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/694e39ceff58b7</guid>
-      <pubDate>Fri, 10 Apr 2026 04:22:55 +0000</pubDate>
+ AI時代にエンジニアが向き合うキャリアの問い
+みなさんは最近、AIがコードを書く時代に自分のエンジニアとしての価値はどこにあるのだろう、と考えたことはないでしょうか？
+私も例に漏れず、コードを書くこと自体が目的になってい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/ad3f556639d44e</guid>
+      <pubDate>Tue, 14 Apr 2026 00:49:45 +0000</pubDate>
     </item>
     <item>
-      <title>「AI時代に良い問いを立てる人が優秀」は本当なのか？をクーンのパラダイム論から考える</title>
-      <link>https://zenn.dev/acntechjp/articles/ac59a66d0e58d6</link>
+      <title>東京都の団体用宿泊施設が一ヶ月に倍に？パブリックデータの扱いからデータエンジニアリングを学ぶ</title>
+      <link>https://zenn.dev/estie/articles/2ac12b0f52c44c</link>
+      <description>こんにちは、estie でデータエンジニアをやっている fukushima です。
+estie ではオフィスや物流、住宅といった不動産のデータプロダクトを作っていまして、官公庁が公開しているパブリックデータを扱う機会もあります。今回はその中で見つけた「あれ？」という違和感を深掘りしたら、統計調査の仕組みの面白い側面が見えてきた、という話です。
+
+ 2024年2〜3月の団体観光客の動向が何かおかしい
+観光庁が公表している宿泊旅行統計調査というデータがあります。全国の宿泊施設の利用状況を毎月集計・公表しているものです。
+
+宿泊旅行統計調査は、我が国における日本人・外国人の宿泊旅行の実態等を把... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/estie/articles/2ac12b0f52c44c</guid>
+      <pubDate>Mon, 13 Apr 2026 04:49:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【週末2日】Claude Codeでコミュニティポータルサイトを構築・リリースするまでの全記録</title>
+      <link>https://zenn.dev/easy_easy/articles/89318e4d0acb4f</link>
       <description>はじめに
-「AI時代に価値を持つのは、良質な問いを立てられる人だ」
-ここ最近、こうした論調をよく目にするようになりました。生成AIが急速に普及するなかで、「答えはAIが出してくれる。だから人間は問いを立てる側に回るべきだ」という主張は、直感的にもっともらしく聞こえます。
-ただ、自分自身の体験を振り返ると、少し違う景色が見えてきます。
-特に明確な問いもない状態で、自分が書きたいことや背景知識を殴り書きでプロンプトに詰め込むと、AIの側から「それならこういう切り口はどうですか？」と、思いもよらない問いが返ってくることがある。つまり、良質なコンテキスト（文脈・背景情報）を渡せば、AIも良質... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/ac59a66d0e58d6</guid>
-      <pubDate>Sat, 11 Apr 2026 15:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CDNを活用した画像配信の設計と最適化</title>
-      <link>https://zenn.dev/catatsuy/articles/43b5cf583fac76</link>
-      <description>最近のWebサービスでは、画像配信の設計を昔のままにしておくのは難しくなっています。
-以前は、画像をアップロードした時に固定サイズのサムネイルをいくつか生成し、それをそのまま配信する形でも大きな問題はありませんでした。しかし今は、高精細なディスプレイを持つスマートフォンが一般的になり、同じ画像でも表示環境に応じて適切なサイズやフォーマットを選ぶ必要があります。さらに、CDNや画像最適化サービスを使えば、元画像から必要な派生画像を動的に生成してキャッシュできるようになりました。こうなると、画像配信は単なるフロントエンドの都合ではなく、サービス全体の設計の一部として考える必要があります。
-私... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/catatsuy/articles/43b5cf583fac76</guid>
-      <pubDate>Sat, 11 Apr 2026 06:23:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>EmDashに触発されてWordpressの後継CMSを本気で考えぬいたらどうしても詰んでしまった話</title>
-      <link>https://zenn.dev/kusuke/articles/fd4229b84c57da</link>
-      <description>先日CloudflareからEmDashというCMSが登場して、「Wordpressの精神的後継者」というキャッチフレーズが流行りました。EmDash自体はCloudflareのSandboxという仕組みを前面に押し出していて、プラグインを安全に実行するというコンセプトは非常に面白かったです。が、公私ともに何十個もWordpressをインストールしたり、完全サーバレスのWordpressを作ったりした自分としてはなんか違うな感がとてもありました。
-そこで、本気でWordpressの後継をかんがえたらしんどくなって辞めた話を書こうと思います
+こんにちは！エンジニアリングコミュニティ「Easy Easy」の運営・広報を担当している@unsoluble_sugarです。
+本コミュニティでは、月1回のLTイベント「完全に理解したTalk」を2019年末から開催しています。これまで継続的にイベントを重ね、多くの登壇者による発表が蓄積されてきました。
 
- Wordpressの本質とはなんなのか？
-W... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kusuke/articles/fd4229b84c57da</guid>
-      <pubDate>Sat, 11 Apr 2026 02:20:47 +0000</pubDate>
+メンバー有志の方がまとめてくれているリンク集はあったものの、プラットフォームの性質上、多角的な検索や情報集約のUXとしては物足りない部分があり、「あの話、どの回だっけ？」「◯◯さんのこれまでのLT一覧を見たい」といった要望を満たすのが難しい状況でした。
+https://q... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/easy_easy/articles/89318e4d0acb4f</guid>
+      <pubDate>Mon, 13 Apr 2026 11:23:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

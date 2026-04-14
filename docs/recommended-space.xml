@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 08:10:52 +0000</lastBuildDate>
-    <item>
-      <title>ガンダムの「ハロ」が宇宙へ！ 自律型ロボットをISS「きぼう」に送るプロジェクトが始動</title>
-      <link>https://sorae.info/biz/20260410-hello-haro.html</link>
-      <description>スペースエントリー株式会社は2026年4月7日、メカニックデザイナーの大河原邦男氏がデザインした自律型宇宙ロボット「みんなのハロ」を、ISS（国際宇宙ステーション）の「きぼう」日本実験棟へ送り長期滞在させるプロジェクト「… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/biz/20260410-hello-haro.html</guid>
-      <pubDate>Fri, 10 Apr 2026 03:26:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Apr 2026 07:53:58 +0000</lastBuildDate>
     <item>
       <title>NASAアルテミスII打ち上げ成功、53年ぶりに人類が月周辺へ。人類史上最も遠い場所に到達し、2028年の有人着陸に向けテスト飛行が本格始動【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/45559/</link>
       <description>2026年4月1日、NASAのアルテミスIIが打ち上げに成功しました。アポロ17号以来53年ぶりとなる有人月周回ミッションの全容と、2028年の月面着陸に向けた今後の計画を解説します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45559/</guid>
       <pubDate>Tue, 07 Apr 2026 23:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国が「長征6号改」を打ち上げ　衛星インターネット低軌道衛星「国網」5機を軌道投入</title>
-      <link>https://sorae.info/ssn/20260409-satnet-leo-21.html</link>
-      <description>CASC（中国航天科技集団）は日本時間2026年4月9日、太原衛星発射センターから「長征6号改」ロケットを打ち上げました。搭載されていた衛星インターネット低軌道衛星は、所定の軌道へ無事に投入されたことが報告されています。… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260409-satnet-leo-21.html</guid>
-      <pubDate>Thu, 09 Apr 2026 03:47:29 +0000</pubDate>
     </item>
     <item>
       <title>BluesとSkylo、衛星・携帯キャリア・Wi-Fiを束ねるIoTモジュールを発表、いつどこでもつながる通信を実現へ【宇宙ビジネスニュース】</title>
@@ -51,6 +37,13 @@
       <pubDate>Sun, 12 Apr 2026 08:13:05 +0000</pubDate>
     </item>
     <item>
+      <title>部材剥離を主要因とした対策方針を決定　JAXAがH3ロケット8号機打ち上げ失敗原因究明状況を報告</title>
+      <link>https://sorae.info/space/20260413-h3f8.html</link>
+      <description>JAXA（宇宙航空研究開発機構）は2026年4月13日に開催された第62回宇宙開発利用部会 調査・安全小委員会にて、「H3」 ロケット8号機打ち上げ失敗の原因究明について、最新の状況を報告しました。 これまでの大まかな経… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260413-h3f8.html</guid>
+      <pubDate>Mon, 13 Apr 2026 12:52:20 +0000</pubDate>
+    </item>
+    <item>
       <title>NVIDIA、宇宙向け「Space Computing」を発表。年商32兆円のAI計算インフラ企業が宇宙を正式市場に【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/45528/</link>
       <description>軌道上データセンターから地上解析まで、用途に応じた製品群を一挙に公開しました。Planet LabsやAxiom Spaceなど宇宙企業6社との連携も同時に発表しています。 (source: 宙畑)</description>
@@ -63,6 +56,13 @@
       <description>2026年3月末でJAXA（宇宙航空研究開発機構）を退職した古川聡さんが、4月1日付で杏林大学（東京都三鷹市）医学部の特任教授に就任しました。 医師としてのバックグラウンドを持つ古川さんが、宇宙飛行士として培った知見を次… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/news/20260410-furukawa-kyorin.html</guid>
       <pubDate>Fri, 10 Apr 2026 01:01:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>「パラメトリック保険」は衛星利用ビジネスの注目ワードに。地球のあらゆる動きを指標化できる衛星データ×保険の未来</title>
+      <link>https://sorabatake.jp/45652/</link>
+      <description>衛星データで災害や積雪、船舶数まで指標化し、査定不要で即時の保険金支払いができる？衛星データを利活用が期待される「パラメトリック保険」の仕組みと可能性を、国内外の事例と合わせて解説します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45652/</guid>
+      <pubDate>Mon, 13 Apr 2026 23:00:53 +0000</pubDate>
     </item>
     <item>
       <title>SpaceX、宇宙向けAIチップを自社製造へ。Tesla・xAIと1テラワット規模の「TERAFAB」発表【宇宙ビジネスニュース】</title>
