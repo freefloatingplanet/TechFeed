@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Apr 2026 07:54:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:54:48 +0000</lastBuildDate>
     <item>
-      <title>一緒にプレイする：心の理論を通して信念誘導のための二重スパイ擁護者を学ぶ</title>
-      <link>https://arxiv.org/abs/2604.11666v1</link>
-      <description>大規模言語モデル（LLM）が対話システムのエンジンとなるにつれ、対話相手の意図や状態を推論する能力（つまり、心の理論（ToM）を形成して使用する能力）は、潜在的に敵対的な相手との安全なやり取りにおいてますます重要になってきています。私たちは、プライバシーをテーマにした新しいToMチャレンジ、信念誘導のためのToM（ToM-SB）を提案します。このチャレンジでは、防御側は二重スパイとして行動し、共有された世界の中で部分的な事前知識を持つ攻撃者の信念を誘導する必要があります。ToM-SBで成功するには、防御側は攻撃者と関わり、攻撃者のToMを形成し、攻撃者に機密情報の抽出に成功したと思わせることを目標とする必要があります。Gemini3-ProやGPT-5.4のような強力な最先端モデルはToM-SBで苦戦し、攻撃者の信念について推論するように促されても（ToMプロンプト）、攻撃者の事前知識が部分的な難しいシナリオでは攻撃者を騙すことに失敗することが多いことがわかりました。このギャップを埋めるため、強化学習を用いてToM-SB上でAIダブルエージェントとして機能するモデルを訓練し、欺瞞とTo (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.11666v1</guid>
-      <pubDate>Mon, 13 Apr 2026 16:14:41 +0000</pubDate>
+      <title>対称性こそがほぼ全て：対称的なSRG領域によって誘発される不確実性を伴う堅牢な安定性</title>
+      <link>https://arxiv.org/abs/2604.12960v1</link>
+      <description>本論文では、スケーリングされた相対グラフ（SRG）が存在する平面上のグラフィカル領域によって誘発される不確実性が存在する場合のフィードバックシステムのロバスト安定性問題を調査する。主な結果は、斬新で直感的な概念であるDavis-Wielandtシェルと、SRGおよび関連する変種との関連性を用いて展開される。まず、2種類のグラフィカルに誘発される不確実性セット（1つはθに関する事前情報あり、もう1つは事前情報なし）に対する行列ロバスト非特異性（MRN）問題を研究する。前者の場合、不確実性を誘発する領域がθ軸に関して鏡面対称である場合、SRGの特定の変種と領域との間の分離がMRNの必要十分条件となることを示す。領域が非対称の場合、一般的に必要条件は満たされない。これにより、小さなゲイン条件の必要性が回復され、行列レベルでの小さな角度条件とセクターディスク条件の必要性が明らかになる。後者の場合、必要十分条件を得るには、追加のθ円形接続性が必要であることを示す。これらのMRNの結果に基づいて、周波数対称な不確実性下における多入力多出力（MIMO）線形時不変（LTI）システムの堅牢な安定性のため (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.12960v1</guid>
+      <pubDate>Tue, 14 Apr 2026 16:55:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

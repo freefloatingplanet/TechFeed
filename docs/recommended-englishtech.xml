@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Apr 2026 07:54:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:54:54 +0000</lastBuildDate>
     <item>
       <title>ポッドキャスト：SBOMとエンジニアリング規律がトリビーの妥協を回避するのにどのように役立つか</title>
       <link>https://www.infoq.com/podcasts/help-avoid-trivy-compromise/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -16,11 +16,11 @@
       <pubDate>Mon, 13 Apr 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ポッドキャスト：タイガーチーム、評価、エージェント：新しいAIエンジニアリングのプレイブック</title>
-      <link>https://www.infoq.com/podcasts/tiger-teams-evals-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>このポッドキャストでは、カルチャー＆メソッド担当編集長のシェーン・ハスティが、Mastraの共同創設者兼CEOであるサム・バグワット氏に、オープンソースコミュニティの構築と維持、AIエンジニアリングと評価という新たな分野、そしてクロスファンクショナルなタイガーチームがエージェント型アプリケーションの出荷にいかに重要であるかについて話を聞きました。執筆：サム・バグワット (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/podcasts/tiger-teams-evals-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 10 Apr 2026 09:00:00 +0000</pubDate>
+      <title>プレゼンテーション：プラットフォームエンジニアリング：eBay Velocityの盛衰から学ぶ教訓</title>
+      <link>https://www.infoq.com/presentations/platform-engineering-lessons/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ランディ・ショープは、エンジニアリングの生産性を倍増させ、eBayのDORA指標を近代化した変革「ベロシティ・イニシアチブ」について語る。彼は4,500ものサービスを拡張するために用いられた技術的なプレイブックを紹介するとともに、ウォーターフォール型計画、リスク回避、そして「病的な」恐怖文化に阻まれた企業を、たとえ優秀なエンジニアリング能力をもってしても救えない理由を説明する。ランディ・ショープ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/platform-engineering-lessons/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 14 Apr 2026 11:17:00 +0000</pubDate>
     </item>
     <item>
       <title>AWSがAPIアクセスとスコープ1～3排出量報告機能を備えたサステナビリティコンソールをリリース</title>
@@ -35,6 +35,13 @@
       <description>InfoQは先日、Springチームの主要メンバーに、Spring Framework 7とSpring Boot 4における重要なアーキテクチャと機能の進歩についてインタビューを行いました。このインタビューでは、リトライや並行処理のスロットリングといった機能をフレームワークに直接統合することでコアの回復力を高めるという戦略的な転換点と、自動構成のモジュール化によるパフォーマンス上のメリットについて掘り下げています。執筆者：Karsten Silz、Phil Webb、Sam Brannen、Rossen Stoyanchev、Mark Pollack、Martin Lippert、Michael Minella (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/articles/spring-team-spring-7-boot-4/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 13 Apr 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>記事：ワンクリックを超えて：Docker向けエンタープライズグレードの可観測性拡張機能の設計</title>
+      <link>https://www.infoq.com/articles/enterprise-grade-observability-extension-docker/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Docker拡張機能は開発者のスピードを向上させますが、テレメトリを分離することで「可視性のギャップ」を生み出します。エンタープライズのニーズを満たすには、拡張機能は集中型プラットフォームへの橋渡し役として機能する必要があります。この記事では、OpenTelemetry、ポリシー・アズ・コード、暗号化を使用して安全なパイプラインを構築する方法を詳しく説明します。開発者の生産性と、スケーラブルでコンプライアンスに準拠した可観測性に必要なガバナンスのバランスを取る方法を学びましょう。執筆者：Pragya Keshap (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/enterprise-grade-observability-extension-docker/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>
@@ -70,13 +77,6 @@
       <description>APIキー、トークンファイル、OAuthデバイスフロー、クライアント認証情報を比較。CLIに最適な認証パターンを選択するための実践的なガイド。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cli-authentication-guide</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>プレゼンテーション：レイテンシ：ゼロを目指す競争…私たちはまだそこに到達していないのか？</title>
-      <link>https://www.infoq.com/presentations/latency-techniques/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>アミール・ランガー氏は、ポニー・エクスプレス時代から現代のハードウェアに至るまでのレイテンシー削減の進化について論じています。彼は、関心の分離（ビジネスロジックとI/Oの分離）や、AeronやDisruptorといったツールによって、いかにしてマイクロ秒単位の速度を実現できるかを解説しています。また、レプリケートされたステートマシン、Raftのようなコンセンサスプロトコル、そして低レイテンシーケンサーアーキテクチャの未来についても洞察を共有しています。アミール・ランガー著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/latency-techniques/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 10 Apr 2026 14:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

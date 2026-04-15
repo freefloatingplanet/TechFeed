@@ -7,59 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Apr 2026 07:53:53 +0000</lastBuildDate>
-    <item>
-      <title>GitHub Copilot CLI で個人タスク管理をやってみる</title>
-      <link>https://zenn.dev/microsoft/articles/copilot-task-management</link>
-      <description>はじめに
-普段、私は仕事の作業メモやドキュメントを git リポジトリで管理していて、タスクは GitHub Issues + GitHub Projects で管理しています。フォルダーの命名規約に issue 番号を含めることでタスクと作業ファイルの紐づけを行い、YAML で工数データを記録し、GitHub Copilot の skill でその使い方を教えているので、Copilot にタスクの状況を聞いたり新しいタスクを作ったりといったことが自然言語で出来るようになっています。
-今回は、その仕組みからタスク管理の部分だけを抜き出したものを再実装してリポジトリとして公開したので、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/copilot-task-management</guid>
-      <pubDate>Sat, 11 Apr 2026 06:55:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Max 20xプランでも足りないので、トークン節約のためにやったこと8選</title>
-      <link>https://zenn.dev/acntechjp/articles/1396e20b5167ce</link>
-      <description>!
-3行まとめ
-
-この記事はトークン節約という文脈で取り組んだ、コンテキストエンジニアリング・ハーネスエンジニアリングの話です
-作業に必要十分な情報だけをClaude に与える設計が、トークン節約だけでなくClaudeのアウトプットの質にも寄与します
-Claude Max 20xプランでもトークンが足りなくなった私の試行錯誤を紹介します
-
-
-
-
- はじめに
-Claude Max 20xプランを契約しているのに、思ったよりすぐトークン使用枠の上限に達してしまう。
-同じ悩みを持つ人もいるのではないでしょうか。
-私は Claude Code で複数エージェントを並列に回しながら、「投資分析」や... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/1396e20b5167ce</guid>
-      <pubDate>Sun, 12 Apr 2026 23:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Codeのマルチセッション管理にジョブキューの概念を取り入れる</title>
-      <link>https://zenn.dev/mh4gf/articles/claude-code-multi-session-job-queue</link>
-      <description>皆さんはClaude Codeのマルチセッション管理をどうしていますか？
-Claude Codeの進化により、1つのセッションでこなせるタスクの精度は大幅に上がりました。しかし実際の開発業務では1つのセッションだけでは足りないことの方が多いです。プルリクエストの作成までできたとしても、CIの失敗、コンフリクトの発生、レビューコメントの対応など、後続の細かい作業が続きます。また複数タスクを並列で進行したり、副業など複数プロジェクトに関わるならさらに並列作業が増えていきます。
-この問題には世の中には数多くのアプローチが出ており、自分もしばらく試行錯誤を続けていました。最終的にジョブキューベー... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mh4gf/articles/claude-code-multi-session-job-queue</guid>
-      <pubDate>Sun, 12 Apr 2026 06:50:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPTから乗り換え急増中。「Claude」を専属エージェントにして仕事を自動化するコツ3選 | ライフハッカー・ジャパン</title>
-      <link>https://www.lifehacker.jp/article/2604-matome-chatgpt-claude/</link>
-      <description>最近、周りでChatGPTから「Claude（クロード）」に乗り換える人が急増しています。 なぜ、これほどまでに注目されているのか。 それは、Claudeが単に「物知りなAI」である以上に、人間の意図を汲み取る能力が非常に高く、「空気が読める秘書」のように振る舞ってくれるからです。 「AIって何ができるの？」という初心者... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.lifehacker.jp/article/2604-matome-chatgpt-claude/</guid>
-      <pubDate>Mon, 13 Apr 2026 14:11:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIのための特別なアーキテクチャはいらない ― 0→1開発で実践した設計原則とガードレール - カミナシ エンジニアブログ</title>
-      <link>https://kaminashi-developer.hatenablog.jp/entry/you-might-not-need-dedicated-architecture-for-ai</link>
-      <description>はじめに カミナシでエンジニアをしている Shimmy です。今は新規プロダクト開発をしています。 0→1の開発設計では「コードベースの持続可能性」と「短期的なデリバリー速度」の両方が重要です。そのバランスを取りながら、AIの力を最大限活かせるアーキテクチャを考えてきました。 その過程で分かった設計原則というの... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://kaminashi-developer.hatenablog.jp/entry/you-might-not-need-dedicated-architecture-for-ai</guid>
-      <pubDate>Mon, 13 Apr 2026 23:08:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Apr 2026 07:54:42 +0000</lastBuildDate>
     <item>
       <title>FlutterからReact Nativeへ。物流アプリのリプレイスに挑んでいる話</title>
       <link>https://zenn.dev/hacobu/articles/d1a97a77b94766</link>
@@ -74,11 +22,56 @@ MOVO Driverは、トラックドライバーの業務を効率化する無料の
       <pubDate>Mon, 13 Apr 2026 07:02:01 +0000</pubDate>
     </item>
     <item>
-      <title>AI関連のスクレイピングか　Twilogに「通常の数十倍」のアクセス　ログイン必須の緊急制限中</title>
-      <link>https://www.itmedia.co.jp/news/articles/2604/14/news080.html</link>
-      <description>Xのポストを記録／検索できるサービス「Twilog」（運営：トゥギャッター）が4月13日、海外の大量のIPアドレスから「通常時の数十倍」のアクセスを受けているとし、対策として、一時的にアクセスにログインを必須にした。 「攻撃もしくはAI関連の悪質なスクレイピング」とみており、簡易的な対応では防御が難しい状況。強... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2604/14/news080.html</guid>
-      <pubDate>Tue, 14 Apr 2026 04:04:38 +0000</pubDate>
+      <title>仕様駆動開発を「やめる」タイミング</title>
+      <link>https://zenn.dev/acntechjp/articles/031acfe6379ebe</link>
+      <description>執筆者：Hideyuki Goto
+2026年3月現在、Claude Codeなどの台頭により、個人開発でもSpec-Driven Development（仕様駆動開発、以下SPEC）を実践するハードルが劇的に下がりました。「まずAIと自然言語で仕様書を作り、それをベースにコードを書かせる」というアプローチは確かに強力で、実際に試してみたという記事も多く見かけます。
+しかし、巷の記事であまり語られていない重要なテーマがあります。それは「作った仕様書をいつ、どうやって終わらせるか（捨てるか）」という問題です。
+本記事では、私が趣味の個人開発（小規模・AI前提）でSPECを実践する中で直面し... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/031acfe6379ebe</guid>
+      <pubDate>Tue, 14 Apr 2026 05:40:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>書類を撮影→テキストを抽出して「メモ」に保存。iPhoneの「ショートカット」便利レシピ。Apple Intelligenceのアクションを活用しよう– iPhone AI Hack 第3回</title>
+      <link>https://macfan.book.mynavi.jp/article/99605/</link>
+      <description>iOS 26で登場した、「ショートカット」のApple Intelligenceのアクション 病院の明細や荷物の送り状、買い物のレシートや領収書など、デジタル化が進んだ現代でも、まだ紙で受け取るものは少なくありません。きちんと保存している人もいる一方で、つい山積みにしてしまったり、受け取ってすぐ、あるいは一定期間が過ぎた... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://macfan.book.mynavi.jp/article/99605/</guid>
+      <pubDate>Tue, 14 Apr 2026 07:14:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>SREを「努力」から「仕組み」へ — Platform Engineeringという選択</title>
+      <link>https://zenn.dev/loglass/articles/f4dda877788337</link>
+      <description>はじめに
+!
+この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の139週目の記事です！
+3年間連続達成まで残り20週となりました！
+
+株式会社ログラスでSREをしている見形（mekka）です。
+約1年前、ログラスにおけるSREの現状と未来という記事を書きました。当時はクラウド基盤チームとしてSREチームへの移行を検討し始めた段階で、「SREの民主化」を掲げ、組織全体で信頼性に取り組む未来像を描いていました。
+あれから1年。実際にどこまで進み、何が変わり、何が変わらなかったのか。そして、その過程でPlatform Engineeringという... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/loglass/articles/f4dda877788337</guid>
+      <pubDate>Mon, 13 Apr 2026 02:48:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>イラン戦争で中国とロシアが手に入れた「実戦データ」とは？1発6億円のミサイルが“AIドローン”に苦戦するワケ</title>
+      <link>https://diamond.jp/articles/-/387994</link>
+      <description>トランプ米大統領がSNSにて、米海軍がホルムズ海峡を「逆封鎖」すると表明。原油先物価格は再び高騰するなど混迷を極めている。戦闘の長期化は、イランのAIドローンが、米国やイスラエルの想定以上だったことも影響しているだろう。「第1次AI戦争」とも呼ばれる中、私たちは重要な点を見落としていないだろうか。（多摩... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://diamond.jp/articles/-/387994</guid>
+      <pubDate>Wed, 15 Apr 2026 03:27:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>プロンプト改善は後回し: LangGraphでさっさと実装、MLflowで誤りから暗黙知を吸収&amp;改善</title>
+      <link>https://zenn.dev/nttdata_tech/articles/11f406b0f1cfd4</link>
+      <description>はじめに
+こんにちは。生成AIを使ったアプリを作った/作ろうとしている皆さん、プロンプト改善に苦労していませんか？
+私はしていました。新規で何かを実装するときには、プロンプト修正で1つ不具合を消したら新しい不具合が出てきて……と、もぐらたたきのいたちごっこをしてました。既存業務の置き換えのトライアルでも、「なんで人間と同じ判断ができないの？」 ⇒ 「どこにもドキュメントがないからだよ！」 なんてことが日常茶飯事でした。
+そこで今回はプロンプト改善から逃げ出す（ことができるかもしれない）方法をご紹介します！
+
+ TL;DR
+
+LangGraphを使えば直感的な記述で生成AIを利用したワ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/11f406b0f1cfd4</guid>
+      <pubDate>Tue, 14 Apr 2026 02:23:52 +0000</pubDate>
     </item>
     <item>
       <title>データプロダクトマネジメント始めました。SWEの原則でAI時代のデータ品質に向き合う</title>
@@ -108,16 +101,29 @@ estie ではオフィスや物流、住宅といった不動産のデータプ�
       <pubDate>Mon, 13 Apr 2026 04:49:15 +0000</pubDate>
     </item>
     <item>
-      <title>【週末2日】Claude Codeでコミュニティポータルサイトを構築・リリースするまでの全記録</title>
-      <link>https://zenn.dev/easy_easy/articles/89318e4d0acb4f</link>
-      <description>はじめに
-こんにちは！エンジニアリングコミュニティ「Easy Easy」の運営・広報を担当している@unsoluble_sugarです。
-本コミュニティでは、月1回のLTイベント「完全に理解したTalk」を2019年末から開催しています。これまで継続的にイベントを重ね、多くの登壇者による発表が蓄積されてきました。
+      <title>手元のGPUを遊ばせないためのジョブスケジューラ入門</title>
+      <link>https://zenn.dev/turing_motors/articles/0d528e31b9d8d7</link>
+      <description>1. はじめに
+ジョブスケジューラは、限られた計算資源でタスク順序を整理するためのツールです。実行待ち、資源の競合、状態管理、履歴の追跡などを一貫して扱えるジョブスケジューラは、共有の計算サーバを使うHPC環境（High Performance Computing, いわゆるスパコン）では昔から使われてきました。計算処理が長時間になり、試したいパターンが複雑になるケースでは、多数の計算ジョブを登録・管理することで効率的に実験を回すことができます。
+一方、最近ではClaude CodeやCodexなど、Coding Agentの進化と開発速度の加速により、個人の開発環境でもこのような... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/0d528e31b9d8d7</guid>
+      <pubDate>Tue, 14 Apr 2026 09:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linuxに移行してもう1年、戻れなくなった話</title>
+      <link>https://zenn.dev/digeon/articles/42f4788894cfb4</link>
+      <description>WindowsやMacからLinuxに完全に移行して1年が経ちました。
+最初は「本当に大丈夫かな」と不安もありましたが、今では「もう他のOSには戻れない」と思うほど気に入っています。
+そんな私がWindowsやMacを使っている人にLinuxに来ないかという布教活動です！
 
-メンバー有志の方がまとめてくれているリンク集はあったものの、プラットフォームの性質上、多角的な検索や情報集約のUXとしては物足りない部分があり、「あの話、どの回だっけ？」「◯◯さんのこれまでのLT一覧を見たい」といった要望を満たすのが難しい状況でした。
-https://q... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/easy_easy/articles/89318e4d0acb4f</guid>
-      <pubDate>Mon, 13 Apr 2026 11:23:12 +0000</pubDate>
+ なぜLinuxに変えたのか
+日常の開発でアプリをキーボードだけで切り替えたいというのがきっかけです。MacやWindowsでもできたのですが動作が遅かったからです。
+
+ 開発効率が大きく向上
+Webアプリやクラウドサービス、Dockerは基本的にLinuxネイティブです。
+そのため、Windowsで開発していると頻... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/digeon/articles/42f4788894cfb4</guid>
+      <pubDate>Tue, 14 Apr 2026 06:09:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
