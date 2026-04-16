@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Apr 2026 07:54:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 07:55:14 +0000</lastBuildDate>
     <item>
-      <title>ポッドキャスト：SBOMとエンジニアリング規律がトリビーの妥協を回避するのにどのように役立つか</title>
-      <link>https://www.infoq.com/podcasts/help-avoid-trivy-compromise/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>CISAタスクフォースの一員としてSBOMの設計図作成に携わり、sbomifyの共同創設者でもあるヴィクトル・ピーターソン氏は、EUのサイバーレジリエンス法（CRA）の施行に伴い、ソフトウェアサプライチェーンセキュリティの状況がどのように変化しているかを探ります。これは業界にとって「GDPRのような瞬間」と言えるでしょう。 ヴィクトル・ピーターソン著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/podcasts/help-avoid-trivy-compromise/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 13 Apr 2026 11:00:00 +0000</pubDate>
+      <title>プレゼンテーション：開発者の能力を最大限に引き出す：オープンソースの依存関係リスク管理がイノベーションを解き放つ方法</title>
+      <link>https://www.infoq.com/presentations/open-source-dependencies/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>セリーヌ・パイパート氏は、オープンソースソフトウェアの普及について論じ、現代のアプリケーションを保護するための青写真を紹介します。彼女は、悪用可能性データを使用して高リスクの脆弱性を優先順位付けする方法、ソフトウェア部品表（SBOM）の役割、そして明確な説明責任と自動化されたガバナンスを通じてDevOpsとセキュリティの間のギャップを埋めることの重要性について説明します。執筆：セリーヌ・パイパート (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/open-source-dependencies/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 15 Apr 2026 12:50:00 +0000</pubDate>
     </item>
     <item>
       <title>プレゼンテーション：プラットフォームエンジニアリング：eBay Velocityの盛衰から学ぶ教訓</title>
@@ -23,11 +23,11 @@
       <pubDate>Tue, 14 Apr 2026 11:17:00 +0000</pubDate>
     </item>
     <item>
-      <title>AWSがAPIアクセスとスコープ1～3排出量報告機能を備えたサステナビリティコンソールをリリース</title>
-      <link>https://www.infoq.com/news/2026/04/aws-sustainability-console/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AWSは、APIアクセス、設定可能なCSVエクスポート、サービス別およびリージョン別のスコープ1～3排出量データを提供するスタンドアロンのサステナビリティコンソールをリリースしました。このコンソールは、排出量レポートと課金権限を分離しています。AWSのCTOであるヴェルナー・フォーゲルス氏は、炭素排出量を、オブザーバビリティスタックにおけるレイテンシ、コスト、エラー率と並ぶアーキテクチャ指標として位置づけました。執筆：スティーフ＝ヤン・ウィガーズ (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/aws-sustainability-console/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
+      <title>Zendesk社は、AIによってコードが豊富になり、ボトルネックが「吸収能力」に移行すると述べている。</title>
+      <link>https://www.infoq.com/news/2026/04/zendesk-absorption-capacity/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Zendeskは、GenAIによってソフトウェアデリバリーにおけるボトルネックがコード作成から「吸収能力」へと移行すると主張している。吸収能力とは、組織が問題を明確に定義し、変更をより広範なシステムに統合し、実装を信頼できる価値へと転換する能力のことである。コードが大量に生成されるにつれて、アーキテクチャの一貫性、レビュー能力、デリバリーフローが主な制約となる。エラン・スティラー著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/zendesk-absorption-capacity/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 15 Apr 2026 12:30:00 +0000</pubDate>
     </item>
     <item>
       <title>記事：Springチームが語るSpring Framework 7とSpring Boot 4</title>
@@ -37,18 +37,18 @@
       <pubDate>Mon, 13 Apr 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Airwallexは、Stripeをはじめとする決済業界全体に、現実世界で挑もうとしている。</title>
+      <link>https://techcrunch.com/2026/04/15/airwallex-is-about-to-take-on-stripe-and-the-rest-of-the-payments-industry-in-the-physical-world/</link>
+      <description>企業価値80億ドルのAirwallexは、企業が単一のプラットフォームを通じて複数の国で対面決済を受け付けることができるPOS（販売時点情報管理）製品を発売する。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/15/airwallex-is-about-to-take-on-stripe-and-the-rest-of-the-payments-industry-in-the-physical-world/</guid>
+      <pubDate>Wed, 15 Apr 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>記事：ワンクリックを超えて：Docker向けエンタープライズグレードの可観測性拡張機能の設計</title>
       <link>https://www.infoq.com/articles/enterprise-grade-observability-extension-docker/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>Docker拡張機能は開発者のスピードを向上させますが、テレメトリを分離することで「可視性のギャップ」を生み出します。エンタープライズのニーズを満たすには、拡張機能は集中型プラットフォームへの橋渡し役として機能する必要があります。この記事では、OpenTelemetry、ポリシー・アズ・コード、暗号化を使用して安全なパイプラインを構築する方法を詳しく説明します。開発者の生産性と、スケーラブルでコンプライアンスに準拠した可観測性に必要なガバナンスのバランスを取る方法を学びましょう。執筆者：Pragya Keshap (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/articles/enterprise-grade-observability-extension-docker/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>
-      <link>https://workos.com/blog/multi-tenant-permissions-slack-notion-linear</link>
-      <description>Slack、Notion、Linearはそれぞれ、テナントごとの役割と権限に関して異なるアプローチを採用しています。ここでは、自社アプリに取り入れる価値のあるパターンをご紹介します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/multi-tenant-permissions-slack-notion-linear</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>プレゼンテーション：グラフニューラルネットワークを用いたプラットフォームエンゲージメントの再考</title>
@@ -58,18 +58,18 @@
       <pubDate>Mon, 13 Apr 2026 13:23:00 +0000</pubDate>
     </item>
     <item>
+      <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>
+      <link>https://workos.com/blog/multi-tenant-permissions-slack-notion-linear</link>
+      <description>Slack、Notion、Linearはそれぞれ、テナントごとの役割と権限に関して異なるアプローチを採用しています。ここでは、自社アプリに取り入れる価値のあるパターンをご紹介します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/multi-tenant-permissions-slack-notion-linear</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>中間者攻撃：多要素認証を無効にする脅威</title>
       <link>https://workos.com/blog/adversary-in-the-middle-attacks</link>
       <description>ユーザーが多要素認証を有効にし、強力なパスワードを使用し、推奨するすべてのセキュリティ対策を遵守しているとしても、攻撃者がユーザーとログインページの間に潜り込み、リアルタイムでトラフィックを中継して有効なセッションクッキーを持ち去ってしまうとしたら、それらはすべて無意味です。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/adversary-in-the-middle-attacks</guid>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Javaニュースまとめ：JDK 27リリーススケジュール、Hibernate、LangChain4j、Keycloak、Helidon、Junie CLI</title>
-      <link>https://www.infoq.com/news/2026/04/java-news-roundup-apr06-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>2026年4月6日付けの今週のJavaニュースまとめでは、パターン、instanceof、switchにおけるプリミティブ型の5番目のプレビュー、JDK 27のリリース予定、Hibernate、LangChain4j、Keycloak、Google ADK for Javaのポイントリリース、Helidonのメンテナンスリリース、Spring Cloud GatewayのCVE、Junie CLIのJetBrains IDEへの統合といったニュースを取り上げています。執筆：Michael Redlich (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/java-news-roundup-apr06-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 13 Apr 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
       <title>開発者向けCLI認証ガイド</title>

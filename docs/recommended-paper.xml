@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Apr 2026 07:54:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 07:55:10 +0000</lastBuildDate>
     <item>
-      <title>対称性こそがほぼ全て：対称的なSRG領域によって誘発される不確実性を伴う堅牢な安定性</title>
-      <link>https://arxiv.org/abs/2604.12960v1</link>
-      <description>本論文では、スケーリングされた相対グラフ（SRG）が存在する平面上のグラフィカル領域によって誘発される不確実性が存在する場合のフィードバックシステムのロバスト安定性問題を調査する。主な結果は、斬新で直感的な概念であるDavis-Wielandtシェルと、SRGおよび関連する変種との関連性を用いて展開される。まず、2種類のグラフィカルに誘発される不確実性セット（1つはθに関する事前情報あり、もう1つは事前情報なし）に対する行列ロバスト非特異性（MRN）問題を研究する。前者の場合、不確実性を誘発する領域がθ軸に関して鏡面対称である場合、SRGの特定の変種と領域との間の分離がMRNの必要十分条件となることを示す。領域が非対称の場合、一般的に必要条件は満たされない。これにより、小さなゲイン条件の必要性が回復され、行列レベルでの小さな角度条件とセクターディスク条件の必要性が明らかになる。後者の場合、必要十分条件を得るには、追加のθ円形接続性が必要であることを示す。これらのMRNの結果に基づいて、周波数対称な不確実性下における多入力多出力（MIMO）線形時不変（LTI）システムの堅牢な安定性のため (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.12960v1</guid>
-      <pubDate>Tue, 14 Apr 2026 16:55:24 +0000</pubDate>
+      <title>256本のアンテナを備えたコヒーレント全天モニター</title>
+      <link>https://arxiv.org/abs/2604.13903v1</link>
+      <description>電波天文学は、計算能力の指数関数的な増加傾向と密接に結びついています。これは、光学系（相互相関、ビームフォーミング、イメージング）と分光法（すなわちチャネル化）がデジタルで行えるようになったためです。安価なアナログ-デジタル変換器（ADC）は多数のアンテナからの信号をサンプリングでき、グラフィックス処理ユニット（GPU）は広視野電波データをリアルタイムでコヒーレントに処理できるため、中程度のコストで大規模な開口アレイを実現できます。本稿では、現在カリフォルニア州ビッグパインのオーウェンズバレー電波天文台（OVRO）に展開されている、375～500MHzで動作する高密度開口アレイである256アンテナのコヒーレント全天モニター（CASM-256）について説明します。CASM-256の広い視野（FoV$\sim10^4$\,deg$^2$）と点源感度により、近傍宇宙の高速電波バースト（FRB）を検出できます。近傍のサンプルは、FRBの物理的起源を解明し、近傍の銀河ハローのバリオン含有量を測定し、FRBの即時多波長・多メッセンジャー対応天体を発見するのに理想的です。CASMは、FRB類似天体、 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.13903v1</guid>
+      <pubDate>Wed, 15 Apr 2026 14:12:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

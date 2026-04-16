@@ -7,7 +7,50 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Apr 2026 07:54:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 07:55:03 +0000</lastBuildDate>
+    <item>
+      <title>【AI】Claude Codeが劣化すると開発者の言葉遣いが悪くなる</title>
+      <link>https://qiita.com/rana_kualu/items/1d019f33fd59fcbf1494?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>先日からClaude Codeでいくつも問題が噴出しています。
+最も大きなところではソースコード流出という大事故が発生し、コピーリポジトリが雨後の筍のように生えてきています。
+Anthropicは削除申請で乗り切ろうとしているようですが、この行動は当然全力で笑いものにされて... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/rana_kualu/items/1d019f33fd59fcbf1494?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Mon, 13 Apr 2026 11:50:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI小説、星新一賞を席巻　人間と区別つかず「人力小説部門」も議論 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUD0684S0W6A400C2000000/</link>
+      <description>人工知能（AI）を使って書かれた小説が急増している。AIにプロットを練らせ、本文を書かせるのが当たり前になりゆくなか、「文学とは作家の体験や思索の結晶である」という大前提は、急速に崩れつつある。「人間の手による作品か、AIによって書かれた作品か、全く区別がつかない」――。1月中旬に行われた星新一賞の最終審... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUD0684S0W6A400C2000000/</guid>
+      <pubDate>Wed, 15 Apr 2026 23:53:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linuxに移行してもう1年、戻れなくなった話</title>
+      <link>https://zenn.dev/digeon/articles/42f4788894cfb4</link>
+      <description>WindowsやMacからLinuxに完全に移行して1年が経ちました。 最初は「本当に大丈夫かな」と不安もありましたが、今では「もう他のOSには戻れない」と思うほど気に入っています。 そんな私がWindowsやMacを使っている人にLinuxに来ないかという布教活動です！ なぜLinuxに変えたのか 日常の開発でアプリをキーボードだけで... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/digeon/articles/42f4788894cfb4</guid>
+      <pubDate>Wed, 15 Apr 2026 07:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Max 20xプランでも足りないので、トークン節約のためにやったこと8選</title>
+      <link>https://zenn.dev/acntechjp/articles/1396e20b5167ce</link>
+      <description>!
+3行まとめ
+
+この記事はトークン節約という文脈で取り組んだ、コンテキストエンジニアリング・ハーネスエンジニアリングの話です
+作業に必要十分な情報だけをClaude に与える設計が、トークン節約だけでなくClaudeのアウトプットの質にも寄与します
+Claude Max 20xプランでもトークンが足りなくなった私の試行錯誤を紹介します
+
+
+
+
+ はじめに
+Claude Max 20xプランを契約しているのに、思ったよりすぐトークン使用枠の上限に達してしまう。
+同じ悩みを持つ人もいるのではないでしょうか。
+私は Claude Code で複数エージェントを並列に回しながら、「投資分析」や... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/1396e20b5167ce</guid>
+      <pubDate>Sun, 12 Apr 2026 23:00:07 +0000</pubDate>
+    </item>
     <item>
       <title>FlutterからReact Nativeへ。物流アプリのリプレイスに挑んでいる話</title>
       <link>https://zenn.dev/hacobu/articles/d1a97a77b94766</link>
@@ -22,21 +65,11 @@ MOVO Driverは、トラックドライバーの業務を効率化する無料の
       <pubDate>Mon, 13 Apr 2026 07:02:01 +0000</pubDate>
     </item>
     <item>
-      <title>仕様駆動開発を「やめる」タイミング</title>
-      <link>https://zenn.dev/acntechjp/articles/031acfe6379ebe</link>
-      <description>執筆者：Hideyuki Goto
-2026年3月現在、Claude Codeなどの台頭により、個人開発でもSpec-Driven Development（仕様駆動開発、以下SPEC）を実践するハードルが劇的に下がりました。「まずAIと自然言語で仕様書を作り、それをベースにコードを書かせる」というアプローチは確かに強力で、実際に試してみたという記事も多く見かけます。
-しかし、巷の記事であまり語られていない重要なテーマがあります。それは「作った仕様書をいつ、どうやって終わらせるか（捨てるか）」という問題です。
-本記事では、私が趣味の個人開発（小規模・AI前提）でSPECを実践する中で直面し... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/031acfe6379ebe</guid>
-      <pubDate>Tue, 14 Apr 2026 05:40:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>書類を撮影→テキストを抽出して「メモ」に保存。iPhoneの「ショートカット」便利レシピ。Apple Intelligenceのアクションを活用しよう– iPhone AI Hack 第3回</title>
-      <link>https://macfan.book.mynavi.jp/article/99605/</link>
-      <description>iOS 26で登場した、「ショートカット」のApple Intelligenceのアクション 病院の明細や荷物の送り状、買い物のレシートや領収書など、デジタル化が進んだ現代でも、まだ紙で受け取るものは少なくありません。きちんと保存している人もいる一方で、つい山積みにしてしまったり、受け取ってすぐ、あるいは一定期間が過ぎた... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://macfan.book.mynavi.jp/article/99605/</guid>
-      <pubDate>Tue, 14 Apr 2026 07:14:15 +0000</pubDate>
+      <title>ロボットに犬の散歩をさせる実験中、あることがきっかけで大失敗してしまった！→色んな国の飼い主たち「あのな、ハスキーを選ぶなよ」</title>
+      <link>https://togetter.com/li/2686542</link>
+      <description>ある会社が、犬の散歩でロボットをテストした後、10万ドルを失い、犬がリスを見た瞬間にすべてが崩れ去りました。 2023年4月下旬、科学者たちのチームは、ついに犬の散歩を含む実生活のタスクをこなすロボットをテストする準備が整ったと信じていました。十分な計画とシミュレーションの後、彼らは実際の日常的な状況で... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2686542</guid>
+      <pubDate>Thu, 16 Apr 2026 04:29:20 +0000</pubDate>
     </item>
     <item>
       <title>SREを「努力」から「仕組み」へ — Platform Engineeringという選択</title>
@@ -53,11 +86,16 @@ MOVO Driverは、トラックドライバーの業務を効率化する無料の
       <pubDate>Mon, 13 Apr 2026 02:48:27 +0000</pubDate>
     </item>
     <item>
-      <title>イラン戦争で中国とロシアが手に入れた「実戦データ」とは？1発6億円のミサイルが“AIドローン”に苦戦するワケ</title>
-      <link>https://diamond.jp/articles/-/387994</link>
-      <description>トランプ米大統領がSNSにて、米海軍がホルムズ海峡を「逆封鎖」すると表明。原油先物価格は再び高騰するなど混迷を極めている。戦闘の長期化は、イランのAIドローンが、米国やイスラエルの想定以上だったことも影響しているだろう。「第1次AI戦争」とも呼ばれる中、私たちは重要な点を見落としていないだろうか。（多摩... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://diamond.jp/articles/-/387994</guid>
-      <pubDate>Wed, 15 Apr 2026 03:27:52 +0000</pubDate>
+      <title>コーディングエージェントは請負案件と相容れるか</title>
+      <link>https://zenn.dev/acntechjp/articles/0162731f267e8d</link>
+      <description>はじめに
+コーディングエージェントを実務で使い始めて、しばらく経ちました。生産性が上がる場面は確かにあります。一方で、使えば使うほど「これ、本当に計画通りに回せるのか？」という感覚も強くなっています。
+本記事では、コーディングエージェントは開発の不確実性を増す側面があるのではないか、そしてSIerの請負案件はその不確実性を受け止めにくい構造を持っているのではないか、という仮説を考えてみます。
+コードを速く書いてくれるのだから不確実性は減るのでは、と感じる方もいるかもしれません。私も最初はそう思っていました。しかし、速さと確実さは別の話のようです。
+
+ 請負案件が不確実性を許容できない... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/0162731f267e8d</guid>
+      <pubDate>Wed, 15 Apr 2026 06:26:06 +0000</pubDate>
     </item>
     <item>
       <title>プロンプト改善は後回し: LangGraphでさっさと実装、MLflowで誤りから暗黙知を吸収&amp;改善</title>
@@ -74,33 +112,6 @@ LangGraphを使えば直感的な記述で生成AIを利用したワ... (source:
       <pubDate>Tue, 14 Apr 2026 02:23:52 +0000</pubDate>
     </item>
     <item>
-      <title>データプロダクトマネジメント始めました。SWEの原則でAI時代のデータ品質に向き合う</title>
-      <link>https://zenn.dev/ubie_dev/articles/ad3f556639d44e</link>
-      <description>はじめに
-こんにちは、@glassmonekey です。Ubie 株式会社でソフトウェアエンジニア（SWE）をしています。
-https://x.com/glassmonekey
-最近、テックリードとしての活動に加えて、データプロダクトマネージャーという役割に踏み込み始めました。同じようにキャリアの方向性を考えているエンジニアの方に、参考になればと思って書きます。
-
- AI時代にエンジニアが向き合うキャリアの問い
-みなさんは最近、AIがコードを書く時代に自分のエンジニアとしての価値はどこにあるのだろう、と考えたことはないでしょうか？
-私も例に漏れず、コードを書くこと自体が目的になってい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/ad3f556639d44e</guid>
-      <pubDate>Tue, 14 Apr 2026 00:49:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京都の団体用宿泊施設が一ヶ月に倍に？パブリックデータの扱いからデータエンジニアリングを学ぶ</title>
-      <link>https://zenn.dev/estie/articles/2ac12b0f52c44c</link>
-      <description>こんにちは、estie でデータエンジニアをやっている fukushima です。
-estie ではオフィスや物流、住宅といった不動産のデータプロダクトを作っていまして、官公庁が公開しているパブリックデータを扱う機会もあります。今回はその中で見つけた「あれ？」という違和感を深掘りしたら、統計調査の仕組みの面白い側面が見えてきた、という話です。
-
- 2024年2〜3月の団体観光客の動向が何かおかしい
-観光庁が公表している宿泊旅行統計調査というデータがあります。全国の宿泊施設の利用状況を毎月集計・公表しているものです。
-
-宿泊旅行統計調査は、我が国における日本人・外国人の宿泊旅行の実態等を把... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/estie/articles/2ac12b0f52c44c</guid>
-      <pubDate>Mon, 13 Apr 2026 04:49:15 +0000</pubDate>
-    </item>
-    <item>
       <title>手元のGPUを遊ばせないためのジョブスケジューラ入門</title>
       <link>https://zenn.dev/turing_motors/articles/0d528e31b9d8d7</link>
       <description>1. はじめに
@@ -108,22 +119,6 @@ estie ではオフィスや物流、住宅といった不動産のデータプ�
 一方、最近ではClaude CodeやCodexなど、Coding Agentの進化と開発速度の加速により、個人の開発環境でもこのような... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/0d528e31b9d8d7</guid>
       <pubDate>Tue, 14 Apr 2026 09:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linuxに移行してもう1年、戻れなくなった話</title>
-      <link>https://zenn.dev/digeon/articles/42f4788894cfb4</link>
-      <description>WindowsやMacからLinuxに完全に移行して1年が経ちました。
-最初は「本当に大丈夫かな」と不安もありましたが、今では「もう他のOSには戻れない」と思うほど気に入っています。
-そんな私がWindowsやMacを使っている人にLinuxに来ないかという布教活動です！
-
- なぜLinuxに変えたのか
-日常の開発でアプリをキーボードだけで切り替えたいというのがきっかけです。MacやWindowsでもできたのですが動作が遅かったからです。
-
- 開発効率が大きく向上
-Webアプリやクラウドサービス、Dockerは基本的にLinuxネイティブです。
-そのため、Windowsで開発していると頻... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/digeon/articles/42f4788894cfb4</guid>
-      <pubDate>Tue, 14 Apr 2026 06:09:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
