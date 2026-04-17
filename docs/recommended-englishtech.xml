@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 16 Apr 2026 07:55:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 07:55:34 +0000</lastBuildDate>
     <item>
       <title>プレゼンテーション：開発者の能力を最大限に引き出す：オープンソースの依存関係リスク管理がイノベーションを解き放つ方法</title>
       <link>https://www.infoq.com/presentations/open-source-dependencies/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -16,46 +16,32 @@
       <pubDate>Wed, 15 Apr 2026 12:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：プラットフォームエンジニアリング：eBay Velocityの盛衰から学ぶ教訓</title>
-      <link>https://www.infoq.com/presentations/platform-engineering-lessons/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ランディ・ショープは、エンジニアリングの生産性を倍増させ、eBayのDORA指標を近代化した変革「ベロシティ・イニシアチブ」について語る。彼は4,500ものサービスを拡張するために用いられた技術的なプレイブックを紹介するとともに、ウォーターフォール型計画、リスク回避、そして「病的な」恐怖文化に阻まれた企業を、たとえ優秀なエンジニアリング能力をもってしても救えない理由を説明する。ランディ・ショープ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/platform-engineering-lessons/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 14 Apr 2026 11:17:00 +0000</pubDate>
+      <title>欧州警察が7万5000人にメールを送り、DDoS攻撃をやめるよう要請</title>
+      <link>https://techcrunch.com/2026/04/16/european-police-email-75000-people-asking-them-to-stop-ddos-attacks/</link>
+      <description>欧州刑事警察機構（ユーロポール）は、請負型の分散型サービス拒否（DDoS）攻撃サービスに対する作戦を指揮し、4人の逮捕と53のドメインの閉鎖を実施した。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/16/european-police-email-75000-people-asking-them-to-stop-ddos-attacks/</guid>
+      <pubDate>Thu, 16 Apr 2026 18:53:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netflixの共同創業者兼会長、リード・ヘイスティングス氏が取締役を退任へ</title>
+      <link>https://techcrunch.com/2026/04/16/netflix-co-founder-and-chair-reed-hastings-to-leave-board/</link>
+      <description>ヘイスティングスは、まず物理的な配送、そしてデジタル配送によって、ビデオレンタル業界の変革に貢献した。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/16/netflix-co-founder-and-chair-reed-hastings-to-leave-board/</guid>
+      <pubDate>Thu, 16 Apr 2026 21:22:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWSが、企業全体に広がるAIエージェントの管理を目的としたエージェントレジストリのプレビュー版をリリース</title>
+      <link>https://www.infoq.com/news/2026/04/aws-agent-registry-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>AWSは、Amazon Bedrock AgentCoreの一部としてAgent Registryをプレビュー版としてリリースしました。これは、組織全体でAIエージェント、ツール、MCPサーバーを検出、管理、再利用するための集中型カタログを提供します。このレジストリは、エージェントの実行場所に関係なくエージェントをインデックス化し、MCPプロトコルとA2Aプロトコルの両方をネイティブにサポートします。Microsoft、Google Cloud、およびACP Registryは、競合するソリューションを提供しています。執筆者：Steef-Jan Wiggers (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/aws-agent-registry-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 17 Apr 2026 06:54:00 +0000</pubDate>
     </item>
     <item>
       <title>Zendesk社は、AIによってコードが豊富になり、ボトルネックが「吸収能力」に移行すると述べている。</title>
       <link>https://www.infoq.com/news/2026/04/zendesk-absorption-capacity/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Zendeskは、GenAIによってソフトウェアデリバリーにおけるボトルネックがコード作成から「吸収能力」へと移行すると主張している。吸収能力とは、組織が問題を明確に定義し、変更をより広範なシステムに統合し、実装を信頼できる価値へと転換する能力のことである。コードが大量に生成されるにつれて、アーキテクチャの一貫性、レビュー能力、デリバリーフローが主な制約となる。エラン・スティラー著 (source: InfoQ)</description>
+      <description>Zendeskは、GenAIによってソフトウェアデリバリーにおけるボトルネックがコード作成から「吸収能力」へと移行すると主張している。吸収能力とは、組織が問題を明確に定義し、変更をより広範なシステムに統合し、実装を信頼できる価値へと転換する能力のことである。コードが豊富になるにつれて、アーキテクチャの一貫性、レビュー能力、デリバリーフローが主な制約となる。エラン・スティラー著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/04/zendesk-absorption-capacity/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 15 Apr 2026 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>記事：Springチームが語るSpring Framework 7とSpring Boot 4</title>
-      <link>https://www.infoq.com/articles/spring-team-spring-7-boot-4/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>InfoQは先日、Springチームの主要メンバーに、Spring Framework 7とSpring Boot 4における重要なアーキテクチャと機能の進歩についてインタビューを行いました。このインタビューでは、リトライや並行処理のスロットリングといった機能をフレームワークに直接統合することでコアの回復力を高めるという戦略的な転換点と、自動構成のモジュール化によるパフォーマンス上のメリットについて掘り下げています。執筆者：Karsten Silz、Phil Webb、Sam Brannen、Rossen Stoyanchev、Mark Pollack、Martin Lippert、Michael Minella (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/spring-team-spring-7-boot-4/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 13 Apr 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Airwallexは、Stripeをはじめとする決済業界全体に、現実世界で挑もうとしている。</title>
-      <link>https://techcrunch.com/2026/04/15/airwallex-is-about-to-take-on-stripe-and-the-rest-of-the-payments-industry-in-the-physical-world/</link>
-      <description>企業価値80億ドルのAirwallexは、企業が単一のプラットフォームを通じて複数の国で対面決済を受け付けることができるPOS（販売時点情報管理）製品を発売する。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/15/airwallex-is-about-to-take-on-stripe-and-the-rest-of-the-payments-industry-in-the-physical-world/</guid>
-      <pubDate>Wed, 15 Apr 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>記事：ワンクリックを超えて：Docker向けエンタープライズグレードの可観測性拡張機能の設計</title>
-      <link>https://www.infoq.com/articles/enterprise-grade-observability-extension-docker/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Docker拡張機能は開発者のスピードを向上させますが、テレメトリを分離することで「可視性のギャップ」を生み出します。エンタープライズのニーズを満たすには、拡張機能は集中型プラットフォームへの橋渡し役として機能する必要があります。この記事では、OpenTelemetry、ポリシー・アズ・コード、暗号化を使用して安全なパイプラインを構築する方法を詳しく説明します。開発者の生産性と、スケーラブルでコンプライアンスに準拠した可観測性に必要なガバナンスのバランスを取る方法を学びましょう。執筆者：Pragya Keshap (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/enterprise-grade-observability-extension-docker/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>プレゼンテーション：グラフニューラルネットワークを用いたプラットフォームエンゲージメントの再考</title>
-      <link>https://www.infoq.com/presentations/graph-neural-networks/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>マリア・ブリチェヴァは、Zalandoのランディングページにおける、従来のディープラーニングからGNNへの移行について解説しています。彼女は、ユーザーログを異種グラフに変換する際の複雑さ、「メッセージパッシング」トレーニングプロセス、そしてグラフデータリークの技術的な落とし穴について説明しています。また、ハイブリッドアーキテクチャによって推論遅延がどのように解消され、コンテキスト埋め込みが下流モデルに提供されたかについても紹介しています。執筆：マリア・ブリチェヴァ (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/graph-neural-networks/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 13 Apr 2026 13:23:00 +0000</pubDate>
     </item>
     <item>
       <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>
@@ -77,6 +63,20 @@
       <description>APIキー、トークンファイル、OAuthデバイスフロー、クライアント認証情報を比較。CLIに最適な認証パターンを選択するための実践的なガイド。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cli-authentication-guide</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Googleがマルチモーダル機能とエージェント機能を備えたGemma 4をApache 2.0ライセンスで公開</title>
+      <link>https://www.infoq.com/news/2026/04/google-gemm4/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Googleは、Apache 2.0ライセンスの下、2B、4B、26B、31Bのパラメータを持つバリアントを含む、一連のオープンウェイトAIモデルであるGemma 4のリリースを発表しました。主な機能には、強化されたビデオおよび画像処理、小型モデルでの音声入力、最大256Kトークンまでの拡張コンテキストウィンドウが含まれます。執筆：Hien Luu (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/google-gemm4/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 16 Apr 2026 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>プレゼンテーション：VRからフラットスクリーンへ：入力と没入感のギャップを埋める</title>
+      <link>https://www.infoq.com/presentations/game-vr-flat-screens/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ダニー・ルパージュは、ヒットVRタイトルを7つの非VRプラットフォームに移植する際のアーキテクチャ設計の道のりについて語ります。彼は、チームがどのようにクロスプログレッション、多様な入力パラダイム、そしてSteam、iOS、PlayStation全体でのリリース速度の維持といった課題を解決したかを説明します。技術的な側面だけでなく、没入感のあるソーシャルプレゼンスを2Dスクリーンに移植する際の「プロダクトフィット」のギャップについても率直に語ります。ダニー・ルパージュ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/game-vr-flat-screens/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 16 Apr 2026 14:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

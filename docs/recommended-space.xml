@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Apr 2026 07:55:07 +0000</lastBuildDate>
-    <item>
-      <title>人類初の宇宙飛行士ユーリ・ガガーリンを乗せた「ボストーク1号」の飛行から65年</title>
-      <link>https://sorae.info/space/20260413-gagarin-vostok-1.html</link>
-      <description>日本時間1961年4月12日15時7分、ソビエト連邦（当時）のバイコヌール宇宙基地から人類史上初の有人宇宙船「ボストーク1号（Vostok 1）」が打ち上げられました。搭乗していたのは空軍パイロットのユーリ・ガガーリン（… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260413-gagarin-vostok-1.html</guid>
-      <pubDate>Mon, 13 Apr 2026 09:54:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Apr 2026 07:55:27 +0000</lastBuildDate>
     <item>
       <title>NASAアルテミスII打ち上げ成功、53年ぶりに人類が月周辺へ。人類史上最も遠い場所に到達し、2028年の有人着陸に向けテスト飛行が本格始動【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/45559/</link>
@@ -70,6 +63,13 @@
       <description>AIチップの供給不足を背景に、イーロン・マスク氏率いる3社が半導体の自社製造に乗り出します。生産の8割以上が宇宙向けで、ロケット・衛星・通信に続く新たな競争軸が見えてきました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45536/</guid>
       <pubDate>Sun, 05 Apr 2026 23:06:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>木星と土星にそれぞれ18個の衛星が新たに追加　木星の総衛星数は100個の大台を突破</title>
+      <link>https://sorae.info/astronomy/20260416-jupiter-saturn-satellites.html</link>
+      <description>太陽系の巨大惑星である「木星」と「土星」は、多数の衛星を従えています。その総数は、直径数百m以上のものに限定しても数百個あると言われています。 太陽系の小天体の発見報告を管轄する「小惑星センター（MPC）」は、2026年… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260416-jupiter-saturn-satellites.html</guid>
+      <pubDate>Thu, 16 Apr 2026 12:44:49 +0000</pubDate>
     </item>
     <item>
       <title>GOSATプラグインを使って、温室効果ガスのデータをQGISで可視化しよう【後編】</title>
