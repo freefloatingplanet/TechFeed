@@ -7,59 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 07:55:24 +0000</lastBuildDate>
-    <item>
-      <title>いいですよね、コミュニケーション。わたしもだいすきです。今日から変わるコミュニケーション術</title>
-      <link>https://zenn.dev/coconala/articles/8b214521aa1ed8</link>
-      <description>ココナラのDevOpsグループCREチームのy.s.（@inu_no_hou）です。
-いいですよね、コミュニケーション。わたしもだいすきです。本稿では、日々の実務のなかで取り交わされる言葉をどう扱えばよいのか、少しばかり立ち止まって考えてみたいと思います。
-その前に、ごく短い前置きにお付き合いください。コミュニケーションとは何かという問いは、畢竟、人間存在とは何かという問いとほとんど変わりません。分割統治（divide and conquer）は科学的な作法ですが、この問いはまったくdivideできず、問題が大きすぎて手に負えないのです。このような対象を、problemではなくmyste... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/coconala/articles/8b214521aa1ed8</guid>
-      <pubDate>Thu, 16 Apr 2026 10:33:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>シニアエンジニアリングリーダーのしごと</title>
-      <link>https://www.oreilly.co.jp//books/9784814401680/</link>
-      <description>本書は、シニアマネージャーとして成功するために必要な能力、ツール、技術について体系的に解説します。まず、シニアポジションの定義を明確にし、各ポジションが果たす役割を理解します。次に、時間とエネルギーを効率的に使い、同僚や部下、上司との共生関係を築き、有効なコミュニケーションアーキテクチャを構築す... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.oreilly.co.jp//books/9784814401680/</guid>
-      <pubDate>Thu, 16 Apr 2026 05:38:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>takt 入門 - AI マルチエージェントオーケストレーションで開発ワークフローを自動化する</title>
-      <link>https://zenn.dev/rasshii/articles/dc19793edab99a</link>
-      <description>はじめに
-AI コーディングエージェントを使った開発で、こんな課題を感じたことはないでしょうか。
-
- 単一モデルの限界
-AI にコードを書かせて、同じ AI にレビューさせる。これは人間の開発で言えば「自分で書いたコードを自分でレビューする」のと同じです。以下のような問題が起きがちです。
-
-
-自己強化バイアス: 自分が生成したコードの問題を見つけにくい。同じモデルは同じ思考パターンで評価するため、実装時に見落とした問題はレビュー時にも見落とす傾向がある
-
-モデル固有の癖: 各モデルには得意・不得意がある。あるモデルが好むパターン（過剰な抽象化、不要なコメント、存在しない API の使... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/rasshii/articles/dc19793edab99a</guid>
-      <pubDate>Wed, 15 Apr 2026 06:03:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>境界値に対してのテスト実装状況を検証する静的解析ツールを作った</title>
-      <link>https://zenn.dev/tsubasa_m/articles/173d01c0572068</link>
-      <description>はじめに
-CyberAgentで開催されたGo Collegeというインターンの成果物として静的解析ツールを作ったので、作り方の手順、ツールの説明をしていこうと思います。参加レポートについては以下の記事をご参照ください。
-https://qiita.com/Mtsubasa/items/305dd522cbf8816997c9
-また、今回の記事でanalyzerの内部構造のセクションがありますが、Claudeと壁打ちしながら作りました。この記事執筆時点で持ち合わせた知識ではないです。
-
- 作ったもの
-コード内の境界に対してテストが十分な数実施されているか境界値分析、同値分割の観点から... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tsubasa_m/articles/173d01c0572068</guid>
-      <pubDate>Wed, 15 Apr 2026 12:06:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>待つツールを作って活用している ( gh-wait / gh-copilot-review ) - Copy/Cut/Paste/Hatena</title>
-      <link>https://k1low.hatenablog.com/entry/2026/04/17/083000</link>
-      <description>最近はもっぱらCoding Agentを使って開発をしています。複数のCoding Agentを立ち上げて、それらと複数のタスクを並行して進めるようになりました。 一方で、感覚として「待つ」ことが多くなった気がします。 PRを出してCIの完了を待つ、レビューを待つ、マージを待つ。IssueやDiscussionでの回答を待つ。並行して進めて... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://k1low.hatenablog.com/entry/2026/04/17/083000</guid>
-      <pubDate>Fri, 17 Apr 2026 00:58:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Apr 2026 07:15:11 +0000</lastBuildDate>
     <item>
       <title>Claude Codeのトークン消費が$40/日から1週間でも余裕になった全手法</title>
       <link>https://zenn.dev/okamyuji/articles/claude-code-max-x20-token-savings</link>
@@ -70,11 +18,13 @@ https://qiita.com/Mtsubasa/items/305dd522cbf8816997c9
       <pubDate>Thu, 16 Apr 2026 11:18:19 +0000</pubDate>
     </item>
     <item>
-      <title>みんな、はてなブックマークしてくれ - nomolkのブログ</title>
-      <link>https://nomolk.hatenablog.com/entry/2026/04/17/021654</link>
-      <description>※これはマジで高純度の「お前が言うな」案件なので絶対にわたくしのブックマークを見ないで聴いてください。 仕事でもプライベートでもわりと長いこと記事を扱っているんですけど、記事をたくさんの人に読んでもらうというのがなかなか難しい時代になってきました。みんな動画や配信ばっかり見てるからね～、というのは... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://nomolk.hatenablog.com/entry/2026/04/17/021654</guid>
-      <pubDate>Thu, 16 Apr 2026 22:47:56 +0000</pubDate>
+      <title>要件定義書の成果物を1枚ずつ解説する記事がなかったので、架空のプロジェクトで自分でつくって解説します</title>
+      <link>https://zenn.dev/h4gi/articles/612cff3d96b3c0</link>
+      <description>この記事は、これからPMとしてキャリアを始めたい人、事業会社で初めて要件定義フェーズのPMを任された人、IT関連の仕事でPMが要件定義で何を決めるのか知りたい人、すでにPMとして働いているものの、要件定義工程で自分が何に責任を持つべきかがまだ曖昧な人（およびPMを支えるPMOの方）に向けて書いています。
+「要件定義書、ちゃんと揃ってるけど、このまま進めていいのか分からない」——PMとして要件定義フェーズに立ったとき、一度はこの感覚を持つはずです。成果物は大量にあり、PMOやベンダーが用意してくれる。でも、最後に「OK」を出すのは自分。何を見て、何をもってOKと判断すればいいのか。
+この問... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/h4gi/articles/612cff3d96b3c0</guid>
+      <pubDate>Wed, 15 Apr 2026 12:00:07 +0000</pubDate>
     </item>
     <item>
       <title>AIがコードを書いている間、エンジニアはどこを見るべきか</title>
@@ -86,6 +36,83 @@ Xを見ていても、「AIを6時間連続で動かした」とか、「自分�
       <pubDate>Thu, 16 Apr 2026 08:23:21 +0000</pubDate>
     </item>
     <item>
+      <title>Claude in Chromeが便利すぎて不満だったので、自分専用のChrome拡張を作った</title>
+      <link>https://zenn.dev/sonicmoov/articles/d7703ab8c16515</link>
+      <description>はじめに
+最近、Claude in ChromeというChrome拡張をよく使っている。
+ブラウザ上で調べ物をしながらAIに質問したり、記事を要約させたり、ちょっとしたブラウザ操作を頼んだり。大抵のことはこれでできてしまう。正直、ものすごく便利だ。
+ただ一つ不満がある。AIモデルがClaudeしか使えない。
+Claudeのサブスクは持っているが、コーディングにも使うのでトークンの消費が激しい。Weekly Limitの到達が早い。現在最強のAIモデルだということは承知しているが、正直なところ、ブラウザ作業くらいは安いモデルで済ませたい場面がほとんどだ。
+そこでふと思った。
+
+自分専用... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sonicmoov/articles/d7703ab8c16515</guid>
+      <pubDate>Thu, 16 Apr 2026 00:28:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>そのAI臭を消す努力は、誰のためにやっているのか</title>
+      <link>https://zenn.dev/acntechjp/articles/54ab3f84e567a6</link>
+      <description>嫌悪の裏側にある肯定 AI生成コンテンツに対する嫌悪感が、じわじわと広がっているように感じる。 2025年、Merriam-Websterが「slop（スロップ）」を年間ワードに選出した[1]。もともとエンジニアコミュニティの俗語だったものが辞書に載るほど一般化した。文法的には正しいけど中身がない、書く側はほぼゼロコストなの... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/54ab3f84e567a6</guid>
+      <pubDate>Fri, 17 Apr 2026 12:59:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策 - Qiita</title>
+      <link>https://qiita.com/miruky/items/fde2d0747358cd7870d7</link>
+      <description>同様の被害は他にも報告されており、13,428USD、82,000USDといった請求がそれぞれ別のユーザーから寄せられています（調べると結構出てきます）。 下の方のredditでは、このままでは倒産してしまう、というかなり悲痛な声があります。82000USDは約1200万円なので、当然でしょう、、。普通にサイバー犯罪の被害者なので、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://qiita.com/miruky/items/fde2d0747358cd7870d7</guid>
+      <pubDate>Fri, 17 Apr 2026 11:06:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>個人開発で掲示板とSNSの融合サービス『Pomate』を作ったよー</title>
+      <link>https://zenn.dev/pomate/articles/a1ea6685d1e7d3</link>
+      <description>はじめに
+ありそうでなかった匿名とニックネームの自由な切り替えを主軸のコンセプトとして、日本のかつてのコミュニティの中心であった匿名掲示板の流れを引き継ぎつつ、
+今主流となったモダンなSNSのように使えるユーザー体験を実現してみました。
+
+
+
+URL: https://pomate.cc
+
+
+この記事では、Pomateのコンセプトと、それを実現するための技術スタック・設計について詳しく書いていきます。
+
+ サービス概要
+Pomate は 「半匿名型掲示板式SNS」 です。
+
+5ちゃんねるのような 匿名での書き込み
+
+TwitterのようなSNSアカウント連携での 顕名（ニックネーム）... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pomate/articles/a1ea6685d1e7d3</guid>
+      <pubDate>Thu, 16 Apr 2026 14:25:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIの素敵なプランに「ズン」とハンコを押したい</title>
+      <link>https://zenn.dev/sangun/articles/159e7676a2e949</link>
+      <description>こんにちは、さんうんです。
+突然ですが、皆さんは開発でAIをどれくらい信用していますか？ 僕はお母さんの次くらいには信用しています。
+お仕事を指示すれば素晴らしいプランを提案してくれて、下手したらコードもドキュメントも勝手に書いてくれる彼ら。まさにやばい天才部下と言っても過言ではありません。
+…しかし、そんなAI Agentと我々（？）はある問題が存在することをご存じでしょうか？
+それがこちら
+
+僕たち、プラン読まずに承認するのに慣れてしまってます。
+そう、Claude Code や Codex が「こういう方針でコードを書きますが、よろしいですか？」と立派なプランを提示してくるたび、僕... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sangun/articles/159e7676a2e949</guid>
+      <pubDate>Fri, 17 Apr 2026 08:32:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>社内SQLチューニングコンテストの開催にあたって得られた知見</title>
+      <link>https://zenn.dev/forcia_tech/articles/202604_devsemi_sql</link>
+      <description>エンジニアの吉田です。
+フォルシアにはdevゼミという文化があり、エンジニアが講師となって自身の詳しい分野に関する講義やハンズオンを行っています。
+私もこれまでに何度かSQLチューニングを題材としたdevゼミを開講してきましたが、いずれもこちらが一方的に話すという形式に終始しており、実際に受講者が手を動かせる形式での講義も望まれていました。
+色々とやり方を模索した結果、コンテスト形式で実際にPostgreSQLのチューニングを行ってもらう、という形の講義を行うことになりました。コンテスト形式での実施にあたりいろいろと工夫した点や学びがあったので、以下にそれらをまとめます。
+
+ SQLチュ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/forcia_tech/articles/202604_devsemi_sql</guid>
+      <pubDate>Fri, 17 Apr 2026 04:00:10 +0000</pubDate>
+    </item>
+    <item>
       <title>QAチームのナレッジを「ハーネス」にする — Claude Codeでテスト設計を自動化した話</title>
       <link>https://zenn.dev/tokium_dev/articles/705334e2f6ac10</link>
       <description>はじめに
@@ -95,17 +122,6 @@ Xや各種技術系ブログでは特に顕著で、AIコーディングツー�
 ハーネスエンジニアリングとは、LLMを特定の業務に最適化するために、指示ファイル・ナレッジベース・バリデーション・ワークフロー定義などの「外部構造」を設計・整備するエンジニアリング手法のことです。プロンプトエンジニアリングが「何を聞くか」に注目す... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/705334e2f6ac10</guid>
       <pubDate>Thu, 16 Apr 2026 04:35:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>そのAI臭を消す努力は、誰のためにやっているのか</title>
-      <link>https://zenn.dev/acntechjp/articles/54ab3f84e567a6</link>
-      <description>嫌悪の裏側にある肯定
-AI生成コンテンツに対する嫌悪感が、じわじわと広がっているように感じる。
-2025年、Merriam-Websterが「slop（スロップ）」を年間ワードに選出した[1]。もともとエンジニアコミュニティの俗語だったものが辞書に載るほど一般化した。文法的には正しいけど中身がない、書く側はほぼゼロコストなのに読む側が苦労する、そして止める理由がない。そういうコンテンツがスロップと呼ばれるようになった。
-この嫌悪は正当なものだと思う。
-「『AI臭い』と言われるけど、AIだし、どうすりゃいいんだよ」[2]という記事は、AI臭さの正体を表面的なマーカー（語尾、emダッシュ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/54ab3f84e567a6</guid>
-      <pubDate>Thu, 16 Apr 2026 11:23:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
