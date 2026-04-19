@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Apr 2026 07:15:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 07:26:00 +0000</lastBuildDate>
+    <item>
+      <title>2026年にSaaSアプリを支えるための、最適なIDおよびアクセス管理プロバイダー5選</title>
+      <link>https://workos.com/blog/best-identity-access-management-providers-2026</link>
+      <description>SaaSチーム向けの主要なIAMソリューションに関する2026年版ガイド。機能、価格、トレードオフを詳細に解説し、最適なプロバイダーを選択してエンタープライズ案件をより迅速に成立させるお手伝いをします。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/best-identity-access-management-providers-2026</guid>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Meta Reportsによると、ジャストインタイムテストによりバグ検出率が4倍向上したとのこと。</title>
       <link>https://www.infoq.com/news/2026/04/meta-jit-testing-ai-detection/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -16,14 +23,7 @@
       <pubDate>Fri, 17 Apr 2026 14:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cursor 3はエージェントファーストインターフェースを導入し、IDEモデルを超越する</title>
-      <link>https://www.infoq.com/news/2026/04/cursor-3-agent-first-interface/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Anysphereは、ゼロから再設計されたインターフェースであるCursor 3をリリースしました。この新しいインターフェースは、ファイル編集から並列コーディングエージェントの管理へと主要なモデルを移行しています。新しいワークスペースは、ローカルからクラウドへのエージェントの引き渡し、マルチリポジトリの並列実行、およびプラグインマーケットプレイスをサポートしています。コミュニティの反応は賛否両論で、開発者からはコストオーバーヘッドや、CursorのIDEファーストというアイデンティティからの脱却について疑問の声が上がっています。執筆：Steef-Jan Wiggers (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/cursor-3-agent-first-interface/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 16 Apr 2026 09:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWSが、企業全体に広がるAIエージェントの乱立を管理するため、エージェントレジストリのプレビュー版をリリース</title>
+      <title>AWSが、企業全体に広がるAIエージェントの管理を目的としたエージェントレジストリのプレビュー版をリリース</title>
       <link>https://www.infoq.com/news/2026/04/aws-agent-registry-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>AWSは、Amazon Bedrock AgentCoreの一部としてAgent Registryをプレビュー版としてリリースしました。これは、組織全体でAIエージェント、ツール、MCPサーバーを検出、管理、再利用するための集中型カタログを提供します。このレジストリは、エージェントの実行場所に関係なくエージェントをインデックス化し、MCPプロトコルとA2Aプロトコルの両方をネイティブにサポートします。Microsoft、Google Cloud、およびACP Registryは、競合するソリューションを提供しています。執筆者：Steef-Jan Wiggers (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/04/aws-agent-registry-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
