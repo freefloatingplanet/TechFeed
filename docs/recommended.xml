@@ -7,34 +7,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 07:25:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 08:16:30 +0000</lastBuildDate>
     <item>
-      <title>社内SQLチューニングコンテストの開催にあたって得られた知見</title>
-      <link>https://zenn.dev/forcia_tech/articles/202604_devsemi_sql</link>
-      <description>エンジニアの吉田です。 フォルシアにはdevゼミという文化があり、エンジニアが講師となって自身の詳しい分野に関する講義やハンズオンを行っています。 私もこれまでに何度かSQLチューニングを題材としたdevゼミを開講してきましたが、いずれもこちらが一方的に話すという形式に終始しており、実際に受講者が手を動かせ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/forcia_tech/articles/202604_devsemi_sql</guid>
-      <pubDate>Sat, 18 Apr 2026 10:29:02 +0000</pubDate>
+      <title>Claude Codeで日常のタスクを45個自動化した東大院生の全記録</title>
+      <link>https://zenn.dev/shunya_sudo/articles/claude-code-45-automation-tasks</link>
+      <description>これらが24時間、macOS上で動いています。PCを閉じない限り止まりません。 全体のアーキテクチャはこうです: ポイントは、Claude CLIを「考えるパーツ」として使っていること。データの取得・加工はPythonで行い、「この情報をどう要約するか」「このメールは返信が必要か」といった判断だけをClaudeに任せています。 カ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/shunya_sudo/articles/claude-code-45-automation-tasks</guid>
+      <pubDate>Sun, 19 Apr 2026 12:03:50 +0000</pubDate>
     </item>
     <item>
-      <title>Async React時代の宣言的UI 2: トランジション対応のuseDebouncedフックを作る</title>
-      <link>https://zenn.dev/uhyo/articles/async-react-debounce-2</link>
-      <description>皆さんこんにちは。以下の記事では、Async React時代の宣言的UIとして、デバウンスをuseDeferredValueで代替する方法を示しました。
-https://zenn.dev/uhyo/articles/async-react-debounce
-記事の末尾で「実際には、ネットワークアクセスをデバウンスしている場合とか応用形もあるのですが」と述べたので、今回はネットワークアクセスを含む場合について考えたいと思います。
-今回の記事に登場するコードは以下のStackBlitzで実際に動作を確認できます。
+      <title>記憶を持たないLLMの記憶 ― コンテキスト/メモリー/ハーネスエンジニアリング入門の前に</title>
+      <link>https://qiita.com/yuji-arakawa/items/da4d5eec968b92ebc26d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
 
-
- 今回の要件
-前回の記事では、ユーザーが入力すると、フロントエンドで検索結... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/uhyo/articles/async-react-debounce-2</guid>
-      <pubDate>Sat, 18 Apr 2026 08:54:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ついに素材管理アプリ「Eagle」もAIに対応！ 手元の素材をAIが分析、目的の素材を見つける新機能「AI Search」が便利すぎる</title>
-      <link>https://coliss.com/articles/build-websites/operation/work/eagles-new-feature-ai-search.html</link>
-      <description>当ブログのビジターも素材の管理に「Eagle」を使用している人がいると思います。私も6年前から画像やフォントの管理に使用しています。 そんなEagleに新機能として「AI Search」が実装されました！ これがまた非常に便利で、簡単に説明すると、1枚の画像を元に似た画像を探す「類似画像検索」、日本語プロンプトで画像を... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://coliss.com/articles/build-websites/operation/work/eagles-new-feature-ai-search.html</guid>
-      <pubDate>Thu, 16 Apr 2026 01:04:24 +0000</pubDate>
+記憶を持たないはずのAIが、私を覚えている
+LLM自体は記憶を持ちません。直前の会話で何を話したかを本当は「覚えていない」はずなのです。それなのに、ChatGPTのようなチャットアプリや最近のエージェントと会話すると、まるで相手が自分を覚えていてくれて、記憶... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/yuji-arakawa/items/da4d5eec968b92ebc26d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sun, 19 Apr 2026 22:39:24 +0000</pubDate>
     </item>
     <item>
       <title>設計書・コード・テストを全部AIに書かせて半年間開発してみたよ</title>
@@ -53,52 +42,66 @@ AIネイティブ開発とは、AI技術を活用してソフトウェア開発�
       <pubDate>Fri, 17 Apr 2026 04:26:19 +0000</pubDate>
     </item>
     <item>
-      <title>Claude in Chromeが便利すぎて不満だったので、自分専用のChrome拡張を作った</title>
-      <link>https://zenn.dev/sonicmoov/articles/d7703ab8c16515</link>
-      <description>はじめに
-最近、Claude in ChromeというChrome拡張をよく使っている。
-ブラウザ上で調べ物をしながらAIに質問したり、記事を要約させたり、ちょっとしたブラウザ操作を頼んだり。大抵のことはこれでできてしまう。正直、ものすごく便利だ。
-ただ一つ不満がある。AIモデルがClaudeしか使えない。
-Claudeのサブスクは持っているが、コーディングにも使うのでトークンの消費が激しい。Weekly Limitの到達が早い。現在最強のAIモデルだということは承知しているが、正直なところ、ブラウザ作業くらいは安いモデルで済ませたい場面がほとんどだ。
-そこでふと思った。
+      <title>プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する</title>
+      <link>https://zenn.dev/mizchi/articles/empirical-prompt-tuning</link>
+      <description>AI の技術記事は食傷気味なんですが、さすがにこれは効くと思ったパターンを見つけたので紹介します。
 
-自分専用... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sonicmoov/articles/d7703ab8c16515</guid>
-      <pubDate>Thu, 16 Apr 2026 00:28:26 +0000</pubDate>
+ tl;dr
+
+プロンプト (skill / slash command) を書いた直後は「これで伝わるはず！」と思うのに、別のセッションで使うと暗黙知が不足していて、再現性がなくなる
+思い込みは当人に修正できないバイアスなので、別の AI に実際にやらせて詰まった箇所をレポートさせる
+これを繰り返す。プロンプトが段階的に洗練される (TDD のテストと同じ位置づけ)
+
+実際に手元 8 個の skill で試して、初稿 50 点が (AI 主観で) 80〜90 点まで上がった。ただし、モ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mizchi/articles/empirical-prompt-tuning</guid>
+      <pubDate>Sun, 19 Apr 2026 08:04:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>コンソールポチポチが好きだけどIaCやってます</title>
+      <link>https://zenn.dev/philosophum/articles/3344cb6a078486</link>
+      <description>コンソールポチポチは良い
+私はAWSマネジメントコンソールが好きです。
+新しいサービスを試すとき、まずコンソールを開きます。画面を見ながら「このサービスにはこんな設定項目があるのか」「この項目はこう関連しているのか」と理解していく。ドキュメントを読むだけでは掴めない感覚が、画面を触ると分かることがあります。
+コンソールの良さはいくつもあります。
+すぐ試せて、すぐ壊せる。 検証したいことがあるとき、コンソールなら数クリックでリソースを作って動作を確認できます。うまくいかなければ消してやり直せばいい。このサイクルの速さは、学習でも検証でも大きな武器です。
+何ができるか分かる。 コンソール... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/philosophum/articles/3344cb6a078486</guid>
+      <pubDate>Sat, 18 Apr 2026 12:00:32 +0000</pubDate>
     </item>
     <item>
       <title>Claudeに原始時代に行ってもらっては困る話</title>
       <link>https://zenn.dev/holy_fox/articles/e0c0bf75fba9e6</link>
       <description>はじめに
 最近、海外のLLMコミュニティで 「caveman prompt」「speak like a caveman」 と呼ばれるプロンプト技法がちらほら話題になっています。Claude Codeに「原始人のように喋れ」と指示することで、挨拶・クッション言葉・冗長な前置きを削って応答を短くする ― ひいてはトークン消費を削減できる、という主張です。Reddit や X の一部スレッドでは「出力が劇的に短くなった」「コストが大幅に下がった」といった体験報告が流れており、日本語圏にも「原始人プロンプト」として紹介・翻案される事例が出てきました。
-そのうえで、この手法を「Claude C... (source: Zennのトレンド)</description>
+代表的な実装である JuliusBrus... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/holy_fox/articles/e0c0bf75fba9e6</guid>
       <pubDate>Fri, 17 Apr 2026 06:53:17 +0000</pubDate>
     </item>
     <item>
-      <title>AIの素敵なプランに「ズン」とハンコを押したい</title>
-      <link>https://zenn.dev/sangun/articles/159e7676a2e949</link>
-      <description>こんにちは、さんうんです。
-突然ですが、皆さんは開発でAIをどれくらい信用していますか？ 僕はお母さんの次くらいには信用しています。
-お仕事を指示すれば素晴らしいプランを提案してくれて、下手したらコードもドキュメントも勝手に書いてくれる彼ら。まさにやばい天才部下と言っても過言ではありません。
-…しかし、そんなAI Agentと我々（？）はある問題が存在することをご存じでしょうか？
-それがこちら
+      <title>自作キーボードに機械学習モデルを仕込む</title>
+      <link>https://zenn.dev/bilzard/articles/29e91678ae98c7</link>
+      <description>このブログについて
+40%キーボードのHold&amp;Tap判定に機械学習モデルを導入してみたという話です。
 
-僕たち、プラン読まずに承認するのに慣れてしまってます。
-そう、Claude Code や Codex が「こういう方針でコードを書きますが、よろしいですか？」と立派なプランを提示してくるたび、僕... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sangun/articles/159e7676a2e949</guid>
-      <pubDate>Fri, 17 Apr 2026 08:32:09 +0000</pubDate>
+ Tap &amp; Holdとは？
+Tap&amp;Holdというのは、1つのキーに2つのキーの役割を割り当てる機能です。
+40%キーボードのようにキー数の少ないキーボードのスペース効率を高めることができる画期的な機能です。
+具体的には、ちょい押しなら普通のキー、長押しなら修飾キー（またはレイヤ切り替え）といったように、ボタンを押す長さで二つのキーを判別する仕組みになっています。
+このルールが基本ですが、人間は機械のように正確な動きはできないので、ホールドのつもりで押し... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/bilzard/articles/29e91678ae98c7</guid>
+      <pubDate>Sun, 19 Apr 2026 00:45:50 +0000</pubDate>
     </item>
     <item>
-      <title>QAチームのナレッジを「ハーネス」にする — Claude Codeでテスト設計を自動化した話</title>
-      <link>https://zenn.dev/tokium_dev/articles/705334e2f6ac10</link>
-      <description>はじめに
-こんにちは！TOKIUMでQAチームのリーダーをしている西田です。
-最近、開発コミュニティで「ハーネスエンジニアリング」という言葉を耳にする機会が増えました。
-Xや各種技術系ブログでは特に顕著で、AIコーディングツールの普及に伴い、プロンプトを書くだけでなく、AIが動作する「環境」そのものを設計するという考え方が注目されています。
-ハーネスエンジニアリングとは、LLMを特定の業務に最適化するために、指示ファイル・ナレッジベース・バリデーション・ワークフロー定義などの「外部構造」を設計・整備するエンジニアリング手法のことです。プロンプトエンジニアリングが「何を聞くか」に注目す... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/705334e2f6ac10</guid>
-      <pubDate>Thu, 16 Apr 2026 04:35:42 +0000</pubDate>
+      <title>社内SQLチューニングコンテストの開催にあたって得られた知見</title>
+      <link>https://zenn.dev/forcia_tech/articles/202604_devsemi_sql</link>
+      <description>エンジニアの吉田です。
+フォルシアにはdevゼミという文化があり、エンジニアが講師となって自身の詳しい分野に関する講義やハンズオンを行っています。
+私もこれまでに何度かSQLチューニングを題材としたdevゼミを開講してきましたが、いずれもこちらが一方的に話すという形式に終始しており、実際に受講者が手を動かせる形式での講義も望まれていました。
+色々とやり方を模索した結果、コンテスト形式で実際にPostgreSQLのチューニングを行ってもらう、という形の講義を行うことになりました。コンテスト形式での実施にあたりいろいろと工夫した点や学びがあったので、以下にそれらをまとめます。
+
+ SQLチュ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/forcia_tech/articles/202604_devsemi_sql</guid>
+      <pubDate>Fri, 17 Apr 2026 04:00:10 +0000</pubDate>
     </item>
     <item>
       <title>正しく脆弱性を怖がるために資格の過去問を通して、実際に指標値を確かめてみた</title>
@@ -112,15 +115,15 @@ Xや各種技術系ブログでは特に顕著で、AIコーディングツー�
       <pubDate>Sat, 18 Apr 2026 12:07:19 +0000</pubDate>
     </item>
     <item>
-      <title>そのAI臭を消す努力は、誰のためにやっているのか</title>
-      <link>https://zenn.dev/acntechjp/articles/54ab3f84e567a6</link>
-      <description>嫌悪の裏側にある肯定
-AI生成コンテンツに対する嫌悪感が、じわじわと広がっているように感じる。
-2025年、Merriam-Websterが「slop（スロップ）」を年間ワードに選出した[1]。もともとエンジニアコミュニティの俗語だったものが辞書に載るほど一般化した。文法的には正しいけど中身がない、書く側はほぼゼロコストなのに読む側が苦労する、そして止める理由がない。そういうコンテンツがスロップと呼ばれるようになった。
-この嫌悪は正当なものだと思う。
-「『AI臭い』と言われるけど、AIだし、どうすりゃいいんだよ」[2]という記事は、AI臭さの正体を表面的なマーカー（語尾、emダッシュ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/54ab3f84e567a6</guid>
-      <pubDate>Thu, 16 Apr 2026 11:23:44 +0000</pubDate>
+      <title>リポジトリ層は、あえてインターフェース化しない方が良い場合もある</title>
+      <link>https://zenn.dev/kotaroikeda/articles/ea159457ffc587</link>
+      <description>「Repository は interface にするもの」
+自分も最初は素直にそう信じていました。
+クリーンアーキテクチャや DDD を学ぶと、Repository はインターフェースで定義して、実装を分けて、DI で注入する構成がきれいに見えます。実際、その設計がしっかりハマる場面はあります。
+ただ、実務を重ねるほど、「毎回そこまでやるのが本当に最適なのか？」という疑問も出てきました。
+特に小〜中規模の開発では、将来の拡張性のために入れた抽象化が、今の開発速度やコード理解のしやすさをむしろ下げることがあります。この記事では、クリーンアーキテクチャを否定するのではなく、Reposito... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kotaroikeda/articles/ea159457ffc587</guid>
+      <pubDate>Sat, 18 Apr 2026 01:37:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

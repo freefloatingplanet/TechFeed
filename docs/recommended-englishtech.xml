@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Apr 2026 07:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 08:16:39 +0000</lastBuildDate>
+    <item>
+      <title>2026年にアプリを保護するためのMFAプロバイダー上位5社</title>
+      <link>https://workos.com/blog/top-mfa-providers-2026</link>
+      <description>主要な多要素認証ソリューションを実践的に比較：それぞれの長所、短所、そして自社のシステム構成に最適なソリューションの選び方について解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/top-mfa-providers-2026</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026年にSaaSアプリを支えるための、最適なIDおよびアクセス管理プロバイダー5選</title>
       <link>https://workos.com/blog/best-identity-access-management-providers-2026</link>
@@ -18,12 +25,12 @@
     <item>
       <title>Meta Reportsによると、ジャストインタイムテストによりバグ検出率が4倍向上したとのこと。</title>
       <link>https://www.infoq.com/news/2026/04/meta-jit-testing-ai-detection/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Metaは、静的なテストスイートに頼るのではなく、コードレビュー中にテストを生成する動的なアプローチであるJust-in-Time（JiT）テストを導入しました。このシステムは、LLM、ミューテーションテスト、Dodgy Diffなどの意図認識ワークフローを使用したAI支援開発において、バグ検出を約4倍向上させます。これは、エージェント開発環境における変更認識型AI駆動ソフトウェアテストへの移行を反映しています。Leela Kumili著 (source: InfoQ)</description>
+      <description>Metaは、静的なテストスイートに頼るのではなく、コードレビュー中にテストを生成する動的なアプローチであるJust-in-Time（JiT）テストを導入しました。このシステムは、LLM、ミューテーションテスト、Dodgy Diffなどの意図認識ワークフローを使用したAI支援開発において、バグ検出を約4倍向上させます。これは、エージェント型開発環境における、変更認識型でAI駆動型のソフトウェアテストへの移行を反映しています。Leela Kumili著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/04/meta-jit-testing-ai-detection/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Fri, 17 Apr 2026 14:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>AWSが、企業全体に広がるAIエージェントの管理を目的としたエージェントレジストリのプレビュー版をリリース</title>
+      <title>AWSが、企業全体に広がるAIエージェントの乱立を管理するため、エージェントレジストリのプレビュー版をリリース</title>
       <link>https://www.infoq.com/news/2026/04/aws-agent-registry-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>AWSは、Amazon Bedrock AgentCoreの一部としてAgent Registryをプレビュー版としてリリースしました。これは、組織全体でAIエージェント、ツール、MCPサーバーを検出、管理、再利用するための集中型カタログを提供します。このレジストリは、エージェントの実行場所に関係なくエージェントをインデックス化し、MCPプロトコルとA2Aプロトコルの両方をネイティブにサポートします。Microsoft、Google Cloud、およびACP Registryは、競合するソリューションを提供しています。執筆者：Steef-Jan Wiggers (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/04/aws-agent-registry-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
@@ -70,13 +77,6 @@
       <description>Googleは、Apache 2.0ライセンスの下、2B、4B、26B、31Bのパラメータを持つバリアントを含む、一連のオープンウェイトAIモデルであるGemma 4のリリースを発表しました。主な機能には、強化されたビデオおよび画像処理、小型モデルでの音声入力、最大256Kトークンまでの拡張コンテキストウィンドウが含まれます。執筆：Hien Luu (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/04/google-gemm4/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 16 Apr 2026 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>プレゼンテーション：VRからフラットスクリーンへ：入力と没入感のギャップを埋める</title>
-      <link>https://www.infoq.com/presentations/game-vr-flat-screens/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ダニー・ルパージュは、ヒットVRタイトルを7つの非VRプラットフォームに移植する際のアーキテクチャ設計の道のりについて語ります。彼は、チームがどのようにクロスプログレッション、多様な入力パラダイム、そしてSteam、iOS、PlayStation全体でのリリース速度の維持といった課題を解決したかを説明します。技術的な側面だけでなく、没入感のあるソーシャルプレゼンスを2Dスクリーンに移植する際の「プロダクトフィット」のギャップについても率直に語ります。ダニー・ルパージュ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/game-vr-flat-screens/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 16 Apr 2026 14:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
