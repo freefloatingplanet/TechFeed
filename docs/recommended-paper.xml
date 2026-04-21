@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Apr 2026 08:16:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 07:59:54 +0000</lastBuildDate>
     <item>
-      <title>堅牢な試験不正検出のための2段階オブジェクト中心型深層学習フレームワーク</title>
-      <link>https://arxiv.org/abs/2604.16234v1</link>
-      <description>学術的誠実性は、試験不正という根強い課題に直面し続けています。従来の試験監督は人間の観察に依存していますが、これは非効率的でコストがかかり、大規模になるとエラーが発生しやすくなります。既存のAI搭載監視システムの中には導入され信頼されているものもありますが、多くは透明性に欠けていたり、望ましいパフォーマンスを実現するために多層アーキテクチャを必要としたりします。これらの課題を克服するために、よく知られた技術を使用して物体検出と行動分析を統合した、試験不正検出のための単純な2段階フレームワークの改善を提案します。まず、最先端のYOLOv8nモデルを使用して、試験室の画像内の学生の位置を特定します。検出された各領域は切り取られて前処理され、その後、ファインチューニングされたRexNet-150モデルによって、正常な行動か不正行為かに分類されます。このシステムは、合計273,897サンプルを含む10の独立したソースからコンパイルされたデータセットでトレーニングされ、精度0.95、再現率0.94、適合率0.96、F1スコア0.95を達成しました。これは、ビデオベースの不正行為検出におけるベース (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.16234v1</guid>
-      <pubDate>Fri, 17 Apr 2026 16:53:08 +0000</pubDate>
+      <title>GSQ: ガンベル・ソフトマックスサンプリングによるLLM向け高精度低精度スカラー量子化</title>
+      <link>https://arxiv.org/abs/2604.18556v1</link>
+      <description>重み量子化は、特にローカル推論において、効率的なLLM展開のための標準ツールとなっています。ローカル推論では、モデルは現在、パラメータあたり2～3ビットで提供されるのが一般的です。現在の最先端技術は、2つの手法に分かれています。1つは、GPTQやAWQなどの単純なスカラー量子化手法で、広く普及していますが、パラメータあたり3～4ビット（bpp）で精度が頭打ちになります。もう1つは、QTIP、GPTVQ、AQLMなどの「第2世代」のベクトル量子化またはトレリス量子化手法で、低ビット幅での精度の限界を押し上げていますが、実装と拡張が非常に困難で、普及率は比較的低くなっています。本稿では、このギャップが根本的なものなのか、それとも慎重に最適化されたスカラー量子化器でその大部分を回復できるのかを検討します。我々は、GSQ（Gumbel-Softmax Quantization）を導入することで、この問いに肯定的に答えます。GSQは、離散グリッドのGumbel-Softmax緩和を用いて、座標ごとのグリッド割り当てとグループごとのスケールを同時に学習する、学習後のスカラー量子化手法です。GSQは (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.18556v1</guid>
+      <pubDate>Mon, 20 Apr 2026 17:45:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

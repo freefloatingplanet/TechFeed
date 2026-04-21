@@ -7,41 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Apr 2026 08:16:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 08:00:00 +0000</lastBuildDate>
     <item>
-      <title>2026年にアプリを保護するためのMFAプロバイダー上位5社</title>
-      <link>https://workos.com/blog/top-mfa-providers-2026</link>
-      <description>主要な多要素認証ソリューションを実践的に比較：それぞれの長所、短所、そして自社のシステム構成に最適なソリューションの選び方について解説します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/top-mfa-providers-2026</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <title>LLMアプリケーション向けOWASPトップ10：AI機能をリリースする開発者が知っておくべきこと</title>
+      <link>https://workos.com/blog/the-owasp-top-10-for-llm-applications-what-developers-shipping-ai-features-need-to-know</link>
+      <description>LLM（論理レベルモデル）がどのようにデータを漏洩させ、乗っ取られ、友好的な入力を悪用可能な情報に変えてしまうのか、そしてなぜ防御策のほとんどがモデルの外部に存在するのか。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/the-owasp-top-10-for-llm-applications-what-developers-shipping-ai-features-need-to-know</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>2026年にSaaSアプリを支えるための、最適なIDおよびアクセス管理プロバイダー5選</title>
-      <link>https://workos.com/blog/best-identity-access-management-providers-2026</link>
-      <description>SaaSチーム向けの主要なIAMソリューションに関する2026年版ガイド。機能、価格、トレードオフを詳細に解説し、最適なプロバイダーを選択してエンタープライズ案件をより迅速に成立させるお手伝いをします。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/best-identity-access-management-providers-2026</guid>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta Reportsによると、ジャストインタイムテストによりバグ検出率が4倍向上したとのこと。</title>
+      <title>Meta Reportsは、ジャストインタイムテストによりバグ検出率が4倍向上したと報告している。</title>
       <link>https://www.infoq.com/news/2026/04/meta-jit-testing-ai-detection/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>Metaは、静的なテストスイートに頼るのではなく、コードレビュー中にテストを生成する動的なアプローチであるJust-in-Time（JiT）テストを導入しました。このシステムは、LLM、ミューテーションテスト、Dodgy Diffなどの意図認識ワークフローを使用したAI支援開発において、バグ検出を約4倍向上させます。これは、エージェント型開発環境における、変更認識型でAI駆動型のソフトウェアテストへの移行を反映しています。Leela Kumili著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/04/meta-jit-testing-ai-detection/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Fri, 17 Apr 2026 14:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>AWSが、企業全体に広がるAIエージェントの乱立を管理するため、エージェントレジストリのプレビュー版をリリース</title>
-      <link>https://www.infoq.com/news/2026/04/aws-agent-registry-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AWSは、Amazon Bedrock AgentCoreの一部としてAgent Registryをプレビュー版としてリリースしました。これは、組織全体でAIエージェント、ツール、MCPサーバーを検出、管理、再利用するための集中型カタログを提供します。このレジストリは、エージェントの実行場所に関係なくエージェントをインデックス化し、MCPプロトコルとA2Aプロトコルの両方をネイティブにサポートします。Microsoft、Google Cloud、およびACP Registryは、競合するソリューションを提供しています。執筆者：Steef-Jan Wiggers (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/aws-agent-registry-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 17 Apr 2026 06:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ハッカーは、パッチが適用されていないWindowsのセキュリティ上の脆弱性を悪用して、組織への侵入を試みている。</title>
-      <link>https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/</link>
-      <description>あるセキュリティ研究者が、Windows Defenderに存在する3つのセキュリティ脆弱性の詳細と、それらを悪用するために使用されるコードを公開した。サイバーセキュリティ企業によると、現在、ハッカーたちはこれらの脆弱性を悪用した実際の攻撃を行っているという。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/</guid>
-      <pubDate>Fri, 17 Apr 2026 17:48:46 +0000</pubDate>
+      <title>ポッドキャスト：安定性、安全性、拡張性に優れたプラットフォームの構築：マシュー・リストとの対談</title>
+      <link>https://www.infoq.com/podcasts/engineering-stable-secure-scalable-platforms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>このポッドキャストでは、マイケル・スティフェルがマシュー・リストとソフトウェアプラットフォームの構築と管理について語り合いました。プラットフォームサービスはアプリケーション開発の基盤となるものであり、常に安定性、セキュリティ、拡張性を備えている必要があります。これらのシステムの拡張は、未知のリソース競合によってシステムが障害を起こすことが多いため、特に困難です。執筆：マシュー・リスト (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/podcasts/engineering-stable-secure-scalable-platforms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 20 Apr 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>
@@ -58,11 +44,18 @@
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：大規模環境におけるスピード：最大規模のCXプラットフォームを最適化する</title>
-      <link>https://www.infoq.com/presentations/optimize-performance-cx-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>マテウス・アルブケルケ氏は、大規模なCXプラットフォームを最適化するための戦略、React 15とWebpack 1から最新の標準への移行について解説します。大規模な移行にはASTベースのコードモッドを使用し、モジュール/ノーモジュールによる差分配信を実装し、Preactを活用してフットプリントを削減する方法についても説明します。最先端のパフォーマンスと厳格なレガシーブラウザの制約とのバランスの取り方についても解説します。 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/optimize-performance-cx-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 17 Apr 2026 09:20:00 +0000</pubDate>
+      <title>DPoP（RFC 9449）解説：送信者制約付きOAuthトークンがトークン盗難をいかに無害なものにするか</title>
+      <link>https://workos.com/blog/dpop-rfc-9449-explained</link>
+      <description>エンジニア向けRFC 9449の実践的な解説：JWTの証明、サーバー発行のnonce、ブラウザでの鍵の保存、そしてDPoPがmTLSとどのように関連しているか。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/dpop-rfc-9449-explained</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pretext.jsはDOMレイアウトのリフローを回避し、120FPSで高度なUXパターンを実現します。</title>
+      <link>https://www.infoq.com/news/2026/04/pretext-js-120fps-text-layout/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>MidjourneyのエンジニアであるCheng Lou氏は最近、Pretextという15KBのオープンソースTypeScriptライブラリをリリースしました。Pretextはブラウザのレイアウトリフローなしでテキストを計測・レイアウトし、無限リスト、メイソンリーレイアウト、スクロール位置アンカーなどの高度なUX/UIパターンを60～120fpsで実行できるようにします。Pretextは、DOMのレイアウト計算をリバースエンジニアリングするAIループを使用して構築されました。Bruno Couriol著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/pretext-js-120fps-text-layout/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 20 Apr 2026 12:59:00 +0000</pubDate>
     </item>
     <item>
       <title>開発者向けCLI認証ガイド</title>
@@ -72,11 +65,18 @@
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Googleがマルチモーダル機能とエージェント機能を備えたGemma 4をApache 2.0ライセンスで公開</title>
-      <link>https://www.infoq.com/news/2026/04/google-gemm4/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Googleは、Apache 2.0ライセンスの下、2B、4B、26B、31Bのパラメータを持つバリアントを含む、一連のオープンウェイトAIモデルであるGemma 4のリリースを発表しました。主な機能には、強化されたビデオおよび画像処理、小型モデルでの音声入力、最大256Kトークンまでの拡張コンテキストウィンドウが含まれます。執筆：Hien Luu (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/google-gemm4/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 16 Apr 2026 17:05:00 +0000</pubDate>
+      <title>プレゼンテーション：クラウドネイティブバンキングのためのイベント駆動型パターン - 何が効果的で、何が問題なのか？</title>
+      <link>https://www.infoq.com/presentations/patterns-payment-system/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>クリス・テイシー＝グリーンは、高度に規制された環境における同期コマンドから非同期イベントへの移行について論じています。彼は、データ損失を防ぐためのインボックスとアウトボックスパターンの重要な役割、イベントバージョニングのニュアンス、ドメイン間の疎結合を維持する方法について説明しています。また、フォールトトレランスの実装と結果整合性の管理に関する「実証済みの」原則も紹介しています。クリス・テイシー＝グリーン著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/patterns-payment-system/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 20 Apr 2026 11:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>記事：本番環境に対応したtRPC APIの構築：Apollo Federationに代わるTypeScriptの活用法</title>
+      <link>https://www.infoq.com/articles/building-trpc-api-typescript/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>この記事では、Apollo FederationからTypeScriptベースのtRPCスタックへの移行について詳しく説明します。この移行により、バグが89%削減され、応答時間が67%向上しました。また、移行中に犯したミス、予想外のパフォーマンス向上、そして現在、1日240万件のリクエストを99.97%の稼働率で処理するために使用している本番環境アーキテクチャの概要についても解説します。執筆者：Dinesh Kumar Elumalai (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/building-trpc-api-typescript/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 20 Apr 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

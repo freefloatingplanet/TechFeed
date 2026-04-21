@@ -7,40 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 08:16:30 +0000</lastBuildDate>
-    <item>
-      <title>Claude Codeで日常のタスクを45個自動化した東大院生の全記録</title>
-      <link>https://zenn.dev/shunya_sudo/articles/claude-code-45-automation-tasks</link>
-      <description>これらが24時間、macOS上で動いています。PCを閉じない限り止まりません。 全体のアーキテクチャはこうです: ポイントは、Claude CLIを「考えるパーツ」として使っていること。データの取得・加工はPythonで行い、「この情報をどう要約するか」「このメールは返信が必要か」といった判断だけをClaudeに任せています。 カ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/shunya_sudo/articles/claude-code-45-automation-tasks</guid>
-      <pubDate>Sun, 19 Apr 2026 12:03:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>記憶を持たないLLMの記憶 ― コンテキスト/メモリー/ハーネスエンジニアリング入門の前に</title>
-      <link>https://qiita.com/yuji-arakawa/items/da4d5eec968b92ebc26d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-
-記憶を持たないはずのAIが、私を覚えている
-LLM自体は記憶を持ちません。直前の会話で何を話したかを本当は「覚えていない」はずなのです。それなのに、ChatGPTのようなチャットアプリや最近のエージェントと会話すると、まるで相手が自分を覚えていてくれて、記憶... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/yuji-arakawa/items/da4d5eec968b92ebc26d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sun, 19 Apr 2026 22:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>設計書・コード・テストを全部AIに書かせて半年間開発してみたよ</title>
-      <link>https://zenn.dev/nttdata_tech/articles/8a010aff542625</link>
-      <description>設計書・コード・テストを全部AIに書かせて半年間開発してみたよ
-
- 1. はじめに
-本記事は、私のチームが半年間AIネイティブ開発を行った経験とその感想をまとめたものです。
-AIネイティブ開発とは、AI技術を活用してソフトウェア開発を行うことを指します。2025/10～2026/3の期間中、私たちはお客様に納品するシステムをAIネイティブで開発しました。その経験と私なりに感じたことをまとめてみました。
-※ なお、私の取組は全社的な取組とは関係ありません。
-※ あくまで、私のチームが独自に行っている取組ですので、その点はご留意ください。
-
- 2. 自己紹介
-初めてテックブログに記事を書... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/8a010aff542625</guid>
-      <pubDate>Fri, 17 Apr 2026 04:26:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Apr 2026 07:59:48 +0000</lastBuildDate>
     <item>
       <title>プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する</title>
       <link>https://zenn.dev/mizchi/articles/empirical-prompt-tuning</link>
@@ -57,16 +24,39 @@ AIネイティブ開発とは、AI技術を活用してソフトウェア開発�
       <pubDate>Sun, 19 Apr 2026 08:04:42 +0000</pubDate>
     </item>
     <item>
-      <title>コンソールポチポチが好きだけどIaCやってます</title>
-      <link>https://zenn.dev/philosophum/articles/3344cb6a078486</link>
-      <description>コンソールポチポチは良い
-私はAWSマネジメントコンソールが好きです。
-新しいサービスを試すとき、まずコンソールを開きます。画面を見ながら「このサービスにはこんな設定項目があるのか」「この項目はこう関連しているのか」と理解していく。ドキュメントを読むだけでは掴めない感覚が、画面を触ると分かることがあります。
-コンソールの良さはいくつもあります。
-すぐ試せて、すぐ壊せる。 検証したいことがあるとき、コンソールなら数クリックでリソースを作って動作を確認できます。うまくいかなければ消してやり直せばいい。このサイクルの速さは、学習でも検証でも大きな武器です。
-何ができるか分かる。 コンソール... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/philosophum/articles/3344cb6a078486</guid>
-      <pubDate>Sat, 18 Apr 2026 12:00:32 +0000</pubDate>
+      <title>AI時代にわざわざRuby on Railsを使う理由</title>
+      <link>https://zenn.dev/higakijin/articles/730a734b6b9009</link>
+      <description>こんにちは、フリーランスとして働いてるハルクです
+最近自分の会社を立ち上げたことで、「AI時代にフィットしたwebフレームワークとは何か」を考えるようになりました。
+私はRubyでコンピューターサイエンスの世界に入ってから、最近流行りのTypescript(Next.js, Nuxt.js)、Go、Rustなどを使ってサイドプロジェクトを立ち上げてきましたが、
+結局のところ、RubyやRuby on Railsが最も自分のユースケースにフィットすることがわかりました。
+そして、その評価は、AIコーディングが発達してきた2026年においても変わりません。
+今回は、私がなぜAI時代にRuby... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/higakijin/articles/730a734b6b9009</guid>
+      <pubDate>Sun, 19 Apr 2026 02:03:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>「いきなり作る」前に考えたいCI/CDパイプラインの設計と運用プラクティス</title>
+      <link>https://zenn.dev/acntechjp/articles/da229b919d512a</link>
+      <description>執筆者：Hajime Fujii
+
+ 前置き・記載背景
+昨今CI/CD実践に向けて既存の情報を調べてみると、具体的な実装例や構築手順、ツールの紹介は多くみられます。
+一方、CI/CDパイプラインを「構築・導入・運用」するプロセスをフレームワーク化したり、一定の設計手法まで踏み込んで考えたものはあまり多くないように思います。
+業務で、CI/CDパイプラインの構築に取り掛かる機会がありましたが、ともすればいきなり作ることから考えてしまい、そのせいで、後になって「あの時こう考えておけばよかったな」と感じたことがいくつもありました。
+本記事は、それらをプラクティス・設計手法の一例としてまとめてみ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/da229b919d512a</guid>
+      <pubDate>Mon, 20 Apr 2026 04:10:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>言語化に苦しむ全ての人(エンジニア？)へ。今日から変わるコミュニケーション術補遺</title>
+      <link>https://zenn.dev/coconala/articles/9b1d05be257b90</link>
+      <description>「私たちがストーリーと呼んでいるものは、しばしば事件である」とはE.M.フォースター等のナラトロジー分野でよく言われることです。
+ココナラのDevOpsグループCREチームのy.s.（@inu_no_hou）です。
+言語化という言葉があまり好きではなく、日頃使わないようにしているのですが、その理由は概念の網の目が荒すぎて、多くの場合役に立たないからです。言葉とは一面においてツールであり、ツールが使いにくいならツールを変更するのが正当な手続きだと考えます(もちろん、ツール以外の側面もあるのが難しく面白いところである)。
+言語化能力を上げるぞとぬんと力んだところで大して成果が得られないのはそ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/coconala/articles/9b1d05be257b90</guid>
+      <pubDate>Mon, 20 Apr 2026 02:20:02 +0000</pubDate>
     </item>
     <item>
       <title>Claudeに原始時代に行ってもらっては困る話</title>
@@ -92,38 +82,58 @@ Tap&amp;Holdというのは、1つのキーに2つのキーの役割を割り当
       <pubDate>Sun, 19 Apr 2026 00:45:50 +0000</pubDate>
     </item>
     <item>
-      <title>社内SQLチューニングコンテストの開催にあたって得られた知見</title>
-      <link>https://zenn.dev/forcia_tech/articles/202604_devsemi_sql</link>
-      <description>エンジニアの吉田です。
-フォルシアにはdevゼミという文化があり、エンジニアが講師となって自身の詳しい分野に関する講義やハンズオンを行っています。
-私もこれまでに何度かSQLチューニングを題材としたdevゼミを開講してきましたが、いずれもこちらが一方的に話すという形式に終始しており、実際に受講者が手を動かせる形式での講義も望まれていました。
-色々とやり方を模索した結果、コンテスト形式で実際にPostgreSQLのチューニングを行ってもらう、という形の講義を行うことになりました。コンテスト形式での実施にあたりいろいろと工夫した点や学びがあったので、以下にそれらをまとめます。
-
- SQLチュ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/forcia_tech/articles/202604_devsemi_sql</guid>
-      <pubDate>Fri, 17 Apr 2026 04:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>正しく脆弱性を怖がるために資格の過去問を通して、実際に指標値を確かめてみた</title>
-      <link>https://zenn.dev/moneyforward/articles/6caab074328d02</link>
-      <description>こんにちは。bun913と申します。
-私はQAチームのSDET（Software Development Engineer in Test）として、一連のテスト活動やその他の品質のための諸々に携わらせていただきます。
-今回はとある脆弱性について対応した際に、「正しく怖がれずに、なんとなくで急いで対応をしてしまった」という反省からセキュリティについて学び、手を動かしてみました。
+      <title>AIにコーディングを全任せした結果、ドメイン設計に辿り着いた話</title>
+      <link>https://zenn.dev/tan_go238/articles/002437e923913c</link>
+      <description>はじめに：AIで無双できると思っていた時期がありました
+最近、AIを使ったコーディングがすっかり当たり前になってきました。
+AIに指示を出せばコードが組み上がり、開発効率が飛躍的に上がると感じています。
+私自身も、要件定義から実装まで一気通貫でAIに任せる開発スタイルを試してきた結論を先にお伝えします。
 !
-できるだけ可能な範囲で資料の裏付けをとりつつ、セキュリティについての学習を通しながら実際に手を動かして学んだことを記載しています。誤った情報を書いていたことが確認できれば、修正などをしていきたいと思います。ご了... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/moneyforward/articles/6caab074328d02</guid>
-      <pubDate>Sat, 18 Apr 2026 12:07:19 +0000</pubDate>
+AIコーディングを突き詰めると、人間が認知できる仕様の数というボトルネックに辿り着き、「ドメイン設計」と「分散システム」に取り組み始める
+
+本記事では、AI開発における「順調だったフェーズ」と「崩壊したフェーズ」、そしてそこから導き出した解決策について、順を追って整理します。
+
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tan_go238/articles/002437e923913c</guid>
+      <pubDate>Sun, 19 Apr 2026 23:00:07 +0000</pubDate>
     </item>
     <item>
-      <title>リポジトリ層は、あえてインターフェース化しない方が良い場合もある</title>
-      <link>https://zenn.dev/kotaroikeda/articles/ea159457ffc587</link>
-      <description>「Repository は interface にするもの」
-自分も最初は素直にそう信じていました。
-クリーンアーキテクチャや DDD を学ぶと、Repository はインターフェースで定義して、実装を分けて、DI で注入する構成がきれいに見えます。実際、その設計がしっかりハマる場面はあります。
-ただ、実務を重ねるほど、「毎回そこまでやるのが本当に最適なのか？」という疑問も出てきました。
-特に小〜中規模の開発では、将来の拡張性のために入れた抽象化が、今の開発速度やコード理解のしやすさをむしろ下げることがあります。この記事では、クリーンアーキテクチャを否定するのではなく、Reposito... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kotaroikeda/articles/ea159457ffc587</guid>
-      <pubDate>Sat, 18 Apr 2026 01:37:17 +0000</pubDate>
+      <title>1日で作るサプライチェーン攻撃対策！運用死しないコスト「ほぼゼロ」の通信監視</title>
+      <link>https://zenn.dev/aeyesec/articles/32fb05ddd1c3f7</link>
+      <description>1. はじめに
+こんにちは！はるぷです！サプライチェーン攻撃の対策してますか？？
+最近、サプライチェーン攻撃の話題が出るたび、「うちのサービスは本当に大丈夫だろうか」と社内がざわつくことはありませんか。依存ライブラリの棚卸しやSBOM整備に取り組んでいても、入り口が多すぎて全体を把握するのは至難の業です。
+加えて、社内外から「サプライチェーン攻撃対策大丈夫ですよね？」と聞かれたとき、担当者として胸がキューっとなる辛い状態になりがちです。何かしらビシッと説明できるシステム的な一手が欲しい…。
+
+そこで今回は、 「万が一、侵入を許してしまった後の早期発見」 に特化した対策を紹介します。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aeyesec/articles/32fb05ddd1c3f7</guid>
+      <pubDate>Sun, 19 Apr 2026 23:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>ブラウザで日本語入力中にIMEが勝手に切り替わると思ったらNeovimのLSPが原因だった</title>
+      <link>https://zenn.dev/ultimatile/articles/neovim-lsp-ime-switch-autocmd-conflict</link>
+      <description>!
+この記事はVim駅伝の2026-04-20の記事です。
+Vim駅伝は常に参加者を募集しています。詳しくはこちらのページをご覧ください。
+
+
+ はじめに
+Neovimで日本語入力する際、挿入モードで日本語入力に切り替え、ノーマルモードに戻ったら英字入力に戻す、というのはよくある運用です。
+私はmacismとNeovimのautocmd（特定のイベント発生時にコマンドを自動実行する仕組み）を使って「挿入モードを抜けたら自動で英字入力に戻す」設定をしていました。
+さらに、取りこぼしを減らすためにイベントを大量に追加した結果、Neovim以外のアプリで日本語を入力している最中に勝手に英字入力... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ultimatile/articles/neovim-lsp-ime-switch-autocmd-conflict</guid>
+      <pubDate>Sun, 19 Apr 2026 14:55:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI エージェント並列化で自分の脳が限界になったので Maestri を試した</title>
+      <link>https://zenn.dev/youjinfox/articles/bb3facc650adb1</link>
+      <description>はじめに
+AI コーディングエージェントの並列運用を始めて、すぐに気づいたことがある。ボトルネックはもう、コードを書く速度じゃない。自分の脳だ。
+Claude Code を 3 つ、4 つと同時に走らせる。それぞれが別々のタスクを猛烈な速度で片付けていく。でも、ふと顔を上げると——今どのターミナルが何をやっていて、どれが終わっていて、どれが詰まっているのかが、わからない。画面を切り替えるたびに文脈が飛び、戻ってくる頃には別のエージェントの出力がスクロールで流れている。
+AI 側の性能は上がり続けているのに、それを捌く側の私の認知が追いつかない。典型的な解は tmux だけど、Mac ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/youjinfox/articles/bb3facc650adb1</guid>
+      <pubDate>Sun, 19 Apr 2026 13:52:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

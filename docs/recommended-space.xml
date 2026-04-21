@@ -7,20 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 08:16:32 +0000</lastBuildDate>
-    <item>
-      <title>NASAアルテミスII打ち上げ成功、53年ぶりに人類が月周辺へ。人類史上最も遠い場所に到達し、2028年の有人着陸に向けテスト飛行が本格始動【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/45559/</link>
-      <description>2026年4月1日、NASAのアルテミスIIが打ち上げに成功しました。アポロ17号以来53年ぶりとなる有人月周回ミッションの全容と、2028年の月面着陸に向けた今後の計画を解説します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45559/</guid>
-      <pubDate>Tue, 07 Apr 2026 23:02:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Apr 2026 07:59:51 +0000</lastBuildDate>
     <item>
       <title>IWCが有人宇宙飛行向け腕時計を発表　 Vastの商業宇宙ステーション「Haven-1」での使用を想定</title>
       <link>https://sorae.info/news/20260415-iwc-venturer-vertical-drive.html</link>
       <description>スイスの高級時計メーカーIWCシャフハウゼンは2026年4月14日、ジュネーブで開催中の時計見本市「ウォッチズ＆ワンダーズ」において、宇宙飛行に向けてゼロから設計・開発された腕時計「パイロット・ウォッチ・ベンチュラー・バ… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/news/20260415-iwc-venturer-vertical-drive.html</guid>
       <pubDate>Wed, 15 Apr 2026 02:47:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>ブルー・オリジンが「ニューグレン」3号機を打ち上げ　衛星の予定軌道投入に失敗</title>
+      <link>https://sorae.info/ssn/20260420-new-glenn-ng-3.html</link>
+      <description>アメリカ企業Blue Origin（ブルー・オリジン）は、日本時間2026年4月19日に「New Glenn（ニューグレン）」ロケットの3回目の打ち上げを実施しました。搭載されていたアメリカ企業AST SpaceMobi… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260420-new-glenn-ng-3.html</guid>
+      <pubDate>Mon, 20 Apr 2026 08:28:53 +0000</pubDate>
     </item>
     <item>
       <title>北極観測で気象予測の精度向上へ、OHB Swedenが欧州連携の衛星コンステレーションで約450億円超の契約を獲得【宇宙ビジネスニュース】</title>
@@ -30,11 +30,11 @@
       <pubDate>Sat, 11 Apr 2026 23:00:50 +0000</pubDate>
     </item>
     <item>
-      <title>部材剥離を主要因とした対策方針を決定　JAXAがH3ロケット8号機打ち上げ失敗原因究明状況を報告</title>
-      <link>https://sorae.info/space/20260413-h3f8.html</link>
-      <description>JAXA（宇宙航空研究開発機構）は2026年4月13日に開催された第62回宇宙開発利用部会 調査・安全小委員会にて、「H3」 ロケット8号機打ち上げ失敗の原因究明について、最新の状況を報告しました。 これまでの大まかな経… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260413-h3f8.html</guid>
-      <pubDate>Mon, 13 Apr 2026 12:52:20 +0000</pubDate>
+      <title>「宇宙ビジネスはこれからが一番面白い」日本経済新聞元編集委員・小玉祥司さんに訊く、宇宙産業の転換点</title>
+      <link>https://sorabatake.jp/45671/</link>
+      <description>日本経済新聞の編集委員として活躍された小玉祥司さんに、日本の宇宙産業が変わった瞬間、そしてこれからの展望についてお話を伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45671/</guid>
+      <pubDate>Mon, 20 Apr 2026 23:00:57 +0000</pubDate>
     </item>
     <item>
       <title>NASAの超音速実験機「X-59」が着陸脚を収納した飛行に初成功　独特な機体形状の性能検証へ</title>
@@ -42,13 +42,6 @@
       <description>NASA（アメリカ航空宇宙局）は2026年4月15日付で、開発中の超音速実験機「X-59」が、初めて着陸脚を収納した状態での試験飛行を完了したと発表しました。X-59は、これまで騒音問題で制限されてきた陸上での商業超音速… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/airplane/20260420-x-59-wheels-up.html</guid>
       <pubDate>Sun, 19 Apr 2026 23:16:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA、宇宙向け「Space Computing」を発表。年商32兆円のAI計算インフラ企業が宇宙を正式市場に【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/45528/</link>
-      <description>軌道上データセンターから地上解析まで、用途に応じた製品群を一挙に公開しました。Planet LabsやAxiom Spaceなど宇宙企業6社との連携も同時に発表しています。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45528/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:04:34 +0000</pubDate>
     </item>
     <item>
       <title>「パラメトリック保険」は衛星利用ビジネスの注目ワードに。地球のあらゆる動きを指標化できる衛星データ×保険の未来</title>
@@ -63,6 +56,13 @@
       <description>AIチップの供給不足を背景に、イーロン・マスク氏率いる3社が半導体の自社製造に乗り出します。生産の8割以上が宇宙向けで、ロケット・衛星・通信に続く新たな競争軸が見えてきました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45536/</guid>
       <pubDate>Sun, 05 Apr 2026 23:06:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>タランチュラ星雲が輝く天空へ向けて照射された4本のレーザービーム　ESOの天文台で撮影</title>
+      <link>https://sorae.info/astronomy/20260420-tarantula-nebula-vlti-laser.html</link>
+      <description>星空にかかる雲をつらぬいてきた4本のビーム光線…のように見えるこちらの画像。一見するとSF映画かアニメのワンシーンのようですが、現実の光景を捉えたものです。 画像の中央に写っているのは、かじき座の方向・約16万光年先の輝… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260420-tarantula-nebula-vlti-laser.html</guid>
+      <pubDate>Mon, 20 Apr 2026 12:10:24 +0000</pubDate>
     </item>
     <item>
       <title>木星と土星にそれぞれ18個の衛星が新たに追加　木星の総衛星数は100個の大台を突破</title>
