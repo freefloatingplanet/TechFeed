@@ -7,13 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Apr 2026 07:59:54 +0000</lastBuildDate>
-    <item>
-      <title>GSQ: ガンベル・ソフトマックスサンプリングによるLLM向け高精度低精度スカラー量子化</title>
-      <link>https://arxiv.org/abs/2604.18556v1</link>
-      <description>重み量子化は、特にローカル推論において、効率的なLLM展開のための標準ツールとなっています。ローカル推論では、モデルは現在、パラメータあたり2～3ビットで提供されるのが一般的です。現在の最先端技術は、2つの手法に分かれています。1つは、GPTQやAWQなどの単純なスカラー量子化手法で、広く普及していますが、パラメータあたり3～4ビット（bpp）で精度が頭打ちになります。もう1つは、QTIP、GPTVQ、AQLMなどの「第2世代」のベクトル量子化またはトレリス量子化手法で、低ビット幅での精度の限界を押し上げていますが、実装と拡張が非常に困難で、普及率は比較的低くなっています。本稿では、このギャップが根本的なものなのか、それとも慎重に最適化されたスカラー量子化器でその大部分を回復できるのかを検討します。我々は、GSQ（Gumbel-Softmax Quantization）を導入することで、この問いに肯定的に答えます。GSQは、離散グリッドのGumbel-Softmax緩和を用いて、座標ごとのグリッド割り当てとグループごとのスケールを同時に学習する、学習後のスカラー量子化手法です。GSQは (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.18556v1</guid>
-      <pubDate>Mon, 20 Apr 2026 17:45:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Apr 2026 07:56:37 +0000</lastBuildDate>
   </channel>
 </rss>

@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 07:59:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 07:56:22 +0000</lastBuildDate>
+    <item>
+      <title>Cursorで爆速開発、でもセキュリティは爆速で崩壊していた</title>
+      <link>https://zenn.dev/nekoai_lab/articles/6b876ab524de84</link>
+      <description>TL;DR
+
+AIコーディングはコード生産速度を上げるが、レビュー・セキュリティのボトルネックも同時に増大する
+修正パッチのタイミングが一番危ない。最初の緊張感はAIには引き継がれない
+非エンジニアがコードを読むのは現実的じゃない。だからセキュリティエンジニアをSKILLに憑依させた
+SKILL.mdをGitHubに公開したので持ってけ
+
+
+
+ 他人事じゃなかった
+先日、NYTにこんな記事が出た。
+
+AIコーディングツールを導入した金融企業で、月のコード生産量が2.5万行から25万行に10倍化。結果、レビュー待ちのコードが100万行以上積み上がった。
+
+「AIで効率化したのに人手不足... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nekoai_lab/articles/6b876ab524de84</guid>
+      <pubDate>Sun, 19 Apr 2026 22:29:56 +0000</pubDate>
+    </item>
     <item>
       <title>プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する</title>
       <link>https://zenn.dev/mizchi/articles/empirical-prompt-tuning</link>
@@ -59,27 +80,16 @@
       <pubDate>Mon, 20 Apr 2026 02:20:02 +0000</pubDate>
     </item>
     <item>
-      <title>Claudeに原始時代に行ってもらっては困る話</title>
-      <link>https://zenn.dev/holy_fox/articles/e0c0bf75fba9e6</link>
+      <title>その生産性向上、現場が静かに支払っているコストの話</title>
+      <link>https://zenn.dev/shintaroamaike/articles/69a7611880420d</link>
       <description>はじめに
-最近、海外のLLMコミュニティで 「caveman prompt」「speak like a caveman」 と呼ばれるプロンプト技法がちらほら話題になっています。Claude Codeに「原始人のように喋れ」と指示することで、挨拶・クッション言葉・冗長な前置きを削って応答を短くする ― ひいてはトークン消費を削減できる、という主張です。Reddit や X の一部スレッドでは「出力が劇的に短くなった」「コストが大幅に下がった」といった体験報告が流れており、日本語圏にも「原始人プロンプト」として紹介・翻案される事例が出てきました。
-代表的な実装である JuliusBrus... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/holy_fox/articles/e0c0bf75fba9e6</guid>
-      <pubDate>Fri, 17 Apr 2026 06:53:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>自作キーボードに機械学習モデルを仕込む</title>
-      <link>https://zenn.dev/bilzard/articles/29e91678ae98c7</link>
-      <description>このブログについて
-40%キーボードのHold&amp;Tap判定に機械学習モデルを導入してみたという話です。
-
- Tap &amp; Holdとは？
-Tap&amp;Holdというのは、1つのキーに2つのキーの役割を割り当てる機能です。
-40%キーボードのようにキー数の少ないキーボードのスペース効率を高めることができる画期的な機能です。
-具体的には、ちょい押しなら普通のキー、長押しなら修飾キー（またはレイヤ切り替え）といったように、ボタンを押す長さで二つのキーを判別する仕組みになっています。
-このルールが基本ですが、人間は機械のように正確な動きはできないので、ホールドのつもりで押し... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/bilzard/articles/29e91678ae98c7</guid>
-      <pubDate>Sun, 19 Apr 2026 00:45:50 +0000</pubDate>
+Claude Code をはじめとする AI コーディング支援ツールの高度化により、マークダウンで構造化された仕様書を AI に渡して実装を進める、いわゆる仕様駆動型の開発スタイルが広まりつつあります。
+実装速度は目に見えて向上し、かつてであれば数日かかった作業が数時間で完了するケースも珍しくありません。
+一方で、現場で開発に携わっていると、速度向上だけでは説明しきれない違和感が蓄積していきます。残業は減った、納期も守れている、上層部からの評価も悪くない。
+それなのに、現場の開発者の間に静かな疲労感が漂っている ― そんな状況を見聞きすることが増えてきました。
+この記事では... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shintaroamaike/articles/69a7611880420d</guid>
+      <pubDate>Tue, 21 Apr 2026 10:40:46 +0000</pubDate>
     </item>
     <item>
       <title>AIにコーディングを全任せした結果、ドメイン設計に辿り着いた話</title>
@@ -111,19 +121,11 @@ AIコーディングを突き詰めると、人間が認知できる仕様の数
       <pubDate>Sun, 19 Apr 2026 23:00:07 +0000</pubDate>
     </item>
     <item>
-      <title>ブラウザで日本語入力中にIMEが勝手に切り替わると思ったらNeovimのLSPが原因だった</title>
-      <link>https://zenn.dev/ultimatile/articles/neovim-lsp-ime-switch-autocmd-conflict</link>
-      <description>!
-この記事はVim駅伝の2026-04-20の記事です。
-Vim駅伝は常に参加者を募集しています。詳しくはこちらのページをご覧ください。
-
-
- はじめに
-Neovimで日本語入力する際、挿入モードで日本語入力に切り替え、ノーマルモードに戻ったら英字入力に戻す、というのはよくある運用です。
-私はmacismとNeovimのautocmd（特定のイベント発生時にコマンドを自動実行する仕組み）を使って「挿入モードを抜けたら自動で英字入力に戻す」設定をしていました。
-さらに、取りこぼしを減らすためにイベントを大量に追加した結果、Neovim以外のアプリで日本語を入力している最中に勝手に英字入力... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ultimatile/articles/neovim-lsp-ime-switch-autocmd-conflict</guid>
-      <pubDate>Sun, 19 Apr 2026 14:55:05 +0000</pubDate>
+      <title>AnthropicのMythosがFirefox 150で271件のセキュリティ脆弱性を発見、Mozillaは「防御側にとって朗報」</title>
+      <link>https://gigazine.net/news/20260422-anthropic-mythos-found-271-security-vulnerabilities-firefox/</link>
+      <description>Claudeの開発元であるAnthropicが、ソフトウェアの脆弱(ぜいじゃく)性を発見することに長けたAIの「Mythos」を開発しました。このMythosは悪用されれば非常に危険ということで、「Claude Mythos Preview」として一部の企業にのみ提供されています。そんなClaude Mythos Previewに参加しているMozillaが、最新のFirefox 1... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20260422-anthropic-mythos-found-271-security-vulnerabilities-firefox/</guid>
+      <pubDate>Wed, 22 Apr 2026 02:07:08 +0000</pubDate>
     </item>
     <item>
       <title>AI エージェント並列化で自分の脳が限界になったので Maestri を試した</title>

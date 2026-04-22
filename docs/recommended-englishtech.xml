@@ -7,27 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Apr 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 07:56:42 +0000</lastBuildDate>
     <item>
-      <title>LLMアプリケーション向けOWASPトップ10：AI機能をリリースする開発者が知っておくべきこと</title>
-      <link>https://workos.com/blog/the-owasp-top-10-for-llm-applications-what-developers-shipping-ai-features-need-to-know</link>
-      <description>LLM（論理レベルモデル）がどのようにデータを漏洩させ、乗っ取られ、友好的な入力を悪用可能な情報に変えてしまうのか、そしてなぜ防御策のほとんどがモデルの外部に存在するのか。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/the-owasp-top-10-for-llm-applications-what-developers-shipping-ai-features-need-to-know</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <title>GitHub、最近のシステム障害を認め、スケーリングの課題とアーキテクチャ上の弱点を指摘</title>
+      <link>https://www.infoq.com/news/2026/04/github-outages-scaling/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>GitHubは、プラットフォーム全体でサービスを中断させた一連の可用性およびパフォーマンスの問題について公式に説明し、これらの問題は急速な成長、アーキテクチャの結合、およびシステム負荷処理の限界に起因するとしている。クレイグ・リシ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/github-outages-scaling/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Meta Reportsは、ジャストインタイムテストによりバグ検出率が4倍向上したと報告している。</title>
-      <link>https://www.infoq.com/news/2026/04/meta-jit-testing-ai-detection/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Metaは、静的なテストスイートに頼るのではなく、コードレビュー中にテストを生成する動的なアプローチであるJust-in-Time（JiT）テストを導入しました。このシステムは、LLM、ミューテーションテスト、Dodgy Diffなどの意図認識ワークフローを使用したAI支援開発において、バグ検出を約4倍向上させます。これは、エージェント型開発環境における、変更認識型でAI駆動型のソフトウェアテストへの移行を反映しています。Leela Kumili著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/meta-jit-testing-ai-detection/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 17 Apr 2026 14:49:00 +0000</pubDate>
+      <title>記事：銀行向けPDFテーブル抽出の再設計：Javaを用いた階層型アプローチ</title>
+      <link>https://www.infoq.com/articles/redesign-pdf-table-extraction/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>PDFの表抽出は、本番環境で失敗するまでは簡単そうに見えます。実際の銀行取引明細書は、スキャンされたページ、レイアウトのずれ、結合されたセル、折り返された行など、標準的なJavaパーサーでは処理できない複雑な構造になっている場合があります。この記事では、ストリーム解析、ラティス/OCR、検証、スコアリング、選択的機械学習を用いて、実際の銀行システムにおける抽出の信頼性を高めるためのアプローチをどのように再設計したかを紹介します。執筆者：Mehuli Mukherjee (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/redesign-pdf-table-extraction/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 21 Apr 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ポッドキャスト：安定性、安全性、拡張性に優れたプラットフォームの構築：マシュー・リストとの対談</title>
-      <link>https://www.infoq.com/podcasts/engineering-stable-secure-scalable-platforms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>このポッドキャストでは、マイケル・スティフェルがマシュー・リストとソフトウェアプラットフォームの構築と管理について語り合いました。プラットフォームサービスはアプリケーション開発の基盤となるものであり、常に安定性、セキュリティ、拡張性を備えている必要があります。これらのシステムの拡張は、未知のリソース競合によってシステムが障害を起こすことが多いため、特に困難です。執筆：マシュー・リスト (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/podcasts/engineering-stable-secure-scalable-platforms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 20 Apr 2026 11:00:00 +0000</pubDate>
+      <title>プレゼンテーション：ダイナミックな瞬間：DoorDashにおけるディープパーソナライゼーションへのLLMの組み込み</title>
+      <link>https://www.infoq.com/presentations/llm-personalization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Sudeep Das氏とPradeep Muthukrishnan氏は、DoorDashにおける静的なマーチャンダイジングから動的で瞬間認識型のパーソナライゼーションへの移行について解説しています。彼らは、LLMが自然言語による「消費者プロファイル」とコンテンツ設計図を生成する一方で、従来のディープラーニングがラストマイルランキングを処理する仕組みを共有しています。このハイブリッドアプローチにより、プラットフォームは短命なユーザーの意図と膨大なカタログ量に対応できるようになります。Sudeep Das氏、Pradeep Muthukrishnan氏 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/llm-personalization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 21 Apr 2026 10:35:00 +0000</pubDate>
     </item>
     <item>
       <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>

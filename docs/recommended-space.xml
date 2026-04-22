@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 07:59:51 +0000</lastBuildDate>
-    <item>
-      <title>IWCが有人宇宙飛行向け腕時計を発表　 Vastの商業宇宙ステーション「Haven-1」での使用を想定</title>
-      <link>https://sorae.info/news/20260415-iwc-venturer-vertical-drive.html</link>
-      <description>スイスの高級時計メーカーIWCシャフハウゼンは2026年4月14日、ジュネーブで開催中の時計見本市「ウォッチズ＆ワンダーズ」において、宇宙飛行に向けてゼロから設計・開発された腕時計「パイロット・ウォッチ・ベンチュラー・バ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/news/20260415-iwc-venturer-vertical-drive.html</guid>
-      <pubDate>Wed, 15 Apr 2026 02:47:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Apr 2026 07:56:26 +0000</lastBuildDate>
     <item>
       <title>ブルー・オリジンが「ニューグレン」3号機を打ち上げ　衛星の予定軌道投入に失敗</title>
       <link>https://sorae.info/ssn/20260420-new-glenn-ng-3.html</link>
@@ -42,6 +35,13 @@
       <description>NASA（アメリカ航空宇宙局）は2026年4月15日付で、開発中の超音速実験機「X-59」が、初めて着陸脚を収納した状態での試験飛行を完了したと発表しました。X-59は、これまで騒音問題で制限されてきた陸上での商業超音速… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/airplane/20260420-x-59-wheels-up.html</guid>
       <pubDate>Sun, 19 Apr 2026 23:16:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>H-IIA/H-IIBロケットやHTV関連技術などが「航空宇宙技術遺産」に認定　人力飛行機「ストーク」も</title>
+      <link>https://sorae.info/news/20260421-aerospace-heritage.html</link>
+      <description>日本航空宇宙学会は2026年4月16日、大阪大学豊中キャンパスで開催された第57期年会講演会で、第4回「航空宇宙技術遺産」の認定証贈呈式を行いました。 今回の認定では、日本の基幹ロケット「H-IIA/H-IIBロケット」… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/news/20260421-aerospace-heritage.html</guid>
+      <pubDate>Tue, 21 Apr 2026 08:29:15 +0000</pubDate>
     </item>
     <item>
       <title>「パラメトリック保険」は衛星利用ビジネスの注目ワードに。地球のあらゆる動きを指標化できる衛星データ×保険の未来</title>
