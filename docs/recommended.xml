@@ -7,77 +7,65 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Apr 2026 07:56:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 08:02:09 +0000</lastBuildDate>
     <item>
-      <title>Cursorで爆速開発、でもセキュリティは爆速で崩壊していた</title>
-      <link>https://zenn.dev/nekoai_lab/articles/6b876ab524de84</link>
-      <description>TL;DR
-
-AIコーディングはコード生産速度を上げるが、レビュー・セキュリティのボトルネックも同時に増大する
-修正パッチのタイミングが一番危ない。最初の緊張感はAIには引き継がれない
-非エンジニアがコードを読むのは現実的じゃない。だからセキュリティエンジニアをSKILLに憑依させた
-SKILL.mdをGitHubに公開したので持ってけ
-
-
-
- 他人事じゃなかった
-先日、NYTにこんな記事が出た。
-
-AIコーディングツールを導入した金融企業で、月のコード生産量が2.5万行から25万行に10倍化。結果、レビュー待ちのコードが100万行以上積み上がった。
-
-「AIで効率化したのに人手不足... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nekoai_lab/articles/6b876ab524de84</guid>
-      <pubDate>Sun, 19 Apr 2026 22:29:56 +0000</pubDate>
+      <title>接合面で不確実性を下げ、効率性を上げる ── 私のVPoEとしての仕事 - 株式会社ヘンリー エンジニアブログ</title>
+      <link>https://dev.henry.jp/entry/2026/04/23/111130</link>
+      <description>こんにちは、ヘンリーの山口です。2026年4月にVPoEに就任しました。 年末にVPoEの打診を受けてから就任までの数ヶ月、「VPoEとして自分は何をやる人なのか」を探していました。一般的にイメージされるVPoEの仕事と、自分が実際にやり始めた仕事がどうにも噛み合わなかったからです。ようやく自分なりの答えに辿り着いた... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://dev.henry.jp/entry/2026/04/23/111130</guid>
+      <pubDate>Thu, 23 Apr 2026 02:14:28 +0000</pubDate>
     </item>
     <item>
-      <title>プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する</title>
-      <link>https://zenn.dev/mizchi/articles/empirical-prompt-tuning</link>
-      <description>AI の技術記事は食傷気味なんですが、さすがにこれは効くと思ったパターンを見つけたので紹介します。
-
- tl;dr
-
-プロンプト (skill / slash command) を書いた直後は「これで伝わるはず！」と思うのに、別のセッションで使うと暗黙知が不足していて、再現性がなくなる
-思い込みは当人に修正できないバイアスなので、別の AI に実際にやらせて詰まった箇所をレポートさせる
-これを繰り返す。プロンプトが段階的に洗練される (TDD のテストと同じ位置づけ)
-
-実際に手元 8 個の skill で試して、初稿 50 点が (AI 主観で) 80〜90 点まで上がった。ただし、モ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mizchi/articles/empirical-prompt-tuning</guid>
-      <pubDate>Sun, 19 Apr 2026 08:04:42 +0000</pubDate>
+      <title>App Store に配布したアプリのみクラッシュした</title>
+      <link>https://zenn.dev/knee/articles/cecb8537dce4e3</link>
+      <description>はじめに
+ある日、App Store にリリースしたアプリが起動直後にクラッシュしているという報告が届きました。
+自分が所属しているiOSチームではリリース前にテストを徹底しているので、そんなはずはない!!と心のなかで思っていました。
+しかし、実際にAppStoreからインストールしてみると、起動直後にクラッシュしました。
+困惑しつつも、そのバージョンをTestFlightで社内メンバー向けに配布しましたが、再現しませんでした。
+同じコード、同じ Xcode 26.4、同じビルド設定なのに、なぜかApp Store 版だけが落ちます。
+結論から言えば、原因は Xcode 26.4（S... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knee/articles/cecb8537dce4e3</guid>
+      <pubDate>Tue, 21 Apr 2026 16:09:02 +0000</pubDate>
     </item>
     <item>
-      <title>AI時代にわざわざRuby on Railsを使う理由</title>
-      <link>https://zenn.dev/higakijin/articles/730a734b6b9009</link>
-      <description>こんにちは、フリーランスとして働いてるハルクです
-最近自分の会社を立ち上げたことで、「AI時代にフィットしたwebフレームワークとは何か」を考えるようになりました。
-私はRubyでコンピューターサイエンスの世界に入ってから、最近流行りのTypescript(Next.js, Nuxt.js)、Go、Rustなどを使ってサイドプロジェクトを立ち上げてきましたが、
-結局のところ、RubyやRuby on Railsが最も自分のユースケースにフィットすることがわかりました。
-そして、その評価は、AIコーディングが発達してきた2026年においても変わりません。
-今回は、私がなぜAI時代にRuby... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/higakijin/articles/730a734b6b9009</guid>
-      <pubDate>Sun, 19 Apr 2026 02:03:46 +0000</pubDate>
+      <title>Next.js を SSG 化しようとして、最終的に React SPA に落ち着いた理由</title>
+      <link>https://zenn.dev/ctag/articles/nextjs-ssg-to-react-spa-on-cloudflare</link>
+      <description>はじめに
+こんにちは。株式会社シータグで、自社サービスである BtoB 向けクラウド受発注サービス「受注ハック」の開発に携わっている ritsukei です。
+受注ハックのフロントエンドは、もともと Next.js を Amazon ECS Fargate 上でサーバーとして動かしていました。コストと運用負荷を見直す中で、最初に考えたのは「Next.js を残したまま SSG / static export に寄せる」ことです。
+ただ、検討を進めると問題は CDN やホスティングの選び方よりも、既存フロントエンドが持っている routing model そのものにあることが分かってき... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ctag/articles/nextjs-ssg-to-react-spa-on-cloudflare</guid>
+      <pubDate>Wed, 22 Apr 2026 09:05:34 +0000</pubDate>
     </item>
     <item>
-      <title>「いきなり作る」前に考えたいCI/CDパイプラインの設計と運用プラクティス</title>
-      <link>https://zenn.dev/acntechjp/articles/da229b919d512a</link>
-      <description>執筆者：Hajime Fujii
+      <title>C# 開発者のための GitHub Copilot CLI と VS Code Agent Mode の使い分け</title>
+      <link>https://zenn.dev/tomokusaba/articles/838cdac8d71e52</link>
+      <description>はじめに
+GitHub Copilot を日常的に使っていると、「ターミナルで動く Copilot CLI」 と 「VS Code の Copilot Chat Agent Mode」 という、似ているようで性格の異なる 2 つの選択肢が手元に揃ってきます。どちらも自然言語で指示を出すと、ファイルを読み書きし、コマンドを実行し、タスクを進めてくれる「エージェント」です。
+本記事は C# / .NET 開発者（ASP.NET Core、Blazor、コンソール、ライブラリなど）を想定読者にしています。実際に両方を C# プロジェクトで回してみると、得意な仕事の粒度が明確に違うことに気付... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tomokusaba/articles/838cdac8d71e52</guid>
+      <pubDate>Tue, 21 Apr 2026 11:10:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>ObsidianとClaude Codeで「育つ知識ベース」を作った話</title>
+      <link>https://zenn.dev/sochi/articles/1e851637841acc</link>
+      <description>はじめに
+生成AIに「先週調べたRAGの話を踏まえて」と打ち込んだとき、気づきました。先週の自分はここにいない、と。
+セッションが終われば、与えた情報も、引き出した考察も消える。次に同じ文脈を作るには、また同じ資料を貼り直す必要があります。
+Andrej Karpathyが公開した「LLM知識ベース」というパターンを見たとき、これだと思いました。Obsidian + Claude Codeで実装した仕組みと手順を紹介します。
 
- 前置き・記載背景
-昨今CI/CD実践に向けて既存の情報を調べてみると、具体的な実装例や構築手順、ツールの紹介は多くみられます。
-一方、CI/CDパイプラインを「構築・導入・運用」するプロセスをフレームワーク化したり、一定の設計手法まで踏み込んで考えたものはあまり多くないように思います。
-業務で、CI/CDパイプラインの構築に取り掛かる機会がありましたが、ともすればいきなり作ることから考えてしまい、そのせいで、後になって「あの時こう考えておけばよかったな」と感じたことがいくつもありました。
-本記事は、それらをプラクティス・設計手法の一例としてまとめてみ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/da229b919d512a</guid>
-      <pubDate>Mon, 20 Apr 2026 04:10:05 +0000</pubDate>
+ 生成AIの知識ベースに関する問題点
+「LLM知識ベース」が解決しようとしている問題は、生成AIの根本的な制約です。生成AIにファイルをアップロードして質問し... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sochi/articles/1e851637841acc</guid>
+      <pubDate>Mon, 20 Apr 2026 13:31:25 +0000</pubDate>
     </item>
     <item>
-      <title>言語化に苦しむ全ての人(エンジニア？)へ。今日から変わるコミュニケーション術補遺</title>
-      <link>https://zenn.dev/coconala/articles/9b1d05be257b90</link>
-      <description>「私たちがストーリーと呼んでいるものは、しばしば事件である」とはE.M.フォースター等のナラトロジー分野でよく言われることです。
-ココナラのDevOpsグループCREチームのy.s.（@inu_no_hou）です。
-言語化という言葉があまり好きではなく、日頃使わないようにしているのですが、その理由は概念の網の目が荒すぎて、多くの場合役に立たないからです。言葉とは一面においてツールであり、ツールが使いにくいならツールを変更するのが正当な手続きだと考えます(もちろん、ツール以外の側面もあるのが難しく面白いところである)。
-言語化能力を上げるぞとぬんと力んだところで大して成果が得られないのはそ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/coconala/articles/9b1d05be257b90</guid>
-      <pubDate>Mon, 20 Apr 2026 02:20:02 +0000</pubDate>
+      <title>MAGA支持者は「超バカ」インドの医学生、AIが生成した金髪女性のビキニ写真で荒稼ぎ</title>
+      <link>https://www.itmedia.co.jp/news/articles/2604/23/news067.html</link>
+      <description>トランプ米大統領が掲げる「MAGA（米国を再び偉大に）」を支持する男性の間で人気を博した金髪の女性インフルエンサー「エミリー・ハート」は実在せず、インドの医学生が生成AIで作った虚像だったことを、米誌WIREDが明らかにした。医学生は、SNSを介してビキニ写真を売り荒稼ぎ、購入者を「超バカ」と評したという。 医... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2604/23/news067.html</guid>
+      <pubDate>Thu, 23 Apr 2026 02:02:50 +0000</pubDate>
     </item>
     <item>
       <title>その生産性向上、現場が静かに支払っているコストの話</title>
@@ -90,6 +78,19 @@ Claude Code をはじめとする AI コーディング支援ツールの高度�
 この記事では... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/shintaroamaike/articles/69a7611880420d</guid>
       <pubDate>Tue, 21 Apr 2026 10:40:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>PMP（Project Management Professional）を取ろうとしている人に読んでほしい、PMPの話</title>
+      <link>https://zenn.dev/acntechjp/articles/8c99076b93d621</link>
+      <description>こんにちは
+アクセンチュア北海道オフィス所属の唐津です。
+1年ほど前にPMPを取得しました。取得して意味あったな～というのと、最近周りでPMPを取ろうとしている人がいるので、「攻略法」と「取得する意味」を改めて言語化しようと思った次第です。
+ただし具体の勉強法（この参考書が役にたった、こういう学習Cycleが良かった）とかは書いてないのであしからず。
+
+この記事は、これからPMPを取ろうとしている人たち、そしていま勉強中で「この量、本当に全部覚えるの…？」と手が止まりかけている人に向けて書いています。受験してから読む記事ではなく、受験準備のど真ん中で読んでほしい記事です。
+私自身、PMP... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/8c99076b93d621</guid>
+      <pubDate>Wed, 22 Apr 2026 16:39:07 +0000</pubDate>
     </item>
     <item>
       <title>AIにコーディングを全任せした結果、ドメイン設計に辿り着いた話</title>
@@ -108,34 +109,20 @@ AIコーディングを突き詰めると、人間が認知できる仕様の数
       <pubDate>Sun, 19 Apr 2026 23:00:07 +0000</pubDate>
     </item>
     <item>
-      <title>1日で作るサプライチェーン攻撃対策！運用死しないコスト「ほぼゼロ」の通信監視</title>
-      <link>https://zenn.dev/aeyesec/articles/32fb05ddd1c3f7</link>
-      <description>1. はじめに
-こんにちは！はるぷです！サプライチェーン攻撃の対策してますか？？
-最近、サプライチェーン攻撃の話題が出るたび、「うちのサービスは本当に大丈夫だろうか」と社内がざわつくことはありませんか。依存ライブラリの棚卸しやSBOM整備に取り組んでいても、入り口が多すぎて全体を把握するのは至難の業です。
-加えて、社内外から「サプライチェーン攻撃対策大丈夫ですよね？」と聞かれたとき、担当者として胸がキューっとなる辛い状態になりがちです。何かしらビシッと説明できるシステム的な一手が欲しい…。
-
-そこで今回は、 「万が一、侵入を許してしまった後の早期発見」 に特化した対策を紹介します。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aeyesec/articles/32fb05ddd1c3f7</guid>
-      <pubDate>Sun, 19 Apr 2026 23:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>AnthropicのMythosがFirefox 150で271件のセキュリティ脆弱性を発見、Mozillaは「防御側にとって朗報」</title>
-      <link>https://gigazine.net/news/20260422-anthropic-mythos-found-271-security-vulnerabilities-firefox/</link>
-      <description>Claudeの開発元であるAnthropicが、ソフトウェアの脆弱(ぜいじゃく)性を発見することに長けたAIの「Mythos」を開発しました。このMythosは悪用されれば非常に危険ということで、「Claude Mythos Preview」として一部の企業にのみ提供されています。そんなClaude Mythos Previewに参加しているMozillaが、最新のFirefox 1... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20260422-anthropic-mythos-found-271-security-vulnerabilities-firefox/</guid>
-      <pubDate>Wed, 22 Apr 2026 02:07:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI エージェント並列化で自分の脳が限界になったので Maestri を試した</title>
-      <link>https://zenn.dev/youjinfox/articles/bb3facc650adb1</link>
+      <title>テストがないコードへのテストの育て方</title>
+      <link>https://zenn.dev/takaaki/articles/growing-tests-for-untested-code</link>
       <description>はじめに
-AI コーディングエージェントの並列運用を始めて、すぐに気づいたことがある。ボトルネックはもう、コードを書く速度じゃない。自分の脳だ。
-Claude Code を 3 つ、4 つと同時に走らせる。それぞれが別々のタスクを猛烈な速度で片付けていく。でも、ふと顔を上げると——今どのターミナルが何をやっていて、どれが終わっていて、どれが詰まっているのかが、わからない。画面を切り替えるたびに文脈が飛び、戻ってくる頃には別のエージェントの出力がスクロールで流れている。
-AI 側の性能は上がり続けているのに、それを捌く側の私の認知が追いつかない。典型的な解は tmux だけど、Mac ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/youjinfox/articles/bb3facc650adb1</guid>
-      <pubDate>Sun, 19 Apr 2026 13:52:30 +0000</pubDate>
+ユニットテストが浸透してきています。それでも、テストがないプロダクトのコードをメンテナンスするケースもあります。そうすると絶望的な気持ちになることもあると思います。
+今回、そのようなコードにテストを追加するための道筋を示したいと思います。
+場合によっては年単位の長い時間が掛かる可能性がありますが、ステップ毎にだんだん不安が減っていくようにしてあります。最後のステップではリファクタリング済みのコードを示しています。
+仕様が不明なコードに絶望する必要がないと感じられたら嬉しいです。
+
+ サンプルコード
+本来、ここで想定しているのは次のようなコードです。
+
+500ステップを超える... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/takaaki/articles/growing-tests-for-untested-code</guid>
+      <pubDate>Tue, 21 Apr 2026 10:12:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

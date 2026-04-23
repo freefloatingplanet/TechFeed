@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Apr 2026 07:56:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 08:03:49 +0000</lastBuildDate>
     <item>
       <title>GitHub、最近のシステム障害を認め、スケーリングの課題とアーキテクチャ上の弱点を指摘</title>
       <link>https://www.infoq.com/news/2026/04/github-outages-scaling/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -18,14 +18,14 @@
     <item>
       <title>記事：銀行向けPDFテーブル抽出の再設計：Javaを用いた階層型アプローチ</title>
       <link>https://www.infoq.com/articles/redesign-pdf-table-extraction/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>PDFの表抽出は、本番環境で失敗するまでは簡単そうに見えます。実際の銀行取引明細書は、スキャンされたページ、レイアウトのずれ、結合されたセル、折り返された行など、標準的なJavaパーサーでは処理できない複雑な構造になっている場合があります。この記事では、ストリーム解析、ラティス/OCR、検証、スコアリング、選択的機械学習を用いて、実際の銀行システムにおける抽出の信頼性を高めるためのアプローチをどのように再設計したかを紹介します。執筆者：Mehuli Mukherjee (source: InfoQ)</description>
+      <description>PDFの表抽出は、本番環境で失敗するまでは簡単そうに見えることが多い。実際の銀行取引明細書は、スキャンされたページ、レイアウトのずれ、結合されたセル、折り返された行など、標準的なJavaパーサーでは処理できない複雑な構造になっている。この記事では、ストリーム解析、ラティス/OCR、検証、スコアリング、選択的機械学習を用いて、実際の銀行システムにおける抽出の信頼性を高めるためのアプローチをどのように再設計したかを紹介する。執筆者：Mehuli Mukherjee (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/articles/redesign-pdf-table-extraction/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Tue, 21 Apr 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>プレゼンテーション：ダイナミックな瞬間：DoorDashにおけるディープパーソナライゼーションへのLLMの組み込み</title>
       <link>https://www.infoq.com/presentations/llm-personalization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Sudeep Das氏とPradeep Muthukrishnan氏は、DoorDashにおける静的なマーチャンダイジングから動的で瞬間認識型のパーソナライゼーションへの移行について解説しています。彼らは、LLMが自然言語による「消費者プロファイル」とコンテンツ設計図を生成する一方で、従来のディープラーニングがラストマイルランキングを処理する仕組みを共有しています。このハイブリッドアプローチにより、プラットフォームは短命なユーザーの意図と膨大なカタログ量に対応できるようになります。Sudeep Das氏、Pradeep Muthukrishnan氏 (source: InfoQ)</description>
+      <description>Sudeep Das氏とPradeep Muthukrishnan氏は、DoorDashにおける静的なマーチャンダイジングから動的で瞬間認識型のパーソナライゼーションへの移行について解説しています。彼らは、LLMが自然言語による「消費者プロファイル」とコンテンツ設計図を生成する一方で、従来のディープラーニングがラストマイルランキングを処理する仕組みを共有しています。このハイブリッドアプローチにより、プラットフォームは短命なユーザーの意図と膨大なカタログ量に対応できるようになります。執筆：Sudeep Das氏、Pradeep Muthukrishnan氏 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/llm-personalization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Tue, 21 Apr 2026 10:35:00 +0000</pubDate>
     </item>
@@ -65,18 +65,18 @@
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：クラウドネイティブバンキングのためのイベント駆動型パターン - 何が効果的で、何が問題なのか？</title>
-      <link>https://www.infoq.com/presentations/patterns-payment-system/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>クリス・テイシー＝グリーンは、高度に規制された環境における同期コマンドから非同期イベントへの移行について論じています。彼は、データ損失を防ぐためのインボックスとアウトボックスパターンの重要な役割、イベントバージョニングのニュアンス、ドメイン間の疎結合を維持する方法について説明しています。また、フォールトトレランスの実装と結果整合性の管理に関する「実証済みの」原則も紹介しています。クリス・テイシー＝グリーン著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/patterns-payment-system/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 20 Apr 2026 11:20:00 +0000</pubDate>
+      <title>記事：クラウドリージョンが障害を起こしたとき：地政学的に不安定な世界における高可用性の再考</title>
+      <link>https://www.infoq.com/articles/sovereign-fault-domains-cloud-resilience/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>主権障害ドメインとは、ハードウェアのトポロジーではなく、法的、政治的、または物理的な管轄区域によって定義される障害境界のことです。この記事では、地政学的イベントを既知の分散システム障害モードにマッピングし、管轄区域をまたぐシステムのHAベースラインとしてマルチリージョンをマルチAZに置き換えるべきだと主張し、その費用を正当化するための設計パターン、カオス実験、およびALEモデルの概要を示します。執筆者：Rohan Vardhan (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/sovereign-fault-domains-cloud-resilience/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 22 Apr 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>記事：本番環境に対応したtRPC APIの構築：Apollo Federationに代わるTypeScriptの活用法</title>
-      <link>https://www.infoq.com/articles/building-trpc-api-typescript/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>この記事では、Apollo FederationからTypeScriptベースのtRPCスタックへの移行について詳しく説明します。この移行により、バグが89%削減され、応答時間が67%向上しました。また、移行中に犯したミス、予想外のパフォーマンス向上、そして現在、1日240万件のリクエストを99.97%の稼働率で処理するために使用している本番環境アーキテクチャの概要についても解説します。執筆者：Dinesh Kumar Elumalai (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/building-trpc-api-typescript/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 20 Apr 2026 11:00:00 +0000</pubDate>
+      <title>プレゼンテーション：パネルディスカッション：効果的な企業文化の構築</title>
+      <link>https://www.infoq.com/presentations/panel-positive-culture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>パネリストたちは、進化する企業文化に関する洞察を共有します。フィードバックループの活用、ソーシャルキャピタルの活用、そして従来の官僚主義とアジャイルエンジニアリングの間の摩擦について議論します。パネリストたちは、リモートチームの結束を維持する方法や、インタビューを活用して企業の真の「ありのままの」文化を明らかにする方法について解説します。執筆：Nicky Wrightson、Suhail Patel、Lesley Cordero、Matthew Card、Natan Žabkar Nordberg (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/panel-positive-culture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 22 Apr 2026 10:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

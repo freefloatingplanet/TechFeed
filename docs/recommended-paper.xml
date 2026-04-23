@@ -7,6 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Apr 2026 07:56:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 08:03:45 +0000</lastBuildDate>
+    <item>
+      <title>RoLegalGEC：ルーマニア語の法律分野における文法エラー検出・訂正データセット</title>
+      <link>https://arxiv.org/abs/2604.19593v2</link>
+      <description>法律文書における明確かつ正確な文章の重要性は言うまでもなく、したがって、法律専門家を支援することを目的とした文法エラー修正ツールは、法律環境における潜在的なエラーを理解し、それに応じて修正する能力を備えている必要があり、現実的な法律データを使用して同じ環境でトレーニングされる必要がある。しかし、このようなプロセスに必要な手動で注釈付けされたデータは、ルーマニア語のような言語では不足しており、ましてやニッチな分野ではなおさらである。最も一般的なアプローチは、並列データの合成生成であるが、これにはルーマニア語の文法の構造的な理解が必要となる。本稿では、法律分野における文法エラーの検出と修正のための、我々の知る限り初のルーマニア語並列データセットであるRoLegalGECを紹介する。RoLegalGECは、法律文書における35万件のエラー例とエラー注釈を集約したものである。さらに、知識蒸留型Transformer、検出用のシーケンスタグ付けアーキテクチャ、および修正用の様々な事前学習済みテキスト間Transformerモデルなど、データセットを文法エラーの検出と修正の両方に役立つツールに変換 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.19593v2</guid>
+      <pubDate>Tue, 21 Apr 2026 15:43:33 +0000</pubDate>
+    </item>
   </channel>
 </rss>
