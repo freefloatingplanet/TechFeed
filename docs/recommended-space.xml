@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 08:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 08:11:08 +0000</lastBuildDate>
     <item>
       <title>ブルー・オリジンが「ニューグレン」3号機を打ち上げ　衛星の予定軌道投入に失敗</title>
       <link>https://sorae.info/ssn/20260420-new-glenn-ng-3.html</link>
@@ -44,18 +44,18 @@
       <pubDate>Tue, 21 Apr 2026 08:29:15 +0000</pubDate>
     </item>
     <item>
+      <title>NASAが「アルテミスII」ミッションで撮影された“地球の入り”動画をシェア</title>
+      <link>https://sorae.info/space/20260423-artemis-ii-earthset-movie.html</link>
+      <description>まずは、こちらの動画をご覧ください。月の向こう側へ沈んでいく、三日月形に輝く地球。実際に月の周辺へ行かないと見ることができない、今はまだ限られた人だけが直接目にすることのできる光景です。 【▲ NASAのReid Wis… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260423-artemis-ii-earthset-movie.html</guid>
+      <pubDate>Thu, 23 Apr 2026 12:24:32 +0000</pubDate>
+    </item>
+    <item>
       <title>「パラメトリック保険」は衛星利用ビジネスの注目ワードに。地球のあらゆる動きを指標化できる衛星データ×保険の未来</title>
       <link>https://sorabatake.jp/45652/</link>
       <description>衛星データで災害や積雪、船舶数まで指標化し、査定不要で即時の保険金支払いができる？衛星データを利活用が期待される「パラメトリック保険」の仕組みと可能性を、国内外の事例と合わせて解説します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45652/</guid>
       <pubDate>Mon, 13 Apr 2026 23:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>SpaceX、宇宙向けAIチップを自社製造へ。Tesla・xAIと1テラワット規模の「TERAFAB」発表【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/45536/</link>
-      <description>AIチップの供給不足を背景に、イーロン・マスク氏率いる3社が半導体の自社製造に乗り出します。生産の8割以上が宇宙向けで、ロケット・衛星・通信に続く新たな競争軸が見えてきました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45536/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:06:51 +0000</pubDate>
     </item>
     <item>
       <title>タランチュラ星雲が輝く天空へ向けて照射された4本のレーザービーム　ESOの天文台で撮影</title>
@@ -65,11 +65,11 @@
       <pubDate>Mon, 20 Apr 2026 12:10:24 +0000</pubDate>
     </item>
     <item>
-      <title>木星と土星にそれぞれ18個の衛星が新たに追加　木星の総衛星数は100個の大台を突破</title>
-      <link>https://sorae.info/astronomy/20260416-jupiter-saturn-satellites.html</link>
-      <description>太陽系の巨大惑星である「木星」と「土星」は、多数の衛星を従えています。その総数は、直径数百m以上のものに限定しても数百個あると言われています。 太陽系の小天体の発見報告を管轄する「小惑星センター（MPC）」は、2026年… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260416-jupiter-saturn-satellites.html</guid>
-      <pubDate>Thu, 16 Apr 2026 12:44:49 +0000</pubDate>
+      <title>「数回の打上げで市場は一気に拡大するだろう」ElevationSpace、Redwireが提携。バイオ医薬品技術を自社プラットフォームに統合へ【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/45700/</link>
+      <description>衛星内で実験などができる小型宇宙機を開発するElevationSpaceは米国のRedwire Corporationとの締結を発表しました。その提携内容と、RedwireがElevationSpaceに期待することについて、直接お話を伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45700/</guid>
+      <pubDate>Thu, 23 Apr 2026 23:21:33 +0000</pubDate>
     </item>
     <item>
       <title>GOSATプラグインを使って、温室効果ガスのデータをQGISで可視化しよう【後編】</title>

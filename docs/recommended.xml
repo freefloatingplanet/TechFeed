@@ -7,13 +7,40 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 08:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 08:11:04 +0000</lastBuildDate>
     <item>
-      <title>接合面で不確実性を下げ、効率性を上げる ── 私のVPoEとしての仕事 - 株式会社ヘンリー エンジニアブログ</title>
-      <link>https://dev.henry.jp/entry/2026/04/23/111130</link>
-      <description>こんにちは、ヘンリーの山口です。2026年4月にVPoEに就任しました。 年末にVPoEの打診を受けてから就任までの数ヶ月、「VPoEとして自分は何をやる人なのか」を探していました。一般的にイメージされるVPoEの仕事と、自分が実際にやり始めた仕事がどうにも噛み合わなかったからです。ようやく自分なりの答えに辿り着いた... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://dev.henry.jp/entry/2026/04/23/111130</guid>
-      <pubDate>Thu, 23 Apr 2026 02:14:28 +0000</pubDate>
+      <title>【DaVinci Resolve】マクロをスクリプトで生成する</title>
+      <link>https://zenn.dev/hitsugi_yukana/articles/dvr_create_macro</link>
+      <description>!
+本記事の内容は DaVinci Resolve のマクロの作成・編集の仕方をある程度理解している人向けです。
+
+
+ まえがき
+こんにちは。火注ゆかなです。
+今回の解説は Fusion マクロをスクリプトから生成する方法についてです。
+マクロは複数のノードをまとめた特殊なノードです。よく使う処理ノードを一つにまとめて、操作が必要なコントロールだけ表示することで使い勝手を良くします。
+作成されたマクロは.settingという拡張子でファイル出力され、テキストエディタで開いて編集することもできます。
+詳しいことについてはセカイルさんが解説記事を複数投稿されていますので、そちらを参照すること... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hitsugi_yukana/articles/dvr_create_macro</guid>
+      <pubDate>Thu, 23 Apr 2026 05:40:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>改善要望開発ワークフローをClaude Codeで構築する 〜Agentic Workflow実践事例〜</title>
+      <link>https://zenn.dev/masarufuruya/articles/9e277188780755</link>
+      <description>弊社で取り組んでいる改善要望開発のAIワークフロー化の取り組みをスライド資料にしたので、その内容をzenn用に整理した。
+人のレビュー無しでマージをしているよ！というキラキラしたAI活用事例というより、Agentic Workflowの考え方で泥臭くワークフローの解像度をチーム一体で高めるための取り組みの話。
+
+ AI活用のモチベーション
+
+属人化を解消し、人に依存した開発体制から脱却したい
+
+業務の流れ・手順を全てプロンプトで表し、品質改善を「人ではなくプロンプト」で行えるようにしたい
+重要だが緊急度が低く後回しにされがちな業務をAI効率化し、対応が回るようにしたい
+
+
+人に依存せず、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/masarufuruya/articles/9e277188780755</guid>
+      <pubDate>Thu, 23 Apr 2026 00:56:39 +0000</pubDate>
     </item>
     <item>
       <title>App Store に配布したアプリのみクラッシュした</title>
@@ -39,33 +66,39 @@
       <pubDate>Wed, 22 Apr 2026 09:05:34 +0000</pubDate>
     </item>
     <item>
-      <title>C# 開発者のための GitHub Copilot CLI と VS Code Agent Mode の使い分け</title>
-      <link>https://zenn.dev/tomokusaba/articles/838cdac8d71e52</link>
-      <description>はじめに
-GitHub Copilot を日常的に使っていると、「ターミナルで動く Copilot CLI」 と 「VS Code の Copilot Chat Agent Mode」 という、似ているようで性格の異なる 2 つの選択肢が手元に揃ってきます。どちらも自然言語で指示を出すと、ファイルを読み書きし、コマンドを実行し、タスクを進めてくれる「エージェント」です。
-本記事は C# / .NET 開発者（ASP.NET Core、Blazor、コンソール、ライブラリなど）を想定読者にしています。実際に両方を C# プロジェクトで回してみると、得意な仕事の粒度が明確に違うことに気付... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tomokusaba/articles/838cdac8d71e52</guid>
-      <pubDate>Tue, 21 Apr 2026 11:10:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>ObsidianとClaude Codeで「育つ知識ベース」を作った話</title>
-      <link>https://zenn.dev/sochi/articles/1e851637841acc</link>
-      <description>はじめに
-生成AIに「先週調べたRAGの話を踏まえて」と打ち込んだとき、気づきました。先週の自分はここにいない、と。
-セッションが終われば、与えた情報も、引き出した考察も消える。次に同じ文脈を作るには、また同じ資料を貼り直す必要があります。
-Andrej Karpathyが公開した「LLM知識ベース」というパターンを見たとき、これだと思いました。Obsidian + Claude Codeで実装した仕組みと手順を紹介します。
+      <title>Next.js (Turbopack) のバンドルサイズを元の半分まで削減した話</title>
+      <link>https://zenn.dev/aldagram_tech/articles/nextjs-bundle-size-reduction</link>
+      <description>こんにちは！アルダグラムでエンジニアをしている今町です。
+今回は、弊社で運用している Next.js 製の Web アプリケーションの バンドルサイズを元の半分まで削減した話 を書いていきます。
+単に「サイズが減って嬉しい」だけじゃなくて、どのページを開いても巨大な共通チャンクが必ずロードされる という構造的な問題を抱えていたので、そこを解きほぐしていく過程を書き残しておきます。Turbopack / webpack を問わず、Next.js をある程度の規模で運用している現場なら、どこかで一度は踏む地雷だと思うので、参考になれば幸いです。
 
- 生成AIの知識ベースに関する問題点
-「LLM知識ベース」が解決しようとしている問題は、生成AIの根本的な制約です。生成AIにファイルをアップロードして質問し... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sochi/articles/1e851637841acc</guid>
-      <pubDate>Mon, 20 Apr 2026 13:31:25 +0000</pubDate>
+ 背景：バンドルがクソデカすぎる問題 🔥
+対... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aldagram_tech/articles/nextjs-bundle-size-reduction</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:13 +0000</pubDate>
     </item>
     <item>
-      <title>MAGA支持者は「超バカ」インドの医学生、AIが生成した金髪女性のビキニ写真で荒稼ぎ</title>
-      <link>https://www.itmedia.co.jp/news/articles/2604/23/news067.html</link>
-      <description>トランプ米大統領が掲げる「MAGA（米国を再び偉大に）」を支持する男性の間で人気を博した金髪の女性インフルエンサー「エミリー・ハート」は実在せず、インドの医学生が生成AIで作った虚像だったことを、米誌WIREDが明らかにした。医学生は、SNSを介してビキニ写真を売り荒稼ぎ、購入者を「超バカ」と評したという。 医... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2604/23/news067.html</guid>
-      <pubDate>Thu, 23 Apr 2026 02:02:50 +0000</pubDate>
+      <title>現地速報！ RubyKaigi 2026 Day2</title>
+      <link>https://zenn.dev/bloomo_tech/articles/057ab51d2e270a</link>
+      <description>ブルーモ証券でエンジニアをしている才記です。
+RubyKaigi 2日目が無事終わりましたね。
+今日の発表は全体的になかなかヘビーでどっと疲れた感じがありますが、皆様はいかがでしょうか？
+完全に私事ですが、今日初めてラッキーピエロのハンバーガーを食べました。チャイニーズチキン。美味しかったです。
+
+という訳で（？）今日も昨日と同じく、私が聴いたセッションの中で印象に残ったものについて速報的にまとめました。
+
+ No Types Needed, Just Callable Method Check
+
+型は要らないのではないかというタイトルからかなり気になっていた @dak2 さんの発表。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/bloomo_tech/articles/057ab51d2e270a</guid>
+      <pubDate>Thu, 23 Apr 2026 09:01:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>271個のバグを潰してからリリース、アンソロピックのMythosとFirefox 150が示したAI時代のサイバーセキュリティ対応 【生成AI事件簿】「リリース前にAIで潰す」が防御側の新標準に、攻撃者優位のサイバーセキュリティの構造が変わるか？ | JBpress (ジェイビープレス)</title>
+      <link>https://jbpress.ismedia.jp/articles/-/94496</link>
+      <description>2026年4月21日にリリースされたFirefox 150は、サイバーセキュリティの歴史において、記念碑的な存在となるかもしれない。このウェブブラウザは、271件もの脆弱性を事前に修正してから世に出たのである。それだけバグが多い問題作だったと言いたいのではない。先日発表され、この連載でも何度か取り上げている、米Anthro... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://jbpress.ismedia.jp/articles/-/94496</guid>
+      <pubDate>Thu, 23 Apr 2026 22:24:53 +0000</pubDate>
     </item>
     <item>
       <title>その生産性向上、現場が静かに支払っているコストの話</title>
@@ -78,35 +111,6 @@ Claude Code をはじめとする AI コーディング支援ツールの高度�
 この記事では... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/shintaroamaike/articles/69a7611880420d</guid>
       <pubDate>Tue, 21 Apr 2026 10:40:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>PMP（Project Management Professional）を取ろうとしている人に読んでほしい、PMPの話</title>
-      <link>https://zenn.dev/acntechjp/articles/8c99076b93d621</link>
-      <description>こんにちは
-アクセンチュア北海道オフィス所属の唐津です。
-1年ほど前にPMPを取得しました。取得して意味あったな～というのと、最近周りでPMPを取ろうとしている人がいるので、「攻略法」と「取得する意味」を改めて言語化しようと思った次第です。
-ただし具体の勉強法（この参考書が役にたった、こういう学習Cycleが良かった）とかは書いてないのであしからず。
-
-この記事は、これからPMPを取ろうとしている人たち、そしていま勉強中で「この量、本当に全部覚えるの…？」と手が止まりかけている人に向けて書いています。受験してから読む記事ではなく、受験準備のど真ん中で読んでほしい記事です。
-私自身、PMP... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/8c99076b93d621</guid>
-      <pubDate>Wed, 22 Apr 2026 16:39:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIにコーディングを全任せした結果、ドメイン設計に辿り着いた話</title>
-      <link>https://zenn.dev/tan_go238/articles/002437e923913c</link>
-      <description>はじめに：AIで無双できると思っていた時期がありました
-最近、AIを使ったコーディングがすっかり当たり前になってきました。
-AIに指示を出せばコードが組み上がり、開発効率が飛躍的に上がると感じています。
-私自身も、要件定義から実装まで一気通貫でAIに任せる開発スタイルを試してきた結論を先にお伝えします。
-!
-AIコーディングを突き詰めると、人間が認知できる仕様の数というボトルネックに辿り着き、「ドメイン設計」と「分散システム」に取り組み始める
-
-本記事では、AI開発における「順調だったフェーズ」と「崩壊したフェーズ」、そしてそこから導き出した解決策について、順を追って整理します。
-
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tan_go238/articles/002437e923913c</guid>
-      <pubDate>Sun, 19 Apr 2026 23:00:07 +0000</pubDate>
     </item>
     <item>
       <title>テストがないコードへのテストの育て方</title>
@@ -123,6 +127,18 @@ AIコーディングを突き詰めると、人間が認知できる仕様の数
 500ステップを超える... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/takaaki/articles/growing-tests-for-untested-code</guid>
       <pubDate>Tue, 21 Apr 2026 10:12:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>新人研修レビュー170件をどう割振る？数理最適化で全員の希望と公平性を両立した記録</title>
+      <link>https://zenn.dev/amplify/articles/23d943450f59f0</link>
+      <description>はじめに
+新年度が始まり、弊社 Fixstars Amplify でも新しいメンバーを迎えました。グループ合同で行う新人研修では 17 名の新人が 10 題のコーディング課題に取り組みます。彼らの書いたコードは総勢 68 名の先輩レビュアが分担してレビューし、品質についての考え方やコーディング文化を伝えます。
+昨年度までの新人研修では、レビュー担当者割り当てについて、次のような問題が発生しており、一部の参加者から不満の声が上がっていました。
+
+レビュア各々の得意分野が考慮されておらず、レビュアが本領を発揮できなかった。
+特定の新人にコメント数の少ないレビュアばかり割り当たってしまい、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/amplify/articles/23d943450f59f0</guid>
+      <pubDate>Wed, 22 Apr 2026 07:56:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

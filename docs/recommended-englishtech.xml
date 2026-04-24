@@ -7,27 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Apr 2026 08:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 08:11:22 +0000</lastBuildDate>
     <item>
-      <title>GitHub、最近のシステム障害を認め、スケーリングの課題とアーキテクチャ上の弱点を指摘</title>
-      <link>https://www.infoq.com/news/2026/04/github-outages-scaling/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>GitHubは、プラットフォーム全体でサービスを中断させた一連の可用性およびパフォーマンスの問題について公式に説明し、これらの問題は急速な成長、アーキテクチャの結合、およびシステム負荷処理の限界に起因するとしている。クレイグ・リシ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/github-outages-scaling/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
+      <title>子ども向けソーシャルメディアを禁止しようとしている国々は以下の通りです。</title>
+      <link>https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/</link>
+      <description>オーストラリアは2025年後半に、ソーシャルメディア上で若年層が直面する可能性のあるプレッシャーやリスク（サイバーいじめ、ソーシャルメディア依存症、捕食者への接触など）を軽減することを目的として、世界で初めてソーシャルメディアの利用を禁止した国である。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/</guid>
+      <pubDate>Thu, 23 Apr 2026 21:33:51 +0000</pubDate>
     </item>
     <item>
-      <title>記事：銀行向けPDFテーブル抽出の再設計：Javaを用いた階層型アプローチ</title>
-      <link>https://www.infoq.com/articles/redesign-pdf-table-extraction/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>PDFの表抽出は、本番環境で失敗するまでは簡単そうに見えることが多い。実際の銀行取引明細書は、スキャンされたページ、レイアウトのずれ、結合されたセル、折り返された行など、標準的なJavaパーサーでは処理できない複雑な構造になっている。この記事では、ストリーム解析、ラティス/OCR、検証、スコアリング、選択的機械学習を用いて、実際の銀行システムにおける抽出の信頼性を高めるためのアプローチをどのように再設計したかを紹介する。執筆者：Mehuli Mukherjee (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/redesign-pdf-table-extraction/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 21 Apr 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>プレゼンテーション：ダイナミックな瞬間：DoorDashにおけるディープパーソナライゼーションへのLLMの組み込み</title>
-      <link>https://www.infoq.com/presentations/llm-personalization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Sudeep Das氏とPradeep Muthukrishnan氏は、DoorDashにおける静的なマーチャンダイジングから動的で瞬間認識型のパーソナライゼーションへの移行について解説しています。彼らは、LLMが自然言語による「消費者プロファイル」とコンテンツ設計図を生成する一方で、従来のディープラーニングがラストマイルランキングを処理する仕組みを共有しています。このハイブリッドアプローチにより、プラットフォームは短命なユーザーの意図と膨大なカタログ量に対応できるようになります。執筆：Sudeep Das氏、Pradeep Muthukrishnan氏 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/llm-personalization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 21 Apr 2026 10:35:00 +0000</pubDate>
+      <title>可観測性とテレメトリがソフトウェアエンジニアリングの実践をどのように強化できるか</title>
+      <link>https://www.infoq.com/news/2026/04/observability-telemetry/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>可観測性は、サーバーレスでイベント駆動型のアーキテクチャに合わせて進化する必要があります。OpenTelemetryはテレメトリをベンダーから切り離し、開発者が実際のシステム動作を説明する一貫性のある高品質なデータを出力できるようにします。共通の語彙と優れたテレメトリは、デバッグを迅速化し、信頼性、速度、開発者の生産性を向上させます。ベン・リンダース著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/observability-telemetry/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 23 Apr 2026 11:04:00 +0000</pubDate>
     </item>
     <item>
       <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>
@@ -44,18 +37,18 @@
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>プレゼンテーション：クラウドにおけるサブミリ秒の応答時間と24時間365日の稼働時間を実現する取引所の構築方法</title>
+      <link>https://www.infoq.com/presentations/exchange-systems-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Frank Yu氏は、Coinbaseが堅牢で公平かつ高速な金融取引所を構築するためのエンジニアリング哲学について語ります。彼は、シングルスレッドアーキテクチャとRaftコンセンサスアルゴリズムを組み合わせることで、24時間365日の可用性を維持できる理由を説明します。また、決定論によってダウンタイムゼロのローリングデプロイメントが可能になり、本番ログを再生してバグを完全に再現できる仕組みについても解説します。 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/exchange-systems-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 23 Apr 2026 09:29:00 +0000</pubDate>
+    </item>
+    <item>
       <title>DPoP（RFC 9449）解説：送信者制約付きOAuthトークンがトークン盗難をいかに無害なものにするか</title>
       <link>https://workos.com/blog/dpop-rfc-9449-explained</link>
       <description>エンジニア向けRFC 9449の実践的な解説：JWTの証明、サーバー発行のnonce、ブラウザでの鍵の保存、そしてDPoPがmTLSとどのように関連しているか。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/dpop-rfc-9449-explained</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pretext.jsはDOMレイアウトのリフローを回避し、120FPSで高度なUXパターンを実現します。</title>
-      <link>https://www.infoq.com/news/2026/04/pretext-js-120fps-text-layout/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>MidjourneyのエンジニアであるCheng Lou氏は最近、Pretextという15KBのオープンソースTypeScriptライブラリをリリースしました。Pretextはブラウザのレイアウトリフローなしでテキストを計測・レイアウトし、無限リスト、メイソンリーレイアウト、スクロール位置アンカーなどの高度なUX/UIパターンを60～120fpsで実行できるようにします。Pretextは、DOMのレイアウト計算をリバースエンジニアリングするAIループを使用して構築されました。Bruno Couriol著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/pretext-js-120fps-text-layout/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 20 Apr 2026 12:59:00 +0000</pubDate>
     </item>
     <item>
       <title>開発者向けCLI認証ガイド</title>
@@ -72,9 +65,16 @@
       <pubDate>Wed, 22 Apr 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>HashiCorp Vault 2.0は、新しいIDフェデレーション機能によりIBMライフサイクルへの移行を示す</title>
+      <link>https://www.infoq.com/news/2026/04/vault-2-0-ibm-identity/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>HashiCorpは、買収に伴いIBMのバージョン管理およびサポートモデルに移行し、Vault 2.0をリリースしました。今回のアップデートでは、静的認証情報なしでシークレット同期を実現するワークロードIDフェデレーション、SCIM 2.0プロビジョニング、ストレージエンジンのパフォーマンス向上などが導入されています。また、IDベースのセキュリティと証明書の自動化を優先しつつ、従来のアーキテクチャコンポーネントを削除しています。 執筆：Mark Silvester (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/vault-2-0-ibm-identity/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 24 Apr 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>プレゼンテーション：パネルディスカッション：効果的な企業文化の構築</title>
       <link>https://www.infoq.com/presentations/panel-positive-culture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>パネリストたちは、進化する企業文化に関する洞察を共有します。フィードバックループの活用、ソーシャルキャピタルの活用、そして従来の官僚主義とアジャイルエンジニアリングの間の摩擦について議論します。パネリストたちは、リモートチームの結束を維持する方法や、インタビューを活用して企業の真の「ありのままの」文化を明らかにする方法について解説します。執筆：Nicky Wrightson、Suhail Patel、Lesley Cordero、Matthew Card、Natan Žabkar Nordberg (source: InfoQ)</description>
+      <description>パネリストたちは、進化する企業文化に関する洞察を共有します。フィードバックループの活用、ソーシャルキャピタルの活用、そして従来の官僚主義とアジャイルエンジニアリングの間の摩擦について議論します。パネリストたちは、リモートチームの結束を維持する方法や、インタビューを活用して企業の真の「ありのままの」文化を明らかにする方法について解説します。執筆：ニッキー・ライトソン、スハイル・パテル、レスリー・コルデロ、マシュー・カード、ナタン・ザブカー・ノードバーグ (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/panel-positive-culture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 22 Apr 2026 10:10:00 +0000</pubDate>
     </item>
