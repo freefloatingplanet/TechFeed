@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 24 Apr 2026 08:11:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 07:24:39 +0000</lastBuildDate>
     <item>
-      <title>子ども向けソーシャルメディアを禁止しようとしている国々は以下の通りです。</title>
-      <link>https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/</link>
-      <description>オーストラリアは2025年後半に、ソーシャルメディア上で若年層が直面する可能性のあるプレッシャーやリスク（サイバーいじめ、ソーシャルメディア依存症、捕食者への接触など）を軽減することを目的として、世界で初めてソーシャルメディアの利用を禁止した国である。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/</guid>
-      <pubDate>Thu, 23 Apr 2026 21:33:51 +0000</pubDate>
+      <title>React Navigation 8.0 Alpha、ネイティブボトムタブ、再設計されたTypeScript推論、および履歴機能を搭載</title>
+      <link>https://www.infoq.com/news/2026/04/react-navigation-8-alpha/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>React Navigationは、React NativeおよびWebアプリケーション向けのルーティングライブラリをアップデートしたバージョン8.0（アルファ版）をリリースしました。主な変更点としては、ネイティブのボトムタブがデフォルトになったこと、TypeScriptの推論機能が強化されたこと、ディープリンクがデフォルトで有効になったことなどが挙げられます。今回のアップデートでは安定性が最優先されており、バージョン7.xからの移行ガイドも含まれています。執筆：Daniel Curtis (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/react-navigation-8-alpha/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 23 Apr 2026 15:36:00 +0000</pubDate>
     </item>
     <item>
       <title>可観測性とテレメトリがソフトウェアエンジニアリングの実践をどのように強化できるか</title>
@@ -30,18 +30,18 @@
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>中間者攻撃：多要素認証を無効にする脅威</title>
-      <link>https://workos.com/blog/adversary-in-the-middle-attacks</link>
-      <description>ユーザーが多要素認証を有効にし、強力なパスワードを使用し、推奨するすべてのセキュリティ対策を遵守しているとしても、攻撃者がユーザーとログインページの間に潜り込み、リアルタイムでトラフィックを中継して有効なセッションクッキーを持ち去ってしまうとしたら、それらはすべて無意味です。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/adversary-in-the-middle-attacks</guid>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>プレゼンテーション：クラウドにおけるサブミリ秒の応答時間と24時間365日の稼働時間を実現する取引所の構築方法</title>
       <link>https://www.infoq.com/presentations/exchange-systems-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>Frank Yu氏は、Coinbaseが堅牢で公平かつ高速な金融取引所を構築するためのエンジニアリング哲学について語ります。彼は、シングルスレッドアーキテクチャとRaftコンセンサスアルゴリズムを組み合わせることで、24時間365日の可用性を維持できる理由を説明します。また、決定論によってダウンタイムゼロのローリングデプロイメントが可能になり、本番ログを再生してバグを完全に再現できる仕組みについても解説します。 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/exchange-systems-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 23 Apr 2026 09:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中間者攻撃：多要素認証を無効にする脅威</title>
+      <link>https://workos.com/blog/adversary-in-the-middle-attacks</link>
+      <description>ユーザーが多要素認証を有効にし、強力なパスワードを使用し、推奨するすべてのセキュリティ対策を遵守しているとしても、攻撃者がユーザーとログインページの間に潜り込み、リアルタイムでトラフィックを中継して有効なセッションクッキーを持ち去ってしまうとしたら、それらはすべて無意味です。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/adversary-in-the-middle-attacks</guid>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DPoP（RFC 9449）解説：送信者制約付きOAuthトークンがトークン盗難をいかに無害なものにするか</title>
@@ -51,18 +51,18 @@
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>開発者向けCLI認証ガイド</title>
-      <link>https://workos.com/blog/cli-authentication-guide</link>
-      <description>APIキー、トークンファイル、OAuthデバイスフロー、クライアント認証情報を比較。CLIに最適な認証パターンを選択するための実践的なガイド。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/cli-authentication-guide</guid>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>記事：クラウドリージョンが障害を起こしたとき：地政学的に不安定な世界における高可用性の再考</title>
       <link>https://www.infoq.com/articles/sovereign-fault-domains-cloud-resilience/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>主権障害ドメインとは、ハードウェアのトポロジーではなく、法的、政治的、または物理的な管轄区域によって定義される障害境界のことです。この記事では、地政学的イベントを既知の分散システム障害モードにマッピングし、管轄区域をまたぐシステムのHAベースラインとしてマルチリージョンをマルチAZに置き換えるべきだと主張し、その費用を正当化するための設計パターン、カオス実験、およびALEモデルの概要を示します。執筆者：Rohan Vardhan (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/articles/sovereign-fault-domains-cloud-resilience/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 22 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>開発者向けCLI認証ガイド</title>
+      <link>https://workos.com/blog/cli-authentication-guide</link>
+      <description>APIキー、トークンファイル、OAuthデバイスフロー、クライアント認証情報を比較。CLIに最適な認証パターンを選択するための実践的なガイド。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/cli-authentication-guide</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>HashiCorp Vault 2.0は、新しいIDフェデレーション機能によりIBMライフサイクルへの移行を示す</title>
@@ -72,7 +72,7 @@
       <pubDate>Fri, 24 Apr 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：パネルディスカッション：効果的な企業文化の構築</title>
+      <title>プレゼンテーション：パネルディスカッション：機能する文化の構築</title>
       <link>https://www.infoq.com/presentations/panel-positive-culture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>パネリストたちは、進化する企業文化に関する洞察を共有します。フィードバックループの活用、ソーシャルキャピタルの活用、そして従来の官僚主義とアジャイルエンジニアリングの間の摩擦について議論します。パネリストたちは、リモートチームの結束を維持する方法や、インタビューを活用して企業の真の「ありのままの」文化を明らかにする方法について解説します。執筆：ニッキー・ライトソン、スハイル・パテル、レスリー・コルデロ、マシュー・カード、ナタン・ザブカー・ノードバーグ (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/panel-positive-culture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>

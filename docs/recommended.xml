@@ -7,64 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2026 08:11:04 +0000</lastBuildDate>
-    <item>
-      <title>【DaVinci Resolve】マクロをスクリプトで生成する</title>
-      <link>https://zenn.dev/hitsugi_yukana/articles/dvr_create_macro</link>
-      <description>!
-本記事の内容は DaVinci Resolve のマクロの作成・編集の仕方をある程度理解している人向けです。
-
-
- まえがき
-こんにちは。火注ゆかなです。
-今回の解説は Fusion マクロをスクリプトから生成する方法についてです。
-マクロは複数のノードをまとめた特殊なノードです。よく使う処理ノードを一つにまとめて、操作が必要なコントロールだけ表示することで使い勝手を良くします。
-作成されたマクロは.settingという拡張子でファイル出力され、テキストエディタで開いて編集することもできます。
-詳しいことについてはセカイルさんが解説記事を複数投稿されていますので、そちらを参照すること... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hitsugi_yukana/articles/dvr_create_macro</guid>
-      <pubDate>Thu, 23 Apr 2026 05:40:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>改善要望開発ワークフローをClaude Codeで構築する 〜Agentic Workflow実践事例〜</title>
-      <link>https://zenn.dev/masarufuruya/articles/9e277188780755</link>
-      <description>弊社で取り組んでいる改善要望開発のAIワークフロー化の取り組みをスライド資料にしたので、その内容をzenn用に整理した。
-人のレビュー無しでマージをしているよ！というキラキラしたAI活用事例というより、Agentic Workflowの考え方で泥臭くワークフローの解像度をチーム一体で高めるための取り組みの話。
-
- AI活用のモチベーション
-
-属人化を解消し、人に依存した開発体制から脱却したい
-
-業務の流れ・手順を全てプロンプトで表し、品質改善を「人ではなくプロンプト」で行えるようにしたい
-重要だが緊急度が低く後回しにされがちな業務をAI効率化し、対応が回るようにしたい
-
-
-人に依存せず、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/masarufuruya/articles/9e277188780755</guid>
-      <pubDate>Thu, 23 Apr 2026 00:56:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>App Store に配布したアプリのみクラッシュした</title>
-      <link>https://zenn.dev/knee/articles/cecb8537dce4e3</link>
-      <description>はじめに
-ある日、App Store にリリースしたアプリが起動直後にクラッシュしているという報告が届きました。
-自分が所属しているiOSチームではリリース前にテストを徹底しているので、そんなはずはない!!と心のなかで思っていました。
-しかし、実際にAppStoreからインストールしてみると、起動直後にクラッシュしました。
-困惑しつつも、そのバージョンをTestFlightで社内メンバー向けに配布しましたが、再現しませんでした。
-同じコード、同じ Xcode 26.4、同じビルド設定なのに、なぜかApp Store 版だけが落ちます。
-結論から言えば、原因は Xcode 26.4（S... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knee/articles/cecb8537dce4e3</guid>
-      <pubDate>Tue, 21 Apr 2026 16:09:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next.js を SSG 化しようとして、最終的に React SPA に落ち着いた理由</title>
-      <link>https://zenn.dev/ctag/articles/nextjs-ssg-to-react-spa-on-cloudflare</link>
-      <description>はじめに
-こんにちは。株式会社シータグで、自社サービスである BtoB 向けクラウド受発注サービス「受注ハック」の開発に携わっている ritsukei です。
-受注ハックのフロントエンドは、もともと Next.js を Amazon ECS Fargate 上でサーバーとして動かしていました。コストと運用負荷を見直す中で、最初に考えたのは「Next.js を残したまま SSG / static export に寄せる」ことです。
-ただ、検討を進めると問題は CDN やホスティングの選び方よりも、既存フロントエンドが持っている routing model そのものにあることが分かってき... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ctag/articles/nextjs-ssg-to-react-spa-on-cloudflare</guid>
-      <pubDate>Wed, 22 Apr 2026 09:05:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Apr 2026 07:24:29 +0000</lastBuildDate>
     <item>
       <title>Next.js (Turbopack) のバンドルサイズを元の半分まで削減した話</title>
       <link>https://zenn.dev/aldagram_tech/articles/nextjs-bundle-size-reduction</link>
@@ -78,67 +21,108 @@
       <pubDate>Thu, 23 Apr 2026 00:00:13 +0000</pubDate>
     </item>
     <item>
-      <title>現地速報！ RubyKaigi 2026 Day2</title>
-      <link>https://zenn.dev/bloomo_tech/articles/057ab51d2e270a</link>
-      <description>ブルーモ証券でエンジニアをしている才記です。
-RubyKaigi 2日目が無事終わりましたね。
-今日の発表は全体的になかなかヘビーでどっと疲れた感じがありますが、皆様はいかがでしょうか？
-完全に私事ですが、今日初めてラッキーピエロのハンバーガーを食べました。チャイニーズチキン。美味しかったです。
-
-という訳で（？）今日も昨日と同じく、私が聴いたセッションの中で印象に残ったものについて速報的にまとめました。
-
- No Types Needed, Just Callable Method Check
-
-型は要らないのではないかというタイトルからかなり気になっていた @dak2 さんの発表。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/bloomo_tech/articles/057ab51d2e270a</guid>
-      <pubDate>Thu, 23 Apr 2026 09:01:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>271個のバグを潰してからリリース、アンソロピックのMythosとFirefox 150が示したAI時代のサイバーセキュリティ対応 【生成AI事件簿】「リリース前にAIで潰す」が防御側の新標準に、攻撃者優位のサイバーセキュリティの構造が変わるか？ | JBpress (ジェイビープレス)</title>
-      <link>https://jbpress.ismedia.jp/articles/-/94496</link>
-      <description>2026年4月21日にリリースされたFirefox 150は、サイバーセキュリティの歴史において、記念碑的な存在となるかもしれない。このウェブブラウザは、271件もの脆弱性を事前に修正してから世に出たのである。それだけバグが多い問題作だったと言いたいのではない。先日発表され、この連載でも何度か取り上げている、米Anthro... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://jbpress.ismedia.jp/articles/-/94496</guid>
-      <pubDate>Thu, 23 Apr 2026 22:24:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>その生産性向上、現場が静かに支払っているコストの話</title>
-      <link>https://zenn.dev/shintaroamaike/articles/69a7611880420d</link>
+      <title>anyhowとthiserrorの内部実装を覗いてみる</title>
+      <link>https://zenn.dev/uniquevision/articles/f2b75b4109ea14</link>
       <description>はじめに
-Claude Code をはじめとする AI コーディング支援ツールの高度化により、マークダウンで構造化された仕様書を AI に渡して実装を進める、いわゆる仕様駆動型の開発スタイルが広まりつつあります。
-実装速度は目に見えて向上し、かつてであれば数日かかった作業が数時間で完了するケースも珍しくありません。
-一方で、現場で開発に携わっていると、速度向上だけでは説明しきれない違和感が蓄積していきます。残業は減った、納期も守れている、上層部からの評価も悪くない。
-それなのに、現場の開発者の間に静かな疲労感が漂っている ― そんな状況を見聞きすることが増えてきました。
-この記事では... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shintaroamaike/articles/69a7611880420d</guid>
-      <pubDate>Tue, 21 Apr 2026 10:40:46 +0000</pubDate>
+anyhowとthiserrorを実務で使っていて、「なぜこの場面でこちらを選ぶのか」を明確に説明できるでしょうか。
+よくある説明は「anyhowはアプリケーション用、thiserrorはライブラリ用」というものです。しかしこの分類では不十分で、実際にはライブラリ内部でanyhowが適切な場面もあれば、アプリケーションでthiserrorが必要な場面もあります。
+本記事では、両クレートの内部実装に踏み込み、それぞれが何をしていて何が違うのかを見ていきます。内部の仕組みを知ることで、使い分けの解像度が上がるはずです。
+!
+本記事の内容は anyhow 1.0.x / this... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/uniquevision/articles/f2b75b4109ea14</guid>
+      <pubDate>Fri, 24 Apr 2026 09:01:57 +0000</pubDate>
     </item>
     <item>
-      <title>テストがないコードへのテストの育て方</title>
-      <link>https://zenn.dev/takaaki/articles/growing-tests-for-untested-code</link>
-      <description>はじめに
-ユニットテストが浸透してきています。それでも、テストがないプロダクトのコードをメンテナンスするケースもあります。そうすると絶望的な気持ちになることもあると思います。
-今回、そのようなコードにテストを追加するための道筋を示したいと思います。
-場合によっては年単位の長い時間が掛かる可能性がありますが、ステップ毎にだんだん不安が減っていくようにしてあります。最後のステップではリファクタリング済みのコードを示しています。
-仕様が不明なコードに絶望する必要がないと感じられたら嬉しいです。
-
- サンプルコード
-本来、ここで想定しているのは次のようなコードです。
-
-500ステップを超える... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/takaaki/articles/growing-tests-for-untested-code</guid>
-      <pubDate>Tue, 21 Apr 2026 10:12:26 +0000</pubDate>
+      <title>GeminiやChatGPTで画像生成できる時代に、わざわざローカルで動かす理由</title>
+      <link>https://zenn.dev/acntechjp/articles/a7c12b3114f56a</link>
+      <description>執筆者：Hideyuki Goto
+2026年3月現在、画像生成AIを利用するハードルは、もうほぼゼロに近いと言っていいでしょう。GeminiやChatGPTを開き、ブラウザから自然言語のプロンプトを投げれば、わずか数秒で画像が返ってきます。
+それでも私は、趣味の個人開発やクリエイティブワークにおいて、あえて「ComfyUI」というツールを使い、ローカル環境で画像生成を動かし続けています。数十秒から数分かけて1枚の画像を生成しながら。
+なぜ、わざわざそんな面倒なことをするのか。一言で言えば、マネージドなクラウドサービスでは「意図通りに細部を制御する」ことに明確な天井があるからです。
+本記... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/a7c12b3114f56a</guid>
+      <pubDate>Fri, 24 Apr 2026 06:45:41 +0000</pubDate>
     </item>
     <item>
-      <title>新人研修レビュー170件をどう割振る？数理最適化で全員の希望と公平性を両立した記録</title>
-      <link>https://zenn.dev/amplify/articles/23d943450f59f0</link>
-      <description>はじめに
-新年度が始まり、弊社 Fixstars Amplify でも新しいメンバーを迎えました。グループ合同で行う新人研修では 17 名の新人が 10 題のコーディング課題に取り組みます。彼らの書いたコードは総勢 68 名の先輩レビュアが分担してレビューし、品質についての考え方やコーディング文化を伝えます。
-昨年度までの新人研修では、レビュー担当者割り当てについて、次のような問題が発生しており、一部の参加者から不満の声が上がっていました。
+      <title>Metaが、社員の1割である8,000人をクビにすると発表したが、残った社員のパソコンに、新しいソフトを入れ始め、社員のマウスやキーボードの動きを記録し、画面の中身も、ときどきスクショで取り、AIに学習させていた</title>
+      <link>https://posfie.com/@taimport/p/QwtRbJO</link>
+      <description>岡野タケシ弁護士【アトム法律グループ】 @takeshibengo facebookのマークザッカーバーグえぐい。 こんなニュースを目にする日が来るとは思わなかった… Metaが、社員の1割である8,000人をクビにすると発表した。 ここまでは「あ、またAI失業の話か」だ。 えぐいのはここから。 Metaは同じころ、残った社員のパソコンに、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://posfie.com/@taimport/p/QwtRbJO</guid>
+      <pubDate>Sat, 25 Apr 2026 01:56:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>VS Code 拡張機能の Webview での描画性能をテトリスで検証してみた</title>
+      <link>https://zenn.dev/nttdata_tech/articles/15290f101cacd2</link>
+      <description>1. はじめに
+突然ですが、VS Codeの拡張機能を作ったことはあるでしょうか。
+今まで私は、何か難しそうだという理由から、全く作ろうと考えていませんでしたが、生成AIの進歩によってお手軽に作れることを知って、最近いくつか試しに作っています。
+今回は、「VS Code の Webview でどこまで動くのか？」 という疑問から、VS Code 拡張機能の描画性能について着目し、ごく簡単にではありますが、Web ブラウザの場合との比較検証をテトリスを動かすことで実施してみました。
+また、VS Code標準のUIではなく、描画の自由度がより高いWebview[1]を使うことにしました。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/15290f101cacd2</guid>
+      <pubDate>Fri, 24 Apr 2026 08:34:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>PMP（Project Management Professional）を取ろうとしている人に読んでほしい、PMPの話</title>
+      <link>https://zenn.dev/acntechjp/articles/8c99076b93d621</link>
+      <description>こんにちは
+アクセンチュア北海道オフィス所属の唐津です。
+1年ほど前にPMPを取得しました。取得して意味あったな～というのと、最近周りでPMPを取ろうとしている人がいるので、「攻略法」と「取得する意味」を改めて言語化しようと思った次第です。
+ただし具体の勉強法（この参考書が役にたった、こういう学習Cycleが良かった）とかは書いてないのであしからず。
 
-レビュア各々の得意分野が考慮されておらず、レビュアが本領を発揮できなかった。
-特定の新人にコメント数の少ないレビュアばかり割り当たってしまい、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/amplify/articles/23d943450f59f0</guid>
-      <pubDate>Wed, 22 Apr 2026 07:56:23 +0000</pubDate>
+この記事は、これからPMPを取ろうとしている人たち、そしていま勉強中で「この量、本当に全部覚えるの…？」と手が止まりかけている人に向けて書いています。受験してから読む記事ではなく、受験準備のど真ん中で読んでほしい記事です。
+私自身、PMP... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/8c99076b93d621</guid>
+      <pubDate>Wed, 22 Apr 2026 16:39:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIの成果物に責任を取る方法</title>
+      <link>https://zenn.dev/headwaters/articles/68de421c45931b</link>
+      <description>はじめに
+AIが書いたコードでバグが出た。さて、誰の責任だろうか？
+「AIが適当なことを出力したから」はプロの世界では通用しない。
+そのコードをマージし、デプロイする決定を下した「あなた」の責任だ。
+AIコーディング全盛期において、私たちは単なる「コードを書く人」から「AIという部下をマネジメントする意思決定者」へと変化した。
+では、この部下の仕事にどう責任を持ち、どう信頼関係を築けばいいのだろうか。
+この記事では、自分なりのマインドセットをまとめてみる。
+
+ 1. 仕事を振るということ
+AI最大の武器は圧倒的な「スピード」だ。
+しかし、AIの出力したコードの1文字1文字を疑い、手作... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/68de421c45931b</guid>
+      <pubDate>Thu, 23 Apr 2026 23:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIレビューの「で、これ合ってんの？」を減らす</title>
+      <link>https://zenn.dev/nka21/articles/claude-code-multi-agent-reviewer</link>
+      <description>AIにコードレビューをさせて、返ってきた指摘を眺めながらこう思ったことはないでしょうか。
+「で、これ合ってんの？」
+指摘の数は出る。でもその中に、的外れなもの、文脈を無視したもの、スタイルレベルのものが混ざっている。結局、全部の指摘を自分で検証する羽目になって、レビューの時短どころか確認作業が増えている。
+
+ レビューにはディフェンスが必要
+人間のPRレビューを思い出してください。
+レビュアーが「ここ問題では？」と指摘する。実装者が「いや、ここはこういう意図でこうしてます」と返す。レビュアーが「なるほど、それなら問題ないですね」あるいは「いや、それでもこのケースは危ないです」と返す。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nka21/articles/claude-code-multi-agent-reviewer</guid>
+      <pubDate>Fri, 24 Apr 2026 15:24:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropicの3エージェントハーネスをRailsに取り入れる</title>
+      <link>https://zenn.dev/dely_jp/articles/a45bc3a9e69ab1</link>
+      <description>はじめに
+こんにちは、クラシルでレシチャレの開発をしているkiyokuroです。
+前回の記事では、Claude CodeのHooksでSafety Hookを実装し、決定論的なガードレールを敷いた話を紹介しました。ルール設計、Safety Hook、サブエージェントによる設計調査の自動化と進めてきましたが、1つ残っていた課題がありました。「次にどのskillを実行するか」を人間が判断し、順番に起動していたことです。
+この記事では、Anthropicが公開した3エージェントハーネス（Planner / Generator / Evaluator）の設計を自分たちのRailsプロジェクト... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/a45bc3a9e69ab1</guid>
+      <pubDate>Fri, 24 Apr 2026 07:50:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>なぜ、2000年代には巷で耳にした「UML」を現在では全く耳にしないのか？</title>
+      <link>https://zenn.dev/pdfractal/articles/b6f83bbc319501</link>
+      <description>はじめに
+2000年代の開発現場では、UML という語は一種の共通語でした。オブジェクト指向を語るならUMLを知っていて当然だとされ、書籍も研修もツールも、その前提で組まれていました。しかし現在、日常会話の中で「UMLを描こう」と言う場面は激減し、代わりにMermaid(軽量な図記述ツール)やPlantUML(テキスト記述からUML図を生成するツール)で必要な図だけを書くという言い方が普通になっています。この落差は、単なる流行語の交代ではありません。設計の正本をどこに置くのかという、開発の重心そのものが移った結果です。
+本稿はラショナル起源の重いUML と、ファウラーが後から整理した... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pdfractal/articles/b6f83bbc319501</guid>
+      <pubDate>Thu, 23 Apr 2026 10:53:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
