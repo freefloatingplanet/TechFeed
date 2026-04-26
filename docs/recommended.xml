@@ -7,18 +7,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 07:24:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 07:45:56 +0000</lastBuildDate>
     <item>
-      <title>Next.js (Turbopack) のバンドルサイズを元の半分まで削減した話</title>
-      <link>https://zenn.dev/aldagram_tech/articles/nextjs-bundle-size-reduction</link>
-      <description>こんにちは！アルダグラムでエンジニアをしている今町です。
-今回は、弊社で運用している Next.js 製の Web アプリケーションの バンドルサイズを元の半分まで削減した話 を書いていきます。
-単に「サイズが減って嬉しい」だけじゃなくて、どのページを開いても巨大な共通チャンクが必ずロードされる という構造的な問題を抱えていたので、そこを解きほぐしていく過程を書き残しておきます。Turbopack / webpack を問わず、Next.js をある程度の規模で運用している現場なら、どこかで一度は踏む地雷だと思うので、参考になれば幸いです。
+      <title>日本に迫るのは「石油危機」だけではない！ホルムズ海峡封鎖で露呈した日本の脆弱性といま直視すべき真の課題</title>
+      <link>https://wedge.ismedia.jp/articles/-/40513</link>
+      <description>2026年２月28日に始まった米・イスラエルによるイラン攻撃とそれに続くホルムズ海峡の事実上の封鎖は、日量約2000万バレル─世界の海上石油貿易の４分の１─を一夜にして止めた。国際エネルギー機関（IEA）が「史上最大の供給途絶」と宣言したとおり、1859年に始まった近代石油産業における170年の歴史の中で最大の危機で... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://wedge.ismedia.jp/articles/-/40513</guid>
+      <pubDate>Fri, 24 Apr 2026 13:02:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code と二人七脚 DB 設計</title>
+      <link>https://zenn.dev/techtrain_blog/articles/0991bc406b58e2</link>
+      <description>はじめに
+弊社では開発において、コード生成・レビュー段階の9割以上を AI に一任しています。
+しかし仕様設計・DB 設計においては、人間が主体です。
+今回は DB 設計段階において、私が Claude Code を如何様にしてこき使っているか、一例を紹介したいと思います。
 
- 背景：バンドルがクソデカすぎる問題 🔥
-対... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aldagram_tech/articles/nextjs-bundle-size-reduction</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:13 +0000</pubDate>
+ 二人七脚とは
+私 + Claude Code (Agent + subagent 4つ) 体制のことです。
+以下の 4 step を完走した暁には DB 設計が完了している、夢の体制です。
+
+仕様とコードベースからユースケース列挙
+ユースケースのブラッシュアップと起票
+各問いの壁打ち
+subagent による... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/techtrain_blog/articles/0991bc406b58e2</guid>
+      <pubDate>Fri, 24 Apr 2026 12:06:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年にCGIでWebアプリを作る</title>
+      <link>https://zenn.dev/alarky/articles/cgi-modern-web-app-2026</link>
+      <description>CGI は本当に死んだのか？
+CGI と聞いて何を思い浮かべますか。Perl のアクセスカウンター、掲示板スクリプト、cgi-bin ディレクトリ——2000年代の Web 開発を支えた技術ですが、今ではレガシーの代名詞のように扱われています。Ruby 4.0 では cgi が標準ライブラリから削除されるなど、言語レベルで CGI から離れる動きもあります。
+しかし CGI という仕組み自体は死んでいません。Apache は今も CGI をサポートしていますし、レンタルサーバーでは当たり前に使えます。Go は net/http/cgi を標準ライブラリで提供しており、同じ http.... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/alarky/articles/cgi-modern-web-app-2026</guid>
+      <pubDate>Sat, 25 Apr 2026 18:32:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>OWASP ZAP の finding を Rust/Axum の handler に戻して直す - じゃあ、おうちで学べる</title>
+      <link>https://syu-m-5151.hatenablog.com/entry/2026/04/23/195535</link>
+      <description>はじめに vulnerable-app に ZAP の full scan を回すと、High finding が並びます。XSS、SQL Injection、Path Traversal。alert 名を眺めて、ふと気づく。これは「危険です」の一覧ではない。handler への差し戻し指示書だ。 OWASP ZAP を実行すると、HTML、Markdown、JSON のレポートが出ます。そこには Cross Site Sc... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://syu-m-5151.hatenablog.com/entry/2026/04/23/195535</guid>
+      <pubDate>Sun, 26 Apr 2026 01:33:01 +0000</pubDate>
     </item>
     <item>
       <title>anyhowとthiserrorの内部実装を覗いてみる</title>
@@ -33,22 +63,13 @@ anyhowとthiserrorを実務で使っていて、「なぜこの場面でこち�
       <pubDate>Fri, 24 Apr 2026 09:01:57 +0000</pubDate>
     </item>
     <item>
-      <title>GeminiやChatGPTで画像生成できる時代に、わざわざローカルで動かす理由</title>
-      <link>https://zenn.dev/acntechjp/articles/a7c12b3114f56a</link>
-      <description>執筆者：Hideyuki Goto
-2026年3月現在、画像生成AIを利用するハードルは、もうほぼゼロに近いと言っていいでしょう。GeminiやChatGPTを開き、ブラウザから自然言語のプロンプトを投げれば、わずか数秒で画像が返ってきます。
-それでも私は、趣味の個人開発やクリエイティブワークにおいて、あえて「ComfyUI」というツールを使い、ローカル環境で画像生成を動かし続けています。数十秒から数分かけて1枚の画像を生成しながら。
-なぜ、わざわざそんな面倒なことをするのか。一言で言えば、マネージドなクラウドサービスでは「意図通りに細部を制御する」ことに明確な天井があるからです。
-本記... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/a7c12b3114f56a</guid>
-      <pubDate>Fri, 24 Apr 2026 06:45:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metaが、社員の1割である8,000人をクビにすると発表したが、残った社員のパソコンに、新しいソフトを入れ始め、社員のマウスやキーボードの動きを記録し、画面の中身も、ときどきスクショで取り、AIに学習させていた</title>
-      <link>https://posfie.com/@taimport/p/QwtRbJO</link>
-      <description>岡野タケシ弁護士【アトム法律グループ】 @takeshibengo facebookのマークザッカーバーグえぐい。 こんなニュースを目にする日が来るとは思わなかった… Metaが、社員の1割である8,000人をクビにすると発表した。 ここまでは「あ、またAI失業の話か」だ。 えぐいのはここから。 Metaは同じころ、残った社員のパソコンに、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://posfie.com/@taimport/p/QwtRbJO</guid>
-      <pubDate>Sat, 25 Apr 2026 01:56:54 +0000</pubDate>
+      <title>ターミナルで動く開発モニタをRustで作った — Ratatuiで実用TUIを作って見えた5つの設計課題とその解き方</title>
+      <link>https://zenn.dev/okamyuji/articles/ratatui-real-world-tui-design-patterns</link>
+      <description>はじめに
+RatatuiのチュートリアルでカウンターアプリやTODOリストを動かすところまでは、多くの記事がカバーしています。しかし、実際に複数のデータソースを扱い、バックグラウンドで非同期タスクを走らせ、異なるOS上で同じ体験を提供しようとすると、チュートリアルでは扱われない設計課題に次々と直面します。
+この記事では、Rust製のローカル開発環境モニタ「DevPulse」を題材に、実用的なTUIアプリケーションを作る過程で遭遇した5つの設計課題と、それぞれの解き方を紹介します。DevPulseは、ポート監視・Docker管理・プロセスモニタ・ログストリーミングの4つの機能を1画面に... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/okamyuji/articles/ratatui-real-world-tui-design-patterns</guid>
+      <pubDate>Fri, 24 Apr 2026 22:19:53 +0000</pubDate>
     </item>
     <item>
       <title>VS Code 拡張機能の Webview での描画性能をテトリスで検証してみた</title>
@@ -62,17 +83,18 @@ anyhowとthiserrorを実務で使っていて、「なぜこの場面でこち�
       <pubDate>Fri, 24 Apr 2026 08:34:33 +0000</pubDate>
     </item>
     <item>
-      <title>PMP（Project Management Professional）を取ろうとしている人に読んでほしい、PMPの話</title>
-      <link>https://zenn.dev/acntechjp/articles/8c99076b93d621</link>
-      <description>こんにちは
-アクセンチュア北海道オフィス所属の唐津です。
-1年ほど前にPMPを取得しました。取得して意味あったな～というのと、最近周りでPMPを取ろうとしている人がいるので、「攻略法」と「取得する意味」を改めて言語化しようと思った次第です。
-ただし具体の勉強法（この参考書が役にたった、こういう学習Cycleが良かった）とかは書いてないのであしからず。
+      <title>AIレビューの「で、これ合ってんの？」を減らす</title>
+      <link>https://zenn.dev/nka21/articles/claude-code-multi-agent-reviewer</link>
+      <description>AIにコードレビューをさせて、返ってきた指摘を眺めながらこう思ったことはないでしょうか。
+「で、これ合ってんの？」
+指摘の数は出る。でもその中に、的外れなもの、文脈を無視したもの、スタイルレベルのものが混ざっている。結局、全部の指摘を自分で検証する羽目になって、レビューの時短どころか確認作業が増えている。
 
-この記事は、これからPMPを取ろうとしている人たち、そしていま勉強中で「この量、本当に全部覚えるの…？」と手が止まりかけている人に向けて書いています。受験してから読む記事ではなく、受験準備のど真ん中で読んでほしい記事です。
-私自身、PMP... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/8c99076b93d621</guid>
-      <pubDate>Wed, 22 Apr 2026 16:39:07 +0000</pubDate>
+ レビューにはディフェンスが必要
+人間のPRレビューを思い出してください。
+レビュアーが「ここ問題では？」と指摘する。実装者が「いや、ここはこういう意図でこうしてます」と返す。レビュアーが「なるほど、それなら問題ないですね」あるいは「いや、それでもこのケースは危ないです」と返す。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nka21/articles/claude-code-multi-agent-reviewer</guid>
+      <pubDate>Fri, 24 Apr 2026 15:24:54 +0000</pubDate>
     </item>
     <item>
       <title>AIの成果物に責任を取る方法</title>
@@ -92,20 +114,6 @@ AI最大の武器は圧倒的な「スピード」だ。
       <pubDate>Thu, 23 Apr 2026 23:40:05 +0000</pubDate>
     </item>
     <item>
-      <title>AIレビューの「で、これ合ってんの？」を減らす</title>
-      <link>https://zenn.dev/nka21/articles/claude-code-multi-agent-reviewer</link>
-      <description>AIにコードレビューをさせて、返ってきた指摘を眺めながらこう思ったことはないでしょうか。
-「で、これ合ってんの？」
-指摘の数は出る。でもその中に、的外れなもの、文脈を無視したもの、スタイルレベルのものが混ざっている。結局、全部の指摘を自分で検証する羽目になって、レビューの時短どころか確認作業が増えている。
-
- レビューにはディフェンスが必要
-人間のPRレビューを思い出してください。
-レビュアーが「ここ問題では？」と指摘する。実装者が「いや、ここはこういう意図でこうしてます」と返す。レビュアーが「なるほど、それなら問題ないですね」あるいは「いや、それでもこのケースは危ないです」と返す。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nka21/articles/claude-code-multi-agent-reviewer</guid>
-      <pubDate>Fri, 24 Apr 2026 15:24:54 +0000</pubDate>
-    </item>
-    <item>
       <title>Anthropicの3エージェントハーネスをRailsに取り入れる</title>
       <link>https://zenn.dev/dely_jp/articles/a45bc3a9e69ab1</link>
       <description>はじめに
@@ -114,15 +122,6 @@ AI最大の武器は圧倒的な「スピード」だ。
 この記事では、Anthropicが公開した3エージェントハーネス（Planner / Generator / Evaluator）の設計を自分たちのRailsプロジェクト... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/a45bc3a9e69ab1</guid>
       <pubDate>Fri, 24 Apr 2026 07:50:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜ、2000年代には巷で耳にした「UML」を現在では全く耳にしないのか？</title>
-      <link>https://zenn.dev/pdfractal/articles/b6f83bbc319501</link>
-      <description>はじめに
-2000年代の開発現場では、UML という語は一種の共通語でした。オブジェクト指向を語るならUMLを知っていて当然だとされ、書籍も研修もツールも、その前提で組まれていました。しかし現在、日常会話の中で「UMLを描こう」と言う場面は激減し、代わりにMermaid(軽量な図記述ツール)やPlantUML(テキスト記述からUML図を生成するツール)で必要な図だけを書くという言い方が普通になっています。この落差は、単なる流行語の交代ではありません。設計の正本をどこに置くのかという、開発の重心そのものが移った結果です。
-本稿はラショナル起源の重いUML と、ファウラーが後から整理した... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pdfractal/articles/b6f83bbc319501</guid>
-      <pubDate>Thu, 23 Apr 2026 10:53:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

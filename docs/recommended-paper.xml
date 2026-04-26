@@ -7,13 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Apr 2026 07:24:34 +0000</lastBuildDate>
-    <item>
-      <title>大規模モデル向け低ランク適応の再考</title>
-      <link>https://arxiv.org/abs/2604.21905v1</link>
-      <description>低ランク適応（LoRA）は、基礎モデルのパラメータ効率の良い微調整（PEFT）の事実上の標準として台頭し、最小限の計算およびメモリオーバーヘッドで数十億パラメータのネットワークの適応を可能にしています。経験的な成功とバリアントの急速な普及にもかかわらず、どのアーキテクチャの選択、最適化手法、および展開上の制約が実用的な方法の選択を導くべきかは依然として不明瞭です。この概要では、信号処理（SP）の観点からLoRAを再検討し、最新のアダプタ設計と古典的な低ランクモデリングツールおよび逆問題を結びつけるとともに、SPの原理が微調整アプローチの原理的な進歩にどのように役立つかを強調します。LoRAバリアントの包括的な列挙と経験的な比較を提供するのではなく、これらのアプローチの有効性を正当化するための技術的メカニズムに重点を置いています。これらの進歩は、アーキテクチャ設計、効率的な最適化、および関連するアプリケーションという3つの補完的な軸に分類されます。第1の軸は、特異値分解（SVD）に基づく因子分解、ランク拡張構成、およびクロスレイヤーテンソル化に基づいて構築され、第2の軸は、初期化、交互ソ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.21905v1</guid>
-      <pubDate>Thu, 23 Apr 2026 17:50:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Apr 2026 07:46:52 +0000</lastBuildDate>
   </channel>
 </rss>

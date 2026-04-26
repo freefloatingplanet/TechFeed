@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Apr 2026 07:24:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 07:46:57 +0000</lastBuildDate>
     <item>
       <title>React Navigation 8.0 Alpha、ネイティブボトムタブ、再設計されたTypeScript推論、および履歴機能を搭載</title>
       <link>https://www.infoq.com/news/2026/04/react-navigation-8-alpha/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -72,9 +72,9 @@
       <pubDate>Fri, 24 Apr 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：パネルディスカッション：機能する文化の構築</title>
+      <title>プレゼンテーション：パネルディスカッション：効果的な企業文化の構築</title>
       <link>https://www.infoq.com/presentations/panel-positive-culture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>パネリストたちは、進化する企業文化に関する洞察を共有します。フィードバックループの活用、ソーシャルキャピタルの活用、そして従来の官僚主義とアジャイルエンジニアリングの間の摩擦について議論します。パネリストたちは、リモートチームの結束を維持する方法や、インタビューを活用して企業の真の「ありのままの」文化を明らかにする方法について解説します。執筆：ニッキー・ライトソン、スハイル・パテル、レスリー・コルデロ、マシュー・カード、ナタン・ザブカー・ノードバーグ (source: InfoQ)</description>
+      <description>パネリストたちは、進化する企業文化に関する洞察を共有します。フィードバックループの活用、ソーシャルキャピタルの活用、そして従来の官僚主義とアジャイルエンジニアリングの間の摩擦について議論します。パネリストたちは、リモートチームの結束を維持する方法や、インタビューを活用して企業の真の「ありのままの」文化を明らかにする方法について解説します。執筆：Nicky Wrightson、Suhail Patel、Lesley Cordero、Matthew Card、Natan Žabkar Nordberg (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/panel-positive-culture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 22 Apr 2026 10:10:00 +0000</pubDate>
     </item>

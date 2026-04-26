@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 07:24:32 +0000</lastBuildDate>
-    <item>
-      <title>ブルー・オリジンが「ニューグレン」3号機を打ち上げ　衛星の予定軌道投入に失敗</title>
-      <link>https://sorae.info/ssn/20260420-new-glenn-ng-3.html</link>
-      <description>アメリカ企業Blue Origin（ブルー・オリジン）は、日本時間2026年4月19日に「New Glenn（ニューグレン）」ロケットの3回目の打ち上げを実施しました。搭載されていたアメリカ企業AST SpaceMobi… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260420-new-glenn-ng-3.html</guid>
-      <pubDate>Mon, 20 Apr 2026 08:28:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>「宇宙ビジネスはこれからが一番面白い」日本経済新聞元編集委員・小玉祥司さんに訊く、宇宙産業の転換点</title>
-      <link>https://sorabatake.jp/45671/</link>
-      <description>日本経済新聞の編集委員として活躍された小玉祥司さんに、日本の宇宙産業が変わった瞬間、そしてこれからの展望についてお話を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45671/</guid>
-      <pubDate>Mon, 20 Apr 2026 23:00:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Apr 2026 07:45:59 +0000</lastBuildDate>
     <item>
       <title>北極観測で気象予測の精度向上へ、OHB Swedenが欧州連携の衛星コンステレーションで約450億円超の契約を獲得【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/45613/</link>
@@ -30,11 +16,25 @@
       <pubDate>Sat, 11 Apr 2026 23:00:50 +0000</pubDate>
     </item>
     <item>
-      <title>NASAの超音速実験機「X-59」が着陸脚を収納した飛行に初成功　独特な機体形状の性能検証へ</title>
-      <link>https://sorae.info/airplane/20260420-x-59-wheels-up.html</link>
-      <description>NASA（アメリカ航空宇宙局）は2026年4月15日付で、開発中の超音速実験機「X-59」が、初めて着陸脚を収納した状態での試験飛行を完了したと発表しました。X-59は、これまで騒音問題で制限されてきた陸上での商業超音速… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/airplane/20260420-x-59-wheels-up.html</guid>
-      <pubDate>Sun, 19 Apr 2026 23:16:40 +0000</pubDate>
+      <title>混沌と渦巻き合体していく3つの銀河　ハッブル宇宙望遠鏡が観測した相互作用銀河「IC 2431」</title>
+      <link>https://sorae.info/astronomy/20260425-ic-2431.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡が観測した相互作用銀河「IC 2431」。かに座の方向、地球から約6億8100万光年先にあります。 画像の中心に広がる暗い雲の塊や、その周囲で渦を巻く明るい星々の集まりが、混沌とした環境を物語… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260425-ic-2431.html</guid>
+      <pubDate>Sat, 25 Apr 2026 12:10:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>北極の冬季海氷域面積が今シーズンも衛星観測史上最小を記録　2025年に続き2年連続で更新</title>
+      <link>https://sorae.info/science/20260425-arctic-sea-ice-extent.html</link>
+      <description>JAXA（宇宙航空研究開発機構）と国立極地研究所（NIPR、極地研）は2026年4月18日付で、2025年から2026年にかけての北極域の冬季海氷域の面積が、衛星観測が開始された1979年以降で最も小さい値を記録したこと… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/science/20260425-arctic-sea-ice-extent.html</guid>
+      <pubDate>Sat, 25 Apr 2026 09:56:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>ロシアが「アンガラ1.2」ロケットの打ち上げに成功　国防省の軍事衛星を軌道投入</title>
+      <link>https://sorae.info/ssn/20260426-angara1-2.html</link>
+      <description>ロシア航空宇宙軍（VKS）は日本時間2026年4月23日、プレセツク宇宙基地からロシアの軽量型ロケット「アンガラ1.2（Angara-1.2）」の打ち上げを実施しました。ロシア国防省が打ち上げ成功を発表しています。 打ち… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260426-angara1-2.html</guid>
+      <pubDate>Sun, 26 Apr 2026 03:22:21 +0000</pubDate>
     </item>
     <item>
       <title>H-IIA/H-IIBロケットやHTV関連技術などが「航空宇宙技術遺産」に認定　人力飛行機「ストーク」も</title>
