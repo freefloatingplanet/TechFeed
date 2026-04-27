@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Apr 2026 07:46:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 08:32:52 +0000</lastBuildDate>
     <item>
-      <title>React Navigation 8.0 Alpha、ネイティブボトムタブ、再設計されたTypeScript推論、および履歴機能を搭載</title>
-      <link>https://www.infoq.com/news/2026/04/react-navigation-8-alpha/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>React Navigationは、React NativeおよびWebアプリケーション向けのルーティングライブラリをアップデートしたバージョン8.0（アルファ版）をリリースしました。主な変更点としては、ネイティブのボトムタブがデフォルトになったこと、TypeScriptの推論機能が強化されたこと、ディープリンクがデフォルトで有効になったことなどが挙げられます。今回のアップデートでは安定性が最優先されており、バージョン7.xからの移行ガイドも含まれています。執筆：Daniel Curtis (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/react-navigation-8-alpha/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 23 Apr 2026 15:36:00 +0000</pubDate>
+      <title>春のニュースまとめ：ブート、セキュリティ、インテグレーション、モジュリス、AMQPの初回リリース候補版</title>
+      <link>https://www.infoq.com/news/2026/04/spring-news-roundup-apr20-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>2026年4月20日の週、Springエコシステムでは活発な動きが見られ、Spring Boot、Spring Security、Spring Integration、Spring Modulith、Spring AMQP、Spring for Apache Kafka、Spring Vaultの最初のリリース候補版が発表されました。 執筆：Michael Redlich (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/spring-news-roundup-apr20-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 27 Apr 2026 02:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitLabが定額制コードレビュー、無料プランでのAIアクセス、および利用制限を追加</title>
+      <link>https://www.infoq.com/news/2026/04/gitlab-flatrate-view-ai-access/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>オープンコアDevOpsベンダーのGitLabは、DevSecOpsプラットフォームのバージョン18.10と18.11をリリースした。これらの変更点には、無料プランのユーザーにもエージェント型AIを提供する機能、自動コード分析のレビューごとのコスト削減、そして管理者が各チームが毎月AIクレジットに使える金額に上限を設ける機能などが含まれる。 マット・サンダース著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/gitlab-flatrate-view-ai-access/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>可観測性とテレメトリがソフトウェアエンジニアリングの実践をどのように強化できるか</title>
@@ -23,18 +30,18 @@
       <pubDate>Thu, 23 Apr 2026 11:04:00 +0000</pubDate>
     </item>
     <item>
-      <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>
-      <link>https://workos.com/blog/multi-tenant-permissions-slack-notion-linear</link>
-      <description>Slack、Notion、Linearはそれぞれ、テナントごとの役割と権限に関して異なるアプローチを採用しています。ここでは、自社アプリに取り入れる価値のあるパターンをご紹介します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/multi-tenant-permissions-slack-notion-linear</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>プレゼンテーション：クラウドにおけるサブミリ秒の応答時間と24時間365日の稼働時間を実現する取引所の構築方法</title>
       <link>https://www.infoq.com/presentations/exchange-systems-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>Frank Yu氏は、Coinbaseが堅牢で公平かつ高速な金融取引所を構築するためのエンジニアリング哲学について語ります。彼は、シングルスレッドアーキテクチャとRaftコンセンサスアルゴリズムを組み合わせることで、24時間365日の可用性を維持できる理由を説明します。また、決定論によってダウンタイムゼロのローリングデプロイメントが可能になり、本番ログを再生してバグを完全に再現できる仕組みについても解説します。 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/exchange-systems-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 23 Apr 2026 09:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>
+      <link>https://workos.com/blog/multi-tenant-permissions-slack-notion-linear</link>
+      <description>Slack、Notion、Linearはそれぞれ、テナントごとの役割と権限に関して異なるアプローチを採用しています。ここでは、自社アプリに取り入れる価値のあるパターンをご紹介します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/multi-tenant-permissions-slack-notion-linear</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>中間者攻撃：多要素認証を無効にする脅威</title>
@@ -49,13 +56,6 @@
       <description>エンジニア向けRFC 9449の実践的な解説：JWTの証明、サーバー発行のnonce、ブラウザでの鍵の保存、そしてDPoPがmTLSとどのように関連しているか。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/dpop-rfc-9449-explained</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>記事：クラウドリージョンが障害を起こしたとき：地政学的に不安定な世界における高可用性の再考</title>
-      <link>https://www.infoq.com/articles/sovereign-fault-domains-cloud-resilience/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>主権障害ドメインとは、ハードウェアのトポロジーではなく、法的、政治的、または物理的な管轄区域によって定義される障害境界のことです。この記事では、地政学的イベントを既知の分散システム障害モードにマッピングし、管轄区域をまたぐシステムのHAベースラインとしてマルチリージョンをマルチAZに置き換えるべきだと主張し、その費用を正当化するための設計パターン、カオス実験、およびALEモデルの概要を示します。執筆者：Rohan Vardhan (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/sovereign-fault-domains-cloud-resilience/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 22 Apr 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>開発者向けCLI認証ガイド</title>

@@ -7,60 +7,59 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 07:45:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 08:32:40 +0000</lastBuildDate>
     <item>
-      <title>日本に迫るのは「石油危機」だけではない！ホルムズ海峡封鎖で露呈した日本の脆弱性といま直視すべき真の課題</title>
-      <link>https://wedge.ismedia.jp/articles/-/40513</link>
-      <description>2026年２月28日に始まった米・イスラエルによるイラン攻撃とそれに続くホルムズ海峡の事実上の封鎖は、日量約2000万バレル─世界の海上石油貿易の４分の１─を一夜にして止めた。国際エネルギー機関（IEA）が「史上最大の供給途絶」と宣言したとおり、1859年に始まった近代石油産業における170年の歴史の中で最大の危機で... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://wedge.ismedia.jp/articles/-/40513</guid>
-      <pubDate>Fri, 24 Apr 2026 13:02:51 +0000</pubDate>
+      <title>スマホの「残価設定」にメス？　総務省がルール統一を検討も、Appleは「不当な扱い」と猛反発</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2604/25/news027.html</link>
+      <description>総務省が開催している「利用者視点を踏まえたモバイル市場の検証に関する専門委員会」では、携帯電話のホッピング（短期乗り換え）が議題となっている。それ以外のテーマとして、端末購入プログラムの残価率算出ルールについても話し合いが行われている。 4月20日の第6回会議では、キャリアやスマートフォンメーカー各社... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2604/25/news027.html</guid>
+      <pubDate>Sun, 26 Apr 2026 03:52:34 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code と二人七脚 DB 設計</title>
-      <link>https://zenn.dev/techtrain_blog/articles/0991bc406b58e2</link>
-      <description>はじめに
-弊社では開発において、コード生成・レビュー段階の9割以上を AI に一任しています。
-しかし仕様設計・DB 設計においては、人間が主体です。
-今回は DB 設計段階において、私が Claude Code を如何様にしてこき使っているか、一例を紹介したいと思います。
+      <title>HHKBをUS配列からJIS配列に乗り換えた。</title>
+      <link>https://zenn.dev/seeiji/articles/e0a23ed9cec0f3</link>
+      <description>こんにちは。せーじと申します。普段は、Webやバックエンド、アプリの開発をしております。私は業務や私生活で日常的にRaycastを使っています。
+Raycastと同じぐらい日々使っているのは HHKB Studio です。新卒の初任給で「自己投資」という名目で先輩に勧められて買い、それから惚れ込んで今では6台目ぐらいです。
+今ではHHKB Studioを愛用しています。
+HHKB Studio を買うか悩んでいる方はぜひ以下の記事を読んでみてください。魅力が詰まっています。
+https://minerva.mamansoft.net/2024-01-21-hhkb-studio-vs-h... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/seeiji/articles/e0a23ed9cec0f3</guid>
+      <pubDate>Sun, 26 Apr 2026 09:27:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOLIDやLayered Architectureは何を守っているのか？――アーキテクチャ零曲率定理から見る設計原則と不変量</title>
+      <link>https://qiita.com/iroha1203/items/52d2186f0d510f820e6f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>AI にコードを書いてもらうと、動くものはかなり速く出てきます。
+でも、あとから差分を見て「あ、これ依存の向きがまずい」「境界を越えて直接呼んでいる」「この変更、障害が横に広がりそう」と気づくことがあります。
+そのとき本当に知りたいのは、コードが動くかだけではありません。そ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/iroha1203/items/52d2186f0d510f820e6f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sun, 26 Apr 2026 17:01:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>今日のUITraitCollection</title>
+      <link>https://zenn.dev/tatsube/articles/92ecf68260d2fb</link>
+      <description>SwiftUIの @Environment は、状態を環境変数として扱い、親ビューから子ビューへと効率的に流し込める非常に便利な仕組みです。
+実はUIKitにおいても、このコンセプトを体現する強力な仕組みは古くから備わっています。
+今回は、iOS 8から提供されている歴史あるAPIであり、iOS 17での進化を経て開発者が独自の値を定義・伝播できる柔軟性を手に入れ、@Environmentのように任意の値を階層に流せる仕組みへと進化した UITraitCollection について解説します。
 
- 二人七脚とは
-私 + Claude Code (Agent + subagent 4つ) 体制のことです。
-以下の 4 step を完走した暁には DB 設計が完了している、夢の体制です。
-
-仕様とコードベースからユースケース列挙
-ユースケースのブラッシュアップと起票
-各問いの壁打ち
-subagent による... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/techtrain_blog/articles/0991bc406b58e2</guid>
-      <pubDate>Fri, 24 Apr 2026 12:06:07 +0000</pubDate>
+ UITraitCollectionとは？
+UITraitCollection は、いわば ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tatsube/articles/92ecf68260d2fb</guid>
+      <pubDate>Sun, 26 Apr 2026 11:21:13 +0000</pubDate>
     </item>
     <item>
-      <title>2026年にCGIでWebアプリを作る</title>
-      <link>https://zenn.dev/alarky/articles/cgi-modern-web-app-2026</link>
-      <description>CGI は本当に死んだのか？
-CGI と聞いて何を思い浮かべますか。Perl のアクセスカウンター、掲示板スクリプト、cgi-bin ディレクトリ——2000年代の Web 開発を支えた技術ですが、今ではレガシーの代名詞のように扱われています。Ruby 4.0 では cgi が標準ライブラリから削除されるなど、言語レベルで CGI から離れる動きもあります。
-しかし CGI という仕組み自体は死んでいません。Apache は今も CGI をサポートしていますし、レンタルサーバーでは当たり前に使えます。Go は net/http/cgi を標準ライブラリで提供しており、同じ http.... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/alarky/articles/cgi-modern-web-app-2026</guid>
-      <pubDate>Sat, 25 Apr 2026 18:32:08 +0000</pubDate>
+      <title>AIエージェントにユーザーを演じさせて業務をテストする</title>
+      <link>https://zenn.dev/bizreach_aps/articles/0d758497357167</link>
+      <description>はじめに こんにちは、uchiです。株式会社ビズリーチのAI Product Studio（以下、APS）でエンジニアをしています。APSは2026年2月に新設された組織で、「AIでプロダクト創出を常態化する」をミッションに、現在はAIを前提とした開発プロセスの構築と新規プロダクト開発に取り組んでいます。 この記事では、APSでAI前提の... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/bizreach_aps/articles/0d758497357167</guid>
+      <pubDate>Mon, 27 Apr 2026 04:29:02 +0000</pubDate>
     </item>
     <item>
-      <title>OWASP ZAP の finding を Rust/Axum の handler に戻して直す - じゃあ、おうちで学べる</title>
-      <link>https://syu-m-5151.hatenablog.com/entry/2026/04/23/195535</link>
-      <description>はじめに vulnerable-app に ZAP の full scan を回すと、High finding が並びます。XSS、SQL Injection、Path Traversal。alert 名を眺めて、ふと気づく。これは「危険です」の一覧ではない。handler への差し戻し指示書だ。 OWASP ZAP を実行すると、HTML、Markdown、JSON のレポートが出ます。そこには Cross Site Sc... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://syu-m-5151.hatenablog.com/entry/2026/04/23/195535</guid>
-      <pubDate>Sun, 26 Apr 2026 01:33:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>anyhowとthiserrorの内部実装を覗いてみる</title>
-      <link>https://zenn.dev/uniquevision/articles/f2b75b4109ea14</link>
-      <description>はじめに
-anyhowとthiserrorを実務で使っていて、「なぜこの場面でこちらを選ぶのか」を明確に説明できるでしょうか。
-よくある説明は「anyhowはアプリケーション用、thiserrorはライブラリ用」というものです。しかしこの分類では不十分で、実際にはライブラリ内部でanyhowが適切な場面もあれば、アプリケーションでthiserrorが必要な場面もあります。
-本記事では、両クレートの内部実装に踏み込み、それぞれが何をしていて何が違うのかを見ていきます。内部の仕組みを知ることで、使い分けの解像度が上がるはずです。
-!
-本記事の内容は anyhow 1.0.x / this... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/uniquevision/articles/f2b75b4109ea14</guid>
-      <pubDate>Fri, 24 Apr 2026 09:01:57 +0000</pubDate>
+      <title>LINEをAIエージェントの入口にする現実解</title>
+      <link>https://zenn.dev/peintangos/articles/b024c86e672191</link>
+      <description>こんにちは！peintangos です。ChatGPT、Claude、Discord、Slack など、普段わたしたちが触れる AI のインターフェースはたくさんあります。一方で、日本で個人間のコミュニケーションに使われるアプリとしては、LINE の存在感はかなり大きいです。LY Corporation の FY2024 統合報告書によると、LINE の国内月間アクティブユーザーは約 9,800 万人とされています。では、LINE 上で AI エージェントの応答はどこまで表現できるのでしょうか？この記事では、Messaging API、LIFF、LINE Bot MCP Server を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/peintangos/articles/b024c86e672191</guid>
+      <pubDate>Sun, 26 Apr 2026 11:12:50 +0000</pubDate>
     </item>
     <item>
       <title>ターミナルで動く開発モニタをRustで作った — Ratatuiで実用TUIを作って見えた5つの設計課題とその解き方</title>
@@ -70,17 +69,6 @@ RatatuiのチュートリアルでカウンターアプリやTODOリストを動
 この記事では、Rust製のローカル開発環境モニタ「DevPulse」を題材に、実用的なTUIアプリケーションを作る過程で遭遇した5つの設計課題と、それぞれの解き方を紹介します。DevPulseは、ポート監視・Docker管理・プロセスモニタ・ログストリーミングの4つの機能を1画面に... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/okamyuji/articles/ratatui-real-world-tui-design-patterns</guid>
       <pubDate>Fri, 24 Apr 2026 22:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>VS Code 拡張機能の Webview での描画性能をテトリスで検証してみた</title>
-      <link>https://zenn.dev/nttdata_tech/articles/15290f101cacd2</link>
-      <description>1. はじめに
-突然ですが、VS Codeの拡張機能を作ったことはあるでしょうか。
-今まで私は、何か難しそうだという理由から、全く作ろうと考えていませんでしたが、生成AIの進歩によってお手軽に作れることを知って、最近いくつか試しに作っています。
-今回は、「VS Code の Webview でどこまで動くのか？」 という疑問から、VS Code 拡張機能の描画性能について着目し、ごく簡単にではありますが、Web ブラウザの場合との比較検証をテトリスを動かすことで実施してみました。
-また、VS Code標準のUIではなく、描画の自由度がより高いWebview[1]を使うことにしました。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/15290f101cacd2</guid>
-      <pubDate>Fri, 24 Apr 2026 08:34:33 +0000</pubDate>
     </item>
     <item>
       <title>AIレビューの「で、これ合ってんの？」を減らす</title>
@@ -97,31 +85,26 @@ RatatuiのチュートリアルでカウンターアプリやTODOリストを動
       <pubDate>Fri, 24 Apr 2026 15:24:54 +0000</pubDate>
     </item>
     <item>
-      <title>AIの成果物に責任を取る方法</title>
-      <link>https://zenn.dev/headwaters/articles/68de421c45931b</link>
+      <title>生成AIの正しい障害修正がキッカケで、あなたは顧客の信頼を失うかもしれない</title>
+      <link>https://zenn.dev/ncdc/articles/48a75cec143dd5</link>
       <description>はじめに
-AIが書いたコードでバグが出た。さて、誰の責任だろうか？
-「AIが適当なことを出力したから」はプロの世界では通用しない。
-そのコードをマージし、デプロイする決定を下した「あなた」の責任だ。
-AIコーディング全盛期において、私たちは単なる「コードを書く人」から「AIという部下をマネジメントする意思決定者」へと変化した。
-では、この部下の仕事にどう責任を持ち、どう信頼関係を築けばいいのだろうか。
-この記事では、自分なりのマインドセットをまとめてみる。
+生成AIの登場により、コーディングだけでなく障害調査の効率も劇的に改善されました。スタックトレースを貼り付けるだけで原因の仮説が返ってきます。ログを渡せばパターンを読み解いてくれます。以前なら数時間かかっていた調査が、数十分で終わるケースも珍しくありません。
+しかし、最近は現場で気になる傾向が増えているように思えます。本番障害対応において、生成AIの提案に従った「正しすぎる修正」が、かえって悪影響を生んでいる ケースです。
+この問題の厄介な点は、生成AIが本質的に正しい提案をするからこそ、発生してしまうという点にあります。
 
- 1. 仕事を振るということ
-AI最大の武器は圧倒的な「スピード」だ。
-しかし、AIの出力したコードの1文字1文字を疑い、手作... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/68de421c45931b</guid>
-      <pubDate>Thu, 23 Apr 2026 23:40:05 +0000</pubDate>
+ 何が起きているか：現場の一例
+先日、あるDB処... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/48a75cec143dd5</guid>
+      <pubDate>Sun, 26 Apr 2026 00:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropicの3エージェントハーネスをRailsに取り入れる</title>
-      <link>https://zenn.dev/dely_jp/articles/a45bc3a9e69ab1</link>
-      <description>はじめに
-こんにちは、クラシルでレシチャレの開発をしているkiyokuroです。
-前回の記事では、Claude CodeのHooksでSafety Hookを実装し、決定論的なガードレールを敷いた話を紹介しました。ルール設計、Safety Hook、サブエージェントによる設計調査の自動化と進めてきましたが、1つ残っていた課題がありました。「次にどのskillを実行するか」を人間が判断し、順番に起動していたことです。
-この記事では、Anthropicが公開した3エージェントハーネス（Planner / Generator / Evaluator）の設計を自分たちのRailsプロジェクト... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/a45bc3a9e69ab1</guid>
-      <pubDate>Fri, 24 Apr 2026 07:50:06 +0000</pubDate>
+      <title>Matz の Ruby AOT コンパイラ Spinel を試してみました</title>
+      <link>https://zenn.dev/geeknees/articles/edc3cb36ea251c</link>
+      <description>RubyKaigi 2026 に参加して、Matz のキーノートで Spinel の発表を聞きました。Spinel は Ruby の AOT コンパイラで、Ruby のコードを読み、C のコードを生成し、最後は native binary として実行できる形にします。Ruby を書いている人間としては、「Ruby の AOT コンパイラ」という言葉だけでテンションが上がります。
+Ruby はかなり動的な言語でもあります。メソッド呼び出し、クラスの再オープン、メタプログラミング、eval、実行時に変わるオブジェクトの形。普通に考えると、AOT コンパイルとは相性が悪そうに見えます。
+それで... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/geeknees/articles/edc3cb36ea251c</guid>
+      <pubDate>Sun, 26 Apr 2026 06:34:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

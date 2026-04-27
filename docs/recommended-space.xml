@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 07:45:59 +0000</lastBuildDate>
-    <item>
-      <title>北極観測で気象予測の精度向上へ、OHB Swedenが欧州連携の衛星コンステレーションで約450億円超の契約を獲得【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/45613/</link>
-      <description>2026年3月18日、OHB Swedenは、衛星コンステレーション「EUMETSAT Polar System–Sterna」の構築に向け、大型契約を獲得したと発表しました。契約総額は、約2億4,800万ユーロ（約450億円超）であり、スウェーデン宇宙産業において最大規模の衛星契約となる見込みです。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45613/</guid>
-      <pubDate>Sat, 11 Apr 2026 23:00:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Apr 2026 08:32:45 +0000</lastBuildDate>
     <item>
       <title>混沌と渦巻き合体していく3つの銀河　ハッブル宇宙望遠鏡が観測した相互作用銀河「IC 2431」</title>
       <link>https://sorae.info/astronomy/20260425-ic-2431.html</link>
@@ -56,6 +49,13 @@
       <description>衛星データで災害や積雪、船舶数まで指標化し、査定不要で即時の保険金支払いができる？衛星データを利活用が期待される「パラメトリック保険」の仕組みと可能性を、国内外の事例と合わせて解説します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45652/</guid>
       <pubDate>Mon, 13 Apr 2026 23:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>「クォーク」は本当に素粒子か？　0.00000000000000000001mスケールまでは内部構造がないことを確認</title>
+      <link>https://sorae.info/science/20260426-quark-inside.html</link>
+      <description>私たちの身近にある普通の物質は、最小単位まで分解していくと「クォーク」という粒子に行きつきます。クォークは内部構造を持たず、これ以上分解できない素粒子であると考えられていますが、内部構造がある可能性も残されています。 C… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/science/20260426-quark-inside.html</guid>
+      <pubDate>Sun, 26 Apr 2026 12:30:12 +0000</pubDate>
     </item>
     <item>
       <title>タランチュラ星雲が輝く天空へ向けて照射された4本のレーザービーム　ESOの天文台で撮影</title>
