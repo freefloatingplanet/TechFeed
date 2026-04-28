@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Apr 2026 08:32:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 08:31:12 +0000</lastBuildDate>
+    <item>
+      <title>プレゼンテーション：エンジニアを支援する、将来を見据えたオブザーバビリティプラットフォームの構築</title>
+      <link>https://www.infoq.com/presentations/OpenTelemetry-instrumentation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ウェイン・ベルとダン・ゴメス・ブランコは、スカイスキャナーで可観測性を拡張するために必要なアーキテクチャと文化の変革について議論します。彼らは、OpenTelemetryへの移行によって計測機能がベンダーから切り離された経緯を共有し、プラットフォームを製品として、エンジニアを顧客として扱うことが、800を超えるマイクロサービス全体でインシデント率を削減し、技術的負債を解消する鍵となる理由を説明します。執筆：ダン・ゴメス・ブランコ、ウェイン・ベル (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/OpenTelemetry-instrumentation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 27 Apr 2026 13:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>映画ファン向けのソーシャルプラットフォームであるLetterboxdが、新たなオーナーを探していると報じられている。</title>
+      <link>https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/</link>
+      <description>Semaforによると、Letterboxdの潜在的な買収候補には、CNBCとMS NOWの親会社であるVersantや、ハリウッドのメディア企業であるThe Anklerなどが含まれる。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/</guid>
+      <pubDate>Mon, 27 Apr 2026 20:37:49 +0000</pubDate>
+    </item>
     <item>
       <title>春のニュースまとめ：ブート、セキュリティ、インテグレーション、モジュリス、AMQPの初回リリース候補版</title>
       <link>https://www.infoq.com/news/2026/04/spring-news-roundup-apr20-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -16,25 +30,18 @@
       <pubDate>Mon, 27 Apr 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>QConサンフランシスコ2026：12のトラックが発表されました</title>
+      <link>https://www.infoq.com/news/2026/04/qconsf-2026-tracks-announced/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>QCon San Francisco 2026（11月16日～20日開催）の12のトラックが公開されました。4つのトラックは、本番環境におけるAIを扱います。残りの8つのトラックは、分散システム、アーキテクチャの分解、耐障害性、プラットフォームの内部構造、API設計、スタッフ+リーダーシップなど、シニアエンジニアに求められるその他の内容を網羅しています。早期割引価格は5月12日までです。執筆：Artenisa Chatziou (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/qconsf-2026-tracks-announced/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 27 Apr 2026 15:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>GitLabが定額制コードレビュー、無料プランでのAIアクセス、および利用制限を追加</title>
       <link>https://www.infoq.com/news/2026/04/gitlab-flatrate-view-ai-access/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>オープンコアDevOpsベンダーのGitLabは、DevSecOpsプラットフォームのバージョン18.10と18.11をリリースした。これらの変更点には、無料プランのユーザーにもエージェント型AIを提供する機能、自動コード分析のレビューごとのコスト削減、そして管理者が各チームが毎月AIクレジットに使える金額に上限を設ける機能などが含まれる。 マット・サンダース著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/04/gitlab-flatrate-view-ai-access/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>可観測性とテレメトリがソフトウェアエンジニアリングの実践をどのように強化できるか</title>
-      <link>https://www.infoq.com/news/2026/04/observability-telemetry/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>可観測性は、サーバーレスでイベント駆動型のアーキテクチャに合わせて進化する必要があります。OpenTelemetryはテレメトリをベンダーから切り離し、開発者が実際のシステム動作を説明する一貫性のある高品質なデータを出力できるようにします。共通の語彙と優れたテレメトリは、デバッグを迅速化し、信頼性、速度、開発者の生産性を向上させます。ベン・リンダース著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/observability-telemetry/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 23 Apr 2026 11:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>プレゼンテーション：クラウドにおけるサブミリ秒の応答時間と24時間365日の稼働時間を実現する取引所の構築方法</title>
-      <link>https://www.infoq.com/presentations/exchange-systems-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Frank Yu氏は、Coinbaseが堅牢で公平かつ高速な金融取引所を構築するためのエンジニアリング哲学について語ります。彼は、シングルスレッドアーキテクチャとRaftコンセンサスアルゴリズムを組み合わせることで、24時間365日の可用性を維持できる理由を説明します。また、決定論によってダウンタイムゼロのローリングデプロイメントが可能になり、本番ログを再生してバグを完全に再現できる仕組みについても解説します。 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/exchange-systems-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 23 Apr 2026 09:29:00 +0000</pubDate>
     </item>
     <item>
       <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>
@@ -65,18 +72,11 @@
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>HashiCorp Vault 2.0は、新しいIDフェデレーション機能によりIBMライフサイクルへの移行を示す</title>
-      <link>https://www.infoq.com/news/2026/04/vault-2-0-ibm-identity/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>HashiCorpは、買収に伴いIBMのバージョン管理およびサポートモデルに移行し、Vault 2.0をリリースしました。今回のアップデートでは、静的認証情報なしでシークレット同期を実現するワークロードIDフェデレーション、SCIM 2.0プロビジョニング、ストレージエンジンのパフォーマンス向上などが導入されています。また、IDベースのセキュリティと証明書の自動化を優先しつつ、従来のアーキテクチャコンポーネントを削除しています。 執筆：Mark Silvester (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/vault-2-0-ibm-identity/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 24 Apr 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>プレゼンテーション：パネルディスカッション：効果的な企業文化の構築</title>
-      <link>https://www.infoq.com/presentations/panel-positive-culture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>パネリストたちは、進化する企業文化に関する洞察を共有します。フィードバックループの活用、ソーシャルキャピタルの活用、そして従来の官僚主義とアジャイルエンジニアリングの間の摩擦について議論します。パネリストたちは、リモートチームの結束を維持する方法や、インタビューを活用して企業の真の「ありのままの」文化を明らかにする方法について解説します。執筆：Nicky Wrightson、Suhail Patel、Lesley Cordero、Matthew Card、Natan Žabkar Nordberg (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/panel-positive-culture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 22 Apr 2026 10:10:00 +0000</pubDate>
+      <title>記事：Javaの世界におけるMCP：LLM統合にアーキテクチャ戦略を導入する</title>
+      <link>https://www.infoq.com/articles/mcp-java-architectural-strategy-llm-integrations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>モデルコンテキストプロトコル（MCP）Java SDKが、エンタープライズLLM統合のための新たなアーキテクチャ規律をどのように確立しているかをご覧ください。明示的な契約を定義し、MCPサーバーをアンチコラプションレイヤーとして活用することで、ガバナンス、疎結合、そしてJVMエコシステムおよび既存の運用慣行とのセキュリティ整合性を確保し、統合を脆弱なものから回復力のあるものへと進化させます。執筆：Matteo Rossi (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/mcp-java-architectural-strategy-llm-integrations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 27 Apr 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

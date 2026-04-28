@@ -7,33 +7,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 08:32:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 08:30:59 +0000</lastBuildDate>
     <item>
-      <title>スマホの「残価設定」にメス？　総務省がルール統一を検討も、Appleは「不当な扱い」と猛反発</title>
-      <link>https://www.itmedia.co.jp/mobile/articles/2604/25/news027.html</link>
-      <description>総務省が開催している「利用者視点を踏まえたモバイル市場の検証に関する専門委員会」では、携帯電話のホッピング（短期乗り換え）が議題となっている。それ以外のテーマとして、端末購入プログラムの残価率算出ルールについても話し合いが行われている。 4月20日の第6回会議では、キャリアやスマートフォンメーカー各社... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2604/25/news027.html</guid>
-      <pubDate>Sun, 26 Apr 2026 03:52:34 +0000</pubDate>
+      <title>仕様駆動を取り入れて4ヶ月ほど経ったので思うことなど</title>
+      <link>https://zenn.dev/dress_code/articles/6ff2a65a02d2f7</link>
+      <description>はじめに
+こんにちは。Dress Code 株式会社で、プロダクトエンジニアをやっている津田です。
+仕様駆動開発を始めて 4 ヶ月ほど経過したので、改めて振り返ってみるべく記事に残してみています。
+今回の対象読者は次に列挙するような方々を想定しています。
+
+とりあえず試して実感してみたい人
+プロセスが重そうで踏み出しきれない人
+現場での工夫・実践知を知りたい人
+
+本記事がこれらの方の一助になれば幸いです。
+正直、仕様駆動開発自体の合う合わないは組織の規模やプロダクトの性質、開発スタイルに強く依存すると考えています。
+参考程度に弊社の情報を軽くお伝えすると、次のようになっております。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/6ff2a65a02d2f7</guid>
+      <pubDate>Sun, 26 Apr 2026 14:34:50 +0000</pubDate>
     </item>
     <item>
-      <title>HHKBをUS配列からJIS配列に乗り換えた。</title>
-      <link>https://zenn.dev/seeiji/articles/e0a23ed9cec0f3</link>
-      <description>こんにちは。せーじと申します。普段は、Webやバックエンド、アプリの開発をしております。私は業務や私生活で日常的にRaycastを使っています。
-Raycastと同じぐらい日々使っているのは HHKB Studio です。新卒の初任給で「自己投資」という名目で先輩に勧められて買い、それから惚れ込んで今では6台目ぐらいです。
-今ではHHKB Studioを愛用しています。
-HHKB Studio を買うか悩んでいる方はぜひ以下の記事を読んでみてください。魅力が詰まっています。
-https://minerva.mamansoft.net/2024-01-21-hhkb-studio-vs-h... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/seeiji/articles/e0a23ed9cec0f3</guid>
-      <pubDate>Sun, 26 Apr 2026 09:27:26 +0000</pubDate>
+      <title>春休みなので脆弱性報告したらCVEついた話 (CVE-2026-32309)</title>
+      <link>https://zenn.dev/ao9s/articles/cryptomator-hub-http-downgrade</link>
+      <description>はじめに
+本記事はCVE-2026-32309として公開されており、Cryptomator 1.19.1 より修正が適用されています。
+セキュリティ初学者の視点で書いていますので、説明や公開方法について不適切な点があればコメント等でご指摘いただけると幸いです。
+
+ なぜCVEを取りたいと思ったのか
+私は27年卒予定の学生で26年4月現在絶賛就活中なのですが、開発やネットワークの経験を説明するときにOSSのコントリビュート経験がなく、これから作るにも時間が確保できるかわからないということで「脆弱性の指摘であればトリアージまでの時間がOSSのPRより早く、ついでにセキュリティの勉強にもな... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ao9s/articles/cryptomator-hub-http-downgrade</guid>
+      <pubDate>Mon, 27 Apr 2026 02:14:55 +0000</pubDate>
     </item>
     <item>
-      <title>SOLIDやLayered Architectureは何を守っているのか？――アーキテクチャ零曲率定理から見る設計原則と不変量</title>
-      <link>https://qiita.com/iroha1203/items/52d2186f0d510f820e6f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>AI にコードを書いてもらうと、動くものはかなり速く出てきます。
-でも、あとから差分を見て「あ、これ依存の向きがまずい」「境界を越えて直接呼んでいる」「この変更、障害が横に広がりそう」と気づくことがあります。
-そのとき本当に知りたいのは、コードが動くかだけではありません。そ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/iroha1203/items/52d2186f0d510f820e6f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sun, 26 Apr 2026 17:01:07 +0000</pubDate>
+      <title>Claude Codeと作ったAIオーケストレータを、私はなぜ使わなくなったのか</title>
+      <link>https://zenn.dev/yamk/articles/dark-part-time-job-orchestrator</link>
+      <description>以前、私は Claude Code と一緒に dark-part-time-job というオーケストレーションシステムを作りました。
+これです。
+https://github.com/yamk12nfu/dark-part-time-job
+複数のAIエージェントを tmux 上に並べ、親分・若頭・若衆のような役割分担で開発タスクを進めるための仕組みです。名前からしてだいぶ治安が悪いですが、やりたかったことは意外とまじめでした。
+親分がユーザーの指示を受け、若頭がタスクを分解し、若衆がそれぞれ実装します。ここで重要なのは、人間がworker一人ひとりに細かく指示を出すのではなく、タスク分... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yamk/articles/dark-part-time-job-orchestrator</guid>
+      <pubDate>Sun, 26 Apr 2026 18:07:20 +0000</pubDate>
     </item>
     <item>
       <title>今日のUITraitCollection</title>
@@ -48,11 +63,20 @@ UITraitCollection は、いわば ... (source: Zennのトレンド)</description
       <pubDate>Sun, 26 Apr 2026 11:21:13 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントにユーザーを演じさせて業務をテストする</title>
-      <link>https://zenn.dev/bizreach_aps/articles/0d758497357167</link>
-      <description>はじめに こんにちは、uchiです。株式会社ビズリーチのAI Product Studio（以下、APS）でエンジニアをしています。APSは2026年2月に新設された組織で、「AIでプロダクト創出を常態化する」をミッションに、現在はAIを前提とした開発プロセスの構築と新規プロダクト開発に取り組んでいます。 この記事では、APSでAI前提の... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/bizreach_aps/articles/0d758497357167</guid>
-      <pubDate>Mon, 27 Apr 2026 04:29:02 +0000</pubDate>
+      <title>OpenClawとHermesの違いを思想から理解する</title>
+      <link>https://zenn.dev/mkj/articles/9431e342db202f</link>
+      <description>松尾研究所シニアデータサイエンティストの太田です。普段はLLMの事後学習に関するプロジェクトに携わっています。
+現在松尾研究所では各種業務をメンバーに代わって自律的に代行するパーソナルエージェントの社内開発に取り組んでいます。この記事ではそうした開発のなかで調査をしたOpenClawとHermesについて、思想の違いとデザインチョイスを主に共有したいと思います。
+!
+この記事のターゲット
+
+OpenClawやHermesを名前は知っているが違いがよくわからない人
+AIエージェントの「アーキテクチャ」（あるいは「ハーネス」）に興味がある人
+組織内でClaw活用を検討している人
+
+なおこの記... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mkj/articles/9431e342db202f</guid>
+      <pubDate>Mon, 27 Apr 2026 02:50:05 +0000</pubDate>
     </item>
     <item>
       <title>LINEをAIエージェントの入口にする現実解</title>
@@ -62,40 +86,37 @@ UITraitCollection は、いわば ... (source: Zennのトレンド)</description
       <pubDate>Sun, 26 Apr 2026 11:12:50 +0000</pubDate>
     </item>
     <item>
-      <title>ターミナルで動く開発モニタをRustで作った — Ratatuiで実用TUIを作って見えた5つの設計課題とその解き方</title>
-      <link>https://zenn.dev/okamyuji/articles/ratatui-real-world-tui-design-patterns</link>
+      <title>AIエージェントにユーザーを演じさせて業務をテストする</title>
+      <link>https://zenn.dev/bizreach_aps/articles/0d758497357167</link>
       <description>はじめに
-RatatuiのチュートリアルでカウンターアプリやTODOリストを動かすところまでは、多くの記事がカバーしています。しかし、実際に複数のデータソースを扱い、バックグラウンドで非同期タスクを走らせ、異なるOS上で同じ体験を提供しようとすると、チュートリアルでは扱われない設計課題に次々と直面します。
-この記事では、Rust製のローカル開発環境モニタ「DevPulse」を題材に、実用的なTUIアプリケーションを作る過程で遭遇した5つの設計課題と、それぞれの解き方を紹介します。DevPulseは、ポート監視・Docker管理・プロセスモニタ・ログストリーミングの4つの機能を1画面に... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/okamyuji/articles/ratatui-real-world-tui-design-patterns</guid>
-      <pubDate>Fri, 24 Apr 2026 22:19:53 +0000</pubDate>
+こんにちは、uchiです。株式会社ビズリーチのAI Product Studio（以下、APS）でエンジニアをしています。APSは2026年2月に新設された組織で、「AIでプロダクト創出を常態化する」をミッションに、現在はAIを前提とした開発プロセスの構築と新規プロダクト開発に取り組んでいます。
+この記事では、APSでAI前提の開発フローを構築するなかで生まれた「Agentic UATスキル」を紹介します。AIエージェントに仕様を一切教えずエンドユーザーを演じさせ、業務を遂行できるかを自律的にテストする手法です。ソースコードを読ませず、UIだけを頼りに業務を進めさせることで... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/bizreach_aps/articles/0d758497357167</guid>
+      <pubDate>Mon, 27 Apr 2026 03:53:16 +0000</pubDate>
     </item>
     <item>
-      <title>AIレビューの「で、これ合ってんの？」を減らす</title>
-      <link>https://zenn.dev/nka21/articles/claude-code-multi-agent-reviewer</link>
-      <description>AIにコードレビューをさせて、返ってきた指摘を眺めながらこう思ったことはないでしょうか。
-「で、これ合ってんの？」
-指摘の数は出る。でもその中に、的外れなもの、文脈を無視したもの、スタイルレベルのものが混ざっている。結局、全部の指摘を自分で検証する羽目になって、レビューの時短どころか確認作業が増えている。
-
- レビューにはディフェンスが必要
-人間のPRレビューを思い出してください。
-レビュアーが「ここ問題では？」と指摘する。実装者が「いや、ここはこういう意図でこうしてます」と返す。レビュアーが「なるほど、それなら問題ないですね」あるいは「いや、それでもこのケースは危ないです」と返す。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nka21/articles/claude-code-multi-agent-reviewer</guid>
-      <pubDate>Fri, 24 Apr 2026 15:24:54 +0000</pubDate>
+      <title>コードを1行も書く前にバグを潰す — 生成AIが「理想論」だったシフトレフトを現実にする</title>
+      <link>https://zenn.dev/tokium_dev/articles/c0e6e9aca98a85</link>
+      <description>はじめに
+こんにちは！TOKIUMでQAチームのリーダーをしている西田です。
+「シフトレフト」「ATDD（受け入れテスト駆動開発）」「BDD（振る舞い駆動開発）」 — テストを上流に持っていこうという考え方は、ソフトウェア開発の世界で10年以上前から提唱されてきました。概念としては広く知られているのに、実際に徹底できている現場は少ない。「理想はわかるけど、やるのが大変」というのが正直なところだったと思います。
+ところが今、生成AIの急速な進化によって前提が変わりつつあります。Claude CodeやGitHub Copilotによるコーディング自動化、Playwright Agent... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/c0e6e9aca98a85</guid>
+      <pubDate>Sun, 26 Apr 2026 23:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>生成AIの正しい障害修正がキッカケで、あなたは顧客の信頼を失うかもしれない</title>
-      <link>https://zenn.dev/ncdc/articles/48a75cec143dd5</link>
+      <title>40%キーボードに移行する前に知っておきたかったこと</title>
+      <link>https://zenn.dev/bilzard/articles/b924d7995b28bc</link>
       <description>はじめに
-生成AIの登場により、コーディングだけでなく障害調査の効率も劇的に改善されました。スタックトレースを貼り付けるだけで原因の仮説が返ってきます。ログを渡せばパターンを読み解いてくれます。以前なら数時間かかっていた調査が、数十分で終わるケースも珍しくありません。
-しかし、最近は現場で気になる傾向が増えているように思えます。本番障害対応において、生成AIの提案に従った「正しすぎる修正」が、かえって悪影響を生んでいる ケースです。
-この問題の厄介な点は、生成AIが本質的に正しい提案をするからこそ、発生してしまうという点にあります。
+この記事ではエンジニアが30%~40%とキー数の極端に少ないレイアウトにする場合の注意点についてまとめました。
 
- 何が起きているか：現場の一例
-先日、あるDB処... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/48a75cec143dd5</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:05 +0000</pubDate>
+ 用語について
+ShiftやCtrlといった「修飾キー」と、記号などを打つための「レイヤー切り替えキー」は、どちらも「他のキーと組み合わせて別の機能を持たせる」という点で本質的に同じものです。この記事では、これらをまとめて Metaキー と呼ぶことにします。
+
+ 40%レイアウトの基本ルール
+結論を先に言うと、 日常的にコマンドを叩くような作業をするエンジニアは5カラムなど極限までキー数を削ったキーボード配置に安易に移行するのは推奨しない というのが主な主張です... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/bilzard/articles/b924d7995b28bc</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:10 +0000</pubDate>
     </item>
     <item>
       <title>Matz の Ruby AOT コンパイラ Spinel を試してみました</title>
