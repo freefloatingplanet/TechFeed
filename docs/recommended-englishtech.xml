@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Apr 2026 08:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 08:25:05 +0000</lastBuildDate>
+    <item>
+      <title>npmxがアルファ版に到達：npmレジストリ向けのコミュニティ主導型代替ブラウザ</title>
+      <link>https://www.infoq.com/news/2026/04/npmx-browser-alpha/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>npmxは、Daniel Roe氏と250名以上の貢献者によって開発された、npmレジストリ用のオープンソースパッケージブラウザです。インストールサイズの計算や古い依存関係の警告など、公式のnpmjs.comインターフェースにはない機能と速度を重視しています。フィードバックでは、検索性能の速さが高く評価されている一方で、設計上の懸念も指摘されています。このプロジェクトはGitHubで公開されています。執筆：Daniel Curtis (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/npmx-browser-alpha/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 28 Apr 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenChoreo 1.0は、Kubernetes開発者プラットフォームにAIエージェントとGitOpsをもたらします。</title>
+      <link>https://www.infoq.com/news/2026/04/openchoreo-10/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Kubernetes上に構築されたオープンソースの社内開発者プラットフォームであるOpenChoreoが、バージョン1.0をリリースし、Cloud Native Computing Foundation（CNCF）サンドボックスに採択されました。このプロジェクトは、エンジニアリングチームがKubernetes上でワークロードを実行するための完全な基盤を、自ら構築する必要なく提供できるように設計されています。執筆：Matt Saunders (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/openchoreo-10/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>プレゼンテーション：エンジニアを支援する、将来を見据えたオブザーバビリティプラットフォームの構築</title>
       <link>https://www.infoq.com/presentations/OpenTelemetry-instrumentation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -23,11 +37,11 @@
       <pubDate>Mon, 27 Apr 2026 20:37:49 +0000</pubDate>
     </item>
     <item>
-      <title>春のニュースまとめ：ブート、セキュリティ、インテグレーション、モジュリス、AMQPの初回リリース候補版</title>
-      <link>https://www.infoq.com/news/2026/04/spring-news-roundup-apr20-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>2026年4月20日の週、Springエコシステムでは活発な動きが見られ、Spring Boot、Spring Security、Spring Integration、Spring Modulith、Spring AMQP、Spring for Apache Kafka、Spring Vaultの最初のリリース候補版が発表されました。 執筆：Michael Redlich (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/spring-news-roundup-apr20-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 27 Apr 2026 02:30:00 +0000</pubDate>
+      <title>GitHubがスタックされたプルリクエストによる大規模マージ問題に対処</title>
+      <link>https://www.infoq.com/news/2026/04/github-stacked-prs/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>GitHubは、gh-stackと呼ばれる新しいCLI拡張機能を通じて、ネイティブなスタック型プルリクエストワークフローを導入しました。これは、サードパーティツールが長年担ってきたギャップを埋めるものです。大規模なプルリクエストはレビューが難しく、マージに時間がかかり、競合が発生しやすいという問題を解決することを目的としており、GitHubによると、レビュー担当者がコンテキストを失い、フィードバックの質が低下し、チーム全体の作業速度が低下するとのことです。執筆：マット・サンダース (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/github-stacked-prs/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>QConサンフランシスコ2026：12のトラックが発表されました</title>
@@ -35,13 +49,6 @@
       <description>QCon San Francisco 2026（11月16日～20日開催）の12のトラックが公開されました。4つのトラックは、本番環境におけるAIを扱います。残りの8つのトラックは、分散システム、アーキテクチャの分解、耐障害性、プラットフォームの内部構造、API設計、スタッフ+リーダーシップなど、シニアエンジニアに求められるその他の内容を網羅しています。早期割引価格は5月12日までです。執筆：Artenisa Chatziou (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/04/qconsf-2026-tracks-announced/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Mon, 27 Apr 2026 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitLabが定額制コードレビュー、無料プランでのAIアクセス、および利用制限を追加</title>
-      <link>https://www.infoq.com/news/2026/04/gitlab-flatrate-view-ai-access/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>オープンコアDevOpsベンダーのGitLabは、DevSecOpsプラットフォームのバージョン18.10と18.11をリリースした。これらの変更点には、無料プランのユーザーにもエージェント型AIを提供する機能、自動コード分析のレビューごとのコスト削減、そして管理者が各チームが毎月AIクレジットに使える金額に上限を設ける機能などが含まれる。 マット・サンダース著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/gitlab-flatrate-view-ai-access/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>
@@ -70,13 +77,6 @@
       <description>APIキー、トークンファイル、OAuthデバイスフロー、クライアント認証情報を比較。CLIに最適な認証パターンを選択するための実践的なガイド。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cli-authentication-guide</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>記事：Javaの世界におけるMCP：LLM統合にアーキテクチャ戦略を導入する</title>
-      <link>https://www.infoq.com/articles/mcp-java-architectural-strategy-llm-integrations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>モデルコンテキストプロトコル（MCP）Java SDKが、エンタープライズLLM統合のための新たなアーキテクチャ規律をどのように確立しているかをご覧ください。明示的な契約を定義し、MCPサーバーをアンチコラプションレイヤーとして活用することで、ガバナンス、疎結合、そしてJVMエコシステムおよび既存の運用慣行とのセキュリティ整合性を確保し、統合を脆弱なものから回復力のあるものへと進化させます。執筆：Matteo Rossi (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/mcp-java-architectural-strategy-llm-integrations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 27 Apr 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

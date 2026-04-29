@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 08:31:03 +0000</lastBuildDate>
-    <item>
-      <title>混沌と渦巻き合体していく3つの銀河　ハッブル宇宙望遠鏡が観測した相互作用銀河「IC 2431」</title>
-      <link>https://sorae.info/astronomy/20260425-ic-2431.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡が観測した相互作用銀河「IC 2431」。かに座の方向、地球から約6億8100万光年先にあります。 画像の中心に広がる暗い雲の塊や、その周囲で渦を巻く明るい星々の集まりが、混沌とした環境を物語… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260425-ic-2431.html</guid>
-      <pubDate>Sat, 25 Apr 2026 12:10:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>北極の冬季海氷域面積が今シーズンも衛星観測史上最小を記録　2025年に続き2年連続で更新</title>
-      <link>https://sorae.info/science/20260425-arctic-sea-ice-extent.html</link>
-      <description>JAXA（宇宙航空研究開発機構）と国立極地研究所（NIPR、極地研）は2026年4月18日付で、2025年から2026年にかけての北極域の冬季海氷域の面積が、衛星観測が開始された1979年以降で最も小さい値を記録したこと… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/science/20260425-arctic-sea-ice-extent.html</guid>
-      <pubDate>Sat, 25 Apr 2026 09:56:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Apr 2026 08:24:56 +0000</lastBuildDate>
     <item>
       <title>ロシアが「アンガラ1.2」ロケットの打ち上げに成功　国防省の軍事衛星を軌道投入</title>
       <link>https://sorae.info/ssn/20260426-angara1-2.html</link>
@@ -30,18 +16,18 @@
       <pubDate>Sun, 26 Apr 2026 03:22:21 +0000</pubDate>
     </item>
     <item>
-      <title>NASAが「アルテミスII」ミッションで撮影された“地球の入り”動画をシェア</title>
-      <link>https://sorae.info/space/20260423-artemis-ii-earthset-movie.html</link>
-      <description>まずは、こちらの動画をご覧ください。月の向こう側へ沈んでいく、三日月形に輝く地球。実際に月の周辺へ行かないと見ることができない、今はまだ限られた人だけが直接目にすることのできる光景です。 【▲ NASAのReid Wis… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260423-artemis-ii-earthset-movie.html</guid>
-      <pubDate>Thu, 23 Apr 2026 12:24:32 +0000</pubDate>
-    </item>
-    <item>
       <title>ispaceが月周回衛星を活用した通信・測位サービスを発表。地球と月をつなぐハブ、月周回衛星があれば何ができる？【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/45639/</link>
       <description>2026年3月27日、ispaceは月周回衛星を活用した通信・測位サービスの立ち上げを発表しました。「地球と月面」をつなぐハブとして機能していくのか、今後の動向に注目です。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45639/</guid>
       <pubDate>Mon, 27 Apr 2026 23:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>衛星データ×AIの解析サービス「SateAIs API」β版が公開　無料プランで船舶検知や油膜検出が可能に</title>
+      <link>https://sorae.info/biz/20260429-spaceshift-sateais-api.html</link>
+      <description>株式会社スペースシフトは2026年4月28日、衛星データ解析ブランド「SateAIs（サテアイズ）」のAPI（β版）を公開しました。ブラウザ上でアカウントを登録するだけで、衛星データのAI解析を誰でも試すことができます。… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/biz/20260429-spaceshift-sateais-api.html</guid>
+      <pubDate>Wed, 29 Apr 2026 08:22:24 +0000</pubDate>
     </item>
     <item>
       <title>「パラメトリック保険」は衛星利用ビジネスの注目ワードに。地球のあらゆる動きを指標化できる衛星データ×保険の未来</title>
@@ -58,6 +44,13 @@
       <pubDate>Sun, 26 Apr 2026 12:30:12 +0000</pubDate>
     </item>
     <item>
+      <title>ULAが「アトラスV」で6回目のAmazon Leoミッションを実施　衛星29機を打ち上げ</title>
+      <link>https://sorae.info/ssn/20260429-ula-amazon-leo.html</link>
+      <description>ULA（ユナイテッド・ローンチ・アライアンス）は日本時間2026年4月28日に「Atlas V（アトラスV）」ロケットの打ち上げを実施しました。搭載されていたAmazonの衛星は無事に軌道に投入されたことを、ULAとAm… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260429-ula-amazon-leo.html</guid>
+      <pubDate>Wed, 29 Apr 2026 06:35:53 +0000</pubDate>
+    </item>
+    <item>
       <title>米企業Vantorが軌道上の「ハッブル宇宙望遠鏡」を自社の衛星で撮影</title>
       <link>https://sorae.info/space/20260427-vantor-hubble.html</link>
       <description>こちらは、アメリカ企業Vantorが日本時間2026年4月24日にSNSのXで投稿した画像。 写っているのは、NASA（アメリカ航空宇宙局）とESA（ヨーロッパ宇宙機関）の「ハッブル宇宙望遠鏡」です。 60km以上先のハ… (source: sorae 宇宙へのポータルサイト)</description>
@@ -70,6 +63,13 @@
       <description>衛星内で実験などができる小型宇宙機を開発するElevationSpaceは米国のRedwire Corporationとの締結を発表しました。その提携内容と、RedwireがElevationSpaceに期待することについて、直接お話を伺いました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45700/</guid>
       <pubDate>Thu, 23 Apr 2026 23:21:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>【イベントレポート】冷え込む夕暮れに沢山の笑顔と歓声！イオンモール多摩平の森・星空鑑賞会</title>
+      <link>https://sorae.info/event/kozushima-community-20260321-report.html</link>
+      <description>2026年3月21日に実施した、soraeと「星空ツナガルコミュニティ」の共同企画によるイオンモール多摩平の森での星空鑑賞会についてレポートします。 夕方にかけてぐっと気温が下がり、肌寒さを感じる冷え込みとなりましたが、… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/event/kozushima-community-20260321-report.html</guid>
+      <pubDate>Tue, 28 Apr 2026 08:53:51 +0000</pubDate>
     </item>
     <item>
       <title>GOSATプラグインを使って、温室効果ガスのデータをQGISで可視化しよう【後編】</title>

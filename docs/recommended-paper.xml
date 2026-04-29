@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Apr 2026 08:31:07 +0000</lastBuildDate>
-    <item>
-      <title>エージェント型集合体：自己組織化マルチエージェントシステムにおける平衡、不確定性、および内因性サイクル</title>
-      <link>https://arxiv.org/abs/2603.00130v2</link>
-      <description>現在のマルチエージェントAIシステムは、設計時に役割が指定された固定数のエージェントで動作します。実行時にエージェントを作成、破棄、または再専門化すべきタイミングを規定する正式な理論は存在せず、ましてやリソースや目標の変化に対して個体群構造がどのように反応するかは規定されていません。そこで、私たちはエージェントハイブというフレームワークを提案します。これは、サンドボックス化された実行環境と言語モデルへのアクセスを備えた自律的なマイクロエージェントの可変個体群が、誕生、複製、専門化、そして死という個体群動態を経るフレームワークです。エージェントファミリーは生産部門の役割を担い、計算とメモリは生産要素の役割を担い、オーケストレーターはワルラスの競売人とグローバルワークスペースという二つの役割を担います。動的一般均衡のために開発された多部門成長理論（Benhabib &amp; Nishimura, 1985; Venditti, 2005; Garnier, Nishimura &amp; Venditti, 2013）に基づいて、7 つの解析結果を証明します。(i) Brouwer の不動点定理による  (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.00130v2</guid>
-      <pubDate>Mon, 23 Feb 2026 13:22:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Apr 2026 08:25:00 +0000</lastBuildDate>
     <item>
       <title>非常に風変わりな褐色矮星が、暖かい木星と高温のスーパーアースと同じ平面上に位置する。</title>
       <link>https://arxiv.org/abs/2604.23926v1</link>

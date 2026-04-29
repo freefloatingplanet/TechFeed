@@ -7,25 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 08:30:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 08:24:52 +0000</lastBuildDate>
     <item>
-      <title>仕様駆動を取り入れて4ヶ月ほど経ったので思うことなど</title>
-      <link>https://zenn.dev/dress_code/articles/6ff2a65a02d2f7</link>
-      <description>はじめに
-こんにちは。Dress Code 株式会社で、プロダクトエンジニアをやっている津田です。
-仕様駆動開発を始めて 4 ヶ月ほど経過したので、改めて振り返ってみるべく記事に残してみています。
-今回の対象読者は次に列挙するような方々を想定しています。
-
-とりあえず試して実感してみたい人
-プロセスが重そうで踏み出しきれない人
-現場での工夫・実践知を知りたい人
-
-本記事がこれらの方の一助になれば幸いです。
-正直、仕様駆動開発自体の合う合わないは組織の規模やプロダクトの性質、開発スタイルに強く依存すると考えています。
-参考程度に弊社の情報を軽くお伝えすると、次のようになっております。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/6ff2a65a02d2f7</guid>
-      <pubDate>Sun, 26 Apr 2026 14:34:50 +0000</pubDate>
+      <title>エーアイではなくエアイ、インターネットではなくインタネト。トクン時代のカタカナ語圧縮主義と「ティザー」表記の考古学（CloseBox） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/04/29/5031.html</link>
+      <description>映画やゲーム、ガジェットの発表前に出てくる短い予告映像を、最近では「ティザー」「ティザートレーラー」と呼ぶことが増えています。でも、英語の teaser の発音に近いカタカナ表記は、本来なら「ティーザー」です。「ティザー」では、長音、音引き「ー」がひとつ足りません。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.techno-edge.net/article/2026/04/29/5031.html</guid>
+      <pubDate>Wed, 29 Apr 2026 04:17:10 +0000</pubDate>
     </item>
     <item>
       <title>春休みなので脆弱性報告したらCVEついた話 (CVE-2026-32309)</title>
@@ -38,29 +26,6 @@
 私は27年卒予定の学生で26年4月現在絶賛就活中なのですが、開発やネットワークの経験を説明するときにOSSのコントリビュート経験がなく、これから作るにも時間が確保できるかわからないということで「脆弱性の指摘であればトリアージまでの時間がOSSのPRより早く、ついでにセキュリティの勉強にもな... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/ao9s/articles/cryptomator-hub-http-downgrade</guid>
       <pubDate>Mon, 27 Apr 2026 02:14:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Codeと作ったAIオーケストレータを、私はなぜ使わなくなったのか</title>
-      <link>https://zenn.dev/yamk/articles/dark-part-time-job-orchestrator</link>
-      <description>以前、私は Claude Code と一緒に dark-part-time-job というオーケストレーションシステムを作りました。
-これです。
-https://github.com/yamk12nfu/dark-part-time-job
-複数のAIエージェントを tmux 上に並べ、親分・若頭・若衆のような役割分担で開発タスクを進めるための仕組みです。名前からしてだいぶ治安が悪いですが、やりたかったことは意外とまじめでした。
-親分がユーザーの指示を受け、若頭がタスクを分解し、若衆がそれぞれ実装します。ここで重要なのは、人間がworker一人ひとりに細かく指示を出すのではなく、タスク分... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yamk/articles/dark-part-time-job-orchestrator</guid>
-      <pubDate>Sun, 26 Apr 2026 18:07:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>今日のUITraitCollection</title>
-      <link>https://zenn.dev/tatsube/articles/92ecf68260d2fb</link>
-      <description>SwiftUIの @Environment は、状態を環境変数として扱い、親ビューから子ビューへと効率的に流し込める非常に便利な仕組みです。
-実はUIKitにおいても、このコンセプトを体現する強力な仕組みは古くから備わっています。
-今回は、iOS 8から提供されている歴史あるAPIであり、iOS 17での進化を経て開発者が独自の値を定義・伝播できる柔軟性を手に入れ、@Environmentのように任意の値を階層に流せる仕組みへと進化した UITraitCollection について解説します。
-
- UITraitCollectionとは？
-UITraitCollection は、いわば ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tatsube/articles/92ecf68260d2fb</guid>
-      <pubDate>Sun, 26 Apr 2026 11:21:13 +0000</pubDate>
     </item>
     <item>
       <title>OpenClawとHermesの違いを思想から理解する</title>
@@ -79,11 +44,40 @@ AIエージェントの「アーキテクチャ」（あるいは「ハーネス
       <pubDate>Mon, 27 Apr 2026 02:50:05 +0000</pubDate>
     </item>
     <item>
-      <title>LINEをAIエージェントの入口にする現実解</title>
-      <link>https://zenn.dev/peintangos/articles/b024c86e672191</link>
-      <description>こんにちは！peintangos です。ChatGPT、Claude、Discord、Slack など、普段わたしたちが触れる AI のインターフェースはたくさんあります。一方で、日本で個人間のコミュニケーションに使われるアプリとしては、LINE の存在感はかなり大きいです。LY Corporation の FY2024 統合報告書によると、LINE の国内月間アクティブユーザーは約 9,800 万人とされています。では、LINE 上で AI エージェントの応答はどこまで表現できるのでしょうか？この記事では、Messaging API、LIFF、LINE Bot MCP Server を... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/peintangos/articles/b024c86e672191</guid>
-      <pubDate>Sun, 26 Apr 2026 11:12:50 +0000</pubDate>
+      <title>97%のPermission確認を自動化するCoding Agent用OSS「ccgate」が誕生した</title>
+      <link>https://zenn.dev/layerx/articles/20260428-ccgate</link>
+      <description>!
+
+Claude / CodexのPermission確認をLLMに代行させるccgateというCLIを作った
+もとはAuto Mode的な体験を目指して作り、Auto Modeが使えるようになった今もPlan mode中の確認やCodexへの展開、ログ・metricsの可視化のために使い続けている
+自分の環境では1ヶ月約2000件のPermission確認のうち、基本的に97%近くが自動化された
+
+
+
+ はじめに
+こんにちは。@tak848です。今日で25になりました。もうアラサーってやつなんでしょうか。
+みなさん、Coding Agentは使っていますか？
+個人的には、個人開発でも... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/layerx/articles/20260428-ccgate</guid>
+      <pubDate>Tue, 28 Apr 2026 09:23:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>ベクトルDBを使わないRAG。全てのナレッジを階層化する手法</title>
+      <link>https://zenn.dev/knowledgesense/articles/7dddae04a7d828</link>
+      <description>本記事では、RAGの性能を高めるための「Corpus2Skill」という手法について、ざっくり理解します。
+株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。
+
+ この記事は何
+この記事は、「ベクトルDB」を使わずにRAGの精度を上げる新手法「Corpus2Skill」の論文[1]について、日本語で簡単にまとめたものです。
+https://arxiv.org/abs/2604.14572
+今回も「そもそもRAGとは？」については、知っている前提で進みます（参考）
+
+ 本題
+
+ ざっくりサマリー
+「Cor... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/7dddae04a7d828</guid>
+      <pubDate>Tue, 28 Apr 2026 00:01:05 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントにユーザーを演じさせて業務をテストする</title>
@@ -119,13 +113,25 @@ ShiftやCtrlといった「修飾キー」と、記号などを打つための�
       <pubDate>Tue, 28 Apr 2026 00:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>Matz の Ruby AOT コンパイラ Spinel を試してみました</title>
-      <link>https://zenn.dev/geeknees/articles/edc3cb36ea251c</link>
-      <description>RubyKaigi 2026 に参加して、Matz のキーノートで Spinel の発表を聞きました。Spinel は Ruby の AOT コンパイラで、Ruby のコードを読み、C のコードを生成し、最後は native binary として実行できる形にします。Ruby を書いている人間としては、「Ruby の AOT コンパイラ」という言葉だけでテンションが上がります。
-Ruby はかなり動的な言語でもあります。メソッド呼び出し、クラスの再オープン、メタプログラミング、eval、実行時に変わるオブジェクトの形。普通に考えると、AOT コンパイルとは相性が悪そうに見えます。
-それで... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/geeknees/articles/edc3cb36ea251c</guid>
-      <pubDate>Sun, 26 Apr 2026 06:34:35 +0000</pubDate>
+      <title>AIに会社のGoogleアカウントを渡していませんか</title>
+      <link>https://zenn.dev/finatext/articles/mcp-gateway-google-sa</link>
+      <description>1. Google MCPを接続したときに起きること
+たとえば、来週のチーム進捗会議のアジェンダを AI に作ってもらおうとして、「最近の社内ドキュメントから議題を整理して」と頼んだとします。返ってきたアジェンダの中に、なぜか「来月から A さんが家庭の事情で退職予定」という項目が紛れ込んでいる👉AI は、自分のドライブに置いてあったメンバーとの 1on1 メモまで読みに行っていた——という事故が、方法論として成立し得ます。
+AIエージェントを Google Workspace に接続するとき、ユーザの見れる範囲をAIにそのまま見せるというのは一見適切なように見えて、こういった不慮の... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/finatext/articles/mcp-gateway-google-sa</guid>
+      <pubDate>Tue, 28 Apr 2026 02:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeのルーチン機能で定期的にパフォーマンスチューニングをさせている</title>
+      <link>https://zenn.dev/yamadashy/articles/claude-code-routines-perf-tuning</link>
+      <description>Claude Codeのルーチン（Routines）機能を、何に使うのが良いのかしばらく考えていました。
+クラウド上でプロンプトを定期実行できる便利な機能なのですが、定期的に動かして意味のあるタスクは何だろう、と。
+たどり着いたのが、パフォーマンスチューニングです。
+「速くなったか」は数値で判断できるので、ベンチマーク基盤さえあれば、あとはAIに任せられます。
+機能としてデグレしていないかもテストが充実していれば自動で確認できますし、ブランチを切って進めるので本流には影響しません。設計の創造性があまり要らないのもAIに任せやすいところですね。
+私が開発しているRepomixというCLIで... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yamadashy/articles/claude-code-routines-perf-tuning</guid>
+      <pubDate>Tue, 28 Apr 2026 02:16:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
