@@ -7,41 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 08:24:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 08:27:31 +0000</lastBuildDate>
     <item>
-      <title>エーアイではなくエアイ、インターネットではなくインタネト。トクン時代のカタカナ語圧縮主義と「ティザー」表記の考古学（CloseBox） | テクノエッジ TechnoEdge</title>
-      <link>https://www.techno-edge.net/article/2026/04/29/5031.html</link>
-      <description>映画やゲーム、ガジェットの発表前に出てくる短い予告映像を、最近では「ティザー」「ティザートレーラー」と呼ぶことが増えています。でも、英語の teaser の発音に近いカタカナ表記は、本来なら「ティーザー」です。「ティザー」では、長音、音引き「ー」がひとつ足りません。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.techno-edge.net/article/2026/04/29/5031.html</guid>
-      <pubDate>Wed, 29 Apr 2026 04:17:10 +0000</pubDate>
+      <title>ガバメント AI「源内」（genai-ai-api）を閉域の AWS 環境へデプロイしてみた</title>
+      <link>https://qiita.com/takeda_h/items/89201d196e3f68ba3044?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>デジタル庁が政府機関で実装を進めている生成 AI 利用環境であるガバメント AI「源内」について、その一部が先日オープンソースとして公開されました。
+
+地方自治体側としても、将来的に源内をガバメントクラウドで使うことがあるのではないかと気になっているところです。
+そこで... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/takeda_h/items/89201d196e3f68ba3044?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 29 Apr 2026 08:48:36 +0000</pubDate>
     </item>
     <item>
-      <title>春休みなので脆弱性報告したらCVEついた話 (CVE-2026-32309)</title>
-      <link>https://zenn.dev/ao9s/articles/cryptomator-hub-http-downgrade</link>
+      <title>エージェントコスト対策としてローカルLLMはアリ？— Ollamaで試してみた</title>
+      <link>https://zenn.dev/headwaters/articles/509a1f83c693ce</link>
       <description>はじめに
-本記事はCVE-2026-32309として公開されており、Cryptomator 1.19.1 より修正が適用されています。
-セキュリティ初学者の視点で書いていますので、説明や公開方法について不適切な点があればコメント等でご指摘いただけると幸いです。
-
- なぜCVEを取りたいと思ったのか
-私は27年卒予定の学生で26年4月現在絶賛就活中なのですが、開発やネットワークの経験を説明するときにOSSのコントリビュート経験がなく、これから作るにも時間が確保できるかわからないということで「脆弱性の指摘であればトリアージまでの時間がOSSのPRより早く、ついでにセキュリティの勉強にもな... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ao9s/articles/cryptomator-hub-http-downgrade</guid>
-      <pubDate>Mon, 27 Apr 2026 02:14:55 +0000</pubDate>
+AIエージェントが発達した昨今、頭の中で想像したものを実際にアプリとして落とし込むことは障壁がかなり低くなったと思います。
+しかし、一方でこの先エージェント自体を今までのように安易に利用することが難しくなってくるかもしれません。
+GitHub Copilotが2026年6月1日より従量課金制へ移行すると発表しました。
+これまでの「プレミアムリクエスト」方式が廃止され、「GitHub AIクレジット」という実使用量ベースの課金に切り替わります。GitHubはその背景として、Copilotがエディタ内のアシスタントから複数ステップをこなすエージェント型プラットフォームへ進化した... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/509a1f83c693ce</guid>
+      <pubDate>Tue, 28 Apr 2026 08:45:05 +0000</pubDate>
     </item>
     <item>
-      <title>OpenClawとHermesの違いを思想から理解する</title>
-      <link>https://zenn.dev/mkj/articles/9431e342db202f</link>
-      <description>松尾研究所シニアデータサイエンティストの太田です。普段はLLMの事後学習に関するプロジェクトに携わっています。
-現在松尾研究所では各種業務をメンバーに代わって自律的に代行するパーソナルエージェントの社内開発に取り組んでいます。この記事ではそうした開発のなかで調査をしたOpenClawとHermesについて、思想の違いとデザインチョイスを主に共有したいと思います。
-!
-この記事のターゲット
+      <title>国立国会図書館のOCR技術を使って、完全オフラインOCRのChrome拡張を作ってみた</title>
+      <link>https://zenn.dev/lecto/articles/a2ee65243b02b3</link>
+      <description>はじめに
+画像やPDFのテキストをコピーしたいとき、オンラインのOCRサービスに画像を送るのはちょっと抵抗がありませんか？ 特に社外秘の資料や個人情報が写っている場合。
+通信ゼロ、ブラウザの中だけで完結するOCR があれば安心して使えるのに — そう思って、Chrome拡張機能を作りました。
+以前からいくつかの日本語OCRを試してきて、ブラウザ内でも実用レベルで動くことがわかっていたので、それを誰でも気軽に使える形にしたかったのが動機です。
 
-OpenClawやHermesを名前は知っているが違いがよくわからない人
-AIエージェントの「アーキテクチャ」（あるいは「ハーネス」）に興味がある人
-組織内でClaw活用を検討している人
 
-なおこの記... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mkj/articles/9431e342db202f</guid>
-      <pubDate>Mon, 27 Apr 2026 02:50:05 +0000</pubDate>
+yomitokuで作る日本語OCR Webアプリ — サーバーサイドで高精度な日本語OCR
+
+Tesseract.jsでカスタムモデルのトレ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/lecto/articles/a2ee65243b02b3</guid>
+      <pubDate>Sun, 26 Apr 2026 14:29:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>シェル起動時と cd のたびにダッシュボードを描く CLI「splashboard」を作りました</title>
+      <link>https://zenn.dev/unhappychoice/articles/splashboard-introduction</link>
+      <description>はじめに
+ブラウザで GitHub のレポジトリページを開くと、 README 、 commit 履歴、 Issue / PR 一覧、 contribution heatmap などがトップにまとまっていて、いま何が起きているかがぱっと見でわかります。
+一方、ターミナルを開いたときに見えるのはプロンプト 1 行くらいで、出てくる情報量はかなり少なめです。
+ターミナルでも Web / GitHub くらいの情報量を出せないか、と思って作ったのが今回紹介する splashboard です。
+シェル起動時と cd のたびにカスタマイズ可能なダッシュボードを描画する Rust 製の CLI ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/unhappychoice/articles/splashboard-introduction</guid>
+      <pubDate>Wed, 29 Apr 2026 05:45:05 +0000</pubDate>
     </item>
     <item>
       <title>97%のPermission確認を自動化するCoding Agent用OSS「ccgate」が誕生した</title>
@@ -62,6 +74,23 @@ Claude / CodexのPermission確認をLLMに代行させるccgateというCLIを�
       <pubDate>Tue, 28 Apr 2026 09:23:21 +0000</pubDate>
     </item>
     <item>
+      <title>大規模案件のSlackにAI社員3人を常駐させたら、2年目が参画1週間で設計根本に踏み込んだ</title>
+      <link>https://zenn.dev/nttdata_tech/articles/bf6b694144e55a</link>
+      <description>実際の画面とは異なるサンプルイメージです
+チームのSlackにAI社員を3人常駐させています。
+社員5人で、2週間動かしました。
+誤解を招きそうだからちゃんと書いておきます。
+2週間です。半年でも1年でもなく、2週間。
+それでも書きたくなるくらいのことが起きたので、この記事を書いています。
+SIerの大規模開発で扱う資料は毎週溜まります。
+仕様書の背景、顧客の痛点、過去の判断の残り香。
+新しく参画したメンバーは、これを数週間かけて読み込むのがいつもの景色です。
+そこに、このAI社員3人が入りました。
+すると、2年目のメンバーが参画1週間でSKILLを直し、2週間で設計根本に疑問を出して... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/bf6b694144e55a</guid>
+      <pubDate>Tue, 28 Apr 2026 03:52:37 +0000</pubDate>
+    </item>
+    <item>
       <title>ベクトルDBを使わないRAG。全てのナレッジを階層化する手法</title>
       <link>https://zenn.dev/knowledgesense/articles/7dddae04a7d828</link>
       <description>本記事では、RAGの性能を高めるための「Corpus2Skill」という手法について、ざっくり理解します。
@@ -78,25 +107,6 @@ https://arxiv.org/abs/2604.14572
 「Cor... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/7dddae04a7d828</guid>
       <pubDate>Tue, 28 Apr 2026 00:01:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントにユーザーを演じさせて業務をテストする</title>
-      <link>https://zenn.dev/bizreach_aps/articles/0d758497357167</link>
-      <description>はじめに
-こんにちは、uchiです。株式会社ビズリーチのAI Product Studio（以下、APS）でエンジニアをしています。APSは2026年2月に新設された組織で、「AIでプロダクト創出を常態化する」をミッションに、現在はAIを前提とした開発プロセスの構築と新規プロダクト開発に取り組んでいます。
-この記事では、APSでAI前提の開発フローを構築するなかで生まれた「Agentic UATスキル」を紹介します。AIエージェントに仕様を一切教えずエンドユーザーを演じさせ、業務を遂行できるかを自律的にテストする手法です。ソースコードを読ませず、UIだけを頼りに業務を進めさせることで... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/bizreach_aps/articles/0d758497357167</guid>
-      <pubDate>Mon, 27 Apr 2026 03:53:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>コードを1行も書く前にバグを潰す — 生成AIが「理想論」だったシフトレフトを現実にする</title>
-      <link>https://zenn.dev/tokium_dev/articles/c0e6e9aca98a85</link>
-      <description>はじめに
-こんにちは！TOKIUMでQAチームのリーダーをしている西田です。
-「シフトレフト」「ATDD（受け入れテスト駆動開発）」「BDD（振る舞い駆動開発）」 — テストを上流に持っていこうという考え方は、ソフトウェア開発の世界で10年以上前から提唱されてきました。概念としては広く知られているのに、実際に徹底できている現場は少ない。「理想はわかるけど、やるのが大変」というのが正直なところだったと思います。
-ところが今、生成AIの急速な進化によって前提が変わりつつあります。Claude CodeやGitHub Copilotによるコーディング自動化、Playwright Agent... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/c0e6e9aca98a85</guid>
-      <pubDate>Sun, 26 Apr 2026 23:00:08 +0000</pubDate>
     </item>
     <item>
       <title>40%キーボードに移行する前に知っておきたかったこと</title>

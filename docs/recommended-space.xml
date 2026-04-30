@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 08:24:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 08:27:34 +0000</lastBuildDate>
     <item>
       <title>ロシアが「アンガラ1.2」ロケットの打ち上げに成功　国防省の軍事衛星を軌道投入</title>
       <link>https://sorae.info/ssn/20260426-angara1-2.html</link>
@@ -44,6 +44,13 @@
       <pubDate>Sun, 26 Apr 2026 12:30:12 +0000</pubDate>
     </item>
     <item>
+      <title>Planet LabsがNVIDIAモジュール搭載の衛星で、宇宙軌道上でのAIによる航空機の検知に成功【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/45714/</link>
+      <description>Planet Labsは、自社で開発・運用する30cm解像度の地球観測衛星Pelican-4に搭載したNVIDIA Jetsonモジュールを使い、宇宙空間で直接AIによる物体検知を実行することに成功したと発表しました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45714/</guid>
+      <pubDate>Wed, 29 Apr 2026 23:00:10 +0000</pubDate>
+    </item>
+    <item>
       <title>ULAが「アトラスV」で6回目のAmazon Leoミッションを実施　衛星29機を打ち上げ</title>
       <link>https://sorae.info/ssn/20260429-ula-amazon-leo.html</link>
       <description>ULA（ユナイテッド・ローンチ・アライアンス）は日本時間2026年4月28日に「Atlas V（アトラスV）」ロケットの打ち上げを実施しました。搭載されていたAmazonの衛星は無事に軌道に投入されたことを、ULAとAm… (source: sorae 宇宙へのポータルサイト)</description>
@@ -70,15 +77,6 @@
       <description>2026年3月21日に実施した、soraeと「星空ツナガルコミュニティ」の共同企画によるイオンモール多摩平の森での星空鑑賞会についてレポートします。 夕方にかけてぐっと気温が下がり、肌寒さを感じる冷え込みとなりましたが、… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/event/kozushima-community-20260321-report.html</guid>
       <pubDate>Tue, 28 Apr 2026 08:53:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>GOSATプラグインを使って、温室効果ガスのデータをQGISで可視化しよう【後編】</title>
-      <link>https://sorabatake.jp/45289/</link>
-      <description>Tellusでは、QGIS上でGOSATシリーズのデータを解析できる専用のプラグイン「GOSATプラグイン」を開発し公開しています。
-GOSATプラグインをQGIS上にインストールすることで、Tellusで提供している上記のデータセットの検索からダウンロード、また、時系列でのアニメーション表示や任意地点の数値のグラフ化など、データを可視化することができます。
-今回は、具体的にどのようにGOSATプラグインで解析できるかを紹介します。実際にQGISやプラグインをダウンロードして解析を試してみてください。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45289/</guid>
-      <pubDate>Tue, 07 Apr 2026 09:00:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

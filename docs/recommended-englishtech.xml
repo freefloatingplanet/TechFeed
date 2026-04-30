@@ -7,34 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Apr 2026 08:25:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 08:27:40 +0000</lastBuildDate>
     <item>
-      <title>npmxがアルファ版に到達：npmレジストリ向けのコミュニティ主導型代替ブラウザ</title>
-      <link>https://www.infoq.com/news/2026/04/npmx-browser-alpha/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>npmxは、Daniel Roe氏と250名以上の貢献者によって開発された、npmレジストリ用のオープンソースパッケージブラウザです。インストールサイズの計算や古い依存関係の警告など、公式のnpmjs.comインターフェースにはない機能と速度を重視しています。フィードバックでは、検索性能の速さが高く評価されている一方で、設計上の懸念も指摘されています。このプロジェクトはGitHubで公開されています。執筆：Daniel Curtis (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/npmx-browser-alpha/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 28 Apr 2026 07:00:00 +0000</pubDate>
+      <title>2026年にアプリを保護するためのMFAプロバイダー上位5社</title>
+      <link>https://workos.com/blog/top-mfa-providers-2026</link>
+      <description>主要な多要素認証ソリューションを実践的に比較：それぞれの長所、短所、そして自社のシステム構成に最適なソリューションの選び方について解説します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/top-mfa-providers-2026</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenChoreo 1.0は、Kubernetes開発者プラットフォームにAIエージェントとGitOpsをもたらします。</title>
-      <link>https://www.infoq.com/news/2026/04/openchoreo-10/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Kubernetes上に構築されたオープンソースの社内開発者プラットフォームであるOpenChoreoが、バージョン1.0をリリースし、Cloud Native Computing Foundation（CNCF）サンドボックスに採択されました。このプロジェクトは、エンジニアリングチームがKubernetes上でワークロードを実行するための完全な基盤を、自ら構築する必要なく提供できるように設計されています。執筆：Matt Saunders (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/openchoreo-10/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+      <title>DBmaestro MCPサーバーは、データベースパイプラインの制御を自然言語で行う。</title>
+      <link>https://www.infoq.com/news/2026/04/dbmaestro-mcp-server/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>DBmaestroは、AIエージェントとエンタープライズコパイロットを同社のデータベースDevOpsプラットフォームに接続するMCPサーバーをリリースしました。これにより、チームは自然言語コマンドを発行して、実際の統制されたプラットフォームワークフローをトリガーできるようになります。2026年4月7日に発表されたこのMCPサーバーにより、DBAはMCPを通じてDBmaestroのリリース自動化、ソース管理、CI/CDオーケストレーション、コンプライアンス機能を公開できるようになります。執筆：マット・サンダース (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/dbmaestro-mcp-server/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：エンジニアを支援する、将来を見据えたオブザーバビリティプラットフォームの構築</title>
-      <link>https://www.infoq.com/presentations/OpenTelemetry-instrumentation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ウェイン・ベルとダン・ゴメス・ブランコは、スカイスキャナーで可観測性を拡張するために必要なアーキテクチャと文化の変革について議論します。彼らは、OpenTelemetryへの移行によって計測機能がベンダーから切り離された経緯を共有し、プラットフォームを製品として、エンジニアを顧客として扱うことが、800を超えるマイクロサービス全体でインシデント率を削減し、技術的負債を解消する鍵となる理由を説明します。執筆：ダン・ゴメス・ブランコ、ウェイン・ベル (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/OpenTelemetry-instrumentation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 27 Apr 2026 13:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>映画ファン向けのソーシャルプラットフォームであるLetterboxdが、新たなオーナーを探していると報じられている。</title>
-      <link>https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/</link>
-      <description>Semaforによると、Letterboxdの潜在的な買収候補には、CNBCとMS NOWの親会社であるVersantや、ハリウッドのメディア企業であるThe Anklerなどが含まれる。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/</guid>
-      <pubDate>Mon, 27 Apr 2026 20:37:49 +0000</pubDate>
+      <title>QCon AI Boston 2026 スケジュール：本番環境におけるエージェント、推論コスト、およびSDLCにおけるAI</title>
+      <link>https://www.infoq.com/news/2026/04/qconai-boston-2026-schedule-live/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>QCon AI Boston 2026（6月1日～2日）のスケジュールが公開されました。2日間のプログラムでは、コンテキストエンジニアリング、推論経済学、エージェントの信頼性、そしてAIがソフトウェア開発ライフサイクルをどのように変えているかといったテーマでセッションが行われます。講演者には、DoorDash、LinkedIn、Netflix、Apple、Red Hatなどのエンジニアが含まれます。執筆：Artenisa Chatziou (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/qconai-boston-2026-schedule-live/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 29 Apr 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>GitHubがスタックされたプルリクエストによる大規模マージ問題に対処</title>
@@ -42,13 +35,6 @@
       <description>GitHubは、gh-stackと呼ばれる新しいCLI拡張機能を通じて、ネイティブなスタック型プルリクエストワークフローを導入しました。これは、サードパーティツールが長年担ってきたギャップを埋めるものです。大規模なプルリクエストはレビューが難しく、マージに時間がかかり、競合が発生しやすいという問題を解決することを目的としており、GitHubによると、レビュー担当者がコンテキストを失い、フィードバックの質が低下し、チーム全体の作業速度が低下するとのことです。執筆：マット・サンダース (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/04/github-stacked-prs/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>QConサンフランシスコ2026：12のトラックが発表されました</title>
-      <link>https://www.infoq.com/news/2026/04/qconsf-2026-tracks-announced/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>QCon San Francisco 2026（11月16日～20日開催）の12のトラックが公開されました。4つのトラックは、本番環境におけるAIを扱います。残りの8つのトラックは、分散システム、アーキテクチャの分解、耐障害性、プラットフォームの内部構造、API設計、スタッフ+リーダーシップなど、シニアエンジニアに求められるその他の内容を網羅しています。早期割引価格は5月12日までです。執筆：Artenisa Chatziou (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/qconsf-2026-tracks-announced/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 27 Apr 2026 15:30:00 +0000</pubDate>
     </item>
     <item>
       <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>
@@ -77,6 +63,20 @@
       <description>APIキー、トークンファイル、OAuthデバイスフロー、クライアント認証情報を比較。CLIに最適な認証パターンを選択するための実践的なガイド。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/cli-authentication-guide</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>マイクロソフトが.NET 11 Preview 3をリリース。ランタイム、SDK、MAUI、ASP.NET Coreのアップデートを実施。</title>
+      <link>https://www.infoq.com/news/2026/04/dotnet-11-preview-3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>マイクロソフトは、2026年11月にリリース予定の次期標準サポート版のプレビュー版である.NET 11 Preview 3をリリースしました。このアップデートは、ランタイム、SDK、ライブラリ、ASP.NET Core、EF Core、および.NET MAUIに及び、Runtime Asyncがプレビュー機能の段階を終え、新しいJIT最適化、ASP.NET CoreにおけるZstandard圧縮、およびMAUI Mapコントロールの拡張などが含まれています。執筆：Almir Vuk (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/dotnet-11-preview-3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 29 Apr 2026 14:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>プレゼンテーション：エージェント、アーキテクチャ、そして記憶喪失：正気を失わずにAIネイティブになる方法</title>
+      <link>https://www.infoq.com/presentations/ai-autonomy-continuum/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>トレイシー・バノンは、AIの自律性が制御不能になることのリスクを説明するために、「魔法使いの弟子」という教訓的な物語を紹介します。彼女は、ボットから自律エージェントへの移行について論じ、無謀なスピードが「アーキテクチャ健忘症」につながる仕組みを説明します。また、SDLC全体にわたって機械のスピードで債務を管理するために、アイデンティティ、委任、およびADRに焦点を当てた「最小限実行可能なガバナンス」の具体的なフレームワークを提供します。トレイシー・バノン著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/ai-autonomy-continuum/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 29 Apr 2026 14:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
