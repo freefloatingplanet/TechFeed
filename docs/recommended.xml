@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 08:27:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 08:18:47 +0000</lastBuildDate>
+    <item>
+      <title>中国、禁止しているChatGPTをスパイ活動に悪用　国際ジャーナリスト団体への攻撃にも使用か（Forbes JAPAN） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/190cd69744a0ab3aee682d9290e5429310bdf635</link>
+      <description>米OpenAIは自社の対話型AI（人工知能）「ChatGPT」について中国での利用を認めていない。中国政府もまた国内でのChatGPTの利用を認めていない。にもかかわらず、中国当局はChatGPTを邪悪な目的のために常習的に使い続けている。過去1年の間にOpenAIは、中国の法執行機関や監視部門が国外の反体制派などのターゲットに関... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/190cd69744a0ab3aee682d9290e5429310bdf635</guid>
+      <pubDate>Fri, 01 May 2026 03:58:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI時代のエンジニアに必要なパラダイムシフト － 自己否定の先にあるもの - NRIネットコムBlog</title>
+      <link>https://tech.nri-net.com/entry/ai_era_software_engineer_paradigm_shift</link>
+      <description>小西秀和です。 私はこれまで、設計に多くの時間をかけて熟考し、コードの品質にこだわり、それらを支える技術的な知識を深く積み上げることに情熱を燃やしてきました。そして、AWSの全認定資格を取得し、Japan AWS Top Engineerにも選出していただきました。知識と技術の蓄積こそが自分の価値だと信じていました。しか... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech.nri-net.com/entry/ai_era_software_engineer_paradigm_shift</guid>
+      <pubDate>Wed, 29 Apr 2026 02:56:02 +0000</pubDate>
+    </item>
     <item>
       <title>ガバメント AI「源内」（genai-ai-api）を閉域の AWS 環境へデプロイしてみた</title>
       <link>https://qiita.com/takeda_h/items/89201d196e3f68ba3044?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -17,6 +31,17 @@
 そこで... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/takeda_h/items/89201d196e3f68ba3044?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Wed, 29 Apr 2026 08:48:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>S3 Files 性能評価</title>
+      <link>https://zenn.dev/edash_tech_blog/articles/4ece2a554ecb27</link>
+      <description>はじめに
+Zenn 読者のみなさん、こんにちは。e-dash VPoE の伊藤です。
+2026年4月、AWS から S3 Files がリリースされました。
+S3 バケットをファイルシステムとしてマウントして使える、という非常にインパクトのある機能で、ユースケース次第では大幅なストレージコスト削減やアーキテクチャ簡素化が期待できそうです。一方で、「実際どの程度の性能が出るの？」「EBS や EFS の代替としてどの程度使えるの？」という疑問もあります。
+そこで今回は、S3 Files の性能を実機で評価し、他のストレージ構成（エフェメラルストレージ・EBS・EFS）と比較してみたので... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/edash_tech_blog/articles/4ece2a554ecb27</guid>
+      <pubDate>Thu, 30 Apr 2026 12:33:05 +0000</pubDate>
     </item>
     <item>
       <title>エージェントコスト対策としてローカルLLMはアリ？— Ollamaで試してみた</title>
@@ -30,21 +55,6 @@ GitHub Copilotが2026年6月1日より従量課金制へ移行すると発表し
       <pubDate>Tue, 28 Apr 2026 08:45:05 +0000</pubDate>
     </item>
     <item>
-      <title>国立国会図書館のOCR技術を使って、完全オフラインOCRのChrome拡張を作ってみた</title>
-      <link>https://zenn.dev/lecto/articles/a2ee65243b02b3</link>
-      <description>はじめに
-画像やPDFのテキストをコピーしたいとき、オンラインのOCRサービスに画像を送るのはちょっと抵抗がありませんか？ 特に社外秘の資料や個人情報が写っている場合。
-通信ゼロ、ブラウザの中だけで完結するOCR があれば安心して使えるのに — そう思って、Chrome拡張機能を作りました。
-以前からいくつかの日本語OCRを試してきて、ブラウザ内でも実用レベルで動くことがわかっていたので、それを誰でも気軽に使える形にしたかったのが動機です。
-
-
-yomitokuで作る日本語OCR Webアプリ — サーバーサイドで高精度な日本語OCR
-
-Tesseract.jsでカスタムモデルのトレ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lecto/articles/a2ee65243b02b3</guid>
-      <pubDate>Sun, 26 Apr 2026 14:29:03 +0000</pubDate>
-    </item>
-    <item>
       <title>シェル起動時と cd のたびにダッシュボードを描く CLI「splashboard」を作りました</title>
       <link>https://zenn.dev/unhappychoice/articles/splashboard-introduction</link>
       <description>はじめに
@@ -54,6 +64,15 @@ Tesseract.jsでカスタムモデルのトレ... (source: Zennのトレンド)</
 シェル起動時と cd のたびにカスタマイズ可能なダッシュボードを描画する Rust 製の CLI ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/unhappychoice/articles/splashboard-introduction</guid>
       <pubDate>Wed, 29 Apr 2026 05:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linuxカーネルの脆弱性「CopyFail (CVE-2026-31431)」をEC2のUbuntu 22.04で実証してみた</title>
+      <link>https://zenn.dev/aeyesec/articles/7e4a1e3c83e81b</link>
+      <description>こんにちは！株式会社エーアイセキュリティラボのはるぷと申します。
+一般ユーザーがコマンド一発でrootを取れてしまうLinuxカーネルの脆弱性、CopyFail (CVE-2026-31431) が話題になっています。AIによって発見された論理バグで、汚しても問題ないEC2環境を作って実際に検証してみました。
+この脆弱性は、 一般ユーザーがroot権限に昇格できる というものです。実行条件がとても簡単なので話題になりました。ざっくり仕組みを言うと、algif_aead・authencesn・splice() システムコールの組み合わせによって、メモリ上のページキャッシュを直接書き換えられ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aeyesec/articles/7e4a1e3c83e81b</guid>
+      <pubDate>Thu, 30 Apr 2026 07:09:09 +0000</pubDate>
     </item>
     <item>
       <title>97%のPermission確認を自動化するCoding Agent用OSS「ccgate」が誕生した</title>
@@ -91,57 +110,17 @@ SIerの大規模開発で扱う資料は毎週溜まります。
       <pubDate>Tue, 28 Apr 2026 03:52:37 +0000</pubDate>
     </item>
     <item>
-      <title>ベクトルDBを使わないRAG。全てのナレッジを階層化する手法</title>
-      <link>https://zenn.dev/knowledgesense/articles/7dddae04a7d828</link>
-      <description>本記事では、RAGの性能を高めるための「Corpus2Skill」という手法について、ざっくり理解します。
-株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。
+      <title>terraform applyをGHAで実行してはいけない理由</title>
+      <link>https://zenn.dev/okazu_dm/articles/7d30c496c8fbb6</link>
+      <description>terraform applyをGHAで実行してはいけない理由
+こんにちは、SREの@okazu_dmです。
+常日頃からGHAでterraform applyをするのはやめろと言い続けているのですが、最近GHAを起点とした攻撃が立て続けに起こっており、改めて文章の形でまとめておいた方がいいなと思ったので記事を書きました。
 
- この記事は何
-この記事は、「ベクトルDB」を使わずにRAGの精度を上げる新手法「Corpus2Skill」の論文[1]について、日本語で簡単にまとめたものです。
-https://arxiv.org/abs/2604.14572
-今回も「そもそもRAGとは？」については、知っている前提で進みます（参考）
-
- 本題
-
- ざっくりサマリー
-「Cor... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/7dddae04a7d828</guid>
-      <pubDate>Tue, 28 Apr 2026 00:01:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>40%キーボードに移行する前に知っておきたかったこと</title>
-      <link>https://zenn.dev/bilzard/articles/b924d7995b28bc</link>
-      <description>はじめに
-この記事ではエンジニアが30%~40%とキー数の極端に少ないレイアウトにする場合の注意点についてまとめました。
-
- 用語について
-ShiftやCtrlといった「修飾キー」と、記号などを打つための「レイヤー切り替えキー」は、どちらも「他のキーと組み合わせて別の機能を持たせる」という点で本質的に同じものです。この記事では、これらをまとめて Metaキー と呼ぶことにします。
-
- 40%レイアウトの基本ルール
-結論を先に言うと、 日常的にコマンドを叩くような作業をするエンジニアは5カラムなど極限までキー数を削ったキーボード配置に安易に移行するのは推奨しない というのが主な主張です... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/bilzard/articles/b924d7995b28bc</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIに会社のGoogleアカウントを渡していませんか</title>
-      <link>https://zenn.dev/finatext/articles/mcp-gateway-google-sa</link>
-      <description>1. Google MCPを接続したときに起きること
-たとえば、来週のチーム進捗会議のアジェンダを AI に作ってもらおうとして、「最近の社内ドキュメントから議題を整理して」と頼んだとします。返ってきたアジェンダの中に、なぜか「来月から A さんが家庭の事情で退職予定」という項目が紛れ込んでいる👉AI は、自分のドライブに置いてあったメンバーとの 1on1 メモまで読みに行っていた——という事故が、方法論として成立し得ます。
-AIエージェントを Google Workspace に接続するとき、ユーザの見れる範囲をAIにそのまま見せるというのは一見適切なように見えて、こういった不慮の... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/finatext/articles/mcp-gateway-google-sa</guid>
-      <pubDate>Tue, 28 Apr 2026 02:30:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Codeのルーチン機能で定期的にパフォーマンスチューニングをさせている</title>
-      <link>https://zenn.dev/yamadashy/articles/claude-code-routines-perf-tuning</link>
-      <description>Claude Codeのルーチン（Routines）機能を、何に使うのが良いのかしばらく考えていました。
-クラウド上でプロンプトを定期実行できる便利な機能なのですが、定期的に動かして意味のあるタスクは何だろう、と。
-たどり着いたのが、パフォーマンスチューニングです。
-「速くなったか」は数値で判断できるので、ベンチマーク基盤さえあれば、あとはAIに任せられます。
-機能としてデグレしていないかもテストが充実していれば自動で確認できますし、ブランチを切って進めるので本流には影響しません。設計の創造性があまり要らないのもAIに任せやすいところですね。
-私が開発しているRepomixというCLIで... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yamadashy/articles/claude-code-routines-perf-tuning</guid>
-      <pubDate>Tue, 28 Apr 2026 02:16:45 +0000</pubDate>
+ はじめに
+2026年3月ごろから、GHAを攻撃の入り口として悪用する事例が目立っています。
+たとえば、以下のAeye Security Labの記事では、PRタイトル、ブランチ名、ファイル名など、外部から与えられる値をGHAの run ステップ内で不適切に展開し... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/okazu_dm/articles/7d30c496c8fbb6</guid>
+      <pubDate>Thu, 30 Apr 2026 12:02:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

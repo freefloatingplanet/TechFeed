@@ -7,34 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Apr 2026 08:27:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 08:19:00 +0000</lastBuildDate>
     <item>
-      <title>2026年にアプリを保護するためのMFAプロバイダー上位5社</title>
-      <link>https://workos.com/blog/top-mfa-providers-2026</link>
-      <description>主要な多要素認証ソリューションを実践的に比較：それぞれの長所、短所、そして自社のシステム構成に最適なソリューションの選び方について解説します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/top-mfa-providers-2026</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <title>BioticsAIの創設者が語る、FDAの承認、資金調達、そしてヘルスケア分野における事業構築の現実</title>
+      <link>https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/</link>
+      <description>BioticsAIのCEOであるロビー・ブスタミ氏が、イザベル・ヨハネセン氏の番組「Build Mode」に出演し、同社がいかにして規制の厳しい業界を切り抜け、煩雑な手続きを簡素化しながらチームのモチベーションを維持してきたかについて語った。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/</guid>
+      <pubDate>Thu, 30 Apr 2026 17:53:53 +0000</pubDate>
     </item>
     <item>
-      <title>DBmaestro MCPサーバーは、データベースパイプラインの制御を自然言語で行う。</title>
-      <link>https://www.infoq.com/news/2026/04/dbmaestro-mcp-server/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>DBmaestroは、AIエージェントとエンタープライズコパイロットを同社のデータベースDevOpsプラットフォームに接続するMCPサーバーをリリースしました。これにより、チームは自然言語コマンドを発行して、実際の統制されたプラットフォームワークフローをトリガーできるようになります。2026年4月7日に発表されたこのMCPサーバーにより、DBAはMCPを通じてDBmaestroのリリース自動化、ソース管理、CI/CDオーケストレーション、コンプライアンス機能を公開できるようになります。執筆：マット・サンダース (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/dbmaestro-mcp-server/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>QCon AI Boston 2026 スケジュール：本番環境におけるエージェント、推論コスト、およびSDLCにおけるAI</title>
-      <link>https://www.infoq.com/news/2026/04/qconai-boston-2026-schedule-live/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>QCon AI Boston 2026（6月1日～2日）のスケジュールが公開されました。2日間のプログラムでは、コンテキストエンジニアリング、推論経済学、エージェントの信頼性、そしてAIがソフトウェア開発ライフサイクルをどのように変えているかといったテーマでセッションが行われます。講演者には、DoorDash、LinkedIn、Netflix、Apple、Red Hatなどのエンジニアが含まれます。執筆：Artenisa Chatziou (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/qconai-boston-2026-schedule-live/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 29 Apr 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHubがスタックされたプルリクエストによる大規模マージ問題に対処</title>
-      <link>https://www.infoq.com/news/2026/04/github-stacked-prs/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>GitHubは、gh-stackと呼ばれる新しいCLI拡張機能を通じて、ネイティブなスタック型プルリクエストワークフローを導入しました。これは、サードパーティツールが長年担ってきたギャップを埋めるものです。大規模なプルリクエストはレビューが難しく、マージに時間がかかり、競合が発生しやすいという問題を解決することを目的としており、GitHubによると、レビュー担当者がコンテキストを失い、フィードバックの質が低下し、チーム全体の作業速度が低下するとのことです。執筆：マット・サンダース (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/github-stacked-prs/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
+      <title>プレゼンテーション：StripeのDocdb：ダウンタイムゼロのデータ移動がいかにして数兆ドル規模の決済処理を支えるか</title>
+      <link>https://www.infoq.com/presentations/docdb-online-database/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ジミー・モルザリア氏は、Stripeのデータベース層が500万QPSと99.9 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/docdb-online-database/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 30 Apr 2026 09:52:00 +0000</pubDate>
     </item>
     <item>
       <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>
@@ -58,6 +44,13 @@
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>BroadcomがVeleroをCNCFに寄贈、Kubernetesバックアップのガバナンスをコミュニティ主導に移行</title>
+      <link>https://www.infoq.com/news/2026/05/broadcom-velero-cncf/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Broadcomは、Kubernetesネイティブのバックアップ、リストア、移行プロジェクトであるVeleroを、Cloud Native Computing Foundation（CNCF）のサンドボックスプロジェクトとして提供することを発表しました。VeleroはKubernetes APIレイヤーで動作し、ハイパーバイザーやストレージレイヤーのスナップショットではなく、カスタムリソース定義（CRD）を通じてクラスタの状態をキャプチャします。執筆：Matt Saunders (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/05/broadcom-velero-cncf/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>開発者向けCLI認証ガイド</title>
       <link>https://workos.com/blog/cli-authentication-guide</link>
       <description>APIキー、トークンファイル、OAuthデバイスフロー、クライアント認証情報を比較。CLIに最適な認証パターンを選択するための実践的なガイド。 (source: WorkOS Blog)</description>
@@ -65,7 +58,7 @@
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>マイクロソフトが.NET 11 Preview 3をリリース。ランタイム、SDK、MAUI、ASP.NET Coreのアップデートを実施。</title>
+      <title>マイクロソフトが.NET 11 Preview 3をリリース。ランタイム、SDK、MAUI、ASP.NET Coreにアップデートが含まれています。</title>
       <link>https://www.infoq.com/news/2026/04/dotnet-11-preview-3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>マイクロソフトは、2026年11月にリリース予定の次期標準サポート版のプレビュー版である.NET 11 Preview 3をリリースしました。このアップデートは、ランタイム、SDK、ライブラリ、ASP.NET Core、EF Core、および.NET MAUIに及び、Runtime Asyncがプレビュー機能の段階を終え、新しいJIT最適化、ASP.NET CoreにおけるZstandard圧縮、およびMAUI Mapコントロールの拡張などが含まれています。執筆：Almir Vuk (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/04/dotnet-11-preview-3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
@@ -77,6 +70,13 @@
       <description>トレイシー・バノンは、AIの自律性が制御不能になることのリスクを説明するために、「魔法使いの弟子」という教訓的な物語を紹介します。彼女は、ボットから自律エージェントへの移行について論じ、無謀なスピードが「アーキテクチャ健忘症」につながる仕組みを説明します。また、SDLC全体にわたって機械のスピードで債務を管理するために、アイデンティティ、委任、およびADRに焦点を当てた「最小限実行可能なガバナンス」の具体的なフレームワークを提供します。トレイシー・バノン著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/ai-autonomy-continuum/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 29 Apr 2026 14:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>プラットフォームエンジニアリングの影響を推進し、測定する</title>
+      <link>https://www.infoq.com/news/2026/04/measure-platform-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>プラットフォームエンジニアリングは、社会技術的な観点からアプローチし、開発者だけでなくすべてのステークホルダーによって形作られる必要がある、とセルジュ・ペテアン氏は講演「プラットフォームエンジニアリングを通じて保険の未来を切り拓く」の中で述べた。プラットフォームの成功は、変化を主要な設計力として受け入れつつ、変化に耐えうる明文化された原則にかかっており、それによってチームはソフトウェアを構築、実行、リリースできるようになる。ベン・リンダース著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/measure-platform-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 30 Apr 2026 11:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

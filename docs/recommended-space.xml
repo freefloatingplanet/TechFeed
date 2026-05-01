@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 08:27:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 08:18:52 +0000</lastBuildDate>
     <item>
-      <title>ロシアが「アンガラ1.2」ロケットの打ち上げに成功　国防省の軍事衛星を軌道投入</title>
-      <link>https://sorae.info/ssn/20260426-angara1-2.html</link>
-      <description>ロシア航空宇宙軍（VKS）は日本時間2026年4月23日、プレセツク宇宙基地からロシアの軽量型ロケット「アンガラ1.2（Angara-1.2）」の打ち上げを実施しました。ロシア国防省が打ち上げ成功を発表しています。 打ち… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260426-angara1-2.html</guid>
-      <pubDate>Sun, 26 Apr 2026 03:22:21 +0000</pubDate>
+      <title>数世紀で軌道が変化する惑星系　恒星「TOI-201」を公転する惑星と褐色矮星の謎に迫る成果</title>
+      <link>https://sorae.info/astronomy/20260501-toi-201-system.html</link>
+      <description>ニューメキシコ大学（UNM）のIsmael Mirelesさんを筆頭とする国際研究チームは、がか座の方向、地球から約370光年先の恒星（F型星）「TOI-201」の惑星系に関する研究成果を発表しました。研究チームの成果を… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260501-toi-201-system.html</guid>
+      <pubDate>Fri, 01 May 2026 02:51:28 +0000</pubDate>
     </item>
     <item>
       <title>ispaceが月周回衛星を活用した通信・測位サービスを発表。地球と月をつなぐハブ、月周回衛星があれば何ができる？【宇宙ビジネスニュース】</title>
@@ -37,18 +37,18 @@
       <pubDate>Mon, 13 Apr 2026 23:00:53 +0000</pubDate>
     </item>
     <item>
-      <title>「クォーク」は本当に素粒子か？　0.00000000000000000001mスケールまでは内部構造がないことを確認</title>
-      <link>https://sorae.info/science/20260426-quark-inside.html</link>
-      <description>私たちの身近にある普通の物質は、最小単位まで分解していくと「クォーク」という粒子に行きつきます。クォークは内部構造を持たず、これ以上分解できない素粒子であると考えられていますが、内部構造がある可能性も残されています。 C… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/science/20260426-quark-inside.html</guid>
-      <pubDate>Sun, 26 Apr 2026 12:30:12 +0000</pubDate>
-    </item>
-    <item>
       <title>Planet LabsがNVIDIAモジュール搭載の衛星で、宇宙軌道上でのAIによる航空機の検知に成功【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/45714/</link>
       <description>Planet Labsは、自社で開発・運用する30cm解像度の地球観測衛星Pelican-4に搭載したNVIDIA Jetsonモジュールを使い、宇宙空間で直接AIによる物体検知を実行することに成功したと発表しました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45714/</guid>
       <pubDate>Wed, 29 Apr 2026 23:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>「クォーク」は本当に素粒子か？　0.00000000000000000001mスケールまでは内部構造がないことを確認</title>
+      <link>https://sorae.info/science/20260426-quark-inside.html</link>
+      <description>私たちの身近にある普通の物質は、最小単位まで分解していくと「クォーク」という粒子に行きつきます。クォークは内部構造を持たず、これ以上分解できない素粒子であると考えられていますが、内部構造がある可能性も残されています。 C… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/science/20260426-quark-inside.html</guid>
+      <pubDate>Sun, 26 Apr 2026 12:30:12 +0000</pubDate>
     </item>
     <item>
       <title>ULAが「アトラスV」で6回目のAmazon Leoミッションを実施　衛星29機を打ち上げ</title>
