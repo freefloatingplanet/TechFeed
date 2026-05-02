@@ -7,20 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 08:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 07:50:17 +0000</lastBuildDate>
     <item>
-      <title>中国、禁止しているChatGPTをスパイ活動に悪用　国際ジャーナリスト団体への攻撃にも使用か（Forbes JAPAN） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/190cd69744a0ab3aee682d9290e5429310bdf635</link>
-      <description>米OpenAIは自社の対話型AI（人工知能）「ChatGPT」について中国での利用を認めていない。中国政府もまた国内でのChatGPTの利用を認めていない。にもかかわらず、中国当局はChatGPTを邪悪な目的のために常習的に使い続けている。過去1年の間にOpenAIは、中国の法執行機関や監視部門が国外の反体制派などのターゲットに関... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/190cd69744a0ab3aee682d9290e5429310bdf635</guid>
-      <pubDate>Fri, 01 May 2026 03:58:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI時代のエンジニアに必要なパラダイムシフト － 自己否定の先にあるもの - NRIネットコムBlog</title>
-      <link>https://tech.nri-net.com/entry/ai_era_software_engineer_paradigm_shift</link>
-      <description>小西秀和です。 私はこれまで、設計に多くの時間をかけて熟考し、コードの品質にこだわり、それらを支える技術的な知識を深く積み上げることに情熱を燃やしてきました。そして、AWSの全認定資格を取得し、Japan AWS Top Engineerにも選出していただきました。知識と技術の蓄積こそが自分の価値だと信じていました。しか... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tech.nri-net.com/entry/ai_era_software_engineer_paradigm_shift</guid>
-      <pubDate>Wed, 29 Apr 2026 02:56:02 +0000</pubDate>
+      <title>【Copilot】AI駆動開発では役割を分けて、トークン節約をする【IBM Bob】</title>
+      <link>https://qiita.com/m_koishikawa/items/38f3d84b8c71cf670b6b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>IBM Bobで出力した内容、Copilotへのプロンプトを含みます。
+
+生成AIを利用する上で、意外と気にされないことが「トークンの節約」です。
+AI駆動開発において実際の開発に取り組むと、やり取りしているだけでトークンを消費し、結果的に  「開発のためのトークンが... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/m_koishikawa/items/38f3d84b8c71cf670b6b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 01 May 2026 08:59:17 +0000</pubDate>
     </item>
     <item>
       <title>ガバメント AI「源内」（genai-ai-api）を閉域の AWS 環境へデプロイしてみた</title>
@@ -31,6 +27,18 @@
 そこで... (source: Qiita - 人気の記事)</description>
       <guid isPermaLink="true">https://qiita.com/takeda_h/items/89201d196e3f68ba3044?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
       <pubDate>Wed, 29 Apr 2026 08:48:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Claude Code】CLAUDE.md・skills・agents を整備して開発体験が劇的に変わった話</title>
+      <link>https://zenn.dev/linkedge/articles/27c38cdd9bedc6</link>
+      <description>はじめに
+Claude Code を開発に取り入れるチームが、ここ最近かなり増えてきているのではないでしょうか？
+私はずっと GitHub Copilot を愛用していたのですが、数ヶ月前から Claude Code を使い始めました。
+普段は VS Code で開発しているので、その拡張機能を入れた状態でしばらく使っていました。
+便利なツールで開発が捗ることは確かなのですが、時々的外れな動作をしたり、処理に時間がかかったりして、「思っていたほど効率が上がらないな」と感じることが多々ありました。
+また、X で多くの方が Claude Code を様々な方法で活用しているのを見て、自分... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/linkedge/articles/27c38cdd9bedc6</guid>
+      <pubDate>Wed, 29 Apr 2026 13:16:33 +0000</pubDate>
     </item>
     <item>
       <title>S3 Files 性能評価</title>
@@ -44,29 +52,29 @@ S3 バケットをファイルシステムとしてマウントして使える�
       <pubDate>Thu, 30 Apr 2026 12:33:05 +0000</pubDate>
     </item>
     <item>
-      <title>エージェントコスト対策としてローカルLLMはアリ？— Ollamaで試してみた</title>
-      <link>https://zenn.dev/headwaters/articles/509a1f83c693ce</link>
-      <description>はじめに
-AIエージェントが発達した昨今、頭の中で想像したものを実際にアプリとして落とし込むことは障壁がかなり低くなったと思います。
-しかし、一方でこの先エージェント自体を今までのように安易に利用することが難しくなってくるかもしれません。
-GitHub Copilotが2026年6月1日より従量課金制へ移行すると発表しました。
-これまでの「プレミアムリクエスト」方式が廃止され、「GitHub AIクレジット」という実使用量ベースの課金に切り替わります。GitHubはその背景として、Copilotがエディタ内のアシスタントから複数ステップをこなすエージェント型プラットフォームへ進化した... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/509a1f83c693ce</guid>
-      <pubDate>Tue, 28 Apr 2026 08:45:05 +0000</pubDate>
+      <title>TypeScript で実装したワークフローの「正しさ」を Lean とランダムテストで検証する</title>
+      <link>https://zenn.dev/aishift/articles/a4bdf225a348e5</link>
+      <description>TypeScript は、ワークフローのような処理を少量のコードで書けます。
+たとえば「あるノードから次のノードへ進む」という処理だけなら、数十行で実装できます。
+一方で、実装の規模が大きくなると、次のような不安が出てきます。
+
+ワークフローを扱う関数の間で、ワークフローに期待する意味がずれていないか
+テストしていない入力で、想定外の振る舞いをしないか
+実装を変更したとき、以前満たしていた性質を壊していないか
+
+この記事では、非常に小さなワークフローを題材にして、定理証明支援系 Lean を使い、TypeScript 実装が Lean で書いた基準となるモデルと一致するかを検査する方法を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aishift/articles/a4bdf225a348e5</guid>
+      <pubDate>Thu, 30 Apr 2026 14:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>シェル起動時と cd のたびにダッシュボードを描く CLI「splashboard」を作りました</title>
-      <link>https://zenn.dev/unhappychoice/articles/splashboard-introduction</link>
-      <description>はじめに
-ブラウザで GitHub のレポジトリページを開くと、 README 、 commit 履歴、 Issue / PR 一覧、 contribution heatmap などがトップにまとまっていて、いま何が起きているかがぱっと見でわかります。
-一方、ターミナルを開いたときに見えるのはプロンプト 1 行くらいで、出てくる情報量はかなり少なめです。
-ターミナルでも Web / GitHub くらいの情報量を出せないか、と思って作ったのが今回紹介する splashboard です。
-シェル起動時と cd のたびにカスタマイズ可能なダッシュボードを描画する Rust 製の CLI ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/unhappychoice/articles/splashboard-introduction</guid>
-      <pubDate>Wed, 29 Apr 2026 05:45:05 +0000</pubDate>
+      <title>「11億円を自ら振り込んだ」エンジニア集団の悲劇　はてなを襲った巨額詐欺、IT企業の意外な盲点</title>
+      <link>https://www.itmedia.co.jp/business/articles/2605/01/news034.html</link>
+      <description>「技術に強い」会社が陥った盲点 今回の事案で、注目したいのは被害の構造だ。 適時開示には「当社の従業員のアカウントより、当社の銀行預金口座から外部の口座への送金が実行された」とある。つまり、外部からシステムに不正侵入されたわけではない。悪意ある第三者から虚偽の送金指示を受けた従業員が、自らの手で送... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/business/articles/2605/01/news034.html</guid>
+      <pubDate>Fri, 01 May 2026 00:59:14 +0000</pubDate>
     </item>
     <item>
-      <title>Linuxカーネルの脆弱性「CopyFail (CVE-2026-31431)」をEC2のUbuntu 22.04で実証してみた</title>
+      <title>Linuxカーネルの脆弱性「Copy Fail (CVE-2026-31431)」をEC2のUbuntu 22.04で実証してみた</title>
       <link>https://zenn.dev/aeyesec/articles/7e4a1e3c83e81b</link>
       <description>こんにちは！株式会社エーアイセキュリティラボのはるぷと申します。
 一般ユーザーがコマンド一発でrootを取れてしまうLinuxカーネルの脆弱性、CopyFail (CVE-2026-31431) が話題になっています。AIによって発見された論理バグで、汚しても問題ないEC2環境を作って実際に検証してみました。
@@ -75,22 +83,19 @@ GitHub Copilotが2026年6月1日より従量課金制へ移行すると発表し
       <pubDate>Thu, 30 Apr 2026 07:09:09 +0000</pubDate>
     </item>
     <item>
-      <title>97%のPermission確認を自動化するCoding Agent用OSS「ccgate」が誕生した</title>
-      <link>https://zenn.dev/layerx/articles/20260428-ccgate</link>
-      <description>!
+      <title>5年間のRails開発者がDDDに出会って考えが変わった話</title>
+      <link>https://zenn.dev/neoai/articles/b843fc78203295</link>
+      <description>はじめに
+5年間、Ruby on RailsでMVC + Serviceパターンの API開発をしてきました。Railsの「規約に従えば爆速で動くものができる」という思想が好きで、その生産性の高さは強力な武器でした。
+そんな自分が、Python + FastAPIで構築されたDDDの実装パターン（Entity / Repository / UseCase）と、クリーンアーキテクチャをベースにしたプロダクトに関わることになりました。最初の印象は、正直に言って戸惑いでした。
 
-Claude / CodexのPermission確認をLLMに代行させるccgateというCLIを作った
-もとはAuto Mode的な体験を目指して作り、Auto Modeが使えるようになった今もPlan mode中の確認やCodexへの展開、ログ・metricsの可視化のために使い続けている
-自分の環境では1ヶ月約2000件のPermission確認のうち、基本的に97%近くが自動化された
+概念が難しい
+なんだか回りくどい
+1機能を追加するだけで変更ファイル数がやたらと多い
 
-
-
- はじめに
-こんにちは。@tak848です。今日で25になりました。もうアラサーってやつなんでしょうか。
-みなさん、Coding Agentは使っていますか？
-個人的には、個人開発でも... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/layerx/articles/20260428-ccgate</guid>
-      <pubDate>Tue, 28 Apr 2026 09:23:21 +0000</pubDate>
+「Railsならこれ、S... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/neoai/articles/b843fc78203295</guid>
+      <pubDate>Fri, 01 May 2026 10:38:26 +0000</pubDate>
     </item>
     <item>
       <title>大規模案件のSlackにAI社員3人を常駐させたら、2年目が参画1週間で設計根本に踏み込んだ</title>

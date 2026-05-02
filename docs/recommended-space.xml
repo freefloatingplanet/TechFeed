@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 08:18:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 07:50:22 +0000</lastBuildDate>
+    <item>
+      <title>謎の初期宇宙天体を解き明かす手がかり？　チャンドラ宇宙望遠鏡が観測した「X線ドット」</title>
+      <link>https://sorae.info/astronomy/20260430-x-ray-dot-chandra.html</link>
+      <description>マックス・プランク天文学研究所のRaphael Hvidingさんを筆頭とする研究チームは、初期宇宙で次々と見つかっている「リトル・レッド・ドット（Little Red Dot: LRD）」と呼ばれる天体の正体を解き明か… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260430-x-ray-dot-chandra.html</guid>
+      <pubDate>Thu, 30 Apr 2026 12:40:21 +0000</pubDate>
+    </item>
     <item>
       <title>数世紀で軌道が変化する惑星系　恒星「TOI-201」を公転する惑星と褐色矮星の謎に迫る成果</title>
       <link>https://sorae.info/astronomy/20260501-toi-201-system.html</link>
@@ -42,13 +49,6 @@
       <description>Planet Labsは、自社で開発・運用する30cm解像度の地球観測衛星Pelican-4に搭載したNVIDIA Jetsonモジュールを使い、宇宙空間で直接AIによる物体検知を実行することに成功したと発表しました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45714/</guid>
       <pubDate>Wed, 29 Apr 2026 23:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>「クォーク」は本当に素粒子か？　0.00000000000000000001mスケールまでは内部構造がないことを確認</title>
-      <link>https://sorae.info/science/20260426-quark-inside.html</link>
-      <description>私たちの身近にある普通の物質は、最小単位まで分解していくと「クォーク」という粒子に行きつきます。クォークは内部構造を持たず、これ以上分解できない素粒子であると考えられていますが、内部構造がある可能性も残されています。 C… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/science/20260426-quark-inside.html</guid>
-      <pubDate>Sun, 26 Apr 2026 12:30:12 +0000</pubDate>
     </item>
     <item>
       <title>ULAが「アトラスV」で6回目のAmazon Leoミッションを実施　衛星29機を打ち上げ</title>
