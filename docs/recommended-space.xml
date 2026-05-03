@@ -7,20 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 07:50:22 +0000</lastBuildDate>
-    <item>
-      <title>謎の初期宇宙天体を解き明かす手がかり？　チャンドラ宇宙望遠鏡が観測した「X線ドット」</title>
-      <link>https://sorae.info/astronomy/20260430-x-ray-dot-chandra.html</link>
-      <description>マックス・プランク天文学研究所のRaphael Hvidingさんを筆頭とする研究チームは、初期宇宙で次々と見つかっている「リトル・レッド・ドット（Little Red Dot: LRD）」と呼ばれる天体の正体を解き明か… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260430-x-ray-dot-chandra.html</guid>
-      <pubDate>Thu, 30 Apr 2026 12:40:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 May 2026 08:06:05 +0000</lastBuildDate>
     <item>
       <title>数世紀で軌道が変化する惑星系　恒星「TOI-201」を公転する惑星と褐色矮星の謎に迫る成果</title>
       <link>https://sorae.info/astronomy/20260501-toi-201-system.html</link>
       <description>ニューメキシコ大学（UNM）のIsmael Mirelesさんを筆頭とする国際研究チームは、がか座の方向、地球から約370光年先の恒星（F型星）「TOI-201」の惑星系に関する研究成果を発表しました。研究チームの成果を… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260501-toi-201-system.html</guid>
       <pubDate>Fri, 01 May 2026 02:51:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>超新星爆発が駆動する銀河風　JAXA天文衛星「XRISM」によるスターバースト銀河M82の観測成果</title>
+      <link>https://sorae.info/astronomy/20260503-m82-xrism.html</link>
+      <description>JAXA（宇宙航空研究開発機構）のX線分光撮像衛星「XRISM（クリズム）」を使用して、爆発的に星が形成されているスターバースト銀河のひとつ「M82（Messier 82）」を観測した新たな研究成果を、国際研究チーム「X… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260503-m82-xrism.html</guid>
+      <pubDate>Sun, 03 May 2026 02:09:14 +0000</pubDate>
     </item>
     <item>
       <title>ispaceが月周回衛星を活用した通信・測位サービスを発表。地球と月をつなぐハブ、月周回衛星があれば何ができる？【宇宙ビジネスニュース】</title>
@@ -37,18 +37,18 @@
       <pubDate>Wed, 29 Apr 2026 08:22:24 +0000</pubDate>
     </item>
     <item>
-      <title>「パラメトリック保険」は衛星利用ビジネスの注目ワードに。地球のあらゆる動きを指標化できる衛星データ×保険の未来</title>
-      <link>https://sorabatake.jp/45652/</link>
-      <description>衛星データで災害や積雪、船舶数まで指標化し、査定不要で即時の保険金支払いができる？衛星データを利活用が期待される「パラメトリック保険」の仕組みと可能性を、国内外の事例と合わせて解説します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45652/</guid>
-      <pubDate>Mon, 13 Apr 2026 23:00:53 +0000</pubDate>
-    </item>
-    <item>
       <title>Planet LabsがNVIDIAモジュール搭載の衛星で、宇宙軌道上でのAIによる航空機の検知に成功【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/45714/</link>
       <description>Planet Labsは、自社で開発・運用する30cm解像度の地球観測衛星Pelican-4に搭載したNVIDIA Jetsonモジュールを使い、宇宙空間で直接AIによる物体検知を実行することに成功したと発表しました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45714/</guid>
       <pubDate>Wed, 29 Apr 2026 23:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>「パラメトリック保険」は衛星利用ビジネスの注目ワードに。地球のあらゆる動きを指標化できる衛星データ×保険の未来</title>
+      <link>https://sorabatake.jp/45652/</link>
+      <description>衛星データで災害や積雪、船舶数まで指標化し、査定不要で即時の保険金支払いができる？衛星データを利活用が期待される「パラメトリック保険」の仕組みと可能性を、国内外の事例と合わせて解説します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45652/</guid>
+      <pubDate>Mon, 13 Apr 2026 23:00:53 +0000</pubDate>
     </item>
     <item>
       <title>ULAが「アトラスV」で6回目のAmazon Leoミッションを実施　衛星29機を打ち上げ</title>

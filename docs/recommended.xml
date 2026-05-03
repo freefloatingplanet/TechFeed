@@ -7,26 +7,39 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 07:50:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 08:06:02 +0000</lastBuildDate>
     <item>
-      <title>【Copilot】AI駆動開発では役割を分けて、トークン節約をする【IBM Bob】</title>
-      <link>https://qiita.com/m_koishikawa/items/38f3d84b8c71cf670b6b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>IBM Bobで出力した内容、Copilotへのプロンプトを含みます。
-
-生成AIを利用する上で、意外と気にされないことが「トークンの節約」です。
-AI駆動開発において実際の開発に取り組むと、やり取りしているだけでトークンを消費し、結果的に  「開発のためのトークンが... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/m_koishikawa/items/38f3d84b8c71cf670b6b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 01 May 2026 08:59:17 +0000</pubDate>
+      <title>「ＡＩが数学の未解決問題を解いた」報告ラッシュ、リーマン予想もいずれ…　高まる思考力、疲れ知らずの働き者。人間に残された仕事は？ | NEWSjp</title>
+      <link>https://news.jp/i/1417683400603631631?c=39546741839462401</link>
+      <description>２０２６年が明けてすぐに「人工知能（ＡＩ）が未解決の数学の定理を証明した」とする論文の公表が世界で相次いだ。近年のＡＩの進化はめざましく、数学者が長年答えを出せなかった問題が次々と解かれている。専門家は「２０２６年はＡＩが安定して数学の未解決問題を解けるようになった最初の年といえる」と話す。 この... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://news.jp/i/1417683400603631631?c=39546741839462401</guid>
+      <pubDate>Sun, 03 May 2026 03:31:52 +0000</pubDate>
     </item>
     <item>
-      <title>ガバメント AI「源内」（genai-ai-api）を閉域の AWS 環境へデプロイしてみた</title>
-      <link>https://qiita.com/takeda_h/items/89201d196e3f68ba3044?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>デジタル庁が政府機関で実装を進めている生成 AI 利用環境であるガバメント AI「源内」について、その一部が先日オープンソースとして公開されました。
+      <title>「ＡＩが数学の未解決問題を解いた」報告ラッシュ、リーマン予想もいずれ…　高まる思考力、疲れ知らずの働き者。人間に残された仕事は？（47NEWS） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/5054ebb0f827712825e610d37dfa4028f8c0e226</link>
+      <description>２０２６年が明けてすぐに「人工知能（ＡＩ）が未解決の数学の定理を証明した」とする論文の公表が世界で相次いだ。近年のＡＩの進化はめざましく、数学者が長年答えを出せなかった問題が次々と解かれている。専門家は「２０２６年はＡＩが安定して数学の未解決問題を解けるようになった最初の年といえる」と話す。 【画... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5054ebb0f827712825e610d37dfa4028f8c0e226</guid>
+      <pubDate>Sun, 03 May 2026 05:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Go + gRPC サーバーのコンテナ化を行い、イメージ作成は Dockerfile より ko が適していると感じた理由</title>
+      <link>https://zenn.dev/baleenstudio/articles/ea23ce22c6b3c3</link>
+      <description>はじめに
+Go で gRPC サーバーを作り、それをコンテナとして動かす。
+よくある構成だと思います。
+Go初学者である自分もこの構成を試してみて、簡単なgRPCサーバーのみの Dockerfile を使ったコンテナ化を行ってみました。
+ただ、その過程で強く感じたのは、
+Dockerfile は理解しなければいけないことが想像以上に多い という点でした。
 
-地方自治体側としても、将来的に源内をガバメントクラウドで使うことがあるのではないかと気になっているところです。
-そこで... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/takeda_h/items/89201d196e3f68ba3044?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 29 Apr 2026 08:48:36 +0000</pubDate>
+build ステージと runtime ステージの関係
+バイナリの配置場所
+static build や distroless の前提
+将来イメージが複雑になったときの見通し
+
+など、Go のコードとは別レイヤーの知識を常に意識す... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/baleenstudio/articles/ea23ce22c6b3c3</guid>
+      <pubDate>Fri, 01 May 2026 07:41:40 +0000</pubDate>
     </item>
     <item>
       <title>【Claude Code】CLAUDE.md・skills・agents を整備して開発体験が劇的に変わった話</title>
@@ -52,26 +65,11 @@ S3 バケットをファイルシステムとしてマウントして使える�
       <pubDate>Thu, 30 Apr 2026 12:33:05 +0000</pubDate>
     </item>
     <item>
-      <title>TypeScript で実装したワークフローの「正しさ」を Lean とランダムテストで検証する</title>
-      <link>https://zenn.dev/aishift/articles/a4bdf225a348e5</link>
-      <description>TypeScript は、ワークフローのような処理を少量のコードで書けます。
-たとえば「あるノードから次のノードへ進む」という処理だけなら、数十行で実装できます。
-一方で、実装の規模が大きくなると、次のような不安が出てきます。
-
-ワークフローを扱う関数の間で、ワークフローに期待する意味がずれていないか
-テストしていない入力で、想定外の振る舞いをしないか
-実装を変更したとき、以前満たしていた性質を壊していないか
-
-この記事では、非常に小さなワークフローを題材にして、定理証明支援系 Lean を使い、TypeScript 実装が Lean で書いた基準となるモデルと一致するかを検査する方法を... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aishift/articles/a4bdf225a348e5</guid>
-      <pubDate>Thu, 30 Apr 2026 14:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>「11億円を自ら振り込んだ」エンジニア集団の悲劇　はてなを襲った巨額詐欺、IT企業の意外な盲点</title>
-      <link>https://www.itmedia.co.jp/business/articles/2605/01/news034.html</link>
-      <description>「技術に強い」会社が陥った盲点 今回の事案で、注目したいのは被害の構造だ。 適時開示には「当社の従業員のアカウントより、当社の銀行預金口座から外部の口座への送金が実行された」とある。つまり、外部からシステムに不正侵入されたわけではない。悪意ある第三者から虚偽の送金指示を受けた従業員が、自らの手で送... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/business/articles/2605/01/news034.html</guid>
-      <pubDate>Fri, 01 May 2026 00:59:14 +0000</pubDate>
+      <title>西日本シティ銀行の「博多どんたく参加中止」は、他地域民は「？」だけど近隣の人は「そこまでか…！」となっているので、地域商売としては最優先のケジメだったのでは、という話</title>
+      <link>https://togetter.com/li/2692491</link>
+      <description>SOW＠ @sow_LIBRA11 件の某地銀の騒動、博多どんたくへの参加を中止するという報に、他地域民は「？」なんだが、かの文化圏の方々は「そこまでか・・・！」みたいになっていて、地域の信用あっての商売だからこその最優先のケジメの付け方だったのかな。 2026-05-02 17:08:05 SOW＠ @sow_LIBRA11 どちらにしろ、騒動が起... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2692491</guid>
+      <pubDate>Sat, 02 May 2026 22:18:32 +0000</pubDate>
     </item>
     <item>
       <title>Linuxカーネルの脆弱性「Copy Fail (CVE-2026-31431)」をEC2のUbuntu 22.04で実証してみた</title>
@@ -81,6 +79,13 @@ S3 バケットをファイルシステムとしてマウントして使える�
 この脆弱性は、 一般ユーザーがroot権限に昇格できる というものです。実行条件がとても簡単なので話題になりました。ざっくり仕組みを言うと、algif_aead・authencesn・splice() システムコールの組み合わせによって、メモリ上のページキャッシュを直接書き換えられ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/aeyesec/articles/7e4a1e3c83e81b</guid>
       <pubDate>Thu, 30 Apr 2026 07:09:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>BeRealが問題になったことで、今の平均的な大学生のSNS事情がどうなっているのかに注目が集まり、「Discord」を知らない人が多い事実が判明</title>
+      <link>https://togetter.com/li/2692323</link>
+      <description>クレア @kureakurea01 いま起きているのはBeRealをやっている若者が危ないという話ではなく、Xを見ている層とBeRealだけを見ている層で、炎上リスクの体感温度がまったく違うという問題です。X民は毎日のように、不適切投稿、バイトテロ、情報漏えい、職場炎上、損害賠償、謝罪文、解雇事例を見ています。 だから職場で... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2692323</guid>
+      <pubDate>Sat, 02 May 2026 13:00:30 +0000</pubDate>
     </item>
     <item>
       <title>5年間のRails開発者がDDDに出会って考えが変わった話</title>
@@ -98,34 +103,13 @@ S3 バケットをファイルシステムとしてマウントして使える�
       <pubDate>Fri, 01 May 2026 10:38:26 +0000</pubDate>
     </item>
     <item>
-      <title>大規模案件のSlackにAI社員3人を常駐させたら、2年目が参画1週間で設計根本に踏み込んだ</title>
-      <link>https://zenn.dev/nttdata_tech/articles/bf6b694144e55a</link>
-      <description>実際の画面とは異なるサンプルイメージです
-チームのSlackにAI社員を3人常駐させています。
-社員5人で、2週間動かしました。
-誤解を招きそうだからちゃんと書いておきます。
-2週間です。半年でも1年でもなく、2週間。
-それでも書きたくなるくらいのことが起きたので、この記事を書いています。
-SIerの大規模開発で扱う資料は毎週溜まります。
-仕様書の背景、顧客の痛点、過去の判断の残り香。
-新しく参画したメンバーは、これを数週間かけて読み込むのがいつもの景色です。
-そこに、このAI社員3人が入りました。
-すると、2年目のメンバーが参画1週間でSKILLを直し、2週間で設計根本に疑問を出して... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/bf6b694144e55a</guid>
-      <pubDate>Tue, 28 Apr 2026 03:52:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>terraform applyをGHAで実行してはいけない理由</title>
-      <link>https://zenn.dev/okazu_dm/articles/7d30c496c8fbb6</link>
-      <description>terraform applyをGHAで実行してはいけない理由
-こんにちは、SREの@okazu_dmです。
-常日頃からGHAでterraform applyをするのはやめろと言い続けているのですが、最近GHAを起点とした攻撃が立て続けに起こっており、改めて文章の形でまとめておいた方がいいなと思ったので記事を書きました。
-
- はじめに
-2026年3月ごろから、GHAを攻撃の入り口として悪用する事例が目立っています。
-たとえば、以下のAeye Security Labの記事では、PRタイトル、ブランチ名、ファイル名など、外部から与えられる値をGHAの run ステップ内で不適切に展開し... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/okazu_dm/articles/7d30c496c8fbb6</guid>
-      <pubDate>Thu, 30 Apr 2026 12:02:19 +0000</pubDate>
+      <title>マネーフォワードのGitHub不正アクセス事件をエンジニア視点で読み解く — なぜソースコードに本番カード情報と認証キーが入っていたのか</title>
+      <link>https://zenn.dev/awesome_kou/articles/moneyforward-github-source-leak</link>
+      <description>はじめに
+2026 年 5 月 1 日、マネーフォワードが「GitHub への不正アクセス発生に関するお知らせとお詫び（第一報）」を公表しました。GitHub の認証情報が漏えいし、第三者によりリポジトリがコピーされ、ソースコードと一部の個人情報が流出した可能性があるという内容です。同時に、銀行口座連携機能を一時停止する措置もとられました。
+この事案は、エンジニア視点で見ると「仕方ない部分」と「明らかにアウトな部分」がはっきり分かれる、教科書のような事例になっています。GitHub 認証情報の漏えい自体は、正直に言ってどの会社でも起こり得ます。一方で、流出したとされる中身に 本番カー... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/awesome_kou/articles/moneyforward-github-source-leak</guid>
+      <pubDate>Fri, 01 May 2026 13:29:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
