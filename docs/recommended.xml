@@ -7,85 +7,61 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 May 2026 08:06:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 08:34:56 +0000</lastBuildDate>
     <item>
-      <title>「ＡＩが数学の未解決問題を解いた」報告ラッシュ、リーマン予想もいずれ…　高まる思考力、疲れ知らずの働き者。人間に残された仕事は？ | NEWSjp</title>
-      <link>https://news.jp/i/1417683400603631631?c=39546741839462401</link>
-      <description>２０２６年が明けてすぐに「人工知能（ＡＩ）が未解決の数学の定理を証明した」とする論文の公表が世界で相次いだ。近年のＡＩの進化はめざましく、数学者が長年答えを出せなかった問題が次々と解かれている。専門家は「２０２６年はＡＩが安定して数学の未解決問題を解けるようになった最初の年といえる」と話す。 この... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://news.jp/i/1417683400603631631?c=39546741839462401</guid>
-      <pubDate>Sun, 03 May 2026 03:31:52 +0000</pubDate>
+      <title>女体シャンパンタワー騒動の坂井氏が、今度は「皆で動画はAIで作られた偽物だったと言う事実を作れないですか？」との投稿… 協力の見返りに「認めて謝ってアカウント削除します」発言も</title>
+      <link>https://togetter.com/li/2692929</link>
+      <description>坂井秀人 @hideto_sa どうしたら許してくれますか？ 真剣に相談させてください SNSはリスクが高いのでアカウント削除するので、その代わり皆で動画はAIで作られた偽物だったと言う事実を作れないですか？ 今までの否定的なリプや引用を削除して 逆に問題のポストなどにAIの偽物と書き込んでもらう その書き込みが多いとg... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2692929</guid>
+      <pubDate>Mon, 04 May 2026 01:12:25 +0000</pubDate>
     </item>
     <item>
-      <title>「ＡＩが数学の未解決問題を解いた」報告ラッシュ、リーマン予想もいずれ…　高まる思考力、疲れ知らずの働き者。人間に残された仕事は？（47NEWS） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/5054ebb0f827712825e610d37dfa4028f8c0e226</link>
-      <description>２０２６年が明けてすぐに「人工知能（ＡＩ）が未解決の数学の定理を証明した」とする論文の公表が世界で相次いだ。近年のＡＩの進化はめざましく、数学者が長年答えを出せなかった問題が次々と解かれている。専門家は「２０２６年はＡＩが安定して数学の未解決問題を解けるようになった最初の年といえる」と話す。 【画... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5054ebb0f827712825e610d37dfa4028f8c0e226</guid>
-      <pubDate>Sun, 03 May 2026 05:30:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Go + gRPC サーバーのコンテナ化を行い、イメージ作成は Dockerfile より ko が適していると感じた理由</title>
-      <link>https://zenn.dev/baleenstudio/articles/ea23ce22c6b3c3</link>
-      <description>はじめに
-Go で gRPC サーバーを作り、それをコンテナとして動かす。
-よくある構成だと思います。
-Go初学者である自分もこの構成を試してみて、簡単なgRPCサーバーのみの Dockerfile を使ったコンテナ化を行ってみました。
-ただ、その過程で強く感じたのは、
-Dockerfile は理解しなければいけないことが想像以上に多い という点でした。
+      <title>Temporalのpolyfillをゼロから実装した</title>
+      <link>https://zenn.dev/fabon/articles/84f7696cd8a2fb</link>
+      <description>自作した理由は単純で、既存のpolyfillに満足できなかったからです。
+!
+この記事は自分のブログに投稿した英語版の日本語訳で、内容はだいたい同じです。
 
-build ステージと runtime ステージの関係
-バイナリの配置場所
-static build や distroless の前提
-将来イメージが複雑になったときの見通し
 
-など、Go のコードとは別レイヤーの知識を常に意識す... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/baleenstudio/articles/ea23ce22c6b3c3</guid>
-      <pubDate>Fri, 01 May 2026 07:41:40 +0000</pubDate>
+ 要約
+https://npmx.dev/package/temporal-polyfill-lite
+
+軽量なTemporalのpolyfillであるtemporal-polyfill-liteを実装しました。
+最終版（最新）の仕様を実装しており、TypeScript公式の型定義とも互換性があります。
+大半の（グレゴリオ暦しか使わない）開発者にとっては、2026年4月現在これが一番バンドルサイズの小さいpolyfillとなってい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/fabon/articles/84f7696cd8a2fb</guid>
+      <pubDate>Sun, 03 May 2026 19:31:36 +0000</pubDate>
     </item>
     <item>
-      <title>【Claude Code】CLAUDE.md・skills・agents を整備して開発体験が劇的に変わった話</title>
-      <link>https://zenn.dev/linkedge/articles/27c38cdd9bedc6</link>
-      <description>はじめに
-Claude Code を開発に取り入れるチームが、ここ最近かなり増えてきているのではないでしょうか？
-私はずっと GitHub Copilot を愛用していたのですが、数ヶ月前から Claude Code を使い始めました。
-普段は VS Code で開発しているので、その拡張機能を入れた状態でしばらく使っていました。
-便利なツールで開発が捗ることは確かなのですが、時々的外れな動作をしたり、処理に時間がかかったりして、「思っていたほど効率が上がらないな」と感じることが多々ありました。
-また、X で多くの方が Claude Code を様々な方法で活用しているのを見て、自分... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/linkedge/articles/27c38cdd9bedc6</guid>
-      <pubDate>Wed, 29 Apr 2026 13:16:33 +0000</pubDate>
+      <title>AIチャットボットが「私は意識を持った」と主張 — ハンマー武装や爆弾騒動まで発展、31カ国で414件の妄想被害</title>
+      <link>https://techfeed.io/entries/69f7b787aacf8165d7f59488?from=rss</link>
+      <description>5月3日、Stephanie Hegartyが「AI told users it was sentient」と題した記事をBBCで公開した。この記事では、AIチャットボットとの対話により複数のユーザーが妄想状態に陥り、現実と虚構の境界を見失った事例について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/69f7b787aacf8165d7f59488?from=rss</guid>
+      <pubDate>Sun, 03 May 2026 21:00:55 +0000</pubDate>
     </item>
     <item>
-      <title>S3 Files 性能評価</title>
-      <link>https://zenn.dev/edash_tech_blog/articles/4ece2a554ecb27</link>
-      <description>はじめに
-Zenn 読者のみなさん、こんにちは。e-dash VPoE の伊藤です。
-2026年4月、AWS から S3 Files がリリースされました。
-S3 バケットをファイルシステムとしてマウントして使える、という非常にインパクトのある機能で、ユースケース次第では大幅なストレージコスト削減やアーキテクチャ簡素化が期待できそうです。一方で、「実際どの程度の性能が出るの？」「EBS や EFS の代替としてどの程度使えるの？」という疑問もあります。
-そこで今回は、S3 Files の性能を実機で評価し、他のストレージ構成（エフェメラルストレージ・EBS・EFS）と比較してみたので... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/edash_tech_blog/articles/4ece2a554ecb27</guid>
-      <pubDate>Thu, 30 Apr 2026 12:33:05 +0000</pubDate>
+      <title>AI駆動開発で、なぜミドルエンジニアは不安になるのか ── AIによる分業の終わりと始まり - arclamp</title>
+      <link>https://arclamp.hatenablog.com/entry/2026/05/02/225148</link>
+      <description>AI駆動開発が「使える」となってきたことで、20代後半から30代中盤のミドルエンジニアが疲弊しているという話を聞きました。たしかに、エンジニアの中でも「AIは楽しい・これでもっと良くなる」という意見と「不安だ・これからどうなるのだろう」という意見に分かれているようです。 私の周りでは、特にベテランが楽しん... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://arclamp.hatenablog.com/entry/2026/05/02/225148</guid>
+      <pubDate>Sat, 02 May 2026 15:43:46 +0000</pubDate>
     </item>
     <item>
-      <title>西日本シティ銀行の「博多どんたく参加中止」は、他地域民は「？」だけど近隣の人は「そこまでか…！」となっているので、地域商売としては最優先のケジメだったのでは、という話</title>
-      <link>https://togetter.com/li/2692491</link>
-      <description>SOW＠ @sow_LIBRA11 件の某地銀の騒動、博多どんたくへの参加を中止するという報に、他地域民は「？」なんだが、かの文化圏の方々は「そこまでか・・・！」みたいになっていて、地域の信用あっての商売だからこその最優先のケジメの付け方だったのかな。 2026-05-02 17:08:05 SOW＠ @sow_LIBRA11 どちらにしろ、騒動が起... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2692491</guid>
-      <pubDate>Sat, 02 May 2026 22:18:32 +0000</pubDate>
+      <title>市場は本当に予測不能なのか？――ランダムウォーク仮説とクオンツが探す「小さな歪み」 - Qiita</title>
+      <link>https://qiita.com/tikeda123/items/e777dcadbc850c357419</link>
+      <description>クオンツが見るべきなのは、チャートの形そのものではない。その背後にある人間行動である。急落後の反発、トレンドの継続、節目価格での反応は、単なる線の動きではなく、市場参加者の心理とポジション調整の結果として理解できる。 市場が完全に合理的ならエッジはすぐに消えるが、人間が参加している限り、これらの歪... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://qiita.com/tikeda123/items/e777dcadbc850c357419</guid>
+      <pubDate>Sun, 03 May 2026 03:38:45 +0000</pubDate>
     </item>
     <item>
-      <title>Linuxカーネルの脆弱性「Copy Fail (CVE-2026-31431)」をEC2のUbuntu 22.04で実証してみた</title>
-      <link>https://zenn.dev/aeyesec/articles/7e4a1e3c83e81b</link>
-      <description>こんにちは！株式会社エーアイセキュリティラボのはるぷと申します。
-一般ユーザーがコマンド一発でrootを取れてしまうLinuxカーネルの脆弱性、CopyFail (CVE-2026-31431) が話題になっています。AIによって発見された論理バグで、汚しても問題ないEC2環境を作って実際に検証してみました。
-この脆弱性は、 一般ユーザーがroot権限に昇格できる というものです。実行条件がとても簡単なので話題になりました。ざっくり仕組みを言うと、algif_aead・authencesn・splice() システムコールの組み合わせによって、メモリ上のページキャッシュを直接書き換えられ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aeyesec/articles/7e4a1e3c83e81b</guid>
-      <pubDate>Thu, 30 Apr 2026 07:09:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>BeRealが問題になったことで、今の平均的な大学生のSNS事情がどうなっているのかに注目が集まり、「Discord」を知らない人が多い事実が判明</title>
-      <link>https://togetter.com/li/2692323</link>
-      <description>クレア @kureakurea01 いま起きているのはBeRealをやっている若者が危ないという話ではなく、Xを見ている層とBeRealだけを見ている層で、炎上リスクの体感温度がまったく違うという問題です。X民は毎日のように、不適切投稿、バイトテロ、情報漏えい、職場炎上、損害賠償、謝罪文、解雇事例を見ています。 だから職場で... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2692323</guid>
-      <pubDate>Sat, 02 May 2026 13:00:30 +0000</pubDate>
+      <title>データエンジニアがオントロジーを触って、導入可能性に思いを馳せてみた</title>
+      <link>https://zenn.dev/bare64/articles/ontology-data-platform-practice</link>
+      <description>こんにちは！データエンジニアの myshmeh です。
+前回の記事では、データ分析エージェントの精度向上を題材に、オントロジーと Semantic Layer は対立するものではなく、互いに補完しうる関係なのではないか、という観点を整理しました。
+https://zenn.dev/bare64/articles/ecac1bbf510ce4
+本記事ではその続編として、実際のオントロジーツールに触れ、それぞれの利点に踏み込みます。具体的には、形式論理の取り入れ度合いが異なる Microsoft Fabric IQ と Protégé を通じて、 Semantic Layer と比較した際の... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/bare64/articles/ontology-data-platform-practice</guid>
+      <pubDate>Sun, 03 May 2026 17:28:07 +0000</pubDate>
     </item>
     <item>
       <title>5年間のRails開発者がDDDに出会って考えが変わった話</title>
@@ -103,6 +79,30 @@ S3 バケットをファイルシステムとしてマウントして使える�
       <pubDate>Fri, 01 May 2026 10:38:26 +0000</pubDate>
     </item>
     <item>
+      <title>デジタル庁の生成AI基盤「源内」のOSSをAWS上で動かしてみた話</title>
+      <link>https://zenn.dev/hosoyayusaku/articles/25ec9a4a6fa1c9</link>
+      <description>🎯 この記事の対象読者
+
+自治体や行政機関のデジタル部門で、源内に関心を持っている職員の方
+事業者さんから提案を受ける前に、まず仕組みを自分の目で確認しておきたい方
+AWSや生成AI基盤の構築に関わるエンジニアの方
+行政DXの現場で「実際に動くもの」を起点に議論を進めたい方
+
+
+ 💡 この記事を読むと得られること
+
+源内Web(インターフェース部分)を自分のAWS環境にデプロイする際の手順、所要時間
+半日の検証で発生した費用の目安
+動かしてみて見えた、内部構造の解説
+自治体で導入を検討する際に、技術担当として確認しておくと有益そうな観点
+
+
+ 🚀 はじめに：なぜこの記事を書いたか
+2... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hosoyayusaku/articles/25ec9a4a6fa1c9</guid>
+      <pubDate>Sat, 02 May 2026 14:25:44 +0000</pubDate>
+    </item>
+    <item>
       <title>マネーフォワードのGitHub不正アクセス事件をエンジニア視点で読み解く — なぜソースコードに本番カード情報と認証キーが入っていたのか</title>
       <link>https://zenn.dev/awesome_kou/articles/moneyforward-github-source-leak</link>
       <description>はじめに
@@ -110,6 +110,16 @@ S3 バケットをファイルシステムとしてマウントして使える�
 この事案は、エンジニア視点で見ると「仕方ない部分」と「明らかにアウトな部分」がはっきり分かれる、教科書のような事例になっています。GitHub 認証情報の漏えい自体は、正直に言ってどの会社でも起こり得ます。一方で、流出したとされる中身に 本番カー... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/awesome_kou/articles/moneyforward-github-source-leak</guid>
       <pubDate>Fri, 01 May 2026 13:29:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>コードを書きながら学ぶ プログラミングの原理原則</title>
+      <link>https://zenn.dev/ippe/articles/learn-programming-principles-by-coding</link>
+      <description>はじめに
+事業会社でエンジニアをしているいっぺいです。最近、転職をして以前よりも規模の大きなサービスの開発に携わることになりました。まだ転職して数ヶ月しか経ってはいませんが、1つのコードに対して求められる品質が上がり、自分の考えや知識がまだまだ足りていないと感じることが多いです。
+プルリクエストのレビューを通して、要件を満たして動くコードは書けているが、「もっとこう書いた方がよいのでは？」という視点のコメントをもらうことも多く、将来的な変更に耐えられるか・保守性は良いか・読みやすいコードになっているかといった観点で、まだまだ力不足だと感じています。
+そこで、改めて「プログラミングの原... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ippe/articles/learn-programming-principles-by-coding</guid>
+      <pubDate>Sat, 02 May 2026 08:50:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
