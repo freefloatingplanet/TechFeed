@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 08:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 08:16:57 +0000</lastBuildDate>
+    <item>
+      <title>謎の初期宇宙天体を解き明かす手がかり？　チャンドラ宇宙望遠鏡が観測した「X線ドット」</title>
+      <link>https://sorae.info/astronomy/20260430-x-ray-dot-chandra.html</link>
+      <description>マックス・プランク天文学研究所のRaphael Hvidingさんを筆頭とする研究チームは、初期宇宙で次々と見つかっている「リトル・レッド・ドット（Little Red Dot: LRD）」と呼ばれる天体の正体を解き明か… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260430-x-ray-dot-chandra.html</guid>
+      <pubDate>Thu, 30 Apr 2026 12:40:21 +0000</pubDate>
+    </item>
     <item>
       <title>ガスと塵の橋で結ばれた2つの銀河　ハッブル宇宙望遠鏡が観測した「Arp 94」</title>
       <link>https://sorae.info/astronomy/20260503-arp-94.html</link>
@@ -58,13 +65,6 @@
       <pubDate>Mon, 13 Apr 2026 23:00:53 +0000</pubDate>
     </item>
     <item>
-      <title>ULAが「アトラスV」で6回目のAmazon Leoミッションを実施　衛星29機を打ち上げ</title>
-      <link>https://sorae.info/ssn/20260429-ula-amazon-leo.html</link>
-      <description>ULA（ユナイテッド・ローンチ・アライアンス）は日本時間2026年4月28日に「Atlas V（アトラスV）」ロケットの打ち上げを実施しました。搭載されていたAmazonの衛星は無事に軌道に投入されたことを、ULAとAm… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260429-ula-amazon-leo.html</guid>
-      <pubDate>Wed, 29 Apr 2026 06:35:53 +0000</pubDate>
-    </item>
-    <item>
       <title>「数回の打上げで市場は一気に拡大するだろう」ElevationSpace、Redwireが提携。バイオ医薬品技術を自社プラットフォームに統合へ【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/45700/</link>
       <description>衛星内で実験などができる小型宇宙機を開発するElevationSpaceは米国のRedwire Corporationとの締結を発表しました。その提携内容と、RedwireがElevationSpaceに期待することについて、直接お話を伺いました。 (source: 宙畑)</description>
@@ -72,11 +72,11 @@
       <pubDate>Thu, 23 Apr 2026 23:21:33 +0000</pubDate>
     </item>
     <item>
-      <title>【イベントレポート】冷え込む夕暮れに沢山の笑顔と歓声！イオンモール多摩平の森・星空鑑賞会</title>
-      <link>https://sorae.info/event/kozushima-community-20260321-report.html</link>
-      <description>2026年3月21日に実施した、soraeと「星空ツナガルコミュニティ」の共同企画によるイオンモール多摩平の森での星空鑑賞会についてレポートします。 夕方にかけてぐっと気温が下がり、肌寒さを感じる冷え込みとなりましたが、… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/event/kozushima-community-20260321-report.html</guid>
-      <pubDate>Tue, 28 Apr 2026 08:53:51 +0000</pubDate>
+      <title>月の大気イオンの変化を「かぐや」のデータから解明　流星群の後には興味深い変化も</title>
+      <link>https://sorae.info/astronomy/20260504-lunar-atmosphere-ions.html</link>
+      <description>月には、極めてわずかですが大気があります。大気成分のうち、炭素、窒素、酸素のイオンについては様々なメカニズムで発生していると考えられていたものの、それぞれがどのような割合で働くのかは未知数でした。 大阪大学の寺田健太郎氏… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260504-lunar-atmosphere-ions.html</guid>
+      <pubDate>Mon, 04 May 2026 12:31:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

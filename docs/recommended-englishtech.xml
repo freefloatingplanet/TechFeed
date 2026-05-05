@@ -7,20 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 04 May 2026 08:35:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 08:17:05 +0000</lastBuildDate>
     <item>
-      <title>プレゼンテーション：StripeのDocdb：ダウンタイムゼロのデータ移動がいかにして数兆ドル規模の決済処理を支えるか</title>
-      <link>https://www.infoq.com/presentations/docdb-online-database/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ジミー・モルザリア氏は、Stripeのデータベース層が500万QPSと99.9 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/docdb-online-database/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 30 Apr 2026 09:52:00 +0000</pubDate>
+      <title>DoorDashはCopilotを使用して、XCTestベースのiOSテストスイートをSwiftテストに変換しました。</title>
+      <link>https://www.infoq.com/news/2026/05/doordash-copilot-swift-testing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>DoorDashのエンジニア、マテウス・ゴイス氏によると、Copilotと強力な信頼性対策を用いることで、DoorDashはiOSのXCTestベースのテストスイートをSwift Testingに移行し、大規模なテストスイートを迅速かつ安全に、そして測定可能なパフォーマンス向上を実現して最新化したという。セルジオ・デ・シモーネ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/05/doordash-copilot-swift-testing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 04 May 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>記事：Kubernetes上の自律型AIエージェントのセキュリティ確保：新たなクラウドワークロードカテゴリにおける信頼境界、シークレット、および可観測性</title>
-      <link>https://www.infoq.com/articles/securing-autonomous-ai-agents-kubernetes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>自律型AIエージェントは、動的な依存関係、マルチドメイン認証情報、予測不可能なリソース使用によってKubernetesのセキュリティに関する前提を覆します。この記事では、ジョブベースの分離、スコープ付きの短命な認証情報のためのVault、シャドウモードから自律運用までの4段階の信頼モデル、非決定論的な推論サイクルのための可観測性など、本番環境でテスト済みのパターンについて解説します。執筆者：Nik Kale (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/securing-autonomous-ai-agents-kubernetes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 01 May 2026 09:00:00 +0000</pubDate>
+      <title>米国政府は、Linuxの主要バージョンに影響を与える深刻なCopyFailバグについて警告を発した。</title>
+      <link>https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/</link>
+      <description>米国のサイバーセキュリティ機関であるCISAは、CopyFailの脆弱性がハッキング攻撃で積極的に悪用されており、Linuxに依存するサーバーやデータセンターにとって重大なリスクとなっていると述べている。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/</guid>
+      <pubDate>Mon, 04 May 2026 22:21:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>プレゼンテーション：次世代AI製品</title>
+      <link>https://www.infoq.com/presentations/ai-products/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ヒラリー・メイソンは、アカデミアから大規模なAI製品開発に至るまでの道のりを語ります。彼女は、個別設計から確率的思考への移行について論じ、スタックの中で最も難しい部分である「人間的配慮」の管理について解説します。また、エンジニアにとっての「存在意義の危機」について説明し、今日の優れたアーキテクチャはコンテキスト管理、システム思考、そして優れたセンスにかかっていると主張します。 ヒラリー・メイソン著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/ai-products/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 01 May 2026 09:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ポッドキャスト：Roq：Quarkusを活用してGo並みのスピードで静的サイトを構築する</title>
+      <link>https://www.infoq.com/podcasts/leveraging-quarkus-build-static-sites/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Quarkusの開発に10年近く携わってきた開発者、アンディ・ダメビン氏がRoqについて語ります。Roqは、Quarkus上に静的Webサイトジェネレータを構築できるかどうかを検証する実験として始まったプロジェクトです。彼は、JavaとQuarkusを選んだ理由、Roqへの移行方法、そしてプラットフォームの将来について触れています。アンディ・ダメビン著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/podcasts/leveraging-quarkus-build-static-sites/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 04 May 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>
@@ -28,13 +42,6 @@
       <description>Slack、Notion、Linearはそれぞれ、テナントごとの役割と権限に関して異なるアプローチを採用しています。ここでは、自社アプリに取り入れる価値のあるパターンをご紹介します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/multi-tenant-permissions-slack-notion-linear</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BroadcomがVeleroをCNCFに寄贈、Kubernetesバックアップのガバナンスをコミュニティ主導に移行</title>
-      <link>https://www.infoq.com/news/2026/05/broadcom-velero-cncf/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Broadcomは、Kubernetesネイティブのバックアップ、リストア、移行プロジェクトであるVeleroを、Cloud Native Computing Foundation（CNCF）のサンドボックスプロジェクトとして提供することを発表しました。VeleroはKubernetes APIレイヤーで動作し、ハイパーバイザーやストレージレイヤーのスナップショットではなく、カスタムリソース定義（CRD）を通じてクラスタの状態をキャプチャします。執筆：Matt Saunders (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/05/broadcom-velero-cncf/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DPoP（RFC 9449）解説：送信者制約付きOAuthトークンがトークン盗難をいかに無害なものにするか</title>
@@ -51,13 +58,6 @@
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>マスク対アルトマンの戦いは始まったばかりだ</title>
-      <link>https://techcrunch.com/video/musk-v-altman-is-just-getting-started/</link>
-      <description>イーロン・マスク氏は今週、OpenAIに対する訴訟で3日間近く証言台に立ち、すでに事態は複雑化している。電子メール、テキストメッセージ、そしてマスク氏自身のツイートが法廷で証拠として提出され、今後さらに多くの証人が出廷する予定だ。マスク氏のOpenAIに対する主張は？サム・アルトマン氏が同社を営利企業モデルに転換したことで、「非営利の社会のための」という理念を裏切ったというものだ。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/video/musk-v-altman-is-just-getting-started/</guid>
-      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>開発者向けCLI認証ガイド</title>
       <link>https://workos.com/blog/cli-authentication-guide</link>
       <description>APIキー、トークンファイル、OAuthデバイスフロー、クライアント認証情報を比較。CLIに最適な認証パターンを選択するための実践的なガイド。 (source: WorkOS Blog)</description>
@@ -72,11 +72,11 @@
       <pubDate>Fri, 01 May 2026 09:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>プラットフォームエンジニアリングの影響を推進し、測定する</title>
-      <link>https://www.infoq.com/news/2026/04/measure-platform-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>プラットフォームエンジニアリングは、社会技術的な観点からアプローチし、開発者だけでなくすべてのステークホルダーによって形作られる必要がある、とセルジュ・ペテアン氏は講演「プラットフォームエンジニアリングによる保険の未来の推進」の中で述べた。プラットフォームの成功は、変化を主要な設計力として受け入れつつ、変化に耐えうる明文化された原則にかかっており、それによってチームはソフトウェアを構築、実行、リリースできるようになる。ベン・リンダース著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/04/measure-platform-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 30 Apr 2026 11:22:00 +0000</pubDate>
+      <title>Java ニュースまとめ: OpenJDK JEP、GlassFish、Spring AI、JReleaser、A2A Java SDK、Google ADK、Gradle</title>
+      <link>https://www.infoq.com/news/2026/05/java-news-roundup-apr27-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>2026年4月27日付けの今週のJavaニュースまとめでは、以下のニュースを取り上げています。JDK 27向けのOpenJDK JEP、Spring AI 2.0の第5マイルストーンリリース、GlassFish 9.0の第2マイルストーンリリース、Quarkus、JReleaser、Gradle、LangChain4j、Google ADK for Javaのポイントリリース、Hardwoodの第2ベータ版リリース、A2A Java SDK 1.0の第1ベータ版リリース。執筆：Michael Redlich (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/05/java-news-roundup-apr27-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 04 May 2026 09:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

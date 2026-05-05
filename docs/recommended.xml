@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 08:34:56 +0000</lastBuildDate>
-    <item>
-      <title>女体シャンパンタワー騒動の坂井氏が、今度は「皆で動画はAIで作られた偽物だったと言う事実を作れないですか？」との投稿… 協力の見返りに「認めて謝ってアカウント削除します」発言も</title>
-      <link>https://togetter.com/li/2692929</link>
-      <description>坂井秀人 @hideto_sa どうしたら許してくれますか？ 真剣に相談させてください SNSはリスクが高いのでアカウント削除するので、その代わり皆で動画はAIで作られた偽物だったと言う事実を作れないですか？ 今までの否定的なリプや引用を削除して 逆に問題のポストなどにAIの偽物と書き込んでもらう その書き込みが多いとg... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2692929</guid>
-      <pubDate>Mon, 04 May 2026 01:12:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Temporalのpolyfillをゼロから実装した</title>
-      <link>https://zenn.dev/fabon/articles/84f7696cd8a2fb</link>
-      <description>自作した理由は単純で、既存のpolyfillに満足できなかったからです。
-!
-この記事は自分のブログに投稿した英語版の日本語訳で、内容はだいたい同じです。
-
-
- 要約
-https://npmx.dev/package/temporal-polyfill-lite
-
-軽量なTemporalのpolyfillであるtemporal-polyfill-liteを実装しました。
-最終版（最新）の仕様を実装しており、TypeScript公式の型定義とも互換性があります。
-大半の（グレゴリオ暦しか使わない）開発者にとっては、2026年4月現在これが一番バンドルサイズの小さいpolyfillとなってい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/fabon/articles/84f7696cd8a2fb</guid>
-      <pubDate>Sun, 03 May 2026 19:31:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 May 2026 08:16:53 +0000</lastBuildDate>
     <item>
       <title>AIチャットボットが「私は意識を持った」と主張 — ハンマー武装や爆弾騒動まで発展、31カ国で414件の妄想被害</title>
       <link>https://techfeed.io/entries/69f7b787aacf8165d7f59488?from=rss</link>
@@ -40,18 +16,18 @@ https://npmx.dev/package/temporal-polyfill-lite
       <pubDate>Sun, 03 May 2026 21:00:55 +0000</pubDate>
     </item>
     <item>
-      <title>AI駆動開発で、なぜミドルエンジニアは不安になるのか ── AIによる分業の終わりと始まり - arclamp</title>
-      <link>https://arclamp.hatenablog.com/entry/2026/05/02/225148</link>
-      <description>AI駆動開発が「使える」となってきたことで、20代後半から30代中盤のミドルエンジニアが疲弊しているという話を聞きました。たしかに、エンジニアの中でも「AIは楽しい・これでもっと良くなる」という意見と「不安だ・これからどうなるのだろう」という意見に分かれているようです。 私の周りでは、特にベテランが楽しん... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://arclamp.hatenablog.com/entry/2026/05/02/225148</guid>
-      <pubDate>Sat, 02 May 2026 15:43:46 +0000</pubDate>
+      <title>Tailscaleやめたい - まいの雑記帳</title>
+      <link>https://mq1.dev/entry/j7zvrsp48lb</link>
+      <description># はじめにTailscaleはネットワークの知識がない人が使うものだと思っていて、内心ずっと冷笑しているのですが、悪い噂をあまり聞かないので本当に悲しいです。用途に応じて使い分けろという話なんだろうとは思います。思いますが、他人の環境にアクセスしたいときに「まずTailscaleを入れて〜」みたいなことを言われる... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://mq1.dev/entry/j7zvrsp48lb</guid>
+      <pubDate>Tue, 05 May 2026 02:15:57 +0000</pubDate>
     </item>
     <item>
-      <title>市場は本当に予測不能なのか？――ランダムウォーク仮説とクオンツが探す「小さな歪み」 - Qiita</title>
-      <link>https://qiita.com/tikeda123/items/e777dcadbc850c357419</link>
-      <description>クオンツが見るべきなのは、チャートの形そのものではない。その背後にある人間行動である。急落後の反発、トレンドの継続、節目価格での反応は、単なる線の動きではなく、市場参加者の心理とポジション調整の結果として理解できる。 市場が完全に合理的ならエッジはすぐに消えるが、人間が参加している限り、これらの歪... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://qiita.com/tikeda123/items/e777dcadbc850c357419</guid>
-      <pubDate>Sun, 03 May 2026 03:38:45 +0000</pubDate>
+      <title>例のサイゼイヤをIPAに通報した</title>
+      <link>https://zenn.dev/watab2000/articles/ff5e07b13bc93b</link>
+      <description>まず、サイゼリヤの「安さを徹底追求する」企業努力にはとても感謝しています。 だからこそ、この高校生（自称）の行為は、醤油ぺろぺろテロ行為と何ら変わりがないことを言いたいです。 彼がやったことは「やりすぎ」「法に触れる可能性」 彼がもし、本当にエンジニアとしてデベロッパーとしてクリエイターとして、将来... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/watab2000/articles/ff5e07b13bc93b</guid>
+      <pubDate>Tue, 05 May 2026 05:18:00 +0000</pubDate>
     </item>
     <item>
       <title>データエンジニアがオントロジーを触って、導入可能性に思いを馳せてみた</title>
@@ -62,21 +38,6 @@ https://zenn.dev/bare64/articles/ecac1bbf510ce4
 本記事ではその続編として、実際のオントロジーツールに触れ、それぞれの利点に踏み込みます。具体的には、形式論理の取り入れ度合いが異なる Microsoft Fabric IQ と Protégé を通じて、 Semantic Layer と比較した際の... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/bare64/articles/ontology-data-platform-practice</guid>
       <pubDate>Sun, 03 May 2026 17:28:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>5年間のRails開発者がDDDに出会って考えが変わった話</title>
-      <link>https://zenn.dev/neoai/articles/b843fc78203295</link>
-      <description>はじめに
-5年間、Ruby on RailsでMVC + Serviceパターンの API開発をしてきました。Railsの「規約に従えば爆速で動くものができる」という思想が好きで、その生産性の高さは強力な武器でした。
-そんな自分が、Python + FastAPIで構築されたDDDの実装パターン（Entity / Repository / UseCase）と、クリーンアーキテクチャをベースにしたプロダクトに関わることになりました。最初の印象は、正直に言って戸惑いでした。
-
-概念が難しい
-なんだか回りくどい
-1機能を追加するだけで変更ファイル数がやたらと多い
-
-「Railsならこれ、S... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/neoai/articles/b843fc78203295</guid>
-      <pubDate>Fri, 01 May 2026 10:38:26 +0000</pubDate>
     </item>
     <item>
       <title>デジタル庁の生成AI基盤「源内」のOSSをAWS上で動かしてみた話</title>
@@ -103,6 +64,34 @@ AWSや生成AI基盤の構築に関わるエンジニアの方
       <pubDate>Sat, 02 May 2026 14:25:44 +0000</pubDate>
     </item>
     <item>
+      <title>GitHubに機密情報をpushしてしまった日のために — 無効化、履歴除去、多層防御の組み立て方</title>
+      <link>https://zenn.dev/okamyuji/articles/github-secret-removal-multi-layer-defense</link>
+      <description>はじめに
+GitHubに機密情報が混入してしまったとき、最初に取るべき行動は履歴削除ではありません。漏れたものが何なのかで対応の順序が大きく変わります。本記事では、GitHub Enterprise CloudやGitHub Enterprise Serverを前提に、機密情報の混入を止める仕組みと、混入してしまったあとに残存物を取り除くための作業を、コマンドが手元で再現できる粒度で整理します。
+GitHub Docsの該当ページは、漏えいしたものが認証情報であれば、まず無効化やローテーションを行うべきだとしています。無効化できれば履歴の書き換えまで踏み込まなくてよい場合もあります。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/okamyuji/articles/github-secret-removal-multi-layer-defense</guid>
+      <pubDate>Sun, 03 May 2026 19:08:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeの「Skill」で、自宅GPUサーバーからAIキャラ画像を自動生成する</title>
+      <link>https://zenn.dev/miraclest/articles/claude-code-comfyui-skill-intro</link>
+      <description>この記事は誰のためか
+以下のすべてに心当たりがある人向けです。
+
+自宅にGPU搭載サーバーがある（あるいは、これから組む気満々の人）
+RunPodやNano BananaなどのクラウドGPUに月額課金するのはなんか違う。自分のマシンで回したい
+
+Claude Codeを日常的に使っていて、「テキストだけじゃなくて画像も出せたら」と思ったことがある
+逸般の誤家庭の住人、またはその予備軍…！？
+
+こんな人にも対応しています：
+
+「GPUはあるけどComfyUIは初めて」→ 後続記事で一から整理する予定です
+「Windowsのゲーミングで十分？」→ 十分でしょう、そこからでも始められま... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/miraclest/articles/claude-code-comfyui-skill-intro</guid>
+      <pubDate>Sun, 03 May 2026 20:44:47 +0000</pubDate>
+    </item>
+    <item>
       <title>マネーフォワードのGitHub不正アクセス事件をエンジニア視点で読み解く — なぜソースコードに本番カード情報と認証キーが入っていたのか</title>
       <link>https://zenn.dev/awesome_kou/articles/moneyforward-github-source-leak</link>
       <description>はじめに
@@ -120,6 +109,16 @@ AWSや生成AI基盤の構築に関わるエンジニアの方
 そこで、改めて「プログラミングの原... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/ippe/articles/learn-programming-principles-by-coding</guid>
       <pubDate>Sat, 02 May 2026 08:50:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>中学生が趣味で開発しているOS、mochiOS</title>
+      <link>https://zenn.dev/nekogakure/articles/5d88b39258e144</link>
+      <description>こんにちは。趣味で低レイヤいじいじしてる中三のたそです。
+ここでは、自分が趣味で開発しているOSであるmochiOSを、今どこまでできているのか、他の自作OSと何が違うのか、アーキテクチャ、そしてこれから改善していきたいところをまとめています。
+mochiOSは、Rustを使用しておもに開発しているx86_64向けのOSです。名前の由来はこのOSでは「できるかぎりクラッシュしないこと」を目標にしていて、餅は柔らかくて伸びてもすぐにはちぎれたりしないのでmochiOSになりました。
+当たり前ですが、現時点で本当にクラッシュしないOSが完成しているわけではありません。むしろ今は、そのために必... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nekogakure/articles/5d88b39258e144</guid>
+      <pubDate>Mon, 04 May 2026 06:14:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
