@@ -7,27 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 05 May 2026 08:17:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:29:22 +0000</lastBuildDate>
     <item>
-      <title>DoorDashはCopilotを使用して、XCTestベースのiOSテストスイートをSwiftテストに変換しました。</title>
-      <link>https://www.infoq.com/news/2026/05/doordash-copilot-swift-testing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>DoorDashのエンジニア、マテウス・ゴイス氏によると、Copilotと強力な信頼性対策を用いることで、DoorDashはiOSのXCTestベースのテストスイートをSwift Testingに移行し、大規模なテストスイートを迅速かつ安全に、そして測定可能なパフォーマンス向上を実現して最新化したという。セルジオ・デ・シモーネ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/05/doordash-copilot-swift-testing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 04 May 2026 10:00:00 +0000</pubDate>
+      <title>ASMLのCEO、クリストフ・フーケ氏が自社の独占について語る：「誰も我々を攻撃しに来ない」</title>
+      <link>https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/</link>
+      <description>ASMLに10年以上勤務した後、2024年にCEOに就任したクリストフ・フーケ氏は、ミルケン・インスティテュート・グローバル・カンファレンスへの出席を前に、火曜日の朝、ビバリーヒルズのホテルの屋上テラスでこの編集者と会談した。青いスーツに白いシャツを着た彼は、ライバル企業について話が及んだ時でさえ、リラックスした様子だった。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/</guid>
+      <pubDate>Tue, 05 May 2026 20:06:40 +0000</pubDate>
     </item>
     <item>
-      <title>米国政府は、Linuxの主要バージョンに影響を与える深刻なCopyFailバグについて警告を発した。</title>
-      <link>https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/</link>
-      <description>米国のサイバーセキュリティ機関であるCISAは、CopyFailの脆弱性がハッキング攻撃で積極的に悪用されており、Linuxに依存するサーバーやデータセンターにとって重大なリスクとなっていると述べている。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/</guid>
-      <pubDate>Mon, 04 May 2026 22:21:32 +0000</pubDate>
+      <title>プレゼンテーション：Netflixが効率性と信頼性を高めるためにどのように車両群を構築しているか</title>
+      <link>https://www.infoq.com/presentations/strategy-workload-hardware/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>講演者たちは、Netflixのグローバル規模におけるサービス効率と信頼性の間に内在する緊張関係について説明しました。彼らは「リスク調整済み純価値」の概念モデルを共有し、単純なCPU使用率を超えて容量バッファに焦点を当てました。また、ハードウェアシェーピング、プロアクティブなトラフィックステアリング、そして重要な再生を保護するための「ハンマー」や優先順位付けされた負荷遮断といったリアクティブな手段についても議論しました。ジョセフ・リンチ、アルガC (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/strategy-workload-hardware/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 05 May 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：次世代AI製品</title>
-      <link>https://www.infoq.com/presentations/ai-products/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ヒラリー・メイソンは、アカデミアから大規模なAI製品開発に至るまでの道のりを語ります。彼女は、個別設計から確率的思考への移行について論じ、スタックの中で最も難しい部分である「人間的配慮」の管理について解説します。また、エンジニアにとっての「存在意義の危機」について説明し、今日の優れたアーキテクチャはコンテキスト管理、システム思考、そして優れたセンスにかかっていると主張します。 ヒラリー・メイソン著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/ai-products/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 01 May 2026 09:23:00 +0000</pubDate>
+      <title>OpenAIがChatGPTの新しいデフォルトモデルであるGPT-5.5 Instantをリリース</title>
+      <link>https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/</link>
+      <description>同社によると、このモデルは、法律、医療、金融などの機密性の高い分野における幻覚を軽減しつつ、従来モデルの低遅延性を維持しているという。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/</guid>
+      <pubDate>Tue, 05 May 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ポッドキャスト：Roq：Quarkusを活用してGo並みのスピードで静的サイトを構築する</title>
@@ -58,6 +58,13 @@
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>記事：ベンチマークを超えて：実機におけるiOSパフォーマンスの持続的な向上に向けた指標主導型アプローチ</title>
+      <link>https://www.infoq.com/articles/metrics-driven-approach-ios-performance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>iOSのパフォーマンスエンジニアリングでは、パフォーマンスはコンポーネントの特性であるという考え方がしばしば見られます。しかし実際には、パフォーマンスはアプリケーションコード、デバイスハードウェア、OSリソース管理、ネットワーク状況、そしてユーザーの行動パターンが時間とともに相互作用することで生じる現象です。この記事では、Xcode Instrumentsを使用してパフォーマンスの問題を直接的に把握する方法を解説します。執筆者：Vasuki Uday Kiran Vudathala (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/metrics-driven-approach-ios-performance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 06 May 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>開発者向けCLI認証ガイド</title>
       <link>https://workos.com/blog/cli-authentication-guide</link>
       <description>APIキー、トークンファイル、OAuthデバイスフロー、クライアント認証情報を比較。CLIに最適な認証パターンを選択するための実践的なガイド。 (source: WorkOS Blog)</description>
@@ -65,18 +72,11 @@
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Vitest 4.1: テストタグ、ネイティブNode.js実行、AIエージェントレポーター</title>
-      <link>https://www.infoq.com/news/2026/05/vitest-4-1-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>VoidZeroが開発したVitest 4.1は、テストのフィルタリングと設定のためのテストタグ、Viteのモジュールランナーをバイパスする実験モード、新しいライフサイクルフックなどの機能でJavaScriptテストを強化しています。Vite 8を最初からサポートしています。特に、Jestと比較してパフォーマンスが向上していると報告されています。このリリースでは、問題点が修正され、移行ガイドも提供されています。執筆：Daniel Curtis (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/05/vitest-4-1-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 01 May 2026 09:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Java ニュースまとめ: OpenJDK JEP、GlassFish、Spring AI、JReleaser、A2A Java SDK、Google ADK、Gradle</title>
-      <link>https://www.infoq.com/news/2026/05/java-news-roundup-apr27-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>2026年4月27日付けの今週のJavaニュースまとめでは、以下のニュースを取り上げています。JDK 27向けのOpenJDK JEP、Spring AI 2.0の第5マイルストーンリリース、GlassFish 9.0の第2マイルストーンリリース、Quarkus、JReleaser、Gradle、LangChain4j、Google ADK for Javaのポイントリリース、Hardwoodの第2ベータ版リリース、A2A Java SDK 1.0の第1ベータ版リリース。執筆：Michael Redlich (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/05/java-news-roundup-apr27-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 04 May 2026 09:15:00 +0000</pubDate>
+      <title>攻撃者はFlippaでWordPressプラグインを30個購入し、すべてにバックドアを仕込んだ。</title>
+      <link>https://www.infoq.com/news/2026/05/wordpress-plugins-supply-chain/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>攻撃者はFlippaで30個以上のWordPressプラグインを6桁の金額で購入し、最初のコミットにPHPの逆シリアル化バックドアを仕込み、8か月後に40万件のインストールでそれを有効化した。この攻撃では、C2を解決するためにイーサリアムのスマートコントラクトが使用された。WordPress.orgにはプラグインの所有権移転を審査する仕組みがなく、これはnpmとPyPIが数年前に解決した問題である。執筆：Steef-Jan Wiggers (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/05/wordpress-plugins-supply-chain/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 06 May 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

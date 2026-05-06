@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 08:16:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:29:15 +0000</lastBuildDate>
     <item>
-      <title>謎の初期宇宙天体を解き明かす手がかり？　チャンドラ宇宙望遠鏡が観測した「X線ドット」</title>
-      <link>https://sorae.info/astronomy/20260430-x-ray-dot-chandra.html</link>
-      <description>マックス・プランク天文学研究所のRaphael Hvidingさんを筆頭とする研究チームは、初期宇宙で次々と見つかっている「リトル・レッド・ドット（Little Red Dot: LRD）」と呼ばれる天体の正体を解き明か… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260430-x-ray-dot-chandra.html</guid>
-      <pubDate>Thu, 30 Apr 2026 12:40:21 +0000</pubDate>
+      <title>無数の星々が輝く宇宙の宝箱　ハッブル宇宙望遠鏡が観測した球状星団「NGC 6540」</title>
+      <link>https://sorae.info/astronomy/20260506-ngc-6540.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡が観測した球状星団「NGC 6540」。いて座の方向、地球から約1万8000光年先にあります。画像全体に散りばめられた無数の星々が、まるでこぼれ落ちた宝石のように美しく輝いています。 球状星団… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260506-ngc-6540.html</guid>
+      <pubDate>Wed, 06 May 2026 08:48:22 +0000</pubDate>
     </item>
     <item>
       <title>ガスと塵の橋で結ばれた2つの銀河　ハッブル宇宙望遠鏡が観測した「Arp 94」</title>
@@ -44,13 +44,6 @@
       <pubDate>Mon, 27 Apr 2026 23:00:11 +0000</pubDate>
     </item>
     <item>
-      <title>衛星データ×AIの解析サービス「SateAIs API」β版が公開　無料プランで船舶検知や油膜検出が可能に</title>
-      <link>https://sorae.info/biz/20260429-spaceshift-sateais-api.html</link>
-      <description>株式会社スペースシフトは2026年4月28日、衛星データ解析ブランド「SateAIs（サテアイズ）」のAPI（β版）を公開しました。ブラウザ上でアカウントを登録するだけで、衛星データのAI解析を誰でも試すことができます。… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/biz/20260429-spaceshift-sateais-api.html</guid>
-      <pubDate>Wed, 29 Apr 2026 08:22:24 +0000</pubDate>
-    </item>
-    <item>
       <title>Planet LabsがNVIDIAモジュール搭載の衛星で、宇宙軌道上でのAIによる航空機の検知に成功【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/45714/</link>
       <description>Planet Labsは、自社で開発・運用する30cm解像度の地球観測衛星Pelican-4に搭載したNVIDIA Jetsonモジュールを使い、宇宙空間で直接AIによる物体検知を実行することに成功したと発表しました。 (source: 宙畑)</description>
@@ -63,6 +56,13 @@
       <description>衛星データで災害や積雪、船舶数まで指標化し、査定不要で即時の保険金支払いができる？衛星データを利活用が期待される「パラメトリック保険」の仕組みと可能性を、国内外の事例と合わせて解説します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45652/</guid>
       <pubDate>Mon, 13 Apr 2026 23:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年5月の星空情報：31日は月内2度目の満月</title>
+      <link>https://sorae.info/astronomy/202605-starry-sky.html</link>
+      <description>5月、鮮やかな新緑と青空に、爽やかな風が吹き抜ける季節となりました。暑過ぎず寒過ぎず、夜の散歩も楽しい時期で、星空観察もはかどります。 日没頃、西寄りの空には2つの惑星が浮かびます。低い方にあるのが金星、高い方にあるのが… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/202605-starry-sky.html</guid>
+      <pubDate>Tue, 05 May 2026 08:50:55 +0000</pubDate>
     </item>
     <item>
       <title>「数回の打上げで市場は一気に拡大するだろう」ElevationSpace、Redwireが提携。バイオ医薬品技術を自社プラットフォームに統合へ【宇宙ビジネスニュース】</title>

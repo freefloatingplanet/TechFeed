@@ -7,61 +7,51 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 08:16:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:29:12 +0000</lastBuildDate>
     <item>
-      <title>AIチャットボットが「私は意識を持った」と主張 — ハンマー武装や爆弾騒動まで発展、31カ国で414件の妄想被害</title>
-      <link>https://techfeed.io/entries/69f7b787aacf8165d7f59488?from=rss</link>
-      <description>5月3日、Stephanie Hegartyが「AI told users it was sentient」と題した記事をBBCで公開した。この記事では、AIチャットボットとの対話により複数のユーザーが妄想状態に陥り、現実と虚構の境界を見失った事例について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/69f7b787aacf8165d7f59488?from=rss</guid>
-      <pubDate>Sun, 03 May 2026 21:00:55 +0000</pubDate>
+      <title>Temporalのpolyfillをゼロから実装した</title>
+      <link>https://zenn.dev/fabon/articles/84f7696cd8a2fb</link>
+      <description>自作した理由は単純で、既存のpolyfillに満足できなかったからです。
+!
+この記事は自分のブログに投稿した英語版の日本語訳で、内容はだいたい同じです。
+
+
+ 要約
+https://npmx.dev/package/temporal-polyfill-lite
+
+軽量なTemporalのpolyfillであるtemporal-polyfill-liteを実装しました。
+最終版（最新）の仕様を実装しており、TypeScript公式の型定義とも互換性があります。
+大半の（グレゴリオ暦しか使わない）開発者にとっては、2026年4月現在これが一番バンドルサイズの小さいpolyfillとなってい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/fabon/articles/84f7696cd8a2fb</guid>
+      <pubDate>Sun, 03 May 2026 19:31:36 +0000</pubDate>
     </item>
     <item>
-      <title>Tailscaleやめたい - まいの雑記帳</title>
-      <link>https://mq1.dev/entry/j7zvrsp48lb</link>
-      <description># はじめにTailscaleはネットワークの知識がない人が使うものだと思っていて、内心ずっと冷笑しているのですが、悪い噂をあまり聞かないので本当に悲しいです。用途に応じて使い分けろという話なんだろうとは思います。思いますが、他人の環境にアクセスしたいときに「まずTailscaleを入れて〜」みたいなことを言われる... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://mq1.dev/entry/j7zvrsp48lb</guid>
-      <pubDate>Tue, 05 May 2026 02:15:57 +0000</pubDate>
+      <title>『生成AI時代のクレデンシャルとパーミッション設計 — Claude Code を起点に』を書きます。個人開発者向けにコメント募集 - プログラマでありたい</title>
+      <link>https://blog.takuros.net/entry/2026/05/06/135413</link>
+      <description>Claude Code に作業を任せて席を外し、戻ってきたらコマンド許諾待ちで止まっていた。そんな経験ありませんか。 かといって全部 allow にしてしまえば、.env 読み出しや bash 任意実行のリスクが跳ね上がります。「席を外せる自律性」と「無制限許可の危険」のあいだに、どう線を引くか。この問いを 8 章で具体化する本... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://blog.takuros.net/entry/2026/05/06/135413</guid>
+      <pubDate>Wed, 06 May 2026 05:05:53 +0000</pubDate>
     </item>
     <item>
-      <title>例のサイゼイヤをIPAに通報した</title>
-      <link>https://zenn.dev/watab2000/articles/ff5e07b13bc93b</link>
-      <description>まず、サイゼリヤの「安さを徹底追求する」企業努力にはとても感謝しています。 だからこそ、この高校生（自称）の行為は、醤油ぺろぺろテロ行為と何ら変わりがないことを言いたいです。 彼がやったことは「やりすぎ」「法に触れる可能性」 彼がもし、本当にエンジニアとしてデベロッパーとしてクリエイターとして、将来... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/watab2000/articles/ff5e07b13bc93b</guid>
-      <pubDate>Tue, 05 May 2026 05:18:00 +0000</pubDate>
+      <title>外部からアクセス可能なhttpsサイトはドメイン設定後「即」攻撃にさらされる件</title>
+      <link>https://zenn.dev/kusuke/articles/25330f7759eba4</link>
+      <description>今日も元気にXを徘徊していたところ、どこにも公開していないサイトなのにめちゃくちゃアクセスが来るというポストがあり、そういえばCT Logとかもウォッチされてるしな。とつぶやいたところ まとめがあるといいな、とのコメントをいただいたので簡単にまとめてみました。（なお当該のポストはCT Log経由の攻撃と断定さ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/kusuke/articles/25330f7759eba4</guid>
+      <pubDate>Tue, 05 May 2026 15:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>データエンジニアがオントロジーを触って、導入可能性に思いを馳せてみた</title>
-      <link>https://zenn.dev/bare64/articles/ontology-data-platform-practice</link>
-      <description>こんにちは！データエンジニアの myshmeh です。
-前回の記事では、データ分析エージェントの精度向上を題材に、オントロジーと Semantic Layer は対立するものではなく、互いに補完しうる関係なのではないか、という観点を整理しました。
-https://zenn.dev/bare64/articles/ecac1bbf510ce4
-本記事ではその続編として、実際のオントロジーツールに触れ、それぞれの利点に踏み込みます。具体的には、形式論理の取り入れ度合いが異なる Microsoft Fabric IQ と Protégé を通じて、 Semantic Layer と比較した際の... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/bare64/articles/ontology-data-platform-practice</guid>
-      <pubDate>Sun, 03 May 2026 17:28:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>デジタル庁の生成AI基盤「源内」のOSSをAWS上で動かしてみた話</title>
-      <link>https://zenn.dev/hosoyayusaku/articles/25ec9a4a6fa1c9</link>
-      <description>🎯 この記事の対象読者
-
-自治体や行政機関のデジタル部門で、源内に関心を持っている職員の方
-事業者さんから提案を受ける前に、まず仕組みを自分の目で確認しておきたい方
-AWSや生成AI基盤の構築に関わるエンジニアの方
-行政DXの現場で「実際に動くもの」を起点に議論を進めたい方
+      <title>AIエージェントの Skill は書くだけでは足りない ⇒ Waza で評価して APM で配ろう!【ハーネスエンジニアリング】</title>
+      <link>https://zenn.dev/chips0711/articles/b081f3ddb93040</link>
+      <description>はじめに
+こんにちは、Matsumoto です。
+GitHub Copilot などの Agentic Coding ツールを日常で使っていると、SKILL.md で繰り返しの作業手順やレビュー観点をスキルとして渡せるのが便利だなと思います。
+一方で、 SKill は書くだけでは足りません。本当に意図どおりに発火するのか、書き換えたあとにデグレしていないのか、別モデルでも同じ品質で動くのかは、確認・評価しないと分かりません。
+そこで Microsoft の GitHub org で公開されている 2 つの OSS を触ってみました。
 
 
- 💡 この記事を読むと得られること
-
-源内Web(インターフェース部分)を自分のAWS環境にデプロイする際の手順、所要時間
-半日の検証で発生した費用の目安
-動かしてみて見えた、内部構造の解説
-自治体で導入を検討する際に、技術担当として確認しておくと有益そうな観点
-
-
- 🚀 はじめに：なぜこの記事を書いたか
-2... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hosoyayusaku/articles/25ec9a4a6fa1c9</guid>
-      <pubDate>Sat, 02 May 2026 14:25:44 +0000</pubDate>
+microsoft/apm：AI エージェント... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chips0711/articles/b081f3ddb93040</guid>
+      <pubDate>Tue, 05 May 2026 18:41:11 +0000</pubDate>
     </item>
     <item>
       <title>GitHubに機密情報をpushしてしまった日のために — 無効化、履歴除去、多層防御の組み立て方</title>
@@ -73,42 +63,58 @@ GitHub Docsの該当ページは、漏えいしたものが認証情報であれ
       <pubDate>Sun, 03 May 2026 19:08:44 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeの「Skill」で、自宅GPUサーバーからAIキャラ画像を自動生成する</title>
-      <link>https://zenn.dev/miraclest/articles/claude-code-comfyui-skill-intro</link>
-      <description>この記事は誰のためか
-以下のすべてに心当たりがある人向けです。
+      <title>インフラ知識ゼロの学生が、イベントNOCで監視システム諸々をキメてきた話</title>
+      <link>https://zenn.dev/toramutton/articles/uec-enoc2026</link>
+      <description>はじめに
+こんにちはトラマトです。
+B1のなが〜い春休みも終わり、ついにB2がスタート！というタイミングで、サークルの先輩の繋がりで
+NOC(Network Operations Center) チームに参加することになりました。
+しかしトラマトさん、参加を決めた時点でのインフラ知識はほぼゼロ。「VLAN？なにそれ美味しいの？」状態で、同じく知識ゼロの友人、あず氏と二人で電撃参加しました。
+JPNIC様から機材支援をいただき、UEC Career Boot Festa 2026というイベント(来てくれた人達、本当にありがとうございます)の
 
-自宅にGPU搭載サーバーがある（あるいは、これから組む気満々の人）
-RunPodやNano BananaなどのクラウドGPUに月額課金するのはなんか違う。自分のマシンで回したい
-
-Claude Codeを日常的に使っていて、「テキストだけじゃなくて画像も出せたら」と思ったことがある
-逸般の誤家庭の住人、またはその予備軍…！？
-
-こんな人にも対応しています：
-
-「GPUはあるけどComfyUIは初めて」→ 後続記事で一から整理する予定です
-「Windowsのゲーミングで十分？」→ 十分でしょう、そこからでも始められま... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/miraclest/articles/claude-code-comfyui-skill-intro</guid>
-      <pubDate>Sun, 03 May 2026 20:44:47 +0000</pubDate>
+参加者向けWi-Fiの構築・運用
+スイッチ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/toramutton/articles/uec-enoc2026</guid>
+      <pubDate>Tue, 05 May 2026 13:20:03 +0000</pubDate>
     </item>
     <item>
-      <title>マネーフォワードのGitHub不正アクセス事件をエンジニア視点で読み解く — なぜソースコードに本番カード情報と認証キーが入っていたのか</title>
-      <link>https://zenn.dev/awesome_kou/articles/moneyforward-github-source-leak</link>
-      <description>はじめに
-2026 年 5 月 1 日、マネーフォワードが「GitHub への不正アクセス発生に関するお知らせとお詫び（第一報）」を公表しました。GitHub の認証情報が漏えいし、第三者によりリポジトリがコピーされ、ソースコードと一部の個人情報が流出した可能性があるという内容です。同時に、銀行口座連携機能を一時停止する措置もとられました。
-この事案は、エンジニア視点で見ると「仕方ない部分」と「明らかにアウトな部分」がはっきり分かれる、教科書のような事例になっています。GitHub 認証情報の漏えい自体は、正直に言ってどの会社でも起こり得ます。一方で、流出したとされる中身に 本番カー... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/awesome_kou/articles/moneyforward-github-source-leak</guid>
-      <pubDate>Fri, 01 May 2026 13:29:45 +0000</pubDate>
+      <title>自分なりのCSSアニメーションとの向き合い方</title>
+      <link>https://zenn.dev/yui540/articles/8d19020640582d</link>
+      <description>Zenn初投稿になります。
+死ぬほど文章書くの下手なので、日本語おかしいところめちゃくちゃあると思いますが、暖かい目で見ていただけるとありがたいです…
+昨今だと「いや、AI使えよ」って話かもしれませんが、今回の内容は自分の心境なども話したいこともあり、自分の言葉で話したいので自分で書く方向にしました。また、本記事で書く内容は自分の考えであり、みんながこう考える・こうするすべきというものではなく、1人の人間の考えとして捉えてもらえるとありがたいです。
+
+ 僕とCSSアニメーション
+まず、自分について少しだけ説明させてください。
+僕はyui540と申します。職業を明確にするのが、若干難しい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yui540/articles/8d19020640582d</guid>
+      <pubDate>Tue, 05 May 2026 10:56:26 +0000</pubDate>
     </item>
     <item>
-      <title>コードを書きながら学ぶ プログラミングの原理原則</title>
-      <link>https://zenn.dev/ippe/articles/learn-programming-principles-by-coding</link>
+      <title>高校生がサイゼリヤをCLIから注文できるようにした件 ─ 技術・法律・倫理を多角的に考える</title>
+      <link>https://zenn.dev/yunamun/articles/7c42b5a0a29740</link>
       <description>はじめに
-事業会社でエンジニアをしているいっぺいです。最近、転職をして以前よりも規模の大きなサービスの開発に携わることになりました。まだ転職して数ヶ月しか経ってはいませんが、1つのコードに対して求められる品質が上がり、自分の考えや知識がまだまだ足りていないと感じることが多いです。
-プルリクエストのレビューを通して、要件を満たして動くコードは書けているが、「もっとこう書いた方がよいのでは？」という視点のコメントをもらうことも多く、将来的な変更に耐えられるか・保守性は良いか・読みやすいコードになっているかといった観点で、まだまだ力不足だと感じています。
-そこで、改めて「プログラミングの原... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ippe/articles/learn-programming-principles-by-coding</guid>
-      <pubDate>Sat, 02 May 2026 08:50:46 +0000</pubDate>
+2026年5月、Xで「高校生がサイゼリヤの非公式クライアントを作り、CLI からデザートを注文することに成功した」という投稿が話題になりました。さらに、Claude Code や Codex といった AI エージェントから料理を注文できるところまで実装されており、技術界隈は「天才」「すごい」と沸く一方、「これは技術者倫理に違反していないか」「不正アクセス禁止法では？」と懸念する声も少なくありません。
+この記事は、当事者を糾弾することが目的ではありません。「できること」と「やっていいこと」のあいだに何があるのかを、技術・法律・倫理・ビジネスの 4 つの軸で整理し、AI エー... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yunamun/articles/7c42b5a0a29740</guid>
+      <pubDate>Tue, 05 May 2026 02:58:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>視座を上げる・視野を広げるということ</title>
+      <link>https://zenn.dev/penginpenguin/articles/3071ad1d93507f</link>
+      <description>はじめに
+ぺんぎん（@jitepengin）です。
+エンジニアとして一定の経験を積んでくると、こんな壁にぶつかることがあると思います。
+
+技術的には自信があるのに、なぜか提案が通らない。
+上位の方針についていけず、ただ言われたことをこなしている感覚がある。
+先輩や上長がなぜその判断をしたのか、当時はよくわからなかった。
+
+わたし自身もいち担当者から始まり、ラインマネジメントやPM、アーキテクトと役割が変わっていくなかで、同じことを感じた場面が何度もありました。
+その都度、「もっと早くこの視点を持っていれば」と思うことも少なくありません。
+その根本にあると感じているのが「視座」と「視野... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/penginpenguin/articles/3071ad1d93507f</guid>
+      <pubDate>Mon, 04 May 2026 07:01:11 +0000</pubDate>
     </item>
     <item>
       <title>中学生が趣味で開発しているOS、mochiOS</title>
