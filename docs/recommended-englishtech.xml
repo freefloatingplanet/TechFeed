@@ -7,34 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 06 May 2026 10:29:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 08:41:38 +0000</lastBuildDate>
     <item>
-      <title>ASMLのCEO、クリストフ・フーケ氏が自社の独占について語る：「誰も我々を攻撃しに来ない」</title>
-      <link>https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/</link>
-      <description>ASMLに10年以上勤務した後、2024年にCEOに就任したクリストフ・フーケ氏は、ミルケン・インスティテュート・グローバル・カンファレンスへの出席を前に、火曜日の朝、ビバリーヒルズのホテルの屋上テラスでこの編集者と会談した。青いスーツに白いシャツを着た彼は、ライバル企業について話が及んだ時でさえ、リラックスした様子だった。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/</guid>
-      <pubDate>Tue, 05 May 2026 20:06:40 +0000</pubDate>
+      <title>プレゼンテーション：AIファーストのソフトウェア開発：革新性と実績ある手法のバランス</title>
+      <link>https://www.infoq.com/presentations/ai-first-practices/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ウェス・ライツ氏は、AIファーストのソフトウェアデリバリーへの移行について論じ、エージェントワークフローは万能ではないことを強調しています。彼は、コードの寿命と自動検証に基づいた戦略的な2×2モデルを説明し、教師ありエージェントと教師なしエージェントのどちらを選択するかを決定します。また、エンジニアリングの規律を強化するために、RIPER-5フレームワーク（研究、革新、計画、実行、レビュー）を紹介します。 ウェス・ライツ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/ai-first-practices/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 06 May 2026 11:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>プレゼンテーション：Netflixが効率性と信頼性を高めるためにどのように車両群を構築しているか</title>
-      <link>https://www.infoq.com/presentations/strategy-workload-hardware/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>講演者たちは、Netflixのグローバル規模におけるサービス効率と信頼性の間に内在する緊張関係について説明しました。彼らは「リスク調整済み純価値」の概念モデルを共有し、単純なCPU使用率を超えて容量バッファに焦点を当てました。また、ハードウェアシェーピング、プロアクティブなトラフィックステアリング、そして重要な再生を保護するための「ハンマー」や優先順位付けされた負荷遮断といったリアクティブな手段についても議論しました。ジョセフ・リンチ、アルガC (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/strategy-workload-hardware/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 05 May 2026 14:00:00 +0000</pubDate>
+      <title>著名なオープンソース開発者が、ソフトウェアサプライチェーンにおける信頼よりも検証を重視するよう提唱</title>
+      <link>https://www.infoq.com/news/2026/05/stenberg-curl-verification-trust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>2026年3月に公開されたブログ記事の中で、curlの開発者でありリードデベロッパーでもあるダニエル・ステンバーグ氏は、ソフトウェア業界が既知コンポーネントを信頼するという従来の姿勢はもはや適切ではないと主張している。ステンバーグ氏は、ユーザーと組織は利用するソフトウェアを積極的に検証すべきだと述べ、その具体的な例としてcurl自身の手法を挙げている。 執筆：マット・サンダース (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/05/stenberg-curl-verification-trust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 07 May 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAIがChatGPTの新しいデフォルトモデルであるGPT-5.5 Instantをリリース</title>
-      <link>https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/</link>
-      <description>同社によると、このモデルは、法律、医療、金融などの機密性の高い分野における幻覚を軽減しつつ、従来モデルの低遅延性を維持しているという。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/</guid>
-      <pubDate>Tue, 05 May 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ポッドキャスト：Roq：Quarkusを活用してGo並みのスピードで静的サイトを構築する</title>
-      <link>https://www.infoq.com/podcasts/leveraging-quarkus-build-static-sites/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Quarkusの開発に10年近く携わってきた開発者、アンディ・ダメビン氏がRoqについて語ります。Roqは、Quarkus上に静的Webサイトジェネレータを構築できるかどうかを検証する実験として始まったプロジェクトです。彼は、JavaとQuarkusを選んだ理由、Roqへの移行方法、そしてプラットフォームの将来について触れています。アンディ・ダメビン著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/podcasts/leveraging-quarkus-build-static-sites/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 04 May 2026 11:00:00 +0000</pubDate>
+      <title>2026年におけるMCPサーバー認証の最適なプロバイダー</title>
+      <link>https://workos.com/blog/best-mcp-server-authentication-providers</link>
+      <description>OAuth 2.1のサポート、エンタープライズID、および統合パスの観点から、主要なMCP認証プロバイダーを実践的に比較します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/best-mcp-server-authentication-providers</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>
@@ -77,6 +70,13 @@
       <description>攻撃者はFlippaで30個以上のWordPressプラグインを6桁の金額で購入し、最初のコミットにPHPの逆シリアル化バックドアを仕込み、8か月後に40万件のインストールでそれを有効化した。この攻撃では、C2を解決するためにイーサリアムのスマートコントラクトが使用された。WordPress.orgにはプラグインの所有権移転を審査する仕組みがなく、これはnpmとPyPIが数年前に解決した問題である。執筆：Steef-Jan Wiggers (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/05/wordpress-plugins-supply-chain/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Wed, 06 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>B2B SaaSに必要な10のエンタープライズ機能（そしてそれらを迅速に提供する方法）</title>
+      <link>https://workos.com/blog/enterprise-readiness-checklist-2026</link>
+      <description>SSO、SCIM、MCP、監査ログ、RBAC、その他B2B SaaS企業の準備状況チェックリストに関する2026年版ガイド。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/enterprise-readiness-checklist-2026</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

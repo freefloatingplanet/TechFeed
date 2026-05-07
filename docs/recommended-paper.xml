@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 06 May 2026 10:29:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 08:41:33 +0000</lastBuildDate>
     <item>
-      <title>非常に風変わりな褐色矮星が、暖かい木星と高温のスーパーアースと同じ平面上に位置する。</title>
-      <link>https://arxiv.org/abs/2604.23926v1</link>
-      <description>トランジット惑星系では、トランジット観測から惑星のサイズが正確に決定されますが、トランジットタイミング変動 (TTV) の存在は、特に視線速度 (RV) データと組み合わせると、質量と軌道離心率に強力な制約を与えます。これらの測定を合わせると、システムの構造、形成メカニズム、および力学的進化に関する重要な洞察が得られます。本稿では、活動的で若い恒星 (年齢 $\sim$1 Gyr) TOI-201 の長期にわたる RV およびトランジット/TTV モニタリングの結果を示し、5.8 日ごとにトランジットする高温のスーパーアース (SE)、53 日の軌道上の温暖な木星 (WJ)、および約 8 年の軌道上の離心率 (e = 0.622) の低質量褐色矮星 (BD) からなる、並外れた多惑星系を明らかにします。褐色矮星の質量は、推定で M$_{\rm BD}$ $\sim$ 16 木星質量です。 BDは、視線速度（RV）によって特徴づけられたトランジット天体の中で最も周期が長く、内惑星と同一平面上にあることが知られている唯一の天体である。この系の構造は、SEが孤立してガス円盤の最内領域で形成さ (source: arXiv Query: search_query=all:observation AND (all:star OR all:stellar) AND (all:formation OR all:forming OR all:star-forming) AND (all:region OR all:regions OR all:cluster) AND ( (all:planetary AND all:mass) OR (all:brown AND all:dwarf) OR (all:free AND all:floating) )&amp;id_list=&amp;start=0&amp;max_results=20)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.23926v1</guid>
-      <pubDate>Mon, 27 Apr 2026 00:57:53 +0000</pubDate>
+      <title>証明可能な非凸ユークリッド距離行列の補完：幾何学、再構成、および堅牢性</title>
+      <link>https://arxiv.org/abs/2508.00091v3</link>
+      <description>点間の部分的なペアワイズ距離から点の配置を復元する問題は、ユークリッド距離行列補完（EDMC）問題と呼ばれ、センサーネットワークの位置特定、分子構造、多様体学習など、幅広いアプリケーションで発生します。本論文では、正半定値グラム行列の空間における低ランク行列補完タスクとして定式化することにより、EDMC問題を解決するためのリーマン最適化フレームワークを提案します。利用可能な距離測定値は非直交基底の展開係数として符号化され、グラム行列に対する最適化は、古典的な多次元尺度構成法から受け継がれた構造である非負性と三角不等式を通じて、幾何学的整合性を暗黙的に強制します。観測距離に対するベルヌーイサンプリングモデルの下で、ランク$r$行列の多様体上のリーマン勾配降下法は、サンプリング確率が$p\geq O(ν^2 r^2\log(n)/n)$を満たす場合、高い確率で局所的に線形収束することを証明します。ここで、$ν$はEDMC固有の非コヒーレンスパラメータです。さらに、サンプリング確率が$p \geq O(νr^{3/2}\log^{3/4}(n)/n^{1/4})$を満たす場合に収束をもたらす (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2508.00091v3</guid>
+      <pubDate>Thu, 31 Jul 2025 18:40:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
