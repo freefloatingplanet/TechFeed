@@ -7,18 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 07 May 2026 08:41:38 +0000</lastBuildDate>
-    <item>
-      <title>プレゼンテーション：AIファーストのソフトウェア開発：革新性と実績ある手法のバランス</title>
-      <link>https://www.infoq.com/presentations/ai-first-practices/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ウェス・ライツ氏は、AIファーストのソフトウェアデリバリーへの移行について論じ、エージェントワークフローは万能ではないことを強調しています。彼は、コードの寿命と自動検証に基づいた戦略的な2×2モデルを説明し、教師ありエージェントと教師なしエージェントのどちらを選択するかを決定します。また、エンジニアリングの規律を強化するために、RIPER-5フレームワーク（研究、革新、計画、実行、レビュー）を紹介します。 ウェス・ライツ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/ai-first-practices/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 06 May 2026 11:12:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 May 2026 07:47:05 +0000</lastBuildDate>
     <item>
       <title>著名なオープンソース開発者が、ソフトウェアサプライチェーンにおける信頼よりも検証を重視するよう提唱</title>
       <link>https://www.infoq.com/news/2026/05/stenberg-curl-verification-trust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>2026年3月に公開されたブログ記事の中で、curlの開発者でありリードデベロッパーでもあるダニエル・ステンバーグ氏は、ソフトウェア業界が既知コンポーネントを信頼するという従来の姿勢はもはや適切ではないと主張している。ステンバーグ氏は、ユーザーと組織は利用するソフトウェアを積極的に検証すべきだと述べ、その具体的な例としてcurl自身の手法を挙げている。 執筆：マット・サンダース (source: InfoQ)</description>
+      <description>2026年3月に公開されたブログ記事の中で、curlの開発者でありリードデベロッパーでもあるダニエル・ステンバーグ氏は、ソフトウェア業界が既知コンポーネントを信頼するという従来の姿勢はもはや適切ではないと主張している。ステンバーグ氏は、ユーザーと組織は利用するソフトウェアを積極的に検証すべきだと述べ、その具体的な例としてcurl自身の取り組みを挙げている。 執筆：マット・サンダース (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/05/stenberg-curl-verification-trust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Thu, 07 May 2026 07:00:00 +0000</pubDate>
     </item>
@@ -28,6 +21,13 @@
       <description>OAuth 2.1のサポート、エンタープライズID、および統合パスの観点から、主要なMCP認証プロバイダーを実践的に比較します。 (source: WorkOS Blog)</description>
       <guid isPermaLink="true">https://workos.com/blog/best-mcp-server-authentication-providers</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Goodreadsの競合サービスである読書記録ツール「Tome」が閉鎖</title>
+      <link>https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down/</link>
+      <description>TikTokで書籍について議論したりレビューしたりするクリエイターたちの、規模が大きく影響力のあるBookTokコミュニティを基盤として構築されたこのアプリは、読者が読んだ本を記録したり評価したり、おすすめの本を受け取ったり、お気に入りの引用やミームなどの写真を投稿したり、本の雰囲気に合ったプレイリストを共有したりできる場所を提供した。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down/</guid>
+      <pubDate>Thu, 07 May 2026 18:38:58 +0000</pubDate>
     </item>
     <item>
       <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>

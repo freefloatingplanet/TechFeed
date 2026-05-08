@@ -7,33 +7,36 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 08:39:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 07:46:55 +0000</lastBuildDate>
     <item>
-      <title>専門医よりも3年早くガンを見つけるAIが誕生、通常のCT画像の「見えない変化」を検出</title>
-      <link>https://gigazine.net/news/20260506-ai-cancer/</link>
-      <description>「世界最高の医療機関」に選ばれたこともある総合病院のメイヨー・クリニックが、すい臓がんを臨床診断の最大3年前に発見するのに役立つAIを開発したと発表しました。腫瘍が目に見えるまで成長する前の治療が可能な段階で、病気の微妙な兆候を特定することができる可能性があります。 Mayo Clinic AI helps specialists ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20260506-ai-cancer/</guid>
-      <pubDate>Wed, 06 May 2026 13:49:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【三鷹】2時間では到底足りない！NTT技術資料館で知った「通信の父たち」の執念と人海戦術｜ハムレタスサンド</title>
-      <link>https://note.com/hamily/n/nb26648e577c6</link>
-      <description>実は私、通信系ではありませんが過去にNTT系の会社に在籍していたこともあります。かつての「身内」が築き上げてきた歴史の重みに触れ、知的好奇心と誇らしさが入り混じる、濃密な時間となりました。 1. 【要注意】訪れる前に知っておきたい「開館時間」と「駐車場」まず、ここを訪れるには少し気合が必要です。というの... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/hamily/n/nb26648e577c6</guid>
-      <pubDate>Wed, 06 May 2026 23:05:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>「Claude Codeに全部やらせる時代が来た」のか検証してみた</title>
-      <link>https://zenn.dev/okazu_dm/articles/83957f1623ec4d</link>
+      <title>OpenAPIという間接的な型共有をやめてoRPCを導入した話</title>
+      <link>https://zenn.dev/dress_code/articles/9040b2e3532693</link>
       <description>はじめに
-こんにちは。セキュリティエンジニアの@okazu_dmです。
-この記事は、最近リリースされたLLMベースのセキュリティスキャンツールとしてclaude-security-scan を使ってみた所感の記事です。
+Dress Code 株式会社のかわうそです。
+今回は、フロントエンドとバックエンドの型共有に OpenAPI（コード生成）を使っていた構成から、oRPC を導入した話を紹介します。
+!
+この記事は「バックエンドの実装から OpenAPI スキーマを生成し、そこからフロントエンド用の型をコード生成する」という構成が前提です。OpenAPI 自体を否定するものではなく、コントラクトファーストで OpenAPI を正として運用するアプローチなど、OpenAPI の活用方法は他にもあります。
 
-先週、以下の記事を見つけました。
 
-検出率100%という結果が紹介されており、Claude Codeに全部やらせる時代が来た、というタイトルから「楽な時代が来たな」と思ったのですが、実際のところどの程度やらせることができるのかを検証するため、より網羅的に脆弱性が仕込まれている OWASP Juice Shop で再評価してみました。本記事ではその結果と、LLMベース... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/okazu_dm/articles/83957f1623ec4d</guid>
-      <pubDate>Tue, 05 May 2026 23:00:06 +0000</pubDate>
+ 技術スタック
+この記事で登場する主な技術スタックです。
+
+
+
+レイヤー
+技術
+
+
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/9040b2e3532693</guid>
+      <pubDate>Thu, 07 May 2026 00:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>「イルカいないの？」って言ったヤツちょっと来い　蘇るトラウマ、「Copilot Keyboard」正式リリース</title>
+      <link>https://www.itmedia.co.jp/news/articles/2605/08/news062.html</link>
+      <description>本稿ではAIと日本語入力に関して、その進化点と考えられるツールを取り上げてきた。その流れでマイクロソフトが新たに開発する日本語入力ツールとして、今年1月にはβ版の「Copilot Keyboard」をご紹介した。 言葉の意味をWikipediaから引いてくる機能や、常にネットの新語を学習して提供するというアプローチは、次々と... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2605/08/news062.html</guid>
+      <pubDate>Fri, 08 May 2026 03:04:13 +0000</pubDate>
     </item>
     <item>
       <title>外部からアクセス可能なhttpsサイトはドメイン設定後「即」攻撃にさらされる件</title>
@@ -46,13 +49,6 @@ https://x.com/ku_suke/status/2051644654899388878
 大事なことなのでもう一度いい... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/kusuke/articles/25330f7759eba4</guid>
       <pubDate>Tue, 05 May 2026 14:51:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>「セーラームーンに似ている」　生成AIを使った化粧品の広告が物議　メーカーは謝罪と広告の撤去を発表</title>
-      <link>https://www.itmedia.co.jp/news/articles/2605/07/news075.html</link>
-      <description>化粧品やスキンケア商品などを手掛けるウテナ（東京都世田谷区）は5月6日、同社の化粧品の広告が既存アニメに酷似していると物議を呼んだ問題で謝罪し、公式YouTube動画の削除および交通広告の撤去を発表した。 物議のきっかけになったのは、同社が販売するスキンケア商品「ウテナ モイスチャー」の販売を訴求する「潤い... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2605/07/news075.html</guid>
-      <pubDate>Thu, 07 May 2026 07:05:50 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントの Skill は書くだけでは足りない ⇒ Waza で評価して APM で配ろう!【ハーネスエンジニアリング】</title>
@@ -69,32 +65,46 @@ microsoft/apm：AI エージェン... (source: Zennのトレンド)</description
       <pubDate>Tue, 05 May 2026 18:41:11 +0000</pubDate>
     </item>
     <item>
-      <title>インフラ知識ゼロの学生が、イベントNOCで監視システム諸々をキメてきた話</title>
-      <link>https://zenn.dev/toramutton/articles/uec-enoc2026</link>
-      <description>はじめに
-こんにちはトラマトです。
-B1のなが〜い春休みも終わり、ついにB2がスタート！というタイミングで、サークルの先輩の繋がりで
-NOC(Network Operations Center) チームに参加することになりました。
-しかしトラマトさん、参加を決めた時点でのインフラ知識はほぼゼロ。「VLAN？なにそれ美味しいの？」状態で、同じく知識ゼロの友人、あず氏と二人で電撃参加しました。
-JPNIC様から機材支援をいただき、UEC Career Boot Festa 2026というイベント(来てくれた人達、本当にありがとうございます)の
+      <title>AIのPlan Modeをなんとなく承認しないために</title>
+      <link>https://zenn.dev/lv/articles/9438e1678c873a</link>
+      <description>TL;DR
 
-参加者向けWi-Fiの構築・運用
-スイッチ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/toramutton/articles/uec-enoc2026</guid>
-      <pubDate>Tue, 05 May 2026 13:20:03 +0000</pubDate>
+Plan Modeでも、Planを承認してよいかを判断する基準は人間側に必要
+その基準として、まず受け入れ条件を整理し、Planがそれを満たす内容かを見る
+AIには受け入れ条件を決めさせず、既存情報から候補を抽出させ、人間が根拠つきで整理する
+最後はAIの「🤖 完了しました」ではなく、当初の受け入れ条件を満たしたかで判断する
+
+
+ Plan Modeは便利だけど、そのPlanの正しさは別問題
+Claude CodeやCodexで実装するとき、Plan Modeを使う場面が増えてきました。
+いきなりファイルを書き換えられるより、先に実装計画を出してもらえるほうが安心です。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/lv/articles/9438e1678c873a</guid>
+      <pubDate>Thu, 07 May 2026 00:30:01 +0000</pubDate>
     </item>
     <item>
-      <title>自分なりのCSSアニメーションとの向き合い方</title>
-      <link>https://zenn.dev/yui540/articles/8d19020640582d</link>
-      <description>Zenn初投稿になります。
-死ぬほど文章書くの下手なので、日本語おかしいところめちゃくちゃあると思いますが、暖かい目で見ていただけるとありがたいです…
-昨今だと「いや、AI使えよ」って話かもしれませんが、今回の内容は自分の心境なども話したいこともあり、自分の言葉で話したいので自分で書く方向にしました。また、本記事で書く内容は自分の考えであり、みんながこう考える・こうするすべきというものではなく、1人の人間の考えとして捉えてもらえるとありがたいです。
-
- 僕とCSSアニメーション
-まず、自分について少しだけ説明させてください。
-僕はyui540と申します。職業を明確にするのが、若干難しい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yui540/articles/8d19020640582d</guid>
-      <pubDate>Tue, 05 May 2026 10:56:26 +0000</pubDate>
+      <title>AI駆動開発時代に、おさえておきたいQA技法</title>
+      <link>https://zenn.dev/frontline/articles/3a912df20d9210</link>
+      <description>はじめに
+AIを使って実装することが、かなり当たり前になってきました。
+画面実装、API実装、リファクタリング、テストコードの追加まで、以前よりずっと速く進められるようになっています。少し前ならそれなりに時間がかかっていた作業も、AIを使えば短時間である程度形になります。
+一方で、AI駆動開発には別の難しさもあります。
+それは、実装スピードが上がることと、品質を安定して守れることは別だということです。
+AIはコードを書いてくれます。テストコードもそれっぽく作ってくれます。ただ、こちらが観点を渡さない限り、どうしても正常系中心の薄いテストになりやすいです。
+ぱっと見では十分そうに見えて... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/frontline/articles/3a912df20d9210</guid>
+      <pubDate>Tue, 05 May 2026 23:44:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI時代だからこそ、バグの少ないコードを書くためにTDDを学んだ話</title>
+      <link>https://zenn.dev/tacos/articles/57420c50c2794e</link>
+      <description>はじめに
+開発者であれば誰しも、「できるだけバグの少ないコードを書きたい」と思っていると思います。
+また、実際にバグの多いコードに苦しんだ経験があるのではないでしょうか。自分自身もそのひとりです。
+修正したはずの箇所で別の不具合が起きたり、「どこを変更すると何が壊れるのか」がわからなくなったり、特にコード量が多いと、「たぶん動いているけど、本当に大丈夫だろうか」という不安を抱えながら開発を進めることもあると思います。
+そんな中で単体テストを書く機会があり、「そもそも単体テストとは何なのか」「どのように書けばよいのか」という疑問を持ちました。
+そこで単体テストについて調べていく中で、「... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tacos/articles/57420c50c2794e</guid>
+      <pubDate>Wed, 06 May 2026 12:33:03 +0000</pubDate>
     </item>
     <item>
       <title>部署マスタの設計について考えた</title>
@@ -107,6 +117,15 @@ JPNIC様から機材支援をいただき、UEC Career Boot Festa 2026という�
 ここの例では、無印良品の... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/yuta_enginner/articles/dd6431799cec7f</guid>
       <pubDate>Wed, 06 May 2026 04:19:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>高校生がサイゼリヤをCLIから注文できるようにした件 ─ 技術・法律・倫理を多角的に考える</title>
+      <link>https://zenn.dev/yunamun/articles/7c42b5a0a29740</link>
+      <description>はじめに
+2026年5月、Xで「高校生がサイゼリヤの非公式クライアントを作り、CLI からデザートを注文することに成功した」という投稿が話題になりました。さらに、Claude Code や Codex といった AI エージェントから料理を注文できるところまで実装されており、技術界隈は「天才」「すごい」と沸く一方、「これは技術者倫理に違反していないか」「不正アクセス禁止法では？」と懸念する声も少なくありません。
+この記事は、当事者を糾弾することが目的ではありません。「できること」と「やっていいこと」のあいだに何があるのかを、技術・法律・倫理・ビジネスの 4 つの軸で整理し、AI エー... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yunamun/articles/7c42b5a0a29740</guid>
+      <pubDate>Tue, 05 May 2026 02:58:09 +0000</pubDate>
     </item>
     <item>
       <title>視座を上げる・視野を広げるということ</title>
