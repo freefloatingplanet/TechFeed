@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2026 07:46:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 08:01:23 +0000</lastBuildDate>
     <item>
-      <title>ガスと塵の橋で結ばれた2つの銀河　ハッブル宇宙望遠鏡が観測した「Arp 94」</title>
-      <link>https://sorae.info/astronomy/20260503-arp-94.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡が観測した、しし座で輝く銀河のペアです。 真っ暗な宇宙空間に浮かび上がるのは、左側の大きな渦巻銀河「NGC 3227」と、右側のぼんやり輝く楕円銀河「NGC 3226」です。天文学者のHalt… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260503-arp-94.html</guid>
-      <pubDate>Sun, 03 May 2026 12:29:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>2つの恒星を公転する「周連星惑星」候補を新たに27個発見　NASA天文衛星TESSのデータから</title>
-      <link>https://sorae.info/astronomy/20260506-circumbinary-planet-candidates-tess.html</link>
-      <description>ニューサウスウェールズ大学（UNSW）のMargo Thorntonさんを筆頭とする研究チームは、NASA（アメリカ航空宇宙局）の系外惑星探査衛星「TESS」の観測データを利用して、「周連星惑星」の候補を新たに27個発見… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260506-circumbinary-planet-candidates-tess.html</guid>
-      <pubDate>Thu, 07 May 2026 02:11:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>超新星爆発が駆動する銀河風　JAXA天文衛星「XRISM」によるスターバースト銀河M82の観測成果</title>
-      <link>https://sorae.info/astronomy/20260503-m82-xrism.html</link>
-      <description>JAXA（宇宙航空研究開発機構）のX線分光撮像衛星「XRISM（クリズム）」を使用して、爆発的に星が形成されているスターバースト銀河のひとつ「M82（Messier 82）」を観測した新たな研究成果を、国際研究チーム「X… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260503-m82-xrism.html</guid>
-      <pubDate>Sun, 03 May 2026 02:09:14 +0000</pubDate>
+      <title>目指すは火星有人探査　NASAが次世代電気推進「MPDスラスタ」の大電力テストに成功</title>
+      <link>https://sorae.info/space/20260508-lithium-mpd-thruster-jpl.html</link>
+      <description>暗闇の中に浮かび上がる、赤くまばゆい輝き。これはNASA（アメリカ航空宇宙局）が公開した、次世代の宇宙用エンジンのテストを記録した映像です。 【▲ MPDスラスタのテスト実施を伝えるJPLの動画（英語）（Credit: … (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260508-lithium-mpd-thruster-jpl.html</guid>
+      <pubDate>Fri, 08 May 2026 08:03:54 +0000</pubDate>
     </item>
     <item>
       <title>ispaceが月周回衛星を活用した通信・測位サービスを発表。地球と月をつなぐハブ、月周回衛星があれば何ができる？【宇宙ビジネスニュース】</title>
@@ -37,18 +23,18 @@
       <pubDate>Mon, 27 Apr 2026 23:00:11 +0000</pubDate>
     </item>
     <item>
+      <title>日欧が“地球防衛”でタッグ　小惑星「アポフィス」探査ミッションでJAXAとESAが協力へ</title>
+      <link>https://sorae.info/space/20260509-jaxa-esa-apophys.html</link>
+      <description>JAXA（宇宙航空研究開発機構）は2026年5月8日、ESA（ヨーロッパ宇宙機関）との間で「プラネタリーディフェンス」における協力を強化・促進するための協力覚書（MOC）を5月7日にベルリンで締結したことを発表しました。… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260509-jaxa-esa-apophys.html</guid>
+      <pubDate>Sat, 09 May 2026 01:38:57 +0000</pubDate>
+    </item>
+    <item>
       <title>Planet LabsがNVIDIAモジュール搭載の衛星で、宇宙軌道上でのAIによる航空機の検知に成功【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/45714/</link>
       <description>Planet Labsは、自社で開発・運用する30cm解像度の地球観測衛星Pelican-4に搭載したNVIDIA Jetsonモジュールを使い、宇宙空間で直接AIによる物体検知を実行することに成功したと発表しました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45714/</guid>
       <pubDate>Wed, 29 Apr 2026 23:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>「パラメトリック保険」は衛星利用ビジネスの注目ワードに。地球のあらゆる動きを指標化できる衛星データ×保険の未来</title>
-      <link>https://sorabatake.jp/45652/</link>
-      <description>衛星データで災害や積雪、船舶数まで指標化し、査定不要で即時の保険金支払いができる？衛星データを利活用が期待される「パラメトリック保険」の仕組みと可能性を、国内外の事例と合わせて解説します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45652/</guid>
-      <pubDate>Mon, 13 Apr 2026 23:00:53 +0000</pubDate>
     </item>
     <item>
       <title>26台のカメラで地球型惑星を探すESAの宇宙望遠鏡「プラトー」打ち上げ前の環境試験をクリア</title>
@@ -58,11 +44,25 @@
       <pubDate>Thu, 07 May 2026 23:27:11 +0000</pubDate>
     </item>
     <item>
+      <title>「パラメトリック保険」は衛星利用ビジネスの注目ワードに。地球のあらゆる動きを指標化できる衛星データ×保険の未来</title>
+      <link>https://sorabatake.jp/45652/</link>
+      <description>衛星データで災害や積雪、船舶数まで指標化し、査定不要で即時の保険金支払いができる？衛星データを利活用が期待される「パラメトリック保険」の仕組みと可能性を、国内外の事例と合わせて解説します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45652/</guid>
+      <pubDate>Mon, 13 Apr 2026 23:00:53 +0000</pubDate>
+    </item>
+    <item>
       <title>2026年5月の星空情報：31日は月内2度目の満月</title>
       <link>https://sorae.info/astronomy/202605-starry-sky.html</link>
       <description>5月、鮮やかな新緑と青空に、爽やかな風が吹き抜ける季節となりました。暑過ぎず寒過ぎず、夜の散歩も楽しい時期で、星空観察もはかどります。 日没頃、西寄りの空には2つの惑星が浮かびます。低い方にあるのが金星、高い方にあるのが… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/202605-starry-sky.html</guid>
       <pubDate>Tue, 05 May 2026 08:50:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>パラグアイが「アルテミス合意」に署名　67か国目の署名国に</title>
+      <link>https://sorae.info/space/20260508-artemis-accords-paraguay.html</link>
+      <description>NASA（アメリカ航空宇宙局）は2026年5月7日、新たにパラグアイが「アルテミス合意」に署名したことを発表しました。署名式は現地時間同日午前、パラグアイの首都アスンシオンで行われ、AEP（パラグアイ宇宙庁）のオスバルド… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260508-artemis-accords-paraguay.html</guid>
+      <pubDate>Fri, 08 May 2026 12:13:37 +0000</pubDate>
     </item>
     <item>
       <title>「数回の打上げで市場は一気に拡大するだろう」ElevationSpace、Redwireが提携。バイオ医薬品技術を自社プラットフォームに統合へ【宇宙ビジネスニュース】</title>

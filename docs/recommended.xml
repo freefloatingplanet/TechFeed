@@ -7,79 +7,89 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2026 07:46:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 08:01:19 +0000</lastBuildDate>
     <item>
-      <title>OpenAPIという間接的な型共有をやめてoRPCを導入した話</title>
-      <link>https://zenn.dev/dress_code/articles/9040b2e3532693</link>
+      <title>Claude Codeの失敗をチームルールに昇格させる仕組み</title>
+      <link>https://zenn.dev/dely_jp/articles/5bc3e9cf62d776</link>
       <description>はじめに
-Dress Code 株式会社のかわうそです。
-今回は、フロントエンドとバックエンドの型共有に OpenAPI（コード生成）を使っていた構成から、oRPC を導入した話を紹介します。
+こんにちは、クラシルのレシチャレを開発しているkiyokuroです。
+これまで、ルール設計・Safety Hook・サブエージェント・3エージェントハーネスのブログを書いてきました。前回の記事では3エージェントハーネスを取り入れて、実装のchunkを連鎖的に回すループまで辿り着きました。
+ただし、回り始めたループから出てくる「失敗」をどう活かすかには触れていませんでした。この記事では、Evaluatorが拾った失敗を個人ローカルに蓄積し、3件以上たまればチームルールに昇格させ、さらにセッション全体を振り返る仕組みを紹介します。
+Mitchell HashimotoがMy A... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/5bc3e9cf62d776</guid>
+      <pubDate>Thu, 07 May 2026 07:35:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agentic Graph RAG MCPのススメ — Graph RAGは「単発」ではなく「対話」になった</title>
+      <link>https://zenn.dev/aircloset/articles/341dffee42f454</link>
+      <description>みなさまこんにちは！エアークローゼットでCTOをしている辻です。
+これまでに DB Graph MCP、社内MCP群の全体像、Biz Graph、Sandbox MCP と、社内向けに作っているMCPサーバーを順に紹介してきました。
+DB Graph は ORM 解析からのスキーマグラフ、Biz Graph は会議スライドからの施策抽出と Week ノード設計、Sandbox MCP はそもそもアプリ公開基盤 ── 目的も実装も全部違うのですが、自分でも書きながら気づいたのは、設計の根っこにある考え方は同じだということです。
+今回はその根っこの話をします。Agentic Graph RA... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aircloset/articles/341dffee42f454</guid>
+      <pubDate>Wed, 06 May 2026 23:58:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>なぜ、Claude CodeのせいでIT業界はアニメ業界みたいになったのか？</title>
+      <link>https://zenn.dev/pdfractal/articles/39f5bf09f4a14a</link>
+      <description>はじめに Claude CodeやCodexの登場によって、IT業界の開発現場は、単に「プログラミングが速くなった」だけでは説明できない構造変化を起こしています。重要なのは、AIが優秀なプログラマーを完全に代替したことではありません。むしろ、AIによって大量の「それっぽいコード」が短時間で返ってくるようになり、熟練者が... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/pdfractal/articles/39f5bf09f4a14a</guid>
+      <pubDate>Fri, 08 May 2026 08:23:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>「Claude Codeに全部やらせる時代が来た」のか検証してみた</title>
+      <link>https://zenn.dev/okazu_dm/articles/83957f1623ec4d</link>
+      <description>はじめに
+こんにちは。セキュリティエンジニアの@okazu_dmです。
+この記事は、最近リリースされたLLMベースのセキュリティスキャンツールとしてclaude-security-scan を使ってみた所感の記事です。
+
+先週、以下の記事を見つけました。
+
+検出率100%という結果が紹介されており、Claude Codeに全部やらせる時代が来た、というタイトルから「楽な時代が来たな」と思ったのですが、実際のところどの程度やらせることができるのかを検証するため、より網羅的に脆弱性が仕込まれている OWASP Juice Shop で再評価してみました。本記事ではその結果と、LLMベース... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/okazu_dm/articles/83957f1623ec4d</guid>
+      <pubDate>Tue, 05 May 2026 23:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cortex Codeを組織で活用する際のポイント</title>
+      <link>https://zenn.dev/intage_tech/articles/art018-intage-tech</link>
+      <description>はじめに
+こんにちは！インテージの児玉です。
+AIエージェントの技術進化が加速するなか、Snowflakeからも待望のAIエージェントとして 「Cortex Code」 が登場しました。
+Cortex Codeは、個人の開発体験を劇的に向上させますが、組織の開発フローに組み込む際には、以下の観点が重要になります。
+
+自律実行の安全性担保と実行プロセスの透明化
+エージェントへのドメイン知識や開発規律の反映
+
+本記事では、私自身が感じたCortex Codeを組織で活用する際のポイントを紹介します。
 !
-この記事は「バックエンドの実装から OpenAPI スキーマを生成し、そこからフロントエンド用の型をコード生成する」という構成が前提です。OpenAPI 自体を否定するものではなく、コントラクトファーストで OpenAPI を正として運用するアプローチなど、OpenAPI の活用方法は他にもあります。
+本記事で紹介する内容
 
 
- 技術スタック
-この記事で登場する主な技術スタックです。
-
-
-
-レイヤー
-技術
-
-
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/9040b2e3532693</guid>
-      <pubDate>Thu, 07 May 2026 00:00:09 +0000</pubDate>
+①：ガバナンス設計とコスト制御
+権限管理（RBAC）とリソ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/intage_tech/articles/art018-intage-tech</guid>
+      <pubDate>Thu, 07 May 2026 10:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>「イルカいないの？」って言ったヤツちょっと来い　蘇るトラウマ、「Copilot Keyboard」正式リリース</title>
-      <link>https://www.itmedia.co.jp/news/articles/2605/08/news062.html</link>
-      <description>本稿ではAIと日本語入力に関して、その進化点と考えられるツールを取り上げてきた。その流れでマイクロソフトが新たに開発する日本語入力ツールとして、今年1月にはβ版の「Copilot Keyboard」をご紹介した。 言葉の意味をWikipediaから引いてくる機能や、常にネットの新語を学習して提供するというアプローチは、次々と... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2605/08/news062.html</guid>
-      <pubDate>Fri, 08 May 2026 03:04:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>外部からアクセス可能なhttpsサイトはドメイン設定後「即」攻撃にさらされる件</title>
-      <link>https://zenn.dev/kusuke/articles/25330f7759eba4</link>
-      <description>今日も元気にXを徘徊していたところ、どこにも公開していないサイトなのにめちゃくちゃアクセスが来るというポストがあり、そういえばCT Logとかもウォッチされてるしな。とつぶやいたところ
-https://x.com/ku_suke/status/2051644654899388878
-まとめがあるといいな、とのコメントをいただいたので簡単にまとめてみました。（なお当該のポストはCT Log経由の攻撃と断定されているものではありません。）あくまで私が思い出しただけの話ですが、普通に来ますからね。
+      <title>AI時代こそ、エンジニアは「師匠」が要る</title>
+      <link>https://zenn.dev/acntechjp/articles/2e8d38ad383dd3</link>
+      <description>!
 
- httpsサイトを新規公開するとすぐに攻撃botがやってきます
-大事なことなのでもう一度いい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kusuke/articles/25330f7759eba4</guid>
-      <pubDate>Tue, 05 May 2026 14:51:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントの Skill は書くだけでは足りない ⇒ Waza で評価して APM で配ろう!【ハーネスエンジニアリング】</title>
-      <link>https://zenn.dev/microsoft/articles/b081f3ddb93040</link>
-      <description>はじめに
-こんにちは、Matsumoto です。
-GitHub Copilot などの Agentic なCoding ツールを日常で使っていると、SKILL.md で繰り返しの作業手順やレビュー観点をスキルとして渡せるのが便利だなと思います。
-一方で、 SKill は書くだけでは足りません。本当に意図どおりに発火するのか、書き換えたあとにデグレしていないのか、別モデルでも同じ品質で動くのかは、確認・評価しないと分かりません。
-そこで Microsoft の GitHub org で公開されている 2 つの OSS を触ってみました。
+ 三行まとめ
+
+AIは「手がかり」を大量に渡すが、本質への跳躍は肩代わりしない。だからAI時代こそ、跳躍を見せてくれる師匠が要る。
+伝統芸能の徒弟制と同じ構造で、「同期的・長時間・思考開示型」のフォーマットでしか会得できない遠隔項を誰とどう持つかが重要である。
+AI時代の現場でそれを実装する一つの形がペアプロ・モブプロ。隣で学ぶ場を持つこと、いまできる動きの一つだと考える。
 
 
-microsoft/apm：AI エージェン... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/b081f3ddb93040</guid>
-      <pubDate>Tue, 05 May 2026 18:41:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIのPlan Modeをなんとなく承認しないために</title>
-      <link>https://zenn.dev/lv/articles/9438e1678c873a</link>
-      <description>TL;DR
+!
 
-Plan Modeでも、Planを承認してよいかを判断する基準は人間側に必要
-その基準として、まず受け入れ条件を整理し、Planがそれを満たす内容かを見る
-AIには受け入れ条件を決めさせず、既存情報から候補を抽出させ、人間が根拠つきで整理する
-最後はAIの「🤖 完了しました」ではなく、当初の受け入れ条件を満たしたかで判断する
-
-
- Plan Modeは便利だけど、そのPlanの正しさは別問題
-Claude CodeやCodexで実装するとき、Plan Modeを使う場面が増えてきました。
-いきなりファイルを書き換えられるより、先に実装計画を出してもらえるほうが安心です。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lv/articles/9438e1678c873a</guid>
-      <pubDate>Thu, 07 May 2026 00:30:01 +0000</pubDate>
+ まえおき
+悪夢のような週5出社の大号令が発令されてからもう1年が経とうとしている。
+無論私も週5出社を継続している。そしていまでも出社は苦手だ。
+しかし、なんとか対面で働くことに意味を見出せないかと... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/2e8d38ad383dd3</guid>
+      <pubDate>Fri, 08 May 2026 10:19:21 +0000</pubDate>
     </item>
     <item>
       <title>AI駆動開発時代に、おさえておきたいQA技法</title>
@@ -119,30 +129,19 @@ AIはコードを書いてくれます。テストコードもそれっぽく作
       <pubDate>Wed, 06 May 2026 04:19:02 +0000</pubDate>
     </item>
     <item>
-      <title>高校生がサイゼリヤをCLIから注文できるようにした件 ─ 技術・法律・倫理を多角的に考える</title>
-      <link>https://zenn.dev/yunamun/articles/7c42b5a0a29740</link>
+      <title>1年間の育休に備えて「勝手に賢くなる」AI情報収集基盤を作った</title>
+      <link>https://zenn.dev/tokium_dev/articles/20260427_ai_tech_researcher</link>
       <description>はじめに
-2026年5月、Xで「高校生がサイゼリヤの非公式クライアントを作り、CLI からデザートを注文することに成功した」という投稿が話題になりました。さらに、Claude Code や Codex といった AI エージェントから料理を注文できるところまで実装されており、技術界隈は「天才」「すごい」と沸く一方、「これは技術者倫理に違反していないか」「不正アクセス禁止法では？」と懸念する声も少なくありません。
-この記事は、当事者を糾弾することが目的ではありません。「できること」と「やっていいこと」のあいだに何があるのかを、技術・法律・倫理・ビジネスの 4 つの軸で整理し、AI エー... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yunamun/articles/7c42b5a0a29740</guid>
-      <pubDate>Tue, 05 May 2026 02:58:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>視座を上げる・視野を広げるということ</title>
-      <link>https://zenn.dev/penginpenguin/articles/3071ad1d93507f</link>
-      <description>はじめに
-ぺんぎん（@jitepengin）です。
-エンジニアとして一定の経験を積んでくると、こんな壁にぶつかることがあると思います。
-
-技術的には自信があるのに、なぜか提案が通らない。
-上位の方針についていけず、ただ言われたことをこなしている感覚がある。
-先輩や上長がなぜその判断をしたのか、当時はよくわからなかった。
-
-わたし自身もいち担当者から始まり、ラインマネジメントやPM、アーキテクトと役割が変わっていくなかで、同じことを感じた場面が何度もありました。
-その都度、「もっと早くこの視点を持っていれば」と思うことも少なくありません。
-その根本にあると感じているのが「視座」と「視野... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/penginpenguin/articles/3071ad1d93507f</guid>
-      <pubDate>Mon, 04 May 2026 07:01:11 +0000</pubDate>
+こんにちは、TOKIUMでEMをしているskです。
+もうすぐ1年間の育休に入ります👶🍼
+新生活がとても楽しみな一方で、ひとつ気がかりなことがあります。
+それは生成AI周りの技術トレンド、1年離れたら完全に浦島太郎になるのでは？ という点です。
+この領域は1週間単位でも新しいツールや手法がどんどん出てきます。
+1年後に復帰して「え、この作業って誰も手動でやっていないの？」「社内でxxというAIツールが流行っているけど一体何者なんだ、、？」などと困惑する未来が容易に想像できました。
+かといって、育休中にZennやQiitaを巡回する余裕はなさそうです。
+ほしいのは 「放っておい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/20260427_ai_tech_researcher</guid>
+      <pubDate>Thu, 07 May 2026 06:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
