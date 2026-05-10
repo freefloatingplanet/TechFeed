@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 09 May 2026 08:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 08:12:28 +0000</lastBuildDate>
+    <item>
+      <title>著名なオープンソース開発者が、ソフトウェアサプライチェーンにおける信頼よりも検証を重視するよう提唱</title>
+      <link>https://www.infoq.com/news/2026/05/stenberg-curl-verification-trust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>2026年3月に公開されたブログ記事の中で、curlの開発者でありリードデベロッパーでもあるダニエル・ステンバーグ氏は、ソフトウェア業界が既知コンポーネントを信頼するという従来の姿勢はもはや適切ではないと主張している。ステンバーグ氏は、ユーザーと組織は利用するソフトウェアを積極的に検証すべきだと述べ、その具体的な例としてcurl自身の手法を挙げている。 執筆：マット・サンダース (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/05/stenberg-curl-verification-trust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 07 May 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年におけるMCPサーバー認証の最適なプロバイダー</title>
+      <link>https://workos.com/blog/best-mcp-server-authentication-providers</link>
+      <description>OAuth 2.1のサポート、エンタープライズID、および統合パスの観点から、主要なMCP認証プロバイダーを実践的に比較します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/best-mcp-server-authentication-providers</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>記事：マイクロサービスベースのASP.NET Coreアプリケーションにおけるサイドカーパターンの実装</title>
       <link>https://www.infoq.com/articles/asp-net-core-side-car/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
@@ -51,13 +65,6 @@
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>攻撃者はFlippaでWordPressプラグインを30個購入し、すべてにバックドアを仕込んだ。</title>
-      <link>https://www.infoq.com/news/2026/05/wordpress-plugins-supply-chain/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>攻撃者はFlippaで30個以上のWordPressプラグインを6桁の金額で購入し、最初のコミットにPHPの逆シリアル化バックドアを仕込み、8か月後に40万件のインストールでそれを有効化した。この攻撃では、C2を解決するためにイーサリアムのスマートコントラクトが使用された。WordPress.orgにはプラグインの所有権移転を審査する仕組みがなく、これはnpmとPyPIが数年前に解決した問題である。執筆：Steef-Jan Wiggers (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/05/wordpress-plugins-supply-chain/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 06 May 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>B2B SaaSに必要な10のエンタープライズ機能（そしてそれらを迅速に提供する方法）</title>
       <link>https://workos.com/blog/enterprise-readiness-checklist-2026</link>
       <description>SSO、SCIM、MCP、監査ログ、RBAC、その他B2B SaaS企業の準備状況チェックリストに関する2026年版ガイド。 (source: WorkOS Blog)</description>
@@ -70,13 +77,6 @@
       <description>ジャスティン・レオーク氏は、AIがエンジニアリングに及ぼす影響の実態について、逸話にとどまらず、DORAやDXリサーチからの確かなデータに基づいて解説します。パイロットプロジェクトの95%が失敗する「GenAI Divide」について説明し、リーダーがSPACEとCore 4フレームワークを使って真のROIを測定する方法を紹介します。さらに、スピードと品質のバランスの取り方、開発者の不安の軽減、SDLC全体にわたるエージェント型ソリューションの適用方法についても解説します。ジャスティン・レオーク著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/ai-assisted-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Fri, 08 May 2026 12:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Uberが出資するマイクロモビリティ企業Limeが新規株式公開（IPO）を申請</title>
-      <link>https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/</link>
-      <description>長年にわたる準備と示唆を経て、Limeは株式公開を計画している。同社はナスダック市場に「LIME」のティッカーシンボルで上場する予定だ。Limeは上場条件については明らかにしていない。 (source: TechCrunch)</description>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/</guid>
-      <pubDate>Fri, 08 May 2026 13:21:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

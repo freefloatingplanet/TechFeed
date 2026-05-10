@@ -7,68 +7,67 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 May 2026 08:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 08:12:18 +0000</lastBuildDate>
     <item>
-      <title>Claude Codeの失敗をチームルールに昇格させる仕組み</title>
-      <link>https://zenn.dev/dely_jp/articles/5bc3e9cf62d776</link>
+      <title>紙時代の出版社の思い出話　その12『あの時代、LOGINはどうすればよかったんだろう？』｜地雷魚</title>
+      <link>https://note.com/jiraygyo/n/n7387843babd9</link>
+      <description>未だにLOGINの夢を見る。 これが「かつての思い出」としての夢ならば良いのだが、私の夢はもっとリアルで、なぜか現代にLOGINが復活して河野真太郎編集長で副編集長に塩崎剛三さんで、新井創士さんや青柳昌之さんが在籍して、「現在に復活したLOGINが刊行していて、私はバイトとして時給800円で働いている」という夢であ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/jiraygyo/n/n7387843babd9</guid>
+      <pubDate>Sat, 09 May 2026 04:13:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Git初心者の頃わからなかった「pullするな」の意味 - Qiita</title>
+      <link>https://qiita.com/shimitaro/items/bdd7cedde03974a94406</link>
+      <description>はじめに AIを使ったバイブコーディングが普及してきた影響か、最近「コードは書けるけどGitはよくわからない」という人が増えてきた気がします。 AIがコードを生成してくれる時代になっても、Gitの操作は自分でやることが多いです。 そしてGitの概念を理解していないと、ある日突然「履歴がぐちゃぐちゃになった」「チ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://qiita.com/shimitaro/items/bdd7cedde03974a94406</guid>
+      <pubDate>Sat, 09 May 2026 09:49:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>レガシーシステムとチェスタトンのフェンス（Chesterton's Fence）──変えていいもの、変えるべきでないもの - そこに仁義はあるのか(仮)</title>
+      <link>https://syobochim.hatenablog.com/entry/2025/02/23/165022</link>
+      <description>システム設計やソフトウェア開発をしていると、目の前の仕組みが時代遅れに見えたり、不便に感じたりすることがよくあります。「この設計、なんでこんなに複雑なんだ？😡」と、つい現状を悪く捉えがちです。 そして、気づけば「丸ごと変えてしまおう☝️💡」という流れになってしまうことも少なくありません。 特に最新技術... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://syobochim.hatenablog.com/entry/2025/02/23/165022</guid>
+      <pubDate>Sat, 09 May 2026 13:05:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAPIという間接的な型共有をやめてoRPCを導入した話</title>
+      <link>https://zenn.dev/dress_code/articles/9040b2e3532693</link>
       <description>はじめに
-こんにちは、クラシルのレシチャレを開発しているkiyokuroです。
-これまで、ルール設計・Safety Hook・サブエージェント・3エージェントハーネスのブログを書いてきました。前回の記事では3エージェントハーネスを取り入れて、実装のchunkを連鎖的に回すループまで辿り着きました。
-ただし、回り始めたループから出てくる「失敗」をどう活かすかには触れていませんでした。この記事では、Evaluatorが拾った失敗を個人ローカルに蓄積し、3件以上たまればチームルールに昇格させ、さらにセッション全体を振り返る仕組みを紹介します。
-Mitchell HashimotoがMy A... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/5bc3e9cf62d776</guid>
-      <pubDate>Thu, 07 May 2026 07:35:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agentic Graph RAG MCPのススメ — Graph RAGは「単発」ではなく「対話」になった</title>
-      <link>https://zenn.dev/aircloset/articles/341dffee42f454</link>
-      <description>みなさまこんにちは！エアークローゼットでCTOをしている辻です。
-これまでに DB Graph MCP、社内MCP群の全体像、Biz Graph、Sandbox MCP と、社内向けに作っているMCPサーバーを順に紹介してきました。
-DB Graph は ORM 解析からのスキーマグラフ、Biz Graph は会議スライドからの施策抽出と Week ノード設計、Sandbox MCP はそもそもアプリ公開基盤 ── 目的も実装も全部違うのですが、自分でも書きながら気づいたのは、設計の根っこにある考え方は同じだということです。
-今回はその根っこの話をします。Agentic Graph RA... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aircloset/articles/341dffee42f454</guid>
-      <pubDate>Wed, 06 May 2026 23:58:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜ、Claude CodeのせいでIT業界はアニメ業界みたいになったのか？</title>
-      <link>https://zenn.dev/pdfractal/articles/39f5bf09f4a14a</link>
-      <description>はじめに Claude CodeやCodexの登場によって、IT業界の開発現場は、単に「プログラミングが速くなった」だけでは説明できない構造変化を起こしています。重要なのは、AIが優秀なプログラマーを完全に代替したことではありません。むしろ、AIによって大量の「それっぽいコード」が短時間で返ってくるようになり、熟練者が... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/pdfractal/articles/39f5bf09f4a14a</guid>
-      <pubDate>Fri, 08 May 2026 08:23:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>「Claude Codeに全部やらせる時代が来た」のか検証してみた</title>
-      <link>https://zenn.dev/okazu_dm/articles/83957f1623ec4d</link>
-      <description>はじめに
-こんにちは。セキュリティエンジニアの@okazu_dmです。
-この記事は、最近リリースされたLLMベースのセキュリティスキャンツールとしてclaude-security-scan を使ってみた所感の記事です。
-
-先週、以下の記事を見つけました。
-
-検出率100%という結果が紹介されており、Claude Codeに全部やらせる時代が来た、というタイトルから「楽な時代が来たな」と思ったのですが、実際のところどの程度やらせることができるのかを検証するため、より網羅的に脆弱性が仕込まれている OWASP Juice Shop で再評価してみました。本記事ではその結果と、LLMベース... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/okazu_dm/articles/83957f1623ec4d</guid>
-      <pubDate>Tue, 05 May 2026 23:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cortex Codeを組織で活用する際のポイント</title>
-      <link>https://zenn.dev/intage_tech/articles/art018-intage-tech</link>
-      <description>はじめに
-こんにちは！インテージの児玉です。
-AIエージェントの技術進化が加速するなか、Snowflakeからも待望のAIエージェントとして 「Cortex Code」 が登場しました。
-Cortex Codeは、個人の開発体験を劇的に向上させますが、組織の開発フローに組み込む際には、以下の観点が重要になります。
-
-自律実行の安全性担保と実行プロセスの透明化
-エージェントへのドメイン知識や開発規律の反映
-
-本記事では、私自身が感じたCortex Codeを組織で活用する際のポイントを紹介します。
+Dress Code 株式会社のかわうそです。
+今回は、フロントエンドとバックエンドの型共有に OpenAPI（コード生成）を使っていた構成から、oRPC を導入した話を紹介します。
 !
-本記事で紹介する内容
+この記事は「バックエンドの実装から OpenAPI スキーマを生成し、そこからフロントエンド用の型をコード生成する」という構成が前提です。OpenAPI 自体を否定するものではなく、コントラクトファーストで OpenAPI を正として運用するアプローチなど、OpenAPI の活用方法は他にもあります。
 
 
-①：ガバナンス設計とコスト制御
-権限管理（RBAC）とリソ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/intage_tech/articles/art018-intage-tech</guid>
-      <pubDate>Thu, 07 May 2026 10:00:10 +0000</pubDate>
+ 技術スタック
+この記事で登場する主な技術スタックです。
+
+
+
+レイヤー
+技術
+
+
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/9040b2e3532693</guid>
+      <pubDate>Thu, 07 May 2026 00:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>要求を仕様に落とすテンプレートを作ってみた</title>
+      <link>https://zenn.dev/channnnsm/articles/c3a6de22e71f86</link>
+      <description>はじめに：AI時代にこそ「要件定義」が最重要スキルになる 最近は生成AIの進化により、コードを書くこと自体のハードルは劇的に下がりました。「どう実装するか（How）」の多くをAIが担ってくれるようになった今、ソフトウェア開発において人間の役割は明確にシフトしています。 それは、「何を作るべきか（What）」「な... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/channnnsm/articles/c3a6de22e71f86</guid>
+      <pubDate>Fri, 08 May 2026 04:40:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code × build123d で3Dプリント用モデルを作る</title>
+      <link>https://zenn.dev/optimisuke/articles/ef65833d6630ab</link>
+      <description>はじめに
+3Dプリンターを購入したソフトウェアエンジニアの方々に聞いてみたいんですが、「ちょっとした小物を作りたいけど、CADがまあまあめんどくさい」って思ったことありませんか？ありますよね？自分はあります。
+最初は普通にCADも試してみました。やりたい気持ちはあるんですが、寸法を入れて、形を作って、細かいところを直して、STLにして……とやっていると、思ったより時間がかかります。ちょっとしたスタンドや治具を作るだけでも、かなり腰が重くなります。
+Blender をAIから操作できる、みたいな話もあります。ただ、自分はそもそも Blender の操作がよくわかっていないので、「AIで... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/optimisuke/articles/ef65833d6630ab</guid>
+      <pubDate>Fri, 08 May 2026 07:50:02 +0000</pubDate>
     </item>
     <item>
       <title>AI時代こそ、エンジニアは「師匠」が要る</title>
@@ -92,41 +91,16 @@ AI時代の現場でそれを実装する一つの形がペアプロ・モブプ
       <pubDate>Fri, 08 May 2026 10:19:21 +0000</pubDate>
     </item>
     <item>
-      <title>AI駆動開発時代に、おさえておきたいQA技法</title>
-      <link>https://zenn.dev/frontline/articles/3a912df20d9210</link>
-      <description>はじめに
-AIを使って実装することが、かなり当たり前になってきました。
-画面実装、API実装、リファクタリング、テストコードの追加まで、以前よりずっと速く進められるようになっています。少し前ならそれなりに時間がかかっていた作業も、AIを使えば短時間である程度形になります。
-一方で、AI駆動開発には別の難しさもあります。
-それは、実装スピードが上がることと、品質を安定して守れることは別だということです。
-AIはコードを書いてくれます。テストコードもそれっぽく作ってくれます。ただ、こちらが観点を渡さない限り、どうしても正常系中心の薄いテストになりやすいです。
-ぱっと見では十分そうに見えて... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/frontline/articles/3a912df20d9210</guid>
-      <pubDate>Tue, 05 May 2026 23:44:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI時代だからこそ、バグの少ないコードを書くためにTDDを学んだ話</title>
-      <link>https://zenn.dev/tacos/articles/57420c50c2794e</link>
-      <description>はじめに
-開発者であれば誰しも、「できるだけバグの少ないコードを書きたい」と思っていると思います。
-また、実際にバグの多いコードに苦しんだ経験があるのではないでしょうか。自分自身もそのひとりです。
-修正したはずの箇所で別の不具合が起きたり、「どこを変更すると何が壊れるのか」がわからなくなったり、特にコード量が多いと、「たぶん動いているけど、本当に大丈夫だろうか」という不安を抱えながら開発を進めることもあると思います。
-そんな中で単体テストを書く機会があり、「そもそも単体テストとは何なのか」「どのように書けばよいのか」という疑問を持ちました。
-そこで単体テストについて調べていく中で、「... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tacos/articles/57420c50c2794e</guid>
-      <pubDate>Wed, 06 May 2026 12:33:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>部署マスタの設計について考えた</title>
-      <link>https://zenn.dev/yuta_enginner/articles/dd6431799cec7f</link>
-      <description>背景と目的
-原料・製品のスペックを管理するアプリケーションを開発する上で、「どの部署が登録したレコードか」を管理する必要がありました。
-一見シンプルに作れそうに思える部署マスタですが、組織変更を頻繁に行う企業の場合、設計を誤ると組織改変のたびにデータの整合性が崩れ、運用が破綻してしまいます。
-※プロフィールに書いているとおり、私はIT部門の人間ではありません。しかしIT部門が壊滅的な会社の場合、IT部門でない人間がシャドーITを作って回していかなければならないことも多いです。
-こういったIT部門が壊滅的な企業のためのコンサルティングサービスを現在開発中です。
-ここの例では、無印良品の... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yuta_enginner/articles/dd6431799cec7f</guid>
-      <pubDate>Wed, 06 May 2026 04:19:02 +0000</pubDate>
+      <title>なぜ Tailwind CSS は line-height を leading と呼ぶのか？ 由来や経緯を調べてみた</title>
+      <link>https://zenn.dev/y_ta/articles/why-tailwind-leading-tracking</link>
+      <description>Tailwind CSSを使っていると、いつも直面する問題があります。それは、行間と文字間の指定方法を毎回忘れてしまうことです。
+CSSでは、行間はline-height、文字間はletter-spacingで指定します。ところがTailwind CSSでは、それぞれleadingとtrackingという、どこから出てきたのかまるでわからない名前を使用します。
+&lt;p class="leading-7 tracking-wide"&gt;
+  Tailwind CSS
+&lt;/p&gt;
+最近はAIが出てきて別に忘れてしまったからと言って特段困るということはありませんが、以前は毎回... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/y_ta/articles/why-tailwind-leading-tracking</guid>
+      <pubDate>Sat, 09 May 2026 12:58:38 +0000</pubDate>
     </item>
     <item>
       <title>1年間の育休に備えて「勝手に賢くなる」AI情報収集基盤を作った</title>
@@ -142,6 +116,18 @@ AIはコードを書いてくれます。テストコードもそれっぽく作
 ほしいのは 「放っておい... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/20260427_ai_tech_researcher</guid>
       <pubDate>Thu, 07 May 2026 06:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu ServerにOpenZFSを入れてNASとして運用する</title>
+      <link>https://zenn.dev/neet/articles/903f811223936a</link>
+      <description>こんにちは。みなさんはどんなストレージを使っていますか？
+筆者は主としてApple製品を使っているため、iCloud上のストレージ200GBのために、毎月1200円も支払っています[1]。このまま毎月1200円も支払い続けたら、1年で1.5万円、10年で15万円も、自分のものではないストレージのために支払い続けることになります。
+というわけで、一念発起して、NASサーバーを導入することにしました。この記事では、NASを組み立てるまでの流れと、その後のソフトウェア面での構築について説明します。
+
+ サーバとして使うマシンを用意する
+自作PCをNASとする、いわば自作NASを作るにあたって、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/neet/articles/903f811223936a</guid>
+      <pubDate>Sat, 09 May 2026 15:24:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

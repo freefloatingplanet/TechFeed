@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 May 2026 08:01:23 +0000</lastBuildDate>
-    <item>
-      <title>目指すは火星有人探査　NASAが次世代電気推進「MPDスラスタ」の大電力テストに成功</title>
-      <link>https://sorae.info/space/20260508-lithium-mpd-thruster-jpl.html</link>
-      <description>暗闇の中に浮かび上がる、赤くまばゆい輝き。これはNASA（アメリカ航空宇宙局）が公開した、次世代の宇宙用エンジンのテストを記録した映像です。 【▲ MPDスラスタのテスト実施を伝えるJPLの動画（英語）（Credit: … (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260508-lithium-mpd-thruster-jpl.html</guid>
-      <pubDate>Fri, 08 May 2026 08:03:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 10 May 2026 08:12:21 +0000</lastBuildDate>
     <item>
       <title>ispaceが月周回衛星を活用した通信・測位サービスを発表。地球と月をつなぐハブ、月周回衛星があれば何ができる？【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/45639/</link>
@@ -70,6 +63,13 @@
       <description>衛星内で実験などができる小型宇宙機を開発するElevationSpaceは米国のRedwire Corporationとの締結を発表しました。その提携内容と、RedwireがElevationSpaceに期待することについて、直接お話を伺いました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45700/</guid>
       <pubDate>Thu, 23 Apr 2026 23:21:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>ハッブル宇宙望遠鏡が新たに捉えた「かに星雲」　その複雑な構造と25年間の膨張の軌跡</title>
+      <link>https://sorae.info/astronomy/20260509-crab-nebula-hubble.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡が観測した超新星残骸「かに星雲（Crab Nebula）」。おうし座の方向、約6500光年先にあります。 「かに星雲」は、西暦1054年に観測された超新星爆発「SN 1054」の残骸として知ら… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260509-crab-nebula-hubble.html</guid>
+      <pubDate>Sat, 09 May 2026 12:18:53 +0000</pubDate>
     </item>
     <item>
       <title>月の大気イオンの変化を「かぐや」のデータから解明　流星群の後には興味深い変化も</title>
