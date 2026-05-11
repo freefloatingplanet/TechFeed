@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 08:12:21 +0000</lastBuildDate>
-    <item>
-      <title>ispaceが月周回衛星を活用した通信・測位サービスを発表。地球と月をつなぐハブ、月周回衛星があれば何ができる？【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/45639/</link>
-      <description>2026年3月27日、ispaceは月周回衛星を活用した通信・測位サービスの立ち上げを発表しました。「地球と月面」をつなぐハブとして機能していくのか、今後の動向に注目です。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45639/</guid>
-      <pubDate>Mon, 27 Apr 2026 23:00:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 May 2026 00:27:32 +0000</lastBuildDate>
     <item>
       <title>日欧が“地球防衛”でタッグ　小惑星「アポフィス」探査ミッションでJAXAとESAが協力へ</title>
       <link>https://sorae.info/space/20260509-jaxa-esa-apophys.html</link>
       <description>JAXA（宇宙航空研究開発機構）は2026年5月8日、ESA（ヨーロッパ宇宙機関）との間で「プラネタリーディフェンス」における協力を強化・促進するための協力覚書（MOC）を5月7日にベルリンで締結したことを発表しました。… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260509-jaxa-esa-apophys.html</guid>
       <pubDate>Sat, 09 May 2026 01:38:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Planet LabsがNVIDIAモジュール搭載の衛星で、宇宙軌道上でのAIによる航空機の検知に成功【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/45714/</link>
-      <description>Planet Labsは、自社で開発・運用する30cm解像度の地球観測衛星Pelican-4に搭載したNVIDIA Jetsonモジュールを使い、宇宙空間で直接AIによる物体検知を実行することに成功したと発表しました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45714/</guid>
-      <pubDate>Wed, 29 Apr 2026 23:00:10 +0000</pubDate>
     </item>
     <item>
       <title>26台のカメラで地球型惑星を探すESAの宇宙望遠鏡「プラトー」打ち上げ前の環境試験をクリア</title>
@@ -44,6 +30,20 @@
       <pubDate>Mon, 13 Apr 2026 23:00:53 +0000</pubDate>
     </item>
     <item>
+      <title>小惑星「2025 PN7」は新たな地球の準衛星　見た目上 “衛星” な天体</title>
+      <link>https://sorae.info/astronomy/20260510-2025-pn7.html</link>
+      <description>地球と似たような公転軌道を持つ小惑星の中には、「準衛星」と呼ばれる特殊な軌道を取る場合があります。 “衛星” とはいうものの、これは見た目上の問題であり、真の意味での衛星ではありませんが、それでも地球と特殊な関係にあるた… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260510-2025-pn7.html</guid>
+      <pubDate>Sun, 10 May 2026 12:07:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Planet LabsがNVIDIAモジュール搭載の衛星で、宇宙軌道上でのAIによる航空機の検知に成功【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/45714/</link>
+      <description>Planet Labsは、自社で開発・運用する30cm解像度の地球観測衛星Pelican-4に搭載したNVIDIA Jetsonモジュールを使い、宇宙空間で直接AIによる物体検知を実行することに成功したと発表しました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45714/</guid>
+      <pubDate>Wed, 29 Apr 2026 23:00:10 +0000</pubDate>
+    </item>
+    <item>
       <title>2026年5月の星空情報：31日は月内2度目の満月</title>
       <link>https://sorae.info/astronomy/202605-starry-sky.html</link>
       <description>5月、鮮やかな新緑と青空に、爽やかな風が吹き抜ける季節となりました。暑過ぎず寒過ぎず、夜の散歩も楽しい時期で、星空観察もはかどります。 日没頃、西寄りの空には2つの惑星が浮かびます。低い方にあるのが金星、高い方にあるのが… (source: sorae 宇宙へのポータルサイト)</description>
@@ -58,18 +58,18 @@
       <pubDate>Fri, 08 May 2026 12:13:37 +0000</pubDate>
     </item>
     <item>
-      <title>「数回の打上げで市場は一気に拡大するだろう」ElevationSpace、Redwireが提携。バイオ医薬品技術を自社プラットフォームに統合へ【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/45700/</link>
-      <description>衛星内で実験などができる小型宇宙機を開発するElevationSpaceは米国のRedwire Corporationとの締結を発表しました。その提携内容と、RedwireがElevationSpaceに期待することについて、直接お話を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45700/</guid>
-      <pubDate>Thu, 23 Apr 2026 23:21:33 +0000</pubDate>
-    </item>
-    <item>
       <title>ハッブル宇宙望遠鏡が新たに捉えた「かに星雲」　その複雑な構造と25年間の膨張の軌跡</title>
       <link>https://sorae.info/astronomy/20260509-crab-nebula-hubble.html</link>
       <description>こちらは、ハッブル宇宙望遠鏡が観測した超新星残骸「かに星雲（Crab Nebula）」。おうし座の方向、約6500光年先にあります。 「かに星雲」は、西暦1054年に観測された超新星爆発「SN 1054」の残骸として知ら… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260509-crab-nebula-hubble.html</guid>
       <pubDate>Sat, 09 May 2026 12:18:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>「数回の打上げで市場は一気に拡大するだろう」ElevationSpace、Redwireが提携。バイオ医薬品技術を自社プラットフォームに統合へ【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/45700/</link>
+      <description>衛星内で実験などができる小型宇宙機を開発するElevationSpaceは米国のRedwire Corporationとの締結を発表しました。その提携内容と、RedwireがElevationSpaceに期待することについて、直接お話を伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45700/</guid>
+      <pubDate>Thu, 23 Apr 2026 23:21:33 +0000</pubDate>
     </item>
     <item>
       <title>月の大気イオンの変化を「かぐや」のデータから解明　流星群の後には興味深い変化も</title>

@@ -7,76 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 10 May 2026 08:12:28 +0000</lastBuildDate>
-    <item>
-      <title>著名なオープンソース開発者が、ソフトウェアサプライチェーンにおける信頼よりも検証を重視するよう提唱</title>
-      <link>https://www.infoq.com/news/2026/05/stenberg-curl-verification-trust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>2026年3月に公開されたブログ記事の中で、curlの開発者でありリードデベロッパーでもあるダニエル・ステンバーグ氏は、ソフトウェア業界が既知コンポーネントを信頼するという従来の姿勢はもはや適切ではないと主張している。ステンバーグ氏は、ユーザーと組織は利用するソフトウェアを積極的に検証すべきだと述べ、その具体的な例としてcurl自身の手法を挙げている。 執筆：マット・サンダース (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/05/stenberg-curl-verification-trust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 07 May 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年におけるMCPサーバー認証の最適なプロバイダー</title>
-      <link>https://workos.com/blog/best-mcp-server-authentication-providers</link>
-      <description>OAuth 2.1のサポート、エンタープライズID、および統合パスの観点から、主要なMCP認証プロバイダーを実践的に比較します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/best-mcp-server-authentication-providers</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>記事：マイクロサービスベースのASP.NET Coreアプリケーションにおけるサイドカーパターンの実装</title>
-      <link>https://www.infoq.com/articles/asp-net-core-side-car/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>今日のアプリケーションには、監視、ログ記録、構成管理などが必要です。これらの各機能は、コンポーネントまたはサービスとして実装できます。これらの横断的な機能は、アプリケーションに密接に統合できます。この密結合によって共有リソースの効率的な利用が保証される一方で、これらのコンポーネントのいずれかに障害が発生すると、アプリケーション全体が停止してしまう可能性があります。そこで登場するのが、サイドカー設計パターンです。 執筆者：Joydip Kanjilal (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/asp-net-core-side-car/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 08 May 2026 09:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 May 2026 00:27:36 +0000</lastBuildDate>
     <item>
       <title>CloudflareがAIエージェント向けにGitライクなバージョン管理機能「Artifacts」のベータ版をリリース</title>
       <link>https://www.infoq.com/news/2026/05/cloudflare-artifacts-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
       <description>Cloudflareは、AIエージェントにGitスタイルのバージョン管理をもたらす新しいシステム「Artifacts」のベータ版リリースを発表しました。これにより、開発者は従来のコードと同様の厳密さで、エージェントが生成する出力を追跡、管理、進化させることができます。クレイグ・リシ著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/05/cloudflare-artifacts-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>マルチテナントの権限設定を正しく行う方法：Slack、Notion、Linearから学べること</title>
-      <link>https://workos.com/blog/multi-tenant-permissions-slack-notion-linear</link>
-      <description>Slack、Notion、Linearはそれぞれ、テナントごとの役割と権限に関して異なるアプローチを採用しています。ここでは、自社アプリに取り入れる価値のあるパターンをご紹介します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/multi-tenant-permissions-slack-notion-linear</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DPoP（RFC 9449）解説：送信者制約付きOAuthトークンがトークン盗難をいかに無害なものにするか</title>
-      <link>https://workos.com/blog/dpop-rfc-9449-explained</link>
-      <description>エンジニア向けRFC 9449の実践的な解説：JWTの証明、サーバー発行のnonce、ブラウザでの鍵の保存、そしてDPoPがmTLSとどのように関連しているか。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/dpop-rfc-9449-explained</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中間者攻撃：多要素認証を無効にする脅威</title>
-      <link>https://workos.com/blog/adversary-in-the-middle-attacks</link>
-      <description>ユーザーが多要素認証を有効にし、強力なパスワードを使用し、推奨するすべてのセキュリティ対策を遵守しているとしても、攻撃者がユーザーとログインページの間に潜り込み、リアルタイムでトラフィックを中継して有効なセッションクッキーを持ち去ってしまうとしたら、それらはすべて無意味です。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/adversary-in-the-middle-attacks</guid>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>開発者向けCLI認証ガイド</title>
-      <link>https://workos.com/blog/cli-authentication-guide</link>
-      <description>APIキー、トークンファイル、OAuthデバイスフロー、クライアント認証情報を比較。CLIに最適な認証パターンを選択するための実践的なガイド。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/cli-authentication-guide</guid>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>B2B SaaSに必要な10のエンタープライズ機能（そしてそれらを迅速に提供する方法）</title>
-      <link>https://workos.com/blog/enterprise-readiness-checklist-2026</link>
-      <description>SSO、SCIM、MCP、監査ログ、RBAC、その他B2B SaaS企業の準備状況チェックリストに関する2026年版ガイド。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/enterprise-readiness-checklist-2026</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>プレゼンテーション：AI支援エンジニアリングにおけるリーダーシップ</title>
-      <link>https://www.infoq.com/presentations/ai-assisted-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ジャスティン・レオーク氏は、AIがエンジニアリングに及ぼす影響の実態について、逸話にとどまらず、DORAやDXリサーチからの確かなデータに基づいて解説します。パイロットプロジェクトの95%が失敗する「GenAI Divide」について説明し、リーダーがSPACEとCore 4フレームワークを使って真のROIを測定する方法を紹介します。さらに、スピードと品質のバランスの取り方、開発者の不安の軽減、SDLC全体にわたるエージェント型ソリューションの適用方法についても解説します。ジャスティン・レオーク著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/ai-assisted-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 08 May 2026 12:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

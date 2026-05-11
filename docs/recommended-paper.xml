@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 10 May 2026 08:12:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 00:27:35 +0000</lastBuildDate>
     <item>
-      <title>非常に風変わりな褐色矮星が、暖かい木星と高温のスーパーアースと同じ平面上に位置する。</title>
-      <link>https://arxiv.org/abs/2604.23926v1</link>
-      <description>トランジット惑星系では、トランジット観測から惑星のサイズが正確に決定されますが、トランジットタイミング変動 (TTV) の存在は、特に視線速度 (RV) データと組み合わせると、質量と軌道離心率に強力な制約を与えます。これらの測定を合わせると、システムの構造、形成メカニズム、および力学的進化に関する重要な洞察が得られます。本稿では、活動的で若い恒星 (年齢 $\sim$1 Gyr) TOI-201 の長期にわたる RV およびトランジット/TTV モニタリングの結果を示し、5.8 日ごとにトランジットする高温のスーパーアース (SE)、53 日の軌道上の温暖な木星 (WJ)、および約 8 年の軌道上の離心率 (e = 0.622) の低質量褐色矮星 (BD) からなる、並外れた多惑星系を明らかにします。褐色矮星の質量は、推定で M$_{\rm BD}$ $\sim$ 16 木星質量です。 BDは、視線速度（RV）によって特徴づけられたトランジット天体の中で最も周期が長く、内惑星と同一平面上にあることが知られている唯一の天体である。この系の構造は、SEが孤立してガス円盤の最内領域で形成さ (source: arXiv Query: search_query=all:observation AND (all:star OR all:stellar) AND (all:formation OR all:forming OR all:star-forming) AND (all:region OR all:regions OR all:cluster) AND ( (all:planetary AND all:mass) OR (all:brown AND all:dwarf) OR (all:free AND all:floating) )&amp;id_list=&amp;start=0&amp;max_results=20)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.23926v1</guid>
-      <pubDate>Mon, 27 Apr 2026 00:57:53 +0000</pubDate>
+      <title>AGMARL-DKS: 動的なKubernetesスケジューリングのための適応型グラフ強化マルチエージェント強化学習</title>
+      <link>https://arxiv.org/abs/2603.12031v2</link>
+      <description>最先端のクラウドネイティブアプリケーションには、システムの安定性、リソース利用率、および関連コストを効果的にバランスできるインテリジェントなスケジューラが必要です。Kubernetesはデフォルトで実現可能性に基づく配置を提供しますが、最近の研究では、よりインテリジェントなスケジューリング決定のために強化学習（RL）の使用が検討されています。しかし、現在のRLベースのスケジューラには3つの大きな制限があります。1つ目は、これらのスケジューラのほとんどが、大規模な異種クラスタに対してスケーラブルではないモノリシックな集中型エージェントを使用していることです。2つ目は、多目的報酬関数を使用するスケジューラは、目的の単純で静的な線形結合を前提としています。3つ目は、動的な状況に適応的に反応できるストレス認識型スケジューラをこれまでに作成した研究がないことです。現在の研究におけるこれらのギャップに対処するために、適応型グラフ強化型マルチエージェント強化学習動的Kubernetesスケジューラ（AGMARL-DKS）を提案します。AGMARL-DKSは、3つの主要なイノベーションを導入することで (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.12031v2</guid>
+      <pubDate>Thu, 12 Mar 2026 15:09:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
