@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 11 May 2026 00:27:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 09:48:34 +0000</lastBuildDate>
     <item>
-      <title>AGMARL-DKS: 動的なKubernetesスケジューリングのための適応型グラフ強化マルチエージェント強化学習</title>
-      <link>https://arxiv.org/abs/2603.12031v2</link>
-      <description>最先端のクラウドネイティブアプリケーションには、システムの安定性、リソース利用率、および関連コストを効果的にバランスできるインテリジェントなスケジューラが必要です。Kubernetesはデフォルトで実現可能性に基づく配置を提供しますが、最近の研究では、よりインテリジェントなスケジューリング決定のために強化学習（RL）の使用が検討されています。しかし、現在のRLベースのスケジューラには3つの大きな制限があります。1つ目は、これらのスケジューラのほとんどが、大規模な異種クラスタに対してスケーラブルではないモノリシックな集中型エージェントを使用していることです。2つ目は、多目的報酬関数を使用するスケジューラは、目的の単純で静的な線形結合を前提としています。3つ目は、動的な状況に適応的に反応できるストレス認識型スケジューラをこれまでに作成した研究がないことです。現在の研究におけるこれらのギャップに対処するために、適応型グラフ強化型マルチエージェント強化学習動的Kubernetesスケジューラ（AGMARL-DKS）を提案します。AGMARL-DKSは、3つの主要なイノベーションを導入することで (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.12031v2</guid>
-      <pubDate>Thu, 12 Mar 2026 15:09:48 +0000</pubDate>
+      <title>TimeLesSeg：確率的生成モデルによる、コントラストに依存しない横断的および縦断的な多発性硬化症病変の統合セグメンテーション</title>
+      <link>https://arxiv.org/abs/2605.07955v1</link>
+      <description>多発性硬化症（MS）は、臨床的にも放射線学的にも大きな異質性を示し、自動病変セグメンテーションに大きな課題をもたらします。現在のディープラーニングベースの最先端技術は、分布の変化（例：スキャナーの変更）と入力構造の両方の変化に非常に敏感であり、横断的アプローチと縦断的アプローチの現状の分断からも明らかです。本稿では、単一の畳み込みニューラルネットワークを用いて、入力に時間的次元が存在するかどうかにかかわらずMS病変をセグメント化するように設計された、統一されたコントラスト非依存フレームワークであるTimeLesSegを紹介します。本アプローチでは、病理学的事前情報を病変マスクを通してモデル化し、現在のスキャンと共に処理します。横断的処理は、事前情報が利用できないトレーニングケースを空のマスクでモデル化することで可能になり、両方のシナリオでシームレスに動作できます。縦断的データセットの不足と一貫性の欠如を克服するために、形態学的操作によって個々の病変を確率的に変形することで病変の進化パターンをシミュレートし、現実的な過去の時点を生成する新しい生成パイプラインを提案します。並行して、ガウス (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.07955v1</guid>
+      <pubDate>Fri, 08 May 2026 16:19:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
