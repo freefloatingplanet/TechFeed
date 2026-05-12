@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 11 May 2026 09:48:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 08:45:57 +0000</lastBuildDate>
     <item>
-      <title>CloudflareがAIエージェント向けにGitライクなバージョン管理機能「Artifacts」のベータ版をリリース</title>
-      <link>https://www.infoq.com/news/2026/05/cloudflare-artifacts-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Cloudflareは、AIエージェントにGitスタイルのバージョン管理をもたらす新しいシステム「Artifacts」のベータ版リリースを発表しました。これにより、開発者は従来のコードと同様の厳密さで、エージェントが生成する出力を追跡、管理、進化させることができます。クレイグ・リシ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/05/cloudflare-artifacts-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
+      <title>プレゼンテーション：ストリーミングアプリケーションのバックエンドの進化</title>
+      <link>https://www.infoq.com/presentations/streaming-application-aws-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ダニエレ・フラスカ氏は、ドイツのストリーミング大手Joynのアーキテクチャの進化について解説します。脆弱なシングルノード構成から、AWSを使用した堅牢なサーバーレスアーキテクチャへの移行について論じています。データの一貫性を確保するためのハブアンドスポークパターン、影響範囲を縮小するためのセルベースの分離、そしてコスト効率の高いマルチリージョンアクティブ/アクティブ構成を実現するための最適化戦略について、洞察を共有しています。 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/streaming-application-aws-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 11 May 2026 11:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

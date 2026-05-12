@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 09:48:32 +0000</lastBuildDate>
-    <item>
-      <title>日欧が“地球防衛”でタッグ　小惑星「アポフィス」探査ミッションでJAXAとESAが協力へ</title>
-      <link>https://sorae.info/space/20260509-jaxa-esa-apophys.html</link>
-      <description>JAXA（宇宙航空研究開発機構）は2026年5月8日、ESA（ヨーロッパ宇宙機関）との間で「プラネタリーディフェンス」における協力を強化・促進するための協力覚書（MOC）を5月7日にベルリンで締結したことを発表しました。… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260509-jaxa-esa-apophys.html</guid>
-      <pubDate>Sat, 09 May 2026 01:38:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 May 2026 08:45:50 +0000</lastBuildDate>
     <item>
       <title>静岡大学、超小型衛星「STARS-X」の愛称を募集　H3ロケット6号機で6月10日打ち上げ予定</title>
       <link>https://sorae.info/news/20260511-stars-x.html</link>
@@ -77,6 +70,13 @@
       <description>衛星内で実験などができる小型宇宙機を開発するElevationSpaceは米国のRedwire Corporationとの締結を発表しました。その提携内容と、RedwireがElevationSpaceに期待することについて、直接お話を伺いました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45700/</guid>
       <pubDate>Thu, 23 Apr 2026 23:21:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASAの次世代火星ヘリ用ローターがマッハ1の突破に成功　将来の火星探査を変え得る成果</title>
+      <link>https://sorae.info/space/20260511-next-gen-mars-helicopter.html</link>
+      <description>万が一の事態に備えて金属板で覆われ、厳重に密閉されたチャンバー内で、目にもとまらぬ速さで回転し始めるローターブレード。NASA（アメリカ航空宇宙局）のジェット推進研究所（JPL）が公開したこちらの動画には、次世代の火星探… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260511-next-gen-mars-helicopter.html</guid>
+      <pubDate>Mon, 11 May 2026 11:56:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
