@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 08:45:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 08:49:39 +0000</lastBuildDate>
+    <item>
+      <title>日欧が“地球防衛”でタッグ　小惑星「アポフィス」探査ミッションでJAXAとESAが協力へ</title>
+      <link>https://sorae.info/space/20260509-jaxa-esa-apophys.html</link>
+      <description>JAXA（宇宙航空研究開発機構）は2026年5月8日、ESA（ヨーロッパ宇宙機関）との間で「プラネタリーディフェンス」における協力を強化・促進するための協力覚書（MOC）を5月7日にベルリンで締結したことを発表しました。… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260509-jaxa-esa-apophys.html</guid>
+      <pubDate>Sat, 09 May 2026 01:38:57 +0000</pubDate>
+    </item>
     <item>
       <title>静岡大学、超小型衛星「STARS-X」の愛称を募集　H3ロケット6号機で6月10日打ち上げ予定</title>
       <link>https://sorae.info/news/20260511-stars-x.html</link>
@@ -28,13 +35,6 @@
       <description>地球と似たような公転軌道を持つ小惑星の中には、「準衛星」と呼ばれる特殊な軌道を取る場合があります。 “衛星” とはいうものの、これは見た目上の問題であり、真の意味での衛星ではありませんが、それでも地球と特殊な関係にあるた… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260510-2025-pn7.html</guid>
       <pubDate>Sun, 10 May 2026 12:07:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>「パラメトリック保険」は衛星利用ビジネスの注目ワードに。地球のあらゆる動きを指標化できる衛星データ×保険の未来</title>
-      <link>https://sorabatake.jp/45652/</link>
-      <description>衛星データで災害や積雪、船舶数まで指標化し、査定不要で即時の保険金支払いができる？衛星データを利活用が期待される「パラメトリック保険」の仕組みと可能性を、国内外の事例と合わせて解説します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45652/</guid>
-      <pubDate>Mon, 13 Apr 2026 23:00:53 +0000</pubDate>
     </item>
     <item>
       <title>Planet LabsがNVIDIAモジュール搭載の衛星で、宇宙軌道上でのAIによる航空機の検知に成功【宇宙ビジネスニュース】</title>
