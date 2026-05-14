@@ -7,34 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 08:49:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 08:42:30 +0000</lastBuildDate>
     <item>
-      <title>AI駆動PMの5原則と12の具体例 — Claude Code × Obsidian</title>
-      <link>https://zenn.dev/assign/articles/4ba3d41bf59a61</link>
-      <description>はじめに
-PM業務をAIエージェントで効率化する事例は近頃よく見るようになりました。私もClaude CodeがリリースされてからPM業務もAIで管理しはじめ、現在は10ヶ月ほど経過し陥りがちな問題や守るべき原則などが見えてきたため、ここで紹介させていただきます。
-本記事では業務をAIエージェントで回すために重要と考えている5つの原則と、それを実践した12の具体例を紹介します。
-具体例としては、コンテキストの自動収集、プロジェクトの自律実行、スプリントタスクの一括起票といったケースでAIを利用しています。
-
- 構成図
-原則を話すにあたって、先に構成図を示した方が理解しやすいため掲示し... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/assign/articles/4ba3d41bf59a61</guid>
-      <pubDate>Mon, 11 May 2026 01:35:00 +0000</pubDate>
+      <title>AIのハーネスを徹底的に整えたら、レビューもシステム運用も自動化され、非エンジニアも開発に参加できるようになった話 ── 連載総論</title>
+      <link>https://zenn.dev/aircloset/articles/d416342f46f16b</link>
+      <description>みなさまこんにちは！エアークローゼットでCTOをしている辻です。
+これまで Zenn では 社内MCP群の全体像、DB Graph MCP、Biz Graph、Google Meet 録画のデータ化、Sandbox MCP、MCPの退避パターン、そして直近のAgentic Graph RAG MCPのススメと、社内向けの個別アプリ・MCPサーバー・設計原則を順に紹介してきました。
+これらは全部、cortex と名付けた社内向けの AI 開発プラットフォームの上で動いています。今回は、その cortex そのものについて書きます。今回から数回に分けて、その仕組みを公開していく予定で、本記事... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aircloset/articles/d416342f46f16b</guid>
+      <pubDate>Tue, 12 May 2026 00:31:05 +0000</pubDate>
     </item>
     <item>
-      <title>Slack上でインフラのトラブルシューティングができるAgentの設計と実装</title>
-      <link>https://zenn.dev/ubie_dev/articles/b712ec880ac038</link>
-      <description>はじめに
-Ubieでプラットフォームエンジニア兼SREをしているonoteruです。
-今回は、Slackからメンションするだけでインフラの調査や問い合わせ対応を自律的にこなしてくれるBot「Infra Agent」について紹介します。本記事ではInfra Agentの仕組みに加えて、自律駆動するエージェントの挙動をネットワークレベルで安全に制御する1つのアプローチを紹介します。
-
-
- 背景
-
- Ubieインフラの運用課題
-Infra Agentを作った背景として、まずUbieのインフラ運用で日常的に発生していた課題について触れておきます。UbieのSREチームには、調査や問い合わせ対... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/b712ec880ac038</guid>
-      <pubDate>Mon, 11 May 2026 09:55:53 +0000</pubDate>
+      <title>AIを使ったカンニングが蔓延したため試験中に教授が教室を離れるという規定が133年ぶりに廃止されたと学生新聞が報じる</title>
+      <link>https://gigazine.net/news/20260514-ai-cheat-princeton/</link>
+      <description>アメリカのニュージャージー州に本部を置くプリンストン大学では、1893年から「学生が期末試験を受ける際に教授は教室を離れ、学生は不正行為をしないことを誓約する書面を提出する」という名誉規定が定められていました。学生を信頼し尊重することを目的とした規定でしたが、AIにより小型のデバイスで簡単に重要な情報... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20260514-ai-cheat-princeton/</guid>
+      <pubDate>Thu, 14 May 2026 03:49:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>「GitHubから離れる」—オランダ政府と個人開発者が同時にForgejoを選んだ理由</title>
+      <link>https://techfeed.io/entries/6a04e692b77ff536fc1f90d6?from=rss</link>
+      <description>5月13日、Jorijn van der Lootが「Why I'm leaving GitHub for Forgejo」と題した記事を公開した。この記事では、GitHub から自前ホストのForgejoへ完全移行する理由と実装方法について詳しく紹介されている。以下に、その内容を紹介する。オランダ政府も同じ結論に至った注目すべきは、著者だけでなくオランダ政府も同じ判断を下している点だ。2026年4月27日、オランダ内務省は政府のオープンソースコード用プラットフォーム「**code.overheid.nl**」を立ち上げた。これは自前ホストのForgejoインスタンスで、プロジェクトマネージャーのBoris Van Hoytema氏は「省が所有する場所にソースコードを法的に公開する必要がある」と説明している。政府がGitLabではなくForgejoを選んだ理由は、完全にオープンソースであり、デジタル自治に必要なすべての自由を提供するからだ。これは個人開発者の判断と政府の判断が一致した興味深い事例であり、GitHub代替への移行がもはやニッチな動きではないことを示している。GitHub離 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a04e692b77ff536fc1f90d6?from=rss</guid>
+      <pubDate>Wed, 13 May 2026 21:01:06 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】古いPCでのゲーム性能が5倍向上 — Linuxスケジューラー最適化でSandy Bridge世代も現役復帰か</title>
@@ -85,22 +80,11 @@ AIエージェントがどんどんPRを作ってくれる。けれど、人間�
       <pubDate>Tue, 12 May 2026 21:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>コンパニオンAIの記憶を、普通のRAGじゃない設計にした話</title>
-      <link>https://zenn.dev/haru0416/articles/843c6c29c04c7c</link>
-      <description>コンパニオンを名乗るAIには記憶が要る。何度も会って、前回の文脈を覚えていて、こちらが変わっていくと向こうも少しずつ変わっていく — これが続かないと、毎回「はじめまして」のアシスタントと変わらない。
-ところがいざ作りはじめると、いま主流のRAG文献はあまり助けてくれなかった。RAGの議論はだいたい「ドキュメントを検索して prompt に貼る」をうまくやる話で、人と人の継続的なやりとりに必要な部分は別にあった。
-Asterel ではここを正面から作り直していて、その輪郭を共有しておきたい。普通のRAGじゃない設計にしたところを、いくつか順に並べる。
-
- なぜ普通のRAGでは足りないのか... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/haru0416/articles/843c6c29c04c7c</guid>
-      <pubDate>Tue, 12 May 2026 02:05:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>英語のテキストファイルがシェルスクリプトに — shebang行でLLMを呼び出す斬新な手法が話題に</title>
-      <link>https://techfeed.io/entries/6a0245d4303157fe1d4db896?from=rss</link>
-      <description>5月11日、Simon Willisonが「Using LLM in the shebang line of a script」と題した記事を公開した。英語の文章を書いて保存し、それをそのまま実行するとAIが処理してくれる — そんな魔法のような手法が注目を集めている。従来のプログラミングでは、特定の構文やコマンドを覚える必要があったが、この手法では自然言語のプロンプトをそのままスクリプトとして実行できる。このアイデアを提案したのは、Django共同創設者としても知られるSimon Willisonだ。彼が開発したLLM CLI ツールは、コマンドラインから様々なLLMモデルを統一的に操作できるPythonツールで、OpenAI GPT、Claude、Geminiなどの主要モデルに対応している。今回の手法は、このツールの新たな活用方法として提案された。shebang行でLLMを呼び出すメカニズムUnix系システムでは、スクリプトファイルの先頭に「shebang」（#!）を付けることで実行時のインタープリターを指定できる。例えば#!/bin/bashならBashシェル、#!/usr/bi (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a0245d4303157fe1d4db896?from=rss</guid>
-      <pubDate>Mon, 11 May 2026 21:10:44 +0000</pubDate>
+      <title>「AIがコード75%生成」の裏側 — 強制導入された現場エンジニアたちの「脳が腐っていく」という告白</title>
+      <link>https://techfeed.io/entries/6a04e5dab77ff536fc1f90cd?from=rss</link>
+      <description>5月13日、Emanuel Maibergが「Software Developers Say AI Is Rotting Their Brains」と題した記事を公開した。「LaravelのAPIの実装方法を忘れてしまい、恐ろしくなった」 — 長年のソフトウェアエンジニアがこう告白している。AI導入を強制された開発現場で今、深刻な問題が浮上している。経営陣が「生産性向上」を謳う一方で、現場の開発者たちは「脳の腐敗」と呼ぶべき現象に直面しているのだ。開発者が語る「脳の腐敗」現象最も深刻なのは、AIへの依存によって長年培ったスキルが劣化する現象だ。これは認知科学で「認知的負債」や「認知的萎縮」と呼ばれる現象として研究されている。小規模なWeb開発会社の開発者は深刻な状況を報告している： (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a04e5dab77ff536fc1f90cd?from=rss</guid>
+      <pubDate>Wed, 13 May 2026 20:58:02 +0000</pubDate>
     </item>
     <item>
       <title>ソフトウェアの「設計原則」を、なぜ一部のエンジニアは生理的に嫌うのか</title>

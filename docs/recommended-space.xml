@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 08:49:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 08:42:33 +0000</lastBuildDate>
     <item>
       <title>日欧が“地球防衛”でタッグ　小惑星「アポフィス」探査ミッションでJAXAとESAが協力へ</title>
       <link>https://sorae.info/space/20260509-jaxa-esa-apophys.html</link>
@@ -21,13 +21,6 @@
       <description>静岡大学は2026年5月11日、同大学が開発した超小型衛星「STARS-X」の愛称募集を開始しました。応募期間は5月18日までで、集まった愛称は静岡大学による選考を経て、打ち上げ時期に合わせて公表される予定です。 STA… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/news/20260511-stars-x.html</guid>
       <pubDate>Mon, 11 May 2026 06:59:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>26台のカメラで地球型惑星を探すESAの宇宙望遠鏡「プラトー」打ち上げ前の環境試験をクリア</title>
-      <link>https://sorae.info/space/20260508-esa-plato.html</link>
-      <description>鮮やかな青やマゼンタに輝くレンズ群。ずらりと並ぶレンズが異彩を放つこの画像は、ESA（ヨーロッパ宇宙機関）が開発を進めている宇宙望遠鏡「Plato（プラトー）」の26台のカメラを間近で捉えたものです。 ESAは2026年… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260508-esa-plato.html</guid>
-      <pubDate>Thu, 07 May 2026 23:27:11 +0000</pubDate>
     </item>
     <item>
       <title>小惑星「2025 PN7」は新たな地球の準衛星　見た目上 “衛星” な天体</title>
@@ -56,6 +49,13 @@
       <description>こちらは、ハッブル宇宙望遠鏡が観測した超新星残骸「かに星雲（Crab Nebula）」。おうし座の方向、約6500光年先にあります。 「かに星雲」は、西暦1054年に観測された超新星爆発「SN 1054」の残骸として知ら… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260509-crab-nebula-hubble.html</guid>
       <pubDate>Sat, 09 May 2026 12:18:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>宇宙の “環境音” はどんな音？　「もしも重力波が聞こえたら」の答え</title>
+      <link>https://sorae.info/astronomy/20260513-what-does-the-universe-sound-like.html</link>
+      <description>宇宙には空気がないため、普通の意味での音は存在しません。ただ、宇宙はブラックホールや中性子星の合体で生じる時空のさざ波「重力波」に満ちています。そして重力波の周波数は、人間が音として聞き取れる値を取っています。ではもし、… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260513-what-does-the-universe-sound-like.html</guid>
+      <pubDate>Wed, 13 May 2026 12:29:30 +0000</pubDate>
     </item>
     <item>
       <title>神奈川県、衛星データ活用プロジェクトを募集　県内の宇宙ビジネス創出を支援</title>

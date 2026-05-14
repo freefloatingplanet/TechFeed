@@ -7,15 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 13 May 2026 08:49:41 +0000</lastBuildDate>
-    <item>
-      <title>ビザンチン型攻撃者によるエージェント型AIの分散ガバナンスに対する攻撃と緩和策</title>
-      <link>https://arxiv.org/abs/2605.12364v1</link>
-      <description>エージェント型AIガバナンスは、エージェントが所有者の通信およびインタラクションポリシーに従うことを保証し、悪意のあるエージェントからの攻撃から保護する、エージェント型AIインフラストラクチャの重要な構成要素です。最先端のソリューションであるSAGAは、論理的に中央集権化された信頼ポイントであるプロバイダを前提としています。プロバイダは、ユーザーおよびエージェント情報のレポジトリとして機能し、ポリシーを積極的に適用します。SAGAは悪意のあるエージェントから保護しますが、プロトコルから逸脱する悪意のあるプロバイダに対して脆弱であり、IDおよびアクセス制御インフラストラクチャのセキュリティを損なう可能性があります。内部脅威の影響を受けやすいプライベートクラウドとパブリッククラウドの両方に展開すると、プロバイダが侵害されるリスクがさらに高まります。
-
-本稿では、さまざまなシステムコンポーネントと現実的な展開を考慮に入れ、侵害されたプロバイダから実行可能な攻撃を分析します。エージェントの帰属可能性を損なう、プライベートデータを抽出する、アクセス制御を回避するなど、壊滅的な影響を与える具体的な (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.12364v1</guid>
-      <pubDate>Tue, 12 May 2026 16:33:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 May 2026 08:42:33 +0000</lastBuildDate>
   </channel>
 </rss>

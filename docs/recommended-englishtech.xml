@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 13 May 2026 08:49:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 08:42:34 +0000</lastBuildDate>
     <item>
-      <title>プレゼンテーション：ストリーミングアプリケーションのバックエンドの進化</title>
-      <link>https://www.infoq.com/presentations/streaming-application-aws-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ダニエレ・フラスカ氏は、ドイツのストリーミング大手Joynのアーキテクチャの進化について解説します。脆弱なシングルノード構成から、AWSを使用した堅牢なサーバーレスアーキテクチャへの移行について論じています。データの一貫性を確保するためのハブアンドスポークパターン、影響範囲を縮小するためのセルベースの分離、そしてコスト効率の高いマルチリージョンアクティブ/アクティブ構成を実現するための最適化戦略について、洞察を共有しています。 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/streaming-application-aws-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 11 May 2026 11:45:00 +0000</pubDate>
+      <title>Kubernetes v1.36：AIワークロードのサポート成熟に伴い、セキュリティのデフォルト設定が強化される</title>
+      <link>https://www.infoq.com/news/2026/05/kubernetes-1-36-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>2026年にリリースされたKubernetes v1.36には、セキュリティ、AIワークロード、APIスケーラビリティに焦点を当てた70の機能強化が含まれています。一般提供開始となる主要機能は、ユーザーネームスペース、ミューテーションアドミッションポリシー、きめ細かなKubelet API認証です。このリリースでは、ワークロード管理にも対応し、AIリソース割り当てのための新機能も導入されています。執筆：マット・サンダース (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/05/kubernetes-1-36-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 14 May 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
