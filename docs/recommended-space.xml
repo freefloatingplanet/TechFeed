@@ -7,13 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 08:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 08:53:54 +0000</lastBuildDate>
     <item>
-      <title>日欧が“地球防衛”でタッグ　小惑星「アポフィス」探査ミッションでJAXAとESAが協力へ</title>
-      <link>https://sorae.info/space/20260509-jaxa-esa-apophys.html</link>
-      <description>JAXA（宇宙航空研究開発機構）は2026年5月8日、ESA（ヨーロッパ宇宙機関）との間で「プラネタリーディフェンス」における協力を強化・促進するための協力覚書（MOC）を5月7日にベルリンで締結したことを発表しました。… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260509-jaxa-esa-apophys.html</guid>
-      <pubDate>Sat, 09 May 2026 01:38:57 +0000</pubDate>
+      <title>和歌山・田辺工業高校で宇宙産業人材育成へ　Space BDの「HURDLES」高校導入は初の事例</title>
+      <link>https://sorae.info/biz/20260511-space-bd-hurdles.html</link>
+      <description>宇宙関連サービスを展開するSpace BD株式会社は2026年5月11日、和歌山県立田辺工業高等学校で、宇宙産業人材実践型育成プログラム「HURDLES（ハードルズ）」を提供すると発表しました。和歌山県の令和8年度予算事… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/biz/20260511-space-bd-hurdles.html</guid>
+      <pubDate>Mon, 11 May 2026 08:21:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASAが「アルテミスIII」の暫定計画を発表　地球低軌道で月着陸船とのドッキングテストなど</title>
+      <link>https://sorae.info/space/20260515-artemis-iii.html</link>
+      <description>NASA（アメリカ航空宇宙局）は2026年5月13日付で、アメリカが主導する有人月探査計画「Artemis（アルテミス）」の次なる有人ミッション「Artemis III（アルテミスIII）」について、暫定的なミッション計… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260515-artemis-iii.html</guid>
+      <pubDate>Thu, 14 May 2026 08:39:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>ispaceが月周回衛星を活用した通信・測位サービスを発表。地球と月をつなぐハブ、月周回衛星があれば何ができる？【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/45639/</link>
+      <description>2026年3月27日、ispaceは月周回衛星を活用した通信・測位サービスの立ち上げを発表しました。「地球と月面」をつなぐハブとして機能していくのか、今後の動向に注目です。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45639/</guid>
+      <pubDate>Mon, 27 Apr 2026 23:00:11 +0000</pubDate>
     </item>
     <item>
       <title>静岡大学、超小型衛星「STARS-X」の愛称を募集　H3ロケット6号機で6月10日打ち上げ予定</title>
@@ -35,20 +49,6 @@
       <description>Planet Labsは、自社で開発・運用する30cm解像度の地球観測衛星Pelican-4に搭載したNVIDIA Jetsonモジュールを使い、宇宙空間で直接AIによる物体検知を実行することに成功したと発表しました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45714/</guid>
       <pubDate>Wed, 29 Apr 2026 23:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>パラグアイが「アルテミス合意」に署名　67か国目の署名国に</title>
-      <link>https://sorae.info/space/20260508-artemis-accords-paraguay.html</link>
-      <description>NASA（アメリカ航空宇宙局）は2026年5月7日、新たにパラグアイが「アルテミス合意」に署名したことを発表しました。署名式は現地時間同日午前、パラグアイの首都アスンシオンで行われ、AEP（パラグアイ宇宙庁）のオスバルド… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260508-artemis-accords-paraguay.html</guid>
-      <pubDate>Fri, 08 May 2026 12:13:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>ハッブル宇宙望遠鏡が新たに捉えた「かに星雲」　その複雑な構造と25年間の膨張の軌跡</title>
-      <link>https://sorae.info/astronomy/20260509-crab-nebula-hubble.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡が観測した超新星残骸「かに星雲（Crab Nebula）」。おうし座の方向、約6500光年先にあります。 「かに星雲」は、西暦1054年に観測された超新星爆発「SN 1054」の残骸として知ら… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260509-crab-nebula-hubble.html</guid>
-      <pubDate>Sat, 09 May 2026 12:18:53 +0000</pubDate>
     </item>
     <item>
       <title>宇宙の “環境音” はどんな音？　「もしも重力波が聞こえたら」の答え</title>

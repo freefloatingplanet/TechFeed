@@ -7,22 +7,44 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 08:42:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 08:53:51 +0000</lastBuildDate>
     <item>
-      <title>AIのハーネスを徹底的に整えたら、レビューもシステム運用も自動化され、非エンジニアも開発に参加できるようになった話 ── 連載総論</title>
-      <link>https://zenn.dev/aircloset/articles/d416342f46f16b</link>
-      <description>みなさまこんにちは！エアークローゼットでCTOをしている辻です。
-これまで Zenn では 社内MCP群の全体像、DB Graph MCP、Biz Graph、Google Meet 録画のデータ化、Sandbox MCP、MCPの退避パターン、そして直近のAgentic Graph RAG MCPのススメと、社内向けの個別アプリ・MCPサーバー・設計原則を順に紹介してきました。
-これらは全部、cortex と名付けた社内向けの AI 開発プラットフォームの上で動いています。今回は、その cortex そのものについて書きます。今回から数回に分けて、その仕組みを公開していく予定で、本記事... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aircloset/articles/d416342f46f16b</guid>
-      <pubDate>Tue, 12 May 2026 00:31:05 +0000</pubDate>
+      <title>AIにコードを書かせ続けて気づいた、エンジニアの"分かったつもり"の怖さ</title>
+      <link>https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+「なんでここでこの型を使ってるの？」
+同僚にそう聞かれたとき、自分の口から出たのは「一旦調べさせてください」だった。実装を担当しているのは自分なのに、その場でパッと説明できない。動いている。テストも通っている。でも、なぜそう書いたのかと聞かれると言葉に詰まる。A... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 13 May 2026 23:06:19 +0000</pubDate>
     </item>
     <item>
-      <title>AIを使ったカンニングが蔓延したため試験中に教授が教室を離れるという規定が133年ぶりに廃止されたと学生新聞が報じる</title>
-      <link>https://gigazine.net/news/20260514-ai-cheat-princeton/</link>
-      <description>アメリカのニュージャージー州に本部を置くプリンストン大学では、1893年から「学生が期末試験を受ける際に教授は教室を離れ、学生は不正行為をしないことを誓約する書面を提出する」という名誉規定が定められていました。学生を信頼し尊重することを目的とした規定でしたが、AIにより小型のデバイスで簡単に重要な情報... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20260514-ai-cheat-princeton/</guid>
-      <pubDate>Thu, 14 May 2026 03:49:21 +0000</pubDate>
+      <title>AIエージェント時代にゼロ知識証明が必要な理由</title>
+      <link>https://zenn.dev/komlock_lab/articles/zero-knowledge-proof-2026</link>
+      <description>はじめに
+こんにちは！ブロックチェーン×AI Agentで自律経済圏を創るKomlock labでエンジニアをしている小原（@brto_0224）です。
+ゼロ知識証明（ZKP: Zero-Knowledge Proof）、色んなところで聞きますよね。ZK Rollup、zk-SNARK、ZK Payments……。
+Vitalikが「AIエージェント時代の決済標準はZK Paymentsになる」と言っていて、さすがにちゃんと理解しておきたいなと思いました。ただ調べてみると、自分も「何がゼロ知識なのか」を本質的にわかってなかった気がします。
+ゼロ知識証明を厳密に理解するには大学院レベル... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/komlock_lab/articles/zero-knowledge-proof-2026</guid>
+      <pubDate>Wed, 13 May 2026 08:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ログラスにおけるAI時代の新卒エンジニアの研修設計</title>
+      <link>https://zenn.dev/ohnoeight/articles/737f3226df1fb8</link>
+      <description>!
+この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の143週目の記事です！
+3年間連続達成まで残り16週となりました！
+
+こんにちは、株式会社ログラス（以下、ログラス）技術基盤本部の大野です。
+現在、私は26卒のエンジニア研修の設計・運営担当を担っています。数ヶ月前から準備を始め、今まさに研修の真っ最中です。研修設計を担う中で私が考えてきたことを整理します。
+本記事では、具体的な研修については言及せず、研修設計の思想についてお話します。
+
+ 対象読者
+
+社員の育成・若手エンジニア育成を担うマネージャー・メンター
+エンジニアに限らず、新卒や若手... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ohnoeight/articles/737f3226df1fb8</guid>
+      <pubDate>Thu, 14 May 2026 10:17:57 +0000</pubDate>
     </item>
     <item>
       <title>「GitHubから離れる」—オランダ政府と個人開発者が同時にForgejoを選んだ理由</title>
@@ -30,13 +52,6 @@
       <description>5月13日、Jorijn van der Lootが「Why I'm leaving GitHub for Forgejo」と題した記事を公開した。この記事では、GitHub から自前ホストのForgejoへ完全移行する理由と実装方法について詳しく紹介されている。以下に、その内容を紹介する。オランダ政府も同じ結論に至った注目すべきは、著者だけでなくオランダ政府も同じ判断を下している点だ。2026年4月27日、オランダ内務省は政府のオープンソースコード用プラットフォーム「**code.overheid.nl**」を立ち上げた。これは自前ホストのForgejoインスタンスで、プロジェクトマネージャーのBoris Van Hoytema氏は「省が所有する場所にソースコードを法的に公開する必要がある」と説明している。政府がGitLabではなくForgejoを選んだ理由は、完全にオープンソースであり、デジタル自治に必要なすべての自由を提供するからだ。これは個人開発者の判断と政府の判断が一致した興味深い事例であり、GitHub代替への移行がもはやニッチな動きではないことを示している。GitHub離 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a04e692b77ff536fc1f90d6?from=rss</guid>
       <pubDate>Wed, 13 May 2026 21:01:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】古いPCでのゲーム性能が5倍向上 — Linuxスケジューラー最適化でSandy Bridge世代も現役復帰か</title>
-      <link>https://techfeed.io/entries/6a03950cb77ff536fc1ed960?from=rss</link>
-      <description>5月12日、Phoronixが「Linux Scheduler Work Helping Boost Gaming Performance On Old "Potato" Hardware」と題した記事を公開した。この記事では、Linuxスケジューラーの最適化により古いハードウェアでのゲーミング性能を大幅に向上させる取り組みについて詳しく紹介されている。以下に、その内容を紹介する。"Potato"ハードウェアでゲーム性能が劇的改善Intel所属の著名なLinuxカーネルエンジニアであるPeter Zijlstra氏が、Linuxスケジューラーのパフォーマンス向上を目的としたパッチセットに取り組んでいる。同氏が「potato（ポテト）」と表現した古いハードウェア、具体的にはIntel Sandy Bridge世代のデスクトップCPUとAMD Radeon RX 580 Polarisグラフィックスの組み合わせで、ゲーム性能の大幅な改善を実現している。この最適化が注目される背景には、現代のCPUにおけるコア数の増加がある。多コア環境において、既存のスケジューリングコードには大きな非効率性が (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a03950cb77ff536fc1ed960?from=rss</guid>
-      <pubDate>Tue, 12 May 2026 21:01:00 +0000</pubDate>
     </item>
     <item>
       <title>コードレビューのボトルネックを"する側"と"される側"の両面から解消する</title>
@@ -54,30 +69,12 @@ AIエージェントがどんどんPRを作ってくれる。けれど、人間�
       <pubDate>Tue, 12 May 2026 04:30:52 +0000</pubDate>
     </item>
     <item>
-      <title>大学システムのアーキテクチャを見直した話</title>
-      <link>https://zenn.dev/xtm_blog/articles/91099d48d8f130</link>
-      <description>はじめに
-現在、私たちクロステックマネジメント（京都芸術大学）では、サービス利用者1,000万人規模を見据えた「学修・学務プロセスを支えるシステム」の開発に取り組んでいます。
-ここでいう学修・学務プロセスとは、学生の履修、授業、課題、成績、各種手続きなど、大学における学びと運営を支える一連の業務プロセスを指します。
-その中で私は、現在、システムの基盤設計を担うチームの一員として、「多くのユーザーに継続的かつ安定的に利用される仕組みを、どのように実現するか」を日々検討しています。
-本記事では、そうした前提のもと、システムアーキテクチャとして当初検討していたマイクロサービスアーキテクチャ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/xtm_blog/articles/91099d48d8f130</guid>
-      <pubDate>Tue, 12 May 2026 00:04:43 +0000</pubDate>
-    </item>
-    <item>
       <title>ちょっとしたアイデアをAIで長文記事にして公開するのをやめろ</title>
       <link>https://zenn.dev/todesking/articles/fba4cc93baf0a9</link>
       <description>「AIで記事を書いた」こと自体を問題にしたいわけではない。問題は、ちょっとした思いつき、数行で済む観察、まだ検証していない仮説を、生成AIで数千字の“記事っぽいもの”に膨らませ、そのまま公開する態度にある。
 本質的に言いたいことは少ない。たとえば「この設計は保守しづらい」「このサービスの料金体系は不透明だ」「この映画のこの場面が気になった」。それ自体はよい。短いメモとして価値がある場合もある。しかし、そこにAIで「背景」「歴史」「メリット・デメリット」「今後の展望」「まとめ」を機械的に足していくと、重要な一文の周囲に、自明な説明、関係の薄い一般論、薄い比喩、誰にも届かない結論が堆積する。... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/todesking/articles/fba4cc93baf0a9</guid>
       <pubDate>Tue, 12 May 2026 14:08:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon社員がAI使用量を水増しする「tokenmaxxing」横行 — 生産性指標のゲーム化が招く本末転倒</title>
-      <link>https://techfeed.io/entries/6a0394d0b77ff536fc1ed952?from=rss</link>
-      <description>5月12日、Ars Technicaの記者が「Amazon employees are "tokenmaxxing" due to pressure to use AI tools」と題した記事を公開した。Amazon社内でAIツール使用のプレッシャーによって従業員が「tokenmaxxing」と呼ばれる行動を取っている現象が明らかになり、企業AI導入の予期しない副作用として注目を集めている。2024年以降のGenerative AI企業導入ブームで、多くの企業がAI活用促進のため使用統計の可視化を導入している。しかし、本来の生産性向上ではなく数値向上のためのゲーム化を招くリスクが、大手テック企業でも現実となった。「Tokenmaxxing」— 統計ゲーム化の実態「Tokenmaxxing」とは、実際の生産性向上とは無関係に、AIツールのトークン使用量を人為的に増やして社内統計や順位表で上位に入ろうとする行為だ。この現象はAmazonに限らず、Meta社でも同様の行動が確認されており、企業AI導入における新たな課題として浮上している。Amazonは当初、従業員のAI使用状況をチーム全体 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a0394d0b77ff536fc1ed952?from=rss</guid>
-      <pubDate>Tue, 12 May 2026 21:00:00 +0000</pubDate>
     </item>
     <item>
       <title>「AIがコード75%生成」の裏側 — 強制導入された現場エンジニアたちの「脳が腐っていく」という告白</title>
@@ -87,16 +84,36 @@ AIエージェントがどんどんPRを作ってくれる。けれど、人間�
       <pubDate>Wed, 13 May 2026 20:58:02 +0000</pubDate>
     </item>
     <item>
-      <title>ソフトウェアの「設計原則」を、なぜ一部のエンジニアは生理的に嫌うのか</title>
-      <link>https://zenn.dev/torao/articles/20260502-differences-in-engrs-cognitive-strategies</link>
-      <description>エンジニアの認知戦略はなぜすれ違うのか
-ソフトウェアエンジニアとして業界に長くいると、現場や SNS 上でのエンジニアどうしの「すれ違い」を何度も目にします。技術力の優劣ではない、性格や趣味嗜好の問題とも少し違う、なのにこの「すれ違い」は、驚くほど普遍的に業界内に存在しています。
-この記事では、わたしがそのような「すれ違い」を何十年も観測し続けた末にたどり着いた一つの認知モデルに基づく見解です。科学的に証明された理論ではありません。しかし、この視点を持つだけで、日常の摩擦の見え方がかなり変わるはずです。
+      <title>Amazon S3 Vectors で、ベクトル DB を立てずに画像検索 PoC を作る</title>
+      <link>https://zenn.dev/aldagram_tech/articles/3318a924758852</link>
+      <description>こんにちは！アルダグラムでエンジニアをしているやすまさです。
+建設・施工管理 SaaS「KANNA」では、現場写真が日々大量にアップロードされています。これらを「足場の写真」「配筋の写真」のように 自然言語で検索したい という要望は以前からありましたが、ベクトル DB を一台立てて運用する、というのは PoC のハードルとしては少し重めでした。
+そこで、2025 年に一般提供が始まった Amazon S3 Vectors を使って、KANNA の現場写真をテキストで意味検索するプロトタイプを作ってみました。本記事ではその構成と、実際に作って分かった所感を共有します。
 
- チーム内での症状
-チェックリスト: あなたのチームで以下の状況を見たことはあ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/torao/articles/20260502-differences-in-engrs-cognitive-strategies</guid>
-      <pubDate>Sun, 10 May 2026 22:00:06 +0000</pubDate>
+ TL;DR
+
+A... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aldagram_tech/articles/3318a924758852</guid>
+      <pubDate>Thu, 14 May 2026 10:44:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI時代に生きる若手エンジニアが、AIを使う上で備えておくべき知識</title>
+      <link>https://zenn.dev/acntechjp/articles/ed556516a84934</link>
+      <description>はじめに
+生成AIが当たり前になった今、「AIを使えること」はもはやアドバンテージではなくなりつつあります。
+画像、動画、音声、文章、リサーチ、プログラミング——「なんでもできる」は言い過ぎにしても、自分の能力だけではできなかったことがAIのおかげでできるようになった場面は確実に増えました。ちょっと指示を出せば何かしら形になるし、雑な指示でも「おっ、すごい」と思える出力が返ってくることもあります。
+一方で、
+「期待どおりのものを、短時間で作れている」と胸を張って言える人はどれくらいいるのでしょうか？
+イメージ通りにいかなくて、結局プロンプトを何十回も書き直す。出力を手作業で直している... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/ed556516a84934</guid>
+      <pubDate>Wed, 13 May 2026 13:43:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>DNSクエリを完全匿名化するRustツール「Numa」— アカウント不要でApple iCloud Private Relayと同等の仕組みを実現</title>
+      <link>https://techfeed.io/entries/6a06387eb77ff536fc207299?from=rss</link>
+      <description>5月14日、Numa開発者が「Anonymous DNS without an account: shipping ODoH client + relay in one Rust binary」と題した記事を公開した。近年、政府による大規模監視やISPによるDNS履歴販売が問題視される中、DNSクエリのプライバシー保護への関心が高まっている。この記事では、アカウント不要でDNSクエリを匿名化するODoH（Oblivious DNS over HTTPS）をRustで実装した技術について詳しく紹介されている。プライバシーを保護するDNSの課題現在の一般的なDNS環境では、プライバシー保護に根本的な問題がある。Pi-holeやAdGuard Homeなどの転送リゾルバを使用している場合、すべてのクエリが単一の事業者を経由し、ユーザーのIPアドレスと問い合わせ内容の両方が把握される。一方、Unboundのような再帰リゾルバに切り替えた場合は、権威DNSサーバーにIPアドレスが露出してしまう。DoH（DNS over HTTPS）やDoTといった技術は通信の暗号化を行うが、「誰が何を知るか」と (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a06387eb77ff536fc207299?from=rss</guid>
+      <pubDate>Thu, 14 May 2026 21:02:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

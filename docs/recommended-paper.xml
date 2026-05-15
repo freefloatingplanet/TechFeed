@@ -7,6 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 14 May 2026 08:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 08:53:56 +0000</lastBuildDate>
+    <item>
+      <title>DeepTokenEEGによるトークン化された脳波特徴量を用いた軽度認知障害およびアルツハイマー病の分類強化</title>
+      <link>https://arxiv.org/abs/2605.15009v1</link>
+      <description>アルツハイマー病（AD）の検出は、タイムリーな介入によって患者の予後を改善できるため、非常に重要であると考えられています。脳波（EEG）に基づく診断は、AD検出のための非侵襲的でアクセスしやすく、費用対効果の高いアプローチとして認識されていますが、データの入手可能性、最新の深層学習手法の精度、専門家による解釈に時間がかかることなど、課題に直面しています。本研究では、ADの診断と、AD患者、その他の神経疾患を持つ人、および健常者のEEG信号の分類のために、軽量で高性能な新しいモデルであるDeepTokenEEGを設計しました。従来の重量級モデルとは異なり、DeepTokenEEGは空間および時間トークナイザーを利用し、わずか0.29百万個のパラメータで、時間領域と周波数領域の両方でAD関連のバイオマーカーを効果的に捉えます。 180名のアルツハイマー病患者と94名の健常対照者を含む計274名の被験者からなるデータセットで学習させた本手法は、特定の周波数帯域において最大100%の精度を達成し、同一データセットにおける最先端の手法と比較して1.41～15.35%の改善を示しました。これらの結 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.15009v1</guid>
+      <pubDate>Thu, 14 May 2026 16:10:03 +0000</pubDate>
+    </item>
   </channel>
 </rss>
