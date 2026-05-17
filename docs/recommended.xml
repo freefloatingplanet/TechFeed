@@ -7,16 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 May 2026 08:09:26 +0000</lastBuildDate>
-    <item>
-      <title>AIにコードを書かせ続けて気づいた、エンジニアの"分かったつもり"の怖さ</title>
-      <link>https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-「なんでここでこの型を使ってるの？」
-同僚にそう聞かれたとき、自分の口から出たのは「一旦調べさせてください」だった。実装を担当しているのは自分なのに、その場でパッと説明できない。動いている。テストも通っている。でも、なぜそう書いたのかと聞かれると言葉に詰まる。A... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 13 May 2026 23:06:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 17 May 2026 08:25:39 +0000</lastBuildDate>
     <item>
       <title>積みデバイスをClaude Codeで成仏させた春</title>
       <link>https://zenn.dev/optimisuke/articles/c9a2e4f7b831d5</link>
@@ -49,31 +40,19 @@ Work IQ を一言で言うと、
       <pubDate>Fri, 15 May 2026 07:43:41 +0000</pubDate>
     </item>
     <item>
-      <title>Elasticsearchでアイヌ語コーパスを作った</title>
-      <link>https://zenn.dev/neet/articles/031d5499e68685</link>
-      <description>筆者は2年ほど前からKampisosというアイヌ語のコーパスを検索できるWebサイトを運営しています。Kampisosでは、さまざまなアイヌ語の出版物やウェブサイト、論文、録音などの対訳資料を収録しています。アイヌ語または日本語でキーワードを検索し、一致した箇所を引用として一覧することができます。
-https://kampisos.aynu.io/ja
-Kampisosははじめ、『Algolia』というサービスを利用して開発されていました。Algoliaは検索の精度自体には申し分ありませんでしたが、筆者が利用していた『Growプラン』では、無料で利用できるレコードの割り当てが10万件と、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/neet/articles/031d5499e68685</guid>
-      <pubDate>Fri, 15 May 2026 15:25:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ログラスにおけるAI時代の新卒エンジニアの研修設計</title>
-      <link>https://zenn.dev/ohnoeight/articles/737f3226df1fb8</link>
-      <description>!
-この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の143週目の記事です！
-3年間連続達成まで残り16週となりました！
+      <title>自前キャッシュをTanStack Queryに移行したらコードが半分になった</title>
+      <link>https://zenn.dev/hiroki0304/articles/tanstack-query-migration-custom-cache</link>
+      <description>はじめに
 
-こんにちは、株式会社ログラス（以下、ログラス）技術基盤本部の大野です。
-現在、私は26卒のエンジニア研修の設計・運営担当を担っています。数ヶ月前から準備を始め、今まさに研修の真っ最中です。研修設計を担う中で私が考えてきたことを整理します。
-本記事では、具体的な研修については言及せず、研修設計の思想についてお話します。
+本サイトの地図画面には、ホテルのマーカーをタップすると詳細情報をAPIから取得して表示する機能があります。
+この機能、最初は自分でキャッシュを実装していました。同じホテルを2回タップしたときにAPIを叩かないように、Map オブジェクトを使ってメモリに保存していたのです。
+動いてはいました。でも、コードを見るたびに「これ、本当に正しく動いているのか？」という不安がありました。今回 TanStack Query（React Query）に移行したら、そのコードが丸ごと消えました。
 
- 対象読者
 
-社員の育成・若手エンジニア育成を担うマネージャー・メンター
-エンジニアに限らず、新卒や若手... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ohnoeight/articles/737f3226df1fb8</guid>
-      <pubDate>Thu, 14 May 2026 10:17:57 +0000</pubDate>
+ 移行前のコード——自前で全部やっていた
+src/hooks/hotels/useHote... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hiroki0304/articles/tanstack-query-migration-custom-cache</guid>
+      <pubDate>Fri, 15 May 2026 14:14:23 +0000</pubDate>
     </item>
     <item>
       <title>Claude Codeの1000 セッションを分析して、一週間目でリードタイムを10%縮めた話</title>
@@ -105,17 +84,11 @@ Kampisosははじめ、『Algolia』というサービスを利用して開発�
       <pubDate>Fri, 15 May 2026 00:14:18 +0000</pubDate>
     </item>
     <item>
-      <title>Amazon S3 Vectors で、ベクトル DB を立てずに画像検索 PoC を作る</title>
-      <link>https://zenn.dev/aldagram_tech/articles/3318a924758852</link>
-      <description>こんにちは！アルダグラムでエンジニアをしているやすまさです。
-建設・施工管理 SaaS「KANNA」では、現場写真が日々大量にアップロードされています。これらを「足場の写真」「配筋の写真」のように 自然言語で検索したい という要望は以前からありましたが、ベクトル DB を一台立てて運用する、というのは PoC のハードルとしては少し重めでした。
-そこで、2025 年に一般提供が始まった Amazon S3 Vectors を使って、KANNA の現場写真をテキストで意味検索するプロトタイプを作ってみました。本記事ではその構成と、実際に作って分かった所感を共有します。
-
- TL;DR
-
-A... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aldagram_tech/articles/3318a924758852</guid>
-      <pubDate>Thu, 14 May 2026 10:44:51 +0000</pubDate>
+      <title>LLMの長文処理でメモリを半分に削減 — Gemma 4のKV共有技術とアーキテクチャ最新動向</title>
+      <link>https://techfeed.io/entries/6a08db48b77ff536fc218729?from=rss</link>
+      <description>5月16日、Sebastian Raschkaが「Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention」と題した記事を公開した。なぜ今、LLMの効率化が急務なのかChatGPTやClaude、Geminiといった対話型AIの普及により、ユーザーは長大な文書の分析や複雑な推論タスクを日常的に依頼するようになった。また、エージェントワークフローの台頭により、AIシステムが長期間にわたってより多くのトークンを保持する必要が生まれている。しかし、この長文処理には大きな代償が伴う。KVキャッシュサイズ、メモリトラフィック、アテンション計算コストが急激に増大し、推論速度の低下とコスト増加を招いているのだ。Googleの最新モデル「Gemma 4」をはじめとする各社の新しいアーキテクチャは、まさにこの課題解決を狙ったものである。Gemma 4の革新：KV共有でメモリ使用量を半減最も注目すべき革新が、Gemma 4のKV共有機構だ。従来のTransformerアーキテクチャでは、各レイヤー (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a08db48b77ff536fc218729?from=rss</guid>
+      <pubDate>Sat, 16 May 2026 21:02:00 +0000</pubDate>
     </item>
     <item>
       <title>LLMによる脆弱性スキャンでOSS開発が激変 — 脆弱性報告が10倍増、週末もパッチ対応に追われる時代へ</title>
@@ -125,11 +98,40 @@ A... (source: Zennのトレンド)</description>
       <pubDate>Fri, 15 May 2026 20:58:18 +0000</pubDate>
     </item>
     <item>
-      <title>DNSクエリを完全匿名化するRustツール「Numa」— アカウント不要でApple iCloud Private Relayと同等の仕組みを実現</title>
-      <link>https://techfeed.io/entries/6a06387eb77ff536fc207299?from=rss</link>
-      <description>5月14日、Numa開発者が「Anonymous DNS without an account: shipping ODoH client + relay in one Rust binary」と題した記事を公開した。近年、政府による大規模監視やISPによるDNS履歴販売が問題視される中、DNSクエリのプライバシー保護への関心が高まっている。この記事では、アカウント不要でDNSクエリを匿名化するODoH（Oblivious DNS over HTTPS）をRustで実装した技術について詳しく紹介されている。プライバシーを保護するDNSの課題現在の一般的なDNS環境では、プライバシー保護に根本的な問題がある。Pi-holeやAdGuard Homeなどの転送リゾルバを使用している場合、すべてのクエリが単一の事業者を経由し、ユーザーのIPアドレスと問い合わせ内容の両方が把握される。一方、Unboundのような再帰リゾルバに切り替えた場合は、権威DNSサーバーにIPアドレスが露出してしまう。DoH（DNS over HTTPS）やDoTといった技術は通信の暗号化を行うが、「誰が何を知るか」と (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a06387eb77ff536fc207299?from=rss</guid>
-      <pubDate>Thu, 14 May 2026 21:02:54 +0000</pubDate>
+      <title>iPad ProでLinuxを動かす「ios-linuxkit」— AppleのJIT禁止制約を技術的に回避する挑戦</title>
+      <link>https://techfeed.io/entries/6a08dbc9b77ff536fc218730?from=rss</link>
+      <description>5月16日、taoofmacの著者が「Announcing ios-linuxkit: Linux on iPad, the Hard Way」と題した記事を公開した。AppleのiOSでLinuxランタイムを動作させる技術的プロジェクト「ios-linuxkit」について詳しく紹介している。高性能なiPadで本格的な開発環境を構築したい開発者にとって、Appleの制限は長年の課題だった。JIT（Just-In-Time）コンパイル禁止、RWXメモリアクセス制限により、Docker、VM、多くの開発ツールがiOS上で動作しない。既存のiSHはx86エミュレーションでLinux環境を提供するが、AArch64ネイティブ環境は提供できていなかった。Appleの制限を技術的に回避する「ios-linuxkit」著者は1400ユーロのM4チップ搭載iPad Proが、50ユーロのARMボードで動作するツールを実行できない現状に業を煮やし、ios-linuxkitを開発した。Appleが禁止するJIT、RWXメモリ、MAP_JITを一切使わずに、iPhone・iPad上でAArch64ユーザーラ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a08dbc9b77ff536fc218730?from=rss</guid>
+      <pubDate>Sat, 16 May 2026 21:04:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>DDDの理想と決済システムの現実</title>
+      <link>https://zenn.dev/kotaroikeda/articles/e2276a1d45a55c</link>
+      <description>〜なぜ「1トランザクション1集約」の原則をあえて破るのか〜
+
+ はじめに: AIに設計レビューさせてみた
+少し前に、決済基盤まわりのコードを AI に設計レビューさせてみました。
+すると、かなりそれっぽく、そして正論っぽく、こんな指摘が返ってきました。
+
+1つの DB トランザクションで複数集約を更新しています。
+集約は一貫性の境界なので、1トランザクションは1集約に閉じるべきです。
+
+言っていることはよく分かります。
+DDD を少しでもかじると、一度は通る話です。
+でも、そのとき自分が見ていたのは、注文初期化の処理でした。
+そこでは例えば、
+
+注文のレコードを作る
+積立設定や購入条... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kotaroikeda/articles/e2276a1d45a55c</guid>
+      <pubDate>Sat, 16 May 2026 10:15:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>「CTFは死んだ」—ハッキング競技の老舗コミュニティで起きているエリート離れとAI商業化への警鐘</title>
+      <link>https://techfeed.io/entries/6a08da71b77ff536fc2186f2?from=rss</link>
+      <description>5月16日、セキュリティ研究者が「The CTF scene is dead」と題した記事を公開した。CTF（Capture The Flag）は、サイバーセキュリティ分野で最も重要な人材育成の場として機能してきた競技だ。参加者はWeb脆弱性の発見からバイナリ解析、暗号解読まで幅広い技術課題に挑戦し、「フラグ」と呼ばれる文字列を獲得して得点を競う。過去20年にわたって数多くのセキュリティエンジニアや研究者を輩出してきたこの仕組みが今、その根幹を揺るがす危機に直面している。著者は、規制されていないAIの使用と不正行為の蔓延により、CTF界隈が従来の姿を完全に失ったと厳しく指摘している。トップチームの大量離脱が示す深刻な現状最も衝撃的なのは、世界トップレベルのチームが次々とCTFから離れている事実だ。CTFTimeの世界ランキングを見ると、2026年のスコアボードは過去と全く様変わりしている。長年上位を維持してきたTheHackersCrewをはじめとする強豪チームの多くが、競技への参加を停止したり、参加人数を大幅に減らしたり、かつてのような圧倒的な成績を残せなくなっている。これらのチーム (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a08da71b77ff536fc2186f2?from=rss</guid>
+      <pubDate>Sat, 16 May 2026 20:58:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

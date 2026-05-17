@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 May 2026 08:09:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 08:25:43 +0000</lastBuildDate>
     <item>
       <title>NASAが「アルテミスIII」の暫定計画を発表　地球低軌道で月着陸船とのドッキングテストなど</title>
       <link>https://sorae.info/space/20260515-artemis-iii.html</link>
@@ -30,11 +30,11 @@
       <pubDate>Mon, 11 May 2026 06:59:09 +0000</pubDate>
     </item>
     <item>
-      <title>小惑星「2025 PN7」は新たな地球の準衛星　見た目上 “衛星” な天体</title>
-      <link>https://sorae.info/astronomy/20260510-2025-pn7.html</link>
-      <description>地球と似たような公転軌道を持つ小惑星の中には、「準衛星」と呼ばれる特殊な軌道を取る場合があります。 “衛星” とはいうものの、これは見た目上の問題であり、真の意味での衛星ではありませんが、それでも地球と特殊な関係にあるた… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260510-2025-pn7.html</guid>
-      <pubDate>Sun, 10 May 2026 12:07:05 +0000</pubDate>
+      <title>重い星団ほどガス雲から早く抜け出す　ウェッブとハッブルの観測で明らかに</title>
+      <link>https://sorae.info/astronomy/20260516-m51-jwst-feast.html</link>
+      <description>赤色に輝く複雑なフィラメント状のガス雲と、その隙間からのぞく青白い無数の光点。ESA（ヨーロッパ宇宙機関）が公開したこの画像は、ジェームズ・ウェッブ宇宙望遠鏡が近赤外線で捉えた渦巻銀河「M51（Messier 51）」の… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260516-m51-jwst-feast.html</guid>
+      <pubDate>Sat, 16 May 2026 12:33:58 +0000</pubDate>
     </item>
     <item>
       <title>Planet LabsがNVIDIAモジュール搭載の衛星で、宇宙軌道上でのAIによる航空機の検知に成功【宇宙ビジネスニュース】</title>

@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 16 May 2026 08:09:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 08:26:32 +0000</lastBuildDate>
     <item>
-      <title>Kubernetes v1.36がリリースされました：AIワークロードのサポートが成熟するにつれて、セキュリティのデフォルト設定が強化されます。</title>
-      <link>https://www.infoq.com/news/2026/05/kubernetes-1-36-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>2026年にリリースされたKubernetes v1.36には、セキュリティ、AIワークロード、APIスケーラビリティに焦点を当てた70の機能強化が含まれています。一般提供開始となる主要機能は、ユーザーネームスペース、ミューテーションアドミッションポリシー、きめ細かなKubelet API認証です。このリリースでは、ワークロード管理にも対応し、AIリソース割り当てのための新機能も導入されています。執筆：マット・サンダース (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/05/kubernetes-1-36-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 14 May 2026 08:00:00 +0000</pubDate>
+      <title>DPoP（RFC 9449）解説：送信者制約付きOAuthトークンがトークン盗難をいかに無害なものにするか</title>
+      <link>https://workos.com/blog/dpop-rfc-9449-explained</link>
+      <description>エンジニア向けRFC 9449の実践的な解説：JWTの証明、サーバー発行のnonce、ブラウザでの鍵の保存、そしてDPoPがmTLSとどのように関連しているか。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/dpop-rfc-9449-explained</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
