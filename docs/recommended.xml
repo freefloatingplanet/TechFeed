@@ -7,81 +7,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 08:25:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 10:12:44 +0000</lastBuildDate>
     <item>
-      <title>積みデバイスをClaude Codeで成仏させた春</title>
-      <link>https://zenn.dev/optimisuke/articles/c9a2e4f7b831d5</link>
-      <description>はじめに
-
-数年前に買ったmicro:bitと、3Dプリントしたアームで動くロボットアームです。
-電子工作デバイスとか3Dプリンターとか、買ったはいいものの途中で積んじゃうの、自分だけじゃないと思うんですが。「積んでるなぁ」というモヤモヤがずっとあったんですが、この春やっと、積んでいたモヤモヤを成仏させられました。3Dプリンターを買い直したことをきっかけに、Claude Codeと組み合わせたらむっちゃ捗ることに気づいたのが大きかったです。何が変わったのか整理しておきます。
-
- 積んできたもの
-
- Arduino — gitで管理したいのに、なんか微妙
-Arduinoって触ってみると... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/optimisuke/articles/c9a2e4f7b831d5</guid>
-      <pubDate>Thu, 14 May 2026 11:07:29 +0000</pubDate>
+      <title>なぜ防衛省は富士通を選んだのか　“国家の安全保障”を支える新システムの正体 | DXマガジン</title>
+      <link>https://dxmagazine.jp/news/2517ukre89/</link>
+      <description>防衛省の予備自衛官等管理システム「ReSMS（リスモス）」の構築を、富士通が手掛けた。この事実は、単なる受託案件以上の意味を持っています。2026年、地政学リスクとデジタル化が交差する最前線において、日本を代表するテックジャイアントである富士通が「国家の安全保障」をどうアップデートしようとしているのか。「... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://dxmagazine.jp/news/2517ukre89/</guid>
+      <pubDate>Sun, 17 May 2026 05:54:16 +0000</pubDate>
     </item>
     <item>
-      <title>Copilot Studio × Work IQでTeamsに眠るナレッジを即活用～「15分で構築可能！問い合わせ対応エージェント」のご紹介</title>
-      <link>https://zenn.dev/nttdata_tech/articles/75bebd16367ea4</link>
+      <title>コーディングエージェント時代にエンジニアは必要なのか本気で考えてみる</title>
+      <link>https://zenn.dev/hiromoo/articles/5f127b5459d490</link>
       <description>はじめに
-今回の記事では、Microsoft Copilot Studio に最近プレビューとして出てきたWork IQ MCPおよび、それをベースに作成した問い合わせ対応支援エージェントを紹介します。
-Work IQ を一言で言うと、
-データを取得し、文脈を理解し、その結果を使って「実際に動く」ところまでを一気に実現できるツール群です。
-単純に回答を生成するというより、
-　　• どこから情報を取るか
-　　• その情報をもとにどう判断するか
-　　• その結果をどこに返すか
-といった一連の流れそのものをエージェントに任せられることがポイントです。
-特に今回個人的に注目したのは Work... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/75bebd16367ea4</guid>
-      <pubDate>Fri, 15 May 2026 07:43:41 +0000</pubDate>
+最近、GW に割と長めのお休みをいただけたので、話題のコーディングエージェントを試してみようと思い、Codex と Claude Code、GitHub Copilot を使って、学生時代から構想していたコミュニティベースの SNS を作ってみました。
+作ってみてびっくりしたのが、コーディングエージェントの性能の高さです。
+コーディングエージェントがトレンドになり始めた 1 年ほど前は、正直なところ、コードの品質はあまり高くなく、自力でコードを修正する必要があることが多かったです。
+しかし、最近のコーディングエージェントは、コードの品質が非常に高くなっており、大きくコードを... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hiromoo/articles/5f127b5459d490</guid>
+      <pubDate>Sun, 17 May 2026 14:50:17 +0000</pubDate>
     </item>
     <item>
-      <title>自前キャッシュをTanStack Queryに移行したらコードが半分になった</title>
-      <link>https://zenn.dev/hiroki0304/articles/tanstack-query-migration-custom-cache</link>
-      <description>はじめに
-
-本サイトの地図画面には、ホテルのマーカーをタップすると詳細情報をAPIから取得して表示する機能があります。
-この機能、最初は自分でキャッシュを実装していました。同じホテルを2回タップしたときにAPIを叩かないように、Map オブジェクトを使ってメモリに保存していたのです。
-動いてはいました。でも、コードを見るたびに「これ、本当に正しく動いているのか？」という不安がありました。今回 TanStack Query（React Query）に移行したら、そのコードが丸ごと消えました。
-
-
- 移行前のコード——自前で全部やっていた
-src/hooks/hotels/useHote... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hiroki0304/articles/tanstack-query-migration-custom-cache</guid>
-      <pubDate>Fri, 15 May 2026 14:14:23 +0000</pubDate>
+      <title>ソニー、炎上した「Xperia 1 VIII」のAIカメラ機能で“火消し“　「4つの選択肢」を強調</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2605/18/news072.html</link>
+      <description>ソニーが、Xperiaのグローバル公式アカウントで、「Xperia 1 VIII」のAIカメラアシスタントで炎上した投稿のフォローを行っている。 Xperia 1 VIIIのカメラ機能では、AIがシーンを認識して明るさ、ホワイトバランス、彩度、コントラストなどを調整して4種類の写真を提案してくれる「AIカメラアシスタント」を搭載してい... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2605/18/news072.html</guid>
+      <pubDate>Mon, 18 May 2026 04:35:35 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeの1000 セッションを分析して、一週間目でリードタイムを10%縮めた話</title>
-      <link>https://zenn.dev/globis/articles/94762dc8ec7914</link>
-      <description>グロービスでは AI コーディングのメインツールを Claude Code (CLI 版) に統一する方向で運用しています。利用ログを取り始めて改善の打ち手を入れたところ、すぐに次のような成果が出ました。
-
-毎月の開発時間を およそ 100時間 節約
-開発セッションのリードタイムが 約 10% 短縮
-
-
-本記事では、この成果につながった理由と、改善のきっかけとなったボトルネックをご紹介します。
-
- こんなことありませんか？
-
-別の作業から戻ってきたら、AI が 進めてよいですか？ のまま何分も止まっていた
-明らかに問題のない内容を確認されて、お願い とだけ返すターンがやけに多い
-寝る前に... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/globis/articles/94762dc8ec7914</guid>
-      <pubDate>Fri, 15 May 2026 02:54:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』</title>
-      <link>https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge</link>
-      <description>はじめに
-多くの研究者やエンジニアにとって、論文やWeb記事をLLMに要約させて読むというのが当たり前になりつつある。要約で全体像を把握し、対話的に質問を投げる、こうした使い方だけでも学習効率は十分に上がる。
-しかし、こうした使い方は一度のセッションで完結する。研究や学習の質を決めるのは、別々のタイミングで読んだソース間の繋がりから生まれる気づきの方である。
-とはいえ、これを人間が代わりに担うのも難しい。記憶力には限界があり、半年前に読んだ論文の細部はほとんど覚えていない。「論文Aと論文Bが同じ問題を別の角度から扱っている」、「3ヶ月前に読んだ論文の主張がいま読んでいる論文で否定され... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge</guid>
-      <pubDate>Fri, 15 May 2026 00:14:18 +0000</pubDate>
+      <title>不正検出は機械学習ではなくSQLが主役 — 政府系プログラムの専門家が明かす6つの実用パターン</title>
+      <link>https://techfeed.io/entries/6a0a2c00b77ff536fc21e9ee?from=rss</link>
+      <description>5月15日、Fixel Smithが「Six SQL patterns I use to catch transaction fraud」と題した記事を公開した。「不正検出は大部分がSQLだ。機械学習でもグラフデータベースでもない」。政府系給付プログラムのプログラム・インテグリティチームでデータ業務を担当する同氏の言葉は、AI・機械学習が注目される昨今の不正検出業界に一石を投じている。実際の現場では、複雑なアルゴリズムよりも「適切なテーブルに対して、適切な結合で、適切なパターンを探すSQL」こそが不正を見つける最も確実な手段だという。近年、不正検出分野では機械学習やAIソリューションが脚光を浴びている。しかし実際の金融機関や決済事業者では、明確なルールベースのSQL分析が依然として主力だ。理由は単純明快で、不正の多くは人間の行動パターンから大きく逸脱するため、統計的な閾値やパターンマッチングで十分検出できるからである。また、SQLベースの手法は結果の説明可能性が高く、規制要件の厳しい金融業界では重要な利点となる。同記事で紹介される6つのパターンは、クレジットカード、医療請求、eコマース (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a0a2c00b77ff536fc21e9ee?from=rss</guid>
+      <pubDate>Sun, 17 May 2026 20:58:39 +0000</pubDate>
     </item>
     <item>
       <title>LLMの長文処理でメモリを半分に削減 — Gemma 4のKV共有技術とアーキテクチャ最新動向</title>
@@ -89,13 +46,6 @@ src/hooks/hotels/useHote... (source: Zennのトレンド)</description>
       <description>5月16日、Sebastian Raschkaが「Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention」と題した記事を公開した。なぜ今、LLMの効率化が急務なのかChatGPTやClaude、Geminiといった対話型AIの普及により、ユーザーは長大な文書の分析や複雑な推論タスクを日常的に依頼するようになった。また、エージェントワークフローの台頭により、AIシステムが長期間にわたってより多くのトークンを保持する必要が生まれている。しかし、この長文処理には大きな代償が伴う。KVキャッシュサイズ、メモリトラフィック、アテンション計算コストが急激に増大し、推論速度の低下とコスト増加を招いているのだ。Googleの最新モデル「Gemma 4」をはじめとする各社の新しいアーキテクチャは、まさにこの課題解決を狙ったものである。Gemma 4の革新：KV共有でメモリ使用量を半減最も注目すべき革新が、Gemma 4のKV共有機構だ。従来のTransformerアーキテクチャでは、各レイヤー (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a08db48b77ff536fc218729?from=rss</guid>
       <pubDate>Sat, 16 May 2026 21:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLMによる脆弱性スキャンでOSS開発が激変 — 脆弱性報告が10倍増、週末もパッチ対応に追われる時代へ</title>
-      <link>https://techfeed.io/entries/6a0788eab77ff536fc2132df?from=rss</link>
-      <description>5月15日、Metabaseが「Welcome to the strip mining era of open source security」と題した記事を公開した。この記事では、LLMによる自動化されたセキュリティ脆弱性スキャンがオープンソースプロジェクトに与える劇的な影響について詳しく紹介されている。以下に、その内容を紹介する。脆弱性報告が10倍に急増した現実Metabaseでは今年初めから脆弱性報告が劇的に増加している。従来は月平均10件だった報告が、1月以降は週平均10件に急増した。さらに重要なのは、報告の質も向上している点だ。これまでは大半が誤検知や些細な問題だったが、現在は多くが実際の脆弱性であり、しかも報告書がMarkdown形式でLLM生成らしい特徴を持っているという。この変化の背景にあるのは、LLMを活用した自動コードスキャン技術の急激な進歩である。ClaudeやOpenAIの新しいセキュリティ機能など、複数のベンダーが参入し、コードベース全体を効率的にスキャンできるようになった。2024年後半から、GPT-4やClaude 3.5 Sonnetなどの大規模言語モデ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a0788eab77ff536fc2132df?from=rss</guid>
-      <pubDate>Fri, 15 May 2026 20:58:18 +0000</pubDate>
     </item>
     <item>
       <title>iPad ProでLinuxを動かす「ios-linuxkit」— AppleのJIT禁止制約を技術的に回避する挑戦</title>
@@ -127,11 +77,25 @@ DDD を少しでもかじると、一度は通る話です。
       <pubDate>Sat, 16 May 2026 10:15:33 +0000</pubDate>
     </item>
     <item>
+      <title>マルタが全市民にChatGPT Plus無償提供へ — AIを「電気のような公共インフラ」にするOpenAIの国家戦略が始動</title>
+      <link>https://techfeed.io/entries/6a0a2d78b77ff536fc21ea5b?from=rss</link>
+      <description>5月16日、OpenAIが「OpenAI and Malta partner to bring ChatGPT Plus to all citizens」と題した記事を公開した。世界初の国家規模ChatGPT Plus提供が始動OpenAIとマルタ政府は、全マルタ市民にChatGPT Plusを提供する世界初のパートナーシップを発表した。この「AI for All」イニシアチブは、マルタ大学が開発するAIリテラシーコースの修了者に対し、1年間無償でChatGPT Plusへのアクセスを提供する画期的な取り組みだ。人口約52万人のマルタは、EU加盟国の中でも特にデジタル化に積極的な小島国として知られる。ブロックチェーン技術の法整備や金融テクノロジーの導入で先進的な取り組みを続けてきた同国が、今度はAI普及の分野で世界をリードする形となった。「知性を世界の公共インフラに」というOpenAIの構想OpenAIは今回の発表で興味深い哲学を示している。同社は「知性をグローバルユーティリティにする」と表現し、電気のように、人々や企業、機関が必要な時に必要なだけ知性を利用できるべきだと主張している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a0a2d78b77ff536fc21ea5b?from=rss</guid>
+      <pubDate>Sun, 17 May 2026 21:04:56 +0000</pubDate>
+    </item>
+    <item>
       <title>「CTFは死んだ」—ハッキング競技の老舗コミュニティで起きているエリート離れとAI商業化への警鐘</title>
       <link>https://techfeed.io/entries/6a08da71b77ff536fc2186f2?from=rss</link>
       <description>5月16日、セキュリティ研究者が「The CTF scene is dead」と題した記事を公開した。CTF（Capture The Flag）は、サイバーセキュリティ分野で最も重要な人材育成の場として機能してきた競技だ。参加者はWeb脆弱性の発見からバイナリ解析、暗号解読まで幅広い技術課題に挑戦し、「フラグ」と呼ばれる文字列を獲得して得点を競う。過去20年にわたって数多くのセキュリティエンジニアや研究者を輩出してきたこの仕組みが今、その根幹を揺るがす危機に直面している。著者は、規制されていないAIの使用と不正行為の蔓延により、CTF界隈が従来の姿を完全に失ったと厳しく指摘している。トップチームの大量離脱が示す深刻な現状最も衝撃的なのは、世界トップレベルのチームが次々とCTFから離れている事実だ。CTFTimeの世界ランキングを見ると、2026年のスコアボードは過去と全く様変わりしている。長年上位を維持してきたTheHackersCrewをはじめとする強豪チームの多くが、競技への参加を停止したり、参加人数を大幅に減らしたり、かつてのような圧倒的な成績を残せなくなっている。これらのチーム (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a08da71b77ff536fc2186f2?from=rss</guid>
       <pubDate>Sat, 16 May 2026 20:58:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】「AIでコーディング3倍速」の落とし穴 — トヨタ生産方式が教える、本当のボトルネックはどこにあるか</title>
+      <link>https://techfeed.io/entries/6a0a2cb2b77ff536fc21ea2e?from=rss</link>
+      <description>5月17日、Frederick van Brabantが「I don't think AI will make your processes go faster」と題した記事を公開した。「AIでコーディングが3倍速になる」という触れ込みを聞いたことはないだろうか。GitHub Copilot、ChatGPT、Claude等のAIツールの普及により、多くの組織がプロセス高速化への期待を膨らませている。実際、GitHub Copilotは2021年の登場以来、開発者の生産性向上を謳い続け、2024年のGenerative AI市場拡大により企業の導入意欲は更に加速した。しかしvan Brabant氏は、この期待が根本的な誤解に基づいていると警鐘を鳴らす。同氏が製造業の古典『The Toyota Way』と『The Goal』を再読した結果、現在のAI活用アプローチは「視覚的に長い工程」を最適化しているだけで、真のボトルネックを見逃しているという洞察を得たという。なぜ開発工程が「犯人」に見えるのか典型的なソフトウェアプロジェクトのスケジュールを見てみよう： (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a0a2cb2b77ff536fc21ea2e?from=rss</guid>
+      <pubDate>Sun, 17 May 2026 21:01:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 08:25:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 10:12:46 +0000</lastBuildDate>
     <item>
       <title>NASAが「アルテミスIII」の暫定計画を発表　地球低軌道で月着陸船とのドッキングテストなど</title>
       <link>https://sorae.info/space/20260515-artemis-iii.html</link>
@@ -23,18 +23,18 @@
       <pubDate>Mon, 27 Apr 2026 23:00:11 +0000</pubDate>
     </item>
     <item>
-      <title>静岡大学、超小型衛星「STARS-X」の愛称を募集　H3ロケット6号機で6月10日打ち上げ予定</title>
-      <link>https://sorae.info/news/20260511-stars-x.html</link>
-      <description>静岡大学は2026年5月11日、同大学が開発した超小型衛星「STARS-X」の愛称募集を開始しました。応募期間は5月18日までで、集まった愛称は静岡大学による選考を経て、打ち上げ時期に合わせて公表される予定です。 STA… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/news/20260511-stars-x.html</guid>
-      <pubDate>Mon, 11 May 2026 06:59:09 +0000</pubDate>
-    </item>
-    <item>
       <title>重い星団ほどガス雲から早く抜け出す　ウェッブとハッブルの観測で明らかに</title>
       <link>https://sorae.info/astronomy/20260516-m51-jwst-feast.html</link>
       <description>赤色に輝く複雑なフィラメント状のガス雲と、その隙間からのぞく青白い無数の光点。ESA（ヨーロッパ宇宙機関）が公開したこの画像は、ジェームズ・ウェッブ宇宙望遠鏡が近赤外線で捉えた渦巻銀河「M51（Messier 51）」の… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260516-m51-jwst-feast.html</guid>
       <pubDate>Sat, 16 May 2026 12:33:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>太陽系が通過中の「局所星間雲」には超新星爆発由来の物質が蓄積されている？</title>
+      <link>https://sorae.info/astronomy/20260518-60fe-lic.html</link>
+      <description>ヘルムホルツセンター・ドレスデン・ローゼンドルフ（HZDR）研究所のDominik Koll博士を筆頭とする国際的な研究チームは、南極の氷床コアから検出された放射性同位体「鉄60（60Fe）」に関する新たな研究成果を発表… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260518-60fe-lic.html</guid>
+      <pubDate>Mon, 18 May 2026 00:03:50 +0000</pubDate>
     </item>
     <item>
       <title>Planet LabsがNVIDIAモジュール搭載の衛星で、宇宙軌道上でのAIによる航空機の検知に成功【宇宙ビジネスニュース】</title>
@@ -49,13 +49,6 @@
       <description>宇宙には空気がないため、普通の意味での音は存在しません。ただ、宇宙はブラックホールや中性子星の合体で生じる時空のさざ波「重力波」に満ちています。そして重力波の周波数は、人間が音として聞き取れる値を取っています。ではもし、… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260513-what-does-the-universe-sound-like.html</guid>
       <pubDate>Wed, 13 May 2026 12:29:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>神奈川県、衛星データ活用プロジェクトを募集　県内の宇宙ビジネス創出を支援</title>
-      <link>https://sorae.info/biz/20260511-kanagawa.html</link>
-      <description>神奈川県は2026年5月8日、衛星データを用いた新たなビジネスモデルの創出を目指す県内企業などのプロジェクト募集を開始したと発表しました。 神奈川県は、人工衛星の研究開発・製造・量産などに関わる拠点が県内に集積しているこ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/biz/20260511-kanagawa.html</guid>
-      <pubDate>Mon, 11 May 2026 00:46:30 +0000</pubDate>
     </item>
     <item>
       <title>「数回の打上げで市場は一気に拡大するだろう」ElevationSpace、Redwireが提携。バイオ医薬品技術を自社プラットフォームに統合へ【宇宙ビジネスニュース】</title>
