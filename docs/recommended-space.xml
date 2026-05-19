@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 10:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 09:53:36 +0000</lastBuildDate>
     <item>
-      <title>NASAが「アルテミスIII」の暫定計画を発表　地球低軌道で月着陸船とのドッキングテストなど</title>
-      <link>https://sorae.info/space/20260515-artemis-iii.html</link>
-      <description>NASA（アメリカ航空宇宙局）は2026年5月13日付で、アメリカが主導する有人月探査計画「Artemis（アルテミス）」の次なる有人ミッション「Artemis III（アルテミスIII）」について、暫定的なミッション計… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260515-artemis-iii.html</guid>
-      <pubDate>Thu, 14 May 2026 08:39:42 +0000</pubDate>
+      <title>時速180万kmで回転する巨大銀河「UGC 12591」　ハッブル宇宙望遠鏡が観測</title>
+      <link>https://sorae.info/astronomy/20260518-ugc-12591.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡が観測した銀河「UGC 12591」。ペガスス座の方向、地球から約4億光年先にあります。 大きく斜めに横たわっているように見えるUGC 12591では、暗い赤茶色をした塵（ダスト）とガスの帯（… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260518-ugc-12591.html</guid>
+      <pubDate>Mon, 18 May 2026 11:58:29 +0000</pubDate>
     </item>
     <item>
       <title>ispaceが月周回衛星を活用した通信・測位サービスを発表。地球と月をつなぐハブ、月周回衛星があれば何ができる？【宇宙ビジネスニュース】</title>
@@ -21,6 +21,13 @@
       <description>2026年3月27日、ispaceは月周回衛星を活用した通信・測位サービスの立ち上げを発表しました。「地球と月面」をつなぐハブとして機能していくのか、今後の動向に注目です。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45639/</guid>
       <pubDate>Mon, 27 Apr 2026 23:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Avio、「Vega C」ロケットでESA・中国科学院の太陽風観測ミッション「SMILE」の衛星を打ち上げ</title>
+      <link>https://sorae.info/ssn/20260519-avio-vega-c-smile.html</link>
+      <description>ESA（ヨーロッパ宇宙機関）とイタリアの宇宙企業Avio（アヴィオ）は、日本時間2026年5月19日に「Vega C（ベガC）」ロケットの打ち上げを実施しました。搭載されていたESAとCAS（中国科学院）の共同ミッション… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260519-avio-vega-c-smile.html</guid>
+      <pubDate>Tue, 19 May 2026 07:14:41 +0000</pubDate>
     </item>
     <item>
       <title>重い星団ほどガス雲から早く抜け出す　ウェッブとハッブルの観測で明らかに</title>
@@ -35,6 +42,13 @@
       <description>ヘルムホルツセンター・ドレスデン・ローゼンドルフ（HZDR）研究所のDominik Koll博士を筆頭とする国際的な研究チームは、南極の氷床コアから検出された放射性同位体「鉄60（60Fe）」に関する新たな研究成果を発表… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260518-60fe-lic.html</guid>
       <pubDate>Mon, 18 May 2026 00:03:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>巨大なブラックホールが潜む中心部　ウェッブ＆チャンドラが観測した棒渦巻銀河「NGC 1365」</title>
+      <link>https://sorae.info/astronomy/20260519-ngc-1365-chandra-webb.html</link>
+      <description>こちらは、ろ座（炉座）の方向、地球から約6000万光年先にある棒渦巻銀河「NGC 1365」です。 画像では、白い砂で描かれたような渦巻腕（渦状腕）が渦を巻き、その中心にある紫色の領域が強い光を放っています。また、渦巻腕… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260519-ngc-1365-chandra-webb.html</guid>
+      <pubDate>Tue, 19 May 2026 03:12:14 +0000</pubDate>
     </item>
     <item>
       <title>Planet LabsがNVIDIAモジュール搭載の衛星で、宇宙軌道上でのAIによる航空機の検知に成功【宇宙ビジネスニュース】</title>
@@ -63,13 +77,6 @@
       <description>こちらは、NASA（アメリカ航空宇宙局）の火星探査車「Perseverance（パーシビアランス）」が撮影した最新のセルフィー（自撮り）です。背後に広がる荒涼とした火星の風景は、Perseveranceの着陸地点となった… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260515-perseverance-selfie.html</guid>
       <pubDate>Fri, 15 May 2026 14:09:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>NASAの次世代火星ヘリ用ローターがマッハ1の突破に成功　将来の火星探査を変え得る成果</title>
-      <link>https://sorae.info/space/20260511-next-gen-mars-helicopter.html</link>
-      <description>万が一の事態に備えて金属板で覆われ、厳重に密閉されたチャンバー内で、目にもとまらぬ速さで回転し始めるローターブレード。NASA（アメリカ航空宇宙局）のジェット推進研究所（JPL）が公開したこちらの動画には、次世代の火星探… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260511-next-gen-mars-helicopter.html</guid>
-      <pubDate>Mon, 11 May 2026 11:56:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 10:12:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 09:53:33 +0000</lastBuildDate>
     <item>
-      <title>なぜ防衛省は富士通を選んだのか　“国家の安全保障”を支える新システムの正体 | DXマガジン</title>
-      <link>https://dxmagazine.jp/news/2517ukre89/</link>
-      <description>防衛省の予備自衛官等管理システム「ReSMS（リスモス）」の構築を、富士通が手掛けた。この事実は、単なる受託案件以上の意味を持っています。2026年、地政学リスクとデジタル化が交差する最前線において、日本を代表するテックジャイアントである富士通が「国家の安全保障」をどうアップデートしようとしているのか。「... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://dxmagazine.jp/news/2517ukre89/</guid>
-      <pubDate>Sun, 17 May 2026 05:54:16 +0000</pubDate>
+      <title>【fate】Async React 時代のフレームワークを試してみた</title>
+      <link>https://zenn.dev/sc30gsw/articles/5414fe7efb29c7</link>
+      <description>はじめに
+最近、React向けのデータクライアントである fateの1.0が本番環境で利用可能になったので、実際に触ってみました。
+https://fate.technology/
+実際に小さな投稿アプリを作ってみて、一番体験が良かったのは リクエストではなく、Viewを中心にデータ取得を考える ところでした。
+一般的なReactアプリでは、データ取得の場所、loading/errorの扱い、取得したデータの受け渡しを考えることが多いです。
+fateでは、まず「このコンポーネントはどのViewを必要としているか」から考えます。
+この記事では、fateのコンセプトと仕組みを整理しつつ、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sc30gsw/articles/5414fe7efb29c7</guid>
+      <pubDate>Mon, 18 May 2026 13:47:18 +0000</pubDate>
     </item>
     <item>
       <title>コーディングエージェント時代にエンジニアは必要なのか本気で考えてみる</title>
@@ -27,13 +33,6 @@
       <pubDate>Sun, 17 May 2026 14:50:17 +0000</pubDate>
     </item>
     <item>
-      <title>ソニー、炎上した「Xperia 1 VIII」のAIカメラ機能で“火消し“　「4つの選択肢」を強調</title>
-      <link>https://www.itmedia.co.jp/mobile/articles/2605/18/news072.html</link>
-      <description>ソニーが、Xperiaのグローバル公式アカウントで、「Xperia 1 VIII」のAIカメラアシスタントで炎上した投稿のフォローを行っている。 Xperia 1 VIIIのカメラ機能では、AIがシーンを認識して明るさ、ホワイトバランス、彩度、コントラストなどを調整して4種類の写真を提案してくれる「AIカメラアシスタント」を搭載してい... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2605/18/news072.html</guid>
-      <pubDate>Mon, 18 May 2026 04:35:35 +0000</pubDate>
-    </item>
-    <item>
       <title>不正検出は機械学習ではなくSQLが主役 — 政府系プログラムの専門家が明かす6つの実用パターン</title>
       <link>https://techfeed.io/entries/6a0a2c00b77ff536fc21e9ee?from=rss</link>
       <description>5月15日、Fixel Smithが「Six SQL patterns I use to catch transaction fraud」と題した記事を公開した。「不正検出は大部分がSQLだ。機械学習でもグラフデータベースでもない」。政府系給付プログラムのプログラム・インテグリティチームでデータ業務を担当する同氏の言葉は、AI・機械学習が注目される昨今の不正検出業界に一石を投じている。実際の現場では、複雑なアルゴリズムよりも「適切なテーブルに対して、適切な結合で、適切なパターンを探すSQL」こそが不正を見つける最も確実な手段だという。近年、不正検出分野では機械学習やAIソリューションが脚光を浴びている。しかし実際の金融機関や決済事業者では、明確なルールベースのSQL分析が依然として主力だ。理由は単純明快で、不正の多くは人間の行動パターンから大きく逸脱するため、統計的な閾値やパターンマッチングで十分検出できるからである。また、SQLベースの手法は結果の説明可能性が高く、規制要件の厳しい金融業界では重要な利点となる。同記事で紹介される6つのパターンは、クレジットカード、医療請求、eコマース (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
@@ -41,18 +40,22 @@
       <pubDate>Sun, 17 May 2026 20:58:39 +0000</pubDate>
     </item>
     <item>
-      <title>LLMの長文処理でメモリを半分に削減 — Gemma 4のKV共有技術とアーキテクチャ最新動向</title>
-      <link>https://techfeed.io/entries/6a08db48b77ff536fc218729?from=rss</link>
-      <description>5月16日、Sebastian Raschkaが「Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention」と題した記事を公開した。なぜ今、LLMの効率化が急務なのかChatGPTやClaude、Geminiといった対話型AIの普及により、ユーザーは長大な文書の分析や複雑な推論タスクを日常的に依頼するようになった。また、エージェントワークフローの台頭により、AIシステムが長期間にわたってより多くのトークンを保持する必要が生まれている。しかし、この長文処理には大きな代償が伴う。KVキャッシュサイズ、メモリトラフィック、アテンション計算コストが急激に増大し、推論速度の低下とコスト増加を招いているのだ。Googleの最新モデル「Gemma 4」をはじめとする各社の新しいアーキテクチャは、まさにこの課題解決を狙ったものである。Gemma 4の革新：KV共有でメモリ使用量を半減最も注目すべき革新が、Gemma 4のKV共有機構だ。従来のTransformerアーキテクチャでは、各レイヤー (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a08db48b77ff536fc218729?from=rss</guid>
-      <pubDate>Sat, 16 May 2026 21:02:00 +0000</pubDate>
+      <title>GPU推論のコールドスタート問題を40倍高速化 — Modal、数千秒を数十秒に短縮する4つの革新技術</title>
+      <link>https://techfeed.io/entries/6a0b7f8bd7ab5858a63082df?from=rss</link>
+      <description>5月18日、Modalが「Cutting inference cold starts by 40x with LP, FUSE, C/R, and cuda-checkpoint」と題した記事を公開した。2000秒が50秒に：GPU推論の根本問題を解決Modalは5年間の深いエンジニアリング作業により、AI推論サーバーレプリカの起動時間を2000秒以上から約50秒に短縮することに成功した。この40倍の高速化は、4つの革新技術の組み合わせにより実現された。この技術革新の背景には、現在のAI業界が直面する深刻な問題がある。ChatGPTやStable Diffusionなど大規模言語モデルの推論需要が急激に変動するにも関わらず、新しいGPUインスタンスの起動に数十分から数時間かかるため、「真のサーバーレス」が実現できずにいたのだ。業界を悩ませる深刻なGPU利用率問題2024年のAIインフラストラクチャ規模調査によると、大多数の組織はピーク需要時でも70%未満のGPU割り当て利用率しか達成できていない。実際の利用率は通常10-20%に留まっているのが現実だ。この問題の根本原因は、推論ワークロ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a0b7f8bd7ab5858a63082df?from=rss</guid>
+      <pubDate>Mon, 18 May 2026 21:07:23 +0000</pubDate>
     </item>
     <item>
-      <title>iPad ProでLinuxを動かす「ios-linuxkit」— AppleのJIT禁止制約を技術的に回避する挑戦</title>
-      <link>https://techfeed.io/entries/6a08dbc9b77ff536fc218730?from=rss</link>
-      <description>5月16日、taoofmacの著者が「Announcing ios-linuxkit: Linux on iPad, the Hard Way」と題した記事を公開した。AppleのiOSでLinuxランタイムを動作させる技術的プロジェクト「ios-linuxkit」について詳しく紹介している。高性能なiPadで本格的な開発環境を構築したい開発者にとって、Appleの制限は長年の課題だった。JIT（Just-In-Time）コンパイル禁止、RWXメモリアクセス制限により、Docker、VM、多くの開発ツールがiOS上で動作しない。既存のiSHはx86エミュレーションでLinux環境を提供するが、AArch64ネイティブ環境は提供できていなかった。Appleの制限を技術的に回避する「ios-linuxkit」著者は1400ユーロのM4チップ搭載iPad Proが、50ユーロのARMボードで動作するツールを実行できない現状に業を煮やし、ios-linuxkitを開発した。Appleが禁止するJIT、RWXメモリ、MAP_JITを一切使わずに、iPhone・iPad上でAArch64ユーザーラ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a08dbc9b77ff536fc218730?from=rss</guid>
-      <pubDate>Sat, 16 May 2026 21:04:09 +0000</pubDate>
+      <title>AI コーディングで secret を漏らさないための４層防御</title>
+      <link>https://zenn.dev/takna/articles/secret-leak-prevention-4-layer</link>
+      <description>顧客向けマニュアルにパスワードを直書きしてコミットし、後で履歴抹消とパスワード全ローテーションをやるハメになりました。同じミスをしないための４層防御を共有します。AI時代こそ、git レベルの決定論的な防御が効きます。
+
+ 何が起きたか
+顧客向けの運用マニュアルを書いていました。サーバーへのログイン情報、各種管理画面の URL、メール設定。引き継ぎや保守でクライアント側の担当者が見るための、いわゆる「手順書」です。
+その中に、ユーザーID や パスワードを直書きし、そのままコミットしてしまいました…。今考えるとなんでこんなことをしてしまったのか分かりません。不注意だったのか疲れて頭が回っ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/takna/articles/secret-leak-prevention-4-layer</guid>
+      <pubDate>Sun, 17 May 2026 09:40:25 +0000</pubDate>
     </item>
     <item>
       <title>DDDの理想と決済システムの現実</title>
@@ -84,11 +87,19 @@ DDD を少しでもかじると、一度は通る話です。
       <pubDate>Sun, 17 May 2026 21:04:56 +0000</pubDate>
     </item>
     <item>
-      <title>「CTFは死んだ」—ハッキング競技の老舗コミュニティで起きているエリート離れとAI商業化への警鐘</title>
-      <link>https://techfeed.io/entries/6a08da71b77ff536fc2186f2?from=rss</link>
-      <description>5月16日、セキュリティ研究者が「The CTF scene is dead」と題した記事を公開した。CTF（Capture The Flag）は、サイバーセキュリティ分野で最も重要な人材育成の場として機能してきた競技だ。参加者はWeb脆弱性の発見からバイナリ解析、暗号解読まで幅広い技術課題に挑戦し、「フラグ」と呼ばれる文字列を獲得して得点を競う。過去20年にわたって数多くのセキュリティエンジニアや研究者を輩出してきたこの仕組みが今、その根幹を揺るがす危機に直面している。著者は、規制されていないAIの使用と不正行為の蔓延により、CTF界隈が従来の姿を完全に失ったと厳しく指摘している。トップチームの大量離脱が示す深刻な現状最も衝撃的なのは、世界トップレベルのチームが次々とCTFから離れている事実だ。CTFTimeの世界ランキングを見ると、2026年のスコアボードは過去と全く様変わりしている。長年上位を維持してきたTheHackersCrewをはじめとする強豪チームの多くが、競技への参加を停止したり、参加人数を大幅に減らしたり、かつてのような圧倒的な成績を残せなくなっている。これらのチーム (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a08da71b77ff536fc2186f2?from=rss</guid>
-      <pubDate>Sat, 16 May 2026 20:58:25 +0000</pubDate>
+      <title>幼稚園教師にカメラを装着してAI学習データを収集する研究計画が保護者の猛反発で中止</title>
+      <link>https://techfeed.io/entries/6a0b7d76d7ab5858a630827e?from=rss</link>
+      <description>5月18日、Joseph Cox氏が「Researchers Wanted Preschool Teachers to Wear Cameras to Train AI」と題した記事を公開した。ワシントン大学が、幼稚園教師に小型カメラを装着させて園児の日常を撮影し、その映像をAI学習データとして活用する研究を計画していたが、保護者の強い反発により中止に追い込まれた。問題の核心は、保護者への説明が「オプトアウト」形式で行われ、何もしなければ子どもがAI学習の実験台になってしまう仕組みだったことだ。この事件は、急速に進むAI開発の影で見過ごされがちな「子どもの権利保護」という根本的な問題を浮き彫りにしている。教室を「AI学習工場」にする計画研究チームの計画は衝撃的なものだった。幼稚園教師に小型カメラを装着させ、一人称視点で教室内の様子を録画し、その映像をAI学習データとして利用するというものだ。収集された映像データは「教室内交流の質を評価するAIツールの開発」に使用され、人間のレビュアーがアノテーション（注釈付け）を行い、そのデータでAIモデルを改善する計画だった。保護者に配布された文書に (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a0b7d76d7ab5858a630827e?from=rss</guid>
+      <pubDate>Mon, 18 May 2026 20:58:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>設計の境界線と、その手前にあるもの</title>
+      <link>https://zenn.dev/katzchang/articles/2786bf33bbed42</link>
+      <description>エンジニアどうしのすれ違いを、認知特性の違いとして整理する議論があります。チームでの摩擦を「性格」や「やる気」に帰属させるのと比べると、整理として参考になる視点だと思いました。ただ、ちょっと気になることはあり、その正体が何なのかを少し整理してみます。
+扱われている題材を検討していくと、結局はソフトウェアコンポーネントのモジュール化の話なのではないか、というところに行き着くように思います。何を一つの塊として扱うか、どこに境界線を引くか、何を内側に隠して何を外に出すか。文脈や意図をコード本体に置くか外部ドキュメントに展開するか、未確定な情報をどこに逃がすか、責務をどう分けるか。これらはすべて... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/katzchang/articles/2786bf33bbed42</guid>
+      <pubDate>Mon, 18 May 2026 01:08:21 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】「AIでコーディング3倍速」の落とし穴 — トヨタ生産方式が教える、本当のボトルネックはどこにあるか</title>
