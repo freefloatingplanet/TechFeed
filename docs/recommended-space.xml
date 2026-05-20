@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 09:53:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:41:24 +0000</lastBuildDate>
+    <item>
+      <title>NASA系外惑星探査衛星「TESS」が捉えた最新の全天マップ</title>
+      <link>https://sorae.info/astronomy/20260519-all-sky-mosaic-tess.html</link>
+      <description>こちらは、NASA（アメリカ航空宇宙局）の系外惑星探査衛星「TESS（テス）」の観測データを使って作成された「全天マップ」です。 大きなU字型を描いた輝く光の帯は「天の川」、すなわち私たちが住む天の川銀河の銀河面を内側か… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260519-all-sky-mosaic-tess.html</guid>
+      <pubDate>Tue, 19 May 2026 12:16:13 +0000</pubDate>
+    </item>
     <item>
       <title>時速180万kmで回転する巨大銀河「UGC 12591」　ハッブル宇宙望遠鏡が観測</title>
       <link>https://sorae.info/astronomy/20260518-ugc-12591.html</link>
@@ -56,13 +63,6 @@
       <description>Planet Labsは、自社で開発・運用する30cm解像度の地球観測衛星Pelican-4に搭載したNVIDIA Jetsonモジュールを使い、宇宙空間で直接AIによる物体検知を実行することに成功したと発表しました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45714/</guid>
       <pubDate>Wed, 29 Apr 2026 23:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>宇宙の “環境音” はどんな音？　「もしも重力波が聞こえたら」の答え</title>
-      <link>https://sorae.info/astronomy/20260513-what-does-the-universe-sound-like.html</link>
-      <description>宇宙には空気がないため、普通の意味での音は存在しません。ただ、宇宙はブラックホールや中性子星の合体で生じる時空のさざ波「重力波」に満ちています。そして重力波の周波数は、人間が音として聞き取れる値を取っています。ではもし、… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260513-what-does-the-universe-sound-like.html</guid>
-      <pubDate>Wed, 13 May 2026 12:29:30 +0000</pubDate>
     </item>
     <item>
       <title>「数回の打上げで市場は一気に拡大するだろう」ElevationSpace、Redwireが提携。バイオ医薬品技術を自社プラットフォームに統合へ【宇宙ビジネスニュース】</title>

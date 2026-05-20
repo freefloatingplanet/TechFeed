@@ -7,13 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 19 May 2026 09:53:38 +0000</lastBuildDate>
-    <item>
-      <title>広視野撮像装置（WFI）偏光計用装置によるコロナと太陽圏の統合（PUNCH）</title>
-      <link>https://arxiv.org/abs/2605.18706v1</link>
-      <description>本稿では、偏光計による太陽コロナ・太陽圏統合（PUNCH）ミッション用の広視野撮像装置（WFI）の設計、ハードウェア統合、および較正性能について説明する。WFIは、可視光太陽圏撮像装置3台からなり、自由電子によるトムソン散乱を受けた太陽光を用いて、太陽から3.5°未満から47°を超える範囲の外縁コロナと太陽風を観測する。飛行中、WFIは、その視野が空上でほぼ対称な三つ葉の形になるように配置される。三つ葉形は、位置角で120°間隔で配置された3つの円形に切り取られた正方形の視野から構成される。WFIは、別途説明されているNFI装置と連携して、太陽円盤中心から1.5°から47°までのあらゆる位置角にわたるPUNCHの全視野を実現する。 WFIは、屈折光学系（レンズ）と深層多段バッフルを用いて、太陽光、惑星光、月光などの迷光を十分に減衰させ、地上処理で微弱な信号を検出し、主要な科学観測を可能にする。WFIは、搭載された偏光フィルターホイール（PFW）と電荷結合素子（CCD）カメラを用いて、全輝度（tB）と偏光輝度（pB）の両方を測定する。これらの装置は、NFI装置と共通の設計を採用している。 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.18706v1</guid>
-      <pubDate>Mon, 18 May 2026 17:39:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 May 2026 09:41:24 +0000</lastBuildDate>
   </channel>
 </rss>
