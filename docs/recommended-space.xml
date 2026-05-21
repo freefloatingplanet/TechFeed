@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 09:41:24 +0000</lastBuildDate>
-    <item>
-      <title>NASA系外惑星探査衛星「TESS」が捉えた最新の全天マップ</title>
-      <link>https://sorae.info/astronomy/20260519-all-sky-mosaic-tess.html</link>
-      <description>こちらは、NASA（アメリカ航空宇宙局）の系外惑星探査衛星「TESS（テス）」の観測データを使って作成された「全天マップ」です。 大きなU字型を描いた輝く光の帯は「天の川」、すなわち私たちが住む天の川銀河の銀河面を内側か… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260519-all-sky-mosaic-tess.html</guid>
-      <pubDate>Tue, 19 May 2026 12:16:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 May 2026 09:50:12 +0000</lastBuildDate>
     <item>
       <title>時速180万kmで回転する巨大銀河「UGC 12591」　ハッブル宇宙望遠鏡が観測</title>
       <link>https://sorae.info/astronomy/20260518-ugc-12591.html</link>
@@ -63,6 +56,13 @@
       <description>Planet Labsは、自社で開発・運用する30cm解像度の地球観測衛星Pelican-4に搭載したNVIDIA Jetsonモジュールを使い、宇宙空間で直接AIによる物体検知を実行することに成功したと発表しました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45714/</guid>
       <pubDate>Wed, 29 Apr 2026 23:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>小惑星「2022 RD2」は2043年以降に3回 “第2の月” になるかもしれない</title>
+      <link>https://sorae.info/astronomy/20260520-asteroid-2022-rd2.html</link>
+      <description>地球の恒久的な自然衛星は月の1個のみですが、地球は時々、近くを通過する小惑星を捉え、一時的な “第2の月” とすることがあります。これまでにそのような小惑星は5個発見されています。一方で、軌道予測の困難さから、特定の小惑… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260520-asteroid-2022-rd2.html</guid>
+      <pubDate>Wed, 20 May 2026 12:03:36 +0000</pubDate>
     </item>
     <item>
       <title>「数回の打上げで市場は一気に拡大するだろう」ElevationSpace、Redwireが提携。バイオ医薬品技術を自社プラットフォームに統合へ【宇宙ビジネスニュース】</title>
