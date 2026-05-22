@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 09:50:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 09:34:59 +0000</lastBuildDate>
     <item>
       <title>時速180万kmで回転する巨大銀河「UGC 12591」　ハッブル宇宙望遠鏡が観測</title>
       <link>https://sorae.info/astronomy/20260518-ugc-12591.html</link>
@@ -30,18 +30,18 @@
       <pubDate>Tue, 19 May 2026 07:14:41 +0000</pubDate>
     </item>
     <item>
-      <title>重い星団ほどガス雲から早く抜け出す　ウェッブとハッブルの観測で明らかに</title>
-      <link>https://sorae.info/astronomy/20260516-m51-jwst-feast.html</link>
-      <description>赤色に輝く複雑なフィラメント状のガス雲と、その隙間からのぞく青白い無数の光点。ESA（ヨーロッパ宇宙機関）が公開したこの画像は、ジェームズ・ウェッブ宇宙望遠鏡が近赤外線で捉えた渦巻銀河「M51（Messier 51）」の… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260516-m51-jwst-feast.html</guid>
-      <pubDate>Sat, 16 May 2026 12:33:58 +0000</pubDate>
-    </item>
-    <item>
       <title>太陽系が通過中の「局所星間雲」には超新星爆発由来の物質が蓄積されている？</title>
       <link>https://sorae.info/astronomy/20260518-60fe-lic.html</link>
       <description>ヘルムホルツセンター・ドレスデン・ローゼンドルフ（HZDR）研究所のDominik Koll博士を筆頭とする国際的な研究チームは、南極の氷床コアから検出された放射性同位体「鉄60（60Fe）」に関する新たな研究成果を発表… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260518-60fe-lic.html</guid>
       <pubDate>Mon, 18 May 2026 00:03:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>宇宙をただよう“小さな幽霊星雲”　ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 6369」</title>
+      <link>https://sorae.info/astronomy/20260522-ngc-6369.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 6369」。へびつかい座の方向、地球から約3500光年先にあります。 太陽のような恒星は、晩年を迎えると主系列星から赤色巨星に進化し、外層から周囲へとガスや塵（ダ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260522-ngc-6369.html</guid>
+      <pubDate>Fri, 22 May 2026 02:18:25 +0000</pubDate>
     </item>
     <item>
       <title>巨大なブラックホールが潜む中心部　ウェッブ＆チャンドラが観測した棒渦巻銀河「NGC 1365」</title>
@@ -65,18 +65,18 @@
       <pubDate>Wed, 20 May 2026 12:03:36 +0000</pubDate>
     </item>
     <item>
+      <title>宇宙ロボット開発にも標準OSを利用する時代に？  宇宙ロボットの最前線とSpace ROSの展望</title>
+      <link>https://sorabatake.jp/45972/</link>
+      <description>スペースデブリ除去、月面基地建設、火星探査……宇宙開発はもはやロボットなしには語れません。地上ロボット開発の標準「ROS」を宇宙向けに進化させたオープンソース基盤「Space ROS」の概要と展望を紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45972/</guid>
+      <pubDate>Thu, 21 May 2026 23:00:26 +0000</pubDate>
+    </item>
+    <item>
       <title>「数回の打上げで市場は一気に拡大するだろう」ElevationSpace、Redwireが提携。バイオ医薬品技術を自社プラットフォームに統合へ【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/45700/</link>
       <description>衛星内で実験などができる小型宇宙機を開発するElevationSpaceは米国のRedwire Corporationとの締結を発表しました。その提携内容と、RedwireがElevationSpaceに期待することについて、直接お話を伺いました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45700/</guid>
       <pubDate>Thu, 23 Apr 2026 23:21:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>NASAが火星探査車「Perseverance」の最新セルフィー公開　西に進んだ先で待っていた景色</title>
-      <link>https://sorae.info/space/20260515-perseverance-selfie.html</link>
-      <description>こちらは、NASA（アメリカ航空宇宙局）の火星探査車「Perseverance（パーシビアランス）」が撮影した最新のセルフィー（自撮り）です。背後に広がる荒涼とした火星の風景は、Perseveranceの着陸地点となった… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260515-perseverance-selfie.html</guid>
-      <pubDate>Fri, 15 May 2026 14:09:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

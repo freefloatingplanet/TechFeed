@@ -7,6 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 21 May 2026 09:50:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 09:35:02 +0000</lastBuildDate>
+    <item>
+      <title>マッチング原理：ノイズ耐性表現学習のための損失関数の幾何学的理論</title>
+      <link>https://arxiv.org/abs/2605.22800v1</link>
+      <description>堅牢性、ドメイン適応、測光および遮蔽不変性、構成的一般化、時間的堅牢性、アライメントの安全性、および古典的な異方性正則化は、通常、別々の問題として、それぞれ異なる手法群を用いて扱われます。本論文では、これらの共通構造の多くは、一つの統計的問題であると主張します。すなわち、ラベル保持型展開ノイズの共分散を推定し、その共分散を範囲とする行列に沿ってエンコーダのヤコビアンを正則化する（マッチング原理）という問題です。CORAL、敵対的学習、IRM、データ拡張、メトリック学習、ヤコビアンペナルティ、およびアライメントスタイルの制約は、独立した堅牢性のためのトリックではなく、この対象を推定する異なる手法です。
+
+線形ガウスモデルでは、マッチング範囲内での立方根ウォーターフィリングを含む閉形式の最適性（定理A）、二次ヤコビアンペナルティに対する範囲カバレッジの必要性（定理G）、および深層グローバル最小値における同じ範囲二分法を証明します。また、標準的な識別可能性の仮定の下での推定のために、7つの条件付き一貫性補題（D1～D7）と2つの偽造防止制御（補題C、系E）を用意しました。
+
+タスク精度やヤコ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.22800v1</guid>
+      <pubDate>Thu, 21 May 2026 17:53:28 +0000</pubDate>
+    </item>
   </channel>
 </rss>

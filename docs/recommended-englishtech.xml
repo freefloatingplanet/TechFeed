@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 21 May 2026 09:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 09:35:04 +0000</lastBuildDate>
     <item>
-      <title>DPoP（RFC 9449）解説：送信者制約付きOAuthトークンがトークン盗難をいかに無害なものにするか</title>
-      <link>https://workos.com/blog/dpop-rfc-9449-explained</link>
-      <description>エンジニア向けRFC 9449の実践的な解説：JWTの証明、サーバー発行のnonce、ブラウザでの鍵の保存、そしてDPoPがmTLSとどのように関連しているか。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/dpop-rfc-9449-explained</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <title>Android CLI により、Google は Android ツールチェーンをエージェントフレンドリーにしています</title>
+      <link>https://www.infoq.com/news/2026/05/agent-friendly-android-cli/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Googleは、AIエージェントを活用することでアプリ開発を最大3倍高速化できる新しいAndroid開発ツールを発表しました。これには、再設計されたAndroidコマンドラインインターフェース（CLI）、構造化されたスキル、統合されたナレッジベースなどが含まれます。これらのツールは、エージェント主導のワークフローをサポートするように設計されており、Google Geminiに加えて、Claude CodeやCodexなどのサードパーティ製エージェントとも互換性があります。 セルジオ・デ・シモーネ (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/05/agent-friendly-android-cli/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 21 May 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

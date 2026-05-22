@@ -7,27 +7,58 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 09:50:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 09:34:54 +0000</lastBuildDate>
     <item>
-      <title>dialogやPopover APIは「お前ら開発者に任せておけねえ」というWeb標準からのメッセージなのでは？</title>
-      <link>https://zenn.dev/estie/articles/79b2db0586a0b9</link>
-      <description>結論
-違いそう
+      <title>Claude Code のサブエージェント構成は、業務形態で大きく変わる — 1人多案件横断者の設計例</title>
+      <link>https://zenn.dev/sprix_it/articles/53c746eb9cf31c</link>
+      <description>はじめに
+Claude Code のマルチエージェント設計パターンは、すでに classmethod の整理記事 などで体系化されています。Orchestrator-subagent、Agent Teams、Generator-Verifier、Message Bus、Shared State の5つです。
+この記事の主張は、パターンの中身ではなく 「どのパターンを選ぶかは、業務形態が支配的な変数である」 という1点に絞ります。
+きっかけは、社内で「同じツール（Claude Code）を使っているのに、人によってサブエージェントの構成がまったく違う」という話題が出たことでした。違いの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sprix_it/articles/53c746eb9cf31c</guid>
+      <pubDate>Wed, 20 May 2026 07:09:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>技術とマネジメントの架け橋に。PMOの私がクラウド資格に挑むワケ</title>
+      <link>https://qiita.com/yoko_tachihara/items/1bdf0e10998c9e6c7661?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>■はじめに
+こんにちは！MSOL DigitalでPMOとして活動しています。 「放っておいてもコードを書く」タイプではない私がクラウドに挑み続ける理由。それは、技術という「共通言語」を武器に、PMOとしてのバリューを最大化したいからです 。
+本記事では、中学生の娘を持つマ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/yoko_tachihara/items/1bdf0e10998c9e6c7661?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 21 May 2026 11:43:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>1時間で開発を完了する。Claude Code の Skill で社内プロジェクトを仕組み化した話</title>
+      <link>https://zenn.dev/sonicgarden/articles/e5fd7f54433d3d</link>
+      <description>この記事は Claude on SonicGarden の記事です。ソニックガーデンのプログラマが、Claude Codeの活用について書いています。#claude_on_sonicgarden
+
 
  はじめに
-こんにちは、デザインエンジニアのyamarinです。
-最近のHTMLやCSSを見ていると、昔ならJSやUIライブラリで実装していたUIが、少しずつブラウザの標準機能として扱えるようになってきていますね。
-例えばこんな技術です。
+複数の業務を抱えていると、どうしても優先度が下がってしまうタスクがあります。私の場合、それは 社内プロジェクトの開発 でした。
+本記事では、その社内プロジェクト開発を気合いではなく「仕組み」で前に進めるために、Claude Code の Skill を活用してチームの開発フローを自動化した取り組みについて紹介します。
 
-モーダルを扱う &lt;dialog&gt;タグ
-ドロップダウンやホバーカードのような浮遊UIを扱うPopover API
-背景要素の操作を止めるinert属性
-要素同士の位置関係をCSSで扱うCSS Anchor Positioning
 
-使う側からすると「JSを書かなくてもできることが増えて便利やな」と感じますね。
-ただ、こ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/estie/articles/79b2db0586a0b9</guid>
-      <pubDate>Wed, 20 May 2026 02:41:47 +0000</pubDate>
+ なぜ社内プロジェクトが後回しになっていたか
+社内プロジ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sonicgarden/articles/e5fd7f54433d3d</guid>
+      <pubDate>Wed, 20 May 2026 15:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Salesforceのセキュリティ強化に備えよう（確認・対応すべき項目ざっくりまとめ）</title>
+      <link>https://zenn.dev/cariot_dev/articles/b86f16678bc31a</link>
+      <description>はじめに
+最近、Salesforceはセキュリティ強化に対する要求を立て続けに発表しています。
+これまでのリリース更新では、対応猶予が数ヶ月〜1年程度与えられることが多かったのですが、今回のセキュリティ対応事項のなかには猶予が約1か月などかなり短いものもあり、Salesforce側の強い危機感と緊急性が伝わってきます。
+一方、対応を進める立場としては、案内が五月雨式かつ適用時期もバラバラなため、「結局、自分たちは何をいつまでにやればよいのか」がわかりにくく、ちゃんと対応ができているのかが不安になるのも事実です。そこで、現時点で把握している情報を精査・整理し、「自分たちに影響あるの？」... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/cariot_dev/articles/b86f16678bc31a</guid>
+      <pubDate>Thu, 21 May 2026 08:32:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>LinuxカーネルのRust対応を牽引する2人のキーマン — 3500万行のCコードベースに「書き直しではなく相互運用性」で挑む</title>
+      <link>https://techfeed.io/entries/6a0f7344d7ab5858a63326a2?from=rss</link>
+      <description>5月21日、corrodeが「Rust for Linux Live with Alice Ryhl and Greg Kroah-Hartman - Rust in Production Podcast」と題した記事を公開した。3500万行のCコードベースを誇るLinuxカーネルに、Rust言語を導入する壮大な取り組みが本格化している。オランダ・ユトレヒトで開催されたRust Weekでは、Linux Foundation FellowでLinux安定版カーネルのメンテナーGreg Kroah-Hartmanと、GoogleでAndroidとRust for Linux開発を担当するAlice Ryhlの2人がライブインタビューに応じ、プロジェクトの現状と将来について語った。なぜ今、LinuxにRustなのかLinuxカーネルは地球上で最も重要なインフラだが、その大半がメモリ安全でないC言語で書かれている。Linux Kernel CVE Statisticsによると、カーネルの脆弱性の約70%がメモリ関連の問題に起因している。バッファオーバーフローやuse-after-freeとい (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a0f7344d7ab5858a63326a2?from=rss</guid>
+      <pubDate>Thu, 21 May 2026 21:04:04 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Firefox 148でasm.js最適化を無効化 — WebAssemblyの父とも言える技術が13年の歴史に幕</title>
@@ -35,26 +66,6 @@
       <description>5月20日、Ryan Hunt氏が「Saying goodbye to asm.js」と題した記事を公開した。この記事では、MozillaがFirefox 148でasm.js最適化をデフォルト無効化し、将来的に完全削除する計画について詳しく紹介されている。以下に、その内容を紹介する。Web技術史の一つの終焉Firefox 148からSpiderMonkeyのasm.js最適化がデフォルトで無効になり、Mozillaは将来のリリースでコードを完全に削除する予定だ。asm.jsを使用しているサイトを運営している場合でも、何も壊れることはない。asm.jsは単純にJavaScriptのサブセットなので、コードは通常のJITを通じて他のスクリプトと同様に動作し続ける。ただし、WebAssemblyに再コンパイルすることで、より高速な実行とより小さなバイナリサイズを実現できる。asm.jsの歴史的意味asm.jsは、NaClとPNaClが提起した「Webでネイティブ速度のコードを実行するにはどうすればよいか？」という問いに対するMozillaの答えだった。そのアイデアは巧妙なものだった。エンジ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a0e2111d7ab5858a632688e?from=rss</guid>
       <pubDate>Wed, 20 May 2026 21:01:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linuxカーネルに相次ぐ特権昇格脆弱性「Copy Fail」「Dirty Frag」「Fragnesia」— 発見速度が従来より高速化、Gentooが緊急対応を呼びかけ</title>
-      <link>https://techfeed.io/entries/6a0cd1c7d7ab5858a631b2a8?from=rss</link>
-      <description>5月19日、Gentoo Linuxが「Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities – Gentoo Linux」と題した記事を公開した。この記事では、Linuxカーネルで相次いで発見されている特権昇格脆弱性への対応について詳しく紹介されている。以下に、その内容を紹介する。相次ぐカーネル特権昇格脆弱性の発見Linuxカーネルでは最近、Copy Fail、Dirty Frag、Fragnesiaといった一連の特権昇格脆弱性が相次いで発見されている。これらの脆弱性は同様の性質を持ち、攻撃者がシステム権限を取得する可能性がある深刻な問題だ。注目すべき点は、これらの脆弱性発見が従来よりも高速化している傾向にあることだ。Gentoo側は「脆弱性が発見・開示される速度が以前より速くなっており、少なくとも短期的にはこの傾向が続く」と予想している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a0cd1c7d7ab5858a631b2a8?from=rss</guid>
-      <pubDate>Tue, 19 May 2026 21:10:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIでコードが増えていくこの時代に、メンテナンスコスト削減にもAIを</title>
-      <link>https://zenn.dev/r_kaga/articles/00f4bef5a8ac70</link>
-      <description>AIにIssueを渡してPRを作らせたり、夜中に作業を進めてもらったりすることが当たり前になり、実装速度が上がっている実感はかなりあります。
-一方で、実装速度が上がるほど気になることは、このままのペースで増やしたコードを、来年も同じように直せるんだろうか？という点です。
-AIコーディングの話では「どれだけ速く作れたか」が目立ちます。
-でも、その裏側にあるメンテナンスコストの存在は忘れられがちです。私も忘れがちです。
-圧倒的なスピードでコードを積み重ねる体験はAIコーディングハイです。
-
-しかし、ここを見ないまま生成速度だけを上げると、未来の変更コストを積み増しているだけになりかねません。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/r_kaga/articles/00f4bef5a8ac70</guid>
-      <pubDate>Tue, 19 May 2026 07:33:00 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】AIが80年間未解決の数学難問を解決 — エルデシュの幾何学予想を覆し、数学界の権威が「画期的成果」と称賛</title>
@@ -71,28 +82,6 @@ AIコーディングの話では「どれだけ速く作れたか」が目立ち
       <pubDate>Wed, 20 May 2026 21:02:54 +0000</pubDate>
     </item>
     <item>
-      <title>AIを5本同時に走らせても、俺の脳みそは1個しかない</title>
-      <link>https://zenn.dev/pepabo/articles/9baa6271b2055d</link>
-      <description>こんにちは。脳みそが1個しかない者です。
-これは味噌です
-最近、当たり前のように並列開発をするようになりました。皆さんもそうだと思います。cmuxや何なりでAIで5〜6本のタスクを同時に走らせて、サブエージェントも含めると10本以上が同時に動いているみたいな感じです。
-燃やし切って退勤する頃には、今日自分が何をしたのか、コードの中身がどうなっているのか、よく思い出せない時もあります。記憶が薄い。
-たまに思います。
-これ仕事じゃなくてゲームとかYoutubeだったら、お母さんに怒られたんだろうね
-
- 人間は並列処理できない
-これ、もう何十年も前から認知科学で言われていることなんですが、改め... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pepabo/articles/9baa6271b2055d</guid>
-      <pubDate>Tue, 19 May 2026 00:15:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI投資8000億ドルの現実 — 利益を上げるのは建設会社とNVIDIAだけ</title>
-      <link>https://techfeed.io/entries/6a0ccf62d7ab5858a631b207?from=rss</link>
-      <description>5月19日、Ed Zitron氏が「AI Is Too Expensive」と題した記事を公開した。この記事では、AI業界の経済的持続可能性の根本的問題について詳しく分析されている。現在のAI業界で実際に利益を上げているのは建設会社、NVIDIA、そして周辺のハードウェア企業のみだという衝撃的な分析だ。ハイパースケーラー（Microsoft、Google、Amazon、Meta）は過去3年間で8000億ドル以上を投資したにも関わらず、これらの投資を回収するためには、AI特化の売上で最低でも3兆ドルが必要という現実が待ち受けている。2024年のOpenAI、Anthropic等の資金調達ラッシュや、各社のAI投資発表が相次ぐ中、投資家や業界関係者の間では「AIバブル」への懸念が高まっている。特に2024年第4四半期以降、NVIDIAの株価変動やハイパースケーラーの決算発表でAI投資の持続可能性が問われる機会が増加しており、今回のZitron氏の分析は、これらの懸念を具体的な数字で裏付けるものとなっている。Microsoftの投資実態が示すAIビジネスの現実特に注目すべきは、Musk-Op (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a0ccf62d7ab5858a631b207?from=rss</guid>
-      <pubDate>Tue, 19 May 2026 21:00:18 +0000</pubDate>
-    </item>
-    <item>
       <title>複数集約を跨ぐ処理を1つのDBトランザクションで括る前に読む記事</title>
       <link>https://zenn.dev/j5ik2o/articles/59de072b6728ff</link>
       <description>本稿は、DDDの集約モデリング手順や、境界の見つけ方そのものを解説する記事ではない。扱うのは、集約境界と単一DBトランザクション境界を混同したときの波及である。RDBのロックや運用上の負担、読み取り側の公開範囲、プロセスマネージャー設計へ、どのような影響が出るのかを見る。つまり、ドメインモデリングの本質論ではなく、不変条件を実装へ落とす過程で表面化する技術的な論点に焦点を当てる。
@@ -102,11 +91,11 @@ AIコーディングの話では「どれだけ速く作れたか」が目立ち
       <pubDate>Wed, 20 May 2026 16:20:43 +0000</pubDate>
     </item>
     <item>
-      <title>中国製LLMの内部に隠された検閲メカニズムを初めて可視化 — AIの「思考」を重みパラメータから読み取る新手法</title>
-      <link>https://techfeed.io/entries/6a0cd063d7ab5858a631b20b?from=rss</link>
-      <description>5月19日、AI研究者のVasが「What political censorship looks like inside an LLM's weights」と題した記事を公開した。この記事では、これまでブラックボックスだったLLM（大規模言語モデル）の内部で動作する政治的検閲メカニズムを、重みパラメータレベルで初めて数値的に可視化した画期的な研究について詳しく紹介されている。今なぜLLMの「内部検閲」研究が重要なのか2024年以降、ChatGPTやClaude、中国のQwenなど各国のLLMが急速に普及する中、「モデルが何を学習し、どのような判断基準を内部に持っているか」を解明することがAI安全性研究の最重要課題となっている。特に、政治的に敏感なトピックに対するAIの応答パターンは、訓練過程での検閲やバイアスを反映している可能性が指摘されてきたが、従来のブラックボックステストでは内部動作の詳細な分析は困難だった。そこで注目されているのがアクティベーションステアリングという手法だ。これはモデルの中間層での活性化パターンを分析することで、モデルの「思考過程」を数値的に解明する技術である。中 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a0cd063d7ab5858a631b20b?from=rss</guid>
-      <pubDate>Tue, 19 May 2026 21:04:35 +0000</pubDate>
+      <title>AnthropicのAIがSymfonyを監査して19件の脆弱性を発見 — 偽陽性ゼロの精度でセキュリティ監査が変わる</title>
+      <link>https://techfeed.io/entries/6a0f726ed7ab5858a6332685?from=rss</link>
+      <description>5月21日、Symfony公式ブログが「Claude Mythos Audited Symfony and Found 19 Vulnerabilities (Symfony Blog)」と題した記事を公開した。この記事では、AnthropicのAIモデル「Claude Mythos Preview」がSymfonyとTwigのコードベースを監査し、19件の脆弱性を発見した事例について詳しく紹介されている。以下に、その内容を紹介する。AIによるセキュリティ監査の実力Claude Mythos Previewは、Anthropicが開発した新しい汎用AI言語モデルだ。このモデルは幅広いタスクで優秀な性能を示すが、特にコンピューターセキュリティ分野で強力な能力を発揮する。現在、このモデルは一般公開されていないが、Anthropicは選ばれた技術プロジェクトに対して「Project Glasswing」という取り組みを通じて提供している。この取り組みでは、Claude Mythosが数千件のセキュリティ脆弱性を発見しており、主要なオペレーティングシステムやWebブラウザすべてで脆弱性が見つか (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a0f726ed7ab5858a6332685?from=rss</guid>
+      <pubDate>Thu, 21 May 2026 21:00:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
