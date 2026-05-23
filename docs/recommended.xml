@@ -7,72 +7,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 09:34:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 08:24:36 +0000</lastBuildDate>
     <item>
-      <title>Claude Code のサブエージェント構成は、業務形態で大きく変わる — 1人多案件横断者の設計例</title>
-      <link>https://zenn.dev/sprix_it/articles/53c746eb9cf31c</link>
-      <description>はじめに
-Claude Code のマルチエージェント設計パターンは、すでに classmethod の整理記事 などで体系化されています。Orchestrator-subagent、Agent Teams、Generator-Verifier、Message Bus、Shared State の5つです。
-この記事の主張は、パターンの中身ではなく 「どのパターンを選ぶかは、業務形態が支配的な変数である」 という1点に絞ります。
-きっかけは、社内で「同じツール（Claude Code）を使っているのに、人によってサブエージェントの構成がまったく違う」という話題が出たことでした。違いの... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sprix_it/articles/53c746eb9cf31c</guid>
-      <pubDate>Wed, 20 May 2026 07:09:39 +0000</pubDate>
+      <title>テレ朝、鈴木紗理奈事務所と「誠意をもってやりとり」明かす　あのちゃんが番組で「嫌い」名指し放送、「配慮が足りず」</title>
+      <link>https://www.j-cast.com/2026/05/22514970.html?p=all</link>
+      <description>「嫌いで結構やけどそういうのおもんないし、あんたが損するで」 鈴木さんはストーリーズ機能で、「わたしは画面ではどんなにやり合ってても裏ではきちんと信頼関係があるというかっこいいバラエティーが好きや」としたうえで、自身が出演していない番組で、嫌いな芸能人として名前を挙げられたことを告白。 そのタレン... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.j-cast.com/2026/05/22514970.html?p=all</guid>
+      <pubDate>Fri, 22 May 2026 14:45:18 +0000</pubDate>
     </item>
     <item>
-      <title>技術とマネジメントの架け橋に。PMOの私がクラウド資格に挑むワケ</title>
-      <link>https://qiita.com/yoko_tachihara/items/1bdf0e10998c9e6c7661?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>■はじめに
-こんにちは！MSOL DigitalでPMOとして活動しています。 「放っておいてもコードを書く」タイプではない私がクラウドに挑み続ける理由。それは、技術という「共通言語」を武器に、PMOとしてのバリューを最大化したいからです 。
-本記事では、中学生の娘を持つマ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/yoko_tachihara/items/1bdf0e10998c9e6c7661?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 21 May 2026 11:43:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>1時間で開発を完了する。Claude Code の Skill で社内プロジェクトを仕組み化した話</title>
-      <link>https://zenn.dev/sonicgarden/articles/e5fd7f54433d3d</link>
-      <description>この記事は Claude on SonicGarden の記事です。ソニックガーデンのプログラマが、Claude Codeの活用について書いています。#claude_on_sonicgarden
+      <title>ホテルの客室向けインフォメーションシステムを内製してみた</title>
+      <link>https://zenn.dev/7garden/articles/90bfc4e12b5461</link>
+      <description>こんにちは。7gardenというホテル運営会社でテックリードを担当しているKeitaです。
+ホテル宿泊時、客室テレビに館内情報等が表示されていることがあると思います。弊社ではこれをホテルインフォメーションシステムと呼んでおり、今回はこのシステムを内製したお話です。
+ホテル現場からの意見も踏まえたコンテンツ設計、ハードウェアの選定、ソフトウェア側の技術スタックの工夫などの要素が重なり、これまでのWeb開発では味わえない、ホテル運営会社ならではのやりがいのある業務となっています。
 
+Hotel Mei用のホテルインフォメーションシステム
 
- はじめに
-複数の業務を抱えていると、どうしても優先度が下がってしまうタスクがあります。私の場合、それは 社内プロジェクトの開発 でした。
-本記事では、その社内プロジェクト開発を気合いではなく「仕組み」で前に進めるために、Claude Code の Skill を活用してチームの開発フローを自動化した取り組みについて紹介します。
-
-
- なぜ社内プロジェクトが後回しになっていたか
-社内プロジ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sonicgarden/articles/e5fd7f54433d3d</guid>
-      <pubDate>Wed, 20 May 2026 15:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Salesforceのセキュリティ強化に備えよう（確認・対応すべき項目ざっくりまとめ）</title>
-      <link>https://zenn.dev/cariot_dev/articles/b86f16678bc31a</link>
-      <description>はじめに
-最近、Salesforceはセキュリティ強化に対する要求を立て続けに発表しています。
-これまでのリリース更新では、対応猶予が数ヶ月〜1年程度与えられることが多かったのですが、今回のセキュリティ対応事項のなかには猶予が約1か月などかなり短いものもあり、Salesforce側の強い危機感と緊急性が伝わってきます。
-一方、対応を進める立場としては、案内が五月雨式かつ適用時期もバラバラなため、「結局、自分たちは何をいつまでにやればよいのか」がわかりにくく、ちゃんと対応ができているのかが不安になるのも事実です。そこで、現時点で把握している情報を精査・整理し、「自分たちに影響あるの？」... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/cariot_dev/articles/b86f16678bc31a</guid>
-      <pubDate>Thu, 21 May 2026 08:32:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>LinuxカーネルのRust対応を牽引する2人のキーマン — 3500万行のCコードベースに「書き直しではなく相互運用性」で挑む</title>
-      <link>https://techfeed.io/entries/6a0f7344d7ab5858a63326a2?from=rss</link>
-      <description>5月21日、corrodeが「Rust for Linux Live with Alice Ryhl and Greg Kroah-Hartman - Rust in Production Podcast」と題した記事を公開した。3500万行のCコードベースを誇るLinuxカーネルに、Rust言語を導入する壮大な取り組みが本格化している。オランダ・ユトレヒトで開催されたRust Weekでは、Linux Foundation FellowでLinux安定版カーネルのメンテナーGreg Kroah-Hartmanと、GoogleでAndroidとRust for Linux開発を担当するAlice Ryhlの2人がライブインタビューに応じ、プロジェクトの現状と将来について語った。なぜ今、LinuxにRustなのかLinuxカーネルは地球上で最も重要なインフラだが、その大半がメモリ安全でないC言語で書かれている。Linux Kernel CVE Statisticsによると、カーネルの脆弱性の約70%がメモリ関連の問題に起因している。バッファオーバーフローやuse-after-freeとい (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a0f7344d7ab5858a63326a2?from=rss</guid>
-      <pubDate>Thu, 21 May 2026 21:04:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】Firefox 148でasm.js最適化を無効化 — WebAssemblyの父とも言える技術が13年の歴史に幕</title>
-      <link>https://techfeed.io/entries/6a0e2111d7ab5858a632688e?from=rss</link>
-      <description>5月20日、Ryan Hunt氏が「Saying goodbye to asm.js」と題した記事を公開した。この記事では、MozillaがFirefox 148でasm.js最適化をデフォルト無効化し、将来的に完全削除する計画について詳しく紹介されている。以下に、その内容を紹介する。Web技術史の一つの終焉Firefox 148からSpiderMonkeyのasm.js最適化がデフォルトで無効になり、Mozillaは将来のリリースでコードを完全に削除する予定だ。asm.jsを使用しているサイトを運営している場合でも、何も壊れることはない。asm.jsは単純にJavaScriptのサブセットなので、コードは通常のJITを通じて他のスクリプトと同様に動作し続ける。ただし、WebAssemblyに再コンパイルすることで、より高速な実行とより小さなバイナリサイズを実現できる。asm.jsの歴史的意味asm.jsは、NaClとPNaClが提起した「Webでネイティブ速度のコードを実行するにはどうすればよいか？」という問いに対するMozillaの答えだった。そのアイデアは巧妙なものだった。エンジ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a0e2111d7ab5858a632688e?from=rss</guid>
-      <pubDate>Wed, 20 May 2026 21:01:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】AIが80年間未解決の数学難問を解決 — エルデシュの幾何学予想を覆し、数学界の権威が「画期的成果」と称賛</title>
-      <link>https://techfeed.io/entries/6a0e204bd7ab5858a6326869?from=rss</link>
-      <description>5月20日、OpenAIが「An OpenAI model has disproved a central conjecture in discrete geometry」と題した記事を公開した。この記事では、AIモデルが約80年間未解決だった数学の難問「平面単位距離問題」における長年の予想を覆したことについて詳しく紹介されている。以下に、その内容を紹介する。AIが数学史上初の偉業を達成OpenAIの汎用推論モデルが、数学界で約80年間未解決だった「平面単位距離問題」の中心的予想を反証した。これは数学の活発な分野における著名な未解決問題を、AIが自律的に解決した初の事例となる。平面単位距離問題とは、1946年にポール・エルデシュが提起したもので、「平面上にn個の点を配置するとき、距離がちょうど1となる点のペアは最大何個できるか」を問う。組み合わせ幾何学で最もよく知られた問題の一つで、プリンストン大学の組み合わせ論の第一人者ノガ・アロンは「エルデシュのお気に入りの問題の一つ」と評している。正方格子が最適という80年の通説を覆す従来、正方格子構造が単位距離ペア数を最大化する上でほぼ最適だと (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a0e204bd7ab5858a6326869?from=rss</guid>
-      <pubDate>Wed, 20 May 2026 20:57:47 +0000</pubDate>
+ 背景：ゲスト体験の向上 ＆ スタッフのオペレーショ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/7garden/articles/90bfc4e12b5461</guid>
+      <pubDate>Thu, 21 May 2026 04:23:13 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】GoogleのAI検索が組織的に操作されている — 20分の実験で偽情報を事実として回答させる手法が横行</title>
@@ -80,6 +34,13 @@ Claude Code のマルチエージェント設計パターンは、すでに clas
       <description>5月20日、Thomas Germainが「Google's AI is being manipulated. The search giant is quietly fighting back」と題した記事を公開した。この記事では、GoogleのAIが組織的に操作されている問題と、検索大手による対策について詳しく紹介されている。以下に、その内容を紹介する。20分でAIを騙す実験が露呈した深刻な問題BBC記者のThomas Germainは2月、AIチャットボットを騙して偽情報を拡散させる方法が簡単に実行できることを実証した。彼は自分のWebサイトに「世界チャンピオンの競技用ホットドッグ早食い選手」という虚偽の記事を1本公開しただけで、翌日にはChatGPTとGoogleのAIが彼についてこの嘘を事実として回答するようになった。この実験は単なるジョークだったが、問題の深刻さを浮き彫りにした。同様の手法が医療サプリメントの健康リスクを軽視する情報や、退職金に関する金融情報の操作に使われている実例も発見されている。検索エンジン最適化（SEO）コンサルタント会社Algorythmicの創設者 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a0e217ed7ab5858a63268ac?from=rss</guid>
       <pubDate>Wed, 20 May 2026 21:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>「AI導入で人員削減した企業は負ける」— 人間を置き換えるのではなく増幅させる組織が勝つ理由</title>
+      <link>https://techfeed.io/entries/6a10c406d7ab5858a633d348?from=rss</link>
+      <description>5月22日、Libertas Softwareが「The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't」と題した記事を公開した。AIで人員削減する企業は、なぜ長期的に負けるのか2024年以降、ChatGPTやClaude、GitHub Copilotといった生成AIツールの急速な普及により、多くの企業がAI導入を理由とした人員削減に踏み切っている。実際、Goldman Sachsの調査では、生成AIにより全世界で3億人の雇用が影響を受ける可能性があると予測されている。表計算上では確かに理にかなって見える：少ない人員、低い人件費、同じ出力。しかし記事は、この判断が今後5年間でそれらの組織に高い代償をもたらすと警告する。AIによる効率化は正しい。問題は、多くの企業が「人間の仕事をAIに置き換える」という発想から抜け出せていないことだ。勝ち残る組織は、同じ仕事をより少ない人数で行った企業ではない。同じ人数でより多くの仕事を行うために、人間とAIを組み合わせた企業である。削除しているのは「再構築不可能な資 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a10c406d7ab5858a633d348?from=rss</guid>
+      <pubDate>Fri, 22 May 2026 21:00:53 +0000</pubDate>
     </item>
     <item>
       <title>複数集約を跨ぐ処理を1つのDBトランザクションで括る前に読む記事</title>
@@ -96,6 +57,64 @@ Claude Code のマルチエージェント設計パターンは、すでに clas
       <description>5月21日、Symfony公式ブログが「Claude Mythos Audited Symfony and Found 19 Vulnerabilities (Symfony Blog)」と題した記事を公開した。この記事では、AnthropicのAIモデル「Claude Mythos Preview」がSymfonyとTwigのコードベースを監査し、19件の脆弱性を発見した事例について詳しく紹介されている。以下に、その内容を紹介する。AIによるセキュリティ監査の実力Claude Mythos Previewは、Anthropicが開発した新しい汎用AI言語モデルだ。このモデルは幅広いタスクで優秀な性能を示すが、特にコンピューターセキュリティ分野で強力な能力を発揮する。現在、このモデルは一般公開されていないが、Anthropicは選ばれた技術プロジェクトに対して「Project Glasswing」という取り組みを通じて提供している。この取り組みでは、Claude Mythosが数千件のセキュリティ脆弱性を発見しており、主要なオペレーティングシステムやWebブラウザすべてで脆弱性が見つか (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a0f726ed7ab5858a6332685?from=rss</guid>
       <pubDate>Thu, 21 May 2026 21:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIコーディングツール6種でパンテオン神殿を3D再現 — Google製が格天井まで完全実装で圧勝</title>
+      <link>https://techfeed.io/entries/6a10c475d7ab5858a633d34e?from=rss</link>
+      <description>5月22日、ModelRiftが「OpenSCAD LLM Benchmark: Building the Pantheon」と題した記事を公開した。6つの主要AIコーディングツールにパンテオン神殿の3D再現を競わせたベンチマークテストで、Googleのシステムが圧倒的な差をつけて勝利したという興味深い結果が報告されている。このテストが注目される理由は明確だ。現在のAI開発競争において、コーディング能力は各社が最も力を入れる分野の一つとなっている。しかし従来のベンチマークは「Hello World」レベルの簡単すぎるタスクか、複雑すぎて実用性に欠けるものが多かった。パンテオン神殿の3D再現は、実用的でありながら十分に挑戦的なタスクとして設計されている。OpenSCADという戦場の選択今回のベンチマークで使用されたOpenSCADは、3Dモデルをプログラムコードで記述する「プログラマブル3Dモデラー」だ。BlenderやFusion 360のようなGUIツールとは異なり、すべての形状を数学的な記述とブール演算の組み合わせで構築する。ModelRiftがOpenSCADを選んだ理由は実用的 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a10c475d7ab5858a633d34e?from=rss</guid>
+      <pubDate>Fri, 22 May 2026 21:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vector DBを外したら、RAGではなくAgent Runtimeが残った</title>
+      <link>https://zenn.dev/mofuteq/articles/8a2193df98ac05</link>
+      <description>はじめに
+最初は、普通にRAGっぽいものを作っていました。
+扱いたかったのは、fashion や styling のような、正解が曖昧で、ノイズも多く、しかし人間は確かにそこから何かを読み取っている領域です。
+最初は Vector DB も入っていました。
+retrieve して、context を増やして、LLM に生成させる。
+典型的な RAG の構造です。
+でも、実装を進めるほど、欲しかったものが検索基盤ではなかったことに気づきました。
+これはなに。
+より正確には、自分が作りたかったのは、検索結果を増やす仕組みではなく、判断の境界が見える Agent でした。
+何を根拠にしてい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mofuteq/articles/8a2193df98ac05</guid>
+      <pubDate>Thu, 21 May 2026 12:16:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>電子カルテ開発は個人で行えるのか：OpenDolphinNext</title>
+      <link>https://zenn.dev/circlemouth/articles/opendolphinnext-individual-emr</link>
+      <description>はじめに
+
+これは、無謀にも電子カルテというプロジェクトを完遂させようとした、個人の反省記録です。
+「OpenDolphin」というオープンソースの電子カルテをフォークし、自分のクリニックで本番運用できる電子カルテを作ろうとして、結局断念するにいったまでの反省をまとめた記事です。
+断念した理由は以下の３つです
+
+技術的には見通しが立っても、制度・運用・保守の責任まで個人で背負うのは現実的ではない
+個人や小規模開発では認証電子カルテとなることは(ほぼ)不可能で、20~30年で電子カルテとして使用の制限を受ける可能性がある」
+完成したとして、保守が重すぎて院長業務と家庭を両立できない
+
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/circlemouth/articles/opendolphinnext-individual-emr</guid>
+      <pubDate>Fri, 22 May 2026 15:40:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>不可視文字による攻撃を防ぐにはパターンマッチだと厳しいという話</title>
+      <link>https://zenn.dev/ame_x/articles/16a5ddcef27c44</link>
+      <description>はじめに
+最近は不可視文字による攻撃が流行りらしいです。
+例えば、こんな奴
+
+これは実際に実行できて、元のコードの console.log("edamame is good!"); と同じ動作をしていることが分かります。
+
+仕組みは最後のコードを見れば分かりますが、不可視文字をパース、ソースコードとして解釈して、
+eval に渡しています。
+一見何もないように見えるので、例えば OSS だと、レビュワーが見落としてしまい、そのままマージしてしまうといったことがあり得ます。
+
+ 防ぐために？
+この攻撃を防ぐのに、eval や、new Function を弾くのが効果的という話が散見され... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ame_x/articles/16a5ddcef27c44</guid>
+      <pubDate>Fri, 22 May 2026 11:56:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

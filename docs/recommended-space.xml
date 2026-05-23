@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 09:34:59 +0000</lastBuildDate>
-    <item>
-      <title>時速180万kmで回転する巨大銀河「UGC 12591」　ハッブル宇宙望遠鏡が観測</title>
-      <link>https://sorae.info/astronomy/20260518-ugc-12591.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡が観測した銀河「UGC 12591」。ペガスス座の方向、地球から約4億光年先にあります。 大きく斜めに横たわっているように見えるUGC 12591では、暗い赤茶色をした塵（ダスト）とガスの帯（… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260518-ugc-12591.html</guid>
-      <pubDate>Mon, 18 May 2026 11:58:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 May 2026 08:24:40 +0000</lastBuildDate>
     <item>
       <title>ispaceが月周回衛星を活用した通信・測位サービスを発表。地球と月をつなぐハブ、月周回衛星があれば何ができる？【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/45639/</link>
@@ -30,11 +23,11 @@
       <pubDate>Tue, 19 May 2026 07:14:41 +0000</pubDate>
     </item>
     <item>
-      <title>太陽系が通過中の「局所星間雲」には超新星爆発由来の物質が蓄積されている？</title>
-      <link>https://sorae.info/astronomy/20260518-60fe-lic.html</link>
-      <description>ヘルムホルツセンター・ドレスデン・ローゼンドルフ（HZDR）研究所のDominik Koll博士を筆頭とする国際的な研究チームは、南極の氷床コアから検出された放射性同位体「鉄60（60Fe）」に関する新たな研究成果を発表… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260518-60fe-lic.html</guid>
-      <pubDate>Mon, 18 May 2026 00:03:50 +0000</pubDate>
+      <title>まるで“雪の結晶”のような美しさ　ハッブル宇宙望遠鏡が観測した球状星団「NGC 6441」</title>
+      <link>https://sorae.info/astronomy/20260522-ngc-6441.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡が観測した球状星団「NGC 6441」。さそり座の方向、地球から約4万4000光年先にあります。 真っ暗な宇宙空間を背景に、無数の星々が密集して輝く様子は圧巻の一言です。ESA（ヨーロッパ宇宙… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260522-ngc-6441.html</guid>
+      <pubDate>Fri, 22 May 2026 13:12:48 +0000</pubDate>
     </item>
     <item>
       <title>宇宙をただよう“小さな幽霊星雲”　ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 6369」</title>
@@ -72,11 +65,18 @@
       <pubDate>Thu, 21 May 2026 23:00:26 +0000</pubDate>
     </item>
     <item>
-      <title>「数回の打上げで市場は一気に拡大するだろう」ElevationSpace、Redwireが提携。バイオ医薬品技術を自社プラットフォームに統合へ【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/45700/</link>
-      <description>衛星内で実験などができる小型宇宙機を開発するElevationSpaceは米国のRedwire Corporationとの締結を発表しました。その提携内容と、RedwireがElevationSpaceに期待することについて、直接お話を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45700/</guid>
-      <pubDate>Thu, 23 Apr 2026 23:21:33 +0000</pubDate>
+      <title>木星の衛星エウロパからプルームは噴出しているか？　過去の研究結果を同じチームが検証</title>
+      <link>https://sorae.info/astronomy/20260522-europa-hubble.html</link>
+      <description>木星の衛星エウロパ（Europa）は、表面を覆う分厚い氷の殻の下に広大な内部海を持つと考えられており、太陽系内において地球以外に生命が存在する可能性のある有望な天体の一つとして注目を集めています。 2014年にはハッブル… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260522-europa-hubble.html</guid>
+      <pubDate>Fri, 22 May 2026 09:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rocket Lab、JAXAが顧客となった2回目の専用打ち上げに成功。軌道投入された編隊飛行や折り紙アンテナなど超小型衛星8機の紹介【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/46001/</link>
+      <description>2026年4月23日、小型ロケットによる宇宙輸送事業を手がけるRocket Labは、宇宙航空研究開発機構（JAXA）を顧客とした打上げとしては2度目となる専用打ち上げの成功を発表しました。搭載された8機の衛星について簡単に紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46001/</guid>
+      <pubDate>Fri, 22 May 2026 23:00:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
