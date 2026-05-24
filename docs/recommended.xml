@@ -7,33 +7,50 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 08:24:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 08:34:09 +0000</lastBuildDate>
     <item>
-      <title>テレ朝、鈴木紗理奈事務所と「誠意をもってやりとり」明かす　あのちゃんが番組で「嫌い」名指し放送、「配慮が足りず」</title>
-      <link>https://www.j-cast.com/2026/05/22514970.html?p=all</link>
-      <description>「嫌いで結構やけどそういうのおもんないし、あんたが損するで」 鈴木さんはストーリーズ機能で、「わたしは画面ではどんなにやり合ってても裏ではきちんと信頼関係があるというかっこいいバラエティーが好きや」としたうえで、自身が出演していない番組で、嫌いな芸能人として名前を挙げられたことを告白。 そのタレン... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.j-cast.com/2026/05/22514970.html?p=all</guid>
-      <pubDate>Fri, 22 May 2026 14:45:18 +0000</pubDate>
+      <title>LinuxカーネルのRust対応を牽引する2人のキーマン — 3500万行のCコードベースに「書き直しではなく相互運用性」で挑む</title>
+      <link>https://techfeed.io/entries/6a0f7344d7ab5858a63326a2?from=rss</link>
+      <description>5月21日、corrodeが「Rust for Linux Live with Alice Ryhl and Greg Kroah-Hartman - Rust in Production Podcast」と題した記事を公開した。3500万行のCコードベースを誇るLinuxカーネルに、Rust言語を導入する壮大な取り組みが本格化している。オランダ・ユトレヒトで開催されたRust Weekでは、Linux Foundation FellowでLinux安定版カーネルのメンテナーGreg Kroah-Hartmanと、GoogleでAndroidとRust for Linux開発を担当するAlice Ryhlの2人がライブインタビューに応じ、プロジェクトの現状と将来について語った。なぜ今、LinuxにRustなのかLinuxカーネルは地球上で最も重要なインフラだが、その大半がメモリ安全でないC言語で書かれている。Linux Kernel CVE Statisticsによると、カーネルの脆弱性の約70%がメモリ関連の問題に起因している。バッファオーバーフローやuse-after-freeとい (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a0f7344d7ab5858a63326a2?from=rss</guid>
+      <pubDate>Thu, 21 May 2026 21:04:04 +0000</pubDate>
     </item>
     <item>
-      <title>ホテルの客室向けインフォメーションシステムを内製してみた</title>
-      <link>https://zenn.dev/7garden/articles/90bfc4e12b5461</link>
-      <description>こんにちは。7gardenというホテル運営会社でテックリードを担当しているKeitaです。
-ホテル宿泊時、客室テレビに館内情報等が表示されていることがあると思います。弊社ではこれをホテルインフォメーションシステムと呼んでおり、今回はこのシステムを内製したお話です。
-ホテル現場からの意見も踏まえたコンテンツ設計、ハードウェアの選定、ソフトウェア側の技術スタックの工夫などの要素が重なり、これまでのWeb開発では味わえない、ホテル運営会社ならではのやりがいのある業務となっています。
+      <title>AIコーディングエージェントの本当の攻撃面は設定ファイルだった</title>
+      <link>https://zenn.dev/ju571n/articles/ai-agent-config-attack-surface</link>
+      <description>AIコーディングエージェント（Claude Code、Cursor、Gemini CLI など）のセキュリティリスクというと、「モデルが暴走して危険なコマンドを実行する」話を想像しがちです。ですが、この数ヶ月で実際に報告された深刻な事例は、どれもモデルが原因ではありませんでした。起点はすべて設定ファイルです。
+この記事では TrustFall と AWS Kiro の事例から「設定ファイルがなぜ攻撃面になるのか」を見たうえで、その対策として作った OSS ツール Sigil を紹介します。
 
-Hotel Mei用のホテルインフォメーションシステム
-
- 背景：ゲスト体験の向上 ＆ スタッフのオペレーショ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/7garden/articles/90bfc4e12b5461</guid>
-      <pubDate>Thu, 21 May 2026 04:23:13 +0000</pubDate>
+ 事例1：cloneして開くだけでRCE（TrustFall）
+2026年5月に Adversa... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ju571n/articles/ai-agent-config-attack-surface</guid>
+      <pubDate>Sat, 23 May 2026 11:51:21 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】GoogleのAI検索が組織的に操作されている — 20分の実験で偽情報を事実として回答させる手法が横行</title>
-      <link>https://techfeed.io/entries/6a0e217ed7ab5858a63268ac?from=rss</link>
-      <description>5月20日、Thomas Germainが「Google's AI is being manipulated. The search giant is quietly fighting back」と題した記事を公開した。この記事では、GoogleのAIが組織的に操作されている問題と、検索大手による対策について詳しく紹介されている。以下に、その内容を紹介する。20分でAIを騙す実験が露呈した深刻な問題BBC記者のThomas Germainは2月、AIチャットボットを騙して偽情報を拡散させる方法が簡単に実行できることを実証した。彼は自分のWebサイトに「世界チャンピオンの競技用ホットドッグ早食い選手」という虚偽の記事を1本公開しただけで、翌日にはChatGPTとGoogleのAIが彼についてこの嘘を事実として回答するようになった。この実験は単なるジョークだったが、問題の深刻さを浮き彫りにした。同様の手法が医療サプリメントの健康リスクを軽視する情報や、退職金に関する金融情報の操作に使われている実例も発見されている。検索エンジン最適化（SEO）コンサルタント会社Algorythmicの創設者 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a0e217ed7ab5858a63268ac?from=rss</guid>
-      <pubDate>Wed, 20 May 2026 21:02:54 +0000</pubDate>
+      <title>日本人たるもの、業務BOTを武士とすべし。</title>
+      <link>https://zenn.dev/ralutet/articles/20260523_samurai</link>
+      <description>はじめに
+現代の組織運営において、チャットツール用のBOTは不可欠です。しかし、多くのBOTは「～が更新されました。」や「～の期限です。」というような冷徹な事務連絡を行うのみで、単なる道具でしかなく、愛を感じることはできません。
+そこで私が行っている、愛されるBOTを作る方法の一つが、BOTの名前やアイコン、口調などを武士風とすることです。
+実際に、指定間隔でリマインドを送る「報衛門(しらせもん)」や、大阪大学学内連絡バスの乗降情報を記録する「記須蔵(しるすぞう)」を開発しており、以下のように使われています。
+
+
+
+
+正常に動作したとき
+エラーが発生したとき
+
+
+
+
+報衛門
+
+
+
+
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ralutet/articles/20260523_samurai</guid>
+      <pubDate>Sat, 23 May 2026 10:29:06 +0000</pubDate>
     </item>
     <item>
       <title>「AI導入で人員削減した企業は負ける」— 人間を置き換えるのではなく増幅させる組織が勝つ理由</title>

@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 08:24:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 08:34:13 +0000</lastBuildDate>
     <item>
       <title>ispaceが月周回衛星を活用した通信・測位サービスを発表。地球と月をつなぐハブ、月周回衛星があれば何ができる？【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/45639/</link>
       <description>2026年3月27日、ispaceは月周回衛星を活用した通信・測位サービスの立ち上げを発表しました。「地球と月面」をつなぐハブとして機能していくのか、今後の動向に注目です。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45639/</guid>
       <pubDate>Mon, 27 Apr 2026 23:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Avio、「Vega C」ロケットでESA・中国科学院の太陽風観測ミッション「SMILE」の衛星を打ち上げ</title>
-      <link>https://sorae.info/ssn/20260519-avio-vega-c-smile.html</link>
-      <description>ESA（ヨーロッパ宇宙機関）とイタリアの宇宙企業Avio（アヴィオ）は、日本時間2026年5月19日に「Vega C（ベガC）」ロケットの打ち上げを実施しました。搭載されていたESAとCAS（中国科学院）の共同ミッション… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260519-avio-vega-c-smile.html</guid>
-      <pubDate>Tue, 19 May 2026 07:14:41 +0000</pubDate>
     </item>
     <item>
       <title>まるで“雪の結晶”のような美しさ　ハッブル宇宙望遠鏡が観測した球状星団「NGC 6441」</title>
@@ -42,6 +35,13 @@
       <description>こちらは、ろ座（炉座）の方向、地球から約6000万光年先にある棒渦巻銀河「NGC 1365」です。 画像では、白い砂で描かれたような渦巻腕（渦状腕）が渦を巻き、その中心にある紫色の領域が強い光を放っています。また、渦巻腕… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260519-ngc-1365-chandra-webb.html</guid>
       <pubDate>Tue, 19 May 2026 03:12:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>過去最長の19日間におよぶ太陽からの「電波バースト」を観測　探査機複数で発生源を特定</title>
+      <link>https://sorae.info/astronomy/20260523-type-iv-radio-burst.html</link>
+      <description>NASA（アメリカ航空宇宙局）ゴダード宇宙飛行センターやメリーランド大学ボルティモア校などの研究チームによると、2025年8月から9月にかけて太陽で発生した「電波バースト」が、19日間という異例の長期間にわたり継続してい… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260523-type-iv-radio-burst.html</guid>
+      <pubDate>Sat, 23 May 2026 10:59:24 +0000</pubDate>
     </item>
     <item>
       <title>Planet LabsがNVIDIAモジュール搭載の衛星で、宇宙軌道上でのAIによる航空機の検知に成功【宇宙ビジネスニュース】</title>
