@@ -7,7 +7,44 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 10:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 10:03:11 +0000</lastBuildDate>
+    <item>
+      <title>AIで加速するプロダクトの変化を、開発チームの外に届ける仕組みづくり</title>
+      <link>https://zenn.dev/nstock/articles/ui-change-notifier</link>
+      <description>こんにちは。Nstock のKawamataです。
+Claude Code GitHub Actions（以下 Claude Code Actions）を使って、プロダクトの変更を開発チームの外へ共有する仕組みを作ってみたので紹介します。
+
+ 何が課題だったのか？
+Nstockでは開発チーム内でCoding Agentの利用が標準となっています。そして最近では、デザイナーなどエンジニア以外のメンバーも、Coding Agentを使いプルリクエストを作るようになりました。
+その影響でプロダクトの開発速度は確実に上がっています。
+株式報酬の開発チームでは、PRの月平均マージ数が2025年6月... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nstock/articles/ui-change-notifier</guid>
+      <pubDate>Sun, 24 May 2026 23:58:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>NotebookLMはこう使う。料理中に見づらい「縦型動画」を自分だけのレシピ帳にしてみたら | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2605-notebooklm-gemini-recipe-book/</link>
+      <description>最近、自炊をはじめました。もともと料理は好きなので、楽しく続けられています。 とはいえ、手持ちのレシピは数少ないわけで。同じ料理になっちゃうなーと思ったとき、私が頼るのがYouTubeのショート動画。料理系のユーチューバーがさまざまなお手軽レシピを投稿されているため、ありがたく真似させてもらっています。 ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.lifehacker.jp/article/2605-notebooklm-gemini-recipe-book/</guid>
+      <pubDate>Tue, 26 May 2026 04:14:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub サプライチェーン攻撃が怖すぎるので Socket.dev を試してみた</title>
+      <link>https://zenn.dev/tomodo_ysys/articles/socket-github-supply-chain-attack</link>
+      <description>はじめに
+GitHub 周辺のサプライチェーン攻撃への対策として Socket.dev を導入してみました。
+試した結果、Free プランでも個人開発ならそこそこ使えそうだったので、しばらく使ってみることにしました。
+
+ 背景
+最近、GitHub 周辺のサプライチェーン攻撃について、かなり暗澹とした気持ちで過ごしています。
+手口が巧妙で、しかもかなりメジャーなパッケージやツールまで侵害されていて「こんなんどうすりゃいいんだ、、」と思っています。
+直近の代表的なものだけでも、以下のようなものがありました。
+
+2026年3月の Axios npm パッケージ侵害
+TeamPCP 系の攻撃... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tomodo_ysys/articles/socket-github-supply-chain-attack</guid>
+      <pubDate>Sun, 24 May 2026 12:22:46 +0000</pubDate>
+    </item>
     <item>
       <title>AIエージェントが毎回データを取りに行く設計の限界</title>
       <link>https://zenn.dev/knowledge_graph/articles/kg-agent-memory-first-design</link>
@@ -41,35 +78,11 @@
       <pubDate>Sun, 24 May 2026 14:29:17 +0000</pubDate>
     </item>
     <item>
-      <title>「AI導入で人員削減した企業は負ける」— 人間を置き換えるのではなく増幅させる組織が勝つ理由</title>
-      <link>https://techfeed.io/entries/6a10c406d7ab5858a633d348?from=rss</link>
-      <description>5月22日、Libertas Softwareが「The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't」と題した記事を公開した。AIで人員削減する企業は、なぜ長期的に負けるのか2024年以降、ChatGPTやClaude、GitHub Copilotといった生成AIツールの急速な普及により、多くの企業がAI導入を理由とした人員削減に踏み切っている。実際、Goldman Sachsの調査では、生成AIにより全世界で3億人の雇用が影響を受ける可能性があると予測されている。表計算上では確かに理にかなって見える：少ない人員、低い人件費、同じ出力。しかし記事は、この判断が今後5年間でそれらの組織に高い代償をもたらすと警告する。AIによる効率化は正しい。問題は、多くの企業が「人間の仕事をAIに置き換える」という発想から抜け出せていないことだ。勝ち残る組織は、同じ仕事をより少ない人数で行った企業ではない。同じ人数でより多くの仕事を行うために、人間とAIを組み合わせた企業である。削除しているのは「再構築不可能な資 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a10c406d7ab5858a633d348?from=rss</guid>
-      <pubDate>Fri, 22 May 2026 21:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜDXは腐敗の温床となりやすいのか</title>
-      <link>https://zenn.dev/yuta_enginner/articles/9a695ea2cea5f2</link>
-      <description>「システムの都合上、対応できません」
-日本でこの言葉ほど、強力な免罪符はありません。
-高市政権下で消費税減税・撤廃の議論が持ち上がった際も、「レジ改修が間に合わない」「システム対応に莫大なコストがかかる」という話が、当然のように語られました。
-もちろん、システム改修にコストがかかるのは事実です。
-しかし問題は、システムの問題にしてしまえば、企業や官僚のおじさんたちはなぜか思考をストップしてしまい、その妥当性や解決を考えることなく「なら仕方ない」と現状維持を受け入れてしまうことです。
-
- ITの話になると思考停止する経営者たち
-私はこれまで食品会社の開発部門や、IR関係の仕事をしてきました... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yuta_enginner/articles/9a695ea2cea5f2</guid>
-      <pubDate>Sat, 23 May 2026 08:16:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIに投げても解けなかったGPSアート自動生成を、最適化問題として組み立て直した話</title>
-      <link>https://zenn.dev/jiro3141/articles/9ad0cd28b076e9</link>
-      <description>はじめに
-GPS アートとは、歩いたり走ったりした軌跡をランニングアプリなどで可視化して、地図上に絵や文字を描く遊びのことです。自分自身走るのが好きということもあり、家の周りの道路で何か面白い形を作れないかと考えていました。
-ただ、実際にやろうとすると結構大変です。地図を見ながら「この道を通れば猫っぽくなるかも」「この辺を回れば文字の曲線に見えるかも」と考えながら、道路の形に合わせてルートを組む必要があります。
-そこで、手描きの形を入力したら、その形に近い道路上のルートを自動で探すプログラムを書けないかと思いました。最初はこのアイデアをそのまま AI に投げれば実現できないかな〜とい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/jiro3141/articles/9ad0cd28b076e9</guid>
-      <pubDate>Sun, 24 May 2026 07:57:08 +0000</pubDate>
+      <title>カリフォルニア州がLinuxを年齢確認義務から除外へ — オープンソース開発者の反発受け修正案</title>
+      <link>https://techfeed.io/entries/6a14b92f7aea74110d7d4572?from=rss</link>
+      <description>5月25日、Etiido Ukoが「California moves to exempt Linux from its upcoming age-verification law after backlash over forcing operating systems to collect users' ages」と題した記事を公開した。カリフォルニア州がDebian、Fedora、Ubuntu、Arch Linux、Mintなどの主要Linuxディストリビューションを年齢確認法から除外する修正案AB 1856を提出した。これは、OSレベルでの年齢確認を義務化する元の法案に対して、オープンソース開発者やプライバシー団体から激しい反発が起きたことを受けた対応である。一方で、SteamOSのような独自アプリエコシステムを持つLinuxベースプラットフォームは、依然として規制対象に残る可能性がある。この修正案は、技術政策における「一律規制の限界」を示す興味深い事例となっている。児童保護とプライバシーのバランス近年、未成年者のオンライン安全保護への関心が世界的に高まっている。欧州のGDPRや (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a14b92f7aea74110d7d4572?from=rss</guid>
+      <pubDate>Mon, 25 May 2026 21:03:43 +0000</pubDate>
     </item>
     <item>
       <title>AIコーディングツール6種でパンテオン神殿を3D再現 — Google製が格天井まで完全実装で圧勝</title>
@@ -86,24 +99,6 @@ GPS アートとは、歩いたり走ったりした軌跡をランニングア�
 そんな私が、資格の価値について正直に書くと、「誰が取ったか」で価値の感じ方がか... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/philosophum/articles/6e5bcf90d33aed</guid>
       <pubDate>Sun, 24 May 2026 10:58:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>不可視文字による攻撃を防ぐにはパターンマッチだと厳しいという話</title>
-      <link>https://zenn.dev/ame_x/articles/16a5ddcef27c44</link>
-      <description>はじめに
-最近は不可視文字による攻撃が流行りらしいです。
-例えば、こんな奴
-
-これは実際に実行できて、元のコードの console.log("edamame is good!"); と同じ動作をしていることが分かります。
-
-仕組みは最後のコードを見れば分かりますが、不可視文字をパース、ソースコードとして解釈して、
-eval に渡しています。
-一見何もないように見えるので、例えば OSS だと、レビュワーが見落としてしまい、そのままマージしてしまうといったことがあり得ます。
-
- 防ぐために？
-この攻撃を防ぐのに、eval や、new Function を弾くのが効果的という話が散見され... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ame_x/articles/16a5ddcef27c44</guid>
-      <pubDate>Fri, 22 May 2026 11:56:54 +0000</pubDate>
     </item>
     <item>
       <title>AI時代の競争優位は「統合」にしかない —— エンジニアと組織が、今投資すべきもの</title>

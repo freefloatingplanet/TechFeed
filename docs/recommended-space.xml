@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 10:16:55 +0000</lastBuildDate>
-    <item>
-      <title>ispaceが月周回衛星を活用した通信・測位サービスを発表。地球と月をつなぐハブ、月周回衛星があれば何ができる？【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/45639/</link>
-      <description>2026年3月27日、ispaceは月周回衛星を活用した通信・測位サービスの立ち上げを発表しました。「地球と月面」をつなぐハブとして機能していくのか、今後の動向に注目です。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45639/</guid>
-      <pubDate>Mon, 27 Apr 2026 23:00:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 May 2026 10:03:14 +0000</lastBuildDate>
     <item>
       <title>まるで“雪の結晶”のような美しさ　ハッブル宇宙望遠鏡が観測した球状星団「NGC 6441」</title>
       <link>https://sorae.info/astronomy/20260522-ngc-6441.html</link>
@@ -58,6 +51,13 @@
       <pubDate>Thu, 21 May 2026 23:00:26 +0000</pubDate>
     </item>
     <item>
+      <title>ブラックホールの内部は「究極にもつれた情報の集まり」かもしれない</title>
+      <link>https://sorae.info/astronomy/20260525-black-hole-interior.html</link>
+      <description>重力がとても強い天体「ブラックホール」の内部は、外側とは異なる時空構造をしていると考えられています。このため、ブラックホールの外側の宇宙で組み立てられた現在の物理学の理論が、ブラックホールの内部でも使えるかどうか、その範… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260525-black-hole-interior.html</guid>
+      <pubDate>Mon, 25 May 2026 13:01:23 +0000</pubDate>
+    </item>
+    <item>
       <title>木星の衛星エウロパからプルームは噴出しているか？　過去の研究結果を同じチームが検証</title>
       <link>https://sorae.info/astronomy/20260522-europa-hubble.html</link>
       <description>木星の衛星エウロパ（Europa）は、表面を覆う分厚い氷の殻の下に広大な内部海を持つと考えられており、太陽系内において地球以外に生命が存在する可能性のある有望な天体の一つとして注目を集めています。 2014年にはハッブル… (source: sorae 宇宙へのポータルサイト)</description>
@@ -70,6 +70,13 @@
       <description>2026年4月23日、小型ロケットによる宇宙輸送事業を手がけるRocket Labは、宇宙航空研究開発機構（JAXA）を顧客とした打上げとしては2度目となる専用打ち上げの成功を発表しました。搭載された8機の衛星について簡単に紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46001/</guid>
       <pubDate>Fri, 22 May 2026 23:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>「夢だけで社内会議は通せない」ANA・JALの宇宙事業リーダーが語る宇宙業界のリアルと参入する価値とは</title>
+      <link>https://sorabatake.jp/45811/</link>
+      <description>異業種から宇宙業界に参入した企業に焦点を当てた対談連載「Why Space Business～異業種企業が見出した宇宙業界の可能性～」、第1回に登場いただいたのは航空業界です。なぜ今、航空会社が宇宙を目指し、事業を続けているのか、ANAホールディングスと、日本航空の2社にお話を伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45811/</guid>
+      <pubDate>Mon, 25 May 2026 23:00:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
