@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 10:03:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 10:00:38 +0000</lastBuildDate>
     <item>
       <title>まるで“雪の結晶”のような美しさ　ハッブル宇宙望遠鏡が観測した球状星団「NGC 6441」</title>
       <link>https://sorae.info/astronomy/20260522-ngc-6441.html</link>
@@ -37,18 +37,18 @@
       <pubDate>Wed, 29 Apr 2026 23:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>小惑星「2022 RD2」は2043年以降に3回 “第2の月” になるかもしれない</title>
-      <link>https://sorae.info/astronomy/20260520-asteroid-2022-rd2.html</link>
-      <description>地球の恒久的な自然衛星は月の1個のみですが、地球は時々、近くを通過する小惑星を捉え、一時的な “第2の月” とすることがあります。これまでにそのような小惑星は5個発見されています。一方で、軌道予測の困難さから、特定の小惑… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260520-asteroid-2022-rd2.html</guid>
-      <pubDate>Wed, 20 May 2026 12:03:36 +0000</pubDate>
-    </item>
-    <item>
       <title>宇宙ロボット開発にも標準OSを利用する時代に？  宇宙ロボットの最前線とSpace ROSの展望</title>
       <link>https://sorabatake.jp/45972/</link>
       <description>スペースデブリ除去、月面基地建設、火星探査……宇宙開発はもはやロボットなしには語れません。地上ロボット開発の標準「ROS」を宇宙向けに進化させたオープンソース基盤「Space ROS」の概要と展望を紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45972/</guid>
       <pubDate>Thu, 21 May 2026 23:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>「はやぶさ2」のカメラが太陽系外惑星を検出　口径15mmでの成功は最小記録</title>
+      <link>https://sorae.info/astronomy/20260527-hayabusa2-onc-t-transit.html</link>
+      <description>JAXA/ISAS（宇宙航空研究開発機構/宇宙科学研究所）の湯本航生さんを筆頭とする研究チームは、JAXAの小惑星探査機「はやぶさ2」に搭載された口径15mmの光学カメラ「ONC-T（光学航法望遠カメラ）」を使用して、太… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260527-hayabusa2-onc-t-transit.html</guid>
+      <pubDate>Wed, 27 May 2026 01:55:26 +0000</pubDate>
     </item>
     <item>
       <title>ブラックホールの内部は「究極にもつれた情報の集まり」かもしれない</title>

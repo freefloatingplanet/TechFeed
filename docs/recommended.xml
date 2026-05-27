@@ -7,75 +7,68 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 10:03:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 10:00:34 +0000</lastBuildDate>
     <item>
-      <title>AIで加速するプロダクトの変化を、開発チームの外に届ける仕組みづくり</title>
-      <link>https://zenn.dev/nstock/articles/ui-change-notifier</link>
-      <description>こんにちは。Nstock のKawamataです。
-Claude Code GitHub Actions（以下 Claude Code Actions）を使って、プロダクトの変更を開発チームの外へ共有する仕組みを作ってみたので紹介します。
-
- 何が課題だったのか？
-Nstockでは開発チーム内でCoding Agentの利用が標準となっています。そして最近では、デザイナーなどエンジニア以外のメンバーも、Coding Agentを使いプルリクエストを作るようになりました。
-その影響でプロダクトの開発速度は確実に上がっています。
-株式報酬の開発チームでは、PRの月平均マージ数が2025年6月... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nstock/articles/ui-change-notifier</guid>
-      <pubDate>Sun, 24 May 2026 23:58:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>NotebookLMはこう使う。料理中に見づらい「縦型動画」を自分だけのレシピ帳にしてみたら | ライフハッカー・ジャパン</title>
-      <link>https://www.lifehacker.jp/article/2605-notebooklm-gemini-recipe-book/</link>
-      <description>最近、自炊をはじめました。もともと料理は好きなので、楽しく続けられています。 とはいえ、手持ちのレシピは数少ないわけで。同じ料理になっちゃうなーと思ったとき、私が頼るのがYouTubeのショート動画。料理系のユーチューバーがさまざまなお手軽レシピを投稿されているため、ありがたく真似させてもらっています。 ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.lifehacker.jp/article/2605-notebooklm-gemini-recipe-book/</guid>
-      <pubDate>Tue, 26 May 2026 04:14:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub サプライチェーン攻撃が怖すぎるので Socket.dev を試してみた</title>
-      <link>https://zenn.dev/tomodo_ysys/articles/socket-github-supply-chain-attack</link>
+      <title>なぜAnthropicはプロンプトにXMLタグを推奨するのか──Markdownとの構造的な違い</title>
+      <link>https://zenn.dev/yun_bow/articles/a339e1d31a4c43</link>
       <description>はじめに
-GitHub 周辺のサプライチェーン攻撃への対策として Socket.dev を導入してみました。
-試した結果、Free プランでも個人開発ならそこそこ使えそうだったので、しばらく使ってみることにしました。
-
- 背景
-最近、GitHub 周辺のサプライチェーン攻撃について、かなり暗澹とした気持ちで過ごしています。
-手口が巧妙で、しかもかなりメジャーなパッケージやツールまで侵害されていて「こんなんどうすりゃいいんだ、、」と思っています。
-直近の代表的なものだけでも、以下のようなものがありました。
-
-2026年3月の Axios npm パッケージ侵害
-TeamPCP 系の攻撃... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tomodo_ysys/articles/socket-github-supply-chain-attack</guid>
-      <pubDate>Sun, 24 May 2026 12:22:46 +0000</pubDate>
+「Markdown で書けばAIが読みやすいはず」——そう思って CLAUDE.md や RAG のソースドキュメントを Markdown で整備してきた人は多いはずだ。
+しかし実際にプロンプトエンジニアリングを突き詰めていくと、システムプロンプトの構造化や RAG のチャンク設計という特定の用途に絞った文脈では、構造が複雑なコンテキストほど HTML や XML ライクな構造で渡したほうが AI の解釈精度が上がる という経験則に直面することがある。
+本稿では「なぜ Markdown より HTML が特定シナリオで AI に有利になりうるのか」を、言語設計・LLM の学... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yun_bow/articles/a339e1d31a4c43</guid>
+      <pubDate>Sun, 24 May 2026 04:37:14 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントが毎回データを取りに行く設計の限界</title>
-      <link>https://zenn.dev/knowledge_graph/articles/kg-agent-memory-first-design</link>
-      <description>AIエージェントが毎回データを取りに行く設計の限界
+      <title>Claude × Obsidian で「感情の跡」を残す仕組みを作る</title>
+      <link>https://zenn.dev/miyaken0805/articles/ed70d88fa81c34</link>
+      <description>はじめに
+AIと会話していると、すごくいいアイデアが出たり、深い内省ができたりすることがある。でも、チャットが終わるとその内容は流れていく。「あの時Claudeと話した内容、なんだったっけ…」を何度か繰り返して、ようやく気づいた、考えた跡を残す仕組みの必要性。
+この記事では、Claude（claude.ai）とObsidianをMCP経由で接続し、会話から生まれたアイデアやジャーナリングの記録を構造化して保存する仕組みの構築過程を紹介する。
+最終的にはClaude.aiのカスタムスキルとして /obsidian ideas と打つだけで保存できるところまで。
 
-この記事は独立して読めます（約8分）
-
-以前の記事「MCPの課題とナレッジグラフ」では、MCP/RAGアーキテクチャが抱えるscatter-gather問題（毎回バラバラのシステムに問い合わせて寄せ集める方式）を論じました。また「特許から読むDevRevの思想」では、その背景にある設計思想を特許から読み解きました。本記事ではその設計回答、すなわち「ではどう設計するか」を具体的に示します。
-
-
- 問題：PoCは動くが、本番では使われない
-「AIエージェントのPoCは動いたのに、本番に出すと遅い・不正確・使われない」
-日本のエンジニア... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledge_graph/articles/kg-agent-memory-first-design</guid>
-      <pubDate>Sun, 24 May 2026 08:44:07 +0000</pubDate>
+ この記事で扱うこと
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/miyaken0805/articles/ed70d88fa81c34</guid>
+      <pubDate>Tue, 26 May 2026 00:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>ソフトウェア技術者が身につけておきたい設計と開発の基礎</title>
-      <link>https://zenn.dev/momosetkn/articles/790798a6eae61e</link>
-      <description>!
-⚠当記事は、銀の弾丸ではありません。各自の目的や状況などを総合的に判断して、自分で責任を持って検討してください。
+      <title>インド最大教育委員会のシステムにザル脆弱性 — JS平文パスワードで数百万人の成績改ざん可能</title>
+      <link>https://techfeed.io/entries/6a160b017aea74110d7e13e7?from=rss</link>
+      <description>5月26日、ni5argaが「Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal: From Authentication Bypass to Full Account Takeover」と題した記事を公開した。JavaScriptファイルに採点者用のマスターパスワードが平文で記載され、誰でもダウンロードして数百万人の学生の成績を改ざんできる状態だった。発見されたのは、インド最大の教育委員会CBSEが運営するオンライン採点システムで、認証バイパスから完全なアカウント乗っ取りまで可能な5つの重大な脆弱性だ。インド版「大学入試センター試験」のシステムがザル仕様CBSE（Central Board of Secondary Education）は、インド政府管轄下で運営される同国最大の国家教育委員会だ。国内外の2万8000校以上が加盟し、毎年数百万人の学生がClass 10・12の国家試験を受験する。これらの試験結果は大学進学や就職に直結するため、インドの教育システムにおいて極めて重要な位置を占めている。C (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a160b017aea74110d7e13e7?from=rss</guid>
+      <pubDate>Tue, 26 May 2026 21:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>サプライチェーン攻撃対策の「実効」を継続検証するGitHub監査基盤を内製した話</title>
+      <link>https://zenn.dev/smartround_dev/articles/478c195bf914b6</link>
+      <description>はじめに
+こんにちは、スマートラウンドの@shonansurvivors です。
+近年、サプライチェーン攻撃のニュースを目にする機会が増えてきました。弊社でも各種の対策を打ってきたのですが、その「実効」を継続的に保証する仕組みが手薄でした。
+本記事では、その実効監査のために内製した社内監査基盤の設計思想と、なぜ既存ツールではなく自作したのか、そしてどのようなチェック処理を書いているのかをご紹介します。
 
-!
-⚠当記事は、銀の弾丸ではありません。各自の目的や状況などを総合的に判断して、自分で責任を持って検討してください。
+ 要約
 
-※大事なことなので２回書きました
+弊社ではpnpm minimumReleaseAge / GitHub ActionsのSHA pinning / Takumi Guardなど、サプライチェーン対策を段階... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/smartround_dev/articles/478c195bf914b6</guid>
+      <pubDate>Tue, 26 May 2026 01:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>TypeScriptの裏側を浴びた2日間 ── TSKaigi 2026参加記</title>
+      <link>https://zenn.dev/0st_ts/articles/7878ffe89b8c6a</link>
+      <description>こんにちは！わかと（@0st_ts）です。
+今回はTSKaigi 2026の参加にあたり、ただ漫然とセッションを聞くのではなく、自分のコンテキストと照らし合わせて「何を抽出するのか」を事前に分析しました。
+家でコードを書いているだけでは得られない「現場の熱量」や「インフラレベルの泥臭さ」を浴びに行くためのタイムテーブル備忘録です。
 
- はじめに
-ソフトウェア開発では、肩書きや経験年数だけでは判断の質は保証されません。 私はこれまで、CTO、テックリード、技術書の著者、経験豊富なエンジニアといった立場であっても、ソフトウェアの性質を十分に理解しないまま、非効率な開発や品質の低い設計を組織に強いてしまう人を目にしてきました。 この記事では、特定の技術... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/momosetkn/articles/790798a6eae61e</guid>
-      <pubDate>Sun, 24 May 2026 14:29:17 +0000</pubDate>
+
+ 事前イベントから、すでにTSKaigiは始まっていた
+TSKaigi本番前には、学生支援制度の顔合わせイベントにも参加していました。
+最初は正直、
+
+「スポンサー企業さんの説明会みたいな感じかな？」
+
+と思っていたんですが、実際はかなり違っていて面白かっ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/0st_ts/articles/7878ffe89b8c6a</guid>
+      <pubDate>Mon, 25 May 2026 10:00:07 +0000</pubDate>
     </item>
     <item>
       <title>カリフォルニア州がLinuxを年齢確認義務から除外へ — オープンソース開発者の反発受け修正案</title>
@@ -85,29 +78,31 @@ TeamPCP 系の攻撃... (source: Zennのトレンド)</description>
       <pubDate>Mon, 25 May 2026 21:03:43 +0000</pubDate>
     </item>
     <item>
-      <title>AIコーディングツール6種でパンテオン神殿を3D再現 — Google製が格天井まで完全実装で圧勝</title>
-      <link>https://techfeed.io/entries/6a10c475d7ab5858a633d34e?from=rss</link>
-      <description>5月22日、ModelRiftが「OpenSCAD LLM Benchmark: Building the Pantheon」と題した記事を公開した。6つの主要AIコーディングツールにパンテオン神殿の3D再現を競わせたベンチマークテストで、Googleのシステムが圧倒的な差をつけて勝利したという興味深い結果が報告されている。このテストが注目される理由は明確だ。現在のAI開発競争において、コーディング能力は各社が最も力を入れる分野の一つとなっている。しかし従来のベンチマークは「Hello World」レベルの簡単すぎるタスクか、複雑すぎて実用性に欠けるものが多かった。パンテオン神殿の3D再現は、実用的でありながら十分に挑戦的なタスクとして設計されている。OpenSCADという戦場の選択今回のベンチマークで使用されたOpenSCADは、3Dモデルをプログラムコードで記述する「プログラマブル3Dモデラー」だ。BlenderやFusion 360のようなGUIツールとは異なり、すべての形状を数学的な記述とブール演算の組み合わせで構築する。ModelRiftがOpenSCADを選んだ理由は実用的 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a10c475d7ab5858a633d34e?from=rss</guid>
-      <pubDate>Fri, 22 May 2026 21:02:45 +0000</pubDate>
+      <title>【海外記事紹介】AWS解雇社員が語る「顧客救済の代償」— 10年アカウント削除問題の舞台裏</title>
+      <link>https://techfeed.io/entries/6a1609e97aea74110d7e13da?from=rss</link>
+      <description>5月26日、モロッコの開発者が「AWS Fired the One Employee Who Gave a Damn」と題した記事を公開した。10年間のAWSアカウントが警告なしに削除された問題で顧客を救った社員が、その10ヶ月後にAWSから解雇されたという主張が注目を集めている。この記事は、クラウド業界における顧客サポートの在り方と企業組織の課題について一石を投じる内容となっている。AWSをはじめとする大手クラウドプロバイダーは、2024年以降GenAIへの投資拡大と並行して組織再編を進めている。こうした変化の中で、実際の顧客対応の現場では何が起きているのか、内部関係者からの証言は貴重な情報源となっている。「課金システム問題」でアカウント削除、20日間の対応記事によると、著者（モロッコの開発者）の10年間のAWSアカウントが課金システムの問題により警告なしに削除されたという。20日間のサポート対応の末、最終的に問題解決に動いたのがTarus Balogという社員だった。Tarus氏はAWSのオープンソース戦略・マーケティングチームで4年間勤務し、20年間のオープンソース経験を持つエン (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a1609e97aea74110d7e13da?from=rss</guid>
+      <pubDate>Tue, 26 May 2026 21:00:25 +0000</pubDate>
     </item>
     <item>
-      <title>AWS資格の価値は「誰が取ったか」で変わる</title>
-      <link>https://zenn.dev/philosophum/articles/6e5bcf90d33aed</link>
-      <description>そろそろAWS Certified Generative AI Developer - Professionalを取らないとなぁと思いながら、ふとよくある資格の要不要論争を思いだしたので、何となくポエムを書いた。
-私自身は、2023年からAWSの認定資格は全部取得しています。いわゆる全冠です。元々全冠には興味が無かったのですが、ある時、全冠の人が金色のジャケットを貰っていて何となく羨ましいと言うのと、そもそも会社の評価の為に定期的にAWS認定試験は受けており、あと少し頑張れば全冠だったのでチャレンジしました。
-そんな私が、資格の価値について正直に書くと、「誰が取ったか」で価値の感じ方がか... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/philosophum/articles/6e5bcf90d33aed</guid>
-      <pubDate>Sun, 24 May 2026 10:58:20 +0000</pubDate>
+      <title>なぜYubiKeyは時間に依存しない？ GoogleAuthenticatorとは根本的に違うHOTP認証の仕組み</title>
+      <link>https://techfeed.io/entries/6a160bc47aea74110d7e1422?from=rss</link>
+      <description>5月26日、ProtonがセキュリティブログでHMAC-based one-time password（HOTP）について解説した記事「What is an HMAC-based one-time password (HOTP)?」を公開した。Google Authenticatorのコードは30秒で切り替わるが、YubiKeyのコードは使うまで有効だ。この違いの背景には、TOTP（時刻ベース）とHOTP（カウンターベース）という根本的に異なる認証技術がある。近年のゼロトラスト戦略や産業システムのセキュリティ強化において、時刻同期に依存しないHOTPへの注目が高まっている理由を探ってみよう。なぜ今「時間に依存しない認証」が求められるのか2023年以降、製造業や金融機関でのサイバー攻撃が相次ぐ中、従来のTOTP認証では対応困難な課題が浮上している。工場の制御システムや僻地の設備では、ネットワーク接続が不安定で正確な時刻同期が困難だ。また、長時間の海外出張や災害時の緊急アクセスでは、30秒という時間制約が致命的な問題となる場合がある。HOTP（HMAC-based one-time pas (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a160bc47aea74110d7e1422?from=rss</guid>
+      <pubDate>Tue, 26 May 2026 21:08:20 +0000</pubDate>
     </item>
     <item>
-      <title>AI時代の競争優位は「統合」にしかない —— エンジニアと組織が、今投資すべきもの</title>
-      <link>https://zenn.dev/peoplex_blog/articles/f2cfcd8b625202</link>
-      <description>ウォークマンが世に出なかった可能性
-ソニーが1979年に発売したウォークマンは、AI時代の判断について考えるための示唆深い事例です。
-きっかけは創業者の井深大が、長時間の出張中に高音質で音楽を聴きたいと考え、社内向けに作らせた携帯録音機「プレスマン」の改造品でした。これに目をつけた当時の会長・盛田昭夫が、録音機能を外し、軽量ヘッドホンとセットにした再生専用機を若年層向けに製品化することを決断します。社内のエンジニアと役員の多くは「録音できないカセット機が売れるはずがない」と懐疑的で、当時のオーディオ機器の常識でもそうでした。盛田は社内の慎重論に対し、自ら週末に若者を集めて簡易な反応調... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/peoplex_blog/articles/f2cfcd8b625202</guid>
-      <pubDate>Mon, 25 May 2026 02:16:42 +0000</pubDate>
+      <title>「話しやすいエンジニア」になる価値。心理的安全性を自ら作る。</title>
+      <link>https://zenn.dev/mavericks/articles/c40ef0a0652a64</link>
+      <description>はじめに
+これは個人の意見であり、少し私自身の思想が入っていますので話半分でお聞きいただければと思います。
+システム開発は、結局のところ「人」と「人」とのコミュニケーションの上に成り立っています。
+最近、業務でのプロジェクト進行や日々のチーム開発において、「相手との信頼関係」すなわち「心理的安全性」が、システムの品質や開発スピードに直結すると実感する場面が増えてきました。
+本記事では、もともと会話やコミュニケーションに苦手意識を持っていた一人のエンジニアが、意識的に振る舞いを変えていく中で気づいた「自ら話しやすい雰囲気を作ることの価値」についてまとめたいと思います。
+
+ 開発現場にお... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mavericks/articles/c40ef0a0652a64</guid>
+      <pubDate>Tue, 26 May 2026 09:00:05 +0000</pubDate>
     </item>
     <item>
       <title>AI価格設定の破綻が始まった理由 — トークン課金から定額制への転換点</title>
