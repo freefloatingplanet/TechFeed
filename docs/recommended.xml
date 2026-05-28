@@ -7,29 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 10:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 10:10:24 +0000</lastBuildDate>
     <item>
-      <title>なぜAnthropicはプロンプトにXMLタグを推奨するのか──Markdownとの構造的な違い</title>
-      <link>https://zenn.dev/yun_bow/articles/a339e1d31a4c43</link>
-      <description>はじめに
-「Markdown で書けばAIが読みやすいはず」——そう思って CLAUDE.md や RAG のソースドキュメントを Markdown で整備してきた人は多いはずだ。
-しかし実際にプロンプトエンジニアリングを突き詰めていくと、システムプロンプトの構造化や RAG のチャンク設計という特定の用途に絞った文脈では、構造が複雑なコンテキストほど HTML や XML ライクな構造で渡したほうが AI の解釈精度が上がる という経験則に直面することがある。
-本稿では「なぜ Markdown より HTML が特定シナリオで AI に有利になりうるのか」を、言語設計・LLM の学... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yun_bow/articles/a339e1d31a4c43</guid>
-      <pubDate>Sun, 24 May 2026 04:37:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude × Obsidian で「感情の跡」を残す仕組みを作る</title>
-      <link>https://zenn.dev/miyaken0805/articles/ed70d88fa81c34</link>
-      <description>はじめに
-AIと会話していると、すごくいいアイデアが出たり、深い内省ができたりすることがある。でも、チャットが終わるとその内容は流れていく。「あの時Claudeと話した内容、なんだったっけ…」を何度か繰り返して、ようやく気づいた、考えた跡を残す仕組みの必要性。
-この記事では、Claude（claude.ai）とObsidianをMCP経由で接続し、会話から生まれたアイデアやジャーナリングの記録を構造化して保存する仕組みの構築過程を紹介する。
-最終的にはClaude.aiのカスタムスキルとして /obsidian ideas と打つだけで保存できるところまで。
-
- この記事で扱うこと
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/miyaken0805/articles/ed70d88fa81c34</guid>
-      <pubDate>Tue, 26 May 2026 00:43:00 +0000</pubDate>
+      <title>【海外記事紹介】PHP最大級のパッケージ管理「Composer」がサプライチェーン攻撃に本腰 — Laravel標的事件受け、バージョン不変化・MFA義務化へ</title>
+      <link>https://techfeed.io/entries/6a175f1d7aea74110d7ecde6?from=rss</link>
+      <description>5月27日、Packagistチームが「An Update on Composer &amp; Packagist Supply Chain Security」と題した記事を公開した。Laravel攻撃事件が決定打に5月22日、PHPの人気フレームワークLaravelの言語パック「laravel-lang」が攻撃を受けた。攻撃者はGitHubアカウントを乗っ取り、悪意のあるコードを含む新しいバージョンを公開。同様の手口で4月30日には「intercom/intercom-php」も標的となった。laravel-langパッケージは月間数百万ダウンロードを誇る基幹パッケージで、被害の可能性があるプロジェクト数は膨大だった。これらの事件を受け、月間数億回のダウンロードを誇るPHP最大のパッケージリポジトリ「Packagist.org」が包括的なセキュリティ強化に踏み切る。近年、npm（JavaScript）やPyPI（Python）といったパッケージマネージャーを狙ったサプライチェーン攻撃が急増している。攻撃者は盗まれたアクセストークンや乗っ取ったアカウントを使い、正当なパッケージに悪意のあるコー (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a175f1d7aea74110d7ecde6?from=rss</guid>
+      <pubDate>Wed, 27 May 2026 21:16:13 +0000</pubDate>
     </item>
     <item>
       <title>インド最大教育委員会のシステムにザル脆弱性 — JS平文パスワードで数百万人の成績改ざん可能</title>
@@ -39,18 +23,32 @@ AIと会話していると、すごくいいアイデアが出たり、深い内
       <pubDate>Tue, 26 May 2026 21:05:04 +0000</pubDate>
     </item>
     <item>
-      <title>サプライチェーン攻撃対策の「実効」を継続検証するGitHub監査基盤を内製した話</title>
-      <link>https://zenn.dev/smartround_dev/articles/478c195bf914b6</link>
+      <title>PostHogが顧客データでAI訓練を開始 — プロダクト分析の「自動化」で先手を打つ戦略</title>
+      <link>https://techfeed.io/entries/6a175c2b7aea74110d7ecccb?from=rss</link>
+      <description>5月27日、PostHogが「Training our own AI models」と題した記事を公開した。プロダクト分析ツールがAI自動化に本格参入オープンソースのプロダクト分析プラットフォームPostHogが、ユーザーデータを活用した独自AI訓練に乗り出す。同社は30,000以上の企業が利用するプロダクト分析ツールで、Airbnb、Y Combinator、Hasuraといった企業が導入している。同社創業者のJames Hawkins氏は「プロアクティブで自動運転型のプロダクト構築」への転換を宣言し、従来の「分析結果を人間が解釈する」モデルから「AIが自動で答えを見つけてアクションを実行する」モデルへの移行を打ち出した。これは、プロダクト分析業界全体が直面する「データの洪水に対する分析工数の限界」という課題への回答でもある。Mixpanel、Amplitude、Google Analyticsといった競合も機械学習機能を強化する中、PostHogは完全自動化で差別化を狙う。3つの自動化領域で競合優位を狙うPostHogが独自モデル訓練で注力するのは以下の3領域だ。セッションリプレイ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a175c2b7aea74110d7ecccb?from=rss</guid>
+      <pubDate>Wed, 27 May 2026 21:03:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>修理のプロが選ぶ！本当にiPhoneのバッテリーの持ちを良くするためのオススメの設定や手段16選 | iPhone修理・ipad修理・スマホ修理やスイッチ修理のお役立ち総合情報サイト「スマテクマガジン」</title>
+      <link>https://smartcool-group.com/media/how-to-extend-iphone-battery/</link>
+      <description>スマホの価格は年々上昇しており、現在使用しているスマホを長い期間大切に使いたいと思うのは当然のことです。 そのスマホを長持ちさせることにおいて、最も重要なことは「バッテリーの寿命を延ばすこと」だと考えられます。 なぜならバッテリーの力が弱まってしまうと、スマホに関する全ての動作に影響するからです。 ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://smartcool-group.com/media/how-to-extend-iphone-battery/</guid>
+      <pubDate>Thu, 28 May 2026 02:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI時代の実装力は『コードを書く力』から『解空間を収束させる力』へ移った</title>
+      <link>https://zenn.dev/tesla/articles/f67c29415a02fc</link>
       <description>はじめに
-こんにちは、スマートラウンドの@shonansurvivors です。
-近年、サプライチェーン攻撃のニュースを目にする機会が増えてきました。弊社でも各種の対策を打ってきたのですが、その「実効」を継続的に保証する仕組みが手薄でした。
-本記事では、その実効監査のために内製した社内監査基盤の設計思想と、なぜ既存ツールではなく自作したのか、そしてどのようなチェック処理を書いているのかをご紹介します。
+AI エージェントコーディングや vibe coding を見ていると、「実装できる」とは何を指すのかが変わってきたように感じます。
+以前の実装力は、かなりの部分で「コードを書く力」でした。仕様を読み、設計を決め、コードを書き、テストを通す。もちろん今でも重要です。ただ、AI が局所的なコードを高速に生成できるようになると、人間の価値はもう少し上の層に移っていきます。
+この記事の主張はシンプルです。
 
- 要約
+AI 時代の実装力とは、コードを書く力ではなく、コード解空間とプロダクト解空間を現実に使える形へ収束させる力である。
 
-弊社ではpnpm minimumReleaseAge / GitHub ActionsのSHA pinning / Takumi Guardなど、サプライチェーン対策を段階... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/smartround_dev/articles/478c195bf914b6</guid>
-      <pubDate>Tue, 26 May 2026 01:29:33 +0000</pubDate>
+この視点から、シニアエンジニア、ジュニアエンジニア、非... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tesla/articles/f67c29415a02fc</guid>
+      <pubDate>Tue, 26 May 2026 21:59:09 +0000</pubDate>
     </item>
     <item>
       <title>TypeScriptの裏側を浴びた2日間 ── TSKaigi 2026参加記</title>
@@ -69,13 +67,6 @@ TSKaigi本番前には、学生支援制度の顔合わせイベントにも参�
 と思っていたんですが、実際はかなり違っていて面白かっ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/0st_ts/articles/7878ffe89b8c6a</guid>
       <pubDate>Mon, 25 May 2026 10:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>カリフォルニア州がLinuxを年齢確認義務から除外へ — オープンソース開発者の反発受け修正案</title>
-      <link>https://techfeed.io/entries/6a14b92f7aea74110d7d4572?from=rss</link>
-      <description>5月25日、Etiido Ukoが「California moves to exempt Linux from its upcoming age-verification law after backlash over forcing operating systems to collect users' ages」と題した記事を公開した。カリフォルニア州がDebian、Fedora、Ubuntu、Arch Linux、Mintなどの主要Linuxディストリビューションを年齢確認法から除外する修正案AB 1856を提出した。これは、OSレベルでの年齢確認を義務化する元の法案に対して、オープンソース開発者やプライバシー団体から激しい反発が起きたことを受けた対応である。一方で、SteamOSのような独自アプリエコシステムを持つLinuxベースプラットフォームは、依然として規制対象に残る可能性がある。この修正案は、技術政策における「一律規制の限界」を示す興味深い事例となっている。児童保護とプライバシーのバランス近年、未成年者のオンライン安全保護への関心が世界的に高まっている。欧州のGDPRや (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a14b92f7aea74110d7d4572?from=rss</guid>
-      <pubDate>Mon, 25 May 2026 21:03:43 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】AWS解雇社員が語る「顧客救済の代償」— 10年アカウント削除問題の舞台裏</title>
@@ -105,11 +96,12 @@ TSKaigi本番前には、学生支援制度の顔合わせイベントにも参�
       <pubDate>Tue, 26 May 2026 09:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>AI価格設定の破綻が始まった理由 — トークン課金から定額制への転換点</title>
-      <link>https://techfeed.io/entries/6a136805d7ab5858a6347a02?from=rss</link>
-      <description>5月22日、Arnon Shimoni氏が「The current AI pricing was always going to go away」と題した記事を公開した。生成AI市場が急拡大する中で、多くの企業が直面している共通の課題がある。それはAI機能の運用コストが予想を大幅に上回っていることだ。マイクロソフトは今週、社内のClaude Codeライセンスをキャンセルし、UberはAI予算の2026年分をわずか4か月で使い切った。GitHubに至っては全製品で定額プランを廃止している。これらは単発の問題ではなく、AI業界全体で起きている構造的変化の兆候である。本記事では、現在のAI価格設定モデルが破綻する必然性とその背景要因について詳しく紹介する。「AIサブシディ時代」終焉の真相こうした現象について、業界では「AIサブシディ時代の終焉」という表現がよく使われる。しかし記事では、実際の原因はもっと根本的だと指摘している。多くの企業が推論コストが継続的に下がるという賭けに失敗したのだ。2022年から2023年にかけて、ChatGPTの爆発的普及により、多くの企業が製品のあらゆる階層にA (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a136805d7ab5858a6347a02?from=rss</guid>
-      <pubDate>Sun, 24 May 2026 21:05:09 +0000</pubDate>
+      <title>Laravelというフレームワークの開発、またはTaylor Otwellのビジネスセンスと技術的美学について</title>
+      <link>https://zenn.dev/shunjuio/articles/laravel-and-taylor</link>
+      <description>PHPのフレームワークとして、いまや最も広く使われているLaravel。技術としての面白さもありますが、僕がこのフレームワークについて本当に面白いと思っているのは、もう少し別のところにあります。それは作者の Taylor Otwell が「どういう戦略で」「どういうビジネスとして」これを作ってきたのか、という点です。
+彼の振る舞いは、ソフトウェアの作り方としても、事業の作り方としても、ユニークです。Laravel自体は有名になっていますが、その作り手であるTaylorの話は日本であまり聞かない(?)気がするので今回は整理して共有することにします。この記事では、僕がLaravelの開発につ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shunjuio/articles/laravel-and-taylor</guid>
+      <pubDate>Tue, 26 May 2026 13:34:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

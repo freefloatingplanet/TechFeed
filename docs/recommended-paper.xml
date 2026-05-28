@@ -7,13 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 27 May 2026 10:01:34 +0000</lastBuildDate>
-    <item>
-      <title>PilotTTS：競争力のある音声合成のための、規律あるモジュール式レシピ</title>
-      <link>https://arxiv.org/abs/2605.27258v1</link>
-      <description>最先端のテキスト音声合成（TTS）システムを構築するには、通常、数百万時間分の独自データと複雑な多段階アーキテクチャが必要となり、リソースが限られた研究チームにとって大きな障壁となります。本レポートでは、最小限のアーキテクチャと厳密なデータエンジニアリングによって競争力のあるパフォーマンスを実現する軽量な自己回帰型TTSシステムであるPilotTTSを紹介します。PilotTTSは、オープンソースツールのみで処理されたわずか20万時間分のデータでトレーニングされています。具体的には、(1)品質評価、ラベル注釈、フィルタリングを網羅する再現可能な多段階データ処理パイプライン、(2)クロスサンプルペアトレーニングによって話者識別と発話スタイルを分離するQ-Formerベースの条件付けを採用したコンパクトなモデルアーキテクチャ、という2つの貢献があります。統一されたフレームワーク内で、PilotTTSはゼロショット音声クローニング、感情合成（11カテゴリ）、パラ言語合成（4カテゴリ）、中国語方言合成（14方言）をサポートしています。 Seed-TTS Evalベンチマークにおいて、Pilot (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.27258v1</guid>
-      <pubDate>Tue, 26 May 2026 16:36:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 May 2026 10:11:13 +0000</lastBuildDate>
   </channel>
 </rss>
