@@ -7,6 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 29 May 2026 10:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 08:32:35 +0000</lastBuildDate>
+    <item>
+      <title>HPO：スパース報酬体制下における安定かつ効率的なトレーニングのためのヒステリシスポリシー最適化</title>
+      <link>https://arxiv.org/abs/2605.30201v1</link>
+      <description>我々は、スパースな検証可能な報酬という状況下で、GRPO スタイルの強化学習における狭義ではあるが一般的な失敗モードを調査した。すなわち、初期の更新では、正の優位性を持つ応答よりも負の優位性を持つ応答が多く含まれ、応答レベルの長さ正規化によって更新の大きさが出力の長さに結び付けられるという問題である。我々は、負の優位性を持つ更新の重みを減らし、応答ごとの長さ正規化を平均長さ正規化に置き換える GRPO の最小限の変更であるヒステリシス ポリシー最適化 (HPO) を提案する。さらに、バッチ レベルの優位性符号統計に基づいてヒステリシス重みを設定する適応型 HPO (A-HPO) を導入し、固定ヒステリシス重みを調整する必要性をなくした。我々の TeleLogs および Countdown 実験では、A-HPO は GRPO と比較して更新ごとの報酬を改善し、特に初期のスパースな報酬領域で最大の効果を発揮した。 TeleLogsでは、A-HPOは最終報酬0.84を達成し、SAPOを5%、GSPOを11%、GRPOを15%上回りながら、応答長は同程度に維持しています。Countdownでは (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.30201v1</guid>
+      <pubDate>Thu, 28 May 2026 16:38:21 +0000</pubDate>
+    </item>
   </channel>
 </rss>
