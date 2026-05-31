@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 30 May 2026 08:32:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 08:51:29 +0000</lastBuildDate>
     <item>
       <title>HPO：スパース報酬体制下における安定かつ効率的なトレーニングのためのヒステリシスポリシー最適化</title>
       <link>https://arxiv.org/abs/2605.30201v1</link>

@@ -7,54 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2026 08:32:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 08:51:22 +0000</lastBuildDate>
     <item>
-      <title>Rails開発環境のDockerfileが「呪文」に見えたので初学者なりに分解してみた</title>
-      <link>https://qiita.com/tota_0214/items/45d77ca1f905338a3a69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>この記事について
-Rails開発環境用のDockerfileのみを題材に、私自身がとてもつまずきましたので、学習の中で深掘りして理解したことを、この記事にて整理しました。
-復習も兼ねていますが、同じようにDockerfileでつまずいている方の参考になれば嬉しいと思いまし... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/tota_0214/items/45d77ca1f905338a3a69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 29 May 2026 14:32:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>思想と仕様を分けて要件定義する</title>
-      <link>https://zenn.dev/rehabforjapan/articles/requirements-engineering</link>
-      <description>はじめに
-AIによって実装が速くなっていますが、そもそもの要件が決まらなければ実装できません。実装が速いことの価値は、上流が整っていてはじめて発揮されます。要件定義フェーズをスムーズに進めるにはどうすれば良いのかを考えました。
-
- 前提
-
-フェーズ: 0→1開発
-ツール: Claude Code
-
-
- プロセスの全体像
-何が決まっていて何が決まっていないのかが曖昧で、要件定義が必要以上に時間がかかってしまうことがありました。そこで、何に時間がかかっているのか、何を合意すべきかを整理してみたら、概念整理 → 合意形成 → 仕様生成の3段階に分かれると考えました。
-
-
-
-ステップ
-Inp... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/rehabforjapan/articles/requirements-engineering</guid>
-      <pubDate>Thu, 28 May 2026 03:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Codexを使い始めて長時間稼働させるまで</title>
-      <link>https://zenn.dev/genda_jp/articles/b7fe56ce2fc60f</link>
-      <description>こんにちは、データマネジメント部でデータエンジニアをしています。山城です。
-Claude Codeがリリースされて早くも一年ちょっとが経ちました。恥ずかしながら今まで碌に使っていなかったので、ここ二か月ほどCodexをメインに使いながら設定を行っています。
-公式からリリースされた機能についてまとめた記事などは色々確認できるのですが、具体的な設定やファイルの中身などはあまり見かけないので、整理がてら記事にしていこうと思います。
-今回は設定したものの中でも、ある程度放置でも長時間実行できる環境にするための環境整備について書きます。理由はとても単純で、使っていくと投げたいタスクの粒度がだんだん... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/genda_jp/articles/b7fe56ce2fc60f</guid>
-      <pubDate>Thu, 28 May 2026 03:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Palantir の「オントロジー」を Python で再現してみた</title>
-      <link>https://zenn.dev/channnnsm/articles/e0be25fadca0df</link>
-      <description>はじめに 前回、なぜ今「オントロジー」が AI データ基盤において重要なのか、その概念について書きました。 「概念はわかった。で、どう実装して、どんなアウトプットになるの？」と思ったので、今回は Python を使って、Palantir Foundry のような 「 Supply Chain Control Tower 」 のミニマム版を実際に作ってみまし... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/channnnsm/articles/e0be25fadca0df</guid>
-      <pubDate>Sat, 30 May 2026 02:25:06 +0000</pubDate>
+      <title>薄くてモバイルバッテリーでも動いてスマホ操作もできて秋には小さく収納できる「扇風機」を見てきた</title>
+      <link>https://www.itmedia.co.jp/news/articles/2605/31/news021.html</link>
+      <description>エアコンをオンにするのはまだ早いかな……という時期に重宝するのが扇風機。ただ、扇風機は床に置くため場所を取るし、秋から冬にかけての使わない時期は収納に困ったりもします。部屋が狭いために購入をためらう人もいるかもしれません。 そんな人に注目してほしいのが、中国Xiaomi（シャオミ）から登場した非常にユニー... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2605/31/news021.html</guid>
+      <pubDate>Sun, 31 May 2026 00:03:31 +0000</pubDate>
     </item>
     <item>
       <title>freestanding環境で動くLispインタープリター「lone」— mallocなき世界で独自ヒープを3年かけて進化させた記録</title>
@@ -62,6 +21,13 @@ Claude Codeがリリースされて早くも一年ちょっとが経ちました
       <description>5月28日、Matheus Moreiraが「The lone lisp heap」と題した記事を公開した。mallocもlibcも存在しないfreestanding環境で動作するLispインタープリターを作るとしたら、どうメモリ管理を実現するか？ Lispインタープリター「lone」の開発者が、独自ヒープ実装の3年間にわたる進化の記録を公開した。freestanding環境とは、標準ライブラリに依存しないC言語の実行環境のことで、組み込みシステムやOSカーネルの開発で使われる。こうした環境では動的メモリ割り当ての仕組みを自前で構築する必要があり、特にLispのような動的言語の実装は困難とされてきた。シンプルすぎる出発点loneは事前設計されたものではなく、リアルタイムで構築されている言語だ。「言語自体がその実装の結果として出現している」と著者が表現するように、実装の制約が言語仕様を決めていく興味深いアプローチを取る。最初の実装は極めてシンプルな構造から始まった：struct lone_lisp_heap_value {    bool live: 1;    bool marked: (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a18ad1a8762b06fdaf623f6?from=rss</guid>
       <pubDate>Thu, 28 May 2026 21:01:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【話題】PostgreSQL vs SQLite論争が再燃 — AIワークフローには軽量DBで十分とObeliskが提案</title>
+      <link>https://techfeed.io/entries/6a19fe2c448e384852d280c9?from=rss</link>
+      <description>5月29日、ワークフロー実行プラットフォームのObeliskが「SQLite is All You Need for Durable Workflows - Blog」と題した記事を公開した。この記事は、最近DBOSが提唱した「Postgres is all you need for durable execution」に対する反論として注目を集めており、AIエージェントやワークフローシステムにはSQLiteとLitestreamの組み合わせで十分だと主張している。AIワークフローでSQLiteが有利な理由多くのAIエージェントはバースト的で実験的な性質を持つ。LangChainやLlamaIndexを使ったAIアプリケーションでは、各エージェントやテナントが小さな自己完結した状態単位を持つケースが多く、大規模な常時稼働の共有データベースよりも軽量なアプローチが適している。Obeliskチームは、マイクロVMやコンテナ内の小さなサーバー群で、それぞれが独自のSQLiteデータベースとAmazon S3バックアップを持つ構成を提案している。この手法には以下のメリットがある： (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a19fe2c448e384852d280c9?from=rss</guid>
+      <pubDate>Fri, 29 May 2026 20:59:24 +0000</pubDate>
     </item>
     <item>
       <title>LiteLLMをやめて自作Goバイナリに置き換えたら一気に軽くなりました - 「実践 AI エージェント開発」を実装してみた</title>
@@ -76,11 +42,16 @@ Go 1.25で書いたgo-llm-agentというシングルバイナリのAIエージ�
       <pubDate>Thu, 28 May 2026 22:02:24 +0000</pubDate>
     </item>
     <item>
-      <title>【話題】PostgreSQL vs SQLite論争が再燃 — AIワークフローには軽量DBで十分とObeliskが提案</title>
-      <link>https://techfeed.io/entries/6a19fe2c448e384852d280c9?from=rss</link>
-      <description>5月29日、ワークフロー実行プラットフォームのObeliskが「SQLite is All You Need for Durable Workflows - Blog」と題した記事を公開した。この記事は、最近DBOSが提唱した「Postgres is all you need for durable execution」に対する反論として注目を集めており、AIエージェントやワークフローシステムにはSQLiteとLitestreamの組み合わせで十分だと主張している。AIワークフローでSQLiteが有利な理由多くのAIエージェントはバースト的で実験的な性質を持つ。LangChainやLlamaIndexを使ったAIアプリケーションでは、各エージェントやテナントが小さな自己完結した状態単位を持つケースが多く、大規模な常時稼働の共有データベースよりも軽量なアプローチが適している。Obeliskチームは、マイクロVMやコンテナ内の小さなサーバー群で、それぞれが独自のSQLiteデータベースとAmazon S3バックアップを持つ構成を提案している。この手法には以下のメリットがある： (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a19fe2c448e384852d280c9?from=rss</guid>
-      <pubDate>Fri, 29 May 2026 20:59:24 +0000</pubDate>
+      <title>AIを使った効率的な体験改善のための開発フロー</title>
+      <link>https://zenn.dev/noppe/articles/2113952a4bf0cc</link>
+      <description>OpenAIのハーネスエンジニアリング：エージェントファーストの世界における Codex の活用において、次のような一節があります。
+
+コードのスループットが増加するにつれて、ボトルネックは人間の QA 能力となりました。固定された制約が人間の時間と注意力であったため、アプリケーション UI やログ、アプリのメトリクスを Codex が直接読み取れるようにすることで、エージェントの機能強化に取り組んできました。
+
+エージェントファーストの開発フローでは、このように開発プロセスから人間に依存する部分を減らすことが、重要なテーマになります。
+このアプローチはTUIアプリケーションやスタティッ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/noppe/articles/2113952a4bf0cc</guid>
+      <pubDate>Sat, 30 May 2026 03:54:36 +0000</pubDate>
     </item>
     <item>
       <title>論理削除をやめて状態をテーブルで分けるDB設計</title>
@@ -95,14 +66,34 @@ ORM のデフォルトスコープ... (source: Zennのトレンド)</description
       <pubDate>Thu, 28 May 2026 03:02:24 +0000</pubDate>
     </item>
     <item>
-      <title>誰も使わない機能を、誰も消せない理由</title>
-      <link>https://zenn.dev/acntechjp/articles/729a0be6c11f58</link>
-      <description>TL;DR
-前職で、ある業務SaaSのアプリの保守を担当していた時期があった。実利用はほぼゼロなのに、改修要望だけは定期的に届く。サンクコストの罠だとは頭ではわかっていたけれど、それでも「この機能、なくしませんか」とは、誰も言い出せなかった。私を含めて。
-この記事の中心の問いは、残すか、消すか、改善するかを、根拠を持って判断できる場が、SIerではなぜ作りにくいのか、というものだ。「持ち主不在の機能」がそれを生む。AI時代には、その判断する場はさらに作りにくくなる気がしている。
-それでも、保守ベンダーの立場で個人として打てる手はある。利用状況の計測を提案し、合意のうえでフォーマット化... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/729a0be6c11f58</guid>
-      <pubDate>Thu, 28 May 2026 09:03:35 +0000</pubDate>
+      <title>5億ドル請求されないようにOllamaのCloudを使う。</title>
+      <link>https://zenn.dev/yumayx/articles/c69ac22ce07bea</link>
+      <description>つれづれなるままに、1日中コンピューターに向かって、思ったことを書いてみる。
+!
+この記事の内容は、コンピューターのハードウェアリソースを積めばLLMの回答は速くなるし、それをOllama Cloudは無料で提供するなんて、すごいことやってるなあと、驚いた話である。他の媒体には、同じような記事があったが、Zennで、"ollama cloud"を検索してもヒットしなかったので、書いてみる。
+
+LLMが出てきた頃から、ずっと思ってる仮説は、プログラムの改善を無限回繰り返し行えば、プログラム・ソフトウェアは最適になる、というのがある。
+貧乏であるから、フロンティアモデルに課金するお金も無い。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yumayx/articles/c69ac22ce07bea</guid>
+      <pubDate>Sat, 30 May 2026 15:01:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>バックエンドエンジニアが Chrome 拡張を作ってウェブストアに公開してみた</title>
+      <link>https://zenn.dev/rea9r/articles/485e429906112b</link>
+      <description>はじめに
+普段はバックエンドの領域で開発をしています。社内では、エンジニアが小さなツールを作って業務を効率化していく動きが増えていて、自分もその恩恵を受けてきました。
+こうした取り組みを自分でも進めていけるように、手札を増やしておきたい。それが今回のいちばんの動機でした。最近は Vibe Coding という言葉も聞くようになり、本職とは違う領域にも以前より手を伸ばしやすくなっています。その第一歩として、初めての Chrome 拡張を作り、Chrome ウェブストアに公開してみました。
+この記事は、その作業の記録です。初めてのことばかりだったので、同じように一歩を踏み出してみたい人の... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/rea9r/articles/485e429906112b</guid>
+      <pubDate>Sat, 30 May 2026 09:43:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>MLエンジニアのための本質から理解するLLM推論 KV cache編</title>
+      <link>https://zenn.dev/kaz20/articles/c77f8a41cf2bf5</link>
+      <description>はじめに
+東京科学大学 博士課程の藤井です。本記事では、LLM推論において非常に重要な役割を果たすKV cacheについてより深く理解するために 「Key, ValueだけcacheしてQueryをcacheしないのはなぜか？」 という問いに皆さんが正確に答えられるようになることを目指して解説を行います。なお本記事では、「KV cacheとは何か？」や、KV cacheの低精度化などについては取り扱いません。関連する内容については、私が執筆している「MLエンジニアのための本質から理解するxxx」シリーズの記事を参照ください。執筆が完了した記事から順に公開していますので時期によっては、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kaz20/articles/c77f8a41cf2bf5</guid>
+      <pubDate>Fri, 29 May 2026 13:53:59 +0000</pubDate>
     </item>
     <item>
       <title>自動運転アーキテクチャの一つの提案/Tri-Modal BEV VLA Planner</title>
