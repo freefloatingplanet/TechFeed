@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 08:51:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 11:42:56 +0000</lastBuildDate>
+    <item>
+      <title>ブルー・オリジン「ニューグレン」ロケットが地上燃焼試験で爆発　衛星は未搭載で無事も射点損傷</title>
+      <link>https://sorae.info/space/202605601-new-glenn-anomaly.html</link>
+      <description>アメリカの現地時間2026年5月28日、Blue Origin（ブルー・オリジン）の大型ロケット「New Glenn（ニューグレン）」が地上での燃焼試験時に爆発する事故が発生しました。 爆発した機体は、Amazonの衛星… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/202605601-new-glenn-anomaly.html</guid>
+      <pubDate>Mon, 01 Jun 2026 01:58:13 +0000</pubDate>
+    </item>
     <item>
       <title>宇宙ロボット開発にも標準OSを利用する時代に？  宇宙ロボットの最前線とSpace ROSの展望</title>
       <link>https://sorabatake.jp/45972/</link>
@@ -30,11 +37,11 @@
       <pubDate>Wed, 27 May 2026 01:55:26 +0000</pubDate>
     </item>
     <item>
-      <title>ブラックホールの内部は「究極にもつれた情報の集まり」かもしれない</title>
-      <link>https://sorae.info/astronomy/20260525-black-hole-interior.html</link>
-      <description>重力がとても強い天体「ブラックホール」の内部は、外側とは異なる時空構造をしていると考えられています。このため、ブラックホールの外側の宇宙で組み立てられた現在の物理学の理論が、ブラックホールの内部でも使えるかどうか、その範… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260525-black-hole-interior.html</guid>
-      <pubDate>Mon, 25 May 2026 13:01:23 +0000</pubDate>
+      <title>「夢だけで社内会議は通せない」ANA・JALの宇宙事業リーダーが語る宇宙業界のリアルと参入する価値とは</title>
+      <link>https://sorabatake.jp/45811/</link>
+      <description>異業種から宇宙業界に参入した企業に焦点を当てた対談連載「Why Space Business～異業種企業が見出した宇宙業界の可能性～」、第1回に登場いただいたのは航空業界です。なぜ今、航空会社が宇宙を目指し、事業を続けているのか、ANAホールディングスと、日本航空の2社にお話を伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45811/</guid>
+      <pubDate>Mon, 25 May 2026 23:00:22 +0000</pubDate>
     </item>
     <item>
       <title>Rocket Lab、JAXAが顧客となった2回目の専用打ち上げに成功。軌道投入された編隊飛行や折り紙アンテナなど超小型衛星8機の紹介【宇宙ビジネスニュース】</title>
@@ -42,13 +49,6 @@
       <description>2026年4月23日、小型ロケットによる宇宙輸送事業を手がけるRocket Labは、宇宙航空研究開発機構（JAXA）を顧客とした打上げとしては2度目となる専用打ち上げの成功を発表しました。搭載された8機の衛星について簡単に紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46001/</guid>
       <pubDate>Fri, 22 May 2026 23:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>「夢だけで社内会議は通せない」ANA・JALの宇宙事業リーダーが語る宇宙業界のリアルと参入する価値とは</title>
-      <link>https://sorabatake.jp/45811/</link>
-      <description>異業種から宇宙業界に参入した企業に焦点を当てた対談連載「Why Space Business～異業種企業が見出した宇宙業界の可能性～」、第1回に登場いただいたのは航空業界です。なぜ今、航空会社が宇宙を目指し、事業を続けているのか、ANAホールディングスと、日本航空の2社にお話を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45811/</guid>
-      <pubDate>Mon, 25 May 2026 23:00:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

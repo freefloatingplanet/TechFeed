@@ -7,20 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 08:51:22 +0000</lastBuildDate>
-    <item>
-      <title>薄くてモバイルバッテリーでも動いてスマホ操作もできて秋には小さく収納できる「扇風機」を見てきた</title>
-      <link>https://www.itmedia.co.jp/news/articles/2605/31/news021.html</link>
-      <description>エアコンをオンにするのはまだ早いかな……という時期に重宝するのが扇風機。ただ、扇風機は床に置くため場所を取るし、秋から冬にかけての使わない時期は収納に困ったりもします。部屋が狭いために購入をためらう人もいるかもしれません。 そんな人に注目してほしいのが、中国Xiaomi（シャオミ）から登場した非常にユニー... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2605/31/news021.html</guid>
-      <pubDate>Sun, 31 May 2026 00:03:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Jun 2026 11:42:52 +0000</lastBuildDate>
     <item>
       <title>freestanding環境で動くLispインタープリター「lone」— mallocなき世界で独自ヒープを3年かけて進化させた記録</title>
       <link>https://techfeed.io/entries/6a18ad1a8762b06fdaf623f6?from=rss</link>
       <description>5月28日、Matheus Moreiraが「The lone lisp heap」と題した記事を公開した。mallocもlibcも存在しないfreestanding環境で動作するLispインタープリターを作るとしたら、どうメモリ管理を実現するか？ Lispインタープリター「lone」の開発者が、独自ヒープ実装の3年間にわたる進化の記録を公開した。freestanding環境とは、標準ライブラリに依存しないC言語の実行環境のことで、組み込みシステムやOSカーネルの開発で使われる。こうした環境では動的メモリ割り当ての仕組みを自前で構築する必要があり、特にLispのような動的言語の実装は困難とされてきた。シンプルすぎる出発点loneは事前設計されたものではなく、リアルタイムで構築されている言語だ。「言語自体がその実装の結果として出現している」と著者が表現するように、実装の制約が言語仕様を決めていく興味深いアプローチを取る。最初の実装は極めてシンプルな構造から始まった：struct lone_lisp_heap_value {    bool live: 1;    bool marked: (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a18ad1a8762b06fdaf623f6?from=rss</guid>
       <pubDate>Thu, 28 May 2026 21:01:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeのために「臭うコード検出器」を開発し、Hooksに設定してみた話</title>
+      <link>https://zenn.dev/meijin/articles/coding-agent-with-syntax-tree-analyze</link>
+      <description>マナリンクCTOの名人です。
+コーディングエージェントが書いた大量のコード、レビューしたくないですよね。
+もちろん、明確に駄目なものはCIで落とせるようにしたいですが、CIが通っていても、人間のレビュー時点で問題視される実装も大量にあります。
+本記事は、既存のレビュー指摘のうち構文木解析で拾えるものを増やし、CIで落としたり、Claude Code Hooksで 「これは絶対NGではないが、一度見直してほしい」 とClaude Code自身に返すなどして運用していく話です。
+端的に言えば
+
+ESLintやPHPStanが公式でサポートしていないルールを簡単に自作できる時代になった！
+自作... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/meijin/articles/coding-agent-with-syntax-tree-analyze</guid>
+      <pubDate>Sun, 31 May 2026 23:29:52 +0000</pubDate>
     </item>
     <item>
       <title>【話題】PostgreSQL vs SQLite論争が再燃 — AIワークフローには軽量DBで十分とObeliskが提案</title>
@@ -30,62 +37,33 @@
       <pubDate>Fri, 29 May 2026 20:59:24 +0000</pubDate>
     </item>
     <item>
-      <title>LiteLLMをやめて自作Goバイナリに置き換えたら一気に軽くなりました - 「実践 AI エージェント開発」を実装してみた</title>
-      <link>https://zenn.dev/okamyuji/articles/golang-litellm-alternative-single-binary</link>
-      <description>!
-オライリー・ジャパンから「実践 AI エージェント開発」として日本語版が出版されたことを記念して、今年の春に英語版の"Building Applications with AI Agents"を読んでいたので、本書が示す本番運用要件をそのままGoの単一バイナリAIエージェントに実装してみました。本記事では、まず自分の手元用に書き上げた最小構成を紹介し、そのあとで書籍を読んで補ったプロダクション向け機能を、書籍の章立てに対応する実装順で解説します。
-
-
- できあがったもの
-Go 1.25で書いたgo-llm-agentというシングルバイナリのAIエージェントを公開しました。CGO_EN... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/okamyuji/articles/golang-litellm-alternative-single-binary</guid>
-      <pubDate>Thu, 28 May 2026 22:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIを使った効率的な体験改善のための開発フロー</title>
-      <link>https://zenn.dev/noppe/articles/2113952a4bf0cc</link>
-      <description>OpenAIのハーネスエンジニアリング：エージェントファーストの世界における Codex の活用において、次のような一節があります。
-
-コードのスループットが増加するにつれて、ボトルネックは人間の QA 能力となりました。固定された制約が人間の時間と注意力であったため、アプリケーション UI やログ、アプリのメトリクスを Codex が直接読み取れるようにすることで、エージェントの機能強化に取り組んできました。
-
-エージェントファーストの開発フローでは、このように開発プロセスから人間に依存する部分を減らすことが、重要なテーマになります。
-このアプローチはTUIアプリケーションやスタティッ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/noppe/articles/2113952a4bf0cc</guid>
-      <pubDate>Sat, 30 May 2026 03:54:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>論理削除をやめて状態をテーブルで分けるDB設計</title>
-      <link>https://zenn.dev/mstn_/articles/af99d216639b30</link>
+      <title>会議で「言いにくいこと」を、AI に代わりに言ってもらう AI ファシリテーター "Helmsman"</title>
+      <link>https://zenn.dev/jagaimo_poteto/articles/aa2aca6b25e3d5</link>
       <description>はじめに
-業務システムを作っていると、退会したユーザーや削除した記事を「消えたことにしたいけれど履歴は残したい」という要件によく出会うかと思います。
-このときによく見るのが論理削除と呼ばれる手法で、deleted_at のような列を足して WHERE deleted_at IS NULL で取り出すというものです。
-導入は手軽な反面、実際に運用していくとじわじわと辛さが出てくる手法でもあるかなと思っています。
-クエリの度に WHERE deleted_at IS NULL を書く必要があり、一箇所でも書き忘れると削除済みのレコードが返ってきてしまいます。
-ORM のデフォルトスコープ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mstn_/articles/af99d216639b30</guid>
-      <pubDate>Thu, 28 May 2026 03:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>5億ドル請求されないようにOllamaのCloudを使う。</title>
-      <link>https://zenn.dev/yumayx/articles/c69ac22ce07bea</link>
-      <description>つれづれなるままに、1日中コンピューターに向かって、思ったことを書いてみる。
-!
-この記事の内容は、コンピューターのハードウェアリソースを積めばLLMの回答は速くなるし、それをOllama Cloudは無料で提供するなんて、すごいことやってるなあと、驚いた話である。他の媒体には、同じような記事があったが、Zennで、"ollama cloud"を検索してもヒットしなかったので、書いてみる。
 
-LLMが出てきた頃から、ずっと思ってる仮説は、プログラムの改善を無限回繰り返し行えば、プログラム・ソフトウェアは最適になる、というのがある。
-貧乏であるから、フロンティアモデルに課金するお金も無い。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yumayx/articles/c69ac22ce07bea</guid>
-      <pubDate>Sat, 30 May 2026 15:01:41 +0000</pubDate>
+
+
+何を作ったか: Microsoft Teams の会議に「Helmsman(舵手、操舵手)」という名前で参加して、議論をそっと見守ってくれる AI です。ここぞというときは、会議の中で日本語の声で発言 までしてくれます。
+
+いちばん伝えたいこと: 偉い人がいると言いづらい反論、目上の人の事実誤認、「そろそろ時間ですよ」のひとこと ― 会議で人間が言いにくいことを、AI が代わりに言ってくれます。
+
+なぜ作ったか: 議事録の AI は、もうかなり良いものが揃っています。でもそれって「うまくいかなかった会議を、あとからきれいに書き残してくれる」だけなんですよね。会議が終わ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/jagaimo_poteto/articles/aa2aca6b25e3d5</guid>
+      <pubDate>Sat, 30 May 2026 15:24:02 +0000</pubDate>
     </item>
     <item>
-      <title>バックエンドエンジニアが Chrome 拡張を作ってウェブストアに公開してみた</title>
-      <link>https://zenn.dev/rea9r/articles/485e429906112b</link>
-      <description>はじめに
-普段はバックエンドの領域で開発をしています。社内では、エンジニアが小さなツールを作って業務を効率化していく動きが増えていて、自分もその恩恵を受けてきました。
-こうした取り組みを自分でも進めていけるように、手札を増やしておきたい。それが今回のいちばんの動機でした。最近は Vibe Coding という言葉も聞くようになり、本職とは違う領域にも以前より手を伸ばしやすくなっています。その第一歩として、初めての Chrome 拡張を作り、Chrome ウェブストアに公開してみました。
-この記事は、その作業の記録です。初めてのことばかりだったので、同じように一歩を踏み出してみたい人の... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/rea9r/articles/485e429906112b</guid>
-      <pubDate>Sat, 30 May 2026 09:43:19 +0000</pubDate>
+      <title>AI疲れが加速するので、Claude CodeのRemote Controlを使うのをやめた</title>
+      <link>https://zenn.dev/karamage/articles/c82e2cb142701a</link>
+      <description>気づいたら、寝室が仕事場になっていた
+今年の3月くらいにClaude CodeにRemote Control機能が搭載されました。使っている方も多いと思います。
+夜、ベッドで横になりながら、スマホを片手にAIへ指示を出し、朝起きたら作業が終わていて、マジ神機能！天国かよと天にも昇る気分で喜んでいました。
+
+でも気づいたら、知らず知らずのうちにベッドの上がオフィスになっていて睡眠時間が削られて生活リズムが崩れ、地獄に叩き落とされました。
+AIを便利に使っているつもりが、いつの間にか使われる側になっていました。
+
+以前、エンジニアのAI疲れとの付き合い方という記事を書きました。AIをどれ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/karamage/articles/c82e2cb142701a</guid>
+      <pubDate>Sat, 30 May 2026 11:18:07 +0000</pubDate>
     </item>
     <item>
       <title>MLエンジニアのための本質から理解するLLM推論 KV cache編</title>
@@ -94,6 +72,31 @@ LLMが出てきた頃から、ずっと思ってる仮説は、プログラム�
 東京科学大学 博士課程の藤井です。本記事では、LLM推論において非常に重要な役割を果たすKV cacheについてより深く理解するために 「Key, ValueだけcacheしてQueryをcacheしないのはなぜか？」 という問いに皆さんが正確に答えられるようになることを目指して解説を行います。なお本記事では、「KV cacheとは何か？」や、KV cacheの低精度化などについては取り扱いません。関連する内容については、私が執筆している「MLエンジニアのための本質から理解するxxx」シリーズの記事を参照ください。執筆が完了した記事から順に公開していますので時期によっては、... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/kaz20/articles/c77f8a41cf2bf5</guid>
       <pubDate>Fri, 29 May 2026 13:53:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>全部Terraformで管理してはいけない？「かつての最適解」が生んだ管理の壁と、私たちが引き直した境界線</title>
+      <link>https://zenn.dev/jinjer_techblog/articles/5812546fb399e7</link>
+      <description>導入：ジョイン直後に感じた「開発サイクルの重さ」
+「入社して3ヶ月、私はある『ジレンマ』を抱えていました。」
+2025年11月、SREとしてjinjerにジョインした私を迎えたのは、Terraformによって厳格にコード化されたインフラ基盤でした。すべてのリソースがIaCで管理され、手動変更を排した運用ルールが徹底されている。これはSREとして、非常に信頼性の高い、誇れる環境だと言えます。
+しかし、その「正しさ」が、開発のスピード感と衝突する場面を目の当たりにするようになりました。
+たとえば、ECSのタスク定義にある環境変数を1つ追加するだけでも、SEからJiraで依頼を受け、SRE... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/jinjer_techblog/articles/5812546fb399e7</guid>
+      <pubDate>Fri, 29 May 2026 10:21:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】Mistral AIがモデル会社から脱却してフルスタック戦略へ — 欧州企業のデータ主権とオンプレミス需要を狙い撃ち</title>
+      <link>https://techfeed.io/entries/6a1ca23f448e384852d3175d?from=rss</link>
+      <description>5月29日、Koen van Gilst氏が「Notes from the AI Now Summit by Mistral」と題した記事を公開した。この記事では、パリで開催されたMistral AIのAI Nowサミットの現場レポートと、同社の戦略転換について詳しく紹介されている。以下に、その内容を紹介する。Mistralはモデル会社から総合AI企業へ転換サミットで最も注目すべき発表は、Mistralがもはや単なるモデル会社ではなくなったということだ。同社は現在、コンピュート、モデル、プラットフォーム、コンサルティングを含むフルスタックのAI事業を構築している。具体的には、パリに40MWのデータセンターを自社で所有し、スウェーデンを含む追加のデータセンターも計画中だ。AnthropicやOpenAIとの差別化要因として、効率的でオープンなカスタムモデルと、企業が所有してオンプレミスで実行できる環境を提供している。パートナーシップ重視の戦略サミットのメッセージングはパートナーシップに重点が置かれていた。ASML、BNP Paribas、Amazon Alexaとの協業事例が紹介され、こ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a1ca23f448e384852d3175d?from=rss</guid>
+      <pubDate>Sun, 31 May 2026 21:03:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】AI時代の技術者を襲う「仕事への喪失感」— 失業不安とは違う、まだ名前のない心理的危機</title>
+      <link>https://techfeed.io/entries/6a1ca1ab448e384852d3174e?from=rss</link>
+      <description>5月29日、Jack Maguireが「AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers」と題した記事を公開した。この記事では、AI時代の到来により技術職が直面している「仕事への喪失感」という新しい心理的危機について詳しく紹介されている。以下に、その内容を紹介する。単なる失業不安ではない「AI喪失感」の正体2025年夏、Epic Gamesのレイオフで末期患者の父親である従業員が解雇され、家族は生命保険も失ったという事件がRedditで大きな話題となった。r/technologyのスレッドは36,687のアップボートを獲得したが、コメント欄にあふれていたのは衝撃、怒り、そして無力感だった。この反応は氷山の一角である。現在、AI関連のコミュニティ（r/datascience、r/analyticsなど）では、似たような感情的な投稿が後を絶たない。Maguire氏は、これらの反応を分析した結果、単なる失業への不安とは異なる、grief（悲嘆）に近い感情が技術者の間に広がっていると指摘している。アイデンティ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a1ca1ab448e384852d3174e?from=rss</guid>
+      <pubDate>Sun, 31 May 2026 21:01:30 +0000</pubDate>
     </item>
     <item>
       <title>自動運転アーキテクチャの一つの提案/Tri-Modal BEV VLA Planner</title>
