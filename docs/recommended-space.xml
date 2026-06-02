@@ -7,13 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 11:42:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 10:43:05 +0000</lastBuildDate>
     <item>
       <title>ブルー・オリジン「ニューグレン」ロケットが地上燃焼試験で爆発　衛星は未搭載で無事も射点損傷</title>
       <link>https://sorae.info/space/202605601-new-glenn-anomaly.html</link>
       <description>アメリカの現地時間2026年5月28日、Blue Origin（ブルー・オリジン）の大型ロケット「New Glenn（ニューグレン）」が地上での燃焼試験時に爆発する事故が発生しました。 爆発した機体は、Amazonの衛星… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/202605601-new-glenn-anomaly.html</guid>
       <pubDate>Mon, 01 Jun 2026 01:58:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>ブラックホールと銀河はどちらが先か？　ウェッブ宇宙望遠鏡による初期宇宙の謎に迫る成果</title>
+      <link>https://sorae.info/astronomy/20260602-qso1-jwst.html</link>
+      <description>私たちの住む天の川銀河をはじめ、宇宙にあるほとんどの銀河の中心には、太陽の数百万倍から数十億倍もの質量を持つ「超大質量ブラックホール（超巨大ブラックホール）」が存在すると考えられています。 こうした巨大なブラックホールと… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260602-qso1-jwst.html</guid>
+      <pubDate>Tue, 02 Jun 2026 02:33:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国の新型ロケット「長征12号乙」初飛行に成功　「千帆」衛星を軌道投入</title>
+      <link>https://sorae.info/ssn/20260602-spacesail-polar-group10.html</link>
+      <description>CASC（中国航天科技集団）は日本時間2026年6月1日、酒泉衛星発射センターから新型ロケット「長征12号乙」の初飛行を実施し、搭載していた通信衛星コンステレーション「千帆」の衛星を所定の軌道へ投入することに成功しました… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260602-spacesail-polar-group10.html</guid>
+      <pubDate>Tue, 02 Jun 2026 08:52:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>小惑星「2026 JN4」（ST26E86）を落下前に観測？　1年半ぶりの落下前の観測事例の可能性</title>
+      <link>https://sorae.info/astronomy/20260601-2026-jn4.html</link>
+      <description>直径約1mより大きな小惑星は、2週間に1回程度の頻度で地球に落下していると推定されています。その多くは観測できていませんが、稀に観測事例が報告されます。 世界時2026年5月15日10時22分ごろ（※1）、推定直径0.6… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260601-2026-jn4.html</guid>
+      <pubDate>Mon, 01 Jun 2026 12:59:14 +0000</pubDate>
     </item>
     <item>
       <title>宇宙ロボット開発にも標準OSを利用する時代に？  宇宙ロボットの最前線とSpace ROSの展望</title>
@@ -28,13 +49,6 @@
       <description>NASA（アメリカ航空宇宙局）は2026年5月26日付で、軌道高度の低下が続いているガンマ線観測衛星「Neil Gehrels Swift（ニール・ゲーレルス・スウィフト、以下Swift）」の救出ミッションに向けた、最新… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260528-swift-reboost.html</guid>
       <pubDate>Thu, 28 May 2026 08:48:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>「はやぶさ2」のカメラが太陽系外惑星を検出　口径15mmでの成功は最小記録</title>
-      <link>https://sorae.info/astronomy/20260527-hayabusa2-onc-t-transit.html</link>
-      <description>JAXA/ISAS（宇宙航空研究開発機構/宇宙科学研究所）の湯本航生さんを筆頭とする研究チームは、JAXAの小惑星探査機「はやぶさ2」に搭載された口径15mmの光学カメラ「ONC-T（光学航法望遠カメラ）」を使用して、太… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260527-hayabusa2-onc-t-transit.html</guid>
-      <pubDate>Wed, 27 May 2026 01:55:26 +0000</pubDate>
     </item>
     <item>
       <title>「夢だけで社内会議は通せない」ANA・JALの宇宙事業リーダーが語る宇宙業界のリアルと参入する価値とは</title>
