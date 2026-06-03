@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 10:43:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 11:07:18 +0000</lastBuildDate>
     <item>
       <title>ブルー・オリジン「ニューグレン」ロケットが地上燃焼試験で爆発　衛星は未搭載で無事も射点損傷</title>
       <link>https://sorae.info/space/202605601-new-glenn-anomaly.html</link>
       <description>アメリカの現地時間2026年5月28日、Blue Origin（ブルー・オリジン）の大型ロケット「New Glenn（ニューグレン）」が地上での燃焼試験時に爆発する事故が発生しました。 爆発した機体は、Amazonの衛星… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/202605601-new-glenn-anomaly.html</guid>
       <pubDate>Mon, 01 Jun 2026 01:58:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>通信から「宇宙ソリューションプロバイダー」へ。スカパーＪＳＡＴが「IR DAY 2026」で語った地上局の役割と多角化戦略</title>
+      <link>https://sorabatake.jp/46118/</link>
+      <description>2026年3月に開催されたIR DAYで語られた「Multi-Orbit戦略」や宇宙安全保障、アルテミス計画に挑む同社の宇宙事業の全体像を紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46118/</guid>
+      <pubDate>Wed, 03 Jun 2026 07:53:26 +0000</pubDate>
     </item>
     <item>
       <title>ブラックホールと銀河はどちらが先か？　ウェッブ宇宙望遠鏡による初期宇宙の謎に迫る成果</title>
@@ -37,18 +44,25 @@
       <pubDate>Mon, 01 Jun 2026 12:59:14 +0000</pubDate>
     </item>
     <item>
-      <title>宇宙ロボット開発にも標準OSを利用する時代に？  宇宙ロボットの最前線とSpace ROSの展望</title>
-      <link>https://sorabatake.jp/45972/</link>
-      <description>スペースデブリ除去、月面基地建設、火星探査……宇宙開発はもはやロボットなしには語れません。地上ロボット開発の標準「ROS」を宇宙向けに進化させたオープンソース基盤「Space ROS」の概要と展望を紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45972/</guid>
-      <pubDate>Thu, 21 May 2026 23:00:26 +0000</pubDate>
-    </item>
-    <item>
       <title>救出ミッション間近のNASA天文衛星「スウィフト」高度の低下ペースを遅らせることに成功</title>
       <link>https://sorae.info/space/20260528-swift-reboost.html</link>
       <description>NASA（アメリカ航空宇宙局）は2026年5月26日付で、軌道高度の低下が続いているガンマ線観測衛星「Neil Gehrels Swift（ニール・ゲーレルス・スウィフト、以下Swift）」の救出ミッションに向けた、最新… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260528-swift-reboost.html</guid>
       <pubDate>Thu, 28 May 2026 08:48:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>JAXAがIHIエアロスペースを競争参加資格停止に　過去10年間の14契約で不適切請求が発覚</title>
+      <link>https://sorae.info/space/20260603-jaxa-ihi-ia.html</link>
+      <description>JAXA（宇宙航空研究開発機構）は2026年6月2日、株式会社IHIエアロスペースに対し、同日付で5か月間の競争参加資格停止処分を行ったと発表しました。今回の処分は、同社がJAXAとの契約において作業未了のまま事実と異な… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260603-jaxa-ihi-ia.html</guid>
+      <pubDate>Wed, 03 Jun 2026 08:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>宇宙ロボット開発にも標準OSを利用する時代に？  宇宙ロボットの最前線とSpace ROSの展望</title>
+      <link>https://sorabatake.jp/45972/</link>
+      <description>スペースデブリ除去、月面基地建設、火星探査……宇宙開発はもはやロボットなしには語れません。地上ロボット開発の標準「ROS」を宇宙向けに進化させたオープンソース基盤「Space ROS」の概要と展望を紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45972/</guid>
+      <pubDate>Thu, 21 May 2026 23:00:26 +0000</pubDate>
     </item>
     <item>
       <title>「夢だけで社内会議は通せない」ANA・JALの宇宙事業リーダーが語る宇宙業界のリアルと参入する価値とは</title>

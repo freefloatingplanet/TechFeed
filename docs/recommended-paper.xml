@@ -7,15 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 02 Jun 2026 10:43:08 +0000</lastBuildDate>
-    <item>
-      <title>有限差分偏微分方程式ソルバーにおける適応メッシュ細分化のための物理情報に基づく残差</title>
-      <link>https://arxiv.org/abs/2606.02475v1</link>
-      <description>古典的な有限差分ソルバーは偏微分方程式の解法として依然として信頼できるツールですが、その効率はメッシュ解像度の設定場所に依存します。均一なメッシュ細分化は、急勾配、境界、振動、または制約に敏感な領域付近で解の難易度が局所化されている場合、自由度を無駄に消費する可能性があります。本論文では、物理情報に基づくニューラルネットワーク（PINN）を最終的なソルバーとしてではなく、適応型メッシュ細分化のためのオフグリッド残差プローブとして使用するハイブリッド戦略を検討します。PINN残差は領域全体でサンプリングされ、セルごとの指標に変換され、有限差分ソルバーによって最終的な近似解が計算される前に、細分化のガイドとして使用されます。
-
-この手法は3つのベンチマークで評価されます。主要なフルソルバー検証では、適応型メッシュ上で非均一有限差分ソルバーを用いた1次元粘性バーガース方程式を使用します。 PINN-閾値細分化では、自由度 $60$ で最終的な相対 $L^2$ 誤差 $0.021067$ を達成し、自由度 $192$ の均一細分化では $0.022617$ となります。メッシュサイズが一致する (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.02475v1</guid>
-      <pubDate>Mon, 01 Jun 2026 16:47:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 11:07:18 +0000</lastBuildDate>
   </channel>
 </rss>
