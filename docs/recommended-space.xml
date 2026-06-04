@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 11:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 10:01:31 +0000</lastBuildDate>
     <item>
-      <title>ブルー・オリジン「ニューグレン」ロケットが地上燃焼試験で爆発　衛星は未搭載で無事も射点損傷</title>
-      <link>https://sorae.info/space/202605601-new-glenn-anomaly.html</link>
-      <description>アメリカの現地時間2026年5月28日、Blue Origin（ブルー・オリジン）の大型ロケット「New Glenn（ニューグレン）」が地上での燃焼試験時に爆発する事故が発生しました。 爆発した機体は、Amazonの衛星… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/202605601-new-glenn-anomaly.html</guid>
-      <pubDate>Mon, 01 Jun 2026 01:58:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>通信から「宇宙ソリューションプロバイダー」へ。スカパーＪＳＡＴが「IR DAY 2026」で語った地上局の役割と多角化戦略</title>
-      <link>https://sorabatake.jp/46118/</link>
-      <description>2026年3月に開催されたIR DAYで語られた「Multi-Orbit戦略」や宇宙安全保障、アルテミス計画に挑む同社の宇宙事業の全体像を紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46118/</guid>
-      <pubDate>Wed, 03 Jun 2026 07:53:26 +0000</pubDate>
+      <title>2026年6月5日の「世界環境デー」は2つの衛星データを活用したプロジェクトに注目！虎ノ門と銀座で衛星データから地球について考えよう</title>
+      <link>https://sorabatake.jp/46206/</link>
+      <description>環境保全への関心を高め、世界中で具体的な行動を起こすために国連が定めた国際的な記念日「世界環境デー」である6月5日に合わせて展開される2つの注目のプロジェクトを紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46206/</guid>
+      <pubDate>Thu, 04 Jun 2026 01:32:31 +0000</pubDate>
     </item>
     <item>
       <title>ブラックホールと銀河はどちらが先か？　ウェッブ宇宙望遠鏡による初期宇宙の謎に迫る成果</title>
@@ -37,18 +30,18 @@
       <pubDate>Tue, 02 Jun 2026 08:52:22 +0000</pubDate>
     </item>
     <item>
+      <title>小型衛星の軽量化と設計自由度向上へ　マクセルとJAXAが全固体電池の共同研究を開始</title>
+      <link>https://sorae.info/space/20260604-maxell-solid-state-battery.html</link>
+      <description>マクセル株式会社は2026年6月4日、JAXAが2025年に新設した「JAXA宇宙技術実証加速プログラム（JAXA-STEPS）」の2025年度公募において、同社の提案「宇宙機ミッションを最大化する高耐熱全固体電池の開発… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260604-maxell-solid-state-battery.html</guid>
+      <pubDate>Thu, 04 Jun 2026 09:37:46 +0000</pubDate>
+    </item>
+    <item>
       <title>小惑星「2026 JN4」（ST26E86）を落下前に観測？　1年半ぶりの落下前の観測事例の可能性</title>
       <link>https://sorae.info/astronomy/20260601-2026-jn4.html</link>
       <description>直径約1mより大きな小惑星は、2週間に1回程度の頻度で地球に落下していると推定されています。その多くは観測できていませんが、稀に観測事例が報告されます。 世界時2026年5月15日10時22分ごろ（※1）、推定直径0.6… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260601-2026-jn4.html</guid>
       <pubDate>Mon, 01 Jun 2026 12:59:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>救出ミッション間近のNASA天文衛星「スウィフト」高度の低下ペースを遅らせることに成功</title>
-      <link>https://sorae.info/space/20260528-swift-reboost.html</link>
-      <description>NASA（アメリカ航空宇宙局）は2026年5月26日付で、軌道高度の低下が続いているガンマ線観測衛星「Neil Gehrels Swift（ニール・ゲーレルス・スウィフト、以下Swift）」の救出ミッションに向けた、最新… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260528-swift-reboost.html</guid>
-      <pubDate>Thu, 28 May 2026 08:48:36 +0000</pubDate>
     </item>
     <item>
       <title>JAXAがIHIエアロスペースを競争参加資格停止に　過去10年間の14契約で不適切請求が発覚</title>
@@ -63,6 +56,13 @@
       <description>スペースデブリ除去、月面基地建設、火星探査……宇宙開発はもはやロボットなしには語れません。地上ロボット開発の標準「ROS」を宇宙向けに進化させたオープンソース基盤「Space ROS」の概要と展望を紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45972/</guid>
       <pubDate>Thu, 21 May 2026 23:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年6月の星空情報：宵の空に並んで輝く「金星」と「木星」</title>
+      <link>https://sorae.info/astronomy/202606-starry-sky.html</link>
+      <description>6月、風が湿気を帯び、梅雨の訪れを感じる時季となりました。曇りや雨が続いて星が見えづらくなり、晴れた日も靄がかかって星の光がかすむことも多くなります。しかし、今年の6月には、夕方から夜にかけて鮮烈な輝きを放つ星をいくつも… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/202606-starry-sky.html</guid>
+      <pubDate>Wed, 03 Jun 2026 12:02:19 +0000</pubDate>
     </item>
     <item>
       <title>「夢だけで社内会議は通せない」ANA・JALの宇宙事業リーダーが語る宇宙業界のリアルと参入する価値とは</title>

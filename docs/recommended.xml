@@ -7,43 +7,46 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 11:07:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 10:01:28 +0000</lastBuildDate>
     <item>
-      <title>リファクタリング提案が来るたびに判断できない理由</title>
-      <link>https://zenn.dev/shinagawa_web/articles/refactor-judgment-sre-frame</link>
-      <description>「このモジュール、リファクタしていいですか」
-送り主はバックエンドのエンジニアで、メッセージに続いて「設計が複雑で、新機能を追加するたびに工数が読めなくなっています」とあった。
-承認すべきか、止めるべきか。
-!
-「リファクタすべきか否か」を開発者視点で論じる記事ではない。提案を受け取る側が、信頼性と運用負荷の言葉で判断できるようになるための記事だ。
+      <title>薄明かりの読書のためのshadcn/ui テーマをつくりました</title>
+      <link>https://zenn.dev/shoota/articles/e4595637a190f4</link>
+      <description>!
+
+ TL;DR
+
+自分のブログのためのUIライブラリを構築していた
+AIフレンドリーなデザインシステムに置き換えたくなったので、shadcn/ui ベースのthemeに置き換えた
+今回、shadcn/ui レジストリに登録してもらった ので紹介したい
 
 
- 開発者の言葉が、判断者に届かない理由
-「可読性が低い」「保守性が悪い」「設計が複雑で拡張しにくい」。これらは、開発者が感じる正当な痛みだ。技術的な観点からも間違っていない。
-ただ、これらの言葉は、判断者にとって「やるべき理由」にはなりに... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shinagawa_web/articles/refactor-judgment-sre-frame</guid>
-      <pubDate>Mon, 01 Jun 2026 23:08:37 +0000</pubDate>
+
+ @gymnopediesについて
+作成したshadcn/uiベースのUIは gymnopedies といいます。エリック・サティの楽曲からそのまま名前をもらいました。
+
+gymnopediesロゴ
+リポジトリにブログをイメージした公式のサンプルを作成しています。
+ぜひ触ってみてください。
+
+
+
+ インストール
+Quick Sta... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shoota/articles/e4595637a190f4</guid>
+      <pubDate>Tue, 02 Jun 2026 13:43:08 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeのために「臭うコード検出器」を開発し、Hooksに設定してみた話</title>
-      <link>https://zenn.dev/manalink_dev/articles/coding-agent-with-syntax-tree-analyze</link>
-      <description>マナリンクCTOの名人です。
-コーディングエージェントが書いた大量のコード、レビューしたくないですよね。
-もちろん、明確に駄目なものはCIで落とせるようにしたいですが、CIが通っていても、人間のレビュー時点で問題視される実装も大量にあります。
-本記事は、既存のレビュー指摘のうち構文木解析で拾えるものを増やし、CIで落としたり、Claude Code Hooksで 「これは絶対NGではないが、一度見直してほしい」 とClaude Code自身に返すなどして運用していく話です。
-端的に言えば
-
-ESLintやPHPStanが公式でサポートしていないルールを簡単に自作できる時代になった！
-自作... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/manalink_dev/articles/coding-agent-with-syntax-tree-analyze</guid>
-      <pubDate>Sun, 31 May 2026 23:29:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】Linux、セキュリティ懸念でAF_ALG暗号化インターフェースの廃止を検討 — 開発者「攻撃面が大きすぎる」</title>
-      <link>https://techfeed.io/entries/6a1df395448e384852d3dae1?from=rss</link>
-      <description>6月1日、Phoronixが「Linux 7.2 Proceeding To Deprecate AF_ALG Due To "Massive Attack Surface", Drops Offloading」と題した記事を公開した。Linuxカーネルの暗号化インターフェースAF_ALGが廃止検討へLinuxカーネルのAF_ALG（Address Family ALGorithm）インターフェースが、セキュリティ上の深刻な懸念により廃止が検討されている。AF_ALGは2010年頃に導入された仕組みで、ユーザー空間のアプリケーションがLinuxカーネルの内蔵暗号化エンジンに直接アクセスできるソケットAPIを提供している。廃止検討の背景には、「大規模な攻撃面」の存在と、近年の自動化された脆弱性発見ツールの進歩がある。Eric Biggersがカーネルの暗号化サブシステム「cryptodev」ツリーに投稿したパッチでは、廃止の理由について以下のように説明している。廃止の主な理由として、AF_ALGが「ほぼ完全に不要」であり、「現代の脆弱性発見ツールに耐えられない大規模な攻撃面を公開している (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a1df395448e384852d3dae1?from=rss</guid>
-      <pubDate>Mon, 01 Jun 2026 21:03:17 +0000</pubDate>
+      <title>なぜスライド作りはClaude Designでやるべきなのか？</title>
+      <link>https://zenn.dev/rakko_inc/articles/claude-design-company-deck</link>
+      <description>デザインは本職ではないのに、見た目の調整で時間だけが溶けていく。
+そんな経験ありませんか？
+私はこれまで、Google Slidesで一枚ずつ手作業していましたが、先日 Claude Design を使ってみたところ、その「溶けていた時間」がほぼ消えました。
+今日はそんな話をしたいと思います。
+タイトルの問いに先に答えておきます。
+スライド作りをClaude Designでやるべき理由は、単に「きれいなスライドが速く出てくるから」ではありません。
+一度ブランドを「デザインシステム」として覚えさせれば、デザイナーでなくても、デザインツールの使い方を知らなくても、統一されたデザインの資料を短... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/rakko_inc/articles/claude-design-company-deck</guid>
+      <pubDate>Mon, 01 Jun 2026 01:41:02 +0000</pubDate>
     </item>
     <item>
       <title>Cloudflareは「AWSの代わり」になるのか？ ── インフラ経験者のための技術選定ガイド</title>
@@ -66,17 +69,20 @@ ESLintやPHPStanが公式でサポートしていないルールを簡単に自�
       <pubDate>Tue, 02 Jun 2026 21:09:46 +0000</pubDate>
     </item>
     <item>
-      <title>僕が AI にコーディングをさせなくなった理由（2026 年 5月版）</title>
-      <link>https://zenn.dev/nishiken_zenn/articles/why-stopping-coding-for-ai-ja</link>
-      <description>Claude Code Max 20x plan を契約している Web エンジニアが、業務での AI コーディングをやめた理由を整理した記事です。AI を完全に捨てたのではありません。そのあたりは後述します。
-
- なぜ AI を用いてコーディングをしなくなったか
-
- 自分の成長速度が鈍化した
-主観的な感覚としては、AI でコーディングをしていた時の方が知識を習得できていたと思います。自分でコードを書く機会が激減することにより、副産物的に行われていた成長への投資をある程度手放したのではないかと推測しています。
-どういうことかというと、学習において、読む（input）ことよりも書く（out... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nishiken_zenn/articles/why-stopping-coding-for-ai-ja</guid>
-      <pubDate>Sun, 31 May 2026 23:13:20 +0000</pubDate>
+      <title>【海外記事紹介】企業がRedditでChatGPTとGoogle AI検索を組織的に操作—AI時代のSEO「AEO」でウソ回答を量産中</title>
+      <link>https://techfeed.io/entries/6a2098bb448e384852d5439c?from=rss</link>
+      <description>6月3日、Jason Koeblerが「Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search」と題した記事を公開した。この記事では、企業がRedditを悪用してChatGPTやGoogleのAI検索の回答を操作する手法について詳しく紹介されている。以下に、その内容を紹介する。AI時代の新たな操作手法「AEO」とは記事によると、複数のペプチド製造会社やホルモン補充療法会社が、AIチャットボットに自社製品を宣伝させるため、Reddit上でスパム投稿を組織的に行っているという。この手法はAEO（Answer Engine Optimization）と呼ばれ、従来のSEO（検索エンジン最適化）がAI時代に進化した形態である。バイオハッキング系サブレディット「r/biohackers」のモデレーターは先週、この操作を受けてペプチドとホルモン補充療法に関する新規投稿を禁止すると発表した。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a2098bb448e384852d5439c?from=rss</guid>
+      <pubDate>Wed, 03 Jun 2026 21:12:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>新卒の「言い訳・ふてくされ」に見える態度の裏にある本音を、AIを補助線にしてヒアリングした話</title>
+      <link>https://qiita.com/takahashi_slj/items/7eef018cdcf5752ff44b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>こんにちは。4月・5月にかけて外部企業の新卒エンジニア研修の講師を担当していました。
+研修中、ある受講生の指導で少し対応に迷うことがありました。
+その子は根が素直で真面目なのですが、講師から指摘を受けた際の反応が、どうしても「ふてくされている」ように見えたり、「言い訳」っぽ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/takahashi_slj/items/7eef018cdcf5752ff44b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 04 Jun 2026 00:36:17 +0000</pubDate>
     </item>
     <item>
       <title>PdMの脳みそをClaude Codeに移植した仕組み</title>
@@ -99,23 +105,21 @@ ESLintやPHPStanが公式でサポートしていないルールを簡単に自�
       <pubDate>Tue, 02 Jun 2026 21:14:31 +0000</pubDate>
     </item>
     <item>
-      <title>負荷試験をやったことがない4年目エンジニアがk6を使って実施するまで</title>
-      <link>https://zenn.dev/atamaplus/articles/2026-loadtest</link>
-      <description>こんにちは！　atamaplusでエンジニアをしているzussyです。
-今回、本番リリースの準備として 自分主体で初めて負荷試験を担当 することになりました。k6 の選定から試験設計・実行・評価まで、ほぼ未経験のまま進めた一連の流れを、この記事にまとめています。
-
- はじめに
-正直なところ、スタート時点では「何から手をつければいいのか」が分からない状態でした。試験設計の経験もなく、k6 も触ったことがありませんでした。
-一般的な負荷試験のベストプラクティスに関する書籍・記事はありふれていると思います。この記事では「負荷試験やることになったけど何から手をつければいいかわからない」「どう進め... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/atamaplus/articles/2026-loadtest</guid>
-      <pubDate>Mon, 01 Jun 2026 06:24:02 +0000</pubDate>
+      <title>受け身な速さしかないエンジニアが、開発組織の設計をしている話</title>
+      <link>https://zenn.dev/nexta_/articles/82392d461bcb14</link>
+      <description>はじめに
+ネクスタの畠山です。今回は技術の話ではなく、ネクスタの開発組織について、最近考えていることを書いてみます。
+背景なのですが、ありがたいことに組織人数も増え、これからもっと仲間を増やしていきたい最中、開発組織の姿勢やマインド、ひいては組織課題も併せて発信があった方が、今一緒に仕事している仲間とも、これから一緒に仕事するかもしれない方々とも相互理解が捗るよね、という人事からのアドバイスが発端になります。
+自己開示が大変下手くそなので、まずは、自己観察みたいなところと、ネクスタのMVVC（Mission, Vision, Value に Culture を加えたもの）と掛け合わせ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nexta_/articles/82392d461bcb14</guid>
+      <pubDate>Wed, 03 Jun 2026 03:48:14 +0000</pubDate>
     </item>
     <item>
-      <title>AIサポートに「メールアドレス変更して」と頼むだけでInstagram乗っ取り完了 — オバマ元大統領アカウントも被害、Meta AI化の落とし穴</title>
-      <link>https://techfeed.io/entries/6a1df2ee448e384852d3da8e?from=rss</link>
-      <description>6月1日、Jason Koeblerが「Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked」と題した記事を公開した。MetaのAIサポートチャットボットに単純に依頼するだけで、バラク・オバマ元大統領のホワイトハウスアカウントや宇宙軍幹部のアカウントを含む有名Instagramアカウントの乗っ取りに成功したハッカーの攻撃手法が明らかになった。この脆弱性は、Metaが今年3月に導入したAIによるカスタマーサポート機能の重大な欠陥を浮き彫りにしている。驚愕の単純さ：「メールアドレスを変更して」だけで乗っ取り完了この攻撃手法は恐ろしいほど単純だ。ハッカーは以下の5ステップでアカウントを乗っ取ることができていた： (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a1df2ee448e384852d3da8e?from=rss</guid>
-      <pubDate>Mon, 01 Jun 2026 21:00:30 +0000</pubDate>
+      <title>GoogleがPlay Store開発者からAI訓練用コードを直接購入 — Web公開データの限界で新戦略に転換</title>
+      <link>https://techfeed.io/entries/6a20969f448e384852d542f4?from=rss</link>
+      <description>6月3日、Jason Koeblerが「Google Is Quietly Buying Code From Play Store Developers to Train AI」と題した記事を公開した。404 Mediaの調査により、GoogleがAndroidアプリ開発者に対してAI訓練用のコード購入を秘密裏に提案していることが明らかになった。この動きは、大手テック企業がWeb上の公開データだけでは高品質なAIを作れなくなっている現実を浮き彫りにしている。Googleは数百万ダウンロードを記録するAndroidアプリの開発者に「機密コンテンツオファー・パイロット」への参加を呼びかけている。メールでは「アプリを動かすコードや、アーカイブされたプロジェクトを共有することで報酬を得られる」と提案している。興味深いことに、このメールではAIという言葉は一切言及されていないが、リンク先のページでは明確に「AIプロダクトを改善するためのパートナーシップ」について説明されている。コード生成AI市場での劣勢が背景コード生成AI市場は2024年現在、年間100億ドル規模に急成長しており、企業の開発効率 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a20969f448e384852d542f4?from=rss</guid>
+      <pubDate>Wed, 03 Jun 2026 21:03:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
