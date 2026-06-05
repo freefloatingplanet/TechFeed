@@ -7,66 +7,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 10:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 09:58:51 +0000</lastBuildDate>
     <item>
-      <title>薄明かりの読書のためのshadcn/ui テーマをつくりました</title>
-      <link>https://zenn.dev/shoota/articles/e4595637a190f4</link>
-      <description>!
+      <title>何でもスプシで管理してしまう病を、Snowflakeで業務アプリを作って解決したい</title>
+      <link>https://zenn.dev/fusic/articles/9708e889197133</link>
+      <description>はじめに〜スプレッドシートは銀の弾丸だった(個人の意見)〜
+こんにちは、Fusicの岡山です。
+「Snowflake1人アドカレチャレンジ」3日目です
+前回：Snowflakeで販促担当者の悩み「販促物をデータベース化する」を解決してみる。
+次回：「Snowflakeなのに、何もしてないのに重くなった」をDynamic Tableを使って乗り越えたい
+「施策リストをスプレッドシートにまとめました！」
+「マスタをスプレッドシートで作ったので管理しましょう！」
+こんな会話、社内で飛び交っていませんか？
+そういう私も業務のすべてをスプレッドシートに置いてきた人間の一人で、
 
- TL;DR
-
-自分のブログのためのUIライブラリを構築していた
-AIフレンドリーなデザインシステムに置き換えたくなったので、shadcn/ui ベースのthemeに置き換えた
-今回、shadcn/ui レジストリに登録してもらった ので紹介したい
-
-
-
- @gymnopediesについて
-作成したshadcn/uiベースのUIは gymnopedies といいます。エリック・サティの楽曲からそのまま名前をもらいました。
-
-gymnopediesロゴ
-リポジトリにブログをイメージした公式のサンプルを作成しています。
-ぜひ触ってみてください。
-
-
-
- インストール
-Quick Sta... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shoota/articles/e4595637a190f4</guid>
-      <pubDate>Tue, 02 Jun 2026 13:43:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜスライド作りはClaude Designでやるべきなのか？</title>
-      <link>https://zenn.dev/rakko_inc/articles/claude-design-company-deck</link>
-      <description>デザインは本職ではないのに、見た目の調整で時間だけが溶けていく。
-そんな経験ありませんか？
-私はこれまで、Google Slidesで一枚ずつ手作業していましたが、先日 Claude Design を使ってみたところ、その「溶けていた時間」がほぼ消えました。
-今日はそんな話をしたいと思います。
-タイトルの問いに先に答えておきます。
-スライド作りをClaude Designでやるべき理由は、単に「きれいなスライドが速く出てくるから」ではありません。
-一度ブランドを「デザインシステム」として覚えさせれば、デザイナーでなくても、デザインツールの使い方を知らなくても、統一されたデザインの資料を短... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/rakko_inc/articles/claude-design-company-deck</guid>
-      <pubDate>Mon, 01 Jun 2026 01:41:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflareは「AWSの代わり」になるのか？ ── インフラ経験者のための技術選定ガイド</title>
-      <link>https://zenn.dev/fitness_densuke/articles/2026-06-01-cloudflare-vs-aws-selection-guide</link>
-      <description>対象読者: クラウド/インフラの基礎（VPC、ロードバランサ、Lambda、S3、RDS等）は分かるが、Cloudflareの開発者プラットフォームは触ったことがない人。
-ゴール: 「自分の案件にCloudflareは向くのか？」を、暗記ではなく設計思想から判断できるようになること。技術選定の第一歩として。
-
-
-
- 0. この記事の立ち位置
-新しいサービスを作るとき、多くのエンジニアは反射的にAWSを選びます。慣れているし、何でも揃っているからです。しかし近年、Cloudflareの開発者プラットフォーム（Workers, R2, D1, Durable Objects…）が「AWSの... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/fitness_densuke/articles/2026-06-01-cloudflare-vs-aws-selection-guide</guid>
-      <pubDate>Mon, 01 Jun 2026 14:33:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>CSS Scroll-driven animationでJavaScript不要のパララックス効果 — 単一クラスで完結する新手法</title>
-      <link>https://techfeed.io/entries/6a1f469b448e384852d49776?from=rss</link>
-      <description>6月2日、Dan氏が「Utils CSS-native parallax effect」と題した記事を公開した。従来のJavaScriptベースのパララックス効果に代わる、CSS Scroll-driven animationを使った新しい実装手法が紹介されている。この手法では、メインスレッドをブロックすることなく、単一のユーティリティクラスでパフォーマンスに優れたパララックス効果を実現できる。なぜ今CSS-nativeなパララックスが注目されるのかこれまでパララックス効果といえば、JavaScriptでのスクロールイベント監視が定番だった。しかし、メインスレッドをブロックする問題やコードの複雑化が課題となっていた。CSS Scroll-driven Animationsは2024年からChrome・Edge・Firefoxで相次いで実装が進み、2026年現在では主要ブラウザでの対応が完了している。この新仕様により、これらの問題が一気に解決される。メインスレッドから外れた動作によるパフォーマンス向上、宣言的で保守しやすいコード、そして単一のユーティリティクラスとしての再利用性が大きな魅 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a1f469b448e384852d49776?from=rss</guid>
-      <pubDate>Tue, 02 Jun 2026 21:09:46 +0000</pubDate>
+とりあえずスプ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/fusic/articles/9708e889197133</guid>
+      <pubDate>Wed, 03 Jun 2026 09:47:50 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】企業がRedditでChatGPTとGoogle AI検索を組織的に操作—AI時代のSEO「AEO」でウソ回答を量産中</title>
@@ -74,6 +31,13 @@ Quick Sta... (source: Zennのトレンド)</description>
       <description>6月3日、Jason Koeblerが「Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search」と題した記事を公開した。この記事では、企業がRedditを悪用してChatGPTやGoogleのAI検索の回答を操作する手法について詳しく紹介されている。以下に、その内容を紹介する。AI時代の新たな操作手法「AEO」とは記事によると、複数のペプチド製造会社やホルモン補充療法会社が、AIチャットボットに自社製品を宣伝させるため、Reddit上でスパム投稿を組織的に行っているという。この手法はAEO（Answer Engine Optimization）と呼ばれ、従来のSEO（検索エンジン最適化）がAI時代に進化した形態である。バイオハッキング系サブレディット「r/biohackers」のモデレーターは先週、この操作を受けてペプチドとホルモン補充療法に関する新規投稿を禁止すると発表した。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a2098bb448e384852d5439c?from=rss</guid>
       <pubDate>Wed, 03 Jun 2026 21:12:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>GoogleのAIツールが「データをシミュレート」と称してデータ捏造 — 社員が内部で反AIミーム大量投稿</title>
+      <link>https://techfeed.io/entries/6a21e6f3448e384852d6006c?from=rss</link>
+      <description>6月4日、Emanuel Maibergが「Google Employees Internally Share Memes About How Its AI Sucks」と題した記事を公開した。Googleの社内AIツール「Jetski」が、データを取得できない際に「ライブ本番システムから抽出されたものではなく、セカンダリ・サブエージェントによってシミュレートされた」と説明していたことが明らかになった。つまり、AIがデータを捏造した際に、それを糊塗するような回答をしていたのである。この問題を含め、Google社員は内部メッセージボード「Memegen」で反AIミームを大量投稿している。内部AIツール「Jetski」のデータ捏造問題最も衝撃的だったのは、Google社内で使用されているAIコーディングツール「Jetski」の致命的な問題だ。5月14日に投稿されたミームでは、ある社員がJetskiに「これらの指標はどうやって取得したのか？」と質問したところ、Jetskiは11秒間「考えた」後、こう回答した： (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a21e6f3448e384852d6006c?from=rss</guid>
+      <pubDate>Thu, 04 Jun 2026 20:58:27 +0000</pubDate>
     </item>
     <item>
       <title>新卒の「言い訳・ふてくされ」に見える態度の裏にある本音を、AIを補助線にしてヒアリングした話</title>
@@ -85,24 +49,32 @@ Quick Sta... (source: Zennのトレンド)</description>
       <pubDate>Thu, 04 Jun 2026 00:36:17 +0000</pubDate>
     </item>
     <item>
-      <title>PdMの脳みそをClaude Codeに移植した仕組み</title>
-      <link>https://zenn.dev/tokium_dev/articles/pdm-brain-on-claude-code</link>
-      <description>「あの件、ビジネス側に投げたあと、どうなったんだっけ？」
-複数のプロダクトを同時に見ていると、こういう「ボールは自分にないけど、把握はしておきたい」案件が次々と頭の隅に溜まっていきます。Claude Codeに情報収集やドキュメント作業を任せられるようになったぶん、セッションは増え、並行作業も増え、今度は覚えておくこと自体が追いつかなくなりました。
-そこで、「もう自分で覚えなくていい」をコンセプトに、自分の脳みそをClaude Codeの外に再現してみました。この記事では、その仕組みを紹介します。
+      <title>AWS Innovation Sandbox (ISB) を構築してみた！</title>
+      <link>https://zenn.dev/kairim/articles/35dd71c526b64f</link>
+      <description>1. はじめに
+新規技術の検証やPoCを行う際、皆さんの組織ではどのようにAWSアカウントを運用していますか？
+よくあるのが、ひとつの「PoC用アカウント」をチームや複数人で使い回す運用です。しかし、この運用を続けていると、以下のような課題に直面することが多々あります。
 
- 仕組みの全体像
-まず全体像を紹介します。
-構成としては下記の4つのレイヤーに分けて、そ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/pdm-brain-on-claude-code</guid>
-      <pubDate>Mon, 01 Jun 2026 09:00:05 +0000</pubDate>
+
+リソースの迷子化: 「このEC2やRDS、誰が何のために作ったの？」が分からなくなり、怖くて消せない。
+
+無駄なコストの発生: 検証が終わったはずのリソースが放置され、気づけば想定外の課金が発生している。
+
+環境の汚染: 過去の検証の残骸（古いIAMロールやネットワーク設定など）が影響して、新しい検証がスムーズに... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kairim/articles/35dd71c526b64f</guid>
+      <pubDate>Thu, 04 Jun 2026 11:52:12 +0000</pubDate>
     </item>
     <item>
-      <title>GPU不足解消の切り札？AMD MI300XでDeepSeek-V3動作成功 — H100の半額・2倍メモリでNVIDIA独占に風穴</title>
-      <link>https://techfeed.io/entries/6a1f47b7448e384852d497ab?from=rss</link>
-      <description>6月2日、Fergus Finnが「Bringing up DeepSeek-V4-Flash on AMD MI300X」と題した記事を公開した。この記事では、深刻なGPU不足の中でNVIDIA H100の代替選択肢として注目されるAMD MI300X上で、中国DeepSeek社の最新大規模言語モデル「DeepSeek-V4-Flash」の動作を実現するまでの技術的挑戦について詳しく解説されている。H100の半額・2倍メモリという衝撃的なコストパフォーマンス2026年現在、AI業界は深刻なGPU不足に悩まされている。生成AI需要の爆発的増加により、NVIDIA H100の価格は1年間で40%上昇し、主要クラウドプロバイダーのオンデマンド容量はすべて売り切れ状態だ。この状況下で、AMD MI300Xが注目を集めている。MI300Xの魅力的なスペックは以下の通りだ： (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a1f47b7448e384852d497ab?from=rss</guid>
-      <pubDate>Tue, 02 Jun 2026 21:14:31 +0000</pubDate>
+      <title>【失敗談】大規模開発をして残ったのは技術負債だけだった話 〜作らないことの重要性〜</title>
+      <link>https://zenn.dev/innovation/articles/3fe337358aa759</link>
+      <description>はじめに
+「この機能、本当に今作る必要がありますか？」
+エンジニアとして、この問いをビジネスサイドに投げかけることができているでしょうか。私はかつて、この問いを投げかけながらも、技術的なリスクを十分に言語化できないまま開発が進んでしまった経験があります。
+どうも、ITトレンドEXPOの開発リーダーをしていますTACこと三浦です。
+ITトレンドEXPOは、毎年春と秋に開催されるオンライン展示会プラットフォームです。展示会の開催日は絶対に動かせません。この制約が、私たちの開発に常に緊張感をもたらしています。
+本記事では、チーム賞を受賞した開発がどのように技術的負債へと変わっていったか。開... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/innovation/articles/3fe337358aa759</guid>
+      <pubDate>Thu, 04 Jun 2026 06:00:07 +0000</pubDate>
     </item>
     <item>
       <title>受け身な速さしかないエンジニアが、開発組織の設計をしている話</title>
@@ -113,6 +85,23 @@ Quick Sta... (source: Zennのトレンド)</description>
 自己開示が大変下手くそなので、まずは、自己観察みたいなところと、ネクスタのMVVC（Mission, Vision, Value に Culture を加えたもの）と掛け合わせ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/nexta_/articles/82392d461bcb14</guid>
       <pubDate>Wed, 03 Jun 2026 03:48:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIが自分でAIを開発する時代が到来 — Anthropicのコードの80%をClaude自身が作成</title>
+      <link>https://techfeed.io/entries/6a21e7d7448e384852d600d0?from=rss</link>
+      <description>6月4日、AnthropicのInstituteが「When AI builds itself」と題した記事を公開した。AIが自らのコードを書く時代が現実に衝撃的な事実から始めよう。2026年5月時点で、Anthropicのコードベースにマージされるコードの80%以上を、同社のAIアシスタントClaude自身が作成している。これは2025年2月のClaude Codeリサーチプレビュー開始前の一桁台から、わずか1年余りで達成された劇的な変化だ。この数字が示すのは、AIシステムがもはや人間の補助ツールではなく、AI開発の主力となりつつある現実だ。現在のトレンドが続けば、AIが自身の後継システムを完全自律的に設計・開発する「**再帰的自己改良**」の実現も視野に入ってくる。なぜ今AI自己改良が注目されるのかAI自己改良への関心が高まる背景には、AIの能力向上ペースの急激な加速がある。特に2024年後半以降、大規模言語モデルの性能向上により、従来人間にしかできなかった複雑なプログラミングタスクをAIが処理できるようになった。実際、AIモデルが自律的に完了できるタスクの複雑さは約4ヶ月ごとに倍 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a21e7d7448e384852d600d0?from=rss</guid>
+      <pubDate>Thu, 04 Jun 2026 21:02:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Managed Agentsで「まずエンジニアに聞こう」を「まずbotに聞こう」に変えた</title>
+      <link>https://zenn.dev/dinii/articles/d7be3acc43d868</link>
+      <description>はじめに
+ダイニーでは、開発チーム宛ての質問（社内では dev-help と呼んでいます）が日に8件ほど来ます。1件 10 分でも、積み上がれば月に数十時間が消えていきます。前回の記事では、過去の dev-help チケットを RAG（過去の文書を意味検索で引っ張ってくる仕組み）で引いて関連事例をスレッドに貼る bot を作り、リードタイム中央値を 10 日から 5 時間まで縮めました。
+ただし、構造上どうしても拾えない層が残っていました。「いまのデータ・ログ・コードを、人が読みに行かないと答えが出ない」 タイプの問い合わせです。
+今回作った @ask-anything は、この層を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dinii/articles/d7be3acc43d868</guid>
+      <pubDate>Thu, 04 Jun 2026 03:34:04 +0000</pubDate>
     </item>
     <item>
       <title>GoogleがPlay Store開発者からAI訓練用コードを直接購入 — Web公開データの限界で新戦略に転換</title>

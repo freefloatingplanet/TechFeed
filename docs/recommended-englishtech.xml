@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 04 Jun 2026 10:01:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 10:00:14 +0000</lastBuildDate>
     <item>
-      <title>Java ニュースまとめ: OpenJDK JEP、Hazelcast、Quarkus、Hibernate、Koog、JHipster、Endive の紹介</title>
-      <link>https://www.infoq.com/news/2026/06/java-news-roundup-may25-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>2026年5月25日付けの今週のJavaニュースまとめでは、JDK 27向けにターゲットとされていた2つのJEPのライフサイクル変更、Koog 1.0のGAリリース、Hazelcast、Quarkus、Hibernate、JHipsterのポイントリリース、Spring AI 2.0の8番目のマイルストーンリリース、そしてJVMネイティブのWebAssembly（Wasm）ランタイムであるEndiveの導入といったニュースを取り上げています。執筆：Michael Redlich (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/06/java-news-roundup-may25-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 01 Jun 2026 21:30:00 +0000</pubDate>
+      <title>プレゼンテーション：AIコパイロットの選択：開発者の生産性を最大化する</title>
+      <link>https://www.infoq.com/presentations/choosing-ai-copilot/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>セペール・コスラヴィ氏は、開発者向け生産性ツールの進化について論じています。CursorやClaude Codeといったツールの強みを評価し、コンテキストエンジニアリング、カスタムルール、モデルコンテキストプロトコル（MCP）統合など、シニアエンジニア向けの実践的なテクニックを解説しています。また、AI導入とクリーンコード品質のバランスを取るための、実際のベンチマークと戦略的フレームワークも紹介しています。執筆：セペール・コスラヴィ (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/choosing-ai-copilot/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 03 Jun 2026 11:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
