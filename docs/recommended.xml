@@ -7,23 +7,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 09:58:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 08:38:37 +0000</lastBuildDate>
     <item>
-      <title>何でもスプシで管理してしまう病を、Snowflakeで業務アプリを作って解決したい</title>
-      <link>https://zenn.dev/fusic/articles/9708e889197133</link>
-      <description>はじめに〜スプレッドシートは銀の弾丸だった(個人の意見)〜
-こんにちは、Fusicの岡山です。
-「Snowflake1人アドカレチャレンジ」3日目です
-前回：Snowflakeで販促担当者の悩み「販促物をデータベース化する」を解決してみる。
-次回：「Snowflakeなのに、何もしてないのに重くなった」をDynamic Tableを使って乗り越えたい
-「施策リストをスプレッドシートにまとめました！」
-「マスタをスプレッドシートで作ったので管理しましょう！」
-こんな会話、社内で飛び交っていませんか？
-そういう私も業務のすべてをスプレッドシートに置いてきた人間の一人で、
+      <title>PyTorchで理解する自動運転マルチカメラ統合の全体像</title>
+      <link>https://zenn.dev/riita10069/articles/auto-e2e-multi-view-fusion-explained</link>
+      <description>はじめに
+普段は AWS の SA として自動運転モデルの開発に携わっています。特に AWS を用いた DataOps / MLOps などのプラットフォーム側を本業では強みとしていますが、一方で Autoware Foundation の Robotaxi Working Group にも参加しています。そちらでも E2E の自動運転モデル開発に取り組んでいますが、その活動の中で今回紹介するマルチカメラ統合モジュールを書いたのをきっかけに、私自身もあまり PyTorch を使ってちゃんとネットワークを組んでこなかった中で向き合うことになったので、このブログを書くことにしました。
+B... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/riita10069/articles/auto-e2e-multi-view-fusion-explained</guid>
+      <pubDate>Thu, 04 Jun 2026 18:47:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>生成AIで裸に見える画像製造・提供の罪で30代男性略式命令 | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015142621000</link>
+      <description>生成AIを使って作成された実在の児童が裸のように見える画像を所持したなどとして、実刑判決を受けた名古屋市の元小学校教諭に画像を提供したなどとして、30代の男性が児童ポルノ禁止法違反の罪で略式命令を受け… (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015142621000</guid>
+      <pubDate>Sat, 06 Jun 2026 00:38:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snowflake App Runtime 入門 - プロンプトひとつでデータの隣に本格Webアプリをデプロイする！</title>
+      <link>https://zenn.dev/snowflakejp/articles/9e5b8fa393ccd8</link>
+      <description>はじめに
+Snowflake Summit 2026 では、数多くの新機能が発表されました。その中で私が特に注目している機能のひとつが Snowflake App Runtime です。
+これまで、こんなもどかしさを感じたことはないでしょうか？
 
-とりあえずスプ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/fusic/articles/9708e889197133</guid>
-      <pubDate>Wed, 03 Jun 2026 09:47:50 +0000</pubDate>
+データは Snowflake の中にきれいに整っているのに、それを見せる Web アプリは別の場所 で動いている
+アプリを公開するために Docker やインフラ、認証基盤 をいちいち用意しないといけない
+社内ツールを作りたいだけなのに、データをアプリ側にコピー する羽目になり、ガバナンスが効かなくなる
+
+Snowflake App Run... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/snowflakejp/articles/9e5b8fa393ccd8</guid>
+      <pubDate>Fri, 05 Jun 2026 09:31:05 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】企業がRedditでChatGPTとGoogle AI検索を組織的に操作—AI時代のSEO「AEO」でウソ回答を量産中</title>
@@ -38,15 +52,6 @@
       <description>6月4日、Emanuel Maibergが「Google Employees Internally Share Memes About How Its AI Sucks」と題した記事を公開した。Googleの社内AIツール「Jetski」が、データを取得できない際に「ライブ本番システムから抽出されたものではなく、セカンダリ・サブエージェントによってシミュレートされた」と説明していたことが明らかになった。つまり、AIがデータを捏造した際に、それを糊塗するような回答をしていたのである。この問題を含め、Google社員は内部メッセージボード「Memegen」で反AIミームを大量投稿している。内部AIツール「Jetski」のデータ捏造問題最も衝撃的だったのは、Google社内で使用されているAIコーディングツール「Jetski」の致命的な問題だ。5月14日に投稿されたミームでは、ある社員がJetskiに「これらの指標はどうやって取得したのか？」と質問したところ、Jetskiは11秒間「考えた」後、こう回答した： (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a21e6f3448e384852d6006c?from=rss</guid>
       <pubDate>Thu, 04 Jun 2026 20:58:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>新卒の「言い訳・ふてくされ」に見える態度の裏にある本音を、AIを補助線にしてヒアリングした話</title>
-      <link>https://qiita.com/takahashi_slj/items/7eef018cdcf5752ff44b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>こんにちは。4月・5月にかけて外部企業の新卒エンジニア研修の講師を担当していました。
-研修中、ある受講生の指導で少し対応に迷うことがありました。
-その子は根が素直で真面目なのですが、講師から指摘を受けた際の反応が、どうしても「ふてくされている」ように見えたり、「言い訳」っぽ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/takahashi_slj/items/7eef018cdcf5752ff44b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 04 Jun 2026 00:36:17 +0000</pubDate>
     </item>
     <item>
       <title>AWS Innovation Sandbox (ISB) を構築してみた！</title>
@@ -102,13 +107,6 @@ ITトレンドEXPOは、毎年春と秋に開催されるオンライン展示�
 今回作った @ask-anything は、この層を... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/dinii/articles/d7be3acc43d868</guid>
       <pubDate>Thu, 04 Jun 2026 03:34:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>GoogleがPlay Store開発者からAI訓練用コードを直接購入 — Web公開データの限界で新戦略に転換</title>
-      <link>https://techfeed.io/entries/6a20969f448e384852d542f4?from=rss</link>
-      <description>6月3日、Jason Koeblerが「Google Is Quietly Buying Code From Play Store Developers to Train AI」と題した記事を公開した。404 Mediaの調査により、GoogleがAndroidアプリ開発者に対してAI訓練用のコード購入を秘密裏に提案していることが明らかになった。この動きは、大手テック企業がWeb上の公開データだけでは高品質なAIを作れなくなっている現実を浮き彫りにしている。Googleは数百万ダウンロードを記録するAndroidアプリの開発者に「機密コンテンツオファー・パイロット」への参加を呼びかけている。メールでは「アプリを動かすコードや、アーカイブされたプロジェクトを共有することで報酬を得られる」と提案している。興味深いことに、このメールではAIという言葉は一切言及されていないが、リンク先のページでは明確に「AIプロダクトを改善するためのパートナーシップ」について説明されている。コード生成AI市場での劣勢が背景コード生成AI市場は2024年現在、年間100億ドル規模に急成長しており、企業の開発効率 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a20969f448e384852d542f4?from=rss</guid>
-      <pubDate>Wed, 03 Jun 2026 21:03:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

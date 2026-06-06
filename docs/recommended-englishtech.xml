@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 05 Jun 2026 10:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 08:39:01 +0000</lastBuildDate>
     <item>
-      <title>プレゼンテーション：AIコパイロットの選択：開発者の生産性を最大化する</title>
-      <link>https://www.infoq.com/presentations/choosing-ai-copilot/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>セペール・コスラヴィ氏は、開発者向け生産性ツールの進化について論じています。CursorやClaude Codeといったツールの強みを評価し、コンテキストエンジニアリング、カスタムルール、モデルコンテキストプロトコル（MCP）統合など、シニアエンジニア向けの実践的なテクニックを解説しています。また、AI導入とクリーンコード品質のバランスを取るための、実際のベンチマークと戦略的フレームワークも紹介しています。執筆：セペール・コスラヴィ (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/choosing-ai-copilot/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 03 Jun 2026 11:05:00 +0000</pubDate>
+      <title>CloudflareがClickHouseにおけるクエリプランニングのボトルネックを特定</title>
+      <link>https://www.infoq.com/news/2026/06/cloudflare-clickhouse-bottleneck/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Cloudflareは最近、課金パイプラインの遅延の原因がClickHouseのクエリ計画段階における競合にあることを明らかにした。チームはボトルネックを特定し、ClickHouseにパッチを適用して排他ロックを共有ロックに置き換え、クエリごとのパーツリストのコピーを削除し、パーツフィルタリングを改善した。執筆：Renato Losio (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/06/cloudflare-clickhouse-bottleneck/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 06 Jun 2026 04:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
