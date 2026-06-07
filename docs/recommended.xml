@@ -7,22 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2026 08:38:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 09:19:50 +0000</lastBuildDate>
     <item>
-      <title>PyTorchで理解する自動運転マルチカメラ統合の全体像</title>
-      <link>https://zenn.dev/riita10069/articles/auto-e2e-multi-view-fusion-explained</link>
-      <description>はじめに
-普段は AWS の SA として自動運転モデルの開発に携わっています。特に AWS を用いた DataOps / MLOps などのプラットフォーム側を本業では強みとしていますが、一方で Autoware Foundation の Robotaxi Working Group にも参加しています。そちらでも E2E の自動運転モデル開発に取り組んでいますが、その活動の中で今回紹介するマルチカメラ統合モジュールを書いたのをきっかけに、私自身もあまり PyTorch を使ってちゃんとネットワークを組んでこなかった中で向き合うことになったので、このブログを書くことにしました。
-B... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/riita10069/articles/auto-e2e-multi-view-fusion-explained</guid>
-      <pubDate>Thu, 04 Jun 2026 18:47:57 +0000</pubDate>
+      <title>Factorio 2.1で宇宙物流が大進化 — 複数アイテム混載ロケット実装で建設効率が劇的改善</title>
+      <link>https://techfeed.io/entries/6a233a5d448e384852d6b073?from=rss</link>
+      <description>6月5日、Wube Software開発チームが「Friday Facts #441 - Space logistics improvements」と題した記事を公開した。ロケット1機で複数種類のアイテムを混載できる機能がFactorio 2.1で実装される。この機能により、宇宙プラットフォーム建設時の効率が劇的に改善され、従来の10〜20機のロケットが必要だった小規模建設が大幅に最適化される。Factorio 2.0で導入された宇宙プラットフォーム機能は、同作史上最大の機能拡張として注目を集めたが、物流面での課題が残されていた。1種類のアイテムをフルスタックで送る従来仕様では、床タイル数枚のために1ロケット分が送られるなど、大量の未使用在庫が発生していた。複数アイテム混載の技術的ブレークスルー開発チームは当初、複数アイテム混載は「複雑すぎる」と判断していた。しかし、FactorioコミュニティやReddit、コミュニティDiscordでの活発な議論を受け、2.1での実装を決定した。アルゴリズムの核心は「最低要求数から順次処理」である。一回限りの建設要求や重要アイテムを、惑星間で大量輸 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a233a5d448e384852d6b073?from=rss</guid>
+      <pubDate>Fri, 05 Jun 2026 21:06:37 +0000</pubDate>
     </item>
     <item>
-      <title>生成AIで裸に見える画像製造・提供の罪で30代男性略式命令 | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/na-k10015142621000</link>
-      <description>生成AIを使って作成された実在の児童が裸のように見える画像を所持したなどとして、実刑判決を受けた名古屋市の元小学校教諭に画像を提供したなどとして、30代の男性が児童ポルノ禁止法違反の罪で略式命令を受け… (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015142621000</guid>
-      <pubDate>Sat, 06 Jun 2026 00:38:27 +0000</pubDate>
+      <title>謎だらけのAWSをClaudeと2人で棚卸しして、月数千ドルのコストを削った話</title>
+      <link>https://qiita.com/ktdatascience/items/924d955a31dd74827abf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+とあるWeb開発の案件に、データまわりの助っ人として途中から入りました。
+8年物のEC2（特級呪物）が莫大なキャッシュを抱えて動いている現場です。
+それぞれが何のために動いているのか、誰も全体像を説明できない。
+
+構成図はない。最初に作った人はもういない。それで... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/ktdatascience/items/924d955a31dd74827abf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 06 Jun 2026 10:36:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>TanStack Query を完全にゼロから実装して理解する</title>
+      <link>https://zenn.dev/ficilcom/articles/ff423b306afe18</link>
+      <description>この記事について
+TanStack Query（旧 React Query）は「サーバーの状態」を扱うためのライブラリとして広く使われています。useQuery を呼ぶだけでローディング・エラー・キャッシュ・再取得がよしなに処理され、とても便利です。
+ただ、便利さの裏で「中で何が起きているのか」がブラックボックスになりがちです。isPending がなぜ自動で切り替わるのか、別々のコンポーネントで同じ queryKey を使うとなぜリクエストが 1 回にまとまるのか、invalidateQueries を呼ぶとなぜ画面が更新されるのか——この辺りを「なんとなく動いている」で済ませてい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ficilcom/articles/ff423b306afe18</guid>
+      <pubDate>Fri, 05 Jun 2026 05:41:21 +0000</pubDate>
     </item>
     <item>
       <title>Snowflake App Runtime 入門 - プロンプトひとつでデータの隣に本格Webアプリをデプロイする！</title>
@@ -40,11 +52,17 @@ Snowflake App Run... (source: Zennのトレンド)</description>
       <pubDate>Fri, 05 Jun 2026 09:31:05 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】企業がRedditでChatGPTとGoogle AI検索を組織的に操作—AI時代のSEO「AEO」でウソ回答を量産中</title>
-      <link>https://techfeed.io/entries/6a2098bb448e384852d5439c?from=rss</link>
-      <description>6月3日、Jason Koeblerが「Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search」と題した記事を公開した。この記事では、企業がRedditを悪用してChatGPTやGoogleのAI検索の回答を操作する手法について詳しく紹介されている。以下に、その内容を紹介する。AI時代の新たな操作手法「AEO」とは記事によると、複数のペプチド製造会社やホルモン補充療法会社が、AIチャットボットに自社製品を宣伝させるため、Reddit上でスパム投稿を組織的に行っているという。この手法はAEO（Answer Engine Optimization）と呼ばれ、従来のSEO（検索エンジン最適化）がAI時代に進化した形態である。バイオハッキング系サブレディット「r/biohackers」のモデレーターは先週、この操作を受けてペプチドとホルモン補充療法に関する新規投稿を禁止すると発表した。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a2098bb448e384852d5439c?from=rss</guid>
-      <pubDate>Wed, 03 Jun 2026 21:12:27 +0000</pubDate>
+      <title>【Snowflake Summit 2026】最新BIツールレポート</title>
+      <link>https://zenn.dev/finatext/articles/snowflake-summit-2026-bi-tools-report</link>
+      <description>はじめに
+こんにちは！ナウキャストでコンサルタントをしている寺西です。
+2026年6月1日〜4日、サンフランシスコで開催されたSnowflake Summit 2026に参加してきました。Snowflake Summitは、クラウドデータプラットフォームを提供するSnowflake社が主催する世界最大級のデータカンファレンスで、データ活用の最新動向や技術が集まる場です。
+今回は、SummitのExpo会場にBIベンダーが9社も出展していたので、全ブース回って担当者に直接話を聞いてきました。
+本記事では、実際のブースで得た一次情報をもとに、各製品の特徴と選定のポイントをまとめます。
+
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/finatext/articles/snowflake-summit-2026-bi-tools-report</guid>
+      <pubDate>Sat, 06 Jun 2026 21:33:00 +0000</pubDate>
     </item>
     <item>
       <title>GoogleのAIツールが「データをシミュレート」と称してデータ捏造 — 社員が内部で反AIミーム大量投稿</title>
@@ -54,20 +72,11 @@ Snowflake App Run... (source: Zennのトレンド)</description>
       <pubDate>Thu, 04 Jun 2026 20:58:27 +0000</pubDate>
     </item>
     <item>
-      <title>AWS Innovation Sandbox (ISB) を構築してみた！</title>
-      <link>https://zenn.dev/kairim/articles/35dd71c526b64f</link>
-      <description>1. はじめに
-新規技術の検証やPoCを行う際、皆さんの組織ではどのようにAWSアカウントを運用していますか？
-よくあるのが、ひとつの「PoC用アカウント」をチームや複数人で使い回す運用です。しかし、この運用を続けていると、以下のような課題に直面することが多々あります。
-
-
-リソースの迷子化: 「このEC2やRDS、誰が何のために作ったの？」が分からなくなり、怖くて消せない。
-
-無駄なコストの発生: 検証が終わったはずのリソースが放置され、気づけば想定外の課金が発生している。
-
-環境の汚染: 過去の検証の残骸（古いIAMロールやネットワーク設定など）が影響して、新しい検証がスムーズに... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kairim/articles/35dd71c526b64f</guid>
-      <pubDate>Thu, 04 Jun 2026 11:52:12 +0000</pubDate>
+      <title>【海外記事紹介】MicroPython+WASMで実現する安全なPythonプラグイン実行環境 — 悪意あるコードでもシステム破壊を防ぐサンドボックス技術</title>
+      <link>https://techfeed.io/entries/6a2489bb448e384852d71201?from=rss</link>
+      <description>6月6日、Simon Willisonが「Running Python code in a sandbox with MicroPython and WASM」と題した記事を公開した。この記事では、MicroPythonとWebAssemblyを組み合わせて安全なPythonコード実行環境を構築する手法について詳しく紹介されている。以下に、その内容を紹介する。プラグインシステムの安全性問題Willisonは、自身が開発するオープンソースプロジェクト（Datasette、LLM、sqlite-utilsなど）でプラグイン機能を重視している。プラグインシステムは新機能の実験リスクを最小限に抑え、コアアプリケーションに影響を与えることなく機能拡張を可能にする。しかし、現在のプラグインシステムには重大な欠陥がある。PythonとPluggyを使用したプラグインコードは、アプリケーション内でフル権限で実行されるため、バグや悪意のあるプラグインがシステム全体を破壊したり、プライベートデータを漏洩させる可能性がある。理想的なサンドボックス環境の要件Willisonが求めるサンドボックス環境の条件は以 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a2489bb448e384852d71201?from=rss</guid>
+      <pubDate>Sat, 06 Jun 2026 20:57:31 +0000</pubDate>
     </item>
     <item>
       <title>【失敗談】大規模開発をして残ったのは技術負債だけだった話 〜作らないことの重要性〜</title>
@@ -80,16 +89,6 @@ ITトレンドEXPOは、毎年春と秋に開催されるオンライン展示�
 本記事では、チーム賞を受賞した開発がどのように技術的負債へと変わっていったか。開... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/innovation/articles/3fe337358aa759</guid>
       <pubDate>Thu, 04 Jun 2026 06:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>受け身な速さしかないエンジニアが、開発組織の設計をしている話</title>
-      <link>https://zenn.dev/nexta_/articles/82392d461bcb14</link>
-      <description>はじめに
-ネクスタの畠山です。今回は技術の話ではなく、ネクスタの開発組織について、最近考えていることを書いてみます。
-背景なのですが、ありがたいことに組織人数も増え、これからもっと仲間を増やしていきたい最中、開発組織の姿勢やマインド、ひいては組織課題も併せて発信があった方が、今一緒に仕事している仲間とも、これから一緒に仕事するかもしれない方々とも相互理解が捗るよね、という人事からのアドバイスが発端になります。
-自己開示が大変下手くそなので、まずは、自己観察みたいなところと、ネクスタのMVVC（Mission, Vision, Value に Culture を加えたもの）と掛け合わせ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nexta_/articles/82392d461bcb14</guid>
-      <pubDate>Wed, 03 Jun 2026 03:48:14 +0000</pubDate>
     </item>
     <item>
       <title>AIが自分でAIを開発する時代が到来 — Anthropicのコードの80%をClaude自身が作成</title>
