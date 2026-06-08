@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 07 Jun 2026 09:19:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 11:04:09 +0000</lastBuildDate>
     <item>
-      <title>非常に風変わりな褐色矮星が、暖かい木星と高温のスーパーアースと同じ平面上に位置する。</title>
-      <link>https://arxiv.org/abs/2604.23926v1</link>
-      <description>トランジット惑星系では、トランジット観測から惑星のサイズが正確に決定されますが、トランジットタイミング変動 (TTV) の存在は、特に視線速度 (RV) データと組み合わせると、質量と軌道離心率に強力な制約を与えます。これらの測定を合わせると、システムの構造、形成メカニズム、および力学的進化に関する重要な洞察が得られます。本稿では、活動的で若い恒星 (年齢 $\sim$1 Gyr) TOI-201 の長期にわたる RV およびトランジット/TTV モニタリングの結果を示し、5.8 日ごとにトランジットする高温のスーパーアース (SE)、53 日の軌道上の温暖な木星 (WJ)、および約 8 年の軌道上の離心率 (e = 0.622) の低質量褐色矮星 (BD) からなる、並外れた多惑星系を明らかにします。褐色矮星の質量は、推定で M$_{\rm BD}$ $\sim$ 16 木星質量です。 BDは、視線速度（RV）によって特徴づけられたトランジット天体の中で最も周期が長く、内惑星と同一平面上にあることが知られている唯一の天体である。この系の構造は、SEが孤立してガス円盤の最内領域で形成さ (source: arXiv Query: search_query=all:observation AND (all:star OR all:stellar) AND (all:formation OR all:forming OR all:star-forming) AND (all:region OR all:regions OR all:cluster) AND ( (all:planetary AND all:mass) OR (all:brown AND all:dwarf) OR (all:free AND all:floating) )&amp;id_list=&amp;start=0&amp;max_results=20)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.23926v1</guid>
-      <pubDate>Mon, 27 Apr 2026 00:57:53 +0000</pubDate>
+      <title>実環境における有糸分裂検出：MIDOG 2025チャレンジにおける複数腫瘍および状況認識型汎化</title>
+      <link>https://arxiv.org/abs/2606.07368v1</link>
+      <description>自動有糸分裂検出は、計算病理学において確立されたタスクです。これまでのベンチマークはスキャナーによるドメインシフトに焦点を当てていましたが、臨床の「実世界」アプリケーションでは、組織学的状況で予想される膨大な変動に対してモデルが堅牢である必要があります。MItosis DOmain Generalization (MIDOG) 2025 チャレンジは、前例のない生物学的および文脈的多様性に対するアルゴリズムのパフォーマンスを評価するために設計されました。複数のスキャン プラットフォームでデジタル化された 12 種類のヒト、イヌ、ネコの腫瘍タイプを含む 365 症例のテスト データセットをキュレーションしました。手動で選択されたホットスポットを超えて、チャレンジではランダムな組織領域 (スライド全体の検出状況を代表する) および困難な領域 (ハード ネガティブが豊富な領域) での検出も求められました。2 番目のトラックでは、非定型有糸分裂像 (AMF) の分類を導入しました。検出トラックには 18 チームが提出し、F1 スコアは最大 0.740 でした。 AMF検出トラックでは、バランス (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.07368v1</guid>
+      <pubDate>Fri, 05 Jun 2026 15:11:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

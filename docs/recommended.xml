@@ -7,25 +7,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 09:19:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 11:04:04 +0000</lastBuildDate>
     <item>
-      <title>Factorio 2.1で宇宙物流が大進化 — 複数アイテム混載ロケット実装で建設効率が劇的改善</title>
-      <link>https://techfeed.io/entries/6a233a5d448e384852d6b073?from=rss</link>
-      <description>6月5日、Wube Software開発チームが「Friday Facts #441 - Space logistics improvements」と題した記事を公開した。ロケット1機で複数種類のアイテムを混載できる機能がFactorio 2.1で実装される。この機能により、宇宙プラットフォーム建設時の効率が劇的に改善され、従来の10〜20機のロケットが必要だった小規模建設が大幅に最適化される。Factorio 2.0で導入された宇宙プラットフォーム機能は、同作史上最大の機能拡張として注目を集めたが、物流面での課題が残されていた。1種類のアイテムをフルスタックで送る従来仕様では、床タイル数枚のために1ロケット分が送られるなど、大量の未使用在庫が発生していた。複数アイテム混載の技術的ブレークスルー開発チームは当初、複数アイテム混載は「複雑すぎる」と判断していた。しかし、FactorioコミュニティやReddit、コミュニティDiscordでの活発な議論を受け、2.1での実装を決定した。アルゴリズムの核心は「最低要求数から順次処理」である。一回限りの建設要求や重要アイテムを、惑星間で大量輸 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a233a5d448e384852d6b073?from=rss</guid>
-      <pubDate>Fri, 05 Jun 2026 21:06:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>謎だらけのAWSをClaudeと2人で棚卸しして、月数千ドルのコストを削った話</title>
-      <link>https://qiita.com/ktdatascience/items/924d955a31dd74827abf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>結局どっち？ E2Eで私が「Chrome DevTools 中心・Playwright 限定」に落ち着いた理由</title>
+      <link>https://zenn.dev/minewo/articles/playwright-vs-chrome-devtools-e2e</link>
       <description>はじめに
-とあるWeb開発の案件に、データまわりの助っ人として途中から入りました。
-8年物のEC2（特級呪物）が莫大なキャッシュを抱えて動いている現場です。
-それぞれが何のために動いているのか、誰も全体像を説明できない。
+「E2E は Playwright で全部書く」——いまの定番です。
+でも私の実務での運用は少し違って、主軸は Chrome DevTools、Playwright は“凍結したい一部だけ”に絞って使う形に落ち着きました。
+「自動テストの話なのに DevTools が中心？」と思うかもしれません。
+本記事は、その一見あまのじゃくな結論に至った理由を、実務の判断基準として整理します。
+先に言うと、答えは「どちらか一方」ではなく「工程ごとに使い分ける（中心は DevTools）」です。タイトルの「結局どっち？」への私の答えは、この一文に尽きます。
+!
+結論（先出し）
 
-構成図はない。最初に作った人はもういない。それで... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/ktdatascience/items/924d955a31dd74827abf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 06 Jun 2026 10:36:16 +0000</pubDate>
+
+日々の... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/minewo/articles/playwright-vs-chrome-devtools-e2e</guid>
+      <pubDate>Sat, 06 Jun 2026 17:04:07 +0000</pubDate>
     </item>
     <item>
       <title>TanStack Query を完全にゼロから実装して理解する</title>
@@ -37,19 +35,18 @@ TanStack Query（旧 React Query）は「サーバーの状態」を扱うため
       <pubDate>Fri, 05 Jun 2026 05:41:21 +0000</pubDate>
     </item>
     <item>
-      <title>Snowflake App Runtime 入門 - プロンプトひとつでデータの隣に本格Webアプリをデプロイする！</title>
-      <link>https://zenn.dev/snowflakejp/articles/9e5b8fa393ccd8</link>
+      <title>Claude を使って Gemini 議事録から必要な情報を抽出する仕組み</title>
+      <link>https://zenn.dev/tokium_dev/articles/d806c7ad4fd458</link>
       <description>はじめに
-Snowflake Summit 2026 では、数多くの新機能が発表されました。その中で私が特に注目している機能のひとつが Snowflake App Runtime です。
-これまで、こんなもどかしさを感じたことはないでしょうか？
+Google Meet の Gemini 議事録は便利ですが、Google Drive に増えていくだけでは会議後の作業につながりません。
+この記事では、Claude を使って Gemini 議事録から決定事項や TODO を抽出し、業務に必要な情報へ変える仕組みを紹介します。
+この仕組みを作ると、会議後に誰かが議事録を読み直し、必要な情報を整理する負担を減らせます。
+また、決定事項や TODO が Slack や Jira に残るため、あとから「何が決まったのか」「次に誰が何をするのか」を追いやすくなります。
+想定している読者は次のような人です。
 
-データは Snowflake の中にきれいに整っているのに、それを見せる Web アプリは別の場所 で動いている
-アプリを公開するために Docker やインフラ、認証基盤 をいちいち用意しないといけない
-社内ツールを作りたいだけなのに、データをアプリ側にコピー する羽目になり、ガバナンスが効かなくなる
-
-Snowflake App Run... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/snowflakejp/articles/9e5b8fa393ccd8</guid>
-      <pubDate>Fri, 05 Jun 2026 09:31:05 +0000</pubDate>
+Gemini の議事録... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/d806c7ad4fd458</guid>
+      <pubDate>Fri, 05 Jun 2026 05:55:45 +0000</pubDate>
     </item>
     <item>
       <title>【Snowflake Summit 2026】最新BIツールレポート</title>
@@ -65,11 +62,25 @@ Snowflake App Run... (source: Zennのトレンド)</description>
       <pubDate>Sat, 06 Jun 2026 21:33:00 +0000</pubDate>
     </item>
     <item>
-      <title>GoogleのAIツールが「データをシミュレート」と称してデータ捏造 — 社員が内部で反AIミーム大量投稿</title>
-      <link>https://techfeed.io/entries/6a21e6f3448e384852d6006c?from=rss</link>
-      <description>6月4日、Emanuel Maibergが「Google Employees Internally Share Memes About How Its AI Sucks」と題した記事を公開した。Googleの社内AIツール「Jetski」が、データを取得できない際に「ライブ本番システムから抽出されたものではなく、セカンダリ・サブエージェントによってシミュレートされた」と説明していたことが明らかになった。つまり、AIがデータを捏造した際に、それを糊塗するような回答をしていたのである。この問題を含め、Google社員は内部メッセージボード「Memegen」で反AIミームを大量投稿している。内部AIツール「Jetski」のデータ捏造問題最も衝撃的だったのは、Google社内で使用されているAIコーディングツール「Jetski」の致命的な問題だ。5月14日に投稿されたミームでは、ある社員がJetskiに「これらの指標はどうやって取得したのか？」と質問したところ、Jetskiは11秒間「考えた」後、こう回答した： (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a21e6f3448e384852d6006c?from=rss</guid>
-      <pubDate>Thu, 04 Jun 2026 20:58:27 +0000</pubDate>
+      <title>SQLiteでUUID主キーを使うと12倍遅くなる — 1億行の実証実験で判明した隠れた落とし穴</title>
+      <link>https://techfeed.io/entries/6a25dbba448e384852d76345?from=rss</link>
+      <description>6月5日、Anders Murphyが「The perils of UUID primary keys in SQLite」と題した記事を公開した。衝撃の実験結果：UUID主キーは12倍遅いSQLiteで1億行のデータ挿入テストを行った結果、UUID4主キーは整数主キーと比較して12倍以上遅いという衝撃的な結果が明らかになった。この性能差は、多くの開発者が見落としがちな、データベースの根本的な仕組みに起因している。実験データを見てみよう。整数主キーでは1億行の挿入に1,081ミリ秒しかかからなかったのに対し、UUID4主キーでは12,586ミリ秒を要した。つまり、毎秒100万行から毎秒8万行へと性能が激減している。なぜUUID主キーが人気なのかまず、なぜUUID主キーが広く使われるのかを理解する必要がある。従来の自動増分整数主キーには以下の問題がある： (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a25dbba448e384852d76345?from=rss</guid>
+      <pubDate>Sun, 07 Jun 2026 20:59:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIウォーターフォール開発：コンテキストゼロのAIを一人前にする仕組み</title>
+      <link>https://zenn.dev/abalol/articles/579296fa31056f</link>
+      <description>はじめに
+Claude Codeを使い始めてすぐ気づいた。セッションを開くたびに、AIは何も知らない状態から始まる。
+先週話した仕様変更も、ADRで決めた設計方針も、あの実装が依存している要件も、全部ない。毎回ゼロから説明し直す。それでも「影響範囲が抜けていた」「別の仕様と矛盾していた」という問題が起きる。
+AIとの開発にウォーターフォール的なトレーサビリティの仕組みを持ち込んで、これを解決しようとした話を書く。
+
+
+ AIは"オンボーディングを受けただけの新人"
+毎朝、記憶がリセットされた新入社員がやってくる。プロジェクトの背景も、過去の意思決定も何も持っていない。手元にあるのは、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/abalol/articles/579296fa31056f</guid>
+      <pubDate>Sun, 07 Jun 2026 00:59:52 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】MicroPython+WASMで実現する安全なPythonプラグイン実行環境 — 悪意あるコードでもシステム破壊を防ぐサンドボックス技術</title>
@@ -79,33 +90,35 @@ Snowflake App Run... (source: Zennのトレンド)</description>
       <pubDate>Sat, 06 Jun 2026 20:57:31 +0000</pubDate>
     </item>
     <item>
-      <title>【失敗談】大規模開発をして残ったのは技術負債だけだった話 〜作らないことの重要性〜</title>
-      <link>https://zenn.dev/innovation/articles/3fe337358aa759</link>
-      <description>はじめに
-「この機能、本当に今作る必要がありますか？」
-エンジニアとして、この問いをビジネスサイドに投げかけることができているでしょうか。私はかつて、この問いを投げかけながらも、技術的なリスクを十分に言語化できないまま開発が進んでしまった経験があります。
-どうも、ITトレンドEXPOの開発リーダーをしていますTACこと三浦です。
-ITトレンドEXPOは、毎年春と秋に開催されるオンライン展示会プラットフォームです。展示会の開催日は絶対に動かせません。この制約が、私たちの開発に常に緊張感をもたらしています。
-本記事では、チーム賞を受賞した開発がどのように技術的負債へと変わっていったか。開... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/innovation/articles/3fe337358aa759</guid>
-      <pubDate>Thu, 04 Jun 2026 06:00:07 +0000</pubDate>
+      <title>開発者が攻撃対象になった時代に、開発環境とCI/CDについて考えていること</title>
+      <link>https://zenn.dev/catatsuy/articles/e2fc71d810613a</link>
+      <description>最近のサプライチェーンアタックを見ていると、これまでとは明らかにフェーズが変わったと感じています。
+この記事は、具体的な解決策を提示するというより、最近のサプライチェーン攻撃を見て、自分が開発環境やCI/CDについて考えていることを整理したものです。
+以前の攻撃は、どちらかというとコンピュータリテラシーがそこまで高くない人を狙うものが多かったと思います。怪しいメールを開かせる、怪しい添付ファイルを実行させる、偽サイトに認証情報を入力させる、というようなものです。もちろんそれらも深刻ではありますが、少なくとも「気をつける」という個人の努力である程度防げる余地がありました。
+しかし最近の攻撃... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/catatsuy/articles/e2fc71d810613a</guid>
+      <pubDate>Sat, 06 Jun 2026 05:50:59 +0000</pubDate>
     </item>
     <item>
-      <title>AIが自分でAIを開発する時代が到来 — Anthropicのコードの80%をClaude自身が作成</title>
-      <link>https://techfeed.io/entries/6a21e7d7448e384852d600d0?from=rss</link>
-      <description>6月4日、AnthropicのInstituteが「When AI builds itself」と題した記事を公開した。AIが自らのコードを書く時代が現実に衝撃的な事実から始めよう。2026年5月時点で、Anthropicのコードベースにマージされるコードの80%以上を、同社のAIアシスタントClaude自身が作成している。これは2025年2月のClaude Codeリサーチプレビュー開始前の一桁台から、わずか1年余りで達成された劇的な変化だ。この数字が示すのは、AIシステムがもはや人間の補助ツールではなく、AI開発の主力となりつつある現実だ。現在のトレンドが続けば、AIが自身の後継システムを完全自律的に設計・開発する「**再帰的自己改良**」の実現も視野に入ってくる。なぜ今AI自己改良が注目されるのかAI自己改良への関心が高まる背景には、AIの能力向上ペースの急激な加速がある。特に2024年後半以降、大規模言語モデルの性能向上により、従来人間にしかできなかった複雑なプログラミングタスクをAIが処理できるようになった。実際、AIモデルが自律的に完了できるタスクの複雑さは約4ヶ月ごとに倍 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a21e7d7448e384852d600d0?from=rss</guid>
-      <pubDate>Thu, 04 Jun 2026 21:02:15 +0000</pubDate>
+      <title>AIがコードを書けても、ソフトウェアエンジニアが不要になるわけではない - 構造で育てるプロダクト組織付録15</title>
+      <link>https://zenn.dev/kanaria007/articles/95a3c7eeb1ab95</link>
+      <description>AIで代替されるのは、エンジニアではなく「コードを書くことだけを仕事だと思っていた解像度」である
+構造で育てるプロダクト組織シリーズでは、プロダクト組織を「人の集まり」ではなく、観測・判断・実行・振り返りが流れる構造として見てきました。
+ここまでの付録では、AI時代の生産性、個人キャリア、属人化、OKR、大規模移行について扱いました。
+共通しているのは、表面的な成果と、本当に組織能力が上がったことを分けることです。
+AIで成果物が増えたことと、生産性が上がったことは違う。
+個人で作れることと、稼ぎ続けられることは違う。
+手順書が増えたことと、属人化が解消したことは違う。
+OKRが達成... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kanaria007/articles/95a3c7eeb1ab95</guid>
+      <pubDate>Sun, 07 Jun 2026 08:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Managed Agentsで「まずエンジニアに聞こう」を「まずbotに聞こう」に変えた</title>
-      <link>https://zenn.dev/dinii/articles/d7be3acc43d868</link>
-      <description>はじめに
-ダイニーでは、開発チーム宛ての質問（社内では dev-help と呼んでいます）が日に8件ほど来ます。1件 10 分でも、積み上がれば月に数十時間が消えていきます。前回の記事では、過去の dev-help チケットを RAG（過去の文書を意味検索で引っ張ってくる仕組み）で引いて関連事例をスレッドに貼る bot を作り、リードタイム中央値を 10 日から 5 時間まで縮めました。
-ただし、構造上どうしても拾えない層が残っていました。「いまのデータ・ログ・コードを、人が読みに行かないと答えが出ない」 タイプの問い合わせです。
-今回作った @ask-anything は、この層を... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dinii/articles/d7be3acc43d868</guid>
-      <pubDate>Thu, 04 Jun 2026 03:34:04 +0000</pubDate>
+      <title>1990年代Microsoft文書でAIを訓練したら現代技術を古のSDK風に解説し始めた</title>
+      <link>https://techfeed.io/entries/6a25dcad448e384852d7636b?from=rss</link>
+      <description>6月5日、開発者のSimone Rodigari氏が「Fine-tuning an LLM to write docs like it's 1995」と題した記事を公開した。現代のREST APIを「Windows 2000風」で説明するAI興味深い実験結果がAI界隈で話題になっている。1990年代のMicrosoft技術文書で訓練したAIが、2000年代に登場したREST APIについて「Windows 2000 Resource Kit」の章のような書き出しで説明し始めたのだ。存在しないはずの時代の文書スタイルで、後の時代の技術を解説する——これは、AIのスタイル学習能力がいかに強力かを示す象徴的な事例と言える。この実験は、LLM（大規模言語モデル）を特定の文書スタイルに「チューニング」する技術的可能性を探るものだ。現在、多くの企業が社内文書の統一や、ブランドに合った文章生成にAIを活用しようとしているが、その前段階として「過去のスタイルを完全再現できるか」を検証した形になる。3700万語のレガシー文書でAIを訓練実験では、Bitsaversという古いコンピューターマニュアルのアー (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a25dcad448e384852d7636b?from=rss</guid>
+      <pubDate>Sun, 07 Jun 2026 21:03:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

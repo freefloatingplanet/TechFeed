@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 07 Jun 2026 09:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 11:04:12 +0000</lastBuildDate>
     <item>
-      <title>CloudflareがClickHouseにおけるクエリプランニングのボトルネックを特定</title>
-      <link>https://www.infoq.com/news/2026/06/cloudflare-clickhouse-bottleneck/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Cloudflareは最近、課金パイプラインの遅延の原因がClickHouseのクエリ計画段階における競合にあることを明らかにした。チームはボトルネックを特定し、ClickHouseにパッチを適用して排他ロックを共有ロックに置き換え、クエリごとのパーツリストのコピーを削除し、パーツフィルタリングを改善した。執筆：Renato Losio (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/06/cloudflare-clickhouse-bottleneck/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 06 Jun 2026 04:55:00 +0000</pubDate>
+      <title>Microsoft DiscoveryがAzure上で一般提供開始となり、Majorana 2量子チップの背後にあるエージェント型AIを支える。</title>
+      <link>https://www.infoq.com/news/2026/06/microsoft-discovery-majorana-2/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>マイクロソフトは、科学研究開発における自律型AIエージェントチームの展開を目的としたAzureベースのプラットフォーム「Microsoft Discovery」の一般提供開始を発表した。このプラットフォームは、信頼性が1,000倍向上し、量子ビット寿命が20秒のトポロジカル量子チップ「Majorana 2」の開発を支えた。マイクロソフトは現在、当初の計画を半減させ、2029年までにスケーラブルな量子コンピュータを実現することを目指している。 執筆：Steef-Jan Wiggers (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/06/microsoft-discovery-majorana-2/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 08 Jun 2026 09:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
