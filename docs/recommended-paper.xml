@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 08 Jun 2026 11:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 09:52:56 +0000</lastBuildDate>
     <item>
-      <title>実環境における有糸分裂検出：MIDOG 2025チャレンジにおける複数腫瘍および状況認識型汎化</title>
-      <link>https://arxiv.org/abs/2606.07368v1</link>
-      <description>自動有糸分裂検出は、計算病理学において確立されたタスクです。これまでのベンチマークはスキャナーによるドメインシフトに焦点を当てていましたが、臨床の「実世界」アプリケーションでは、組織学的状況で予想される膨大な変動に対してモデルが堅牢である必要があります。MItosis DOmain Generalization (MIDOG) 2025 チャレンジは、前例のない生物学的および文脈的多様性に対するアルゴリズムのパフォーマンスを評価するために設計されました。複数のスキャン プラットフォームでデジタル化された 12 種類のヒト、イヌ、ネコの腫瘍タイプを含む 365 症例のテスト データセットをキュレーションしました。手動で選択されたホットスポットを超えて、チャレンジではランダムな組織領域 (スライド全体の検出状況を代表する) および困難な領域 (ハード ネガティブが豊富な領域) での検出も求められました。2 番目のトラックでは、非定型有糸分裂像 (AMF) の分類を導入しました。検出トラックには 18 チームが提出し、F1 スコアは最大 0.740 でした。 AMF検出トラックでは、バランス (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.07368v1</guid>
-      <pubDate>Fri, 05 Jun 2026 15:11:08 +0000</pubDate>
+      <title>適切なMCMCサンプラーの選択：勾配フリー法の体系的なベンチマーク</title>
+      <link>https://arxiv.org/abs/2605.30412v2</link>
+      <description>本稿では、最新の勾配フリーマルコフ連鎖モンテカルロ（MCMC）サンプラーを、一般的に使用されているメトロポリス・ヘイスティングス（MH）アルゴリズムと比較するための一連の指標と手法を提示する。目的は、サンプラーのエルゴード性、堅牢性、全体的な尤度性能など、主要な性能指標を定量化することである。制御可能で解釈可能なテスト環境を提供するために、代表的な単峰性ケースとしてローゼンブロック関数とニールの漏斗を使用し、多峰性テストシナリオとして3次元、5次元、8次元のガウスランダム尤度ランドスケープを用いる。検討対象のサンプラーには、ストレッチ移動やウォーク移動、差分進化移動、スヌーカー移動など、文献に記載されているアフィン不変移動が含まれる。さらに、主成分分析（PCA）変換を組み込んだ修正ストレッチ移動と、差分進化とストレッチダイナミクスの両方の特徴を組み合わせたハイブリッドブレンド移動という2つの新しいバリエーションも導入する。サンプラーの評価に加えて、クワッドツリーアルゴリズムを使用してサンプリングされた点から尤度ランドスケープを再構築する方法も示す。さらに、最適化アルゴリズムを用いて尤度 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.30412v2</guid>
+      <pubDate>Thu, 28 May 2026 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

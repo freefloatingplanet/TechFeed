@@ -7,59 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 11:04:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 09:52:50 +0000</lastBuildDate>
     <item>
-      <title>結局どっち？ E2Eで私が「Chrome DevTools 中心・Playwright 限定」に落ち着いた理由</title>
-      <link>https://zenn.dev/minewo/articles/playwright-vs-chrome-devtools-e2e</link>
+      <title>GPU プログラミングでも Modern C++ コードを書きたい: gpu-array ライブラリの紹介</title>
+      <link>https://zenn.dev/amplify/articles/8cca314f87e8e2</link>
       <description>はじめに
-「E2E は Playwright で全部書く」——いまの定番です。
-でも私の実務での運用は少し違って、主軸は Chrome DevTools、Playwright は“凍結したい一部だけ”に絞って使う形に落ち着きました。
-「自動テストの話なのに DevTools が中心？」と思うかもしれません。
-本記事は、その一見あまのじゃくな結論に至った理由を、実務の判断基準として整理します。
-先に言うと、答えは「どちらか一方」ではなく「工程ごとに使い分ける（中心は DevTools）」です。タイトルの「結局どっち？」への私の答えは、この一文に尽きます。
-!
-結論（先出し）
+C++20 では、C++17 以前と比べて C++ の表現力が大きく広がりました。特に、コンセプトや Ranges ライブラリの導入により、コンテナ (配列) に対する抽象化がデータ指向設計を容易にし、ビューによる遅延評価・パイプによる合成・射影によるデータ抽出、などが可能となりました。
+しかし、GPU プログラミング (CUDA や HIP) においては、コンパイラ自体は C++20 に対応しているものの、カーネルコードにおいてその恩恵を享受することは依然として困難です。例えば、以下のような課題が GPU プログラミングにおける C++ らしさを阻害しています。
 
 
-日々の... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/minewo/articles/playwright-vs-chrome-devtools-e2e</guid>
-      <pubDate>Sat, 06 Jun 2026 17:04:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>TanStack Query を完全にゼロから実装して理解する</title>
-      <link>https://zenn.dev/ficilcom/articles/ff423b306afe18</link>
-      <description>この記事について
-TanStack Query（旧 React Query）は「サーバーの状態」を扱うためのライブラリとして広く使われています。useQuery を呼ぶだけでローディング・エラー・キャッシュ・再取得がよしなに処理され、とても便利です。
-ただ、便利さの裏で「中で何が起きているのか」がブラックボックスになりがちです。isPending がなぜ自動で切り替わるのか、別々のコンポーネントで同じ queryKey を使うとなぜリクエストが 1 回にまとまるのか、invalidateQueries を呼ぶとなぜ画面が更新されるのか——この辺りを「なんとなく動いている」で済ませてい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ficilcom/articles/ff423b306afe18</guid>
-      <pubDate>Fri, 05 Jun 2026 05:41:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude を使って Gemini 議事録から必要な情報を抽出する仕組み</title>
-      <link>https://zenn.dev/tokium_dev/articles/d806c7ad4fd458</link>
-      <description>はじめに
-Google Meet の Gemini 議事録は便利ですが、Google Drive に増えていくだけでは会議後の作業につながりません。
-この記事では、Claude を使って Gemini 議事録から決定事項や TODO を抽出し、業務に必要な情報へ変える仕組みを紹介します。
-この仕組みを作ると、会議後に誰かが議事録を読み直し、必要な情報を整理する負担を減らせます。
-また、決定事項や TODO が Slack や Jira に残るため、あとから「何が決まったのか」「次に誰が何をするのか」を追いやすくなります。
-想定している読者は次のような人です。
-
-Gemini の議事録... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/d806c7ad4fd458</guid>
-      <pubDate>Fri, 05 Jun 2026 05:55:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Snowflake Summit 2026】最新BIツールレポート</title>
-      <link>https://zenn.dev/finatext/articles/snowflake-summit-2026-bi-tools-report</link>
-      <description>はじめに
-こんにちは！ナウキャストでコンサルタントをしている寺西です。
-2026年6月1日〜4日、サンフランシスコで開催されたSnowflake Summit 2026に参加してきました。Snowflake Summitは、クラウドデータプラットフォームを提供するSnowflake社が主催する世界最大級のデータカンファレンスで、データ活用の最新動向や技術が集まる場です。
-今回は、SummitのExpo会場にBIベンダーが9社も出展していたので、全ブース回って担当者に直接話を聞いてきました。
-本記事では、実際のブースで得た一次情報をもとに、各製品の特徴と選定のポイントをまとめます。
-
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/finatext/articles/snowflake-summit-2026-bi-tools-report</guid>
-      <pubDate>Sat, 06 Jun 2026 21:33:00 +0000</pubDate>
+cu... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/amplify/articles/8cca314f87e8e2</guid>
+      <pubDate>Mon, 08 Jun 2026 04:06:20 +0000</pubDate>
     </item>
     <item>
       <title>SQLiteでUUID主キーを使うと12倍遅くなる — 1億行の実証実験で判明した隠れた落とし穴</title>
@@ -69,25 +28,14 @@ Gemini の議事録... (source: Zennのトレンド)</description>
       <pubDate>Sun, 07 Jun 2026 20:59:38 +0000</pubDate>
     </item>
     <item>
-      <title>AIウォーターフォール開発：コンテキストゼロのAIを一人前にする仕組み</title>
-      <link>https://zenn.dev/abalol/articles/579296fa31056f</link>
-      <description>はじめに
-Claude Codeを使い始めてすぐ気づいた。セッションを開くたびに、AIは何も知らない状態から始まる。
-先週話した仕様変更も、ADRで決めた設計方針も、あの実装が依存している要件も、全部ない。毎回ゼロから説明し直す。それでも「影響範囲が抜けていた」「別の仕様と矛盾していた」という問題が起きる。
-AIとの開発にウォーターフォール的なトレーサビリティの仕組みを持ち込んで、これを解決しようとした話を書く。
-
-
- AIは"オンボーディングを受けただけの新人"
-毎朝、記憶がリセットされた新入社員がやってくる。プロジェクトの背景も、過去の意思決定も何も持っていない。手元にあるのは、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/abalol/articles/579296fa31056f</guid>
-      <pubDate>Sun, 07 Jun 2026 00:59:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】MicroPython+WASMで実現する安全なPythonプラグイン実行環境 — 悪意あるコードでもシステム破壊を防ぐサンドボックス技術</title>
-      <link>https://techfeed.io/entries/6a2489bb448e384852d71201?from=rss</link>
-      <description>6月6日、Simon Willisonが「Running Python code in a sandbox with MicroPython and WASM」と題した記事を公開した。この記事では、MicroPythonとWebAssemblyを組み合わせて安全なPythonコード実行環境を構築する手法について詳しく紹介されている。以下に、その内容を紹介する。プラグインシステムの安全性問題Willisonは、自身が開発するオープンソースプロジェクト（Datasette、LLM、sqlite-utilsなど）でプラグイン機能を重視している。プラグインシステムは新機能の実験リスクを最小限に抑え、コアアプリケーションに影響を与えることなく機能拡張を可能にする。しかし、現在のプラグインシステムには重大な欠陥がある。PythonとPluggyを使用したプラグインコードは、アプリケーション内でフル権限で実行されるため、バグや悪意のあるプラグインがシステム全体を破壊したり、プライベートデータを漏洩させる可能性がある。理想的なサンドボックス環境の要件Willisonが求めるサンドボックス環境の条件は以 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a2489bb448e384852d71201?from=rss</guid>
-      <pubDate>Sat, 06 Jun 2026 20:57:31 +0000</pubDate>
+      <title>どこからでもAIで仕事をできるようにしたけど、疲れてやめた話</title>
+      <link>https://zenn.dev/g2/articles/7aeb22e8ebbf82</link>
+      <description>お風呂から始まるエンジニアリング
+きっかけはお風呂でした。私はお風呂が好きで、毎日湯船に一時間は浸かっています。お風呂でのんびり小説や漫画を読む。熱でも出ない限りは、そうやって湯船に浸かってのんびりとする時間は欠かさずとっていました。
+AIがまだそこまで長時間稼働できなかった今年の初め。お風呂に入る前に、ふとPCの前に引き寄せられるようになりました。これから一時間以上、自分は席を離れる。その間、AI はタスクを中途半端なところで止めてしまうかもしれない。動かせるのに動かさないのが、なんだかもったいない気がしました。
+そして、長時間タスクを安定して実行させたい、ゴール（Definiti... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/g2/articles/7aeb22e8ebbf82</guid>
+      <pubDate>Mon, 08 Jun 2026 12:33:14 +0000</pubDate>
     </item>
     <item>
       <title>開発者が攻撃対象になった時代に、開発環境とCI/CDについて考えていること</title>
@@ -98,6 +46,13 @@ AIとの開発にウォーターフォール的なトレーサビリティの仕
 しかし最近の攻撃... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/catatsuy/articles/e2fc71d810613a</guid>
       <pubDate>Sat, 06 Jun 2026 05:50:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoftリポジトリ侵害でClaudeやGemini狙う新マルウェア — 105秒で73リポジトリ無効化の衝撃</title>
+      <link>https://techfeed.io/entries/6a272fa78944a4507aed9851?from=rss</link>
+      <description>6月8日、Joseph Coxが「Microsoft Hacked to Deliver Malware to Claude and Gemini Users」と題した記事を公開した。Microsoft自身のGitHubリポジトリが侵害され、わずか105秒間で73のリポジトリが無効化されるという異常事態が発生した。この攻撃の最も衝撃的な点は、ClaudeやGeminiなどのAIコーディングツールユーザーを明確に標的としたマルウェアが仕込まれていたことだ。従来のサイバー攻撃がWebブラウザやメールを標的としていたのに対し、今回は最新のAI開発環境が新たな攻撃ベクターとして狙われた。GitHub の2023年開発者調査によると、開発者の70%以上がAIコーディングツールを業務で使用しており、この高い普及率が攻撃者にとって魅力的な標的となっている。TeamPCPによる巧妙なサプライチェーン攻撃今回の攻撃を実行したのはTeamPCPというハッカーグループだ。WIREDの報道によると、TeamPCPは2024年上半期だけで数百の組織に影響を与える大規模なサプライチェーン攻撃を実行している。彼らは (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a272fa78944a4507aed9851?from=rss</guid>
+      <pubDate>Mon, 08 Jun 2026 21:09:59 +0000</pubDate>
     </item>
     <item>
       <title>AIがコードを書けても、ソフトウェアエンジニアが不要になるわけではない - 構造で育てるプロダクト組織付録15</title>
@@ -114,11 +69,49 @@ OKRが達成... (source: Zennのトレンド)</description>
       <pubDate>Sun, 07 Jun 2026 08:00:05 +0000</pubDate>
     </item>
     <item>
+      <title>【海外記事紹介】SwiftUIは7年経っても基本機能が破綻 — John GruberがUndo機能の致命的バグを指摘</title>
+      <link>https://techfeed.io/entries/6a272db08944a4507aed97e2?from=rss</link>
+      <description>6月8日、John Gruberが「SwiftUI Only Makes It Easy to Develop Bad Apps」と題した記事を公開した。Appleの看板UIフレームワークであるSwiftUIが、リリースから7年経った今でも基本的なUndo/Redo機能すら正常に動作しないという衝撃的な問題を、著名なApple評論家のGruber氏が詳細に検証している。特に注目すべきは、Apple純正のJournalアプリでさえこの問題が発生し、ユーザーのテキストが永久に失われるケースが報告されていることだ。発端：完全SwiftUI開発の現実この議論の発端となったのは、Paulo Andrade氏が5月に公開した「Using SwiftUI to Build a Mac-Assed App in 2026」という記事だ。Andrade氏は価格追跡アプリ「Shopie」のmacOS版を100%SwiftUIで開発した経験をレポートしている。SwiftUIは2019年のWWDCで発表されて以来、iOS、macOS、watchOS、tvOS間でのコード再利用と宣言的UI開発の理想を掲げてきた (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a272db08944a4507aed97e2?from=rss</guid>
+      <pubDate>Mon, 08 Jun 2026 21:01:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>生成AI時代のエンジニアの生存戦略</title>
+      <link>https://zenn.dev/counterworks/articles/62667be5a186b8</link>
+      <description>はじめに
+こんにちは。株式会社カウンターワークス、テックリードの shim です。
+別途マルチテナントの記事を頑張って書いているのですが、先日社内にて「AI開発LT大会」を主催しました。
+言い出しっぺなので、そこで「（生成）AI時代のエンジニアの生存戦略」というテーマで発表したのですが、せっかくなので改めて記事として再構成しました。
+「生成AIにより開発スピードが速くなった」という話は至る所で聞かれるようになりましたが、その先、速くなったあとに、では自分はどこで価値を出すのか、という話を特に若手メンバーに聞いてほしいと思い書きました。
+簡単にまとめると
+!
+
+開発生産性を「価値提供の... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/counterworks/articles/62667be5a186b8</guid>
+      <pubDate>Mon, 08 Jun 2026 06:08:08 +0000</pubDate>
+    </item>
+    <item>
       <title>1990年代Microsoft文書でAIを訓練したら現代技術を古のSDK風に解説し始めた</title>
       <link>https://techfeed.io/entries/6a25dcad448e384852d7636b?from=rss</link>
       <description>6月5日、開発者のSimone Rodigari氏が「Fine-tuning an LLM to write docs like it's 1995」と題した記事を公開した。現代のREST APIを「Windows 2000風」で説明するAI興味深い実験結果がAI界隈で話題になっている。1990年代のMicrosoft技術文書で訓練したAIが、2000年代に登場したREST APIについて「Windows 2000 Resource Kit」の章のような書き出しで説明し始めたのだ。存在しないはずの時代の文書スタイルで、後の時代の技術を解説する——これは、AIのスタイル学習能力がいかに強力かを示す象徴的な事例と言える。この実験は、LLM（大規模言語モデル）を特定の文書スタイルに「チューニング」する技術的可能性を探るものだ。現在、多くの企業が社内文書の統一や、ブランドに合った文章生成にAIを活用しようとしているが、その前段階として「過去のスタイルを完全再現できるか」を検証した形になる。3700万語のレガシー文書でAIを訓練実験では、Bitsaversという古いコンピューターマニュアルのアー (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a25dcad448e384852d7636b?from=rss</guid>
       <pubDate>Sun, 07 Jun 2026 21:03:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi×OpenClawで始める 自宅AIエージェント入門</title>
+      <link>https://zenn.dev/murasanlab/books/f4082d7ad9ee0b</link>
+      <description>自宅にRaspberry Piサーバーを置いた。NextcloudやGitLabも動かせるようになった。
+でも、日々の作業はまだ、自分で画面を開き、自分で確認し、自分で判断している—。
+
+本書は、その自宅サーバーに「自分専用のAIエージェント」を住まわせるための1冊です。
+
+たとえば、朝になると必要な情報を集めてくれる。Slackから話しかけると、サーバーの状態や作業メモを確認してくれる。Nextcloudに置いたファイルや、GitLabの開発プロジェクトとつながり、調査、整理、通知、開発支援の入口になってくれる。クラウド上の誰かのAIではなく、自分の環境、自分のデータ、自分のルールに寄り添って動く相棒を作っていきます。
+
+本書で目指すのは、AIを一問一答のチャットとして使うことではありません。Raspberry Piの上で24時間動き続け、必要なときに呼び出せて、必要なタイミングでは自分から動いてくれる「生活と開発のための小さなAI運用基盤」を作ることです。
+
+「AIエージェントって何ができるの？」、「自宅サーバーで動かす意味はあるの？」という方は、まず無料で読める「はじめに」からご (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/murasanlab/books/f4082d7ad9ee0b</guid>
+      <pubDate>Sat, 06 Jun 2026 01:30:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

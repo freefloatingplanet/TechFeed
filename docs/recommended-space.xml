@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 11:04:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 09:52:53 +0000</lastBuildDate>
     <item>
       <title>小型衛星の軽量化と設計自由度向上へ　マクセルとJAXAが全固体電池の共同研究を開始</title>
       <link>https://sorae.info/space/20260604-maxell-solid-state-battery.html</link>
@@ -30,18 +30,18 @@
       <pubDate>Thu, 04 Jun 2026 01:32:31 +0000</pubDate>
     </item>
     <item>
-      <title>JAXAがIHIエアロスペースを競争参加資格停止に　過去10年間の14契約で不適切請求が発覚</title>
-      <link>https://sorae.info/space/20260603-jaxa-ihi-ia.html</link>
-      <description>JAXA（宇宙航空研究開発機構）は2026年6月2日、株式会社IHIエアロスペースに対し、同日付で5か月間の競争参加資格停止処分を行ったと発表しました。今回の処分は、同社がJAXAとの契約において作業未了のまま事実と異な… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260603-jaxa-ihi-ia.html</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:07 +0000</pubDate>
-    </item>
-    <item>
       <title>宇宙ロボット開発にも標準OSを利用する時代に？  宇宙ロボットの最前線とSpace ROSの展望</title>
       <link>https://sorabatake.jp/45972/</link>
       <description>スペースデブリ除去、月面基地建設、火星探査……宇宙開発はもはやロボットなしには語れません。地上ロボット開発の標準「ROS」を宇宙向けに進化させたオープンソース基盤「Space ROS」の概要と展望を紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45972/</guid>
       <pubDate>Thu, 21 May 2026 23:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISSロシア区画で空気漏れが増加　対応作業にあわせて一部の宇宙飛行士が宇宙船に一時退避</title>
+      <link>https://sorae.info/space/20260609-iss-air-leak.html</link>
+      <description>NASA（アメリカ航空宇宙局）とロシアの国営宇宙企業Roscosmos（ロスコスモス）は2026年6月、ISS（国際宇宙ステーション）で発生している空気漏れ問題の最新状況を明らかにしました。 ISSのロシア区画で確認され… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260609-iss-air-leak.html</guid>
+      <pubDate>Tue, 09 Jun 2026 01:47:54 +0000</pubDate>
     </item>
     <item>
       <title>静岡大学の超小型衛星「STARS-X」、愛称は「しらいと」に決定　6月10日にH3ロケット6号機で打ち上げへ</title>
