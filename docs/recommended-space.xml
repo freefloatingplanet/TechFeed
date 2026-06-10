@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 09:52:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 10:09:43 +0000</lastBuildDate>
     <item>
-      <title>小型衛星の軽量化と設計自由度向上へ　マクセルとJAXAが全固体電池の共同研究を開始</title>
-      <link>https://sorae.info/space/20260604-maxell-solid-state-battery.html</link>
-      <description>マクセル株式会社は2026年6月4日、JAXAが2025年に新設した「JAXA宇宙技術実証加速プログラム（JAXA-STEPS）」の2025年度公募において、同社の提案「宇宙機ミッションを最大化する高耐熱全固体電池の開発… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260604-maxell-solid-state-battery.html</guid>
-      <pubDate>Thu, 04 Jun 2026 09:37:46 +0000</pubDate>
+      <title>JAXA探査機「はやぶさ2」の小惑星「トリフネ」フライバイ時刻が決定　7月5日18時30分頃に</title>
+      <link>https://sorae.info/space/20260610-hayabusa2-torifune.html</link>
+      <description>JAXA（宇宙航空研究開発機構）は2026年6月9日付で、小惑星探査機「はやぶさ2」の拡張ミッション「はやぶさ2＃」における小惑星「Torifune（トリフネ）」のフライバイ時刻が決定したと発表しました。 発表によると、… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260610-hayabusa2-torifune.html</guid>
+      <pubDate>Wed, 10 Jun 2026 01:31:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASAが火星探査ミッション「MAVEN」終了を発表　11年以上の大気観測と通信中継でも貢献</title>
+      <link>https://sorae.info/space/20260605-maven.html</link>
+      <description>NASA（アメリカ航空宇宙局）は2026年6月3日付で、火星の大気進化を調査してきた「MAVEN（メイブン）」ミッションを終了すると発表しました。2014年の火星周回軌道投入から11年以上にわたり、火星環境の謎に迫る科学… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260605-maven.html</guid>
+      <pubDate>Fri, 05 Jun 2026 00:16:31 +0000</pubDate>
     </item>
     <item>
       <title>Redwire、機密通信を守る量子鍵配送衛星の開発契約をESAから獲得【宇宙ビジネスニュース】</title>
@@ -30,13 +37,6 @@
       <pubDate>Thu, 04 Jun 2026 01:32:31 +0000</pubDate>
     </item>
     <item>
-      <title>宇宙ロボット開発にも標準OSを利用する時代に？  宇宙ロボットの最前線とSpace ROSの展望</title>
-      <link>https://sorabatake.jp/45972/</link>
-      <description>スペースデブリ除去、月面基地建設、火星探査……宇宙開発はもはやロボットなしには語れません。地上ロボット開発の標準「ROS」を宇宙向けに進化させたオープンソース基盤「Space ROS」の概要と展望を紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45972/</guid>
-      <pubDate>Thu, 21 May 2026 23:00:26 +0000</pubDate>
-    </item>
-    <item>
       <title>ISSロシア区画で空気漏れが増加　対応作業にあわせて一部の宇宙飛行士が宇宙船に一時退避</title>
       <link>https://sorae.info/space/20260609-iss-air-leak.html</link>
       <description>NASA（アメリカ航空宇宙局）とロシアの国営宇宙企業Roscosmos（ロスコスモス）は2026年6月、ISS（国際宇宙ステーション）で発生している空気漏れ問題の最新状況を明らかにしました。 ISSのロシア区画で確認され… (source: sorae 宇宙へのポータルサイト)</description>
@@ -44,18 +44,18 @@
       <pubDate>Tue, 09 Jun 2026 01:47:54 +0000</pubDate>
     </item>
     <item>
+      <title>宇宙ロボット開発にも標準OSを利用する時代に？  宇宙ロボットの最前線とSpace ROSの展望</title>
+      <link>https://sorabatake.jp/45972/</link>
+      <description>スペースデブリ除去、月面基地建設、火星探査……宇宙開発はもはやロボットなしには語れません。地上ロボット開発の標準「ROS」を宇宙向けに進化させたオープンソース基盤「Space ROS」の概要と展望を紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/45972/</guid>
+      <pubDate>Thu, 21 May 2026 23:00:26 +0000</pubDate>
+    </item>
+    <item>
       <title>静岡大学の超小型衛星「STARS-X」、愛称は「しらいと」に決定　6月10日にH3ロケット6号機で打ち上げへ</title>
       <link>https://sorae.info/space/20260608-stars-x-shiraitoo.html</link>
       <description>静岡大学は2026年6月5日、同大学が開発した超小型衛星「STARS-X」の愛称が「しらいと」に決定したと発表しました。2026年5月11日から18日にかけて実施された愛称公募には全国から485件の応募が寄せられ、工学部… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260608-stars-x-shiraitoo.html</guid>
       <pubDate>Mon, 08 Jun 2026 00:19:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年6月の星空情報：宵の空に並んで輝く「金星」と「木星」</title>
-      <link>https://sorae.info/astronomy/202606-starry-sky.html</link>
-      <description>6月、風が湿気を帯び、梅雨の訪れを感じる時季となりました。曇りや雨が続いて星が見えづらくなり、晴れた日も靄がかかって星の光がかすむことも多くなります。しかし、今年の6月には、夕方から夜にかけて鮮烈な輝きを放つ星をいくつも… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/202606-starry-sky.html</guid>
-      <pubDate>Wed, 03 Jun 2026 12:02:19 +0000</pubDate>
     </item>
     <item>
       <title>ブラックホールは「ねじれた7次元時空に情報を保持する極小の残骸」を残す可能性が示される</title>

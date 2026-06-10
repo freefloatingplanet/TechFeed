@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 09:52:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 10:09:45 +0000</lastBuildDate>
     <item>
-      <title>適切なMCMCサンプラーの選択：勾配フリー法の体系的なベンチマーク</title>
-      <link>https://arxiv.org/abs/2605.30412v2</link>
-      <description>本稿では、最新の勾配フリーマルコフ連鎖モンテカルロ（MCMC）サンプラーを、一般的に使用されているメトロポリス・ヘイスティングス（MH）アルゴリズムと比較するための一連の指標と手法を提示する。目的は、サンプラーのエルゴード性、堅牢性、全体的な尤度性能など、主要な性能指標を定量化することである。制御可能で解釈可能なテスト環境を提供するために、代表的な単峰性ケースとしてローゼンブロック関数とニールの漏斗を使用し、多峰性テストシナリオとして3次元、5次元、8次元のガウスランダム尤度ランドスケープを用いる。検討対象のサンプラーには、ストレッチ移動やウォーク移動、差分進化移動、スヌーカー移動など、文献に記載されているアフィン不変移動が含まれる。さらに、主成分分析（PCA）変換を組み込んだ修正ストレッチ移動と、差分進化とストレッチダイナミクスの両方の特徴を組み合わせたハイブリッドブレンド移動という2つの新しいバリエーションも導入する。サンプラーの評価に加えて、クワッドツリーアルゴリズムを使用してサンプリングされた点から尤度ランドスケープを再構築する方法も示す。さらに、最適化アルゴリズムを用いて尤度 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.30412v2</guid>
-      <pubDate>Thu, 28 May 2026 18:00:00 +0000</pubDate>
+      <title>OncoTraj：オシメルチニブ投与中のEGFR変異非小細胞肺癌における長期耐性予測のための公開ベンチマーク</title>
+      <link>https://arxiv.org/abs/2606.11144v1</link>
+      <description>EGFR変異非小細胞肺癌（NSCLC）における一次治療オシメルチニブに対する耐性は、治療圧下での予測可能なクローン進化の典型的な例であるが、対応する縦断的な患者軌跡で計算モデルをトレーニングまたは評価するための公開ベンチマークは存在しない。我々は、3つの実世界の臨床ゲノムソース（MSK-CHORD（672人）、AACR Project GENIE BPC NSCLC（34人）、およびFLAURA分子耐性補足資料（107人））から調和された、一次治療オシメルチニブを投与された813人のEGFR変異NSCLC患者の公開ベンチマークであるOncoTrajを紹介する。OncoTrajは、（A）固定された12か月のランドマークによる進行の二値分類、（B）最初の進行までの日数の回帰、および（C）優勢な耐性メカニズムの6クラス分類という3つの固定タスクを定義する。調和データセット、監査済みのリークなし保証付きの患者レベルのトレーニング/検証/テスト分割、オープンソースの評価ハーネス、および多数派クラス予測器、ロジスティック回帰、ランダムフォレスト、XGBoost、LSTM、マルチタスクトランスフォー (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.11144v1</guid>
+      <pubDate>Tue, 09 Jun 2026 17:33:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
