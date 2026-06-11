@@ -7,22 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 10:09:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 10:43:22 +0000</lastBuildDate>
     <item>
-      <title>生成 AI 時代の人材像と、その評価について考えてみる</title>
-      <link>https://qiita.com/Takashi_Masumori/items/2e2a3f8e16c8601de2c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>続・Figma MCPって本当にすごいの？</title>
+      <link>https://zenn.dev/sre_holdings/articles/3b4d7d222d4b1f</link>
       <description>はじめに
-最近、お客様との打ち合わせや、社内のメンバーとの何気ない会話の中で、「生成 AI 時代に求められる人材像とは何か」という話題になることが増えてきました。そのたびに、自分の考えを改めて言語化しておく必要があるなと感じていたので、今回整理してみることにしました。
-生... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Takashi_Masumori/items/2e2a3f8e16c8601de2c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Mon, 08 Jun 2026 23:27:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>「AIバブルは2030年に崩壊する」— 3兆ドル必要な業界収益、現実は3580億ドルの絶望的ギャップ</title>
-      <link>https://techfeed.io/entries/6a272cda8944a4507aed97d7?from=rss</link>
-      <description>6月8日、Ed Zitron氏が「AI Is Slowing Down」と題した記事を公開した。AI業界に衝撃的な計算結果が示された。現在建設中のデータセンターが投資回収するには年間1.75兆ドルの収益が必要だが、業界最大手のOpenAIとAnthropicの2029年予想収益合計はわずか3580億ドル。この5倍近いギャップが意味するのは、史上最大規模の技術バブル崩壊の可能性だ。9.5兆〜15兆ドルのデータセンター建設ラッシュAI業界の狂騒ぶりを象徴する数字がある。Sightline Climateのデータによると、現在190GWのデータセンターが建設計画中だ。NVIDIAのJensen Huang CEOは「データセンターは1GWあたり800億〜1000億ドルかかる」と発言しており、総建設コストは9.5兆〜15兆ドルに達する計算になる。この背景には、2022年末のChatGPT登場以降続く「AI軍拡競争」がある。各社がAI覇権を狙い、天文学的な投資を続けているのだ。しかし、ITバブル崩壊（2000年）やリーマンショック（2008年）の歴史を振り返れば、実需を大幅に上回るインフラ投資が (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a272cda8944a4507aed97d7?from=rss</guid>
-      <pubDate>Mon, 08 Jun 2026 20:58:02 +0000</pubDate>
+SREホールディングス株式会社でエンジニアをしている加藤です。
+以前「Figma MCPって本当にすごいの？」という記事で、Figma MCPをいろいろ触って検証してみました。しかし当時は課題も多く、「現場で扱うにはまだ難しいのでは」という印象を受けていました。
+その後、2026年3月に「Code to Figma」がGitHub Copilotでも利用可能になるという発表があり、これをきっかけに再検証をしてみることにしました。今回は前回の反省も踏まえつつ、実践的な使い方と使用感の検証を行いました。
+前回の記事はこちら👇
+Figma MCPって本当にすごいの？
+※ Figm... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sre_holdings/articles/3b4d7d222d4b1f</guid>
+      <pubDate>Wed, 10 Jun 2026 07:29:25 +0000</pubDate>
     </item>
     <item>
       <title>そのテスト、本当にバグを検出できますか？——Mutation Testingでテストの質を測る</title>
@@ -39,28 +36,6 @@
 この記事では、テスト自体の品質を測る手法であるMutation Test... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/explaza/articles/b04ad08bca46e1</guid>
       <pubDate>Tue, 09 Jun 2026 04:52:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPU プログラミングでも Modern C++ コードを書きたい: gpu-array ライブラリの紹介</title>
-      <link>https://zenn.dev/amplify/articles/8cca314f87e8e2</link>
-      <description>はじめに
-C++20 では、C++17 以前と比べて C++ の表現力が大きく広がりました。特に、コンセプトや Ranges ライブラリの導入により、コンテナ (配列) に対する抽象化がデータ指向設計を容易にし、ビューによる遅延評価・パイプによる合成・射影によるデータ抽出、などが可能となりました。
-しかし、GPU プログラミング (CUDA や HIP) においては、コンパイラ自体は C++20 に対応しているものの、カーネルコードにおいてその恩恵を享受することは依然として困難です。例えば、以下のような課題が GPU プログラミングにおける C++ らしさを阻害しています。
-
-
-cu... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/amplify/articles/8cca314f87e8e2</guid>
-      <pubDate>Mon, 08 Jun 2026 04:06:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>どこからでもAIで仕事をできるようにしたけど、疲れてやめた話</title>
-      <link>https://zenn.dev/g2/articles/7aeb22e8ebbf82</link>
-      <description>お風呂から始まるエンジニアリング
-きっかけはお風呂でした。私はお風呂が好きで、毎日湯船に一時間は浸かっています。お風呂でのんびり小説や漫画を読む。熱でも出ない限りは、そうやって湯船に浸かってのんびりとする時間は欠かさずとっていました。
-AIがまだそこまで長時間稼働できなかった今年の初め。お風呂に入る前に、ふとPCの前に引き寄せられるようになりました。これから一時間以上、自分は席を離れる。その間、AI はタスクを中途半端なところで止めてしまうかもしれない。動かせるのに動かさないのが、なんだかもったいない気がしました。
-そして、長時間タスクを安定して実行させたい、ゴール（Definiti... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/g2/articles/7aeb22e8ebbf82</guid>
-      <pubDate>Mon, 08 Jun 2026 12:33:14 +0000</pubDate>
     </item>
     <item>
       <title>Microsoftリポジトリ侵害でClaudeやGemini狙う新マルウェア — 105秒で73リポジトリ無効化の衝撃</title>
@@ -84,6 +59,18 @@ AIがまだそこまで長時間稼働できなかった今年の初め。お風
       <pubDate>Tue, 09 Jun 2026 21:00:44 +0000</pubDate>
     </item>
     <item>
+      <title>Code with Claude Tokyoに参加して、AI時代に強い組織とは何かを考えさせられた</title>
+      <link>https://zenn.dev/paraponera/articles/2026-06-11-code-with-claude-tokyo</link>
+      <description>はじめに
+あまりにも "食らった" 1日だったので、興奮が冷めないうちに思考整理をしたく、この記事を書いています。
+AI時代に組織があるべき状態ってなんなんだ・・ともやもやを抱えている人にとって、少しでも参考になると嬉しいです。
+AI slopにならないように、一度自分の言葉で書いてから、校正としてAIを使っています。ですが補足や解釈違いがあれば突っ込んでいただけると学びになるので嬉しいです。
+学習記録以外で思考を記事に書くのは初めてなので、暖かい目で見ていただけると幸いです。
+おそらく後日YouTubeで動画が上がると思いますので、気になった方はぜひセッションの動画も直接見ていただ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/paraponera/articles/2026-06-11-code-with-claude-tokyo</guid>
+      <pubDate>Wed, 10 Jun 2026 17:21:51 +0000</pubDate>
+    </item>
+    <item>
       <title>生成AI時代のエンジニアの生存戦略</title>
       <link>https://zenn.dev/counterworks/articles/62667be5a186b8</link>
       <description>はじめに
@@ -97,6 +84,20 @@ AIがまだそこまで長時間稼働できなかった今年の初め。お風
 開発生産性を「価値提供の... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/counterworks/articles/62667be5a186b8</guid>
       <pubDate>Mon, 08 Jun 2026 06:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPadだけでWebアプリが白紙に — 2週間の調査で判明したWebRTC・Tailscale・IPv6の複合バグ</title>
+      <link>https://techfeed.io/entries/6a29d1b9931f6b51a2589ad8?from=rss</link>
+      <description>6月10日、p2clawが「The iPad was on Tailscale」と題した記事を公開した。症状：iPadだけで発生する謎の障害p2clawアプリケーションがiPadで白紙画面になる問題が発生した。同じWi-Fi、同じブラウザエンジンを使っているにも関わらず、Mac、Linuxマシン、スマートフォンでは正常に動作していた。さらに困ったことに、何度もリフレッシュするとたまに読み込めるという不安定な再現性を示していた。アプリは初期のHTMLを読み込んで読み込み状態を表示するところまでは動作するが、その後にハングアップしてしまう。ブラウザは**WebRTCのデータチャネル経由で最初のGET /リクエスト**を送信した後、永遠にレスポンスを待ち続けるという状況だった。WebRTCは、ブラウザ間でリアルタイムコミュニケーションを可能にする技術で、音声・映像通話だけでなく、P2Pデータ転送にも利用される。近年、従来のHTTPサーバーを介さない直接通信によるWebアプリケーションの開発が注目されており、このような障害の原因特定は重要な課題となっている。計測による原因特定まず両端の接続をロ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a29d1b9931f6b51a2589ad8?from=rss</guid>
+      <pubDate>Wed, 10 Jun 2026 21:06:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【海外記事紹介】React撤去からHTML中心設計への転換 — 英国公益事業のフォーム完了者数が一夜で2倍に</title>
+      <link>https://techfeed.io/entries/6a29cff3931f6b51a2589ab9?from=rss</link>
+      <description>6月10日、Moh Kohnが「How building an HTML-first site doubled our users overnight」と題した記事を公開した。この記事では、HTML中心の設計でWebアプリケーションを構築した結果、ユーザー数が一夜にして2倍に増加した実例について詳しく紹介されている。以下に、その内容を紹介する。失敗したReactアプリが引き起こした問題著者のクライアントは英国の公益事業会社で、サービス申請フォームに大きな問題を抱えていた。顧客満足度が96%を下回ると数百万ポンドの罰金が科される規制下で、これまでに2度の高額な開発プロジェクトが失敗に終わっていた。最新の試みでは、海外の請負業者がReactアプリを開発したが、わずか3日間でオンラインから撤去される事態となった。著者が確認したところ、そのアプリは無数のローディングスピナーとグローバルJavaScript状態で構成されており、アクセシビリティにも対応していなかった。さらに重要な画像アップロード機能では、5MBの制限があるlocalStorageにすべてのフォームデータを保存しようとするという設 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a29cff3931f6b51a2589ab9?from=rss</guid>
+      <pubDate>Wed, 10 Jun 2026 20:58:25 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】弁護士「ChatGPT vs ChatGPT」で法廷バトル — 双方がAI幻覚判例を応酬、裁判官が全弁護士を解任</title>

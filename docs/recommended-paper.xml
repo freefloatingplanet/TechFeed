@@ -7,13 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Jun 2026 10:09:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 10:43:30 +0000</lastBuildDate>
     <item>
-      <title>OncoTraj：オシメルチニブ投与中のEGFR変異非小細胞肺癌における長期耐性予測のための公開ベンチマーク</title>
-      <link>https://arxiv.org/abs/2606.11144v1</link>
-      <description>EGFR変異非小細胞肺癌（NSCLC）における一次治療オシメルチニブに対する耐性は、治療圧下での予測可能なクローン進化の典型的な例であるが、対応する縦断的な患者軌跡で計算モデルをトレーニングまたは評価するための公開ベンチマークは存在しない。我々は、3つの実世界の臨床ゲノムソース（MSK-CHORD（672人）、AACR Project GENIE BPC NSCLC（34人）、およびFLAURA分子耐性補足資料（107人））から調和された、一次治療オシメルチニブを投与された813人のEGFR変異NSCLC患者の公開ベンチマークであるOncoTrajを紹介する。OncoTrajは、（A）固定された12か月のランドマークによる進行の二値分類、（B）最初の進行までの日数の回帰、および（C）優勢な耐性メカニズムの6クラス分類という3つの固定タスクを定義する。調和データセット、監査済みのリークなし保証付きの患者レベルのトレーニング/検証/テスト分割、オープンソースの評価ハーネス、および多数派クラス予測器、ロジスティック回帰、ランダムフォレスト、XGBoost、LSTM、マルチタスクトランスフォー (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.11144v1</guid>
-      <pubDate>Tue, 09 Jun 2026 17:33:24 +0000</pubDate>
+      <title>自己注意を輸送手段として用いる：対称スペクトル診断の限界</title>
+      <link>https://arxiv.org/abs/2605.04893v2</link>
+      <description>言語モデルが幻覚的な応答を処理する際、注意ルーティングは2つのパターンのいずれかで失敗する傾向があります。1つは狭い位置セットに過度に集中すること、もう1つは関連性が希薄になるほど拡散してしまうことです。そして、この失敗の形状自体が診断シグナルを伝達します。私たちは、これらの形状を診断特性として研究します。これは、ライブ生成時ではなく、ベンチマークラベル付き応答の強制スコアリング下での注意行列から計算されます。広く用いられているスペクトル法群は、次数正規化注意演算子の対称成分を分析します。この対称成分は、伝達容量を決定づけます。私たちは、この演算子の転置不変なスペクトル診断はすべて構造的に方向盲目であることを証明します（演算子とその転置を区別できないため、情報フローの方向を検出できません）。盲目定理の逆定理により、任意のリプシッツ診断の転置感度は非対称係数$G$によって制限されます。
+
+これを、標準的な因果アーキテクチャの閉形式の二部チェーガーランドスケープと組み合わせることで、均一な因果アテンションは $n$ に依存しないフロア $φ\ge 1/5$ を満たす一方、ウィンドウアテンシ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.04893v2</guid>
+      <pubDate>Wed, 06 May 2026 13:25:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
