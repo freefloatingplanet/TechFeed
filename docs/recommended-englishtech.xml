@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 10:43:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 10:20:01 +0000</lastBuildDate>
     <item>
-      <title>DPoP（RFC 9449）解説：送信者制約付きOAuthトークンがトークン盗難をいかに無害なものにするか</title>
-      <link>https://workos.com/blog/dpop-rfc-9449-explained</link>
-      <description>エンジニア向けRFC 9449の実践的な解説：JWTの証明、サーバー発行のnonce、ブラウザでの鍵の保存、そしてDPoPがmTLSとどのように関連しているか。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/dpop-rfc-9449-explained</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <title>ポッドキャスト：クレイグ・マクラッキーが語る、AI時代におけるチームのオペレーティングシステムとしての文化</title>
+      <link>https://www.infoq.com/podcasts/team-operating-system-ai-era/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>このポッドキャストでは、カルチャー＆メソッド担当編集長のシェーン・ハスティが、Kubernetesの共同開発者でありStacklokのCEOであるクレイグ・マクラッキー氏に、AIコーディングツールがオープンソースコミュニティやエンジニアリングチームに与える影響、意図的な組織文化の設計、そしてAI時代におけるエンジニアのキャリアパスの変化への対応について話を聞きました。執筆：クレイグ・マクラッキー (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/podcasts/team-operating-system-ai-era/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 12 Jun 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

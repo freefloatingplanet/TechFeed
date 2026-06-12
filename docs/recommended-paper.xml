@@ -7,15 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 10:43:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 10:19:59 +0000</lastBuildDate>
     <item>
-      <title>自己注意を輸送手段として用いる：対称スペクトル診断の限界</title>
-      <link>https://arxiv.org/abs/2605.04893v2</link>
-      <description>言語モデルが幻覚的な応答を処理する際、注意ルーティングは2つのパターンのいずれかで失敗する傾向があります。1つは狭い位置セットに過度に集中すること、もう1つは関連性が希薄になるほど拡散してしまうことです。そして、この失敗の形状自体が診断シグナルを伝達します。私たちは、これらの形状を診断特性として研究します。これは、ライブ生成時ではなく、ベンチマークラベル付き応答の強制スコアリング下での注意行列から計算されます。広く用いられているスペクトル法群は、次数正規化注意演算子の対称成分を分析します。この対称成分は、伝達容量を決定づけます。私たちは、この演算子の転置不変なスペクトル診断はすべて構造的に方向盲目であることを証明します（演算子とその転置を区別できないため、情報フローの方向を検出できません）。盲目定理の逆定理により、任意のリプシッツ診断の転置感度は非対称係数$G$によって制限されます。
-
-これを、標準的な因果アーキテクチャの閉形式の二部チェーガーランドスケープと組み合わせることで、均一な因果アテンションは $n$ に依存しないフロア $φ\ge 1/5$ を満たす一方、ウィンドウアテンシ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.04893v2</guid>
-      <pubDate>Wed, 06 May 2026 13:25:13 +0000</pubDate>
+      <title>膝リハビリテーション用外骨格における患者トルク推定を用いたインピーダンスMPC</title>
+      <link>https://arxiv.org/abs/2606.13485v1</link>
+      <description>膝リハビリテーション用外骨格は、固定ゲインインピーダンスコントローラの張力目標に安全に準拠しつつ、規定された関節軌道を強制する必要があります。本稿では、直列弾性アクチュエータ（SEA）プラットフォーム上で実証された、膝リハビリテーション用外骨格のためのインピーダンスモデル予測制御フレームワークを提示します。代数フィードフォワードにより、膝のダイナミクスは定数係数スカラー二重積分器に縮小され、後退ホライズン二次計画法（QP）により、可動範囲、トルク、速度の厳しい制限（ISO 13482）を強制しながら、補正トルクが計算されます。直接 SEA ベースのトルクセンシング (弾性要素を介して測定される直列弾性ばねのたわみ - 別個のロードセルではなく、固有の EMG フリーの患者トルク推定値) によって駆動されるカルマン外乱状態は、名目上オフセットフリーの保証と、その符号と目的の動作方向を介して、センサーレスのアシスト・アズ・ニードを提供します。定数状態行列により、QP コスト逆数のオフライン事前計算が可能になり、マルチステップホライズンで 500 Hz の動作が可能になります。7 つのコント (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.13485v1</guid>
+      <pubDate>Thu, 11 Jun 2026 15:35:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

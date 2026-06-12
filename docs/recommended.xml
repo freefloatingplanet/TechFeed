@@ -7,20 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 10:43:22 +0000</lastBuildDate>
-    <item>
-      <title>続・Figma MCPって本当にすごいの？</title>
-      <link>https://zenn.dev/sre_holdings/articles/3b4d7d222d4b1f</link>
-      <description>はじめに
-SREホールディングス株式会社でエンジニアをしている加藤です。
-以前「Figma MCPって本当にすごいの？」という記事で、Figma MCPをいろいろ触って検証してみました。しかし当時は課題も多く、「現場で扱うにはまだ難しいのでは」という印象を受けていました。
-その後、2026年3月に「Code to Figma」がGitHub Copilotでも利用可能になるという発表があり、これをきっかけに再検証をしてみることにしました。今回は前回の反省も踏まえつつ、実践的な使い方と使用感の検証を行いました。
-前回の記事はこちら👇
-Figma MCPって本当にすごいの？
-※ Figm... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sre_holdings/articles/3b4d7d222d4b1f</guid>
-      <pubDate>Wed, 10 Jun 2026 07:29:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 10:19:52 +0000</lastBuildDate>
     <item>
       <title>そのテスト、本当にバグを検出できますか？——Mutation Testingでテストの質を測る</title>
       <link>https://zenn.dev/explaza/articles/b04ad08bca46e1</link>
@@ -38,18 +25,18 @@ Figma MCPって本当にすごいの？
       <pubDate>Tue, 09 Jun 2026 04:52:11 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoftリポジトリ侵害でClaudeやGemini狙う新マルウェア — 105秒で73リポジトリ無効化の衝撃</title>
-      <link>https://techfeed.io/entries/6a272fa78944a4507aed9851?from=rss</link>
-      <description>6月8日、Joseph Coxが「Microsoft Hacked to Deliver Malware to Claude and Gemini Users」と題した記事を公開した。Microsoft自身のGitHubリポジトリが侵害され、わずか105秒間で73のリポジトリが無効化されるという異常事態が発生した。この攻撃の最も衝撃的な点は、ClaudeやGeminiなどのAIコーディングツールユーザーを明確に標的としたマルウェアが仕込まれていたことだ。従来のサイバー攻撃がWebブラウザやメールを標的としていたのに対し、今回は最新のAI開発環境が新たな攻撃ベクターとして狙われた。GitHub の2023年開発者調査によると、開発者の70%以上がAIコーディングツールを業務で使用しており、この高い普及率が攻撃者にとって魅力的な標的となっている。TeamPCPによる巧妙なサプライチェーン攻撃今回の攻撃を実行したのはTeamPCPというハッカーグループだ。WIREDの報道によると、TeamPCPは2024年上半期だけで数百の組織に影響を与える大規模なサプライチェーン攻撃を実行している。彼らは (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a272fa78944a4507aed9851?from=rss</guid>
-      <pubDate>Mon, 08 Jun 2026 21:09:59 +0000</pubDate>
+      <title>必然性から紐解くAccount Abstraction</title>
+      <link>https://zenn.dev/thanai/books/743f9170821d7b</link>
+      <description>これまでAccount Abstractionについて調べたことはあるけれど、Bundler、Paymaster、EntryPointなど、いきなり未知の単語がたくさん出てきてイマイチ理解できなかったという経験はないでしょうか？ 本書は、Account Abstractionが「どんなものなのか」という切り口ではなく「なぜそうなっているのか」という必然性から整理して説明するものです。複雑で多岐にわたる要素を、読者にとって忘れることのない理解レベルにまでもっていくことが目的です。 (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/thanai/books/743f9170821d7b</guid>
+      <pubDate>Thu, 11 Jun 2026 14:41:16 +0000</pubDate>
     </item>
     <item>
-      <title>【海外記事紹介】SwiftUIは7年経っても基本機能が破綻 — John GruberがUndo機能の致命的バグを指摘</title>
-      <link>https://techfeed.io/entries/6a272db08944a4507aed97e2?from=rss</link>
-      <description>6月8日、John Gruberが「SwiftUI Only Makes It Easy to Develop Bad Apps」と題した記事を公開した。Appleの看板UIフレームワークであるSwiftUIが、リリースから7年経った今でも基本的なUndo/Redo機能すら正常に動作しないという衝撃的な問題を、著名なApple評論家のGruber氏が詳細に検証している。特に注目すべきは、Apple純正のJournalアプリでさえこの問題が発生し、ユーザーのテキストが永久に失われるケースが報告されていることだ。発端：完全SwiftUI開発の現実この議論の発端となったのは、Paulo Andrade氏が5月に公開した「Using SwiftUI to Build a Mac-Assed App in 2026」という記事だ。Andrade氏は価格追跡アプリ「Shopie」のmacOS版を100%SwiftUIで開発した経験をレポートしている。SwiftUIは2019年のWWDCで発表されて以来、iOS、macOS、watchOS、tvOS間でのコード再利用と宣言的UI開発の理想を掲げてきた (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a272db08944a4507aed97e2?from=rss</guid>
-      <pubDate>Mon, 08 Jun 2026 21:01:36 +0000</pubDate>
+      <title>日本初、2階建て「3Dプリンター住宅」誕生！ 造形はわずか10日、前例なき構造計算や法律の壁をどう突破したか　宮城県栗原市</title>
+      <link>https://suumo.jp/journal/2026/06/12/217716/</link>
+      <description>宮城県栗原市の山あいののどかなまちに、高さ約6ｍの円筒形の建物が姿を現した。2025年11月、日本初となる「2階建て3Dプリンター住宅」が誕生したのだ。1階建ての事例はSUUMOジャーナルでも何度か紹介してきたが、2階建ては初。どのようにしてできあがったのか、今どうなっているのか、話を聞いた。 宮城県栗原市に日本... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://suumo.jp/journal/2026/06/12/217716/</guid>
+      <pubDate>Fri, 12 Jun 2026 02:00:06 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】Amazon社員がSlackで自社AIを「Sloppenheimer（役立たずのオッペンハイマー）」と嘲笑 — AI推進する経営陣と現場エンジニアの温度差が露呈</title>
@@ -71,19 +58,17 @@ AI slopにならないように、一度自分の言葉で書いてから、校�
       <pubDate>Wed, 10 Jun 2026 17:21:51 +0000</pubDate>
     </item>
     <item>
-      <title>生成AI時代のエンジニアの生存戦略</title>
-      <link>https://zenn.dev/counterworks/articles/62667be5a186b8</link>
-      <description>はじめに
-こんにちは。株式会社カウンターワークス、テックリードの shim です。
-別途マルチテナントの記事を頑張って書いているのですが、先日社内にて「AI開発LT大会」を主催しました。
-言い出しっぺなので、そこで「（生成）AI時代のエンジニアの生存戦略」というテーマで発表したのですが、せっかくなので改めて記事として再構成しました。
-「生成AIにより開発スピードが速くなった」という話は至る所で聞かれるようになりましたが、その先、速くなったあとに、では自分はどこで価値を出すのか、という話を特に若手メンバーに聞いてほしいと思い書きました。
-簡単にまとめると
-!
+      <title>QAエンジニアが「自分でテストやりきる」のをやめようとしている話</title>
+      <link>https://zenn.dev/yasuhiro_test/articles/65eba13298c9c2</link>
+      <description>こんにちは、株式会社ダイニーでQAエンジニアをしているかわさきです。
+ダイニーのQA teamでいま試していることについて書こうと思います。「Claude Codeで開発の生産性が上がっている」という話は最近よく聞きます。同じことが、いまダイニーのQA teamでも起きています。テスト設計して実行する（仕事はこれだけではないですが）、という従来QAの仕事のやり方そのものが、Claude Codeでガラッと変わりつつあります。
+今回はその記録です。
 
-開発生産性を「価値提供の... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/counterworks/articles/62667be5a186b8</guid>
-      <pubDate>Mon, 08 Jun 2026 06:08:08 +0000</pubDate>
+ ダイニーのQA teamが見ている景色
+最初に、私たちが何を相手にしているのかを少しだけ。
+ダイニーは「飲食をもっと楽しく、おもしろく。」... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yasuhiro_test/articles/65eba13298c9c2</guid>
+      <pubDate>Thu, 11 Jun 2026 23:30:05 +0000</pubDate>
     </item>
     <item>
       <title>iPadだけでWebアプリが白紙に — 2週間の調査で判明したWebRTC・Tailscale・IPv6の複合バグ</title>
@@ -91,6 +76,13 @@ AI slopにならないように、一度自分の言葉で書いてから、校�
       <description>6月10日、p2clawが「The iPad was on Tailscale」と題した記事を公開した。症状：iPadだけで発生する謎の障害p2clawアプリケーションがiPadで白紙画面になる問題が発生した。同じWi-Fi、同じブラウザエンジンを使っているにも関わらず、Mac、Linuxマシン、スマートフォンでは正常に動作していた。さらに困ったことに、何度もリフレッシュするとたまに読み込めるという不安定な再現性を示していた。アプリは初期のHTMLを読み込んで読み込み状態を表示するところまでは動作するが、その後にハングアップしてしまう。ブラウザは**WebRTCのデータチャネル経由で最初のGET /リクエスト**を送信した後、永遠にレスポンスを待ち続けるという状況だった。WebRTCは、ブラウザ間でリアルタイムコミュニケーションを可能にする技術で、音声・映像通話だけでなく、P2Pデータ転送にも利用される。近年、従来のHTTPサーバーを介さない直接通信によるWebアプリケーションの開発が注目されており、このような障害の原因特定は重要な課題となっている。計測による原因特定まず両端の接続をロ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a29d1b9931f6b51a2589ad8?from=rss</guid>
       <pubDate>Wed, 10 Jun 2026 21:06:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>「AIでエンジニア大量解雇」は嘘だった — コード生成率65%でも雇用が減らない本当の理由</title>
+      <link>https://techfeed.io/entries/6a2b2177931f6b51a2595ddc?from=rss</link>
+      <description>6月11日、Normal Tech社が「Why AI hasn't replaced software engineers, and won't」と題した記事を公開した。2023年のChatGPT登場以降、「AIがソフトウェアエンジニアの仕事を奪う」という予測が飛び交い、実際に複数の企業がAIを理由としたレイオフを発表した。しかし、この記事では驚くべき事実が明らかにされる：AIによる大量解雇の多くは「AI洗浄」であり、実際の雇用データは全く異なる現実を示しているのだ。AI主導のレイオフは「AI洗浄」だった記事は、注目を集めた企業のレイオフが実際にはAI導入とは無関係だったという事実から始まる。Block社のケースでは、ジャック・ドーシーCEOが4,000人のレイオフをAIによる「新しい働き方」によるものと説明した。しかし、その後の報道で全く異なる実情が明らかになった。同社のデータサイエンティスト、竹田直子氏は、会社が「AIを押し付けてきたが、生産性の向上はほとんど見られなかった」とLinkedInに投稿し、75%の引き留め昇給を断って退社した。Snap社では、CEOがAIが新規コードの (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a2b2177931f6b51a2595ddc?from=rss</guid>
+      <pubDate>Thu, 11 Jun 2026 20:58:31 +0000</pubDate>
     </item>
     <item>
       <title>【海外記事紹介】React撤去からHTML中心設計への転換 — 英国公益事業のフォーム完了者数が一夜で2倍に</title>
