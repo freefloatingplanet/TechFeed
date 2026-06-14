@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 09:22:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 09:41:22 +0000</lastBuildDate>
     <item>
       <title>別モデルによるクロスレビューは有効なのか？同一モデルの継続セッション・別セッションと比較する（React習熟度スコア基準）</title>
       <link>https://zenn.dev/imaimai17468/articles/c5440b98a6e766</link>
@@ -22,6 +22,16 @@ https://zenn.dev/uhyo/articles/react-profession-bench-1
 ベンチマークと名乗ると、粗探しをしたい方々が寄ってくる傾向があります。その前に、今回の設定が以下のとおりであることをご理解くださ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/imaimai17468/articles/c5440b98a6e766</guid>
       <pubDate>Fri, 12 Jun 2026 06:24:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pythonばかり書いてきた私がJavaScriptの世界観を理解するために用語(Node.js等)を整理した</title>
+      <link>https://zenn.dev/lotation/articles/a1e0a8658d29ba</link>
+      <description>Pythonエンジニアの自分も、JavaScriptで何が起こっているのか知っておきたい時代になった（AIがなんでも作ってくれるので）
+私はもともと、Pythonを中心にML/AIアプリ開発をしていました。
+uv を入れれば、Python本体や仮想環境まわりはかなり面倒を見てくれます。APIサーバーを作りたいときは、uv add fastapi uvicorn のように必要なものを入れて、uv run uvicorn app:app で起動できます。簡単なWebアプリを作りたいときは、Streamlitを使えば、Pythonだけで画面まで作ることもできます。
+しかし、Pythonだけ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/lotation/articles/a1e0a8658d29ba</guid>
+      <pubDate>Sat, 13 Jun 2026 14:35:32 +0000</pubDate>
     </item>
     <item>
       <title>Apple公式がフォント処理エンジンをCからSwiftに移行で13%高速化 — メモリ安全性も実現、移行ノウハウを初公開</title>
@@ -43,6 +53,13 @@ AIがコードを書く時代になって、困りごとが1つ増えました�
       <pubDate>Fri, 12 Jun 2026 04:31:13 +0000</pubDate>
     </item>
     <item>
+      <title>AIコーディング、月1000ドルで20人エンジニアチーム相当の成果 — 個人開発者向け3つのコスト最適化戦略</title>
+      <link>https://techfeed.io/entries/6a2dc4e5931f6b51a25a7f07?from=rss</link>
+      <description>6月13日、Stephen Bochinski氏が「AI Coding at Home Without Going Broke」と題した記事を公開した。「20人のエンジニアチームが1か月で出力するものを約1000ドルで構築できる」 — 同氏はこう断言している。ChatGPT ProやClaude Proのサブスクリプション料金が軒並み値上がりし、個人開発者のAI活用コストが問題となる中、現実的なコスト最適化戦略を提示した記事として注目を集めている。企業レベルの生産性を個人で実現する3つのアプローチ2024年以降、AIコーディングツールは急速に進化したが、同時に利用コストも急上昇している。OpenAIのChatGPT Plusは月額20ドルから、AnthropicのClaude Proも同様の価格帯だ。しかし本格的なAI開発を行うと、これらの制限ではすぐに上限に達してしまう。同氏は個人開発者が企業レベルの支出をせずにAIコーディングを実現する3つのアプローチを提示している。1. セルフホスティング：初期投資型アプローチ最初のアプローチは自己ホスト型だ。GPUを搭載したマシンを購入し、Ol (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a2dc4e5931f6b51a25a7f07?from=rss</guid>
+      <pubDate>Sat, 13 Jun 2026 21:00:21 +0000</pubDate>
+    </item>
+    <item>
       <title>インフラストラクチャTLDの歴史</title>
       <link>https://zenn.dev/yamaya/articles/845bed978f7120</link>
       <description>はじめに
@@ -55,18 +72,6 @@ AIがコードを書く時代になって、困りごとが1つ増えました�
 まだインターネットではなくARPANETだったころ、DNSは存在しなかった。というか、そもそもドメイン... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/yamaya/articles/845bed978f7120</guid>
       <pubDate>Fri, 12 Jun 2026 06:17:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Code with Claude Tokyoに参加して、AI時代に強い組織とは何かを考えさせられた</title>
-      <link>https://zenn.dev/paraponera/articles/2026-06-11-code-with-claude-tokyo</link>
-      <description>はじめに
-あまりにも "食らった" 1日だったので、興奮が冷めないうちに思考整理をしたく、この記事を書いています。
-AI時代に組織があるべき状態ってなんなんだ・・ともやもやを抱えている人にとって、少しでも参考になると嬉しいです。
-AI slopにならないように、一度自分の言葉で書いてから、校正としてAIを使っています。ですが補足や解釈違いがあれば突っ込んでいただけると学びになるので嬉しいです。
-学習記録以外で思考を記事に書くのは初めてなので、暖かい目で見ていただけると幸いです。
-おそらく後日YouTubeで動画が上がると思いますので、気になった方はぜひセッションの動画も直接見ていただ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/paraponera/articles/2026-06-11-code-with-claude-tokyo</guid>
-      <pubDate>Wed, 10 Jun 2026 17:21:51 +0000</pubDate>
     </item>
     <item>
       <title>QAエンジニアが「自分でテストやりきる」のをやめようとしている話</title>
@@ -94,13 +99,6 @@ AI slopにならないように、一度自分の言葉で書いてから、校�
       <description>6月11日、Normal Tech社が「Why AI hasn't replaced software engineers, and won't」と題した記事を公開した。2023年のChatGPT登場以降、「AIがソフトウェアエンジニアの仕事を奪う」という予測が飛び交い、実際に複数の企業がAIを理由としたレイオフを発表した。しかし、この記事では驚くべき事実が明らかにされる：AIによる大量解雇の多くは「AI洗浄」であり、実際の雇用データは全く異なる現実を示しているのだ。AI主導のレイオフは「AI洗浄」だった記事は、注目を集めた企業のレイオフが実際にはAI導入とは無関係だったという事実から始まる。Block社のケースでは、ジャック・ドーシーCEOが4,000人のレイオフをAIによる「新しい働き方」によるものと説明した。しかし、その後の報道で全く異なる実情が明らかになった。同社のデータサイエンティスト、竹田直子氏は、会社が「AIを押し付けてきたが、生産性の向上はほとんど見られなかった」とLinkedInに投稿し、75%の引き留め昇給を断って退社した。Snap社では、CEOがAIが新規コードの (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a2b2177931f6b51a2595ddc?from=rss</guid>
       <pubDate>Thu, 11 Jun 2026 20:58:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【海外記事紹介】React撤去からHTML中心設計への転換 — 英国公益事業のフォーム完了者数が一夜で2倍に</title>
-      <link>https://techfeed.io/entries/6a29cff3931f6b51a2589ab9?from=rss</link>
-      <description>6月10日、Moh Kohnが「How building an HTML-first site doubled our users overnight」と題した記事を公開した。この記事では、HTML中心の設計でWebアプリケーションを構築した結果、ユーザー数が一夜にして2倍に増加した実例について詳しく紹介されている。以下に、その内容を紹介する。失敗したReactアプリが引き起こした問題著者のクライアントは英国の公益事業会社で、サービス申請フォームに大きな問題を抱えていた。顧客満足度が96%を下回ると数百万ポンドの罰金が科される規制下で、これまでに2度の高額な開発プロジェクトが失敗に終わっていた。最新の試みでは、海外の請負業者がReactアプリを開発したが、わずか3日間でオンラインから撤去される事態となった。著者が確認したところ、そのアプリは無数のローディングスピナーとグローバルJavaScript状態で構成されており、アクセシビリティにも対応していなかった。さらに重要な画像アップロード機能では、5MBの制限があるlocalStorageにすべてのフォームデータを保存しようとするという設 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a29cff3931f6b51a2589ab9?from=rss</guid>
-      <pubDate>Wed, 10 Jun 2026 20:58:25 +0000</pubDate>
     </item>
     <item>
       <title>さらば平文PXE、UEFI HTTPSブートでネットワーク起動を暗号化せよ</title>
