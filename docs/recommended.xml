@@ -7,31 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 09:41:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:23:57 +0000</lastBuildDate>
     <item>
-      <title>別モデルによるクロスレビューは有効なのか？同一モデルの継続セッション・別セッションと比較する（React習熟度スコア基準）</title>
-      <link>https://zenn.dev/imaimai17468/articles/c5440b98a6e766</link>
-      <description>先日、クロスレビューについて、効果があるのかないのか、両者とも根拠がない印象の感想合戦になりかけたので、実際にベンチマークを行うことにしました。
-
- 実施内容
-うひょ氏のReact習熟度のベンチマークが一番扱いやすそうだったので、こちらを使わせていただきました。
-https://zenn.dev/uhyo/articles/react-profession-bench-1
-また、ベンチマークの注意について、同記事の内容を引用させていただきます。
-
-注意と予防線
-ベンチマークと名乗ると、粗探しをしたい方々が寄ってくる傾向があります。その前に、今回の設定が以下のとおりであることをご理解くださ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/imaimai17468/articles/c5440b98a6e766</guid>
-      <pubDate>Fri, 12 Jun 2026 06:24:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pythonばかり書いてきた私がJavaScriptの世界観を理解するために用語(Node.js等)を整理した</title>
-      <link>https://zenn.dev/lotation/articles/a1e0a8658d29ba</link>
-      <description>Pythonエンジニアの自分も、JavaScriptで何が起こっているのか知っておきたい時代になった（AIがなんでも作ってくれるので）
-私はもともと、Pythonを中心にML/AIアプリ開発をしていました。
-uv を入れれば、Python本体や仮想環境まわりはかなり面倒を見てくれます。APIサーバーを作りたいときは、uv add fastapi uvicorn のように必要なものを入れて、uv run uvicorn app:app で起動できます。簡単なWebアプリを作りたいときは、Streamlitを使えば、Pythonだけで画面まで作ることもできます。
-しかし、Pythonだけ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lotation/articles/a1e0a8658d29ba</guid>
-      <pubDate>Sat, 13 Jun 2026 14:35:32 +0000</pubDate>
+      <title>Claude Codeの「court 無限ループ」から、会話を捨てずに復活する（Opus 4.8）</title>
+      <link>https://zenn.dev/shotakada/articles/claude-code-opus48-court-loop</link>
+      <description>Opus 4.8 にしてから、Claude Code が court とか count みたいな謎の単語を出して、ツール呼び出しが止まる ―― そんなこと、増えていませんか？
+しかもタチが悪いのは、対処法として返ってくるのが大体「セッションを変えろ」なこと。そんなことは分かっている。でも、こっちは長く積み上げた会話をどうにか引き継ぎたいのに、その引き継ぎコマンドを打っても court で止まるから困っているんです。新しいセッションにしたら、ここまでの文脈は全部忘れられる。引き継ぎが大事なのは分かっている、なのにまたそこで court。仕方なく諦めてセッションを変えて、同じことをもう一度命... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shotakada/articles/claude-code-opus48-court-loop</guid>
+      <pubDate>Sun, 14 Jun 2026 10:42:54 +0000</pubDate>
     </item>
     <item>
       <title>Apple公式がフォント処理エンジンをCからSwiftに移行で13%高速化 — メモリ安全性も実現、移行ノウハウを初公開</title>
@@ -41,18 +24,6 @@ uv を入れれば、Python本体や仮想環境まわりはかなり面倒を�
       <pubDate>Fri, 12 Jun 2026 21:06:56 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code × Trivy MCPで依存ライブラリの脆弱性を検出→修正→再スキャンする</title>
-      <link>https://zenn.dev/virtualcraft/articles/claude-code-trivy-mcp-security-check</link>
-      <description>はじめに
-AIがコードを書く時代になって、困りごとが1つ増えました。書くスピードが上がったぶん、「いま書いたコード、本当に安全か」を確かめる手間が追いつきません。依存ライブラリに既知の脆弱性が混ざっていても、生成された瞬間は気づけないことが多いものです。
-だったら、確かめる作業も同じAIに任せてしまえばいい。コードを書いたAIに、その場でスキャナを呼ばせて、脆弱性を見つけさせて、直すところまで一往復でやってもらう。これがこの記事のテーマです。
-ただし「AIに全部おまかせ」にはしません。ここで役割をはっきり分けておきます。
-
-スキャナ（Trivy）は事実を出す。決定論的で、何度やっても... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/virtualcraft/articles/claude-code-trivy-mcp-security-check</guid>
-      <pubDate>Fri, 12 Jun 2026 04:31:13 +0000</pubDate>
-    </item>
-    <item>
       <title>AIコーディング、月1000ドルで20人エンジニアチーム相当の成果 — 個人開発者向け3つのコスト最適化戦略</title>
       <link>https://techfeed.io/entries/6a2dc4e5931f6b51a25a7f07?from=rss</link>
       <description>6月13日、Stephen Bochinski氏が「AI Coding at Home Without Going Broke」と題した記事を公開した。「20人のエンジニアチームが1か月で出力するものを約1000ドルで構築できる」 — 同氏はこう断言している。ChatGPT ProやClaude Proのサブスクリプション料金が軒並み値上がりし、個人開発者のAI活用コストが問題となる中、現実的なコスト最適化戦略を提示した記事として注目を集めている。企業レベルの生産性を個人で実現する3つのアプローチ2024年以降、AIコーディングツールは急速に進化したが、同時に利用コストも急上昇している。OpenAIのChatGPT Plusは月額20ドルから、AnthropicのClaude Proも同様の価格帯だ。しかし本格的なAI開発を行うと、これらの制限ではすぐに上限に達してしまう。同氏は個人開発者が企業レベルの支出をせずにAIコーディングを実現する3つのアプローチを提示している。1. セルフホスティング：初期投資型アプローチ最初のアプローチは自己ホスト型だ。GPUを搭載したマシンを購入し、Ol (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
@@ -60,45 +31,61 @@ AIがコードを書く時代になって、困りごとが1つ増えました�
       <pubDate>Sat, 13 Jun 2026 21:00:21 +0000</pubDate>
     </item>
     <item>
-      <title>インフラストラクチャTLDの歴史</title>
-      <link>https://zenn.dev/yamaya/articles/845bed978f7120</link>
+      <title>OSSの「AI社員だけの会社」OneManCompany を動かしてみる ~Microsoft Foundry のモデルで~</title>
+      <link>https://zenn.dev/nomhiro/articles/omc-azure-foundry</link>
       <description>はじめに
-とある原稿のためにarpaドメインについて調べた。結果としてはあたりさわりのない数行の記述に落ち着いたのだが、そのつまらない記述にたどりつくまでにはかなりの調査を要し、そして調べきれない部分がいくつも残ってしまった。せっかくなので、調べてわかったこと、わからなかったことをここにまとめておく。ちなみにその原稿の作業はまだ続いていて、こんな文章を書いている暇はない。
-なお本稿の内容は、知っていてもあなたの仕事には1ミリも役に立たない。
-
- DNS以前
-
- ARPANET草創期
-まだインターネットではなくARPANETだったころ、DNSは存在しなかった。というか、そもそもドメイン... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yamaya/articles/845bed978f7120</guid>
-      <pubDate>Fri, 12 Jun 2026 06:17:52 +0000</pubDate>
+OSS の OneManCompany（以下 OMC）は、AI 社員が自律的に働く「会社の OS」 です。CEO（人間）がタスクを投げると、AI 社員たちが役割分担し、プロジェクトを命名し、成果物を作り、CEO に報告する、という一連の会社運営を AI だけで回します（OMC 自体の詳しい紹介は次の章でします）。
+この OMC、デフォルトでは OpenRouter 経由で LLM を呼びます。本記事では、この LLM を Azure の Microsoft Foundry にデプロイしたモデルに差し替えてみます。
+OneManCompany がどんなプロジェクトなのかを紹... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nomhiro/articles/omc-azure-foundry</guid>
+      <pubDate>Sun, 14 Jun 2026 14:11:29 +0000</pubDate>
     </item>
     <item>
-      <title>QAエンジニアが「自分でテストやりきる」のをやめようとしている話</title>
-      <link>https://zenn.dev/yasuhiro_test/articles/65eba13298c9c2</link>
-      <description>こんにちは、株式会社ダイニーでQAエンジニアをしているかわさきです。
-ダイニーのQA teamでいま試していることについて書こうと思います。「Claude Codeで開発の生産性が上がっている」という話は最近よく聞きます。同じことが、いまダイニーのQA teamでも起きています。テスト設計して実行する（仕事はこれだけではないですが）、という従来QAの仕事のやり方そのものが、Claude Codeでガラッと変わりつつあります。
-今回はその記録です。
+      <title>従量制になったGithub Copilotの代わりにOpenCode GoをCopilot Chatのカスタムプロバイダとして使う</title>
+      <link>https://zenn.dev/kusuke/articles/82129236caa5f8</link>
+      <description>Github Copilotが2026年6月より、クレジット制というか従量課金モデルに移行してしまいました。企業の経営のためには仕方がないのですが、個人としてはできれば安く定額で使いたい。
+定額制で安くといえばOpenCode Goが有名ですが、こちらはVSCodeのチャットインテグレーションが公式対応していません。
+そこで今回は、VSCode最新バージョンから利用可能になっていた「Custom Endpoint」を使って$10で定額制のOpenCode Goを使えるようにしてみました。基本設定はこちらの記事を参考にやってみました。この記事は100％人間によって書かれています。
+VSCo... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kusuke/articles/82129236caa5f8</guid>
+      <pubDate>Sun, 14 Jun 2026 01:07:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pythonばかり書いてきた私の視点で、JavaScriptの世界観を理解するための用語(Node.js等)を整理した</title>
+      <link>https://zenn.dev/lotation/articles/a1e0a8658d29ba</link>
+      <description>※追記: 2026-06-14
+想定よりもずっと多いリアクションを記事に付けていただけて、同じような境遇にある方々がけっこう居たのかもしれない、と勇気づけられました。ご閲覧ありがとうございます。
 
- ダイニーのQA teamが見ている景色
-最初に、私たちが何を相手にしているのかを少しだけ。
-ダイニーは「飲食をもっと楽しく、おもしろく。」... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yasuhiro_test/articles/65eba13298c9c2</guid>
-      <pubDate>Thu, 11 Jun 2026 23:30:05 +0000</pubDate>
+ Pythonエンジニアの自分も、JavaScriptで何が起こっているのか知っておきたい時代になった（AIがなんでも作ってくれるので）
+私はもともと、Pythonを中心にML/AIアプリ開発をしていました。
+uv を入れれば、Python本体や仮想環境まわりはかなり面倒を見てくれます。APIサーバーを作りたいときは、uv add fastapi uvicorn のように必要なものを入れて、u... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/lotation/articles/a1e0a8658d29ba</guid>
+      <pubDate>Sat, 13 Jun 2026 14:35:32 +0000</pubDate>
     </item>
     <item>
-      <title>iPadだけでWebアプリが白紙に — 2週間の調査で判明したWebRTC・Tailscale・IPv6の複合バグ</title>
-      <link>https://techfeed.io/entries/6a29d1b9931f6b51a2589ad8?from=rss</link>
-      <description>6月10日、p2clawが「The iPad was on Tailscale」と題した記事を公開した。症状：iPadだけで発生する謎の障害p2clawアプリケーションがiPadで白紙画面になる問題が発生した。同じWi-Fi、同じブラウザエンジンを使っているにも関わらず、Mac、Linuxマシン、スマートフォンでは正常に動作していた。さらに困ったことに、何度もリフレッシュするとたまに読み込めるという不安定な再現性を示していた。アプリは初期のHTMLを読み込んで読み込み状態を表示するところまでは動作するが、その後にハングアップしてしまう。ブラウザは**WebRTCのデータチャネル経由で最初のGET /リクエスト**を送信した後、永遠にレスポンスを待ち続けるという状況だった。WebRTCは、ブラウザ間でリアルタイムコミュニケーションを可能にする技術で、音声・映像通話だけでなく、P2Pデータ転送にも利用される。近年、従来のHTTPサーバーを介さない直接通信によるWebアプリケーションの開発が注目されており、このような障害の原因特定は重要な課題となっている。計測による原因特定まず両端の接続をロ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a29d1b9931f6b51a2589ad8?from=rss</guid>
-      <pubDate>Wed, 10 Jun 2026 21:06:01 +0000</pubDate>
+      <title>Appleが「Siri AI」をEUの規則のせいでヨーロッパにリリースできないと主張するも欧州委員会は「AppleがEU域内で新製品や新サービスを導入することを禁じる条項は一切ない」と反論</title>
+      <link>https://gigazine.net/news/20260615-ai-siri-dma/</link>
+      <description>Appleは2026年6月9日の「WWDC26」基調講演で、SiriとApple Intelligenceを統合した「Siri AI」を発表しました。このSiri AIについて、EU域内ではEUのデジタル市場法(DMA)が影響して提供が延期されるとAppleは発表していましたが、EUの行政執行機関である欧州委員会は、DMAがSiri AIの導入を妨げるものではないと反論して... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20260615-ai-siri-dma/</guid>
+      <pubDate>Mon, 15 Jun 2026 05:36:56 +0000</pubDate>
     </item>
     <item>
-      <title>「AIでエンジニア大量解雇」は嘘だった — コード生成率65%でも雇用が減らない本当の理由</title>
-      <link>https://techfeed.io/entries/6a2b2177931f6b51a2595ddc?from=rss</link>
-      <description>6月11日、Normal Tech社が「Why AI hasn't replaced software engineers, and won't」と題した記事を公開した。2023年のChatGPT登場以降、「AIがソフトウェアエンジニアの仕事を奪う」という予測が飛び交い、実際に複数の企業がAIを理由としたレイオフを発表した。しかし、この記事では驚くべき事実が明らかにされる：AIによる大量解雇の多くは「AI洗浄」であり、実際の雇用データは全く異なる現実を示しているのだ。AI主導のレイオフは「AI洗浄」だった記事は、注目を集めた企業のレイオフが実際にはAI導入とは無関係だったという事実から始まる。Block社のケースでは、ジャック・ドーシーCEOが4,000人のレイオフをAIによる「新しい働き方」によるものと説明した。しかし、その後の報道で全く異なる実情が明らかになった。同社のデータサイエンティスト、竹田直子氏は、会社が「AIを押し付けてきたが、生産性の向上はほとんど見られなかった」とLinkedInに投稿し、75%の引き留め昇給を断って退社した。Snap社では、CEOがAIが新規コードの (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a2b2177931f6b51a2595ddc?from=rss</guid>
-      <pubDate>Thu, 11 Jun 2026 20:58:31 +0000</pubDate>
+      <title>逆引きアクセシビリティ 〜見た目も妥協しない UI コンポーネント実装カタログ〜</title>
+      <link>https://zenn.dev/kagan/books/accessible-ui-catalog</link>
+      <description>「キーボードで操作できること」「状態が支援技術に伝わること」……。WCAG のようなアクセシビリティガイドラインは、達成基準というルール単位で整理されています。でも、いざ UI を実装するときに知りたいのは、「“今から作るこのコンポーネント・この機能”では、どの基準を気にすればいいのか」ではないでしょうか。
+
+この本は、その悩みに応える「逆引き」のカタログです。アコーディオン、ツールチップ、タブ……と、作るものを起点に、考慮すべきアクセシビリティの観点を「なぜ大事か」「どう確認するか」とセットで一覧にしました。
+
+そしてもう一つのテーマが、「ビジュアルデザインを諦めない」こと。アクセシビリティとビジュアルデザイン（見た目の表現）はしばしば対立すると思われがちですが、これは技術で両立できる部分もあります。見た目の表現が複雑な実装例もあわせて紹介します。 (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kagan/books/accessible-ui-catalog</guid>
+      <pubDate>Sun, 14 Jun 2026 13:42:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>「アイデアは自分、文章はAI」という言い訳が嘘である理由 — 執筆こそが思考である</title>
+      <link>https://techfeed.io/entries/6a2f17d3931f6b51a25acf7f?from=rss</link>
+      <description>6月13日、Fernando Borrettiが「Human Routers of Machine Words」と題した記事を公開した。ChatGPTやClaudeといったAI執筆ツールが普及し、技術ブログやドキュメントをAIに書かせる開発者が増えている。彼らはこう弁明する。「アイデアは自分のもので、文章はAIが書いただけ」と。しかしBorrettiは、この区別そのものが根本的に誤っていると主張する。なぜなら、執筆という行為こそが思考そのものであり、書かない「思想家」は思考していないからだ。「アイデア」と「文章」を分離する都合の良い嘘AI執筆を擁護する人々は「アイデアは自分のもので、文章はAIが書いた」と主張する。これは要点を箇条書きにしてAIに投げ、それを段落に整形させたという意味だと著者は解釈する。この主張には2つの問題がある。第一に、箇条書きを文章にすらできない人間のアイデアに価値があるはずがないという直接的な問題だ。第二に、より本質的な問題として、崇高な「アイデア」と単なる「文章」を区別する考え方自体が誤りだという指摘がある。この区別は非常に都合がよい。AIの出力が駄作でも「ア (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a2f17d3931f6b51a25acf7f?from=rss</guid>
+      <pubDate>Sun, 14 Jun 2026 21:06:27 +0000</pubDate>
     </item>
     <item>
       <title>さらば平文PXE、UEFI HTTPSブートでネットワーク起動を暗号化せよ</title>

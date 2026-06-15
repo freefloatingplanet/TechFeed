@@ -7,13 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 09:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:24:20 +0000</lastBuildDate>
     <item>
-      <title>ポッドキャスト：クレイグ・マクラッキーが語る、AI時代におけるチームのオペレーティングシステムとしての文化</title>
-      <link>https://www.infoq.com/podcasts/team-operating-system-ai-era/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>このポッドキャストでは、カルチャー＆メソッド担当編集長のシェーン・ハスティが、Kubernetesの共同開発者でありStacklokのCEOであるクレイグ・マクラッキー氏に、AIコーディングツールがオープンソースコミュニティやエンジニアリングチームに与える影響、意図的な組織文化の設計、そしてAI時代におけるエンジニアのキャリアパスの変化への対応について話を聞きました。執筆：クレイグ・マクラッキー (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/podcasts/team-operating-system-ai-era/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 12 Jun 2026 09:00:00 +0000</pubDate>
+      <title>Spring Boot 4.1では、gRPCの自動構成、SSRF対策、Kotlin 2.3のサポートが追加されました。</title>
+      <link>https://www.infoq.com/news/2026/06/spring-boot-4-1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Broadcomは2026年6月10日にSpring Boot 4.1をリリースし、gRPCの自動構成、HTTPクライアントSSRF対策、Kotlin 2.3へのアップグレードを実現しました。また、
+
+遅延データソース接続、@Asyncメソッドの非同期コンテキスト伝播、OpenTelemetryサポートの改善も含まれています。異例なことに、Broadcomは
+
+リリース日を2度変更しました。最初は5月11日～22日から6月1日～5日、そして最終的には6月8日～12日に変更されました。Karsten Silz著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/06/spring-boot-4-1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 15 Jun 2026 05:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

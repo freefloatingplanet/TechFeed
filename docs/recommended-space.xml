@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 09:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:24:01 +0000</lastBuildDate>
     <item>
       <title>NASAが「アルテミスIII」のクルーを発表　2027年に地球低軌道で月着陸船のテスト実施へ</title>
       <link>https://sorae.info/space/20260610-artemis-iii-crew.html</link>
@@ -30,18 +30,18 @@
       <pubDate>Thu, 04 Jun 2026 01:32:31 +0000</pubDate>
     </item>
     <item>
-      <title>ISSロシア区画で空気漏れが増加　対応作業にあわせて一部の宇宙飛行士が宇宙船に一時退避</title>
-      <link>https://sorae.info/space/20260609-iss-air-leak.html</link>
-      <description>NASA（アメリカ航空宇宙局）とロシアの国営宇宙企業Roscosmos（ロスコスモス）は2026年6月、ISS（国際宇宙ステーション）で発生している空気漏れ問題の最新状況を明らかにしました。 ISSのロシア区画で確認され… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260609-iss-air-leak.html</guid>
-      <pubDate>Tue, 09 Jun 2026 01:47:54 +0000</pubDate>
+      <title>謎の重力源「暗黒物質」の痕跡を「重力波」から見つけたかもしれない？</title>
+      <link>https://sorae.info/astronomy/20260614-dark-matter-sign-from-gw-event.html</link>
+      <description>私たちの宇宙には、重力でしかその存在を知ることができない「暗黒物質（ダークマター）」があると考えられています。その正体は現在でも分かっておらず、正体の絞り込みに関する研究は現在も続けられています。 ルーヴァン・カトリック… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260614-dark-matter-sign-from-gw-event.html</guid>
+      <pubDate>Sun, 14 Jun 2026 12:08:54 +0000</pubDate>
     </item>
     <item>
-      <title>宇宙ロボット開発にも標準OSを利用する時代に？  宇宙ロボットの最前線とSpace ROSの展望</title>
-      <link>https://sorabatake.jp/45972/</link>
-      <description>スペースデブリ除去、月面基地建設、火星探査……宇宙開発はもはやロボットなしには語れません。地上ロボット開発の標準「ROS」を宇宙向けに進化させたオープンソース基盤「Space ROS」の概要と展望を紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45972/</guid>
-      <pubDate>Thu, 21 May 2026 23:00:26 +0000</pubDate>
+      <title>宇宙空間での大型構造物の組み立てが可能に？ Space Quartersが3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功 【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/46343/</link>
+      <description>Space Quartersが、3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功しました。その仕組みと、実証が示したものを解説します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46343/</guid>
+      <pubDate>Sun, 14 Jun 2026 23:02:58 +0000</pubDate>
     </item>
     <item>
       <title>ペアを組む星の接近にはガスと磁場が鍵？　巨大なブラックホールの合体にも関係する研究成果</title>
@@ -56,13 +56,6 @@
       <description>異業種から宇宙業界に参入した企業に焦点を当てた対談連載「Why Space Business～異業種企業が見出した宇宙業界の可能性～」、第1回に登場いただいたのは航空業界です。なぜ今、航空会社が宇宙を目指し、事業を続けているのか、ANAホールディングスと、日本航空の2社にお話を伺いました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/45811/</guid>
       <pubDate>Mon, 25 May 2026 23:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rocket Lab、JAXAが顧客となった2回目の専用打ち上げに成功。軌道投入された編隊飛行や折り紙アンテナなど超小型衛星8機の紹介【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/46001/</link>
-      <description>2026年4月23日、小型ロケットによる宇宙輸送事業を手がけるRocket Labは、宇宙航空研究開発機構（JAXA）を顧客とした打上げとしては2度目となる専用打ち上げの成功を発表しました。搭載された8機の衛星について簡単に紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46001/</guid>
-      <pubDate>Fri, 22 May 2026 23:00:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
