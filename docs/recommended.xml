@@ -7,28 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 12:23:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:19:07 +0000</lastBuildDate>
     <item>
-      <title>Claude Codeの「court 無限ループ」から、会話を捨てずに復活する（Opus 4.8）</title>
-      <link>https://zenn.dev/shotakada/articles/claude-code-opus48-court-loop</link>
-      <description>Opus 4.8 にしてから、Claude Code が court とか count みたいな謎の単語を出して、ツール呼び出しが止まる ―― そんなこと、増えていませんか？
-しかもタチが悪いのは、対処法として返ってくるのが大体「セッションを変えろ」なこと。そんなことは分かっている。でも、こっちは長く積み上げた会話をどうにか引き継ぎたいのに、その引き継ぎコマンドを打っても court で止まるから困っているんです。新しいセッションにしたら、ここまでの文脈は全部忘れられる。引き継ぎが大事なのは分かっている、なのにまたそこで court。仕方なく諦めてセッションを変えて、同じことをもう一度命... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shotakada/articles/claude-code-opus48-court-loop</guid>
-      <pubDate>Sun, 14 Jun 2026 10:42:54 +0000</pubDate>
+      <title>カーネギーメロン大学の有名講義『Intro to Database Systems』を全てのプログラマに見てほしい</title>
+      <link>https://zenn.dev/kaseken/articles/3913ba30af4d46</link>
+      <description>データベース (DB) について、どのように勉強していますか？
+MySQLやPostgreSQL等の具体的なデータベース管理システム (DBMS) の仕様、効率的なSQLの書き方、あるいはスキーマ設計のベストプラクティス等の「DBの使い方」を教える技術書は、たくさん見かけます。そういった本を読んだことのある方は多いでしょう。
+一方で、より普遍的な「DBの仕組み」に関して、勉強したことのある方は少ないのではないでしょうか？
+DBの内部実装を解説する本は、日本語で読めるものだと『詳説データベース』くらいしか思い浮かびません。ただ、この本は結構難易度が高く、手軽に読めるものでもありません (※... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kaseken/articles/3913ba30af4d46</guid>
+      <pubDate>Mon, 15 Jun 2026 16:50:48 +0000</pubDate>
     </item>
     <item>
-      <title>Apple公式がフォント処理エンジンをCからSwiftに移行で13%高速化 — メモリ安全性も実現、移行ノウハウを初公開</title>
-      <link>https://techfeed.io/entries/6a2c74f0931f6b51a25a2368?from=rss</link>
-      <description>6月12日、AppleのSwiftチームが「Swift at Apple: Migrating the TrueType Hinting Interpreter」と題した記事を公開した。AppleがTrueTypeフォントのヒンティングインタープリターをCからSwiftに書き換え、メモリ安全性を実現しながら平均13%の性能向上を達成したことを明らかにした。この移行は2025年秋のmacOS/iOS更新で実装され、同社が初めて大規模なシステムコンポーネントのSwift移行ノウハウを詳細公開したことで注目を集めている。フォントレンダリングは全てのアプリケーションが依存する基盤技術であり、特にセキュリティリスクが高い領域として知られている。近年、CVE-2023-32434（CoreTextの脆弱性）やCVE-2022-32832（フォントパーサーの脆弱性）など、フォント処理関連の重大な脆弱性が相次いで報告されており、AppleがこのコアシステムをSwiftで書き直した背景にはこうしたセキュリティリスクの根本的な解決がある。TrueTypeヒンティング — セキュリティ上の重要な攻撃対象Tr (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a2c74f0931f6b51a25a2368?from=rss</guid>
-      <pubDate>Fri, 12 Jun 2026 21:06:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIコーディング、月1000ドルで20人エンジニアチーム相当の成果 — 個人開発者向け3つのコスト最適化戦略</title>
-      <link>https://techfeed.io/entries/6a2dc4e5931f6b51a25a7f07?from=rss</link>
-      <description>6月13日、Stephen Bochinski氏が「AI Coding at Home Without Going Broke」と題した記事を公開した。「20人のエンジニアチームが1か月で出力するものを約1000ドルで構築できる」 — 同氏はこう断言している。ChatGPT ProやClaude Proのサブスクリプション料金が軒並み値上がりし、個人開発者のAI活用コストが問題となる中、現実的なコスト最適化戦略を提示した記事として注目を集めている。企業レベルの生産性を個人で実現する3つのアプローチ2024年以降、AIコーディングツールは急速に進化したが、同時に利用コストも急上昇している。OpenAIのChatGPT Plusは月額20ドルから、AnthropicのClaude Proも同様の価格帯だ。しかし本格的なAI開発を行うと、これらの制限ではすぐに上限に達してしまう。同氏は個人開発者が企業レベルの支出をせずにAIコーディングを実現する3つのアプローチを提示している。1. セルフホスティング：初期投資型アプローチ最初のアプローチは自己ホスト型だ。GPUを搭載したマシンを購入し、Ol (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a2dc4e5931f6b51a25a7f07?from=rss</guid>
-      <pubDate>Sat, 13 Jun 2026 21:00:21 +0000</pubDate>
+      <title>ミニモニター用ダッシュボードから始まった、Rust製ハードウェア監視ツール「HardwareVisualizer」</title>
+      <link>https://zenn.dev/shm_7ec/articles/hardwarevisualizer-dev-story</link>
+      <description>はじめに
+この記事では、私が開発している HardwareVisualizer について書きます。ただし、単なる機能紹介ではなく、作っている中で見えてきた技術的な面白さに寄せた話です。
+最初から汎用的なハードウェア監視ツールを作ろうとしていたわけではありません。PC ケースの中に組み込む小さなモニター向けに構想を練っているうちに、今のようなハードウェアモニターへ変化していきました。実際に手を動かしてみると、Web UI、Tauri、Rust、OS API、CI/CD、ライセンス管理、コード署名、配布サイトまで含む、かなり総合的なプロジェクトになりました。
+
+ HardwareVisu... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shm_7ec/articles/hardwarevisualizer-dev-story</guid>
+      <pubDate>Sun, 14 Jun 2026 05:50:51 +0000</pubDate>
     </item>
     <item>
       <title>OSSの「AI社員だけの会社」OneManCompany を動かしてみる ~Microsoft Foundry のモデルで~</title>
@@ -41,6 +40,20 @@ OneManCompany がどんなプロジェクトなのかを紹... (source: Zennの�
       <pubDate>Sun, 14 Jun 2026 14:11:29 +0000</pubDate>
     </item>
     <item>
+      <title>戦術AIから戦略AIへ Snowflake SUMMIT 2026に参加して</title>
+      <link>https://zenn.dev/dataheroes/articles/snowflake-summit-2026-strategic-ai</link>
+      <description>Snowflake主催の最大のカンファレンスであるSUMMITに参加してきました。
+今年もサンフランシスコのMoscone Centerで、2026年6月1日から4日にかけて開催されました。
+私は2023年、2024年、2025年 と参加して、今回で4回目です。
+先に断っておくと、この記事では「今年どんな発表があったか」は扱いません。
+機能やアップデートの紹介は、すでに良い記事がたくさんあるので、そちらをご覧ください。
+この記事は、複数年度に渡って現地で色々感じたことを踏まえて、この先の一年を自分はどう動くか を自分なりに整理したものです。
+
+ セッションは、やってみて出てきた課題の話だ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dataheroes/articles/snowflake-summit-2026-strategic-ai</guid>
+      <pubDate>Mon, 15 Jun 2026 05:40:54 +0000</pubDate>
+    </item>
+    <item>
       <title>従量制になったGithub Copilotの代わりにOpenCode GoをCopilot Chatのカスタムプロバイダとして使う</title>
       <link>https://zenn.dev/kusuke/articles/82129236caa5f8</link>
       <description>Github Copilotが2026年6月より、クレジット制というか従量課金モデルに移行してしまいました。企業の経営のためには仕方がないのですが、個人としてはできれば安く定額で使いたい。
@@ -51,23 +64,37 @@ VSCo... (source: Zennのトレンド)</description>
       <pubDate>Sun, 14 Jun 2026 01:07:01 +0000</pubDate>
     </item>
     <item>
-      <title>Pythonばかり書いてきた私の視点で、JavaScriptの世界観を理解するための用語(Node.js等)を整理した</title>
-      <link>https://zenn.dev/lotation/articles/a1e0a8658d29ba</link>
-      <description>※追記: 2026-06-14
-想定よりもずっと多いリアクションを記事に付けていただけて、同じような境遇にある方々がけっこう居たのかもしれない、と勇気づけられました。ご閲覧ありがとうございます。
-
- Pythonエンジニアの自分も、JavaScriptで何が起こっているのか知っておきたい時代になった（AIがなんでも作ってくれるので）
-私はもともと、Pythonを中心にML/AIアプリ開発をしていました。
-uv を入れれば、Python本体や仮想環境まわりはかなり面倒を見てくれます。APIサーバーを作りたいときは、uv add fastapi uvicorn のように必要なものを入れて、u... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lotation/articles/a1e0a8658d29ba</guid>
-      <pubDate>Sat, 13 Jun 2026 14:35:32 +0000</pubDate>
+      <title>個人開発はなぜ誰も使わないのか──AIで「作る壁」が消えた時代に大事になること</title>
+      <link>https://zenn.dev/yun_bow/articles/6e6bcbf127072a</link>
+      <description>はじめに
+「動くものができた。GitHub に push した。Product Hunt にも出した。——でも、誰も使わない。」
+個人開発をやったことがある人なら、一度はこの静けさを味わったはずだ。技術的には完成しているのに、リアクションがゼロに近い。バグでもなければ、デザインが致命的に悪いわけでもない。ただ、誰の生活にも食い込まなかった。
+そして 2026 年現在、この「誰も使わない問題」は 以前より深刻になっている可能性がある。理由は逆説的だ。AI によって「アプリを作る壁」が劇的に下がったからである。作るのが簡単になったのに、なぜ使われないアプリは減らないのか。むしろ増えている... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yun_bow/articles/6e6bcbf127072a</guid>
+      <pubDate>Sun, 14 Jun 2026 00:14:20 +0000</pubDate>
     </item>
     <item>
-      <title>Appleが「Siri AI」をEUの規則のせいでヨーロッパにリリースできないと主張するも欧州委員会は「AppleがEU域内で新製品や新サービスを導入することを禁じる条項は一切ない」と反論</title>
-      <link>https://gigazine.net/news/20260615-ai-siri-dma/</link>
-      <description>Appleは2026年6月9日の「WWDC26」基調講演で、SiriとApple Intelligenceを統合した「Siri AI」を発表しました。このSiri AIについて、EU域内ではEUのデジタル市場法(DMA)が影響して提供が延期されるとAppleは発表していましたが、EUの行政執行機関である欧州委員会は、DMAがSiri AIの導入を妨げるものではないと反論して... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20260615-ai-siri-dma/</guid>
-      <pubDate>Mon, 15 Jun 2026 05:36:56 +0000</pubDate>
+      <title>フロントエンドエンジニアがFigmaのオートレイアウトを駆使して、実装に直結するUIを設計した話</title>
+      <link>https://zenn.dev/gakken_leap/articles/71256fe15dd354</link>
+      <description>はじめに
+こんにちは、フロントエンドエンジニアのOkumaです。
+現在、私が所属する開発チームではフロントエンドエンジニアである私が簡単なUIデザインの作成から実装までを一貫して担当しています。
+今回は、デザインとコードをシームレスに繋ぐことができるこの体制を活かし、自身のマークアップ業務のしやすさを意識してFigmaでデザインを作成しています。その際、「オートレイアウト（Auto Layout）」を徹底的に活用してより実装のしやすいデザインに改善した体験について、今回まとめたいと思います。
+エンジニア視点でFigmaをどう構築したのか、一つの参考になれば幸いです。
+
+ 以前のデザイ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/gakken_leap/articles/71256fe15dd354</guid>
+      <pubDate>Mon, 15 Jun 2026 04:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>【オブジェクト指向】PHP と Go を比較して学ぶ OOP</title>
+      <link>https://zenn.dev/yuitonn/articles/d5c8c85c211cfe</link>
+      <description>はじめに
+Laravel や Symfony のようなフレームワークを使って開発していると、interface・trait・abstract class といった OOP の部品を自分の手で書く機会は意外と少ないです。コントローラを書き、Eloquent でクエリを組み立て、ルートを定義するという範囲では、これらのワードはほとんど登場しません。
+しかし、フレームワークの内部では、これらが当たり前のように使われています。つまり「使わないから知らなくていい」のではなく、「書く機会がないせいで、いつ使うべきか分からないまま」になりがちな部品です。
+この記事では、PHP の OOP の基本部... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yuitonn/articles/d5c8c85c211cfe</guid>
+      <pubDate>Mon, 15 Jun 2026 09:37:30 +0000</pubDate>
     </item>
     <item>
       <title>逆引きアクセシビリティ 〜見た目も妥協しない UI コンポーネント実装カタログ〜</title>
@@ -86,13 +113,6 @@ uv を入れれば、Python本体や仮想環境まわりはかなり面倒を�
       <description>6月13日、Fernando Borrettiが「Human Routers of Machine Words」と題した記事を公開した。ChatGPTやClaudeといったAI執筆ツールが普及し、技術ブログやドキュメントをAIに書かせる開発者が増えている。彼らはこう弁明する。「アイデアは自分のもので、文章はAIが書いただけ」と。しかしBorrettiは、この区別そのものが根本的に誤っていると主張する。なぜなら、執筆という行為こそが思考そのものであり、書かない「思想家」は思考していないからだ。「アイデア」と「文章」を分離する都合の良い嘘AI執筆を擁護する人々は「アイデアは自分のもので、文章はAIが書いた」と主張する。これは要点を箇条書きにしてAIに投げ、それを段落に整形させたという意味だと著者は解釈する。この主張には2つの問題がある。第一に、箇条書きを文章にすらできない人間のアイデアに価値があるはずがないという直接的な問題だ。第二に、より本質的な問題として、崇高な「アイデア」と単なる「文章」を区別する考え方自体が誤りだという指摘がある。この区別は非常に都合がよい。AIの出力が駄作でも「ア (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a2f17d3931f6b51a25acf7f?from=rss</guid>
       <pubDate>Sun, 14 Jun 2026 21:06:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>さらば平文PXE、UEFI HTTPSブートでネットワーク起動を暗号化せよ</title>
-      <link>https://techfeed.io/entries/6a2c73f1931f6b51a25a2340?from=rss</link>
-      <description>6月12日、Jean-Tiare Le Bigot氏が「Introduction to UEFI HTTP(S) boot with Qemu/OVMF」と題した記事を公開した。インターネット経由でサーバーを起動する—そんなニーズが高まる現代において、従来のPXEブートは深刻なセキュリティホールとなっている。平文通信、署名なし、中間者攻撃への無防備。一方で、最新のUEFI環境では、HTTPS証明書による暗号化ブートが既に利用可能だ。本記事では、Qemu/OVMF環境でUEFI HTTP(S)ブートを実装する具体的手法を紹介する。なぜ今、PXEから脱却する必要があるのかPXE（Preboot eXecution Environment）は1990年代から使われてきたネットワークブート技術だが、現代の要求には適さない問題を抱えている。セキュリティの脆弱性が最大の課題だ。PXEはDHCPとTFTPという平文プロトコルに依存しており、ブートイメージの改ざんや盗聴を防ぐ仕組みがない。クラウド時代にインターネット経由でサーバーを起動する場面では、この脆弱性は致命的だ。加えて、運用面での課題も深刻で (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a2c73f1931f6b51a25a2340?from=rss</guid>
-      <pubDate>Fri, 12 Jun 2026 21:02:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 12:24:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:19:11 +0000</lastBuildDate>
     <item>
       <title>NASAが「アルテミスIII」のクルーを発表　2027年に地球低軌道で月着陸船のテスト実施へ</title>
       <link>https://sorae.info/space/20260610-artemis-iii-crew.html</link>
@@ -49,13 +49,6 @@
       <description>宇宙には、2つの天体が互いの重力に引かれて回り合う「連星」が数多く存在します。法政大学、東京大学、北京大学の研究者からなる研究チームは、こうした連星が周囲のガスと磁場の働きによって互いの距離を縮めていくという、新たな軌道… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260614-binary-star-inspiral.html</guid>
       <pubDate>Sun, 14 Jun 2026 09:06:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>「夢だけで社内会議は通せない」ANA・JALの宇宙事業リーダーが語る宇宙業界のリアルと参入する価値とは</title>
-      <link>https://sorabatake.jp/45811/</link>
-      <description>異業種から宇宙業界に参入した企業に焦点を当てた対談連載「Why Space Business～異業種企業が見出した宇宙業界の可能性～」、第1回に登場いただいたのは航空業界です。なぜ今、航空会社が宇宙を目指し、事業を続けているのか、ANAホールディングスと、日本航空の2社にお話を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/45811/</guid>
-      <pubDate>Mon, 25 May 2026 23:00:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
