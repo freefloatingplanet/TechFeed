@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:19:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:04:18 +0000</lastBuildDate>
     <item>
-      <title>NASAが「アルテミスIII」のクルーを発表　2027年に地球低軌道で月着陸船のテスト実施へ</title>
-      <link>https://sorae.info/space/20260610-artemis-iii-crew.html</link>
-      <description>NASA（アメリカ航空宇宙局）は2026年6月9日付で、アメリカ主導の有人月探査計画「Artemis（アルテミス）」のもとで2027年に実施が予定されている「Artemis III（アルテミスIII）」ミッションのクルー… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260610-artemis-iii-crew.html</guid>
-      <pubDate>Wed, 10 Jun 2026 10:13:10 +0000</pubDate>
+      <title>NASA有人月ミッション「アルテミスII」の公開画像から太陽のFコロナの構造を解析した研究成果</title>
+      <link>https://sorae.info/astronomy/20260617-sun-f-corona-artemis-ii-image.html</link>
+      <description>東京都市大学の津村耕司准教授と、石垣島天文台室長を務める国立天文台の有松亘講師は、NASA（アメリカ航空宇宙局）の有人月ミッション「Artemis II（アルテミスII）」の最中に撮影された広報用の画像から、太陽の周囲に… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260617-sun-f-corona-artemis-ii-image.html</guid>
+      <pubDate>Wed, 17 Jun 2026 01:56:03 +0000</pubDate>
     </item>
     <item>
       <title>Redwire、機密通信を守る量子鍵配送衛星の開発契約をESAから獲得【宇宙ビジネスニュース】</title>
@@ -35,6 +35,20 @@
       <description>私たちの宇宙には、重力でしかその存在を知ることができない「暗黒物質（ダークマター）」があると考えられています。その正体は現在でも分かっておらず、正体の絞り込みに関する研究は現在も続けられています。 ルーヴァン・カトリック… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260614-dark-matter-sign-from-gw-event.html</guid>
       <pubDate>Sun, 14 Jun 2026 12:08:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>はやぶさ2の探査予定天体「1998 KY26」の正体は旧ソ連の火星探査機？　受け止め方についても解説</title>
+      <link>https://sorae.info/astronomy/20260616-1998-ky26.html</link>
+      <description>JAXA（宇宙航空研究開発機構）の小惑星探査機「はやぶさ2」は、2031年に直径約11mの小さな小惑星「1998 KY26」を探査する予定です。接近に成功すれば、太陽系の多数派に関する詳細な観測データを提供してくれること… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260616-1998-ky26.html</guid>
+      <pubDate>Tue, 16 Jun 2026 12:38:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>初期宇宙の「小さな赤い点」の正体は？　分厚いガスに包まれた巨大なブラックホールか</title>
+      <link>https://sorae.info/astronomy/20260616-lrd-glimpse-17775.html</link>
+      <description>ジェームズ・ウェッブ宇宙望遠鏡の観測によって見つかるようになった、初期宇宙の謎の天体「LRD」（Little Red Dot、リトル・レッド・ドット、小さな赤い点）。その正体に関する新たな研究成果を、テキサス大学オーステ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260616-lrd-glimpse-17775.html</guid>
+      <pubDate>Tue, 16 Jun 2026 11:35:55 +0000</pubDate>
     </item>
     <item>
       <title>宇宙空間での大型構造物の組み立てが可能に？ Space Quartersが3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功 【宇宙ビジネスニュース】</title>

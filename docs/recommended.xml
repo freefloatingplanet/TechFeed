@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:04:14 +0000</lastBuildDate>
     <item>
       <title>カーネギーメロン大学の有名講義『Intro to Database Systems』を全てのプログラマに見てほしい</title>
       <link>https://zenn.dev/kaseken/articles/3913ba30af4d46</link>
@@ -19,59 +19,63 @@ DBの内部実装を解説する本は、日本語で読めるものだと『詳
       <pubDate>Mon, 15 Jun 2026 16:50:48 +0000</pubDate>
     </item>
     <item>
-      <title>ミニモニター用ダッシュボードから始まった、Rust製ハードウェア監視ツール「HardwareVisualizer」</title>
-      <link>https://zenn.dev/shm_7ec/articles/hardwarevisualizer-dev-story</link>
-      <description>はじめに
-この記事では、私が開発している HardwareVisualizer について書きます。ただし、単なる機能紹介ではなく、作っている中で見えてきた技術的な面白さに寄せた話です。
-最初から汎用的なハードウェア監視ツールを作ろうとしていたわけではありません。PC ケースの中に組み込む小さなモニター向けに構想を練っているうちに、今のようなハードウェアモニターへ変化していきました。実際に手を動かしてみると、Web UI、Tauri、Rust、OS API、CI/CD、ライセンス管理、コード署名、配布サイトまで含む、かなり総合的なプロジェクトになりました。
+      <title>高市陣営のAI中傷動画、共同通信と文春が相次ぎ訂正。矛盾した証拠をもとに国会で議論するのは正しいのか #エキスパートトピ（篠原修司） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/f76e747817ec867cbe0dd20d45ca4df75c2fce4d</link>
+      <description>高市早苗首相の陣営が、2025年10月の総裁選と2026年2月の衆院選で対立候補を中傷するAI動画を作成したと週刊文春が4月29日に報じ、共同通信も続報を伝えました。高市首相は一貫して関与を否定しています。 しかし、その後に公開された証拠の動画に時系列上の矛盾が見つかり、共同通信は動画のキャプチャ4枚を削除して記... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/f76e747817ec867cbe0dd20d45ca4df75c2fce4d</guid>
+      <pubDate>Wed, 17 Jun 2026 00:24:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>テスト観点を軸にした品質サイクルのすすめ</title>
+      <link>https://zenn.dev/bitkey_dev/articles/test-viewpoint-cycle</link>
+      <description>テスト観点を軸にした品質サイクルのすすめ
+「テストが終わらない」——ソフトウェア開発に携わる人なら、一度はこの言葉を口にしたことがあるのではないでしょうか。リリース直前に湧き出るバグ、収束しない不具合、膨れ上がるテストケース。なぜ、テストはいつも終わらないのか。
+結論から言います。テストを「する」ことを目的にしているからです。
+テストケースを消化すること、カバレッジを上げること、全項目を網羅すること。これらは手段であって、目的ではありません。本当に問われるべきは、「そのテストは品質を上げているのか？」という問いです。
+この記事では、テストそのものではなく、テスト観点を軸にした品質サイク... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/bitkey_dev/articles/test-viewpoint-cycle</guid>
+      <pubDate>Tue, 16 Jun 2026 00:45:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>AzureがあるのにAWSに頼るMicrosoft — AIで爆増するGitHubの負荷が自社クラウドの想定を超えた</title>
+      <link>https://techfeed.io/entries/6a31baf7b64d44d6ec66c4cd?from=rss</link>
+      <description>6月16日、RuntimeWireが「Microsoft's GitHub capacity crunch sends it to AWS」と題した記事を公開した。AIによるコーディング需要の急増でインフラが逼迫したGitHubが、親会社MicrosoftのAzureでは賄いきれず、競合のAWSにキャパシティを頼っているという実態を、事情に詳しい複数の関係者の証言をもとに報じている。Azureというクラウドサービスを持つMicrosoftが、戦略的資産であるGitHubの運用にAWSを使っている――これは「Azureが劣っている」という話ではない。MicrosoftのAI需要全体が自社クラウド戦略の枠組みを超えているという、より根深い問題の表れだ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a31baf7b64d44d6ec66c4cd?from=rss</guid>
+      <pubDate>Tue, 16 Jun 2026 21:07:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpaceXがAIコーディングツール「Cursor」を600億ドルで買収——IPO直後の電撃発表、開発者への影響は</title>
+      <link>https://techfeed.io/entries/6a31b9f8b64d44d6ec66c499?from=rss</link>
+      <description>6月16日、Archie Mitchellが「SpaceX buys AI coding start-up Cursor for $60bn days after IPO」と題した記事を公開した。SpaceXがAIコーディングエディタ「Cursor」を開発するAnysphereを600億ドルで買収することで合意したという、業界を驚かせるニュースだ。CursorはStripe、Adobe、Nvidiaといった大企業の開発者が日常的に使うツールであり、競合のGitHub Copilot（Microsoft）を脅かす存在として急成長してきた。そのCursorが、ロケット企業のSpaceXの傘下に入る——この組み合わせの異様さが、開発者コミュニティに動揺を広げている。IPO数日後の600億ドル買収、取引の構造はタイミングも衝撃的だった。SpaceXは先週金曜日にNasdaq市場に上場したばかりであり、元記事によれば857億ドルを調達し、時価総額は2兆ドルを超えたとされる。その数日後に発表されたこの買収は、同社が宇宙企業からAIプラットフォーム企業へと急速に変貌しつつあることを印象づけた。取引の (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a31b9f8b64d44d6ec66c499?from=rss</guid>
+      <pubDate>Tue, 16 Jun 2026 21:02:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI の不時着 ~ コードの国を追われ、要求の国へ ~</title>
+      <link>https://zenn.dev/layerx/articles/947ce6d31701cf</link>
+      <description>序幕
+さて、これはある朝の話です。
 
- HardwareVisu... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shm_7ec/articles/hardwarevisualizer-dev-story</guid>
-      <pubDate>Sun, 14 Jun 2026 05:50:51 +0000</pubDate>
+目を覚ましたあなたは、見知らぬ国に立っていました。ついこのあいだまで、あなたが暮らしていたのは「コードの国」。手を動かして実装を書ける者が敬われ、難しいアルゴリズムを解ける者が一目置かれる、そういう国でした。ところがある夜、竜巻のような風があなたを巻き上げて、気づけばあなたは国境の向こう、「要求の国」へ不時着していたのです。
+これからお話しするのは、その不時着がなぜ起きたのか、降り立った先がどんな国だったのか、という物語です。
+先に結びだけ申しておきましょう。あなたが降り立ったのは、新しく見つかった大陸ではありません。地図から消えかけていた、けれ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/layerx/articles/947ce6d31701cf</guid>
+      <pubDate>Tue, 16 Jun 2026 00:55:05 +0000</pubDate>
     </item>
     <item>
-      <title>OSSの「AI社員だけの会社」OneManCompany を動かしてみる ~Microsoft Foundry のモデルで~</title>
-      <link>https://zenn.dev/nomhiro/articles/omc-azure-foundry</link>
+      <title>データ基盤にDagsterを導入した話</title>
+      <link>https://zenn.dev/gatechnologies/articles/76b3f400c26d1a</link>
       <description>はじめに
-OSS の OneManCompany（以下 OMC）は、AI 社員が自律的に働く「会社の OS」 です。CEO（人間）がタスクを投げると、AI 社員たちが役割分担し、プロジェクトを命名し、成果物を作り、CEO に報告する、という一連の会社運営を AI だけで回します（OMC 自体の詳しい紹介は次の章でします）。
-この OMC、デフォルトでは OpenRouter 経由で LLM を呼びます。本記事では、この LLM を Azure の Microsoft Foundry にデプロイしたモデルに差し替えてみます。
-OneManCompany がどんなプロジェクトなのかを紹... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nomhiro/articles/omc-azure-foundry</guid>
-      <pubDate>Sun, 14 Jun 2026 14:11:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>戦術AIから戦略AIへ Snowflake SUMMIT 2026に参加して</title>
-      <link>https://zenn.dev/dataheroes/articles/snowflake-summit-2026-strategic-ai</link>
-      <description>Snowflake主催の最大のカンファレンスであるSUMMITに参加してきました。
-今年もサンフランシスコのMoscone Centerで、2026年6月1日から4日にかけて開催されました。
-私は2023年、2024年、2025年 と参加して、今回で4回目です。
-先に断っておくと、この記事では「今年どんな発表があったか」は扱いません。
-機能やアップデートの紹介は、すでに良い記事がたくさんあるので、そちらをご覧ください。
-この記事は、複数年度に渡って現地で色々感じたことを踏まえて、この先の一年を自分はどう動くか を自分なりに整理したものです。
+弊社のDataPlatformを整備していく中で、ワークフローエンジンを導入することになりました。データオーケストレーションツールと呼ばれることもあるコンポーネントです。結果として、OSS版のDagsterを導入することにしました。
+いざ導入してみると、当初の期待を超えて活用の幅がどんどん広がっています。この記事では、Dagsterに決めた経緯と実際にどう使っているかを紹介します。
 
- セッションは、やってみて出てきた課題の話だ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dataheroes/articles/snowflake-summit-2026-strategic-ai</guid>
-      <pubDate>Mon, 15 Jun 2026 05:40:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>従量制になったGithub Copilotの代わりにOpenCode GoをCopilot Chatのカスタムプロバイダとして使う</title>
-      <link>https://zenn.dev/kusuke/articles/82129236caa5f8</link>
-      <description>Github Copilotが2026年6月より、クレジット制というか従量課金モデルに移行してしまいました。企業の経営のためには仕方がないのですが、個人としてはできれば安く定額で使いたい。
-定額制で安くといえばOpenCode Goが有名ですが、こちらはVSCodeのチャットインテグレーションが公式対応していません。
-そこで今回は、VSCode最新バージョンから利用可能になっていた「Custom Endpoint」を使って$10で定額制のOpenCode Goを使えるようにしてみました。基本設定はこちらの記事を参考にやってみました。この記事は100％人間によって書かれています。
-VSCo... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kusuke/articles/82129236caa5f8</guid>
-      <pubDate>Sun, 14 Jun 2026 01:07:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>個人開発はなぜ誰も使わないのか──AIで「作る壁」が消えた時代に大事になること</title>
-      <link>https://zenn.dev/yun_bow/articles/6e6bcbf127072a</link>
-      <description>はじめに
-「動くものができた。GitHub に push した。Product Hunt にも出した。——でも、誰も使わない。」
-個人開発をやったことがある人なら、一度はこの静けさを味わったはずだ。技術的には完成しているのに、リアクションがゼロに近い。バグでもなければ、デザインが致命的に悪いわけでもない。ただ、誰の生活にも食い込まなかった。
-そして 2026 年現在、この「誰も使わない問題」は 以前より深刻になっている可能性がある。理由は逆説的だ。AI によって「アプリを作る壁」が劇的に下がったからである。作るのが簡単になったのに、なぜ使われないアプリは減らないのか。むしろ増えている... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yun_bow/articles/6e6bcbf127072a</guid>
-      <pubDate>Sun, 14 Jun 2026 00:14:20 +0000</pubDate>
+ Dagsterに決めた経緯
+
+ 背景
+弊社では定期実行処理の基盤が整備されておらず、複数のツールで点在している状態でした。
+小規模であればなんとかなるのですが、会社や分析基盤の成長に伴い何が... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/gatechnologies/articles/76b3f400c26d1a</guid>
+      <pubDate>Mon, 15 Jun 2026 05:42:37 +0000</pubDate>
     </item>
     <item>
       <title>フロントエンドエンジニアがFigmaのオートレイアウトを駆使して、実装に直結するUIを設計した話</title>
@@ -87,32 +91,27 @@ VSCo... (source: Zennのトレンド)</description>
       <pubDate>Mon, 15 Jun 2026 04:00:09 +0000</pubDate>
     </item>
     <item>
-      <title>【オブジェクト指向】PHP と Go を比較して学ぶ OOP</title>
-      <link>https://zenn.dev/yuitonn/articles/d5c8c85c211cfe</link>
+      <title>URLパスと型で"認可"を実装パターンにする</title>
+      <link>https://zenn.dev/macopy/articles/551dcf5ba8c6ac</link>
+      <description>Webシステムにおいてユーザーエージェントが誰であるかを確かめる「認証」については、さまざまな実装パターンが提案されており、フレームワーク内にも組み込まれていることが多いように思えます。
+一方で、誰がどのリソースを閲覧できるのか、どういう操作が許されるかという認可は、RBACやABAC、OPAのようなポリシーエンジンなど「モデル」としては整理されています。しかし、それを実際の HTTP ハンドラのコードにどう書くかという「記述のしかた」はアプリケーションごとに場当たりになりがちだと感じています。同じ「このリソースを触れるのは誰か」という判断が、ハンドラやミドルウェアのあちこちに少しずつ違... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/macopy/articles/551dcf5ba8c6ac</guid>
+      <pubDate>Tue, 16 Jun 2026 05:01:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI が大量にアウトプットしてくるので認知負荷を下げる Skill を作った</title>
+      <link>https://zenn.dev/hataluck/articles/0752919b305a9f</link>
       <description>はじめに
-Laravel や Symfony のようなフレームワークを使って開発していると、interface・trait・abstract class といった OOP の部品を自分の手で書く機会は意外と少ないです。コントローラを書き、Eloquent でクエリを組み立て、ルートを定義するという範囲では、これらのワードはほとんど登場しません。
-しかし、フレームワークの内部では、これらが当たり前のように使われています。つまり「使わないから知らなくていい」のではなく、「書く機会がないせいで、いつ使うべきか分からないまま」になりがちな部品です。
-この記事では、PHP の OOP の基本部... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yuitonn/articles/d5c8c85c211cfe</guid>
-      <pubDate>Mon, 15 Jun 2026 09:37:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>逆引きアクセシビリティ 〜見た目も妥協しない UI コンポーネント実装カタログ〜</title>
-      <link>https://zenn.dev/kagan/books/accessible-ui-catalog</link>
-      <description>「キーボードで操作できること」「状態が支援技術に伝わること」……。WCAG のようなアクセシビリティガイドラインは、達成基準というルール単位で整理されています。でも、いざ UI を実装するときに知りたいのは、「“今から作るこのコンポーネント・この機能”では、どの基準を気にすればいいのか」ではないでしょうか。
+AI 時代になって、コードを「書く」コストはずいぶん下がりました。
+その一方で、「読む・理解する」コストはむしろ上がっている気がしています。
+AI が一気に生成した大量の Markdown、巨大な PR の diff、初見のリポジトリ、長い設計メモや仕様書……。
+こうした「理解しないといけない対象」の量と速度が増えて、認知負荷の高まりがあちこちで叫ばれていますよね。
+もちろん「AI に要約させればいい」のですが、これにも地味な不満がありました。
 
-この本は、その悩みに応える「逆引き」のカタログです。アコーディオン、ツールチップ、タブ……と、作るものを起点に、考慮すべきアクセシビリティの観点を「なぜ大事か」「どう確認するか」とセットで一覧にしました。
-
-そしてもう一つのテーマが、「ビジュアルデザインを諦めない」こと。アクセシビリティとビジュアルデザイン（見た目の表現）はしばしば対立すると思われがちですが、これは技術で両立できる部分もあります。見た目の表現が複雑な実装例もあわせて紹介します。 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kagan/books/accessible-ui-catalog</guid>
-      <pubDate>Sun, 14 Jun 2026 13:42:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>「アイデアは自分、文章はAI」という言い訳が嘘である理由 — 執筆こそが思考である</title>
-      <link>https://techfeed.io/entries/6a2f17d3931f6b51a25acf7f?from=rss</link>
-      <description>6月13日、Fernando Borrettiが「Human Routers of Machine Words」と題した記事を公開した。ChatGPTやClaudeといったAI執筆ツールが普及し、技術ブログやドキュメントをAIに書かせる開発者が増えている。彼らはこう弁明する。「アイデアは自分のもので、文章はAIが書いただけ」と。しかしBorrettiは、この区別そのものが根本的に誤っていると主張する。なぜなら、執筆という行為こそが思考そのものであり、書かない「思想家」は思考していないからだ。「アイデア」と「文章」を分離する都合の良い嘘AI執筆を擁護する人々は「アイデアは自分のもので、文章はAIが書いた」と主張する。これは要点を箇条書きにしてAIに投げ、それを段落に整形させたという意味だと著者は解釈する。この主張には2つの問題がある。第一に、箇条書きを文章にすらできない人間のアイデアに価値があるはずがないという直接的な問題だ。第二に、より本質的な問題として、崇高な「アイデア」と単なる「文章」を区別する考え方自体が誤りだという指摘がある。この区別は非常に都合がよい。AIの出力が駄作でも「ア (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a2f17d3931f6b51a25acf7f?from=rss</guid>
-      <pubDate>Sun, 14 Jun 2026 21:06:27 +0000</pubDate>
+出てくる見せ方が毎回似偏る（AI 臭い文章）。箇条書きのテキスト、など。
+あとで別の角度から見たくなると、また同じ対象を丸ごと ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hataluck/articles/0752919b305a9f</guid>
+      <pubDate>Mon, 15 Jun 2026 12:15:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

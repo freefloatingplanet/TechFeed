@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:19:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:04:21 +0000</lastBuildDate>
     <item>
-      <title>グラフネイティブ時系列のためのフィルタリングされた共形楕円体</title>
-      <link>https://arxiv.org/abs/2606.17014v1</link>
-      <description>多変量時系列の共同予測セットは、座標間の依存性に適応しながら単一のイベントを制御する必要があります。我々は、フィルタリングされた共形楕円体を研究します。凍結された状態空間フィルタは、1 ステップの予測平均と共分散を出力し、結果として得られるマハラノビス スコアに分割共形較正が適用されます。フィルタは楕円体の形状を選択するために使用され、共形較正はスカラー半径を選択するため、構築は、カバレッジのためにガウス裾確率に頼ることなく、学習された予測共分散の恩恵を受けます。主な困難は、フィルタリングされたスコアが依存しており、学習された再帰フィルタは、生の隠れ状態で収縮する必要がないことです。したがって、我々は、同じ将来の出力ガウス法則のシーケンスを生成する隠れ状態を識別する観測可能な予測法則商での収縮を分析します。安定したベイズガウス射影フィルタ、共分散境界、および有限ホライズン観測可能性フィッシャー条件の下では、小さな過剰ガウス負対数尤度は、学習された放出法則の収縮を意味します。閾値自己共分散包絡線と組み合わせると、依存性の下でのフィルタ付き分割共形予測のチェビシェフ型の近似カバレッジ境界が (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.17014v1</guid>
-      <pubDate>Mon, 15 Jun 2026 17:46:19 +0000</pubDate>
+      <title>物理法則に基づいたニューラルネットワークを用いた非線形偏微分方程式を解くための凸準線形化法</title>
+      <link>https://arxiv.org/abs/2606.18175v1</link>
+      <description>本稿では、非線形偏微分方程式（PDE）の順方向解法として、ベルマン・カラバ準線形化によって非線形問題を線形部分問題のシーケンスに還元する数値解法を提案する。各部分問題は、パラメータに関して線形な試行空間へのコロケーションによって離散化され、単一の直接線形最小二乗QR分解によって解かれる。試行空間は、線形学習可能（LiL）と名付け、ランダム特徴極限学習マシン、スペクトル多項式基底、三角関数展開など、学習可能なパラメータが線形に現れる表現から構成され、それぞれが物理情報に基づくニューラルネットワークとして実装される。この手法は、標準的なPINNを制限する非凸勾配ベースの学習を、凸ステップごとの解法に置き換える。外側反復の局所ニュートン・カントロビッチ収束が、明示的な小ささ条件の下で残差制限近傍に収束することを確立し、限界精度は最適化許容誤差ではなく、試行空間の最良近似残差によって決定される。 LiL-Qと表記されるこの手法は、スカラー非線形偏微分方程式（Bratu、粘性Burgers、Buckley-Leverett）、連成系（平面ひずみ弾性と2次元および3次元空間における非圧縮性Navi (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.18175v1</guid>
+      <pubDate>Tue, 16 Jun 2026 17:09:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
