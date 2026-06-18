@@ -7,17 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 11:04:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 10:26:29 +0000</lastBuildDate>
     <item>
-      <title>Spring Boot 4.1では、gRPCの自動構成、SSRF対策、Kotlin 2.3のサポートが追加されました。</title>
-      <link>https://www.infoq.com/news/2026/06/spring-boot-4-1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Broadcomは2026年6月10日にSpring Boot 4.1をリリースし、gRPCの自動構成、HTTPクライアントSSRF対策、Kotlin 2.3へのアップグレードを実現しました。また、
-
-遅延データソース接続、@Asyncメソッドの非同期コンテキスト伝播、OpenTelemetryサポートの改善も含まれています。異例なことに、Broadcomは
-
-リリース日を2度変更しました。最初は5月11日～22日から6月1日～5日、そして最終的には6月8日～12日に変更されました。Karsten Silz著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/06/spring-boot-4-1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 15 Jun 2026 05:00:00 +0000</pubDate>
+      <title>Javaニュースまとめ：A2A Java SDK 1.0、Jakarta EE 12、JNoSQL、GraalVM、Micrometer、OpenXava、Gradle</title>
+      <link>https://www.infoq.com/news/2026/06/java-news-roundup-jun08-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>2026年6月8日付けの今週のJavaニュースまとめでは、A2A Java SDK 1.0のGAリリース、Jakarta EE 12のアップデート、Micrometer MetricsとMicrometer Tracingのポイントリリース、GraalVM Native Build ToolsとOpenXavaのメンテナンスリリース、Gradle 9.6の2番目のリリース候補、そしてEclipse JNoSQL 1.2の最初のマイルストーンリリースが注目されています。執筆：Michael Redlich (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/06/java-news-roundup-jun08-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 16 Jun 2026 02:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

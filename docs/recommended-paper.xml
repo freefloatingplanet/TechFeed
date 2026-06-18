@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 11:04:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 10:26:27 +0000</lastBuildDate>
     <item>
-      <title>物理法則に基づいたニューラルネットワークを用いた非線形偏微分方程式を解くための凸準線形化法</title>
-      <link>https://arxiv.org/abs/2606.18175v1</link>
-      <description>本稿では、非線形偏微分方程式（PDE）の順方向解法として、ベルマン・カラバ準線形化によって非線形問題を線形部分問題のシーケンスに還元する数値解法を提案する。各部分問題は、パラメータに関して線形な試行空間へのコロケーションによって離散化され、単一の直接線形最小二乗QR分解によって解かれる。試行空間は、線形学習可能（LiL）と名付け、ランダム特徴極限学習マシン、スペクトル多項式基底、三角関数展開など、学習可能なパラメータが線形に現れる表現から構成され、それぞれが物理情報に基づくニューラルネットワークとして実装される。この手法は、標準的なPINNを制限する非凸勾配ベースの学習を、凸ステップごとの解法に置き換える。外側反復の局所ニュートン・カントロビッチ収束が、明示的な小ささ条件の下で残差制限近傍に収束することを確立し、限界精度は最適化許容誤差ではなく、試行空間の最良近似残差によって決定される。 LiL-Qと表記されるこの手法は、スカラー非線形偏微分方程式（Bratu、粘性Burgers、Buckley-Leverett）、連成系（平面ひずみ弾性と2次元および3次元空間における非圧縮性Navi (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.18175v1</guid>
-      <pubDate>Tue, 16 Jun 2026 17:09:59 +0000</pubDate>
+      <title>LOCUSによる法の自由化：米国地方条例集</title>
+      <link>https://arxiv.org/abs/2606.19334v1</link>
+      <description>法務AIの進歩は、権威ある法律文書への大規模なアクセスにますます依存するようになっています。しかし、アメリカ法の最も重要な層の一つである地方条例は、既存の機械可読コーパスにほとんど含まれていません。地方条例は、ゾーニング、住宅、事業許可、公衆衛生、騒音、動物管理、その他多くの日常的な規制領域を規定していますが、大規模な研究アクセスではなく、人間による閲覧を目的としたベンダープラットフォームに分散しています。そこで私たちは、米国の市町村および郡の条例を網羅した包括的なコーパスと郡ごとに統一されたアクセスレイヤーであるLOCUS（米国地方条例コーパス）を紹介します。研究者向けに公開されている生のコーパスは、公開されている市町村および郡の条例のほぼすべてを網羅しています。この生のコーパスには、9,239の市と郡の条例が含まれています。より小規模な郡ごとに統一されたLOCUSアクセスレイヤーは、米国の3,144の郡のうち、人口の大部分を占める2,309の郡をカバーしています。私たちはOCRを使用して、これまで法律が公共のリソースとなることを妨げてきた無数の文書形式を処理します。再現性、下流の法 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.19334v1</guid>
+      <pubDate>Wed, 17 Jun 2026 17:58:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
