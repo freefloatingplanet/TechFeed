@@ -7,16 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 10:26:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:43:28 +0000</lastBuildDate>
     <item>
-      <title>ポート開放なしで外出先から自宅 Mac に SSH 接続し、Claude Code を動かす</title>
-      <link>https://zenn.dev/coa00/articles/tailscale-ssh-home-mac-claude-code</link>
+      <title>AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）</title>
+      <link>https://zenn.dev/genshi_ai/articles/88f62861a953c1</link>
       <description>はじめに
-自宅の Mac に外出先から入って、Claude Code を動かしたい。そう思って調べ始めたのですが、「DDNS」「ポート転送」「二重ルーター」「DMZ」と知らない言葉が次々に出てきて、なかなか前に進めませんでした。
-最終的にたどり着いたのは、ルーターの設定を一切触らずに済む方法でした。結論を先にお伝えすると、自宅 Mac への外部からの SSH は、ポートを 1 つも開けずに実現できます。 カギになったのは Tailscale です。
-私の自宅は NURO 光の配布ルーターとメッシュ Wi-Fi を重ねた二重ルーター構成で、よくあるポート転送のやり方は早々に行き詰まりま... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/coa00/articles/tailscale-ssh-home-mac-claude-code</guid>
-      <pubDate>Tue, 16 Jun 2026 13:53:12 +0000</pubDate>
+どうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。
+前回は比較的ディープなPDF圧縮の話をしましたね。
+https://zenn.dev/ikora/articles/b50ca6275eddc9
+今回はずばりAI臭がテーマです。
+最近は右を左も、上下も逆さまもAIで困ってしまいますな。
+特にAIに文章を書かせると、染み付くAI臭。
+これを消そうと思って検索すると出てくるのはだいたい「全角ダッシュをやめろ」「『いかがでしたか』を消せ」みたいな表層のチェックリスト。
+そのへんはもう知っているんですよ。それでも臭うから困っているわけです。
+ということで、AIで書いた日本... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/genshi_ai/articles/88f62861a953c1</guid>
+      <pubDate>Wed, 17 Jun 2026 01:34:53 +0000</pubDate>
     </item>
     <item>
       <title>カーネギーメロン大学の有名講義『Intro to Database Systems』を全てのプログラマに見てほしい</title>
@@ -29,6 +35,13 @@ DBの内部実装を解説する本は、日本語で読めるものだと『詳
       <pubDate>Mon, 15 Jun 2026 16:50:48 +0000</pubDate>
     </item>
     <item>
+      <title>TOEIC教材や対策を全く活用せずに半年でTOEIC700点を超えた真の英語力を身につけるための勉強法</title>
+      <link>https://zenn.dev/yskn_sid25/books/english_score_up</link>
+      <description>OSS活動や外資系企業への就職を目指すソフトウェアエンジニアにとって、英語力の向上は避けて通れない課題です。また普段から情報収集をするにあたっては、一次情報に素早くアクセスするために英語の読む・聴く能力が非常に重要です。この本では、TOEIC教材や試験テクニックを全く活用せずに、半年でTOEIC730点に到達した実体験をもとにした、真の英語力を身につけるための再現性ある勉強方法について解説します。また書籍の中では英語学習に役立つAI Skillも公開しています。 (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yskn_sid25/books/english_score_up</guid>
+      <pubDate>Wed, 17 Jun 2026 21:37:50 +0000</pubDate>
+    </item>
+    <item>
       <title>AzureがあるのにAWSに頼るMicrosoft — AIで爆増するGitHubの負荷が自社クラウドの想定を超えた</title>
       <link>https://techfeed.io/entries/6a31baf7b64d44d6ec66c4cd?from=rss</link>
       <description>6月16日、RuntimeWireが「Microsoft's GitHub capacity crunch sends it to AWS」と題した記事を公開した。AIによるコーディング需要の急増でインフラが逼迫したGitHubが、親会社MicrosoftのAzureでは賄いきれず、競合のAWSにキャパシティを頼っているという実態を、事情に詳しい複数の関係者の証言をもとに報じている。Azureというクラウドサービスを持つMicrosoftが、戦略的資産であるGitHubの運用にAWSを使っている――これは「Azureが劣っている」という話ではない。MicrosoftのAI需要全体が自社クラウド戦略の枠組みを超えているという、より根深い問題の表れだ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
@@ -36,11 +49,27 @@ DBの内部実装を解説する本は、日本語で読めるものだと『詳
       <pubDate>Tue, 16 Jun 2026 21:07:03 +0000</pubDate>
     </item>
     <item>
-      <title>SpaceXがAIコーディングツール「Cursor」を600億ドルで買収——IPO直後の電撃発表、開発者への影響は</title>
-      <link>https://techfeed.io/entries/6a31b9f8b64d44d6ec66c499?from=rss</link>
-      <description>6月16日、Archie Mitchellが「SpaceX buys AI coding start-up Cursor for $60bn days after IPO」と題した記事を公開した。SpaceXがAIコーディングエディタ「Cursor」を開発するAnysphereを600億ドルで買収することで合意したという、業界を驚かせるニュースだ。CursorはStripe、Adobe、Nvidiaといった大企業の開発者が日常的に使うツールであり、競合のGitHub Copilot（Microsoft）を脅かす存在として急成長してきた。そのCursorが、ロケット企業のSpaceXの傘下に入る——この組み合わせの異様さが、開発者コミュニティに動揺を広げている。IPO数日後の600億ドル買収、取引の構造はタイミングも衝撃的だった。SpaceXは先週金曜日にNasdaq市場に上場したばかりであり、元記事によれば857億ドルを調達し、時価総額は2兆ドルを超えたとされる。その数日後に発表されたこの買収は、同社が宇宙企業からAIプラットフォーム企業へと急速に変貌しつつあることを印象づけた。取引の (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a31b9f8b64d44d6ec66c499?from=rss</guid>
-      <pubDate>Tue, 16 Jun 2026 21:02:48 +0000</pubDate>
+      <title>マークダウンやHTMLをSlackで共有するのが辛すぎて社内ツールを作った話</title>
+      <link>https://zenn.dev/tokium_dev/articles/tokium-share-pages</link>
+      <description>最近、めっきりNotionを書かなくなりました。代わりに増えたのが、Claude Code で作ったHTMLのダッシュボードやMarkdownのレポートを、そのままSlackに貼って共有するスタイルです。
+ただ、これがそのままだと地味に辛いんですよね。Slackに貼ってもプレビューが効かないので、受け取った相手は毎回ダウンロードして、ブラウザやエディタで開き直すことになる。出先でスマホからパッと確認することもできなくて、読み手のことを考えてスクショを別途添えたりしていて、これはどうにかならんものかとげんなりすることが多かったです。
+なので、マークダウン/HTML をドラッグ&amp;ドロ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/tokium-share-pages</guid>
+      <pubDate>Thu, 18 Jun 2026 01:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>社内MCPを"素早く安全に"増やすために、ちゃんとしておきたい共通基盤（認証・認可・ログの話）</title>
+      <link>https://zenn.dev/tribeau/articles/0d03b4c9fdf360</link>
+      <description>トリビューでCTOをしている小尾（@obiyuta）です。
+弊社では、社内向けに複数のMCPサーバーを運用しており、全社全員が各種AIクライアントからMCP経由で様々な社内システムを扱える環境を提供しています。
+MCP自体は小さく始められますが、全社に開いて増やし続けるとなると、最初に土台を固めておきたくなります。
+この記事では、増え続けるMCPを安全に提供し、改善し続けるための認証・認可やログなどの共通基盤を紹介します。
+
+ 基盤整備の背景
+現在、一人ひとりがより大きな課題・仮説に向き合い、多くの意思決定を行えるよう、ゼロベースでAIを前提とした業務の再構築を進めています。
+全社利用が... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tribeau/articles/0d03b4c9fdf360</guid>
+      <pubDate>Thu, 18 Jun 2026 04:13:32 +0000</pubDate>
     </item>
     <item>
       <title>「コードを読むだけ」のAIレビューを超えて——Greptileが実行層を組み込んだ「TREX」の設計思想</title>
@@ -92,30 +121,6 @@ DBの内部実装を解説する本は、日本語で読めるものだと『詳
 この記事では、この現象を整理したうえで、既存の研究でどのような解決策が取られているのかを紹介し、どのように実務に応... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/layerx/articles/b36ceffe6b5e20</guid>
       <pubDate>Wed, 17 Jun 2026 02:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI が大量にアウトプットしてくるので認知負荷を下げる Skill を作った</title>
-      <link>https://zenn.dev/hataluck/articles/0752919b305a9f</link>
-      <description>はじめに
-AI 時代になって、コードを「書く」コストはずいぶん下がりました。
-その一方で、「読む・理解する」コストはむしろ上がっている気がしています。
-AI が一気に生成した大量の Markdown、巨大な PR の diff、初見のリポジトリ、長い設計メモや仕様書……。
-こうした「理解しないといけない対象」の量と速度が増えて、認知負荷の高まりがあちこちで叫ばれていますよね。
-もちろん「AI に要約させればいい」のですが、これにも地味な不満がありました。
-
-出てくる見せ方が毎回似偏る（AI 臭い文章）。箇条書きのテキスト、など。
-あとで別の角度から見たくなると、また同じ対象を丸ごと ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hataluck/articles/0752919b305a9f</guid>
-      <pubDate>Mon, 15 Jun 2026 12:15:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>リリースして終わりにしない ― アウトカム計測を開発フローに組み込んで、チームの価値探索サイクルを速くした話</title>
-      <link>https://zenn.dev/lincwell_inc/articles/7d50ff57ccafb5</link>
-      <description>はじめに
-AIの活用で、機能を「作る」スピードはどんどん速くなっています。私の所属するプロダクトチームでも、AIを積極的に活用して知見を共有し合いながら、安定して開発を進められるようになってきました。
-一方で、速く作れるようになったぶん、「リリースした機能が本当に価値を生んだのか」を検証するスピードのほうが、相対的にボトルネックになりやすいと感じていました。作る速度だけが上がっても、それが価値につながったかを確かめられなければ、次の一手の精度は上がりません。そこでチームとしてさらに一歩進むために、開発フローの中でアウトカムを計測しやすくし、「リリース → 検証 → 次の仮説」という価... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lincwell_inc/articles/7d50ff57ccafb5</guid>
-      <pubDate>Wed, 17 Jun 2026 06:05:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Jun 2026 10:26:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:43:37 +0000</lastBuildDate>
     <item>
-      <title>Javaニュースまとめ：A2A Java SDK 1.0、Jakarta EE 12、JNoSQL、GraalVM、Micrometer、OpenXava、Gradle</title>
-      <link>https://www.infoq.com/news/2026/06/java-news-roundup-jun08-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>2026年6月8日付けの今週のJavaニュースまとめでは、A2A Java SDK 1.0のGAリリース、Jakarta EE 12のアップデート、Micrometer MetricsとMicrometer Tracingのポイントリリース、GraalVM Native Build ToolsとOpenXavaのメンテナンスリリース、Gradle 9.6の2番目のリリース候補、そしてEclipse JNoSQL 1.2の最初のマイルストーンリリースが注目されています。執筆：Michael Redlich (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/06/java-news-roundup-jun08-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 16 Jun 2026 02:30:00 +0000</pubDate>
+      <title>Ky 2.0 Fetch APIラッパー：改良されたフック、よりスマートなタイムアウト、組み込みのスキーマ検証機能を搭載</title>
+      <link>https://www.infoq.com/news/2026/06/ky-2-revamp-axios/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Ky 2.0は、Fetch APIをベースにしたオープンソースのJavaScript HTTPクライアントで、フック処理の統合、タイムアウト管理の強化、URL処理の改善など、大幅なアップデートが施されています。今回のリリースには、スキーマ検証ライブラリによるレスポンス検証機能が含まれており、以前のバージョンからの移行にも対応しています。axiosに代わる軽量な選択肢となることを目指しています。執筆：Daniel Curtis (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/06/ky-2-revamp-axios/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 18 Jun 2026 11:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

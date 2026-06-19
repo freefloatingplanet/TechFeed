@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Jun 2026 10:26:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:43:35 +0000</lastBuildDate>
     <item>
-      <title>LOCUSによる法の自由化：米国地方条例集</title>
-      <link>https://arxiv.org/abs/2606.19334v1</link>
-      <description>法務AIの進歩は、権威ある法律文書への大規模なアクセスにますます依存するようになっています。しかし、アメリカ法の最も重要な層の一つである地方条例は、既存の機械可読コーパスにほとんど含まれていません。地方条例は、ゾーニング、住宅、事業許可、公衆衛生、騒音、動物管理、その他多くの日常的な規制領域を規定していますが、大規模な研究アクセスではなく、人間による閲覧を目的としたベンダープラットフォームに分散しています。そこで私たちは、米国の市町村および郡の条例を網羅した包括的なコーパスと郡ごとに統一されたアクセスレイヤーであるLOCUS（米国地方条例コーパス）を紹介します。研究者向けに公開されている生のコーパスは、公開されている市町村および郡の条例のほぼすべてを網羅しています。この生のコーパスには、9,239の市と郡の条例が含まれています。より小規模な郡ごとに統一されたLOCUSアクセスレイヤーは、米国の3,144の郡のうち、人口の大部分を占める2,309の郡をカバーしています。私たちはOCRを使用して、これまで法律が公共のリソースとなることを妨げてきた無数の文書形式を処理します。再現性、下流の法 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.19334v1</guid>
-      <pubDate>Wed, 17 Jun 2026 17:58:22 +0000</pubDate>
+      <title>ELMA：楕円ベースの棒グラフの長軸推定器</title>
+      <link>https://arxiv.org/abs/2606.20370v1</link>
+      <description>銀河棒は円盤銀河における重要な非軸対称構造であり、角運動量の再分配を促進し、永年進化、中心質量の蓄積、核構造の形成に寄与する。しかし、棒の長さの堅牢かつ均質な測定は、特に大規模な画像サーベイでは依然として困難であり、手動による推定は時間がかかり、方法論の選択に左右される。我々は、候補棒系として既に特定されている銀河の棒の長さを自動的に推定するための、スタンドアロンでpipインストール可能なPythonパッケージであるelmaを紹介する。この方法は、反復的な楕円等光度線フィッティングを使用して半径方向の楕円率プロファイルをトレースし、局所的な楕円率の最大値に関連付けられた長半径から投影された棒の長さの推定値を特定することにより、2次元画像データに直接作用する。elmaは、画像のWCS情報とユーザーが指定した赤方偏移を使用して、角度測定値を投影された物理的な長さに変換する。本パッケージは、GOODS-South領域の棒状銀河のJWST/NIRCam画像を用いて実証されています。コードはMITライセンスの下、GitHubのリポジトリで公開されています。 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.20370v1</guid>
+      <pubDate>Thu, 18 Jun 2026 15:34:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
