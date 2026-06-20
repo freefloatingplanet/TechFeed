@@ -7,32 +7,47 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 10:43:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 09:23:22 +0000</lastBuildDate>
     <item>
-      <title>AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）</title>
-      <link>https://zenn.dev/genshi_ai/articles/88f62861a953c1</link>
-      <description>はじめに
-どうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。
-前回は比較的ディープなPDF圧縮の話をしましたね。
-https://zenn.dev/ikora/articles/b50ca6275eddc9
-今回はずばりAI臭がテーマです。
-最近は右を左も、上下も逆さまもAIで困ってしまいますな。
-特にAIに文章を書かせると、染み付くAI臭。
-これを消そうと思って検索すると出てくるのはだいたい「全角ダッシュをやめろ」「『いかがでしたか』を消せ」みたいな表層のチェックリスト。
-そのへんはもう知っているんですよ。それでも臭うから困っているわけです。
-ということで、AIで書いた日本... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/genshi_ai/articles/88f62861a953c1</guid>
-      <pubDate>Wed, 17 Jun 2026 01:34:53 +0000</pubDate>
+      <title>リファクタリングにドメイン知識が要るなら、その知識はどこに置くのか</title>
+      <link>https://zenn.dev/417/articles/ai-era-domain-knowledge-placement</link>
+      <description>2026年6月、あるポストが流れてきた。
+「正しくリファクタリングしようとするとドメイン知識が必須になり、顧客の文脈や要求まで遡る必要がある」という趣旨だ。
+この指摘は正しい。
+問題は「ではそのドメイン知識を、開発プロセスのどこに、どんな形式で保管するのか」が語られることが少ない点にある。
+知識の保管場所を間違えると、リファクタリングの前提になる情報そのものが腐敗する。
+AIコーディングエージェントが当たり前になった現在、この問題はさらに深刻になっている。
+本記事では、プロダクト開発で扱う知識を4種類に分類し、それぞれの適切な配置先を整理する。
+
+ 知識には4つの種類がある
+t_wada... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/417/articles/ai-era-domain-knowledge-placement</guid>
+      <pubDate>Fri, 19 Jun 2026 04:26:17 +0000</pubDate>
     </item>
     <item>
-      <title>カーネギーメロン大学の有名講義『Intro to Database Systems』を全てのプログラマに見てほしい</title>
-      <link>https://zenn.dev/kaseken/articles/3913ba30af4d46</link>
-      <description>データベース (DB) について、どのように勉強していますか？
-MySQLやPostgreSQL等の具体的なデータベース管理システム (DBMS) の仕様、効率的なSQLの書き方、あるいはスキーマ設計のベストプラクティス等の「DBの使い方」を教える技術書は、たくさん見かけます。そういった本を読んだことのある方は多いでしょう。
-一方で、より普遍的な「DBの仕組み」に関して、勉強したことのある方は少ないのではないでしょうか？
-DBの内部実装を解説する本は、日本語で読めるものだと『詳説データベース』くらいしか思い浮かびません。ただ、この本は結構難易度が高く、手軽に読めるものでもありません (※... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kaseken/articles/3913ba30af4d46</guid>
-      <pubDate>Mon, 15 Jun 2026 16:50:48 +0000</pubDate>
+      <title>AWSに繋げなくてもテストできる？新サービス「AWS Blocks」を触ってみた</title>
+      <link>https://zenn.dev/aws_japan/articles/aws-blocks-ai-agent-intro</link>
+      <description>はじめに
+先日、AWSから AWS Blocks という新しい開発者向けツールがリリースされました。
+ドキュメントをひと通り読んで実際にAIエージェントのデモアプリを作ってみたら、思っていた以上に「これは良いぞ」となったので紹介します。結論から言うと、「ローカルで即動く・AWS接続不要・そのままデプロイできる」 ツールです。
+この記事では、
+
+AWS Blocks って結局なに？
+なにが嬉しいの？
+実際にAIエージェントアプリを作って動かしてみる
+
+という流れで、コード多めで紹介していきます。
+!
+この記事の内容は v0.1.1 時点のものです。出たばかりのサービスなので、APIは今... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/aws-blocks-ai-agent-intro</guid>
+      <pubDate>Thu, 18 Jun 2026 06:20:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>CloudflareがAIエージェント専用「60分使い捨てアカウント」を提供開始 — アカウント登録なしでそのままデプロイ、クレームすれば本番移行も</title>
+      <link>https://techfeed.io/entries/6a35ad6193cce08195a9b981?from=rss</link>
+      <description>6月19日、Cloudflareが「Temporary Cloudflare Accounts for AI agents」と題した記事を公開した。AIエージェントがアカウント登録なしにCloudflareへ自律的にデプロイできる「一時アカウント」機能の詳細を紹介するものだ。コーディングエージェントがコードを書き、そのままデプロイまで自律で完結させようとすると、必ずどこかで止まる。ブラウザベースのOAuthフロー、ダッシュボードでのクリック操作、APIトークンのコピー＆ペースト、多要素認証——これらはすべて「人間がいる前提」で設計されたUIだ。開発者の隣でインタラクティブに動くコパイロット型エージェント（人間が都度確認・承認しながら使うタイプ）ならまだ回避できるが、バックグラウンドで自律動作するエージェントにとっては完全な停止点になる。MCP（Model Context Protocol）やA2A（Agent-to-Agent）プロトコルの普及によってエージェントの自律化が加速するなか、「認証の壁」はエージェント開発者が最初にぶつかる実用上の課題として広く認識されるようになっていた。C (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a35ad6193cce08195a9b981?from=rss</guid>
+      <pubDate>Fri, 19 Jun 2026 20:58:09 +0000</pubDate>
     </item>
     <item>
       <title>TOEIC教材や対策を全く活用せずに半年でTOEIC700点を超えた真の英語力を身につけるための勉強法</title>
@@ -40,13 +55,6 @@ DBの内部実装を解説する本は、日本語で読めるものだと『詳
       <description>OSS活動や外資系企業への就職を目指すソフトウェアエンジニアにとって、英語力の向上は避けて通れない課題です。また普段から情報収集をするにあたっては、一次情報に素早くアクセスするために英語の読む・聴く能力が非常に重要です。この本では、TOEIC教材や試験テクニックを全く活用せずに、半年でTOEIC730点に到達した実体験をもとにした、真の英語力を身につけるための再現性ある勉強方法について解説します。また書籍の中では英語学習に役立つAI Skillも公開しています。 (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/yskn_sid25/books/english_score_up</guid>
       <pubDate>Wed, 17 Jun 2026 21:37:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>AzureがあるのにAWSに頼るMicrosoft — AIで爆増するGitHubの負荷が自社クラウドの想定を超えた</title>
-      <link>https://techfeed.io/entries/6a31baf7b64d44d6ec66c4cd?from=rss</link>
-      <description>6月16日、RuntimeWireが「Microsoft's GitHub capacity crunch sends it to AWS」と題した記事を公開した。AIによるコーディング需要の急増でインフラが逼迫したGitHubが、親会社MicrosoftのAzureでは賄いきれず、競合のAWSにキャパシティを頼っているという実態を、事情に詳しい複数の関係者の証言をもとに報じている。Azureというクラウドサービスを持つMicrosoftが、戦略的資産であるGitHubの運用にAWSを使っている――これは「Azureが劣っている」という話ではない。MicrosoftのAI需要全体が自社クラウド戦略の枠組みを超えているという、より根深い問題の表れだ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a31baf7b64d44d6ec66c4cd?from=rss</guid>
-      <pubDate>Tue, 16 Jun 2026 21:07:03 +0000</pubDate>
     </item>
     <item>
       <title>マークダウンやHTMLをSlackで共有するのが辛すぎて社内ツールを作った話</title>
@@ -58,12 +66,36 @@ DBの内部実装を解説する本は、日本語で読めるものだと『詳
       <pubDate>Thu, 18 Jun 2026 01:43:55 +0000</pubDate>
     </item>
     <item>
+      <title>Unity AddressablesのBundle分割とLZ4/LZMA圧縮を実務目線で考える</title>
+      <link>https://zenn.dev/gamedev_toollab/articles/268ef4a46efbb5</link>
+      <description>概要
+前回は、Addressablesの同時DL数、ラベル設計、ラベルを使った一括DLについて整理しました。
+その中で重要だったのが、ラベルはDL対象を指定する入口であり、実際にダウンロードされるのはAssetBundle単位 という点です。
+つまり、ラベル設計だけをきれいにしても、Bundle分割が雑だと、想定外のアセットまで一緒にダウンロードされることがあります。
+今回は、AddressablesのBundle分割と圧縮設定について整理します。
+特に以下を扱います。
+
+Bundleを細かく分けるべきか、まとめるべきか
+ADVシナリオのように小さいファイルが大量にある場合の考え方
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/gamedev_toollab/articles/268ef4a46efbb5</guid>
+      <pubDate>Fri, 19 Jun 2026 09:07:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>デザインシステムのskillの精度が上がった8つの方法</title>
+      <link>https://zenn.dev/pksha/articles/7a7db5c105f396</link>
+      <description>初めまして！PKSHA Technology デザイナーの清水と申します。普段はデザイナーとしてXで発信しているのですが、今日は人生で初めてテックブログを書いてみたので、よければご覧ください。（この記事は、デザイントークンを扱うデザイナー・エンジニアを主な対象にしていますが、AI にデザイン実装を任せてみたいという方にも読んでいただけるよう、専門用語には適宜補足を入れています。）
+テックブログの内容としては、同じファイルを色んなデザイントークンの skill を使ってひたすら改善し、その中で良かった方法を8つご紹介します。サンプル数はまだ少なく精緻な情報ではないので、そこだけご容赦くださ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pksha/articles/7a7db5c105f396</guid>
+      <pubDate>Thu, 18 Jun 2026 07:22:12 +0000</pubDate>
+    </item>
+    <item>
       <title>社内MCPを"素早く安全に"増やすために、ちゃんとしておきたい共通基盤（認証・認可・ログの話）</title>
       <link>https://zenn.dev/tribeau/articles/0d03b4c9fdf360</link>
       <description>トリビューでCTOをしている小尾（@obiyuta）です。
 弊社では、社内向けに複数のMCPサーバーを運用しており、全社全員が各種AIクライアントからMCP経由で様々な社内システムを扱える環境を提供しています。
-MCP自体は小さく始められますが、全社に開いて増やし続けるとなると、最初に土台を固めておきたくなります。
-この記事では、増え続けるMCPを安全に提供し、改善し続けるための認証・認可やログなどの共通基盤を紹介します。
+MCP自体は小さく始められますが、全社に広げて数を増やしていくとなると、土台は最初に固めておきたいところです。
+この記事では、複数MCPを安全に提供し、改善し続けるための認証・認可やログなどの共通基盤を紹介します。
 
  基盤整備の背景
 現在、一人ひとりがより大きな課題・仮説に向き合い、多くの意思決定を行えるよう、ゼロベースでAIを前提とした業務の再構築を進めています。
@@ -72,55 +104,26 @@ MCP自体は小さく始められますが、全社に開いて増やし続け�
       <pubDate>Thu, 18 Jun 2026 04:13:32 +0000</pubDate>
     </item>
     <item>
+      <title>【Eve】AIエージェントは"ディレクトリ"になる — Vercel発のエージェントフレームワークを触ってみた</title>
+      <link>https://zenn.dev/sc30gsw/articles/a03d6a17af036c</link>
+      <description>!
+この記事の草稿は、本文で紹介している Eve 製の「記事執筆エージェント」自身が書きました。その草稿を筆者本人が最終レビューし、エージェントと協業しながら修正・加筆しています。「Eve の部品を解説する記事を、その部品で組んだエージェントが書く」という二層構造でお届けします。
+
+
+ はじめに
+2026年6月、Vercel がオープンソースの agent framework Eve を公開しました。
+https://vercel.com/eve
+Eve が面白いのは、エージェントを動くプロトタイプ」ではなく「本番で回るもの」として最初から設計している点です。
+具体的には、エージェントに... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sc30gsw/articles/a03d6a17af036c</guid>
+      <pubDate>Thu, 18 Jun 2026 12:11:12 +0000</pubDate>
+    </item>
+    <item>
       <title>「コードを読むだけ」のAIレビューを超えて——Greptileが実行層を組み込んだ「TREX」の設計思想</title>
       <link>https://techfeed.io/entries/6a330be433ee81247bce3dba?from=rss</link>
       <description>6月17日、AIコードレビューサービスを提供するGreptileが「Building TREX: Code Execution and Artifact Generation for AI Code Review」と題した記事を公開した。コードレビューのパイプラインに実行層を組み込んだシステム「TREX」の設計と実装について、その背景にある問題意識から具体的なアーキテクチャの判断まで詳しく解説されている。GitHubのPRに対してAIがコメントを付けるツールは、ここ数年で急速に普及した。CodeRabbitやGitHub Copilotをはじめ、多くのサービスがLLMを使ってdiffを読み、潜在的な問題を指摘する。Greptile自身もその一つだ。しかしこうしたツールには共通の限界がある——コードを「読む」だけで、「動かす」ことはしない。特定の状態遷移を経て初めて発現するロジックエラー、ページロード後にだけ起きるUI崩れ、実際のリクエストがないと再現しない競合状態——こうした問題はdiffをどれだけ丁寧に読んでも見逃す。TREX（Test, Run, Executeの略）は、その限界へ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a330be433ee81247bce3dba?from=rss</guid>
       <pubDate>Wed, 17 Jun 2026 21:04:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>会社員のためのCodex資料作成術：Skillで統一感のあるプレゼン資料を作る実践ガイド</title>
-      <link>https://zenn.dev/acntechjp/articles/c2bff25e230539</link>
-      <description>はじめに
-最近、業務資料の作成にも生成AIを活用する機会が増えてきました。
-ただし、AIにいきなり「プレゼン資料を作って」と依頼しても、実務でそのまま使える資料になるとは限りません。
-特に会社員が作る資料では、以下のような点が重要になります。
-
-スライド全体のトーンが揃っていること
-メッセージが分かりやすいこと
-後から編集しやすいこと
-社内向けの資料として違和感がないこと
-
-そこで本記事では、CodexとSkillを活用しながら、統一感のあるプレゼン資料を作るワークフローを整理します。
-今回紹介する流れは、以下の3ステップです。
-
-
-構成：Codexで資料全体のアウトラインを作る
-
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/c2bff25e230539</guid>
-      <pubDate>Tue, 16 Jun 2026 10:30:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【服装予報アプリ】を開発してアメリカで賞を獲りました</title>
-      <link>https://zenn.dev/harunasu/articles/6ac7d15bd37556</link>
-      <description>はじめに ― 自己紹介と背景
-こんにちは。harunasuと申します。
-日頃、MLエンジニアをやっている者です。複雑なデータを整理してAIモデルを作ったり、使ったり、はたまた組み込んだりして課題を解決することで、ご飯を食べています。たまに論文も書きます。現在の関心領域はスパース/インパルス的な特性を持つデータの学習手法です。
-というように、いまでこそしがないAI屋さんをやっている私ですが、エンジニアとしてのルーツはソフトウェア開発にあります。プロダクトを作って、人に喜んでもらうことが好きなので、今でもちょこちょこアプリを作ったりしています。
-そんな、「何か、良いものを作りたい！あわよ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/harunasu/articles/6ac7d15bd37556</guid>
-      <pubDate>Wed, 17 Jun 2026 05:37:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>自己改善エージェントはなぜ前提を覆せないのか ― 局所最適とハーネスでの脱出</title>
-      <link>https://zenn.dev/layerx/articles/b36ceffe6b5e20</link>
-      <description>Ai Workforce事業部FDE部エンジニアの堤(@ozro_223)です。
-本記事では、AgentにAI Workflowを自己改善させるときに起きる「最初の前提を覆せない」問題について考えます。
-入力データと正解データを用意し、Agentに実行結果を改善させていくと、途中までは順調に精度が伸びます。一方で、改善の中身を見ると、プロンプトの加筆やコードでの出力正規化（単なる文字列置換や正規表現）の追加に留まり、処理の順序や設計そのものを変える提案はあまり出てきません。
-この記事では、この現象を整理したうえで、既存の研究でどのような解決策が取られているのかを紹介し、どのように実務に応... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/layerx/articles/b36ceffe6b5e20</guid>
-      <pubDate>Wed, 17 Jun 2026 02:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
