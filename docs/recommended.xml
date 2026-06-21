@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 09:23:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:55:37 +0000</lastBuildDate>
+    <item>
+      <title>Obsidian Weave から Yasumaro へ — ブラウザの記録を、もっと自由に</title>
+      <link>https://zenn.dev/ar1/articles/yasumaro-02-from-weave-to-yasumaro</link>
+      <description>半年前、私は Chrome 拡張機能「Obsidian Weave」を作りました。
+ウェブページを自動で要約し、Obsidian のデイリーノートに保存するツールです。開発者の情報収集に便利だということで、一定のユーザーさんにも使っていただいていました。
+しかし、使い続けるうちに一度、こんな気づきがありました。
+
+「Obsidian を開いていないとき、記録したデータはどこにあるんだっけ。」
+
+答えは「どこにもありませんでした」。Obsidian が起動していないと、要約結果は一時的なストレージに留まり、history として存在した形跡を残しませんでした。
+その体験が、Obsidian... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ar1/articles/yasumaro-02-from-weave-to-yasumaro</guid>
+      <pubDate>Fri, 19 Jun 2026 10:51:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>プログラミング経験者が初めてWebアプリを作るときに知っておきたい基礎知識</title>
+      <link>https://zenn.dev/kojikojiprg/articles/a89ecbe73be743</link>
+      <description>はじめに
+プログラミング自体は知っているけれど、「Webアプリを一つ作って公開する」のは初めて、という人は意外と多いと思います。アルゴリズムは書けるし、関数やクラスの概念も分かる。でも「フロントエンドとバックエンドって何が違うの？」「Reactのコンポーネントって結局何？」「DBは自分でサーバー立てて管理するもの？」といったところで詰まってしまう。
+この記事は、そういう人向けに「最近のWebアプリ開発で出てくる用語・概念」を整理したものです。具体的な技術として Next.js（フロントエンドのフレームワーク）と Supabase（バックエンドのサービス）を例に使いますが、考え方自体は... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kojikojiprg/articles/a89ecbe73be743</guid>
+      <pubDate>Sat, 20 Jun 2026 02:12:42 +0000</pubDate>
+    </item>
     <item>
       <title>リファクタリングにドメイン知識が要るなら、その知識はどこに置くのか</title>
       <link>https://zenn.dev/417/articles/ai-era-domain-knowledge-placement</link>
@@ -25,22 +48,13 @@ t_wada... (source: Zennのトレンド)</description>
       <pubDate>Fri, 19 Jun 2026 04:26:17 +0000</pubDate>
     </item>
     <item>
-      <title>AWSに繋げなくてもテストできる？新サービス「AWS Blocks」を触ってみた</title>
-      <link>https://zenn.dev/aws_japan/articles/aws-blocks-ai-agent-intro</link>
+      <title>HTTP 418を本当に返すページをCloudflare Pages (+ functions)で作る</title>
+      <link>https://zenn.dev/taka1156/articles/faf79d1b3712bc</link>
       <description>はじめに
-先日、AWSから AWS Blocks という新しい開発者向けツールがリリースされました。
-ドキュメントをひと通り読んで実際にAIエージェントのデモアプリを作ってみたら、思っていた以上に「これは良いぞ」となったので紹介します。結論から言うと、「ローカルで即動く・AWS接続不要・そのままデプロイできる」 ツールです。
-この記事では、
-
-AWS Blocks って結局なに？
-なにが嬉しいの？
-実際にAIエージェントアプリを作って動かしてみる
-
-という流れで、コード多めで紹介していきます。
-!
-この記事の内容は v0.1.1 時点のものです。出たばかりのサービスなので、APIは今... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/aws-blocks-ai-agent-intro</guid>
-      <pubDate>Thu, 18 Jun 2026 06:20:23 +0000</pubDate>
+418 I'm a teapot というHTTPステータスコードをご存知でしょうか。RFC 2324（Hyper Text Coffee Pot Control Protocol）という、1998年のエイプリルフールに公開されたジョークRFCで定義されたステータスコードです。「サーバーはティーポットであるため、コーヒーを淹れることを拒否する」という、なんとも遊び心のある仕様です。
+今回、この418ネタをただのデコレーションではなく実際に動くHTTPレスポンスとして返す静的ページを作り、Cloudflare Pagesにデプロイしました。本記事ではそのセットアップ手順と、途中... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/taka1156/articles/faf79d1b3712bc</guid>
+      <pubDate>Sat, 20 Jun 2026 07:04:10 +0000</pubDate>
     </item>
     <item>
       <title>CloudflareがAIエージェント専用「60分使い捨てアカウント」を提供開始 — アカウント登録なしでそのままデプロイ、クレームすれば本番移行も</title>
@@ -50,36 +64,21 @@ AWS Blocks って結局なに？
       <pubDate>Fri, 19 Jun 2026 20:58:09 +0000</pubDate>
     </item>
     <item>
-      <title>TOEIC教材や対策を全く活用せずに半年でTOEIC700点を超えた真の英語力を身につけるための勉強法</title>
-      <link>https://zenn.dev/yskn_sid25/books/english_score_up</link>
-      <description>OSS活動や外資系企業への就職を目指すソフトウェアエンジニアにとって、英語力の向上は避けて通れない課題です。また普段から情報収集をするにあたっては、一次情報に素早くアクセスするために英語の読む・聴く能力が非常に重要です。この本では、TOEIC教材や試験テクニックを全く活用せずに、半年でTOEIC730点に到達した実体験をもとにした、真の英語力を身につけるための再現性ある勉強方法について解説します。また書籍の中では英語学習に役立つAI Skillも公開しています。 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yskn_sid25/books/english_score_up</guid>
-      <pubDate>Wed, 17 Jun 2026 21:37:50 +0000</pubDate>
+      <title>AIで内製した自治体システムの、これからの課題｜memuro-DX-oss</title>
+      <link>https://note.com/memuro_dx_oss/n/nb0d5871aa78c</link>
+      <description>北海道の小さな町が、AIで窓口業務システムを作りました。今も窓口の現場で稼働しています。 ——課題は、その先にあります。 記事1では、捨てるつもりで作った試作がどうやって本番になったのか、その物語を書きました。記事2では、最初の一歩である番号発券システム「MADO-queue」の中身を、技術的に詳しくお話ししまし... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/memuro_dx_oss/n/nb0d5871aa78c</guid>
+      <pubDate>Sat, 20 Jun 2026 04:12:22 +0000</pubDate>
     </item>
     <item>
-      <title>マークダウンやHTMLをSlackで共有するのが辛すぎて社内ツールを作った話</title>
-      <link>https://zenn.dev/tokium_dev/articles/tokium-share-pages</link>
-      <description>最近、めっきりNotionを書かなくなりました。代わりに増えたのが、Claude Code で作ったHTMLのダッシュボードやMarkdownのレポートを、そのままSlackに貼って共有するスタイルです。
-ただ、これがそのままだと地味に辛いんですよね。Slackに貼ってもプレビューが効かないので、受け取った相手は毎回ダウンロードして、ブラウザやエディタで開き直すことになる。出先でスマホからパッと確認することもできなくて、読み手のことを考えてスクショを別途添えたりしていて、これはどうにかならんものかとげんなりすることが多かったです。
-なので、マークダウン/HTML をドラッグ&amp;ドロ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/tokium-share-pages</guid>
-      <pubDate>Thu, 18 Jun 2026 01:43:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unity AddressablesのBundle分割とLZ4/LZMA圧縮を実務目線で考える</title>
-      <link>https://zenn.dev/gamedev_toollab/articles/268ef4a46efbb5</link>
-      <description>概要
-前回は、Addressablesの同時DL数、ラベル設計、ラベルを使った一括DLについて整理しました。
-その中で重要だったのが、ラベルはDL対象を指定する入口であり、実際にダウンロードされるのはAssetBundle単位 という点です。
-つまり、ラベル設計だけをきれいにしても、Bundle分割が雑だと、想定外のアセットまで一緒にダウンロードされることがあります。
-今回は、AddressablesのBundle分割と圧縮設定について整理します。
-特に以下を扱います。
-
-Bundleを細かく分けるべきか、まとめるべきか
-ADVシナリオのように小さいファイルが大量にある場合の考え方
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/gamedev_toollab/articles/268ef4a46efbb5</guid>
-      <pubDate>Fri, 19 Jun 2026 09:07:27 +0000</pubDate>
+      <title>今だから押さえておきたいソフトウェア工学のベストプラクティス</title>
+      <link>https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era</link>
+      <description>エージェントに実装を任せると、コードが出る速度 は確実に上がる。けれど、出てくるのは「動きそうな diff」であって、保守できるソフトウェア とは限らない。
+ソフトウェア工学のベストプラクティスは、AI 以前からある。変わったのは、守らなくても一見進む ことだ。test を飛ばしても diff は merge できそうになる。設計をチャットだけで済ませても、その場では問題が見えない。
+だから今、改めて repo に固定する価値がある原則 だけを整理する。反パターン集の裏返しではなく、「エージェント時代も捨てない良い習慣」の正面リストだ。
+関連: 反パターン10 · MILSPEC 規律と... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era</guid>
+      <pubDate>Fri, 19 Jun 2026 01:38:48 +0000</pubDate>
     </item>
     <item>
       <title>デザインシステムのskillの精度が上がった8つの方法</title>
@@ -90,33 +89,11 @@ ADVシナリオのように小さいファイルが大量にある場合の考�
       <pubDate>Thu, 18 Jun 2026 07:22:12 +0000</pubDate>
     </item>
     <item>
-      <title>社内MCPを"素早く安全に"増やすために、ちゃんとしておきたい共通基盤（認証・認可・ログの話）</title>
-      <link>https://zenn.dev/tribeau/articles/0d03b4c9fdf360</link>
-      <description>トリビューでCTOをしている小尾（@obiyuta）です。
-弊社では、社内向けに複数のMCPサーバーを運用しており、全社全員が各種AIクライアントからMCP経由で様々な社内システムを扱える環境を提供しています。
-MCP自体は小さく始められますが、全社に広げて数を増やしていくとなると、土台は最初に固めておきたいところです。
-この記事では、複数MCPを安全に提供し、改善し続けるための認証・認可やログなどの共通基盤を紹介します。
-
- 基盤整備の背景
-現在、一人ひとりがより大きな課題・仮説に向き合い、多くの意思決定を行えるよう、ゼロベースでAIを前提とした業務の再構築を進めています。
-全社利用が... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tribeau/articles/0d03b4c9fdf360</guid>
-      <pubDate>Thu, 18 Jun 2026 04:13:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Eve】AIエージェントは"ディレクトリ"になる — Vercel発のエージェントフレームワークを触ってみた</title>
-      <link>https://zenn.dev/sc30gsw/articles/a03d6a17af036c</link>
-      <description>!
-この記事の草稿は、本文で紹介している Eve 製の「記事執筆エージェント」自身が書きました。その草稿を筆者本人が最終レビューし、エージェントと協業しながら修正・加筆しています。「Eve の部品を解説する記事を、その部品で組んだエージェントが書く」という二層構造でお届けします。
-
-
- はじめに
-2026年6月、Vercel がオープンソースの agent framework Eve を公開しました。
-https://vercel.com/eve
-Eve が面白いのは、エージェントを動くプロトタイプ」ではなく「本番で回るもの」として最初から設計している点です。
-具体的には、エージェントに... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sc30gsw/articles/a03d6a17af036c</guid>
-      <pubDate>Thu, 18 Jun 2026 12:11:12 +0000</pubDate>
+      <title>設計するとは、何を諦めるかを決めること - 理念と共に、最も困難で狂気の選択を考え続けて諦めない</title>
+      <link>https://bootjp.me/2026/06/20/%E8%A8%AD%E8%A8%88%E3%81%99%E3%82%8B%E3%81%A8%E3%81%AF%E3%80%81%E4%BD%95%E3%82%92%E8%AB%A6%E3%82%81%E3%82%8B%E3%81%8B%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8</link>
+      <description>先日、Twitter(X)で、設計書に「ボタンを押下したときに処理する」と書かれていたため、実装者がボタンを押し込んだ瞬間に処理を実行する実装を行い、非常に大変な思いをした、という趣旨の話を見た。 ここでは個別の投稿の是非には触れず、この話をきっかけに、私が設計について考えていることを書く。 私は、実装方法... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://bootjp.me/2026/06/20/%E8%A8%AD%E8%A8%88%E3%81%99%E3%82%8B%E3%81%A8%E3%81%AF%E3%80%81%E4%BD%95%E3%82%92%E8%AB%A6%E3%82%81%E3%82%8B%E3%81%8B%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8</guid>
+      <pubDate>Sat, 20 Jun 2026 10:18:04 +0000</pubDate>
     </item>
     <item>
       <title>「コードを読むだけ」のAIレビューを超えて——Greptileが実行層を組み込んだ「TREX」の設計思想</title>
