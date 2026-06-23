@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 12:11:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:49:27 +0000</lastBuildDate>
     <item>
-      <title>ELMA：楕円ベースの棒グラフの長軸推定器</title>
-      <link>https://arxiv.org/abs/2606.20370v1</link>
-      <description>銀河棒は円盤銀河における重要な非軸対称構造であり、角運動量の再分配を促進し、長期的な進化、中心質量の蓄積、核構造の形成に寄与します。しかし、棒の長さの堅牢かつ均質な測定は、特に大規模な画像サーベイでは依然として困難であり、手動による推定は時間がかかり、方法論の選択に左右されます。そこで、候補となる棒系として既に特定されている銀河の棒の長さを自動的に推定するための、スタンドアロンでpipインストール可能なPythonパッケージelmaを紹介します。この方法は、反復的な楕円等光度線フィッティングを使用して半径方向の楕円率プロファイルをトレースし、局所的な楕円率の最大値に関連する半長軸から投影された棒の長さの推定値を特定することで、2次元の画像データに直接作用します。elmaは、画像のWCS情報とユーザーが指定した赤方偏移を使用して、角度測定値を投影された物理的な長さに変換します。本パッケージは、GOODS-South領域の棒状銀河のJWST/NIRCam画像を用いて実証されています。コードはMITライセンスの下、GitHubのリポジトリで公開されています。 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.20370v1</guid>
-      <pubDate>Thu, 18 Jun 2026 15:34:21 +0000</pubDate>
+      <title>遠隔患者モニタリングにおける回復の質（QoR）のAI駆動型最適化</title>
+      <link>https://arxiv.org/abs/2606.23631v1</link>
+      <description>遠隔患者モニタリングは、デバイスでは測定できない回復の主観的な側面を捉えるために、患者が報告するデータに依存しています。この目的のためのゴールドスタンダードは、Quality of Recovery (QoR-15) 調査です。これは、入院中の評価を時折行うために設計および検証されましたが、現在では遠隔モニタリングで患者に毎日実施されています。当院の術後導入では、30 日間のモニタリングのうち 14 日以上調査を提出した患者は 55% に過ぎませんでした。そこで、RPM 予測経路用の 5 項目の毎日の入力である QoR-compact を開発しました。導入主導の目標として毎日の項目の 3 分の 1 に設定し、QoR-15 の 3,003 個の 5 問サブセットすべてを徹底的に評価し、その中で最良のものが、術後短期回復の重症度を予測する上で完全な調査と一致するかどうかをテストしました。 QoR-compactは平均AUC-ROC値0.968（95%信頼区間0.915～0.988）を達成し、項目の3分の1で得られたベースライン値0.964と統計的に同等です。患者レベルのバックテストでは、完 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.23631v1</guid>
+      <pubDate>Mon, 22 Jun 2026 17:23:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,22 +7,33 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 12:11:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:49:21 +0000</lastBuildDate>
     <item>
-      <title>リファクタリングにドメイン知識が要るなら、その知識はどこに置くのか</title>
-      <link>https://zenn.dev/417/articles/ai-era-domain-knowledge-placement</link>
-      <description>2026年6月、あるポストが流れてきた。
-「正しくリファクタリングしようとするとドメイン知識が必須になり、顧客の文脈や要求まで遡る必要がある」という趣旨だ。
-この指摘は正しい。
-問題は「ではそのドメイン知識を、開発プロセスのどこに、どんな形式で保管するのか」が語られることが少ない点にある。
-知識の保管場所を間違えると、リファクタリングの前提になる情報そのものが腐敗する。
-AIコーディングエージェントが当たり前になった現在、この問題はさらに深刻になっている。
-本記事では、プロダクト開発で扱う知識を4種類に分類し、それぞれの適切な配置先を整理する。
+      <title>AI以後の受託システム開発はどうなっていくのか（2026年6月版）</title>
+      <link>https://zenn.dev/terurou/articles/eb9e7a4ca7b364</link>
+      <description>筆者について
+どういうポジショントークなのかがわかるように、筆者の属性を先に書いておきます。
 
- 知識には4つの種類がある
-t_wada... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/417/articles/ai-era-domain-knowledge-placement</guid>
-      <pubDate>Fri, 19 Jun 2026 04:26:17 +0000</pubDate>
+零細システム開発会社（デンキヤギ）の社長
+自社製品（yagisan-reports）の開発・販売もやっているが、売上比率は受託のほうが大きい
+
+受託の内訳は事業会社とのアジャイル・準委任契約がほとんどで、請負契約はごく小規模・少数
+
+
+AIによるコーディングは2025年3月頃からなので、最速ではないが、まあまあ早めからやっている
+
+
+ 直近の案件営業の状況
+2026年1月末～3月頃に一気に複数の受託システム案件（以降、単に案件）が終了したり、終了予告を受けたりしました。これ自体はAIとは全... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/terurou/articles/eb9e7a4ca7b364</guid>
+      <pubDate>Sat, 20 Jun 2026 08:39:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>WBSという至高ツールで、このAI時代をサバイブする</title>
+      <link>https://zenn.dev/piguolabo/articles/99b5b30a028f80</link>
+      <description>なぜ私はWBSを「至高」と呼ぶのか たいていのプロジェクトは、不確実性が高い。やるべき作業の全体像が見えないまま、それでもゴールまでの道筋を引かなければならない。 WBSの本質は、ここにある。いま認識している作業を一覧にし、その一つひとつに「もっと分解できないか」と目を向けさせてくれる。 価値があるのは、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/piguolabo/articles/99b5b30a028f80</guid>
+      <pubDate>Mon, 22 Jun 2026 04:16:12 +0000</pubDate>
     </item>
     <item>
       <title>バグハンター視点で学ぶ Caido 実践入門</title>
@@ -49,51 +60,32 @@ t_wada... (source: Zennのトレンド)</description>
       <pubDate>Sun, 21 Jun 2026 03:05:13 +0000</pubDate>
     </item>
     <item>
-      <title>HTTP 418を本当に返すページをCloudflare Pages (+ functions)で作る</title>
-      <link>https://zenn.dev/taka1156/articles/faf79d1b3712bc</link>
-      <description>はじめに
-418 I'm a teapot というHTTPステータスコードをご存知でしょうか。RFC 2324（Hyper Text Coffee Pot Control Protocol）という、1998年のエイプリルフールに公開されたジョークRFCで定義されたステータスコードです。「サーバーはティーポットであるため、コーヒーを淹れることを拒否する」という、なんとも遊び心のある仕様です。
-今回、この418ネタをただのデコレーションではなく実際に動くHTTPレスポンスとして返す静的ページを作り、Cloudflare Pagesにデプロイしました。本記事ではそのセットアップ手順と、途中... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/taka1156/articles/faf79d1b3712bc</guid>
-      <pubDate>Sat, 20 Jun 2026 07:04:10 +0000</pubDate>
+      <title>描画タブレットメーカーがLinux向けオープンソースドライバ開発に協力しない本当の理由——リポジトリ名に「Wacom」が入っているから</title>
+      <link>https://techfeed.io/entries/6a39a3a293cce08195ab37f1?from=rss</link>
+      <description>6月22日、デジタルアーティストのDavid Revoyが「Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers」と題した記事を公開した。描画タブレットメーカーがLinux向けFLOSS（Free/Libre Open Source Software、自由・オープンソースソフトウェア）ドライバの開発協力を拒否する、構造的かつ意外な理由が明らかになっている。拒否の理由は技術的な困難でも、コストでもない。オープンソースのリポジトリ名に競合最大手「Wacom」の名称が含まれているから——それだけだった。「Pepperと友達」シリーズで知られ、Linuxコミュニティでも著名なRevoyだからこそ、メーカーとの交渉のリアルな顛末が記録に値する。LinuxにおけるタブレットドライバはFLOSSへ移行中Linuxデスクトップ環境の普及が進む中、描画タブレットのドライバサポートは長年の課題であり続けている。Steam Deckの普及でLinuxゲーミング環境が整備される一方、クリエイター向けデバイスのサポートは依然として遅 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a39a3a293cce08195ab37f1?from=rss</guid>
+      <pubDate>Mon, 22 Jun 2026 21:05:38 +0000</pubDate>
     </item>
     <item>
-      <title>CloudflareがAIエージェント専用「60分使い捨てアカウント」を提供開始 — アカウント登録なしでそのままデプロイ、クレームすれば本番移行も</title>
-      <link>https://techfeed.io/entries/6a35ad6193cce08195a9b981?from=rss</link>
-      <description>6月19日、Cloudflareが「Temporary Cloudflare Accounts for AI agents」と題した記事を公開した。AIエージェントがアカウント登録なしにCloudflareへ自律的にデプロイできる「一時アカウント」機能の詳細を紹介するものだ。コーディングエージェントがコードを書き、そのままデプロイまで自律で完結させようとすると、必ずどこかで止まる。ブラウザベースのOAuthフロー、ダッシュボードでのクリック操作、APIトークンのコピー＆ペースト、多要素認証——これらはすべて「人間がいる前提」で設計されたUIだ。開発者の隣でインタラクティブに動くコパイロット型エージェント（人間が都度確認・承認しながら使うタイプ）ならまだ回避できるが、バックグラウンドで自律動作するエージェントにとっては完全な停止点になる。MCP（Model Context Protocol）やA2A（Agent-to-Agent）プロトコルの普及によってエージェントの自律化が加速するなか、「認証の壁」はエージェント開発者が最初にぶつかる実用上の課題として広く認識されるようになっていた。C (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a35ad6193cce08195a9b981?from=rss</guid>
-      <pubDate>Fri, 19 Jun 2026 20:58:09 +0000</pubDate>
+      <title>Claude Code に「7人の意地悪なQA」を仕込んでテストケースの観点漏れを潰した</title>
+      <link>https://zenn.dev/nexta_/articles/be13a2395a5d2a</link>
+      <description>こんにちは、QAエンジニアのAyakaです。
+製造業向けSaaS（Blazor＋Radzen / SQL Server で開発）のテスト設計・品質管理を担当しつつ、最近はコーポレートIT寄りの仕事も兼務しています。
+テストケースをAIに「書かせる」こと自体は、もう誰でもできます。難しいのは、毎回同じ観点で、同じ品質で書かせることでした。
+テストケースを作る作業は、わりと早い段階からAIに手伝ってもらっていました。
+課題（PBI）の説明を渡して「テストケースを出して」と頼めば、それらしいものは返ってきます。最初のうちはそれで足りていました。
+ただ、しばらく使っていると、AIで作れてはいるの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nexta_/articles/be13a2395a5d2a</guid>
+      <pubDate>Mon, 22 Jun 2026 02:37:09 +0000</pubDate>
     </item>
     <item>
-      <title>Windowsのファイル読み書きを高速化するアプリを作ってみた</title>
-      <link>https://zenn.dev/maedan/articles/ad15f8c2837753</link>
-      <description>はじめに
-個人開発で、メモリを使用して、ファイルの読み書きを高速化するアプリを作成しました。
-内部的にはRAMディスクを作成して、普段良く使われるキャッシュファイルをRAMディスクに移す事で高速化を行っています。
-
- そもそも「RAMディスク」って？
-RAMディスク（RAMドライブ）は、メモリの一部を仮想的なドライブとして使う仕組みです。
-ふだんファイルを保存するSSDやHDDの代わりに、メモリ上に R: ドライブのような領域を作ります。メモリはストレージよりもはるかに高速なので、ここに置いたファイルの読み書きは段違いに速くなります。
-ただし弱点もあります。メモリは電源を切ると中身が... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/maedan/articles/ad15f8c2837753</guid>
-      <pubDate>Sat, 20 Jun 2026 10:02:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>バーニー・サンダース、AIの公的保有による「年間1000ドル支給」を提案 | なぜかトランプ大統領とも意見が一致？</title>
-      <link>https://courrier.jp/news/archives/449635/</link>
-      <description>米国では、AI大手が得ている莫大な利益を国民に還元すべきだとの議論が盛り上がってきている。その具体策として、上院議員のバーニー・サンダースが提出した新たな法案とはどのようなものか。トランプ政権や当のAI大手はどう反応しているのか。米紙「ワシントン・ポスト」が、最新の動きを取材した。 バーニー・サンダー... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://courrier.jp/news/archives/449635/</guid>
-      <pubDate>Mon, 22 Jun 2026 00:59:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>今だから押さえておきたいソフトウェア工学のベストプラクティス</title>
-      <link>https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era</link>
-      <description>エージェントに実装を任せると、コードが出る速度 は確実に上がる。けれど、出てくるのは「動きそうな diff」であって、保守できるソフトウェア とは限らない。
-ソフトウェア工学のベストプラクティスは、AI 以前からある。変わったのは、守らなくても一見進む ことだ。test を飛ばしても diff は merge できそうになる。設計をチャットだけで済ませても、その場では問題が見えない。
-だから今、改めて repo に固定する価値がある原則 だけを整理する。反パターン集の裏返しではなく、「エージェント時代も捨てない良い習慣」の正面リストだ。
-関連: 反パターン10 · MILSPEC 規律と... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era</guid>
-      <pubDate>Fri, 19 Jun 2026 01:38:48 +0000</pubDate>
+      <title>Claude Codeに全部抱え込ませるのをやめた。tmuxのタブを会話させてコンテキストを分割する</title>
+      <link>https://zenn.dev/tokium_dev/articles/tmux-multitab-context-management</link>
+      <description>こんにちは、TOKIUMでエンジニアをしている西本です。
+早速ですが、Claude Codeを使い込むほど、ひとつの壁にぶつかります。コンテキストです。1つのセッションに実装もレビューも調査も定型業務も全部やらせていると、コンテキストウィンドウがどんどん膨らみます。長くなれば応答の精度は落ちますし、/compactが走ると直前まで握っていた文脈が要約に丸められて、細部が飛びます。「さっき決めた方針、もう覚えてないな」とぼやく、あの感じです。
+コンテキスト管理のノウハウ自体は、世の中にもうたくさん出ています。なので目新しい原則の解説というより、自分の環境を紹介がてら、私なりの落とし込み方を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/tmux-multitab-context-management</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:08 +0000</pubDate>
     </item>
     <item>
       <title>LocalStack が有料になったので MiniStack + Terraform でローカル AWS 環境を作り直した</title>
@@ -124,6 +116,16 @@ RAMディスク（RAMドライブ）は、メモリの一部を仮想的なド�
       <description>6月20日、Phoronixが「Linux Finally Eliminates The strncpy API After Six Years Of Work, 360+ Patches」と題した記事を公開した。Linuxカーネルの次期バージョンLinux 7.2のマージウィンドウにおいて、長年にわたりバグの温床とされてきたstrncpy関数がついに完全削除された。その達成に要したのは約6年間・362コミットだ。なぜ「1つの関数を削除する」だけにこれほどの時間がかかったのか。答えはカーネルの広大さと、strncpyの挙動の「微妙な複雑さ」にある。機械的な置換では済まない判断が何百箇所にも及んだ。その経緯と意義を紹介する。strncpyとは何が問題だったのかstrncpyはC標準ライブラリに含まれる文字列コピー関数で、UNIX黎明期から存在する古参APIだ。しかしその挙動は長年「罠」として知られてきた。問題点は主に2つある。NUL終端の非対称な挙動：コピー元が指定バイト数に満たない場合、残り領域をNULバイトで埋めるが、コピー元が指定バイト数以上の場合はNUL終端を付与しない。この「長 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a38506993cce08195aa62df?from=rss</guid>
       <pubDate>Sun, 21 Jun 2026 20:58:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>【DB設計】JOINコストとインデックスの効果を実行計画で理解する</title>
+      <link>https://zenn.dev/dely_jp/articles/14ee6d362709e1</link>
+      <description>はじめに
+こんにちは、クラシルでレシチャレBUのバックエンドエンジニアをしているFumiyaです！
+2026年6月現在、26卒としてクラシルに入社して約3ヶ月が経とうとしています。先日業務でデータベース設計を行う機会があったのですが、正規化すると、テーブルをJOINするというコストの高い処理を行う必要があるため、実務ではパフォーマンスを考慮して、あえてテーブルを正規化しない判断をする場面があるということを学びました。しかし、テーブルをJOINする処理のコストの高さを具体的にイメージできていなかったので、今後の設計判断に活かすために調べてみることにしました。
+本記事では、以下を目的とし... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/14ee6d362709e1</guid>
+      <pubDate>Mon, 22 Jun 2026 00:13:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
