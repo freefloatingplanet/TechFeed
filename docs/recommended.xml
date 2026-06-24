@@ -7,57 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 09:49:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 09:37:31 +0000</lastBuildDate>
     <item>
-      <title>AI以後の受託システム開発はどうなっていくのか（2026年6月版）</title>
-      <link>https://zenn.dev/terurou/articles/eb9e7a4ca7b364</link>
-      <description>筆者について
-どういうポジショントークなのかがわかるように、筆者の属性を先に書いておきます。
+      <title>日本企業はAIを使いこなせるのか</title>
+      <link>https://zenn.dev/kanagen/articles/japanese-enterprise-ai-adoption</link>
+      <description>― 外注・個別最適・暗黙知という三つの壁
 
-零細システム開発会社（デンキヤギ）の社長
-自社製品（yagisan-reports）の開発・販売もやっているが、売上比率は受託のほうが大きい
-
-受託の内訳は事業会社とのアジャイル・準委任契約がほとんどで、請負契約はごく小規模・少数
-
-
-AIによるコーディングは2025年3月頃からなので、最速ではないが、まあまあ早めからやっている
-
-
- 直近の案件営業の状況
-2026年1月末～3月頃に一気に複数の受託システム案件（以降、単に案件）が終了したり、終了予告を受けたりしました。これ自体はAIとは全... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/terurou/articles/eb9e7a4ca7b364</guid>
-      <pubDate>Sat, 20 Jun 2026 08:39:08 +0000</pubDate>
+ AIの進化は止まらない
+AnthropicのClaude Fable 5がリリースされた。
+公開と同時に、世界中のユーザーが「こんなものを作ってみた」と猛烈な速さで成果を共有し始めた。次々とあふれ出すアウトプットからは、人間の知的探求心の高さがそのまま噴き出しているように見えた。
+しかしその後、Fable 5とMythos 5は米国政府の指示によりアクセス停止となった。Anthropicの発表によると、米国政府は外国籍者によるFable 5・Mythos 5へのアクセス停止を指示したという。Anthropicはこれに確実に従うため、結果として... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kanagen/articles/japanese-enterprise-ai-adoption</guid>
+      <pubDate>Mon, 22 Jun 2026 09:39:21 +0000</pubDate>
     </item>
     <item>
-      <title>WBSという至高ツールで、このAI時代をサバイブする</title>
-      <link>https://zenn.dev/piguolabo/articles/99b5b30a028f80</link>
-      <description>なぜ私はWBSを「至高」と呼ぶのか たいていのプロジェクトは、不確実性が高い。やるべき作業の全体像が見えないまま、それでもゴールまでの道筋を引かなければならない。 WBSの本質は、ここにある。いま認識している作業を一覧にし、その一つひとつに「もっと分解できないか」と目を向けさせてくれる。 価値があるのは、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/piguolabo/articles/99b5b30a028f80</guid>
-      <pubDate>Mon, 22 Jun 2026 04:16:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>バグハンター視点で学ぶ Caido 実践入門</title>
-      <link>https://zenn.dev/scgajge12/books/119c83fa281d04</link>
-      <description>📕【概要】
-　本書は、急速に支持を広げる Web プロキシツール「Caido」を、バグハンターの視点で使い倒すための入門書です。ブラウザとサーバの間に割り込んで通信を傍受し、書き換え、再送し、自動化する。その一連の作業をCaidoでどう行うのかを、一冊にまとめました。
-
-　本書は、各機能を「どんな脆弱性を狙うときに、どう効くのか」というバグハンティングの文脈で説明します。さらに公式の練習用ラボ（Caido Labs）を実際に解いて手を動かし、バグハンターが現場で使っているテクニックまで拾い上げます。
-
-💪【こんな方にオススメ】
-・☆ Caido をこれから使ってみたい方
-・☆ バグハンティングやバグバウンティに挑戦したい方
-・Web セキュリティを学びたい学生
-・すでに Burp Suite を使っていて、Caido を試してみたい方
-
-📢【お知らせ】
-・本書は Zenn の無料本です。
-
-🧑‍💻【筆者プロフィール】
-・セキュリティエンジニア &amp; バグハンター (since 2020)
-・これまでサイバーセキュリティ企業で脆弱性診断やペネトレーションテスト等を従事
-・日本ハッカー協会「 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/scgajge12/books/119c83fa281d04</guid>
-      <pubDate>Sun, 21 Jun 2026 03:05:13 +0000</pubDate>
+      <title>『クローズアップ現代』で、末期がんの86歳の女性が泣きながらAIに相談している様子に衝撃を受ける→AIの応答はみごとで、たぶんわたしが病床訪問しても、あんなふうに配慮し尽くした受け答えはできないだろう。</title>
+      <link>https://posfie.com/@mumimushunyu/p/fzcQPXY</link>
+      <description>沼田和也（王子北教会牧師） @numatakazuya NHK『クローズアップ現代』で、末期がんの86歳の女性が泣きながら、つまり心を深く開いて、AIに相談している様子に衝撃を受ける。AIの応答はみごとで、たぶんわたしが病床訪問しても、あんなふうに配慮し尽くした受け答えはできないだろう。 2026-06-23 19:59:49 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://posfie.com/@mumimushunyu/p/fzcQPXY</guid>
+      <pubDate>Wed, 24 Jun 2026 04:12:23 +0000</pubDate>
     </item>
     <item>
       <title>描画タブレットメーカーがLinux向けオープンソースドライバ開発に協力しない本当の理由——リポジトリ名に「Wacom」が入っているから</title>
@@ -65,6 +33,13 @@ AIによるコーディングは2025年3月頃からなので、最速ではな�
       <description>6月22日、デジタルアーティストのDavid Revoyが「Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers」と題した記事を公開した。描画タブレットメーカーがLinux向けFLOSS（Free/Libre Open Source Software、自由・オープンソースソフトウェア）ドライバの開発協力を拒否する、構造的かつ意外な理由が明らかになっている。拒否の理由は技術的な困難でも、コストでもない。オープンソースのリポジトリ名に競合最大手「Wacom」の名称が含まれているから——それだけだった。「Pepperと友達」シリーズで知られ、Linuxコミュニティでも著名なRevoyだからこそ、メーカーとの交渉のリアルな顛末が記録に値する。LinuxにおけるタブレットドライバはFLOSSへ移行中Linuxデスクトップ環境の普及が進む中、描画タブレットのドライバサポートは長年の課題であり続けている。Steam Deckの普及でLinuxゲーミング環境が整備される一方、クリエイター向けデバイスのサポートは依然として遅 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a39a3a293cce08195ab37f1?from=rss</guid>
       <pubDate>Mon, 22 Jun 2026 21:05:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropicの社内コード65%をAIが生成——Slackにチームメンバーとして溶け込む「Claude Tag」が公開</title>
+      <link>https://techfeed.io/entries/6a3af3b893cce08195abf4ee?from=rss</link>
+      <description>6月23日、Anthropicが「Introducing Claude Tag」と題した記事を公開した。SlackにClaudeをチームメンバーとして参加させ、複数人が非同期・並列に作業を委任できる新機能「Claude Tag」について詳しく紹介している。Anthropicの社内では現在、プロダクトチームが書くコードの65%をClaude Tagの社内版が生成しているという。この数字が示すのは単なる実験の話ではなく、AIがすでに現実のチームの生産性を担っているという事実だ。Claude Tagはその体験を外部向けに製品化したものであり、SlackというビジネスコミュニケーションのデファクトスタンダードにAIエージェントを直接組み込む設計となっている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a3af3b893cce08195abf4ee?from=rss</guid>
+      <pubDate>Tue, 23 Jun 2026 20:59:36 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code に「7人の意地悪なQA」を仕込んでテストケースの観点漏れを潰した</title>
@@ -88,44 +63,69 @@ AIによるコーディングは2025年3月頃からなので、最速ではな�
       <pubDate>Mon, 22 Jun 2026 00:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>LocalStack が有料になったので MiniStack + Terraform でローカル AWS 環境を作り直した</title>
-      <link>https://zenn.dev/kamegoro/articles/ef1ab1c9527f9d</link>
-      <description>はじめに
-個人開発で AWS のインフラを Terraform で管理していると、こういう悩みが出てきます。
+      <title>WBSという至高ツールで、このAI時代をサバイブする</title>
+      <link>https://zenn.dev/piguolabo/articles/99b5b30a028f80</link>
+      <description>なぜ私はWBSを「至高」と呼ぶのか
+たいていのプロジェクトは、不確実性が高い。やるべき作業の全体像が見えないまま、それでもゴールまでの道筋を引かなければならない。
+WBSの本質は、ここにある。いま認識している作業を一覧にし、その一つひとつに「もっと分解できないか」と目を向けさせてくれる。
+価値があるのは、この「分解する」という行為そのものだ。詳細化しようとした瞬間、それまで見えていなかった作業が出てくる。
 
-「terraform apply のたびに実 AWS を使うのはコストが怖いし、壊すのも嫌だ。ローカルで試したい」
+「この機能、先に本番のスキーマ変更を通さないと載らない」
+「この外部API、利用申請に二週間かかるやつだ」
 
-そこで従来は LocalStack を使うのが定番でした。ところが 2026 年 3 月、LocalStack は Community Edition を廃止し、最新版の利用にはアカウント登録と認証トークンが必須になりました。無料の Hobby プランも「非商用に限定」という制約つきです。
-代わりになるものを探していたところ、MiniStack という OS... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kamegoro/articles/ef1ab1c9527f9d</guid>
-      <pubDate>Sun, 21 Jun 2026 03:26:04 +0000</pubDate>
+見えていなかったタスクが、分解の過程で次々と姿を現す。
+同時に、作業... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/piguolabo/articles/99b5b30a028f80</guid>
+      <pubDate>Sun, 21 Jun 2026 07:00:09 +0000</pubDate>
     </item>
     <item>
-      <title>自作 macOS IME「RomKana」開発記</title>
-      <link>https://zenn.dev/toshinao/articles/1cffb713b1c670</link>
-      <description>自作 macOS IME「RomKana」開発記
-ローマ字を打つと、文脈を見てかな漢字交じり文に変換してくれる macOS の入力メソッド（IME）を、完全ローカルで自作しました。「変換の賢さは、手元で動くLLMでどこまで上げられるんだろう？」というのが知りたくて、いろいろ測りながら作っていった記録です。最終的には、かな漢字変換に特化したニューラルモデルへ乗り換えました。
-例: AI de nihongo wo henkan suru（空白で区切って打つ）→ AIで日本語を変換する
-きっかけは X のあるポストでした。気になって調べてみたら、ローマ字をLLMでかな漢字に変換する Su... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/toshinao/articles/1cffb713b1c670</guid>
-      <pubDate>Sun, 21 Jun 2026 14:27:23 +0000</pubDate>
+      <title>「動くが面白くない」を解決するGame Feelガイド</title>
+      <link>https://zenn.dev/kapi0622/books/0d107732880fc8</link>
+      <description>「機能として完成しているのに、触っていて面白くない」
+
+ゲームを作っていると、ある段階でこの壁にぶつかる。
+キャラクターは動く、攻撃は当たる、スコアも加算される。
+なのに、名作と自分の作品を並べると、触り心地が決定的に違う。
+
+この差の正体が Game Feel だ。
+
+本書は、その曖昧で直感的に語られがちな「手触り」を
+定義・構成要素・心理学的根拠・実装原理・事例分析の
+5つの側面から体系的に解説するシリーズです。
+
+【こんな人に向けて書きました】
+- ゲームの「気持ちよさ」を言語化できるようになりたいエンジニア
+- ヒットストップやスクリーンシェイクを「なぜそうするか」まで理解した上で実装したい人
+- 評価されているゲームの Game Feel がなぜ優れているのかを原理から理解したい人
+
+【シリーズ構成】
+概論編     ：定義・心理・構成要素（全3章）
+実装原理編  ：ヒットストップ・スクリーンシェイク・
+　　　　　　　コヨーテタイム・イージング（全4章）
+事例・方法論編：実際のゲームを挙げ分析・検証する（全2章）
+
+現在は概論編 第二章まで公開
+
+コードは Unity（C#） (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kapi0622/books/0d107732880fc8</guid>
+      <pubDate>Mon, 22 Jun 2026 09:30:23 +0000</pubDate>
     </item>
     <item>
-      <title>6年・362コミットでLinuxカーネルから「バグの温床」strncpyが完全削除 — なぜそれほどかかったのか</title>
-      <link>https://techfeed.io/entries/6a38506993cce08195aa62df?from=rss</link>
-      <description>6月20日、Phoronixが「Linux Finally Eliminates The strncpy API After Six Years Of Work, 360+ Patches」と題した記事を公開した。Linuxカーネルの次期バージョンLinux 7.2のマージウィンドウにおいて、長年にわたりバグの温床とされてきたstrncpy関数がついに完全削除された。その達成に要したのは約6年間・362コミットだ。なぜ「1つの関数を削除する」だけにこれほどの時間がかかったのか。答えはカーネルの広大さと、strncpyの挙動の「微妙な複雑さ」にある。機械的な置換では済まない判断が何百箇所にも及んだ。その経緯と意義を紹介する。strncpyとは何が問題だったのかstrncpyはC標準ライブラリに含まれる文字列コピー関数で、UNIX黎明期から存在する古参APIだ。しかしその挙動は長年「罠」として知られてきた。問題点は主に2つある。NUL終端の非対称な挙動：コピー元が指定バイト数に満たない場合、残り領域をNULバイトで埋めるが、コピー元が指定バイト数以上の場合はNUL終端を付与しない。この「長 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a38506993cce08195aa62df?from=rss</guid>
-      <pubDate>Sun, 21 Jun 2026 20:58:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>【DB設計】JOINコストとインデックスの効果を実行計画で理解する</title>
-      <link>https://zenn.dev/dely_jp/articles/14ee6d362709e1</link>
+      <title>AWS13冠は、何を証明して、何を証明しないのか</title>
+      <link>https://zenn.dev/honey_aws/articles/certifications-and-tradeoff-judgment</link>
       <description>はじめに
-こんにちは、クラシルでレシチャレBUのバックエンドエンジニアをしているFumiyaです！
-2026年6月現在、26卒としてクラシルに入社して約3ヶ月が経とうとしています。先日業務でデータベース設計を行う機会があったのですが、正規化すると、テーブルをJOINするというコストの高い処理を行う必要があるため、実務ではパフォーマンスを考慮して、あえてテーブルを正規化しない判断をする場面があるということを学びました。しかし、テーブルをJOINする処理のコストの高さを具体的にイメージできていなかったので、今後の設計判断に活かすために調べてみることにしました。
-本記事では、以下を目的とし... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/14ee6d362709e1</guid>
-      <pubDate>Mon, 22 Jun 2026 00:13:17 +0000</pubDate>
+エンジニア3年目です。現職は GeneXus（ローコード開発基盤）の SES で、AWS の実務経験はありません。その立場で、AWS 認定を13個取り、初めての個人開発として、フルサーバーレスの RAG アプリを Terraform で一気通貫に作ることに挑戦しました。
+資格を短期間で一気に取ったのには理由があります。AWS の案件に参画したかった——でも実務未経験では、その機会自体が回ってきません。だから「せめて知識だけでも先に揃えて、機会損失を防ぐ」ために、認定を一息に取り切りました。いわば資格知識だけが先行した状態です。
+この記事は技術的なノウハウではなく、「13冠と... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/honey_aws/articles/certifications-and-tradeoff-judgment</guid>
+      <pubDate>Tue, 23 Jun 2026 07:44:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>エルデンリングの敵AIは「スタックと乱数」だけで動いていた — 複雑なプランナー不要、シンプルな構造がSoulsborneの凶悪さを生み出す仕組み</title>
+      <link>https://techfeed.io/entries/6a3af56d93cce08195abf53b?from=rss</link>
+      <description>6月23日、nega.tvが「The Low-Tech AI Of Elden Ring」と題した記事を公開した。フロムソフトウェアの『エルデンリング』を含むSoulsborneシリーズは、プレイヤーを何度も死に追いやる手強いNPC戦闘で世界中に知られている。その強さの裏には高度なAIプランナーが動いているのでは——という予想を、リバースエンジニアリングで覗いたコードは鮮やかに裏切る。実態は「データ構造としてのスタック」と「重み付き乱数」の組み合わせだ。Behavior TreeもGOAPも使っていない。GoalをスタックにPushして積み、距離に応じた重みで行動を抽選し、interruptで即時割り込む。それだけの構造が、あの理不尽な強さを生み出している。ゲームAIの世界で「複雑な仕組みを使うほど良い体験になる」という思い込みが、静かに崩される内容だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a3af56d93cce08195abf53b?from=rss</guid>
+      <pubDate>Tue, 23 Jun 2026 21:06:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

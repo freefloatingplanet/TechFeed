@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Jun 2026 09:49:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 09:37:37 +0000</lastBuildDate>
     <item>
-      <title>遠隔患者モニタリングにおける回復の質（QoR）のAI駆動型最適化</title>
-      <link>https://arxiv.org/abs/2606.23631v1</link>
-      <description>遠隔患者モニタリングは、デバイスでは測定できない回復の主観的な側面を捉えるために、患者が報告するデータに依存しています。この目的のためのゴールドスタンダードは、Quality of Recovery (QoR-15) 調査です。これは、入院中の評価を時折行うために設計および検証されましたが、現在では遠隔モニタリングで患者に毎日実施されています。当院の術後導入では、30 日間のモニタリングのうち 14 日以上調査を提出した患者は 55% に過ぎませんでした。そこで、RPM 予測経路用の 5 項目の毎日の入力である QoR-compact を開発しました。導入主導の目標として毎日の項目の 3 分の 1 に設定し、QoR-15 の 3,003 個の 5 問サブセットすべてを徹底的に評価し、その中で最良のものが、術後短期回復の重症度を予測する上で完全な調査と一致するかどうかをテストしました。 QoR-compactは平均AUC-ROC値0.968（95%信頼区間0.915～0.988）を達成し、項目の3分の1で得られたベースライン値0.964と統計的に同等です。患者レベルのバックテストでは、完 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.23631v1</guid>
-      <pubDate>Mon, 22 Jun 2026 17:23:06 +0000</pubDate>
+      <title>変分オートエンコーダーにおける定数崩壊に対するシンプレックス証人証明書と脱出力</title>
+      <link>https://arxiv.org/abs/2605.18224v4</link>
+      <description>本稿では、変分オートエンコーダにおける厳密な定数崩壊について考察する。すなわち、決定論的なエンコーダの平均が入力に依存しなくなる現象である。事前分布は標準ガウス分布のままである。VAEの学習前に、データのGMMベースのビューから固定の教師事後分布を選択し、固定の潜在変数のみの単体証拠をエンコーダの平均に付加する。この構成により、2つのリンクされたオブジェクトが得られる。1つ目は証明書である。証拠予測が教師の最良の定数予測器よりも優れている場合、エンコーダの平均は入力に依存しない定数にはなり得ない。2つ目は局所的な脱出方向である。崩壊した多様体上では、教師残差がアライメント損失のサンプル依存の降下方向を与える。任意のフルサポート教師事後分布に対して、同じジオメトリにより、教師と証拠のアライメント誤差がゼロの閉形式の潜在コードも得られる。そのスケーリングされたバージョンは、定数予測器から厳密な教師コードへのマージンエネルギーパスをトレースし、保護された証拠部分空間内での非崩壊を定量化する。MNIST、CIFAR-10、およびCIFAR-100データセットでこの手法を実装する。教師なし PC (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.18224v4</guid>
+      <pubDate>Mon, 18 May 2026 11:09:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
