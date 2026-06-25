@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 09:37:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 09:28:42 +0000</lastBuildDate>
     <item>
-      <title>DPoP（RFC 9449）解説：送信者制約付きOAuthトークンがトークン盗難をいかに無害なものにするか</title>
-      <link>https://workos.com/blog/dpop-rfc-9449-explained</link>
-      <description>エンジニア向けRFC 9449の実践的な解説：JWTの証明、サーバー発行のnonce、ブラウザでの鍵の保存、そしてDPoPがmTLSとどのように関連しているか。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/dpop-rfc-9449-explained</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <title>Grab社がセキュアなエージェント型AIワークロードプラットフォームを構築</title>
+      <link>https://www.infoq.com/news/2026/06/grab-ai-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Grabのセキュリティチームは、自律型AIエージェントを安全に実行するために、Kubernetesネイティブのセキュア実行プラットフォームであるPalanaを構築しました。決定論的なソフトウェアとは異なり、モデル駆動型エージェントは、予測不可能なツール使用、コード記述、およびプロンプトインジェクションのリスクを示します。Palanaは、分離された名前空間、プロセス外制御プレーン、およびプロキシを介したVaultバックアップのシークレットを使用して、インフラストラクチャレベルでこれらの脅威を封じ込めます。執筆：Patrick Farry (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/06/grab-ai-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 25 Jun 2026 02:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

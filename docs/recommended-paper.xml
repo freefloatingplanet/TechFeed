@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 09:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 09:28:39 +0000</lastBuildDate>
     <item>
-      <title>変分オートエンコーダーにおける定数崩壊に対するシンプレックス証人証明書と脱出力</title>
-      <link>https://arxiv.org/abs/2605.18224v4</link>
-      <description>本稿では、変分オートエンコーダにおける厳密な定数崩壊について考察する。すなわち、決定論的なエンコーダの平均が入力に依存しなくなる現象である。事前分布は標準ガウス分布のままである。VAEの学習前に、データのGMMベースのビューから固定の教師事後分布を選択し、固定の潜在変数のみの単体証拠をエンコーダの平均に付加する。この構成により、2つのリンクされたオブジェクトが得られる。1つ目は証明書である。証拠予測が教師の最良の定数予測器よりも優れている場合、エンコーダの平均は入力に依存しない定数にはなり得ない。2つ目は局所的な脱出方向である。崩壊した多様体上では、教師残差がアライメント損失のサンプル依存の降下方向を与える。任意のフルサポート教師事後分布に対して、同じジオメトリにより、教師と証拠のアライメント誤差がゼロの閉形式の潜在コードも得られる。そのスケーリングされたバージョンは、定数予測器から厳密な教師コードへのマージンエネルギーパスをトレースし、保護された証拠部分空間内での非崩壊を定量化する。MNIST、CIFAR-10、およびCIFAR-100データセットでこの手法を実装する。教師なし PC (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.18224v4</guid>
-      <pubDate>Mon, 18 May 2026 11:09:22 +0000</pubDate>
+      <title>HIPE-2026の概要：多言語歴史文書からの人物と場所の関係抽出</title>
+      <link>https://arxiv.org/abs/2606.25935v1</link>
+      <description>この人物はかつてその場所にいたことがあるのか、もしいたとしたら、いつだったのか？ ノイズの多い多言語の歴史文書からこのような質問に答えることが、HIPE評価シリーズの第3版であるHIPE-2026の中心的な課題です。 固有表現認識とリンク（HIPE-2020、HIPE-2022）からエンティティ間の関係についての推論へと移行し、HIPE-2026は、$at$（文書の発行日より前のいずれかの時点で人物がその場所にいたことを示す）と$isAt$（その日付と同時期に存在していたことを示す）という、時間的に根拠のある2つの関係タイプを対象としています。 この論文では、17の参加チームが、フランス語、ドイツ語、英語の3つの言語にわたる歴史的な言語の変動、OCRノイズ、間接的な文脈の手がかりという課題に直面した評価キャンペーンの結果を示します。 データセットには、19世紀と20世紀の歴史的な新聞テキストと、初期近代フランス語の文学テキストから抽出された驚きのドメイン一般化セットが含まれています。 HIPE-2026の際立った特徴は、予測精度、計算効率、およびドメイン横断的な汎化能力を評価する3つの (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.25935v1</guid>
+      <pubDate>Wed, 24 Jun 2026 15:09:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
