@@ -7,42 +7,52 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 09:28:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 09:34:17 +0000</lastBuildDate>
     <item>
-      <title>GeminiがComputer Use機能を標準搭載 — AIが「画面を見て操作する」時代が本格化</title>
-      <link>https://techfeed.io/entries/6a3c4621a2ca0077a3828a96?from=rss</link>
-      <description>6月24日、Googleが「Introducing computer use in Gemini 3.5 Flash」と題した記事を公開した。Gemini 3.5 FlashにComputer Use機能が組み込みツールとして統合され、ブラウザ・モバイル・デスクトップ環境を横断したエージェント自動化が可能になった。AIが「画面を見て操作する」機能が主力モデルの標準装備にComputer Use（コンピュータ操作）とは、AIエージェントが画面を「見て」内容を理解し、マウスやキーボード操作を通じて実際にアプリケーションを動かす機能だ。Anthropicが2024年10月にClaude向けにこの機能を公開して以来、エージェント型AIの実用化における重要な技術として広く注目を集めてきた。その後、OpenAIもOperatorでこの領域に参入しており、Computer Useは生成AI各社の競争軸のひとつとなっている。今回の発表で最も重要な点は、Googleがこれまでプレビュー版として独立した形で提供していたComputer Use機能を、Gemini 3.5 Flashの組み込みツールとして正 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a3c4621a2ca0077a3828a96?from=rss</guid>
-      <pubDate>Wed, 24 Jun 2026 21:03:29 +0000</pubDate>
+      <title>Deno 2.9、Electron不要のデスクトップアプリ構築機能を実験的追加 — 起動速度2倍・メモリ消費3分の1の性能改善も</title>
+      <link>https://techfeed.io/entries/6a3d96d678cdf098502fd7e9?from=rss</link>
+      <description>6月25日、Denoが「Deno 2.9」と題した記事を公開した。Deno 2.9では、ElectronやTauriを使わずにWebスタックだけでネイティブデスクトップアプリを構築できる実験的機能「deno desktop」が追加された。加えて、v2.8比で起動速度約2倍・メモリ使用量約3分の1という大幅なパフォーマンス改善と、npm/pnpm/yarn/Bunからの移行サポートの強化が盛り込まれている。ElectronはChromiumをまるごとバンドルするため、Hello World級のアプリでも数百MBのバイナリと高いメモリ消費が避けられない。代替として登場したTauriはOSのWebViewを利用してバイナリサイズを抑えるが、Rustの学習コストが壁になるケースもある。deno desktop はDenoランタイムをそのまま使い、同様にOSのWebViewを活用する設計で、TypeScript/JavaScriptだけで完結するのが特徴だ。Denoはすでにサーバーサイドとフロントエンドのツールチェーンを統合する方向を進めており、deno desktop はその延長線上でデスクト (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a3d96d678cdf098502fd7e9?from=rss</guid>
+      <pubDate>Thu, 25 Jun 2026 21:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>なぜ LLM に大喜利が難しいのか</title>
-      <link>https://zenn.dev/nttdata_tech/articles/3241a46dca47b2</link>
-      <description>最初はちょっとした好奇心のつもりだった
-ChatGPT や Claude の笑いのセンスは、ぼくとは合わない気がする。特に Claude とは、普段は友達のように分かり合えているのに、大喜利では全然分かり合えない。けれど本当はできるはずなんだ。そういう素朴な気持ちから全ては始まった。
-当時は、 Claude の Agent skills が無茶苦茶盛り上がっていた。 Skills を作れば、 Claude は何の専門家にでもなれる。それなら大喜利のプロにだってなれるはずだ。
+      <title>「AIがSQLを書いてくれる」で終わらせない − 分析基盤の育て方</title>
+      <link>https://zenn.dev/tribeau/articles/c961141dd4c9c8</link>
+      <description>トリビューでCTOをしている小尾（@obiyuta）です。
+弊社ではAIを前提とした全社業務の再構築に取り組んでおり、前回はその中で取り組んでいる社内MCPを載せる共通基盤（認証・認可・ログ）をご紹介しました。
+今回は具体的な活用事例として、非エンジニアが自分で本番データを分析できるような分析基盤と、作って終わらない改善ループをどう構築、運用しているかご紹介します。
 
- Chain of Thought (CoT) の魔法
-LLM に大喜利がうまくできなかった理由は、ぼくには... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/3241a46dca47b2</guid>
-      <pubDate>Tue, 23 Jun 2026 08:44:57 +0000</pubDate>
+ 「SQLが書ける」と「正しく答えられる」は違う
+分析基盤そのものは特殊なものではなく、ClaudeやNotion AIなどから自然言語で問いを投げると、SQLを組み立てて、BigQueryで実行して結果を返すという、至っ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tribeau/articles/c961141dd4c9c8</guid>
+      <pubDate>Wed, 24 Jun 2026 09:20:35 +0000</pubDate>
     </item>
     <item>
-      <title>AI爆速開発の裏で膨らむ「認知負債」にどう立ち向かうか。スピードに飲まれない設計力を鍛える - レバテックLAB</title>
-      <link>https://levtech.jp/media/detail_880/</link>
-      <description>生成AIの普及により、ソースコードの作成速度は飛躍的に向上しました。その一方で、「人間がコードを読み解き、理解する」負荷が相対的に高まり、現場では「認知負債の増大」とも呼ぶべき課題が顕在化しています。私たちは、この課題とどう向き合うべきなのでしょうか。 今回は、アーキテクチャ設計のスペシャリストであ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://levtech.jp/media/detail_880/</guid>
-      <pubDate>Thu, 25 Jun 2026 01:25:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>MulmoClaudeで自分専用の天気アプリをVibe Craftingしてみた</title>
-      <link>https://zenn.dev/michiof/articles/mulmoclaude-weather-app</link>
-      <description>MulmoClaudeの6月のアップデートで、MulmoClaude上で自分専用のアプリが開発できるようになりました。複数のツールを行き来する手間も、アーキテクチャを考える手間もなく、MulmoClaudeがあれば。一箇所で自分専用のアプリが出来上がることに、初めてそれを見た時には大きな感動を覚えました。この記事では、その実例として自分専用の天気予報アプリを作った手順を、再現用プロンプト付きで共有します。
+      <title>VSCodeからZedに乗り換えたら、軽いうえに大学鯖にも優しくなれた話</title>
+      <link>https://zenn.dev/toramutton/articles/zed-debut-ssh</link>
+      <description>はじめに
 
- Claude Codeを使っていると自分専用のツールを作りたくなる
-Claude Codeをコーディングだけでなく、日々のタスク管理、アイディアの壁打ち、面倒な雑作業など、生活の一... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/michiof/articles/mulmoclaude-weather-app</guid>
-      <pubDate>Wed, 24 Jun 2026 02:01:46 +0000</pubDate>
+この記事は、大好評(？)の簡単！VSCodeではじめる快適なSSH接続のやり方【電通大生向け】の続編となっております。
+
+どうもトラマトです。皆さん快適な課題ライフを送っていますか？
+大学推奨のmobaXterm × emacsという絶望的に重い環境から飛び出し、
+VSCodeのRemote-SSHで快適に作業をしている人も増えたと思います。
+しかしトラマト、あれだけVSCode + Remote SSHを激推ししておいて実はもう使ってません！！！
+
+え？
+
+ なぜVSCodeをやめたのか？
+まず動機は凄くシンプルで、VSCode、重くないですか？
+起動はそんなに差を感じ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/toramutton/articles/zed-debut-ssh</guid>
+      <pubDate>Wed, 24 Jun 2026 12:47:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>ModalがLLM推論向けに自社プロキシを自作した理由 — Pingora・Envoy・Spannerで作るサーバーレスルーティング基盤</title>
+      <link>https://techfeed.io/entries/6a3d98ab78cdf098502fd809?from=rss</link>
+      <description>6月25日、Modalが「Routing for serverless servers with Pingora, Envoy, and Spanner」と題した記事を公開した。サーバーレス環境でHTTPリクエストをミリ秒単位で処理するために、Pingora・Envoy・Spannerを組み合わせて構築したルーティング基盤の設計と実装を詳しく紹介している。LLM推論の普及によって、サーバーレスプラットフォームに求められる要件は大きく変わりつつある。チャットや補完APIのようなインタラクティブなユースケースでは、数十ミリ秒の差が体感品質を左右する。Modalがこのブログ記事を公開した背景には、既存のアーキテクチャでは対応しきれなかった「低レイテンシ」という要求がある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a3d98ab78cdf098502fd809?from=rss</guid>
+      <pubDate>Thu, 25 Jun 2026 21:07:55 +0000</pubDate>
     </item>
     <item>
       <title>Bunny DNSが完全無料化 — クエリ無制限・500ドメインまで無料、CDN連携とDDoS対策もワンクリックで</title>
@@ -52,11 +62,18 @@ Claude Codeをコーディングだけでなく、日々のタスク管理、ア
       <pubDate>Wed, 24 Jun 2026 21:06:47 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropicの社内コード65%をAIが生成——Slackにチームメンバーとして溶け込む「Claude Tag」が公開</title>
-      <link>https://techfeed.io/entries/6a3af3b893cce08195abf4ee?from=rss</link>
-      <description>6月23日、Anthropicが「Introducing Claude Tag」と題した記事を公開した。SlackにClaudeをチームメンバーとして参加させ、複数人が非同期・並列に作業を委任できる新機能「Claude Tag」について詳しく紹介している。Anthropicの社内では現在、プロダクトチームが書くコードの65%をClaude Tagの社内版が生成しているという。この数字が示すのは単なる実験の話ではなく、AIがすでに現実のチームの生産性を担っているという事実だ。Claude Tagはその体験を外部向けに製品化したものであり、SlackというビジネスコミュニケーションのデファクトスタンダードにAIエージェントを直接組み込む設計となっている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a3af3b893cce08195abf4ee?from=rss</guid>
-      <pubDate>Tue, 23 Jun 2026 20:59:36 +0000</pubDate>
+      <title>LLMが書いた「正しそうな言葉」に感じる違和感</title>
+      <link>https://zenn.dev/mkj/articles/40a6c187d2dbc9</link>
+      <description>松尾研究所でシニアデータサイエンティストをしている大岡です。
+
+この文章はかなり整っている。
+それどころか内容も正しいし思考も深い。
+ただ、その文章を読んで「これは誰の判断なのか」と感じることがある。
+
+今回は、この違和感について整理してみたいと思います。LLMの出力はすでにかなり自然で、仕事の資料や文章にそのまま入り込める程度には整っているからこそ、単に「AIは間違えることがあるので、人間が確認しましょう」という注意喚起だけでは、私が感じている違和感には届かない気がしています。
+たとえば、LLMが生成した文章を、そのまま社内資料に貼る場面を考えてみます。文章は自然で、論理もそれなりに通... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mkj/articles/40a6c187d2dbc9</guid>
+      <pubDate>Thu, 25 Jun 2026 02:50:08 +0000</pubDate>
     </item>
     <item>
       <title>「動くが面白くない」を解決するGame Feelガイド</title>
@@ -91,6 +108,39 @@ Claude Codeをコーディングだけでなく、日々のタスク管理、ア
       <pubDate>Mon, 22 Jun 2026 09:30:23 +0000</pubDate>
     </item>
     <item>
+      <title>AI 時代だからこそコードを読もう</title>
+      <link>https://zenn.dev/layerx/articles/6f510abfc3fa72</link>
+      <description>はじめに
+こんにちは。LayerX でバクラク勤怠の開発をしておりますにいさんです。
+昨今の IT 業界では、事業やプロダクト、イベント登壇、技術ブログ、書籍に至るまで AI の話題を見ない日がないほどになりました。
+開発者としての日々の仕事も大きく変わり、私自身もゼロから手でコードを書き始める場面はかなり減りました。
+今回はそんな頼もしい AI の使い方を間違えてしまった私の失敗談と、そこから「AI 時代だからこそコードを読むことが大事だ」と感じた話をシェアさせてください。
+
+ 入社してすぐのとある日
+入社して全社的なオンボーディングを終え、本格的にチームに合流した日のことです。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/layerx/articles/6f510abfc3fa72</guid>
+      <pubDate>Thu, 25 Jun 2026 02:05:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>プログラムの純粋性について考える —— Clojure/Haskellとともに</title>
+      <link>https://zenn.dev/studist/articles/program-purity-clojure-haskell</link>
+      <description>はじめに
+純粋ってなんだろう？
+
+「プログラムが純粋であるとは、副作用がなく参照透過であることです」
+「えっと、それで？」
+
+こうした 定義と理解の間のギャップ を埋めるために筆を執りました。
+筆者が特に届けたいのは「純粋とはプログラムを ただの計算 にする考え方だ」という理解です。
+「ただの計算」というのは f(x, y) = (x + y) * 2 のような入力だけで値が決まる式のことです。
+これはいつ、何度、並行して呼ばれるかに影響されず、テストは計算結果が正しいかのチェックだけにできる。
+コードの難しさは 考慮しないといけない範囲 に大きく左右されると筆者は考えています。
+D... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/studist/articles/program-purity-clojure-haskell</guid>
+      <pubDate>Thu, 25 Jun 2026 06:59:53 +0000</pubDate>
+    </item>
+    <item>
       <title>標準CSSは美しくなった、もはやTailwindは不要</title>
       <link>https://zenn.dev/higakijin/articles/06276828c81546</link>
       <description>最近、標準のCSSがかなり進化していることに気づきました。
@@ -101,23 +151,6 @@ Bootstrapには大きな問題がありました。それはBootstrapが用意�
 他人にページを見せた時に、「ああ、Bootstrapで作ったんだな... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/higakijin/articles/06276828c81546</guid>
       <pubDate>Tue, 23 Jun 2026 01:11:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS13冠は、何を証明して、何を証明しないのか</title>
-      <link>https://zenn.dev/honey_aws/articles/certifications-and-tradeoff-judgment</link>
-      <description>はじめに
-エンジニア3年目です。現職は GeneXus（ローコード開発基盤）の SES で、AWS の実務経験はありません。その立場で、AWS 認定を13個取り、初めての個人開発として、フルサーバーレスの RAG アプリを Terraform で一気通貫に作ることに挑戦しました。
-資格を短期間で一気に取ったのには理由があります。AWS の案件に参画したかった——でも実務未経験では、その機会自体が回ってきません。だから「せめて知識だけでも先に揃えて、機会損失を防ぐ」ために、認定を一息に取り切りました。いわば資格知識だけが先行した状態です。
-この記事は技術的なノウハウではなく、「13冠と... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/honey_aws/articles/certifications-and-tradeoff-judgment</guid>
-      <pubDate>Tue, 23 Jun 2026 07:44:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>エルデンリングの敵AIは「スタックと乱数」だけで動いていた — 複雑なプランナー不要、シンプルな構造がSoulsborneの凶悪さを生み出す仕組み</title>
-      <link>https://techfeed.io/entries/6a3af56d93cce08195abf53b?from=rss</link>
-      <description>6月23日、nega.tvが「The Low-Tech AI Of Elden Ring」と題した記事を公開した。フロムソフトウェアの『エルデンリング』を含むSoulsborneシリーズは、プレイヤーを何度も死に追いやる手強いNPC戦闘で世界中に知られている。その強さの裏には高度なAIプランナーが動いているのでは——という予想を、リバースエンジニアリングで覗いたコードは鮮やかに裏切る。実態は「データ構造としてのスタック」と「重み付き乱数」の組み合わせだ。Behavior TreeもGOAPも使っていない。GoalをスタックにPushして積み、距離に応じた重みで行動を抽選し、interruptで即時割り込む。それだけの構造が、あの理不尽な強さを生み出している。ゲームAIの世界で「複雑な仕組みを使うほど良い体験になる」という思い込みが、静かに崩される内容だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a3af56d93cce08195abf53b?from=rss</guid>
-      <pubDate>Tue, 23 Jun 2026 21:06:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
