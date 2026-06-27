@@ -7,26 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 09:34:17 +0000</lastBuildDate>
-    <item>
-      <title>Deno 2.9、Electron不要のデスクトップアプリ構築機能を実験的追加 — 起動速度2倍・メモリ消費3分の1の性能改善も</title>
-      <link>https://techfeed.io/entries/6a3d96d678cdf098502fd7e9?from=rss</link>
-      <description>6月25日、Denoが「Deno 2.9」と題した記事を公開した。Deno 2.9では、ElectronやTauriを使わずにWebスタックだけでネイティブデスクトップアプリを構築できる実験的機能「deno desktop」が追加された。加えて、v2.8比で起動速度約2倍・メモリ使用量約3分の1という大幅なパフォーマンス改善と、npm/pnpm/yarn/Bunからの移行サポートの強化が盛り込まれている。ElectronはChromiumをまるごとバンドルするため、Hello World級のアプリでも数百MBのバイナリと高いメモリ消費が避けられない。代替として登場したTauriはOSのWebViewを利用してバイナリサイズを抑えるが、Rustの学習コストが壁になるケースもある。deno desktop はDenoランタイムをそのまま使い、同様にOSのWebViewを活用する設計で、TypeScript/JavaScriptだけで完結するのが特徴だ。Denoはすでにサーバーサイドとフロントエンドのツールチェーンを統合する方向を進めており、deno desktop はその延長線上でデスクト (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a3d96d678cdf098502fd7e9?from=rss</guid>
-      <pubDate>Thu, 25 Jun 2026 21:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>「AIがSQLを書いてくれる」で終わらせない − 分析基盤の育て方</title>
-      <link>https://zenn.dev/tribeau/articles/c961141dd4c9c8</link>
-      <description>トリビューでCTOをしている小尾（@obiyuta）です。
-弊社ではAIを前提とした全社業務の再構築に取り組んでおり、前回はその中で取り組んでいる社内MCPを載せる共通基盤（認証・認可・ログ）をご紹介しました。
-今回は具体的な活用事例として、非エンジニアが自分で本番データを分析できるような分析基盤と、作って終わらない改善ループをどう構築、運用しているかご紹介します。
-
- 「SQLが書ける」と「正しく答えられる」は違う
-分析基盤そのものは特殊なものではなく、ClaudeやNotion AIなどから自然言語で問いを投げると、SQLを組み立てて、BigQueryで実行して結果を返すという、至っ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tribeau/articles/c961141dd4c9c8</guid>
-      <pubDate>Wed, 24 Jun 2026 09:20:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Jun 2026 08:41:02 +0000</lastBuildDate>
     <item>
       <title>VSCodeからZedに乗り換えたら、軽いうえに大学鯖にも優しくなれた話</title>
       <link>https://zenn.dev/toramutton/articles/zed-debut-ssh</link>
@@ -48,11 +29,33 @@ VSCodeのRemote-SSHで快適に作業をしている人も増えたと思いま�
       <pubDate>Wed, 24 Jun 2026 12:47:43 +0000</pubDate>
     </item>
     <item>
+      <title>ViteのresolveIdで特定環境のビルドだけ不要モジュールをstub化してバンドル軽量化</title>
+      <link>https://zenn.dev/dress_code/articles/78667afa7c4fd9</link>
+      <description>はじめに
+こんにちは、Dress Code株式会社でプロダクトエンジニアをしているもず（@mozu1206）です。
+以前、フロントだけで動くCRUDプロトタイプをDexie.jsで作り、-api層だけ差し替える設計を紹介しました。
+
+デモDBの初期化は動的import + モードガードで止めていたつもりだったのですが、ビルド成果物を見るとDexie本体やモックのseedデータがまだ載っていたことを確認しました。
+特定の環境向けビルドだけ、これらのimportをstubに向け替えたいなと思い、調べてみたらViteプラグインのresolveIdが出てきたので試してみました。
+本記事では、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/78667afa7c4fd9</guid>
+      <pubDate>Fri, 26 Jun 2026 09:00:05 +0000</pubDate>
+    </item>
+    <item>
       <title>ModalがLLM推論向けに自社プロキシを自作した理由 — Pingora・Envoy・Spannerで作るサーバーレスルーティング基盤</title>
       <link>https://techfeed.io/entries/6a3d98ab78cdf098502fd809?from=rss</link>
       <description>6月25日、Modalが「Routing for serverless servers with Pingora, Envoy, and Spanner」と題した記事を公開した。サーバーレス環境でHTTPリクエストをミリ秒単位で処理するために、Pingora・Envoy・Spannerを組み合わせて構築したルーティング基盤の設計と実装を詳しく紹介している。LLM推論の普及によって、サーバーレスプラットフォームに求められる要件は大きく変わりつつある。チャットや補完APIのようなインタラクティブなユースケースでは、数十ミリ秒の差が体感品質を左右する。Modalがこのブログ記事を公開した背景には、既存のアーキテクチャでは対応しきれなかった「低レイテンシ」という要求がある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a3d98ab78cdf098502fd809?from=rss</guid>
       <pubDate>Thu, 25 Jun 2026 21:07:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>会議中に Claude が“次に聞くべきこと”を提案してくれる議事録アプリを作った</title>
+      <link>https://zenn.dev/uguisu_blog/articles/d777bd252bab6b</link>
+      <description>商談や会議の発言をリアルタイムに文字起こしし、その場で Claude が「次に確認すべきこと」を提案、終了時に議事録まで自動生成する Web アプリ AI-Giziroku を作りました。
+このアプリの一番の売りは、会議中にリアルタイムで“次の一手”を提案してくれるロール別フィードバック です。商談の最中に「営業」「エンジニア」など複数の専門視点が同席して耳打ちしてくれる感覚で、議事録を後から作るだけのツールとは決定的に違うところです。
+この記事では、実装の背景から、音声処理・話者分離（ダイアライゼーション）・LLM 連携といった要素技術の解説、そして機能ごとの処理フローまでをまとめます... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/uguisu_blog/articles/d777bd252bab6b</guid>
+      <pubDate>Fri, 26 Jun 2026 11:55:03 +0000</pubDate>
     </item>
     <item>
       <title>Bunny DNSが完全無料化 — クエリ無制限・500ドメインまで無料、CDN連携とDDoS対策もワンクリックで</title>
@@ -76,36 +79,11 @@ VSCodeのRemote-SSHで快適に作業をしている人も増えたと思いま�
       <pubDate>Thu, 25 Jun 2026 02:50:08 +0000</pubDate>
     </item>
     <item>
-      <title>「動くが面白くない」を解決するGame Feelガイド</title>
-      <link>https://zenn.dev/kapi0622/books/0d107732880fc8</link>
-      <description>「機能として完成しているのに、触っていて面白くない」
-
-ゲームを作っていると、ある段階でこの壁にぶつかる。
-キャラクターは動く、攻撃は当たる、スコアも加算される。
-なのに、名作と自分の作品を並べると、触り心地が決定的に違う。
-
-この差の正体が Game Feel だ。
-
-本書は、その曖昧で直感的に語られがちな「手触り」を
-定義・構成要素・心理学的根拠・実装原理・事例分析の
-5つの側面から体系的に解説するシリーズです。
-
-【こんな人に向けて書きました】
-- ゲームの「気持ちよさ」を言語化できるようになりたいエンジニア
-- ヒットストップやスクリーンシェイクを「なぜそうするか」まで理解した上で実装したい人
-- 評価されているゲームの Game Feel がなぜ優れているのかを原理から理解したい人
-
-【シリーズ構成】
-概論編     ：定義・心理・構成要素（全3章）
-実装原理編  ：ヒットストップ・スクリーンシェイク・
-　　　　　　　コヨーテタイム・イージング（全4章）
-事例・方法論編：実際のゲームを挙げ分析・検証する（全2章）
-
-現在は概論編 第二章まで公開
-
-コードは Unity（C#） (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kapi0622/books/0d107732880fc8</guid>
-      <pubDate>Mon, 22 Jun 2026 09:30:23 +0000</pubDate>
+      <title>「LLM使用を正直に申告したらパッチを却下された」— GNUのポリシーが生む「隠した方が得」な構造</title>
+      <link>https://techfeed.io/entries/6a3ee939799628ba032e6f8a?from=rss</link>
+      <description>6月26日、xlii.spaceが「Honesty gets Emacs patch rejected」と題した記事を公開した。LLMを活用したことを正直に申告したEmacsへのパッチが、GNUのポリシーにより却下された経緯と、その構造的な問題を論じた内容だ。筆者が問題にしているのは「LLM支援成果物を受け付けないこと」ではなく、「申告した者だけが弾かれる」という非対称性だ。黙って出せば通っていたかもしれないパッチが、誠実に開示したことで却下される——このポリシー構造は、むしろ隠蔽を合理的な選択にしてしまう。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a3ee939799628ba032e6f8a?from=rss</guid>
+      <pubDate>Fri, 26 Jun 2026 21:03:53 +0000</pubDate>
     </item>
     <item>
       <title>AI 時代だからこそコードを読もう</title>
@@ -121,6 +99,30 @@ VSCodeのRemote-SSHで快適に作業をしている人も増えたと思いま�
 ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/layerx/articles/6f510abfc3fa72</guid>
       <pubDate>Thu, 25 Jun 2026 02:05:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>マイクラを声で動かそうとしたら令和の「ピカチュウげんきでちゅう」になった話</title>
+      <link>https://zenn.dev/m2lab/articles/koe-craft-agent-amivoice</link>
+      <description>!
+この記事は、Minecraft を声で操作する自作 MOD の開発記録です。
+平成一桁生まれが、昔遊んだ「ピカチュウげんきでちゅう」のスイカ割りをふと思い出しながら書いています。
+とはいえ、思い出話だけの記事ではありません。
+AmiVoice API、音声入力のノイズ対策、生成 AI fallback、Minecraft 内での実行計画をどう分けたか、という実装の話をします。
+
+
+
+ 🎙️ 物語のはじまり
+Minecraft を声で動かしたい。
+最初は、ただそれだけだった。
+キーボードもマウスも使わずに、
+
+「まっすぐ進んで」
+「木のツルハシ作って」
+「石のツルハシ作って」
+
+と言っ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/m2lab/articles/koe-craft-agent-amivoice</guid>
+      <pubDate>Thu, 25 Jun 2026 22:11:25 +0000</pubDate>
     </item>
     <item>
       <title>プログラムの純粋性について考える —— Clojure/Haskellとともに</title>
@@ -139,18 +141,6 @@ VSCodeのRemote-SSHで快適に作業をしている人も増えたと思いま�
 D... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/studist/articles/program-purity-clojure-haskell</guid>
       <pubDate>Thu, 25 Jun 2026 06:59:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>標準CSSは美しくなった、もはやTailwindは不要</title>
-      <link>https://zenn.dev/higakijin/articles/06276828c81546</link>
-      <description>最近、標準のCSSがかなり進化していることに気づきました。
-他のエンジニアと会話しても知らない人が多そうなのでシェアしておきます。
-数年ほど前からCSSは標準でネスト構文をかけるようになりました。これはとてつもない進化です。
-多くのプロジェクトでは、sassやscssなどを導入して、CSSを拡張したり、あるいはBootstrapのようなクラスで定義するタイプのCSSフレームワークを使用したりしていました。
-Bootstrapには大きな問題がありました。それはBootstrapが用意したデザインっぽくなってしまうことです。
-他人にページを見せた時に、「ああ、Bootstrapで作ったんだな... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/higakijin/articles/06276828c81546</guid>
-      <pubDate>Tue, 23 Jun 2026 01:11:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
