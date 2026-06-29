@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Jun 2026 09:16:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 11:07:32 +0000</lastBuildDate>
     <item>
-      <title>Grab社がセキュアなエージェント型AIワークロードプラットフォームを構築</title>
-      <link>https://www.infoq.com/news/2026/06/grab-ai-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Grabのセキュリティチームは、自律型AIエージェントを安全に実行するために、Kubernetesネイティブのセキュア実行プラットフォームであるPalanaを構築しました。決定論的なソフトウェアとは異なり、モデル駆動型エージェントは、予測不可能なツール使用、コード記述、およびプロンプトインジェクションのリスクを示します。Palanaは、分離された名前空間、プロセス外制御プレーン、およびプロキシを介したVaultバックアップのシークレットを使用して、インフラストラクチャレベルでこれらの脅威を封じ込めます。執筆：Patrick Farry (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/06/grab-ai-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 25 Jun 2026 02:08:00 +0000</pubDate>
+      <title>記事：バーチャルパネル：機械時代のセキュリティ：AI脅威の進化に関する専門家の見解</title>
+      <link>https://www.infoq.com/articles/security-ai-threat-evolution/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>このバーチャルパネルでは、AIセキュリティの専門家が一堂に会し、即時注入やデータ汚染からエージェントの悪用、AIを活用したソーシャルエンジニアリングに至るまで、AIによる脅威の進化について検証します。議論では、新たな攻撃パターン、インシデント対応の課題、そしてAIシステムがより自律的になり、重要なワークフローに統合されるにつれてセキュリティチームが行うべき変化について探ります。執筆者：Claudio Masolo、Elham Arshad、Sabri Allani、Vijay Dilwale、Igor Maljkovic (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/security-ai-threat-evolution/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 29 Jun 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

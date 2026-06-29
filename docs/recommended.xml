@@ -7,13 +7,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jun 2026 09:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 11:07:22 +0000</lastBuildDate>
     <item>
-      <title>Deno 2.9、Electron不要のデスクトップアプリ構築機能を実験的追加 — 起動速度2倍・メモリ消費3分の1の性能改善も</title>
-      <link>https://techfeed.io/entries/6a3d96d678cdf098502fd7e9?from=rss</link>
-      <description>6月25日、Denoが「Deno 2.9」と題した記事を公開した。Deno 2.9では、ElectronやTauriを使わずにWebスタックだけでネイティブデスクトップアプリを構築できる実験的機能「deno desktop」が追加された。加えて、v2.8比で起動速度約2倍・メモリ使用量約3分の1という大幅なパフォーマンス改善と、npm/pnpm/yarn/Bunからの移行サポートの強化が盛り込まれている。ElectronはChromiumをまるごとバンドルするため、Hello World級のアプリでも数百MBのバイナリと高いメモリ消費が避けられない。代替として登場したTauriはOSのWebViewを利用してバイナリサイズを抑えるが、Rustの学習コストが壁になるケースもある。deno desktop はDenoランタイムをそのまま使い、同様にOSのWebViewを活用する設計で、TypeScript/JavaScriptだけで完結するのが特徴だ。Denoはすでにサーバーサイドとフロントエンドのツールチェーンを統合する方向を進めており、deno desktop はその延長線上でデスクト (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a3d96d678cdf098502fd7e9?from=rss</guid>
-      <pubDate>Thu, 25 Jun 2026 21:00:05 +0000</pubDate>
+      <title>Generative UIにJSONは最適なのか？ OpenUIという選択肢</title>
+      <link>https://zenn.dev/sc30gsw/articles/d7320f1247b785</link>
+      <description>はじめに
+最近、Generative UI まわりの選択肢が一気に増えてきました。
+A2UI・json-render・MCP Apps・Open Generative UI、そして今回扱う OpenUI。プロトコル・ライブラリ・フレームワークが入り混じっていて、ひとくくりに「フレームワーク」とは呼びにくいほど流行しています。
+今回扱うOpenUI は、Thesys が開発するフルスタックの Generative UI フレームワークです。UI の出力に OpenUI Lang という独自言語を使うのが最大の特徴で、トークン効率・ストリーミング・出力の堅牢性を狙って設計されています。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sc30gsw/articles/d7320f1247b785</guid>
+      <pubDate>Fri, 26 Jun 2026 10:07:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code と Codex のレビュー機能は脆弱性をどれだけ見つけられるかをOWASP Benchmark で検証</title>
+      <link>https://zenn.dev/yukkie1114/articles/3d927e8c28e085</link>
+      <description>はじめに
+「AI にコードレビューをさせる」少し前ならAIでは不安だと感じていたことが、いまではAIにレビューさせている人も多いのではないでしょうか。
+便利だと思う一方で、どこまでできるのだろうか？と疑心暗鬼な自分もいたのでベンチマークをとることにしました。
+
+ なぜ「Claude Code と Codex」なのか
+理由はシンプルで、Claude Code(CC) と Codex を使っている人が多いからです。
+しかも、追加の API 課金をせずに、サブスク（定額）の範囲内でコードレビューまで済ませたいという人は多いはず。
+今回測った 4つのレビュー機能は、そのサブスク内で使えるもの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yukkie1114/articles/3d927e8c28e085</guid>
+      <pubDate>Sat, 27 Jun 2026 08:55:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>ひったくり犯がiPhoneを敬遠〜狙いはAndroidに - iPhone Mania</title>
+      <link>https://iphone-mania.jp/apple-602892/</link>
+      <description>スマホをひったくる犯人の標的が、iPhoneからAndroidへ移りつつある。そんな指摘が、ロンドン警視庁トップの発言をきっかけに海外で注目を集めています。背景にあるのは、iPhoneの盗難対策が転売市場を成り立ちにくくしているという見方です。なぜ盗まれたiPhoneは売れない端末になったのか。仕組みから、日本のユーザー... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://iphone-mania.jp/apple-602892/</guid>
+      <pubDate>Sun, 28 Jun 2026 15:11:01 +0000</pubDate>
     </item>
     <item>
       <title>Kinesis Data Streamsを使う前に知っておきたかったこと</title>
@@ -29,13 +54,6 @@
       <pubDate>Sat, 27 Jun 2026 05:02:32 +0000</pubDate>
     </item>
     <item>
-      <title>ModalがLLM推論向けに自社プロキシを自作した理由 — Pingora・Envoy・Spannerで作るサーバーレスルーティング基盤</title>
-      <link>https://techfeed.io/entries/6a3d98ab78cdf098502fd809?from=rss</link>
-      <description>6月25日、Modalが「Routing for serverless servers with Pingora, Envoy, and Spanner」と題した記事を公開した。サーバーレス環境でHTTPリクエストをミリ秒単位で処理するために、Pingora・Envoy・Spannerを組み合わせて構築したルーティング基盤の設計と実装を詳しく紹介している。LLM推論の普及によって、サーバーレスプラットフォームに求められる要件は大きく変わりつつある。チャットや補完APIのようなインタラクティブなユースケースでは、数十ミリ秒の差が体感品質を左右する。Modalがこのブログ記事を公開した背景には、既存のアーキテクチャでは対応しきれなかった「低レイテンシ」という要求がある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a3d98ab78cdf098502fd809?from=rss</guid>
-      <pubDate>Thu, 25 Jun 2026 21:07:55 +0000</pubDate>
-    </item>
-    <item>
       <title>会議中に Claude が“次に聞くべきこと”を提案してくれる議事録アプリを作った</title>
       <link>https://zenn.dev/uguisu_blog/articles/d777bd252bab6b</link>
       <description>商談や会議の発言をリアルタイムに文字起こしし、その場で Claude が「次に確認すべきこと」を提案、終了時に議事録まで自動生成する Web アプリ AI-Giziroku を作りました。
@@ -45,36 +63,18 @@
       <pubDate>Fri, 26 Jun 2026 11:55:03 +0000</pubDate>
     </item>
     <item>
-      <title>Bunny DNSが完全無料化 — クエリ無制限・500ドメインまで無料、CDN連携とDDoS対策もワンクリックで</title>
-      <link>https://techfeed.io/entries/6a3c46e7a2ca0077a3828aa9?from=rss</link>
-      <description>6月24日、bunny.netが「We're making Bunny DNS free」と題した記事を公開した。同社のDNSサービス「Bunny DNS」のクエリ課金を完全撤廃し、あわせて実施した機能強化の内容を詳しく紹介している。DNSクエリ数の増減によって月次の請求額が読めなくなる問題は、インフラを自前で管理する開発者やスタートアップにとって長年の悩みの種だ。CDN・ストレージを中心にインフラサービスを展開するbunny.netは、この問題に直接応える形でDNSクエリ費用を完全撤廃する判断を下した。1アカウントあたり最大500ドメインを無料でホストでき、クエリ数の上限もリクエスト単位の課金も存在しない。 スマートレコードやヘルスモニタリングといった高度機能も含めてすべて無料で利用できる。なお、bunny.netの全サービス共通で月額$1の最低利用料は引き続き発生する。Bunny DNSはもともとCDNの内部ルーティングエンジンとして開発され、約4年前に一般向けサービスとして公開された。現在は30万以上のドメインを管理し、月間約2,000億クエリを処理している。静的なレコード返却に (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a3c46e7a2ca0077a3828aa9?from=rss</guid>
-      <pubDate>Wed, 24 Jun 2026 21:06:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 推進専任 4 ヶ月、試行錯誤してたどり着いた答え</title>
-      <link>https://zenn.dev/babyjob/articles/ai-promotion-4months-practice</link>
+      <title>ループエンジニアリングを takt exec で気軽に始めよう</title>
+      <link>https://zenn.dev/nrs/articles/e4a2ae8a9fb785</link>
       <description>はじめに
-こんにちは！BABY JOB 開発部の kassa です。
-元々は えんさがそっ♪ の開発・運用保守を担当しており、2026 年 3 月から AI 推進の専任担当者として着任しました。
-正直に言うと、最初は何から手をつければいいかわかりませんでした。毎週のように世間では新たな AI ツールが登場し、検証すべきものは山積み。試行錯誤し続けた 4 ヶ月でした。
-本記事では、やったこと・うまくいったこと・失敗から得た学びをまとめます。同じように AI 推進を担っている方の参考になれば幸いです。
-なお、AI 推進チームの発足から 1 年間の歩みについては、以下の記事もあわせてご覧く... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/babyjob/articles/ai-promotion-4months-practice</guid>
-      <pubDate>Fri, 26 Jun 2026 07:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>コードを書かずに、MulmoClaude で note 記事をアニメーション付き動画にする</title>
-      <link>https://zenn.dev/singularity/articles/2026-06-26-mulmoclaude-html-tailwind-animation</link>
-      <description>!
-この記事は、MulmoClaude を使って note の記事を 1 本のプレゼン動画に仕立てた記録です。記事そのものも、MulmoClaude と一緒に書きました。
-
-
- はじめに
-気になった note の記事を、MulmoClaude でナレーション付きのプレゼン動画にしてみました。日本語で指示しながら、スライドが動く動画まで仕上げていった過程をまとめます。
-そもそも MulmoClaude とは何か。中島聡主導で開発が進む MulmoClaude は、従来の「各アプリに LLM を組み込む」やり方ではなく、『人間の言葉を理解する AI がいることを前提に、AI ネイティブなコン... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/singularity/articles/2026-06-26-mulmoclaude-html-tailwind-animation</guid>
-      <pubDate>Sat, 27 Jun 2026 06:23:06 +0000</pubDate>
+「ループエンジニアリング」という言葉が話題になっています。
+ざっくり言うと「自分がエージェントに指示を出す役割を、システムに置き換える」という考え方です。
+人間がプロンプトを書いてはエージェントの出力を確認して、またプロンプトを書いて、という往復をやめる。
+代わりに作業→レビュー→修正のループをシステムとして設計して自動的に回す。
+プロンプトエンジニアリングが「1ターンごとに何を伝えるか」の技術だったのに対して、ループエンジニアリングは「ループ全体をどう設計するか」の技術です。
+エンジニアの役割が「プロンプトを書く人」から「ループを設計する人」に変わるということです。
+TA... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nrs/articles/e4a2ae8a9fb785</guid>
+      <pubDate>Sun, 28 Jun 2026 07:35:50 +0000</pubDate>
     </item>
     <item>
       <title>「LLM使用を正直に申告したらパッチを却下された」— GNUのポリシーが生む「隠した方が得」な構造</title>
@@ -84,30 +84,29 @@
       <pubDate>Fri, 26 Jun 2026 21:03:53 +0000</pubDate>
     </item>
     <item>
-      <title>AI 時代だからこそコードを読もう</title>
-      <link>https://zenn.dev/layerx/articles/6f510abfc3fa72</link>
-      <description>はじめに
-こんにちは。LayerX でバクラク勤怠の開発をしておりますにいさんです。
-昨今の IT 業界では、事業やプロダクト、イベント登壇、技術ブログ、書籍に至るまで AI の話題を見ない日がないほどになりました。
-開発者としての日々の仕事も大きく変わり、私自身もゼロから手でコードを書き始める場面はかなり減りました。
-今回はそんな頼もしい AI の使い方を間違えてしまった私の失敗談と、そこから「AI 時代だからこそコードを読むことが大事だ」と感じた話をシェアさせてください。
-
- 入社してすぐのとある日
-入社して全社的なオンボーディングを終え、本格的にチームに合流した日のことです。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/layerx/articles/6f510abfc3fa72</guid>
-      <pubDate>Thu, 25 Jun 2026 02:05:18 +0000</pubDate>
+      <title>AIがジュニア開発者を代替し始めた今、「コードを理解できる人間」がいなくなる日が来るかもしれない</title>
+      <link>https://techfeed.io/entries/6a418b90799628ba032f27d9?from=rss</link>
+      <description>6月28日、ソフトウェアエンジニア兼小説家のAlex Diamond氏が「Software Engineering in the Age of AI」と題した記事を公開した。Cursor、GitHub Copilot、Claude CodeといったAIコーディングツールが急速に普及する中、ソフトウェアエンジニアリングの現場は静かに、しかし根本的に変容している。この記事は個人の体験と業界構造の両面からその変化を分析した考察だ。著者のDiamond氏は長年のエンジニアキャリアを持ちながら、同時に小説家でもある。その二つの顔を持つからこそ、AIがもたらした変化を鋭く言語化できる立場にある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a418b90799628ba032f27d9?from=rss</guid>
+      <pubDate>Sun, 28 Jun 2026 21:01:04 +0000</pubDate>
     </item>
     <item>
-      <title>AIの日本語が「整いすぎて不自然」な正体は『カルク（訳語臭）』だった — 高品質な日本語文章を生成するスキルを作った</title>
-      <link>https://zenn.dev/forest_project/articles/a62fc2f6ac85ff</link>
-      <description>AIに書かせた日本語を読んで、「整っているのに、どこか不自然」と感じたことはないだろうか。
-誤字はない。文法も合っている。それなのに、地の文がつるりと滑って頭に入ってこない。「AIが書いた文章だ」と一目で分かる、あの感じ。
-この「整いすぎて不自然」には、正体がある。名前もついている。カルク（calque＝翻訳借用）——英語をそのまま直訳して日本語に取り込む現象だ。
-そして厄介なことに、これは整って見える文章ほど見つけにくい。本記事の後半で、私がAIに書かせて公開した自分の技術記事を題材に、自作スキルで実際に検出した結果を全部さらす。一読すると破綻のないAIの文章から、5件の欠陥が出た。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/forest_project/articles/a62fc2f6ac85ff</guid>
-      <pubDate>Sat, 27 Jun 2026 16:30:34 +0000</pubDate>
+      <title>米政府、Anthropicの最新AIモデル「Claude Mythos 5」の輸出規制を約2週間で解除 — 100社超に提供許可、政府との協調が解除の条件に</title>
+      <link>https://techfeed.io/entries/6a418c78799628ba032f281c?from=rss</link>
+      <description>6月27日、Semaforが「Exclusive: US releases powerful Anthropic model Mythos to some US companies」と題した記事を公開した。米商務省がAnthropicの最新AIモデル「Claude Mythos 5」に課していた輸出規制を解除し、100社以上の米国企業・政府機関への提供を許可したという内容だ。規制発動からわずか約2週間での解除という速さも驚くべきだが、それ以上に注目されるのは解除の条件だ。Anthropicは「自社モデルのプロトコル・標準・リリースに関して米国政府と協力する」ことを明示的にコミットしており、承認プロセスへの服従を前提に市場復帰を果たした形となる。同日にはOpenAIも新モデルGPT-5.6を政府承認済みの限定パートナーに公開しており、フロンティアAIの流通に政府が関与する構図は業界全体に広がりつつある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a418c78799628ba032f281c?from=rss</guid>
+      <pubDate>Sun, 28 Jun 2026 21:04:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>hoge+fuga@example.com は「エイリアス」ではない</title>
+      <link>https://zenn.dev/mai_llj/articles/3eefb32e632563</link>
+      <description>はじめに
+先日、このような投稿を見かけました。
+メールサーバをセルフホストして、サービスごとに別々のアドレスを割り当てている方のところに、とあるお寿司チェーンにしか教えていないはずのアドレス宛にフィッシングメールが届いたそうです。おかげで、どこから漏れたのかが一発でわかった、という話でした。アドレスの出どころを切り分けられる運用自体はすごく良いと思います。
+問題はそのあとです。反応には「Gmailのエイリアスを使えばいい」という声が並び、投稿主ご本人も「厳密にはCatch-Allではなくエイリアスで運用している、区切り文字をピリオドにしているので弾かれにくい」と補足していました。
+こ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mai_llj/articles/3eefb32e632563</guid>
+      <pubDate>Sat, 27 Jun 2026 15:07:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

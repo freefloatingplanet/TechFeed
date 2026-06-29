@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Jun 2026 09:16:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 11:07:30 +0000</lastBuildDate>
     <item>
-      <title>OctoSense：マルチモーダルロボット知覚のための自己教師あり学習</title>
-      <link>https://arxiv.org/abs/2606.27317v1</link>
-      <description>本稿では、ステレオRGBカメラとイベントカメラ、LiDAR、サーマルカメラ、慣性計測装置、RTK補正済み全地球測位システム、および固有受容感覚（自動車からのCANバスデータ、四足歩行ロボットの関節角度）を備えたオープンソースのセンサープラットフォームであるOctoSenseを紹介します。OctoSenseデータセットには、高度に劣化したセンサーを含む、さまざまな環境と時間帯にわたる59時間の時間同期された走行データが含まれています。センサーの表現、周波数、遅延、ノイズが異なるこのような実世界のロボットデータを使用して、マルチモーダル自己教師あり学習を実証します。私たちの手法である「遅延融合」マスク付きオートエンコーダーは、（i）モダリティ固有のトークナイザーを使用して、これらのセンサーの異なる時空間特性を考慮し、（ii）推論時にモダリティ固有のトークンをキャッシュして、新しい測定値が到着したときに処理します。このアーキテクチャは、(i) 高速（表現の計算に NVIDIA 5090 で 6.68 ms、Orin NX で 112 ms）、(ii) オプティカルフロー、深度、セマンティック (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.27317v1</guid>
-      <pubDate>Thu, 25 Jun 2026 17:30:49 +0000</pubDate>
+      <title>ロボット工学における画像ベースの地理位置情報特定：ブラックボックス型のビジョン言語モデルは実用段階に達したのか？</title>
+      <link>https://arxiv.org/abs/2501.16947v2</link>
+      <description>ビジョン言語モデル（VLM）の進歩は、画像ジオロケーション（視覚データのみに基づいて場所の地理座標を特定する問題）を伴うロボットアプリケーションに刺激的な機会をもたらします。ロボット工学において、このような機能は、ロボットが位置に関する事前知識なしに姿勢を回復しなければならない誘拐ロボット問題のグローバル再位置特定段階に特に重要です。最近の研究では、ジオロケーションのための埋め込み抽出器としてVLMを使用することに焦点が当てられています。しかし、最も高度なVLMは、APIを介してアクセスできるブラックボックスとしてのみ利用可能であり、トレーニングデータ、モデルの特徴、勾配にアクセスできない、再トレーニングが不可能、予測数がAPIによって制限されるなど、多くの制限があります。最先端のVLMを、単一のテキストベースのプロンプトを使用して惑星規模でスタンドアロンのゼロショットジオロケーションシステムとして使用する可能性は、ほとんど探求されていません。このギャップを埋めるため、本論文では、我々の知る限り、最先端の生成型VLMを現実的な制約のあるブラックボックス設定におけるスタンドアロンのゼロシ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2501.16947v2</guid>
+      <pubDate>Tue, 28 Jan 2025 13:46:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
