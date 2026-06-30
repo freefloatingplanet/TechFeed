@@ -7,81 +7,81 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 11:07:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:45:24 +0000</lastBuildDate>
     <item>
-      <title>Generative UIにJSONは最適なのか？ OpenUIという選択肢</title>
-      <link>https://zenn.dev/sc30gsw/articles/d7320f1247b785</link>
+      <title>【CCA-F学習ログ #2】基礎編：Anthropic Academy のレベル100で土台を固める</title>
+      <link>https://zenn.dev/yujmatsu/articles/20260629_cca_foundations_02_basics</link>
       <description>はじめに
-最近、Generative UI まわりの選択肢が一気に増えてきました。
-A2UI・json-render・MCP Apps・Open Generative UI、そして今回扱う OpenUI。プロトコル・ライブラリ・フレームワークが入り混じっていて、ひとくくりに「フレームワーク」とは呼びにくいほど流行しています。
-今回扱うOpenUI は、Thesys が開発するフルスタックの Generative UI フレームワークです。UI の出力に OpenUI Lang という独自言語を使うのが最大の特徴で、トークン効率・ストリーミング・出力の堅牢性を狙って設計されています。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sc30gsw/articles/d7320f1247b785</guid>
-      <pubDate>Fri, 26 Jun 2026 10:07:27 +0000</pubDate>
+この記事は、Claude Certified Architect – Foundations（CCA-F）合格を目指す学習ログの第2弾です。
+#1（概要編）では、CCA-F がどういう試験か・どのコースを使って学ぶかの地図を整理しました。#2 の本記事では、試験ドメインに入る前の土台を固めます。具体的には、Anthropic Academy のレベル100コース（基礎）5つのうち「考え方の土台」と「手を動かす土台」に分けて整理し、Claude API の最小実装から順に動くコードを積み上げていきます。
+この記事で扱う範囲のスコープ
+基礎編はレベル100の「土台」に絞ります。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yujmatsu/articles/20260629_cca_foundations_02_basics</guid>
+      <pubDate>Mon, 29 Jun 2026 11:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code と Codex のレビュー機能は脆弱性をどれだけ見つけられるかをOWASP Benchmark で検証</title>
-      <link>https://zenn.dev/yukkie1114/articles/3d927e8c28e085</link>
-      <description>はじめに
-「AI にコードレビューをさせる」少し前ならAIでは不安だと感じていたことが、いまではAIにレビューさせている人も多いのではないでしょうか。
-便利だと思う一方で、どこまでできるのだろうか？と疑心暗鬼な自分もいたのでベンチマークをとることにしました。
+      <title>コードを仕様書にするために関数型プログラミングをする</title>
+      <link>https://zenn.dev/satto_workspace/articles/62cdc01e1d0e97</link>
+      <description>自己紹介
+コードを仕様書にすることを夢見るハムスターです🐹
+夢が叶ったかもしれません。
+satto workspace のプロダクト開発をしています
 
- なぜ「Claude Code と Codex」なのか
-理由はシンプルで、Claude Code(CC) と Codex を使っている人が多いからです。
-しかも、追加の API 課金をせずに、サブスク（定額）の範囲内でコードレビューまで済ませたいという人は多いはず。
-今回測った 4つのレビュー機能は、そのサブスク内で使えるもの... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yukkie1114/articles/3d927e8c28e085</guid>
-      <pubDate>Sat, 27 Jun 2026 08:55:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>ひったくり犯がiPhoneを敬遠〜狙いはAndroidに - iPhone Mania</title>
-      <link>https://iphone-mania.jp/apple-602892/</link>
-      <description>スマホをひったくる犯人の標的が、iPhoneからAndroidへ移りつつある。そんな指摘が、ロンドン警視庁トップの発言をきっかけに海外で注目を集めています。背景にあるのは、iPhoneの盗難対策が転売市場を成り立ちにくくしているという見方です。なぜ盗まれたiPhoneは売れない端末になったのか。仕組みから、日本のユーザー... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://iphone-mania.jp/apple-602892/</guid>
-      <pubDate>Sun, 28 Jun 2026 15:11:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kinesis Data Streamsを使う前に知っておきたかったこと</title>
-      <link>https://zenn.dev/aminevsky/articles/2f0a7ebcc0359b</link>
-      <description>数年前、急遽、Kinesis Data Streams（KDS）を使うことになりました。社内での使用実績はなく、当然、有識者もいません。手探りで調べるほかありませんでした。
-なんとか完成にこぎつけ、幸い、大きなトラブルなく稼働しています。しかし完成後に知ったり理解できたことも多く、今となっては作り直したい気持ちが強いです。
-そこで、今回は KDS を使う前に知っておきたかったことをまとめたいと思います。
 
- ストリームは一時停止できない
-ストリームは起動しているだけで、コストが発生します。そのため、使っていないあいだは停止したいと思うのは当然のことです。
-しかし、ストリームには「有効／無... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aminevsky/articles/2f0a7ebcc0359b</guid>
-      <pubDate>Sat, 27 Jun 2026 05:02:32 +0000</pubDate>
+ はじめに
+「コードは仕様書である。コードを見れば仕様がわかるようにしよう。」
+誰もがそのようなことを願ってプロダクトを立ち上げることでしょう。
+現代ではAIがコードと一緒にコメントも生成・更新してくれるため、その願いは容易に叶うはずでした。
+しかし実際には、生成されたコメントが肥大化していたり、要領を得ない文章だったりして、かえってコードを読みにくくしていることがあると感じています。
+やはり、コード自体が読みやすいことは依然として... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/satto_workspace/articles/62cdc01e1d0e97</guid>
+      <pubDate>Mon, 29 Jun 2026 04:21:49 +0000</pubDate>
     </item>
     <item>
-      <title>会議中に Claude が“次に聞くべきこと”を提案してくれる議事録アプリを作った</title>
-      <link>https://zenn.dev/uguisu_blog/articles/d777bd252bab6b</link>
-      <description>商談や会議の発言をリアルタイムに文字起こしし、その場で Claude が「次に確認すべきこと」を提案、終了時に議事録まで自動生成する Web アプリ AI-Giziroku を作りました。
-このアプリの一番の売りは、会議中にリアルタイムで“次の一手”を提案してくれるロール別フィードバック です。商談の最中に「営業」「エンジニア」など複数の専門視点が同席して耳打ちしてくれる感覚で、議事録を後から作るだけのツールとは決定的に違うところです。
-この記事では、実装の背景から、音声処理・話者分離（ダイアライゼーション）・LLM 連携といった要素技術の解説、そして機能ごとの処理フローまでをまとめます... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/uguisu_blog/articles/d777bd252bab6b</guid>
-      <pubDate>Fri, 26 Jun 2026 11:55:03 +0000</pubDate>
+      <title>「エンジニアがこの先生きのこるためのカンファレンス2026」に登壇・参加して</title>
+      <link>https://zenn.dev/collabostyle/articles/f5318a4837593e</link>
+      <description>2026年6月28日に開催された「エンジニアがこの先生きのこるためのカンファレンス2026」に、登壇者として、また所属するコラボスタイルのスポンサーブース担当として加わってきました。本記事は、自分が話したこと・話せなかったこと、聞いたセッションから得た学び、そして会場やブースで感じた熱気を、社内外で共有するためにまとめた振り返りです。
+
+
+ イベント全体の活気
+300名以上の参加者が集まり、そのうち100名以上が全てのスポンサーブースを回ってくれたとのことでした。スポンサーブースのエリアは人が溢れかえていて、熱心で関心を持ってくれる参加者が多いイベントでした。
+会場の日本科学未来館もと... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/collabostyle/articles/f5318a4837593e</guid>
+      <pubDate>Mon, 29 Jun 2026 16:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>ループエンジニアリングを takt exec で気軽に始めよう</title>
-      <link>https://zenn.dev/nrs/articles/e4a2ae8a9fb785</link>
+      <title>Claude Code の Agent Teams による、複数課題を同時並行で処理し自己改善を繰り返すAIチーム（PM＋作業者）の構築</title>
+      <link>https://zenn.dev/acntechjp/articles/6f74e9a6aef835</link>
+      <description>!
+この記事は、筆者の試行錯誤のメモを AI（Claude）を用いて整理・執筆 したものです。
+
+
+ はじめに（この記事の立ち位置）
+筆者は開発作業をやるうえで、TAKT などを使って作業順序を決め打ちにすることで品質を上げていました。決まった流れに沿わせれば、抜け漏れが減って結果が安定します。
+ただ、課題が増えるにつれて困りごとが出てきました。
+
+
+複数の課題を同時並行で進めないと回らない場面が増えた。 TAKT を複数立ち上げると、お互いがぶつかったり、片方で得た知見をもう片方に渡すのが難しかったりしました。
+
+毎回決まりきった流れだと、複雑な課題に融通が利かない。 手順が固定されて... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/6f74e9a6aef835</guid>
+      <pubDate>Mon, 29 Jun 2026 23:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Summit Japan 2026 参加レポート</title>
+      <link>https://zenn.dev/cybermatrix/articles/26b30798171eb0</link>
       <description>はじめに
-「ループエンジニアリング」という言葉が話題になっています。
-ざっくり言うと「自分がエージェントに指示を出す役割を、システムに置き換える」という考え方です。
-人間がプロンプトを書いてはエージェントの出力を確認して、またプロンプトを書いて、という往復をやめる。
-代わりに作業→レビュー→修正のループをシステムとして設計して自動的に回す。
-プロンプトエンジニアリングが「1ターンごとに何を伝えるか」の技術だったのに対して、ループエンジニアリングは「ループ全体をどう設計するか」の技術です。
-エンジニアの役割が「プロンプトを書く人」から「ループを設計する人」に変わるということです。
-TA... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nrs/articles/e4a2ae8a9fb785</guid>
-      <pubDate>Sun, 28 Jun 2026 07:35:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>「LLM使用を正直に申告したらパッチを却下された」— GNUのポリシーが生む「隠した方が得」な構造</title>
-      <link>https://techfeed.io/entries/6a3ee939799628ba032e6f8a?from=rss</link>
-      <description>6月26日、xlii.spaceが「Honesty gets Emacs patch rejected」と題した記事を公開した。LLMを活用したことを正直に申告したEmacsへのパッチが、GNUのポリシーにより却下された経緯と、その構造的な問題を論じた内容だ。筆者が問題にしているのは「LLM支援成果物を受け付けないこと」ではなく、「申告した者だけが弾かれる」という非対称性だ。黙って出せば通っていたかもしれないパッチが、誠実に開示したことで却下される——このポリシー構造は、むしろ隠蔽を合理的な選択にしてしまう。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a3ee939799628ba032e6f8a?from=rss</guid>
-      <pubDate>Fri, 26 Jun 2026 21:03:53 +0000</pubDate>
+2026年6月25日(木)、AWS Summit Japanに参加しました。
+普段は脆弱性診断・ISMS対応を中心に業務にあたっていますが、クラウド関連の最新動向をキャッチアップするために参加しました。
+今回が初参加ということもあり、会場の規模感や熱量を肌で感じられて大変良かったです。
+この記事は個人的な学習メモを兼ねた参加レポートです。
+
+ 会場の雰囲気
+10:10頃に最寄りの海浜幕張駅に到着したものの、入場まで約1時間かかり、実際に中へ入れたのは11:20頃でした。
+正直、あそこまで待つとは思っていなかったので少し驚きました。
+参加した日は天候が悪かったのですが、入場... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/cybermatrix/articles/26b30798171eb0</guid>
+      <pubDate>Mon, 29 Jun 2026 08:08:45 +0000</pubDate>
     </item>
     <item>
       <title>AIがジュニア開発者を代替し始めた今、「コードを理解できる人間」がいなくなる日が来るかもしれない</title>
@@ -91,11 +91,32 @@ TA... (source: Zennのトレンド)</description>
       <pubDate>Sun, 28 Jun 2026 21:01:04 +0000</pubDate>
     </item>
     <item>
+      <title>GPUなしサーバーでWebGLを4倍速にした1行の変更 ― 「--disable-gpu」が効果を消すサイレント失敗と、Mesa llvmpipeへの切り替え全手順</title>
+      <link>https://techfeed.io/entries/6a42df33ff3adc11d4ff9ab1?from=rss</link>
+      <description>6月29日、microlink.ioが「WebGL without a GPU」と題した記事を公開した。GPUを持たないコモディティLinuxサーバー上でWebGLをCPUソフトウェアレンダリングで動作させ、スクリーンショット取得速度を約4倍改善した手法の全貌を詳しく解説している。変更したのはChrome起動フラグ1行だ。ただしその1行には「一緒に書いてはいけないフラグ」が存在し、そのうちの一つはヘッドレスブラウザのチュートリアルで世界中にコピーされ続けているフラグでもある。さらに設定を誤っても「成功に見えたまま間違った結果を返し続ける」サイレント失敗が待っている。コード変更は1行でも、「それが正しい1行だ」と証明するのに数週間を要したという経緯も記事は詳しく述べている。問題：GPUなしのサーバーでWebGLをどう動かすかMicrolinkはWebページのスクリーンショット取得APIを提供しているサービスだ。サーバーはグラフィックカードを持たないコモディティLinuxノードで動いており、/dev/dri（LinuxのDirect Rendering Infrastructure）も存在 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a42df33ff3adc11d4ff9ab1?from=rss</guid>
+      <pubDate>Mon, 29 Jun 2026 21:10:11 +0000</pubDate>
+    </item>
+    <item>
       <title>米政府、Anthropicの最新AIモデル「Claude Mythos 5」の輸出規制を約2週間で解除 — 100社超に提供許可、政府との協調が解除の条件に</title>
       <link>https://techfeed.io/entries/6a418c78799628ba032f281c?from=rss</link>
       <description>6月27日、Semaforが「Exclusive: US releases powerful Anthropic model Mythos to some US companies」と題した記事を公開した。米商務省がAnthropicの最新AIモデル「Claude Mythos 5」に課していた輸出規制を解除し、100社以上の米国企業・政府機関への提供を許可したという内容だ。規制発動からわずか約2週間での解除という速さも驚くべきだが、それ以上に注目されるのは解除の条件だ。Anthropicは「自社モデルのプロトコル・標準・リリースに関して米国政府と協力する」ことを明示的にコミットしており、承認プロセスへの服従を前提に市場復帰を果たした形となる。同日にはOpenAIも新モデルGPT-5.6を政府承認済みの限定パートナーに公開しており、フロンティアAIの流通に政府が関与する構図は業界全体に広がりつつある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a418c78799628ba032f281c?from=rss</guid>
       <pubDate>Sun, 28 Jun 2026 21:04:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>マーケティング担当がAIと一緒に、LINEのアンケート→出し分け配信を無料で作ってみた</title>
+      <link>https://zenn.dev/teradox_blog/articles/19228a95b22456</link>
+      <description>はじめまして！株式会社TeraDoxの @tdx_tsuchimoto です。
+私はマーケティング部でポータル事業のマーケティングとALLBUMのプロダクトマネージャーを担当しています！
+今回マーケティング施策の一環として、ALLBUMで新しくLINEを開設することになりました。別のプロダクトの公式LINEでは有料の拡張ツールを使っているのですがALLBUMでは次の2つの理由から、まず自分で作ってみることにしました。
+
+開設したばかりでどのくらいの投資効果があるか不明瞭なこと
+LINEには公式APIがあるのでそれを使えば自分で何かしら作れるのでは？と漠然と思っていたこと
+
+勉強も兼ねてA... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/teradox_blog/articles/19228a95b22456</guid>
+      <pubDate>Mon, 29 Jun 2026 09:49:24 +0000</pubDate>
     </item>
     <item>
       <title>hoge+fuga@example.com は「エイリアス」ではない</title>
