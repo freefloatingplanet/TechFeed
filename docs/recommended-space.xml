@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 09:45:28 +0000</lastBuildDate>
-    <item>
-      <title>物質の新しい状態「擬1次元超イオン状態」の存在が示唆される　天王星や海王星の内部にある？</title>
-      <link>https://sorae.info/astronomy/20260628-quasi-1d-superionic-states.html</link>
-      <description>天王星や海王星の内部には、固体と液体の中間のような「超イオン状態」となった物質があると考えられています。超イオン状態は電気や熱をよく通すため、惑星内部の熱循環や磁場の形成などに影響を与えると考えられていますが、その詳しい… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260628-quasi-1d-superionic-states.html</guid>
-      <pubDate>Sun, 28 Jun 2026 12:25:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 09:55:39 +0000</lastBuildDate>
     <item>
       <title>Redwire、機密通信を守る量子鍵配送衛星の開発契約をESAから獲得【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/46010/</link>
@@ -63,6 +56,13 @@
       <description>宇宙業界で働く人は何を思い、具体的にどのような仕事をしているのか。異なる立場から宇宙業界に関わる若手4名に、この業界に入った経緯、日々の仕事の中身、そしてこれから描くキャリアについてたっぷりとお話を伺いました。【PR】 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46245/</guid>
       <pubDate>Mon, 22 Jun 2026 23:01:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>土星の新衛星「S/2009 S 2」を土星の環の中で発見　公式な衛星の定義がないことによる “発見” か？</title>
+      <link>https://sorae.info/astronomy/20260630-s-2009-s-2.html</link>
+      <description>「土星」は多数の衛星を従えていることで知られており、2023年にはその数は3桁を超えています。2026年6月17日、太陽系の天体に関する情報の収集と提供を行っている国際機関「小惑星センター」は、土星の衛星のリストに新たに… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260630-s-2009-s-2.html</guid>
+      <pubDate>Tue, 30 Jun 2026 12:44:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

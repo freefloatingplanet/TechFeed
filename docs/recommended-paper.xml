@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 09:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 09:55:42 +0000</lastBuildDate>
     <item>
-      <title>NISQとフォールトトレラントの境界を繋ぐ：分子シミュレーションのための生成型機械学習支援量子選択CI</title>
-      <link>https://arxiv.org/abs/2606.30551v1</link>
-      <description>タンパク質-リガンド分子系の結合エネルギーの計算には、電子構造の正確な処理が必要ですが、これは古典的なハードウェアでは指数関数的にスケールする量子化学の問題であり、現在の量子ハードウェアは必要な回路深度に対してノイズが大きすぎます。このレポートでは、量子サンプリングベースの対角化ワークフローにおける 2 つの構造的非効率性に対処する QARP を使用して Fujitsu FX700 理想状態ベクトルシミュレータで実行されたハイブリッド量子-古典ワークフローを紹介します。まず、競合する LUCJ アンザッツ アプローチの $\mathcal{O}(N^6)$ CCSD パラメータ初期化を $\mathcal{O}(N^4)$ MP2 振幅初期化に置き換えることで、線形スケーリング CNOT UCCSD (LCNot-UCCSD) アンザッツを QSCI フレームワークに統合します。第二に、SQDフレームワークの構成回復をコンパクトな生成部分空間拡張モデルとして機能する制限付きボルツマンマシン（RBM）に置き換えたバリアントであるQSCI-RBMを紹介します。両方とも、STO-3Gの8つの (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.30551v1</guid>
-      <pubDate>Mon, 29 Jun 2026 16:48:44 +0000</pubDate>
+      <title>フィードフォワード層における明示的ファジー論理：自己忘却量化子による判読可能な文法ライセンス検出器の発見</title>
+      <link>https://arxiv.org/abs/2606.31845v1</link>
+      <description>トランスフォーマーのフィードフォワード (FFN) サブレイヤーは、注意が収集する区別を具体化しますが、計算内容については説明しません。パラメータに依存しない置換では、各隠れユニットは、シグモイド境界の [0,1] メンバーシップに対する明示的なファジー集合演算です。つまり、交差 A*B と集合差 A*(1-B) であり、後者はゲート付き/双線形ユニットにはない境界付き正の否定 (「A だが B ではない」) です。これは、否定可能な FFN (NC-FFN) です。N ビットのパリティでは、浅い深度で最もパラメータ効率の良い推論基盤です。大規模 (125M、OpenWebText) では、NC-FFN は GELU ベースラインのパープレキシティに並び、すべてのユニットが明示的な論理形式を持ちます。2 つの制限は 1 つの原因を共有しています。2 つのオペランドの論理はレイヤー 0 に局所化され、トレーニング中に侵食され、1 つの堅牢な文法上の欠陥は、トークン内の演算子を超えて、ライセンスと量化子に集中しています。我々は、小さなブロックのシーケンス量化子（ソフト存在量化子とソフト比率 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.31845v1</guid>
+      <pubDate>Tue, 30 Jun 2026 15:46:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

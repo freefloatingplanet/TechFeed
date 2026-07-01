@@ -7,127 +7,119 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 09:45:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 09:55:36 +0000</lastBuildDate>
     <item>
-      <title>【CCA-F学習ログ #2】基礎編：Anthropic Academy のレベル100で土台を固める</title>
-      <link>https://zenn.dev/yujmatsu/articles/20260629_cca_foundations_02_basics</link>
-      <description>はじめに
-この記事は、Claude Certified Architect – Foundations（CCA-F）合格を目指す学習ログの第2弾です。
-#1（概要編）では、CCA-F がどういう試験か・どのコースを使って学ぶかの地図を整理しました。#2 の本記事では、試験ドメインに入る前の土台を固めます。具体的には、Anthropic Academy のレベル100コース（基礎）5つのうち「考え方の土台」と「手を動かす土台」に分けて整理し、Claude API の最小実装から順に動くコードを積み上げていきます。
-この記事で扱う範囲のスコープ
-基礎編はレベル100の「土台」に絞ります。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yujmatsu/articles/20260629_cca_foundations_02_basics</guid>
-      <pubDate>Mon, 29 Jun 2026 11:00:08 +0000</pubDate>
+      <title>RAGの誤回答は「検索の失敗」か「生成の失敗」か — 原因を診断してから直す軽量フレームワーク「D2R-RAG」</title>
+      <link>https://techfeed.io/entries/6a444a8971759f74d1a07f78?from=rss</link>
+      <description>6月30日、Soroush Hashemifar らが「Diagnosing and Repairing Factual Errors in RAG under Budget Constraints」と題した論文を公開した。予算制約のある実運用環境でRAGの事実誤りを診断・修正するモデル非依存フレームワーク「D2R-RAG」を提案する内容で、「まず原因を診断し、原因に応じた最小コストのアクションを取る」という設計思想が核心にある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a444a8971759f74d1a07f78?from=rss</guid>
+      <pubDate>Tue, 30 Jun 2026 23:00:25 +0000</pubDate>
     </item>
     <item>
-      <title>コードを仕様書にするために関数型プログラミングをする</title>
-      <link>https://zenn.dev/satto_workspace/articles/62cdc01e1d0e97</link>
-      <description>自己紹介
-コードを仕様書にすることを夢見るハムスターです🐹
-夢が叶ったかもしれません。
-satto workspace のプロダクト開発をしています
+      <title>風の谷のナウシカは、生成AIを30年前に予見？　ぞっとした展開：朝日新聞</title>
+      <link>https://digital.asahi.com/articles/ASV6V15JYV6VDIFI00TM.html</link>
+      <description>AIに人生を相談する人がいる、と聞いても、もう驚かなくなりました。便利で、優しくて、いつでもそばにいてくれる。そんな存在に頼ることの、何がいけないのか――。1994年に完結した宮崎駿さんの漫画版『風の… (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://digital.asahi.com/articles/ASV6V15JYV6VDIFI00TM.html</guid>
+      <pubDate>Tue, 30 Jun 2026 21:25:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Railsの設計パターンと責務分離18選｜AI時代に見直すFat Controller / Fat Model対策</title>
+      <link>https://zenn.dev/wwwave/articles/a9a8b38dc2cdb7</link>
+      <description>はじめに
+Railsで開発していると、Service Object、Serializer、Finder Object、Value Object などの言葉を見かけることがあります。
+どれもざっくり言うと、
+ControllerやModelに処理を詰め込みすぎないための切り出し先です。
+いわゆる Fat Controller / Fat Model を避けるための考え方ですね。
+AIに実装を任せられる場面が増えた今だからこそ、ただ動くだけではなく、どこに何の責務を置くかを考える力もより大事になっていると感じます。
+!
+設計の観点をプロンプトやSkillsに組み込むことで、AIが生成する... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/wwwave/articles/a9a8b38dc2cdb7</guid>
+      <pubDate>Tue, 30 Jun 2026 11:56:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data + AI Summit 2026 現地参加レポート：データ基盤は「AIがビジネスで意思決定する基盤」へ</title>
+      <link>https://zenn.dev/ivry/articles/dais-2026-report</link>
+      <description>こんにちは、IVRyでデータエンジニアとして働いている松田健司（@ken_3ba）です。趣味はビリヤードで、プロの試合にも出ているぐらい割とガチでやっています。
+今回はData + AI Summit（以下Summit）に参加してきたので、現地の様子と注目した発表をまとめます。
+その前に、いつものビリヤードの話を。Data + AI Summitにはいくつかクエストがあって、達成するとビリヤードボールっぽいものがもらえます。
+ビリヤードプレイヤーとしての使命感で集めてきました。
+https://x.com/Data_AI_Summit/status/1933245536389198198... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ivry/articles/dais-2026-report</guid>
+      <pubDate>Wed, 01 Jul 2026 02:37:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>RustとRaspberry Piでつくる、音声処理デバイス</title>
+      <link>https://zenn.dev/fairydevices/articles/d2445993d8361c</link>
+      <description>はじめに
+はじめまして。プロダクト開発部のChenです。
+Fairy Devicesに入社して半年ほどになります。私はRustを使ったソフトウェア開発が好きです。また、ソフトウェアを通じて、人が実際に触れたり操作したりできるものをつくることにも興味があります。
+今回は、これまでの経験と、入社後に取り組んでいる音声処理デバイスの開発について紹介します。
+
+ モノづくりとRust
+子どものころから、電子工作や身近な機器の仕組みを考えることが好きでした。今でも、身の回りの機器を少し改造したり、もっと便利にできないか考えたりすることは趣味の1つです。
+Rustと出会ったのは約5年前です。PC... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/fairydevices/articles/d2445993d8361c</guid>
+      <pubDate>Tue, 30 Jun 2026 06:48:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ローカルLLMで「Pi」エージェントを動かす</title>
+      <link>https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced</link>
+      <description>数年前、LLMがコードを書いてくれるようになった当初は、チャットインターフェースでAIとやり取りするのが当たり前でした。しかし、2025年を境にその常識は一変しました。今やチャット形式でのプログラミングは「非効率」とされ、AIエージェントが自律的にタスクをこなす時代になっています。
+ただ、この「エージェント時代」には大きな悩みがあります。それは課金です。
+
+ なぜ今、ローカルLLMエージェントなのか
+現在、市場で最もシェアが高いと思われる「Claude Code」などの商用エージェントサービスは、サブスクリプション費用が月に200ドル（約3万円以上）かかることも珍しくありません。大学生や... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced</guid>
+      <pubDate>Tue, 30 Jun 2026 10:25:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>コードを書かずに、Claude Code の Chrome 拡張で Web アプリの動作確認を行う</title>
+      <link>https://zenn.dev/purpom/articles/test-automation-for-non-engineers-claude-chrome</link>
+      <description>はじめに
+Web サービスの開発に関わっていると、リリースのたびに「ログインできるか」「主要な画面が問題なく表示されるか」を一通り確認する場面があります。エンジニアでなくても、ディレクターやデザイナーとして、自分の関わるサービスが正しく動くか気になり、手元で確認されている方は多いのではないでしょうか。
+この記事では、その確認作業を Claude Code の Chrome 拡張（Claude in Chrome）を使い、日本語の指示だけで進める方法をご紹介します。コードを書く必要はありません。実際に試した手順と、使ってみて分かったことを順を追ってまとめます。
+コードは書かないけれど動... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/purpom/articles/test-automation-for-non-engineers-claude-chrome</guid>
+      <pubDate>Tue, 30 Jun 2026 08:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>ギュッ、多様性 ~Claude Code以後のアプリサークルの育成について~</title>
+      <link>https://zenn.dev/pochipochitudoi/articles/3357e9d1756d3f</link>
+      <description>Flutterサークルから、アプリサークルへ
+「ぽちぽちのつどい」は、これまで「Flutterサークル」として活動してきました。
+名前の通り、Flutterを中心に、初心者が集まり、わいわい楽しくアプリ開発を学び、作り、共有するサークルです。
+Flutterは今でも好きですし、今後もメインの技術であることは変わりません。
+ただ、今年からサークルの内容を少し変えました。
+Flutterサークルから、アプリサークルへ。
+これは「Flutterをやめる」という意味ではありません。
+むしろ、Flutterを軸にしつつ、もう少し技術選定の幅を広げようという意味です。
+Webでもいい。
+ネイティ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pochipochitudoi/articles/3357e9d1756d3f</guid>
+      <pubDate>Tue, 30 Jun 2026 05:26:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>ローカルLLMでハルシネーションを見抜く</title>
+      <link>https://zenn.dev/starai_org/articles/1b09b1971a2a2b</link>
+      <description>!
+生成AIが作った文章には、事実にない「もっともらしい嘘（ハルシネーション）」が紛れ込みます。本記事では、LLMモデル gemma4:12b 使用し、CoT と チェック観点の設計 といった工夫次第で、生成AIメールのハルシネーションを実用的に検出できることを、コピペで動くコードとともに紹介します。
 
 
  はじめに
-「コードは仕様書である。コードを見れば仕様がわかるようにしよう。」
-誰もがそのようなことを願ってプロダクトを立ち上げることでしょう。
-現代ではAIがコードと一緒にコメントも生成・更新してくれるため、その願いは容易に叶うはずでした。
-しかし実際には、生成されたコメントが肥大化していたり、要領を得ない文章だったりして、かえってコードを読みにくくしていることがあると感じています。
-やはり、コード自体が読みやすいことは依然として... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/satto_workspace/articles/62cdc01e1d0e97</guid>
-      <pubDate>Mon, 29 Jun 2026 04:21:49 +0000</pubDate>
+こんにちは、株式会社STAR AIでデータサイエンティストをしている前川です。
+生成AIで資料やメールの下書きを作るワークフローは一気に普及しました。一方、実務に乗せるときに最後まで立ちはだかるのが ハルシネーション です。LLMは、与えていない情報を、もっともらしい日本語... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/starai_org/articles/1b09b1971a2a2b</guid>
+      <pubDate>Tue, 30 Jun 2026 06:26:06 +0000</pubDate>
     </item>
     <item>
-      <title>「エンジニアがこの先生きのこるためのカンファレンス2026」に登壇・参加して</title>
-      <link>https://zenn.dev/collabostyle/articles/f5318a4837593e</link>
-      <description>2026年6月28日に開催された「エンジニアがこの先生きのこるためのカンファレンス2026」に、登壇者として、また所属するコラボスタイルのスポンサーブース担当として加わってきました。本記事は、自分が話したこと・話せなかったこと、聞いたセッションから得た学び、そして会場やブースで感じた熱気を、社内外で共有するためにまとめた振り返りです。
-
-
- イベント全体の活気
-300名以上の参加者が集まり、そのうち100名以上が全てのスポンサーブースを回ってくれたとのことでした。スポンサーブースのエリアは人が溢れかえていて、熱心で関心を持ってくれる参加者が多いイベントでした。
-会場の日本科学未来館もと... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/collabostyle/articles/f5318a4837593e</guid>
-      <pubDate>Mon, 29 Jun 2026 16:03:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code の Agent Teams による、複数課題を同時並行で処理し自己改善を繰り返すAIチーム（PM＋作業者）の構築</title>
-      <link>https://zenn.dev/acntechjp/articles/6f74e9a6aef835</link>
-      <description>!
-この記事は、筆者の試行錯誤のメモを AI（Claude）を用いて整理・執筆 したものです。
-
-
- はじめに（この記事の立ち位置）
-筆者は開発作業をやるうえで、TAKT などを使って作業順序を決め打ちにすることで品質を上げていました。決まった流れに沿わせれば、抜け漏れが減って結果が安定します。
-ただ、課題が増えるにつれて困りごとが出てきました。
-
-
-複数の課題を同時並行で進めないと回らない場面が増えた。 TAKT を複数立ち上げると、お互いがぶつかったり、片方で得た知見をもう片方に渡すのが難しかったりしました。
-
-毎回決まりきった流れだと、複雑な課題に融通が利かない。 手順が固定されて... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/6f74e9a6aef835</guid>
-      <pubDate>Mon, 29 Jun 2026 23:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS Summit Japan 2026 参加レポート</title>
-      <link>https://zenn.dev/cybermatrix/articles/26b30798171eb0</link>
-      <description>はじめに
-2026年6月25日(木)、AWS Summit Japanに参加しました。
-普段は脆弱性診断・ISMS対応を中心に業務にあたっていますが、クラウド関連の最新動向をキャッチアップするために参加しました。
-今回が初参加ということもあり、会場の規模感や熱量を肌で感じられて大変良かったです。
-この記事は個人的な学習メモを兼ねた参加レポートです。
-
- 会場の雰囲気
-10:10頃に最寄りの海浜幕張駅に到着したものの、入場まで約1時間かかり、実際に中へ入れたのは11:20頃でした。
-正直、あそこまで待つとは思っていなかったので少し驚きました。
-参加した日は天候が悪かったのですが、入場... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/cybermatrix/articles/26b30798171eb0</guid>
-      <pubDate>Mon, 29 Jun 2026 08:08:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIがジュニア開発者を代替し始めた今、「コードを理解できる人間」がいなくなる日が来るかもしれない</title>
-      <link>https://techfeed.io/entries/6a418b90799628ba032f27d9?from=rss</link>
-      <description>6月28日、ソフトウェアエンジニア兼小説家のAlex Diamond氏が「Software Engineering in the Age of AI」と題した記事を公開した。Cursor、GitHub Copilot、Claude CodeといったAIコーディングツールが急速に普及する中、ソフトウェアエンジニアリングの現場は静かに、しかし根本的に変容している。この記事は個人の体験と業界構造の両面からその変化を分析した考察だ。著者のDiamond氏は長年のエンジニアキャリアを持ちながら、同時に小説家でもある。その二つの顔を持つからこそ、AIがもたらした変化を鋭く言語化できる立場にある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a418b90799628ba032f27d9?from=rss</guid>
-      <pubDate>Sun, 28 Jun 2026 21:01:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPUなしサーバーでWebGLを4倍速にした1行の変更 ― 「--disable-gpu」が効果を消すサイレント失敗と、Mesa llvmpipeへの切り替え全手順</title>
-      <link>https://techfeed.io/entries/6a42df33ff3adc11d4ff9ab1?from=rss</link>
-      <description>6月29日、microlink.ioが「WebGL without a GPU」と題した記事を公開した。GPUを持たないコモディティLinuxサーバー上でWebGLをCPUソフトウェアレンダリングで動作させ、スクリーンショット取得速度を約4倍改善した手法の全貌を詳しく解説している。変更したのはChrome起動フラグ1行だ。ただしその1行には「一緒に書いてはいけないフラグ」が存在し、そのうちの一つはヘッドレスブラウザのチュートリアルで世界中にコピーされ続けているフラグでもある。さらに設定を誤っても「成功に見えたまま間違った結果を返し続ける」サイレント失敗が待っている。コード変更は1行でも、「それが正しい1行だ」と証明するのに数週間を要したという経緯も記事は詳しく述べている。問題：GPUなしのサーバーでWebGLをどう動かすかMicrolinkはWebページのスクリーンショット取得APIを提供しているサービスだ。サーバーはグラフィックカードを持たないコモディティLinuxノードで動いており、/dev/dri（LinuxのDirect Rendering Infrastructure）も存在 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a42df33ff3adc11d4ff9ab1?from=rss</guid>
-      <pubDate>Mon, 29 Jun 2026 21:10:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>米政府、Anthropicの最新AIモデル「Claude Mythos 5」の輸出規制を約2週間で解除 — 100社超に提供許可、政府との協調が解除の条件に</title>
-      <link>https://techfeed.io/entries/6a418c78799628ba032f281c?from=rss</link>
-      <description>6月27日、Semaforが「Exclusive: US releases powerful Anthropic model Mythos to some US companies」と題した記事を公開した。米商務省がAnthropicの最新AIモデル「Claude Mythos 5」に課していた輸出規制を解除し、100社以上の米国企業・政府機関への提供を許可したという内容だ。規制発動からわずか約2週間での解除という速さも驚くべきだが、それ以上に注目されるのは解除の条件だ。Anthropicは「自社モデルのプロトコル・標準・リリースに関して米国政府と協力する」ことを明示的にコミットしており、承認プロセスへの服従を前提に市場復帰を果たした形となる。同日にはOpenAIも新モデルGPT-5.6を政府承認済みの限定パートナーに公開しており、フロンティアAIの流通に政府が関与する構図は業界全体に広がりつつある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a418c78799628ba032f281c?from=rss</guid>
-      <pubDate>Sun, 28 Jun 2026 21:04:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>マーケティング担当がAIと一緒に、LINEのアンケート→出し分け配信を無料で作ってみた</title>
-      <link>https://zenn.dev/teradox_blog/articles/19228a95b22456</link>
-      <description>はじめまして！株式会社TeraDoxの @tdx_tsuchimoto です。
-私はマーケティング部でポータル事業のマーケティングとALLBUMのプロダクトマネージャーを担当しています！
-今回マーケティング施策の一環として、ALLBUMで新しくLINEを開設することになりました。別のプロダクトの公式LINEでは有料の拡張ツールを使っているのですがALLBUMでは次の2つの理由から、まず自分で作ってみることにしました。
-
-開設したばかりでどのくらいの投資効果があるか不明瞭なこと
-LINEには公式APIがあるのでそれを使えば自分で何かしら作れるのでは？と漠然と思っていたこと
-
-勉強も兼ねてA... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/teradox_blog/articles/19228a95b22456</guid>
-      <pubDate>Mon, 29 Jun 2026 09:49:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>hoge+fuga@example.com は「エイリアス」ではない</title>
-      <link>https://zenn.dev/mai_llj/articles/3eefb32e632563</link>
-      <description>はじめに
-先日、このような投稿を見かけました。
-メールサーバをセルフホストして、サービスごとに別々のアドレスを割り当てている方のところに、とあるお寿司チェーンにしか教えていないはずのアドレス宛にフィッシングメールが届いたそうです。おかげで、どこから漏れたのかが一発でわかった、という話でした。アドレスの出どころを切り分けられる運用自体はすごく良いと思います。
-問題はそのあとです。反応には「Gmailのエイリアスを使えばいい」という声が並び、投稿主ご本人も「厳密にはCatch-Allではなくエイリアスで運用している、区切り文字をピリオドにしているので弾かれにくい」と補足していました。
-こ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mai_llj/articles/3eefb32e632563</guid>
-      <pubDate>Sat, 27 Jun 2026 15:07:10 +0000</pubDate>
+      <title>SIGNATE: 木材の含水率を予測するだけ、のはずだったのに未知樹種汎化で考えすぎた件</title>
+      <link>https://zenn.dev/mantis_ryuji/articles/e17b4d223cd7da</link>
+      <description>SIGNATE参加記録：近赤外研究会 スペクトル分析チャレンジ
+SIGNATEに初参戦してきたので、その所感や解法をお焚き上げします。
+SIGNATEでは基本的に解法が共有されないため、他の参加者がどのような方針で取り組んでいるのかを知る機会は限られています。自分の仮説と検証をもとに集中して取り組める一方で、解法共有がないのは寂しくもあり、他人から学ぶ機会が少ないのは少し残念です。だからこそ、自分から開示することで少しでも還元できればと思い、この記事を書きました。
+まず、今回の内容は、木材の近赤外 (NIR) スペクトルから含水率を予測するというものでした。train と test ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mantis_ryuji/articles/e17b4d223cd7da</guid>
+      <pubDate>Tue, 30 Jun 2026 21:47:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
