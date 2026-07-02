@@ -7,96 +7,65 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 09:55:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 09:18:35 +0000</lastBuildDate>
     <item>
-      <title>RAGの誤回答は「検索の失敗」か「生成の失敗」か — 原因を診断してから直す軽量フレームワーク「D2R-RAG」</title>
-      <link>https://techfeed.io/entries/6a444a8971759f74d1a07f78?from=rss</link>
-      <description>6月30日、Soroush Hashemifar らが「Diagnosing and Repairing Factual Errors in RAG under Budget Constraints」と題した論文を公開した。予算制約のある実運用環境でRAGの事実誤りを診断・修正するモデル非依存フレームワーク「D2R-RAG」を提案する内容で、「まず原因を診断し、原因に応じた最小コストのアクションを取る」という設計思想が核心にある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a444a8971759f74d1a07f78?from=rss</guid>
-      <pubDate>Tue, 30 Jun 2026 23:00:25 +0000</pubDate>
+      <title>仕様の曖昧さをコードで共有する</title>
+      <link>https://zenn.dev/tan_go238/articles/c94a78a2dea391</link>
+      <description>仕様は、最初から完全には決まっていない
+エンジニアが読む技術書では、仕様はあたかも「完全に決まっているもの」として扱われることが多いです。
+入力があって、処理があって、出力がある。
+条件分岐があって、例外があって、状態が変わる。
+そして、それらは最初からきれいに整理されている。
+もちろん、技術書としてはそのほうが説明しやすいです。
+曖昧なままではサンプルコードも書きにくいし、学ぶ側も混乱します。
+ただ、実際の開発現場はそんなにきれいではありません。
+仕様は揺れます。
+途中で変わります。
+誰かの一言で前提がひっくり返ることもあります。
+そして、そのたびにエンジニアは思います。
+「早く決... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tan_go238/articles/c94a78a2dea391</guid>
+      <pubDate>Tue, 30 Jun 2026 02:13:51 +0000</pubDate>
     </item>
     <item>
-      <title>風の谷のナウシカは、生成AIを30年前に予見？　ぞっとした展開：朝日新聞</title>
-      <link>https://digital.asahi.com/articles/ASV6V15JYV6VDIFI00TM.html</link>
-      <description>AIに人生を相談する人がいる、と聞いても、もう驚かなくなりました。便利で、優しくて、いつでもそばにいてくれる。そんな存在に頼ることの、何がいけないのか――。1994年に完結した宮崎駿さんの漫画版『風の… (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://digital.asahi.com/articles/ASV6V15JYV6VDIFI00TM.html</guid>
-      <pubDate>Tue, 30 Jun 2026 21:25:39 +0000</pubDate>
+      <title>連動するフォームを TanStack Form で書く</title>
+      <link>https://zenn.dev/edash_tech_blog/articles/29679afbb3e8da</link>
+      <description>こんにちは。e-dash でフロントエンドエンジニアをしている前田です。
+昨年12月に React Hook Form についての記事を書きましたが、やはり複雑なフォームの設計は難しいですね。
+React Hook Form は、非制御コンポーネントをベースに余計な再レンダリングを抑えつつ、Zod などのスキーマと組み合わせて型安全にフォームを構築できる素晴らしいライブラリです。
+一方で、各フィールドがリアクティブに変化するようなフォームでは、setValue・trigger・ref といった命令的な記述が増えてしまう点に課題を感じていました。
+私は最近、TanStack Form を使... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/edash_tech_blog/articles/29679afbb3e8da</guid>
+      <pubDate>Wed, 01 Jul 2026 06:19:58 +0000</pubDate>
     </item>
     <item>
-      <title>Railsの設計パターンと責務分離18選｜AI時代に見直すFat Controller / Fat Model対策</title>
-      <link>https://zenn.dev/wwwave/articles/a9a8b38dc2cdb7</link>
+      <title>AI時代のチーム開発フローは「小さく安全に流し続ける」こと</title>
+      <link>https://zenn.dev/nocall/articles/3f0fcbbed6348c</link>
       <description>はじめに
-Railsで開発していると、Service Object、Serializer、Finder Object、Value Object などの言葉を見かけることがあります。
-どれもざっくり言うと、
-ControllerやModelに処理を詰め込みすぎないための切り出し先です。
-いわゆる Fat Controller / Fat Model を避けるための考え方ですね。
-AIに実装を任せられる場面が増えた今だからこそ、ただ動くだけではなく、どこに何の責務を置くかを考える力もより大事になっていると感じます。
-!
-設計の観点をプロンプトやSkillsに組み込むことで、AIが生成する... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/wwwave/articles/a9a8b38dc2cdb7</guid>
-      <pubDate>Tue, 30 Jun 2026 11:56:31 +0000</pubDate>
+最近、チームでほぼ毎日リリースできるようになってきました。
+とはいえ、これは開発速度がただ上がったからではありません。変更を小さく保って、安全に流し続けられる状態を地道に作ってきた結果だと思っています。
+AI を使うと実装は速くなります。でも、その分だけ差分が増えるスピードも上がるんですよね。
+小さくリリースできると、もし不具合が出ても影響範囲を小さく抑えられます。原因も追いやすいし、直してまた出すサイクルも早く回せます。
+少人数のうちは、多少大きな差分でも詳しい人が気合いで確認できるかもしれません。でも、メンバーが増えて同時に動く PR やリリースが増えてくると、そのやり... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nocall/articles/3f0fcbbed6348c</guid>
+      <pubDate>Wed, 01 Jul 2026 14:02:51 +0000</pubDate>
     </item>
     <item>
-      <title>Data + AI Summit 2026 現地参加レポート：データ基盤は「AIがビジネスで意思決定する基盤」へ</title>
-      <link>https://zenn.dev/ivry/articles/dais-2026-report</link>
-      <description>こんにちは、IVRyでデータエンジニアとして働いている松田健司（@ken_3ba）です。趣味はビリヤードで、プロの試合にも出ているぐらい割とガチでやっています。
-今回はData + AI Summit（以下Summit）に参加してきたので、現地の様子と注目した発表をまとめます。
-その前に、いつものビリヤードの話を。Data + AI Summitにはいくつかクエストがあって、達成するとビリヤードボールっぽいものがもらえます。
-ビリヤードプレイヤーとしての使命感で集めてきました。
-https://x.com/Data_AI_Summit/status/1933245536389198198... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ivry/articles/dais-2026-report</guid>
-      <pubDate>Wed, 01 Jul 2026 02:37:14 +0000</pubDate>
+      <title>AnthropicモデルへのAI輸出規制が突然停止を招いた背景 — 「データ主権」の次に企業を脅かす「能力主権」リスクとは</title>
+      <link>https://techfeed.io/entries/6a459f0871759f74d1a1470c?from=rss</link>
+      <description>6月30日、TechTargetが「Anthropic models' foreign national ban exposes AI dependency risks」と題した記事を公開した。米商務省によるAnthropicモデルへの輸出規制が、ワークフローにAIを組み込んだ企業にとって「ベンダー依存」が単なる調達リスクを超えた問題であることを改めて示している。生成AIの業務統合が加速する中、規制当局の一指令がサービス全停止に直結するという事態は、CIOが従来の「データ主権」対応だけでは対処できない新たなリスク類型の存在を突きつけた。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a459f0871759f74d1a1470c?from=rss</guid>
+      <pubDate>Wed, 01 Jul 2026 23:13:12 +0000</pubDate>
     </item>
     <item>
-      <title>RustとRaspberry Piでつくる、音声処理デバイス</title>
-      <link>https://zenn.dev/fairydevices/articles/d2445993d8361c</link>
-      <description>はじめに
-はじめまして。プロダクト開発部のChenです。
-Fairy Devicesに入社して半年ほどになります。私はRustを使ったソフトウェア開発が好きです。また、ソフトウェアを通じて、人が実際に触れたり操作したりできるものをつくることにも興味があります。
-今回は、これまでの経験と、入社後に取り組んでいる音声処理デバイスの開発について紹介します。
-
- モノづくりとRust
-子どものころから、電子工作や身近な機器の仕組みを考えることが好きでした。今でも、身の回りの機器を少し改造したり、もっと便利にできないか考えたりすることは趣味の1つです。
-Rustと出会ったのは約5年前です。PC... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/fairydevices/articles/d2445993d8361c</guid>
-      <pubDate>Tue, 30 Jun 2026 06:48:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>ローカルLLMで「Pi」エージェントを動かす</title>
-      <link>https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced</link>
-      <description>数年前、LLMがコードを書いてくれるようになった当初は、チャットインターフェースでAIとやり取りするのが当たり前でした。しかし、2025年を境にその常識は一変しました。今やチャット形式でのプログラミングは「非効率」とされ、AIエージェントが自律的にタスクをこなす時代になっています。
-ただ、この「エージェント時代」には大きな悩みがあります。それは課金です。
-
- なぜ今、ローカルLLMエージェントなのか
-現在、市場で最もシェアが高いと思われる「Claude Code」などの商用エージェントサービスは、サブスクリプション費用が月に200ドル（約3万円以上）かかることも珍しくありません。大学生や... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced</guid>
-      <pubDate>Tue, 30 Jun 2026 10:25:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>コードを書かずに、Claude Code の Chrome 拡張で Web アプリの動作確認を行う</title>
-      <link>https://zenn.dev/purpom/articles/test-automation-for-non-engineers-claude-chrome</link>
-      <description>はじめに
-Web サービスの開発に関わっていると、リリースのたびに「ログインできるか」「主要な画面が問題なく表示されるか」を一通り確認する場面があります。エンジニアでなくても、ディレクターやデザイナーとして、自分の関わるサービスが正しく動くか気になり、手元で確認されている方は多いのではないでしょうか。
-この記事では、その確認作業を Claude Code の Chrome 拡張（Claude in Chrome）を使い、日本語の指示だけで進める方法をご紹介します。コードを書く必要はありません。実際に試した手順と、使ってみて分かったことを順を追ってまとめます。
-コードは書かないけれど動... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/purpom/articles/test-automation-for-non-engineers-claude-chrome</guid>
-      <pubDate>Tue, 30 Jun 2026 08:27:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ギュッ、多様性 ~Claude Code以後のアプリサークルの育成について~</title>
-      <link>https://zenn.dev/pochipochitudoi/articles/3357e9d1756d3f</link>
-      <description>Flutterサークルから、アプリサークルへ
-「ぽちぽちのつどい」は、これまで「Flutterサークル」として活動してきました。
-名前の通り、Flutterを中心に、初心者が集まり、わいわい楽しくアプリ開発を学び、作り、共有するサークルです。
-Flutterは今でも好きですし、今後もメインの技術であることは変わりません。
-ただ、今年からサークルの内容を少し変えました。
-Flutterサークルから、アプリサークルへ。
-これは「Flutterをやめる」という意味ではありません。
-むしろ、Flutterを軸にしつつ、もう少し技術選定の幅を広げようという意味です。
-Webでもいい。
-ネイティ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pochipochitudoi/articles/3357e9d1756d3f</guid>
-      <pubDate>Tue, 30 Jun 2026 05:26:54 +0000</pubDate>
+      <title>影響のあるアプリだけVRTを実行するようにして、CircleCIのクレジットを削減した</title>
+      <link>https://zenn.dev/socialplus/articles/9368594bc4ce7c</link>
+      <description>こんにちは、Social PLUS のフロントエンドエンジニアのまっくすです。
+今回は、CircleCI のコストをきっかけに、普段あまり細かく見る機会のなかった CI のクレジット消費量を調べました。
+プロジェクトやジョブごとの利用状況を確認していくと、Storybook のビルドやスクリーンショット撮影を行うジョブが、フロントエンド全体のクレジット消費量の大きな割合を占めていることが分かりました。
+調査の結果、Storybook のビルドやスクリーンショット撮影を行うジョブが、フロントエンド全体のクレジット消費量の大きな割合を占めていることが分かりました。そこで、VRT の実行方法に... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/socialplus/articles/9368594bc4ce7c</guid>
+      <pubDate>Wed, 01 Jul 2026 09:00:11 +0000</pubDate>
     </item>
     <item>
       <title>ローカルLLMでハルシネーションを見抜く</title>
@@ -112,14 +81,60 @@ Webでもいい。
       <pubDate>Tue, 30 Jun 2026 06:26:06 +0000</pubDate>
     </item>
     <item>
-      <title>SIGNATE: 木材の含水率を予測するだけ、のはずだったのに未知樹種汎化で考えすぎた件</title>
-      <link>https://zenn.dev/mantis_ryuji/articles/e17b4d223cd7da</link>
-      <description>SIGNATE参加記録：近赤外研究会 スペクトル分析チャレンジ
-SIGNATEに初参戦してきたので、その所感や解法をお焚き上げします。
-SIGNATEでは基本的に解法が共有されないため、他の参加者がどのような方針で取り組んでいるのかを知る機会は限られています。自分の仮説と検証をもとに集中して取り組める一方で、解法共有がないのは寂しくもあり、他人から学ぶ機会が少ないのは少し残念です。だからこそ、自分から開示することで少しでも還元できればと思い、この記事を書きました。
-まず、今回の内容は、木材の近赤外 (NIR) スペクトルから含水率を予測するというものでした。train と test ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mantis_ryuji/articles/e17b4d223cd7da</guid>
-      <pubDate>Tue, 30 Jun 2026 21:47:55 +0000</pubDate>
+      <title>AI学習のフェアユース認定、連邦裁判所が2日間で真逆の判断 — 法的グレーゾーンのまま開発を続けるリスクが高まる</title>
+      <link>https://techfeed.io/entries/6a459ed271759f74d1a146d3?from=rss</link>
+      <description>7月2日、PYMNTSが「Courts Split on Whether AI Training Is Fair Use」と題した記事を公開した。AI学習データのフェアユース（公正利用）を巡る米国の司法・規制当局の判断が分裂している現状について詳しく紹介されている。連邦判事の判断が2日間でまったく逆転法廷での判断の割れ方が鮮明だ。サンフランシスコを拠点とする連邦地裁のウィリアム・アルサップ判事は、Concord Music Group v. Anthropic 関連審理においてAI学習を「典型的な変容的利用（quintessentially transformative）」と認定し、著作権法は「著作者を競合から守るものではない」と述べた。ところがその2日後（6月27日）、同じサンフランシスコ連邦地裁のヴィンス・チャブリア判事は Kadrey v. Meta Platforms において、まったく逆の結論を示した。「AI学習の広範な実施は、人間の創作活動を支える経済的インセンティブを損なう恐れがある」として、フェアユース適用に否定的な見解を示した。同じ地域・同じレベルの裁判所が2日間で正 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a459ed271759f74d1a146d3?from=rss</guid>
+      <pubDate>Wed, 01 Jul 2026 23:12:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>プログラマーのためのブックマーク整理術</title>
+      <link>https://zenn.dev/k_tabuchi/articles/bef3713e4ffb58</link>
+      <description>まえがき
+プログラマーの仕事をしていると、大量のブックマークを作ることになりがちです。
+公式ドキュメント、GitHub、Slack、Backlog、Notion、Figma、管理画面、API仕様書、検証環境、本番環境など、日々アクセスするページはどんどん増えていきます。
+最初はブックマークバーへそのまま登録していても問題ありません。
+しかし、案件が増えるにつれて目的のページを探す時間が増え、生産性も落ちてしまいます。
+この記事では、私が試行錯誤してたどり着いたブックマーク整理の考え方を紹介します。
+!
+この記事では文章の校正とフォルダ分けの例示に生成AIを利用しております。
+
+
+
+ ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/k_tabuchi/articles/bef3713e4ffb58</guid>
+      <pubDate>Wed, 01 Jul 2026 11:08:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Summit Japan 2026 に行ってきた——「実務未経験の私」が、現地で受け取ったもの</title>
+      <link>https://zenn.dev/honey_aws/articles/aws-summit-japan-2026</link>
+      <description>はじめに
+こんにちは。Honey(@Honey_aws)です。
+2026年6月25日・26日の両日、AWS Summit Japan 2026 に現地参加しました。
+「資格と個人開発のみの私」が、現地で何を受け取ったかを振り返り、自分の記録として残したいと思います。
+今回は記事というより、とっても楽しかったので自分の思い出をゆるく綴っていきたいと思います。
+前回記事「AWS13冠は、何を証明して、何を証明しないのか」の話も少ししていますので、もし良ければ読んでいただけると嬉しいです。
+
+ 行く前に抱えていたもの
+正直に言うと、行く前は少し身構えていました。
+私の AWS は、想像の中... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/honey_aws/articles/aws-summit-japan-2026</guid>
+      <pubDate>Wed, 01 Jul 2026 11:09:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>（2）中学生が作っている自作OS、mochiOS - ケーパビリティなどのお話</title>
+      <link>https://zenn.dev/nekogakure/articles/60ca06b71029a2</link>
+      <description>!
+めっちゃ長いです。時間があるときに読んでくれたら嬉しいです！
+
+みなさんこんにちは。中三のたそです。
+私は、mochiOSというOSを開発しています。
+今の時代、LinuxとかWindows、macOSがあるのにわざわざ新しいOSを作らなくてもいいじゃないか、意味わからん、という声も聞こえてきそうですが、なぜ作っているのかについては前回の記事に書いているので、そちらを読んでみてください。
+mochiOSでは、mnuという自作カーネルを使用しています。
+mnuという名前は「mnu's not unix」の略です。
+開発者は再帰的頭字語を使いがちなイメージがありますが、なぜなのでしょうか... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nekogakure/articles/60ca06b71029a2</guid>
+      <pubDate>Wed, 01 Jul 2026 08:31:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

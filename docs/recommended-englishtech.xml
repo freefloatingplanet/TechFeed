@@ -7,11 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 09:55:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 09:20:39 +0000</lastBuildDate>
     <item>
       <title>プレゼンテーション：信頼できる生産性：AI加速型開発のセキュリティ確保</title>
       <link>https://www.infoq.com/presentations/ai-development/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Sriram Madapusi Vasudevan氏は、本番環境における自律型AIエージェントのセキュリティ確保に関する業界共通のパターンについて論じています。彼は、コンテキスト、推論、ツール実行といったReActループ内部に潜む重大な脆弱性について解説しています。さらに、多層防御戦略、LLM（論理レベルモデリング）を審査員として活用する批評家、MAESTRO脅威モデリングを用いて、メモリ汚染や不正ツール実行といったリスクを軽減する方法についても紹介しています。Sriram Madapusi Vasudevan著 (source: InfoQ)</description>
+      <description>Sriram Madapusi Vasudevan氏は、本番環境における自律型AIエージェントのセキュリティ確保に関する業界共通のパターンについて論じています。彼は、コンテキスト、推論、ツール実行といったReActループ内部に潜む重大な脆弱性について解説しています。さらに、多層防御戦略、LLM（論理レベルモデル）を評価ツールとして活用するクリティック、MAESTRO脅威モデリングを用いて、メモリ汚染や不正ツール実行といったリスクを軽減する方法についても紹介しています。Sriram Madapusi Vasudevan著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/ai-development/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Tue, 30 Jun 2026 14:35:00 +0000</pubDate>
     </item>

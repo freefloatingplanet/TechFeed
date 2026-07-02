@@ -7,13 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 09:55:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 09:18:39 +0000</lastBuildDate>
+    <item>
+      <title>ISSでNASAの宇宙飛行士2名が通算280回目の船外活動を実施　カナダアーム2の関節を交換</title>
+      <link>https://sorae.info/space/20260702-iss-spacewalk.html</link>
+      <description>NASA（アメリカ航空宇宙局）は2026年6月30日付で、ISS（国際宇宙ステーション）で船外活動が実施され、無事に完了したと発表しました。今回の作業はNASAのChris Williams宇宙飛行士とJessica M… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260702-iss-spacewalk.html</guid>
+      <pubDate>Thu, 02 Jul 2026 02:17:56 +0000</pubDate>
+    </item>
     <item>
       <title>Redwire、機密通信を守る量子鍵配送衛星の開発契約をESAから獲得【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/46010/</link>
       <description>Redwire Corporationは、欧州宇宙機関（ESA）が進める量子鍵配送衛星プログラム「QKDSat」において、衛星の開発契約を獲得したと発表しました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46010/</guid>
       <pubDate>Sun, 07 Jun 2026 23:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>ULAが「アトラスV」で8回目のAmazon Leoミッションを実施　551構成による最後の打ち上げ</title>
+      <link>https://sorae.info/ssn/20260702-atlasv-leo8.html</link>
+      <description>ULA（United Launch Alliance、ユナイテッド・ローンチ・アライアンス）は日本時間2026年7月2日、「Atlas V（アトラスV）」ロケットの打ち上げを実施しました。搭載されていたAmazonの衛星… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260702-atlasv-leo8.html</guid>
+      <pubDate>Thu, 02 Jul 2026 08:58:11 +0000</pubDate>
     </item>
     <item>
       <title>「この5年が勝負」民間大手・スタートアップ・アカデミア・コンサルの最前線の若手4人が語る、日本の宇宙産業の可能性と課題</title>
@@ -42,13 +56,6 @@
       <description>ESO（ヨーロッパ南天天文台）のMatías Jones氏を筆頭とする国際的な研究チームによると、NASA（アメリカ航空宇宙局）の系外惑星探査衛星「TESS（テス）」などの観測データから、恒星「TOI-201」の周囲にお… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260629-toi-201-system.html</guid>
       <pubDate>Mon, 29 Jun 2026 09:50:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>天の川銀河中心の過剰なガンマ線放出「GCE」の起源に「ダークマター説」が再浮上</title>
-      <link>https://sorae.info/astronomy/20260625-gce-dark-matter.html</link>
-      <description>通常の物質（バリオン）の5～6倍も存在するのに、電磁波では観測できないとされる謎の存在「ダークマター（暗黒物質）」。その正体に関わる新たな研究成果を、ウィーン大学などの国際的な研究チームが発表しました。 研究チームは、天… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260625-gce-dark-matter.html</guid>
-      <pubDate>Thu, 25 Jun 2026 12:03:52 +0000</pubDate>
     </item>
     <item>
       <title>「私たちの世代が宇宙技術を社会インフラにする」衛星データ・保険・スペースポート・コンサル、若手4人が語る宇宙産業で働く理由とキャリアの可能性</title>
