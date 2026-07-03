@@ -7,7 +7,43 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 09:18:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 09:24:29 +0000</lastBuildDate>
+    <item>
+      <title>ローカルLLMで「Pi」エージェントを動かす</title>
+      <link>https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced</link>
+      <description>数年前、LLMがコードを書いてくれるようになった当初は、チャットインターフェースでAIとやり取りするのが当たり前でした。しかし、2025年を境にその常識は一変しました。今やチャット形式でのプログラミングは「非効率」とされ、AIエージェントが自律的にタスクをこなす時代になっています。
+ただ、この「エージェント時代」には大きな悩みがあります。それは課金です。
+
+ なぜ今、ローカルLLMエージェントなのか
+現在、市場で最もシェアが高いと思われる「Claude Code」などの商用エージェントサービスは、サブスクリプション費用が月に200ドル（約3万円以上）かかることも珍しくありません。大学生や... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced</guid>
+      <pubDate>Tue, 30 Jun 2026 10:25:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>コードを仕様書にするために関数型プログラミングをする</title>
+      <link>https://zenn.dev/satto_workspace/articles/62cdc01e1d0e97</link>
+      <description>自己紹介
+コードを仕様書にすることを夢見るハムスターです🐹
+夢が叶ったかもしれません。
+satto workspace のプロダクト開発をしています
+
+
+ はじめに
+「コードは仕様書である。コードを見れば仕様がわかるようにしよう。」
+誰もがそのようなことを願ってプロダクトを立ち上げることでしょう。
+現代ではAIがコードと一緒にコメントも生成・更新してくれるため、その願いは容易に叶うはずでした。
+しかし実際には、生成されたコメントが肥大化していたり、要領を得ない文章だったりして、かえってコードを読みにくくしていることがあると感じています。
+やはり、コード自体が読みやすいことは依然として... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/satto_workspace/articles/62cdc01e1d0e97</guid>
+      <pubDate>Mon, 29 Jun 2026 04:21:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>「理解してから働く時代」が、そろそろ終わるのかもしれない、という話｜けんすう</title>
+      <link>https://kensuu.com/n/nab3eb1959ef2</link>
+      <description>こんにちは！ AI時代になって、かなり「理解しないけど仕事を進める」というのが増えてきたなあ、と思っていて、、 AIに考えてもらったやつをAIがレビューして、それをAIが実装する、みたいなことが起きた時に、中身についてあまり気にしなくてもいいときが増えてきました。特に、自分用のアプリやツールを作る程度だと... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://kensuu.com/n/nab3eb1959ef2</guid>
+      <pubDate>Thu, 02 Jul 2026 22:42:06 +0000</pubDate>
+    </item>
     <item>
       <title>仕様の曖昧さをコードで共有する</title>
       <link>https://zenn.dev/tan_go238/articles/c94a78a2dea391</link>
@@ -28,46 +64,6 @@
       <pubDate>Tue, 30 Jun 2026 02:13:51 +0000</pubDate>
     </item>
     <item>
-      <title>連動するフォームを TanStack Form で書く</title>
-      <link>https://zenn.dev/edash_tech_blog/articles/29679afbb3e8da</link>
-      <description>こんにちは。e-dash でフロントエンドエンジニアをしている前田です。
-昨年12月に React Hook Form についての記事を書きましたが、やはり複雑なフォームの設計は難しいですね。
-React Hook Form は、非制御コンポーネントをベースに余計な再レンダリングを抑えつつ、Zod などのスキーマと組み合わせて型安全にフォームを構築できる素晴らしいライブラリです。
-一方で、各フィールドがリアクティブに変化するようなフォームでは、setValue・trigger・ref といった命令的な記述が増えてしまう点に課題を感じていました。
-私は最近、TanStack Form を使... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/edash_tech_blog/articles/29679afbb3e8da</guid>
-      <pubDate>Wed, 01 Jul 2026 06:19:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI時代のチーム開発フローは「小さく安全に流し続ける」こと</title>
-      <link>https://zenn.dev/nocall/articles/3f0fcbbed6348c</link>
-      <description>はじめに
-最近、チームでほぼ毎日リリースできるようになってきました。
-とはいえ、これは開発速度がただ上がったからではありません。変更を小さく保って、安全に流し続けられる状態を地道に作ってきた結果だと思っています。
-AI を使うと実装は速くなります。でも、その分だけ差分が増えるスピードも上がるんですよね。
-小さくリリースできると、もし不具合が出ても影響範囲を小さく抑えられます。原因も追いやすいし、直してまた出すサイクルも早く回せます。
-少人数のうちは、多少大きな差分でも詳しい人が気合いで確認できるかもしれません。でも、メンバーが増えて同時に動く PR やリリースが増えてくると、そのやり... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nocall/articles/3f0fcbbed6348c</guid>
-      <pubDate>Wed, 01 Jul 2026 14:02:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>AnthropicモデルへのAI輸出規制が突然停止を招いた背景 — 「データ主権」の次に企業を脅かす「能力主権」リスクとは</title>
-      <link>https://techfeed.io/entries/6a459f0871759f74d1a1470c?from=rss</link>
-      <description>6月30日、TechTargetが「Anthropic models' foreign national ban exposes AI dependency risks」と題した記事を公開した。米商務省によるAnthropicモデルへの輸出規制が、ワークフローにAIを組み込んだ企業にとって「ベンダー依存」が単なる調達リスクを超えた問題であることを改めて示している。生成AIの業務統合が加速する中、規制当局の一指令がサービス全停止に直結するという事態は、CIOが従来の「データ主権」対応だけでは対処できない新たなリスク類型の存在を突きつけた。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a459f0871759f74d1a1470c?from=rss</guid>
-      <pubDate>Wed, 01 Jul 2026 23:13:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>影響のあるアプリだけVRTを実行するようにして、CircleCIのクレジットを削減した</title>
-      <link>https://zenn.dev/socialplus/articles/9368594bc4ce7c</link>
-      <description>こんにちは、Social PLUS のフロントエンドエンジニアのまっくすです。
-今回は、CircleCI のコストをきっかけに、普段あまり細かく見る機会のなかった CI のクレジット消費量を調べました。
-プロジェクトやジョブごとの利用状況を確認していくと、Storybook のビルドやスクリーンショット撮影を行うジョブが、フロントエンド全体のクレジット消費量の大きな割合を占めていることが分かりました。
-調査の結果、Storybook のビルドやスクリーンショット撮影を行うジョブが、フロントエンド全体のクレジット消費量の大きな割合を占めていることが分かりました。そこで、VRT の実行方法に... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/socialplus/articles/9368594bc4ce7c</guid>
-      <pubDate>Wed, 01 Jul 2026 09:00:11 +0000</pubDate>
-    </item>
-    <item>
       <title>ローカルLLMでハルシネーションを見抜く</title>
       <link>https://zenn.dev/starai_org/articles/1b09b1971a2a2b</link>
       <description>!
@@ -81,45 +77,43 @@ AI を使うと実装は速くなります。でも、その分だけ差分が�
       <pubDate>Tue, 30 Jun 2026 06:26:06 +0000</pubDate>
     </item>
     <item>
-      <title>AI学習のフェアユース認定、連邦裁判所が2日間で真逆の判断 — 法的グレーゾーンのまま開発を続けるリスクが高まる</title>
-      <link>https://techfeed.io/entries/6a459ed271759f74d1a146d3?from=rss</link>
-      <description>7月2日、PYMNTSが「Courts Split on Whether AI Training Is Fair Use」と題した記事を公開した。AI学習データのフェアユース（公正利用）を巡る米国の司法・規制当局の判断が分裂している現状について詳しく紹介されている。連邦判事の判断が2日間でまったく逆転法廷での判断の割れ方が鮮明だ。サンフランシスコを拠点とする連邦地裁のウィリアム・アルサップ判事は、Concord Music Group v. Anthropic 関連審理においてAI学習を「典型的な変容的利用（quintessentially transformative）」と認定し、著作権法は「著作者を競合から守るものではない」と述べた。ところがその2日後（6月27日）、同じサンフランシスコ連邦地裁のヴィンス・チャブリア判事は Kadrey v. Meta Platforms において、まったく逆の結論を示した。「AI学習の広範な実施は、人間の創作活動を支える経済的インセンティブを損なう恐れがある」として、フェアユース適用に否定的な見解を示した。同じ地域・同じレベルの裁判所が2日間で正 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a459ed271759f74d1a146d3?from=rss</guid>
-      <pubDate>Wed, 01 Jul 2026 23:12:18 +0000</pubDate>
+      <title>MoonBit を高速化する</title>
+      <link>https://zenn.dev/mizchi/articles/optimize-moonbit-core</link>
+      <description>プログラミング言語の速度が上がると嬉しいですね。というわけで MoonBit を高速化します。
+ところで、AI Slop とそうでないものの境界はなんでしょうか。自分が思うに、明確な仕様が存在するときにそれに準拠することや、またAPI契約を変えずにパフォーマンスやセキュリティを向上させることは、誰も損しないので比較的やりやすいと思ってます。
+人間同士のコミュニティ境界を越えるなら自分が理解していないものを送ることは論外として、説得材料に観測された計測値の根拠を出すことが必要になると思います。とにかく、大事なのは計測すること
+というわけで、最近は MoonBit の標準ライブラリである m... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mizchi/articles/optimize-moonbit-core</guid>
+      <pubDate>Thu, 02 Jul 2026 11:13:44 +0000</pubDate>
     </item>
     <item>
-      <title>プログラマーのためのブックマーク整理術</title>
-      <link>https://zenn.dev/k_tabuchi/articles/bef3713e4ffb58</link>
-      <description>まえがき
-プログラマーの仕事をしていると、大量のブックマークを作ることになりがちです。
-公式ドキュメント、GitHub、Slack、Backlog、Notion、Figma、管理画面、API仕様書、検証環境、本番環境など、日々アクセスするページはどんどん増えていきます。
-最初はブックマークバーへそのまま登録していても問題ありません。
-しかし、案件が増えるにつれて目的のページを探す時間が増え、生産性も落ちてしまいます。
-この記事では、私が試行錯誤してたどり着いたブックマーク整理の考え方を紹介します。
-!
-この記事では文章の校正とフォルダ分けの例示に生成AIを利用しております。
-
-
-
- ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/k_tabuchi/articles/bef3713e4ffb58</guid>
-      <pubDate>Wed, 01 Jul 2026 11:08:38 +0000</pubDate>
+      <title>Claude Codeに同じバグを3回出すと、自動でルール化される話</title>
+      <link>https://zenn.dev/nexta_/articles/858e92ee22b4a4</link>
+      <description>こんにちは。製造業向けSaaSを開発しているエンジニアです。
+AIエージェントを使い込むと、誰もが必ずぶつかる壁があります。「同じ失敗を、何度もAIに繰り返される」ことと、その対策で記録を増やすと今度は 「記憶が肥大化して、肝心なルールがノイズに埋もれる」ことです。
+私はこの2つを、セッション履歴を 「一次資料」 として扱い、アジャイル開発のふりかえりのようにAI自身の振る舞いを少しずつルール化していく学習機構（cc-retrospective-learner）で解こうとしました。仕組み自体は大げさなものではなく、自分の .claude 環境で開発の区切りごとに /retrospecti... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nexta_/articles/858e92ee22b4a4</guid>
+      <pubDate>Mon, 29 Jun 2026 02:00:09 +0000</pubDate>
     </item>
     <item>
-      <title>AWS Summit Japan 2026 に行ってきた——「実務未経験の私」が、現地で受け取ったもの</title>
-      <link>https://zenn.dev/honey_aws/articles/aws-summit-japan-2026</link>
+      <title>OpenAIが米政府にOpenAI株式5%を無償提供する構想を浮上 — サンダース議員は「50%徴収」で対抗</title>
+      <link>https://techfeed.io/entries/6a46e7a671759f74d1a2662e?from=rss</link>
+      <description>7月3日、Ars Technicaが「OpenAI floats giving US 5% stake to win over AI haters」と題した記事を公開した。OpenAIが米政府にOpenAI株式の5%を無償提供しようとする一方、バーニー・サンダース上院議員は50%徴収で対抗するという——この構図が、AIの利益配分をめぐる米国内の対立を象徴している。「AI革命の恩恵を誰が受け取るのか」という問いが、いよいよ企業と政府の正面交渉として顕在化してきた。「AIウェルスファンド」構想の背景OpenAIは今春、「金融市場に投資していない市民も含め、すべての市民にAI主導の経済成長への持ち分を提供する」AIウェルスファンドの創設を提案した（Financial Times報道）。同社のブログでも、「AI主導の未来」には「価値を生み出すシステムへの持続的な持ち分を人々に与える新たなアプローチ」が必要になるだろうと述べていた。「AIウェルスファンド」とは、AI企業が生み出す経済的利益の一部を国家または市民に還元するための基金構想で、政府や有識者の間で議論が広がりつつある概念だ。OpenAI (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a46e7a671759f74d1a2662e?from=rss</guid>
+      <pubDate>Thu, 02 Jul 2026 22:35:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIが自走できるかは設計で決まる ― 良いコードを残し、悪いコードを入れさせない</title>
+      <link>https://zenn.dev/sunagaku/articles/ai-autonomous-development-design</link>
       <description>はじめに
-こんにちは。Honey(@Honey_aws)です。
-2026年6月25日・26日の両日、AWS Summit Japan 2026 に現地参加しました。
-「資格と個人開発のみの私」が、現地で何を受け取ったかを振り返り、自分の記録として残したいと思います。
-今回は記事というより、とっても楽しかったので自分の思い出をゆるく綴っていきたいと思います。
-前回記事「AWS13冠は、何を証明して、何を証明しないのか」の話も少ししていますので、もし良ければ読んでいただけると嬉しいです。
+僕自身、個人開発や業務で AI を使った開発を行っています。その経験をもとに「AIに自走してもらうために何が必要か」を考える機会があったので、記事としてまとめてみました。
+ここで改めて感じたのは、AIが自走できるかどうかは、ツールの使い方以上に「コードベースの設計」の影響が大きいということです。重要なのは「良いコードを残し、悪いコードを入れさせないこと」だと考えました。
+AIに任せても意図通りのコードを出してくれない方や、AI駆動開発を進める中でコードの品質に課題を感じている方は、ぜひご覧ください。
 
- 行く前に抱えていたもの
-正直に言うと、行く前は少し身構えていました。
-私の AWS は、想像の中... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/honey_aws/articles/aws-summit-japan-2026</guid>
-      <pubDate>Wed, 01 Jul 2026 11:09:22 +0000</pubDate>
+ そもそも「AIが自走できる」とは？
+事前に「AIが自走できる」がどのよ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sunagaku/articles/ai-autonomous-development-design</guid>
+      <pubDate>Thu, 02 Jul 2026 03:32:08 +0000</pubDate>
     </item>
     <item>
       <title>（2）中学生が作っている自作OS、mochiOS - ケーパビリティなどのお話</title>

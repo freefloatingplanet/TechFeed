@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 09:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 09:24:38 +0000</lastBuildDate>
     <item>
-      <title>プレゼンテーション：信頼できる生産性：AI加速型開発のセキュリティ確保</title>
-      <link>https://www.infoq.com/presentations/ai-development/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Sriram Madapusi Vasudevan氏は、本番環境における自律型AIエージェントのセキュリティ確保に関する業界共通のパターンについて論じています。彼は、コンテキスト、推論、ツール実行といったReActループ内部に潜む重大な脆弱性について解説しています。さらに、多層防御戦略、LLM（論理レベルモデル）を評価ツールとして活用するクリティック、MAESTRO脅威モデリングを用いて、メモリ汚染や不正ツール実行といったリスクを軽減する方法についても紹介しています。Sriram Madapusi Vasudevan著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/ai-development/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 30 Jun 2026 14:35:00 +0000</pubDate>
+      <title>プレゼンテーション：Netflixにおけるサービスレベル優先負荷遮断を用いた信頼性向上</title>
+      <link>https://www.infoq.com/presentations/service-level-prioritized-load-shedding/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>講演者たちは、Netflixが極端なトラフィック急増を乗り切るためのアーキテクチャについて議論します。彼らは、Envoyサイドカープロキシに組み込まれた優先順位付けされた負荷分散の仕組みを説明し、ユーザーが開始したリクエストが重要度の低いトラフィックから容量を奪うことを可能にします。彼らは、継続的なカオス負荷テスト、構成生成、およびリトライストーム緩和のための自動化されたプラットフォーム戦略を共有します。執筆者：Anirudh Mendiratta、Benjamin Fedorka (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/service-level-prioritized-load-shedding/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 02 Jul 2026 09:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
