@@ -7,88 +7,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 08:42:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 08:57:51 +0000</lastBuildDate>
     <item>
-      <title>Claude Fable 5 が使えるうちに Agent SOP を導入して整備させる</title>
-      <link>https://zenn.dev/ryu1maniwa25/articles/fable5-agent-sop-setup</link>
-      <description>はじめに
-Claude Fable 5 が復活しましたね。皆さん使ってみましたでしょうか。
-
-筆者も Claude Code で使ってみましたが、明確に指示していないことでも適切な判断で進めてくれるため、使っていてとても気持ちが良かったです。
-ただ、サブスクプランで使えるのは 2026 年 7 月 7 日 (太平洋時間) まで、しかも週間利用上限の 50% までです。実際、筆者の環境では軽く使っただけで 5 時間あたりの制限の半分が消費されました。この記事を読まれている方の中には、既に利用制限が来てしまい使えなくなってしまった方がいるかもしれません。
-この限られた枠で何をやらせるかが... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ryu1maniwa25/articles/fable5-agent-sop-setup</guid>
-      <pubDate>Thu, 02 Jul 2026 22:41:43 +0000</pubDate>
+      <title>「VPC内通信もTLSにすべき？」と聞かれて ── そもそもAWS内で盗聴できるのか脅威モデルで確かめた話 - Qiita</title>
+      <link>https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1</link>
+      <description>以下、なぜこの結論になるのかを順に書きます。 そもそもVPC内は盗聴できるのか 最初に確認したかったのは、「物理的に同じLANにぶら下がっていて、他人のパケットが流れてくる」という昔のオフィスLANのイメージが、VPCにも当てはまるのか、でした。当てはまりません。 AWSのVPCは物理的な共有LANではなく、SDNの上に作... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1</guid>
+      <pubDate>Wed, 01 Jul 2026 04:15:32 +0000</pubDate>
     </item>
     <item>
-      <title>中国アリババ、米アンソロピックのプログラミングAIを利用禁止に - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOGM039GI0T00C26A7000000/</link>
-      <description>【上海=若杉朋子】中国ネット通販最大手のアリババ集団は、自社の従業員に対して、米人工知能（AI）新興アンソロピックのプログラミングAI「クロードコード」を業務で使うことを禁止する。ロイター通信や中国メディアが3日、関係者の話として伝えた。ロイターによると、クロードコードはエンジニアなどの間で、利用者の... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGM039GI0T00C26A7000000/</guid>
-      <pubDate>Fri, 03 Jul 2026 15:52:57 +0000</pubDate>
+      <title>テキサス州知事がAIデータセンターに「電気も水も自前で用意しろ、できないなら農村に来るな」（要旨）— 住民の3分の2が建設反対という現実</title>
+      <link>https://techfeed.io/entries/6a4990d471759f74d1a3bf12?from=rss</link>
+      <description>7月4日、James Nanzoが「Texas Gov. Abbott says AI data centers must bring their own power, water, or stay out of rural Texas」と題した記事を公開した。テキサス州の農村部でAIデータセンター建設への反発が高まるなか、グレッグ・アボット知事が「電力も水も自前で調達しなければ農村には来るな」と業界に迫っている。住民の3分の2近くが反対するという世論調査の数字が、その背景の深刻さを物語っている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a4990d471759f74d1a3bf12?from=rss</guid>
+      <pubDate>Sat, 04 Jul 2026 23:01:40 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェント時代のターミナルマルチプレクサ「herdr」にtmuxから乗り換えた</title>
-      <link>https://zenn.dev/studypocket/articles/herdr-ai-agent-multiplexer</link>
-      <description>https://x.com/Tocyuki/status/2072240028596748445
-
- はじめに
-スタディポケットで執行役員 CTO をしている@Tocyukiです。
-自分は長らく tmux をターミナルマルチプレクサとして使ってきました。Zellij や WezTerm のマルチプレクサ機能など、乗り換え候補は何度か検討したものの、tmux を育ててきたので愛着心もあり、そもそも tmux で困っていないという理由で移行には至りませんでした。
-状況が変わったのは、AI コーディングエージェントを複数並列で動かすようになってからです。自分は Claude Code を中心に... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/studypocket/articles/herdr-ai-agent-multiplexer</guid>
-      <pubDate>Thu, 02 Jul 2026 06:52:46 +0000</pubDate>
+      <title>AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ</title>
+      <link>https://zenn.dev/rapls/articles/7a1bac83df8b21</link>
+      <description>半年前に「AIに8割書かせたコードを、保守できるようにやっていること」という記事を書きました。ありがたいことに、自分がいちばん読まれた記事になりました。
+https://zenn.dev/rapls/articles/7456767a19af06
+あれから半年、その方針のまま実際に運用してみて、答え合わせができました。先に言うと、保守性は「足す」では買えませんでした。コメントを足す、ドキュメントを足す、きれいな抽象を足す。そのほとんどは、半年後に腐っていました。効いたのは、少数の「効く型」だけです。
+この記事では、良かれと思って足したのに無駄だった3つを先に、そのあと半年後も効いていた3... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/rapls/articles/7a1bac83df8b21</guid>
+      <pubDate>Thu, 02 Jul 2026 00:52:43 +0000</pubDate>
     </item>
     <item>
-      <title>グラフニューラルネットワーク(GNN)の基礎から多層化を阻む「オーバースムージング」への対策を解説</title>
-      <link>https://zenn.dev/dalab/articles/80ce9a10d507b8</link>
-      <description>1.  本記事について
-
-データアナリティクスラボ株式会社 データソリューション事業部の中田です。
-本記事は、社内活動の一環としてGNNについて学習したことをアウトプットしたものとなります。
-グラフニューラルネットワーク（GNN）の基本概念をおさらいしたのち、GNN特有の表現力を高めるために層を深くしようとすると直面する過平滑化問題（オーバースムージング）に対して、発生するメカニズムとその診断方法、さらには精度低下を食い止めるための対策手法について解説します。
-
- 2. GNNとグラフデータの基礎
-
-ここでは、GNNの基礎とGNNで解けるタスクを簡単に紹介します。
-
- GNNとは
-G... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dalab/articles/80ce9a10d507b8</guid>
-      <pubDate>Fri, 03 Jul 2026 01:45:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>優秀な人ばかりなのに、組織が重い ── AI時代に複利で膨らむ『認識負債』の話</title>
-      <link>https://zenn.dev/canly/articles/0c01a3124b8480</link>
-      <description>こんにちは、株式会社カンリーの波多野（@hatamasa1988）です。
-同じ言葉を使っているのに、話が通じない。
-最近、技術負債よりも厄介だと感じている負債の話をします。それが今回書く「認識負債」です。
-私はカンリー店舗集客プロダクトのエンジニアリングマネージャー（EM）をしています。前回は「AI時代のEMの仕事は、組織のハーネスエンジニアリングである」という記事を書いたんですが、今回はその裏側でずっと感じていたモヤモヤを、ひとつの言葉にしてみます。
-前回の記事はこちら。
-https://zenn.dev/canly/articles/fbf3a3277ad5a5
-ざっくり先にひとこと... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/canly/articles/0c01a3124b8480</guid>
-      <pubDate>Tue, 30 Jun 2026 23:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>「AI見え見えなのが分からないのかな」レポート課題を出したら、1分後に1000字程度の文章を提出してきた学生が数人いて、かなり不愉快</title>
-      <link>https://togetter.com/li/2716192</link>
-      <description>榎本啄杜 @enomoto_system2 いや、別に生成AIの使用自体を問題視しているわけではないし、壁打ち相手としての生成AIの優秀さは授業でも繰り返し述べていますが…。 出力された文章を一切確認していないことや、絶対に一切確認してないことが丸わかりな時間に送っていることに気付いてもなさそうなことにショックを受けて... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2716192</guid>
-      <pubDate>Thu, 02 Jul 2026 16:10:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Snowflakeの開発にCoCo(旧Cortex Code)をおすすめする理由</title>
-      <link>https://zenn.dev/dataheroes/articles/why-coco-for-snowflake-dev</link>
-      <description>この記事について
-CoCo（旧Cortex Code）は使えば便利なのに、汎用のコーディングエージェントと何が違うのかがあまり知られていないと感じています。もったいないので、実際に使っている立場から整理してみます。特に以下の疑問を持っている人に向けて書いています。
-
-使い慣れたコーディングエージェントがあるのに、わざわざCoCoを使う理由がわからない
-汎用のコーディングエージェントはサブスク定額なのに対して、CoCoは従量課金。費用対効果が合うのか不安
-結局同じ汎用モデル（Claude等）が裏で動いているなら、別にCoCoじゃなくてよくないか
-Snowflakeの知識なんてAGENT... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dataheroes/articles/why-coco-for-snowflake-dev</guid>
-      <pubDate>Fri, 03 Jul 2026 05:22:27 +0000</pubDate>
+      <title>【AIブームの“請求書”】ハイパースケーラー「空前の好業績」の死角…データセンターは高速陳腐化、巨額調達の代償 【小泉秀人の時事ネタ経済学】鉄道も光ファイバー網も投資家は大損、AIブームも二の舞に？ | JBpress (ジェイビープレス)</title>
+      <link>https://jbpress.ismedia.jp/articles/-/95730</link>
+      <description>この連載で、AIインフラ投資のリスクがどこに蓄積しているのかを測る「物差し」が存在しない、というコロンビア大学ヴァン・ニューワーバーグ教授の議論＊1を紹介した。今回はその続編である。2026年半ばまでの決算と資金調達の動き、そして公表されたばかりの実証研究を手がかりに、一歩踏み込んだ問いを考えたい。ハイ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://jbpress.ismedia.jp/articles/-/95730</guid>
+      <pubDate>Sat, 04 Jul 2026 09:12:44 +0000</pubDate>
     </item>
     <item>
       <title>Generative UIとそれを実現するOpenUIのイメージを掴む！</title>
@@ -102,21 +51,55 @@ Generative UIがない場合、マークダウン形式... (source: Zennのト�
       <pubDate>Fri, 03 Jul 2026 11:30:29 +0000</pubDate>
     </item>
     <item>
-      <title>RAGが「静かに壊れる」場所を直す — ユーザーの質問を文字列ではなく型付き構造として扱う6つの設計原則</title>
-      <link>https://techfeed.io/entries/6a48408e71759f74d1a352d9?from=rss</link>
-      <description>7月2日、Towards Data Scienceが「The Untaught Lessons of RAG Question Parsing: Structure Before You Search」と題した記事を公開した。この記事では、RAGパイプラインにおける質問解析フェーズを「文字列処理」ではなく「型付きデータ構造」として扱うことで、サイレントな部分回答や検索精度の劣化を防ぐ6つの設計原則について詳しく紹介されている。問題の核心は「静かに壊れる」という点にある。エラーは出ない。テストも通る。しかし本番でユーザーの質問の半分が無視されている——そのような状況を生み出す構造的な欠陥と、その修正方法がこの記事のテーマだ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a48408e71759f74d1a352d9?from=rss</guid>
-      <pubDate>Fri, 03 Jul 2026 23:06:54 +0000</pubDate>
+      <title>Codexが年640TBをSSDに書いていた、原因のTRACEログを追う</title>
+      <link>https://zenn.dev/okssusucha/articles/20260701-openai-codex-sqlite-trace-log-ssd-wear</link>
+      <description>手元のSSDが、キー入力していない時間帯まで一定のペースで削られていく。プロセスを追い詰めると、犯人はエディタでもブラウザでもなく、常駐させていたOpenAI Codex CLIのログ機構だった。あるユーザーの計測では、約21日の連続稼働でSSDへの書き込みが約37TBに達し、そのほとんどをCodexのSQLiteログが占めていた。年換算でおよそ640TB。1TBのSSDなら1年で約640回、ドライブ全体を上書きし尽くす計算になる。
+この話が怖いのは、バグそのものよりも「静かさ」だ。エラーも警告も出ないまま、消耗品であるNANDフラッシュの寿命だけが削られる。報告はopenai/code... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/okssusucha/articles/20260701-openai-codex-sqlite-trace-log-ssd-wear</guid>
+      <pubDate>Sat, 04 Jul 2026 04:35:18 +0000</pubDate>
     </item>
     <item>
-      <title>MoonBit を高速化する</title>
-      <link>https://zenn.dev/mizchi/articles/optimize-moonbit-core</link>
-      <description>プログラミング言語の速度が上がると嬉しいですね。というわけで MoonBit を高速化します。
-ところで、AI Slop とそうでないものの境界はなんでしょうか。自分が思うに、明確な仕様が存在するときにそれに準拠することや、またAPI契約を変えずにパフォーマンスやセキュリティを向上させることは、誰も損しないので比較的やりやすいと思ってます。
-人間同士のコミュニティ境界を越えるなら自分が理解していないものを送ることは論外として、説得材料に観測された計測値の根拠を出すことが必要になると思います。とにかく、大事なのは計測すること
-というわけで、最近は MoonBit の標準ライブラリである m... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mizchi/articles/optimize-moonbit-core</guid>
-      <pubDate>Thu, 02 Jul 2026 11:13:44 +0000</pubDate>
+      <title>Claude Code「Fable 5」にローカルLLM用シェル支援CLIを作らせたら、コードより仕事の進め方に驚かされた</title>
+      <link>https://zenn.dev/gys/articles/fable5-local-llm-ask-cli</link>
+      <description>完成物より、「仕事の進め方」そのものに驚いた話
+2026年7月2日早朝、日課のワークアウトを終えてClaude Codeを立ち上げたらfable5が使えるようになっていた。
+この記事は、その実装会話ログを時系列で再構成したものである。
+
+セキュリティ上公開できない内部パス、IPアドレス、顧客固有情報、無関係な作業断片は削除または一般化しています。
+ただし、判断の順序、途中の失敗、未検証事項、設計変更の経緯は、都合よく整え直していません。
+なお、本文中「引用する」と断って示すfable5の発言ブロックは、実際のセッションログからの原文引用です（［　］は固有名を一般化した箇所。それ以外は... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/gys/articles/fable5-local-llm-ask-cli</guid>
+      <pubDate>Thu, 02 Jul 2026 07:44:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>カビゴンの息子 - 傘をひらいて、空を</title>
+      <link>https://kasasora.hatenablog.com/entry/2026/06/30/190000</link>
+      <description>娘が自室に引っ込んだあと、妻と交代でシャワーを済ませ、その隙間に話す。平日のルーティンである。 今日は妻が「娘の生成AIの使用を禁じたほうがいいのではないか」という。なんでも調べものだとかそういう使い方ではなくて、「長時間AIに相談をしているようだから」というのである。 なるほど、と思う。 職業エンジニ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://kasasora.hatenablog.com/entry/2026/06/30/190000</guid>
+      <pubDate>Wed, 01 Jul 2026 06:32:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI時代に生き残るのは、「賢い人」より「精神のマラソンができる人」 | AIという車があっても、自分の足で走りたい</title>
+      <link>https://courrier.jp/news/archives/450760/</link>
+      <description>「知性が豊富にあるとき、意志には価値がある」 かつて、「AIが人間の仕事を奪う」と声高に叫ばれていた。しかしいま、実際にはこれとは真逆の事態が起こっている。 米テクノロジー企業「アクティブトラック」が、AIを導入した376の企業と1万人の従業員のデジタル活動を調査したところ、AI導入以前と比べて、メールや業... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://courrier.jp/news/archives/450760/</guid>
+      <pubDate>Sun, 05 Jul 2026 00:41:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>仕事の「モチベーション」とは何か。</title>
+      <link>https://zenn.dev/dip_techblog/articles/526cc6e6e5d5a5</link>
+      <description>こんにちは！ディップDevRelの岩城まゆです！
+最近Z世代関連の勉強会や組織開発に関わるカンファレンスセッションを聞くことが多く、「仕事のモチベーションとは何か」を考える機会がありました。その悩みがディップの元COO・CHOとのご飯会でスッキリした部分もあったので、会での学びも元に記録しておこうと思います。（役員との距離が近いのは会社のいいところですね^^）
+人事、DevRel、組織開発などに関わるひよっこの皆さんの役に立てば嬉しいです🐣
+
+ 仕事の「モチベーション」の正体
+
+モチベーションの正体：
+「誰かの役に立った」「誰かのためになった」という純粋な幸福感。
+
+今回の会で出た答えは... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dip_techblog/articles/526cc6e6e5d5a5</guid>
+      <pubDate>Sat, 04 Jul 2026 08:19:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

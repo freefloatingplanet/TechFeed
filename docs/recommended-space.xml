@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 08:42:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 08:57:55 +0000</lastBuildDate>
     <item>
       <title>Redwire、機密通信を守る量子鍵配送衛星の開発契約をESAから獲得【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/46010/</link>
@@ -30,18 +30,18 @@
       <pubDate>Thu, 02 Jul 2026 08:58:11 +0000</pubDate>
     </item>
     <item>
+      <title>天の川銀河の「渦巻腕」は一部が想定よりも大きく広がっている？　X線観測データを分析</title>
+      <link>https://sorae.info/astronomy/20260704-milky-way-galaxy.html</link>
+      <description>私たちが住む天の川銀河の本当の姿は、いまだに多くの謎に包まれています。イタリアのパヴィア高等研究所とトレント大学の共同プログラムに博士課程学生として在籍していたBeatrice Vaia氏を筆頭とする研究チームは、天の川… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260704-milky-way-galaxy.html</guid>
+      <pubDate>Sat, 04 Jul 2026 11:31:14 +0000</pubDate>
+    </item>
+    <item>
       <title>「この5年が勝負」民間大手・スタートアップ・アカデミア・コンサルの最前線の若手4人が語る、日本の宇宙産業の可能性と課題</title>
       <link>https://sorabatake.jp/46282/</link>
       <description>宇宙産業の最前線で奮闘する日本のプレイヤーはいま何を感じ、どこに勝機を見出しているのか。民間大手、スタートアップ、アカデミア、コンサルティングという異なる立場から宇宙産業に関わる若手4名に、日本の宇宙産業の強み・課題・展望を語り合っていただきました。【PR】 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46282/</guid>
       <pubDate>Mon, 22 Jun 2026 23:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>宇宙空間での大型構造物の組み立てが可能に？ Space Quartersが3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功 【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/46343/</link>
-      <description>Space Quartersが、3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功しました。その仕組みと、実証が示したものを解説します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46343/</guid>
-      <pubDate>Sun, 14 Jun 2026 23:02:58 +0000</pubDate>
     </item>
     <item>
       <title>「研究への情熱が、すべてのキャリアを繋いだ」インドネシア出身エンジニアがSynspectiveで衛星開発を行うまでの軌跡</title>
@@ -51,11 +51,11 @@
       <pubDate>Tue, 30 Jun 2026 03:00:49 +0000</pubDate>
     </item>
     <item>
-      <title>恒星「TOI-201」を公転する極端な軌道の褐色矮星と共存する2つの惑星</title>
-      <link>https://sorae.info/astronomy/20260629-toi-201-system.html</link>
-      <description>ESO（ヨーロッパ南天天文台）のMatías Jones氏を筆頭とする国際的な研究チームによると、NASA（アメリカ航空宇宙局）の系外惑星探査衛星「TESS（テス）」などの観測データから、恒星「TOI-201」の周囲にお… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260629-toi-201-system.html</guid>
-      <pubDate>Mon, 29 Jun 2026 09:50:37 +0000</pubDate>
+      <title>宇宙空間での大型構造物の組み立てが可能に？ Space Quartersが3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功 【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/46343/</link>
+      <description>Space Quartersが、3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功しました。その仕組みと、実証が示したものを解説します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46343/</guid>
+      <pubDate>Sun, 14 Jun 2026 23:02:58 +0000</pubDate>
     </item>
     <item>
       <title>NASA天文衛星「スウィフト」救出ミッションの宇宙機打ち上げ成功　動作確認経て軌道上昇へ</title>
