@@ -7,11 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 08:57:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 10:44:30 +0000</lastBuildDate>
     <item>
       <title>OrbitQuant：画像およびビデオ拡散トランスフォーマーのためのデータ非依存型量子化</title>
       <link>https://arxiv.org/abs/2607.02461v1</link>
-      <description>拡散変換器 (DiT) は最先端の画像およびビデオ生成を実現しますが、そのマルチステップサンプリングと増加するパラメータ数により推論が高コストになります。トレーニング後量子化 (PTQ) は自然な解決策ですが、DiT の活性化はタイムステップ、プロンプト、ガイダンスブランチをまたいで移動するため、従来の方法では新しいチェックポイントまたはモダリティごとにキャリブレーションデータを再適合させる必要がありました。本稿では、正規化回転基底で量子化することにより範囲推定を回避するデータ非依存の重み活性化量子化器 OrbitQuant を提案します。この基底では、ランダム化順列ブロックアダマール (RPBH) 回転により、入力に関係なく、各座標が 1 つの固定された既知の周辺値に集中するため、単一の Lloyd-Max コードブックが、特定の入力次元のすべてのタイムステップ、プロンプト、およびレイヤーに対応します。同じ量子化器をオフラインで重み行に拡張し、回転を重みに吸収することで、各線形レイヤー内で相殺され、実行時には活性化に対する順方向回転のみが残ります。同じレシピが画像から動画へと、モダリ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <description>拡散変換器 (DiT) は最先端の画像およびビデオ生成を実現しますが、そのマルチステップサンプリングと増加するパラメータ数により推論が高コストになります。トレーニング後量子化 (PTQ) は自然な解決策ですが、DiT の活性化はタイムステップ、プロンプト、ガイダンスブランチをまたいで移動するため、従来の方法では新しいチェックポイントまたはモダリティごとにキャリブレーションデータを再適合させる必要がありました。本稿では、正規化された回転基底で量子化することにより範囲推定を回避する、データ非依存の重み活性化量子化器 OrbitQuant を提案します。この基底では、ランダム化された順列ブロックアダマール (RPBH) 回転により、入力に関係なく、各座標が 1 つの固定された既知の周辺値に集中するため、単一の Lloyd-Max コードブックが、特定の入力次元のすべてのタイムステップ、プロンプト、およびレイヤーに対応します。同じ量子化器をオフラインで重み行に拡張し、回転を重みに吸収することで、各線形レイヤー内で相殺され、実行時には活性化に対する順方向回転のみが残ります。同じレシピが画像から動 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
       <guid isPermaLink="true">https://arxiv.org/abs/2607.02461v1</guid>
       <pubDate>Thu, 02 Jul 2026 17:27:34 +0000</pubDate>
     </item>

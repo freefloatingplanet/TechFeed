@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 08:57:55 +0000</lastBuildDate>
-    <item>
-      <title>Redwire、機密通信を守る量子鍵配送衛星の開発契約をESAから獲得【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/46010/</link>
-      <description>Redwire Corporationは、欧州宇宙機関（ESA）が進める量子鍵配送衛星プログラム「QKDSat」において、衛星の開発契約を獲得したと発表しました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46010/</guid>
-      <pubDate>Sun, 07 Jun 2026 23:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>観測史上最古の「瞬く」クエーサー　初期宇宙のブラックホールをめぐる謎がさらに深まる？</title>
-      <link>https://sorae.info/astronomy/20260703-flickering-quasar.html</link>
-      <description>MIT（マサチューセッツ工科大学）のGene C. K. Leung氏を筆頭とする研究チームは、ビッグバンからおよそ8億5000万年後という初期宇宙に存在したクエーサーが、まるで瞬くように光度を変化させていたとする研究成… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260703-flickering-quasar.html</guid>
-      <pubDate>Fri, 03 Jul 2026 00:20:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Jul 2026 10:44:28 +0000</lastBuildDate>
     <item>
       <title>ULAが「アトラスV」で8回目のAmazon Leoミッションを実施　551構成による最後の打ち上げ</title>
       <link>https://sorae.info/ssn/20260702-atlasv-leo8.html</link>
@@ -65,18 +51,32 @@
       <pubDate>Sat, 04 Jul 2026 01:34:19 +0000</pubDate>
     </item>
     <item>
+      <title>JAXA「はやぶさ2」が小惑星「トリフネ」のフライバイに成功　“地球防衛”に資する接近通過</title>
+      <link>https://sorae.info/space/20260706-hayabusa2-torifune.html</link>
+      <description>JAXA（宇宙航空研究開発機構）は2026年7月6日午後に記者説明会を開催し、前日の7月5日に実施された小惑星探査機「はやぶさ2」による小惑星「トリフネ（Torifune）」のフライバイ（接近通過）結果を発表しました。 … (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260706-hayabusa2-torifune.html</guid>
+      <pubDate>Mon, 06 Jul 2026 10:02:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>合計170万機以上の衛星打ち上げ計画に天文学者が警鐘　「天文学にとって壊滅的な結果に」</title>
+      <link>https://sorae.info/astronomy/20260706-eso-sky-brightness.html</link>
+      <description>こちらは、2025年10月15日に南米・チリのアタカマ砂漠北部で1時間にわたって撮影されたタイムラプス映像を1枚に合成した画像です。天の川の美しさとともに、無数の光の筋が縦横無尽に交差する様子が捉えられています。 一見す… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260706-eso-sky-brightness.html</guid>
+      <pubDate>Mon, 06 Jul 2026 00:56:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年7月の星空情報：さそり座や夏の大三角を楽しもう</title>
+      <link>https://sorae.info/astronomy/202607-starry-sky.html</link>
+      <description>7月、本格的な夏が訪れました。夜風に涼を求めても、昼の熱がそのまま残っているような、蒸し暑い夜が続きます。 そのような夜でも、空を見上げると清々しい星のきらめきが楽しめます。夏の空には明るい1等星や分かりやすい形の星座が… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/202607-starry-sky.html</guid>
+      <pubDate>Sun, 05 Jul 2026 12:36:22 +0000</pubDate>
+    </item>
+    <item>
       <title>「私たちの世代が宇宙技術を社会インフラにする」衛星データ・保険・スペースポート・コンサル、若手4人が語る宇宙産業で働く理由とキャリアの可能性</title>
       <link>https://sorabatake.jp/46245/</link>
       <description>宇宙業界で働く人は何を思い、具体的にどのような仕事をしているのか。異なる立場から宇宙業界に関わる若手4名に、この業界に入った経緯、日々の仕事の中身、そしてこれから描くキャリアについてたっぷりとお話を伺いました。【PR】 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46245/</guid>
       <pubDate>Mon, 22 Jun 2026 23:01:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>土星の新衛星「S/2009 S 2」を土星の環の中で発見　公式な衛星の定義がないことによる “発見” か？</title>
-      <link>https://sorae.info/astronomy/20260630-s-2009-s-2.html</link>
-      <description>「土星」は多数の衛星を従えていることで知られており、2023年にはその数は3桁を超えています。2026年6月17日、太陽系の天体に関する情報の収集と提供を行っている国際機関「小惑星センター」は、土星の衛星のリストに新たに… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260630-s-2009-s-2.html</guid>
-      <pubDate>Tue, 30 Jun 2026 12:44:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
