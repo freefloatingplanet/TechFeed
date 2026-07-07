@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 10:44:28 +0000</lastBuildDate>
-    <item>
-      <title>ULAが「アトラスV」で8回目のAmazon Leoミッションを実施　551構成による最後の打ち上げ</title>
-      <link>https://sorae.info/ssn/20260702-atlasv-leo8.html</link>
-      <description>ULA（United Launch Alliance、ユナイテッド・ローンチ・アライアンス）は日本時間2026年7月2日、「Atlas V（アトラスV）」ロケットの打ち上げを実施しました。搭載されていたAmazonの衛星… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260702-atlasv-leo8.html</guid>
-      <pubDate>Thu, 02 Jul 2026 08:58:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 09:49:16 +0000</lastBuildDate>
     <item>
       <title>天の川銀河の「渦巻腕」は一部が想定よりも大きく広がっている？　X線観測データを分析</title>
       <link>https://sorae.info/astronomy/20260704-milky-way-galaxy.html</link>
@@ -37,11 +30,11 @@
       <pubDate>Tue, 30 Jun 2026 03:00:49 +0000</pubDate>
     </item>
     <item>
-      <title>宇宙空間での大型構造物の組み立てが可能に？ Space Quartersが3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功 【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/46343/</link>
-      <description>Space Quartersが、3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功しました。その仕組みと、実証が示したものを解説します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46343/</guid>
-      <pubDate>Sun, 14 Jun 2026 23:02:58 +0000</pubDate>
+      <title>戦略17分野に「衛星システムのアンカーテナンシー強化」が追加。衛星データ利用の本格始動で民間投資の好循環へ【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/46445/</link>
+      <description>第5回日本成長戦略会議において、官民投資の具体像に「防災・インフラ点検・農林水産分野等の国土強靱化や社会課題解決、安全保障に資する我が国の衛星システムのアンカーテナンシーの強化」が新規に追加されました。その概要とこれまでの国土交通省や農林水産省の衛星システムの利用状況をまとめました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46445/</guid>
+      <pubDate>Mon, 06 Jul 2026 23:00:48 +0000</pubDate>
     </item>
     <item>
       <title>NASA天文衛星「スウィフト」救出ミッションの宇宙機打ち上げ成功　動作確認経て軌道上昇へ</title>
@@ -49,6 +42,13 @@
       <description>Northrop Grumman（ノースロップ・グラマン）は日本時間2026年7月3日、空中発射ロケット「Pegasus XL（ペガサスXL）」の打ち上げを実施しました。搭載されていたアメリカ企業Katalyst Spa… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/ssn/20260704-link.html</guid>
       <pubDate>Sat, 04 Jul 2026 01:34:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>現在の長周期彗星は250万年前に太陽系へ接近した恒星「HD 7977」の影響を強く受けている？</title>
+      <link>https://sorae.info/astronomy/20260706-long-period-comet.html</link>
+      <description>PSI（惑星科学研究所）のNathan Kaib氏とボルドー大学のSean Raymond氏は、太陽系の長周期彗星の軌道が、過去に太陽系へ接近した恒星「HD 7977」の影響を強く受けているとする研究成果を発表しました。… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260706-long-period-comet.html</guid>
+      <pubDate>Mon, 06 Jul 2026 12:37:07 +0000</pubDate>
     </item>
     <item>
       <title>JAXA「はやぶさ2」が小惑星「トリフネ」のフライバイに成功　“地球防衛”に資する接近通過</title>

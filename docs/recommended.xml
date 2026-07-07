@@ -7,33 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 10:44:25 +0000</lastBuildDate>
-    <item>
-      <title>コードレビュー指摘300件を3ヶ月分類したら効いていたのは2種類だけだった</title>
-      <link>https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories</link>
-      <description>私は3ヶ月かけて300件のレビュー指摘を全部直した。PRがnit:で埋まり、開発が止まった。AIレビューを増やしたら、人間も含めたレビュー疲れがピークに達した。
-自分のレビューが信用できなくなって、ふと気になった。「この300件のうち、本当に効いたのは何件だろう」。
-数えてみたら、Bug指摘とSpec指摘の2種類だけだった。残り4種類は、自動化するか、PR以前の段階に追い出す方がチームのためになる。
-!
-本記事の前提となる「3層モデル」と「6段階レビュー」は別記事で扱った設計図側の話。今回はその先、指摘そのもののROI計測を扱う。
-
-6段階レビューを3ヶ月回したら、人間の出番は1段階だけ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories</guid>
-      <pubDate>Sat, 04 Jul 2026 09:57:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>とある部長のObsidian</title>
-      <link>https://zenn.dev/canly/articles/173479ac3e9824</link>
-      <description>まえがき
-カンリーのプロダクトマネジメント部の部長をしている越智（X：@ochi__san）です。
-AIが日常の当たり前になってから久しいですが、私ももれなく日々の業務にどうAIを取り込み、いかに生産性高くふるまい続けられるかを考えています。今回は実務というよりはその周辺にあるタスクやふりかえりに焦点をあて、どのようにAIを使っているかをご紹介します。
-
- はじめに
-弊社CTO小出が重い腰を上げX（@koid_thinks）を開始し、さらに個人ブログを立ち上げました。なんということでしょう。
-記念すべき1回目の投稿でObsidianに触れていたため、私もObsidian × Clau... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/canly/articles/173479ac3e9824</guid>
-      <pubDate>Fri, 03 Jul 2026 06:28:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 09:49:13 +0000</lastBuildDate>
     <item>
       <title>AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ</title>
       <link>https://zenn.dev/rapls/articles/7a1bac83df8b21</link>
@@ -45,11 +19,18 @@ https://zenn.dev/rapls/articles/7456767a19af06
       <pubDate>Thu, 02 Jul 2026 00:52:43 +0000</pubDate>
     </item>
     <item>
-      <title>生成AIを上手に使いこなすために、わたし達が学ぶべき事とは | マネジメントのテクノロジーを考える</title>
-      <link>https://mgt-technology.info/%E7%94%9F%E6%88%90ai%E3%82%92%E4%B8%8A%E6%89%8B%E3%81%AB%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%99%E3%81%9F%E3%82%81%E3%81%AB%E3%80%81%E3%82%8F%E3%81%9F%E3%81%97%E9%81%94%E3%81%8C%E5%AD%A6%E3%81%B6/</link>
-      <description>生成AIの能力向上 出張先で急に携帯が不調になった。データ通信がインターネットにつながらないのだ。WiFi経由だと通信できるので、別の端末のテザリングで当座はしのいだが、不便でならない。帰ってからネットを頼りに調べたら、どうも物理SIM関連の故障が疑われた。スマホを買ってから丸4年。床に落としたりしたことも... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://mgt-technology.info/%E7%94%9F%E6%88%90ai%E3%82%92%E4%B8%8A%E6%89%8B%E3%81%AB%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%99%E3%81%9F%E3%82%81%E3%81%AB%E3%80%81%E3%82%8F%E3%81%9F%E3%81%97%E9%81%94%E3%81%8C%E5%AD%A6%E3%81%B6/</guid>
-      <pubDate>Mon, 06 Jul 2026 04:26:14 +0000</pubDate>
+      <title>「年収を下げてでも、正社員を選んだ」──経営からフリーランスiOSエンジニア、そして37歳の決断</title>
+      <link>https://techfeed.io/entries/6a4643c771759f74d1a21c9c?from=rss</link>
+      <description>年商数千万の物販からiOSエンジニアへ転身し、大手開発に携わってきた37歳。AIが開発現場を激変させる中、彼はなぜ「実装だけでは厳しい」と感じ、安定を求めて正社員への転換を決めたのか。キャリアの転換点と、彼が導き出した「これからのエンジニアの生存戦略」に迫るインタビューです。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a4643c771759f74d1a21c9c?from=rss</guid>
+      <pubDate>Tue, 07 Jul 2026 01:38:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIが「安全」判定キノコに猛毒　食べた少年が一時危篤、中国湖北省：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASV762TYLV76UHBI019M.html</link>
+      <description>中国湖北省武漢市で6月、野生のキノコを食べた9歳の少年が、一時は生死の境をさまよう出来事があった。AI（人工知能）で「安全」と判断されたが、猛毒の成分を持つキノコだったという。中国共産党系の地元紙「… (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.asahi.com/articles/ASV762TYLV76UHBI019M.html</guid>
+      <pubDate>Mon, 06 Jul 2026 15:40:18 +0000</pubDate>
     </item>
     <item>
       <title>ECMAScriptにおけるグレゴリオ暦: `iso8601`と`gregory`</title>
@@ -74,11 +55,30 @@ https://zenn.dev/rapls/articles/7456767a19af06
       <pubDate>Thu, 02 Jul 2026 07:44:33 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントにOSSのメジャーバージョンをほぼ丸ごと開発させたら約149ドルかかった — データが黙って消えるバグも自力で発見</title>
-      <link>https://techfeed.io/entries/6a4ac73871759f74d1a42163?from=rss</link>
-      <description>7月5日、Simon Willisonが「sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)」と題した記事を公開した。この記事では、AIコーディングエージェント「Claude Fable」を使ってOSSライブラリ「sqlite-utils 4.0」をほぼ丸ごと開発した実録と、その実費約149ドルの内訳が詳しく紹介されている。独立記念日（4th of July）のパレードをiPhoneで楽しみながら、AIエージェントが10〜15分かけてタスクをこなすのを待つ——Willisonが描くAIコーディングの風景は、「AIとペアプロする」というより「AIに仕事を投げて自分は別のことをする」に近い。その結果生まれたのが、37プロンプト・34コミット・+1,321行のコード変更というメジャーバージョンアップだ。しかもFableはリリース直前に、データが黙って消えるバグを自力で発見してみせた。Fableが見つけたリリースブロッカー：データが黙って消えるバグWillisonが最初に送ったプロンプトはシンプルなもの (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a4ac73871759f74d1a42163?from=rss</guid>
-      <pubDate>Sun, 05 Jul 2026 21:06:00 +0000</pubDate>
+      <title>AIコードが本番環境の44.7%を占める今、「出荷できない」35%の組織が直面する可視性ギャップ — スキャンツールでは解決しない構造的問題とは</title>
+      <link>https://techfeed.io/entries/6a4c35dbb49f5d3437c21a2b?from=rss</link>
+      <description>7月7日、Paul Nashawaty氏が「AI Code Visibility Gap Widens as Production Use Hits 44.7%」と題した記事を公開した。この記事では、AI生成コードの本番導入が急拡大する一方、組織の3分の1以上がそのコードを安全に出荷できる確信を持てずにいるという「可視性ギャップ」の実態について詳しく紹介されている。本番コードの44.7%がAI生成——だが本当の問題は別にあるエンジニアリングインテリジェンスプラットフォームのFlux（記事内ではレポート「AI Code Generation Reality Check」の発行に関与した調査スポンサーとして言及されている）と、独立調査機関のDimensional Researchが共同で、309名のエンジニアリングリーダーおよび実務者を対象に5大陸で調査を実施した。本稿で紹介する数字はそのレポートに基づく。目を引くのは44.7%という数字だ。すでにほぼ半数の組織がAI生成コードを本番環境で稼働させている。しかし、レポートが指摘する本質的な問題はここではない。35%の組織はAIでコードを書い (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a4c35dbb49f5d3437c21a2b?from=rss</guid>
+      <pubDate>Mon, 06 Jul 2026 23:10:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Agentに自由な開発環境を渡す、Proxmox+LXCで。</title>
+      <link>https://zenn.dev/uzulla/articles/91272997a7c668</link>
+      <description>こんにちは uzullaです。もはやAIエージェントに作業をさせることがお仕事みたいな時代になりましたね。
+Agentに作業をさせるのだから「Enterをおすだけのかんたんなおしごと」は減らして、できるだけロングランしてほしい。
+そうなると「エージェントが好き勝手できる」かどうかは重要なポイントです。しかし、自分の作業マシンでそのまま動かすのは怖いですよね、Agentによかれと変なコマンド実行されたり、なんかツールをいれられたら環境が汚れるし（いれていいとしてもそれの精査の手間がかかるし）、ホスト名やポートはかぶるし、DockerのImageとかの名前衝突したり…。
+そこで私は、Prox... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/uzulla/articles/91272997a7c668</guid>
+      <pubDate>Mon, 06 Jul 2026 11:12:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIエージェントの決済履歴は「戦略ログ」になる ─ 誰が誰に払ったかを隠す private x402 "SubEtha"を作った</title>
+      <link>https://zenn.dev/peaceandwhisky/articles/6f0b8b672a6f78</link>
+      <description>はじめに
+AI エージェントは、検索・推論・データ取得・外部ツールの実行のたびに API を呼びます。これまでは、人間がアカウントを作り、API key を発行し、月額契約やプリペイド残高で支払う、という形が普通でした。ですが、エージェント自身が必要な API をその場で見つけて使う世界では、呼び出すたびに、その 1 回分だけをその場で支払う流れのほうが自然です。事前のアカウント登録も、購入手続きの画面も、あいだに人間が挟まる工程はありません。
+x402 は、この流れをうまく形にしています。サーバーが HTTP の 402 Payment Required で「この API はいくら... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/peaceandwhisky/articles/6f0b8b672a6f78</guid>
+      <pubDate>Tue, 07 Jul 2026 00:00:07 +0000</pubDate>
     </item>
     <item>
       <title>Cloudflare Workers + better-auth で全リクエストが無応答になる - hanging promise の罠</title>
@@ -88,13 +88,6 @@ Cloudflare Workers + D1 + better-auth で運用している Web サービスで�
 原因は Cloudflare Workers の hanging promise でした。リクエスト処理中に生成された promise は、そのリクエストがクライアントに中断されると永遠に解決しなくな... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/coji/articles/cloudflare-workers-better-auth-hanging-promise</guid>
       <pubDate>Sun, 05 Jul 2026 10:11:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ライブラリ不要のダークモードをWeb標準だけで実装する — `color-scheme` の「効く範囲・効かない範囲」完全ガイド</title>
-      <link>https://techfeed.io/entries/6a4ac5f271759f74d1a4213c?from=rss</link>
-      <description>7月5日、Ollie Williamsが「Dark mode with web standards」と題した記事を公開した。外部ライブラリを一切使わず、Web標準だけでダークモードを完結させる実装を詳細に解説した内容だ。CSSの light-dark() 関数のグラデーション対応や、JavaScriptから prefers-color-scheme を上書きするUser Preferences APIの議論など、Web標準のダークモード周辺仕様はここ1〜2年で急速に進化している。その一方で「OSの設定に追従しつつ、ユーザーがサイト単位でも切り替えられる」という基本要件を、ライブラリなしで正しく実装しようとすると、思わぬ落とし穴にはまりやすい。本記事はその落とし穴を体系的に整理し、現時点でどこまでWeb標準で実現できるかを明確にしている。メタタグを起点にした設計実装の基本となるのが タグだ。CSSの color-scheme プロパティと役割は似ているが、CSSファイルの読み込み完了前に適用されるため、スロー回線でのスタイル未適用状態... (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a4ac5f271759f74d1a4213c?from=rss</guid>
-      <pubDate>Sun, 05 Jul 2026 21:00:34 +0000</pubDate>
     </item>
     <item>
       <title>ELDEN RING NIGHTREIGNのマルチがラグいのは、ハズレのSteam中継サーバーを引いているからだった</title>
