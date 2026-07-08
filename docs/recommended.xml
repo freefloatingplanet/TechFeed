@@ -7,39 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 09:49:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 08:34:50 +0000</lastBuildDate>
     <item>
-      <title>AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ</title>
-      <link>https://zenn.dev/rapls/articles/7a1bac83df8b21</link>
-      <description>半年前に「AIに8割書かせたコードを、保守できるようにやっていること」という記事を書きました。ありがたいことに、自分がいちばん読まれた記事になりました。
-https://zenn.dev/rapls/articles/7456767a19af06
-あれから半年、その方針のまま実際に運用してみて、答え合わせができました。先に言うと、保守性は「足す」では買えませんでした。コメントを足す、ドキュメントを足す、きれいな抽象を足す。そのほとんどは、半年後に腐っていました。効いたのは、少数の「効く型」だけです。
-この記事では、良かれと思って足したのに無駄だった3つを先に、そのあと半年後も効いていた3... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/rapls/articles/7a1bac83df8b21</guid>
-      <pubDate>Thu, 02 Jul 2026 00:52:43 +0000</pubDate>
+      <title>コードレビュー指摘300件を3ヶ月分類したら効いていたのは2種類だけだった</title>
+      <link>https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories</link>
+      <description>私は3ヶ月かけて300件のレビュー指摘を全部直した。PRがnit:で埋まり、開発が止まった。AIレビューを増やしたら、人間も含めたレビュー疲れがピークに達した。
+自分のレビューが信用できなくなって、ふと気になった。「この300件のうち、本当に効いたのは何件だろう」。
+数えてみたら、Bug指摘とSpec指摘の2種類だけだった。残り4種類は、自動化するか、PR以前の段階に追い出す方がチームのためになる。
+!
+本記事の前提となる「3層モデル」と「6段階レビュー」は別記事で扱った設計図側の話。今回はその先、指摘そのもののROI計測を扱う。
+
+6段階レビューを3ヶ月回したら、人間の出番は1段階だけ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories</guid>
+      <pubDate>Sat, 04 Jul 2026 09:57:02 +0000</pubDate>
     </item>
     <item>
-      <title>「年収を下げてでも、正社員を選んだ」──経営からフリーランスiOSエンジニア、そして37歳の決断</title>
-      <link>https://techfeed.io/entries/6a4643c771759f74d1a21c9c?from=rss</link>
-      <description>年商数千万の物販からiOSエンジニアへ転身し、大手開発に携わってきた37歳。AIが開発現場を激変させる中、彼はなぜ「実装だけでは厳しい」と感じ、安定を求めて正社員への転換を決めたのか。キャリアの転換点と、彼が導き出した「これからのエンジニアの生存戦略」に迫るインタビューです。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a4643c771759f74d1a21c9c?from=rss</guid>
-      <pubDate>Tue, 07 Jul 2026 01:38:34 +0000</pubDate>
+      <title>Anthropic、Claudeの内部に「ヒトの意識」に似た領域を発見</title>
+      <link>https://japan.cnet.com/article/35250303/</link>
+      <description>米Anthropicは米国時間7月6日、AIモデル「Claude」の内部に、人間の意識的な思考とよく似た役割を果たす領域を発見したと発表した。「Jスペース」と名付けたこの神経パターンの集まりを読み取ると、Claudeが文章には出力していない“頭の中の考え”が分かるという。 AIは、書いた文章の裏側で多くの推論を無言のまま進めて... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://japan.cnet.com/article/35250303/</guid>
+      <pubDate>Tue, 07 Jul 2026 20:58:59 +0000</pubDate>
     </item>
     <item>
-      <title>AIが「安全」判定キノコに猛毒　食べた少年が一時危篤、中国湖北省：朝日新聞</title>
-      <link>https://www.asahi.com/articles/ASV762TYLV76UHBI019M.html</link>
-      <description>中国湖北省武漢市で6月、野生のキノコを食べた9歳の少年が、一時は生死の境をさまよう出来事があった。AI（人工知能）で「安全」と判断されたが、猛毒の成分を持つキノコだったという。中国共産党系の地元紙「… (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.asahi.com/articles/ASV762TYLV76UHBI019M.html</guid>
-      <pubDate>Mon, 06 Jul 2026 15:40:18 +0000</pubDate>
+      <title>APIもDBも東京なのに、全クエリが太平洋横断していた話</title>
+      <link>https://zenn.dev/avaintelligence/articles/b7d4743a448485</link>
+      <description>はじめに AI x 旅行アプリのアバトラベル（iOS / Android）は、2026年6月にフルリニューアルしました！ ところがその直後から、「ほぼ全てのAPIが一律に遅い」 という不思議な症状に悩まされていました。弊社に協力いただいているつよつよエンジニアの栗田さんの調査により、原因はAPIのコードでもDBのチューニング不足... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/avaintelligence/articles/b7d4743a448485</guid>
+      <pubDate>Tue, 07 Jul 2026 15:02:55 +0000</pubDate>
     </item>
     <item>
-      <title>ECMAScriptにおけるグレゴリオ暦: `iso8601`と`gregory`</title>
-      <link>https://zenn.dev/fabon/articles/c4b2efbb0c526b</link>
-      <description>ECMAScriptにはTemporalやIntl.DateTimeFormatといった暦を扱うAPIが存在し、最もよく使われるグレゴリオ暦はもちろん、日本の元号、東アジアのいわゆる旧暦（太陰太陽暦）、ヒジュラ暦やユダヤ暦など多種多様な暦がサポートされています。そのうち一般的なグレゴリオ暦[1]を指すものとしてiso8601とgregoryが存在しますが、この両者の違いは何で、なぜ別のものとして存在しているのでしょうか?
-短い解答は、gregoryは国際化の文脈で使われる現実のグレゴリオ暦である一方、iso8601はモデル化された「人工的」かつ文化中立的なグレゴリオ暦だということです。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/fabon/articles/c4b2efbb0c526b</guid>
-      <pubDate>Sun, 05 Jul 2026 07:57:21 +0000</pubDate>
+      <title>「日本の会社員は全員これ読むべき」DeNAの南場智子会長が行っているAI活用方法が、経営者限らずどんな社会人でも参考になりそう</title>
+      <link>https://togetter.com/li/2718162</link>
+      <description>Kouya ｜ AI×SNSマーケ自動化コンサルタント @kouya_sns01 @masaki_aihack このスレッドの核心は「AIの使い方」ではなく「人間の役割の再定義」にあると思います。多くの人がAIに「0から60点の叩き台を作らせる」ことを推奨していますが、本当に価値があるのは「頭の中に既に像（イメージ）がある人」がAIを活用して、そ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2718162</guid>
+      <pubDate>Wed, 08 Jul 2026 01:37:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>とある部長のObsidian</title>
+      <link>https://zenn.dev/canly/articles/173479ac3e9824</link>
+      <description>まえがき
+カンリーのプロダクトマネジメント部の部長をしている越智（X：@ochi__san）です。
+AIが日常の当たり前になってから久しいですが、私ももれなく日々の業務にどうAIを取り込み、いかに生産性高くふるまい続けられるかを考えています。今回は実務というよりはその周辺にあるタスクやふりかえりに焦点をあて、どのようにAIを使っているかをご紹介します。
+
+ はじめに
+弊社CTO小出が重い腰を上げX（@koid_thinks）を開始し、さらに個人ブログを立ち上げました。なんということでしょう。
+記念すべき1回目の投稿でObsidianに触れていたため、私もObsidian × Clau... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/canly/articles/173479ac3e9824</guid>
+      <pubDate>Fri, 03 Jul 2026 06:28:32 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code「Fable 5」にローカルLLM用シェル支援CLIを作らせたら、コードより仕事の進め方に驚かされた</title>
@@ -55,11 +69,17 @@ https://zenn.dev/rapls/articles/7456767a19af06
       <pubDate>Thu, 02 Jul 2026 07:44:33 +0000</pubDate>
     </item>
     <item>
-      <title>AIコードが本番環境の44.7%を占める今、「出荷できない」35%の組織が直面する可視性ギャップ — スキャンツールでは解決しない構造的問題とは</title>
-      <link>https://techfeed.io/entries/6a4c35dbb49f5d3437c21a2b?from=rss</link>
-      <description>7月7日、Paul Nashawaty氏が「AI Code Visibility Gap Widens as Production Use Hits 44.7%」と題した記事を公開した。この記事では、AI生成コードの本番導入が急拡大する一方、組織の3分の1以上がそのコードを安全に出荷できる確信を持てずにいるという「可視性ギャップ」の実態について詳しく紹介されている。本番コードの44.7%がAI生成——だが本当の問題は別にあるエンジニアリングインテリジェンスプラットフォームのFlux（記事内ではレポート「AI Code Generation Reality Check」の発行に関与した調査スポンサーとして言及されている）と、独立調査機関のDimensional Researchが共同で、309名のエンジニアリングリーダーおよび実務者を対象に5大陸で調査を実施した。本稿で紹介する数字はそのレポートに基づく。目を引くのは44.7%という数字だ。すでにほぼ半数の組織がAI生成コードを本番環境で稼働させている。しかし、レポートが指摘する本質的な問題はここではない。35%の組織はAIでコードを書い (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a4c35dbb49f5d3437c21a2b?from=rss</guid>
-      <pubDate>Mon, 06 Jul 2026 23:10:19 +0000</pubDate>
+      <title>ターミナル中心の開発環境が手になじんできたので、実務で効いていることを紹介したい</title>
+      <link>https://zenn.dev/shinkawa/articles/ae1f88aa0fb027</link>
+      <description>これまでIDE中心だった開発環境を、今年の4月ごろからターミナル中心に切り替え始めた。
+ようやく手になじんできて、以前IDEでやっていた作業もターミナル上でかなり素早くできるようになってきた。現時点の構成をまとめておきたい。
+特に効いているのは、AIエージェントと一緒に開発を進める時だ。自分がよくやるのは、たとえばこういう作業である。
+
+複数案件対応時の切り替え: 会社Aの作業、会社Bの作業、会社Bの別タスク、という単位で WezTerm のタブを立ち上げている。IDEを複数開くより軽く、切り替えも楽なので、その日の対応を並べておきやすい。
+目的のファイルに素早くアクセスする
+現状のDB... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shinkawa/articles/ae1f88aa0fb027</guid>
+      <pubDate>Sun, 05 Jul 2026 04:55:30 +0000</pubDate>
     </item>
     <item>
       <title>AI Agentに自由な開発環境を渡す、Proxmox+LXCで。</title>
@@ -88,14 +108,6 @@ Cloudflare Workers + D1 + better-auth で運用している Web サービスで�
 原因は Cloudflare Workers の hanging promise でした。リクエスト処理中に生成された promise は、そのリクエストがクライアントに中断されると永遠に解決しなくな... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/coji/articles/cloudflare-workers-better-auth-hanging-promise</guid>
       <pubDate>Sun, 05 Jul 2026 10:11:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ELDEN RING NIGHTREIGNのマルチがラグいのは、ハズレのSteam中継サーバーを引いているからだった</title>
-      <link>https://zenn.dev/kikurage7/articles/8b4d12fe0b7198</link>
-      <description>ELDEN RING NIGHTREIGN（ナイトレイン、Steam版）のマルチプレイで、ラグに悩まされていました。敵が動かないと思ったら次の瞬間には全然違う場所に移動している、アイテムや武器が出てくるのに時間がかかる、拾うのにも時間がかかる、という症状です。
-対処は二段構えになりました。まずフレンドとパーティを組んで遊ぶときのラグはSteamの設定変更で解決。その後、野良マッチングでもラグい回が多いことに気づき、こちらは原因を調べた結果、「東京にあるSteamの中継サーバーが使えるのに、はるかに遅い国外の中継サーバーを掴まされる」事故だとわかりました。Windowsのファイアウォール... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kikurage7/articles/8b4d12fe0b7198</guid>
-      <pubDate>Sun, 05 Jul 2026 06:18:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jul 2026 09:49:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 08:34:55 +0000</lastBuildDate>
     <item>
-      <title>MoP-JEPA：確率的JEPA世界モデルのためのハードアサインされた予測変数混合モデル</title>
-      <link>https://arxiv.org/abs/2607.05238v1</link>
-      <description>JEPAワールドモデルは、潜在回帰によって学習された単一の決定論的予測器で次の潜在状態を予測します。環境が確率的である場合、これが構造的に失敗することを示します。分岐遷移では、回帰最適予測器は後継埋め込みの条件付き平均を出力しますが、これは真の次の状態の間の点であり、実際には状態が存在しないことを意味します。決定論的およびゲート付き混合エキスパート予測器についてこの崩壊を証明し、MoP-JEPAのハード割り当て予測器は代わりに遷移分布の量子化器に収束することを証明します。これは、後継モードごとに1つのヘッドがあり、単一の順方向パスで列挙可能であり、プランナーが消費するインターフェースです。リークフリー評価による公式OGBenchオフラインデータでは、単一予測器ロールアウトのプランニングはパフォーマンスが低く（成功率0.02～0.09）、予測モードのプランニングは最大0.85に達し、すべてのタスクで決定論的、ゲート付きMoE、および変分予測器を上回ります。多重予測評価はカバレッジのフリーローディングを招くため、検証プロトコルがメソッドの一部となっています。入力に依存しないコードブック制御 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.05238v1</guid>
-      <pubDate>Mon, 06 Jul 2026 15:47:37 +0000</pubDate>
+      <title>Pitwall：較正済みリアルタイムモンテカルロエンジンによる、忠実な自然言語によるレース戦略ブリーフィング</title>
+      <link>https://arxiv.org/abs/2607.06495v1</link>
+      <description>ライブスポーツ解説は、締め切りに追われる中で生成されるものです。発言は実在する名前付きのアスリートに関するものであり、基盤となる状態は数秒ごとに変化し、生成時点では参照テキストは存在しません。本稿では、英語、スペイン語、ポルトガル語で自然言語によるF1戦略ブリーフィングを生成するプロダクションシステム「Pitwall」を紹介します。このシステムでは、忠実性を目標ではなく、アーキテクチャの特性として扱います。公開されたすべての文は、タイプされた事実の主張（ポジション、ギャップ、タイヤ、ペース、オーバーテイク、レースコントロール）に分解され、各主張は、それを促した確率的なレース状態に対して検証されます。同じ検証器が微調整データにも適用されます。モデルによって作成された3,045のターゲットのうち、すべての主張が状態によって裏付けられている81.9%のみが保持され、残りは証明可能な忠実なテンプレートにフォールバックするため、ジェネレータは基盤のないターゲットを見ることはありません。検証が意味を持つのは、基盤となる基盤、すなわち、126レース（2018～2024年）で較正され、完全にホールドア (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.06495v1</guid>
+      <pubDate>Tue, 07 Jul 2026 16:55:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

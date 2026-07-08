@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jul 2026 09:49:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 08:34:56 +0000</lastBuildDate>
     <item>
-      <title>Hardwoodは、必須の依存関係なしで高速なJVM Apache Parquet処理を実現することを約束します。</title>
-      <link>https://www.infoq.com/news/2026/07/hardwood-java-parquet/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>グンナー・モーリング氏がJavaにおけるParquetファイルの処理を改善するために立ち上げたプロジェクト「Hardwood」がバージョン1に到達しました。マルチスレッド方式と必須の外部依存関係がないことから、Apache Parquet Java実装よりもシンプルで最適な代替手段となることが期待されます。現時点では、APIによる読み取りと視覚化のためのCLIが提供されており、書き込み機能は今後のバージョンで追加される予定です。執筆：オリンピウ・ポップ (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/07/hardwood-java-parquet/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 03 Jul 2026 12:12:00 +0000</pubDate>
+      <title>プレゼンテーション：信頼性のためのAIプラットフォームの設計：確実性のためのツール、発見のためのエージェント</title>
+      <link>https://www.infoq.com/presentations/reliable-ai-platforms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>アーロン・エリクソンは、NVIDIAが専用AIエージェント階層をどのように設計・テストしているかを解説します。シニア開発者やアーキテクト向けに、決定論的ツールとエージェントによる発見のバランスを取ることがなぜ重要なのかを概説します。希少なコンテキストを活用する方法、LLMを判定者として用いるテストピラミッドを実装する方法、選択のパラドックスを回避する方法を学び、大規模で信頼性の高い本番環境レベルのAIシステムを構築しましょう。アーロン・エリクソン著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/reliable-ai-platforms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 07 Jul 2026 08:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
