@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jul 2026 08:34:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 09:57:09 +0000</lastBuildDate>
     <item>
-      <title>Pitwall：較正済みリアルタイムモンテカルロエンジンによる、忠実な自然言語によるレース戦略ブリーフィング</title>
-      <link>https://arxiv.org/abs/2607.06495v1</link>
-      <description>ライブスポーツ解説は、締め切りに追われる中で生成されるものです。発言は実在する名前付きのアスリートに関するものであり、基盤となる状態は数秒ごとに変化し、生成時点では参照テキストは存在しません。本稿では、英語、スペイン語、ポルトガル語で自然言語によるF1戦略ブリーフィングを生成するプロダクションシステム「Pitwall」を紹介します。このシステムでは、忠実性を目標ではなく、アーキテクチャの特性として扱います。公開されたすべての文は、タイプされた事実の主張（ポジション、ギャップ、タイヤ、ペース、オーバーテイク、レースコントロール）に分解され、各主張は、それを促した確率的なレース状態に対して検証されます。同じ検証器が微調整データにも適用されます。モデルによって作成された3,045のターゲットのうち、すべての主張が状態によって裏付けられている81.9%のみが保持され、残りは証明可能な忠実なテンプレートにフォールバックするため、ジェネレータは基盤のないターゲットを見ることはありません。検証が意味を持つのは、基盤となる基盤、すなわち、126レース（2018～2024年）で較正され、完全にホールドア (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.06495v1</guid>
-      <pubDate>Tue, 07 Jul 2026 16:55:39 +0000</pubDate>
+      <title>リーマン正規座標を用いたレーベンバーグ・マルカート法の高次幾何更新</title>
+      <link>https://arxiv.org/abs/2607.07623v1</link>
+      <description>非線形最小二乗最適化は、回帰、物理法則に基づくニューラルネットワーク、およびその他の機械学習タスクの中心となるものです。このような問題には自然な幾何学的解釈があり、モデル予測はデータ空間で多様体を形成しますが、選択されたパラメータ化によってパラメータ効果の曲率が生じ、これが非線形性の主要な原因となります。これは、レーベンバーグ・マルカート（LM）法の限界を示しています。接空間ステップは、パラメータ座標の直接更新として適用されます。測地線加速は2次補正を与えますが、パラメータ効果の曲率の除去は、無限小ステップの極限でのみ正確です。有限最適化ステップにおけるこの一貫性を改善するために、リーマン正規座標レーベンバーグ・マルカート法（RNC-LM）を提案します。測地線方程式を再定式化することにより、RNC-LMは測地線加速を任意の次数補正に拡張し、再パラメータ化の一貫性が段階的に高くなる有限ステップ更新を構築します。結果として得られる RNC 曲線に沿った線探索により、移動距離を制御しつつ、コストを標準 LM に近い値に抑えます。この手法は、移動接線座標系において、残差加速度の接線成分を次数ご (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.07623v1</guid>
+      <pubDate>Wed, 08 Jul 2026 16:39:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

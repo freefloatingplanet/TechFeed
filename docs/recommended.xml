@@ -7,41 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 08:34:50 +0000</lastBuildDate>
-    <item>
-      <title>コードレビュー指摘300件を3ヶ月分類したら効いていたのは2種類だけだった</title>
-      <link>https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories</link>
-      <description>私は3ヶ月かけて300件のレビュー指摘を全部直した。PRがnit:で埋まり、開発が止まった。AIレビューを増やしたら、人間も含めたレビュー疲れがピークに達した。
-自分のレビューが信用できなくなって、ふと気になった。「この300件のうち、本当に効いたのは何件だろう」。
-数えてみたら、Bug指摘とSpec指摘の2種類だけだった。残り4種類は、自動化するか、PR以前の段階に追い出す方がチームのためになる。
-!
-本記事の前提となる「3層モデル」と「6段階レビュー」は別記事で扱った設計図側の話。今回はその先、指摘そのもののROI計測を扱う。
-
-6段階レビューを3ヶ月回したら、人間の出番は1段階だけ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories</guid>
-      <pubDate>Sat, 04 Jul 2026 09:57:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic、Claudeの内部に「ヒトの意識」に似た領域を発見</title>
-      <link>https://japan.cnet.com/article/35250303/</link>
-      <description>米Anthropicは米国時間7月6日、AIモデル「Claude」の内部に、人間の意識的な思考とよく似た役割を果たす領域を発見したと発表した。「Jスペース」と名付けたこの神経パターンの集まりを読み取ると、Claudeが文章には出力していない“頭の中の考え”が分かるという。 AIは、書いた文章の裏側で多くの推論を無言のまま進めて... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://japan.cnet.com/article/35250303/</guid>
-      <pubDate>Tue, 07 Jul 2026 20:58:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>APIもDBも東京なのに、全クエリが太平洋横断していた話</title>
-      <link>https://zenn.dev/avaintelligence/articles/b7d4743a448485</link>
-      <description>はじめに AI x 旅行アプリのアバトラベル（iOS / Android）は、2026年6月にフルリニューアルしました！ ところがその直後から、「ほぼ全てのAPIが一律に遅い」 という不思議な症状に悩まされていました。弊社に協力いただいているつよつよエンジニアの栗田さんの調査により、原因はAPIのコードでもDBのチューニング不足... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/avaintelligence/articles/b7d4743a448485</guid>
-      <pubDate>Tue, 07 Jul 2026 15:02:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>「日本の会社員は全員これ読むべき」DeNAの南場智子会長が行っているAI活用方法が、経営者限らずどんな社会人でも参考になりそう</title>
-      <link>https://togetter.com/li/2718162</link>
-      <description>Kouya ｜ AI×SNSマーケ自動化コンサルタント @kouya_sns01 @masaki_aihack このスレッドの核心は「AIの使い方」ではなく「人間の役割の再定義」にあると思います。多くの人がAIに「0から60点の叩き台を作らせる」ことを推奨していますが、本当に価値があるのは「頭の中に既に像（イメージ）がある人」がAIを活用して、そ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2718162</guid>
-      <pubDate>Wed, 08 Jul 2026 01:37:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Jul 2026 09:56:44 +0000</lastBuildDate>
     <item>
       <title>とある部長のObsidian</title>
       <link>https://zenn.dev/canly/articles/173479ac3e9824</link>
@@ -56,30 +22,23 @@ AIが日常の当たり前になってから久しいですが、私ももれな
       <pubDate>Fri, 03 Jul 2026 06:28:32 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code「Fable 5」にローカルLLM用シェル支援CLIを作らせたら、コードより仕事の進め方に驚かされた</title>
-      <link>https://zenn.dev/gys/articles/fable5-local-llm-ask-cli</link>
-      <description>完成物より、「仕事の進め方」そのものに驚いた話
-2026年7月2日早朝、日課のワークアウトを終えてClaude Codeを立ち上げたらfable5が使えるようになっていた。
-この記事は、その実装会話ログを時系列で再構成したものである。
-
-セキュリティ上公開できない内部パス、IPアドレス、顧客固有情報、無関係な作業断片は削除または一般化しています。
-ただし、判断の順序、途中の失敗、未検証事項、設計変更の経緯は、都合よく整え直していません。
-なお、本文中「引用する」と断って示すfable5の発言ブロックは、実際のセッションログからの原文引用です（［　］は固有名を一般化した箇所。それ以外は... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/gys/articles/fable5-local-llm-ask-cli</guid>
-      <pubDate>Thu, 02 Jul 2026 07:44:33 +0000</pubDate>
+      <title>AIエージェントの「門番」を巡る争奪戦 — NutanixやAWS、Palo Altoが一斉に参入する「エージェントゲートウェイ」とは何か</title>
+      <link>https://techfeed.io/entries/6a4ed1c9c69456a7f14b1981?from=rss</link>
+      <description>7月8日、RuntimeWireが「Agent Gateways Are Turning Into Enterprise AI's New Control Layer」と題した記事を公開した。AIエージェントが実業務に入り込むにつれ、モデルの性能よりも「誰がそのトラフィックを見ているのか」「誰がアクションを承認するのか」という運用上の問いが先に立つようになっている。その問いに答えるコントロールレイヤーとして、「エージェントゲートウェイ」というカテゴリが急速に輪郭を持ち始めている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a4ed1c9c69456a7f14b1981?from=rss</guid>
+      <pubDate>Wed, 08 Jul 2026 22:40:09 +0000</pubDate>
     </item>
     <item>
-      <title>ターミナル中心の開発環境が手になじんできたので、実務で効いていることを紹介したい</title>
-      <link>https://zenn.dev/shinkawa/articles/ae1f88aa0fb027</link>
-      <description>これまでIDE中心だった開発環境を、今年の4月ごろからターミナル中心に切り替え始めた。
-ようやく手になじんできて、以前IDEでやっていた作業もターミナル上でかなり素早くできるようになってきた。現時点の構成をまとめておきたい。
-特に効いているのは、AIエージェントと一緒に開発を進める時だ。自分がよくやるのは、たとえばこういう作業である。
-
-複数案件対応時の切り替え: 会社Aの作業、会社Bの作業、会社Bの別タスク、という単位で WezTerm のタブを立ち上げている。IDEを複数開くより軽く、切り替えも楽なので、その日の対応を並べておきやすい。
-目的のファイルに素早くアクセスする
-現状のDB... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shinkawa/articles/ae1f88aa0fb027</guid>
-      <pubDate>Sun, 05 Jul 2026 04:55:30 +0000</pubDate>
+      <title>Next.js 16.3でTurbopackのメモリ使用量を劇的に減らした話</title>
+      <link>https://zenn.dev/branbran/articles/2f9538ef0301c7</link>
+      <description>はじめに
+普段の開発ではNext.js 16を使用しているのですが、ある時バージョンをアップデートしてから、急にメモリ消費が増えたように感じるようになりました。
+最初は原因を特定できず、「どこかでメモリリークしているのかな」と思いながら、定期的に再起動して一時的に軽くすることで対応していました。
+しかし、開発を再開するとまた徐々にメモリ使用量が増えていき、しばらくすると再び動作が重くなる、という状態が続いていました。
+最初は自分の環境だけの問題かと思っていたのですが、チーム内でもメモリ消費が10GBを超えるケースがあり、Docker上で動かすとさらに重くなることも分かりました。
+そこ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/branbran/articles/2f9538ef0301c7</guid>
+      <pubDate>Thu, 09 Jul 2026 00:30:05 +0000</pubDate>
     </item>
     <item>
       <title>AI Agentに自由な開発環境を渡す、Proxmox+LXCで。</title>
@@ -92,13 +51,27 @@ Agentに作業をさせるのだから「Enterをおすだけのかんたんな�
       <pubDate>Mon, 06 Jul 2026 11:12:08 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントの決済履歴は「戦略ログ」になる ─ 誰が誰に払ったかを隠す private x402 "SubEtha"を作った</title>
-      <link>https://zenn.dev/peaceandwhisky/articles/6f0b8b672a6f78</link>
-      <description>はじめに
-AI エージェントは、検索・推論・データ取得・外部ツールの実行のたびに API を呼びます。これまでは、人間がアカウントを作り、API key を発行し、月額契約やプリペイド残高で支払う、という形が普通でした。ですが、エージェント自身が必要な API をその場で見つけて使う世界では、呼び出すたびに、その 1 回分だけをその場で支払う流れのほうが自然です。事前のアカウント登録も、購入手続きの画面も、あいだに人間が挟まる工程はありません。
-x402 は、この流れをうまく形にしています。サーバーが HTTP の 402 Payment Required で「この API はいくら... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/peaceandwhisky/articles/6f0b8b672a6f78</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:07 +0000</pubDate>
+      <title>電話による問い合わせへの対応はAIで自動化できるのか検証してみた</title>
+      <link>https://zenn.dev/govtechtokyo/articles/ffe9cc8fcd30a1</link>
+      <description>自己紹介
+はじめまして。
+GovTech東京 区市町村DXグループのナガシマと申します。
+私は東京都のICT職として、GovTech東京の区市町村DXグループに所属し、都内各自治体が抱える課題の解決に寄り添い、技術的サポートを行っております。
+入庁後からの３年間は、事務職として東京都教育庁に所属しており、デジタルとはあまり関連しない業務に携わっておりました。教育庁での業務の中で、どんどんDXが推進され、業務が効率化・省力化されていく光景を目の当たりにし、DXによるメリットを享受するだけでなく、DXを進める役割を担いたい！と一念発起して、ICT職に転職をしました。
+今回は、自治体の課題... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/govtechtokyo/articles/ffe9cc8fcd30a1</guid>
+      <pubDate>Wed, 08 Jul 2026 05:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた</title>
+      <link>https://zenn.dev/shimpei_takeda/articles/b63ecf44777fab</link>
+      <description>設計やアーキテクチャについての判断は、結論だけを口頭で共有しても再利用できません。
+背景や判断の流れがたどれなければ、組織やチームの知見として残らないからです。
+「今回はドメインモデルを作りましょうか」「ここはCQRSまでは不要だと思います」という会話はそのときは納得感があっても、聞いた人が後から別の機能で同じ判断をしようとすると、前提や分岐条件が抜け落ちているため詰まってしまいます。
+問題は決定内容を記録していないことではなく、どの条件を見て、どの選択肢を外し、どの状態になったら再検討するのかという判断の流れを、後から別の人がもう一度たどることができないことです。
+これを解決するために... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shimpei_takeda/articles/b63ecf44777fab</guid>
+      <pubDate>Wed, 08 Jul 2026 09:30:40 +0000</pubDate>
     </item>
     <item>
       <title>Cloudflare Workers + better-auth で全リクエストが無応答になる - hanging promise の罠</title>
@@ -108,6 +81,33 @@ Cloudflare Workers + D1 + better-auth で運用している Web サービスで�
 原因は Cloudflare Workers の hanging promise でした。リクエスト処理中に生成された promise は、そのリクエストがクライアントに中断されると永遠に解決しなくな... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/coji/articles/cloudflare-workers-better-auth-hanging-promise</guid>
       <pubDate>Sun, 05 Jul 2026 10:11:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>個人タスク管理を「判断は人間、更新はエージェント、計算はスクリプト」で設計する</title>
+      <link>https://zenn.dev/layerx/articles/797bb5b8935bf6</link>
+      <description>こんにちは。Ai Workforce事業部でAIエージェントのためのデータ基盤を開発している uphy です。業務では複数のプロジェクトを並走させているのですが、今回は個人のタスク管理についてお話しします。
+タスク管理は、この5年ほどMarkdownベースでわりとライトにやってきました。プロジェクトごとにTODOリストのノートを作って、自作のObsidianプラグイン（obsidian-reminder）でアイテムに期限を付けて、毎朝daily noteに今日やる分を書き出す。期限ベースの管理としてはそれなりに回っていたんですが、期限のないタスクはずるずる後回しになるし、daily no... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/layerx/articles/797bb5b8935bf6</guid>
+      <pubDate>Wed, 08 Jul 2026 02:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Summit Japan 2026現地報告：AIエージェントの成熟とPhysical AIの萌芽</title>
+      <link>https://zenn.dev/exwzd/articles/20260701_aws_summit_builders_fair</link>
+      <description>先端技術開発グループ（WAND）の小島です。2026年6月に幕張メッセで開催されたAWS Summit JapanにWANDのメンバーで参加してきたので、Builders' Fairを中心に現地参加報告を書いていきます。
+
+ AWS Builders' Fair
+昨年は、現地のデモ展示などを行っている「Builders' Fair」を中心にレポートしましたが、Summitはこのエリアが楽しいので、今年も同様に見てきました。
+
+このエリアは、「開発者の心をくすぐる」をテーマに、AWSの方が作ったデモアプリを展示しており、その場で自由に質疑応答できます。レベルが高く、そのまま使えそうなものも... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/exwzd/articles/20260701_aws_summit_builders_fair</guid>
+      <pubDate>Wed, 08 Jul 2026 05:29:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>「AI軍拡競争」という言葉が思考を止める — 元DeepMind幹部が警告する"競争の比喩"が招く最悪シナリオ</title>
+      <link>https://techfeed.io/entries/6a4ed1bbc69456a7f14b1965?from=rss</link>
+      <description>7月8日、WIREDが「This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster」と題した記事を公開した。元Google DeepMindの公共政策責任者であるVerity Hardingが、「AI軍拡競争」という言説の危険性と、その先に待つ最悪のシナリオについて語っている。「AI軍拡競争」という言説が政策を歪めるVerity Hardingは2016年から2020年にかけて、Google DeepMindのグローバル公共政策部門の責任者として、バラク・オバマ、エマニュエル・マクロンをはじめとする世界各国の政治指導者にAIの最新動向を説明してきた人物だ。彼女が今、警鐘を鳴らすのは技術そのものではなく、技術を語る言語である。Hardingが新たに編纂したエッセイ・アンソロジー「Reframing the AI Arms Race」には、歴史家のLawrence Freedmanや日本の政治家・河野太郎など、世界の政界・学術界から論者が集まっている。出版社・発行時期など詳細は元記事に案内がある。彼らの主張 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a4ed1bbc69456a7f14b1965?from=rss</guid>
+      <pubDate>Wed, 08 Jul 2026 22:39:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
