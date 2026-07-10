@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 09:57:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 09:41:37 +0000</lastBuildDate>
     <item>
-      <title>プレゼンテーション：信頼性のためのAIプラットフォームの設計：確実性のためのツール、発見のためのエージェント</title>
-      <link>https://www.infoq.com/presentations/reliable-ai-platforms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>アーロン・エリクソンは、NVIDIAが専用AIエージェント階層をどのように設計・テストしているかを解説します。シニア開発者やアーキテクト向けに、決定論的ツールとエージェントによる発見のバランスを取ることがなぜ重要なのかを概説します。希少なコンテキストを活用する方法、LLMを判定者として用いるテストピラミッドを実装する方法、選択のパラドックスを回避する方法を学び、大規模で信頼性の高い本番環境レベルのAIシステムを構築しましょう。アーロン・エリクソン著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/reliable-ai-platforms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 07 Jul 2026 08:03:00 +0000</pubDate>
+      <title>AirbnbがKubernetesサービス向けSitar-Agent動的構成サイドカーのアーキテクチャを公開</title>
+      <link>https://www.infoq.com/news/2026/07/sitar-agent-sidecar-config/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Airbnbのエンジニアは、数万ものポッドに動的な構成情報を配信するKubernetesサイドカーであるSitar-agentの詳細を説明した。Sitar-agentは1分間に数回更新を処理する。このシステムはJava、Amazon S3スナップショットブートストラップ、そしてSparkeyからSQLiteへの移行によって再設計され、信頼性、起動パフォーマンス、そして大規模な構成情報の可用性が向上した。Leela Kumili著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/07/sitar-agent-sidecar-config/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 08 Jul 2026 14:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

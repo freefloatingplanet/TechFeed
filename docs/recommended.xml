@@ -7,19 +7,57 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 09:56:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 09:41:31 +0000</lastBuildDate>
     <item>
-      <title>とある部長のObsidian</title>
-      <link>https://zenn.dev/canly/articles/173479ac3e9824</link>
-      <description>まえがき
-カンリーのプロダクトマネジメント部の部長をしている越智（X：@ochi__san）です。
-AIが日常の当たり前になってから久しいですが、私ももれなく日々の業務にどうAIを取り込み、いかに生産性高くふるまい続けられるかを考えています。今回は実務というよりはその周辺にあるタスクやふりかえりに焦点をあて、どのようにAIを使っているかをご紹介します。
+      <title>自動テストの肥大化とどう向き合うか</title>
+      <link>https://zenn.dev/frontendflat/articles/automated-test-size-tradeoff</link>
+      <description>!
+この記事は社内の勉強会向けに、自動テストのトレードオフについて個人的な意見をまとめたものです。
 
- はじめに
-弊社CTO小出が重い腰を上げX（@koid_thinks）を開始し、さらに個人ブログを立ち上げました。なんということでしょう。
-記念すべき1回目の投稿でObsidianに触れていたため、私もObsidian × Clau... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/canly/articles/173479ac3e9824</guid>
-      <pubDate>Fri, 03 Jul 2026 06:28:32 +0000</pubDate>
+Q. 「自動テストを書いてきてしばらく経つが、実行時間の増加に伴う問題 (CI 待ち時間) や偽陽性・偽陰性の問題が出てきた。どう対応していくのがよいか？」
+IMO: コードの変更に対する不安と実行時間をコンパスにして、自動テストの肥大化に立ち向かう。(一ヶ月後には言っていることが変わるかもしれないので、今日のスナップショットとして聞いてもらえればと...)
+
+ そもそも「よいテスト」とは
+テストを書くべき理由はいろいろありますが、テストに何を期待するかは明確にしておく必要があります。私... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/frontendflat/articles/automated-test-size-tradeoff</guid>
+      <pubDate>Mon, 06 Jul 2026 08:23:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeと挑む技術的負債の返済 — 止められない本番データ基盤を、一人で載せ替えた話</title>
+      <link>https://zenn.dev/rehabforjapan/articles/composer-to-cloud-run-jobs</link>
+      <description>はじめに
+Rehab for JAPANでCTOを務めている@rkyuragiです！
+「問題は分かっている。でも、動いているものを触るリスクと工数を考えると割に合わない」——そんな理由で返済が後回しにされ続ける技術的負債が、どの会社にもあると思います。弊社の場合、それはデータ基盤のオーケストレータでした。
+Rehabでは、各プロダクトのデータをBigQueryに集約するData Platformを運用しています。そのETL基盤は毎日ビジネス(特にCS)が依存する止められない存在である一方、オーケストレータのCloud Composer（Airflow）には「1日数時間しか動かないET... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/rehabforjapan/articles/composer-to-cloud-run-jobs</guid>
+      <pubDate>Thu, 09 Jul 2026 08:23:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>とある社員が誤ってAIチャットの全体設定に、罵倒が激しすぎるツンデレで生意気な娘の長文性癖を登録した影響で、チームの全AIチャットに異常事態が発生…朝から笑っている</title>
+      <link>https://togetter.com/li/2719020</link>
+      <description>evans @evans_kyoryu 新人から「会社のAIがメスガキになってます‼︎」とありえない報告をされ耳を疑ったけど、 とある社員が個人設定ではなく、誤って全体設定に"罵倒が激しすぎるツンデレのメスガキ"的な長文性癖を登録した影響らしく、 チームの全AIチャットがメスガキになるという異常事態が発生して、朝から笑い死にへ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2719020</guid>
+      <pubDate>Fri, 10 Jul 2026 06:28:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>ミューテーションテストのススメ</title>
+      <link>https://zenn.dev/xtm_blog/articles/9b7fa5f94eae28</link>
+      <description>はじめに
+クロステック・マネジメント Foundation Dept. 所属の Radish です。
+先日、社内輪読会で『テスト駆動開発』(Kent Beck 著、和田卓人 訳) を読んでいたとき、17 章で 欠陥挿入（defect insertion） という言葉が出てきました。
+（数年前に自分で読んだことはあるんですが、完全に忘れていました… 🫠）
+欠陥挿入とは、本番コードの一部を一時的に書き換えて、テストが落ちることを確かめる手法です。
+書籍では手作業でもツールでもできると書かれていたので、どういったツールがあるのか調べました。
+そこで出てきたのがミューテーションテスト（mut... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/xtm_blog/articles/9b7fa5f94eae28</guid>
+      <pubDate>Thu, 09 Jul 2026 12:51:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>「シャッタースピードのセオリー守ってないよ」と海外から突っ込まれたので、動画フリッカーの数理シミュレーションして回答しようかと - とあるビデオグラファーの備忘録的ブログ</title>
+      <link>https://sumizoon.hatenablog.com/entry/2026/07/08/223234</link>
+      <description>ことの発端 最近、私のYoutubeには「君はフレームレートの半分のシャッタスピードセオリーを守ってないよ！」というコメントが最近やたら来ることが多くなりました。「そんな安易な設定しないよ」と返してもいいのですが、今回はいい機会だと思って動画のシャッタースピードに関して書いてみたいと思います。 いわゆる、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://sumizoon.hatenablog.com/entry/2026/07/08/223234</guid>
+      <pubDate>Wed, 08 Jul 2026 22:02:36 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントの「門番」を巡る争奪戦 — NutanixやAWS、Palo Altoが一斉に参入する「エージェントゲートウェイ」とは何か</title>
@@ -27,40 +65,6 @@ AIが日常の当たり前になってから久しいですが、私ももれな
       <description>7月8日、RuntimeWireが「Agent Gateways Are Turning Into Enterprise AI's New Control Layer」と題した記事を公開した。AIエージェントが実業務に入り込むにつれ、モデルの性能よりも「誰がそのトラフィックを見ているのか」「誰がアクションを承認するのか」という運用上の問いが先に立つようになっている。その問いに答えるコントロールレイヤーとして、「エージェントゲートウェイ」というカテゴリが急速に輪郭を持ち始めている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
       <guid isPermaLink="true">https://techfeed.io/entries/6a4ed1c9c69456a7f14b1981?from=rss</guid>
       <pubDate>Wed, 08 Jul 2026 22:40:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next.js 16.3でTurbopackのメモリ使用量を劇的に減らした話</title>
-      <link>https://zenn.dev/branbran/articles/2f9538ef0301c7</link>
-      <description>はじめに
-普段の開発ではNext.js 16を使用しているのですが、ある時バージョンをアップデートしてから、急にメモリ消費が増えたように感じるようになりました。
-最初は原因を特定できず、「どこかでメモリリークしているのかな」と思いながら、定期的に再起動して一時的に軽くすることで対応していました。
-しかし、開発を再開するとまた徐々にメモリ使用量が増えていき、しばらくすると再び動作が重くなる、という状態が続いていました。
-最初は自分の環境だけの問題かと思っていたのですが、チーム内でもメモリ消費が10GBを超えるケースがあり、Docker上で動かすとさらに重くなることも分かりました。
-そこ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/branbran/articles/2f9538ef0301c7</guid>
-      <pubDate>Thu, 09 Jul 2026 00:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Agentに自由な開発環境を渡す、Proxmox+LXCで。</title>
-      <link>https://zenn.dev/uzulla/articles/91272997a7c668</link>
-      <description>こんにちは uzullaです。もはやAIエージェントに作業をさせることがお仕事みたいな時代になりましたね。
-Agentに作業をさせるのだから「Enterをおすだけのかんたんなおしごと」は減らして、できるだけロングランしてほしい。
-そうなると「エージェントが好き勝手できる」かどうかは重要なポイントです。しかし、自分の作業マシンでそのまま動かすのは怖いですよね、Agentによかれと変なコマンド実行されたり、なんかツールをいれられたら環境が汚れるし（いれていいとしてもそれの精査の手間がかかるし）、ホスト名やポートはかぶるし、DockerのImageとかの名前衝突したり…。
-そこで私は、Prox... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/uzulla/articles/91272997a7c668</guid>
-      <pubDate>Mon, 06 Jul 2026 11:12:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>電話による問い合わせへの対応はAIで自動化できるのか検証してみた</title>
-      <link>https://zenn.dev/govtechtokyo/articles/ffe9cc8fcd30a1</link>
-      <description>自己紹介
-はじめまして。
-GovTech東京 区市町村DXグループのナガシマと申します。
-私は東京都のICT職として、GovTech東京の区市町村DXグループに所属し、都内各自治体が抱える課題の解決に寄り添い、技術的サポートを行っております。
-入庁後からの３年間は、事務職として東京都教育庁に所属しており、デジタルとはあまり関連しない業務に携わっておりました。教育庁での業務の中で、どんどんDXが推進され、業務が効率化・省力化されていく光景を目の当たりにし、DXによるメリットを享受するだけでなく、DXを進める役割を担いたい！と一念発起して、ICT職に転職をしました。
-今回は、自治体の課題... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/govtechtokyo/articles/ffe9cc8fcd30a1</guid>
-      <pubDate>Wed, 08 Jul 2026 05:00:06 +0000</pubDate>
     </item>
     <item>
       <title>設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた</title>
@@ -74,15 +78,6 @@ GovTech東京 区市町村DXグループのナガシマと申します。
       <pubDate>Wed, 08 Jul 2026 09:30:40 +0000</pubDate>
     </item>
     <item>
-      <title>Cloudflare Workers + better-auth で全リクエストが無応答になる - hanging promise の罠</title>
-      <link>https://zenn.dev/coji/articles/cloudflare-workers-better-auth-hanging-promise</link>
-      <description>これはなに？
-Cloudflare Workers + D1 + better-auth で運用している Web サービスで、「特定のユーザーだけ、サイトへの全リクエストが応答待ちのまま固まり、ブラウザを再起動しないと直らない」という障害に繰り返し遭遇しました。丸一日かけて原因を特定して解決したので、同じ構成でハマった人が解決策にたどり着けるように、調査の過程と修正をまとめておきます。
-原因は Cloudflare Workers の hanging promise でした。リクエスト処理中に生成された promise は、そのリクエストがクライアントに中断されると永遠に解決しなくな... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/coji/articles/cloudflare-workers-better-auth-hanging-promise</guid>
-      <pubDate>Sun, 05 Jul 2026 10:11:56 +0000</pubDate>
-    </item>
-    <item>
       <title>個人タスク管理を「判断は人間、更新はエージェント、計算はスクリプト」で設計する</title>
       <link>https://zenn.dev/layerx/articles/797bb5b8935bf6</link>
       <description>こんにちは。Ai Workforce事業部でAIエージェントのためのデータ基盤を開発している uphy です。業務では複数のプロジェクトを並走させているのですが、今回は個人のタスク管理についてお話しします。
@@ -91,16 +86,15 @@ Cloudflare Workers + D1 + better-auth で運用している Web サービスで�
       <pubDate>Wed, 08 Jul 2026 02:30:05 +0000</pubDate>
     </item>
     <item>
-      <title>AWS Summit Japan 2026現地報告：AIエージェントの成熟とPhysical AIの萌芽</title>
-      <link>https://zenn.dev/exwzd/articles/20260701_aws_summit_builders_fair</link>
-      <description>先端技術開発グループ（WAND）の小島です。2026年6月に幕張メッセで開催されたAWS Summit JapanにWANDのメンバーで参加してきたので、Builders' Fairを中心に現地参加報告を書いていきます。
-
- AWS Builders' Fair
-昨年は、現地のデモ展示などを行っている「Builders' Fair」を中心にレポートしましたが、Summitはこのエリアが楽しいので、今年も同様に見てきました。
-
-このエリアは、「開発者の心をくすぐる」をテーマに、AWSの方が作ったデモアプリを展示しており、その場で自由に質疑応答できます。レベルが高く、そのまま使えそうなものも... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/exwzd/articles/20260701_aws_summit_builders_fair</guid>
-      <pubDate>Wed, 08 Jul 2026 05:29:35 +0000</pubDate>
+      <title>なぜUnityのUIは書きづらいのか — Reactに学んで宣言的UIフレームワークを作った話</title>
+      <link>https://zenn.dev/s4k1/articles/6c29073680ff21</link>
+      <description>1. はじめに
+筆者はゲームクライアントのエンジニアです。
+uGUI/UIToolkitにUniRx/R3を組み合わせてUIを実装してきました。
+昨今はAIのおかげで、ほかの言語や環境を学ぶ敷居がずいぶん下がりました。そこで試しにWebやネイティブアプリのUI開発を調べてみたところ、UnityのUI開発との差の大きさに驚きました。WebやネイティブのUIは2013年ごろを境に宣言的なモデルへ舵を切っていて、Unityの現状はその転換の前で止まっているように見えます。
+外から見比べると、いくつか素朴な疑問が浮かびます。なぜボタン参照をInspectorにドラッグして結線するのか。新しい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/s4k1/articles/6c29073680ff21</guid>
+      <pubDate>Wed, 08 Jul 2026 14:00:05 +0000</pubDate>
     </item>
     <item>
       <title>「AI軍拡競争」という言葉が思考を止める — 元DeepMind幹部が警告する"競争の比喩"が招く最悪シナリオ</title>

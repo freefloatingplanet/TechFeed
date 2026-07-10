@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 09:57:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 09:41:35 +0000</lastBuildDate>
     <item>
-      <title>リーマン正規座標を用いたレーベンバーグ・マルカート法の高次幾何更新</title>
-      <link>https://arxiv.org/abs/2607.07623v1</link>
-      <description>非線形最小二乗最適化は、回帰、物理法則に基づくニューラルネットワーク、およびその他の機械学習タスクの中心となるものです。このような問題には自然な幾何学的解釈があり、モデル予測はデータ空間で多様体を形成しますが、選択されたパラメータ化によってパラメータ効果の曲率が生じ、これが非線形性の主要な原因となります。これは、レーベンバーグ・マルカート（LM）法の限界を示しています。接空間ステップは、パラメータ座標の直接更新として適用されます。測地線加速は2次補正を与えますが、パラメータ効果の曲率の除去は、無限小ステップの極限でのみ正確です。有限最適化ステップにおけるこの一貫性を改善するために、リーマン正規座標レーベンバーグ・マルカート法（RNC-LM）を提案します。測地線方程式を再定式化することにより、RNC-LMは測地線加速を任意の次数補正に拡張し、再パラメータ化の一貫性が段階的に高くなる有限ステップ更新を構築します。結果として得られる RNC 曲線に沿った線探索により、移動距離を制御しつつ、コストを標準 LM に近い値に抑えます。この手法は、移動接線座標系において、残差加速度の接線成分を次数ご (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.07623v1</guid>
-      <pubDate>Wed, 08 Jul 2026 16:39:03 +0000</pubDate>
+      <title>VAPOLA ― ALMA I を用いたミリ波帯における AGN および Sgr A* の複数年にわたる多波長偏光観測。観測概要および科学研究にすぐに利用できるアーカイブ成果物</title>
+      <link>https://arxiv.org/abs/2607.08657v1</link>
+      <description>アタカマ大型ミリ波サブミリ波干渉計（ALMA）は、ミリ波およびサブミリ波帯で最も感度の高い干渉計アレイです。ALMA位相システム（APS）を介して、グローバルな超長基線干渉計（VLBI）アレイに参加し、その感度と解像度を向上させることができます。しかし、VLBI観測中にAPSモードで取得したALMAデータの処理と解析は、専門的な知識と時間のかかる較正および画像処理手順を必要とする複雑な作業です。本論文では、グローバルVLBIキャンペーン中にALMAで観測された活動銀河核（AGN）およびSgr A*の高レベルデータプロダクトの、初のオンライン、マルチエポック、マルチバンドリポジトリであるVAPOLAを紹介します。完全に較正されたALMA（QA2）データを処理する自動化されたパイプラインに基づいて構築されており、最小限のユーザー介入で科学的に使用可能なプロダクトを生成します。このリポジトリには、完全に較正された干渉計可視度、個々のスペクトルウィンドウおよび組み合わせたスペクトルウィンドウ全体にわたるフルストークス画像、偏光マップとスペクトル指数マップ、および可視度ドメイン偏光フィッティング (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.08657v1</guid>
+      <pubDate>Thu, 09 Jul 2026 16:26:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
