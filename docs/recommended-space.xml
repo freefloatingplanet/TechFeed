@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 09:41:33 +0000</lastBuildDate>
-    <item>
-      <title>赤と青のコントラストが美しい領域　ハッブル宇宙望遠鏡が観測した星形成領域「LH 95」</title>
-      <link>https://sorae.info/astronomy/20260709-lh-95.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡が観測した星形成領域「LH 95」。かじき座の方向、地球から約16万光年先にあります。 深紅に燃え上がるようなガスの雲を背景に、無数の青や白の星々が鮮やかに瞬いています。アメリカの独立記念日間… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260709-lh-95.html</guid>
-      <pubDate>Thu, 09 Jul 2026 11:51:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Jul 2026 08:02:01 +0000</lastBuildDate>
     <item>
       <title>「この5年が勝負」民間大手・スタートアップ・アカデミア・コンサルの最前線の若手4人が語る、日本の宇宙産業の可能性と課題</title>
       <link>https://sorabatake.jp/46282/</link>
@@ -42,6 +35,13 @@
       <description>ライデン大学のDaming Yang氏を筆頭とする国際的な研究チームは、ESA（ヨーロッパ宇宙機関）のユークリッド（Euclid）宇宙望遠鏡の観測データをもとに、初期宇宙に存在した「クエーサー」を新たに31個発見したとす… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260710-quasar-euclid.html</guid>
       <pubDate>Fri, 10 Jul 2026 08:36:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>宇宙空間での大型構造物の組み立てが可能に？ Space Quartersが3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功 【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/46343/</link>
+      <description>Space Quartersが、3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功しました。その仕組みと、実証が示したものを解説します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46343/</guid>
+      <pubDate>Sat, 11 Jul 2026 00:55:58 +0000</pubDate>
     </item>
     <item>
       <title>現在の長周期彗星は250万年前に太陽系へ接近した恒星「HD 7977」の影響を強く受けている？</title>

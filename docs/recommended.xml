@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 09:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 08:01:55 +0000</lastBuildDate>
+    <item>
+      <title>Apple、OpenAIと元従業員2人を提訴　「iPhoneの機密を盗んだ」と主張</title>
+      <link>https://www.itmedia.co.jp/news/articles/2607/11/news038.html</link>
+      <description>米Appleは7月10日（現地時間）、同社の営業秘密を不正に取得したとして、元従業員2人と米OpenAI、傘下のio Productsをカリフォルニア州北部地区連邦地裁サンノゼ支部に提訴した。 Appleは、iPhoneなどの開発で培った機密情報が、ハードウェア事業への参入を進めるOpenAIに流出したと主張している。 被告となった元従業員... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2607/11/news038.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>APIもDBも東京なのに、全クエリが太平洋横断していた話</title>
+      <link>https://zenn.dev/avaintelligence/articles/b7d4743a448485</link>
+      <description>はじめに
+AI x 旅行アプリのアバトラベル（iOS / Android）は、2026年6月にフルリニューアルしました！
+ところがその直後から、「ほぼ全てのAPIが一律に遅い」 という不思議な症状に悩まされていました。弊社に協力いただいているつよつよエンジニアの栗田さんの調査により、原因はAPIのコードでもDBのチューニング不足でもなく、接続先ホスト名のDNS解決にありました。
+
+バックエンドAPI：FastAPI（Python）、Fly.io東京リージョン（nrt）で稼働
+DB：PlanetScale（AWS ap-northeast-1 = 東京）
+
+という同一リージョン構成にも... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/avaintelligence/articles/b7d4743a448485</guid>
+      <pubDate>Tue, 07 Jul 2026 06:06:42 +0000</pubDate>
+    </item>
     <item>
       <title>自動テストの肥大化とどう向き合うか</title>
       <link>https://zenn.dev/frontendflat/articles/automated-test-size-tradeoff</link>
@@ -23,85 +44,68 @@ IMO: コードの変更に対する不安と実行時間をコンパスにして
       <pubDate>Mon, 06 Jul 2026 08:23:53 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeと挑む技術的負債の返済 — 止められない本番データ基盤を、一人で載せ替えた話</title>
-      <link>https://zenn.dev/rehabforjapan/articles/composer-to-cloud-run-jobs</link>
+      <title>YCのCEOが豪語した「AIで1日37,000行」を開発者が実地検証 — 本番環境にゼロバイトの壊れたファイル、コードレビューは機能しているのか</title>
+      <link>https://techfeed.io/entries/6a517d043d5307dbb0cfd49b?from=rss</link>
+      <description>7月7日、AI Weeklyが「Developer audits YC CEO Garry Tan's 37K AI lines-per-day claim」と題した記事を公開した。Y CombinatorのCEOであるGarry Tanが主張する「AIエージェントで1日3万7,000行のコードを出荷」という数字を、一人の開発者が実際にコードを調査して検証した件を詳しく紹介している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a517d043d5307dbb0cfd49b?from=rss</guid>
+      <pubDate>Fri, 10 Jul 2026 23:15:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClickHouse + HyperDX で作るセルフホストなオブザーバビリティ基盤</title>
+      <link>https://zenn.dev/genax_corp/articles/a88f9fa2026107</link>
       <description>はじめに
-Rehab for JAPANでCTOを務めている@rkyuragiです！
-「問題は分かっている。でも、動いているものを触るリスクと工数を考えると割に合わない」——そんな理由で返済が後回しにされ続ける技術的負債が、どの会社にもあると思います。弊社の場合、それはデータ基盤のオーケストレータでした。
-Rehabでは、各プロダクトのデータをBigQueryに集約するData Platformを運用しています。そのETL基盤は毎日ビジネス(特にCS)が依存する止められない存在である一方、オーケストレータのCloud Composer（Airflow）には「1日数時間しか動かないET... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/rehabforjapan/articles/composer-to-cloud-run-jobs</guid>
-      <pubDate>Thu, 09 Jul 2026 08:23:46 +0000</pubDate>
+コンタクトセンター業務を支援する自律型AIオペレーター「X-Ghost（クロスゴースト）」のインフラを担当している岡田です。
+X-Ghost は、SaaS 提供の他に、お客様契約のクラウド環境での動作（Bring Your Own Cloud, BYOC）をサポートしています。
+環境ごとの制約が違っても同じように調査できる状態を作るため、私たちはオブザーバビリティ基盤のバックエンドとして ClickHouse + HyperDX を導入しました。
+ログ・メトリクス・トレース（以降まとめてテレメトリと表記します）を ClickHouse に集約し、調査とアラートの UI には... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/genax_corp/articles/a88f9fa2026107</guid>
+      <pubDate>Fri, 10 Jul 2026 05:19:22 +0000</pubDate>
     </item>
     <item>
-      <title>とある社員が誤ってAIチャットの全体設定に、罵倒が激しすぎるツンデレで生意気な娘の長文性癖を登録した影響で、チームの全AIチャットに異常事態が発生…朝から笑っている</title>
-      <link>https://togetter.com/li/2719020</link>
-      <description>evans @evans_kyoryu 新人から「会社のAIがメスガキになってます‼︎」とありえない報告をされ耳を疑ったけど、 とある社員が個人設定ではなく、誤って全体設定に"罵倒が激しすぎるツンデレのメスガキ"的な長文性癖を登録した影響らしく、 チームの全AIチャットがメスガキになるという異常事態が発生して、朝から笑い死にへ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2719020</guid>
-      <pubDate>Fri, 10 Jul 2026 06:28:55 +0000</pubDate>
+      <title>「AIデスキリング」が始まった…生産性向上の影で、AIは人間の思考とスキルを静かにむしばんでいる | Business Insider Japan</title>
+      <link>https://www.businessinsider.jp/article/2606-ai-deskilling-impact-on-worker-skills-productivity/</link>
+      <description>アンダーソン氏は6月から8月にかけて、自分では1行もコードを書かず、AIを使ってソフトウェア製品を構築していく様子を、YouTubeでライブ配信した。 彼が開発したアプリ「Road Trip Ninja（ロード・トリップ・ニンジャ）」は、家族連れが長距離ドライブの途中で安心して立ち寄れる場所、例えば清潔なトイレやまともな食... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.businessinsider.jp/article/2606-ai-deskilling-impact-on-worker-skills-productivity/</guid>
+      <pubDate>Fri, 10 Jul 2026 02:18:16 +0000</pubDate>
     </item>
     <item>
-      <title>ミューテーションテストのススメ</title>
-      <link>https://zenn.dev/xtm_blog/articles/9b7fa5f94eae28</link>
+      <title>ドメイン駆動設計のよくある誤解</title>
+      <link>https://zenn.dev/shotaro_tsuji/articles/a8f2c4a846d552</link>
+      <description>ドメイン駆動設計という用語が世間に広まってからかなりの年月が経過していますが、書籍を読んでもなかなか理解しにくい部分があると思います。私がソフトウェアエンジニアとして経験してきた中で、ドメイン駆動設計の難しいところについて私なりの説明をしたいと思います。最も重要なドメインとユビキタス言語の概念の誤解が広まっているように見受けられるので、そこを切り口にして説明します。ドメインは最初から分かるものではなく、理解が深まるにつれて設計も変わります。その変化を受け入れやすい構造を選ぶことが重要だということが、この記事の根幹となる考えです。
+
+ ドメインとユビキタス言語
+ドメイン駆動設計の根幹をなす... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shotaro_tsuji/articles/a8f2c4a846d552</guid>
+      <pubDate>Wed, 08 Jul 2026 12:41:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>3Dプリンターを買って4ヶ月、208回印刷して分かった「使いみち」と「続く理由」(実例つき)</title>
+      <link>https://zenn.dev/optimisuke/articles/6d5119908cc14a</link>
+      <description>4ヶ月で印刷したものの一部。この記事ではこういうものをカテゴリー別に紹介します
+
+ はじめに
+3Dプリンター(Bambu Lab A1 mini)を買って、4ヶ月経ちました。今使っているのは2台目の3Dプリンターで、1台目は5年くらい前に買って使っていて印刷の失敗が多くて、いつの間にか使わなくなってしまってました。
+今回買うときは、最近の機種は昔よりだいぶ簡単に印刷できると聞いていて、実際その通りでした。おかげでここまで大きな失敗もなく、順調に使い続けられています。この理由は次のセクションで詳しく書きます。
+3Dプリンターって気になるけど、実際何に使うのか想像しづらい、という人は多いん... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/optimisuke/articles/6d5119908cc14a</guid>
+      <pubDate>Fri, 10 Jul 2026 11:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeに「昨日の続き」を思い出させるローカル知識ベースCLI「lk」を作った</title>
+      <link>https://zenn.dev/syarihu/articles/a811f2d2d9f149</link>
       <description>はじめに
-クロステック・マネジメント Foundation Dept. 所属の Radish です。
-先日、社内輪読会で『テスト駆動開発』(Kent Beck 著、和田卓人 訳) を読んでいたとき、17 章で 欠陥挿入（defect insertion） という言葉が出てきました。
-（数年前に自分で読んだことはあるんですが、完全に忘れていました… 🫠）
-欠陥挿入とは、本番コードの一部を一時的に書き換えて、テストが落ちることを確かめる手法です。
-書籍では手作業でもツールでもできると書かれていたので、どういったツールがあるのか調べました。
-そこで出てきたのがミューテーションテスト（mut... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/xtm_blog/articles/9b7fa5f94eae28</guid>
-      <pubDate>Thu, 09 Jul 2026 12:51:51 +0000</pubDate>
+こんにちは。Androidエンジニアの@syarihuです。
+普段からClaude Codeでコードを書いているのですが、使っているうちにずっと引っかかっていたことがありました。セッションが変わるたびに、前回さんざん読み解いたはずのモジュールを、また最初から読み直すことになる、という点です。同じファイルを開き、同じ関数を追いかけ、同じトークンを消費する。人間なら「あ、これ前に見たやつだ」で済むところを、毎回ゼロからやり直しているわけです。もったいないですよね。
+そこで、Claude Codeのためのローカルな永続知識層があればいいのでは、と考えて作ったのが、今回紹介するlo... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/syarihu/articles/a811f2d2d9f149</guid>
+      <pubDate>Fri, 10 Jul 2026 10:47:30 +0000</pubDate>
     </item>
     <item>
-      <title>「シャッタースピードのセオリー守ってないよ」と海外から突っ込まれたので、動画フリッカーの数理シミュレーションして回答しようかと - とあるビデオグラファーの備忘録的ブログ</title>
-      <link>https://sumizoon.hatenablog.com/entry/2026/07/08/223234</link>
-      <description>ことの発端 最近、私のYoutubeには「君はフレームレートの半分のシャッタスピードセオリーを守ってないよ！」というコメントが最近やたら来ることが多くなりました。「そんな安易な設定しないよ」と返してもいいのですが、今回はいい機会だと思って動画のシャッタースピードに関して書いてみたいと思います。 いわゆる、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://sumizoon.hatenablog.com/entry/2026/07/08/223234</guid>
-      <pubDate>Wed, 08 Jul 2026 22:02:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントの「門番」を巡る争奪戦 — NutanixやAWS、Palo Altoが一斉に参入する「エージェントゲートウェイ」とは何か</title>
-      <link>https://techfeed.io/entries/6a4ed1c9c69456a7f14b1981?from=rss</link>
-      <description>7月8日、RuntimeWireが「Agent Gateways Are Turning Into Enterprise AI's New Control Layer」と題した記事を公開した。AIエージェントが実業務に入り込むにつれ、モデルの性能よりも「誰がそのトラフィックを見ているのか」「誰がアクションを承認するのか」という運用上の問いが先に立つようになっている。その問いに答えるコントロールレイヤーとして、「エージェントゲートウェイ」というカテゴリが急速に輪郭を持ち始めている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a4ed1c9c69456a7f14b1981?from=rss</guid>
-      <pubDate>Wed, 08 Jul 2026 22:40:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた</title>
-      <link>https://zenn.dev/shimpei_takeda/articles/b63ecf44777fab</link>
-      <description>設計やアーキテクチャについての判断は、結論だけを口頭で共有しても再利用できません。
-背景や判断の流れがたどれなければ、組織やチームの知見として残らないからです。
-「今回はドメインモデルを作りましょうか」「ここはCQRSまでは不要だと思います」という会話はそのときは納得感があっても、聞いた人が後から別の機能で同じ判断をしようとすると、前提や分岐条件が抜け落ちているため詰まってしまいます。
-問題は決定内容を記録していないことではなく、どの条件を見て、どの選択肢を外し、どの状態になったら再検討するのかという判断の流れを、後から別の人がもう一度たどることができないことです。
-これを解決するために... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shimpei_takeda/articles/b63ecf44777fab</guid>
-      <pubDate>Wed, 08 Jul 2026 09:30:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>個人タスク管理を「判断は人間、更新はエージェント、計算はスクリプト」で設計する</title>
-      <link>https://zenn.dev/layerx/articles/797bb5b8935bf6</link>
-      <description>こんにちは。Ai Workforce事業部でAIエージェントのためのデータ基盤を開発している uphy です。業務では複数のプロジェクトを並走させているのですが、今回は個人のタスク管理についてお話しします。
-タスク管理は、この5年ほどMarkdownベースでわりとライトにやってきました。プロジェクトごとにTODOリストのノートを作って、自作のObsidianプラグイン（obsidian-reminder）でアイテムに期限を付けて、毎朝daily noteに今日やる分を書き出す。期限ベースの管理としてはそれなりに回っていたんですが、期限のないタスクはずるずる後回しになるし、daily no... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/layerx/articles/797bb5b8935bf6</guid>
-      <pubDate>Wed, 08 Jul 2026 02:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜUnityのUIは書きづらいのか — Reactに学んで宣言的UIフレームワークを作った話</title>
-      <link>https://zenn.dev/s4k1/articles/6c29073680ff21</link>
-      <description>1. はじめに
-筆者はゲームクライアントのエンジニアです。
-uGUI/UIToolkitにUniRx/R3を組み合わせてUIを実装してきました。
-昨今はAIのおかげで、ほかの言語や環境を学ぶ敷居がずいぶん下がりました。そこで試しにWebやネイティブアプリのUI開発を調べてみたところ、UnityのUI開発との差の大きさに驚きました。WebやネイティブのUIは2013年ごろを境に宣言的なモデルへ舵を切っていて、Unityの現状はその転換の前で止まっているように見えます。
-外から見比べると、いくつか素朴な疑問が浮かびます。なぜボタン参照をInspectorにドラッグして結線するのか。新しい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/s4k1/articles/6c29073680ff21</guid>
-      <pubDate>Wed, 08 Jul 2026 14:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>「AI軍拡競争」という言葉が思考を止める — 元DeepMind幹部が警告する"競争の比喩"が招く最悪シナリオ</title>
-      <link>https://techfeed.io/entries/6a4ed1bbc69456a7f14b1965?from=rss</link>
-      <description>7月8日、WIREDが「This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster」と題した記事を公開した。元Google DeepMindの公共政策責任者であるVerity Hardingが、「AI軍拡競争」という言説の危険性と、その先に待つ最悪のシナリオについて語っている。「AI軍拡競争」という言説が政策を歪めるVerity Hardingは2016年から2020年にかけて、Google DeepMindのグローバル公共政策部門の責任者として、バラク・オバマ、エマニュエル・マクロンをはじめとする世界各国の政治指導者にAIの最新動向を説明してきた人物だ。彼女が今、警鐘を鳴らすのは技術そのものではなく、技術を語る言語である。Hardingが新たに編纂したエッセイ・アンソロジー「Reframing the AI Arms Race」には、歴史家のLawrence Freedmanや日本の政治家・河野太郎など、世界の政界・学術界から論者が集まっている。出版社・発行時期など詳細は元記事に案内がある。彼らの主張 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a4ed1bbc69456a7f14b1965?from=rss</guid>
-      <pubDate>Wed, 08 Jul 2026 22:39:55 +0000</pubDate>
+      <title>OpenAIが「検索できない」と主張し続けた訓練データが実は存在していた — NYTとの著作権訴訟で証拠隠蔽の疑いが浮上、原告側が制裁を申し立て</title>
+      <link>https://techfeed.io/entries/6a517d653d5307dbb0cfd4c6?from=rss</link>
+      <description>7月10日、Ars Technicaが「OpenAI may have made a fatal misstep in copyright fight with news orgs」と題した記事を公開した。OpenAIがニューヨーク・タイムズ（NYT）との著作権訴訟において証拠の隠蔽・削除を行ったとして、原告側が裁判所に制裁を申し立てている問題を詳報している。OpenAIが「検索できない」と主張していたデータが実は存在していた今回の訴訟で最も問題視されているのは、OpenAIが訓練データのログを「検索できない」と主張し続けながら、実際にはそのデータが存在していたとされる点だ。NYTの主張によれば、OpenAIはこれまで約2年間にわたって、裁判所およびニュース系原告側に対し、訓練検査データのログは提出不可能であると主張してきた。ところが実際には、当該データセットが過去の証拠開示（production）の中にすでに含まれていたという。NYTはこの点について、「OpenAIが意図せずそのデータセットを提出し、訓練検査データの中に埋もれていて自社でも気づかなかったか、あるいはOpenAIは以前 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a517d653d5307dbb0cfd4c6?from=rss</guid>
+      <pubDate>Fri, 10 Jul 2026 23:16:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Jul 2026 09:41:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 08:02:04 +0000</lastBuildDate>
     <item>
-      <title>AirbnbがKubernetesサービス向けSitar-Agent動的構成サイドカーのアーキテクチャを公開</title>
-      <link>https://www.infoq.com/news/2026/07/sitar-agent-sidecar-config/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Airbnbのエンジニアは、数万ものポッドに動的な構成情報を配信するKubernetesサイドカーであるSitar-agentの詳細を説明した。Sitar-agentは1分間に数回更新を処理する。このシステムはJava、Amazon S3スナップショットブートストラップ、そしてSparkeyからSQLiteへの移行によって再設計され、信頼性、起動パフォーマンス、そして大規模な構成情報の可用性が向上した。Leela Kumili著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/07/sitar-agent-sidecar-config/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 08 Jul 2026 14:25:00 +0000</pubDate>
+      <title>GitHub Copilot CLIにタブ機能と設定ファイル不要のツール設定機能が、再設計されたターミナルUIに追加されました。</title>
+      <link>https://www.infoq.com/news/2026/07/copilot-cli-terminal-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>GitHubは、再設計されたGitHub Copilot CLIターミナルインターフェースを一般公開しました。セッション、gist、イシュー、プルリクエスト用のタブレイアウト、MCPサーバー、スキル、プラグインのセッション内フォーム駆動型セットアップ（設定ファイルの手動編集を不要）、スクリーンリーダー対応のよりクリーンでテーマ対応のアクセシビリティの高いUIが追加されています。 マーク・シルベスター (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/07/copilot-cli-terminal-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 10 Jul 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
