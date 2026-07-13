@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 08:22:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 09:34:17 +0000</lastBuildDate>
     <item>
-      <title>VAPOLA ― ALMA I を用いたミリ波帯における AGN および Sgr A* の複数年にわたる多波長偏光観測。観測概要および科学研究にすぐに利用できるアーカイブ成果物</title>
-      <link>https://arxiv.org/abs/2607.08657v1</link>
-      <description>アタカマ大型ミリ波サブミリ波干渉計（ALMA）は、ミリ波およびサブミリ波帯で最も感度の高い干渉計アレイです。ALMA位相システム（APS）を介して、グローバルな超長基線干渉計（VLBI）アレイに参加し、その感度と解像度を向上させることができます。しかし、VLBI観測中にAPSモードで取得したALMAデータの処理と解析は、専門的な知識と時間のかかる較正および画像処理手順を必要とする複雑な作業です。本論文では、グローバルVLBIキャンペーン中にALMAで観測された活動銀河核（AGN）およびSgr A*の高レベルデータプロダクトの、初のオンライン、マルチエポック、マルチバンドリポジトリであるVAPOLAを紹介します。完全に較正されたALMA（QA2）データを処理する自動化されたパイプラインに基づいて構築されており、最小限のユーザー介入で科学的に使用可能なプロダクトを生成します。このリポジトリには、完全に較正された干渉計可視度、個々のスペクトルウィンドウおよび組み合わせたスペクトルウィンドウ全体にわたるフルストークス画像、偏光マップとスペクトル指数マップ、および可視度ドメイン偏光フィッティング (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.08657v1</guid>
-      <pubDate>Thu, 09 Jul 2026 16:26:32 +0000</pubDate>
+      <title>UAVIDS-2025データセットにおける信頼性の高い侵入検知のためのXAIと統計分析：ツリーからハイブリッドおよび表形式DNNアンサンブルまで</title>
+      <link>https://arxiv.org/abs/2605.13922v2</link>
+      <description>ここ数年、説明可能な人工知能 (XAI) の傘下にある特定の分野であるメカニズム解釈可能性という用語が導入され、UAV 侵入検知システム (UAVIDS) のような重要なシステムで複雑な機械学習 (ML) モデルが行う決定を説明するようになりました。本論文では、データ前処理のベストプラクティスを適用し、層別 10 分割交差検証を使用して、UAV の侵入を検出するために、ツリー アンサンブル、ディープ ニューラル ネットワーク、ハイブリッド スタッキング モデル、最新のアンサンブル ニューラル ネットワークの幅広い範囲を検証します。最もパフォーマンスの高いモデルである XGBoost を使用して、Shapley 加法説明 (SHAP) に進み、グローバルおよびローカルの特徴の重要度を分析し、各攻撃が通常のトラフィックを模倣するためにどの特徴をターゲットにしているか、誤分類がどこで発生しているかを理解します。さらに、バイオリン プロットとカーネル密度推定の曲線を視覚的に比較して分布分析を行います。多重比較のためのウエストフォール・ヤング順列検定、KDEの帯域幅最適化、および検定のためのジェ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.13922v2</guid>
+      <pubDate>Wed, 13 May 2026 14:08:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

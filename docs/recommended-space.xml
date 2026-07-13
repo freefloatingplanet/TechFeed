@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 08:22:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 09:34:15 +0000</lastBuildDate>
     <item>
       <title>アクセルスペースの次世代衛星「GRUS-3」にニコンの望遠鏡搭載。観測能力を強化へ【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/46492/</link>
       <description>アクセルスペースの次世代地球観測衛星「GRUS-3」7機が、7月7日に打ち上げられました。GRUS-3には、ニコンが開発した望遠鏡が搭載されています。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46492/</guid>
       <pubDate>Fri, 10 Jul 2026 23:33:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASA天文衛星「TESS」が想定外の「重力マイクロレンズ法」で惑星を初発見　約1.4万光年先</title>
+      <link>https://sorae.info/astronomy/20260712-tess-micro-lensing.html</link>
+      <description>ニューメキシコ大学のMallory Harris氏を筆頭とする研究チームは、NASA（アメリカ航空宇宙局）の系外惑星探査衛星「TESS（テス）」の観測データから、本来TESSでは想定していなかった「重力マイクロレンズ法」… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260712-tess-micro-lensing.html</guid>
+      <pubDate>Sun, 12 Jul 2026 11:23:56 +0000</pubDate>
     </item>
     <item>
       <title>「この5年が勝負」民間大手・スタートアップ・アカデミア・コンサルの最前線の若手4人が語る、日本の宇宙産業の可能性と課題</title>
@@ -30,18 +37,18 @@
       <pubDate>Mon, 06 Jul 2026 23:00:48 +0000</pubDate>
     </item>
     <item>
-      <title>「研究への情熱が、すべてのキャリアを繋いだ」インドネシア出身エンジニアがSynspectiveで衛星開発を行うまでの軌跡</title>
-      <link>https://sorabatake.jp/46371/</link>
-      <description>インドネシア出身でJAXAを経てSynspectiveでSARアンテナを開発するAkbarさんに、日本で働く理由とSynspectiveで働く魅力についてたっぷりお話を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46371/</guid>
-      <pubDate>Tue, 30 Jun 2026 03:00:49 +0000</pubDate>
-    </item>
-    <item>
       <title>ESA宇宙望遠鏡「ユークリッド」のデータから観測史上最古のクエーサーを発見　約131億年前に存在</title>
       <link>https://sorae.info/astronomy/20260710-quasar-euclid.html</link>
       <description>ライデン大学のDaming Yang氏を筆頭とする国際的な研究チームは、ESA（ヨーロッパ宇宙機関）のユークリッド（Euclid）宇宙望遠鏡の観測データをもとに、初期宇宙に存在した「クエーサー」を新たに31個発見したとす… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260710-quasar-euclid.html</guid>
       <pubDate>Fri, 10 Jul 2026 08:36:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>「研究への情熱が、すべてのキャリアを繋いだ」インドネシア出身エンジニアがSynspectiveで衛星開発を行うまでの軌跡</title>
+      <link>https://sorabatake.jp/46371/</link>
+      <description>インドネシア出身でJAXAを経てSynspectiveでSARアンテナを開発するAkbarさんに、日本で働く理由とSynspectiveで働く魅力についてたっぷりお話を伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46371/</guid>
+      <pubDate>Tue, 30 Jun 2026 03:00:49 +0000</pubDate>
     </item>
     <item>
       <title>宇宙空間での大型構造物の組み立てが可能に？ Space Quartersが3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功 【宇宙ビジネスニュース】</title>
@@ -51,11 +58,11 @@
       <pubDate>Sat, 11 Jul 2026 00:55:58 +0000</pubDate>
     </item>
     <item>
-      <title>現在の長周期彗星は250万年前に太陽系へ接近した恒星「HD 7977」の影響を強く受けている？</title>
-      <link>https://sorae.info/astronomy/20260706-long-period-comet.html</link>
-      <description>PSI（惑星科学研究所）のNathan Kaib氏とボルドー大学のSean Raymond氏は、太陽系の長周期彗星の軌道が、過去に太陽系へ接近した恒星「HD 7977」の影響を強く受けているとする研究成果を発表しました。… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260706-long-period-comet.html</guid>
-      <pubDate>Mon, 06 Jul 2026 12:37:07 +0000</pubDate>
+      <title>衛星の大量打ち上げによる汚染物質が、上層大気に急速に蓄積していることが推定される</title>
+      <link>https://sorae.info/space/20260712-satellite-launch-pollution.html</link>
+      <description>現在の地球の周りには全地球的な通信を目的とした、それぞれが数千機以上の衛星から成る「衛星コンステレーション」を構成する衛星が多数存在します。SpaceX社の「スターリンク（Starlink）」は特に有名ですが、他の企業や… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260712-satellite-launch-pollution.html</guid>
+      <pubDate>Sun, 12 Jul 2026 12:54:12 +0000</pubDate>
     </item>
     <item>
       <title>「私たちの世代が宇宙技術を社会インフラにする」衛星データ・保険・スペースポート・コンサル、若手4人が語る宇宙産業で働く理由とキャリアの可能性</title>
@@ -63,6 +70,13 @@
       <description>宇宙業界で働く人は何を思い、具体的にどのような仕事をしているのか。異なる立場から宇宙業界に関わる若手4名に、この業界に入った経緯、日々の仕事の中身、そしてこれから描くキャリアについてたっぷりとお話を伺いました。【PR】 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46245/</guid>
       <pubDate>Mon, 22 Jun 2026 23:01:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>欧州が自ら管理できる衛星インテリジェンス基盤を共同構築へ。VantorとRheinmetallが覚書を締結【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/46525/</link>
+      <description>2026年6月18日、VantorとRheinmetallはドイツおよび欧州各国の軍隊向けに、主権型の空間インテリジェンス能力構築を目的とした基本合意書（MOU）の締結を発表しました。このシステムは、人工衛星などが取得したデータから地上の状況を3Dで正確に把握するもので、宇宙・空・地上の情報を、収集指示（タスキング） ・融合・分析し、必要な場所へ届けられると期待されています。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46525/</guid>
+      <pubDate>Sun, 12 Jul 2026 23:02:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

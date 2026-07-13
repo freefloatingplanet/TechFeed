@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 08:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 09:34:10 +0000</lastBuildDate>
+    <item>
+      <title>APIもDBも東京なのに、全クエリが太平洋横断していた話</title>
+      <link>https://zenn.dev/avaintelligence/articles/b7d4743a448485</link>
+      <description>はじめに
+AI x 旅行アプリのアバトラベル（iOS / Android）は、2026年6月にフルリニューアルしました！
+ところがその直後から、「ほぼ全てのAPIが一律に遅い」 という不思議な症状に悩まされていました。弊社に協力いただいているつよつよエンジニアの栗田さんの調査により、原因はAPIのコードでもDBのチューニング不足でもなく、接続先ホスト名のDNS解決にありました。
+
+バックエンドAPI：FastAPI（Python）、Fly.io東京リージョン（nrt）で稼働
+DB：PlanetScale（AWS ap-northeast-1 = 東京）
+
+という同一リージョン構成にも... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/avaintelligence/articles/b7d4743a448485</guid>
+      <pubDate>Tue, 07 Jul 2026 06:06:42 +0000</pubDate>
+    </item>
     <item>
       <title>Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた</title>
       <link>https://zenn.dev/9m/articles/d08dcc093e1bbf</link>
@@ -26,59 +40,57 @@ CloudflareがSMTPをしゃべれるようになったので、Gmailのエイリ�
       <pubDate>Fri, 10 Jul 2026 02:33:47 +0000</pubDate>
     </item>
     <item>
-      <title>ミューテーションテストのススメ</title>
-      <link>https://zenn.dev/xtm_blog/articles/9b7fa5f94eae28</link>
+      <title>戸田奈津子さん　「AIに映画字幕は無理」、理想は「存在感のない字幕」 - 日曜日のヒーロー＆ヒロイン - 芸能コラム : 日刊スポーツ</title>
+      <link>https://www.nikkansports.com/entertainment/column/sundayhero/news/202607120000087.html</link>
+      <description>洋画ファンなら、スクリーンで「字幕・戸田奈津子」のクレジットを何度見たことか。映画字幕翻訳者、戸田奈津子さん（90）。手掛けた字幕は1500作以上。多くのハリウッドスターの通訳としても活躍し、映画文化の架け橋になってきた。今やAIがどんな言語も翻訳する時代だが、「AIに映画字幕は無理」と明快だ。【梅田恵子... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.nikkansports.com/entertainment/column/sundayhero/news/202607120000087.html</guid>
+      <pubDate>Sun, 12 Jul 2026 10:01:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Registrar + R2 で個人開発アプリの公開基盤を構築した記録</title>
+      <link>https://zenn.dev/unsoluble_sugar/articles/a6fb2c3efd5a66</link>
       <description>はじめに
-クロステック・マネジメント Foundation Dept. 所属の Radish です。
-先日、社内輪読会で『テスト駆動開発』(Kent Beck 著、和田卓人 訳) を読んでいたとき、17 章で 欠陥挿入（defect insertion） という言葉が出てきました。
-（数年前に自分で読んだことはあるんですが、完全に忘れていました… 🫠）
-欠陥挿入とは、本番コードの一部を一時的に書き換えて、テストが落ちることを確かめる手法です。
-書籍では手作業でもツールでもできると書かれていたので、どういったツールがあるのか調べました。
-そこで出てきたのがミューテーションテスト（mut... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/xtm_blog/articles/9b7fa5f94eae28</guid>
-      <pubDate>Thu, 09 Jul 2026 12:51:51 +0000</pubDate>
+現在、個人開発でWebアプリを作っています。プロダクト自体は未リリースのため具体的なアプリ名は伏せますが、「独自ドメイン取得〜公開基盤の構築」までを数時間で一気に進めたので、その際の手順・設定値・ハマりどころを記事として残しておきます。
+!
+未リリースのプロダクトのため、本記事ではドメインを myapp.app、アセット配信用サブドメインを assets.myapp.app という仮名で表記します。
+
+作業には Claude Code（Fable 5）を活用しました。Cloudflare を使うのは今回が初めてで、ダッシュボードの画面や設定項目に馴染みがなく迷う場面も多かっ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/unsoluble_sugar/articles/a6fb2c3efd5a66</guid>
+      <pubDate>Sat, 11 Jul 2026 13:30:03 +0000</pubDate>
     </item>
     <item>
-      <title>AI時代でも変わらない、業務自動化／効率化の考え方</title>
-      <link>https://zenn.dev/grooves/articles/d0e1a182138ab0</link>
+      <title>情報漏洩に敏感な金融機関で、Claude・Gemini・ChatGPTを導入した話</title>
+      <link>https://zenn.dev/seiuchi3939/articles/b12d6746d9f187</link>
       <description>はじめに
-こんにちは！GroovesでCrowd Agent開発組織のマネージャーをしています、鳥井です。本記事は、私が社内向けに書いた業務自動化／効率化に関するドキュメントを、公開用に再構成したものになります。
-AI時代に入り、業務自動化／効率化が改めて脚光を浴びています。LLMを司令塔としたMCPやAgent Skillsの普及によって、これまで自動化が難しかった領域にも手が届くようになり、現場でも「まずはやってみよう」と取り組みが始まる場面が増えてきたように感じます。私自身も社内のAI推進担当の一員として盛り上がっています！
-一方で、私自身の経験から振り返ると、RPAやノーコー... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/grooves/articles/d0e1a182138ab0</guid>
-      <pubDate>Fri, 10 Jul 2026 02:03:05 +0000</pubDate>
+私は国内の金融機関で、社内の情報システム・セキュリティに関わる業務をしています。この記事では、情報漏洩リスクに人一倍敏感な金融機関という環境で、Claude・Gemini・ChatGPTという複数の生成AIサービスを全社導入するに至った経緯と、その際にどうリスクを整理したかをまとめます。
+「生成AIを導入したいけど、リスク部門の理解が得られない」「情報漏洩が怖くて一歩を踏み出せない」——同じような壁にぶつかっている企業の担当者の方に、何かひとつでも参考になれば嬉しいです。
+
+ 1. 導入前の状況:前向きな現場と、慎重にならざるを得ないリスク部門
+金融機関である以上、情報漏洩... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/seiuchi3939/articles/b12d6746d9f187</guid>
+      <pubDate>Sun, 12 Jul 2026 01:36:49 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェント時代のWeb戦略は「パンフレット」か「レジ」か — llms.txtとWebMCPが示す2つの賭け</title>
-      <link>https://techfeed.io/entries/6a52cc2a3d5307dbb0d032c0?from=rss</link>
-      <description>7月10日、Search Engine Journalが「The Agentic Web Is Splitting Into Two Bets: Identity And Capability」と題した記事を公開した。Cloudflareのデータによれば、2026年6月時点で自動トラフィックが初めて人間のトラフィックを上回り、57.3% 対 42.7%という逆転が起きている。この事実を前提にすると、「AIにサイトの素性を伝えるファイルを置く」だけの戦略が十分かどうか、根本から問い直す必要が出てくる。記事が示す答えは明快だ——エージェントがウェブサイトに到着したとき、知りたいことは「ここはどんな場所か（アイデンティティ）」と「このタスクをどう完了させるか（ケイパビリティ）」の2つであり、それぞれに別の賭けが存在する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a52cc2a3d5307dbb0d032c0?from=rss</guid>
-      <pubDate>Sat, 11 Jul 2026 23:05:14 +0000</pubDate>
+      <title>開発現場のAIセキュリティを見直す</title>
+      <link>https://zenn.dev/nenene01/articles/ai-security-2026</link>
+      <description>はじめに
+開発現場でAIを使うことは、当たり前になりました。
+直近のチームでは、GitHubのIssue駆動開発を主軸にしました。
+設計書や機能概要、受け入れ条件、テストプランをIssueに明示し、開発メンバーに展開し各々のエージェントに渡し機能開発を遂行し、Issueを消化していく。
+サイクル初期(フルスクラッチ案件)はローカル環境で実装を進めるため、セキュリティ上の問題を感じる場面は、あまりありません。
+しかし、開発環境・検証環境・本番環境の構築や接続に踏み込むあたりから、エージェントへの「丸投げ」は危険を感じました。
+インフラの構成や状態確認、DBへの接続、移行データ投入後の本... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nenene01/articles/ai-security-2026</guid>
+      <pubDate>Sun, 12 Jul 2026 14:13:10 +0000</pubDate>
     </item>
     <item>
-      <title>Loop Engineeringで失敗しないためのハーネス設計</title>
-      <link>https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering</link>
-      <description>「動きました！」（動いてない）
-「全テストパスしました！」（通るように書いたテストが、通っただけ）
-「完了しました ✅」（何も完了していない）
-AI coding agent を業務で使っている人なら、どれか一つは見覚えがあるはずです。私は全部、見覚えがあります。これは個人の体験談だけの話でもありません。
-Claude Code の現行ドキュメントでも、CLAUDE.md / AGENTS.md のような project instructions は「読ませる文脈」であって、強制設定ではないと説明されています。確実に止めたい挙動は hook のような決定論的な制御に寄せる。テストを書かせ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering</guid>
-      <pubDate>Fri, 10 Jul 2026 09:09:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAIが自社製ブラウザ「Atlas」をわずか9ヶ月で終了 — 「ブラウザにAIを乗せる」から「AIにブラウザを持たせる」へ方針転換</title>
-      <link>https://techfeed.io/entries/6a52cd123d5307dbb0d032f2?from=rss</link>
-      <description>7月11日、Matt Binderが「OpenAI is shutting down its Atlas web browser」と題した記事を公開した。この記事では、OpenAIが内製ブラウザ「Atlas」を終了し、新製品「ChatGPT Work」へ機能を統合する戦略転換について詳しく紹介されている。AtlasからChatGPT Workへ：9ヶ月で幕を閉じたAIブラウザOpenAIは、わずか9ヶ月前に発表した自社製ウェブブラウザ「Atlas」を終了すると発表した。Atlasの発表は2024年10月頃のことであり、終了予定日は2026年8月9日だ。Atlasは、ChatGPTをブラウザに直接統合した製品として登場した。ユーザーは現在開いているウェブページに対してChatGPTに指示を出し、AIがそのページ上で直接操作を行うという仕組みだった。OpenAIにとってブラウザ市場への本格参入を示す製品であった。廃止の理由は「学び終えた」からOpenAIのプロダクトスタッフであるJames Sunは、木曜日の発表の中でAtlas終了を明らかにした。同日の発表には新デスクトップアプリ「Cha (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a52cd123d5307dbb0d032f2?from=rss</guid>
-      <pubDate>Sat, 11 Jul 2026 23:09:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIが代わりに買い物する時代が始まった — EC事業者がいま商品ページを構造化データで整えるべき理由</title>
-      <link>https://techfeed.io/entries/6a52cc113d5307dbb0d032b1?from=rss</link>
-      <description>7月10日、WordPress.comが「What Is Agentic Commerce? What It Means for Your Store」と題した記事を公開した。AIエージェントが人間に代わって商品を探し、比較し、購入まで行う「エージェントコマース」は、LLM経由のトラフィックがすでに1訪問あたりの収益で53%の優位性を示しているという調査結果とともに、急速に現実のビジネス課題として浮上している。EC事業者が今すぐ取り組むべき対応についても詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a52cc113d5307dbb0d032b1?from=rss</guid>
-      <pubDate>Sat, 11 Jul 2026 23:04:49 +0000</pubDate>
+      <title>AI-DLC Workflows 2.0 とは何か、そしてどう実装されているか</title>
+      <link>https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering</link>
+      <description>はじめに
+AI コーディングエージェントが日々の開発に浸透するにつれ、多くのチームが同じ壁に行き着きます。エージェント向けのワークフローが「バグ修正でも新規開発でも同じ重厚な手順」を強制してくる一方で、自動化に慣れるほど人間側は「AI に全部決めさせる」受動的な姿勢に傾き、レビューと監督の質が落ちていく。プロセスの硬直と人間の関与の希薄化が同時に進む、という問題です。
+AWS はこの課題に対して AI-DLC（AI-Driven Development Life Cycle） というメソドロジーを提唱し、2025 年 11 月にその実装を awslabs/aidlc-workflow... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering</guid>
+      <pubDate>Sat, 11 Jul 2026 06:32:57 +0000</pubDate>
     </item>
     <item>
       <title>ボードゲーム「ナショナルエコノミー」をブラウザで遊べる非公式サービスを作った</title>
@@ -100,16 +112,18 @@ CadQueryのようなコードベースのCADを使えば、AIに「幅を何mm�
       <pubDate>Sat, 11 Jul 2026 05:28:17 +0000</pubDate>
     </item>
     <item>
-      <title>3Dプリンターを買って4ヶ月、208回印刷して分かった「使いみち」と「続く理由」(実例つき)</title>
-      <link>https://zenn.dev/optimisuke/articles/6d5119908cc14a</link>
-      <description>4ヶ月で印刷したものの一部。この記事ではこういうものをカテゴリー別に紹介します
-
- はじめに
-3Dプリンター(Bambu Lab A1 mini)を買って、4ヶ月経ちました。今使っているのは2台目の3Dプリンターで、1台目は印刷の失敗が多くて、いつの間にか使わなくなってしまってました。
-今回買う際、最近の機種はむちゃくちゃ簡単と聞いていたのですが、実際その通りでした。おかげで失敗も少なく、順調に使い続けられています。このことは次のセクションで詳しく書きます。
-「3Dプリンターは気になるけど、実際何に使うのか想像しづらい、使い続けられるか自信ない」という人は多いんじゃないかと思います。私... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/optimisuke/articles/6d5119908cc14a</guid>
-      <pubDate>Fri, 10 Jul 2026 11:00:14 +0000</pubDate>
+      <title>ハーネスエンジニアリングとループエンジニアリングの違いとは？ aws aidlc workflow kitから整理する</title>
+      <link>https://zenn.dev/tacky_exception/articles/4d77fef5a36e42</link>
+      <description>はじめに
+最近aidlc-workflowsを利用しています。
+導入前は、人間が「関連コードを調べて」「実装して」「ビルドして」「エラーを直して」と、工程ごとに細かく指示を出していました。
+kitを使い始めると、AIが最初に計画を作り、既存コードを調査し、実装後にはビルドやテストまで実行してくれるようになりました。エラーが出れば、その結果をもとに修正も試みます。
+特に印象的だったのは、比較的安価なモデルでも、以前より安定して実装を進められるようになったことです。
+モデル自体が突然賢くなったわけではありません。
+では、何が変わったのでしょうか。
+kitの構造を改めて見てみると、AIに必... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tacky_exception/articles/4d77fef5a36e42</guid>
+      <pubDate>Sun, 12 Jul 2026 05:19:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
