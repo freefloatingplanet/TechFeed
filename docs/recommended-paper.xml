@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Jul 2026 09:34:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 08:13:19 +0000</lastBuildDate>
     <item>
-      <title>UAVIDS-2025データセットにおける信頼性の高い侵入検知のためのXAIと統計分析：ツリーからハイブリッドおよび表形式DNNアンサンブルまで</title>
-      <link>https://arxiv.org/abs/2605.13922v2</link>
-      <description>ここ数年、説明可能な人工知能 (XAI) の傘下にある特定の分野であるメカニズム解釈可能性という用語が導入され、UAV 侵入検知システム (UAVIDS) のような重要なシステムで複雑な機械学習 (ML) モデルが行う決定を説明するようになりました。本論文では、データ前処理のベストプラクティスを適用し、層別 10 分割交差検証を使用して、UAV の侵入を検出するために、ツリー アンサンブル、ディープ ニューラル ネットワーク、ハイブリッド スタッキング モデル、最新のアンサンブル ニューラル ネットワークの幅広い範囲を検証します。最もパフォーマンスの高いモデルである XGBoost を使用して、Shapley 加法説明 (SHAP) に進み、グローバルおよびローカルの特徴の重要度を分析し、各攻撃が通常のトラフィックを模倣するためにどの特徴をターゲットにしているか、誤分類がどこで発生しているかを理解します。さらに、バイオリン プロットとカーネル密度推定の曲線を視覚的に比較して分布分析を行います。多重比較のためのウエストフォール・ヤング順列検定、KDEの帯域幅最適化、および検定のためのジェ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.13922v2</guid>
-      <pubDate>Wed, 13 May 2026 14:08:36 +0000</pubDate>
+      <title>拡散係数の直接測定：無衝突プラズマにおける拡散確率加熱の証拠</title>
+      <link>https://arxiv.org/abs/2607.11880v1</link>
+      <description>衝突のないプラズマ散逸に関する未解決の問題は、さまざまな天体物理環境での宇宙ベースの観測を使用して解決することができ、天体物理プラズマシステムと実験室プラズマシステムの両方に影響を与えます。パーカー太陽探査機 (PSP) によって観測された低 $β$、非常に不均衡なサブアルフベンストリームを研究し、平行イオンサイクロトロン波 (ICW) による確率的加熱 (SH) と共鳴加熱 (RH) のシグネチャを特定して区別します。このストリームを研究した以前の研究 (Bowen et al., 2025) では、間欠性を考慮した SH 率は局所エネルギー伝達 (LET) 率の振幅と一致しましたが、RH 率は一致しませんでした。この比較は、拡散プロセスの性質と LET 率の計算に関するいくつかの仮定に依存していました。本稿では、PSPのイオン静電アナライザー（SPANi）から得られる3次元陽子速度分布関数（VDF）を用いて、陽子誘導中心方程式を逆算する新しい手法を導入し、速度空間拡散係数を経験的に測定する。測定された拡散係数を用いて位相空間加熱率を決定し、先行研究で行われた仮定に依存しない完全な運 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.11880v1</guid>
+      <pubDate>Mon, 13 Jul 2026 17:58:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

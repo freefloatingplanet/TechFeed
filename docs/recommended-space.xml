@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 09:34:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 08:13:17 +0000</lastBuildDate>
     <item>
       <title>アクセルスペースの次世代衛星「GRUS-3」にニコンの望遠鏡搭載。観測能力を強化へ【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/46492/</link>
@@ -21,13 +21,6 @@
       <description>ニューメキシコ大学のMallory Harris氏を筆頭とする研究チームは、NASA（アメリカ航空宇宙局）の系外惑星探査衛星「TESS（テス）」の観測データから、本来TESSでは想定していなかった「重力マイクロレンズ法」… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260712-tess-micro-lensing.html</guid>
       <pubDate>Sun, 12 Jul 2026 11:23:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>「この5年が勝負」民間大手・スタートアップ・アカデミア・コンサルの最前線の若手4人が語る、日本の宇宙産業の可能性と課題</title>
-      <link>https://sorabatake.jp/46282/</link>
-      <description>宇宙産業の最前線で奮闘する日本のプレイヤーはいま何を感じ、どこに勝機を見出しているのか。民間大手、スタートアップ、アカデミア、コンサルティングという異なる立場から宇宙産業に関わる若手4名に、日本の宇宙産業の強み・課題・展望を語り合っていただきました。【PR】 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46282/</guid>
-      <pubDate>Mon, 22 Jun 2026 23:00:51 +0000</pubDate>
     </item>
     <item>
       <title>戦略17分野に「衛星システムのアンカーテナンシー強化」が追加。衛星データ利用の本格始動で民間投資の好循環へ【宇宙ビジネスニュース】</title>
@@ -56,6 +49,13 @@
       <description>Space Quartersが、3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功しました。その仕組みと、実証が示したものを解説します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46343/</guid>
       <pubDate>Sat, 11 Jul 2026 00:55:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>「テンポの良い地上局展開と実用できる衛星コンステレーションの構築を」インフォステラとSSC Spaceが提携し、セーレンの小型衛星「FUSION-1」向けに地上局サービスを提供【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/46533/</link>
+      <description>インフォステラ、SSC Space（スウェーデン宇宙公社）、セーレンの3社は、セーレンの小型衛星ミッション「FUSION-1」向けに衛星通信サービスの提供を開始したことを発表しました。記者会見で語られた両社の提携に関する期待と今後の展望を紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46533/</guid>
+      <pubDate>Mon, 13 Jul 2026 23:00:33 +0000</pubDate>
     </item>
     <item>
       <title>衛星の大量打ち上げによる汚染物質が、上層大気に急速に蓄積していることが推定される</title>

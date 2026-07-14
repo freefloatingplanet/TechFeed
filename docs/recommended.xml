@@ -7,57 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 09:34:10 +0000</lastBuildDate>
-    <item>
-      <title>APIもDBも東京なのに、全クエリが太平洋横断していた話</title>
-      <link>https://zenn.dev/avaintelligence/articles/b7d4743a448485</link>
-      <description>はじめに
-AI x 旅行アプリのアバトラベル（iOS / Android）は、2026年6月にフルリニューアルしました！
-ところがその直後から、「ほぼ全てのAPIが一律に遅い」 という不思議な症状に悩まされていました。弊社に協力いただいているつよつよエンジニアの栗田さんの調査により、原因はAPIのコードでもDBのチューニング不足でもなく、接続先ホスト名のDNS解決にありました。
-
-バックエンドAPI：FastAPI（Python）、Fly.io東京リージョン（nrt）で稼働
-DB：PlanetScale（AWS ap-northeast-1 = 東京）
-
-という同一リージョン構成にも... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/avaintelligence/articles/b7d4743a448485</guid>
-      <pubDate>Tue, 07 Jul 2026 06:06:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた</title>
-      <link>https://zenn.dev/9m/articles/d08dcc093e1bbf</link>
-      <description>TL;DR
-
-メールの受信は Cloudflare Email Routing
-メールの送信は Cloudflare Email Sending
-メールの閲覧・作成には普段使っているGmailを利用
-
-CloudflareがSMTPをしゃべれるようになったので、Gmailのエイリアスに追加できるぞ！
-
- 独自ドメインのメールアドレスにお金かけたくない問題
-個人開発をやっているとポコポコ独自ドメインが増えていきますが、メールの送受信は頭が痛い問題です(費用面で)。Google Workspaceを契約するのが一番理想なのですが、ドメインごとに毎月800円も払っていられません。
-そのため... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/9m/articles/d08dcc093e1bbf</guid>
-      <pubDate>Fri, 10 Jul 2026 02:33:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>戸田奈津子さん　「AIに映画字幕は無理」、理想は「存在感のない字幕」 - 日曜日のヒーロー＆ヒロイン - 芸能コラム : 日刊スポーツ</title>
-      <link>https://www.nikkansports.com/entertainment/column/sundayhero/news/202607120000087.html</link>
-      <description>洋画ファンなら、スクリーンで「字幕・戸田奈津子」のクレジットを何度見たことか。映画字幕翻訳者、戸田奈津子さん（90）。手掛けた字幕は1500作以上。多くのハリウッドスターの通訳としても活躍し、映画文化の架け橋になってきた。今やAIがどんな言語も翻訳する時代だが、「AIに映画字幕は無理」と明快だ。【梅田恵子... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.nikkansports.com/entertainment/column/sundayhero/news/202607120000087.html</guid>
-      <pubDate>Sun, 12 Jul 2026 10:01:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare Registrar + R2 で個人開発アプリの公開基盤を構築した記録</title>
-      <link>https://zenn.dev/unsoluble_sugar/articles/a6fb2c3efd5a66</link>
-      <description>はじめに
-現在、個人開発でWebアプリを作っています。プロダクト自体は未リリースのため具体的なアプリ名は伏せますが、「独自ドメイン取得〜公開基盤の構築」までを数時間で一気に進めたので、その際の手順・設定値・ハマりどころを記事として残しておきます。
-!
-未リリースのプロダクトのため、本記事ではドメインを myapp.app、アセット配信用サブドメインを assets.myapp.app という仮名で表記します。
-
-作業には Claude Code（Fable 5）を活用しました。Cloudflare を使うのは今回が初めてで、ダッシュボードの画面や設定項目に馴染みがなく迷う場面も多かっ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/unsoluble_sugar/articles/a6fb2c3efd5a66</guid>
-      <pubDate>Sat, 11 Jul 2026 13:30:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 08:13:14 +0000</lastBuildDate>
     <item>
       <title>情報漏洩に敏感な金融機関で、Claude・Gemini・ChatGPTを導入した話</title>
       <link>https://zenn.dev/seiuchi3939/articles/b12d6746d9f187</link>
@@ -103,13 +53,51 @@ AWS はこの課題に対して AI-DLC（AI-Driven Development Life Cycle） と
       <pubDate>Sat, 11 Jul 2026 08:22:04 +0000</pubDate>
     </item>
     <item>
-      <title>AIと一緒にCAD設計できるソフト「cad-coworker」</title>
+      <title>SRE NEXT 2026に登壇・参加してきました</title>
+      <link>https://zenn.dev/loglass/articles/2dcd7ad5ef0be7</link>
+      <description>はじめに
+こんにちは、ログラスでSREをしている見形（@mekka）です。
+2026年7月10〜11日にTOC有明で開催された SRE NEXT 2026 に、登壇者として、また一参加者として参加してきました。
+今年のテーマは「Inclusive SRE」。経験豊富なSREだけでなく、マネージャーやSREに取り組み始めたばかりのチーム、開発と運用を兼ねるエンジニアまで、Roleにとらわれず信頼性に関わる誰もが学べる場を目指す、というものです。
+この記事では、登壇の内容と、参加して感じたことをまとめます。
+
+ 登壇内容
+「『ちゃんとやっている』は独りよがりだった ― 不安に寄り添うイン... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/loglass/articles/2dcd7ad5ef0be7</guid>
+      <pubDate>Mon, 13 Jul 2026 01:32:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metaが「終日音声を録音して感情を記録するAI」の特許を申請 — スマートグラスや自宅スピーカーまで対象、EU規制との衝突も</title>
+      <link>https://techfeed.io/entries/6a5571633d5307dbb0d1e005?from=rss</link>
+      <description>7月13日、The Hacker Newsが「Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling」と題した記事を公開した。Metaが申請した特許は、スマートグラスや自宅のスピーカーを通じて一日中ユーザーの音声を収集し、ため息や笑い声まで解析して感情をログとして記録するAIシステムを描いている。目の動きやスマートフォンの操作履歴まで統合するその設計は、EU AI法との衝突点も孕んでいる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a5571633d5307dbb0d1e005?from=rss</guid>
+      <pubDate>Mon, 13 Jul 2026 23:14:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIと一緒にCAD設計できるソフト「cad-coworker」つくりました</title>
       <link>https://zenn.dev/karaage0703/articles/47299d42de9607</link>
       <description>AIコーディングツールにコードを書いてもらう体験は、かなり実用的になってきました。一方で、3Dプリンタ用の部品やロボットのケースを作るようなCAD設計では、まだ少しもどかしさがあります。
 CadQueryのようなコードベースのCADを使えば、AIに「幅を何mmにして、ここに穴をあけて」と頼めます。ただ、実際の設計では、最終的に「あと0.5mm広げたい」「この穴は少し上にずらしたい」「スライダーで見ながら追い込みたい」という場面が出てきます。
 そこで、CadQueryで書いたパラメトリックな3Dモデルを、ブラウザからスライダーで調整できるツールを作りました。名前はcad-coworkerで... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/karaage0703/articles/47299d42de9607</guid>
       <pubDate>Sat, 11 Jul 2026 05:28:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIコードレビューをPNG画像で騙す「GhostCommit」— 73%のPRが無審査でマージされる環境を突く新手法</title>
+      <link>https://techfeed.io/entries/6a5571713d5307dbb0d1e00a?from=rss</link>
+      <description>7月13日、GBHackersが「New GhostCommit Technique Hides Exploits in Images to Evade AI Code Reviewers」と題した記事を公開した。プルリクエスト内のPNG画像に悪意ある命令を埋め込み、テキストベースのAIレビュアーは画像の中身を読めないという盲点を突いてリポジトリのシークレット情報を窃取する新手法「GhostCommit」が、ASSET Research Groupによって報告された。分析対象の64,806件のPRのうち73%が実質的に無審査でマージされていたという調査結果が、この攻撃の深刻さを裏付けている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a5571713d5307dbb0d1e00a?from=rss</guid>
+      <pubDate>Mon, 13 Jul 2026 23:14:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>余ったFire HDでバス到着案内サイネージを自作した</title>
+      <link>https://zenn.dev/dehio3/articles/202607_fire-hd-bus-arrival-signage</link>
+      <description>はじめに
+以前、西武バスの到着予測をAlexaで案内するスキルを作った話を書きました。ODPT(公共交通オープンデータセンター)のリアルタイムデータへ移行し、「話しかければバスの到着時刻を教えてくれる」仕組みは安定して動くようになりました。
+ただ実際に使ってみると、通勤前のバタバタしたタイミングで「Alexa、バスは何分後?」と話しかけるのは意外と億劫で、結局スマホでアプリを開いて確認する方が早いことに気づきました。
+そこで今回は、話しかけなくても、見るだけで分かるサイネージを作ることにしました。ちょうど手元に、使わなくなった古いFire HDタブレットが転がっていたので、それを再利... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dehio3/articles/202607_fire-hd-bus-arrival-signage</guid>
+      <pubDate>Sat, 11 Jul 2026 07:25:48 +0000</pubDate>
     </item>
     <item>
       <title>ハーネスエンジニアリングとループエンジニアリングの違いとは？ aws aidlc workflow kitから整理する</title>
