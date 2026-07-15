@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 08:13:17 +0000</lastBuildDate>
-    <item>
-      <title>アクセルスペースの次世代衛星「GRUS-3」にニコンの望遠鏡搭載。観測能力を強化へ【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/46492/</link>
-      <description>アクセルスペースの次世代地球観測衛星「GRUS-3」7機が、7月7日に打ち上げられました。GRUS-3には、ニコンが開発した望遠鏡が搭載されています。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46492/</guid>
-      <pubDate>Fri, 10 Jul 2026 23:33:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 08:20:32 +0000</lastBuildDate>
     <item>
       <title>NASA天文衛星「TESS」が想定外の「重力マイクロレンズ法」で惑星を初発見　約1.4万光年先</title>
       <link>https://sorae.info/astronomy/20260712-tess-micro-lensing.html</link>
@@ -51,6 +44,20 @@
       <pubDate>Sat, 11 Jul 2026 00:55:58 +0000</pubDate>
     </item>
     <item>
+      <title>ロシアが宇宙船「ソユーズMS-29」を打ち上げ　約3時間後にISSへ到着</title>
+      <link>https://sorae.info/ssn/20260715-soyuz-ms-29.html</link>
+      <description>ロシアの国営宇宙企業Roscosmos（ロスコスモス）は、日本時間2026年7月14日に「Soyuz（ソユーズ）2.1a」ロケットの打ち上げを実施しました。搭載されていた宇宙船「Soyuz（ソユーズ）MS-29」は無事に… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260715-soyuz-ms-29.html</guid>
+      <pubDate>Wed, 15 Jul 2026 07:37:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>JAXAが「イプシロンS」ロケット新2段目の地上燃焼試験を7月23日にも実施へ</title>
+      <link>https://sorae.info/space/20260715-epsilon-s.html</link>
+      <description>JAXA（宇宙航空研究開発機構）は2026年7月14日に記者説明会を開催し、開発中の「イプシロンS」ロケットに関する最新の状況を報告しました。日本の基幹ロケットとして早期の打ち上げを実現するべく導入した新しい第2段モータ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260715-epsilon-s.html</guid>
+      <pubDate>Wed, 15 Jul 2026 01:09:18 +0000</pubDate>
+    </item>
+    <item>
       <title>「テンポの良い地上局展開と実用できる衛星コンステレーションの構築を」インフォステラとSSC Spaceが提携し、セーレンの小型衛星「FUSION-1」向けに地上局サービスを提供【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/46533/</link>
       <description>インフォステラ、SSC Space（スウェーデン宇宙公社）、セーレンの3社は、セーレンの小型衛星ミッション「FUSION-1」向けに衛星通信サービスの提供を開始したことを発表しました。記者会見で語られた両社の提携に関する期待と今後の展望を紹介します。 (source: 宙畑)</description>
@@ -63,13 +70,6 @@
       <description>現在の地球の周りには全地球的な通信を目的とした、それぞれが数千機以上の衛星から成る「衛星コンステレーション」を構成する衛星が多数存在します。SpaceX社の「スターリンク（Starlink）」は特に有名ですが、他の企業や… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260712-satellite-launch-pollution.html</guid>
       <pubDate>Sun, 12 Jul 2026 12:54:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>「私たちの世代が宇宙技術を社会インフラにする」衛星データ・保険・スペースポート・コンサル、若手4人が語る宇宙産業で働く理由とキャリアの可能性</title>
-      <link>https://sorabatake.jp/46245/</link>
-      <description>宇宙業界で働く人は何を思い、具体的にどのような仕事をしているのか。異なる立場から宇宙業界に関わる若手4名に、この業界に入った経緯、日々の仕事の中身、そしてこれから描くキャリアについてたっぷりとお話を伺いました。【PR】 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46245/</guid>
-      <pubDate>Mon, 22 Jun 2026 23:01:09 +0000</pubDate>
     </item>
     <item>
       <title>欧州が自ら管理できる衛星インテリジェンス基盤を共同構築へ。VantorとRheinmetallが覚書を締結【宇宙ビジネスニュース】</title>

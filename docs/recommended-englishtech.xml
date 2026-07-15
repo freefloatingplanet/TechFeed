@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Jul 2026 08:13:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 08:20:35 +0000</lastBuildDate>
     <item>
-      <title>GitHub Copilot CLIにタブ機能と設定ファイル不要のツール設定機能が、再設計されたターミナルUIに追加されました。</title>
-      <link>https://www.infoq.com/news/2026/07/copilot-cli-terminal-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>GitHubは、再設計されたGitHub Copilot CLIターミナルインターフェースを一般公開しました。セッション、gist、イシュー、プルリクエスト用のタブレイアウト、MCPサーバー、スキル、プラグインのセッション内フォーム駆動型セットアップ（設定ファイルの手動編集を不要）、スクリーンリーダー対応のよりクリーンでテーマ対応のアクセシビリティの高いUIが追加されています。 マーク・シルベスター (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/07/copilot-cli-terminal-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 10 Jul 2026 10:00:00 +0000</pubDate>
+      <title>記事：AIスピードでの理解：進化型アーキテクチャのためのコンテキストストアの構築</title>
+      <link>https://www.infoq.com/articles/ai-speed-context-store-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>AIは開発の最初の80%を高速に感じさせるが、アーキテクチャの複雑さは手遅れになるまで隠蔽される。システムの不安定性を防ぐには、エンジニアリングリーダーは生のスループットからシステム全体の理解へと移行する必要がある。仕様に基づいたSDD、TDD、および自動化された適合性機能をリポジトリに紐づいた「コンテキストストア」に統合することで、チームはAIエージェントと人間のレビュー担当者が安全にコードを進化させることができる。執筆者：Stella Berhe、Stephan Bragner、Vikram Maran、Anand Jayaraman (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/ai-speed-context-store-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

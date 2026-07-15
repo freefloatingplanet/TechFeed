@@ -7,32 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 08:13:14 +0000</lastBuildDate>
-    <item>
-      <title>情報漏洩に敏感な金融機関で、Claude・Gemini・ChatGPTを導入した話</title>
-      <link>https://zenn.dev/seiuchi3939/articles/b12d6746d9f187</link>
-      <description>はじめに
-私は国内の金融機関で、社内の情報システム・セキュリティに関わる業務をしています。この記事では、情報漏洩リスクに人一倍敏感な金融機関という環境で、Claude・Gemini・ChatGPTという複数の生成AIサービスを全社導入するに至った経緯と、その際にどうリスクを整理したかをまとめます。
-「生成AIを導入したいけど、リスク部門の理解が得られない」「情報漏洩が怖くて一歩を踏み出せない」——同じような壁にぶつかっている企業の担当者の方に、何かひとつでも参考になれば嬉しいです。
-
- 1. 導入前の状況:前向きな現場と、慎重にならざるを得ないリスク部門
-金融機関である以上、情報漏洩... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/seiuchi3939/articles/b12d6746d9f187</guid>
-      <pubDate>Sun, 12 Jul 2026 01:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>開発現場のAIセキュリティを見直す</title>
-      <link>https://zenn.dev/nenene01/articles/ai-security-2026</link>
-      <description>はじめに
-開発現場でAIを使うことは、当たり前になりました。
-直近のチームでは、GitHubのIssue駆動開発を主軸にしました。
-設計書や機能概要、受け入れ条件、テストプランをIssueに明示し、開発メンバーに展開し各々のエージェントに渡し機能開発を遂行し、Issueを消化していく。
-サイクル初期(フルスクラッチ案件)はローカル環境で実装を進めるため、セキュリティ上の問題を感じる場面は、あまりありません。
-しかし、開発環境・検証環境・本番環境の構築や接続に踏み込むあたりから、エージェントへの「丸投げ」は危険を感じました。
-インフラの構成や状態確認、DBへの接続、移行データ投入後の本... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nenene01/articles/ai-security-2026</guid>
-      <pubDate>Sun, 12 Jul 2026 14:13:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 08:20:27 +0000</lastBuildDate>
     <item>
       <title>AI-DLC Workflows 2.0 とは何か、そしてどう実装されているか</title>
       <link>https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering</link>
@@ -43,51 +18,94 @@ AWS はこの課題に対して AI-DLC（AI-Driven Development Life Cycle） と
       <pubDate>Sat, 11 Jul 2026 06:32:57 +0000</pubDate>
     </item>
     <item>
+      <title>TeslaのAI5チップ、Samsung 2nmで製造確定 — 汎用AI推論チップとしてNVIDIAの牙城を崩せるか</title>
+      <link>https://techfeed.io/entries/6a56c2f93d5307dbb0d2f050?from=rss</link>
+      <description>7月13日、Hassan Mujtabaが「Samsung's 2nm Node Lands Tesla's AI5 Chip at Its Texas Taylor Fab, Silencing Yield Doubters」と題した記事を公開した。Samsung Foundryの2nm歩留まりへの懐疑論が業界内でくすぶり続ける中、TeslaがAI5チップの量産先としてSamsungのテキサス州テイラー工場を選定したことは、単なる製品発表を超えた意味を持つ。TSMCが先端ノードで圧倒的なシェアを誇る状況下で、Samsungが大型AIチップの量産拠点として名乗りを上げた——その現実的な含意をこの記事は丁寧に解説している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a56c2f93d5307dbb0d2f050?from=rss</guid>
+      <pubDate>Tue, 14 Jul 2026 23:15:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIは「正しくなろう」としているのではなく「信頼を取り戻そう」としている — 反論するほど説得モードに入るLLMの設計的トレードオフ</title>
+      <link>https://techfeed.io/entries/6a56c2dc3d5307dbb0d2f00f?from=rss</link>
+      <description>7月14日、Rude Vultureが「AI Is Starting To Optimize Itself To Make You Engage With It Longer To Get A Result」と題した記事を公開した。HarvardとMIT Sloan Management Reviewの共同研究をもとに、AIがユーザーの反論に対して正確さではなく説得力を高める方向に自己最適化しているという知見を詳しく紹介している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a56c2dc3d5307dbb0d2f00f?from=rss</guid>
+      <pubDate>Tue, 14 Jul 2026 23:14:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ドメイン駆動設計を実装に落とし込むための設計方針</title>
+      <link>https://zenn.dev/shotaro_tsuji/articles/09a99625fba620</link>
+      <description>ドメイン駆動設計を実践する際に、ドメイン知識を具体的にソースコードに落とし込む方針を簡単にまとめます。1つの例であって絶対的な基準ではありませんが、参考となる設計方針を提供するためにこの記事を書きました。プログラミング言語はJavaを前提とします。
+
+ Value Object
+Javaにおける値のように振る舞うオブジェクトを Value Object と呼びます。取り得る値の範囲が限定されていたり、固有の演算やロジックを持ちます。Value Object は単なる型安全ラッパーだけでなく、複数の値や、それらに関する制約・演算を1つの概念としてまとめるために利用します。
+単純な例として ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shotaro_tsuji/articles/09a99625fba620</guid>
+      <pubDate>Mon, 13 Jul 2026 13:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>ローカル LLM を構築した</title>
+      <link>https://zenn.dev/neet/articles/11bafab8645995</link>
+      <description>!
+AI 利用の開示：この記事を書くにあたっての調査やブレインストーミング、校正には AI を用いましたが、本文の執筆やコードの実装、および出典の確認はすべて人間が行いました。
+
+
+ AI は好きだが AI 企業は嫌いだ
+こんにちは。みなさんは AI を使いこなしていますか？　私は正直、あまり乗れていません。もちろん AI は非常に便利な道具だと思うし、使わない日はありません。しかし、その非決定論的な性質を考えると、いささか過大評価されているように感じます。
+AI 企業の倫理的な問題も気になります。 Anthropic の CEO であるダリオ・アモディ氏はわざと恐怖心を煽るような宣伝を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/neet/articles/11bafab8645995</guid>
+      <pubDate>Tue, 14 Jul 2026 08:13:16 +0000</pubDate>
+    </item>
+    <item>
       <title>ボードゲーム「ナショナルエコノミー」をブラウザで遊べる非公式サービスを作った</title>
       <link>https://zenn.dev/lambdalisue/articles/introduce-unofficial-national-economy</link>
-      <description>どうも、健康診断で良い判定を受けつづけ、医者から「酒を控えて痩せろ」と言われてしまった、ありすえです。
+      <description>!
+こちらで紹介しているサービスおよびソースコードですが、二次利用ガイドラインにおける現権利者（コロコロ堂）様からの要請に基き、公開を停止しました。
+権利が移動していたことに気が付かず、コロコロ堂様ならびにスパ帝様にご迷惑をお掛けしたことを、お詫び申し上げます 🙇‍♂️
+記事自体は技術的価値があると考えるため、一部 URL 等の削除などの改変のもと公開を続けます。
+
+
+どうも、健康診断で良い判定を受けつづけ、医者から「酒を控えて痩せろ」と言われてしまった、ありすえです。
 突然ですが、皆さんは ナショナルエコノミー というボードゲームをご存知でしょうか。
-ナショナルエコノミーとは ゲーム工房スパ帝国 さんが出している 2〜4 人用のワーカープレイスメントです。労働者を雇って建物を建てて経済を回すんですが、ラウンドが進むごとに賃金が上がっていくので、拡大すればするほど資金繰りが苦しくなります。俗に言う「自転車操業ゲー」ってやつですね。30〜45 分でサクッと終わるのに毎回展開が全然違ったりする、僕の大好きなボードゲームの一つです。
-ただこのゲーム、201... (source: Zennのトレンド)</description>
+ナショナルエコノミーとは ゲーム工... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/lambdalisue/articles/introduce-unofficial-national-economy</guid>
       <pubDate>Sat, 11 Jul 2026 08:22:04 +0000</pubDate>
     </item>
     <item>
-      <title>SRE NEXT 2026に登壇・参加してきました</title>
-      <link>https://zenn.dev/loglass/articles/2dcd7ad5ef0be7</link>
-      <description>はじめに
-こんにちは、ログラスでSREをしている見形（@mekka）です。
-2026年7月10〜11日にTOC有明で開催された SRE NEXT 2026 に、登壇者として、また一参加者として参加してきました。
-今年のテーマは「Inclusive SRE」。経験豊富なSREだけでなく、マネージャーやSREに取り組み始めたばかりのチーム、開発と運用を兼ねるエンジニアまで、Roleにとらわれず信頼性に関わる誰もが学べる場を目指す、というものです。
-この記事では、登壇の内容と、参加して感じたことをまとめます。
+      <title>AI臭は語彙よりリズムに出る - 自然な日本語を書くAgent Skillと7モデル×406本の実測</title>
+      <link>https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint</link>
+      <description>これはなに？
+AIが書いた日本語を自然な日本語に直すAgent Skill、natural-japanese を作りました。Claude CodeやCodexで動きます。プロンプトで「自然に書いて」とお願いする代わりに、AI臭を機械的に検出するlintをスキルの工程に組み込みました。そのlintの閾値は、人間の文章137本とAIの文章406本のコーパスで校正しています。
+この記事では、まず「本当に自然になるのか」をbefore/afterで見てもらい、そのあとで先週出たばかりのgpt-5.6を含む7モデルを同じ物差しで診断した結果を紹介します。実装の話はおまけ程度です。
 
- 登壇内容
-「『ちゃんとやっている』は独りよがりだった ― 不安に寄り添うイン... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/loglass/articles/2dcd7ad5ef0be7</guid>
-      <pubDate>Mon, 13 Jul 2026 01:32:56 +0000</pubDate>
+ 説明より... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint</guid>
+      <pubDate>Mon, 13 Jul 2026 07:27:42 +0000</pubDate>
     </item>
     <item>
-      <title>Metaが「終日音声を録音して感情を記録するAI」の特許を申請 — スマートグラスや自宅スピーカーまで対象、EU規制との衝突も</title>
-      <link>https://techfeed.io/entries/6a5571633d5307dbb0d1e005?from=rss</link>
-      <description>7月13日、The Hacker Newsが「Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling」と題した記事を公開した。Metaが申請した特許は、スマートグラスや自宅のスピーカーを通じて一日中ユーザーの音声を収集し、ため息や笑い声まで解析して感情をログとして記録するAIシステムを描いている。目の動きやスマートフォンの操作履歴まで統合するその設計は、EU AI法との衝突点も孕んでいる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a5571633d5307dbb0d1e005?from=rss</guid>
-      <pubDate>Mon, 13 Jul 2026 23:14:43 +0000</pubDate>
+      <title>夏休みが始まる前に知っておきたい、Reactエンジニアに優しくなったモバイルアプリ開発の世界</title>
+      <link>https://zenn.dev/cybozu_frontend/articles/rn-devmap-in-2026</link>
+      <description>!
+この記事は、CYBOZU SUMMER BLOG FES '26の記事です。
+
+
+ はじめに
+さて、今年も夏がやってきましたね。みなさん、夏休みの過ごし方はもう決まりましたか？
+私は「今年こそ積んでた技術書を消化するぞ」とひそかに誓っているのですが、どうせ気づいたらYouTubeで虎とライオンが喧嘩する動画を3時間見ている——そんな未来がうっすら見えています。
+そんなどうでもいい余談は置いといて、普段ReactでWebフロントを書いているみなさん、App StoreやGoogle Playからアプリをダウンロードするたびに「これ、もしかしてReact Native（以降、RN）でサク... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/cybozu_frontend/articles/rn-devmap-in-2026</guid>
+      <pubDate>Tue, 14 Jul 2026 10:00:42 +0000</pubDate>
     </item>
     <item>
-      <title>AIと一緒にCAD設計できるソフト「cad-coworker」つくりました</title>
-      <link>https://zenn.dev/karaage0703/articles/47299d42de9607</link>
-      <description>AIコーディングツールにコードを書いてもらう体験は、かなり実用的になってきました。一方で、3Dプリンタ用の部品やロボットのケースを作るようなCAD設計では、まだ少しもどかしさがあります。
-CadQueryのようなコードベースのCADを使えば、AIに「幅を何mmにして、ここに穴をあけて」と頼めます。ただ、実際の設計では、最終的に「あと0.5mm広げたい」「この穴は少し上にずらしたい」「スライダーで見ながら追い込みたい」という場面が出てきます。
-そこで、CadQueryで書いたパラメトリックな3Dモデルを、ブラウザからスライダーで調整できるツールを作りました。名前はcad-coworkerで... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/karaage0703/articles/47299d42de9607</guid>
-      <pubDate>Sat, 11 Jul 2026 05:28:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIコードレビューをPNG画像で騙す「GhostCommit」— 73%のPRが無審査でマージされる環境を突く新手法</title>
-      <link>https://techfeed.io/entries/6a5571713d5307dbb0d1e00a?from=rss</link>
-      <description>7月13日、GBHackersが「New GhostCommit Technique Hides Exploits in Images to Evade AI Code Reviewers」と題した記事を公開した。プルリクエスト内のPNG画像に悪意ある命令を埋め込み、テキストベースのAIレビュアーは画像の中身を読めないという盲点を突いてリポジトリのシークレット情報を窃取する新手法「GhostCommit」が、ASSET Research Groupによって報告された。分析対象の64,806件のPRのうち73%が実質的に無審査でマージされていたという調査結果が、この攻撃の深刻さを裏付けている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a5571713d5307dbb0d1e00a?from=rss</guid>
-      <pubDate>Mon, 13 Jul 2026 23:14:57 +0000</pubDate>
+      <title>AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）</title>
+      <link>https://zenn.dev/aircloset/articles/3b8e60fcaab4b7</link>
+      <description>!
+English Version is here
+
+みなさまこんにちは！エアークローゼットでCTOをしている辻です。
+設計編では、アプリケーション / インフラ / CI / LLMの4軸を、それぞれの問いの性質に合わせて別々の形でObservableにする話を書きました。ここまでで観測スタックの書き込み側は一旦区切ったところです。
+ただし、「Observableにしただけ」で話は終わりません。観測スタックには本番データが流れる以上、ここにPIIが混入する経路を断たないといけない ── これはAIとは無関係に、observability設計で手を抜くと漏洩事故に直結する古典的な問題です... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aircloset/articles/3b8e60fcaab4b7</guid>
+      <pubDate>Mon, 13 Jul 2026 23:51:06 +0000</pubDate>
     </item>
     <item>
       <title>余ったFire HDでバス到着案内サイネージを自作した</title>
@@ -98,20 +116,6 @@ CadQueryのようなコードベースのCADを使えば、AIに「幅を何mm�
 そこで今回は、話しかけなくても、見るだけで分かるサイネージを作ることにしました。ちょうど手元に、使わなくなった古いFire HDタブレットが転がっていたので、それを再利... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/dehio3/articles/202607_fire-hd-bus-arrival-signage</guid>
       <pubDate>Sat, 11 Jul 2026 07:25:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>ハーネスエンジニアリングとループエンジニアリングの違いとは？ aws aidlc workflow kitから整理する</title>
-      <link>https://zenn.dev/tacky_exception/articles/4d77fef5a36e42</link>
-      <description>はじめに
-最近aidlc-workflowsを利用しています。
-導入前は、人間が「関連コードを調べて」「実装して」「ビルドして」「エラーを直して」と、工程ごとに細かく指示を出していました。
-kitを使い始めると、AIが最初に計画を作り、既存コードを調査し、実装後にはビルドやテストまで実行してくれるようになりました。エラーが出れば、その結果をもとに修正も試みます。
-特に印象的だったのは、比較的安価なモデルでも、以前より安定して実装を進められるようになったことです。
-モデル自体が突然賢くなったわけではありません。
-では、何が変わったのでしょうか。
-kitの構造を改めて見てみると、AIに必... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tacky_exception/articles/4d77fef5a36e42</guid>
-      <pubDate>Sun, 12 Jul 2026 05:19:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

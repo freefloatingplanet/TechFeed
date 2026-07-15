@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Jul 2026 08:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 08:20:34 +0000</lastBuildDate>
     <item>
-      <title>拡散係数の直接測定：無衝突プラズマにおける拡散確率加熱の証拠</title>
-      <link>https://arxiv.org/abs/2607.11880v1</link>
-      <description>衝突のないプラズマ散逸に関する未解決の問題は、さまざまな天体物理環境での宇宙ベースの観測を使用して解決することができ、天体物理プラズマシステムと実験室プラズマシステムの両方に影響を与えます。パーカー太陽探査機 (PSP) によって観測された低 $β$、非常に不均衡なサブアルフベンストリームを研究し、平行イオンサイクロトロン波 (ICW) による確率的加熱 (SH) と共鳴加熱 (RH) のシグネチャを特定して区別します。このストリームを研究した以前の研究 (Bowen et al., 2025) では、間欠性を考慮した SH 率は局所エネルギー伝達 (LET) 率の振幅と一致しましたが、RH 率は一致しませんでした。この比較は、拡散プロセスの性質と LET 率の計算に関するいくつかの仮定に依存していました。本稿では、PSPのイオン静電アナライザー（SPANi）から得られる3次元陽子速度分布関数（VDF）を用いて、陽子誘導中心方程式を逆算する新しい手法を導入し、速度空間拡散係数を経験的に測定する。測定された拡散係数を用いて位相空間加熱率を決定し、先行研究で行われた仮定に依存しない完全な運 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.11880v1</guid>
-      <pubDate>Mon, 13 Jul 2026 17:58:21 +0000</pubDate>
+      <title>第11回ABAWチャレンジにおけるHSEmotionチーム：マルチタスク学習と両価性／ためらいのビデオ認識</title>
+      <link>https://arxiv.org/abs/2607.12774v1</link>
+      <description>この記事では、第 11 回実地感情行動分析 (ABAW) コンペティションの結果を紹介します。s-Aff-Wild2 データセットで、感情価、覚醒度、表情、およびアクション ユニットを同時に予測するマルチタスク学習では、独立したヘッドと体系的な後処理 (時間的ガウス平滑化、クラスごとの表情バイアス、AffectNet ブレンディング、AU ごとの閾値調整、および重み付きバックボーン融合) を備えた、フリーズされた軽量顔抽出器 MT-EmotiDDAMFN および MT-EmotiEffNet-B0 を使用します。公式検証セットでは、アンサンブルは ConvNeXt ベースラインのパフォーマンスを大幅に上回ります。拡張された BAH データセットでの両価性/ためらいのビデオ認識では、顔、HuBERT 音声、および RoBERTa テキスト分類器の後期融合、時間的集約、およびグローバル テキスト ゲートにより、オーディオビジュアル パイプラインをビデオ レベルの Macro F1 に拡張します。検証セットにおけるフレームレベルの加重F1スコアは、ABAW-8の0.74から0.79に上昇し、 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.12774v1</guid>
+      <pubDate>Tue, 14 Jul 2026 13:45:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
