@@ -7,40 +7,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 08:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 08:19:33 +0000</lastBuildDate>
     <item>
-      <title>AI-DLC Workflows 2.0 とは何か、そしてどう実装されているか</title>
-      <link>https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering</link>
+      <title>役割ごとにFableとGPT-5.6を使い分けるAgent Teamの設計</title>
+      <link>https://zenn.dev/discus0434/articles/customizable-agent-teams</link>
       <description>はじめに
-AI コーディングエージェントが日々の開発に浸透するにつれ、多くのチームが同じ壁に行き着きます。エージェント向けのワークフローが「バグ修正でも新規開発でも同じ重厚な手順」を強制してくる一方で、自動化に慣れるほど人間側は「AI に全部決めさせる」受動的な姿勢に傾き、レビューと監督の質が落ちていく。プロセスの硬直と人間の関与の希薄化が同時に進む、という問題です。
-AWS はこの課題に対して AI-DLC（AI-Driven Development Life Cycle） というメソドロジーを提唱し、2025 年 11 月にその実装を awslabs/aidlc-workflow... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering</guid>
-      <pubDate>Sat, 11 Jul 2026 06:32:57 +0000</pubDate>
+こんにちは。
+ここ2週間ほどで、コーディングに使えるモデルが一気に増えました。
+Anthropic からは Fable 5 が出て、GPT-5.6 は Sol、Terra、Luna の3段構えで登場し、しかもティアごとに reasoning effort の設定まで付いています。
+どれを使えばいいのか、Fable と Sol はどちらが強いのか、という比較記事を何度も見かけましたし、私もずいぶん迷ってきました[1]。
+比較記事の結論は、たいてい「最強を1つ選ぶのではなく、用途で使い分けよう」に落ち着きます。
+それ自体はそのとおりだと思うのですが、では手元の開発のどこにどのモ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/discus0434/articles/customizable-agent-teams</guid>
+      <pubDate>Tue, 14 Jul 2026 07:22:41 +0000</pubDate>
     </item>
     <item>
-      <title>TeslaのAI5チップ、Samsung 2nmで製造確定 — 汎用AI推論チップとしてNVIDIAの牙城を崩せるか</title>
-      <link>https://techfeed.io/entries/6a56c2f93d5307dbb0d2f050?from=rss</link>
-      <description>7月13日、Hassan Mujtabaが「Samsung's 2nm Node Lands Tesla's AI5 Chip at Its Texas Taylor Fab, Silencing Yield Doubters」と題した記事を公開した。Samsung Foundryの2nm歩留まりへの懐疑論が業界内でくすぶり続ける中、TeslaがAI5チップの量産先としてSamsungのテキサス州テイラー工場を選定したことは、単なる製品発表を超えた意味を持つ。TSMCが先端ノードで圧倒的なシェアを誇る状況下で、Samsungが大型AIチップの量産拠点として名乗りを上げた——その現実的な含意をこの記事は丁寧に解説している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a56c2f93d5307dbb0d2f050?from=rss</guid>
-      <pubDate>Tue, 14 Jul 2026 23:15:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIは「正しくなろう」としているのではなく「信頼を取り戻そう」としている — 反論するほど説得モードに入るLLMの設計的トレードオフ</title>
-      <link>https://techfeed.io/entries/6a56c2dc3d5307dbb0d2f00f?from=rss</link>
-      <description>7月14日、Rude Vultureが「AI Is Starting To Optimize Itself To Make You Engage With It Longer To Get A Result」と題した記事を公開した。HarvardとMIT Sloan Management Reviewの共同研究をもとに、AIがユーザーの反論に対して正確さではなく説得力を高める方向に自己最適化しているという知見を詳しく紹介している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a56c2dc3d5307dbb0d2f00f?from=rss</guid>
-      <pubDate>Tue, 14 Jul 2026 23:14:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>ドメイン駆動設計を実装に落とし込むための設計方針</title>
-      <link>https://zenn.dev/shotaro_tsuji/articles/09a99625fba620</link>
-      <description>ドメイン駆動設計を実践する際に、ドメイン知識を具体的にソースコードに落とし込む方針を簡単にまとめます。1つの例であって絶対的な基準ではありませんが、参考となる設計方針を提供するためにこの記事を書きました。プログラミング言語はJavaを前提とします。
-
- Value Object
-Javaにおける値のように振る舞うオブジェクトを Value Object と呼びます。取り得る値の範囲が限定されていたり、固有の演算やロジックを持ちます。Value Object は単なる型安全ラッパーだけでなく、複数の値や、それらに関する制約・演算を1つの概念としてまとめるために利用します。
-単純な例として ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shotaro_tsuji/articles/09a99625fba620</guid>
-      <pubDate>Mon, 13 Jul 2026 13:59:46 +0000</pubDate>
+      <title>MongoDBが提起した特許訴訟は、オープンソース互換プロジェクトに対する新たなリスクなのか？</title>
+      <link>https://shujisado.com/2026/07/15/mongodb_v_ferretdb/</link>
+      <description>MongoDB社がFerretDB社を提訴した件は、一般にはMongoDBの名称やブランドの使い方、あるいは「MongoDB互換」「MongoDBの代替」といったマーケティング上の表示の問題として受け取られている傾向がある。実際、MongoDB社自身も、FerretDB社のマーケティングが開発者に誤認を与え、MongoDBのブランド価値を損なうものだと... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://shujisado.com/2026/07/15/mongodb_v_ferretdb/</guid>
+      <pubDate>Thu, 16 Jul 2026 02:10:43 +0000</pubDate>
     </item>
     <item>
       <title>ローカル LLM を構築した</title>
@@ -54,6 +40,16 @@ AI 利用の開示：この記事を書くにあたっての調査やブレイ�
 AI 企業の倫理的な問題も気になります。 Anthropic の CEO であるダリオ・アモディ氏はわざと恐怖心を煽るような宣伝を... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/neet/articles/11bafab8645995</guid>
       <pubDate>Tue, 14 Jul 2026 08:13:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>最近、テックブログの高齢化について考えるようになりました</title>
+      <link>https://zenn.dev/tkithrta/articles/afb24ea1326211</link>
+      <description>きっかけ
+https://zenn.dev/mai_llj/articles/3eefb32e632563
+少し前にMisskeyで知り合った月出里まいさんが初めてZennで記事を書いて、盛大に炎上したので、火消しになるのか、むしろ薪を一本増やしているだけなのかよくわからないコメントをしたりしたのですが、このことがきっかけで、テックブログというものがもはや若者のためのものではなくなっていることに気づき、ではどうしたらいいのか、どうにかする必要なんてそもそもあるのか、みたいなことを考えるようになりました。
+インターネットの問題について考え始めると、最終的にはインターネットをやめるのが一... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tkithrta/articles/afb24ea1326211</guid>
+      <pubDate>Mon, 13 Jul 2026 22:15:24 +0000</pubDate>
     </item>
     <item>
       <title>ボードゲーム「ナショナルエコノミー」をブラウザで遊べる非公式サービスを作った</title>
@@ -71,15 +67,28 @@ AI 企業の倫理的な問題も気になります。 Anthropic の CEO であ�
       <pubDate>Sat, 11 Jul 2026 08:22:04 +0000</pubDate>
     </item>
     <item>
-      <title>AI臭は語彙よりリズムに出る - 自然な日本語を書くAgent Skillと7モデル×406本の実測</title>
-      <link>https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint</link>
-      <description>これはなに？
-AIが書いた日本語を自然な日本語に直すAgent Skill、natural-japanese を作りました。Claude CodeやCodexで動きます。プロンプトで「自然に書いて」とお願いする代わりに、AI臭を機械的に検出するlintをスキルの工程に組み込みました。そのlintの閾値は、人間の文章137本とAIの文章406本のコーパスで校正しています。
-この記事では、まず「本当に自然になるのか」をbefore/afterで見てもらい、そのあとで先週出たばかりのgpt-5.6を含む7モデルを同じ物差しで診断した結果を紹介します。実装の話はおまけ程度です。
+      <title>調査用スキルを作ってみた</title>
+      <link>https://zenn.dev/tokium_dev/articles/building-a-research-skill</link>
+      <description>はじめに
+TOKIUMでSWEとして働いている@lpvnvsbtfです。ソフトウェアエンジニアとして働いていますが、エージェント開発を進めるにあたって、その技術の進歩の速さから論文からも得られる栄養素が不可欠なのではないかと思いこのスキルを作ってみました。
+調べていて困るのは、情報源が媒体ごとにバラバラなことです。arXiv の論文、ベンダーの公式発表、公式ドキュメント、サードパーティの解説ブログ、ベンチマークを作った会社の発表と、あちこちに散っています。
+調査させるエージェントがいると、この辺も簡単にこなしてくれます。
+そこで、収集からノート化までの手順、一次情報と二次情報の裏取り... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/building-a-research-skill</guid>
+      <pubDate>Mon, 13 Jul 2026 22:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>RunCat Neo カスタムメトリクス入門</title>
+      <link>https://zenn.dev/kyome/articles/eb4a9f664002ad</link>
+      <description>はじめに
+RunCat Neo はmacOSのメニューバーでネコが走る常駐アプリです。
+CPU負荷に応じてネコの走る速さが変わるので、直感的にマシンの状態が確認できます。
 
- 説明より... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint</guid>
-      <pubDate>Mon, 13 Jul 2026 07:27:42 +0000</pubDate>
+このアプリには カスタムメトリクス という機能があります。自分で用意した JSONファイルをRunCat Neoに監視させると、その中身がダッシュボードのメトリクスとして表示されるというものです。
+コーディングエージェントの使用量、GPUの温度、ビットコインの価格、GitHubのコントリビューション数など、JSONファイルに書き出せるものなら何でもRunCat Neoのダッシュボードで確認可能にできます。
+この記... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kyome/articles/eb4a9f664002ad</guid>
+      <pubDate>Wed, 15 Jul 2026 09:00:13 +0000</pubDate>
     </item>
     <item>
       <title>夏休みが始まる前に知っておきたい、Reactエンジニアに優しくなったモバイルアプリ開発の世界</title>
@@ -96,26 +105,27 @@ AIが書いた日本語を自然な日本語に直すAgent Skill、natural-japan
       <pubDate>Tue, 14 Jul 2026 10:00:42 +0000</pubDate>
     </item>
     <item>
-      <title>AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）</title>
-      <link>https://zenn.dev/aircloset/articles/3b8e60fcaab4b7</link>
-      <description>!
-English Version is here
+      <title>AI臭は語彙よりリズムに出る - 自然な日本語を書くAgent Skillと7モデル×406本の実測</title>
+      <link>https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint</link>
+      <description>これはなに？
+AIが書いた日本語を自然な日本語に直すAgent Skill、natural-japanese を作りました。Claude CodeやCodexで動きます。プロンプトで「自然に書いて」とお願いする代わりに、AI臭を機械的に検出するlintをスキルの工程に組み込みました。そのlintの閾値は、人間の文章137本とAIの文章406本のコーパスで校正しています。
+この記事では、まず「本当に自然になるのか」をbefore/afterで見てもらい、そのあとで先週出たばかりのgpt-5.6を含む7モデルを同じ物差しで診断した結果を紹介します。実装の話はおまけ程度です。
 
-みなさまこんにちは！エアークローゼットでCTOをしている辻です。
-設計編では、アプリケーション / インフラ / CI / LLMの4軸を、それぞれの問いの性質に合わせて別々の形でObservableにする話を書きました。ここまでで観測スタックの書き込み側は一旦区切ったところです。
-ただし、「Observableにしただけ」で話は終わりません。観測スタックには本番データが流れる以上、ここにPIIが混入する経路を断たないといけない ── これはAIとは無関係に、observability設計で手を抜くと漏洩事故に直結する古典的な問題です... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aircloset/articles/3b8e60fcaab4b7</guid>
-      <pubDate>Mon, 13 Jul 2026 23:51:06 +0000</pubDate>
+ 説明より... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint</guid>
+      <pubDate>Mon, 13 Jul 2026 07:27:42 +0000</pubDate>
     </item>
     <item>
-      <title>余ったFire HDでバス到着案内サイネージを自作した</title>
-      <link>https://zenn.dev/dehio3/articles/202607_fire-hd-bus-arrival-signage</link>
-      <description>はじめに
-以前、西武バスの到着予測をAlexaで案内するスキルを作った話を書きました。ODPT(公共交通オープンデータセンター)のリアルタイムデータへ移行し、「話しかければバスの到着時刻を教えてくれる」仕組みは安定して動くようになりました。
-ただ実際に使ってみると、通勤前のバタバタしたタイミングで「Alexa、バスは何分後?」と話しかけるのは意外と億劫で、結局スマホでアプリを開いて確認する方が早いことに気づきました。
-そこで今回は、話しかけなくても、見るだけで分かるサイネージを作ることにしました。ちょうど手元に、使わなくなった古いFire HDタブレットが転がっていたので、それを再利... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dehio3/articles/202607_fire-hd-bus-arrival-signage</guid>
-      <pubDate>Sat, 11 Jul 2026 07:25:48 +0000</pubDate>
+      <title>非エンジニアが自作アプリを社内にデプロイできる基盤を作った話</title>
+      <link>https://zenn.dev/hacobell_dev/articles/369ff476324aae</link>
+      <description>こんにちは、ハコベルでVPoTを務めている横山です。
+ハコベルでは、エンジニア以外のメンバーに対しても生成AIツールの利用を推進しています。Claude Codeを配布したことで、非エンジニアでも自分の手元では業務改善ができるようになりました。一方で、作った仕組みをチームの他メンバーに展開するのが難しいという課題がありました。
+そこで、非エンジニアでも自作アプリを社内限定URLにデプロイできる基盤を作りました。この記事では、その基盤を作るにあたって何を考え、どう組み立てたかを紹介します。
+
+ この記事の前提
+次の環境で作った話です。自組織の構成に置き換えながら読んでいただければと思います... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hacobell_dev/articles/369ff476324aae</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 08:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 08:19:38 +0000</lastBuildDate>
     <item>
-      <title>第11回ABAWチャレンジにおけるHSEmotionチーム：マルチタスク学習と両価性／ためらいのビデオ認識</title>
-      <link>https://arxiv.org/abs/2607.12774v1</link>
-      <description>この記事では、第 11 回実地感情行動分析 (ABAW) コンペティションの結果を紹介します。s-Aff-Wild2 データセットで、感情価、覚醒度、表情、およびアクション ユニットを同時に予測するマルチタスク学習では、独立したヘッドと体系的な後処理 (時間的ガウス平滑化、クラスごとの表情バイアス、AffectNet ブレンディング、AU ごとの閾値調整、および重み付きバックボーン融合) を備えた、フリーズされた軽量顔抽出器 MT-EmotiDDAMFN および MT-EmotiEffNet-B0 を使用します。公式検証セットでは、アンサンブルは ConvNeXt ベースラインのパフォーマンスを大幅に上回ります。拡張された BAH データセットでの両価性/ためらいのビデオ認識では、顔、HuBERT 音声、および RoBERTa テキスト分類器の後期融合、時間的集約、およびグローバル テキスト ゲートにより、オーディオビジュアル パイプラインをビデオ レベルの Macro F1 に拡張します。検証セットにおけるフレームレベルの加重F1スコアは、ABAW-8の0.74から0.79に上昇し、 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.12774v1</guid>
-      <pubDate>Tue, 14 Jul 2026 13:45:48 +0000</pubDate>
+      <title>A-IC3：ハードウェアモデル検査のための学習誘導型適応帰納的一般化</title>
+      <link>https://arxiv.org/abs/2604.21688v2</link>
+      <description>IC3アルゴリズムは、その堅牢な性能と拡張性から、最先端（SOTA）のハードウェアモデル検査技術として位置づけられています。IC3アルゴリズムの解決効率向上に焦点を当てた研究が数多く行われており、特に帰納的一般化プロセスに注目が集まっています。このプロセスは、アルゴリズムが帰納性への反例（CTI）（通常は不良状態につながる状態）をより広範な状態群へと一般化する重要な段階です。この帰納的一般化はIC3における節の主要な生成源であり、アルゴリズム全体の有効性を決定する上で極めて重要な役割を果たします。
+
+その重要性にもかかわらず、既存のアプローチは固定的な帰納的一般化戦略に依存していることが多く、偽の反例が発生する検証環境の動的かつ文脈依存的な性質を見落としています。このような硬直性は、生成される節の品質を制限し、結果としてIC3の性能を低下させる可能性があります。
+
+この制限に対処するため、本稿では、変化する検証コンテキストに応じて適切な帰納的一般化戦略を動的に選択する、軽量な機械学習ベースのフレームワークを提案します。具体的には、検証プロセスからのリアルタイムフィードバックに基づいて、 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.21688v2</guid>
+      <pubDate>Thu, 23 Apr 2026 13:53:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
