@@ -7,17 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 16 Jul 2026 08:19:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 08:15:51 +0000</lastBuildDate>
     <item>
-      <title>A-IC3：ハードウェアモデル検査のための学習誘導型適応帰納的一般化</title>
-      <link>https://arxiv.org/abs/2604.21688v2</link>
-      <description>IC3アルゴリズムは、その堅牢な性能と拡張性から、最先端（SOTA）のハードウェアモデル検査技術として位置づけられています。IC3アルゴリズムの解決効率向上に焦点を当てた研究が数多く行われており、特に帰納的一般化プロセスに注目が集まっています。このプロセスは、アルゴリズムが帰納性への反例（CTI）（通常は不良状態につながる状態）をより広範な状態群へと一般化する重要な段階です。この帰納的一般化はIC3における節の主要な生成源であり、アルゴリズム全体の有効性を決定する上で極めて重要な役割を果たします。
-
-その重要性にもかかわらず、既存のアプローチは固定的な帰納的一般化戦略に依存していることが多く、偽の反例が発生する検証環境の動的かつ文脈依存的な性質を見落としています。このような硬直性は、生成される節の品質を制限し、結果としてIC3の性能を低下させる可能性があります。
-
-この制限に対処するため、本稿では、変化する検証コンテキストに応じて適切な帰納的一般化戦略を動的に選択する、軽量な機械学習ベースのフレームワークを提案します。具体的には、検証プロセスからのリアルタイムフィードバックに基づいて、 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.21688v2</guid>
-      <pubDate>Thu, 23 Apr 2026 13:53:06 +0000</pubDate>
+      <title>Swiftが新たなBAT-GLIMPSEを発表：ポインティングおよびスルーエポックにおけるイメージングおよびモザイク技術を用いたガンマ線位置特定</title>
+      <link>https://arxiv.org/abs/2607.15130v1</link>
+      <description>ニール・ゲーレルズ・スウィフト天文台に搭載されているバースト警報望遠鏡（BAT）は、ガンマ線トランジェントを分角精度で位置特定することができ、迅速な多波長追跡観測を可能にします。しかし、宇宙機の姿勢変更中はオンボードトリガーが無効になるため、この期間中に発生するトランジェントの自律的な検出と位置特定ができません。本稿では、Swift-BATデータにおけるトランジェントガンマ線源の低遅延位置特定のための、完全自律型のオープンソースパイプラインであるBAT-GLIMPSEを紹介します。BatAnalysisパッケージを利用するこのパイプラインは、コード化マスクイメージングとモザイク技術を組み合わせ、宇宙機の姿勢に応じて適切な解析を自動的に選択し、指向観測と宇宙機の姿勢変更の両方で位置特定検索を可能にします。GUANOサーキュラーで報告された66個のGRBサンプルを用いて、BAT-GLIMPSEの性能を検証します。このパイプラインは、43 イベントの分角位置を正常に復元し、公表されている位置と一致しており、典型的なオフセットは $\lesssim5$ 分角です。宇宙船の姿勢変更中に発生した  (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.15130v1</guid>
+      <pubDate>Thu, 16 Jul 2026 15:41:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,26 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 08:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 08:15:44 +0000</lastBuildDate>
     <item>
-      <title>役割ごとにFableとGPT-5.6を使い分けるAgent Teamの設計</title>
-      <link>https://zenn.dev/discus0434/articles/customizable-agent-teams</link>
+      <title>Claude Codeが化けた。今使っている3つのプラグイン+標準機能の活用法</title>
+      <link>https://zenn.dev/sonicmoov/articles/8712598f532b18</link>
       <description>はじめに
-こんにちは。
-ここ2週間ほどで、コーディングに使えるモデルが一気に増えました。
-Anthropic からは Fable 5 が出て、GPT-5.6 は Sol、Terra、Luna の3段構えで登場し、しかもティアごとに reasoning effort の設定まで付いています。
-どれを使えばいいのか、Fable と Sol はどちらが強いのか、という比較記事を何度も見かけましたし、私もずいぶん迷ってきました[1]。
-比較記事の結論は、たいてい「最強を1つ選ぶのではなく、用途で使い分けよう」に落ち着きます。
-それ自体はそのとおりだと思うのですが、では手元の開発のどこにどのモ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/discus0434/articles/customizable-agent-teams</guid>
-      <pubDate>Tue, 14 Jul 2026 07:22:41 +0000</pubDate>
+株式会社ソニックムーブでフロントエンドエンジニアとして働いているShoppingSharkです。
+ソニックムーブに入社して業務でAIを使い始めて3ヶ月ほど経ちました。昨今はループエンジニアリングが話題ですが、個人ではまだそのレイヤーまで進めておらず、日々の業務はバイブコーディングで回しています。
+この記事では、素の状態のClaude Codeから始めて、3ヶ月の間に取捨選択して残った3つのプラグインと標準機能の使い方を紹介します。
+知名度の高いツールが中心なので、次のような方に向けて書いています。
+
+Claudeを使い始めたばかりでほぼ素の状態
+業務中に5時間レートリミット... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sonicmoov/articles/8712598f532b18</guid>
+      <pubDate>Wed, 15 Jul 2026 09:00:13 +0000</pubDate>
     </item>
     <item>
-      <title>MongoDBが提起した特許訴訟は、オープンソース互換プロジェクトに対する新たなリスクなのか？</title>
-      <link>https://shujisado.com/2026/07/15/mongodb_v_ferretdb/</link>
-      <description>MongoDB社がFerretDB社を提訴した件は、一般にはMongoDBの名称やブランドの使い方、あるいは「MongoDB互換」「MongoDBの代替」といったマーケティング上の表示の問題として受け取られている傾向がある。実際、MongoDB社自身も、FerretDB社のマーケティングが開発者に誤認を与え、MongoDBのブランド価値を損なうものだと... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://shujisado.com/2026/07/15/mongodb_v_ferretdb/</guid>
-      <pubDate>Thu, 16 Jul 2026 02:10:43 +0000</pubDate>
+      <title>ClaudeにVBAを生成させてExcel自動化ツールを3つ作った実践レポート — プロンプト次第で「ワークブック丸ごと生成」まで動く</title>
+      <link>https://techfeed.io/entries/6a59653b3d5307dbb0d4aad3?from=rss</link>
+      <description>7月17日、How-To Geekが「I asked Claude to build 3 Excel automations」と題した記事を公開した。ClaudeにVBAコードを生成させてExcelの自動化を3種類試した実践レポートで、「数式を1つ教えてもらう」レベルではなく、ワークブック丸ごと生成や定期レポートの自動出力まで頼めるのかを実際に検証している。テスト1：ワークブックをまるごと生成する3本の中で最も読み応えがあるのがこのテストだ。プロンプト1つで「従業員オンボーディング用ワークブック」を生成させた。Claudeが出力したのはBASファイル（VBAモジュールをエクスポートしたファイル形式）だ。VBAとはExcelをはじめとするMicrosoft Office製品に内蔵されたプログラミング言語で、繰り返し作業や複雑な処理をマクロとして自動化できる。このBASファイルをマクロ有効ブック（.xlsm）にインポートしてマクロを実行すると、Excelが自動で以下をすべて構築した： (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a59653b3d5307dbb0d4aad3?from=rss</guid>
+      <pubDate>Thu, 16 Jul 2026 23:11:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIAが日本に2万7500基の最新GPUクラスターを構築 — トヨタ・キヤノン・富士フイルムを巻き込んだ「現実世界AI」戦略の全貌</title>
+      <link>https://techfeed.io/entries/6a5965093d5307dbb0d4aab2?from=rss</link>
+      <description>7月17日、StorageReviewが「NVIDIA and Japan Launch 27,500-GPU Vera Rubin AI Factory as Physical AI Push Spans Every Industry」と題した記事を公開した。NVIDIAが日本において2万7500基のVera Rubin GPUを擁する国家規模のAIファクトリーを構築し、製造・医療・自動車・ロボティクスにまたがる産業横断的な「フィジカルAI」戦略を一斉に展開していることが明らかになった。単一製品の投入ではなく、国家インフラからエッジデバイス・産業特化モデルまでを縦断する多層的な展開であり、日本が同社のフィジカルAI戦略における重要拠点として位置づけられていることが今回の発表から鮮明に読み取れる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a5965093d5307dbb0d4aab2?from=rss</guid>
+      <pubDate>Thu, 16 Jul 2026 23:11:05 +0000</pubDate>
     </item>
     <item>
       <title>ローカル LLM を構築した</title>
@@ -40,42 +48,6 @@ AI 利用の開示：この記事を書くにあたっての調査やブレイ�
 AI 企業の倫理的な問題も気になります。 Anthropic の CEO であるダリオ・アモディ氏はわざと恐怖心を煽るような宣伝を... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/neet/articles/11bafab8645995</guid>
       <pubDate>Tue, 14 Jul 2026 08:13:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>最近、テックブログの高齢化について考えるようになりました</title>
-      <link>https://zenn.dev/tkithrta/articles/afb24ea1326211</link>
-      <description>きっかけ
-https://zenn.dev/mai_llj/articles/3eefb32e632563
-少し前にMisskeyで知り合った月出里まいさんが初めてZennで記事を書いて、盛大に炎上したので、火消しになるのか、むしろ薪を一本増やしているだけなのかよくわからないコメントをしたりしたのですが、このことがきっかけで、テックブログというものがもはや若者のためのものではなくなっていることに気づき、ではどうしたらいいのか、どうにかする必要なんてそもそもあるのか、みたいなことを考えるようになりました。
-インターネットの問題について考え始めると、最終的にはインターネットをやめるのが一... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tkithrta/articles/afb24ea1326211</guid>
-      <pubDate>Mon, 13 Jul 2026 22:15:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>ボードゲーム「ナショナルエコノミー」をブラウザで遊べる非公式サービスを作った</title>
-      <link>https://zenn.dev/lambdalisue/articles/introduce-unofficial-national-economy</link>
-      <description>!
-こちらで紹介しているサービスおよびソースコードですが、二次利用ガイドラインにおける現権利者（コロコロ堂）様からの要請に基き、公開を停止しました。
-権利が移動していたことに気が付かず、コロコロ堂様ならびにスパ帝様にご迷惑をお掛けしたことを、お詫び申し上げます 🙇‍♂️
-記事自体は技術的価値があると考えるため、一部 URL 等の削除などの改変のもと公開を続けます。
-
-
-どうも、健康診断で良い判定を受けつづけ、医者から「酒を控えて痩せろ」と言われてしまった、ありすえです。
-突然ですが、皆さんは ナショナルエコノミー というボードゲームをご存知でしょうか。
-ナショナルエコノミーとは ゲーム工... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lambdalisue/articles/introduce-unofficial-national-economy</guid>
-      <pubDate>Sat, 11 Jul 2026 08:22:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>調査用スキルを作ってみた</title>
-      <link>https://zenn.dev/tokium_dev/articles/building-a-research-skill</link>
-      <description>はじめに
-TOKIUMでSWEとして働いている@lpvnvsbtfです。ソフトウェアエンジニアとして働いていますが、エージェント開発を進めるにあたって、その技術の進歩の速さから論文からも得られる栄養素が不可欠なのではないかと思いこのスキルを作ってみました。
-調べていて困るのは、情報源が媒体ごとにバラバラなことです。arXiv の論文、ベンダーの公式発表、公式ドキュメント、サードパーティの解説ブログ、ベンチマークを作った会社の発表と、あちこちに散っています。
-調査させるエージェントがいると、この辺も簡単にこなしてくれます。
-そこで、収集からノート化までの手順、一次情報と二次情報の裏取り... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/building-a-research-skill</guid>
-      <pubDate>Mon, 13 Jul 2026 22:00:16 +0000</pubDate>
     </item>
     <item>
       <title>RunCat Neo カスタムメトリクス入門</title>
@@ -126,6 +98,27 @@ AIが書いた日本語を自然な日本語に直すAgent Skill、natural-japan
 次の環境で作った話です。自組織の構成に置き換えながら読んでいただければと思います... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/hacobell_dev/articles/369ff476324aae</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>一人前のエンジニアなら、PRでコメントをもらうな。</title>
+      <link>https://zenn.dev/headwaters/articles/72c39ad735038d</link>
+      <description>前提
+これは、コードレビューの絶対的な正解や、チーム全体に強制すべきルールを示す記事ではありません。
+私がエンジニアとしてどうあるべきだと考えているか。他人の時間をどれだけ重く扱うべきだと考えているか。それを言語化した、個人の職業倫理です。
+本文に出てくる「お前」には、まず私自身が含まれていることをご認識おきください。自分だけを例外にして、他人を殴るための記事ではありません。
+私はこうありたいし、一人前を名乗る自分にはこの水準を要求する前提としてご高覧ください。
+
+ 一人前のエンジニアなら、PRでコメントをもらうな。
+コードの不備、考慮漏れ、テスト不足、調査不足、説明不足。AIに聞け... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/72c39ad735038d</guid>
+      <pubDate>Tue, 14 Jul 2026 13:17:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国がAIとの「疑似恋愛」を法規制へ — 少子化対策として異例のアプローチ、コンパニオンAIアプリは締め出されるか</title>
+      <link>https://techfeed.io/entries/6a5965483d5307dbb0d4aaf4?from=rss</link>
+      <description>7月16日、CBS Newsが「China bans AI chatbot relationships to combat declining birth rate」と題した記事を公開した。AIの安全性でもプライバシーでもなく、「少子化対策」としてAIとの恋愛関係を禁じるという、他国に前例のない規制の動きを報じている。AIが人間の社会行動・繁殖行動に与える影響を国家が管理しようとするこのアプローチは、コンパニオンAIの開発・運営に関わるエンジニアにとっても看過できない論点を提起している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a5965483d5307dbb0d4aaf4?from=rss</guid>
+      <pubDate>Thu, 16 Jul 2026 23:12:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
