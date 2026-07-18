@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 08:15:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 07:57:57 +0000</lastBuildDate>
     <item>
       <title>Claude Codeが化けた。今使っている3つのプラグイン+標準機能の活用法</title>
       <link>https://zenn.dev/sonicmoov/articles/8712598f532b18</link>
@@ -23,18 +23,25 @@ Claudeを使い始めたばかりでほぼ素の状態
       <pubDate>Wed, 15 Jul 2026 09:00:13 +0000</pubDate>
     </item>
     <item>
-      <title>ClaudeにVBAを生成させてExcel自動化ツールを3つ作った実践レポート — プロンプト次第で「ワークブック丸ごと生成」まで動く</title>
-      <link>https://techfeed.io/entries/6a59653b3d5307dbb0d4aad3?from=rss</link>
-      <description>7月17日、How-To Geekが「I asked Claude to build 3 Excel automations」と題した記事を公開した。ClaudeにVBAコードを生成させてExcelの自動化を3種類試した実践レポートで、「数式を1つ教えてもらう」レベルではなく、ワークブック丸ごと生成や定期レポートの自動出力まで頼めるのかを実際に検証している。テスト1：ワークブックをまるごと生成する3本の中で最も読み応えがあるのがこのテストだ。プロンプト1つで「従業員オンボーディング用ワークブック」を生成させた。Claudeが出力したのはBASファイル（VBAモジュールをエクスポートしたファイル形式）だ。VBAとはExcelをはじめとするMicrosoft Office製品に内蔵されたプログラミング言語で、繰り返し作業や複雑な処理をマクロとして自動化できる。このBASファイルをマクロ有効ブック（.xlsm）にインポートしてマクロを実行すると、Excelが自動で以下をすべて構築した： (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a59653b3d5307dbb0d4aad3?from=rss</guid>
-      <pubDate>Thu, 16 Jul 2026 23:11:55 +0000</pubDate>
+      <title>OpenTelemetryのConsistent Probability Samplingを理解する</title>
+      <link>https://zenn.dev/ymotongpoo/articles/20260717-cps</link>
+      <description>SRE NEXT 2026では「サンプリングは統計学である」というタイトルで、サンプリング率を決めるときには許容誤差から標本数を逆算する必要がある、という話をしました。
+
+このとき、トレースの一貫したサンプリングを支える仕組みとしてConsistent Probability Samplingに触れましたが、時間の都合でその中身までは踏み込みませんでした。この記事では、その部分を掘り下げて紹介します。
+
+ TraceIdRatioBasedの限界
+分散トレースのサンプリング率を下げたいとき、OpenTelemetryでまず候補に挙がるのは TraceIdRatioBased サンプラーで... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ymotongpoo/articles/20260717-cps</guid>
+      <pubDate>Fri, 17 Jul 2026 05:20:31 +0000</pubDate>
     </item>
     <item>
-      <title>NVIDIAが日本に2万7500基の最新GPUクラスターを構築 — トヨタ・キヤノン・富士フイルムを巻き込んだ「現実世界AI」戦略の全貌</title>
-      <link>https://techfeed.io/entries/6a5965093d5307dbb0d4aab2?from=rss</link>
-      <description>7月17日、StorageReviewが「NVIDIA and Japan Launch 27,500-GPU Vera Rubin AI Factory as Physical AI Push Spans Every Industry」と題した記事を公開した。NVIDIAが日本において2万7500基のVera Rubin GPUを擁する国家規模のAIファクトリーを構築し、製造・医療・自動車・ロボティクスにまたがる産業横断的な「フィジカルAI」戦略を一斉に展開していることが明らかになった。単一製品の投入ではなく、国家インフラからエッジデバイス・産業特化モデルまでを縦断する多層的な展開であり、日本が同社のフィジカルAI戦略における重要拠点として位置づけられていることが今回の発表から鮮明に読み取れる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a5965093d5307dbb0d4aab2?from=rss</guid>
-      <pubDate>Thu, 16 Jul 2026 23:11:05 +0000</pubDate>
+      <title>社内PCで動く簡易アプリはElectronとPythonスクリプトのどちらが向いているか</title>
+      <link>https://zenn.dev/syunpp/articles/electron-local-business-app</link>
+      <description>最近、社内で受け取ったCSVを整形し、指定フォルダへ出力する小さなツールを考える場面がありました。最初は「画面があるほうが使いやすそう」と思ったのですが、処理内容を整理すると、Pythonスクリプトだけで十分な部分も多くありました。
+一方で、設定値を毎回変えたい、処理結果を画面で確認したい、担当者が増える、といった条件があると、スクリプトだけでは運用が少し苦しくなることがあります。
+この記事では、Windowsの社内PCで使うローカル業務ツールを前提に、ElectronとPythonスクリプトをどう選ぶかを整理します。CSV・Excel・画像・PDFなどのローカルファイルを扱うケースを想... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/syunpp/articles/electron-local-business-app</guid>
+      <pubDate>Wed, 15 Jul 2026 04:24:55 +0000</pubDate>
     </item>
     <item>
       <title>ローカル LLM を構築した</title>
@@ -48,6 +55,13 @@ AI 利用の開示：この記事を書くにあたっての調査やブレイ�
 AI 企業の倫理的な問題も気になります。 Anthropic の CEO であるダリオ・アモディ氏はわざと恐怖心を煽るような宣伝を... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/neet/articles/11bafab8645995</guid>
       <pubDate>Tue, 14 Jul 2026 08:13:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>KubernetesはAIエージェントの基盤になれるか — CNCFが「エージェントAIは分散システム」として既存クラウドネイティブ技術での構築を提案</title>
+      <link>https://techfeed.io/entries/6a5ab49f3d5307dbb0d57710?from=rss</link>
+      <description>7月17日、Craig Risiが「Cloud Native Infrastructure Emerges as the Foundation for Trustworthy Agentic AI」と題した記事を公開した。CNCFはKubernetesを中心とするクラウドネイティブエコシステムがエージェント型AIの信頼性ある運用基盤として機能するという技術分析を公表している。その核心にある主張はシンプルだ——エージェント型AIシステムは、本質的には推論能力を持つ分散システムに過ぎない、というものだ。「AIエージェントは分散システムである」という視点企業がチャットボットや実験的なAIアシスタントを超え、ツール呼び出し・他エージェントとの協調・運用上の意思決定を自律的に行うエージェントへと移行しつつある今、浮かび上がる課題は見慣れたものばかりだ。アイデンティティの保護、長時間実行ワークフローの調整、状態管理、オブザーバビリティの確保、障害からの復旧——これらはまさにクラウドネイティブエコシステムが過去10年間かけて解決してきた問題群である。つまり、エージェントAIのために新しいインフラを一 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a5ab49f3d5307dbb0d57710?from=rss</guid>
+      <pubDate>Fri, 17 Jul 2026 23:02:55 +0000</pubDate>
     </item>
     <item>
       <title>RunCat Neo カスタムメトリクス入門</title>
@@ -112,13 +126,6 @@ AIが書いた日本語を自然な日本語に直すAgent Skill、natural-japan
 コードの不備、考慮漏れ、テスト不足、調査不足、説明不足。AIに聞け... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/headwaters/articles/72c39ad735038d</guid>
       <pubDate>Tue, 14 Jul 2026 13:17:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国がAIとの「疑似恋愛」を法規制へ — 少子化対策として異例のアプローチ、コンパニオンAIアプリは締め出されるか</title>
-      <link>https://techfeed.io/entries/6a5965483d5307dbb0d4aaf4?from=rss</link>
-      <description>7月16日、CBS Newsが「China bans AI chatbot relationships to combat declining birth rate」と題した記事を公開した。AIの安全性でもプライバシーでもなく、「少子化対策」としてAIとの恋愛関係を禁じるという、他国に前例のない規制の動きを報じている。AIが人間の社会行動・繁殖行動に与える影響を国家が管理しようとするこのアプローチは、コンパニオンAIの開発・運営に関わるエンジニアにとっても看過できない論点を提起している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a5965483d5307dbb0d4aaf4?from=rss</guid>
-      <pubDate>Thu, 16 Jul 2026 23:12:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

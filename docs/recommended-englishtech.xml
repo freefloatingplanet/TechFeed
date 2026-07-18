@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 08:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 07:58:04 +0000</lastBuildDate>
     <item>
-      <title>記事：AIスピードでの理解：進化型アーキテクチャのためのコンテキストストアの構築</title>
-      <link>https://www.infoq.com/articles/ai-speed-context-store-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AIは開発の最初の80%を高速に感じさせるが、アーキテクチャの複雑さは手遅れになるまで隠蔽される。システムの不安定性を防ぐには、エンジニアリングリーダーは生のスループットからシステム全体の理解へと移行する必要がある。仕様に基づいたSDD、TDD、および自動化された適合性機能をリポジトリに紐づいた「コンテキストストア」に統合することで、チームはAIエージェントと人間のレビュー担当者が安全にコードを進化させることができる。執筆者：Stella Berhe、Stephan Bragner、Vikram Maran、Anand Jayaraman (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/ai-speed-context-store-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
+      <title>Stripeのベンチマーク調査によると、AIエージェントは統合機能の構築には成功するものの、検証に苦戦していることが明らかになった。</title>
+      <link>https://www.infoq.com/news/2026/07/stripe-ai-agents-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Stripeは、AIエージェントがバックエンド、フロントエンド、ブラウザベースのチェックアウトワークフロー全体にわたる実際のStripe統合を構築できるかどうかを評価するためのベンチマークスイートを発表しました。この調査では、エンドツーエンドのソフトウェアエンジニアリング能力を検証し、本番環境に近い制約の下でのエージェントシステムにおける実行、テスト、検証のギャップに焦点を当てています。Leela Kumili著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/07/stripe-ai-agents-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 15 Jul 2026 14:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
