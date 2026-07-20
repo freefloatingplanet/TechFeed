@@ -7,7 +7,71 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 08:24:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 09:21:21 +0000</lastBuildDate>
+    <item>
+      <title>Figmaと実装の乖離は怠慢ではなく、構造の欠陥である｜Matz</title>
+      <link>https://note.com/matz_tak/n/ne820719377e3</link>
+      <description>結論デザインと実装の乖離は、運用の頑張りでは解決しません。Figmaとコードはパラダイム（表現の仕組み）が違うため、どちらか一方を「正」にした時点で、乖離は構造的に発生するからです。 私の答えはこうです。正はFigmaにもコードにも置かず、Component Spec（コンポーネント仕様書） という文書に置く。Figmaとコー... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/matz_tak/n/ne820719377e3</guid>
+      <pubDate>Sun, 19 Jul 2026 08:18:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeが化けた。今使っている3つのプラグイン+標準機能の活用法</title>
+      <link>https://zenn.dev/sonicmoov/articles/8712598f532b18</link>
+      <description>はじめに
+株式会社ソニックムーブでフロントエンドエンジニアとして働いているShoppingSharkです。
+ソニックムーブに入社して業務でAIを使い始めて3ヶ月ほど経ちました。昨今はループエンジニアリングが話題ですが、個人ではまだそのレイヤーまで進めておらず、日々の業務はバイブコーディングで回しています。
+この記事では、素の状態のClaude Codeから始めて、3ヶ月の間に取捨選択して残った3つのプラグインと標準機能の使い方を紹介します。
+知名度の高いツールが中心なので、次のような方に向けて書いています。
+
+Claudeを使い始めたばかりでほぼ素の状態
+業務中に5時間レートリミット... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sonicmoov/articles/8712598f532b18</guid>
+      <pubDate>Wed, 15 Jul 2026 09:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>関数型まつり2026参加記</title>
+      <link>https://zenn.dev/konn/articles/2026-07-13-fp-matsuri-2026</link>
+      <description>昨年に引き続き、関数型まつり2026に二日間参加してきました。去年に引き続き50分枠での登壇もしました。
+https://2026.fp-matsuri.org
+昨年はPLDIに参加するために最後の講演をスキップして韓国に飛ぶ必要があり泣いていましたが、今年は二日間丸々楽しむことができました。やったぜ〜！
+以下まず聴講・登壇した各講演について概要と感想を簡単に。
+
+ Day 0
+などというものはないんですが、その、スライドの進捗がかなりわるかったので、金曜に有給を取ってガッとスライドを書くなどしていました。
+一、二週間前くらいからスライドを書く雰囲気を手に入れようとしていたんですが、なん... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/konn/articles/2026-07-13-fp-matsuri-2026</guid>
+      <pubDate>Sat, 18 Jul 2026 16:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>趣味でサーバを触り始めた人のおうちラボ紹介 基本サービスや構築・管理方法について</title>
+      <link>https://zenn.dev/pkkudo/articles/homelab-overview-hlv5</link>
+      <description>キャリアとしてはネットワークインフラやネットワークセキュリティをメインに扱っていますが、「Pythonのスクリプトが書けるようになりたい」「サーバを直接触ってみたい」という思いからおうちラボを始めました。
+振り返ってみると、おうちラボを始めてから10年が経っていました。そこでおうちラボの構築初期にお勧めしたいサービスや、構築や管理方法について少しまとめてシェアしたいと思い、このポストにまとめてみました。
+なお詳細な構築手順や具体的な設定内容を紹介するのではなく、「大まかにどのようなものを用意しているか」「どのように構築・管理しているか」といった内容に留めています。
+具体的には、以下の内容... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pkkudo/articles/homelab-overview-hlv5</guid>
+      <pubDate>Sun, 19 Jul 2026 01:21:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWSのBilling障害の対応への反省点</title>
+      <link>https://zenn.dev/blue_jam/articles/08b31e29699b56</link>
+      <description>7月17日午後5時半頃からAWSのコストが過大に表示されるという障害が発生しています。この問題への自分の対応があまり良くなかったと反省しています。障害対応のだめな例として参考にしていただくために、恥を忍んで公開します。
+
+
+ 前提
+
+影響があったのは個人のアカウント（ISUCONに参加するために作り、あとで使うかもと思い放置していた）
+AWSの操作にはあまり慣れていない（とくにIAM周り）
+
+
+ 主な反省点
+コストアラートのメールを見た後の自分のとった行動のなかで、よくなかったと思うことは次の点です。
+
+（個人のアカウントの問題とはいえ、AIすら頼らず）1人でパニック状態のまま初動対応を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/blue_jam/articles/08b31e29699b56</guid>
+      <pubDate>Sat, 18 Jul 2026 15:21:40 +0000</pubDate>
+    </item>
     <item>
       <title>DELETE したはずの行が SELECT で返り続ける ときに何を疑うか</title>
       <link>https://zenn.dev/dress_code/articles/15659114e7f21c</link>
@@ -25,48 +89,17 @@
       <pubDate>Thu, 16 Jul 2026 09:00:15 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeのスキル×サブエージェントで開発ワークフローを丸ごと自動化したらデリバリー速度が3倍になった</title>
-      <link>https://zenn.dev/arufian/articles/4676070054c347</link>
-      <description>はじめに
-フリーランスとして、日本の大手コンサルティングファームのAI駆動開発を支援しています。そこで「Claude Codeのスキルとサブエージェントを組み合わせて、設計からデプロイまでを丸ごとオーケストレーションするワークフロー」を作ったところ、案件のデリバリー速度が 約3倍 になりました。
-この記事では、そのスキルをどういう考え方で設計したのか、オーケストレーションの仕組みをどう組んだのか、そして運用しながらどう育てていったのかを紹介します。アーキテクチャと設計パターンは汎用的なものなので、どんなドメインにも応用できるはずです。
+      <title>codexの独自用語乱立･曖昧問題への対策</title>
+      <link>https://zenn.dev/u1/articles/codex-referent-before-label</link>
+      <description>この記事はXの元記事をZenn向けに再掲載したものです。
 
- 背景：AI駆動開発を導入したけど、成果物がバ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/arufian/articles/4676070054c347</guid>
-      <pubDate>Fri, 17 Jul 2026 06:54:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>『読むだけでグングン頭が良くなる下ネタ大全』のKindle版が「50％pt」還元でお得に。慶応卒の著者が古今東西の下ネタを大真面目に考察した教養本</title>
-      <link>https://news.denfaminicogamer.jp/news/260718k</link>
-      <description>最新の研究から海外の論文、古典まであらゆる文献をリサーチして書かれた本書には、「恐竜の研究史は1676年に発見された「巨人のキンタマ」からはじまった」「正常」位という言葉には人類史が詰まっている」といった内容をはじめ、多数のトピックについての考察が記されている。 一例として、「コーンフレークは性欲を抑... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://news.denfaminicogamer.jp/news/260718k</guid>
-      <pubDate>Sat, 18 Jul 2026 07:04:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ローカル LLM を構築した</title>
-      <link>https://zenn.dev/neet/articles/11bafab8645995</link>
-      <description>!
-AI 利用の開示：この記事を書くにあたっての調査やブレインストーミング、校正には AI を用いましたが、本文の執筆やコードの実装、および出典の確認はすべて人間が行いました。
-
-
- AI は好きだが AI 企業は嫌いだ
-こんにちは。みなさんは AI を使いこなしていますか？　私は正直、あまり乗れていません。もちろん AI は非常に便利な道具だと思うし、使わない日はありません。しかし、その非決定論的な性質を考えると、いささか過大評価されているように感じます。
-AI 企業の倫理的な問題も気になります。 Anthropic の CEO であるダリオ・アモディ氏はわざと恐怖心を煽るような宣伝を... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/neet/articles/11bafab8645995</guid>
-      <pubDate>Tue, 14 Jul 2026 08:13:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>RunCat Neo カスタムメトリクス入門</title>
-      <link>https://zenn.dev/kyome/articles/eb4a9f664002ad</link>
-      <description>はじめに
-RunCat Neo はmacOSのメニューバーでネコが走る常駐アプリです。
-CPU負荷に応じてネコの走る速さが変わるので、直感的にマシンの状態が確認できます。
-
-このアプリには カスタムメトリクス という機能があります。自分で用意した JSONファイルをRunCat Neoに監視させると、その中身がダッシュボードのメトリクスとして表示されるというものです。
-コーディングエージェントの使用量、GPUの温度、ビットコインの価格、GitHubのコントリビューション数など、JSONファイルに書き出せるものなら何でもRunCat Neoのダッシュボードで確認可能にできます。
-この記... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kyome/articles/eb4a9f664002ad</guid>
-      <pubDate>Wed, 15 Jul 2026 09:00:13 +0000</pubDate>
+ codexで起きやすい問題
+codexでよく起きる問題として､言葉の定義を適当にして設計や実装をしてしまう問題があります｡経験上､claudeだと少し起きづらいのですがcodexの場合､5.5のときからも駄目で5.6にしてもやはり継続して起きていて困っていた件への対策です｡
+例えば､調査レポートの一節に「圧縮時点」という見出しがありました。本文を読むと、その語は「会話履歴が設定量に達したこと」「自動要約を始めるしきい値」「実際に要約が始まる時」の三つを行き来していました。
+文章は流暢で、技術的な説明らしく見えます。
+しかし、一... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/u1/articles/codex-referent-before-label</guid>
+      <pubDate>Sun, 19 Jul 2026 04:23:22 +0000</pubDate>
     </item>
     <item>
       <title>夏休みが始まる前に知っておきたい、Reactエンジニアに優しくなったモバイルアプリ開発の世界</title>
@@ -81,24 +114,6 @@ CPU負荷に応じてネコの走る速さが変わるので、直感的にマ�
 そんなどうでもいい余談は置いといて、普段ReactでWebフロントを書いているみなさん、App StoreやGoogle Playからアプリをダウンロードするたびに「これ、もしかしてReact Native（以降、RN）でサク... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/cybozu_frontend/articles/rn-devmap-in-2026</guid>
       <pubDate>Tue, 14 Jul 2026 10:00:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントにパスワードを渡さずに済む時代へ — 1Passwordがロック機能でClaudeの認証を代行</title>
-      <link>https://techfeed.io/entries/6a5c09583d5307dbb0d5e224?from=rss</link>
-      <description>7月18日、PCMagが「Giving an AI Agent Your Password? Here's How 1Password Means You Don't Have To Anymore」と題した記事を公開した。AIエージェントにパスワードを渡すことなく、1Passwordが代わりに認証を処理する新機能「1Password for Claude」の仕組みと背景について詳しく紹介されている。AIエージェントとパスワード問題AIエージェントの自律実行が普及しつつある今、「エージェントにパスワードを渡すべきか」という問題が現実のものになってきた。YouGovの調査によれば、アメリカ人の68%はAIが自分の明示的な承認なしに行動することを望まないという。懸念はもっともだ。AIエージェントはプロンプトインジェクション攻撃（外部コンテンツを通じてエージェントの挙動を乗っ取る手法）に対して脆弱であり、エージェントが引き起こした問題についてユーザーが法的責任を負うケースも報告されている。かといってパスワードを渡さなければ、エージェントが認証を求めるたびに手動でログインや2FA入力を繰り返す (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a5c09583d5307dbb0d5e224?from=rss</guid>
-      <pubDate>Sat, 18 Jul 2026 23:16:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI臭は語彙よりリズムに出る - 自然な日本語を書くAgent Skillと7モデル×406本の実測</title>
-      <link>https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint</link>
-      <description>これはなに？
-AIが書いた日本語を自然な日本語に直すAgent Skill、natural-japanese を作りました。Claude CodeやCodexで動きます。プロンプトで「自然に書いて」とお願いする代わりに、AI臭を機械的に検出するlintをスキルの工程に組み込みました。そのlintの閾値は、人間の文章137本とAIの文章406本のコーパスで校正しています。
-この記事では、まず「本当に自然になるのか」をbefore/afterで見てもらい、そのあとで先週出たばかりのgpt-5.6を含む7モデルを同じ物差しで診断した結果を紹介します。実装の話はおまけ程度です。
-
- 説明より... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint</guid>
-      <pubDate>Mon, 13 Jul 2026 07:27:42 +0000</pubDate>
     </item>
     <item>
       <title>一人前のエンジニアなら、PRでコメントをもらうな。</title>

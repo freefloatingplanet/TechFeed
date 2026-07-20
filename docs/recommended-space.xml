@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 08:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 09:21:24 +0000</lastBuildDate>
     <item>
-      <title>SSA（宇宙状況把握）とは〜日本の防衛省と国際状況、企業の貢献、技術課題、運用システムを総合的に解説〜</title>
-      <link>https://sorabatake.jp/33237/</link>
-      <description>宇宙開発の進展に伴い、スペースデブリや衛星同士の衝突リスクが増加しており、それに伴い宇宙状況把握（SSA）がますます重要性を増しています。本記事では、SSAの概要や目的、運用システム、国内外の取り組み、既存の課題などについてまとめて解説します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/33237/</guid>
-      <pubDate>Tue, 14 Jul 2026 23:00:26 +0000</pubDate>
+      <title>タイタンの空を飛ぶNASAのドローン型探査機「ドラゴンフライ」各種試験と組み立てが進行中</title>
+      <link>https://sorae.info/space/20260720-dragonfly.html</link>
+      <description>NASA（アメリカ航空宇宙局）が2028年の打ち上げを目指す、土星の衛星タイタンを探査する「Dragonfly（ドラゴンフライ）」ミッションの探査機の組み立てが順調に進んでいます。 ミッションを主導するAPL（ジョンズ・… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260720-dragonfly.html</guid>
+      <pubDate>Mon, 20 Jul 2026 02:40:27 +0000</pubDate>
     </item>
     <item>
       <title>建設工事が始まったばかりの “ミニカミオカンデ” 「中間水チェレンコフ検出器」とはなにか？</title>
@@ -58,18 +58,18 @@
       <pubDate>Wed, 15 Jul 2026 01:09:18 +0000</pubDate>
     </item>
     <item>
+      <title>“ピンクの惑星”「GJ 504 b」には “塩類の雲” が浮かんでいる　ウェッブ宇宙望遠鏡の観測で判明</title>
+      <link>https://sorae.info/astronomy/20260719-gj-504-b.html</link>
+      <description>2013年にすばる望遠鏡の撮影画像から発見された「GJ 504 b」は、写真に写った光の成分を表すものとして、 “ピンクの惑星” という通称があります。しかし、GJ 504 bは本当に惑星なのかなど、謎な点が多数あります… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260719-gj-504-b.html</guid>
+      <pubDate>Sun, 19 Jul 2026 12:27:50 +0000</pubDate>
+    </item>
+    <item>
       <title>「テンポの良い地上局展開と実用できる衛星コンステレーションの構築を」インフォステラとSSC Spaceが提携し、セーレンの小型衛星「FUSION-1」向けに地上局サービスを提供【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/46533/</link>
       <description>インフォステラ、SSC Space（スウェーデン宇宙公社）、セーレンの3社は、セーレンの小型衛星ミッション「FUSION-1」向けに衛星通信サービスの提供を開始したことを発表しました。記者会見で語られた両社の提携に関する期待と今後の展望を紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46533/</guid>
       <pubDate>Mon, 13 Jul 2026 23:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>衛星の大量打ち上げによる汚染物質が、上層大気に急速に蓄積していることが推定される</title>
-      <link>https://sorae.info/space/20260712-satellite-launch-pollution.html</link>
-      <description>現在の地球の周りには全地球的な通信を目的とした、それぞれが数千機以上の衛星から成る「衛星コンステレーション」を構成する衛星が多数存在します。SpaceX社の「スターリンク（Starlink）」は特に有名ですが、他の企業や… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260712-satellite-launch-pollution.html</guid>
-      <pubDate>Sun, 12 Jul 2026 12:54:12 +0000</pubDate>
     </item>
     <item>
       <title>欧州が自ら管理できる衛星インテリジェンス基盤を共同構築へ。VantorとRheinmetallが覚書を締結【宇宙ビジネスニュース】</title>
