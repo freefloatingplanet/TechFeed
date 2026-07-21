@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 09:21:24 +0000</lastBuildDate>
-    <item>
-      <title>タイタンの空を飛ぶNASAのドローン型探査機「ドラゴンフライ」各種試験と組み立てが進行中</title>
-      <link>https://sorae.info/space/20260720-dragonfly.html</link>
-      <description>NASA（アメリカ航空宇宙局）が2028年の打ち上げを目指す、土星の衛星タイタンを探査する「Dragonfly（ドラゴンフライ）」ミッションの探査機の組み立てが順調に進んでいます。 ミッションを主導するAPL（ジョンズ・… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260720-dragonfly.html</guid>
-      <pubDate>Mon, 20 Jul 2026 02:40:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>建設工事が始まったばかりの “ミニカミオカンデ” 「中間水チェレンコフ検出器」とはなにか？</title>
-      <link>https://sorae.info/astronomy/20260716-iwcd.html</link>
-      <description>「この宇宙には物質が満ちており、反物質はほとんどない」という謎は、物理学の分野における最大の疑問の1つです。この謎を解くカギとして、素粒子「ニュートリノ」が持つと考えられている「CP対称性の破れ」があります。 国際共同研… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260716-iwcd.html</guid>
-      <pubDate>Thu, 16 Jul 2026 14:00:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 08:34:36 +0000</lastBuildDate>
     <item>
       <title>宇宙空間での大型構造物の組み立てが可能に？ Space Quartersが3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功 【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/46343/</link>
@@ -56,6 +42,20 @@
       <description>JAXA（宇宙航空研究開発機構）は2026年7月14日に記者説明会を開催し、開発中の「イプシロンS」ロケットに関する最新の状況を報告しました。日本の基幹ロケットとして早期の打ち上げを実現するべく導入した新しい第2段モータ… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260715-epsilon-s.html</guid>
       <pubDate>Wed, 15 Jul 2026 01:09:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>古代の風が作り上げた不思議な岩　NASA火星探査車「キュリオシティ」が撮影</title>
+      <link>https://sorae.info/astronomy/20260720-mars-climbing-ripple-curiosity.html</link>
+      <description>こちらは、NASA（アメリカ航空宇宙局）の火星探査車「キュリオシティ（Curiosity）」が撮影した火星の光景です。薄い層が幾重にも重なってできている大小の岩が、視野全体に散らばっている様子が捉えられています。 201… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260720-mars-climbing-ripple-curiosity.html</guid>
+      <pubDate>Mon, 20 Jul 2026 12:29:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASA天文衛星「スウィフト」軌道上昇実施に向けて宇宙機「LINK」の試運転が進行中</title>
+      <link>https://sorae.info/space/20260720-swift-boost-mission.html</link>
+      <description>NASA（アメリカ航空宇宙局）は2026年7月15日付で、ガンマ線観測衛星「ニール・ゲーレルス・スウィフト（Neil Gehrels Swift）」の軌道上昇ミッションに関する続報を公開しました。 スウィフトの大気圏再突… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260720-swift-boost-mission.html</guid>
+      <pubDate>Mon, 20 Jul 2026 09:41:33 +0000</pubDate>
     </item>
     <item>
       <title>“ピンクの惑星”「GJ 504 b」には “塩類の雲” が浮かんでいる　ウェッブ宇宙望遠鏡の観測で判明</title>

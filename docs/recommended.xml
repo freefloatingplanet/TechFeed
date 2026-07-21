@@ -7,41 +7,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 09:21:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 08:34:31 +0000</lastBuildDate>
     <item>
-      <title>Figmaと実装の乖離は怠慢ではなく、構造の欠陥である｜Matz</title>
-      <link>https://note.com/matz_tak/n/ne820719377e3</link>
-      <description>結論デザインと実装の乖離は、運用の頑張りでは解決しません。Figmaとコードはパラダイム（表現の仕組み）が違うため、どちらか一方を「正」にした時点で、乖離は構造的に発生するからです。 私の答えはこうです。正はFigmaにもコードにも置かず、Component Spec（コンポーネント仕様書） という文書に置く。Figmaとコー... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/matz_tak/n/ne820719377e3</guid>
-      <pubDate>Sun, 19 Jul 2026 08:18:17 +0000</pubDate>
+      <title>【社内勉強会報告】「構造化思考」を学んだら、仕事の進め方が変わった話</title>
+      <link>https://qiita.com/mawamawa/items/3e2578f6cf63922b54e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>「考えているのに、考えがまとまらない。」
+
+会議で意見を求められたとき、
+頭の中では答えがあるはずなのに、言葉にするとまとまらない
+資料を作っても、「結局何が言いたいの？」とフィードバックをもらう
+タスクを書き出してみても、優先順位が決められず、気づけば締切だけが近づい... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/mawamawa/items/3e2578f6cf63922b54e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 21 Jul 2026 01:23:51 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeが化けた。今使っている3つのプラグイン+標準機能の活用法</title>
-      <link>https://zenn.dev/sonicmoov/articles/8712598f532b18</link>
-      <description>はじめに
-株式会社ソニックムーブでフロントエンドエンジニアとして働いているShoppingSharkです。
-ソニックムーブに入社して業務でAIを使い始めて3ヶ月ほど経ちました。昨今はループエンジニアリングが話題ですが、個人ではまだそのレイヤーまで進めておらず、日々の業務はバイブコーディングで回しています。
-この記事では、素の状態のClaude Codeから始めて、3ヶ月の間に取捨選択して残った3つのプラグインと標準機能の使い方を紹介します。
-知名度の高いツールが中心なので、次のような方に向けて書いています。
-
-Claudeを使い始めたばかりでほぼ素の状態
-業務中に5時間レートリミット... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sonicmoov/articles/8712598f532b18</guid>
-      <pubDate>Wed, 15 Jul 2026 09:00:13 +0000</pubDate>
+      <title>oRPC を調査したら、Rails + Nuxt の自分たちのスタックが思ったより型安全だと気づいた話 - kickflow Tech Blog</title>
+      <link>https://tech.kickflow.co.jp/entry/2026/07/21/102711</link>
+      <description>oRPC の調査イメージ こんにちは、kickflow でエンジニアをしている芳賀です。 最近、TypeScript 界隈で oRPC というフレームワークの名前をよく見かけるようになりました。「tRPC の開発体験そのままに、OpenAPI も一級市民として扱える」という触れ込みで、OpenAPI を軸に API を運用している身としてはかなり気になる... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech.kickflow.co.jp/entry/2026/07/21/102711</guid>
+      <pubDate>Tue, 21 Jul 2026 02:26:25 +0000</pubDate>
     </item>
     <item>
-      <title>関数型まつり2026参加記</title>
-      <link>https://zenn.dev/konn/articles/2026-07-13-fp-matsuri-2026</link>
-      <description>昨年に引き続き、関数型まつり2026に二日間参加してきました。去年に引き続き50分枠での登壇もしました。
-https://2026.fp-matsuri.org
-昨年はPLDIに参加するために最後の講演をスキップして韓国に飛ぶ必要があり泣いていましたが、今年は二日間丸々楽しむことができました。やったぜ〜！
-以下まず聴講・登壇した各講演について概要と感想を簡単に。
+      <title>Linuxのディレクトリ配置ルール（FHS）超入門</title>
+      <link>https://zenn.dev/juth/articles/9dc12f2621e2c1</link>
+      <description>Linuxサーバーを触っていて、「あれ、PostgreSQLの設定ファイルってどこだっけ？」「アプリのデータってどこに保存されてるの？」と迷ったことはありませんか？
+実は、Linuxの世界には　「どのファイルはどこに配置する」という世界共通の厳格なルール　があります。このルールのことを FHS（Filesystem Hierarchy Standard） と呼びます。
+今回は、初心者向けに「なぜその場所にファイルがあるのか」が直感的にわかるよう、Windowsの概念に例えながら基本のディレクトリ構造をまとめました。
 
- Day 0
-などというものはないんですが、その、スライドの進捗がかなりわるかったので、金曜に有給を取ってガッとスライドを書くなどしていました。
-一、二週間前くらいからスライドを書く雰囲気を手に入れようとしていたんですが、なん... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/konn/articles/2026-07-13-fp-matsuri-2026</guid>
-      <pubDate>Sat, 18 Jul 2026 16:50:00 +0000</pubDate>
+
+ 📂 Linux基本ディレクトリ配置ルール一覧
+Linuxサーバーを... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/juth/articles/9dc12f2621e2c1</guid>
+      <pubDate>Mon, 20 Jul 2026 02:18:03 +0000</pubDate>
     </item>
     <item>
       <title>趣味でサーバを触り始めた人のおうちラボ紹介 基本サービスや構築・管理方法について</title>
@@ -73,20 +70,18 @@ AWSの操作にはあまり慣れていない（とくにIAM周り）
       <pubDate>Sat, 18 Jul 2026 15:21:40 +0000</pubDate>
     </item>
     <item>
-      <title>DELETE したはずの行が SELECT で返り続ける ときに何を疑うか</title>
-      <link>https://zenn.dev/dress_code/articles/15659114e7f21c</link>
-      <description>この記事は Dress Code Advent Calendar 2026/07 の 12本目の記事です。
-こんにちは、Dress Code株式会社 でプロダクトエンジニアをやっているなたこんです。
-データベース周りで個人的にハマったことを紹介します。
-更新したはずのデータが読み取り時に古いまま返ってきたとき、何をどの順で疑えばよいかを、実際の事例に沿って整理します。
+      <title>サクッと始めるAIワークフロー構築【Jinba】</title>
+      <link>https://zenn.dev/umi_mori/books/ai-workflow-jinba</link>
+      <description>AIエージェントに任せすぎると、トークンは膨らみ、挙動は揺らぎ、想定どおり動いているかも分からなくなります。そこで効くのが『決まった手順は決めておく』というAIワークフローの考え方です。この本では、プログラミングをしない市民開発者（非エンジニア）の方に向けて、自然言語でAIワークフローを構築できる、日本語で使えるノーコードツール『Jinba（人馬）』の知識と使い方を体系的にまとめました。
 
-
- TL;DR
-「テーブルから DELETE したはずの行が、SELECT で返り続ける」という事象に遭遇した。確認できた状況は次の通り。
-
-該当クエリが主キー被覆だったため、実行計画が index-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/15659114e7f21c</guid>
-      <pubDate>Thu, 16 Jul 2026 09:00:15 +0000</pubDate>
+ 【概要】
+ ・内容：AIワークフローとは？（AIエージェントとの違い）、Jinbaの概要と始め方、Jinba Flowの使い方、Jinba Appの使い方、Jinba Toolboxの概要、Jinba App Neo（Beta）の概要、Jinbaの強みと弱み（他ツール比較）、Jinbaを用いた5つのユースケース事例、AIワークフロー構築のTIPS
+ ・所要時間：約105分
+ ・必須条件：生成AIの基礎知識（ChatGPTを使ったことがある程度）
+ ・推奨OS：macOS / Windows
+ ・レベル：★★☆☆☆ (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/umi_mori/books/ai-workflow-jinba</guid>
+      <pubDate>Fri, 17 Jul 2026 09:23:55 +0000</pubDate>
     </item>
     <item>
       <title>codexの独自用語乱立･曖昧問題への対策</title>
@@ -102,45 +97,44 @@ codexでよく起きる問題として､言葉の定義を適当にして設計
       <pubDate>Sun, 19 Jul 2026 04:23:22 +0000</pubDate>
     </item>
     <item>
-      <title>夏休みが始まる前に知っておきたい、Reactエンジニアに優しくなったモバイルアプリ開発の世界</title>
-      <link>https://zenn.dev/cybozu_frontend/articles/rn-devmap-in-2026</link>
-      <description>!
-この記事は、CYBOZU SUMMER BLOG FES '26の記事です。
+      <title>ループエンジニアリングの次は本当に「グラフ」なのか考えてみた</title>
+      <link>https://zenn.dev/jodycraft/articles/dfe38e73e1ef8a</link>
+      <description>📋 この記事の前提
+
+前回記事「ループエンジニアリングをGitHub Copilotで組めるか調べてみた」を読んでいると話が早い
+「ハーネスエンジニアリング」「ループエンジニアリング」という言葉を見聞きしたことがある
+この記事は2026年7月18日時点、生まれて1日も経っていない議論を扱っている。数日後には前提が変わっている可能性がある
 
 
- はじめに
-さて、今年も夏がやってきましたね。みなさん、夏休みの過ごし方はもう決まりましたか？
-私は「今年こそ積んでた技術書を消化するぞ」とひそかに誓っているのですが、どうせ気づいたらYouTubeで虎とライオンが喧嘩する動画を3時間見ている——そんな未来がうっすら見えています。
-そんなどうでもいい余談は置いといて、普段ReactでWebフロントを書いているみなさん、App StoreやGoogle Playからアプリをダウンロードするたびに「これ、もしかしてReact Native（以降、RN）でサク... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/cybozu_frontend/articles/rn-devmap-in-2026</guid>
-      <pubDate>Tue, 14 Jul 2026 10:00:42 +0000</pubDate>
+ 結論: グラフは配線図、品質を決めるのは配線の交差点
+先に結論を書く。
+「ループの次はグラフだ」という言い方は、半分正しくて半分は言葉が足りない。グラフは複数のループを束ねる配線図としては確かに上位概念だが、配線をどれだけ賢くしても、各交差点で下す... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/jodycraft/articles/dfe38e73e1ef8a</guid>
+      <pubDate>Sat, 18 Jul 2026 13:56:58 +0000</pubDate>
     </item>
     <item>
-      <title>一人前のエンジニアなら、PRでコメントをもらうな。</title>
-      <link>https://zenn.dev/headwaters/articles/72c39ad735038d</link>
-      <description>前提
-これは、コードレビューの絶対的な正解や、チーム全体に強制すべきルールを示す記事ではありません。
-私がエンジニアとしてどうあるべきだと考えているか。他人の時間をどれだけ重く扱うべきだと考えているか。それを言語化した、個人の職業倫理です。
-本文に出てくる「お前」には、まず私自身が含まれていることをご認識おきください。自分だけを例外にして、他人を殴るための記事ではありません。
-私はこうありたいし、一人前を名乗る自分にはこの水準を要求する前提としてご高覧ください。
-
- 一人前のエンジニアなら、PRでコメントをもらうな。
-コードの不備、考慮漏れ、テスト不足、調査不足、説明不足。AIに聞け... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/72c39ad735038d</guid>
-      <pubDate>Tue, 14 Jul 2026 13:17:16 +0000</pubDate>
+      <title>ゴールまで自走するだけではない？——ループエンジニアリングの本質はどこにあるのか</title>
+      <link>https://zenn.dev/r_kaga/articles/a27a3879dd3ce4</link>
+      <description>ループエンジニアリングという言葉が流行っています。エージェントが人の手を離れて、コーディングから何から最後まで自走する。そういう話として語られることが多い気がします。
+ただ、少し引っかかってもいました。それって、昔からあった話じゃなかったっけ?
+一方で最近は、Software Factoryという言葉も聞くようになりました。
+エージェントを都度呼び出すのではなく、仕事が来れば仕組みが起動するようにして、人間は設計者や監督者として関わる。そういう世界観です。
+この記事では、この引っかかりから出発して、ループエンジニアリングの本質はむしろこのソフトウェアファクトリーが指している側にあるんじゃ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/r_kaga/articles/a27a3879dd3ce4</guid>
+      <pubDate>Sun, 19 Jul 2026 07:48:51 +0000</pubDate>
     </item>
     <item>
-      <title>AIでがんがん書く時代の「きれいなコード」の守り方 — ESLint+SonarJS / jscpd / knip をCIに置く</title>
-      <link>https://zenn.dev/singularity/articles/clean-code-ci-for-ai-era</link>
-      <description>Claude Code や Codex でコードを書くようになって、開発のボトルネックが変わったな、と感じています。以前は「書く速度」が律速でしたが、今は違う。AI がいくらでも書いてくれるので、詰まるのは書いたコードをきれいなまま保つところです。
-AI は、その場の文脈だけで「それっぽく動くコード」を出します。悪気なく、こういうことをします。
+      <title>Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る</title>
+      <link>https://zenn.dev/uhyo/articles/async-react-action-queue</link>
+      <description>useActionStateは、React 19で導入された新しいフックです。
+その挙動を見ると、非同期版useReducerと言えるような挙動をします。
+ただ、筆者は最近、このフックの真髄はユーザーの操作を妨げないUXを作ることにあるのではないかと考えています。ReactはUIライブラリであり、そのゴールは「良いUX」であるように思います。
+そこで、この記事では、useActionStateがどのようなUXを実現するのに役立つのか、という観点で解説していきます。
 
-1つの関数に処理を全部詰め込んで、気づけば200行
-型が面倒になると any で流す、変数名が md とか e みたいに短くて意味不明
-すでにある truncate() を知らずにもう一回書く（うちでは同じ関数が6個まで増えました）
-「この機能... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/singularity/articles/clean-code-ci-for-ai-era</guid>
-      <pubDate>Sat, 18 Jul 2026 06:13:37 +0000</pubDate>
+ useActionStateのインターフェース
+まずuseActionStateのインターフェースを見ましょう。ドキュメ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/uhyo/articles/async-react-action-queue</guid>
+      <pubDate>Mon, 20 Jul 2026 05:29:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
