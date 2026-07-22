@@ -7,38 +7,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 08:34:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 08:34:05 +0000</lastBuildDate>
     <item>
-      <title>【社内勉強会報告】「構造化思考」を学んだら、仕事の進め方が変わった話</title>
-      <link>https://qiita.com/mawamawa/items/3e2578f6cf63922b54e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>「考えているのに、考えがまとまらない。」
-
-会議で意見を求められたとき、
-頭の中では答えがあるはずなのに、言葉にするとまとまらない
-資料を作っても、「結局何が言いたいの？」とフィードバックをもらう
-タスクを書き出してみても、優先順位が決められず、気づけば締切だけが近づい... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/mawamawa/items/3e2578f6cf63922b54e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 21 Jul 2026 01:23:51 +0000</pubDate>
+      <title>自社のレビュー履歴からAIコードレビュアーをつくる方法</title>
+      <link>https://zenn.dev/estie/articles/f0f114389662ba</link>
+      <description>こんにちは、株式会社estie（エスティ） 取締役CTO の Nari （@tiwanari）です。
+みなさんはコードレビューにAIツールを活用されているでしょうか？汎用のAIコードレビューツールは便利なのですが、自社のコードにおける書き振りへの対応やレビューでどのような指摘を行うか、といったところまでは拾いきれません。
+estie では、創業来7年分のPull Requestに対するレビューコメントを集計し、AIが参照できる「レビュー規約」に変換することで、自分たちらしい指摘を返すAIレビュアーを試しました。
+この記事では、同じ悩みを持つ方が自分たちの手で試せるように、その作り方と、う... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/estie/articles/f0f114389662ba</guid>
+      <pubDate>Tue, 21 Jul 2026 00:45:05 +0000</pubDate>
     </item>
     <item>
-      <title>oRPC を調査したら、Rails + Nuxt の自分たちのスタックが思ったより型安全だと気づいた話 - kickflow Tech Blog</title>
-      <link>https://tech.kickflow.co.jp/entry/2026/07/21/102711</link>
-      <description>oRPC の調査イメージ こんにちは、kickflow でエンジニアをしている芳賀です。 最近、TypeScript 界隈で oRPC というフレームワークの名前をよく見かけるようになりました。「tRPC の開発体験そのままに、OpenAPI も一級市民として扱える」という触れ込みで、OpenAPI を軸に API を運用している身としてはかなり気になる... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tech.kickflow.co.jp/entry/2026/07/21/102711</guid>
-      <pubDate>Tue, 21 Jul 2026 02:26:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linuxのディレクトリ配置ルール（FHS）超入門</title>
-      <link>https://zenn.dev/juth/articles/9dc12f2621e2c1</link>
-      <description>Linuxサーバーを触っていて、「あれ、PostgreSQLの設定ファイルってどこだっけ？」「アプリのデータってどこに保存されてるの？」と迷ったことはありませんか？
-実は、Linuxの世界には　「どのファイルはどこに配置する」という世界共通の厳格なルール　があります。このルールのことを FHS（Filesystem Hierarchy Standard） と呼びます。
-今回は、初心者向けに「なぜその場所にファイルがあるのか」が直感的にわかるよう、Windowsの概念に例えながら基本のディレクトリ構造をまとめました。
-
-
- 📂 Linux基本ディレクトリ配置ルール一覧
-Linuxサーバーを... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/juth/articles/9dc12f2621e2c1</guid>
-      <pubDate>Mon, 20 Jul 2026 02:18:03 +0000</pubDate>
+      <title>AI を活用した開発に「いちエンジニア」が向き合い、実践している 3 つの仕組み</title>
+      <link>https://qiita.com/masa-asa/items/343dd140ee519a8d62bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+こんにちは、@masa-asa です。
+AI にコードを書いてもらうこと自体は、日に日に簡単になっています。一方で、業務で使おうとすると「出力をどこまで信頼するのか」「どうすればチームの方針に沿った実装になるのか」という悩みが出てきます。
+私も明確な正解を持って... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/masa-asa/items/343dd140ee519a8d62bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 22 Jul 2026 06:38:48 +0000</pubDate>
     </item>
     <item>
       <title>趣味でサーバを触り始めた人のおうちラボ紹介 基本サービスや構築・管理方法について</title>
@@ -84,17 +72,13 @@ AWSの操作にはあまり慣れていない（とくにIAM周り）
       <pubDate>Fri, 17 Jul 2026 09:23:55 +0000</pubDate>
     </item>
     <item>
-      <title>codexの独自用語乱立･曖昧問題への対策</title>
-      <link>https://zenn.dev/u1/articles/codex-referent-before-label</link>
-      <description>この記事はXの元記事をZenn向けに再掲載したものです。
-
- codexで起きやすい問題
-codexでよく起きる問題として､言葉の定義を適当にして設計や実装をしてしまう問題があります｡経験上､claudeだと少し起きづらいのですがcodexの場合､5.5のときからも駄目で5.6にしてもやはり継続して起きていて困っていた件への対策です｡
-例えば､調査レポートの一節に「圧縮時点」という見出しがありました。本文を読むと、その語は「会話履歴が設定量に達したこと」「自動要約を始めるしきい値」「実際に要約が始まる時」の三つを行き来していました。
-文章は流暢で、技術的な説明らしく見えます。
-しかし、一... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/u1/articles/codex-referent-before-label</guid>
-      <pubDate>Sun, 19 Jul 2026 04:23:22 +0000</pubDate>
+      <title>フロントエンドに広がりつつある OpenTelemetry：Browser SDK の現在地</title>
+      <link>https://zenn.dev/cybozu_frontend/articles/opentelemetry-browser-frontend</link>
+      <description>OpenTelemetry と聞くと、サーバーサイドのトレースやメトリクスを集めるためのもの、という印象を持っている人は多いと思います。実際、バックエンドでは OpenTelemetry を使った計装をよく見かけるようになりました。
+一方で、フロントエンドの監視は Sentry や Datadog のような SaaS の SDK に任せることが多く、OpenTelemetry をブラウザの計装に利用する場面はまだ少ないです。ただ、最近は OpenTelemetry のブラウザ向け SDK の開発が進んでおり、この状況も少しずつ変わりはじめています。
+この記事では、OpenTelemetr... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/cybozu_frontend/articles/opentelemetry-browser-frontend</guid>
+      <pubDate>Tue, 21 Jul 2026 00:56:04 +0000</pubDate>
     </item>
     <item>
       <title>ループエンジニアリングの次は本当に「グラフ」なのか考えてみた</title>
@@ -111,6 +95,16 @@ codexでよく起きる問題として､言葉の定義を適当にして設計
 「ループの次はグラフだ」という言い方は、半分正しくて半分は言葉が足りない。グラフは複数のループを束ねる配線図としては確かに上位概念だが、配線をどれだけ賢くしても、各交差点で下す... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/jodycraft/articles/dfe38e73e1ef8a</guid>
       <pubDate>Sat, 18 Jul 2026 13:56:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと</title>
+      <link>https://zenn.dev/ncdc/articles/6c8eabde83cf0a</link>
+      <description>はじめに
+検索画面のUIを決める会議では、「この条件、とりあえずあいまい検索でお願いします」「並び替えはとりあえず全部入れましょう」といったやりとりがよく発生します。その結果、後からバックエンドで検索速度に困る、という経験を何度かしました。
+私が働いているNCDCでは、PMだけでなくデザイナーやエンジニアも要件定義や基本設計の会議に参加することが多いです。業務システムの画面は、デザイナーさんが作ったFigmaを元にお客さんとUIを決めていくのですが、議論の主体はデザイナーさんで、エンジニアは気になった時だけ発言する、というスタンスが多いかなぁと思います。
+本記事では、業務システムの検... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/6c8eabde83cf0a</guid>
+      <pubDate>Sun, 19 Jul 2026 09:49:11 +0000</pubDate>
     </item>
     <item>
       <title>ゴールまで自走するだけではない？——ループエンジニアリングの本質はどこにあるのか</title>

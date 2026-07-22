@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 08:34:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 08:34:10 +0000</lastBuildDate>
     <item>
-      <title>LIGO O4aにおける新規機器グリッチの教師なし探索：マルチスケール感度、経験的物理的拒否、およびレート上限</title>
-      <link>https://arxiv.org/abs/2607.18136v1</link>
-      <description>Advanced LIGO、Virgo、KAGRA の第 4 回目の観測ラン (O4) は比類のない感度を示し、非教師ありパイプラインは検出器のノイズ多様体の非定常ドメインシフトに対して非常に脆弱になります。私たちは、O4a 初期にモデル化されていない異常に対する長期的調査を締めくくる DANTE V3 を発表します。マルチスケール幾何学的フレームワーク (0.5 秒から 4.0 秒) に拡張することで、形態学的感度を増幅し、10,372 個のユニークな候補を抽出します。ドメインシフトアーティファクトを軽減するために、ベクトル量子化されたネイティブ バックグラウンド インデックスに対するブロック ブートストラップ ドメイン シフト防御 (DSD) を導入します。候補の 28.3% は再較正を生き残りますが、グローバル トポロジー分析により、離散的な形態学的凝集性がないことが明らかになります。生き残ったものは、コンパクトなサブ構造を持たない単一のマクロ クラスターに合体します。我々は、これまで使用されてきた形態学的「拡散率」比較が混同されていることを明確に示し、それらを廃止する。原始的な (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.18136v1</guid>
-      <pubDate>Mon, 20 Jul 2026 16:29:15 +0000</pubDate>
+      <title>多重関係グラフ畳み込みネットワークを用いた逐次学習器モデリング</title>
+      <link>https://arxiv.org/abs/2607.19253v1</link>
+      <description>ユーザーモデリングは、さまざまなパーソナライズドシステムにおいて重要なタスクです。グラフ構造データからの学習における有効性が認識されているグラフニューラルネットワーク（GNN）、特にグラフ畳み込みネットワーク（GCN）は、ユーザーモデリングにますます利用されています。しかし、既存のアプローチでは、グラフ内の異なる関係タイプを均質なものとして扱うことが多く、より豊かな意味を捉え、より情報量の多いユーザーモデルを構築する能力が制限されています。多関係GNN（MR-GNN）は表現学習や推薦に採用されていますが、ユーザーモデリングへの応用はまだ研究されていません。さらに、既存のGNNベースのユーザーモデリングアプローチでは、ユーザーインタラクションシーケンスが無視されています。これらの研究ギャップに対処するため、本研究では、多関係GCN（MR-GCN）を用いた概念ベースのシーケンシャル学習モデリングに焦点を当てた、新しい完全教師なしアプローチであるMR-ConceptGCNを提案します。 MR-ConceptGCNは、パーソナル知識グラフ（PKG）、MR-GCN、および事前学習済み言語モデルS (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.19253v1</guid>
+      <pubDate>Tue, 21 Jul 2026 16:23:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
