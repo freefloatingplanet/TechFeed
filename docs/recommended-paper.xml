@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Jul 2026 08:34:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:35:44 +0000</lastBuildDate>
     <item>
-      <title>多重関係グラフ畳み込みネットワークを用いた逐次学習器モデリング</title>
-      <link>https://arxiv.org/abs/2607.19253v1</link>
-      <description>ユーザーモデリングは、さまざまなパーソナライズドシステムにおいて重要なタスクです。グラフ構造データからの学習における有効性が認識されているグラフニューラルネットワーク（GNN）、特にグラフ畳み込みネットワーク（GCN）は、ユーザーモデリングにますます利用されています。しかし、既存のアプローチでは、グラフ内の異なる関係タイプを均質なものとして扱うことが多く、より豊かな意味を捉え、より情報量の多いユーザーモデルを構築する能力が制限されています。多関係GNN（MR-GNN）は表現学習や推薦に採用されていますが、ユーザーモデリングへの応用はまだ研究されていません。さらに、既存のGNNベースのユーザーモデリングアプローチでは、ユーザーインタラクションシーケンスが無視されています。これらの研究ギャップに対処するため、本研究では、多関係GCN（MR-GCN）を用いた概念ベースのシーケンシャル学習モデリングに焦点を当てた、新しい完全教師なしアプローチであるMR-ConceptGCNを提案します。 MR-ConceptGCNは、パーソナル知識グラフ（PKG）、MR-GCN、および事前学習済み言語モデルS (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.19253v1</guid>
-      <pubDate>Tue, 21 Jul 2026 16:23:16 +0000</pubDate>
+      <title>PG-KINN：順方向および逆方向偏微分方程式を解くための、物理学に基づいたペトロフ・ガラーキン・コルモゴロフ・アーノルドネットワーク</title>
+      <link>https://arxiv.org/abs/2607.20378v1</link>
+      <description>物理法則に基づいた偏微分方程式 (PDE) の学習は、多層パーセプトロン (MLP) が主流でしたが、そのスペクトルバイアスと密なパラメータ化により、精度と解釈可能性の両方が制限されていました。コルモゴロフ・アーノルド・ネットワーク (KAN) は、学習可能なスプライン活性化が古典的な離散化の区分的多項式基底と構造的に整合しているため、これらの制限を緩和します。しかし、PDE を損失関数に変換する方法は、近似器の選択と同様に決定的です。強い形式の残差最小化には高階微分と重み付けされた損失が必要であり、エネルギー (ブブノフ・ガラーキン) 形式は自己共役演算子に制限され、我々が示すように、パラメータ同定問題では自明な解に崩壊し、境界積分形式には既知の基本解が必要です。我々は、試行空間が KAN であり、テスト空間が Gauss-Legendre 求積法で評価される独立したコンパクトサポートの区分的多項式空間である Petrov-Galerkin 定式化に基づく物理情報に基づく KAN である PG-KINN を提案する。部分積分により微分次数が低減されるが、一般的な非自己共役、非線形、お (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.20378v1</guid>
+      <pubDate>Wed, 22 Jul 2026 17:08:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

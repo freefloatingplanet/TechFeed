@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 08:34:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:35:42 +0000</lastBuildDate>
     <item>
-      <title>建設工事が始まったばかりの “ミニカミオカンデ” 「中間水チェレンコフ検出器」とはなにか？</title>
-      <link>https://sorae.info/astronomy/20260716-iwcd.html</link>
-      <description>「この宇宙には物質が満ちており、反物質はほとんどない」という謎は、物理学の分野における最大の疑問の1つです。この謎を解くカギとして、素粒子「ニュートリノ」が持つと考えられている「CP対称性の破れ」があります。 国際共同研… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260716-iwcd.html</guid>
-      <pubDate>Thu, 16 Jul 2026 14:00:26 +0000</pubDate>
+      <title>SSA（宇宙状況把握）とは〜日本の防衛省と国際状況、企業の貢献、技術課題、運用システムを総合的に解説〜</title>
+      <link>https://sorabatake.jp/33237/</link>
+      <description>宇宙開発の進展に伴い、スペースデブリや衛星同士の衝突リスクが増加しており、それに伴い宇宙状況把握（SSA）がますます重要性を増しています。本記事では、SSAの概要や目的、運用システム、国内外の取り組み、既存の課題などについてまとめて解説します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/33237/</guid>
+      <pubDate>Tue, 14 Jul 2026 23:00:26 +0000</pubDate>
     </item>
     <item>
       <title>宇宙空間での大型構造物の組み立てが可能に？ Space Quartersが3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功 【宇宙ビジネスニュース】</title>
@@ -21,13 +21,6 @@
       <description>Space Quartersが、3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功しました。その仕組みと、実証が示したものを解説します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46343/</guid>
       <pubDate>Sat, 11 Jul 2026 00:55:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>ロシアが宇宙船「ソユーズMS-29」を打ち上げ　約3時間後にISSへ到着</title>
-      <link>https://sorae.info/ssn/20260715-soyuz-ms-29.html</link>
-      <description>ロシアの国営宇宙企業Roscosmos（ロスコスモス）は、日本時間2026年7月14日に「Soyuz（ソユーズ）2.1a」ロケットの打ち上げを実施しました。搭載されていた宇宙船「Soyuz（ソユーズ）MS-29」は無事に… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260715-soyuz-ms-29.html</guid>
-      <pubDate>Wed, 15 Jul 2026 07:37:54 +0000</pubDate>
     </item>
     <item>
       <title>アルテミス合意の署名国が70か国に　ボツワナ・セルビア・モーリシャスが署名</title>
@@ -77,6 +70,13 @@
       <description>2026年6月18日、VantorとRheinmetallはドイツおよび欧州各国の軍隊向けに、主権型の空間インテリジェンス能力構築を目的とした基本合意書（MOU）の締結を発表しました。このシステムは、人工衛星などが取得したデータから地上の状況を3Dで正確に把握するもので、宇宙・空・地上の情報を、収集指示（タスキング） ・融合・分析し、必要な場所へ届けられると期待されています。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46525/</guid>
       <pubDate>Sun, 12 Jul 2026 23:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>「宇宙産業にはまだ隙間が多い」「みんなが逡巡している今がチャンス」 宇宙を日常へ。テレビ局とクリエイターが見出した 宇宙ビジネスの可能性</title>
+      <link>https://sorabatake.jp/46558/</link>
+      <description>異業種から宇宙業界に参入した企業に焦点を当てた対談連載「Why Space Business～異業種企業が見出した宇宙業界の可能性～」、第2回に登場いただいたのはエンタメ業界です。異業種の視点だからこそ見出せる宇宙ビジネスの「勝機」と、宇宙を日常につなげるための視点について、たっぷりとお話を伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46558/</guid>
+      <pubDate>Thu, 23 Jul 2026 02:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

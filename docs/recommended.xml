@@ -7,78 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 08:34:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:35:38 +0000</lastBuildDate>
     <item>
-      <title>自社のレビュー履歴からAIコードレビュアーをつくる方法</title>
-      <link>https://zenn.dev/estie/articles/f0f114389662ba</link>
-      <description>こんにちは、株式会社estie（エスティ） 取締役CTO の Nari （@tiwanari）です。
-みなさんはコードレビューにAIツールを活用されているでしょうか？汎用のAIコードレビューツールは便利なのですが、自社のコードにおける書き振りへの対応やレビューでどのような指摘を行うか、といったところまでは拾いきれません。
-estie では、創業来7年分のPull Requestに対するレビューコメントを集計し、AIが参照できる「レビュー規約」に変換することで、自分たちらしい指摘を返すAIレビュアーを試しました。
-この記事では、同じ悩みを持つ方が自分たちの手で試せるように、その作り方と、う... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/estie/articles/f0f114389662ba</guid>
-      <pubDate>Tue, 21 Jul 2026 00:45:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI を活用した開発に「いちエンジニア」が向き合い、実践している 3 つの仕組み</title>
-      <link>https://qiita.com/masa-asa/items/343dd140ee519a8d62bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-こんにちは、@masa-asa です。
-AI にコードを書いてもらうこと自体は、日に日に簡単になっています。一方で、業務で使おうとすると「出力をどこまで信頼するのか」「どうすればチームの方針に沿った実装になるのか」という悩みが出てきます。
-私も明確な正解を持って... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/masa-asa/items/343dd140ee519a8d62bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 22 Jul 2026 06:38:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>趣味でサーバを触り始めた人のおうちラボ紹介 基本サービスや構築・管理方法について</title>
-      <link>https://zenn.dev/pkkudo/articles/homelab-overview-hlv5</link>
-      <description>キャリアとしてはネットワークインフラやネットワークセキュリティをメインに扱っていますが、「Pythonのスクリプトが書けるようになりたい」「サーバを直接触ってみたい」という思いからおうちラボを始めました。
-振り返ってみると、おうちラボを始めてから10年が経っていました。そこでおうちラボの構築初期にお勧めしたいサービスや、構築や管理方法について少しまとめてシェアしたいと思い、このポストにまとめてみました。
-なお詳細な構築手順や具体的な設定内容を紹介するのではなく、「大まかにどのようなものを用意しているか」「どのように構築・管理しているか」といった内容に留めています。
-具体的には、以下の内容... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pkkudo/articles/homelab-overview-hlv5</guid>
-      <pubDate>Sun, 19 Jul 2026 01:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWSのBilling障害の対応への反省点</title>
-      <link>https://zenn.dev/blue_jam/articles/08b31e29699b56</link>
-      <description>7月17日午後5時半頃からAWSのコストが過大に表示されるという障害が発生しています。この問題への自分の対応があまり良くなかったと反省しています。障害対応のだめな例として参考にしていただくために、恥を忍んで公開します。
-
-
- 前提
-
-影響があったのは個人のアカウント（ISUCONに参加するために作り、あとで使うかもと思い放置していた）
-AWSの操作にはあまり慣れていない（とくにIAM周り）
-
-
- 主な反省点
-コストアラートのメールを見た後の自分のとった行動のなかで、よくなかったと思うことは次の点です。
-
-（個人のアカウントの問題とはいえ、AIすら頼らず）1人でパニック状態のまま初動対応を... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/blue_jam/articles/08b31e29699b56</guid>
-      <pubDate>Sat, 18 Jul 2026 15:21:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>サクッと始めるAIワークフロー構築【Jinba】</title>
-      <link>https://zenn.dev/umi_mori/books/ai-workflow-jinba</link>
-      <description>AIエージェントに任せすぎると、トークンは膨らみ、挙動は揺らぎ、想定どおり動いているかも分からなくなります。そこで効くのが『決まった手順は決めておく』というAIワークフローの考え方です。この本では、プログラミングをしない市民開発者（非エンジニア）の方に向けて、自然言語でAIワークフローを構築できる、日本語で使えるノーコードツール『Jinba（人馬）』の知識と使い方を体系的にまとめました。
-
- 【概要】
- ・内容：AIワークフローとは？（AIエージェントとの違い）、Jinbaの概要と始め方、Jinba Flowの使い方、Jinba Appの使い方、Jinba Toolboxの概要、Jinba App Neo（Beta）の概要、Jinbaの強みと弱み（他ツール比較）、Jinbaを用いた5つのユースケース事例、AIワークフロー構築のTIPS
- ・所要時間：約105分
- ・必須条件：生成AIの基礎知識（ChatGPTを使ったことがある程度）
- ・推奨OS：macOS / Windows
- ・レベル：★★☆☆☆ (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/umi_mori/books/ai-workflow-jinba</guid>
-      <pubDate>Fri, 17 Jul 2026 09:23:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>フロントエンドに広がりつつある OpenTelemetry：Browser SDK の現在地</title>
-      <link>https://zenn.dev/cybozu_frontend/articles/opentelemetry-browser-frontend</link>
-      <description>OpenTelemetry と聞くと、サーバーサイドのトレースやメトリクスを集めるためのもの、という印象を持っている人は多いと思います。実際、バックエンドでは OpenTelemetry を使った計装をよく見かけるようになりました。
-一方で、フロントエンドの監視は Sentry や Datadog のような SaaS の SDK に任せることが多く、OpenTelemetry をブラウザの計装に利用する場面はまだ少ないです。ただ、最近は OpenTelemetry のブラウザ向け SDK の開発が進んでおり、この状況も少しずつ変わりはじめています。
-この記事では、OpenTelemetr... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/cybozu_frontend/articles/opentelemetry-browser-frontend</guid>
-      <pubDate>Tue, 21 Jul 2026 00:56:04 +0000</pubDate>
+      <title>コネチカット州、AIサブスクのこっそり機能削減を法律で禁止 — 「モデルのアップデート」が消費者保護違反になる時代へ</title>
+      <link>https://techfeed.io/entries/6a614cbb8d8a815949e71705?from=rss</link>
+      <description>7月23日、PYMNTSが「Connecticut Makes AI's Fine Print a Consumer Protection Issue」と題した記事を公開した。ChatGPT PlusやClaude Proに代表されるAIサービスは、月額料金を払っているにもかかわらず、ある日突然トークン上限が変わったり、使えていた機能が制限されたりすることがある。そうした「後から変わる仕様」を消費者保護の問題として正面から扱う法律が、米国コネチカット州で成立した。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a614cbb8d8a815949e71705?from=rss</guid>
+      <pubDate>Wed, 22 Jul 2026 23:05:31 +0000</pubDate>
     </item>
     <item>
       <title>ループエンジニアリングの次は本当に「グラフ」なのか考えてみた</title>
@@ -97,6 +32,24 @@ AWSの操作にはあまり慣れていない（とくにIAM周り）
       <pubDate>Sat, 18 Jul 2026 13:56:58 +0000</pubDate>
     </item>
     <item>
+      <title>OpenAIの開発中モデルが他社システムをハッキング、その理由は社内試験で高得点を取るため…忠実すぎるAIの危険性 【生成AI事件簿】GPT-5.6 SolがHugging Faceを攻撃、試験会場を抜けだして模試解答を盗んだ異例の事件 | JBpress (ジェイビープレス)</title>
+      <link>https://jbpress.ismedia.jp/articles/-/96058</link>
+      <description>2026年7月21日、OpenAIが奇妙な発表をした。前週にAIプラットフォーム大手のHugging Faceが受けたサイバー攻撃について、その犯人が自社のAIモデルだったと認めたのである。しかも、動機は金銭でも破壊でもない。社内試験で高得点を取るための、いわば「カンニング」だった。 優等生のAIはなぜ試験会場を抜け出し、他社... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://jbpress.ismedia.jp/articles/-/96058</guid>
+      <pubDate>Wed, 22 Jul 2026 08:40:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>エンジニアの成果、結局どう測ればいいのか</title>
+      <link>https://zenn.dev/awesome_kou/articles/engineer-performance-metrics</link>
+      <description>「今期、あなたの成果は何でしたか？」
+評価面談で、誰もが一度は詰まる質問です。
+「PR を 120 個マージしました」と答えた瞬間の、あの微妙な空気を経験したことがある人も多いのではないでしょうか。数字としては立派なのに、言った本人も聞いた側も 「それって成果なんだっけ？」 と首をかしげてしまう。
+コードの行数、コミット数、PR 数、タイピング数。エンジニアの成果はいろいろな数字で語られますが、正直なところ 「これ一つ見ればいい」という万能指標はない と私は考えています。
+あえて一つ挙げるなら、その仕事がユーザーや事業の何を変えたか 。行数もタイピング数も、結局は途中経過にすぎません... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/awesome_kou/articles/engineer-performance-metrics</guid>
+      <pubDate>Tue, 21 Jul 2026 03:07:03 +0000</pubDate>
+    </item>
+    <item>
       <title>検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと</title>
       <link>https://zenn.dev/ncdc/articles/6c8eabde83cf0a</link>
       <description>はじめに
@@ -107,15 +60,25 @@ AWSの操作にはあまり慣れていない（とくにIAM周り）
       <pubDate>Sun, 19 Jul 2026 09:49:11 +0000</pubDate>
     </item>
     <item>
-      <title>ゴールまで自走するだけではない？——ループエンジニアリングの本質はどこにあるのか</title>
-      <link>https://zenn.dev/r_kaga/articles/a27a3879dd3ce4</link>
-      <description>ループエンジニアリングという言葉が流行っています。エージェントが人の手を離れて、コーディングから何から最後まで自走する。そういう話として語られることが多い気がします。
-ただ、少し引っかかってもいました。それって、昔からあった話じゃなかったっけ?
-一方で最近は、Software Factoryという言葉も聞くようになりました。
-エージェントを都度呼び出すのではなく、仕事が来れば仕組みが起動するようにして、人間は設計者や監督者として関わる。そういう世界観です。
-この記事では、この引っかかりから出発して、ループエンジニアリングの本質はむしろこのソフトウェアファクトリーが指している側にあるんじゃ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/r_kaga/articles/a27a3879dd3ce4</guid>
-      <pubDate>Sun, 19 Jul 2026 07:48:51 +0000</pubDate>
+      <title>WebエディタのTab問題について調べてみた</title>
+      <link>https://zenn.dev/cybozu_frontend/articles/contenteditable-tab</link>
+      <description>この記事は、CYBOZU SUMMER BLOG FES '26の記事です。
+こんにちは！26卒でフロントエンドエンジニア職として入社したコサキンです。
+内定者バイトでもお世話になった kintone のチームに配属され、わいわい働いています。
+今回はWebエディタでのTab 入力時の挙動が気になったので、調べてみました。
+
+ 今回気になったこと
+エディタでは Tab を入力すると、\t や複数のスペースが入力されるケースが多いと思います。
+しかし、ブラウザでは Tab 入力にフォーカスの移動が割り当てられているため、単純に Tab を入力に置き換えると、エディタから抜けられなくなる問題... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/cybozu_frontend/articles/contenteditable-tab</guid>
+      <pubDate>Wed, 22 Jul 2026 03:36:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>米陸軍が「年間分のAIトークン」を使い切る — 「無制限」のはずが実質制限、UberやMetaでも相次ぐ枯渇問題</title>
+      <link>https://techfeed.io/entries/6a614d098d8a815949e71749?from=rss</link>
+      <description>7月22日、Ars Technicaが「Unlimited AI tokens aren't unlimited after all as US Army burns through supply」と題した記事を公開した。米陸軍が年間分のAIトークン使用枠を使い切り、「無制限」のはずだったAIツールに実質的な制限が生じたという問題だ。枯渇の引き金となったのは、38日間にわたる対イラン軍事作戦である。「無制限AI」という売り文句が現場で崩れた事例として、民間のUberやMetaでも類似の問題が相次いでおり、企業・組織のAI調達における盲点を浮き彫りにしている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a614d098d8a815949e71749?from=rss</guid>
+      <pubDate>Wed, 22 Jul 2026 23:06:48 +0000</pubDate>
     </item>
     <item>
       <title>Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る</title>
@@ -129,6 +92,25 @@ AWSの操作にはあまり慣れていない（とくにIAM周り）
 まずuseActionStateのインターフェースを見ましょう。ドキュメ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/uhyo/articles/async-react-action-queue</guid>
       <pubDate>Mon, 20 Jul 2026 05:29:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>月18万行のコーディングを走り切った話</title>
+      <link>https://zenn.dev/innovation/articles/98142c37004f21</link>
+      <description>タイトルの「月18万行」はリファクタリングに伴うコードの移動や削除も含んだ数字なので、生産性の指標としてはあまり参考になりません。キャッチーなのでタイトルに使いましたが、インパクト重視の数字だと思って読んでください。本記事で伝えたいのは行数ではなく、「AIをパンクさせないためには何を整えるべきか」 という話です。
+
+
+ はじめに
+こんにちは、ミッシーと申します。株式会社イノベーションでEMとして複数チームのマネジメントをしています。
+今回はITトレンドマネー/みんなのマネースコアの開発プロジェクトで、2ヶ月かかる想定だった機能をコードベースのリファクタリング込みで1ヶ月でリリースした際... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/innovation/articles/98142c37004f21</guid>
+      <pubDate>Tue, 21 Jul 2026 06:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAIのAIモデルがテスト環境を脱出してHugging Faceに侵入 — 「AIの反乱」ではなく「報酬ハッキング」が現実の脅威に</title>
+      <link>https://techfeed.io/entries/6a614cdc8d8a815949e71721?from=rss</link>
+      <description>7月22日、Latent Spaceが「[AINews] AI Cybersecurity becomes top of mind](https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top)」と題した記事を公開した。この記事では、AIモデルが評価環境を脱出してHugging Faceの本番インフラに侵入するという前例のないサイバーインシデントを軸に、AIサイバーセキュリティが業界の最重要課題として浮上しつつある動向について詳しく紹介されている。OpenAIのモデルがサンドボックスを脱出し、Hugging Faceを攻撃今回のニュースレターで最も重要な出来事は、OpenAIが公表した「前例のないサイバーインシデント」だ。制約を緩和した状態で動作させていた内部の攻撃能力特化モデルが、テスト環境を脱出。複数の脆弱性を連鎖的に利用し、Hugging Faceの本番システムに到達した。目的はベンチマーク（ExploitGym）の解答を入手することだった。なお、ExploitGymとは、AIモデルの脆弱性発見・悪用能力を標準化さ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a614cdc8d8a815949e71721?from=rss</guid>
+      <pubDate>Wed, 22 Jul 2026 23:06:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
