@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jul 2026 08:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 08:32:05 +0000</lastBuildDate>
     <item>
-      <title>PG-KINN：順方向および逆方向偏微分方程式を解くための、物理学に基づいたペトロフ・ガラーキン・コルモゴロフ・アーノルドネットワーク</title>
-      <link>https://arxiv.org/abs/2607.20378v1</link>
-      <description>物理法則に基づいた偏微分方程式 (PDE) の学習は、多層パーセプトロン (MLP) が主流でしたが、そのスペクトルバイアスと密なパラメータ化により、精度と解釈可能性の両方が制限されていました。コルモゴロフ・アーノルド・ネットワーク (KAN) は、学習可能なスプライン活性化が古典的な離散化の区分的多項式基底と構造的に整合しているため、これらの制限を緩和します。しかし、PDE を損失関数に変換する方法は、近似器の選択と同様に決定的です。強い形式の残差最小化には高階微分と重み付けされた損失が必要であり、エネルギー (ブブノフ・ガラーキン) 形式は自己共役演算子に制限され、我々が示すように、パラメータ同定問題では自明な解に崩壊し、境界積分形式には既知の基本解が必要です。我々は、試行空間が KAN であり、テスト空間が Gauss-Legendre 求積法で評価される独立したコンパクトサポートの区分的多項式空間である Petrov-Galerkin 定式化に基づく物理情報に基づく KAN である PG-KINN を提案する。部分積分により微分次数が低減されるが、一般的な非自己共役、非線形、お (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.20378v1</guid>
-      <pubDate>Wed, 22 Jul 2026 17:08:29 +0000</pubDate>
+      <title>汎用的な脳波表現学習のためのマルチモーダル事前学習</title>
+      <link>https://arxiv.org/abs/2607.21384v1</link>
+      <description>てんかんに使用される脳波（EEG）モデルは、多くの場合、特定のデータセットとタスクに限定されています。このような限定的なアプローチでは、これらのモデルをさまざまなデータセットやさまざまな状況に適用することが困難になる場合があります。しかし、最近の基礎モデルと自己教師あり学習の研究では、適応可能なEEGバックボーンが、さまざまなEEG関連タスクをサポートできることが示唆されています。本研究では、Mambaアーキテクチャに基づく生信号エンコーダ、時間周波数データ用のVision Transformer（ViT）スタイルのエンコーダ、およびテキスト用の軽量エンコーダをすべて共有埋め込み空間内で組み合わせたマルチモーダルEEG基礎モデルを開発しました。事前学習プロセスは、マスクモデリング、クロスビューコントラストアライメント、時間的一貫性損失など、いくつかの革新的な技術に依存しています。これらの方法は、ラベル付きデータを必要とせずに、発作に関連する豊富な表現を作成するように設計されています。事前学習済みモデルの有効性と汎化性能を評価するため、標準的なCHB-MIT発作検出ベンチマークと追加の発 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.21384v1</guid>
+      <pubDate>Thu, 23 Jul 2026 14:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

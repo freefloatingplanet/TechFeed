@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 08:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 08:32:03 +0000</lastBuildDate>
     <item>
-      <title>SSA（宇宙状況把握）とは〜日本の防衛省と国際状況、企業の貢献、技術課題、運用システムを総合的に解説〜</title>
-      <link>https://sorabatake.jp/33237/</link>
-      <description>宇宙開発の進展に伴い、スペースデブリや衛星同士の衝突リスクが増加しており、それに伴い宇宙状況把握（SSA）がますます重要性を増しています。本記事では、SSAの概要や目的、運用システム、国内外の取り組み、既存の課題などについてまとめて解説します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/33237/</guid>
-      <pubDate>Tue, 14 Jul 2026 23:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>宇宙空間での大型構造物の組み立てが可能に？ Space Quartersが3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功 【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/46343/</link>
-      <description>Space Quartersが、3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功しました。その仕組みと、実証が示したものを解説します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46343/</guid>
-      <pubDate>Sat, 11 Jul 2026 00:55:58 +0000</pubDate>
+      <title>「短期間に何回挑戦できるか」中須賀真一教授に聞く第4世代に突入した宇宙開発時代の勝ち方と、開発スピードを支える調達DX_PR</title>
+      <link>https://sorabatake.jp/46542/</link>
+      <description>宇宙産業を取り巻く構造変化や今後の展望、また、開発現場におけるリアルな課題や、設計・調達・試作のスピード向上を支える基盤整備の重要性について、最前線で活躍するお二人にお話を伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46542/</guid>
+      <pubDate>Thu, 23 Jul 2026 23:00:46 +0000</pubDate>
     </item>
     <item>
       <title>アルテミス合意の署名国が70か国に　ボツワナ・セルビア・モーリシャスが署名</title>
@@ -56,6 +49,13 @@
       <description>2013年にすばる望遠鏡の撮影画像から発見された「GJ 504 b」は、写真に写った光の成分を表すものとして、 “ピンクの惑星” という通称があります。しかし、GJ 504 bは本当に惑星なのかなど、謎な点が多数あります… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260719-gj-504-b.html</guid>
       <pubDate>Sun, 19 Jul 2026 12:27:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>BULLのデブリ化防止装置「HORN」が初の軌道上実証に成功。膜面展開の軌道上撮影画像も公開！【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/46577/</link>
+      <description>2026年7月3日、宇宙デブリ対策事業を手がける株式会社BULLは、宇宙デブリ化防止装置「HORN」の初の軌道上実証に成功したと発表しました。実証の内容と、実証成功の意義について、また、代表の宇藤さんのインタビューを紹介しています。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46577/</guid>
+      <pubDate>Thu, 23 Jul 2026 22:45:39 +0000</pubDate>
     </item>
     <item>
       <title>「テンポの良い地上局展開と実用できる衛星コンステレーションの構築を」インフォステラとSSC Spaceが提携し、セーレンの小型衛星「FUSION-1」向けに地上局サービスを提供【宇宙ビジネスニュース】</title>
