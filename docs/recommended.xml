@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 08:11:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 08:32:19 +0000</lastBuildDate>
+    <item>
+      <title>ドメイン駆動設計から、ドメイン駆動開発プロセスの時代へ</title>
+      <link>https://zenn.dev/manalink_dev/articles/domain-driven-development-process</link>
+      <description>はじめに
+「ドメイン駆動設計から、ドメイン駆動開発プロセスの時代へ」という話をします。
+AI駆動開発によって開発作業そのものの自動化がすごい進んで、ボトルネックはどこに移動してるんだ、という話はみんな気になってるところだと思います。もちろん、事業活動とか、そもそも売り上げが上がるのかどうかがボトルネックになるよねっていうのはそりゃそうなんだけど、それを言い始めるときりがありません。今回は開発プロセスの話をしたいと思ってます。ここでいう開発プロセスとは、誰が、いつ、何を決め、何に責任を持ち、いつ本番にリリースできるようになるのか、そしてリリースする順番をどうするのか、といったものです。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/manalink_dev/articles/domain-driven-development-process</guid>
+      <pubDate>Fri, 24 Jul 2026 09:45:31 +0000</pubDate>
+    </item>
     <item>
       <title>フロントエンドに広がりつつある OpenTelemetry：Browser SDK の現在地</title>
       <link>https://zenn.dev/cybozu_frontend/articles/opentelemetry-browser-frontend</link>
@@ -48,13 +57,6 @@ Claudeと設計を詰める
       <pubDate>Thu, 23 Jul 2026 00:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bing広告に偽のClaudeアプリが出現 — Anthropicの正規ドメインを踏み台に29組織へマルウェアを配布</title>
-      <link>https://techfeed.io/entries/6a63f197d0c20765e83d6108?from=rss</link>
-      <description>7月24日、BleepingComputerが「Fake Claude app promoted by Bing ads pushes SectopRAT malware」と題した記事を公開した。Bingの広告経由で偽のClaudeデスクトップアプリを装ったマルウェア「SectopRAT」が配布されたマルバタイジングキャンペーンについて詳報している。正規サービスの信頼を逆手に取った手口で、わずか2日間で少なくとも29組織が侵害されたという事実は、AIツールへの関心の高まりが攻撃者にとっても格好の標的になりつつあることを示している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a63f197d0c20765e83d6108?from=rss</guid>
-      <pubDate>Fri, 24 Jul 2026 23:13:27 +0000</pubDate>
-    </item>
-    <item>
       <title>エンジニアの成果、結局どう測ればいいのか</title>
       <link>https://zenn.dev/awesome_kou/articles/engineer-performance-metrics</link>
       <description>「今期、あなたの成果は何でしたか？」
@@ -92,21 +94,42 @@ Bounded Contextを分ける
       <pubDate>Thu, 23 Jul 2026 09:00:06 +0000</pubDate>
     </item>
     <item>
-      <title>検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと</title>
-      <link>https://zenn.dev/ncdc/articles/6c8eabde83cf0a</link>
-      <description>はじめに
-検索画面のUIを決める会議では、「この条件、とりあえずあいまい検索でお願いします」「並び替えはとりあえず全部入れましょう」といったやりとりがよく発生します。その結果、後からバックエンドで検索速度に困る、という経験を何度かしました。
-私が働いているNCDCでは、PMだけでなくデザイナーやエンジニアも要件定義や基本設計の会議に参加することが多いです。業務システムの画面は、デザイナーさんが作ったFigmaを元にお客さんとUIを決めていくのですが、議論の主体はデザイナーさんで、エンジニアは気になった時だけ発言する、というスタンスが多いかなぁと思います。
-本記事では、業務システムの検... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/6c8eabde83cf0a</guid>
-      <pubDate>Sun, 19 Jul 2026 09:49:11 +0000</pubDate>
+      <title>AI時代のエンジニアリングマネージャーのあり方｜外部品質編 〜品質の可視化を、現場と経営をつなぐ形にするまで〜</title>
+      <link>https://zenn.dev/loglass/articles/ef099b123153cf</link>
+      <description>!
+この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の153週目の記事です！
+3年間連続達成まで残り7週となりました！
+
+こんにちは、ログラスの飯田(@ysk_118)です。
+ここ数年、AIによってコードを書く速度はずいぶん上がりました。一方で、「品質向上に対してどのようにアプローチしていくのか」という問いも、多くの現場で同時に立ち上がっているように思います。
+AIによる開発現場の進化の渦中において、エンジニアリングマネージャーはどう変化すべきなのか？品質にとどまらずさまざまな観点でアップデートが求められていると感じていますが、まずは直近で取り... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/loglass/articles/ef099b123153cf</guid>
+      <pubDate>Fri, 24 Jul 2026 04:40:27 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントの「記憶はどこに置くか」— ステートレスvsステートフル設計がスケーリング戦略全体を左右する理由</title>
-      <link>https://techfeed.io/entries/6a63f1c5d0c20765e83d6122?from=rss</link>
-      <description>7月24日、Iván Palomares Carrascosaが「Stateful vs. Stateless Agent Design: Tradeoffs for Scalable Agentic Systems」と題した記事を公開した。LLMベースのエージェントをプロダクション環境に展開する際、ロードバランサーの設定より先に答えるべき根本的な問いがある。「エージェントの記憶はどこに置くか」だ。この設計判断は、コードレベルの実装にとどまらず、スケーリング戦略全体に影響を及ぼす。そして、この問いが単純ではない理由がある。ステートフル設計を選んだ瞬間に、「局所的な健忘症（localized amnesia）」と呼ばれるスケーリング固有の障害が生まれるからだ。この問題とそのトレードオフこそが、本記事の最も差別化された論点である。記事では、Groq API経由でLlama 3.1 8B Instantを使った動作可能なコードサンプルを交えながら、2つのパラダイムを詳しく解説している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a63f1c5d0c20765e83d6122?from=rss</guid>
-      <pubDate>Fri, 24 Jul 2026 23:14:12 +0000</pubDate>
+      <title>Terraform / Kubernetes の構築で、初心者がよく指摘されるポイントのまとめ</title>
+      <link>https://zenn.dev/scalar_sol_blog/articles/6fa517a84cb7ff</link>
+      <description>弊社では、AWS、Azure、GCP に対応した kubernetes ベースの Scalar製品を展開するインフラのテンプレートを開発しています。この開発をエンジニア歴の浅い二人にお願いしており、二人からあがってくるマージリクエスト（MR）のレビューを重ねると、指摘の多くは毎回異なる「新しい問題」ではなく、同じパターンの再発であることが分かってきます。
+そこで、繰り返し指摘している事項をまとめました。
+
+ 対象読者
+
+Terraform / Kubernetes を使ったインフラ構築を始めたばかりのエンジニア
+IaC の MR がなかなかレビューを通らず、指摘の傾向を知りたい方
+AI ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/scalar_sol_blog/articles/6fa517a84cb7ff</guid>
+      <pubDate>Fri, 24 Jul 2026 01:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>ターミナルを自作したら、1日のコミット数が500を超えて、生産性がバグった話</title>
+      <link>https://zenn.dev/singularity/articles/diy-terminal-500-commits</link>
+      <description>僕は長いこと、ターミナルの中で暮らしています。エディタは emacs、VS Code や GUI 系のツールはどうにも手に馴染まない。Web 上の開発環境も、あの「ちょっとした不便」が積もって結局使わなくなる。要するに、ターミナルに慣れ親しみすぎて、GUI のボタンがどこにあるのか探せない人間です。
+そんな僕が、勢いで自分専用のターミナルを作ったら、GitHub のコミットが毎日 500 を超えるようになりました。一度きりの当たり日ではなく、来る日も来る日も、です。生産性がバグりました。
+
+毎日 500 コミット超え。草が真緑になった
+先に言い訳をしておくと、「コミット数は生産性の指標じ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/singularity/articles/diy-terminal-500-commits</guid>
+      <pubDate>Thu, 23 Jul 2026 20:55:48 +0000</pubDate>
     </item>
     <item>
       <title>Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る</title>
@@ -120,22 +143,6 @@ Bounded Contextを分ける
 まずuseActionStateのインターフェースを見ましょう。ドキュメ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/uhyo/articles/async-react-action-queue</guid>
       <pubDate>Mon, 20 Jul 2026 05:29:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>MarpのHTMLをコネコネして、biim式RTA画面で登壇した</title>
-      <link>https://zenn.dev/imaimai17468/articles/d045e19b191102</link>
-      <description>先日の登壇で、Marpで作ったスライドをbiim式（RTA動画でおなじみの、左上に大きくゲーム画面、右に詳細データや小ネタ、下に実況キャラの顔と台詞を並べるレイアウト）で発表しました。
-ゲーム画面の位置にスライドを置き、右にはタイマーとラップ表を、下にはアバターと台詞を入れています。
-
-画面には「Any%」と掲げておきながらレギュレーションは存在しませんし、RTAと名乗りながら発表には規定の持ち時間があります。
-そこは雰囲気ということで、どうか許してください。
-
- 発端
-
-MarpってHTMLを出力できるじゃん
-じゃあそのHTMLをコネコネしたら、スライド形式にとらわれないアプローチがで... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/imaimai17468/articles/d045e19b191102</guid>
-      <pubDate>Thu, 23 Jul 2026 05:26:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

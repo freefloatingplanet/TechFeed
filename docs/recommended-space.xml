@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 08:11:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 08:32:23 +0000</lastBuildDate>
+    <item>
+      <title>その名は「NINJA」　すばる望遠鏡の新しい観測装置が2026年夏から始動へ</title>
+      <link>https://sorae.info/astronomy/20260723-subaru-ninja.html</link>
+      <description>国立天文台は2026年7月13日付で、ハワイ観測所のすばる望遠鏡に新たな近赤外線分光器「NINJA（ニンジャ）」が2026年夏に搭載され、初めての試験観測に臨むと発表しました。この新装置は、急速に明るさを変える突発的な天… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260723-subaru-ninja.html</guid>
+      <pubDate>Thu, 23 Jul 2026 09:34:07 +0000</pubDate>
+    </item>
     <item>
       <title>宇宙空間での大型構造物の組み立てが可能に？ Space Quartersが3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功 【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/46343/</link>
@@ -23,11 +30,11 @@
       <pubDate>Thu, 23 Jul 2026 23:00:46 +0000</pubDate>
     </item>
     <item>
-      <title>アルテミス合意の署名国が70か国に　ボツワナ・セルビア・モーリシャスが署名</title>
-      <link>https://sorae.info/space/20260719-artemis-accords-70.html</link>
-      <description>NASA（アメリカ航空宇宙局）は、新たにボツワナ、セルビア、モーリシャスが「アルテミス合意」に署名したことを発表しました。これにより、アルテミス合意の署名国は合計70か国に達しました。 アルテミス合意とは、アメリカ主導の… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260719-artemis-accords-70.html</guid>
-      <pubDate>Sun, 19 Jul 2026 07:40:53 +0000</pubDate>
+      <title>中国企業の東方空間、世界最大級の固体ロケットで衛星9機を軌道投入　上海沖から初の洋上打ち上げ</title>
+      <link>https://sorae.info/ssn/20260725-orienspace-gravity-1.html</link>
+      <description>中国の宇宙スタートアップ「東方空間（Orienspace）」は日本時間2026年7月22日、固体燃料ロケット「引力1号（Gravity-1）」を打ち上げ、9機の衛星を予定軌道へ投入しました。上海市東沖の東シナ海で実施され… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260725-orienspace-gravity-1.html</guid>
+      <pubDate>Sat, 25 Jul 2026 08:55:19 +0000</pubDate>
     </item>
     <item>
       <title>古代の風が作り上げた不思議な岩　NASA火星探査車「キュリオシティ」が撮影</title>
@@ -42,13 +49,6 @@
       <description>NASA（アメリカ航空宇宙局）は2026年7月15日付で、ガンマ線観測衛星「ニール・ゲーレルス・スウィフト（Neil Gehrels Swift）」の軌道上昇ミッションに関する続報を公開しました。 スウィフトの大気圏再突… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260720-swift-boost-mission.html</guid>
       <pubDate>Mon, 20 Jul 2026 09:41:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>“ピンクの惑星”「GJ 504 b」には “塩類の雲” が浮かんでいる　ウェッブ宇宙望遠鏡の観測で判明</title>
-      <link>https://sorae.info/astronomy/20260719-gj-504-b.html</link>
-      <description>2013年にすばる望遠鏡の撮影画像から発見された「GJ 504 b」は、写真に写った光の成分を表すものとして、 “ピンクの惑星” という通称があります。しかし、GJ 504 bは本当に惑星なのかなど、謎な点が多数あります… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260719-gj-504-b.html</guid>
-      <pubDate>Sun, 19 Jul 2026 12:27:50 +0000</pubDate>
     </item>
     <item>
       <title>BULLのデブリ化防止装置「HORN」が初の軌道上実証に成功。膜面展開の軌道上撮影画像も公開！【宇宙ビジネスニュース】</title>
