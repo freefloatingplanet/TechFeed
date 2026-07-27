@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 08:32:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 09:57:54 +0000</lastBuildDate>
     <item>
-      <title>汎用的な脳波表現学習のためのマルチモーダル事前学習</title>
-      <link>https://arxiv.org/abs/2607.21384v1</link>
-      <description>てんかんに使用される脳波（EEG）モデルは、多くの場合、特定のデータセットとタスクに限定されています。このような限定的なアプローチでは、これらのモデルをさまざまなデータセットやさまざまな状況に適用することが困難になる場合があります。しかし、最近の基礎モデルと自己教師あり学習の研究では、適応可能なEEGバックボーンが、さまざまなEEG関連タスクをサポートできることが示唆されています。本研究では、Mambaアーキテクチャに基づく生信号エンコーダ、時間周波数データ用のVision Transformer（ViT）スタイルのエンコーダ、およびテキスト用の軽量エンコーダをすべて共有埋め込み空間内で組み合わせたマルチモーダルEEG基礎モデルを開発しました。事前学習プロセスは、マスクモデリング、クロスビューコントラストアライメント、時間的一貫性損失など、いくつかの革新的な技術に依存しています。これらの方法は、ラベル付きデータを必要とせずに、発作に関連する豊富な表現を作成するように設計されています。事前学習済みモデルの有効性と汎化性能を評価するため、標準的なCHB-MIT発作検出ベンチマークと追加の発 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.21384v1</guid>
-      <pubDate>Thu, 23 Jul 2026 14:47:00 +0000</pubDate>
+      <title>非対称折り紙曲げと二室式アクチュエータを備えた一体型ハンド</title>
+      <link>https://arxiv.org/abs/2607.22320v1</link>
+      <description>ソフトロボットハンドに固有の受動的な適応性は、安全で柔軟なインタラクションを必要とするアプリケーションにおいて利点をもたらします。しかし、既存のソフトロボットハンドは、その複雑な構造のために、十分な出力性能と容易な製造を同時に達成することが困難な場合が多いです。本論文では、曲げ動作を生成するための非対称折り紙曲げ（AOB）パターンと、多機能性を得るための非対称デュアルチャンバー（ADC）設計を紹介します。AOBシングルチャンバー（AOB-S）ユニットとAOBデュアルチャンバー（AOB-D）ユニットを設計し、提案する折り紙に着想を得たソフトロボット（OSOR）ハンドの指と手のひらのアクチュエータを構成します。OSORハンドは、製造プロセスを大幅に簡素化するモノリシック構造内で、生体に着想を得た指と手のひらの動きと十分な出力性能を実現します。ユニットの幾何学的非対称性を特徴付ける非対称比を定義することにより、AOBおよびADC構造の解析モデルを提案します。幾何学的解析により、AOBアクチュエータの設計のための有限要素解析ツールが得られます。非対称折り紙デザインにより、単一の熱可塑性ポリウレ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.22320v1</guid>
+      <pubDate>Fri, 24 Jul 2026 13:58:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

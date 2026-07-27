@@ -7,16 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 08:32:19 +0000</lastBuildDate>
-    <item>
-      <title>ドメイン駆動設計から、ドメイン駆動開発プロセスの時代へ</title>
-      <link>https://zenn.dev/manalink_dev/articles/domain-driven-development-process</link>
-      <description>はじめに
-「ドメイン駆動設計から、ドメイン駆動開発プロセスの時代へ」という話をします。
-AI駆動開発によって開発作業そのものの自動化がすごい進んで、ボトルネックはどこに移動してるんだ、という話はみんな気になってるところだと思います。もちろん、事業活動とか、そもそも売り上げが上がるのかどうかがボトルネックになるよねっていうのはそりゃそうなんだけど、それを言い始めるときりがありません。今回は開発プロセスの話をしたいと思ってます。ここでいう開発プロセスとは、誰が、いつ、何を決め、何に責任を持ち、いつ本番にリリースできるようになるのか、そしてリリースする順番をどうするのか、といったものです。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/manalink_dev/articles/domain-driven-development-process</guid>
-      <pubDate>Fri, 24 Jul 2026 09:45:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Jul 2026 09:57:46 +0000</lastBuildDate>
     <item>
       <title>フロントエンドに広がりつつある OpenTelemetry：Browser SDK の現在地</title>
       <link>https://zenn.dev/cybozu_frontend/articles/opentelemetry-browser-frontend</link>
@@ -57,6 +48,27 @@ Claudeと設計を詰める
       <pubDate>Thu, 23 Jul 2026 00:54:00 +0000</pubDate>
     </item>
     <item>
+      <title>メルカリ、梨の転売疑惑に「盗品の出品は確認されず」　誹謗中傷には利用制限も</title>
+      <link>https://www.itmedia.co.jp/news/articles/2607/27/news081.html</link>
+      <description>今回の発信の背景には、福岡県うきは市の梨農園で起きた大量盗難がある。テレ朝NEWSなどの報道によると、収穫を目前にした品種「幸水」約5000個が7月中旬に盗難に遭い、被害額は約200万円に上るという。同じ農園は前年にも同規模の被害を受けており、農園主は閉園を決めたと伝えられている。 事件がテレビやSNSで広まる... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2607/27/news081.html</guid>
+      <pubDate>Mon, 27 Jul 2026 06:39:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Astroで日英ブログを作って分かった5つの実装パターン</title>
+      <link>https://zenn.dev/akari1106/articles/ea85f0a245bb8b</link>
+      <description>はじめに
+前段として「個人サイト、結局何で作る？元SEOがAstro + GitHub Pagesに決めるまで」を書いています。趣味の個人サイトを作るにあたって、Astro + GitHub Pagesに決めるまでの思考の記録。Cloudflare Pagesとの比較、PSLとゼロスタートの話も込みで。
+今回はその続き、実装編です。
+
+ Astroって何
+Astro はコンテンツ中心のWebサイト向けの静的サイトジェネレータです。
+Markdownで書いた記事をHTMLに変換してくれる、という点ではHugoやJekyllと同じ。
+違うのは、デフォルトでクライアントJavaScript... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/akari1106/articles/ea85f0a245bb8b</guid>
+      <pubDate>Thu, 23 Jul 2026 14:15:58 +0000</pubDate>
+    </item>
+    <item>
       <title>エンジニアの成果、結局どう測ればいいのか</title>
       <link>https://zenn.dev/awesome_kou/articles/engineer-performance-metrics</link>
       <description>「今期、あなたの成果は何でしたか？」
@@ -66,32 +78,6 @@ Claudeと設計を詰める
 あえて一つ挙げるなら、その仕事がユーザーや事業の何を変えたか 。行数もタイピング数も、結局は途中経過にすぎません... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/awesome_kou/articles/engineer-performance-metrics</guid>
       <pubDate>Tue, 21 Jul 2026 03:07:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ソフトウェア設計は、「誰がどこまで考えるか」を決める仕事である - 変数名からDDD、DB設計、マイクロサービス、組織構造までを同じ枠組みで</title>
-      <link>https://zenn.dev/kanaria007/articles/c392cbd1c1fc21</link>
-      <description>ソフトウェア開発には、多くの設計原則があります。
-
-わかりやすい変数名を付ける
-関数を小さくする
-単一責任にする
-凝集度を高くする
-結合度を低くする
-情報を隠蔽する
-DBを正規化する
-ドメインの言葉を使う
-Bounded Contextを分ける
-モノリスとマイクロサービスを使い分ける
-チームの責任範囲を明確にする
-
-それぞれに歴史があり、説明の仕方も違います。
-しかし、実際に設計していると、こういう疑問が出てきます。
-「関数は、どのくらいの大きさなら小さいのか」
-「クラスは、何個の責務までなら持ってよいのか」
-「テーブルは、どこまで分けるべきなのか」
-「一つのサービスが大きすぎるとは、ど... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kanaria007/articles/c392cbd1c1fc21</guid>
-      <pubDate>Thu, 23 Jul 2026 09:00:06 +0000</pubDate>
     </item>
     <item>
       <title>AI時代のエンジニアリングマネージャーのあり方｜外部品質編 〜品質の可視化を、現場と経営をつなぐ形にするまで〜</title>
@@ -132,17 +118,11 @@ AI ... (source: Zennのトレンド)</description>
       <pubDate>Thu, 23 Jul 2026 20:55:48 +0000</pubDate>
     </item>
     <item>
-      <title>Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る</title>
-      <link>https://zenn.dev/uhyo/articles/async-react-action-queue</link>
-      <description>useActionStateは、React 19で導入された新しいフックです。
-その挙動を見ると、非同期版useReducerと言えるような挙動をします。
-ただ、筆者は最近、このフックの真髄はユーザーの操作を妨げないUXを作ることにあるのではないかと考えています。ReactはUIライブラリであり、そのゴールは「良いUX」であるように思います。
-そこで、この記事では、useActionStateがどのようなUXを実現するのに役立つのか、という観点で解説していきます。
-
- useActionStateのインターフェース
-まずuseActionStateのインターフェースを見ましょう。ドキュメ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/uhyo/articles/async-react-action-queue</guid>
-      <pubDate>Mon, 20 Jul 2026 05:29:51 +0000</pubDate>
+      <title>水と電力を奪うデータセンターに住民が反発 — ネバダ州ヘンダーソン市、180日凍結案を否決も規制見直しへ</title>
+      <link>https://techfeed.io/entries/6a6692fdd0c20765e83e4b11?from=rss</link>
+      <description>7月25日、Leigh Cookが「Nevada weighs 180-day pause on new data centers as AI boom fuels local backlash」と題した記事を公開した。AIブームで急増するデータセンターが水資源や電力網を圧迫しているとして、住民や環境団体が反発を強めるネバダ州ヘンダーソン市の実情を伝えている。新規建設を一時凍結する180日間モラトリアム案は市議会で否決されたが、この決定は「機会の損失だ」と批判を浴びており、規制のあり方を問う議論はなお続いている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a6692fdd0c20765e83e4b11?from=rss</guid>
+      <pubDate>Sun, 26 Jul 2026 23:06:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
