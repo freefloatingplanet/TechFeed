@@ -7,35 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 08:40:01 +0000</lastBuildDate>
-    <item>
-      <title>小惑星「1998 SH2」は彗星だった　“地球防衛”にも関係してくる「ダークコメット」の存在</title>
-      <link>https://sorae.info/astronomy/20260724-1998-sh2.html</link>
-      <description>NASA/JPL（アメリカ航空宇宙局ジェット推進研究所）のDavide Farnocchia氏を筆頭とする研究チームは、これまで小惑星として分類されてきた天体「1998 SH2」が、実際には彗星だったことを突き止めたとす… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260724-1998-sh2.html</guid>
-      <pubDate>Fri, 24 Jul 2026 09:45:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>ロシアの宇宙船「ソユーズMS-28」が帰還　3名が8か月間のISS滞在を終える</title>
-      <link>https://sorae.info/space/20260728-soyuz-ms28.html</link>
-      <description>日本時間2026年7月26日、3名の宇宙飛行士が搭乗したロシアの宇宙船「Soyuz（ソユーズ）MS-28」が、ISS（国際宇宙ステーション）を離れて地球へ無事帰還しました。 8か月間のISS長期滞在を終えた米ロの3名が帰… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260728-soyuz-ms28.html</guid>
-      <pubDate>Mon, 27 Jul 2026 23:44:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>その名は「NINJA」　すばる望遠鏡の新しい観測装置が2026年夏から始動へ</title>
-      <link>https://sorae.info/astronomy/20260723-subaru-ninja.html</link>
-      <description>国立天文台は2026年7月13日付で、ハワイ観測所のすばる望遠鏡に新たな近赤外線分光器「NINJA（ニンジャ）」が2026年夏に搭載され、初めての試験観測に臨むと発表しました。この新装置は、急速に明るさを変える突発的な天… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260723-subaru-ninja.html</guid>
-      <pubDate>Thu, 23 Jul 2026 09:34:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>「短期間に何回挑戦できるか」中須賀真一教授に聞く第4世代に突入した宇宙開発時代の勝ち方と、開発スピードを支える調達DX_PR</title>
-      <link>https://sorabatake.jp/46542/</link>
-      <description>宇宙産業を取り巻く構造変化や今後の展望、また、開発現場におけるリアルな課題や、設計・調達・試作のスピード向上を支える基盤整備の重要性について、最前線で活躍するお二人にお話を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46542/</guid>
-      <pubDate>Thu, 23 Jul 2026 23:00:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Jul 2026 08:46:03 +0000</lastBuildDate>
     <item>
       <title>宇宙空間での大型構造物の組み立てが可能に？ Space Quartersが3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功 【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/46343/</link>
@@ -49,6 +21,34 @@
       <description>中国の宇宙スタートアップ「東方空間（Orienspace）」は日本時間2026年7月22日、固体燃料ロケット「引力1号（Gravity-1）」を打ち上げ、9機の衛星を予定軌道へ投入しました。上海市東沖の東シナ海で実施され… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/ssn/20260725-orienspace-gravity-1.html</guid>
       <pubDate>Sat, 25 Jul 2026 08:55:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>白色矮星が関わる超新星爆発の一部は「原始ブラックホール」の通過が引き金になっている？</title>
+      <link>https://sorae.info/astronomy/20260728-pbh-ia-supernova.html</link>
+      <description>ニューヨーク州立大学ポリテクニック・インスティチュートのShing-Chi Leung氏を筆頭とする研究チームは、一部の超新星爆発が「原始ブラックホール」を引き金として発生する可能性を示した新たな研究成果を発表しました。… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260728-pbh-ia-supernova.html</guid>
+      <pubDate>Tue, 28 Jul 2026 13:01:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>太陽系外惑星の謎を解く手がかりは「火星」にあり？　生命居住可能性の境界を知る鍵に</title>
+      <link>https://sorae.info/astronomy/20260729-mars-as-exoplanet.html</link>
+      <description>近年、次々と発見される太陽系外惑星。「はるか遠くの惑星にも生命は存在するのか」というテーマに、私たちは大きなロマンを感じます。その謎を解き明かすための重要な手がかりのひとつが、実は私たちのすぐ隣にあるかもしれません。 カ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260729-mars-as-exoplanet.html</guid>
+      <pubDate>Wed, 29 Jul 2026 01:16:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>「アイデアの実現スピードを上げるために人手は足りなくなる」ジェフ・べゾス氏が描く、宇宙と地球の未来の姿とインフラ構築の現在地【VIVATECH 2026現地レポート】</title>
+      <link>https://sorabatake.jp/46617/</link>
+      <description>欧州最大規模のテクノロジー・カンファレンス「VIVATECH 2026」において、Amaozn、そして、Blue Originの創業者であるジェフ・ベゾス氏が登壇。特別セッションで語られた、宇宙インフラ構築の現在地と今後の構想をまとめました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46617/</guid>
+      <pubDate>Tue, 28 Jul 2026 23:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>スペースXの成長を見抜いた投資家が語る　“宇宙ビジネスの現在地”と“日本企業の勝機”</title>
+      <link>https://sorae.info/report/20260729-anis-uzzaman.html</link>
+      <description>昨今、頻繁に行われるロケットの打ち上げや衛星コンステレーションの構築など、宇宙ビジネスのニュースが日常的に報じられるようになりました。かつては国家主導であった宇宙開発は、いまや民間企業が牽引する巨大な市場へと変貌を遂げつ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/report/20260729-anis-uzzaman.html</guid>
+      <pubDate>Wed, 29 Jul 2026 07:01:38 +0000</pubDate>
     </item>
     <item>
       <title>BULLのデブリ化防止装置「HORN」が初の軌道上実証に成功。膜面展開の軌道上撮影画像も公開！【宇宙ビジネスニュース】</title>
@@ -72,7 +72,7 @@
       <pubDate>Sun, 12 Jul 2026 23:02:04 +0000</pubDate>
     </item>
     <item>
-      <title>「宇宙産業にはまだ隙間が多い」「みんなが逡巡している今がチャンス」 宇宙を日常へ。テレビ局とクリエイターが見出した 宇宙ビジネスの可能性</title>
+      <title>「宇宙産業にはまだ隙間が多い」「みんなが逡巡している今がチャンス」 宇宙を日常へ。テレビ局とクリエイターが見出した宇宙ビジネスの可能性</title>
       <link>https://sorabatake.jp/46558/</link>
       <description>異業種から宇宙業界に参入した企業に焦点を当てた対談連載「Why Space Business～異業種企業が見出した宇宙業界の可能性～」、第2回に登場いただいたのはエンタメ業界です。異業種の視点だからこそ見出せる宇宙ビジネスの「勝機」と、宇宙を日常につなげるための視点について、たっぷりとお話を伺いました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46558/</guid>

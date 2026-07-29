@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Jul 2026 08:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 08:46:06 +0000</lastBuildDate>
     <item>
-      <title>月の裏側における無線周波数干渉のモデリング</title>
-      <link>https://arxiv.org/abs/2607.24527v1</link>
-      <description>電波天文学の世界では、技術の進歩は諸刃の剣です。アンテナ、受信機、デジタルバックエンドの改良により感度は向上しますが、地上および軌道上の通信の急速な発展により、無線周波数干渉（RFI）が急増しています。現代のデータセットは、除去が困難なRFIによってますます汚染されており、天体物理信号を模倣したり隠蔽したりして、高速電波バースト（FRB）、パルサー、テクノシグネチャーなどの天体の探索を複雑にしています。そのため、月の裏側は電波静穏な観測場所として提案されており、月面裏側過渡現象技術望遠鏡（LFT3）などのミッションを推進しています。しかし、計画されている月ミッションは、この保護された環境に意図的または意図しない電波放射を導入する可能性があります。私たちは、LFT3に似た機器を使用して、今後数年間の見かけ上の月の裏側のRFI環境の進化をモデル化します。計画されている月探査ミッションのカタログと、意図的および非意図的な放射のモデルを用いて、0.1～2700 MHzの周波数範囲における受信RFIを推定しました。意図的な放射は通信帯域、特に2.4～2.6 GHz付近に集中している一方、非意図的 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.24527v1</guid>
-      <pubDate>Mon, 27 Jul 2026 15:07:52 +0000</pubDate>
+      <title>共ドリフトの解明：自動運転ネットワークにおける、複数の意図に基づく障害予測と根本原因の曖昧さ解消のためのプロアクティブなアプローチ</title>
+      <link>https://arxiv.org/abs/2607.25989v1</link>
+      <description>人間の介入を最小限に抑え、監視、推論、および動作を行う自動運転ネットワークのビジョンは、監視、分析、およびアクチュエーション機能が密接に連携していることに依存しています。本研究では、これらの機能を、継続的なテレメトリ、リアルタイム分析、およびプログラムによるアクチュエーションという 3 つの運用上のマクロインテントとして扱い、各機能の健全性を、ネットワークが継続的に満たさなければならないインテントとして形式化します。重要でありながら十分に検討されていない課題は、これらのインテント間の因果的結合に起因します。つまり、1 つのマクロインテント内の単一の障害が共ドリフトとして伝播し、その後、残りのインテント全体に連鎖的な症状を伴う異常を引き起こします。この曖昧さにより、既存のリアクティブなアプローチでは、真の根本原因インテントと症状を伴う被害者インテントを区別することが非常に困難になり、閾値超過検出に依存しているため、プロアクティブな修復のための時間が不足します。そこで、リアクティブなドリフト検出からプロアクティブな障害予測へとインテント保証を再定式化する新しいフレームワーク MILD を紹 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.25989v1</guid>
+      <pubDate>Tue, 28 Jul 2026 17:06:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

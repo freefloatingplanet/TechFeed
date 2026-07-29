@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 08:39:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 08:45:59 +0000</lastBuildDate>
+    <item>
+      <title>Apple、米国でKlarnaが提供する新しい製品リースプログラム「Apple Upgrade」を提供開始（多くの注意点あり） | Apple | Mac OTAKARA</title>
+      <link>https://www.macotakara.jp/apple/entry-51527.html</link>
+      <description>※本サイトは、アフィリエイト広告および広告による収益を得て運営しています。購入により売上の一部が本サイトに還元されることがあります。 Appleが、米国で、iPhone、Apple Watch、Mac、iPadを対象としたKlarnaが提供する新しい製品リースプログラム「Apple Upgrade」を提供開始すると発表しています。 AppleのApple O... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.macotakara.jp/apple/entry-51527.html</guid>
+      <pubDate>Tue, 28 Jul 2026 14:01:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIの本番運用で「8,432行目のクラッシュ」にどう対処するか — Salesforceが語る、失敗しないワークフロー設計の原則</title>
+      <link>https://techfeed.io/entries/6a69364c4ddb25dd6297b2fc?from=rss</link>
+      <description>7月28日、Salesforce Engineeringが「Building Reliable Production AI with Durable Workflows」と題した記事を公開した。本番環境のAIシステムを信頼できるものにするために、Durable Workflows（耐久性のあるワークフロー）をどう設計するかを、Agentforce Grid構築の実例をもとに解説した内容だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a69364c4ddb25dd6297b2fc?from=rss</guid>
+      <pubDate>Tue, 28 Jul 2026 23:07:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>「Simple Made Easy」の観点から、UI/UXはどうあるべきか</title>
+      <link>https://zenn.dev/pksha/articles/6cdf19e5fe8065</link>
+      <description>要約
+Rich Hickey の講演「Simple Made Easy」の考え方を、UI/UX に当てはめて整理した記事です。「シンプル(Simple)」と「簡単(Easy)」は別物で、Simple は「モノの構造」の話、Easy は「人との親近性」の話です。Easy を優先した UI は「Easy but Complex」の罠に陥りがちです。最初こそ快適でも、育つほど絡み合いが効いてきて Hard(変更が怖い・誰も読めない)になります。典型例が Excel です。
+本文では、UI で起きる絡み合い(complect)の定番パターンを「表示と操作」など5つに整理します。そこから Si... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pksha/articles/6cdf19e5fe8065</guid>
+      <pubDate>Mon, 27 Jul 2026 07:22:43 +0000</pubDate>
+    </item>
     <item>
       <title>ステージング環境をセルフサービス化しチームの開発速度を向上させた方法</title>
       <link>https://zenn.dev/fusic/articles/83c6b9a1e7c7d0</link>
@@ -23,52 +46,21 @@ Staging環境の取り合いによりチーム内での余計なコミュ... (so
       <pubDate>Mon, 27 Jul 2026 09:46:14 +0000</pubDate>
     </item>
     <item>
-      <title>「週46分の節約」は人件費削減にならない — コスト意識の高い大企業がAI導入に慎重になるコスト構造の現実</title>
-      <link>https://techfeed.io/entries/6a67e666d0c20765e83f4644?from=rss</link>
-      <description>7月26日、LowEndBoxが「The Economics of AI and Why Cost-Conscious Companies Hate It」と題した記事を公開した。AIが「効率化」をもたらすことは広く信じられているが、コスト意識の高い大企業ほど導入に慎重になっているという逆説的な現実を、コスト構造の観点から鋭く分析した内容だ。なお、LowEndBoxはVPS・格安ホスティング情報を専門とする技術系メディアだが、近年はAIインフラのコスト問題など、エンジニア・IT担当者が実務で直面する経済的課題についても積極的に論考を掲載している。本記事もその流れに位置する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a67e666d0c20765e83f4644?from=rss</guid>
-      <pubDate>Mon, 27 Jul 2026 23:14:46 +0000</pubDate>
+      <title>【2026年版】MIXI 新卒向け技術研修を公開しました。</title>
+      <link>https://zenn.dev/mixi/articles/fd62f8ddc178f6</link>
+      <description>2026年度新卒向け技術研修の資料と動画を公開しました。
+MIXIの新卒向け技術研修では、一部の科目を除き、実際の開発現場で活躍するエンジニアが講師を務めています。技術や開発環境の変化に合わせて毎年カリキュラムを見直し、現場で必要となる知識や技術を学べる研修を目指しています。
+また、職種や配属先にかかわらず、エンジニアとして必要となる幅広い技術的な土台を身につけられるよう、モバイルやWebフロントエンドなどのアプリケーション開発に加え、データベース、セキュリティ、クラウド、データ活用など、多様な領域を扱ってきました。
+近年は、生成AIやAIエージェントの登場により、開発業務におけるAI活... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mixi/articles/fd62f8ddc178f6</guid>
+      <pubDate>Mon, 27 Jul 2026 04:26:35 +0000</pubDate>
     </item>
     <item>
-      <title>AMDがNVIDIA CUDAの牙城に正面挑戦 — 新GPU・ラックスケール基盤に加え、開発ワークフローごと刷新するソフトウェア戦略が鍵を握る</title>
-      <link>https://techfeed.io/entries/6a67e682d0c20765e83f465c?from=rss</link>
-      <description>7月28日、Paul Nashawaty氏が「AMD Advancing AI: Helios, MI400, and ROCm.ai Analyzed」と題した記事を公開した。AMDがサンフランシスコで開催した「Advancing AI」イベントで発表した次世代AIコンピュートポートフォリオの全容と、その競合上の意義を詳しく分析している。ハードウェアの刷新も注目に値するが、Nashawaty氏が最も重きを置くのはROCm.aiによるソフトウェア戦略の転換だ——CUDAエコシステムへの正面挑戦として、この点を先に押さえておきたい。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a67e682d0c20765e83f465c?from=rss</guid>
-      <pubDate>Mon, 27 Jul 2026 23:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>哲学者「杉尾一」と対談：「量子論を巡る争いの中で、ボーアとアインシュタインは何を考えていたの？」-実在をめぐって</title>
-      <link>https://innovatopia.jp/tech-social/tech-social-news/114083/</link>
-      <description>「実在する」とは、そもそもどのようなことなのでしょうか。私たちはNMRやIRといった分光測定を通じて、目には見えない「分子の形」を理解し、やがて原子や分子の存在を自然に受け入れるようになってきました。けれども、そもそも直接見ることのできないものを「ある」と言ってよいのでしょうか。 さらに考えを進めれば... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://innovatopia.jp/tech-social/tech-social-news/114083/</guid>
-      <pubDate>Mon, 27 Jul 2026 04:16:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cursor・Manus・Spotifyの「ハーネス」を読み比べた</title>
-      <link>https://zenn.dev/tak3/articles/2686517823d1e7</link>
-      <description>こんにちは。株式会社 Acompany で Tech PdM をしている平岡です。AI エージェントを用いたプロダクトの設計・開発にも携わっています。
-エージェントを触っている人なら、ハーネス（harness） という言葉はもう耳タコだと思います。2026年前半に「harness engineering」がバズってから、猫も杓子もハーネスと言うようになった。モデルの周りのループやツールやコンテキスト管理をまとめてこう呼ぶ、というのはだいたい共通認識になっているはず。
-ただ、この言葉を分かった気になっているだけで、じゃあ一流のプロダクトが具体的にハーネスの「どこ」に力を入れているのかと問わ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tak3/articles/2686517823d1e7</guid>
-      <pubDate>Sun, 26 Jul 2026 04:29:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>ターミナルを自作したら、1日のコミット数が500を超えて、生産性がバグった話</title>
-      <link>https://zenn.dev/singularity/articles/diy-terminal-500-commits</link>
-      <description>僕は長いこと、ターミナルの中で暮らしています。エディタは emacs、VS Code や GUI 系のツールはどうにも手に馴染まない。Web 上の開発環境も、あの「ちょっとした不便」が積もって結局使わなくなる。要するに、ターミナルに慣れ親しみすぎて、GUI のボタンがどこにあるのか探せない人間です。
-そんな僕が、勢いで自分専用のターミナルを作ったら、GitHub のコミットが毎日 500 を超えるようになりました。一度きりの当たり日ではなく、来る日も来る日も、です。生産性がバグりました。
-
-毎日 500 コミット超え。草が真緑になった
-先に言い訳をしておくと、「コミット数は生産性の指標じ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/singularity/articles/diy-terminal-500-commits</guid>
-      <pubDate>Thu, 23 Jul 2026 20:55:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>AnthropicのAmodeiは「第三者に停止権限を」、OpenAIのAltmanは政権と協調的に交渉——AI規制をめぐるトップ2人の対照的な選択</title>
-      <link>https://techfeed.io/entries/6a67e68fd0c20765e83f466e?from=rss</link>
-      <description>7月27日、startuphub.aiが「Dario Amodei's Oversight Plan for AI, and How Altman Took a Different Path」と題した記事を公開した。この記事では、AnthropicのDario AmodeiがAI規制における政府の停止権限を主張する一方、OpenAIのSam AltmanはGPT-5.6のリリース前にトランプ政権と「協調的なやり取り」を経て多数の変更を加えていたという、業界トップ2人の対照的な姿勢について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a67e68fd0c20765e83f466e?from=rss</guid>
-      <pubDate>Mon, 27 Jul 2026 23:15:27 +0000</pubDate>
+      <title>MetaがGPUを遊ばせるストレージボトルネックを解消 — データ取り込みを150分から10分に短縮した多層キャッシュ設計</title>
+      <link>https://techfeed.io/entries/6a6936c24ddb25dd6297b383?from=rss</link>
+      <description>7月28日、Blocks &amp; Filesが「Meta reinvents AI metadata flow and KV caching」と題した記事を公開した。MetaがAIワークロードにおけるデータ取り込み（インジェスチョン）の待ち時間を150分から10分へ、89時間かかっていたジョブを3時間強へと圧縮したストレージ基盤の刷新について詳しく伝えている。ストレージがGPUの足を引っ張っているMetaのEngineering Director Sidharth BajajとSW Development Engineer Venkatraghavan Srinivasanは、同社のドキュメント「AI Storage Blueprint at Scale」の中でこう述べている。「ストレージのボトルネックはAIワークロードにおけるGPUストールの主要因のひとつであり、コストと市場投入時間に直接影響している。」AIコンピュートの性能は2年ごとに3倍になっているのに対し、ストレージの性能向上はその速度に追いつけていない。これがGPUを遊ばせる原因になっている。Metaは、Facebook・Ins (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a6936c24ddb25dd6297b383?from=rss</guid>
+      <pubDate>Tue, 28 Jul 2026 23:09:54 +0000</pubDate>
     </item>
     <item>
       <title>1日500コミットは、もう読めない ── だからコードレビューをやめた</title>
@@ -84,22 +76,6 @@ Staging環境の取り合いによりチーム内での余計なコミュ... (so
       <pubDate>Sun, 26 Jul 2026 20:06:28 +0000</pubDate>
     </item>
     <item>
-      <title>ニューラルネットワークとLLMは何が違うのか</title>
-      <link>https://zenn.dev/mhackit/articles/neural-network-to-llm</link>
-      <description>はじめに
-ニューラルネットワークの基本を学んだあとでLLMの解説を読むと、話が急に飛んだと感じます。
-層と重み、誤差逆伝播までは地続きなのに、いつのまにか文章を書く機械の話になっています。
-両者が同じ技術の延長なのか、それとも別系統なのかが分かりにくいところです。
-この記事では、その間をつなぐ4つの違いを順番に整理します。
-対象は、ニューラルネットワークの仕組みをなんとなく知っている読者です。
-数式は使わず、何がどう変わったのかだけを追います。
-
- LLMもニューラルネットワークである
-先に結論を書くと、大規模言語モデル (Large Language Model: LLM) はニュ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mhackit/articles/neural-network-to-llm</guid>
-      <pubDate>Sun, 26 Jul 2026 15:49:17 +0000</pubDate>
-    </item>
-    <item>
       <title>コードレビューでの見落としをきっかけに『ITエンジニア1年目の教科書』を読んだ</title>
       <link>https://zenn.dev/flinters_blog/articles/eeb769c9331de1</link>
       <description>はじめまして。株式会社FLINTERS BASEの河本です。
@@ -112,6 +88,23 @@ Staging環境の取り合いによりチーム内での余計なコミュ... (so
 今回の経験から、個々の技術を覚えるだけでなく、確認方法や仕事への向き合い方も見直す必要があると... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/flinters_blog/articles/eeb769c9331de1</guid>
       <pubDate>Mon, 27 Jul 2026 06:46:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>生成AIでPIIを消し去る！SnowflakeのAI_REDACTでフリーテキストを守る挑戦</title>
+      <link>https://zenn.dev/dely_jp/articles/7a27a44c06b30a</link>
+      <description>Hello everyone、クラシルのレシチャレのデータエンジニア毎日ニコニコしているニコです！☀️
+最近、日本はほんとに暑いですね…。わたしは東南アジア出身なので、「暑さには慣れてるっしょ」と余裕をかましていたんですが——日本の夏、完全に[Beast]でした。😇 なめてました。
+（あと正直に言うと、日本語でブログを書くのはまだちょっと難しいです。でも、もっと上達したいので挑戦してみます。温かい目で読んでもらえるとうれしいです🙏）
+さて、暑さの話はこのへんにして。今日は Snowflake の AI_REDACT を使って、データの中に散らばった PII（個人情報）をマスクした話を共有... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dely_jp/articles/7a27a44c06b30a</guid>
+      <pubDate>Tue, 28 Jul 2026 06:18:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIがLinuxカーネルのゼロデイ解析を「既知の脆弱性と同じ難度」に下げた — root権限奪取エクスプロイトの開発過程を研究者が公開</title>
+      <link>https://techfeed.io/entries/6a69361f4ddb25dd6297b2c4?from=rss</link>
+      <description>7月28日、The Hacker Newsが「Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit」と題した記事を公開した。この記事では、AIを活用してLinuxカーネルのuse-after-free脆弱性をroot権限昇格エクスプロイトへと発展させた研究者の手法について詳しく紹介されている。注目すべきは、研究者がこのプロセスを「新しいバグでもn-dayの解析をしているように感じさせた」と表現した点だ。n-dayとはパッチが公開済みで解析情報が豊富な既知脆弱性を指す言葉であり、ゼロデイ解析の難度がAIによって大幅に引き下げられたという示唆は、セキュリティコミュニティ全体にとって重要な含意を持つ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a69361f4ddb25dd6297b2c4?from=rss</guid>
+      <pubDate>Tue, 28 Jul 2026 23:07:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
