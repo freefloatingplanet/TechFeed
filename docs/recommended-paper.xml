@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2026 08:46:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 08:32:26 +0000</lastBuildDate>
     <item>
-      <title>共ドリフトの解明：自動運転ネットワークにおける、複数の意図に基づく障害予測と根本原因の曖昧さ解消のためのプロアクティブなアプローチ</title>
-      <link>https://arxiv.org/abs/2607.25989v1</link>
-      <description>人間の介入を最小限に抑え、監視、推論、および動作を行う自動運転ネットワークのビジョンは、監視、分析、およびアクチュエーション機能が密接に連携していることに依存しています。本研究では、これらの機能を、継続的なテレメトリ、リアルタイム分析、およびプログラムによるアクチュエーションという 3 つの運用上のマクロインテントとして扱い、各機能の健全性を、ネットワークが継続的に満たさなければならないインテントとして形式化します。重要でありながら十分に検討されていない課題は、これらのインテント間の因果的結合に起因します。つまり、1 つのマクロインテント内の単一の障害が共ドリフトとして伝播し、その後、残りのインテント全体に連鎖的な症状を伴う異常を引き起こします。この曖昧さにより、既存のリアクティブなアプローチでは、真の根本原因インテントと症状を伴う被害者インテントを区別することが非常に困難になり、閾値超過検出に依存しているため、プロアクティブな修復のための時間が不足します。そこで、リアクティブなドリフト検出からプロアクティブな障害予測へとインテント保証を再定式化する新しいフレームワーク MILD を紹 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.25989v1</guid>
-      <pubDate>Tue, 28 Jul 2026 17:06:24 +0000</pubDate>
+      <title>軽量ハイブリッド学習フレームワークを用いた耳PPGおよびECGによる単拍カフレス血圧推定</title>
+      <link>https://arxiv.org/abs/2607.27076v1</link>
+      <description>カフレス血圧（BP）の連続モニタリングは、運動アーチファクト、生理学的変動、および動的な条件下での従来の脈波伝播時間（PTT）モデルの堅牢性の限界により、依然として困難です。これまでの多くのアプローチは、推定を安定させるために数秒のウィンドウに依存していますが、断続的な信号劣化を伴う実世界のモニタリングでは、この仮定が頻繁に破られます。ここでは、識別力のあるBP関連情報が単一拍動レベルで保持されることを示し、連続BP推定のための軽量マルチモーダルウェアラブルフレームワークを提示します。このシステムは、同期胸部心電図（ECG）と耳クリップ反射光電脈波計を統合し、それぞれが6軸慣性計測ユニットと共存して運動コンテキストを提供します。1次元畳み込みニューラルネットワークが個々のPPG拍動から64次元の埋め込みを抽出し、PTT統計と心拍変動を含む30の生理学的特徴と融合し、その後LightGBM回帰を行うハイブリッド学習アーキテクチャを導入します。この手法は、多相ストレスプロトコル（n=10）と、被験者分離検証を用いたPulseDB公開データセットを使用して評価されました。30回の独立した実行 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.27076v1</guid>
+      <pubDate>Wed, 29 Jul 2026 16:00:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

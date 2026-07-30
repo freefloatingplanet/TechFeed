@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 08:46:03 +0000</lastBuildDate>
-    <item>
-      <title>宇宙空間での大型構造物の組み立てが可能に？ Space Quartersが3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功 【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/46343/</link>
-      <description>Space Quartersが、3種の小型ロボットで宇宙構造物を組み立てる「DAIQ」の地上実証に成功しました。その仕組みと、実証が示したものを解説します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46343/</guid>
-      <pubDate>Sat, 11 Jul 2026 00:55:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Jul 2026 08:32:24 +0000</lastBuildDate>
     <item>
       <title>中国企業の東方空間、世界最大級の固体ロケットで衛星9機を軌道投入　上海沖から初の洋上打ち上げ</title>
       <link>https://sorae.info/ssn/20260725-orienspace-gravity-1.html</link>
@@ -35,6 +28,13 @@
       <description>近年、次々と発見される太陽系外惑星。「はるか遠くの惑星にも生命は存在するのか」というテーマに、私たちは大きなロマンを感じます。その謎を解き明かすための重要な手がかりのひとつが、実は私たちのすぐ隣にあるかもしれません。 カ… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260729-mars-as-exoplanet.html</guid>
       <pubDate>Wed, 29 Jul 2026 01:16:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>ベテルギウス伴星の直接撮像に成功か　超大型望遠鏡VLTを使用した新たな研究成果</title>
+      <link>https://sorae.info/astronomy/20260729-betelgeuse-companion-candidate.html</link>
+      <description>オリオン座の一等星として有名な赤色超巨星「ベテルギウス（Betelgeuse、α Orionis）」。ベテルギウスを巡っては超新星爆発の時期に関する予測が注目を集めてきましたが、近年では「未発見の伴星が存在する可能性」が… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260729-betelgeuse-companion-candidate.html</guid>
+      <pubDate>Wed, 29 Jul 2026 13:44:25 +0000</pubDate>
     </item>
     <item>
       <title>「アイデアの実現スピードを上げるために人手は足りなくなる」ジェフ・べゾス氏が描く、宇宙と地球の未来の姿とインフラ構築の現在地【VIVATECH 2026現地レポート】</title>
