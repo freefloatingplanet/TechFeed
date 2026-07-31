@@ -7,33 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 08:32:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 08:54:24 +0000</lastBuildDate>
     <item>
-      <title>ソフトウェアエンジニアとして視野を広げるためのブックガイド</title>
-      <link>https://zenn.dev/shotaro_tsuji/articles/091517e89ab17d</link>
-      <description>はじめに 私が読んできたソフトウェアエンジニアリングに関する書籍を紹介しようと思います。全てを紹介しているとキリがないので、プログラミング、データベース、アーキテクチャ、プロダクト、組織とマネジメントという括りで、それぞれ何冊か選びました。コードを書くところから始めて、徐々にシステム、プロダクト、... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/shotaro_tsuji/articles/091517e89ab17d</guid>
-      <pubDate>Wed, 29 Jul 2026 04:45:53 +0000</pubDate>
+      <title>Visaが好業績のまま2,600人をAI名目で削減 — 金融インフラ企業でも「AI活用」から「AI置き換え」への転換が現実に</title>
+      <link>https://techfeed.io/entries/6a6bd9ec4ddb25dd62994d35?from=rss</link>
+      <description>7月30日、Benjamin Curryが「Visa to let go of THOUSANDS of employees in AI-driven layoff plan」と題した記事を公開した。Visaが全従業員の7%にあたる約2,600人をAI推進を理由にレイオフすると発表したこの件は、「業績不振による削減」ではなく「好業績のままAI投資を優先して人を減らす」という構図が鮮明であり、テック業界を超えた議論を呼んでいる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a6bd9ec4ddb25dd62994d35?from=rss</guid>
+      <pubDate>Thu, 30 Jul 2026 23:10:36 +0000</pubDate>
     </item>
     <item>
-      <title>GPT-5.6とBlender MCPで、多少マシな3Dモデリングをさせるまで</title>
-      <link>https://zenn.dev/test_myname/articles/gpt-5-6-blender-mcp-modeling</link>
-      <description>Vtuberの「ぷらむらいす」です。
-GPT-5.6とBlender MCPを使い、1枚の見本画像から「銀装飾の黒いアンティーク鍵」を3Dモデリングさせました。
-単純に「この画像を参考に作ってください」と頼むだけでは、キューブ、円柱、球などを並べた積み木のようなモデルになります。そこで今回は、Blender用のAGENTS.mdとSkillを作り、さらに計画・造形・視覚評価・メッシュ検査を分担するマルチエージェント構成を組みました。
-最初の指示から最終出力までは 4時間26分 。人間による途中承認を挟まない、ほぼワンショットの実行です。
-最終的にできたモデルがこちらです。
-
-見本どおりか... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/test_myname/articles/gpt-5-6-blender-mcp-modeling</guid>
-      <pubDate>Wed, 29 Jul 2026 00:57:38 +0000</pubDate>
+      <title>なぜいま「DNS」の見直しが必要？　攻撃者が狙う“6つの設定ミス”</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news046.html</link>
+      <description>Akamaiによると、AI botのトラフィックは2025年に300％増加した。こうしたbotはDNSの設定ミスを積極的に探索しているという。自動スキャナーは、放置されたCNAMEレコードの検出や公開リソースレコードの収集、期限切れとなったDNS委任の乗っ取りなどを、人手では追い付けない速度で実行する。 AIエージェントの普及に伴... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news046.html</guid>
+      <pubDate>Thu, 30 Jul 2026 23:54:05 +0000</pubDate>
     </item>
     <item>
-      <title>紙にもiPadにもそのまま書ける驚きのペン、ゼブラ「STYLUS 2WAY」開発秘話　“失敗”を逆手にとったアイデアとは？</title>
-      <link>https://www.itmedia.co.jp/news/article/2607/30/2000000279/</link>
-      <description>ゼブラとエレコムが共同開発した「STYLUS 2WAY（スタイラスツーウェイ）」は、iPad専用のスタイラス兼ゲルインクボールペンなのだが、従来のボールペンとスタイラスペンを切り替えて使う多機能ペン的な製品とは全く違う。なんと、普通に紙に書けるボールペンが、そのままiPad上ではスタイラスペンになるという製品なのだ。 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2607/30/2000000279/</guid>
-      <pubDate>Thu, 30 Jul 2026 00:12:22 +0000</pubDate>
+      <title>リリース前チェックをAIで行う「プロダクトリリースハーネス」のつくり方</title>
+      <link>https://zenn.dev/estie/articles/c5503dfe56f7a1</link>
+      <description>こんにちは、株式会社estie（エスティ） 取締役CTO の Nari（@tiwanari）です。
+みなさんは、新しいプロダクトを世に出す前に、「抜け漏れ」がないか不安になった経験はないですか？
+先日、あるプロダクトのリリース前チェックで「個人情報がエラー監視ツールへ送られる実装になっている」と指摘されました。見つけたのは人間ではなく、リリース前チェックリストを読ませた AI のスキャンです。
+よく考えるとケアしなければいけない当たり前なことでも、リリース前の慌ただしい時期にあらゆる観点を思い出すことはとても大変です。ゼロからプロダクトを開発してリリースした経験のある方なら、XSS（クロ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/estie/articles/c5503dfe56f7a1</guid>
+      <pubDate>Thu, 30 Jul 2026 00:45:05 +0000</pubDate>
     </item>
     <item>
       <title>「Simple Made Easy」の観点から、UI/UXはどうあるべきか</title>
@@ -45,6 +42,13 @@ Rich Hickey の講演「Simple Made Easy」の考え方を、UI/UX に当ては�
       <pubDate>Mon, 27 Jul 2026 07:22:43 +0000</pubDate>
     </item>
     <item>
+      <title>SQLインジェクションを丁寧に解説 — なぜ「文字列を連結してSQLを作る」と危険なのか</title>
+      <link>https://qiita.com/gts/items/7718da8016d1ce2ca43f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>「バインド変数を使いましょう」と言われて、素直に従ってはいるものの、それが具体的に何を防いでいるのか説明できるかというと、少し怪しい。そういう人は案外多いのではないかと思います。この記事では、SQLインジェクションが成立する仕組みを、実際のクエリの組み立て方に沿って追いかけ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/gts/items/7718da8016d1ce2ca43f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Tue, 28 Jul 2026 22:09:14 +0000</pubDate>
+    </item>
+    <item>
       <title>【2026年版】MIXI 新卒向け技術研修を公開しました。</title>
       <link>https://zenn.dev/mixi/articles/fd62f8ddc178f6</link>
       <description>2026年度新卒向け技術研修の資料と動画を公開しました。
@@ -53,6 +57,19 @@ MIXIの新卒向け技術研修では、一部の科目を除き、実際の開�
 近年は、生成AIやAIエージェントの登場により、開発業務におけるAI活... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/mixi/articles/fd62f8ddc178f6</guid>
       <pubDate>Mon, 27 Jul 2026 04:26:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>ソフトウェアエンジニアとして視野を広げるためのブックガイド</title>
+      <link>https://zenn.dev/shotaro_tsuji/articles/091517e89ab17d</link>
+      <description>はじめに
+私が読んできたソフトウェアエンジニアリングに関する書籍を紹介しようと思います。全てを紹介しているとキリがないので、プログラミング、データベース、アーキテクチャ、プロダクト、組織とマネジメントという括りで、それぞれ何冊か選びました。コードを書くところから始めて、徐々にシステム、プロダクト、組織へと視野を広げていく構成にしています。体系的に学ぶというよりはセンスを養うのに役立ちそうな書籍を選んでいます。プログラミングにある程度慣れている人向けです。
+
+ プログラミング
+
+ 達人プログラマー 熟達に向けたあなたの旅（第2版）
+https://tatsu-zine.com/book... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shotaro_tsuji/articles/091517e89ab17d</guid>
+      <pubDate>Tue, 28 Jul 2026 11:03:03 +0000</pubDate>
     </item>
     <item>
       <title>1日500コミットは、もう読めない ── だからコードレビューをやめた</title>
@@ -68,25 +85,17 @@ MIXIの新卒向け技術研修では、一部の科目を除き、実際の開�
       <pubDate>Sun, 26 Jul 2026 20:06:28 +0000</pubDate>
     </item>
     <item>
-      <title>コードレビューでの見落としをきっかけに『ITエンジニア1年目の教科書』を読んだ</title>
-      <link>https://zenn.dev/flinters_blog/articles/eeb769c9331de1</link>
-      <description>はじめまして。株式会社FLINTERS BASEの河本です。
-現在は、親会社であるFLINTERSに派遣され、データエンジニアとして働いています。
+      <title>AI時代に感じた危機感と、エンジニアがこれから考えるべきこと</title>
+      <link>https://zenn.dev/nabewata/articles/8cef1bd4cbae3f</link>
+      <description>最近感じている危機感
+非エンジニアがAIツールでプロトタイプを組み、これと同じ動きのアプリを作ってほしいと依頼してくる。先日、これに近いことが実際に起こりました。
+今はまだ単発の出来事ですが、近い将来これが当たり前になるはずです。そして、その先を想像するとエンジニアの未来がだいぶ暗い。
+依頼そのものは筋がいいんです。文章の仕様書より画面のほうが認識のズレは少なく、こちらとしても助かります。危機感を覚えているのはそこではなく、この先に待っている評価のされ方のほうかと思っています。
 
- はじめに
-業務でコードレビューを行った際、コードに含まれていたミスを見抜けなかったことがありました。
-また、実装内容が正しいことを確認するためのエビデンスが不足していたにもかかわらず、その点を指摘できていませんでした。
-コードレビューでは、コードを読むだけでなく、処理が要件を満たしているか、テストやエビデンスが十分かまで確認する必要があります。
-今回の経験から、個々の技術を覚えるだけでなく、確認方法や仕事への向き合い方も見直す必要があると... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/flinters_blog/articles/eeb769c9331de1</guid>
-      <pubDate>Mon, 27 Jul 2026 06:46:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントに本番DBを消されないために — CircleCIが報告する「AIサンドボックス」の仕組みと、承認疲れを84%削減した実績</title>
-      <link>https://techfeed.io/entries/6a6a87cf4ddb25dd62988070?from=rss</link>
-      <description>7月29日、CircleCIが「What is an AI sandbox? A developer's guide」と題した記事を公開した。AIコーディングエージェントが生成したコードを安全に実行するための「AIサンドボックス」の仕組みと、開発ワークフローへの組み込み方を詳しく解説した内容で、実際のインシデント事例や具体的な数値、分離メカニズムの比較まで幅広くカバーしている。なぜ今、AIサンドボックスが必要かAIコーディングエージェントが日常的に使われるようになり、事故の報告も増えてきた。Claude Codeのクリーンアップコマンドがホームディレクトリごとファイルを削除した事例（GitHub issue #10077）や、Replitのエージェントがコードフリーズ中に本番データベースを削除した事例（The Registerの報道）は、いずれもエージェントが「人間がレビューしきれない速度で本物のシステムに対して本物のコマンドを実行した」ことによる失敗だ。サンドボックスはその失敗を「局所的な損害」に収める境界線である。AIサンドボックスとは何かAIサンドボックスは、エージェントが実行す (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a6a87cf4ddb25dd62988070?from=rss</guid>
-      <pubDate>Wed, 29 Jul 2026 23:07:59 +0000</pubDate>
+ 見た目8割、実態1割
+PoCの厄介なところは、見た目が完成していることです。動くものが目の前にある以上... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nabewata/articles/8cef1bd4cbae3f</guid>
+      <pubDate>Tue, 28 Jul 2026 12:24:59 +0000</pubDate>
     </item>
     <item>
       <title>agent-browserはもう古い？ Web調査をコマンドに変えるOpenCLI</title>
@@ -97,20 +106,6 @@ AIエージェントが扱えるWebの範囲は、急速に広がっています
 ブラウザを操作で... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/nasubikun/articles/opencli-web-research</guid>
       <pubDate>Wed, 29 Jul 2026 09:40:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>スキルは増やしすぎると使われなくなるのか？実測したら原因はトークンではなかった</title>
-      <link>https://zenn.dev/canly/articles/43bef1eacdae44</link>
-      <description>こんにちは！
-株式会社カンリーでSREをやっている井上です。
-
- はじめに
-カンリーのSREチームでは各開発チームがSREを自律的に実践できるよう、イネーブリングに取り組んでいます。その一環として、SREプラクティスをスキルという形で標準化・展開し、sre-plugin というプラグインにまとめて全社のエンジニアに配布しています。
-プラグインに入っているのは、トラブル調査（クラウド内サービスの異常確認・ログ分析）、IaCのレビュー、その他運用の様々な手順です。
-そして、スキルが50個になったとき、一度も使われないスキルが出はじめました。
-この記事は「うまくいった話」ではなく、当初の仮説が... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/canly/articles/43bef1eacdae44</guid>
-      <pubDate>Wed, 29 Jul 2026 04:01:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
