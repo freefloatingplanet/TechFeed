@@ -7,30 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 08:54:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 08:25:42 +0000</lastBuildDate>
     <item>
-      <title>Visaが好業績のまま2,600人をAI名目で削減 — 金融インフラ企業でも「AI活用」から「AI置き換え」への転換が現実に</title>
-      <link>https://techfeed.io/entries/6a6bd9ec4ddb25dd62994d35?from=rss</link>
-      <description>7月30日、Benjamin Curryが「Visa to let go of THOUSANDS of employees in AI-driven layoff plan」と題した記事を公開した。Visaが全従業員の7%にあたる約2,600人をAI推進を理由にレイオフすると発表したこの件は、「業績不振による削減」ではなく「好業績のままAI投資を優先して人を減らす」という構図が鮮明であり、テック業界を超えた議論を呼んでいる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a6bd9ec4ddb25dd62994d35?from=rss</guid>
-      <pubDate>Thu, 30 Jul 2026 23:10:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜいま「DNS」の見直しが必要？　攻撃者が狙う“6つの設定ミス”</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news046.html</link>
-      <description>Akamaiによると、AI botのトラフィックは2025年に300％増加した。こうしたbotはDNSの設定ミスを積極的に探索しているという。自動スキャナーは、放置されたCNAMEレコードの検出や公開リソースレコードの収集、期限切れとなったDNS委任の乗っ取りなどを、人手では追い付けない速度で実行する。 AIエージェントの普及に伴... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news046.html</guid>
-      <pubDate>Thu, 30 Jul 2026 23:54:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>リリース前チェックをAIで行う「プロダクトリリースハーネス」のつくり方</title>
-      <link>https://zenn.dev/estie/articles/c5503dfe56f7a1</link>
-      <description>こんにちは、株式会社estie（エスティ） 取締役CTO の Nari（@tiwanari）です。
-みなさんは、新しいプロダクトを世に出す前に、「抜け漏れ」がないか不安になった経験はないですか？
-先日、あるプロダクトのリリース前チェックで「個人情報がエラー監視ツールへ送られる実装になっている」と指摘されました。見つけたのは人間ではなく、リリース前チェックリストを読ませた AI のスキャンです。
-よく考えるとケアしなければいけない当たり前なことでも、リリース前の慌ただしい時期にあらゆる観点を思い出すことはとても大変です。ゼロからプロダクトを開発してリリースした経験のある方なら、XSS（クロ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/estie/articles/c5503dfe56f7a1</guid>
-      <pubDate>Thu, 30 Jul 2026 00:45:05 +0000</pubDate>
+      <title>開発チームにノウハウが残るSREの関わり方——年末調整のピークに備えた負荷試験 - SmartHR Tech Blog</title>
+      <link>https://tech.smarthr.jp/entry/2026/07/24/120000</link>
+      <description>こんにちは！SmartHRでSREをしております樋口と申します。 本記事では、2026年上期のSRE活動の一環として、年末調整チームと共同で実施した負荷試験の取り組みを紹介します。 具体的には「負荷試験のノウハウをいかに開発チームへ定着させたか」という組織的・プロセス的なアプローチにフォーカスしてお伝えします。 前... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech.smarthr.jp/entry/2026/07/24/120000</guid>
+      <pubDate>Fri, 24 Jul 2026 11:29:25 +0000</pubDate>
     </item>
     <item>
       <title>「Simple Made Easy」の観点から、UI/UXはどうあるべきか</title>
@@ -42,11 +25,27 @@ Rich Hickey の講演「Simple Made Easy」の考え方を、UI/UX に当ては�
       <pubDate>Mon, 27 Jul 2026 07:22:43 +0000</pubDate>
     </item>
     <item>
-      <title>SQLインジェクションを丁寧に解説 — なぜ「文字列を連結してSQLを作る」と危険なのか</title>
-      <link>https://qiita.com/gts/items/7718da8016d1ce2ca43f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>「バインド変数を使いましょう」と言われて、素直に従ってはいるものの、それが具体的に何を防いでいるのか説明できるかというと、少し怪しい。そういう人は案外多いのではないかと思います。この記事では、SQLインジェクションが成立する仕組みを、実際のクエリの組み立て方に沿って追いかけ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/gts/items/7718da8016d1ce2ca43f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 28 Jul 2026 22:09:14 +0000</pubDate>
+      <title>AIのアウトプットをそのまま出すだけの人にならないために</title>
+      <link>https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+自分はエンジニアとして4年です。いまは Claude Code と Codex を毎日並列で走らせて仕事をしています。
+この記事は、仕事のかなりの部分をエージェントに渡してみて痛感した「それでも人間に残る仕事は何か」を、自分の失敗込みで整理したポエムです。あなた... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 01 Aug 2026 06:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国AI研究者がXで発信を活発化 — 国内プラットフォームの質低下と「DeepSeek効果」が後押し</title>
+      <link>https://techfeed.io/entries/6a6d2b1c4ddb25dd629a058b?from=rss</link>
+      <description>8月1日、Wiredが「Chinese AI Researchers Are Finding Their Voice on X」と題した記事を公開した。DeepSeek R1が世界を席巻した2025年初頭以降、中国のAI研究者たちがXへの発信を急速に活発化させており、グローバルなAI議論の場で存在感を高めている。その背景には、国内プラットフォームの構造的な質低下と、DeepSeekの世界的ヒットがもたらした「国際的ブランディングへの意識変革」がある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a6d2b1c4ddb25dd629a058b?from=rss</guid>
+      <pubDate>Fri, 31 Jul 2026 23:09:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIコストは「初期クラウド」と同じ轍を踏んでいる — 予算外のAI請求を防ぐCIOの5つの実践</title>
+      <link>https://techfeed.io/entries/6a6d2ac34ddb25dd629a0552?from=rss</link>
+      <description>7月31日、TechTargetが「How CIOs can avoid the AI surprise bill」と題した記事を公開した。企業のAI投資が急拡大するなか、当初は小さく見えたAI関連支出が気づけば予算を大幅に超過する「サプライズ請求」が各社で問題になっている。この記事では、その構造的原因と、CIOが実践すべきコスト管理手法を詳しく論じている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a6d2ac34ddb25dd629a0552?from=rss</guid>
+      <pubDate>Fri, 31 Jul 2026 23:07:47 +0000</pubDate>
     </item>
     <item>
       <title>【2026年版】MIXI 新卒向け技術研修を公開しました。</title>
@@ -57,6 +56,13 @@ MIXIの新卒向け技術研修では、一部の科目を除き、実際の開�
 近年は、生成AIやAIエージェントの登場により、開発業務におけるAI活... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/mixi/articles/fd62f8ddc178f6</guid>
       <pubDate>Mon, 27 Jul 2026 04:26:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>GeminiにVBAマクロを作らせてExcel定型レポートを自動化してみた — テンプレートの作り直しが突破口になった実践検証</title>
+      <link>https://techfeed.io/entries/6a6d2b0e4ddb25dd629a0582?from=rss</link>
+      <description>7月31日、How-To Geekが「I asked Gemini to automate an Excel reporting task」と題した記事を公開した。GeminiにVBAマクロを生成させてExcelの定型レポート業務を自動化する試みで、最終的には実用レベルに到達している。ただし、そこに至る鍵は「AIへの指示を工夫する」ことではなく、テンプレート自体をシンプルに作り直すという逆転の発想にあった。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a6d2b0e4ddb25dd629a0582?from=rss</guid>
+      <pubDate>Fri, 31 Jul 2026 23:09:02 +0000</pubDate>
     </item>
     <item>
       <title>ソフトウェアエンジニアとして視野を広げるためのブックガイド</title>
@@ -96,16 +102,6 @@ https://tatsu-zine.com/book... (source: Zennのトレンド)</description>
 PoCの厄介なところは、見た目が完成していることです。動くものが目の前にある以上... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/nabewata/articles/8cef1bd4cbae3f</guid>
       <pubDate>Tue, 28 Jul 2026 12:24:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>agent-browserはもう古い？ Web調査をコマンドに変えるOpenCLI</title>
-      <link>https://zenn.dev/nasubikun/articles/opencli-web-research</link>
-      <description>こんにちは、jomatsuです。
-最近、OpenCLIというOSSが注目を集めていますが、日本の技術コミュニティではそれほど話題になっていないと感じたため、記事にしてみました。OpenCLI単体に閉じた話ではなく、「AIによるブラウザ操作」が次の時代に進んでいるトレンドでもあると考えていますので、そこも含めて解説します。
-AIエージェントが扱えるWebの範囲は、急速に広がっています。公開ページの検索や取得に加えて、ブラウザを操作するツールを使えば、ログイン後の画面やJavaScriptで描画される情報も調べられます。agent-browserは、その代表的な選択肢です。
-ブラウザを操作で... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nasubikun/articles/opencli-web-research</guid>
-      <pubDate>Wed, 29 Jul 2026 09:40:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
