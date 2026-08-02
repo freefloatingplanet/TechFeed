@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 08:25:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 08:28:29 +0000</lastBuildDate>
     <item>
-      <title>開発チームにノウハウが残るSREの関わり方——年末調整のピークに備えた負荷試験 - SmartHR Tech Blog</title>
-      <link>https://tech.smarthr.jp/entry/2026/07/24/120000</link>
-      <description>こんにちは！SmartHRでSREをしております樋口と申します。 本記事では、2026年上期のSRE活動の一環として、年末調整チームと共同で実施した負荷試験の取り組みを紹介します。 具体的には「負荷試験のノウハウをいかに開発チームへ定着させたか」という組織的・プロセス的なアプローチにフォーカスしてお伝えします。 前... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tech.smarthr.jp/entry/2026/07/24/120000</guid>
-      <pubDate>Fri, 24 Jul 2026 11:29:25 +0000</pubDate>
+      <title>RustQCプロジェクトで60倍高速化——AIコーディングエージェントが研究ソフトを刷新できても「科学的正しさ」の判断は人間なしには不可能</title>
+      <link>https://techfeed.io/entries/6a6e7c984ddb25dd629a6d8a?from=rss</link>
+      <description>8月1日、The Decoderが「AI coding agents can modernize research software but can't judge if the science is right」と題した記事を公開した。OpenAIと複数の研究機関が共同でまとめたフィールドレポートを取り上げており、CodexやClaude Codeといったコーディングエージェントを活用した8つの実証ケーススタディが報告されている。最大の成果は品質管理ツールの統合プロジェクト「RustQC」における60倍超の高速化だが、レポートが一貫して強調するのはむしろ逆の側面だ——エージェントは実装を加速できるが、コードが科学的に正しいかどうかを自己評価する能力は持っていない。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a6e7c984ddb25dd629a6d8a?from=rss</guid>
+      <pubDate>Sat, 01 Aug 2026 23:09:12 +0000</pubDate>
     </item>
     <item>
       <title>「Simple Made Easy」の観点から、UI/UXはどうあるべきか</title>
@@ -34,18 +34,11 @@ Rich Hickey の講演「Simple Made Easy」の考え方を、UI/UX に当ては�
       <pubDate>Sat, 01 Aug 2026 06:25:03 +0000</pubDate>
     </item>
     <item>
-      <title>中国AI研究者がXで発信を活発化 — 国内プラットフォームの質低下と「DeepSeek効果」が後押し</title>
-      <link>https://techfeed.io/entries/6a6d2b1c4ddb25dd629a058b?from=rss</link>
-      <description>8月1日、Wiredが「Chinese AI Researchers Are Finding Their Voice on X」と題した記事を公開した。DeepSeek R1が世界を席巻した2025年初頭以降、中国のAI研究者たちがXへの発信を急速に活発化させており、グローバルなAI議論の場で存在感を高めている。その背景には、国内プラットフォームの構造的な質低下と、DeepSeekの世界的ヒットがもたらした「国際的ブランディングへの意識変革」がある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a6d2b1c4ddb25dd629a058b?from=rss</guid>
-      <pubDate>Fri, 31 Jul 2026 23:09:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIコストは「初期クラウド」と同じ轍を踏んでいる — 予算外のAI請求を防ぐCIOの5つの実践</title>
-      <link>https://techfeed.io/entries/6a6d2ac34ddb25dd629a0552?from=rss</link>
-      <description>7月31日、TechTargetが「How CIOs can avoid the AI surprise bill」と題した記事を公開した。企業のAI投資が急拡大するなか、当初は小さく見えたAI関連支出が気づけば予算を大幅に超過する「サプライズ請求」が各社で問題になっている。この記事では、その構造的原因と、CIOが実践すべきコスト管理手法を詳しく論じている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a6d2ac34ddb25dd629a0552?from=rss</guid>
-      <pubDate>Fri, 31 Jul 2026 23:07:47 +0000</pubDate>
+      <title>Googleの「常時起動AIエージェント」Gemini Sparkを毎日使うエディターが明かした7つのプロンプト — 「画面を開いていなくてもAIが動く」体験はチャットボットとは別物だった</title>
+      <link>https://techfeed.io/entries/6a6e7c734ddb25dd629a6d7c?from=rss</link>
+      <description>7月31日、Amanda Caswellが「I use Gemini Spark daily — here are 7 prompts that show what it can really do」と題した記事を公開した。Googleの自律型AIエージェント「Gemini Spark」を毎日使い込むAIエディターが、実際に効果を実感した7つのプロンプトを紹介している。チャットボットに質問して回答を待つ従来の使い方とは根本的に異なる——「ユーザーが何もしていない間にAIが仕事を終わらせている」という体験が、なぜChrome拡張やCopilotとも別物なのか。その実態が7つのプロンプトを通じて明らかになる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a6e7c734ddb25dd629a6d7c?from=rss</guid>
+      <pubDate>Sat, 01 Aug 2026 23:08:35 +0000</pubDate>
     </item>
     <item>
       <title>【2026年版】MIXI 新卒向け技術研修を公開しました。</title>
@@ -56,13 +49,6 @@ MIXIの新卒向け技術研修では、一部の科目を除き、実際の開�
 近年は、生成AIやAIエージェントの登場により、開発業務におけるAI活... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/mixi/articles/fd62f8ddc178f6</guid>
       <pubDate>Mon, 27 Jul 2026 04:26:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>GeminiにVBAマクロを作らせてExcel定型レポートを自動化してみた — テンプレートの作り直しが突破口になった実践検証</title>
-      <link>https://techfeed.io/entries/6a6d2b0e4ddb25dd629a0582?from=rss</link>
-      <description>7月31日、How-To Geekが「I asked Gemini to automate an Excel reporting task」と題した記事を公開した。GeminiにVBAマクロを生成させてExcelの定型レポート業務を自動化する試みで、最終的には実用レベルに到達している。ただし、そこに至る鍵は「AIへの指示を工夫する」ことではなく、テンプレート自体をシンプルに作り直すという逆転の発想にあった。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a6d2b0e4ddb25dd629a0582?from=rss</guid>
-      <pubDate>Fri, 31 Jul 2026 23:09:02 +0000</pubDate>
     </item>
     <item>
       <title>ソフトウェアエンジニアとして視野を広げるためのブックガイド</title>
@@ -78,17 +64,35 @@ https://tatsu-zine.com/book... (source: Zennのトレンド)</description>
       <pubDate>Tue, 28 Jul 2026 11:03:03 +0000</pubDate>
     </item>
     <item>
-      <title>1日500コミットは、もう読めない ── だからコードレビューをやめた</title>
-      <link>https://zenn.dev/singularity/articles/stopped-reviewing-my-code</link>
-      <description>最近、マージボタンを押すとき、僕はその diff を読んでいないことのほうが多くなりました。
-コードレビューをしていません。 場合によっては、動作確認もしていません。
-こう書くと無責任に聞こえると思います。実際、少し前の僕がこれを読んだら「そんなの事故るに決まってる」と言ったはずです。
-でも、事故っていないのです。簡単なバグは、ほぼ出ません。
-なぜかというと、レビューでしか捕まらないものを、先に減らしたからです。この記事は、その「先に減らす」ために何を整えたかの話です。
-エージェントを並列で回すようになって、コミットは1日500を超えました。この数字自体は、正直かなり気に入っています。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/singularity/articles/stopped-reviewing-my-code</guid>
-      <pubDate>Sun, 26 Jul 2026 20:06:28 +0000</pubDate>
+      <title>ローカルタスク管理アプリを設計してみた</title>
+      <link>https://zenn.dev/headwaters/articles/76f20490b76952</link>
+      <description>背景
+今まではタスクは自分の頭で整理するか、メモ帳のようなものに書き留めていました。
+それくらいの管理で十分でした。
+しかし最近、案件業務・社内業務とタスクが増え、整理していかないと厳しい状態になってきました。
+
+ 課題
+課題なのが、私自身タスク管理というものが苦手ということ。アプリを開いたり記入したりするのが面倒になりがちで、何かにメモしておこうとしてもベタ書き（用件だけ書いて締め切りなどは書かない、など）になってしまいがちです。
+
+ 解決策
+これを解決するために、音声入力 + 文章整形 + 保存ができれば良いのではないかと思いました。
+そこで今回取り入れたのが Claude Co... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/76f20490b76952</guid>
+      <pubDate>Fri, 31 Jul 2026 23:36:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>圧縮LLMの盲点 — ベンチマーク全クリアなのにエージェントが手順を捏造する、既存品質チェックが見逃しうる構造的リスク</title>
+      <link>https://techfeed.io/entries/6a6e7ceb4ddb25dd629a6da3?from=rss</link>
+      <description>7月31日、I. KennedyおよびT. KennedyがarXiv上で「Fidelity Is Not Safety: Gently-Compressed LLMs Pass Every Data-Free Quality Guard Yet Invent Procedure Steps in Agentic Execution」と題した論文を公開した。軽度に圧縮されたLLMが既存の品質チェックをすべてパスしながらも、エージェントとして実行した際に手順ステップを捏造するという安全性の盲点について詳しく論じている。「品質チェックをパスした」は「安全」を意味しないLLMを本番環境にデプロイする際、モデルの圧縮はコストと推論速度の観点から常套手段となっている。圧縮手法としては主に量子化（重みのビット精度を下げる）、枝刈り（pruning）（重要度の低い重みをゼロにする）、低ランク近似（重み行列を低次元の積に分解して近似する）の3種類が広く使われており、後述するSVD（特異値分解：Singular Value Decomposition）による切り詰めは低ランク近似の代表的な実装だ。圧縮後 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a6e7ceb4ddb25dd629a6da3?from=rss</guid>
+      <pubDate>Sat, 01 Aug 2026 23:10:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>テスト自動化大手TricentisがAIコーディングツールTabnineを買収 — コード補完ではなく「組織全体の知識グラフ」でGitHub Copilotと差別化へ</title>
+      <link>https://techfeed.io/entries/6a6e7cdb4ddb25dd629a6d9e?from=rss</link>
+      <description>7月31日、Software Testing Magazineが「Tricentis Has Acquired Tabnine AI-coding Platform」と題した記事を公開した。テスト自動化・品質エンジニアリング大手のTricentisが、エンタープライズ向けAIコーディングプラットフォームのTabnineを買収したことを報じている。買収条件（金額等）は公開されていない。TricentisとTabnineとはTricentisは、エンタープライズ向けのテスト自動化・品質エンジニアリングを専業とするソフトウェア企業だ。2007年創業のオーストリア発で、現在はグローバルに3,000社以上の顧客を持つとされる大手プレイヤーである。Tosca・NeoLoad・Testim等の製品群を通じて、大規模エンタープライズのソフトウェアテスト基盤を担ってきた。買収されたのはTabnineだ。GitHubが公開している「GitHub Copilot」やAnysphere社の「Cursor」と同じAIコーディング支援ツールの市場に位置するが、Tabnineはエンタープライズ環境での安全性・制御性 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a6e7cdb4ddb25dd629a6d9e?from=rss</guid>
+      <pubDate>Sat, 01 Aug 2026 23:10:19 +0000</pubDate>
     </item>
     <item>
       <title>AI時代に感じた危機感と、エンジニアがこれから考えるべきこと</title>
