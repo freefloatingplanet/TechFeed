@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 08:28:29 +0000</lastBuildDate>
-    <item>
-      <title>RustQCプロジェクトで60倍高速化——AIコーディングエージェントが研究ソフトを刷新できても「科学的正しさ」の判断は人間なしには不可能</title>
-      <link>https://techfeed.io/entries/6a6e7c984ddb25dd629a6d8a?from=rss</link>
-      <description>8月1日、The Decoderが「AI coding agents can modernize research software but can't judge if the science is right」と題した記事を公開した。OpenAIと複数の研究機関が共同でまとめたフィールドレポートを取り上げており、CodexやClaude Codeといったコーディングエージェントを活用した8つの実証ケーススタディが報告されている。最大の成果は品質管理ツールの統合プロジェクト「RustQC」における60倍超の高速化だが、レポートが一貫して強調するのはむしろ逆の側面だ——エージェントは実装を加速できるが、コードが科学的に正しいかどうかを自己評価する能力は持っていない。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a6e7c984ddb25dd629a6d8a?from=rss</guid>
-      <pubDate>Sat, 01 Aug 2026 23:09:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Aug 2026 09:52:30 +0000</lastBuildDate>
     <item>
       <title>「Simple Made Easy」の観点から、UI/UXはどうあるべきか</title>
       <link>https://zenn.dev/pksha/articles/6cdf19e5fe8065</link>
@@ -23,6 +16,27 @@ Rich Hickey の講演「Simple Made Easy」の考え方を、UI/UX に当ては�
 本文では、UI で起きる絡み合い(complect)の定番パターンを「表示と操作」など5つに整理します。そこから Si... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/pksha/articles/6cdf19e5fe8065</guid>
       <pubDate>Mon, 27 Jul 2026 07:22:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude CodeのSkillsは「手順書」だったので、/article コマンドを作ってみた</title>
+      <link>https://zenn.dev/osakayakyu/articles/e6aa9835c04d73</link>
+      <description>概要
+Claude Codeの「スキル」という言葉を見たとき、最初はプラグインや拡張機能みたいなものを想像していました。
+何かスクリプトを書いて、コマンドから呼び出して、決まった処理を自動実行するようなイメージです。
+でも実際に触ってみると、思っていたよりずっとシンプルでした。
+用意するのは、基本的には SKILL.md というMarkdownファイルです。
+そこに「こういう順番で作業してほしい」「ここは必ず確認してほしい」という手順を書いておくと、Claude Codeがその手順に沿って動いてくれます。
+つまり、Claude Codeのスキルは「コードを書く自動化」というより、
+毎... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/osakayakyu/articles/e6aa9835c04d73</guid>
+      <pubDate>Sun, 02 Aug 2026 03:15:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple、大量購入品の返品に「15％の手数料」　販売条件に明記　“転売対策”か</title>
+      <link>https://www.itmedia.co.jp/news/article/2608/03/2000000359/</link>
+      <description>米Appleの日本向けApple Storeの販売条件に、大量購入した製品を返品する際、商品1点につき「15％の返品手数料」を課す場合があるとの条項が追加されていることが、8月3日までに分かった。Appleが「不正な目的による返品の恐れがある」と判断した場合に適用するとしている。 「大量購入商品の返品」の条項には、一般的な... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/03/2000000359/</guid>
+      <pubDate>Mon, 03 Aug 2026 07:57:13 +0000</pubDate>
     </item>
     <item>
       <title>AIのアウトプットをそのまま出すだけの人にならないために</title>
@@ -34,21 +48,11 @@ Rich Hickey の講演「Simple Made Easy」の考え方を、UI/UX に当ては�
       <pubDate>Sat, 01 Aug 2026 06:25:03 +0000</pubDate>
     </item>
     <item>
-      <title>Googleの「常時起動AIエージェント」Gemini Sparkを毎日使うエディターが明かした7つのプロンプト — 「画面を開いていなくてもAIが動く」体験はチャットボットとは別物だった</title>
-      <link>https://techfeed.io/entries/6a6e7c734ddb25dd629a6d7c?from=rss</link>
-      <description>7月31日、Amanda Caswellが「I use Gemini Spark daily — here are 7 prompts that show what it can really do」と題した記事を公開した。Googleの自律型AIエージェント「Gemini Spark」を毎日使い込むAIエディターが、実際に効果を実感した7つのプロンプトを紹介している。チャットボットに質問して回答を待つ従来の使い方とは根本的に異なる——「ユーザーが何もしていない間にAIが仕事を終わらせている」という体験が、なぜChrome拡張やCopilotとも別物なのか。その実態が7つのプロンプトを通じて明らかになる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a6e7c734ddb25dd629a6d7c?from=rss</guid>
-      <pubDate>Sat, 01 Aug 2026 23:08:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【2026年版】MIXI 新卒向け技術研修を公開しました。</title>
-      <link>https://zenn.dev/mixi/articles/fd62f8ddc178f6</link>
-      <description>2026年度新卒向け技術研修の資料と動画を公開しました。
-MIXIの新卒向け技術研修では、一部の科目を除き、実際の開発現場で活躍するエンジニアが講師を務めています。技術や開発環境の変化に合わせて毎年カリキュラムを見直し、現場で必要となる知識や技術を学べる研修を目指しています。
-また、職種や配属先にかかわらず、エンジニアとして必要となる幅広い技術的な土台を身につけられるよう、モバイルやWebフロントエンドなどのアプリケーション開発に加え、データベース、セキュリティ、クラウド、データ活用など、多様な領域を扱ってきました。
-近年は、生成AIやAIエージェントの登場により、開発業務におけるAI活... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mixi/articles/fd62f8ddc178f6</guid>
-      <pubDate>Mon, 27 Jul 2026 04:26:35 +0000</pubDate>
+      <title>Reddit CEOがGoogle AI検索を公開批判 —「青いリンクは価値を生んだが、AI要約はまだwin-winになっていない」</title>
+      <link>https://techfeed.io/entries/6a6fcc194ddb25dd629acf35?from=rss</link>
+      <description>8月2日、Inside AI Newsが「Reddit CEO Slams Google AI Overviews for Failing Web Ecosystem」と題した記事を公開した。RedditのCEO Steve Huffman がGoogleのAI Overviewsを公開批判し、その余波でRedditの株価が20%超下落した件を報じている。Googleとの大型ライセンス契約の見直し検討も浮上しており、プラットフォームと検索エンジンの間に走る亀裂が、業界全体の問題として鮮明になりつつある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a6fcc194ddb25dd629acf35?from=rss</guid>
+      <pubDate>Sun, 02 Aug 2026 23:00:41 +0000</pubDate>
     </item>
     <item>
       <title>ソフトウェアエンジニアとして視野を広げるためのブックガイド</title>
@@ -62,6 +66,13 @@ MIXIの新卒向け技術研修では、一部の科目を除き、実際の開�
 https://tatsu-zine.com/book... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/shotaro_tsuji/articles/091517e89ab17d</guid>
       <pubDate>Tue, 28 Jul 2026 11:03:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>碇シンジ役・緒方恵美がAI音声クローニングに「胸が張り裂ける」— 「コンテンツ大国」日本に法整備を訴える</title>
+      <link>https://techfeed.io/entries/6a6fcbff4ddb25dd629acf1f?from=rss</link>
+      <description>8月2日、Ted Litchfieldが「The voice of Shinji in Evangelion says AI voice cloning is 'heartbreaking,' calls for Japanese government to intervene」と題した記事を公開した。『新世紀エヴァンゲリオン』の碇シンジ役で知られる声優・緒方恵美が、TikTokなどのプラットフォームに蔓延するAI音声クローニングを「heartbreaking（胸が張り裂ける）」と批判し、「コンテンツ大国を自称しながらなぜルールを作れないのか」と日本政府の対応の遅さに苦言を呈した。声優個人の訴えにとどまらず、日本の法制度の構造的な空白を問う発言として注目を集めている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a6fcbff4ddb25dd629acf1f?from=rss</guid>
+      <pubDate>Sun, 02 Aug 2026 23:00:15 +0000</pubDate>
     </item>
     <item>
       <title>ローカルタスク管理アプリを設計してみた</title>
@@ -81,18 +92,14 @@ https://tatsu-zine.com/book... (source: Zennのトレンド)</description>
       <pubDate>Fri, 31 Jul 2026 23:36:46 +0000</pubDate>
     </item>
     <item>
-      <title>圧縮LLMの盲点 — ベンチマーク全クリアなのにエージェントが手順を捏造する、既存品質チェックが見逃しうる構造的リスク</title>
-      <link>https://techfeed.io/entries/6a6e7ceb4ddb25dd629a6da3?from=rss</link>
-      <description>7月31日、I. KennedyおよびT. KennedyがarXiv上で「Fidelity Is Not Safety: Gently-Compressed LLMs Pass Every Data-Free Quality Guard Yet Invent Procedure Steps in Agentic Execution」と題した論文を公開した。軽度に圧縮されたLLMが既存の品質チェックをすべてパスしながらも、エージェントとして実行した際に手順ステップを捏造するという安全性の盲点について詳しく論じている。「品質チェックをパスした」は「安全」を意味しないLLMを本番環境にデプロイする際、モデルの圧縮はコストと推論速度の観点から常套手段となっている。圧縮手法としては主に量子化（重みのビット精度を下げる）、枝刈り（pruning）（重要度の低い重みをゼロにする）、低ランク近似（重み行列を低次元の積に分解して近似する）の3種類が広く使われており、後述するSVD（特異値分解：Singular Value Decomposition）による切り詰めは低ランク近似の代表的な実装だ。圧縮後 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a6e7ceb4ddb25dd629a6da3?from=rss</guid>
-      <pubDate>Sat, 01 Aug 2026 23:10:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>テスト自動化大手TricentisがAIコーディングツールTabnineを買収 — コード補完ではなく「組織全体の知識グラフ」でGitHub Copilotと差別化へ</title>
-      <link>https://techfeed.io/entries/6a6e7cdb4ddb25dd629a6d9e?from=rss</link>
-      <description>7月31日、Software Testing Magazineが「Tricentis Has Acquired Tabnine AI-coding Platform」と題した記事を公開した。テスト自動化・品質エンジニアリング大手のTricentisが、エンタープライズ向けAIコーディングプラットフォームのTabnineを買収したことを報じている。買収条件（金額等）は公開されていない。TricentisとTabnineとはTricentisは、エンタープライズ向けのテスト自動化・品質エンジニアリングを専業とするソフトウェア企業だ。2007年創業のオーストリア発で、現在はグローバルに3,000社以上の顧客を持つとされる大手プレイヤーである。Tosca・NeoLoad・Testim等の製品群を通じて、大規模エンタープライズのソフトウェアテスト基盤を担ってきた。買収されたのはTabnineだ。GitHubが公開している「GitHub Copilot」やAnysphere社の「Cursor」と同じAIコーディング支援ツールの市場に位置するが、Tabnineはエンタープライズ環境での安全性・制御性 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a6e7cdb4ddb25dd629a6d9e?from=rss</guid>
-      <pubDate>Sat, 01 Aug 2026 23:10:19 +0000</pubDate>
+      <title>3 行の同期バッチが、壊れるたびに堅牢になっていく話</title>
+      <link>https://zenn.dev/neoai/articles/878ed0b400f45d</link>
+      <description>はじめに
+こんにちは。株式会社neoAIでエンジニアをしている相原です。
+データ連携の機能を作っていてさんざん苦労したので、学びをメモとして共有します。ユーザーの許可を得て、外部サービスからデータを API で取り込む。加工して、自社サービスに保存する。カレンダー連携や会計ソフトの明細取り込みのような、よくあるインポート機能です。この同期処理、「データ量が増えたらこの実装で持つのだろうか」と不安になったことはないでしょうか。
+結論から言うと、この手の同期処理は、データ量が増えるにつれてだいたい決まった順番で壊れていきます。メモリ、実行時間、重いデータの偏り、壊れたデータの道連れ、そし... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/neoai/articles/878ed0b400f45d</guid>
+      <pubDate>Fri, 31 Jul 2026 09:10:01 +0000</pubDate>
     </item>
     <item>
       <title>AI時代に感じた危機感と、エンジニアがこれから考えるべきこと</title>
