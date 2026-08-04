@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Aug 2026 09:52:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 08:43:03 +0000</lastBuildDate>
     <item>
-      <title>人型ロボットと物体質量のバランス調整：トレードオフ分析と持ち上げ制御</title>
-      <link>https://arxiv.org/abs/2607.29625v1</link>
-      <description>物体を用いた人型ロボットの移動操作タスクに対する需要は近年増加しており、こうしたタスクにおける安定性を確保するための既存の制御手法のほとんどは、ヒューリスティクスまたは機械学習技術に依存している。本研究では、物体の質量がバランス安定性に及ぼす動的影響を厳密に分析し、活用する。物体の質量パラメータを、接地接触点における分散接触レンチと圧力中心を用いた全身ダイナミクスに定式化することで、システム運動量と制約に対する非線形効果を定量化する。動的モデルと制約は、バランス状態盆地/境界（BSB）の構築に組み込まれる。BSBは、二足歩行システムが望ましい接触点でバランスを維持するための重心状態空間の分割である。BSBの予測と制御への影響は、人型ロボットと解析的に扱いやすい次数削減機構を用いて強調される。支持基底面、アクチュエーション能力、姿勢の異なる条件下でのBSBは、物体の質量がシステムのバランス能力に及ぼす影響を体系的に分析する。特に、運動量制御とバランス制御における制限要因との間のトレードオフ関係を特徴づけ、対象物の2つの重要な量、すなわちシステムのバランス制御能力が最大となる臨界質量と、異 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.29625v1</guid>
-      <pubDate>Fri, 31 Jul 2026 16:57:51 +0000</pubDate>
+      <title>ロボット工学における基礎モデル：方法、モデル、データセット、課題、そして今後の研究方向性に関する包括的なレビュー</title>
+      <link>https://arxiv.org/abs/2604.15395v2</link>
+      <description>近年、ロボット工学の分野は、固定された単一タスクのドメイン固有のソリューションから、複雑でオープンワールドかつ動的な環境で動作可能な、適応型で多機能な汎用エージェントへと、パラダイムシフトを起こしています。この目覚ましい進歩は、主にファウンデーションモデル（FM）の出現によって推進されています。FMとは、大規模で異種混在のデータセットで学習された大規模なニューラルネットワークアーキテクチャであり、マルチモーダルな理解と推論、長期的な計画、および異種具現化において前例のない能力を提供します。本研究では、このような背景のもと、ロボット工学におけるFMの研究状況を包括的かつ体系的に詳細にレビューします。特に、この分野の進化は、自然言語処理（NLP）およびコンピュータビジョン（CV）モデルの初期導入から、マルチ感覚一般化と実世界への展開という現在の最先端に至るまで、5つの異なる研究段階を通して概説されます。続いて、文献を非常に詳細に分類的に調査し、以下の主要な側面を検討します。a) LLM、VFM、VLM、VLAを含む、採用されているFMタイプ、b) 基盤となるニューラルネットワークアーキテク (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.15395v2</guid>
+      <pubDate>Thu, 16 Apr 2026 09:32:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

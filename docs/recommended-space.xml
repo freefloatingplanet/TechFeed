@@ -7,27 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 09:52:33 +0000</lastBuildDate>
-    <item>
-      <title>「短期間に何回挑戦できるか」中須賀真一教授に聞く第4世代に突入した宇宙開発時代の勝ち方と、開発スピードを支える調達DX_PR</title>
-      <link>https://sorabatake.jp/46542/</link>
-      <description>宇宙産業を取り巻く構造変化や今後の展望、また、開発現場におけるリアルな課題や、設計・調達・試作のスピード向上を支える基盤整備の重要性について、最前線で活躍するお二人にお話を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46542/</guid>
-      <pubDate>Thu, 23 Jul 2026 23:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>JAXA探査機「はやぶさ2」フライバイ時に小惑星トリフネ表面から400mまで接近していた</title>
-      <link>https://sorae.info/space/20260731-hayabusa2-torifune.html</link>
-      <description>JAXA（宇宙航空研究開発機構）は2026年7月30日、小惑星探査機「はやぶさ2」が7月5日に行った小惑星「トリフネ（Torifune）」のフライバイ（接近通過）の成果について記者説明会を開催し、あわせて2件のプレスリリ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260731-hayabusa2-torifune.html</guid>
-      <pubDate>Fri, 31 Jul 2026 02:18:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Aug 2026 08:43:01 +0000</lastBuildDate>
     <item>
       <title>NASA施設で実施されたスーパーヘビーの風洞試験　改良版機体の空力データを取得</title>
       <link>https://sorae.info/space/20260803-nasa-ames-super-heavy.html</link>
       <description>一見すると何かの金属部品に見えるこの物体。実は、アメリカのSpaceX（スペースX）社が開発中の再使用型ロケット「Starship（スターシップ）」の1段目にあたる大型ロケット「Super Heavy（スーパーヘビー）」… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260803-nasa-ames-super-heavy.html</guid>
       <pubDate>Mon, 03 Aug 2026 08:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>巨大なブラックホールの“風”は銀河のはるか外まで到達　エネルギーは想定の100倍以上</title>
+      <link>https://sorae.info/astronomy/20260803-black-hole-wind.html</link>
+      <description>多くの銀河の中心には、質量が太陽の100万倍を超えるような超大質量ブラックホール（超巨大ブラックホール）が存在するとされています。これらは周囲の物質を吸い込む一方で、その一部を高速のガスとして噴き出す「風」を放つことが知… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260803-black-hole-wind.html</guid>
+      <pubDate>Mon, 03 Aug 2026 12:41:43 +0000</pubDate>
     </item>
     <item>
       <title>ベテルギウス伴星の直接撮像に成功か　超大型望遠鏡VLTを使用した新たな研究成果</title>
@@ -49,6 +42,13 @@
       <description>次世代の起業家の登竜門とされる国内最大級のピッチコンテスト「IVS2026 LAUNCHPAD（ローンチパッド）」にて、Space Quartersが宇宙関連スタートアップで初優勝となりました。事業概要と展望について、プレゼンターも務めた同社COOの高橋さんのコメントと合わせて紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46660/</guid>
       <pubDate>Sat, 01 Aug 2026 02:33:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年8月の星空情報：12日夜～13日未明にペルセウス座流星群を見よう</title>
+      <link>https://sorae.info/astronomy/202608-starry-sky.html</link>
+      <description>8月、強い日差しが肌を焼くような蒸し暑い日が続きます。星空では、盛夏を彩る1等星を持つ豪華な星座を見ることができます。 天頂付近には夏の大三角が見えます。夏の大三角は、「こと座」のベガ、「わし座」のアルタイル、「はくちょ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/202608-starry-sky.html</guid>
+      <pubDate>Tue, 04 Aug 2026 08:24:38 +0000</pubDate>
     </item>
     <item>
       <title>BULLのデブリ化防止装置「HORN」が初の軌道上実証に成功。膜面展開の軌道上撮影画像も公開！【宇宙ビジネスニュース】</title>

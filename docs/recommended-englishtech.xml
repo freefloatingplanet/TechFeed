@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Aug 2026 09:52:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 08:43:05 +0000</lastBuildDate>
     <item>
-      <title>MCPナイト4のまとめ：エージェント認証、auth.md、そしてエージェント登録の台頭</title>
-      <link>https://workos.com/blog/mcp-night-4-recap-auth-md-agentic-registration</link>
-      <description>Regency Loomで開催されたMCPナイト4の概要：エージェント登録のメリット、Auth.mdのライブデモ、そしてエージェント対応が新たなエンタープライズ対応となる理由。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/mcp-night-4-recap-auth-md-agentic-registration</guid>
-      <pubDate>Mon, 25 May 2026 04:43:02 +0000</pubDate>
+      <title>Java ニュースまとめ: OpenJDK JEP、Jakarta EE、GraalVM、TornadoVM、Micronaut、Quarkus、JobRunr、Maven</title>
+      <link>https://www.infoq.com/news/2026/08/java-news-roundup-jul27-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>2026年7月27日付けの今週のJavaニュースまとめでは、以下のニュースを取り上げています。JDK 28向けにターゲットとされた、またはターゲットとすることが提案されたOpenJDK JEP。GPULlama3.java 1.0のGAリリース。Micronaut、Quarkus、JobRunrのポイントリリース。JDKUpdaterのメンテナンスリリース。Maven 4.0の6番目のリリース候補。Jakarta Agentic AI 1.0の最初のマイルストーンリリース。執筆：Michael Redlich (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/08/java-news-roundup-jul27-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 03 Aug 2026 14:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

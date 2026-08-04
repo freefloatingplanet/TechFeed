@@ -7,15 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 09:52:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 08:42:57 +0000</lastBuildDate>
     <item>
-      <title>「Simple Made Easy」の観点から、UI/UXはどうあるべきか</title>
-      <link>https://zenn.dev/pksha/articles/6cdf19e5fe8065</link>
-      <description>要約
-Rich Hickey の講演「Simple Made Easy」の考え方を、UI/UX に当てはめて整理した記事です。「シンプル(Simple)」と「簡単(Easy)」は別物で、Simple は「モノの構造」の話、Easy は「人との親近性」の話です。Easy を優先した UI は「Easy but Complex」の罠に陥りがちです。最初こそ快適でも、育つほど絡み合いが効いてきて Hard(変更が怖い・誰も読めない)になります。典型例が Excel です。
-本文では、UI で起きる絡み合い(complect)の定番パターンを「表示と操作」など5つに整理します。そこから Si... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pksha/articles/6cdf19e5fe8065</guid>
-      <pubDate>Mon, 27 Jul 2026 07:22:43 +0000</pubDate>
+      <title>GoogleはChatGPTより先に同等のAIを持っていた — 「検索事業を守るため」リリースしなかったと元社員が主張</title>
+      <link>https://techfeed.io/entries/6a71214b4ddb25dd629babf8?from=rss</link>
+      <description>8月3日、Digit.inが「Google reportedly had its own ChatGPT before OpenAI, but never released it: Former employee reveals why」と題した記事を公開した。GoogleがChatGPT登場の約1年前に同等の会話型AIを社内開発していたにもかかわらず、検索事業への影響を懸念してリリースしなかった——そう主張するのは、当時のプロジェクトに直接携わっていたという元Google社員だ。技術的な先行者でありながら「守りの判断」でリリースを見送ったとされるこの経緯は、AI業界史における重要な分岐点として注目を集めている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a71214b4ddb25dd629babf8?from=rss</guid>
+      <pubDate>Mon, 03 Aug 2026 23:16:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>GDBで始めるアセンブリと解析</title>
+      <link>https://zenn.dev/juck28/articles/091c07869aba28</link>
+      <description>Reversingをやる上で避けて通れないのがアセンブリ。
+こいつを「なんとなく読める」ようになると解析がグッと楽になります。
+この記事はSECCON Beginners 2026 東京で担当したワークショップ「アセンブリと解析をそれとなく理解する巻」の補助資料兼、後日ひとりでも復習できるようにまとめたものです。
+環境はブラウザだけで完結するGoogle Cloud Shellを使っていきます。
+(手元にLinuxがある人はそのままでもOKです)
+!
+この記事のゴールは「アセンブリをざっくり読める」「GDB+Pwndbgで解析ができる」の2つです。
+完璧を目指さず「なんとなくこんなんなん... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/juck28/articles/091c07869aba28</guid>
+      <pubDate>Sat, 01 Aug 2026 13:34:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>オントロジーは「先に決める」か「データから起こす」か</title>
+      <link>https://zenn.dev/knowledge_graph/articles/ontology-define-first-vs-induce</link>
+      <description>オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた が話題になっています。オントロジーをテーブルや文書から起こして提案を人が確認して使うという話です。 現場では部署ごとに「売上」の意味が違いエージェントが誤った数字をすぐ拡散します。原因の一つはオントロジーの... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledge_graph/articles/ontology-define-first-vs-induce</guid>
+      <pubDate>Mon, 03 Aug 2026 16:07:24 +0000</pubDate>
     </item>
     <item>
       <title>Claude CodeのSkillsは「手順書」だったので、/article コマンドを作ってみた</title>
@@ -32,47 +51,25 @@ Claude Codeの「スキル」という言葉を見たとき、最初はプラグ
       <pubDate>Sun, 02 Aug 2026 03:15:05 +0000</pubDate>
     </item>
     <item>
-      <title>Apple、大量購入品の返品に「15％の手数料」　販売条件に明記　“転売対策”か</title>
-      <link>https://www.itmedia.co.jp/news/article/2608/03/2000000359/</link>
-      <description>米Appleの日本向けApple Storeの販売条件に、大量購入した製品を返品する際、商品1点につき「15％の返品手数料」を課す場合があるとの条項が追加されていることが、8月3日までに分かった。Appleが「不正な目的による返品の恐れがある」と判断した場合に適用するとしている。 「大量購入商品の返品」の条項には、一般的な... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/03/2000000359/</guid>
-      <pubDate>Mon, 03 Aug 2026 07:57:13 +0000</pubDate>
+      <title>マルチエージェントAIのトークン代が雪だるま式に膨らむ問題、4つの戦略で抑える — キャッシュと軽量モデルの使い分けが鍵</title>
+      <link>https://techfeed.io/entries/6a7121364ddb25dd629babe8?from=rss</link>
+      <description>8月3日、Iván Palomares Carrascosaが「A Guide to Saving Token Usage with Multi-Agent AI」と題した記事を公開した。注目すべきは、意味的に類似したクエリを検出してLLMへのリクエストそのものをゼロにするセマンティックキャッシングだ。マルチエージェントAIのコスト肥大化に対し、アーキテクチャを大幅に変えることなく効く4つの実践的戦略を紹介している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a7121364ddb25dd629babe8?from=rss</guid>
+      <pubDate>Mon, 03 Aug 2026 23:16:06 +0000</pubDate>
     </item>
     <item>
-      <title>AIのアウトプットをそのまま出すだけの人にならないために</title>
-      <link>https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-自分はエンジニアとして4年です。いまは Claude Code と Codex を毎日並列で走らせて仕事をしています。
-この記事は、仕事のかなりの部分をエージェントに渡してみて痛感した「それでも人間に残る仕事は何か」を、自分の失敗込みで整理したポエムです。あなた... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 01 Aug 2026 06:25:03 +0000</pubDate>
+      <title>あなたはどんな「インターネット老人」だったのか。生年を入れると詳しくなってウンチクが語れる年表アプリを作った（CloseBox） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/08/04/5360.html</link>
+      <description>コンピュータの歴史については、清水亮さんが詳しく、さまざまなところで豊富な知識・雑学を聞いては「ほー」と感心しています。その一方で、長く生きてきたおかげか古い出来事や技術はリアルタイムで経験していて、「それ知ってるけど、いつの頃だっけ」と老人ムーブをしがちです。 そして、コンピュータ技術に影響を与... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.techno-edge.net/article/2026/08/04/5360.html</guid>
+      <pubDate>Tue, 04 Aug 2026 02:43:25 +0000</pubDate>
     </item>
     <item>
-      <title>Reddit CEOがGoogle AI検索を公開批判 —「青いリンクは価値を生んだが、AI要約はまだwin-winになっていない」</title>
-      <link>https://techfeed.io/entries/6a6fcc194ddb25dd629acf35?from=rss</link>
-      <description>8月2日、Inside AI Newsが「Reddit CEO Slams Google AI Overviews for Failing Web Ecosystem」と題した記事を公開した。RedditのCEO Steve Huffman がGoogleのAI Overviewsを公開批判し、その余波でRedditの株価が20%超下落した件を報じている。Googleとの大型ライセンス契約の見直し検討も浮上しており、プラットフォームと検索エンジンの間に走る亀裂が、業界全体の問題として鮮明になりつつある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a6fcc194ddb25dd629acf35?from=rss</guid>
-      <pubDate>Sun, 02 Aug 2026 23:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>ソフトウェアエンジニアとして視野を広げるためのブックガイド</title>
-      <link>https://zenn.dev/shotaro_tsuji/articles/091517e89ab17d</link>
-      <description>はじめに
-私が読んできたソフトウェアエンジニアリングに関する書籍を紹介しようと思います。全てを紹介しているとキリがないので、プログラミング、データベース、アーキテクチャ、プロダクト、組織とマネジメントという括りで、それぞれ何冊か選びました。コードを書くところから始めて、徐々にシステム、プロダクト、組織へと視野を広げていく構成にしています。体系的に学ぶというよりはセンスを養うのに役立ちそうな書籍を選んでいます。プログラミングにある程度慣れている人向けです。
-
- プログラミング
-
- 達人プログラマー 熟達に向けたあなたの旅（第2版）
-https://tatsu-zine.com/book... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shotaro_tsuji/articles/091517e89ab17d</guid>
-      <pubDate>Tue, 28 Jul 2026 11:03:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>碇シンジ役・緒方恵美がAI音声クローニングに「胸が張り裂ける」— 「コンテンツ大国」日本に法整備を訴える</title>
-      <link>https://techfeed.io/entries/6a6fcbff4ddb25dd629acf1f?from=rss</link>
-      <description>8月2日、Ted Litchfieldが「The voice of Shinji in Evangelion says AI voice cloning is 'heartbreaking,' calls for Japanese government to intervene」と題した記事を公開した。『新世紀エヴァンゲリオン』の碇シンジ役で知られる声優・緒方恵美が、TikTokなどのプラットフォームに蔓延するAI音声クローニングを「heartbreaking（胸が張り裂ける）」と批判し、「コンテンツ大国を自称しながらなぜルールを作れないのか」と日本政府の対応の遅さに苦言を呈した。声優個人の訴えにとどまらず、日本の法制度の構造的な空白を問う発言として注目を集めている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a6fcbff4ddb25dd629acf1f?from=rss</guid>
-      <pubDate>Sun, 02 Aug 2026 23:00:15 +0000</pubDate>
+      <title>オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた</title>
+      <link>https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy</link>
+      <description>はじめに こんにちは、AWS Japan でソリューションアーキテクトをしているいなりくです。 AI エージェントを業務に入れようとすると、必ず同じ壁にぶつかります。データはあるのに、業務の意味が渡っていないという壁です。 「売上」は total_amount の合計なのか、送料込みなのか、キャンセル分を引くのか 「この注文は... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy</guid>
+      <pubDate>Mon, 03 Aug 2026 09:58:20 +0000</pubDate>
     </item>
     <item>
       <title>ローカルタスク管理アプリを設計してみた</title>
@@ -92,16 +89,6 @@ https://tatsu-zine.com/book... (source: Zennのトレンド)</description>
       <pubDate>Fri, 31 Jul 2026 23:36:46 +0000</pubDate>
     </item>
     <item>
-      <title>3 行の同期バッチが、壊れるたびに堅牢になっていく話</title>
-      <link>https://zenn.dev/neoai/articles/878ed0b400f45d</link>
-      <description>はじめに
-こんにちは。株式会社neoAIでエンジニアをしている相原です。
-データ連携の機能を作っていてさんざん苦労したので、学びをメモとして共有します。ユーザーの許可を得て、外部サービスからデータを API で取り込む。加工して、自社サービスに保存する。カレンダー連携や会計ソフトの明細取り込みのような、よくあるインポート機能です。この同期処理、「データ量が増えたらこの実装で持つのだろうか」と不安になったことはないでしょうか。
-結論から言うと、この手の同期処理は、データ量が増えるにつれてだいたい決まった順番で壊れていきます。メモリ、実行時間、重いデータの偏り、壊れたデータの道連れ、そし... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/neoai/articles/878ed0b400f45d</guid>
-      <pubDate>Fri, 31 Jul 2026 09:10:01 +0000</pubDate>
-    </item>
-    <item>
       <title>AI時代に感じた危機感と、エンジニアがこれから考えるべきこと</title>
       <link>https://zenn.dev/nabewata/articles/8cef1bd4cbae3f</link>
       <description>最近感じている危機感
@@ -113,6 +100,13 @@ https://tatsu-zine.com/book... (source: Zennのトレンド)</description>
 PoCの厄介なところは、見た目が完成していることです。動くものが目の前にある以上... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/nabewata/articles/8cef1bd4cbae3f</guid>
       <pubDate>Tue, 28 Jul 2026 12:24:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAIとAnthropicがダブリンに続々集結 — EU AI法の「単一窓口制度」がアイルランドをAI規制の実質的な首都にする</title>
+      <link>https://techfeed.io/entries/6a7121204ddb25dd629babd8?from=rss</link>
+      <description>8月4日、Techstrong.aiが「Dublin Emerges as Key AI Hub as Tougher EU Regulations Take Effect」と題した記事を公開した。EU AI法の新フェーズが2026年8月1日に発効したことを受け、OpenAIとAnthropicが相次いでダブリンへの大規模拠点設置を決定した。その背景には、EU加盟国との交渉を一本化できる「単一監督機関制度」がある。アイルランドへの拠点設置は「戦略的な選択肢」ではなく、フロンティアAI企業にとって「業務上の必要条件」になりつつある、というのが記事の核心的なメッセージだ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a7121204ddb25dd629babd8?from=rss</guid>
+      <pubDate>Mon, 03 Aug 2026 23:15:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
