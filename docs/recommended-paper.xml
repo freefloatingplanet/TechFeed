@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Aug 2026 08:43:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 08:41:10 +0000</lastBuildDate>
     <item>
-      <title>ロボット工学における基礎モデル：方法、モデル、データセット、課題、そして今後の研究方向性に関する包括的なレビュー</title>
-      <link>https://arxiv.org/abs/2604.15395v2</link>
-      <description>近年、ロボット工学の分野は、固定された単一タスクのドメイン固有のソリューションから、複雑でオープンワールドかつ動的な環境で動作可能な、適応型で多機能な汎用エージェントへと、パラダイムシフトを起こしています。この目覚ましい進歩は、主にファウンデーションモデル（FM）の出現によって推進されています。FMとは、大規模で異種混在のデータセットで学習された大規模なニューラルネットワークアーキテクチャであり、マルチモーダルな理解と推論、長期的な計画、および異種具現化において前例のない能力を提供します。本研究では、このような背景のもと、ロボット工学におけるFMの研究状況を包括的かつ体系的に詳細にレビューします。特に、この分野の進化は、自然言語処理（NLP）およびコンピュータビジョン（CV）モデルの初期導入から、マルチ感覚一般化と実世界への展開という現在の最先端に至るまで、5つの異なる研究段階を通して概説されます。続いて、文献を非常に詳細に分類的に調査し、以下の主要な側面を検討します。a) LLM、VFM、VLM、VLAを含む、採用されているFMタイプ、b) 基盤となるニューラルネットワークアーキテク (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.15395v2</guid>
-      <pubDate>Thu, 16 Apr 2026 09:32:36 +0000</pubDate>
+      <title>アルゼンチン電波天文学研究所における初の高速電波バースト探索キャンペーン</title>
+      <link>https://arxiv.org/abs/2608.03914v1</link>
+      <description>高速電波バースト（FRB）は、銀河系外起源のミリ秒単位の強烈な電波過渡現象であり、その物理的性質は活発に研究されており、銀河間物質のプローブとしても機能しています。本稿では、2024年12月から2026年3月にかけてアルゼンチン電波天文学研究所（IAR）で実施された、南天の近傍銀河超銀河団を対象とした初のFRB探索キャンペーンについて報告します。IARの2つの30mアンテナのうちの1つを使用して、へびつかい座、シャプレー、およびちょうこくしつ座/フェニックス超銀河団領域のフィールドを観測しました。観測には、1400MHzを中心とする400MHzの帯域幅と41～82μsの時間分解能を持つROACHベースのバックエンドを使用し、合計212時間の観測を行いました。データは分散尺度範囲 $100 \leq \mathrm{DM} \leq 500$ で PRESTO を使用して分散した単一パルスを探索し、候補は FETCH 機械学習分類器で分類されました。パイプラインは、既知の FRB を含むアーカイブ パークス データと IAR 観測に注入された合成バーストで検証されました。1 つの FRB (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.03914v1</guid>
+      <pubDate>Tue, 04 Aug 2026 16:41:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

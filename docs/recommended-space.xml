@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 08:43:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 08:41:07 +0000</lastBuildDate>
+    <item>
+      <title>JAXA探査機「はやぶさ2」フライバイ時に小惑星トリフネ表面から400mまで接近していた</title>
+      <link>https://sorae.info/space/20260731-hayabusa2-torifune.html</link>
+      <description>JAXA（宇宙航空研究開発機構）は2026年7月30日、小惑星探査機「はやぶさ2」が7月5日に行った小惑星「トリフネ（Torifune）」のフライバイ（接近通過）の成果について記者説明会を開催し、あわせて2件のプレスリリ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260731-hayabusa2-torifune.html</guid>
+      <pubDate>Fri, 31 Jul 2026 02:18:59 +0000</pubDate>
+    </item>
     <item>
       <title>NASA施設で実施されたスーパーヘビーの風洞試験　改良版機体の空力データを取得</title>
       <link>https://sorae.info/space/20260803-nasa-ames-super-heavy.html</link>
@@ -21,13 +28,6 @@
       <description>多くの銀河の中心には、質量が太陽の100万倍を超えるような超大質量ブラックホール（超巨大ブラックホール）が存在するとされています。これらは周囲の物質を吸い込む一方で、その一部を高速のガスとして噴き出す「風」を放つことが知… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260803-black-hole-wind.html</guid>
       <pubDate>Mon, 03 Aug 2026 12:41:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>ベテルギウス伴星の直接撮像に成功か　超大型望遠鏡VLTを使用した新たな研究成果</title>
-      <link>https://sorae.info/astronomy/20260729-betelgeuse-companion-candidate.html</link>
-      <description>オリオン座の一等星として有名な赤色超巨星「ベテルギウス（Betelgeuse、α Orionis）」。ベテルギウスを巡っては超新星爆発の時期に関する予測が注目を集めてきましたが、近年では「未発見の伴星が存在する可能性」が… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260729-betelgeuse-companion-candidate.html</guid>
-      <pubDate>Wed, 29 Jul 2026 13:44:25 +0000</pubDate>
     </item>
     <item>
       <title>「アイデアの実現スピードを上げるために人手は足りなくなる」ジェフ・べゾス氏が描く、宇宙と地球の未来の姿とインフラ構築の現在地【VIVATECH 2026現地レポート】</title>
@@ -65,11 +65,11 @@
       <pubDate>Sun, 02 Aug 2026 12:00:30 +0000</pubDate>
     </item>
     <item>
-      <title>「テンポの良い地上局展開と実用できる衛星コンステレーションの構築を」インフォステラとSSC Spaceが提携し、セーレンの小型衛星「FUSION-1」向けに地上局サービスを提供【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/46533/</link>
-      <description>インフォステラ、SSC Space（スウェーデン宇宙公社）、セーレンの3社は、セーレンの小型衛星ミッション「FUSION-1」向けに衛星通信サービスの提供を開始したことを発表しました。記者会見で語られた両社の提携に関する期待と今後の展望を紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46533/</guid>
-      <pubDate>Mon, 13 Jul 2026 23:00:33 +0000</pubDate>
+      <title>令和8年熊本地震で衛星データを活用。JAXAや企業による緊急観測・被害推定・復旧支援【随時更新】</title>
+      <link>https://sorabatake.jp/46713/</link>
+      <description>「令和8年熊本地震」を受け、JAXAや宇宙関連企業各社が、衛星による被災地域の緊急観測やデータの提供、復旧・復興を支えるサービスの無償提供などに取り組んでいます。宇宙技術が災害対応にどのように活かされているのか、各機関や企業の動きをまとめました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46713/</guid>
+      <pubDate>Wed, 05 Aug 2026 06:15:26 +0000</pubDate>
     </item>
     <item>
       <title>「宇宙産業にはまだ隙間が多い」「みんなが逡巡している今がチャンス」 宇宙を日常へ。テレビ局とクリエイターが見出した宇宙ビジネスの可能性</title>
