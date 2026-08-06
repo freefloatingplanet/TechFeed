@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Aug 2026 08:41:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 08:42:16 +0000</lastBuildDate>
     <item>
-      <title>アルゼンチン電波天文学研究所における初の高速電波バースト探索キャンペーン</title>
-      <link>https://arxiv.org/abs/2608.03914v1</link>
-      <description>高速電波バースト（FRB）は、銀河系外起源のミリ秒単位の強烈な電波過渡現象であり、その物理的性質は活発に研究されており、銀河間物質のプローブとしても機能しています。本稿では、2024年12月から2026年3月にかけてアルゼンチン電波天文学研究所（IAR）で実施された、南天の近傍銀河超銀河団を対象とした初のFRB探索キャンペーンについて報告します。IARの2つの30mアンテナのうちの1つを使用して、へびつかい座、シャプレー、およびちょうこくしつ座/フェニックス超銀河団領域のフィールドを観測しました。観測には、1400MHzを中心とする400MHzの帯域幅と41～82μsの時間分解能を持つROACHベースのバックエンドを使用し、合計212時間の観測を行いました。データは分散尺度範囲 $100 \leq \mathrm{DM} \leq 500$ で PRESTO を使用して分散した単一パルスを探索し、候補は FETCH 機械学習分類器で分類されました。パイプラインは、既知の FRB を含むアーカイブ パークス データと IAR 観測に注入された合成バーストで検証されました。1 つの FRB (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.03914v1</guid>
-      <pubDate>Tue, 04 Aug 2026 16:41:43 +0000</pubDate>
+      <title>CCAT：Prime-Cam 850GHzモジュール用初の科学グレードMKIDアレイの特性評価</title>
+      <link>https://arxiv.org/abs/2608.05072v1</link>
+      <description>フレッド・ヤング・サブミリ波望遠鏡（FYST）は、CCAT共同研究によって開発された6メートルのクロスド・ドラゴネ望遠鏡です。チリのアタカマ高原にあるセロ・チャイナントール山の標高5600mに位置するFYSTは、サブミリ波観測において優れた大気透過率と広い視野を提供することを目指しています。Prime-Camは、最大7つの独立した機器モジュールを収容するように設計されたFYSTの第一世代機器です。これらのうち、850GHzモジュールは最も高い周波数帯域を表し、超高感度広帯域偏光測定とイメージングに最適化されています。このモジュールは、3つのアレイにわたって約38,000個の偏光感応型集中定数チタン窒化物（TiN）マイクロ波運動インダクタンス検出器（MKID）を配置するように設計されています。したがって、850GHzモジュールは、現在までに単一の機器モジュールに搭載されたサブミリ波MKIDの数としては最多となります。これらの検出器は、RFSoC読み出しシステムを使用して実現される多重化を最大化するために、斬新な2オクターブ設計を採用しています。本稿では、初の850GHz科学グレードアレイ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.05072v1</guid>
+      <pubDate>Wed, 05 Aug 2026 17:16:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 08:41:04 +0000</lastBuildDate>
-    <item>
-      <title>ワールド、AIがデザインした服完売　美意識を言語化「センスない」覆す - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUC195F30Z10C26A5000000/</link>
-      <description>アパレル大手のワールドが異例の新ブランド「OO（オーオー）」を立ち上げた。人間のセンスの産物である服飾デザインに生成AI（人工知能）を全面的に起用し、完売する商品も生んだ。当初は「センスゼロ」と酷評されたAIデザイナーを、いかに変身させたのか。ビジネスへのAI活用には様々なハードルがあります。企業が試行... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC195F30Z10C26A5000000/</guid>
-      <pubDate>Tue, 04 Aug 2026 20:43:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Aug 2026 08:42:12 +0000</lastBuildDate>
     <item>
       <title>SOCKSプロキシを悪用した攻撃の観測と、AIを活用した分析</title>
       <link>https://qiita.com/mj_yamamoto/items/7426c8b55ab3702dcdcd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -47,20 +40,54 @@ TamaT という、顧客提案から要件定義・設計・開発まで一気�
       <pubDate>Sun, 02 Aug 2026 07:13:50 +0000</pubDate>
     </item>
     <item>
-      <title>Herdr で止まらず、精度の高い開発を進める工夫 ─ intent-cli で意図をもとに開発する</title>
-      <link>https://zenn.dev/jtechjapan_pub/articles/intent-cli-herdr-orchestration</link>
-      <description>株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。
-AIエージェントを4体、止まりを見つけて再開させながら回して開発を進める、ということを日常的にやっています。設計・オーケストレーション・実装・レビューの4スレッドが、GitHub の Issue と PR を通じて協調する仕組みです。この土台に Intent CLI（プロジェクト名 intent-system）という OSS を使っています。
-これまでに、考え方のコンセプト編、手順の実践編、そしてLoop Engineering との接続を書きました。今回書くのは、その運用を止まりにくくするために、何を工夫し、どこでつ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/jtechjapan_pub/articles/intent-cli-herdr-orchestration</guid>
-      <pubDate>Mon, 03 Aug 2026 05:21:53 +0000</pubDate>
+      <title>バックエンドエンジニアがQAを1年やって思ったこと――役割の前に、人がいる</title>
+      <link>https://zenn.dev/knowledgework/articles/2f100e296b60d4</link>
+      <description>子どもの頃、「ロール」なんてなかった
+子どもの頃を思い出すと、役割なんてものはなかった。虫を捕まえたり、本を読んだり、工作したり、気ままにやりたいと感じることをやっていた。誰も「お前は虫担当だから工作はするな」とは言わなかった。
+大人になると、それが変わる。バックエンドエンジニア、QAエンジニア、SRE、プロダクトマネージャー。名刺に刷れる肩書きがあって、それぞれに求められるスキルセットがあって、キャリアの「正解」がある。一つの役割をまず完璧にこなせるようになって、初めて次に進める。そういう空気がある。
+分かる。市場価値を考えれば、「○○のプロです」と言えた方が強い。それは否定しない... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/2f100e296b60d4</guid>
+      <pubDate>Tue, 04 Aug 2026 02:48:55 +0000</pubDate>
     </item>
     <item>
-      <title>「AI導入前の仕事に戻りたい」——3人に2人が回答、生産性向上の約束は現場で裏切られているのか</title>
-      <link>https://techfeed.io/entries/6a7272de4ddb25dd629c8e82?from=rss</link>
-      <description>8月4日、Morgan Taylorが「Workers say AI promised a productivity boost, but left them missing pre-AI office life」と題した記事を公開した。プロフェッショナルサービス企業Adaptavistによる調査をもとに、AIの導入が職場の生産性向上どころか業務の単調化や疲弊感をもたらしている実態を報告している。「AIが導入されれば、より価値の高い仕事に集中できる」——この数年のAIブームを支えてきた最大の約束が、現場の声によって真っ向から否定されている。調査の概要：Adaptavistとは本調査を実施したAdaptatvistは、AtlassianツールやDevOpsソリューションを中心に企業のデジタル変革を支援するプロフェッショナルサービス企業だ。同社は定期的に職場環境や技術導入に関する調査レポートを公表しており、今回の調査はオフィスワーカーを対象に実施された。記事では調査対象国やサンプル数の詳細は明示されていないが、結果として導き出された数字の一貫性は、AI導入の現場実態を示す一次資料として参照 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a7272de4ddb25dd629c8e82?from=rss</guid>
-      <pubDate>Tue, 04 Aug 2026 23:16:46 +0000</pubDate>
+      <title>仕様書から保証台帳へ、GDD（保証駆動開発）のすすめ</title>
+      <link>https://zenn.dev/yktsnet/articles/202608-guarantee-driven-development</link>
+      <description>Claude Code に実装を投げるようになって、バグ修正も機能追加も、以前なら手を出さずに置いていた量までこなせるようになりました。同時に増えたのが手戻りです。直したところが次の変更で戻る、関係ないと思っていた場所が壊れる。作れる量が増えたぶん、壊す量も増えました。
+守ってくれるのはテストです。ただ、そのテストも Claude Code が書いています。走らせれば緑になり、diff をざっと見て通し、本数だけが増えていきます。そして次に手を入れるとき、いま何が守られているのかを知る方法が tests/ を上から読むことしかありません。
+かといって、変更のたびに「壊していないか全部確認... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yktsnet/articles/202608-guarantee-driven-development</guid>
+      <pubDate>Wed, 05 Aug 2026 07:42:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>PDFや図表をテキスト抽出せず「画像のまま」検索するRAGパイプライン — 表・グラフの情報損失をアーキテクチャレベルで回避する「PixelRAG」</title>
+      <link>https://techfeed.io/entries/6a73c3e04ddb25dd629d50c5?from=rss</link>
+      <description>8月4日、MarkTechPostが「Pixel-Native RAG: A Practical Guide to Visual Document Indexing」と題した記事を公開した。この記事では、テキスト抽出に頼らず、WebページやPDFをそのまま画像としてインデックス化するRAGパイプラインを一から構築する方法について詳しく紹介されている。なお、本紹介記事中で用いている「PixelRAG」という呼称は元記事には登場しない名称だが、パイプラインの特徴を端的に示すものとして使用している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a73c3e04ddb25dd629d50c5?from=rss</guid>
+      <pubDate>Wed, 05 Aug 2026 23:14:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>脆弱性を作り込まないために、Claude公式「Security Guidance Plugin」を導入した話</title>
+      <link>https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro</link>
+      <description>AI にコードを書かせるようになって、実装のスピードが上がりました。
+一方で次なる課題も山のようにありますよね。
+今日はその中から「セキュリティ対策」をテーマに選びました。
+**実装コードレベルの脆弱性をどのように予防するか？**という話をしたいと思います。
+結論だけ先に言うと、「とりあえずSecurity Guidance Pluginを入れましょう」です。
+
+ レビューが追いつかなくなっている
+昨今の状況を整理すると、どこの開発現場も似たような状態ではないでしょうか？
+
+PRの数が増えるが、レビューする側の人数は変わらない
+追いつかない分はAIレビューに任せる、レビューの質に不安が残... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro</guid>
+      <pubDate>Wed, 05 Aug 2026 09:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AMDがデータセンター売上を1年で赤字から2,100億円超の黒字に転換 — Nvidiaのシェアを奪うのではなく、急拡大する市場ごと飲み込む戦略とは</title>
+      <link>https://techfeed.io/entries/6a73c3c14ddb25dd629d50a0?from=rss</link>
+      <description>8月5日、Next Platformが「AMD Catches The Agentic AI Wave And Will Ride It Up Masterfully」と題した記事を公開した。この記事では、AMDが2026年第2四半期に過去最高収益を達成し、Nvidiaとの競争において独自のポジションを構築しつつある現状について詳しく紹介されている。注目すべきキーワードは「エージェンティックAI（Agentic AI）」だ。AIが自律的にタスクを連鎖実行するこの手法が急速に普及したことで、データセンター向けの高速CPUおよびGPU需要が一気に押し上げられており、AMDはその波を巧みに捉えつつある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a73c3c14ddb25dd629d50a0?from=rss</guid>
+      <pubDate>Wed, 05 Aug 2026 23:14:09 +0000</pubDate>
     </item>
     <item>
       <title>オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた</title>
@@ -76,21 +103,6 @@ AI エージェントを業務に入れようとすると、必ず同じ壁に�
 これらは人間の頭と社内ドキュメントの中にあり、information_schema には存在しません。LLM がい... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy</guid>
       <pubDate>Mon, 03 Aug 2026 05:26:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>生成AIの品質保証をどう設計する？ ― 「全部QAで見る」をやめて、機械とAIと人に分けた話</title>
-      <link>https://zenn.dev/wn_engineering/articles/95911ca28a7b1f</link>
-      <description>はじめに
-初めまして、ウェルスナビでQAを担当しています大久保です。
-ハルシネーションまみれのAIから数年、最近はAIの進化の速度に驚かされる日々を送っています。
-本記事では、AI事業者ガイドラインを起点に生成AIを組み込んだ機能のテスト観点を作り、
-PoCで直面した課題をもとに、品質保証のプロセスを組み直した過程を紹介します。
-
-生成AIの品質保証と言われた時に、QAではどんなテストをすれば良いでしょうか。
-私たちは最初、PoCで考えられるAIリスクを洗い出し、それをすべてQAで確認しました。
-その中で、確認工数だけでなく判定基準やリリース判断との結びつきにも課題が見えてきました。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/wn_engineering/articles/95911ca28a7b1f</guid>
-      <pubDate>Tue, 04 Aug 2026 03:00:06 +0000</pubDate>
     </item>
     <item>
       <title>AI家臣団を解散して、影武者を一人だけ残した　兵法書と訓練記録</title>
@@ -112,26 +124,6 @@ PoCで直面した課題をもとに、品質保証のプロセスを組み直�
 AIネイティブな会社の正体だ」と言い切った版が存在しましたが、監査に三度撃たれて下ろ (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/shio_shoppaize/books/kagemusha-book</guid>
       <pubDate>Mon, 03 Aug 2026 20:34:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>育てて学ぶ はじめての自作プログラミング言語</title>
-      <link>https://zenn.dev/kb84tkhr/books/learning-by-growing-language</link>
-      <description>※執筆途中のドラフト状態ですが第 1 部まで書いたので公開しています。
-※そのため、今後修正が入る可能性があります。ご了承ください。
-
-「Python や Ruby みたいなプログラミング言語って、中はどう動いているんだろう？」
-「言語を自作するのって面白そうだけど、難しいんだろうな」
-
-そんな風に思っている方に読んでみていただきたい「プログラミング言語の作り方」超入門です。
-
-本書の狙いは、小さい小さい（プログラミング言語とは思えないような）言語からスタートし、少しずつ機能を追加しては動かす、を繰り返しているうちにいつのまにかプログラミング言語が作れるようになっている、というものです。
-
-本書には以下の三つの特徴があります。
-
-1. Python の基礎知識のみで始められる
-ソースコードは純粋に Python のみで書かれており、Python の知識ですべて理解できます。便利なライブラリやツールは用いずに自分ですべて書いていくため、しくみを自ら体験しながら学べます。プログラミング言語処理系にはいろいろなプログラミングのエッセンスが詰まっていますし、処理系の動作を知ることにより言語自体 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kb84tkhr/books/learning-by-growing-language</guid>
-      <pubDate>Sun, 02 Aug 2026 06:22:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
