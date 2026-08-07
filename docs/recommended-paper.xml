@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Aug 2026 08:42:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:21:13 +0000</lastBuildDate>
     <item>
-      <title>CCAT：Prime-Cam 850GHzモジュール用初の科学グレードMKIDアレイの特性評価</title>
-      <link>https://arxiv.org/abs/2608.05072v1</link>
-      <description>フレッド・ヤング・サブミリ波望遠鏡（FYST）は、CCAT共同研究によって開発された6メートルのクロスド・ドラゴネ望遠鏡です。チリのアタカマ高原にあるセロ・チャイナントール山の標高5600mに位置するFYSTは、サブミリ波観測において優れた大気透過率と広い視野を提供することを目指しています。Prime-Camは、最大7つの独立した機器モジュールを収容するように設計されたFYSTの第一世代機器です。これらのうち、850GHzモジュールは最も高い周波数帯域を表し、超高感度広帯域偏光測定とイメージングに最適化されています。このモジュールは、3つのアレイにわたって約38,000個の偏光感応型集中定数チタン窒化物（TiN）マイクロ波運動インダクタンス検出器（MKID）を配置するように設計されています。したがって、850GHzモジュールは、現在までに単一の機器モジュールに搭載されたサブミリ波MKIDの数としては最多となります。これらの検出器は、RFSoC読み出しシステムを使用して実現される多重化を最大化するために、斬新な2オクターブ設計を採用しています。本稿では、初の850GHz科学グレードアレイ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.05072v1</guid>
-      <pubDate>Wed, 05 Aug 2026 17:16:33 +0000</pubDate>
+      <title>VARMAモデルのスケーラブルな推定</title>
+      <link>https://arxiv.org/abs/2608.06340v1</link>
+      <description>ベクトル自己回帰移動平均（VARMA）モデルは、中程度の次元を超えると実用的ではないと長らく考えられてきました。尤度は非凸であり、パラメータ化は等価性までしか識別できず、評価のたびに全系列を走査する必要があるためです。しかし、その移動平均項は、純粋な自己回帰では多くのラグでしか対応できないものを、少数のパラメータで捉えています。本稿では、この計算上の障壁を取り除く推定フレームワークを紹介します。各最適化反復は、系列の長さ $T$ に依存しません。このフレームワークは、定常性と可逆性を保証する部分自己相関再パラメータ化、対角要素と非対角要素に別々のスケールを持つ再パラメータ化係数に対するガウス事前分布、およびパーセバル（フーリエ）恒等式によって切り捨て長に対してほぼ線形のコストで評価される固定サイズの十分統計量のみにデータに依存する損失を組み合わせています。これにより、2 つの点推定値が得られます。1 つは正則化された最小二乗法によるフィッティング、もう 1 つは共分散周辺化された最大事後確率推定値です。どちらも固定次元でほぼパラメトリックな速度で真のプロセスの無限自己回帰表現を復元する (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.06340v1</guid>
+      <pubDate>Thu, 06 Aug 2026 17:49:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

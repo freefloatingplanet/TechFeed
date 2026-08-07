@@ -7,47 +7,36 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 08:42:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:21:08 +0000</lastBuildDate>
     <item>
-      <title>SOCKSプロキシを悪用した攻撃の観測と、AIを活用した分析</title>
-      <link>https://qiita.com/mj_yamamoto/items/7426c8b55ab3702dcdcd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-三菱電機の山本です。
-三菱電機　情報技術総合研究所では、製品開発時のセキュリティ対策にフィードバックする目的で、複数種類のハニーポットを設置・運用しています。ハニーポットとは、あえて外部からアクセスできる状態にしておき、そこに来る不審な通信を観測するための「おと... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/mj_yamamoto/items/7426c8b55ab3702dcdcd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 05 Aug 2026 02:41:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Web を iOS に乗せると仕様書に載っていない WebKit にボコボコにされる</title>
-      <link>https://zenn.dev/tamat_llc/articles/ios-webkit-invisible-specs</link>
-      <description>こんにちは！webエンジニア目指して10年のTakehiroTです！
-TamaT という、顧客提案から要件定義・設計・開発まで一気通貫で担う少数精鋭の開発会社でやってます。
-前回まではデスクトップの話でした。Tauri + WKWebView でボコボコにされた話を書いて、その次に PTY か ACP かを書いて。
-で、今回はモバイルの WebKit にボコられる話なんだっぴ！同じ WebKit なのに殴られ方が全然違うんよ・・
-あるモバイル向けの Web アプリ（Next.js + React）をチームで開発しています。PC ブラウザでは何の問題もなく動くのに、iOS の実機に乗せた瞬... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tamat_llc/articles/ios-webkit-invisible-specs</guid>
-      <pubDate>Mon, 03 Aug 2026 10:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>ある日エンジニアが突然無職になってしまったら？ — 離職インシデント対応ランブック</title>
-      <link>https://zenn.dev/tsukuboshi/articles/engineer-unemployment-runbook</link>
-      <description>こんにちは、つくぼし(tsukuboshi0755)です！
-私は以前勤めていた会社を急遽退職せざるを得ない状況になってしまい、しばらく無職期間を過ごした事があります。
-その際に「退職後ってこんなに手続き多いの！？」と驚いた事がたくさんありました。知っていれば避けられた出費や、期限を過ぎると取り返しがつかない手続きもあり、事前に知っておく事の大切さを痛感しました。
-本記事は同じように突然無職になった方が同じ轍を踏まないために、私の体験から離職インシデント対応ランブックとして作りました。
-私の失敗談に基づくやっておくべき事リストが誰かのためになるととても嬉しいので、ぜひ見て頂けるとありがたい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tsukuboshi/articles/engineer-unemployment-runbook</guid>
-      <pubDate>Sun, 02 Aug 2026 07:13:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>バックエンドエンジニアがQAを1年やって思ったこと――役割の前に、人がいる</title>
-      <link>https://zenn.dev/knowledgework/articles/2f100e296b60d4</link>
-      <description>子どもの頃、「ロール」なんてなかった
-子どもの頃を思い出すと、役割なんてものはなかった。虫を捕まえたり、本を読んだり、工作したり、気ままにやりたいと感じることをやっていた。誰も「お前は虫担当だから工作はするな」とは言わなかった。
-大人になると、それが変わる。バックエンドエンジニア、QAエンジニア、SRE、プロダクトマネージャー。名刺に刷れる肩書きがあって、それぞれに求められるスキルセットがあって、キャリアの「正解」がある。一つの役割をまず完璧にこなせるようになって、初めて次に進める。そういう空気がある。
-分かる。市場価値を考えれば、「○○のプロです」と言えた方が強い。それは否定しない... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/2f100e296b60d4</guid>
-      <pubDate>Tue, 04 Aug 2026 02:48:55 +0000</pubDate>
+      <title>DESIGN.md を置くと、どこまで「いい感じ」になるのか — 74件を測って確かめた</title>
+      <link>https://zenn.dev/ait/articles/google-design-md-measured</link>
+      <description>AI に UI を作らせると、毎回ちょっとずつ違うものが出てきます。
+「モダンで、クリーンで、信頼感のある感じで」と頼む。悪くないものが出る。翌日また頼む。また悪くないものが出る。でも昨日のとは違う。
+Google Labs が公開した DESIGN.md は、この「毎回違う」を止めるためのファイル形式です。デザインの意図を1ファイルに書いて、AI に毎回読ませます。
+実際に導入して、どこまで効くのかを測りました。結論から書きます。
+
+ この記事の内容
+
+
+
+
+
+
+
+
+
+効くところと効かないところ
+先に結論
+
+
+そもそも何のファイルなのか
+出自と、Google 自身の説明
+
+
+実物を74... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ait/articles/google-design-md-measured</guid>
+      <pubDate>Wed, 05 Aug 2026 18:49:06 +0000</pubDate>
     </item>
     <item>
       <title>仕様書から保証台帳へ、GDD（保証駆動開発）のすすめ</title>
@@ -59,11 +48,11 @@ TamaT という、顧客提案から要件定義・設計・開発まで一気�
       <pubDate>Wed, 05 Aug 2026 07:42:28 +0000</pubDate>
     </item>
     <item>
-      <title>PDFや図表をテキスト抽出せず「画像のまま」検索するRAGパイプライン — 表・グラフの情報損失をアーキテクチャレベルで回避する「PixelRAG」</title>
-      <link>https://techfeed.io/entries/6a73c3e04ddb25dd629d50c5?from=rss</link>
-      <description>8月4日、MarkTechPostが「Pixel-Native RAG: A Practical Guide to Visual Document Indexing」と題した記事を公開した。この記事では、テキスト抽出に頼らず、WebページやPDFをそのまま画像としてインデックス化するRAGパイプラインを一から構築する方法について詳しく紹介されている。なお、本紹介記事中で用いている「PixelRAG」という呼称は元記事には登場しない名称だが、パイプラインの特徴を端的に示すものとして使用している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a73c3e04ddb25dd629d50c5?from=rss</guid>
-      <pubDate>Wed, 05 Aug 2026 23:14:40 +0000</pubDate>
+      <title>大企業の74%がAIを本番運用、しかし半数はROIを計測できていない — 次の競争軸は「モデルの性能」ではなく「計測インフラ」</title>
+      <link>https://techfeed.io/entries/6a75162aec7a075ad3252339?from=rss</link>
+      <description>8月7日、Paul Nashawaty氏が「Enterprise AI Is in Production But Half Can't Measure ROI」と題した記事を公開した。大企業の74%がAIを本番運用している今、次の競争軸は「より良いモデルを使えるか」ではなく「そのAIが機能していると証明できるか」だ。調査によれば、本番運用中の企業の半数がROIを計測できておらず、計測インフラの整備が事実上の新たな差別化要因になりつつある。この記事では、その構造的な背景と、企業が直面している3つの壁について詳しく論じられている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a75162aec7a075ad3252339?from=rss</guid>
+      <pubDate>Thu, 06 Aug 2026 23:18:02 +0000</pubDate>
     </item>
     <item>
       <title>脆弱性を作り込まないために、Claude公式「Security Guidance Plugin」を導入した話</title>
@@ -71,23 +60,71 @@ TamaT という、顧客提案から要件定義・設計・開発まで一気�
       <description>AI にコードを書かせるようになって、実装のスピードが上がりました。
 一方で次なる課題も山のようにありますよね。
 今日はその中から「セキュリティ対策」をテーマに選びました。
-**実装コードレベルの脆弱性をどのように予防するか？**という話をしたいと思います。
+実装コードレベルの脆弱性をどのように予防するか？ という話をしたいと思います。
 結論だけ先に言うと、「とりあえずSecurity Guidance Pluginを入れましょう」です。
 
  レビューが追いつかなくなっている
 昨今の状況を整理すると、どこの開発現場も似たような状態ではないでしょうか？
 
 PRの数が増えるが、レビューする側の人数は変わらない
-追いつかない分はAIレビューに任せる、レビューの質に不安が残... (source: Zennのトレンド)</description>
+追いつかない分はAIレビューに任せる、レビューの質に不安が残る
+認... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro</guid>
       <pubDate>Wed, 05 Aug 2026 09:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>AMDがデータセンター売上を1年で赤字から2,100億円超の黒字に転換 — Nvidiaのシェアを奪うのではなく、急拡大する市場ごと飲み込む戦略とは</title>
-      <link>https://techfeed.io/entries/6a73c3c14ddb25dd629d50a0?from=rss</link>
-      <description>8月5日、Next Platformが「AMD Catches The Agentic AI Wave And Will Ride It Up Masterfully」と題した記事を公開した。この記事では、AMDが2026年第2四半期に過去最高収益を達成し、Nvidiaとの競争において独自のポジションを構築しつつある現状について詳しく紹介されている。注目すべきキーワードは「エージェンティックAI（Agentic AI）」だ。AIが自律的にタスクを連鎖実行するこの手法が急速に普及したことで、データセンター向けの高速CPUおよびGPU需要が一気に押し上げられており、AMDはその波を巧みに捉えつつある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a73c3c14ddb25dd629d50a0?from=rss</guid>
-      <pubDate>Wed, 05 Aug 2026 23:14:09 +0000</pubDate>
+      <title>面白くない自作パズルをAIに8,000回プレイさせたら原因がわかった！</title>
+      <link>https://zenn.dev/xtone/articles/masshiro-ai-playtest</link>
+      <description>はじめに
+unity1week（お題「しろ」）に落ち物パズルを投稿しました。光の三原色を重ねて「白」を作るゲームです。
+https://unityroom.com/games/masshiro
+6列×12段の盤面に、赤・緑・青の光る玉が2〜4個のかたまりで落ちてきます。プレイヤーがやるのは落とす列を選ぶことだけで、回転はありません。
+同じマスで重なった玉は光が混ざります。赤＋緑で黄、緑＋青でシアン、赤＋青でマゼンタ。3色そろうと白になって消えます。逆に同じ色を重ねると光を失って、灰色の玉が盤面に居座ります。
+白ができると、隣り合った灰色の玉も浄化されて消えます。空いたマスに上の玉が落... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/xtone/articles/masshiro-ai-playtest</guid>
+      <pubDate>Thu, 06 Aug 2026 10:27:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code の「無駄」を可視化するツール cclens を作った</title>
+      <link>https://zenn.dev/lambdalisue/articles/introduce-cclens</link>
+      <description>どうも、医者からアルコールを控えろと言われたのでノンアルビールを飲んでみたものの、あまり好みではなかった 16 歳（進数不明）、ありすえです。
+突然ですが、皆さんは自分の Claude Code が どれくらい無駄なことをしているか 把握していますか？
+
+ 設定の効果検証は難しい
+AI って非決定的なツールですよね。なので、設定の効果検証がめちゃくちゃ難しい。
+ある目的のためにルールやスキルを書いたとして、それが本当に効いてるのか？ 効いてるとして、ちゃんと効果的に効いてるのか？ これを定量的に測るのは、まあ至難の業です。結局「とりま、しばらく使って様子見」に落ち着くんですが、その「しば... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/lambdalisue/articles/introduce-cclens</guid>
+      <pubDate>Wed, 05 Aug 2026 06:37:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>何者でもなかった私が、発信を続けた先で見た景色</title>
+      <link>https://zenn.dev/yuyanz/articles/51c8b2212adb08</link>
+      <description>!
+本記事は個人の視点でのポエム記事になります。
+
+
+ プロローグ: 去年と同じ景色
+2026年7月、私はAIDevDayの壇上から客席を眺めていました。
+そこに広がっていたのは、去年とほとんど同じ景色でした。
+違うのは、自分が客席側ではなくその前に立っているということだけ。
+1年前の自分に言っても、絶対に信じないと思います。
+そこに立てているのは、たくさんの人に背中を押してもらったからでした。
+何者でもなかった私が「何者かになりたい」と願い、行動した過程を振り返る記事です。
+その道のりは「生きていてよかった」と思えるほど素敵な出会いと経験に満ちていました。
+忘れないうちに、今の自分に書... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yuyanz/articles/51c8b2212adb08</guid>
+      <pubDate>Wed, 05 Aug 2026 15:56:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>タイムボクシングのすすめ</title>
+      <link>https://zenn.dev/tokium_dev/articles/timeboxing-design-and-practice</link>
+      <description>株式会社TOKIUMでエンジニアをしているあのです。
+今年の3月から、開発チームのリーダーとして業務しています。
+私のチームは、会計ソフトへ連携するためのフォーマットをお客様ごとにカスタマイズしています。そのため他の開発チームに比べて、「この仕様は実装できるか」「今はどういう実装になっているか」といった相談や確認が、チームの外から入ってきやすい立ち位置にあります。
+リーダーになってからというもの、自分の1日の過ごし方が変わりました。
+自分で手を動かす時間よりも、レビュー、相談、確認の依頼がどんどん入ってきます。会議も増えました。気づくと一日が終わっていて、自分が進めるはずだった仕事は何も... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/timeboxing-design-and-practice</guid>
+      <pubDate>Wed, 05 Aug 2026 01:00:05 +0000</pubDate>
     </item>
     <item>
       <title>オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた</title>
