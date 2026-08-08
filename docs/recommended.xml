@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:21:08 +0000</lastBuildDate>
-    <item>
-      <title>DESIGN.md を置くと、どこまで「いい感じ」になるのか — 74件を測って確かめた</title>
-      <link>https://zenn.dev/ait/articles/google-design-md-measured</link>
-      <description>AI に UI を作らせると、毎回ちょっとずつ違うものが出てきます。
-「モダンで、クリーンで、信頼感のある感じで」と頼む。悪くないものが出る。翌日また頼む。また悪くないものが出る。でも昨日のとは違う。
-Google Labs が公開した DESIGN.md は、この「毎回違う」を止めるためのファイル形式です。デザインの意図を1ファイルに書いて、AI に毎回読ませます。
-実際に導入して、どこまで効くのかを測りました。結論から書きます。
-
- この記事の内容
-
-
-
-
-
-
-
-
-
-効くところと効かないところ
-先に結論
-
-
-そもそも何のファイルなのか
-出自と、Google 自身の説明
-
-
-実物を74... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ait/articles/google-design-md-measured</guid>
-      <pubDate>Wed, 05 Aug 2026 18:49:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 06:59:07 +0000</lastBuildDate>
     <item>
       <title>仕様書から保証台帳へ、GDD（保証駆動開発）のすすめ</title>
       <link>https://zenn.dev/yktsnet/articles/202608-guarantee-driven-development</link>
@@ -48,11 +18,28 @@ Google Labs が公開した DESIGN.md は、この「毎回違う」を止める
       <pubDate>Wed, 05 Aug 2026 07:42:28 +0000</pubDate>
     </item>
     <item>
-      <title>大企業の74%がAIを本番運用、しかし半数はROIを計測できていない — 次の競争軸は「モデルの性能」ではなく「計測インフラ」</title>
-      <link>https://techfeed.io/entries/6a75162aec7a075ad3252339?from=rss</link>
-      <description>8月7日、Paul Nashawaty氏が「Enterprise AI Is in Production But Half Can't Measure ROI」と題した記事を公開した。大企業の74%がAIを本番運用している今、次の競争軸は「より良いモデルを使えるか」ではなく「そのAIが機能していると証明できるか」だ。調査によれば、本番運用中の企業の半数がROIを計測できておらず、計測インフラの整備が事実上の新たな差別化要因になりつつある。この記事では、その構造的な背景と、企業が直面している3つの壁について詳しく論じられている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a75162aec7a075ad3252339?from=rss</guid>
-      <pubDate>Thu, 06 Aug 2026 23:18:02 +0000</pubDate>
+      <title>58% の Pull Request を AI が承認するようになった</title>
+      <link>https://zenn.dev/she_techblog/articles/937836550dfdf3</link>
+      <description>SHE株式会社の開発責任者を務めている @qsona です。
+AI コーディングの普及で開発速度は速くなったが、価値の創出はそこまで速くなっていない、というのは、多くの開発組織が感じている課題でしょう。Four Keys で測れるような(狭義の)開発生産性だけをみても、コードレビューやテストといった、品質担保のアクションがボトルネックになってきがちです。弊社 SHE においても、Pull Request レビューがボトルネックになりがちであるという議論が、半年ほど前からされていました。
+そこで、この状況に対して、AIがコードレビューおよび approve 判断まで行う仕組みを実装しました... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/she_techblog/articles/937836550dfdf3</guid>
+      <pubDate>Thu, 06 Aug 2026 21:10:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude が書く長いコメントは、Claude 自身の役に立っていなかった</title>
+      <link>https://zenn.dev/uzu_tech/articles/86a2ef05a7d649</link>
+      <description>はじめに
+株式会社Sally 所属エンジニアの @wellPicker です。
+弊社では、スマホやパソコンでマダミスを遊べるアプリであるウズや、マダミス情報・予約管理サイトマダミス.jp、マダミス開発ツールウズスタジオを開発しています。
+マダミスについてはこちらをご覧ください。
+Claude Code に実装させていると、コメントがやたら長くなります。気になって本人に聞いてみたところ、想定と違う答えが返ってきました。そこからルールを整備したのですが、思ったほど効かず、原因を調べたら「削れない理由」がはっきりしました。
+その一連の記録です。
+
+ まず実物
+弊社バックエンド（Go）の、W... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/uzu_tech/articles/86a2ef05a7d649</guid>
+      <pubDate>Wed, 05 Aug 2026 03:00:10 +0000</pubDate>
     </item>
     <item>
       <title>脆弱性を作り込まないために、Claude公式「Security Guidance Plugin」を導入した話</title>
@@ -116,17 +103,6 @@ AI って非決定的なツールですよね。なので、設定の効果検�
       <pubDate>Wed, 05 Aug 2026 15:56:31 +0000</pubDate>
     </item>
     <item>
-      <title>タイムボクシングのすすめ</title>
-      <link>https://zenn.dev/tokium_dev/articles/timeboxing-design-and-practice</link>
-      <description>株式会社TOKIUMでエンジニアをしているあのです。
-今年の3月から、開発チームのリーダーとして業務しています。
-私のチームは、会計ソフトへ連携するためのフォーマットをお客様ごとにカスタマイズしています。そのため他の開発チームに比べて、「この仕様は実装できるか」「今はどういう実装になっているか」といった相談や確認が、チームの外から入ってきやすい立ち位置にあります。
-リーダーになってからというもの、自分の1日の過ごし方が変わりました。
-自分で手を動かす時間よりも、レビュー、相談、確認の依頼がどんどん入ってきます。会議も増えました。気づくと一日が終わっていて、自分が進めるはずだった仕事は何も... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/timeboxing-design-and-practice</guid>
-      <pubDate>Wed, 05 Aug 2026 01:00:05 +0000</pubDate>
-    </item>
-    <item>
       <title>オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた</title>
       <link>https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy</link>
       <description>はじめに
@@ -140,6 +116,24 @@ AI エージェントを業務に入れようとすると、必ず同じ壁に�
 これらは人間の頭と社内ドキュメントの中にあり、information_schema には存在しません。LLM がい... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy</guid>
       <pubDate>Mon, 03 Aug 2026 05:26:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Claude Code] AIの説明が「それっぽいだけ」で終わる問題を、Skill設計で解決した話</title>
+      <link>https://zenn.dev/ncdc/articles/56d60cb79319b2</link>
+      <description>はじめに
+以前、新しく参画するプロジェクトのキャッチアップに、AIを使ったことがあります。
+「このリポジトリを読んで、アーキテクチャをまとめて」と気軽にお願いしたら、それらしいレポートが思ったより早く出てきました。
+ただ、実際に読んでみると
+
+「ECSでバックエンドを動かしています」
+
+これで終わりました。
+いや、それは知ってる。
+聞きたいのは「じゃあどう動いてるの？」の方です。ALBを経由しているのか、セキュリティグループはどう制限されているのか、そこが全然分からず知りたい情報に辿り着けませんでした。
+読んだ気にはなるのに、次の作業に進めるだけの具体性が一切ない。
+今回、自分用に「... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/56d60cb79319b2</guid>
+      <pubDate>Fri, 07 Aug 2026 09:18:18 +0000</pubDate>
     </item>
     <item>
       <title>AI家臣団を解散して、影武者を一人だけ残した　兵法書と訓練記録</title>
