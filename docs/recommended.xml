@@ -7,7 +7,55 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 06:59:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 07:01:18 +0000</lastBuildDate>
+    <item>
+      <title>「コードレビューの承認者はAliceかClaudeか」— AIが崩した「合理的なコードには人間の理解が伴う」という前提</title>
+      <link>https://techfeed.io/entries/6a77b6b3ec7a075ad3265162?from=rss</link>
+      <description>8月7日、ソフトウェア開発の制約理論的アプローチを専門に発信するメディア・Constraint Labが「How AI changes our system of work」と題した記事を公開した。AIの登場によって私たちの「仕事のシステム」を支える前提がどのように崩れたかを、エリヤフ・ゴールドラットの制約理論（Theory of Constraints）を枠組みとして分析した内容だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a77b6b3ec7a075ad3265162?from=rss</guid>
+      <pubDate>Sat, 08 Aug 2026 23:07:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>ある日エンジニアが突然無職になってしまったら？ — 離職インシデント対応ランブック</title>
+      <link>https://zenn.dev/tsukuboshi/articles/engineer-unemployment-runbook</link>
+      <description>こんにちは、つくぼし(tsukuboshi0755)です！
+私は以前勤めていた会社を急遽退職せざるを得ない状況になってしまい、しばらく無職期間を過ごした事があります。
+その際に「退職後ってこんなに手続き多いの！？」と驚いた事がたくさんありました。知っていれば避けられた出費や、期限を過ぎると取り返しがつかない手続きもあり、事前に知っておく事の大切さを痛感しました。
+本記事は同じように突然無職になった方が同じ轍を踏まないために、私の体験から離職インシデント対応ランブックとして作りました。
+私の失敗談に基づくやっておくべき事リストが誰かのためになるととても嬉しいので、ぜひ見て頂けるとありがたい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tsukuboshi/articles/engineer-unemployment-runbook</guid>
+      <pubDate>Sun, 02 Aug 2026 07:13:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>DESIGN.md を置くと、どこまで「いい感じ」になるのか — 74件を測って確かめた</title>
+      <link>https://zenn.dev/ait/articles/google-design-md-measured</link>
+      <description>AI に UI を作らせると、毎回ちょっとずつ違うものが出てきます。
+「モダンで、クリーンで、信頼感のある感じで」と頼む。悪くないものが出る。翌日また頼む。また悪くないものが出る。でも昨日のとは違う。
+Google Labs が公開した DESIGN.md は、この「毎回違う」を止めるためのファイル形式です。デザインの意図を1ファイルに書いて、AI に毎回読ませます。
+実際に導入して、どこまで効くのかを測りました。結論から書きます。
+
+ この記事の内容
+
+
+
+
+
+
+
+
+
+効くところと効かないところ
+先に結論
+
+
+そもそも何のファイルなのか
+出自と、Google 自身の説明
+
+
+実物を74... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ait/articles/google-design-md-measured</guid>
+      <pubDate>Wed, 05 Aug 2026 18:49:06 +0000</pubDate>
+    </item>
     <item>
       <title>仕様書から保証台帳へ、GDD（保証駆動開発）のすすめ</title>
       <link>https://zenn.dev/yktsnet/articles/202608-guarantee-driven-development</link>
@@ -42,24 +90,6 @@ Claude Code に実装させていると、コメントがやたら長くなり�
       <pubDate>Wed, 05 Aug 2026 03:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>脆弱性を作り込まないために、Claude公式「Security Guidance Plugin」を導入した話</title>
-      <link>https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro</link>
-      <description>AI にコードを書かせるようになって、実装のスピードが上がりました。
-一方で次なる課題も山のようにありますよね。
-今日はその中から「セキュリティ対策」をテーマに選びました。
-実装コードレベルの脆弱性をどのように予防するか？ という話をしたいと思います。
-結論だけ先に言うと、「とりあえずSecurity Guidance Pluginを入れましょう」です。
-
- レビューが追いつかなくなっている
-昨今の状況を整理すると、どこの開発現場も似たような状態ではないでしょうか？
-
-PRの数が増えるが、レビューする側の人数は変わらない
-追いつかない分はAIレビューに任せる、レビューの質に不安が残る
-認... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro</guid>
-      <pubDate>Wed, 05 Aug 2026 09:25:00 +0000</pubDate>
-    </item>
-    <item>
       <title>面白くない自作パズルをAIに8,000回プレイさせたら原因がわかった！</title>
       <link>https://zenn.dev/xtone/articles/masshiro-ai-playtest</link>
       <description>はじめに
@@ -84,23 +114,15 @@ AI って非決定的なツールですよね。なので、設定の効果検�
       <pubDate>Wed, 05 Aug 2026 06:37:39 +0000</pubDate>
     </item>
     <item>
-      <title>何者でもなかった私が、発信を続けた先で見た景色</title>
-      <link>https://zenn.dev/yuyanz/articles/51c8b2212adb08</link>
-      <description>!
-本記事は個人の視点でのポエム記事になります。
-
-
- プロローグ: 去年と同じ景色
-2026年7月、私はAIDevDayの壇上から客席を眺めていました。
-そこに広がっていたのは、去年とほとんど同じ景色でした。
-違うのは、自分が客席側ではなくその前に立っているということだけ。
-1年前の自分に言っても、絶対に信じないと思います。
-そこに立てているのは、たくさんの人に背中を押してもらったからでした。
-何者でもなかった私が「何者かになりたい」と願い、行動した過程を振り返る記事です。
-その道のりは「生きていてよかった」と思えるほど素敵な出会いと経験に満ちていました。
-忘れないうちに、今の自分に書... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yuyanz/articles/51c8b2212adb08</guid>
-      <pubDate>Wed, 05 Aug 2026 15:56:31 +0000</pubDate>
+      <title>タイムボクシングのすすめ</title>
+      <link>https://zenn.dev/tokium_dev/articles/timeboxing-design-and-practice</link>
+      <description>株式会社TOKIUMでエンジニアをしているあのです。
+今年の3月から、開発チームのリーダーとして業務しています。
+私のチームは、会計ソフトへ連携するためのフォーマットをお客様ごとにカスタマイズしています。そのため他の開発チームに比べて、「この仕様は実装できるか」「今はどういう実装になっているか」といった相談や確認が、チームの外から入ってきやすい立ち位置にあります。
+リーダーになってからというもの、自分の1日の過ごし方が変わりました。
+自分で手を動かす時間よりも、レビュー、相談、確認の依頼がどんどん入ってきます。会議も増えました。気づくと一日が終わっていて、自分が進めるはずだった仕事は何も... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/timeboxing-design-and-practice</guid>
+      <pubDate>Wed, 05 Aug 2026 01:00:05 +0000</pubDate>
     </item>
     <item>
       <title>オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた</title>
@@ -116,45 +138,6 @@ AI エージェントを業務に入れようとすると、必ず同じ壁に�
 これらは人間の頭と社内ドキュメントの中にあり、information_schema には存在しません。LLM がい... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy</guid>
       <pubDate>Mon, 03 Aug 2026 05:26:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Claude Code] AIの説明が「それっぽいだけ」で終わる問題を、Skill設計で解決した話</title>
-      <link>https://zenn.dev/ncdc/articles/56d60cb79319b2</link>
-      <description>はじめに
-以前、新しく参画するプロジェクトのキャッチアップに、AIを使ったことがあります。
-「このリポジトリを読んで、アーキテクチャをまとめて」と気軽にお願いしたら、それらしいレポートが思ったより早く出てきました。
-ただ、実際に読んでみると
-
-「ECSでバックエンドを動かしています」
-
-これで終わりました。
-いや、それは知ってる。
-聞きたいのは「じゃあどう動いてるの？」の方です。ALBを経由しているのか、セキュリティグループはどう制限されているのか、そこが全然分からず知りたい情報に辿り着けませんでした。
-読んだ気にはなるのに、次の作業に進めるだけの具体性が一切ない。
-今回、自分用に「... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/56d60cb79319b2</guid>
-      <pubDate>Fri, 07 Aug 2026 09:18:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI家臣団を解散して、影武者を一人だけ残した　兵法書と訓練記録</title>
-      <link>https://zenn.dev/shio_shoppaize/books/kagemusha-book</link>
-      <description>AIに仕事を任せるとき、どこまで任せて、何を自分の承認に残すか。その線の引き方を、
-著者は自分の一人会社で実地に引いてきました。ある一日、著者がAIに打ち込んだ文字は
-約400字。AIが吐き出したのは約6万字。400字は少ないのではなく、6万字を曲げるための
-400字でした。
-
-第一部「兵法書」は、その線の引き方の原則です。承認を3分で終わらせるには何が揃って
-いればいいか。届けたものが読まれる条件は何か。第二部「訓練記録」は、その理論が現場
-で当たったか外れたかの実録です。判断課題・選択肢・AIの提案・与えたマンデートと承認
-理由・観測された結果・移植できる原則——この六要素をすべて満たす形で収録しています。
-付録には、あなた自身の一日を6つの箱で数える道具を付けました。この本を信じなくても、
-これだけは自分の履歴で確かめられます。
-
-売っていないものも書いておきます。万能の設計図と、一般理論です。ここにあるのは一人
-会社の記録で、サンプル数は一人ぶん、観察期間は8週間しかありません。一度は「これが
-AIネイティブな会社の正体だ」と言い切った版が存在しましたが、監査に三度撃たれて下ろ (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shio_shoppaize/books/kagemusha-book</guid>
-      <pubDate>Mon, 03 Aug 2026 20:34:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
