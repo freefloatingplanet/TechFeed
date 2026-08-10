@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 07:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 07:48:03 +0000</lastBuildDate>
     <item>
-      <title>VARMAモデルのスケーラブルな推定</title>
-      <link>https://arxiv.org/abs/2608.06340v1</link>
-      <description>ベクトル自己回帰移動平均（VARMA）モデルは、中程度の次元を超えると実用的ではないと長らく考えられてきました。尤度は非凸であり、パラメータ化は等価性までしか識別できず、評価のたびに全系列を走査する必要があるためです。しかし、その移動平均項は、純粋な自己回帰では多くのラグでしか対応できないものを、少数のパラメータで捉えています。本稿では、この計算上の障壁を取り除く推定フレームワークを紹介します。各最適化反復は、系列の長さ $T$ に依存しません。このフレームワークは、定常性と可逆性を保証する部分自己相関再パラメータ化、対角要素と非対角要素に別々のスケールを持つ再パラメータ化係数に対するガウス事前分布、およびパーセバル（フーリエ）恒等式によって切り捨て長に対してほぼ線形のコストで評価される固定サイズの十分統計量のみにデータに依存する損失を組み合わせています。これにより、2 つの点推定値が得られます。1 つは正則化された最小二乗法によるフィッティング、もう 1 つは共分散周辺化された最大事後確率推定値です。どちらも固定次元でほぼパラメトリックな速度で真のプロセスの無限自己回帰表現を復元する (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.06340v1</guid>
-      <pubDate>Thu, 06 Aug 2026 17:49:58 +0000</pubDate>
+      <title>表現保存型学習のための残差代数</title>
+      <link>https://arxiv.org/abs/2608.07349v1</link>
+      <description>異種表現からの学習は通常、特徴の連結に還元され、どの表現がエラーを生成したかが消去されます。代わりに、残差を代数化します。表現は、座標系と未解決の残差の両方を所有する型付きオブジェクトであり、学習は、その型を保持または意図的に消去する演算子の順序付き合成です。Fold は、オブジェクトを 10x10 ランク グリッド上の時点条件付き平均フィールドとして実現します。FPRC-PQ は、代数を緩和-集約-クローズとして実現します。各フィールドは、自身の座標における自身の残差に適合した補正によって緩和されます。補正されたフィールドは、唯一の同一性消去境界である固定平均で合流します。共有学習器は、集約の新しい残差のみを閉じます。この合成は、表現、局所残差推定、および残差の残差推定に正確に変換されます。その集約は、集団分散削減を伴う学習された制御変数インターフェースであり、バックボーンの摂動に沿ってクローズを再適合すると、1 次結合パス平均直交性が得られます。分析的拡張として、反射的反芻演算子は、集計アンカーからのグローバル再構成の変位を読み取り、それを反射し、リターン調整グリッドサーチではなく (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.07349v1</guid>
+      <pubDate>Fri, 07 Aug 2026 15:44:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

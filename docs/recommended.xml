@@ -7,54 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 07:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 07:47:59 +0000</lastBuildDate>
     <item>
-      <title>「コードレビューの承認者はAliceかClaudeか」— AIが崩した「合理的なコードには人間の理解が伴う」という前提</title>
-      <link>https://techfeed.io/entries/6a77b6b3ec7a075ad3265162?from=rss</link>
-      <description>8月7日、ソフトウェア開発の制約理論的アプローチを専門に発信するメディア・Constraint Labが「How AI changes our system of work」と題した記事を公開した。AIの登場によって私たちの「仕事のシステム」を支える前提がどのように崩れたかを、エリヤフ・ゴールドラットの制約理論（Theory of Constraints）を枠組みとして分析した内容だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a77b6b3ec7a075ad3265162?from=rss</guid>
-      <pubDate>Sat, 08 Aug 2026 23:07:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ある日エンジニアが突然無職になってしまったら？ — 離職インシデント対応ランブック</title>
-      <link>https://zenn.dev/tsukuboshi/articles/engineer-unemployment-runbook</link>
-      <description>こんにちは、つくぼし(tsukuboshi0755)です！
-私は以前勤めていた会社を急遽退職せざるを得ない状況になってしまい、しばらく無職期間を過ごした事があります。
-その際に「退職後ってこんなに手続き多いの！？」と驚いた事がたくさんありました。知っていれば避けられた出費や、期限を過ぎると取り返しがつかない手続きもあり、事前に知っておく事の大切さを痛感しました。
-本記事は同じように突然無職になった方が同じ轍を踏まないために、私の体験から離職インシデント対応ランブックとして作りました。
-私の失敗談に基づくやっておくべき事リストが誰かのためになるととても嬉しいので、ぜひ見て頂けるとありがたい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tsukuboshi/articles/engineer-unemployment-runbook</guid>
-      <pubDate>Sun, 02 Aug 2026 07:13:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>DESIGN.md を置くと、どこまで「いい感じ」になるのか — 74件を測って確かめた</title>
-      <link>https://zenn.dev/ait/articles/google-design-md-measured</link>
-      <description>AI に UI を作らせると、毎回ちょっとずつ違うものが出てきます。
-「モダンで、クリーンで、信頼感のある感じで」と頼む。悪くないものが出る。翌日また頼む。また悪くないものが出る。でも昨日のとは違う。
-Google Labs が公開した DESIGN.md は、この「毎回違う」を止めるためのファイル形式です。デザインの意図を1ファイルに書いて、AI に毎回読ませます。
-実際に導入して、どこまで効くのかを測りました。結論から書きます。
-
- この記事の内容
-
-
-
-
-
-
-
-
-
-効くところと効かないところ
-先に結論
-
-
-そもそも何のファイルなのか
-出自と、Google 自身の説明
-
-
-実物を74... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ait/articles/google-design-md-measured</guid>
-      <pubDate>Wed, 05 Aug 2026 18:49:06 +0000</pubDate>
+      <title>経費精算アプリもExcelも捨てる。Claude Desktop（MCP）＋マネーフォワードAPIで経理を完全自動化した話</title>
+      <link>https://zenn.dev/yuichirominato/articles/dc8cf3915f1c6f</link>
+      <description>はじめに
+業務効率化のために「便利なSaaS」や「Excelのマクロ」を導入したものの、結局データを転記したり、確認したりする「人間の手間」が残っていませんか？
+私自身、以前はマネーフォワードクラウドを中心に、経費精算アプリや売掛管理用の債務整理、その他源泉徴収などExcel（スプレッドシート）を併用する典型的なスタイルでした。しかし、Claude と MCP（Model Context Protocol） を本格的に導入してから、経理運用の前提がガラリと変わりました。
+結論から言うと、あんなに頼っていた経費精算アプリもExcelも要らなくなり、マネーフォワードの画面（UI）すらほと... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yuichirominato/articles/dc8cf3915f1c6f</guid>
+      <pubDate>Sat, 08 Aug 2026 02:14:37 +0000</pubDate>
     </item>
     <item>
       <title>仕様書から保証台帳へ、GDD（保証駆動開発）のすすめ</title>
@@ -64,6 +26,20 @@ Google Labs が公開した DESIGN.md は、この「毎回違う」を止める
 かといって、変更のたびに「壊していないか全部確認... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/yktsnet/articles/202608-guarantee-driven-development</guid>
       <pubDate>Wed, 05 Aug 2026 07:42:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code で「ループエンジニアリング」を実践してみた</title>
+      <link>https://zenn.dev/tetsu_don/articles/e40b95dfc726ac</link>
+      <description>Claude Code で「ループエンジニアリング」を実践し、Maker-Checker構成で本物のバグを検出できた話
+
+ はじめに
+てつどんです。データエンジニアとして 日々業務をこなしております。
+最近、バズワードのように、いろんなところで「ループエンジニアリング」というのを聞くことが多くなりました。
+そこで、今回、ループエンジニアリングというのはなんなのか、どういう使い方をするのかというのをClaudeと壁打ちして、実践してみました。
+正直、全くよく分かってない状況なので、認識として間違ってるかもしれないですが、やったことを残してみます。
+2026年6月にGoogleのエンジニ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tetsu_don/articles/e40b95dfc726ac</guid>
+      <pubDate>Sat, 08 Aug 2026 04:39:01 +0000</pubDate>
     </item>
     <item>
       <title>58% の Pull Request を AI が承認するようになった</title>
@@ -90,28 +66,22 @@ Claude Code に実装させていると、コメントがやたら長くなり�
       <pubDate>Wed, 05 Aug 2026 03:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>面白くない自作パズルをAIに8,000回プレイさせたら原因がわかった！</title>
-      <link>https://zenn.dev/xtone/articles/masshiro-ai-playtest</link>
-      <description>はじめに
-unity1week（お題「しろ」）に落ち物パズルを投稿しました。光の三原色を重ねて「白」を作るゲームです。
-https://unityroom.com/games/masshiro
-6列×12段の盤面に、赤・緑・青の光る玉が2〜4個のかたまりで落ちてきます。プレイヤーがやるのは落とす列を選ぶことだけで、回転はありません。
-同じマスで重なった玉は光が混ざります。赤＋緑で黄、緑＋青でシアン、赤＋青でマゼンタ。3色そろうと白になって消えます。逆に同じ色を重ねると光を失って、灰色の玉が盤面に居座ります。
-白ができると、隣り合った灰色の玉も浄化されて消えます。空いたマスに上の玉が落... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/xtone/articles/masshiro-ai-playtest</guid>
-      <pubDate>Thu, 06 Aug 2026 10:27:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code の「無駄」を可視化するツール cclens を作った</title>
-      <link>https://zenn.dev/lambdalisue/articles/introduce-cclens</link>
-      <description>どうも、医者からアルコールを控えろと言われたのでノンアルビールを飲んでみたものの、あまり好みではなかった 16 歳（進数不明）、ありすえです。
-突然ですが、皆さんは自分の Claude Code が どれくらい無駄なことをしているか 把握していますか？
+      <title>脆弱性を作り込まないために、Claude公式「Security Guidance Plugin」を導入した話</title>
+      <link>https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro</link>
+      <description>AI にコードを書かせるようになって、実装のスピードが上がりました。
+一方で次なる課題も山のようにありますよね。
+今日はその中から「セキュリティ対策」をテーマに選びました。
+実装コードレベルの脆弱性をどのように予防するか？ という話をしたいと思います。
+結論だけ先に言うと、「とりあえずSecurity Guidance Pluginを入れましょう」です。
 
- 設定の効果検証は難しい
-AI って非決定的なツールですよね。なので、設定の効果検証がめちゃくちゃ難しい。
-ある目的のためにルールやスキルを書いたとして、それが本当に効いてるのか？ 効いてるとして、ちゃんと効果的に効いてるのか？ これを定量的に測るのは、まあ至難の業です。結局「とりま、しばらく使って様子見」に落ち着くんですが、その「しば... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lambdalisue/articles/introduce-cclens</guid>
-      <pubDate>Wed, 05 Aug 2026 06:37:39 +0000</pubDate>
+ レビューが追いつかなくなっている
+昨今の状況を整理すると、どこの開発現場も似たような状態ではないでしょうか？
+
+PRの数が増えるが、レビューする側の人数は変わらない
+追いつかない分はAIレビューに任せる、レビューの質に不安が残る
+認... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro</guid>
+      <pubDate>Wed, 05 Aug 2026 09:25:00 +0000</pubDate>
     </item>
     <item>
       <title>タイムボクシングのすすめ</title>
@@ -138,6 +108,31 @@ AI エージェントを業務に入れようとすると、必ず同じ壁に�
 これらは人間の頭と社内ドキュメントの中にあり、information_schema には存在しません。LLM がい... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy</guid>
       <pubDate>Mon, 03 Aug 2026 05:26:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Claude Code] AIの説明が「それっぽいだけ」で終わる問題を、Skill設計で解決した話</title>
+      <link>https://zenn.dev/ncdc/articles/56d60cb79319b2</link>
+      <description>はじめに
+以前、新しく参画するプロジェクトのキャッチアップに、AIを使ったことがあります。
+「このリポジトリを読んで、アーキテクチャをまとめて」と気軽にお願いしたら、それらしいレポートが思ったより早く出てきました。
+ただ、実際に読んでみると
+
+「ECSでバックエンドを動かしています」
+
+これで終わりました。
+いや、それは知ってる。
+聞きたいのは「じゃあどう動いてるの？」の方です。ALBを経由しているのか、セキュリティグループはどう制限されているのか、そこが全然分からず知りたい情報に辿り着けませんでした。
+読んだ気にはなるのに、次の作業に進めるだけの具体性が一切ない。
+今回、自分用に「... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/56d60cb79319b2</guid>
+      <pubDate>Fri, 07 Aug 2026 09:18:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Waymo CEOが「速く動いて壊すな」と業界に警告 — 自動運転に"元に戻すボタン"は存在しない</title>
+      <link>https://techfeed.io/entries/6a790703ec7a075ad326af61?from=rss</link>
+      <description>8月8日、CleanTechnicaが「Waymo CEO: Don't Move Fast &amp; Break Things With Physical AI」と題した記事を公開した。WaymoのCo-CEOであるDmitri Dolgov氏がY CombinatorのインタビューでフィジカルアI業界に向けて発した「速く動いて壊すな」という警告の内容と、その背景にある安全哲学を詳しく紹介している。「元に戻すボタンはない」——Dolgov氏の核心ソフトウェア業界に長く根付いてきた"Move fast and break things"（速く動いて壊せ）という開発哲学は、デプロイを繰り返してバグを潰すアジャイル型の進め方を体現している。しかしWaymo co-CEOのDmitri Dolgov氏は、これをフィジカルAI（物理空間で動作するAIシステム）に適用することを明確に否定した。Dolgov氏はY Combinatorのインタビューで、代替フレーズとして 「Move fast and ship safely（速く動いて、安全に出荷せよ）」 を提示した。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a790703ec7a075ad326af61?from=rss</guid>
+      <pubDate>Sun, 09 Aug 2026 23:02:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
