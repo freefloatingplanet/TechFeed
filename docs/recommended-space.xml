@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 07:48:01 +0000</lastBuildDate>
-    <item>
-      <title>冥王星表面の不思議な模様は液体窒素の流出跡？　スプートニク平原は現在も更新され続けている可能性</title>
-      <link>https://sorae.info/astronomy/20260809-pluto.html</link>
-      <description>SwRI（サウスウエスト研究所）のAlan Stern氏を筆頭とする研究チームは、冥王星の“ハート模様”の一部として知られる広大な窒素の氷床「スプートニク平原（Sputnik Planitia）」において、液体窒素が地下… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260809-pluto.html</guid>
-      <pubDate>Sun, 09 Aug 2026 13:40:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>かつて火星に存在した水の新たな証拠を発見　NASA火星探査車「スピリット」のデータから</title>
-      <link>https://sorae.info/astronomy/20260807-mars-water-spirit.html</link>
-      <description>2011年に運用を終えたNASA（アメリカ航空宇宙局）の火星探査車「スピリット（Spirit）」。そのデータが、いまなお現役の研究材料であり続けていることを示す成果が発表されました。 エディス・コーワン大学（ECU）の研… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260807-mars-water-spirit.html</guid>
-      <pubDate>Thu, 06 Aug 2026 22:27:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 07:13:18 +0000</lastBuildDate>
     <item>
       <title>「アイデアの実現スピードを上げるために人手は足りなくなる」ジェフ・べゾス氏が描く、宇宙と地球の未来の姿とインフラ構築の現在地【VIVATECH 2026現地レポート】</title>
       <link>https://sorabatake.jp/46617/</link>
@@ -42,6 +28,20 @@
       <description>8月、強い日差しが肌を焼くような蒸し暑い日が続きます。星空では、盛夏を彩る1等星を持つ豪華な星座を見ることができます。 天頂付近には夏の大三角が見えます。夏の大三角は、「こと座」のベガ、「わし座」のアルタイル、「はくちょ… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/202608-starry-sky.html</guid>
       <pubDate>Tue, 04 Aug 2026 08:24:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>最期を迎えた大質量星が残した幻想的な光景　ESOが公開した「ほ座超新星残骸」の姿</title>
+      <link>https://sorae.info/astronomy/20260810-vela-supernova-remnant.html</link>
+      <description>こちらは、ESO（ヨーロッパ南天天文台）の「VST（VLTサーベイ望遠鏡）」が観測した「ほ座超新星残骸」です。 無数のフィラメント（ひも状）構造が織りなすその姿を、ESOは蜘蛛の巣や幻想的な龍、あるいは漂う幽霊の軌跡のよ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260810-vela-supernova-remnant.html</guid>
+      <pubDate>Mon, 10 Aug 2026 11:01:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>ハワイの望遠鏡が太陽表面の渦を史上最高の解像度で観測　太陽の謎に迫る手がかりとなるか</title>
+      <link>https://sorae.info/astronomy/20260810-sun-s-surface-inouye-solar-telescope.html</link>
+      <description>こちらは、アメリカ・ハワイ州の「ダニエル・K・イノウエ太陽望遠鏡」が2025年4月14日に観測した、太陽の表面（光球）の様子です。 人間には紫色に見える波長416nmの観測データをもとに作成されたこの画像は、NSO（アメ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260810-sun-s-surface-inouye-solar-telescope.html</guid>
+      <pubDate>Mon, 10 Aug 2026 13:11:05 +0000</pubDate>
     </item>
     <item>
       <title>小惑星「ニサ」は3つの塊がつながった形をしている？　地上からの観測で衛星も発見</title>
