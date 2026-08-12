@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 07:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:37:25 +0000</lastBuildDate>
     <item>
-      <title>安全性が重要な環境における時系列予測: EU-AI 法に準拠した開発のためのオープンソース パッケージ / Zeitreihenprognose in sicherheitskritischen Umgebungen: Ein Open-Source-Paket für die KI-VO-konforme Entwicklung</title>
-      <link>https://arxiv.org/abs/2604.23859v2</link>
-      <description>spotforecast2-safe では、安全性が重要な環境における時系列データの Python ベースのポイント予測に対する、統合されたコンプライアンス設計アプローチを紹介します。関連するオープンソースツールのレビューによると、既存のコンプライアンスソリューションは、使用するライブラリの外部で一貫して動作しています (例: スキャナ、テンプレート、またはランタイムレイヤーとして)。spotforecast2-safe は逆のアプローチを採用し、規則 (EU) 2024/1689 (EU AI 法、ドイツ語: KI-VO)、IEC 61508、ISA/IEC 62443 規格シリーズ、およびサイバーレジリエンス法の要件をライブラリ内に固定します。具体的には、アプリケーションプログラミングインターフェイス契約、永続化フォーマット、および継続的インテグレーションゲートに組み込みます。このアプローチは、4 つの譲れないコード開発ルール (デッドコードゼロ、決定論的処理、フェイルセーフ処理、最小限の依存関係) と、それに対応するプロセスルール (モデルカード、実行可能なドキュメント文字列、C (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.23859v2</guid>
-      <pubDate>Sun, 26 Apr 2026 20:05:41 +0000</pubDate>
+      <title>VIScore：潜在世界モデルにおける計画関連品質の診断</title>
+      <link>https://arxiv.org/abs/2608.11174v1</link>
+      <description>潜在空間を等方性ガウス分布に調整することで、世界モデル計画のための安定した情報最大化ランドスケープが得られます。しかし、潜在空間の特性と計画の成功は依然として関連していません。そこで、まず、同じ分布目標を持ちながら特性が異なる2つの正則化損失関数であるSIGRegとVISRegを比較することで、この点を検討します。SIGRegと比較して、VISRegは中心、スケール、形状の正則化の重みを制御する柔軟性が高く、バッチサイズが大きいほど分布の近似精度が向上します。自己教師あり学習（SSL）では有益であるにもかかわらず、計画には役立たないのに対し、ドメイン外（OOD）データセットでは計画の成功率が向上することがわかりました。このことから、成功率と相関する要因を深く理解する必要性が示唆されます。エンコードされた潜在変数のみに焦点を当てた従来の指標とは異なり、本稿では、エンコードされた特徴量と探索ベースのプランナーの幻覚を考慮した予測器の到達可能性と能力を定量化する指標である、真実性・影響力・冷静性スコア（VIScore）を提案します。直線性、物理状態プロービング、エンパワーメントと比較すると、 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.11174v1</guid>
+      <pubDate>Tue, 11 Aug 2026 17:34:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

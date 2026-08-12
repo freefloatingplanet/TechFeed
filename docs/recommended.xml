@@ -7,95 +7,72 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 07:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:37:18 +0000</lastBuildDate>
     <item>
-      <title>韓国発の次世代スリープテック「Sleepisol＋」を試す　すんなり二度寝ができるようになった</title>
-      <link>https://www.itmedia.co.jp/news/article/2608/10/2000000490/</link>
-      <description>また疲れていても無理をして出社し、睡眠を理由として病欠しないという傾向が強く見られる。これは、心身が不調なまま仕事をすることで労働パフォーマンスが低下している、WHO（世界保健機関）によって提唱されている「プレゼンティーズム」という状態にあるという。 最近よく眠れないが、病院に行く時間がない、有給を... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/10/2000000490/</guid>
-      <pubDate>Mon, 10 Aug 2026 09:55:35 +0000</pubDate>
+      <title>え?DB側から外部サイトにアクセスさせるSQL Injection?ラボで見てみる攻撃のパターン</title>
+      <link>https://zenn.dev/knowledgework/articles/29b2b09ac70350</link>
+      <description>こんにちは。特撮熱が爆上がり中のbun913と申します。
+2026年8月より株式会社ナレッジワークでQAエンジニアとして働き始めました。
+早速ですが、皆さんは SQL Injection について理解は深いですか？特定の職種でない限り実際に SQL Injection について、非常に深い知識を持っている方は少ないと思います。
+私も普段はQAエンジニアとして活動しており、プロダクトの機能面だけでなく非機能面でもプロダクトやチームメンバーの力になりたいと思い、セキュリティについて学習中です。
+例えば、以前は HTTP リクエストスマグリング という攻撃手法について記事を書きました。
+htt... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/29b2b09ac70350</guid>
+      <pubDate>Mon, 10 Aug 2026 06:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>DESIGN.md を置くと、どこまで「いい感じ」になるのか — 74件を測って確かめた</title>
-      <link>https://zenn.dev/ait/articles/google-design-md-measured</link>
-      <description>AI に UI を作らせると、毎回ちょっとずつ違うものが出てきます。
-「モダンで、クリーンで、信頼感のある感じで」と頼む。悪くないものが出る。翌日また頼む。また悪くないものが出る。でも昨日のとは違う。
-Google Labs が公開した DESIGN.md は、この「毎回違う」を止めるためのファイル形式です。デザインの意図を1ファイルに書いて、AI に毎回読ませます。
-実際に導入して、どこまで効くのかを測りました。結論から書きます。
-
- この記事の内容
-
-
-
-
-
-
-
-
-
-効くところと効かないところ
-先に結論
-
-
-そもそも何のファイルなのか
-出自と、Google 自身の説明
-
-
-実物を74... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ait/articles/google-design-md-measured</guid>
-      <pubDate>Wed, 05 Aug 2026 18:49:06 +0000</pubDate>
+      <title>スマホのもっさり感は寿命じゃない。Androidの動作とバッテリーを同時に改善する設定 | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2608-stop-background-apps-to-improve-performance-and-battery-life-czt/</link>
+      <description>現代のAndroidスマートフォンはかつてないほどパワフルになりましたが、なぜか数カ月使っていると動作が遅く感じられるようになることがあります。プロセッサも、ソフトウェアも、RAMの容量も変わっていないのに、ただ重く感じられるのです。 よくある原因は、端末にインストールされているアプリの数にあります。 アプ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.lifehacker.jp/article/2608-stop-background-apps-to-improve-performance-and-battery-life-czt/</guid>
+      <pubDate>Tue, 11 Aug 2026 23:38:47 +0000</pubDate>
     </item>
     <item>
-      <title>二十年、同じ番号を探していた ── コメント欄で教わって、その日のうちに実証した話</title>
-      <link>https://qiita.com/shu15511551/items/5be46b01e4d60a7f059c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-前の記事に、間違いがありました。
-タイトルに「十年越し」と書きました。正確には二十年です。
-訂正だけならコメント欄で済みます。わざわざ一本書くのは、その二十年のあいだ自分に何が足りなかったのかが、今回はっきりしたからです。しかもそれを教えてくれたのは、AI では... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/shu15511551/items/5be46b01e4d60a7f059c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sun, 09 Aug 2026 20:05:36 +0000</pubDate>
+      <title>AIツールを「振りかける」だけでは生産性は最大30%止まり — チーム構造ごと変えた企業が18ヶ月の開発を15週間で終わらせた理由</title>
+      <link>https://techfeed.io/entries/6a7bace8ec7a075ad327d67d?from=rss</link>
+      <description>8月11日、Bob Morseが「AI-Native, Not AI-Sprinkle: Why AI Is A Business Change, Not A Technology Change」と題した記事を公開した。AIツールを既存の組織に「振りかける」だけでは生産性向上が頭打ちになり、チームの構造と仕事の中身そのものを再設計しなければ真の競争力は得られないという主張だ。その証拠として記事が挙げるのが、当初18ヶ月かかるはずだった開発を15週間で完了させたHRソフトウェア企業の実例である。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a7bace8ec7a075ad327d67d?from=rss</guid>
+      <pubDate>Tue, 11 Aug 2026 23:14:48 +0000</pubDate>
     </item>
     <item>
-      <title>経費精算アプリもExcelも捨てる。Claude Desktop（MCP）＋マネーフォワードAPIで経理を完全自動化した話</title>
-      <link>https://zenn.dev/yuichirominato/articles/dc8cf3915f1c6f</link>
-      <description>はじめに
-業務効率化のために「便利なSaaS」や「Excelのマクロ」を導入したものの、結局データを転記したり、確認したりする「人間の手間」が残っていませんか？
-私自身、以前はマネーフォワードクラウドを中心に、経費精算アプリや売掛管理用の債務整理、その他源泉徴収などExcel（スプレッドシート）を併用する典型的なスタイルでした。しかし、Claude と MCP（Model Context Protocol） を本格的に導入してから、経理運用の前提がガラリと変わりました。
-結論から言うと、あんなに頼っていた経費精算アプリもExcelも要らなくなり、マネーフォワードの画面（UI）すらほと... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yuichirominato/articles/dc8cf3915f1c6f</guid>
-      <pubDate>Sat, 08 Aug 2026 02:14:37 +0000</pubDate>
+      <title>なぜAIで作業を効率化しても、給料が上がらないのか？</title>
+      <link>https://zenn.dev/karamage/articles/976a5f8fb0f876</link>
+      <description>AIを使うことでPR作成数やコミット数は去年の同じ時期の三倍くらいの量になっているのに、仕事の報酬の振込予定額は去年とほとんど同じ数字で、愕然としました。 AIコーディングエージェントのおかげで生産性は確実に上がってるはずなのに、もらえるお金が増えてないことに改めて気づきました。 三倍の量をこなしてるの... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/karamage/articles/976a5f8fb0f876</guid>
+      <pubDate>Tue, 11 Aug 2026 12:58:47 +0000</pubDate>
     </item>
     <item>
-      <title>仕様書から保証台帳へ、GDD（保証駆動開発）のすすめ</title>
-      <link>https://zenn.dev/yktsnet/articles/202608-guarantee-driven-development</link>
-      <description>Claude Code に実装を投げるようになって、バグ修正も機能追加も、以前なら手を出さずに置いていた量までこなせるようになりました。同時に増えたのが手戻りです。直したところが次の変更で戻る、関係ないと思っていた場所が壊れる。作れる量が増えたぶん、壊す量も増えました。
-守ってくれるのはテストです。ただ、そのテストも Claude Code が書いています。走らせれば緑になり、diff をざっと見て通し、本数だけが増えていきます。そして次に手を入れるとき、いま何が守られているのかを知る方法が tests/ を上から読むことしかありません。
-かといって、変更のたびに「壊していないか全部確認... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yktsnet/articles/202608-guarantee-driven-development</guid>
-      <pubDate>Wed, 05 Aug 2026 07:42:28 +0000</pubDate>
+      <title>AIプロジェクトが失敗する本当の原因 — 「推論層のガバナンスをベンダーに渡した瞬間、あなたのAIではなくなる」</title>
+      <link>https://techfeed.io/entries/6a7bad8aec7a075ad327d757?from=rss</link>
+      <description>8月11日、Blocks and Filesが「Enterprise AI Projects fail because governance is ceded to a vendor, says CTO advisor」と題した記事を公開した。CTOアドバイザーのKeith Townsendが、エンタープライズAIプロジェクトの失敗原因はモデルやデータ層ではなく「推論層のガバナンスをベンダーに委ねてしまうこと」にあると分析しており、その論拠と独自フレームワークが詳述されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a7bad8aec7a075ad327d757?from=rss</guid>
+      <pubDate>Tue, 11 Aug 2026 23:17:29 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code で「ループエンジニアリング」を実践してみた</title>
-      <link>https://zenn.dev/tetsu_don/articles/e40b95dfc726ac</link>
-      <description>Claude Code で「ループエンジニアリング」を実践し、Maker-Checker構成で本物のバグを検出できた話
+      <title>あなたの組織で動くAIエージェントの数、答えられるか — 見えていないエージェントがセキュリティの盲点になる</title>
+      <link>https://techfeed.io/entries/6a7bad6cec7a075ad327d738?from=rss</link>
+      <description>8月12日、Infobloxのブログ筆者（同社のITリーダー視点で執筆）が「How Many AI Agents Are Running in Your Organization?」と題した記事を公開した。組織内で把握されていないAIエージェントの存在が効率性とセキュリティの両面でリスクになるという問題と、ITリーダーがとるべき発見・管理のアプローチについて詳しく論じている。「自社でエージェントが何体動いているか正確に答えられない」という書き出しが、今まさに多くの組織が直面している現実を突いている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a7bad6cec7a075ad327d738?from=rss</guid>
+      <pubDate>Tue, 11 Aug 2026 23:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>「ジムを予約して」と頼んだだけのAIが、なぜ他人の予約を消したのか？｜中島聡</title>
+      <link>https://note.com/lifeisbeautiful/n/nb95d2313f3c4</link>
+      <description>これは私のメルマガ「週刊Life is beautiful」で紹介している記事の要約・解説です。要約をこちらに書き、リンクを貼った上で私のコメントを書くというスタイルで、メルマガ本体のボリュームを減らして読みやすくすることを目的としています。 AI assistant hacks gym website in first known Australian autonomous cyb... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/lifeisbeautiful/n/nb95d2313f3c4</guid>
+      <pubDate>Wed, 12 Aug 2026 00:59:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>1日500コミットを日常にするツールを作りました ── これを使えばだれでも余裕です</title>
+      <link>https://zenn.dev/singularity/articles/ever-better-pm2</link>
+      <description>AI にどんどん書かせて、コードレビューはしない。 それで1日500コミットを、毎日出しています。
+無茶に聞こえると思いますが、条件が1つだけあります。「読まなくても壊れない足回り」が先に入っていること。 前に書いたとおり、レビューをやめられたのではなく、レビューを機械に移しただけなので。
+その足回りを作るツールを公開しました。これを使えば、だれでも500コミットは余裕です。
+ターミナルを自作したら1日500コミットを超えた話と、だからコードレビューをやめた話を書きました。どちらも、その足回りがあって初めて成立します。そして、読んで「やってみたい」と思った人から、こう言われました。
 
- はじめに
-てつどんです。データエンジニアとして 日々業務をこなしております。
-最近、バズワードのように、いろんなところで「ループエンジニアリング」というのを聞くことが多くなりました。
-そこで、今回、ループエンジニアリングというのはなんなのか、どういう使い方をするのかというのをClaudeと壁打ちして、実践してみました。
-正直、全くよく分かってない状況なので、認識として間違ってるかもしれないですが、やったことを残してみます。
-2026年6月にGoogleのエンジニ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tetsu_don/articles/e40b95dfc726ac</guid>
-      <pubDate>Sat, 08 Aug 2026 04:39:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>58% の Pull Request を AI が承認するようになった</title>
-      <link>https://zenn.dev/she_techblog/articles/937836550dfdf3</link>
-      <description>SHE株式会社の開発責任者を務めている @qsona です。
-AI コーディングの普及で開発速度は速くなったが、価値の創出はそこまで速くなっていない、というのは、多くの開発組織が感じている課題でしょう。Four Keys で測れるような(狭義の)開発生産性だけをみても、コードレビューやテストといった、品質担保のアクションがボトルネックになってきがちです。弊社 SHE においても、Pull Request レビューがボトルネックになりがちであるという議論が、半年ほど前からされていました。
-そこで、この状況に対して、AIがコードレビューおよび approve 判断まで行う仕組みを実装しました... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/she_techblog/articles/937836550dfdf3</guid>
-      <pubDate>Thu, 06 Aug 2026 21:10:44 +0000</pubDate>
+記... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/singularity/articles/ever-better-pm2</guid>
+      <pubDate>Mon, 10 Aug 2026 23:47:57 +0000</pubDate>
     </item>
     <item>
       <title>曖昧に使っていたAI周りの言葉を理解する</title>
@@ -127,37 +104,13 @@ AI
       <pubDate>Mon, 10 Aug 2026 15:10:24 +0000</pubDate>
     </item>
     <item>
-      <title>Claude が書く長いコメントは、Claude 自身の役に立っていなかった</title>
-      <link>https://zenn.dev/uzu_tech/articles/86a2ef05a7d649</link>
-      <description>はじめに
-株式会社Sally 所属エンジニアの @wellPicker です。
-弊社では、スマホやパソコンでマダミスを遊べるアプリであるウズや、マダミス情報・予約管理サイトマダミス.jp、マダミス開発ツールウズスタジオを開発しています。
-マダミスについてはこちらをご覧ください。
-Claude Code に実装させていると、コメントがやたら長くなります。気になって本人に聞いてみたところ、想定と違う答えが返ってきました。そこからルールを整備したのですが、思ったほど効かず、原因を調べたら「削れない理由」がはっきりしました。
-その一連の記録です。
-
- まず実物
-弊社バックエンド（Go）の、W... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/uzu_tech/articles/86a2ef05a7d649</guid>
-      <pubDate>Wed, 05 Aug 2026 03:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Claude Code] AIの説明が「それっぽいだけ」で終わる問題を、Skill設計で解決した話</title>
-      <link>https://zenn.dev/ncdc/articles/56d60cb79319b2</link>
-      <description>はじめに
-以前、新しく参画するプロジェクトのキャッチアップに、AIを使ったことがあります。
-「このリポジトリを読んで、アーキテクチャをまとめて」と気軽にお願いしたら、それらしいレポートが思ったより早く出てきました。
-ただ、実際に読んでみると
-
-「ECSでバックエンドを動かしています」
-
-これで終わりました。
-いや、それは知ってる。
-聞きたいのは「じゃあどう動いてるの？」の方です。ALBを経由しているのか、セキュリティグループはどう制限されているのか、そこが全然分からず知りたい情報に辿り着けませんでした。
-読んだ気にはなるのに、次の作業に進めるだけの具体性が一切ない。
-今回、自分用に「... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/56d60cb79319b2</guid>
-      <pubDate>Fri, 07 Aug 2026 09:18:18 +0000</pubDate>
+      <title>N+1 問題を、発行される SQL を数えて理解する</title>
+      <link>https://zenn.dev/mtmtdack/articles/2026-08-11-n-plus-one-counting-queries</link>
+      <description>一覧ページが遅い。SQL のログを見ると、同じ形のクエリが 100 本並んでいる。これが N+1 問題の典型的な現場です。
+この記事では、実際にコードを動かして、出た SQL とクエリ数を全部数えます。使うのは Python と SQLAlchemy ですが、起きていることは ORM が違っても同じです。
+私は普段、業務で Python のサーバーレスアプリを書いています。RDB を触る処理と外部 API を叩く処理が半々くらいで、ORM は SQLAlchemy を使っています。N+1 は言葉としては早くから知っていましたが、「なぜ遅いのか」を自分で測ったことがなかったので、手元で数え... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mtmtdack/articles/2026-08-11-n-plus-one-counting-queries</guid>
+      <pubDate>Mon, 10 Aug 2026 16:17:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
