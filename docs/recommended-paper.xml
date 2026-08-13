@@ -7,12 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 07:37:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:39:17 +0000</lastBuildDate>
     <item>
       <title>VIScore：潜在世界モデルにおける計画関連品質の診断</title>
-      <link>https://arxiv.org/abs/2608.11174v1</link>
+      <link>https://arxiv.org/abs/2608.11174v2</link>
       <description>潜在空間を等方性ガウス分布に調整することで、世界モデル計画のための安定した情報最大化ランドスケープが得られます。しかし、潜在空間の特性と計画の成功は依然として関連していません。そこで、まず、同じ分布目標を持ちながら特性が異なる2つの正則化損失関数であるSIGRegとVISRegを比較することで、この点を検討します。SIGRegと比較して、VISRegは中心、スケール、形状の正則化の重みを制御する柔軟性が高く、バッチサイズが大きいほど分布の近似精度が向上します。自己教師あり学習（SSL）では有益であるにもかかわらず、計画には役立たないのに対し、ドメイン外（OOD）データセットでは計画の成功率が向上することがわかりました。このことから、成功率と相関する要因を深く理解する必要性が示唆されます。エンコードされた潜在変数のみに焦点を当てた従来の指標とは異なり、本稿では、エンコードされた特徴量と探索ベースのプランナーの幻覚を考慮した予測器の到達可能性と能力を定量化する指標である、真実性・影響力・冷静性スコア（VIScore）を提案します。直線性、物理状態プロービング、エンパワーメントと比較すると、 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.11174v1</guid>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.11174v2</guid>
       <pubDate>Tue, 11 Aug 2026 17:34:10 +0000</pubDate>
     </item>
   </channel>

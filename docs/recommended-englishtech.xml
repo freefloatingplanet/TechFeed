@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 07:37:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:39:19 +0000</lastBuildDate>
     <item>
-      <title>TanStack Start SaaSにマルチテナント認証を追加する方法</title>
-      <link>https://workos.com/blog/how-to-add-multi-tenant-authentication-to-your-tanstack-start-saas</link>
-      <description>ほとんどのマルチテナントガイドはデータベースについて解説していますが、本書では認証レイヤーについて解説します。組織スコープのセッション、招待フロー、組織切り替え、テナントごとのSSO、そしてテナントチェックをルーティングではなくサーバー関数で行うべき理由について説明します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/how-to-add-multi-tenant-authentication-to-your-tanstack-start-saas</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <title>StreamリングのメーカーであるSandbarが、AIウェアラブルの未来は音声にあると語る理由</title>
+      <link>https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/</link>
+      <description>AIノート作成ハードウェアはここ数年で急速に普及し、クレジットカードサイズのデバイス、ペンダント、ピン、さらには文字起こしイヤホンまで、会議の内容を記録して要約やアクションアイテムに変換することを謳う製品が登場している。そして今、特に指輪などのウェアラブルデバイスが、人々が同じように思いついたことやアイデアを記録したいと考えていることに着目している。 […] (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/</guid>
+      <pubDate>Wed, 12 Aug 2026 16:46:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
