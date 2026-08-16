@@ -7,27 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 06:42:31 +0000</lastBuildDate>
-    <item>
-      <title>macOSでメモリを使い続けるCursorUIViewServiceを無効化する</title>
-      <link>https://zenn.dev/discus0434/articles/disable-cursoruiviewservice-macos</link>
-      <description>はじめに
-こんにちは。
-ここ最近、Macのメモリが妙に圧迫されているときにActivity Monitorを開くと、CursorUIViewServiceというプロセスが大量のRAMを使っていることが何度かありました。
-私の環境では、気づいたときにはメモリ使用量が約15GBまで増えていました。プロセスを強制終了すればRAMは解放されますが、しばらくMacを使っていると同じ現象が再発します。
-そこで調べてみたところ、CursorUIViewServiceが利用する新しいテキストカーソル機能自体を無効化できることがわかりました。同じ問題に当たったときのために、調べた内容と実際に試した手順... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/discus0434/articles/disable-cursoruiviewservice-macos</guid>
-      <pubDate>Tue, 11 Aug 2026 06:21:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Databricks の Declarative Automation Bundles を用いた機械学習データセット作成基盤の構築</title>
-      <link>https://zenn.dev/colum2131/articles/46b5560dce0e3a</link>
-      <description>チューリングの MLOps エンジニアの岩政です。
-チューリングでは、センサ入力から車両の将来の行動を一貫して推定する学習ベースのモデルとして End-to-End (E2E) 自動運転 AI を開発しています。E2E 自動運転 AI の学習にはデータセットが必要です。私の所属する MLOps チームが、これを作成するためのデータ基盤の開発を行っています。
-MLOps チームでは車両に搭載したカメラなどのセンサから走行データを収集し、Data Lake に格納しています。更に ETL (Extract, Transform, Load) パイプラインを通じて、数千時間以上の走行データに相... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/colum2131/articles/46b5560dce0e3a</guid>
-      <pubDate>Fri, 14 Aug 2026 09:00:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 06:44:44 +0000</lastBuildDate>
     <item>
       <title>Claude Code に「同じ指摘を二度させない」仕組みを hook で作った</title>
       <link>https://zenn.dev/nozomi720/articles/claude_code_hooks_feedback</link>
@@ -42,6 +22,34 @@ CLAUDE.md に書いても、セッションが長くなると効き目が薄れ�
 そこで、指摘そのものをファイルとして永続化し、指摘回数（count）に応じ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/nozomi720/articles/claude_code_hooks_feedback</guid>
       <pubDate>Mon, 10 Aug 2026 16:10:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>なぜ、ITの職場において低スキル者を排除することが成功のために重要だと誰も言わないのか？</title>
+      <link>https://zenn.dev/pdfractal/articles/c7af0a168c0552</link>
+      <description>はじめに ITの職場では、低スキル者を重要な仕事から排除することが、実はかなり重要な職場づくりの条件の一つです。ここでいう排除とは、要件定義、設計、顧客折衝、品質判断、技術的意思決定、レビュー承認のような高い認知負荷を伴う仕事に、適性を満たさない人を置かないという配置上の判断を指します。人格の否定や... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/pdfractal/articles/c7af0a168c0552</guid>
+      <pubDate>Sun, 16 Aug 2026 03:25:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>欧州サイトへのAIスクレイピングは北米の4倍 — robots.txtを無視するボットに対し、技術的防御の重要性が増す</title>
+      <link>https://techfeed.io/entries/6a80f19bec7a075ad32a8ad5?from=rss</link>
+      <description>8月14日、Digidayが「European publishers are getting hit harder by AI bot scraping, report finds」と題した記事を公開した。この記事では、欧州のパブリッシャーが北米と比べてAIボットによるスクレイピングの被害を大きく受けており、その原因をめぐって複数の仮説が対立している実態について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a80f19bec7a075ad32a8ad5?from=rss</guid>
+      <pubDate>Sat, 15 Aug 2026 23:09:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLMに外部ツールを呼ばせるファインチューニング完全ガイド — 公式テンプレートを使わない理由と、30イテレーションで動く実装</title>
+      <link>https://techfeed.io/entries/6a80f15eec7a075ad32a8ab4?from=rss</link>
+      <description>8月15日、MarkTechPostが「Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3」と題した記事を公開した。この記事では、XYZ-Aquila-SFTデータセットとLoRAを用いてQwen3-0.6BをツールコールLLM向けにファインチューニングするエンドツーエンドのパイプラインが詳細に紹介されている。最大の読みどころは「なぜQwen3の公式テンプレートをあえて使わないのか」という設計判断にあり、この一点を理解するだけで、マルチターンのツールコール訓練に潜む見えにくい落とし穴を回避できる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a80f15eec7a075ad32a8ab4?from=rss</guid>
+      <pubDate>Sat, 15 Aug 2026 23:08:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>AirbnbとExpediaがGraphQLモックデータをLLMで自動生成 — 「スキーマが仕様書」という発想で手書きJSONフィクスチャの管理地獄から脱出できるか</title>
+      <link>https://techfeed.io/entries/6a80f17cec7a075ad32a8abb?from=rss</link>
+      <description>8月14日、Steef-Jan Wiggersが「LLM-Generated GraphQL Mocks Arrive at Airbnb and Expedia, While the Spec Lags Behind」と題した記事を公開した。この記事では、AirbnbとExpediaがLLMを活用してGraphQLモックデータを自動生成する仕組みをそれぞれ独自に実装した事例が紹介されている。注目すべきは、6ヶ月間で3つの非互換な実装が乱立しているという事実だ。仕様策定が追いつかない中、GraphQLの「スキーマ＝仕様書」という構造的な強みが再現性問題を内包したまま先行実装として走り出している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a80f17cec7a075ad32a8abb?from=rss</guid>
+      <pubDate>Sat, 15 Aug 2026 23:08:44 +0000</pubDate>
     </item>
     <item>
       <title>BM25を使用してCodexのトークンの消費を30%抑える</title>
@@ -60,18 +68,11 @@ https://arxiv.org/abs/2607.26497
       <pubDate>Tue, 11 Aug 2026 01:08:19 +0000</pubDate>
     </item>
     <item>
-      <title>AIデータセンターの電力需要申請、72%は実態のない"幽霊"だった — 「AIが電力を食い尽くす」という語りは誇張だったのか</title>
-      <link>https://techfeed.io/entries/6a7fa17aec7a075ad329fecc?from=rss</link>
-      <description>8月14日、tftc.ioが「Wood Mackenzie: 72% of US AI Data Center Power Requests Are Phantom Load」と題した記事を公開した。この記事では、AIデータセンター向けの電力需要申請の72%が実態を伴わない「幻の負荷」であるとするWood Mackenzieの分析について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a7fa17aec7a075ad329fecc?from=rss</guid>
-      <pubDate>Fri, 14 Aug 2026 23:15:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIツールへの投資より先に「AIを管理する人間のスキル」が問われている — ROIの差は2〜3年以内に可視化される</title>
-      <link>https://techfeed.io/entries/6a7fa118ec7a075ad329feb2?from=rss</link>
-      <description>8月14日、Efficiently Connectedが「Why AI Management Skills Are Your Real ROI Gap」と題した記事を公開した。この記事は、SpaceXでHead of Training &amp; Developmentを務め、現在はリーダーシップ開発企業BUILTの創業者であるMatt Gjertsenの新著「The Minimum Viable Manager」の主張を軸に、ECI Research（Efficiently Connectedが実施する調査部門）の最新データを組み合わせた構成になっている。AIツールへの投資対効果（ROI）を左右する真のボトルネックが、ツール選定ではなく「AIを管理する人間のスキル」にあるという論点を、調査データで裏づける内容だ。なお、ECI ResearchはEfficiently Connected自身が運営する調査部門であり、記事は自社データを活用した自社メディア掲載である点は念頭に置いておきたい。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a7fa118ec7a075ad329feb2?from=rss</guid>
-      <pubDate>Fri, 14 Aug 2026 23:13:28 +0000</pubDate>
+      <title>オランダのかかりつけ医の36%がAIに診察を「聴かせて」カルテを自動生成 — 1年で14%から倍増、1診察42秒の節約と規制整備が追いつかない現状</title>
+      <link>https://techfeed.io/entries/6a80f18cec7a075ad32a8acd?from=rss</link>
+      <description>8月14日、NL Timesが「Hundreds of Dutch doctors letting AI listen in on conversations with patients」と題した記事を公開した。この記事では、オランダの数百人のかかりつけ医がAIを診察の場に導入し、会話を自動で電子カルテに記録する動きが急拡大していること、および現場での効果と課題について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a80f18cec7a075ad32a8acd?from=rss</guid>
+      <pubDate>Sat, 15 Aug 2026 23:09:00 +0000</pubDate>
     </item>
     <item>
       <title>曖昧に使っていたAI周りの言葉を理解する</title>
@@ -103,38 +104,22 @@ AI
       <pubDate>Mon, 10 Aug 2026 15:10:24 +0000</pubDate>
     </item>
     <item>
-      <title>プロンプトエンジニアリングでは「仕事を完遂」できない — AIが本当に働くために必要な「実行ループ」という設計思想</title>
-      <link>https://techfeed.io/entries/6a7fa13cec7a075ad329febb?from=rss</link>
-      <description>8月15日、Damon Garnが「Prompts vs. loops: Why prompt engineering won't build your AI workforce」と題した記事を公開した。「よい回答を生成するAI」から「仕事を完遂するAI」へ——この転換を象徴するのが、GPSナビの比喩だ。GPSは一度だけ道を教えるのではなく、進行状況を監視しながら目的地まで継続的にルートを修正し続ける。Garnはこの性質こそが、プロンプトと実行ループ（Execution Loop）の本質的な差だと論じる。LangGraph・AutoGen・OpenAI Agents SDKなど、エージェントAIのフレームワークが急速に普及する今、「プロンプトを磨く」先にある設計思想を整理した記事として注目に値する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a7fa13cec7a075ad329febb?from=rss</guid>
-      <pubDate>Fri, 14 Aug 2026 23:14:04 +0000</pubDate>
+      <title>概念設計が、その後のコードの命運を左右する</title>
+      <link>https://zenn.dev/takeshi_teshima/articles/bae79b2f0f97be</link>
+      <description>最近、ソフトウェア開発における概念設計の威力と重要さについて人に伝えたい機会が何度かあった。[1] しかし、概念の整理がなぜどのように重要なのか、という一点を取り上げて書かれたものは少ないようで、人に渡すのにちょうどよい文章や書籍が見つからなかったので、このたび私なりに咀嚼して書いてみたい。
+そのアプリケーションの世界には、そもそも何が存在するのか。
+何と何を同じものとして扱い、何と何を別のものとして扱うのか。
+この判断が合っていると、その後の実装は驚くほど素直になる。逆にここを外すと、一つ一つの実装は正しくても、仕様が増えるたびに少しずつ帳尻合わせが必要になる。
+まず、一つの小さなEC... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/takeshi_teshima/articles/bae79b2f0f97be</guid>
+      <pubDate>Fri, 14 Aug 2026 13:00:27 +0000</pubDate>
     </item>
     <item>
-      <title>自宅サーバーではじめる ローカルLLM入門 第1巻 基礎・構築編</title>
-      <link>https://zenn.dev/murasanlab/books/dcf7ed4826a797</link>
-      <description>生成AIを使って文章を書いたり、調べものをしたり、考えを整理したり……
-そのAIを「自宅のPCで動かす」という選択肢があることをご存じですか？
-
-本書は、ローカルLLMをまったく知らない方が、自宅のミニPCやデスクトップPCを「自分専用のAIが動くサーバー」へとステップアップさせるための入門書です。UbuntuとNVIDIA GPUを基本構成として、OllamaとGemma 4を導入し、家庭内の別のPCから利用できる環境を、一緒に構築していきます。GPUを持っていない方に向けて、CPUとシステムメモリで試す方法も用意しています。
-
-コマンドを丸暗記するのではなく、「LLMはどのように文章を生成するのか」「量子化とは何か」「なぜその設定が必要なのか」を一つずつ丁寧に解説します。モデルの性能やメモリの考え方から、Ubuntuの準備、GPUドライバー、モデルの導入、安全なLAN内利用、基本的な運用とトラブル対応まで、この1冊でローカルLLMの土台を築くことができます。
-
-クラウドのAIを使うだけでなく、自分の環境でAIを動かす世界へ。
-ローカルLLMへの第一歩を、ここから始めてみませんか。 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/murasanlab/books/dcf7ed4826a797</guid>
-      <pubDate>Tue, 11 Aug 2026 12:25:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜAIで作業を効率化しても、給料が上がらないのか？</title>
-      <link>https://zenn.dev/karamage/articles/976a5f8fb0f876</link>
-      <description>AIを使うことでPR作成数やコミット数は去年の同じ時期の三倍くらいの量になっているのに、仕事の報酬の振込予定額は去年とほとんど同じ数字で、愕然としました。
-AIコーディングエージェントのおかげで生産性は確実に上がってるはずなのに、もらえるお金が増えてないことに改めて気づきました。
-三倍の量をこなしてるのに去年と同じ報酬金額でなんだか損した気分です。
-時給で考えると、むしろ去年より安くなっている（泣）
-目の前で動いているエージェントは、確かに私の代わりに大量のコードを書いてくれています。なのに、なぜその成果が一円も自分の懐に落ちてこないのだろう。。。
-はぁ、AIで生産性を上げれば、賃金も... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/karamage/articles/976a5f8fb0f876</guid>
-      <pubDate>Tue, 11 Aug 2026 09:09:53 +0000</pubDate>
+      <title>「1つの事実を書き換えると推論が壊れる」— LLMの知識編集が抱える根本的な矛盾と、その解決に向けた3つのアプローチ</title>
+      <link>https://techfeed.io/entries/6a80f1c4ec7a075ad32a8ae8?from=rss</link>
+      <description>8月15日、bioengineer.orgが「Toward Principled Knowledge Editing for Large Language Language Model Reasoning」と題した記事を公開した。この記事は、Nature Machine Intelligence に掲載された論文「Towards principled knowledge editing methods for large language model reasoning」（Zhang, Yao, Qin らによる）を紹介するものであり、LLMの推論能力を損なわずに知識を更新する「知識編集」技術の現状と課題について詳しく解説している。LLMが広く社会インフラに組み込まれつつある今、モデルが持つ知識の鮮度と正確性は切実な問題になっている。医療ガイドラインの改訂、法律の施行、人事の変動——こうした現実世界の変化に追従できないAIは、信頼できる意思決定支援ツールにはなり得ない。しかし再学習は莫大なコストを要する。だからこそ「知識編集」という手法が注目を集めているのだが、論文はその手法に根本的な (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a80f1c4ec7a075ad32a8ae8?from=rss</guid>
+      <pubDate>Sat, 15 Aug 2026 23:09:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

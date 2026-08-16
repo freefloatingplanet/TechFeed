@@ -7,11 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 06:42:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:44:52 +0000</lastBuildDate>
     <item>
       <title>プレゼンテーション：適切な300トークンが10万個のノイズの多いトークンに勝る：コンテキストエンジニアリングのアーキテクチャ</title>
       <link>https://www.infoq.com/presentations/architecture-context-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Baruch SadogurskyとPatrick Deboisは、肥大化したコンテキストウィンドウと詰め込まれたプロンプトが原因でコーディングエージェントが失敗する理由について議論します。彼らは、遅延ロードされたスキル、バージョン管理されたコンテキストアーティファクト、外部化されたメモリバンク、LLMを評価ツールとして使用する評価など、実践的なコンテキストエンジニアリングの修正方法を解説します。ソフトウェアアーキテクトとエンジニアリングリーダーは、生のMarkdownファイルを信頼性の高いエージェントワークフローに変換する方法を学ぶことができます。Patrick Debois、Baruch Sadogursky著 (source: InfoQ)</description>
+      <description>Baruch SadogurskyとPatrick Deboisは、肥大化したコンテキストウィンドウと詰め込まれたプロンプトが原因でコーディングエージェントが失敗する理由について議論します。彼らは、遅延ロードされたスキル、バージョン管理されたコンテキストアーティファクト、外部化されたメモリバンク、LLMを評価ツールとして使用する評価など、実践的なコンテキストエンジニアリングの解決策を解説します。ソフトウェアアーキテクトとエンジニアリングリーダーは、生のMarkdownファイルを信頼性の高いエージェントワークフローに変換する方法を学ぶことができます。Patrick Debois、Baruch Sadogursky著 (source: InfoQ)</description>
       <guid isPermaLink="true">https://www.infoq.com/presentations/architecture-context-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
       <pubDate>Fri, 14 Aug 2026 11:00:00 +0000</pubDate>
     </item>
