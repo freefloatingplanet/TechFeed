@@ -7,101 +7,73 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 06:44:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 07:01:55 +0000</lastBuildDate>
     <item>
-      <title>Claude Code に「同じ指摘を二度させない」仕組みを hook で作った</title>
-      <link>https://zenn.dev/nozomi720/articles/claude_code_hooks_feedback</link>
-      <description>同じ指摘を、何度も繰り返している
-Claude Code を使っていて一番消耗するのは、実装の質そのものより 「先週も言ったことを今日も言っている」 ことでした。
+      <title>お金がないけどAIコーディングしたい</title>
+      <link>https://zenn.dev/dev_jp/articles/da537a095f13da</link>
+      <description>初めに
 
-「テストを先に書いて」
-「テストは hook が自動実行するから Bash で手動実行しないで」
-「GitHub Actions の uses: は SHA でピン留めして」
-
-CLAUDE.md に書いても、セッションが長くなると効き目が薄れます。そもそも「何回言ったか」がどこにも残らないので、こちらも「これ前に言ったっけ？」と分からなくなる。
-そこで、指摘そのものをファイルとして永続化し、指摘回数（count）に応じ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nozomi720/articles/claude_code_hooks_feedback</guid>
-      <pubDate>Mon, 10 Aug 2026 16:10:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜ、ITの職場において低スキル者を排除することが成功のために重要だと誰も言わないのか？</title>
-      <link>https://zenn.dev/pdfractal/articles/c7af0a168c0552</link>
-      <description>はじめに ITの職場では、低スキル者を重要な仕事から排除することが、実はかなり重要な職場づくりの条件の一つです。ここでいう排除とは、要件定義、設計、顧客折衝、品質判断、技術的意思決定、レビュー承認のような高い認知負荷を伴う仕事に、適性を満たさない人を置かないという配置上の判断を指します。人格の否定や... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/pdfractal/articles/c7af0a168c0552</guid>
-      <pubDate>Sun, 16 Aug 2026 03:25:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>欧州サイトへのAIスクレイピングは北米の4倍 — robots.txtを無視するボットに対し、技術的防御の重要性が増す</title>
-      <link>https://techfeed.io/entries/6a80f19bec7a075ad32a8ad5?from=rss</link>
-      <description>8月14日、Digidayが「European publishers are getting hit harder by AI bot scraping, report finds」と題した記事を公開した。この記事では、欧州のパブリッシャーが北米と比べてAIボットによるスクレイピングの被害を大きく受けており、その原因をめぐって複数の仮説が対立している実態について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a80f19bec7a075ad32a8ad5?from=rss</guid>
-      <pubDate>Sat, 15 Aug 2026 23:09:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLMに外部ツールを呼ばせるファインチューニング完全ガイド — 公式テンプレートを使わない理由と、30イテレーションで動く実装</title>
-      <link>https://techfeed.io/entries/6a80f15eec7a075ad32a8ab4?from=rss</link>
-      <description>8月15日、MarkTechPostが「Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3」と題した記事を公開した。この記事では、XYZ-Aquila-SFTデータセットとLoRAを用いてQwen3-0.6BをツールコールLLM向けにファインチューニングするエンドツーエンドのパイプラインが詳細に紹介されている。最大の読みどころは「なぜQwen3の公式テンプレートをあえて使わないのか」という設計判断にあり、この一点を理解するだけで、マルチターンのツールコール訓練に潜む見えにくい落とし穴を回避できる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a80f15eec7a075ad32a8ab4?from=rss</guid>
-      <pubDate>Sat, 15 Aug 2026 23:08:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>AirbnbとExpediaがGraphQLモックデータをLLMで自動生成 — 「スキーマが仕様書」という発想で手書きJSONフィクスチャの管理地獄から脱出できるか</title>
-      <link>https://techfeed.io/entries/6a80f17cec7a075ad32a8abb?from=rss</link>
-      <description>8月14日、Steef-Jan Wiggersが「LLM-Generated GraphQL Mocks Arrive at Airbnb and Expedia, While the Spec Lags Behind」と題した記事を公開した。この記事では、AirbnbとExpediaがLLMを活用してGraphQLモックデータを自動生成する仕組みをそれぞれ独自に実装した事例が紹介されている。注目すべきは、6ヶ月間で3つの非互換な実装が乱立しているという事実だ。仕様策定が追いつかない中、GraphQLの「スキーマ＝仕様書」という構造的な強みが再現性問題を内包したまま先行実装として走り出している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a80f17cec7a075ad32a8abb?from=rss</guid>
-      <pubDate>Sat, 15 Aug 2026 23:08:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>BM25を使用してCodexのトークンの消費を30%抑える</title>
-      <link>https://zenn.dev/knowledgesense/articles/9e55a3bb67729c</link>
-      <description>導入
-こんにちは、株式会社ナレッジセンスの須藤英寿です。
-今回は、コード探索にBM25を組み込むことで、回答品質とトークン消費がどのように変わるのかを、自社のコードベースで検証しました。
-きっかけは、2026年7月に公開された論文「BM25 Wins at Scale」[1]です。
-https://arxiv.org/abs/2607.26497
+アルゴリズムとかプログラミング言語とかインフラとか、自分で調べて試すのは楽しい。しかも大半がお金かからない。
+AIコーディングも自分でコードをかかないという意味ではコーディングの面白さは少ないかもしれない。
+しかし、いかにAIにコーディング作業をうまくさせられるかの探索という楽しさもある。
+現在進行形でモデルも手法も変わっていっていろいろ試したくなる。
+LLM API プロバイダの無料枠で遊んでもすぐに終わってしまう。
+課金せずに、長めに遊べる方法を探してみた。
 
 
- サマリー
-最近のコーディングエージェント、トークンの消費が激しいです。
-その中でも、特に多くのトークンを消費しているのが、「ファイルの検索」です。以前こちらでも紹介したのですが、Claude CodeやCodexは、非常にシンプルなキ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/9e55a3bb67729c</guid>
-      <pubDate>Tue, 11 Aug 2026 01:08:19 +0000</pubDate>
+ 制約と対策
+しょぼい環境でAIにたくさん働いてもらうためにどうすればいいのか、AIと相談＋Xとかで見かけた... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dev_jp/articles/da537a095f13da</guid>
+      <pubDate>Fri, 14 Aug 2026 00:35:05 +0000</pubDate>
     </item>
     <item>
-      <title>オランダのかかりつけ医の36%がAIに診察を「聴かせて」カルテを自動生成 — 1年で14%から倍増、1診察42秒の節約と規制整備が追いつかない現状</title>
-      <link>https://techfeed.io/entries/6a80f18cec7a075ad32a8acd?from=rss</link>
-      <description>8月14日、NL Timesが「Hundreds of Dutch doctors letting AI listen in on conversations with patients」と題した記事を公開した。この記事では、オランダの数百人のかかりつけ医がAIを診察の場に導入し、会話を自動で電子カルテに記録する動きが急拡大していること、および現場での効果と課題について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a80f18cec7a075ad32a8acd?from=rss</guid>
-      <pubDate>Sat, 15 Aug 2026 23:09:00 +0000</pubDate>
+      <title>ClaudeのAIレポートをインタラクティブなWebページやチャートに変換する5つのプロンプト</title>
+      <link>https://techfeed.io/entries/6a823f34ec7a075ad32afb12?from=rss</link>
+      <description>8月16日、Abhijith N Arjunanが「These 5 Claude prompts turned my plain-text research into something people actually want to read」と題した記事を公開した。ClaudeのDeep Researchが生成するレポートは情報密度が高い一方、プレーンテキスト形式のままでは読まれにくいという問題がある。この記事では、そのテキストをHTMLページ・チャート・スライドショーなどビジュアルコンテンツへ変換するための5つのプロンプトが紹介されている。「レポート生成後に追加のプロンプトを送る」だけで見栄えが劇的に変わる点が、本稿の核心だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a823f34ec7a075ad32afb12?from=rss</guid>
+      <pubDate>Sun, 16 Aug 2026 22:52:36 +0000</pubDate>
     </item>
     <item>
-      <title>曖昧に使っていたAI周りの言葉を理解する</title>
-      <link>https://zenn.dev/yoshipon_tech/articles/a51bbfcc068c1f</link>
+      <title>Databricks の Declarative Automation Bundles を用いた機械学習データセット作成基盤の構築</title>
+      <link>https://zenn.dev/colum2131/articles/46b5560dce0e3a</link>
+      <description>チューリングの MLOps エンジニアの岩政です。
+チューリングでは、センサ入力から車両の将来の行動を一貫して推定する学習ベースのモデルとして End-to-End (E2E) 自動運転 AI を開発しています。E2E 自動運転 AI の学習にはデータセットが必要です。私の所属する MLOps チームが、これを作成するためのデータ基盤の開発を行っています。
+MLOps チームでは車両に搭載したカメラなどのセンサから走行データを収集し、Data Lake に格納しています。更に ETL (Extract, Transform, Load) パイプラインを通じて、数千時間以上の走行データに相... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/colum2131/articles/46b5560dce0e3a</guid>
+      <pubDate>Fri, 14 Aug 2026 09:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>botterのためのKaggle金融予測コンペの設計史</title>
+      <link>https://zenn.dev/gamella/articles/f5e6bddab37c8d</link>
+      <description>AlpacaTechの北山です。 今回は大作、かつ、かなりマニアックな話題なので、興味のある人だけお付き合いください。 発端は以下のXのやり取りでした。 これまでJPX総研様と三井物産様のKaggle金融コンペで問題設計を担当してきました。それぞれの設計の裏側は、個別の記事にまとめています。 このあたりの話を一度まとめ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/gamella/articles/f5e6bddab37c8d</guid>
+      <pubDate>Sun, 16 Aug 2026 06:33:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>20年前に衝撃を受けたBrainGate 脳でPCカーソルを動かすBCIとAI時代</title>
+      <link>https://qiita.com/s_horikoshi/items/22804dfa955e2ce46255?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-最近仕事でAI利活用が盛んだと思います。ただよくよく話を聞くと。AIが仕様書を作ってくれる。AIがMCPを使って外部システムを触る。AIのコンテキストが足りない。人によってAIという言葉が何を指しているかが変わってきています。
-とはいえ、AIというマジックワードではなく、仕組みとして私たちの利用しているAIを理解するために調査した内容を備忘録として残していきます。
-
- 全体像の把握
-まず全体像から定義します
-
-
-
-用語
-定義
-具体例
-
-
-
-
-AI
-人間の知的な振る舞いを再現する技術の総称
-ロボット掃除機の経路探索から画像生成まで
-
-
-モデル
-学習で作られた計算エンジン。入力... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yoshipon_tech/articles/a51bbfcc068c1f</guid>
-      <pubDate>Mon, 10 Aug 2026 15:10:24 +0000</pubDate>
+2005年、頭部に埋め込んだ電極から信号を取り出し、人が考えるだけでPCのカーソルを動かす映像を見ました。
+頭部の接続部からケーブルが伸び、外部のコンピューターにつながっている。手でマウスを操作していないのに、画面上のカーソルが動く。
+「人間の脳とPCは、... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/s_horikoshi/items/22804dfa955e2ce46255?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sun, 16 Aug 2026 01:27:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIで作ったモデルの画像と「酷似」で裁判に　著作権は認められる？：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASV7R33SSV7RPTIL009M.html</link>
+      <description>生成AI（人工知能）を使って作製した画像を販売している会社が、第三者に画像を無断で使われたと訴えている。著作権の侵害だとして賠償金を請求したが、相手方が応じず、裁判で争うことになった。「AIでつくっ… (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.asahi.com/articles/ASV7R33SSV7RPTIL009M.html</guid>
+      <pubDate>Sun, 16 Aug 2026 21:36:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>ぼくのかんがえたさいきょうのCornixせってい ~最小限の運指で全ての操作を完結させ、モニターを1枚減らせた究極のキーマップ~</title>
+      <link>https://zenn.dev/gacchi/articles/my-cornix-setting</link>
+      <description>Keychronとギズモード・ジャパンが共同開発したKeychron Orca echoのクラウドファンディングが6億円に迫るなど、分割キーボードが最近盛り上がってきていますね！
+私は、昨今の盛り上がりの火付け役となったと思われるCornixを使っているのですが、いろいろと試行錯誤しながら設定を変えてきました。変更するたびに毎回「今回は完璧だな！」と思うのですが、その後にさらに良い設定を思いついたり、変更してみたら不都合が生じたりして、何度も何度も変更してきました。
+今回こそ完璧にできたと思うので、ここにその最強の設定をまとめておきます。もうこれ以上の設定はないはずなので、ここから変更す... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/gacchi/articles/my-cornix-setting</guid>
+      <pubDate>Sun, 16 Aug 2026 09:30:09 +0000</pubDate>
     </item>
     <item>
       <title>概念設計が、その後のコードの命運を左右する</title>
@@ -115,11 +87,18 @@ AI
       <pubDate>Fri, 14 Aug 2026 13:00:27 +0000</pubDate>
     </item>
     <item>
-      <title>「1つの事実を書き換えると推論が壊れる」— LLMの知識編集が抱える根本的な矛盾と、その解決に向けた3つのアプローチ</title>
-      <link>https://techfeed.io/entries/6a80f1c4ec7a075ad32a8ae8?from=rss</link>
-      <description>8月15日、bioengineer.orgが「Toward Principled Knowledge Editing for Large Language Language Model Reasoning」と題した記事を公開した。この記事は、Nature Machine Intelligence に掲載された論文「Towards principled knowledge editing methods for large language model reasoning」（Zhang, Yao, Qin らによる）を紹介するものであり、LLMの推論能力を損なわずに知識を更新する「知識編集」技術の現状と課題について詳しく解説している。LLMが広く社会インフラに組み込まれつつある今、モデルが持つ知識の鮮度と正確性は切実な問題になっている。医療ガイドラインの改訂、法律の施行、人事の変動——こうした現実世界の変化に追従できないAIは、信頼できる意思決定支援ツールにはなり得ない。しかし再学習は莫大なコストを要する。だからこそ「知識編集」という手法が注目を集めているのだが、論文はその手法に根本的な (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a80f1c4ec7a075ad32a8ae8?from=rss</guid>
-      <pubDate>Sat, 15 Aug 2026 23:09:56 +0000</pubDate>
+      <title>患者データを施設の外に出さずに医療AIを共同訓練する — 連合学習×LoRAで「一施設の壁」を越えるフレームワーク「Fed-MedLoRA」</title>
+      <link>https://techfeed.io/entries/6a82402eec7a075ad32afc4e?from=rss</link>
+      <description>8月15日、Nature.comが「Toward federated large language models in medicine: a parameter-efficient framework for privacy-preserving, multi-institutional adaptation」と題した論文を公開した。プライバシーを保護しながら複数の医療機関が協調してLLMを適応学習させるための連合学習フレームワーク「Fed-MedLoRA」を提案するもので、5つの独立した患者コホート・計42,198エンティティという規模での実証実験が行われている点が特筆される。問題の核心：医療AIは「一施設の壁」を超えられない医療向けLLMの開発において最大の障壁の一つが、データの囲い込みだ。患者情報は法規制（米国のHIPAAや、日本においては次世代医療基盤法など）やガバナンスポリシーによって施設外への持ち出しが困難であり、実際にはほとんどの医療LLMが単一施設のデータのみで訓練されている。その結果、電子カルテの記載スタイル、疾患分布、アノテーション方針が異なる別の施設に適用した途 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a82402eec7a075ad32afc4e?from=rss</guid>
+      <pubDate>Sun, 16 Aug 2026 22:56:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>写真もスワイプも廃止——HingeのMcLeodが作った新アプリは、AIが音声でパートナーを選ぶ時代を目指す</title>
+      <link>https://techfeed.io/entries/6a823f74ec7a075ad32afb97?from=rss</link>
+      <description>8月16日、El Paísが「No more photos, profiles, or matches: In the future of dating apps, AI will choose your partner」と題した記事を公開した。この記事では、Hingeの創業者が立ち上げた新アプリ「Overtone」が、写真・プロフィール・スワイプを廃止し、AIが音声会話を通じてパートナーを選ぶという新しいマッチングの形を詳しく紹介している。HingeのMcLeodが「次の一手」に選んだのは、AIによる完全代理マッチングHingeの創業者・Justin McLeodは2025年末にCEOを退任し、新たなアプリ「Overtone」の開発に着手した。Hingeは質問や会話を通じてパーソナリティを重視するアプローチで知られてきた（※編集部の考察：この点はTinderのような写真中心のアプリとの対比として知られているが、元記事における直接的な比較表現とは異なる可能性がある）。しかしMcLeodは「選択肢の多さが、かえって意思決定の指針を失わせている」と判断し、さらに踏み込んだ。Overtone (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a823f74ec7a075ad32afb97?from=rss</guid>
+      <pubDate>Sun, 16 Aug 2026 22:53:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
