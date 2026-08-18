@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 07:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:49:22 +0000</lastBuildDate>
     <item>
-      <title>プレゼンテーション：適切な300トークンが10万個のノイズの多いトークンに勝る：コンテキストエンジニアリングのアーキテクチャ</title>
-      <link>https://www.infoq.com/presentations/architecture-context-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Baruch SadogurskyとPatrick Deboisは、肥大化したコンテキストウィンドウと詰め込まれたプロンプトが原因でコーディングエージェントが失敗する理由について議論します。彼らは、遅延ロードされたスキル、バージョン管理されたコンテキストアーティファクト、外部化されたメモリバンク、LLMを評価ツールとして使用する評価など、実践的なコンテキストエンジニアリングの解決策を解説します。ソフトウェアアーキテクトとエンジニアリングリーダーは、生のMarkdownファイルを信頼性の高いエージェントワークフローに変換する方法を学ぶことができます。Patrick Debois、Baruch Sadogursky著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/architecture-context-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 14 Aug 2026 11:00:00 +0000</pubDate>
+      <title>ポッドキャスト：エージェントAIはファンタジアの魔法使いの弟子を現実世界に蘇らせるのか？：トレイシー・バノンとの対談</title>
+      <link>https://www.infoq.com/podcasts/agentic-ai-sorcerers-apprentice/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>このポッドキャストでは、マイケル・スティフェルがトレイシー・バノンと、ソフトウェアにおける人工知能の役割と、セキュリティ、ソフトウェア開発、そして社会全体におけるそれに伴うリスクについて語り合いました。ソフトウェアエコシステム内では一定の信頼関係を築くことは妥当かもしれませんが、2つのソフトウェアエコシステムの境界を越えるとリスクは増大します。トレイシー・バノン (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/podcasts/agentic-ai-sorcerers-apprentice/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 17 Aug 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

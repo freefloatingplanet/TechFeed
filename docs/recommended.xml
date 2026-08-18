@@ -7,73 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 07:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:49:16 +0000</lastBuildDate>
     <item>
-      <title>お金がないけどAIコーディングしたい</title>
-      <link>https://zenn.dev/dev_jp/articles/da537a095f13da</link>
-      <description>初めに
+      <title>一流になれないなら、境界に立てばいい｜すてぃお</title>
+      <link>https://note.com/suthio/n/ne9aad4df0e72</link>
+      <description>僕は飲食店を経営していました。 ソフトウェアエンジニアばかりが集まる場所で「飲食店をやってました」と話をすると、珍しがられます。 でも、飲食店は日本に何十万店もあります。飲食店を経営している人も、それだけいるということです。飲食店経営者の集まりに行けば、店をやっていたというだけで珍しがられることは... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/suthio/n/ne9aad4df0e72</guid>
+      <pubDate>Tue, 18 Aug 2026 02:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>JTCにいる50代窓際サラリーマンをテーマにしたAIマンガの「動かない社員の代わりにAIエージェントを使う」回の「シニアがAIをうまく使いこなす」シーンに共感</title>
+      <link>https://togetter.com/li/2734257</link>
+      <description>フォトリーマン @photoryman @jtc_ojisan2 長さんの言葉の選び方、特に行間を読ます表現にJTC特有の資料で鍛えられた強者感が感じられる。 冒頭の出オチ、良い匂いは、女と思い期待して振り返ると男だったという絶妙な感情の機微がこれだけで表現されてる。 もはや長さん作品は文学です。 2026-08-17 09:27:26 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2734257</guid>
+      <pubDate>Mon, 17 Aug 2026 18:48:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>なぜ「純国産AIは無理」なのか？　さくらとSakana AIが示す「ソブリンAI」の現実解</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2608/18/2000000544/</link>
+      <description>米中の技術覇権争いや地政学的リスクの高まりを背景に、「国産LLM」「国産AI」をうたう製品のリリースが相次いでいる。しかし、何をもって「国産」と呼ぶのかは実はあいまいだ。学習データか、モデル構造か、それとも運用環境か──。 「LLMはどこまで『国産』であるべきか？」と題した本特集では、日本企業が安全性と利便... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2608/18/2000000544/</guid>
+      <pubDate>Mon, 17 Aug 2026 23:27:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>月1800万円売るキッチンカー「むら川」に学ぶ、キッチンカービジネスで勝ち続ける技術 - おなじみ丨近くの店から、なじみの店へ。</title>
+      <link>https://onaji.me/entry/2026/08/18</link>
+      <description>月商1800万円を誇るキッチンカー・むら川に、「売れるキッチンカー」をつくるための極意を学びます。 コロナ禍を機に一気に広まったキッチンカー。 「丼もの」にメニューが集中して差別化が難しくなる中、品数が多く仕込みも大変な「海苔弁」を主力に据え、売り上げを伸ばしてきたのが「むら川」です。 7台のキッチンカ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://onaji.me/entry/2026/08/18</guid>
+      <pubDate>Tue, 18 Aug 2026 02:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>希少本の輸送状況を追跡したらAmazonのAIトレーニング施設に到着していたことが判明</title>
+      <link>https://gigazine.net/news/20260818-amazon-ai-training-with-rare-books/</link>
+      <description>Amazonが大量の物理書籍を購入し、AIの学習データとして利用するために背表紙を切り落としてスキャンしていることが、テクノロジーメディアの404 Mediaによる調査で明らかになりました。404 Mediaが大量注文された希少本の1冊に追跡装置を仕込んだところ、最終的にAmazonが書籍をデジタル化しているラスベガスの施設へ到... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20260818-amazon-ai-training-with-rare-books/</guid>
+      <pubDate>Tue, 18 Aug 2026 02:50:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>RDS Proxyを導入して、数ヶ月で撤去した話</title>
+      <link>https://zenn.dev/dress_code/articles/da536c39873876</link>
+      <description>こんにちは。
+Dress Code株式会社でプロダクトエンジニアをしているぽこひで（@pokohide）です。
+アプリ用のAurora PostgreSQLにRDS Proxyを導入し、数ヶ月運用した末に撤去しました。導入から撤去までの経緯と、判断の根拠にした実測値をまとめます。
+先に結論です。
 
-アルゴリズムとかプログラミング言語とかインフラとか、自分で調べて試すのは楽しい。しかも大半がお金かからない。
-AIコーディングも自分でコードをかかないという意味ではコーディングの面白さは少ないかもしれない。
-しかし、いかにAIにコーディング作業をうまくさせられるかの探索という楽しさもある。
-現在進行形でモデルも手法も変わっていっていろいろ試したくなる。
-LLM API プロバイダの無料枠で遊んでもすぐに終わってしまう。
-課金せずに、長めに遊べる方法を探してみた。
-
-
- 制約と対策
-しょぼい環境でAIにたくさん働いてもらうためにどうすればいいのか、AIと相談＋Xとかで見かけた... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dev_jp/articles/da537a095f13da</guid>
-      <pubDate>Fri, 14 Aug 2026 00:35:05 +0000</pubDate>
+Prismaが生成する16KB超のSQLテキストは、RDS Proxyのセッションピン留めを引き起こす。AWS全エンジン共通のハード制限で、設定では回避できない
+弊社では全クライアントセッションの約2割でピン留めが発生し、接続の多重化がほぼ機能していなかった
+月数百ドルのコストとProxy層固... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/da536c39873876</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:14 +0000</pubDate>
     </item>
     <item>
-      <title>ClaudeのAIレポートをインタラクティブなWebページやチャートに変換する5つのプロンプト</title>
-      <link>https://techfeed.io/entries/6a823f34ec7a075ad32afb12?from=rss</link>
-      <description>8月16日、Abhijith N Arjunanが「These 5 Claude prompts turned my plain-text research into something people actually want to read」と題した記事を公開した。ClaudeのDeep Researchが生成するレポートは情報密度が高い一方、プレーンテキスト形式のままでは読まれにくいという問題がある。この記事では、そのテキストをHTMLページ・チャート・スライドショーなどビジュアルコンテンツへ変換するための5つのプロンプトが紹介されている。「レポート生成後に追加のプロンプトを送る」だけで見栄えが劇的に変わる点が、本稿の核心だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a823f34ec7a075ad32afb12?from=rss</guid>
-      <pubDate>Sun, 16 Aug 2026 22:52:36 +0000</pubDate>
+      <title>裁判書類に「白背景×白文字」でAIへの命令を隠した男性が制裁を受ける — 裁判所文書への埋め込みが確認された初のプロンプトインジェクション法的事案</title>
+      <link>https://techfeed.io/entries/6a83950cec7a075ad32be426?from=rss</link>
+      <description>8月17日、Pierluigi Paganiniが「Invisible AI Prompts Trigger Court Sanctions」と題した記事を公開した。裁判書類に人間には見えない白文字でAIへの命令を仕込み、裁判所のAI審査を操作しようとした男性が、電子申請権限の剥奪という制裁を受けた。米国の裁判所を標的にした文書化済みのプロンプトインジェクション攻撃として初のケースであり、その手口に対して実際に制裁が下された最初の事案とされる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a83950cec7a075ad32be426?from=rss</guid>
+      <pubDate>Mon, 17 Aug 2026 23:11:08 +0000</pubDate>
     </item>
     <item>
-      <title>Databricks の Declarative Automation Bundles を用いた機械学習データセット作成基盤の構築</title>
-      <link>https://zenn.dev/colum2131/articles/46b5560dce0e3a</link>
-      <description>チューリングの MLOps エンジニアの岩政です。
-チューリングでは、センサ入力から車両の将来の行動を一貫して推定する学習ベースのモデルとして End-to-End (E2E) 自動運転 AI を開発しています。E2E 自動運転 AI の学習にはデータセットが必要です。私の所属する MLOps チームが、これを作成するためのデータ基盤の開発を行っています。
-MLOps チームでは車両に搭載したカメラなどのセンサから走行データを収集し、Data Lake に格納しています。更に ETL (Extract, Transform, Load) パイプラインを通じて、数千時間以上の走行データに相... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/colum2131/articles/46b5560dce0e3a</guid>
-      <pubDate>Fri, 14 Aug 2026 09:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>botterのためのKaggle金融予測コンペの設計史</title>
-      <link>https://zenn.dev/gamella/articles/f5e6bddab37c8d</link>
-      <description>AlpacaTechの北山です。 今回は大作、かつ、かなりマニアックな話題なので、興味のある人だけお付き合いください。 発端は以下のXのやり取りでした。 これまでJPX総研様と三井物産様のKaggle金融コンペで問題設計を担当してきました。それぞれの設計の裏側は、個別の記事にまとめています。 このあたりの話を一度まとめ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/gamella/articles/f5e6bddab37c8d</guid>
-      <pubDate>Sun, 16 Aug 2026 06:33:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>20年前に衝撃を受けたBrainGate 脳でPCカーソルを動かすBCIとAI時代</title>
-      <link>https://qiita.com/s_horikoshi/items/22804dfa955e2ce46255?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-2005年、頭部に埋め込んだ電極から信号を取り出し、人が考えるだけでPCのカーソルを動かす映像を見ました。
-頭部の接続部からケーブルが伸び、外部のコンピューターにつながっている。手でマウスを操作していないのに、画面上のカーソルが動く。
-「人間の脳とPCは、... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/s_horikoshi/items/22804dfa955e2ce46255?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sun, 16 Aug 2026 01:27:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIで作ったモデルの画像と「酷似」で裁判に　著作権は認められる？：朝日新聞</title>
-      <link>https://www.asahi.com/articles/ASV7R33SSV7RPTIL009M.html</link>
-      <description>生成AI（人工知能）を使って作製した画像を販売している会社が、第三者に画像を無断で使われたと訴えている。著作権の侵害だとして賠償金を請求したが、相手方が応じず、裁判で争うことになった。「AIでつくっ… (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.asahi.com/articles/ASV7R33SSV7RPTIL009M.html</guid>
-      <pubDate>Sun, 16 Aug 2026 21:36:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>ぼくのかんがえたさいきょうのCornixせってい ~最小限の運指で全ての操作を完結させ、モニターを1枚減らせた究極のキーマップ~</title>
-      <link>https://zenn.dev/gacchi/articles/my-cornix-setting</link>
-      <description>Keychronとギズモード・ジャパンが共同開発したKeychron Orca echoのクラウドファンディングが6億円に迫るなど、分割キーボードが最近盛り上がってきていますね！
-私は、昨今の盛り上がりの火付け役となったと思われるCornixを使っているのですが、いろいろと試行錯誤しながら設定を変えてきました。変更するたびに毎回「今回は完璧だな！」と思うのですが、その後にさらに良い設定を思いついたり、変更してみたら不都合が生じたりして、何度も何度も変更してきました。
-今回こそ完璧にできたと思うので、ここにその最強の設定をまとめておきます。もうこれ以上の設定はないはずなので、ここから変更す... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/gacchi/articles/my-cornix-setting</guid>
-      <pubDate>Sun, 16 Aug 2026 09:30:09 +0000</pubDate>
+      <title>AI エージェントの「認可疲れ」に効く処方箋 : 理論から実装まで</title>
+      <link>https://zenn.dev/aws_japan/articles/2b62886aa8735e</link>
+      <description>皆さんは仕事でどれぐらいのアプリケーションを使用するでしょうか。 GitHub、Slack、Notion、Outlook/Gmail・・・などの SaaS はもちろん、社内の業務システムもあるでしょう。AI エージェントに仕事を任せるとき、これらのサービスと連携させたくなるのは自然です。その時ハードルになることの一つが、連携させるための「認可」です。GitHub のための認可、Slack のための認可、認可、認可・・・と手間が増えるのは避けたいものです。
+本記事では、AI エージェントと連携するサービスが増えても認証を最初の一回のみで OK とする方法について解説します。もちろん、これは... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/2b62886aa8735e</guid>
+      <pubDate>Sun, 16 Aug 2026 13:18:26 +0000</pubDate>
     </item>
     <item>
       <title>概念設計が、その後のコードの命運を左右する</title>
@@ -81,24 +78,17 @@ MLOps チームでは車両に搭載したカメラなどのセンサから走�
       <description>最近、ソフトウェア開発における概念設計の威力と重要さについて人に伝えたい機会が何度かあった。[1] しかし、概念の整理がなぜどのように重要なのか、という一点を取り上げて書かれたものは少ないようで、人に渡すのにちょうどよい文章や書籍が見つからなかったので、このたび私なりに咀嚼して書いてみたい。
 そのアプリケーションの世界には、そもそも何が存在するのか。
 何と何を同じものとして扱い、何と何を別のものとして扱うのか。
-この判断が合っていると、その後の実装は驚くほど素直になる。逆にここを外すと、一つ一つの実装は正しくても、仕様が増えるたびに少しずつ帳尻合わせが必要になる。
-まず、一つの小さなEC... (source: Zennのトレンド)</description>
+ここの判断が合っていると、その後の実装は驚くほど素直になる。逆にここを外すと、一つ一つの実装は正しくても、仕様が増えるたびに少しずつ帳尻合わせが必要になる。
+まず、一つの小さなE... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/takeshi_teshima/articles/bae79b2f0f97be</guid>
       <pubDate>Fri, 14 Aug 2026 13:00:27 +0000</pubDate>
     </item>
     <item>
-      <title>患者データを施設の外に出さずに医療AIを共同訓練する — 連合学習×LoRAで「一施設の壁」を越えるフレームワーク「Fed-MedLoRA」</title>
-      <link>https://techfeed.io/entries/6a82402eec7a075ad32afc4e?from=rss</link>
-      <description>8月15日、Nature.comが「Toward federated large language models in medicine: a parameter-efficient framework for privacy-preserving, multi-institutional adaptation」と題した論文を公開した。プライバシーを保護しながら複数の医療機関が協調してLLMを適応学習させるための連合学習フレームワーク「Fed-MedLoRA」を提案するもので、5つの独立した患者コホート・計42,198エンティティという規模での実証実験が行われている点が特筆される。問題の核心：医療AIは「一施設の壁」を超えられない医療向けLLMの開発において最大の障壁の一つが、データの囲い込みだ。患者情報は法規制（米国のHIPAAや、日本においては次世代医療基盤法など）やガバナンスポリシーによって施設外への持ち出しが困難であり、実際にはほとんどの医療LLMが単一施設のデータのみで訓練されている。その結果、電子カルテの記載スタイル、疾患分布、アノテーション方針が異なる別の施設に適用した途 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a82402eec7a075ad32afc4e?from=rss</guid>
-      <pubDate>Sun, 16 Aug 2026 22:56:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>写真もスワイプも廃止——HingeのMcLeodが作った新アプリは、AIが音声でパートナーを選ぶ時代を目指す</title>
-      <link>https://techfeed.io/entries/6a823f74ec7a075ad32afb97?from=rss</link>
-      <description>8月16日、El Paísが「No more photos, profiles, or matches: In the future of dating apps, AI will choose your partner」と題した記事を公開した。この記事では、Hingeの創業者が立ち上げた新アプリ「Overtone」が、写真・プロフィール・スワイプを廃止し、AIが音声会話を通じてパートナーを選ぶという新しいマッチングの形を詳しく紹介している。HingeのMcLeodが「次の一手」に選んだのは、AIによる完全代理マッチングHingeの創業者・Justin McLeodは2025年末にCEOを退任し、新たなアプリ「Overtone」の開発に着手した。Hingeは質問や会話を通じてパーソナリティを重視するアプローチで知られてきた（※編集部の考察：この点はTinderのような写真中心のアプリとの対比として知られているが、元記事における直接的な比較表現とは異なる可能性がある）。しかしMcLeodは「選択肢の多さが、かえって意思決定の指針を失わせている」と判断し、さらに踏み込んだ。Overtone (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a823f74ec7a075ad32afb97?from=rss</guid>
-      <pubDate>Sun, 16 Aug 2026 22:53:40 +0000</pubDate>
+      <title>LookerのMCPサーバーがクラウドホスト型に移行 — URLだけでAIエージェントをBIツールに接続できるようになり、BI×AIエージェント開発の導入障壁が大きく下がった</title>
+      <link>https://techfeed.io/entries/6a8394fbec7a075ad32be3fc?from=rss</link>
+      <description>8月14日、xbillが「Looker's Native MCP Server with Claude Code」と題した記事を公開した。この記事では、LookerのネイティブMCPサーバーにClaude Codeを接続し、Looker CLIと組み合わせて使う実践的な手順と、その設計上の分業について詳しく紹介されている。BIツールとAIエージェントの統合は、データ分析の自動化において有力なアプローチとして注目されているが、これまでは開発者が各自の端末に重量級のバイナリをインストール・管理し続ける必要があり、導入・運用のコストが壁になっていた。今回の変更により、その摩擦が大幅に解消される。また、MCP（Model Context Protocol）はAnthropicが策定したオープンなプロトコルで、AIエージェントが外部ツールやデータソースと標準化されたインターフェースで対話するための仕様だ。LookerはGoogle Cloud傘下のBIプラットフォームであり、今回の対応はGoogle Cloud上のAIエージェント基盤との親和性をさらに高める動きといえる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a8394fbec7a075ad32be3fc?from=rss</guid>
+      <pubDate>Mon, 17 Aug 2026 23:10:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

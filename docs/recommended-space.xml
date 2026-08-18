@@ -7,13 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 07:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:49:19 +0000</lastBuildDate>
     <item>
-      <title>「短期間に何回挑戦できるか」中須賀真一教授に聞く第4世代に突入した宇宙開発時代の勝ち方と、開発スピードを支える調達DX_PR</title>
-      <link>https://sorabatake.jp/46542/</link>
-      <description>宇宙産業を取り巻く構造変化や今後の展望、また、開発現場におけるリアルな課題や、設計・調達・試作のスピード向上を支える基盤整備の重要性について、最前線で活躍するお二人にお話を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46542/</guid>
-      <pubDate>Thu, 23 Jul 2026 23:00:46 +0000</pubDate>
+      <title>40億の天体を収録した2D宇宙マップが公開　全天の4分の3をカバー</title>
+      <link>https://sorae.info/astronomy/20260815-desi-legacy-imaging-survey-map.html</link>
+      <description>こちらは、しし座の方向、地球から約3500万光年先の渦巻銀河「M96（Messier 96）」です。 幾何学的な中心からややズレた位置にある明るい中心核や非対称な渦巻腕（渦状腕）は、この銀河の名前を冠した「M96銀河群」… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260815-desi-legacy-imaging-survey-map.html</guid>
+      <pubDate>Sat, 15 Aug 2026 14:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>羽ばたく蝶のように美しい姿　ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 2899」</title>
+      <link>https://sorae.info/astronomy/20260817-ngc-2899.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 2899」。ほ座の方向、地球から約4500光年先にあります。 太陽のような比較的軽い恒星（質量は太陽の8倍以下）は、晩年を迎えると主系列星から赤色巨星に進化し、外… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260817-ngc-2899.html</guid>
+      <pubDate>Mon, 17 Aug 2026 12:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国が「長征2号丙」ロケットを打ち上げ　UAEの「SEO衛星」を軌道投入</title>
+      <link>https://sorae.info/ssn/20260817-seo-satellite.html</link>
+      <description>CASC（中国航天科技集団）は2026年8月17日、中国・山西省の太原衛星発射センターから「長征2号丙」ロケットを打ち上げ、「SEO衛星」を所定の軌道へ投入したと発表しました。 打ち上げに関する情報は以下の通りです。 打… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260817-seo-satellite.html</guid>
+      <pubDate>Mon, 17 Aug 2026 07:59:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASA天文衛星「スウィフト」の軌道上昇を行う宇宙機「LINK」ミッション継続し接近段階へ</title>
+      <link>https://sorae.info/space/20260812-swift-boost-mission.html</link>
+      <description>NASA（アメリカ航空宇宙局）は2026年8月11日付で、ガンマ線観測衛星「ニール・ゲーレルス・スウィフト（Neil Gehrels Swift）」の軌道上昇ミッションを担う無人宇宙機「LINK」について、同年7月下旬に… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260812-swift-boost-mission.html</guid>
+      <pubDate>Wed, 12 Aug 2026 02:02:18 +0000</pubDate>
     </item>
     <item>
       <title>「アイデアの実現スピードを上げるために人手は足りなくなる」ジェフ・べゾス氏が描く、宇宙と地球の未来の姿とインフラ構築の現在地【VIVATECH 2026現地レポート】</title>
@@ -21,6 +42,13 @@
       <description>欧州最大規模のテクノロジー・カンファレンス「VIVATECH 2026」において、Amaozn、そして、Blue Originの創業者であるジェフ・ベゾス氏が登壇。特別セッションで語られた、宇宙インフラ構築の現在地と今後の構想をまとめました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46617/</guid>
       <pubDate>Tue, 28 Jul 2026 23:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ハワイの望遠鏡が太陽表面の渦を史上最高の解像度で観測　太陽の謎に迫る手がかりとなるか</title>
+      <link>https://sorae.info/astronomy/20260810-sun-s-surface-inouye-solar-telescope.html</link>
+      <description>こちらは、アメリカ・ハワイ州の「ダニエル・K・イノウエ太陽望遠鏡」が2025年4月14日に観測した、太陽の表面（光球）の様子です。 人間には紫色に見える波長416nmの観測データをもとに作成されたこの画像は、NSO（アメ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260810-sun-s-surface-inouye-solar-telescope.html</guid>
+      <pubDate>Mon, 10 Aug 2026 13:11:05 +0000</pubDate>
     </item>
     <item>
       <title>「複数社から見積もりが取れる領域は開発しない」宇宙空間で巨大建造物を組み立てるSpace Quartersが宇宙関連スタートアップでIVS初優勝</title>

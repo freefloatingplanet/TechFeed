@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 07:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:49:21 +0000</lastBuildDate>
     <item>
-      <title>業務分担：証拠解釈と意思決定集約の分離</title>
-      <link>https://arxiv.org/abs/2608.14509v1</link>
-      <description>言語モデルに多数の情報源から結論を導き出すよう求めるシステムは、通常、それらを1つのプロンプトに連結します。これは、異なる要件を持つ2つの操作を混同します。情報源の解釈は、容量とコンテキストを重視します。解釈の結合は、固定された算術演算、インスタンス間の比較可能性、および何も返さないオプションを重視します。いったん分離されると、設計上の問題は、それらの間のインターフェースになります。私たちは、4つのフィールドからなる証拠タプル（仮説、信頼性バケット、根拠、由来）を提案し、それを固定することで両方の半分が決定されることを示します。また、この分離は、このようなシステムがどのように結合するかという失敗モードも明らかにします。これをカウントスケールドリフトと呼びます。正規化されていない重みの合計に閾値を設定することは、事後閾値設定とまったく同じですが、参照する情報源の数に応じてスライドする動作点で行われます。スライドは、読者の信頼性とともに大きくなります。情報源の信頼性が異なると、投票ルールと事後順序インスタンスは異なる動作をし、閾値ではそれらを調和させることができません。較正された対数尤度比 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.14509v1</guid>
-      <pubDate>Fri, 14 Aug 2026 17:24:55 +0000</pubDate>
+      <title>UniDot：大規模推薦におけるシーケンスモデリングと特徴相互作用のための統合ネットワーク</title>
+      <link>https://arxiv.org/abs/2608.16797v1</link>
+      <description>産業界のレコメンダーは、多フィールドのユーザー/アイテム特徴に基づく特徴相互作用モデルと、ユーザー行動履歴に基づくシーケンシャルモデルという、ほぼ独立して進化してきた2つのモデルファミリーに依存しています。本番システムでは、これらは緩やかにしか結合されていません。この2つを統合するために、ファクタリングマシン（FM）の観点から構築された、クリック後のコンバージョン予測のための新しいアーキテクチャであるUniDotを提案します。協調フィルタリングを支え、レコメンダーが未知のユーザーとアイテムのペアに一般化できるようにする埋め込み内積は、アテンションのクエリドットキースコアリングと同じプリミティブであるため、トークンの単一のドット積で特徴相互作用とシーケンスモデリングの両方を構成できます。 UniDot は、非連続フィールドとマルチドメインの行動シーケンスを 1 つの共有トークン空間にトークン化し、トークン混合バスとシーケンス取得バス (履歴に相互参照するアイテムトークン) が並列に実行され、MLP-Mixer 融合を介して各レイヤーの状態を交換する単一のマクロブロックを構築します。一方、 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.16797v1</guid>
+      <pubDate>Mon, 17 Aug 2026 16:52:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
