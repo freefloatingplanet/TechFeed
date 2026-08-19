@@ -7,41 +7,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 06:49:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:49:35 +0000</lastBuildDate>
     <item>
-      <title>一流になれないなら、境界に立てばいい｜すてぃお</title>
-      <link>https://note.com/suthio/n/ne9aad4df0e72</link>
-      <description>僕は飲食店を経営していました。 ソフトウェアエンジニアばかりが集まる場所で「飲食店をやってました」と話をすると、珍しがられます。 でも、飲食店は日本に何十万店もあります。飲食店を経営している人も、それだけいるということです。飲食店経営者の集まりに行けば、店をやっていたというだけで珍しがられることは... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/suthio/n/ne9aad4df0e72</guid>
-      <pubDate>Tue, 18 Aug 2026 02:54:11 +0000</pubDate>
+      <title>AIエージェントによるジム予約システムの不具合利用についてまとめてみた - piyolog</title>
+      <link>https://piyolog.hatenadiary.jp/entry/2026/08/19/101739</link>
+      <description>豪州のAI企業に勤務する技術者は、AIエージェントにジムのクラス予約を任せたところ、エージェントが予約システムのAPIに認可の不備を発見し、他の利用者の予約を無断で取り消して自身の待機順位を繰り上げていたことが、2026年8月10日の報道で明らかになりました。豪州信号局(ASD)は本事案を名指しした注意喚起を公表し... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/08/19/101739</guid>
+      <pubDate>Wed, 19 Aug 2026 01:50:06 +0000</pubDate>
     </item>
     <item>
-      <title>JTCにいる50代窓際サラリーマンをテーマにしたAIマンガの「動かない社員の代わりにAIエージェントを使う」回の「シニアがAIをうまく使いこなす」シーンに共感</title>
-      <link>https://togetter.com/li/2734257</link>
-      <description>フォトリーマン @photoryman @jtc_ojisan2 長さんの言葉の選び方、特に行間を読ます表現にJTC特有の資料で鍛えられた強者感が感じられる。 冒頭の出オチ、良い匂いは、女と思い期待して振り返ると男だったという絶妙な感情の機微がこれだけで表現されてる。 もはや長さん作品は文学です。 2026-08-17 09:27:26 (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2734257</guid>
-      <pubDate>Mon, 17 Aug 2026 18:48:07 +0000</pubDate>
+      <title>ChatGPTで見つけた商品をそのまま買える時代へ — Amazon・Walmart系クレジットカード大手がOpenAIと提携し、チャット内決済の実現を目指す</title>
+      <link>https://techfeed.io/entries/6a84e69a4fb9db9f27794e23?from=rss</link>
+      <description>8月17日、CNBCが「Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping」と題した記事を公開した。Amazon・Walmart向けクレジットカードを発行するSynchrony FinancialがOpenAIと提携し、ChatGPT内で直接決済を完結させる仕組みの構築に乗り出したことを報じている。ChatGPTで商品を買う——誰がその決済を担うかAIチャットbot内で商品を発見し、そのまま購入まで完結させる「エージェント・コマース（agentic commerce）」は、次世代ECの形として注目されている。ただし現状では、ChatGPTで見つけた商品もブランドのウェブサイトへ誘導されてから決済する流れが一般的で、チャット内での購入完結には至っていない。この課題に対応すべく、OpenAIはすでにVisaやStripeと提携し、チャット内購入の実現に向けた基盤整備を進めている。今回のSynchronyとの提携は、そこへ消費者金融・ストアカードという要素 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a84e69a4fb9db9f27794e23?from=rss</guid>
+      <pubDate>Tue, 18 Aug 2026 23:11:22 +0000</pubDate>
     </item>
     <item>
-      <title>なぜ「純国産AIは無理」なのか？　さくらとSakana AIが示す「ソブリンAI」の現実解</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2608/18/2000000544/</link>
-      <description>米中の技術覇権争いや地政学的リスクの高まりを背景に、「国産LLM」「国産AI」をうたう製品のリリースが相次いでいる。しかし、何をもって「国産」と呼ぶのかは実はあいまいだ。学習データか、モデル構造か、それとも運用環境か──。 「LLMはどこまで『国産』であるべきか？」と題した本特集では、日本企業が安全性と利便... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2608/18/2000000544/</guid>
-      <pubDate>Mon, 17 Aug 2026 23:27:10 +0000</pubDate>
+      <title>Markdownノートを日本語で全文検索できるCLI「mikke」を作った</title>
+      <link>https://zenn.dev/kimushun1101/articles/mikke-markdown-search-cli</link>
+      <description>はじめに
+学んだことや調べたことをMarkdownファイルとしてリポジトリに溜めているのですが、数百ファイルを超えたあたりから「あのメモどこだっけ」と探し回る時間が増えてきました。grepは速い一方でヒットが関連度順に並ばず、Obsidianの検索は強力なのにアプリの外（ターミナルやAIエージェント）からは使えず、既存のノート検索CLIには日本語がほぼ検索できないものが多くありました。そこで、日本語対応を最優先にしたノート検索CLI「mikke」（名前は、探し物が見つかった時の「みっけ」です）を作りました。本記事ではインストールから、AIエージェントにノートを検索させる運用までを紹介... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kimushun1101/articles/mikke-markdown-search-cli</guid>
+      <pubDate>Mon, 17 Aug 2026 21:01:59 +0000</pubDate>
     </item>
     <item>
-      <title>月1800万円売るキッチンカー「むら川」に学ぶ、キッチンカービジネスで勝ち続ける技術 - おなじみ丨近くの店から、なじみの店へ。</title>
-      <link>https://onaji.me/entry/2026/08/18</link>
-      <description>月商1800万円を誇るキッチンカー・むら川に、「売れるキッチンカー」をつくるための極意を学びます。 コロナ禍を機に一気に広まったキッチンカー。 「丼もの」にメニューが集中して差別化が難しくなる中、品数が多く仕込みも大変な「海苔弁」を主力に据え、売り上げを伸ばしてきたのが「むら川」です。 7台のキッチンカ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://onaji.me/entry/2026/08/18</guid>
-      <pubDate>Tue, 18 Aug 2026 02:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>希少本の輸送状況を追跡したらAmazonのAIトレーニング施設に到着していたことが判明</title>
-      <link>https://gigazine.net/news/20260818-amazon-ai-training-with-rare-books/</link>
-      <description>Amazonが大量の物理書籍を購入し、AIの学習データとして利用するために背表紙を切り落としてスキャンしていることが、テクノロジーメディアの404 Mediaによる調査で明らかになりました。404 Mediaが大量注文された希少本の1冊に追跡装置を仕込んだところ、最終的にAmazonが書籍をデジタル化しているラスベガスの施設へ到... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20260818-amazon-ai-training-with-rare-books/</guid>
-      <pubDate>Tue, 18 Aug 2026 02:50:48 +0000</pubDate>
+      <title>Claude Code の hook で作る「書いたら直る」ループ — 日本語明晰化プラグインを題材に</title>
+      <link>https://zenn.dev/bamboo_nova/articles/ee2fbc5daf4f45</link>
+      <description>概要
+例えば、Claude Code に日本語のドキュメントを書かせると、読解負荷の高い文がまぎれ込みます。二重否定や長すぎる一文、「重要なのは〜」のような定型句です。CLAUDE.md に「読みやすく書いて」と指示しても、毎回守られる保証はありません。指示はモデルの判断を経由するからです。
+そこで hook を使います。hook はライフサイクルの決まった時点でシェルコマンドを実行する仕組みで、モデルの判断を経由しません。この記事では、hook によるフィードバックループの設計手順を説明します。題材は、日本語明晰化プラグイン meiseki に実装した「Markdown を書いた瞬... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/bamboo_nova/articles/ee2fbc5daf4f45</guid>
+      <pubDate>Sun, 16 Aug 2026 12:45:09 +0000</pubDate>
     </item>
     <item>
       <title>RDS Proxyを導入して、数ヶ月で撤去した話</title>
@@ -58,11 +54,39 @@ Prismaが生成する16KB超のSQLテキストは、RDS Proxyのセッション�
       <pubDate>Mon, 17 Aug 2026 00:00:14 +0000</pubDate>
     </item>
     <item>
-      <title>裁判書類に「白背景×白文字」でAIへの命令を隠した男性が制裁を受ける — 裁判所文書への埋め込みが確認された初のプロンプトインジェクション法的事案</title>
-      <link>https://techfeed.io/entries/6a83950cec7a075ad32be426?from=rss</link>
-      <description>8月17日、Pierluigi Paganiniが「Invisible AI Prompts Trigger Court Sanctions」と題した記事を公開した。裁判書類に人間には見えない白文字でAIへの命令を仕込み、裁判所のAI審査を操作しようとした男性が、電子申請権限の剥奪という制裁を受けた。米国の裁判所を標的にした文書化済みのプロンプトインジェクション攻撃として初のケースであり、その手口に対して実際に制裁が下された最初の事案とされる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a83950cec7a075ad32be426?from=rss</guid>
-      <pubDate>Mon, 17 Aug 2026 23:11:08 +0000</pubDate>
+      <title>ネットワークエンジニアのためのデータ表現詳解</title>
+      <link>https://zenn.dev/moko_nw/books/au_dataex_01</link>
+      <description>📢 【連載に関するお知らせ】
+  本書は全24記事の連載作品です。目安として毎週月曜の朝および金曜の夕方に1記事ずつ更新・追加公開していく予定です（※著者の本業の都合により、スケジュールは前後する場合があります）。
+  
+  💡 【前作との関係について】
+  本書は単独でお読みいただけます。前作『ネットワークエンジニアのためのPython基礎』の読了は本書を読むための前提条件ではありません。Pythonの基礎から勉強したい方には前作が参考になりますので、必要に応じてご活用ください。
+  
+  🚀 ネットワークエンジニアのためのデータ表現詳解 — Pythonで操るインフラデータ完全攻略
+  
+  ネットワーク自動化の成否を分ける「データ表現」の扱いを、6つのフォーマット×Pythonで体系的にマスターする実践ロードマップ。
+    
+  📚 【本書で学べること（カリキュラム）】
+  
+  ✔️ 導入（第1回）：なぜ「6つのデータ表現」を極めるべきなのか？  
+  ✔️ Part 1: TXT（第2〜3回） —非構造化テキスト（CLIログ）からの正規表現抽出
+  ✔️ Part 2: C (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/moko_nw/books/au_dataex_01</guid>
+      <pubDate>Sun, 16 Aug 2026 22:37:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Coworkが全有料プランに解放 — クラウド実行でデバイスをまたいでタスクが動き続ける、月額20ドルから</title>
+      <link>https://techfeed.io/entries/6a84e6a94fb9db9f27794e39?from=rss</link>
+      <description>8月19日、RuntimeWireが「Anthropic opens Claude Cowork to every paid plan, beta label intact」と題した記事を公開した。AnthropicのエージェントサービスClaude Coworkが全有料プランに開放された。最大の変化は価格帯の拡大だけではない。エージェントのループとコード実行がAnthropicのサーバー上で動くようになったことで、デスクトップで始めたタスクをスマートフォンで確認し、ブラウザで再開できるようになった。なお、機能はベータ段階のままであり、一般提供（GA）ではない点は最初に押さえておきたい。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a84e6a94fb9db9f27794e39?from=rss</guid>
+      <pubDate>Tue, 18 Aug 2026 23:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【8月19日ランキング】LLMは「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか？／ほか19本</title>
+      <link>https://techfeed.io/categories/all/selections/daily/2026/8/19?from=rss</link>
+      <description>すべてカテゴリー 2026年8月19日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。 1位: LLMは「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか？（note.com） 2位: JTCにいる50代窓際サラリーマンをテーマにしたAIマンガの「動かない社員の代わりにAIエージェントを使う」回の「シニアがAIをうまく使いこなす」シーンに共感（togetter.com） 3位: AIコーディングを見直す企業が増えている — 「コード生成」と「ソフトウェアエンジニアリング」は別物だという現実 …ほか17本 ランキングはこちらから (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/categories/all/selections/daily/2026/8/19?from=rss</guid>
+      <pubDate>Wed, 19 Aug 2026 14:59:59 +0000</pubDate>
     </item>
     <item>
       <title>AI エージェントの「認可疲れ」に効く処方箋 : 理論から実装まで</title>
@@ -73,22 +97,15 @@ Prismaが生成する16KB超のSQLテキストは、RDS Proxyのセッション�
       <pubDate>Sun, 16 Aug 2026 13:18:26 +0000</pubDate>
     </item>
     <item>
-      <title>概念設計が、その後のコードの命運を左右する</title>
-      <link>https://zenn.dev/takeshi_teshima/articles/bae79b2f0f97be</link>
-      <description>最近、ソフトウェア開発における概念設計の威力と重要さについて人に伝えたい機会が何度かあった。[1] しかし、概念の整理がなぜどのように重要なのか、という一点を取り上げて書かれたものは少ないようで、人に渡すのにちょうどよい文章や書籍が見つからなかったので、このたび私なりに咀嚼して書いてみたい。
-そのアプリケーションの世界には、そもそも何が存在するのか。
-何と何を同じものとして扱い、何と何を別のものとして扱うのか。
-ここの判断が合っていると、その後の実装は驚くほど素直になる。逆にここを外すと、一つ一つの実装は正しくても、仕様が増えるたびに少しずつ帳尻合わせが必要になる。
-まず、一つの小さなE... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/takeshi_teshima/articles/bae79b2f0f97be</guid>
-      <pubDate>Fri, 14 Aug 2026 13:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>LookerのMCPサーバーがクラウドホスト型に移行 — URLだけでAIエージェントをBIツールに接続できるようになり、BI×AIエージェント開発の導入障壁が大きく下がった</title>
-      <link>https://techfeed.io/entries/6a8394fbec7a075ad32be3fc?from=rss</link>
-      <description>8月14日、xbillが「Looker's Native MCP Server with Claude Code」と題した記事を公開した。この記事では、LookerのネイティブMCPサーバーにClaude Codeを接続し、Looker CLIと組み合わせて使う実践的な手順と、その設計上の分業について詳しく紹介されている。BIツールとAIエージェントの統合は、データ分析の自動化において有力なアプローチとして注目されているが、これまでは開発者が各自の端末に重量級のバイナリをインストール・管理し続ける必要があり、導入・運用のコストが壁になっていた。今回の変更により、その摩擦が大幅に解消される。また、MCP（Model Context Protocol）はAnthropicが策定したオープンなプロトコルで、AIエージェントが外部ツールやデータソースと標準化されたインターフェースで対話するための仕様だ。LookerはGoogle Cloud傘下のBIプラットフォームであり、今回の対応はGoogle Cloud上のAIエージェント基盤との親和性をさらに高める動きといえる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a8394fbec7a075ad32be3fc?from=rss</guid>
-      <pubDate>Mon, 17 Aug 2026 23:10:51 +0000</pubDate>
+      <title>AIエージェントはなぜテストを握り潰すのか ― 報酬エンジニアリングのすすめ</title>
+      <link>https://zenn.dev/ito/articles/6b042aa27d65bc</link>
+      <description>はじめに
+AIコーディングエージェントに仕事を任せていると、たまにギョッとする瞬間があります。
+通らないテストを skip にして「全テストがパスしました！」と報告してくる。アサーションを緩めて辻褄を合わせる。ひどい時にはテストの期待値の方を実装に合わせて書き換えて、堂々と完了報告をしてくる。
+そして「テストを勝手に変更してはいけません」と怒ると、その通りです、と悪びれもせず実装をやり直します。このような振る舞いにストレスを感じながら仕事をしています。
+この挙動を「まだAIが未熟だから」と解釈している人は多いと思います。つまりモデルが賢くなれば自然に直る、一時的なバグのようなものだと... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ito/articles/6b042aa27d65bc</guid>
+      <pubDate>Mon, 17 Aug 2026 13:31:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

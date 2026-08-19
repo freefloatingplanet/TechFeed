@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 06:49:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:49:40 +0000</lastBuildDate>
     <item>
-      <title>UniDot：大規模推薦におけるシーケンスモデリングと特徴相互作用のための統合ネットワーク</title>
-      <link>https://arxiv.org/abs/2608.16797v1</link>
-      <description>産業界のレコメンダーは、多フィールドのユーザー/アイテム特徴に基づく特徴相互作用モデルと、ユーザー行動履歴に基づくシーケンシャルモデルという、ほぼ独立して進化してきた2つのモデルファミリーに依存しています。本番システムでは、これらは緩やかにしか結合されていません。この2つを統合するために、ファクタリングマシン（FM）の観点から構築された、クリック後のコンバージョン予測のための新しいアーキテクチャであるUniDotを提案します。協調フィルタリングを支え、レコメンダーが未知のユーザーとアイテムのペアに一般化できるようにする埋め込み内積は、アテンションのクエリドットキースコアリングと同じプリミティブであるため、トークンの単一のドット積で特徴相互作用とシーケンスモデリングの両方を構成できます。 UniDot は、非連続フィールドとマルチドメインの行動シーケンスを 1 つの共有トークン空間にトークン化し、トークン混合バスとシーケンス取得バス (履歴に相互参照するアイテムトークン) が並列に実行され、MLP-Mixer 融合を介して各レイヤーの状態を交換する単一のマクロブロックを構築します。一方、 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.16797v1</guid>
-      <pubDate>Mon, 17 Aug 2026 16:52:56 +0000</pubDate>
+      <title>既知の物理法則を用いたフロー整合エネルギーの構成：PDE場における生成、OOD検出、および反転</title>
+      <link>https://arxiv.org/abs/2608.18004v1</link>
+      <description>物理場の確率的モデリングは、データ駆動型の事前分布と、支配方程式などの既知の物理構造の両方から恩恵を受ける。エネルギーベースモデル（EBM）は、エネルギーが加算的に構成されるため、推論中に物理情報を拡張できるため、自然な適合性がある。しかし、EBMは扱いにくい分配関数のため、トレーニングとサンプリングが困難であった。本研究では、ポテンシャル誘起速度を持つ流れマッチングモデルが、すべての輸送時間で明示的なスカラーエネルギーを生成し、その勾配が変換された学習済みスコアと正確に一致し、集団最適値で周辺負対数密度を回復することを示す。時間依存エネルギー関数は、変分形式や追加のMCMCステップなしで、独立した線形ガウス補間に対するマッチング回帰目的から純粋に得られ、サンプリングは流れODEを保持する。トレーニング済みモデルからのエネルギー関数へのアクセスは、エネルギー補正データ生成、分布外（OOD）検出のためのスコアリング関数としてのエネルギー、および逆問題のためのエネルギー構成事後サンプリングの3つの役割を果たす。特に、明示的なエネルギーを用いることで、予測子・修正子サンプリングフレームワーク (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.18004v1</guid>
+      <pubDate>Tue, 18 Aug 2026 16:53:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
