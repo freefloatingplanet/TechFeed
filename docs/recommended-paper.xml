@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 06:49:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 06:51:48 +0000</lastBuildDate>
     <item>
-      <title>既知の物理法則を用いたフロー整合エネルギーの構成：PDE場における生成、OOD検出、および反転</title>
-      <link>https://arxiv.org/abs/2608.18004v1</link>
-      <description>物理場の確率的モデリングは、データ駆動型の事前分布と、支配方程式などの既知の物理構造の両方から恩恵を受ける。エネルギーベースモデル（EBM）は、エネルギーが加算的に構成されるため、推論中に物理情報を拡張できるため、自然な適合性がある。しかし、EBMは扱いにくい分配関数のため、トレーニングとサンプリングが困難であった。本研究では、ポテンシャル誘起速度を持つ流れマッチングモデルが、すべての輸送時間で明示的なスカラーエネルギーを生成し、その勾配が変換された学習済みスコアと正確に一致し、集団最適値で周辺負対数密度を回復することを示す。時間依存エネルギー関数は、変分形式や追加のMCMCステップなしで、独立した線形ガウス補間に対するマッチング回帰目的から純粋に得られ、サンプリングは流れODEを保持する。トレーニング済みモデルからのエネルギー関数へのアクセスは、エネルギー補正データ生成、分布外（OOD）検出のためのスコアリング関数としてのエネルギー、および逆問題のためのエネルギー構成事後サンプリングの3つの役割を果たす。特に、明示的なエネルギーを用いることで、予測子・修正子サンプリングフレームワーク (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.18004v1</guid>
-      <pubDate>Tue, 18 Aug 2026 16:53:08 +0000</pubDate>
+      <title>視覚言語モデルを回避するための最も弱いリンクを断ち切る</title>
+      <link>https://arxiv.org/abs/2608.18938v1</link>
+      <description>視覚言語モデル（VLM）は、近年、マルチモーダルAIシステムの重要な構成要素として登場し、現実世界や安全性が重視されるアプリケーションにおいて、視覚情報とテキスト情報を統合的に推論することを可能にしました。しかし、その普及が進む一方で、特にマルチモーダルアライメントを標的とした回避攻撃に対するVLMの堅牢性については、まだ十分に研究されていません。本研究では、視覚入力に適用される敵対的摂動に対するVLMの脆弱性を調査し、2つの攻撃設定を検討します。1つは、モデルの元の画像解釈を妨害することを目的とする非標的型攻撃、もう1つは、元の画像とは無関係な特定の意味記述をモデルに生成させることを目的とする標的型攻撃です。敵対的サンプルを効率的に生成するために、マルチモーダルアーキテクチャ全体ではなく、VLMのビジョンエンコーダのみで最適化を実行する勾配ベースの攻撃手法を提案します。この設計により、攻撃の計算コストとリソース要件が大幅に削減され、高い有効性が維持されます。我々は、Qwen2.5-VL、Granite-Vision、FastVLM、Phi-3.5-Visionなど、複数のオープンソー (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.18938v1</guid>
+      <pubDate>Wed, 19 Aug 2026 14:06:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 06:49:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 06:51:49 +0000</lastBuildDate>
     <item>
-      <title>ポッドキャスト：エージェントAIはファンタジアの魔法使いの弟子を現実世界に蘇らせるのか？：トレイシー・バノンとの対談</title>
-      <link>https://www.infoq.com/podcasts/agentic-ai-sorcerers-apprentice/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>このポッドキャストでは、マイケル・スティフェルがトレイシー・バノンと、ソフトウェアにおける人工知能の役割と、セキュリティ、ソフトウェア開発、そして社会全体におけるそれに伴うリスクについて語り合いました。ソフトウェアエコシステム内では一定の信頼関係を築くことは妥当かもしれませんが、2つのソフトウェアエコシステムの境界を越えるとリスクは増大します。トレイシー・バノン (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/podcasts/agentic-ai-sorcerers-apprentice/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 17 Aug 2026 11:00:00 +0000</pubDate>
+      <title>TanStack Start SaaSにマルチテナント認証を追加する方法</title>
+      <link>https://workos.com/blog/how-to-add-multi-tenant-authentication-to-your-tanstack-start-saas</link>
+      <description>ほとんどのマルチテナントガイドはデータベースについて解説していますが、本書では認証レイヤーについて解説します。組織スコープのセッション、招待フロー、組織切り替え、テナントごとのSSO、そしてテナントチェックをルーティングではなくサーバー関数で行うべき理由について説明します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/how-to-add-multi-tenant-authentication-to-your-tanstack-start-saas</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
