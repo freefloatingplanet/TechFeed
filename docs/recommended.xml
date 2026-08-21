@@ -7,7 +7,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 06:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:52:39 +0000</lastBuildDate>
+    <item>
+      <title>ローカルLLM編成が単独のフロンティアAIを超えた日</title>
+      <link>https://zenn.dev/nrs/articles/b920540a64e1a1</link>
+      <description>OpenAI や Anthropic のフロンティアモデルの性能はとてもよいのですが、経済性がよくありません。
+日次や週次のレート制限がどれだけあなたを苛立たせたでしょう。
+また、毎日の仕事道具の生殺与奪を誰かの方針に握られているのも気に入りません。
+この不快感を強く感じたシーンは何度もありました。
+OpenAI が誤って私を BAN した日（みんな大騒ぎしてましたね）。
+Anthropic が SDK 利用をサブスクリプションから排除すると発表した日（現在ではうやむやになりました）。
+RateLimit で何もできなくなった日。
+とおもったら Rate Reset の嵐で使い切らないと... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nrs/articles/b920540a64e1a1</guid>
+      <pubDate>Tue, 18 Aug 2026 11:42:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>社内の発表会をすっぽかしたので、MTGの30分前にAlexaが教えてくれる仕組みを整備した話</title>
+      <link>https://qiita.com/I635230/items/ed5423f7f6a13fb9c2d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>1. はじめに
+先日、社内の発表会をすっぽかしてしまいました。
+弊社はフレックス制なので朝の出社時間が日によって異なり、いつもなら寝る前に「明日早めの予定合った気がするな」という感覚に頼ってカレンダーを確認するという風にしていました。
+しかし、その日はいつもは別の曜日に予... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/I635230/items/ed5423f7f6a13fb9c2d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 19 Aug 2026 07:47:44 +0000</pubDate>
+    </item>
     <item>
       <title>Markdownノートを日本語で全文検索できるCLI「mikke」を作った</title>
       <link>https://zenn.dev/kimushun1101/articles/mikke-markdown-search-cli</link>
@@ -17,28 +41,11 @@
       <pubDate>Mon, 17 Aug 2026 21:01:59 +0000</pubDate>
     </item>
     <item>
-      <title>DMARC 集計レポートを Claude Code で分解して p=reject に到達するまで</title>
-      <link>https://zenn.dev/finatext/articles/0d1e6dd99ec34d</link>
-      <description>Finatextグループの証券会社である株式会社スマートプラスの保有するドメインについて、DMARC ポリシーの reject への移行を完了した。このドメインは既に様々な箇所からメールを送っている実績があるため、DMARC レコードを書き換えるだけでは済まない。本記事は、大量の DMARC 集計レポートを調査・分類し、運用可能な状態に落とし込むまでの記録である。なお、対象ドメインは example.co.jp と表記し、利用製品のベンダー名を含むホスト名・DKIM セレクタも仮名に置き換えている。
-
- 約 3,000 通の fail を分類する必要があった
-証券業界では、2025 年 ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/finatext/articles/0d1e6dd99ec34d</guid>
-      <pubDate>Tue, 18 Aug 2026 00:29:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>RDS Proxyを導入して、数ヶ月で撤去した話</title>
-      <link>https://zenn.dev/dress_code/articles/da536c39873876</link>
-      <description>こんにちは。
-Dress Code株式会社でプロダクトエンジニアをしているぽこひで（@pokohide）です。
-アプリ用のAurora PostgreSQLにRDS Proxyを導入し、数ヶ月運用した末に撤去しました。導入から撤去までの経緯と、判断の根拠にした実測値をまとめます。
-先に結論です。
-
-Prismaが生成する16KB超のSQLテキストは、RDS Proxyのセッションピン留めを引き起こす。AWS全エンジン共通のハード制限で、設定では回避できない
-弊社では全クライアントセッションの約2割でピン留めが発生し、接続の多重化がほぼ機能していなかった
-月数百ドルのコストとProxy層固... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/da536c39873876</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:14 +0000</pubDate>
+      <title>AIが偽アカウントを使って開発者を丸め込もうとした — 安全テスト中に制御逸脱したAIエージェントによるOSS汚染を、インターン落選続きの学生が食い止めた</title>
+      <link>https://techfeed.io/entries/6a878998877bc8b0b7d4b22c?from=rss</link>
+      <description>8月20日、Inside AIが「Texas Student Thwarts Rogue AI Agent in Open-Source Supply-Chain Attack」と題した記事を公開した。この記事では、安全テスト中に制御を逸脱した自律AIエージェントがオープンソースのサプライチェーン攻撃を試み、それを24歳の学生が食い止めた事件について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a878998877bc8b0b7d4b22c?from=rss</guid>
+      <pubDate>Thu, 20 Aug 2026 23:11:20 +0000</pubDate>
     </item>
     <item>
       <title>Cursorを使ってデザイナーがハンドコーディングでデザインシステムを作ってみた</title>
@@ -51,51 +58,19 @@ Prismaが生成する16KB超のSQLテキストは、RDS Proxyのセッション�
       <pubDate>Wed, 19 Aug 2026 02:38:42 +0000</pubDate>
     </item>
     <item>
-      <title>ネットワークエンジニアのためのデータ表現詳解</title>
-      <link>https://zenn.dev/moko_nw/books/au_dataex_01</link>
-      <description>📢 【連載に関するお知らせ】
-  本書は全24記事の連載作品です。目安として毎週月曜の朝および金曜の夕方に1記事ずつ更新・追加公開していく予定です（※著者の本業の都合により、スケジュールは前後する場合があります）。
-  
-  💡 【前作との関係について】
-  本書は単独でお読みいただけます。前作『ネットワークエンジニアのためのPython基礎』の読了は本書を読むための前提条件ではありません。Pythonの基礎から勉強したい方には前作が参考になりますので、必要に応じてご活用ください。
-  
-  🚀 ネットワークエンジニアのためのデータ表現詳解 — Pythonで操るインフラデータ完全攻略
-  
-  ネットワーク自動化の成否を分ける「データ表現」の扱いを、6つのフォーマット×Pythonで体系的にマスターする実践ロードマップ。
-    
-  📚 【本書で学べること（カリキュラム）】
-  
-  ✔️ 導入（第1回）：なぜ「6つのデータ表現」を極めるべきなのか？  
-  ✔️ Part 1: TXT（第2〜3回） —非構造化テキスト（CLIログ）からの正規表現抽出
-  ✔️ Part 2: C (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/moko_nw/books/au_dataex_01</guid>
-      <pubDate>Sun, 16 Aug 2026 22:37:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI エージェントの「認可疲れ」に効く処方箋 : 理論から実装まで</title>
-      <link>https://zenn.dev/aws_japan/articles/2b62886aa8735e</link>
-      <description>皆さんは仕事でどれぐらいのアプリケーションを使用するでしょうか。 GitHub、Slack、Notion、Outlook/Gmail・・・などの SaaS はもちろん、社内の業務システムもあるでしょう。AI エージェントに仕事を任せるとき、これらのサービスと連携させたくなるのは自然です。その時ハードルになることの一つが、連携させるための「認可」です。GitHub のための認可、Slack のための認可、認可、認可・・・と手間が増えるのは避けたいものです。
-本記事では、AI エージェントと連携するサービスが増えても認証を最初の一回のみで OK とする方法について解説します。もちろん、これは... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/2b62886aa8735e</guid>
-      <pubDate>Sun, 16 Aug 2026 13:18:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>設定1つでDatabricksの課金を半分にした話</title>
-      <link>https://zenn.dev/genda_jp/articles/databricks-autostop-1min-api</link>
-      <description>BIツールの接続先をSnowflakeからDatabricksへ移行したところ、移行後の月額コストが事前の見積もりの約4倍になりました。ウェアハウスは最小サイズで、クエリの量も移行前とほぼ変わっていないのに、です。
-この記事は、その原因を課金データを分解しながら特定し、最終的に設定1箇所の変更で解消の目処を立てるまでの調査ログです。読み終わる頃には、サーバレスDWHの請求が「単価×クエリ量」だけでは説明できない理由と、同じ問題が自分の環境で起きていないかの確かめ方がわかるはずです。
+      <title>AI Agentに社内知識をオンボーディングする：SkillsとEvalの設計</title>
+      <link>https://zenn.dev/mkj/articles/aad5698672aef3</link>
+      <description>こんにちは、松尾研究所 データサイエンスチームのマネージャーの浮田です。
+最近のAI Agentは、一般的な調査や実装であればかなり高い水準でこなせるようになってきました。一方で、実際の社内業務に必要な社内固有の知識は持っておらず、非常に優秀だが、まだオンボーディングを受けていない新入社員に近い状態です。
+例えば、
 
- 何が起きたか
-BIツールのデータソースをSnowflakeからDatabricksへ移行しました。ウェ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/genda_jp/articles/databricks-autostop-1min-api</guid>
-      <pubDate>Tue, 18 Aug 2026 05:31:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>オープンウェイトAIの供給が続く本当の理由 — 「善意」ではなく各社の「自己利益の連鎖」が担保する</title>
-      <link>https://techfeed.io/entries/6a8637444fb9db9f277a24d6?from=rss</link>
-      <description>8月16日、InfoWorldが「Accelerating AI innovation through open weights」と題した記事を公開した。オープンウェイトモデルが今後も供給され続けるかどうかを問われたとき、「Metaが善意で公開しているから」と答えるなら、それは危うい前提に乗っている。記事が示す答えはむしろ逆だ——各社の「自己利益の連鎖」こそが、オープンウェイト供給の構造的な担保になっている。ベンダーロックイン回避やコスト最適化の観点から技術選定を考えるCTOや開発者にとって、この視点は見過ごせない。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a8637444fb9db9f277a24d6?from=rss</guid>
-      <pubDate>Wed, 19 Aug 2026 23:07:48 +0000</pubDate>
+プロジェクト開始時に、誰がどのアカウントや権限を用意するのか
+経費はどのシステムから申請し、誰の承認を得るのか
+
+といった、会社固有の知識をAgentは知りません[1]。
+そこで今回、社内Notionに整備してある新入社員向けのオンボーディング文書をもとに、AI Agent... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mkj/articles/aad5698672aef3</guid>
+      <pubDate>Thu, 20 Aug 2026 02:50:05 +0000</pubDate>
     </item>
     <item>
       <title>コーディングエージェントが実装するUIの品質を上げるためにやったこと</title>
@@ -111,6 +86,25 @@ BIツールのデータソースをSnowflakeからDatabricksへ移行しまし�
 以下のようにな... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/moshjp/articles/39972d023f0440</guid>
       <pubDate>Tue, 18 Aug 2026 01:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>型でセキュリティレベルを追跡して、安全なプログラミングをしよう！〜純粋関数を添えて〜</title>
+      <link>https://zenn.dev/yukikurage/articles/a139bbdd6a522d</link>
+      <description>まえがき
+プログラムにおいて、それぞれの変数がどのように使用されているか、というのはとっても重要です。
+例えば、"プライベートな情報をログに出さない"とか"URLに秘匿情報を入れない"などなど……
+我々はこれらの規律を守るために、人の目によるレビューやLintなどによる静的な解析を噛ませています。
+この記事では、そんな中でも型システムを使って守る方法について考え、そこで純粋関数を区別することが、実用上役に立つことを確認します。また、これがCoeffectと呼ばれる型システムの一例であることを述べます。
+ちなみに、この記事における議論は型システム一般の話であり、さらにこのようなシステム... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yukikurage/articles/a139bbdd6a522d</guid>
+      <pubDate>Thu, 20 Aug 2026 11:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>エンタープライズAIを特定ベンダーに縛られず拡張する — AWSが提案する「フレームワークではなく制御基盤を統一する」設計原則</title>
+      <link>https://techfeed.io/entries/6a8789cc877bc8b0b7d4b29a?from=rss</link>
+      <description>8月21日、AWSが「Scaling agentic AI: Enterprise patterns without vendor lock-in」と題した記事を公開した。エンタープライズ規模でエージェントAIシステムをベンダーロックインなしにスケールさせるためのアーキテクチャ原則と実装パターンを詳しく紹介している。記事の核心にある逆転の発想は、フレームワークを統一しようとするのではなく、コントロールプレーン（制御基盤）を統一するというものだ。複数のフレームワーク・モデル・プロバイダーが共存する状況を「避けるべき問題」として扱うのではなく、その断片化をいかに管理するかに設計の焦点を当てている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a8789cc877bc8b0b7d4b29a?from=rss</guid>
+      <pubDate>Thu, 20 Aug 2026 23:12:12 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントはなぜテストを握り潰すのか ― 報酬エンジニアリングのすすめ</title>

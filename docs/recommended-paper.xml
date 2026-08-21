@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 06:51:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:52:47 +0000</lastBuildDate>
     <item>
-      <title>視覚言語モデルを回避するための最も弱いリンクを断ち切る</title>
-      <link>https://arxiv.org/abs/2608.18938v1</link>
-      <description>視覚言語モデル（VLM）は、近年、マルチモーダルAIシステムの重要な構成要素として登場し、現実世界や安全性が重視されるアプリケーションにおいて、視覚情報とテキスト情報を統合的に推論することを可能にしました。しかし、その普及が進む一方で、特にマルチモーダルアライメントを標的とした回避攻撃に対するVLMの堅牢性については、まだ十分に研究されていません。本研究では、視覚入力に適用される敵対的摂動に対するVLMの脆弱性を調査し、2つの攻撃設定を検討します。1つは、モデルの元の画像解釈を妨害することを目的とする非標的型攻撃、もう1つは、元の画像とは無関係な特定の意味記述をモデルに生成させることを目的とする標的型攻撃です。敵対的サンプルを効率的に生成するために、マルチモーダルアーキテクチャ全体ではなく、VLMのビジョンエンコーダのみで最適化を実行する勾配ベースの攻撃手法を提案します。この設計により、攻撃の計算コストとリソース要件が大幅に削減され、高い有効性が維持されます。我々は、Qwen2.5-VL、Granite-Vision、FastVLM、Phi-3.5-Visionなど、複数のオープンソー (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.18938v1</guid>
-      <pubDate>Wed, 19 Aug 2026 14:06:31 +0000</pubDate>
+      <title>QUASAR：SAR衛星物理層認証のための量子古典ニューラルネットワーク</title>
+      <link>https://arxiv.org/abs/2608.20240v1</link>
+      <description>XバンドSAR衛星（8～12GHz）は、災害対応、環境モニタリング、軍事情報において重要な役割を果たしています。しかし、暗号化ソリューションとは直交するセキュリティ層である堅牢な物理層認証（PLA）が欠けています。既存のPLAシステムは、一般的に無線周波数フィンガープリンティングに基づいており、多くの場合6GHz以下の周波数に制限され、古典的な深層学習に依存しています。しかし、このアプローチでは、衛星ハードウェアを区別するIQ位相非線形性を十分に適合させることができません。本論文では、我々の知る限り、CNNスペクトログラムエンコーダと変分量子回路（VQC）を融合してXバンドSAR信号にPLAを提供する初の量子古典ハイブリッドアーキテクチャであるQUASARを紹介します。我々のソリューションには、2つの特徴があります。（i）古典的な機械学習よりもデータ効率が著しく高く、古典的なベースラインの精度に匹敵するために必要なトレーニングデータはわずか10%です。データ収集は、PLAの中で最も時間のかかるフェーズとして知られています。（ii）同じデータ予算で、これらのベースラインよりも分類精度が向 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.20240v1</guid>
+      <pubDate>Thu, 20 Aug 2026 16:31:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

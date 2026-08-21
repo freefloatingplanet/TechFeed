@@ -7,27 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 06:51:46 +0000</lastBuildDate>
-    <item>
-      <title>40億の天体を収録した2D宇宙マップが公開　全天の4分の3をカバー</title>
-      <link>https://sorae.info/astronomy/20260815-desi-legacy-imaging-survey-map.html</link>
-      <description>こちらは、しし座の方向、地球から約3500万光年先の渦巻銀河「M96（Messier 96）」です。 幾何学的な中心からややズレた位置にある明るい中心核や非対称な渦巻腕（渦状腕）は、この銀河の名前を冠した「M96銀河群」… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260815-desi-legacy-imaging-survey-map.html</guid>
-      <pubDate>Sat, 15 Aug 2026 14:05:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>「短期間に何回挑戦できるか」中須賀真一教授に聞く第4世代に突入した宇宙開発時代の勝ち方と、開発スピードを支える調達DX_PR</title>
-      <link>https://sorabatake.jp/46542/</link>
-      <description>宇宙産業を取り巻く構造変化や今後の展望、また、開発現場におけるリアルな課題や、設計・調達・試作のスピード向上を支える基盤整備の重要性について、最前線で活躍するお二人にお話を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46542/</guid>
-      <pubDate>Thu, 23 Jul 2026 23:00:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 06:52:44 +0000</lastBuildDate>
     <item>
       <title>羽ばたく蝶のように美しい姿　ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 2899」</title>
       <link>https://sorae.info/astronomy/20260817-ngc-2899.html</link>
       <description>こちらは、ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 2899」。ほ座の方向、地球から約4500光年先にあります。 太陽のような比較的軽い恒星（質量は太陽の8倍以下）は、晩年を迎えると主系列星から赤色巨星に進化し、外… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260817-ngc-2899.html</guid>
       <pubDate>Mon, 17 Aug 2026 12:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>ハッブル宇宙望遠鏡が観測した“逆S字”型の惑星状星雲「NGC 5189」</title>
+      <link>https://sorae.info/astronomy/20260820-ngc-5189.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 5189」。はえ座の方向、地球から約1780光年先にあります。 星雲の中央を左右に貫く青白い帯状の構造は、高密度なガスの領域です。そこから放射状に伸びたオレンジ色… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260820-ngc-5189.html</guid>
+      <pubDate>Thu, 20 Aug 2026 12:33:37 +0000</pubDate>
     </item>
     <item>
       <title>中国が「長征2号丙」ロケットを打ち上げ　UAEの「SEO衛星」を軌道投入</title>
@@ -77,6 +70,13 @@
       <description>大質量星が超新星爆発を起こして恒星としての生涯を終える時、まるでその瞬間を伝えるかのように、ごく短時間の閃光が最初に放たれるといいます。今回、この閃光を捉えるとともに、超新星爆発の全貌を追跡観測することに成功したとする研… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260819-sn-2026gzf.html</guid>
       <pubDate>Wed, 19 Aug 2026 02:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>火星の衛星「ダイモス」の巨大な窪地と滑らかな表面はたった1回の衝突で形成された？</title>
+      <link>https://sorae.info/astronomy/20260820-deimos.html</link>
+      <description>火星を公転する2つの衛星のうち、外側の「Deimos（ダイモス）」は直径約12kmのいびつな天体であり、表面の大部分はレゴリス（細かな砂埃）に覆われています。ベルン大学（※）のSabina Raducan氏を筆頭とする研… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260820-deimos.html</guid>
+      <pubDate>Thu, 20 Aug 2026 10:01:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

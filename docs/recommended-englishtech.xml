@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 06:51:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:52:49 +0000</lastBuildDate>
     <item>
-      <title>TanStack Start SaaSにマルチテナント認証を追加する方法</title>
-      <link>https://workos.com/blog/how-to-add-multi-tenant-authentication-to-your-tanstack-start-saas</link>
-      <description>ほとんどのマルチテナントガイドはデータベースについて解説していますが、本書では認証レイヤーについて解説します。組織スコープのセッション、招待フロー、組織切り替え、テナントごとのSSO、そしてテナントチェックをルーティングではなくサーバー関数で行うべき理由について説明します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/how-to-add-multi-tenant-authentication-to-your-tanstack-start-saas</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Metaは、バイブコーディングやゲーム共有ができるアプリ「Pocket」を米国ユーザーに提供開始した。</title>
+      <link>https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/</link>
+      <description>Meta社は、ブラジルで密かにテストを実施した後、インタラクティブゲームの作成と共有のための実験的なAI搭載アプリ「Pocket」を全米のユーザーに提供する。 (source: TechCrunch)</description>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/</guid>
+      <pubDate>Thu, 20 Aug 2026 16:07:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
