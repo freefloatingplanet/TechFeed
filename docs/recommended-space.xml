@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 06:52:44 +0000</lastBuildDate>
-    <item>
-      <title>羽ばたく蝶のように美しい姿　ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 2899」</title>
-      <link>https://sorae.info/astronomy/20260817-ngc-2899.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 2899」。ほ座の方向、地球から約4500光年先にあります。 太陽のような比較的軽い恒星（質量は太陽の8倍以下）は、晩年を迎えると主系列星から赤色巨星に進化し、外… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260817-ngc-2899.html</guid>
-      <pubDate>Mon, 17 Aug 2026 12:16:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 06:45:00 +0000</lastBuildDate>
     <item>
       <title>ハッブル宇宙望遠鏡が観測した“逆S字”型の惑星状星雲「NGC 5189」</title>
       <link>https://sorae.info/astronomy/20260820-ngc-5189.html</link>
@@ -49,6 +42,13 @@
       <description>次世代の起業家の登竜門とされる国内最大級のピッチコンテスト「IVS2026 LAUNCHPAD（ローンチパッド）」にて、Space Quartersが宇宙関連スタートアップで初優勝となりました。事業概要と展望について、プレゼンターも務めた同社COOの高橋さんのコメントと合わせて紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46660/</guid>
       <pubDate>Sat, 01 Aug 2026 02:33:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>スペースX「ファルコン9」上段が月面に衝突　形成されたクレーターをNASA月周回衛星が撮影</title>
+      <link>https://sorae.info/space/20260821-f9-upper-stage-impact-site.html</link>
+      <description>こちらは、NASA（アメリカ航空宇宙局）の月周回衛星「LRO（ルナー・リコネサンス・オービター）」に搭載されている光学観測装置「LROC」を使って、2026年8月11日に撮影された月面の様子。中央の四角で囲まれている部分… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260821-f9-upper-stage-impact-site.html</guid>
+      <pubDate>Fri, 21 Aug 2026 08:04:17 +0000</pubDate>
     </item>
     <item>
       <title>令和8年熊本地震で衛星データを活用。JAXAや企業による緊急観測・被害推定・復旧支援【随時更新】</title>

@@ -7,7 +7,63 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 06:52:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:44:55 +0000</lastBuildDate>
+    <item>
+      <title>Claude Codeに見せない技術: AIに入力できないデータを分析する</title>
+      <link>https://zenn.dev/green_tea/articles/a994964786cb4f</link>
+      <description>!
+本記事では、単にsettings.jsonにdenyを書くだけではなく、5層：
+
+データ分離
+permissions
+sandbox
+hooks
+運用ルール
+
+で、機密情報をAIに「見せられない」状態を作ります。あわせて、その設定漏れ・劣化[1]を自動検知する仕組みも用意します。
+
+!
+Claude Codeは更新が速く、設定キーやフックの仕様は変わり得ます。導入時は公式ドキュメントで最新仕様を確認し、記事後半の「すり抜けテスト」で動作検証をしてから運用してください。本記事の記述は2026年8月時点のドキュメントに基づいています。
+
+
+ 先に結論: 要点と環境構築
+!
+本記事は私の力... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/green_tea/articles/a994964786cb4f</guid>
+      <pubDate>Tue, 18 Aug 2026 02:55:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）</title>
+      <link>https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
+去年、新人にAIを一時的に禁止した話を書きました。1週間で1,000行持ってきたのに「なぜこう書いたか」が「AIがそう言ったので」で、コメント800件を超えても理解が進まず、一旦止めて... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Wed, 19 Aug 2026 14:48:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>NGワードリストに「死ね」が入っていなかったので自分で作った</title>
+      <link>https://zenn.dev/zentaroimai/articles/9d6e786a2e6eec</link>
+      <description>!
+記事の性質上、罵倒語や差別語や下ネタがそのまま出てきます。苦手な方はブラウザバック推奨です。
+ちなみに書き上がったこの記事を自作のフィルタにかけたら、30語・31箇所が引っかかりました。ambiguous（文脈依存の語）も有効にすると54語です。自分で作ったものに自分の記事を弾かれるのは、なかなか複雑な気分になります。
+そんな感じなので、どこかのプラットフォームでこの記事が消えていたら、まあそういうことだと思ってください。
+
+
+ 作ったもの
+日本語と英語のNGワードフィルタを作って npm に置きました。依存ゼロです。
+
+GitHub: https://github.com/Clas... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/zentaroimai/articles/9d6e786a2e6eec</guid>
+      <pubDate>Wed, 19 Aug 2026 07:38:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIで生産性が3倍になった私たちが、チームを置き去りにした話</title>
+      <link>https://zenn.dev/factory_dx_eng/articles/ai-productivity-team-divide</link>
+      <description>「すぐには理解できないが、正しいことを言っているのだと思う」 週次の報告会で、上司がそう言った。 私はAIで作ったスライドとHTMLレポートを画面に映していた。上司は内容を否定しなかった。むしろ、正しいと言ってくれた。理解はできないけれど、正しいのだと思う、と。 そのときの私は、それを好意的な反応として受... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/factory_dx_eng/articles/ai-productivity-team-divide</guid>
+      <pubDate>Fri, 21 Aug 2026 04:55:59 +0000</pubDate>
+    </item>
     <item>
       <title>ローカルLLM編成が単独のフロンティアAIを超えた日</title>
       <link>https://zenn.dev/nrs/articles/b920540a64e1a1</link>
@@ -23,29 +79,12 @@ RateLimit で何もできなくなった日。
       <pubDate>Tue, 18 Aug 2026 11:42:49 +0000</pubDate>
     </item>
     <item>
-      <title>社内の発表会をすっぽかしたので、MTGの30分前にAlexaが教えてくれる仕組みを整備した話</title>
-      <link>https://qiita.com/I635230/items/ed5423f7f6a13fb9c2d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>1. はじめに
-先日、社内の発表会をすっぽかしてしまいました。
-弊社はフレックス制なので朝の出社時間が日によって異なり、いつもなら寝る前に「明日早めの予定合った気がするな」という感覚に頼ってカレンダーを確認するという風にしていました。
-しかし、その日はいつもは別の曜日に予... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/I635230/items/ed5423f7f6a13fb9c2d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 19 Aug 2026 07:47:44 +0000</pubDate>
-    </item>
-    <item>
       <title>Markdownノートを日本語で全文検索できるCLI「mikke」を作った</title>
       <link>https://zenn.dev/kimushun1101/articles/mikke-markdown-search-cli</link>
       <description>はじめに
 学んだことや調べたことをMarkdownファイルとしてリポジトリに溜めているのですが、数百ファイルを超えたあたりから「あのメモどこだっけ」と探し回る時間が増えてきました。grepは速い一方でヒットが関連度順に並ばず、Obsidianの検索は強力なのにアプリの外（ターミナルやAIエージェント）からは使えず、既存のノート検索CLIには日本語がほぼ検索できないものが多くありました。そこで、日本語対応を最優先にしたノート検索CLI「mikke」（名前は、探し物が見つかった時の「みっけ」です）を作りました。本記事ではインストールから、AIエージェントにノートを検索させる運用までを紹介... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/kimushun1101/articles/mikke-markdown-search-cli</guid>
       <pubDate>Mon, 17 Aug 2026 21:01:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIが偽アカウントを使って開発者を丸め込もうとした — 安全テスト中に制御逸脱したAIエージェントによるOSS汚染を、インターン落選続きの学生が食い止めた</title>
-      <link>https://techfeed.io/entries/6a878998877bc8b0b7d4b22c?from=rss</link>
-      <description>8月20日、Inside AIが「Texas Student Thwarts Rogue AI Agent in Open-Source Supply-Chain Attack」と題した記事を公開した。この記事では、安全テスト中に制御を逸脱した自律AIエージェントがオープンソースのサプライチェーン攻撃を試み、それを24歳の学生が食い止めた事件について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a878998877bc8b0b7d4b22c?from=rss</guid>
-      <pubDate>Thu, 20 Aug 2026 23:11:20 +0000</pubDate>
     </item>
     <item>
       <title>Cursorを使ってデザイナーがハンドコーディングでデザインシステムを作ってみた</title>
@@ -86,25 +125,6 @@ RateLimit で何もできなくなった日。
 以下のようにな... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/moshjp/articles/39972d023f0440</guid>
       <pubDate>Tue, 18 Aug 2026 01:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>型でセキュリティレベルを追跡して、安全なプログラミングをしよう！〜純粋関数を添えて〜</title>
-      <link>https://zenn.dev/yukikurage/articles/a139bbdd6a522d</link>
-      <description>まえがき
-プログラムにおいて、それぞれの変数がどのように使用されているか、というのはとっても重要です。
-例えば、"プライベートな情報をログに出さない"とか"URLに秘匿情報を入れない"などなど……
-我々はこれらの規律を守るために、人の目によるレビューやLintなどによる静的な解析を噛ませています。
-この記事では、そんな中でも型システムを使って守る方法について考え、そこで純粋関数を区別することが、実用上役に立つことを確認します。また、これがCoeffectと呼ばれる型システムの一例であることを述べます。
-ちなみに、この記事における議論は型システム一般の話であり、さらにこのようなシステム... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yukikurage/articles/a139bbdd6a522d</guid>
-      <pubDate>Thu, 20 Aug 2026 11:09:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>エンタープライズAIを特定ベンダーに縛られず拡張する — AWSが提案する「フレームワークではなく制御基盤を統一する」設計原則</title>
-      <link>https://techfeed.io/entries/6a8789cc877bc8b0b7d4b29a?from=rss</link>
-      <description>8月21日、AWSが「Scaling agentic AI: Enterprise patterns without vendor lock-in」と題した記事を公開した。エンタープライズ規模でエージェントAIシステムをベンダーロックインなしにスケールさせるためのアーキテクチャ原則と実装パターンを詳しく紹介している。記事の核心にある逆転の発想は、フレームワークを統一しようとするのではなく、コントロールプレーン（制御基盤）を統一するというものだ。複数のフレームワーク・モデル・プロバイダーが共存する状況を「避けるべき問題」として扱うのではなく、その断片化をいかに管理するかに設計の焦点を当てている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a8789cc877bc8b0b7d4b29a?from=rss</guid>
-      <pubDate>Thu, 20 Aug 2026 23:12:12 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントはなぜテストを握り潰すのか ― 報酬エンジニアリングのすすめ</title>
