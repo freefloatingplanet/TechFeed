@@ -7,77 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 06:44:55 +0000</lastBuildDate>
-    <item>
-      <title>Claude Codeに見せない技術: AIに入力できないデータを分析する</title>
-      <link>https://zenn.dev/green_tea/articles/a994964786cb4f</link>
-      <description>!
-本記事では、単にsettings.jsonにdenyを書くだけではなく、5層：
-
-データ分離
-permissions
-sandbox
-hooks
-運用ルール
-
-で、機密情報をAIに「見せられない」状態を作ります。あわせて、その設定漏れ・劣化[1]を自動検知する仕組みも用意します。
-
-!
-Claude Codeは更新が速く、設定キーやフックの仕様は変わり得ます。導入時は公式ドキュメントで最新仕様を確認し、記事後半の「すり抜けテスト」で動作検証をしてから運用してください。本記事の記述は2026年8月時点のドキュメントに基づいています。
-
-
- 先に結論: 要点と環境構築
-!
-本記事は私の力... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/green_tea/articles/a994964786cb4f</guid>
-      <pubDate>Tue, 18 Aug 2026 02:55:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）</title>
-      <link>https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
-去年、新人にAIを一時的に禁止した話を書きました。1週間で1,000行持ってきたのに「なぜこう書いたか」が「AIがそう言ったので」で、コメント800件を超えても理解が進まず、一旦止めて... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Wed, 19 Aug 2026 14:48:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>NGワードリストに「死ね」が入っていなかったので自分で作った</title>
-      <link>https://zenn.dev/zentaroimai/articles/9d6e786a2e6eec</link>
-      <description>!
-記事の性質上、罵倒語や差別語や下ネタがそのまま出てきます。苦手な方はブラウザバック推奨です。
-ちなみに書き上がったこの記事を自作のフィルタにかけたら、30語・31箇所が引っかかりました。ambiguous（文脈依存の語）も有効にすると54語です。自分で作ったものに自分の記事を弾かれるのは、なかなか複雑な気分になります。
-そんな感じなので、どこかのプラットフォームでこの記事が消えていたら、まあそういうことだと思ってください。
-
-
- 作ったもの
-日本語と英語のNGワードフィルタを作って npm に置きました。依存ゼロです。
-
-GitHub: https://github.com/Clas... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/zentaroimai/articles/9d6e786a2e6eec</guid>
-      <pubDate>Wed, 19 Aug 2026 07:38:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIで生産性が3倍になった私たちが、チームを置き去りにした話</title>
-      <link>https://zenn.dev/factory_dx_eng/articles/ai-productivity-team-divide</link>
-      <description>「すぐには理解できないが、正しいことを言っているのだと思う」 週次の報告会で、上司がそう言った。 私はAIで作ったスライドとHTMLレポートを画面に映していた。上司は内容を否定しなかった。むしろ、正しいと言ってくれた。理解はできないけれど、正しいのだと思う、と。 そのときの私は、それを好意的な反応として受... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/factory_dx_eng/articles/ai-productivity-team-divide</guid>
-      <pubDate>Fri, 21 Aug 2026 04:55:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>ローカルLLM編成が単独のフロンティアAIを超えた日</title>
-      <link>https://zenn.dev/nrs/articles/b920540a64e1a1</link>
-      <description>OpenAI や Anthropic のフロンティアモデルの性能はとてもよいのですが、経済性がよくありません。
-日次や週次のレート制限がどれだけあなたを苛立たせたでしょう。
-また、毎日の仕事道具の生殺与奪を誰かの方針に握られているのも気に入りません。
-この不快感を強く感じたシーンは何度もありました。
-OpenAI が誤って私を BAN した日（みんな大騒ぎしてましたね）。
-Anthropic が SDK 利用をサブスクリプションから排除すると発表した日（現在ではうやむやになりました）。
-RateLimit で何もできなくなった日。
-とおもったら Rate Reset の嵐で使い切らないと... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nrs/articles/b920540a64e1a1</guid>
-      <pubDate>Tue, 18 Aug 2026 11:42:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 06:46:45 +0000</lastBuildDate>
     <item>
       <title>Markdownノートを日本語で全文検索できるCLI「mikke」を作った</title>
       <link>https://zenn.dev/kimushun1101/articles/mikke-markdown-search-cli</link>
@@ -87,14 +17,45 @@ RateLimit で何もできなくなった日。
       <pubDate>Mon, 17 Aug 2026 21:01:59 +0000</pubDate>
     </item>
     <item>
-      <title>Cursorを使ってデザイナーがハンドコーディングでデザインシステムを作ってみた</title>
-      <link>https://zenn.dev/pksha/articles/e5c8f9b2a41d73</link>
-      <description>初めまして！PKSHA Technology デザイナーの清水と申します。普段はデザイナーとしてXで発信しています。今日は、Cursor を使ってデザイナーが自分でハンドコーディングしてデザインシステムを実装した事例をご紹介します。（この記事は、デザインシステムの実装に関わるデザイナー・エンジニアを主な対象にしていますが、AI コーディングツールを使った実装に挑戦してみたいデザイナーの方にも読んでいただけるよう、専門用語には適宜補足を入れています。）
-
-用語の補足
-ハンドコーディングとは、AI にコードを生成させるのではなく、自分でコードを打ちながら実装するスタイルです。この記事では「わ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pksha/articles/e5c8f9b2a41d73</guid>
-      <pubDate>Wed, 19 Aug 2026 02:38:42 +0000</pubDate>
+      <title>アクセルを踏めるのは、ガードレールがあるから。上場デザイン会社の「守りのAI設計図」を全部見せます｜グッドパッチ　執行役員　坂口友紀</title>
+      <link>https://note.com/19831112/n/nacae0120a692</link>
+      <description>こんにちは。Goodpatchで社長室と管理部を管掌している執行役員の坂口（ぐっさん）です。 これまで管理部のAI活用について、2本のnoteを書いてきました。バックオフィス20名全員が1ヶ月でClaudeを実装した話。そして、AIに「お願い」するのをやめてハーネスを設計する話。どちらも「AIをどう働かせるか」という話でした... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/19831112/n/nacae0120a692</guid>
+      <pubDate>Fri, 21 Aug 2026 12:59:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIの競争優位はモデルの大きさではなくエージェントの設計・統治にある</title>
+      <link>https://techfeed.io/entries/6a8a2b9e877bc8b0b7d5ed22?from=rss</link>
+      <description>8月21日、TechRadarが「The next AI phase is better agents not bigger models」と題した記事を公開した。モデルを選ぶ競争はすでに終わりつつある——そう主張するのは、Digital ModusのSolution ArchitectであるJay Florenceだ。大手ベンダーが新モデルを競うようにリリースし続ける今、Florenceは「次のエンタープライズAIの競争優位はモデルの規模ではなく、エージェントの設計・実装・ガバナンスの質にある」と論じる。この主張は、多くの組織がまだ「どのモデルを使うか」に注力しているフェーズにあるだけに、実践者にとって示唆に富む。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a8a2b9e877bc8b0b7d5ed22?from=rss</guid>
+      <pubDate>Sat, 22 Aug 2026 23:07:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>CS専攻じゃない"ニセモノのエンジニア"が、AI時代の生存戦略を5つ考えてみた</title>
+      <link>https://qiita.com/ktdatascience/items/2940d240db8f0fb5e930?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに ── この記事で言う「本物のエンジニア」の定義
+エンジニアには2種類いる、と私は勝手に思っています。本物と、ニセモノです。
+先に断っておくと、これは私の中だけの区分で、しかも自分をニセモノ側に置くための区分です。他人を偽物認定するための言葉ではありません。この記... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/ktdatascience/items/2940d240db8f0fb5e930?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 22 Aug 2026 11:18:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>オーバーナイトプレミアムに関連した価格ドライバー特徴量の話</title>
+      <link>https://zenn.dev/gamella/articles/8e2f9873169db6</link>
+      <description>AlpacaTechの北山です。このブログでは、気になったクオンツネタを取り上げています。
+X（Twitter）で、Micron Technology（MU）についての集計が流れてきました。
+https://x.com/SOU_BTC/status/2091105357762560281
+最近、この取引所間の相関やプレミアムをプロジェクトで使ったので、オーバーナイトプレミアムの話は非常に有名ですが、これに関連した特徴量の話をすこし書いてみたいと思います。
+なお、この投稿のような巨大な複利数字は、スプレッドと手数料を無視して寄りと引けで毎日売買した仮想値であり、そのまま実行できる戦略ではあ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/gamella/articles/8e2f9873169db6</guid>
+      <pubDate>Sat, 22 Aug 2026 11:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWSがデータパイプライン構築を「数週間→数時間」に短縮するAIエージェント基盤を公開 — 本番環境ではコードのみ動かす設計で規制業界にも対応</title>
+      <link>https://techfeed.io/entries/6a8a2bbf877bc8b0b7d5ed33?from=rss</link>
+      <description>8月22日、AWSが「Agentic Data Operations Platform (ADOP): Data engineering into hours」と題した記事を公開した。新規データソース1件の追加に数週間を要していたデータエンジニアリング業務を、AIエージェントの活用で数時間に短縮する参照アーキテクチャ「ADOP」の詳細が公開されている。最大の特徴は、エージェントを開発環境専用のビルドツールとして扱い、本番環境ではエージェントを一切動かさないという設計思想だ。LLMをランタイムに組み込み続ける多くのAIエージェントアーキテクチャとは根本的に異なるアプローチで、金融・ヘルスケアなど規制の厳しい業界への適用を強く意識した構成となっている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a8a2bbf877bc8b0b7d5ed33?from=rss</guid>
+      <pubDate>Sat, 22 Aug 2026 23:07:43 +0000</pubDate>
     </item>
     <item>
       <title>AI Agentに社内知識をオンボーディングする：SkillsとEvalの設計</title>
@@ -110,6 +71,18 @@ RateLimit で何もできなくなった日。
 そこで今回、社内Notionに整備してある新入社員向けのオンボーディング文書をもとに、AI Agent... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/mkj/articles/aad5698672aef3</guid>
       <pubDate>Thu, 20 Aug 2026 02:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>最近のIntel CPUは複数の連続する即値加減算命令をフュージョンする</title>
+      <link>https://zenn.dev/herumi/articles/add-imm-fusion</link>
+      <description>はじめに
+一見、タイトルはなんのこと? と思われるかもしれませんが、そう呼びたくなる現象があるのをつい最近（2026年8月）知りました。面白かったのでその紹介をします。なお、かなり専門的な話となりますのであしからず。
+
+ 命令のレイテンシを測定する
+プログラムの最適化の作業の中でx64のタイムスタンプカウンターtscを取得する命令rdtscを使ってマイクロベンチマークをいろいろとっていました。現在、rdtscはCPUのある固定周波数を基準としたtscを測定します。
+私はCPUをフルで回したときの周波数に対するクロックサイクル（以下cycと略記）を測定したかったので、次の方法をとりまし... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/herumi/articles/add-imm-fusion</guid>
+      <pubDate>Fri, 21 Aug 2026 02:06:35 +0000</pubDate>
     </item>
     <item>
       <title>コーディングエージェントが実装するUIの品質を上げるためにやったこと</title>

@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 06:45:00 +0000</lastBuildDate>
-    <item>
-      <title>ハッブル宇宙望遠鏡が観測した“逆S字”型の惑星状星雲「NGC 5189」</title>
-      <link>https://sorae.info/astronomy/20260820-ngc-5189.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 5189」。はえ座の方向、地球から約1780光年先にあります。 星雲の中央を左右に貫く青白い帯状の構造は、高密度なガスの領域です。そこから放射状に伸びたオレンジ色… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260820-ngc-5189.html</guid>
-      <pubDate>Thu, 20 Aug 2026 12:33:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 06:46:49 +0000</lastBuildDate>
     <item>
       <title>中国が「長征2号丙」ロケットを打ち上げ　UAEの「SEO衛星」を軌道投入</title>
       <link>https://sorae.info/ssn/20260817-seo-satellite.html</link>
@@ -28,6 +21,13 @@
       <description>NASA（アメリカ航空宇宙局）の火星探査車「キュリオシティ（Curiosity）」が日本時間2026年8月6日、火星着陸から14周年を迎えました。NASAは同月17日、14周年を祝うミッションブログを公開しています。本記… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260819-curiosity-mars-14th.html</guid>
       <pubDate>Wed, 19 Aug 2026 10:08:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>直径約32億光年の超大規模構造「ジャイアント・リング」を発見　従来の理論では説明がつかず</title>
+      <link>https://sorae.info/astronomy/20260822-giant-ring.html</link>
+      <description>私たちの宇宙に関する従来の理論では、数十億光年以上のスケールで見渡すと、宇宙は概ね均一であるという考えが主流でした。このため、宇宙に存在する構造には、大きさの上限があるとされていました。 しかし近年、上限をはるかに超える… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260822-giant-ring.html</guid>
+      <pubDate>Sat, 22 Aug 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>「アイデアの実現スピードを上げるために人手は足りなくなる」ジェフ・べゾス氏が描く、宇宙と地球の未来の姿とインフラ構築の現在地【VIVATECH 2026現地レポート】</title>
