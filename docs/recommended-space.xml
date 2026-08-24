@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 06:46:49 +0000</lastBuildDate>
-    <item>
-      <title>中国が「長征2号丙」ロケットを打ち上げ　UAEの「SEO衛星」を軌道投入</title>
-      <link>https://sorae.info/ssn/20260817-seo-satellite.html</link>
-      <description>CASC（中国航天科技集団）は2026年8月17日、中国・山西省の太原衛星発射センターから「長征2号丙」ロケットを打ち上げ、「SEO衛星」を所定の軌道へ投入したと発表しました。 打ち上げに関する情報は以下の通りです。 打… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260817-seo-satellite.html</guid>
-      <pubDate>Mon, 17 Aug 2026 07:59:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 07:04:31 +0000</lastBuildDate>
     <item>
       <title>火星着陸から14年　いまも現役のNASA探査車「キュリオシティ」</title>
       <link>https://sorae.info/astronomy/20260819-curiosity-mars-14th.html</link>
@@ -49,6 +42,13 @@
       <description>こちらは、NASA（アメリカ航空宇宙局）の月周回衛星「LRO（ルナー・リコネサンス・オービター）」に搭載されている光学観測装置「LROC」を使って、2026年8月11日に撮影された月面の様子。中央の四角で囲まれている部分… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260821-f9-upper-stage-impact-site.html</guid>
       <pubDate>Fri, 21 Aug 2026 08:04:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国の月探査機「嫦娥7号」2026年内の打ち上げを見送り　新たな実施時期は未定</title>
+      <link>https://sorae.info/space/20260824-change-7.html</link>
+      <description>CMSA（中国有人宇宙プロジェクト弁公室）は2026年8月23日、月探査機「嫦娥7号（じょうがななごう）」のミッションについて、2026年に予定していた期間内での打ち上げを見送ると発表しました。 発表によると、安全性と確… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260824-change-7.html</guid>
+      <pubDate>Sun, 23 Aug 2026 18:56:43 +0000</pubDate>
     </item>
     <item>
       <title>令和8年熊本地震で衛星データを活用。JAXAや企業による緊急観測・被害推定・復旧支援【随時更新】</title>

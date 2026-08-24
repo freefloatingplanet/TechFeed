@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 06:46:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:04:33 +0000</lastBuildDate>
     <item>
-      <title>QUASAR：SAR衛星物理層認証のための量子古典ニューラルネットワーク</title>
-      <link>https://arxiv.org/abs/2608.20240v1</link>
-      <description>XバンドSAR衛星（8～12GHz）は、災害対応、環境モニタリング、軍事情報において重要な役割を果たしています。しかし、暗号化ソリューションとは直交するセキュリティ層である堅牢な物理層認証（PLA）が欠けています。既存のPLAシステムは、一般的に無線周波数フィンガープリンティングに基づいており、多くの場合6GHz以下の周波数に制限され、古典的な深層学習に依存しています。しかし、このアプローチでは、衛星ハードウェアを区別するIQ位相非線形性を十分に適合させることができません。本論文では、我々の知る限り、CNNスペクトログラムエンコーダと変分量子回路（VQC）を融合してXバンドSAR信号にPLAを提供する初の量子古典ハイブリッドアーキテクチャであるQUASARを紹介します。我々のソリューションには、2つの特徴があります。（i）古典的な機械学習よりもデータ効率が著しく高く、古典的なベースラインの精度に匹敵するために必要なトレーニングデータはわずか10%です。データ収集は、PLAの中で最も時間のかかるフェーズとして知られています。（ii）同じデータ予算で、これらのベースラインよりも分類精度が向 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.20240v1</guid>
-      <pubDate>Thu, 20 Aug 2026 16:31:01 +0000</pubDate>
+      <title>残存難聴の調査に向けて：新規蝸牛OCTデータセットにおける線維化の定量化</title>
+      <link>https://arxiv.org/abs/2608.21189v1</link>
+      <description>目的：人工内耳（CI）は、聴神経の電気刺激によって聴覚を回復させるバイオニック補綴物です。電気音響刺激（EAS）を使用するハイブリッドCIは、残存する低周波聴覚とCIの電気刺激を組み合わせたものです。インプラントの存在に応じて形成される蝸牛内線維症は、残存聴覚機能を阻害し、EASの有効性を徐々に低下させる可能性があります。したがって、線維症の負担を軽減し、CI患者の転帰を改善することを目的として、げっ歯類における蝸牛線維症の形成を研究することは、トランスレーショナル研究の目標です。方法：インプラント誘発性線維症に焦点を当てた進行中の研究の一環として、慢性的にインプラントを装着したモルモットから得られた光コヒーレンストモグラフィー（OCT）画像の新規データセットを作成し、注釈を付けました。高解像度かつ再現性をもってこのモデルにおける線維症の負担を客観的に評価することは、コンピュータビジョン手法の明らかなユースケースとなります。結果：最先端のセマンティックセグメンテーションモデルをいくつか提示し、手動でセグメント化された新しいOCT画像ライブラリを使用して、蝸牛線維症やその他の関連注釈を識 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.21189v1</guid>
+      <pubDate>Fri, 21 Aug 2026 14:59:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

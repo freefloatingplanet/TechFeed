@@ -7,28 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 06:46:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:04:27 +0000</lastBuildDate>
     <item>
-      <title>Markdownノートを日本語で全文検索できるCLI「mikke」を作った</title>
-      <link>https://zenn.dev/kimushun1101/articles/mikke-markdown-search-cli</link>
+      <title>家族で使うAIエージェントのDiscord運用</title>
+      <link>https://zenn.dev/kimushun1101/articles/family-ai-agents-on-discord</link>
       <description>はじめに
-学んだことや調べたことをMarkdownファイルとしてリポジトリに溜めているのですが、数百ファイルを超えたあたりから「あのメモどこだっけ」と探し回る時間が増えてきました。grepは速い一方でヒットが関連度順に並ばず、Obsidianの検索は強力なのにアプリの外（ターミナルやAIエージェント）からは使えず、既存のノート検索CLIには日本語がほぼ検索できないものが多くありました。そこで、日本語対応を最優先にしたノート検索CLI「mikke」（名前は、探し物が見つかった時の「みっけ」です）を作りました。本記事ではインストールから、AIエージェントにノートを検索させる運用までを紹介... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kimushun1101/articles/mikke-markdown-search-cli</guid>
-      <pubDate>Mon, 17 Aug 2026 21:01:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>アクセルを踏めるのは、ガードレールがあるから。上場デザイン会社の「守りのAI設計図」を全部見せます｜グッドパッチ　執行役員　坂口友紀</title>
-      <link>https://note.com/19831112/n/nacae0120a692</link>
-      <description>こんにちは。Goodpatchで社長室と管理部を管掌している執行役員の坂口（ぐっさん）です。 これまで管理部のAI活用について、2本のnoteを書いてきました。バックオフィス20名全員が1ヶ月でClaudeを実装した話。そして、AIに「お願い」するのをやめてハーネスを設計する話。どちらも「AIをどう働かせるか」という話でした... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/19831112/n/nacae0120a692</guid>
-      <pubDate>Fri, 21 Aug 2026 12:59:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIの競争優位はモデルの大きさではなくエージェントの設計・統治にある</title>
-      <link>https://techfeed.io/entries/6a8a2b9e877bc8b0b7d5ed22?from=rss</link>
-      <description>8月21日、TechRadarが「The next AI phase is better agents not bigger models」と題した記事を公開した。モデルを選ぶ競争はすでに終わりつつある——そう主張するのは、Digital ModusのSolution ArchitectであるJay Florenceだ。大手ベンダーが新モデルを競うようにリリースし続ける今、Florenceは「次のエンタープライズAIの競争優位はモデルの規模ではなく、エージェントの設計・実装・ガバナンスの質にある」と論じる。この主張は、多くの組織がまだ「どのモデルを使うか」に注力しているフェーズにあるだけに、実践者にとって示唆に富む。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a8a2b9e877bc8b0b7d5ed22?from=rss</guid>
-      <pubDate>Sat, 22 Aug 2026 23:07:10 +0000</pubDate>
+もともと自分専用のAIエージェントをDiscordに常駐させて、メモの記録や調べ物をチャットから頼んでおりました。使っているうちに旅行の計画や献立の相談など家族に関わる話題が増えてきたため、妻も同じサーバーからエージェントに話しかけられる形に拡張しました。ただしClaude Maxのような個人向け定額プランは、アカウントを本人以外が使うと規約違反になってしまいます。本記事では、Anthropicの規約と両立させながら家族でAIエージェントを使うためのDiscordサーバーの構成を紹介します。
+エージェントの常駐にはからあげ（karaage0703）さんが公開されているOSS... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kimushun1101/articles/family-ai-agents-on-discord</guid>
+      <pubDate>Sat, 22 Aug 2026 22:28:03 +0000</pubDate>
     </item>
     <item>
       <title>CS専攻じゃない"ニセモノのエンジニア"が、AI時代の生存戦略を5つ考えてみた</title>
@@ -51,11 +38,34 @@ https://x.com/SOU_BTC/status/2091105357762560281
       <pubDate>Sat, 22 Aug 2026 11:39:58 +0000</pubDate>
     </item>
     <item>
-      <title>AWSがデータパイプライン構築を「数週間→数時間」に短縮するAIエージェント基盤を公開 — 本番環境ではコードのみ動かす設計で規制業界にも対応</title>
-      <link>https://techfeed.io/entries/6a8a2bbf877bc8b0b7d5ed33?from=rss</link>
-      <description>8月22日、AWSが「Agentic Data Operations Platform (ADOP): Data engineering into hours」と題した記事を公開した。新規データソース1件の追加に数週間を要していたデータエンジニアリング業務を、AIエージェントの活用で数時間に短縮する参照アーキテクチャ「ADOP」の詳細が公開されている。最大の特徴は、エージェントを開発環境専用のビルドツールとして扱い、本番環境ではエージェントを一切動かさないという設計思想だ。LLMをランタイムに組み込み続ける多くのAIエージェントアーキテクチャとは根本的に異なるアプローチで、金融・ヘルスケアなど規制の厳しい業界への適用を強く意識した構成となっている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a8a2bbf877bc8b0b7d5ed33?from=rss</guid>
-      <pubDate>Sat, 22 Aug 2026 23:07:43 +0000</pubDate>
+      <title>Ctrl+C でプログラムが止まる仕組みを調べた</title>
+      <link>https://zenn.dev/wakame_atsushi/articles/05a74885eb963d</link>
+      <description>はじめに
+以前 Go の並列処理を学ぶ中で、graceful shutdown を扱いました。Ctrl+C についても軽く学びました。
+ただ、Ctrl+C を押したときに何が起きているかは軽くしか学べておらず、自分の中で引っかかっていました。
+今回調べたのは、Ctrl+C を押してプログラムが実際に止まるまでです。（見ていくのは Linux です）
+
+ 全体の流れ
+Ctrl+C を押してからプログラムが終了するまでの簡単な流れは以下の通りです。
+
+プログラムが何もしていないときに、カーネルが勝手に終了させる経路を追っていきます。
+cat や sleep が Ctrl+C で終了するの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/wakame_atsushi/articles/05a74885eb963d</guid>
+      <pubDate>Sun, 23 Aug 2026 12:34:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>NOCCA×NOCCAの完全解析を独立再現してみた</title>
+      <link>https://zenn.dev/keison8864/articles/nocca-strongly-solving-reproduction</link>
+      <description>!
+この記事は、山本・保木（2022）によるNOCCA×NOCCAの強解決を、別実装で追試した個人プロジェクトの記録です。新しい強解決の主張ではなく、実装と検証の過程を中心に紹介します。
+
+
+ はじめに：なんとなくやりたかったことに、手が出せるようになった
+きっかけは2つありました。
+ひとつは、最近 NOCCA×NOCCA（ノッカノッカ） というボードゲームで遊ぶ機会があったこと。将棋やチェスほど複雑でなく、「これって完全解析されてるんだろうか？」とふと気になりました。
+もうひとつは、Claude Code Max（5xプラン）に加入したこと。Claude Fable 5の一般公開もあり... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/keison8864/articles/nocca-strongly-solving-reproduction</guid>
+      <pubDate>Sun, 23 Aug 2026 07:54:16 +0000</pubDate>
     </item>
     <item>
       <title>AI Agentに社内知識をオンボーディングする：SkillsとEvalの設計</title>
@@ -85,30 +95,29 @@ https://x.com/SOU_BTC/status/2091105357762560281
       <pubDate>Fri, 21 Aug 2026 02:06:35 +0000</pubDate>
     </item>
     <item>
-      <title>コーディングエージェントが実装するUIの品質を上げるためにやったこと</title>
-      <link>https://zenn.dev/moshjp/articles/39972d023f0440</link>
-      <description>デザインシステムの整備・運用をしているが、いざコーディングエージェントにUI実装をお願いしてみるとこれじゃない感がすごい。みたいな経験をしている方は少なくないはずです。
-例に漏れずMOSHでも同様の課題があり、このボトルネックが解消されれば開発効率上がるよねということで改善に取り組んでいます。
-ここ半年間ほどデザインシステムの整備を通してAI生成の精度に向き合っているのですが、割といい感じになってきたので何をやったのかを紹介します。
-補足資料：
-以前に同じテーマで登壇したことがあったので、以下のスライドも合わせて読んでみてください。
-
-
- MOSHのデザインシステムの構成
-以下のようにな... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/moshjp/articles/39972d023f0440</guid>
-      <pubDate>Tue, 18 Aug 2026 01:00:20 +0000</pubDate>
+      <title>AIコストで業績を下げたCanvaの教訓 — 「ベンダーに課金メーターを握られる」前に取り戻すべき財務的主権とは</title>
+      <link>https://techfeed.io/entries/6a8b7c2b877bc8b0b7d65a04?from=rss</link>
+      <description>8月22日、SiliconAngleが「From tokenmaxxing to sovereign alpha: Who controls your AI economics?」と題した記事を公開した。この記事では、AIの経済的主導権を誰が握るかという問いを軸に、企業がAIコストの制御を失うリスクと「財務的主権」を確立するための戦略について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a8b7c2b877bc8b0b7d65a04?from=rss</guid>
+      <pubDate>Sun, 23 Aug 2026 23:03:07 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントはなぜテストを握り潰すのか ― 報酬エンジニアリングのすすめ</title>
-      <link>https://zenn.dev/ito/articles/6b042aa27d65bc</link>
+      <title>AIスライド作成、新時代へ ― AIで作ったスライドを、高精度で“編集できるPPTX”に変換する方法</title>
+      <link>https://zenn.dev/flux/articles/5446dba24b5100</link>
       <description>はじめに
-AIコーディングエージェントに仕事を任せていると、たまにギョッとする瞬間があります。
-通らないテストを skip にして「全テストがパスしました！」と報告してくる。アサーションを緩めて辻褄を合わせる。ひどい時にはテストの期待値の方を実装に合わせて書き換えて、堂々と完了報告をしてくる。
-そして「テストを勝手に変更してはいけません」と怒ると、その通りです、と悪びれもせず実装をやり直します。このような振る舞いにストレスを感じながら仕事をしています。
-この挙動を「まだAIが未熟だから」と解釈している人は多いと思います。つまりモデルが賢くなれば自然に直る、一時的なバグのようなものだと... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ito/articles/6b042aa27d65bc</guid>
-      <pubDate>Mon, 17 Aug 2026 13:31:03 +0000</pubDate>
+株式会社FLUXでAI CoE（AI活用を推進する専門組織）を担当しています。エンタープライズ企業のAI活用を、戦略づくりから現場での実装まで伴走する仕事です。関わる範囲が広いぶん、スライドを作る機会がとにかく多い。だから、任せられるものはAIに任せたいと、ずっと思っていました。
+生成AIでスライドを作る——もう珍しくありません。ChatGPTやGeminiに頼めば、見た目の整ったスライドが数十秒で出てきます。
+ただ、出てくるスライドは基本的に「画像」。きれいでも、文字や図形を選べず、あとから1か所も直せません。
+この記事で紹介するのは、AIに作らせたスライドを、見た目はそ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/flux/articles/5446dba24b5100</guid>
+      <pubDate>Wed, 19 Aug 2026 10:21:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIエージェントに「組織図」が必要な理由 — パーミッションはアカウンタビリティではない。88%の企業がインシデントを経験しても、ガバナンスが追いついていない現実</title>
+      <link>https://techfeed.io/entries/6a8b7c45877bc8b0b7d65a44?from=rss</link>
+      <description>8月24日、AvePoint（Microsoft 365環境向けデータ管理・ガバナンスで知られるエンタープライズSaaS企業）のChief Transformation OfficerであるDux Raymond Syが「Why every AI agent needs an org chart」と題した記事を公開した。AIエージェントのガバナンスを語るとき、多くの組織は「パーミッション（アクセス権限）を設定したから安全だ」と誤解している。しかしパーミッションは「何ができるか」を定義するだけで、「誰がその結果に責任を持つか」は何も定義しない——この「パーミッション ≠ アカウンタビリティ」という核心的な問題を、Syは組織図になぞらえた所有権構造の導入によって解決できると論じている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a8b7c45877bc8b0b7d65a44?from=rss</guid>
+      <pubDate>Sun, 23 Aug 2026 23:03:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
