@@ -7,7 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:04:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:53:45 +0000</lastBuildDate>
+    <item>
+      <title>API・CSV・RPA・iPaaS・純正連携の5つを比較してみた｜「一番ラクなのはどれ？」を6つの物差しで調べた</title>
+      <link>https://qiita.com/songchong/items/0badbbe2a467a6b09c64?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>「システムをつなぎたい」と相談すると、まずAPIの話になります。でも実際に業務が回るようになった事例を聞いてみると、CSVの受け渡しで終わっていたり、そもそもベンダーの標準機能で足りていたりします。
+
+「結局、うちの場合はどれで繋ぐのが一番ラクで、いくらかかるのか」
+
+これ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/songchong/items/0badbbe2a467a6b09c64?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 22 Aug 2026 13:49:34 +0000</pubDate>
+    </item>
     <item>
       <title>家族で使うAIエージェントのDiscord運用</title>
       <link>https://zenn.dev/kimushun1101/articles/family-ai-agents-on-discord</link>
@@ -18,24 +29,11 @@
       <pubDate>Sat, 22 Aug 2026 22:28:03 +0000</pubDate>
     </item>
     <item>
-      <title>CS専攻じゃない"ニセモノのエンジニア"が、AI時代の生存戦略を5つ考えてみた</title>
-      <link>https://qiita.com/ktdatascience/items/2940d240db8f0fb5e930?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに ── この記事で言う「本物のエンジニア」の定義
-エンジニアには2種類いる、と私は勝手に思っています。本物と、ニセモノです。
-先に断っておくと、これは私の中だけの区分で、しかも自分をニセモノ側に置くための区分です。他人を偽物認定するための言葉ではありません。この記... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/ktdatascience/items/2940d240db8f0fb5e930?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 22 Aug 2026 11:18:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>オーバーナイトプレミアムに関連した価格ドライバー特徴量の話</title>
-      <link>https://zenn.dev/gamella/articles/8e2f9873169db6</link>
-      <description>AlpacaTechの北山です。このブログでは、気になったクオンツネタを取り上げています。
-X（Twitter）で、Micron Technology（MU）についての集計が流れてきました。
-https://x.com/SOU_BTC/status/2091105357762560281
-最近、この取引所間の相関やプレミアムをプロジェクトで使ったので、オーバーナイトプレミアムの話は非常に有名ですが、これに関連した特徴量の話をすこし書いてみたいと思います。
-なお、この投稿のような巨大な複利数字は、スプレッドと手数料を無視して寄りと引けで毎日売買した仮想値であり、そのまま実行できる戦略ではあ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/gamella/articles/8e2f9873169db6</guid>
-      <pubDate>Sat, 22 Aug 2026 11:39:58 +0000</pubDate>
+      <title>TwitchがAI学習開示と同日に利用規約を書き換えていた — 「旧規約では許可されていなかった証拠だ」と配信者がAmazonを提訴</title>
+      <link>https://techfeed.io/entries/6a8ccecc877bc8b0b7d7731c?from=rss</link>
+      <description>8月24日、The Next Webが「Twitch rewrote its licence terms the day it revealed AI training」と題した記事を公開した。この記事では、TwitchがAI学習の開示と同日に利用規約を書き換えていたことを根拠に、配信者がTwitchとAmazonを訴えたクラスアクション訴訟について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a8ccecc877bc8b0b7d7731c?from=rss</guid>
+      <pubDate>Mon, 24 Aug 2026 23:07:56 +0000</pubDate>
     </item>
     <item>
       <title>Ctrl+C でプログラムが止まる仕組みを調べた</title>
@@ -54,70 +52,85 @@ cat や sleep が Ctrl+C で終了するの... (source: Zennのトレンド)</de
       <pubDate>Sun, 23 Aug 2026 12:34:45 +0000</pubDate>
     </item>
     <item>
-      <title>NOCCA×NOCCAの完全解析を独立再現してみた</title>
-      <link>https://zenn.dev/keison8864/articles/nocca-strongly-solving-reproduction</link>
+      <title>具体と抽象と労働需要変化について</title>
+      <link>https://zenn.dev/am_yamauchi/articles/fc68efcca177a1</link>
+      <description>具体と抽象
+細谷功氏の『具体と抽象』はソフトウェアエンジニアを中心にさまざまな人から紹介されているのを目にしており、そしてAudibleで扱いがあったので、軽い気持ちで通勤中や寝る前に聞いてみました。
+本書は分かりにくい本、簡単ではない本という説明ではじまりますが、難しいテーマを、多くの人にとって分かりやすく解説しており、新社会人向けの教材として最適だと感じました。漢字さえ読めれば、子どもにも良い本だと思います。[1]
+Kindle版も購入しました。
+この本は生成AIが社会に浸透する前の2014年に発売され、社会的背景としてはまだホワイトカラー職・デスクワーク職の「具体」部分に多くの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/am_yamauchi/articles/fc68efcca177a1</guid>
+      <pubDate>Mon, 24 Aug 2026 06:45:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>あなたのHTML資料には、魂が込められていますか？</title>
+      <link>https://zenn.dev/tokium_dev/articles/html-shiryo-ni-tamashii</link>
       <description>!
-この記事は、山本・保木（2022）によるNOCCA×NOCCAの強解決を、別実装で追試した個人プロジェクトの記録です。新しい強解決の主張ではなく、実装と検証の過程を中心に紹介します。
+この記事は何の話か（3行まとめ）
+
+膨大なインプットに溺れる新卒未経験エンジニアの私
+血迷ってダサいデザインのHTMLを生成させることにした
+流し読みできず一言一句読むようになり、思いの外、インプットが進んだ
 
 
- はじめに：なんとなくやりたかったことに、手が出せるようになった
-きっかけは2つありました。
-ひとつは、最近 NOCCA×NOCCA（ノッカノッカ） というボードゲームで遊ぶ機会があったこと。将棋やチェスほど複雑でなく、「これって完全解析されてるんだろうか？」とふと気になりました。
-もうひとつは、Claude Code Max（5xプラン）に加入したこと。Claude Fable 5の一般公開もあり... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/keison8864/articles/nocca-strongly-solving-reproduction</guid>
-      <pubDate>Sun, 23 Aug 2026 07:54:16 +0000</pubDate>
+人に読んでもらうには、どんな形であれ資料に魂を込める必要がある。
+こんにちは。株式会社TOKIUM　26卒未経験エンジニアのタケノコご飯です。
+今回は、配属後に自分用のインプット資料を作っていて直面した困難と、乗り越え方、そして学んだことを記事にしてみました。
+新卒エンジニア、未経験の方はもちろん、資料作りをするすべての方に読んでいただきたいです🌷
+※本人は至って真面目です... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/html-shiryo-ni-tamashii</guid>
+      <pubDate>Mon, 24 Aug 2026 07:06:24 +0000</pubDate>
     </item>
     <item>
-      <title>AI Agentに社内知識をオンボーディングする：SkillsとEvalの設計</title>
-      <link>https://zenn.dev/mkj/articles/aad5698672aef3</link>
-      <description>こんにちは、松尾研究所 データサイエンスチームのマネージャーの浮田です。
-最近のAI Agentは、一般的な調査や実装であればかなり高い水準でこなせるようになってきました。一方で、実際の社内業務に必要な社内固有の知識は持っておらず、非常に優秀だが、まだオンボーディングを受けていない新入社員に近い状態です。
-例えば、
-
-プロジェクト開始時に、誰がどのアカウントや権限を用意するのか
-経費はどのシステムから申請し、誰の承認を得るのか
-
-といった、会社固有の知識をAgentは知りません[1]。
-そこで今回、社内Notionに整備してある新入社員向けのオンボーディング文書をもとに、AI Agent... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mkj/articles/aad5698672aef3</guid>
-      <pubDate>Thu, 20 Aug 2026 02:50:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>最近のIntel CPUは複数の連続する即値加減算命令をフュージョンする</title>
-      <link>https://zenn.dev/herumi/articles/add-imm-fusion</link>
+      <title>Goのポインタに抵抗を感じていた理由</title>
+      <link>https://zenn.dev/ncdc/articles/661804f1bb2f95</link>
       <description>はじめに
-一見、タイトルはなんのこと? と思われるかもしれませんが、そう呼びたくなる現象があるのをつい最近（2026年8月）知りました。面白かったのでその紹介をします。なお、かなり専門的な話となりますのであしからず。
+Goに初めて触れたとき、ポインタを使うことに少し抵抗を感じていました。
+例えば、次のようなコードです。
+func update(user *User) {
+	user.Name = "Bob"
+}
+その抵抗感の正体を考えてみると、PHPを書いていた頃の「参照渡しへの警戒心」が関係していました。
+しかし、改めて調べてみると、PHPの参照渡しとGoのポインタは仕組みとしては別物です。
+ただ、なぜ警戒していたのかを掘り下げると、両者には共通する部分もありました。
 
- 命令のレイテンシを測定する
-プログラムの最適化の作業の中でx64のタイムスタンプカウンターtscを取得する命令rdtscを使ってマイクロベンチマークをいろいろとっていました。現在、rdtscはCPUのある固定周波数を基準としたtscを測定します。
-私はCPUをフルで回したときの周波数に対するクロックサイクル（以下cycと略記）を測定したかったので、次の方法をとりまし... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/herumi/articles/add-imm-fusion</guid>
-      <pubDate>Fri, 21 Aug 2026 02:06:35 +0000</pubDate>
+ なぜ抵抗を感じたのか
+ポインタそのものが難しいというより、「PHPの参照渡しと同じようなものでは？」と勝手にイメー... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/661804f1bb2f95</guid>
+      <pubDate>Sun, 23 Aug 2026 06:51:06 +0000</pubDate>
     </item>
     <item>
-      <title>AIコストで業績を下げたCanvaの教訓 — 「ベンダーに課金メーターを握られる」前に取り戻すべき財務的主権とは</title>
-      <link>https://techfeed.io/entries/6a8b7c2b877bc8b0b7d65a04?from=rss</link>
-      <description>8月22日、SiliconAngleが「From tokenmaxxing to sovereign alpha: Who controls your AI economics?」と題した記事を公開した。この記事では、AIの経済的主導権を誰が握るかという問いを軸に、企業がAIコストの制御を失うリスクと「財務的主権」を確立するための戦略について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a8b7c2b877bc8b0b7d65a04?from=rss</guid>
-      <pubDate>Sun, 23 Aug 2026 23:03:07 +0000</pubDate>
+      <title>Bitgetの異常価格で1800万損したが、fableと共闘して取り戻せた話</title>
+      <link>https://zenn.dev/kobao/articles/0638f3976c6ef8</link>
+      <description>それは餃子を包んでいる間に起きていた
+8月9日16時過ぎ、私がキッチンに立って餃子のタネをこねている間にそれは起きました。
+餃子を包み終え、小休止していた私は、スマホで資産管理用のダッシュボードを見て、そのまま後ろにひっくり返りそうになりました。
+資金が$115k(約1800万)ほど一瞬で下がっていたのです。
+
+あれ・・出金したっけな？
+
+資産管理のダッシュボードは自作のもの(以下の記事で紹介)です。管理外のWalletや取引所に資金を移動すると、その分は合算されず、残高のグラフは一見、大暴落したかのように見えるのです。
+https://zenn.dev/kobao/articles... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kobao/articles/0638f3976c6ef8</guid>
+      <pubDate>Mon, 24 Aug 2026 23:42:53 +0000</pubDate>
     </item>
     <item>
-      <title>AIスライド作成、新時代へ ― AIで作ったスライドを、高精度で“編集できるPPTX”に変換する方法</title>
-      <link>https://zenn.dev/flux/articles/5446dba24b5100</link>
-      <description>はじめに
-株式会社FLUXでAI CoE（AI活用を推進する専門組織）を担当しています。エンタープライズ企業のAI活用を、戦略づくりから現場での実装まで伴走する仕事です。関わる範囲が広いぶん、スライドを作る機会がとにかく多い。だから、任せられるものはAIに任せたいと、ずっと思っていました。
-生成AIでスライドを作る——もう珍しくありません。ChatGPTやGeminiに頼めば、見た目の整ったスライドが数十秒で出てきます。
-ただ、出てくるスライドは基本的に「画像」。きれいでも、文字や図形を選べず、あとから1か所も直せません。
-この記事で紹介するのは、AIに作らせたスライドを、見た目はそ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/flux/articles/5446dba24b5100</guid>
-      <pubDate>Wed, 19 Aug 2026 10:21:19 +0000</pubDate>
+      <title>「予測して終わり」の機械学習パイプラインにAIエージェントを組み込む — scikit-learnの離脱予測モデルが自律的にリテンション施策を実行するまで</title>
+      <link>https://techfeed.io/entries/6a8ccebe877bc8b0b7d772fe?from=rss</link>
+      <description>8月24日、Machine Learning MasteryのAI・機械学習分野のライターであるIván Palomares Carrascosaが「Integrating Agentic AI with Existing Machine Learning Pipelines」と題した記事を公開した。この記事では、既存のscikit-learnベースの機械学習パイプラインにAIエージェントを組み込み、顧客離脱予測から自律的なリテンション施策実行までを一本のPythonアプリケーションとして完成させる手順について詳しく紹介されている。なぜ今「Agentic AI × 機械学習パイプライン」なのか近年、LLMの実用化が進むにつれて「AIエージェント」や「Agentic AI」という概念への注目が急速に高まっている。LangChainやAutoGenといったフレームワークがその代表例であり、LLMに「ツールを呼び出して行動する」能力を与えることで、単なる文章生成を超えた自律的なタスク実行を可能にするアーキテクチャとして広く議論されるようになった。しかし、こうした議論の多くはチャットボットや情 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a8ccebe877bc8b0b7d772fe?from=rss</guid>
+      <pubDate>Mon, 24 Aug 2026 23:07:42 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントに「組織図」が必要な理由 — パーミッションはアカウンタビリティではない。88%の企業がインシデントを経験しても、ガバナンスが追いついていない現実</title>
-      <link>https://techfeed.io/entries/6a8b7c45877bc8b0b7d65a44?from=rss</link>
-      <description>8月24日、AvePoint（Microsoft 365環境向けデータ管理・ガバナンスで知られるエンタープライズSaaS企業）のChief Transformation OfficerであるDux Raymond Syが「Why every AI agent needs an org chart」と題した記事を公開した。AIエージェントのガバナンスを語るとき、多くの組織は「パーミッション（アクセス権限）を設定したから安全だ」と誤解している。しかしパーミッションは「何ができるか」を定義するだけで、「誰がその結果に責任を持つか」は何も定義しない——この「パーミッション ≠ アカウンタビリティ」という核心的な問題を、Syは組織図になぞらえた所有権構造の導入によって解決できると論じている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a8b7c45877bc8b0b7d65a44?from=rss</guid>
-      <pubDate>Sun, 23 Aug 2026 23:03:33 +0000</pubDate>
+      <title>動かして理解するOpenTelemetry</title>
+      <link>https://zenn.dev/simplex/articles/c24bd2788f5831</link>
+      <description>シンプレクスでエンジニアをしている清家です。
+とあるプロジェクトで、複数サブシステムを跨いでログ・メトリクスをどのように取得するかを検討する必要がありました。
+分散システムの運用で特に重要なのは、ユーザのリクエストをセッション単位で追跡し、時系列順にユーザの操作とそれに伴うサブシステム毎のログを把握できることです。
+これにより、たとえば「ECサイトでカートに商品を追加したら失敗した」という問い合わせに対して、そのセッションで何が起きていたか（在庫切れの商品を追加しようとした、など）を特定し、正確に回答できます。
+今回は、分散システムにおけるオブザーバビリティ確保の考え方としてOpenTe... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/simplex/articles/c24bd2788f5831</guid>
+      <pubDate>Mon, 24 Aug 2026 07:18:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
