@@ -7,33 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 06:53:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:54:43 +0000</lastBuildDate>
     <item>
-      <title>API・CSV・RPA・iPaaS・純正連携の5つを比較してみた｜「一番ラクなのはどれ？」を6つの物差しで調べた</title>
-      <link>https://qiita.com/songchong/items/0badbbe2a467a6b09c64?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>「システムをつなぎたい」と相談すると、まずAPIの話になります。でも実際に業務が回るようになった事例を聞いてみると、CSVの受け渡しで終わっていたり、そもそもベンダーの標準機能で足りていたりします。
-
-「結局、うちの場合はどれで繋ぐのが一番ラクで、いくらかかるのか」
-
-これ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/songchong/items/0badbbe2a467a6b09c64?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Sat, 22 Aug 2026 13:49:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>家族で使うAIエージェントのDiscord運用</title>
-      <link>https://zenn.dev/kimushun1101/articles/family-ai-agents-on-discord</link>
-      <description>はじめに
-もともと自分専用のAIエージェントをDiscordに常駐させて、メモの記録や調べ物をチャットから頼んでおりました。使っているうちに旅行の計画や献立の相談など家族に関わる話題が増えてきたため、妻も同じサーバーからエージェントに話しかけられる形に拡張しました。ただしClaude Maxのような個人向け定額プランは、アカウントを本人以外が使うと規約違反になってしまいます。本記事では、Anthropicの規約と両立させながら家族でAIエージェントを使うためのDiscordサーバーの構成を紹介します。
-エージェントの常駐にはからあげ（karaage0703）さんが公開されているOSS... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kimushun1101/articles/family-ai-agents-on-discord</guid>
-      <pubDate>Sat, 22 Aug 2026 22:28:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>TwitchがAI学習開示と同日に利用規約を書き換えていた — 「旧規約では許可されていなかった証拠だ」と配信者がAmazonを提訴</title>
-      <link>https://techfeed.io/entries/6a8ccecc877bc8b0b7d7731c?from=rss</link>
-      <description>8月24日、The Next Webが「Twitch rewrote its licence terms the day it revealed AI training」と題した記事を公開した。この記事では、TwitchがAI学習の開示と同日に利用規約を書き換えていたことを根拠に、配信者がTwitchとAmazonを訴えたクラスアクション訴訟について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a8ccecc877bc8b0b7d7731c?from=rss</guid>
-      <pubDate>Mon, 24 Aug 2026 23:07:56 +0000</pubDate>
+      <title>オーストラリアがAI生成楽曲を公式チャートから排除 — 「実質的に人間が作った曲」だけがランクインできる時代へ</title>
+      <link>https://techfeed.io/entries/6a8e1ffe877bc8b0b7d84d27?from=rss</link>
+      <description>8月25日、Digital Trendsが「Australia's music charts just banned AI made songs, and it's a big deal」と題した記事を公開した。AIで作られた楽曲がチャート1位を獲得し、業界が沈黙を破った——オーストラリアの音楽業界団体ARIAが、AI生成楽曲を公式チャートの資格要件から全面的に排除するルールを導入した。ストリーミング全盛期において「チャートに何を載せるか」は単なる集計の問題ではなく、クリエイターへの報酬・評価・権利保護の根幹に関わる。この決定が「大きな出来事」と報じられるゆえんはそこにある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a8e1ffe877bc8b0b7d84d27?from=rss</guid>
+      <pubDate>Tue, 25 Aug 2026 23:06:38 +0000</pubDate>
     </item>
     <item>
       <title>Ctrl+C でプログラムが止まる仕組みを調べた</title>
@@ -52,15 +32,21 @@ cat や sleep が Ctrl+C で終了するの... (source: Zennのトレンド)</de
       <pubDate>Sun, 23 Aug 2026 12:34:45 +0000</pubDate>
     </item>
     <item>
-      <title>具体と抽象と労働需要変化について</title>
-      <link>https://zenn.dev/am_yamauchi/articles/fc68efcca177a1</link>
-      <description>具体と抽象
-細谷功氏の『具体と抽象』はソフトウェアエンジニアを中心にさまざまな人から紹介されているのを目にしており、そしてAudibleで扱いがあったので、軽い気持ちで通勤中や寝る前に聞いてみました。
-本書は分かりにくい本、簡単ではない本という説明ではじまりますが、難しいテーマを、多くの人にとって分かりやすく解説しており、新社会人向けの教材として最適だと感じました。漢字さえ読めれば、子どもにも良い本だと思います。[1]
-Kindle版も購入しました。
-この本は生成AIが社会に浸透する前の2014年に発売され、社会的背景としてはまだホワイトカラー職・デスクワーク職の「具体」部分に多くの... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/am_yamauchi/articles/fc68efcca177a1</guid>
-      <pubDate>Mon, 24 Aug 2026 06:45:38 +0000</pubDate>
+      <title>kqueueを使ったwebサーバーを作ってみる</title>
+      <link>https://zenn.dev/chikina/articles/cad667e78ad5d7</link>
+      <description>はじめに
+Webサーバーの裏では、epollのような仕組みが動いているという話を聞きました。
+Linux系だとepollですが、macOSはkqueueです。
+そこで、kqueueを使ったWebサーバーを作ってみることにしました。
+
+ 準備
+今回はRustで作ります。
+Tokioやmioは使わず、外部クレートはシステムコールを呼ぶためのlibcだけ使います。
+Rustのコードを最低限書いたことがある人を想定し、fdやFutureなどについては必要な分だけ説明します。
+fdとI/O
+OSが開いたファイルやソケットをプロセスから参照するときは、fd（file descriptor） とい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chikina/articles/cad667e78ad5d7</guid>
+      <pubDate>Mon, 24 Aug 2026 22:37:37 +0000</pubDate>
     </item>
     <item>
       <title>あなたのHTML資料には、魂が込められていますか？</title>
@@ -82,22 +68,15 @@ Kindle版も購入しました。
       <pubDate>Mon, 24 Aug 2026 07:06:24 +0000</pubDate>
     </item>
     <item>
-      <title>Goのポインタに抵抗を感じていた理由</title>
-      <link>https://zenn.dev/ncdc/articles/661804f1bb2f95</link>
-      <description>はじめに
-Goに初めて触れたとき、ポインタを使うことに少し抵抗を感じていました。
-例えば、次のようなコードです。
-func update(user *User) {
-	user.Name = "Bob"
-}
-その抵抗感の正体を考えてみると、PHPを書いていた頃の「参照渡しへの警戒心」が関係していました。
-しかし、改めて調べてみると、PHPの参照渡しとGoのポインタは仕組みとしては別物です。
-ただ、なぜ警戒していたのかを掘り下げると、両者には共通する部分もありました。
+      <title>現場で困らないためのGit入門</title>
+      <link>https://zenn.dev/hidetzu/books/git-practical-guide</link>
+      <description>普段Gitは使っているけれど、トラブルが起きるたびに検索しているエンジニア向けのBookです。
 
- なぜ抵抗を感じたのか
-ポインタそのものが難しいというより、「PHPの参照渡しと同じようなものでは？」と勝手にイメー... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/661804f1bb2f95</guid>
-      <pubDate>Sun, 23 Aug 2026 06:51:06 +0000</pubDate>
+コマンドを暗記するのではなく、「今Gitがどんな状態なのか」を確認し、「自分はどんな状態にしたいのか」を考え、そのための操作を選べるようになることを目指します。
+
+基本操作からブランチ、fetch/pull/push、merge/rebase、コンフリクト、事故からの復旧、危険なコマンドの扱い方、チーム運用までを扱います。 (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hidetzu/books/git-practical-guide</guid>
+      <pubDate>Sun, 23 Aug 2026 03:23:32 +0000</pubDate>
     </item>
     <item>
       <title>Bitgetの異常価格で1800万損したが、fableと共闘して取り戻せた話</title>
@@ -115,11 +94,43 @@ https://zenn.dev/kobao/articles... (source: Zennのトレンド)</description>
       <pubDate>Mon, 24 Aug 2026 23:42:53 +0000</pubDate>
     </item>
     <item>
-      <title>「予測して終わり」の機械学習パイプラインにAIエージェントを組み込む — scikit-learnの離脱予測モデルが自律的にリテンション施策を実行するまで</title>
-      <link>https://techfeed.io/entries/6a8ccebe877bc8b0b7d772fe?from=rss</link>
-      <description>8月24日、Machine Learning MasteryのAI・機械学習分野のライターであるIván Palomares Carrascosaが「Integrating Agentic AI with Existing Machine Learning Pipelines」と題した記事を公開した。この記事では、既存のscikit-learnベースの機械学習パイプラインにAIエージェントを組み込み、顧客離脱予測から自律的なリテンション施策実行までを一本のPythonアプリケーションとして完成させる手順について詳しく紹介されている。なぜ今「Agentic AI × 機械学習パイプライン」なのか近年、LLMの実用化が進むにつれて「AIエージェント」や「Agentic AI」という概念への注目が急速に高まっている。LangChainやAutoGenといったフレームワークがその代表例であり、LLMに「ツールを呼び出して行動する」能力を与えることで、単なる文章生成を超えた自律的なタスク実行を可能にするアーキテクチャとして広く議論されるようになった。しかし、こうした議論の多くはチャットボットや情 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a8ccebe877bc8b0b7d772fe?from=rss</guid>
-      <pubDate>Mon, 24 Aug 2026 23:07:42 +0000</pubDate>
+      <title>Sam Altmanが認めた「AI普及の見通しの甘さ」— 人間の習慣の根強さと業界の説明不足が変革を遅らせている</title>
+      <link>https://techfeed.io/entries/6a8e2066877bc8b0b7d84da2?from=rss</link>
+      <description>8月25日、TechSpotが「"We've all been too ambitious": Sam Altman says our old habits are delaying the great AI transition」と題した記事を公開した。この記事では、OpenAIのSam AltmanがAI普及の遅れを「自分たちの見通しが甘すぎた」と認めた発言と、その背景にある業界の課題について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a8e2066877bc8b0b7d84da2?from=rss</guid>
+      <pubDate>Tue, 25 Aug 2026 23:08:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた</title>
+      <link>https://zenn.dev/layerx/articles/e01465a15e79c2</link>
+      <description>こんにちは。アカウント基盤開発部でエンジニアをしている tkmt (たくまつ) です。
+今回は、IETF で標準化が進んでいる Transaction Tokens について調査してまとめてみました。というのも、この Transaction Tokens が解こうとしている課題が、バクラクが抱えていた課題とほとんど同じだったためです。
+実はバクラクでは、同じ課題を解くための仕組みを自作しています。バクラクで実装された仕組みは、ドラフトで検討されている内容とどこが同じで、どこが違うのか読み比べてみたく調査しました。
+
+ 解きたかった課題
+バクラクには、プロダクトを跨いで認可を行いたいケース... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/layerx/articles/e01465a15e79c2</guid>
+      <pubDate>Tue, 25 Aug 2026 05:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>オンコール手当の相場を50社分調べて、1社も見つからなかった話</title>
+      <link>https://zenn.dev/cscloud_blog/articles/e0ea529d061906</link>
+      <description>!
+このブログは CSCでオンコール運用を検討する際に手当について調査した結果 となります。
+これから検討に取り組まれる方はぜひ参考にしてください！
+
+3行で言うと
+
+オンコール手当の「金額」を5チャネル・約50社で調べたら、1件も出てきませんでした。
+
+でも「金額が公開されていない」で終わらせず、「そもそも金額から設計するのが間違いかもしれない」 という気づきがありました。
+実額が取れない前提で、テンプレートから自社基準を作るのが現実的、というのが結論です。
+
+
+ 導入
+WebサービスやSaaS、クラウド基盤の普及で、システムは24時間365日動き続けることが前提になりました。「深夜だ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/cscloud_blog/articles/e0ea529d061906</guid>
+      <pubDate>Tue, 25 Aug 2026 01:27:28 +0000</pubDate>
     </item>
     <item>
       <title>動かして理解するOpenTelemetry</title>

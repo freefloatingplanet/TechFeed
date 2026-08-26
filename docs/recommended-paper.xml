@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 06:53:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:54:48 +0000</lastBuildDate>
     <item>
-      <title>異なるモダリティは互いに連携すべき：長期インフルエンザ予測のためのデュアルストリームマルチモーダル学習</title>
-      <link>https://arxiv.org/abs/2608.23373v1</link>
-      <description>インフルエンザ様疾患 (ILI) の長期的な予測は、公衆衛生上の備えにとって重要です。一般に公開されている監視データセットでは、通常、数値疫学的シグナルと、ノイズが多く、構造が緩く、短期的な傾向に間接的にしか関連しておらず、数値シグナルに比べて遅れていることが多いテキスト情報がペアになっています。そのため、この 2 つを融合するには、慎重な設計が必要です。私たちは、数値ストリームとテキストストリームが互いに条件付け合うようにすることで、36 週間のマルチモーダル履歴から 12 週間先の ILI 活動を予測するマルチモーダル深層学習フレームワークである Dual-Stream Attention (DSA) を提案します。Time-MMD 健康ドメインデータセットを使用して、DSA は 2 つのモダリティを Transformer ベースの数値エンコーダとドメイン適応型見出しエンコーダで別々にエンコードし、双方向 Cross-Modal Attention (CMA) メカニズムを介してそれらを結合します。テキスト (ニュースの見出し) が数値シグナルの解釈を条件付け、その逆も同様です。 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.23373v1</guid>
-      <pubDate>Mon, 24 Aug 2026 15:20:01 +0000</pubDate>
+      <title>サイドスキャンソナー画像における海草生息地マッピングのための弱教師あり海底セグメンテーション</title>
+      <link>https://arxiv.org/abs/2608.24756v1</link>
+      <description>海草藻場は重要なブルーカーボン生息地であり、その範囲をマッピングすることは沿岸管理と炭素インベントリの前提条件です。光学衛星センサーは広範囲をカバーしますが、深海や濁った水域には到達できません。一方、サイドスキャンソナー（SSS）は高解像度で任意の深度の海底を画像化できます。しかし、SSSの解釈は依然として高密度の手動アノテーションに依存しており、これは時間がかかりコストもかかります。私たちは、弱教師ありセマンティックセグメンテーションフレームワークをSSS底生生息地マッピングに適用することでこの問題を解決し、画像レベルのラベルのみからピクセルレベルのマップを学習します。このフレームワークは、ViTベースのエンコーダー/デコーダーと分類ブランチを組み合わせ、クラス活性化マップを抽出し、音響画像のノイズと境界の弱さに合わせて調整した高密度条件付きランダムフィールドを使用して擬似ラベルに洗練します。これは、反復的な自己学習スキームと、データの強いクラス不均衡に対処するためのサンプリング戦略に従います。また、異なる損失関数がセグメンテーション品質に及ぼす影響も調査し、Lovász-Softm (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.24756v1</guid>
+      <pubDate>Tue, 25 Aug 2026 15:55:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
