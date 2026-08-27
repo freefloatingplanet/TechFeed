@@ -7,20 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 06:54:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 17:28:31 +0000</lastBuildDate>
+    <item>
+      <title>ハッブル宇宙望遠鏡が観測した“逆S字”型の惑星状星雲「NGC 5189」</title>
+      <link>https://sorae.info/astronomy/20260820-ngc-5189.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 5189」。はえ座の方向、地球から約1780光年先にあります。 星雲の中央を左右に貫く青白い帯状の構造は、高密度なガスの領域です。そこから放射状に伸びたオレンジ色… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260820-ngc-5189.html</guid>
+      <pubDate>Thu, 20 Aug 2026 12:33:37 +0000</pubDate>
+    </item>
     <item>
       <title>中国が「長征6号丙」ロケットを打ち上げ　7機の衛星を軌道投入</title>
       <link>https://sorae.info/ssn/20260826-casc-7satellites.html</link>
       <description>CASC（中国航天科技集団）は、日本時間2026年8月25日に太原衛星発射センターから「長征6号丙」ロケットを打ち上げ、7機の衛星を所定の軌道へ投入することに成功したと発表しました。 打ち上げに関する情報は以下の通りです… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/ssn/20260826-casc-7satellites.html</guid>
       <pubDate>Wed, 26 Aug 2026 05:49:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>火星着陸から14年　いまも現役のNASA探査車「キュリオシティ」</title>
-      <link>https://sorae.info/astronomy/20260819-curiosity-mars-14th.html</link>
-      <description>NASA（アメリカ航空宇宙局）の火星探査車「キュリオシティ（Curiosity）」が日本時間2026年8月6日、火星着陸から14周年を迎えました。NASAは同月17日、14周年を祝うミッションブログを公開しています。本記… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260819-curiosity-mars-14th.html</guid>
-      <pubDate>Wed, 19 Aug 2026 10:08:53 +0000</pubDate>
     </item>
     <item>
       <title>直径約32億光年の超大規模構造「ジャイアント・リング」を発見　従来の理論では説明がつかず</title>
@@ -30,18 +30,18 @@
       <pubDate>Sat, 22 Aug 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>「アイデアの実現スピードを上げるために人手は足りなくなる」ジェフ・べゾス氏が描く、宇宙と地球の未来の姿とインフラ構築の現在地【VIVATECH 2026現地レポート】</title>
-      <link>https://sorabatake.jp/46617/</link>
-      <description>欧州最大規模のテクノロジー・カンファレンス「VIVATECH 2026」において、Amaozn、そして、Blue Originの創業者であるジェフ・ベゾス氏が登壇。特別セッションで語られた、宇宙インフラ構築の現在地と今後の構想をまとめました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46617/</guid>
-      <pubDate>Tue, 28 Jul 2026 23:49:39 +0000</pubDate>
-    </item>
-    <item>
       <title>スペースX「ファルコン9」上段が月面に衝突　形成されたクレーターをNASA月周回衛星が撮影</title>
       <link>https://sorae.info/space/20260821-f9-upper-stage-impact-site.html</link>
       <description>こちらは、NASA（アメリカ航空宇宙局）の月周回衛星「LRO（ルナー・リコネサンス・オービター）」に搭載されている光学観測装置「LROC」を使って、2026年8月11日に撮影された月面の様子。中央の四角で囲まれている部分… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260821-f9-upper-stage-impact-site.html</guid>
       <pubDate>Fri, 21 Aug 2026 08:04:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>「アイデアの実現スピードを上げるために人手は足りなくなる」ジェフ・べゾス氏が描く、宇宙と地球の未来の姿とインフラ構築の現在地【VIVATECH 2026現地レポート】</title>
+      <link>https://sorabatake.jp/46617/</link>
+      <description>欧州最大規模のテクノロジー・カンファレンス「VIVATECH 2026」において、Amaozn、そして、Blue Originの創業者であるジェフ・ベゾス氏が登壇。特別セッションで語られた、宇宙インフラ構築の現在地と今後の構想をまとめました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46617/</guid>
+      <pubDate>Tue, 28 Jul 2026 23:49:39 +0000</pubDate>
     </item>
     <item>
       <title>「複数社から見積もりが取れる領域は開発しない」宇宙空間で巨大建造物を組み立てるSpace Quartersが宇宙関連スタートアップでIVS初優勝</title>
