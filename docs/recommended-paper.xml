@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 27 Aug 2026 17:28:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:22:22 +0000</lastBuildDate>
     <item>
-      <title>増幅であって学習ではない：AIテキスト検出における分布外汎化の代償</title>
-      <link>https://arxiv.org/abs/2605.21653v2</link>
-      <description>AIテキスト検出器は、教育、採用、出版における意思決定を左右するが、最も流暢で形式的な人間の文章を機械生成と判定する。形式的でネイティブな人間のエッセイの中央値を99.5%の確率でAIと判定する一方で、真の高温AIを10.5%の確率でAIと判定する。展開されている検出器はこれと同じ結果を示している（chatgpt-detector-robertaは形式的なエッセイの56%を1%の誤警報率でAIと判定する）。これはキャリブレーションのバグではなく、あるメカニズムの特徴である。微調整された検出器はAIと人間の境界を学習するのではなく、微調整前に存在する継承された典型性軸（言語モデルに基づく予測可能性）を増幅し、それを再スケーリングするだけで構築しない。検出器をこの継承された読み取りと微調整された残差に分解すると、継承された部分は生成器間の転送の大部分を担い、形式的な人間の文章を過剰にAIと判定する一方、残差は生成器固有のものであり、転送されない。クラスごとに約 25 個のラベルに適合した凍結表現プローブは、未知のジェネレーター上で完全にファインチューニングされた検出器と一致します (ジェネ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.21653v2</guid>
-      <pubDate>Wed, 20 May 2026 19:08:38 +0000</pubDate>
+      <title>CLAP：クロスエンボディメントビデオワールドモデルはゼロショット物理シミュレーターである</title>
+      <link>https://arxiv.org/abs/2608.27406v1</link>
+      <description>最先端の動作条件付きビデオモデルは通常、単一のロボット形態に限定されているため、汎用的な物理を学習するための豊富な信号を含む膨大な異種ビデオデータ群を活用することができません。このギャップを埋めるために、人間とロボットエージェントにわたる多様なインターネット規模のビデオでトレーニング可能な、クロスエンボディメント動作条件付きビデオ生成のフレームワークであるCLAPを紹介します。CLAPは、行為者に関係なく、普遍的な物理法則が時空間ダイナミクスを支配するという洞察に基づいています。しかし、動作表現はロボットプラットフォーム間で大きく異なり、人間のビデオには通常含まれていないため、クロスエンボディメント学習は容易ではありません。CLAPは、次の主要な貢献によってこの根本的な課題に取り組みます。まず、CLAPは、エンドエフェクタの姿勢、言語指示、および潜在動作を使用して、異なる動作空間を調和させます。第二に、個々の限界を克服するために、CLAPはカリキュラムベースのクロスエンボディメント学習レシピを導入します。これは、まず潜在的アクションを使用してラベルなしビデオデータ全体にわたって基本的な (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.27406v1</guid>
+      <pubDate>Thu, 27 Aug 2026 17:35:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

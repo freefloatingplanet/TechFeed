@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 27 Aug 2026 17:28:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:22:24 +0000</lastBuildDate>
     <item>
-      <title>Javaニュースまとめ：JDK 27-RC1、OpenJDK JEPs、Jakarta EE、BellSoft、Helidon、Micrometer、Tika 4.0</title>
-      <link>https://www.infoq.com/news/2026/08/java-news-roundup-aug17-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>2026年8月17日付けの今週のJavaニュースまとめでは、JDK 27の最初のリリース候補版、JDK 28向けのJEP 541とJEP 540、Apache Tika 4.0のGAリリース、Helidonのメンテナンスリリース、Micrometer Metrics 1.18とMicrometer Tracing 1.8の最初のマイルストーンリリース、Jakarta EE 12のアップデート、そしてBellSoftの重要なセキュリティパッチアップデートを取り上げています。執筆：Michael Redlich (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/08/java-news-roundup-aug17-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 25 Aug 2026 15:20:00 +0000</pubDate>
+      <title>Cloudflare Walletsがx402に遅れて登場し、支出管理は支払いの段階で停止する</title>
+      <link>https://www.infoq.com/news/2026/08/agent-payment-rails-x402/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Cloudflareは、エージェントにステーブルコインの残高と支出管理機能を提供するウォレットを発表したが、現在稼働しているのはハンドルの請求機能のみで、すでに不正利用の苦情が寄せられている。支払いは、現在Linux Foundationがホストするx402上で実行される。この管理機能は、一連の支払いではなく、単一の支払いを拘束するため、支払いの構成は上位のアプリケーションに委ねられる。執筆：Steef-Jan Wiggers (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/08/agent-payment-rails-x402/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 27 Aug 2026 09:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
