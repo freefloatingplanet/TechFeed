@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:22:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:30:30 +0000</lastBuildDate>
+    <item>
+      <title>GitHub Enterprise導入とTeams再設計で最小権限と俊敏性を両立。30人規模スタートアップの実践</title>
+      <link>https://zenn.dev/unsoluble_sugar/articles/github-org-least-privilege</link>
+      <description>はじめに
+仕事でITセキュリティを担当しており、今回、社内のGitHub Organizationの権限設計を見直す機会がありました。GitHub Enterpriseを新規契約し、Base permissionsの変更を軸に、リポジトリ・Teams・メンバー・権限・認証・運用ルールを横断して再設計するという内容です。
+いざ取り組んでみると、GitHubには詳細な公式ドキュメントがある一方で、「組織全体としてどう設計し、どの順序で既存Organizationに適用するか」をまとめた事例はネット上にあまり見当たりませんでした。結局、自分で実際に設定を触りながら設計と実作業を進め、何とか... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/unsoluble_sugar/articles/github-org-least-privilege</guid>
+      <pubDate>Fri, 28 Aug 2026 12:08:53 +0000</pubDate>
+    </item>
     <item>
       <title>Claude Code の承認待ちを見逃さないために、光る Clawd を机に置いた</title>
       <link>https://zenn.dev/lincwell_inc/articles/79092d88245748</link>
@@ -39,29 +48,18 @@ M5Atom Lite(... (source: Zennのトレンド)</description>
       <pubDate>Thu, 27 Aug 2026 01:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>AI が作る「ドット絵風」を本物のドット絵に変換する Web ツール「Pixel Refiner」を作りました</title>
-      <link>https://zenn.dev/happy_onigiri/articles/1a0601d2afec2c</link>
-      <description>画像生成 AI は、ドット絵も描けるようになりました。 少なくとも、遠目にはそう見えます。 私はドット絵のイラストが好きで、SNS のアイコンやプロダクト紹介の 1 枚絵に使いたいと思っていました。 絵心はありませんが、いまは AI が描いてくれます。 ところが、生成された画像を拡大してみると話が変わります。 ドッ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/happy_onigiri/articles/1a0601d2afec2c</guid>
-      <pubDate>Fri, 28 Aug 2026 00:14:49 +0000</pubDate>
+      <title>ArmチップがAIインフラの有力候補として急浮上 — GPU不足・電力コスト・メモリ高騰の三重苦が背景に</title>
+      <link>https://techfeed.io/entries/6a9215d3877bc8b0b7daa7c4?from=rss</link>
+      <description>8月28日、Beth Pariseauが「Arm chips in spotlight amid AI infrastructure cost concerns」と題した記事を公開した。AIインフラのコスト・電力効率をめぐる課題を背景に、ArmチップがデータセンターおよびエンタープライズAI基盤の有力な選択肢として急浮上している現状を詳しく伝えている。GPUの高コスト・希少性・電力消費という三重苦が続く中、Armベースのアーキテクチャが現実的な代替として注目を集めている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a9215d3877bc8b0b7daa7c4?from=rss</guid>
+      <pubDate>Fri, 28 Aug 2026 23:12:19 +0000</pubDate>
     </item>
     <item>
-      <title>DMM Sprint Go に参加してきました🌟</title>
-      <link>https://zenn.dev/s0nmy/articles/85761a4d31c8c2</link>
-      <description>はじめに
-題名の通り DMM Sprint Go に参加してきました！
-DMMの新卒技術研修をアレンジした、Goを実践的に学べる5日間のインターンとなっており、オンラインと対面のハイブリットでの実施でした。
-2027年の参加を考えている学生さんの参考や、社員さんと関わる中で垣間見えたDMMの雰囲気をお伝えします！
-なお、本記事では技術に関する具体的な話は行いません。
-
- AI禁止縛りへの挑戦
-今回のインターンでは実装でAIを使用することなく取り組みました。
-いや〜辛かった。
-ですが、だからこそ！！
-最高に楽しい5日間でした！！
-当たり前ですが、基礎力不足に無力を痛感する場面もありまし... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/s0nmy/articles/85761a4d31c8c2</guid>
-      <pubDate>Wed, 26 Aug 2026 12:38:01 +0000</pubDate>
+      <title>問い合わせへの返答をネットに上げるのって駄目だったの！？</title>
+      <link>https://anond.hatelabo.jp/20260829085942</link>
+      <description>担当者の「私信」を晒したという事が問題にされているが、 記事にある文面がそのままなのだとしたら、どう見ても私信ではなく、団体としての公式な返答なんだよね。 こういった返答をネットに上げるのが駄目だとは知らなかった。 当事者団体にも届いた「アニメ化に抗議して」　「みい山」めぐる担当者の「私信」晒されSN... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://anond.hatelabo.jp/20260829085942</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:51 +0000</pubDate>
     </item>
     <item>
       <title>ICFPC 2026における人間とAIの共闘</title>
@@ -73,13 +71,6 @@ DMMの新卒技術研修をアレンジした、Goを実践的に学べる5日�
 この記事は、7月末に行われた ICFPC 2026 というプログラミングコンテストの参加記録です。ICFPC 2026 の出題は、オーガナイザーの Nolen Royalty 氏がブログ記事で言及されているように、このAI時代におい... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/estie/articles/a6d1e78e8e41d5</guid>
       <pubDate>Fri, 28 Aug 2026 03:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントに「検索ボックス」を渡してはいけない — 型付きツール・反復上限・ガバナンスゲートで多段推論を実装した実験報告</title>
-      <link>https://techfeed.io/entries/6a90c2ba877bc8b0b7d9f12b?from=rss</link>
-      <description>8月27日、Towards Data Scienceが「Stop Giving Your AI Agent a Search Box and Start Giving It Typed Tools, Hard Bounds, and a Gate It Cannot Talk Past」と題した記事を公開した。AIエージェントに汎用検索ではなく型付きツール・ハードバウンド・ガバナンスゲートを与えることで、固定パイプラインでは解けない多段推論を実現できるかを実験で検証した内容だ。本稿はシリーズ第3弾にあたり、Part 1・Part 2で構築したナレッジレイヤーの上にエージェントループを乗せた場合に何が変わるかを、同一コーパス・同一Azureスタックで測定した実践報告である。「エージェントに検索ボックスを渡す」のが間違いな理由AIエージェントの実装において、「ツールとしてベクトル検索を渡してループさせる」というパターンが広まっている。しかしこのアプローチには根本的な問題がある。エージェントの推論は、与えられたツールの語彙によって上限が決まるからだ。vector_search(query)  (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a90c2ba877bc8b0b7d9f12b?from=rss</guid>
-      <pubDate>Thu, 27 Aug 2026 23:05:30 +0000</pubDate>
     </item>
     <item>
       <title>ローカルでの開発やめませんか？Claude Code / Cursorで開発の8割をクラウドに移した話</title>
@@ -106,37 +97,21 @@ https://x.com/ma... (source: Zennのトレンド)</description>
       <pubDate>Tue, 25 Aug 2026 05:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>オンコール手当の相場を50社分調べて、1社も見つからなかった話</title>
-      <link>https://zenn.dev/cscloud_blog/articles/e0ea529d061906</link>
-      <description>!
-このブログは CSCでオンコール運用を検討する際に手当について調査した結果 となります。
-これから検討に取り組まれる方はぜひ参考にしてください！
-
-3行で言うと
-
-オンコール手当の「金額」を5チャネル・約50社で調べたら、1件も出てきませんでした。
-
-でも「金額が公開されていない」で終わらせず、「そもそも金額から設計するのが間違いかもしれない」 という気づきがありました。
-実額が取れない前提で、テンプレートから自社基準を作るのが現実的、というのが結論です。
-
-
- 導入
-WebサービスやSaaS、クラウド基盤の普及で、システムは24時間365日動き続けることが前提になりました。「深夜だ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/cscloud_blog/articles/e0ea529d061906</guid>
-      <pubDate>Tue, 25 Aug 2026 01:27:28 +0000</pubDate>
+      <title>AIエージェントが4段階の処理を経るとき、「誰が頼んだか」という情報は途中で消える — マルチホップ委任のセキュリティ設計</title>
+      <link>https://techfeed.io/entries/6a92157d877bc8b0b7daa796?from=rss</link>
+      <description>8月28日、Cerbosが「Multi-hop delegation for AI agents, and how the consent chain gets lost」と題した記事を公開した。AIエージェントが複数のホップをまたぐ委任チェーンにおいて、ユーザーのIDと同意情報がどのように失われるか、そしてそれをどう防ぐかについて詳しく解説している。Gartnerは2026年末までにエンタープライズアプリの40%がタスク特化型AIエージェントを含むと予測する一方、アジェンティックAIプロジェクトの40%超が2027年末までにリスク管理の不備を理由にキャンセルされると見込んでいる。その「リスク管理の不備」の中核にある問題が、この委任チェーンの設計だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a92157d877bc8b0b7daa796?from=rss</guid>
+      <pubDate>Fri, 28 Aug 2026 23:10:53 +0000</pubDate>
     </item>
     <item>
-      <title>「AIの民主化」を日本で言い出した身として、そろそろ本当に「民主化」をやめたい話</title>
-      <link>https://zenn.dev/miogawa/articles/1170543905ebe0</link>
-      <description>!
-本記事は個人の見解であり、所属組織の公式見解ではありません。
+      <title>「Enterで送信」は滅びよ ~ IME誤爆に疲れたので、チャットの送信に修飾キーを必須にした ~</title>
+      <link>https://zenn.dev/safie_inc/articles/ee72b837e4a5f1</link>
+      <description>みなさんこんにちは。セーフィーで認証基盤まわりを担当しています、中（なか）です。最近は Claude Code に設計や実装を相談することが多く、プロンプトを毎日大量に打っています。
 
-
- はじめに：言い出しっぺとして、いま考えていること
-DataRobot Japanの小川です。日本法人の立ち上げ期から、現場でのAI導入支援とCoE（Center of Excellence／AI推進組織）の立ち上げ伴走をずっとやってきました。
-DataRobotが日本市場に入ってきた当初、私が大好きだったコーポレートメッセージは「Better Predictions. Faster!」でした。国内では「レンジでチンする機械学習」という比喩がよく使われていたのを覚えている方もいると思います。訴求相手はあくまでデータサイ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/miogawa/articles/1170543905ebe0</guid>
-      <pubDate>Tue, 25 Aug 2026 07:44:31 +0000</pubDate>
+ 書きかけのプロンプトが、AI に向かって飛んでいく
+ある日のことです。Claude Code に長めの文章をコピペして、改行を入れてから「これを要約して」と続けるつもりでした。ところが改行のつもりで押した Enter で、貼り付けただけの文章がそのまま送信されてしまいました。指示のない文章を渡された Claude は律儀に解釈を始めます。私はあわててそれを止め、改めて指示を書いて、もう一度送りました。無... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/safie_inc/articles/ee72b837e4a5f1</guid>
+      <pubDate>Fri, 28 Aug 2026 04:23:26 +0000</pubDate>
     </item>
     <item>
       <title>AIは回せば回すほど凄いのか ―「常時稼働」という設計の敗北</title>

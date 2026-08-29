@@ -7,20 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:22:20 +0000</lastBuildDate>
-    <item>
-      <title>中国が「長征6号丙」ロケットを打ち上げ　7機の衛星を軌道投入</title>
-      <link>https://sorae.info/ssn/20260826-casc-7satellites.html</link>
-      <description>CASC（中国航天科技集団）は、日本時間2026年8月25日に太原衛星発射センターから「長征6号丙」ロケットを打ち上げ、7機の衛星を所定の軌道へ投入することに成功したと発表しました。 打ち上げに関する情報は以下の通りです… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260826-casc-7satellites.html</guid>
-      <pubDate>Wed, 26 Aug 2026 05:49:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Aug 2026 12:30:34 +0000</lastBuildDate>
     <item>
       <title>アリアンスペース、「アリアン6」で気象衛星「MTG-I2」の打ち上げに成功</title>
       <link>https://sorae.info/ssn/20260828-ariane-6-mtg-i2.html</link>
       <description>Arianespace（アリアンスペース）は日本時間2026年8月28日、「Ariane 6（アリアン6）」ロケットを打ち上げ、ヨーロッパの気象衛星「MTG-I2」を所定の軌道へ投入しました。 打ち上げに関する情報は以下… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/ssn/20260828-ariane-6-mtg-i2.html</guid>
       <pubDate>Fri, 28 Aug 2026 07:52:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>すばる望遠鏡が迫った彗星の“素顔”　アーカイブデータから彗星核表面の反射特性を精密測定</title>
+      <link>https://sorae.info/astronomy/20260829-subaru-28p-neujmin.html</link>
+      <description>産業医科大学の大坪貴文氏を筆頭とする研究チームは、すばる望遠鏡のアーカイブデータをもとに、彗星「28P/Neujmin（ネウイミン彗星）」の彗星核表面の反射特性を精密に測定することに成功したとする研究成果を発表しました。… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260829-subaru-28p-neujmin.html</guid>
+      <pubDate>Sat, 29 Aug 2026 09:36:28 +0000</pubDate>
     </item>
     <item>
       <title>直径約32億光年の超大規模構造「ジャイアント・リング」を発見　従来の理論では説明がつかず</title>
