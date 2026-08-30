@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 12:31:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:33:43 +0000</lastBuildDate>
     <item>
-      <title>Cloudflare Walletsがx402に遅れて登場し、支出管理は支払いの段階で停止する</title>
-      <link>https://www.infoq.com/news/2026/08/agent-payment-rails-x402/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Cloudflareは、エージェントにステーブルコインの残高と支出管理機能を提供するウォレットを発表したが、現在稼働しているのはハンドルの請求機能のみで、すでに不正利用の苦情が寄せられている。支払いはx402上で実行され、現在はLinux Foundationがホストしている。この管理機能は単一の支払いを拘束し、一連の支払いは拘束しないため、支払いの構成は上位のアプリケーションに委ねられている。執筆：Steef-Jan Wiggers (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/08/agent-payment-rails-x402/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 27 Aug 2026 09:04:00 +0000</pubDate>
+      <title>TanStack Start SaaSにマルチテナント認証を追加する方法</title>
+      <link>https://workos.com/blog/how-to-add-multi-tenant-authentication-to-your-tanstack-start-saas</link>
+      <description>ほとんどのマルチテナントガイドはデータベースについて解説していますが、本書では認証レイヤーについて解説します。組織スコープのセッション、招待フロー、組織切り替え、テナントごとのSSO、そしてテナントチェックをルーティングではなくサーバー関数で行うべき理由について説明します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/how-to-add-multi-tenant-authentication-to-your-tanstack-start-saas</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
