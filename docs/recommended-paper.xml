@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 11:33:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:07:51 +0000</lastBuildDate>
     <item>
-      <title>CLAP：クロスエンボディメントビデオワールドモデルはゼロショット物理シミュレーターである</title>
-      <link>https://arxiv.org/abs/2608.27406v1</link>
-      <description>最先端の動作条件付きビデオモデルは通常、単一のロボット形態に限定されているため、汎用的な物理を学習するための豊富な信号を含む膨大な異種ビデオデータ群を活用することができません。このギャップを埋めるために、人間とロボットエージェントにわたる多様なインターネット規模のビデオでトレーニング可能な、クロスエンボディメント動作条件付きビデオ生成のフレームワークであるCLAPを紹介します。CLAPは、行為者に関係なく、普遍的な物理法則が時空間ダイナミクスを支配するという洞察に基づいています。しかし、動作表現はロボットプラットフォーム間で大きく異なり、人間のビデオには通常含まれていないため、クロスエンボディメント学習は容易ではありません。CLAPは、次の主要な貢献によってこの根本的な課題に取り組みます。まず、CLAPは、エンドエフェクタの姿勢、言語指示、および潜在動作を使用して、異なる動作空間を調和させます。第二に、個々の限界を克服するために、CLAPはカリキュラムベースのクロスエンボディメント学習レシピを導入します。これは、まず潜在的アクションを使用してラベルなしビデオデータ全体にわたって基本的な (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.27406v1</guid>
-      <pubDate>Thu, 27 Aug 2026 17:35:10 +0000</pubDate>
+      <title>REPLICANT: マルウェア検出器を回避および強化するための学習ポリシー</title>
+      <link>https://arxiv.org/abs/2608.28499v1</link>
+      <description>機械学習に基づくマルウェア検出の実際の有効性を判断するには、高度な攻撃者に対する堅牢性を評価することが不可欠です。しかし、最先端の攻撃は、標的のトレーニングデータ、特徴空間、信頼度スコアなどの特権情報へのアクセスを前提としていることが多いため、現実的な攻撃者を効果的にモデル化していません。本研究では、厳密なラベルのみのブラックボックス脅威モデルの下で回避という現実的なタスクを学習する深層強化学習フレームワークであるReplicantを提案します。Replicantは、マルウェアサンプルをどのように変更し、いつ標的にクエリを実行するかに関する再利用可能なポリシーを学習し、サンプル、検出器、特徴空間間で転送されます。7つのAndroidマルウェア検出器と3つの特徴空間において、Replicantは最も強力でクエリ効率の高いアプローチであり、平均攻撃成功率78.8%を達成し、最先端の手法と比較して20.9%～39.2%の相対的な改善を実現しました。さらに、Replicantを敵対的学習に用いると、より汎用性の高い堅牢な検出器を生成することで、最先端の手法を凌駕する性能を発揮します。Repli (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.28499v1</guid>
+      <pubDate>Fri, 28 Aug 2026 16:29:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 11:33:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:07:41 +0000</lastBuildDate>
     <item>
-      <title>「とりあえずAI」時代が終わった — 企業がAI予算を絞りながらもコミットを続ける理由</title>
-      <link>https://techfeed.io/entries/6a936520877bc8b0b7db123c?from=rss</link>
-      <description>8月29日、PYMNTS.comが「Enterprises Tap the Brakes on Tech Budgets While Demanding AI ROI」と題した記事を公開した。世界のIT支出が14.2%増という強気の数字を記録する一方で、個別企業レベルではAI予算を組み替え・精査する動きが同時進行している。マクロ統計とミクロの現場が真逆の方向に動くという、AIサイクルの新局面を伝える内容だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a936520877bc8b0b7db123c?from=rss</guid>
-      <pubDate>Sat, 29 Aug 2026 23:02:56 +0000</pubDate>
+      <title>肥大化し続けるCLAUDE.md</title>
+      <link>https://zenn.dev/tokium_dev/articles/claude-md-keeps-growing</link>
+      <description>はじめに
+TOKIUM でエンジニアをしているちっちです。26卒として入社し、現在は2ヶ月の研修を経て開発に取り組んでいます。
+突然ですが、今お使いのCLAUDE.mdは何行ありますか？
+以前、中身を整理した方も気づくと膨れ上がっていませんか？
+かくいう自分も研修を終えて数週間後、ふとCLAUDE.mdを開いてみると378行ありました。しかも、そこに書いてあることを自分でも半分くらい覚えていません。
+書き足すたびに便利にしているつもりが、実際にやっていたのは自分でも把握できていないものを Claude に毎回読ませることでした。
+
+ 整理しても、静かに崩れていく
+公式ドキュメントには... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/claude-md-keeps-growing</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:09 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code の承認待ちを見逃さないために、光る Clawd を机に置いた</title>
@@ -70,43 +78,50 @@ https://x.com/ma... (source: Zennのトレンド)</description>
       <pubDate>Wed, 26 Aug 2026 11:58:18 +0000</pubDate>
     </item>
     <item>
-      <title>マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた</title>
-      <link>https://zenn.dev/layerx/articles/e01465a15e79c2</link>
-      <description>こんにちは。アカウント基盤開発部でエンジニアをしている tkmt (たくまつ) です。
-今回は、IETF で標準化が進んでいる Transaction Tokens について調査してまとめてみました。というのも、この Transaction Tokens が解こうとしている課題が、バクラクが抱えていた課題とほとんど同じだったためです。
-実はバクラクでは、同じ課題を解くための仕組みを自作しています。バクラクで実装された仕組みは、ドラフトで検討されている内容とどこが同じで、どこが違うのか読み比べてみたく調査しました。
-
- 解きたかった課題
-バクラクには、プロダクトを跨いで認可を行いたいケース... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/layerx/articles/e01465a15e79c2</guid>
-      <pubDate>Tue, 25 Aug 2026 05:00:05 +0000</pubDate>
+      <title>ブラウン大学で86人中40人が満点——AIカンニングが「大学の学位」というシグナルを無効化しつつある</title>
+      <link>https://techfeed.io/entries/6a94b745877bc8b0b7db76a6?from=rss</link>
+      <description>8月30日、Smarter Articlesが「Forty Perfect Scores: How AI Cheating Hollowed Out the Ivy League」と題した記事を公開した。この記事では、アイビーリーグの名門ブラウン大学で起きたAIを使った不正行為スキャンダルと、それが大学の学位認定システムそのものを揺るがしている実態について詳しく紹介されている。※Smarter Articlesは英国発の教育・テクノロジー系オピニオンメディアで、日本国内での知名度は高くないが、本件はブラウン大学教授本人の発言や公開資料に基づいており、内容の裏付けは取れている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a94b745877bc8b0b7db76a6?from=rss</guid>
+      <pubDate>Sun, 30 Aug 2026 23:05:41 +0000</pubDate>
     </item>
     <item>
-      <title>オンコール手当の相場を50社分調べて、1社も見つからなかった話</title>
-      <link>https://zenn.dev/cscloud_blog/articles/e0ea529d061906</link>
-      <description>!
-このブログは CSCでオンコール運用を検討する際に手当について調査した結果 となります。
-これから検討に取り組まれる方はぜひ参考にしてください！
-
-3行で言うと
-
-オンコール手当の「金額」を5チャネル・約50社で調べたら、1件も出てきませんでした。
-
-でも「金額が公開されていない」で終わらせず、「そもそも金額から設計するのが間違いかもしれない」 という気づきがありました。
-実額が取れない前提で、テンプレートから自社基準を作るのが現実的、というのが結論です。
-
-
- 導入
-WebサービスやSaaS、クラウド基盤の普及で、システムは24時間365日動き続けることが前提になりました。「深夜だ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/cscloud_blog/articles/e0ea529d061906</guid>
-      <pubDate>Tue, 25 Aug 2026 01:27:28 +0000</pubDate>
+      <title>創作の主体は、人間だった。 - 初音ミクのお誕生日なので TextAlive App API を使ってみた -</title>
+      <link>https://zenn.dev/tokium_dev/articles/textalive-miku-2026</link>
+      <description>はじめに：エンジニアになった経緯
+はじめまして！株式会社TOKIUMでエンジニアをしている、えしらと申します。
+この春入社し、未経験からエンジニアになりました。
+人生初めてのテックブログは、小学生の頃からずっと好きな初音ミク[1]をテーマに書いてみることにしました。
+特に初音ミクの創作文化とライブが好きで、絵を描いたり、グッズを自作したり、DJしたり、ライブを見るために津々浦々を旅したり、いろいろなことをして生きています。
+毎年夏に開催されるマジカルミライ[2]には、高一で初めて参加した「マジカルミライ2019」で心をつかまれてから、ずっと通っています。
+マジカルミライでは、毎年プロ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/textalive-miku-2026</guid>
+      <pubDate>Mon, 31 Aug 2026 03:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>LangGraphで作ったAIエージェントの予約データをPostgresに永続化する — DockerとクラウドDB両対応の実装手順</title>
-      <link>https://techfeed.io/entries/6a936639877bc8b0b7db1387?from=rss</link>
-      <description>8月29日、Soner Yıldırımが「Connecting My LangGraph AI Agent to Postgres」と題した記事を公開した。LangGraphベースのAIエージェントはデフォルトではインメモリで状態を管理するため、アプリを再起動すると会話の進行状態がすべて消える。予約システムとして実用するには、状態をDBに永続化する仕組みが不可欠だ。本記事では、そのPostgres接続を実現する具体的な手順と、2つのブラウザウィンドウで予約の重複が正しく弾かれるという印象的な動作検証が紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a936639877bc8b0b7db1387?from=rss</guid>
-      <pubDate>Sat, 29 Aug 2026 23:07:36 +0000</pubDate>
+      <title>「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計</title>
+      <link>https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas</link>
+      <description>はじめに
+株式会社FAcraftの山本です。
+FAcraftは、大手製造業向けのSaaSを開発・運用している小規模なスタートアップです。サービス基盤の一つとして、AWSを利用しています。
+SaaSを提供する以上、しっかりとしたセキュリティ対策を行うことは当然ですが、大手製造業向けにサービスを提供していると、顧客からも具体的で高い水準のセキュリティ要件を求められることが珍しくありません。
+FAcraftでも、少人数のスタートアップとしてはなかなか重いと思えるようなセキュリティ構成をAWS上に構築しています。
+この記事では、その全体像と、それぞれの仕組みをどのような意図で取り入れているの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas</guid>
+      <pubDate>Sat, 29 Aug 2026 14:29:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>SPFとDKIMとDMARCの役割の違いを整理する</title>
+      <link>https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles</link>
+      <description>Introduction
+「独自ドメインからメールを送りたい」と思ったとき、SPF・DKIM・DMARCという3つの単語に出会うことがあります。どれも「なりすましメール対策」の文脈で出てきますが、名前が似ているうえに設定もDNSレコードとして書くため、最初は「結局どれが何をしているのか」が非常に分かりにくいです。
+この記事では、この3つがそれぞれ何を保証していて、なぜ1つではなく3つ揃って初めて意味を持つのかを整理します。前提知識として、DNSにレコードを追加した経験（TXTレコードとは何か程度）があると読みやすいですが、必須ではありません。
+
+ 一言でいうと
+
+
+SPF：「このドメ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles</guid>
+      <pubDate>Sat, 29 Aug 2026 14:36:39 +0000</pubDate>
     </item>
     <item>
       <title>「Enterで送信」は滅びよ ~ IME誤爆に疲れたので、チャットの送信に修飾キーを必須にした ~</title>
@@ -117,24 +132,6 @@ WebサービスやSaaS、クラウド基盤の普及で、システムは24時�
 ある日のことです。Claude Code に長めの文章をコピペして、改行を入れてから「これを要約して」と続けるつもりでした。ところが改行のつもりで押した Enter で、貼り付けただけの文章がそのまま送信されてしまいました。指示のない文章を渡された Claude は律儀に解釈を始めます。私はあわててそれを止め、改めて指示を書いて、もう一度送りました。無... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/safie_inc/articles/ee72b837e4a5f1</guid>
       <pubDate>Fri, 28 Aug 2026 04:23:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIは回せば回すほど凄いのか ―「常時稼働」という設計の敗北</title>
-      <link>https://zenn.dev/eggletric/articles/4ea81df765fb66</link>
-      <description>SNSに溢れる「AI常時ぶん回し」への違和感
-近年、SNSでこういう投稿をよく見かけます。
-
-「AIエージェントを24時間動かして開発を完全自動化しました」
-「寝ている間もAIがコードを書き続けています」
-「AI社員を常時稼働させて、プロダクトを量産中です」
-
-一見すると、とても先進的で凄そうに見えます。
-実際、こうした投稿は伸びやすく、「これからはこういう時代だ」という空気も感じます。
-ただ、現役の開発者としてAIを日常的に使っている立場から、どうしても引っかかることがあります。
-本当に、そんなに回す必要があるのでしょうか?
-後述しますが、コストの面でも設計の面でも、「常時稼働」は... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/eggletric/articles/4ea81df765fb66</guid>
-      <pubDate>Mon, 24 Aug 2026 22:20:05 +0000</pubDate>
     </item>
     <item>
       <title>GPUを燃やさないために - RTX 5090にパワーリミットをかけると、性能はどれだけ落ち、どれだけ冷えるのか -</title>

@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 11:33:39 +0000</lastBuildDate>
-    <item>
-      <title>ルクセンブルクが描く宇宙ビジネス立国へのグランドデザインとは？異業種イノベーションを牽引する欧州の宇宙ビジネスハブ</title>
-      <link>https://sorabatake.jp/46796/</link>
-      <description>通信や地球観測から微小重力を生かした創薬まで、ルクセンブルクに集積する宇宙スタートアップの最前線と、その成功を支える国家戦略を紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46796/</guid>
-      <pubDate>Sun, 30 Aug 2026 00:18:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国が「長征6号丙」ロケットを打ち上げ　7機の衛星を軌道投入</title>
-      <link>https://sorae.info/ssn/20260826-casc-7satellites.html</link>
-      <description>CASC（中国航天科技集団）は、日本時間2026年8月25日に太原衛星発射センターから「長征6号丙」ロケットを打ち上げ、7機の衛星を所定の軌道へ投入することに成功したと発表しました。 打ち上げに関する情報は以下の通りです… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260826-casc-7satellites.html</guid>
-      <pubDate>Wed, 26 Aug 2026 05:49:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Aug 2026 13:07:45 +0000</lastBuildDate>
     <item>
       <title>アリアンスペース、「アリアン6」で気象衛星「MTG-I2」の打ち上げに成功</title>
       <link>https://sorae.info/ssn/20260828-ariane-6-mtg-i2.html</link>
@@ -44,18 +30,11 @@
       <pubDate>Fri, 28 Aug 2026 12:28:21 +0000</pubDate>
     </item>
     <item>
-      <title>中国の月探査機「嫦娥7号」2026年内の打ち上げを見送り　新たな実施時期は未定</title>
-      <link>https://sorae.info/space/20260824-change-7.html</link>
-      <description>CMSA（中国有人宇宙プロジェクト弁公室）は2026年8月23日、月探査機「嫦娥7号（じょうがななごう）」のミッションについて、2026年に予定していた期間内での打ち上げを見送ると発表しました。 発表によると、安全性と確… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260824-change-7.html</guid>
-      <pubDate>Sun, 23 Aug 2026 18:56:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>「複数社から見積もりが取れる領域は開発しない」宇宙空間で巨大建造物を組み立てるSpace Quartersが宇宙関連スタートアップでIVS初優勝</title>
-      <link>https://sorabatake.jp/46660/</link>
-      <description>次世代の起業家の登竜門とされる国内最大級のピッチコンテスト「IVS2026 LAUNCHPAD（ローンチパッド）」にて、Space Quartersが宇宙関連スタートアップで初優勝となりました。事業概要と展望について、プレゼンターも務めた同社COOの高橋さんのコメントと合わせて紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46660/</guid>
-      <pubDate>Sat, 01 Aug 2026 02:33:50 +0000</pubDate>
+      <title>スペースXがNASAの「ローマン宇宙望遠鏡」をファルコンヘビーで打ち上げ</title>
+      <link>https://sorae.info/ssn/20260830-roman-space-telescope.html</link>
+      <description>SpaceX（スペースX）は日本時間2026年8月30日に、ケネディ宇宙センターから「Falcon Heavy（ファルコンヘビー）」ロケットの打ち上げを実施しました。搭載されていたNASA（アメリカ航空宇宙局）の「ナンシ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260830-roman-space-telescope.html</guid>
+      <pubDate>Sun, 30 Aug 2026 14:37:18 +0000</pubDate>
     </item>
     <item>
       <title>NASAの天文衛星「パンドラ」が科学観測を開始　特定の太陽系外惑星を集中観測へ</title>
@@ -65,11 +44,32 @@
       <pubDate>Fri, 28 Aug 2026 08:18:55 +0000</pubDate>
     </item>
     <item>
+      <title>「複数社から見積もりが取れる領域は開発しない」宇宙空間で巨大建造物を組み立てるSpace Quartersが宇宙関連スタートアップでIVS初優勝</title>
+      <link>https://sorabatake.jp/46660/</link>
+      <description>次世代の起業家の登竜門とされる国内最大級のピッチコンテスト「IVS2026 LAUNCHPAD（ローンチパッド）」にて、Space Quartersが宇宙関連スタートアップで初優勝となりました。事業概要と展望について、プレゼンターも務めた同社COOの高橋さんのコメントと合わせて紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46660/</guid>
+      <pubDate>Sat, 01 Aug 2026 02:33:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASA天文衛星「スウィフト」が科学観測を再開　大気圏再突入までに可能な限り運用へ</title>
+      <link>https://sorae.info/space/20260831-nasa-swift.html</link>
+      <description>NASA（アメリカ航空宇宙局）は2026年8月28日付で、ガンマ線観測衛星「ニール・ゲーレルス・スウィフト（Neil Gehrels Swift）」の科学観測が再開したことを発表しました。 後述する軌道上昇ミッションに備… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260831-nasa-swift.html</guid>
+      <pubDate>Mon, 31 Aug 2026 08:14:35 +0000</pubDate>
+    </item>
+    <item>
       <title>令和8年熊本地震で衛星データを活用。JAXAや企業による緊急観測・被害推定・復旧支援【随時更新】</title>
       <link>https://sorabatake.jp/46713/</link>
       <description>「令和8年熊本地震」を受け、JAXAや宇宙関連企業各社が、衛星による被災地域の緊急観測やデータの提供、復旧・復興を支えるサービスの無償提供などに取り組んでいます。宇宙技術が災害対応にどのように活かされているのか、各機関や企業の動きをまとめました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46713/</guid>
       <pubDate>Wed, 05 Aug 2026 06:15:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>90年前に予測された現象「真空複屈折」を発見？　マグネターの観測結果から有力な証拠を観測</title>
+      <link>https://sorae.info/astronomy/20260831-vacuum-birefringence.html</link>
+      <description>量子力学における「真空」とは、何もない空間ではなく、仮想的な粒子ペアが常に生成・消滅している空間であると考えられています。この性質から予測される現象として、光（電磁波）を2つの方向に分ける「真空複屈折」が予測されていまし… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260831-vacuum-birefringence.html</guid>
+      <pubDate>Mon, 31 Aug 2026 12:56:02 +0000</pubDate>
     </item>
     <item>
       <title>星座早見盤や展示物を手がかりに謎を解く！『真夜中の宇宙博物館からの脱出』体験レポート</title>
