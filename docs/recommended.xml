@@ -7,22 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 13:07:41 +0000</lastBuildDate>
-    <item>
-      <title>肥大化し続けるCLAUDE.md</title>
-      <link>https://zenn.dev/tokium_dev/articles/claude-md-keeps-growing</link>
-      <description>はじめに
-TOKIUM でエンジニアをしているちっちです。26卒として入社し、現在は2ヶ月の研修を経て開発に取り組んでいます。
-突然ですが、今お使いのCLAUDE.mdは何行ありますか？
-以前、中身を整理した方も気づくと膨れ上がっていませんか？
-かくいう自分も研修を終えて数週間後、ふとCLAUDE.mdを開いてみると378行ありました。しかも、そこに書いてあることを自分でも半分くらい覚えていません。
-書き足すたびに便利にしているつもりが、実際にやっていたのは自分でも把握できていないものを Claude に毎回読ませることでした。
-
- 整理しても、静かに崩れていく
-公式ドキュメントには... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/claude-md-keeps-growing</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Sep 2026 11:21:49 +0000</lastBuildDate>
     <item>
       <title>Claude Code の承認待ちを見逃さないために、光る Clawd を机に置いた</title>
       <link>https://zenn.dev/lincwell_inc/articles/79092d88245748</link>
@@ -66,48 +51,55 @@ M5Atom Lite(... (source: Zennのトレンド)</description>
       <pubDate>Sat, 29 Aug 2026 15:49:58 +0000</pubDate>
     </item>
     <item>
-      <title>ローカルでの開発やめませんか？Claude Code / Cursorで開発の8割をクラウドに移した話</title>
-      <link>https://zenn.dev/sc30gsw/articles/953334f11df507</link>
+      <title>PR の概要や動作確認結果を HTML で共有するのに、zip 不要の GitHub Actions Artifact がちょうどよかった</title>
+      <link>https://zenn.dev/she_techblog/articles/github-actions-artifact-no-zip</link>
+      <description>こんにちは、SHE株式会社でエンジニアをしています hatsu です。
+日頃は CI の速度改善をしたり、Flaky テストを直したり、300 個以上のカラムに not null 制約を加えていったり、そういう改善をしています。
+今回はそんな中でも、GitHub Actions の Artifact に関しての話です。
+最近知ったのですが、2026年2月26日 に GitHub Actions の Artifact が zip 化なしでアップロードできるようになったんですね。
+これがかなり便利で、今ではよく使っています。
+詳しくは後述しますが、今までプルリクエストを出すときには、デザイン... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/she_techblog/articles/github-actions-artifact-no-zip</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>「モデルではなく収益で評価される」時代へ — AIスタートアップ調達トレンド、バリュエーションの根拠が変わった週</title>
+      <link>https://techfeed.io/entries/6a960998877bc8b0b7dc6829?from=rss</link>
+      <description>8月31日、startuphub.aiが「AI Startup Funding Trends: Week of Aug 25-31, 2026」と題した記事を公開した。2026年8月25日〜31日の週は、AIスタートアップの調達市場において「ビジョン評価からARR評価へ」という構造転換が最も鮮明に可視化された一週間となった。AIセーフティの商業化、垂直SaaSの大型調達、自律物流の実運用拡大——いずれのラウンドも、バリュエーションの根拠として「実際の契約収益・処理件数」を前面に打ち出している点が共通しており、2年前のAIスタートアップ調達とは明確に異なる市場環境を映している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a960998877bc8b0b7dc6829?from=rss</guid>
+      <pubDate>Mon, 31 Aug 2026 23:09:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>小学校の夏休みの宿題をプロジェクトマネジメントしてみた</title>
+      <link>https://zenn.dev/nextbeat/articles/8f5d24529caea6</link>
+      <description>ネクストビートでプロジェクトマネージャーをしている一石です。
+今回は小学校低学年の子どもの夏休みの宿題を、プロジェクトマネジメントした話を書いてみたいと思います。
+皆さんは小学生のころ、夏休みの宿題は計画的に終わらせる人でしたか？それとも最終日に一気にやる人でしたか？私は後者で、図工とか読書感想文とか、時間がかかるものが最後まで残って泣きながらやっているタイプでした…
+そんな私も父となり、小学校低学年の子どもがいます。7月も終わり8月に入る頃、何やら夏休みの宿題の進みが悪いようで、私が見てあげることになりました。
+宿題を終わらせるために、プロジェクトマネジメントの観点で整理・計画・管理を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nextbeat/articles/8f5d24529caea6</guid>
+      <pubDate>Mon, 31 Aug 2026 11:01:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spannerのback joinを読み解く</title>
+      <link>https://zenn.dev/kauche/articles/23c490c3872f77</link>
       <description>はじめに
-退勤直前にタスクを投げ、PCを閉じて帰る。寝ている間にテスト、AIによるレビュー修正まで回ってPRが上がってくる。翌朝、上がってきたPRをレビューする。
-これは現在の私の開発の実情です。私がここでやることは2つだけで、止まったエージェントを起こすことと、承認が必要なものの確認・許可をすることだけです。
-これは何も私に限った話ではないと感じてます。
-実際クラウドエージェントでの開発は海外では当たり前になりつつあるように思います。grill-meで知られるMatt Pocockさんは、「ローカルの開発環境から離れつつある」とポストしていました。
-https://x.com/ma... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sc30gsw/articles/953334f11df507</guid>
-      <pubDate>Wed, 26 Aug 2026 11:58:18 +0000</pubDate>
+back joinとは、Spannerがsecondary indexで目当ての行を見つけたあと、ベーステーブルへ引き直して残りの列を取得する動作のことです。
+実行計画上でindexを使っていても、back joinのコストによって応答時間は改善しないことがあります。
+ただしback join自体は、避けるべき動作ではありません。問題になるのは回数とタイミングです。
+この記事では、back joinで何が起きるのかとなぜ遅くなるのかを説明します。そのうえで、いつ発生するのか、どう減らすかを見ていきます。
+
+ Spannerのindexとベーステーブル
+Spannerの各テー... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kauche/articles/23c490c3872f77</guid>
+      <pubDate>Mon, 31 Aug 2026 14:42:08 +0000</pubDate>
     </item>
     <item>
-      <title>ブラウン大学で86人中40人が満点——AIカンニングが「大学の学位」というシグナルを無効化しつつある</title>
-      <link>https://techfeed.io/entries/6a94b745877bc8b0b7db76a6?from=rss</link>
-      <description>8月30日、Smarter Articlesが「Forty Perfect Scores: How AI Cheating Hollowed Out the Ivy League」と題した記事を公開した。この記事では、アイビーリーグの名門ブラウン大学で起きたAIを使った不正行為スキャンダルと、それが大学の学位認定システムそのものを揺るがしている実態について詳しく紹介されている。※Smarter Articlesは英国発の教育・テクノロジー系オピニオンメディアで、日本国内での知名度は高くないが、本件はブラウン大学教授本人の発言や公開資料に基づいており、内容の裏付けは取れている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a94b745877bc8b0b7db76a6?from=rss</guid>
-      <pubDate>Sun, 30 Aug 2026 23:05:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>創作の主体は、人間だった。 - 初音ミクのお誕生日なので TextAlive App API を使ってみた -</title>
-      <link>https://zenn.dev/tokium_dev/articles/textalive-miku-2026</link>
-      <description>はじめに：エンジニアになった経緯
-はじめまして！株式会社TOKIUMでエンジニアをしている、えしらと申します。
-この春入社し、未経験からエンジニアになりました。
-人生初めてのテックブログは、小学生の頃からずっと好きな初音ミク[1]をテーマに書いてみることにしました。
-特に初音ミクの創作文化とライブが好きで、絵を描いたり、グッズを自作したり、DJしたり、ライブを見るために津々浦々を旅したり、いろいろなことをして生きています。
-毎年夏に開催されるマジカルミライ[2]には、高一で初めて参加した「マジカルミライ2019」で心をつかまれてから、ずっと通っています。
-マジカルミライでは、毎年プロ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/textalive-miku-2026</guid>
-      <pubDate>Mon, 31 Aug 2026 03:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計</title>
-      <link>https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas</link>
-      <description>はじめに
-株式会社FAcraftの山本です。
-FAcraftは、大手製造業向けのSaaSを開発・運用している小規模なスタートアップです。サービス基盤の一つとして、AWSを利用しています。
-SaaSを提供する以上、しっかりとしたセキュリティ対策を行うことは当然ですが、大手製造業向けにサービスを提供していると、顧客からも具体的で高い水準のセキュリティ要件を求められることが珍しくありません。
-FAcraftでも、少人数のスタートアップとしてはなかなか重いと思えるようなセキュリティ構成をAWS上に構築しています。
-この記事では、その全体像と、それぞれの仕組みをどのような意図で取り入れているの... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas</guid>
-      <pubDate>Sat, 29 Aug 2026 14:29:27 +0000</pubDate>
+      <title>WorkdayがGmailからERP操作を完結させるデモ公開 — 「無法エージェント」と「ガードレール付きエージェント」の違いが示す企業AIの本質</title>
+      <link>https://techfeed.io/entries/6a9609db877bc8b0b7dc687c?from=rss</link>
+      <description>8月31日、SiliconAngleが「Workday reimagines workflows with enterprise AI agents」と題した記事を公開した。AIエージェントに「承認フローを省略してでもゴールを達成せよ」と指示したとき、何が起きるか——Workdayが示したデモはその問いに対する、エンタープライズならではの回答だった。ERPの「画面をクリックし続ける」体験をどう変えるか人事・財務領域のERPとして広く使われているWorkdayが、Google Cloudと組んでAIエージェントの企業導入を本格化させている。WorkdayのCTO、Gabe Monroy氏はその核心を次のように説明する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a9609db877bc8b0b7dc687c?from=rss</guid>
+      <pubDate>Mon, 31 Aug 2026 23:10:19 +0000</pubDate>
     </item>
     <item>
       <title>SPFとDKIMとDMARCの役割の違いを整理する</title>
@@ -124,6 +116,13 @@ SPF：「このドメ... (source: Zennのトレンド)</description>
       <pubDate>Sat, 29 Aug 2026 14:36:39 +0000</pubDate>
     </item>
     <item>
+      <title>AIが「正しい事実」から「間違った答え」を返す構造的な理由 — GraphRAGがドキュメント横断の関係をたどって補う仕組み</title>
+      <link>https://techfeed.io/entries/6a960985877bc8b0b7dc6820?from=rss</link>
+      <description>9月1日、Salesforce Engineeringが「Why AI Gets Facts Right, Answers Wrong: GraphRAG Fixes It」と題した記事を公開した。RAGが「正しい事実」を取得しながら「間違った答え」を返す構造的な問題と、GraphRAGがそれをどう解決するかについて詳しく解説した内容だ。GraphRAGとは、ナレッジグラフとRAG（Retrieval-Augmented Generation）を組み合わせた検索拡張手法である。通常のRAGがテキストチャンクのベクトル類似度検索に依存するのに対し、GraphRAGはエンティティ間の「関係」をグラフ構造として保持し、その関係を連鎖的にたどる「グラフトラバーサル（graph traversal）」によって多段推論を実現する。Microsoftが2024年に公開したGraphRAGの研究が先行事例として知られており、本記事はSalesforceが独自の実装で得た知見を整理したものだ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a960985877bc8b0b7dc6820?from=rss</guid>
+      <pubDate>Mon, 31 Aug 2026 23:08:53 +0000</pubDate>
+    </item>
+    <item>
       <title>「Enterで送信」は滅びよ ~ IME誤爆に疲れたので、チャットの送信に修飾キーを必須にした ~</title>
       <link>https://zenn.dev/safie_inc/articles/ee72b837e4a5f1</link>
       <description>みなさんこんにちは。セーフィーで認証基盤まわりを担当しています、中（なか）です。最近は Claude Code に設計や実装を相談することが多く、プロンプトを毎日大量に打っています。
@@ -132,16 +131,6 @@ SPF：「このドメ... (source: Zennのトレンド)</description>
 ある日のことです。Claude Code に長めの文章をコピペして、改行を入れてから「これを要約して」と続けるつもりでした。ところが改行のつもりで押した Enter で、貼り付けただけの文章がそのまま送信されてしまいました。指示のない文章を渡された Claude は律儀に解釈を始めます。私はあわててそれを止め、改めて指示を書いて、もう一度送りました。無... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/safie_inc/articles/ee72b837e4a5f1</guid>
       <pubDate>Fri, 28 Aug 2026 04:23:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPUを燃やさないために - RTX 5090にパワーリミットをかけると、性能はどれだけ落ち、どれだけ冷えるのか -</title>
-      <link>https://zenn.dev/holy_fox/articles/572083c130ce46</link>
-      <description>みなさん、GPUを燃やしていますか？
-
-もちろん「研究や開発でGPUを燃やすほど使い倒している」という意味なら、多くの方はイエスでしょう。でも本記事で聞きたいのは、もう少し物理的な意味です。最近のGPU、めちゃくちゃ消費電力が高くて、めちゃくちゃ熱いですよね。RTX 5090の定格は575W。ヒーター並みの熱を部屋内にまき散らしながら働いているわけで、これは良くありません。（とにかく暑い！）
-熱はGPUの敵です。半導体の劣化を速め、電源回路やコネクタにも負担をかけます。それでいて最近のGPUは本当に高い。数十万円もするGPUを高温にさらし続けるのは忍びないし（物理的に）燃やしたくはない。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/holy_fox/articles/572083c130ce46</guid>
-      <pubDate>Sat, 29 Aug 2026 03:52:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

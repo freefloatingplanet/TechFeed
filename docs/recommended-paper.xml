@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 31 Aug 2026 13:07:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:22:06 +0000</lastBuildDate>
     <item>
-      <title>REPLICANT: マルウェア検出器を回避および強化するための学習ポリシー</title>
-      <link>https://arxiv.org/abs/2608.28499v1</link>
-      <description>機械学習に基づくマルウェア検出の実際の有効性を判断するには、高度な攻撃者に対する堅牢性を評価することが不可欠です。しかし、最先端の攻撃は、標的のトレーニングデータ、特徴空間、信頼度スコアなどの特権情報へのアクセスを前提としていることが多いため、現実的な攻撃者を効果的にモデル化していません。本研究では、厳密なラベルのみのブラックボックス脅威モデルの下で回避という現実的なタスクを学習する深層強化学習フレームワークであるReplicantを提案します。Replicantは、マルウェアサンプルをどのように変更し、いつ標的にクエリを実行するかに関する再利用可能なポリシーを学習し、サンプル、検出器、特徴空間間で転送されます。7つのAndroidマルウェア検出器と3つの特徴空間において、Replicantは最も強力でクエリ効率の高いアプローチであり、平均攻撃成功率78.8%を達成し、最先端の手法と比較して20.9%～39.2%の相対的な改善を実現しました。さらに、Replicantを敵対的学習に用いると、より汎用性の高い堅牢な検出器を生成することで、最先端の手法を凌駕する性能を発揮します。Repli (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.28499v1</guid>
-      <pubDate>Fri, 28 Aug 2026 16:29:17 +0000</pubDate>
+      <title>毛細管駆動型軌道液体鏡望遠鏡の実現可能性</title>
+      <link>https://arxiv.org/abs/2608.31042v1</link>
+      <description>磁気形状の強磁性流体液体ミラー望遠鏡は、適応光学や大型宇宙望遠鏡などの用途において、従来の固体ミラーに代わる有望な選択肢となる。しかし、この概念は、強磁性流体を駆動する磁場を精密に構成できるかどうかに大きく依存する。ハルバッハアレイ駆動ミラーの場合、表面平滑性の要件は、ケルビン体積力場の均一性の要件となる。永久磁石は残留モーメント、磁化軸の整列、双極子の位置が個々に異なるため、達成可能な磁場均一性は、有限の磁石ストックをアレイにどのように割り当てるかに依存する。本研究では、個別に特性評価された磁石ストックから組み立てられた球面キャップハルバッハアレイの界面誤差を最小化するための2段階の方法論を提示する。第1段階では、強磁性流体等電位モデルと結合した解析的静磁モデルを遺伝的アルゴリズムに組み込み、半径方向に重み付けされた二乗平均平方根（RMS）表面残差を最小化するように、各磁石の位置、向き、および取り付け高さを割り当てる。第 2 段階では、組み立てられたアレイを磁気マッピング装置で特性評価し、反復的な高さシミングによって残りの誤差を補正します。536 個の磁石、0.1 m の開口径のデモ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.31042v1</guid>
+      <pubDate>Mon, 31 Aug 2026 16:20:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

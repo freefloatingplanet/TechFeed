@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 13:07:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:21:54 +0000</lastBuildDate>
     <item>
       <title>アリアンスペース、「アリアン6」で気象衛星「MTG-I2」の打ち上げに成功</title>
       <link>https://sorae.info/ssn/20260828-ariane-6-mtg-i2.html</link>
@@ -44,18 +44,25 @@
       <pubDate>Fri, 28 Aug 2026 08:18:55 +0000</pubDate>
     </item>
     <item>
-      <title>「複数社から見積もりが取れる領域は開発しない」宇宙空間で巨大建造物を組み立てるSpace Quartersが宇宙関連スタートアップでIVS初優勝</title>
-      <link>https://sorabatake.jp/46660/</link>
-      <description>次世代の起業家の登竜門とされる国内最大級のピッチコンテスト「IVS2026 LAUNCHPAD（ローンチパッド）」にて、Space Quartersが宇宙関連スタートアップで初優勝となりました。事業概要と展望について、プレゼンターも務めた同社COOの高橋さんのコメントと合わせて紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46660/</guid>
-      <pubDate>Sat, 01 Aug 2026 02:33:50 +0000</pubDate>
-    </item>
-    <item>
       <title>NASA天文衛星「スウィフト」が科学観測を再開　大気圏再突入までに可能な限り運用へ</title>
       <link>https://sorae.info/space/20260831-nasa-swift.html</link>
       <description>NASA（アメリカ航空宇宙局）は2026年8月28日付で、ガンマ線観測衛星「ニール・ゲーレルス・スウィフト（Neil Gehrels Swift）」の科学観測が再開したことを発表しました。 後述する軌道上昇ミッションに備… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260831-nasa-swift.html</guid>
       <pubDate>Mon, 31 Aug 2026 08:14:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>火星のマントルは南半球のほうが200℃以上高温？　“地殻の二分性”の謎に迫る鍵となるか</title>
+      <link>https://sorae.info/astronomy/20260901-mars-thermal-anomaly.html</link>
+      <description>アリゾナ大学のAlexander Berne氏を筆頭とする研究チームは、火星の重力場に含まれるわずかな季節変動を解析した結果、南半球のマントル内部に北半球よりも大幅に温度が高い熱異常が存在することを明らかにしたとする研究… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260901-mars-thermal-anomaly.html</guid>
+      <pubDate>Tue, 01 Sep 2026 11:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASA「アルテミスIII」ミッションのSLSコアステージにエンジンを取り付ける作業が開始</title>
+      <link>https://sorae.info/space/20260901-artemis-iii.html</link>
+      <description>こちらは、NASA（アメリカ航空宇宙局）のケネディ宇宙センターにあるVAB（ロケット組立棟）で2026年8月25日に撮影された画像です。 中央に写っているのは、NASAの大型ロケット「SLS（スペース・ローンチ・システム… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260901-artemis-iii.html</guid>
+      <pubDate>Tue, 01 Sep 2026 02:36:56 +0000</pubDate>
     </item>
     <item>
       <title>令和8年熊本地震で衛星データを活用。JAXAや企業による緊急観測・被害推定・復旧支援【随時更新】</title>
@@ -70,13 +77,6 @@
       <description>量子力学における「真空」とは、何もない空間ではなく、仮想的な粒子ペアが常に生成・消滅している空間であると考えられています。この性質から予測される現象として、光（電磁波）を2つの方向に分ける「真空複屈折」が予測されていまし… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260831-vacuum-birefringence.html</guid>
       <pubDate>Mon, 31 Aug 2026 12:56:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>星座早見盤や展示物を手がかりに謎を解く！『真夜中の宇宙博物館からの脱出』体験レポート</title>
-      <link>https://sorae.info/report/scrap-space-museum.html</link>
-      <description>宇宙や天体を題材にしたリアル脱出ゲーム『真夜中の宇宙博物館からの脱出』が、2026年7月30日から東京都武蔵野市の「リアル脱出ゲーム吉祥寺店」で開催されています。本イベントは、参加者が宇宙博物館の夜間警備員となり、博物館… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/report/scrap-space-museum.html</guid>
-      <pubDate>Tue, 25 Aug 2026 13:36:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
