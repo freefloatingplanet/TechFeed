@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:22:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:56:07 +0000</lastBuildDate>
     <item>
-      <title>毛細管駆動型軌道液体鏡望遠鏡の実現可能性</title>
-      <link>https://arxiv.org/abs/2608.31042v1</link>
-      <description>磁気形状の強磁性流体液体ミラー望遠鏡は、適応光学や大型宇宙望遠鏡などの用途において、従来の固体ミラーに代わる有望な選択肢となる。しかし、この概念は、強磁性流体を駆動する磁場を精密に構成できるかどうかに大きく依存する。ハルバッハアレイ駆動ミラーの場合、表面平滑性の要件は、ケルビン体積力場の均一性の要件となる。永久磁石は残留モーメント、磁化軸の整列、双極子の位置が個々に異なるため、達成可能な磁場均一性は、有限の磁石ストックをアレイにどのように割り当てるかに依存する。本研究では、個別に特性評価された磁石ストックから組み立てられた球面キャップハルバッハアレイの界面誤差を最小化するための2段階の方法論を提示する。第1段階では、強磁性流体等電位モデルと結合した解析的静磁モデルを遺伝的アルゴリズムに組み込み、半径方向に重み付けされた二乗平均平方根（RMS）表面残差を最小化するように、各磁石の位置、向き、および取り付け高さを割り当てる。第 2 段階では、組み立てられたアレイを磁気マッピング装置で特性評価し、反復的な高さシミングによって残りの誤差を補正します。536 個の磁石、0.1 m の開口径のデモ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.31042v1</guid>
-      <pubDate>Mon, 31 Aug 2026 16:20:03 +0000</pubDate>
+      <title>衝突のないプラズマにおけるエネルギー輸送の磁気熱力学的理論</title>
+      <link>https://arxiv.org/abs/2609.01471v1</link>
+      <description>ここでは、時間軸の視点から出発して、無衝突プラズマにおける電磁エネルギーと熱エネルギーの輸送と伝達を首尾一貫した方法で記述することを目的とした、探索的な概念フレームワークを提示します。つまり、エネルギー輸送に関する議論は、システムが利用可能な位相空間を埋め尽くす傾向があるという考えに根本的に基づいています。まず、電場、磁場、およびプラズマ粒子を、特定の方法で熱力学的に結び付けられた相互作用するサブシステムとして記述します。次に、いわゆる電気熱力学的（ETD）相互作用からのエネルギー流束の寄与が十分に均一になるまで、エネルギー密度勾配に沿ってプラズマ粒子を輸送する際の確率的電場の重要性について議論します。第三に、ETD輸送の論理を磁化システムに拡張し、2種類の磁気熱力学的（MTD）輸送を呼び出します。1）確率的ポインティング流束による電磁エネルギーの輸送、および2）局所的なExBドリフト運動に関連する確率的ドリフトエネルギー流束によるプラズマエネルギーの輸送。 ETDおよびMTDメカニズムの大きさは、電場変動の局所的な特性スケールと関連しており、ETDメカニズムがMTDメカニズムよりも優 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01471v1</guid>
+      <pubDate>Tue, 01 Sep 2026 16:05:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,36 +7,33 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:21:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:55:53 +0000</lastBuildDate>
     <item>
-      <title>Claude Code の承認待ちを見逃さないために、光る Clawd を机に置いた</title>
-      <link>https://zenn.dev/lincwell_inc/articles/79092d88245748</link>
-      <description>!
-本記事で紹介するのは業務外で作った個人プロジェクトです。Anthropic 非公式の
-ファンプロジェクトであり、Anthropic とは無関係です。
+      <title>無音で文字起こしすると「ご視聴ありがとうございました」になる理由を検証</title>
+      <link>https://zenn.dev/trtd56/articles/994f43aebd2057</link>
+      <description>こちらの記事の内容はPodcast でも話しているので、よかったら記事と合わせてどうぞ。
+https://open.spotify.com/episode/0upry9qLfeJoAn1GhIRpK6?si=PSvsiAMAQ66Ay17S5cpXzw
+Whisper で文字起こしをしていると、誰も何も話していないのに「ご視聴ありがとうございました」と出力されることがあります。X や Togetter でも定期的に話題になる、わりと有名な現象です。
+「YouTube の字幕を学習してるからでしょ」という説明もセットでよく見かけます。理屈としてはなんとなく分かるのですが、
 
-
- 15 分間、Claude Code は私を待っていた
-Claude Code にタスクを投げて別の作業に移り、戻ってきたら権限確認ダイアログで止まったまま 15 分経っていた——これを何度もやりました。ターミナルのベルもデスクトップ通知も、自分には定着しませんでした。
-通知は「見に行くもの」で、気づけないときは結局気づけない。
-そこで、状態そのものを机の上に置くことにしました。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-M5Atom Lite(... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lincwell_inc/articles/79092d88245748</guid>
-      <pubDate>Thu, 27 Aug 2026 01:00:01 +0000</pubDate>
+本当に訓練デー... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/trtd56/articles/994f43aebd2057</guid>
+      <pubDate>Tue, 01 Sep 2026 00:39:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tauriのアプリケーションでダークモードを実装する</title>
+      <link>https://zenn.dev/ayaextech_fill/articles/tauri-application-dark-mode</link>
+      <description>UI層とロジック層の状態の扱いについて
+Tauri を扱う場合、大抵は React &amp; Rust で実装することになります。
+その際、ダークモードを実装するにあたって、状態値をどう扱うべきかについて書きます。
+ダークモード対応では、ライト・ダーク・OS追従の3状態を扱う設計が多いです。
+この記事では、テーマの状態をRust側で持ち、
+Reactで作成したUIから invoke で数値を渡して Rust 側の状態を変えるだけの設計を扱います。
+!
+本文のコード例は説明のために簡略化しており、エラー処理を unwrap で省いています。
+実際のアプリケーションでは Result ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ayaextech_fill/articles/tauri-application-dark-mode</guid>
+      <pubDate>Tue, 01 Sep 2026 17:33:07 +0000</pubDate>
     </item>
     <item>
       <title>自作npmパッケージにマルウェアを公開されたときにやったこと</title>
@@ -51,6 +48,31 @@ M5Atom Lite(... (source: Zennのトレンド)</description>
       <pubDate>Sat, 29 Aug 2026 15:49:58 +0000</pubDate>
     </item>
     <item>
+      <title>社内限定サービスの認証を Google Workspace でサクッと作る</title>
+      <link>https://zenn.dev/dress_code/articles/6134e6bd5e46c6</link>
+      <description>はじめに
+Dress Code 株式会社でプロダクトエンジニアをしている@cottpanです。
+社内向けの小さな Web サービスを作るとき、毎回考慮しなければいけないのが認証です。実現したいことは「社内の人だけが見られればいい」とシンプルですが、毎回認証の部分を実装するのは手間になる上、退職者のアカウントを消し忘れるなどの運用コストにもつながります。
+今回、社内で HTML を共有するためのサービスを作る機会があり、認証は全部 Google Workspace に寄せて実装を行いました。
+通常の認証に加え、「CI からも叩きたい」「エージェントに API 経由でアクセスを許可したい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/6134e6bd5e46c6</guid>
+      <pubDate>Tue, 01 Sep 2026 10:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLMに確実にJSON出力させる実践パイプライン — プロンプト設計からスキーマ検証・API統合まで</title>
+      <link>https://techfeed.io/entries/6a975d0e9c9ab1d418661d37?from=rss</link>
+      <description>9月1日、Collabnixが「Mastering Structured JSON Output from LLMs: Techniques for OpenAI, Claude, and Gemini」と題した記事を公開した。この記事では、OpenAI・Claude・GeminiといったLLMから構造化されたJSON出力を確実に得るための実践的テクニックについて詳しく紹介されている。LLMをプロダクションに組み込む際、最も厄介な問題のひとつが「出力が毎回違う」ことだ。自然言語として流暢な文章を返してくれるが、そのままではバックエンド処理やDB連携に使えない。JSON形式で確実に出力させる技術は、LLMをシステムの一部として扱う上で避けて通れないスキルになっている。なお、タイトルで謳う「確実に」を支える手段は、プロンプト設計だけでなく、各LLMプロバイダが提供するネイティブなJSON強制機能や、スキーマ検証ライブラリとの組み合わせによって初めて実現できる。以下ではそのパイプライン全体を順に解説する。Step 1：プロンプト設計が出力品質を決める最初の関門はプロンプトの書き方だ。LLMは (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a975d0e9c9ab1d418661d37?from=rss</guid>
+      <pubDate>Tue, 01 Sep 2026 23:17:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>このデザインは一体何？ 長年のもやもやが解決、Adobeの管理画面で見かけるユーザー名横の謎アイコンの正体</title>
+      <link>https://coliss.com/articles/build-websites/operation/work/truth-behind-the-icons-used-in-adobe.html</link>
+      <description>Adobeを長年使用してきて、もやもやしていたのが、アイコンのデザインです。 円グラフにしてはバランスがおかしいし、右下にはなんか切れ端があるし、これって一体何だろう？ とずっと疑問に思っていました。 このアイコンはAdobeの公式サイトやCreative Cloudにログインすると、右上に表示されるアイコンです。 私はデ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://coliss.com/articles/build-websites/operation/work/truth-behind-the-icons-used-in-adobe.html</guid>
+      <pubDate>Wed, 02 Sep 2026 06:01:16 +0000</pubDate>
+    </item>
+    <item>
       <title>PR の概要や動作確認結果を HTML で共有するのに、zip 不要の GitHub Actions Artifact がちょうどよかった</title>
       <link>https://zenn.dev/she_techblog/articles/github-actions-artifact-no-zip</link>
       <description>こんにちは、SHE株式会社でエンジニアをしています hatsu です。
@@ -63,11 +85,22 @@ M5Atom Lite(... (source: Zennのトレンド)</description>
       <pubDate>Mon, 31 Aug 2026 00:00:06 +0000</pubDate>
     </item>
     <item>
-      <title>「モデルではなく収益で評価される」時代へ — AIスタートアップ調達トレンド、バリュエーションの根拠が変わった週</title>
-      <link>https://techfeed.io/entries/6a960998877bc8b0b7dc6829?from=rss</link>
-      <description>8月31日、startuphub.aiが「AI Startup Funding Trends: Week of Aug 25-31, 2026」と題した記事を公開した。2026年8月25日〜31日の週は、AIスタートアップの調達市場において「ビジョン評価からARR評価へ」という構造転換が最も鮮明に可視化された一週間となった。AIセーフティの商業化、垂直SaaSの大型調達、自律物流の実運用拡大——いずれのラウンドも、バリュエーションの根拠として「実際の契約収益・処理件数」を前面に打ち出している点が共通しており、2年前のAIスタートアップ調達とは明確に異なる市場環境を映している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a960998877bc8b0b7dc6829?from=rss</guid>
-      <pubDate>Mon, 31 Aug 2026 23:09:12 +0000</pubDate>
+      <title>LangflowのRCE脆弱性（CVE-2026-0768）が悪用されOpenAI・AWSキーが窃取される — 認証なしでroot実行可能、2026年だけで6件目の悪用事例</title>
+      <link>https://techfeed.io/entries/6a975cc99c9ab1d418661cca?from=rss</link>
+      <description>9月2日、BleepingComputerが「Critical Langflow flaw exploited to steal OpenAI and AWS keys」と題した記事を公開した。AIアプリ開発フレームワーク「Langflow」の未認証RCE脆弱性（CVE-2026-0768）が悪用され、OpenAI APIキーやAWSシークレットが窃取されている実態について詳しく報告している。攻撃者が狙うのは環境変数に潜むAPIキー攻撃者が実行しているのは単純なシステム侵害ではない。環境変数を直接クエリしてAPIキーや認証情報を抜き取るという、クラウド時代ならではの手口だ。脅威インテリジェンス企業VulnCheckのリードセキュリティリサーチャー、Caitlin Condonによれば、攻撃者のリクエストは以下の情報を標的にしている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a975cc99c9ab1d418661cca?from=rss</guid>
+      <pubDate>Tue, 01 Sep 2026 23:16:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI前提のプロダクト開発組織を目指して、minneの2026年の現在地</title>
+      <link>https://zenn.dev/pepabo/articles/minne-ai-native-org-2026</link>
+      <description>はじめに
+minneでAI前提のプロダクト開発組織づくりを進めています。これまでは個別の仕組みについて書いてきましたが（PRのレビューが追いつかない！もう人間がボトルネックなので、気合いではなく仕組みで少しずつなんとかしていく、Claude Code Actionで複数リポジトリを横断して情報を参照し調査・実装を進めてもらおう）、この記事では組織とプロセスの側がどう変わったかを短くまとめます。2026年9月時点の現在地です。
+
+ AI自律マージ率
+minneでは「PRサイズラベルの自動付与 → AIレビュー＆Approve → 条件付きauto merge」の3段構えを運用しています... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pepabo/articles/minne-ai-native-org-2026</guid>
+      <pubDate>Wed, 02 Sep 2026 01:44:05 +0000</pubDate>
     </item>
     <item>
       <title>小学校の夏休みの宿題をプロジェクトマネジメントしてみた</title>
@@ -79,58 +112,6 @@ M5Atom Lite(... (source: Zennのトレンド)</description>
 宿題を終わらせるために、プロジェクトマネジメントの観点で整理・計画・管理を... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/nextbeat/articles/8f5d24529caea6</guid>
       <pubDate>Mon, 31 Aug 2026 11:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spannerのback joinを読み解く</title>
-      <link>https://zenn.dev/kauche/articles/23c490c3872f77</link>
-      <description>はじめに
-back joinとは、Spannerがsecondary indexで目当ての行を見つけたあと、ベーステーブルへ引き直して残りの列を取得する動作のことです。
-実行計画上でindexを使っていても、back joinのコストによって応答時間は改善しないことがあります。
-ただしback join自体は、避けるべき動作ではありません。問題になるのは回数とタイミングです。
-この記事では、back joinで何が起きるのかとなぜ遅くなるのかを説明します。そのうえで、いつ発生するのか、どう減らすかを見ていきます。
-
- Spannerのindexとベーステーブル
-Spannerの各テー... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kauche/articles/23c490c3872f77</guid>
-      <pubDate>Mon, 31 Aug 2026 14:42:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>WorkdayがGmailからERP操作を完結させるデモ公開 — 「無法エージェント」と「ガードレール付きエージェント」の違いが示す企業AIの本質</title>
-      <link>https://techfeed.io/entries/6a9609db877bc8b0b7dc687c?from=rss</link>
-      <description>8月31日、SiliconAngleが「Workday reimagines workflows with enterprise AI agents」と題した記事を公開した。AIエージェントに「承認フローを省略してでもゴールを達成せよ」と指示したとき、何が起きるか——Workdayが示したデモはその問いに対する、エンタープライズならではの回答だった。ERPの「画面をクリックし続ける」体験をどう変えるか人事・財務領域のERPとして広く使われているWorkdayが、Google Cloudと組んでAIエージェントの企業導入を本格化させている。WorkdayのCTO、Gabe Monroy氏はその核心を次のように説明する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a9609db877bc8b0b7dc687c?from=rss</guid>
-      <pubDate>Mon, 31 Aug 2026 23:10:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>SPFとDKIMとDMARCの役割の違いを整理する</title>
-      <link>https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles</link>
-      <description>Introduction
-「独自ドメインからメールを送りたい」と思ったとき、SPF・DKIM・DMARCという3つの単語に出会うことがあります。どれも「なりすましメール対策」の文脈で出てきますが、名前が似ているうえに設定もDNSレコードとして書くため、最初は「結局どれが何をしているのか」が非常に分かりにくいです。
-この記事では、この3つがそれぞれ何を保証していて、なぜ1つではなく3つ揃って初めて意味を持つのかを整理します。前提知識として、DNSにレコードを追加した経験（TXTレコードとは何か程度）があると読みやすいですが、必須ではありません。
-
- 一言でいうと
-
-
-SPF：「このドメ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles</guid>
-      <pubDate>Sat, 29 Aug 2026 14:36:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIが「正しい事実」から「間違った答え」を返す構造的な理由 — GraphRAGがドキュメント横断の関係をたどって補う仕組み</title>
-      <link>https://techfeed.io/entries/6a960985877bc8b0b7dc6820?from=rss</link>
-      <description>9月1日、Salesforce Engineeringが「Why AI Gets Facts Right, Answers Wrong: GraphRAG Fixes It」と題した記事を公開した。RAGが「正しい事実」を取得しながら「間違った答え」を返す構造的な問題と、GraphRAGがそれをどう解決するかについて詳しく解説した内容だ。GraphRAGとは、ナレッジグラフとRAG（Retrieval-Augmented Generation）を組み合わせた検索拡張手法である。通常のRAGがテキストチャンクのベクトル類似度検索に依存するのに対し、GraphRAGはエンティティ間の「関係」をグラフ構造として保持し、その関係を連鎖的にたどる「グラフトラバーサル（graph traversal）」によって多段推論を実現する。Microsoftが2024年に公開したGraphRAGの研究が先行事例として知られており、本記事はSalesforceが独自の実装で得た知見を整理したものだ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a960985877bc8b0b7dc6820?from=rss</guid>
-      <pubDate>Mon, 31 Aug 2026 23:08:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>「Enterで送信」は滅びよ ~ IME誤爆に疲れたので、チャットの送信に修飾キーを必須にした ~</title>
-      <link>https://zenn.dev/safie_inc/articles/ee72b837e4a5f1</link>
-      <description>みなさんこんにちは。セーフィーで認証基盤まわりを担当しています、中（なか）です。最近は Claude Code に設計や実装を相談することが多く、プロンプトを毎日大量に打っています。
-
- 書きかけのプロンプトが、AI に向かって飛んでいく
-ある日のことです。Claude Code に長めの文章をコピペして、改行を入れてから「これを要約して」と続けるつもりでした。ところが改行のつもりで押した Enter で、貼り付けただけの文章がそのまま送信されてしまいました。指示のない文章を渡された Claude は律儀に解釈を始めます。私はあわててそれを止め、改めて指示を書いて、もう一度送りました。無... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/safie_inc/articles/ee72b837e4a5f1</guid>
-      <pubDate>Fri, 28 Aug 2026 04:23:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
