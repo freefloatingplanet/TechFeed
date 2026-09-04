@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:54:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:54:44 +0000</lastBuildDate>
     <item>
-      <title>すばる望遠鏡が迫った彗星の“素顔”　アーカイブデータから彗星核表面の反射特性を精密測定</title>
-      <link>https://sorae.info/astronomy/20260829-subaru-28p-neujmin.html</link>
-      <description>産業医科大学の大坪貴文氏を筆頭とする研究チームは、すばる望遠鏡のアーカイブデータをもとに、彗星「28P/Neujmin（ネウイミン彗星）」の彗星核表面の反射特性を精密に測定することに成功したとする研究成果を発表しました。… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260829-subaru-28p-neujmin.html</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>アリアンスペース、「アリアン6」で気象衛星「MTG-I2」の打ち上げに成功</title>
-      <link>https://sorae.info/ssn/20260828-ariane-6-mtg-i2.html</link>
-      <description>Arianespace（アリアンスペース）は日本時間2026年8月28日、「Ariane 6（アリアン6）」ロケットを打ち上げ、ヨーロッパの気象衛星「MTG-I2」を所定の軌道へ投入しました。 打ち上げに関する情報は以下… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260828-ariane-6-mtg-i2.html</guid>
-      <pubDate>Fri, 28 Aug 2026 07:52:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>デコボコだらけの表面　アルマ望遠鏡が観測した「ベテルギウス」の姿</title>
-      <link>https://sorae.info/astronomy/20260828-betelgeuse-alma.html</link>
-      <description>こちらは、ALMA（アルマ望遠鏡）が観測したオリオン座の赤色超巨星「ベテルギウス（Betelgeuse）」の姿。地球から約600光年先にあります。 この画像は、2019年から2020年にかけて観測されたベテルギウスの大幅… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260828-betelgeuse-alma.html</guid>
-      <pubDate>Fri, 28 Aug 2026 12:28:21 +0000</pubDate>
+      <title>JAXAが天文衛星「XRISM」の定常運用期間延長を発表　当初予定の3年間から6.5年間へ</title>
+      <link>https://sorae.info/space/20260902-jaxa-xrism.html</link>
+      <description>JAXA（宇宙航空研究開発機構）は2026年8月26日に開催された第108回宇宙開発利用部会にて、2023年9月に打ち上げられたX線分光撮像衛星「XRISM（クリズム）」の定常運用期間を延長することを報告しました。 想定… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260902-jaxa-xrism.html</guid>
+      <pubDate>Wed, 02 Sep 2026 08:10:57 +0000</pubDate>
     </item>
     <item>
       <title>スペースXがNASAの「ローマン宇宙望遠鏡」をファルコンヘビーで打ち上げ</title>
@@ -44,18 +30,18 @@
       <pubDate>Mon, 31 Aug 2026 08:14:35 +0000</pubDate>
     </item>
     <item>
-      <title>NASAの天文衛星「パンドラ」が科学観測を開始　特定の太陽系外惑星を集中観測へ</title>
-      <link>https://sorae.info/space/20260828-nasa-pandora.html</link>
-      <description>NASA（アメリカ航空宇宙局）は2026年8月25日付で、天文衛星「Pandora（パンドラ）」が本格的な観測を開始したと発表しました。 パンドラは低コスト・短期開発を掲げるNASAの「天体物理学パイオニア（Astrop… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260828-nasa-pandora.html</guid>
-      <pubDate>Fri, 28 Aug 2026 08:18:55 +0000</pubDate>
-    </item>
-    <item>
       <title>火星のマントルは南半球のほうが200℃以上高温？　“地殻の二分性”の謎に迫る鍵となるか</title>
       <link>https://sorae.info/astronomy/20260901-mars-thermal-anomaly.html</link>
       <description>アリゾナ大学のAlexander Berne氏を筆頭とする研究チームは、火星の重力場に含まれるわずかな季節変動を解析した結果、南半球のマントル内部に北半球よりも大幅に温度が高い熱異常が存在することを明らかにしたとする研究… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260901-mars-thermal-anomaly.html</guid>
       <pubDate>Tue, 01 Sep 2026 11:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【20社以上の出展が決定】9月26日（土）、宇宙業界特化のキャリアイベントで「転職者のリアル」が分かるトークセッションも</title>
+      <link>https://sorabatake.jp/46842/</link>
+      <description>2026年9月26日に開催される宇宙業界に特化したキャリアイベント『SPACETIDE Career Connect 2026 Summer』について、注目の2つのトークセッションについて紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46842/</guid>
+      <pubDate>Fri, 04 Sep 2026 04:37:53 +0000</pubDate>
     </item>
     <item>
       <title>NASA「アルテミスIII」ミッションのSLSコアステージにエンジンを取り付ける作業が開始</title>
@@ -77,6 +63,20 @@
       <description>「令和8年熊本地震」を受け、JAXAや宇宙関連企業各社が、衛星による被災地域の緊急観測やデータの提供、復旧・復興を支えるサービスの無償提供などに取り組んでいます。宇宙技術が災害対応にどのように活かされているのか、各機関や企業の動きをまとめました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46713/</guid>
       <pubDate>Wed, 05 Aug 2026 06:15:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>インド、地球観測衛星「EOS-05」の打ち上げに成功</title>
+      <link>https://sorae.info/ssn/20260904-gslv-f17-eos-05.html</link>
+      <description>ISRO（インド宇宙研究機関）は日本時間2026年9月4日、「GSLV-F17」ロケットの打ち上げを実施しました。搭載されていた地球観測衛星「EOS-05」は所定の軌道へ投入されたことを、ISROが公式サイトで報告してい… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260904-gslv-f17-eos-05.html</guid>
+      <pubDate>Fri, 04 Sep 2026 07:22:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>土星の南極を取り囲む十角形のパターンを発見　ハッブル宇宙望遠鏡や地上からの観測で</title>
+      <link>https://sorae.info/astronomy/20260903-saturn-decagon.html</link>
+      <description>バスク大学のAgustín Sánchez-Lavega氏を筆頭とする研究チームは、土星の南極をぐるりと取り囲むように、10個の頂点を持つ多角形状の大気の波が存在していることが明らかになったとする研究成果を発表しました。… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260903-saturn-decagon.html</guid>
+      <pubDate>Thu, 03 Sep 2026 12:18:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

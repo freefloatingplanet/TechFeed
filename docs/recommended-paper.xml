@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:54:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:54:46 +0000</lastBuildDate>
     <item>
-      <title>LoRA-TSD：ミューオン方式の更新によるLoRA向け接空間スペクトル降下法</title>
-      <link>https://arxiv.org/abs/2609.02734v1</link>
-      <description>低ランク適応（LoRA）は大規模モデルの微調整の標準的な方法ですが、2つの因子を個別に学習する場合、更新ではそれが引き起こす低ランク重み変更の幾何学的構造が無視されます。そこで、LoRA-TSDという最適化手法を導入します。LoRA-TSDは、LoRAの各ステップを固定ランク行列多様体の接線ベクトルとして扱い、その接空間内でMuonのスペクトルノルム最急降下ステップを実行し、LoRAパラメータ化に固有のリトラクションによって結果を因子にマッピングします。このステップでは、重み行列全体に対する高コストな演算を回避でき、そのリトラクションは従来の多様体法で使用されていた特異値分解（SVD）リトラクションよりも最大で2.8倍安価です。我々は、代理モデルのフロベニウスノルム版がLoRA-Proを復元することを証明し、接線投影勾配、すなわち多様体のリーマン勾配を、LoRAトレーニングに自然で因子勾配のみから計算可能な定常性尺度として特定します。この尺度の下で、因子勾配ノルムをゼロに導く収束率で、LoRA-ProとLoRA-TSDの両方について初のグローバル収束保証を与えます。Llama-3.2- (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.02734v1</guid>
-      <pubDate>Wed, 02 Sep 2026 15:41:45 +0000</pubDate>
+      <title>SENTINEL-RL: セキュリティオペレーションセンターにおけるLLMエージェントからのトポロジー推論のオフロード</title>
+      <link>https://arxiv.org/abs/2609.04159v1</link>
+      <description>大規模言語モデル (LLM) エージェントは、自律型 SOC アナリストとして提案されることが増えていますが、2 つの制限により、エンタープライズ規模では信頼性が低くなっています。有限のコンテキスト ウィンドウでは、数千台のホストの認証グラフを保持できず、自由形式の生成では、推奨される封じ込めアクションが、それが動作するトポロジと整合しているという保証がありません。そこで、トポロジ推論と意味推論を分離したエージェント SOC アーキテクチャである Sentinel-RL を提案します。異種グラフ アテンション エンコーダがライブ認証サブグラフを固定次元の状態に要約し、近接ポリシー最適化 (PPO) ポリシーがこの状態を制約された調査アクションのセットにマッピングし、LLM エージェント ループは、ポリシーの推奨事項を消費し、批評家によってゲートされたアナリストが読みやすいナラティブを生成するように制限されます。我々は、LANL Comprehensive、Multi-Source Cyber-Security Events データセットと Indiana University Quar (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.04159v1</guid>
+      <pubDate>Thu, 03 Sep 2026 17:49:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

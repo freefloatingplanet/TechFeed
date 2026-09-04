@@ -7,13 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:54:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:54:41 +0000</lastBuildDate>
     <item>
-      <title>「オモロいの見つけた」家の購入or賃貸、どっちが安いかをシミュレーターとする不動産サイトが登場、UIもスッキリしていて使いやすい</title>
-      <link>https://togetter.com/li/2740713</link>
-      <description>本町太朗 @mY9tWUsRPD73701 新機能、購入判断シミュレーターを実装しました。金利、物価、住宅価格などがどういうシナリオを辿ると家計が崩壊しないのか、賃貸と購入でどっちが得なのか、自身の状況に合わせてシミュレーション出来ます。建物別のページの在庫一覧から建物価格を入力した状態で飛ぶことも出来ます。 賃貸... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2740713</guid>
-      <pubDate>Thu, 03 Sep 2026 01:48:49 +0000</pubDate>
+      <title>ECS デプロイパイプラインと構成管理を GitHub Actionsと ecspresso に移行しました</title>
+      <link>https://zenn.dev/mybest_dev/articles/2cd71bc64ad380</link>
+      <description>マイベスト1人目の専任 SRE の秋吉です。ポメラニアンと暮らしています。
+
+ 概要
+マイベストでは、ステージング環境を含めて100個弱の ECS サービスを運用しています。これまで ECS の構成管理とデプロイは、CodePipeline / CodeBuild / CodeDeploy / 独自シェルスクリプトなどを組み合わせた複雑な仕組みで実現していました。
+本記事では、この仕組みを GitHub Actions と ecspresso に移行することで運用負荷をどのように改善したかを紹介します。
+ECS のデプロイ基盤が歴史的経緯で複雑化しているチームや、CodePipeline... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mybest_dev/articles/2cd71bc64ad380</guid>
+      <pubDate>Wed, 02 Sep 2026 09:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>社内限定サービスの認証を Google Workspace でサクッと作る</title>
+      <link>https://zenn.dev/dress_code/articles/6134e6bd5e46c6</link>
+      <description>はじめに
+Dress Code 株式会社でプロダクトエンジニアをしている@cottpanです。
+社内向けの小さな Web サービスを作るとき、毎回考慮しなければいけないのが認証です。実現したいことは「社内の人だけが見られればいい」とシンプルですが、毎回認証の部分を実装するのは手間になる上、退職者のアカウントを消し忘れるなどの運用コストにもつながります。
+今回、社内で HTML を共有するためのサービスを作る機会があり、認証は全部 Google Workspace に寄せて実装を行いました。
+通常の認証に加え、「CI からも叩きたい」「エージェントに API 経由でアクセスを許可したい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/6134e6bd5e46c6</guid>
+      <pubDate>Tue, 01 Sep 2026 10:00:05 +0000</pubDate>
     </item>
     <item>
       <title>PR の概要や動作確認結果を HTML で共有するのに、zip 不要の GitHub Actions Artifact がちょうどよかった</title>
@@ -26,6 +42,25 @@
 詳しくは後述しますが、今までプルリクエストを出すときには、デザイン... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/she_techblog/articles/github-actions-artifact-no-zip</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>テスト見積もりは掛け算2つで出せる</title>
+      <link>https://zenn.dev/bitkey_dev/articles/test-estimation-formula</link>
+      <description>「だいたい○○ケースくらいですかね」の正体
+テスト計画でスケジュールを立てるとき、テストケース数の見積もりはどうやっているだろうか。
+正直なところ、多くの現場では「前回と同じくらいの規模感だから○○ケースくらい」「経験的にこの手の機能なら△△ケース」という見積もりが主流だと思う。自分もそうだった。
+これで困るのは3つの場面。
+
+
+初めての領域。 過去実績がないから「だいたい」が通用しない
+
+説明責任。 上席に「なぜその工数なのか」と聞かれたとき、根拠を示せない
+
+精度のばらつき。 見積もる人によって2〜3倍の差が出る
+
+結局、見積もりの「勘と経験」の中身を分解してみたら、ちゃんと数式... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/bitkey_dev/articles/test-estimation-formula</guid>
+      <pubDate>Wed, 02 Sep 2026 02:30:05 +0000</pubDate>
     </item>
     <item>
       <title>「ページのトップへ戻るボタン」はなぜ非推奨か</title>
@@ -41,37 +76,11 @@
       <pubDate>Sun, 30 Aug 2026 14:22:43 +0000</pubDate>
     </item>
     <item>
-      <title>FTCが「AIの意図的な出力操作」を消費者欺瞞として規制へ — ハルシネーションとの区別をどう証明するかが最大の壁</title>
-      <link>https://techfeed.io/entries/6a98afef9c9ab1d41866efd4?from=rss</link>
-      <description>9月3日、PYMNTSが「The FTC Is Coming for AI's Honesty Problem」と題した記事を公開した。米連邦取引委員会（FTC）がAI企業の「意図的な出力操作」を消費者欺瞞として規制しようとしているが、この規制案には根本的な逆説がある。「意図的な操作」と「ハルシネーション」を技術的に区別する手段が存在しないのだ。法執行を可能にする判定基準が示されないまま、パブリックコメント締切（7月31日）から2か月が経過した現在も、FTCは沈黙を続けている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a98afef9c9ab1d41866efd4?from=rss</guid>
-      <pubDate>Wed, 02 Sep 2026 23:23:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>小学校の夏休みの宿題をプロジェクトマネジメントしてみた</title>
-      <link>https://zenn.dev/nextbeat/articles/8f5d24529caea6</link>
-      <description>ネクストビートでプロジェクトマネージャーをしている一石です。
-今回は小学校低学年の子どもの夏休みの宿題を、プロジェクトマネジメントした話を書いてみたいと思います。
-皆さんは小学生のころ、夏休みの宿題は計画的に終わらせる人でしたか？それとも最終日に一気にやる人でしたか？私は後者で、図工とか読書感想文とか、時間がかかるものが最後まで残って泣きながらやっているタイプでした…
-そんな私も父となり、小学校低学年の子どもがいます。7月も終わり8月に入る頃、何やら夏休みの宿題の進みが悪いようで、私が見てあげることになりました。
-宿題を終わらせるために、プロジェクトマネジメントの観点で整理・計画・管理を... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nextbeat/articles/8f5d24529caea6</guid>
-      <pubDate>Mon, 31 Aug 2026 11:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>EAS Observeを触ってみる</title>
-      <link>https://zenn.dev/miive/articles/37e2b31905777f</link>
-      <description>はじめに
-初めまして。
-株式会社miiveでエンジニアをしているyakinikuです。
-このたび、miiveのZennブログを開設しました 🎉
-今後いろんな記事が投稿されると思うので、読んでいただけると幸いです。
-株式会社miiveでは、食事補助や社内交流など、企業がさまざまな福利厚生制度を設計・運用できる福利厚生プラットフォームを提供しています。
-https://miive.jp/
-miiveには従業員の方が利用するモバイルアプリがあり、その開発にExpoを利用しています。
-今回はその第1弾の記事として、Expoが提供している「EAS Observe」を実際に触ってみた内容を書いて... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/miive/articles/37e2b31905777f</guid>
-      <pubDate>Wed, 02 Sep 2026 05:11:15 +0000</pubDate>
+      <title>AIが勝手に送金する時代、米議会が問う「そのエージェントは誰だ？」— 本人確認・責任の所在・ステーブルコイン規制をめぐる公聴会の論点</title>
+      <link>https://techfeed.io/entries/6a99ffd09c9ab1d41867b516?from=rss</link>
+      <description>9月4日、PYMNTSが「Lawmakers Test the Rules for AI Agents That Move Money」と題した記事を公開した。AIエージェントが人間の指示なしに資金移動を行う時代が現実味を帯びるなか、米議会が直面している核心的な問いは「そのエージェントの背後にいる人物を、法的に特定できるか」という一点だ。9月2日に開かれた米下院金融サービス委員会の公聴会では、AIエージェント・ステーブルコイン・トークン化証券をまたぐ規制の空白をどう埋めるかをめぐり、業界・学術・規制当局の各立場から鋭い議論が交わされた。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a99ffd09c9ab1d41867b516?from=rss</guid>
+      <pubDate>Thu, 03 Sep 2026 23:16:32 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code のトークン節約でやっている 9 つのこと — 起動 7 万トークンの内訳と計測つき</title>
@@ -84,11 +93,17 @@ Claude Code を毎日使い、設定ファイルや script を触る人に向け
       <pubDate>Wed, 02 Sep 2026 04:54:11 +0000</pubDate>
     </item>
     <item>
-      <title>AI推論GPUの選定で無駄金を払わないために — NVIDIAが公開したサイジングとTCO最適化の実践フレームワーク</title>
-      <link>https://techfeed.io/entries/6a98afd79c9ab1d41866efbc?from=rss</link>
-      <description>9月2日、NVIDIA Developerが「How to Size GPUs for AI Inference and TCO Without Overspending」と題した記事を公開した。AI推論の本番運用を考えるとき、「どのGPUを何台用意すればいいか」という問いに自信を持って答えられるチームは少ない。スペックシートを眺めて大きめのGPUを確保しておけば安心、という判断が積み重なると、TCOは静かに膨らんでいく。本記事はその意思決定を体系化しようという試みだ。まず「ユースケース」から始めるサイジングの出発点は、ハードウェアスペックではなくユースケースの特定だ。NVIDIAは主要な推論ワークロードを以下の4つに分類している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a98afd79c9ab1d41866efbc?from=rss</guid>
-      <pubDate>Wed, 02 Sep 2026 23:23:02 +0000</pubDate>
+      <title>AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも</title>
+      <link>https://zenn.dev/yesodco/articles/ed0eb2f6b7621a</link>
+      <description>はじめに
+株式会社イエソドの竹内(@chimerast)です。
+今回は、軽いお話しで、Claude CodeなどのAIに複雑なロジックを解説させるときの豆知識です。
+
+ きっかけは「5才児向けの絵本」だった
+この話の始まりは、コードとは関係のない雑談でした。
+弊社のメンバーがClaudeに「Fable 5 と Fable 5.1 の違いを、5才児でもわかるように絵本風に解説して」と頼んだのです。AnthropicのThariq Shihipar氏が紹介していた「ELI5」というClaude CodeのSkillだそうです。半分は遊びだったと思います。ところが出てきた絵本が、モデルのリ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yesodco/articles/ed0eb2f6b7621a</guid>
+      <pubDate>Thu, 03 Sep 2026 06:02:10 +0000</pubDate>
     </item>
     <item>
       <title>PRレビューもエラー調査も定額で自動化する、Claude Codeのroutine活用実例</title>

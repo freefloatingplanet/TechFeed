@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:54:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:54:48 +0000</lastBuildDate>
     <item>
-      <title>プレゼンテーション：エッジでのAI実行：ブラウザで実際のワークロードを直接実行する</title>
-      <link>https://www.infoq.com/presentations/local-ai-browser-inference-privacy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ジェームズ・ホールは、AIワークロードをクラウドプロバイダーからローカルエッジデバイスへ移行することの戦略的および技術的な必要性について論じています。彼は、WebGPU、Transformers.js、DuckDBを使用してJavaScriptでネイティブに近いパフォーマンスを実現する実践的なアプローチを紹介します。実際のケーススタディを通して、データプライバシーのリスクを最小限に抑え、ブラウザの推論を最適化し、厳密な評価スイートを構築する方法を解説します。ジェームズ・ホール著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/local-ai-browser-inference-privacy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 31 Aug 2026 11:00:00 +0000</pubDate>
+      <title>TanStack Start SaaSにマルチテナント認証を追加する方法</title>
+      <link>https://workos.com/blog/how-to-add-multi-tenant-authentication-to-your-tanstack-start-saas</link>
+      <description>ほとんどのマルチテナントガイドはデータベースについて解説していますが、本書では認証レイヤーについて解説します。組織スコープのセッション、招待フロー、組織切り替え、テナントごとのSSO、そしてテナントチェックをルーティングではなくサーバー関数で行うべき理由について説明します。 (source: WorkOS Blog)</description>
+      <guid isPermaLink="true">https://workos.com/blog/how-to-add-multi-tenant-authentication-to-your-tanstack-start-saas</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
