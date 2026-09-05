@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:54:41 +0000</lastBuildDate>
-    <item>
-      <title>ECS デプロイパイプラインと構成管理を GitHub Actionsと ecspresso に移行しました</title>
-      <link>https://zenn.dev/mybest_dev/articles/2cd71bc64ad380</link>
-      <description>マイベスト1人目の専任 SRE の秋吉です。ポメラニアンと暮らしています。
-
- 概要
-マイベストでは、ステージング環境を含めて100個弱の ECS サービスを運用しています。これまで ECS の構成管理とデプロイは、CodePipeline / CodeBuild / CodeDeploy / 独自シェルスクリプトなどを組み合わせた複雑な仕組みで実現していました。
-本記事では、この仕組みを GitHub Actions と ecspresso に移行することで運用負荷をどのように改善したかを紹介します。
-ECS のデプロイ基盤が歴史的経緯で複雑化しているチームや、CodePipeline... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mybest_dev/articles/2cd71bc64ad380</guid>
-      <pubDate>Wed, 02 Sep 2026 09:00:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Sep 2026 10:14:43 +0000</lastBuildDate>
     <item>
       <title>社内限定サービスの認証を Google Workspace でサクッと作る</title>
       <link>https://zenn.dev/dress_code/articles/6134e6bd5e46c6</link>
@@ -63,6 +51,17 @@ Dress Code 株式会社でプロダクトエンジニアをしている@cottpan�
       <pubDate>Wed, 02 Sep 2026 02:30:05 +0000</pubDate>
     </item>
     <item>
+      <title>お母さん！僕、日記をドメインに書くことにしたの</title>
+      <link>https://zenn.dev/pepabo/articles/fd7a61e75f3dcc</link>
+      <description>突然ですが皆さん、日記って書いてますか？
+僕は書いてません。最後に書いたのは小学生の夏休みの宿題です。4週間分の日記を最終日にまとめて書きました。もちろん内容のほとんどは嘘です。僕はそれ以来、歴史の教科書を信じられなくなりました。
+やってないことをやったって記録し、誰もその真実に疑われなくなった場合、それはやったことなのかな？やってないことなのかな？
+そんな僕が最近、また日記を書きたくなりました。
+ただ、少し特別な方法で書きたいと思いました。NotionでもObsidianでもない、もうちょっとこう、説明を聞いた人が「なんで？」と言ってくれるような方法がいい。日記にだってテクノロジーを注... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pepabo/articles/fd7a61e75f3dcc</guid>
+      <pubDate>Thu, 03 Sep 2026 23:30:05 +0000</pubDate>
+    </item>
+    <item>
       <title>「ページのトップへ戻るボタン」はなぜ非推奨か</title>
       <link>https://zenn.dev/masahiko888/articles/91c9a1e354aacb</link>
       <description>前提と問い
@@ -76,34 +75,36 @@ Dress Code 株式会社でプロダクトエンジニアをしている@cottpan�
       <pubDate>Sun, 30 Aug 2026 14:22:43 +0000</pubDate>
     </item>
     <item>
-      <title>AIが勝手に送金する時代、米議会が問う「そのエージェントは誰だ？」— 本人確認・責任の所在・ステーブルコイン規制をめぐる公聴会の論点</title>
-      <link>https://techfeed.io/entries/6a99ffd09c9ab1d41867b516?from=rss</link>
-      <description>9月4日、PYMNTSが「Lawmakers Test the Rules for AI Agents That Move Money」と題した記事を公開した。AIエージェントが人間の指示なしに資金移動を行う時代が現実味を帯びるなか、米議会が直面している核心的な問いは「そのエージェントの背後にいる人物を、法的に特定できるか」という一点だ。9月2日に開かれた米下院金融サービス委員会の公聴会では、AIエージェント・ステーブルコイン・トークン化証券をまたぐ規制の空白をどう埋めるかをめぐり、業界・学術・規制当局の各立場から鋭い議論が交わされた。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a99ffd09c9ab1d41867b516?from=rss</guid>
-      <pubDate>Thu, 03 Sep 2026 23:16:32 +0000</pubDate>
+      <title>TanStack Virtual を使ってみた話</title>
+      <link>https://zenn.dev/geekplus/articles/b5f1757e2869ef</link>
+      <description>初めまして。ギークプラスのフロントエンドエンジニアの杉平と申します！
+今回は、サプライチェーン計画のプロダクトで在庫計画の画面をリニューアルしたときのお話です。
+作ったのは、商品ごとのカードを縦に積んでいって、開くと中に大きな表が出てくる画面でした。表の縦軸は「拠点 × 指標」で、拠点 1 つにつき在庫数や入出荷数といった指標が並びます。横軸は時間で、日次・週次・月次を切り替えられます。
+これが最大でどれくらいになるかというと、拠点 100 件 × 指標 9 種類で 900 行。日次は今日を挟んで前後 365 日ぶん出すので 731 列。掛けると 約 66 万セルです。1 商品ぶんでこの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/geekplus/articles/b5f1757e2869ef</guid>
+      <pubDate>Fri, 04 Sep 2026 00:03:26 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code のトークン節約でやっている 9 つのこと — 起動 7 万トークンの内訳と計測つき</title>
-      <link>https://zenn.dev/activecore/articles/claude-code-resident-cost</link>
-      <description>同僚に「どうやってトークン節約してるの」と聞かれた。答えようとして、自分がやっていることを一度も並べたことがないと気づいた。この記事がその答えになる。やっている 9 つの方法を並べ、数字が出ているものには計測値を添える。まだ測れていないものはそう書く。効かなかったものも分けて出す。
-Claude Code を毎日使い、設定ファイルや script を触る人に向けている。チャットとして使うだけなら、ここから先は関係が薄い。
-トークンは、AI が文章を数える単位だ。入力が大きいほど、料金と応答時間が増える。
-会話を 1 往復もしていない時点で既に消えているトークンを、この記事では常駐費と呼ぶ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/activecore/articles/claude-code-resident-cost</guid>
-      <pubDate>Wed, 02 Sep 2026 04:54:11 +0000</pubDate>
+      <title>AIでチーム感が薄れたSREチームで始めた、AIによる週次チーム評価</title>
+      <link>https://zenn.dev/hubble/articles/ee2f962e0a69f1</link>
+      <description>こんにちはHubble SREチームの三橋です！
+本日はSREチームのチーム力強化のために取り組んだ内容についてご紹介したいと思います。
+先日のSRE NEXTでは、今後の課題としてチーム力を高めていく必要がある旨をお話ししました。あれから施策に取り組み、多少状況が改善されてきたため、今回はその内容に触れようと思います。具体的にはコミュニケーションの場を再設計し、チームの状態をAIに週次で評価させるようにしました。まだ始めたばかりで見えていない部分も多いのですが、方向性としては間違っていなさそうだという感触は得られています。
+https://speakerdeck.com/kmitsuh... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hubble/articles/ee2f962e0a69f1</guid>
+      <pubDate>Fri, 04 Sep 2026 03:57:56 +0000</pubDate>
     </item>
     <item>
-      <title>AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも</title>
-      <link>https://zenn.dev/yesodco/articles/ed0eb2f6b7621a</link>
+      <title>ルールではなくskillに指示を書くことで、Claudeのコメントを減らせた</title>
+      <link>https://zenn.dev/uzu_tech/articles/58a84a9346b910</link>
       <description>はじめに
-株式会社イエソドの竹内(@chimerast)です。
-今回は、軽いお話しで、Claude CodeなどのAIに複雑なロジックを解説させるときの豆知識です。
-
- きっかけは「5才児向けの絵本」だった
-この話の始まりは、コードとは関係のない雑談でした。
-弊社のメンバーがClaudeに「Fable 5 と Fable 5.1 の違いを、5才児でもわかるように絵本風に解説して」と頼んだのです。AnthropicのThariq Shihipar氏が紹介していた「ELI5」というClaude CodeのSkillだそうです。半分は遊びだったと思います。ところが出てきた絵本が、モデルのリ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yesodco/articles/ed0eb2f6b7621a</guid>
-      <pubDate>Thu, 03 Sep 2026 06:02:10 +0000</pubDate>
+株式会社Sally 所属エンジニアの @wellPicker です。
+弊社では、スマホやパソコンでマダミスを遊べるアプリであるウズや、マダミス情報・予約管理サイトマダミス.jp、マダミス開発ツールウズスタジオを開発しています。
+マダミスについてはこちらをご覧ください。
+Claude Code に実装させると、コメントがやたら長くなります。設定 1 行に 18 行のコメントが付くこともあります。書いてある内容自体は正しく、ライブラリの仕様や過去の事故の経緯が並んでいるのですが、そのぶんコードが読みにくくなります。
+これを減らすために「コードから復元できない情報だけを書く」とい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/uzu_tech/articles/58a84a9346b910</guid>
+      <pubDate>Thu, 03 Sep 2026 03:00:07 +0000</pubDate>
     </item>
     <item>
       <title>PRレビューもエラー調査も定額で自動化する、Claude Codeのroutine活用実例</title>
@@ -115,17 +116,11 @@ Claude Codeには、決めた時間やイベントをきっかけにClaudeを自
       <pubDate>Tue, 01 Sep 2026 07:50:31 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェント時代にデータサイエンティストは生き残れるのか</title>
-      <link>https://zenn.dev/miogawa/articles/09bed306fc615a</link>
-      <description>!
-この記事は個人の見解であり、所属する組織を代表するものではありません。
-
-
- はじめに
-データサイエンティストのキャリアについて聞かれることが、ここ数年でかなり増えました。社内やお客様先だけでなく、大学の知り合いからも聞かれます。これから進もうとしている学生もいれば、何年かやってきて次をどうするか迷っている人もいます。その都度その場で答えてきたのですが、一度まとめて書いておこうと思いました。
-先日、AI の民主化はもう閉じたほうがいい、これからは AI の組織化とガバナンスだ、という記事を書きました。ただあれは、作る人を絞って使う人を増やす、という組織側の話です。では絞られたあとに残... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/miogawa/articles/09bed306fc615a</guid>
-      <pubDate>Wed, 02 Sep 2026 08:30:05 +0000</pubDate>
+      <title>AIエージェントの作業をクラウドに任せてPCを閉じられる — KiroがクラウドセッションをGA、接続を切っても処理は止まらない</title>
+      <link>https://techfeed.io/entries/6a9b4f27e0f161148ba90085?from=rss</link>
+      <description>9月4日、Kiro公式ブログが「Agentic engineering in the cloud」と題した記事を公開した。PCを閉じても、席を外しても、エージェントは動き続ける——そんな開発体験を実現するクラウド実行機能が、今回正式リリース（GA）となった。Kiro Web・クラウドセッション・クラウド設定の3機能が同時にGAとなり、AIエージェントIDEとしてのKiroがローカルを超えた新しい開発スタイルを提案している。Kiroは、AWSが開発・提供するAIエージェント搭載のIDE（統合開発環境）だ。コーディング補助にとどまらず、仕様策定から実装・テスト・PRまでをエージェントが一貫して担う「agentic engineering」を志向しており、2025年にパブリックプレビューが開始された比較的新しいツールである。公式ドキュメントはkiro.dev/docsから参照できる。ローカルで始めて、クラウドで走らせるちょっとした修正のつもりが大きな作業になる、作業中に席を外さなければならない、複数のリポジトリにまたがってしまう——そういった状況で、ローカルのIDEやCLIからシームレスにク (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a9b4f27e0f161148ba90085?from=rss</guid>
+      <pubDate>Fri, 04 Sep 2026 23:07:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
