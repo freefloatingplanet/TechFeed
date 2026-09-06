@@ -7,30 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:14:43 +0000</lastBuildDate>
-    <item>
-      <title>社内限定サービスの認証を Google Workspace でサクッと作る</title>
-      <link>https://zenn.dev/dress_code/articles/6134e6bd5e46c6</link>
-      <description>はじめに
-Dress Code 株式会社でプロダクトエンジニアをしている@cottpanです。
-社内向けの小さな Web サービスを作るとき、毎回考慮しなければいけないのが認証です。実現したいことは「社内の人だけが見られればいい」とシンプルですが、毎回認証の部分を実装するのは手間になる上、退職者のアカウントを消し忘れるなどの運用コストにもつながります。
-今回、社内で HTML を共有するためのサービスを作る機会があり、認証は全部 Google Workspace に寄せて実装を行いました。
-通常の認証に加え、「CI からも叩きたい」「エージェントに API 経由でアクセスを許可したい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/6134e6bd5e46c6</guid>
-      <pubDate>Tue, 01 Sep 2026 10:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>PR の概要や動作確認結果を HTML で共有するのに、zip 不要の GitHub Actions Artifact がちょうどよかった</title>
-      <link>https://zenn.dev/she_techblog/articles/github-actions-artifact-no-zip</link>
-      <description>こんにちは、SHE株式会社でエンジニアをしています hatsu です。
-日頃は CI の速度改善をしたり、Flaky テストを直したり、300 個以上のカラムに not null 制約を加えていったり、そういう改善をしています。
-今回はそんな中でも、GitHub Actions の Artifact に関しての話です。
-最近知ったのですが、2026年2月26日 に GitHub Actions の Artifact が zip 化なしでアップロードできるようになったんですね。
-これがかなり便利で、今ではよく使っています。
-詳しくは後述しますが、今までプルリクエストを出すときには、デザイン... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/she_techblog/articles/github-actions-artifact-no-zip</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 06 Sep 2026 10:35:00 +0000</lastBuildDate>
     <item>
       <title>テスト見積もりは掛け算2つで出せる</title>
       <link>https://zenn.dev/bitkey_dev/articles/test-estimation-formula</link>
@@ -62,17 +39,15 @@ Dress Code 株式会社でプロダクトエンジニアをしている@cottpan�
       <pubDate>Thu, 03 Sep 2026 23:30:05 +0000</pubDate>
     </item>
     <item>
-      <title>「ページのトップへ戻るボタン」はなぜ非推奨か</title>
-      <link>https://zenn.dev/masahiko888/articles/91c9a1e354aacb</link>
-      <description>前提と問い
-デジタル庁デザインシステムで公開されていた「スクロールトップボタン」が、現在では非推奨にされています。
-なぜ非推奨なのでしょう。調べると、さまざまな問題があることが分かりました。
-!
-2026/9/3 追記
-「『ページのトップへ戻るボタンは非推奨だよ、みんな使わないでおこうね』とデジタル庁が言っている」わけではなく、デジタル庁で自ら作成した「スクロールトップボタン」というコンポーネントを自ら使わないでおこうとしたということです。
-どういった課題があったのかを予想する過程で、出たきた問題点（主にWCAG関連）を共有することを今回の記事では目的としています。ですので、「非推奨... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/masahiko888/articles/91c9a1e354aacb</guid>
-      <pubDate>Sun, 30 Aug 2026 14:22:43 +0000</pubDate>
+      <title>小学校の夏休みの宿題をプロジェクトマネジメントしてみた</title>
+      <link>https://zenn.dev/nextbeat/articles/8f5d24529caea6</link>
+      <description>ネクストビートでプロジェクトマネージャーをしている一石です。
+今回は小学校低学年の子どもの夏休みの宿題を、プロジェクトマネジメントした話を書いてみたいと思います。
+皆さんは小学生のころ、夏休みの宿題は計画的に終わらせる人でしたか？それとも最終日に一気にやる人でしたか？私は後者で、図工とか読書感想文とか、時間がかかるものが最後まで残って泣きながらやっているタイプでした…
+そんな私も父となり、小学校低学年の子どもがいます。7月も終わり8月に入る頃、何やら夏休みの宿題の進みが悪いようで、私が見てあげることになりました。
+宿題を終わらせるために、プロジェクトマネジメントの観点で整理・計画・管理を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nextbeat/articles/8f5d24529caea6</guid>
+      <pubDate>Mon, 31 Aug 2026 11:01:11 +0000</pubDate>
     </item>
     <item>
       <title>TanStack Virtual を使ってみた話</title>
@@ -83,16 +58,6 @@ Dress Code 株式会社でプロダクトエンジニアをしている@cottpan�
 これが最大でどれくらいになるかというと、拠点 100 件 × 指標 9 種類で 900 行。日次は今日を挟んで前後 365 日ぶん出すので 731 列。掛けると 約 66 万セルです。1 商品ぶんでこの... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/geekplus/articles/b5f1757e2869ef</guid>
       <pubDate>Fri, 04 Sep 2026 00:03:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIでチーム感が薄れたSREチームで始めた、AIによる週次チーム評価</title>
-      <link>https://zenn.dev/hubble/articles/ee2f962e0a69f1</link>
-      <description>こんにちはHubble SREチームの三橋です！
-本日はSREチームのチーム力強化のために取り組んだ内容についてご紹介したいと思います。
-先日のSRE NEXTでは、今後の課題としてチーム力を高めていく必要がある旨をお話ししました。あれから施策に取り組み、多少状況が改善されてきたため、今回はその内容に触れようと思います。具体的にはコミュニケーションの場を再設計し、チームの状態をAIに週次で評価させるようにしました。まだ始めたばかりで見えていない部分も多いのですが、方向性としては間違っていなさそうだという感触は得られています。
-https://speakerdeck.com/kmitsuh... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hubble/articles/ee2f962e0a69f1</guid>
-      <pubDate>Fri, 04 Sep 2026 03:57:56 +0000</pubDate>
     </item>
     <item>
       <title>ルールではなくskillに指示を書くことで、Claudeのコメントを減らせた</title>
@@ -107,6 +72,26 @@ Claude Code に実装させると、コメントがやたら長くなります�
       <pubDate>Thu, 03 Sep 2026 03:00:07 +0000</pubDate>
     </item>
     <item>
+      <title>AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも</title>
+      <link>https://zenn.dev/yesodco/articles/ed0eb2f6b7621a</link>
+      <description>はじめに
+株式会社イエソドの竹内(@chimerast)です。
+今回は、軽いお話しで、Claude CodeなどのAIに複雑なロジックを解説させるときの豆知識です。
+
+ きっかけは「5才児向けの絵本」だった
+この話の始まりは、コードとは関係のない雑談でした。
+弊社のメンバーがClaudeに「Fable 5 と Fable 5.1 の違いを、5才児でもわかるように絵本風に解説して」と頼んだのです。AnthropicのThariq Shihipar氏が紹介していた「ELI5」というClaude CodeのSkillだそうです。半分は遊びだったと思います。ところが出てきた絵本が、モデルのリ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yesodco/articles/ed0eb2f6b7621a</guid>
+      <pubDate>Thu, 03 Sep 2026 06:02:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIで実装は速くなった。なのにプロダクトは速くならない。職能の壁を越えて価値のフローを設計する</title>
+      <link>https://speakerdeck.com/nwiizo/ai-de-jissou-ha-hayaku-nata-nanoni-purodakuto-ha-hayaku-naranai-shokunou-no-kabe-o-koe-te-kachi-no-furo-o-sekkei-suru</link>
+      <description>生成AIによって開発者の指は光の速さで動いている。なのに、リリースは相変わらず「来期のどこか」。 では、犯人は AI なのか？ AI がコードを爆速で吐き出したあと、その成果物が「PdM 待ち」「デザイン待ち」「QA 待ち」「法務待ち」「偉い人の気分待ち」という職能ごとの待合室を巡り、気づいたら実… (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://speakerdeck.com/nwiizo/ai-de-jissou-ha-hayaku-nata-nanoni-purodakuto-ha-hayaku-naranai-shokunou-no-kabe-o-koe-te-kachi-no-furo-o-sekkei-suru</guid>
+      <pubDate>Sat, 05 Sep 2026 06:29:01 +0000</pubDate>
+    </item>
+    <item>
       <title>PRレビューもエラー調査も定額で自動化する、Claude Codeのroutine活用実例</title>
       <link>https://zenn.dev/atamaplus/articles/6be03483c0110b</link>
       <description>こんにちは！　atama plusのtakeiです。
@@ -116,11 +101,24 @@ Claude Codeには、決めた時間やイベントをきっかけにClaudeを自
       <pubDate>Tue, 01 Sep 2026 07:50:31 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントの作業をクラウドに任せてPCを閉じられる — KiroがクラウドセッションをGA、接続を切っても処理は止まらない</title>
-      <link>https://techfeed.io/entries/6a9b4f27e0f161148ba90085?from=rss</link>
-      <description>9月4日、Kiro公式ブログが「Agentic engineering in the cloud」と題した記事を公開した。PCを閉じても、席を外しても、エージェントは動き続ける——そんな開発体験を実現するクラウド実行機能が、今回正式リリース（GA）となった。Kiro Web・クラウドセッション・クラウド設定の3機能が同時にGAとなり、AIエージェントIDEとしてのKiroがローカルを超えた新しい開発スタイルを提案している。Kiroは、AWSが開発・提供するAIエージェント搭載のIDE（統合開発環境）だ。コーディング補助にとどまらず、仕様策定から実装・テスト・PRまでをエージェントが一貫して担う「agentic engineering」を志向しており、2025年にパブリックプレビューが開始された比較的新しいツールである。公式ドキュメントはkiro.dev/docsから参照できる。ローカルで始めて、クラウドで走らせるちょっとした修正のつもりが大きな作業になる、作業中に席を外さなければならない、複数のリポジトリにまたがってしまう——そういった状況で、ローカルのIDEやCLIからシームレスにク (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a9b4f27e0f161148ba90085?from=rss</guid>
-      <pubDate>Fri, 04 Sep 2026 23:07:19 +0000</pubDate>
+      <title>Claude Code の Rules が発火しないのは、Claude が Read ツールを使っていないから</title>
+      <link>https://zenn.dev/odacchi/articles/claude-code-rules-read-tool</link>
+      <description>kawasin73 さんの Claude Code の Rules はもう死んでいる を読みました。
+自分も「あるときから挙動がおかしい」と感じてハーネスを見直し、同じ問題までは特定していました。ただ対処が違っていて、記事の解決策（フィーチャーフラグの無効化）を読んで初めて根本原因のほうに手が届いた、という順番です。
+原因の発見とフラグの特定はすべて元記事の功績です。この記事は、そこに自分の手元で確認できたことを足して、2 つの直し方の違いを整理するものです。
+先に結論から書きます。
+
+
+paths 付き Rules は Read ツールの実行に相乗りして発火している。Bash の ca... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/odacchi/articles/claude-code-rules-read-tool</guid>
+      <pubDate>Sat, 05 Sep 2026 20:36:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWSの認証情報が漏洩すると1日100,000ドルのAI利用料を請求される「LLMjacking」— クラウド侵害の目的がデータ窃取からAI転売へ</title>
+      <link>https://techfeed.io/entries/6a9ca15ce0f161148ba968db?from=rss</link>
+      <description>9月4日、GBHackersが「LLMjacking Attack Abuses Leaked AWS Credentials to Hijack Amazon Bedrock AI Models」と題した記事を公開した。同記事はFortiGuard Labsが報告したインシデント分析をもとに構成された二次記事であり、漏洩したAWS IAM認証情報を悪用してAmazon Bedrockの生成AIモデルを乗っ取る「LLMjacking」攻撃の手口と防御策を詳しく紹介している。有効な認証情報1本が1日あたり最大10万ドル超の請求に化けるという被害のスケール感は、クラウドセキュリティの優先事項を根本から問い直すものだ。LLMjackingとは何かLLMjackingとは、盗んだクラウド認証情報を生成AIサービスへのアクセス権に変換する攻撃手法だ。「LLMjacking」という名称は、2023年にSysdigの脅威調査チームが命名・定義したもので、クラウド認証情報を用いてLLMサービスを不正利用する攻撃パターンを指す言葉として定着しつつある。従来のクラウド侵害といえばデータ窃取やクリプトマイニ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6a9ca15ce0f161148ba968db?from=rss</guid>
+      <pubDate>Sat, 05 Sep 2026 23:10:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

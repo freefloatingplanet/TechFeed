@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:35:09 +0000</lastBuildDate>
     <item>
-      <title>TanStack Start SaaSにマルチテナント認証を追加する方法</title>
-      <link>https://workos.com/blog/how-to-add-multi-tenant-authentication-to-your-tanstack-start-saas</link>
-      <description>ほとんどのマルチテナントガイドはデータベースについて解説していますが、本書では認証レイヤーについて解説します。組織スコープのセッション、招待フロー、組織切り替え、テナントごとのSSO、そしてテナントチェックをルーティングではなくサーバー関数で行うべき理由について説明します。 (source: WorkOS Blog)</description>
-      <guid isPermaLink="true">https://workos.com/blog/how-to-add-multi-tenant-authentication-to-your-tanstack-start-saas</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <title>FreeCORE: FreeBSD上で高度に統合された仮想化、Jails、およびOpenZFSを維持するTrueNASフォーク</title>
+      <link>https://www.infoq.com/news/2026/09/freecore-truenas-fork/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>TrueNAS COREは、FreeBSDとOpenZFSを使用したオープンソースストレージの標準でした。DebianベースのTrueNAS SCALEへの移行により、一部のユーザーは代替ソリューションを必要としていました。FreeCOREはTrueNAS COREをFreeBSD 15.0にアップグレードし、FreeBSD Jailsなどの重要な機能を復元します。これは一部の管理者のニーズを満たす一方で、長期的な持続可能性と、単一の個人によるメンテナンスには懸念が残ります。執筆：Olimpiu Pop (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/09/freecore-truenas-fork/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sun, 06 Sep 2026 06:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
