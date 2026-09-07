@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:35:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:59:47 +0000</lastBuildDate>
+    <item>
+      <title>火星の硫黄結晶の発見がScience誌表紙を飾る　火星の局所的な環境を示す重要な手がかり</title>
+      <link>https://sorae.info/astronomy/20260906-mars-sulfur-deposit.html</link>
+      <description>偶然が思わぬ発見をもたらすことはありますが、今回お話する内容はその最たる例かもしれません。2024年6月、NASA（アメリカ航空宇宙局）の火星探査車「キュリオシティ（Curiosity）」の運用チームは、淡い色をした岩が… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260906-mars-sulfur-deposit.html</guid>
+      <pubDate>Sun, 06 Sep 2026 12:25:42 +0000</pubDate>
+    </item>
     <item>
       <title>星空や景色に情報を重ねて表示！　ユニステラがAR搭載スマート双眼鏡「ENVISION」の国内予約を開始</title>
       <link>https://sorae.info/news/20260906-unistellar-envision.html</link>
@@ -30,25 +37,18 @@
       <pubDate>Fri, 04 Sep 2026 04:37:53 +0000</pubDate>
     </item>
     <item>
-      <title>NASA「アルテミスIII」ミッションのSLSコアステージにエンジンを取り付ける作業が開始</title>
-      <link>https://sorae.info/space/20260901-artemis-iii.html</link>
-      <description>こちらは、NASA（アメリカ航空宇宙局）のケネディ宇宙センターにあるVAB（ロケット組立棟）で2026年8月25日に撮影された画像です。 中央に写っているのは、NASAの大型ロケット「SLS（スペース・ローンチ・システム… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260901-artemis-iii.html</guid>
-      <pubDate>Tue, 01 Sep 2026 02:36:56 +0000</pubDate>
+      <title>遠隔地の鉄道や農地にも通信技術を提供へ。イギリスが衛星通信に関する16件のプロジェクトに1,300万ポンドを出資【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/46923/</link>
+      <description>2026年8月18日、UK Space Agency（イギリス宇宙庁）は、衛星通信の16件のプロジェクトに資金提供すると発表しました。総額は1,300万ポンド（約28億円）です。16件のプロジェクトはESA（欧州宇宙機関）の通信技術開発プログラム「ARTES」の一部として実施され、身近な用途から深宇宙通信までテーマが多岐にわたります。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46923/</guid>
+      <pubDate>Sun, 06 Sep 2026 23:02:33 +0000</pubDate>
     </item>
     <item>
-      <title>90年前に予測された現象「真空複屈折」を発見？　マグネターの観測結果から有力な証拠を観測</title>
-      <link>https://sorae.info/astronomy/20260831-vacuum-birefringence.html</link>
-      <description>量子力学における「真空」とは、何もない空間ではなく、仮想的な粒子ペアが常に生成・消滅している空間であると考えられています。この性質から予測される現象として、光（電磁波）を2つの方向に分ける「真空複屈折」が予測されていまし… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260831-vacuum-birefringence.html</guid>
-      <pubDate>Mon, 31 Aug 2026 12:56:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>令和8年熊本地震で衛星データを活用。JAXAや企業による緊急観測・被害推定・復旧支援【随時更新】</title>
-      <link>https://sorabatake.jp/46713/</link>
-      <description>「令和8年熊本地震」を受け、JAXAや宇宙関連企業各社が、衛星による被災地域の緊急観測やデータの提供、復旧・復興を支えるサービスの無償提供などに取り組んでいます。宇宙技術が災害対応にどのように活かされているのか、各機関や企業の動きをまとめました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46713/</guid>
-      <pubDate>Wed, 05 Aug 2026 06:15:26 +0000</pubDate>
+      <title>月のレゴリスは超新星爆発の記録を残した“タイムカプセル”？　数理モデルで可能性を検証</title>
+      <link>https://sorae.info/astronomy/20260907-cosmic-time-capsule-lunar-soil.html</link>
+      <description>恒星が超新星爆発を起こすと、周囲の宇宙空間には大量の物質がまき散らされます。ハワイ大学マノア校のEmily Costello氏を筆頭とする研究チームは、その痕跡を月のレゴリス（月面を覆う砂状の堆積物）から読み解くための新… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260907-cosmic-time-capsule-lunar-soil.html</guid>
+      <pubDate>Mon, 07 Sep 2026 11:44:09 +0000</pubDate>
     </item>
     <item>
       <title>インド、地球観測衛星「EOS-05」の打ち上げに成功</title>
