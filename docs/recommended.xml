@@ -7,56 +7,57 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 10:54:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:59:21 +0000</lastBuildDate>
     <item>
-      <title>Kaggleコンペ紹介：AI Agent Security - Multi-Step Tool Attacks</title>
-      <link>https://zenn.dev/mkj/articles/fad8adf0586665</link>
-      <description>はじめに
-こんにちは、松尾研究所 データサイエンティストの力岡です。
-今回は、Kaggleで開催された「AI Agent Security - Multi-Step Tool Attacks」コンペに参加し、4,187チーム中4位（金メダル） を獲得することができました。本記事では、コンペの概要や攻略の考え方、私たちの取り組み、上位解法について紹介します。
-本コンペは、「AIエージェントのセキュリティ」を題材にしたレッドチーミングコンペです。PublicリーダーボードとPrivateリーダーボードで順位がほとんど入れ替わる激しいシェイクアップが起き、2,802チームがPrivateで... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mkj/articles/fad8adf0586665</guid>
-      <pubDate>Tue, 08 Sep 2026 02:50:05 +0000</pubDate>
+      <title>CrowdStrikeが攻撃AIと防御AIを閉ループで対戦させる「SafeMind」を発表 — 性能数値はベンダー自己申告、独立検証は未実施</title>
+      <link>https://techfeed.io/entries/6aa095723e0b243779018d95?from=rss</link>
+      <description>9月7日、GBHackersが「CrowdStrike Launches SafeMind Agentic AI Cybersecurity System Built With NVIDIA Nemotron」と題した記事を公開した。CrowdStrikeが発表した「SafeMind」の最大の特徴は、攻撃側AIと防御側AIが自律的に対戦し続ける「閉ループ型アーキテクチャ」にある。単なる検出・通知システムではなく、攻撃シミュレーションと防御対応を継続的に繰り返すことで自律改善を図る設計だ。検出・修復コストの99%削減という数値を前面に出した発表だが、その数値の信頼性と実運用における課題も記事は正面から取り上げている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aa095723e0b243779018d95?from=rss</guid>
+      <pubDate>Tue, 08 Sep 2026 23:08:34 +0000</pubDate>
     </item>
     <item>
-      <title>「全員がAIを使っている」のにチームでは誰も使っていない — 組織のAI活用が個人止まりになる理由と、それを変える2つの条件</title>
-      <link>https://techfeed.io/entries/6a9f42d53e0b24377900b5f3?from=rss</link>
-      <description>9月7日、Inside AIが「AI Can Enhance Every Stage of Teamwork Under Two Conditions」と題した記事を公開した。個人レベルのAI活用が急速に広まる一方、チーム単位での活用がほぼ進んでいないという「組織的な空白」は、生成AIが普及フェーズを迎えた今こそ最も深刻な課題となっている。本記事はその実態と、空白を埋めるための2つの条件を35組織・300人のマネージャーを対象とした研究から明らかにしている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a9f42d53e0b24377900b5f3?from=rss</guid>
-      <pubDate>Mon, 07 Sep 2026 23:03:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【XP祭り2026】エンジニアにコミュ力を求めるな、と言われて頷いた</title>
-      <link>https://zenn.dev/nexta_/articles/51fdb6f774d1ca</link>
-      <description>こんにちは！QAエンジニアのAyakaです。
-2026年9月5日の XP祭り2026 にプロポーザル採択いただいたので、参加してきました。私はオンラインDの13:00枠で「社内ナレッジをAIに読ませて、QAのテスト設計を任せてみた話」を話しました。
-午前の基調講演、自分の登壇とその直後の1枠までしか聞けていないので、その範囲で刺さった論点を3つに絞って書きます。
+      <title>キャッシュを入れても速くならなかった ── 毎回タイムアウトする脆弱性スキャンCIを2分にするまで</title>
+      <link>https://zenn.dev/yesodco/articles/yesod-owasp-dependency-check-ci-speedup</link>
+      <description>こんにちは、株式会社イエソドでバックエンドエンジニアをしているik-fib（@ik11235）です。
 
- その前に：XPを、私は言葉でしか知らなかった
-午前のオープニングで、XPそのものの入門説明がありました。正直、これがなかったらそのあとの90分は置いていかれてました。私はXPを「ペアプロとかTDDとかをやるやつ」くらいの抽象... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nexta_/articles/51fdb6f774d1ca</guid>
-      <pubDate>Mon, 07 Sep 2026 02:32:05 +0000</pubDate>
+ はじめに
+弊社が開発しているサービス「YESOD」のバックエンドには、依存ライブラリの脆弱性を検査するCIジョブがあります。OWASP Dependency-Checkを使って、依存ライブラリを既知の脆弱性情報と突き合わせる、よくある構成です。
+ただ、このジョブが最近の実行ではタイムアウトが何度か発生するようになっていました。
+本記事では、この状態（実行時間枠を55分まで広げてもタイムアウトする状態）から約2分まで縮めるまでにやったことを、時系列で書きます。最終的に効いたのは、NV... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yesodco/articles/yesod-owasp-dependency-check-ci-speedup</guid>
+      <pubDate>Mon, 07 Sep 2026 10:04:00 +0000</pubDate>
     </item>
     <item>
-      <title>「データセンターの排熱で温泉を作ろう」が難しい3つの理由　本職のDC技術者にガチで考えてもらった</title>
-      <link>https://www.itmedia.co.jp/news/article/2609/08/2000000887/</link>
-      <description>AI需要に伴い注目度が高まるデータセンター。昨今は環境問題の表出に伴い電力消費や排熱なども問題視されているが、こうした議論のたびに「排熱でお湯を沸かして温泉にすればいいのでは」といったアイデアが注目を集めるのをご存じだろうか。 実は、データセンターの排熱を使った足湯は岐阜県に存在しており、英国では屋... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/08/2000000887/</guid>
-      <pubDate>Tue, 08 Sep 2026 03:18:54 +0000</pubDate>
+      <title>AIで従業員を監視しても生産性は上がらない — 2万3,000人超のデータが示す「監視神話」の実態</title>
+      <link>https://techfeed.io/entries/6aa095a63e0b243779018df7?from=rss</link>
+      <description>9月8日、Scientific Americanが「Bosses are using AI to spy on employees' productivity」と題した記事を公開した。バーガーキングは今年、「Patty」と名付けたAIチャットボットをヘッドセットに組み込んだ。レジ担当が「ありがとう」「どうぞ」などの礼儀表現を言い忘れると検知し、ソーダのタンクが減れば通知する仕組みだ。こうしたAI監視ツールは急速に普及しているが、「監視すれば生産性が上がる」という前提は科学的に裏付けられているのか——本記事はその問いを正面から検証している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aa095a63e0b243779018df7?from=rss</guid>
+      <pubDate>Tue, 08 Sep 2026 23:09:26 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAIとAnthropicはAIの「安全性」と「セキュリティ」を混同しているのか？ — サンドボックス脱出事件が問いかける設計思想の盲点</title>
-      <link>https://techfeed.io/entries/6a9f41ec3e0b24377900b494?from=rss</link>
-      <description>9月6日、Martin Aldersonが「Have the frontier labs mixed up AI safety and security?」と題した記事を公開した。フロンティアラボ（OpenAIやAnthropicなどの最先端AI研究機関）がAIの「安全性（Safety）」と「セキュリティ（Security）」を概念的に混同しており、それが最近のエージェントのサンドボックス脱出事件の背景にある可能性について考察した内容だ。断定ではなく問いかけの形をとっているが、その分析は具体的かつ鋭い。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a9f41ec3e0b24377900b494?from=rss</guid>
-      <pubDate>Mon, 07 Sep 2026 22:59:56 +0000</pubDate>
+      <title>日本はライドシェアはもう諦めて自動運転に行くべきだが、なんでこんなに進まないのかめちゃ掘りしてみた</title>
+      <link>https://www.landerblue.co.jp/65402/</link>
+      <description>わたしが主催しています「21世紀を生き残るための永江　虎の穴塾」では塾生を募集しています。希望者は毎月30分。わたしと1:1でzoomでブレストができます。ビジネスモデルの相談はもちろん、転職や自己PR、招来の方向性などの雑談でもOK。月１のイベントもなかなか好評です。 2026年9月3日、テキサス州オースティンでハ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.landerblue.co.jp/65402/</guid>
+      <pubDate>Tue, 08 Sep 2026 11:21:41 +0000</pubDate>
     </item>
     <item>
-      <title>Duolingoの新アイコンが「気持ち悪い」　世界のユーザーから「元に戻して」の声</title>
-      <link>https://www.itmedia.co.jp/news/article/2609/08/2000001269/</link>
-      <description>通常アイコンは緑色の背景に、フクロウのマスコット「Duo」の顔を正面から描いている。今回のアイコンは、半分閉じた目に紫色の瞳、開いたくちばしから舌が垂れ、汗も描かれ、高熱でうなされているような姿になっている。 運営元の米Duolingoはこのアイコンについて言及していないが、同社は過去にも不気味なアイコンで... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/08/2000001269/</guid>
-      <pubDate>Tue, 08 Sep 2026 07:10:30 +0000</pubDate>
+      <title>LLMのトークン効率化で気をつけたいことまとめ</title>
+      <link>https://zenn.dev/ml_bear/articles/e5cc1047cba176</link>
+      <description>!
+この記事は2026年9月時点の情報で書いています。状況はすぐに変化するので適宜調べ直していただけると幸いです。Claude Code や Codex をサブスクで使ってる人は、「コスト」を「利用枠 (リミット) の消費」として読んでいただけるとわかりやすいかと思います
+
+
+ これはなに？
+端的に言うとこの友人に送ったメモを清書したものです。基礎的な内容が多いですが、トークン効率化で気をつけたいことをざっと書いてみました。間違いと思われるところがあれば教えてください🙏
+
+ちなみに Uber の例がよく出てきますが、僕が最近この記事を読んだからです笑。皆様もぜひ。
+
+
+ 記事の構成
+以下... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ml_bear/articles/e5cc1047cba176</guid>
+      <pubDate>Wed, 09 Sep 2026 00:31:26 +0000</pubDate>
     </item>
     <item>
       <title>HTMLを社内共有するサービスを、コードを読まずに作る - 1人で25万行を回す自動運用の記録</title>
@@ -70,11 +71,11 @@ HTMLを社内だけで安全に共有するWebサービス「Artifact Share」�
       <pubDate>Mon, 07 Sep 2026 00:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>AIがデザイナーの仕事を奪う？ — 英国デザインセクターが40%成長を記録した現実と、業界リーダーが語る「社内インターン」論</title>
-      <link>https://techfeed.io/entries/6a9f42e43e0b24377900b618?from=rss</link>
-      <description>9月7日、Inside AI News が「Designers Should Not Fear Being Replaced by AI, Industry Leaders Say」と題した記事を公開した。生成AIの台頭でデザイナーの仕事が奪われるという不安が高まる一方、英国のデザインセクターは2019年から2023年にかけて40%成長を記録し、英国経済全体の成長率23%を大きく上回っている。この反直感的なデータを踏まえ、業界リーダーたちはAIへの恐怖論に正面から反論する。AIはデザイナーの「社内インターン」Design Councilのマット・ハンター最高経営責任者は、AIはデザイナーを代替するのではなく、ジュニアアシスタントとして機能するという見方を示した。一般の不安は根強い。The King's Institute for Artificial Intelligence（キングス・カレッジ・ロンドンが設置するAI研究機関）とPolicy Instituteの共同調査では、国民の57%がAIが大規模な失業を引き起こすと考えている。フリーランスの間では、AIが生成したアウトプットの誤 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6a9f42e43e0b24377900b618?from=rss</guid>
-      <pubDate>Mon, 07 Sep 2026 23:04:04 +0000</pubDate>
+      <title>P&amp;GとMilwaukee ToolのAIエージェント導入事例 — 「成功すると何も起きない」ROI測定の難しさとサプライチェーン自動化の現実</title>
+      <link>https://techfeed.io/entries/6aa095b63e0b243779018e0b?from=rss</link>
+      <description>9月8日、IIoT Worldが「What Can AI Agents Do in Supply Chains?」と題した記事を公開した。この記事では、P&amp;GやMilwaukee ToolによるサプライチェーンへのAIエージェント実装事例と、ROI測定の実態について詳しく紹介されている。IIoT World Manufacturing &amp; Supply Chain Dayのパネルセッションに登壇したP&amp;G需要予測ディレクターのJaimie McIntyre Horstman氏とMilwaukee ToolのOracle導入責任者Srinivasan Narayanan氏の2名が、AIエージェントの実運用事例を語った内容をもとに構成されている。なお、元記事の冒頭では「3名のサプライチェーンリーダー」と紹介されているが、本文で具体的な発言・事例が取り上げられているのは上記2名分であるため、本稿もその範囲にとどめる。P&amp;G：「ドライバーへの電話」をAIが代替冒頭の一文が現場感を端的に示している。10年前、P&amp;Gはトラックの配送状況を把握するために各ドライバーへ電話していた。今はGPS監視とA (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aa095b63e0b243779018e0b?from=rss</guid>
+      <pubDate>Tue, 08 Sep 2026 23:09:42 +0000</pubDate>
     </item>
     <item>
       <title>不具合はCIに刻もう。「Red-Green Stacked PR」のすすめ</title>
@@ -87,6 +88,21 @@ Redの状態そのものを、CIがGreenと判定できる形にしてしまえ�
 なお、この呼び名... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/bmth/articles/red-green-stacked-pr</guid>
       <pubDate>Sun, 06 Sep 2026 16:01:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>モブプロにAIを加えたら人間には疲れる仕事だけが残ったので、AI前提の役割分担を模索している</title>
+      <link>https://zenn.dev/lincwell_inc/articles/fddaae539e6e9c</link>
+      <description>前回の記事ではモブプロ自体の疲れを減らす取り組みについて記載しました。
+今回は、AIを含めたモブプロについて課題に感じていることをまとめます。
+私たちのチーム全体のモブプロ施策は6月末で一区切りとしました。現在はタスクによって個人作業かモブプロかを決めており、頻度は下がりましたがモブプロ自体は行っています。
+しかし、AIを含めたモブプロの課題は今も解決しきれていません。
+前回とは違い、課題を解決していった記録というより、まだ取り組み中の課題を共有する内容となります。
+
+ 前提
+6月末まで実施していた施策で、私が所属していた3人グループでのルールを前提とします。
+私たちはオンラインでモブプ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/lincwell_inc/articles/fddaae539e6e9c</guid>
+      <pubDate>Wed, 09 Sep 2026 00:30:05 +0000</pubDate>
     </item>
     <item>
       <title>B2Bプロダクト設計入門 - 小さなチームでも作れるエンタープライズ対応のSaaS設計</title>
