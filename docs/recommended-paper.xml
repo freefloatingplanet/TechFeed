@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:59:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:56:36 +0000</lastBuildDate>
     <item>
-      <title>NRHJSur3dq8：非偏心同軸スピン連星ブラックホール波形のためのスペクトル数値相対論的代理関数ファミリー</title>
-      <link>https://arxiv.org/abs/2609.09088v1</link>
-      <description>本稿では、作用角パラメータ化に着想を得た、非偏心同スピン連星ブラックホール波形の数値相対論（NR）代理変数群であるNRHJSur3dq8を提示する。このモデルは、ハミルトニアン値、方位角作用$J_φ(Φ)$、位相の関数としての軌道時計$τ(Φ)$といった力学的な情報と、波形、それらの近似解析的微分、およびそれぞれに関連するモデリング誤差といった放射的な情報の両方を提供する。代理変数は、放射反応時間スケールでゆっくりと変化する要素に条件付けられ、共有$hp$適応チェビシェフ要素で表現され、ガウス過程モデルを用いて固有パラメータ全体にわたって回帰される。断熱記述が破綻する箇所には、時間パラメータ化された合体リングダウン要素群が付加される。 NRHJSur3dq8_AA 中心フレーバーの NR に対する Leave-one-out 検証では、インスパイラル-マージ-リングダウンの全範囲にわたって、重み付けなしの不一致が $1.3^{+32}_{-1.2}\times10^{-6}$、全モードの不一致が $2.3^{+59}_{-2.2}\times10^{-6}$ に達します。シミュレーショ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.09088v1</guid>
-      <pubDate>Tue, 08 Sep 2026 17:34:19 +0000</pubDate>
+      <title>Glyph：企業データカタログの列記述と感度オントロジータグ付けのためのマルチ戦略エージェントシステム</title>
+      <link>https://arxiv.org/abs/2609.10430v1</link>
+      <description>エンタープライズデータレイクでは、人間の管理者が文書化や分類を行うよりも速いペースでテーブルが蓄積され、説明が欠落した列やガバナンスラベルが割り当てられていない列が残されます。この文書化の負債は、データ発見、アクセス制御、および規制遵守を損ないます。本稿では、列の説明生成とデータ分類のための列タイプの注釈という、連動する2つの問題を、ステートフルグラフとしてオーケストレーションされる協調型LLMエージェントとして捉える実用システムGlyphを紹介します。記述子は、各列を生成するパイプラインソースコードに基づいて生成を行い、推論実行ツールループ（アクティブ検索拡張生成）を介してエンタープライズGitHubからオンデマンドで取得します。タガーは、3つの補完的な戦略（説明タガー、業務ライン正規表現タガー、およびベクトルデータベース上で微調整された対照エンコーダによってサポートされるメタデータタガー）を並列に実行することにより、管理された275リーフのデータ分類オントロジーからラベルを割り当て、相互ランク融合（RRF）によってそれらのランク付けされた出力を融合します。バッチ内比較目的関数を用い (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.10430v1</guid>
+      <pubDate>Wed, 09 Sep 2026 16:43:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
