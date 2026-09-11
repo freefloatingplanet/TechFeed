@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:56:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:54:35 +0000</lastBuildDate>
     <item>
-      <title>Glyph：企業データカタログの列記述と感度オントロジータグ付けのためのマルチ戦略エージェントシステム</title>
-      <link>https://arxiv.org/abs/2609.10430v1</link>
-      <description>エンタープライズデータレイクでは、人間の管理者が文書化や分類を行うよりも速いペースでテーブルが蓄積され、説明が欠落した列やガバナンスラベルが割り当てられていない列が残されます。この文書化の負債は、データ発見、アクセス制御、および規制遵守を損ないます。本稿では、列の説明生成とデータ分類のための列タイプの注釈という、連動する2つの問題を、ステートフルグラフとしてオーケストレーションされる協調型LLMエージェントとして捉える実用システムGlyphを紹介します。記述子は、各列を生成するパイプラインソースコードに基づいて生成を行い、推論実行ツールループ（アクティブ検索拡張生成）を介してエンタープライズGitHubからオンデマンドで取得します。タガーは、3つの補完的な戦略（説明タガー、業務ライン正規表現タガー、およびベクトルデータベース上で微調整された対照エンコーダによってサポートされるメタデータタガー）を並列に実行することにより、管理された275リーフのデータ分類オントロジーからラベルを割り当て、相互ランク融合（RRF）によってそれらのランク付けされた出力を融合します。バッチ内比較目的関数を用い (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.10430v1</guid>
-      <pubDate>Wed, 09 Sep 2026 16:43:26 +0000</pubDate>
+      <title>階層的位置特定とロボット収穫のためのGLOMAPを用いた温室内の隠れたトマトの検出のためのVisual-SLAM</title>
+      <link>https://arxiv.org/abs/2609.11766v1</link>
+      <description>温室内の高度な作物モニタリングは、研究センターの主要な目標の一つになりつつあります。従来、この目的にはLiDARやステレオカメラなどの高性能センサーが使用されてきましたが、これらはしばしば高価です。本研究では、単眼カメラを使用したVisual-SLAMシステムを提案します。これは、コスト効率が大幅に向上し、温室内のトマト作物のマッピングなど、農業用途に特化しています。Agroconnect実験温室に設置された実際のトマトの房でテストを実施しました。これらの作物の画像をキャプチャするために、ロボット上で動作するROS 2 Humbleノードを開発し、オフライン処理のために保存しました。温室内の作物の3Dマッピングモデルを生成するために、Structure-From-Motionに基づくGLOMAPマッパーをHierarchical Localizationツールボックスに統合しました。この初期マッピングは、成長パターンを分析し、農業管理を最適化するための、将来のより高度なアルゴリズムの基礎となります。このシステムは、粗密戦略に基づく階層的な位置特定パラダイムを活用しています。まず、グロー (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.11766v1</guid>
+      <pubDate>Thu, 10 Sep 2026 16:19:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

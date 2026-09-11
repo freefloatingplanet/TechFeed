@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:56:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:54:13 +0000</lastBuildDate>
+    <item>
+      <title>なぜエージェントハーネスで開発パイプラインを作っているのか</title>
+      <link>https://zenn.dev/xtm_blog/articles/689d035440c0ae</link>
+      <description>クロステック・マネジメントでは docker-agent を使い、エージェントハーネスで開発パイプラインを構築しています。現時点の設計では、プロダクトオーナーやプロダクトマネージャーが要求仕様書を Markdown で記述すると、それを受け取って、要求を満たす Web アプリケーションの Pull Request を生成する、という流れです。
+
+ 何を作っているのか
+私たちが作っているのは docker-agent の外側となるハーネスの部分で、全体像は以下のようになります。
+
+図の中の各工程は、別々のエージェントが非同期に分担するマルチエージェント構成になっています。次の段階へ進めるか... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/xtm_blog/articles/689d035440c0ae</guid>
+      <pubDate>Wed, 09 Sep 2026 23:00:05 +0000</pubDate>
+    </item>
     <item>
       <title>Techはすぐに追ったほうがいい</title>
       <link>https://zenn.dev/myuron/articles/3c09e7e697d9de</link>
@@ -43,6 +55,14 @@ DDD の戦術的パターンを入れてみたが、結局 domain の外側に�
  「戦術的 D... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/tellernovel_inc/articles/0193eb68cabb6e</guid>
       <pubDate>Mon, 07 Sep 2026 03:03:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIの「できる・できない」を、ベンチマークではなく326の仕事で数えた</title>
+      <link>https://qiita.com/kernel_yu/items/1c7447e935a2ca2d718d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>AIの能力は、毎月スコアが更新されます。SWE-bench、Humanity's Last Exam、ARC-AGI、OSWorld。数字は伸び続けています。
+でも、そのスコアを見て「じゃあ自分の契約書レビューは任せられるのか」に答えられた人を、私は見たことがありません。測... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/kernel_yu/items/1c7447e935a2ca2d718d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 10 Sep 2026 13:09:43 +0000</pubDate>
     </item>
     <item>
       <title>Agent Skillは振る舞いとナレッジを分けて設計する</title>
@@ -81,25 +101,18 @@ DDD の戦術的パターンを入れてみたが、結局 domain の外側に�
       <pubDate>Wed, 09 Sep 2026 00:31:26 +0000</pubDate>
     </item>
     <item>
-      <title>LLMの「なぜそうなったか」を訓練データまで遡って特定する — GoodfireとAi2のオープンスタックが可能にしたデバッグ手法</title>
-      <link>https://techfeed.io/entries/6aa1e8053e0b243779026e05?from=rss</link>
-      <description>9月9日、Ai2が「How Goodfire used Ai2's open post-training stack to trace unwanted model behavior」と題した記事を公開した。「キャラクターの放屁で周囲の魚が死ぬ」というファンフィクションを、プリファレンストレーニング後のモデルがより積極的に生成するようになっていた——誰も監視しようとすら考えていなかったこの振る舞いの変化を、GoodfireとAi2の共同研究は訓練データの個別ペアにまで遡って検出・特定してみせた。これは「モデル出力がおかしい」と気づいてから原因を探る従来のデバッグとは根本的に異なるアプローチだ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6aa1e8053e0b243779026e05?from=rss</guid>
-      <pubDate>Wed, 09 Sep 2026 23:13:09 +0000</pubDate>
+      <title>「Ctrl+cするな！パソコンがバグる！だから右クリックからコピーを選んでコピペしろ！」という完全に狂っている上司の前で、無言でCtrl+cし続けたら退散した</title>
+      <link>https://togetter.com/li/2744037</link>
+      <description>豊田さこつ @abaransyu 弊社、常識では考えられないこと(teamsは使うなメモは紙にかけ、iPadは使うなデジカメで写真を撮れ、メールの転送機能を知らないのでパソコンのメール画面をスマホで写真撮影して共有させる)をする上司がウヨウヨいて、その度にふざけて言ってるのかと思って「それは流石に面白いw」的な反応して... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2744037</guid>
+      <pubDate>Thu, 10 Sep 2026 17:19:06 +0000</pubDate>
     </item>
     <item>
-      <title>AnthropicがClaudeに「見えない透かし」を導入 — AIテキストの単語選択確率を操作する技術は品質を犠牲にするか</title>
-      <link>https://techfeed.io/entries/6aa1e81b3e0b243779026e25?from=rss</link>
-      <description>9月9日、IEEE Spectrumが「AI Text Watermarks Will Rewrite Models' Language」と題した記事を公開した。Anthropicが8月にClaudeへの透かし導入を発表し、EUのAI法による義務化が迫るなか、AIテキスト透かし技術への注目が急速に高まっている。技術的には「品質に影響しない」と主張する研究者がいる一方、Markdownの考案者として知られるJohn Gruberはこれを「文章表現の歪曲」と強く批判しており、その実態と限界を詳しく解説した記事だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6aa1e81b3e0b243779026e25?from=rss</guid>
-      <pubDate>Wed, 09 Sep 2026 23:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>SunoがWarner Music GroupおよびBMGとのライセンス契約のもとv6をリリース — 著作権訴訟から協調へ、AI音楽は「ライセンス型モデル」に移行できるか</title>
-      <link>https://techfeed.io/entries/6aa1e7ed3e0b243779026de0?from=rss</link>
-      <description>9月10日、The Newsが「Suno launches v6 AI music models developed in partnership with Warner music group and BMG」と題した記事を公開した。AI音楽生成プラットフォームのSunoが、大手音楽レーベルとのライセンス契約を締結したうえで新モデル「v6」をグローバルリリースした。著作権訴訟によって「無断学習」問題が業界全体に問われてきたAI音楽の世界で、今回の動きは訴訟・対立から契約・協調へという構造転換の最初の具体例として注目を集めている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6aa1e7ed3e0b243779026de0?from=rss</guid>
-      <pubDate>Wed, 09 Sep 2026 23:12:45 +0000</pubDate>
+      <title>OpenAI、最先端AI開発の減速を検討か　アルトマンCEOが社員に説明と米報道</title>
+      <link>https://www.itmedia.co.jp/news/article/2609/11/2000001418/</link>
+      <description>米OpenAIが最先端AIの開発ペースを緩めることを検討していると、米Bloombergが9月11日に報じた。事情に詳しい関係者の話として、同社のサム・アルトマンCEOが今週の全社会議で、開発ペースを調整する可能性を従業員に説明したと伝えている。 報道によると、アルトマン氏はペース調整について、複数のAI研究機関と足並み... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/11/2000001418/</guid>
+      <pubDate>Fri, 11 Sep 2026 07:06:38 +0000</pubDate>
     </item>
     <item>
       <title>HTMLを社内共有するサービスを、コードを読まずに作る - 1人で25万行を回す自動運用の記録</title>
@@ -113,23 +126,13 @@ HTMLを社内だけで安全に共有するWebサービス「Artifact Share」�
       <pubDate>Mon, 07 Sep 2026 00:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>不具合はCIに刻もう。「Red-Green Stacked PR」のすすめ</title>
-      <link>https://zenn.dev/bmth/articles/red-green-stacked-pr</link>
-      <description>不具合修正のPRをレビューしていて、「この追加されたテストは、修正前のコードで本当に落ちていたのだろうか」と手が止まったことはありませんか？
-CIがGreenになれば、修正後の状態でテストが通っていることは分かりますが、そのテストが修正前に落ちていたかどうかまでは、すぐにはわかりません。
-実は、これを簡単に確かめる方法があります。
-Redの状態そのものを、CIがGreenと判定できる形にしてしまえばよいのです。
-この記事では、gh stackの登場で行いやすくなった、落ちるテストをCIに刻む手法、 「Red-Green Stacked PR」 について紹介していきます。
-なお、この呼び名... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/bmth/articles/red-green-stacked-pr</guid>
-      <pubDate>Sun, 06 Sep 2026 16:01:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>GoogleのAIエージェント「Gemini Spark」、EUでは同じ料金を払っても使えない — DMA合意との矛盾も浮上</title>
-      <link>https://techfeed.io/entries/6aa1e7e23e0b243779026dd3?from=rss</link>
-      <description>9月10日、The Next Webが「Google adds three features to its AI plans, and keeps a fourth for Americans」と題した記事を公開した。Googleは秋のアップデートとしてGeminiサブスクリプションに3つの新機能を追加したが、今回の発表で改めて浮き彫りになったのは「加わったもの」ではなく「依然として欠けているもの」だ。エージェント機能「Gemini Spark」がEU・英国で引き続き利用できない事実が確認され、しかもGoogleはその理由を一切説明していない。さらに、GoogleがDMA（デジタル市場法）に基づき欧州委員会と交わした合意内容と、この除外措置が論理的に矛盾するという問題まで浮上している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6aa1e7e23e0b243779026dd3?from=rss</guid>
-      <pubDate>Wed, 09 Sep 2026 23:12:34 +0000</pubDate>
+      <title>P値は帰無仮説が誤っている確率ではない</title>
+      <link>https://zenn.dev/hiroki_honma/articles/3230273f197d86</link>
+      <description>この記事は、私が X に書いた次の投稿を出発点にしています。投稿では言葉で説明したことを、この記事では数式と実験で確かめます。まず、その投稿(元の投稿へのリンク)を全文再掲します。
+
+P値が小さいことと、帰無仮説が誤っている確率が高いことは、別の話です。この二つを同一視する誤解は、t検定を含む統計的仮説検定全体で最も繰り返されている誤解だと思います。P値が測っているのは、帰無仮説が正しいという前提のもとで、実際に観測されたデータ以上に極端な結果が出る確率であって、帰無仮説そのものが正しいか誤っているかの確率ではありません。この違いを飲み込めていないと、統計的に有意という言葉の意味を、実際... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hiroki_honma/articles/3230273f197d86</guid>
+      <pubDate>Thu, 10 Sep 2026 13:05:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
