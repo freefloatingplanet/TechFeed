@@ -7,7 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:54:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:21:26 +0000</lastBuildDate>
+    <item>
+      <title>メモリに載らないGROUP BYをDuckDBはどう処理するのか</title>
+      <link>https://zenn.dev/loglass/articles/7c140c6689d8c2</link>
+      <description>!
+この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の160週目の記事です！4年連続達成まであと52週となりました！
+
+ログラスの龍島(@hryushm)です。先日スイカを一玉いただく機会があったのですが、とても大きいので一度に全部は食べきれず、切り分けて冷蔵庫に入れて数日かけて食べました。ということで今日はメモリに載りきらないデータの処理方法の話です。
+
+ はじめに
+先日、DuckDBの開発元であるDuckLabsがAWSに加わることが発表されました[1]。そのDuckDBは、メモリより大きなデータを扱うのが得意だと言われます。公式ドキュメン... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/loglass/articles/7c140c6689d8c2</guid>
+      <pubDate>Thu, 10 Sep 2026 01:42:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>カリフォルニア州が「AIを審査する機関」と「その審査機関を管理する仕組み」を同時に法制化 — 連邦政府が動かない中、州主導のAI規制が加速</title>
+      <link>https://techfeed.io/entries/6aa48b933e0b243779040da6?from=rss</link>
+      <description>9月12日、Sophia Fox-Sowellが「Newsom signs legislation establishing framework for third party AI auditors」と題した記事を公開した。連邦レベルのAI規制が停滞する中、カリフォルニア州知事がAIシステムを独立監査する第三者機関の枠組みを定める2本の法律に同日署名した。「誰がAIを審査するか」と「その審査者をどう管理するか」という制度インフラを一度に整備するこの動きは、州主導AI規制の新たな到達点として注目に値する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aa48b933e0b243779040da6?from=rss</guid>
+      <pubDate>Fri, 11 Sep 2026 23:15:31 +0000</pubDate>
+    </item>
     <item>
       <title>なぜエージェントハーネスで開発パイプラインを作っているのか</title>
       <link>https://zenn.dev/xtm_blog/articles/689d035440c0ae</link>
@@ -19,22 +39,6 @@
 図の中の各工程は、別々のエージェントが非同期に分担するマルチエージェント構成になっています。次の段階へ進めるか... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/xtm_blog/articles/689d035440c0ae</guid>
       <pubDate>Wed, 09 Sep 2026 23:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Techはすぐに追ったほうがいい</title>
-      <link>https://zenn.dev/myuron/articles/3c09e7e697d9de</link>
-      <description>はじめに
-このブログはTechに関する思想です。
-興味があれば続きを覗いてみてください。
-
- Techって面白い
-私はターミナルが好きだ。テキストエディタも好きだ。特にNeovimが好きだ。
-私はインフラエンジニアなので、Vimは日常的に使っていたが、普通に使いづらいと思っていたし、矢印キーを多用していたのでVimmerなんて名乗っていい者ではなかった。
-だが、ハッカーはVimやEmacsを愛用してるため、Vimには何回か本当の意味で挑戦したが挫折していた。
-そもそもVimPluginという概念を知らず、これでどうやってVSCodeみたいに開発するんやと思ってた。
-私が本格的にのめり... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/myuron/articles/3c09e7e697d9de</guid>
-      <pubDate>Tue, 08 Sep 2026 01:43:14 +0000</pubDate>
     </item>
     <item>
       <title>ドメインモデル貧血症はなぜ生まれるのか — Decision パターンで DDD トリレンマを解く</title>
@@ -57,14 +61,6 @@ DDD の戦術的パターンを入れてみたが、結局 domain の外側に�
       <pubDate>Mon, 07 Sep 2026 03:03:17 +0000</pubDate>
     </item>
     <item>
-      <title>AIの「できる・できない」を、ベンチマークではなく326の仕事で数えた</title>
-      <link>https://qiita.com/kernel_yu/items/1c7447e935a2ca2d718d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>AIの能力は、毎月スコアが更新されます。SWE-bench、Humanity's Last Exam、ARC-AGI、OSWorld。数字は伸び続けています。
-でも、そのスコアを見て「じゃあ自分の契約書レビューは任せられるのか」に答えられた人を、私は見たことがありません。測... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/kernel_yu/items/1c7447e935a2ca2d718d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 10 Sep 2026 13:09:43 +0000</pubDate>
-    </item>
-    <item>
       <title>Agent Skillは振る舞いとナレッジを分けて設計する</title>
       <link>https://zenn.dev/socialplus/articles/f5d9e28470eb99</link>
       <description>どうもこんにちは、たくびーです。
@@ -81,6 +77,13 @@ DDD の戦術的パターンを入れてみたが、結局 domain の外側に�
 スキルを書くときは振る舞いとナレッジを分ける... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/socialplus/articles/f5d9e28470eb99</guid>
       <pubDate>Wed, 09 Sep 2026 10:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenTelemetry eBPF Instrumentationの舞台裏</title>
+      <link>https://zenn.dev/ymotongpoo/books/go-ebpf-primer</link>
+      <description>Go Conference 2026の登壇「OpenTelemetry eBPF Instrumentationの舞台裏」の解説資料です。eBPFによるゼロコード計装は「言語を問わず動く」と語られますが、Goバイナリへの関数レベルの計装は他言語にない4つの難所を抱えています。なぜ難しいのかを、CPUとメモリの仕組みという初歩から積み上げて、OBIの実装コードまで手元で確かめながら読める構成にしました。 (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ymotongpoo/books/go-ebpf-primer</guid>
+      <pubDate>Fri, 11 Sep 2026 02:01:34 +0000</pubDate>
     </item>
     <item>
       <title>LLMのトークン効率化で気をつけたいことまとめ</title>
@@ -101,18 +104,14 @@ DDD の戦術的パターンを入れてみたが、結局 domain の外側に�
       <pubDate>Wed, 09 Sep 2026 00:31:26 +0000</pubDate>
     </item>
     <item>
-      <title>「Ctrl+cするな！パソコンがバグる！だから右クリックからコピーを選んでコピペしろ！」という完全に狂っている上司の前で、無言でCtrl+cし続けたら退散した</title>
-      <link>https://togetter.com/li/2744037</link>
-      <description>豊田さこつ @abaransyu 弊社、常識では考えられないこと(teamsは使うなメモは紙にかけ、iPadは使うなデジカメで写真を撮れ、メールの転送機能を知らないのでパソコンのメール画面をスマホで写真撮影して共有させる)をする上司がウヨウヨいて、その度にふざけて言ってるのかと思って「それは流石に面白いw」的な反応して... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2744037</guid>
-      <pubDate>Thu, 10 Sep 2026 17:19:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI、最先端AI開発の減速を検討か　アルトマンCEOが社員に説明と米報道</title>
-      <link>https://www.itmedia.co.jp/news/article/2609/11/2000001418/</link>
-      <description>米OpenAIが最先端AIの開発ペースを緩めることを検討していると、米Bloombergが9月11日に報じた。事情に詳しい関係者の話として、同社のサム・アルトマンCEOが今週の全社会議で、開発ペースを調整する可能性を従業員に説明したと伝えている。 報道によると、アルトマン氏はペース調整について、複数のAI研究機関と足並み... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/11/2000001418/</guid>
-      <pubDate>Fri, 11 Sep 2026 07:06:38 +0000</pubDate>
+      <title>単体テストの実行時間を6割程度削減してみた</title>
+      <link>https://zenn.dev/dress_code/articles/5dd5de5020d9ef</link>
+      <description>はじめに
+こんにちは、Dress Code 株式会社でプロダクトエンジニアをやっている津田です。
+AI が実装の大半を担ってからずいぶんと経ち、単体テストによってある程度の動作の保証をしてくれるようになった一方で、いつの間にか単体テストの実行時間が伸びていました。CI環境で50件計測し、p90 で 16分14秒 にもなっていました。これには GitHub Actions の setup 等も含め、ですが、単体テストの実行時間だけでも14分30秒かかっていました。
+CIに時間がかかると、そのまま開発体験の悪さにも直結します。軽微な不具合修正であったとしてもリードタイムとしてその程度以上... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/5dd5de5020d9ef</guid>
+      <pubDate>Fri, 11 Sep 2026 02:30:05 +0000</pubDate>
     </item>
     <item>
       <title>HTMLを社内共有するサービスを、コードを読まずに作る - 1人で25万行を回す自動運用の記録</title>
@@ -126,13 +125,11 @@ HTMLを社内だけで安全に共有するWebサービス「Artifact Share」�
       <pubDate>Mon, 07 Sep 2026 00:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>P値は帰無仮説が誤っている確率ではない</title>
-      <link>https://zenn.dev/hiroki_honma/articles/3230273f197d86</link>
-      <description>この記事は、私が X に書いた次の投稿を出発点にしています。投稿では言葉で説明したことを、この記事では数式と実験で確かめます。まず、その投稿(元の投稿へのリンク)を全文再掲します。
-
-P値が小さいことと、帰無仮説が誤っている確率が高いことは、別の話です。この二つを同一視する誤解は、t検定を含む統計的仮説検定全体で最も繰り返されている誤解だと思います。P値が測っているのは、帰無仮説が正しいという前提のもとで、実際に観測されたデータ以上に極端な結果が出る確率であって、帰無仮説そのものが正しいか誤っているかの確率ではありません。この違いを飲み込めていないと、統計的に有意という言葉の意味を、実際... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hiroki_honma/articles/3230273f197d86</guid>
-      <pubDate>Thu, 10 Sep 2026 13:05:04 +0000</pubDate>
+      <title>SageMakerの新ルーティング機能でLLM初回応答を最大77%高速化 — 複数サーバーに分散してもKVキャッシュを無駄にしない仕組み</title>
+      <link>https://techfeed.io/entries/6aa48b0a3e0b243779040d78?from=rss</link>
+      <description>9月11日、AWSが「Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference」と題した記事を公開した。この記事では、Amazon SageMaker InferenceにおけるKVキャッシュを効果的に活用するプレフィックス対応ルーティング機能と、それによるLLM推論レイテンシの大幅削減について詳しく紹介されている。マルチインスタンス環境でKVキャッシュが効かない問題LLMを使ったアプリケーションでは、プロンプトの冒頭に固定のシステム指示やドキュメントを置き、末尾にユーザー入力を続けるパターンが一般的だ。カスタマーサポートボットであれば、「あなたはAnyCompanyのサポートエージェントです。以下がポリシーです…」という3,000トークンの固定部分に、ユーザーの50トークン程度の質問が続く。vLLMやTensorRT-LLMといったLLMサービングフレームワークは、この問題に対してプレフィックスキャッシュ（prefix caching）を実装している。一度処理したプロンプトの冒頭部分のKV（K (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aa48b0a3e0b243779040d78?from=rss</guid>
+      <pubDate>Fri, 11 Sep 2026 23:13:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

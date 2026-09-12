@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:54:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:21:30 +0000</lastBuildDate>
+    <item>
+      <title>NASAのドローン型タイタン探査機「ドラゴンフライ」配線作業実施　着陸予定地の名前も紹介</title>
+      <link>https://sorae.info/space/20260907-dragonfly.html</link>
+      <description>NASA（アメリカ航空宇宙局）は2026年9月2日付で、土星の衛星タイタンを探査する「Dragonfly（ドラゴンフライ）」ミッションの探査機組み立て状況とともに、着陸予定地の砂丘地帯に付けられた名前を紹介しています。 … (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260907-dragonfly.html</guid>
+      <pubDate>Mon, 07 Sep 2026 02:36:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>火星の硫黄結晶の発見がScience誌表紙を飾る　火星の局所的な環境を示す重要な手がかり</title>
+      <link>https://sorae.info/astronomy/20260906-mars-sulfur-deposit.html</link>
+      <description>偶然が思わぬ発見をもたらすことはありますが、今回お話する内容はその最たる例かもしれません。2024年6月、NASA（アメリカ航空宇宙局）の火星探査車「キュリオシティ（Curiosity）」の運用チームは、淡い色をした岩が… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260906-mars-sulfur-deposit.html</guid>
+      <pubDate>Sun, 06 Sep 2026 12:25:42 +0000</pubDate>
+    </item>
     <item>
       <title>星空や景色に情報を重ねて表示！　ユニステラがAR搭載スマート双眼鏡「ENVISION」の国内予約を開始</title>
       <link>https://sorae.info/news/20260906-unistellar-envision.html</link>
@@ -63,20 +77,6 @@
       <description>恒星が超新星爆発を起こすと、周囲の宇宙空間には大量の物質がまき散らされます。ハワイ大学マノア校のEmily Costello氏を筆頭とする研究チームは、その痕跡を月のレゴリス（月面を覆う砂状の堆積物）から読み解くための新… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260907-cosmic-time-capsule-lunar-soil.html</guid>
       <pubDate>Mon, 07 Sep 2026 11:44:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>英国王立造幣局が「スター・トレック」60周年記念硬貨を発表　バルカン・サリュートと歴代4隻の宇宙船</title>
-      <link>https://sorae.info/news/20260905-star-trek-coin.html</link>
-      <description>英国王立造幣局（ロイヤルミント）は、SFシリーズ「スター・トレック」の放送60周年を記念した、収集家向けの50ペンス硬貨を発行すると発表しました。ロイヤルミントがスター・トレックを題材にしたコインを手がけるのは今回が初め… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/news/20260905-star-trek-coin.html</guid>
-      <pubDate>Sat, 05 Sep 2026 07:18:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>暗黒物質の “兆候” を捉えた可能性　国際研究「LZ実験」が興味深い信号の観測を発表</title>
-      <link>https://sorae.info/astronomy/20260904-lz-experiment.html</link>
-      <description>私たちの宇宙には、目には見えないものの、重力によってその存在を知ることができる「暗黒物質（ダークマター）」があると言われています。暗黒物質が存在するかどうか、あるとすればそれはどんなものでできているのかは、物理学の歴史の… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260904-lz-experiment.html</guid>
-      <pubDate>Fri, 04 Sep 2026 12:00:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:54:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:21:34 +0000</lastBuildDate>
     <item>
-      <title>HashiCorp Packer 1.16で、マシンイメージのネイティブSLSAプロベナンス生成および検証機能が追加されました。</title>
-      <link>https://www.infoq.com/news/2026/09/hashicorp-packer-verification/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>HashiCorpはPacker v1.16.0をリリースし、ツールが構築するすべてのイメージに対してSLSAプロベナンス証明書を生成、署名、検証するネイティブサポートを追加しました。このリリースにより、チームはマシンイメージがどのように作成されたかの安全で改ざん不可能な記録を取得できます。しかも、追加のサプライチェーンツールは必要ありません。執筆：Claudio Masolo (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/09/hashicorp-packer-verification/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 08 Sep 2026 14:00:00 +0000</pubDate>
+      <title>tsgolintが安定版v7に到達、Go言語で構築された型認識型リンティング機能をOxlintに導入</title>
+      <link>https://www.infoq.com/news/2026/09/tsgolint-oxlint-typescript/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>tsgolintは、ネイティブGoの速度でTypeScriptのリンティングを強化した安定版v7をリリースしました。型認識型リンティングを提供し、typescript-goコンパイラを介したTypeScriptのセマンティック解析を活用しています。Oxlintは設定とファイル検出を管理します。TypeScript 7.0.2と互換性のあるこのリリースは、61個の型認識ルールのうち59個を処理し、ESLintと比較して大幅なパフォーマンス向上を実現しています。執筆：Daniel Curtis (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/09/tsgolint-oxlint-typescript/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 11 Sep 2026 12:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
