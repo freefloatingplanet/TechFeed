@@ -7,13 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:21:32 +0000</lastBuildDate>
-    <item>
-      <title>階層的位置特定とロボット収穫のためのGLOMAPを用いた温室内の隠れたトマトの検出のためのVisual-SLAM</title>
-      <link>https://arxiv.org/abs/2609.11766v1</link>
-      <description>温室内の高度な作物モニタリングは、研究センターの主要な目標の一つになりつつあります。従来、この目的にはLiDARやステレオカメラなどの高性能センサーが使用されてきましたが、これらはしばしば高価です。本研究では、単眼カメラを使用したVisual-SLAMシステムを提案します。これは、コスト効率が大幅に向上し、温室内のトマト作物のマッピングなど、農業用途に特化しています。Agroconnect実験温室に設置された実際のトマトの房でテストを実施しました。これらの作物の画像をキャプチャするために、ロボット上で動作するROS 2 Humbleノードを開発し、オフライン処理のために保存しました。温室内の作物の3Dマッピングモデルを生成するために、Structure-From-Motionに基づくGLOMAPマッパーをHierarchical Localizationツールボックスに統合しました。この初期マッピングは、成長パターンを分析し、農業管理を最適化するための、将来のより高度なアルゴリズムの基礎となります。このシステムは、粗密戦略に基づく階層的な位置特定パラダイムを活用しています。まず、グロー (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.11766v1</guid>
-      <pubDate>Thu, 10 Sep 2026 16:19:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 13 Sep 2026 11:22:47 +0000</lastBuildDate>
   </channel>
 </rss>
