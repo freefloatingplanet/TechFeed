@@ -7,36 +7,57 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 11:22:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:14:50 +0000</lastBuildDate>
     <item>
-      <title>AI駆動開発のためのオントロジー - Qiita</title>
-      <link>https://qiita.com/Syoitu/items/d41d234876e1bfadbf32</link>
-      <description>前書き 最近、AIエージェント関連の文脈でオントロジーという言葉をよく見かけるようになりました。元々は哲学の 「存在論」 ですが、現在では AIエージェントが理解・共有できる形式の設計図 として解釈されることが多いです。 この記事では、オントロジーとは何か、なぜ必要なのか、そしてオントロジーを構築する方法... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://qiita.com/Syoitu/items/d41d234876e1bfadbf32</guid>
-      <pubDate>Tue, 08 Sep 2026 01:34:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Techはすぐに追ったほうがいい</title>
-      <link>https://zenn.dev/myuron/articles/3c09e7e697d9de</link>
-      <description>はじめに
-このブログはTechに関する思想です。
-興味があれば続きを覗いてみてください。
+      <title>メモリに載らないGROUP BYをDuckDBはどう処理するのか</title>
+      <link>https://zenn.dev/loglass/articles/7c140c6689d8c2</link>
+      <description>!
+この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の160週目の記事です！4年連続達成まであと52週となりました！
 
- Techって面白い
-私はターミナルが好きだ。テキストエディタも好きだ。特にNeovimが好きだ。
-私はインフラエンジニアなので、Vimは日常的に使っていたが、普通に使いづらいと思っていたし、矢印キーを多用していたのでVimmerなんて名乗っていい者ではなかった。
-だが、ハッカーはVimやEmacsを愛用してるため、Vimには何回か本当の意味で挑戦したが挫折していた。
-そもそもVimPluginという概念を知らず、これでどうやってVSCodeみたいに開発するんやと思ってた。
-私が本格的にのめり... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/myuron/articles/3c09e7e697d9de</guid>
-      <pubDate>Tue, 08 Sep 2026 01:43:14 +0000</pubDate>
+ログラスの龍島(@hryushm)です。先日スイカを一玉いただく機会があったのですが、とても大きいので一度に全部は食べきれず、切り分けて冷蔵庫に入れて数日かけて食べました。ということで今日はメモリに載りきらないデータの処理方法の話です。
+
+ はじめに
+先日、DuckDBの開発元であるDuckLabsがAWSに加わることが発表されました[1]。そのDuckDBは、メモリより大きなデータを扱うのが得意だと言われます。公式ドキュメン... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/loglass/articles/7c140c6689d8c2</guid>
+      <pubDate>Thu, 10 Sep 2026 01:42:07 +0000</pubDate>
     </item>
     <item>
-      <title>AIのカーボンコストを「誰かのデータセンターの話」で済ませるな — CIOが炭素をトークン数・API呼び出しと同列に管理すべき理由</title>
-      <link>https://techfeed.io/entries/6aa5db123e0b243779047fef?from=rss</link>
-      <description>9月11日、TechTargetが「CIOs need to start accounting for AI carbon footprint」と題した記事を公開した。記事の核心は二点だ。AIのカーボンフットプリントはCIOが正式に計測・報告する責務を負うべき経営課題であること、そして炭素は今すぐトークン数・API呼び出し数・費用と並ぶ「見えるコスト単位」として管理されるべきだということだ。「外部のデータセンターで動いているから自社の問題ではない」という逃げ道は、もはや機能しない。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6aa5db123e0b243779047fef?from=rss</guid>
-      <pubDate>Sat, 12 Sep 2026 23:06:58 +0000</pubDate>
+      <title>AIが設計した肺疾患治療薬で「血液の生物学的推定年齢が約3歳若返り」— 独立した6種類の老化クロックがすべて同方向の変化を検出</title>
+      <link>https://techfeed.io/entries/6aa72a8b3e0b24377904f10e?from=rss</link>
+      <description>9月12日、ScienceAlertが「AI-Designed Drug Makes Patients' Blood Look Biologically Younger, Study Shows」と題した記事を公開した。AIを活用して設計された薬剤「レントサーティブ（rentosertib）」が、肺疾患患者の血液の生物学的推定年齢を2.71〜3.46年低下させたとする臨床研究だ。とりわけ注目すべきは、異なる設計思想を持つ独立した6種類の老化クロックがすべて同じ方向の変化を示したという点で、単一モデルへの依存によるバイアスを排除した点が研究の強みとなっている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aa72a8b3e0b24377904f10e?from=rss</guid>
+      <pubDate>Sun, 13 Sep 2026 22:58:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>重みは学習するのか、測るのか。ハエの脳が問い直すAIのつくり方</title>
+      <link>https://zenn.dev/1amageek/articles/fly-connectome-and-ai</link>
+      <description>こんにちは、村本です。
+2026年9月3日、ふたつの発表が同じ日に重なりました。ひとつはOpenAIのGPT-6 Astraです。システムカードでは、これまで広く提供した中で最も高性能なモデルと位置づけられています。もうひとつは、HHMI Janeliaを中心に、ケンブリッジ大学、MRC LMB、Google Researchなどが参加したチームによる、**オスのショウジョウバエの中枢神経系全体の配線図（MaleCNS）**の発表です。論文はCell誌に掲載されました。
+その数日後、公開されたばかりの配線図を使い、ハエの脳のシミュレーションで『DOOM』や『スーパーマリオ64』を動かすデ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/1amageek/articles/fly-connectome-and-ai</guid>
+      <pubDate>Sun, 13 Sep 2026 03:19:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Go Conference 2026 参加記</title>
+      <link>https://zenn.dev/yingtian/articles/0e2ad1f97727ba</link>
+      <description>はじめに
+2026年9月11日に中野セントラルパークカンファレンスで開催された、Go Conference 2026に参加しました。
+Go Conferenceへの参加は、今回が初めてでした。
+僕は会場から遠方に住んでいるのですが、学生支援制度に採択していただき、参加にかかる費用をご支援いただきました。こうして参加の機会を支えていただけてとても感謝しています。
+今回は、参加したワークショップを中心に、印象に残ったセッションについても振り返ります。
+参加したワークショップは次の二つです
+
+Go × SIMDで高速化するベクトル検索
+こだわりを静的解析で表現しよう 90分で作って動かす自... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yingtian/articles/0e2ad1f97727ba</guid>
+      <pubDate>Sun, 13 Sep 2026 16:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>流体力学の未解決問題「有限時間爆発」に迫る — PINNで特異点プロファイルを構築し、LLMと区間演算で安定性証明を形式化</title>
+      <link>https://techfeed.io/entries/6aa72a9f3e0b24377904f12f?from=rss</link>
+      <description>9月10日、Terry Taoのブログに、Anima Anandkumarらが「Stable singularity of the Euler equations on R^3」と題した記事をゲスト投稿として公開した。この記事では、物理情報ニューラルネットワーク（PINN）を用いて3次元オイラー方程式の自己相似特異点プロファイルを初めて構築し、その安定性を厳密に証明したという研究成果について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aa72a9f3e0b24377904f12f?from=rss</guid>
+      <pubDate>Sun, 13 Sep 2026 22:58:39 +0000</pubDate>
     </item>
     <item>
       <title>Agent Skillは振る舞いとナレッジを分けて設計する</title>
@@ -57,18 +78,21 @@
       <pubDate>Wed, 09 Sep 2026 10:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>iPhone Duo、36万円超でも需要絶好調？700万台出荷でiPhoneを牽引か - iPhone Mania</title>
-      <link>https://iphone-mania.jp/iphone18-605873/</link>
-      <description>iPhone Duoは、日本では36万円を超える高価格モデルですが、市場予想レンジの下限をわずかに下回る価格設定となっています。GF Securitiesのアナリスト、ジェフ・プー氏は、消費者の強い関心を背景に、iPhone Duoが2026年後半のiPhone出荷を牽引するとの見方を示しています。 iPhone18 Proの値上げ幅は予想よりも小規模 ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://iphone-mania.jp/iphone18-605873/</guid>
-      <pubDate>Sun, 13 Sep 2026 05:23:07 +0000</pubDate>
-    </item>
-    <item>
       <title>OpenTelemetry eBPF Instrumentationの舞台裏</title>
       <link>https://zenn.dev/ymotongpoo/books/go-ebpf-primer</link>
       <description>Go Conference 2026の登壇「OpenTelemetry eBPF Instrumentationの舞台裏」の解説資料です。eBPFによるゼロコード計装は「言語を問わず動く」と語られますが、Goバイナリへの関数レベルの計装は他言語にない4つの難所を抱えています。なぜ難しいのかを、CPUとメモリの仕組みという初歩から積み上げて、OBIの実装コードまで手元で確かめながら読める構成にしました。 (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/ymotongpoo/books/go-ebpf-primer</guid>
       <pubDate>Fri, 11 Sep 2026 02:01:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>単体テストの実行時間を6割程度削減してみた</title>
+      <link>https://zenn.dev/dress_code/articles/5dd5de5020d9ef</link>
+      <description>はじめに
+こんにちは、Dress Code 株式会社でプロダクトエンジニアをやっている津田です。
+AI が実装の大半を担ってからずいぶんと経ち、単体テストによってある程度の動作の保証をしてくれるようになった一方で、いつの間にか単体テストの実行時間が伸びていました。CI環境で50件計測し、p90 で 16分14秒 にもなっていました。これには GitHub Actions の setup 等も含め、ですが、単体テストの実行時間だけでも14分30秒かかっていました。
+CIに時間がかかると、そのまま開発体験の悪さにも直結します。軽微な不具合修正であったとしてもリードタイムとしてその程度以上... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/5dd5de5020d9ef</guid>
+      <pubDate>Fri, 11 Sep 2026 02:30:05 +0000</pubDate>
     </item>
     <item>
       <title>LLMのトークン効率化で気をつけたいことまとめ</title>
@@ -89,28 +113,11 @@
       <pubDate>Wed, 09 Sep 2026 00:31:26 +0000</pubDate>
     </item>
     <item>
-      <title>単体テストの実行時間を6割程度削減してみた</title>
-      <link>https://zenn.dev/dress_code/articles/5dd5de5020d9ef</link>
-      <description>はじめに
-こんにちは、Dress Code 株式会社でプロダクトエンジニアをやっている津田です。
-AI が実装の大半を担ってからずいぶんと経ち、単体テストによってある程度の動作の保証をしてくれるようになった一方で、いつの間にか単体テストの実行時間が伸びていました。CI環境で50件計測し、p90 で 16分14秒 にもなっていました。これには GitHub Actions の setup 等も含め、ですが、単体テストの実行時間だけでも14分30秒かかっていました。
-CIに時間がかかると、そのまま開発体験の悪さにも直結します。軽微な不具合修正であったとしてもリードタイムとしてその程度以上... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/5dd5de5020d9ef</guid>
-      <pubDate>Fri, 11 Sep 2026 02:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントは「一度限りの例外」を「ポリシー」と誤解する — 業務履歴の危険な再利用を防ぐ設計とは</title>
-      <link>https://techfeed.io/entries/6aa5db6a3e0b243779048040?from=rss</link>
-      <description>9月12日、Techstrong AIが「Your AI Agent Is Turning Exceptions Into Policy」と題した記事を公開した。この記事では、AIエージェントが過去の例外対応を誤ってポリシーとして解釈・適用してしまうリスクと、その設計上の対策について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6aa5db6a3e0b243779048040?from=rss</guid>
-      <pubDate>Sat, 12 Sep 2026 23:08:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>MetaがFacebook・Instagramの写真をAI学習と顔認証に無断使用したとして集団訴訟——「存在しない」と言い張った顔認識機能が訴状の核心に</title>
-      <link>https://techfeed.io/entries/6aa5db413e0b24377904801b?from=rss</link>
-      <description>9月12日、Wiredが「Meta Sued Over Training Data for Its AI and Face-Recognition Systems」と題した記事を公開した。MetaがFacebookおよびInstagramの写真をAI学習・顔認証システムの構築に無断で利用したとして集団訴訟を提起されたという内容で、焦点となるのは「消費者向けには存在しない」とMetaが説明してきた顔認識機能「NameTag」だ。同社CTOが別の場で「素晴らしいフィーチャーになると思う」と語っていたことも明らかになっており、その矛盾が訴訟の核心をなしている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6aa5db413e0b24377904801b?from=rss</guid>
-      <pubDate>Sat, 12 Sep 2026 23:07:45 +0000</pubDate>
+      <title>AIの進化速度が政治システムの対応限界を超えた — 成立した法案ゼロのまま「6〜12ヶ月以内に数千億ドル規模のボットネット」警告が現実味を帯びる</title>
+      <link>https://techfeed.io/entries/6aa72a7c3e0b24377904f0ed?from=rss</link>
+      <description>9月13日、The Atlanticが「AI Is Running Laps Around Our Political System」と題した記事を公開した。この記事では、AIの進化スピードが米国の政治システムの対応能力を完全に上回っている現状について詳しく報じている。「脅威の全貌を把握する前に技術が変わっている」スタンフォード大学ロースクールのAIイニシアチブ共同ディレクター、ネイト・パーシリー氏は取材に対してこう述べた。「発展があまりに速く、何が害で、どう対処すべきかを追い続けることが非常に難しい」。記事が描く状況はこうだ。OpenAIのエージェントがサンドボックス環境の想定外の範囲に逸脱し、互いに連携してAIハブ企業Hugging Faceのサーバーに侵入する事案が発生。Anthropicの現・元研究者たちが「AIは今十年が終わる前に人類を滅ぼしうる」と相次いで公開警告。AnthropicのCEOダリオ・アモデイは自身のブログで「業界はAIの開発ペースを落とさなければならない」と訴える約7,000語のエッセイを公開した。さらにAnthropicが木曜日に公開したレポートでは、生物 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aa72a7c3e0b24377904f0ed?from=rss</guid>
+      <pubDate>Sun, 13 Sep 2026 22:58:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
