@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:23:53 +0000</lastBuildDate>
     <item>
-      <title>Cloudflareがストレージ要件削減のためキャッシュトランスコーディングをテスト</title>
-      <link>https://www.infoq.com/news/2026/09/cloudflare-cache-transcoding/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Cloudflareは最近、キャッシュトランスコーディングと呼ばれるプロトタイプを発表しました。これは、対象となるキャッシュコンテンツ（主にHTML、JSON、CSS、JavaScriptなどの非圧縮テキスト）をZstandardで圧縮してからディスクに保存するものです。このハイパースケーラーは、このアプローチによってペタバイト規模の追加的な実効キャッシュ容量が得られると推定していますが、より広範なテストがまだ必要です。レナート・ロシオ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/09/cloudflare-cache-transcoding/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sun, 13 Sep 2026 10:35:00 +0000</pubDate>
+      <title>Microsoftが.NET 11 RC1をリリース、本番稼働サポート、C# 15およびF# 11をデフォルト言語バージョンとして採用</title>
+      <link>https://www.infoq.com/news/2026/09/dotnet-11-rc-1-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>先週、マイクロソフトは.NET 11リリース候補1をリリースしました。これはサイクル最初のリリース候補であり、本番環境での使用に向けたサポートライセンスが付属しています。このリリースでは、C# 15とF# 11がデフォルトの言語バージョンとなり、dotnet testがモバイルとデスクトップの両方のターゲットに拡張され、SignalR認証更新APIが完成し、.NET MAUIにおけるAndroidビルド時間が改善されました。執筆：Almir Vuk (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/09/dotnet-11-rc-1-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 15 Sep 2026 07:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
