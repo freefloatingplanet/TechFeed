@@ -7,6 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:08:22 +0000</lastBuildDate>
+    <item>
+      <title>$B$-sure. パートII. CMB観測からのテンソル・スカラー比検出におけるロバスト性テストとしての散乱変換</title>
+      <link>https://arxiv.org/abs/2609.17531v1</link>
+      <description>銀河前景は、宇宙マイクロ波背景放射の偏光観測から得られる原始 $B$ モードの測定において、大きな汚染要因となります。成分分離アルゴリズムを適用した後でも、前景残差はテンソル対スカラー比 $r$ の推定値を歪め、誤検出を引き起こす可能性があります。本研究では、将来の LiteBIRD のような衛星実験によって得られる原始 $B$ モードの検出を検証するための堅牢性テストの方法論を提示します。このテストの目的は、ブラインド成分分離アルゴリズムによって復元された CMB $B$ モード マップにおける非ガウス特性を探すことで、前景残差の汚染を特定することです。前景残差の非ガウス特性と前景トレーサー マップとの相関に敏感な要約統計量として、散乱変換 (ST) を採用します。前景の複雑さのレベルが異なる現実的な空のシミュレーションで、この方法論を特徴付け、検証します。提案されたテストは、シミュレーションの約90%において、テンソル対スカラー比のバイアスが10⁻³以上であることを検出できます。このバイアス値は、LiteBIRDが目標とする精度と同程度のオーダーです。さらに、我々の実験構成では、バ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.17531v1</guid>
+      <pubDate>Tue, 15 Sep 2026 17:59:31 +0000</pubDate>
+    </item>
   </channel>
 </rss>

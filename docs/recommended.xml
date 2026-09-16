@@ -7,29 +7,44 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:23:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:08:16 +0000</lastBuildDate>
     <item>
-      <title>React Compiler を Babel なしで入れて、useMemo を書くか迷うのをやめた</title>
-      <link>https://zenn.dev/hacobu/articles/2f58be1f62bcf8</link>
-      <description>こんにちは。株式会社 Hacobu でフロントエンドエンジニアをしている cho です。
-最近、新規プロジェクトを立ち上げています。構成は Vite 8 + React 19.2 + Mantine 9、TanStack Router / Table / Form。一覧と入力フォームが中心で、データもまだモックの段階です。実装の多くは AI に書かせています。
-ゼロから作れるので React 19 + Vite 8 で始めましたが、React Compiler の導入だけは見送っていました。Vite 8 で公式の React Compiler を使うには Babel を追加する必要があり... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hacobu/articles/2f58be1f62bcf8</guid>
-      <pubDate>Mon, 14 Sep 2026 01:10:32 +0000</pubDate>
+      <title>SKILL.md を良くする技術。AIのブレをなくす。</title>
+      <link>https://zenn.dev/knowledgesense/articles/9adf1e9b17ffd6</link>
+      <description>本記事では、AIエージェントの動作を安定させるための新しい手法について、ざっくり理解します。 株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、AIエージェントが、「昨日と同じように動かない」という問題に関す... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/9adf1e9b17ffd6</guid>
+      <pubDate>Tue, 15 Sep 2026 09:15:02 +0000</pubDate>
     </item>
     <item>
-      <title>トランプ氏、AI懸念を陰謀と一蹴　「高IQの大統領いれば統制は十分」 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/</link>
-      <description>【ワシントン=甲原潤之介】トランプ米大統領は14日、人工知能（AI）が制御不能に陥るため開発を減速すべきだといった指摘にSNSで反論した。「AIやデータセンターを標的とした病的な陰謀が進行中だ」と強調し、開発の減速によって喜ぶのは「中国だけだ」と訴えた。AIを統制するのに必要なのは「強くて賢い、知能指数（IQ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/</guid>
-      <pubDate>Mon, 14 Sep 2026 21:49:16 +0000</pubDate>
+      <title>AIが代わりに買い物する時代へ — VISAやMastercardの標準化団体がエージェント決済の国際仕様を初公開</title>
+      <link>https://techfeed.io/entries/6aa9d19e3e0b24377906bfa2?from=rss</link>
+      <description>9月15日、FIDO Allianceが「EMVCo drafts framework for agentic card payments」と題した記事を公開した。内容は、EMVCo（Europay、Mastercard、Visaが設立した国際標準化機関）がAIエージェントによるカード決済を標準化するためのフレームワーク草案を策定したというものだ。エージェント決済の国際標準化に向けてEMVCoが正式に動き出したのは今回が初めてであり、カード決済に関わるエンジニアや事業者にとって注目度の高い動きといえる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aa9d19e3e0b24377906bfa2?from=rss</guid>
+      <pubDate>Tue, 15 Sep 2026 23:15:42 +0000</pubDate>
     </item>
     <item>
-      <title>「世の中には敵より味方の方が多い」という信頼感を持っていた方が、その逆よりは生きやすい</title>
-      <link>https://blog.tinect.jp/?p=91489</link>
-      <description>2007年の夏に長男が生まれて、それから大体19年くらい経ちました。 途中、双子の長女次女が増援にきまして、現在は5人家族です。 長男が生まれたのは、確かまだ本格的に暑くなり始める前の初夏の月曜日、朝に妻が産気づいたので私は会社に連絡をして、割と無理やりめに休みをもらいました。 その後、長男が昼頃に生まれ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://blog.tinect.jp/?p=91489</guid>
-      <pubDate>Tue, 15 Sep 2026 00:15:10 +0000</pubDate>
+      <title>マンガ原稿をクラウドに上げただけでGoogleアカウントBAN　Gmailも道連れ……日本では合法なのになぜ？</title>
+      <link>https://www.itmedia.co.jp/news/article/2609/16/2000001527/2</link>
+      <description>判定するのは外国の民間企業 同様の事態は海外でも起きている。八田教授が挙げたのは、2021年に米国で幼い息子の患部の写真を小児科医に送った父親の例だ。写真はGoogleフォトに自動でバックアップされ、AIが児童の性的虐待素材（CSAM）と判定した。米New York Timesが2022年に報じたところによると、2日後に父親のGoogl... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/16/2000001527/2</guid>
+      <pubDate>Wed, 16 Sep 2026 04:56:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>2000万人が使ったブラウザ、あのLunascapeが帰ってくる——創業CTOが語る、AIとブラウザの未来</title>
+      <link>https://techfeed.io/entries/6aa8df453e0b243779063b69?from=rss</link>
+      <description>リード文今のWebブラウザ市場を語るとき、ChromeとSafariとFirefoxの名前しか出てこない。だが、かつてその市場に2000万人のユーザーを持つ日本製ブラウザが存在した。その開発者が今、AIとWeb3を引っ提げてブラウザ市場に再び挑もうとしている。創業CTOの近藤氏に、Lunascapeの歴史と復活の経緯、そしてAIがブラウザ開発と「エンジニアの仕事」をどう変えたかを聞いた。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aa8df453e0b243779063b69?from=rss</guid>
+      <pubDate>Wed, 16 Sep 2026 02:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kubbで理想のfetchクライアントを作りたいっ！！</title>
+      <link>https://zenn.dev/chot/articles/kubb-custom-fetch-client</link>
+      <description>手書きで fetch() を書くのは、URLの組み立て、レスポンスの型付け、ステータスコードごとのエラー処理…と考えることが多くて少々面倒ですよね。OpenAPIスキーマがあるなら、そこから型やコードを自動生成するツールに任せたくなります。
+ただ、生成されたコードが、自分のプロジェクトに最適とは限りません。この記事ではKubbとneverthrowを組み合わせて、結果を ResultAsync で表現するfetchクライアントを作りながら、自分のプロジェクトにとっての理想のfetchクライアントを設計する考え方を整理します。
+記事で使ったコードは、以下のリポジトリで公開しています。
+ht... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chot/articles/kubb-custom-fetch-client</guid>
+      <pubDate>Mon, 14 Sep 2026 08:53:27 +0000</pubDate>
     </item>
     <item>
       <title>Fragment Refsのずるい使い方</title>
@@ -61,18 +76,6 @@ Fragmentは何もDOM要素を描画しない、実態のないラッパーです
       <pubDate>Mon, 14 Sep 2026 23:51:17 +0000</pubDate>
     </item>
     <item>
-      <title>【ベイズ推定】相手のことを答えると「本当に欲しそうなプレゼント」を当てにいく『欲しいもの.com』を作った</title>
-      <link>https://zenn.dev/aucccchi/articles/hoshiimono-bayes-gift-diagnosis</link>
-      <description>プレゼントを選ぶとき、「30代女性におすすめ30選」のような記事を読んでも決まらない。相手のことを知っているのは自分なのに、記事は相手を知らないからです。
-それなら逆に、相手のことをこちらが答えて、候補を絞ってもらう形にすればいい。そう考えて 欲しいもの.com という診断サイトを作りました。相手について 10〜16 問答えると、「もしかして、高級パジャマ？」のように贈り物の種類を当てにいきます。
-https://hoshiimono.app/?source=zenn
-
-左から、質問中（押した選択肢が塗られる）、提示、結果と商品。進捗バーは質問数ではなく候補の絞られ具合。
-この記事は、そ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aucccchi/articles/hoshiimono-bayes-gift-diagnosis</guid>
-      <pubDate>Mon, 14 Sep 2026 14:13:58 +0000</pubDate>
-    </item>
-    <item>
       <title>仕様と実装を同じ言葉で書く ― 責務を機械的に突合し検証し続けるフロントエンド開発（要件定義〜実装・テスト）</title>
       <link>https://zenn.dev/2_daiki_ando/articles/53c34e071b5d69</link>
       <description>!
@@ -88,23 +91,20 @@ ymlやアノテーションを活用することで、静的に解析ができ�
       <pubDate>Mon, 14 Sep 2026 15:27:39 +0000</pubDate>
     </item>
     <item>
-      <title>犯人はAWS WAF：CognitoのパスワードがSQLiと誤検知された話</title>
-      <link>https://zenn.dev/dgtech/articles/aws-waf-blocks-cognito-password</link>
-      <description>はじめに
-とある Web サービスの stg 環境で、「管理画面にログインできないアカウントがある」という調査依頼を受けました。落ちるのは特定の 1 アカウントだけ。しかも症状は、画面全体がエラーで崩壊するという奇妙な壊れ方でした。「パスワードが違います」のような文言すら出ません。
-調べていくと、犯人は AWS WAF でした。それも、マネージドルール AWSManagedRulesSQLiRuleSet。Cognito のパスワードポリシーを満たすために記号てんこ盛りで自動生成されたパスワードを、同じ AWS の WAF が「SQL インジェクションだ」と撃ち落としていたのです。認... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dgtech/articles/aws-waf-blocks-cognito-password</guid>
-      <pubDate>Mon, 14 Sep 2026 10:18:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chat × Claude Agent SDK × AWS Lambdaで「事業部向けのAIエージェント」を作った話</title>
-      <link>https://zenn.dev/wwwave/articles/50f7450f5d13bf</link>
-      <description>はじめに
-こんにちは、塚本です。
-弊社では、自社で管理しているコンテンツ（商品データ）を、提携先の企業（クライアント）へ届ける業務を「納品」と呼んでいます。この納品という、商材を外部へ届けて売上を上げるビジネスは、会社の設立当初から続いている歴史の深いものです。その分、蓄積されてきた業務知識は幅広く複雑で、しかも新しい施策も頻繁に発生するため、人がすべてを吸収しきるのは簡単ではありません。
-社内には、この納品業務まわりのシステムを日々使っている事業部の方（非エンジニア）がいます。事業部の方から「この処理どうなっていますか？」「こういった施策をしたいのですが、どのくらい工数がかかりそう... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/wwwave/articles/50f7450f5d13bf</guid>
-      <pubDate>Mon, 14 Sep 2026 22:00:05 +0000</pubDate>
+      <title>1日の開発の流れをスキル化してみたら、想像以上に快適だった</title>
+      <link>https://zenn.dev/tenkei/articles/9f8921926bb003</link>
+      <description>概要
+ここ最近、すっかり同じような流れで開発をしている。
+ざっくり書くと、以下のようになる。
+GithubのIssueを取る → AIに設計と実装を任せる → 別のAIにレビューしてもらう → 動作確認してもらう → Pull Requestを作成してもらう
+しかし、これを自動化できていなかった。その都度、AIに指示を出していた。
+さすがに面倒になってきたので、スキル化してみた。
+
+ GithubでのIssue管理
+まず前提として、今回作成したスキルでは、GithubでIssue管理を行っている必要がある。
+Issueへの起票やタスク分解もAIを利用しているけど、それはこの記事の対象... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tenkei/articles/9f8921926bb003</guid>
+      <pubDate>Tue, 15 Sep 2026 09:15:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
