@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:17:19 +0000</lastBuildDate>
     <item>
-      <title>ルクセンブルクが描く宇宙ビジネス立国へのグランドデザインとは？異業種イノベーションを牽引する欧州の宇宙ビジネスハブ</title>
-      <link>https://sorabatake.jp/46796/</link>
-      <description>通信や地球観測から微小重力を生かした創薬まで、ルクセンブルクに集積する宇宙スタートアップの最前線と、その成功を支える国家戦略を紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46796/</guid>
-      <pubDate>Sun, 30 Aug 2026 00:18:59 +0000</pubDate>
+      <title>ロシアがISSへの補給船「プログレスMS-35」を打ち上げ　9月19日にISS到着予定</title>
+      <link>https://sorae.info/ssn/20260917-progress-ms-35.html</link>
+      <description>ロシアの国営宇宙企業Roscosmos（ロスコスモス）は日本時間2026年9月16日に「Soyuz（ソユーズ）2.1b」ロケットの打ち上げを実施しました。搭載されていた補給船「Progress（プログレス）MS-35」は… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260917-progress-ms-35.html</guid>
+      <pubDate>Thu, 17 Sep 2026 01:52:29 +0000</pubDate>
     </item>
     <item>
       <title>大質量連星は“別々に誕生した2つの星”が偶然出会って形成される？　アルマ望遠鏡などの観測成果</title>
@@ -30,13 +30,6 @@
       <pubDate>Mon, 07 Sep 2026 12:29:21 +0000</pubDate>
     </item>
     <item>
-      <title>QPS研究所、仏宇宙企業と基本合意　2029年以降に「マイア」ロケットでQPS-SAR打ち上げへ</title>
-      <link>https://sorae.info/biz/20260911-qps-maiaspace.html</link>
-      <description>株式会社QPS研究所は2026年9月10日、フランスのMaiaSpace（マイアスペース）との間で、同社が開発する小型ロケット「Maia（マイア）」による打ち上げサービスの利用について基本合意を締結したと発表しました。 … (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/biz/20260911-qps-maiaspace.html</guid>
-      <pubDate>Fri, 11 Sep 2026 08:56:58 +0000</pubDate>
-    </item>
-    <item>
       <title>【20社以上の出展が決定】9月26日（土）、宇宙業界特化のキャリアイベントで「転職者のリアル」が分かるトークセッションも</title>
       <link>https://sorabatake.jp/46842/</link>
       <description>2026年9月26日に開催される宇宙業界に特化したキャリアイベント『SPACETIDE Career Connect 2026 Summer』について、注目の2つのトークセッションについて紹介します。 (source: 宙畑)</description>
@@ -49,6 +42,13 @@
       <description>アーティストのヨシロットンによる展覧会「ヨシロットン展 彼方との交信／BEYOND EARTH」が、2026年10月30日から2027年1月11日まで、東京・虎ノ門ヒルズ ステーションタワーのTOKYO NODEで開催さ… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/news/20260916-yoshirotten-beyond-earth.html</guid>
       <pubDate>Wed, 16 Sep 2026 07:44:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>三菱電機、SWISSto12と覚書　デュアルユース静止通信衛星などで協業検討</title>
+      <link>https://sorae.info/biz/20260917-mitsubishi-electric-swissto12.html</link>
+      <description>三菱電機は2026年9月15日、スイスの宇宙技術企業であるSWISSto12（スイス・トゥ・トウェルブ）と、防衛・宇宙向け製品の開発・製造における戦略的協業の可能性を検討するための覚書を締結したと発表しました。 対象とな… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/biz/20260917-mitsubishi-electric-swissto12.html</guid>
+      <pubDate>Thu, 17 Sep 2026 02:33:39 +0000</pubDate>
     </item>
     <item>
       <title>遠隔地の鉄道や農地にも通信技術を提供へ。イギリスが衛星通信に関する16件のプロジェクトに1,300万ポンドを出資【宇宙ビジネスニュース】</title>

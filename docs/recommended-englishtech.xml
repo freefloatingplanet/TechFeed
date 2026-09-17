@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:08:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:17:20 +0000</lastBuildDate>
     <item>
-      <title>Microsoftが.NET 11 RC1をリリース、本番稼働サポート、C# 15およびF# 11をデフォルト言語バージョンとして採用</title>
-      <link>https://www.infoq.com/news/2026/09/dotnet-11-rc-1-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>先週、マイクロソフトは.NET 11リリース候補1をリリースしました。これはサイクル最初のリリース候補であり、本番環境での使用に向けたサポートライセンスが付属しています。このリリースでは、C# 15とF# 11がデフォルトの言語バージョンとなり、dotnet testがモバイルとデスクトップの両方のターゲットに拡張され、SignalR認証更新APIが完成し、.NET MAUIにおけるAndroidビルド時間が改善されました。執筆：Almir Vuk (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/09/dotnet-11-rc-1-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 15 Sep 2026 07:11:00 +0000</pubDate>
+      <title>AIの進化に伴うクロスプラットフォーム開発のトレードオフの変化を受け、ShopifyはSwiftとKotlin向けのReact Nativeのサポートを終了した。</title>
+      <link>https://www.infoq.com/news/2026/09/shopify-drops-react-native/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Shopifyは先日、React Nativeを放棄し、主力アプリをSwiftとKotlinで書き直すと発表した。AIモデルの品質が大幅に向上したことを受け、モバイル部門責任者のムスタファ・アリ氏は、React NativeへのShopifyの取り組みを再評価し、モバイルプラットフォーム全体でネイティブコードベースを維持することのメリット／コスト比が、抽象化レイヤーを使用するよりも高くなったと推定した。ブルーノ・クーリオル著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/09/shopify-drops-react-native/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 16 Sep 2026 12:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
