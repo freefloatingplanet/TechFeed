@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 11:17:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:50:59 +0000</lastBuildDate>
     <item>
-      <title>AIの進化に伴うクロスプラットフォーム開発のトレードオフの変化を受け、ShopifyはSwiftとKotlin向けのReact Nativeのサポートを終了した。</title>
-      <link>https://www.infoq.com/news/2026/09/shopify-drops-react-native/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Shopifyは先日、React Nativeを放棄し、主力アプリをSwiftとKotlinで書き直すと発表した。AIモデルの品質が大幅に向上したことを受け、モバイル部門責任者のムスタファ・アリ氏は、React NativeへのShopifyの取り組みを再評価し、モバイルプラットフォーム全体でネイティブコードベースを維持することのメリット／コスト比が、抽象化レイヤーを使用するよりも高くなったと推定した。ブルーノ・クーリオル著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/09/shopify-drops-react-native/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 16 Sep 2026 12:45:00 +0000</pubDate>
+      <title>htmx 4.0: フェッチベースの書き換え、組み込みのモーフィングスワップ、および明示的な属性継承</title>
+      <link>https://www.infoq.com/news/2026/09/htmx-4-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>htmx 4 がリリースされました。XMLHttpRequest から fetch() API への移行により、ストリーミング機能が強化されています。主な更新点としては、DOM 状態を保持するための組み込みのモーフィングスワップと、よりクリーンな更新のための hx-partial タグが挙げられます。属性の継承が明示的になり、イベント名も標準化されました。このライブラリは、最小限の JavaScript に重点を置きながらも、フレームワーク間での人気を維持しています。執筆者：Daniel Curtis (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/09/htmx-4-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 18 Sep 2026 09:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
