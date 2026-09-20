@@ -7,13 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 10:34:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 10:57:12 +0000</lastBuildDate>
+    <item>
+      <title>恒星の生涯最後に咲いた花　ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 3918」</title>
+      <link>https://sorae.info/astronomy/20260918-ngc-3918.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 3918」。ケンタウルス座の方向、地球から約4900光年先にあります。 太陽のような比較的軽い恒星（質量は太陽の8倍以下）は、晩年を迎えると主系列星から赤色巨星に… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260918-ngc-3918.html</guid>
+      <pubDate>Sun, 20 Sep 2026 08:07:36 +0000</pubDate>
+    </item>
     <item>
       <title>衛星データでキャベツの出荷量を予測。広告や売り場と連動してフードロス削減へ【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/46938/</link>
       <description>JAXAと電通、JA嬬恋村は、衛星データなどからキャベツの出荷量や卸売価格を予測し、広告や店頭での販売促進につなげる市場実証を始めました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46938/</guid>
       <pubDate>Mon, 07 Sep 2026 12:29:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>ロシアが「ソユーズ2.1b」ロケットを打ち上げ　国防省の軍事衛星を軌道投入</title>
+      <link>https://sorae.info/ssn/20260920-soyuz-2-1b-military-satellite.html</link>
+      <description>ロシア国防省は、ロシア航空宇宙軍の宇宙部隊が日本時間2026年9月18日、プレセツク宇宙基地から「ソユーズ2.1b」ロケットを打ち上げたと発表しました。搭載された軍事衛星は、所定の軌道へ投入されました。 打ち上げに関する… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20260920-soyuz-2-1b-military-satellite.html</guid>
+      <pubDate>Sun, 20 Sep 2026 01:51:13 +0000</pubDate>
     </item>
     <item>
       <title>JAXA協力の「ヨシロットン展」が虎ノ門で開催　宇宙アートほか、「おおすみ」の管制卓や「IKAROS」の展示も</title>
@@ -23,18 +37,18 @@
       <pubDate>Wed, 16 Sep 2026 07:44:36 +0000</pubDate>
     </item>
     <item>
-      <title>【20社以上の出展が決定】9月26日（土）、宇宙業界特化のキャリアイベントで「転職者のリアル」が分かるトークセッションも</title>
-      <link>https://sorabatake.jp/46842/</link>
-      <description>2026年9月26日に開催される宇宙業界に特化したキャリアイベント『SPACETIDE Career Connect 2026 Summer』について、注目の2つのトークセッションについて紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46842/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:37:53 +0000</pubDate>
-    </item>
-    <item>
       <title>三菱電機、SWISSto12と覚書　デュアルユース静止通信衛星などで協業検討</title>
       <link>https://sorae.info/biz/20260917-mitsubishi-electric-swissto12.html</link>
       <description>三菱電機は2026年9月15日、スイスの宇宙技術企業であるSWISSto12（スイス・トゥ・トウェルブ）と、防衛・宇宙向け製品の開発・製造における戦略的協業の可能性を検討するための覚書を締結したと発表しました。 対象とな… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/biz/20260917-mitsubishi-electric-swissto12.html</guid>
       <pubDate>Thu, 17 Sep 2026 02:33:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【20社以上の出展が決定】9月26日（土）、宇宙業界特化のキャリアイベントで「転職者のリアル」が分かるトークセッションも</title>
+      <link>https://sorabatake.jp/46842/</link>
+      <description>2026年9月26日に開催される宇宙業界に特化したキャリアイベント『SPACETIDE Career Connect 2026 Summer』について、注目の2つのトークセッションについて紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46842/</guid>
+      <pubDate>Fri, 04 Sep 2026 04:37:53 +0000</pubDate>
     </item>
     <item>
       <title>遠隔地の鉄道や農地にも通信技術を提供へ。イギリスが衛星通信に関する16件のプロジェクトに1,300万ポンドを出資【宇宙ビジネスニュース】</title>

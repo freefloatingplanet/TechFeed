@@ -7,44 +7,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 10:34:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 10:57:08 +0000</lastBuildDate>
     <item>
-      <title>米軍、AI誤報で作戦計画　中国船に「核部品」、直前中止 | NEWSjp</title>
-      <link>https://news.jp/i/1473810070062515120</link>
-      <description>【ワシントン共同】米CNNテレビは18日、米軍がイランと交戦中だった今年春、人工知能（AI）を利用して作成された誤った情報を基に、中東海域で中国船に対する軍事作戦を計画していたと報じた。「核兵器開発計画の部品を運搬している」との内容で、直前に誤報だと判明し、中止したという。関係者の話としている。 中国船... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://news.jp/i/1473810070062515120</guid>
-      <pubDate>Fri, 18 Sep 2026 23:35:39 +0000</pubDate>
+      <title>LinkedInが「AIエージェントの子守」問題をどう解決したか — 600超のワークフローと「手続き的記憶（Playbook）」で数千のマイクロサービスを持つ巨大コードベースに「組織の記憶」を持たせる仕組み</title>
+      <link>https://techfeed.io/entries/6aaf15f63e0b24377909ce7b?from=rss</link>
+      <description>9月19日、InfoQが「Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP」と題した記事を公開した。この記事では、LinkedInがMCP（Model Context Protocol）を活用して大規模コードベース向けの「コンテキストエンジニアリング層」を構築し、AIエージェントを実用レベルで活用できるようにした取り組みについて詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aaf15f63e0b24377909ce7b?from=rss</guid>
+      <pubDate>Sat, 19 Sep 2026 23:08:38 +0000</pubDate>
     </item>
     <item>
-      <title>C# と Luaで何かやってみる (LMStudio&amp;Python)</title>
-      <link>https://zenn.dev/baleenstudio/articles/67ddfb62c4e2fb</link>
-      <description>Lua とは？
-Lua は軽量で高速な組み込み型スクリプト言語です。
-実行環境が小さく、学習曲線も緩やかなので、C#、Java、Python などのホスト言語に簡単に組み込めます。
-C# から Lua を呼び出すと、次のようなメリットがあります。
-
-スクリプトを差し替えるだけでロジックを変更でき、再ビルドを不要にできる
-Lua の柔軟性を活かしてプロンプトやルールを外部化できる
-Lua → Python → LM Studio のように複数言語／ツールを組み合わせられる
-
-入出力は Lua で統一し、Lua の柔軟性を活かしつつ、スクリプトを書く側に選択肢を与える構成にしています。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/baleenstudio/articles/67ddfb62c4e2fb</guid>
-      <pubDate>Thu, 17 Sep 2026 07:42:49 +0000</pubDate>
+      <title>AI ネイティブなデータ分析基盤を作った話</title>
+      <link>https://zenn.dev/pksha/articles/5a1dc6470019d6</link>
+      <description>はじめに
+PKSHA Technology で PKSHA VoiceAgent（以下 VoiceAgent）の SRE をしている三浦です。2026 年 2 月に入社しました。
+本記事は、データ分析基盤を構築した話です。データ分析基盤自体はもはや珍しいものでもありませんが、2026 年現在に相応しい手法と構成でできたのではないかと自負しています。
+VoiceAgent では、データ量の増加とともに分析環境が限界に近づいていました。PKSHA には Azure Databricks 製のデータ基盤が先にありますが、プロダクト特化の仕組みとして作られていたため、VoiceAgent 向... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pksha/articles/5a1dc6470019d6</guid>
+      <pubDate>Thu, 17 Sep 2026 07:11:52 +0000</pubDate>
     </item>
     <item>
-      <title>「AIは仕事を増やす」と思う人はわずか9% — 37カ国調査で、知れば知るほど悲観的になる現実</title>
-      <link>https://techfeed.io/entries/6aadcab73e0b24377909697b?from=rss</link>
-      <description>9月18日、Search Engine Journalが「More People Expect AI To Cut Jobs Than Add Them, Pew Finds」と題した記事を公開した。AIについて詳しく知っている人ほど、雇用への影響を悲観的に見る——Pewリサーチセンター（米国を代表する超党派の世論調査・社会科学研究機関）が37カ国・4万人超を対象に実施した調査で、そうした逆説的な傾向が浮かび上がった。AIリテラシーの向上が楽観論に結びつかないという現実は、技術者・ビジネスパーソン双方にとって無視しにくいデータだ。37カ国中34カ国で「AIは雇用を減らす」が多数派Pewリサーチセンターが9月17日に公開した報告書によると、調査した37カ国のうち34カ国で、「AIが今後20年間で雇用を減らす」と考える人が「増やす」と考える人を上回った。全37カ国の中央値では、46%がAIによって雇用が減ると回答し、増えると答えたのはわずか**9%**。「わからない」は25%だった。調査対象は2026年2月〜5月にかけて36カ国の成人42,151人。米国のデータは別途実施した2つのサーベイ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6aadcab73e0b24377909697b?from=rss</guid>
-      <pubDate>Fri, 18 Sep 2026 23:35:19 +0000</pubDate>
+      <title>Jevはサイコロを振らない｜「較正された確率」の意外な落とし穴｜林寛太 Kanta Hayashi</title>
+      <link>https://note.com/kantahayashiai/n/n4c54eed30787</link>
+      <description>Jevは、文章を生成せずに、選択や真偽判定などの「判断」を確率とともに返す、TypeSafe AIの判断特化型モデルだ。速度とコストが魅力的で、人々の発想を刺激した点で、優れたプロダクトだと思う。 ただ、最近の熱狂を見ていると、何でもJevでいけるかのような話になっている。Jevは「システム1（直感的・即時の判断）」... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/kantahayashiai/n/n4c54eed30787</guid>
+      <pubDate>Sun, 20 Sep 2026 03:46:30 +0000</pubDate>
     </item>
     <item>
-      <title>世界37カ国のうち日本を含むほとんどの国で「AIは雇用増加ではなく雇用喪失を引き起こす」と予想されていることが判明</title>
-      <link>https://gigazine.net/news/20260918-more-people-expect-ai-job-loss/</link>
-      <description>生成AIはこれまで人間の労働者が担っていたさまざまなタスクを代替することが可能で、AIの導入によって雇用が減少するのではないかとの懸念が高まっています。中には「AIは産業革命のように、一部の仕事を消し去る代わりに新たな仕事も生み出す」という意見もありますが、アメリカのピュー研究所が世界37カ国を対象に行... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20260918-more-people-expect-ai-job-loss/</guid>
-      <pubDate>Fri, 18 Sep 2026 07:39:00 +0000</pubDate>
+      <title>AI時代にデータサイエンスのキャリアを築くには——「批判的思考をLLMに委ねるな」「過度な専門化を避けよ」「倫理的責任を担え」、約10年の実務家が語る三つの指針</title>
+      <link>https://techfeed.io/entries/6aaf16183e0b24377909ce87?from=rss</link>
+      <description>9月18日、Stephanie Kirmerが「Starting a Career in Data Science in the Age of AI」と題した記事を公開した。ある大学生から「倫理を犠牲にせずデータサイエンスで成功するにはどうすればいいか」と問われたことが執筆のきっかけだという。そして記事が最終的に訴えるのは、スキルの習得法や業界選びにとどまらない、LLMへの批判的思考の委譲という、AI時代特有の危険性だ。「AIを使いこなせばキャリアが安泰」という通説に対し、著者は明確に異議を唱える。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aaf16183e0b24377909ce87?from=rss</guid>
+      <pubDate>Sat, 19 Sep 2026 23:09:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCP × Claude Code × BedrockでPlaywrightの自動化フローを構築</title>
+      <link>https://zenn.dev/hirata_infosys/articles/598068e56ae342</link>
+      <description>はじめに
+既存のシステムに対し、AIエージェントを導入しようとする場合、更新系は制約事項が多々あります。基本的にエージェントなどからデータを直接更新することは、禁止されているシステムが多いのではないでしょうか？
+そこで、Playwrightを使用することでインターフェースは既存の画面を使用し、人の判断をLLMで代替する一つのAIエージェントの実現手段として、Playwrightの検証を行ってみました。
+今回の検証では、社内のWEBシステム（勤怠管理）をPlaywrightで操作しています。
+本記事ではPlaywrightの自動化フローを作成するにあたり、MCP × Claude Co... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hirata_infosys/articles/598068e56ae342</guid>
+      <pubDate>Fri, 18 Sep 2026 21:00:05 +0000</pubDate>
     </item>
     <item>
       <title>全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話</title>
@@ -56,6 +60,22 @@ Lua → Python → LM Studio のように複数言語／ツールを組み合わ
 導入前の社内では ChatGPT、Claude、Cursor など AI ツールが乱立していまし... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/jtcc/articles/7e74fef42580a1</guid>
       <pubDate>Fri, 18 Sep 2026 00:08:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>1日の開発の流れをスキル化してみたら、想像以上に快適だった</title>
+      <link>https://zenn.dev/tenkei/articles/9f8921926bb003</link>
+      <description>概要
+ここ最近、すっかり同じような流れで開発をしている。
+ざっくり書くと、以下のようになる。
+GithubのIssueを取る → AIに設計と実装を任せる → 別のAIにレビューしてもらう → 動作確認してもらう → Pull Requestを作成してもらう
+しかし、これを自動化できていなかった。その都度、AIに指示を出していた。
+さすがに面倒になってきたので、スキル化してみた。
+
+ GithubでのIssue管理
+まず前提として、今回作成したスキルでは、GithubでIssue管理を行っている必要がある。
+Issueへの起票やタスク分解もAIを利用しているけど、それはこの記事の対象... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tenkei/articles/9f8921926bb003</guid>
+      <pubDate>Tue, 15 Sep 2026 09:15:12 +0000</pubDate>
     </item>
     <item>
       <title>AI開発チームの作り方と育て方 — マルチエージェント開発組織の設計と運用</title>
@@ -85,23 +105,6 @@ Orizmには「デザインエディター」という、Webページを見た目
  WebM... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/chot/articles/268804cd6694ab</guid>
       <pubDate>Thu, 17 Sep 2026 04:12:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIスキルアップに「週1研修」が機能しない理由 — Google Cloudが提唱するマイクロ習慣型学習設計の4つの柱</title>
-      <link>https://techfeed.io/entries/6aadcaf53e0b24377909698a?from=rss</link>
-      <description>9月18日、Google Cloudが「Upskill your AI using daily micro habits」と題した記事を公開した。エンジニアチームのAIスキルをマイクロ習慣（小さな日次習慣）によって底上げするための4つの柱を解説したもので、「週1回の集合研修」では現場のAI習熟が進まない構造的な理由と、その処方箋を示している。「1週間試して諦める」サイクルをどう断ち切るか企業がAI導入に投資しているにもかかわらず、現場では同じパターンが繰り返されている。開発者がAIツールを1週間試す→セットアップで詰まる→バックログに戻る→何もリリースされない。Google Cloud Consultingが診断する根本原因は「イネーブルメント（習熟支援）の欠如」だ。Harvard Business Reviewの調査（Josh Bersin・Marc Zao-Sanders）によると、知識労働者が正式な学習に充てる時間は1日わずか5分。にもかかわらず、多くの企業研修は1週間の集合研修や数週間の認定コース、受動的な動画講義に頼っている。開発者の実際の時間感覚とまったく噛み合っていない。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6aadcaf53e0b24377909698a?from=rss</guid>
-      <pubDate>Fri, 18 Sep 2026 23:36:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLMにWikiを書かせて半年、一番役に立った画面はLLMの文章を使っていなかった</title>
-      <link>https://zenn.dev/rescuenow/articles/5aa26aebd7ae78</link>
-      <description>はじめに
-個人開発で自分専用の記録ツールを作っています。購読しているフィードを読むRSSリーダー、気になったWebページのURLを放り込むと本文を取得して要約とタグ付けを行うクリップ、バレットジャーナル(箇条書きで日々を記録していく日記のようなもの)。用途はバラバラですが、どれも「あとで見返すために残しておく」ためのものです。
-使い続けていると、当然記録が溜まります。そうなると、これで何か面白いことができないかと考え始めます。全文検索を付ける、タグで絞り込む、月ごとの件数をグラフにする。どれもすぐ思いつきますが、すでにあるものを並べ替えているだけで、見えるものが増えません。
-そこで、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/rescuenow/articles/5aa26aebd7ae78</guid>
-      <pubDate>Wed, 16 Sep 2026 07:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
