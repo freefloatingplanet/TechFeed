@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Sep 2026 10:57:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 12:23:04 +0000</lastBuildDate>
     <item>
-      <title>htmx 4.0: フェッチベースの書き換え、組み込みのモーフィングスワップ、および明示的な属性継承</title>
-      <link>https://www.infoq.com/news/2026/09/htmx-4-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>htmx 4 がリリースされました。XMLHttpRequest から fetch() API への移行により、ストリーミング機能が強化されています。主な更新点としては、DOM 状態を保持するための組み込みのモーフィングスワップと、よりクリーンな更新のための hx-partial タグが挙げられます。属性の継承が明示的になり、イベント名も標準化されました。このライブラリは、最小限の JavaScript に重点を置きながらも、フレームワーク間での人気を維持しています。執筆者：Daniel Curtis (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/09/htmx-4-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 18 Sep 2026 09:32:00 +0000</pubDate>
+      <title>ポッドキャスト：AIエージェントのセキュリティ確保：ID、認証、およびDPACTフレームワーク</title>
+      <link>https://www.infoq.com/podcasts/securing-ai-agents-identity-authorization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>今回のエピソードでは、Sahil Agarwal氏がAIエージェント時代のアイデンティティ、認証、セキュリティにおける重要な課題について語ります。Sahil氏は、責任ある、監視されたエージェントシステムを構築するための設計図として、DPACTフレームワーク（委任、ポリシー、監査可能性、コンテキスト、時間）を紹介し、単純なトークンベースのアクセスから、境界が限定された委任権限へと移行することの重要性を説きます。Sahil Agarwal氏による解説。 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/podcasts/securing-ai-agents-identity-authorization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 21 Sep 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
