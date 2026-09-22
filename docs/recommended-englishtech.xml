@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 21 Sep 2026 12:23:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:13:55 +0000</lastBuildDate>
     <item>
-      <title>ポッドキャスト：AIエージェントのセキュリティ確保：ID、認証、およびDPACTフレームワーク</title>
-      <link>https://www.infoq.com/podcasts/securing-ai-agents-identity-authorization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>今回のエピソードでは、Sahil Agarwal氏がAIエージェント時代のアイデンティティ、認証、セキュリティにおける重要な課題について語ります。Sahil氏は、責任ある、監視されたエージェントシステムを構築するための設計図として、DPACTフレームワーク（委任、ポリシー、監査可能性、コンテキスト、時間）を紹介し、単純なトークンベースのアクセスから、境界が限定された委任権限へと移行することの重要性を説きます。Sahil Agarwal氏による解説。 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/podcasts/securing-ai-agents-identity-authorization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 21 Sep 2026 11:00:00 +0000</pubDate>
+      <title>Cloudflareが従来のSDLCに代わるエージェント開発ライフサイクルスタックを発表</title>
+      <link>https://www.infoq.com/news/2026/09/cloudflare-adlc-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Cloudflareは、AI駆動型エンジニアリングを強化するために、エージェント開発ライフサイクル（Agent Development Lifecycle）を導入しました。このアプローチは従来のSDLCに取って代わり、テスト、デプロイ、メンテナンスにおけるボトルネックを解消します。主な構成要素には、自動化されたソフトウェアファクトリー、動的なオーケストレーション、高度な可観測性、自律型エージェント向けのセキュリティモデルなどがあり、より効率的なソフトウェア管理を目指しています。執筆：Olimpiu Pop (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/09/cloudflare-adlc-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 21 Sep 2026 14:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

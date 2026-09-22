@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 12:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:13:53 +0000</lastBuildDate>
     <item>
       <title>恒星の生涯最後に咲いた花　ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 3918」</title>
       <link>https://sorae.info/astronomy/20260918-ngc-3918.html</link>
@@ -23,13 +23,6 @@
       <pubDate>Sun, 20 Sep 2026 11:19:55 +0000</pubDate>
     </item>
     <item>
-      <title>衛星データでキャベツの出荷量を予測。広告や売り場と連動してフードロス削減へ【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/46938/</link>
-      <description>JAXAと電通、JA嬬恋村は、衛星データなどからキャベツの出荷量や卸売価格を予測し、広告や店頭での販売促進につなげる市場実証を始めました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46938/</guid>
-      <pubDate>Mon, 07 Sep 2026 12:29:21 +0000</pubDate>
-    </item>
-    <item>
       <title>ロシアが「ソユーズ2.1b」ロケットを打ち上げ　国防省の軍事衛星を軌道投入</title>
       <link>https://sorae.info/ssn/20260920-soyuz-2-1b-military-satellite.html</link>
       <description>ロシア国防省は、ロシア航空宇宙軍の宇宙部隊が日本時間2026年9月18日、プレセツク宇宙基地から「ソユーズ2.1b」ロケットを打ち上げたと発表しました。搭載された軍事衛星は、所定の軌道へ投入されました。 打ち上げに関する… (source: sorae 宇宙へのポータルサイト)</description>
@@ -37,11 +30,11 @@
       <pubDate>Sun, 20 Sep 2026 01:51:13 +0000</pubDate>
     </item>
     <item>
-      <title>JAXA協力の「ヨシロットン展」が虎ノ門で開催　宇宙アートほか、「おおすみ」の管制卓や「IKAROS」の展示も</title>
-      <link>https://sorae.info/news/20260916-yoshirotten-beyond-earth.html</link>
-      <description>アーティストのヨシロットンによる展覧会「ヨシロットン展 彼方との交信／BEYOND EARTH」が、2026年10月30日から2027年1月11日まで、東京・虎ノ門ヒルズ ステーションタワーのTOKYO NODEで開催さ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/news/20260916-yoshirotten-beyond-earth.html</guid>
-      <pubDate>Wed, 16 Sep 2026 07:44:36 +0000</pubDate>
+      <title>衛星データでキャベツの出荷量を予測。広告や売り場と連動してフードロス削減へ【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/46938/</link>
+      <description>JAXAと電通、JA嬬恋村は、衛星データなどからキャベツの出荷量や卸売価格を予測し、広告や店頭での販売促進につなげる市場実証を始めました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46938/</guid>
+      <pubDate>Mon, 07 Sep 2026 12:29:21 +0000</pubDate>
     </item>
     <item>
       <title>三菱電機、SWISSto12と覚書　デュアルユース静止通信衛星などで協業検討</title>

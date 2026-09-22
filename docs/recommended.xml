@@ -7,28 +7,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 12:22:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:13:50 +0000</lastBuildDate>
     <item>
-      <title>高市首相も「無敵」じゃない？ユーチューブで批判動画が肯定を一時逆転　ほめるか叩くか、基準は「バズるかどうか」【データ・インサイト】 | NEWSjp</title>
-      <link>https://news.jp/i/1469544318226858917</link>
-      <description>高市政権は、１０月に発足から１年を迎える。この間、２月の衆院選で歴史的圧勝を飾り「国論を二分するような政策」（高市早苗首相）にまい進してきた。防衛装備移転三原則と運用指針の改定、皇室典範の改正など、大転換を次々と成し遂げる実行力には目を見張るばかりだ。 こうした「成功」を支えたのが高い内閣支持率だ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://news.jp/i/1469544318226858917</guid>
-      <pubDate>Mon, 21 Sep 2026 01:21:08 +0000</pubDate>
+      <title>最近話題のJevはBigQueryのAI関数を安くできるのか？</title>
+      <link>https://zenn.dev/jackojacko05/articles/08df79d47f4219</link>
+      <description>こんにちは。メガベンチャーでデータアナリストとして3年弱働き、今年の初めにデータエンジニアへ異動したじゃっこです🔰……なんともう3四半期が経ちそうです。そろそろドメイン知識不足を言い訳にできなくなってきました😭
+最近、にわかにJevが流行っています。
+https://typesafe.ai/
+Jevは、長い文章を生成するためではなく、選択肢から一つを選ぶ、数値を付ける、といった意思決定に特化した小さなモデルです。Vercel AI Gatewayからも利用でき、入力$0.04 / 100万token、2026年9月25日までは出力無料。大量の分類やルーティングに向いていそうです。
+データ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/jackojacko05/articles/08df79d47f4219</guid>
+      <pubDate>Sun, 20 Sep 2026 12:52:36 +0000</pubDate>
     </item>
     <item>
-      <title>Jevを「分類器」ではなく、確率モデルの部品として見る</title>
-      <link>https://zenn.dev/cybernetics/articles/71ea975d935414</link>
-      <description>はじめに 最近、TypeSafe AIから公開されたJevについて考えている。 Jevを最初に見たときは、「LLMよりずっと軽くて速い分類器」という理解だった。自由に文章を書くモデルではなく、与えられた状態を見て、Choice、Score、Noulのような型付きの判断を返す。 たとえば、ある問い合わせが請求なのか不具合なのか、緊急度... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/cybernetics/articles/71ea975d935414</guid>
-      <pubDate>Sun, 20 Sep 2026 21:36:04 +0000</pubDate>
+      <title>OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言　「RSIはまだ起きていない」</title>
+      <link>https://www.itmedia.co.jp/news/article/2609/22/2000001670/</link>
+      <description>米OpenAIは9月21日（現地時間）、「Building standards for the next phase of AI」と題した公式ブログを公開し、再帰的自己改善（RSI）を含むフロンティアAIの国際的な技術標準を、米国が主導して各国と共同で策定すべきだと提言した。 同社は、AIが次世代AIの開発作業を担う割合が増えるにつれ、人間が関与していてもR... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/22/2000001670/</guid>
+      <pubDate>Tue, 22 Sep 2026 03:53:39 +0000</pubDate>
     </item>
     <item>
-      <title>かつて数学を学んでいたエンジニアがAIと数学について思うこと</title>
-      <link>https://zenn.dev/339/articles/8efd1f1baec355</link>
-      <description>数学における有名な賞であるフィールズ賞を受賞した人々が連名でAIの濫用についての懸念を表明している。私は個人としてこの内容を支持するが、しかし数学者たちとその学生など、いわゆる数学コミュニティが主題の一つとなっているため、「自分たちの都合で問題提起をしているだけじゃないか」という見方もできてしまう。そこで、数学者やコミュニティというよりは、数学自体の今後の発展や知的生産において、AIの濫用がどう影響を与え得るか？ということを説明したい。
-私は数学者ではないし、また数学者にもいろいろな考えの人がいると思うが、意見交換が行われるとよいと思っている。なお、私はシステム開発目的で毎月数十万円分ぐ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/339/articles/8efd1f1baec355</guid>
-      <pubDate>Mon, 14 Sep 2026 23:51:17 +0000</pubDate>
+      <title>AI ネイティブなデータ分析基盤を作った話</title>
+      <link>https://zenn.dev/pksha/articles/5a1dc6470019d6</link>
+      <description>はじめに
+PKSHA Technology で PKSHA VoiceAgent（以下 VoiceAgent）の SRE をしている三浦です。2026 年 2 月に入社しました。
+本記事は、データ分析基盤を構築した話です。データ分析基盤自体はもはや珍しいものでもありませんが、2026 年現在に相応しい手法と構成でできたのではないかと自負しています。
+VoiceAgent では、データ量の増加とともに分析環境が限界に近づいていました。PKSHA には Azure Databricks 製のデータ基盤が先にありますが、プロダクト特化の仕組みとして作られていたため、VoiceAgent 向... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pksha/articles/5a1dc6470019d6</guid>
+      <pubDate>Thu, 17 Sep 2026 07:11:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIエージェントに既存のアクセス制御は通用しない — 企業データを守るための4つの制御レイヤーとは</title>
+      <link>https://techfeed.io/entries/6ab1b9323e0b2437790aa5e5?from=rss</link>
+      <description>9月21日、Sean Michael Kernerが「How to control agentic AI access to enterprise data」と題した記事を公開した。ITおよびセキュリティ専門家の79%が、AIエージェントを含む非人間アイデンティティ（NHI）経由の攻撃への防御に自信がないという調査結果が示すように、AIエージェントのデータアクセス制御は多くの企業にとって未解決の問題だ。この記事では、エンタープライズ環境においてAIエージェントのデータアクセスをどう制御し、説明責任を確保するかについて詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ab1b9323e0b2437790aa5e5?from=rss</guid>
+      <pubDate>Mon, 21 Sep 2026 23:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIが演じる「政治専門家」が47チャンネル・755万再生 — ドイツ語圏に広がる偽コメンテーター動画ネットワークの実態</title>
+      <link>https://techfeed.io/entries/6ab1b9573e0b2437790aa614?from=rss</link>
+      <description>9月21日、Euronewsが「AI-generated 'experts' front German-language political video network」と題した記事を公開した。AIが生成した架空の「専門家」が政治解説を行うYouTubeチャンネルが、ドイツ語圏で47チャンネル・755万再生規模のネットワークを形成していたという調査報告だ。実在しない顔と声が「信頼できる政治コメンテーター」として視聴者に受け入れられている現実は、民主主義的な情報空間への新たな脅威として注目を集めている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ab1b9573e0b2437790aa614?from=rss</guid>
+      <pubDate>Mon, 21 Sep 2026 23:10:15 +0000</pubDate>
     </item>
     <item>
       <title>高速判断AI Jevのユースケースとオープン実装を雑にまとめる</title>
@@ -67,13 +87,6 @@ JevはTypeSafe AIが公開した「System One Model」の最初のモデルで�
       <pubDate>Fri, 18 Sep 2026 00:08:15 +0000</pubDate>
     </item>
     <item>
-      <title>「リアルな間違いをする合成学生」でAIチューターを訓練 — GPT-5.4を上回り、実学生なしで2年分の学習効果を再現へ</title>
-      <link>https://techfeed.io/entries/6ab066c73e0b2437790a33d5?from=rss</link>
-      <description>9月20日、The Decoderが「Simulated students that make realistic mistakes help AI tutors learn faster」と題した記事を公開した。MicrosoftとUniversity of Illinois Urbana-Champaign（UIUC）の研究者らが開発した「StudentSim」——リアルな間違いを再現する合成学生シミュレーターを使ってAIチューターを効率的に訓練する手法——の核心にある知見は、合成学生で訓練したチューターが実際に向上し、かつGPT-5.4を学生役に使うと逆効果になる、という点だ。問題の核心：AIチューターの改善がモデルの進化に追いつかないAIチューターを改善するには、実際の学生に使ってもらい、フィードバックを得る必要がある。だが研究者らが論文で指摘するように、多様な学生群を使った訓練は「法外にコストと時間がかかる」。その結果、AIチューターの改善ペースはAIモデル全体の進化に比べて遅れてきた。この問題に対し、研究チームが提案するのが学生のデジタルレプリカを使ったアプローチだ。システ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ab066c73e0b2437790a33d5?from=rss</guid>
-      <pubDate>Sun, 20 Sep 2026 23:05:43 +0000</pubDate>
-    </item>
-    <item>
       <title>1日の開発の流れをスキル化してみたら、想像以上に快適だった</title>
       <link>https://zenn.dev/tenkei/articles/9f8921926bb003</link>
       <description>概要
@@ -88,13 +101,6 @@ GithubのIssueを取る → AIに設計と実装を任せる → 別のAIにレ�
 Issueへの起票やタスク分解もAIを利用しているけど、それはこの記事の対象... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/tenkei/articles/9f8921926bb003</guid>
       <pubDate>Tue, 15 Sep 2026 09:15:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>「ライセンスを配っても仕事は変わらない」——Microsoft自社22万人のAI導入実践から生まれた44ページの組織変革プレイブック</title>
-      <link>https://techfeed.io/entries/6ab066ba3e0b2437790a33d2?from=rss</link>
-      <description>9月19日、Channel Insiderが「Microsoft's Frontier Playbook Pushes Process Redesign Over More AI Licenses」と題した記事を公開した。MicrosoftがAI変革の社内実践から得た知見をまとめた44ページの「Frontier Playbook」の内容と、その核心にある「ライセンス追加よりもプロセス再設計を優先せよ」という提言について詳しく紹介している。ツールを配っても仕事のやり方は変わらないMicrosoftは2025年9月17日、社内220,000人超の従業員を対象とした100件以上の社内プロジェクトから得た知見を44ページの「Becoming a Frontier Firm: Our Frontier Playbook」にまとめて公開した。「Frontier Firm（フロンティア・ファーム）」とは、AIを単なる効率化ツールとしてではなく、組織の意思決定や業務設計の中核に据えた企業像をMicrosoftが定義した概念だ。その主張は率直だ。AIツールへのアクセスを提供するだけでは、組織の働き方は変 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ab066ba3e0b2437790a33d2?from=rss</guid>
-      <pubDate>Sun, 20 Sep 2026 23:05:30 +0000</pubDate>
     </item>
     <item>
       <title>WebMCPを試してみた感想。フロントエンドの必須技術になりそうな予感。</title>
