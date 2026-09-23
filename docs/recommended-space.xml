@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 11:13:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:06:28 +0000</lastBuildDate>
     <item>
       <title>恒星の生涯最後に咲いた花　ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 3918」</title>
       <link>https://sorae.info/astronomy/20260918-ngc-3918.html</link>
@@ -30,6 +30,13 @@
       <pubDate>Sun, 20 Sep 2026 01:51:13 +0000</pubDate>
     </item>
     <item>
+      <title>2024年に形成された直径約222mの新しいクレーターを月で発見　衝突の痕跡は100km以上先まで</title>
+      <link>https://sorae.info/astronomy/20260923-mcgetchin-crater.html</link>
+      <description>こちらは、月で最近形成されたばかりのクレーター。NASA（アメリカ航空宇宙局）の月周回衛星「LRO（ルナー・リコネサンス・オービター）」に搭載されている光学観測装置「LROC」で撮影されました。 NASAによると、このク… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260923-mcgetchin-crater.html</guid>
+      <pubDate>Wed, 23 Sep 2026 01:27:06 +0000</pubDate>
+    </item>
+    <item>
       <title>衛星データでキャベツの出荷量を予測。広告や売り場と連動してフードロス削減へ【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/46938/</link>
       <description>JAXAと電通、JA嬬恋村は、衛星データなどからキャベツの出荷量や卸売価格を予測し、広告や店頭での販売促進につなげる市場実証を始めました。 (source: 宙畑)</description>
@@ -37,18 +44,18 @@
       <pubDate>Mon, 07 Sep 2026 12:29:21 +0000</pubDate>
     </item>
     <item>
-      <title>三菱電機、SWISSto12と覚書　デュアルユース静止通信衛星などで協業検討</title>
-      <link>https://sorae.info/biz/20260917-mitsubishi-electric-swissto12.html</link>
-      <description>三菱電機は2026年9月15日、スイスの宇宙技術企業であるSWISSto12（スイス・トゥ・トウェルブ）と、防衛・宇宙向け製品の開発・製造における戦略的協業の可能性を検討するための覚書を締結したと発表しました。 対象とな… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/biz/20260917-mitsubishi-electric-swissto12.html</guid>
-      <pubDate>Thu, 17 Sep 2026 02:33:39 +0000</pubDate>
-    </item>
-    <item>
       <title>【20社以上の出展が決定】9月26日（土）、宇宙業界特化のキャリアイベントで「転職者のリアル」が分かるトークセッションも</title>
       <link>https://sorabatake.jp/46842/</link>
       <description>2026年9月26日に開催される宇宙業界に特化したキャリアイベント『SPACETIDE Career Connect 2026 Summer』について、注目の2つのトークセッションについて紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46842/</guid>
       <pubDate>Fri, 04 Sep 2026 04:37:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>太陽の活動領域の出現をAIで予測　黒点が現れる前兆を探る新手法</title>
+      <link>https://sorae.info/astronomy/20260923-solar-ai-forecast.html</link>
+      <description>太陽の表面に黒点が現れる前、その兆しを捉えることはできるのでしょうか？ NASA（アメリカ航空宇宙局）は2026年8月14日、太陽の「活動領域」の出現を予測するAI（人工知能）モデルの研究成果を紹介しました。過去の観測デ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260923-solar-ai-forecast.html</guid>
+      <pubDate>Wed, 23 Sep 2026 07:07:28 +0000</pubDate>
     </item>
     <item>
       <title>遠隔地の鉄道や農地にも通信技術を提供へ。イギリスが衛星通信に関する16件のプロジェクトに1,300万ポンドを出資【宇宙ビジネスニュース】</title>
