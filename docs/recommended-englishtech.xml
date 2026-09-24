@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:23:03 +0000</lastBuildDate>
     <item>
-      <title>プレゼンテーション：エージェント向けAPI：MCP時代におけるAPIプログラムの再考</title>
-      <link>https://www.infoq.com/presentations/mcp-calm-api-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ジム・ゴフとアンドレア・ニクルセアは、モルガン・スタンレーがCALMとArchitecture as Codeを使用してAPIプログラムを最新化する方法について解説します。彼らは、モデルコンテキストプロトコル（MCP）とエージェント間（A2A）通信の統合、デプロイメントゲートによる自動ガバナンスの適用、そしてダウンタイムゼロのプラットフォームアップグレードの実行によって、エンタープライズAIとエージェントワークフローを安全に拡張する方法を実演します。 執筆：ジム・ゴフ、アンドレア・ニクルセア (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/mcp-calm-api-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 23 Sep 2026 11:00:00 +0000</pubDate>
+      <title>プレゼンテーション：モバイルフロントエンド向けLLMを用いた高速で魅力的なUXデザイン</title>
+      <link>https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Balakrishnan Ramdoss氏は、大規模な本番環境レベルのAI搭載対話型アプリを設計する方法について解説します。モデルの遅延を克服する方法、サーバー駆動型UIとBackend-for-Frontendパターンを活用してマルチモーダルインターフェースを動的にレンダリングする方法、UI選択のためのプロンプトを最適化する方法、そしてモバイルアプリケーション向けに低遅延でプライバシー重視のオンデバイスAIを統合する方法を説明します。Balakrishnan Ramdoss著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 24 Sep 2026 09:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

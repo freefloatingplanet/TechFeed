@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:06:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:23:02 +0000</lastBuildDate>
     <item>
-      <title>恒星の生涯最後に咲いた花　ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 3918」</title>
-      <link>https://sorae.info/astronomy/20260918-ngc-3918.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡が観測した惑星状星雲「NGC 3918」。ケンタウルス座の方向、地球から約4900光年先にあります。 太陽のような比較的軽い恒星（質量は太陽の8倍以下）は、晩年を迎えると主系列星から赤色巨星に… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260918-ngc-3918.html</guid>
-      <pubDate>Sun, 20 Sep 2026 08:07:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>“第2の月” か？　アポロ13号関連部品か？　小天体「Sar2901」に注目が集まる</title>
-      <link>https://sorae.info/astronomy/20260920-sar2901.html</link>
-      <description>地球の自然衛星は月のみですが、小惑星が一時的に地球の周回軌道に乗って “第2の月” となるケースが稀に存在します。観測史上5例しかないため、このような天体の発見例は注目を集めます。一方で、このような天体は天然物ではなく、… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260920-sar2901.html</guid>
-      <pubDate>Sun, 20 Sep 2026 11:19:55 +0000</pubDate>
+      <title>楕円軌道のホットジュピター「TOI-1355 b」を発見　2033年半ば以降は観測できなくなる？</title>
+      <link>https://sorae.info/astronomy/20260924-toi-1355-b.html</link>
+      <description>東京大学大学院総合文化研究科の渡辺紀治氏を筆頭とする研究チームは、太陽系から約800光年離れた恒星を公転する「ホットジュピター」（高温の巨大ガス惑星）を発見したとする研究成果を発表しました。 この惑星は地球から見て恒星の… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260924-toi-1355-b.html</guid>
+      <pubDate>Thu, 24 Sep 2026 02:11:05 +0000</pubDate>
     </item>
     <item>
       <title>ロシアが「ソユーズ2.1b」ロケットを打ち上げ　国防省の軍事衛星を軌道投入</title>
@@ -58,11 +51,25 @@
       <pubDate>Wed, 23 Sep 2026 07:07:28 +0000</pubDate>
     </item>
     <item>
+      <title>【デモ体験レポ有り】現地に行かず、地盤沈下の兆候を探す。無料で試せる「NEOSAP」_PR</title>
+      <link>https://sorabatake.jp/46893/</link>
+      <description>2025年にリリースされたNEC地球観測衛星画像解析サービスプラットフォーム「NEC Earth Observation Satellites’ image Analysis Services Platform（略称：NEOSAP）」について、その特徴、顧客との対話を重ねた開発の舞台裏、今後目指す姿を伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46893/</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:17 +0000</pubDate>
+    </item>
+    <item>
       <title>遠隔地の鉄道や農地にも通信技術を提供へ。イギリスが衛星通信に関する16件のプロジェクトに1,300万ポンドを出資【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/46923/</link>
       <description>2026年8月18日、UK Space Agency（イギリス宇宙庁）は、衛星通信の16件のプロジェクトに資金提供すると発表しました。総額は1,300万ポンド（約28億円）です。16件のプロジェクトはESA（欧州宇宙機関）の通信技術開発プログラム「ARTES」の一部として実施され、身近な用途から深宇宙通信までテーマが多岐にわたります。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46923/</guid>
       <pubDate>Sun, 06 Sep 2026 23:02:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>LiveEO、光学とSARの画像を一つのAIで扱う視覚基盤モデルの実現に向け、ドイツ政府から助成獲得【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/47004/</link>
+      <description>2026年8月4日、LiveEOはドイツ政府の宇宙開発プログラムから助成を受けたと発表しました。この助成を活用し、光学衛星とSAR衛星という異なる衛星のデータを、一つのAIで扱う視覚基盤モデルが実現可能かどうかの調査に取り組みます。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/47004/</guid>
+      <pubDate>Wed, 23 Sep 2026 23:02:02 +0000</pubDate>
     </item>
     <item>
       <title>「宇宙業界は、地上の経験を必要としている」通信・電力インフラ業界から宇宙交通管理の基盤を作るPMに転身して2カ月の手応え</title>
