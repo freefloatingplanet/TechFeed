@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Sep 2026 11:23:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:28:54 +0000</lastBuildDate>
     <item>
-      <title>プレゼンテーション：モバイルフロントエンド向けLLMを用いた高速で魅力的なUXデザイン</title>
-      <link>https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Balakrishnan Ramdoss氏は、大規模な本番環境レベルのAI搭載対話型アプリを設計する方法について解説します。モデルの遅延を克服する方法、サーバー駆動型UIとBackend-for-Frontendパターンを活用してマルチモーダルインターフェースを動的にレンダリングする方法、UI選択のためのプロンプトを最適化する方法、そしてモバイルアプリケーション向けに低遅延でプライバシー重視のオンデバイスAIを統合する方法を説明します。Balakrishnan Ramdoss著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 24 Sep 2026 09:24:00 +0000</pubDate>
+      <title>プレゼンテーション：Spritely：インターネットの未来のためのインフラストラクチャ</title>
+      <link>https://www.infoq.com/presentations/spritely-decentralized-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Christine Lemmer-Webber氏とDavid Thompson氏は、Spritelyのアーキテクチャが分散化における主要な課題をどのように解決しているかを解説します。彼らは、Goblinsを用いた能力ベースのアクセス制御、OCapNを介したアクターモデル間の通信、そしてペットネームシステムに関する知見を共有します。SpritelyがScheme、WebAssembly（Hoot）、そしてローカルファーストのCRDTを活用して、中央サーバーなしで安全なピアツーピアアプリケーションを構築する方法をご覧ください。Christine Lemmer-Webber氏、David Thompson氏著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/spritely-decentralized-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 25 Sep 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
