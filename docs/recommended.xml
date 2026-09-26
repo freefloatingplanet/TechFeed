@@ -7,85 +7,77 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 11:28:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 11:03:51 +0000</lastBuildDate>
     <item>
-      <title>AIを信頼していないのに、全部話してしまう — 66%がチャットボットに機密情報を打ち明けながらも、AI企業を信頼すると答えたのは2割未満</title>
-      <link>https://techfeed.io/entries/6ab5aca93e0b2437790c86b5?from=rss</link>
-      <description>9月24日、Protonが「Proton survey: People don't trust AI, but they tell it everything」と題した記事を公開した。AIチャットボット利用者の大多数が機密情報を共有しているにもかかわらず、AI企業への信頼は著しく低いという調査結果をまとめたものだ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ab5aca93e0b2437790c86b5?from=rss</guid>
-      <pubDate>Thu, 24 Sep 2026 23:05:13 +0000</pubDate>
+      <title>「大きすぎて潰せないAI」は起きるか — 米連銀総裁が2008年金融危機と同じ構造をAIエコシステムに見出す</title>
+      <link>https://techfeed.io/entries/6ab6ff813e0b2437790d5adb?from=rss</link>
+      <description>9月26日、Inside AI Newsが「Fed's Schmid: Need to understand if AI "ecosystem" getting too big to fail」と題した記事を公開した。この記事では、米カンザスシティ連邦準備銀行総裁のジェフ・シュミッド氏が、AIエコシステムの「大きすぎて潰せない」リスクを警告し、金融当局によるシステミックリスク評価の必要性を訴えたことが詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ab6ff813e0b2437790d5adb?from=rss</guid>
+      <pubDate>Fri, 25 Sep 2026 23:10:57 +0000</pubDate>
     </item>
     <item>
-      <title>11年生本番データ飛ばす</title>
-      <link>https://zenn.dev/ficilcom/articles/prod_db_reset_incident</link>
+      <title>GeminiのAIエージェントに「顔」が付いた — 待ち時間中も話し続ける非同期処理が、カスタマーサポートの体験を変えるか</title>
+      <link>https://techfeed.io/entries/6ab6fee23e0b2437790d5aba?from=rss</link>
+      <description>9月25日、RuntimeWireが「Google adds avatars to Gemini agents, with Cox building Autotrader's car-shopping assistant」と題した記事を公開した。GoogleがGemini 3.8 LiveにアバターUI機能「Live Avatar」を追加し、エンタープライズ向けに一般提供を開始したことを伝える内容だ。音声AIエージェントに「顔」を持たせることが、カスタマーサポートの体験設計にどう影響するかは、エンタープライズ開発者にとって今まさに判断が求められているテーマである。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ab6fee23e0b2437790d5aba?from=rss</guid>
+      <pubDate>Fri, 25 Sep 2026 23:08:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIで「初日から動くアプリ」が作れる時代、スタートアップ教育の定番「MVP」はもう機能しない — 「顧客開発の父」Steve Blankがカリキュラム刷新を予告</title>
+      <link>https://techfeed.io/entries/6ab6ff1d3e0b2437790d5acc?from=rss</link>
+      <description>9月25日、Steve Blankが「Steve Blank AI Killed the MVP – Long Live the IUP」と題した記事を公開した。この記事では、AIの台頭によってスタートアップ教育の根幹を担ってきたMVP（Minimum Viable Product）が機能不全に陥り、その代替概念としてIUP（Initial Untested Product）を提唱するに至った経緯について詳しく述べられている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ab6ff1d3e0b2437790d5acc?from=rss</guid>
+      <pubDate>Fri, 25 Sep 2026 23:09:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jevにゲームをやらせるな！LLMを蒸留してみよう！</title>
+      <link>https://zenn.dev/nwn/articles/e49154653ecea9</link>
       <description>はじめに
-早いもので、エンジニア歴 11 年目になりました。これまでの人生で、本番データを飛ばしたことは一度もありませんでした。
-それが、シルバーウィーク明けの初日に起きました。
-連休明けの記憶なんて当てにならないということです。連休前に何をして、どの URL を触っていたかなんて、正直ほぼ覚えていませんでした。失敗談と、これから入れる対策の備忘録です。
-使っているのはだいたいこれです。
-
-Turborepo
-Prisma
-Neon（PostgreSQL）
-
-
- 何が起きたか
-シルバーウィーク明け、ローカルの DB を一度きれいにしてから作業を再開しようとしました。
-
-
-prisma... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ficilcom/articles/prod_db_reset_incident</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:05 +0000</pubDate>
+Jevのデモとして公式ではDOOMをプレイさせるデモがありました。
+100ms前後のレイテンシでレスポンスを返せるため、リアルタイム制御に使えるという点が強調されています。
+https://x.com/CompleteSkeptic/status/2099925687465570372
+またXをみているとJevにゲームをプレイさせた投稿を多く見かけました。
+「BERTでよい」論などあると思いますが、特にゲームにおいては入力が自然言語でない以上、簡単に決定木などの古典的な手法で置き換えが可能であり、Jevより性能のよいLLMを蒸留することによって高速、安価、高精度なモデルを簡... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nwn/articles/e49154653ecea9</guid>
+      <pubDate>Fri, 25 Sep 2026 07:27:13 +0000</pubDate>
     </item>
     <item>
-      <title>API ManagementのAIゲートウェイで飲み放題の居酒屋を作ってみた</title>
-      <link>https://zenn.dev/microsoft/articles/4ab393616e91ec</link>
-      <description>はじめに
-Azure API Managementは、組織の共通基盤として導入されることの多い製品です。普段アプリケーションを書く立場だと、なかなか直接触る機会がないかもしれません。
+      <title>無料の技術イベントは、無料でつくられていない</title>
+      <link>https://zenn.dev/sun_asterisk/articles/free-event-not-free</link>
+      <description>執筆背景
+今回の執筆のきっかけは、技術イベントにおいて無料の飲食だけを目的に参加する人がいるとSNS上で話題になっていたことに始まります。
+（調べてみると昔からこの話題は繰り返し出ているようですが）
+いち参加者として技術イベントやカンファレンスに足を運んでいた頃の自分なら「そういう人もいるんだなー」くらいに流していたと思います。
+ただ、今は少し見え方が違います。
+私は普段エンジニアとして働きながらDevRelの活動にも少し携わっており、イベントの運営側に回る機会が増えています。
+そこで気づいたのが、1つのイベントには参加者からは見えづらい多くの労力が注がれているということです。
+その... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sun_asterisk/articles/free-event-not-free</guid>
+      <pubDate>Fri, 25 Sep 2026 04:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>【図解】Unity×Computeシェーダーで流体シミュレーション（Stable Fluids）を作った</title>
+      <link>https://zenn.dev/haharman/articles/310d80dc737c2b</link>
+      <description>完成品です
 
-さまざまなAPIへのアクセスを管理するゲートウェイとしての役割を持つPaaSなのですが、説明を読んだだけでは、具体的に何ができるかつかみにくいところがあります。
-さらに最近は、API ManagementをAIゲートウェイとして使う構成も見かけるようになりました。
+ はじめに
 
- AIゲートウェイとは
-AIアプリケーションや開発ツールと、AIモデルやMCPサーバーの間に入り、アクセスや利用量をまとめて管理する仕組... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/4ab393616e91ec</guid>
-      <pubDate>Thu, 24 Sep 2026 09:49:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>MetaがイヤーバッドなしでAIグラスに音楽・通話機能を統合 — 43gで12時間駆動の「Ray-Ban Meta Audio」349ドルから</title>
-      <link>https://techfeed.io/entries/6ab5accf3e0b2437790c86ce?from=rss</link>
-      <description>9月23日、Metaが「Introducing Ray-Ban Meta Audio and More AI Glasses Styles」と題した記事を公開した。Connect 2026で発表された「Ray-Ban Meta Audio」は、イヤーバッドを別途持ち歩くことなく音楽・通話・AIアシスタントをグラス1本に統合した初のオーディオ特化型AIグラスだ。重量はわずか43グラム、バッテリーは最大12時間という終日装着を前提にした設計で、スマートグラスの実用性を大きく押し上げる可能性がある。同時にRay-Ban Metaの第3世代モデルおよびMeta Glassesラインの大幅拡充も発表された。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ab5accf3e0b2437790c86ce?from=rss</guid>
-      <pubDate>Thu, 24 Sep 2026 23:05:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS DevOps Agent の堅牢性</title>
-      <link>https://zenn.dev/cscloud_blog/articles/9968d12b332c03</link>
-      <description>どうもセキュリティエンジニアの西川です。シルバーウィーク楽しみましたか？私は今回ご紹介する AWS DevOps Agent のセキュリティについてほとんどの時間を使いました。（汗）ということで、ぜひご覧ください（笑）
-と言いつつも、記事を読む前に　Elevated Role や Directed Actions については事前に調べていただいた方がよいです。最近出たものなので、特徴を理解していると話が入ってきやすいかと思います。Elevated Role の説明を合わせて書こうかと思ったのですが、その解説だけで一つの記事になりそうだったので諦めました。。
-参考: https://doc... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/cscloud_blog/articles/9968d12b332c03</guid>
-      <pubDate>Thu, 24 Sep 2026 00:36:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Codeによる依存追加・更新に「調べてからユーザに聞いて」を挟むHookの紹介</title>
-      <link>https://zenn.dev/sprix_it/articles/f3ef77c1d46554</link>
-      <description>背景・目的
-Claude Codeなどで開発していると、こちらから依存の追加を指示していなくても、新しいライブラリを入れて実装を進めようとすることがあります。
-サプライチェーン攻撃の話も最近はよく見かけるので、何を入れるのか確認せずに任せるのは少し怖いなと思っていました。
-以前の記事で書いた通り、私は実装をかなり自動で回しています。
-https://zenn.dev/sprix_it/articles/db685b8fd6bffe
-ただ、その中でも、外部のパッケージを追加・更新するかどうかは、自分で判断したいと思っています。
-そのため、依存を追加・更新する前に、調査と人間の確認を挟む... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sprix_it/articles/f3ef77c1d46554</guid>
-      <pubDate>Thu, 24 Sep 2026 13:43:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>InstagramとFacebookに投稿された偽広告の責任をMetaが負うとの判決をドイツの裁判所が下す、偽広告コンテンツの削除と損害賠償の支払いが命じられる</title>
-      <link>https://gigazine.net/news/20260925-meta-fake-ads/</link>
-      <description>Metaは年間総収益の約10％を詐欺広告から得ていたと報じられるなど、InstagramやFacebookにおいて詐欺的な広告がまん延していることが問題視されています。ドイツの金融ポータルサイトが自身の商標を無断で使用した広告についてMetaを提訴した結果、ドイツの裁判所は「プラットフォームに第三者が投稿した偽の広告につい... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20260925-meta-fake-ads/</guid>
-      <pubDate>Fri, 25 Sep 2026 09:16:46 +0000</pubDate>
+StableFluidsとは、「安定した流体シミュレーション」です。dt（1フレームに進める時間）を大きくしてもバグが発生しないため、ゲームやシミュレーションの分野で幅広く応用されています。
+使用例
+
+Fluidを体験できる代表的なモバイルアプリ「Fluid Simulation」🔗Android 🔗iOS
+
+現実のFluidを題材にしたMV 🔗YouTube
+
+
+
+この記事ではUnityでStableFluidsを用いて、インクが流れる表現を作ります！
+
+!
+技術的に新しい点はないと思います、、。
+アルゴリズムの図解などで少しでも有益な記事になるよう頑張り... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/haharman/articles/310d80dc737c2b</guid>
+      <pubDate>Fri, 25 Sep 2026 14:03:38 +0000</pubDate>
     </item>
     <item>
       <title>age40 - 30代でやってよかったこと</title>
@@ -110,11 +102,30 @@ AIで作れる量が増えるほど、「何を、なぜ作るか」を決める
       <pubDate>Thu, 24 Sep 2026 07:58:17 +0000</pubDate>
     </item>
     <item>
-      <title>4つのAIが多数決で「次に何を盗むか」を決めるマルウェアが登場 — 攻撃者が寝ている間も5〜15分おきに動き続ける</title>
-      <link>https://techfeed.io/entries/6ab5acc43e0b2437790c86c7?from=rss</link>
-      <description>9月24日、Pierluigi Paganiniが「CLOSEDQUORUM, the malware that asks four AI models what to do next」と題した記事を公開した。この記事では、4つの商用AIモデルが投票で次の攻撃行動を決定する自律型マルウェア「CLOSEDQUORUM」をCisco Talosが発見したことについて詳しく紹介されている。マルウェアがAIを「補助ツール」として使うのではなく、意思決定そのものをAIに委ねる構造は、これまでのサイバー攻撃と一線を画す。攻撃チェーンの一フェーズ丸ごとから人間を切り離すこの設計は、セキュリティ防御の前提を根底から揺さぶるものだ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ab5acc43e0b2437790c86c7?from=rss</guid>
-      <pubDate>Thu, 24 Sep 2026 23:05:40 +0000</pubDate>
+      <title>文章を返さないAI「Jev」を試してみた ── 社内問い合わせのエスカレーション先は判定できるか</title>
+      <link>https://zenn.dev/yesodco/articles/yesod-jev-typesafe-inquiry-triage</link>
+      <description>こんにちは、株式会社イエソドでバックエンドエンジニアをしているik-fib（@ik11235）です。
+
+ はじめに
+先日、TypeSafe AIからJevが公開されました。Jevは「System One Model」と名乗っていて、LLMとは返すものが違います。
+渡したテキストについて、こちらが型付きで用意した問いに、確率やスコアだけを返します。返ってくるのは0.93という数字であって、「〜と思われます」という文章ではありません。
+そのためJev単体では何も起こりません。判断の材料はモデルに出させ、それを受け取って「ではXXをする」と決めるのは、呼び出す側のコードの仕事になります。
+
+ ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yesodco/articles/yesod-jev-typesafe-inquiry-triage</guid>
+      <pubDate>Fri, 25 Sep 2026 02:18:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIに書かせても速くならないのは、AIを「手足」として使っているから。人が押さえるべき5つの判断ポイントと半自動ループの作り方</title>
+      <link>https://zenn.dev/dotdtech_blog/articles/65d51bc72d7ee9</link>
+      <description>はじめに
+AI にコードを書かせているのに、開発が速くならない。この感覚を持っている人は多いと思います。書かせるのは一瞬なのに、確認と手戻りで1日が終わる。
+同じ時期に、「ループエンジニアリング」という言葉を見かけるようになりました。AI エージェントに計画 → 実装 → 検証 → 修正のループを繰り返させ、人はコードを書く側から、ループと判断点を設計する側に回る考え方です。うまく回れば、人が付きっきりで進めなくても開発が前に進みます。
+魅力的な話なのですが、いきなり「ループを回す」と言われても、実際にやろうとすると難しい部分が多いと思います。
+
+途中で AI が仕様を勝手に解釈して... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dotdtech_blog/articles/65d51bc72d7ee9</guid>
+      <pubDate>Fri, 25 Sep 2026 09:35:29 +0000</pubDate>
     </item>
     <item>
       <title>競馬の論文 100 本を Jev で仕分けて、LLM と速度とコストを比べた</title>
