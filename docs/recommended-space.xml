@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 11:03:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 11:42:47 +0000</lastBuildDate>
     <item>
-      <title>楕円軌道のホットジュピター「TOI-1355 b」を発見　2033年半ば以降は観測できなくなる？</title>
-      <link>https://sorae.info/astronomy/20260924-toi-1355-b.html</link>
-      <description>東京大学大学院総合文化研究科の渡辺紀治氏を筆頭とする研究チームは、太陽系から約800光年離れた恒星を公転する「ホットジュピター」（高温の巨大ガス惑星）を発見したとする研究成果を発表しました。 この惑星は地球から見て恒星の… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260924-toi-1355-b.html</guid>
-      <pubDate>Thu, 24 Sep 2026 02:11:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ロシアが「ソユーズ2.1b」ロケットを打ち上げ　国防省の軍事衛星を軌道投入</title>
-      <link>https://sorae.info/ssn/20260920-soyuz-2-1b-military-satellite.html</link>
-      <description>ロシア国防省は、ロシア航空宇宙軍の宇宙部隊が日本時間2026年9月18日、プレセツク宇宙基地から「ソユーズ2.1b」ロケットを打ち上げたと発表しました。搭載された軍事衛星は、所定の軌道へ投入されました。 打ち上げに関する… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20260920-soyuz-2-1b-military-satellite.html</guid>
-      <pubDate>Sun, 20 Sep 2026 01:51:13 +0000</pubDate>
+      <title>天の川銀河で「マイクロブレーザー」の有力候補を発見　超高エネルギー宇宙線の発生源の可能性も？</title>
+      <link>https://sorae.info/astronomy/20260927-microblazer-candidate.html</link>
+      <description>遠方の宇宙で知られる「ブレーザー」の小型版が、天の川銀河にも存在するかもしれません。ハエン大学のJosep Martí氏を筆頭とする研究チームは、地球に対してジェットをほぼ真っ直ぐ向けているとみられる連星系「IRAS 1… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260927-microblazer-candidate.html</guid>
+      <pubDate>Sun, 27 Sep 2026 00:08:36 +0000</pubDate>
     </item>
     <item>
       <title>2024年に形成された直径約222mの新しいクレーターを月で発見　衝突の痕跡は100km以上先まで</title>
@@ -37,6 +30,13 @@
       <pubDate>Mon, 07 Sep 2026 12:29:21 +0000</pubDate>
     </item>
     <item>
+      <title>幻想的な光をまとったレンズ状銀河　ハッブル宇宙望遠鏡が観測した「NGC 6684」</title>
+      <link>https://sorae.info/astronomy/20260926-ngc-6684.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡が観測した、くじゃく座のレンズ状銀河「NGC 6684」です。 淡い楕円形をした明るい中心部、その周囲を同じように淡い光のリングが取り巻いています。画像に向かって中心部の上下にはリングとの間に… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260926-ngc-6684.html</guid>
+      <pubDate>Sat, 26 Sep 2026 12:34:57 +0000</pubDate>
+    </item>
+    <item>
       <title>太陽の活動領域の出現をAIで予測　黒点が現れる前兆を探る新手法</title>
       <link>https://sorae.info/astronomy/20260923-solar-ai-forecast.html</link>
       <description>太陽の表面に黒点が現れる前、その兆しを捉えることはできるのでしょうか？ NASA（アメリカ航空宇宙局）は2026年8月14日、太陽の「活動領域」の出現を予測するAI（人工知能）モデルの研究成果を紹介しました。過去の観測デ… (source: sorae 宇宙へのポータルサイト)</description>
@@ -44,18 +44,18 @@
       <pubDate>Wed, 23 Sep 2026 07:07:28 +0000</pubDate>
     </item>
     <item>
-      <title>【20社以上の出展が決定】9月26日（土）、宇宙業界特化のキャリアイベントで「転職者のリアル」が分かるトークセッションも</title>
-      <link>https://sorabatake.jp/46842/</link>
-      <description>2026年9月26日に開催される宇宙業界に特化したキャリアイベント『SPACETIDE Career Connect 2026 Summer』について、注目の2つのトークセッションについて紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46842/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:37:53 +0000</pubDate>
-    </item>
-    <item>
       <title>【デモ体験レポ有り】現地に行かず、地盤沈下の兆候を探す。無料で試せる「NEOSAP」_PR</title>
       <link>https://sorabatake.jp/46893/</link>
       <description>2025年にリリースされたNEC地球観測衛星画像解析サービスプラットフォーム「NEC Earth Observation Satellites’ image Analysis Services Platform（略称：NEOSAP）」について、その特徴、顧客との対話を重ねた開発の舞台裏、今後目指す姿を伺いました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46893/</guid>
       <pubDate>Thu, 24 Sep 2026 00:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>【20社以上の出展が決定】9月26日（土）、宇宙業界特化のキャリアイベントで「転職者のリアル」が分かるトークセッションも</title>
+      <link>https://sorabatake.jp/46842/</link>
+      <description>2026年9月26日に開催される宇宙業界に特化したキャリアイベント『SPACETIDE Career Connect 2026 Summer』について、注目の2つのトークセッションについて紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46842/</guid>
+      <pubDate>Fri, 04 Sep 2026 04:37:53 +0000</pubDate>
     </item>
     <item>
       <title>遠隔地の鉄道や農地にも通信技術を提供へ。イギリスが衛星通信に関する16件のプロジェクトに1,300万ポンドを出資【宇宙ビジネスニュース】</title>

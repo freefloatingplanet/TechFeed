@@ -7,27 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 11:03:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 11:42:42 +0000</lastBuildDate>
     <item>
-      <title>「大きすぎて潰せないAI」は起きるか — 米連銀総裁が2008年金融危機と同じ構造をAIエコシステムに見出す</title>
-      <link>https://techfeed.io/entries/6ab6ff813e0b2437790d5adb?from=rss</link>
-      <description>9月26日、Inside AI Newsが「Fed's Schmid: Need to understand if AI "ecosystem" getting too big to fail」と題した記事を公開した。この記事では、米カンザスシティ連邦準備銀行総裁のジェフ・シュミッド氏が、AIエコシステムの「大きすぎて潰せない」リスクを警告し、金融当局によるシステミックリスク評価の必要性を訴えたことが詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ab6ff813e0b2437790d5adb?from=rss</guid>
-      <pubDate>Fri, 25 Sep 2026 23:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>GeminiのAIエージェントに「顔」が付いた — 待ち時間中も話し続ける非同期処理が、カスタマーサポートの体験を変えるか</title>
-      <link>https://techfeed.io/entries/6ab6fee23e0b2437790d5aba?from=rss</link>
-      <description>9月25日、RuntimeWireが「Google adds avatars to Gemini agents, with Cox building Autotrader's car-shopping assistant」と題した記事を公開した。GoogleがGemini 3.8 LiveにアバターUI機能「Live Avatar」を追加し、エンタープライズ向けに一般提供を開始したことを伝える内容だ。音声AIエージェントに「顔」を持たせることが、カスタマーサポートの体験設計にどう影響するかは、エンタープライズ開発者にとって今まさに判断が求められているテーマである。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ab6fee23e0b2437790d5aba?from=rss</guid>
-      <pubDate>Fri, 25 Sep 2026 23:08:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIで「初日から動くアプリ」が作れる時代、スタートアップ教育の定番「MVP」はもう機能しない — 「顧客開発の父」Steve Blankがカリキュラム刷新を予告</title>
-      <link>https://techfeed.io/entries/6ab6ff1d3e0b2437790d5acc?from=rss</link>
-      <description>9月25日、Steve Blankが「Steve Blank AI Killed the MVP – Long Live the IUP」と題した記事を公開した。この記事では、AIの台頭によってスタートアップ教育の根幹を担ってきたMVP（Minimum Viable Product）が機能不全に陥り、その代替概念としてIUP（Initial Untested Product）を提唱するに至った経緯について詳しく述べられている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ab6ff1d3e0b2437790d5acc?from=rss</guid>
-      <pubDate>Fri, 25 Sep 2026 23:09:17 +0000</pubDate>
+      <title>11年生本番データ飛ばす</title>
+      <link>https://zenn.dev/ficilcom/articles/prod_db_reset_incident</link>
+      <description>はじめに
+早いもので、エンジニア歴 11 年目になりました。これまでの人生で、本番データを飛ばしたことは一度もありませんでした。
+それが、シルバーウィーク明けの初日に起きました。
+連休明けの記憶なんて当てにならないということです。連休前に何をして、どの URL を触っていたかなんて、正直ほぼ覚えていませんでした。失敗談と、これから入れる対策の備忘録です。
+使っているのはだいたいこれです。
+
+Turborepo
+Prisma
+Neon（PostgreSQL）
+
+
+ 何が起きたか
+シルバーウィーク明け、ローカルの DB を一度きれいにしてから作業を再開しようとしました。
+
+
+prisma... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ficilcom/articles/prod_db_reset_incident</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:05 +0000</pubDate>
     </item>
     <item>
       <title>Jevにゲームをやらせるな！LLMを蒸留してみよう！</title>
@@ -42,42 +43,18 @@ https://x.com/CompleteSkeptic/status/2099925687465570372
       <pubDate>Fri, 25 Sep 2026 07:27:13 +0000</pubDate>
     </item>
     <item>
-      <title>無料の技術イベントは、無料でつくられていない</title>
-      <link>https://zenn.dev/sun_asterisk/articles/free-event-not-free</link>
-      <description>執筆背景
-今回の執筆のきっかけは、技術イベントにおいて無料の飲食だけを目的に参加する人がいるとSNS上で話題になっていたことに始まります。
-（調べてみると昔からこの話題は繰り返し出ているようですが）
-いち参加者として技術イベントやカンファレンスに足を運んでいた頃の自分なら「そういう人もいるんだなー」くらいに流していたと思います。
-ただ、今は少し見え方が違います。
-私は普段エンジニアとして働きながらDevRelの活動にも少し携わっており、イベントの運営側に回る機会が増えています。
-そこで気づいたのが、1つのイベントには参加者からは見えづらい多くの労力が注がれているということです。
-その... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sun_asterisk/articles/free-event-not-free</guid>
-      <pubDate>Fri, 25 Sep 2026 04:47:50 +0000</pubDate>
+      <title>世界初のAI規制法「EU AI法」、施行から約1年で執行の遅れが露呈 — EU議会有力議員が欧州委員会を公然批判</title>
+      <link>https://techfeed.io/entries/6ab84f933e0b2437790dcac8?from=rss</link>
+      <description>9月25日、Politicoが「Von der Leyen ally slams EU Commission's AI response」と題した記事を公開した。EU議会の保守系有力議員が、EU委員会のAI法執行の遅さと不十分さを公然と批判したことを伝える内容だ。世界初の包括的AI規制として注目を集めてきたEU AI法（EU AI Act）だが、その執行体制をめぐる内部からの異論が表面化した。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ab84f933e0b2437790dcac8?from=rss</guid>
+      <pubDate>Sat, 26 Sep 2026 23:04:51 +0000</pubDate>
     </item>
     <item>
-      <title>【図解】Unity×Computeシェーダーで流体シミュレーション（Stable Fluids）を作った</title>
-      <link>https://zenn.dev/haharman/articles/310d80dc737c2b</link>
-      <description>完成品です
-
- はじめに
-
-StableFluidsとは、「安定した流体シミュレーション」です。dt（1フレームに進める時間）を大きくしてもバグが発生しないため、ゲームやシミュレーションの分野で幅広く応用されています。
-使用例
-
-Fluidを体験できる代表的なモバイルアプリ「Fluid Simulation」🔗Android 🔗iOS
-
-現実のFluidを題材にしたMV 🔗YouTube
-
-
-
-この記事ではUnityでStableFluidsを用いて、インクが流れる表現を作ります！
-
-!
-技術的に新しい点はないと思います、、。
-アルゴリズムの図解などで少しでも有益な記事になるよう頑張り... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/haharman/articles/310d80dc737c2b</guid>
-      <pubDate>Fri, 25 Sep 2026 14:03:38 +0000</pubDate>
+      <title>AIエージェントが途中で止まったとき「会話の記憶」と「作業環境の復元」は別物 — PulumiがKopiaでワークスペーススナップショットを実現した理由</title>
+      <link>https://techfeed.io/entries/6ab84f603e0b2437790dca93?from=rss</link>
+      <description>9月26日、Pulumiが「AI agents need continuity, not just context」と題した記事を公開した。この記事では、AIエージェントが長時間タスクを実行する際に「コンテキストの復元」だけでなく「ワークスペースそのものの継続性」が必要であるという問題と、PulumiがオープンソースのバックアップツールKopiaを用いてどのように解決したかについて詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ab84f603e0b2437790dca93?from=rss</guid>
+      <pubDate>Sat, 26 Sep 2026 23:04:00 +0000</pubDate>
     </item>
     <item>
       <title>age40 - 30代でやってよかったこと</title>
@@ -100,6 +77,26 @@ AIで作れる量が増えるほど、「何を、なぜ作るか」を決める
 30代前半までは、エンジニアの仕事... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/dress_code/articles/2026-09-24_age-40</guid>
       <pubDate>Thu, 24 Sep 2026 07:58:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>人工知能と小説新人賞審査</title>
+      <link>https://zenn.dev/enjoetoh/articles/ai-as-literary-judge</link>
+      <description>「第9回ゲンロンSF新人賞」候補作短評余禄
+
+ ■ＡＩ……
+2026年現在において大きな話題として各分野におけるＡＩ利用がありますが、それは創作業界においても同じです。
+　自分としてはとりあえず、「ＡＩにも小説は書ける」という人は、「自分がどんな作品を小説と考えているのか、具体的なリストを挙げよ、話はそれからだ」という気持ちですが、それはそれとします。
+昨年末あたりから、新人賞への投稿作の倍増が話題になるようになってきました。２倍になったものは４倍になるだろうし、８倍になっていくと思われます。
+どうしよう、という話ではなく、書き手が人工知能を使うなら、「選ぶ側も人工知能を使っていくしかな... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/enjoetoh/articles/ai-as-literary-judge</guid>
+      <pubDate>Sat, 26 Sep 2026 06:53:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>JetBrainsが「AIエージェント管理」の新製品ファミリー「Air」を発表 — Claude・Copilot・Codexを一つのIDEで横断管理、特定ベンダーへのロックインを否定</title>
+      <link>https://techfeed.io/entries/6ab84f873e0b2437790dcab7?from=rss</link>
+      <description>9月26日、php-net.proが「JetBrains Air brings AI agents to PhpStorm」と題した記事を公開した。JetBrainsのCEOであるKirill Skrygánが「Junieの利用を強制しない。どのモデルプロバイダーが四半期ごとのランキングで上位になるかに、われわれの戦略は依存していない」とXで明言したことが注目を集めている。その背景にあるのが、同社が発表した新製品ファミリー「JetBrains Air」だ。AIコーディングエージェントを統合・管理するこの製品群は、PhpStormをはじめとするJetBrains全IDEへの展開を予定している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ab84f873e0b2437790dcab7?from=rss</guid>
+      <pubDate>Sat, 26 Sep 2026 23:04:39 +0000</pubDate>
     </item>
     <item>
       <title>文章を返さないAI「Jev」を試してみた ── 社内問い合わせのエスカレーション先は判定できるか</title>
