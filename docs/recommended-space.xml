@@ -7,41 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Sep 2026 11:42:47 +0000</lastBuildDate>
-    <item>
-      <title>天の川銀河で「マイクロブレーザー」の有力候補を発見　超高エネルギー宇宙線の発生源の可能性も？</title>
-      <link>https://sorae.info/astronomy/20260927-microblazer-candidate.html</link>
-      <description>遠方の宇宙で知られる「ブレーザー」の小型版が、天の川銀河にも存在するかもしれません。ハエン大学のJosep Martí氏を筆頭とする研究チームは、地球に対してジェットをほぼ真っ直ぐ向けているとみられる連星系「IRAS 1… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260927-microblazer-candidate.html</guid>
-      <pubDate>Sun, 27 Sep 2026 00:08:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>2024年に形成された直径約222mの新しいクレーターを月で発見　衝突の痕跡は100km以上先まで</title>
-      <link>https://sorae.info/astronomy/20260923-mcgetchin-crater.html</link>
-      <description>こちらは、月で最近形成されたばかりのクレーター。NASA（アメリカ航空宇宙局）の月周回衛星「LRO（ルナー・リコネサンス・オービター）」に搭載されている光学観測装置「LROC」で撮影されました。 NASAによると、このク… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260923-mcgetchin-crater.html</guid>
-      <pubDate>Wed, 23 Sep 2026 01:27:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>衛星データでキャベツの出荷量を予測。広告や売り場と連動してフードロス削減へ【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/46938/</link>
-      <description>JAXAと電通、JA嬬恋村は、衛星データなどからキャベツの出荷量や卸売価格を予測し、広告や店頭での販売促進につなげる市場実証を始めました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46938/</guid>
-      <pubDate>Mon, 07 Sep 2026 12:29:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>幻想的な光をまとったレンズ状銀河　ハッブル宇宙望遠鏡が観測した「NGC 6684」</title>
-      <link>https://sorae.info/astronomy/20260926-ngc-6684.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡が観測した、くじゃく座のレンズ状銀河「NGC 6684」です。 淡い楕円形をした明るい中心部、その周囲を同じように淡い光のリングが取り巻いています。画像に向かって中心部の上下にはリングとの間に… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260926-ngc-6684.html</guid>
-      <pubDate>Sat, 26 Sep 2026 12:34:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Sep 2026 13:20:02 +0000</lastBuildDate>
     <item>
       <title>太陽の活動領域の出現をAIで予測　黒点が現れる前兆を探る新手法</title>
       <link>https://sorae.info/astronomy/20260923-solar-ai-forecast.html</link>
       <description>太陽の表面に黒点が現れる前、その兆しを捉えることはできるのでしょうか？ NASA（アメリカ航空宇宙局）は2026年8月14日、太陽の「活動領域」の出現を予測するAI（人工知能）モデルの研究成果を紹介しました。過去の観測デ… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20260923-solar-ai-forecast.html</guid>
       <pubDate>Wed, 23 Sep 2026 07:07:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>太陽系外惑星「GJ 3090 b」は恒星の自転と逆向きに公転？　最初から傾いた軌道で誕生した可能性</title>
+      <link>https://sorae.info/astronomy/20260928-gj-3090-b.html</link>
+      <description>ジュネーブ大学の博士課程学生Yann Carteret氏を筆頭とする研究チームは、太陽系外惑星「GJ 3090 b」について、主星の自転方向とは逆向きに公転する逆行惑星であることが明らかになったとする成果を発表しました。… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20260928-gj-3090-b.html</guid>
+      <pubDate>Mon, 28 Sep 2026 11:33:37 +0000</pubDate>
     </item>
     <item>
       <title>【デモ体験レポ有り】現地に行かず、地盤沈下の兆候を探す。無料で試せる「NEOSAP」_PR</title>
@@ -51,11 +30,32 @@
       <pubDate>Thu, 24 Sep 2026 00:00:17 +0000</pubDate>
     </item>
     <item>
+      <title>SSC SpaceとSaabが宇宙分野で協力を検討　エスレンジ宇宙センターの活用も視野</title>
+      <link>https://sorae.info/space/20260928-ssc-saab.html</link>
+      <description>スウェーデンの宇宙関連企業SSC Spaceと、防衛・安全保障関連企業Saab（サーブ）は2026年9月24日、宇宙分野などでの協力の可能性を探る覚書（MoU）を締結したと発表しました。スウェーデン北部の「エスレンジ宇宙… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260928-ssc-saab.html</guid>
+      <pubDate>Mon, 28 Sep 2026 06:53:04 +0000</pubDate>
+    </item>
+    <item>
       <title>【20社以上の出展が決定】9月26日（土）、宇宙業界特化のキャリアイベントで「転職者のリアル」が分かるトークセッションも</title>
       <link>https://sorabatake.jp/46842/</link>
       <description>2026年9月26日に開催される宇宙業界に特化したキャリアイベント『SPACETIDE Career Connect 2026 Summer』について、注目の2つのトークセッションについて紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46842/</guid>
       <pubDate>Fri, 04 Sep 2026 04:37:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>衛星画像で街路樹の変化を把握　パスコと目黒区、区民の写真も活用する管理手法を検証</title>
+      <link>https://sorae.info/news/20260928-pasco-meguro.html</link>
+      <description>パスコと東京都目黒区は2026年9月28日、衛星画像と区民から提供される写真などを活用し、街路樹などの維持管理を効率化するプロジェクト「目黒グリーン・レジリエンスDX」を実施すると発表しました。宇宙から捉えた植生の変化と… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/news/20260928-pasco-meguro.html</guid>
+      <pubDate>Mon, 28 Sep 2026 03:54:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASA天文衛星「スウィフト」科学観測が本格再開　運用困難な高度300kmには10月上旬～中旬に到達か</title>
+      <link>https://sorae.info/space/20260928-swift-bat.html</link>
+      <description>NASA（アメリカ航空宇宙局）は2026年9月25日付で、軌道上昇を断念し科学観測を再開していたガンマ線観測衛星「ニール・ゲーレルス・スウィフト（Neil Gehrels Swift）」について、同年4月から停止していた… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260928-swift-bat.html</guid>
+      <pubDate>Mon, 28 Sep 2026 02:11:30 +0000</pubDate>
     </item>
     <item>
       <title>遠隔地の鉄道や農地にも通信技術を提供へ。イギリスが衛星通信に関する16件のプロジェクトに1,300万ポンドを出資【宇宙ビジネスニュース】</title>

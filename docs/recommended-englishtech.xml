@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Sep 2026 11:42:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:20:04 +0000</lastBuildDate>
     <item>
-      <title>プレゼンテーション：Spritely：インターネットの未来のためのインフラストラクチャ</title>
-      <link>https://www.infoq.com/presentations/spritely-decentralized-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Christine Lemmer-Webber氏とDavid Thompson氏は、Spritelyのアーキテクチャが分散化における主要な課題をどのように解決しているかを解説します。彼らは、Goblinsを用いた能力ベースのアクセス制御、OCapNを介したアクターモデル間の通信、そしてペットネームシステムに関する知見を共有します。SpritelyがScheme、WebAssembly（Hoot）、そしてローカルファーストのCRDTを活用して、中央サーバーなしで安全なピアツーピアアプリケーションを構築する方法をご覧ください。Christine Lemmer-Webber氏、David Thompson氏著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/spritely-decentralized-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 25 Sep 2026 11:00:00 +0000</pubDate>
+      <title>GoogleはAIと差分ファジングを用いて、重要なC言語の依存関係をRustに書き換えた。</title>
+      <link>https://www.infoq.com/news/2026/09/c-rust-rewrite/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Googleのセキュリティチームは、giflib画像処理ライブラリの従来のC言語コードをRustに置き換える手法を開発し、固有のメモリ脆弱性を標的とした。彼らは自動移行プロセスを活用し、互換性とゼロデイ脆弱性対策を確保した。このプロジェクトは、実行時パフォーマンスを維持しながら、AI翻訳には継続的な人間の監視が必要であることを実証した。執筆：Olimpiu Pop (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/09/c-rust-rewrite/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sun, 27 Sep 2026 14:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

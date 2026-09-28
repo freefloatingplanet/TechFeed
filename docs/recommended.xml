@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Sep 2026 11:42:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:19:57 +0000</lastBuildDate>
+    <item>
+      <title>AI を使った攻撃は、結局 AI でしか守れないのか？ Google・Anthropic などから読み取る 5 つの変化と変わらないこと</title>
+      <link>https://qiita.com/songchong/items/ac529af5701559ca29d8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>「AI を使ったサイバー攻撃が急増」という見出しや、「攻撃の速さは人の能力を超えた」というセキュリティ製品の発表を見ると、守る側も AI を入れなければ間に合わないのでは、と考えるのは自然です。
+ただ、先に知りたいのは、AI で攻撃の何が変わったのか、それに合わせて守りの... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/songchong/items/ac529af5701559ca29d8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Mon, 28 Sep 2026 07:06:27 +0000</pubDate>
+    </item>
     <item>
       <title>11年生本番データ飛ばす</title>
       <link>https://zenn.dev/ficilcom/articles/prod_db_reset_incident</link>
@@ -43,18 +51,30 @@ https://x.com/CompleteSkeptic/status/2099925687465570372
       <pubDate>Fri, 25 Sep 2026 07:27:13 +0000</pubDate>
     </item>
     <item>
-      <title>世界初のAI規制法「EU AI法」、施行から約1年で執行の遅れが露呈 — EU議会有力議員が欧州委員会を公然批判</title>
-      <link>https://techfeed.io/entries/6ab84f933e0b2437790dcac8?from=rss</link>
-      <description>9月25日、Politicoが「Von der Leyen ally slams EU Commission's AI response」と題した記事を公開した。EU議会の保守系有力議員が、EU委員会のAI法執行の遅さと不十分さを公然と批判したことを伝える内容だ。世界初の包括的AI規制として注目を集めてきたEU AI法（EU AI Act）だが、その執行体制をめぐる内部からの異論が表面化した。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ab84f933e0b2437790dcac8?from=rss</guid>
-      <pubDate>Sat, 26 Sep 2026 23:04:51 +0000</pubDate>
+      <title>強い AI が実験室の外に出たら？ OpenAI・Anthropic・英国 AISI の事故報告を読み比べてみた</title>
+      <link>https://qiita.com/songchong/items/97ba76b89c3840bc498e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>「AI が暴走して他社を攻撃した」という見出しを、2026 年の夏に何度か見た方も多いと思います。能力を測る試験の最中の強い AI が、外の実在のシステムに手を出した、という話です。自社で AI エージェントを動かしている人ほど、同じことが手元でも起きるのかが気になるとこ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/songchong/items/97ba76b89c3840bc498e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sun, 27 Sep 2026 15:06:26 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントが途中で止まったとき「会話の記憶」と「作業環境の復元」は別物 — PulumiがKopiaでワークスペーススナップショットを実現した理由</title>
-      <link>https://techfeed.io/entries/6ab84f603e0b2437790dca93?from=rss</link>
-      <description>9月26日、Pulumiが「AI agents need continuity, not just context」と題した記事を公開した。この記事では、AIエージェントが長時間タスクを実行する際に「コンテキストの復元」だけでなく「ワークスペースそのものの継続性」が必要であるという問題と、PulumiがオープンソースのバックアップツールKopiaを用いてどのように解決したかについて詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ab84f603e0b2437790dca93?from=rss</guid>
-      <pubDate>Sat, 26 Sep 2026 23:04:00 +0000</pubDate>
+      <title>探索できる人は何をしているの？『Explore It!』を読んで</title>
+      <link>https://zenn.dev/knowledgework/articles/6996274de49607</link>
+      <description>ナレッジワークでQAエンジニアをしている かとあず です。
+探索的テストをすると、何かしらを見つけることが多くあります。細かい部分だったり、「そこを気にするんだ？」と言われそうなコーナーケースだったりします。しかし、「なぜそれに気づいたの？」と聞かれると、うまく説明できません。
+反対に、「探索的テストをしました。何も見つかりませんでした。」となると、「品質がよかった」とは思えません。「それって本当に探索できていたのかな？」「別の人が探索したら何か見つかったのかもしれない」と思ってしまうこともあります。
+
+ 「探索できる人」は、いったい何をしているんだろう？
+そんなことを考えていたときに、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/6996274de49607</guid>
+      <pubDate>Mon, 28 Sep 2026 03:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>マクドナルドがドライブスルーにAI音声注文「Archy」を導入テスト — IBMとの失敗を経て自社開発、英語・スペイン語対応で正答率90%超</title>
+      <link>https://techfeed.io/entries/6ab99e953e0b2437790e451e?from=rss</link>
+      <description>9月27日、The Next Webが「McDonald's tests Archy, its AI drive-thru voice」と題した記事を公開した。2024年6月、IBMとの共同AIプロジェクトを打ち切ったマクドナルドが、今度は自社開発の音声AIシステム「Archy」をドライブスルーでテストしている。競合のタコベルが米国内の大規模展開を進めるなか、大きな失敗を経て再挑戦する同社の動向は、外食産業におけるAI導入競争の行方を占うものとして注目される。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ab99e953e0b2437790e451e?from=rss</guid>
+      <pubDate>Sun, 27 Sep 2026 22:54:13 +0000</pubDate>
     </item>
     <item>
       <title>age40 - 30代でやってよかったこと</title>
@@ -92,47 +112,26 @@ AIで作れる量が増えるほど、「何を、なぜ作るか」を決める
       <pubDate>Sat, 26 Sep 2026 06:53:26 +0000</pubDate>
     </item>
     <item>
-      <title>JetBrainsが「AIエージェント管理」の新製品ファミリー「Air」を発表 — Claude・Copilot・Codexを一つのIDEで横断管理、特定ベンダーへのロックインを否定</title>
-      <link>https://techfeed.io/entries/6ab84f873e0b2437790dcab7?from=rss</link>
-      <description>9月26日、php-net.proが「JetBrains Air brings AI agents to PhpStorm」と題した記事を公開した。JetBrainsのCEOであるKirill Skrygánが「Junieの利用を強制しない。どのモデルプロバイダーが四半期ごとのランキングで上位になるかに、われわれの戦略は依存していない」とXで明言したことが注目を集めている。その背景にあるのが、同社が発表した新製品ファミリー「JetBrains Air」だ。AIコーディングエージェントを統合・管理するこの製品群は、PhpStormをはじめとするJetBrains全IDEへの展開を予定している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ab84f873e0b2437790dcab7?from=rss</guid>
-      <pubDate>Sat, 26 Sep 2026 23:04:39 +0000</pubDate>
+      <title>SOLID 原則と型の持つ責務</title>
+      <link>https://zenn.dev/sator_imaging/articles/834240491191ec</link>
+      <description>AI がどうにもまともなコードを生成しないので詰めていると、「SOLID 原則とか曖昧でちょっと・・・」と言われました。
+その辺り諸々あるんですが、ココではその前段として型システムと責務について纏めます。
+
+以下断定的に書いていますが、そうとは言い切れない例外や解釈を丸め過ぎている部分については本投稿では触れません。
+
+
+ C/C++
+C にはそもそもクラスの概念がない。構造体だけで継承できない。（ポインタを介したアップキャストが出来ます @ AI 談）
+C++ にはクラスと構造体があるが、違いはアクセス／継承のデフォルトが private か public かだけ。どちらもローカル変数... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sator_imaging/articles/834240491191ec</guid>
+      <pubDate>Sun, 27 Sep 2026 11:55:18 +0000</pubDate>
     </item>
     <item>
-      <title>文章を返さないAI「Jev」を試してみた ── 社内問い合わせのエスカレーション先は判定できるか</title>
-      <link>https://zenn.dev/yesodco/articles/yesod-jev-typesafe-inquiry-triage</link>
-      <description>こんにちは、株式会社イエソドでバックエンドエンジニアをしているik-fib（@ik11235）です。
-
- はじめに
-先日、TypeSafe AIからJevが公開されました。Jevは「System One Model」と名乗っていて、LLMとは返すものが違います。
-渡したテキストについて、こちらが型付きで用意した問いに、確率やスコアだけを返します。返ってくるのは0.93という数字であって、「〜と思われます」という文章ではありません。
-そのためJev単体では何も起こりません。判断の材料はモデルに出させ、それを受け取って「ではXXをする」と決めるのは、呼び出す側のコードの仕事になります。
-
- ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yesodco/articles/yesod-jev-typesafe-inquiry-triage</guid>
-      <pubDate>Fri, 25 Sep 2026 02:18:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIに書かせても速くならないのは、AIを「手足」として使っているから。人が押さえるべき5つの判断ポイントと半自動ループの作り方</title>
-      <link>https://zenn.dev/dotdtech_blog/articles/65d51bc72d7ee9</link>
-      <description>はじめに
-AI にコードを書かせているのに、開発が速くならない。この感覚を持っている人は多いと思います。書かせるのは一瞬なのに、確認と手戻りで1日が終わる。
-同じ時期に、「ループエンジニアリング」という言葉を見かけるようになりました。AI エージェントに計画 → 実装 → 検証 → 修正のループを繰り返させ、人はコードを書く側から、ループと判断点を設計する側に回る考え方です。うまく回れば、人が付きっきりで進めなくても開発が前に進みます。
-魅力的な話なのですが、いきなり「ループを回す」と言われても、実際にやろうとすると難しい部分が多いと思います。
-
-途中で AI が仕様を勝手に解釈して... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dotdtech_blog/articles/65d51bc72d7ee9</guid>
-      <pubDate>Fri, 25 Sep 2026 09:35:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>競馬の論文 100 本を Jev で仕分けて、LLM と速度とコストを比べた</title>
-      <link>https://zenn.dev/toshipon/articles/jev-paper-screening-vs-llm</link>
-      <description>はじめに
-個人で競馬の定量分析をしていて、戦略の候補を学術論文から探す作業を試しました。元にしたのは、note の記事「学術論文をAIに読ませて戦略を見つける」の考え方です。これにならい、論文を大量に集めて機械的に絞り込み、残った論文の手順を実データで確かめることにしました。
-この作業のうち、要旨を読んで「使える論文か」を仕分ける工程に、TypeSafe AI の Jev を使いました。Jev は文章を生成せず、yes/no・択一・段階評価の答えを確率つきで返すモデルです。仕分けのように同じ質問を何百回も繰り返す作業は、Jev の用途に合っています。
-本記事では、次の 3 点を実測値... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/toshipon/articles/jev-paper-screening-vs-llm</guid>
-      <pubDate>Wed, 23 Sep 2026 06:51:29 +0000</pubDate>
+      <title>「AIは、問いの質を超えた答えを出してくれない」 —— ADWAYS DEEE CTOが語る失敗と、「良い問い」を生み出す組織のつくり方</title>
+      <link>https://techfeed.io/entries/6aab98db3e0b243779082a35?from=rss</link>
+      <description>「AIが『普通』のことしか言ってこない」「そんなの、AIにいちいち言われるまでもない」——そう感じたことがないエンジニアはいないのではないか。アフィリエイト広告・リワード広告を展開するADWAYS DEEEの取締役CTO 大曲智久 氏は、自社のAI推進を牽引する中でいくつもの失敗を重ね、ありきたりな答えしか返ってこない原因が、AIではなく問いを投げる側にあることに気づく。その試行錯誤から辿り着いたのが「ビジョンから逆算してAIを設計する」という思想だ。 エンジニア27名を含む42名体制でプロダクト開発とAI推進を牽引する大曲氏に、AI活用の実態とフィーチャーチームが生む成長を聞いた。「購入して、良かった」が起点——事業ドメインとエンジニアリングの面白さ── まず、ADWAYS DEEEはどんな事業をやっている会社か、簡単に教えてください。大曲: 主にアフィリエイト広告（成果報酬型の広告モデル。購入・申込などが発生して初めて広告主から報酬が発生する）とリワード広告（ポイントなどの報酬と引き換えに、ユーザーが会員登録やアプリの利用などの条件を達成するモデル）を軸に事業を展開しています。ビジ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aab98db3e0b243779082a35?from=rss</guid>
+      <pubDate>Mon, 28 Sep 2026 02:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
