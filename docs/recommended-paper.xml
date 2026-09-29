@@ -7,6 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Sep 2026 13:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:25:50 +0000</lastBuildDate>
+    <item>
+      <title>FactorEngram：言語モデルのための基底レベルゲーティングを備えた因子分解Nグラムメモリ</title>
+      <link>https://arxiv.org/abs/2609.35578v1</link>
+      <description>ルックアップベースのメモリは、大規模言語モデル (LLM) のパラメータをスケーリングする有望な方法となっています。これは、n-gram などのローカルトークンパターンの学習済み表現を、連続する計算層を通して再構築するのではなく取得します。しかし、Engram などの既存の設計では、取得された各埋め込みを単一の単位として扱います。各埋め込みは独自のハッシュスロットに格納され、単一のスカラーゲートによって変調されます。その結果、多義的なパターンは、コンテキストに関連するメモリのコンポーネントを選択的に読み出すことができません。さらに、パラメータはハッシュ衝突によってのみ共有されますが、これは意味とはほとんど関係がありません。そこで、基底レベルのコンテキストゲーティングを備えた因子化 n-gram メモリである FactorEngram を提案します。FactorEngram は、パターン間で共有される基底ベクトルの辞書に対してスパース性正則化係数を取得するため、関連するパターンは共通のコンポーネントを再利用できます。同じ辞書はゲーティングにも使用されます。バックボーンの隠れ状態は、再構築 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.35578v1</guid>
+      <pubDate>Mon, 28 Sep 2026 16:35:18 +0000</pubDate>
+    </item>
   </channel>
 </rss>

@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 13:20:02 +0000</lastBuildDate>
-    <item>
-      <title>太陽の活動領域の出現をAIで予測　黒点が現れる前兆を探る新手法</title>
-      <link>https://sorae.info/astronomy/20260923-solar-ai-forecast.html</link>
-      <description>太陽の表面に黒点が現れる前、その兆しを捉えることはできるのでしょうか？ NASA（アメリカ航空宇宙局）は2026年8月14日、太陽の「活動領域」の出現を予測するAI（人工知能）モデルの研究成果を紹介しました。過去の観測デ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20260923-solar-ai-forecast.html</guid>
-      <pubDate>Wed, 23 Sep 2026 07:07:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Sep 2026 12:25:47 +0000</lastBuildDate>
     <item>
       <title>太陽系外惑星「GJ 3090 b」は恒星の自転と逆向きに公転？　最初から傾いた軌道で誕生した可能性</title>
       <link>https://sorae.info/astronomy/20260928-gj-3090-b.html</link>
@@ -23,18 +16,18 @@
       <pubDate>Mon, 28 Sep 2026 11:33:37 +0000</pubDate>
     </item>
     <item>
-      <title>【デモ体験レポ有り】現地に行かず、地盤沈下の兆候を探す。無料で試せる「NEOSAP」_PR</title>
-      <link>https://sorabatake.jp/46893/</link>
-      <description>2025年にリリースされたNEC地球観測衛星画像解析サービスプラットフォーム「NEC Earth Observation Satellites’ image Analysis Services Platform（略称：NEOSAP）」について、その特徴、顧客との対話を重ねた開発の舞台裏、今後目指す姿を伺いました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46893/</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:17 +0000</pubDate>
-    </item>
-    <item>
       <title>SSC SpaceとSaabが宇宙分野で協力を検討　エスレンジ宇宙センターの活用も視野</title>
       <link>https://sorae.info/space/20260928-ssc-saab.html</link>
       <description>スウェーデンの宇宙関連企業SSC Spaceと、防衛・安全保障関連企業Saab（サーブ）は2026年9月24日、宇宙分野などでの協力の可能性を探る覚書（MoU）を締結したと発表しました。スウェーデン北部の「エスレンジ宇宙… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260928-ssc-saab.html</guid>
       <pubDate>Mon, 28 Sep 2026 06:53:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【デモ体験レポ有り】現地に行かず、地盤沈下の兆候を探す。無料で試せる「NEOSAP」_PR</title>
+      <link>https://sorabatake.jp/46893/</link>
+      <description>2025年にリリースされたNEC地球観測衛星画像解析サービスプラットフォーム「NEC Earth Observation Satellites’ image Analysis Services Platform（略称：NEOSAP）」について、その特徴、顧客との対話を重ねた開発の舞台裏、今後目指す姿を伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46893/</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:17 +0000</pubDate>
     </item>
     <item>
       <title>【20社以上の出展が決定】9月26日（土）、宇宙業界特化のキャリアイベントで「転職者のリアル」が分かるトークセッションも</title>
@@ -56,6 +49,13 @@
       <description>NASA（アメリカ航空宇宙局）は2026年9月25日付で、軌道上昇を断念し科学観測を再開していたガンマ線観測衛星「ニール・ゲーレルス・スウィフト（Neil Gehrels Swift）」について、同年4月から停止していた… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20260928-swift-bat.html</guid>
       <pubDate>Mon, 28 Sep 2026 02:11:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>GoogleのAI用チップ搭載衛星、宇宙環境で動作試験へ　宇宙データセンター構想の初実証</title>
+      <link>https://sorae.info/space/20260929-google-suncatcher.html</link>
+      <description>Googleは2026年9月24日付で、宇宙でのAI処理を目指す研究計画「Project Suncatcher（プロジェクト・サンキャッチャー）」について、初の軌道上実証を行うと発表しました。Googleが開発した機械学… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20260929-google-suncatcher.html</guid>
+      <pubDate>Tue, 29 Sep 2026 08:47:43 +0000</pubDate>
     </item>
     <item>
       <title>遠隔地の鉄道や農地にも通信技術を提供へ。イギリスが衛星通信に関する16件のプロジェクトに1,300万ポンドを出資【宇宙ビジネスニュース】</title>
