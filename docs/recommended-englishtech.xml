@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 29 Sep 2026 12:25:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:11:19 +0000</lastBuildDate>
     <item>
-      <title>Artfactoryの脆弱性が悪用され、認証バイパスと管理者アクセスが可能になる</title>
-      <link>https://www.infoq.com/news/2026/09/artifactory-vulnerabilities/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Artifactoryの3つの脆弱性が悪用されており、インターネットに接続された自己ホスト型デプロイメントにおいて認証バイパスが可能となり、攻撃者は5分以内に永続的な管理者アクセスを確立できる可能性がある。これらの脆弱性を悪用することで、認証情報や鍵の窃盗、任意のコード実行、永続的なアクセス、フォレンジック対策など、危険な活動が可能になる。セルジオ・デ・シモーネ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/09/artifactory-vulnerabilities/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+      <title>プレゼンテーション：コンテキストは新たなコードである</title>
+      <link>https://www.infoq.com/presentations/context-as-code-devops-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>パトリック・デボワ氏は、実績のあるソフトウェアエンジニアリング手法を用いて、コンテキストの管理、評価、配布、監視を行う方法について解説します。彼は、コンテキストをコードのように扱うこと（テスト、CI/CD、パッケージマネージャー、セキュリティスキャンを含む）によって、エンジニアリングリーダーがAIコーディングエージェントを確実に拡張し、非決定論的な出力を制御し、長期的な組織的知識を構築できることを示します。パトリック・デボワ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/context-as-code-devops-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 30 Sep 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

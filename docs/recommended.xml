@@ -7,7 +7,66 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 12:25:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:11:11 +0000</lastBuildDate>
+    <item>
+      <title>Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由</title>
+      <link>https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu</link>
+      <description>2026 年、初めて自分の意思で VCS を選択した
+ふりかえると私にとって VCS（バージョン管理システム）は、会社に指定されたものを使ってきただけでした。それまでの会社では社内にサーバを立てて Subversion を使うことが多かった中、2011 年から働き出した会社では GitHub が導入されており、そのため個々のエンジニアは Git を使うことを求められました。Git / GitHub を本格的に使い始めたのはそのときからです。
+しかし Subversion と比べると Git は非直感的で、かなり使いにくく感じました。また GitHub 導入に伴い、コードレビューのため... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu</guid>
+      <pubDate>Mon, 28 Sep 2026 23:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>目を醒ませ 僕らの信頼が生成AIに侵略されてるぞ</title>
+      <link>https://zenn.dev/spookies/articles/e70b80a510f5e2</link>
+      <description>想定読者
+
+2025年度以降にIT業界に参入したエンジニア
+システム開発プロジェクトで上流〜中流工程を任されている人
+自分の仕事がAIに奪われていると感じているエンジニア
+
+
+ tl;dr
+
+Meat Proxyで起きる破綻は、AIのせいではなく「己に対して当然求められている責任を己が放棄した結果」である。
+生成AIは責任を持てないので、原理的に副操縦士の域をでない。
+人間の介在価値は意思と責任を持つことにある。エンジニアよ、意思と責任を持て。
+
+
+ はじめに。
+こんにちは。スプーキーズでOpenCode宣教師をしていたすずるんです。
+はじめてZennに、それも会社名義で書くわけです... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/spookies/articles/e70b80a510f5e2</guid>
+      <pubDate>Tue, 29 Sep 2026 01:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code / Codexで「私のlimit、減りすぎ…？」と思ったときに見る記事</title>
+      <link>https://zenn.dev/tokium_dev/articles/ai-agent-usage-limit-long-sessions</link>
+      <description>こんにちは、TOKIUMの花房です。
+Claude CodeやCodexをサブスクリプションで使っていて、以下のように感じることはないでしょうか。
+
+週の半ばで週間上限が尽きる。作業量は先週と変わらないはずなのに
+Slack botやcron/launchdからエージェントを動かしていて、体感よりもリミット消費が多い
+プロンプトキャッシュにヒットしているはずなのに、やはり減りが多い気がする
+
+Codexの週間上限が急速に減った原因として、私は/goalで一晩動かして自動compact（コンテキストが上限に近づいたとき、エージェントが会話履歴を要約して縮める処理）が何十回も実行されたセッシ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/ai-agent-usage-limit-long-sessions</guid>
+      <pubDate>Tue, 29 Sep 2026 03:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>ゲーミングPC向けで LLMとデプロイ環境を最適化してみた話</title>
+      <link>https://zenn.dev/knowledgework/articles/2691721311c2e4</link>
+      <description>はじめに
+翻訳LLMを軽くしようとして、まず気づいたのは「モデルファイルを小さくしても、VRAMは思ったほど減らない」ということでした。
+この記事は、オンラインゲームのチャットを翻訳するために、翻訳特化LLMをゲーミングPC向けに最適化してデプロイした記録です。モデルファイル、プロセスのメモリ、そしてランタイムの3段階で削っていった結果、最終的には2〜3GBのVRAMで商用LLMに近いレベルの翻訳ができるようになりました。
+なお、推論はllama.cpp（ggml）ベースのランタイムで、Windows上のGGUFモデルを動かしています。
+
+ きっかけ
+私は普段、日本のオンラインゲーム... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/2691721311c2e4</guid>
+      <pubDate>Wed, 30 Sep 2026 00:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>AI開発時代だからこそ、テストの役割を見つめ直す</title>
       <link>https://zenn.dev/ababup1192/articles/77b844dcfc1529</link>
@@ -20,41 +79,21 @@
       <pubDate>Tue, 29 Sep 2026 01:00:44 +0000</pubDate>
     </item>
     <item>
-      <title>「AIパイロットは成功した」の次に問われること — 本番運用のROIを数式で測る方法</title>
-      <link>https://techfeed.io/entries/6abaf3983e0b2437790f37d6?from=rss</link>
-      <description>9月28日、InfoWorldが「AI ROI beyond pilots: Measuring outcomes in production」と題した記事を公開した。パイロット段階を華々しく終えたはずのAIプロジェクトが、本番運用に移った途端に「このシステムは本当に価値を生んでいるか？」という問いに答えられなくなる——その落とし穴の正体は、見落とされがちなコストと、抽象論に終始したROI議論にある。記事はこの問題を具体的な数式とフレームワークで切り分け、エンジニアから経営層まで使える共通言語を提示している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6abaf3983e0b2437790f37d6?from=rss</guid>
-      <pubDate>Mon, 28 Sep 2026 23:09:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>RX 5500 XTからV100S×4まで、4台の計算機でローカルLLMを測り比べた話</title>
-      <link>https://zenn.dev/c4n4242/articles/75659aebdd62d4</link>
-      <description>みなさんこんにちは。カノンと申します。
-この記事では、とある事情で様々な計算機を使う機会があったので世代もメーカーもバラバラな4台の計算機にローカルLLMを載せて測り比べた結果を書き連ねていこうと思います。
-※ 数値はすべて2026年9月18〜19日の実測です。llama.cpp や ROCm は更新が速いので、今測ると違う値が出るかもしれません。
+      <title>３分で読めるトランザクション設計のコツ</title>
+      <link>https://zenn.dev/mconfjp/articles/transaction-action-order</link>
+      <description>これはなに
+こんにちは、もりたです。
+最近Software Designで連載をしています[1]。連載をしているとアホほど資料を読んでめちゃくちゃ学びがあるんですが原稿の進捗がやばすぎてZennに投稿できません[2]。この記事はせめてもの償いとして最近知った便利情報を簡単に皆さんにお伝えします。
+テーマは「トランザクションの中に処理を書く順番」です。
+これについて、簡単な指針があるという話をします。
 
- はじめに
-今回比較した対象の計算機は次の4台になりました。ある事情でRadeon RX5500XTを搭載したマシンと、V100Sを搭載したマシンが使えることになったので、それに追加して、普段BYODで持ち歩いている計算機と、自宅のデスクト... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/c4n4242/articles/75659aebdd62d4</guid>
-      <pubDate>Mon, 28 Sep 2026 10:09:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントが7分で100超のクラウドリソースを自律破壊 — ランサムウェア「JadePuffer」がAzureを標的に、バックアップ保護も削除して復旧を封じる</title>
-      <link>https://techfeed.io/entries/6abaf3733e0b2437790f379d?from=rss</link>
-      <description>9月29日、BleepingComputerが「JadePuffer agentic AI attacks target Azure, destroy cloud resources」と題した記事を公開した。この記事では、AIエージェントを活用してAzureテナントを自律的に攻撃し、クラウドリソースを破壊するJadePufferランサムウェアオペレーターの手口について詳しく紹介されている。以下に、その内容を紹介する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6abaf3733e0b2437790f379d?from=rss</guid>
-      <pubDate>Mon, 28 Sep 2026 23:08:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>クロスプラットフォームアプリのためのiPhone Duoレビュー</title>
-      <link>https://zenn.dev/rdlabo/articles/iphone-duo-cross-platform-introduction</link>
-      <description>iPhone Duoへの対応を調べるために、SwiftUIで小さな検証アプリを作って、シミュレーターでひたすら操作していました。ボタンを置き換えたり、モーダルを開いたり、画面を遷移させたり。調査だけで数日溶けました 😂
-折り畳める端末なので、まず画面幅への対応が気になりますよね。けれど、実際に触ってみると、ツールバーやタブの配置、メニューの表示、背景のアニメーションまで、確認したいことが結構ありました。
-今回は、クロスプラットフォームのアプリでDuo対応を考える際の参考になるよう、観察した挙動をまとめておきます。Duoでは画面がどう変わるか、実際の画面と一緒に見ていきます。
-!
-2026... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/rdlabo/articles/iphone-duo-cross-platform-introduction</guid>
-      <pubDate>Mon, 28 Sep 2026 10:47:31 +0000</pubDate>
+ 課題：トランザクション処理の順番がわからん
+
+トランザクション処理を書いていると、こういう場面に出会います。
+
+外部サービスとの連携があって、どこで失敗したらどうなるかを考えないとい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mconfjp/articles/transaction-action-order</guid>
+      <pubDate>Tue, 29 Sep 2026 02:45:05 +0000</pubDate>
     </item>
     <item>
       <title>探索できる人は何をしているの？『Explore It!』を読んで</title>
@@ -77,39 +116,33 @@ DRESS CODE（弊社のプロダクト）の開発にはパートナー企業の�
       <pubDate>Mon, 28 Sep 2026 10:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>MorningstarがAIエージェントを金融規制下で本番運用できた理由 — microVM分離・JWT認可・ガードレール調整の三層設計</title>
-      <link>https://techfeed.io/entries/6abaf3813e0b2437790f37ab?from=rss</link>
-      <description>9月28日、AWSが「How Morningstar built a financial advisor AI assistant powered by Amazon Bedrock AgentCore」と題した記事を公開した。この記事では、Morningstarが金融アドバイザー向けプラットフォーム「Direct Advisory Suite」にAmazon Bedrock AgentCoreを用いたAIアシスタントを本番構築した経緯と実装詳細について詳しく紹介されている。金融業界でAIエージェントを本番運用する場合、単なる精度の問題だけでなく、規制対応・マルチテナント分離・監査証跡・ガードレールの整合性という複数の制約を同時に満たす必要がある。Morningstarがどのようにこの問題を解いたか、アーキテクチャの核心部分を掘り下げる。解決したかった問題：毎朝数時間の準備作業金融アドバイザーは1日のクライアント対応を始める前に、ポートフォリオレビュー・リスク評価・リサーチ更新・コンプライアンス確認を手作業で揃える。これが毎朝数時間を消費し、本来の助言業務を圧迫していた。Morning (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6abaf3813e0b2437790f37ab?from=rss</guid>
-      <pubDate>Mon, 28 Sep 2026 23:08:49 +0000</pubDate>
+      <title>AI 駆動開発で「設計」はどこに書くのか ― 振る舞いをテストで検証できる「仕様」にしてみる</title>
+      <link>https://zenn.dev/softbank/articles/6f98cf7c4ebfd3</link>
+      <description>はじめに
+日々の開発において、AI にコードを書いてもらうことは日常になってきました。要件を伝えれば既存のコードベースを調査し、その作法に合わせて機能を足してくれます。
+生成されたコードがいつも正しいわけではありませんが、それでも「コードを書く」という作業そのものは、以前ほど開発のボトルネックではなくなりつつあると感じています。
+その一方で、AI と一緒に開発していると、「何を実装してもらうか」を決める時間の比重が増えてきました。この記事では、その実感を出発点に、次の 3 つを順に考えてみました。
+
+AI 駆動開発で、設計はどこに書いておくとよいのか
+既存の設計成果物で、実装されたコ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/softbank/articles/6f98cf7c4ebfd3</guid>
+      <pubDate>Tue, 29 Sep 2026 07:02:41 +0000</pubDate>
     </item>
     <item>
-      <title>人工知能と小説新人賞審査</title>
-      <link>https://zenn.dev/enjoetoh/articles/ai-as-literary-judge</link>
-      <description>「第9回ゲンロンSF新人賞」候補作短評余禄
+      <title>生命科学研究 × AI 活用ハンドブック</title>
+      <link>https://zenn.dev/labcode/books/c4f81b6a2d9e37</link>
+      <description>📰 概要
+「AI で研究時間を取り戻す」ための、生命科学研究者向けの実践ハンドブックです。
 
- ■ＡＩ……
-2026年現在において大きな話題として各分野におけるＡＩ利用がありますが、それは創作業界においても同じです。
-　自分としてはとりあえず、「ＡＩにも小説は書ける」という人は、「自分がどんな作品を小説と考えているのか、具体的なリストを挙げよ、話はそれからだ」という気持ちですが、それはそれとします。
-昨年末あたりから、新人賞への投稿作の倍増が話題になるようになってきました。２倍になったものは４倍になるだろうし、８倍になっていくと思われます。
-どうしよう、という話ではなく、書き手が人工知能を使うなら、「選ぶ側も人工知能を使っていくしかな... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/enjoetoh/articles/ai-as-literary-judge</guid>
-      <pubDate>Sat, 26 Sep 2026 06:53:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOLID 原則と型の持つ責務</title>
-      <link>https://zenn.dev/sator_imaging/articles/834240491191ec</link>
-      <description>AI がどうにもまともなコードを生成しないので詰めていると、「SOLID 原則とか曖昧でちょっと・・・」と言われました。
-その辺り諸々あるんですが、ココではその前段として型システムと責務について纏めます。
+実験があり、解析があり、事務手続きがあり、そのうえで論文を書かなければならない。指導教員は忙しく、隣に詳しい人がいるとは限らない。そんな状況で研究を続ける研究者たちに取材し、実際にやっていることをそのまま書きました。理論書ではなく、明日から使える手順書です。
 
-以下断定的に書いていますが、そうとは言い切れない例外や解釈を丸め過ぎている部分については本投稿では触れません。
+🪜 最小限の学習コストで、できることを最大化する
+AI の使い方を「対話画面で完結（学習コストほぼゼロ）」「ツールを組み合わせる（30 分・コード不要）」「エージェントに任せる（数日）」の 3 段階に分け、全節に段階を表示しました。第 1 段階だけでも価値の大半は回収できます。難しい章は必要になってから読めば十分です。
 
-
- C/C++
-C にはそもそもクラスの概念がない。構造体だけで継承できない。（ポインタを介したアップキャストが出来ます @ AI 談）
-C++ にはクラスと構造体があるが、違いはアクセス／継承のデフォルトが private か public かだけ。どちらもローカル変数... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sator_imaging/articles/834240491191ec</guid>
-      <pubDate>Sun, 27 Sep 2026 11:55:18 +0000</pubDate>
+📮 メール・Slack・議事録から始める
+最も効果が大きく学習コストが低いのがコミュニケーションです。Gmail の返信文生成、Slack の AI 検索、ChatGPT コネクタでの横断検索、Gemini Notebook での議事録づくりを画面付きで解説。旅費・謝金・兼業届など「メールに埋もれて二度と探せない学内手 (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/labcode/books/c4f81b6a2d9e37</guid>
+      <pubDate>Tue, 29 Sep 2026 14:29:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

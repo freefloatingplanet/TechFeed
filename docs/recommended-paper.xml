@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 29 Sep 2026 12:25:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:11:18 +0000</lastBuildDate>
     <item>
-      <title>FactorEngram：言語モデルのための基底レベルゲーティングを備えた因子分解Nグラムメモリ</title>
-      <link>https://arxiv.org/abs/2609.35578v1</link>
-      <description>ルックアップベースのメモリは、大規模言語モデル (LLM) のパラメータをスケーリングする有望な方法となっています。これは、n-gram などのローカルトークンパターンの学習済み表現を、連続する計算層を通して再構築するのではなく取得します。しかし、Engram などの既存の設計では、取得された各埋め込みを単一の単位として扱います。各埋め込みは独自のハッシュスロットに格納され、単一のスカラーゲートによって変調されます。その結果、多義的なパターンは、コンテキストに関連するメモリのコンポーネントを選択的に読み出すことができません。さらに、パラメータはハッシュ衝突によってのみ共有されますが、これは意味とはほとんど関係がありません。そこで、基底レベルのコンテキストゲーティングを備えた因子化 n-gram メモリである FactorEngram を提案します。FactorEngram は、パターン間で共有される基底ベクトルの辞書に対してスパース性正則化係数を取得するため、関連するパターンは共通のコンポーネントを再利用できます。同じ辞書はゲーティングにも使用されます。バックボーンの隠れ状態は、再構築 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.35578v1</guid>
-      <pubDate>Mon, 28 Sep 2026 16:35:18 +0000</pubDate>
+      <title>LeapQuant: 高精度なリカレント状態量子化による効率的な線形アテンション</title>
+      <link>https://arxiv.org/abs/2609.38166v1</link>
+      <description>最近のLLMは、標準的なアテンションを線形アテンションに置き換えるハイブリッド設計を採用することが増えており、Gated DeltaNet（GDN）やKimi Delta Attention（KDA）などがその例です。コンテキストを固定サイズのリカレント状態に圧縮し、長いコンテキストの処理コストを大幅に削減しますが、その状態を繰り返し読み込んで更新することが依然として推論の大きなボトルネックとなっています。量子化はこのコストを削減する自然な方法ですが、丸め誤差の蓄積や状態内の外れ値の行や列の存在により、モデルの品質が著しく低下する可能性があります。これらの課題に対処するため、8ビットリカレント状態量子化の下でほぼロスレスのパフォーマンスを実現するトレーニング不要の手法であるLeapQuantを提案します。まず、誤差の蓄積を軽減するために、トークンのウィンドウを飛び越えて、その最後に一度だけ状態を量子化するウィンドウごとの量子化を提案します。ウィンドウ内では、固定された低ビット状態と高精度のバッファリングされた更新から出力が計算されます。第二に、各量子化によって生じる誤差を減らすために、 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38166v1</guid>
+      <pubDate>Tue, 29 Sep 2026 17:59:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
