@@ -7,65 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:11:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:45:14 +0000</lastBuildDate>
     <item>
-      <title>Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由</title>
-      <link>https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu</link>
-      <description>2026 年、初めて自分の意思で VCS を選択した
-ふりかえると私にとって VCS（バージョン管理システム）は、会社に指定されたものを使ってきただけでした。それまでの会社では社内にサーバを立てて Subversion を使うことが多かった中、2011 年から働き出した会社では GitHub が導入されており、そのため個々のエンジニアは Git を使うことを求められました。Git / GitHub を本格的に使い始めたのはそのときからです。
-しかし Subversion と比べると Git は非直感的で、かなり使いにくく感じました。また GitHub 導入に伴い、コードレビューのため... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu</guid>
-      <pubDate>Mon, 28 Sep 2026 23:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>目を醒ませ 僕らの信頼が生成AIに侵略されてるぞ</title>
-      <link>https://zenn.dev/spookies/articles/e70b80a510f5e2</link>
-      <description>想定読者
-
-2025年度以降にIT業界に参入したエンジニア
-システム開発プロジェクトで上流〜中流工程を任されている人
-自分の仕事がAIに奪われていると感じているエンジニア
-
-
- tl;dr
-
-Meat Proxyで起きる破綻は、AIのせいではなく「己に対して当然求められている責任を己が放棄した結果」である。
-生成AIは責任を持てないので、原理的に副操縦士の域をでない。
-人間の介在価値は意思と責任を持つことにある。エンジニアよ、意思と責任を持て。
-
-
- はじめに。
-こんにちは。スプーキーズでOpenCode宣教師をしていたすずるんです。
-はじめてZennに、それも会社名義で書くわけです... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/spookies/articles/e70b80a510f5e2</guid>
-      <pubDate>Tue, 29 Sep 2026 01:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code / Codexで「私のlimit、減りすぎ…？」と思ったときに見る記事</title>
-      <link>https://zenn.dev/tokium_dev/articles/ai-agent-usage-limit-long-sessions</link>
-      <description>こんにちは、TOKIUMの花房です。
-Claude CodeやCodexをサブスクリプションで使っていて、以下のように感じることはないでしょうか。
-
-週の半ばで週間上限が尽きる。作業量は先週と変わらないはずなのに
-Slack botやcron/launchdからエージェントを動かしていて、体感よりもリミット消費が多い
-プロンプトキャッシュにヒットしているはずなのに、やはり減りが多い気がする
-
-Codexの週間上限が急速に減った原因として、私は/goalで一晩動かして自動compact（コンテキストが上限に近づいたとき、エージェントが会話履歴を要約して縮める処理）が何十回も実行されたセッシ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/ai-agent-usage-limit-long-sessions</guid>
-      <pubDate>Tue, 29 Sep 2026 03:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>ゲーミングPC向けで LLMとデプロイ環境を最適化してみた話</title>
-      <link>https://zenn.dev/knowledgework/articles/2691721311c2e4</link>
+      <title>キャラクターを画面内の指定領域に収めるカメラ位置の計算方法</title>
+      <link>https://zenn.dev/reality_tech/articles/camera-auto-framing-algorithm</link>
       <description>はじめに
-翻訳LLMを軽くしようとして、まず気づいたのは「モデルファイルを小さくしても、VRAMは思ったほど減らない」ということでした。
-この記事は、オンラインゲームのチャットを翻訳するために、翻訳特化LLMをゲーミングPC向けに最適化してデプロイした記録です。モデルファイル、プロセスのメモリ、そしてランタイムの3段階で削っていった結果、最終的には2〜3GBのVRAMで商用LLMに近いレベルの翻訳ができるようになりました。
-なお、推論はllama.cpp（ggml）ベースのランタイムで、Windows上のGGUFモデルを動かしています。
+3Dキャラクターの写真や動画を撮影できるアプリやツールを開発・運用していると、画面内の指定領域に被写体を自動的に収めて撮影したいことがあります。さらに、指定領域内で被写体ができるだけ大きく映るようにしたい、キャラクターの体格・ポーズ・アニメーションなどの変化にフレーミングを追従させたい、という場合もあります。
+この記事では「被写体を画面内のフレーミング領域に収めるカメラ位置の求め方」について解説します。この手法を活用すると、以下のデモのように、被写体のポーズやアニメーションに合わせて自動的にフレーミングしながら撮影できます。
 
- きっかけ
-私は普段、日本のオンラインゲーム... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/2691721311c2e4</guid>
-      <pubDate>Wed, 30 Sep 2026 00:45:00 +0000</pubDate>
+
+YouTubeで見る
+デモアプリを開く
+
+
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/reality_tech/articles/camera-auto-framing-algorithm</guid>
+      <pubDate>Wed, 30 Sep 2026 09:00:07 +0000</pubDate>
     </item>
     <item>
       <title>AI開発時代だからこそ、テストの役割を見つめ直す</title>
@@ -77,6 +34,15 @@ Codexの週間上限が急速に減った原因として、私は/goalで一晩�
 ユニットテストは、関数やモジュールのロ... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/ababup1192/articles/77b844dcfc1529</guid>
       <pubDate>Tue, 29 Sep 2026 01:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rustで作った自作OS「octox」がサンフランシスコ大学の教材になっていました</title>
+      <link>https://zenn.dev/o8vm/articles/3934806424cd85</link>
+      <description>私が Rust で実装して公開している Unix-like OS「octox」が、サンフランシスコ大学（University of San Francisco）の授業で教材として使用されていることが分かりました。
+octox 専用のガイドが用意されているだけでなく、講義で実装が解説され、ユーザープログラムやカーネルを拡張する課題も公開されています。[1]
+もともとは自分が OS を理解するために始めたプロジェクトなので、こうした形で活用していただけるのは素直にうれしいです。この投稿では、公開されている教材を紹介しながら、サンフランシスコ大学では octox を使って何を学ぶのかを見ていき... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/o8vm/articles/3934806424cd85</guid>
+      <pubDate>Tue, 29 Sep 2026 09:00:05 +0000</pubDate>
     </item>
     <item>
       <title>３分で読めるトランザクション設計のコツ</title>
@@ -96,16 +62,32 @@ Codexの週間上限が急速に減った原因として、私は/goalで一晩�
       <pubDate>Tue, 29 Sep 2026 02:45:05 +0000</pubDate>
     </item>
     <item>
-      <title>探索できる人は何をしているの？『Explore It!』を読んで</title>
-      <link>https://zenn.dev/knowledgework/articles/6996274de49607</link>
-      <description>ナレッジワークでQAエンジニアをしている かとあず です。
-探索的テストをすると、何かしらを見つけることが多くあります。細かい部分だったり、「そこを気にするんだ？」と言われそうなコーナーケースだったりします。しかし、「なぜそれに気づいたの？」と聞かれると、うまく説明できません。
-反対に、「探索的テストをしました。何も見つかりませんでした。」となると、「品質がよかった」とは思えません。「それって本当に探索できていたのかな？」「別の人が探索したら何か見つかったのかもしれない」と思ってしまうこともあります。
+      <title>イングランド銀行が警告する「次のAI株急落は7月より深刻」— 4500億ドルの債務とローグAIが重なるリスク</title>
+      <link>https://techfeed.io/entries/6abd98296f60ae186b86bc3b?from=rss</link>
+      <description>9月30日、AIと金融市場の交差点を継続的に取材しているブログメディア・madrobot.blogが「The Bank of England warns AI stocks could fall much harder than they did in July」と題した記事を公開した。イングランド銀行の金融安定政策を担う委員会が、AI株の急落リスク・4500億ドル規模のAI債務・ローグAI（予期しない行動をとる自律モデル）によるサイバーリスクを同時に警告したことを詳しく紹介している。記事の根拠となる一次資料はイングランド銀行が公式に公表したFPC記録（2026年9月）であり、公的機関の一次ソースに基づく内容として信頼性を確認できる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6abd98296f60ae186b86bc3b?from=rss</guid>
+      <pubDate>Wed, 30 Sep 2026 23:15:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>チェスより複雑な「見えない駒のゲーム」で世界王者を圧倒 — MITのAI「Ataraxos」が学習コスト1/100以下でDeepNashを上回った</title>
+      <link>https://techfeed.io/entries/6abd983f6f60ae186b86bc7c?from=rss</link>
+      <description>10月1日、Inside AI Newsが「MIT-Led Team's AI Ataraxos Achieves Superhuman Stratego Performance」と題した記事を公開した。MIT・CMU・NYU・スタンフォードの共同チームが開発したAI「Ataraxos」が、不完全情報ボードゲーム「ストラテゴ」において世界トップの人間プレイヤーを大差で撃破し、Nature誌に掲載された。相手の駒が一切見えない状況での「読み合い」という、チェスエンジンもポーカーAIも正面から攻略できなかった問題に、新たなアーキテクチャで切り込んだ点が注目される。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6abd983f6f60ae186b86bc7c?from=rss</guid>
+      <pubDate>Wed, 30 Sep 2026 23:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>terraform applyしたら、1ヶ月半前のコードが本番に出ていた</title>
+      <link>https://zenn.dev/gonta_ganbareyo/articles/6256bf2008b2ef</link>
+      <description>こんにちは。gontaです。
+GCP上でサービスを作っていて、インフラはTerraformで管理しています。
+先日、使わなくなった環境変数を削除してterraform applyしたところ、本番が落ちました。（まだリリースはしていない）
+調べてみたら、1ヶ月半前のコンテナイメージが本番で動いていました。
+原因はTerraformの使い方というか、コンテナをTerraformで扱うときの構造的な話のようです。同じ踏み方をする人がいそうなのと、いい解決方法があれば教えていただきたいので書いてみました。
 
- 「探索できる人」は、いったい何をしているんだろう？
-そんなことを考えていたときに、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/6996274de49607</guid>
-      <pubDate>Mon, 28 Sep 2026 03:00:05 +0000</pubDate>
+ 前提
+Cloud Runのサービスは3つあります。Next.jsのWebアプリと、バッ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/gonta_ganbareyo/articles/6256bf2008b2ef</guid>
+      <pubDate>Wed, 30 Sep 2026 23:45:42 +0000</pubDate>
     </item>
     <item>
       <title>別会社の開発チームに AWS 環境を共有するのって大変だ</title>
