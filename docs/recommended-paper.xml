@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 12:45:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:09:26 +0000</lastBuildDate>
     <item>
-      <title>SpTRSV最適化のための強化学習誘導型グラフ変換</title>
-      <link>https://arxiv.org/abs/2609.40159v1</link>
-      <description>疎三角行列ソルバー (SpTRSV) は、数多くの科学技術アプリケーションにおける基本的なカーネルです。しかし、疎三角行列に内在するデータ依存性により、利用可能な並列処理が著しく制限され、効率的なワークロード分散が困難になっています。最近のグラフ変換技術は、入力行列の依存グラフを変更して並列実行を改善することで、これらの制限に対処しています。しかし、既存のグラフ変換戦略は手動で設計されたヒューリスティックに依存しているため、さまざまな最適化目標への開発と適応が困難です。本研究では、SpTRSV 用の強化学習誘導型グラフ変換フレームワークを提案します。このフレームワークでは、グラフ変換が逐次的な意思決定問題として定式化され、RL エージェントが行列依存の変換ポリシーを学習します。実世界の疎行列に対する実験結果では、最も高いケースで行の 1.50% のみを変更しながら、レベルが最大 94% 削減され、レベルコストの変動係数が最大 80% 削減されることが実証されています。平均して、強化学習（RL）を用いたグラフ変換では、行列の行の書き換えはわずか0.82%にとどまり、レベル数の23%削減と (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.40159v1</guid>
-      <pubDate>Wed, 30 Sep 2026 16:56:09 +0000</pubDate>
+      <title>X線天文学における空間的に変化するPSFを用いたベイズ画像再構成</title>
+      <link>https://arxiv.org/abs/2610.02062v1</link>
+      <description>X線観測所は、光子計数データに望ましくない機器効果を導入するため、これを正確に考慮する必要があります。特に、空間的に変化する点像分布関数（PSF）とショットノイズは、非自明な逆問題となります。本研究では、情報場理論（IFT）に基づくベイズ推論と、高速な空間的に変化するPSF表現を組み合わせて、物理的に妥当な最小限の事前仮定の下でX線フラックスの事後平均と不確実性を推定し、これらの機器効果を除去または低減します。まず、空間的なPSF変動を無視して、IFTベースのデコンボリューションを、SSIM、RMSE、およびNLLを評価指標として、Richardson-Lucy（RL）アルゴリズムの3つのバリアントと比較した合成例でベンチマークします。次に、補間パッチベースの畳み込みスキームが、複雑で空間的に変化するChandra PSFを正確に表現できるかどうかを、シミュレーションされたPSFデータで評価します。最後に、ぼかし除去と空間的に変化するPSF表現を組み合わせ、超新星残骸カシオペヤ座Aの実際のチャンドラ観測データに適用しました。IFTベースのデコンボリューションは、合成ベンチマークにおいて (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02062v1</guid>
+      <pubDate>Thu, 01 Oct 2026 17:03:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

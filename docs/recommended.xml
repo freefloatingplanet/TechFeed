@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 12:45:14 +0000</lastBuildDate>
-    <item>
-      <title>キャラクターを画面内の指定領域に収めるカメラ位置の計算方法</title>
-      <link>https://zenn.dev/reality_tech/articles/camera-auto-framing-algorithm</link>
-      <description>はじめに
-3Dキャラクターの写真や動画を撮影できるアプリやツールを開発・運用していると、画面内の指定領域に被写体を自動的に収めて撮影したいことがあります。さらに、指定領域内で被写体ができるだけ大きく映るようにしたい、キャラクターの体格・ポーズ・アニメーションなどの変化にフレーミングを追従させたい、という場合もあります。
-この記事では「被写体を画面内のフレーミング領域に収めるカメラ位置の求め方」について解説します。この手法を活用すると、以下のデモのように、被写体のポーズやアニメーションに合わせて自動的にフレーミングしながら撮影できます。
-
-
-YouTubeで見る
-デモアプリを開く
-
-
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/reality_tech/articles/camera-auto-framing-algorithm</guid>
-      <pubDate>Wed, 30 Sep 2026 09:00:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Oct 2026 12:09:19 +0000</lastBuildDate>
     <item>
       <title>AI開発時代だからこそ、テストの役割を見つめ直す</title>
       <link>https://zenn.dev/ababup1192/articles/77b844dcfc1529</link>
@@ -62,18 +46,22 @@ octox 専用のガイドが用意されているだけでなく、講義で実�
       <pubDate>Tue, 29 Sep 2026 02:45:05 +0000</pubDate>
     </item>
     <item>
-      <title>イングランド銀行が警告する「次のAI株急落は7月より深刻」— 4500億ドルの債務とローグAIが重なるリスク</title>
-      <link>https://techfeed.io/entries/6abd98296f60ae186b86bc3b?from=rss</link>
-      <description>9月30日、AIと金融市場の交差点を継続的に取材しているブログメディア・madrobot.blogが「The Bank of England warns AI stocks could fall much harder than they did in July」と題した記事を公開した。イングランド銀行の金融安定政策を担う委員会が、AI株の急落リスク・4500億ドル規模のAI債務・ローグAI（予期しない行動をとる自律モデル）によるサイバーリスクを同時に警告したことを詳しく紹介している。記事の根拠となる一次資料はイングランド銀行が公式に公表したFPC記録（2026年9月）であり、公的機関の一次ソースに基づく内容として信頼性を確認できる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6abd98296f60ae186b86bc3b?from=rss</guid>
-      <pubDate>Wed, 30 Sep 2026 23:15:53 +0000</pubDate>
+      <title>microCMS をやめて、Raspberry Pi で Payload CMS を動かす</title>
+      <link>https://zenn.dev/85store/articles/574a1a07233283</link>
+      <description>古着屋のサイト（Next.js 16 / Vercel）のブログとバナーを、microCMS から自宅の Raspberry Pi で動かす Payload CMS に移しました。
+結論から言うと、ポイントは「サイトは Pi を一切読まない」ことです。CMS は公開のたびに中身を JSON にして Cloudflare R2 に書き出し、サイトはその JSON だけを読みます。Pi が止まっても困るのは「編集できない」ことだけで、サイトの表示もビルドも影響を受けません。ログインは Tailscale のアカウントで行い、パスワードは持ちません。DB は Litestream で R2 に... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/85store/articles/574a1a07233283</guid>
+      <pubDate>Thu, 01 Oct 2026 13:59:52 +0000</pubDate>
     </item>
     <item>
-      <title>チェスより複雑な「見えない駒のゲーム」で世界王者を圧倒 — MITのAI「Ataraxos」が学習コスト1/100以下でDeepNashを上回った</title>
-      <link>https://techfeed.io/entries/6abd983f6f60ae186b86bc7c?from=rss</link>
-      <description>10月1日、Inside AI Newsが「MIT-Led Team's AI Ataraxos Achieves Superhuman Stratego Performance」と題した記事を公開した。MIT・CMU・NYU・スタンフォードの共同チームが開発したAI「Ataraxos」が、不完全情報ボードゲーム「ストラテゴ」において世界トップの人間プレイヤーを大差で撃破し、Nature誌に掲載された。相手の駒が一切見えない状況での「読み合い」という、チェスエンジンもポーカーAIも正面から攻略できなかった問題に、新たなアーキテクチャで切り込んだ点が注目される。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6abd983f6f60ae186b86bc7c?from=rss</guid>
-      <pubDate>Wed, 30 Sep 2026 23:16:15 +0000</pubDate>
+      <title>オブザーバビリティのAIエージェントをどう評価するか</title>
+      <link>https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop</link>
+      <description>はじめに
+AIエージェントにオブザーバビリティの仕事をさせたとき、その最終応答の品質が上がったのか下がったのかを、どうやって知るのでしょうか。
+エージェントの最終応答を読んで判断する方法は、早い段階で行き詰まります。正しい応答と、正しく見えるだけの応答が同じ見た目をしているからです。しかも同じ質問に毎回同じ応答が返るわけでもなく、期待する文字列を固定したテストは書けません。
+この記事では、Grafana Assistantを開発しているチームが公式のエンジニアリングブログに公開した Building an evaluation loop for Grafana Assistant（Y... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>terraform applyしたら、1ヶ月半前のコードが本番に出ていた</title>
@@ -90,12 +78,20 @@ Cloud Runのサービスは3つあります。Next.jsのWebアプリと、バッ
       <pubDate>Wed, 30 Sep 2026 23:45:42 +0000</pubDate>
     </item>
     <item>
-      <title>別会社の開発チームに AWS 環境を共有するのって大変だ</title>
-      <link>https://zenn.dev/dress_code/articles/f89590d105ba5f</link>
-      <description>別会社の開発チームに AWS を触ってもらいたいとき、どうしてますか？
-DRESS CODE（弊社のプロダクト）の開発にはパートナー企業のエンジニアにも参加してもらっているのですが、デプロイは GitHub Actions が全部やってくれるので、AWS の権限を渡さなくても開発は回ります。しかし、動作検証のフェーズにおいては「DB の中身を見たい」「バッチを流したい」「S3 に何が置かれたか確かめたい」がどうしても出てきます。社内メンバーならコンソールや踏み台から見に行くだけのことが、別会社の人だと「どのアカウントで入る？」「退職したら誰が消す？」「監査ログにちゃんと残る？」と、一... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/f89590d105ba5f</guid>
-      <pubDate>Mon, 28 Sep 2026 10:00:05 +0000</pubDate>
+      <title>glibc の strlen は文字列範囲外を読むことで高速に計算する</title>
+      <link>https://zenn.dev/peloeil/articles/glibc-strlen-2023</link>
+      <description>はじめに
+strlen は、文字列の先頭から終端文字 \0 の直前までの byte 数を返す関数です。自分で実装するなら、1byte ずつ読んで \0 が見つかるまで数えるのが自然だと思います。glibc では、この探索を高速化するために、複数 byte をまとめて読み、ビット演算を使って終端文字を探しています。その読み込みは、文字列の範囲内に収まるとは限りません。
+このように複数 byte をまとめて調べる仕組みは、「glibc strlen コードリーディング」(2020年)などでも解説されています。複数 byte を1つの整数として扱い、引き算とビット演算だけで 0 の有無を判... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/peloeil/articles/glibc-strlen-2023</guid>
+      <pubDate>Thu, 01 Oct 2026 17:56:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>IBMのAI開発ツール「Bob」がオンプレミス対応 — センシティブなコードを社外に出さずにAI開発が可能に</title>
+      <link>https://techfeed.io/entries/6abee9b96f60ae186b87941a?from=rss</link>
+      <description>10月2日、SiliconAngleが「IBM allows on-prem deployment of its Bob agentic development platform」と題した記事を公開した。IBMがエージェント型ソフトウェア開発プラットフォーム「IBM Bob」のセルフホスト展開オプションを発表したもので、センシティブなコードや規制対象データを外部サービスに送信できないというエンタープライズ現場の根本的な課題に正面から応える施策として注目されている。発表を受けてIBMの株価は時間外取引で3%超上昇しており、市場もその意義を評価した格好だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6abee9b96f60ae186b87941a?from=rss</guid>
+      <pubDate>Thu, 01 Oct 2026 23:16:09 +0000</pubDate>
     </item>
     <item>
       <title>AI 駆動開発で「設計」はどこに書くのか ― 振る舞いをテストで検証できる「仕様」にしてみる</title>

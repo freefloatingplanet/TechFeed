@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 12:45:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:09:28 +0000</lastBuildDate>
     <item>
-      <title>プレゼンテーション：コンテキストは新たなコードである</title>
-      <link>https://www.infoq.com/presentations/context-as-code-devops-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>パトリック・デボワ氏は、実績のあるソフトウェアエンジニアリング手法を用いて、コンテキストを管理、評価、配布、監視する方法について解説します。彼は、コンテキストをコードのように扱うこと（テスト、CI/CD、パッケージマネージャー、セキュリティスキャンを含む）によって、エンジニアリングリーダーがAIコーディングエージェントを確実に拡張し、非決定論的な出力を制御し、長期的な組織的知識を構築できることを示します。パトリック・デボワ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/context-as-code-devops-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 30 Sep 2026 11:00:00 +0000</pubDate>
+      <title>記事：再利用可能から再生可能へ：共有UIコンポーネントライブラリの再考</title>
+      <link>https://www.infoq.com/articles/regeneratable-ui-component-library/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>再生によって再利用の経済性は変化しました。堅牢なデザインシステムに基づいたモデルは、ほとんどの標準的なUIをオンデマンドで生成できるため、標準的なコンポーネントパッケージを維持するために費用をかけることは、以前よりもはるかに正当化しにくくなっています。デザインシステム、トークン、ガイドライン、テストを常に中心に据えましょう。これらこそが、実際に一貫性をもたらすものなのです。ダニエル・カーティス (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/regeneratable-ui-component-library/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
