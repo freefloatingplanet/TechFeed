@@ -7,27 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 12:09:19 +0000</lastBuildDate>
-    <item>
-      <title>AI開発時代だからこそ、テストの役割を見つめ直す</title>
-      <link>https://zenn.dev/ababup1192/articles/77b844dcfc1529</link>
-      <description>AI がコードを書くようになり、「これからは E2E テストが大事だ」「いや、ユニットテストを厚くすべきだ」という議論をよく見かけます。けれども、テストの種類ごとに検出できる不具合は違い、その役割は AI が来ても変わりません。大事なのは、それぞれの役割を意識して使い分けることです。この記事では、テストの役割の違いと、AI と一緒に開発する時にそれぞれの役割をどう活かすかを整理します。
-
- 役割は、検出できる不具合の種類で決まる
-テストの種類を比べる時は、「どれが優れているか」ではなく「どの種類の不具合を検出できるか」で見ると整理しやすくなります。
-ユニットテストは、関数やモジュールのロ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ababup1192/articles/77b844dcfc1529</guid>
-      <pubDate>Tue, 29 Sep 2026 01:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rustで作った自作OS「octox」がサンフランシスコ大学の教材になっていました</title>
-      <link>https://zenn.dev/o8vm/articles/3934806424cd85</link>
-      <description>私が Rust で実装して公開している Unix-like OS「octox」が、サンフランシスコ大学（University of San Francisco）の授業で教材として使用されていることが分かりました。
-octox 専用のガイドが用意されているだけでなく、講義で実装が解説され、ユーザープログラムやカーネルを拡張する課題も公開されています。[1]
-もともとは自分が OS を理解するために始めたプロジェクトなので、こうした形で活用していただけるのは素直にうれしいです。この投稿では、公開されている教材を紹介しながら、サンフランシスコ大学では octox を使って何を学ぶのかを見ていき... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/o8vm/articles/3934806424cd85</guid>
-      <pubDate>Tue, 29 Sep 2026 09:00:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Oct 2026 11:20:03 +0000</lastBuildDate>
     <item>
       <title>３分で読めるトランザクション設計のコツ</title>
       <link>https://zenn.dev/mconfjp/articles/transaction-action-order</link>
@@ -46,14 +26,6 @@ octox 専用のガイドが用意されているだけでなく、講義で実�
       <pubDate>Tue, 29 Sep 2026 02:45:05 +0000</pubDate>
     </item>
     <item>
-      <title>microCMS をやめて、Raspberry Pi で Payload CMS を動かす</title>
-      <link>https://zenn.dev/85store/articles/574a1a07233283</link>
-      <description>古着屋のサイト（Next.js 16 / Vercel）のブログとバナーを、microCMS から自宅の Raspberry Pi で動かす Payload CMS に移しました。
-結論から言うと、ポイントは「サイトは Pi を一切読まない」ことです。CMS は公開のたびに中身を JSON にして Cloudflare R2 に書き出し、サイトはその JSON だけを読みます。Pi が止まっても困るのは「編集できない」ことだけで、サイトの表示もビルドも影響を受けません。ログインは Tailscale のアカウントで行い、パスワードは持ちません。DB は Litestream で R2 に... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/85store/articles/574a1a07233283</guid>
-      <pubDate>Thu, 01 Oct 2026 13:59:52 +0000</pubDate>
-    </item>
-    <item>
       <title>オブザーバビリティのAIエージェントをどう評価するか</title>
       <link>https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop</link>
       <description>はじめに
@@ -62,20 +34,6 @@ AIエージェントにオブザーバビリティの仕事をさせたとき、
 この記事では、Grafana Assistantを開発しているチームが公式のエンジニアリングブログに公開した Building an evaluation loop for Grafana Assistant（Y... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>terraform applyしたら、1ヶ月半前のコードが本番に出ていた</title>
-      <link>https://zenn.dev/gonta_ganbareyo/articles/6256bf2008b2ef</link>
-      <description>こんにちは。gontaです。
-GCP上でサービスを作っていて、インフラはTerraformで管理しています。
-先日、使わなくなった環境変数を削除してterraform applyしたところ、本番が落ちました。（まだリリースはしていない）
-調べてみたら、1ヶ月半前のコンテナイメージが本番で動いていました。
-原因はTerraformの使い方というか、コンテナをTerraformで扱うときの構造的な話のようです。同じ踏み方をする人がいそうなのと、いい解決方法があれば教えていただきたいので書いてみました。
-
- 前提
-Cloud Runのサービスは3つあります。Next.jsのWebアプリと、バッ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/gonta_ganbareyo/articles/6256bf2008b2ef</guid>
-      <pubDate>Wed, 30 Sep 2026 23:45:42 +0000</pubDate>
     </item>
     <item>
       <title>glibc の strlen は文字列範囲外を読むことで高速に計算する</title>
@@ -87,11 +45,50 @@ strlen は、文字列の先頭から終端文字 \0 の直前までの byte 数
       <pubDate>Thu, 01 Oct 2026 17:56:12 +0000</pubDate>
     </item>
     <item>
-      <title>IBMのAI開発ツール「Bob」がオンプレミス対応 — センシティブなコードを社外に出さずにAI開発が可能に</title>
-      <link>https://techfeed.io/entries/6abee9b96f60ae186b87941a?from=rss</link>
-      <description>10月2日、SiliconAngleが「IBM allows on-prem deployment of its Bob agentic development platform」と題した記事を公開した。IBMがエージェント型ソフトウェア開発プラットフォーム「IBM Bob」のセルフホスト展開オプションを発表したもので、センシティブなコードや規制対象データを外部サービスに送信できないというエンタープライズ現場の根本的な課題に正面から応える施策として注目されている。発表を受けてIBMの株価は時間外取引で3%超上昇しており、市場もその意義を評価した格好だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6abee9b96f60ae186b87941a?from=rss</guid>
-      <pubDate>Thu, 01 Oct 2026 23:16:09 +0000</pubDate>
+      <title>Strands Decider 2Bについて理解する</title>
+      <link>https://zenn.dev/fusic/articles/db6e62832a4a1f</link>
+      <description>はじめに
+Fusicのレオナです。
+Strands Agentsは、AWSが開発し、オープンソースとして公開しているAIエージェント開発用SDKです。LLMに与える指示と利用可能なツールを定義することで、状況に応じてツールを選び、その実行結果を踏まえながら処理を進めるエージェントを構築できます。AWS専用のSDKではなく、Amazon Bedrock以外のモデルAPIやローカルモデルにも対応しています。
+今回のブログで取り上げる「Strands Decider 2B」は、Strandsの実験的なプロジェクトを扱うStrands Labsから公開された判断用モデルです。Strands ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/fusic/articles/db6e62832a4a1f</guid>
+      <pubDate>Fri, 02 Oct 2026 13:37:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>terraform applyしたら、1ヶ月半前のコードが本番に出ていた</title>
+      <link>https://zenn.dev/gonta_ganbareyo/articles/6256bf2008b2ef</link>
+      <description>こんにちは。gontaです。
+GCP上でサービスを作っていて、インフラはTerraformで管理しています。
+先日、使わなくなった環境変数を削除してterraform applyしたところ、本番が落ちました。（まだリリースはしていない）
+調べてみたら、1ヶ月半前のコンテナイメージが本番で動いていました。
+原因はTerraformの使い方というか、コンテナをTerraformで扱うときの構造的な話のようです。同じ踏み方をする人がいそうなのと、いい解決方法があれば教えていただきたいので書いてみました。
+!
+こちら改めて調査をすると、デプロイをしてからterraform applyをしてしまっ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/gonta_ganbareyo/articles/6256bf2008b2ef</guid>
+      <pubDate>Wed, 30 Sep 2026 23:45:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIエージェントはタスク完了後もデータへアクセスし続ける — ポリシーを「書いている」99%の組織が「執行できていない」現実</title>
+      <link>https://techfeed.io/entries/6ac039316f60ae186b88499a?from=rss</link>
+      <description>10月2日、Help Net Securityが「AI agents keep access to company data after their work is done」と題した記事を公開した。AIエージェントがタスク完了後もデータアクセス権限を保持し続けるリスクと、組織のポリシー執行に存在する構造的な盲点について、Delineaの調査レポートをもとに詳しく報告している。AIエージェントのアイデンティティ管理は、2025年以降セキュリティ業界で急速に注目を集めているテーマだ。CISA（米国サイバーセキュリティ・インフラセキュリティ庁）やNISTがAIシステムのリスク管理フレームワーク整備を進める一方、現場では「書いてあるポリシー」と「実際に執行できる仕組み」のギャップが埋まっていない。本レポートはその実態を定量的に示している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ac039316f60ae186b88499a?from=rss</guid>
+      <pubDate>Fri, 02 Oct 2026 23:07:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIで幹部の声を完全コピー、イタリア銀行から108億円を詐取 — 「上司の声」を信じた会長が送金承認、残金は暗号資産に変換され追跡困難</title>
+      <link>https://techfeed.io/entries/6ac03a4c6f60ae186b8849e5?from=rss</link>
+      <description>10月3日、My Electric Sparksが「Italian Bank Loses $108 Million in AI Scam Using Cloned Executive Voices」と題した記事を公開した。AIによる音声クローニングを悪用し、イタリア大手銀行の会長が「上司の声」を信じて9500万ユーロ（約108億円）の送金を承認した事件の詳細だ。パスワードは変更できる。不審なメールは無視できる。しかし、長年信頼してきた上司や顧問弁護士の声をリアルタイムで「偽物」と見破ることは、人間にとって極めて難しい——本事件はその現実を突きつけている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ac03a4c6f60ae186b8849e5?from=rss</guid>
+      <pubDate>Fri, 02 Oct 2026 23:12:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windowsで再生中の音声をWhisperで文字起こしする：Meetilyの仕組みを100行未満のRustで再現する</title>
+      <link>https://zenn.dev/tmtk/articles/edc992e6a24b65</link>
+      <description>はじめに
+Meetily（会議の録音、文字起こし、要約をすべてPCの中で行うオープンソースの会議アシスタント）のコードを読みました。Windows版のMeetilyは、会議アプリやブラウザが再生している音を「WASAPIのループバック」（PCが再生している音を、そのまま録音するWindowsの仕組み）で取り込み、Whisper（OpenAIが公開している音声認識モデル）などで文字にしています。
+ただ、Meetilyは製品なので、マイクとのミックス、ノイズ除去、デバイスの抜き差しへの対応など、音を取って文字にする以外の処理がたくさんあります。最低限どこまであれば動くのかが、コードからは... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tmtk/articles/edc992e6a24b65</guid>
+      <pubDate>Sat, 03 Oct 2026 08:03:54 +0000</pubDate>
     </item>
     <item>
       <title>AI 駆動開発で「設計」はどこに書くのか ― 振る舞いをテストで検証できる「仕様」にしてみる</title>
