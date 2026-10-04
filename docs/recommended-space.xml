@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 11:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:01:00 +0000</lastBuildDate>
     <item>
       <title>星々の音楽「スタークエイク（星震）」</title>
       <link>https://sorae.info/astronomy/20261001-starquake.html</link>
@@ -21,13 +21,6 @@
       <description>2026年9月26日に開催される宇宙業界に特化したキャリアイベント『SPACETIDE Career Connect 2026 Summer』について、注目の2つのトークセッションについて紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46842/</guid>
       <pubDate>Fri, 04 Sep 2026 04:37:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>NASA天文衛星「スウィフト」科学観測が本格再開　運用困難な高度300kmには10月上旬～中旬に到達か</title>
-      <link>https://sorae.info/space/20260928-swift-bat.html</link>
-      <description>NASA（アメリカ航空宇宙局）は2026年9月25日付で、軌道上昇を断念し科学観測を再開していたガンマ線観測衛星「ニール・ゲーレルス・スウィフト（Neil Gehrels Swift）」について、同年4月から停止していた… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260928-swift-bat.html</guid>
-      <pubDate>Mon, 28 Sep 2026 02:11:30 +0000</pubDate>
     </item>
     <item>
       <title>GoogleのAI用チップ搭載衛星、宇宙環境で動作試験へ　宇宙データセンター構想の初実証</title>
@@ -70,6 +63,13 @@
       <description>ESA（ヨーロッパ宇宙機関）は2026年9月30日付で、CAS（中国科学院）との共同ミッション「Smile」の衛星による科学観測の準備が整ったことを発表し、搭載する観測装置で捉えた地球のオーロラの映像などを公開しました。… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/space/20261002-smile.html</guid>
       <pubDate>Fri, 02 Oct 2026 08:15:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年10月の星空情報：4日は土星の衝</title>
+      <link>https://sorae.info/astronomy/202610-starry-sky.html</link>
+      <description>10月、秋のお彼岸を過ぎて日が短くなり、涼風が虫の声を運ぶ時季となりました。澄み切った空を見上げると、秋の星座が大きく広がっています。 秋の空でまず見つけたいのは「秋の四辺形」です。4つの星からなるやや歪んだ台形で、今の… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/202610-starry-sky.html</guid>
+      <pubDate>Sun, 04 Oct 2026 08:12:43 +0000</pubDate>
     </item>
     <item>
       <title>「宇宙業界は、地上の経験を必要としている」通信・電力インフラ業界から宇宙交通管理の基盤を作るPMに転身して2カ月の手応え</title>

@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Oct 2026 11:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:01:07 +0000</lastBuildDate>
     <item>
-      <title>記事：再利用可能から再生可能へ：共有UIコンポーネントライブラリの再考</title>
-      <link>https://www.infoq.com/articles/regeneratable-ui-component-library/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>再生によって再利用の経済性は変化しました。堅牢なデザインシステムに基づいたモデルは、ほとんどの標準的なUIをオンデマンドで生成できるため、標準的なコンポーネントパッケージを維持するために費用をかけることは、以前よりもはるかに正当化しにくくなっています。デザインシステム、トークン、ガイドライン、テストを常に中心に据えましょう。これらこそが、実際に一貫性をもたらすものなのです。ダニエル・カーティス (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/articles/regeneratable-ui-component-library/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
+      <title>Pizza Bot：バックグラウンドAIエージェント向けオープンソース受信箱</title>
+      <link>https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>AWSの開発者チームが最近、Pizza Botをオープンソース化しました。これは、AIエージェントがバックグラウンドでタスクを実行し、受信箱のようなインターフェースを通して結果を返すように設計された、セルフホスト型のアプリケーションです。エージェントは、スケジュールされた作業やWebhookによってトリガーされる作業を実行したり、専門の作業者にタスクを委任したり、必要に応じて人間の承認のために一時停止したりできます。レナート・ロシオ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sun, 04 Oct 2026 06:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
