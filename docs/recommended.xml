@@ -7,49 +7,56 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 12:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:02:45 +0000</lastBuildDate>
     <item>
-      <title>Rustで作った自作OS「octox」がサンフランシスコ大学の教材になっていました</title>
-      <link>https://zenn.dev/o8vm/articles/3934806424cd85</link>
-      <description>私が Rust で実装して公開している Unix-like OS「octox」が、サンフランシスコ大学（University of San Francisco）の授業で教材として使用されていることが分かりました。
-octox 専用のガイドが用意されているだけでなく、講義で実装が解説され、ユーザープログラムやカーネルを拡張する課題も公開されています。[1]
-もともとは自分が OS を理解するために始めたプロジェクトなので、こうした形で活用していただけるのは素直にうれしいです。この投稿では、公開されている教材を紹介しながら、サンフランシスコ大学では octox を使って何を学ぶのかを見ていき... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/o8vm/articles/3934806424cd85</guid>
-      <pubDate>Tue, 29 Sep 2026 09:00:05 +0000</pubDate>
+      <title>JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通</title>
+      <link>https://zenn.dev/qnighy/articles/json-ambiguity</link>
+      <description>タイトルは「JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通じて明らかにします。」です。
+
+ JSON とは
+JSON (JavaScript Object Notation) はテキストベースでスキーマレスな、構造化されたデータ交換用フォーマットです。
+JavaScript の Expression 構文のサブセットとなることを意識して作られているため、この名前があります。
+
+ JSON の仕様
+JSON はインターネット標準と産業標準の2つの形で標準化されています。
+
+インターネット標準として... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/qnighy/articles/json-ambiguity</guid>
+      <pubDate>Sun, 04 Oct 2026 08:18:23 +0000</pubDate>
     </item>
     <item>
-      <title>３分で読めるトランザクション設計のコツ</title>
-      <link>https://zenn.dev/mconfjp/articles/transaction-action-order</link>
-      <description>これはなに
-こんにちは、もりたです。
-最近Software Designで連載をしています[1]。連載をしているとアホほど資料を読んでめちゃくちゃ学びがあるんですが原稿の進捗がやばすぎてZennに投稿できません[2]。この記事はせめてもの償いとして最近知った便利情報を簡単に皆さんにお伝えします。
-テーマは「トランザクションの中に処理を書く順番」です。
-これについて、簡単な指針があるという話をします。
+      <title>実務において敵対的レビューはどの程度有効なのか</title>
+      <link>https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef</link>
+      <description>目次
 
- 課題：トランザクション処理の順番がわからん
+背景
+やったこと
+検証結果
+考察
+付記：レビューと自動修正のループで指摘が収束しない問題
+感想
 
-トランザクション処理を書いていると、こういう場面に出会います。
 
-外部サービスとの連携があって、どこで失敗したらどうなるかを考えないとい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mconfjp/articles/transaction-action-order</guid>
-      <pubDate>Tue, 29 Sep 2026 02:45:05 +0000</pubDate>
+ 1. 背景
+AI エージェントにコードレビューをさせる手法のひとつとして、敵対的レビューが広まっています。差分を通常どおりレビューして問題を探すだけでなく、「この変更で誤った結果やエラーを起こす入力や状況は何か」を探す役割のエージェントを別に立て、両者の指摘を実コードで確かめてから確定させる方式です。筆者のチームでも導入しています。
+一方で、実務で回すと負担が目立ちます。まず時間と token のコストが高いです。複数のエージェントを並列に実行し、各エージェントの指摘をさらに... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef</guid>
+      <pubDate>Thu, 01 Oct 2026 10:48:47 +0000</pubDate>
     </item>
     <item>
-      <title>AIリテラシーが高い人は1年後もエンゲージメントが高い — 1,108名を追跡した縦断研究が示す「自己効力感→バーンアウト低減」の連鎖媒介</title>
-      <link>https://techfeed.io/entries/6ac18a566f60ae186b88b576?from=rss</link>
-      <description>10月1日、Qingqi Liu、Yuju Lei、Jingjing Liが「Does AI literacy enhance employee work engagement by boosting work self-efficacy or reducing job burnout? A one-year longitudinal study」と題した論文を公開した。AIリテラシーが仕事への活力・熱意・没頭感（ワーク・エンゲージメント）を高めるのはなぜか——その心理的メカニズムを、1年間・3時点の縦断調査で実証した研究だ。注目すべきは、「自己効力感の向上がバーンアウト低減を介してエンゲージメントへ波及する」という連鎖媒介経路が初めて縦断データで示された点にある。なお、元記事はNature Human Behaviourに掲載されたPDFへの直リンクであり、アクセス制限がかかる場合はDOI（s41599-026-09184-7）経由でアブストラクトを参照されたい。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ac18a566f60ae186b88b576?from=rss</guid>
-      <pubDate>Sat, 03 Oct 2026 23:05:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>オブザーバビリティのAIエージェントをどう評価するか</title>
-      <link>https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop</link>
+      <title>Cloudflare の判定モデル Clef を Workers AI で触ってみた</title>
+      <link>https://zenn.dev/akari1106/articles/b6d3180cc50dfe</link>
       <description>はじめに
-AIエージェントにオブザーバビリティの仕事をさせたとき、その最終応答の品質が上がったのか下がったのかを、どうやって知るのでしょうか。
-エージェントの最終応答を読んで判断する方法は、早い段階で行き詰まります。正しい応答と、正しく見えるだけの応答が同じ見た目をしているからです。しかも同じ質問に毎回同じ応答が返るわけでもなく、期待する文字列を固定したテストは書けません。
-この記事では、Grafana Assistantを開発しているチームが公式のエンジニアリングブログに公開した Building an evaluation loop for Grafana Assistant（Y... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+Cloudflare が 2026年10月1日に、判定用のモデル「Clef」と「Clef-flash」を発表しました。
+この記事は、2つのモデルを Workers AI から呼び出して、簡単な実験をした記録です。
+Jevは私は触り済みなのそれ前提感あるかもです。一旦として、Clef を触ったよ、の話になります。
+公式の情報は次のページで確認できます。
+
+発表記事: Introducing Clef: our open-source decision models, and new RL fine-tuning platform
+
+Workers AI のモデルページ: Cl... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/akari1106/articles/b6d3180cc50dfe</guid>
+      <pubDate>Sun, 04 Oct 2026 14:36:56 +0000</pubDate>
     </item>
     <item>
       <title>glibc の strlen は文字列範囲外を読むことで高速に計算する</title>
@@ -71,53 +78,55 @@ Strands Agentsは、AWSが開発し、オープンソースとして公開して
       <pubDate>Fri, 02 Oct 2026 13:37:55 +0000</pubDate>
     </item>
     <item>
-      <title>terraform applyしたら、1ヶ月半前のコードが本番に出ていた</title>
-      <link>https://zenn.dev/gonta_ganbareyo/articles/6256bf2008b2ef</link>
-      <description>こんにちは。gontaです。
-GCP上でサービスを作っていて、インフラはTerraformで管理しています。
-先日、使わなくなった環境変数を削除してterraform applyしたところ、本番が落ちました。（まだリリースはしていない）
-調べてみたら、1ヶ月半前のコンテナイメージが本番で動いていました。
-原因はTerraformの使い方というか、コンテナをTerraformで扱うときの構造的な話のようです。同じ踏み方をする人がいそうなのと、いい解決方法があれば教えていただきたいので書いてみました。
-!
-こちら改めて調査をすると、デプロイをしてからterraform applyをしてしまっ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/gonta_ganbareyo/articles/6256bf2008b2ef</guid>
-      <pubDate>Wed, 30 Sep 2026 23:45:42 +0000</pubDate>
+      <title>社長（非エンジニア）が、土日でシステムを作ってくる——Libertyship澤井CTOに聞く、ドメイン知識をプロダクト価値に変えるAI駆動開発フロー</title>
+      <link>https://techfeed.io/entries/6abf64466f60ae186b88065e?from=rss</link>
+      <description>AIで「誰でもコードが書ける」時代になった。非エンジニアの社長が土日でシステムを作り、翌週には新機能のプルリクを出してくる——。宮崎のベンチャー企業Libertyshipで、そんな現実に直面したCTO澤井 友恵氏は、「最初はちょっと迷惑でした（笑）」と率直に語る。しかし葛藤の先に見えてきたのは、AI時代のCTOが本当にやるべき仕事だった。サウナをIoTでつなぐユニークな事業を展開しながら、少人数チームで品質管理の仕組みを作り上げた澤井氏に、AIが変えた開発の最前線を聞いてきた。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6abf64466f60ae186b88065e?from=rss</guid>
+      <pubDate>Mon, 05 Oct 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>NVIDIAとAnthropicのトップがホワイトハウスで激論 — 「AI Safety」vs「Superintelligence」、業界内の思想的亀裂が表面化</title>
-      <link>https://techfeed.io/entries/6ac18b196f60ae186b88b5a0?from=rss</link>
-      <description>10月2日、The Next Webが「Jensen Huang questioned Dario Amodei's AI warnings at the White House」と題した記事を公開した。ホワイトハウスの昼食会でAI安全性に関する原則声明への署名が終わった直後、NVIDIAのJensen HuangがAnthropicのDario AmodeiのAIリスク警告に公の場で疑問を呈した。業界の「一枚岩」を演出した直後に露わになった内部の温度差として注目されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ac18b196f60ae186b88b5a0?from=rss</guid>
-      <pubDate>Sat, 03 Oct 2026 23:09:13 +0000</pubDate>
+      <title>Traefikで、アプリのPodを0台にしてもメンテナンス画面を返したい！</title>
+      <link>https://zenn.dev/gmomedia/articles/16068e12b530e1</link>
+      <description>あいさつ
+こんにちは。GMOメディアの岡嶋です！
+6月にこの記事を出そうと思っていたのですが気が付いたら10月になっていました。
+ただあの時の私も今の私も変わらず半袖を着ているので、あまり時間は経っていないのだと思います。みなさんもそう思いますよね？
+
+ 概要
+私たちのチームでは、Kubernetes上のTraefikでメンテナンス画面を出す仕組みを以前から使っています。ただ、この仕組みはアプリのPodが動いている前提で作られていました。
+DBのメジャーバージョンアップのように、アプリの常駐PodからDBへの接続を止めたいメンテナンスでは、アプリのPodを0台まで落としたくなります。... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/gmomedia/articles/16068e12b530e1</guid>
+      <pubDate>Mon, 05 Oct 2026 05:46:38 +0000</pubDate>
     </item>
     <item>
-      <title>AI 駆動開発で「設計」はどこに書くのか ― 振る舞いをテストで検証できる「仕様」にしてみる</title>
-      <link>https://zenn.dev/softbank/articles/6f98cf7c4ebfd3</link>
+      <title>中国AIデータセンターの本当の競争軸は「モデル性能」ではなく「電力確保」だった — 省レベルの電力網が国家戦略を左右する</title>
+      <link>https://techfeed.io/entries/6ac2da3c6f60ae186b891030?from=rss</link>
+      <description>10月3日、Dick Weisingerが「China's AI Data Centres: Energy Shift」と題した記事を公開した。Weisingerは米国のドキュメント管理・コンテンツ技術企業Formtekのブログで長年テック動向の寄稿を続けてきた著者で、本稿はアジアのAIトレンドを扱うキュレーションメディア『Asia AI』に掲載されたものだ。記事が突く核心は鋭い。中国AIインフラの競争軸は、西側メディアが好む「モデル性能」の比較ではなく、「どの省がサーバーを冷やし続けられるか」というエネルギー確保の問題に移っている、という指摘だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ac2da3c6f60ae186b891030?from=rss</guid>
+      <pubDate>Sun, 04 Oct 2026 22:59:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>既存OSSのnginxをOpenRestyへ差し替え、Entra IDとアプリ内ユーザーを追跡できるログを作った話</title>
+      <link>https://zenn.dev/gritio28tech/articles/7b48f4db2d2bfa</link>
       <description>はじめに
-日々の開発において、AI にコードを書いてもらうことは日常になってきました。要件を伝えれば既存のコードベースを調査し、その作法に合わせて機能を足してくれます。
-生成されたコードがいつも正しいわけではありませんが、それでも「コードを書く」という作業そのものは、以前ほど開発のボトルネックではなくなりつつあると感じています。
-その一方で、AI と一緒に開発していると、「何を実装してもらうか」を決める時間の比重が増えてきました。この記事では、その実感を出発点に、次の 3 つを順に考えてみました。
 
-AI 駆動開発で、設計はどこに書いておくとよいのか
-既存の設計成果物で、実装されたコ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/softbank/articles/6f98cf7c4ebfd3</guid>
-      <pubDate>Tue, 29 Sep 2026 07:02:41 +0000</pubDate>
+ 案件の背景
+IaaS（VM）の構築と監視・運用保守の経験が中心だった自分が、PaaSやコンテナを使ったアーキテクチャの設計・構築を担当した際に、工夫したことをまとめておこうと思います。
+2025年4月頃から、DifyのOSS版をAzureで運用するためのサービス選定から構築、運用準備までを担当していました。
+2026年10月現在、自分の周りでは当時ほどDifyの名前を聞かなくなりました。それでも、この案件で試したことやハマったことはDify以外でも使える部分があると思うので、今回はDifyそのものの紹介ではなく、既存OSSに追加の業務要件をどう実装したかを中心に書いてい... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/gritio28tech/articles/7b48f4db2d2bfa</guid>
+      <pubDate>Sun, 04 Oct 2026 12:34:49 +0000</pubDate>
     </item>
     <item>
-      <title>生命科学研究 × AI 活用ハンドブック</title>
-      <link>https://zenn.dev/labcode/books/c4f81b6a2d9e37</link>
-      <description>📰 概要
-「AI で研究時間を取り戻す」ための、生命科学研究者向けの実践ハンドブックです。
-
-実験があり、解析があり、事務手続きがあり、そのうえで論文を書かなければならない。指導教員は忙しく、隣に詳しい人がいるとは限らない。そんな状況で研究を続ける研究者たちに取材し、実際にやっていることをそのまま書きました。理論書ではなく、明日から使える手順書です。
-
-🪜 最小限の学習コストで、できることを最大化する
-AI の使い方を「対話画面で完結（学習コストほぼゼロ）」「ツールを組み合わせる（30 分・コード不要）」「エージェントに任せる（数日）」の 3 段階に分け、全節に段階を表示しました。第 1 段階だけでも価値の大半は回収できます。難しい章は必要になってから読めば十分です。
-
-📮 メール・Slack・議事録から始める
-最も効果が大きく学習コストが低いのがコミュニケーションです。Gmail の返信文生成、Slack の AI 検索、ChatGPT コネクタでの横断検索、Gemini Notebook での議事録づくりを画面付きで解説。旅費・謝金・兼業届など「メールに埋もれて二度と探せない学内手 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/labcode/books/c4f81b6a2d9e37</guid>
-      <pubDate>Tue, 29 Sep 2026 14:29:01 +0000</pubDate>
+      <title>勘で置いていたWi-Fiを、数理最適化で配置してみた</title>
+      <link>https://zenn.dev/dalab/articles/66f067626d33de</link>
+      <description>0. はじめに
+仕事をしていて、「この場所はWi-Fiが安定しているのに、少し移動するとつながりにくい」と感じたことはないでしょうか。
+オフィス内の電波強度は、アクセスポイント（AP）の配置や壁・什器などの影響によって場所ごとに異なります。
+そこで、ふと「これって数理最適化で解けるのでは」と思い、実装してみました。Wifiの電波強度は距離と障害物（壁）で決まる非常にシンプルなモデルで近似しました。「限られた台数のAPで、重要なエリアをどうカバーするか」を組み合わせ最適化問題として定式化しました。
+本記事では、実際のオフィスフロア図をベースに、整数線形計画法（ILP）を使ってAP配置を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dalab/articles/66f067626d33de</guid>
+      <pubDate>Fri, 02 Oct 2026 05:27:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 04 Oct 2026 12:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:02:55 +0000</lastBuildDate>
     <item>
-      <title>X線天文学における空間的に変化するPSFを用いたベイズ画像再構成</title>
-      <link>https://arxiv.org/abs/2610.02062v1</link>
-      <description>X線観測所は、光子計数データに望ましくない機器効果を導入するため、これを正確に考慮する必要があります。特に、空間的に変化する点像分布関数（PSF）とショットノイズは、非自明な逆問題となります。本研究では、情報場理論（IFT）に基づくベイズ推論と、高速な空間的に変化するPSF表現を組み合わせて、物理的に妥当な最小限の事前仮定の下でX線フラックスの事後平均と不確実性を推定し、これらの機器効果を除去または低減します。まず、空間的なPSF変動を無視して、IFTベースのデコンボリューションを、SSIM、RMSE、およびNLLを評価指標として、Richardson-Lucy（RL）アルゴリズムの3つのバリアントと比較した合成例でベンチマークします。次に、補間パッチベースの畳み込みスキームが、複雑で空間的に変化するChandra PSFを正確に表現できるかどうかを、シミュレーションされたPSFデータで評価します。最後に、ぼかし除去と空間的に変化するPSF表現を組み合わせ、超新星残骸カシオペヤ座Aの実際のチャンドラ観測データに適用しました。IFTベースのデコンボリューションは、合成ベンチマークにおいて (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.02062v1</guid>
-      <pubDate>Thu, 01 Oct 2026 17:03:48 +0000</pubDate>
+      <title>マルコフゲームにおける正規形相関</title>
+      <link>https://arxiv.org/abs/2610.03621v1</link>
+      <description>マルコフゲームにおける相関均衡概念に関する研究は近年急増している。しかし、既存の研究成果は正規形相関均衡（NFCE）よりも弱い概念に焦点を当てており、そのような均衡を計算するというより困難な課題は未解決のままである。この問題は、PapadimitriouとRoughgardenによる先駆的な研究（JACM'08）に遡る。本稿では、固定されたプレイヤー数$n$を持つ有限時間マルコフゲームにおけるNFCEのための初の効率的なアルゴリズムを確立する。具体的には、$S$個の状態、$H$の時間範囲、およびプレイヤー1人あたり最大$A$個のアクションを持つ場合、$ε$-NFCEを$S(AH/ε)^{O(n)}$の時間で計算する。これは、正規形設定を超えた興味深いクラスの問題におけるNFCEのための、$1/ε$に関する初の多項式アルゴリズムであり、ゲームの記述である。さらに、推奨が状態間で独立であるという一般的な仮定の下で、多人数ゲームまたは精度が指数関数的に小さい場合において、PPAD完全性、すなわちナッシュ均衡との計算上の等価性を示します。
+
+本アプローチの重要なアイデアは、一連の補助ステージゲ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.03621v1</guid>
+      <pubDate>Fri, 02 Oct 2026 17:18:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
