@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 14:02:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:02:13 +0000</lastBuildDate>
+    <item>
+      <title>【デモ体験レポ有り】現地に行かず、地盤沈下の兆候を探す。無料で試せる「NEOSAP」_PR</title>
+      <link>https://sorabatake.jp/46893/</link>
+      <description>2025年にリリースされたNEC地球観測衛星画像解析サービスプラットフォーム「NEC Earth Observation Satellites’ image Analysis Services Platform（略称：NEOSAP）」について、その特徴、顧客との対話を重ねた開発の舞台裏、今後目指す姿を伺いました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46893/</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:17 +0000</pubDate>
+    </item>
     <item>
       <title>星々の音楽「スタークエイク（星震）」</title>
       <link>https://sorae.info/astronomy/20261001-starquake.html</link>
@@ -30,11 +37,11 @@
       <pubDate>Thu, 01 Oct 2026 07:31:01 +0000</pubDate>
     </item>
     <item>
-      <title>GoogleのAI用チップ搭載衛星、宇宙環境で動作試験へ　宇宙データセンター構想の初実証</title>
-      <link>https://sorae.info/space/20260929-google-suncatcher.html</link>
-      <description>Googleは2026年9月24日付で、宇宙でのAI処理を目指す研究計画「Project Suncatcher（プロジェクト・サンキャッチャー）」について、初の軌道上実証を行うと発表しました。Googleが開発した機械学… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20260929-google-suncatcher.html</guid>
-      <pubDate>Tue, 29 Sep 2026 08:47:43 +0000</pubDate>
+      <title>若い惑星「WISPIT 2b」がガスを乱す痕跡を確認　直接撮像された太陽系外惑星では初めて</title>
+      <link>https://sorae.info/astronomy/20261002-wispit-2b.html</link>
+      <description>マックス・プランク天文学研究所（MPIA）のMyriam Benisty氏を筆頭とする研究チームは、若い星を取り巻く円盤の中で成長している惑星が、周囲のガスの動きを乱している痕跡を捉えたとする研究成果を発表しました。 研… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20261002-wispit-2b.html</guid>
+      <pubDate>Fri, 02 Oct 2026 01:42:11 +0000</pubDate>
     </item>
     <item>
       <title>遠隔地の鉄道や農地にも通信技術を提供へ。イギリスが衛星通信に関する16件のプロジェクトに1,300万ポンドを出資【宇宙ビジネスニュース】</title>
@@ -42,13 +49,6 @@
       <description>2026年8月18日、UK Space Agency（イギリス宇宙庁）は、衛星通信の16件のプロジェクトに資金提供すると発表しました。総額は1,300万ポンド（約28億円）です。16件のプロジェクトはESA（欧州宇宙機関）の通信技術開発プログラム「ARTES」の一部として実施され、身近な用途から深宇宙通信までテーマが多岐にわたります。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46923/</guid>
       <pubDate>Sun, 06 Sep 2026 23:02:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>若い惑星「WISPIT 2b」がガスを乱す痕跡を確認　直接撮像された太陽系外惑星では初めて</title>
-      <link>https://sorae.info/astronomy/20261002-wispit-2b.html</link>
-      <description>マックス・プランク天文学研究所（MPIA）のMyriam Benisty氏を筆頭とする研究チームは、若い星を取り巻く円盤の中で成長している惑星が、周囲のガスの動きを乱している痕跡を捉えたとする研究成果を発表しました。 研… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20261002-wispit-2b.html</guid>
-      <pubDate>Fri, 02 Oct 2026 01:42:11 +0000</pubDate>
     </item>
     <item>
       <title>LiveEO、光学とSARの画像を一つのAIで扱う視覚基盤モデルの実現に向け、ドイツ政府から助成獲得【宇宙ビジネスニュース】</title>
