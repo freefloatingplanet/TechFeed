@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Oct 2026 13:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 12:56:40 +0000</lastBuildDate>
     <item>
-      <title>FoMo：モンモレンシーの森におけるロボットナビゲーションのための複数シーズンデータセット</title>
-      <link>https://arxiv.org/abs/2603.08433v2</link>
-      <description>Forêt Montmorency (FoMo) データセットは、北方林で 1 年間にわたって記録された、包括的な複数シーズンのデータコレクションです。舗装路と未舗装路の環境が独自に組み合わされ、環境が大きく変化するこのデータセットは、既存のオドメトリおよび SLAM パイプラインに挑戦します。データのハイライトには、1 m を超える積雪、センサーの前方での著しい植生成長、プラットフォームのトラクション限界での動作などが含まれます。合計で、FoMo データセットには、年間 12 回の展開で繰り返される 6 つの異なる軌跡の 64 km を超えるデータが含まれています。データセットには、回転式およびハイブリッドのソリッドステート LiDAR、周波数変調連続波 (FMCW) レーダー、ステレオカメラと広角レンズ単眼カメラからのフル HD 画像、および 2 つの IMU からのデータが含まれています。グラウンド トゥルースは、無人地上車両 (UGV) に搭載された 3 つの GNSS 受信機と静止 GNSS 基地局を後処理することによって計算されます。現場の気象観測所からの1分ごとの測定値、 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.08433v2</guid>
-      <pubDate>Mon, 09 Mar 2026 14:30:47 +0000</pubDate>
+      <title>化学反応のためのニューラルペトリフロー</title>
+      <link>https://arxiv.org/abs/2610.08750v1</link>
+      <description>ペトリネットは、反応などの化学プロセスを記述するために使用されてきました。ペトリネットは化学によく対応しています。プレイスは原子間の結合と各原子の自由原子価であり、トークンは結合次数の単位であり、遷移は結合を形成または切断し、保存量は原子価予算であり、有効化ルールは原子価ルールです。これらの意味論は、ペトリネットをメッセージパッシングの足場として使用するペトリネット上に構築された反応の学習モデルやニューラルネットワークでは保証されません。ここでは、重みのすべての値に対してペトリネットのままであるアーキテクチャは何かという問いを立てます。私たちは、ネットのすべての意味論が発火形式 $m^\prime=m+Cσ$、有効化が遷移の入力のみを読み取る局所性、および有効化ルールを共有する理論に答えを見出し、保存が発火形式を強制し、非負性が有効化ルールを局所的な速度法則に強制することを証明します。これにより、各遷移が発火する傾向である速度法則が自由になります。この速度法則、つまり分類の読み出しを学習し、残りをパラメータフリーの層としてハードワイヤリングするニューラルペトリフローを紹介します。私たち (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.08750v1</guid>
+      <pubDate>Tue, 06 Oct 2026 17:44:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
