@@ -7,13 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Oct 2026 12:56:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:04:56 +0000</lastBuildDate>
     <item>
-      <title>化学反応のためのニューラルペトリフロー</title>
-      <link>https://arxiv.org/abs/2610.08750v1</link>
-      <description>ペトリネットは、反応などの化学プロセスを記述するために使用されてきました。ペトリネットは化学によく対応しています。プレイスは原子間の結合と各原子の自由原子価であり、トークンは結合次数の単位であり、遷移は結合を形成または切断し、保存量は原子価予算であり、有効化ルールは原子価ルールです。これらの意味論は、ペトリネットをメッセージパッシングの足場として使用するペトリネット上に構築された反応の学習モデルやニューラルネットワークでは保証されません。ここでは、重みのすべての値に対してペトリネットのままであるアーキテクチャは何かという問いを立てます。私たちは、ネットのすべての意味論が発火形式 $m^\prime=m+Cσ$、有効化が遷移の入力のみを読み取る局所性、および有効化ルールを共有する理論に答えを見出し、保存が発火形式を強制し、非負性が有効化ルールを局所的な速度法則に強制することを証明します。これにより、各遷移が発火する傾向である速度法則が自由になります。この速度法則、つまり分類の読み出しを学習し、残りをパラメータフリーの層としてハードワイヤリングするニューラルペトリフローを紹介します。私たち (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.08750v1</guid>
-      <pubDate>Tue, 06 Oct 2026 17:44:56 +0000</pubDate>
+      <title>NeuralBES：スケーラブルな建物エネルギーモデリングのための、微分可能で制御認識機能を備えたエミュレータ</title>
+      <link>https://arxiv.org/abs/2610.10459v1</link>
+      <description>需要側の柔軟性、すなわち住宅エネルギー負荷の予測、シフト、および抑制は、数百万もの多様な建物で信頼できる熱モデルに依存しています。既存のツールは厳しいトレードオフを強いられます。EnergyPlusのような高精度物理シミュレータは正確ですが、逐次処理であり、建物ごとにキャリブレーションが必要です。一方、純粋にデータ駆動型のシーケンスモデルはスケーラブルですが、予測の信頼性を支える物理構造を放棄しています。
+
+本稿では、このトレードオフを解決する微分可能なエミュレータであるNeuralBES（Building Energy Simulation）を紹介します。NeuralBESは、抵抗・容量（RC）ベースの熱モデルを共有ニューラルエンコーダでパラメータ化することで、このトレードオフを解消します。床面積、築年数、HVACの種類などの静的な建物メタデータは、物理的に制約された容量、コンダクタンス、および機器係数にマッピングされ、これらは対数空間並列スキャンによって解かれるスカラー線形漸化式の係数となります。予測子・修正子ループは、全期間勾配フローを維持しながら、サーモスタットと温度の非線形性 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10459v1</guid>
+      <pubDate>Wed, 07 Oct 2026 17:27:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

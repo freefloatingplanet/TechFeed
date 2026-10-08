@@ -7,7 +7,81 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 12:56:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:04:49 +0000</lastBuildDate>
+    <item>
+      <title>マクドナルドのAI価格設定ツールが独禁法訴訟に — 競合店同士のデータを共有してメニュー価格を操作したとして連邦裁判所へ</title>
+      <link>https://techfeed.io/entries/6ac6d2ac4939f92decef3241?from=rss</link>
+      <description>10月7日、Los Angeles Timesが「McDonald's sued over AI pricing tool accused of raising menu prices」と題した記事を公開した。マクドナルドのAI搭載価格設定ツールが、独立した事業者であるはずのフランチャイジー同士の非公開データを事実上共有する構造を持つとして、独占禁止法違反で連邦訴訟に発展した件を詳報している。AIによるダイナミックプライシングの法的リスクが正面から問われた事例として、業界全体に波及する可能性がある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ac6d2ac4939f92decef3241?from=rss</guid>
+      <pubDate>Wed, 07 Oct 2026 23:15:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>マーケティングエンジニア入門</title>
+      <link>https://zenn.dev/kevin_namba/books/afe09c60f698e8</link>
+      <description>マーケティングエンジニア(Growth Engineer / GTM Engineer)とは、マーケティングや営業活動を自動運転するためにツールや AI を整備する AI 時代の新たな職種です。
+この本では、AI Agent の概念である Skill やハーネス、オントロジーなどについて触れながら、実際にマーケティングの業務を棚卸して、自動化するための方法を紹介します。
+
+サンプルとなる Skill は https://github.com/kevin-namba/marketing-engineer-handson-claude-plugin で公開しています。
+
+AI を活用したいマーケターの方も、マーケティングを勉強したエンジニアの方もぜひご一読ください。 (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kevin_namba/books/afe09c60f698e8</guid>
+      <pubDate>Tue, 06 Oct 2026 09:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>技術ブログはゆるやかに衰退している</title>
+      <link>https://zenn.dev/northward/articles/decline-of-tech-blogs</link>
+      <description>この記事では、Zennのデータを見て技術ブログが衰退していることを確認し、技術ブログがこれからどうなるかについて考えます。
+!
+星影(@unsoluble_sugar)さんから指摘していただいたこの記事の問題点や、それについての私の考えについて、Discussionのコメントで書いています。
+記事を読んだ後などに以下の記事やコメントを読んでいただくと、この記事の正確性や主張についてより理解できると思います。
+
+
+
+ Zennのデータを見て分かること
+2026年にZennに投稿された5.2万件の記事のデータ分析の結果を抜粋しながら、Zennの現状を確認していきます。
+この分析は、9月中旬に... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/northward/articles/decline-of-tech-blogs</guid>
+      <pubDate>Mon, 05 Oct 2026 00:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔓2026年9〜10月の情報漏洩19件、公表文を全部読んで考えたこと</title>
+      <link>https://zenn.dev/bita/articles/1616afdb93c4a6</link>
+      <description>TL;DR
+
+9/11〜10/5に公表（続報を含む）された不正アクセス・情報漏洩19件の公表文をすべて読みました。侵入の手口まで公表された8件は、どれも脆弱性か不正ログインでした。AIへの言及は0件です
+ただ、穴を見つけて突くコストはAIで下がりつつあります（AnthropicによるGLM-5.3の評価、警察庁の検挙事例）
+対策は、更新できる状態を保つこと、第三者による診断、侵入される前提の設計です
+
+
+ はじめに
+タイムズカーの漏洩では、社内にも対象者がいました。そこから漏洩のニュースを追い始めると、わずか2週間ほどの間に、名前を知っている企業の公表が次々と続いていました。
+筆者は... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/bita/articles/1616afdb93c4a6</guid>
+      <pubDate>Thu, 08 Oct 2026 00:43:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>GCPとAWSの埋め込みモデル6つを比較して監視カメラ動画を日本語で検索する</title>
+      <link>https://zenn.dev/fusic/articles/89daab70352eb7</link>
+      <description>はじめに
+こんにちは、Fusicの大宮です。
+今回は、固定の監視カメラなどの映像から「ベンチから立ち上がって歩き出す人」「白い車が駐車場に入ってきて停まる様子」のように、日本語の文章で場面を探したいというテーマで技術検証をしました。
+流れは以下の通りです。
+
+動画を Gemini に渡して、5秒ごとの説明文を日本語で生成させる
+その説明文を埋め込みモデルでベクトルにする
+日本語の質問文もベクトルにして、近い順に5秒区間を並べる
+
+
+
+このうち 「2. 埋め込みモデル」をどれにするかを、GCP と AWS の6つのモデルで比べてみました。
+本記事はその結果のまとめです。
+
+ 結論
+
+6... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/fusic/articles/89daab70352eb7</guid>
+      <pubDate>Thu, 08 Oct 2026 02:39:58 +0000</pubDate>
+    </item>
     <item>
       <title>漏洩ラッシュは本当にラッシュなのか 公的統計と公式発表で確かめてみた</title>
       <link>https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics</link>
@@ -18,13 +92,6 @@
 ただ、「よく見る」と「増えている」は別の話です。... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics</guid>
       <pubDate>Tue, 06 Oct 2026 03:21:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントが「エージェント自身のIAMロール」でデータにアクセスする問題をAWSが解決 — ユーザーIDをUI→エージェント→データ層まで伝播させ、既存のアクセス制御ポリシーをそのまま適用する</title>
-      <link>https://techfeed.io/entries/6ac57f6916e6b77c71246ac5?from=rss</link>
-      <description>10月7日、AWSが「Identity-aware AI data agents with AWS Lake Formation and Trusted Identity Propagation」と題した記事を公開した。この記事では、Amazon Bedrock AgentCoreとAWS Lake Formationを組み合わせ、AIデータエージェントがクエリを実行する際にリクエスト元のユーザーIDを透過的に伝播させることで、既存のアクセス制御ポリシーをそのまま適用しながら完全な監査証跡を実現するアーキテクチャパターンについて詳しく紹介されている。AIエージェントの業務利用が広がるにつれ、「エージェントが誰の権限でデータにアクセスするか」はエンタープライズ全体のガバナンス課題になりつつある。個々のシステムではなく、データ基盤レベルで制御を統一できるかどうかが、エンタープライズへの本格導入の可否を左右する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ac57f6916e6b77c71246ac5?from=rss</guid>
-      <pubDate>Tue, 06 Oct 2026 23:08:25 +0000</pubDate>
     </item>
     <item>
       <title>こんな時代だから Seasar2 を構築してみようか</title>
@@ -40,30 +107,6 @@
 無心で写経（コードを... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/4dbec90075dab0</guid>
       <pubDate>Mon, 05 Oct 2026 21:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>時系列予測の第一歩？ OLTPとOLAP</title>
-      <link>https://zenn.dev/neurogica/articles/a37c2fdb8bc0d4</link>
-      <description>この記事は Neurogica Tech Blog の転載です。
-
-
- はじめに
-システムを作るとき、最初はたいてい、アプリサーバとRDB（PostgreSQLやMySQLなど）の2つだけというシンプルな構成から始まる。
-しかし、システムがスケールすると次第に様々な要望が出てくる。
-「月ごとに請求額を計算したいから、あの顧客の利用回数を集計してくれ」
-「どの時期にどの商品が売れていたのか知りたいから月ごとの売れ筋を集計してくれ」
-これらの要望は、そう簡単には解決できない。
-スケールしたシステムは、データ量もアクセス数も多く、利用している顧客も多いからである。
-そんなシステムのDBに、そ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/neurogica/articles/a37c2fdb8bc0d4</guid>
-      <pubDate>Tue, 06 Oct 2026 10:36:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントの賢さを決めるのはモデルではなくインフラだった — CoreWeaveが「8時間でポストトレーニング完了」を実現した仕組み</title>
-      <link>https://techfeed.io/entries/6ac57f4016e6b77c71246a84?from=rss</link>
-      <description>10月6日、SiliconAngleが「GPU utilization in post-training shapes better AI agents」と題した記事を公開した。この記事では、ポストトレーニング時のGPU活用効率がAIエージェントの品質を左右するという、CoreWeaveとYou.comの幹部の主張について詳しく紹介されている。AIエージェント開発の「ボトルネック」が、モデルの知性からインフラ側の処理効率へと移行しつつある——その実態を、8時間でのポストトレーニング完了という具体的な実績から読み解いていく。「モデルの賢さ」はもはやボトルネックではないYou.comのCPO（最高製品責任者）であるSaurabh Sharmaは、AIエージェントの性能を決める要因がモデルの知性から「ツールの使いこなし」へと移行しつつあると述べている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ac57f4016e6b77c71246a84?from=rss</guid>
-      <pubDate>Tue, 06 Oct 2026 23:07:44 +0000</pubDate>
     </item>
     <item>
       <title>本当に「判断」していますか？</title>
@@ -83,6 +126,15 @@
       <pubDate>Sun, 04 Oct 2026 22:00:05 +0000</pubDate>
     </item>
     <item>
+      <title>ホームラボの GPU ノードの監視環境を構築する</title>
+      <link>https://zenn.dev/hyeonjae/articles/46d734a43c2c93</link>
+      <description>GPU ノードをホームラボで運用していたところ、トス証券の技術ブログ記事「トス証券が GPU-aware を超えて GPU-native クラスターを構築した方法」で紹介されている運用基準を目にしました。そこで、ホームラボの環境に合わせて規模を縮小し、GPU の状態を監視することにしました。
+現在、ノード 1 台に GPU が 2 枚載っていますが、GPU の状態を個別に監視してはいませんでした。この取り組みにより、「Node が Ready でも GPU は故障していることがある」という事実に備えられるようになりました。
+GPU のハードウェアエラー(Xid)はカーネルログにしか残らず... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hyeonjae/articles/46d734a43c2c93</guid>
+      <pubDate>Wed, 07 Oct 2026 14:04:11 +0000</pubDate>
+    </item>
+    <item>
       <title>オブジェクト指向UIデザインをAgent Skillにして、Claudeが作るUIはどう変わるかの検証</title>
       <link>https://zenn.dev/emuni/articles/ooui-agent-skill</link>
       <description>こんにちは、株式会社エムニの黒川です。
@@ -93,33 +145,6 @@
 この記事では、書籍『オブジェクト... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/emuni/articles/ooui-agent-skill</guid>
       <pubDate>Mon, 05 Oct 2026 06:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>LINE配信の直後に1万人が来ても落ちないように、負荷試験を回しながら直した話【Vercel × Supabase】</title>
-      <link>https://zenn.dev/yoshinani_dev/articles/0a938da9346c93</link>
-      <description>今回は、LINE ミニアプリで「LINE の配信を受け取った会員が一斉に開いて、ルーレットを回す」ときに、どこまで耐えられるかを負荷試験で測り、直した記録を紹介します。
-技術構成編で紹介した、Next.js（Vercel）+ Supabase + Prisma 7 の構成です。リリース直前に「大量の同時アクセスに耐えられる構成になってる？」と聞かれて、正直に答えると「確かめていません」だったので、測るところから始めました。
-最初の試験では、100 人が同じ瞬間にルーレットを回すと 4% しか成功しませんでした。最終的には、1 万人が 5 分の間に来ても全員回せるところまで直しています。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yoshinani_dev/articles/0a938da9346c93</guid>
-      <pubDate>Tue, 06 Oct 2026 10:44:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>PMの年収は3000万円、エンジニアは上限なし！　SI後発のSHIFTだからできる「人月」を突破したAIモダナイゼーション事業</title>
-      <link>https://techfeed.io/entries/6ac4c91616e6b77c71240b0e?from=rss</link>
-      <description>「日本のIT企業で年収3000万円」——この報酬は外資系にしか存在しないと感じてきた数字だろう。だが株式会社SHIFTは、2026年に本格始動したAIモダナイゼーション（レガシーシステムをAIで最新のシステムへ作り替える取り組み）事業で、その常識に挑んでいる。PMには3000万円、貢献するエンジニアには上限を設けない。 後発でSIビジネスに参入した同社が、なぜAI時代に高付加価値SI事業を実現できるのか。AI Professionals 編集長の白石俊平が、AIモダナイゼーション事業を率いる佐藤章太朗氏と、テクノロジーマネージャーの江口昌宏氏に聞いた。AIを活用しても見積もりが下がらないSIビジネスAI Professionals 編集長 白石俊平（白石）：率直に伺いますが、日本のSIerで「PMの年収は3000万円、エンジニアは上限なし」と言われても、にわかには信じられません。これは、本気で掲げていらっしゃる目標なのでしょうか。SHIFT 佐藤章太朗（佐藤）氏：はい、本気で目指しています。出発点はとてもシンプルで、優秀な人材が次々と外資系へ移ってしまう現状が、率直に言って悔しいんです (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ac4c91616e6b77c71240b0e?from=rss</guid>
-      <pubDate>Wed, 07 Oct 2026 08:03:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>OOPとFPの使い分けを、図書館の貸出管理システム作って確かめてみた</title>
-      <link>https://zenn.dev/satoru_o/articles/2804938058ab47</link>
-      <description>はじめに
-OOP の基本を、銀行口座・通知・価格計算(Strategy)といった題材で一つずつ学んできました。その総合演習として、「実際にありそうなシステムを超ミニマム版で作ってみる」という企画を立て、Python で図書館の貸出管理を作りました。今回は OOP に FP の考え方も取り入れ、設計に絞ってまとめます。
-結論として、純粋関数にできるコアなロジックは関数に、インターフェースや境界になるものはクラス(OOP)に置く、という使い分けをしました。データは不変の値にしています。
-この記事では、先に OOP と FP の意義・メリット・デメリット・使い分けの基準を簡単に整理し、その... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/satoru_o/articles/2804938058ab47</guid>
-      <pubDate>Tue, 06 Oct 2026 14:38:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
