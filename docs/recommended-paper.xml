@@ -7,15 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:04:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:51:29 +0000</lastBuildDate>
     <item>
-      <title>NeuralBES：スケーラブルな建物エネルギーモデリングのための、微分可能で制御認識機能を備えたエミュレータ</title>
-      <link>https://arxiv.org/abs/2610.10459v1</link>
-      <description>需要側の柔軟性、すなわち住宅エネルギー負荷の予測、シフト、および抑制は、数百万もの多様な建物で信頼できる熱モデルに依存しています。既存のツールは厳しいトレードオフを強いられます。EnergyPlusのような高精度物理シミュレータは正確ですが、逐次処理であり、建物ごとにキャリブレーションが必要です。一方、純粋にデータ駆動型のシーケンスモデルはスケーラブルですが、予測の信頼性を支える物理構造を放棄しています。
-
-本稿では、このトレードオフを解決する微分可能なエミュレータであるNeuralBES（Building Energy Simulation）を紹介します。NeuralBESは、抵抗・容量（RC）ベースの熱モデルを共有ニューラルエンコーダでパラメータ化することで、このトレードオフを解消します。床面積、築年数、HVACの種類などの静的な建物メタデータは、物理的に制約された容量、コンダクタンス、および機器係数にマッピングされ、これらは対数空間並列スキャンによって解かれるスカラー線形漸化式の係数となります。予測子・修正子ループは、全期間勾配フローを維持しながら、サーモスタットと温度の非線形性 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.10459v1</guid>
-      <pubDate>Wed, 07 Oct 2026 17:27:20 +0000</pubDate>
+      <title>GLIO2：堅牢かつリアルタイムなグローバル測位とマッピングのためのGPU並列化された密結合型LiDAR-慣性-GNSSシステム</title>
+      <link>https://arxiv.org/abs/2610.12411v1</link>
+      <description>自律走行車や空中ロボットにとって、大規模で知覚的に劣化する環境におけるグローバルに一貫性のあるリアルタイムの状態推定は不可欠であり、LiDAR、慣性、GNSSの測定値を融合する必要がある。しかし、既存の融合手法は、スキャンからマップへのフロントエンドを共有しており、2つの障害モードがある。1つ目は、各スキャンが段階的に構築されるマップに位置合わせされるが、縮退によってドリフトし、推定値が発散すると誤差は回復不能になる。2つ目は、発散がなくても、動的な物体や誤った対応関係によって偏った位置合わせが、過度に自信のある共分散を持つ単一の姿勢制約として伝播され、GNSSが再重み付けや再線形化を行うための対応関係が利用できなくなる。我々は、GPU並列フロントエンドがスキャン・マルチスキャンLiDAR、IMU事前統合、および生GNSS測定値を単一のスライディングウィンドウ係数グラフで共同最適化し、エッジハードウェア上でリアルタイム動作を維持する、緊密に結合したLiDAR-慣性GNSSシステムであるGLIO2を提案する。補完的なオフラインバックエンドは、同じキャッシュされた係数を再利用して、軌跡全体 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12411v1</guid>
+      <pubDate>Thu, 08 Oct 2026 17:49:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

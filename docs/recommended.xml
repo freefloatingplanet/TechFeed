@@ -7,13 +7,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:04:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:51:23 +0000</lastBuildDate>
     <item>
-      <title>マクドナルドのAI価格設定ツールが独禁法訴訟に — 競合店同士のデータを共有してメニュー価格を操作したとして連邦裁判所へ</title>
-      <link>https://techfeed.io/entries/6ac6d2ac4939f92decef3241?from=rss</link>
-      <description>10月7日、Los Angeles Timesが「McDonald's sued over AI pricing tool accused of raising menu prices」と題した記事を公開した。マクドナルドのAI搭載価格設定ツールが、独立した事業者であるはずのフランチャイジー同士の非公開データを事実上共有する構造を持つとして、独占禁止法違反で連邦訴訟に発展した件を詳報している。AIによるダイナミックプライシングの法的リスクが正面から問われた事例として、業界全体に波及する可能性がある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ac6d2ac4939f92decef3241?from=rss</guid>
-      <pubDate>Wed, 07 Oct 2026 23:15:56 +0000</pubDate>
+      <title>印刷物基準の文字組みをウェブの世界で。日本デザインセンター様から生まれたiOS用文字組みエンジンをJavaScriptに移植しました。 | non-standard world株式会社</title>
+      <link>https://www.non-standardworld.co.jp/stone-engine-js/</link>
+      <description>できることすべてこのページ上で実際に組まれています。文字にマウスを乗せると赤くなるのは、1文字ずつがSVGの要素になっているからです。 縦書きと縦中横2 桁以下の数字は正体で並べ、3 桁以上の数字と英字は 90 度回転します。句読点や括弧は縦組み用のグリフに置き換わります。 コードを見る (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.non-standardworld.co.jp/stone-engine-js/</guid>
+      <pubDate>Fri, 09 Oct 2026 08:06:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIエージェントにMicrosoft Fabricを操作させる ― Fabric CLIとSkills for Fabric</title>
+      <link>https://zenn.dev/headwaters/articles/12175106cd8c79</link>
+      <description>はじめに
+Claude Code のようなコーディングエージェントに Microsoft Fabric の開発を手伝わせようとすると、二つの問題があります。一つは操作の手段です。Fabric の操作は Web の画面で行うことが多いので、エージェントが端末から使える手段を別に用意する必要があります。もう一つは知識です。エージェントは、Fabric 固有の API の呼び方や、Notebook の定義ファイルの形式を最初から正確に知っているわけではありません。
+Fabric には、ワークスペースやアイテムを外部から操作するための Fabric REST API があります。エージェント... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/12175106cd8c79</guid>
+      <pubDate>Thu, 08 Oct 2026 23:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>レビューの口伝を40ルールに棚卸ししてAIレビューに載せた</title>
+      <link>https://zenn.dev/edash_tech_blog/articles/c52409a3d6fa12</link>
+      <description>はじめに
+こんにちは、e-dashでエンジニアをしている Kezuka です。
+レビューで口伝されていたバックエンドの作法を棚卸しして、AIレビュー用のスキルにしました。
+半年運用した結果を実測しています。期待と違う結果が出たので、その記録と次の課題を書きます。
+
+ 書かれていないルールが、レビューで伝わっていた
+バックエンドは Go とクリーンアーキテクチャです。Go らしい書き方に加えて、会社固有のルールやリファクタリングの方針が積み上がっていました。
+それがどこにも書かれていませんでした。品質は、Go に精通したメンバーのレビューで担保されていました。
+新しく入ったメンバーは、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/edash_tech_blog/articles/c52409a3d6fa12</guid>
+      <pubDate>Wed, 07 Oct 2026 02:38:08 +0000</pubDate>
     </item>
     <item>
       <title>マーケティングエンジニア入門</title>
@@ -60,53 +84,15 @@ AI を活用したいマーケターの方も、マーケティングを勉強�
       <pubDate>Thu, 08 Oct 2026 00:43:37 +0000</pubDate>
     </item>
     <item>
-      <title>GCPとAWSの埋め込みモデル6つを比較して監視カメラ動画を日本語で検索する</title>
-      <link>https://zenn.dev/fusic/articles/89daab70352eb7</link>
+      <title>Renovate の更新 PR を AI エージェントにレビューさせ、自動マージまでつなげる</title>
+      <link>https://zenn.dev/greendrop/articles/2026-10-09-4664c51706f346</link>
       <description>はじめに
-こんにちは、Fusicの大宮です。
-今回は、固定の監視カメラなどの映像から「ベンチから立ち上がって歩き出す人」「白い車が駐車場に入ってきて停まる様子」のように、日本語の文章で場面を探したいというテーマで技術検証をしました。
-流れは以下の通りです。
-
-動画を Gemini に渡して、5秒ごとの説明文を日本語で生成させる
-その説明文を埋め込みモデルでベクトルにする
-日本語の質問文もベクトルにして、近い順に5秒区間を並べる
-
-
-
-このうち 「2. 埋め込みモデル」をどれにするかを、GCP と AWS の6つのモデルで比べてみました。
-本記事はその結果のまとめです。
-
- 結論
-
-6... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/fusic/articles/89daab70352eb7</guid>
-      <pubDate>Thu, 08 Oct 2026 02:39:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>漏洩ラッシュは本当にラッシュなのか 公的統計と公式発表で確かめてみた</title>
-      <link>https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics</link>
-      <description>!
-2026年10月6日追記：いま話題になっているのは9〜10月の事案なのに、件数については2026年6月までの統計でしか検討できておらず、不十分でした。そこで9月の件数を自分で数え直し、記事の最後に「追記：9月のペースをどう見るか」として補足しています。
-
-9月の終わりごろから、情報漏洩のニュースをやたらとよく見るなと感じていました。タイムズカー、セイコーマート、東京メトロ、OZmallと数日おきに続き、10月に入ると焼肉きんぐです。SNSでも、さすがに多すぎるのではという声や、AIが攻撃に使われているのではという声をよく見かけました。
-ただ、「よく見る」と「増えている」は別の話です。... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics</guid>
-      <pubDate>Tue, 06 Oct 2026 03:21:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>こんな時代だから Seasar2 を構築してみようか</title>
-      <link>https://zenn.dev/tokium_dev/articles/4dbec90075dab0</link>
-      <description>Claude CodeやCodexに聞けば、知らない技術でもそれっぽいものが完成します。
-課題はありつつも、基本的には便利な世の中になったものです。
-便利になった反面、スキル習得のための学習の機会は奪われてしまったかもしれません。
-それでも前に進み続け、気づけば『あれ？どうやって勉強すればいいんだ？』というお声も聞くようになりました。
-個人的には、組織的に学習の機会を意図的に設計する必要があるのでは？という気持ちになっているわけです。
-私自身、どうやって学習していたんだろう、と振り返ることが多くなり、
-技術書をひたすら読んでいたり、
-資格取得に躍起になっていたり、
-無心で写経（コードを... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/4dbec90075dab0</guid>
-      <pubDate>Mon, 05 Oct 2026 21:00:05 +0000</pubDate>
+AI エージェントが登場してから、作りたいものが増えていませんか。
+アイデアを思いついてから動くものができるまでの時間が、大きく縮みました。仕事でも、機能追加がこれまでにないスピードで実装されていると感じます。少ない人数でできることが増えた結果、AI エージェントの登場前より、チームの人数が減っている現場もあるのではないでしょうか。
+一方で、ライブラリのアップデートはどうでしょうか。
+Dependabot や Renovate が更新用の PR を作ってくれるところまでは自動化されています。しかし、その PR を確認してマージするのは人です。リリースノートを読み、破壊的変更... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/greendrop/articles/2026-10-09-4664c51706f346</guid>
+      <pubDate>Thu, 08 Oct 2026 22:00:05 +0000</pubDate>
     </item>
     <item>
       <title>本当に「判断」していますか？</title>
@@ -126,25 +112,30 @@ AI を活用したいマーケターの方も、マーケティングを勉強�
       <pubDate>Sun, 04 Oct 2026 22:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>ホームラボの GPU ノードの監視環境を構築する</title>
-      <link>https://zenn.dev/hyeonjae/articles/46d734a43c2c93</link>
-      <description>GPU ノードをホームラボで運用していたところ、トス証券の技術ブログ記事「トス証券が GPU-aware を超えて GPU-native クラスターを構築した方法」で紹介されている運用基準を目にしました。そこで、ホームラボの環境に合わせて規模を縮小し、GPU の状態を監視することにしました。
-現在、ノード 1 台に GPU が 2 枚載っていますが、GPU の状態を個別に監視してはいませんでした。この取り組みにより、「Node が Ready でも GPU は故障していることがある」という事実に備えられるようになりました。
-GPU のハードウェアエラー(Xid)はカーネルログにしか残らず... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hyeonjae/articles/46d734a43c2c93</guid>
-      <pubDate>Wed, 07 Oct 2026 14:04:11 +0000</pubDate>
+      <title>CSSの`text-box`で文字を上下中央に揃えたい</title>
+      <link>https://zenn.dev/chot/articles/be424332489e7a</link>
+      <description>ボタンの文字などを上下中央に配置するとき、CSSで中央揃えを指定しても、少しズレて見えることがあります。この記事では、文字がズレて見える理由と、上下中央に揃えるための考え方を、CSSとフォントの仕組みから解説します。
+
+ 中央揃えなのにズレて見える理由
+次のボタンは、横書きで1行のラベルをFlexboxで上下中央に配置した例です。
+&lt;button class="button"&gt;
+  &lt;span class="button-label"&gt;Save&lt;/span&gt;
+&lt;/button&gt;
+.button {
+  display: flex;
+  al... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chot/articles/be424332489e7a</guid>
+      <pubDate>Thu, 08 Oct 2026 06:20:08 +0000</pubDate>
     </item>
     <item>
-      <title>オブジェクト指向UIデザインをAgent Skillにして、Claudeが作るUIはどう変わるかの検証</title>
-      <link>https://zenn.dev/emuni/articles/ooui-agent-skill</link>
-      <description>こんにちは、株式会社エムニの黒川です。
-普段は業務用Webアプリケーションの開発に携わっており、主に実装を担当しています。
-昨今、UIの実装においてもClaude CodeなどのAIエージェントを活用する場面が増えています。
-プロンプトから画面のプロトタイプが生成される開発のスピード感は魅力ですが、生成されたUIを改善する際、エージェントへの修正指示が「もっと見やすく」のような感覚的な表現になりがちだという課題を感じていました。
-そこで、設計理論に基づいてUIを評価する「判断の軸」をエージェントにも渡せる形へ言語化（Skill化）してみようと考えました。
-この記事では、書籍『オブジェクト... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/emuni/articles/ooui-agent-skill</guid>
-      <pubDate>Mon, 05 Oct 2026 06:09:20 +0000</pubDate>
+      <title>有線が届かないデスクトップPCをWi-Fi化した話</title>
+      <link>https://zenn.dev/ultrasupara/articles/7daaaf4f7aceed</link>
+      <description>はじめに
+有線LANが届かない部屋のデスクトップPC（Kali Linux）を、Wi-Fiでつなぐまでの記録です。
+発端は、PCを置いた部屋までルーターからLANケーブルが届かなかったことです。「無線子機を買わないとかな」と思ったところから、手持ちの機材とターミナルの出力を頼りに環境を調べていきました。
+結論から言うと、追加したのはPCIeのWi-Fiカード1枚だけでした。存在を把握していなかったWi-Fi 5ルーターがあったからです。ただし、そのルーターはメーカーのサポートが終了した機種だったので、できる限りのセキュリティ設定をしたうえで、将来の買い替えも考えることにしました。カー... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ultrasupara/articles/7daaaf4f7aceed</guid>
+      <pubDate>Thu, 08 Oct 2026 13:10:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
