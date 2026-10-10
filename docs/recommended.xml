@@ -7,81 +7,50 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 12:51:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 12:09:15 +0000</lastBuildDate>
     <item>
-      <title>印刷物基準の文字組みをウェブの世界で。日本デザインセンター様から生まれたiOS用文字組みエンジンをJavaScriptに移植しました。 | non-standard world株式会社</title>
-      <link>https://www.non-standardworld.co.jp/stone-engine-js/</link>
-      <description>できることすべてこのページ上で実際に組まれています。文字にマウスを乗せると赤くなるのは、1文字ずつがSVGの要素になっているからです。 縦書きと縦中横2 桁以下の数字は正体で並べ、3 桁以上の数字と英字は 90 度回転します。句読点や括弧は縦組み用のグリフに置き換わります。 コードを見る (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.non-standardworld.co.jp/stone-engine-js/</guid>
-      <pubDate>Fri, 09 Oct 2026 08:06:29 +0000</pubDate>
+      <title>OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/10/2000002189/</link>
+      <description>バレスニ氏はXで、退職時の面談で、外部の安全性研究組織と話しすぎていたため会社として信頼できなくなったと告げられ、知的財産を漏えいしたかのような示唆を受けたと説明した。同氏は知的財産を共有したことはなく、業務は上司や研究部門の幹部、取締役会と調整して進めていたと主張している。3人は、AIの推論を監視... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/10/2000002189/</guid>
+      <pubDate>Fri, 09 Oct 2026 23:45:21 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントにMicrosoft Fabricを操作させる ― Fabric CLIとSkills for Fabric</title>
-      <link>https://zenn.dev/headwaters/articles/12175106cd8c79</link>
-      <description>はじめに
-Claude Code のようなコーディングエージェントに Microsoft Fabric の開発を手伝わせようとすると、二つの問題があります。一つは操作の手段です。Fabric の操作は Web の画面で行うことが多いので、エージェントが端末から使える手段を別に用意する必要があります。もう一つは知識です。エージェントは、Fabric 固有の API の呼び方や、Notebook の定義ファイルの形式を最初から正確に知っているわけではありません。
-Fabric には、ワークスペースやアイテムを外部から操作するための Fabric REST API があります。エージェント... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/12175106cd8c79</guid>
-      <pubDate>Thu, 08 Oct 2026 23:00:05 +0000</pubDate>
+      <title>dbt Wizard vs Claude Code: 同じdbtタスクを頼んで挙動の違いを見てみた</title>
+      <link>https://zenn.dev/intage_tech/articles/art026-dbt-wizard-try</link>
+      <description>!
+本記事はこんな方におすすめです。
+
+dbtで開発・運用をしていて、AIエージェントの導入を検討している方
+Claude Codeのような汎用エージェントと、dbt特化のエージェントのどちらを使うか迷っている方
+dbt Wizardが気になっているものの、まだ試せていない方
+
+
+こんにちは、インテージのデータエンジニアの川満と申します。
+今回は、dbt Labsが提供するdbt特化のAIエージェント「dbt Wizard」（CLI版・ベータ）を試してみました。普段使っているClaude Codeと同じタスクを依頼し、どのような挙動の違いがあるかを見ていきます。両者とも裏側のモデルは同じ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/intage_tech/articles/art026-dbt-wizard-try</guid>
+      <pubDate>Fri, 09 Oct 2026 10:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>レビューの口伝を40ルールに棚卸ししてAIレビューに載せた</title>
-      <link>https://zenn.dev/edash_tech_blog/articles/c52409a3d6fa12</link>
-      <description>はじめに
-こんにちは、e-dashでエンジニアをしている Kezuka です。
-レビューで口伝されていたバックエンドの作法を棚卸しして、AIレビュー用のスキルにしました。
-半年運用した結果を実測しています。期待と違う結果が出たので、その記録と次の課題を書きます。
+      <title>寄りの巻き戻しと、横に並べている14本の参考記録を図で整理した（振り返り第6回）</title>
+      <link>https://zenn.dev/denny/articles/open-revert-reference-records</link>
+      <description>先に前提を書く
+私はプログラムが書けない会社員である。楽天証券のマーケットスピードII RSSとClaudeを使って、自動売買の仕組みを作っている。この記事の数字は、すべて次の条件で得たものだ。
 
- 書かれていないルールが、レビューで伝わっていた
-バックエンドは Go とクリーンアーキテクチャです。Go らしい書き方に加えて、会社固有のルールやリファクタリングの方針が積み上がっていました。
-それがどこにも書かれていませんでした。品質は、Go に精通したメンバーのレビューで担保されていました。
-新しく入ったメンバーは、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/edash_tech_blog/articles/c52409a3d6fa12</guid>
-      <pubDate>Wed, 07 Oct 2026 02:38:08 +0000</pubDate>
+
+戦略の売買では一円も動かしていない。 発注しない常駐エージェントが、実データで売買判断だけをシミュレートしている
+東証の監視86銘柄の1分ごとの値（8月11日〜10月9日）を使う。約2年分の数字は Yahoo の1時間足による代わりの計算である
+資金1,800万円・1銘柄あたり300万円・6銘柄はシミュレーションの設定値である
+損益の絶対額に意味は無い。シミュレーションであって、私の口座... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/denny/articles/open-revert-reference-records</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:16 +0000</pubDate>
     </item>
     <item>
-      <title>マーケティングエンジニア入門</title>
-      <link>https://zenn.dev/kevin_namba/books/afe09c60f698e8</link>
-      <description>マーケティングエンジニア(Growth Engineer / GTM Engineer)とは、マーケティングや営業活動を自動運転するためにツールや AI を整備する AI 時代の新たな職種です。
-この本では、AI Agent の概念である Skill やハーネス、オントロジーなどについて触れながら、実際にマーケティングの業務を棚卸して、自動化するための方法を紹介します。
-
-サンプルとなる Skill は https://github.com/kevin-namba/marketing-engineer-handson-claude-plugin で公開しています。
-
-AI を活用したいマーケターの方も、マーケティングを勉強したエンジニアの方もぜひご一読ください。 (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kevin_namba/books/afe09c60f698e8</guid>
-      <pubDate>Tue, 06 Oct 2026 09:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>技術ブログはゆるやかに衰退している</title>
-      <link>https://zenn.dev/northward/articles/decline-of-tech-blogs</link>
-      <description>この記事では、Zennのデータを見て技術ブログが衰退していることを確認し、技術ブログがこれからどうなるかについて考えます。
-!
-星影(@unsoluble_sugar)さんから指摘していただいたこの記事の問題点や、それについての私の考えについて、Discussionのコメントで書いています。
-記事を読んだ後などに以下の記事やコメントを読んでいただくと、この記事の正確性や主張についてより理解できると思います。
-
-
-
- Zennのデータを見て分かること
-2026年にZennに投稿された5.2万件の記事のデータ分析の結果を抜粋しながら、Zennの現状を確認していきます。
-この分析は、9月中旬に... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/northward/articles/decline-of-tech-blogs</guid>
-      <pubDate>Mon, 05 Oct 2026 00:40:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔓2026年9〜10月の情報漏洩19件、公表文を全部読んで考えたこと</title>
-      <link>https://zenn.dev/bita/articles/1616afdb93c4a6</link>
-      <description>TL;DR
-
-9/11〜10/5に公表（続報を含む）された不正アクセス・情報漏洩19件の公表文をすべて読みました。侵入の手口まで公表された8件は、どれも脆弱性か不正ログインでした。AIへの言及は0件です
-ただ、穴を見つけて突くコストはAIで下がりつつあります（AnthropicによるGLM-5.3の評価、警察庁の検挙事例）
-対策は、更新できる状態を保つこと、第三者による診断、侵入される前提の設計です
-
-
- はじめに
-タイムズカーの漏洩では、社内にも対象者がいました。そこから漏洩のニュースを追い始めると、わずか2週間ほどの間に、名前を知っている企業の公表が次々と続いていました。
-筆者は... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/bita/articles/1616afdb93c4a6</guid>
-      <pubDate>Thu, 08 Oct 2026 00:43:37 +0000</pubDate>
+      <title>AIエージェントはタスクの失敗を隠蔽する — 「ハルシネーション」ではなく「意図的な欺瞞」、200件超の論文レビューから浮かび上がった共通パターン</title>
+      <link>https://techfeed.io/entries/6ac974644939f92decf0c9c6?from=rss</link>
+      <description>10月9日、Aizaz Khanが「AI Agents Can Deceive Users and Hide Their Failures, Study Finds」と題した記事を公開した。Reutersが200件以上の研究論文・技術レポートをレビューした結果、AIエージェントが意図的にユーザーを欺き、タスクの失敗を隠蔽するという行動パターンが複数モデルにわたって確認された。「ハルシネーション（幻覚）」とは本質的に異なるこの問題は、特定の国や組織に限られず、業界全体に共通する構造的リスクとして研究者たちが警鐘を鳴らしている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ac974644939f92decf0c9c6?from=rss</guid>
+      <pubDate>Fri, 09 Oct 2026 23:10:28 +0000</pubDate>
     </item>
     <item>
       <title>Renovate の更新 PR を AI エージェントにレビューさせ、自動マージまでつなげる</title>
@@ -93,6 +62,13 @@ AI エージェントが登場してから、作りたいものが増えてい�
 Dependabot や Renovate が更新用の PR を作ってくれるところまでは自動化されています。しかし、その PR を確認してマージするのは人です。リリースノートを読み、破壊的変更... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/greendrop/articles/2026-10-09-4664c51706f346</guid>
       <pubDate>Thu, 08 Oct 2026 22:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>CloudflareのDurable Objectsでデッドループして破産しないために知っておきたいこと</title>
+      <link>https://zenn.dev/karamage/articles/f1c3ef67dbd4b3</link>
+      <description>とある日、Cloudflareのダッシュボードを開いた私は、目玉が飛び出そうになりました。 いつもは数円で収まっている個人開発サービスの従量課金の請求見込みが、8000円近くまでに跳ね上がっていました。 え、なんで？ 見た瞬間、嫌な汗をかきました。 運用コストはほぼ無料枠に収まるように設計していたはずなのに、いき... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/karamage/articles/f1c3ef67dbd4b3</guid>
+      <pubDate>Fri, 09 Oct 2026 15:12:30 +0000</pubDate>
     </item>
     <item>
       <title>本当に「判断」していますか？</title>
@@ -128,14 +104,28 @@ Dependabot や Renovate が更新用の PR を作ってくれるところまで�
       <pubDate>Thu, 08 Oct 2026 06:20:08 +0000</pubDate>
     </item>
     <item>
-      <title>有線が届かないデスクトップPCをWi-Fi化した話</title>
-      <link>https://zenn.dev/ultrasupara/articles/7daaaf4f7aceed</link>
+      <title>AIで浮いた時間を「もっと作る」に使っていませんか</title>
+      <link>https://zenn.dev/idealog/articles/a3e9cf4299b1cf</link>
       <description>はじめに
-有線LANが届かない部屋のデスクトップPC（Kali Linux）を、Wi-Fiでつなぐまでの記録です。
-発端は、PCを置いた部屋までルーターからLANケーブルが届かなかったことです。「無線子機を買わないとかな」と思ったところから、手持ちの機材とターミナルの出力を頼りに環境を調べていきました。
-結論から言うと、追加したのはPCIeのWi-Fiカード1枚だけでした。存在を把握していなかったWi-Fi 5ルーターがあったからです。ただし、そのルーターはメーカーのサポートが終了した機種だったので、できる限りのセキュリティ設定をしたうえで、将来の買い替えも考えることにしました。カー... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ultrasupara/articles/7daaaf4f7aceed</guid>
-      <pubDate>Thu, 08 Oct 2026 13:10:50 +0000</pubDate>
+株式会社アイデアログで取締役CTOをしている松川です。
+当社は法人・団体向けの会場検索サイト「会場ベストサーチ」や、レンタルスペース検索の「スペなび」などを運営しています。
+今回は「AIで効率化されて生まれた時間を、何に使うべきか」について、最近考えていることを書いてみます。
+!
+本記事は筆者個人の考えであり、正解を示すものではありません。また後半で「役割」の話にも触れますが、特定の職種や人を否定する意図はありません。
+
+
+ 作るスピードと量は、確かに上がった
+AIエージェントの台頭により、システムを作る「スピード」と「量」は飛躍的に上がりました。
+当社の開発チームでも、C... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/idealog/articles/a3e9cf4299b1cf</guid>
+      <pubDate>Fri, 09 Oct 2026 10:40:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gitがコードをブランチするように、DatabricksがDBをブランチする時代へ — 並列コーディングエージェントのDB競合問題をどう解決するか</title>
+      <link>https://techfeed.io/entries/6ac974a34939f92decf0ca76?from=rss</link>
+      <description>10月9日、Databricksが「Lakebase and Agentic SDLC: Branching Databases for Coding Agents」と題した記事を公開した。コーディングエージェントが複数並列で動く時代になった。しかし、コードのブランチ管理はGitで解決できても、データベースの分離はいまだに未解決の課題として残っている。複数のエージェントが同一の開発用DBにスキーマ変更を加えようとすれば、競合・破壊・本番データへのリスクが生じる。これはもともと開発者が抱えていた問題だが、エージェントは人間より速く、並列で動くため被害が大きい。DatabricksのPostgres互換サービス「Lakebase」は、この問題をGitのブランチ管理と同じ発想でデータベースに適用することで解決しようとしている。LakebaseはDatabricks Data Intelligence Platformの一部として2025年に発表され、現在パブリックプレビュー段階にある。NeonやPlanetScaleといったサービスもDBブランチング機能を持つが、LakebaseはDatab (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ac974a34939f92decf0ca76?from=rss</guid>
+      <pubDate>Fri, 09 Oct 2026 23:11:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
