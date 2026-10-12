@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 11 Oct 2026 12:23:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 14:51:57 +0000</lastBuildDate>
     <item>
-      <title>GLIO2：堅牢かつリアルタイムなグローバル測位とマッピングのためのGPU並列化された密結合型LiDAR-慣性-GNSSシステム</title>
-      <link>https://arxiv.org/abs/2610.12411v1</link>
-      <description>自律走行車や空中ロボットにとって、大規模で知覚的に劣化する環境におけるグローバルに一貫性のあるリアルタイムの状態推定は不可欠であり、LiDAR、慣性、GNSSの測定値を融合する必要がある。しかし、既存の融合手法は、スキャンからマップへのフロントエンドを共有しており、2つの障害モードがある。1つ目は、各スキャンが段階的に構築されるマップに位置合わせされるが、縮退によってドリフトし、推定値が発散すると誤差は回復不能になる。2つ目は、発散がなくても、動的な物体や誤った対応関係によって偏った位置合わせが、過度に自信のある共分散を持つ単一の姿勢制約として伝播され、GNSSが再重み付けや再線形化を行うための対応関係が利用できなくなる。我々は、GPU並列フロントエンドがスキャン・マルチスキャンLiDAR、IMU事前統合、および生GNSS測定値を単一のスライディングウィンドウ係数グラフで共同最適化し、エッジハードウェア上でリアルタイム動作を維持する、緊密に結合したLiDAR-慣性GNSSシステムであるGLIO2を提案する。補完的なオフラインバックエンドは、同じキャッシュされた係数を再利用して、軌跡全体 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12411v1</guid>
-      <pubDate>Thu, 08 Oct 2026 17:49:33 +0000</pubDate>
+      <title>多関節式履帯ロボット向けマップレス、安定化、および固着防止フリッパー制御</title>
+      <link>https://arxiv.org/abs/2610.13838v1</link>
+      <description>ほぼすべての自律型または半自律型のフリッパーコントローラは、ロボットの下と前方の地形の標高マップへのアクセスを前提としています。シャーシの下の地形はセンサーで遮蔽されるため、マップはオドメトリ統合によって記憶されますが、そのドリフトによってマップが破損します。本稿では、ボディロールとピッチの安定化項と、ロボットがスタックしたときに解放するアンチスタック項を組み合わせたマップレスコントローラであるStabilizing Anti-Stuck (SAS) を提案します。SASは入力として、IMU、フリッパー関節角度、およびロボットが動いているかどうかのみを示すモーションキューを使用します。このキューは短いウィンドウで計算され、蓄積されないため、SASはマップを破損させるオドメトリ統合のドリフトを継承しません。4つのフリッパーを備えた履帯式ロボットにSASを導入し、シミュレーションと実際の障害物の両方で、手動遠隔操作と従来のフリッパーコントローラとの比較評価を行いました。シミュレーションおよび実機ロボットにおいて、SASは最先端のマップベースコントローラに匹敵する走行性能を実現した。LiDA (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.13838v1</guid>
+      <pubDate>Fri, 09 Oct 2026 16:48:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
