@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 13 Oct 2026 13:51:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:28:25 +0000</lastBuildDate>
     <item>
-      <title>多関節式履帯ロボット向けマップレス、安定化、および固着防止フリッパー制御</title>
-      <link>https://arxiv.org/abs/2610.13838v1</link>
-      <description>ほぼすべての自律型または半自律型のフリッパーコントローラは、ロボットの下と前方の地形の標高マップへのアクセスを前提としています。シャーシの下の地形はセンサーで遮蔽されるため、マップはオドメトリ統合によって記憶されますが、そのドリフトによってマップが破損します。本稿では、ボディロールとピッチの安定化項と、ロボットがスタックしたときに解放するアンチスタック項を組み合わせたマップレスコントローラであるStabilizing Anti-Stuck (SAS) を提案します。SASは入力として、IMU、フリッパー関節角度、およびロボットが動いているかどうかのみを示すモーションキューを使用します。このキューは短いウィンドウで計算され、蓄積されないため、SASはマップを破損させるオドメトリ統合のドリフトを継承しません。4つのフリッパーを備えた履帯式ロボットにSASを導入し、シミュレーションと実際の障害物の両方で、手動遠隔操作と従来のフリッパーコントローラとの比較評価を行いました。シミュレーションおよび実機ロボットにおいて、SASは最先端のマップベースコントローラに匹敵する走行性能を実現した。LiDA (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.13838v1</guid>
-      <pubDate>Fri, 09 Oct 2026 16:48:23 +0000</pubDate>
+      <title>モデルを生成する前に、周囲の状況をよく観察しましょう。</title>
+      <link>https://arxiv.org/abs/2610.18820v1</link>
+      <description>大規模言語モデル (LLM) は一般的に、出力のランダム性を調整するためにサンプリング温度に依存しています。温度を選択する主流の方法は通常、コミュニケーションシナリオの幾何学的に解釈可能な表現ではなく、固定されたヒューリスティックなグローバル設定とコンテキストまたはトークンレベルのキャリブレーションを伴います。本研究では、推論された状況特性に合わせてデコーディングを適応させる、シンプルで解釈可能な温度選択フレームワークである \textbf{Scenario-Actor} を紹介します。Scenario-Actor は、Transformer の隠れ状態からシナリオに関連する構造を抽出し、コミュニケーション設定の構造化された幾何学的表現であるシナリオ埋め込みから温度を決定します。実験結果によると、Llama-3.1-8B-Instruct において、Scenario-Actor は、対話型ソーシャルシナリオで強力な目標達成性能、自由形式の指示に従う際の顕著な改善、および複数のベースラインと比較してマルチターン会話で競争力のある性能を達成しています。 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.18820v1</guid>
+      <pubDate>Tue, 13 Oct 2026 17:51:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
