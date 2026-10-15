@@ -7,19 +7,51 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 11:28:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:05:01 +0000</lastBuildDate>
     <item>
-      <title>GitHub Pages の証明書失効で Error 526 になったので Cloudflare Pages へ移行した</title>
-      <link>https://zenn.dev/unsoluble_sugar/articles/6a3fd085a60ec6</link>
-      <description>はじめに
-個人開発で、Web カメラに映った自分の動きに合わせて VRM アバターを動かす Web アプリ Mirai Mirror を β版として公開しています。カメラ映像はブラウザの中だけで処理するため、サーバー側の処理はなく、サイトは静的ファイルの配信だけで動いています。
-https://miraimirror.app/
-この公開基盤づくりは、これまで 3 本の記事にしてきました。ドメイン取得 → クリーンURL化 → β版公開 という流れです。
-2 本目のクリーンURL化の記事（以下、前作）では、末尾の「運用メモ」にこんな一文を書いていました。
+      <title>【備忘録】CSSのstickyで作る、せり上がりながら背景が見える演出</title>
+      <link>https://zenn.dev/crayfisher_zari/articles/75619d5860f885</link>
+      <description>時々作っては作り方を忘れるので備忘録も兼ねて記事にします。正式名称を知らないのですが、スクロールしていくと前景のコンテンツがカーテンみたいにせり上がって背景が見えてくる演出のやつです。
+▼こういうやつ
 
-プロキシ化後は、GitHub... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/unsoluble_sugar/articles/6a3fd085a60ec6</guid>
-      <pubDate>Mon, 12 Oct 2026 09:43:09 +0000</pubDate>
+
+ position: stickyを使うメリット
+position: fixedで背景に固定するのもいいですが、全体のレイアウトに影響があり関係ない要素まで副作用に巻き込まれるおそれがあります。position: stickyを使うとこの演出前後のみに影響を抑えられるのでコントロールがしやすいです。
+
+ 実装ポイント
+模式的に3つのセクションにわけて説明します。せり上がる要素がセクショ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/crayfisher_zari/articles/75619d5860f885</guid>
+      <pubDate>Wed, 14 Oct 2026 05:59:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Akinatorで始めるAgentic RL ー タスク設計と初期検証  ー</title>
+      <link>https://zenn.dev/mkj/articles/8e1da67da67f98</link>
+      <description>1. はじめに
+松尾研究所の具です。昨今、LLMが外部環境に作用し自律的にタスクをこなすAIエージェントに関する研究が注目されています。中でも、多様なツールを用いてAgentに適切な行動を取らせるために、ツールの利用方法を推論時のコンテキストとして渡すのではなく、事後学習によって獲得させる枠組みであるAgentic RLが注目されています。Agentic RLとは、「LLMを学習可能な方策として扱い、環境と対話しながら目標達成するエージェントとしての能力を強化学習で向上させる枠組み」[1]です。
+弊社の過去の取り組みでは、太田さん・尾崎さんのこちらの記事[2]で、メール検索タスク性能... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mkj/articles/8e1da67da67f98</guid>
+      <pubDate>Thu, 15 Oct 2026 02:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>「自分たちで決める」をシリコンバレーが歓迎 — トランプのAI自主規制路線、中身はわずか308語の協定</title>
+      <link>https://techfeed.io/entries/6acebc09de1f65eca02540f7?from=rss</link>
+      <description>10月12日、Los Angeles Timesが「In Silicon Valley, AI founders cheer Trump's calls for the industry to police itself on safety」と題した記事を公開した。トランプ政権がAI業界に課した自主規制の「憲法」は、わずか308語の協定だ。シリコンバレーのAI創業者たちがこの路線を歓迎する一方、内部からは「厳格な法律の代替にはならない」と警告の声が上がっている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6acebc09de1f65eca02540f7?from=rss</guid>
+      <pubDate>Tue, 13 Oct 2026 23:17:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 4 Argonの日本語性能を検証してみた</title>
+      <link>https://zenn.dev/algoartis/articles/19bb1705ea4b16</link>
+      <description>本日 2026年10月14日、Gemini 4 Argon が公開されました。
+この記事では、Gemini 3.8 Flash と並べて日本語を書かせ、その能力を検証しています。
+AIの日本語を推敲するスキル「yomiyasu」を開発している知見をもとにしつつ、よく見られるような「点数でモデルを順位づけるベンチマーク形式」ではなく、推敲を任せたときにそれぞれのモデルが何を変えて何を残したか を、原文と出力を並べて見た報告となっております。
+
+ TL;DR
+
+指示書を渡さずに一から書かせると、Argon も 3.8 Flash も、技術記事の6本すべてで出典のない数字を言い切りで書いた。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/algoartis/articles/19bb1705ea4b16</guid>
+      <pubDate>Wed, 14 Oct 2026 08:22:28 +0000</pubDate>
     </item>
     <item>
       <title>開発しながら同じPCでローカルLLMを動かしてみた話</title>
@@ -33,51 +65,19 @@ https://miraimirror.app/
       <pubDate>Wed, 14 Oct 2026 01:31:20 +0000</pubDate>
     </item>
     <item>
-      <title>Unityで立体物の衣装が変わるプロジェクションマッピングを試作した</title>
-      <link>https://zenn.dev/m_tk/articles/e39b61a8136a29</link>
-      <description>はじめに
-Unityを用いてマネキン曲面への3Dプロジェクションマッピングを試作しました。
-着手のきっかけは『CGWORLD』2025年11月号に掲載された「大カプコン展」の事例です。
-春麗の等身大立像に映像を投影し、ワイヤーフレームから衣装へと見た目が変わっていく展示が紹介されていました。
-掲載記事ではTouchDesignerやHoudini、Blenderを組み合わせた制作・上映の仕組みが解説されています。
-この仕組みを自分なりに理解するため、身近なマネキンとプロジェクターで小さく試してみることにしました。
-知りたかったのは、事前に3Dモデルと映像を作れば、Unityで投影結果... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/m_tk/articles/e39b61a8136a29</guid>
-      <pubDate>Wed, 14 Oct 2026 01:20:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-DLC富山合宿に参加してみた</title>
-      <link>https://zenn.dev/nuance/articles/ai-dlc-toyama-camp-2026</link>
-      <description>はじめに
-2026年10月10日・11日に開催された「JAWS-UG 富山#7 AI-DLC富山合宿」に参加しました。講師はAWSの福井厚さんです。[1]
-座学でAI-DLCの考え方を学び、その後はチームに分かれてシステム開発に取り組みました。
+      <title>改めて考える、AIエンジニアリングの今</title>
+      <link>https://zenn.dev/r_kaga/articles/2fd185c50cea7c</link>
+      <description>昨年11月、翻訳を担当したオライリーの『AIエンジニアリング』の発売に合わせて、Zennで「AIエンジニアリング、始めませんか？」という記事を書きました。
 
- 参加のきっかけ
-最近、業務担当者とエンジニアの距離が、AIによって少しずつ縮まっていると感じています。
-業務担当者は、プログラミング言語に詳しくなくても、AIと話しながら画面や操作のモックを作れるようになってきました。「こんなものがほしい」というイメージを、言葉だけでなく形にして伝えやすくなったと感じます。
-エンジニアも、なじみのない業務... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nuance/articles/ai-dlc-toyama-camp-2026</guid>
-      <pubDate>Tue, 13 Oct 2026 09:32:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>見えない原因に、統計学は何を言えるようになったか：交絡の歴史</title>
-      <link>https://zenn.dev/takyas/articles/dd6bef15d2d5f0</link>
-      <description>交絡という概念はわかりにくく、誤解も多いように思う。この記事では、統計学が「見えない交絡」という問題にどう向き合ってきたかを、その歴史をたどりながら整理し、Rの実装がどう対応するのかをまとめてみた。
+それから1年近くが経ち、AIエンジニアリングを取り巻く環境も変わったので、改めて書き直してみます。
+!
 
- はじめに
-1958年8月、Ronald FisherはNatureに短い論考（レター）を寄せた[1]。Richard DollとAustin Bradford Hillが1950年から積み上げてきた「喫煙者は非喫煙者より肺がんになりやすい」という証拠に対し、Fisherは別の説明を用意していた。喫煙習慣と肺がんへのかかりやすさの双方を左右する、共通の遺伝的体質が存在するのではないか、とい... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/takyas/articles/dd6bef15d2d5f0</guid>
-      <pubDate>Tue, 13 Oct 2026 04:58:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>画像は「言葉だけ」でどこまで送れるか――中間特徴とプロンプト再生成を比較した小規模検証</title>
-      <link>https://zenn.dev/lube8163/articles/594bea1c0f8397</link>
-      <description>2026年10月14日 · lube8163-lab · 探索的なローカル実験
-画像生成モデルの中間表現を送れば、画像を小さなデータに圧縮しつつ意味を伝えられるのではないか。これを出発点として、中間特徴を量子化して送る方式と、画像を文章にして受信側で描き直す方式を検証した。
-今回の写真11枚では、数百バイトの文章でも「何の画像か」という近さは保てた。ただし、元の人物・個体・配置・形状を復元する用途には限界があった。中間特徴を凍結された出力ヘッドへ渡す今回の方式では、通信効率の優位を確認できなかった。
-これは中間表現一般の否定ではない。特徴から復元する専用の復号器を学習する実験は行っていな... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lube8163/articles/594bea1c0f8397</guid>
-      <pubDate>Tue, 13 Oct 2026 17:58:32 +0000</pubDate>
+AIエンジニアリングのロードマップはいくつもあるが、主に共通するのは評価
+AIエンジニアリングはAIプロダクトの外、AIを使ってソフトウェアを作る開発の現場にも広がった
+人のいない間にAIが動くようになり、インターフェースで考えることは、画面の作り込みよりも、AIへの任せ方、結果の確かめ方、責任を誰が持つかになった
+利用データを... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/r_kaga/articles/2fd185c50cea7c</guid>
+      <pubDate>Wed, 14 Oct 2026 23:08:33 +0000</pubDate>
     </item>
     <item>
       <title>モバイルアプリ開発でノートPCを持ち歩かなくなった話</title>
@@ -109,21 +109,6 @@ Unityを用いてマネキン曲面への3Dプロジェクションマッピン�
       <pubDate>Tue, 13 Oct 2026 02:30:05 +0000</pubDate>
     </item>
     <item>
-      <title>データ基盤におけるデータ取り込み方式の選び方 —— ゼロコピー、CDC、Create or Replace、クエリベース増分更新</title>
-      <link>https://zenn.dev/ivry/articles/data-ingestion-pattern-guide</link>
-      <description>こんにちは、IVRyでデータエンジニアとして働いている松田健司（@ken_3ba）です。趣味はビリヤードで、プロの試合にも出ているぐらい割とガチでやっています。
-最近シャフト(キューの上半分の部分)を新調しました。木に色を入れた7色のカラフルなデザインのUNLIMITEDのシャフトがあるのですが、結局いちばん無難な黒を選びました。
-
-7色のシャフト。
-ビリヤードの話はこのへんにして、本題に入ります。今回はデータの取り込み方法について整理し、どういうときにどの技術を選ぶのかをまとめました。
-
- TL;DR
-
-データを取り込む方式を「ゼロコピー」「Change Data Capture(CD... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ivry/articles/data-ingestion-pattern-guide</guid>
-      <pubDate>Tue, 13 Oct 2026 04:47:00 +0000</pubDate>
-    </item>
-    <item>
       <title>『現場で役立つシステム設計の原則』を読んで学んだこと、実践したこと、これからやりたいこと</title>
       <link>https://zenn.dev/wwwave/articles/38b8284f96bd9e</link>
       <description>はじめに
@@ -132,6 +117,18 @@ Unityを用いてマネキン曲面への3Dプロジェクションマッピン�
 どちらも、変更したときに「何が壊れるか」を検知できる状態、つまりテストをどう整えるか、という話でした。一方で、テストを整えるほど、もう1つの課題が気になるようになりました。ロジックの置き場所やクラスの切り方そのものが悪ければ、テストがあっても、変更のたびに修正箇所があちこちに散らばり、変更は楽にならないので... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/wwwave/articles/38b8284f96bd9e</guid>
       <pubDate>Tue, 13 Oct 2026 22:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>就活用DirectX12アクションゲーム作成 第三十三回</title>
+      <link>https://zenn.dev/seisei89628/articles/cd976e4c7d78c7</link>
+      <description>※筆者は初学者なので、間違ったことを書いていれば教えてくれると助かります。
+
+ はじめに
+前回は、C++側の基盤とC#側のゲーム層を分け、ゲーム側から描画、物理、音声を扱えるようにしました。
+今回はプレイヤーの操作と戦闘を作りました。歩く・走る・攻撃する・回避する・ジャンプする・やられる、という一通りの動きを作り、練習用の敵と戦って、決着がついたら再戦できるところまで進めています。アニメーション、表情、カメラ、画面効果も、行動に合わせて動くようにしました。
+機能が増えてくると、1つのクラスに処理を詰め込んだままではすぐに手が付けられなくなります。今回は、何を作ったかに加えて、それをどう分... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/seisei89628/articles/cd976e4c7d78c7</guid>
+      <pubDate>Wed, 14 Oct 2026 06:06:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
