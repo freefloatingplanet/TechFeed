@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 11:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:00:38 +0000</lastBuildDate>
     <item>
       <title>【備忘録】CSSのstickyで作る、せり上がりながら背景が見える演出</title>
       <link>https://zenn.dev/crayfisher_zari/articles/75619d5860f885</link>
@@ -24,6 +24,17 @@ position: fixedで背景に固定するのもいいですが、全体のレイ�
       <pubDate>Wed, 14 Oct 2026 05:59:58 +0000</pubDate>
     </item>
     <item>
+      <title>エンジニアに情報漏えいは防げないのか？ ハッシュ化のコスト設計で「盗まれたあと」は変えられる</title>
+      <link>https://qiita.com/shinkai_/items/aef2dec31922dbad3c0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+情報漏えいのニュースで、「エンジニアは何をしていたんだ」という声を目にしました。
+正直に言うと、侵入そのものを100%防ぐのは難しいと思います。
+脆弱性を突かれることもあれば、委託先やソフトウェアの不具合が原因になることもあります。
+ただ、盗まれたあとの被害の大... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/shinkai_/items/aef2dec31922dbad3c0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 16 Oct 2026 04:03:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Akinatorで始めるAgentic RL ー タスク設計と初期検証  ー</title>
       <link>https://zenn.dev/mkj/articles/8e1da67da67f98</link>
       <description>1. はじめに
@@ -33,11 +44,11 @@ position: fixedで背景に固定するのもいいですが、全体のレイ�
       <pubDate>Thu, 15 Oct 2026 02:50:05 +0000</pubDate>
     </item>
     <item>
-      <title>「自分たちで決める」をシリコンバレーが歓迎 — トランプのAI自主規制路線、中身はわずか308語の協定</title>
-      <link>https://techfeed.io/entries/6acebc09de1f65eca02540f7?from=rss</link>
-      <description>10月12日、Los Angeles Timesが「In Silicon Valley, AI founders cheer Trump's calls for the industry to police itself on safety」と題した記事を公開した。トランプ政権がAI業界に課した自主規制の「憲法」は、わずか308語の協定だ。シリコンバレーのAI創業者たちがこの路線を歓迎する一方、内部からは「厳格な法律の代替にはならない」と警告の声が上がっている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6acebc09de1f65eca02540f7?from=rss</guid>
-      <pubDate>Tue, 13 Oct 2026 23:17:29 +0000</pubDate>
+      <title>DatabricksがSQLから直接呼び出せる予測AI関数群を公開 — 依頼待ちゼロで売上予測・異常検知が完結</title>
+      <link>https://techfeed.io/entries/6ad15eddb9a6f1a69d9a31ee?from=rss</link>
+      <description>10月15日、Databricksが「Unlock powerful insights and forecasts with Predictive AI Functions」と題した記事を公開した。この記事では、SQLやGenie（自然言語インターフェース）から直接呼び出せる予測系AI関数群「Predictive AI Functions」のベータ提供開始について詳しく紹介されている。データサイエンスチームへの依頼待ちを解消する「来四半期の売上はどうなる？」「あの指標がなぜ動いた？」「この数値は異常か？」——データチームが繰り返し受けるこれらの問いに答えるには、従来であればデータサイエンスチームがモデルを構築し、インフラを管理する必要があった。その結果、ビジネスユーザーは回答を待ち続け、問い自体が握りつぶされることも珍しくなかった。DatabricksはこのボトルネックをSQL組み込み関数で解消しようとしている。Predictive AI Functionsは現在ベータ提供中で、以下の5つの関数を含む。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ad15eddb9a6f1a69d9a31ee?from=rss</guid>
+      <pubDate>Thu, 15 Oct 2026 23:16:45 +0000</pubDate>
     </item>
     <item>
       <title>Gemini 4 Argonの日本語性能を検証してみた</title>
@@ -54,15 +65,17 @@ AIの日本語を推敲するスキル「yomiyasu」を開発している知見�
       <pubDate>Wed, 14 Oct 2026 08:22:28 +0000</pubDate>
     </item>
     <item>
-      <title>開発しながら同じPCでローカルLLMを動かしてみた話</title>
-      <link>https://zenn.dev/sumasate_tec/articles/test-local-llm</link>
-      <description>はじめに
-スマサテでWebアプリケーション開発を担当している上田です。
-普段の開発では Claude Code を使っていますが、便利な反面使っていると気になってくるのが使用量です。調査で大量のファイルを読ませたり、同じ作業を何度もやり直させたりすると、それなりに消費します。
-そんなときに知ったのが MiniCPM5 という軽量なモデルです。2B クラスと小さく、手元のPCで動かすことを前提にコーディングエージェントやツール呼び出しにも使えると紹介されていました。
-手元のPCで動くなら Claude Code の作業の一部をローカルLLMに任せて使用量を抑えられるのでは？と考えて、会... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sumasate_tec/articles/test-local-llm</guid>
-      <pubDate>Wed, 14 Oct 2026 01:31:20 +0000</pubDate>
+      <title>AIを使えばドキュメント整備はいらない？いやいや、今こそ人間が動くときだ</title>
+      <link>https://zenn.dev/atamaplus/articles/2c9538a721c613</link>
+      <description>こんにちは、atama plusでエンジニアをしているyuki_nomuraです。
+最近はAIに社内の情報を探してもらう場面も増えてきたのではないでしょうか。
+それなら、ドキュメントの整理や見直しもAIに任せて、みんな幸せになりそうです。
+でも、ドキュメントの内容が今も正しいかどうかは、誰がどうやって確認すればいいでしょう？
+…そうです、この記事で私が主張したいことは、AIを使うようになっても、ドキュメントを人間が見直す仕事は残るということです。
+嬉しいですね、まだ仕事がありそうです。
+atama plusの開発組織には、エンジニアが業務で参照するドキュメントを集め、継続的にメンテナンス... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/atamaplus/articles/2c9538a721c613</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:23 +0000</pubDate>
     </item>
     <item>
       <title>改めて考える、AIエンジニアリングの今</title>
@@ -78,18 +91,6 @@ AIエンジニアリングはAIプロダクトの外、AIを使ってソフト�
 利用データを... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/r_kaga/articles/2fd185c50cea7c</guid>
       <pubDate>Wed, 14 Oct 2026 23:08:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>モバイルアプリ開発でノートPCを持ち歩かなくなった話</title>
-      <link>https://zenn.dev/yasi/articles/mobile-dev-from-phone-with-claude</link>
-      <description>はじめに
-モバイルアプリ開発者のみなさん、AIエージェントを使った最近の開発はどうしていますか？
-実装はAIに任せて、バイブコーディングしている人も多いと思います。とはいえ、当たり前ですがPCの前でやっていますよね。
-せっかく任せられるなら、移動中にも指示を出して進めてもらいたくなります。そこでノートPCを持って出て、プロンプトを投げて、待っているあいだは半開きにして持ち歩き（閉じるとスリープして止まるので）、終わったら開いて次のプロンプトを投げて、また半開きにして……を繰り返していた人もいるかもしれません。自分がそうでした。最近、こんな感じの人をよく見かける気がします。
-
-そんな人... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/yasi/articles/mobile-dev-from-phone-with-claude</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:05 +0000</pubDate>
     </item>
     <item>
       <title>良いテストを書き、良いテストを見分ける ─『単体テストの考え方/使い方』のエッセンス</title>
@@ -119,16 +120,18 @@ AIエンジニアリングはAIプロダクトの外、AIを使ってソフト�
       <pubDate>Tue, 13 Oct 2026 22:00:06 +0000</pubDate>
     </item>
     <item>
-      <title>就活用DirectX12アクションゲーム作成 第三十三回</title>
-      <link>https://zenn.dev/seisei89628/articles/cd976e4c7d78c7</link>
-      <description>※筆者は初学者なので、間違ったことを書いていれば教えてくれると助かります。
+      <title>OpenTelemetryでStep Functions越しにtraceparentを引き回し、複数Lambdaを一つのトレースにつなぐ</title>
+      <link>https://zenn.dev/boy_techblog/articles/connecting-trace-serverless</link>
+      <description>はじめに
+横浜銀行アジャイル開発チームのwatariです。
+AWS上で、次のようなサーバーレスアプリケーションをOpenTelemetryで計装する機会がありました。
+これまではAWS X-Ray SDKを利用してトレースを可視化していましたが、AWSがOpenTelemetryへの移行を推奨しています。
+そのためOpenTelemetryを用いた計装をPoC（概念実証）として試しました。
 
- はじめに
-前回は、C++側の基盤とC#側のゲーム層を分け、ゲーム側から描画、物理、音声を扱えるようにしました。
-今回はプレイヤーの操作と戦闘を作りました。歩く・走る・攻撃する・回避する・ジャンプする・やられる、という一通りの動きを作り、練習用の敵と戦って、決着がついたら再戦できるところまで進めています。アニメーション、表情、カメラ、画面効果も、行動に合わせて動くようにしました。
-機能が増えてくると、1つのクラスに処理を詰め込んだままではすぐに手が付けられなくなります。今回は、何を作ったかに加えて、それをどう分... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/seisei89628/articles/cd976e4c7d78c7</guid>
-      <pubDate>Wed, 14 Oct 2026 06:06:40 +0000</pubDate>
+テレメトリの送信先にはNew Relicを使用します。本稿ではOTLPによる直接送信の実装に焦点を当て、New Relicのエージェントとの比較は扱いません。
+WebアプリケーションやLambd... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/boy_techblog/articles/connecting-trace-serverless</guid>
+      <pubDate>Thu, 15 Oct 2026 03:59:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

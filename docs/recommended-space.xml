@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 11:05:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:00:41 +0000</lastBuildDate>
     <item>
       <title>北海道大樹町の新射場「LC1」、主要工事が完了　民間による管理・運営も開始</title>
       <link>https://sorae.info/biz/20261015-hospo-lc1.html</link>
@@ -30,18 +30,18 @@
       <pubDate>Wed, 14 Oct 2026 09:40:09 +0000</pubDate>
     </item>
     <item>
-      <title>遠隔地の鉄道や農地にも通信技術を提供へ。イギリスが衛星通信に関する16件のプロジェクトに1,300万ポンドを出資【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/46923/</link>
-      <description>2026年8月18日、UK Space Agency（イギリス宇宙庁）は、衛星通信の16件のプロジェクトに資金提供すると発表しました。総額は1,300万ポンド（約28億円）です。16件のプロジェクトはESA（欧州宇宙機関）の通信技術開発プログラム「ARTES」の一部として実施され、身近な用途から深宇宙通信までテーマが多岐にわたります。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46923/</guid>
-      <pubDate>Sun, 06 Sep 2026 23:02:33 +0000</pubDate>
-    </item>
-    <item>
       <title>アルテミス合意を軸とした米国防省の新施策「Space Catalyst Partnership」とは【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/47167/</link>
       <description>米国務省の「Space Catalyst Partnership」は、アルテミス合意の署名国との関係を実際の協力へ広げる取り組みです。3つの手段と、ペルーでの初期案件を紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/47167/</guid>
       <pubDate>Mon, 12 Oct 2026 23:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>遠隔地の鉄道や農地にも通信技術を提供へ。イギリスが衛星通信に関する16件のプロジェクトに1,300万ポンドを出資【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/46923/</link>
+      <description>2026年8月18日、UK Space Agency（イギリス宇宙庁）は、衛星通信の16件のプロジェクトに資金提供すると発表しました。総額は1,300万ポンド（約28億円）です。16件のプロジェクトはESA（欧州宇宙機関）の通信技術開発プログラム「ARTES」の一部として実施され、身近な用途から深宇宙通信までテーマが多岐にわたります。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46923/</guid>
+      <pubDate>Sun, 06 Sep 2026 23:02:33 +0000</pubDate>
     </item>
     <item>
       <title>金星に衛星がないのは必然的？　もしも衛星があったとしても長期間生き残れないことが判明</title>
@@ -51,18 +51,18 @@
       <pubDate>Tue, 13 Oct 2026 12:14:38 +0000</pubDate>
     </item>
     <item>
+      <title>地球と火星の形成過程は一緒ではない？　微惑星の合体とペブル集積の寄与率を推定した研究成果</title>
+      <link>https://sorae.info/astronomy/20261016-hybrid-accretion-of-planet-formation.html</link>
+      <description>コペンハーゲン大学のHaiyang Wang氏を筆頭とする研究チームは、地球と火星がどのように形づくられたのかを、2つの惑星に残る元素の組成から調べた研究成果を発表しました。研究チームの成果をまとめた論文は学術誌「Nat… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20261016-hybrid-accretion-of-planet-formation.html</guid>
+      <pubDate>Fri, 16 Oct 2026 07:46:50 +0000</pubDate>
+    </item>
+    <item>
       <title>LiveEO、光学とSARの画像を一つのAIで扱う視覚基盤モデルの実現に向け、ドイツ政府から助成獲得【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/47004/</link>
       <description>2026年8月4日、LiveEOはドイツ政府の宇宙開発プログラムから助成を受けたと発表しました。この助成を活用し、光学衛星とSAR衛星という異なる衛星のデータを、一つのAIで扱う視覚基盤モデルが実現可能かどうかの調査に取り組みます。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/47004/</guid>
       <pubDate>Wed, 23 Sep 2026 23:02:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>韓国がヌリ号ロケット5回目の打ち上げ実施　NEONSATなど14機を軌道に投入</title>
-      <link>https://sorae.info/ssn/20261008-nuri.html</link>
-      <description>韓国は、日本時間2026年10月7日に「ヌリ号」ロケットの5回目の打ち上げを実施しました。搭載されていた15機の衛星のうち14機が目標の軌道に投入されたことを、KASA（韓国宇宙航空庁）が発表しています。 打ち上げに関す… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20261008-nuri.html</guid>
-      <pubDate>Thu, 08 Oct 2026 08:44:26 +0000</pubDate>
     </item>
     <item>
       <title>火星・アルシア山から伸びる長大な雲は“常識”をくつがえす？　均質核生成で生じている可能性</title>
