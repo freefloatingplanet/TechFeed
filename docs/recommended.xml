@@ -7,48 +7,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 11:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:22:16 +0000</lastBuildDate>
     <item>
-      <title>【備忘録】CSSのstickyで作る、せり上がりながら背景が見える演出</title>
-      <link>https://zenn.dev/crayfisher_zari/articles/75619d5860f885</link>
-      <description>時々作っては作り方を忘れるので備忘録も兼ねて記事にします。正式名称を知らないのですが、スクロールしていくと前景のコンテンツがカーテンみたいにせり上がって背景が見えてくる演出のやつです。
-▼こういうやつ
-
-
- position: stickyを使うメリット
-position: fixedで背景に固定するのもいいですが、全体のレイアウトに影響があり関係ない要素まで副作用に巻き込まれるおそれがあります。position: stickyを使うとこの演出前後のみに影響を抑えられるのでコントロールがしやすいです。
-
- 実装ポイント
-模式的に3つのセクションにわけて説明します。せり上がる要素がセクショ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/crayfisher_zari/articles/75619d5860f885</guid>
-      <pubDate>Wed, 14 Oct 2026 05:59:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>エンジニアに情報漏えいは防げないのか？ ハッシュ化のコスト設計で「盗まれたあと」は変えられる</title>
-      <link>https://qiita.com/shinkai_/items/aef2dec31922dbad3c0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <title>[DataRobot] アプリに依存しているデプロイを探す</title>
+      <link>https://zenn.dev/hattan0523/articles/58b5774d099a40</link>
       <description>はじめに
-情報漏えいのニュースで、「エンジニアは何をしていたんだ」という声を目にしました。
-正直に言うと、侵入そのものを100%防ぐのは難しいと思います。
-脆弱性を突かれることもあれば、委託先やソフトウェアの不具合が原因になることもあります。
-ただ、盗まれたあとの被害の大... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/shinkai_/items/aef2dec31922dbad3c0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Fri, 16 Oct 2026 04:03:24 +0000</pubDate>
+DataRobotでAIアプリを作成する場合には、対応したデプロイが作られる。
+一つのアプリを削除したいと思った場合に他のDataRobot内のアプリやデプロイに依存している可能性がある。
+これを発見するためにリーネージが存在しているが、アプリの数が多くなってきた場合に発見するのが大変そうなので、APIでできないか考える。
+過去の記事で、デプロイのリーネージをAPIで取得したり、カスタムアプリの情報をAPIで取得しているので、これらを組み合わせてできないのか考えてみる。
+
+ 構成
+以下のような構成を考える。止まっているApp Aと動いているApp Bがある時の依存関係を描写... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hattan0523/articles/58b5774d099a40</guid>
+      <pubDate>Fri, 16 Oct 2026 13:42:58 +0000</pubDate>
     </item>
     <item>
-      <title>Akinatorで始めるAgentic RL ー タスク設計と初期検証  ー</title>
-      <link>https://zenn.dev/mkj/articles/8e1da67da67f98</link>
-      <description>1. はじめに
-松尾研究所の具です。昨今、LLMが外部環境に作用し自律的にタスクをこなすAIエージェントに関する研究が注目されています。中でも、多様なツールを用いてAgentに適切な行動を取らせるために、ツールの利用方法を推論時のコンテキストとして渡すのではなく、事後学習によって獲得させる枠組みであるAgentic RLが注目されています。Agentic RLとは、「LLMを学習可能な方策として扱い、環境と対話しながら目標達成するエージェントとしての能力を強化学習で向上させる枠組み」[1]です。
-弊社の過去の取り組みでは、太田さん・尾崎さんのこちらの記事[2]で、メール検索タスク性能... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mkj/articles/8e1da67da67f98</guid>
-      <pubDate>Thu, 15 Oct 2026 02:50:05 +0000</pubDate>
+      <title>LangChainがInterruptイベントで大量リリース — AIエージェントの「実行ログ自然言語検索」「本番前レッドチーミング自動化」が実用フェーズへ</title>
+      <link>https://techfeed.io/entries/6ad2aee4b9a6f1a69d9adfd3?from=rss</link>
+      <description>10月16日、LangChainが「October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC &amp; London」と題した記事を公開した。LangChainが年に複数回開催する開発者向けカンファレンス「Interrupt」のNYC・London両会場で発表された新機能群をまとめたニュースレターで、LangSmith（LangChainが提供するエージェント開発・観測プラットフォーム）の大型アップデートを中心に、オープンソース側の更新や顧客事例まで幅広く紹介されている。今回のリリース群の中でとりわけ注目すべきは、実行ログをAIで自然言語検索できる「LangSmith AI Search」と、本番投入前にリスクを自動検出する「LangSmith Engine v2」の2点だ。この2つが揃うことで、エージェント開発のデバッグとリスク管理が大きく変わる可能性がある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ad2aee4b9a6f1a69d9adfd3?from=rss</guid>
+      <pubDate>Fri, 16 Oct 2026 23:10:28 +0000</pubDate>
     </item>
     <item>
-      <title>DatabricksがSQLから直接呼び出せる予測AI関数群を公開 — 依頼待ちゼロで売上予測・異常検知が完結</title>
-      <link>https://techfeed.io/entries/6ad15eddb9a6f1a69d9a31ee?from=rss</link>
-      <description>10月15日、Databricksが「Unlock powerful insights and forecasts with Predictive AI Functions」と題した記事を公開した。この記事では、SQLやGenie（自然言語インターフェース）から直接呼び出せる予測系AI関数群「Predictive AI Functions」のベータ提供開始について詳しく紹介されている。データサイエンスチームへの依頼待ちを解消する「来四半期の売上はどうなる？」「あの指標がなぜ動いた？」「この数値は異常か？」——データチームが繰り返し受けるこれらの問いに答えるには、従来であればデータサイエンスチームがモデルを構築し、インフラを管理する必要があった。その結果、ビジネスユーザーは回答を待ち続け、問い自体が握りつぶされることも珍しくなかった。DatabricksはこのボトルネックをSQL組み込み関数で解消しようとしている。Predictive AI Functionsは現在ベータ提供中で、以下の5つの関数を含む。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ad15eddb9a6f1a69d9a31ee?from=rss</guid>
-      <pubDate>Thu, 15 Oct 2026 23:16:45 +0000</pubDate>
+      <title>LLMにとって書きやすい構文とは何か：`end` と `end func foo` を1,000回以上比べてみた</title>
+      <link>https://zenn.dev/nextbeat/articles/2026-10-syntax-locality-llm</link>
+      <description>はじめに
+こんにちは！株式会社ネクストビートでテクノロジー・エバンジェリストなる肩書きでお仕事をしている水島です。
+今回は「LLMにとって書きやすい構文とはどういうものか」を、小さな実験で確かめてみた話です。
+対象にしたのは、既存のプログラミング言語ではなく、 プロンプトの中で初めて文法を説明される未知の言語 です。学習データに大量に含まれる言語だと「その言語を知っているから書ける」のか「構文の設計が良いから書ける」のかを切り分けられません。そこで、スコープだけを持つ小さな言語を自作し、文法の説明と8つの例だけを渡して、同じ内容のプログラムを閉じ方の違う構文で書かせました。つまりここ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nextbeat/articles/2026-10-syntax-locality-llm</guid>
+      <pubDate>Fri, 16 Oct 2026 03:00:24 +0000</pubDate>
     </item>
     <item>
       <title>Gemini 4 Argonの日本語性能を検証してみた</title>
@@ -65,17 +54,30 @@ AIの日本語を推敲するスキル「yomiyasu」を開発している知見�
       <pubDate>Wed, 14 Oct 2026 08:22:28 +0000</pubDate>
     </item>
     <item>
-      <title>AIを使えばドキュメント整備はいらない？いやいや、今こそ人間が動くときだ</title>
-      <link>https://zenn.dev/atamaplus/articles/2c9538a721c613</link>
-      <description>こんにちは、atama plusでエンジニアをしているyuki_nomuraです。
-最近はAIに社内の情報を探してもらう場面も増えてきたのではないでしょうか。
-それなら、ドキュメントの整理や見直しもAIに任せて、みんな幸せになりそうです。
-でも、ドキュメントの内容が今も正しいかどうかは、誰がどうやって確認すればいいでしょう？
-…そうです、この記事で私が主張したいことは、AIを使うようになっても、ドキュメントを人間が見直す仕事は残るということです。
-嬉しいですね、まだ仕事がありそうです。
-atama plusの開発組織には、エンジニアが業務で参照するドキュメントを集め、継続的にメンテナンス... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/atamaplus/articles/2c9538a721c613</guid>
-      <pubDate>Thu, 15 Oct 2026 06:00:23 +0000</pubDate>
+      <title>[フィジカルAI]LLM によるテレオペデータで VLA を学習して Strands Robots に組み込んでみた</title>
+      <link>https://zenn.dev/aws_japan/articles/strands-robots-llm-teleop</link>
+      <description>はじめに
+前回の記事[1]では、strands-robots で SO-100 というロボットアームのシミュレーションを動かし、強化学習で作った把持の Policy を Agent に登録して、日本語の指示から赤い球を掴ませました。ただ、その Policy は球を掴むという 1 つの動作だけを強化学習で覚えたもので、指示文を受け取っても動作のために使われませんでした。言葉と動作が結び付いていないので、Agent がどんな指示文を渡しても Policy の動きは変わりません。赤い球をアームで掴む動作をするボタンがあるとして、それを押す権利をエージェントが持っているようなイメージで自然言... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/strands-robots-llm-teleop</guid>
+      <pubDate>Fri, 16 Oct 2026 04:43:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>押せないハンバーガーボタン、3回直して原因はCSSバンドルの順序だった</title>
+      <link>https://zenn.dev/pythona/articles/css-bundle-order-hamburger</link>
+      <description>はじめに
+社内の業務システム(React + Vite)のQAから、こんな報告が来ました。
+
+日付の左の三本線がクリックできない
+
+添付はスクリーンショット1枚だけ。機種も画面幅も、押したときに何が起きたのかも書かれていません。この一行から始まったバグ修正で、私は3回も見当違いの場所を直し、最後にたどり着いた原因はCSSバンドル内の規則の順序でした。今回はその迷走の過程をそのまま書きます。
+
+ 前提: ハンバーガーボタンは2つある
+このアプリのサイドバーは、画面幅で挙動が変わります。
+
+
+PC幅(&gt;900px): サイドバーは常時表示。サイドバー上部の「≡」を押すと60pxのア... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pythona/articles/css-bundle-order-hamburger</guid>
+      <pubDate>Fri, 16 Oct 2026 11:54:20 +0000</pubDate>
     </item>
     <item>
       <title>改めて考える、AIエンジニアリングの今</title>

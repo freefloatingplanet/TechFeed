@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 11:00:41 +0000</lastBuildDate>
-    <item>
-      <title>北海道大樹町の新射場「LC1」、主要工事が完了　民間による管理・運営も開始</title>
-      <link>https://sorae.info/biz/20261015-hospo-lc1.html</link>
-      <description>北海道大樹町は2026年10月14日、商業宇宙港「北海道スペースポート（HOSPO）」で整備を進めてきた新たなロケット射場「Launch Complex 1（LC1）」について、町が担当する主要工事が完了したと発表しまし… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/biz/20261015-hospo-lc1.html</guid>
-      <pubDate>Thu, 15 Oct 2026 06:20:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Oct 2026 10:22:19 +0000</lastBuildDate>
     <item>
       <title>線状降水帯の発生予測から食糧安全保障、道路などのインフラ維持まで。令和9年度の宇宙関係概算要求から考える「国家インフラ」としての宇宙の使い方</title>
       <link>https://sorabatake.jp/47077/</link>
@@ -70,6 +63,13 @@
       <description>こちらは、ESA（ヨーロッパ宇宙機関）の火星探査機「Mars Express（マーズ・エクスプレス）」が2018年9月21日に取得したデータを使って作成された、火星の画像です。 中央右に写っているのは、アルシア山。そこか… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20261013-mars-amec.html</guid>
       <pubDate>Tue, 13 Oct 2026 08:18:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>火星・北極域の氷は従来の推定よりも塵が少ない？　地球の雪氷の研究手法を応用して分析</title>
+      <link>https://sorae.info/astronomy/20261017-mars-north-pole-less-dusty.html</link>
+      <description>エディンバラ大学のPari Mohan氏とワシントン大学応用物理研究所のAditya Khuller氏は、火星の北極付近で地表に露出している水の氷が、どれくらいの塵（ダスト）を含んでいるのかを見積もり直した研究成果を発表… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20261017-mars-north-pole-less-dusty.html</guid>
+      <pubDate>Sat, 17 Oct 2026 02:01:15 +0000</pubDate>
     </item>
     <item>
       <title>「宇宙業界は、地上の経験を必要としている」通信・電力インフラ業界から宇宙交通管理の基盤を作るPMに転身して2カ月の手応え</title>
