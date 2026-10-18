@@ -7,27 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:22:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:38:42 +0000</lastBuildDate>
     <item>
-      <title>[DataRobot] アプリに依存しているデプロイを探す</title>
-      <link>https://zenn.dev/hattan0523/articles/58b5774d099a40</link>
-      <description>はじめに
-DataRobotでAIアプリを作成する場合には、対応したデプロイが作られる。
-一つのアプリを削除したいと思った場合に他のDataRobot内のアプリやデプロイに依存している可能性がある。
-これを発見するためにリーネージが存在しているが、アプリの数が多くなってきた場合に発見するのが大変そうなので、APIでできないか考える。
-過去の記事で、デプロイのリーネージをAPIで取得したり、カスタムアプリの情報をAPIで取得しているので、これらを組み合わせてできないのか考えてみる。
+      <title>ClaudeにiOSシミュレーターのスクリーンショットを読ませるのをやめて、操作で増えるコンテキストを43%削減した</title>
+      <link>https://zenn.dev/eai/articles/dont-let-agents-see-the-ios-sim-screen</link>
+      <description>Claude CodeのデスクトップアプリにはiOSシミュレーターを操作するツールがある。個人で作っているiOS向けのMastodonクライアントでは、このツールで実装のたびに画面を確かめさせていた。
+しかし、Claudeのコンテキストの大半がスクリーンショットで埋まっているような気がしていた。
+そこで、過去のセッションのログ99件を集計して非効率な操作を洗い出し、画面を画像ではなく文字で読む道具を足した。
+同じ4つの作業を旧来のやり方と新しいやり方で3回ずつClaudeにやらせて比べた結果は次のとおりである（どれも中央値の和）。
 
- 構成
-以下のような構成を考える。止まっているApp Aと動いているApp Bがある時の依存関係を描写... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hattan0523/articles/58b5774d099a40</guid>
-      <pubDate>Fri, 16 Oct 2026 13:42:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>LangChainがInterruptイベントで大量リリース — AIエージェントの「実行ログ自然言語検索」「本番前レッドチーミング自動化」が実用フェーズへ</title>
-      <link>https://techfeed.io/entries/6ad2aee4b9a6f1a69d9adfd3?from=rss</link>
-      <description>10月16日、LangChainが「October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC &amp; London」と題した記事を公開した。LangChainが年に複数回開催する開発者向けカンファレンス「Interrupt」のNYC・London両会場で発表された新機能群をまとめたニュースレターで、LangSmith（LangChainが提供するエージェント開発・観測プラットフォーム）の大型アップデートを中心に、オープンソース側の更新や顧客事例まで幅広く紹介されている。今回のリリース群の中でとりわけ注目すべきは、実行ログをAIで自然言語検索できる「LangSmith AI Search」と、本番投入前にリスクを自動検出する「LangSmith Engine v2」の2点だ。この2つが揃うことで、エージェント開発のデバッグとリスク管理が大きく変わる可能性がある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ad2aee4b9a6f1a69d9adfd3?from=rss</guid>
-      <pubDate>Fri, 16 Oct 2026 23:10:28 +0000</pubDate>
+
+
+4つの作業の合計
+旧来のやり方
+新しいやり方
+差
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/eai/articles/dont-let-agents-see-the-ios-sim-screen</guid>
+      <pubDate>Sun, 18 Oct 2026 02:56:18 +0000</pubDate>
     </item>
     <item>
       <title>LLMにとって書きやすい構文とは何か：`end` と `end func foo` を1,000回以上比べてみた</title>
@@ -40,44 +37,11 @@ DataRobotでAIアプリを作成する場合には、対応したデプロイが
       <pubDate>Fri, 16 Oct 2026 03:00:24 +0000</pubDate>
     </item>
     <item>
-      <title>Gemini 4 Argonの日本語性能を検証してみた</title>
-      <link>https://zenn.dev/algoartis/articles/19bb1705ea4b16</link>
-      <description>本日 2026年10月14日、Gemini 4 Argon が公開されました。
-この記事では、Gemini 3.8 Flash と並べて日本語を書かせ、その能力を検証しています。
-AIの日本語を推敲するスキル「yomiyasu」を開発している知見をもとにしつつ、よく見られるような「点数でモデルを順位づけるベンチマーク形式」ではなく、推敲を任せたときにそれぞれのモデルが何を変えて何を残したか を、原文と出力を並べて見た報告となっております。
-
- TL;DR
-
-指示書を渡さずに一から書かせると、Argon も 3.8 Flash も、技術記事の6本すべてで出典のない数字を言い切りで書いた。
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/algoartis/articles/19bb1705ea4b16</guid>
-      <pubDate>Wed, 14 Oct 2026 08:22:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[フィジカルAI]LLM によるテレオペデータで VLA を学習して Strands Robots に組み込んでみた</title>
-      <link>https://zenn.dev/aws_japan/articles/strands-robots-llm-teleop</link>
-      <description>はじめに
-前回の記事[1]では、strands-robots で SO-100 というロボットアームのシミュレーションを動かし、強化学習で作った把持の Policy を Agent に登録して、日本語の指示から赤い球を掴ませました。ただ、その Policy は球を掴むという 1 つの動作だけを強化学習で覚えたもので、指示文を受け取っても動作のために使われませんでした。言葉と動作が結び付いていないので、Agent がどんな指示文を渡しても Policy の動きは変わりません。赤い球をアームで掴む動作をするボタンがあるとして、それを押す権利をエージェントが持っているようなイメージで自然言... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/strands-robots-llm-teleop</guid>
-      <pubDate>Fri, 16 Oct 2026 04:43:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>押せないハンバーガーボタン、3回直して原因はCSSバンドルの順序だった</title>
-      <link>https://zenn.dev/pythona/articles/css-bundle-order-hamburger</link>
-      <description>はじめに
-社内の業務システム(React + Vite)のQAから、こんな報告が来ました。
-
-日付の左の三本線がクリックできない
-
-添付はスクリーンショット1枚だけ。機種も画面幅も、押したときに何が起きたのかも書かれていません。この一行から始まったバグ修正で、私は3回も見当違いの場所を直し、最後にたどり着いた原因はCSSバンドル内の規則の順序でした。今回はその迷走の過程をそのまま書きます。
-
- 前提: ハンバーガーボタンは2つある
-このアプリのサイドバーは、画面幅で挙動が変わります。
-
-
-PC幅(&gt;900px): サイドバーは常時表示。サイドバー上部の「≡」を押すと60pxのア... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pythona/articles/css-bundle-order-hamburger</guid>
-      <pubDate>Fri, 16 Oct 2026 11:54:20 +0000</pubDate>
+      <title>オープンウェイトLLM「Muse Spark Open」が公開 — 816Bパラメータ・100万トークンでコーディングとAIエージェントに特化、Mac Studio 2台でローカル実行も可能</title>
+      <link>https://techfeed.io/entries/6ad3f92fb9a6f1a69d9b4cac?from=rss</link>
+      <description>10月16日、Digit.inが「Muse Spark Open: Open weights with a new model built for coding and AI agents」と題した記事を公開した。コーディングとAIエージェント向けに設計されたオープンウェイトモデル「Muse Spark Open」の概要と、Appleシリコンを使ったローカル実行の可能性について紹介している。なお、元記事はMeta公式サイトではなく第三者メディアDigit.inによる報道であり、「Muse Spark Open」「Muse Spark」「Muse Code」「Muse Model License」「Meta Superintelligence Scaling Framework」といったプロダクト名はMetaの既知ブランドとは異なる。これらの名称が正式なMetaのプロダクト名であるか、元記事の表記ゆれ・別ブランドの可能性もある点には留意されたい。以下の内容は元記事の記述に基づく。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ad3f92fb9a6f1a69d9b4cac?from=rss</guid>
+      <pubDate>Sat, 17 Oct 2026 22:39:43 +0000</pubDate>
     </item>
     <item>
       <title>改めて考える、AIエンジニアリングの今</title>
@@ -93,6 +57,13 @@ AIエンジニアリングはAIプロダクトの外、AIを使ってソフト�
 利用データを... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/r_kaga/articles/2fd185c50cea7c</guid>
       <pubDate>Wed, 14 Oct 2026 23:08:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>暇すぎると人は攻撃的になる。刺激を求めて暴力性が増す</title>
+      <link>https://karapaia.com/archives/632796.html</link>
+      <description>退屈が攻撃性を高めるメカニズム 心理学における「攻撃性」とは、他者に危害を加えることを目的とした行動を指し、言葉の攻撃も含まれる。 これまでの研究で、退屈な時間は「他者に苦痛を与えて喜ぶ」というサディズムと関連していることがわかっていた。 しかし、相手の苦しむ姿を見て喜ぶわけではないのに、ただ退屈だ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://karapaia.com/archives/632796.html</guid>
+      <pubDate>Sat, 17 Oct 2026 01:20:32 +0000</pubDate>
     </item>
     <item>
       <title>良いテストを書き、良いテストを見分ける ─『単体テストの考え方/使い方』のエッセンス</title>
@@ -112,6 +83,25 @@ AIエンジニアリングはAIプロダクトの外、AIを使ってソフト�
       <pubDate>Tue, 13 Oct 2026 02:30:05 +0000</pubDate>
     </item>
     <item>
+      <title>AFM（Apple Foundation Models）を活用したテキストアドベンチャーゲームの開発【第2回】自由入力を台本の選択肢につなぐ</title>
+      <link>https://zenn.dev/gritchbreed/articles/ced633f449178f</link>
+      <description>はじめに
+※この記事は、筆者のQiitaアカウントからの転載（マルチポスト）です。
+Apple Foundation Models（以下AFM）のオンデバイスモデルを使って、自由入力のテキストアドベンチャーゲームを開発しています。
+第1回では、デモ「血の池の夜」と、AFMに入力の解釈・自由会話・記憶の取り出しを任せ、物語の進行は台本とルールエンジンで制御する全体設計を紹介しました。
+今回は、その中の「入力の解釈」を扱います。プレイヤーの自由な言葉を、ゲームが処理できる話題や移動に変換する部分です。
+第1回の全体図に、今回扱う範囲を赤い太枠で示しました。台本に書いた話題から候補を作り、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/gritchbreed/articles/ced633f449178f</guid>
+      <pubDate>Sun, 18 Oct 2026 02:35:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIエージェントに全部任せたら「自分のプロジェクトで迷子」になった — エージェントコーディング5段階、著者がLevel 2に留まる理由</title>
+      <link>https://techfeed.io/entries/6ad3f9a0b9a6f1a69d9b4cc9?from=rss</link>
+      <description>10月17日、Tejas Kumarが「The 5 Levels of Agentic Coding: Why I Mostly Stay at Level 2」と題した記事を公開した。この記事では、AIエージェントを使ったコーディングを5段階に分類し、実際に4本のプロダクションアプリを開発した経験から、各レベルの実態とコストについて詳しく紹介されている。エージェントコーディングとは何かエージェントコーディングとは、AIエージェントに対してやりたいことを伝え、エージェントが自律的にコードを読み、ファイルを編集し、コマンドを実行する中で、人間がその結果をレビューしながらソフトウェアを開発するスタイルだ。著者が使用するのは主にClaude Codeで、エージェントは変更→確認→再実行のループで動く。よく混同される「バイブコーディング（vibe coding）」との違いは、レビューを省くかどうかだ。Andrej Karpathyが2025年2月に命名したバイブコーディングは「コードの存在すら忘れてしまう」スタイルだが、著者の5レベルではどのレベルでも必ず誰かがコードを読む。変わるのはエージェ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ad3f9a0b9a6f1a69d9b4cc9?from=rss</guid>
+      <pubDate>Sat, 17 Oct 2026 22:41:36 +0000</pubDate>
+    </item>
+    <item>
       <title>『現場で役立つシステム設計の原則』を読んで学んだこと、実践したこと、これからやりたいこと</title>
       <link>https://zenn.dev/wwwave/articles/38b8284f96bd9e</link>
       <description>はじめに
@@ -122,18 +112,22 @@ AIエンジニアリングはAIプロダクトの外、AIを使ってソフト�
       <pubDate>Tue, 13 Oct 2026 22:00:06 +0000</pubDate>
     </item>
     <item>
-      <title>OpenTelemetryでStep Functions越しにtraceparentを引き回し、複数Lambdaを一つのトレースにつなぐ</title>
-      <link>https://zenn.dev/boy_techblog/articles/connecting-trace-serverless</link>
-      <description>はじめに
-横浜銀行アジャイル開発チームのwatariです。
-AWS上で、次のようなサーバーレスアプリケーションをOpenTelemetryで計装する機会がありました。
-これまではAWS X-Ray SDKを利用してトレースを可視化していましたが、AWSがOpenTelemetryへの移行を推奨しています。
-そのためOpenTelemetryを用いた計装をPoC（概念実証）として試しました。
+      <title>本番DBに不要なレコードを数千万件登録してしまった話</title>
+      <link>https://zenn.dev/geekplus/articles/a615dfe41557d8</link>
+      <description>ある日、普段数分以内で完了するはずのバッチジョブからレイテンシーアラートが上がってきました。
+調査すると、出荷明細の補足情報を登録する処理で、大量のINSERTが発生しています。
+このままでは、他の入出荷等にも影響を及ぼすため、早急な解消が必要な状況です。
+この記事では、無駄に増殖してしまったデータとの戦いについてご紹介します。
 
-テレメトリの送信先にはNew Relicを使用します。本稿ではOTLPによる直接送信の実装に焦点を当て、New Relicのエージェントとの比較は扱いません。
-WebアプリケーションやLambd... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/boy_techblog/articles/connecting-trace-serverless</guid>
-      <pubDate>Thu, 15 Oct 2026 03:59:10 +0000</pubDate>
+ 何が起きていたのか
+問題のINSERTが発生している箇所を調査したところ、
+出荷の明細に紐づく補足情報を保持するテーブルに対して大量のINSERTが行われていました。
+本来は、1出荷明細に対して多くても数十レコードです。
+一体何故？
+※補足です。
+アラートの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/geekplus/articles/a615dfe41557d8</guid>
+      <pubDate>Fri, 16 Oct 2026 09:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

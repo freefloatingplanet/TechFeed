@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:22:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:38:46 +0000</lastBuildDate>
     <item>
       <title>線状降水帯の発生予測から食糧安全保障、道路などのインフラ維持まで。令和9年度の宇宙関係概算要求から考える「国家インフラ」としての宇宙の使い方</title>
       <link>https://sorabatake.jp/47077/</link>
@@ -16,25 +16,11 @@
       <pubDate>Mon, 28 Sep 2026 23:59:11 +0000</pubDate>
     </item>
     <item>
-      <title>NASA「アルテミスIII」ミッション用のSLSブースター組み立て完了　射点で推進剤の充填試験へ</title>
-      <link>https://sorae.info/space/20261014-artemis-iii.html</link>
-      <description>NASA（アメリカ航空宇宙局）は2026年10月13日付で、2027年に実施予定の「Artemis III（アルテミスIII）」ミッションの準備状況を発表しました。打ち上げに使われるロケットの組み立てが節目を迎え、機体が… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20261014-artemis-iii.html</guid>
-      <pubDate>Wed, 14 Oct 2026 09:40:09 +0000</pubDate>
-    </item>
-    <item>
       <title>アルテミス合意を軸とした米国防省の新施策「Space Catalyst Partnership」とは【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/47167/</link>
       <description>米国務省の「Space Catalyst Partnership」は、アルテミス合意の署名国との関係を実際の協力へ広げる取り組みです。3つの手段と、ペルーでの初期案件を紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/47167/</guid>
       <pubDate>Mon, 12 Oct 2026 23:02:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>遠隔地の鉄道や農地にも通信技術を提供へ。イギリスが衛星通信に関する16件のプロジェクトに1,300万ポンドを出資【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/46923/</link>
-      <description>2026年8月18日、UK Space Agency（イギリス宇宙庁）は、衛星通信の16件のプロジェクトに資金提供すると発表しました。総額は1,300万ポンド（約28億円）です。16件のプロジェクトはESA（欧州宇宙機関）の通信技術開発プログラム「ARTES」の一部として実施され、身近な用途から深宇宙通信までテーマが多岐にわたります。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46923/</guid>
-      <pubDate>Sun, 06 Sep 2026 23:02:33 +0000</pubDate>
     </item>
     <item>
       <title>金星に衛星がないのは必然的？　もしも衛星があったとしても長期間生き残れないことが判明</title>
@@ -72,11 +58,25 @@
       <pubDate>Sat, 17 Oct 2026 02:01:15 +0000</pubDate>
     </item>
     <item>
+      <title>宇宙に浮かぶ「ト音記号」その正体は？　謎めいた電波源の位置をチャンドラなどが観測</title>
+      <link>https://sorae.info/astronomy/20261017-treble-clef.html</link>
+      <description>こちらは、NASA（アメリカ航空宇宙局）のチャンドラX線宇宙望遠鏡などが観測した、ある銀河団の様子。きりん座の方向、地球から約15億5000万光年先にあります。 画像の中央でピンク色に着色された線が、音楽の「ト音記号」の… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20261017-treble-clef.html</guid>
+      <pubDate>Sat, 17 Oct 2026 11:01:32 +0000</pubDate>
+    </item>
+    <item>
       <title>「宇宙業界は、地上の経験を必要としている」通信・電力インフラ業界から宇宙交通管理の基盤を作るPMに転身して2カ月の手応え</title>
       <link>https://sorabatake.jp/46969/</link>
       <description>非宇宙業界から宇宙業界に転職をした人に焦点を当てたインタビュー連載「Why Space」、14人目のインタビュイーはStar Signal Solutionsのプロジェクトマネージャー、山田由貴さんです。日常を支えるインフラに興味を持ち続ける山田さんが宇宙業界に見出した、未来のインフラを支える仕事とは。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/46969/</guid>
       <pubDate>Mon, 14 Sep 2026 23:51:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>「宇宙業界は、地上の経験を求めている」異業種から転職した3人が語る宇宙業界のリアル【SPACETIDE Career Connect 2026 Summer】</title>
+      <link>https://sorabatake.jp/47228/</link>
+      <description>2026年9月26日に開催された宇宙業界に特化したキャリアイベント『SPACETIDE Career Connect 2026 Summer』の特別セッションで語られた宇宙業界への転職のリアルの内容をまとめました。後日談として、登壇した3名の言い残しも収録しています！ (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/47228/</guid>
+      <pubDate>Sun, 18 Oct 2026 06:17:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
