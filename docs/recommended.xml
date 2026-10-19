@@ -7,109 +7,93 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 10:38:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:36:21 +0000</lastBuildDate>
     <item>
-      <title>ClaudeにiOSシミュレーターのスクリーンショットを読ませるのをやめて、操作で増えるコンテキストを43%削減した</title>
-      <link>https://zenn.dev/eai/articles/dont-let-agents-see-the-ios-sim-screen</link>
-      <description>Claude CodeのデスクトップアプリにはiOSシミュレーターを操作するツールがある。個人で作っているiOS向けのMastodonクライアントでは、このツールで実装のたびに画面を確かめさせていた。
-しかし、Claudeのコンテキストの大半がスクリーンショットで埋まっているような気がしていた。
-そこで、過去のセッションのログ99件を集計して非効率な操作を洗い出し、画面を画像ではなく文字で読む道具を足した。
-同じ4つの作業を旧来のやり方と新しいやり方で3回ずつClaudeにやらせて比べた結果は次のとおりである（どれも中央値の和）。
-
-
-
-4つの作業の合計
-旧来のやり方
-新しいやり方
-差
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/eai/articles/dont-let-agents-see-the-ios-sim-screen</guid>
-      <pubDate>Sun, 18 Oct 2026 02:56:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLMにとって書きやすい構文とは何か：`end` と `end func foo` を1,000回以上比べてみた</title>
-      <link>https://zenn.dev/nextbeat/articles/2026-10-syntax-locality-llm</link>
+      <title>「止まっている案件はどれ?」にSQLで答える。Snowflake Cortex AIで議事録を自動分類する</title>
+      <link>https://zenn.dev/fusic/articles/snowflake-ai-parse-document-minutes</link>
       <description>はじめに
-こんにちは！株式会社ネクストビートでテクノロジー・エバンジェリストなる肩書きでお仕事をしている水島です。
-今回は「LLMにとって書きやすい構文とはどういうものか」を、小さな実験で確かめてみた話です。
-対象にしたのは、既存のプログラミング言語ではなく、 プロンプトの中で初めて文法を説明される未知の言語 です。学習データに大量に含まれる言語だと「その言語を知っているから書ける」のか「構文の設計が良いから書ける」のかを切り分けられません。そこで、スコープだけを持つ小さな言語を自作し、文法の説明と8つの例だけを渡して、同じ内容のプログラムを閉じ方の違う構文で書かせました。つまりここ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nextbeat/articles/2026-10-syntax-locality-llm</guid>
-      <pubDate>Fri, 16 Oct 2026 03:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>オープンウェイトLLM「Muse Spark Open」が公開 — 816Bパラメータ・100万トークンでコーディングとAIエージェントに特化、Mac Studio 2台でローカル実行も可能</title>
-      <link>https://techfeed.io/entries/6ad3f92fb9a6f1a69d9b4cac?from=rss</link>
-      <description>10月16日、Digit.inが「Muse Spark Open: Open weights with a new model built for coding and AI agents」と題した記事を公開した。コーディングとAIエージェント向けに設計されたオープンウェイトモデル「Muse Spark Open」の概要と、Appleシリコンを使ったローカル実行の可能性について紹介している。なお、元記事はMeta公式サイトではなく第三者メディアDigit.inによる報道であり、「Muse Spark Open」「Muse Spark」「Muse Code」「Muse Model License」「Meta Superintelligence Scaling Framework」といったプロダクト名はMetaの既知ブランドとは異なる。これらの名称が正式なMetaのプロダクト名であるか、元記事の表記ゆれ・別ブランドの可能性もある点には留意されたい。以下の内容は元記事の記述に基づく。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ad3f92fb9a6f1a69d9b4cac?from=rss</guid>
-      <pubDate>Sat, 17 Oct 2026 22:39:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>改めて考える、AIエンジニアリングの今</title>
-      <link>https://zenn.dev/r_kaga/articles/2fd185c50cea7c</link>
-      <description>昨年11月、翻訳を担当したオライリーの『AIエンジニアリング』の発売に合わせて、Zennで「AIエンジニアリング、始めませんか？」という記事を書きました。
+会議の議事録は、書いて共有フォルダに置いたらそれっきり、になりがちです。
+後から「Snowflakeの話をしていた会議で、止まっている案件はどれだっけ?」と探そうとしても、ファイル名と全文検索くらいしか手がかりがありません。
+そこで本記事では、Markdownで書いた議事録をS3に置くだけで、Snowflake上で次のメタデータが自動で付く仕組みを作ります。
 
-それから1年近くが経ち、AIエンジニアリングを取り巻く環境も変わったので、改めて書き直してみます。
-!
+関連する技術タグ(タグマスターにあるものだけ。複数)
+関連するプロジェクト(プロジェクトマスターから1つ。該当なしもあり)
+状況(進行中 / ブロック中 / 完了 など)
+要約と、判断の根拠になった文
 
-AIエンジニアリングのロードマップはいくつもあるが、主に共通するのは評価
-AIエンジニアリングはAIプロダクトの外、AIを使ってソフトウェアを作る開発の現場にも広がった
-人のいない間にAIが動くようになり、インターフェースで考えることは、画面の作り込みよりも、AIへの任せ方、結果の確かめ方、責任を誰が持つかになった
-利用データを... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/r_kaga/articles/2fd185c50cea7c</guid>
-      <pubDate>Wed, 14 Oct 2026 23:08:33 +0000</pubDate>
+例えば、次の... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/fusic/articles/snowflake-ai-parse-document-minutes</guid>
+      <pubDate>Sun, 18 Oct 2026 22:30:05 +0000</pubDate>
     </item>
     <item>
-      <title>暇すぎると人は攻撃的になる。刺激を求めて暴力性が増す</title>
-      <link>https://karapaia.com/archives/632796.html</link>
-      <description>退屈が攻撃性を高めるメカニズム 心理学における「攻撃性」とは、他者に危害を加えることを目的とした行動を指し、言葉の攻撃も含まれる。 これまでの研究で、退屈な時間は「他者に苦痛を与えて喜ぶ」というサディズムと関連していることがわかっていた。 しかし、相手の苦しむ姿を見て喜ぶわけではないのに、ただ退屈だ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://karapaia.com/archives/632796.html</guid>
-      <pubDate>Sat, 17 Oct 2026 01:20:32 +0000</pubDate>
+      <title>Claude Codeのステップごとのレビューを既定から外した理由</title>
+      <link>https://zenn.dev/ara_jlu/articles/per-task-review-dropped</link>
+      <description>Claude Code で開発を回す自分のハーネス（設定やスキルを組み合わせた、自分用の開発の回し方）から、実装の1ステップごとにレビュー担当のサブエージェントを立てていた層を外しました。今はセキュリティに関わるステップにだけ入れています。
+「レビューは積むほど安全」という感覚でずっと入れていたものです。8月に構成を比べる実験をし、その後の運用で各レビューが見つけた欠陥を数え、10月に設計書のレビューを足したときに見直しました。この記事はその経緯と、外したあとに何を置いたかを書きます。
+この記事では、開発の依頼1件（1ブランチ、1つの PR になる単位）を「タスク」、その実装計画を分けた... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ara_jlu/articles/per-task-review-dropped</guid>
+      <pubDate>Mon, 19 Oct 2026 00:30:14 +0000</pubDate>
     </item>
     <item>
-      <title>良いテストを書き、良いテストを見分ける ─『単体テストの考え方/使い方』のエッセンス</title>
-      <link>https://zenn.dev/nexta_/articles/unit-testing-principles-essence</link>
-      <description>はじめに
-株式会社ネクスタの tetsu.k です。
-生産管理SaaS「スマートF」の開発に携わっており、受注・発注・出荷・見積などのドメインを担当するチームに所属しています。
-ネクスタでは、事業の拡大とともにアプリケーションが複雑になっていくなかで、より速く、より良い価値を届け続けるために、「品質」に力を入れています。
-品質を支える手段の一つが、単体テストです。
-いまはAIに頼めば、テストを数秒で何十本も書いてくれます。
-では、テストを増やせば品質は上がるのでしょうか。
-結論から言うと、大切なのはテストの数を増やすことではなく、次の2つです。
+      <title>ServiceNowのAIガバナンス基盤、500社導入でも「リアルタイム遮断」は15社中14社が別ツール頼み — 顧客調査が示す主張と実態のギャップ</title>
+      <link>https://techfeed.io/entries/6ad55119b9a6f1a69d9baecd?from=rss</link>
+      <description>10月17日、SiliconAngleが「ServiceNow AI Control Tower: Selling a penthouse while building the frame」と題した記事を公開した。ServiceNow AI Control Towerを評価・導入した15社のエンタープライズ顧客のうち、14社がランタイムでのリアルタイム遮断を「外部ツール・カスタム実装・人手対応」で補っており、ServiceNowでは実証されていないと回答した——この一点が、記事全体の問題提起を凝縮している。「ペントハウスを売りながら、まだ骨組みを建てている」というタイトルが示す通り、完成形として訴求されているプラットフォームと現場の実態の間には、無視できないギャップが存在する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ad55119b9a6f1a69d9baecd?from=rss</guid>
+      <pubDate>Sun, 18 Oct 2026 23:07:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた</title>
+      <link>https://zenn.dev/aiforall/articles/8e1803396534de</link>
+      <description>階層ナビゲーション型RAGとは
+「階層ナビゲーション型RAG」は、ベクトルDBを使わずに文書を探すRAGです。準備段階で文書の山から階層的な目次を自動で作っておき、質問が来たらLLMがその目次を上から順に辿って、答えが書かれていそうな文書を選びます。質問のたびにベクトル検索をしない点が、一般的なベクトルDB版RAGとの違いです。
+この記事では、この仕組みを論文の手法(Corpus2Skill)を参考に自作し、ベクトルDB版RAGと同じデータ・同じ質問で比較しました。
 
-良いテストを書くこと
-目の前のテスト... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nexta_/articles/unit-testing-principles-essence</guid>
-      <pubDate>Tue, 13 Oct 2026 02:30:05 +0000</pubDate>
+ 結論
+
+28文書・20問の小規模な比較では、正答数は同等でした(どちらも20問中16問)。
+階層ナビゲーション型は... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/aiforall/articles/8e1803396534de</guid>
+      <pubDate>Fri, 16 Oct 2026 02:30:05 +0000</pubDate>
     </item>
     <item>
-      <title>AFM（Apple Foundation Models）を活用したテキストアドベンチャーゲームの開発【第2回】自由入力を台本の選択肢につなぐ</title>
-      <link>https://zenn.dev/gritchbreed/articles/ced633f449178f</link>
+      <title>技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）</title>
+      <link>https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm</link>
       <description>はじめに
-※この記事は、筆者のQiitaアカウントからの転載（マルチポスト）です。
-Apple Foundation Models（以下AFM）のオンデバイスモデルを使って、自由入力のテキストアドベンチャーゲームを開発しています。
-第1回では、デモ「血の池の夜」と、AFMに入力の解釈・自由会話・記憶の取り出しを任せ、物語の進行は台本とルールエンジンで制御する全体設計を紹介しました。
-今回は、その中の「入力の解釈」を扱います。プレイヤーの自由な言葉を、ゲームが処理できる話題や移動に変換する部分です。
-第1回の全体図に、今回扱う範囲を赤い太枠で示しました。台本に書いた話題から候補を作り、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/gritchbreed/articles/ced633f449178f</guid>
-      <pubDate>Sun, 18 Oct 2026 02:35:56 +0000</pubDate>
+オライリーの本は、技術書として信頼できるので、これまでも必要なものを買って読んでいました。
+自分は紙の本のほうが読みやすいタイプです。ただ、オライリーの本は分厚いものが多く、持ち歩くと重いのが難点でした。そんなとき、オライリーの本がオンラインのサブスクで読み放題になると知って、魅力を感じました。1冊数千円すると、気になっても買うまでには至らない本がけっこうあります。そういう本も気軽に開けるなら、お得に入れる方法があるなら入ってもいいかな、と考えました。
+そこで、まずは10日間の無料トライアルを始めました。
+もう一つ気になっていたのが、O'Reillyが公式のMCPサーバーを... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm</guid>
+      <pubDate>Fri, 16 Oct 2026 02:53:28 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントに全部任せたら「自分のプロジェクトで迷子」になった — エージェントコーディング5段階、著者がLevel 2に留まる理由</title>
-      <link>https://techfeed.io/entries/6ad3f9a0b9a6f1a69d9b4cc9?from=rss</link>
-      <description>10月17日、Tejas Kumarが「The 5 Levels of Agentic Coding: Why I Mostly Stay at Level 2」と題した記事を公開した。この記事では、AIエージェントを使ったコーディングを5段階に分類し、実際に4本のプロダクションアプリを開発した経験から、各レベルの実態とコストについて詳しく紹介されている。エージェントコーディングとは何かエージェントコーディングとは、AIエージェントに対してやりたいことを伝え、エージェントが自律的にコードを読み、ファイルを編集し、コマンドを実行する中で、人間がその結果をレビューしながらソフトウェアを開発するスタイルだ。著者が使用するのは主にClaude Codeで、エージェントは変更→確認→再実行のループで動く。よく混同される「バイブコーディング（vibe coding）」との違いは、レビューを省くかどうかだ。Andrej Karpathyが2025年2月に命名したバイブコーディングは「コードの存在すら忘れてしまう」スタイルだが、著者の5レベルではどのレベルでも必ず誰かがコードを読む。変わるのはエージェ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ad3f9a0b9a6f1a69d9b4cc9?from=rss</guid>
-      <pubDate>Sat, 17 Oct 2026 22:41:36 +0000</pubDate>
+      <title>仕事を進めるだけでは、仕事しか進まない。木こりのジレンマを Claude Code で解いた5ヶ月の記録 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
+      <link>https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection</link>
+      <description>朝、森を歩いていた旅人が、木を切っている木こりを見かけました。夕方、同じ道を戻ると、木こりはまだ同じ木を切っています。見ると、ノコギリの刃はぼろぼろに欠けていました。 旅人が声をかけます。「木こりさん、ノコギリの刃を研いだらどうですか」。木こりは答えます。「木を切るのに忙しくて、研いでいる暇なんて... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection</guid>
+      <pubDate>Mon, 19 Oct 2026 06:12:20 +0000</pubDate>
     </item>
     <item>
-      <title>『現場で役立つシステム設計の原則』を読んで学んだこと、実践したこと、これからやりたいこと</title>
-      <link>https://zenn.dev/wwwave/articles/38b8284f96bd9e</link>
+      <title>ドメインの境界を引くだけでは、業務はつながらない</title>
+      <link>https://zenn.dev/dress_code/articles/4a76f1b88e360d</link>
       <description>はじめに
-こんにちは、塚本です。
-私が担当している業務では、長年運用されてきたシステムを少しずつ改善する取り組みを続けています。これまでに、『レガシーコードからの脱却』を読んでRSpecを導入した話や、Access VBAのシステムを撤退させるための技術選定の話を書いてきました。
-どちらも、変更したときに「何が壊れるか」を検知できる状態、つまりテストをどう整えるか、という話でした。一方で、テストを整えるほど、もう1つの課題が気になるようになりました。ロジックの置き場所やクラスの切り方そのものが悪ければ、テストがあっても、変更のたびに修正箇所があちこちに散らばり、変更は楽にならないので... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/wwwave/articles/38b8284f96bd9e</guid>
-      <pubDate>Tue, 13 Oct 2026 22:00:06 +0000</pubDate>
+Dress Code 株式会社のかわうそです。
+DDDの設計を考えていると、Bounded Contextをどこで分けるか、Aggregateに何を含めるかに意識が向きます。業務の言葉を掘り下げ、守るべきルールをモデルにする。この設計には時間をかけるべきだと思います。
+ただ、そこで各ドメインのモデルができても、プロダクト全体の設計が済んだとは言えません。別々のモデルが同じ人物を指すこともあれば、ある領域の変更によって別の領域の業務が始まることもあります。そのとき、何を共有し、何を依頼し、どこで判断するのか。境界の内側を詰めるのと同じくらい、この接点にも設計が要ります。
+DR... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/4a76f1b88e360d</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>山岳ステージがしっくりこない。AIとBlenderで森を作り、Unityの性能問題にぶつかった</title>
+      <link>https://zenn.dev/project_arca/articles/unity-forest-rendering-diagnosis-001</link>
+      <description>個人開発している3D格闘アクションゲームで、山岳地帯の遺跡を舞台にしたステージを作っています。
+でも、出来上がったステージを見ても、どうもしっくりきませんでした。
+素材の質感を改善しても、期待していた空間にはならない。そこで、いったんステージを作り込む手を止め、品質の高い事例を参考に、3D環境の作り方そのものを確かめ直すことにしました。
+その結果、Blenderで森林を試作するところまでは進められました。しかし次にUnityへ持ち込むと、今度は深刻な描画性能の問題にぶつかりました。
+今回は、山岳ステージの見た目に悩んだところから、森林制作、そしてUnityの性能調査へと進んだ経緯をまとめ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/project_arca/articles/unity-forest-rendering-diagnosis-001</guid>
+      <pubDate>Sun, 18 Oct 2026 15:26:10 +0000</pubDate>
     </item>
     <item>
       <title>本番DBに不要なレコードを数千万件登録してしまった話</title>
@@ -128,6 +112,13 @@ Apple Foundation Models（以下AFM）のオンデバイスモデルを使って
 アラートの... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/geekplus/articles/a615dfe41557d8</guid>
       <pubDate>Fri, 16 Oct 2026 09:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>あえて「標準化しない」開発組織——Algoage・宮田航志CTOが語る、AI時代のエンジニアが果たすべき役割と現場のリアル【前編】</title>
+      <link>https://techfeed.io/entries/6ad5d38bb9a6f1a69d9c297e?from=rss</link>
+      <description>「AIでなんでも作れる時代」に、開発組織はどう進化すべきか。2018年に東京大学で機械学習の研究をしていたメンバーにより創業し、DMMグループの“事業創造会社”として複数のAI事業を手がけるAlgoage。同社執行役員／CTOの宮田航志さんは、コロプラでのVR・ARゲーム開発、DMMでのマーケティング技術やWeb3を経て、現在は複数チームからなる約60名規模の開発組織を率いています。本記事（前編）では、Claude CodeやCursorを駆使する開発現場の実態から、あえて標準化しない運用方針、AIと協働する時代にエンジニアが果たすべき役割、そして現場にAIを根付かせるためのリアルな取り組みを伺いました。マーケティングテクノロジー、Web3、そしてAIへ——DMMグループで挑み続けるキャリア――まずは自己紹介からお願いします。宮田：Algoageで執行役員／CTOをしている宮田です。もともとはゲーム会社からキャリアをスタートし、VR系・AR系のゲームの開発など、ソーシャルゲームやエンタメコンテンツで何ができるかを追求してきました。技術で新しいプロダクトを作るにはどうすればいいか、それを (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ad5d38bb9a6f1a69d9c297e?from=rss</guid>
+      <pubDate>Mon, 19 Oct 2026 08:44:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
