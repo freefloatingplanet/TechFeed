@@ -7,53 +7,81 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 12:36:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:09:45 +0000</lastBuildDate>
     <item>
-      <title>「止まっている案件はどれ?」にSQLで答える。Snowflake Cortex AIで議事録を自動分類する</title>
-      <link>https://zenn.dev/fusic/articles/snowflake-ai-parse-document-minutes</link>
+      <title>Progate git自作インターン参加記〜AIとチーム開発との付き合い方〜</title>
+      <link>https://zenn.dev/yurapii/articles/2622d98d641acc</link>
       <description>はじめに
-会議の議事録は、書いて共有フォルダに置いたらそれっきり、になりがちです。
-後から「Snowflakeの話をしていた会議で、止まっている案件はどれだっけ?」と探そうとしても、ファイル名と全文検索くらいしか手がかりがありません。
-そこで本記事では、Markdownで書いた議事録をS3に置くだけで、Snowflake上で次のメタデータが自動で付く仕組みを作ります。
+Progateさんの5Daysインターンに参加してきました。
 
-関連する技術タグ(タグマスターにあるものだけ。複数)
-関連するプロジェクト(プロジェクトマスターから1つ。該当なしもあり)
-状況(進行中 / ブロック中 / 完了 など)
-要約と、判断の根拠になった文
+期間：2026年9月7〜11日
+課題：チームでTypeScriptを用いてgit log, add, commitを実装すること
 
-例えば、次の... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/fusic/articles/snowflake-ai-parse-document-minutes</guid>
-      <pubDate>Sun, 18 Oct 2026 22:30:05 +0000</pubDate>
+夏休み中に何か経験を積みたいと思い、調べていく中でこのインターンを見つけました。5Daysなら初めての経験として程よい長さだし、Progateさんはプログラミングの勉強やハッカソンでお世話になっているし、なによりgit作るなんて面白そう！ということで応募してみることにしました。
+この記事で書くこと：選考から5日間の流れ、担当した設計、そこから得られた学び、心境の変化、後日談まで
+
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yurapii/articles/2622d98d641acc</guid>
+      <pubDate>Mon, 19 Oct 2026 10:49:53 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeのステップごとのレビューを既定から外した理由</title>
-      <link>https://zenn.dev/ara_jlu/articles/per-task-review-dropped</link>
-      <description>Claude Code で開発を回す自分のハーネス（設定やスキルを組み合わせた、自分用の開発の回し方）から、実装の1ステップごとにレビュー担当のサブエージェントを立てていた層を外しました。今はセキュリティに関わるステップにだけ入れています。
-「レビューは積むほど安全」という感覚でずっと入れていたものです。8月に構成を比べる実験をし、その後の運用で各レビューが見つけた欠陥を数え、10月に設計書のレビューを足したときに見直しました。この記事はその経緯と、外したあとに何を置いたかを書きます。
-この記事では、開発の依頼1件（1ブランチ、1つの PR になる単位）を「タスク」、その実装計画を分けた... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ara_jlu/articles/per-task-review-dropped</guid>
-      <pubDate>Mon, 19 Oct 2026 00:30:14 +0000</pubDate>
+      <title>ドイツ首相とジェンセン・フアンが直接会談 — 製造業大国ドイツがNVIDIAと組んで「工場にAI」を国家戦略に掲げた</title>
+      <link>https://techfeed.io/entries/6ad6a554b9a6f1a69d9c87d3?from=rss</link>
+      <description>10月20日、NVIDIAが「Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help」と題した記事を公開した。ドイツ首相フリードリヒ・メルツとNVIDIA CEOジェンセン・フアンがベルリンで直接会談し、両国・両社が共同意向宣言に署名。シーメンスとの自律工場連携ではエンジニアリング工数の最大85%削減という数字も示された。製造業大国ドイツが産業AIの世界的リーダーを目指すロードマップと、NVIDIAとの具体的な協力体制が明らかになった。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ad6a554b9a6f1a69d9c87d3?from=rss</guid>
+      <pubDate>Mon, 19 Oct 2026 23:18:44 +0000</pubDate>
     </item>
     <item>
-      <title>ServiceNowのAIガバナンス基盤、500社導入でも「リアルタイム遮断」は15社中14社が別ツール頼み — 顧客調査が示す主張と実態のギャップ</title>
-      <link>https://techfeed.io/entries/6ad55119b9a6f1a69d9baecd?from=rss</link>
-      <description>10月17日、SiliconAngleが「ServiceNow AI Control Tower: Selling a penthouse while building the frame」と題した記事を公開した。ServiceNow AI Control Towerを評価・導入した15社のエンタープライズ顧客のうち、14社がランタイムでのリアルタイム遮断を「外部ツール・カスタム実装・人手対応」で補っており、ServiceNowでは実証されていないと回答した——この一点が、記事全体の問題提起を凝縮している。「ペントハウスを売りながら、まだ骨組みを建てている」というタイトルが示す通り、完成形として訴求されているプラットフォームと現場の実態の間には、無視できないギャップが存在する。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ad55119b9a6f1a69d9baecd?from=rss</guid>
-      <pubDate>Sun, 18 Oct 2026 23:07:05 +0000</pubDate>
+      <title>AWS Lambda Web FunctionsでImpossible Location検知の課題をまとめて解決！ + 昨今の攻撃への有効性</title>
+      <link>https://zenn.dev/cscloud_blog/articles/f4ce99ffeb8ee3</link>
+      <description>これまで下記の 2 本の記事で、Amazon CloudFront を使ってセッションハイジャックを検知・ブロックする仕組みを紹介してきました。
+
+
+CloudFront Functions + KVS 編：エッジで高速に検証できる。ただしアプリ改修が必要で、KVS の 5MB 上限・TTL なし・結果整合と付き合う必要がある
+
+Lambda@Edge 編：アプリ無改修。ただし署名付き Cookie なのでセッション単位の失効ができない
+
+CloudFront Functions 編の最後で、
+
+結論として、CloudFront Functions のエッジ完結という利点を活かすには K... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/cscloud_blog/articles/f4ce99ffeb8ee3</guid>
+      <pubDate>Mon, 19 Oct 2026 04:08:01 +0000</pubDate>
     </item>
     <item>
-      <title>ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた</title>
-      <link>https://zenn.dev/aiforall/articles/8e1803396534de</link>
-      <description>階層ナビゲーション型RAGとは
-「階層ナビゲーション型RAG」は、ベクトルDBを使わずに文書を探すRAGです。準備段階で文書の山から階層的な目次を自動で作っておき、質問が来たらLLMがその目次を上から順に辿って、答えが書かれていそうな文書を選びます。質問のたびにベクトル検索をしない点が、一般的なベクトルDB版RAGとの違いです。
-この記事では、この仕組みを論文の手法(Corpus2Skill)を参考に自作し、ベクトルDB版RAGと同じデータ・同じ質問で比較しました。
+      <title>AI エージェントに個人の記憶を任せるときの、書かせない・漏らさない仕組み</title>
+      <link>https://zenn.dev/ketoranger/articles/agent-memory-security</link>
+      <description>1台の Mac の上に「Workspace」という1つのフォルダを作り、その中で Claude Code・Codex と定時処理に、自分の記憶・タスク・道具の手入れを任せています。仕組みの全体は前の記事に書きました。
+https://zenn.dev/ketoranger/articles/workspace-ai-agents-memory
+エージェントは、メールやチャットの本文、会話の記録、ブラウザの履歴まで読みます。読んだ物を記憶のファイルに書き、タスクを作ります。便利な一方で、秘密の値や勤務先の情報を、どこかに書いてしまう・外へ出してしまうのが一番の心配でした。
+この記事で書くの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ketoranger/articles/agent-memory-security</guid>
+      <pubDate>Sun, 18 Oct 2026 05:06:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare + EmDash の自サイトを点検したら Server-Timing から内部情報が見えていた話</title>
+      <link>https://zenn.dev/masaru21/articles/2100616bb5110d</link>
+      <description>Webサイトのセキュリティについて勉強するため、まずは自分で管理しているサイトを実際に点検してみることにしました。
+対象は、Cloudflare上で動かしている自分のWebサイトです。
+構成は大まかに、
 
- 結論
+Cloudflare Workers
+Astro
+EmDash CMS
+Cloudflare D1
+Cloudflare KV
+Cloudflare R2
 
-28文書・20問の小規模な比較では、正答数は同等でした(どちらも20問中16問)。
-階層ナビゲーション型は... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/aiforall/articles/8e1803396534de</guid>
-      <pubDate>Fri, 16 Oct 2026 02:30:05 +0000</pubDate>
+などを利用しています。
+今回は、いきなり広範囲な脆弱性スキャンを行うのではなく、
+
+Nucleiで低負荷な技術判定
+
+curl でHTTPレスポンスヘッダーを確認
+不要な情報露出がないか調査
+原因となるコードを特定
+必要最小限の修... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/masaru21/articles/2100616bb5110d</guid>
+      <pubDate>Mon, 19 Oct 2026 14:42:30 +0000</pubDate>
     </item>
     <item>
       <title>技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）</title>
@@ -67,11 +95,15 @@
       <pubDate>Fri, 16 Oct 2026 02:53:28 +0000</pubDate>
     </item>
     <item>
-      <title>仕事を進めるだけでは、仕事しか進まない。木こりのジレンマを Claude Code で解いた5ヶ月の記録 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
-      <link>https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection</link>
-      <description>朝、森を歩いていた旅人が、木を切っている木こりを見かけました。夕方、同じ道を戻ると、木こりはまだ同じ木を切っています。見ると、ノコギリの刃はぼろぼろに欠けていました。 旅人が声をかけます。「木こりさん、ノコギリの刃を研いだらどうですか」。木こりは答えます。「木を切るのに忙しくて、研いでいる暇なんて... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection</guid>
-      <pubDate>Mon, 19 Oct 2026 06:12:20 +0000</pubDate>
+      <title>AIとコンテストに参加する</title>
+      <link>https://zenn.dev/attgm/articles/d28df25b88254a</link>
+      <description>はじめに
+AHC GenAI Rules Trial Contest 2026 が開催されていることに気づきました。長期の AtCoder Heuristic Contest（AHC）向けに検討されている、生成AI利用ルールを評価するための試験コンテストです。レーティングの更新対象ではないので、気軽に参加してみました。
+
+ ルールの設定
+公式の生成AI利用ルールには、AIに与えるための指示も Markdown 形式で用意されています。基本方針は、解法の考案・改善に関する判断は参加者自身が行い、AIはその実装を補助するというものです。指定した解法の実装やバグ調査、解法を変えない範囲での... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/attgm/articles/d28df25b88254a</guid>
+      <pubDate>Mon, 19 Oct 2026 13:42:44 +0000</pubDate>
     </item>
     <item>
       <title>ドメインの境界を引くだけでは、業務はつながらない</title>
@@ -85,40 +117,18 @@ DR... (source: Zennのトレンド)</description>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>山岳ステージがしっくりこない。AIとBlenderで森を作り、Unityの性能問題にぶつかった</title>
-      <link>https://zenn.dev/project_arca/articles/unity-forest-rendering-diagnosis-001</link>
-      <description>個人開発している3D格闘アクションゲームで、山岳地帯の遺跡を舞台にしたステージを作っています。
-でも、出来上がったステージを見ても、どうもしっくりきませんでした。
-素材の質感を改善しても、期待していた空間にはならない。そこで、いったんステージを作り込む手を止め、品質の高い事例を参考に、3D環境の作り方そのものを確かめ直すことにしました。
-その結果、Blenderで森林を試作するところまでは進められました。しかし次にUnityへ持ち込むと、今度は深刻な描画性能の問題にぶつかりました。
-今回は、山岳ステージの見た目に悩んだところから、森林制作、そしてUnityの性能調査へと進んだ経緯をまとめ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/project_arca/articles/unity-forest-rendering-diagnosis-001</guid>
-      <pubDate>Sun, 18 Oct 2026 15:26:10 +0000</pubDate>
+      <title>「エンジニアはコードを書かなくていい」は本当か——Algoage・宮田航志CTOと考える、AI時代の価値創造と生存戦略【後編】</title>
+      <link>https://techfeed.io/entries/6ad5d6d6b9a6f1a69d9c2be1?from=rss</link>
+      <description>AIによって実装やリサーチのハードルが下がるなか、エンジニアの価値はどこへ移っていくのか。「エンジニアはコードを書かなくていい」という極論に、Algoage執行役員／CTOの宮田航志さんはどう答えるのか。本記事（後編）では、「マシンを動かす」ことから「ユーザー価値の提供」へと移るエンジニア知識の比重の変化を紐解きます。さらに、AI時代における技術哲学の重要性や、エンジニアに求められる学びと成長についても伺いました。ゲーム開発、マーケティングテクノロジー、Web3、そしてAIと幅広い技術領域に挑戦し、エンジニアを全力で“楽しんで”きた宮田さんからの学びとキャリア選択のヒントを届けます。（※前編：あえて「標準化しない」開発組織——Algoage・宮田航志CTOが語る、AI時代のエンジニアが果たすべき役割と現場のリアル ）AI時代、エンジニアの価値はどこへ――「技術知識重視」から「ユーザー価値創出」へ――AI時代に、CTOとして評価・強化していくエンジニアの価値は、どう変わっていくとお考えですか。宮田：技術力を測る根本的な指標は、変わらないと考えています。しかし、エンジニアが注力すべき比重は (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ad5d6d6b9a6f1a69d9c2be1?from=rss</guid>
+      <pubDate>Tue, 20 Oct 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>本番DBに不要なレコードを数千万件登録してしまった話</title>
-      <link>https://zenn.dev/geekplus/articles/a615dfe41557d8</link>
-      <description>ある日、普段数分以内で完了するはずのバッチジョブからレイテンシーアラートが上がってきました。
-調査すると、出荷明細の補足情報を登録する処理で、大量のINSERTが発生しています。
-このままでは、他の入出荷等にも影響を及ぼすため、早急な解消が必要な状況です。
-この記事では、無駄に増殖してしまったデータとの戦いについてご紹介します。
-
- 何が起きていたのか
-問題のINSERTが発生している箇所を調査したところ、
-出荷の明細に紐づく補足情報を保持するテーブルに対して大量のINSERTが行われていました。
-本来は、1出荷明細に対して多くても数十レコードです。
-一体何故？
-※補足です。
-アラートの... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/geekplus/articles/a615dfe41557d8</guid>
-      <pubDate>Fri, 16 Oct 2026 09:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>あえて「標準化しない」開発組織——Algoage・宮田航志CTOが語る、AI時代のエンジニアが果たすべき役割と現場のリアル【前編】</title>
-      <link>https://techfeed.io/entries/6ad5d38bb9a6f1a69d9c297e?from=rss</link>
-      <description>「AIでなんでも作れる時代」に、開発組織はどう進化すべきか。2018年に東京大学で機械学習の研究をしていたメンバーにより創業し、DMMグループの“事業創造会社”として複数のAI事業を手がけるAlgoage。同社執行役員／CTOの宮田航志さんは、コロプラでのVR・ARゲーム開発、DMMでのマーケティング技術やWeb3を経て、現在は複数チームからなる約60名規模の開発組織を率いています。本記事（前編）では、Claude CodeやCursorを駆使する開発現場の実態から、あえて標準化しない運用方針、AIと協働する時代にエンジニアが果たすべき役割、そして現場にAIを根付かせるためのリアルな取り組みを伺いました。マーケティングテクノロジー、Web3、そしてAIへ——DMMグループで挑み続けるキャリア――まずは自己紹介からお願いします。宮田：Algoageで執行役員／CTOをしている宮田です。もともとはゲーム会社からキャリアをスタートし、VR系・AR系のゲームの開発など、ソーシャルゲームやエンタメコンテンツで何ができるかを追求してきました。技術で新しいプロダクトを作るにはどうすればいいか、それを (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ad5d38bb9a6f1a69d9c297e?from=rss</guid>
-      <pubDate>Mon, 19 Oct 2026 08:44:58 +0000</pubDate>
+      <title>「AIは、問いの質を超えた答えを出してくれない」 —— ADWAYS DEEE CTOが語る失敗と、「良い問い」を生み出す組織のつくり方</title>
+      <link>https://techfeed.io/entries/6aab98db3e0b243779082a35?from=rss</link>
+      <description>「AIが『普通』のことしか言ってこない」「そんなの、AIにいちいち言われるまでもない」——そう感じたことがないエンジニアはいないのではないか。アフィリエイト広告・リワード広告を展開するADWAYS DEEEの取締役CTO 大曲智久 氏は、自社のAI推進を牽引する中でいくつもの失敗を重ね、ありきたりな答えしか返ってこない原因が、AIではなく問いを投げる側にあることに気づく。その試行錯誤から辿り着いたのが「ビジョンから逆算してAIを設計する」という思想だ。 エンジニア27名を含む42名体制でプロダクト開発とAI推進を牽引する大曲氏に、AI活用の実態とフィーチャーチームが生む成長を聞いた。「購入して、良かった」が起点——事業ドメインとエンジニアリングの面白さ── まず、ADWAYS DEEEはどんな事業をやっている会社か、簡単に教えてください。大曲: 主にアフィリエイト広告（成果報酬型の広告モデル。購入・申込などが発生して初めて広告主から報酬が発生する）とリワード広告（ポイントなどの報酬と引き換えに、ユーザーが会員登録やアプリの利用などの条件を達成するモデル）を軸に事業を展開しています。ビジ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aab98db3e0b243779082a35?from=rss</guid>
+      <pubDate>Tue, 20 Oct 2026 08:47:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

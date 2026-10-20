@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 12:36:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:09:50 +0000</lastBuildDate>
     <item>
       <title>アルテミス合意を軸とした米国防省の新施策「Space Catalyst Partnership」とは【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/47167/</link>
@@ -23,13 +23,6 @@
       <pubDate>Mon, 28 Sep 2026 23:59:11 +0000</pubDate>
     </item>
     <item>
-      <title>金星に衛星がないのは必然的？　もしも衛星があったとしても長期間生き残れないことが判明</title>
-      <link>https://sorae.info/astronomy/20261013-hypothetical-venus-moon.html</link>
-      <description>地球には月という恒久的な自然衛星がありますが、金星には衛星がありません。地球と金星は “兄弟星” と呼ばれるほどお互いに似ていますが、衛星の有無は大きな違いの1つとして認識され、その理由が長年考察されてきました。 カリフ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20261013-hypothetical-venus-moon.html</guid>
-      <pubDate>Tue, 13 Oct 2026 12:14:38 +0000</pubDate>
-    </item>
-    <item>
       <title>地球と火星の形成過程は一緒ではない？　微惑星の合体とペブル集積の寄与率を推定した研究成果</title>
       <link>https://sorae.info/astronomy/20261016-hybrid-accretion-of-planet-formation.html</link>
       <description>コペンハーゲン大学のHaiyang Wang氏を筆頭とする研究チームは、地球と火星がどのように形づくられたのかを、2つの惑星に残る元素の組成から調べた研究成果を発表しました。研究チームの成果をまとめた論文は学術誌「Nat… (source: sorae 宇宙へのポータルサイト)</description>
@@ -37,18 +30,25 @@
       <pubDate>Fri, 16 Oct 2026 07:46:50 +0000</pubDate>
     </item>
     <item>
+      <title>JAXAが「H3」ロケット10号機を打ち上げ　火星衛星探査機「MMX」の軌道投入に成功</title>
+      <link>https://sorae.info/ssn/20261020-h3f10-mmx.html</link>
+      <description>JAXA（宇宙航空研究開発機構）は日本時間2026年10月20日に「H3」ロケット10号機の打ち上げを実施しました。搭載されていた火星衛星探査計画「MMX」の探査機について、JAXAは所定の軌道に投入したことを確認したと… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20261020-h3f10-mmx.html</guid>
+      <pubDate>Tue, 20 Oct 2026 02:20:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>SSC Space、アークエッジ・スペース、ElevationSpaceとMoU締結。民間企業から広がる宇宙産業成長を加速する補完関係の強化【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/47248/</link>
+      <description>スウェーデン発の宇宙インフラ企業SSC Space（スウェーデン宇宙公社）は、日本の宇宙スタートアップ企業であるアークエッジ・スペースとElevationSpaceの2社と、それぞれMoUを締結しました。概要と今後への期待を記事でまとめています。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/47248/</guid>
+      <pubDate>Tue, 20 Oct 2026 04:08:55 +0000</pubDate>
+    </item>
+    <item>
       <title>LiveEO、光学とSARの画像を一つのAIで扱う視覚基盤モデルの実現に向け、ドイツ政府から助成獲得【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/47004/</link>
       <description>2026年8月4日、LiveEOはドイツ政府の宇宙開発プログラムから助成を受けたと発表しました。この助成を活用し、光学衛星とSAR衛星という異なる衛星のデータを、一つのAIで扱う視覚基盤モデルが実現可能かどうかの調査に取り組みます。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/47004/</guid>
       <pubDate>Wed, 23 Sep 2026 23:02:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>火星・アルシア山から伸びる長大な雲は“常識”をくつがえす？　均質核生成で生じている可能性</title>
-      <link>https://sorae.info/astronomy/20261013-mars-amec.html</link>
-      <description>こちらは、ESA（ヨーロッパ宇宙機関）の火星探査機「Mars Express（マーズ・エクスプレス）」が2018年9月21日に取得したデータを使って作成された、火星の画像です。 中央右に写っているのは、アルシア山。そこか… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20261013-mars-amec.html</guid>
-      <pubDate>Tue, 13 Oct 2026 08:18:17 +0000</pubDate>
     </item>
     <item>
       <title>火星・北極域の氷は従来の推定よりも塵が少ない？　地球の雪氷の研究手法を応用して分析</title>
@@ -65,18 +65,18 @@
       <pubDate>Sat, 17 Oct 2026 11:01:32 +0000</pubDate>
     </item>
     <item>
-      <title>「宇宙業界は、地上の経験を必要としている」通信・電力インフラ業界から宇宙交通管理の基盤を作るPMに転身して2カ月の手応え</title>
-      <link>https://sorabatake.jp/46969/</link>
-      <description>非宇宙業界から宇宙業界に転職をした人に焦点を当てたインタビュー連載「Why Space」、14人目のインタビュイーはStar Signal Solutionsのプロジェクトマネージャー、山田由貴さんです。日常を支えるインフラに興味を持ち続ける山田さんが宇宙業界に見出した、未来のインフラを支える仕事とは。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46969/</guid>
-      <pubDate>Mon, 14 Sep 2026 23:51:45 +0000</pubDate>
-    </item>
-    <item>
       <title>「宇宙業界は、地上の経験を求めている」異業種から転職した3人が語る宇宙業界のリアル【SPACETIDE Career Connect 2026 Summer】</title>
       <link>https://sorabatake.jp/47228/</link>
       <description>2026年9月26日に開催された宇宙業界に特化したキャリアイベント『SPACETIDE Career Connect 2026 Summer』の特別セッションで語られた宇宙業界への転職のリアルの内容をまとめました。後日談として、登壇した3名の言い残しも収録しています！ (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/47228/</guid>
       <pubDate>Sun, 18 Oct 2026 06:17:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>「宇宙業界は、地上の経験を必要としている」通信・電力インフラ業界から宇宙交通管理の基盤を作るPMに転身して2カ月の手応え</title>
+      <link>https://sorabatake.jp/46969/</link>
+      <description>非宇宙業界から宇宙業界に転職をした人に焦点を当てたインタビュー連載「Why Space」、14人目のインタビュイーはStar Signal Solutionsのプロジェクトマネージャー、山田由貴さんです。日常を支えるインフラに興味を持ち続ける山田さんが宇宙業界に見出した、未来のインフラを支える仕事とは。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/46969/</guid>
+      <pubDate>Mon, 14 Sep 2026 23:51:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
