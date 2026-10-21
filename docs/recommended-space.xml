@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 11:09:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:25:50 +0000</lastBuildDate>
     <item>
       <title>アルテミス合意を軸とした米国防省の新施策「Space Catalyst Partnership」とは【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/47167/</link>
@@ -28,6 +28,13 @@
       <description>コペンハーゲン大学のHaiyang Wang氏を筆頭とする研究チームは、地球と火星がどのように形づくられたのかを、2つの惑星に残る元素の組成から調べた研究成果を発表しました。研究チームの成果をまとめた論文は学術誌「Nat… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20261016-hybrid-accretion-of-planet-formation.html</guid>
       <pubDate>Fri, 16 Oct 2026 07:46:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>アルテミス合意の署名国が77か国に　トルコやウズベキスタンなどが新たに参加</title>
+      <link>https://sorae.info/space/20261021-artemis-accords-77.html</link>
+      <description>アメリカ国務省は2026年10月19日、ウズベキスタンが「アルテミス合意」に署名したと発表しました。署名式は同国の都市サマルカンドで行われ、外務大臣のBakhtiyor Saidov氏が署名し、アメリカのルビオ国務長官が… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20261021-artemis-accords-77.html</guid>
+      <pubDate>Wed, 21 Oct 2026 08:23:21 +0000</pubDate>
     </item>
     <item>
       <title>JAXAが「H3」ロケット10号機を打ち上げ　火星衛星探査機「MMX」の軌道投入に成功</title>
@@ -70,13 +77,6 @@
       <description>2026年9月26日に開催された宇宙業界に特化したキャリアイベント『SPACETIDE Career Connect 2026 Summer』の特別セッションで語られた宇宙業界への転職のリアルの内容をまとめました。後日談として、登壇した3名の言い残しも収録しています！ (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/47228/</guid>
       <pubDate>Sun, 18 Oct 2026 06:17:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>「宇宙業界は、地上の経験を必要としている」通信・電力インフラ業界から宇宙交通管理の基盤を作るPMに転身して2カ月の手応え</title>
-      <link>https://sorabatake.jp/46969/</link>
-      <description>非宇宙業界から宇宙業界に転職をした人に焦点を当てたインタビュー連載「Why Space」、14人目のインタビュイーはStar Signal Solutionsのプロジェクトマネージャー、山田由貴さんです。日常を支えるインフラに興味を持ち続ける山田さんが宇宙業界に見出した、未来のインフラを支える仕事とは。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/46969/</guid>
-      <pubDate>Mon, 14 Sep 2026 23:51:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

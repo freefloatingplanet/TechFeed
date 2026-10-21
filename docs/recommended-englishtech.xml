@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Oct 2026 11:11:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:26:00 +0000</lastBuildDate>
     <item>
-      <title>リバースエンジニアリング・エニシング・プロジェクトがAIエージェントをバイナリ解析に導入</title>
-      <link>https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Reverse Engineer Anything (REA) は、GitHub で 20 万以上のスターを獲得しているオープンソース プロジェクトで、Claude Code や Codex などのコーディング エージェントを Ghidra、Hopper、IDA などのリバース エンジニアリング ツールに接続します。このプロジェクトにより、開発者はコンパイル済みバイナリを検査したり、関数呼び出しをトレースしたり、アプリケーションが特定の機能をどのように実装しているかを調査したりすることができます。Renato Losio 著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sat, 17 Oct 2026 06:28:00 +0000</pubDate>
+      <title>Microsoftがdotnetupのプレビュー版を公開：.NET SDKおよびランタイム向けツールチェーンマネージャー</title>
+      <link>https://www.infoq.com/news/2026/10/dotnetup-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Microsoftは、.NET SDKとランタイムを管理者権限なしでユーザー自身のディレクトリにインストールおよび更新するクロスプラットフォームツールチェーンマネージャーであるdotnetupのパブリックプレビュー版をリリースしました。最新版、LTS版、プレビュー版、デイリー版などのチャネルを追跡し、global.jsonを読み取り、未使用のインストールを削除します。コマンドは一般提供開始前に変更される可能性があります。執筆：Almir Vuk (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/10/dotnetup-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 21 Oct 2026 08:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
