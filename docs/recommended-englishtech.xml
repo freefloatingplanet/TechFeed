@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:25:46 +0000</lastBuildDate>
     <item>
-      <title>Microsoftがdotnetupのプレビュー版を公開：.NET SDKおよびランタイム向けツールチェーンマネージャー</title>
-      <link>https://www.infoq.com/news/2026/10/dotnetup-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Microsoftは、.NET SDKとランタイムを管理者権限なしでユーザー自身のディレクトリにインストールおよび更新するクロスプラットフォームツールチェーンマネージャーであるdotnetupのパブリックプレビュー版をリリースしました。最新版、LTS版、プレビュー版、デイリー版などのチャネルを追跡し、global.jsonを読み取り、未使用のインストールを削除します。コマンドは一般提供開始前に変更される可能性があります。執筆：Almir Vuk (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/10/dotnetup-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 21 Oct 2026 08:15:00 +0000</pubDate>
+      <title>AIで構築されたAdobeクローンの開発者は、「完成には程遠い」と述べている。</title>
+      <link>https://www.infoq.com/news/2026/10/photocraft-adobe-parity/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>ある開発者はClaude Opus 5.5を使って7つのAdobeアプリケーションのオープンソース代替版を構築し、Redditで1か月以内にほぼ100%の互換性を実現すると宣伝したが、その後Hacker Newsに対し、プロジェクトはまだ完成には程遠いと語った。開発者自身のロードマップによると、実用化段階は45%で、完全な互換性を実現するには2,300～4,100エージェント時間が必要だという。Steef-Jan Wiggers著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/10/photocraft-adobe-parity/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 22 Oct 2026 07:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:25:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:25:37 +0000</lastBuildDate>
     <item>
       <title>Oxlint + Oxfmt で規約をコード化するモノレポ運用</title>
       <link>https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006</link>
@@ -22,14 +22,30 @@ TypeScript の静的解析ツールが TSLint から ESLint に移りつつあ�
       <pubDate>Tue, 20 Oct 2026 02:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>EKS に Graviton を導入して、arm64 と amd64 を混ぜて運用を始めました</title>
-      <link>https://zenn.dev/socialplus/articles/eks-graviton-arm64-migration</link>
-      <description>こんにちは、ソーシャルPLUSの三口です!
-弊社では Amazon EKS 上で Rails のアプリケーションを動かしていますが、これまでノードはすべて Intel/AMD (amd64) のインスタンスでした。今回、そのノードに AWS Graviton (arm64) を導入し、Spot インスタンスでは arm64 と amd64 を混ぜて運用する構成にしました。
-Graviton への移行自体はすでに多くの企業が取り組んでいて、真新しい話ではないと思います。
-ただ、4 月に入社した自分にとっては、インフラの知識だけでなく、各サービスがどう動いているかを知るきっかけにもなった案件... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/socialplus/articles/eks-graviton-arm64-migration</guid>
-      <pubDate>Wed, 21 Oct 2026 03:00:07 +0000</pubDate>
+      <title>バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった</title>
+      <link>https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min</link>
+      <description>Mac が落ちました。
+ファイルまわりの負荷がじわじわ溜まって、最後は反応しなくなって、落ちた。そこまではまあ、たまにあります。問題はそのあとでした。
+起動しないのです。
+電源を入れて、FileVault のパスワードを入れる。進捗バーが出る。2割くらいまで進む。そこで止まる。5分待っても、10分待っても動かない。
+Mac が壊れた、と思いました。
+電源ボタンを長押しして、強制的に切りました。
+しばらくしてから、もう一度だけ電源を入れました。また2割で止まります。今度は何もせず待つことにしました。祈りながら待ちました。20分ほどたって、ようやくバーが進み、デスクトップが出てきました。
+よ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min</guid>
+      <pubDate>Tue, 20 Oct 2026 09:15:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeを「AIニュース係」にしたら、毎朝0円でSlackに届くようになった</title>
+      <link>https://zenn.dev/edash_tech_blog/articles/3476d88801674d</link>
+      <description>はじめに
+こんにちは、e-dash でフロントエンドエンジニアをしている Chin です。
+AI界隈の情報、追うのしんどくないですか。
+Claude Codeはほぼ毎日のようにアップデートされ、新しいSkillsやサブエージェントの活用パターンが次々に生まれ、モデルの提供条件も月単位で変わります。しかも一次情報はほぼ英語です。「始業前に、日本語でまとめて読めたらいいのに」と思いながら、気づけば1週間分のchangelogを土曜にまとめて読む生活をしていました。
+そこで、追いかける役はClaude Code自身に任せると決めました。いわば「AIニュース係」です。
+平日の毎朝、Claud... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/edash_tech_blog/articles/3476d88801674d</guid>
+      <pubDate>Wed, 21 Oct 2026 09:30:05 +0000</pubDate>
     </item>
     <item>
       <title>Cloudflare + EmDash の自サイトを点検したら Server-Timing から内部情報が見えていた話</title>
@@ -58,24 +74,6 @@ curl でHTTPレスポンスヘッダーを確認
       <pubDate>Mon, 19 Oct 2026 14:42:30 +0000</pubDate>
     </item>
     <item>
-      <title>安くて速い Jev を6回チューニングしたら、最後に Claude の grep に2倍差で負けた話</title>
-      <link>https://zenn.dev/koudai0711/articles/f7a5cc10496820</link>
-      <description>結論
-新しいモデルを試す前に、今のやり方を測ってください！
-言いたいのはこれだけです。
-私はこれをやらずに、4時間半ほど遠回りしました。
-Obsidian のノート選びを Jev に任せようとして、6回チューニングしました。
-「提示したノートの外れが0%」という数字まで出ました。
-で、最後に今まで通り Claude（Opus）に grep させる方式と比べたら、
-当てた数は Opus が52件、Jev は24件でした。
-何をどう測ったのか、どこで Jev が強くなってどこで崩れたのか、Jev が本当に効くのはどこなのか。
-順番に書きます。
-
- きっかけ：毎回「Obsidian 読んで... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/koudai0711/articles/f7a5cc10496820</guid>
-      <pubDate>Tue, 20 Oct 2026 23:39:57 +0000</pubDate>
-    </item>
-    <item>
       <title>個人事業主が App Store の有料アプリ契約を有効にするまで。Apple は組織を選べず、私は納税フォームを2つ出した</title>
       <link>https://zenn.dev/hk_work/articles/sole-proprietor-app-store-paid-apps-agreement</link>
       <description>Flutter で作った蔵書管理アプリ「本棚（hondana）」を、個人事業主として App Store に出す準備をしています。2026年10月に開業届を出し、Apple と Google のアカウントを用意しました。
@@ -83,6 +81,13 @@ Obsidian のノート選びを Jev に任せようとして、6回チューニ�
 hondana は、10月16日に App Store の審査へ再提出し、審査を通って公開され... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/hk_work/articles/sole-proprietor-app-store-paid-apps-agreement</guid>
       <pubDate>Wed, 21 Oct 2026 07:43:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIエージェントの60%がデモ止まりで終わる理由 — 本番移行には「データ整備」と「1年以上の信頼構築」が必要だ</title>
+      <link>https://techfeed.io/entries/6ad946cab9a6f1a69d9e35a2?from=rss</link>
+      <description>10月20日、ストリーミングデータ基盤ベンダーのRedpandaが「Why agentic AI pilots stall before production」と題した記事を公開した。エージェント型AIがデモから本番環境へ移行できずに頓挫する構造的な原因と、その乗り越え方を論じた内容だ。Redpandaはリアルタイムデータストリーミングのインフラを提供する企業であり、エージェントAIが本番運用に耐えるためのデータ基盤整備は同社の事業領域と直結する。本記事は同社が主催するウェビナーシリーズにも登場したAIスタートアップOnebeeの共同創業者であり、サイバーセキュリティ分野のベテランでもあるJimmy Astleへのインタビューをもとに構成されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ad946cab9a6f1a69d9e35a2?from=rss</guid>
+      <pubDate>Wed, 21 Oct 2026 23:12:10 +0000</pubDate>
     </item>
     <item>
       <title>AI にリバースエンジニアリングさせる REA を触って、持ち帰ったのは「証拠付きで進める」考え方でした</title>
@@ -95,27 +100,22 @@ hondana は、10月16日に App Store の審査へ再提出し、審査を通っ
       <pubDate>Tue, 20 Oct 2026 03:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>dbt と Cloud DLP で面接の文字起こしから氏名を消す実装ガイド</title>
-      <link>https://zenn.dev/zenkigen_tech/articles/1714ede7f27e10</link>
-      <description>dbt と Cloud DLP で面接の文字起こしから氏名を消す実装ガイド
-こんにちは。ZENKIGEN でデータエンジニアをしている @Nazuna720 です。
-この半年間、「個人情報をマスキングした上で、本文テキストを抽出・分析対象としたい」という要件に取り組んできました。
-この記事では、その中で構築した Cloud DLP による氏名マスクの仕組みを紹介します。同じ構成を検討している方が、スムーズに導入できるよう、詳細を解説します。
-
- なぜ文字起こしの氏名を消す必要があったのか
-面接の文字起こし本文には、応募者や面接官の氏名が、氏名カラムとは別に会話中に現れます。
-BigQ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/zenkigen_tech/articles/1714ede7f27e10</guid>
-      <pubDate>Tue, 20 Oct 2026 23:00:06 +0000</pubDate>
+      <title>セキュアな実装をするために意識したいこと</title>
+      <link>https://zenn.dev/dress_code/articles/unauthorized-access-secure-implementation</link>
+      <description>こんにちは、Dress Code でプロダクトエンジニアをしているてちです！
+最近、「不正アクセスにより個人情報が流出した可能性があります」というニュースを本当によく見かけます。しかも数万件ではなく、数百万件から数千万件規模のものが続いています。
+ニュースではどれも「不正アクセス」の一言でまとめられてしまいますが、公表資料を読んでいくと、侵入の入口はかなりバラバラでした。そこで今回は、2025〜2026 年の国内事例と統計を整理しながら、Web アプリを作る側として意識したいことをまとめてみました。
+!
+数字と事例は、2026 年 10 月時点の公的機関の統計と、各社が公表した資料をもと... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/unauthorized-access-secure-implementation</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>AIペネトレーションテストツール「Strix」を試してみた</title>
-      <link>https://zenn.dev/turquoise123/articles/df481032f6b405</link>
-      <description>はじめに
-最近、AIを使ったサイバー攻撃により日本のWebサービスでは情報漏洩事件が頻発するようになってしまいました。いちエンジニアとして大変悔しい思いですが、だからといって手をこまねいているわけにはいきません。まず、攻撃者の手口を知ることで、自分たちのアプリケーションがどこまで耐えられるのかを把握しておく必要があります。
-そんな中、AIエージェントが自律的にWebアプリを攻撃し、脆弱性を発見・検証してくれるペネトレーションテストツールが増えてきました。最近の攻撃者の手法として、こうしたペネトレーションテストツールであるStrixやCairnをHermes agentのような自律エー... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/turquoise123/articles/df481032f6b405</guid>
-      <pubDate>Mon, 19 Oct 2026 23:08:03 +0000</pubDate>
+      <title>GoogleがTPU向けPyTorchスタック「TorchTPU」をオープンソース化 — コード変更なしでCUDA依存から脱却できる道が開けた</title>
+      <link>https://techfeed.io/entries/6ad946bab9a6f1a69d9e3594?from=rss</link>
+      <description>10月20日、Google Cloudが「TorchTPU is now open source: Run native PyTorch on TPUs」と題した記事を公開した。PyTorchの標準的なワークフローをそのままTPU上で動かせる「TorchTPU」をオープンソース化し、vLLM・SGLang・Hugging Face・TorchTitanなど主要エコシステム全体にTPUサポートを組み込んだ一連のリリースを発表している。Metaが本番のLLM・広告・レコメンドシステムへの適用を明言し、1,000 TPUあたりの生成トークン数が4倍超に向上した実運用事例も報告されており、「実験段階」を超えた話として注目に値する。NvidiaのCUDA独占に対するGoogleの答えPyTorchはGPU（CUDA）を前提に設計されてきた歴史があり、TPUやその他のアクセラレータは「二級市民」扱いされることが多かった。今回のTorchTPUオープンソース化は、その構造に正面から切り込む動きだ。TorchTPUはMetaのPyTorchチームとの共同開発で生まれた。既存のPyTorchコードをほぼ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ad946bab9a6f1a69d9e3594?from=rss</guid>
+      <pubDate>Wed, 21 Oct 2026 23:11:54 +0000</pubDate>
     </item>
     <item>
       <title>Devinに問い合わせ調査を任せて見えてきた「原因未特定」の正体。過去の約700件を分類してみた</title>
@@ -128,17 +128,6 @@ BigQ... (source: Zennのトレンド)</description>
 この記事で分かることは... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/canly/articles/9c19bb123e208c</guid>
       <pubDate>Wed, 21 Oct 2026 01:10:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>LINEに送った写真と音声メモを、自宅のPCが文字にしてくれるようにした</title>
-      <link>https://zenn.dev/hilopon/articles/line-local-ai-photo-voice-capture</link>
-      <description>会議のホワイトボードを写真に撮る。帰り道に「来週までに見積り」と声で残す。ここまでは誰でもやっています。問題はそのあとで、撮った写真も録った声も、二度と開かない。私のスマホには、読み返されたことのない音声メモが何十本も眠っています。
-そこで、LINEに写真か音声を送るだけで、自宅のPCが文字に起こして、日記用のリポジトリへ分類してしまってくれる仕組みを作りました。文字起こしも要約もクラウドのAIは使わず、全部手元のGPUでやっています。
-
- なぜクラウドに投げなかったのか
-最初は当然、クラウドのAPIに投げるつもりでした。精度もいいし、作るのも楽です。ただ、これは毎日使う物です。日記の写... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hilopon/articles/line-local-ai-photo-voice-capture</guid>
-      <pubDate>Tue, 20 Oct 2026 14:37:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
