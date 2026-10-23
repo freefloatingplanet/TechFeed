@@ -7,7 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 11:25:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:15:28 +0000</lastBuildDate>
+    <item>
+      <title>AIコストは「削減」より「管理」する時代へ — トークン消費量より価値創出額で評価するDatabricksの実践手法</title>
+      <link>https://techfeed.io/entries/6ada977ea850a3fc61f4456f?from=rss</link>
+      <description>10月23日、Databricksが「The new economics of AI cost management」と題した記事を公開した。半年前に顧客の最大の懸念は「AIで出遅れること」だったが、今は「コストが売上より速く伸びていること」に逆転している——DatabricksのSenior Staff EngineerでUnity GatewayのTechnical LeadであるKevin Stumpf氏はそう語る。本記事はStumpf氏へのインタビュー形式で構成されており、エンタープライズAIのコストを単なる削減対象ではなく「管理すべきシステム」として捉え直すための考え方と実践手法を詳しく紹介している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ada977ea850a3fc61f4456f?from=rss</guid>
+      <pubDate>Thu, 22 Oct 2026 23:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>2000年代初頭、女性オタクの中にはHTML/CSSを手打ちして個人サイトを作る人もいたが、その審美眼が今やAIの利便性を前に溶けている印象がある</title>
+      <link>https://togetter.com/li/2761573</link>
+      <description>あ @5vVba77P0tjsDKS ホンマにガチでコレ真理だと断言したい。2000年代初頭、女性オタク層はみんなメモ帳でHTML/CSSを手打ちして個人サイトを作っていた。 あの情熱とスキルが当時「仕事」として評価されていれば、日本のIT人手不足はかなりマシだったはず。でも悲しいのは、当時テーブルレイアウトやCSSと格闘していた... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2761573</guid>
+      <pubDate>Thu, 22 Oct 2026 15:07:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Flutter]main()を通らない起動ルートで初期化漏れした話（Android着信のヒヤリハット）</title>
+      <link>https://zenn.dev/lincwell_inc/articles/ab2a642ea8f6f0</link>
+      <description>はじめに
+Flutterアプリの初期化はmain()に書いておけばOK……と思っていたら、実はmain()を通らない起動ルートがありました。
+気づいたきっかけは、APIリクエストにUser-Agentを付与するという小さな改修で、Androidの着信機能が鳴らなくなった現象が発生してしまいました。 リリース前に気づけたので本番影響はありませんでしたが、見落としやすいポイントだったので今回記事にしてみました。
+
+ 起きた問題
+リリース予定のバージョンで、Androidのクリフォアコール（ビデオ通話の着信機能）が鳴らなくなっていました。
+クリフォアコールについての説明はこちらの記事参照く... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/lincwell_inc/articles/ab2a642ea8f6f0</guid>
+      <pubDate>Fri, 23 Oct 2026 01:30:05 +0000</pubDate>
+    </item>
     <item>
       <title>Oxlint + Oxfmt で規約をコード化するモノレポ運用</title>
       <link>https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006</link>
@@ -20,6 +47,18 @@
 TypeScript の静的解析ツールが TSLint から ESLint に移りつつあった 2... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006</guid>
       <pubDate>Tue, 20 Oct 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>顧客説明で「高市さんが言ってたから！」と言えるのが強すぎる！ PHPの緊急メンテで見えたトップダウンとAI時代の脆弱性対応</title>
+      <link>https://qiita.com/shinkai_/items/a45455b514bf9d32275a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+10月21日の夜、「緊急メンテナンス」の文字を日本中のWEBサイトで目にしました。
+きっかけはPHPの重大な脆弱性です。
+国内の有名サービスや自治体のサイトが、次々と止まりました。
+その騒動のさなか、話題になったのが首相がXでパッチ適用を呼びかけたことです。
+個... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/shinkai_/items/a45455b514bf9d32275a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 22 Oct 2026 10:20:29 +0000</pubDate>
     </item>
     <item>
       <title>バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった</title>
@@ -36,98 +75,66 @@ Mac が壊れた、と思いました。
       <pubDate>Tue, 20 Oct 2026 09:15:46 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeを「AIニュース係」にしたら、毎朝0円でSlackに届くようになった</title>
-      <link>https://zenn.dev/edash_tech_blog/articles/3476d88801674d</link>
+      <title>Rootless Dockerと学ぶSELinux【初心者向け】</title>
+      <link>https://zenn.dev/nexryai/articles/afb828d7dda6b7</link>
+      <description>!
+この記事の作成にあたって、図の生成、調査、校正に生成AIを使用していますが、本文は人の手で書かれたものです。
+
+
+ 環境
+
+Rocky Linux 10.2
+
+
+ あらすじ
+私の自宅サーバーでは、/var/composeにDocker Composeのファイル一式を格納し、composeユーザーでRootless Dockerを動かしています。
+Rocky Linux（というかRHEL）ではデフォルトでrootで動作する常駐プロセスがありますが、これらからのアクセス制限がどんな感じでかかってるのかを調査してSELinuxの基礎を学んだというお話です。
+
+ 前提知識
+SELinuxは主... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nexryai/articles/afb828d7dda6b7</guid>
+      <pubDate>Thu, 22 Oct 2026 11:50:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>2年間放置していたPwnagotchiをクリーンインストールして使えるようにするまで</title>
+      <link>https://zenn.dev/kuroikotech/articles/pwnagotchi-zero2w-clean-install</link>
       <description>はじめに
-こんにちは、e-dash でフロントエンドエンジニアをしている Chin です。
-AI界隈の情報、追うのしんどくないですか。
-Claude Codeはほぼ毎日のようにアップデートされ、新しいSkillsやサブエージェントの活用パターンが次々に生まれ、モデルの提供条件も月単位で変わります。しかも一次情報はほぼ英語です。「始業前に、日本語でまとめて読めたらいいのに」と思いながら、気づけば1週間分のchangelogを土曜にまとめて読む生活をしていました。
-そこで、追いかける役はClaude Code自身に任せると決めました。いわば「AIニュース係」です。
-平日の毎朝、Claud... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/edash_tech_blog/articles/3476d88801674d</guid>
-      <pubDate>Wed, 21 Oct 2026 09:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare + EmDash の自サイトを点検したら Server-Timing から内部情報が見えていた話</title>
-      <link>https://zenn.dev/masaru21/articles/2100616bb5110d</link>
-      <description>Webサイトのセキュリティについて勉強するため、まずは自分で管理しているサイトを実際に点検してみることにしました。
-対象は、Cloudflare上で動かしている自分のWebサイトです。
-構成は大まかに、
-
-Cloudflare Workers
-Astro
-EmDash CMS
-Cloudflare D1
-Cloudflare KV
-Cloudflare R2
-
-などを利用しています。
-今回は、いきなり広範囲な脆弱性スキャンを行うのではなく、
-
-Nucleiで低負荷な技術判定
-
-curl でHTTPレスポンスヘッダーを確認
-不要な情報露出がないか調査
-原因となるコードを特定
-必要最小限の修... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/masaru21/articles/2100616bb5110d</guid>
-      <pubDate>Mon, 19 Oct 2026 14:42:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>個人事業主が App Store の有料アプリ契約を有効にするまで。Apple は組織を選べず、私は納税フォームを2つ出した</title>
-      <link>https://zenn.dev/hk_work/articles/sole-proprietor-app-store-paid-apps-agreement</link>
-      <description>Flutter で作った蔵書管理アプリ「本棚（hondana）」を、個人事業主として App Store に出す準備をしています。2026年10月に開業届を出し、Apple と Google のアカウントを用意しました。
-この記事は、その手続きで「思っていたのと違った」ところの記録です。個人事業主は Apple の「組織」を選べないこと、住所が公開される条件、有料アプリ契約が有効になるまでに納税フォームが2つ要ったこと、Google Play の個人アカウントだと住所が出ることを順に書きます。
-hondana は、10月16日に App Store の審査へ再提出し、審査を通って公開され... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hk_work/articles/sole-proprietor-app-store-paid-apps-agreement</guid>
-      <pubDate>Wed, 21 Oct 2026 07:43:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントの60%がデモ止まりで終わる理由 — 本番移行には「データ整備」と「1年以上の信頼構築」が必要だ</title>
-      <link>https://techfeed.io/entries/6ad946cab9a6f1a69d9e35a2?from=rss</link>
-      <description>10月20日、ストリーミングデータ基盤ベンダーのRedpandaが「Why agentic AI pilots stall before production」と題した記事を公開した。エージェント型AIがデモから本番環境へ移行できずに頓挫する構造的な原因と、その乗り越え方を論じた内容だ。Redpandaはリアルタイムデータストリーミングのインフラを提供する企業であり、エージェントAIが本番運用に耐えるためのデータ基盤整備は同社の事業領域と直結する。本記事は同社が主催するウェビナーシリーズにも登場したAIスタートアップOnebeeの共同創業者であり、サイバーセキュリティ分野のベテランでもあるJimmy Astleへのインタビューをもとに構成されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ad946cab9a6f1a69d9e35a2?from=rss</guid>
-      <pubDate>Wed, 21 Oct 2026 23:12:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI にリバースエンジニアリングさせる REA を触って、持ち帰ったのは「証拠付きで進める」考え方でした</title>
-      <link>https://zenn.dev/flinters_blog/articles/3b377ce568d676</link>
-      <description>はじめに
-こんにちは。FLINTERSの河内です。
-社内で毎週開いている AI 活用の勉強会で、今回（2026-10-19）は REA（Reverse Engineer Anything）を取り上げました。担当は川上さんです。AI エージェントにバイナリやアプリを解析させるためのツールで、10月に入ってから GitHub のスターが急に伸びています。
-結論から書くと、REA を使いこなすところまでは行けませんでした。題材選びでつまずき、コマンドの引数でつまずき、最後は別のスキルに切り替えています。それでも私がこの回で一番面白いと思ったのは、REA の設計思想でした。REA は、エージ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/flinters_blog/articles/3b377ce568d676</guid>
-      <pubDate>Tue, 20 Oct 2026 03:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>セキュアな実装をするために意識したいこと</title>
-      <link>https://zenn.dev/dress_code/articles/unauthorized-access-secure-implementation</link>
-      <description>こんにちは、Dress Code でプロダクトエンジニアをしているてちです！
-最近、「不正アクセスにより個人情報が流出した可能性があります」というニュースを本当によく見かけます。しかも数万件ではなく、数百万件から数千万件規模のものが続いています。
-ニュースではどれも「不正アクセス」の一言でまとめられてしまいますが、公表資料を読んでいくと、侵入の入口はかなりバラバラでした。そこで今回は、2025〜2026 年の国内事例と統計を整理しながら、Web アプリを作る側として意識したいことをまとめてみました。
+2年ほど放置していたPwnagotchiを、久しぶりに動かすことにした。
+古い環境をそのまま直すのではなく、microSDを焼き直してクリーンインストールする。画面を動かして、SSHで入れて、バッテリーで持ち運べる状態に戻すのが今回の目標。
+イメージを書き込めばすぐ終わるかと思ったら、USB接続でかなりハマった。最終的にはディスプレイとPiSugarの認識、SSHの鍵認証、PCからのインターネット共有までできたので、その記録を残す。
 !
-数字と事例は、2026 年 10 月時点の公的機関の統計と、各社が公表した資料をもと... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/unauthorized-access-secure-implementation</guid>
-      <pubDate>Wed, 21 Oct 2026 06:00:05 +0000</pubDate>
+Pwnagotchiは無線ネットワークのセキュリティ検証に使うツール。検証は自分が管理するネットワークか、明確な許可を得た環境で行う。
+今... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kuroikotech/articles/pwnagotchi-zero2w-clean-install</guid>
+      <pubDate>Fri, 23 Oct 2026 03:24:22 +0000</pubDate>
     </item>
     <item>
-      <title>GoogleがTPU向けPyTorchスタック「TorchTPU」をオープンソース化 — コード変更なしでCUDA依存から脱却できる道が開けた</title>
-      <link>https://techfeed.io/entries/6ad946bab9a6f1a69d9e3594?from=rss</link>
-      <description>10月20日、Google Cloudが「TorchTPU is now open source: Run native PyTorch on TPUs」と題した記事を公開した。PyTorchの標準的なワークフローをそのままTPU上で動かせる「TorchTPU」をオープンソース化し、vLLM・SGLang・Hugging Face・TorchTitanなど主要エコシステム全体にTPUサポートを組み込んだ一連のリリースを発表している。Metaが本番のLLM・広告・レコメンドシステムへの適用を明言し、1,000 TPUあたりの生成トークン数が4倍超に向上した実運用事例も報告されており、「実験段階」を超えた話として注目に値する。NvidiaのCUDA独占に対するGoogleの答えPyTorchはGPU（CUDA）を前提に設計されてきた歴史があり、TPUやその他のアクセラレータは「二級市民」扱いされることが多かった。今回のTorchTPUオープンソース化は、その構造に正面から切り込む動きだ。TorchTPUはMetaのPyTorchチームとの共同開発で生まれた。既存のPyTorchコードをほぼ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ad946bab9a6f1a69d9e3594?from=rss</guid>
-      <pubDate>Wed, 21 Oct 2026 23:11:54 +0000</pubDate>
+      <title>Claude CodeやCodexで並列開発していたら、Macのストレージが残り8GBになったので掃除した</title>
+      <link>https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1</link>
+      <description>!
+クライアント案件のリポジトリ名は伏せています。容量の数字は、dfとduで実際に測った値です。
+
+1TBのMacBook Airで、ストレージの空きが8GBまで減っていました。
+Claude Codeに「ストレージがほぼないので整理したい」と頼んで、何が容量を使っているかを調べてもらいながら掃除しました。原因はほとんどが開発まわりで、最終的に空きは約380GBまで戻りました。
+最近はClaude CodeやCodexに作業を並列でお願いすることが多く、そのたびにGitのworktreeが作られます。このやり方だと溜まりやすいものがいくつか分かったので、消した順に紹介します。
+
+ 何が容... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1</guid>
+      <pubDate>Thu, 22 Oct 2026 17:21:33 +0000</pubDate>
     </item>
     <item>
-      <title>Devinに問い合わせ調査を任せて見えてきた「原因未特定」の正体。過去の約700件を分類してみた</title>
-      <link>https://zenn.dev/canly/articles/9c19bb123e208c</link>
-      <description>こんにちは、カンリー店舗集客チームの山下です。
-私たちのチームでは、CSやCRといった顧客対応のチームから開発に来る問い合わせの一次調査を、AIエージェントのDevinにやってもらっています。
-運用を始めてしばらく経ちましたが、AIが原因まで特定できる問い合わせと、「原因未特定」としてエンジニアに引き継がれる問い合わせがあると感じていました。
-では、AIが原因を特定しきれないのはどんな問い合わせなのか。何を見られるようにすれば、原因まで特定できるようになるのか。
-なんとなくの感覚はあったものの、ちゃんと数えたことはなかったので、過去の問い合わせを分類してみました。
-この記事で分かることは... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/canly/articles/9c19bb123e208c</guid>
-      <pubDate>Wed, 21 Oct 2026 01:10:05 +0000</pubDate>
+      <title>Better AuthをMCPの認可サーバーにして、AI Agent からOAuthでアプリを操作させる</title>
+      <link>https://zenn.dev/sakagi/articles/8caa896e649005</link>
+      <description>はじめに
+WebアプリにMCPサーバーを追加し、Claudeから利用者本人としてデータを読み書きできるようにしました。アプリのログインは Microsoft Entra ID の SSO を使用し、AIに渡すトークンはBetter Authの@better-auth/mcpでアプリ自身が発行します。
+プラグインを入れるだけで、認可サーバーに要るエンドポイントはひととおり揃います。
+ただ、既定のままでは困る点がいくつかありました。
+この記事では、認可の流れを追ったうえで、Better Authの設定と、実装のときに足した規則を紹介します。
+
+ 構成
+Entra IDは利用者の認証だけを... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sakagi/articles/8caa896e649005</guid>
+      <pubDate>Fri, 23 Oct 2026 07:45:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

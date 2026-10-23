@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 11:25:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:15:33 +0000</lastBuildDate>
+    <item>
+      <title>ユークリッド宇宙望遠鏡が初めて彗星を発見　将来の彗星探査ミッションとの連携を試す実例に</title>
+      <link>https://sorae.info/astronomy/20261020-comet-c_2026_s1_euclid.html</link>
+      <description>ESA（ヨーロッパ宇宙機関）は2026年10月19日付で、ESAのユークリッド宇宙望遠鏡の観測で新たな彗星が発見されたことを発表しました。 こちらがその彗星「C/2026 S1（Euclid）」です。ESAによると、画像… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20261020-comet-c_2026_s1_euclid.html</guid>
+      <pubDate>Tue, 20 Oct 2026 07:10:35 +0000</pubDate>
+    </item>
     <item>
       <title>アルテミス合意を軸とした米国防省の新施策「Space Catalyst Partnership」とは【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/47167/</link>
@@ -28,6 +35,13 @@
       <description>第124回宇宙政策委員会の配布資料から、国家インフラとなる測位・通信・地球観測といった人工衛星の使い方、また今後の私たちの暮らしをより良くするための予算の具体例を紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/47077/</guid>
       <pubDate>Mon, 28 Sep 2026 23:59:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>星を生むのか消えゆくか　ハッブル宇宙望遠鏡が観測した「NGC 281」のボック・グロビュール</title>
+      <link>https://sorae.info/astronomy/20261023-ngc-281.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡が観測した輝線星雲「NGC 281」のクローズアップ。カシオペヤ座の方向、地球から約9500光年先にあります。 輝線星雲は、高温の星が放つ紫外線などによって電離したガスが光を放っている星雲です… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20261023-ngc-281.html</guid>
+      <pubDate>Fri, 23 Oct 2026 06:21:43 +0000</pubDate>
     </item>
     <item>
       <title>アルテミス合意の署名国が77か国に　トルコやウズベキスタンなどが新たに参加</title>
@@ -51,25 +65,11 @@
       <pubDate>Tue, 20 Oct 2026 04:08:55 +0000</pubDate>
     </item>
     <item>
-      <title>LiveEO、光学とSARの画像を一つのAIで扱う視覚基盤モデルの実現に向け、ドイツ政府から助成獲得【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/47004/</link>
-      <description>2026年8月4日、LiveEOはドイツ政府の宇宙開発プログラムから助成を受けたと発表しました。この助成を活用し、光学衛星とSAR衛星という異なる衛星のデータを、一つのAIで扱う視覚基盤モデルが実現可能かどうかの調査に取り組みます。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/47004/</guid>
-      <pubDate>Wed, 23 Sep 2026 23:02:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>火星・北極域の氷は従来の推定よりも塵が少ない？　地球の雪氷の研究手法を応用して分析</title>
-      <link>https://sorae.info/astronomy/20261017-mars-north-pole-less-dusty.html</link>
-      <description>エディンバラ大学のPari Mohan氏とワシントン大学応用物理研究所のAditya Khuller氏は、火星の北極付近で地表に露出している水の氷が、どれくらいの塵（ダスト）を含んでいるのかを見積もり直した研究成果を発表… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20261017-mars-north-pole-less-dusty.html</guid>
-      <pubDate>Sat, 17 Oct 2026 02:01:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>宇宙に浮かぶ「ト音記号」その正体は？　謎めいた電波源の位置をチャンドラなどが観測</title>
-      <link>https://sorae.info/astronomy/20261017-treble-clef.html</link>
-      <description>こちらは、NASA（アメリカ航空宇宙局）のチャンドラX線宇宙望遠鏡などが観測した、ある銀河団の様子。きりん座の方向、地球から約15億5000万光年先にあります。 画像の中央でピンク色に着色された線が、音楽の「ト音記号」の… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20261017-treble-clef.html</guid>
-      <pubDate>Sat, 17 Oct 2026 11:01:32 +0000</pubDate>
+      <title>「目指すのは宇宙産業の“接着剤”」欧州3カ国・フィンテック・車載ソフトウェア企業を経て、日本の宇宙業界に転職した越境者インタビュー</title>
+      <link>https://sorabatake.jp/47138/</link>
+      <description>非宇宙業界から宇宙業界に転職をした人に焦点を当てたインタビュー連載「Why Space」、15人目のインタビュイーは株式会社Fusicの武田さんです。食品メーカーの法人営業から欧州3カ国を渡り歩いた越境者が、宇宙業界に見つけた「入り口」とは。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/47138/</guid>
+      <pubDate>Thu, 22 Oct 2026 23:00:23 +0000</pubDate>
     </item>
     <item>
       <title>「宇宙業界は、地上の経験を求めている」異業種から転職した3人が語る宇宙業界のリアル【SPACETIDE Career Connect 2026 Summer】</title>
