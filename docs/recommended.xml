@@ -7,33 +7,59 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 11:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:34:40 +0000</lastBuildDate>
     <item>
-      <title>AIコストは「削減」より「管理」する時代へ — トークン消費量より価値創出額で評価するDatabricksの実践手法</title>
-      <link>https://techfeed.io/entries/6ada977ea850a3fc61f4456f?from=rss</link>
-      <description>10月23日、Databricksが「The new economics of AI cost management」と題した記事を公開した。半年前に顧客の最大の懸念は「AIで出遅れること」だったが、今は「コストが売上より速く伸びていること」に逆転している——DatabricksのSenior Staff EngineerでUnity GatewayのTechnical LeadであるKevin Stumpf氏はそう語る。本記事はStumpf氏へのインタビュー形式で構成されており、エンタープライズAIのコストを単なる削減対象ではなく「管理すべきシステム」として捉え直すための考え方と実践手法を詳しく紹介している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ada977ea850a3fc61f4456f?from=rss</guid>
-      <pubDate>Thu, 22 Oct 2026 23:08:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>2000年代初頭、女性オタクの中にはHTML/CSSを手打ちして個人サイトを作る人もいたが、その審美眼が今やAIの利便性を前に溶けている印象がある</title>
-      <link>https://togetter.com/li/2761573</link>
-      <description>あ @5vVba77P0tjsDKS ホンマにガチでコレ真理だと断言したい。2000年代初頭、女性オタク層はみんなメモ帳でHTML/CSSを手打ちして個人サイトを作っていた。 あの情熱とスキルが当時「仕事」として評価されていれば、日本のIT人手不足はかなりマシだったはず。でも悲しいのは、当時テーブルレイアウトやCSSと格闘していた... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2761573</guid>
-      <pubDate>Thu, 22 Oct 2026 15:07:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Flutter]main()を通らない起動ルートで初期化漏れした話（Android着信のヒヤリハット）</title>
-      <link>https://zenn.dev/lincwell_inc/articles/ab2a642ea8f6f0</link>
+      <title>作って終わりじゃない。PHP騒動から考えるAI時代のモノづくり</title>
+      <link>https://qiita.com/benjuwan/items/dfdf178488106c6dcb70?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-Flutterアプリの初期化はmain()に書いておけばOK……と思っていたら、実はmain()を通らない起動ルートがありました。
-気づいたきっかけは、APIリクエストにUser-Agentを付与するという小さな改修で、Androidの着信機能が鳴らなくなった現象が発生してしまいました。 リリース前に気づけたので本番影響はありませんでしたが、見落としやすいポイントだったので今回記事にしてみました。
+PHP騒動（PHP2Shell）をきっかけに、改めて考えたことがあります。
+SNSでは、よくあるホームページを例に「なぜ、どこにPHPを使う必要があるのか？」という趣旨の投稿も見かけました。
+たしかに、非エンジニアやHTML、CSSを少し知っている方々からすると... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/benjuwan/items/dfdf178488106c6dcb70?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Fri, 23 Oct 2026 05:30:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響</title>
+      <link>https://zenn.dev/actbe_tech/articles/8b4a9991d5365d</link>
+      <description>はじめに
+Twitterで「mdやskillを整える以外にも、AIが読みやすいDB構成がある」という話を見かけました。
+今後AIで開発していくと、開発スピードと同じくらいAIのコストが効いてくると思っています。そこで、読みやすいDBと読みにくいDBで、トークンとコストがどれくらい変わるのかを実験してみました。
+先に言ってしまうと、AIにとって読みやすいDBは、人間にとって読みやすいDBとほとんど同じでした。わかりやすい命名、コメント、外部キー。昔から言われてきた「ちゃんとした設計」が、そのままAIのコストにも効いてきます。
 
- 起きた問題
-リリース予定のバージョンで、Androidのクリフォアコール（ビデオ通話の着信機能）が鳴らなくなっていました。
-クリフォアコールについての説明はこちらの記事参照く... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/lincwell_inc/articles/ab2a642ea8f6f0</guid>
-      <pubDate>Fri, 23 Oct 2026 01:30:05 +0000</pubDate>
+ この記事の対象読者
+
+Claude Code などのAI... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/actbe_tech/articles/8b4a9991d5365d</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code で CI 待ち時間を 18 分から 4 分台に短縮する【GitHub Actions】</title>
+      <link>https://zenn.dev/edash_tech_blog/articles/5b90aa33bd8d49</link>
+      <description>はじめに
+こんにちは。e-dash でエンジニアをしている iakito です。
+AI コーディングエージェントを使って開発していると、実装と一緒にテストも増えていき、気づいたときには膨大な量になっていることがあります。私が担当しているプロダクトも例外ではなく、PR CI の待ち時間は長いときで 18 分を超え、日々の開発で地味なストレスになっていました。
+本記事では、Claude Code を使ってこの待ち時間を 4 分台まで短縮した取り組みを紹介します。
+
+ 背景
+CI 改善の対象は日々開発をしている Next.js（TypeScript）のアプリケーションです。テストには Vi... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/edash_tech_blog/articles/5b90aa33bd8d49</guid>
+      <pubDate>Mon, 19 Oct 2026 23:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>AlphaEngine : 最適化編①</title>
+      <link>https://zenn.dev/reu/articles/f79a89bd44b541</link>
+      <description>はじめに
+今回は、Static/Skeletalメッシュの分離による頂点処理およびAcceleration Structure更新処理の改善をどうしたかを書いていきたいと思います。
+
+ 以前の実装と問題点
+Static/Skeletalを区別せず、全頂点をCompute Shaderで処理してBLASを更新していました。
+理由としては、AlphaEngineのレンダリングの設計思想としてあった
+「全ての処理を一元化したい」
+という部分を強く見すぎた結果でした。
+その結果、本来処理をしないでいいStaticモデルも強制的にBLASの更新も行ってしまうという
+ゲーム的にもやりたくないよね... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/reu/articles/f79a89bd44b541</guid>
+      <pubDate>Fri, 23 Oct 2026 06:27:00 +0000</pubDate>
     </item>
     <item>
       <title>Oxlint + Oxfmt で規約をコード化するモノレポ運用</title>
@@ -47,18 +73,6 @@ Flutterアプリの初期化はmain()に書いておけばOK……と思って�
 TypeScript の静的解析ツールが TSLint から ESLint に移りつつあった 2... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006</guid>
       <pubDate>Tue, 20 Oct 2026 02:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>顧客説明で「高市さんが言ってたから！」と言えるのが強すぎる！ PHPの緊急メンテで見えたトップダウンとAI時代の脆弱性対応</title>
-      <link>https://qiita.com/shinkai_/items/a45455b514bf9d32275a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-10月21日の夜、「緊急メンテナンス」の文字を日本中のWEBサイトで目にしました。
-きっかけはPHPの重大な脆弱性です。
-国内の有名サービスや自治体のサイトが、次々と止まりました。
-その騒動のさなか、話題になったのが首相がXでパッチ適用を呼びかけたことです。
-個... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/shinkai_/items/a45455b514bf9d32275a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Thu, 22 Oct 2026 10:20:29 +0000</pubDate>
     </item>
     <item>
       <title>バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった</title>
@@ -75,38 +89,11 @@ Mac が壊れた、と思いました。
       <pubDate>Tue, 20 Oct 2026 09:15:46 +0000</pubDate>
     </item>
     <item>
-      <title>Rootless Dockerと学ぶSELinux【初心者向け】</title>
-      <link>https://zenn.dev/nexryai/articles/afb828d7dda6b7</link>
-      <description>!
-この記事の作成にあたって、図の生成、調査、校正に生成AIを使用していますが、本文は人の手で書かれたものです。
-
-
- 環境
-
-Rocky Linux 10.2
-
-
- あらすじ
-私の自宅サーバーでは、/var/composeにDocker Composeのファイル一式を格納し、composeユーザーでRootless Dockerを動かしています。
-Rocky Linux（というかRHEL）ではデフォルトでrootで動作する常駐プロセスがありますが、これらからのアクセス制限がどんな感じでかかってるのかを調査してSELinuxの基礎を学んだというお話です。
-
- 前提知識
-SELinuxは主... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nexryai/articles/afb828d7dda6b7</guid>
-      <pubDate>Thu, 22 Oct 2026 11:50:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>2年間放置していたPwnagotchiをクリーンインストールして使えるようにするまで</title>
-      <link>https://zenn.dev/kuroikotech/articles/pwnagotchi-zero2w-clean-install</link>
-      <description>はじめに
-2年ほど放置していたPwnagotchiを、久しぶりに動かすことにした。
-古い環境をそのまま直すのではなく、microSDを焼き直してクリーンインストールする。画面を動かして、SSHで入れて、バッテリーで持ち運べる状態に戻すのが今回の目標。
-イメージを書き込めばすぐ終わるかと思ったら、USB接続でかなりハマった。最終的にはディスプレイとPiSugarの認識、SSHの鍵認証、PCからのインターネット共有までできたので、その記録を残す。
-!
-Pwnagotchiは無線ネットワークのセキュリティ検証に使うツール。検証は自分が管理するネットワークか、明確な許可を得た環境で行う。
-今... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kuroikotech/articles/pwnagotchi-zero2w-clean-install</guid>
-      <pubDate>Fri, 23 Oct 2026 03:24:22 +0000</pubDate>
+      <title>セルフホストLLMとクラウドAPIを使い分ける判断基準と、同一ワークフロー内でルーティングする実装方法</title>
+      <link>https://techfeed.io/entries/6adbe860a850a3fc61f50c42?from=rss</link>
+      <description>10月23日、n8nが「Self-Hosted LLM vs. Cloud APIs: How to Route Between Them」と題した記事を公開した。「セルフホストの方がコストが下がる」「プライバシーが守られる」という直感は必ずしも正しくなく、実際にはリクエスト量・データの機密性・タスクの複雑さによって最適解が変わる。記事は、その判断軸を整理したうえで、セルフホストLLMとクラウドAPIを同一ワークフロー内でルーティングする実装パターンまでを解説している。n8nは、ノーベースのワークフロー自動化プラットフォームだ。400以上のサービスと連携でき、AIエージェントの構築やLLMを組み込んだ自動化パイプラインの作成を得意とする。エンジニアから非エンジニアまで幅広いユーザーに使われており、セルフホスト版とクラウド版の両方が提供されている。本記事はそのn8nチームが、LLMの運用設計における実践的な知見をまとめたものだ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6adbe860a850a3fc61f50c42?from=rss</guid>
+      <pubDate>Fri, 23 Oct 2026 23:06:08 +0000</pubDate>
     </item>
     <item>
       <title>Claude CodeやCodexで並列開発していたら、Macのストレージが残り8GBになったので掃除した</title>
@@ -135,6 +122,18 @@ WebアプリにMCPサーバーを追加し、Claudeから利用者本人とし�
 Entra IDは利用者の認証だけを... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/sakagi/articles/8caa896e649005</guid>
       <pubDate>Fri, 23 Oct 2026 07:45:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>「分担を見直したい」では動かなかった。チーム間の議論を変えた1枚の図</title>
+      <link>https://zenn.dev/shun0530/articles/32946ce85a536d</link>
+      <description>要件は書ける。でも「実現できるか」は自分たちでは判断できない
+他チームとの受け渡しで、案件が止まっている。それは分かっている。会議で「分担を見直したい」と言うと、いつも「でも現実的には難しいよね」で終わる。
+私も、同じところにいました。取り込んだデータを加工して集計指標にする側のチームのマネージャーとして、外部サービスとの連携機能の開発フローに関わっていたときです。このフローには、ずっと気持ち悪さがありました。
+要件を定義するのは自分たちのチーム。実装するのは隣のチーム。
+言葉にすると、どこにでもある分業です。最初は私も、これを問題だと思っていませんでした。
+おかしいと思いはじめたの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shun0530/articles/32946ce85a536d</guid>
+      <pubDate>Fri, 23 Oct 2026 13:01:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
