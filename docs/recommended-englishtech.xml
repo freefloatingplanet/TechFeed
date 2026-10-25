@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Oct 2026 10:34:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:59:48 +0000</lastBuildDate>
     <item>
-      <title>AI搭載のAdobeクローンを開発した開発者は、「実用化には程遠い」と述べている。</title>
-      <link>https://www.infoq.com/news/2026/10/photocraft-adobe-parity/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>ある開発者はClaude Opus 5.5を使って7つのAdobeアプリケーションのオープンソース代替版を構築し、Redditで1か月以内にほぼ100%の互換性を実現すると宣伝したが、その後Hacker Newsに対し、プロジェクトはまだ完成には程遠いと語った。開発者自身のロードマップによると、実用化段階は45%で、完全な互換性を実現するには2,300～4,100エージェント時間が必要だという。Steef-Jan Wiggers著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/10/photocraft-adobe-parity/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Thu, 22 Oct 2026 07:41:00 +0000</pubDate>
+      <title>Anthropic社、重要なオープンソースプロジェクト向けにオプトイン方式のセキュリティスキャン機能を追加</title>
+      <link>https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>AI企業Anthropicは、オープンソースプロジェクトの脆弱性を発見するための無料オプトインサービス「OSS Scanner」をリリースした。登録したメンテナーは、Claude Mythosを含む同社の強力なモデルによって生成された定期的なセキュリティレポートを受け取る。レポートは人間のレビューを経ずに送信され、プロジェクトメンテナーは発見内容を検証し、提案された修正案のうちどれを受け入れるかを決定できる。マット・サンダース著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
