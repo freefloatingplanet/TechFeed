@@ -7,40 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 10:59:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:32:05 +0000</lastBuildDate>
     <item>
-      <title>Claude Code で CI 待ち時間を 18 分から 4 分台に短縮する【GitHub Actions】</title>
-      <link>https://zenn.dev/edash_tech_blog/articles/5b90aa33bd8d49</link>
+      <title>AIエージェント専用オープンソースIDE「ThinkRail」— 複数エージェントの並行作業を「Gitワークツリー」で衝突なく管理</title>
+      <link>https://techfeed.io/entries/6ade89d8a850a3fc61f61095?from=rss</link>
+      <description>10月26日、firethering.comが「ThinkRail: An Open Source IDE for AI Coding Agents」と題した記事を公開した。firethering.comはAI開発ツールを中心に取り上げるテック系メディアで、本記事はThinkRailの機能を実際に試した上でまとめた紹介記事と位置づけられている。なお、GitHubリポジトリのオーナーはJetBrainsであり、本記事もその情報をもとにJetBrainsが開発元であると紹介しているが、firethering.comによるサードパーティ発信の記事であることは念頭に置いていただきたい。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ade89d8a850a3fc61f61095?from=rss</guid>
+      <pubDate>Sun, 25 Oct 2026 22:59:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響</title>
+      <link>https://zenn.dev/actbe_tech/articles/8b4a9991d5365d</link>
       <description>はじめに
-こんにちは。e-dash でエンジニアをしている iakito です。
-AI コーディングエージェントを使って開発していると、実装と一緒にテストも増えていき、気づいたときには膨大な量になっていることがあります。私が担当しているプロダクトも例外ではなく、PR CI の待ち時間は長いときで 18 分を超え、日々の開発で地味なストレスになっていました。
-本記事では、Claude Code を使ってこの待ち時間を 4 分台まで短縮した取り組みを紹介します。
+Twitterで「mdやskillを整える以外にも、AIが読みやすいDB構成がある」という話を見かけました。
+今後AIで開発していくと、開発スピードと同じくらいAIのコストが効いてくると思っています。そこで、読みやすいDBと読みにくいDBで、トークンとコストがどれくらい変わるのかを実験してみました。
+先に言ってしまうと、AIにとって読みやすいDBは、人間にとって読みやすいDBとほとんど同じでした。わかりやすい命名、コメント、外部キー。昔から言われてきた「ちゃんとした設計」が、そのままAIのコストにも効いてきます。
 
- 背景
-CI 改善の対象は日々開発をしている Next.js（TypeScript）のアプリケーションです。テストには Vi... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/edash_tech_blog/articles/5b90aa33bd8d49</guid>
-      <pubDate>Mon, 19 Oct 2026 23:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dockerサンドボックスで複数のAIエージェントをチームとして協調させる — クレデンシャルがエージェントから見えない仕組みと、ローカルアクセスが必要なエージェントだけをサンドボックスで動かす設計が話題に</title>
-      <link>https://techfeed.io/entries/6add3a58a850a3fc61f577e6?from=rss</link>
-      <description>10月22日、Oleg Selajevが「Run Collaborative AI Agents in Docker Sandboxes」と題した記事を公開した。注目すべき点は二つある。一つは、APIキーなどのクレデンシャルがエージェント自身には見えないという設計。もう一つは、ローカルワークスペースへのアクセスが必要なエージェントだけをDockerサンドボックスで動かせばよく、他のエージェントはクラウドに置いたまま同じルームで協調できるという構成の柔軟さだ。DockerサンドボックスとBAND AIを組み合わせて、複数のAIエージェントをチームとして協調動作させる手法を詳しく紹介している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6add3a58a850a3fc61f577e6?from=rss</guid>
-      <pubDate>Sat, 24 Oct 2026 23:08:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>「AIを虐待すると復讐されるかも」マスク氏も警告…アンソロピックが“AIいじめ”対策でポリシー改定 識者が危惧するAIへの暴言のリスク（ABEMA TIMES） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/2997423a08fc213f62fb5f6e7d3b3091570bfcdc</link>
-      <description>AIいじめとは（ABEMA TIMES）　AI開発が急速に進む中、Claudeで知られるアンソロピックが利用規約を改定し、AIへの「虐待的・残酷な行為」を禁止する方針を発表した。 【映像】AIに虐待、続けるとどうなる？ 具体的には、残酷な言動を繰り返すことや、明確な目的のない暴言的なやり取りが続くなど、悪質な場合には、会話... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2997423a08fc213f62fb5f6e7d3b3091570bfcdc</guid>
-      <pubDate>Sun, 25 Oct 2026 03:52:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>「存在しない論文」の問い合わせが減ったのは、問題が解決したからなのか――図書館総合展2026「AI時代の学術情報流通と図書館サービス」参加報告｜一般社団法人 情報科学技術協会（INFOSTA）</title>
-      <link>https://note.com/infosta/n/nd5bc430d4151</link>
-      <description>登壇されたのは、図書館情報学の研究者、学術出版社、大学図書館の管理職のお三方です。立場の違う三人が、それぞれの持ち場から、生成AIで何が変わったのかを語られました。 会場で何度も考えさせられたのは、一つの問いです。生成AIは目に見えて賢くなっています。それなのに、学術情報の流通はかえって壊れやすくなっ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://note.com/infosta/n/nd5bc430d4151</guid>
-      <pubDate>Fri, 23 Oct 2026 07:41:28 +0000</pubDate>
+ この記事の対象読者
+
+Claude Code などのAI... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/actbe_tech/articles/8b4a9991d5365d</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:05 +0000</pubDate>
     </item>
     <item>
       <title>Oxlint + Oxfmt で規約をコード化するモノレポ運用</title>
@@ -54,6 +41,19 @@ CI 改善の対象は日々開発をしている Next.js（TypeScript）のア�
 TypeScript の静的解析ツールが TSLint から ESLint に移りつつあった 2... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006</guid>
       <pubDate>Tue, 20 Oct 2026 02:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>中古ラックサーバを買って、Proxmox VEを入れるまで【ホームラボ構築記 #1】</title>
+      <link>https://zenn.dev/mana1001/articles/homelab-01-install</link>
+      <description>はじめに
+大学2年の夏、中古のラックサーバを買いました。この連載では、そのサーバに Proxmox VE を入れてホームラボを作り、運用してきた記録を、できるだけ時系列で書いていきます。
+第1回は、サーバが届いてから Proxmox VE のインストールが終わるまでです。
+
+ なぜ自分専用のサーバが欲しかったのか
+ネットワーク系のサークルに入っていて、サークルにはサーバもあります。ただ、それは部員みんなで使う共有の環境で、自分ひとりの判断で自由に壊したり作り直したりはできません。
+もう一つのきっかけは、応募したNOCの選考に落ちたことです。実際のネットワークの構築・運用に関わる機会を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mana1001/articles/homelab-01-install</guid>
+      <pubDate>Sun, 25 Oct 2026 09:47:50 +0000</pubDate>
     </item>
     <item>
       <title>バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった</title>
@@ -70,49 +70,54 @@ Mac が壊れた、と思いました。
       <pubDate>Tue, 20 Oct 2026 09:15:46 +0000</pubDate>
     </item>
     <item>
-      <title>Pythonの基礎学習が終わったら、Pythonでスクレイピングを始めよう！</title>
-      <link>https://zenn.dev/momiji_ai/articles/67c7ce4c54fad3</link>
-      <description>自己紹介
-普段はセキュリティやAIに興味があり、脆弱性、CVE-2026-73683を発見し、報告したことで採番されたり、AIを個人的に勉強している現役学生です。
-
- この記事を書く目的
-
-業務でPyppeteerを使うシステムのコスト削減に取り組んだから
-応用的な使い方も説明したいから
-
-
- はじめに
-この記事では、Python から本物のブラウザを動かしてスクレイピングできるライブラリ Pyppeteer を、手を動かしながら学びます。
-前半の入門編では、スクレイピング練習用のサイトを相手に、STEP 1 から STEP 5 まで順にコードを動かします。
-最後には、商品一覧の全ペ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/momiji_ai/articles/67c7ce4c54fad3</guid>
-      <pubDate>Sun, 25 Oct 2026 07:46:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWSにデプロイせず、FastAPI製Lambdaのarm64実行をCIで検証する</title>
-      <link>https://zenn.dev/shingokumon/articles/4da5acb9697d56</link>
+      <title>「スマホを向けるだけ」で麻雀の点数を出したくて、牌認識をブラウザの中だけで動かした</title>
+      <link>https://qiita.com/hiroshiasayadev-prog/items/d792cc85dde2d7cfd75c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-FastAPIで開発している案件判定API「SUMI Job Engine」に、AWSへデプロイせずにLambda向けパッケージを検証するCIを追加しました。
-今回確認したかったのは、「SAMでビルドできるか」の一歩先です。ビルドした成果物をarm64のLambda公式Pythonコンテナに読み込ませ、実際のハンドラーを呼び出せるかを確かめました。
-この記事では、実プロジェクトで使った構成とコードの要点を紹介します。コードは既存アプリからの抜粋です。単独で動くサンプル一式ではないため、導入する場合はハンドラー、パス、環境変数を自分のアプリに合わせて置き換えてください。
-!
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/shingokumon/articles/4da5acb9697d56</guid>
-      <pubDate>Sat, 24 Oct 2026 16:07:43 +0000</pubDate>
+麻雀の点数計算は面倒です。符と翻を数え、親か子か、ツモかロンかで表を引く。覚えていても間違えますし、間違えるとそのあとのカラオケ代が変わります。
+牌を写真に撮って点数を出すサービスはすでにありましたが、対局中に使うと、撮って、認識させて、間違っていたら直す、とい... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/hiroshiasayadev-prog/items/d792cc85dde2d7cfd75c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sun, 25 Oct 2026 09:16:56 +0000</pubDate>
     </item>
     <item>
-      <title>AIは「着手」を増やしただけ、「完了」は増えていない — 2200万件のCIデータが示すWIP膨張の実態</title>
-      <link>https://techfeed.io/entries/6add3a3ca850a3fc61f577dd?from=rss</link>
-      <description>10月23日、Confident Commitが「Your AI software factory has an inventory problem」と題した記事を公開した。この記事では、AIコーディングエージェントの普及によって「仕掛かり中の作業（WIP）」が急増し、開発速度の向上を阻害しているという現象をデータで示している。AIは「着手」を加速させたが、「完了」は増えていないConfident Commitは、CircleCIのパイプラインデータを活用した「State of Software Delivery Q3 Pulse」レポートを今回の記事とともに公開した。Confident CommitはCircleCIのデータを継続的に分析・レポート化している組織であり、今回は2025年8月の2,200万件以上のCIワークフローを分析対象としている。そのデータが示す状況は端的だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6add3a3ca850a3fc61f577dd?from=rss</guid>
-      <pubDate>Sat, 24 Oct 2026 23:07:40 +0000</pubDate>
+      <title>月の利益はほぼマイナス…4年半続けた飲食店を手放した経営者が語る、失敗と教訓 - おなじみ丨近くの店から、なじみの店へ。</title>
+      <link>https://onaji.me/entry/2026/10/26</link>
+      <description>東京・水天宮前に「ワインと鍋」を開業、その後売却したすてぃおさんに、飲食店経営の難しさを伺いました。 飲食店経営の成功談は数多くありますが、資金繰りの苦労や「店を続けるか、手放すか」というシビアな判断の裏側について、経営者が自ら語る機会はそう多くありません。 2021年12月、東京・水天宮前に開業した「... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://onaji.me/entry/2026/10/26</guid>
+      <pubDate>Mon, 26 Oct 2026 02:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>GPUクラスターに10億ドルの担保を求められる時代 — AIスタートアップが生き残るには「コンピュートの先物市場」が必要だとする議論が話題に</title>
-      <link>https://techfeed.io/entries/6add3a1ea850a3fc61f577d3?from=rss</link>
-      <description>10月23日、startuphub.aiが「AI startups will die without a compute market」と題した記事を公開した。AIスタートアップが生き残るためにGPUコンピュートの物理決済フォワード市場が必要であるという論点について、San Francisco ComputeのEvan Conradの主張を軸に詳しく紹介している。AIスタートアップのコンピュート問題の核心は「信用」にあるSan Francisco ComputeのEvan Conradは、AI Engineerのインタビューでこう述べた。AIスタートアップはコンピュートの実質的な市場なしには生き残れない、と。彼のこの結論は、抽象的な議論から来たものではない。自分自身がAIラボを立ち上げようとした体験から導き出されたものだ。Conradのチームはかつて「Junlark」という社名で、SunoやUdioのような音楽生成AIを作ろうとしていた（どちらの製品も当時まだ存在していなかった）。現実的にそれを実現するには、当時のGPUクラスター契約に1,000万ドルのデポジットが必要だった。調達でき (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6add3a1ea850a3fc61f577d3?from=rss</guid>
-      <pubDate>Sat, 24 Oct 2026 23:07:10 +0000</pubDate>
+      <title>AIネイティブなインターン生を受け入れて考えた、これからの開発エンジニア</title>
+      <link>https://zenn.dev/tokium_dev/articles/internship-mentoring-2026</link>
+      <description>こんにちは、TOKIUM デジタライズチームのおかもりです。
+お客様からお預かりした領収書などのデータ化作業を行うシステムと、その作業実績を管理するシステムの開発を担当しています。
+9/28〜10/2の5日間で、インターン生2名を受け入れました。
+受け入れを通して感じたことなどを、この記事に書きます。
+
+ 受け入れの準備
+学生時代にエンジニア職のインターンを経験したことがありませんでした。そのため、今回はじめてインターン生の受け入れ担当に指名されてからは、何もかもが手探りで始まりました。
+
+ 任せるなら大きいタスク？小さいタスク？
+先ほど挙げた2つのシステムのうち、私が主担当を務めている... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/internship-mentoring-2026</guid>
+      <pubDate>Mon, 26 Oct 2026 01:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年の国内情報漏えい71件を侵入経路で分類してみた</title>
+      <link>https://zenn.dev/blackleg/articles/e9ed8b038bcf48</link>
+      <description>今年は情報漏えいのニュースが本当に多いです。KDDIのメールシステムで1,200万人、タイムズカーで660万件、10月に入ってからも委託先経由で大和証券やシチズンの顧客情報が漏れ、10月23日には佐川急便が最大約5,323万件という過去最多の数字を出しました。毎週のように何か出てきます。
+ただ、ニュースを個別に読んでいても「また漏れたのか」で終わってしまうので、2026年に公表された事案をまとめて並べて、どこから入られたのかで分けてみました。対象は71事案です。各社のプレスリリースや調査報告をできるだけ一次資料で読み、原因の書き方をそのまま拾っています。
+この記事でわかること
+
+2026... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/blackleg/articles/e9ed8b038bcf48</guid>
+      <pubDate>Sat, 24 Oct 2026 15:21:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>エルビス274曲の無断AI学習でAnthropicが提訴 — 約75億円請求、皮肉にもClaude自身が「著作権侵害に近い」と認めていた</title>
+      <link>https://techfeed.io/entries/6ade8b2fa850a3fc61f6123c?from=rss</link>
+      <description>10月26日、Jim Raineyが「Elvis Presley rights holder sues Anthropic, says Claude trained on unauthorized songs」と題した記事を公開した。エルビス・プレスリーの楽曲著作権を保有するパートナーシップ群がAIスタートアップAnthropicを提訴したこの件で、特筆すべきは訴状の証拠構成だ。Claudeが自ら生成した楽曲について「著作権で保護された楽曲を再現している」と評価していたという、AIモデル自身の出力が著作権侵害の証拠として引用されている。エルビスの楽曲274曲が無断でAI学習に使われたとして提訴訴訟の原告は、エルビス・プレスリーの楽曲カタログを管理するAuthentic Brands Group（ABG）が主導するパートナーシップ群だ。ABGはエルビスのブランドと知的財産ポートフォリオをElvis Presley Enterprisesから取得・管理するライセンシング会社であり、エルビス関連権利の中核的な保有主体として知られている。対象となるのは「All Shook Up」「Can't  (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ade8b2fa850a3fc61f6123c?from=rss</guid>
+      <pubDate>Sun, 25 Oct 2026 23:05:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

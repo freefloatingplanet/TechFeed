@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 10:59:44 +0000</lastBuildDate>
-    <item>
-      <title>JAXAが火星衛星探査機「MMX」の初期クリティカル運用フェーズ終了を発表</title>
-      <link>https://sorae.info/space/20261022-mmx.html</link>
-      <description>JAXA（宇宙航空研究開発機構）は2026年10月21日付で、「H3」ロケット10号機で打ち上げられた火星衛星探査機「MMX」について、打ち上げ直後の重要な運用を正常に終え、探査機の健全性を確認したと発表しました。 太陽… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20261022-mmx.html</guid>
-      <pubDate>Thu, 22 Oct 2026 02:34:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>アルテミス合意を軸とした米国防省の新施策「Space Catalyst Partnership」とは【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/47167/</link>
-      <description>米国務省の「Space Catalyst Partnership」は、アルテミス合意の署名国との関係を実際の協力へ広げる取り組みです。3つの手段と、ペルーでの初期案件を紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/47167/</guid>
-      <pubDate>Mon, 12 Oct 2026 23:02:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Oct 2026 12:32:09 +0000</lastBuildDate>
     <item>
       <title>星を生むのか消えゆくか　ハッブル宇宙望遠鏡が観測した「NGC 281」のボック・グロビュール</title>
       <link>https://sorae.info/astronomy/20261023-ngc-281.html</link>
@@ -44,6 +30,13 @@
       <pubDate>Sat, 24 Oct 2026 12:18:45 +0000</pubDate>
     </item>
     <item>
+      <title>巨大なブラックホールはどうやってジェットを噴き出す？　JAXA天文衛星「XRISM」などの観測成果</title>
+      <link>https://sorae.info/astronomy/20261026-jet-of-3c-120.html</link>
+      <description>東北大学の野田博文准教授を筆頭とする研究チームは、JAXA（宇宙航空研究開発機構）のX線分光撮像衛星「XRISM（クリズム）」と地上の電波望遠鏡による観測を通じて、物質を大量に取り込む超大質量（超巨大）ブラックホールの一… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20261026-jet-of-3c-120.html</guid>
+      <pubDate>Mon, 26 Oct 2026 11:13:51 +0000</pubDate>
+    </item>
+    <item>
       <title>アルテミス合意の署名国が77か国に　トルコやウズベキスタンなどが新たに参加</title>
       <link>https://sorae.info/space/20261021-artemis-accords-77.html</link>
       <description>アメリカ国務省は2026年10月19日、ウズベキスタンが「アルテミス合意」に署名したと発表しました。署名式は同国の都市サマルカンドで行われ、外務大臣のBakhtiyor Saidov氏が署名し、アメリカのルビオ国務長官が… (source: sorae 宇宙へのポータルサイト)</description>
@@ -51,18 +44,25 @@
       <pubDate>Wed, 21 Oct 2026 08:23:21 +0000</pubDate>
     </item>
     <item>
-      <title>JAXAが「H3」ロケット10号機を打ち上げ　火星衛星探査機「MMX」の軌道投入に成功</title>
-      <link>https://sorae.info/ssn/20261020-h3f10-mmx.html</link>
-      <description>JAXA（宇宙航空研究開発機構）は日本時間2026年10月20日に「H3」ロケット10号機の打ち上げを実施しました。搭載されていた火星衛星探査計画「MMX」の探査機について、JAXAは所定の軌道に投入したことを確認したと… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20261020-h3f10-mmx.html</guid>
-      <pubDate>Tue, 20 Oct 2026 02:20:46 +0000</pubDate>
-    </item>
-    <item>
       <title>SSC Space、アークエッジ・スペース、ElevationSpaceとMoU締結。民間企業から広がる宇宙産業成長を加速する補完関係の強化【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/47248/</link>
       <description>スウェーデン発の宇宙インフラ企業SSC Space（スウェーデン宇宙公社）は、日本の宇宙スタートアップ企業であるアークエッジ・スペースとElevationSpaceの2社と、それぞれMoUを締結しました。概要と今後への期待を記事でまとめています。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/47248/</guid>
       <pubDate>Tue, 20 Oct 2026 04:08:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>人工衛星の光や電波が天文観測の妨げに　衛星の設計・運用改善で影響軽減へ</title>
+      <link>https://sorae.info/astronomy/20261025-dark-quiet-sky.html</link>
+      <description>人工衛星の増加に伴い、衛星が反射する太陽光や、搭載機器から意図せず放射される電波が天文観測を妨げることが、近年課題となっています。宇宙利用が急速に広がるなか、星空を観測する環境への影響が問題視されています。 ESA（ヨー… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20261025-dark-quiet-sky.html</guid>
+      <pubDate>Sun, 25 Oct 2026 11:13:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open Cosmosが3億ユーロを調達。衛星の量産能力を拡大し、他国に頼らない観測・通信サービスの展開を加速【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/47261/</link>
+      <description>2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました。今回の調達資金は衛星の量産能力の拡大と、ConnectedCosmos、OpenConstellation、DataCosmosの展開加速に充てられます。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/47261/</guid>
+      <pubDate>Sun, 25 Oct 2026 23:04:58 +0000</pubDate>
     </item>
     <item>
       <title>「目指すのは宇宙産業の“接着剤”」欧州3カ国・フィンテック・車載ソフトウェア企業を経て、日本の宇宙業界に転職した越境者インタビュー</title>

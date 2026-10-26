@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Oct 2026 10:59:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:32:13 +0000</lastBuildDate>
     <item>
-      <title>Anthropic社、重要なオープンソースプロジェクト向けにオプトイン方式のセキュリティスキャン機能を追加</title>
-      <link>https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>AI企業Anthropicは、オープンソースプロジェクトの脆弱性を発見するための無料オプトインサービス「OSS Scanner」をリリースした。登録したメンテナーは、Claude Mythosを含む同社の強力なモデルによって生成された定期的なセキュリティレポートを受け取る。レポートは人間のレビューを経ずに送信され、プロジェクトメンテナーは発見内容を検証し、提案された修正案のうちどれを受け入れるかを決定できる。マット・サンダース著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate>
+      <title>Google ML Driftにより、多様なGPUにおけるデバイス上でのAI推論が高速化</title>
+      <link>https://www.infoq.com/news/2026/10/google-ml-drift/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Googleは、デバイス上でのAIおよび機械学習推論向けに設計されたオープンソースのクロスプラットフォームGPUコンピューティングエンジン「ML Drift」をリリースしました。Apache 2.0ライセンスで提供されるこのエンジンは、さまざまなGPUハードウェアと低レベルAPIの複雑さを抽象化し、OpenGL ES、OpenCL、Metal、WebGPUをサポートしています。セルジオ・デ・シモーネ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/10/google-ml-drift/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sun, 25 Oct 2026 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
