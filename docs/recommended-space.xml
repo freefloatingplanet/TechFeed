@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:32:09 +0000</lastBuildDate>
-    <item>
-      <title>星を生むのか消えゆくか　ハッブル宇宙望遠鏡が観測した「NGC 281」のボック・グロビュール</title>
-      <link>https://sorae.info/astronomy/20261023-ngc-281.html</link>
-      <description>こちらは、ハッブル宇宙望遠鏡が観測した輝線星雲「NGC 281」のクローズアップ。カシオペヤ座の方向、地球から約9500光年先にあります。 輝線星雲は、高温の星が放つ紫外線などによって電離したガスが光を放っている星雲です… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20261023-ngc-281.html</guid>
-      <pubDate>Fri, 23 Oct 2026 06:21:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>線状降水帯の発生予測から食糧安全保障、道路などのインフラ維持まで。令和9年度の宇宙関係概算要求から考える「国家インフラ」としての宇宙の使い方</title>
-      <link>https://sorabatake.jp/47077/</link>
-      <description>第124回宇宙政策委員会の配布資料から、国家インフラとなる測位・通信・地球観測といった人工衛星の使い方、また今後の私たちの暮らしをより良くするための予算の具体例を紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/47077/</guid>
-      <pubDate>Mon, 28 Sep 2026 23:59:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 11:49:45 +0000</lastBuildDate>
     <item>
       <title>2026年のノーベル物理学賞は宇宙分野　主役の「IceCube」とはなにか</title>
       <link>https://sorae.info/astronomy/20261024-nobel-prize-in-physics-2026.html</link>
@@ -49,6 +35,20 @@
       <description>スウェーデン発の宇宙インフラ企業SSC Space（スウェーデン宇宙公社）は、日本の宇宙スタートアップ企業であるアークエッジ・スペースとElevationSpaceの2社と、それぞれMoUを締結しました。概要と今後への期待を記事でまとめています。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/47248/</guid>
       <pubDate>Tue, 20 Oct 2026 04:08:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASA天文衛星「スウィフト」科学観測を終了　ガンマ線バーストを追った22年間のミッション</title>
+      <link>https://sorae.info/space/20261027-nasa-swift.html</link>
+      <description>NASA（アメリカ航空宇宙局）は2026年10月23日付で、ガンマ線観測衛星「ニール・ゲーレルス・スウィフト（Neil Gehrels Swift）」の科学ミッションが終了したと発表しました。最後の観測が行われたのは20… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20261027-nasa-swift.html</guid>
+      <pubDate>Tue, 27 Oct 2026 02:30:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【古川聡さん、田端信太郎さん、DOZAN11さんらが登壇】11月5日（木）・6日（金）、東大・安田講堂で「宇宙×不動産カンファレンス2026」。「地面師たち」の著者が月の土地を語るセッションも</title>
+      <link>https://sorabatake.jp/47268/</link>
+      <description>11月5日（木）・6日（金）の2日間、国の登録有形文化財でもある東京大学 大講堂（安田講堂）で「宇宙×不動産カンファレンス2026（SRC2026）」が開催されます。注目の登壇者とセッションをピックアップしてご紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/47268/</guid>
+      <pubDate>Tue, 27 Oct 2026 03:00:42 +0000</pubDate>
     </item>
     <item>
       <title>人工衛星の光や電波が天文観測の妨げに　衛星の設計・運用改善で影響軽減へ</title>

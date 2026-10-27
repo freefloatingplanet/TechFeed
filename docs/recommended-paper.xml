@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:32:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:49:48 +0000</lastBuildDate>
     <item>
-      <title>JWSTによる47 Tucanaeの観測：I. 水素燃焼限界までの低質量主系列</title>
-      <link>https://arxiv.org/abs/2610.18995v1</link>
-      <description>本稿では、NIRCamを用いて取得した球状星団47 Tucanae（47 Tuc、またはNGC 104）のJWST観測に基づく一連の研究の最初の結果を発表する。新しいデータと以前のJWST観測を組み合わせることにより、複数年にわたるベースライン（約3年）で高精度の固有運動（PM）を導出し、主系列（MS）に沿って非常に暗い等級（F444W～24.25等級、約0.077太陽質量に相当、47 Tucの推定水素燃焼限界（約0.074太陽質量）をわずかに上回る）まで広がる星団メンバーのクリーンなサンプルを構築する。我々は、新しいF090WおよびF444W測光を用いて、47 Tucで以前に特定された低質量MSキンクの存在を調査した。これらのフィルターを使用しても、この特徴の有意な兆候は見つからず、これは、非常に低質量の星における炭素化学がメタン優勢平衡へと移行した結果であるという、提案された物理的解釈と一致しています。理論的な等時曲線との比較から、MSの底付近の恒星集団は酸素欠乏星が優勢である可能性が高く、これは以前の発見と一致しています。人工星テストを使用して、サンプルの完全性を定量化し、PMベ (source: arXiv Query: search_query=all:observation AND (all:star OR all:stellar) AND (all:formation OR all:forming OR all:star-forming) AND (all:region OR all:regions OR all:cluster) AND ( (all:planetary AND all:mass) OR (all:brown AND all:dwarf) OR (all:free AND all:floating) )&amp;id_list=&amp;start=0&amp;max_results=20)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.18995v1</guid>
-      <pubDate>Tue, 13 Oct 2026 18:01:13 +0000</pubDate>
+      <title>VPR-Space：空間アナログ領域における視覚的位置認識のベンチマーク</title>
+      <link>https://arxiv.org/abs/2610.35642v1</link>
+      <description>視覚位置認識 (VPR) は、視覚同時自己位置推定およびマッピング (SLAM) におけるループ閉鎖検出の重要な手段です。最先端の VPR および SLAM アプローチは、都市や特徴が豊富な自然環境では優れていますが、月や火星のような広大で特徴の少ない地球外表面の環境は、既存のアプローチにとって深刻な課題となっています。本論文では、地球外表面での VPR 機能を評価するための新しいベンチマーク VPR-Space を紹介します。貢献は 3 つあります。(1) 月や火星の特性に似た地球環境である宇宙類似領域 (SAD) の既存データに基づいて、16 個の VPR データベースクエリデータセットを収集しました。このコレクションには、環境、視点の変化、照明条件に関するさまざまな課題が含まれています。(2) VPR の不適切性に対処するために、VPR ベンチマークでグラウンド トゥルース情報を生成する新しいアプローチを提案します。クエリ画像とデータベース画像が同じ場所を示すのは、カメラの姿勢が固定された位置と視線方向の閾値内にある場合のみであると定義する代わりに、下流のSLAMタスクにおいてマ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.35642v1</guid>
+      <pubDate>Mon, 26 Oct 2026 15:51:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

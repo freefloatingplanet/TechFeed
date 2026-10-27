@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:32:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:49:50 +0000</lastBuildDate>
     <item>
-      <title>Google ML Driftにより、多様なGPUにおけるデバイス上でのAI推論が高速化</title>
-      <link>https://www.infoq.com/news/2026/10/google-ml-drift/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Googleは、デバイス上でのAIおよび機械学習推論向けに設計されたオープンソースのクロスプラットフォームGPUコンピューティングエンジン「ML Drift」をリリースしました。Apache 2.0ライセンスで提供されるこのエンジンは、さまざまなGPUハードウェアと低レベルAPIの複雑さを抽象化し、OpenGL ES、OpenCL、Metal、WebGPUをサポートしています。セルジオ・デ・シモーネ著 (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/10/google-ml-drift/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Sun, 25 Oct 2026 17:00:00 +0000</pubDate>
+      <title>CloudflareとVoidZeroがtsrsを発表：AIが生成したTypeScriptのRust移植版</title>
+      <link>https://www.infoq.com/news/2026/10/cloudflare-tsrs-ai-typescript/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Cloudflare、VoidZero、Max Schwenkは、TypeScriptチームの協力を得て開発された、実験的なRust版TypeScriptコンパイラ「tsrs」を発表した。Cloudflareは、TypeScript 7.0と比較して最大8倍高速なチェックと70%少ないメモリ使用量を実現したと主張しているが、7.1ベータ版とのテストでは2.7倍の高速化にとどまった。ウォッチモードと言語サーバーは搭載されておらず、型エラーが発生すると終了コード2で終了する。執筆：Daniel Curtis (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/10/cloudflare-tsrs-ai-typescript/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 27 Oct 2026 07:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
