@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:49:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:24:13 +0000</lastBuildDate>
     <item>
-      <title>CloudflareとVoidZeroがtsrsを発表：AIが生成したTypeScriptのRust移植版</title>
-      <link>https://www.infoq.com/news/2026/10/cloudflare-tsrs-ai-typescript/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>Cloudflare、VoidZero、Max Schwenkは、TypeScriptチームの協力を得て開発された、実験的なRust版TypeScriptコンパイラ「tsrs」を発表した。Cloudflareは、TypeScript 7.0と比較して最大8倍高速なチェックと70%少ないメモリ使用量を実現したと主張しているが、7.1ベータ版とのテストでは2.7倍の高速化にとどまった。ウォッチモードと言語サーバーは搭載されておらず、型エラーが発生すると終了コード2で終了する。執筆：Daniel Curtis (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/10/cloudflare-tsrs-ai-typescript/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 27 Oct 2026 07:34:00 +0000</pubDate>
+      <title>プレゼンテーション：大規模テレメトリの処理：セルフホスト型オブザーバビリティガイド</title>
+      <link>https://www.infoq.com/presentations/self-hosted-observability-stack-tradeoffs/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>コリン・ダウチは、セルフホスト型のオブザーバビリティスタックの構築と拡張に関する、実践で実証済みの戦略を共有します。彼は、Prometheus、VictoriaMetrics、Jaegerなどのオープンソースツールを使用して、メトリクス、構造化ログ、分散トレースを効果的に相関させる方法を説明するとともに、SaaSベンダーロックインを回避するためのエンジニアリング上のトレードオフについても解説します。コリン・ダウチ著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/self-hosted-observability-stack-tradeoffs/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Wed, 28 Oct 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

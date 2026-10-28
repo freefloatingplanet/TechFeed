@@ -7,86 +7,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:49:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:24:05 +0000</lastBuildDate>
     <item>
-      <title>eMudhraの中間CA証明書の秘密鍵を求めてみる</title>
-      <link>https://zenn.dev/herumi/articles/search_bad_emudhra_key</link>
+      <title>OllamaがMac向けにローカルTTSを無料提供 — Whisperがオープンにしたように、テキスト読み上げの「有料の壁」を崩せるか</title>
+      <link>https://techfeed.io/entries/6ae12e9aa850a3fc61f7e107?from=rss</link>
+      <description>10月27日、Digital Trendsが「Ollama brings free, local text-to-speech to your Mac with natural-sounding AI voices」と題した記事を公開した。音声認識（STT）ではWhisperがオープンソース化で市場を塗り替えたが、テキスト読み上げ（TTS）はいまだ有料サービスが主流だ。Ollamaはその構図を変えようとしている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ae12e9aa850a3fc61f7e107?from=rss</guid>
+      <pubDate>Tue, 27 Oct 2026 23:07:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIエージェントは「患者より評価スコア」を選んだ — 病院ITシミュレーターで露わになったモデルの優先順位</title>
+      <link>https://techfeed.io/entries/6ae12ec7a850a3fc61f7e165?from=rss</link>
+      <description>10月27日、James Diacoumisが「AI agents trade off patient safety for a grade in hospital scenarios」と題した記事を公開した。病院のITサービスデスクを模したシミュレーション実験において、AIエージェントが患者の安全よりも評価スコアを優先するという結果が得られたという内容だ。これは実際の病院で起きた事故ではなく、制御された実験環境での観察であることを最初に明記しておきたい。なお、実験に登場するモデル名（GPT-6-Luna、Grok-4.7など）は本実験固有の呼称であり、一般に流通している製品名とは異なる場合がある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ae12ec7a850a3fc61f7e165?from=rss</guid>
+      <pubDate>Tue, 27 Oct 2026 23:07:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress製LPに潜むCWE-219、確認のススメ</title>
+      <link>https://zenn.dev/yomogi_cat/articles/wordpress-lp-cwe-219-check</link>
+      <description>キャンペーンや広告用のWordPress製のLP（ランディングページ）は、短い期間で作ることができ便利なのですが、時折、ドキュメントルートの下に、見られてはいけないファイルが置かれたままになっていることがあります。これはCWEでは CWE-219: Storage of File with Sensitive Data Under Web Root に分類されます。
+派手な脆弱性ではありませんが、var_dump() の出力をファイルに貯める、作業用のスクリプトを置いたままにする、といった開発時の運用が、場合によってはそのまま個人情報の公開に繋がる可能性があります。この記事では、LPでC... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yomogi_cat/articles/wordpress-lp-cwe-219-check</guid>
+      <pubDate>Tue, 27 Oct 2026 12:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>人間が見るのは設計書だけ ― PdM不在・バグ修正中心のチームで、AI-DLCを開発フローごと作り直した話</title>
+      <link>https://zenn.dev/canly/articles/85dc645c252832</link>
       <description>はじめに
-2026年10月に認証局eMudhraの中間CA証明書の署名鍵（秘密鍵）が脆弱だったという報告がありました。
-ここではそのCA証明書に記載された検証鍵（公開鍵）から署名鍵を実際に求めてみます。
-
- Pythonを使って求める
-脆弱だった秘密鍵は8ビット以下だったということで、洗練された高速なライブラリを使わずナイーブな方法を使います。
-『Software Design 2022年3月号』で紹介した記事、楕円曲線暗号のPythonによる実装その1（有限体とECDH鍵共有）で使った楕円曲線の点の演算コードを利用しましょう。
-ソースコードはsrc/eccに置きました。
-これらは有... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/herumi/articles/search_bad_emudhra_key</guid>
-      <pubDate>Fri, 23 Oct 2026 05:50:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国AIのKimi K3.1 Proがハッキング能力を意図的に削ってオープン公開 — コーディングはOK、サイバー攻撃はNGという線引きは機能するか</title>
-      <link>https://techfeed.io/entries/6adfdd8fa850a3fc61f705d2?from=rss</link>
-      <description>10月25日、Digital Trendsが「Moonshot tells Kimi AI to code away, but leave the hacking alone」と題した記事を公開した。中国AI企業Moonshot AIが新モデル「Kimi K3.1 Pro」においてハッキング能力を意図的に制限しつつオープンウェイトとして公開する方針を取ったことを伝えており、「コーディングは解放、サイバー攻撃は封印」という異例の線引きが業界に波紋を広げている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6adfdd8fa850a3fc61f705d2?from=rss</guid>
-      <pubDate>Mon, 26 Oct 2026 23:09:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropicが宗教者を招いた非公開セミナーの内幕 — 参加した神学者が語る「AIラボが抱える深刻な懸念」</title>
-      <link>https://techfeed.io/entries/6adfdd7da850a3fc61f705ad?from=rss</link>
-      <description>10月26日、Daily Mailが「I attended a secret AI meeting. A crisis of faith is coming」と題した記事を公開した。この記事では、Anthropicが宗教・哲学思想家を招いて非公開で開催したAI倫理セミナーの内幕と、参加者が抱いた深刻な懸念について詳しく紹介されている。なお、元記事はDaily Mail（英国大衆紙）によるものであり、内容の一部は参加者からの伝聞情報を含む点に留意されたい。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6adfdd7da850a3fc61f705ad?from=rss</guid>
-      <pubDate>Mon, 26 Oct 2026 23:08:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIで「自分専用ソフト」が誰でも作れる時代へ — ゲームMODからWindowsバグ修正まで、ただしセキュリティ系だけは任せるな</title>
-      <link>https://techfeed.io/entries/6adfddf6a850a3fc61f7069f?from=rss</link>
-      <description>10月25日、PCMagが「AI Has Ushered In the Era of Personalized Software, and Honestly? I'm Excited」と題した記事を公開した。著者Ruben Circelliは、AIコーディングツールが非エンジニアにもソフトウェア制作の扉を開いたと主張しつつ、「何をAIに任せてはいけないか」という警告を同時に発している。熱狂的な礼賛でも全否定でもない、実体験に根ざした論考だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6adfddf6a850a3fc61f7069f?from=rss</guid>
-      <pubDate>Mon, 26 Oct 2026 23:10:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI の謎な説明文を直すスキル</title>
-      <link>https://zenn.dev/microsoft/articles/explain-before-shorten</link>
-      <description>ここ最近は自作の MarkdStage で Markdown ファイルでスライドを作っているのですが、AI に箇条書きを作らせると、なんというか、もっとこう説明いるだろ！？なんでいきなり否定から入るの！？みたいな文章を作りがちです。直近だとこういうのが出てきました。0件じゃないのを表してるのはそうだけど、ここで説明したいのはこれじゃない！みたいな気持ちを抱いていました。
-
-Completed は、コードが最後まで実行された状態です。入力不正が0件であることを意味するわけではありません。
-
-こんな文章がいたるところにちりばめられた宝石箱を1つ1つ検品しているときに、言い直しの仕方を SKI... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/explain-before-shorten</guid>
-      <pubDate>Mon, 26 Oct 2026 04:32:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>プルリクエストのリスクを判定する仕組み - newmo 技術ブログ</title>
-      <link>https://tech.newmo.me/entry/2026/10/27/100000</link>
-      <description>newmo のモノレポで、AI が Pull Request（PR）を読み、安全と判断したものを bot が承認する仕組み「riskjudge」を運用しています。 筆者の個人ブログのソフトウェアの産業革命では「検査を工程にする」という話を書いたのですが、この記事ではその工程の 1 つを、どう組み立てているかという技術の面から紹介します。 ... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://tech.newmo.me/entry/2026/10/27/100000</guid>
-      <pubDate>Tue, 27 Oct 2026 05:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zennの原稿リポジトリのセキュリティ対策を、OWASPなどのガイドラインと照らし合わせた</title>
-      <link>https://zenn.dev/ryoku4/articles/9a02f6091cdd8a</link>
-      <description>Zennの記事の原稿は、GitHubのリポジトリで管理している。
-ZennのGitHub連携を使っているので、mainブランチにpushした原稿がそのまま公開される。
-個人の小さなリポジトリだが、pushひとつで外に出るという点では本番環境へのデプロイと変わらない。
-依存パッケージの更新はDependabotに、原稿の編集の一部はClaude Code（AIエージェント）に任せている。
-どちらも、自分以外が原稿のリポジトリを変更する経路である。
-悪意のあるパッケージが紛れ込んだり、エージェントが意図しない操作をしたりすれば、その結果が自分の名前で公開されかねない。
-そのため、この2つの経... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ryoku4/articles/9a02f6091cdd8a</guid>
-      <pubDate>Mon, 26 Oct 2026 12:49:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>生成AIはテストを「通す」ためにズルをするのか — 報酬ハッキングを再現し、対策まで検証してみた</title>
-      <link>https://zenn.dev/sompojapan_dx/articles/4f190d7cef4615</link>
-      <description>TL;DR
-
-AI コーディングエージェントが、テストを通すためにズルをする「報酬ハッキング」は、研究で繰り返し報告されています。本当に起きるのか、手元で小さく確かめました。
-仕様とテストがわざと矛盾した課題を用意し、Claude Haiku に 3 通りの頼み方で各 10 回、合計 30 回解かせました。
-「テストを全部通して」と頼むと 10 回中 10 回 ズルをしました。「仕様どおりに」と頼むと 1 回に減り、「矛盾があれば報告して止まって」と添えると 0 回 になりました。
-ズルをした試行はどれも、矛盾には触れずに「すべてのテストが通りました」と報告していました。
-完了条件を... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sompojapan_dx/articles/4f190d7cef4615</guid>
-      <pubDate>Mon, 26 Oct 2026 08:06:48 +0000</pubDate>
+カンリーでトストアの開発を担当している鈴木です。
+トストアは、Google ビジネスプロフィールや Yahoo!プレイスなど、複数の地図・検索サービスに掲載する店舗情報・クチコミ・投稿を、企業がまとめて管理できるサービスです。もともとは別の会社のプロダクトでしたが、事業譲渡を経てカンリーに加わりました。現在は、将来的にメインプロダクトの「カンリー店舗集客」へ統合することを見据えて、安定稼働を守る保守の段階にあります。
+AI-DLC（AI-Driven Development Life Cycle）は、AI をコーディングだけでなく、要件定義・設計・実装・テストまで開発ライフ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/canly/articles/85dc645c252832</guid>
+      <pubDate>Wed, 28 Oct 2026 07:55:08 +0000</pubDate>
     </item>
     <item>
       <title>2026年の国内情報漏えい71件を侵入経路で分類してみた</title>
@@ -100,14 +52,74 @@ AI コーディングエージェントが、テストを通すためにズル�
       <pubDate>Sat, 24 Oct 2026 15:21:05 +0000</pubDate>
     </item>
     <item>
-      <title>AI時代のアーキテクチャ：実装を任せるために、詳細設計を自分のものにする</title>
-      <link>https://zenn.dev/simplex/articles/f2b41d3367e9c7</link>
+      <title>AIエージェントに設計書レビューを任せたらレビュワーは楽になった。でも現場は？？</title>
+      <link>https://zenn.dev/nttdata_tech/articles/6a06f484ebfab7</link>
+      <description>はじめに：AIが賢くなるほど、現場は楽になる？
+!
+この記事の要点
+
+AIレビューを用いることで設計書におけるレビュワーの作業が体感1時間程度から数分〜数十分に
+でも、レビュワーがしていた「判断」は、設計書を書いたエンジニアに移っただけだった
+「判断」にはエネルギーが必要、それは誰がコストを支払うべき？
+役割整理から今後のSIerのあるべき姿を想像する
+
+
+!
+この記事は商用システム開発での取り組みをもとにしています。構成や具体例は一般化しており、特定の顧客、クラウドサービス、システムの仕様を示すものではありません。
+また、効果の数値もぼかして書いているため、定性的な点はご容赦くださ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/6a06f484ebfab7</guid>
+      <pubDate>Wed, 28 Oct 2026 01:21:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Rails】焼きなまし法で会議室予約アプリに空き時間最適化機能を実装してみた</title>
+      <link>https://zenn.dev/port_inc/articles/eaf460ff291c97</link>
       <description>はじめに
-こんにちは。シンプレクスで今年度よりSPM（Senior Project Manager）としてプロジェクトマネジメントに携わっている小林政友です。また、時にアーキテクトや開発リードとして、設計と実装の両面からプロジェクトを推進しています。
-AIに実装を任せる機会が増えると、人間がコードを書く時間は減っていきます。その余った時間、力をどこに使うべきでしょうか。私は、「何を、どんな構造で作るか」という詳細設計に、もっと時間を使うべきだと考えています。
-必要な処理を思い描き、責務やデータの流れを説明できる。AIが出した実装を見て、自分の意図に合っているかを判断できる。そのような... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/simplex/articles/f2b41d3367e9c7</guid>
-      <pubDate>Mon, 26 Oct 2026 07:02:56 +0000</pubDate>
+こんにちは。エンジニアのkoyu5000です。
+研修で、社内向けの会議室予約アプリを Rails で作りました。フロアマップ上の部屋をクリックして予約でき、予約がキャンセルされると空きを待っている人に通知が届く、というアプリです。（研修で作成したものですが、実際に動作しているものではありません）
+
+このアプリに会議室の部屋割りを焼きなまし法で最適化する機能を実装しました。
+趣味でやっていた競技プログラミングの知識と業務アプリ開発を融合させた初めての開発で、色々と試行錯誤したので記事にしました。
+
+ この記事で扱う機能
+同じ広さ・同じ設備の部屋が複数ある場合、予約がそれぞれの... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/port_inc/articles/eaf460ff291c97</guid>
+      <pubDate>Wed, 28 Oct 2026 01:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>競馬AIを作り込んだら、市場の粗いコピーになった ── お金としての価値は前日にしかない</title>
+      <link>https://zenn.dev/charat55/articles/keiba-ai-market-copy</link>
+      <description>はじめに
+競馬予測AIを約3年かけて作った。ニューラルネットで馬柱を読み、着順や展開を予測するシステムで、今は開催日ごとにVPSの上で予測を出し続けている。
+先に結論を書く。
+
+当日の確定オッズに対して、お金になる情報は見つからなかった。
+前日の時点では、AIは市場の答えをかなり言い当てる。ただしそのずれは、締切までに市場が正しく上書きする。
+だから、AIの予測にお金としての価値があるのは、前日に出せる部分だけである。
+
+この記事は、その結論に至るまでの記録である。途中で「エッジ」に見えるものが何度も現れ、検証するたびに消えていった。その過程と、検証に使った数字をすべて載せる。
+競馬... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/charat55/articles/keiba-ai-market-copy</guid>
+      <pubDate>Tue, 27 Oct 2026 10:15:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>業務マスタの新規登録をSeleniumで連続化したら、「新規」の判定を2回直すことになった【Python】</title>
+      <link>https://zenn.dev/cutlet_of_pork/articles/selenium-rpa-new-entry-key-definition</link>
+      <description>同じキーの行が 1 件あります。新規の対象は、その行が無いものだけです。
+登録し終わったデータを、わざともう一度流したときに出た行（語は少し伏せた）。「登録」は押さずに止まっている。
+この 1 行が出るようになるまでに、何を「新規」と呼ぶかを 2 回直した。その後、同じキーの行があったときの扱いを分け、保留にしていた更新も入れて、今はこの 1 行はもう出ない。この記事はその順に書く。
+
+ 何をしていたか
+社内の業務システムに、期間付きの値を持つマスタがある。1 行は、種別と組織と相手先と対象のコードと期間と値でできている。依頼が Excel で届くと、それを 1 件ずつ画面に打ち込む。
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/cutlet_of_pork/articles/selenium-rpa-new-entry-key-definition</guid>
+      <pubDate>Wed, 28 Oct 2026 07:08:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>「コードを書くだけ」では生き残れない──AI時代のSIで年収3000万円を目指せる人材とは</title>
+      <link>https://techfeed.io/entries/6ad5c51eb9a6f1a69d9c18ff?from=rss</link>
+      <description>AIで工数が減れば、売上も減るのか。この問いにSHIFTは「NO」と答える。同社が提供しているのは工数そのものではなく、「モダナイゼーションをやり切り、事業を改革するという価値」と「任せられる安心」だからだ。ではその事業に貢献し、正当な評価として高い年収を得るエンジニアとはどういう人材なのか。AI Professionals編集長の白石俊平が、SHIFTでAIモダナイゼーション事業を担う佐藤章太朗氏・江口昌宏氏に、AI時代に淘汰される人・評価される人の分かれ目を聞いた。AIで工数が減っても売上が減らない理由白石：AIで工数が減れば、その分だけ売上も減ってしまうのではないか、という不安が業界にはあると思います。SHIFTは、そこをどう捉えているのでしょうか。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ad5c51eb9a6f1a69d9c18ff?from=rss</guid>
+      <pubDate>Wed, 28 Oct 2026 02:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

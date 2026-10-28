@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:49:45 +0000</lastBuildDate>
-    <item>
-      <title>2026年のノーベル物理学賞は宇宙分野　主役の「IceCube」とはなにか</title>
-      <link>https://sorae.info/astronomy/20261024-nobel-prize-in-physics-2026.html</link>
-      <description>素粒子「ニュートリノ」は、従来では取得できなかった高エネルギーの天文現象の情報を持っていると考えられている一方、非常に観測が難しいという課題もあります。 2026年10月6日、スウェーデン王立科学アカデミーは、「IceC… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20261024-nobel-prize-in-physics-2026.html</guid>
-      <pubDate>Sat, 24 Oct 2026 12:18:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>巨大なブラックホールはどうやってジェットを噴き出す？　JAXA天文衛星「XRISM」などの観測成果</title>
-      <link>https://sorae.info/astronomy/20261026-jet-of-3c-120.html</link>
-      <description>東北大学の野田博文准教授を筆頭とする研究チームは、JAXA（宇宙航空研究開発機構）のX線分光撮像衛星「XRISM（クリズム）」と地上の電波望遠鏡による観測を通じて、物質を大量に取り込む超大質量（超巨大）ブラックホールの一… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20261026-jet-of-3c-120.html</guid>
-      <pubDate>Mon, 26 Oct 2026 11:13:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>アルテミス合意の署名国が77か国に　トルコやウズベキスタンなどが新たに参加</title>
-      <link>https://sorae.info/space/20261021-artemis-accords-77.html</link>
-      <description>アメリカ国務省は2026年10月19日、ウズベキスタンが「アルテミス合意」に署名したと発表しました。署名式は同国の都市サマルカンドで行われ、外務大臣のBakhtiyor Saidov氏が署名し、アメリカのルビオ国務長官が… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20261021-artemis-accords-77.html</guid>
-      <pubDate>Wed, 21 Oct 2026 08:23:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Oct 2026 12:24:09 +0000</lastBuildDate>
     <item>
       <title>SSC Space、アークエッジ・スペース、ElevationSpaceとMoU締結。民間企業から広がる宇宙産業成長を加速する補完関係の強化【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/47248/</link>
@@ -65,6 +44,13 @@
       <pubDate>Sun, 25 Oct 2026 23:04:58 +0000</pubDate>
     </item>
     <item>
+      <title>「投資すべき技術の価値は測れるのか」國中均先生 × 山﨑さん対談、研究者だけでは実現できなかった大きな偉業の背景にあったもの</title>
+      <link>https://sorabatake.jp/47209/</link>
+      <description>総合研究大学院大学で、元JAXA宇宙科学研究所長、小惑星探査機「はやぶさ」の成功に不可欠であったイオンエンジンの開発者である國中均先生と、Tellus Globalの代表取締役である山﨑秀人さんとの対談取材を実施。後編では、昨今の宇宙開発に思うことや、投資すべき技術の価値はどのように決まるのかといった問いに回答いただきました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/47209/</guid>
+      <pubDate>Tue, 27 Oct 2026 23:01:15 +0000</pubDate>
+    </item>
+    <item>
       <title>「目指すのは宇宙産業の“接着剤”」欧州3カ国・フィンテック・車載ソフトウェア企業を経て、日本の宇宙業界に転職した越境者インタビュー</title>
       <link>https://sorabatake.jp/47138/</link>
       <description>非宇宙業界から宇宙業界に転職をした人に焦点を当てたインタビュー連載「Why Space」、15人目のインタビュイーは株式会社Fusicの武田さんです。食品メーカーの法人営業から欧州3カ国を渡り歩いた越境者が、宇宙業界に見つけた「入り口」とは。 (source: 宙畑)</description>
@@ -72,11 +58,25 @@
       <pubDate>Thu, 22 Oct 2026 23:00:23 +0000</pubDate>
     </item>
     <item>
+      <title>人工衛星の「帯電」をAIで自動検出　約19年分のデータから帯電しやすい宇宙環境が明らかに</title>
+      <link>https://sorae.info/space/20261028-satellite-charging-ai.html</link>
+      <description>九州工業大学とJAXA（宇宙航空研究開発機構）の研究グループは2026年10月28日、AI（人工知能）を使って人工衛星の表面が帯電する現象を自動的に検出する手法を開発したと発表しました。約19年分の観測データを解析し、衛… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20261028-satellite-charging-ai.html</guid>
+      <pubDate>Wed, 28 Oct 2026 06:31:15 +0000</pubDate>
+    </item>
+    <item>
       <title>「宇宙業界は、地上の経験を求めている」異業種から転職した3人が語る宇宙業界のリアル【SPACETIDE Career Connect 2026 Summer】</title>
       <link>https://sorabatake.jp/47228/</link>
       <description>2026年9月26日に開催された宇宙業界に特化したキャリアイベント『SPACETIDE Career Connect 2026 Summer』の特別セッションで語られた宇宙業界への転職のリアルの内容をまとめました。後日談として、登壇した3名の言い残しも収録しています！ (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/47228/</guid>
       <pubDate>Sun, 18 Oct 2026 06:17:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>「成功のイメージは、一度も湧かなかった」はやぶさのメインエンジンを担当した國中均先生が今だから話せること</title>
+      <link>https://sorabatake.jp/47193/</link>
+      <description>現在は総合研究大学院大学に所属し、元JAXA宇宙科学研究所長、小惑星探査機「はやぶさ」の成功に不可欠であったイオンエンジンの開発者である國中均先生と、Tellus Globalの代表取締役である山﨑秀人さんとの対談取材を実施。前編では、國中先生の失敗経験と乗り越えた話、また、はやぶさのメインエンジンにイオンエンジンを用いることになった裏話を教えていただきました。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/47193/</guid>
+      <pubDate>Tue, 27 Oct 2026 23:00:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
