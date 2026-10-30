@@ -7,59 +7,68 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 12:33:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:25:07 +0000</lastBuildDate>
     <item>
-      <title>Flutter やめました。電話アプリを Native にした理由</title>
-      <link>https://zenn.dev/ivry/articles/d155267331a3ca</link>
+      <title>DOGEの元メンバーが作ったAIスタートアップ、Anthropicを12時間以内にハックと主張 — 評価額約2,200億円の新興企業が示すAIエージェント攻撃の現実</title>
+      <link>https://techfeed.io/entries/6ae3d1e974d60e1304bac65e?from=rss</link>
+      <description>10月29日、Futurismが「Elon Musk-Linked Startup Says Its AI Agents Hacked Anthropic in Just Hours」と題した記事を公開した。イーロン・マスクのDOGE出身者が創業したAIセキュリティスタートアップ「Cathedral」が、AIエージェントを用いてAnthropicの内部システムへの侵入に成功したと主張している件について詳しく報じている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ae3d1e974d60e1304bac65e?from=rss</guid>
+      <pubDate>Thu, 29 Oct 2026 23:08:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年</title>
+      <link>https://zenn.dev/dress_code/articles/bbc5159fefbd2c</link>
       <description>はじめに
-こんにちは。株式会社IVRyで Engineering Managerをしています。tsutou です。
-アイブリーのモバイルアプリのユースケースは、電話の転送を受けたり、着信を折り返して発信したりすることがメインです。
-体験としては、アイブリーの対話型音声AIで、一次対応を自動化しながら、忙しい最中でも人が出ないといけない電話に応答する体験が、そのままエンドユーザーの体験になります。
-https://note.com/ryoji_miyazaki3/n/n6b6ddc323520
-そんな中で、このアプリで進めていた Flutter Exit というプロジェクトが今月に完了... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ivry/articles/d155267331a3ca</guid>
-      <pubDate>Wed, 28 Oct 2026 02:39:36 +0000</pubDate>
+こんにちは、プロダクトエンジニアをしているもず（@mozu1206）です。
+2025年10月に Dress Codeに入社して、1年が経ちました。
+せっかくなので、この1年を振り返った記事を書いてみます！
+入社3ヶ月のときに、フロントエンド専任からプロダクトエンジニアになって「強制成長」している話を書きました。
+
+あの記事は、ほぼ初めて触るバックエンドやインフラがメインのタスクで どこで詰まって、どう抜けたかの話でした。
+当時は、知らない単語が出てくるたびに手が止まり、調べて理解する、の繰り返しでした。
+Dress Codeでは、基本的に1人のエンジニアがフロントエンドから... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/bbc5159fefbd2c</guid>
+      <pubDate>Thu, 29 Oct 2026 10:30:05 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeを褒めちぎってみた</title>
-      <link>https://zenn.dev/devlog/articles/abc194ecf04dfc</link>
-      <description>Claude Codeに「君は本当に素晴らしい」と伝えたら、私が過去にやらかした失敗のリストが3件返ってきました。
-そのときの会話を、流れを変えずに短く整えて載せます。引用の形にした私の発言2か所だけは、原文そのままです。
-
- 褒めた
-その日は本当にそう思っていたので、そのまま伝えました。
-私：君は本当に素晴らしい。知見をたくさんもらっているし、雑談にも角度をつけてくれる。ノートも育った。新しい世界が見えている気がする。
-
-Claude Code：ありがとうございます。ただ、続けると決めているのはあなたの側です。
-
-私：いや、自分は君から膨大な知見をもらった上でわからない点を質問してるだ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/devlog/articles/abc194ecf04dfc</guid>
-      <pubDate>Thu, 29 Oct 2026 03:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIのコード解析を妨害するために「天安門事件」「台湾独立」「水道水に毒物混入」などのフレーズを大量に混入させる手法が発見される</title>
-      <link>https://gigazine.net/news/20261029-anti-ai-words-in-script/</link>
-      <description>AIには悪意ある用途での使用をブロックするための安全対策が施されているほか、特定の分野のフレーズを拒否している場合もあります。こうしたAIの挙動を逆手に取り、危険とみなされる単語をコードに紛れ込ませることでAIによる解析を妨害しているとみられるプログラムが、セキュリティ研究者のveritas氏によって発見され... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20261029-anti-ai-words-in-script/</guid>
-      <pubDate>Thu, 29 Oct 2026 11:05:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Codeで半年分のレビュー指摘を分類してみた</title>
-      <link>https://zenn.dev/port_inc/articles/a4bc3b39f44459</link>
+      <title>JavaScriptで制作した診断アプリを振り返る</title>
+      <link>https://qiita.com/Nsh0/items/8bdaed47ccf7c8cfb6ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
       <description>はじめに
-新卒でエンジニアとして入社し、実務に入ってからレビューの指摘で手戻りが多く発生することに悩んでいました。
-一度受けた指摘は、今後のタスクで踏まないように気をつけることができます。しかし、実務に入ったばかりの段階では、自分が受けた指摘だけでは踏んでいない落とし穴に気づけず、手戻りを減らすのは難しい状況でした。
-そこで、これまで蓄積された他の人の PR レビュー指摘をまとめて振り返ってみることにしました。調べてみると、既存の書き方に揃っていない、テストが足りない、不要なコードなどといった指摘が、担当者や PR が違っても何度も出てきていました。
-この記事では過去のレビュー指摘を... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/port_inc/articles/a4bc3b39f44459</guid>
-      <pubDate>Wed, 28 Oct 2026 01:00:06 +0000</pubDate>
+この記事ではJavaScriptの復習の一環として制作したアプリの構成について整理しています。
+どういう仕組みで完成したのか、それぞれの役割とは？を振り返っていきます。
+初心者向けの記事になりますので、気になる点があればぜひFB頂けますと幸いです。
+大まかな構成... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Nsh0/items/8bdaed47ccf7c8cfb6ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Thu, 29 Oct 2026 12:06:45 +0000</pubDate>
     </item>
     <item>
-      <title>AIで「生産性2倍」は本当か — コード行数・PR数で測るのをやめるべき理由</title>
-      <link>https://techfeed.io/entries/6ae2820b74d60e1304b9fb71?from=rss</link>
-      <description>10月28日、James Shoreが「Are You Getting Your Money's Worth From AI?」と題した記事を公開した。AI投資のROIをエンジニアリング組織がどう正しく測定すべきか、そして陥りがちな誤った指標の使い方について詳しく論じた内容だ。なかでも衝撃的なのが、METRの研究が示した「体感49%向上→実測19%低下」という知見であり、AIが生産性を高めているという自己申告がいかに当てにならないかを端的に示している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ae2820b74d60e1304b9fb71?from=rss</guid>
-      <pubDate>Wed, 28 Oct 2026 23:15:23 +0000</pubDate>
+      <title>人間がコードを読まずにPRをマージする技術 ─ それでも、品質は手放さない</title>
+      <link>https://zenn.dev/karamage/articles/ac71f1c89c73ff</link>
+      <description>ある日ブラウザを開くと、私のGitHubの通知欄に未レビューのPRが20件ほどたまっていました。
+全部、Claude Codeが書いたPRで、私が1件を読み終えるあいだに、Claudeは次のPRを2件出してきます。
+ある日、私は気づいてしまいました。
+この勝負、人間は絶対に勝てない、、、
+みなさんは、AIが出してくるPRを、ちゃんと全部読めていますか？
+私は読めていませんでした。
+読んでいるふりをして、LGTMを押していただけでしただけの無能です＞＜
+
+ AIが書くコードを、人間が全部読むのはもう無理です＞＜
+
+AIが書くコードを、人間が全部読んでコードレビューするのはもう無理です。
+だ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/karamage/articles/ac71f1c89c73ff</guid>
+      <pubDate>Thu, 29 Oct 2026 08:26:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年自分流AIエージェント環境構築の秋</title>
+      <link>https://zenn.dev/rescuenow/articles/49826fc6cc2713</link>
+      <description>はじめに
+こんにちは、しもちです。
+最近は自分でコードを書くことがめっきり減り、毎日開いていた VS Code も気づけばしばらく起動していません。長く付き合ってきたエディタとお別れして、少し寂しさを感じる秋です。
+以前は複数のエージェントの間を反復横跳びしながら指示を出していて、タスクがあるたびに、使うディレクトリを選び、エージェントを起動し、タスクを投げるところまでを毎回自分で決めていました。この流れをひとまとめにして手間を減らしたくて、重い腰をあげてエージェントのオーケストレーションを始めてみました。
+これを1か月ほど使いながら改善し続けるうちに、形が変わっていきました。よくあ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/rescuenow/articles/49826fc6cc2713</guid>
+      <pubDate>Fri, 30 Oct 2026 00:55:31 +0000</pubDate>
     </item>
     <item>
       <title>コードを読まずにマージするために必要なこと</title>
@@ -77,14 +86,11 @@ Claude Code：ありがとうございます。ただ、続けると決めてい
       <pubDate>Tue, 27 Oct 2026 11:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>人間が見るのは設計書だけ ― PdM不在・バグ修正中心のチームで、AI-DLCを開発フローごと作り直した話</title>
-      <link>https://zenn.dev/canly/articles/85dc645c252832</link>
-      <description>はじめに
-カンリーでトストアの開発を担当している鈴木です。
-トストアは、Google ビジネスプロフィールや Yahoo!プレイスなど、複数の地図・検索サービスに掲載する店舗情報・クチコミ・投稿を、企業がまとめて管理できるサービスです。もともとは別の会社のプロダクトでしたが、事業譲渡を経てカンリーに加わりました。現在は、将来的にメインプロダクトの「カンリー店舗集客」へ統合することを見据えて、安定稼働を守る保守の段階にあります。
-AI-DLC（AI-Driven Development Life Cycle）は、AI をコーディングだけでなく、要件定義・設計・実装・テストまで開発ライフ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/canly/articles/85dc645c252832</guid>
-      <pubDate>Wed, 28 Oct 2026 07:55:08 +0000</pubDate>
+      <title>「AIを断る権利」をテック系労組が法的に要求 — 同意なきAI導入に、エンジニアは何を問われているのか</title>
+      <link>https://techfeed.io/entries/6ae3d1f774d60e1304bac676?from=rss</link>
+      <description>10月30日、Jon Swartzが「Tech Workers Must Have Right to Refuse AI on the Job, Union Demands」と題した記事を公開した。テック系労働組合UTAW（Union of Tech and Allied Workers）が、職場でのAI利用を拒否する権利を法的に求める運動を展開しているという内容だ。「AIを断る権利」という言葉は一見過激に聞こえるが、その背景には、企業が労働者の同意なしにAIツールをワークフローへ組み込んできた実態への、組織的な異議申し立てがある。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ae3d1f774d60e1304bac676?from=rss</guid>
+      <pubDate>Thu, 29 Oct 2026 23:08:39 +0000</pubDate>
     </item>
     <item>
       <title>Claude Codeで「QAチーム」を組んだら、効いたのは「捨てる仕組み」だった ― AIだけが見つけた不具合・見逃しは？</title>
@@ -120,11 +126,14 @@ AIレビューを用いることで設計書におけるレビュワーの作業
       <pubDate>Wed, 28 Oct 2026 01:21:43 +0000</pubDate>
     </item>
     <item>
-      <title>「コードを書くだけ」では生き残れない──AI時代のSIで年収3000万円を目指せる人材とは</title>
-      <link>https://techfeed.io/entries/6ad5c51eb9a6f1a69d9c18ff?from=rss</link>
-      <description>AIで工数が減れば、売上も減るのか。この問いにSHIFTは「NO」と答える。同社が提供しているのは工数そのものではなく、「モダナイゼーションをやり切り、事業を改革するという価値」と「任せられる安心」だからだ。ではその事業に貢献し、正当な評価として高い年収を得るエンジニアとはどういう人材なのか。AI Professionals編集長の白石俊平が、SHIFTでAIモダナイゼーション事業を担う佐藤章太朗氏・江口昌宏氏に、AI時代に淘汰される人・評価される人の分かれ目を聞いた。AIで工数が減っても売上が減らない理由白石：AIで工数が減れば、その分だけ売上も減ってしまうのではないか、という不安が業界にはあると思います。SHIFTは、そこをどう捉えているのでしょうか。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ad5c51eb9a6f1a69d9c18ff?from=rss</guid>
-      <pubDate>Thu, 29 Oct 2026 01:20:53 +0000</pubDate>
+      <title>WASIじゃない、もう一つのインターフェース「WALI」という提案</title>
+      <link>https://zenn.dev/progate/articles/wali-webassembly-linux-interface</link>
+      <description>はじめに
+最近、仕事でいろんな言語やツールをWebAssembly（wasm）にして、ブラウザーの中で動かすことをやっています。RubyやPython、vimのような、もともとLinuxやMacで動いているプログラムをソースからwasmにビルドする作業です。
+このとき毎回悩むのが、ファイルを開く、プロセスを増やす、といった機能をどうするかです。wasmそのものはこうした機能を持っていないので、外から用意してあげる必要があります。よく使われるのは、JavaScriptで用意した関数に任せるEmscriptenと、WASIという標準の関数のセットを使う方法の2つです。
+僕はWASIを使う... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/progate/articles/wali-webassembly-linux-interface</guid>
+      <pubDate>Fri, 30 Oct 2026 00:45:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
