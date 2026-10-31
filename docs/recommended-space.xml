@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 12:25:10 +0000</lastBuildDate>
-    <item>
-      <title>巨大なブラックホールはどうやってジェットを噴き出す？　JAXA天文衛星「XRISM」などの観測成果</title>
-      <link>https://sorae.info/astronomy/20261026-jet-of-3c-120.html</link>
-      <description>東北大学の野田博文准教授を筆頭とする研究チームは、JAXA（宇宙航空研究開発機構）のX線分光撮像衛星「XRISM（クリズム）」と地上の電波望遠鏡による観測を通じて、物質を大量に取り込む超大質量（超巨大）ブラックホールの一… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20261026-jet-of-3c-120.html</guid>
-      <pubDate>Mon, 26 Oct 2026 11:13:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 31 Oct 2026 11:55:09 +0000</lastBuildDate>
     <item>
       <title>宇宙と地上を1つのネットワークに。次世代衛星1万5,000機の認可に続き、SpaceXはなぜ全米の「地上の周波数」を買うのか【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/47336/</link>
@@ -77,6 +70,13 @@
       <description>現在は総合研究大学院大学に所属し、元JAXA宇宙科学研究所長、小惑星探査機「はやぶさ」の成功に不可欠であったイオンエンジンの開発者である國中均先生と、Tellus Globalの代表取締役である山﨑秀人さんとの対談取材を実施。前編では、國中先生の失敗経験と乗り越えた話、また、はやぶさのメインエンジンにイオンエンジンを用いることになった裏話を教えていただきました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/47193/</guid>
       <pubDate>Tue, 27 Oct 2026 23:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>インド、次世代測位衛星「NVS-03」の打ち上げに成功　衛星不足が続くNavICの再建へ</title>
+      <link>https://sorae.info/ssn/20261031-gslv-f18-nvs-03.html</link>
+      <description>ISRO（インド宇宙研究機関）は日本時間2026年10月31日、「GSLV-F18」ロケットの打ち上げを実施しました。搭載されていた測位衛星「NVS-03」は所定の軌道へ投入されたことを、ISROが公式サイトで報告してい… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20261031-gslv-f18-nvs-03.html</guid>
+      <pubDate>Sat, 31 Oct 2026 04:36:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
