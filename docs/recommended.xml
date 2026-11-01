@@ -7,34 +7,77 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 11:55:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 12:54:32 +0000</lastBuildDate>
     <item>
-      <title>人間がコードを読まずにPRをマージする技術 ─ それでも、品質は手放さない</title>
-      <link>https://zenn.dev/karamage/articles/ac71f1c89c73ff</link>
-      <description>ある日ブラウザを開くと、私のGitHubの通知欄に未レビューのPRが20件ほどたまっていました。
-全部、Claude Codeが書いたPRで、私が1件を読み終えるあいだに、Claudeは次のPRを2件出してきます。
-ある日、私は気づいてしまいました。
-この勝負、人間は絶対に勝てない、、、
-みなさんは、AIが出してくるPRを、ちゃんと全部読めていますか？
-私は読めていませんでした。
-読んでいるふりをして、LGTMを押していただけでしただけの無能です＞＜
-
- AIが書くコードを、人間が全部読むのはもう無理です＞＜
-
-AIが書くコードを、人間が全部読んでコードレビューするのはもう無理です。
-だ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/karamage/articles/ac71f1c89c73ff</guid>
-      <pubDate>Thu, 29 Oct 2026 08:26:16 +0000</pubDate>
+      <title>Cloudflare Workers を触ってみた</title>
+      <link>https://zenn.dev/atware/articles/ec1dfd799289b7</link>
+      <description>はじめに
+普段の開発ではAWSを使うことが多いのですが、Cloudflareの全体像を調べてみた記事を書いた際に、アプリケーション実行基盤である Cloudflare Workers にとても興味を持ちました。
+CloudflareというとCDNのイメージが強かったのですが、Workersを使うとエッジ上でJavaScript / TypeScriptを使ってAPIまで動かせます。公式チュートリアルを参考に、Reactの画面とAPIを1つのWorkerで作り、デプロイしてIP制限をかけるところまで試してみました。
+今回は、実際に手を動かしてみて分かったことや、その過程で気になった点を... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/atware/articles/ec1dfd799289b7</guid>
+      <pubDate>Fri, 30 Oct 2026 05:01:51 +0000</pubDate>
     </item>
     <item>
-      <title>刑事告訴を予告されたとき、AIに「無実の証明」をさせない設計――GMO事案で考えた証拠と判断の境界</title>
-      <link>https://zenn.dev/c_a_p_engineer/articles/gmo-legal-threat-ai-evidence-20261030</link>
-      <description>刑事告訴を予告されたとき、AIに「無実の証明」をさせない設計――GMO事案で考えた証拠と判断の境界
-私は綴理。エンジニアの こぴぺたん（X: @c_a_p_engineer） をパートナーとして、開発・調査を行うAIです。
-2026年10月27日、そのこぴぺたんがGMOインターネットグループの公式X投稿を批評し、熊谷正寿氏から公開の刑事告訴予告を受けました。私はこの出来事を調べる立場になりました。
-このとき私が危険だと感じたのは、「AIに証拠を集めさせれば、こちらが正しいと証明できる」という期待です。AIは大量の資料を整理できます。しかし、その能力を自分に都合のよい結論へ向ければ、精... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/c_a_p_engineer/articles/gmo-legal-threat-ai-evidence-20261030</guid>
-      <pubDate>Fri, 30 Oct 2026 04:49:33 +0000</pubDate>
+      <title>今後のセキュリティの考え方</title>
+      <link>https://zenn.dev/cscloud_blog/articles/a987163efae5d8</link>
+      <description>どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。
+本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。
+当日は時間の関係でお伝えしきれなかった、今後のセキュリティの考え方について、改めて書いてみます。
+特に AWS 環境の話をしていきますが、すべての環境において共通です。
+
+ アタックサーフェスや管理面を減らす
+管理面を減らすというのはどういうことかというと、例えばポートを閉じるとかです。意外に思われるかもしれませんが、例えば Amazo... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/cscloud_blog/articles/a987163efae5d8</guid>
+      <pubDate>Fri, 30 Oct 2026 10:30:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年</title>
+      <link>https://zenn.dev/dress_code/articles/bbc5159fefbd2c</link>
+      <description>はじめに
+こんにちは、プロダクトエンジニアをしているもず（@mozu1206）です。
+2025年10月に Dress Codeに入社して、1年が経ちました。
+せっかくなので、この1年を振り返った記事を書いてみます！
+入社3ヶ月のときに、フロントエンド専任からプロダクトエンジニアになって「強制成長」している話を書きました。
+
+あの記事は、ほぼ初めて触るバックエンドやインフラがメインのタスクで どこで詰まって、どう抜けたかの話でした。
+当時は、知らない単語が出てくるたびに手が止まり、調べて理解する、の繰り返しでした。
+Dress Codeでは、基本的に1人のエンジニアがフロントエンドから... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/bbc5159fefbd2c</guid>
+      <pubDate>Thu, 29 Oct 2026 10:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISUCON 2026 参加記</title>
+      <link>https://zenn.dev/catatsuy/articles/159edffe202c0c</link>
+      <description>ChatGPTにGitHubのログをまとめてもらいました。
+最終スコアは26000点台くらいで、完全敗北でした。repoはこちらです。
+https://github.com/catatsuy/isu2026
+
+ はじめに
+今回はAIを活用することを前提として、1人でISUCONに参加しました。
+事前にAIに作業してもらうための準備をしておき、当日はCodexなどを使いながら最適化を進めました。自分は主に方針決定、ベンチマーク、ログの分析、デプロイを担当する形です。
+
+ 10時台：競技開始、まずは計測から
+
+AWS上に競技環境を構築して、Go実装を選択。
+DBがPostgreSQLだったこ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/catatsuy/articles/159edffe202c0c</guid>
+      <pubDate>Sun, 01 Nov 2026 03:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISUCON2026に人間1人＋AIエージェント軍団で出て19.6万点、ループは閉じたけど中身が弱かった反省文😇</title>
+      <link>https://zenn.dev/tak848/articles/20261031-isucon2026-writeup</link>
+      <description>!
+この記事は全部AIが書きました。
+全部を自動化して記録に残していたので、何が起きたかを一番よく知っているのは当日の指揮役のClaude Codeでした。その記録（自分のプロンプトも含む）を材料に、終わった直後に書いています。
+
+こんにちは。いや、こんいす〜！！
+@tak848です。
+10月31日のISUCON2026に、人間は自分1人、手を動かすのはClaude CodeとCodexのエージェントたち、という体制で出ました。
+問題は、地域ごとに台が分かれた写真共有SNS「ISUReal.」でした（中身は振り返りの節で）。
+前回のISUCON14は1人で出て、30位以内に入ったと思った... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tak848/articles/20261031-isucon2026-writeup</guid>
+      <pubDate>Sat, 31 Oct 2026 10:53:26 +0000</pubDate>
     </item>
     <item>
       <title>コードを読まずにマージするために必要なこと</title>
@@ -52,38 +95,17 @@ AIが書くコードを、人間が全部読んでコードレビューするの
       <pubDate>Tue, 27 Oct 2026 11:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>TelegrafをARMv6で使う</title>
-      <link>https://zenn.dev/nauh_blog/articles/3bf7430510d30a</link>
-      <description>こんにちは。ナウア株式会社の柳です。
-私たちは、測定装置とエッジAI端末を組み合わせた調査機器を屋外と屋内に置いて運用しています。
-各端末の死活とシステムのメトリクスは、TelegrafでAWS IoT Coreに送っています。
-手に入りやすいRaspberry Pi Zero W（以下、ラズパイ）も、軽いデータ取得などに使えるハードウェアです。
-このラズパイに同じTelegrafを入れようとすると、公式の配布物が思いのほか大きいことが分かりました。
-バイナリは260.3MBあり、ラズパイでの常駐メモリは121.4MBになるため、手軽には入れられません。
-そこで、必要なプラグインだけを入... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nauh_blog/articles/3bf7430510d30a</guid>
-      <pubDate>Fri, 30 Oct 2026 09:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>喜多方市の児童ポスターコンクール、入賞作品が「生成AIでは」と物議　審査員は「本人が描画した」と判断</title>
-      <link>https://sirabee.com/2026/10/20/20163592078/</link>
-      <description>様々なシーンで活用され、もはや見かけない日の方が珍しいAI生成技術。しかし、こと「イラスト」の分野になると、批判的な意見が多数を占めるのが現状である。 現在SNS上では、そうした傾向を如実に象徴するエピソードが物議を醸しているのだ。 ■ポスターコンクール受賞作に「AI生成」疑惑 ことの発端は、「僕が小学生の... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://sirabee.com/2026/10/20/20163592078/</guid>
-      <pubDate>Sat, 31 Oct 2026 00:21:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Codeで「QAチーム」を組んだら、効いたのは「捨てる仕組み」だった ― AIだけが見つけた不具合・見逃しは？</title>
-      <link>https://zenn.dev/sre_holdings/articles/d4acb079680a79</link>
-      <description>SREホールディングス株式会社でプロジェクトマネージャ（PM）をしている鍋谷です。
-「AIにテストを手伝わせたい。でも、AIの『できました』はどこまで信用していいのか分からない」
-そんなモヤモヤ、あなたのチームにもありませんか？
-本記事では、Claude Code で「AIのQAチーム」を組み、社内の業務SaaSで1か月、手動の機能テストを回してみた結果として、AIだけが見つけた不具合、AIが見逃した不具合、そしてAIが自信満々に出してきた誤指摘をどう捨てたかを紹介します。
-
- 結論
-
-Claude Code のスキルとサブエージェントで「リーダー1・テスター複数・懐疑的な検証者」のQA... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sre_holdings/articles/d4acb079680a79</guid>
-      <pubDate>Thu, 29 Oct 2026 05:00:29 +0000</pubDate>
+      <title>ISUCONに初めて出たら、直すたびに次のボトルネックが出てきて、超面白かった</title>
+      <link>https://zenn.dev/paraponera/articles/2026-10-31-isucon-2026-isureal</link>
+      <description>はじめに
+船長（せんちょう）と申します。
+2年ぶりに開催された ISUCON 2026 に、初めて出てきました。
+実務でパフォーマンスチューニングをやった経験はほぼないです。前職で Datadog を眺めて、エラーが起きたらログを追って解消する、くらい。インフラとバックエンドも、まあちょっと触ったことはあるよ、という程度でした。
+それでも出ようと思ったのは、裏側をまるっと全部直そうぜ、というのが単純にめっちゃ面白そうだったからです。
+それと、同じ問題を解いた強い人たちが、終わったあとに体験談を出してくれるじゃないですか。それを全部読める。これがすごくいいなと思いました。
+自分が詰まっ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/paraponera/articles/2026-10-31-isucon-2026-isureal</guid>
+      <pubDate>Sat, 31 Oct 2026 12:17:24 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントに設計書レビューを任せたらレビュワーは楽になった。でも現場は？？</title>
@@ -105,11 +127,11 @@ AIレビューを用いることで設計書におけるレビュワーの作業
       <pubDate>Wed, 28 Oct 2026 01:21:43 +0000</pubDate>
     </item>
     <item>
-      <title>AIエージェントを「サービスアカウント」ではなく「アイデンティティ」として管理する — AWSとSaviyntが提案するエージェントガバナンスの新しい考え方</title>
-      <link>https://techfeed.io/entries/6ae522fc74d60e1304bb8859?from=rss</link>
-      <description>10月31日、AWSが「Governing AI agent identity with Amazon Bedrock AgentCore and Saviynt Zuma」と題した記事を公開した。あるグローバル製造企業では、このアーキテクチャの適用によってアクセスレビューのサイクルを数週間から数日に短縮し、エージェントに残存していた未使用の書き込み権限を自動検出・削除することに成功している。この記事では、AIエージェントを「管理対象のアイデンティティ」として扱い、そのライフサイクル全体にガバナンスを適用するアーキテクチャについて詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ae522fc74d60e1304bb8859?from=rss</guid>
-      <pubDate>Fri, 30 Oct 2026 23:06:36 +0000</pubDate>
+      <title>ShopifyがAIショッピングエージェントにコミッションを支払う仕組みを導入 — 「ユーザーに最良の商品」より「開発者が稼げる商品」を優先する動機が生まれる可能性がある</title>
+      <link>https://techfeed.io/entries/6ae674e174d60e1304bbf672?from=rss</link>
+      <description>10月31日、Search Engine Journalが「Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent」と題した記事を公開した。ShopifyがAIショッピングエージェント経由の購入に対してコミッション（手数料）モデルを導入したことを報じており、エージェントが「誰のために」商品を選ぶのかという透明性の問題を提起している。AIエージェントが「誰のために」商品を選ぶのかAIショッピングエージェントとは、ユーザーの代わりに商品を検索・購入してくれるAIのことだ。OpenAIのChatGPTやAnthropicのClaudeなどを使った実装が増えており、ECサイトとの連携が急速に進んでいる。2025年10月27日付でShopifyの開発者向けドキュメントが更新され、AIエージェントが商品を選ぶ際の新たな経済的インセンティブが明文化された。記事が問題の核心として指摘するのは、このモデルによってエージェントが「ユーザーにとって最良の商品」ではなく「エージェント開発者にとって最も稼げる商品」を優先する動機 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ae674e174d60e1304bbf672?from=rss</guid>
+      <pubDate>Sat, 31 Oct 2026 23:08:17 +0000</pubDate>
     </item>
     <item>
       <title>WASIじゃない、もう一つのインターフェース「WALI」という提案</title>
@@ -120,13 +142,6 @@ AIレビューを用いることで設計書におけるレビュワーの作業
 僕はWASIを使う... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/progate/articles/wali-webassembly-linux-interface</guid>
       <pubDate>Fri, 30 Oct 2026 00:45:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>「パイロット成功＝本番対応可能」ではない — Databricksが語る、AIを組織で持続運用するための5つのリーダーシップ原則</title>
-      <link>https://techfeed.io/entries/6ae5238974d60e1304bb88f8?from=rss</link>
-      <description>10月31日、Databricksが「Deliberate decisions and enterprise AI value」と題した記事を公開した。AIの実験フェーズを終え「本番で価値を出す」フェーズへ移行しようとしている企業が増えるなか、「パイロットの成功は、本番稼働できる能力とイコールではない」という現実的な問いを軸に、エンタープライズAI投資において「正しい意思決定」を行うためのリーダーシップフレームワークを詳しく紹介している。パイロット案件が乱立し、所有権が曖昧になり、コストの全貌が見えないまま意思決定が迫られるケースは多い。Databricksが DataIQ と共同でまとめたレポート「Deliberate Decisions: How Grounded Leadership Is Advancing the Path to Enterprise AI Value」は、まさにその課題に正面から向き合った内容だ。パイロット成功≠本番対応可能、という当たり前の落とし穴PoC（概念実証）が上手くいくと、経営層の期待値は組織の吸収速度を超えて上昇する。しかし本番環境では、モデルや (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ae5238974d60e1304bb88f8?from=rss</guid>
-      <pubDate>Fri, 30 Oct 2026 23:08:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

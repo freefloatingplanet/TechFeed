@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 11:55:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 12:54:36 +0000</lastBuildDate>
     <item>
       <title>宇宙と地上を1つのネットワークに。次世代衛星1万5,000機の認可に続き、SpaceXはなぜ全米の「地上の周波数」を買うのか【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/47336/</link>
@@ -30,13 +30,6 @@
       <pubDate>Tue, 27 Oct 2026 03:00:42 +0000</pubDate>
     </item>
     <item>
-      <title>人工衛星の光や電波が天文観測の妨げに　衛星の設計・運用改善で影響軽減へ</title>
-      <link>https://sorae.info/astronomy/20261025-dark-quiet-sky.html</link>
-      <description>人工衛星の増加に伴い、衛星が反射する太陽光や、搭載機器から意図せず放射される電波が天文観測を妨げることが、近年課題となっています。宇宙利用が急速に広がるなか、星空を観測する環境への影響が問題視されています。 ESA（ヨー… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20261025-dark-quiet-sky.html</guid>
-      <pubDate>Sun, 25 Oct 2026 11:13:10 +0000</pubDate>
-    </item>
-    <item>
       <title>Open Cosmosが3億ユーロを調達。衛星の量産能力を拡大し、他国に頼らない観測・通信サービスの展開を加速【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/47261/</link>
       <description>2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました。今回の調達資金は衛星の量産能力の拡大と、ConnectedCosmos、OpenConstellation、DataCosmosの展開加速に充てられます。 (source: 宙畑)</description>
@@ -49,6 +42,13 @@
       <description>総合研究大学院大学で、元JAXA宇宙科学研究所長、小惑星探査機「はやぶさ」の成功に不可欠であったイオンエンジンの開発者である國中均先生と、Tellus Globalの代表取締役である山﨑秀人さんとの対談取材を実施。後編では、昨今の宇宙開発に思うことや、投資すべき技術の価値はどのように決まるのかといった問いに回答いただきました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/47209/</guid>
       <pubDate>Tue, 27 Oct 2026 23:01:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年11月の星空情報：土星と秋の四辺形を見つけよう</title>
+      <link>https://sorae.info/astronomy/202611-starry-sky.html</link>
+      <description>11月、紅葉が盛りとなり、山々が錦のようにあでやかな様子を見せる季節となりました。 一方、秋の星空は明るい1等星も少なく、冷たい晩秋の風の中で、ひそやかな光を放っています。 その中で、明るく輝くのが土星です。2026年1… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/202611-starry-sky.html</guid>
+      <pubDate>Sun, 01 Nov 2026 09:43:40 +0000</pubDate>
     </item>
     <item>
       <title>「目指すのは宇宙産業の“接着剤”」欧州3カ国・フィンテック・車載ソフトウェア企業を経て、日本の宇宙業界に転職した越境者インタビュー</title>
