@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Nov 2026 12:54:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 15:08:49 +0000</lastBuildDate>
     <item>
-      <title>ポッドキャスト：AI、機械学習、データエンジニアリングに関するInfoQトレンドレポート2026</title>
-      <link>https://www.infoq.com/podcasts/ai-ml-data-engineering-trends-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>今回のエピソードでは、InfoQのAIおよびML編集スタッフとInfoQの友人たちが、AI、ML、データエンジニアリングの分野における最新のトレンドについて議論します。InfoQの定期連載の一つにトレンドレポートがあり、それぞれソフトウェア開発の異なる側面を取り上げています。これらのレポートは、InfoQの読者とリスナーに、今年注目すべきトピックの概要を提供します。執筆：Chip Huyen、Daniel Dominguez、Hien Luu、Arthur Casals (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/podcasts/ai-ml-data-engineering-trends-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
+      <title>論文：エージェント型AIアーキテクチャにおける記憶、知識、コンテキストへの体系的アプローチ</title>
+      <link>https://www.infoq.com/articles/agentic-ai-context-memory-knowledge/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>この記事は、信頼性の高いエージェント型AIアーキテクチャは、情報がモデルに到達する前に選択、挿入、圧縮、および期限切れ処理を行うコンテキストエンジンに依存すると主張しています。コンテキスト、メモリ、知識を分離し、階層型メモリ、キュレーションされた知識、およびトークン予算を推奨しています。また、コンテキストスタッフィングや古いデータループなどの一般的なアンチパターンとその対策についても解説しています。執筆者：Adi Polak (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/articles/agentic-ai-context-memory-knowledge/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Mon, 02 Nov 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

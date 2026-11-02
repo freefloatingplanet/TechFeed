@@ -7,13 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Nov 2026 12:54:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 15:08:47 +0000</lastBuildDate>
     <item>
-      <title>プリフィルに基づく復号長予測の根本的な限界について</title>
-      <link>https://arxiv.org/abs/2610.40541v1</link>
-      <description>大規模言語モデル (LLM) がデコードするトークン数を、事前充填フェーズの隠れ状態のみを使用して予測することは、推論スケジューリングの重要な基本要素です。現在のベンチマークでは、予測器の品質とタスクの難易度が混同されていることを示します。ターゲットモデル、データセット、またはサンプリング構成が変更されると、予測器が変更されていないにもかかわらず、報告された精度が低下します。この不安定性の原因を、見落とされていたエラーソース、つまり自己回帰デコーディングの固有の確率性にたどり、すべての事前充填側メソッドが従わなければならない境界を導出します。私たちの分析では、デコーディングを停止された確率過程として扱います。ステップごとの応答の停止確率は一定ではなく、数百ステップにわたって増加するため、デコード長は、応答の終了場所を決定する多くの局所的な決定から中心極限定理を継承します。これにより、明示的なエラー項を持つプロンプトごとの正規性と、傾きが応答セグメント数の変動係数であるアフィン分散法則 $σ=αμ+b$ が得られます。経験的に、正規分布はプロンプトごとの MAE とデコード長分布の中心質 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.40541v1</guid>
-      <pubDate>Thu, 29 Oct 2026 17:36:01 +0000</pubDate>
+      <title>TESSにおける超短周期惑星のエンドツーエンドCNN探索：ブレンドシーリングからTOI-6662 bの独立検証まで</title>
+      <link>https://arxiv.org/abs/2610.42009v1</link>
+      <description>TESS測光データを用いて超短周期惑星を検出するため、畳み込みニューラルネットワークを訓練しました。この訓練は、現在この分野で標準となっている手順、すなわち合成トランジットを陽性、食連星を陰性とする手順に従いました。この方法で測定すると、ROC曲線下面積は0.97に達します。同じモデルと惑星を用いながら、陰性をTESS追跡観測プログラムが実際に棄却した偽陽性に置き換えると、面積は0.50に低下します。これはランダム分類器の値です。従来のベンチマークは、存在しない問題を測定していたことになります。
+
+その理由は物理的であり、可能な範囲を制限します。ピクセルレベルで調べた145個の偽陽性のうち、42%はブレンド、つまり隣接する恒星の食がターゲット開口部に混入したものです。これらの光度曲線は浅いトランジットと区別がつかず、達成可能な面積は1 - f/2 = 0.79に制限されます。実際の偽陽性データを用いた再学習では、0.80 ± 0.06という精度が得られ、この上限値が独立して確認されました。単一バンドの光度曲線を読み取る分類器では、これ以上の精度は得られません。
+
+検出器だけでは不十分で (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.42009v1</guid>
+      <pubDate>Fri, 30 Oct 2026 16:47:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
