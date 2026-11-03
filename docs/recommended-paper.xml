@@ -7,17 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 02 Nov 2026 15:08:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:52:22 +0000</lastBuildDate>
     <item>
-      <title>TESSにおける超短周期惑星のエンドツーエンドCNN探索：ブレンドシーリングからTOI-6662 bの独立検証まで</title>
-      <link>https://arxiv.org/abs/2610.42009v1</link>
-      <description>TESS測光データを用いて超短周期惑星を検出するため、畳み込みニューラルネットワークを訓練しました。この訓練は、現在この分野で標準となっている手順、すなわち合成トランジットを陽性、食連星を陰性とする手順に従いました。この方法で測定すると、ROC曲線下面積は0.97に達します。同じモデルと惑星を用いながら、陰性をTESS追跡観測プログラムが実際に棄却した偽陽性に置き換えると、面積は0.50に低下します。これはランダム分類器の値です。従来のベンチマークは、存在しない問題を測定していたことになります。
-
-その理由は物理的であり、可能な範囲を制限します。ピクセルレベルで調べた145個の偽陽性のうち、42%はブレンド、つまり隣接する恒星の食がターゲット開口部に混入したものです。これらの光度曲線は浅いトランジットと区別がつかず、達成可能な面積は1 - f/2 = 0.79に制限されます。実際の偽陽性データを用いた再学習では、0.80 ± 0.06という精度が得られ、この上限値が独立して確認されました。単一バンドの光度曲線を読み取る分類器では、これ以上の精度は得られません。
-
-検出器だけでは不十分で (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.42009v1</guid>
-      <pubDate>Fri, 30 Oct 2026 16:47:34 +0000</pubDate>
+      <title>深層学習を用いた共変量駆動型ポアソン過程のノンパラメトリック強度推定</title>
+      <link>https://arxiv.org/abs/2611.03552v1</link>
+      <description>本稿では、観測された共変量に強度が依存することを許容する、ポアソン過程の強度関数のノンパラメトリック最尤推定について考察する。このようなモデルは、強度が任意に小さくなる場合や消失する場合など、外部条件によってイベント発生率がどのように変化するかを記述する。しかし、Kullback-Leibler (KL) ダイバージェンスに基づくリスク分析では、通常、真の強度がゼロから離れた範囲に収束する必要があるが、これは応用上制約となる仮定である。本稿では、この仮定を回避する統一的なアプローチを開発し、真の強度とノンパラメトリック最尤推定量 (NPMLE) との間の共変量平均ヘリンジャー距離に対するオラクル不等式を導出する。オラクル不等式の応用として、深層ニューラルネットワーク (DNN) に基づく NPMLE の収束率を確立する。結果は、ノンパラメトリック回帰と同様に、DNN が基礎構造を捉える能力によって収束率が向上することを示している。具体的には、DNNベースのNPMLEは、真の強度が構成構造を持つ場合に次元の呪いを軽減し、イベント空間の低次元リーマン多様体構造に自動的に適応します。構成構造 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.03552v1</guid>
+      <pubDate>Mon, 02 Nov 2026 18:14:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

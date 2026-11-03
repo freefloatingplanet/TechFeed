@@ -7,97 +7,68 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 15:08:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:52:17 +0000</lastBuildDate>
     <item>
-      <title>日本の全法令を git の履歴にしてみた</title>
-      <link>https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git</link>
-      <description>きっかけ ただの思いつきです。 私は法律のことを全然知りません。ただ、最近は AI のおかげで、知らない分野の調べものがとても速くなりました。国会会議録の API を眺めていたときに、ふと「法律を git で管理したら面白いのでは」と思いつきました。知らない分野でも、AI と一緒ならどこまでできるのか試してみたくな... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git</guid>
-      <pubDate>Mon, 02 Nov 2026 05:17:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISUCON 2026 参加記</title>
-      <link>https://zenn.dev/catatsuy/articles/159edffe202c0c</link>
-      <description>ChatGPTにGitHubのログをまとめてもらいました。
-最終スコアは26000点台くらいで、完全敗北でした。repoはこちらです。
-https://github.com/catatsuy/isu2026
-
- はじめに
-今回はAIを活用することを前提として、1人でISUCONに参加しました。
-事前にAIに作業してもらうための準備をしておき、当日はCodexなどを使いながら最適化を進めました。自分は主に方針決定、ベンチマーク、ログの分析、デプロイを担当する形です。
-
- 10時台：競技開始、まずは計測から
-
-AWS上に競技環境を構築して、Go実装を選択。
-DBがPostgreSQLだったこ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/catatsuy/articles/159edffe202c0c</guid>
-      <pubDate>Sun, 01 Nov 2026 03:40:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISUCON2026に人間1人＋AIエージェント軍団で出て19.6万点、ループは閉じたけど中身が弱かった反省文😇</title>
-      <link>https://zenn.dev/tak848/articles/20261031-isucon2026-writeup</link>
-      <description>!
-この記事は全部AIが書きました。
-全部を自動化して記録に残していたので、何が起きたかを一番よく知っているのは当日の指揮役のClaude Codeでした。その記録（自分のプロンプトも含む）を材料に、終わった直後に書いています。
-
-こんにちは。いや、こんいす〜！！
-@tak848です。
-10月31日のISUCON2026に、人間は自分1人、手を動かすのはClaude CodeとCodexのエージェントたち、という体制で出ました。
-問題は、地域ごとに台が分かれた写真共有SNS「ISUReal.」でした（中身は振り返りの節で）。
-前回のISUCON14は1人で出て、30位以内に入ったと思った... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tak848/articles/20261031-isucon2026-writeup</guid>
-      <pubDate>Sat, 31 Oct 2026 10:53:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIで儲かっているのはAIを売る側だけ — 非テック企業への波及効果が見えない現状と「AI核の冬」仮説</title>
-      <link>https://techfeed.io/entries/6ae7c44a74d60e1304bc65e6?from=rss</link>
-      <description>10月31日、raindog308が「Is This the AI Nuclear Winter?」と題した記事を公開した。現在のAIブームが歴史的な「AIの冬」の再来、あるいはそれをはるかに上回る崩壊につながる可能性について詳しく論じた内容で、投資調査会社Apolloのエコノミストによる観測データを軸に、シナリオの蓋然性を検討している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ae7c44a74d60e1304bc65e6?from=rss</guid>
-      <pubDate>Sun, 01 Nov 2026 22:59:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>コードを読まずにマージするために必要なこと</title>
-      <link>https://zenn.dev/nrs/articles/c777388530aa84</link>
-      <description>AI に実装を任せると PR が次々にできあがります。
-その差分を開発者がひとつずつ読み、指摘を返して修正を待ち、修正後のコードをまた読む。
-実装が速くなった分だけレビュー待ちの PR がたまっていきます。
-人がコードを読まずに PR をマージする「no look merge」を実現するには何が必要でしょうか。
-
- 品質の確認とマージの承認
-大前提として no look merge でもコードの品質を確認する仕組みは必要です。
-たとえば要求どおりの動作をテストで確かめ、設計やセキュリティのレビューを AI に任せる方法があります。
-指摘された問題を修正した後に再検証し、未実施の検証や未解... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nrs/articles/c777388530aa84</guid>
-      <pubDate>Tue, 27 Oct 2026 11:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISUCONに初めて出たら、直すたびに次のボトルネックが出てきて、超面白かった</title>
-      <link>https://zenn.dev/paraponera/articles/2026-10-31-isucon-2026-isureal</link>
+      <title>学部生3人でISUCON2026に出て、最後に証拠より常識を選んで負けた話</title>
+      <link>https://zenn.dev/enari_k/articles/b512e044ec9240</link>
       <description>はじめに
-船長（せんちょう）と申します。
-2年ぶりに開催された ISUCON 2026 に、初めて出てきました。
-実務でパフォーマンスチューニングをやった経験はほぼないです。前職で Datadog を眺めて、エラーが起きたらログを追って解消する、くらい。インフラとバックエンドも、まあちょっと触ったことはあるよ、という程度でした。
-それでも出ようと思ったのは、裏側をまるっと全部直そうぜ、というのが単純にめっちゃ面白そうだったからです。
-それと、同じ問題を解いた強い人たちが、終わったあとに体験談を出してくれるじゃないですか。それを全部読める。これがすごくいいなと思いました。
-自分が詰まっ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/paraponera/articles/2026-10-31-isucon-2026-isureal</guid>
-      <pubDate>Sat, 31 Oct 2026 12:17:24 +0000</pubDate>
+こんにちは、enari_Kです。ISUCON2026 にチーム 判 で出ました。最終スコアは約 30,000。途中で約 40,000 まで出ていたのに、最後の最後にチームの判断ミスで落としました。悔しいので、当日何が起きていたのかを残しておきます。
+スコアはどれも記憶ベースのおおよその値です。
+最終スコア29387の最大スコア45248
+順位は全体409位、学生27位です。
+
+ 問題の概要
+今年の題材は写真 SNS の「ISUReal」。アプリサーバが asia1・europe1・america1 の 3 台あって、DB は asia2 の PostgreSQL 1 台をみ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/enari_k/articles/b512e044ec9240</guid>
+      <pubDate>Mon, 02 Nov 2026 07:00:35 +0000</pubDate>
     </item>
     <item>
-      <title>パフォーマンスチューニング経験ゼロ、事前準備ゼロでISUCON2026に出て、良い経験になった話</title>
-      <link>https://zenn.dev/go_furu93/articles/isucon2026-solo-retro-20261031-bc4f82</link>
-      <description>こんにちは、三つ子育児系エンジニアのsakoponです！
-2026年10月31日に開催されたISUCON2026に、ソロで出場しました🏃
-今回はそのイベントでの感想を記事にしました。
-ISUCONとは、お題のWebアプリを制限時間内にどこまで速くできるかを競うチューニングコンテストです。
-私はパフォーマンスチューニングの経験がありません。事前準備もろくにできず、当日もほとんどの部分をAIに頼りました。最終スコアは25717です。
-それでも、参加してよかったと思っています。
-
- 何のために参加したのか
-一番は、パフォーマンスチューニングについて学びたかったためです。
-あとは、お祭り感があっ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/go_furu93/articles/isucon2026-solo-retro-20261031-bc4f82</guid>
-      <pubDate>Sun, 01 Nov 2026 04:39:46 +0000</pubDate>
+      <title>PHPの脆弱性「php2shell」が来たので、Amazonの公式パッケージを待たずにPHPを自分でビルドして本番に入れた話</title>
+      <link>https://qiita.com/Tukirukiki/items/beec6fedd37f63e1c231?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>はじめに
+2026年10月に公表された PHPの脆弱性「php2shell」に、公表当日の夜に対応しましたので、備忘録としてやったことを記載していきます！
+いろんなPHPを使っている企業がメンテになって、中には、まる1日メンテになってる企業もありましたね、、
+僕たちのプ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/Tukirukiki/items/beec6fedd37f63e1c231?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Mon, 02 Nov 2026 11:05:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClaudeがゲームクローンをAIレベルで禁止 — 著作権侵害をモデルで規制する新アプローチと、個人利用まで巻き込む誤検知の課題</title>
+      <link>https://techfeed.io/entries/6ae918f274d60e1304bd249f?from=rss</link>
+      <description>11月2日、Eurogamerが「As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities」と題した記事を公開した。AIによるゲームクローン生成が著作権侵害の温床として問題視される中、AnthropicはAIモデルそのものの振る舞いをポリシーで縛るという異例のアプローチを取った。著作権侵害への対処を「法的手段」ではなく「モデルの制御」で行うこの方針は、生成AI業界全体に波及しうる判断として注目されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ae918f274d60e1304bd249f?from=rss</guid>
+      <pubDate>Mon, 02 Nov 2026 23:12:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIデータセンターがメモリを独占、DRAM価格が報告によれば1年で2倍に — コストを吸収できないPCメーカーはどこへ向かうか</title>
+      <link>https://techfeed.io/entries/6ae918e274d60e1304bd2489?from=rss</link>
+      <description>11月3日、Inside AI News が「DRAM Prices Double in 2026 as AI Data Centers Squeeze PC Makers」と題した記事を公開した。AIデータセンター向けメモリ需要の急増により2026年にDRAM価格が約2倍に高騰しているとされ、PC業界が深刻なコスト圧力にさらされている実態を伝えている。行き場を失ったPCメーカーが取りうる選択肢はどれも厳しく、業界の構造変化が加速しつつあるという。なお、Inside AI News自身が「正確な価格数値は独自に検証できていない」と注釈しており、以下の内容は同記事の報告に基づく。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ae918e274d60e1304bd2489?from=rss</guid>
+      <pubDate>Mon, 02 Nov 2026 23:12:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>あなたのAndroid TV端末が「詐欺広告の道具」に？ 中国メーカーが不正ソフトを仕込んで販売　Googleが取引停止</title>
+      <link>https://japan.cnet.com/article/35254298/</link>
+      <description>XCPEは、利用者に気付かれずに端末を遠隔操作するための「バックドア」を使い、多数の端末を犯罪に利用できる状態にしていた。こうした端末の集まりは「ボットネット」と呼ばれる。感染端末の大半は、テレビにつないで動画などを視聴するAndroid TV搭載のセットトップボックスで、複数のブランドや機種に不正ソフトが組... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://japan.cnet.com/article/35254298/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:12:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>quench を管理者アカウントから卒業させる：シャットダウン専用の Windows アカウント svc-power</title>
+      <link>https://zenn.dev/ryuchama/articles/forge-svc-power-account</link>
+      <description>はじめに
+前回の記事で、ラズパイから Windows PC をシャットダウンするコマンド quench を作りました。quench foo と打てば、確認を挟んで SSH で shutdown を送り、PC が止まるまで待ってくれます。
+ただ、前回の記事の最後にも書いたとおり、今の quench は Windows の管理者アカウントで SSH しています。ラズパイに置いてあるこの秘密鍵があれば、シャットダウンどころか、ソフトのインストールもファイルの削除も、何でもできてしまいます。
+最近、企業の情報漏洩のニュースを目にすることが急増しています。個人の環境であっても、「必要以上に強い... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ryuchama/articles/forge-svc-power-account</guid>
+      <pubDate>Tue, 03 Nov 2026 02:25:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIで未知のコードを「わかった気」になる罠 — 熟練開発者が19%遅くなったというデータが示す、自信のピークの乗り越え方</title>
+      <link>https://techfeed.io/entries/6ae9188d74d60e1304bd245f?from=rss</link>
+      <description>11月3日、River Lynn Baileyが「Accelerate your understanding of unfamiliar code with AI Part 2」と題した記事を公開した。この記事では、AIを使って未知のコードベースを素早く把握する際に陥りやすい「理解した気になる罠」と、それを回避するための具体的な習慣について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6ae9188d74d60e1304bd245f?from=rss</guid>
+      <pubDate>Mon, 02 Nov 2026 23:11:09 +0000</pubDate>
     </item>
     <item>
       <title>プロダクトの情報を「浴びるように」見られる場所を作った話</title>
@@ -113,26 +84,26 @@ TOKIUMのPdMは、スクラム開発におけるプロダクトオーナーの�
       <pubDate>Fri, 30 Oct 2026 08:18:26 +0000</pubDate>
     </item>
     <item>
-      <title>「AIのためのAIは作らない」——Apple新トップが明言、機能数競争と距離を置くAppleのAI戦略</title>
-      <link>https://techfeed.io/entries/6ae7c54274d60e1304bc6724?from=rss</link>
-      <description>11月2日、Fatima Khanが「Apple Chief Rejects Shipping AI For Its Own Sake In New Interview」と題した記事を公開した。Appleの新トップ・John Ternusが「AIのためのAI」を否定し、ユーザーが本当に愛せる製品を作ることを最優先とする姿勢をWiredのインタビューで明言した。競合各社がAI機能の数と速度で競い合うなか、Appleがあえて静かな戦略を選ぶ理由が浮き彫りになっている。「AIのためのAIは出荷しない」——Ternusの明言John Ternusは今年9月にAppleのCEOに就任した人物だ。長年にわたりAppleのハードウェアエンジニアリング担当上級副社長を務め、MacやiPhoneの開発を現場で率いてきた。Tim CookからAppleの経営トップを引き継いだ形であり、ハードウェア畑出身という背景が今回の発言にも色濃く滲んでいる。Wiredのインタビューで彼はこう述べた。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ae7c54274d60e1304bc6724?from=rss</guid>
-      <pubDate>Sun, 01 Nov 2026 23:03:30 +0000</pubDate>
+      <title>AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った</title>
+      <link>https://zenn.dev/tokium_dev/articles/adr-authoring-guideline</link>
+      <description>はじめに
+みなさん、ADR（Architecture Decision Record）は書いていますでしょうか？
+AIを使ったソフトウェア開発において「意思決定の記録を残す」ことの重要性は、今や多くのエンジニアに周知されているかと思います。
+僕が率いるチームにおいても、プロジェクト開始初期から様々な技術的な意思決定をADRに記録し、運用してきました。最近では、ADRのドラフト作成もAIに任せるようになっています。
+ところが、ADRを書くルールを整備しないままAIに書かせていると、 人間が読み返しづらいADR が次々と出てくるようになりました。「人間がじっくり目を通すべきものの代表格」... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/adr-authoring-guideline</guid>
+      <pubDate>Mon, 02 Nov 2026 06:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました</title>
-      <link>https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae</link>
-      <description>自動翻訳字幕
-
-取り急ぎ、問い合わせが多かったので書きました。不足分は徐々にアップデートします。
-FlutterKaigi 2026（2026-10-29・30）では、登壇者の話をその場で文字起こし・翻訳して、スライドとカメラを合成した映像に字幕として焼き込みました。英語のセッションには日本語の字幕、日本語のセッションには英語の字幕が出ます。
-実際の字幕はこちらからご確認いただけます。
-この記事では、各部屋に 1 台置いて、合成と字幕の焼き込みをした「合成 Mac」を紹介します。
-
- 処理の流れ
-合成 Mac は、スライドとカメラの映像を合成し、訳した字幕を足して、3 か所に出力しま... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae</guid>
-      <pubDate>Sat, 31 Oct 2026 06:40:40 +0000</pubDate>
+      <title>日本の全法令を git の履歴にしてみた</title>
+      <link>https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git</link>
+      <description>きっかけ
+ただの思いつきです。
+私は法律のことを全然知りません。ただ、最近は AI のおかげで、知らない分野の調べものがとても速くなりました。国会会議録の API を眺めていたときに、ふと「法律を git で管理したら面白いのでは」と思いつきました。知らない分野でも、AI と一緒ならどこまでできるのか試してみたくなりました。
+法律の改正は「〇〇法の一部を改正する法律」という別の法律で行われます。中身は「第三条中『A』を『B』に改める」のような書き換えの指示なので、読んでも結局どこがどう変わったのかが分かりにくいです。
+これは diff だな、と思いました。法律の本文をファイルにして、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git</guid>
+      <pubDate>Sun, 01 Nov 2026 03:36:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
