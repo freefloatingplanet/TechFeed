@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 13:52:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:59:30 +0000</lastBuildDate>
     <item>
       <title>宇宙と地上を1つのネットワークに。次世代衛星1万5,000機の認可に続き、SpaceXはなぜ全米の「地上の周波数」を買うのか【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/47336/</link>
@@ -16,11 +16,11 @@
       <pubDate>Thu, 29 Oct 2026 23:02:02 +0000</pubDate>
     </item>
     <item>
-      <title>【古川聡さん、田端信太郎さん、DOZAN11さんらが登壇】11月5日（木）・6日（金）、東大・安田講堂で「宇宙×不動産カンファレンス2026」。「地面師たち」の著者が月の土地を語るセッションも</title>
-      <link>https://sorabatake.jp/47268/</link>
-      <description>11月5日（木）・6日（金）の2日間、国の登録有形文化財でもある東京大学 大講堂（安田講堂）で「宇宙×不動産カンファレンス2026（SRC2026）」が開催されます。注目の登壇者とセッションをピックアップしてご紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/47268/</guid>
-      <pubDate>Tue, 27 Oct 2026 03:00:42 +0000</pubDate>
+      <title>中国CAS Space、「Kinetica 2」2回目の打ち上げに成功　「千帆」の衛星18機を軌道投入</title>
+      <link>https://sorae.info/ssn/20261104-kinetica-2-y2.html</link>
+      <description>中国の商業宇宙企業CAS Space（中科宇航）は日本時間2026年11月3日、酒泉衛星発射センターから「Kinetica 2（力箭2号）」ロケットを打ち上げました。搭載されていた衛星インターネット「千帆（Qianfan… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20261104-kinetica-2-y2.html</guid>
+      <pubDate>Wed, 04 Nov 2026 04:34:22 +0000</pubDate>
     </item>
     <item>
       <title>独Isar Aerospace、衛星打ち上げに初成功。7号機まで製造中【宇宙ビジネスニュース】</title>
@@ -28,6 +28,13 @@
       <description>ドイツのIsar Aerospaceが、小型ロケット「Spectrum」の2回目の打ち上げで初の衛星軌道投入に成功しました。追加の打ち上げ契約や機体の量産計画など、記者会見で語られた今後の事業展開も紹介します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/47420/</guid>
       <pubDate>Tue, 03 Nov 2026 06:06:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【古川聡さん、田端信太郎さん、DOZAN11さんらが登壇】11月5日（木）・6日（金）、東大・安田講堂で「宇宙×不動産カンファレンス2026」。「地面師たち」の著者が月の土地を語るセッションも</title>
+      <link>https://sorabatake.jp/47268/</link>
+      <description>11月5日（木）・6日（金）の2日間、国の登録有形文化財でもある東京大学 大講堂（安田講堂）で「宇宙×不動産カンファレンス2026（SRC2026）」が開催されます。注目の登壇者とセッションをピックアップしてご紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/47268/</guid>
+      <pubDate>Tue, 27 Oct 2026 03:00:42 +0000</pubDate>
     </item>
     <item>
       <title>Open Cosmosが3億ユーロを調達。衛星の量産能力を拡大し、他国に頼らない観測・通信サービスの展開を加速【宇宙ビジネスニュース】</title>
@@ -49,13 +56,6 @@
       <description>11月、紅葉が盛りとなり、山々が錦のようにあでやかな様子を見せる季節となりました。 一方、秋の星空は明るい1等星も少なく、冷たい晩秋の風の中で、ひそやかな光を放っています。 その中で、明るく輝くのが土星です。2026年1… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/202611-starry-sky.html</guid>
       <pubDate>Sun, 01 Nov 2026 09:43:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>人工衛星の「帯電」をAIで自動検出　約19年分のデータから帯電しやすい宇宙環境が明らかに</title>
-      <link>https://sorae.info/space/20261028-satellite-charging-ai.html</link>
-      <description>九州工業大学とJAXA（宇宙航空研究開発機構）の研究グループは2026年10月28日、AI（人工知能）を使って人工衛星の表面が帯電する現象を自動的に検出する手法を開発したと発表しました。約19年分の観測データを解析し、衛… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20261028-satellite-charging-ai.html</guid>
-      <pubDate>Wed, 28 Oct 2026 06:31:15 +0000</pubDate>
     </item>
     <item>
       <title>民間の力で延命へ？　NASAがハッブル宇宙望遠鏡の軌道上昇などで企業に情報提供を依頼</title>

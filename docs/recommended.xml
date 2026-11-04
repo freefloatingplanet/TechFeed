@@ -7,81 +7,83 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 13:52:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:59:22 +0000</lastBuildDate>
     <item>
-      <title>学部生3人でISUCON2026に出て、最後に証拠より常識を選んで負けた話</title>
-      <link>https://zenn.dev/enari_k/articles/b512e044ec9240</link>
-      <description>はじめに
-こんにちは、enari_Kです。ISUCON2026 にチーム 判 で出ました。最終スコアは約 30,000。途中で約 40,000 まで出ていたのに、最後の最後にチームの判断ミスで落としました。悔しいので、当日何が起きていたのかを残しておきます。
-スコアはどれも記憶ベースのおおよその値です。
-最終スコア29387の最大スコア45248
-順位は全体409位、学生27位です。
+      <title>ADRをregoでlintする</title>
+      <link>https://zenn.dev/babarot/articles/regomark-adr-checker</link>
+      <description>AIが書くADRのフォーマットをどう揃えるか
+自分のリポジトリでは、設計の決定を ADR（Architecture Decision Records）として docs/adr/ に残している。最近は、その ADR の多くを Claude Code に書いてもらっている。決定を相談して、「これを ADR にしておいて」と頼むと書いてくれる。
+ただ、AI に書かせた ADR は、少しずつ自由になっていく。テンプレートを置いて書き方を指示していても、ずれるときはずれる。たとえば、
 
- 問題の概要
-今年の題材は写真 SNS の「ISUReal」。アプリサーバが asia1・europe1・america1 の 3 台あって、DB は asia2 の PostgreSQL 1 台をみ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/enari_k/articles/b512e044ec9240</guid>
-      <pubDate>Mon, 02 Nov 2026 07:00:35 +0000</pubDate>
+Decision に、画面のメニュー項目の一覧や定数、構造体の定義まで書いてある。仕様書に近づいて、コードを... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/babarot/articles/regomark-adr-checker</guid>
+      <pubDate>Tue, 03 Nov 2026 07:59:33 +0000</pubDate>
     </item>
     <item>
-      <title>PHPの脆弱性「php2shell」が来たので、Amazonの公式パッケージを待たずにPHPを自分でビルドして本番に入れた話</title>
-      <link>https://qiita.com/Tukirukiki/items/beec6fedd37f63e1c231?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>はじめに
-2026年10月に公表された PHPの脆弱性「php2shell」に、公表当日の夜に対応しましたので、備忘録としてやったことを記載していきます！
-いろんなPHPを使っている企業がメンテになって、中には、まる1日メンテになってる企業もありましたね、、
-僕たちのプ... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/Tukirukiki/items/beec6fedd37f63e1c231?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Mon, 02 Nov 2026 11:05:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ClaudeがゲームクローンをAIレベルで禁止 — 著作権侵害をモデルで規制する新アプローチと、個人利用まで巻き込む誤検知の課題</title>
-      <link>https://techfeed.io/entries/6ae918f274d60e1304bd249f?from=rss</link>
-      <description>11月2日、Eurogamerが「As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities」と題した記事を公開した。AIによるゲームクローン生成が著作権侵害の温床として問題視される中、AnthropicはAIモデルそのものの振る舞いをポリシーで縛るという異例のアプローチを取った。著作権侵害への対処を「法的手段」ではなく「モデルの制御」で行うこの方針は、生成AI業界全体に波及しうる判断として注目されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ae918f274d60e1304bd249f?from=rss</guid>
-      <pubDate>Mon, 02 Nov 2026 23:12:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIデータセンターがメモリを独占、DRAM価格が報告によれば1年で2倍に — コストを吸収できないPCメーカーはどこへ向かうか</title>
-      <link>https://techfeed.io/entries/6ae918e274d60e1304bd2489?from=rss</link>
-      <description>11月3日、Inside AI News が「DRAM Prices Double in 2026 as AI Data Centers Squeeze PC Makers」と題した記事を公開した。AIデータセンター向けメモリ需要の急増により2026年にDRAM価格が約2倍に高騰しているとされ、PC業界が深刻なコスト圧力にさらされている実態を伝えている。行き場を失ったPCメーカーが取りうる選択肢はどれも厳しく、業界の構造変化が加速しつつあるという。なお、Inside AI News自身が「正確な価格数値は独自に検証できていない」と注釈しており、以下の内容は同記事の報告に基づく。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ae918e274d60e1304bd2489?from=rss</guid>
-      <pubDate>Mon, 02 Nov 2026 23:12:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>あなたのAndroid TV端末が「詐欺広告の道具」に？ 中国メーカーが不正ソフトを仕込んで販売　Googleが取引停止</title>
-      <link>https://japan.cnet.com/article/35254298/</link>
-      <description>XCPEは、利用者に気付かれずに端末を遠隔操作するための「バックドア」を使い、多数の端末を犯罪に利用できる状態にしていた。こうした端末の集まりは「ボットネット」と呼ばれる。感染端末の大半は、テレビにつないで動画などを視聴するAndroid TV搭載のセットトップボックスで、複数のブランドや機種に不正ソフトが組... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://japan.cnet.com/article/35254298/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:12:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>quench を管理者アカウントから卒業させる：シャットダウン専用の Windows アカウント svc-power</title>
-      <link>https://zenn.dev/ryuchama/articles/forge-svc-power-account</link>
-      <description>はじめに
-前回の記事で、ラズパイから Windows PC をシャットダウンするコマンド quench を作りました。quench foo と打てば、確認を挟んで SSH で shutdown を送り、PC が止まるまで待ってくれます。
-ただ、前回の記事の最後にも書いたとおり、今の quench は Windows の管理者アカウントで SSH しています。ラズパイに置いてあるこの秘密鍵があれば、シャットダウンどころか、ソフトのインストールもファイルの削除も、何でもできてしまいます。
-最近、企業の情報漏洩のニュースを目にすることが急増しています。個人の環境であっても、「必要以上に強い... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/ryuchama/articles/forge-svc-power-account</guid>
-      <pubDate>Tue, 03 Nov 2026 02:25:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIで未知のコードを「わかった気」になる罠 — 熟練開発者が19%遅くなったというデータが示す、自信のピークの乗り越え方</title>
-      <link>https://techfeed.io/entries/6ae9188d74d60e1304bd245f?from=rss</link>
-      <description>11月3日、River Lynn Baileyが「Accelerate your understanding of unfamiliar code with AI Part 2」と題した記事を公開した。この記事では、AIを使って未知のコードベースを素早く把握する際に陥りやすい「理解した気になる罠」と、それを回避するための具体的な習慣について詳しく紹介されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6ae9188d74d60e1304bd245f?from=rss</guid>
-      <pubDate>Mon, 02 Nov 2026 23:11:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>プロダクトの情報を「浴びるように」見られる場所を作った話</title>
-      <link>https://zenn.dev/tokium_dev/articles/product-cockpit-for-product-teams</link>
-      <description>はじめに
-プロダクト本部の寺田です。複数のプロダクトを担当する開発部門で、部長をしています。
-この数ヶ月、プロダクトの状況を一画面に集める仕組みを作って、部のメンバーに共有し始めました。社内では「コックピット」と呼んでいます。
-情報を集めたダッシュボードの話は、世の中にもうたくさんあります。なのでこの記事では、つくりの話は少しにして、部長として何を思ってこれを作ったのか、一緒に働くPdMたちとこれを使ってどう話したいのかを中心に書きます。
+      <title>NIKKE PCランチャーのサプライチェーン攻撃、IT学生が自分のPCを調べてみた</title>
+      <link>https://zenn.dev/nanana_sk/articles/nikke-launcher-incident</link>
+      <description>!
+この記事について：この記事の調査は、生成AI（Claude）と対話しながら進めた結果をまとめたものです。また、記事の文章もAIが下書きし、筆者が内容を確認・修正しています。AIの説明や判断には誤りが含まれている可能性があり、筆者自身もセキュリティの専門家ではありません。内容を鵜呑みにせず、必ず元の解析レポートや公式発表など一次情報で確認してください。この記事の手順で「安全だ」と判断して何か起きても責任は持てません。
 
- PdMの視界は、開発に寄りやすい
-TOKIUMのPdMは、スクラム開発におけるプロダクトオーナーの役割も兼ねていることが多く、その分だけ視界は... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/product-cockpit-for-product-teams</guid>
-      <pubDate>Fri, 30 Oct 2026 08:18:26 +0000</pubDate>
+
+ はじめに
+結論から言うと、自分のPCは「攻撃者のスクリプトは読み込んでたけど、本体（遠隔操作ツール）が動いた痕跡は見つからなかった」って状態だった。
+IT系の専門学... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nanana_sk/articles/nikke-launcher-incident</guid>
+      <pubDate>Wed, 04 Nov 2026 02:23:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIエージェント導入は「技術問題」ではない — Google Cloudが多数の企業支援から得た5つの組織変革の教訓</title>
+      <link>https://techfeed.io/entries/6aea6a4774d60e1304bdb1b7?from=rss</link>
+      <description>11月4日、Google Cloudが「Lessons for adopting AI agents」と題した記事を公開した。生成AIが「質問に答えるツール」から「業務を自律的に遂行するエージェント」へと進化する中、企業への導入で最大の壁となるのは技術ではなく組織文化の変革だ。Google Cloud Consultingはその最前線で多数の企業を支援してきた立場から、以下の5つの実践的教訓をまとめている。1. ワークフローを「エージェント実行・人間主導」に再設計する既存の業務フローにAIエージェントを"追加"するだけでは不十分だ。元記事はリレー競走を例に挙げる。一区間だけ走者を速くしても、バトンの受け渡しで詰まれば全体は速くならない。推奨されるのは、フロー全体の再設計だ。具体的には以下の3点が挙げられている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aea6a4774d60e1304bdb1b7?from=rss</guid>
+      <pubDate>Tue, 03 Nov 2026 23:12:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>高市総理のPHP投稿で何がうれしかったのか？今後の説得に使っていくよ～</title>
+      <link>https://zenn.dev/tyamadadd/articles/36f975db1c41d8</link>
+      <description>10月21日の夜、高市総理の投稿を見て、私は素直にうれしいと感じました。
+そして「これは今後使える！」とも感じましたw
+ただ、使い方を誤るとやけどをする話でもあります。
+総理の投稿をきっかけに、世の中には「安全のためならサービスを止めてよい」という風潮が広まったと私はみています。
+一方で、実際に起きたことと、世の中に伝わったことの間にはズレがあります。
+ズレを知らずに使うと、思わぬところで足元をすくわれます。
+次に使うときのために、実際に起きたことと、世の中に伝わったことを分けて書き出しておきます。
+!
+2026年11月3日時点で、投稿の原文と報道、各社の告知を確認した範囲の情報です。事... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tyamadadd/articles/36f975db1c41d8</guid>
+      <pubDate>Tue, 03 Nov 2026 10:35:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>弊社がAIでPlaywrightテストコードを生成するために調整したこと</title>
+      <link>https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude</link>
+      <description>こんにちは！CastingONEの大沼です。
+
+ 始めに
+弊社では毎回のQA期間で行うテスト工数を減らすために、Playwrightを使った自動テストを導入しました。テストコードはAIで生成したものを使っていましたが、最初は品質が悪く色々調整する必要があったため、この辺について備忘録としてまとめました。
+
+ AIが生成したコードで微妙だった点と対策
+どういったルールが必要なのか僕も分からなかったので一旦AIに色々書かせてみて、ここは調整した方が良いなと思ったのをいくつか紹介します。なお、最初のルールはとりあえず公式が説明している方法で出力されたルールを日本語訳にしたものを使いました。
+h... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude</guid>
+      <pubDate>Mon, 02 Nov 2026 02:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>EUがGeminiの「学習」と「回答生成」を法的に切り分け — リアルタイムでニュースを取得するRAG設計は著作権侵害になりうると法務官が指摘（判決ではない）</title>
+      <link>https://techfeed.io/entries/6aea6a5774d60e1304bdb1c8?from=rss</link>
+      <description>11月3日、Inside AIが「EU Court Adviser Says Google Gemini May Infringe Copyright in Press Use」と題した記事を公開した。EU司法裁判所（CJEU）の法務官がGoogleのAIチャットボット「Gemini」による報道コンテンツ利用について著作権侵害の可能性を指摘する意見書を提出したもので、AIの開発プロセスを「学習」と「推論時の取得」に法的に分離するという新解釈が業界に波紋を広げている。まだ判決ではないが、法務官意見はCJEUの裁判官が追認するケースが多く、事実上の判決の予告として扱われる点で注目度が高い。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aea6a5774d60e1304bdb1c8?from=rss</guid>
+      <pubDate>Tue, 03 Nov 2026 23:12:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>SigLIP2に匹敵する画像エンコーダーをフルスクラッチで開発した話</title>
+      <link>https://zenn.dev/noetra_techblog/articles/0cea39ce67d2c2</link>
+      <description>はじめに
+Noetraでは、フィジカルAIの実現に向けて、国産マルチモーダルLLMの開発を進めています。その基盤技術の一つとして、本記事では画像エンコーダーをフルスクラッチで構築した取り組みについて紹介します。
+近年、国内外の企業・研究機関でマルチモーダルLLMの開発が活発化しています。多くのモデルは、言語モデルを独自開発している一方で、画像エンコーダーにはSigLIP2に代表される、非公開データで学習された高性能なモデルを利用しています。しかし、そのデータや学習過程が分からないままでは、透明性や安全性に関する懸念が残ります。
+そこで我々のチームでは、自立した国産マルチモーダルLLM... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/noetra_techblog/articles/0cea39ce67d2c2</guid>
+      <pubDate>Wed, 04 Nov 2026 05:42:59 +0000</pubDate>
     </item>
     <item>
       <title>AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った</title>
@@ -93,6 +95,16 @@ AIを使ったソフトウェア開発において「意思決定の記録を残
 ところが、ADRを書くルールを整備しないままAIに書かせていると、 人間が読み返しづらいADR が次々と出てくるようになりました。「人間がじっくり目を通すべきものの代表格」... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/adr-authoring-guideline</guid>
       <pubDate>Mon, 02 Nov 2026 06:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIAの音声修復モデルRE-USEでポッドキャストのノイズ除去と文字起こしを比較してみた</title>
+      <link>https://zenn.dev/karaage0703/articles/podcast-reuse-whisper-workflow</link>
+      <description>散歩しながらポッドキャストを録っていると、風切り音や周囲の音がどうしても入ります。私は「からあげ帝国放送局」というポッドキャストをしているのですが、そのノイズ低減に、今話題のNVIDIAの音声修復モデルRE-USEを試してみました。ノイズ低減と合わせて気になったのが、修復した音声を文字起こしに使った方がよいかで、そこも合わせて確認しています。
+実際の配信音声を「原音」「音量調整のみ」「RE-USEで修復して音量調整」の3条件でWhisperに入力してみました。
+この記事ではその比較結果と、ポッドキャストの文字起こしから概要・目次を作るまでのおすすめワークフローを紹介します。
+先に結論を書... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/karaage0703/articles/podcast-reuse-whisper-workflow</guid>
+      <pubDate>Tue, 03 Nov 2026 14:13:12 +0000</pubDate>
     </item>
     <item>
       <title>日本の全法令を git の履歴にしてみた</title>
