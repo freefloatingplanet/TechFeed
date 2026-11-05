@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:59:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:20:43 +0000</lastBuildDate>
+    <item>
+      <title>AI駆動開発の次の段階: ソフトウェアファクトリー - Qiita</title>
+      <link>https://qiita.com/Syoitu/items/9364a0a175893bb15219</link>
+      <description>前書き 最近、Claude Codeの開発者であるFelix Riesebergさんの記事『AIモデルを扱う人類のための「志を高く持つ」チュートリアル』を読みました。その考え方に刺激を受けたので、少し引用して紹介します。 記事によると、Claudeは最近、新しい惑星の発見にも一役買ったそうです。 それなのに、私たちの多くはいまだに「... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://qiita.com/Syoitu/items/9364a0a175893bb15219</guid>
+      <pubDate>Wed, 04 Nov 2026 12:39:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Editorはもう古い。新ロールへ安全に移る768試行</title>
+      <link>https://zenn.dev/acntechjp/articles/zenn-gcp-basic-roles-migration</link>
+      <description>3行でまとめ
+
+Google Cloud に、Owner・Editor・Viewer の後継となる新しい基本ロール Admin・Writer・Reader が登場しました
+ただし名前を置き換えるだけで移行すると、一部の人にだけ見せていたデータが、Reader を持つ全員に読めるようになってしまいます
+移行前に影響を洗い出すスクリプトを作り、答えを伏せた試験で、影響のある55か所をすべて見つけられることを確かめました(誤検知は0件)
+
+この記事は個人の検証で、所属組織の見解ではありません。手順とデータは GitHub に置いています。IAM の基本についてはAzureエンジニアがGoo... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/zenn-gcp-basic-roles-migration</guid>
+      <pubDate>Wed, 04 Nov 2026 14:13:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>ECS + RDS → Lambda + Aurora DSQL の移行で社内アプリのインフラ費用がほぼゼロになった話</title>
+      <link>https://zenn.dev/wogo_techblog/articles/4c21661707f8c8</link>
+      <description>はじめに
+こんにちは！株式会社 WOGO で長期インターンをしている福岡幹崇と申します。
+WOGO では、社内向けに小規模な業務用アプリを運用しています。従来、このアプリは RDS を VPC 内に配置する構成で動作しており、トラフィックがほぼゼロであっても無視できない金額の固定費が毎月生じていました。高い可用性や高負荷への対応を求められない社内アプリにとって、こうした固定費は割高です。そこで最近、従来の VPC を用いた構成から Lambda + Aurora DSQL を用いた構成へと移行を行いました。
+本記事では、ECS + RDS → Lambda + Aurora DSQL... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/wogo_techblog/articles/4c21661707f8c8</guid>
+      <pubDate>Wed, 04 Nov 2026 10:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>集約をどこまで機械的に導けるか――形式手法をベースとしたドメインモデリング</title>
+      <link>https://zenn.dev/nrs/articles/33ba79c8b2542e</link>
+      <description>AI に任せられる範囲と人が介入する範囲を分ける基準は、判断の不可逆性にあると考えています。
+すぐに直せる実装の細部は AI に任せられますが、後戻りしにくい判断まで AI だけに任せることには若干の不安が残り、人が介入する余地はいまだにありそうです。
+たとえば AI がコードを正しく書けても、できあがったシステムがビジネスに合っているとは限りません。
+ビジネスの進め方や判断の基準と、システムに組み込んだルールがずれていれば、機能が動いても使ってもらえないでしょう。
+そのずれを実装後に直そうとすると、ビジネスロジックやデータの持ち方まで見直すこともあります。
+ビジネスのルールをどう実装す... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nrs/articles/33ba79c8b2542e</guid>
+      <pubDate>Wed, 04 Nov 2026 11:54:39 +0000</pubDate>
+    </item>
     <item>
       <title>ADRをregoでlintする</title>
       <link>https://zenn.dev/babarot/articles/regomark-adr-checker</link>
@@ -18,26 +60,6 @@
 Decision に、画面のメニュー項目の一覧や定数、構造体の定義まで書いてある。仕様書に近づいて、コードを... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/babarot/articles/regomark-adr-checker</guid>
       <pubDate>Tue, 03 Nov 2026 07:59:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>NIKKE PCランチャーのサプライチェーン攻撃、IT学生が自分のPCを調べてみた</title>
-      <link>https://zenn.dev/nanana_sk/articles/nikke-launcher-incident</link>
-      <description>!
-この記事について：この記事の調査は、生成AI（Claude）と対話しながら進めた結果をまとめたものです。また、記事の文章もAIが下書きし、筆者が内容を確認・修正しています。AIの説明や判断には誤りが含まれている可能性があり、筆者自身もセキュリティの専門家ではありません。内容を鵜呑みにせず、必ず元の解析レポートや公式発表など一次情報で確認してください。この記事の手順で「安全だ」と判断して何か起きても責任は持てません。
-
-
- はじめに
-結論から言うと、自分のPCは「攻撃者のスクリプトは読み込んでたけど、本体（遠隔操作ツール）が動いた痕跡は見つからなかった」って状態だった。
-IT系の専門学... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nanana_sk/articles/nikke-launcher-incident</guid>
-      <pubDate>Wed, 04 Nov 2026 02:23:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェント導入は「技術問題」ではない — Google Cloudが多数の企業支援から得た5つの組織変革の教訓</title>
-      <link>https://techfeed.io/entries/6aea6a4774d60e1304bdb1b7?from=rss</link>
-      <description>11月4日、Google Cloudが「Lessons for adopting AI agents」と題した記事を公開した。生成AIが「質問に答えるツール」から「業務を自律的に遂行するエージェント」へと進化する中、企業への導入で最大の壁となるのは技術ではなく組織文化の変革だ。Google Cloud Consultingはその最前線で多数の企業を支援してきた立場から、以下の5つの実践的教訓をまとめている。1. ワークフローを「エージェント実行・人間主導」に再設計する既存の業務フローにAIエージェントを"追加"するだけでは不十分だ。元記事はリレー競走を例に挙げる。一区間だけ走者を速くしても、バトンの受け渡しで詰まれば全体は速くならない。推奨されるのは、フロー全体の再設計だ。具体的には以下の3点が挙げられている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6aea6a4774d60e1304bdb1b7?from=rss</guid>
-      <pubDate>Tue, 03 Nov 2026 23:12:07 +0000</pubDate>
     </item>
     <item>
       <title>高市総理のPHP投稿で何がうれしかったのか？今後の説得に使っていくよ～</title>
@@ -55,25 +77,13 @@ IT系の専門学... (source: Zennのトレンド)</description>
       <pubDate>Tue, 03 Nov 2026 10:35:09 +0000</pubDate>
     </item>
     <item>
-      <title>弊社がAIでPlaywrightテストコードを生成するために調整したこと</title>
-      <link>https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude</link>
-      <description>こんにちは！CastingONEの大沼です。
-
- 始めに
-弊社では毎回のQA期間で行うテスト工数を減らすために、Playwrightを使った自動テストを導入しました。テストコードはAIで生成したものを使っていましたが、最初は品質が悪く色々調整する必要があったため、この辺について備忘録としてまとめました。
-
- AIが生成したコードで微妙だった点と対策
-どういったルールが必要なのか僕も分からなかったので一旦AIに色々書かせてみて、ここは調整した方が良いなと思ったのをいくつか紹介します。なお、最初のルールはとりあえず公式が説明している方法で出力されたルールを日本語訳にしたものを使いました。
-h... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude</guid>
-      <pubDate>Mon, 02 Nov 2026 02:58:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>EUがGeminiの「学習」と「回答生成」を法的に切り分け — リアルタイムでニュースを取得するRAG設計は著作権侵害になりうると法務官が指摘（判決ではない）</title>
-      <link>https://techfeed.io/entries/6aea6a5774d60e1304bdb1c8?from=rss</link>
-      <description>11月3日、Inside AIが「EU Court Adviser Says Google Gemini May Infringe Copyright in Press Use」と題した記事を公開した。EU司法裁判所（CJEU）の法務官がGoogleのAIチャットボット「Gemini」による報道コンテンツ利用について著作権侵害の可能性を指摘する意見書を提出したもので、AIの開発プロセスを「学習」と「推論時の取得」に法的に分離するという新解釈が業界に波紋を広げている。まだ判決ではないが、法務官意見はCJEUの裁判官が追認するケースが多く、事実上の判決の予告として扱われる点で注目度が高い。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6aea6a5774d60e1304bdb1c8?from=rss</guid>
-      <pubDate>Tue, 03 Nov 2026 23:12:23 +0000</pubDate>
+      <title>AIルールだけでは守られない規約を、自作lintで縛るようにした</title>
+      <link>https://zenn.dev/zoma/articles/72011082f2b1b7</link>
+      <description>AI に実装させるようになってから、思い通りの出力にならないものの解決策を AI ルールだけに求め、AI 向けのルールファイルを書き足し続けていました。しかし実際には、AI がルール通りに書かないケースも多く、人による手直しやレビュー指摘が相次いでいました。
+振り返ると、規約は lint で縛るのが元々の基本でした。それを忘れて、AI ルールの更新ばかりしていました。そして lint でも縛ると決めたとき、以前ならプラグインを探して、なければ諦めていたようなプロジェクト固有の規約も、AI と一緒に自作できました。
+この記事では、AI ルールだけに頼っていた規約を lint でも縛るように... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/zoma/articles/72011082f2b1b7</guid>
+      <pubDate>Wed, 04 Nov 2026 09:50:05 +0000</pubDate>
     </item>
     <item>
       <title>SigLIP2に匹敵する画像エンコーダーをフルスクラッチで開発した話</title>
@@ -97,25 +107,22 @@ AIを使ったソフトウェア開発において「意思決定の記録を残
       <pubDate>Mon, 02 Nov 2026 06:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>NVIDIAの音声修復モデルRE-USEでポッドキャストのノイズ除去と文字起こしを比較してみた</title>
-      <link>https://zenn.dev/karaage0703/articles/podcast-reuse-whisper-workflow</link>
-      <description>散歩しながらポッドキャストを録っていると、風切り音や周囲の音がどうしても入ります。私は「からあげ帝国放送局」というポッドキャストをしているのですが、そのノイズ低減に、今話題のNVIDIAの音声修復モデルRE-USEを試してみました。ノイズ低減と合わせて気になったのが、修復した音声を文字起こしに使った方がよいかで、そこも合わせて確認しています。
-実際の配信音声を「原音」「音量調整のみ」「RE-USEで修復して音量調整」の3条件でWhisperに入力してみました。
-この記事ではその比較結果と、ポッドキャストの文字起こしから概要・目次を作るまでのおすすめワークフローを紹介します。
-先に結論を書... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/karaage0703/articles/podcast-reuse-whisper-workflow</guid>
-      <pubDate>Tue, 03 Nov 2026 14:13:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>日本の全法令を git の履歴にしてみた</title>
-      <link>https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git</link>
-      <description>きっかけ
-ただの思いつきです。
-私は法律のことを全然知りません。ただ、最近は AI のおかげで、知らない分野の調べものがとても速くなりました。国会会議録の API を眺めていたときに、ふと「法律を git で管理したら面白いのでは」と思いつきました。知らない分野でも、AI と一緒ならどこまでできるのか試してみたくなりました。
-法律の改正は「〇〇法の一部を改正する法律」という別の法律で行われます。中身は「第三条中『A』を『B』に改める」のような書き換えの指示なので、読んでも結局どこがどう変わったのかが分かりにくいです。
-これは diff だな、と思いました。法律の本文をファイルにして、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git</guid>
-      <pubDate>Sun, 01 Nov 2026 03:36:05 +0000</pubDate>
+      <title>娘とのクイズ遊びをアプリにしたら、日本語の奥深さを体感した話</title>
+      <link>https://zenn.dev/tomipetit/articles/272c4d70a2bf67</link>
+      <description>概要
+クイズを「解く」アプリではなく、クイズを「つくる」アプリを作ったので、その開発の記録をまとめておきます。
+5月にリポジトリを作ってから10月末まで、コミットは全部で307（マージを除くと191）、プルリクエストは114本になりました。履歴をタイムラインで追いながら、何を考えてどこでハマったかを残しておきます。
+
+ きっかけ
+家で娘とクイズを出し合う遊びをよくしています。
+「あかくて、まるくて、あまいもの なーんだ？」
+出すほうも答えるほうも楽しいのですが、実はクイズを作るほうがずっと難しいです。頭の中ではこんなことをしています。
+
+答えを決める
+答えの特徴（ヒント）を探す
+ヒン... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/tomipetit/articles/272c4d70a2bf67</guid>
+      <pubDate>Wed, 04 Nov 2026 12:21:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:59:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:20:48 +0000</lastBuildDate>
     <item>
-      <title>AgentAM：レーザー粉末床溶融におけるスパッタおよび欠陥を考慮したプロセス最適化のためのAIエージェント</title>
-      <link>https://arxiv.org/abs/2611.05171v1</link>
-      <description>レーザー粉末床溶融結合（LPBF）の予測モデルは、クエリにプログラミングとモデル固有の知識が必要なため、製造現場ではほとんど使用されていません。本稿では、プロセスエンジニアがモデルコンテキストプロトコル（MCP）を介してSS316Lのスパッタと溶融プール形状のCFDトレーニング済みサロゲートに自然言語でアクセスできるようにする大規模言語モデル（LLM）エージェントであるAgentAMを紹介します。279のシングルトラックシミュレーションでトレーニングされた多項式サロゲートは、トレーニング範囲内の任意の出力速度ポイントで溶融プール寸法（$R^2 \geq 0.95$）とスパッタ体積（テストデータで$R^2 = 0.83$）を予測し、幾何学的基準は、クロスバリデーションで93.4%のトラックでシミュレーションされた形状から得られた欠陥状態と一致する形状由来の欠陥状態（キーホール、溶融不足、ボール状、または安定）を各ポイントに割り当てます。このエージェントは、予測、プロセスウィンドウスキャン、および制約付き最適化のためのツールを選択してパラメータ化します。最小スパッタ最適解は、融合不良境界か (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.05171v1</guid>
-      <pubDate>Tue, 03 Nov 2026 16:38:46 +0000</pubDate>
+      <title>JWSTによる47 Tucanaeの観測：I. 水素燃焼限界までの低質量主系列</title>
+      <link>https://arxiv.org/abs/2610.18995v1</link>
+      <description>本稿では、NIRCamを用いて取得した球状星団47 Tucanae（47 Tuc、またはNGC 104）のJWST観測に基づく一連の研究の最初の結果を発表する。新しいデータと以前のJWST観測を組み合わせることにより、複数年にわたるベースライン（約3年）で高精度の固有運動（PM）を導出し、主系列（MS）に沿って非常に暗い等級（F444W～24.25等級、約0.077太陽質量に相当、47 Tucの推定水素燃焼限界（約0.074太陽質量）をわずかに上回る）まで広がる星団メンバーのクリーンなサンプルを構築する。我々は、新しいF090WおよびF444W測光を用いて、47 Tucで以前に特定された低質量MSキンクの存在を調査した。これらのフィルターを使用しても、この特徴の有意な兆候は見つからず、これは、非常に低質量の星における炭素化学がメタン優勢平衡へと移行した結果であるという、提案された物理的解釈と一致しています。理論的な等時曲線との比較から、MSの底付近の恒星集団は酸素欠乏星が優勢である可能性が高く、これは以前の発見と一致しています。人工星テストを使用して、サンプルの完全性を定量化し、PMベ (source: arXiv Query: search_query=all:observation AND (all:star OR all:stellar) AND (all:formation OR all:forming OR all:star-forming) AND (all:region OR all:regions OR all:cluster) AND ( (all:planetary AND all:mass) OR (all:brown AND all:dwarf) OR (all:free AND all:floating) )&amp;id_list=&amp;start=0&amp;max_results=20)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.18995v1</guid>
+      <pubDate>Tue, 13 Oct 2026 18:01:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
