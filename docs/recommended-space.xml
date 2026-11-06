@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 14:20:46 +0000</lastBuildDate>
-    <item>
-      <title>宇宙ビジネスでの仕事に興味がある方必見！ 宇宙業界の仕事分類【5つの持ち場と3つのまとめ役】</title>
-      <link>https://sorabatake.jp/47308/</link>
-      <description>宇宙業界に興味はあるけれど、自分の経験が通用するかわからない。そんな方に向けて、宇宙機をつくる仕事の分かれ方と開発の流れを整理しました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/47308/</guid>
-      <pubDate>Wed, 28 Oct 2026 23:02:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>宇宙と地上を1つのネットワークに。次世代衛星1万5,000機の認可に続き、SpaceXはなぜ全米の「地上の周波数」を買うのか【宇宙ビジネスニュース】</title>
-      <link>https://sorabatake.jp/47336/</link>
-      <description>SpaceXが全米の地上の周波数を買う契約を結びました。周波数を「買う」とは何か、手続きの現在地、宇宙と地上を1つにする狙いを順に解説します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/47336/</guid>
-      <pubDate>Thu, 29 Oct 2026 23:02:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 13:57:22 +0000</lastBuildDate>
     <item>
       <title>独Isar Aerospace、衛星打ち上げに初成功。7号機まで製造中【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/47420/</link>
@@ -37,11 +23,25 @@
       <pubDate>Tue, 27 Oct 2026 03:00:42 +0000</pubDate>
     </item>
     <item>
+      <title>世界初「宇宙に行ったVTuberグッズ」が地球へ帰還　「推し宙プロジェクト」によって国際宇宙ステーションに滞在</title>
+      <link>https://sorae.info/news/20261106-oshisora-space-live.html</link>
+      <description>「宇宙へモノを届ける」というのは、現在でも日常から遠い出来事であると感じるかもしれません。しかし現在では、比較的自由にモノを宇宙に送ることができます。JAXA（宇宙航空研究開発機構）の「きぼう有償利用制度」は、まさにその… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/news/20261106-oshisora-space-live.html</guid>
+      <pubDate>Fri, 06 Nov 2026 02:29:29 +0000</pubDate>
+    </item>
+    <item>
       <title>Open Cosmosが3億ユーロを調達。衛星の量産能力を拡大し、他国に頼らない観測・通信サービスの展開を加速【宇宙ビジネスニュース】</title>
       <link>https://sorabatake.jp/47261/</link>
       <description>2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました。今回の調達資金は衛星の量産能力の拡大と、ConnectedCosmos、OpenConstellation、DataCosmosの展開加速に充てられます。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/47261/</guid>
       <pubDate>Sun, 25 Oct 2026 23:04:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年11月の星空情報：土星と秋の四辺形を見つけよう</title>
+      <link>https://sorae.info/astronomy/202611-starry-sky.html</link>
+      <description>11月、紅葉が盛りとなり、山々が錦のようにあでやかな様子を見せる季節となりました。 一方、秋の星空は明るい1等星も少なく、冷たい晩秋の風の中で、ひそやかな光を放っています。 その中で、明るく輝くのが土星です。2026年1… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/202611-starry-sky.html</guid>
+      <pubDate>Sun, 01 Nov 2026 09:43:40 +0000</pubDate>
     </item>
     <item>
       <title>「投資すべき技術の価値は測れるのか」國中均先生 × 山﨑さん対談、研究者だけでは実現できなかった大きな偉業の背景にあったもの</title>
@@ -51,11 +51,32 @@
       <pubDate>Tue, 27 Oct 2026 23:01:15 +0000</pubDate>
     </item>
     <item>
+      <title>小惑星を探す望遠鏡の巨大な日よけ　NASA宇宙望遠鏡「NEOサーベイヤー」の組み立て進む</title>
+      <link>https://sorae.info/space/20261105-neo-surveyor.html</link>
+      <description>こちらは、NASA（アメリカ航空宇宙局）が開発中の赤外線宇宙望遠鏡「NEOサーベイヤー（NEO Surveyor）」の「サンシェード（日よけ）」を、技術者が点検している様子です。 画像に向かって左上を斜めに占めているのが… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20261105-neo-surveyor.html</guid>
+      <pubDate>Thu, 05 Nov 2026 03:13:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>民間の力で延命へ？　NASAがハッブル宇宙望遠鏡の軌道上昇などで企業に情報提供を依頼</title>
+      <link>https://sorae.info/space/20261102-nasa-hubble.html</link>
+      <description>NASA（アメリカ航空宇宙局）は2026年10月29日付で、ハッブル宇宙望遠鏡の延命を模索する取り組みの一環として、軌道上昇などを担うミッションに関する民間企業への情報提供依頼（RFI）を発行しました。 軌道上昇のタイム… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20261102-nasa-hubble.html</guid>
+      <pubDate>Mon, 02 Nov 2026 09:10:32 +0000</pubDate>
+    </item>
+    <item>
       <title>「成功のイメージは、一度も湧かなかった」はやぶさのメインエンジンを担当した國中均先生が今だから話せること</title>
       <link>https://sorabatake.jp/47193/</link>
       <description>現在は総合研究大学院大学に所属し、元JAXA宇宙科学研究所長、小惑星探査機「はやぶさ」の成功に不可欠であったイオンエンジンの開発者である國中均先生と、Tellus Globalの代表取締役である山﨑秀人さんとの対談取材を実施。前編では、國中先生の失敗経験と乗り越えた話、また、はやぶさのメインエンジンにイオンエンジンを用いることになった裏話を教えていただきました。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/47193/</guid>
       <pubDate>Tue, 27 Oct 2026 23:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>インド、次世代測位衛星「NVS-03」の打ち上げに成功　衛星不足が続くNavICの再建へ</title>
+      <link>https://sorae.info/ssn/20261031-gslv-f18-nvs-03.html</link>
+      <description>ISRO（インド宇宙研究機関）は日本時間2026年10月31日、「GSLV-F18」ロケットの打ち上げを実施しました。搭載されていた測位衛星「NVS-03」は所定の軌道へ投入されたことを、ISROが公式サイトで報告してい… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/ssn/20261031-gslv-f18-nvs-03.html</guid>
+      <pubDate>Sat, 31 Oct 2026 04:36:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

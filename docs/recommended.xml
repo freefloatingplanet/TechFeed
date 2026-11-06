@@ -7,36 +7,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 14:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:57:19 +0000</lastBuildDate>
     <item>
-      <title>AI駆動開発の次の段階: ソフトウェアファクトリー - Qiita</title>
-      <link>https://qiita.com/Syoitu/items/9364a0a175893bb15219</link>
-      <description>前書き 最近、Claude Codeの開発者であるFelix Riesebergさんの記事『AIモデルを扱う人類のための「志を高く持つ」チュートリアル』を読みました。その考え方に刺激を受けたので、少し引用して紹介します。 記事によると、Claudeは最近、新しい惑星の発見にも一役買ったそうです。 それなのに、私たちの多くはいまだに「... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://qiita.com/Syoitu/items/9364a0a175893bb15219</guid>
-      <pubDate>Wed, 04 Nov 2026 12:39:35 +0000</pubDate>
+      <title>AIガバナンス予算を増やすほど管理が追いつかなくなる — 自己申告の約30倍のAIツールが野放しになっている実態</title>
+      <link>https://techfeed.io/entries/6aed0d666547854aa3bc4f33?from=rss</link>
+      <description>11月5日、Help Net Securityが「Companies are spending more on AI governance and getting less control」と題した記事を公開した。AIガバナンスへの投資が増加する一方で、シャドーAI（IT部門の正式な承認を経ずに従業員が個人的に導入・利用するAIツール。企業データの漏洩リスクやコンプライアンス違反の温床として近年急速に問題視されている）の実態把握はむしろ困難になっているという調査結果を紹介している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aed0d666547854aa3bc4f33?from=rss</guid>
+      <pubDate>Thu, 05 Nov 2026 23:12:38 +0000</pubDate>
     </item>
     <item>
-      <title>Editorはもう古い。新ロールへ安全に移る768試行</title>
-      <link>https://zenn.dev/acntechjp/articles/zenn-gcp-basic-roles-migration</link>
-      <description>3行でまとめ
+      <title>コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた</title>
+      <link>https://zenn.dev/nexta_/articles/42a828ca2b8a02</link>
+      <description>Claude Code のセッションを、VSCode の拡張機能で5つほど並べて使っている。
+Markdown が見やすく、コードも見られて、VSCode から離れなくて済むからだ。
+ただ、パネルの見出しは短く、5枚並べるとどれが何をしているのか分からなくなる。
+使用枠があとどれくらい持つのかも気になる。
+そこで、動いているセッションを1枚で見るダッシュボードを自分用に作った。
+いま動いているセッションの状態、その日の作業履歴、使用枠の推移、引き継ぎ台帳、
+過去の会話の検索、毎朝の「今日やること」までが入っている。
 
-Google Cloud に、Owner・Editor・Viewer の後継となる新しい基本ロール Admin・Writer・Reader が登場しました
-ただし名前を置き換えるだけで移行すると、一部の人にだけ見せていたデータが、Reader を持つ全員に読めるようになってしまいます
-移行前に影響を洗い出すスクリプトを作り、答えを伏せた試験で、影響のある55か所をすべて見つけられることを確かめました(誤検知は0件)
-
-この記事は個人の検証で、所属組織の見解ではありません。手順とデータは GitHub に置いています。IAM の基本についてはAzureエンジニアがGoo... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/zenn-gcp-basic-roles-migration</guid>
-      <pubDate>Wed, 04 Nov 2026 14:13:58 +0000</pubDate>
+架空のデータで作った画面
+作るときに1つ決めたことがある。コードは一切... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nexta_/articles/42a828ca2b8a02</guid>
+      <pubDate>Wed, 04 Nov 2026 02:30:07 +0000</pubDate>
     </item>
     <item>
-      <title>ECS + RDS → Lambda + Aurora DSQL の移行で社内アプリのインフラ費用がほぼゼロになった話</title>
-      <link>https://zenn.dev/wogo_techblog/articles/4c21661707f8c8</link>
-      <description>はじめに
-こんにちは！株式会社 WOGO で長期インターンをしている福岡幹崇と申します。
-WOGO では、社内向けに小規模な業務用アプリを運用しています。従来、このアプリは RDS を VPC 内に配置する構成で動作しており、トラフィックがほぼゼロであっても無視できない金額の固定費が毎月生じていました。高い可用性や高負荷への対応を求められない社内アプリにとって、こうした固定費は割高です。そこで最近、従来の VPC を用いた構成から Lambda + Aurora DSQL を用いた構成へと移行を行いました。
-本記事では、ECS + RDS → Lambda + Aurora DSQL... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/wogo_techblog/articles/4c21661707f8c8</guid>
-      <pubDate>Wed, 04 Nov 2026 10:00:06 +0000</pubDate>
+      <title>Slurm は Kaggle で役に立つ</title>
+      <link>https://zenn.dev/pomcho555/articles/c455d086ec47af</link>
+      <description>1. はじめに
+Slurm は、スパコンや研究室の GPU クラスタでよく使われるジョブスケジューラです。投入されたジョブをキューに並べておいて、CPU・メモリ・GPU が空いたものから順に実行してくれます。
+「大きなクラスタのための道具でしょ？」という印象がありますが、実は自宅の GPU 1 枚で Kaggle をするときにも、めちゃくちゃ役に立ちました！Kaggle の RSNA Knee Abnormality Detection（膝 MRI の異常検出）に RTX 3090 1 枚で参加したとき、学習ジョブの管理に Slurm を使っていたんです。41 日間で、RSNA の学... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pomcho555/articles/c455d086ec47af</guid>
+      <pubDate>Thu, 05 Nov 2026 11:54:56 +0000</pubDate>
     </item>
     <item>
       <title>集約をどこまで機械的に導けるか――形式手法をベースとしたドメインモデリング</title>
@@ -51,6 +53,16 @@ WOGO では、社内向けに小規模な業務用アプリを運用していま
       <pubDate>Wed, 04 Nov 2026 11:54:39 +0000</pubDate>
     </item>
     <item>
+      <title>freeeインターン 2週間で掴んだ仕事の進め方 ― 夏インターンを終えて</title>
+      <link>https://zenn.dev/amanon/articles/1bbf5afc0fbf9f</link>
+      <description>はじめまして。日本工学院専門学校ITスペシャリスト科3年の天野滉瑛です。
+2026年8月31日から9月11日までの2週間、フリー株式会社のインターンシップ（アドバンスコース）に参加し、課金基盤チームに配属されました。
+会社からPCが支給されるような大きな会社のインターンは、今回が初めてでした。RubyKaigiに参加してからRubyへのモチベーションが高く、Railsの大規模なコードベースに触れられるのを楽しみにしていた一方で、大規模なバックエンドも、Design Doc（以下DD）を書くのも初めてで、始まる前はかなり緊張していました。
+この記事では、10日間を日ごとに並べるのではなく、... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/amanon/articles/1bbf5afc0fbf9f</guid>
+      <pubDate>Fri, 06 Nov 2026 01:48:50 +0000</pubDate>
+    </item>
+    <item>
       <title>ADRをregoでlintする</title>
       <link>https://zenn.dev/babarot/articles/regomark-adr-checker</link>
       <description>AIが書くADRのフォーマットをどう揃えるか
@@ -62,38 +74,42 @@ Decision に、画面のメニュー項目の一覧や定数、構造体の定�
       <pubDate>Tue, 03 Nov 2026 07:59:33 +0000</pubDate>
     </item>
     <item>
-      <title>高市総理のPHP投稿で何がうれしかったのか？今後の説得に使っていくよ～</title>
-      <link>https://zenn.dev/tyamadadd/articles/36f975db1c41d8</link>
-      <description>10月21日の夜、高市総理の投稿を見て、私は素直にうれしいと感じました。
-そして「これは今後使える！」とも感じましたw
-ただ、使い方を誤るとやけどをする話でもあります。
-総理の投稿をきっかけに、世の中には「安全のためならサービスを止めてよい」という風潮が広まったと私はみています。
-一方で、実際に起きたことと、世の中に伝わったことの間にはズレがあります。
-ズレを知らずに使うと、思わぬところで足元をすくわれます。
-次に使うときのために、実際に起きたことと、世の中に伝わったことを分けて書き出しておきます。
-!
-2026年11月3日時点で、投稿の原文と報道、各社の告知を確認した範囲の情報です。事... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tyamadadd/articles/36f975db1c41d8</guid>
-      <pubDate>Tue, 03 Nov 2026 10:35:09 +0000</pubDate>
+      <title>今更だけど、AIってどう使えばいいの？</title>
+      <link>https://zenn.dev/porters_tech/articles/4f6e5cc83aa74c</link>
+      <description>AIメニュー画像ってやばくね？
+最近、AIで生成した料理の画像をメニューに使用している飲食店の事例を目にすることがある。
+なかには、人間の食べ物とは思えないような見た目の画像もあり、思わず目を引かれる。
+規則的な米の配置や、麺の気持ち悪い形など。
+
+直接作ってみた。
+一見すると「そんなものを作っている意味が分からん」になるが、一方で「我々が作るソースコードや文書も同じじゃないか？」とも考えてしまう。
+なぜそのような画像が作られるのか？それを見て不自然だと思わないのか？
+
+ そもそも見てません
+「人がいちいち確認するなら、AIを使う意味がありません」という意見もある。たしかに。
+つまり... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/porters_tech/articles/4f6e5cc83aa74c</guid>
+      <pubDate>Fri, 06 Nov 2026 01:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>AIルールだけでは守られない規約を、自作lintで縛るようにした</title>
-      <link>https://zenn.dev/zoma/articles/72011082f2b1b7</link>
-      <description>AI に実装させるようになってから、思い通りの出力にならないものの解決策を AI ルールだけに求め、AI 向けのルールファイルを書き足し続けていました。しかし実際には、AI がルール通りに書かないケースも多く、人による手直しやレビュー指摘が相次いでいました。
-振り返ると、規約は lint で縛るのが元々の基本でした。それを忘れて、AI ルールの更新ばかりしていました。そして lint でも縛ると決めたとき、以前ならプラグインを探して、なければ諦めていたようなプロジェクト固有の規約も、AI と一緒に自作できました。
-この記事では、AI ルールだけに頼っていた規約を lint でも縛るように... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/zoma/articles/72011082f2b1b7</guid>
-      <pubDate>Wed, 04 Nov 2026 09:50:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>SigLIP2に匹敵する画像エンコーダーをフルスクラッチで開発した話</title>
-      <link>https://zenn.dev/noetra_techblog/articles/0cea39ce67d2c2</link>
+      <title>AI駆動文章作成において俺が意識しているテクニック集</title>
+      <link>https://zenn.dev/ntk221/articles/34ad88a9225364</link>
       <description>はじめに
-Noetraでは、フィジカルAIの実現に向けて、国産マルチモーダルLLMの開発を進めています。その基盤技術の一つとして、本記事では画像エンコーダーをフルスクラッチで構築した取り組みについて紹介します。
-近年、国内外の企業・研究機関でマルチモーダルLLMの開発が活発化しています。多くのモデルは、言語モデルを独自開発している一方で、画像エンコーダーにはSigLIP2に代表される、非公開データで学習された高性能なモデルを利用しています。しかし、そのデータや学習過程が分からないままでは、透明性や安全性に関する懸念が残ります。
-そこで我々のチームでは、自立した国産マルチモーダルLLM... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/noetra_techblog/articles/0cea39ce67d2c2</guid>
-      <pubDate>Wed, 04 Nov 2026 05:42:59 +0000</pubDate>
+私は基本的に、「誰もわたしが書いた文章なんて読みたくない」と思っています。
+みんな忙しいんです。そんな中であなたが文章を書いて、誰かがそれを読むということは、双方に何かしらの目的があるんだと思います。
+しかも今は AI のおかげで、文章は一瞬でいくらでも書けるようになりました。結果として、仕事の中でも外でも AI が生成した文章が溢れかえっています。AI に書かせた長文を「で、何が言いたいの？」と思いながらスクロールした経験ってありませんか。
+
+わたしはあります。
+だからこそ、みんな忙しい中でどうやって読んでもらうか？ を考えるテクニックが大事になると思います。この記事では... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ntk221/articles/34ad88a9225364</guid>
+      <pubDate>Thu, 05 Nov 2026 14:35:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>数年分のSlackサポートログをRAGで食わせたら、新人でもベテラン並みの診断ができるAIができた話</title>
+      <link>https://techfeed.io/entries/6aed0d2a6547854aa3bc4f1c?from=rss</link>
+      <description>11月6日、Shift Magazineが「We Fed Years of Support Queries to an AI, Hoping It Becomes Our Best Support Engineer」と題した記事を公開した。この記事では、音声プラットフォームのサポート業務における反復作業をAIで自動化するため、SlackのサポートログをRAGとMCPで活用した内製ツール「Lynx」の構築事例について詳しく紹介されている。ベテランの暗黙知をどうコード化するかInfobipの音声プラットフォーム（Voice platform）サポートチームが直面していた課題はシンプルだ。ベテランが10分で解決できる問題を、新人は数時間かけても解けない。たとえば「コールセンターのエージェントが挨拶の最初の数秒が相手に聞こえないと言っている」という問い合わせが来たとする。経験の浅い担当者は、GrafanaのダッシュボードやHEPIC、アプリケーションログ、APIドキュメントを10タブ以上開いて数時間格闘する。だがベテランエンジニアはチケットを一瞥してすぐに「コールオーケストレーターが両通話レグ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aed0d2a6547854aa3bc4f1c?from=rss</guid>
+      <pubDate>Thu, 05 Nov 2026 23:11:38 +0000</pubDate>
     </item>
     <item>
       <title>AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った</title>
@@ -105,24 +121,6 @@ AIを使ったソフトウェア開発において「意思決定の記録を残
 ところが、ADRを書くルールを整備しないままAIに書かせていると、 人間が読み返しづらいADR が次々と出てくるようになりました。「人間がじっくり目を通すべきものの代表格」... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/adr-authoring-guideline</guid>
       <pubDate>Mon, 02 Nov 2026 06:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>娘とのクイズ遊びをアプリにしたら、日本語の奥深さを体感した話</title>
-      <link>https://zenn.dev/tomipetit/articles/272c4d70a2bf67</link>
-      <description>概要
-クイズを「解く」アプリではなく、クイズを「つくる」アプリを作ったので、その開発の記録をまとめておきます。
-5月にリポジトリを作ってから10月末まで、コミットは全部で307（マージを除くと191）、プルリクエストは114本になりました。履歴をタイムラインで追いながら、何を考えてどこでハマったかを残しておきます。
-
- きっかけ
-家で娘とクイズを出し合う遊びをよくしています。
-「あかくて、まるくて、あまいもの なーんだ？」
-出すほうも答えるほうも楽しいのですが、実はクイズを作るほうがずっと難しいです。頭の中ではこんなことをしています。
-
-答えを決める
-答えの特徴（ヒント）を探す
-ヒン... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/tomipetit/articles/272c4d70a2bf67</guid>
-      <pubDate>Wed, 04 Nov 2026 12:21:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
