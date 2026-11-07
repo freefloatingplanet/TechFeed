@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Nov 2026 13:57:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 12:41:46 +0000</lastBuildDate>
     <item>
-      <title>プレゼンテーション：パネルディスカッション：今、フロントエンドは誰が構築しているのか？（そして、その際に何が問題になるのか？）</title>
-      <link>https://www.infoq.com/presentations/panel-ai-frontend-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>パネリストたちは、AIツールとバイブコーディングがフロントエンドとモバイルエンジニアリングをどのように変革しているかを解説します。彼らは、進化するジュニア開発者の役割、AIによるコードレビュー疲れへの対処、自律エージェント向けシステムの設計、アーキテクチャ上のガードレールの適用、オープンソースソフトウェアの持続可能性における経済的変化への対応などについて洞察を共有します。執筆者：Luca Mezzalira、James Hall、Danielle An、Ivan Zarea (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/presentations/panel-ai-frontend-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Wed, 04 Nov 2026 11:00:00 +0000</pubDate>
+      <title>VarlockがBumpyをリリース：変更セットに代わるファイルベースのバージョン管理システム</title>
+      <link>https://www.infoq.com/news/2026/11/bumpy-changesets-alternative/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Bumpyは、モノレポにおけるバージョン管理と変更履歴のためのMITライセンスのTypeScriptツールです。マークダウン形式のバンプファイルを使用するチェンジセットワークフローに準拠し、ワークスペースおよびカタログプロトコル、カスタム公開コマンド、ブランチベースのプレリリースをサポートしています。2026年8月にリリースされたChangesets v3は、以前の多くのギャップを解消しましたが、依然として相違点は残っています。執筆：Daniel Curtis (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/11/bumpy-changesets-alternative/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Sat, 07 Nov 2026 06:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

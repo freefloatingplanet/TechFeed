@@ -7,13 +7,41 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 13:57:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 12:41:39 +0000</lastBuildDate>
     <item>
-      <title>AIガバナンス予算を増やすほど管理が追いつかなくなる — 自己申告の約30倍のAIツールが野放しになっている実態</title>
-      <link>https://techfeed.io/entries/6aed0d666547854aa3bc4f33?from=rss</link>
-      <description>11月5日、Help Net Securityが「Companies are spending more on AI governance and getting less control」と題した記事を公開した。AIガバナンスへの投資が増加する一方で、シャドーAI（IT部門の正式な承認を経ずに従業員が個人的に導入・利用するAIツール。企業データの漏洩リスクやコンプライアンス違反の温床として近年急速に問題視されている）の実態把握はむしろ困難になっているという調査結果を紹介している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6aed0d666547854aa3bc4f33?from=rss</guid>
-      <pubDate>Thu, 05 Nov 2026 23:12:38 +0000</pubDate>
+      <title>.NET にも build.cs 欲しいんじゃーーー</title>
+      <link>https://zenn.dev/sator_imaging/articles/c10d8da7685308</link>
+      <description>某 NIKKE のゲームランチャーが攻撃されるインシデントが発生しました。
+協力会社（出資元？）が CDN として使っていたドメインが期限切れになり、一部のスクリプトが改ざんされたことが原因だそうです。
+
+ 動的データは開発体験を上げるが・・・
+いわゆる RemoteConfig 等のゲームに関連するもの「ではなく」
+
+常に最新版をサーバーから引っ張ってくれば楽できて開発体験が上がる
+
+によって問題が起きたように見えます。
+私も広く公開していないアプリで「最新版を常に GitHub.com から取得」をランタイム時に実行しているので、低リスクとは言え他人事ではないな、と。
+
+初期の開発体... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sator_imaging/articles/c10d8da7685308</guid>
+      <pubDate>Thu, 05 Nov 2026 13:05:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISUCON2026 で優勝しました（当日編）</title>
+      <link>https://zenn.dev/luvtechno/articles/isucon2026-competition-day</link>
+      <description>はじめに
+こんにちは！ @kawasy です。普段は Typing Bears という人間1人の会社で個人開発・研究をしながら、スタートアップを中心に経営課題の解決を支援しています。活動の主なテーマは、ソフトウェアプロダクト開発企業に必要なCTO機能の提供と育成です。
+ISUCON2026 にチーム Typing Bears として1人で参加し、最終スコア 625,857 点で優勝しました。ISUCON への参加は10年ぶりです。
+今回は、完全自律で動作する、HOOTL（Human-out-of-the-loop）型のISUCON用の競技エージェントを用意して参加しました。土曜日は子... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/luvtechno/articles/isucon2026-competition-day</guid>
+      <pubDate>Mon, 02 Nov 2026 13:26:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>自分は旧時代のエンジニアになってしまったのでは</title>
+      <link>https://www.mobtown.jp/article/old-engineer/</link>
+      <description>最近、生成AIによるバイブコーディングが一般化していくにつれて、自分の中でそことの向き合い方を考えていました。 個人的には、生成AIの出力をそのまま鵜呑みにするのではなく、内容を理解し必要に応じて訂正した上で、自分の責任として成果物を出すのがエンジニアリングだ—、というのが今の自分の結論でした。 それは... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.mobtown.jp/article/old-engineer/</guid>
+      <pubDate>Thu, 05 Nov 2026 13:24:35 +0000</pubDate>
     </item>
     <item>
       <title>コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた</title>
@@ -53,14 +81,11 @@ Slurm は、スパコンや研究室の GPU クラスタでよく使われるジ
       <pubDate>Wed, 04 Nov 2026 11:54:39 +0000</pubDate>
     </item>
     <item>
-      <title>freeeインターン 2週間で掴んだ仕事の進め方 ― 夏インターンを終えて</title>
-      <link>https://zenn.dev/amanon/articles/1bbf5afc0fbf9f</link>
-      <description>はじめまして。日本工学院専門学校ITスペシャリスト科3年の天野滉瑛です。
-2026年8月31日から9月11日までの2週間、フリー株式会社のインターンシップ（アドバンスコース）に参加し、課金基盤チームに配属されました。
-会社からPCが支給されるような大きな会社のインターンは、今回が初めてでした。RubyKaigiに参加してからRubyへのモチベーションが高く、Railsの大規模なコードベースに触れられるのを楽しみにしていた一方で、大規模なバックエンドも、Design Doc（以下DD）を書くのも初めてで、始まる前はかなり緊張していました。
-この記事では、10日間を日ごとに並べるのではなく、... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/amanon/articles/1bbf5afc0fbf9f</guid>
-      <pubDate>Fri, 06 Nov 2026 01:48:50 +0000</pubDate>
+      <title>毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった</title>
+      <link>https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria</link>
+      <description>本番環境に攻撃の兆候が来ていないかを、AIエージェントが平日の朝に確認して、判定付きのレポートを作るルーティンを動かしています。 動かし始めて1週間で、判定の基準を3回変えました。最初は「何かが起きたら赤」でしたが、それだと社員の普段の作業でも毎週赤になります。最後は、何が起きたかではなく、人が動く必... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria</guid>
+      <pubDate>Sat, 07 Nov 2026 00:36:39 +0000</pubDate>
     </item>
     <item>
       <title>ADRをregoでlintする</title>
@@ -74,24 +99,6 @@ Decision に、画面のメニュー項目の一覧や定数、構造体の定�
       <pubDate>Tue, 03 Nov 2026 07:59:33 +0000</pubDate>
     </item>
     <item>
-      <title>今更だけど、AIってどう使えばいいの？</title>
-      <link>https://zenn.dev/porters_tech/articles/4f6e5cc83aa74c</link>
-      <description>AIメニュー画像ってやばくね？
-最近、AIで生成した料理の画像をメニューに使用している飲食店の事例を目にすることがある。
-なかには、人間の食べ物とは思えないような見た目の画像もあり、思わず目を引かれる。
-規則的な米の配置や、麺の気持ち悪い形など。
-
-直接作ってみた。
-一見すると「そんなものを作っている意味が分からん」になるが、一方で「我々が作るソースコードや文書も同じじゃないか？」とも考えてしまう。
-なぜそのような画像が作られるのか？それを見て不自然だと思わないのか？
-
- そもそも見てません
-「人がいちいち確認するなら、AIを使う意味がありません」という意見もある。たしかに。
-つまり... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/porters_tech/articles/4f6e5cc83aa74c</guid>
-      <pubDate>Fri, 06 Nov 2026 01:00:05 +0000</pubDate>
-    </item>
-    <item>
       <title>AI駆動文章作成において俺が意識しているテクニック集</title>
       <link>https://zenn.dev/ntk221/articles/34ad88a9225364</link>
       <description>はじめに
@@ -103,13 +110,6 @@ Decision に、画面のメニュー項目の一覧や定数、構造体の定�
 だからこそ、みんな忙しい中でどうやって読んでもらうか？ を考えるテクニックが大事になると思います。この記事では... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/ntk221/articles/34ad88a9225364</guid>
       <pubDate>Thu, 05 Nov 2026 14:35:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>数年分のSlackサポートログをRAGで食わせたら、新人でもベテラン並みの診断ができるAIができた話</title>
-      <link>https://techfeed.io/entries/6aed0d2a6547854aa3bc4f1c?from=rss</link>
-      <description>11月6日、Shift Magazineが「We Fed Years of Support Queries to an AI, Hoping It Becomes Our Best Support Engineer」と題した記事を公開した。この記事では、音声プラットフォームのサポート業務における反復作業をAIで自動化するため、SlackのサポートログをRAGとMCPで活用した内製ツール「Lynx」の構築事例について詳しく紹介されている。ベテランの暗黙知をどうコード化するかInfobipの音声プラットフォーム（Voice platform）サポートチームが直面していた課題はシンプルだ。ベテランが10分で解決できる問題を、新人は数時間かけても解けない。たとえば「コールセンターのエージェントが挨拶の最初の数秒が相手に聞こえないと言っている」という問い合わせが来たとする。経験の浅い担当者は、GrafanaのダッシュボードやHEPIC、アプリケーションログ、APIドキュメントを10タブ以上開いて数時間格闘する。だがベテランエンジニアはチケットを一瞥してすぐに「コールオーケストレーターが両通話レグ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6aed0d2a6547854aa3bc4f1c?from=rss</guid>
-      <pubDate>Thu, 05 Nov 2026 23:11:38 +0000</pubDate>
     </item>
     <item>
       <title>AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った</title>
