@@ -7,58 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 12:41:39 +0000</lastBuildDate>
-    <item>
-      <title>.NET にも build.cs 欲しいんじゃーーー</title>
-      <link>https://zenn.dev/sator_imaging/articles/c10d8da7685308</link>
-      <description>某 NIKKE のゲームランチャーが攻撃されるインシデントが発生しました。
-協力会社（出資元？）が CDN として使っていたドメインが期限切れになり、一部のスクリプトが改ざんされたことが原因だそうです。
-
- 動的データは開発体験を上げるが・・・
-いわゆる RemoteConfig 等のゲームに関連するもの「ではなく」
-
-常に最新版をサーバーから引っ張ってくれば楽できて開発体験が上がる
-
-によって問題が起きたように見えます。
-私も広く公開していないアプリで「最新版を常に GitHub.com から取得」をランタイム時に実行しているので、低リスクとは言え他人事ではないな、と。
-
-初期の開発体... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sator_imaging/articles/c10d8da7685308</guid>
-      <pubDate>Thu, 05 Nov 2026 13:05:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISUCON2026 で優勝しました（当日編）</title>
-      <link>https://zenn.dev/luvtechno/articles/isucon2026-competition-day</link>
-      <description>はじめに
-こんにちは！ @kawasy です。普段は Typing Bears という人間1人の会社で個人開発・研究をしながら、スタートアップを中心に経営課題の解決を支援しています。活動の主なテーマは、ソフトウェアプロダクト開発企業に必要なCTO機能の提供と育成です。
-ISUCON2026 にチーム Typing Bears として1人で参加し、最終スコア 625,857 点で優勝しました。ISUCON への参加は10年ぶりです。
-今回は、完全自律で動作する、HOOTL（Human-out-of-the-loop）型のISUCON用の競技エージェントを用意して参加しました。土曜日は子... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/luvtechno/articles/isucon2026-competition-day</guid>
-      <pubDate>Mon, 02 Nov 2026 13:26:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>自分は旧時代のエンジニアになってしまったのでは</title>
-      <link>https://www.mobtown.jp/article/old-engineer/</link>
-      <description>最近、生成AIによるバイブコーディングが一般化していくにつれて、自分の中でそことの向き合い方を考えていました。 個人的には、生成AIの出力をそのまま鵜呑みにするのではなく、内容を理解し必要に応じて訂正した上で、自分の責任として成果物を出すのがエンジニアリングだ—、というのが今の自分の結論でした。 それは... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.mobtown.jp/article/old-engineer/</guid>
-      <pubDate>Thu, 05 Nov 2026 13:24:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた</title>
-      <link>https://zenn.dev/nexta_/articles/42a828ca2b8a02</link>
-      <description>Claude Code のセッションを、VSCode の拡張機能で5つほど並べて使っている。
-Markdown が見やすく、コードも見られて、VSCode から離れなくて済むからだ。
-ただ、パネルの見出しは短く、5枚並べるとどれが何をしているのか分からなくなる。
-使用枠があとどれくらい持つのかも気になる。
-そこで、動いているセッションを1枚で見るダッシュボードを自分用に作った。
-いま動いているセッションの状態、その日の作業履歴、使用枠の推移、引き継ぎ台帳、
-過去の会話の検索、毎朝の「今日やること」までが入っている。
-
-架空のデータで作った画面
-作るときに1つ決めたことがある。コードは一切... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nexta_/articles/42a828ca2b8a02</guid>
-      <pubDate>Wed, 04 Nov 2026 02:30:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Nov 2026 12:58:56 +0000</lastBuildDate>
     <item>
       <title>Slurm は Kaggle で役に立つ</title>
       <link>https://zenn.dev/pomcho555/articles/c455d086ec47af</link>
@@ -67,6 +16,31 @@ Slurm は、スパコンや研究室の GPU クラスタでよく使われるジ
 「大きなクラスタのための道具でしょ？」という印象がありますが、実は自宅の GPU 1 枚で Kaggle をするときにも、めちゃくちゃ役に立ちました！Kaggle の RSNA Knee Abnormality Detection（膝 MRI の異常検出）に RTX 3090 1 枚で参加したとき、学習ジョブの管理に Slurm を使っていたんです。41 日間で、RSNA の学... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/pomcho555/articles/c455d086ec47af</guid>
       <pubDate>Thu, 05 Nov 2026 11:54:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も</title>
+      <link>https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/</link>
+      <description>AI GPUの中国への流出が問題になっているNVIDIAが、東南アジアでNVIDIA Cloud Partner（NCP）の認定を求める顧客に、GPUの位置を記録できるFleet Intelligenceへの登録を義務付けたとのことです。NCPになれば最新のAI GPUを優先して回してもらえるため、任意のはずの登録が事実上の条件になります。 NVIDIAが東南アジア... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/</guid>
+      <pubDate>Sat, 07 Nov 2026 21:13:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>意思決定だけで週100コミット積むAI開発手法</title>
+      <link>https://zenn.dev/kingyosun/articles/kukuri-ai-dev</link>
+      <description>こんにちは。KingYoSunと申します。
+kukuriというP2P SNSを開発しています。Webからも使えます。
+
+何を考えて作ったのか、どうすれば始められるのかはnoteに書きました。
+kukuriの技術的な話はこの記事に書きましたので気になる方は是非
+この記事ではAIコーディングによっていかにしてこのプロダクトを開発しているか解説します。
+
+ 1. 人間がやること
+私はこのkukuriを開発するにあたって、 以下の作業しかしていません
+
+AIに要望を伝える・壁打ち（AIにIssueを立てさせる）
+「後方互換性・受け入れ条件・ユーザー体験」へ影響する変更を加える場合にのみAIから質... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kingyosun/articles/kukuri-ai-dev</guid>
+      <pubDate>Fri, 06 Nov 2026 17:26:04 +0000</pubDate>
     </item>
     <item>
       <title>集約をどこまで機械的に導けるか――形式手法をベースとしたドメインモデリング</title>
@@ -81,11 +55,13 @@ Slurm は、スパコンや研究室の GPU クラスタでよく使われるジ
       <pubDate>Wed, 04 Nov 2026 11:54:39 +0000</pubDate>
     </item>
     <item>
-      <title>毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった</title>
-      <link>https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria</link>
-      <description>本番環境に攻撃の兆候が来ていないかを、AIエージェントが平日の朝に確認して、判定付きのレポートを作るルーティンを動かしています。 動かし始めて1週間で、判定の基準を3回変えました。最初は「何かが起きたら赤」でしたが、それだと社員の普段の作業でも毎週赤になります。最後は、何が起きたかではなく、人が動く必... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria</guid>
-      <pubDate>Sat, 07 Nov 2026 00:36:39 +0000</pubDate>
+      <title>Excel管理を見直す5つの兆候：運用で直す問題とシステム化する問題</title>
+      <link>https://qiita.com/TechStudioLab/items/db058aab3207b115ed8f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+      <description>最初は一枚のExcelで十分だったのに、いつの間にか同じ情報を別のファイルにも入力している。数字が合わなければ最後に更新した人を確認し、月末の集計では詳しい担当者を探す。
+その不便さは、Excelの機能不足なのか、業務の決め事が足りないのか。
+原因を取り違えると、新しいシ... (source: Qiita - 人気の記事)</description>
+      <guid isPermaLink="true">https://qiita.com/TechStudioLab/items/db058aab3207b115ed8f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+      <pubDate>Sat, 07 Nov 2026 13:03:02 +0000</pubDate>
     </item>
     <item>
       <title>ADRをregoでlintする</title>
@@ -99,6 +75,20 @@ Decision に、画面のメニュー項目の一覧や定数、構造体の定�
       <pubDate>Tue, 03 Nov 2026 07:59:33 +0000</pubDate>
     </item>
     <item>
+      <title>タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった</title>
+      <link>https://zenn.dev/rescuenow/articles/4c03a548cd6589</link>
+      <description>はじめに
+こんにちは、しもちです。
+前回の「2026年自分流AIエージェント環境構築の秋」では、司令塔のエージェントに作業役を回してもらう仕組みを紹介しました。司令塔には作業だけでなく、抱えているタスク全体の管理も任せていて、どれに手を付けるか、どの順で進めるかも司令塔が決めます。自分でタスクの一覧を見て回ることはなくなり、司令塔が出してくる確認待ちに答えるのが主な仕事になりました。
+今回は画面を中心に、その確認待ちを普段どう捌いているかを紹介します。
+
+ 画面の全体
+
+左が司令塔の Claude Code で、右が Orca の右サイドバーに出している「確認待ち」のパネルです。パネ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/rescuenow/articles/4c03a548cd6589</guid>
+      <pubDate>Fri, 06 Nov 2026 08:59:24 +0000</pubDate>
+    </item>
+    <item>
       <title>AI駆動文章作成において俺が意識しているテクニック集</title>
       <link>https://zenn.dev/ntk221/articles/34ad88a9225364</link>
       <description>はじめに
@@ -110,6 +100,13 @@ Decision に、画面のメニュー項目の一覧や定数、構造体の定�
 だからこそ、みんな忙しい中でどうやって読んでもらうか？ を考えるテクニックが大事になると思います。この記事では... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/ntk221/articles/34ad88a9225364</guid>
       <pubDate>Thu, 05 Nov 2026 14:35:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>GeminiのAIモデルを全種類使い比べた結果、ハイエンドの「Argon」ではなく中堅の「Flash」に戻った話</title>
+      <link>https://techfeed.io/entries/6aefb00f49a7d098b464ced1?from=rss</link>
+      <description>11月8日、Sanya Shahが「Out of all Google's Gemini models, this is the one I can't stop reaching for」と題した記事を公開した。GoogleのGeminiモデル4種類を実際に使い比べ、用途別にどれを選ぶべきかをレポートした内容だ。Googleは近年、Geminiのモデルラインナップを急速に拡大しており、軽量・高速の「Flash-Lite」から、一般向けの「Flash」、高度推論向けの「Pro」、そして最上位の「Argon」まで、用途別に細分化されたラインナップを展開している。これはOpenAIがGPT-4oとo3を用途別に使い分けさせる戦略と同様、AI市場全体で進むモデルの階層化トレンドの一環だ。だが、選択肢が増えるほど「どれを使えばいいのか」という問いも複雑になる。Sanya Shahは4モデルを実際に順番に試し、最終的にどれに落ち着いたかをレポートしている。その結論を先に言えば、最も強力なモデルではなく、中堅の「Flash」が日常用途では最適だったというものだ。なぜ「Flash」に戻ったのか——結 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aefb00f49a7d098b464ced1?from=rss</guid>
+      <pubDate>Sat, 07 Nov 2026 23:11:11 +0000</pubDate>
     </item>
     <item>
       <title>AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った</title>
