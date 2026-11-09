@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 12:59:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:39:43 +0000</lastBuildDate>
+    <item>
+      <title>ベテルギウスの大気は伴星にかき乱されている？　アルマ望遠鏡などが捉えた形の変化</title>
+      <link>https://sorae.info/astronomy/20261106-betelgeuse-siwarha.html</link>
+      <description>マサチューセッツ工科大学ヘイスタック観測所のLynn Matthews氏を筆頭とする研究チームは、オリオン座の赤色超巨星「ベテルギウス（Betelgeuse）」の電波による観測データをもとに、近年その証拠が相次ぎ見つかっ… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20261106-betelgeuse-siwarha.html</guid>
+      <pubDate>Fri, 06 Nov 2026 14:11:03 +0000</pubDate>
+    </item>
     <item>
       <title>中国CAS Space、「Kinetica 2」2回目の打ち上げに成功　「千帆」の衛星18機を軌道投入</title>
       <link>https://sorae.info/ssn/20261104-kinetica-2-y2.html</link>
@@ -58,25 +65,18 @@
       <pubDate>Thu, 05 Nov 2026 03:13:14 +0000</pubDate>
     </item>
     <item>
+      <title>ispace米国法人、NASAの「CLPS 2」に日本発企業で唯一の選定。ULTRAランダーで受注を目指す【宇宙ビジネスニュース】</title>
+      <link>https://sorabatake.jp/47484/</link>
+      <description>NASAは、次期月面輸送サービス「CLPS 2」の契約企業8社を選定しました。日本のispaceの米国法人も選ばれ、月着陸船「ULTRA」を活用した個別ミッションの受注を目指します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/47484/</guid>
+      <pubDate>Sun, 08 Nov 2026 22:00:01 +0000</pubDate>
+    </item>
+    <item>
       <title>プラスチックをクッキーに変換する「µBites」の最新報告　色、香り、栄養価に関わる分子の生成に成功</title>
       <link>https://sorae.info/science/20261108-micro-bites.html</link>
       <description>「プラスチックとクッキーの共通点」と聞かれても、ピンとくる人は少ないかもしれません。大きな共通点を1つ挙げるならば、それはどちらも炭素を中心とした有機化合物であるという点です。ですので原理的には、食べられないプラスチック… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/science/20261108-micro-bites.html</guid>
       <pubDate>Sun, 08 Nov 2026 12:01:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>民間の力で延命へ？　NASAがハッブル宇宙望遠鏡の軌道上昇などで企業に情報提供を依頼</title>
-      <link>https://sorae.info/space/20261102-nasa-hubble.html</link>
-      <description>NASA（アメリカ航空宇宙局）は2026年10月29日付で、ハッブル宇宙望遠鏡の延命を模索する取り組みの一環として、軌道上昇などを担うミッションに関する民間企業への情報提供依頼（RFI）を発行しました。 軌道上昇のタイム… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/space/20261102-nasa-hubble.html</guid>
-      <pubDate>Mon, 02 Nov 2026 09:10:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>「成功のイメージは、一度も湧かなかった」はやぶさのメインエンジンを担当した國中均先生が今だから話せること</title>
-      <link>https://sorabatake.jp/47193/</link>
-      <description>現在は総合研究大学院大学に所属し、元JAXA宇宙科学研究所長、小惑星探査機「はやぶさ」の成功に不可欠であったイオンエンジンの開発者である國中均先生と、Tellus Globalの代表取締役である山﨑秀人さんとの対談取材を実施。前編では、國中先生の失敗経験と乗り越えた話、また、はやぶさのメインエンジンにイオンエンジンを用いることになった裏話を教えていただきました。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/47193/</guid>
-      <pubDate>Tue, 27 Oct 2026 23:00:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
