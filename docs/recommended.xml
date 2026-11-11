@@ -7,37 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 14:34:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:49:15 +0000</lastBuildDate>
     <item>
-      <title>AIですぐに作れる時代に、何と向き合うか</title>
-      <link>https://zenn.dev/peoplex_blog/articles/2611-what-to-face-when-ai-builds-fast</link>
-      <description>こんにちは。PeopleX AI面接の開発をしている坂津です。
-ここ1年で、私はコードを一切手で書かなくなりました。
-Claude Opus 5.5 が登場してからは AI が書いたコードの細部もそこまで気にしなくなっています。正しく指示をすれば、Opus 5.5 が書くコードは品質が高く、設計の意図に沿った読みやすいコードがそのまま出てくることがほとんどです。それにアプリケーションのコードはあとからでも比較的簡単に直せます。いまレビューで力を入れているのは、DB 設計やアーキテクチャのように一度決めると後戻りしにくいものです。
-コード自体に向き合う時間は大きく減り、最近の私の仕事は何を... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/peoplex_blog/articles/2611-what-to-face-when-ai-builds-fast</guid>
-      <pubDate>Mon, 09 Nov 2026 04:49:20 +0000</pubDate>
+      <title>AIを使って部屋のどこから鳴っているのか分からない謎の「ピッ」という音の発生源を突き止めた話</title>
+      <link>https://gigazine.net/news/20261111-mysterious-beeps/</link>
+      <description>部屋のどこかから聞こえる謎の「ピッ」という電子音を突き止めるため、AIを使って音の発生場所を特定するシステムを開発した事例をソフトウェア開発者のサイモン・ウィリソン氏が公開しました。スマートフォンやタブレットなどのマイクを活用し、最終的に音の発生源を約40cmの範囲まで絞り込むことに成功したとのことで... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://gigazine.net/news/20261111-mysterious-beeps/</guid>
+      <pubDate>Wed, 11 Nov 2026 06:03:42 +0000</pubDate>
     </item>
     <item>
-      <title>サイバー攻撃急増で「人の手では対応しきれない」──ソフトバンク宮川社長、終わりの見えないパッチ修正に「疲弊しきっている」と吐露</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/10/2000003069/</link>
-      <description>ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社のIDCフロンティアが10月に受けた不正アクセスについて、「大変残念であり、痛恨の極み」と謝罪した。また、AIの進化に伴い、新たな脆弱性が相次いで見つかる状況について「正直言って疲れ切っている状態」と語り、サイバー攻撃への対応に苦慮している現状を... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/10/2000003069/</guid>
-      <pubDate>Tue, 10 Nov 2026 08:35:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude CodeにPostmanプラグインを入れると、AIエージェントが勝手にテストゲートを緩めるのを防ぎながらAPIライフサイクル全体を自律実行できる</title>
-      <link>https://techfeed.io/entries/6af252da49a7d098b465f1d2?from=rss</link>
-      <description>11月10日、Postmanが「Postman Plugin for Claude Code: A Hands-On Guide」と題した記事を公開した。AIエージェントはAPIドキュメントを人間のように読まない——この前提から出発し、Claude CodeにPostmanプラグインを導入することで、APIの設計・モック・テスト・ゲートを一貫して扱えるワークフローを構築する方法を詳しく解説している。「エージェントにAPI仕事をさせる」のではなく、「エージェントが間違えにくい構造を先に作っておく」という設計思想が通底しており、実践的な知見が詰まった記事だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6af252da49a7d098b465f1d2?from=rss</guid>
-      <pubDate>Mon, 09 Nov 2026 23:10:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>UberはAIコード急増でmainブランチが壊れることを許容した — 開発者への影響を遮断しつつ、CIのスループットを130から300 lands/hに回復させた設計判断</title>
-      <link>https://techfeed.io/entries/6af2527249a7d098b465f134?from=rss</link>
-      <description>11月9日、テクノロジーメディア startuphub.ai が「Uber let trunk break to ship AI code faster」と題した記事を公開した。AIコード生成によるPR急増でビルドパイプラインが限界を迎えたUberが、mainブランチの破壊を許容しつつも開発者への影響を遮断する設計変更でスループットを回復させた実践的な取り組みを詳しく紹介している。「mainが壊れる」と聞くと重大インシデントを想起しがちだが、後述するStowPipeの仕組みにより開発者が参照するポインタは常に安全な位置に保たれる点が重要だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6af2527249a7d098b465f134?from=rss</guid>
-      <pubDate>Mon, 09 Nov 2026 23:08:34 +0000</pubDate>
+      <title>PhotoshopとPremiereがClaude/ChatGPTから直接操作可能に — AdobeがMCPでクリエイティブツールを外部AIエージェントに開放</title>
+      <link>https://techfeed.io/entries/6af3a48449a7d098b466aec9?from=rss</link>
+      <description>11月11日、PYMNTSが「Adobe Opens Photoshop and Premiere to Third-Party AI Agents」と題した記事を公開した。AdobeがPhotoshopやPremiereなどのクリエイティブツールをMCP（Model Context Protocol）経由でサードパーティ製AIエージェントに開放するという、クリエイティブ業界にとって注目度の高い発表だ。最大のポイントは2点ある。レイヤーやベクターデータといったネイティブファイル構造を保ったまま外部AIが編集できること、そしてClaudeやChatGPTといった既存のAIアシスタントからPhotoshopやPremiereを直接操作できることだ。AIがクリエイティブワークフローの「外」から指示を出すのではなく、ネイティブなプロジェクトファイルの「中」に入り込む設計は、これまでとは一線を画す統合の形といえる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6af3a48449a7d098b466aec9?from=rss</guid>
+      <pubDate>Tue, 10 Nov 2026 23:11:00 +0000</pubDate>
     </item>
     <item>
       <title>なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？</title>
@@ -57,13 +40,52 @@ Flutter 標準の ... (source: Zennのトレンド)</description>
       <pubDate>Mon, 09 Nov 2026 06:57:46 +0000</pubDate>
     </item>
     <item>
-      <title>少年団の役員向けRAGを作った — 条文単位に切り直しただけで正答52%→72%、ハイブリッド検索は効かなかった</title>
-      <link>https://zenn.dev/mappy55/articles/rulebook-rag-01</link>
-      <description>会則の質問に答えるボットを作る
-私は地域の少年スポーツ団体で会計を担当しています。保護者や役員から来る問い合わせは、だいたい決まっています。「年度の途中で入会したら会費はいくらか」「退会したら返金はあるのか」「振込先はどこか」「雨の日の練習はどうなるのか」。答えは会則、入会案内、過去に役員グループへ流した連絡文のどこかに書いてあるのですが、毎回探して答えています。
-こういう問い合わせに RAG を使ったチャットボットで答えさせるとどうなるのか知りたくなり、架空のクラブのデータを作って試してみました。RAG（検索拡張生成）は、文書を小さな断片（チャンク）に切ってベクトルにしておき、質問... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mappy55/articles/rulebook-rag-01</guid>
-      <pubDate>Mon, 09 Nov 2026 20:35:11 +0000</pubDate>
+      <title>NVIDIAの「長文コンテキスト不要」論文</title>
+      <link>https://zenn.dev/knowledgesense/articles/bd917ed6829121</link>
+      <description>本記事では、AIエージェントの推論コストを下げつつ、精度を保つ手法について、ざっくり理解します。
+株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。
+
+ この記事は何
+この記事は、「AIに長い文章を読ませると、コストが高くなる」問題に関する記事です。NVIDIAの研究チームによって2026年11月に発表された新手法の論文[1]について、日本語で簡単にまとめています。
+https://arxiv.org/abs/2611.05306
+今回も「そもそもRAGとは？」については、知っている前提で進みます。確認する場合は、こ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/bd917ed6829121</guid>
+      <pubDate>Tue, 10 Nov 2026 00:01:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>COBOLコード解析を8人日から2人日に — 台湾CTBC銀行がAIエージェントの分業と品質ゲートで実現したレガシー近代化</title>
+      <link>https://techfeed.io/entries/6af3a49349a7d098b466aeeb?from=rss</link>
+      <description>11月11日、AWSが「How CTBC Bank modernizes mainframe reverse engineering with a multi-agent pipeline on Amazon Bedrock AgentCore」と題した記事を公開した。台湾のCTBC銀行がCOBOLコードのリバースエンジニアリングをAmazon Bedrock AgentCore上のマルチエージェントパイプラインで自動化し、作業工数を約4倍削減した取り組みを詳しく紹介している。「LLMを導入すれば解決する」という発想ではなく、分解と品質ゲートの設計こそが効率向上の主因だという点が、この事例の核心だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6af3a49349a7d098b466aeeb?from=rss</guid>
+      <pubDate>Tue, 10 Nov 2026 23:11:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>FDEを流行り言葉にしてはいけない——元Google Cloud上級執行役員が語る、AIで変われる企業の条件</title>
+      <link>https://techfeed.io/entries/6af3cfbe49a7d098b466db5c?from=rss</link>
+      <description>「FDEを送り込めば、会社が変わる」——そんな期待がエンタープライズの世界に広がっている。だが、本当にそうなのか。その答えは単純ではない。変わることのできる企業には、共通するものがある。業務を深く知っている人の存在。そして蓄積されたデータ。 FDEは、その土壌があって初めて力を発揮できる。1987年から日本IBMに入り、30年以上エンタープライズの現場を歩んだ後、2020年にGoogle Cloud Japanへ転職。カスタマーエンジニアリング担当の上級執行役員として日本企業のAI活用を支援してきた小池裕幸氏に、率直に聞いた。また小池氏は、AI Professionalsの運営企業であるHajimari社、および同社が展開するGOAT Cloud事業（※）の戦略顧問にも2026/10に就任している。※GOAT Cloud: 株式会社Hajimari が運営する Google Cloud / Workspace インテグレーション事業  IBM30年、そしてGoogle Cloudへ── まず、小池さんのご経歴を教えてください。小池: 1987年に日本IBMに入社して、30年以上働きまし (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6af3cfbe49a7d098b466db5c?from=rss</guid>
+      <pubDate>Wed, 11 Nov 2026 02:17:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clojureのマクロによるメタプログラミングで業務ルールのDSLを作る</title>
+      <link>https://zenn.dev/pksha/articles/b7e4c1a9d38f52</link>
+      <description>要約
+設備点検の条件式から、判定関数と、根拠を集めるための参照一覧を生成する DSL(ドメイン固有言語)を作ります。Clojure のマクロで式をデータとして読み取り、参照箇所を集めながら、実行するコードへ変換します。条件式を一度書けば、判定と根拠の収集に必要な定義がそろう仕組みです。
+完成したルールと生成コードを見たあと、Clojure の記法とマクロの実装を説明し、ルールの保守・拡張で省ける作業を確認します。Lisp を初めて読む方を想定しています。
+
+ はじめに
+PKSHA Technology で AI Research &amp; Solution のソフトウェアエンジニア... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pksha/articles/b7e4c1a9d38f52</guid>
+      <pubDate>Tue, 10 Nov 2026 12:55:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること</title>
+      <link>https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi</link>
+      <description>この記事について
+Snowflakeから新しいDashboards（ドキュメント上は Dashboards 2.0 とも呼ばれています）が出ました。触ってみて、正直かなり感動しています。何年も前から「Snowflakeの中でパッと数字を見て、それに質問したいだけなのに、ちょうどいいものがない」と不満を持っていたのですが、ようやくその答えが来たと感じたからです。
+この記事では、なぜこれが私にとって最高だったのかを書きます。これまでSnowflakeで数字を見ようとしたときに何が課題だったのか、そしてそれに対して新しいDashboardsの何が良いのかを、公式ドキュメントの情報も交えなが... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi</guid>
+      <pubDate>Wed, 11 Nov 2026 00:21:10 +0000</pubDate>
     </item>
     <item>
       <title>脆弱性問題を解決するためにRustに移行するべきなのか？</title>
@@ -79,27 +101,16 @@ P... (source: Zennのトレンド)</description>
       <pubDate>Mon, 09 Nov 2026 13:51:19 +0000</pubDate>
     </item>
     <item>
-      <title>古代中国の「米の収量計算」が生成AIの中核になるまで — 行列・マルコフ連鎖・フーリエ変換の歴史を一冊でたどる</title>
-      <link>https://techfeed.io/entries/6af252f949a7d098b465f1ef?from=rss</link>
-      <description>11月9日、Natureが「AI has transformed maths」と題した記事を公開した。AIが数学の研究・応用をどのように変えつつあるか、歴史的背景から最新のAI活用まで包括的に論じた書籍『Big Math』の書評を通じて、「ビッグマス」と呼ばれる現象について詳しく紹介されている。行列の「母」が生成AIの心臓部になるまで記事が紹介しているのは、数学者Steven StrogatzとAlex Townsendが共著した『Big Math: The Hidden Codes That Run Our World』（Little, Brown and Company、2026年）だ。Strogatzは『The Joy of X』（2012年）や『Infinite Powers』（2019年）でも知られる数学の語り部である。本書のキーワードは「ビッグマス（big math）」――「私たちの働き方、遊び方、学び方、買い物・移動・コミュニケーション、さらには治癒の仕方までを揺るがしているテクノロジーの背後にある数学」と定義されている。エンジニアとして最も刺さるのは、行列（matrix (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6af252f949a7d098b465f1ef?from=rss</guid>
-      <pubDate>Mon, 09 Nov 2026 23:10:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>MicrosoftのAI責任者「AIに意識の証拠が出れば権利を認める」— 一方でAnthropicのClaude設計方針は名指しで批判</title>
-      <link>https://techfeed.io/entries/6af252a349a7d098b465f17c?from=rss</link>
-      <description>11月10日、PYMNTSが「Microsoft AI Chief Mustafa Suleyman: Agents Could Deserve Rights if Evidence Emerges」と題した記事を公開した。MicrosoftのAI部門CEOであるMustafa Suleyman氏が、AIエージェントへの権利付与について「意識の証拠が確立されれば認め得る」という条件付きの立場を公表し、同時にAnthropicのClaude設計方針を名指しで批判した——この二つの論点が重なることで、AI業界内部の対立構図が鮮明になっている。「AIに自分の利益を持たせるべきか」という問いは、今や哲学的な思考実験ではなく、自律エージェントが企業システムに深く組み込まれつつある現在において、設計上の実務的判断として問われている。「証拠が出れば立場を変える」——Suleyman氏の発言の核心MicrosoftのAI部門CEOであるMustafa Suleyman氏は、2026年11月1日にXへの投稿で、AIエージェントが意識を持つという証拠が研究者によって確立された場合、将来的に権利を付与するこ (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6af252a349a7d098b465f17c?from=rss</guid>
-      <pubDate>Mon, 09 Nov 2026 23:09:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>「漏洩された側」は何ができるのか？ 相次ぐインシデントから考えるエンドユーザーの防衛策</title>
-      <link>https://zenn.dev/nttdata_tech/articles/a68fc15144b2d8</link>
-      <description>連日のように、企業による個人情報漏洩の公表を目にするようになりました。
-背景にはサイバー攻撃の手口の高度化があります。近年では生成AIの普及により、自然な文面を用いたフィッシングメールの作成やシステムの脆弱性調査が容易になり、攻撃側の作業コストが大きく下がりました。企業側が相応のセキュリティ投資を行っていても、漏洩インシデントのリスクを完全にゼロにすることは非常に困難な環境となっています。
-こうした状況下、私自身の個人メール宛てにも、複数の利用先企業から「個人情報漏洩に関するお詫びとお知らせ」が届きました。しかし、その多くは形式的な経緯報告にとどまり、「サービス利用者が次にどのような防衛... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/a68fc15144b2d8</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:08 +0000</pubDate>
+      <title>AIに書かせた、が全然AIが書いてない件</title>
+      <link>https://zenn.dev/appleworld/articles/65aed6c725af71</link>
+      <description>こんにちは。株式会社アップルワールド プロダクト開発部 グローバルグループの室です。
+私もAIに記事を書かせたい。ここに書くのは、自分の文体で書かせようとした休日一日の記録で、中身はほぼ愚痴である。
+自分で書けるのに任せるのは、積み上がると踏んだからだ。文体の指示書は、直すたびに次の初稿が良くなる。それが本当なら、いまの手間は払う価値がある。この賭けの記録でもある。
+
+ 1. 何を作っていたか
+技術記事を投稿するように言われているので、投稿までを自動にする仕組みを作っていた。Slackのコマンドでお題とメモをストックしておくと、毎朝1本、記事の下書きが出来てGitHubに置かれ、Slac... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/appleworld/articles/65aed6c725af71</guid>
+      <pubDate>Wed, 11 Nov 2026 02:11:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

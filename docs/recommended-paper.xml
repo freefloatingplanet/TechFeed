@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 14:34:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:49:20 +0000</lastBuildDate>
     <item>
-      <title>JWSTによる47 Tucanaeの観測：I. 水素燃焼限界までの低質量主系列</title>
-      <link>https://arxiv.org/abs/2610.18995v1</link>
-      <description>本稿では、NIRCamを用いて取得した球状星団47 Tucanae（47 Tuc、またはNGC 104）のJWST観測に基づく一連の研究の最初の結果を発表する。新しいデータと以前のJWST観測を組み合わせることにより、複数年にわたるベースライン（約3年）で高精度の固有運動（PM）を導出し、主系列（MS）に沿って非常に暗い等級（F444W～24.25等級、約0.077太陽質量に相当、47 Tucの推定水素燃焼限界（約0.074太陽質量）をわずかに上回る）まで広がる星団メンバーのクリーンなサンプルを構築する。我々は、新しいF090WおよびF444W測光を用いて、47 Tucで以前に特定された低質量MSキンクの存在を調査した。これらのフィルターを使用しても、この特徴の有意な兆候は見つからず、これは、非常に低質量の星における炭素化学がメタン優勢平衡へと移行した結果であるという、提案された物理的解釈と一致しています。理論的な等時曲線との比較から、MSの底付近の恒星集団は酸素欠乏星が優勢である可能性が高く、これは以前の発見と一致しています。人工星テストを使用して、サンプルの完全性を定量化し、PMベ (source: arXiv Query: search_query=all:observation AND (all:star OR all:stellar) AND (all:formation OR all:forming OR all:star-forming) AND (all:region OR all:regions OR all:cluster) AND ( (all:planetary AND all:mass) OR (all:brown AND all:dwarf) OR (all:free AND all:floating) )&amp;id_list=&amp;start=0&amp;max_results=20)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.18995v1</guid>
-      <pubDate>Tue, 13 Oct 2026 18:01:13 +0000</pubDate>
+      <title>未使用入力：再帰的TSFMの条件付けインターフェースとしての初期状態</title>
+      <link>https://arxiv.org/abs/2611.14357v1</link>
+      <description>時系列基盤モデル（TSFM）は、タスク固有のトレーニングなしで未知の時系列を予測します。TSFMは、ステップごとのコストが一定であるため、長いコンテキスト推論が安価になり、トランスフォーマーとは異なり状態を保持するリカレントバックボーンに基づいて構築されることが増えています。リカレントバックボーンは、観測されたコンテキストウィンドウと初期リカレント状態の2つの入力から予測を計算します。実際には、慣例として最初のものだけが使用され、初期状態は使用されません。リカレントTSFMで初期状態を使用できるかどうかを尋ねます。xLSTMベースのゼロショット予測器TiRexをケーススタディとして使用し、バックボーンを固定して、コンテキストベクトルを初期状態に書き込む小さなヘッドのみをトレーニングします。これにより、精度の変化は、適応された重みではなく、注入された状態に起因するものとなります。入力ウィンドウのスペクトル要約を一度学習し、すべての系列にそのまま適用すると、平均 GiftEval MASE が 0.175% 低下し、シードごとに改善されます。これは、パラメータが一致する LoRA アダプタ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14357v1</guid>
+      <pubDate>Tue, 10 Nov 2026 17:16:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
