@@ -7,64 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 13:49:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:51:51 +0000</lastBuildDate>
     <item>
-      <title>AIを使って部屋のどこから鳴っているのか分からない謎の「ピッ」という音の発生源を突き止めた話</title>
-      <link>https://gigazine.net/news/20261111-mysterious-beeps/</link>
-      <description>部屋のどこかから聞こえる謎の「ピッ」という電子音を突き止めるため、AIを使って音の発生場所を特定するシステムを開発した事例をソフトウェア開発者のサイモン・ウィリソン氏が公開しました。スマートフォンやタブレットなどのマイクを活用し、最終的に音の発生源を約40cmの範囲まで絞り込むことに成功したとのことで... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://gigazine.net/news/20261111-mysterious-beeps/</guid>
-      <pubDate>Wed, 11 Nov 2026 06:03:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>PhotoshopとPremiereがClaude/ChatGPTから直接操作可能に — AdobeがMCPでクリエイティブツールを外部AIエージェントに開放</title>
-      <link>https://techfeed.io/entries/6af3a48449a7d098b466aec9?from=rss</link>
-      <description>11月11日、PYMNTSが「Adobe Opens Photoshop and Premiere to Third-Party AI Agents」と題した記事を公開した。AdobeがPhotoshopやPremiereなどのクリエイティブツールをMCP（Model Context Protocol）経由でサードパーティ製AIエージェントに開放するという、クリエイティブ業界にとって注目度の高い発表だ。最大のポイントは2点ある。レイヤーやベクターデータといったネイティブファイル構造を保ったまま外部AIが編集できること、そしてClaudeやChatGPTといった既存のAIアシスタントからPhotoshopやPremiereを直接操作できることだ。AIがクリエイティブワークフローの「外」から指示を出すのではなく、ネイティブなプロジェクトファイルの「中」に入り込む設計は、これまでとは一線を画す統合の形といえる。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6af3a48449a7d098b466aec9?from=rss</guid>
-      <pubDate>Tue, 10 Nov 2026 23:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？</title>
-      <link>https://zenn.dev/mixi/articles/b0ea64fded9503</link>
-      <description>こんにちは！mixi2 エンジニアの久野です🍎
-iPhone Duo（以下 Duo）の発売初日、mixi2 がすでに最適化されている！ と話題にしていただきました。
-
-対応を早く進められた理由は、振り返るとこの 3 つです。
-
-ボトムタブが独自実装だったため、縦配置に変更しやすかったこと
-分割した画面の右側に表示したい推し機能が決まっていたこと
-シミュレーターでの確認だけで、実機でも動くことを祈ってリリースする大胆さがチームにあったこと
-
-mixi2 は Flutter で開発しており、go_router で管理する各タブの画面に、独自のタブバーを重ねています。
-Flutter 標準の ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mixi/articles/b0ea64fded9503</guid>
-      <pubDate>Mon, 09 Nov 2026 06:57:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIAの「長文コンテキスト不要」論文</title>
-      <link>https://zenn.dev/knowledgesense/articles/bd917ed6829121</link>
-      <description>本記事では、AIエージェントの推論コストを下げつつ、精度を保つ手法について、ざっくり理解します。
-株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。
-
- この記事は何
-この記事は、「AIに長い文章を読ませると、コストが高くなる」問題に関する記事です。NVIDIAの研究チームによって2026年11月に発表された新手法の論文[1]について、日本語で簡単にまとめています。
-https://arxiv.org/abs/2611.05306
-今回も「そもそもRAGとは？」については、知っている前提で進みます。確認する場合は、こ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/bd917ed6829121</guid>
-      <pubDate>Tue, 10 Nov 2026 00:01:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>COBOLコード解析を8人日から2人日に — 台湾CTBC銀行がAIエージェントの分業と品質ゲートで実現したレガシー近代化</title>
-      <link>https://techfeed.io/entries/6af3a49349a7d098b466aeeb?from=rss</link>
-      <description>11月11日、AWSが「How CTBC Bank modernizes mainframe reverse engineering with a multi-agent pipeline on Amazon Bedrock AgentCore」と題した記事を公開した。台湾のCTBC銀行がCOBOLコードのリバースエンジニアリングをAmazon Bedrock AgentCore上のマルチエージェントパイプラインで自動化し、作業工数を約4倍削減した取り組みを詳しく紹介している。「LLMを導入すれば解決する」という発想ではなく、分解と品質ゲートの設計こそが効率向上の主因だという点が、この事例の核心だ。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6af3a49349a7d098b466aeeb?from=rss</guid>
-      <pubDate>Tue, 10 Nov 2026 23:11:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>FDEを流行り言葉にしてはいけない——元Google Cloud上級執行役員が語る、AIで変われる企業の条件</title>
-      <link>https://techfeed.io/entries/6af3cfbe49a7d098b466db5c?from=rss</link>
-      <description>「FDEを送り込めば、会社が変わる」——そんな期待がエンタープライズの世界に広がっている。だが、本当にそうなのか。その答えは単純ではない。変わることのできる企業には、共通するものがある。業務を深く知っている人の存在。そして蓄積されたデータ。 FDEは、その土壌があって初めて力を発揮できる。1987年から日本IBMに入り、30年以上エンタープライズの現場を歩んだ後、2020年にGoogle Cloud Japanへ転職。カスタマーエンジニアリング担当の上級執行役員として日本企業のAI活用を支援してきた小池裕幸氏に、率直に聞いた。また小池氏は、AI Professionalsの運営企業であるHajimari社、および同社が展開するGOAT Cloud事業（※）の戦略顧問にも2026/10に就任している。※GOAT Cloud: 株式会社Hajimari が運営する Google Cloud / Workspace インテグレーション事業  IBM30年、そしてGoogle Cloudへ── まず、小池さんのご経歴を教えてください。小池: 1987年に日本IBMに入社して、30年以上働きまし (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6af3cfbe49a7d098b466db5c?from=rss</guid>
-      <pubDate>Wed, 11 Nov 2026 02:17:06 +0000</pubDate>
+      <title>Claude Code に忘れさせたら、トークン使用量が4割減った</title>
+      <link>https://zenn.dev/sae_eng/articles/0e9ed7205ebc41</link>
+      <description>こんにちは、Saeです。
+「さえたエンジニア」へなるために、日々鍛錬に勤しんでます。
+最近、Claude Code の使用頻度が多くなってきてトークン節約したいなーと倹約家の血が騒いだので、シンプルですが compact の設定と、離席中に compact させる仕組みを調整してみました。
+そうしたら、結論送っているトークンが合計で4割ほど減りました。
+使い心地も変わらず使えているので、やったことを書いておきます。
+!
+数字は、自分1人の会話の記録（10/13〜11/9）から数えたものです。
+比べた期間は前が15日、後が11日で、仕事の中身も同じではありませんのでざっくり計算 + 体感ぐ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/sae_eng/articles/0e9ed7205ebc41</guid>
+      <pubDate>Wed, 11 Nov 2026 23:00:06 +0000</pubDate>
     </item>
     <item>
       <title>Clojureのマクロによるメタプログラミングで業務ルールのDSLを作る</title>
@@ -79,6 +35,17 @@ PKSHA Technology で AI Research &amp; Solution のソフトウェアエンジ�
       <pubDate>Tue, 10 Nov 2026 12:55:14 +0000</pubDate>
     </item>
     <item>
+      <title>libsignal のグループ暗号化を追って、署名改ざんのテストを追加した</title>
+      <link>https://zenn.dev/under_michi/articles/7791295efdb23e</link>
+      <description>はじめに
+この記事は、東京大学工学部電子情報工学科・電気電子工学科の3年次後期実験の一つ、「大規模ソフトウェアを手探る」の実験レポートを兼ねています。
+この記事は Signal, libsignalをいじってみた の実験の子ページです。libsignal自体の説明は親ページを参照してください。
+この記事の目的は、libsignal でまだテストされていないケースをデバッグで見つけて、テストを追加することです。主にグループ署名についてのテストについて調べて、PRを提出しました(PR #703)。結果として、受理されて main ブランチに merge されました。
+https://ze... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/under_michi/articles/7791295efdb23e</guid>
+      <pubDate>Thu, 12 Nov 2026 01:12:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること</title>
       <link>https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi</link>
       <description>この記事について
@@ -86,6 +53,17 @@ Snowflakeから新しいDashboards（ドキュメント上は Dashboards 2.0 と
 この記事では、なぜこれが私にとって最高だったのかを書きます。これまでSnowflakeで数字を見ようとしたときに何が課題だったのか、そしてそれに対して新しいDashboardsの何が良いのかを、公式ドキュメントの情報も交えなが... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi</guid>
       <pubDate>Wed, 11 Nov 2026 00:21:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenCodeを拡張して、複数の担当と定期実行をひとつのチャットにまとめる「いちょまる」を作った</title>
+      <link>https://zenn.dev/theoj/articles/opencode-development-log</link>
+      <description>はじめに
+
+ 背景と構想
+AIに調査や資料作成を依頼していると、用途ごとに会話が増えていきます。その結果、「どの会話に依頼したか」「どこまで進んだか」「次の依頼をどこへ送るか」を、利用者が会話を行き来しながら覚えておくことになります。毎朝同じ依頼をしたい場合も、利用者が毎朝送り直すしかありません。
+いちょまる（初期の資料ではOMyBotと呼んでいます）は、この管理をひとつのチャットにまとめることを目指しました。構想を図1に示します。利用者が話しかける相手は、常に同じ親セッションです。この記事では、この親を「まとめ役」と呼びます。まとめ役は仕事を子セッション（担当）へ振り分け、子から届... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/theoj/articles/opencode-development-log</guid>
+      <pubDate>Wed, 11 Nov 2026 12:38:35 +0000</pubDate>
     </item>
     <item>
       <title>脆弱性問題を解決するためにRustに移行するべきなのか？</title>
@@ -101,6 +79,19 @@ P... (source: Zennのトレンド)</description>
       <pubDate>Mon, 09 Nov 2026 13:51:19 +0000</pubDate>
     </item>
     <item>
+      <title>ISUCON2026 で優勝しました（準備編）</title>
+      <link>https://zenn.dev/luvtechno/articles/isucon2026-preparation</link>
+      <description>はじめに
+こんにちは！ @kawasy です。当日編に続いて、この記事では3か月の準備期間に何をしていたかを、時系列で追いながら振り返ります。
+
+ モチベーション
+私は土曜日はいつも、子どもを習い事に連れて行っています。Slack でレギュレーションの「AI 利用可」を見かけたとき、全部 AI に任せられれば、いつもどおりの土曜日を過ごしながら参加できるかもしれないと思いました。それが開発のきっかけでした。
+
+もう1つは、人間が手を出さずに、エージェントだけでどこまでできるのか試してみたかったからです。AIエージェントを使ったソフトウェア開発では、人間が途中で判断する HITL（hu... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/luvtechno/articles/isucon2026-preparation</guid>
+      <pubDate>Wed, 11 Nov 2026 05:05:46 +0000</pubDate>
+    </item>
+    <item>
       <title>AIに書かせた、が全然AIが書いてない件</title>
       <link>https://zenn.dev/appleworld/articles/65aed6c725af71</link>
       <description>こんにちは。株式会社アップルワールド プロダクト開発部 グローバルグループの室です。
@@ -111,6 +102,30 @@ P... (source: Zennのトレンド)</description>
 技術記事を投稿するように言われているので、投稿までを自動にする仕組みを作っていた。Slackのコマンドでお題とメモをストックしておくと、毎朝1本、記事の下書きが出来てGitHubに置かれ、Slac... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/appleworld/articles/65aed6c725af71</guid>
       <pubDate>Wed, 11 Nov 2026 02:11:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫</title>
+      <link>https://zenn.dev/dress_code/articles/568fd547315abe</link>
+      <description>こんにちは。Dress Code の HR Force チームで給与ドメインを担当している、いっしーです。
+僕はほぼ一日中、Claude Code や Codex に何かしら任せています。仕事では、決定とその理由を ADR に、実装する動作を OpenSpec の仕様書に残し、エージェントにはそれらを読ませてから作業させています。
+ところが、決めたはずのことが、いつのまにか変わっていることがあります。
+たとえば、仕様について質問しただけなのに、仕様を変える指示として記録されていたことがありました。了承していない提案が、次の作業では決定済みとして扱われていたこともあります。
+
+この記事で... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/568fd547315abe</guid>
+      <pubDate>Thu, 12 Nov 2026 03:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>上書きされたドラレコの映像は、ファイルの“余り”にまだ残っていた</title>
+      <link>https://zenn.dev/haruto_miyakawa/articles/dashcam-overwritten-video-in-file-slack</link>
+      <description>ある日、車に乗っていたとき、目の前で事故がありました。自分の車には何もぶつかっていません。ドラレコの映像を残そうと思ったのは、次の日でした。
+カードを PC に挿すと、その時刻のファイルはもうありませんでした。ドラレコは、カードがいっぱいになると古い録画から上書きしていきます。半日走っただけで、1周していたのです。復元ソフトにかけても出てきません。
+あきらめかけたところで、ファイルの大きさが全部ぴったり同じことに気づきました。中を見ると、今の録画のうしろに、前の録画がそのまま残っていました。 この記事は、そこから映像を取り出して、再生できる形にするまでの話です。
+!
+この記事のポイント
+... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/haruto_miyakawa/articles/dashcam-overwritten-video-in-file-slack</guid>
+      <pubDate>Wed, 11 Nov 2026 10:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

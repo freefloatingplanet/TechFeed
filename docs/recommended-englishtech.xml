@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 13:49:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:52:00 +0000</lastBuildDate>
     <item>
-      <title>Effect 4.0 リリース：依存関係のない書き換え、バンドルサイズが 5 分の 1 に縮小、長期サポート</title>
-      <link>https://www.infoq.com/news/2026/11/effect-4-0-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>型付きエラーと構造化並行処理のためのTypeScriptフレームワークであるEffect 4.0が、ファイバーランタイムの書き換えを伴って2026年9月30日にリリースされました。開発チームは、バンドルサイズが35.6kBから7.1kBに縮小し、スループットが約6.4倍向上したと報告していますが、これらの数値は独自に検証されていません。また、2029年9月までの長期サポートも追加されています。執筆：ダニエル・カーティス (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/11/effect-4-0-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Tue, 10 Nov 2026 06:33:00 +0000</pubDate>
+      <title>プレゼンテーション：ブラックボックスを開く：Kiji Inspectorを用いたAIエージェントツール選択における重要な説明可能性</title>
+      <link>https://www.infoq.com/presentations/explainable-ai-llm-agent-decisions/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>Hannes Hapke氏は、DataikuのオープンソースツールであるKiji Inspectorが、スパースオートエンコーダー（SAE）を意思決定トークンに直接適用することで、エージェントが特定のツールを選択する理由を明らかにする方法について解説します。表面的な思考の流れの説明にとどまらず、因果関係の抽出、パッチ適用済みのvLLMエンジンによるレイヤー活性化の抽出、ソフトウェアアーキテクトや上級エンジニアリングリーダー向けの運用監視ワークフローについて議論します。執筆：Hannes Hapke (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/presentations/explainable-ai-llm-agent-decisions/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Thu, 12 Nov 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
