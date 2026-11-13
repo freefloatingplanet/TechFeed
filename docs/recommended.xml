@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 14:51:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:15:06 +0000</lastBuildDate>
+    <item>
+      <title>AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録</title>
+      <link>https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat</link>
+      <description>はじめに
+こんにちは。ビジネス映像メディア「PIVOT」で、QAエンジニア兼PjMをしている ケイスケ です。
+PIVOTのモバイルアプリ（iOS / Android）では、AIでテストケースを書くようになってから、ケースの数が増え続けています。リリース前のUAT（受け入れテスト）で全件を回すのが難しくなってきたので、リスクベースドテスト（RBT）で回すケースを選ぶことにしました。ルールは一度では決まらず、何度も作り直しています。この記事は、その途中で試したことと分かったことの記録です。
+
+ 前提
+
+ テストケースを仕様書として使っている
+PIVOTでは、テストケースを仕様書としても... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat</guid>
+      <pubDate>Thu, 12 Nov 2026 11:41:36 +0000</pubDate>
+    </item>
     <item>
       <title>Claude Code に忘れさせたら、トークン使用量が4割減った</title>
       <link>https://zenn.dev/sae_eng/articles/0e9ed7205ebc41</link>
@@ -23,27 +37,18 @@
       <pubDate>Wed, 11 Nov 2026 23:00:06 +0000</pubDate>
     </item>
     <item>
-      <title>Clojureのマクロによるメタプログラミングで業務ルールのDSLを作る</title>
-      <link>https://zenn.dev/pksha/articles/b7e4c1a9d38f52</link>
-      <description>要約
-設備点検の条件式から、判定関数と、根拠を集めるための参照一覧を生成する DSL(ドメイン固有言語)を作ります。Clojure のマクロで式をデータとして読み取り、参照箇所を集めながら、実行するコードへ変換します。条件式を一度書けば、判定と根拠の収集に必要な定義がそろう仕組みです。
-完成したルールと生成コードを見たあと、Clojure の記法とマクロの実装を説明し、ルールの保守・拡張で省ける作業を確認します。Lisp を初めて読む方を想定しています。
-
- はじめに
-PKSHA Technology で AI Research &amp; Solution のソフトウェアエンジニア... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pksha/articles/b7e4c1a9d38f52</guid>
-      <pubDate>Tue, 10 Nov 2026 12:55:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>libsignal のグループ暗号化を追って、署名改ざんのテストを追加した</title>
-      <link>https://zenn.dev/under_michi/articles/7791295efdb23e</link>
-      <description>はじめに
-この記事は、東京大学工学部電子情報工学科・電気電子工学科の3年次後期実験の一つ、「大規模ソフトウェアを手探る」の実験レポートを兼ねています。
-この記事は Signal, libsignalをいじってみた の実験の子ページです。libsignal自体の説明は親ページを参照してください。
-この記事の目的は、libsignal でまだテストされていないケースをデバッグで見つけて、テストを追加することです。主にグループ署名についてのテストについて調べて、PRを提出しました(PR #703)。結果として、受理されて main ブランチに merge されました。
-https://ze... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/under_michi/articles/7791295efdb23e</guid>
-      <pubDate>Thu, 12 Nov 2026 01:12:25 +0000</pubDate>
+      <title>PM の資質は仕事の「外」で磨ける ー 修羅場に頼らない、これからの時代の PM 成長論</title>
+      <link>https://zenn.dev/t_vana4/articles/96279b1619f6ca</link>
+      <description>修羅場で育った私が、次世代の育て方を考える
+社会人 4 年目のころ、同じ案件で PM（プロジェクトマネージャー）を務めていた先輩が退職することになりました。その役割を引き継いだのが、エンジニアだった私です。
+PM とはどんな役割で、何をすればいいのか。
+当時の私はさっぱり分かりませんでした。
+顧客への進捗報告やスケジュールの管理、果てはパートナーの発注まで、目の前のことをとにかく手探りでやるしかありませんでした。
+あのときの私を一言で表すなら、「困惑」という言葉がいちばん近いと思います。
+しかも、別の開発案件のエンジニアロールとの掛け持ちでした。
+次第に心身ともに負担が大きくなり、私... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/t_vana4/articles/96279b1619f6ca</guid>
+      <pubDate>Thu, 12 Nov 2026 09:53:38 +0000</pubDate>
     </item>
     <item>
       <title>Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること</title>
@@ -55,15 +60,23 @@ Snowflakeから新しいDashboards（ドキュメント上は Dashboards 2.0 と
       <pubDate>Wed, 11 Nov 2026 00:21:10 +0000</pubDate>
     </item>
     <item>
-      <title>OpenCodeを拡張して、複数の担当と定期実行をひとつのチャットにまとめる「いちょまる」を作った</title>
-      <link>https://zenn.dev/theoj/articles/opencode-development-log</link>
+      <title>5年後のエンジニアは、何に責任を持つのだろうか</title>
+      <link>https://zenn.dev/ara_ta3/articles/thinking-about-engineers-five-years-from-now</link>
       <description>はじめに
-
- 背景と構想
-AIに調査や資料作成を依頼していると、用途ごとに会話が増えていきます。その結果、「どの会話に依頼したか」「どこまで進んだか」「次の依頼をどこへ送るか」を、利用者が会話を行き来しながら覚えておくことになります。毎朝同じ依頼をしたい場合も、利用者が毎朝送り直すしかありません。
-いちょまる（初期の資料ではOMyBotと呼んでいます）は、この管理をひとつのチャットにまとめることを目指しました。構想を図1に示します。利用者が話しかける相手は、常に同じ親セッションです。この記事では、この親を「まとめ役」と呼びます。まとめ役は仕事を子セッション（担当）へ振り分け、子から届... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/theoj/articles/opencode-development-log</guid>
-      <pubDate>Wed, 11 Nov 2026 12:38:35 +0000</pubDate>
+最近は、AI Agentを使ってコードを書くことが日常になりました。その一方で、自分で直接コードを書く頻度は本当に減ったと感じています。何年もかけて少しずつ変わったというより、ここ2年も経たないうちの変化です。
+今や新しいモデルが出るたびに、Artificial Analysisのグラフを眺めています。少し前まで十分良いと思っていた性能を上回りつつ、速度も出て、コストとのバランスも良いのはどのあたりか。モデルと推論にかける労力（Reasoning Effort）の組み合わせを見て、「このへんが良さそうかな」と思ったものを試す日々になっています。
+そんな中で、ふと「5年後くら... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/ara_ta3/articles/thinking-about-engineers-five-years-from-now</guid>
+      <pubDate>Fri, 13 Nov 2026 05:03:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【備忘録】Transformerを数式レベルからnumpyのみで実装して理解する（②Backward Propagation編）</title>
+      <link>https://zenn.dev/matsu8/articles/a01ba3fc713e03</link>
+      <description>はじめに
+前回の記事（①Forward Propagation編）では、Transformerの各部品をnumpyだけで実装し、Forward Propagationが最後まで通ることを確認しました。今回はその続きとして、各部品のBack Propagation（誤差逆伝播法）を実装し、損失から全てのパラメータまで勾配が流れることを確認していきます。
+実装している途中で、「こういう学習内容のまとめは、AIの普及であまり価値がなくなるのでは？」とも思いました。忘れたことはその都度AIに聞けば教えてくれますし、AIの方がその時点での完璧な答えをすぐに出してくれるからです。なので、時間をか... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/matsu8/articles/a01ba3fc713e03</guid>
+      <pubDate>Thu, 12 Nov 2026 13:30:40 +0000</pubDate>
     </item>
     <item>
       <title>脆弱性問題を解決するためにRustに移行するべきなのか？</title>
@@ -92,16 +105,16 @@ P... (source: Zennのトレンド)</description>
       <pubDate>Wed, 11 Nov 2026 05:05:46 +0000</pubDate>
     </item>
     <item>
-      <title>AIに書かせた、が全然AIが書いてない件</title>
-      <link>https://zenn.dev/appleworld/articles/65aed6c725af71</link>
-      <description>こんにちは。株式会社アップルワールド プロダクト開発部 グローバルグループの室です。
-私もAIに記事を書かせたい。ここに書くのは、自分の文体で書かせようとした休日一日の記録で、中身はほぼ愚痴である。
-自分で書けるのに任せるのは、積み上がると踏んだからだ。文体の指示書は、直すたびに次の初稿が良くなる。それが本当なら、いまの手間は払う価値がある。この賭けの記録でもある。
+      <title>フィーチャーチームに配属された新卒エンジニアのAIに振り回されない「AI活用」</title>
+      <link>https://zenn.dev/safie_inc/articles/b6fa3de06606be</link>
+      <description>はじめに
+こんにちは、新卒4期生（2026年新卒）の武内です。光陰矢の如しとはよく言ったもので、4ヶ月の研修を経て実際の現場に配属されて、あっという間に3ヶ月(!?)が経とうとしています。
+この記事では、配属から今日までを振り返りつつ、AIネイティブ世代？としてどのようにこの期間「AIを活用してキャッチアップや実際の業務を行ったか」を紹介できればと思っています。
 
- 1. 何を作っていたか
-技術記事を投稿するように言われているので、投稿までを自動にする仕組みを作っていた。Slackのコマンドでお題とメモをストックしておくと、毎朝1本、記事の下書きが出来てGitHubに置かれ、Slac... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/appleworld/articles/65aed6c725af71</guid>
-      <pubDate>Wed, 11 Nov 2026 02:11:05 +0000</pubDate>
+ 初配属：フィーチャーチーム
+新卒研修も終盤に差し掛かった7月中旬、待ちに待った配属先発表会が行われました。同期も含めて皆がソワソワする中、私の配属先は「Safie Manager（セーフィー マネージャー）開発グループ」... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/safie_inc/articles/b6fa3de06606be</guid>
+      <pubDate>Fri, 13 Nov 2026 03:00:05 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫</title>
@@ -114,18 +127,6 @@ P... (source: Zennのトレンド)</description>
 この記事で... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/dress_code/articles/568fd547315abe</guid>
       <pubDate>Thu, 12 Nov 2026 03:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>上書きされたドラレコの映像は、ファイルの“余り”にまだ残っていた</title>
-      <link>https://zenn.dev/haruto_miyakawa/articles/dashcam-overwritten-video-in-file-slack</link>
-      <description>ある日、車に乗っていたとき、目の前で事故がありました。自分の車には何もぶつかっていません。ドラレコの映像を残そうと思ったのは、次の日でした。
-カードを PC に挿すと、その時刻のファイルはもうありませんでした。ドラレコは、カードがいっぱいになると古い録画から上書きしていきます。半日走っただけで、1周していたのです。復元ソフトにかけても出てきません。
-あきらめかけたところで、ファイルの大きさが全部ぴったり同じことに気づきました。中を見ると、今の録画のうしろに、前の録画がそのまま残っていました。 この記事は、そこから映像を取り出して、再生できる形にするまでの話です。
-!
-この記事のポイント
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/haruto_miyakawa/articles/dashcam-overwritten-video-in-file-slack</guid>
-      <pubDate>Wed, 11 Nov 2026 10:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
