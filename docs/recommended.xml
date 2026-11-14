@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 14:15:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:12:56 +0000</lastBuildDate>
     <item>
       <title>AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録</title>
       <link>https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat</link>
@@ -23,41 +23,29 @@ PIVOTでは、テストケースを仕様書としても... (source: Zennのト�
       <pubDate>Thu, 12 Nov 2026 11:41:36 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code に忘れさせたら、トークン使用量が4割減った</title>
-      <link>https://zenn.dev/sae_eng/articles/0e9ed7205ebc41</link>
-      <description>こんにちは、Saeです。
-「さえたエンジニア」へなるために、日々鍛錬に勤しんでます。
-最近、Claude Code の使用頻度が多くなってきてトークン節約したいなーと倹約家の血が騒いだので、シンプルですが compact の設定と、離席中に compact させる仕組みを調整してみました。
-そうしたら、結論送っているトークンが合計で4割ほど減りました。
-使い心地も変わらず使えているので、やったことを書いておきます。
+      <title>Foxconnが2027年に二桁成長を予測 — iPhoneを作る世界最大の受託製造会社が示す「AIサーバー需要の体温計」</title>
+      <link>https://techfeed.io/entries/6af7980c49a7d098b468f483?from=rss</link>
+      <description>11月12日、Inside AI News が「Foxconn Forecasts Double-Digit 2027 Revenue Growth on AI Server Demand」と題した記事を公開した。Foxconnが2027年度の売上高について前年比二桁成長を予測したという内容だが、この予測が単なる自社の財務目標以上の意味を持つのは、同社がNvidiaなどのチップ設計会社やハイパースケーラー（大規模クラウド事業者）から実質的に「設備投資計画を代弁する立場」に置かれているからだ。Foxconnが強気の見通しを示すとき、それは主要顧客のデータセンター建設ペースがそのまま反映されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6af7980c49a7d098b468f483?from=rss</guid>
+      <pubDate>Fri, 13 Nov 2026 23:06:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>ハッカソン初心者に伝えたい、失敗から学んだチーム開発前の3つの準備</title>
+      <link>https://zenn.dev/kinuuu/articles/hackathon-team-dev-preparation</link>
+      <description>ハッカソンで開発を始める前に、チームで確認しておきたいことが3つあります。
+
+全員が同じアプリを起動できるか
+Gitで変更を共有し、取り込めるか
+担当するタスクの内容と、完了条件が伝わっているか
+
+これまでに20回ほどハッカソンに参加し、主にチームの取りまとめ役として、企画から開発・デプロイまでを担当してきました。その中で、開発を始めるときの流れや初心者向けの説明をドキュメントにまとめたり、PRテンプレートやAIによるPRレビューを取り入れたりして、チーム開発の進め方を改善してきました。
 !
-数字は、自分1人の会話の記録（10/13〜11/9）から数えたものです。
-比べた期間は前が15日、後が11日で、仕事の中身も同じではありませんのでざっくり計算 + 体感ぐ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/sae_eng/articles/0e9ed7205ebc41</guid>
-      <pubDate>Wed, 11 Nov 2026 23:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>PM の資質は仕事の「外」で磨ける ー 修羅場に頼らない、これからの時代の PM 成長論</title>
-      <link>https://zenn.dev/t_vana4/articles/96279b1619f6ca</link>
-      <description>修羅場で育った私が、次世代の育て方を考える
-社会人 4 年目のころ、同じ案件で PM（プロジェクトマネージャー）を務めていた先輩が退職することになりました。その役割を引き継いだのが、エンジニアだった私です。
-PM とはどんな役割で、何をすればいいのか。
-当時の私はさっぱり分かりませんでした。
-顧客への進捗報告やスケジュールの管理、果てはパートナーの発注まで、目の前のことをとにかく手探りでやるしかありませんでした。
-あのときの私を一言で表すなら、「困惑」という言葉がいちばん近いと思います。
-しかも、別の開発案件のエンジニアロールとの掛け持ちでした。
-次第に心身ともに負担が大きくなり、私... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/t_vana4/articles/96279b1619f6ca</guid>
-      <pubDate>Thu, 12 Nov 2026 09:53:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること</title>
-      <link>https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi</link>
-      <description>この記事について
-Snowflakeから新しいDashboards（ドキュメント上は Dashboards 2.0 とも呼ばれています）が出ました。触ってみて、正直かなり感動しています。何年も前から「Snowflakeの中でパッと数字を見て、それに質問したいだけなのに、ちょうどいいものがない」と不満を持っていたのですが、ようやくその答えが来たと感じたからです。
-この記事では、なぜこれが私にとって最高だったのかを書きます。これまでSnowflakeで数字を見ようとしたときに何が課題だったのか、そしてそれに対して新しいDashboardsの何が良いのかを、公式ドキュメントの情報も交えなが... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi</guid>
-      <pubDate>Wed, 11 Nov 2026 00:21:10 +0000</pubDate>
+この記事の対象読者
+
+これからハッカソンに参加する人
+個人開発の経験はあるが、Gitを使ったチー... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kinuuu/articles/hackathon-team-dev-preparation</guid>
+      <pubDate>Sat, 14 Nov 2026 04:01:19 +0000</pubDate>
     </item>
     <item>
       <title>5年後のエンジニアは、何に責任を持つのだろうか</title>
@@ -70,13 +58,31 @@ Snowflakeから新しいDashboards（ドキュメント上は Dashboards 2.0 と
       <pubDate>Fri, 13 Nov 2026 05:03:44 +0000</pubDate>
     </item>
     <item>
-      <title>【備忘録】Transformerを数式レベルからnumpyのみで実装して理解する（②Backward Propagation編）</title>
-      <link>https://zenn.dev/matsu8/articles/a01ba3fc713e03</link>
-      <description>はじめに
-前回の記事（①Forward Propagation編）では、Transformerの各部品をnumpyだけで実装し、Forward Propagationが最後まで通ることを確認しました。今回はその続きとして、各部品のBack Propagation（誤差逆伝播法）を実装し、損失から全てのパラメータまで勾配が流れることを確認していきます。
-実装している途中で、「こういう学習内容のまとめは、AIの普及であまり価値がなくなるのでは？」とも思いました。忘れたことはその都度AIに聞けば教えてくれますし、AIの方がその時点での完璧な答えをすぐに出してくれるからです。なので、時間をか... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/matsu8/articles/a01ba3fc713e03</guid>
-      <pubDate>Thu, 12 Nov 2026 13:30:40 +0000</pubDate>
+      <title>AWS EmulatorはAWS Blocksのモックを置き換えるのか？実際に動かして見えた「三つ目の層」</title>
+      <link>https://zenn.dev/genda_jp/articles/18d1f780f6b41f</link>
+      <description>2026年11月11日（米国時間）、AWSが AWS Emulator をリリースしました。AWS SDKやAWS CLIの呼び出しを、クラウドではなく手元のエミュレーターが受けて、AWSと同じ形の応答を返すツールです。
+https://github.com/aws/aws-emulator
+ニュースを見て、真っ先に頭に浮かんだのはこれでした。
+「AWS Blocksのモックって、もういらなくなるの？」
+AWS Blocksには、パブリックプレビューの段階から微力ながらコントリビュートしています。以前の記事では、BlocksがAmplifyやApp Studioと何が違うのかを整理しまし... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/genda_jp/articles/18d1f780f6b41f</guid>
+      <pubDate>Thu, 12 Nov 2026 05:20:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え</title>
+      <link>https://zenn.dev/karamage/articles/5c3f8370b2b370</link>
+      <description>AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、
+それを何往復もループで繰り返せば品質は上がっていくはず。。。
+純粋無垢な私はずっと、そう信じていた頃がありました。
+ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出てしまい、以下の疑問にはじめて気づきました。
+
+問い: AI同士の敵対的レビューで、成果物は本当に信頼できるものになるのか?
+結論: なりません。そのトークンは実際に動かして確かめる「検証」に使うべきです
+理由: コードの差分だけを渡されたAIは、揚げ足取りといつか必要になるかもという未来を先取りした提案に迷い込むからです
+
+この... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/karamage/articles/5c3f8370b2b370</guid>
+      <pubDate>Fri, 13 Nov 2026 02:48:24 +0000</pubDate>
     </item>
     <item>
       <title>脆弱性問題を解決するためにRustに移行するべきなのか？</title>
@@ -92,6 +98,13 @@ P... (source: Zennのトレンド)</description>
       <pubDate>Mon, 09 Nov 2026 13:51:19 +0000</pubDate>
     </item>
     <item>
+      <title>GeminiがあなたについてAIが勝手に記録していた情報を確認・削除できる新機能 — 誤情報が混入するケースも</title>
+      <link>https://techfeed.io/entries/6af7989049a7d098b468f4d4?from=rss</link>
+      <description>11月13日、ZDNetが「You can force Gemini to forget about you now」と題した記事を公開した。記事の執筆者がGeminiの記憶を実際に確認してみると、「Madison Countyに住んでいる」「野球カードショップを経営している」といった事実と異なる情報が混入していた。これはGeminiのロゴ生成機能をテストした際に仮の店舗名として入力した内容が、そのまま事実として記録されてしまったためだ。AIアシスタントが蓄積する「記憶」の内容は、ユーザーが思う以上に不正確で、かつ見えにくい場所に保存されている。Googleはこうした懸念に応える形で、ユーザー自身がGeminiの記憶を閲覧・編集できる新機能「Memory summary」を導入した。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6af7989049a7d098b468f4d4?from=rss</guid>
+      <pubDate>Fri, 13 Nov 2026 23:09:04 +0000</pubDate>
+    </item>
+    <item>
       <title>ISUCON2026 で優勝しました（準備編）</title>
       <link>https://zenn.dev/luvtechno/articles/isucon2026-preparation</link>
       <description>はじめに
@@ -103,18 +116,6 @@ P... (source: Zennのトレンド)</description>
 もう1つは、人間が手を出さずに、エージェントだけでどこまでできるのか試してみたかったからです。AIエージェントを使ったソフトウェア開発では、人間が途中で判断する HITL（hu... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/luvtechno/articles/isucon2026-preparation</guid>
       <pubDate>Wed, 11 Nov 2026 05:05:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>フィーチャーチームに配属された新卒エンジニアのAIに振り回されない「AI活用」</title>
-      <link>https://zenn.dev/safie_inc/articles/b6fa3de06606be</link>
-      <description>はじめに
-こんにちは、新卒4期生（2026年新卒）の武内です。光陰矢の如しとはよく言ったもので、4ヶ月の研修を経て実際の現場に配属されて、あっという間に3ヶ月(!?)が経とうとしています。
-この記事では、配属から今日までを振り返りつつ、AIネイティブ世代？としてどのようにこの期間「AIを活用してキャッチアップや実際の業務を行ったか」を紹介できればと思っています。
-
- 初配属：フィーチャーチーム
-新卒研修も終盤に差し掛かった7月中旬、待ちに待った配属先発表会が行われました。同期も含めて皆がソワソワする中、私の配属先は「Safie Manager（セーフィー マネージャー）開発グループ」... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/safie_inc/articles/b6fa3de06606be</guid>
-      <pubDate>Fri, 13 Nov 2026 03:00:05 +0000</pubDate>
     </item>
     <item>
       <title>AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫</title>
