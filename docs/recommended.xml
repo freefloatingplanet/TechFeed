@@ -7,45 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 13:12:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:41:09 +0000</lastBuildDate>
     <item>
-      <title>AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録</title>
-      <link>https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat</link>
-      <description>はじめに
-こんにちは。ビジネス映像メディア「PIVOT」で、QAエンジニア兼PjMをしている ケイスケ です。
-PIVOTのモバイルアプリ（iOS / Android）では、AIでテストケースを書くようになってから、ケースの数が増え続けています。リリース前のUAT（受け入れテスト）で全件を回すのが難しくなってきたので、リスクベースドテスト（RBT）で回すケースを選ぶことにしました。ルールは一度では決まらず、何度も作り直しています。この記事は、その途中で試したことと分かったことの記録です。
+      <title>なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？</title>
+      <link>https://zenn.dev/mixi/articles/b0ea64fded9503</link>
+      <description>こんにちは！mixi2 エンジニアの久野です🍎
+iPhone Duo（以下 Duo）の発売初日、mixi2 がすでに最適化されている！ と話題にしていただきました。
 
- 前提
+対応を早く進められた理由は、振り返るとこの 3 つです。
 
- テストケースを仕様書として使っている
-PIVOTでは、テストケースを仕様書としても... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat</guid>
-      <pubDate>Thu, 12 Nov 2026 11:41:36 +0000</pubDate>
+ボトムタブが独自実装だったため、縦配置に変更しやすかったこと
+分割した画面の右側に表示したい推し機能が決まっていたこと
+シミュレーターでの確認だけで、実機でも動くことを祈ってリリースする大胆さがチームにあったこと
+
+mixi2 は Flutter で開発しており、go_router で管理する各タブの画面に、独自のタブバーを重ねています。
+Flutter 標準の ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/mixi/articles/b0ea64fded9503</guid>
+      <pubDate>Mon, 09 Nov 2026 06:57:46 +0000</pubDate>
     </item>
     <item>
-      <title>Foxconnが2027年に二桁成長を予測 — iPhoneを作る世界最大の受託製造会社が示す「AIサーバー需要の体温計」</title>
-      <link>https://techfeed.io/entries/6af7980c49a7d098b468f483?from=rss</link>
-      <description>11月12日、Inside AI News が「Foxconn Forecasts Double-Digit 2027 Revenue Growth on AI Server Demand」と題した記事を公開した。Foxconnが2027年度の売上高について前年比二桁成長を予測したという内容だが、この予測が単なる自社の財務目標以上の意味を持つのは、同社がNvidiaなどのチップ設計会社やハイパースケーラー（大規模クラウド事業者）から実質的に「設備投資計画を代弁する立場」に置かれているからだ。Foxconnが強気の見通しを示すとき、それは主要顧客のデータセンター建設ペースがそのまま反映されている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6af7980c49a7d098b468f483?from=rss</guid>
-      <pubDate>Fri, 13 Nov 2026 23:06:52 +0000</pubDate>
+      <title>55歳でグーグル本社をクビになった私が、4つのバイトのかけもち生活を通して思い出した「肉体労働の価値」とは</title>
+      <link>https://crea.bunshun.jp/articles/-/60719</link>
+      <description>パソコンがなくても働ける生き方 前の職場の同僚たちに私がギャップイヤーの間にしている仕事について話したことがある。 日々体を使う仕事をしていて、自分自身がプロダクトでありサービスなんだと思うと、仕事へのやる気もやりがいも感じると私は言った。 それに耳を傾けていた同僚はこんなことを口にした。 「自分自... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://crea.bunshun.jp/articles/-/60719</guid>
+      <pubDate>Sat, 14 Nov 2026 08:01:46 +0000</pubDate>
     </item>
     <item>
-      <title>ハッカソン初心者に伝えたい、失敗から学んだチーム開発前の3つの準備</title>
-      <link>https://zenn.dev/kinuuu/articles/hackathon-team-dev-preparation</link>
-      <description>ハッカソンで開発を始める前に、チームで確認しておきたいことが3つあります。
+      <title>フロントエンドのフレームワークを、安全に段階的に入れ替える</title>
+      <link>https://zenn.dev/yasuakiomokawa/articles/de83bb4c4ea928</link>
+      <description>この記事の想定読者
 
-全員が同じアプリを起動できるか
-Gitで変更を共有し、取り込めるか
-担当するタスクの内容と、完了条件が伝わっているか
+React などで書いた画面を、別の framework へ少しずつ移したいエンジニア
+移行の計画を承認する立場で、「作業がどこまで安全で、途中で止めたらどうなるのか」を判断したいマネージャー
 
-これまでに20回ほどハッカソンに参加し、主にチームの取りまとめ役として、企画から開発・デプロイまでを担当してきました。その中で、開発を始めるときの流れや初心者向けの説明をドキュメントにまとめたり、PRテンプレートやAIによるPRレビューを取り入れたりして、チーム開発の進め方を改善してきました。
-!
-この記事の対象読者
+framework の名前は例として出します。移す先が Vue でも Svelte でも、考え方は同じです。
+読み方の目安です。
 
-これからハッカソンに参加する人
-個人開発の経験はあるが、Gitを使ったチー... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/kinuuu/articles/hackathon-team-dev-preparation</guid>
-      <pubDate>Sat, 14 Nov 2026 04:01:19 +0000</pubDate>
+エンジニアの方: 「この形が使える前提」で自分のアプリに当てはまるかを確かめてから、「やり方 1〜3」と「feature flag」へ進んでください
+マネージャーの方: 「サマリー」のあと、「マネージャー向け」の節だけでも判断に要ることが分... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/yasuakiomokawa/articles/de83bb4c4ea928</guid>
+      <pubDate>Sat, 14 Nov 2026 07:12:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>米国税務署IRSが詐欺対策にエージェントAI導入へ — 「判断は人間、書類整理はAI」という役割分担で年間最大3,040億ドルの損失に挑む</title>
+      <link>https://techfeed.io/entries/6af8e63149a7d098b4696204?from=rss</link>
+      <description>11月14日、FedScoopが「IRS eyes agentic AI tool to help staffers process potential fraud cases」と題した記事を公開した。米国内国歳入庁（IRS）の詐欺検知精度はすでに**99%**に達しているという。それでもなお、残る1%が生み出す損失は「substantialという言葉では足りない」とIRS幹部は語る。このパラドックスを背景に、IRSはエージェントAIのパイロット導入へと踏み出している。IRSが直面する詐欺の規模米国内国歳入庁（IRS）が扱う詐欺問題の規模は大きい。米国政府説明責任局（GAO）によると、連邦政府が税務詐欺によって毎年失う金額は1,160億〜3,040億ドルに上る。さらにIRSには毎月約10億件の不正アクセス試行があるという。税務申告書には個人情報が集約されており、詐欺師にとって格好の標的となっているためだ。IRSの納税者サービス部門でリターン整合性・コンプライアンスサービスのディレクターを務めるJim Clifford氏は、ACT-IAC（American Council for Tec (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6af8e63149a7d098b4696204?from=rss</guid>
+      <pubDate>Sat, 14 Nov 2026 22:52:33 +0000</pubDate>
     </item>
     <item>
       <title>5年後のエンジニアは、何に責任を持つのだろうか</title>
@@ -56,17 +64,6 @@ Gitで変更を共有し、取り込めるか
 そんな中で、ふと「5年後くら... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/ara_ta3/articles/thinking-about-engineers-five-years-from-now</guid>
       <pubDate>Fri, 13 Nov 2026 05:03:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS EmulatorはAWS Blocksのモックを置き換えるのか？実際に動かして見えた「三つ目の層」</title>
-      <link>https://zenn.dev/genda_jp/articles/18d1f780f6b41f</link>
-      <description>2026年11月11日（米国時間）、AWSが AWS Emulator をリリースしました。AWS SDKやAWS CLIの呼び出しを、クラウドではなく手元のエミュレーターが受けて、AWSと同じ形の応答を返すツールです。
-https://github.com/aws/aws-emulator
-ニュースを見て、真っ先に頭に浮かんだのはこれでした。
-「AWS Blocksのモックって、もういらなくなるの？」
-AWS Blocksには、パブリックプレビューの段階から微力ながらコントリビュートしています。以前の記事では、BlocksがAmplifyやApp Studioと何が違うのかを整理しまし... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/genda_jp/articles/18d1f780f6b41f</guid>
-      <pubDate>Thu, 12 Nov 2026 05:20:41 +0000</pubDate>
     </item>
     <item>
       <title>【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え</title>
@@ -98,11 +95,11 @@ P... (source: Zennのトレンド)</description>
       <pubDate>Mon, 09 Nov 2026 13:51:19 +0000</pubDate>
     </item>
     <item>
-      <title>GeminiがあなたについてAIが勝手に記録していた情報を確認・削除できる新機能 — 誤情報が混入するケースも</title>
-      <link>https://techfeed.io/entries/6af7989049a7d098b468f4d4?from=rss</link>
-      <description>11月13日、ZDNetが「You can force Gemini to forget about you now」と題した記事を公開した。記事の執筆者がGeminiの記憶を実際に確認してみると、「Madison Countyに住んでいる」「野球カードショップを経営している」といった事実と異なる情報が混入していた。これはGeminiのロゴ生成機能をテストした際に仮の店舗名として入力した内容が、そのまま事実として記録されてしまったためだ。AIアシスタントが蓄積する「記憶」の内容は、ユーザーが思う以上に不正確で、かつ見えにくい場所に保存されている。Googleはこうした懸念に応える形で、ユーザー自身がGeminiの記憶を閲覧・編集できる新機能「Memory summary」を導入した。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6af7989049a7d098b468f4d4?from=rss</guid>
-      <pubDate>Fri, 13 Nov 2026 23:09:04 +0000</pubDate>
+      <title>SoftBankのAI帝国はArm株1本足打法 — 3.9兆円のマージンローンをArm株が担保する「唯一の柱」が揺らぐと何が起きるか</title>
+      <link>https://techfeed.io/entries/6af8e60e49a7d098b46961f9?from=rss</link>
+      <description>11月13日、Analytics India Magazineが「SoftBank's AI Empire Rests on a Single Asset」と題した記事を公開した。SoftBankのAI投資戦略がArm株という単一資産への過剰な依存構造を抱え、財務的リスクが顕在化しつつある実態を詳報している。孫正義氏がAGI（汎用人工知能）時代の覇権を掲げて矢継ぎ早に投資を進める一方、WeWorkを筆頭にビジョンファンドの投資失敗で刻まれた傷跡はまだ癒えていない。その状況で、財務構造の「一点集中リスク」が再び問われている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6af8e60e49a7d098b46961f9?from=rss</guid>
+      <pubDate>Sat, 14 Nov 2026 22:51:58 +0000</pubDate>
     </item>
     <item>
       <title>ISUCON2026 で優勝しました（準備編）</title>
