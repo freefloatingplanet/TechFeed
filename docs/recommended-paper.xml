@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 13:41:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:14:41 +0000</lastBuildDate>
     <item>
-      <title>自己選択バイアスを考慮した線形回帰を多項式時間で実現する</title>
-      <link>https://arxiv.org/abs/2611.17228v1</link>
-      <description>Cherapanamjeri、Daskalakis、Ilyas、およびZampetakis [CDIZ23、STOC] によって導入された、n 次元における自己選択バイアスを持つ k 個の線形回帰変数を誤差 \varepsilon まで推定する問題を、最大自己選択基準を用いて再検討します。主な成果は、この問題の未知インデックス版に対する $\mathrm{poly}(n,k,1/\varepsilon)$ 時間のアルゴリズムであり、これにより、$k$ に指数関数的に依存する Gaitonde および Mossel [GM24] と Kalavasis、Mehrotra、および Zhou [KMZ26、COLT] による既知の最良アルゴリズムの実行時間を改善します。このアルゴリズムは、回帰変数間に相関ノイズが存在する場合にも有効であり、これは最大アフィン回帰の関連する設定を捉えています。したがって、我々は、この問題に対する初の多項式時間アルゴリズムも提示し、$k$ に指数関数的に依存する Ghosh、Pananjady、Guntuboyina、および Ramchandran [GPGR2 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17228v1</guid>
-      <pubDate>Thu, 12 Nov 2026 18:21:11 +0000</pubDate>
+      <title>溶融塩高速炉の熱水力学のための反復ソルバー結合を用いた不変ニューラルネットワーク渦粘性閉鎖</title>
+      <link>https://arxiv.org/abs/2611.17067v2</link>
+      <description>システム解析モジュール（SAM）などのシステム熱水力コードは、粗いメッシュ上での乱流を代数的なゼロ方程式混合長モデルで閉じます。これらのモデルでは、開放型キャビティ先進原子炉の非平衡乱流、流れの剥離、および大規模な再循環を表現することはできません。そこで、SAM用の不変ニューラルネットワーク渦粘性閉包を開発し、溶融塩高速炉（MSFR）に適用しました。この閉包は、乱流輸送方程式を解くことなく、各要素の乱流運動エネルギーと時間スケールを、その近傍の要素の流れと形状から予測します。結果として得られる非負の渦粘性は、暗黙的な拡散演算子に入力され、運動量方程式の条件を良好に保ちます。この閉包が、並進、ガリレオブースト、回転、反射、および近傍順序に対して完全に不変であることを証明しました。高次の Nek5000 場でトレーニングされたネットワークは、粗い SAM メッシュ上で異なる特徴分布を示します。この共変量のシフトは、固定された Nek5000 ターゲットに対して SAM フロー状態上でネットワークを反復的に再トレーニングすることによって除去されます。保持された定常状態では、結合されたクロージ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17067v2</guid>
+      <pubDate>Thu, 12 Nov 2026 16:41:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

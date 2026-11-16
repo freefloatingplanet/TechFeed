@@ -7,30 +7,66 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 13:41:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:14:36 +0000</lastBuildDate>
     <item>
-      <title>なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？</title>
-      <link>https://zenn.dev/mixi/articles/b0ea64fded9503</link>
-      <description>こんにちは！mixi2 エンジニアの久野です🍎
-iPhone Duo（以下 Duo）の発売初日、mixi2 がすでに最適化されている！ と話題にしていただきました。
-
-対応を早く進められた理由は、振り返るとこの 3 つです。
-
-ボトムタブが独自実装だったため、縦配置に変更しやすかったこと
-分割した画面の右側に表示したい推し機能が決まっていたこと
-シミュレーターでの確認だけで、実機でも動くことを祈ってリリースする大胆さがチームにあったこと
-
-mixi2 は Flutter で開発しており、go_router で管理する各タブの画面に、独自のタブバーを重ねています。
-Flutter 標準の ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/mixi/articles/b0ea64fded9503</guid>
-      <pubDate>Mon, 09 Nov 2026 06:57:46 +0000</pubDate>
+      <title>ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？　どうなる今後の半導体業界</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/16/2000003226/</link>
+      <description>11月12日（現地時間）、米NVIDIA創業者にして社長兼CEO兼会長だったジェンスン・フアン氏が同社を退任した。退任と言いつつも、公式アナウンスに本人のメッセージが一切載ってないあたり、事実上の解任と見るのが正しいのだろう。 現時点ではこの先の動きを読むのは非常に難しい。記事の後半でも紹介するが、単に不倫と... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/16/2000003226/</guid>
+      <pubDate>Mon, 16 Nov 2026 08:20:22 +0000</pubDate>
     </item>
     <item>
-      <title>55歳でグーグル本社をクビになった私が、4つのバイトのかけもち生活を通して思い出した「肉体労働の価値」とは</title>
-      <link>https://crea.bunshun.jp/articles/-/60719</link>
-      <description>パソコンがなくても働ける生き方 前の職場の同僚たちに私がギャップイヤーの間にしている仕事について話したことがある。 日々体を使う仕事をしていて、自分自身がプロダクトでありサービスなんだと思うと、仕事へのやる気もやりがいも感じると私は言った。 それに耳を傾けていた同僚はこんなことを口にした。 「自分自... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://crea.bunshun.jp/articles/-/60719</guid>
-      <pubDate>Sat, 14 Nov 2026 08:01:46 +0000</pubDate>
+      <title>MicrosoftがOracleとのAIクラウド契約を縮小 — 「旧世代GPUでは要件を満たせない」が示す、AIインフラ投資の陳腐化リスク</title>
+      <link>https://techfeed.io/entries/6afa340849a7d098b469c179?from=rss</link>
+      <description>11月14日、wccftechのSebastian Castellanosが「Microsoft Winds Down Oracle AI Cloud Deal As Older NVIDIA GPUs No Longer Meet Its Needs」と題した記事を公開した。MicrosoftがOracleとのAIコンピューティング契約を更新せず段階的に縮小していることが明らかになっており、旧世代NVIDIA GPUの陳腐化がAIインフラ投資全体に与える示唆として業界の注目を集めている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6afa340849a7d098b469c179?from=rss</guid>
+      <pubDate>Sun, 15 Nov 2026 22:36:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門</title>
+      <link>https://zenn.dev/turing_motors/articles/cea9e3c85611b2</link>
+      <description>1. はじめに
+AIが「いま何を考えているのか」を、人間はどうやって知ればいいのでしょうか？
+我々チューリング株式会社は、カメラ映像から走行軌跡を直接予測するEnd-to-End（E2E）自動運転AIを開発しています。社内では、予測軌跡をカメラ映像に重ねる可視化が、実車試験の振り返りからデモ映像まで、あらゆる場面で使われています。
+https://x.com/DaisukeMAN/status/2109111871228022910
+自動運転AIが出力する「自車がこの先数秒間でどこを通るか」という生の座標列から、曲がり方の良し悪しを読み取るのは簡単ではありません。一方、同じ予測をカ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/cea9e3c85611b2</guid>
+      <pubDate>Mon, 16 Nov 2026 08:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>「最後かもしれないだろ？」 AI 以前の個人ゲーム開発者の、AI との折り合いのつけ方｜Tatsuya Koyama | ゲーム開発と絵と音楽</title>
+      <link>https://note.com/tatsuya_koyama/n/nb7aa1ba71aba</link>
+      <description>趣味でゲーム開発をしている者です。 この記事の文章や挿絵は、筆者（人間）が作っています。 この記録は、2026 年 2 月時点の、とある人間がうだうだ考えたものです。 AI 以前のゲーム開発者20 年くらい前、僕は今から見るとおもちゃみたいなスペックのノート PC のキーボードを叩いて、ゲームプログラミングをしていた... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://note.com/tatsuya_koyama/n/nb7aa1ba71aba</guid>
+      <pubDate>Mon, 16 Nov 2026 01:58:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>ローカルLLMで動く翻訳拡張機能「Sakutto」を開発した話</title>
+      <link>https://zenn.dev/jammaru_lab/articles/sakutto-local-llm-chrome-extension</link>
+      <description>こんにちは、じゃむまる（@jammaru_lab）です。
+英語のページを、無料で、しかも精度よく日本語にしたい場面ってかなり多いですよね。でも、無料の翻訳は精度が物足りないことが多いし、有料のサービスや拡張機能はログイン必須で、月に使える回数に制限がつきがち。僕が欲しかったのは、精度が高くて、無料で、ログインも回数制限もない翻訳機能でした。
+そこで作ったのが、ローカルLLMでWebページを翻訳するブラウザ拡張機能、Sakuttoです。
+
+
+この記事では、ローカルLLMの翻訳を普段使いできる速さ・品質・使いやすさにするために何をしたのかを、ぶつかった課題と解決策を中心にまとめます。
+
+ は... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/jammaru_lab/articles/sakutto-local-llm-chrome-extension</guid>
+      <pubDate>Sat, 14 Nov 2026 20:02:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録</title>
+      <link>https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat</link>
+      <description>はじめに
+こんにちは。ビジネス映像メディア「PIVOT」で、QAエンジニア兼PjMをしている ケイスケ です。
+PIVOTのモバイルアプリ（iOS / Android）では、AIでテストケースを書くようになってから、ケースの数が増え続けています。リリース前のUAT（受け入れテスト）で全件を回すのが難しくなってきたので、リスクベースドテスト（RBT）で回すケースを選ぶことにしました。ルールは一度では決まらず、何度も作り直しています。この記事は、その途中で試したことと分かったことの記録です。
+
+ 前提
+
+ テストケースを仕様書として使っている
+PIVOTでは、テストケースを仕様書としても... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat</guid>
+      <pubDate>Thu, 12 Nov 2026 11:41:36 +0000</pubDate>
     </item>
     <item>
       <title>フロントエンドのフレームワークを、安全に段階的に入れ替える</title>
@@ -49,11 +85,17 @@ framework の名前は例として出します。移す先が Vue でも Svelte 
       <pubDate>Sat, 14 Nov 2026 07:12:52 +0000</pubDate>
     </item>
     <item>
-      <title>米国税務署IRSが詐欺対策にエージェントAI導入へ — 「判断は人間、書類整理はAI」という役割分担で年間最大3,040億ドルの損失に挑む</title>
-      <link>https://techfeed.io/entries/6af8e63149a7d098b4696204?from=rss</link>
-      <description>11月14日、FedScoopが「IRS eyes agentic AI tool to help staffers process potential fraud cases」と題した記事を公開した。米国内国歳入庁（IRS）の詐欺検知精度はすでに**99%**に達しているという。それでもなお、残る1%が生み出す損失は「substantialという言葉では足りない」とIRS幹部は語る。このパラドックスを背景に、IRSはエージェントAIのパイロット導入へと踏み出している。IRSが直面する詐欺の規模米国内国歳入庁（IRS）が扱う詐欺問題の規模は大きい。米国政府説明責任局（GAO）によると、連邦政府が税務詐欺によって毎年失う金額は1,160億〜3,040億ドルに上る。さらにIRSには毎月約10億件の不正アクセス試行があるという。税務申告書には個人情報が集約されており、詐欺師にとって格好の標的となっているためだ。IRSの納税者サービス部門でリターン整合性・コンプライアンスサービスのディレクターを務めるJim Clifford氏は、ACT-IAC（American Council for Tec (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6af8e63149a7d098b4696204?from=rss</guid>
-      <pubDate>Sat, 14 Nov 2026 22:52:33 +0000</pubDate>
+      <title>AIの回答が長すぎて、理解しないまま実装している問題（理解負債）</title>
+      <link>https://zenn.dev/kent_code/articles/5892898be90cac</link>
+      <description>主に C#/.NET で業務システムを作って25年くらいになります。ここ1年ほどは、設計の相談も実装も Claude Code と一緒にやっています。
+便利なのは間違いないんですが、使えば使うほどストレスも溜まっていました。返ってくる情報の量が膨大で、頭がついていかないのです。。
+つまり、回答が長すぎて、理解が追いつかないまま実装に進んでしまう。
+この記事では、この課題に対して CLAUDE.md に数行のルールを足しただけでかなり楽になった話と、同じ質問をルールなし／ルールありで比べてみた結果を書いていきたいと思います。
+
+ こういう状態になっていないか
+設計の相談をすると、最近の A... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/kent_code/articles/5892898be90cac</guid>
+      <pubDate>Sun, 15 Nov 2026 00:19:17 +0000</pubDate>
     </item>
     <item>
       <title>5年後のエンジニアは、何に責任を持つのだろうか</title>
@@ -80,51 +122,6 @@ framework の名前は例として出します。移す先が Vue でも Svelte 
 この... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/karamage/articles/5c3f8370b2b370</guid>
       <pubDate>Fri, 13 Nov 2026 02:48:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>脆弱性問題を解決するためにRustに移行するべきなのか？</title>
-      <link>https://zenn.dev/garasubo/articles/72340052cdd871</link>
-      <description>近年、AIの発達により攻撃側の脆弱性発見能力が大幅に向上したことにより、セキュリティ対策の重要性がより高まっています。
-最近、PHPの脆弱性であるPHP2Shellが発見されました。これはOpenAIの支援を受けたサイバーセキュリティ企業[1]が発見しました。
-一部の技術者、中には政治家の方もメモリ安全性が保証されているRustのような言語への移行を目指すべきだという意見が見られました。
-確かに、熱心なRust愛好家は以前からこのような主張をすることは見かけますが、実際の主張の妥当性としてはどうか、いくつかの実プロダクトでの例や分析を見ていこうと思います。
-
- PHP2Shellとは
-P... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/garasubo/articles/72340052cdd871</guid>
-      <pubDate>Mon, 09 Nov 2026 13:51:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>SoftBankのAI帝国はArm株1本足打法 — 3.9兆円のマージンローンをArm株が担保する「唯一の柱」が揺らぐと何が起きるか</title>
-      <link>https://techfeed.io/entries/6af8e60e49a7d098b46961f9?from=rss</link>
-      <description>11月13日、Analytics India Magazineが「SoftBank's AI Empire Rests on a Single Asset」と題した記事を公開した。SoftBankのAI投資戦略がArm株という単一資産への過剰な依存構造を抱え、財務的リスクが顕在化しつつある実態を詳報している。孫正義氏がAGI（汎用人工知能）時代の覇権を掲げて矢継ぎ早に投資を進める一方、WeWorkを筆頭にビジョンファンドの投資失敗で刻まれた傷跡はまだ癒えていない。その状況で、財務構造の「一点集中リスク」が再び問われている。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6af8e60e49a7d098b46961f9?from=rss</guid>
-      <pubDate>Sat, 14 Nov 2026 22:51:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISUCON2026 で優勝しました（準備編）</title>
-      <link>https://zenn.dev/luvtechno/articles/isucon2026-preparation</link>
-      <description>はじめに
-こんにちは！ @kawasy です。当日編に続いて、この記事では3か月の準備期間に何をしていたかを、時系列で追いながら振り返ります。
-
- モチベーション
-私は土曜日はいつも、子どもを習い事に連れて行っています。Slack でレギュレーションの「AI 利用可」を見かけたとき、全部 AI に任せられれば、いつもどおりの土曜日を過ごしながら参加できるかもしれないと思いました。それが開発のきっかけでした。
-
-もう1つは、人間が手を出さずに、エージェントだけでどこまでできるのか試してみたかったからです。AIエージェントを使ったソフトウェア開発では、人間が途中で判断する HITL（hu... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/luvtechno/articles/isucon2026-preparation</guid>
-      <pubDate>Wed, 11 Nov 2026 05:05:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫</title>
-      <link>https://zenn.dev/dress_code/articles/568fd547315abe</link>
-      <description>こんにちは。Dress Code の HR Force チームで給与ドメインを担当している、いっしーです。
-僕はほぼ一日中、Claude Code や Codex に何かしら任せています。仕事では、決定とその理由を ADR に、実装する動作を OpenSpec の仕様書に残し、エージェントにはそれらを読ませてから作業させています。
-ところが、決めたはずのことが、いつのまにか変わっていることがあります。
-たとえば、仕様について質問しただけなのに、仕様を変える指示として記録されていたことがありました。了承していない提案が、次の作業では決定済みとして扱われていたこともあります。
-
-この記事で... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/568fd547315abe</guid>
-      <pubDate>Thu, 12 Nov 2026 03:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
