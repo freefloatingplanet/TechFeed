@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Nov 2026 15:14:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:42:24 +0000</lastBuildDate>
     <item>
-      <title>溶融塩高速炉の熱水力学のための反復ソルバー結合を用いた不変ニューラルネットワーク渦粘性閉鎖</title>
-      <link>https://arxiv.org/abs/2611.17067v2</link>
-      <description>システム解析モジュール（SAM）などのシステム熱水力コードは、粗いメッシュ上での乱流を代数的なゼロ方程式混合長モデルで閉じます。これらのモデルでは、開放型キャビティ先進原子炉の非平衡乱流、流れの剥離、および大規模な再循環を表現することはできません。そこで、SAM用の不変ニューラルネットワーク渦粘性閉包を開発し、溶融塩高速炉（MSFR）に適用しました。この閉包は、乱流輸送方程式を解くことなく、各要素の乱流運動エネルギーと時間スケールを、その近傍の要素の流れと形状から予測します。結果として得られる非負の渦粘性は、暗黙的な拡散演算子に入力され、運動量方程式の条件を良好に保ちます。この閉包が、並進、ガリレオブースト、回転、反射、および近傍順序に対して完全に不変であることを証明しました。高次の Nek5000 場でトレーニングされたネットワークは、粗い SAM メッシュ上で異なる特徴分布を示します。この共変量のシフトは、固定された Nek5000 ターゲットに対して SAM フロー状態上でネットワークを反復的に再トレーニングすることによって除去されます。保持された定常状態では、結合されたクロージ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17067v2</guid>
-      <pubDate>Thu, 12 Nov 2026 16:41:34 +0000</pubDate>
+      <title>GHySSeg: ハイブリッド固体LiDAR向けリアルタイム幾何学的地盤・道路セグメンテーション</title>
+      <link>https://arxiv.org/abs/2611.21507v1</link>
+      <description>ハイブリッド型ソリッドステートLiDARセンサーは量産車に搭載されつつありますが、生成されるデータは、今日の自動運転データセットの基盤となっている従来の回転式機械センサーのデータとは構造的に異なります。つまり、リングがなく、高密度で、雑然としており、正面視野に集中しています。自動運転車が走行可能空間の計算とナビゲーションに用いる従来の幾何学的手法は、360度回転LiDARの整然としたリングと列の構造を前提としており、このデータでは性能が低下したり、機能しなくなったりします。一方、学習による代替手法は計算負荷が高く、認証が難しく、ほぼ回転LiDARデータのみで学習されています。本稿では、同じ高密度で曲線ごとの形状が、業界で好まれるセンサーと自動運転研究との間のギャップを埋める機会となることを示します。本稿では、GHySSegという純粋に幾何学的な手法を紹介します。これは、各スキャン曲線をトレースし、高さのステップと距離の折り返しという2つの幾何学的特徴を読み取ることで、単一のハイブリッドソリッドステートLiDARフレームから地面と走行可能な道路をセグメント化する手法で、トレーニングもグラ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.21507v1</guid>
+      <pubDate>Mon, 16 Nov 2026 18:04:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
