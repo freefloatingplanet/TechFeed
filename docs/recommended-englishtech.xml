@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:22:03 +0000</lastBuildDate>
     <item>
-      <title>GitHubがCopilotアプリの差分表示画面を再構築し、数百万行のプルリクエストをスムーズに処理できるようにしました。</title>
-      <link>https://www.infoq.com/news/2026/11/github-pull-requests-rebuild/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <description>GitHubのエンジニアは、2,200個のファイル、100万行を超える変更行、400個のインラインコメントを含むプルリクエストを処理できるように、Copilotアプリの差分表示を再構築しました。この設計では、固定高さのコード行と可変高さのコメントブロックを分離し、ビューポート付近でバッチ単位で計測します。パフォーマンスは、CI予算と自動アプリ実行によってチェックされます。執筆：Daniel Curtis (source: InfoQ)</description>
-      <guid isPermaLink="true">https://www.infoq.com/news/2026/11/github-pull-requests-rebuild/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-      <pubDate>Mon, 16 Nov 2026 10:32:00 +0000</pubDate>
+      <title>Microsoftが.NET 11をリリース：C# 15の共用体型、ネイティブAOT CLIホスト、MAUIでのCoreCLRのデフォルト実装</title>
+      <link>https://www.infoq.com/news/2026/11/dotnet-11-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <description>マイクロソフトは、2年間のサポート期間が保証された標準サポート版である.NET 11をリリースしました。.NET 11には、共用体型と閉じた階層構造を備えたC# 15、ネイティブAOT CLIホスト、ランタイム非同期のプレビュー、Zstandard圧縮、非同期検証、ASP.NET CoreにおけるOpenAPI 3.2、.NET MAUIのデフォルトランタイムとしてのCoreCLR、そして実験的なベクトル検索機能を備えたEF Core 11が含まれています。 Almir Vuk著 (source: InfoQ)</description>
+      <guid isPermaLink="true">https://www.infoq.com/news/2026/11/dotnet-11-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+      <pubDate>Tue, 17 Nov 2026 10:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

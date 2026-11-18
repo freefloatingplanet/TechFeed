@@ -7,34 +7,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:42:22 +0000</lastBuildDate>
-    <item>
-      <title>中国が「長征2号丁」を打ち上げ　宇宙科学計画「太空探源」の技術試験衛星を軌道投入</title>
-      <link>https://sorae.info/ssn/20261112-tanyuan-pathfinder.html</link>
-      <description>CASC（中国航天科技集団）は日本時間2026年11月11日、中国・甘粛省の酒泉衛星発射センターから「長征2号丁」ロケットを打ち上げ、搭載されていた「探源計画探路者衛星（CAS Pathfinder-1）」を所定の軌道へ… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/ssn/20261112-tanyuan-pathfinder.html</guid>
-      <pubDate>Thu, 12 Nov 2026 04:33:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>謎の天体「リトル・レッド・ドット」は超大質量星から生まれたブラックホールを宿す銀河？</title>
-      <link>https://sorae.info/astronomy/20261114-lrd-direct-collapse-black-hole.html</link>
-      <description>ポーツマス大学のDaniel Whalen氏を筆頭とする研究チームは、初期宇宙の謎の天体「リトル・レッド・ドット」の正体について、ブラックホールだとする説を後押しする結果がシミュレーションを通じて得られたとする研究成果を… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20261114-lrd-direct-collapse-black-hole.html</guid>
-      <pubDate>Sat, 14 Nov 2026 10:48:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>黒い点の正体は？　NASA「ボイジャー1号」が撮影した土星とテティスとディオネ</title>
-      <link>https://sorae.info/astronomy/20261117-saturn-tethys-dione.html</link>
-      <description>こちらは、NASA（アメリカ航空宇宙局）の惑星探査機「ボイジャー1号（Voyager 1）」が撮影した土星と、その衛星「テティス」「ディオネ」。1980年11月3日、土星から約1300万kmの距離で撮影されました。 NA… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20261117-saturn-tethys-dione.html</guid>
-      <pubDate>Tue, 17 Nov 2026 08:05:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 15:21:57 +0000</lastBuildDate>
     <item>
       <title>ULAの「バルカン」打ち上げ失敗　Amazon Leoの衛星40機を軌道に投入できず</title>
       <link>https://sorae.info/ssn/20261116-vulcan-amazon-leo-lv-01.html</link>
       <description>ULA（ユナイテッド・ローンチ・アライアンス）は日本時間2026年11月16日、ケープカナベラル宇宙軍基地から「Vulcan（バルカン、ヴァルカン）」ロケットを打ち上げました。しかし、飛行開始から約10分後に異常が発生し… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/ssn/20261116-vulcan-amazon-leo-lv-01.html</guid>
       <pubDate>Mon, 16 Nov 2026 07:21:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>光の弧からダークマターの謎に迫る　ハッブル宇宙望遠鏡が観測した9つの「重力レンズ」</title>
+      <link>https://sorae.info/astronomy/20261118-strong-gravitational-lenses-hubble.html</link>
+      <description>こちらは、ハッブル宇宙望遠鏡が観測した9つの「重力レンズ」。どの画像でも、中央で輝く銀河を青や赤の光の弧やリングが取り巻いています。この光は何なのか、そして天文学者はこの光から何を調べようとしているのでしょうか。 &amp;nb… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20261118-strong-gravitational-lenses-hubble.html</guid>
+      <pubDate>Wed, 18 Nov 2026 14:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>「宇宙はフロンティアからインフラへ」SPACETIDE石田氏・JAXA津田氏・アストロスケール岡田氏が語った、宇宙業界で求められる人材とリアル</title>
+      <link>https://sorabatake.jp/47502/</link>
+      <description>2026年9月26日、宇宙業界の合同転職・就職イベント「SPACETIDE Career Connect 2026 Summer」（主催：一般社団法人SPACETIDE）が東京・虎ノ門で開催されました。
+本記事では、主催者である一般社団法人SPACETIDE代表理事兼CEO・石田真康さんのオープニング挨拶、石田さんとJAXA宇宙科学研究所 教授・副所長の津田雄一さんによる特別対談、そしてアストロスケールホールディングス CEOの岡田光信さんによるスペシャルメッセージの3つのコンテンツで語られた内容を紹介します。 (source: 宙畑)</description>
+      <guid isPermaLink="true">https://sorabatake.jp/47502/</guid>
+      <pubDate>Wed, 18 Nov 2026 03:47:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>JAXAが小惑星探査機「はやぶさ2」拡張ミッションの目的地を変更　イオンエンジン不調で</title>
+      <link>https://sorae.info/astronomy/20261118-hayabusa2.html</link>
+      <description>JAXA（宇宙航空研究開発機構）は2026年11月17日、小惑星探査機「はやぶさ2」の拡張ミッションに関する記者説明会を開催し、イオンエンジンの不調を受けた探査計画の変更について説明しました。最終目的地としていた小惑星「… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/astronomy/20261118-hayabusa2.html</guid>
+      <pubDate>Wed, 18 Nov 2026 02:04:25 +0000</pubDate>
     </item>
     <item>
       <title>独Isar Aerospace、衛星打ち上げに初成功。7号機まで製造中【宇宙ビジネスニュース】</title>
@@ -58,13 +59,6 @@
       <pubDate>Thu, 12 Nov 2026 12:29:26 +0000</pubDate>
     </item>
     <item>
-      <title>エンケ彗星の核は細長い形？　すばる望遠鏡で観測した熱放射の時間変化をもとに推定</title>
-      <link>https://sorae.info/astronomy/20261112-2p_enche-subaru.html</link>
-      <description>産業医科大学の大坪貴文氏を筆頭とする研究チームは、すばる望遠鏡が2003年11月に中間赤外線で観測した「エンケ彗星（2P/Encke）」のデータを解析し、彗星の本体である核（彗星核）の形と表面温度を推定したとする研究成果… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20261112-2p_enche-subaru.html</guid>
-      <pubDate>Thu, 12 Nov 2026 01:05:13 +0000</pubDate>
-    </item>
-    <item>
       <title>Rocket Labが「Electron」100回目の打ち上げ成功を盛大に祝福。搭載衛星はQPS研究所の小型SAR衛星【現地取材】</title>
       <link>https://sorabatake.jp/47500/</link>
       <description>2026年11月14日、Rocket Labは小型ロケット「Electron」の通算100回目となる打上げに成功しました。搭載されていたのはQPS研究所の衛星で、両者の代表が笑顔で握手する場面もありました。 (source: 宙畑)</description>
@@ -77,6 +71,13 @@
       <description>NASAは、次期月面輸送サービス「CLPS 2」の契約企業8社を選定しました。日本のispaceの米国法人も選ばれ、月着陸船「ULTRA」を活用した個別ミッションの受注を目指します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/47484/</guid>
       <pubDate>Sun, 08 Nov 2026 22:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>米Umbraの新型SAR衛星が最短4日で初画像　急拡大する小型SAR市場、日本勢との違いは？</title>
+      <link>https://sorae.info/biz/20261118-umbra-13-14.html</link>
+      <description>アメリカ企業のUmbra（アンブラ）は2026年11月16日（現地時間）、同社の新型SAR（合成開口レーダー）衛星「Umbra-13」「Umbra-14」が初画像を取得したと発表しました。あわせて、今後の7機の打ち上げ枠… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/biz/20261118-umbra-13-14.html</guid>
+      <pubDate>Wed, 18 Nov 2026 07:09:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:42:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:22:01 +0000</lastBuildDate>
     <item>
-      <title>GHySSeg: ハイブリッド固体LiDAR向けリアルタイム幾何学的地盤・道路セグメンテーション</title>
-      <link>https://arxiv.org/abs/2611.21507v1</link>
-      <description>ハイブリッド型ソリッドステートLiDARセンサーは量産車に搭載されつつありますが、生成されるデータは、今日の自動運転データセットの基盤となっている従来の回転式機械センサーのデータとは構造的に異なります。つまり、リングがなく、高密度で、雑然としており、正面視野に集中しています。自動運転車が走行可能空間の計算とナビゲーションに用いる従来の幾何学的手法は、360度回転LiDARの整然としたリングと列の構造を前提としており、このデータでは性能が低下したり、機能しなくなったりします。一方、学習による代替手法は計算負荷が高く、認証が難しく、ほぼ回転LiDARデータのみで学習されています。本稿では、同じ高密度で曲線ごとの形状が、業界で好まれるセンサーと自動運転研究との間のギャップを埋める機会となることを示します。本稿では、GHySSegという純粋に幾何学的な手法を紹介します。これは、各スキャン曲線をトレースし、高さのステップと距離の折り返しという2つの幾何学的特徴を読み取ることで、単一のハイブリッドソリッドステートLiDARフレームから地面と走行可能な道路をセグメント化する手法で、トレーニングもグラ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.21507v1</guid>
-      <pubDate>Mon, 16 Nov 2026 18:04:36 +0000</pubDate>
+      <title>総合医用画像セグメンテーションのための検索強化型補正</title>
+      <link>https://arxiv.org/abs/2611.23189v1</link>
+      <description>自動セグメンテーションは、定量的画像ベースの臨床ワークフローの最初のステップとして日常的に使用されており、予測されたマスクはその後、人間のオペレーターによってレビューおよび修正されます。残存する構造エラーの自動修正は現在、一度に 1 つの解剖学的構造に対処しているため、トレーニングされた修正器の数はセグメンテーション対象の数に比例します。本稿では、検証済みの過去の症例の共有知識ベースから得られたコンテキストに基づいて入力マスクを編集する検索拡張リファイナーである GRACE を紹介します。リファイナーは、コンパクト臓器、空洞、分岐血管、および腫瘍病変にまたがるマルチ臓器コーパスで一度トレーニングされます。ホールドアウトデータセット転送評価では、3 つのホールドアウトデータセットが、トレーニングデータのみから構築された固定知識ベースにクエリを実行します。別のリーブワン解剖学的構造除外実験では、パラメータフリーのインデックス拡張をテストします。未知の固形臓器の検証済み症例が知識ベースに追加され、リファイナーは固定されたままになります。凍結されたマルチモーダルエンコーダ上の軽量形状認識投影ヘ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.23189v1</guid>
+      <pubDate>Tue, 17 Nov 2026 18:33:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
