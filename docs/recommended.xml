@@ -7,56 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 15:21:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:28:23 +0000</lastBuildDate>
     <item>
-      <title>物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門</title>
-      <link>https://zenn.dev/turing_motors/articles/cea9e3c85611b2</link>
-      <description>1. はじめに
-AIが「いま何を考えているのか」を、人間はどうやって知ればいいのでしょうか？
-我々チューリング株式会社は、カメラ映像から走行軌跡を直接予測するEnd-to-End（E2E）自動運転AIを開発しています。社内では、予測軌跡をカメラ映像に重ねる可視化が、実車試験の振り返りからデモ映像まで、あらゆる場面で使われています。
-https://x.com/DaisukeMAN/status/2109111871228022910
-自動運転AIが出力する「自車がこの先数秒間でどこを通るか」という生の座標列から、曲がり方の良し悪しを読み取るのは簡単ではありません。一方、同じ予測をカ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/turing_motors/articles/cea9e3c85611b2</guid>
-      <pubDate>Mon, 16 Nov 2026 08:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Geminiが電話も支払いも代行する「タスク」モード、日本でも無料で提供開始 | テクノエッジ TechnoEdge</title>
-      <link>https://www.techno-edge.net/article/2026/11/18/5756.html</link>
-      <description>Googleは11月17日（米国時間）、Geminiアプリに用事を任せられる「タスク」モードを追加したと発表しました。米国、日本、韓国、カナダ、オーストラリア、インドで、無料での提供を始めています。モデルにはGemini 4 Hydrogenを使います。 使い方は、Geminiアプリのホーム画面にある切り替えを「Chat」から「Task」にす... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://www.techno-edge.net/article/2026/11/18/5756.html</guid>
-      <pubDate>Wed, 18 Nov 2026 00:39:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Desktop 開発のすゝめ</title>
-      <link>https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop</link>
+      <title>vue-tscの壁を越える：vizeとtsrsでVueの型検査を高速化した</title>
+      <link>https://zenn.dev/studio/articles/vue-typecheck-vize-tsrs</link>
       <description>はじめに
-PeopleX でプロダクト開発をしている Aki です。もともとフロントエンドのエンジニアで、最近はバックエンドの実装にも挑戦しています。
-私のメインのエディタは、ここ数年 VS Code でした。使い始めたのは前の職場にいた2018年ごろだったと思います（その前は Atom を使っていました）。ちょうど Subversion から GitHub に本格的に移り、JavaScript から TypeScript に書き換えていった時期です。
-いまは Claude Desktop の Code タブで開発のほとんどを済ませていて、VS Code は 2026年7月27日を最... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop</guid>
-      <pubDate>Tue, 17 Nov 2026 03:41:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>企業でAIの効果はどこに出るのか、成果と失敗パターンを整理してみた</title>
-      <link>https://qiita.com/ma333/items/db15bd2e5cfd0c3fc056?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>AI活用の効果、問われますよね
-「AIコストが増えているのに、期待したような効果が出ていないのではないか」と感じることはありませんか？
-イーロン・マスク氏は『AIが人間を大きく上回る「超知能」に到達しても、デジタルの世界だけで働くAIでは、世界の財やサービスの生産を20〜... (source: Qiita - 人気の記事)</description>
-      <guid isPermaLink="true">https://qiita.com/ma333/items/db15bd2e5cfd0c3fc056?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-      <pubDate>Tue, 17 Nov 2026 22:57:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか</title>
-      <link>https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd</link>
-      <description>こんにちは、クロステック・マネジメント Foundation Dept. 所属の水本です。
-Foundation Dept. では、要求仕様書を渡すと、設計から実装、テスト、PR 作成までを AI エージェントが完走する開発基盤を作っています。
-エージェントに工程を自律的に回させるための実行の仕組みを、私たちはエージェントハーネスと呼んでいます（なぜエージェントハーネスで開発パイプラインを作っているのか）。
-この記事では、その基盤でフロントエンドの実装をエージェントにどう分けて任せるかについて、まだ結論の出ていない、いま試している案を書きます。
+社内のリポジトリで、.vue を含む型検査を vue-tsc から tsrs + vize に置き換えました。CI の typecheck ジョブは中央値で 570 秒から 123 秒になり、メインのアプリの型検査は約 13 倍速く、メモリは約 64% 減りました。
 
- 前提：通しの形から、工程に分ける形へ
-... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd</guid>
-      <pubDate>Mon, 16 Nov 2026 23:00:05 +0000</pubDate>
+この記事では、Vue のプロジェクトが型検査の高速化から取り残されていた理由と、それを解いた TypeScript 7.1 の content mapper という仕組み、その上で動く vize と tsrs という道具、実プロジェクトに入れたときに起きたことを紹介します。
+
+ AI 開発では CI の検証が... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/studio/articles/vue-typecheck-vize-tsrs</guid>
+      <pubDate>Wed, 18 Nov 2026 14:26:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>「子が私の暗殺方法、AIに相談してた」反抗期の小学生の子どもの行動に心身疲れてしまった母親がXに投稿「将来に少しでも道筋をつけてあげられたらって。毒親なのかねえ」</title>
+      <link>https://togetter.com/li/2772442</link>
+      <description>おっきぃ @okkie0711 ちょっとメンタル折れたかも。子が私の暗殺方法ＡＩに相談してた。 そっかー。 いなくなってもいいんだ。 知らないよマジで。 鬱で休職中の父親と不登校の自分をどうにかできるんなら暗殺でもなんでもすればいいさ。 教育虐待どころか遅れているのを少しぐらいやったらってレベルだし、家の手伝いす... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
+      <guid isPermaLink="true">https://togetter.com/li/2772442</guid>
+      <pubDate>Thu, 19 Nov 2026 11:53:12 +0000</pubDate>
     </item>
     <item>
       <title>QA生産性を爆上げさせるためのQA AIプラットフォーム構築</title>
@@ -72,6 +41,16 @@ QAチームをAIでどう変えようとしているか
 QA工程を12個のSkillにし、チー... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/gatechnologies/articles/8bdea59269eb10</guid>
       <pubDate>Mon, 16 Nov 2026 09:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス</title>
+      <link>https://zenn.dev/nttdata_tech/articles/9562962cc181a1</link>
+      <description>自分の仕事を、コーディングAgentに自律的に進めてほしい。
+一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。
+これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。
+ほかにも困っていたことがあります。今でこそOrcaのように、いろいろなコーディングAgentを複数のターミナルで同じように扱える開発環境（ADE: Agentic Development Environment）がありますが、当時は過去の作業を追えない、同じ指示を何度もしている、Claude CodeとCodexで設定が分かれていく、という状態でし... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/9562962cc181a1</guid>
+      <pubDate>Thu, 19 Nov 2026 07:28:27 +0000</pubDate>
     </item>
     <item>
       <title>決済という機能を実装するのは容易だが、思っていたより考えることが多かった</title>
@@ -94,34 +73,54 @@ QA工程を12個のSkillにし、チー... (source: Zennのトレンド)</descri
       <pubDate>Tue, 17 Nov 2026 11:22:51 +0000</pubDate>
     </item>
     <item>
-      <title>「テクノロジー、金融、法律の巨大なパズル」を、AIでどう解くか — コインチェックCTOの開発論</title>
-      <link>https://techfeed.io/entries/6afd4c3b49a7d098b46bb0f9?from=rss</link>
-      <description>暗号資産交換業を運営するコインチェック株式会社（以下、コインチェック）は、2026年9月、デリバティブ取引サービス「Coincheckレバレッジ」をリリースした。外部の専門家からは「長期間がかかる」と見積もったシステムを、結果的に半年でゼロから作り上げたという。執行役員CTOの石川侑樹氏は、この領域を「テクノロジーと金融と法律が絡み合った、巨大で重たいパズル」と表現する。そのパズルを解くのに、AIはどう活用されているのか？その開発プロセスの詳細までを伺った。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6afd4c3b49a7d098b46bb0f9?from=rss</guid>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+      <title>米司法省がAI検出ツールを法廷の攻撃材料に — 弁護側書面を「AIスロップ」と断じ、証拠として提出</title>
+      <link>https://techfeed.io/entries/6afe306949a7d098b46c01f4?from=rss</link>
+      <description>11月18日、Jason Koeblerが「The Department of Justice Is Using AI Detector Pangram Against Defense Attorneys」と題した記事を公開した。「AIスロップ」という言葉が連邦裁判所の公式書面に登場した——AI生成の粗悪なコンテンツを指すこの俗語が、今や司法省の検察官が弁護側を攻撃する武器として機能している。AIが幻覚で実在しない判例を引用した弁護士が叱責される事件が注目を集めてきたが、今回はさらに一歩踏み込んで、AI検出ツールそのものが訴訟戦術として持ち込まれた。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6afe306949a7d098b46c01f4?from=rss</guid>
+      <pubDate>Wed, 18 Nov 2026 23:10:33 +0000</pubDate>
     </item>
     <item>
-      <title>L40S 1台で社内RAGは何人まで使えるか</title>
-      <link>https://zenn.dev/epicai_techblog/articles/29b509117755af</link>
-      <description>はじめに
-社内にLLMを導入する際に、「このGPUで何人まで利用できるのか」とよく尋ねられます。答えはモデルや設定によって変わり、検索用の埋め込みモデルを同じGPUで動かすかどうかにも左右されます。そこで、実際の利用に近い条件で計測することにしました。
-利用人数を示した資料はすでにいくつか公開されています。
+      <title>AIエージェントの「その場でコード実行」にKubernetesの前提が崩れる — GoogleがGKEに積み上げた3つの新プリミティブ</title>
+      <link>https://techfeed.io/entries/6afe309849a7d098b46c0240?from=rss</link>
+      <description>11月18日、Olivepowerが「Running Untrusted AI Agents on GKE Agent Substrate: Sub-Second, Zero-Idle, and Sandboxed」と題した記事を公開した。GKEの上に構築されたAgent Substrateを使い、信頼できないAIエージェントをサブ秒・ゼロアイドル・サンドボックス環境で安全に実行する手法を解説している。ソースコードはGitHubリポジトリopowbow/gke_substrate_stocksで公開されている（リポジトリ名は著者のGitHubアカウント名に由来する）。AIエージェントがコードをその場で生成・実行する時代において、従来のKubernetesの前提が崩れつつある。Googleはその問題に対して、GKEの上に新たなプリミティブ群を積み上げることで対応した。なぜ通常のPodではAIエージェントに不十分なのか従来のマイクロサービスは、コードレビュー・CI/CD・CVEスキャン・Binary Authorizationを経て検証済みのコンテナとして動作する。ホストカーネルをLinu (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6afe309849a7d098b46c0240?from=rss</guid>
+      <pubDate>Wed, 18 Nov 2026 23:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>正しいUIデザインと、意図のあるUIデザイン</title>
+      <link>https://zenn.dev/praha/articles/08568310684aa3</link>
+      <description>個人開発のアプリではUIデザインを自分で決めることになります。HIGのようなガイドラインに従ったり、AIエージェントのデザインスキルを活用したりすることで、使う人を困らせない、正しいデザインに近づけることができます。
+しかし、ガイドライン同士はぶつかることがあります。たとえば、次の2つはどちらも正しいガイドラインです。
 
-BroadcomのSPOCはコーディング支援を想定し、H100 4枚に300人分の負荷をかけて、最初の文字が出るまでの時間のp95が10秒未満などの基準を満たすことを確認しています。300人は想定利用者数であり、上限を求めたものではありません。
-Red Hatの記事は、NVID... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/epicai_techblog/articles/29b509117755af</guid>
-      <pubDate>Tue, 17 Nov 2026 10:00:06 +0000</pubDate>
+ユーザーの手間を減らす
+正確な値を記録する
+
+値を推定して自動で埋めれば手間は減りますが、正確さは落ちます。どちらを取るべきかは、誰のためのアプリかによって変わります。
+この記事では、ガイドラインに順位を付けて、アプリの意図を表す手法を紹介します。順位を付けると、ガイド... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/praha/articles/08568310684aa3</guid>
+      <pubDate>Wed, 18 Nov 2026 05:55:40 +0000</pubDate>
     </item>
     <item>
-      <title>Museは「成長する相棒」になれるのか？ 記憶と改善の積み重ねを観察する</title>
-      <link>https://zenn.dev/daydream/articles/muse-observation-01-memory-and-boundaries</link>
-      <description>AIに仕事を頼んで、結果を受け取る。それだけなら、もう珍しくない。
-でも、こちらの目標を覚えて、先回りして考え、失敗を振り返り、次の仕事の進め方まで変えていくとしたら？ 私は最近、その可能性に興味を持っている。
-きっかけはMetaのパーソナルAIエージェント「Muse」だった。使い始めて驚いたのは、回答のうまさ以上に、秘書のように段取りを考えて仕事を前に進めようとするところだった。
-だから、ベンチマークの点数だけではわからないことを調べたくなった。記憶や自己改善の一つ一つが正しくても、積み重なった「全体」は本当に良くなっているのか。
-情報が追加され、不要なものが消され、要約や統合（コンパ... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/daydream/articles/muse-observation-01-memory-and-boundaries</guid>
-      <pubDate>Tue, 17 Nov 2026 11:31:17 +0000</pubDate>
+      <title>最近、コードを真面目に読まなくなった</title>
+      <link>https://zenn.dev/hiromoo/articles/reading-less-preparing-more</link>
+      <description>最近、コードを真面目に読むことが減りました。
+AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。
+決して、不真面目になったつもりはありません。
+私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。
+大体正しいものを、毎回同じ熱量で読み込む。その時間に、以前と同じだけの意味があるのか。
+それよりも、AIが正しく仕事をできる前提を整える方に、自分の時間を使う価値があるのではないかと思っています。
+
+ 大体正しいコードを、毎回精読する価値
+コードを読めば、何かしら気になるところは見つかりま... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hiromoo/articles/reading-less-preparing-more</guid>
+      <pubDate>Mon, 16 Nov 2026 15:24:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>「リスクを理解すれば、AIはもっと強い味方になる」— コインチェックCAOが語る、AIガバナンスとROIのリアル</title>
+      <link>https://techfeed.io/entries/6afd49dc49a7d098b46baedb?from=rss</link>
+      <description>暗号資産交換業を運営するコインチェック株式会社（以下、コインチェック）。金融機関として、そして米ナスダック上場企業グループの一員として、厳しい統制が求められる企業である。そのコインチェック全社のAI推進を進める、執行役員CAO (Chief Administrative Officer)である宇都正洋氏に、AI時代とどう向き合い、コインチェックの社内体制をAIでどう再構築しようとしているのか、そのリアルな実態を詳しく伺った。  「AIと言っても、大きなガバナンスの論点がたくさんあるわけではない」── まずは自己紹介をお願いします。宇都 正洋氏: コインチェックで執行役員CAO (Chief Administrative Officer)を務めている宇都です。コーポレート本部長として、人事、経理、財務、それから社内ITサービス、いわゆる情シスを見ています。あと、2026年の4月に「コーポレートインテリジェンス部」という部署を立ち上げました。もともとバラバラに動いていた経営企画部とAIのチームを統合したものです。平たく言えば、経営データを、AIを通して、滑らかに経営の意思決定に繋ぐ部隊を作 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6afd49dc49a7d098b46baedb?from=rss</guid>
+      <pubDate>Thu, 19 Nov 2026 02:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

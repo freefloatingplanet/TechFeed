@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 15:21:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:28:27 +0000</lastBuildDate>
     <item>
       <title>ULAの「バルカン」打ち上げ失敗　Amazon Leoの衛星40機を軌道に投入できず</title>
       <link>https://sorae.info/ssn/20261116-vulcan-amazon-leo-lv-01.html</link>
@@ -23,12 +23,11 @@
       <pubDate>Wed, 18 Nov 2026 14:20:34 +0000</pubDate>
     </item>
     <item>
-      <title>「宇宙はフロンティアからインフラへ」SPACETIDE石田氏・JAXA津田氏・アストロスケール岡田氏が語った、宇宙業界で求められる人材とリアル</title>
-      <link>https://sorabatake.jp/47502/</link>
-      <description>2026年9月26日、宇宙業界の合同転職・就職イベント「SPACETIDE Career Connect 2026 Summer」（主催：一般社団法人SPACETIDE）が東京・虎ノ門で開催されました。
-本記事では、主催者である一般社団法人SPACETIDE代表理事兼CEO・石田真康さんのオープニング挨拶、石田さんとJAXA宇宙科学研究所 教授・副所長の津田雄一さんによる特別対談、そしてアストロスケールホールディングス CEOの岡田光信さんによるスペシャルメッセージの3つのコンテンツで語られた内容を紹介します。 (source: 宙畑)</description>
-      <guid isPermaLink="true">https://sorabatake.jp/47502/</guid>
-      <pubDate>Wed, 18 Nov 2026 03:47:02 +0000</pubDate>
+      <title>スペインのPLD Spaceが三菱電機と商業打ち上げ契約　「Miura 5」第2回飛行で実証衛星を搭載へ</title>
+      <link>https://sorae.info/space/20261119-pld-space-mitsubishi-electric.html</link>
+      <description>スペインの民間宇宙企業PLD Space（ピーエルディー・スペース）は2026年11月18日、三菱電機株式会社と小型衛星の商業打ち上げ契約を締結したと発表しました。PLD Spaceが開発中の2段式ロケット「Miura … (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20261119-pld-space-mitsubishi-electric.html</guid>
+      <pubDate>Thu, 19 Nov 2026 01:18:45 +0000</pubDate>
     </item>
     <item>
       <title>JAXAが小惑星探査機「はやぶさ2」拡張ミッションの目的地を変更　イオンエンジン不調で</title>
@@ -36,6 +35,13 @@
       <description>JAXA（宇宙航空研究開発機構）は2026年11月17日、小惑星探査機「はやぶさ2」の拡張ミッションに関する記者説明会を開催し、イオンエンジンの不調を受けた探査計画の変更について説明しました。最終目的地としていた小惑星「… (source: sorae 宇宙へのポータルサイト)</description>
       <guid isPermaLink="true">https://sorae.info/astronomy/20261118-hayabusa2.html</guid>
       <pubDate>Wed, 18 Nov 2026 02:04:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>1光日の距離を越えた「ボイジャー1号」その行く手には何が？　ハッブルの観測が手がかりに</title>
+      <link>https://sorae.info/space/20261119-voyager-hubble.html</link>
+      <description>1977年9月にNASA（アメリカ航空宇宙局）が打ち上げた惑星探査機「ボイジャー1号（Voyager 1）」は、日本時間2026年11月18日19時16分に、人工物として初めて地球から1光日（約259億km）の距離に到達… (source: sorae 宇宙へのポータルサイト)</description>
+      <guid isPermaLink="true">https://sorae.info/space/20261119-voyager-hubble.html</guid>
+      <pubDate>Thu, 19 Nov 2026 12:33:21 +0000</pubDate>
     </item>
     <item>
       <title>独Isar Aerospace、衛星打ち上げに初成功。7号機まで製造中【宇宙ビジネスニュース】</title>
@@ -50,13 +56,6 @@
       <description>SpaceXが全米の地上の周波数を買う契約を結びました。周波数を「買う」とは何か、手続きの現在地、宇宙と地上を1つにする狙いを順に解説します。 (source: 宙畑)</description>
       <guid isPermaLink="true">https://sorabatake.jp/47336/</guid>
       <pubDate>Thu, 29 Oct 2026 23:02:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>“第2の月” 候補天体「Sar2901」に仮符号「2026 QQ8」を付与　天然の天体である可能性が高まる</title>
-      <link>https://sorae.info/astronomy/20261112-2026-qq8.html</link>
-      <description>「Sar2901」という天体をご存知でしょうか？　soraeでも2026年9月20日付の記事で情報発信をしております。この天体は一時的に地球の周回軌道に乗ったことで “第2の月” となったことが知られていますが、天然物な… (source: sorae 宇宙へのポータルサイト)</description>
-      <guid isPermaLink="true">https://sorae.info/astronomy/20261112-2026-qq8.html</guid>
-      <pubDate>Thu, 12 Nov 2026 12:29:26 +0000</pubDate>
     </item>
     <item>
       <title>Rocket Labが「Electron」100回目の打ち上げ成功を盛大に祝福。搭載衛星はQPS研究所の小型SAR衛星【現地取材】</title>

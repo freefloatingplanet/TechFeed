@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 15:22:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:28:29 +0000</lastBuildDate>
     <item>
-      <title>総合医用画像セグメンテーションのための検索強化型補正</title>
-      <link>https://arxiv.org/abs/2611.23189v1</link>
-      <description>自動セグメンテーションは、定量的画像ベースの臨床ワークフローの最初のステップとして日常的に使用されており、予測されたマスクはその後、人間のオペレーターによってレビューおよび修正されます。残存する構造エラーの自動修正は現在、一度に 1 つの解剖学的構造に対処しているため、トレーニングされた修正器の数はセグメンテーション対象の数に比例します。本稿では、検証済みの過去の症例の共有知識ベースから得られたコンテキストに基づいて入力マスクを編集する検索拡張リファイナーである GRACE を紹介します。リファイナーは、コンパクト臓器、空洞、分岐血管、および腫瘍病変にまたがるマルチ臓器コーパスで一度トレーニングされます。ホールドアウトデータセット転送評価では、3 つのホールドアウトデータセットが、トレーニングデータのみから構築された固定知識ベースにクエリを実行します。別のリーブワン解剖学的構造除外実験では、パラメータフリーのインデックス拡張をテストします。未知の固形臓器の検証済み症例が知識ベースに追加され、リファイナーは固定されたままになります。凍結されたマルチモーダルエンコーダ上の軽量形状認識投影ヘ (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.23189v1</guid>
-      <pubDate>Tue, 17 Nov 2026 18:33:42 +0000</pubDate>
+      <title>恒星回折エンコーディングを用いた人工天体光源によるCMB望遠鏡の絶対偏光角較正のための単発法</title>
+      <link>https://arxiv.org/abs/2611.21794v2</link>
+      <description>宇宙マイクロ波背景放射（CMB）望遠鏡の絶対偏光角を$\lesssim 0.1^\circ$レベルで較正することは、EモードがBモードに混ざり合うことで原始重力波や宇宙複屈折の制約が歪むのを防ぐために必要です。ドローン、気球、衛星などの人工偏光天体は較正基準を提供できますが、ペイロード座標系から天球座標系に放出される偏光角を変換することは依然として課題です。私たちは、そのようなあらゆる光源に適用可能な較正器アーキテクチャを提案します。このアーキテクチャでは、単一のデュアルユースグリッド光学系が放出されるミリ波信号の偏光軸を設定すると同時に、星光を同軸に配置されたスターカメラに回折します。得られた回折スペクトルは、星に対するグリッドの向きを記録するため、カメラとグリッド光学系の微調整なしに、空上で直接測定できます。本稿では、この概念の幾何学的および物理的側面について説明し、ペイロードの正確な姿勢が不要となり、受信偏光が小さな視線誤差に影響されないため、観測所が必要とする較正角度の取得が大幅に簡素化されることを示します。カメラとグリッドのずれ、レンズの歪み、横方向の色収差、大気による屈折、 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.21794v2</guid>
+      <pubDate>Mon, 16 Nov 2026 19:14:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
