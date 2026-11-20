@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 15:28:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:05:19 +0000</lastBuildDate>
     <item>
-      <title>恒星回折エンコーディングを用いた人工天体光源によるCMB望遠鏡の絶対偏光角較正のための単発法</title>
-      <link>https://arxiv.org/abs/2611.21794v2</link>
-      <description>宇宙マイクロ波背景放射（CMB）望遠鏡の絶対偏光角を$\lesssim 0.1^\circ$レベルで較正することは、EモードがBモードに混ざり合うことで原始重力波や宇宙複屈折の制約が歪むのを防ぐために必要です。ドローン、気球、衛星などの人工偏光天体は較正基準を提供できますが、ペイロード座標系から天球座標系に放出される偏光角を変換することは依然として課題です。私たちは、そのようなあらゆる光源に適用可能な較正器アーキテクチャを提案します。このアーキテクチャでは、単一のデュアルユースグリッド光学系が放出されるミリ波信号の偏光軸を設定すると同時に、星光を同軸に配置されたスターカメラに回折します。得られた回折スペクトルは、星に対するグリッドの向きを記録するため、カメラとグリッド光学系の微調整なしに、空上で直接測定できます。本稿では、この概念の幾何学的および物理的側面について説明し、ペイロードの正確な姿勢が不要となり、受信偏光が小さな視線誤差に影響されないため、観測所が必要とする較正角度の取得が大幅に簡素化されることを示します。カメラとグリッドのずれ、レンズの歪み、横方向の色収差、大気による屈折、 (source: arXiv Query: search_query=cat:cs.LG OR cat:cs.AI OR cat:astro-ph.IM OR cat:physics.space-ph OR cat:cs.NE OR cat:cs.MA OR cat:cs.RO OR cat:eess.SY&amp;id_list=&amp;start=0&amp;max_results=100)</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.21794v2</guid>
-      <pubDate>Mon, 16 Nov 2026 19:14:24 +0000</pubDate>
+      <title>JWSTによる47 Tucanaeの観測：I. 水素燃焼限界までの低質量主系列</title>
+      <link>https://arxiv.org/abs/2610.18995v1</link>
+      <description>本稿では、NIRCamを用いて取得した球状星団47 Tucanae（47 Tuc、またはNGC 104）のJWST観測に基づく一連の研究の最初の結果を発表する。新しいデータと以前のJWST観測を組み合わせることにより、複数年にわたるベースライン（約3年）で高精度の固有運動（PM）を導出し、主系列（MS）に沿って非常に暗い等級（F444W～24.25等級、約0.077太陽質量に相当、47 Tucの推定水素燃焼限界（約0.074太陽質量）をわずかに上回る）まで広がる星団メンバーのクリーンなサンプルを構築する。我々は、新しいF090WおよびF444W測光を用いて、47 Tucで以前に特定された低質量MSキンクの存在を調査した。これらのフィルターを使用しても、この特徴の有意な兆候は見つからず、これは、非常に低質量の星における炭素化学がメタン優勢平衡へと移行した結果であるという、提案された物理的解釈と一致しています。理論的な等時曲線との比較から、MSの底付近の恒星集団は酸素欠乏星が優勢である可能性が高く、これは以前の発見と一致しています。人工星テストを使用して、サンプルの完全性を定量化し、PMベ (source: arXiv Query: search_query=all:observation AND (all:star OR all:stellar) AND (all:formation OR all:forming OR all:star-forming) AND (all:region OR all:regions OR all:cluster) AND ( (all:planetary AND all:mass) OR (all:brown AND all:dwarf) OR (all:free AND all:floating) )&amp;id_list=&amp;start=0&amp;max_results=20)</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.18995v1</guid>
+      <pubDate>Tue, 13 Oct 2026 18:01:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

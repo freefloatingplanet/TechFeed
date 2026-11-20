@@ -7,84 +7,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 15:28:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:05:10 +0000</lastBuildDate>
     <item>
-      <title>vue-tscの壁を越える：vizeとtsrsでVueの型検査を高速化した</title>
-      <link>https://zenn.dev/studio/articles/vue-typecheck-vize-tsrs</link>
-      <description>はじめに
-社内のリポジトリで、.vue を含む型検査を vue-tsc から tsrs + vize に置き換えました。CI の typecheck ジョブは中央値で 570 秒から 123 秒になり、メインのアプリの型検査は約 13 倍速く、メモリは約 64% 減りました。
-
-この記事では、Vue のプロジェクトが型検査の高速化から取り残されていた理由と、それを解いた TypeScript 7.1 の content mapper という仕組み、その上で動く vize と tsrs という道具、実プロジェクトに入れたときに起きたことを紹介します。
-
- AI 開発では CI の検証が... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/studio/articles/vue-typecheck-vize-tsrs</guid>
-      <pubDate>Wed, 18 Nov 2026 14:26:28 +0000</pubDate>
+      <title>Cloudflareが文書・画像から構造化データを抽出するAIモデルをオープンウェイト公開 — レシート読み取り誤り207件→0件、1秒未満で処理</title>
+      <link>https://techfeed.io/entries/6aff80a749a7d098b46cb955?from=rss</link>
+      <description>11月19日、Cloudflareが「An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team」と題した記事を公開した。文書・画像からの構造化データ抽出に特化したモデル「Clairic（27B）」の更新版と、軽量版「Clairic-flash（9B）」をオープンウェイトで公開したというものだ。注目すべきは精度の変化で、プレビュー版でレシート画像の読み取りに生じていた誤り207件が、新版では0件に改善されている。アーキテクチャを根本から再設計しながらも、レスポンスタイムは1秒未満を維持している。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aff80a749a7d098b46cb955?from=rss</guid>
+      <pubDate>Thu, 19 Nov 2026 23:05:11 +0000</pubDate>
     </item>
     <item>
-      <title>「子が私の暗殺方法、AIに相談してた」反抗期の小学生の子どもの行動に心身疲れてしまった母親がXに投稿「将来に少しでも道筋をつけてあげられたらって。毒親なのかねえ」</title>
-      <link>https://togetter.com/li/2772442</link>
-      <description>おっきぃ @okkie0711 ちょっとメンタル折れたかも。子が私の暗殺方法ＡＩに相談してた。 そっかー。 いなくなってもいいんだ。 知らないよマジで。 鬱で休職中の父親と不登校の自分をどうにかできるんなら暗殺でもなんでもすればいいさ。 教育虐待どころか遅れているのを少しぐらいやったらってレベルだし、家の手伝いす... (source: はてなブックマーク - 人気エントリー - テクノロジー)</description>
-      <guid isPermaLink="true">https://togetter.com/li/2772442</guid>
-      <pubDate>Thu, 19 Nov 2026 11:53:12 +0000</pubDate>
+      <title>CLAUDE.md や SKILL.md のルールを Turtle で書き、ルールの書き間違いや矛盾を lint で検査してみた話</title>
+      <link>https://zenn.dev/hma2moto/articles/turtle-agent-rules-pros-cons</link>
+      <description>Claude Code では、エージェントに守ってほしい決まりを CLAUDE.md や SKILL.md に書いておくと、エージェントはそれを読んで作業します。私も最初はこうしたルールを普通の Markdown で書いていました。ところがルールが増えるにつれて、どの行がどのルールの例外か、同じ行為を別の場所で禁じていないか、なぜそのルールがあるのかが、読み返さないと分からなくなりました。
+YAML や JSON も考えましたが、「mustWrite は must の一種」のような、ルールに使う語どうしの関係まで決まった書き方で書ける形式は見つからず、Turtle という構文を試すことに... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/hma2moto/articles/turtle-agent-rules-pros-cons</guid>
+      <pubDate>Thu, 19 Nov 2026 14:13:57 +0000</pubDate>
     </item>
     <item>
-      <title>QA生産性を爆上げさせるためのQA AIプラットフォーム構築</title>
-      <link>https://zenn.dev/gatechnologies/articles/8bdea59269eb10</link>
-      <description>akkiです。2026年7月からGA technologiesに出戻り入社してQAエンジニアをしています。
-元々は2021年〜2024年6月まで在籍していました。
-以前はインプロセスQAとして活動していましたが、現在はプロダクトのQAからは離れ、QAプロセス全体の改善や、インプロセスQAを行っているメンバーの支援をしています。
-今回は出戻り入社してから現在まで私が取り組んできた、QA AIプラットフォーム「GAQ」を構築し、チーム内に定着させて生産性を向上させてきた話をします。
+      <title>日本のレシートを自宅PCでOCRする：15構成を実レシート11枚で比べた</title>
+      <link>https://zenn.dev/chaki/articles/4545be3475fdb4</link>
+      <description>自宅のPCで日本のレシートを読むなら、今回いちばん良かったのは YomiToku でした。軽量モデルで全体を読み、自信のない行だけ高精度モデルで読み直す「2段読み」で、商品名の完全一致93%、金額100%、1枚約1.8秒。ただし YomiToku は非商用ライセンスです。商用なら NDLOCR-Lite や PP-OCRv6 が現実的な候補になります。話題の画像対応AI（VLM）は、長いレシートで同じ文字を延々と繰り返す失敗が目立ちました。ただし手書きの領収書では順位がほぼ逆転し、VLM が上位を占めました。
 
- この記事でわかること
-
-QAチームをAIでどう変えようとしているか
-QA工程を12個のSkillにし、チー... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/gatechnologies/articles/8bdea59269eb10</guid>
-      <pubDate>Mon, 16 Nov 2026 09:12:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス</title>
-      <link>https://zenn.dev/nttdata_tech/articles/9562962cc181a1</link>
-      <description>自分の仕事を、コーディングAgentに自律的に進めてほしい。
-一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。
-これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。
-ほかにも困っていたことがあります。今でこそOrcaのように、いろいろなコーディングAgentを複数のターミナルで同じように扱える開発環境（ADE: Agentic Development Environment）がありますが、当時は過去の作業を追えない、同じ指示を何度もしている、Claude CodeとCodexで設定が分かれていく、という状態でし... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/9562962cc181a1</guid>
-      <pubDate>Thu, 19 Nov 2026 07:28:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>決済という機能を実装するのは容易だが、思っていたより考えることが多かった</title>
-      <link>https://zenn.dev/chot/articles/1297582ee96341</link>
-      <description>「API叩いてよしなにエラーハンドリングするだけやろ」と思っていました。
-支払うだけならそうなのですが、「サービスという枠組みの中に決済という機能がある」場合、決済という機能はサービスの信用を背負う責務があるため、支払わせて終わりというほど無責任にはいきません。
-
-こういうケースがある、あるかもな？
-こういう場合どうしよう
-
-上記を想定しきるのがとにかく大変だったので、備忘として残しておきます。
-
- 想定したケース
-
- 注文作成・金額の確定
-
- クライアントから送られた金額が変更されている
-画面から送られた金額をそのまま使うと、本来の価格と異なる金額で決済できてしまう。商品IDと数量をも... (source: Zennのトレンド)</description>
-      <guid isPermaLink="true">https://zenn.dev/chot/articles/1297582ee96341</guid>
-      <pubDate>Tue, 17 Nov 2026 11:22:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>米司法省がAI検出ツールを法廷の攻撃材料に — 弁護側書面を「AIスロップ」と断じ、証拠として提出</title>
-      <link>https://techfeed.io/entries/6afe306949a7d098b46c01f4?from=rss</link>
-      <description>11月18日、Jason Koeblerが「The Department of Justice Is Using AI Detector Pangram Against Defense Attorneys」と題した記事を公開した。「AIスロップ」という言葉が連邦裁判所の公式書面に登場した——AI生成の粗悪なコンテンツを指すこの俗語が、今や司法省の検察官が弁護側を攻撃する武器として機能している。AIが幻覚で実在しない判例を引用した弁護士が叱責される事件が注目を集めてきたが、今回はさらに一歩踏み込んで、AI検出ツールそのものが訴訟戦術として持ち込まれた。 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6afe306949a7d098b46c01f4?from=rss</guid>
-      <pubDate>Wed, 18 Nov 2026 23:10:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントの「その場でコード実行」にKubernetesの前提が崩れる — GoogleがGKEに積み上げた3つの新プリミティブ</title>
-      <link>https://techfeed.io/entries/6afe309849a7d098b46c0240?from=rss</link>
-      <description>11月18日、Olivepowerが「Running Untrusted AI Agents on GKE Agent Substrate: Sub-Second, Zero-Idle, and Sandboxed」と題した記事を公開した。GKEの上に構築されたAgent Substrateを使い、信頼できないAIエージェントをサブ秒・ゼロアイドル・サンドボックス環境で安全に実行する手法を解説している。ソースコードはGitHubリポジトリopowbow/gke_substrate_stocksで公開されている（リポジトリ名は著者のGitHubアカウント名に由来する）。AIエージェントがコードをその場で生成・実行する時代において、従来のKubernetesの前提が崩れつつある。Googleはその問題に対して、GKEの上に新たなプリミティブ群を積み上げることで対応した。なぜ通常のPodではAIエージェントに不十分なのか従来のマイクロサービスは、コードレビュー・CI/CD・CVEスキャン・Binary Authorizationを経て検証済みのコンテナとして動作する。ホストカーネルをLinu (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6afe309849a7d098b46c0240?from=rss</guid>
-      <pubDate>Wed, 18 Nov 2026 23:11:20 +0000</pubDate>
+ きっかけと前提
+自作の経費管理アプリで、レシートの写真から店名・日付・品目... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/chaki/articles/4545be3475fdb4</guid>
+      <pubDate>Fri, 20 Nov 2026 04:33:15 +0000</pubDate>
     </item>
     <item>
       <title>正しいUIデザインと、意図のあるUIデザイン</title>
@@ -99,6 +46,13 @@ QA工程を12個のSkillにし、チー... (source: Zennのトレンド)</descri
 この記事では、ガイドラインに順位を付けて、アプリの意図を表す手法を紹介します。順位を付けると、ガイド... (source: Zennのトレンド)</description>
       <guid isPermaLink="true">https://zenn.dev/praha/articles/08568310684aa3</guid>
       <pubDate>Wed, 18 Nov 2026 05:55:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>数分の録音からブランド専用の合成音声を生成できる「Amazon Polly ボイスクローニング」が一般提供開始 — 作成は無料、ウォーターマーク自動付与で悪用対策も</title>
+      <link>https://techfeed.io/entries/6aff80b849a7d098b46cb96c?from=rss</link>
+      <description>11月20日、AWSが「Amazon Polly launches voice cloning: A unique voice for your brand」と題した記事を公開した。数分間の録音サンプルからブランド専用の合成音声を生成できる「Amazon Polly ボイスクローニング」が一般提供（GA）開始となった。ボイスの作成自体は無料で、生成された音声にはウォーターマークが自動付与される悪用対策も備える。ただし現時点ではゲートリリース（申請制）となっており、一部の既存顧客のみアクセスが有効化されている点には注意が必要だ。GAとして発表されているが、すべてのAWSユーザーが即座に利用できるわけではなく、それ以外のユーザーはAWSアカウントチームへの問い合わせまたはアクセス申請が必要となる。ElevenLabsやOpenAI（Voice Engine）など、ボイスクローニング技術を提供するサービスが急増するなか、各国でディープフェイク音声や無断クローニングへの規制議論が高まっている。そうした背景から、今回のAmazonのリリースはウォーターマーク付与・同意管理・録音データの非保持とい (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
+      <guid isPermaLink="true">https://techfeed.io/entries/6aff80b849a7d098b46cb96c?from=rss</guid>
+      <pubDate>Thu, 19 Nov 2026 23:05:28 +0000</pubDate>
     </item>
     <item>
       <title>最近、コードを真面目に読まなくなった</title>
@@ -116,11 +70,66 @@ AIに実装を任せて、出てきた差分を最初から最後まで丁寧に
       <pubDate>Mon, 16 Nov 2026 15:24:23 +0000</pubDate>
     </item>
     <item>
-      <title>「リスクを理解すれば、AIはもっと強い味方になる」— コインチェックCAOが語る、AIガバナンスとROIのリアル</title>
-      <link>https://techfeed.io/entries/6afd49dc49a7d098b46baedb?from=rss</link>
-      <description>暗号資産交換業を運営するコインチェック株式会社（以下、コインチェック）。金融機関として、そして米ナスダック上場企業グループの一員として、厳しい統制が求められる企業である。そのコインチェック全社のAI推進を進める、執行役員CAO (Chief Administrative Officer)である宇都正洋氏に、AI時代とどう向き合い、コインチェックの社内体制をAIでどう再構築しようとしているのか、そのリアルな実態を詳しく伺った。  「AIと言っても、大きなガバナンスの論点がたくさんあるわけではない」── まずは自己紹介をお願いします。宇都 正洋氏: コインチェックで執行役員CAO (Chief Administrative Officer)を務めている宇都です。コーポレート本部長として、人事、経理、財務、それから社内ITサービス、いわゆる情シスを見ています。あと、2026年の4月に「コーポレートインテリジェンス部」という部署を立ち上げました。もともとバラバラに動いていた経営企画部とAIのチームを統合したものです。平たく言えば、経営データを、AIを通して、滑らかに経営の意思決定に繋ぐ部隊を作 (source: TechFeedおすすめ記事ランキング - すべてカテゴリー)</description>
-      <guid isPermaLink="true">https://techfeed.io/entries/6afd49dc49a7d098b46baedb?from=rss</guid>
-      <pubDate>Thu, 19 Nov 2026 02:30:00 +0000</pubDate>
+      <title>AIが爆速で開発する時代の、自動テストとの向き合い方</title>
+      <link>https://zenn.dev/daiaoki/articles/webterm-ai-era-testing</link>
+      <description>WebTerm Learnという、プロのエンジニアを目指す人のためのオンライン学習サービスを個人で開発しています。
+
+スライドで仕組みを学び、そのままブラウザの中のターミナルでコマンドを打って練習する、という形で学べます。
+
+ありがたいことに、いまは1日1校のペースで教育機関に導入していただいています！その一方で、バグを出してはいけないというプレッシャーも日に日に大きくなっています。
+
+生徒「あれ、正しいコマンドを打ってるはずなのに次に進まない…？」
+先生「おかしいな、確認したときは問題なかったんだけど…」
+
+授業で使われるサービスでは、この一言で授業が止まります。「また別の日にやりまし... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/daiaoki/articles/webterm-ai-era-testing</guid>
+      <pubDate>Thu, 19 Nov 2026 07:11:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>RTKの走行データ収集でAndroidの記録アプリを外から監視する</title>
+      <link>https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f</link>
+      <description>こんにちは。ナウア株式会社の柳です。
+私たちは、測定装置とエッジAI端末を組み合わせた調査機器を運用しています。
+機器の状態を確かめたり設定を変えたりする管理画面は、自社で開発したWebアプリです。
+研究・開発に使うため、車両で走行データを集めることもあります。
+走行中の位置の記録に使うのは、RTKの受信機とAndroidのアプリ「DroggerGPS」（以下DrGPS）です。
+データを集めるための走行には、車両とドライバーと時間がかかります。
+途中で記録が止まっていても走行を終えるまで気づけなければ、その走行はやり直しです。
+そこでDrGPSを監視するAndroidアプリを作り、記録で... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>MetaのMuseを使ってみた: 内部構造とセキュリティの調査</title>
+      <link>https://zenn.dev/shoyataguchi/articles/b1bc6a96d4b963</link>
+      <description>Muse が発表されたときも、話は耳に入っていました。ただ、LLM 領域でパッとしない Meta のプロダクトだし、そこまで革命的なものではないだろうと思って、しばらく放っておきました。
+ところが、日が経つにつれて、アメリカ・日本のアプリストアで 1 位になった報道や、X での多くの投稿を見るようになりました。これは何か革命的なことが起きているのかもしれない、と興味をそそられ、元々 Facebook(今の Meta)出身でもあることの縁も合わさって、試しに入れてみました。
+本記事は 2 週間ほど使用してみた感想と、公式発表を読んだ上での内部構造と安全面の設計についてまとめます。
+
+ 使っ... (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/shoyataguchi/articles/b1bc6a96d4b963</guid>
+      <pubDate>Thu, 19 Nov 2026 15:55:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─</title>
+      <link>https://zenn.dev/karamage/books/50c18e52e7d19e</link>
+      <description>AIエージェントに仕事を頼むと、自信満々の報告と一緒に検証されていない大量のコードが届いて困ったことはありませんか？
+
+AIエージェントを使い始めた人はもちろん、日常的に使いこなしているエンジニアでも、「どうすれば品質を担保できるのか」「どこまで自律的に仕事を任せられるのか」という疑問は共通の課題ではないでしょうか
+
+pstack は、元React コアチームのエンジニア poteto（Lauren Tan）氏が、日々の開発で使っているスキルを公開したものです
+
+本書は、pstackの思想から実践までを体系的に解説した初心者から中上級者までを対象とする実践ガイドです。
+
+単なるスキルの使い方にとどまらず、AIエージェントの仕事の進め方そのものを見直し、検証可能で信頼できる開発ワークフローをどう構築するかまで踏み込みます。
+
+この本を読むと、明日からAIへの仕事の任せ方が変わります
+
+- 寝る前に仕事を頼み、朝には検証済みのPRが作成されている
+- AIの「直しました」を、実行結果や動作確認の証拠つきで受け取れる
+- コードレビューする必要性が減り、動画やスクショのチェックだけでマージで (source: Zennのトレンド)</description>
+      <guid isPermaLink="true">https://zenn.dev/karamage/books/50c18e52e7d19e</guid>
+      <pubDate>Thu, 19 Nov 2026 01:52:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
